@@ -1,0 +1,4 @@
+%s/Greococcyx/Geococcyx/g
+%s/G-eococcyx/Geococcyx/g
+%s/G-eococcys/Geococcyx/g
+

@@ -1,0 +1,14 @@
+#sed 's/  / /g'|
+#sed 's/ p\./ p\. /'|
+#sed '/no\.[1-9][0-9] / s/ no\./ no\.0/'|sed '/no\.[1-9] /s/ no\./ no\.00/'|
+#sed '/art\.[1-9][0-9] / s/ art\./ no\.0/'|sed '/art\.[1-9] /s/ art\./ art\.00/'|
+#sed 's/Nomenclature//'|sed 's/Systematics//'|sed 's/Type//'|sed 's/Concept//'|sed 's/Citation//'|
+#sed 's/  / /g'|
+#sed  '/pt[1-9] / s/ pt/ pt 00/'|
+#sed  '/pt[1-9][0-9] / s/ pt/ pt 0/'|
+#sed  '/livr\.[1-9] / s/ livr\./ livr\. 00/'|
+#sed '/livr\.[1-9][0-9] / s/ livr\./ livr\. 0/'|sort -n|uniq|more
+#print "RICB"
+#egrep $1 RICB|more
+#print "RIGSP"
+#egrep $1 RIGSP
