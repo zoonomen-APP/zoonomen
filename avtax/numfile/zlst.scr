@@ -1,0 +1,25 @@
+# 2019.01.22
+# script to start with cball and end up with
+# Seq_num Genus sp ssp.
+# may want to add step to put underbar in spaces of names.
+#
+# 1. produce cballed.html
+# Do this outside the script and remove or add taxa to the resultant cball.html
+#
+#./cbmake.sh
+#
+# 2. make intermediate file restricting <li>'s to taxa and removing extraneous
+# lines -- note the extraneous line removal may not be necessary.
+cat cballed.html|sed -f makecb.sed > jnk.1
+#
+#
+ egrep '<li>Tax' jnk.1|awk '{print $1,$2,$3,$4}'|sed -f listprod.sed|sed -f tagsed|cut  -d " " -f 2-4|awk '{print NR,$0}' > ztxlst01.txt
+#
+cat ztxlst01.txt|sed 's/ /_/g' | sed 's/_/ /1' > ztxlst02.txt
+# Need to put an intermediate step in, so taxa can be removed at the cbmake.sh 
+# stage.
+awk '{print $2,$1}' ztxlst02.txt > ztxlst03.txt
+sort -d ztxlst03.txt > ztxts.001
+awk '{print $1}' ztxts.001|sed -f ztemp.sed > ztxts.002
+cut -f 2-4 -d " " ztxlst01.txt > zcmp.001
+awk 'NF==2'  zcmp.001 > zcmp.002

@@ -1,0 +1,500 @@
+ 1269  f Ortalis
+ 1270  qr remota
+ 1271  rq remota
+ 1272  q Ornitolog
+ 1273  q Orn.Br
+ 1274  p remota
+ 1275  renew
+ 1276  f Orthotomus
+ 1277  f Orhto
+ 1278  f Orthot
+ 1279  renew
+ 1280  renew
+ 1281  q Av.Res
+ 1282  q Av|e Res
+ 1283  renew
+ 1284  renew
+ 1285  renew
+ 1286  r Oryzob
+ 1287  f Oryzob
+ 1288  renew
+ 1289  egrep '^<li>[A-Z][a-z]* [a-z][a-z]* $' ????.html
+ 1290  egrep '^<li>[A-Z][a-z]* [a-z][a-z]* $' ????.html|less
+ 1291  egrep '^<li>[A-Z][a-z]* [a-z][a-z]* $' pa[0-9]?.html|less
+ 1292  egrep -l '^<li>[A-Z][a-z]* [a-z][a-z]* $' pa[0-9]?.html|less
+ 1293  egrep -l '^<li>[A-Z][a-z]* [a-z][a-z]* $' pa[0-9]?.html`
+ 1294  vi `egrep -l '^<li>[A-Z][a-z]* [a-z][a-z]* $' pa[0-9]?.html`
+ 1295  renew
+ 1296  f Oxyura
+ 1297  qr andina
+ 1298  rq andina
+ 1299  rq andina|e Lehm
+ 1300  rq Lehmann
+ 1301  q Lehmann
+ 1302  q Auk|e 194
+ 1303  q Auk|e 1946
+ 1304  renew
+ 1305  f Paramyth
+ 1306  renew
+ 1307  f cinnamomeus
+ 1308  egrep 'Passer cinnamom' pa??.html
+ 1309  egrep 'Passer cinnamo' pa??.html
+ 1310  egrep 'Passer ' pa??.html
+ 1311  egrep 'Passer ' pa??.html|less
+ 1312  renew
+ 1313  q Conover
+ 1314  q Conover|e 1938
+ 1315  q Field |e Mus
+ 1316  cal Dec 1938
+ 1317  cal 12 1938
+ 1318  renew
+ 1319  q Chubb|e 1917
+ 1320  renew
+ 1321  q recondita
+ 1322  q Todd|e 1937
+ 1323  q Schau|e 1950
+ 1324  renew
+ 1325  q Fishcer
+ 1326  q Tessler
+ 1327  q PLOS
+ 1328  egrep -i PLOS ????.html
+ 1329  q PLoS
+ 1330  q Pelecanoides
+ 1331  f Pelecanoides
+ 1332  q Fisher
+ 1333  q Fischer
+ 1334  q Cole
+ 1335  renew
+ 1336  q scortil
+ 1337  qioc scortil
+ 1338  f Pellorneum
+ 1339  renew
+ 1340  f Peltops
+ 1341  renew
+ 1342  f Petrochelidon
+ 1343  q melanogast|e Sw
+ 1344  rq melanogaster
+ 1345  rq melanogast|e Swain
+ 1346  q Swain|e 1827
+ 1347  q Swain|e 1827|less
+ 1348  p melanogast
+ 1349  q Swain|e 1827|e Phil
+ 1350  q Swain|e 1827|e Phil|less
+ 1351  renew
+ 1352  f Pharomachr
+ 1353  renew
+ 1354  renew
+ 1355  f Philentoma
+ 1356  ls
+ 1357  renew
+ 1358  renew
+ 1359  f Phleocrypt
+ 1360  renew
+ 1361  qioc leucoleps
+ 1362  qioc leucolep
+ 1363  f Phyllastrephus
+ 1364  renew
+ 1365  f Phyllergates
+ 1366  vi pa3r.html
+ 1367  renew
+ 1368  vi gennam.html
+ 1369  renew
+ 1370  f Phylloscopus
+ 1371  renew
+ 1372  renew
+ 1373  q Kloss|e 1919
+ 1374  q Kloss|e 1919|e oc
+ 1375  cp ./numfile/cball.html .
+ 1376  q Elliott
+ 1377  q Hoyo
+ 1378  q Beche
+ 1379  q Vries
+ 1380  renew
+ 1381  f Geranotus
+ 1382  f Geranoaetus
+ 1383  q Kloss|e 1919|e oc
+ 1384  q Burton
+ 1385  renew
+ 1386  renew
+ 1387  renew
+ 1388  q Howard
+ 1389  q Dickinson
+ 1390  q Christidis
+ 1391  renew
+ 1392  renew
+ 1393  q Ng
+ 1394  f Myzomela
+ 1395  renew
+ 1396  qioc ibericus
+ 1397  renew
+ 1398  renew
+ 1399  cat renew.sh
+ 1400  cat ./tools/renew.sh
+ 1401  ls -tr ./tools
+ 1402  cat ./tools/ios.sh
+ 1403  cat ./tools/ioc.sh
+ 1404  alias
+ 1405  cat update.sh
+ 1406  ls -tr ./numfile/pa3*.html
+ 1407  ls -tr
+ 1408  vi ./numfile/cball.html
+ 1409  cp ./numfile/cball.html .
+ 1410  renew
+ 1411  renew
+ 1412  vi ./numfile/ztxts.002
+ 1413  renes
+ 1414  renew
+ 1415  renew
+ 1416  renew
+ 1417  q Dick|e Chris
+ 1418  renew
+ 1419  q Bangs|e 1913
+ 1420  q Bangs|e 191
+ 1421  q Bangs|e Wash
+ 1422  renew
+ 1423  q Jerdon
+ 1424  renew
+ 1425  qioc Seicercus
+ 1426  qioc affin
+ 1427  qioc affin|less
+ 1428  e '^<li' pa3t.html
+ 1429  e '^<li' pa3t.html|wc
+ 1430  e '^<li' pa3t.html| awk '{print $1,$2}'
+ 1431  e '^<li' pa3t.html| awk '{print $1,$2}'|sed -f tagsed
+ 1432  e '^<li' pa3t.html| awk '{print $1,$2}'|sed -f tagsed >zphyll.001
+ 1433  cd ./ioc91
+ 1434  ls -tr
+ 1435  ls ioctxt.*
+ 1436  head ioctxt.001
+ 1437  awk '$0~/Phylloscopus/&&NF==2' ioctxt.001
+ 1438  awk '$0~/Phylloscopus/&&NF==2' ioctxt.001 iphyll.001
+ 1439  awk '$0~/Phylloscopus/&&NF==2' ioctxt.001 > iphyll.001
+ 1440  cd ../
+ 1441  e '^<li' pa3t.html| awk '{print $1,$2}'|sed -f tagsed >zphyll.001
+ 1442  renew
+ 1443  renew
+ 1444  f Pica
+ 1445  q Pica
+ 1446  f asirensis
+ 1447  f Pica
+ 1448  q Lonnberg
+ 1449  q FaunaFlora
+ 1450  renew
+ 1451  e '^<li' pa39.html|wc
+ 1452  renew
+ 1453  f Podargus
+ 1454  renew
+ 1455  f Poospiza
+ 1456  renew
+ 1457  f Porphyrio
+ 1458  renew
+ 1459  renew
+ 1460  f Pseudobul
+ 1461  cd ./ioc91
+ 1462  ls *.sed
+ 1463  vi extdel.sed
+ 1464  iocprep.scr
+ 1465  ./iocprep.scr
+ 1466  ls -tr
+ 1467  egrep rupinar ioctxtx.001
+ 1468  egrep rupinar ioctxts.001
+ 1469  vi extdel.sed
+ 1470  ./iocprep.scr
+ 1471  egrep rupinar ioctxts.001
+ 1472  cat ./iocprep.scr
+ 1473  egrep rupinar ioctxt.002
+ 1474  vi extdel.sed
+ 1475  ./iocprep.scr
+ 1476  vi extdel.sed
+ 1477  ./iocprep.scr
+ 1478  f Zentrygon
+ 1479  cd ../
+ 1480  f Zentrygon
+ 1481  q subgrisea
+ 1482  q Chap|e 1922
+ 1483  q trinitat
+ 1484  q Seilern
+ 1485  q Seilern|less
+ 1486  renew
+ 1487  f Xiphocolaptese
+ 1488  f Xiphocolaptes
+ 1489  renew
+ 1490  f Urosphena
+ 1491  renew
+ 1492  f Uropelia
+ 1493  renew
+ 1494  f Urochroa
+ 1495  renew
+ 1496  cd ./ioc91
+ 1497  vi extdel.sed
+ 1498  ./iocprep.scr
+ 1499  cd ../
+ 1500  f Upucerthia
+ 1501  renew
+ 1502  f Turnagra
+ 1503  vi ../cit/RI/SP/RIspTotal.html
+ 1504  q Fleming
+ 1505  renew
+ 1506  f Trogon
+ 1507  q Bonap|e 1856|e Compt
+ 1508  q Bonap|e 1856|e Compt|e ' 42 '
+ 1509  renew
+ 1510  q Brodkorb
+ 1511  f Troglodyte
+ 1512  renew
+ 1513  f Trichastoma
+ 1514  renew
+ 1515  f Thryophilus
+ 1516  renew
+ 1517  f Tesia
+ 1518  q Renner
+ 1519  q Aung
+ 1520  q Dumbacher
+ 1521  renew
+ 1522  f Fringilla
+ 1523  f Tarphonomus
+ 1524  renew
+ 1525  vi jnk
+ 1526  cat jnk
+ 1527  f Syndactytla
+ 1528  f Syndactyla
+ 1529  qioc baeri
+ 1530  f Asthenese
+ 1531  f Asthenes
+ 1532  renew
+ 1533  renew
+ 1534  renew
+ 1535  renew
+ 1536  f Surinic
+ 1537  f Surnic
+ 1538  renew
+ 1539  f Sugomel
+ 1540  renew
+ 1541  renew
+ 1542  renew
+ 1543  renew
+ 1544  f Stelgidopt
+ 1545  renew
+ 1546  f Sporophila
+ 1547  q TLWA
+ 1548  egrep TLWA cball.html
+ 1549  egrep TLWA cball.html|less
+ 1550  renew
+ 1551  e '^<li' pa65.html|wc
+ 1552  renew
+ 1553  renew
+ 1554  f Sholicola
+ 1555  q Robin
+ 1556  renew
+ 1557  f Scytalop
+ 1558  renew
+ 1559  f Sclerurus
+ 1560  ls -l pa[0-9]?.html
+ 1561  ls -l pa[0-9]?.html|sort -n -k 5
+ 1562  f Sclerurus
+ 1563  q Pinto|e 1954
+ 1564  f Thamnophil
+ 1565  f Thamnophilus
+ 1566  renew
+ 1567  f Schoenicola
+ 1568  renew
+ 1569  f Salpinctes
+ 1570  renew
+ 1571  f Robsonius
+ 1572  renew
+ 1573  f Riparia
+ 1574  renew
+ 1575  renew
+ 1576  f Rhipidura
+ 1577  e '^<li' pa37.html|wc
+ 1578  renew
+ 1579  f Remiz
+ 1580  renew
+ 1581  f Regulus
+ 1582  q Packert
+ 1583  q J.Av
+ 1584  renew
+ 1585  q J.Av
+ 1586  f Ramphocelus
+ 1587  e '^<li' pa65.html|wc
+ 1588  renew
+ 1589  renew
+ 1590  renew
+ 1591  f Ramphocaenus
+ 1592  e '^<li' pa47.html|wc
+ 1593  e '^<li' pa47.html|wc
+ 1594  renew
+ 1595  q Phelps|e Avel
+ 1596  renew
+ 1597  q West
+ 1598  q WesternBirds
+ 1599  renew
+ 1600  renew
+ 1601  renew
+ 1602  renew
+ 1603  f Pyrilia
+ 1604  renew
+ 1605  renew
+ 1606  f Pycnonotus
+ 1607  q layardi
+ 1608  q Gurney
+ 1609  q spurius
+ 1610  q Reichenow|e 1905
+ 1611  renew
+ 1612  cd ./ioc91
+ 1613  ls *.sed
+ 1614  vi iocedit.sed
+ 1615  ./iocprep.scr
+ 1616  renew
+ 1617  cd ../
+ 1618  renew
+ 1619  qr hain
+ 1620  rq hain
+ 1621  rq hainan
+ 1622  rq hainan|e Hach
+ 1623  q Hachisuka
+ 1624  q Hachisuka|less
+ 1625  q Orn.Soc
+ 1626  q Japan
+ 1627  renew
+ 1628  q Deignan
+ 1629  q Deignan|less
+ 1630  q Deignan|e Auk
+ 1631  renew
+ 1632  f Puffinus
+ 1633  e '^<li' pa3x.html|wc
+ 1634  e '^<h4' pa3x.html|wc
+ 1635  renew
+ 1636  f Ptilinopus
+ 1637  renew
+ 1638  renew
+ 1639  e '^<h4' colu.html|wc
+ 1640  e '^<li' colu.html|wc
+ 1641  f Pteruth
+ 1642  renew
+ 1643  f Psophodes
+ 1644  e '^<h4' pa33.html|wc
+ 1645  e '^<li' pa33.html|wc
+ 1646  renew
+ 1647  f Psophodes
+ 1648  renew
+ 1649  renew
+ 1650  renew
+ 1651  e '^<li' pa28.html|wc
+ 1652  e '^<h4' pa28.html|wc
+ 1653  cd ./ioc91
+ 1654  ls *.sed
+ 1655  vi extdel.sed
+ 1656  iocprep.scr
+ 1657  ./iocprep.scr
+ 1658  vi extdel.sed
+ 1659  ./iocprep.scr
+ 1660  f Nycticor
+ 1661  cd ../
+ 1662  f Nycticor
+ 1663  rq austral
+ 1664  rq austral|e Viei
+ 1665  p australas
+ 1666  i australas
+ 1667  alias i=./tools/i.sh
+ 1668  i australas
+ 1669  i australas|e Vie
+ 1670  q Viei|e 1823
+ 1671  renew
+ 1672  diff ztxts.002 ./ioc91/ioctxts.001
+ 1673  diff ./numfile/ztxts.002 ./ioc91/ioctxts.001
+ 1674  f Rallicula
+ 1675  e '^<h4' pele.html|wc
+ 1676  e '^<li' pele.html|wc
+ 1677  renew
+ 1678  diff ./numfile/ztxts.002 ./ioc91/ioctxts.001
+ 1679  rq ceylon
+ 1680  rq ceylon|e Reich
+ 1681  q Reichen|e 1851
+ 1682  q Vollst
+ 1683  f Penelop
+ 1684  f Penelopina
+ 1685  f Systellura
+ 1686  diff ./numfile/ztxts.002 ./ioc91/ioctxts.001
+ 1687  q Vollst
+ 1688  renew
+ 1689  diff ./numfile/ztxts.002 ./ioc91/ioctxts.001
+ 1690  f Systellura
+ 1691  renew
+ 1692  diff ./numfile/ztxts.002 ./ioc91/ioctxts.001
+ 1693  e '^<li' pass.html|wc
+ 1694  vi ?pass.html
+ 1695  e '^<h4' pass.html|wc
+ 1696  vi hpass.html
+ 1697  renes
+ 1698  renew
+ 1699  cd ./numfile
+ 1700  ls *pa*.*
+ 1701  ls *pa*.html
+ 1702  mv pass.html pass.htmx
+ 1703  ls 0???????.html
+ 1704  ls 0???????.html|less
+ 1705  cat 0???????.html|egrep '^<li'|wc
+ 1706  cat 0???????.html|egrep '^<h4'|wc
+ 1707  mv pass.htmx pass.html
+ 1708  cd ..
+ 1709  vi toc.html
+ 1710  cd ./numfile
+ 1711  ls -tr
+ 1712  head ztxlst03.txt
+ 1713  head ztxlst02.txt
+ 1714  head ztxlst01.txt
+ 1715  ls
+ 1716  head ztxlst.txt
+ 1717  ls -tr
+ 1718  ls -tr z*.*
+ 1719  head ztxlst.txt
+ 1720  ls -tr
+ 1721  head cb2.txt
+ 1722  cd ../ioc91
+ 1723  ls -tr
+ 1724  head ioctxt.002
+ 1725  head ioctxt.002 > jnk.1
+ 1726  vi jnk.1
+ 1727  q Kvist
+ 1728  cd ../
+ 1729  q Kvist
+ 1730  f Regulus
+ 1731  cd ./numfile
+ 1732  ls z*.*
+ 1733  ls -tr z*.txt
+ 1734  head ztxlst03.txt
+ 1735  head ztxlst02.txt
+ 1736  head ztxlst01.txt
+ 1737  man cut
+ 1738  cut -f 2-4 ztxlst01.txt
+ 1739  cut -f 2-4 -d " " ztxlst01.txt
+ 1740  cut -f 2-4 -d " " ztxlst01.txt > zcmp.001
+ 1741  cd ./numfile
+ 1742  cd ../ioc91
+ 1743  ls
+ 1744  head ioctxt.001
+ 1745  head ioctxt.002
+ 1746  cp ioctxt.002 ../numfile
+ 1747  ls -tr
+ 1748  cd ../
+ 1749  cd ./numfile
+ 1750  ls -tr
+ 1751  head zcmp.001
+ 1752  awk 'NF==2'  zcmp.001
+ 1753  awk 'NF==2'  zcmp.001 > zcmp.002
+ 1754  ls -tr
+ 1755  head ioctxt.002
+ 1756  awk 'NF==2'  ioctxt.002 > ioctxt.003
+ 1757  vi ioctxt.003
+ 1758  sed -f ../ioc91/extdel.sed ioctxt.003 > ioctxt.004
+ 1759  f Bulweria
+ 1760  cd ../
+ 1761  f Bulweria
+ 1762  renew
+ 1763  cat renew
+ 1764  alias
+ 1765  cat update.sh
+ 1766  cd ./numfile
+ 1767  cat zlst.scr
+ 1768  history > hx021601.txt

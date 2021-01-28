@@ -1,0 +1,140 @@
+cp -puv  pa01.html 0220pa01.html
+cp -puv  pa0c.html 0225pa0c.html
+cp -puv  pa02.html 0230pa02.html
+cp -puv  pa03.html 0235pa03.html 
+cp -puv  pa05.html 0236pa05.html
+cp -puv  pa09.html 0238pa09.html
+cp -puv  pa13.html 0240pa13.html
+cp -puv  pa1e.html 0245pa1e.html
+cp -puv  pa10.html 0248pa10.html
+cp -puv  pa1a.html 0250pa1a.html
+cp -puv  pa1b.html 0252pa1b.html
+cp -puv  pa08.html 0260pa08.html
+cp -puv  pa07.html 0270pa07.html
+cp -puv  pa06.html 0280pa06.html
+cp -puv  pa1c.html 0290pa1c.html
+cp -puv  pa1j.html 0360pa1j.html
+cp -puv  pa1m.html 0370pa1m.html
+cp -puv  pa1p.html 0380pa1p.html
+cp -puv  pa1s.html 0390pa1s.html
+cp -puv  pa1v.html 0400pa1v.html
+cp -puv  pa1y.html 0410pa1y.html
+cp -puv  pa20.html 0420pa20.html
+cp -puv  pa21.html 0430pa21.html
+cp -puv  pa22.html 0440pa22.html
+cp -puv  pa23.html 0450pa23.html
+cp -puv  pa24.html 0460pa24.html
+cp -puv  pa25.html 0470pa25.html
+cp -puv  pa26.html 0480pa26.html
+cp -puv  pa2f.html 0482pa2f.html
+cp -puv  pa27.html 0490pa27.html
+cp -puv  pa29.html 0491pa29.html
+cp -puv  pa28.html 0492pa28.html
+cp -puv  pa2a.html 0500pa2a.html
+cp -puv  pa2b.html 0505pa2b.html
+cp -puv  pa2e.html 0507pa2e.html
+cp -puv  pa2g.html 0508pa2g.html
+cp -puv  pa2c.html 0509pa2c.html
+cp -puv  pa2d.html 0510pa2d.html
+cp -puv  pa2o.html 0512pa2o.html
+cp -puv  pa2i.html 0570pa2i.html
+cp -puv  pa2j.html 0575pa2j.html
+cp -puv  pa2m.html 0580pa2m.html
+cp -puv  pa2q.html 0600pa2q.html
+cp -puv  pa2s.html 0610pa2s.html
+cp -puv  pa2u.html 0620pa2u.html
+cp -puv  pa2w.html 0625pa2u.html
+cp -puv  pa31.html 0630pa31.html
+cp -puv  pa35.html 0635pa35.html
+cp -puv  pa32.html 0640pa32.html
+cp -puv  pa33.html 0650pa33.html
+cp -puv  pa34.html 0660pa34.html
+cp -puv  pa36.html 0680pa36.html
+cp -puv  pa37.html 0690pa37.html
+cp -puv  pa38.html 0700pa38.html
+cp -puv  pa39.html 0710pa39.html
+cp -puv  pa3a.html 0720pa3a.html
+cp -puv  pa3b.html 0723pa3b.html
+cp -puv  pa3d.html 0726pa3d.html  Ifritidae Ifrit
+cp -puv  pa3c.html 0730pa3c.html  Paradisaeidae Birds-of-paradise
+cp -puv  pa3e.html 0740pa3e.html  Petroicidae Australasian Robins
+cp -puv  pa3g.html 0750pa3g.html  Picathartidae Rockfowl
+cp -puv  pa3h.html 0752pa3h.html  Chaetopidae Rockjumpers
+cp -puv  pa3j.html 0754pa3j.html  Eupetidae Rail-babbler
+cp -puv  pa2p.html 0756pa2p.html  Bombycillidae Waxwings  
+cp -puv  pa2r.html 0758pa2r.html  Ptiliogonatidae Silky-flycatchers
+cp -puv  pa3i.html 0760pa3i.html  Hypocoliidae Hypocolius
+cp -puv  pa3k.html 0770pa3k.html  Dulidae Palmchat
+cp -puv  pa3l.html 0771pa3l.html  Mohoidae Oos
+cp -puv  pa2t.html 0772pa2t.html  Hylocitreidae Hylocitrea 
+cp -puv  pa2x.html 0773pa2x.html  Stenostiridae Fairy Flycatchers
+cp -puv  pa3n.html 0780pa3n.html  Paridae Tits, Chickadees
+cp -puv  pa3o.html 0790pa3o.html  Remizidae Penduline Tits
+cp -puv  pa2v.html 0793pa2v.html  Nicatoridae Nicators
+cp -puv  pa2y.html 0794pa2y.html  Panuridae Bearded Reedling
+cp -puv  pa3u.html 0795pa3u.html  Alaudidae Larks
+cp -puv  pa3x.html 0798pa3x.html  Pycnonotidae Bulbuls
+cp -puv  pa3q.html 0800pa3q.html  Hirundinidae Swallows, Martins
+cp -puv  pa2z.html 0801pa2z.html  Pnoepygidae Cupwings
+cp -puv  pa3y.html 0802pa3y.html  Macrosphenidae Crombecs, African Warblers
+cp -puv  pa3r.html 0803pa3r.html  Cettiidae Cettia Bush Warblers & Allies
+cp -puv  pa3f.html 0804pa3f.html  Scotocercidae Streaked Scrub Warbler
+cp -puv  pa3m.html 0805pa3m.html  Erythrocercidae Yellow Flycatchers
+cp -puv  pa3p.html 0807pa3p.html  Incertae Sedis Graueria, Hylia, Pholidornis
+cp -puv  pa3s.html 0808pa3s.html  Aegithalidae Bushtits
+cp -puv  pa3t.html 0810pa3t.html  Phylloscopidae Leaf Warblers & Allies
+cp -puv  pa3w.html 0814pa3w.html  Acrocephalidae Reed Warblers & Allies
+cp -puv  pa4a.html 0816pa4a.html  Locustellidae Grassbirds & Allies
+cp -puv  pa4q.html 0817pa4q.html  Donacobiidae Black-capped Donacobius
+cp -puv  pa4c.html 0818pa4c.html  Bernieridae Madagascan Warblers
+cp -puv  pa3v.html 0830pa3v.html  Cisticolidae Cisticolas & Allies
+cp -puv  pa3z.html 0862pa3z.html  Timaliidae Babblers, Scimitar Babblers
+cp -puv  pa4e.html 0865pa4e.html  Pellorneidae Fulvettas, Ground Babblers
+cp -puv  pa4g.html 0870pa4g.html  Leiothrichidae Laughingthrushes & Allies
+cp -puv  pa4h.html 0871pa4h.html  Sylviidae Sylviid Babblers
+cp -puv  pa40.html 0872pa40.html  Zosteropidae White-eyes
+cp -puv  pa41.html 0873pa41.html  Modulatricidae Dapple-throat & Allies
+cp -puv  pa4m.html 0874pa4m.html  Promeropidae Sugarbirds
+cp -puv  pa42.html 0875pa42.html  Irenidae Fairy-bluebirds
+cp -puv  pa43.html 0876pa43.html  Regulidae Goldcrests, Kinglets
+cp -puv  pa4k.html 0877pa4k.html  Elachuridae Elachura
+cp -puv  pa44.html 0878pa44.html  Hyliotidae Hyliotas
+cp -puv  pa46.html 0879pa46.html  Troglodytidae Wrens
+cp -puv  pa47.html 0880pa47.html  Polioptilidae Gnatcatchers
+cp -puv  pa48.html 0881pa48.html  Sittidae Nuthatches
+cp -puv  pa4n.html 0882pa4n.html  Tichodromidae Wallcreeper
+cp -puv  pa49.html 0883pa49.html  Certhiidae Treecreepers
+cp -puv  pa4b.html 0885pa4b.html  Mimidae Mockingbirds, Thrashers
+cp -puv  pa4d.html 0887pa4d.html  Sturnidae Starlings, Rhabdornis
+cp -puv  pa4f.html 0889pa4f.html  Buphagidae Oxpeckers
+cp -puv  pa4j.html 0891pa4j.html  Turdidae Thrushes
+cp -puv  pa4l.html 0893pa4l.html  Muscicapidae Chats, Old World Flycatchers
+cp -puv  pa45.html 0895pa45.html  Cinclidae Dippers
+cp -puv  pa4p.html 0897pa4p.html  Chloropseidae Leafbirds
+cp -puv  pa4r.html 0898pa4r.html  Dicaeidae Flowerpeckers
+cp -puv  pa4t.html 0899pa4t.html  Nectariniidae Sunbirds
+cp -puv  pa4v.html 0900pa4v.html  Passeridae Old World Sparrows, Snowfinches
+cp -puv  pa4w.html 0903pa4w.html  Ploceidae Weavers, Widowbirdsl
+cp -puv  pa4x.html 0904pa4x.html  Estrildidae Waxbills, Munias & Allies
+cp -puv  pa4y.html 0905pa4y.html  Viduidae Indigobirds, Whydahs
+cp -puv  pa51.html 0912pa51.html  Peucedramidae Olive Warblerl
+cp -puv  pa53.html 0914pa53.html  Prunellidae Accentors
+cp -puv  pa50.html 0915pa50.html  Motacillidae Wagtails, Pipits
+cp -puv  pa52.html 0920pa52.html  Urocynchramidae Przevalski's Finch
+cp -puv  pa60.html 0925pa60.html  Fringillidae Finches, Euphonias
+cp -puv  pa6a.html 0927pa6a.html  Calcariidae Longspurs, Snow Buntings
+cp -puv  pa6b.html 0928pa6a.html  Rhodinocichlidae Thrush-tanager
+cp -puv  pa64.html 0930pa64.html `Emberizidae Buntings
+cp -puv  pa6d.html 0932pa6d.html  Passerellidae New World Sparrows
+cp -puv  pa6f.html 0933pa6f.html  Calyptophilidae Chat-tanagers
+cp -puv  pa6g.html 0934pa6g.html  Phaenicophilidae Hispaniolan Tanagers
+cp -puv  pa6i.html 0935pa6i.html  Nesospingidae Puerto Rican Tanager
+cp -puv  pa6k.html 0937pa6i.html  Spindalidae Spindalises
+cp -puv  pa6m.html 0938pa6m.html  Zeledonidae Wrenthrush
+cp -puv  pa6p.html 0939pa6p.html  Teretristridae Cuban Warblers
+cp -puv  pa6r.html 0940pa6r.html  Icteriidae Yellow-breasted Chat
+cp -puv  pa6s.html 0941pa6s.html  Icteridae Oropendolas, Orioles, Blackbirds
+cp -puv  pa61.html 0942pa61.html  Parulidae New World Warblers
+cp -puv  pa6t.html 0943pa6t.html  Mitrospingidae Mitrospingid Tanagers 	
+cp -puv  pa65.html 0995pa65.html  Cardinalidae Cardinals & Allies
+cp -puv  pa66.html 0997pa66.html  Thraupidae Tanagers & Allies

@@ -1,0 +1,500 @@
+  363  i Voy|e Merid
+  364  i Voy|e Merid|wc
+  365  i pennata
+  366  i pennata|less
+  367  i pennata|e Orb
+  368  i aym|e Orb
+  369  b pennata
+  370  b pennata|e Orb
+  371  q aymara
+  372  i aymara
+  373  b aymara
+  374  b aymara|e Orb
+  375  i Arara
+  376  i Arara|less
+  377  i Arara|e Orb
+  378  p pennata
+  379  f Rhea
+  380  b Arara
+  381  b Arara|e Orb
+  382  i aymara
+  383  f aymara
+  384  vi psit.html
+  385  b aymara
+  386  b aymara|less
+  387  q Voy.Amer.me
+  388  q Orb
+  389  q Voy.Am.me
+  390  q Voy.Am.me|less
+  391  ./cb2.sh
+  392  q Voy.Am.me|less
+  393  q Voy.Am.me|less
+  394  ./cb2.sh
+  395  q Voy.Am.me|less
+  396  ls -tr *.html
+  397  cp -p rhei.html psit.html ./numfile
+  398  cd ./numfile
+  399  ./num.scr
+  400  cat num.scr
+  401  cat num.scr|less
+  402  ls
+  403  ls *.r'
+  404  ls *.r\'
+  405  :q
+  406  ls
+  407  cd c:/zoonomen/avtax
+  408  alias e=egrep
+  409  alias q=./tools/auyr.sh
+  410  q Voy.Am.mer
+  411  q Voy.Am.mer > VAM.txt
+  412  i Orb 
+  413  alias i=./tools/i.sh
+  414  i Orb 
+  415  i Orb |e 1839
+  416  i Orb |e 1839|less
+  417  i Orb |e 1839|e tin
+  418  q Voy.Am.mer > VAM.txt
+  419  ./cb2.sh
+  420  q Voy.Am.mer > VAM.txt
+  421  egrep '.\/numfile' *.sh
+  422  cat mkpass.sh
+  423  ./mkpass.sh
+  424  cp -puv psit.html rhei.html ./numfile
+  425  cd ./numfile
+  426  ./num.scr
+  427  cd ../
+  428  vi update.sh
+  429  ls ????.html
+  430  ls -tr
+  431  chmod +x update.sh
+  432  ./update.sh
+  433  q Voy.Am.mer > VAM.txt
+  434  i pennata
+  435  i aymar
+  436  i pennata
+  437  q Echo
+  438  q Echo|less
+  439  i pennata
+  440  i pennata|e Orb
+  441  i Echo
+  442  i Echo|e 1837
+  443  q Echo
+  444  q Echo|less
+  445  f Echo
+  446  alias f=./f.sh
+  447  f Echo
+  448  q Echo|less
+  449  f Brachypteracias
+  450  i pennata|e Orb
+  451  ./update.sh
+  452  q Echo|less
+  453  q Tori
+  454  q Tori|less
+  455  q Tori|e ' Tori '
+  456  q Tori|e ' Tori '|less
+  457  f Parus
+  458  q Tori|e ' Tori '|less
+  459  ./update.sh
+  460  q Tori|e ' Tori '|less
+  461  q Sarawa
+  462  f Alophoix
+  463  ./update.sh
+  464  q Sarawa
+  465  q Rev.Mag.Z
+  466  q Rev.Mag.Z|less
+  467  q Mag.Zool
+  468  q Mag.Zool|less
+  469  q Mag.Zool|e ' Mag.Zool. '
+  470  q Mag.Zool|e ' Mag.Zool. '|less
+  471  q Echo|less
+  472  cat April 1837
+  473  cal April 1837
+  474  cal 4 1837
+  475  ./update
+  476  ./update.sh
+  477  q Echo|less
+  478  vi rhpen.txt
+  479  i pennata
+  480  i pennata|e Orb
+  481  i aymar
+  482  q Phila
+  483  q Phila|e '189[6,7]'
+  484  q Phila|e '189[5,6,7]'
+  485  q Phila|e '188[1,2,3]'
+  486  q Phila|e '188[1,2,3,4]'
+  487  f Sturnella
+  488  q Philip
+  489  q Philip.J
+  490  q Philip.J|e '19[0,1,2][0-9]'
+  491  q Philip.J|e '19[0,1,2][0-9]'|less
+  492  f Philip.J.Sci
+  493  vi buce.html
+  494  q Ostrich
+  495  q Ostrich|less
+  496  f Certhilauda
+  497  ./update.sh
+  498  vi ?pass.html
+  499  ./update.sh
+  500  exit
+  501  cd c:/zoonomen/avatx
+  502  cd c:/zoonomen/avatax
+  503  alias q=./tools/auyr.sh
+  504  q Muller
+  505  ls ./tools
+  506  cd c:/zoonomen/avtax
+  507  alias q=./tools/auyr.sh
+  508  q Muller
+  509  q Muller|less
+  510  q Muller|e Statius
+  511  alias e=egrep
+  512  q Muller|e Statius
+  513  q Muller|e Statius|wc
+  514  egrep -l 'Statius Muller' ????.html
+  515  egrep -l 'Statius Muller' ????.html|less
+  516  vi char.html cora.html cucu.html
+  517  vi cora.html
+  518  sed -f muller.sed cora.html
+  519  cp ../bio/muller.sed .
+  520  sed -f muller.sed cora.html
+  521  sed -f muller.sed cora.html|e Statius
+  522  sed -f muller.sed cora.html
+  523  sed -f muller.sed cora.html|e Statius
+  524  sed -f muller.sed cora.html > coram.html
+  525  vi coram.html
+  526  ./update.sh
+  527  ls -tr ./numfile
+  528  cat update.sh
+  529  ls -tr
+  530  mv coram.html cora.htm
+  531  ./update.sh
+  532  mv cora.htm cora.html
+  533  ./update.sh
+  534  egrep -l 'Statius Muller' ????.html|less
+  535  sed -f muller.sed char.html
+  536  sed -f muller.sed char.html |e biom|less
+  537  sed -f muller.sed char.html > chara.html
+  538  vi chara.html
+  539  cp chara.html char.html
+  540  ./update.sh
+  541  egrep -l 'Statius Muller' ????.html|less
+  542  sed -f muller.sed cucu.html > cucua.html
+  543  cp cucua.html cucu.html
+  544  egrep -l 'Statius Muller' ????.html|less
+  545  sed -f muller.sed gall.html > galla.html
+  546  sed -f muller.sed galb.html > galba.html
+  547  ls -tr
+  548  cp galla.html gall.html
+  549  cp galba.html galb.html
+  550  ./update.hs
+  551  ./update.sh
+  552  egrep -l 'Statius ' ????.html|less
+  553  egrep -l 'Statius ' ????.html|less
+  554  sed -f muller.sed grui.html > gruia.html
+  555  cp gruia.html grui.htme
+  556  cp gruia.html grui.html
+  557  rm grui.htme
+  558  ls ????a.html
+  559  rm ????a.html
+  560  egrep -l 'Statius ' ????.html|less
+  561  sed -f muller.sed opis.html > opisa.html
+  562  egrep -l 'Statius ' ????.html|less
+  563  sed -f muller.sed otis.html > otisa.html
+  564  sed -f muller.sed otid.html > otida.html
+  565  ls -tr
+  566  mv opisa.html opis.html
+  567  mv otida.html otid.html
+  568  ./update.sh
+  569  egrep -l 'Statius ' ????.html|less
+  570  sed -f muller.sed stri.html > stria.html
+  571  mv stria.html stri.html
+  572  egrep -l 'Statius ' ????.html|less
+  573  sed -f muller.sed psit.html > psita.html
+  574  mv psita.html psit.html
+  575  ./update
+  576  ./update.sh
+  577  egrep -l 'Statius ' ????.html|less
+  578  sed -f muller.sed pici.html > picia.html
+  579  mv picia.html pici.html
+  580  ./update.sh
+  581  egrep -l 'Statius ' ????.html|less
+  582  sed -f muller.html pele.html > pelea.html
+  583  sed -f muller.sed pele.html > pelea.html
+  584  sed -f muller.sed pele.html > pelea.html
+  585  mv pelea.html pele.html
+  586  egrep -l 'Statius ' ????.html|less
+  587  sed -f muller.sed pa02.html > pa02a.html
+  588  mv pa02a.html pa02.html
+  589  egrep -l 'Statius ' ????.html|less
+  590  sed -f muller.sed pa03.html > pa03a.html; egrep 
+  591  sed -f muller.sed pa03.html > pa03a.html; egrep Statius pa03a.html
+  592  mv pa03a.html pa03.html
+  593  egrep -l 'Statius ' ????.html|less
+  594  sed -f muller.sed pa07.html > pa07a.html; egrep Statius pa07a.html
+  595  cp pa07a.html pa07.html
+  596  egrep -l 'Statius ' ????.html|less
+  597  sed -f muller.sed pa08.html > pa08a.html; egrep Statius pa08a.html
+  598  cp pa08a.html pa08.html
+  599  egrep -l 'Statius ' ????.html|less
+  600  sed -f muller.sed pa09.html > pa09a.html; egrep Statius pa09a.html
+  601  cp pa09a.html pa09.html
+  602  vi ?pass.html
+  603  ./update.sh
+  604  ls ????a.html
+  605  rm ????a.html
+  606  egrep -l 'Statius ' ????.html
+  607  sed -f muller.sed pa1c.html > pa1ca.html; egrep Statius pa1ca.html
+  608  cp pa1ca.html pa1c.html
+  609  egrep -l 'Statius ' ????.html
+  610  sed -f muller.sed pa2a.html > pa2aa.html; egrep Statius pa2aa.html
+  611  cp pa2aa.html pa2a.html
+  612  egrep -l 'Statius ' ????.html
+  613  sed -f muller.sed pa2g.html > pa2ga.html; egrep Statius pa2ga.html
+  614  cp pa2ga.html pa2g.html
+  615  egrep -l 'Statius ' ????.html
+  616  sed -f muller.sed pa2q.html > pa2qa.html; egrep Statius pa2qa.html
+  617  vi pa2qa.html
+  618  cp pa2qa.html pa2q.html
+  619  egrep -l 'Statius ' ????.html
+  620  ./update.sh
+  621  rm ????a.html
+  622  egrep -l 'Statius ' ????.html
+  623  sed -f muller.sed pa38.html > pa38a.html; egrep Statius pa38a.html
+  624  cp pa38a.html pa38.html
+  625  egrep -l 'Statius ' ????.html
+  626  sed -f muller.sed pa39.html > pa39a.html; egrep Statius pa39a.html
+  627  vi pa39a.html
+  628  cp pa39a.html pa39.html
+  629  egrep -l 'Statius ' ????.html
+  630  sed -f muller.sed pa39.html > pa39a.html; egrep Statius pa39a.html
+  631  ls -trl
+  632  egrep -l 'Statius ' ????.html
+  633  sed -f muller.sed pa3u.html > pa3ua.html; egrep Statius pa3ua.html
+  634  vi pa3ua.html
+  635  cp pa3ua.html pa3u.html
+  636  egrep -l 'Statius ' ????.html
+  637  sed -f muller.sed pa3x.html > pa3xa.html; egrep Statius pa3xa.html
+  638* cp pa3xa.html pa3x.html
+  639  ls pa??a.html
+  640  rm pa??a.html
+  641  ./update.sh
+  642  egrep -l 'Statius ' ????.html
+  643  egrep -l 'Statius ' ????.html
+  644  sed -f muller.sed pa4b.html > pa4ba.html; egrep Statius pa4ba.html
+  645  vi pa4ba.html
+  646  cp pa4ba.html pa4b.html
+  647  egrep -l 'Statius ' ????.html
+  648  sed -f muller.sed pa4d.html > pa4da.html; egrep Statius pa4da.html
+  649  cp pa4da.html pa4d.html
+  650  egrep -l 'Statius ' ????.html
+  651  sed -f muller.sed pa4l.html > pa4la.html; egrep Statius pa4la.html
+  652  cp pa4la.html pa4l.html
+  653  sed -f muller.sed pa4t.html > pa4ta.html; egrep Statius pa4ta.html
+  654  vi pa4ta.html
+  655  cp pa4ta.html pa4t.html
+  656  egrep -l 'Statius ' ????.html
+  657  sed -f muller.sed pa4v.html > pa4va.html; egrep Statius pa4va.html
+  658  vi pa4va.html
+  659  cp pa4va.html pa4v.html
+  660  sed -f muller.sed pa4w.html > pa4wa.html; egrep Statius pa4wa.html
+  661  vi pa4wa.html 
+  662  cp pa4wa.html pa4w.html
+  663  egrep -l 'Statius ' ????.html
+  664  sed -f muller.sed pa4y.html > pa4ya.html; egrep Statius pa4ya.html
+  665  vi pa4ya.html
+  666  cp pa4ya.html pa4y.html
+  667  ls pa??a.html
+  668  rm pa??a.html
+  669  ./update.sh
+  670  egrep -l 'Statius ' ????.html
+  671  sed -f muller.sed pa60.html > pa60a.html; egrep Statius pa60a.html
+  672  cp pa60a.html pa60.html
+  673  sed -f muller.sed pa62.html > pa62a.html; egrep Statius pa62a.html
+  674  vi pa62a.html
+  675  cp pa62a.html pa62.html
+  676  sed -f muller.sed pa64.html > pa64a.html; egrep Statius pa64a.html
+  677  vi pa64a.html
+  678  cp pa64a.html pa64.html
+  679  egrep -l 'Statius ' ????.html
+  680  sed -f muller.sed pa65.html > pa65a.html; egrep Statius pa65a.html
+  681  cp pa65a.html pa65.html
+  682  ls ????a.html
+  683  rm ????a.html
+  684  ./update.sh
+  685  ls *.sh
+  686  ls *.ksh
+  687  ls ./tools
+  688  cat ./tools/gencnt.sh
+  689  ./tools/gencnt.sh pass.html
+  690  ./tools/gspcnt.sh pass.html
+  691  cat ./tools/gspcnt.sh
+  692  ./tools/gspcnt.sh pass
+  693  ls -tr
+  694  vi cball
+  695  ./tools/gencnt.sh cball
+  696  e '^<h4' cball
+  697  e '^<h4' cball|wc
+  698  e '^<h4' cball|awk '{print $1}'
+  699  e '^<h4' cball|awk '{print $1}'|wc
+  700  e '^<h4' cball|awk '{print $1}'|sort -d|uniq|wc
+  701  vi toc.html
+  702  vi cball
+  703  egrep '^<li>' cball|less
+  704  egrep '^<li>[A-Z][a-z]' cball|less
+  705  egrep '^<li>[A-Z][a-z]' cball|wc
+  706  egrep '^<li>[A-Z][a-z]' cball|awk '{print $1,$2}'
+  707  egrep '^<li>[A-Z][a-z]' cball|awk '{print $1,$2}'|wc
+  708  egrep '^<li>[A-Z][a-z]' cball|awk '{print $1,$2}'|sort -d|uniq|wc
+  709  egrep '^<li>[A-Z][a-z]' cball|awk '{print $1,$2}'|sort -d|uniq -d|wc
+  710  egrep '^<li>[A-Z][a-z]' cball|awk '{print $1,$2}'|sort -d|uniq -d|less
+  711  egrep '^<li>[A-Z][a-z]' cball|awk '{print $1,$2}'|e leucoryn
+  712  vi toc.html
+  713  egrep '^<li>[A-Z][a-z]' cball|awk '{print $1,$2}'|e leucoryn
+  714  egrep '^<li>[A-Z][a-z]' cball|awk '{PRINT $1,$2}'|e leucoryn
+  715  ls
+  716  ls -l
+  717  ls -l|less
+  718  ls -l|e '^d'
+  719  q Muller
+  720  q Muller
+  721  q Muller|less
+  722  f Setophaga
+  723  alias f=./tools/f.sh
+  724  f Setophaga
+  725  sed muller.sed pa61.html > pa61a.html; e Statius pa61a.html
+  726  sed -f muller.sed pa61.html > pa61a.html; e Statius pa61a.html
+  727  vi ?pass.html
+  728  ./update.sh
+  729  cp pa61a.html pa61.html
+  730  ./update.sh
+  731  e Statius ????.html
+  732  mkdir ./ioc91
+  733  q Lesson
+  734  q Lesson|e 'Lesson,'
+  735  mkdir e:/zoonomen/avtax/ioc91
+  736  ls e:/
+  737  mkdir e:/transf
+  738  cd ./ioc91
+  739  vi gsp01.txt
+  740  vi clean01.sed
+  741  sed -f clean01.sed gsp01.txt
+  742  sed -f clean01.sed gsp01.txt|less
+  743  vi clean01.sed
+  744  sed -f clean01.sed gsp01.txt|less
+  745  vi clean01.sed
+  746  sed -f clean01.sed gsp01.txt|less
+  747  sed -f clean01.sed gsp01.txt|less
+  748  sed -f clean01.sed gsp01.txt|less
+  749  sed -f clean01.sed gsp01.txt|less
+  750  sed -f clean01.sed gsp01.txt|less
+  751  sed -f clean01.sed gsp01.txt > gsp02.txt
+  752  vi gspo2.txt
+  753  vi gsp02.txt
+  754  cd ../
+  755  ls
+  756  ls -tr
+  757  head cb2
+  758  e '^[A-Z][a-z]:q
+  759  cp cb2 ./ioc91
+  760  cd ./ioc91
+  761  vi cb2
+  762  vi zclean.sed
+  763  vi cb2
+  764  e 8224 cb2
+  765  vi zclean.sed
+  766  sed -f zclean.sed cb2
+  767  sed -f zclean.sed cb2|less
+  768  sed -f zclean.sed cb2|less
+  769  sed -f zclean.sed cb2|less
+  770  sed -f zclean.sed cb2|less
+  771  sed -f zclean.sed cb2|e '[A-Z][A-Z]'|less
+  772  sed -f zclean.sed cb2|e '^[A-Z][A-Z]'|less
+  773  tail cb2
+  774  cd ../
+  775  ls
+  776  ls -tr
+  777  tail cball
+  778  vi cball
+  779  cat update.sh
+  780  ls cb*.*
+  781  ls -tr cb*.*
+  782  ls -tr cb2*.*
+  783  vi cb2.sh
+  784  ./cb2.sh
+  785  ls -tr
+  786  ls -trl
+  787  tail cball
+  788  vi cball
+  789  tail cb2
+  790  cat cb2.sh
+  791  cd ./numfile
+  792  ls
+  793  ls *.sh
+  794  cat cb2make.sh
+  795  ls -trl cball
+  796  ls *.sh
+  797  egrep 'cball.html' *.*
+  798  ls -l cbmake.sh
+  799  cat cbmake.sh
+  800  ./cbmake.sh
+  801  ls -tr
+  802  tail cball.html
+  803  vi cball.html
+  804  ls cb*.*
+  805  cat cb2make.sh
+  806  ./cb2make.sh
+  807  ls -tr
+  808  vi cb2.txt
+  809  vi cb2.txt
+  810  cp cb2.txt ../ioc91
+  811  cd ../ioc91
+  812  ls
+  813  ls -tr
+  814  sed -f zclean.sed cb2.txt
+  815  sed -f zclean.sed cb2.txt|less
+  816  sed -f zclean.sed cb2.txt|less
+  817  cd ../numfile
+  818  ls
+  819  ls -tr
+  820  vi cball.html
+  821  vi cballcln.sed
+  822  sed -f cballcln.sed cball.html
+  823  sed -f cballcln.sed cball.html|less
+  824  sed -f cballcln.sed cball.html|less
+  825  e head cball.html
+  826  sed -f cballcln.sed cball.html|less
+  827  sed -f cballcln.sed cball.html|less
+  828  sed -f cballcln.sed cball.html|e Version
+  829  sed -f cballcln.sed cball.html|less
+  830  sed -f cballcln.sed cball.html|e '^species'
+  831  sed -f cballcln.sed cball.html|less
+  832  sed -f cballcln.sed cball.html|less
+  833  ls -tr
+  834  cat cb2make.sh
+  835  vi cb2make01.sh
+  836  sed -f cballcln.sed cball.html > cball01.heml
+  837  ls -l cb2make01.sh
+  838  chmod +x ch2make01.sh
+  839  chmod +x cb2make01.sh
+  840  ./cb2make.sh
+  841  ls -tr
+  842  vi cb2.txt
+  843  sed -f cballcln.sed cball.html > cball01.heml
+  844  ./cb2make01.sh
+  845  egrep cball02.heml *.*
+  846  egrep cball01.heml *.*
+  847  sed -f cballcln.sed cball.html > cball01.html
+  848  ls -tr
+  849  vi cball01.html
+  850  rm cball.heml
+  851  rm cball01.heml
+  852  ./cb2make01.sh
+  853  ls -tr
+  854  vi cb2.txt
+  855  vi cball01.html
+  856  vi makecb.sh
+  857  ls -tr *.sh
+  858  cat cbmake.sh
+  859  vi cbmake.sh
+  860  ls -l cbmake.sh
+  861  cat ./cb2make01.sh
+  862  history > hx0121.txt

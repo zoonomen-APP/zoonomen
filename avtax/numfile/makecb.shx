@@ -1,0 +1,10 @@
+#2019.01.21
+#start with numfiles to create cball.html
+#./cbmake.sh
+#this file will be used to designate Genera (GG), species (Gs), subspecies (Gss).
+#first remover extinction daggers
+sed '/8224/s/..8224.//'
+#Genera = ^<h4>
+sed '/^<h4>/ s/h4/GG/'
+#species = ^<li>[A-Z][a-z]
+#subspecies = ^\t<li>[A-Z] -- note -- danger here from source listings.

@@ -1,0 +1,2 @@
+./mkpa.lst > pa.out
+awk -f c:/awk/notab.awk pa.out > pant.out

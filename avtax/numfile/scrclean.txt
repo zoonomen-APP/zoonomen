@@ -1,0 +1,9 @@
+#2017.08.11
+#Script clean up.  
+#Keeps script from adding extra characters on output file names.
+#
+ 899  cp num.scr foo.sh
+ 900  mv foo.sh foo.sh.bad
+ 901  tr -d '\r' < foo.sh.bad > foo.sh
+ 902  chmod +x foo.sh
+

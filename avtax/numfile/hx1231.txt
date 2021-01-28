@@ -1,0 +1,500 @@
+  623  cba Muller|e 'P. L. S. Muller'|wc
+  624  ls c:/zoonomen/cit/CBA
+  625  ls -l c:/zoonomen/cit/CBA
+  626  vi c:/zoonomen/cit/CBA/1.1
+  627  rm c:/zoonomen/cit/CBA/1.*
+  628  ls c:/zoonomen/cit/CBA/1.1
+  629  ls -c c:/zoonomen/cit/CBA
+  630  ls  c:/zoonomen/cit/CBA
+  631  cat cba.sh
+  632  egrep $1 c:/zoonomen/cit/CBA/*.txt
+  633  egrep Muller c:/zoonomen/cit/CBA/*.txt|less
+  634  egrep Statius c:/zoonomen/cit/CBA/*.txt
+  635  egrep -i Statius c:/zoonomen/cit/CBA/*.txt
+  636  egrep -i Statius c:/zoonomen/cit/CBA/*.txt|wc
+  637  egrep -i Statius c:/zoonomen/cit/CBA/*.txt|e -i Muller
+  638  egrep -i Statius c:/zoonomen/cit/CBA/*.txt|egrep -i Muller
+  639  egrep 'P. L. S. Muller' c:/zoonomen/cit/CBA/*.txt|less
+  640  egrep 'P. L. S. Muller' c:/zoonomen/cit/CBA/*.txt|wc
+  641  time b Muller
+  642  b tatius
+  643  q pls
+  644  q PLS
+  645  pet 1776
+  646  pet 1776|e ller
+  647  pet 1776|e ller|wc
+  648  pet 1776
+  649  pet 1776|wc
+  650  pet 1776|less
+  651  pet 1776|e ller|wc
+  652  pet 1776|e ller|less
+  653  e 'P. L. S.' c:/zoonomen/cit/Peters/*.txt
+  654  e 'P. L. S.' c:/zoonomen/cit/Peters/*.txt|wc
+  655  e 'P. L. S.' c:/zoonomen/cit/Peters/*.txt|e 1776
+  656  e 'P. L. S.' c:/zoonomen/cit/Peters/*.txt|e 1776|wc
+  657  e 'P. L. S.' c:/zoonomen/cit/Peters/*.txt|e 1776|wc
+  658  e 'P. L. S.' c:/zoonomen/cit/Peters/*.txt|wc
+  659  e 'P. L. S.' c:/zoonomen/cit/Peters/*.txt|e 1776|wc
+  660  e 'P. L. S.' c:/zoonomen/cit/Peters/*.txt|e 1776|less
+  661  q 1776
+  662  q 1776|e ler
+  663  q 1776|e ler|wc
+  664  q PLS
+  665  q PLS|awk '$0!~/1776/'
+  666  q PLS|wc
+  667  q PLS|awk -f c:/awk/wt.awk
+  668  cat c:/awk/wt.awk
+  669  q PLS|awk '$0~/\<([a-z]*) +\1\>/
+  670  q PLS|awk '$0~/\<([a-z]*) +\1\>/'
+  671  q PLS| e '(\b\w+\b)(?=\s?\1)' 
+  672  q PLS|awk '{n=gsub("pattern","&")}n>1'
+  673  awk '{n=gsub("pattern","&")}n>1' cball
+  674  
+  675  grep '\(pattern\).*\1' cball.html
+  676  q PLS|grep '\(pattern\).*\1'
+  677  q PLS
+  678  q PLS|
+  679  q PLS|grep -e '^\([a-z][a-z]*\) \1$' -e '^\([a-z][a-z]*\) \1 ' -e ' \([a-z][a-z]*\) \1 ' -e ' \([a-z][a-z]*\) \1$'
+  680  q PLS|grep -e '^\([a-z][a-z]*\) \1$' -e '^\([a-z][a-z]*\) \1 ' -e ' \([a-z][a-z]*\) \1 ' -e ' \([a-z][a-z]*\) \1$'|wc
+  681  q PLS|wc
+  682  q PLS|egrep  '^\([a-z][a-z]*\) \1$' -e '^\([a-z][a-z]*\) \1 ' -e ' \([a-z][a-z]*\) \1 ' -e ' \([a-z][a-z]*\) \1$'|wc
+  683  q PLS|grep -e '^\([a-z][a-z]*\) \1$' -e '^\([a-z][a-z]*\) \1 ' -e ' \([a-z][a-z]*\) \1 ' -e ' \([a-z][a-z]*\) \1$'|wc
+  684  q PLS|grep -e '^\([a-z][a-z]*\) \1$' -e '^\([a-z][a-z]*\) \1 ' -e ' \([a-z][a-z]*\) \1 ' -e ' \([a-z][a-z]*\) \1$'|less
+  685  history
+  686  vi wt.sh
+  687  q PLS|wt.sh
+  688  chmod +x wt.sh
+  689  q PLS|wt.sh
+  690  q PLS|./wt.sh
+  691  vi wt.sh
+  692  mv wt.sh wt.scr
+  693  ls -l wt.scr
+  694  q Linn|./wt.scr
+  695  q Linnaeus|./wt.scr
+  696  q Linnaeus|./wt.scr|wc
+  697  ls c:/zoonomen/bio/image
+  698  ls c:/zoonomen/bio/image
+  699  q Linn|./wt.scr
+  700  q PLS|./wt.scr
+  701  q PLS|./wt.scr|wc
+  702  q PLS
+  703  q PLS|awk '{print $NF}'
+  704  q PLS|awk '{print $NF-1}'
+  705  q PLS|awk '{print ($NF-1)}'
+  706  q PLS|awk '{print $($NF-1)}'
+  707  q PLS
+  708  q PLS|sed 's/[0-9] / -2/ | /'
+  709  q PLS|sed 's/[0-9] /  | / -2'
+  710  q PLS|sed 's/[0-9] / | / -2'
+  711  q PLS|sed 's/[0-9] / | /2'
+  712  q PLS|sed 's/[0-9] / | /2'|awk -F "|" '{print $2, $1}'
+  713  q PLS|sed 's/[0-9] / | /2'|awk -F "|" '{print $2, $1}'|awk '$3!/Mull/&& $3!~/$2'
+  714  q PLS|sed 's/[0-9] / | /2'|awk -F "|" '{print $2, $1}'|awk '$3!/Mull/&& $3!~$2'
+  715  q PLS|sed 's/[0-9] / | /2'|awk -F "|" '{print $2, $1}'|awk '$3!/Mull/&& $3!~$2'
+  716  q PLS|sed 's/[0-9] / | /2'|awk -F "|" '{print $2, $1}'|awk '$3!/Mull/&& $3!~$2'|wc
+  717  q PLS|sed 's/[0-9] / | /2'|awk -F "|" '{print $2, $1}'|awk '$3!/Mull/&& $3!~$2'|awk '$4~/Mull/'
+  718  ioc Merops
+  719  q Merops
+  720  q PLS|sed 's/[0-9] / | /2'|awk -F "|" '{print $2, $1}'|awk '$3!/Mull/&& $3!~$2'|awk '$4~/Mull/'
+  721  egrep -l Miil c:/zoonomen/cit/Peters/*ed.txt
+  722  cat p.sh
+  723  cat pet.sh
+  724  pet Mii
+  725  pet Mii|less
+  726  egrep -l Miil c:/zoonomen/cit/Peters/*.txt
+  727  egrep -l Miiler c:/zoonomen/cit/Peters/*.txt
+  728  egrep -l Miiller c:/zoonomen/cit/Peters/*.txt
+  729  egrep -l Miiller c:/zoonomen/cit/Peters/*.txt > lst01.txt
+  730  paste lst01.txt lst01.txt
+  731  paste lst01.txt lst01.txt > millsed.txt
+  732  vi millsed.txt
+  733  vi miillsed.txt
+  734  vi millsed.txt
+  735  cat miillsed.txt
+  736  vi millsed.txt
+  737  chmod +x millsed.txt
+  738  ./millsed.txt
+  739  ls c:/zoonomen/cit/Peters/*.*e
+  740  ls c:/zoonomen/cit/Peters/*.*e > lst01.txt
+  741  paste lst01.txt lst01.txt > lst02.txt; vi lst02.txt
+  742  chmod +x lst02.txt
+  743  ./lst02.txt
+  744  pet Miill
+  745  q PLS
+  746  q PLS|e Linn
+  747  q PLS|sed 's/[0-9] / | /2'|awk -F "|" '{print $2, $1}'|awk '$3!/Mull/&& $3!~$2'|awk '$4~/Mull/'
+  748  q PLS|sed 's/[0-9] / | /2'|awk -F "|" '{print $2, $1}'|awk '$3!/Mull/&& $3!~$2'|awk '$4~/Mull/'
+  749  q PLS|sed 's/[0-9] / | /2'|awk -F "|" '{print $2, $1}'|awk '$3!/Mull/&& $3!~$2'|awk '$4~/Mull/'|awk '{print $1,$2}'
+  750  q PLS|sed 's/[0-9] / | /2'|awk -F "|" '{print $2, $1}'|awk '$3!/Mull/&& $3!~$2'|awk '$4~/Mull/'|awk '{print $1,$2}' >lst.1
+  751  vi lst.1
+  752  q Surnia ulula
+  753  q Surnia.ulula
+  754  vi lst.1
+  755  vi lst.1
+  756  `cat lst.1`
+  757  cat start.sh
+  758  vi lst.1
+  759  cat start.sh
+  760  `cat lst.1`
+  761  mv lst.1 lst1.txt
+  762  c:/zoonomen/avtax/tools/auyr.sh Surnia.ulula
+  763  c:/zoonomen/avtax/tools/auyr.sh Asio.flammeus
+  764  c:/zoonomen/avtax/tools/auyr.sh Psittacula.alexandri
+  765  c:/zoonomen/avtax/tools/auyr.sh Pteroglossus.aracari
+  766  c:/zoonomen/avtax/tools/auyr.sh Corythornis.cristatus
+  767  c:/zoonomen/avtax/tools/auyr.sh Merops.viridis
+  768  c:/zoonomen/avtax/tools/auyr.sh Colinus.virginianus
+  769  c:/zoonomen/avtax/tools/auyr.sh Galerida.cristata
+  770  c:/zoonomen/avtax/tools/auyr.sh Monticola.solitarius
+  771  c:/zoonomen/avtax/tools/auyr.sh Pinicola.enucleator
+  772  vi lst1.txt
+  773  `cat lst1.txt`
+  774  ls -tr
+  775  ls c:/
+  776  c:/zoonomen/avtax/tools/auyr.sh Surnia.ulula >> plsout.txt
+  777  c:/zoonomen/avtax/tools/auyr.sh Asio.flammeus >> plsout.txt
+  778  c:/zoonomen/avtax/tools/auyr.sh Psittacula.alexandri >> plsout.txt
+  779  c:/zoonomen/avtax/tools/auyr.sh Pteroglossus.aracari >> plsout.txt
+  780  c:/zoonomen/avtax/tools/auyr.sh Corythornis.cristatus >> plsout.txt
+  781  c:/zoonomen/avtax/tools/auyr.sh Merops.viridis >> plsout.txt
+  782  c:/zoonomen/avtax/tools/auyr.sh Colinus.virginianus >> plsout.txt
+  783  c:/zoonomen/avtax/tools/auyr.sh Galerida.cristata >> plsout.txt
+  784  c:/zoonomen/avtax/tools/auyr.sh Monticola.solitarius >> plsout.txt
+  785  c:/zoonomen/avtax/tools/auyr.sh Pinicola.enucleator >> plsout.txt
+  786  vi plsout.txt
+  787  ls -tr
+  788  q 1880|wt.scr
+  789  q 1880|./wt.scr
+  790  q 1880|./wt.scr
+  791  ls -trl wt.scr
+  792  q 1880 > 1880.tmp
+  793  cat 1880| ./wt.scr
+  794  cat 1880.tmp| ./wt.scr
+  795  vi wt.scr
+  796  q PLS|./wt.scr
+  797  q PLS|./wt.scr| ./wt.scr
+  798  vi wt.scr
+  799  ls -tr
+  800* cat 1880.tmp|sed 's/ p. /
+  801  vi 1880.tmp
+  802  q Proc.Biol.Wa
+  803  q Proc.Biol.Soc.
+  804  q Proc.Biol.Soc.Wash
+  805  q Proc.Biol.Soc.Wash|wc
+  806  q Proc.Biol.Soc.Wash| ./wt.scr
+  807  q Proc.Biol.Soc.Wash| ./wt.scr|wc
+  808  q Proc.Biol.Soc.Wash > pbsw01.txt
+  809  qr Amazon|e Nels
+  810  rq Amazon|e Nels
+  811  q lilacin
+  812  q 1878
+  813  q 1878|e Fin
+  814  q Mayr|e 1931
+  815  q Mitt.Zool|less
+  816  q Mayr|e 1931
+  817  q Mitt.Zool|less
+  818  pet Pampusana
+  819  pet jobiensis
+  820  pet Pampusana
+  821  q jobiensis
+  822  q Mitt.Zool|less
+  823  f Campoch
+  824  q Mitt.Zool|less
+  825  vi ?pass.html
+  826  update
+  827  q Richmond|e 1922
+  828  q Richmond|e 192
+  829  q Ridgway|e 192
+  830  q Auk|e 192
+  831  q Auk|e 192|less
+  832  q sylvicola
+  833  f Sarkid
+  834  q diazi
+  835  ioc Dendror
+  836  q labrador
+  837  ioc Phaeopt
+  838  ioc Riccord
+  839  q Pampa
+  840  f Pampa
+  841  q Lesson
+  842  q Lesson|e 1831
+  843  q Leucolia
+  844  pet Leucolirs
+  845  pet Leucolia
+  846  b Leucolia
+  847  cba Leucolia
+  848  b Leucolia|less
+  849  bna Leucolia
+  850  cat start.sh
+  851  update
+  852  p Leucolia
+  853  q Leucolia
+  854  q Saucer
+  855  q Saucer|less
+  856  q Chrysur
+  857  q Chrysur|less
+  858  q Polyerata
+  859  f Chlorestes
+  860  q Chlorestes
+  861  q Chlorestes|less
+  862  pet Chlorestes
+  863  vi c:/zoonomen/cit/Peters/Peters_06.txt
+  864  cba Chlorestes
+  865  vi c:/zoonomen/cit/CBA/CBA_02_2ed.txt
+  866  cba Chlorestes|less
+  867  vi c:/zoonomen/cit/CBA/CBA_02_1.txt
+  868  q rufin|e Cre
+  869  q Gymnasio
+  870  q chirir
+  871  q Poliocrania
+  872  f Polycrania
+  873  f Poliocrania
+  874  vi ?pass.html
+  875  q moniliger
+  876  q Dendroma
+  877  q Pseudopipra
+  878  q Zimmerius
+  879  |less
+  880  q Zimmerius|less
+  881  update
+  882  q Helopsaltes
+  883  q Helopsaltes|less
+  884  f Helopsaltes
+  885  update
+  886  q eunom
+  887  q Loriotus
+  888  q Loriotus|less
+  889  q Danik
+  890  q Danic
+  891  i hrota
+  892  pet hrota
+  893  vi c:/zoonomen/cit/Peters/Peters_01.txt
+  894  q Zap
+  895  q Zap.Turk
+  896  pet Pruella
+  897  pet Prunellsa
+  898  pet Prunella
+  899  pet rufilata
+  900  vi c:/zoonomen/cit/Peters/Peters_10.txt
+  901  q Nasha
+  902  q Och
+  903  q Sketch
+  904  q Zap|e Turk
+  905  pet 'Prunella coll'
+  906  pet 'Prunella coll'|less
+  907  q Zap|e Turk
+  908  q degland
+  909  q Strick
+  910  q Coccycua
+  911  q Orn.Mon
+  912  q Orn.Mona
+  913  q Orn.Mona|awk '$0!~/no\./'
+  914  q Orn.Mona|awk '$0!~/no\./'|less
+  915  q Orn.Mona|awk '$0!~/no\./'|less
+  916  vi c:/txt/4KMLF.txt
+  917  q Ind.Zoo
+  918  q Ind.Zoo|less
+  919  q Penn
+  920  q Iredale
+  921  q Orn.Monatsb
+  922  q Orn.Monatsb|e Sneth
+  923  q Orn.Monatsb|wc
+  924  ls c:/txt
+  925  ls -tr c:/txt
+  926  vi c:/4K*.txt
+  927  vi c:/txt/4K*.txt
+  928  q Natuurk
+  929  q BirdsAust
+  930  q Jameson
+  931  q Am.Orn
+  932  q Am.Orn|awk '{print $2}'|sort -u
+  933  q Gurney
+  934  f Hylopez
+  935  vi ?pass.html
+  936  update
+  937  q Forster
+  938  q Forster|less
+  939  q Forster|e 1781
+  940  q Forster|e 1781|egrep 'IndischeZool'
+  941  q nigriceps
+  942  q nigriceps|less
+  943  i nigriceps|e Falc
+  944  i nigriceps
+  945  i nigriceps|e Cassin
+  946  cat start.sh
+  947  rg nicriceps
+  948  `cat start.sh`
+  949  rg nicriceps
+  950  rq nicriceps
+  951  rq Falco
+  952  rq Falco|e nigr
+  953  b nigriceps
+  954  b nigriceps|e Falc
+  955  pet nigriceps|e Falc
+  956  pet nigriceps|e Cass
+  957  vi c:/zoonomen/cit/Peters/Peters_14.txt
+  958  e -l Riippell c:/zoonomen/cit/Peters/P*.txt
+  959  vi `egrep -l Riippell c:/zoonomen/cit/Peters/P*.txt`
+  960  cba nicriceps
+  961  cba nigriceps
+  962  cba nigriceps|e Falc
+  963  q peregrin
+  964  q peregrin|e Falc
+  965  f Falco
+  966  vi acci.html
+  967  vi falc.html
+  968  mkdir ../cit/MCZ
+  969  vi mcz.sh
+  970  chmod +x mcz.sh
+  971  ./mcz.sh peregrin
+  972  vi ../cit/MCZ/M*.txt
+  973  vi ../cit/MCZ/M*.txt
+  974  q mini
+  975  q mini|e Baird
+  976  f Empid
+  977  f Empidonax
+  978  vi pa08.html
+  979  vi ?pass.html
+  980  update
+  981  q Riley
+  982  q Riley|less
+  983  q Smiths.Misc.Coll.
+  984  q Smiths.Misc.Coll.|less
+  985  e '\(' wb.html
+  986  e '\(' wb.html|less
+  987  q Ind|e Zool
+  988  q poecil
+  989  q poecilorh
+  990  q Forster
+  991  q Forster|wc
+  992  q Forster > Forst.txt
+  993  qr Forster
+  994  rq Forster
+  995  rq Forster| awk '$0!~/Forster,JR/'
+  996  q An|e 'An\.'
+  997  q An|e 'An\.'|wc
+  998  q An|e 'An\.'|awk '{print $2}'|uniq
+  999  q An|e 'An\.' > an.txt
+ 1000  f 'An\.'
+ 1001  vi `f 'An\.'`
+ 1002  update
+ 1003  q e|awk '{print $1}'
+ 1004  q e|awk '{print $2}'
+ 1005  q e|awk '{print $1}' > jlst.001
+ 1006  vi jlst.001
+ 1007  q e|awk '{print $2}' > jlst.001
+ 1008  vi jlst.001
+ 1009  q Science
+ 1010  vi jlst.001
+ 1011  sort -d jlst.001
+ 1012  help cut
+ 1013  man cut
+ 1014  sort -d jlst.001|cut -c 1
+ 1015  sort -d jlst.001|cut -c 1|awk -f c:/wc.awk
+ 1016  sort -d jlst.001|cut -c 1|awk -f c:/awk/wc.awk
+ 1017  sort -d jlst.001|cut -c 1|awk -f c:/awk/wc.awk|less
+ 1018  sort -d jlst.001|uniq|cut -c 1|awk -f c:/awk/wc.awk
+ 1019  sort -d jlst.001|uniq|cut -c 1|awk -f c:/awk/wc.awk|less
+ 1020  vi ?pass.html
+ 1021  update
+ 1022  q CostaRica
+ 1023  q Zarago
+ 1024  sort -d jlst.001|uniq|cut -c 1|awk -f c:/awk/wc.awk|less
+ 1025  q Ann.Rec
+ 1026  q Annual.Rec
+ 1027  q Annual
+ 1028  q Annual|e Rec
+ 1029  q Arch.Naturg
+ 1030  q Arch.Naturg|e ' 13 '
+ 1031  q Arch.Naturg|e ' 13 '|wc
+ 1032  q Arch.Naturg|e ' 13 ' > an.txt
+ 1033  q Arch.Naturg|wc
+ 1034  q Arch.Naturg| > an.txt
+ 1035  q Arch.Naturg > an.txt
+ 1036  pet Naturg
+ 1037  pet Naturg|less
+ 1038  pet Naturg|e 'Bd\. 2'
+ 1039  vi c:/zoonomen/cit/Peters/Peters_01.txt
+ 1040  p Buteo
+ 1041  cba Arch
+ 1042  cba Arch|e Natur
+ 1043  cba Arch|e Natur|e '\(2'
+ 1044  cba Arch|e Natur|e '\(1'
+ 1045  i Arch|e Nat
+ 1046  i Arch|e Naturg
+ 1047  i Arch|e Naturg|e '\(2'
+ 1048  i Arch|e Naturg|e '\(2'|less
+ 1049  i Arch|e Naturg|e '\(2'|wc
+ 1050  i Arch|e Naturg|e '\(1'|wc
+ 1051  pet Naturg|e 'Bd\. 2'
+ 1052  i Arch|e Naturg|e '\(2'|less
+ 1053  i Arch|e Naturg|e '\(2'|wc
+ 1054  i Arch|e Naturg|e '\(1'|wc
+ 1055  f Arch.Naturg
+ 1056  f Arch.Naturg|wc
+ 1057  q Arch.Naturg|e ' 14 '
+ 1058  q Arch.Naturg|e ' 13 '
+ 1059  q CostaRi
+ 1060  f Arch.Naturg|wc
+ 1061  f Arch.Naturg
+ 1062  f Arch.Naturg|less
+ 1063  vi archnat.sed
+ 1064  sed -f archnat.sed wb.html > wban.html
+ 1065  vi wban.html
+ 1066  rm wban.html
+ 1067  vi archnat.sed
+ 1068  sed -f archnat.sed wb.html > wban.html
+ 1069  vi wban.html
+ 1070  e Arch.Naturg wban.html
+ 1071  e -l '78A Heft5' ????.html
+ 1072  vi pa05.html
+ 1073  q Arch.Naturg
+ 1074  pet atacamensis
+ 1075  vi c:/zoonomen/cit/Peters/Peters_07.txt
+ 1076  ls -tr
+ 1077  vi anwg.txt
+ 1078  q Arch.Na
+ 1079  q Arch.Na|wc
+ 1080  q Arch.Na|less
+ 1081  ls wt*.*
+ 1082  q Arch.Na|./wt.scr
+ 1083  q Arch.Na|./wt.scr|wc
+ 1084  q Arch.Na|less
+ 1085  i Arch|e Nat
+ 1086  pet Arch.|e Nat
+ 1087  pet Arch.|e Nat|less
+ 1088  q Arch.Na|less
+ 1089  q Arch.Na|e ' 13 '
+ 1090  q Arch.Na|e ' 13 '|wc
+ 1091  q Arch.Na|e ' 13 '|./wc.scr
+ 1092  ls *.scr
+ 1093  q Arch.Na|e ' 13 '|./wt.scr
+ 1094  q Arch.Na|e ' 13 '|./wt.scr|wc
+ 1095  q Arch.Na|e ' 13 '
+ 1096  q Arch.Na|e ' 1[3-9] '
+ 1097  pet Archiv|e Naturg|e 1920
+ 1098  p Anairetes
+ 1099  q Archiv.Natur|e 1920
+ 1100  q Archiv.Natur
+ 1101  q Arch.Natur|e 1920
+ 1102  f Anairetes
+ 1103  f Lepidocolaptes
+ 1104  f Cyanerpes
+ 1105  f Ramphocelus
+ 1106  e 85A wban.html
+ 1107  vi ?pass.html
+ 1108  update
+ 1109  e 85A wban.html
+ 1110  vi update
+ 1111  vi update.sh
+ 1112  e 85A ./numfile/wban.html
+ 1113  cd ./numfile
+ 1114  ls
+ 1115  ls -trl wban.html
+ 1116  cd ../
+ 1117  egrep wban *.*
+ 1118  egrep wban ./numfile/*.*
+ 1119  cd ./numfile
+ 1120  ls
+ 1121  history|e wban
+ 1122  history > hx1231.txt

@@ -1,0 +1,500 @@
+  375  join -1 1 -2 2 sort09.001 sort18.001
+  376  paste sort09.001 sort18.001
+  377  paste sort09.001 sort18.001|less
+  378  ls -tr
+  379  head spnum09.001
+  380  head spnum09.00b
+  381  ls *.sh
+  382  cat trimnam.sh
+  383  vi trimnam.sh
+  384  ./trimnam.sh
+  385  ls -tr
+  386  head spn09.001
+  387  awk '{print NR, $0} spn09.001
+  388  awk '{print NR, $0}' spn09.001
+  389  awk '{print NR, $0} spn09.001
+  390  awk '{print NR, $0}' spn09.00
+  391  awk '{print NR, $0}' spn09.001
+  392  awk '{print NR, $0}' spn09.001 |sort
+  393  awk '{print NR, $0}' spn09.001 |sort -2
+  394  awk '{print NR, $0}' spn09.001 |sort -k 2
+  395  awk '{print NR, $0}' spn09.001 |sort -k 2 > spn09.002
+  396  ls -tr
+  397  head spn09.002 sort18.001
+  398  join -1 2 sort18.001
+  399  join -1 2 sort18.001 spn09.002
+  400  join -1 2 -2 2 sort18.001 spn09.002
+  401  join -1 2 -2 2 sort18.001 spn09.002 > tax1809.001
+  402  vi tax1809.001
+  403  ls -tr
+  404  head tax1809.001
+  405  head spn09.002
+  406  awk '{print $2}' spn09.002
+  407  awk '{print $2}' spn09.002|uniq -d
+  408  awk '{print $2}' spn09.002|uniq -d|wc
+  409  awk '{print $2}' spn09.002|uniq |wc
+  410  ls -tr
+  411  vi *.cb
+  412  vi *cb
+  413  e PASSERIFORMES *cb
+  414  vi *cb
+  415  e PASSERIFORMES *cb
+  416  e PASSERIFORMES *cb|less
+  417  e CONOPOPHAG *cb
+  418  vi *cb
+  419  e h2 *cb
+  420  ls
+  421  ls -r
+  422  awk '^<li>[A-Z][a-z]' *cb
+  423  e '^<li>[A-Z][a-z]' *cb
+  424  e '^<li>[A-Z][a-z]' *cb|awk '{print $1,$2}'
+  425  e '^<li>[A-Z][a-z]' *cb|awk '{print $1,$2}'|sort -d|uniq -d
+  426  e '^<li>[A-Z][a-z]' *cb|awk '{print $1,$2}'|sort -d|uniq|wc
+  427  ls ls -tr
+  428  ls
+  429  ls -tr
+  430  ls -tr
+  431  e '^<li>[A-Z][a-z]' 2009cb01|awk '{print $1,$2}'|sort -d|uniq|wc
+  432  e '^<li>[A-Z][a-z]' 2009cb01|awk '{print $1,$2}' > 2009cbsp.001
+  433  vi 2009cbsp.001
+  434  e '^<li>[A-Z][a-z]' 2009cb01|awk '{print $1,$2}'|sed '/Peters Check/d' > 2009cbsp.001
+  435  vi 2009cbsp.001
+  436  e '^<li>[A-Z][a-z]' 2009cb01|awk '{print $1,$2}'|sed '/Peters Check/d'|s/\&\#8224\;//' > 2009cbsp.001
+  437  e '^<li>[A-Z][a-z]' 2009cb01|awk '{print $1,$2}'|sed '/Peters Check/d'|sed 's/\&\#8224\;//' > 2009cbsp.001
+  438  e '^<li>[A-Z][a-z]' 2009cb01|awk '{print $1,$2}'|sed '/Peters Check/d'|s/\&\#8224\;//' > 2009cbsp.001
+  439  e '^<li>[A-Z][a-z]' 2009cb01|awk '{print $1,$2}'|sed '/Peters Check/d'
+  440  e '^<li>[A-Z][a-z]' 2009cb01|awk '{print $1,$2}'|sed '/Peters Check/d'| sed 's/\&\#8224;$//'
+  441  e '^<li>[A-Z][a-z]' 2009cb01|awk '{print $1,$2}'|sed '/Peters Check/d'| sed 's/\&\#8224;$//'| sed -f c:/zoonomen/avtax/tools/tagsed
+  442  e '^<li>[A-Z][a-z]' 2009cb01|awk '{print $1,$2}'|sed '/Peters Check/d'| sed 's/\&\#8224;$//'| sed -f c:/zoonomen/avtax/tools/tagsed > 2009cb.001
+  443  vi 2009cb.001
+  444  e '^<li>[A-Z][a-z]' 2009cb01|awk '{print $1,$2}'|sed '/Peters Check/d'| sed 's/\&\#8224;$//'| sed -f c:/zoonomen/avtax/tools/tagsed| sed 's/ /_/' > 2009cb.001
+  445  vi 2009cb.001
+  446  sort -d 2009cb.001|uniq -d > 09dup.lst
+  447  vi 09dup.lst
+  448  ls  ~-tr
+  449  ls -tr
+  450  vi 2009cb.001
+  451  ls -tr
+  452  vi 2009cb.002
+  453  sort -d 2009cb.002|uniq -d
+  454  wc 2009cb.002
+  455  vi 2009cb.002
+  456  vi trimnam.sh
+  457  ./trimnam.sh
+  458  ls -tr
+  459  vi 2009cb.003
+  460  awk '{print NR, $0}' 2009cb.003
+  461  awk '{print NR, $0}' 2009cb.003 > 2009cb.004
+  462  ls -tr
+  463  ls *18*.*
+  464  ls -tr *18*.*
+  465  head tax1809.001
+  466  rm tax1809.001
+  467  ls -tr *18*.*
+  468  head sort18.001
+  469  sort -d 2009cb.004
+  470  man sort
+  471  awk '{print $2,$1}' 2009cb.004|sort -d|awk '{print $2,$1}'
+  472  awk '{print $2,$1}' 2009cb.004|sort -d|awk '{print $2,$1}' > 2009cb.005
+  473  awk '{print $2,$1}' 2009cb.004|sort -d > 2009cb.005
+  474  head 2009cb.005
+  475  ls -tr
+  476  head sort18.001
+  477  join -1 2 -2 2 sort18.001 2009cb.005
+  478  head 2009cb.005
+  479  head sort18.001
+  480  awk '{print $2,$1}' sort18.001 > sort18.002
+  481  head sort18.002
+  482  join -1 1 -2 1 sort18.002 2009cb.005
+  483  join -1 1 -2 1 sort18.002 2009cb.005 > 18to09.001
+  484  join -1 1 -2 1 sort18.002 2009cb.005
+  485  join -1 1 -2 1 sort18.002 2009cb.005 > 18to09.001
+  486  vi 18to09.001
+  487  sort -k 2 18t009.001
+  488  sort -k 2 18to09.001
+  489  sort -k 3 18to09.001
+  490  sort -k -n 3 18to09.001
+  491  man sort
+  492  sort -kn 3 18to09.001
+  493  sort -n  18to09.001
+  494  sort -n -k 2  18to09.001
+  495  sort -n -k 2  18to09.001 > 18sort09.txt
+  496  sort -n -k 3  18to09.001 > 09sort18.txt
+  497  vi 18sort09.txt
+  498  vi 09sort18.txt
+  499  vi 18sort09.txt
+  500  exit
+  501  cd /cygdirve/c/zoonomen/avtax
+  502  cd c:/zoonomen/avtax
+  503  ls
+  504  ls
+  505  ls -tr
+  506  cd ./deltasb
+  507  ls
+  508  head 2009cb.001
+  509  vi 2009cb.001
+  510  e Acanthvi 2009cb.001
+  511  alias e=egrep
+  512  e Acanth 2009cb.001
+  513  e Acanthis 2009cb.001
+  514  sort -d Acanthis 2009cb.001|uniq -d
+  515  sort -d  2009cb.001|uniq -d
+  516  sort -d  2009cb.001|uniq
+  517  sort -d  2009cb.001|uniq|wc
+  518  tail 2009cb.001
+  519  ls *.sh
+  520  vi trimnam.sh
+  521  ./trimnam.sh
+  522  ls -tr
+  523  vi 2009cb2.001
+  524  awk '{print $0,NR}' 2009cb2.001
+  525  awk '{print $0,NR}' 2009cb2.001 > 2009cb2.002
+  526  ls -tr
+  527  ls -tr *18*.*
+  528  vi spnm18.001
+  529  ls -tr
+  530  head splst.001
+  531  head splst.002
+  532  vi trimnam.sh
+  533  ./trimnam.sh
+  534  ls -tr
+  535  vi 2018cb2.001
+  536  awk '{print $0,NR}' 2018cb2.001 > 2018cb2.002
+  537  ls 20*.002
+  538  ls 20*2.002
+  539  head 20*2.002
+  540  ls 20*2.002
+  541  vi 2009cb2.002
+  542  history
+  543  history > hx180111.txt
+  544  vi hx180111.txt
+  545  ls
+  546  cat dagger.sed
+  547  sed -f dagger.sed 2009cb.002
+  548  sed -f dagger.sed 2009cb.002|e 82
+  549  sed -f dagger.sed 2009cb.002 > 2009cb.003
+  550  ls
+  551  ls -tr
+  552  vi trimnam.sh
+  553  vi trimnam.sh
+  554  vi 2009cb.003
+  555  vi trimnam.sh
+  556  ./trimnam.sh
+  557  ls -tr
+  558  vi 2009cb.004
+  559  vi 2009cb.003
+  560  vi 2009cb.004
+  561  vi trimnam.sh
+  562  ./trimnam.sh
+  563  vi 2009cb.004
+  564  awk '{print $0, NR}' 2009cb.004 > 2009cb.005
+  565  vi 2009cb.005
+  566  sort -d 2009cb.005 > 2009cbs.001
+  567  head 2009cbs.001
+  568  history > hx002.txt
+  569  vi hx.002.txt
+  570  vi hx002.txt
+  571  vi mk001.sh
+  572  ls -tr 
+  573  ls *002
+  574  head spl418.002
+  575  ls
+  576  ls -tr
+  577  head splst.001
+  578  head 2009cb.002
+  579  head splst.002
+  580  e 8 splst.002
+  581  ls -tr
+  582  vi mk001.sh
+  583  vi trm*.sh
+  584  vi trim*.sh
+  585  vi mk001.sh
+  586  vi trim*.sh
+  587  ls -tr
+  588  chmod +x mk001.sh
+  589  ./mk001.sh
+  590  ls -tr
+  591  head 2018cbs.001
+  592  ls 20*cbs.001
+  593  join 20*cbs.001
+  594  join 20*cbs.001 > joinout.001
+  595  ls joinout.001
+  596  vi joinout.001
+  597  e Cathartes 20*cbs.001
+  598  e Cathartes 2018cbs.001
+  599  e Corag 20*cbs.001
+  600  ls -tr
+  601  e Corag 2018cbs.003
+  602  e Corag 2018cb.003
+  603  e Corag splst.002
+  604  e Corag splst.001
+  605  ls -tr ../
+  606  ls -tr ../cb*
+  607  ls -tr ../cb*.*
+  608  ls -trl ../cb*.html
+  609  cd ../
+  610  ls
+  611  ls *.sh
+  612  cat cball.sh
+  613  ls -trl cball
+  614  e Coragyps cball
+  615  e Cathartes cball
+  616  e leclancheri cball
+  617  ls -tr
+  618  cp cball deltasb
+  619  cp cball ./deltasb
+  620  ls
+  621  ls -tr
+  622  ls ./deltasb
+  623  cd ./deltasb
+  624  ls
+  625  e '^<li>[A-Z][a-z]' cball
+  626  e '^<li>[A-Z][a-z]' cball|e leclan
+  627  cd ../
+  628  tail cball
+  629  e '^<li>[A-Z][a-z]' cball
+  630  f Harpactes
+  631  alias f=c:/zoonomen/avtax/f.sh
+  632  f Harpactes
+  633  e '^<li>[A-Z][a-z]' cball
+  634  e '^<li>[A-Z][a-z]' cball|wc
+  635  cd ./numfile
+  636  ls
+  637  ls -tr
+  638  vi num.scr
+  639  ls 0*.html
+  640  ls -tr 0*.html
+  641  ls -tr 0*.html|less
+  642  ls  0*.html|less
+  643  cat 0*.html
+  644  cat 0*.html| tr -d '\r' > cb0111.html
+  645  vi cb0111.html
+  646  e '^<li>[A-Z][a-z]' cb011.html
+  647  e '^<li>[A-Z][a-z]' cb0111.html
+  648  e '^<li>[A-Z][a-z]' cb0111.html|wc
+  649  e '^<li>[A-Z][a-z]' cb0111.html| awk '{print $1,$2}'
+  650  e '^<li>[A-Z][a-z]' cb0111.html| awk '{print $1,$2}' > splst0111.001
+  651  vi splst0111.01
+  652  vi splst0111.001
+  653  ls -tr ../
+  654  cp splst0111.001 ../deltasb
+  655  cd ../deltasb
+  656  ls -tr
+  657  vi mk001.sh
+  658  vi mk001.sh
+  659  ./mk001.sh
+  660  ls -tr
+  661  vi 2018cbs.001
+  662  vi mk001.sh
+  663  ./mk001.sh
+  664  vi 2018cbs.001
+  665  e Cathartes 2018cbs.001
+  666  wc 2018cbs.001
+  667  tail 2018cbs.001
+  668  vi 2018cbs.001
+  669  ls -tr
+  670  e Cathartes *cbs.001
+  671  e Cathartes splst0111.001
+  672  e Corag splst0111.001
+  673  e leclan splst0111.001
+  674  e leclan *.001
+  675  e Sagitt *.001
+  676  cd ../
+  677  cd ./numfile
+  678  e Cathartes *.html
+  679  e Cathartes 0*.html
+  680  e Corag 0*.html
+  681  ls
+  682  ls *acc*.*
+  683  vi 0066acci.html
+  684  cd ../
+  685  ls *acc*.*
+  686  e Cath *acc*.*
+  687  cp -puv acci.html ./numfile
+  688  cd ./numfile
+  689  ./num.scr
+  690  cd ../
+  691  cp -puv ????.html ./numfile
+  692  vi catt.html
+  693  cd ./numfile
+  694  ls catt*.*
+  695  e catt num.scr
+  696  rm catt*.*
+  697  cd ..
+  698  ls -trl catt.*
+  699  vi toc.html
+  700  mv catt.html cattxxx.html
+  701  ls
+  702  ./numfile
+  703  ./num.scr
+  704  ls
+  705  ls -tr
+  706  cd ./numfile
+  707  ./num.scr
+  708  cd ../
+  709  ls *.sh
+  710  ./cb2.sh
+  711  ./cball.sh
+  712  cat start.sh
+  713  ls -tr
+  714  head cball
+  715  head cball|cat -vt
+  716  e '^<li>[A-Z][a-z]' cball
+  717  e Cathartes cball
+  718  tail cball
+  719  vi cball
+  720  f Harpactes
+  721  cat cball.sh
+  722  ls *.sh
+  723  cat cbag.sh
+  724  vi spall.sh
+  725  chmod +x spall.sh
+  726  ./spall.sh
+  727  ls -tr
+  728  vi cballsp
+  729  chmod +x spall.sh
+  730  vi spall.sh
+  731  ./spall.sh
+  732  ls -tr
+  733  vi cballsp
+  734  vi spall.sh
+  735  ls -tr
+  736  cp ./deltasb/dagger.sed c:/zoonomen/avtax/tools/
+  737  vi spall.sh
+  738  ./spall.sh
+  739  ls -tr
+  740  vi cballsp.004
+  741  cat ./tools/dagger.sed
+  742  vi spall.sh
+  743  sed -f c:/zoonomen/avtax/tools/dagger.sed cballsp.003
+  744  sed -f c:/zoonomen/avtax/tools/dagger.sed cballsp.003|e 822
+  745  vi ./tools/dagger.sed
+  746  ./spall.sh
+  747  vi cballsp.004
+  748  head cballsp.004
+  749  vi spall.sh
+  750  ls -tr
+  751  ls ./deltasb
+  752  ls ./deltasb/*.sh
+  753  cp ./deltasb/trimnam.sh ./tools/
+  754  vi spall.sh
+  755  vi ./tools/trimnam.sh
+  756  vi spall.sh
+  757  ./spall.sh
+  758  ls -tr
+  759  vi 2018cbsps.001
+  760  vi spall.sh
+  761  ./spall.sh
+  762  vi spall.sh
+  763  ./spall.sh
+  764  ls -tr
+  765  vi 2018cbsps.001
+  766  cp 2018cbsps.001 ./deltasb
+  767  cd ./deltasb
+  768  ls
+  769  ls -tr
+  770  ls -tr 2009*.*
+  771  head 2009cbs.001
+  772  join 2009dbs.001 2018cbsps.001
+  773  join 2009cbs.001 2018cbsps.001
+  774  join 2009cbs.001 2018cbsps.001 > try02.out
+  775  vi try02.out
+  776  ls ls -tr
+  777  ls
+  778  ls -tr
+  779  head cat0109.html
+  780  awk '$0~/<h2>|^<li>/' cat0109.html
+  781  awk '$0~/<h2>|^<li>/' cat0109.html|less
+  782  awk '$0~/<h2>|^<li>/{print $1,$2}' cat0109.html|less
+  783  awk '$0~/<h2>|^<li>/{print $1,$2}' cat0109.html|sed -f c:/zoonomen/avtax/tools/tagsed
+  784  awk '$0~/<h2>|^<li>/{print $1,$2}' cat0109.html|sed -f c:/zoonomen/avtax/tools/tagsed|less
+  785  awk '$0~/<h2>|^<li>/{print $1,$2}' cat0109.html|sed -f c:/zoonomen/avtax/tools/tagsed|sed -f c:/zoonomen/avtax/tools/dagger.sed
+  786  awk '$0~/<h2>|^<li>/{print $1,$2}' cat0109.html|sed -f c:/zoonomen/avtax/tools/tagsed|sed -f c:/zoonomen/avtax/tools/dagger.sed|e 82
+  787  awk '$0~/<h2>|^<li>/{print $1,$2}' cat0109.html|sed -f c:/zoonomen/avtax/tools/tagsed|sed -f c:/zoonomen/avtax/tools/dagger.sed > Fsp.001
+  788  vi Fsp.001
+  789  awk '$2~/[A-Z]' Fsp.001
+  790  awk '$2~/[A-Z]/' Fsp.001
+  791  awk '$2~/[A-Z]/' Fsp.001|wc
+  792  vi Fsp.001
+  793  awk '$2~[A-Z][a-z]/ {print $1}' Fsp.001
+  794  awk '$2~/[A-Z][a-z]/ {print $1}' Fsp.001
+  795  vi Fsp.001
+  796  sed '/[A-Z][A-Z]/ s/$/####/' Fsp.001
+  797  sed '/[A-Z][A-Z]/ s/$/####/' Fsp.001|less
+  798  sed '/[A-Z][A-Z]/ s/$/####/' Fsp.001 > Fsp.002
+  799  sed '/[A-Z][A-Z]/ s/$/####/' Fsp.001 > Fsp09.002
+  800  rm Fsp.002
+  801  vi Fsp09.002
+  802  cat c:/awk/gen2.awk
+  803  cp c:/awk/gen2.awk .
+  804  vi gen2.awk
+  805  ls -tr
+  806  awk -f gen2.awk Fsp.002
+  807  awk -f gen2.awk Fsp09.003
+  808  ls -tr
+  809  cat trimnma.sh
+  810  cat trimnam.sh
+  811  vi trimnam.sh
+  812  ./trimnam.sh
+  813  ls -tr
+  814  vi trimnam.sh
+  815  ls -tr
+  816  ls *.004
+  817  ls '*.004
+  818  ls -tr
+  819  vi trimnam.sh
+  820  ./trimnam.sh
+  821  ls 
+  822  ls -tr
+  823  ls -tr
+  824  awk -f gen2.awk Fsp.004
+  825  ls -tr
+  826  ls -tr *18*.*
+  827  head spl418.001
+  828  ls *09*.*
+  829  ls [^F]*09.*
+  830  rm [^F]*09.*
+  831  ls
+  832  history > hx0113.txt
+  833  vi hx0113.txt
+  834  cd ../
+  835  ls cat*.*
+  836  ls ./numfile
+  837  ls ./numfile/ca*.*
+  838  cd ./numfile
+  839  ls
+  840  ls 0*.html
+  841  cat  0*.html
+  842  cat  0*.html|tr -d '\r'
+  843  cat  0*.html|tr -d '\r' > cat0118.html
+  844  awk '$1~/^<li>/|^<h2>/' cat0118.html
+  845  awk '$1~/^<li>/|$1~^<h2>/' cat0118.html
+  846  awk '$1~/^<li>/' cat0118.html
+  847  awk '$0~/^<li>/' cat0118.html
+  848  awk '$0~/^<li>/|$0~/^<h>/' cat0118.html
+  849  awk '$0~/^<li>/|/^<h>/' cat0118.html
+  850  awk '$0~/^<li>/' cat0118.html
+  851  awk '$0~/^<li>/{print NR, $1,$2}' cat0118.html
+  852  awk '$0~/^<li>/{print NR, $1,$2}' cat0118.html >csp01.html
+  853  awk '$0~/^<h2i>/{print NR, $1}' cat0118.html >csp01.html
+  854  awk '$0~/^<li>/{print NR, $1,$2}' cat0118.html >csp01.html
+  855  awk '$0~/^<h2i>/{print NR, $1}' cat0118.html >cf01.html
+  856  head cf01.html
+  857  awk '$0~/^<h2>/{print NR, $1}' cat0118.html >cf01.html
+  858  head cf01.html
+  859  ls
+  860  ls -tr
+  861  e IDAE cat0118.html
+  862  e -n IDAE cat0118.html
+  863  e -n IDAE cat0118.html|awk '{print $1}'
+  864  e -n IDAE cat0118.html|awk '{print $1}' > catf18.001
+  865  ls -tr
+  866  head csp01.html
+  867  cat csp01.html catf18.001|sort
+  868  cat csp01.html sort
+  869  cat csp01.html| sort
+  870  cat csp01.html| sort|e leclan
+  871  cat csp01.html| sort -n
+  872  mkdir ./hx
+  873  history >/hx/hx181015.txt
+  874  history > ./hx/hx181015.txt
