@@ -1625,7 +1625,7 @@ Hellmayr, Field Mus. Nat. Hist. Publ., Zool. Ser., 12, 1929, p. 381-
 
 
 
-Threnetes niger (Linn6) 
+Threnetes niger (Linne) 
 
 
 
@@ -1685,7 +1685,7 @@ Threnetes leucurus leucurus (Linne)
 
 
 
-Trochilus leucurus Linn6, Syst. Nat., ed. 12, 1, 1766, p. 190. (South 
+Trochilus leucurus Linne, Syst. Nat., ed. 12, 1, 1766, p. 190. (South 
 
  America = Surinam, ex Edwards, pi. 256, f. 1.) 
 
@@ -2183,7 +2183,7 @@ Phaethornis superciliosus superciliosus (Linn£)
 
 
 
-Trochilus superciliosus Linn6, Syst. Nat., ed. 12, 1, 1766, p. 189. 
+Trochilus superciliosus Linne, Syst. Nat., ed. 12, 1, 1766, p. 189. 
 
 
 
@@ -2669,11 +2669,11 @@ p. 14. (British Guiana.)
 
 
 
-Phaethornis ruber ruber (Linn6) 
+Phaethornis ruber ruber (Linne) 
 
 
 
-Trochilus ruber Linn6, Syst. Nat., ed. 10, 1, 1758, p. 121. (Surinam, 
+Trochilus ruber Linne, Syst. Nat., ed. 10, 1, 1758, p. 121. (Surinam, 
 
  ex Edwards p. 32, pi. 32, upp. f.) 2 
 
@@ -3608,11 +3608,11 @@ Florisuga Bonaparte, Consp. Av., 1, Mar., 1850, p. 73. Type, by sub-
 
 
 
-Florisuga mellivora mellivora (Linn6) 
+Florisuga mellivora mellivora (Linne) 
 
 
 
-Trochilus mellivorus Linn6, Syst. Nat., ed. 10, 1, 1758, p. 121. 
+Trochilus mellivorus Linne, Syst. Nat., ed. 10, 1, 1758, p. 121. 
 
 
 
@@ -4354,7 +4354,7 @@ Anthracothorax y Sericotes Reichenbach, Journ. f. Orn., 1, 1854,
 
  Beil. zu Extrah., p. 11. Type, by subsequent designation, Tro- 
 
- chilus holosericeus Linn6. (Gray, Cat. Gen. Subgen. Bds., 1855, 
+ chilus holosericeus Linne. (Gray, Cat. Gen. Subgen. Bds., 1855, 
 
  p! 139). 
 
@@ -4366,7 +4366,7 @@ Sericotes holosericeus holosericeus (Linn£)
 
 
 
-Trochilus holosericeus Linn6, Syst. Nat., ed. 10, 1, 1758, p. 120. 
+Trochilus holosericeus Linne, Syst. Nat., ed. 10, 1, 1758, p. 120. 
 
  (America = Lesser Antilles.) 
 
@@ -4415,7 +4415,7 @@ Chrysolampis Boie, Isis von Oken, 1831, col. 546. Type, by subse-
 
 
 
-Chrysolampis mosquitus (Linn6) 
+Chrysolampis mosquitus (Linne) 
 
 
 
@@ -4532,7 +4532,7 @@ Vincent.)
 
 
 
-Orthorhyncus cristatus cristatus (Linn6) 
+Orthorhyncus cristatus cristatus (Linne) 
 
 
 
@@ -7994,7 +7994,7 @@ Trochilus polytmus polytmus Linne*
 
 
 
-Trochilus Polytmus Linn6, Syst. Nat., ed. 10, 1, 1758, p. 120. 
+Trochilus Polytmus Linne, Syst. Nat., ed. 10, 1, 1758, p. 120. 
 
 
 
@@ -8145,7 +8145,7 @@ Trochilus guainumbi Pallas in Vroeg's Catalogue, Adumbr., 1764,
 
 
 
-Polytmus guainumbi thaumantias (Linn6) 
+Polytmus guainumbi thaumantias (Linne) 
 
 
 
@@ -9725,7 +9725,7 @@ p. 122, 338. (San Fernando de Apure, Venezuela.)
 
 
 
-2 Simon proposes to use Trochilus mellisugus Linn6, Syst. Nat., ed. 10, 1, 
+2 Simon proposes to use Trochilus mellisugus Linne, Syst. Nat., ed. 10, 1, 
 
  1758, p. 121 for this bird; I cannot reconcile the brief diagnosis with any species 
 
@@ -17711,7 +17711,7 @@ Selasphorus /3 Archilochus Reichenbach, Journ. f. Orn., 1, 1854,
 
 
 
-Archilochus colubris (Linn6) 
+Archilochus colubris (Linne) 
 
 
 
@@ -17859,7 +17859,7 @@ Mellisuga minima minima (Linne)
 
 
 
-Trochilus minimus Linn6, Syst. Nat., ed. 10, 1, 1758, p. 121. 
+Trochilus minimus Linne, Syst. Nat., ed. 10, 1, 1758, p. 121. 
 
 
 
@@ -19095,7 +19095,7 @@ p. 351. (No locality, according to Sharpe, Cat. Bds. Brit. Mus.,
 
 
 
-Colius colius (Linn6) 
+Colius colius (Linne) 
 
 
 
@@ -19657,7 +19657,7 @@ Genus TROGON Brisson
 
 Trogon Brisson, Orn., 1, 1760, p. 42; 4, p. 164. Type, by subsequent 
 
- designation, Trogon viridis Linn6 = Trogon strigilatus Linn6 
+ designation, Trogon viridis Linne = Trogon strigilatus Linne 
 
  (Stone, Auk, 24, 1907, p. 192). 
 
@@ -19901,13 +19901,13 @@ Trogon strigilatus strigilatus Linne
 
 
 
-Trogon strigilatus Linn6, Syst. Nat., ed. 12, 1, 1766, p. 167, no. 1. 
+Trogon strigilatus Linne, Syst. Nat., ed. 12, 1, 1766, p. 167, no. 1. 
 
 
 
 (Cayenne.) 
 
- Trogon viridis Linn6, Syst. Nat., ed. 12, 1, 1766, p. 167, no. 3. 
+ Trogon viridis Linne, Syst. Nat., ed. 12, 1, 1766, p. 167, no. 3. 
 
 
 
@@ -20592,7 +20592,7 @@ From the base of the Eastern Andes of Colombia, south to the Beni
 
 
 
-Trogon curucui curucui Linn6 
+Trogon curucui curucui Linne 
 
 
 
@@ -20602,7 +20602,7 @@ Trogon Curucui Linne\ Syst. Nat., ed. 12, 1, 1766, p. 167, no. 2.
 
 
 
-1 For the latest word on the identity of Trogon curucui Linn6, see Schneider, 
+1 For the latest word on the identity of Trogon curucui Linne, see Schneider, 
 
  Journ. f. Orn., 88, 1938, p. 91-92. 
 
@@ -21671,7 +21671,7 @@ Ispida gigantea Swainson, Bds. West Afr., 2, 1837, p. 93, pi. 11.
 
 
 
-Ceryle torquata torquata (Linn6) 
+Ceryle torquata torquata (Linne) 
 
 
 
@@ -21746,7 +21746,7 @@ Breeds west of the Rocky Mountains from northern Alaska and
 
 
 
-Ceryle alcyon alcyon (Linn6) 
+Ceryle alcyon alcyon (Linne) 
 
 
 
@@ -21778,7 +21778,7 @@ Ceryle rudis rudis (Linne)
 
 
 
-Alcedo rudis Linn6, Syst. Nat., ed. 10, 1, 1758, p. 116. (Egypt.) 
+Alcedo rudis Linne, Syst. Nat., ed. 10, 1, 1758, p. 116. (Egypt.) 
 
  Asia Minor, Syria and Palestine, east to the Persian Gulf; Egypt; 
 
@@ -22060,7 +22060,7 @@ Alcedo viridis Vieillot, Nouv. Diet. Hist. Nat., 19, 1818, p. 413.
 
 
 
-Chloroceryle inda inda (Linn6) 
+Chloroceryle inda inda (Linne) 
 
 
 
@@ -22195,7 +22195,7 @@ Pseudalcedo Laubmann (subgenus), Arch. f. Naturg., 89, Abth. A,
 
 
 
-1 Replaces Ceryle superciliosa (Linn6) 1766, of Sharpe's Hand-list. 
+1 Replaces Ceryle superciliosa (Linne) 1766, of Sharpe's Hand-list. 
 
 
 
@@ -22278,7 +22278,7 @@ Alcedo atthis ispida Linne*
 
 
 
-Alcedo Ispida Linn6, Syst. Nat., ed. 10, 1, 1758, p. 115. (Europe 
+Alcedo Ispida Linne, Syst. Nat., ed. 10, 1, 1758, p. 115. (Europe 
 
 
 
@@ -23141,7 +23141,7 @@ Italian Somaliland.)
 
 
 
-Ispidina picta natal ensis (A. Smith) 
+Ispidina picta natalensis (A. Smith) 
 
 
 
@@ -23181,7 +23181,7 @@ Ceyx Lacepede, Tabl. Ois., 1799, p. 10. Type, by monotypy, Alcedo
 
 
 
-tridactyla Pallas = Alcedo erithaca Linn6 (species added, 
+tridactyla Pallas = Alcedo erithaca Linne (species added, 
 
 
 
@@ -23925,11 +23925,11 @@ p. 13. (Guadalcanal, Solomon Islands.)
 
 
 
-Ceyx erithacus erithacus (Linn6) 
+Ceyx erithacus erithacus (Linne) 
 
 
 
-Alcedo erithaca Linn6, Syst. Nat., ed. 10, 1, 1758, p. 115. (Bengal.) 
+Alcedo erithaca Linne, Syst. Nat., ed. 10, 1, 1758, p. 115. (Bengal.) 
 
 
 
@@ -24406,11 +24406,11 @@ Ramphalcyon capensis isoptera Oberholser, Proc. U. S. Nat. Mus., 35,
 
 
 
-Pelargopsis capensis capensis (Linn6) 
+Pelargopsis capensis capensis (Linne) 
 
 
 
-Alcedo capensis Linn6, Syst. Nat., ed. 12, 1, 1766, p. 180. (Cape of 
+Alcedo capensis Linne, Syst. Nat., ed. 12, 1, 1766, p. 180. (Cape of 
 
 
 
@@ -28113,7 +28113,7 @@ Tanysiptera Vigors, Trans. Linn. Soc. London, 14, 1825, p. 433,
 
  note. Type, by monotypy, Alcedo dea Linne\ 1766, not Alcedo 
 
- dea Linn6, 1758 = Tanysiptera nais G. R. Gray. 
+ dea Linne, 1758 = Tanysiptera nais G. R. Gray. 
 
 
 
@@ -28595,11 +28595,11 @@ p. 478. (Hispaniola.)
 
 
 
-Todus todus (Linn6) 
+Todus todus (Linne) 
 
 
 
-Alcedo Todus Linn6, Syst. Nat., ed. 10, 1, 1758, p. 116. (America = 
+Alcedo Todus Linne, Syst. Nat., ed. 10, 1, 1758, p. 116. (America = 
 
 
 
@@ -29500,11 +29500,11 @@ Momotus microstephanus Sclater, Proc. Zool. Soc. London, pt. 25,
 
 
 
-Momotus momota momota (Linn6) 
+Momotus momota momota (Linne) 
 
 
 
-Ramphastos momota Linn6, Syst. Nat., ed. 12, 1, 1766, p. 152. 
+Ramphastos momota Linne, Syst. Nat., ed. 12, 1, 1766, p. 152. 
 
  (Cayenne.) 
 
@@ -30254,7 +30254,7 @@ Genus MEROPS Linne
 
 
 
-Merops Linn6, Syst. Nat., ed. 10, 1, 1758, p. 117. Type, by tau- 
+Merops Linne, Syst. Nat., ed. 10, 1, 1758, p. 117. Type, by tau- 
 
  tonymy, Merops apiaster Linne" (Merops, prebinomial specific 
 
@@ -30462,7 +30462,7 @@ Merops superciliosus philippinus Linne"
 
 
 
-Merops philippinus Linn6, Syst. Nat., ed. 12, 1, 1766, errata at end 
+Merops philippinus Linne, Syst. Nat., ed. 12, 1, 1766, errata at end 
 
  of volume; name for Merops 5th sp., p. 183. (Philippine Islands.) 
 
@@ -30710,7 +30710,7 @@ Merops viridis viridis Linne"
 
 
 
-Merops viridis Linn6, Syst. Nat., ed. 10, 1, 1758, p. 117. (Java, 
+Merops viridis Linne, Syst. Nat., ed. 10, 1, 1758, p. 117. (Java, 
 
  Bengal; restricted type locality, Java, from the 1st reference; 
 
@@ -31281,7 +31281,7 @@ Coracias garrulus garrulus Linne
 
 
 
-Coracias Garrulus Linn6, Syst. Nat., ed. 10, 1, 1758, p. 107. (Europe, 
+Coracias Garrulus Linne, Syst. Nat., ed. 10, 1, 1758, p. 107. (Europe, 
 
  restricted type locality, Sweden.) 
 
@@ -31387,7 +31387,7 @@ Coracias caudata caudata Linne 1
 
 
 
-Coracias caudata Linn6, Syst. Nat., ed. 12, 1, 1766, p. 160. (Angola.) 
+Coracias caudata Linne, Syst. Nat., ed. 12, 1, 1766, p. 160. (Angola.) 
 
  Coracias caudatus suahelicus Neumann, Journ. f. Orn., 55, 1907, 
 
@@ -31502,7 +31502,7 @@ Coracias benghalensis indica Linne*
 
 
 
-Coracias indica Linn6, Syst. Nat., ed. 12, 1, 1766, p. 159. (East 
+Coracias indica Linne, Syst. Nat., ed. 12, 1, 1766, p. 159. (East 
 
 
 
@@ -31774,7 +31774,7 @@ Mus., Fissirostres, 1848, p. 32. In synonymy of Eurystomus
 
 
 
-orientalis (Linn6). 
+orientalis (Linne). 
 
  Eurystomus calonyx Sharpe, Proc. Zool. Soc. London, 1890, p. 551. 
 
@@ -31825,11 +31825,11 @@ Northern Siam; in migration to Sumatra, Nias, Java, Borneo and
 
 
 
-Eurystomus orientalis orientalis (Linn6) 
+Eurystomus orientalis orientalis (Linne) 
 
 
 
-Coracias orientalis Linn6, Syst. Nat., ed. 12, 1, 1766, p. 159. ("India 
+Coracias orientalis Linne, Syst. Nat., ed. 12, 1, 1766, p. 159. ("India 
 
  orientali" = Java, apud Stresemann.) 
 
@@ -33160,7 +33160,7 @@ Afr., 1894, p. 128. (Mgera, Tanganyika Territory.)
 
 
 
-Tockus nasutus nasutus (Linn6) 
+Tockus nasutus nasutus (Linne) 
 
 
 
@@ -34978,7 +34978,7 @@ Buceros bicorais Linne
 
 
 
-Buceros bicornis Linn6, Syst. Nat., ed. 10, 1, 1758, p. 104. (China, 
+Buceros bicornis Linne, Syst. Nat., ed. 10, 1, 1758, p. 104. (China, 
 
  i.e. Tonkin.) 
 
