@@ -9104,7 +9104,7 @@ Genus HESPERIPHONA Bonaparte.
 
 
 
-Hesperiphona Bonapakte, Compt. Rend., xxxi, 1850, 424. (Type, FringiUa vesper- 
+Hesperiphona Bonapakte, Compt. Rend., xxxi, 1850, 424. (Type, Fringilla vesper- 
 
 
 
@@ -9905,7 +9905,7 @@ Mountains of southei'n Mexico, in States of Oaxaca (Sierra San
 
 
 
-IHespeiijtIiona] vespertimi (not FringiUa vespertina W. Cooper, 1825) Bonaparte, 
+IHespeiijtIiona] vespertimi (not Fringilla vespertina W. Cooper, 1825) Bonaparte, 
 
 
 
@@ -13301,7 +13301,7 @@ F. [ringilla] tephrocotis Gray', Gen. Birds, ii, 1844, 372.
 
 Montifringilla tephrocotis Bonaparte and Schlegel, Men. Lox., 1850, 37, pi. 
 
- 43.— HoMEYER, Journ. fiirOrn., 1880, 201. — Shaepe, Cat. Birds Brit. Mus., 
+ 43.— HoMEYER, Journ. fur Orn., 1880, 201. — Shaepe, Cat. Birds Brit. Mus., 
 
  xii, 1888, 273. 
 
@@ -13382,7 +13382,7 @@ Leucosticte griseinucha (not Fringilla griseonucha Brandt) Brown, Ibis, 1868, 42
 
 
 
-Montifringilla . . . ^riseinuc/iaHoMEYEK, Journ. fiirOrn., 1880, 153 (Oregon). 
+Montifringilla . . . ^riseinuc/iaHoMEYEK, Journ. fur Orn., 1880, 153 (Oregon). 
 
 
 
@@ -16001,7 +16001,7 @@ Mjiothus linaria Blakiston, Ibis, 1863, 71 (China). — Swinhoe, Proc. Zool. Soc
 
  KuMLiEN, Bull. U. S. Nat. Mus., no. 15, 1879, 75 (Cumberland Sound and 
 
- Kikkertonislds., Sept., Oct.). — Bolau, Journ. fiirOrn., 1880, 127 (e. Siberia); 
+ Kikkertonislds., Sept., Oct.). — Bolau, Journ. fur Orn., 1880, 127 (e. Siberia); 
 
  1882, 335 (e. Siberia).— RimwAY, Xom. N. Am. Birds, 1881, no. 197; Proc. 
 
@@ -17269,7 +17269,7 @@ cucullata Swainson. )
 
 
 
-Sporagra Reichenbach, Av. Syst. Nat., 1850, pi. 79, fig. 14. (Type, FringiUa 
+Sporagra Reichenbach, Av. Syst. Nat., 1850, pi. 79, fig. 14. (Type, Fringilla 
 
 
 
@@ -18583,7 +18583,7 @@ Chrysomitris bryanti Cassin, Proc. Ac. Nat. Sci. Phila., 1865, 91 (Dota, Costa R
 
  Lawrence, Ann. Lye. N. Y.,ix, 1868, 104 (Costa Rica).— Frantzius, Journ. 
 
- fiirOrn., 1869,302 (Costa Rica).— Boucaed, Proc. Zool. Soc. Lond., 1878, 56 
+ fur Orn., 1869,302 (Costa Rica).— Boucaed, Proc. Zool. Soc. Lond., 1878, 56 
 
  (Volcan de Irazii, Costa Rica). 
 
@@ -23813,7 +23813,7 @@ Fringilla montanaTEHMiKCK, Man. d'Orn., i, 1820, 354.— Xaumann, Vog. Deutschl.
 
  Yahrell, Hist. Brit. Birds, i, 1843, 469.— KjiEKBOLLiNG, Danm. Fugle, 1852, 
 
- pi. 26, fig. 5.— SuNDEVALL, Svensk. Fogl., 1856, pi. 5, fig. 7.— Schlegbl, 
+ pi. 26, fig. 5.— Sundevall, Svensk. Fogl., 1856, pi. 5, fig. 7.— Schlegbl, 
 
  Dier. Nederl., Vog., i, 1860, 120, pi. 16, fig. 3. 
 
@@ -24467,7 +24467,7 @@ Iceland, 1863, 409.— Hakting, Handb. Brit. Birds, 1872, 25.— Sbebohji, Hist.
 
 
 
-Pr(s.Sf rma n»((?/.s ViEiLLOT, Faune Fran?., 1820, 86. — Roux, Orn. Prov., 1825, pi. 
+Pr(s.Sf rma n»((?/.s Vieillot, Faune Fran?., 1820, 86. — Roux, Orn. Prov., 1825, pi. 
 
  103. — EiDGw.iY, Auk, XV, Oct., 1898, 324.— American Ornithologists' Union 
 
@@ -25580,7 +25580,7 @@ Emberiza lapponica 'Navma'ns, Yog. Deutschl., iv, 1824,319, pi. 108. — Bonapar
 
  365.— Schleqel, Vog. NederL, 1854, pi. 160; Dier. Nederl., Vog., i, 1860, 118, 
 
- pi. 15, figs. 12, 13. — SuNDEVALL, Svensk. Fogl., 1858, pi. 7, figs. 3, 4. — Hart- 
+ pi. 15, figs. 12, 13. — Sundevall, Svensk. Fogl., 1858, pi. 7, figs. 3, 4. — Hart- 
 
  I^'G, Handb. Brit. Birds, 1872, 25.— Seebohm, Hist. Brit. Birds, ii, 1884, 131. 
 
@@ -27068,7 +27068,7 @@ Great Plains between Missouri River and Rock^^ Mountains, breed-
 
 
 
-FringiUa bicolor (not of Linnseus) Townsend, Journ. Ac. Nat. Sci. Phila., vii, 1837, 
+Fringilla bicolor (not of Linnseus) Townsend, Journ. Ac. Nat. Sci. Phila., vii, 1837, 
 
  189 (plains of Platte E.; type in U. S. Nat. Mus.) ; Narrative, 1839, 346.— 
 
@@ -30101,7 +30101,7 @@ Eastern North America, breeding from Connecticut, Pennsylvania
 
 
 
-FringiUa savanna (not F. sarannanHn Gmelin) "Wilson, Am. Orn., iii, 1811, 55, 
+Fringilla savanna (not F. sarannanHn Gmelin) "Wilson, Am. Orn., iii, 1811, 55, 
 
  pi. 22, fig. 3; iv, 1811, 72, pi. 34, fig. 4.— Nuttall, Man. Orn. U. S. and Can., 
 
@@ -30650,7 +30650,7 @@ Passerculus savanna alaudinus Ridgway, Bull. Essex Inst., vii, Jan., 1875, 11, 1
 
  Bull. Nutt. Orn. Club, v, 1880, 14 (Grant and Traverse counties, Minnesota, 
 
- breeding).— Finsch, Journ. fiirOrn., 1883, 273 (Portage Bay, Alaska, May). 
+ breeding).— Finsch, Journ. fur Orn., 1883, 273 (Portage Bay, Alaska, May). 
 
 
 
@@ -32132,7 +32132,7 @@ BIRDS OP NORTH AND MIDDLE AMERICA.
 
 
 
-[FringiUa] savannannn (tMelix, Syst. Xat., i, pt. ii, 1788, 921 (based on The 
+[Fringilla] savannannn (tMelix, Syst. Xat., i, pt. ii, 1788, 921 (based on The 
 
 
 
@@ -32180,7 +32180,7 @@ Am. Birds, 1862, 116 (Jamaica) .
 
  [Ammodramus} ti.ricras Gray, Hand-list, ii, 1870, 96, no. 7423. 
 
- Coturniculua passerinus (not FringiUa passerina Wilson) March, Proc. Acad. Nat. 
+ Coturniculua passerinus (not Fringilla passerina Wilson) March, Proc. Acad. Nat. 
 
 
 
@@ -32202,13 +32202,13 @@ part (Porto Rico; Jamaica). — Salvin and Godman, Biol. Centr.-Am., Aves,i,
 
 1886, 384, part (Porto Rico; Jamaica). 
 
- FringiUa passerina (not of Wilson) Bryant, Proc. Bost. Soc. N. H., x, 1866, 254 
+ Fringilla passerina (not of Wilson) Bryant, Proc. Bost. Soc. N. H., x, 1866, 254 
 
 
 
 (Porto Rico) . 
 
- FringiUa {Coturn iculus) passerina Sundevall, Ofv. K. Vet.-Ak. Forh. Stockholm, 
+ Fringilla {Coturn iculus) passerina Sundevall, Ofv. K. Vet.-Ak. Forh. Stockholm, 
 
 
 
@@ -34034,7 +34034,7 @@ A.[ininodramiis^ caudacutus Coues, Key N. Am. Birds, 2d ed., 1884, 368. — Ridg
 
 
 
-FringiUa Uttoralis Nuttall, Man. Orn. U. S. and Canada, i, 1832, 504 (New York 
+Fringilla Uttoralis Nuttall, Man. Orn. U. S. and Canada, i, 1832, 504 (New York 
 
  to Georgia; coll. Ac. Nat. Sci. Phila., no. 6442) ; 2d ed., i, 1840, 590. 
 
@@ -34516,7 +34516,7 @@ Prairie marshes of Mississippi Valley and central British Provinces,
 
 
 
-FringiUa caudacuta Nuttall, Man. Orn. TJ. S. and Canada, i, 1832, 505; 2d ed., 
+Fringilla caudacuta Nuttall, Man. Orn. TJ. S. and Canada, i, 1832, 505; 2d ed., 
 
  i, 1840, 591. 
 
@@ -38425,7 +38425,7 @@ Humid division of Lower Austral Province, from South Carolina and
 
 
 
-FringiUa bachmanii Audubon, Orn. Biog., ii, 1834, 366, pi. 165 (near Charleston, 
+Fringilla bachmanii Audubon, Orn. Biog., ii, 1834, 366, pi. 165 (near Charleston, 
 
  South Carolina; type in U. S. Nat. Mus.) . 
 
@@ -45550,7 +45550,7 @@ no. 177, part; 2d ed., 1882, no. 268, part; Birds N. W., 1874, 146, part; Bull.
 
  U. S. Geol. and Geog. Surv. Terr., iv, 1878, 590 (Souria R., North Dakota, 
 
- Oct. 5).— ScLATEK, Cat. Am. Birds, 1862, 114 (e. U. S.) .— Baied, Beewer, and 
+ Oct. 5).— Sclater, Cat. Am. Birds, 1862, 114 (e. U. S.) .— Baied, Beewer, and 
 
  BiDGWAY, Hist. N. Am. Birds, ii, 1874, 3, part, pi. 27, fig. 5.— McChesney, 
 
@@ -51615,7 +51615,7 @@ Twelve adult females from Great Plains district . . .
 
 
 
-j ''Fringilla fasciata Muller, Syst. Nat. Suppl.,1776, 165^FringiUa spimis JAansena. 
+j ''Fringilla fasciata Muller, Syst. Nat. Suppl.,1776, 165^Fringilla spimis JAansena. 
 
 
 
@@ -54071,7 +54071,7 @@ Melospiza melodia, var. rufina Baied, Beewee, and Ridgway, Hist. N. Am. Birds,
 
 
 
-(?) Melospiza melodia rufina Finsch, Journ. fiirOrn., 1883, 271 (Chilcoot, Alaska, 
+(?) Melospiza melodia rufina Finsch, Journ. fur Orn., 1883, 271 (Chilcoot, Alaska, 
 
  Jan. 30; crit.).— Goode, Bull. U. S. Nat. Mus., no. 20, 1883, 328.— Obeehol- 
 
@@ -54287,7 +54287,7 @@ crit.).
 
 (crit.). 
 
- Melospiza cinerea (not FringiUa cijierea Gmelin) Turnee, Contr. Nat. Hist. Alaska, 
+ Melospiza cinerea (not Fringilla cijierea Gmelin) Turnee, Contr. Nat. Hist. Alaska, 
 
 
 
@@ -54728,7 +54728,7 @@ Birds, ii, 1874, 30, part (Unalaska) .
 
 
 
-fig. 4.— FiNSCH, Abh. Nat. Ver. Brem., iii, 1872, 20.— Schalow, Journ. fiir 
+fig. 4.— Finsch, Abh. Nat. Ver. Brem., iii, 1872, 20.— Schalow, Journ. fiir 
 
 
 
@@ -54833,7 +54833,7 @@ BULLETIN 50, UNITED STATES NATIONAL MUSEUM.
 
 
 
-FringiUalincolnli Audubon, Orn. Biog., ii, 1834, 539, pi. 193 (Labrador).— ^'utt all, 
+Fringillalincolnli Audubon, Orn. Biog., ii, 1834, 539, pi. 193 (Labrador).— ^'utt all, 
 
  Man. Orn. U. S. and Canada, 2d ed., i, 1840, 569. 
 
@@ -55891,7 +55891,7 @@ Passerella ihiaru Bonaparte, Geog. and Comp. List, 1838, 31. — Woodhouse, Rep.
 
  Texas, Nov. to Feb. ). — Aveeill, Orn. and 061., ix, 1884, 22 (Bridgeport, Con- 
 
- necticut, Dec. 29). — FiNscH, Journ. fiirOrn., 1883, 272 (Portage Bay, Alaska, 
+ necticut, Dec. 29). — FiNscH, Journ. fur Orn., 1883, 272 (Portage Bay, Alaska, 
 
  Feb. 1).— Nelson, Cruise "Corwin", 1881 (1883), 72 (Norton Sound to 
 
@@ -56377,7 +56377,7 @@ P.lasserella'] i.[Uaca] vii.alaKivv.ii.s Codes, ICey N. Am. Birds, 2d ed., 1884,
 
  Passerella iliaca wwlnscenxix Ridgway, Nom. N. Am. Birds, 1881, no. 235a, part. 
 
- Passerella townsendii (not FringiUa iovmaendii Audubon) Dai.i, and Bannister, 
+ Passerella townsendii (not Fringilla iovmaendii Audubon) Dai.i, and Bannister, 
 
 
 
@@ -57534,7 +57534,7 @@ Mountain districts of Western United States, from more eastern
 
 
 
-FringiUachlorura Audubon, Om. Biog.,v, 1839, 336 ( " Rocky Mountains " ;=young 
+Fringillachlorura Audubon, Om. Biog.,v, 1839, 336 ( " Rocky Mountains " ;=young 
 
  male; type in U. S. Nat. Mus. ). 
 
@@ -64749,7 +64749,7 @@ Arremonops richmondi Ridgway, Auk, xv, July (pub. May 13), 1898, 228 (Grey-
 
 Genus ARREMON Vielllot. 
 
- .4rre»ion ViEiLLOT, Analyse, 1816, 32. (Type, Tanagra silens Boddaert.) 
+ .4rre»ion Vieillot, Analyse, 1816, 32. (Type, Tanagra silens Boddaert.) 
 
 
 
@@ -71418,7 +71418,7 @@ Geospiza fortis (part) Gould, Zool. Voj'. "Beagle," iii. Birds, 1841, 101 (Chat-
 
 
 
-Geospiza nebulosa (not of Gould) Sundbvall, Proc. Zool. Soc. Lond., 1871, 125, 
+Geospiza nebulosa (not of Gould) Sundevall, Proc. Zool. Soc. Lond., 1871, 125, 
 
  part (Chatham I.). — Salvin, Trans. Zool. Soc. Lond., ix, pt. ix, 1876, 482 
 
@@ -71798,7 +71798,7 @@ Geoxpiza fidiginosa Gould, Proc. Zool. Scjo. Lond., pt. v, 1837, 5 (Galapagos
 
  islands). — Sclater and Salvin, Proc. Zool. Soc. Lond., 1870, 323 (Indefat- 
 
- igable I.). — SuNDEVALL, Proc. Zool. Soc. Lond. , 1871, 125 (Indefatigable and 
+ igable I.). — Sundevall, Proc. Zool. Soc. Lond. , 1871, 125 (Indefatigable and 
 
  James islands). — Sai.vin, Trans. Zool. Soc. Lond., ix, pt. ix, 1876, 482 (Chat- 
 
@@ -74016,7 +74016,7 @@ iSicalis BoiE, Isis, 1828, 324. (Type, by elimination, Emberiza brasiliensis Gme
 
  Sycalis (emendation) Cabanis, in Tschudi's Fauna Peruana, Aves, 1845-46, 215. 
 
- (?) Orospina (not of Kaup, 1829) Cabanis, Journ. fiirOrn., xxxi, Jan., 1883, 108. 
+ (?) Orospina (not of Kaup, 1829) Cabanis, Journ. fur Orn., xxxi, Jan., 1883, 108. 
 
 
 
@@ -75502,7 +75502,7 @@ Island of Porto Rico, Greater Antilles.
 
 
 
-Euethia lepida (not Fringilla lepida Linnpeus) Sundevall, Ofv. K. Vet.-Ak. Forh. 
+Euethia lepida (not Fringilla lepida Linnaeus) Sundevall, Ofv. K. Vet.-Ak. Forh. 
 
 
 
@@ -76336,9 +76336,9 @@ Phonipara bicolor (not Fringilla bicolor Linniieus) A. and Y,. Xewtox, Iljis, 18
 
  (?) 1879, 765_(Montserrat); 1889, 395 (Santa Lucia); 1892, 499 (Anguilla).— 
 
- SuNDEVALL, Ofv. k. Vet.-Ak. Forh. Stockh., 1869, 583 (St. Bartholomew), 
+ Sundevall, Ofv. k. Vet.-Ak. Forh. Stockh., 1869, 583 (St. Bartholomew), 
 
- 596 (Porto Rico).— LawrexXCe, Proc. U. S. Nat. Mus., i, 1878, 58 (Dominica; 
+ 596 (Porto Rico).— Lawrence, Proc. U. S. Nat. Mus., i, 1878, 58 (Dominica; 
 
  descr. nest and eggs), 191 (St. Vincent; descr. nest), 233 (Antigua), 239 
 
@@ -76604,7 +76604,7 @@ Islands of Aruba, Curasao, and Bonaire, Caribbean Sea.
 
 
 
-Eueiheia bicolor (not Fringilla hicolor LinnsEUs) Bbblepsch, Journ. fiirOrn., 1892, 
+Eueiheia bicolor (not Fringilla hicolor LinnsEUs) Bbblepsch, Journ. fur Orn., 1892, 
 
 
 
@@ -77054,7 +77054,7 @@ Pyrrhulagra Bonaparte, Consp. Av., i, July 30, 1850, 492 (ex Schiff, manu-
 
 
 
-Scotospiza SuNDEVALL, Ofv. Vet.-Ak. Forh. Stockh., June 9, 1869, 597, in text. 
+Scotospiza Sundevall, Ofv. Vet.-Ak. Forh. Stockh., June 9, 1869, 597, in text. 
 
  (Type, Loxia portoricensis Daudin. ) 
 
@@ -77505,7 +77505,7 @@ CoRT, Cat. W. I. Birds, 1892, 15, 112, 132, 149.
 
 
 
-Srotospiza portor.licensis] Suxdevall, Ofv. K. Vet.-Ak. Forh., 1869, 597, in text. 
+Srotospiza portor.licensis] Sundevall, Ofv. K. Vet.-Ak. Forh., 1869, 597, in text. 
 
  Pyrrhula auranticollis Yieillot, Nouv. Die. d'Hist. Xat., iv, 1816, 300 (based on 
 
@@ -79749,7 +79749,7 @@ S. [permophila] minuta Gkay, Gen. Birds, ii, 1844, 386.
 
 [Spermophila] minutn Bonapaete, Consp. Av., i, 1850, 495 (Cayenne; Brazil).— 
 
- ScLATEK and Salvin, Nom. Av. Neotr., 1873, 28. 
+ Sclater and Salvin, Nom. Av. Neotr., 1873, 28. 
 
 
 
@@ -93276,7 +93276,7 @@ SaUator grandis Sclater, Proc. Zool. Soc. Lond., 1856, 72 (monogr.; Jalapa, Ori-
 
  (San Pedro, Honduras). — Moore, Proc. Zool. Soc. Lond., 1859, 58 (Omoa, 
 
- Honduras).— Cabanis, Journ. fiirOrn., 1860, 416 (Costa Rica); 1861, l(do.).— 
+ Honduras).— Cabanis, Journ. fur Orn., 1860, 416 (Costa Rica); 1861, l(do.).— 
 
  Lawrence, Ann. Lye. N. Y., ix, 1868, 102 (San Jos6 and Cartago, Costa Rica); 
 

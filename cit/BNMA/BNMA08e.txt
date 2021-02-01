@@ -6323,7 +6323,7 @@ Europe and western and central Asia, east to Yenesai River, Siberia;
 
 Hxmatopus « ostralegus Tbmminck, Cat. Syst., 1807, 175; Man. d'Om., ii, 1820, 
 
- 531.— ViEiLLOT, Nouv. Diet. d'Hist. Nat., xv, 1817, 408, part.- Roux, Om. 
+ 531.— Vieillot, Nouv. Diet. d'Hist. Nat., xv, 1817, 408, part.- Roux, Om. 
 
  Prov., 1825, pi. 208.— Bonaparte, Joum. Ac. Nat. Sci. Phila., v. 1825, 106 
 
@@ -6475,7 +6475,7 @@ BIRDS OF NORTH AND MIDDLE AMERICA. 31
 
 
 
-FiNSCH, Ibis, 1877, 49 (Semipalatinsk); Verh. z.-b. ges. Wien, xxix, 1879, 246 
+Finsch, Ibis, 1877, 49 (Semipalatinsk); Verh. z.-b. ges. Wien, xxix, 1879, 246 
 
  (Irtiscb).— Taczanowski, Bull. Soc. Zool. France, ii, 1877, 156 (Poland).— 
 
@@ -7096,7 +7096,7 @@ chusetts, and Nova Scotia); southward to Yucatan (Merida; Co-
 
 Hsematopus ostralegus (not of Linnseus) Wilson, Am. Om., viii, 1814, 15, pi. 64, 
 
- fig. 2. — ViEiLLOT, Nouv. Diet. d'Hiat. Nat., xv, 1817, 408, part. — Bonaparte, 
+ fig. 2. — Vieillot, Nouv. Diet. d'Hiat. Nat., xv, 1817, 408, part. — Bonaparte, 
 
  Ann. Lye. N. Y., ii, 1827, 300.— Nuttall, Man. Om. U. S. and Can., Water 
 
@@ -9260,7 +9260,7 @@ BIKDS OP NORTH AND MIDDLE AMERICA. 49
 
 Abh. nat. Verh. Bremen, iii, 1872, 62 (St. Michael, Sitka, etc., Alaska); Journ. 
 
- fiirOrn., 1872, 52 (Samoa), 170 (New Zealand); 1874, 194 (New Zealand); 1880, 
+ fur Orn., 1872, 52 (Samoa), 170 (New Zealand); 1874, 194 (New Zealand); 1880, 
 
  294 (Ponape, Caroline group), 306 (Kuschai, Carolines); Proc. Zool. Soc. Lond., 
 
@@ -11851,7 +11851,7 @@ HOB, Ibis, 1861, 342 (PeHn, China, Nov.); 1863, 309 (n. China); 1865, 349
 
  1865, 283 (Sardinia); Faun. Ital., Ucc, 1871, 199.— Giglioli, Ibis, 1865, 69 
 
- (Pisa, Italy). — Sundbvall, Svensk. Fogl., 1866, pi. 36, fig. 1. — ^Holtz, 
+ (Pisa, Italy). — Sundevall, Svensk. Fogl., 1866, pi. 36, fig. 1. — ^Holtz, 
 
  Journ. fur Orn., 1866, 372 (Gottland).— Godman, Ibis, 1866, 100 (Azores); 
 
@@ -13609,7 +13609,7 @@ Charadrius pluvialis Vibillot, Nouv. Diet. d'Hist. Nat., xxxii, 1818, 131, pi. 3
 
  (s. Spain); ed. Yarrell's Brit. Birds, iii, 1883, 271; Man. Brit. Birds, 1889, 
 
- 531. — ^FiNSCH and Hartlaub, Vog. Ostafrika, 1870, 662, footnote. — Gray 
+ 531. — ^Finsch and Hartlaub, Vog. Ostafrika, 1870, 662, footnote. — Gray 
 
  (R.), Birds West Scotland, 1871, 252.— Drbssbh, Birds Europe, vii, 1871, 
 
@@ -14573,7 +14573,7 @@ vii, 1860, 308 (Cuba).— Hoy, Ann. Rep. Smithson. Inst, for 1864 (1865),
 
 xvi, 100. 
 
- Charadrius pluvialis americanus Sundevall, CEfv. Vet.-Akad. Porh., 1869, 588 
+ Charadrius pluvialis americanus Sundevall, Oefv. Vet.-Akad. Porh., 1869, 588 
 
 
 
@@ -14666,7 +14666,7 @@ Charadrius fulvus Vieillot, Nouv. Diet. d'Hist. Nat., xxvii, 1818, 139. — Gray
 
  1859, 47.— Cassin, Proc. Ac. Nat. Sci. Phila., 1862, 321 (Liu Kiu Islands).— 
 
- FiNSCH and Haetlattb, Faun. Central-poly nes., 1867, 188; Proc. Zool. Soc. 
+ Finsch and Haetlattb, Faun. Central-poly nes., 1867, 188; Proc. Zool. Soc. 
 
  Lend., 1869, 548 (Tonga Islands); Journ. fur Om., 1870, 122 (Tongatabu; 
 
@@ -15524,7 +15524,7 @@ unknown);
 
  Nat. Tijdschr. Nederl. Ind., xxv, 1863, 253; Journ. fur Orn., 1864, 135 (Aru 
 
- Islands).- FiNSCH, New Guinea, 1865, 181; Journ. fiir Orn., 1867, 332 (New 
+ Islands).- Finsch, New Guinea, 1865, 181; Journ. fiir Orn., 1867, 332 (New 
 
  Zealand). — Marie, Act. Soc. Linn. Bordeaux, xxvii, 1870, 314 (New Cale- 
 
@@ -19813,7 +19813,7 @@ Soc. Lond., 1850, 221 (Kordofan).— Habcourt, Proc. Zool. Soc. Lond.,
 
  84.— Fritsch, Vog. Eur., 1870, pi. 33, fig. 1; Joum. fur Om., 1871, 384 
 
- (Bohemia).— FiNSCH and Hartlaub, Vog. Ostafrika, 1870, 657.— Gray (R.), 
+ (Bohemia).— Finsch and Hartlaub, Vog. Ostafrika, 1870, 657.— Gray (R.), 
 
  Birds West Scotl., 1871, 258.— HEroLiN, Om. N. 0.-A£rika, ii, Abth. i, 
 
@@ -22021,7 +22021,7 @@ Charadrius mongolus Pallas, Beis. Buss. Beichs, iii, 1776, 700 (Kulussutai,
 
  probably on the Onon Biver, Siberia).— Bonnateere, Tabl. Enc. M6th., 
 
- i, 1790, 22.— ViEiLLOT, Nouv. Diet. d'Hist. Nat., xxvii, 1818, 143.— BiAsros, 
+ i, 1790, 22.— Vieillot, Nouv. Diet. d'Hist. Nat., xxvii, 1818, 143.— BiAsros, 
 
  Journ.'fur Orn., 1883, 126 (Celebes).— Heinboth, Journ. fflr Orn., 1902, 400 
 
@@ -24889,7 +24889,7 @@ Strickland, Proc. Zool. Soc. Lond., 1836, 101 (Smyrna).— Gould, Birds
 
  338 (Canary Islands).— Adams, Proc. Zool. Soc. Lond., 1858, 506 (India); 
 
- 1859, 189 (Cashmere).— SuNDEVALL, Svensk. Fogl., 1859, pi. 44, fig. 1.— 
+ 1859, 189 (Cashmere).— Sundevall, Svensk. Fogl., 1859, pi. 44, fig. 1.— 
 
  SwiNHOE, Ibis, 1860, 66 (Amoy); 1861, 343 (n. China); 1863, 415 (Foochow, 
 
@@ -26702,7 +26702,7 @@ southward to northern Africa, southern Arabia, India, Malay Penin-
 
  MiNCK, Cat. Syst., 1807, 170; Man. d'Orn., 1815, 439; 2nd ed., ii, 1820, 676.— 
 
- ViEiLLOT, Nouv. Diet. d'Hist. Nat., iii, 1816, 355.^Pallas, Zoogr. Rosso- 
+ Vieillot, Nouv. Diet. d'Hist. Nat., iii, 1816, 355.^Pallas, Zoogr. Rosso- 
 
  Asiat., ii, 1826, 174.— Weener, Atlas, Grallatores, 1827, pi. 30.— Fleming, 
 
@@ -32419,7 +32419,7 @@ Ereunetes pusillus Coues, Proc. Ac. Nat. Sci. Phila., 1861, 233 (Labrador; crit.
 
  Bannister, Trans. Chicago Ac. Sci., i, 1869, 292, part (Nulato, Alaska). — 
 
- SuNDEVALL, Oofv. k. Vet.-Ak. Forh. Stockholm, 1869, 587 (St. Bartholo- 
+ Sundevall, Oofv. k. Vet.-Ak. Forh. Stockholm, 1869, 587 (St. Bartholo- 
 
  mew), 602 (Porto Rico).— Reid, Zoologist, 1877, 476 (Bermudas, Aug.); 
 
@@ -35147,7 +35147,7 @@ and Comp. List, 1838, 49. — ^Macgiluvray, Man. Brit. Om., ii, 1842, 67;
 
  Birds West Scotland, 1871, 318.— Harting, Handb. Brit. Birds, 1872, 48.— 
 
- FiNSCH, Trans. N. Z. Inst., v, 1872, 209 (New Zealand); Joum. fur Orn., 
+ Finsch, Trans. N. Z. Inst., v, 1872, 209 (New Zealand); Joum. fur Orn., 
 
  1874, 197 (New Zealand).— Gurney, in Andersson's Birds Damara-land, 
 
@@ -35291,7 +35291,7 @@ Brown, Vertebr. Fauna Orkney Is., 1891, 218.— Hagerup, Birds Greenland,
 
  ington); Proc. Ac. Nat. Sci. Phila., 1893, 36 (Nisqually, Brit. Columbia, rare 
 
- niigrant).— KoENiG, Journ. fiirOrn., 1893, 92 (Tunis).— Chapman, Bull. Am. 
+ niigrant).— KoENiG, Journ. fur Orn., 1893, 92 (Tunis).— Chapman, Bull. Am. 
 
  Mus. N. H., vi, 1894, 78 (Trinidad); xvi, 1902, 238 (Homer, Alaska, 
 
@@ -38456,7 +38456,7 @@ Long Island Sept. 15, 1892.)"
 
  PI. Enl., 1783, 52 (PL Enl., pL 852).— Temminck, Cat. Syst., 1807, 171.— 
 
- ViEiLLOT, Nouv. Diet. d'Hist. Nat., xxxiv, 1819, 455.— Boie, Isis, 1822, 
+ Vieillot, Nouv. Diet. d'Hist. Nat., xxxiv, 1819, 455.— Boie, Isis, 1822, 
 
  561; Journ. fur Orn., 1869, 96.— Lesson, Traits d'Orn., 1831, 559.— Naumann, 
 
@@ -45366,7 +45366,7 @@ Salvin, Ibis, 1859, 229 (Guatemala); Proc. Zool. Soc. Lond., 1868, 176
 
  (Corfu).— SwiNHOE, Ibis, 1860, 359 (Amoy, China); 1861, 342 (n. China); 
 
- 1863, 315 (China); 1871, 408 (China).— Sundbvall, Svensk. Pogl., 1860, pi. 
+ 1863, 315 (China); 1871, 408 (China).— Sundevall, Svensk. Pogl., 1860, pi. 
 
  76, fig. 1. — LiNDERMAYER, Vog. Griechenl., 1860, 141. — Boardman, Proc. 
 
@@ -49502,7 +49502,7 @@ Totanus calidris Bechstein, Orn. Taschenb., ii, 1803, 284. — Temminck, Man.
 
  243, 244; Mus. Pays-Bas, v (Scolopaces), 1864, 65 (Borneo; Java; Celebes).— 
 
- Hartlaub, Orn. W.-Afr., 1857, 234 (Ashanti).— Sundbvall, Sv. Fogl., 
+ Hartlaub, Orn. W.-Afr., 1857, 234 (Ashanti).— Sundevall, Sv. Fogl., 
 
  1860, pi. 40, figs. 3, 4. — Lindermayeb, Vog. Griechenl., 1860, 138. — Swinhob, 
 
@@ -50081,7 +50081,7 @@ Ibis, 1868, 321 (Lake Gyagar); Verb. z.-b. Ges. Wien, xxxi, 1881, 155 (Lado,
 
 1870, pi. 38, fig. 5.— HoMEYER, Journ. fur Orn., 1870, 423 (e. Siberia).— 
 
- FiNSCH and Hartlaub, Vog. Ostafrika, 1870, 750. — Salvadori; Faun. Ital., 
+ Finsch and Hartlaub, Vog. Ostafrika, 1870, 750. — Salvadori; Faun. Ital., 
 
  Ucc, 1871, 219; Ucc. Borneo, 1874, 327 (Sarawak); Proc. Zool. Soc. Lond., 
 
@@ -53142,7 +53142,7 @@ Actitis macularius Naumann, Vog. Deutschl., viii, 1836, 34, pi. 195. — Bona-
 
  Orn., 1856, 417 (Cuba). — Schlegel, Mus. Pays-Bas, v, no. 27 (Scolopaces), 
 
- 1864, 83.— FiNSCH, Proc. Zool. Soc. Lond., 1870, 588 (Trinidad; crit.).— 
+ 1864, 83.— Finsch, Proc. Zool. Soc. Lond., 1870, 588 (Trinidad; crit.).— 
 
  Gould, Birds Great Brit., iv, 1873, pi. 59 and text. — Taczanowski, Orn. 
 
@@ -54955,7 +54955,7 @@ migrating southward to southern Africa (Cape Colony), Madagascar,
 
 Numenius arquatus Boddabet, TabL Pi. Enl., 1783, 50 (PI. Enl., 318).— 
 
- ViEiLLOT, Nouv. Diet. d'Hist. Nat., viii, 1817, 304.— Pallas, 
+ Vieillot, Nouv. Diet. d'Hist. Nat., viii, 1817, 304.— Pallas, 
 
  Zoogr. Rosso-Asiat., ii, 1826, 168.— Roux, Orn. Prov., 1825, pi. 306.— 
 
@@ -57746,7 +57746,7 @@ Palmerston and Hervey islands); Mariana (Marianne) group; New
 
  (Society Islands; Cook Islands; New Caledonia; Hawaiian Islands; Christmas 
 
- Island) . — FiNSCH and Hartlaub, Faun. Centralpolynesiens, 1867, 175 . — Ridg- 
+ Island) . — Finsch and Hartlaub, Faun. Centralpolynesiens, 1867, 175 . — Ridg- 
 
  WAT, Proc. U. S. Nat. Mus., iii, 1880, 201 (Cat. N. Am. Birds, no. 562); Norn. 
 
@@ -58537,7 +58537,7 @@ Numenius bremrostris Tbmminck, PI. Col., v, 1825, pi. 381 and text. — Gould,
 
 
 
-fig. 546.— ScLATEK, Proc. Zool. Soc. Lond., 1860, 387 (Falkland Islands).— 
+fig. 546.— Sclater, Proc. Zool. Soc. Lond., 1860, 387 (Falkland Islands).— 
 
 
 
@@ -63920,7 +63920,7 @@ Rhyncfiops nigra (not Linnseus) Maximilian, Beitr. Natuig. Bras., iv, 1833, 877
 
  200 (Acapam, Guatemala). — Pelzeln, Orn. Bras., 1870, 324, 461, part. — 
 
- ScLATEK and Salvin, Proc. Zool. Soc. Lond., 1871, 566, part (monogr.).— 
+ Sclater and Salvin, Proc. Zool. Soc. Lond., 1871, 566, part (monogr.).— 
 
  Lawrence Mem. Bost. Soc. N. H., ii, 1874, 318 (San Bias, Tepic; Rio Zaca- 
 
@@ -65186,7 +65186,7 @@ Vog., 1824, 680.— Stephens, in Shaw's Gen. Zool., xiii, pt. 1, 1825, 146.—
 
  on marshes of Dobrudscha). — Homeyee, Journ. fiir Orn., 1870, 438 (e. 
 
- Siberia).— FiNSCH, Journ. fur Orn., 1870, 364 (New Zealand); 1872, 253 (New 
+ Siberia).— Finsch, Journ. fur Orn., 1870, 364 (New Zealand); 1872, 253 (New 
 
  Zealand). — Finsch and Hartlaub, Vog. Ost-Afr., 1870, 826. — Gurney, in 
 
@@ -70836,7 +70836,7 @@ Sterna maerouraBnT^sii, Vog. Deutschl., 1831, 784.— Kjaeebolling, Danm. Fugle,
 
  Journ. fiir Cm., 1870, 438 (e. Siberia).— Maynahd, Nat. Guide, 1870, 152. 
 
- (Massachusetts, breeding). — Sundbvall, Oefv. k. Vet.-Akad. Forh. Stock- 
+ (Massachusetts, breeding). — Sundevall, Oefv. k. Vet.-Akad. Forh. Stock- 
 
  holm, 1874, 21 (Spitzbergen).— Langdon, Birds Cincinnati, 1877, 18. — 
 
@@ -75584,7 +75584,7 @@ Chlidonias nigra surinamensis Rhoads, Auk, xxix, April, 1912, 198, in text.
 
 Sterna plumbea Wilson, Am. Orn.,.vii, 1813, 83, pi. 60, fig. 3 (Schuylkill River, 
 
- Pennsylvania;=young).— ViEiLLOT, Nouv. Diet. d'Hist. Nat., xxxii, 1819, 
+ Pennsylvania;=young).— Vieillot, Nouv. Diet. d'Hist. Nat., xxxii, 1819, 
 
  174. — SwAiNSON and Richardson, Fauna Bor.-Am., ii, 1831, 415, footnote 
 
@@ -80118,7 +80118,7 @@ Breeding in Arctic and Subarctic Europe and Asia, and North
 
  1815, 275.— Meyer, Vog. Liv-u. Esthl., 1815, 236.— Nilsson, Orn. Suecica, 
 
- ii, 1817, 174.— ViEiLLOT, Nouv. Diet. d'Hist. Nat., xxi, 1818, 503; Faune 
+ ii, 1817, 174.— Vieillot, Nouv. Diet. d'Hist. Nat., xxi, 1818, 503; Faune 
 
  Franc., Ois., 1828, 390.— O'Reilly, Greenland, 1818, 143.— Sabine (E.), 
 
@@ -80991,7 +80991,7 @@ Larus brachyrhynchus (not of Richardson, 1831) Gould, Proc. Zool. See. Loud.,
 
  1843 (pub. Dec, 1843), 106 ("Russian America"); Zool. Voy. 'Sulphur,' 1844, 
 
- 50, pi. 34.— FiNSCH, Abh. Nat. Ver. Brem., iii, 1872, 84 (Sitka, Alaska). 
+ 50, pi. 34.— Finsch, Abh. Nat. Ver. Brem., iii, 1872, 84 (Sitka, Alaska). 
 
 
 
@@ -83286,7 +83286,7 @@ Larus leucopterus Faber, Prodr. Isl. Orn., 1822, 91 (Iceland). — Brehm, Beitr.
 
  ii, 1867, 411.— Fbitsch, Vog. Eur., 1870, 473, pi. 56, fig. 6.— Droste, Journ. 
 
- fiirOrn., 1869, 386 (Faroe Islands).— Habting, Handb. Brit. Birds, 1872, 77.— 
+ fur Orn., 1869, 386 (Faroe Islands).— Habting, Handb. Brit. Birds, 1872, 77.— 
 
  PALMEN,FinlandsFogl., 1873, 589 (Finland?); 'Vega '-Exped.Vetensk., 1887, 
 
@@ -85404,7 +85404,7 @@ Larus affinis Reinhardt, Vid. Medd. Nat. Forh. Kjobenhavn, 1853, 78 (Nenor-
 
  (range); Cat. Birds Brit. Mus., xxv, 1896, 254.— Gatke, Ibis, 1878, 489 (Helgo- 
 
- land). — FiNSCH, Ibis, 1879, 111 (Tajo, Lissabon; Katwijk, near Leyden; 
+ land). — Finsch, Ibis, 1879, 111 (Tajo, Lissabon; Katwijk, near Leyden; 
 
  Kamchatka; Macao); Verh. z.-b. Ges. Wien, 1879, 268 (w. Siberia). — Sbe- 
 
@@ -86094,7 +86094,7 @@ Orn., 1850, 13 (Bermudas, Feb., March).— Thompson, Birds Ireland, iii,1851,
 
  Labrador, breeding, habits, etc.); Check List, 1873, no. 547; 2d ed., 1882, 
 
- no. 772.— SuNDEVALL, Svensk. Fogl., 1863?, pi. 50, figs. 1-3.— Blasius, 
+ no. 772.— Sundevall, Svensk. Fogl., 1863?, pi. 50, figs. 1-3.— Blasius, 
 
  Journ. fiir Orn., 1865, 380, part. — Degland and Gerbb, Orn. Eur., ii, 1867, 
 
@@ -88188,7 +88188,7 @@ Larus camis Scopoli, Ann. I, 1769, 79. — ^Mullkb, Nat. Syst., ii, 1773, 345. �
 
  China); 1861, 345 (n. China); Proc. Zool. Soc. Lond., 1871, 420 (China).— 
 
- Sundbvall, Svensk. Fogl., 1863, pi. 49, fig. 6. — Newton, in Baring-Gould's 
+ Sundevall, Svensk. Fogl., 1863, pi. 49, fig. 6. — Newton, in Baring-Gould's 
 
  Iceland, 1863, 418 (1 spec.).— Radde, Reis. Sibir., Vog., 1863, 387; Orn. 
 
@@ -89313,7 +89313,7 @@ Larus atrieilla Vieillot, Nouv. Diet. d'Hist. Nat., xxi, 1818, 501. — TEMMtNCK
 
  190 (Guatemala); 1886, 180 (Brit. Guiana); 1889, 379 (Cozumel).— Dbgland 
 
- and Gerbb, Om. Eur., ii, 1867, 431.— Sundbvall, Oefv. K. Vet.-Akad. 
+ and Gerbb, Om. Eur., ii, 1867, 431.— Sundevall, Oefv. K. Vet.-Akad. 
 
  Forh. Stockholm, 1869, 590 (St. Bartholomew).— Pelzbln, Orn. Bras., 1870, 
 
@@ -91702,7 +91702,7 @@ Lotus fuliginosus Gould, Zool. 'Beagle,' iii, 1841, 141 (James Island, Galapagos
 
  Archipelago; coll. Brit. Mus.?). — Gray, List Biids Brit. Mus., Anseres, 
 
- 1844, 170, part (Galapagos) .—Sundbvall, Proc. Zool. Soc. Lond., 1871, 125 
+ 1844, 170, part (Galapagos) .—Sundevall, Proc. Zool. Soc. Lond., 1871, 125 
 
  (Charles and Indefatigable islands, Galapagos). — Sclater and Salvin, Proc. 
 
@@ -94912,7 +94912,7 @@ Lestris pomarina Bonaparte, Ann. Lye. N. Y., ii, 1828 ("Synopsis"), 364. —
 
  383 (Faroe Islands). — Hombyer, Joum. fiir Orn., 1870, 486 (e. Siberia). — 
 
- FiNSCH, Verh. K. K. Zool.-bot. Ges. Wien, 1879, 276 (tundra of Podarata, w. 
+ Finsch, Verh. K. K. Zool.-bot. Ges. Wien, 1879, 276 (tundra of Podarata, w. 
 
  Siberia). — Walter, Joum. fiir Om., 1890, 250 (e. Spitzbergen).— Schalow, 
 
@@ -95888,7 +95888,7 @@ Lestris parasitica Nilsson, Orn. Suecica, 1817, 181, 184, part. — Sabine (E.),
 
  MtJLLER, Vidensk. Meddel., 1862 (1863), 64 (Faroes).— Preyeh, Reis. n. 
 
- Island, 1862, 417.— Sundbvall, Svesnk. Fogl., 1863, pi. 51, figs. 2, 3; Oefv. 
+ Island, 1862, 417.— Sundevall, Svesnk. Fogl., 1863, pi. 51, figs. 2, 3; Oefv. 
 
  Forh. Ak. Stockholm, 1874, 21 (Spitzbergen).— Malmgren, Oefv. Forh. 
 
@@ -96805,7 +96805,7 @@ Lestris cephus Bonapaete, Cat. Ucc.,. 1842, 80.— Schlegel, Vog. Nederl., 1854,
 
  500, pis. 338, 339; Dier. Nederl. Vogels, 1861, 233, pi. 33, fig. 8.— MuiiBR, 
 
- Vidensk. Medd., 1862, 65 (Faroes).— Sundbvall, Svensk. Fogl., 1863, pi. 51, 
+ Vidensk. Medd., 1862, 65 (Faroes).— Sundevall, Svensk. Fogl., 1863, pi. 51, 
 
  fig. 4; Oefv. Ak. Forh., 1874, 21 (Spitzbergen).— Feitsch, Vog. Bur., 1870, 
 
@@ -99024,7 +99024,7 @@ Alca tarda Temminck, Cat. Syst., 1807, 182; Man. d'Orn., 1815, 616; 2d ed., pt. 
 
  1820, 936; pt. iv, 1840, 581.— Meyer and Wolp, Taschenb. Vog. Deutschl., 
 
- 1810,439,pl.— ViEiLLOT, Nouv. Diet. d'Hist. Nat., i, 1816, 381.— Pallas, Zoogr. 
+ 1810,439,pl.— Vieillot, Nouv. Diet. d'Hist. Nat., i, 1816, 381.— Pallas, Zoogr. 
 
  Rosso-Aaiat., ii, 1826, 360. — Bonaparte, Obs. Nomencl. Wilson's Am. Orn., 
 
@@ -101930,7 +101930,7 @@ Uria grylle BptjNNiOH, Orn. Bor., 1764, 28. — Meyer and Wo^f, Taschenb.
 
  Deutschl., 1910, 446.— Temminok, Man. d'Orn., 1815, 608; 2d ed., pt. ii, 1820, 
 
- ' 927.— ViEiLLOT, Gal. Ois., ii, 1825, 23'«.— Fabek, Zeis, 1827, 635 (Iceland).— 
+ ' 927.— Vieillot, Gal. Ois., ii, 1825, 23'«.— Fabek, Zeis, 1827, 635 (Iceland).— 
 
  Wbbnbk, Atlas, Palmipedes, 1828, pi. 97. — Bonapaetb, Ann. Lye. N. Y., 
 
@@ -103111,7 +103111,7 @@ Uria columba Keysbrling and Blasius, Wirb. Eur., 1840, p. xcii.— Cassin,
 
  i, 1869, 309 (Sitka; Kodiak).— Brandt, M^lang. Biol., vii, 1869, 207.— 
 
- FiNSCH, Abh. Nat. Ver. Bremen, .ui, 1872, 78 (Alexandrovsk, e. Siberia). — 
+ Finsch, Abh. Nat. Ver. Bremen, .ui, 1872, 78 (Alexandrovsk, e. Siberia). — 
 
  Dall, Proc. Calif. Ac. Sci., v, 1873, 35 (Shumagins, breeding); v, 1874, 279 
 
@@ -107736,7 +107736,7 @@ Alca tetraeula Pallas, Spicil. Zool., fasc. v, 1769, 23, pis. 4, 5, figs. 10-12 
 
  chatka).— Bonnaterrb, Tabl. Enc. M6th., i, 1790, 34, pi. 11, fig. 4.— 
 
- ViEiLLOT, Nouv. Diet. d'Hist. Nat., i, 1816, 383 (Kamchatka).— Kittlitz, 
+ Vieillot, Nouv. Diet. d'Hist. Nat., i, 1816, 383 (Kamchatka).— Kittlitz, 
 
  Denkw. Reise, ii, 1858, 214. 
 

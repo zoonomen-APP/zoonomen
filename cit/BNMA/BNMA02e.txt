@@ -5946,7 +5946,7 @@ Euphonia affinis ScLATEB., Proc. Zool. Soc. Lond., 1856, 274 (Orizaba, Vera Craz
 
  Yucatan); Bull. U. S. Nat. Mus., no. 4, 1876, 18 (Barrio and Tehuantepec, 
 
- Oaxaca). — Frantzius, Journ. fiirOrn., 1869, 297 (Costa Rica). — Sumichrast, 
+ Oaxaca). — Frantzius, Journ. fur Orn., 1869, 297 (Costa Rica). — Sumichrast, 
 
  Mem. Bost. Soc. N. H., i, 1869, 550 (tierra caliente. Vera Cruz). — Salvin 
 
@@ -7950,7 +7950,7 @@ BIRDS OF NORTH AND MIDDLE AMERICA. 39
 
 Lye. N. Y., ix, 1868, 98 (Dota, Turrialba, Barranca, and San Jos6, Costa 
 
- Rica).— Feantzihs, Journ. fiirOrn., 1869, 298 (Candelaria Mts., etc., Costa 
+ Rica).— Feantzihs, Journ. fur Orn., 1869, 298 (Candelaria Mts., etc., Costa 
 
  Rica).— ScLATER and Salvin, Proc. Zool. Soc. Lond., 1879, 498 (Antioquia, 
 
@@ -8819,7 +8819,7 @@ Calliste lavinia Cassin, Proc. Ac. Nat. Sci., Phila., x, 1858, 178 (Eio Truando,
 
  Colombia; coll. Acad. Nat.' Sci. Phila.); 1860, 142, pi. 1, fig. 1 (do.).— 
 
- ScLATEK, Ibis, 1863, 451 (Isth. Panama); 1876, 409 (Chontales, Nicaragua; 
+ Sclater, Ibis, 1863, 451 (Isth. Panama); 1876, 409 (Chontales, Nicaragua; 
 
  Costa Rica; Veragua) ; Cat. Birds Brit. Mus., xi, 1886, 116 (do.). — Salvin, 
 
@@ -10387,7 +10387,7 @@ Tanagra melanoptera Sclatee, Proc. Zool. Soc. Lond., 1856, 235 (e. Peru; Bogota,
 
  138 (Santiago, Veragua). — Lawrence, Ann. Lye. N. Y., ix, 1868, 99 (Santa 
 
- Rosa, Angostura, and Turrialba, Costa Eica). — Frantzius, Joum. fiirOrn., 
+ Rosa, Angostura, and Turrialba, Costa Eica). — Frantzius, Joum. fur Orn., 
 
  1869, 298 (Santa Eosa, Angostura, Turrialba, and Tucarrique, Costa Eica). — 
 
@@ -11218,9 +11218,9 @@ descr.); Birds W. L, 1889, 84 (do.); Cat. W. I. Birds, 1892, 16, 114, 132.—
 
 
 
-ScLATEK, Oat. Birds Brit. Mus., xi, 1886, 167. 
+Sclater, Oat. Birds Brit. Mus., xi, 1886, 167. 
 
- Tanagra {Spindalis) portoricensis Sundbvall, Ofv. K. Vet.-Ak FOrh Stockh 
+ Tanagra {Spindalis) portoricensis Sundevall, Ofv. K. Vet.-Ak FOrh Stockh 
 
 
 
@@ -11563,7 +11563,7 @@ Birds W. I., 1885, 11.
 
  Tanagra (Spindalis) pretrei Gundlach, Journ. fiir Orn., 1871, 266, 275. 
 
- Tanagra zena (not FringiUa zena Linnseus) Vigors, Zool. Journ., iii, no. xi, Dec, 
+ Tanagra zena (not Fringilla zena Linnseus) Vigors, Zool. Journ., iii, no. xi, Dec, 
 
 
 
@@ -15213,7 +15213,7 @@ Mag. N. H., XX, 1847, 143.
 
 
 
-pi. 3. — ScLATEK and Salvin, Ibis, 1859, 15. 
+pi. 3. — Sclater and Salvin, Ibis, 1859, 15. 
 
  Pyranga roseigularis Ridgway, Ibis, 1873, 126 (description of type). — Salvin, 
 
@@ -23063,7 +23063,7 @@ Highlands of Guatemala (Duenas, Volcan de Agua, Volcan de Fuego,
 
 
 
-Cldorospingus postocularis Cabanis, Journ. fiirOrn., xiv, May, 1866, 163 ^Guate- 
+Cldorospingus postocularis Cabanis, Journ. fur Orn., xiv, May, 1866, 163 ^Guate- 
 
  mala; coll. Berlin Mus.). — Salvin and Godman, Biol. Centr.-Am., Avea, i, 
 
@@ -29576,7 +29576,7 @@ i, 1878, 130 (Fort Brown, Texas, winter resid.)- — Chamberlain, Bull, i, N. H.
 
 N. Am. Birds, 1887, 367. 
 
- [FringiUa] pecoris Gmelin, Syst. Nat., i, 1788, 910 (=female; based on Fringilla 
+ [Fringilla] pecoris Gmelin, Syst. Nat., i, 1788, 910 (=female; based on Fringilla 
 
 
 
@@ -32258,7 +32258,7 @@ Eico).
 
 
 
-SuNDEVALL, Ofv. K. Vet.-Ak. Forh. Stockh., 1869, 598 (Porto Eico). 
+Sundevall, Ofv. K. Vet.-Ak. Forh. Stockh., 1869, 598 (Porto Eico). 
 
  Quiscalus brachypterus Cassin, Proc. Ac. Nat. Sci. Phila., xviii, Dec, 1866, 406 
 
@@ -34618,7 +34618,7 @@ Qmscalus ferrugineus Bonaparte, Ann. Lye. N. Y., ii, 1828, 55. — Nuttall, Man.
 
 
 
-Qlmcalus'] /erruj/meus Maximilian, Journ. fiirOrn.,vi, 1858, 204 (descriptions; 
+Qlmcalus'] /erruj/meus Maximilian, Journ. fur Orn.,vi, 1858, 204 (descriptions; 
 
  food, etc.). 
 
@@ -35485,7 +35485,7 @@ Icterus dives Lichtenstein, Preis-Verz. Mex. Vog., 1830, 1 (Mexico; see Journ.
 
 
 
-fiirOrn., 1863, 56). 
+fur Orn., 1863, 56). 
 
  ILampropsar] dives Bonaparte, Consp. Av., i, 1850, 425. — ScLATERand Salvin, 
 
@@ -37868,7 +37868,7 @@ Icterus dominicenm (not Oriolus dominicensis Linnasus) Taylob, Ibis, 1864, 167
 
 
 
-(Porto Rico) .— SuNDEVALL, Ofv. k. Vet.-Ak. Forh. Stockh., 1869, 597.— 
+(Porto Rico) .— Sundevall, Ofv. k. Vet.-Ak. Forh. Stockh., 1869, 597.— 
 
 
 
@@ -38033,7 +38033,7 @@ Icterus dominicenm, var. dominicensis Baird, Brewer, and Ridgway, Hist. N. Am.
 
 
 
-PcraduZmiiS JZoOTjraster ViEiLLOT Nouv. Diet. d'Hist. Nat., v. 1816, 317 {— Oriolus 
+PcraduZmiiS JZoOTjraster Vieillot Nouv. Diet. d'Hist. Nat., v. 1816, 317 {— Oriolus 
 
  dominicensis Linnaeus). 
 
@@ -38342,7 +38342,7 @@ Oruz; Presidio, nearMazatlan; Belize, British Honduras; Duefias, Cahabon,
 
  1866, 90 (Hamilton, Ontario, casual). — Gundlach, Repert. Fisico-Nat. Cuba, 
 
- i, 1866, 286; Journ. fiirOrn., 1874, 127 (Cuba); Orn. Cub., 1893, 114.— Sal- 
+ i, 1866, 286; Journ. fur Orn., 1874, 127 (Cuba); Orn. Cub., 1893, 114.— Sal- 
 
  vin, Proc. Zool. Soc. Lond., 1867, 142 (David, Chiriqui). — Butcher, Proc. 
 
@@ -39827,7 +39827,7 @@ Eastern portion of Mexican plateau and Atlantic lowlands, from
 
 Icterus cucullatus Swainson, Philoa. Mag., new ser., i, 1827, 436 (Temascaltepec, 
 
- Mexico, Mexico).— ScLATEK, Proc. Zool. Soc. Lend., 1856, 301 (Cordova, 
+ Mexico, Mexico).— Sclater, Proc. Zool. Soc. Lend., 1856, 301 (Cordova, 
 
  Vera Cruz); (?) 1864, 175 (Valley of Mexico); Cat. Am. Birds, 1862, 132 
 
@@ -41419,7 +41419,7 @@ ICoracias] xanthornus LiNNiEDS, Syst. Nat., ed. 10, i, 1758, 108 ("America";
 
  ScLATER and Salvin, Proc. Zool. Soc. Lond., 1868, 167 (Venezuela).— 
 
- FiNSCH, Proc. Zool. Soc. Lond., 1870, 578 (Trinidad).— Pelzeln, Orn. Bras., 
+ Finsch, Proc. Zool. Soc. Lond., 1870, 578 (Trinidad).— Pelzeln, Orn. Bras., 
 
  1871, 195.— Wyatt, Ibis, 1871, 329 (Santa Marta, Colombia) .—Salvin and 
 
@@ -42341,7 +42341,7 @@ Southwestern United States, Lower California, and Mexican pla-
 
 Icterus parisorum Bonapaete, Proc. Zool. Soc. Lond. , 1837, 110 (Mexico; coll. Paris 
 
- brothers).— ScLATEK, Proc. Zool. Spc. Lond., 1858, 303 (LaParada, Oaxaca); 
+ brothers).— Sclater, Proc. Zool. Spc. Lond., 1858, 303 (LaParada, Oaxaca); 
 
  1860, 251 (Mexico) ; 1864, 175 (valley of Mexico) ; Cat. Am. Birds, 1862, 132 
 
@@ -47808,7 +47808,7 @@ PslarocoUus] militaris Wagleb, Syst. Av., 1827, Psarocolius, sp. 11.
 
 Leistes militaris Cassin, Proc. Ac. Nat. Sci. Phila., xviii, 1866, 14 (monogr.; Bra- 
 
- zil; Guiana; Trinidad). — Lonnbbbg, K. Svensk. Vet.-Akad. Hand!., Bd. 22, 
+ zil; Guiana; Trinidad). — Lonnberg, K. Svensk. Vet.-Akad. Hand!., Bd. 22, 
 
  Afd., iv, no 1, 1896, 29 (crit. nomencl.). 
 
@@ -50253,7 +50253,7 @@ Dolkhonyx oryzworus Swainson, Zool. Journ., iii, 1827, 351; Philos. Mag. n. s., 
 
  house, in Rep. Sitgreaves' Expl. Zuniand Col. R., 1853, 81 (Indian Territory; 
 
- Texas).— Cabanis, Journ. fiirOrn., iv, 1856, 11 (Cuba). — Baikd, Rep. Pacific 
+ Texas).— Cabanis, Journ. fur Orn., iv, 1856, 11 (Cuba). — Baikd, Rep. Pacific 
 
  B. R. Surv., ix, 1858, 522, 927 (Fort Bridger, Wyoming); Cat. N. Am. Birds, 
 
@@ -51521,7 +51521,7 @@ Highlands of Costa Rica and Chiriqui.
 
 
 
-Diglossa plumbea Cabanis, Joum. fiirOrn., viii, Nov., 1860, 411 (Costa Rica; coll. 
+Diglossa plumbea Cabanis, Joum. fur Orn., viii, Nov., 1860, 411 (Costa Rica; coll. 
 
  Berlin Mus. ).— Cassin, Proc. Ac. Nat. Sci. Phila., 1864, 27.5 (monogr.).— 
 
@@ -51751,7 +51751,7 @@ Chlorophanes guatemalensis Sai.vadori, Atti. R. Acad. Sci. Torino, iv, 1868, 172
 
 Chlorophanes spiza var. guatemalensis Lawrence, Ann. Lye. Nat. Hist. N. Y., ix, 
 
- 1868, 97 (Juiz and Turrialba, Costa Rica). — Frantzius, Journ. fiirOrn., 1869, 
+ 1868, 97 (Juiz and Turrialba, Costa Rica). — Frantzius, Journ. fur Orn., 1869, 
 
  297 (Costa Rica). — Boucakd, Proc. Zool. Soc. Lond., 1878, 54 (Naranjo, Costa 
 
@@ -52133,7 +52133,7 @@ Ccereba nitida Hartlaub, Rev. Zool., 1847, 84 (n. Peru; coll. Bremen Mus.).—
 
 
 
-ScLATEK Cat. Am. Birds, 1862, 53 (Bogota, Colombia); Cat. Birds Brit. 
+Sclater Cat. Am. Birds, 1862, 53 (Bogota, Colombia); Cat. Birds Brit. 
 
 
 
@@ -53976,7 +53976,7 @@ Dacnis uUramarina Lawrence, Proc. Ac. Nat. Sci. Phila., xvi, 1864, 106 (Panama
 
  Sci. Phila., 1864, 269 (monogr.).— Salvin, Proc. Zool. Soc. Ijond., 1870, 185 
 
- (Chepo, Isthmusof Panama).— Berlepsch, Journ. fiirOrn., 1873, 236(crit. ).— 
+ (Chepo, Isthmusof Panama).— Berlepsch, Journ. fur Orn., 1873, 236(crit. ).— 
 
  Salvin and Godman, Biol. Cent. -Am., Aves, i, 1883, 244.— Zeledon, Anal. 
 
@@ -54275,9 +54275,9 @@ Genus CCEREBA Vieillot.
 
 
 
-Owefta ViEiLLOT, Ois. Am. Sept., i, 1807, 70. {Ty^e, Gerthia jlaveola Linnseus.) 
+Owefta Vieillot, Ois. Am. Sept., i, 1807, 70. {Ty^e, Gerthia jlaveola Linnseus.) 
 
- Certhiola Sundevall, CEfv. Vet.-Ak. Handl. Stockholm, 1835, 99. (Type, Cerlhia 
+ Certhiola Sundevall, Oefv. Vet.-Ak. Handl. Stockholm, 1835, 99. (Type, Cerlhia 
 
 
 
@@ -55050,9 +55050,9 @@ Certhiola bahamensis Reichenbach, Handb., i, 1853, 253 (based on Certhia baha-
 
  Proc. Bost. Soc. N. H., xi, 1866, 66 (Inagua).— Baird, Journ. fur Orn., 1866, 
 
- 264.— SuNDEVALL, (Efv. K. Vet.-Ak. Forh. Stockh., 1869, 624 (monogr.).- 
+ 264.— Sundevall, (Efv. K. Vet.-Ak. Forh. Stockh., 1869, 624 (monogr.).- 
 
- FiNSCH, Verb. k. k. Gesellsch. Wien, 1871, 751, 752 (monogr.).— Baird, 
+ Finsch, Verb. k. k. Gesellsch. Wien, 1871, 751, 752 (monogr.).— Baird, 
 
  Brewer, and Ridgway, Hist. N. Am. Birds, i, 1874, 428, pi. 19, fig. 5.— 
 
@@ -55118,7 +55118,7 @@ Cloereba'] bahamensis Ridgway, Man. N. Am. Birds, 2d ed., 1896, 480.
 
 Certhiola bairdii Cabanis, Journ fiir Orn., xiii, Nov., 1865 (pub. Jan., 1866), 412 
 
- (Indian Key, Florida; coll. U. S. Nat. Mus.) .— Sundevall, CEfv. K. Vet. 
+ (Indian Key, Florida; coll. U. S. Nat. Mus.) .— Sundevall, Oefv. K. Vet. 
 
  Ak. Forh. Stockh., 1869, 621 (monogr.). 
 
@@ -55652,9 +55652,9 @@ Certhiola luteola Bonaparte, Compt. Rend., xxxviii, 1854, 259.— Sclatee, Cat.
 
  dad).— Cassin, Proc. Ac. Nat. Sci. Phila., 1864, 271.— Taylor, Ibis, 1864, 
 
- 81 (Trinidad).— ScLATEK and Salvin, Proc. Zool. Soc. Lond., 1866, 179; 
+ 81 (Trinidad).— Sclater and Salvin, Proc. Zool. Soc. Lond., 1866, 179; 
 
- 1868, 167 (Venezuela).— SuNDEVALL, (Efv. k. Vet.-Ak. Forh. Stockh., 1869, 
+ 1868, 167 (Venezuela).— Sundevall, (Efv. k. Vet.-Ak. Forh. Stockh., 1869, 
 
  621 (monogr.).— Finsch, Proc. Zool. Soc. Lond., 1870, 561 (Trinidad); Verh. 
 
@@ -55716,7 +55716,7 @@ Certhiola mexicana (not of Sclater, 1856) Sclater, Cat. Birds Brit. Mus., xi,
 
 1886, 38, part (Zamora and Gualaquiza, e. Ecuador). 
 
- (?) Certhiola peruviana GABAiiia, Journ. fiirOrn., 1865, 413. 
+ (?) Certhiola peruviana GABAiiia, Journ. fur Orn., 1865, 413. 
 
  [Certhiola'] peruviana Baird, Am. Nat., vii, 1873, 613; in Hist. N. Am. Birds, i, 
 
@@ -55771,7 +55771,7 @@ Certhiola mexicana (not of Sclater, 1856) Sclater, Cat. Birds Brit. Mus., xi,
 
  given; coll. Paris Mus.); Notes Orn. Coll. Delattre, 1854, 51. — Sundevall, 
 
- CEfv. k. Vet.-Ak. Forh. Stockh., 1869, 622 (monogr.).— Finsoh, Verh. k. 
+ Oefv. k. Vet.-Ak. Forh. Stockh., 1869, 622 (monogr.).— Finsoh, Verh. k. 
 
  k. zool.-bot. Gesellsch. Wien, 1871, 790, footnote. 
 
@@ -56023,7 +56023,7 @@ Certhiola mexicana Sclater, Proc:. Zool. Soc. Lond., 1856, 286 (s. Mexico)^; 185
 
  Lye. N. Y., ix, 1868, 98 (Turrialba and Atenas, Costa Rica). — Frantzius, 
 
- Journ. fiirOrn., 1869, 297 (Costa Rica).— Sundevall, CEfv. K. Vet.-Ak. Forh. 
+ Journ. fur Orn., 1869, 297 (Costa Rica).— Sundevall, Oefv. K. Vet.-Ak. Forh. 
 
  Stockholm, 1869, 622, 623 (monogr.).— Finsch, Verb. K. zool.-bot. Gesellsch. 
 
@@ -56114,7 +56114,7 @@ BIRDS OF NORTH AND MIDDLE AMERICA. 411
 
 Cerlhiola colvmbiana Cabanis, Journ. fiir Orn., xiii, Nov., 1865 (pub. Jan., 1866), 
 
- 412 (Bogota, Colombia; coll. Berlin Mus.).— Sundevall, CEfv. k. Vet.-Ak. 
+ 412 (Bogota, Colombia; coll. Berlin Mus.).— Sundevall, Oefv. k. Vet.-Ak. 
 
  Forh. Stockh., 1869, 622 (monogr.)— SALVADORiand Festa, Boll- Mus. Zool., 
 
@@ -56420,9 +56420,9 @@ Cerlhiola flaveola. Var. portorieensis Bryant, Proc. Bost. Soc. Nat. Hist., x, J
 
 
 
-Certhiola portorieensis Sdndevall, CEfv. k. Vet.-Ak. Forh. Stockh., 1869, 598, 622 
+Certhiola portorieensis Sundevall, Oefv. k. Vet.-Ak. Forh. Stockh., 1869, 598, 622 
 
- (monogr.).— FiNSCH, Verb. k. k. zool.-bot. Gesellsch. Wien, 1871, 760 
+ (monogr.).— Finsch, Verb. k. k. zool.-bot. Gesellsch. Wien, 1871, 760 
 
  (monogr.).— GuNDLACH, Journ. fiir. Orn., 1874, 312 (Porto Rico); 1878, 179 
 
@@ -56617,7 +56617,7 @@ Five adults from St. Thomas
 
 
 
-CertUola sti. thomae Sundbvall, CEfv. k. Vet.-Ak. Forh. Stockh., 1869, 621 (St. 
+CertUola sti. thomae Sundevall, Oefv. k. Vet.-Ak. Forh. Stockh., 1869, 621 (St. 
 
 
 
@@ -56760,7 +56760,7 @@ Certhwla flaveola Gosse, Birds Jamaica, 1847, 84; Illustr. Birds Jam., 1849, pi.
 
  Proc- Acad. Nat. Sci. Phila., 1864, 271.— Newton, Zool. Record, 1864, 76.— 
 
- Cabanis, Journ. fiir. Orn., 1865, 412.— Sundevall, CEfv. k. Vet.-Ak. Forh. 
+ Cabanis, Journ. fiir. Orn., 1865, 412.— Sundevall, Oefv. k. Vet.-Ak. Forh. 
 
  Stockh., 1869, 621 (monogr.).— Finsch, Verb. k. k. zool.-bot. Gessellsch. 
 
@@ -57746,7 +57746,7 @@ Island of St. Vincent, Lesser Antilles.
 
  1847, 611; Journ. fiir Orn., 1855, 418.— Reichenbach, Handb., ii, 1853, 243 
 
- (see FiNSCH, Verb. k. k. zool.-bot. Gesellsch. Wien, 1871, 762). 
+ (see Finsch, Verb. k. k. zool.-bot. Gesellsch. Wien, 1871, 762). 
 
 
 
@@ -58022,7 +58022,7 @@ Glossiptila rvficollis Sclater, Proc. Zool. Soc. Lond., 1856, 269 (monogr.); 186
 
  73; Cat. Am. Birds, 1862, 54; Cat. Birds. Brit. Mus., xi, 1886, 48.— Albrfx-ht, 
 
- Journ. fiirOrn., 1862, 196.— March, Proc. Ac. Nat. Sci. Phila., 1863, 296.— 
+ Journ. fur Orn., 1862, 196.— March, Proc. Ac. Nat. Sci. Phila., 1863, 296.— 
 
  Baird, Review Am. Birds, 1864, 163, fig. 1 (fig. of tongue).— Cory, Auk, 
 
@@ -61284,7 +61284,7 @@ BIKDS OF NORTH AND MIDDLE AMERICA. 451
 
  Soc. Lond., 1867, 135 (Santa Fg, Veragua) ; 1870, 182 (Calovevora, Veragua).— 
 
- Frantzius, Journ. fiirOrn., 1869, 293 (CandelariaMts., Costa Rica).— Coues, 
+ Frantzius, Journ. fur Orn., 1869, 293 (CandelariaMts., Costa Rica).— Coues, 
 
  Check List, 1873, no. 63; 2d ed., 1882, no. 102; Birds N. W., 1874, 49; Birds 
 
@@ -65424,7 +65424,7 @@ Mlniotiltal americana Gray, Gen. Birds, i, 1848, 196, part.
 
 
 
-Compsothlypis americana Sdndevall, Ofv. k. Vet.-Ak. Forh. Stockh., xxvi, 1870, 
+Compsothlypis americana Sundevall, Ofv. k. Vet.-Ak. Forh. Stockh., xxvi, 1870, 
 
  596 (Porto Rico).— Stejneqer, Auk, i, 1884, 170, part. — American Orni- 
 
@@ -69008,7 +69008,7 @@ Dendrcsca seativa Sclatbr, Proc. Zool. Soc. Lond., 1859, 363 (Jalapa, Vera Cruz)
 
  (Merida, Yucatan). — Blakiston, Ibis, 1863, 63 (interior British America). — 
 
- ScLATEK and Salvin, Proc. Zool. Soc. Lond., 1864, 347 (Panama R. R. ) ; 1869, 
+ Sclater and Salvin, Proc. Zool. Soc. Lond., 1864, 347 (Panama R. R. ) ; 1869, 
 
  251 (Lake Valencia, Venezuela); 1870, 836 (San Pedro, Honduras); 1879, 
 
@@ -71060,7 +71060,7 @@ Dendroica rufopileata Ridgway, Proc. U. S. Nat. Mus., vii, July 29, 1884, 173
 
  (Curacao, Dutch West Indies; coll. U. S. Nat. Mus.).— Bbelbpsch, Journ. 
 
- fiirOrn., 1892, 76 (Curagao) .—Peters, Journ. fflrOrn., 1892, 116 (Curagao). 
+ fur Orn., 1892, 76 (Curagao) .—Peters, Journ. fflrOrn., 1892, 116 (Curagao). 
 
 
 
@@ -72435,7 +72435,7 @@ D^endrceca] maculosa Coues, Key N. Am. Birds, 2d ed., 1884, 304.
 
 
 
-Dendroeca macutosa Sundbvall, 5fv. k. Vet.-Ak. Forh. Stockh., xxvi, 1870, 615 
+Dendroeca macutosa Sundevall, 5fv. k. Vet.-Ak. Forh. Stockh., xxvi, 1870, 615 
 
  (monogr.). 
 
@@ -72974,7 +72974,7 @@ D\endroica'] carbonata Ridgway, Man. N. Am. Birds, 1887, 493.
 
 
 
-Dendroeca carbonata Sundbvall, Ofv. k. Vet.-Akad. Forh. Stockli., xxvi, 1870, 
+Dendroeca carbonata Sundevall, Ofv. k. Vet.-Akad. Forh. Stockli., xxvi, 1870, 
 
  618 (monogr.). 
 
@@ -73298,7 +73298,7 @@ Sylvicola canadensis Rica AB.DSON, Rep. Brit. Assoc, for 1836 (1837), 172.— Bo
 
  91 (San to Domingo).— Brewer, Proc. Bost. Soc. N. H., vii, 1860, 307 (Cuba).— 
 
- Albeecht, Journ. fiirOrn., 1861, 53 (Bahamas). 
+ Albeecht, Journ. fur Orn., 1861, 53 (Bahamas). 
 
 
 
@@ -77428,7 +77428,7 @@ Dendroica blackbumix Baied, Eep. Pacific E. R. Surv., ix, 1858, 274; Cat. N. Am.
 
  ScLATEE, Proc. Zool. Soc. Lend., 1860, 64 (Pallatanga, Ecuador); 1860, 84 
 
- (do).— FEANTZius,Joum. fiirOrn., 1869, 293(Costa Rica).— SuMicHKAST, Mem. 
+ (do).— FEANTZius,Joum. fur Orn., 1869, 293(Costa Rica).— SuMicHKAST, Mem. 
 
  Bost. Soc. N. H., i, 1869, 547 (Orizaba, Vera Cruz).— Baied, Beewee, and 
 
@@ -81203,7 +81203,7 @@ Birds Col. Val., 1878, 296 (synonymy).— Coey, Birds W. I., 1889, 38
 
 Coey, List Birds W. I., 1885, 8. 
 
- Dendroeca pityophila Sundbvall, Ofv. k. Vet.-Akad Forh. Stockh., xxvi, 1870, 
+ Dendroeca pityophila Sundevall, Ofv. k. Vet.-Akad Forh. Stockh., xxvi, 1870, 
 
 
 
@@ -81990,7 +81990,7 @@ Sylvia palmarum Vieillot, Ois. Am. Sept., ii, 1807, 21, pi. 73; Nouv. Diet. d'Hi
 
  (Santo Domingo).— Bryant, Proc. Bost. Soc. N. H., vii, 1859, 110 (Bahamas, 
 
- winter; habits); xi, 1867, 91 (Santo Domingo).— Albrecht, Journ., fiirOrn., 
+ winter; habits); xi, 1867, 91 (Santo Domingo).— Albrecht, Journ., fur Orn., 
 
  1861, 53 (Bahamas). 
 
@@ -82107,7 +82107,7 @@ Dendreeca palmarum Sclater, Proc. Zool. Soc. Lond., 1861, 71 (Jamaica). —
 
 
 
-bendratca palmarum Sundbvall, Of v. k. Vet.-Ak. Forh. Stockh., xxvi, 1870, 616, 
+bendratca palmarum Sundevall, Of v. k. Vet.-Ak. Forh. Stockh., xxvi, 1870, 616, 
 
  part (monogr.). 
 
@@ -83303,7 +83303,7 @@ Sylvicola formosa Jaedine, ed. Wilson's Am. Orn., i, 1832, 378. — Eichabdson,
 
 
 
-Siylvicola] formosa Maxiuii,! Ail, Journ. fiirOrn., 1858, 113 (lower Missouri R). 
+Siylvicola] formosa Maxiuii,! Ail, Journ. fur Orn., 1858, 113 (lower Missouri R). 
 
 
 
@@ -83645,7 +83645,7 @@ Sylvia agUis Wilson, Am. Orn., v, 1812, 64, pi. 39, flg. 4 (Connecticut; Pennsyl
 
  vania near Philadelphia). — Stephens, Shaw's Gen. Zool., x, 1817,732 — 
 
- ViEiLLOT, Enc. M6th., ii, 1823, 448.— Bonaparte, Journ. Ac. Nat. Sci. Phila., 
+ Vieillot, Enc. M6th., ii, 1823, 448.— Bonaparte, Journ. Ac. Nat. Sci. Phila., 
 
  iv, 1824, 199; Ann. Lye. N. Y., ii, 1826, 84.— Audubon, Orn. Biog., ii, 1834, 
 
@@ -85725,7 +85725,7 @@ H[emcodchla] major Cabanis, Mus. Hein., i., 1850, 16 (Jalapa, Vera Cruz,
 
 
 
-Henicociehla major Oabasis, Journ. fiirOrn., 1857, 240 (Cuba). 
+Henicociehla major Oabasis, Journ. fur Orn., 1857, 240 (Cuba). 
 
  Enicodchla major Brewer, Proc. Bost. Soc. N. H., vii, 1860, 306 (Cuba). 
 
@@ -86823,7 +86823,7 @@ Eastern Cuba.
 
 Teretistris fornd Gundlach, Ann. Lye. Nat. Hist. N. Y., vi, 1858, 274 (eastern 
 
- portion of Cuba); Journ. fiirOrn., 1861, 326; 1862, 177; 1872, 418; Eepert. 
+ portion of Cuba); Journ. fur Orn., 1861, 326; 1862, 177; 1872, 418; Eepert. 
 
  Fisico-Nat. Cuba, i, 1865, 236.— Albeecht Journ. fiir Orn., 1861, 211.- 
 
@@ -88617,7 +88617,7 @@ The following references I am unable, in the absence of specimens
 
 
 
-Oeolhlypis trichas Sundbvall, Ofv. k. Vet.-Ak. Forli. Stockh., xxvi, 1870, 596 
+Oeolhlypis trichas Sundevall, Ofv. k. Vet.-Ak. Forli. Stockh., xxvi, 1870, 596 
 
  (Porto Rico).— GuNDLACH, Anal. Soc. Esp. Hist. Na,t., vii, 1878, 187 (Porto 
 
@@ -88879,7 +88879,7 @@ Trichas marilandica Audubon, Synopsis, 1839, 65, part; Birds Am., oct. ed., ii,
 
 
 
-Trlichas] marilandica Maximiiaan, Journ. fiirOrn., 1858, 118, part (Kentucky; 
+Trlichas] marilandica Maximiiaan, Journ. fur Orn., 1858, 118, part (Kentucky; 
 
  Texas). 
 
@@ -91992,7 +91992,7 @@ Genus ICTERIA Vieillot.
 
 
 
-/c(ma ViEiLLOT, Ois. Am. Sept., i, 1807, pp. iii, 85. (Type, Muscicapa viridis 
+/c(ma Vieillot, Ois. Am. Sept., i, 1807, pp. iii, 85. (Type, Muscicapa viridis 
 
 
 
@@ -92486,7 +92486,7 @@ Gmelin). — Bonaparte, Journ. Ac. Nat. Sci., Phila., iv, 1825, 251.
 
 
 
-Journ. fiirOrn., 1863, 57). 
+Journ. fur Orn., 1863, 57). 
 
  [Icieria] auricoUis Bonaparte, Consp. Av., i, 1850, 331. 
 
@@ -92627,7 +92627,7 @@ Tiieriii hmi/icavdii Lawrence, Ann. Lye. Nat. Hist. N. Y., vi, 1853,4 (Californi
 
  Pbila., xviii, 1K66, 71 (Fort Whipple, Arizona). — Cooper, Orn. Cal., lS7fl, 
 
- 98.— FiNSCH, Abh. Nat. Brem., 1870, 331 (Mazatlan).— Aiken, Proc. Bast. 
+ 98.— Finsch, Abh. Nat. Brem., 1870, 331 (Mazatlan).— Aiken, Proc. Bast. 
 
  Soc. N. H., 1872, 197 (Colorado). 
 
@@ -96383,7 +96383,7 @@ Setophaga rulicUbi Swainson, Philos. Mag., n. s., i, 1827, 368; Zool. Journ,, ii
 
  Rica).— Sumichrast, Mem. Bost. Soc. N. H., i, 1 869, 547 ( Vera Cruz, winter).— 
 
- FiNSCH, Proc. Zool. Soc. Lond., 1870, 565 (Trinidad).— Sundevall, Ofv. k. 
+ Finsch, Proc. Zool. Soc. Lond., 1870, 565 (Trinidad).— Sundevall, Ofv. k. 
 
  Vet.-Ak. Forh. Stockh., xxvi, 1870,596 (Porto Rico).— Wyatt, Ibis, 1871, 
 
@@ -100509,7 +100509,7 @@ Carddlina rubra Oassin, Illustr. Birds Cal., Tex., etc., 1854, 265, pi. 43.— S
 
  ico). — SuMiCHRAST, Mem. Bost. Soc. N. H., i, 1869, 546 (alp. reg. A'^era 
 
- Cruz).— FiNSCH, Abh. Nat. Brem., 1870, 329 (Mazatlan). 
+ Cruz).— Finsch, Abh. Nat. Brem., 1870, 329 (Mazatlan). 
 
 
 
@@ -103049,7 +103049,7 @@ Page 419: Certhiola hartholemica Sundevall, Ofv. k. Vet.-Ak. Forh,
 
 
 
-Page 422: Cancel citation of Sundevall, CEfv., etc., under Gerthi- 
+Page 422: Cancel citation of Sundevall, Oefv., etc., under Gerthi- 
 
  ■ola martinicana, and change citation after Certhiola albigula to 
 
@@ -103353,7 +103353,7 @@ Page 565: To synonymy of Dendroica virens add: '
 
  tains of Pennsylvania).— Stephens, Shaw's Gen. Zool., x, 1817, 736.- 
 
- ViEiLLOT, Ene. Meth., ii, 1823, 451.— Bonaparte, Journ. Ac. Nat. Sci. Phik, 
+ Vieillot, Ene. Meth., ii, 1823, 451.— Bonaparte, Journ. Ac. Nat. Sci. Phik, 
 
  iv, 1823, 451.— AiDUEON, Orn. Biog., v, 1839, 294, part (not pi. 434, fig. 3). 
 
