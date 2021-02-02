@@ -2241,7 +2241,7 @@ l
 J F
 
 (1782).
-Picus cafer *, Gm. Syst Nat. i. p. 431 (1788); Lath. hid. Om. i. 
+Picus cafer *, Gm. Syst Nat. i. p. 431 (1788); Lath. hid. Orn. i. 
 
 p. 242 (1700). 
 Picus lathami, Wagl. Syst. Av., Picus, sp. 85 (1827). 
@@ -2263,7 +2263,7 @@ Baird, p. 408 (1870); Sclat. $ Salv. Nomencl. Av. JSreotr. p. 101
 (1873); Coues, B. N.- West. p. 294 (1874); B., B., $ P. Hist. 
 N. Amer. B. p. 578, pi. Iv. figs. 3, 4, $ $ ad. (1874); Hensh. 
 U. S. Geogr. Surv. W. oflQDth Merid. 1875, p. 400; Pidgw. U. S. 
-Geol. Fxpl. 40th Par. pt. iii. Om. p. 555 (1877) ; Coop. Proc. U. JS. 
+Geol. Fxpl. 40th Par. pt. iii. Orn. p. 555 (1877) ; Coop. Proc. U. JS. 
 Nat Mus. 1879, p. 250; Coues, Check-list N. Amer. B. 2nd ed. 
 1882, p. 80; Sahin, P. Z. S. 1883, p. 425; Cones, Key N. Amer. 
 B. 2nd ed. 1884, p. 493; Scott, Auk, pp. 174, 356; Ferrari-Perez, 
@@ -2288,7 +2288,7 @@ p. 100; Reichenb. Scans. Picbm, p. 414, no. 973, pi. dclxvii.
 fig*. 4424, S (1854). 
 Picus 
 mexicanus, And. B. Amer. pi. ceccxvi. figs. 5 <£, 6 $ ad, 
-(1835-38) ; 2& Om. Biogr. v. p. 174 (1839); id. B. Am. 8vo, iv. 
+(1835-38) ; 2& Orn. Biogr. v. p. 174 (1839); id. B. Am. 8vo, iv. 
 
 p. 290. pi. cclxxiv. J $ ad. (1839),- Simdev. Consp. Ai\ Fichu 
 p. 72 (1806). 
@@ -2311,7 +2311,7 @@ Oolaptes auratus, Tar. mexicanus, Ridgw. Proc. Essex hut 1875,
 p. 88 ; Beld. Proc. XI. S. Nat. Mas. 1878, p. 430. 
 Oolaptes mexicanus rufipileus, Ridgw. Bull. U. 8. Geol § Geogr. 
 Surv. Terr. ii. no. 2, p. 191 (1876). 
-Oolaptes rufipileus,*Ridgxo. Ball fruit. Om. Club, ii. p. 60 (1877) ; 
+Oolaptes rufipileus,*Ridgxo. Ball fruit. Orn. Club, ii. p. 60 (1877) ; 
 id. Proc. XT. 8. fraf. Mas. 1880, p. 190, no. 380 ; A. O. U. Checklist 
 N. Amer. B. p. 218 (1880); Ridgio. Man. fr. Amer. B. p. 290 
 (1887). 
@@ -2716,7 +2716,7 @@ Picus ayresi, DeKay, Nat. Hist. N. York, pt ii. v>. 194 (1844).
 
 Colaptes hybridus, Baird, B. N. Amer. p. 122 (1858); B.7 B., § M. 
 Hist N Amer. B. ii. p. 582. pi. liv. fig. 3 (1674); Midgiu. JJ. S. 
-GeoL JExpl. 4:0th Par. pt. Hi. Om. p. 556 (1877); Cones, Bull 
+GeoL JExpl. 4:0th Par. pt. Hi. Orn. p. 556 (1877); Cones, Bull 
 
 U. 8. Geol. Surv. iv. no. 3, p. 018 (1878). 
 Geopicus ayresii, Malh. PieidcB, ii. p. 2(50 (1^02). 
@@ -2816,7 +2816,7 @@ Malherbipicus campestris, Bp. Consp. Yolucr. Zygod. p. 11, no. 220
 (1854). 
 Geopieus campestris, Malh. Pieidcp, ii. p. 251, pi. cviii figs. 1, % 
 3 2 ad. (1862). 
-Pediopipo campestris, Pelz. Om. Bras. p. 249 (1870). 
+Pediopipo campestris, Pelz. Orn. Bras. p. 249 (1870). 
 
 Adult male. Back, scapulars, and wing-coverts blackish brown 
 narrowly barred with smoky white; quills blackish brown, the 
@@ -2898,8 +2898,8 @@ agricola, Sclat. Cat. Amer. B. p. 343, no. 2051 (1862);
 Hudson, P. Z. S. 1872, p. 549; Sclat. fy Salv. Nomencl. Av. Neotr. 
 
 p. 101 (1873) ; Lee, Ibis, 1873, p; 134; Barrows, Auk, 1884, p. 25; 
-Madar. Zeitsch. c/esamm. Om. ii. p. 159 (1885); Withing. Ibis, 
-1888, p. 468; Sclat $ Binds. Arg. Om. ii. p. 24 (1889). 
+Madar. Zeitsch. c/esamm. Orn. ii. p. 159 (1885); Withing. Ibis, 
+1888, p. 468; Sclat $ Binds. Arg. Orn. ii. p. 24 (1889). 
 Picus agricola, Sundev. Consp. Av. Picin. p. 77 (1866). 
 Colaptes campestris (non Vieill), White, P. Z. S. 1882, p. 618. 
 
@@ -6222,7 +6222,7 @@ Gecinus nigrigenis, Hume, Proc. A. 8. B. 1874, p. 106; id. Str. F.
 1874, pp. 444, 471; id. $ Damson, op. cit. vi, p. 136 (1878); 
 Bingham, op. cit 1880, p. 163. 
 
-Picus nigrogenis, Gieb. T/ies. Om. iii. p. 170 (1876). 
+Picus nigrogenis, Gieb. T/ies. Orn. iii. p. 170 (1876). 
 
 Adult male. Resembles G. erytliropygms, from Cochin China, but 
 may be easily distinguished by its black bill; the dimensions are 
@@ -6944,7 +6944,7 @@ Chloropicus clilorocephalus JIalh. Ticidm, ii. p. 144, pi. Ixxxvi. figs.
 Chloronerpesfiavigularfc, Scforf. Orf. -4//z«\ B. p. 339, no. 2023 (1862) ; 
 *tf. * &*/r. NomencL Av. Xeotr. p. 99 <1S73) ; zYtf. P. Z S. 1873, 
 
-p. 291; &tfw. 75**, 1880, p. 58 ; Tacz. Om. Perou, iii. p. 84JJ836). 
+p. 291; &tfw. 75**, 1880, p. 58 ; Tacz. Orn. Perou, iii. p. 84JJ836). 
 Oraugasus flavigula, C«6. $• Heine., MILS. Hem. iv. p. 157 (1563). 
 J/foift mflrZ^. Back, rump and upper tail-coverts, scapulars, wins:coverts 
 and outer webs of secondaries olive, brighter on the back 
@@ -7649,7 +7649,7 @@ p. 546, lb77, p. 827, 1*79, p. 244; id. $ Berl. op. cii. 1688',
 • p. 571; Tacz. Dm. Perou, iii p. 82 (1880). 
 Chloronerpes tucunianus, 
 Cab. J. f. O. 1883, p. 103; Sclat. *|* Iluds. 
-Arg. Om. ii. p. 21 (1889). 
+Arg. Orn. ii. p. 21 (1889). 
 
 Adult nude. Back, scapulars, and rump rusty olivo; upper tail-
 coverts dusky olive, narrowly barred with yellow; wing-coverts 
@@ -8085,14 +8085,14 @@ Pic tachete de Nubie, Itoft. Fl. Enl. no. 6(57.
 Nubian Woodpecker, Lath. Gen. Syn. no. 23, vol. i. pi. 2, p. 576 
 
 (1782). 
-Picas rabicus, Gm. Syst. Nat p. 430 (1788), $; Z<rfj&. I?M*. Om. 
+Picas rabicus, Gm. Syst. Nat p. 430 (1788), $; Z<rfj&. I?M*. Orn. 
 
 i. p. 233 (1790); Steph. Gen. Zool. ix. pt. 1, p. 180 (1815); 
 LichL Verz. Boubl. p. 11 (1823), pt.; Bonn, fy Vieill Bnc. Meth. 
 iii. p. 1313 (1823), pt.; Sundev. Consp. Av. Fichu p. 67 (1866); 
 Blanf. GeoL $ Zool. Ahjss. p. 305 (1870); Finsch, Tr. Z. S. vii. 
 p. 2*53, no. 160 (1870); Finseh $ Haril Tog. Ostafr. p. 508 
-(1870): Heugl. Om. N.O.-Afr. p. 881 (1871); Fisch. £ Feickenb. 
+(1870): Heugl. Orn. N.O.-Afr. p. 881 (1871); Fisch. £ Feickenb. 
 J. f. 0. 1878, p. 253 ; Felk Yerhandl. h-L zool-bot Gesellsch. 
 1882, p. 510; Bohm, op. cit. 1883, p. 168. 
 Picus sethiopicus, Hempr. § Fhrenb. Symb. Fhys. i. fol. 2, p. 2 
@@ -8997,7 +8997,7 @@ m Niam Country, E. BobndorfffC.l.
 & $ ad. sk. Tingasi. Einin Paska "P.J. 
 
 11. Campotliera permista. 
-Dendrornus brachyrhvnehns (non Sicaim.), Hartl. Om. W.-Afr. 
+Dendrornus brachyrhvnehns (non Sicaim.), Hartl. Orn. W.-Afr. 
 p. 182 (1857); U. J.f. 0. 1801, p. 264. 
 Chrysopicus brachvrhynchtis, MaHi. Pieidcp, ii. p. 152, pi. xci. furs. 0, 
 7"(1862). 
@@ -9012,7 +9012,7 @@ Campetbera maculosa {non Valenc), Sharpe fy Bouvier, Bull. Soe.
 
 Zool. France; 1870, p. 51. 
 Campetbera permista, Sharpe fy Bonder, Jjfo//. *Vor. -£W. France, 
-1876, p. 312; Bocage, Om. Any., App. p. 536 (lc?sl). 
+1876, p. 312; Bocage, Orn. Any., App. p. 536 (lc?sl). 
 Campotbera permista, Ilargitt, Ibis, Ibbo, p. 47b; Sharpe, Joum. 
 Linn. Soe. xvii. p. 431 (lbS4). 
 
@@ -9426,7 +9426,7 @@ Nomencl. Av. Neotr. p. 100 (1873); Zee, Ibis, 1873, pp. 132,
 134; Gibson, op. tit. 1880, p. #ll; White, P.Z.8. 1882, p. (518; 
 Dalgl. Proc. JR. Phys. 8oc. Edi/ib. 1884, p. 80; Gibson, Ibis, 1885, 
 
-p. 282; Withingt. Ibis, 1888, p. 468; Set. $ Ilads. Arg. Om. ii. 
+p. 282; Withingt. Ibis, 1888, p. 468; Set. $ Ilads. Arg. Orn. ii. 
 p. 21 (1889). 
 Chrysoptilus 
 chlorozostus (non WagL), Lieht. Nomencl Av. p. 70 
@@ -9448,7 +9448,7 @@ Chrysoptilus ehrysornelas (non Mai/i.), Gray, List Picid. Brif. Mus.
 p. 92 (1868); id. Hand-l B. ii. p. 19o,_no, 8734 (1870). 
 Colaptes leucofrenatus, Zeybold, Leopoldina, 1873, yiii. p. 53; Von 
 Martens, J.f. 0.1875, p. 445. 
-Picus leucophrenatus, Gieb. Thes. Om. iii. p. 162 (1876). 
+Picus leucophrenatus, Gieb. Thes. Orn. iii. p. 162 (1876). 
 
 Adult male. Bears a great resemblance to C. melanocldorus as 
 regards the pattern of the plumage, but is very distinct in colouration. 
@@ -9882,7 +9882,7 @@ Chrysoptilus atricollis, Peichenb. Scans. Picin<e} p. 430, no. 1015 h
 Picitl Brit. Mus. p. 94 (1868); Sclat. P. Z. S. 1869, p. 148; Gray, 
 Hand-IB. ii. p. 195, no. 8?41 (1870); Sclat. Sf Salv. Nomencl 
 Av. Neotr. p. 100 (1873); Tacz. P. Z. S. 1880;p. 209,1882, p. 42; 
-id. Om. Perou, iii. p. 86 (1886). 
+id. Orn. Perou, iii. p. 86 (1886). 
 
 Picus atricollis, Sundev. Consp. Av. Picin. p. 76 (1866). 
 
@@ -11958,7 +11958,7 @@ Red4ieaded Woodpecker, Catesby, Nat. EM. Carol i. p. 20, pi. xx.
 (1731): Lath. Gen. Syn. ii. p. 561, ad. (1782) ; Pe?m. Arct. Zool. 
 
 ii. p. 271 (1785). 
-Le Pic a teste rouge de Virginie, Briss* Om. iv. p. 53, pi. iii, fig. 3 
+Le Pic a teste rouge de Virginie, Briss* Orn. iv. p. 53, pi. iii, fig. 3 
 (1700). 
 Picus erythrocephalus, 
 Linn. Syst Nat i. p. 174 (17G6) ; Gm. Syst 
@@ -11971,10 +11971,10 @@ Vahnc, Diet. 8c. Nat xl. p. 181 (1826); Wagl. Syst Av. Picus,
 sp. 14 (1827); JDrap. Diet Class, xiii. p. 496 (1828); Bp. Syn. Bds. 
 U.S. 1828, p. 45; Wagl. Isis, 1829, p. 518, juv.; Aud. B. Amer., Atl. 
 i. pi. xxvii. figs. 1 <$ ad., 2 ? ad., 3, 4, 5 juv. (1827-30); Less. 
-TraiU, i. p. 227 (1831); Aud. Om. Biogr. i. p. 145 (1831); Jard. 
-ed. Wilson's Amer. Om. i. p. 146, pi. ix. fig. 1 ad., iii. p. 430, 
-pi. xiv. fig. 3 juv. (1832); Nutt Man. Om. 1832, i. p. 569; Sahn 
-8f Kiist. Om. Atlas, pi. ii. (1834) ; Aud. Om. Biogr. v. p. 536 
+TraiU, i. p. 227 (1831); Aud. Orn. Biogr. i. p. 145 (1831); Jard. 
+ed. Wilson's Amer. Orn. i. p. 146, pi. ix. fig. 1 ad., iii. p. 430, 
+pi. xiv. fig. 3 juv. (1832); Nutt Man. Orn. 1832, i. p. 569; Sahn 
+8f Kiist. Orn. Atlas, pi. ii. (1834) ; Aud. Om. Biogr. v. p. 536 
 VOL. XVIII. 
 L 
 
@@ -12187,7 +12187,7 @@ Leuconerpes candidus, Swains. Clmsif. B. ii. p. 310 (1837); Bvrm,
 
 J. f. O. 1860, p. 244; id. Beise La Flata-St ii. p. 445 (1801)' 
 Sclat. Cat.Amer.B. p. 342, no. 2041 (l802f; id. § Huds. Arg, 
-Om. ii. p. 23 (1889); Felz. Om. Bra*, p. 247 (1870); Sdat. # 
+Om. ii. p. 23 (1889); Felz. Orn. Bra*, p. 247 (1870); Sdat. # 
 Salv. Xomencl Av. Xeotr. p. 100 (1873); Salt. Ibis, 1880, p. 301; 
 White, F. Z. S. 1882, p. 018; Barrows, Auk, 1884, p. 25. 
 Leuconerpes dominicanus, Gray, Gen. B. ii. p. 444 (1846); HartL 
@@ -12690,7 +12690,7 @@ Ind. Orn. i. p. 227, J $ (1790).
 PICIJDJE. 
 
 Picus hirundinaceus, jS, Gm. Syst. Xat i. p. 426, J (1788) ; Lath. 
-Ind. Om. i. p. 227, d (1790). 
+Ind. Orn. i. p. 227, d (1790). 
 
 Picas hirundinaceus * Temm. Cat. Syst p. 62 (1807); Tieill X. Bid. 
 ctJECist. Xat. xxvi. p. 87, tf (1818): id. § Bona. Em. Meth. p. 1315, 
@@ -13152,7 +13152,7 @@ List Ricid. Brit. Mm. p. 50 (1868); id. Hand-L B. ii. p. 18%,
 no. 8615 (1870); ScL §• Salr. NomencL Av. Keotr. p. 90 (1873) ; 
 Zee, Ibis, 1873, p. 134; ScL # Salt. P. Z. S. 187% p. 03; Sale. Ibis, 
 1880, p. 361; White, P. Z. S. 1882, p. 617; Barrows, Auk, 1884, 
-p. 25 ; Taez. Orn. Rirou, iii. p. 77 (1886) ; ScL <§• Hud®. Arg. Om. 
+p. 25 ; Taez. Orn. Rirou, iii. p. 77 (1886) ; ScL <§• Hud®. Arg. Orn. 
 ± p. 19 Q889). 
 Picas (Gecinus) cactorum. Cab. i?z Ttck. Faun. Tertian., Ares, p. 207 
 (1845-46). 
@@ -13660,7 +13660,7 @@ p. 4:31, sp. 10 SJ W . 3 OT var. y c s^i. |17^J; Vie'll X. Ditt.
 d'Hist. Xat. xxvi. p. 77 {1^1^); Yftlenc. iJkt. S-. Xat. xl. p. 1^1 
 (1820); Drap. Did. Cla^if. <CHte. Xat. xill \K 4m fl-2*-); 
 WHs. Bp. <$* Jard. Amer. Or/i. i. p. 113, pi ^IL titr. 2. -" (non 
-Mn.) (Ifc32): Xuttall, Man. Om. i. p. 572 (ls&>jt; .W . Or«. 
+Mn.) (Ifc32): Xuttall, Man. Orn. i. p. 572 (ls&>jt; .W . Or«. 
 Z%. v. p. 109, -4fc, pi. 415. &r. 3 o a«l.f pi. 410. hjr. 4 2 ! 1 *#)); 
 id. Synop. 1839, p. Ib3; Peabody, B. Ma^m L p. 330 ! **41): . lw</. 
 i?. y3t;»e/\ iv. p. 270, pi. eclxx. (*W2>; De Kay, Xuf. J fiat. X. Y. 
@@ -13674,7 +13674,7 @@ Picus zebra, iW & JViW. IV. Etil p. 43, no. tji*2 117*3 J.
 Picus caroliims, Tar. y, .Z</£A. //««?. Or«. i. p. 231 {17*»*0*. 
 Picus griseus, Yieill Ois. Amer. h'tpf. ii. p. *»:>, pi. c*.vi. o*ad. (1807); 
 Bonn. # T7e>7/. JStoc. JI^ . p. laO^s f 1*^23). 
-Picus carolinensis, WHs. Amer. Om. i. p. 113, pi. vii. fig. 2, <£ 
+Picus carolinensis, WHs. Amer. Orn. i. p. 113, pi. vii. fig. 2, <£ 
 (1808). 
 Picus ervthrauchen, Wagl Syst. AM. Picui?, sp. 38 (1527); id. Isis, 
 1829, p. 518. 
@@ -13698,7 +13698,7 @@ p. 180 (1872); Coues, Cheek-lid, 1873, no. 30U; I£id</w. Bull
 Essex Inst.1873, p. 185; Coven, B. X. West, p. 2811(1574); B., B., 
 Sr B. Mist. X. Amer. B. ii. p. 554, pi. Hi figs. 1 ^ , 4 J (1&74); 
 Breioster, Ann. Lye. X. Y. xi. p. 144 (1875); Xels. Ball Essex 
-Inst viii. p. 110 (1870); Brewster, Bull Xatt Om. Club, lb77, 
+Inst viii. p. 110 (1870); Brewster, Bull Xatt Orn. Club, lb77, 
 p. 108; Mayn. Bds. Florida, p. 220, pi. x\iiL (1878); Mourns, 
 Trans. Conn. Acad. 1878, p. 146; Midywu Proc. U. 8. Xat. Mas. 
 12 . MELANERPES. 
@@ -14180,7 +14180,7 @@ cJ, 2 $ ; Bresser, Ibis, 1865, p. 469.
 Centurus subelegans, Bp. P. Z. 8.1837, p. 109, c? ad.; Gray, Gen. 
 
 B. ii. p. 442 (1846); Bp. Consp. Volucr. Zygody. 11, no. 220, non 
-syn. (1854); id. Notes Om. Coll Rapp. Belatt. p. 85 (1854). 
+syn. (1854); id. Notes Orn. Coll Rapp. Belatt. p. 85 (1854). 
 VOL. XVIII. BT 
 
 
@@ -14965,7 +14965,7 @@ Proc. Essex Inst. 1867, p. 262; Allen, Am. Nat. 1870, p. 571;
 Cozies, Bds. N.-West, p. 285 (1874); Lawr. Bull. U. S. Nat. 
 Mus. iv. 1876, p. 35; Gundl. Orn. Cuba, p. 273 (1876); Cones, 
 Bull. XI. S. Geol. Surv. iv. 1878, p. 616; Mayn. B. Florida, p. 223, 
-pi. xviii. (1878); Merriam, Bull. Nutt. Om. Club, 1879, p. 1; Cory, 
+pi. xviii. (1878); Merriam, Bull. Nutt. Orn. Club, 1879, p. 1; Cory, 
 
 B. Baham. Isl. p. 121 (1880); Ridgw. Proc. U. S. Nat Mus. 1880, 
 p. 189; Nehrling, J. f. O. 1883, p. 95; Merriam, Auk, 1884, 
@@ -14983,7 +14983,7 @@ Ibis, 1865, p. 468 ; Mclkor. Proc. Essex Inst 1866, p. 83; Baird.
 Ibis, 1867, pp. 270-288; Lawr. Ann. Lye. N. Y. ix. p. 205 (1869); 
 Sclat Sr Salv. Nomencl. Av. Neotr. p. 99 (1873); Ridgw. Ann. Lye. 
 N. Y. x. p. 337 (1874); Coues, Check-list N. Amer. B. 2nd ed. 
-p. 78, no. 446 (1882); Cookety Widm. Ridgw. Om. Club, Bull. 
+p. 78, no. 446 (1882); Cookety Widm. Ridgw. Orn. Club, Bull. 
 i. p. 36 (1883); Coues, Key N Amer. B. 2nd ed. p. 486 (1884). 
 Cladoscopus varius, Cab.fy Heine, Mus. Hein. iv. p. 80 (1863). 
 Sphyropicus varius, var. varius, B., B., ty R. Hist N. Amer. B. ii. 
@@ -15395,7 +15395,7 @@ Sphyrapicus varius nuchalis, Rigw. Proc. Essex List. 1875, pp. 24,
 p. 349; Drew, Auk, 1885, p. 17; Scott, t. c. p. 427; A. O. U. 
 Chech-list X. Amer. B. p. 215, no. 402 a (1886); Ridgw. Man. N. 
 Amer. B. p. 288 (1887). 
-Picus varius (pt.), Giebel, Thes. Om. iii. pp. 184, 185 (1870). 
+Picus varius (pt.), Giebel, Thes. Orn. iii. pp. 184, 185 (1870). 
 
 Sphyropicus varius nuchalis, 
 Cones, Check-list N. Amer. B. 2nd ed. 
@@ -16799,8 +16799,8 @@ pi. xxxviii. fig*. 3 (1833); Glog. Nat. Gesch. Bur. Yog. i. p. 458
 (1834) ; Jenyns, Man. Brit. Yertebr. p. 150 (1835); Webb, Berth. 
 # Moq.-Tand. Hist. Nat. Canar., Orn. p. 26 (1830-44) ; Keys, dy 
 Bias. Wirb. Bur. pp. 148 & xxxv (1840); Schinz, Eur. Faun. 
-i. p. 2151 (1840); Benoit, Om. Sic. p. 32 (1840); Car a, Orn. Sard. 
-p. 89(1842); Schleg.Rev. Crit.y.l (1844); Y. d. Muhle, Om. 
+i. p. 2151 (1840); Benoit, Orn. Sic. p. 32 (1840); Car a, Orn. Sard. 
+p. 89(1842); Schleg.Rev. Crit.y.l (1844); Y. d. Muhle, Orn. 
 Griechenl. p. 30 (1844); Gray, Gen. B. ii'. p. 435 (1845); Malh. 
 N. Classify Mem.^ Acad. Metz, 1848-49, p. 326; Bp. Consp. Gen. 
 Av.i. p. 134 (1850); Reichenb. Scans. Picinm, p. 304, no. 842, 
@@ -16823,13 +16823,13 @@ p. 19, pl. celxxv. (1871); R. Gray, B. W. Scotl. p. 190 (1871):
 Godm. Ibis, 1872, p. 168; Hart Handb. Brit. B. p. 32 (1872) ; 
 Elw. P. Z. S. 1873, p. 649; Brooke, Ibis, 1873, p. 235; Perini, 
 Man. Orn. Veron. p. 402 (1874); Cord. Ibis, 1875, p. 184; Danf. 
-& Harv.-Br. t c. p. 299 ; Severtz. t c. pp. 488, 489 ; Irby, Om. 
+& Harv.-Br. t c. p. 299 ; Severtz. t c. pp. 488, 489 ; Irby, Orn. 
 Sir. Gib. p. 70 (1875); Sound. Bull. Soc. Zool. Fr. 1876, p. 324; 
 Dress. Ibis, 1876, p. 320; D'Hamonv. Cat Ois. d'Eur, p. 10 
 (1876); Tacz/Bull. Soc. Zool. Fr. 1877, p. 152; Schleg. Yog. 
 Nederl i. p. 39, pl. v. figs 8-10 (1878) ; Elw. Ibis, 1880, p. 395; 
 Madar. Syst Aufz. Yog. Ungarns, p. 23 (1881); Seek Ibis, 1882, 
-p. 209; Marsch. $ Pelz. Om. Yindob. p. 91 (1882); Carls, 
+p. 209; Marsch. $ Pelz. Orn. Yindob. p. 91 (1882); Carls, 
 Kongl. Yet-Akad. Fdrhandl. 1SS2, i. p. 31; Bolau,J.f. 0.18823 
 p. 337; Martor. Ucc. Sard. p. 23 (1884); Russoio, Arch. Naturk 
 Liv-Esth. u. Kurl ix. p. 116 (1884); Radde, Orn. Cam. p. 309 
@@ -18251,17 +18251,17 @@ Salvin-Godman Coll.
 Typical. 
 Picus villosus, Linn. Syst. Xat. i. p. 175 (1700); Gin. Syst. Xat. i. 
 
-p. 435 (1788); Lath. hid. Om. i. p. 232 (1700): Barton, Xat. Hist 
+p. 435 (1788); Lath. hid. Orn. i. p. 232 (1700): Barton, Xat. Hist 
 Venn, p. 11 (179!)) ; Vieill. Ois. Am. Sept. ii. p. €4, pi. cxx. d 
-(1807); Wils. Amer. Om. i. p. 150, pi. ix. iig. 3, <? (1808); 
+(1807); Wils. Amer. Orn. i. p. 150, pi. ix. iig. 3, <? (1808); 
 StepJi. Gen. Zool. ix. p. 171 (1815): X7e*7/. X 2>/W. J Hist. Xat. 
 xxvi. p. 71 (ltel*); Vieill 4* JJora. Enc. Meth. iii. p. 1305 (1823); 
 J5/). >Styw. B. U.S. p. 40, no. 42 (182(1); Valeae. Diet. Sc. Xat. xl. 
-p. 180 (1828); Less. Traite, i. p. 228 (1831); Xtiff. Man. Om. i. 
-p. 575 (1832); Jard. eel. TVils. Amer. Om. i. p. loo, pi. ix. hV. 3, 
+p. 180 (1828); Less. Traite, i. p. 228 (1831); Xtiff. Man. Orn. i. 
+p. 575 (1832); Jard. eel. TVils. Amer. Orn. i. p. loo, pi. ix. hV. 3, 
 <$ ad. (1832); i?/>. Co???/;. List, p. 30 (Ls>); Br ah. Bost. Journ. 
 Xat. Mist. 1841, p. 174; Bp. Consp. Gen. Ar. I p. 137 (1850): 
-And. Om. Biogr. Y. p. 104, pL ccccxvi. fLrs. 1, 2 (Is59); id. Syn. 
+And. Orn. Biogr. Y. p. 104, pL ccccxvi. fLrs. 1, 2 (Is59); id. Syn. 
 
 p. 179 (1839) ; id. B. Amer. Iv. p. 244/pi. eclxli. £ ® (1842); 
 Qiraud, B. Long Isl. p. 174 (1844); BeKay, Xat Hist. X. York, 
@@ -18287,7 +18287,7 @@ p. 282, pi. lxxxiii. fig. 1 (1887) ; Warren, B. Penn. p. 124 (1888).
 Picus martini, Bp. Comp. List, p. 39, no. 268 (1838); Malh. Bicidm, 
 I p. 82, pi. xxii. figs. 1,2, juv. (1801). 
 Picus 
-martinge, Aud. Om. Biogr. v. p. 181, pi. cccexvii. fijjs. 1,2 
+martinge, Aud. Orn. Biogr. v. p. 181, pi. cccexvii. fijjs. 1,2 
 (1839); id. Syn. p. 178 (1839); id. B. Amer. iv. p. 240, pi. eclx. 
 
 15 . JDENDROCOPTJS. 
@@ -18295,7 +18295,7 @@ figs. 1 tf, 2 ? (1842) ; Gray, Gen. B. ii. p. 435 (1845); Bp. Consp.
 Gen. Av. i. p. 138 (1850); Beichenb. Scans. Picmce, p. 364, no. 840, 
 
 pi. dcxxxii. figs. 4200-7, juv. (1854). 
-Picus rubricapillus, Nutt Man. Om. i. p. 685 (1840), 
+Picus rubricapillus, Nutt Man. Orn. i. p. 685 (1840), 
 Trichopicus villosus, Bp. Consp. Vohicr. Zygod. p. 8, no. 38 (1854). 
 Trichopicus martinae, Bp. Consp. Vohicr. Zygod. p. 8, no. 44 (1854). 
 Picus villosus, var. medius, Baird, B. N Amer. p. 84 (1858) ; Sundev. 
@@ -18310,17 +18310,17 @@ Picus villosus, Forst. Phil Trans, (abr. ed.), lxii. p. 333 (1772);
 Gray, List Pieid. Brit. Mus. p. 45 (1808), pt.j id. Hand-l B. ii. 
 
 p. 184, no. 8592 (1870), pt.; Cory, Nat. Maqd. Isl p. 51 (1878); 
-Merriam, Bull. Nutt. Om. Club, 1882, p. 230; Steams, Broc. U.S. 
+Merriam, Bull. Nutt. Orn. Club, 1882, p. 230; Steams, Broc. U.S. 
 Nat. Mus. 1883, p. 118; Scott, Auk, 1884, p. 161. 
 Picus leucomelas, Bodd. Tabl PL Fnl. p. 21, no. 345. 1 (1783) ; 
 Cass. Proc. Philad. Acad. 1863, p. 199; Gray, List Pieid. Brit. 
 Mus. p. 46 (1868); id. Hand-l. B. ii. p. 185, no. 8599 (1870). 
 
-Picus canadensis, Gm. Syst. Nat. i. p. 437 (1788) ; Lath. Lnd. Om. i. 
+Picus canadensis, Gm. Syst. Nat. i. p. 437 (1788) ; Lath. Lnd. Orn. i. 
 
 p. 230 (1790) ; Steph. Gen. Zool ix. p. 173 (1815); Tieill N. Bid. 
 d'Hist Nat.xxxi.-p. 92 (1818) ; id. $ Bonn. Enc. MM. iii. p. 1318 
-(182;5); And. Om. Bioqr. v. p. 188, pi. ccccxvii. (1839) ; id. Sijn. B. 
+(182;5); And. Orn. Bioqr. v. p. 188, pi. ccccxvii. (1839) ; id. Sijn. B. 
 N.Amer. p. 177 (1839); id. B. Amer. iv. p. 235, pi. cclviii. S (1842) ; 
 Bp. Consp. Gen. Av. i. p. 137 (1850); Beichenb. Scans. PicincB, 
 p. 373, no. 862, pi. dcxxxviii. figs. 4250-51, <J 6 (1854); Malk 
@@ -18330,8 +18330,8 @@ pp. xxvi (introd.) & 305, figs. 1-4 (1831); Ball $ Bami. Trans.
 Chic. Acad. 1869, p. 274. 
 
 Picus 
-phillipsi, Aud. Om. Bioqr. v. p. 186, pi. ccccxvii. figs. 5, 6 
-(1839); id. Syn. B. N Amer. p. 177 (1839); Nutt. Man. Om. i. 
+phillipsi, Aud. Orn. Bioqr. v. p. 186, pi. ccccxvii. figs. 5, 6 
+(1839); id. Syn. B. N Amer. p. 177 (1839); Nutt. Man. Orn. i. 
 
 p. 086 (1840); Aud. B. Amer. iv. p. 238, pi. cchx., juv. (1842); 
 Gray, Gen. B. ii. p. 435 (1845); Bp. Consp. Gen. Av. i. p. 138 
@@ -18339,7 +18339,7 @@ Gray, Gen. B. ii. p. 435 (1845); Bp. Consp. Gen. Av. i. p. 138
 figs. 4204-5, juv. (1854); Malh. Picidm, i. p. 84, pi. xxi. fig. 5, juv. 
 (1861) ; Gray, List Pieid. Brit Mus. p. 46 (1868); id. Hand-l B. 
 ii. p. 185, no.'8601 (1870). 
-Picus septentrionalis, Nutt. Man. Om. i. p. 684 (1840). 
+Picus septentrionalis, Nutt. Man. Orn. i. p. 684 (1840). 
 
 Trichopicus philipsi, Bp. Consp. Volucr. Zygod. p. 8, no. 43 (1854). 
 Picus villosus, var. major, Baird, B. N. Amer. p. 84 (1858) ; Sundev. 
@@ -19008,21 +19008,21 @@ d £gd. (1731).
 15. BWDEOCOPTTS. 
 239 
 
-Le petit Pic vane* de Virginie, Brian. Om. h\ p. 50 f 17(30). 
+Le petit Pic vane* de Virginie, Brian. Orn. h\ p. 50 f 17(30). 
 Picus pubescens, Linn. Syst. Nat. i. p. 175 (1706) j Gm. Syst. Nat. 
 
-i. p. 435 (1788); Lath. Ind. Om. i. p. 232 (3790); Bart. Nat. 
+i. p. 435 (1788); Lath. Ind. Orn. i. p. 232 (3790); Bart. Nat. 
 Hist. Pern. p. 11 (1799); Vieill. Ois. Amer. Sept. ii. p. 65, 
-pi. cxxi., <$ (1807); Wils. Amer. Om. i. p. 153, pi. ix. fig. 4,dad. 
+pi. cxxi., <$ (1807); Wils. Amer. Orn. i. p. 153, pi. ix. fig. 4,dad. 
 (1808); Steph. Gen. Zool. ix. p. 170 (1815); Vieill. N. Diet. 
 tfHist. Nat. xxvi. p. 82 (1818); id. # Bonn. JEnc. MSth. iii. 
 
 p. 1311 (1823); Wagl. Syst. Av. Picus, sp. 23 (1827); Bp. Syn. 
 Bds. U.S. p. 46, no. 43 (1828); Less. Traitd, i. p. 228 (1831); 
-Jard. ed. Wilson's Amer. Om. i. p. 158, pi. ix. fig-. 4, <5 (1832); 
-Nutt. Man. Om. i. p. 576 (1832); Aud. Om. Biogr. ii. p. 81 
+Jard. ed. Wilson's Amer. Orn. i. p. 158, pi. ix. fig-. 4, <5 (1832); 
+Nutt. Man. Orn. i. p. 576 (1832); Aud. Om. Biogr. ii. p. 81 
 pi. cxii. tf 2 (1834); Bp. Comp. List B. Mir. $ N Amer. p. 39, 
-no. 256 (1838); Aud. Om. Biogr. j . p. 539 (1839) ; id, Syn. p. 180 
+no. 256 (1838); Aud. Orn. Biogr. j . p. 539 (1839) ; id, Syn. p. 180 
 (1839); id. B. Amer. iv. p. 249, pi. eclxiii., rf 2 (1839); Peab. 
 Bast. Joum. Nat. Mist. 1841, p. 174; De Kay, Nat. Hist. N. York, 
 pt. 2, p. 187, pi. xvi. fig. 35, tf (1844); Gray, Gen. B. ii. p. 435 
@@ -19045,7 +19045,7 @@ Lye. Nat. Hist. N. York, 1875, p. 144; Cory, Nat. Magd. Isl.
 p.' 51 (1878); Beld. Proc. V. S. Nat. Mus. 1878, p. 428 *;' Mayn. 
 Bds. E. N. Amer. p. 242 (1879); Pidgin. Proc. U. S. Nat. Mus. 
 1880, p. 188, no. 361; Coues, Chech-list N. Amer. B. 1882, p. 77, 
-no. 440 ; Merriam, Bull. Nutt. Om. Club, 1882, p. 286; Steams, 
+no. 440 ; Merriam, Bull. Nutt. Orn. Club, 1882, p. 286; Steams, 
 Proc. TJ. S. Nat. Mus. 1883, p. 118; Hartl. J.f. 0. 1883, p. 275; 
 Coues, Key N. Amer. B, 2nd ed. 1884, p. 483, fig. 334; Agersb. 
 Auk, 1885, p. 283. 
@@ -19056,7 +19056,7 @@ Picus (Dendrocopus) medianus, Swains. Faun. Bor.-Amer. ii. p. 308
 Picus (Dendrocopus) meridionalis, Stvains. Faun. Bor.-Amer. ii. 
 
 p. 308 (1831). 
-Picus medianus, Nutt. Man. Om. ii. p. 601 (1834); Gray, Gen. B. 
+Picus medianus, Nutt. Man. Orn. ii. p. 601 (1834); Gray, Gen. B. 
 ii. p. 435 (1845) ; Bp. Consp. Gen. Av. i. p. 138 (1850); Peichenb. 
 Scans. Picince, p. 375. no, 866 (1854); Malh. Picidm, i. p. 122 
 (1861) ; Gray, Hand4. B. ii. p. 184, no. 8594 (1870). 
@@ -19422,7 +19422,7 @@ Consp. Av. Picin. p. 19 (1866); Baird, Ibis, 1867, p. 270; Gray,
 List Picid. Brit Mus. p. 49 (18C8); id. Kand-l. B. ii. p. 185, no. 
 8607 (1870); Coop. B. Calif, ed. Baird, p. 378, head of tf %d. 
 (1870) j J?., B., $ P. Hist. X. Amer. B. ii. p. 521, pi. 1. figs. 3 <$ ad., 
-6 2 ad. 11874) ; Itidgw. Om. 40th Par, p. 547 (1877); Held. Proc. 
+6 2 ad. 11874) ; Itidgw. Orn. 40th Par, p. 547 (1877); Held. Proc. 
 
 U.S. Nat. Mm. 1878, p. 428; Cop. op. cit. 1879, p. 250; Bidgw. 
 op, dt. 1880, p. 189, no. 364. 
@@ -20386,7 +20386,7 @@ March 26th.
 Subsp. /3. Dendroeopus quadrifasciaius. 
 
 Picus minor (non Linn.), Bogd. B. Caue. p. 123 (1879). 
-Picus minor, var. quadrifasciatus, Badde, Om. Cam. p. 315, pi. xix. 
+Picus minor, var. quadrifasciatus, Badde, Orn. Cam. p. 315, pi. xix. 
 £g. 5, <J (1884). 
 
 Adult male. According to Eadde the small Spotted Woodpecker 
@@ -20639,7 +20639,7 @@ i?j9. Cons/?. 0<w. A . i. p. IBB, juv. (IkoO); &te*. P. Z. S. 1856,
 
 p. 808; Sundev. Comp. Ac. Picin. p. 21 (IfcUO); Gray, List Pirid. 
 Brit. Mm. p. 49 (1808); id. Haad-L B. ii. p. 1-6, no.*8011 (1870); 
-Pelz. Om. Bras. pp. 245, 443 (1870). 
+Pelz. Orn. Bras. pp. 245, 443 (1870). 
 Dyctiopicus wagleri, Pp. Co/isp, Valuer. ZyyotL p. 8, no. 33 (1854). 
 Bendrobateb maculatus, Burm. Tk. Bras. ii. p. 224 (1850). 
 Picus waslerii, Malh. Piricfa, i. p. 112. pi. xxix. tier5, l-o, d1 ad., 
@@ -22056,14 +22056,14 @@ I. $ imm. sk. llio Grande, New Mexico, Sept.
 
 3. Picoides americanus. 
 Picus tridactylus (pt.), Gm. Syst Nat i. p. 439 (1788); Lath. Lid. 
-Om. i. p. 243 (1790); Nutt. Man. Om. 1832, p. 578; Peab. Post 
+Om. i. p. 243 (1790); Nutt. Man. Orn. 1832, p. 578; Peab. Post 
 Journ. Nat. Hist 1841, p. 175. 
 
 Picus tridactylus (non Linn.), JBp. Syn. B. U. 8. p. 40, no. 46 (1826). 
 Picoides variegatus (pt.), Valenc. Diet So. Nat. xl. p. 191 (1820). 
 Picus hirsutus (non Steph.), Wagltr, Syst. Av. Picus, sp. 132 (1827); 
 
-And. B. Amer. iv. p. 208, pi. 209, £ $ ad. (1839); id, Om. Biogr. 
+And. B. Amer. iv. p. 208, pi. 209, £ $ ad. (1839); id, Orn. Biogr. 
 
 v. p. 184, pi. cceexvii. figs. 3-4, <$ £ ad. (1839) ; IJe Kay, JS at Hist 
 N. York, pt. 2, p. 19], pt. x\ii. (1814); Putnam, Proc. Bsse.c List 
@@ -22075,7 +22075,7 @@ Picidte, i. p. 170, pi. xxxix. figs.'l tf, 2 $ (1801); Sclat Cat Amer.
 B. p. 335, no. 1998 (1802); Gray, List Picid. Brit. Mus. p. 30 
 (1808)5 id. Iland-l B. ii. p. 181, no. 8537 (1870); Coues, Key 
 N. Amer. B. p. 194 (1872) j id. B. N.-West, p. 284 (1874); Merriam, 
-Bull. Nutt. Om. Club, 1879, p. 0; Coues, Check-list N 
+Bull. Nutt. Orn. Club, 1879, p. 0; Coues, Check-list N 
 Amer. B. 2nd ed. p. 78 (1882); id. Key N. Amer. B. 2nd ed. 
 1884, p. 485; Turner, Proc. TJ. 8, Nat. Mus. 1885, p. 242 ; A. O. U. 
 Check-list N. Amer. B. p. 214, no. 401 (1880) j Ridyw. Man. N. 
@@ -22274,7 +22274,7 @@ no. m, pi. dcxxx. flgl 4180-91, d 6 ? ad. (1854) ; Aewb. P. 22. JJ.
 
 iiVw. vi. p. 91 (1857). „,., , n ••• , (OQ 
 
-pi. xh. Jiff. 2, ij (1KB): ^IKA Om. Biogr. u. p. 19/ (18-^v. 
+pi. xh. Jiff. 2, ij (1KB): ^IKA Orn. Biogr. u. p. 19/ (18-^v. 
 
 p. 638, pi. cxxxii. h>. 1, 2, d $ (1839) ; .V««. J/««. Or». i. p. o,b 
 Picus arcticus, G%. JT««f?6. Naturgesch. Vog. Eur. p. 4<-2 note 
@@ -22289,10 +22289,10 @@ IM**. 1874, pp. 13/88; Coues, B. N.- Wed, p. 284 (1&74) ; £., B., $
 
 R. Hist. N. Amer. B. ii. p. 530, pi. 1. fig. 1, 6 ad. (1874) ; llidyw. 
 U. S. Geol. ExpL AQth Bar. pt. iii. Birds, p. 548 (1877); Beld. 
-Proc. U. S. Nat. Mm. 1878, p. 429 ; Merr. Bull Nutt. Om. Club, 
+Proc. U. S. Nat. Mm. 1878, p. 429 ; Merr. Bull Nutt. Orn. Club, 
 1879, p. 6; Roberts, t.c. p. 154; Mearns, t c. p. 175; Mayn. Bds. 
 JE. K Amer. p. 245 (1879); Ridgw. Proc. U. S. Nat. Mm. 1880, 
-o. 189; Merr. Bull Nutt. Om. Club, 1882, p. 230; Coues, Cheek-Eist N. Amer. B. 2nd ed. p. 78 (1882) ; Stearns, Proe. U. S. Nat. 
+o. 189; Merr. Bull Nutt. Orn. Club, 1882, p. 230; Coues, Cheek-Eist N. Amer. B. 2nd ed. p. 78 (1882) ; Stearns, Proe. U. S. Nat. 
 Mii6.1883, p. 118 ; Coues, Key N. Amer. B. 2nd ed. 1884, p. 485 ; 
 Turner, Proc. U. S. Nat Mus. 1885, p. 242; A. O. U. Cheek-list 
 N. Amer. B. p. 213, no. 400 (1886) ; Ridgio. Man. K Amen B. 
@@ -22447,7 +22447,7 @@ Xenocraugus albolarvatus, Cab. # Heine, Mus. Hein.iv. p. 74 (1868).
 Picus albolarvatus, Sunder. Consp. Av. Piein. p. 29 (1866); Coop. B. 
 Calif, ed. Baird, i. p. SS2 (1870); Ridgw. Proc. Essex Inst. 1875, 
 
-p. 38; Pidgw. U. 8. Geol. Expl. iOth Par. pt. iii. Om. pp. 888, 
+p. 38; Pidgw. U. 8. Geol. Expl. iOth Par. pt. iii. Orn. pp. 888, 
 547 (1877); Beld. Proc. U. 8. Nat Mus. 1878, pp. 898; 428. 
 Adult male. Forehead and crown smoky white \ a bright scarlet 
 occipital band ; nasal plumes, lores, side of the face, chin, and 
@@ -22599,10 +22599,10 @@ Naturg. Deutschl. ii. p. 1029 (1805); Temm. Cat. Syst p. 65
 287 
 
 (1807) ; Meyer Sf Wolf, Tasclienb. i. p. 122 (1810); Meisn. $ 
-Schmz, Tog. Schweiz, p. 41 (1815); Miss. Om. Suec. i. p. 110 
+Schmz, Tog. Schweiz, p. 41 (1815); Miss. Orn. Suec. i. p. 110 
 (1817) ; Temm. Man. cVOm. i. p. 398 (1820); Brehm, Naturgeseh. 
 Eur. Tog. i. p, 140 (1823) ; Bonn. § Vieill Em. Meth. iii. p. 130:) 
-(1823); lloux, Om. Prov. i. p. 08, pi. lxi. (1825); Naum. Fog. 
+(1823); lloux, Orn. Prov. i. p. 08, pi. lxi. (1825); Naum. Fog. 
 Deutschl. v. p. 320, pi. cxxxvi. ligs. 1, 2 (1820) ; Vaknc. Diet. Sc. 
 
 Giog. Handb. Naturgeseh. Yog. Eur. p. 459 (1834); Bp. Comp. List 
@@ -22614,24 +22614,24 @@ Bp. Vonsp. Gen. Av. i. p. 134 (1850) ; Meichenb. Scans. Picince,
 p. 3(38, no. 848, pi. elexxxiv. %. 422 (1854); Licht. Nomencl. 
 Av. p, 75 (1854); Brehm, Togelf. p. 70 (1855); Sunder. Sv. Fogl. 
 p. 140, pi. xxiii. fig. 3 (1856); Ton Wright, Finl. Fogl. 1850, 
-p. 274; Jaub. § Barth.-Lapomm. Mich. Om. p. 330 (1859); Malh. 
+p. 274; Jaub. § Barth.-Lapomm. Mich. Orn. p. 330 (1859); Malh. 
 Picidce, i. p. 93, pL xx. figs. 0,7 (1861); Bree, B. Eur. iii. p. 140, 
 pi. tf (1802) ; Sperl Ibis, 1804, p. 218; Prev. $ Bern. Hist. Nat. 
 Ois. d'Ear. p. 109 (1864); Sundev. Consp. Av. Picin. p. 30 (I860); 
-Degl. ty Gerbe, Om. Eur. i. p. 152 (18G7); Gray, List Picid. Brit. 
+Degl. ty Gerbe, Orn. Eur. i. p. 152 (18G7); Gray, List Picid. Brit. 
 Mus.y. 35 (1868); Smith, Ibis, 1868, p. 448; Borggr. Togelf. 
 Norddeutschl. p. 68 (1869) ; Gray, Hand-l B. ii. p. 182, no. 8555 
 (1870); Elw. 8? Buckl. Ibis, 1870, p. 188; Samul op. cit 1871, 
 p. 06 ; Salvad. Faun. Italy JJcc. p. 37 (1871); Dress. B. Eur. v. 
-p. 47, pi. eclxxxi. (1871); Perini, Man. Om. Teron. p. 404 (1874) j 
+p. 47, pi. eclxxxi. (1871); Perini, Man. Orn. Teron. p. 404 (1874) j 
 Danf. 8fHarv.-Br.Ibis, lb75, p. 299 ; DHamonv. Cat. Ois. d'Eur, 
 p. 10 (1876); Saund. Bull. Soc. Zool. Fr. 1876, p. 324; Tacz. 
 Bull. Soc. Zool. Fr. 1877, p. 152; Schley. Tog. Nederl p. 40, p]. v. 
 fig. 11 (1878); Elw. Ibis, 1880, p. 395; Gigl. op. cit. 1881, p. 190; 
 Madar. Syst. Aufz. Tog. Ungarns, p. 23 (1881); Carls. Kongl. 
-Tet.-Akad. Forhandl 1882, no. 1, p. 30; Marsch. # Pelz. Om. 
-Tindob. p. 92 (1882); Padde, Om. Cauc. p. 313, pi. xix. %. 4 
-(1884); Gigl Avif. Ital p. 203 (1880); Lore?iz, Om. Faun. 
+Tet.-Akad. Forhandl 1882, no. 1, p. 30; Marsch. # Pelz. Orn. 
+Tindob. p. 92 (1882); Padde, Orn. Cauc. p. 313, pi. xix. %. 4 
+(1884); Gigl Avif. Ital p. 203 (1880); Lore?iz, Orn. Faun. 
 Kaukasus, p. 44 (1887). 
 
 Dendrocopos medius. Koch, Syst. baier. Zool. i. p. 73 (1810). 
@@ -27364,18 +27364,18 @@ a. rf ad. sk. Kemedios, Antioquia, U.S. Colombia Sclater Coll.
 (T.K.Salmon). (Type of species.) 
 12. Dendrobates tephrodops. 
 Le 
-petit Pic de S. Domingue, Briss. Om. iv. p. 75, pi. iv. % 2 
+petit Pic de S. Domingue, Briss. Orn. iv. p. 75, pi. iv. % 2 
 (1760). 
 Picus passerinus, Linn. Syst. Nat. i. p. 174 (1700) ; Gm. Sy*L Nat. 
 
-i. p. 427 (1788) ; Lath, Ind. Om. i. p. 238 (1790); Vieill. Oh. 
+i. p. 427 (1788) ; Lath, Ind. Orn. i. p. 238 (1790); Vieill. Oh. 
 Amh\ Sept ii. p. 61, pi. cxv., tf (lfc07) ; Steph. Gen. Zool. ix. p. L'OO 
 (1815) ; Vieill N. Bid. a? Hist. Nat. xxvi. p. 87 (lbl8); id. ,y 
 Bonn. Enc. MMh. iii. p. 1315 (1823) ; WagL Syst Av. Picus, 
 sp. 60, ad. (non juv.) (1827). 
 Le petit Pic ray6 du Senegal, Buffi. Mist. Nat. Ois. yiL p. 25 (17fc0). 
 Petit Pic du Seiie^al, Daubent Pi. Enl 345. %. 2. 
-Picus senegalensis, Gm. Syst. Nat i. p. 430 (1788); Lath. Ind. Om. 
+Picus senegalensis, Gm. Syst. Nat i. p. 430 (1788); Lath. Ind. Orn. 
 
 
 i. p. 237 (1790); Steph. Gen. Zool. ix. p. 198(1815); VieilL X 
@@ -27792,7 +27792,7 @@ Mesopicus spilogaster, Malh. PitidtB, ii. p. (S'2 {1802} (er Wagl)*
 Meaopicus adspersus, Malh. Picidce, ii. p. 64, pi. Ix. %>» 7, 8 (I8t*2). 
 Ohloronerpes adspersus, &?&£. Cat. Amer. B. p. 337, no. 2014 (l«i>2). 
 Oampias spilogaster, Cab. <§* Heme, Mus. Hein. iv. p. 158 (L8t&); 
-J?«?&. Om. Bras. p. 247 (1870) ; Berk J J O.1873, p. 28l. 
+J?«?&. Orn. Bras. p. 247 (1870) ; Berk J J O.1873, p. 28l. 
 -4<£wZi wifirZe. Back, rump, scapulars, wing-coverts, outer webs of 
 primaries at the base, and almost entire outer webs of secondaries 
 olive, the upper parts barred and spotted with yellow and having 
@@ -27899,7 +27899,7 @@ Mesopicus affinis (non Swains.), Malh. Picidce, ii. p. 50, pi. lxi,
 
 Campias maculifrons, Cab. fy Heine, Mus. Hein. iv. p. 148 (1863 ; 
 
-Pelz. Om. Bras. p. 245 (1870). 
+Pelz. Orn. Bras. p. 245 (1870). 
 
 Picus albipes, Simdev. Consp. Av. Piein. p. 37 (1866). 
 
@@ -28577,7 +28577,7 @@ Dendrobates immaculatus,
 Stvains. B. W. Afr. ii p 152 (1837) * 
 Gray, Gen. B. ii. p. 437 (1846) ; Bp. Consp. Gm. Av. i p. 125 
 (1850); Sharpefy Bouvier, Bull. Soc. Zool France, 1876, p. 16* 
-Socage, Om. Ang. 1877, p. 74. ' ? F ' 
+Socage, Orn. Ang. 1877, p. 74. ' ? F ' 
 
 24 . MESOPICUS. 
 369 
@@ -28795,7 +28795,7 @@ Picus griseocephalus, Bodd. Tall. PI JEnl p. 49 (1783).
 Picus menstruus, Scop. Bel Fl et Faun. Lnsubr. n. p. 89, no. 50 
 
 (1786) ; Sundev. Consp. Av. Picin. p. 45, no. 132 (1866). 
-Picus capensis, Gm. Syst. Nat. i. p. 430 (1788) ; Lath. Ind. Om, i. 
+Picus capensis, Gm. Syst. Nat. i. p. 430 (1788) ; Lath. Ind. Orn. i. 
 2B2 
 
 372 PlOIDiE. 
@@ -29203,7 +29203,7 @@ p. 352.
 Chloronerpes percussus, Bp. Consp. Gen. Av. i. p. 118 (1850) ; Meichenb. 
 Scans. Picina, p. 407, no. 957, pi. dclxii.figs. 4398-99, £ $ (1854); 
 Gray, List Picid. Brit. Mus. p. 107 (1868); id. Hand-l B. ii. p. 199, 
-no. 8786 (1870) ; Gundl Contr. Om. Cuba, pp. 115, 273 (1876). 
+no. 8786 (1870) ; Gundl Contr. Orn. Cuba, pp. 115, 273 (1876). 
 
 XipHdiopicus percussus, Bp. Consp. Valuer. Zyqod. p. 11, no. 213 
 (1854) ; Sol. Cat. Amer. B. p. 339, no. 2028 (1862); id. § Salv. 
@@ -31457,7 +31457,7 @@ lie Pic vercl de Bengal, Briss. Orn. iv. p. 14, $ (1760); Daubent. PL
 Enl. 605, §. 
 
 Picus aurantius, Linn. Synt. Nat. i. p. 174, <$ (1766) ; Can. Si/M. Nat. 
-I p. 4-30 (1788); Lath. Lid. Om. i. p. 237 (1700); Sfeph. Gen. 
+I p. 4-30 (1788); Lath. Lid. Orn. i. p. 237 (1700); Sfeph. Gen. 
 Zool.ix.y. 195, 3 (1815); Bonn. $ VieilL Etic. Mith. iii. p. 1305, 
 
 .tf(1823). 
@@ -32308,7 +32308,7 @@ CHoropicoides rubropygialis, Malh. Picidm, ii. p. 100, pi. lxx. fig-. 5,
 
 jLIT. (1862). *"° ' ' * ' 
 Chrysonotus jayanensis, Cfc&. # JETe^e, i^wa. Hew. iv. p. 172 (1863); 
-Mutt. Om. Ins. Salanga, p. 64 (1882). 
+Mutt. Orn. Ins. Salanga, p. 64 (1882). 
 Chiysonotus erythropygius, Cab. & Heine, Mus. Hein. iv. p. 173 
 Picus jayanensis, var. B, Swidev. Consp. Av. Pkm. p. 83 (1866). 
 Pieus jayanensis, var. C, Sundev. Consp. Av. Pici?i. p. 83 (1866). 
@@ -34189,7 +34189,7 @@ Celeus tinnunculus, Boie, Isisf 1831. p. 542; Bp. Consp. Gen. Av. I
 p. 130 (1850) j Reichenb. Scans. Picuus, p. 405, no. 948, pi. dclx. 
 fig. 4373, $ (1854) ; Burm. Th. Bras. ii. p. 232 (1850); Gray, 
 List Bicid. Brit. Mus. p. 89 (1868)* id. Hand-t. B. ii. p. 194, 
-no. 8721 (1870); Belz. Om. Bras. p. 250 (1870); Sclat. $ Salv. 
+no. 8721 (1870); Belz. Orn. Bras. p. 250 (1870); Sclat. $ Salv. 
 NomencL Av, Neotr. p. 101 (1873). 
 Celeopicos tinnunculus, Malh. N. Classify Mem. Acad. Metz, 184849, 
 p. 334. 
@@ -34227,7 +34227,7 @@ e, <J ad. sk. Bahia (Dr. Wucherer). Sclater Coll.
 35. CEocoiroRPHtrs. 
 3. Cerelmeipiciis occidentalis. (Plate XL) 
 Celeus tinnunculus (non TFagl), Sclat Cat, Amer. B. p. 336, no. 2008 
-(1862); id. $ Salv. P. Z. S. 1866, p. 196,1873. p. 291 ; Tacz. Om. 
+(1862); id. $ Salv. P. Z. S. 1866, p. 196,1873. p. 291 ; Tacz. Orn. 
 P4rouK iii. p. 96 (1886). 
 
 Cerchneipieus occidentalis, Hargitt, Ibis, 1889, p. 230. 
@@ -36213,9 +36213,9 @@ The Largest White-billed Woodpecker, Catesb. Nat. Hist. Carol i.
 p. 16, d ad. (1731-43). 
 Picus principalis, Linn. Syst. Nat i. p. 173 (1766) ; Bodd. Tabl PI. 
 JSnl p. 43, no. (300 (1783) ; Gm. Syst. Nat. i. p. 425 (1788); Lath. 
-Ind. Om. i. p. 225 (1700) ; Vieill. 'Ois. Amir. Sept. ii. p. 56,pi. cix. 
+Ind. Orn. i. p. 225 (1700) ; Vieill. 'Ois. Amir. Sept. ii. p. 56,pi. cix. 
 
-<$ (1807) ; Wits. Amer. Om. iv. p. 20, pi. xxix. fig. 1, tf ad. 
+<$ (1807) ; Wits. Amer. Orn. iv. p. 20, pi. xxix. fig. 1, tf ad. 
 (1811); Steph. Gen. Zool. ix. p. 150, pi. xxx. $ ad. (1815); Vieill 
 
 N. Diet, a Hist. Nat. xxvi. p. 76 (1818); id. 8f Bonn. Ene. Mtth. 
@@ -36338,7 +36338,7 @@ Hob. Cuba.
 
 3. CampopMlus imperialis. 
 Picus imperialis, Gould, P. Z. S. 1832, p. 140; Less. CompL Buff.ix. 
-p. 317 (1837); Aud. Om. Biogr. v. p. 313 (1839) j id. Syn. B. N. 
+p. 317 (1837); Aud. Orn. Biogr. v. p. 313 (1839) j id. Syn. B. N. 
 Amer. p. 175 (1839) ; id. B. K Amer. 8vo, iv. p. 213 (1839) j 
 Sundev. Consp. Av. Picin. p. 4 (1866). 
 Campenhilus imperialis, 
@@ -36996,7 +36996,7 @@ Campephilus sclateri, Sclat. Cat Amer. B. p. 331, no. 1976 (1802);
 Gray, List Picid. Brit Mus. p. 54 (1808); id. JSand-L B. ii. p. 187, 
 no. 8626 (1870) ; Sclat. $ Salv. Nomencl Av. Neotr. p. 98 (1873) ; 
 Berk $ Tacz. P. Z. S. 1883, p. 570, 1884, p. 307, 1885, p. 122; 
-Tacz. Om. Pirou, iii. p. 72 (1886). 
+Tacz. Orn. Pirou, iii. p. 72 (1886). 
 
 Scapaneus sclateri, Cab.fyHeine^ Mus. Hew. iv. p. 92 (1863). 
 Picus sclateri, Sundev. Consp. Av. Picin. p. 5 (18(30). 
@@ -39108,7 +39108,7 @@ Hemilophus javensis (pi), Gray, List Picid. Brit. Mus. p. 85
 
 (1868). 
 
-Picus leucogaster (pt.), Giebel, Thes. Om. iii. p. 162 (1876). 
+Picus leucogaster (pt.), Giebel, Thes. Orn. iii. p. 162 (1876). 
 
 Thriponax crawfurdi, Hume, JStr. K 18797 pp. 87 and 409, 410 
 
@@ -39234,7 +39234,7 @@ Beichenb. Scans. Picincs, p. 386, no. 895, pi. dcxlv. fig. 4308; c?
 
 ? Picus leucogaster, Blyth, J A. S. B. 1842, p. 464. 
 
-Picus hodg&onii, Jerd. III. Ind. Om. pi. v. d (1847); Sandev. Consp. 
+Picus hodg&onii, Jerd. III. Ind. Orn. pi. v. d (1847); Sandev. Consp. 
 
 Av. Picin. p. 9 (1866). 
 
@@ -40115,18 +40115,18 @@ with less white on the bases of the quills .. selmlzi, p. 517.
 1. Dryotonrus pileatus. 
 The larger red-crested Woodpecker, Catesby, Nat. Hist. Carol, i. 
 p. 17, pi. 17 (1731). 
-Le Pic noirhupe de Virginie, Briss. Om. iv. p. 29 (17G0). 
+Le Pic noirhupe de Virginie, Briss. Orn. iv. p. 29 (17G0). 
 Picus pileatus, Linn. Syst. Nat. i. p. 173 (1766) ; Gm. Si/st. Nat. i. 
-p. 425 (1788) ; Lath. Ind. Om. i. p. 225 (1790); Vieill. Ois. 
-Amer. Sept. ii. p. 58, pi. ex. (1807) ; Wils. Amer. Om. iv. p. 27, 
+p. 425 (1788) ; Lath. Ind. Orn. i. p. 225 (1790); Vieill. Ois. 
+Amer. Sept. ii. p. 58, pi. ex. (1807) ; Wils. Amer. Orn. iv. p. 27, 
 pi. xxix. fig. 2, c?ad. (1811); Steph. Gen. Zool. ix. p. 158, pi. xxxii. 
 (1815) ; Vieill. N. Diet. d'Hist. Nat. xxvi. p. 84 (1818); Lath. Gen. 
 Hist. B. iii. p. 370 (1822) ; Bonn. $ Vieill. Bne. Meth iii. p. 1313 
 (1823) ; Valenc. Diet. Sc. Nat. xl. p. 177 (1826) ; Bp. Syn. B. U. 
 S. p. 44, no. 38 (1826); Wagl Syst. Av. Picus, sp. 2 (1827"); Drap. 
 Diet. Class. dLIist. Nat. xiii. p. 500 (1828); Less. Traits, i.p.229 
-(1831) ; Jard. ed. Wils. Amer. Om. ii. p. 19, pi. xxix. fig. 2 (1832); 
-Nnlt. Man. Om. i. p. 507 (1832); And. Om. Biogr. ii. p. 74, 
+(1831) ; Jard. ed. Wils. Amer. Orn. ii. p. 19, pi. xxix. fig. 2 (1832); 
+Nnlt. Man. Orn. i. p. 507 (1832); And. Om. Biogr. ii. p. 74, 
 pi. cxi. figs. Id, 2$ ,3-4 tf juv. (1834), v. p. 533 (1889); id. B. 
 Amer. 8vo, iv. p. 220, pi. "cclvii. c??S ad., S <$ juv. (1839); id. 
 Syn. B. N. Amer. p. 170 (1839) j Feab. Rep. Nat. Mist. Mass., 
@@ -40148,7 +40148,7 @@ Comp. List B. Bur. # N. Amer. p. 39, no. 252 (1838).
 
 Campephilus pileatus, Reichenb. Scans. Picinm, p. 391, no. 900, 
 pi. dcxlvii. figs. 4317-18, 6 ? (1854). 
-Dryopicus pileatus, Bp. Notes Om. Collect. Delattr. p. 85 (1854); 
+Dryopicus pileatus, Bp. Notes Orn. Collect. Delattr. p. 85 (1854); 
 
 Malh. Picidce, i. p. 34, pi. xi. figs. 5 c?, 6 2 > ad. (1801). 
 
@@ -40334,17 +40334,17 @@ figs. 1, 2, d1 ? ad. (1820); Wagl. Si/st. Av. Picus, sp. 6 (1827);
 Temm. Man. cVOm. ii. p. 112 (1828) ; Less, TraitS, i. p. 219 
 (1831); Pall Zoogr. Rosso-Asiat. i. p. 407 (1831); Glog. Handb. 
 Naturgesch. Vog. Bur. p. 457 (1834) ; Gould, B. Bur. iii. pi. 225, 
-d ? ad. (1837); Macgill Br, B, iii. p. 77 <]840) ; Benoit, Om. 
+d ? ad. (1837); Macgill Br, B, iii. p. 77 <]840) ; Benoit, Orn. 
 Sicily 31 (1840); Schinz, Bur. Faun. p. 200 (1840); Keys. $ 
 Bias. Wirb. Bur. pp. xxxiv introd. and 148 (1840); Yarr. Hist. 
-Brit. B. ii. p. 127 (1843); Von der M'dhle, Om. Grieckenl. p. 30 
+Brit. B. ii. p. 127 (1843); Von der M'dhle, Orn. Grieckenl. p. 30 
 (1844) ; Schleg. Rev. Crit. Ois. Bur. p. xlix (184-4); Middend. Reis. 
 Sibir., Zool^. 132 (1851); Sundev. Sv. Fogl. p. 143 (185G) ; llewits. 
 Bggs Brit. B. i. p. 238, pi. lxi. fig. 1 (1856); Mag. v. Wright, 
 Binl. Fogl. p. 208 (1859) ; Linderm. Vog. GriecJienl. p. 42 (1860) ; 
 Prev. fy Lemaire, Ilist. Nat. Ois. d'Bur. p. 106 (1804) ; Sundev. 
 Consp. Av. Pwin, p. 9 (1866); Borggr. Vogelf. Norddeutschl p. 67 
-(1869); Harting, Handb. Br. B. 1872, p. 120; Perhii, Man. Om. 
+(1869); Harting, Handb. Br. B. 1872, p. 120; Perhii, Man. Orn. 
 Veron. pt. 1, p. 393 (1874); Schleg. Vog. Nederl p. 38, pi. v. 
 figs. 1,2, $ $ (1878) ; Finsch, Ver'handl. Jc.-k. zool.-bot. Gesellsch. 
 Wien, 1879, p. 227; Stejn. Bull U. S. Nat. Mus. no. 29, 1885, 
@@ -40365,9 +40365,9 @@ $ (1871); Hume, Str. F. 1873, p. 171; Harv.-Br. Ann. # Mag.
 Nat. Hist. 1877, xx. p. 496; Hume, Str. F. vii. p. 369 (1878); Bogd. 
 B. Cauc. p. 119 (1879); Blahist. c$-Pryerf Trans. As. Soc. jap. 
 1880, p. 208, no. 171; Madardsz, Fog. Ungarns, p. 23 (1881); 
-Marsch. fy Pete. Om. Vindob. 1882, p. 93; Blahist. # Pryer, 
+Marsch. fy Pete. Orn. Vindob. 1882, p. 93; Blahist. # Pryer, 
 Trans. As. Soc. Jap. 1882, p. 135; Blakist. Chrysanth. iii. p. 28 
-(1883) ; A. O. TI. List Brit. B. p. 76 (1883) ; Russoiv, Om. Bsth-
+(1883) ; A. O. TI. List Brit. B. p. 76 (1883) ; Russoiv, Orn. Bsth-
 Liv-u. Kurl in Arch.fiir Naturh. 1884, p. 115; Blahist. Amend. 
 List B. Jap. 1884, p. 28; Gigl Avif. Ital p. 199 (1886); Meves, 
 Bur. Vog. 1886, p. 23 ; Stejn. &*oc. U. S. Nat. Mis. 1886, p. 124. 
@@ -40385,9 +40385,9 @@ Dryopieos martius, Malli. N. Classif, Mem. Acad. Metz, 1848-49,
 p. 322. 
 Dendrocopus alpinus, Brehm, Vollst. Vogelf. p. 67 (1855). 
 Dendrocopus niger, Brehm, Vollst. Vogelf. p. 67 (1855). 
-Dryopicus martius, Jaub. $* Barth.-Lapomm. Rich. Om. p. 329 
+Dryopicus martius, Jaub. $* Barth.-Lapomm. Rich. Orn. p. 329 
 (1859); Malh. Picidce, l p. 32, pi. x. figs. 5-7, tf $ ad. & juv. 
-(1861); Begl $ Gerbe7 Om. Bur. L p. 148 (1867); Tacz. Bull 
+(1861); Begl $ Gerbe7 Orn. Bur. L p. 148 (1867); Tacz. Bull 
 Soc. Zool France, 1876, p. 239; Bavid fy Oust. Ois. Chine, p. 49 
 (1877). 
 
@@ -41194,7 +41194,7 @@ Hab. Forth Brazil (Bio Branco and Bio Cauame).
 a. S ad. sir. Bio Branco, Brazil, May 30 Sclater Coll. 
 (J. Natterer). 
 5. Picummus fasens. 
-Picuamus fuscus, Pelz. Om. Bras. pp. 242, 335, 442 (1870); Gray, 
+Picuamus fuscus, Pelz. Orn. Bras. pp. 242, 335, 442 (1870); Gray, 
 Hand-l. B. ii. p. 180, no. 8527 (1870); Pelz. fy Lorenz. Ann. k.-k. 
 Naturhist. Hofm. Wien, p. 42 (1888). 
 
@@ -41229,7 +41229,7 @@ Gen. Av. i. p. 140 (1850) ; w?. Consp. Voluer. Zygod. p. 11, no. 243
 (1854); Peiahenb. Scans. Picincs, p. 343, no. 780, pi. dcxvi. fig. 
 4110, J , pi. dclxxviii. figs. 4480-82, ^J J (1854); Burm. Th. 
 Bras. ii. p. 246 (1856); Cab. $ Heine, Mus. Hein. iv. p. 21 (1863); 
-Pelz. Om. Bras. pp. 240, 442 (1870); Sdat. 8f Salv. Nomencl. 
+Pelz. Orn. Bras. pp. 240, 442 (1870); Sdat. 8f Salv. Nomencl. 
 Av. Neotr. p. 98 (1873); Berl. fy liter, in Madar. Zeitsch. gesamm. 
 Om. ii. p. 156, pi. ix. fig. 2, $ (1885). 
 Picumnus buffoni (non Lafr.), Malh. Picidm, ii. p. 295, pi. cxvi. 
@@ -43262,7 +43262,7 @@ Borggr. Yogelf. Norddeutschl. p. 66 (1869); Elw. § BucM. Ibis,
 p. 33 (1874) ; Dress. B. Fur. v. p. 103, pi eelxxxix. (1875); Danf. 
 cV Han.-Br. Ibis, 1875, p. 298 ; Dress, op. cit. 1876, p. 320 ; Danf. 
 op. cit. 1878, ]). 6; Bogd. B. Cauc. p. 119 (1879) ; Finsch, Reis. 
-Wcst-Sibir. 1879, p. 116 ; Russoic, Om. Fhst-, Liv-u. Curl, hi 
+Wcst-Sibir. 1879, p. 116 ; Russoic, Orn. Fhst-, Liv-u. Curl, hi 
 Arch, fur Xaturk. ix p. 114(1884); Stejn. Proc. U.S. Nat. Mus. 
 1886, p. 102. 
 
@@ -43285,14 +43285,14 @@ Ibis, 1884, p. 144 ; Seeb. t c. p. 180; Saund. t c. p. 379; Marshall,
 t. c. p. 410; Whitehead, op. cit. 1885, p. 28; Sivinh. §* Barnes, t. c. 
 p. 62; More, List Ir. B. p. 16 (1885); Gigl Avif. Ital p. 207 
 (1886) ; Meres, Fur. Yog. p. 25 (1886) ; Styan, Ibis, 1887, p. 229 ; 
-Tait, t c. p. 304; Hartl. Om. Ostl.-aquat. Geb. Afr. p. 309 
+Tait, t c. p. 304; Hartl. Orn. Ostl.-aquat. Geb. Afr. p. 309 
 (1887); Hume, Str. F. xi. p. 65 (1888); St. John, Ibis, 1889, 
 p. 159. 
 Picus iynx, Pall. Zooyr. Rosso-Asiat. i. p. 416 (1831). 
 Jynx punctata, Brelwi, Yog. Deutschl. p. 203 (1831). 
 Jynx arborea, Brehm, Yog. Deutschl. p. 203 (1831). 
-Iunx torquilla, Cara, Om. Sard. p. 90 (1842) ; Cab. § Heine, Mus. 
-Hein. iv. p. 4 (1863); Heuyl Om. N.O.-Afr. i, p. 799 (1871); 
+Iunx torquilla, Cara, Orn. Sard. p. 90 (1842) ; Cab. § Heine, Mus. 
+Hein. iv. p. 4 (1863); Heuyl Orn. N.O.-Afr. i, p. 799 (1871); 
 Tacz. Bull. Soc. Zool. France, 1876, p. 238. 
 Yunx japonica. Bp. Consp. Gen. Av. i. p. 112 (1850); Gray. List 
 Picid. Brit Mus. p. 127 (1868) ; id. Hand-l. B. ii. p. 204, no.'8849 
@@ -43758,7 +43758,7 @@ lynx pectoralis, Sundev. Consp. Av. Bicin. p. 109 (1866); Gray, List
 
 " Bicid. Brit. Mus. p. 128 (1868) ; id. Hand-l B. ii. p. 204, no. 8850 
 (1870); Sharpe in Oates's Matabele-Land, App. B, p. 300 (1881); 
-id. ed. Layard's B. S. Afr., App. p. 812 (1884); Hartl Om. Ostlciquat. 
+id. ed. Layard's B. S. Afr., App. p. 812 (1884); Hartl Orn. Ostlciquat. 
 Geb.Afr. p. 309 (1887). 
 
 Jynx pectoralis, Ay res, Ibis, 1879, p. 300. 
@@ -43824,7 +43824,7 @@ Shelley Coll.
 
 3. lynx pulchricollis, 
 lynx 
-pulchricoUis, Earth Ibis, 1884, p. 28, pi. iii.: id. Om. Ostl' 
+pulchricoUis, Earth Ibis, 1884, p. 28, pi. iii.: id. Orn. Ostl' 
 Squat. Geb. Afr. 1887, pp. 308, 310. 
 
 Adult male. Kesenibles I. jpectoralis, but differs in having the 

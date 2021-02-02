@@ -1095,7 +1095,7 @@ P. L. S. Miiller, S. N. p. 354 (1773); Gm. 8. N i. p. 610 (1788).
 r» Sterna naevia, P. L. 8. Mutter [nee Linn.], 8. N. p. 353 (1773) ; 
 Gm. 8. N. i. p. 609 (1788). 
 ? Cinereous Tern, Lath. Gen. Syn. iii.pt. 2, p. 363 (1785). 
-? Sterna cinerea, Gm. 8. N. I p. 607 (1788); Lath. Ind. Om. p. 808 
+? Sterna cinerea, Gm. 8. N. I p. 607 (1788); Lath. Ind. Orn. p. 808 
 
 (1790); Vieill. N Diet dUIist. Nat. xxxii. p. 167 (1819) • Gray, 
 Gen. B. iii. p. 659 (1846). 
@@ -1420,7 +1420,7 @@ Gould, B. Eur. v. pi. 424 (1837) ; Naum. Vog. Deutsehl. x. p. 168,
 
 1. EYBE0CHKL1D0N. 
 pi. 255 (1840) j Schina, Europ. Faun. p. 374 (1840); Temrn. Man. 
-d'Orn. 4° pari. p. 463 (1840); Creqpon, Om. Gard, p. 47G (1840); 
+d'Orn. 4° pari. p. 463 (1840); Creqpon, Orn. Gard, p. 47G (1840); 
 Nor dm. in Demid. Voy. Muss. Mend. ii. p. 278 (1840); Crespon, 
 Faime Mtrid. ii. p. 118 (1844: breeding in August); Schleg. M»v. 
 Crit. p. cxxxi (1844); Biipp. Syst. Uebers. p. 139 (1845: "Lower 
@@ -1465,7 +1465,7 @@ B. Egypt, p. 301 (1872); Koldsio. P. Z. S. 1872, p. 480 (Ceylon) ;
 Gould, B. Gt. Br. v. pi. 77 (1873); Walden, Tr. Z. S. ix. p. 244 
 (1877: Luzon); Bamsay, Br. Linn. Soc. N S. W. i. p. 386 
 (1877: Gulf of Carpentaria); A. B. Meyer, Ibis, 1879, p. 140 
-(Togian Is.); Holub $• Von Feb. Beitr. Om. Siidafr. p. 332 
+(Togian Is.); Holub $• Von Feb. Beitr. Orn. Siidafr. p. 332 
 (1882); Bidgway, Man. N. Am. B. p. 47 (1887); Taczan. Ornis, 
 1888, p. 506 (Poland, not breeding) j Cory, Cat. W. Ind. B. p. 83 
 (1892). 
@@ -1481,11 +1481,11 @@ hybrida, By. Cat. Ucc. Eur. p. 77 (1842)j Gray,
 List A?mres in Brit. Mus. p. 180 (1844); id. Gen. B. iii. p. 060 
 (1846); Brehm, Naum. 1855, p. 295; id. Vogelf.^. 351 (1855); 
 Bp. C. B. xiii. p. 773 (1856) ; Gray, Cat. Brit. B. p. 242 (1863); 
-Jaub. ty Barth.-Lapom?n. Bich. Om. p. 398 (1859); Tristram, 
+Jaub. ty Barth.-Lapom?n. Bich. Orn. p. 398 (1859); Tristram, 
 Ibis, 1860, p. 82 (North African lakes); Antin. Cat. descr. Ucc. 
 
 p. 115 (1864: Nile to lat. 13° N.); Filippi, Viagg. Bers. p. 352 
-(1865); Blasius, J. f. O. 1866, p. 82; Degl. $ Gerbe, Om. Eur. 
+(1865); Blasius, J. f. O. 1866, p. 82; Degl. $ Gerbe, Orn. Eur. 
 ii. p. 468 (1867): Loche, Expl. So. Alger., Ois. ii. p. 208 (1807); 
 Doderl.Avif. Sicil. p. 253 (1869); Fritsch, Vog. Eur. p. 460, tab. 54. 
 fiv. 10 (1870); Saluad. Faun. Ital, Ucc. p. 283 (1871); Swinh. 
@@ -1493,10 +1493,10 @@ B. Z. 8. 1871, p. 421 (Formosa) ; Gray, IIand4. B. iii. p. 121
 (1871); Saunders, Ibis, 1871, p. 399 (S. Spain): Salvad. Ucc. 
 12 LABIDiE. 
 
-Borneo, p. 374 (1872 : Sarawak) ; Heugl. Om. NO.-Afr. Bd. ii. 
+Borneo, p. 374 (1872 : Sarawak) ; Heugl. Orn. NO.-Afr. Bd. ii. 
 pt.2,p. 1440(187:3: Bahr el Abiad); Walden, Tr. Z. S. viii. 
 
-p. 103 (1874: Celebes); Irby, Om. Str. Gibr. p. 211 (1875); 
+p. 103 (1874: Celebes); Irby, Orn. Str. Gibr. p. 211 (1875); 
 Saunders, P. Z. S. 1876, p. 640 (revision); Dresser, Ibis, 1876, p. 416; 
 id. B. Eur. viii. p. 315, pis. 588 & 589 (1877) ; David fy Ousted. 
 Ois. Chine, p. 524 (1877); Saunders, Bull Soc. Zool. France, 1877, 
@@ -1509,12 +1509,12 @@ vi. p. 491 (1878: Tenasserim); Davids. Sf Wend. op. cit. vii. p. 93
 F. viii. p. 115 (1879); Legge, B. Ceylon, p. 996 (1880): Ward-
 law Ramsay, Tweedd. Mem. p. 660 (1881: Philippines); Bocage, 
 Om. Angola, p. 514 (1881: Angola); Giglioli, Ibis, 1881, p. 218 
-(Pisa); Sadly, Ibis, 1881, p. 594 (Gilgit); Salvad. Om. Papuasia 
+(Pisa); Sadly, Ibis, 1881, p. 594 (Gilgit); Salvad. Orn. Papuasia 
 $c. iii. p. 427 (1882); Salvin, Cat. StricM. Coll. p. &22 (1882) ; 
 Vorderman, Tijdschr. Nederl. Ind. xlii, p. 126 (1883) ; B. O. U. 
 List Brit. B. p.'l84 (1883); Oates, B. Brit. Burm. ii. p. 419 (1883) ; 
 Seebohm, Ibis, 1884, p. 270 (Eaukiang); Tristr. Faun. 8? Flor. 
-Palest, p. 136 (1884); Radde, Om. Cam. p. 487 (1884); Sound. 4th 
+Palest, p. 136 (1884); Radde, Orn. Cam. p. 487 (1884); Sound. 4th 
 ed. Yarr. Brit. B. iii. p. 527 (1884); Sharpe, ed. Bayard's B. S. Afr. 
 p. 699 (1884) ; Homeyer, Ornis, 1885, p. 81; Torre u. Tsch. t. c. 
 p. 565 (Hungary, breeds); Sharpe, Ibis, 1886, p. 493 (Fao, resident) ; 
@@ -1529,7 +1529,7 @@ p. 127 (breeding, Merv oasis); Tristr. Cat. Coll. B. p. 8 (1889) ;
 Saunders, Man. Brit. B. p. 621 (1889); North, Nests § Eggs 
 Austral. B. pp. 353 & 402 (1889); Everett, B. Borneo, p. 2l0 
 (1889); Giglioli, 1°Resoc. Av. Ital.^. 634 (1889), 2° Resoc. p. 653 
-(1890), 3° Resoc. p. 227 (1891); Keller, Om. Carinth. p. 308 
+(1890), 3° Resoc. p. 227 (1891); Keller, Orn. Carinth. p. 308 
 (1890); Saunders, Ibis, 1891, p. 187 (L. L6rnan) ; Pay ton, t. c. 
 p. 465 (Mogador); Sty an, t. c. p. 509 (Kiukiang); Frivaldsky, 
 Av. Hung. p. 181 (1891): Madardsz, Aaskell. tfngar. Vogelf. 
@@ -2233,12 +2233,12 @@ HydrocMidon nigrum, Bp.Comp. List B. Bur.fyN. Am. p. 61 (1838).
 Hydrochelidonfissipes, Bp. Cat Ucc. Eur. p. 77 (1842); Gray, Gen 
 
 B. iii. p. 660 (1846); Licht. Nomencl. Av. p. 98 (1854); Bp. C. 
-JR. xlii. p. 773 (1856); Jaub. et B.-Lapomm. Hick Om. Fr. 
+JR. xlii. p. 773 (1856); Jaub. et B.-Lapomm. Hick Orn. Fr. 
 p. 399 (1859); Salvin, Ibis, 1859, p. 365 (Lake Diendeli); Gray, 
 Cat. Brit. B. p. 243 (1863); Sahad. Ucc. Sard. p. 123 (1864); 
 Antinori, Cat. Descr. Ucc. p. 115 (1864: Lower Egypt); Filippi, 
 Viagg. Pers. p. 352 (1865: Enzeli); Blasius, J. f. 0. 1866, 
-p. 82; Degl. $ Gerbe, Om. Fur. ii. p. 465 (1867); Zoche, Fxpl. 
+p. 82; Degl. $ Gerbe, Orn. Fur. ii. p. 465 (1867); Zoche, Fxpl. 
 Sc. Algtr., Ois. ii. p. 205 (1867); Boderl Avif. Mod. e Sicil. p. 243 
 (1869) ; Brake, Ibis, 1869, p. 154 (Marocco); Broste, Vogelw. 
 Borkum, p. 335 (1869); Fritsoh, Vog. Fur. p. 462, tab. 54.fig.6 
@@ -2247,7 +2247,7 @@ p. 305 (1870: Zoulla); Sahad. Faun. Ital, Ucc. p. 284 (1871);
 Sound. Ibis, 1871, p. 399 (Spain) ; Shelley, B. Egypt, p. 300 
 (1872); A. B. Brooke, Ibis, 1873, p. 346 (Sardinia); Heugl. Orn. 
 JST.O.-Afr. Bd. ii.pt 2, p. 1445 (1873); Antin. fy Sahad. Viagg. 
-Bogos, p. 154 (1873: Anseba, 4000 ft.); Irby, Om. Str. Gibr. 
+Bogos, p. 154 (1873: Anseba, 4000 ft.); Irby, Orn. Str. Gibr. 
 p. 212 (1875); Menzbier, Bull. Mosc. lviii. p. 136 (1883: Volga 
 to Oka, breeds); Frivaldsky, Av. Sung. p. 180 (1891). 
 Hydrochelidon pallida, Brehm, Naum. 1855, p. 295; id. Vogelf. 
@@ -2432,7 +2432,7 @@ p. 187 (1769: chiefly this species).
 Surinam Tern, Lath Gen. Syn. iii. pt. 2, p. 352 (1785). 
 Sterna surinamensis, Gm. S. 2V. i. p. 604 (1788); Lath lndt 0?-n. iL 
 p. 804 (1790). 
-Sterna plumbea, Wilson, Amer. Om. vii. p. 83, pi. 60. fig. 3 (1813); 
+Sterna plumbea, Wilson, Amer. Orn. vii. p. 83, pi. 60. fig. 3 (1813); 
 Jard. ed. Wilson's Am. Orn. ii. p. 374 (1832). 
 Sterna nigra, J. Sabine, App. Franklin's Journ. p. 694 (1823) $ Bpt 
 Obs. Nomencl Wilson, no. 244 (1826); id. Ann. Lye. JSf. T. ii. p. 355 
@@ -2657,7 +2657,7 @@ also on the Pacific coast.
 ? Simple 
 Tern, Lath Gen. Syn. iii, pt. 2, p. 355 (1785: Cayenne); 
 id. Gen. Hist. x. p. Ill (1824). 
-? Sterna simplex, Gm. S. N. i. p. 606 (1788); Lath Ind. Om. ii. 
+? Sterna simplex, Gm. S. N. i. p. 606 (1788); Lath Ind. Orn. ii. 
 
 p. 806 (1790); Gray, Gen. B. iii. p. 659 (1846). 
 ? Hati cogote ohscuro, Azara, Apunt. iii. p. 372 (1802) [on which is 
@@ -2685,10 +2685,10 @@ Beichenb. Natat. tab. xviii. fig. 257 (1848); Burm. Th. Bras. iii.
 pp. 450, 451 (1856); id. Beise La Plata, ii. p. 519 (1861) ; Schl 
 Mus. P.-Bas, Sterna, p. 12 (1863); Taylor, Ibis, 1864, p. 96 
 (Orinoco); Scl $ Salv. P. Z. S. 1867, pp. 593, 979 (Mariana, 
-Lower Amazons); Gray, Eand4. B.iil p. 120 (1871) ; Pelz. Om, 
+Lower Amazons); Gray, Eand4. B.iil p. 120 (1871) ; Pelz. Orn. 
 Bras. pp. 324, 461 (1871); Layard, Ibis, 1873, p. 396 (Para); 
 Saunders, P. Z. S. 1876, p. 643 (revision); Bumf. Ibis, 1880, 
-p. 412 (Rosario); Tacz. Om. PSrou, iii. p. 438 (1886); MacFarl 
+p. 412 (Rosario); Tacz. Orn. PSrou, iii. p. 438 (1886); MacFarl 
 Ibis, 1887, p. 209 (Guayaquil). 
 PViralva simplex, Steph in Shaio's Gen. Zool xiii. pt. 1, p. 172 
 (1825). 
@@ -2972,7 +2972,7 @@ anglica, Bp. Comp. List B. Eur. fy N. Am. p. 61
 p. 139 (1845: Red Sea); Boie, Isis, 1844, p. 187; Reichenb. Syst. 
 Nat. tab. iv. (1850), and Av. Syst. Nat. p. v (1852) ; Macgill Br. 
 B. T. p. 666 (1852); Licht. Nomencl. Av. p. 97 (1854); Bp. C. R. 
-xiii. p. 772 (1856); Jaub. § Lapomm. Rich. Om. p. 401 (1859); 
+xiii. p. 772 (1856); Jaub. § Lapomm. Rich. Orn. p. 401 (1859); 
 Salvin, Ibis, 1859, p. 364 (Tunisia); Tristr. Ibis, I860, p. 82 
 (Sahara); Coues, Fr. Fhilad. Acad. 1862, p. 536; id. Ibis, 1864, 
 p. 388; Salvin, op. cit. 1866, p. 199 (Chiapam); Adams, Ibis, 
@@ -5645,11 +5645,11 @@ Brit. B. ii. p. 184 (1821); Yarr. Brit B. iii. p. 306 (1843).
 Sterna hirundo (part.), Linn. Syst Nat i. p. 227 (1766); P. L. S. 
 Mull. S. N p. 352 (1776); Gm. Syst Nat i. p. 606 (1788). 
 
-Sterna hirundo, Lath. Ind. Om. ii. p. 807 (1790); Bechst Naturg. 
+Sterna hirundo, Lath. Ind. Orn. ii. p. 807 (1790); Bechst Naturg. 
 Deutschl ii. p. 828 (1791); Meyer § Wolf, Taschenb. ii. p. 459 
 (1810) ; Pallas, Zoogr. Rosso-Asiat p. 333 (1811); Illiger, Prodr. 
 
-p. 272 (1811) ; Wilson, Am. Om. vii. p. 76, pi. 60. fig. 1 (1813) ; 
+p. 272 (1811) ; Wilson, Am. Orn. vii. p. 76, pi. 60. fig. 1 (1813) ; 
 Meisn. § Schinz, Tog. Schweiz, p. 261 (1815); Meyer, Vdg. Xwu. 
 Fsthl. p. 229 (1815); Temm. Man. d'Om. p. 481 (1815), 
 2nd ed. p. 740 (1820); Koch, Syst baier. Zool p. 366 (1816); 
@@ -5662,25 +5662,25 @@ Lye. N. T. ii. p. 354 (1828); Werner, Atlas, Palmipedes, pi. 6
 (1828); Vieill Faune l'rang.,Oi$. p. 401 (1828); Fleming, Brit An. 
 
 p. 143 (1828); Kaup, Naturl. Syst p. 26 (1829); Lesson, TraitS, 
-p. 621 (1831); Savi, Om. Tosc. iii. p. 85 (1831); Sw. Sf Pick. Faun. 
+p. 621 (1831); Savi, Orn. Tosc. iii. p. 85 (1831); Sw. Sf Pick. Faun. 
 Bor.-Amer., Birds, p. 412 (1831); MSnStr. Cat Pais. Cauc. p. 551 
-(1832); Jard., Fd. Wilson's Amer. Om. ii. p. 368 (1832); Selby, 
-Brit B. ii. p. 468, pi. xc. ftg. 1 (1833); Nuttall, Man. Om. ii. 
+(1832); Jard., Fd. Wilson's Amer. Orn. ii. p. 368 (1832); Selby, 
+Brit B. ii. p. 468, pi. xc. ftg. 1 (1833); Nuttall, Man. Orn. ii. 
 £ 271 (1834) ; Jenyns, Man. Brit Vertebr. p. 266 (1835); Gould, 
 B. Fur. v. pi. 417 (1837); Bp>. Comp. List B. Fur. $ N. Amer. 
-p. 61 (1838); Audub. Om. Biogr.iv.y.74: (1838); id. B. N. Amer. 
+p. 61 (1838); Audub. Orn. Biogr.iv.y.74: (1838); id. B. N. Amer. 
 folio, pi. 309; id. Synops. p. 318 (1839); Dickson Sf Boss, 
 P. Z. S. 1839, p. 135 (breeds, Erzeroom); Schinz, Furop. Faun. 
-p. 373 (1840); Crespon, Om. Gard, p. 474 (1840); Naum. Vdg. 
+p. 373 (1840); Crespon, Orn. Gard, p. 474 (1840); Naum. Vdg. 
 Deutschl. x. p. 89, pi. 252 (1840); Keys. § Bias. Wirb. Fur. 
 pp. xcvii & 246 (1840); Temm. Man. d?Om. ed. ii. 4* pte. p. 458 
 (1840); Nordm. in Demid. Voy. Puss. Mirid. iii. p. 278 (1840) -T 
 Gray, List Gen. p. 79 (1840), & p. 100 (1841) ; Selys-Longch. 
-Faun. Belg. p. 150 (1842) ; Macgill. Man. Brit. Om. pt. ii. p. 231 
+Faun. Belg. p. 150 (1842) ; Macgill. Man. Brit. Orn. pt. ii. p. 231 
 (1842); Giraud, B. Long Lsl. p. 347 (1844); Audub. B. N. Am. 
-8vo, vii. p. 97, pi. 433 (1844); Bouteitte, Om. Dauphini, ii. p. 235 
+8vo, vii. p. 97, pi. 433 (1844); Bouteitte, Orn. Dauphini, ii. p. 235 
 (1843); Gray, List Anseres B. M. p. 177 (1844); Schl. Pev. Crit 
-p. exxix (1844); Muhle, Om. Griechenl p. 145 (1844); Pupp. 
+p. exxix (1844); Muhle, Orn. Griechenl p. 145 (1844); Pupp. 
 Syst. Uebers. p. 139 (1845: Egypt & Red Sea); Yarr. Brit B. 
 2nd ed. iii. p. 504 (1845); Hewits. Fggs Brit B. ii. y: 427, pi. 120. 
 fig. 1 (1846); Gray, Gen. B. iii. p. 659 (1846); Peichenb. Natat 
@@ -5692,7 +5692,7 @@ in Lehmannh Peis. n. Buchara, p. 330 (1852); Kjmrb. Damn.
 Fugle, p. 329, Taf. 40 A (1852), and Suppl Taf. 20. fig. 3 (1854); 
 Licht Nomencl. Av. p. 97 (1854); Schl. Vog. Nederl. p. 608, pi. 357 
 (1854); Keugl. Syst Uebers. p. 70 (1856 : N. Egypt) ; Meyer, Brit 
-B. vii. p. 82, pi. 291 (1857); Jaub. fyLapomm, Pick Om. Fr. p. 403 
+B. vii. p. 82, pi. 291 (1857); Jaub. fyLapomm, Pick Orn. Fr. p. 403 
 (1859); Jbraes, Nat Bermuda,?. 91 (1859); Powys, Ibis, 1860, p. 356 
 (Ionian Is.); Simpson, t c. p. 393 (Missolonghi, breeding); Lxnderm. 
 Vdg. Griechenl. p. 178 (1860); Irby, Ibis, 1861, p. 246 (Oudh & 
@@ -7324,7 +7324,7 @@ ii. p. 425, pi. 119 (1846); Reichenb. Natat. tab. xxii. figs. 824825
 tab. 20.fig.2 (1854); Licht. Nomencl. Av.-p. 98 (3854); Butnam, 
 Br. Fssez Inst. i. p. 221 (1856: Massachusetts) ,* Meyer, Brit B. 
 vii. p. 87, pi. 292 (1857); Jones, Nat Bermuda, p. 91 (1859); 
-Godman, Ibis, 1866, p. 103 (Azores); Degl $ Gerbe, Om. Bur. 
+Godman, Ibis, 1866, p. 103 (Azores); Degl $ Gerbe, Orn. Bur. 
 ii. p. 459 (1867); Tumbutt, B. B. Perm. p. 38 (1869) ; Droste, 
 Vogelw. Borkum, p. 326 (1869) [very doubtfully],-Sunders. K. 
 Vet-Akad. Stock Fork 1869, p. 589 (St. Bartholomew I.); God-
@@ -7381,14 +7381,14 @@ and sole representative of genus].
 LARIDJE, 
 
 Sterna paradisea, Keys. $ Bias. Wirb. Eur. p. 247 (1840) (nee 
-Brunn.); Bp. Cat. Ucc. Eur. p. 76 (1842); Milhle, Om. Griechenl. 
+Brunn.); Bp. Cat. Ucc. Eur. p. 76 (1842); Milhle, Orn. Griechenl. 
 
 p. 146 (1844); Gray, List B. Brit. Mus., Anseres, p. 178 (1844); 
 Schl. Rev. Crit. p. exxx (1844) ; Gray, Gen. B. iii. p. 659 (1846); 
-Blyth, Cat. B. Mus. As. Soc. p. 292 (1849); Begl. Om. Eur. ii. 
+Blyth, Cat. B. Mus. As. Soc. p. 292 (1849); Begl. Orn. Eur. ii. 
 p. 346 (1849); Thomps. B. Irel. iii. p. 271 (1851); Baird, Cass., 
 % Zawr. B. N. Amer. p. 863 (1858); Baird, Cat. N. Amer. B. 
-no. 692 (1859); Jaub. et Lapomm. Rich. Om. Fr. p. 405 (1859) ; 
+no. 692 (1859); Jaub. et Lapomm. Rich. Orn. Fr. p. 405 (1859) ; 
 Zinderm. Vog. Griechenl. p. 179 (1860) ; Coues, pr. Phil. Acad. 
 1862, p. 551; Gray, Cat. Brit. B. p. 239 (1863) ; Coues, Ibis, 
 1864, p. 389; Salvin, op. cit. 1866, p. 199 (Brit. Honduras); Ziot. 
@@ -7400,7 +7400,7 @@ Eur. p. 457, Taf. 57. fig. 1 (1870) ; Allen, Amer. Nat. iii. p. 643
 (1870); Gray, Hand-l. B. iii. p. 119, no. 11038 (1871); Coues, 
 Key N. Amer. B. p. 321 (1872); Gould, B. Gt. Brit. v. pi. 71 
 (1873); Walden, Ibis, 1874, p. 149, and Hume, Str. Feath. iii. 
-p. 501 (1875: Andaman Is.); Gundl Om. Cuba, p. 310 (1876); 
+p. 501 (1875: Andaman Is.); Gundl Orn. Cuba, p. 310 (1876); 
 Cory, B. Bahamas, p. 212 (1880) ; id. ed. 1890, p. 212; Olphe-
 Gall. Contr. Faun. Eur. Occid. livr. x. p. 19 (1886). 
 Sterna macdougalli, Macgill. Man. Br. Orn. pt. ii. p. 233 (1842); 
@@ -7851,22 +7851,22 @@ Nyt Mag.f. Naturv. Bd. xxxv. p. 318 (1894) ; Ussher, B\
 JR. Irish Acad. (3) iii. p. 409 (1804); Lilford, Col. Figs. Brit. B. 
 pt. xxix. (1894). 
 
-Sterna boysii, Lath. Ind. Om. ii. p. 80G (1790); Leach, Si/st. Cat. 
+Sterna boysii, Lath. Ind. Orn. ii. p. 80G (1790); Leach, Si/st. Cat. 
 Mamm. $c. Brit Mas. p. 41 (1816); Tieill. N. Diet, d'liist. Nat. 
 
 xxxii. p. 167 (1819); [mispr. boyiis] Vieill Fnc. Mtth. p. 347 
 (1823); id. Faun. Franc., Ois. p. 326, pi. 160. fig. 1 (1828); 
 Fleming, Brit. An. p. 142 (1828); Selby, Brit. B. ii. p. 464, pi. 88. 
-tig. 1 (1833); Nuttall, Man. Om. ii. p. 276 (1834); Yarr.Brit. B. 
+tig. 1 (1833); Nuttall, Man. Orn. ii. p. 276 (1834); Yarr.Brit. B. 
 ed. 2, iii. p. 487 (1845); Chapman, Trav. S. Afr. ii. p. 424 (1868; 
 Walviscb Bay); R. Gray, B. West. Scot?, p. 465 (lb71). 
 Sterna stubberica, Otto, in German ed. Buffon, xxx. p. 104, no. %l,fide 
 Nairn, (circa 1790); Bechst. Naturq. Deutschl. ii, p. 828 (1791: 
-Stubber Isl.); id. Om. Taschenb. p.*378 (1803). 
+Stubber Isl.); id. Orn. Taschenb. p.*378 (1803). 
 
 ? Sterna columbina, Schranh, Fauna Boica, i. p. 232 (1798). 
 Sterna canescens, Meyer u. Wolf, Taschenb. ii. p. 458 (1810); 
-Nilss. Om. Suec. p. 158 (1817). 
+Nilss. Orn. Suec. p. 158 (1817). 
 Tbalasseus cantiacus, Boie, Isis, 1822, p. 5G3; Wagler, Isis, 1832, 
 
 p. 1225; Bp. Comp. List B. Fur. £ N. Amer. p. 61 (1838); id. 
@@ -7880,8 +7880,8 @@ Fur. p. 455, Taf. 55. fig. 2 (1870); Later. Bull. U.S. Nat. Mus. iv,
 p. 51 (1876: Tehuantepec) ; Giglioli, Ibis, 1881, p. 217; id. Avif. 
 Ital. p. 413 (1886); id. 1st Resoc. Av. Ital p. 628 (1889). 
 Actochelidon cantiaca, Kaup, Natiirl. Syst. p. 31 & p. 196 (1829; 
-type of genus) ; Gould, B. Gt. Brit. v. pi. 69 (1873); Radde, Om. 
-Cauc. p. 485 (1884: breeds); Olphe-Galliard, Contr. Faun. Om. 
+type of genus) ; Gould, B. Gt. Brit. v. pi. 69 (1873); Radde, Orn. 
+Cauc. p. 485 (1884: breeds); Olphe-Galliard, Contr. Faun. Orn. 
 Fur. Occid. livr. x. p. 11 (1886); Heine fy Reichenow, Nomencl. 
 Mus. FLein. p. 355 (1890). 
 
@@ -7906,7 +7906,7 @@ acuflavidus, Bp. C. R. xlii. p. 772 (1856); Coues, Froc.
 Acad. Nat. Sci. Philad. 1862, p. 540 (revision); Salvin, Ibis, 1864, 
 
 p. 381; Coues, torn. cit. p. 389; Salvin, op. cit. 1866, p. 198 (Honduras) 
-; Gundl. Om. Cuba, p. 309 (1876). 
+; Gundl. Orn. Cuba, p. 309 (1876). 
 Sterna (Tbalasseus) cantiaca, Coues, B. N-West, p. 673 (1874). 
 Sterna cantiaca acuflavida, Ridgio. Bull. U.S. Nat. Mus. no. 21, p. 53, 
 
@@ -8764,7 +8764,7 @@ Sterna bengalensis, Lesson, Traite, p. 621 (1831); Buck. Rev. ZooL
 
 p. 284 (1873); id. op. cit ii. p. 318 (Nicobars); id. Wests $ 
 Fggs Ind. B. p. 655 (1875); id. Str. F. iv. p. 474 (1876: Laceadives). 
-" Sterna arabica, Ehrenberqf Tetmn. Man. d* Om. ed. 2, 4^ pte. 
+" Sterna arabica, Ehrenberqf Tetmn. Man. d* Orn. ed. 2, 4^ pte. 
 
 p. 456 (1840). 
 Sterna, no. 402, Jerdon, Madras Journ. xii. p. 224 (1840); cf. Bh/th, 
@@ -9085,7 +9085,7 @@ B. Borneo, p. 210, no. 560 (1889) ; Whitehead, Ibis, 1890, p. 60
 (Palawan); Sharpe, t. c. p. 149 (N. Borneo); Seeb. B.Japan. Emp* 
 p. 299 (1890); Oates, 2nd ed. Humes Nests $ Eggs hid. B. iii. 
 p. 297 (1890); Steere, List Mamm. $ B. Exped. Philipp. p. 27 
-(1890: Mindanao); Salvad. Agg. Om. Papuasia fyc. p. 211 (1891); 
+(1890: Mindanao); Salvad. Agg. Orn. Papuasia fyc. p. 211 (1891); 
 id. Ann. Mus. Civ. Gen. (2) ix. p. 591 (1890: Rigo); id. op. cit. 
 x. p. 833 (1891); Barnes, J. Bomb. N. H. Soc. vi. pi. to p. 285 
 (eggs) (1891); Sharpe, Ibis, 1891, p. 115 (Fao, eggs); Lister, 
@@ -9746,7 +9746,7 @@ Finscli, Neu-Guin. p. 184 (1805) ; Gray, Hand-l. B. iii.
 p. 120, no. 11060 (1871); Saunders, P. Z. 8. 1876, p. 657 (revision 
 Sterninaj) ; Hartl. Vog. Madag. p. 380 (1877); Sharpe, Phil Tr. 
 clxviii. p. 463, Hep. Trans. Venus (1879: Rodriguez) ; Salvad. 
-Ann. Mus. Civ. Gen. xviii. p. 407 (1882) : id. Om. Papuasia fye. 
+Ann. Mus. Civ. Gen. xviii. p. 407 (1882) : id. Orn. Papuasia fye. 
 iii. p. 435 (1882) ; Sawder*, P. Z. S. 1886, p. 336 (Diego Garcia): 
 & Newton, Tr. Korw. Soc. iv. p. 553 (1888 : Mascarene Is.). 
 Thalasseus bernsteini, Bias. J.f. O. 1866, pp. 81 & 86, 
@@ -10612,7 +10612,7 @@ Wilson, no. 245 (1826); Steph. in Shaw's Gen. Zool. xiii. pt. 1,
 
 p. 164 (1826); Bp. Ann. Lye. N. Y ii. p. 355 (1828); Lesson, 
 Traite, p. 622 (1831); Jard. ed. Wilson's Amer. Orn. iii. p. 182 
-(1832); Nuttall, Man. Om. ii. p. 284 (1834) ,• Audub. Orn. Biogr. 
+(1832); Nuttall, Man. Orn. ii. p. 284 (1834) ,• Audub. Orn. Biogr. 
 iii. (1835) p. 263, v. (1839) p. 641; id, Synops. p. 317 (1839); Gould, 
 Syn. B. Austr.yt 2, pi. fig. 1 (1837) ; B'Orbiqn. in Sagra's BList. 
 Nat Cuba, p. 215 (1839); Temm. $ Schley.'F. Japon. p. 133, 
@@ -10629,7 +10629,7 @@ Coast); Naum. Fog. JDeutsehl, Anhang, xiii. p. 267, Taf. 387
 6 . srasKSTA. 107 
 (1860); Schlcg. Mus. P.-B., Stermo, p. 25 (I860); Dww , Ibis, 
 
-1866, p. 44 (Texas); Degl § Gerbe, Om. Eur. ii. p. 462 (18(57) ; 
+1866, p. 44 (Texas); Degl § Gerbe, Orn. Eur. ii. p. 462 (18(57) ; 
 
 Finsch fy Ilartl Faun. Centralpolyn. p. 225 (1807); Sperliny, 
 
@@ -11468,7 +11468,7 @@ breeds); Irby, op. cit. 1861, p. 247 (Oudh & Kumaon); Schl.Dier.
 Nederl Voxels, p. 240 (1861); Gray, Cat Brit B. p. 242 (1863); 
 Sahad. Ucc. Sard. p. 122 (1864); Jerd. B. India, iii. p. 841 (1864); 
 Wright, Ibis, 1864, p. 153 (Malta); Filippi, Viaqy. Pers. p. 352 
-(1865); Bias. J.f. 0. 1806, p. 74 (revision) ; Dec/L et Gerbe, Om. 
+(1865); Bias. J.f. 0. 1806, p. 74 (revision) ; Dec/L et Gerbe, Orn. 
 JEitr. ii. p. 451 (1867) ; Borggr. Vogelf. Norddeutschl. p. 144 
 (1869); Doderl Avif. Sicil. p. 243 (1869); Droste, Fogelw. 
 Borhum, p. 332 (1869); Sahad. Faun. Ital, Ucc. p. 281 (1871); 
@@ -11480,12 +11480,12 @@ Shelley, B. Egypt, p. 300 (1872); Godmnn, Ibis, 1872, p. 222
 (1873 : doubtfully); Brooke, Ibis, 1873, p. 346 (Sardinia); Severtz. 
 Turkest Jevotn. p. 70 (1873) and Dresser's transl, Ibis, 1876, p. 416 
 (breeds up to 4000 ft.); Burnford, Ibis, 1874, p. 400 (N. Frisian 
-Is., breeds); Irby, Om. Strs. Gibr. p. 210 (1875); Dresser, B. Eur. 
+Is., breeds); Irby, Orn. Strs. Gibr. p. 210 (1875); Dresser, B. Eur. 
 viii. p. 279, pi. 582 (1876); Blanf. East Pers. ii. p. 294 (1876); 
 Saund.P.Z.S. 1876, p. 661 (revision Stemime); Seeb. (Henke), 
 Ibis, 1882, p. 231 (breeds Seal Is., N. Caspian); Salvia, Cat. 
 StricH. Coll. p. 625 (1882); B. O. TJ. List Brit B. p. 181 (1883); 
-Tristr. Faun. $ Flor. Palest p. 135 (1884); Radde, Om. Cam. 
+Tristr. Faun. $ Flor. Palest p. 135 (1884); Radde, Orn. Cam. 
 p. 486 (1884); Saund. Uh ed. Yarr. Brit. B. iii. p. 558 (1884); 
 Buchner, Beitr. Russ.Reiches, (2) ii. p. 127 (1885: St. Petersburg; 
 seldom breeds); Seeb. Brit. B. iii. p. 289 (1885); Someyer, Ornis, 
@@ -11512,11 +11512,11 @@ Ibis, 1891, p. 465 (Mogador); Frivaldshy, Av. Hungar. p. 180
 (1891); Madardsz, Ausst. Ung. Vogelf. p. 120 (1891); Giglioli, 
 iii. Resoc. Av. Ital. p. 517 (1891); Jacket ty Bias. Fog. Bayerns, 
 p. 364 (1891); H.-Brown fy Buckl. Faun. Argyll fyc. p. 187 (1892); 
-Ussher, Pr. R. Irish Acad. (3) iii. p. 410 (1894); Irby, Om. Strs. 
+Ussher, Pr. R. Irish Acad. (3) iii. p. 410 (1894); Irby, Orn. Strs. 
 Gibr. 2nd ed. p. 296(1895). 
 Sterna metopoleucos, S. G. Gm. Nov. Comm. Petr. xv. p. 475, no. 17, 
 tab. 22. fig. 11(1771: Woronetz); J. F. Gm. S. N I p. 608 
-(1788); Lath. Ind. Om. p. 809 (1790). 
+(1788); Lath. Ind. Orn. p. 809 (1790). 
 
 The Hooded Tern, Lath. Gen. Syn. iii. pt. 2, p. 365 (1785). 
 
@@ -13128,7 +13128,7 @@ Chatham L, Galapagos); Oates, 2?id ed. Hume's Nests # Eggs
 Ind.B.m. p. 315 (1890) ; J. B. Young, Ibis, 1891, p. 146 (Moraiit 
 Cays, "breeding) ; Hartert, Eat. Vogekamml. Senekenb. p. 238 
 (1891): Lister, P. Z. S. 1891, p. 296 (Phoenix Group); A. J. 
-Campbell, C. B. ii. Congr. Om. Intern, ii. pp. 157-158, pi. of 
+Campbell, C. B. ii. Congr. Orn. Intern, ii. pp. 157-158, pi. of 
 nesting-place, Houtman's Abrolhos (1892); Cory, Cat. B. West 
 Eid. p. 82 (1892); Sibree, Ibis, 1892, p. 273 (Madagascar) 
 Wiglesw. Abh. zool Mus. Dresd. 1890-91, no. vi. p. 76 (1892 
@@ -13155,7 +13155,7 @@ p. 773 (1856) ;Pelz. Beis Novara, Vog. p. 155 & p. 162 (1865).
 Anous tenuirostris, Heugl. Syst. Uebers. p. 71 (1856); id. Ibis, 1859, 
 p. 351 (Aden, &c.); id. %n Peterm. Mitth. 1861, p. 29; K. v. 
 Warthansen, Ibis, 1860, p. 128 (Somali Coast). 
-Anous rousseaui, Hartl. Beitr. Om. Madagascar, p. 86 (1861). 
+Anous rousseaui, Hartl. Beitr. Orn. Madagascar, p. 86 (1861). 
 Anous frater, Coues, Pr. Ac. Philad. 1862, p. 558 (South Pacific, 
 
 Wilkes). 
@@ -13651,7 +13651,7 @@ b. ? Ad. sk. Charles Island, Galapagos, Feb. Salvin-Godman Coll.
 10. 
 MICEANOUS. w 
 Type. 
-Micranous, Saunders, Bull Brit. Om. Club, 
+Micranous, Saunders, Bull Brit. Orn. Club, 
 no. xxiii. p. xix (Jan. 1895) M. tenuirostris (Ternm.). 
 Bange. Tropical and Sub-tropical seas. 
 
@@ -13828,7 +13828,7 @@ Kocks); Saunders, Pep. E.M.S. * Challenger; Birds, ii. p. 137
 p. 577 (Caroline Is.); id. Ibis, ISfcO, pp. 220, 332 (Marshall Is.); 
 *W. o/;. cit. 1881, p. 109 (Kushai Id.); id. t. c, pp. 113, 115 (Ponape 
 Id.); id. t. c. p. 431 (not in Gilbert Is.); Salvad. Ann. MKS. Civ. 
-Gen. xviii. p. 409 (1882); id. Om. Papuasia, iii. p. 456 (1882) ; 
+Gen. xviii. p. 409 (1882); id. Orn. Papuasia, iii. p. 456 (1882) ; 
 Tristram, Ibis, 1883, p. 48 (Fanning I.; breeding) ; Finsch, Tog. 
 Sildsee, p. 52 (]h84: Marshall & Caroline Is.; breeds) ; J. Murray, 
 Narr. ' Challenger; i. p. 204 (St. Paul's Rocks) and p. 738 (1885) ; 
@@ -13843,7 +13843,7 @@ Senchenb. p. 238 (1891: Caroline Is.).
 Anous tenuirostris, Blyth, J. A. S. Beng. xvi. p. 373 (1847); id. Cat. 
 
 B. Mas. As. Soc. 1849, p. 293 ; Eartl. J.f. 0.1854, p. 170 & p. 307; 
-Eartl. Om. W.-Afr. p. 256 (1857: Gambia); Jerd. B. India, iii. 
+Eartl. Orn. W.-Afr. p. 256 (1857: Gambia); Jerd. B. India, iii. 
 p. 846 (1864: Bay of Bengal) ; Salvia, Ibis, 1864, p. 383 (Brit. 
 Honduras) ; Coues, t. c. p. 393 ; Blyth, Ibis. 1865, p. 40 (Bay of 
 Bengal); Salvin, op. cit 1866, p. 200; Blyth, op. cit. 1867, p. 178; 
@@ -14334,25 +14334,25 @@ d'. With a broad white collar : larger albkollis, p. 159.
 1. Eayncliops nigra. 
 The Cut Water, Catesbg, Nat Hist Carol i. p. 90, pi. 90 (1731). 
 
-Le Bec-en-Ciseaux, Brisson, Om. vi. p. 223, pi. xxi. lig. 2 (1700) ; 
+Le Bec-en-Ciseaux, Brisson, Orn. vi. p. 223, pi. xxi. lig. 2 (1700) ; 
 Buff. Hist Nat Ois. viii. p. 454 (1781 : partim.; but tig. xxxvi. 
 represents R. melanura). 
 
 Le Bec-en-ciseaux 
-fauve, Brisson, Om. vi. p. 227 (1760: juv., ex 
-Barrere, Om. Sp. p. 20, 1745). 
+fauve, Brisson, Orn. vi. p. 227 (1760: juv., ex 
+Barrere, Orn. Sp. p. 20, 1745). 
 Rhynchops nigra, Linn. Syst. Nat.i.^. 228 (1706 : North America); 
-Gm. Syst. Nat. i. p. 611 (1788: N. America); Lath. Lid. Om. ii. 
+Gm. Syst. Nat. i. p. 611 (1788: N. America); Lath. Lid. Orn. ii. 
 
 p. 802 (1790); tfoww. JJ/ic. Meth. i. p. 100 (1791); Shaw # JXW. 
 iVitf. Jfwctf/J. ix. pi. 325 (1798); Illiger, Prod. p. 271 (1811); 
 Wihon^Amer. Opi.''i\i'. p. 85, pi. 60. fiff. 4 (1818); Car. Reqne 
 An., Of. p.<3'44, Atlas, pi. 93 (1817); Zw/rf. Jen:. Itowtf. p! 80 
 (1823: pt.); Stephens, Shaio's Gen. Zool. xiii. pt. 1, p. 136 (1826); 
-Jard. ed. Wilsons Am. Om, ii. p. 376 (1832) ; Nuttall,Man. Om. 
+Jard. ed. Wilsons Am. Orn. ii. p. 376 (1832) ; Nuttall,Man. Om. 
 
 ii. p. 264 (1834); Bp. Comp. List B. Eur. # N. Am. p. ( 0 (1838); 
-^LM^6. Om. Biogr. iv. p. 203 (1838) ; id. Synop. p. 314 (1839) ; 
+^LM^6. Orn. Biogr. iv. p. 203 (1838) ; id. Synop. p. 314 (1839) ; 
 id. B. N. Amer. 8vo ed. vii. p. 67, pi. 428* (184(5); Giraud, B. 
 Long Lsl. p. 346 (1844); Boie, Isis, 1844, p. 191 ; jkgff^ B. 
 iii. p. 056 (1846) ; Reichenb. Natat tab. xviii. tigs. 40(li3l (1848) ; 
@@ -14371,7 +14371,7 @@ B. p. 324 (1872) ; id. B. N.-West, p. 715 (1874); Later. Mem.
 Bost. Soe. N II. ii. p. 318 (1874: San Bias, Pacific); Gundl 
 Om. Cuba, p. 312 (1876); Lawr. Bull U.S. Nat Mus. iv. p. 52 
 (1876: Tehuantepec, Pacific); Sennett, Bull. U.S. Geo!. Sum. iv. 
-p. 66 (1878: S. Texas); Beam, Bull Nutt. Om. C. 1879, p. 242 
+p. 66 (1878: S. Texas); Beam, Bull Nutt. Orn. C. 1879, p. 242 
 (New England): Magnard, B. East. Amer. p. 482 (1881); Ridgw. 
 Bull Zt.S. Nat Mus. no. 21, p. 51 (1881) ; Chamberlain, B. New 
 Brunsw. p. 67 (1882); Salvin, Cat Stride. Coll p. 627 (1882); 
@@ -14516,13 +14516,13 @@ p. 161 (1839: Uruguay Coast) j Gould, m Voy.' Beagle,1 Birds, p. 143
 (1841) ; Hartl. Ind. Azara, p. 26 (1847); Bnrm. Th. Bras. iii. 
 p. 454 (1856: Coast); id. Beis. La Plata, ii. p. 520 (1861: Parana); 
 Scl. § Salv. P. Z. S. 1871, p. 566 (revision Neotrop., partim); iid. 
-Nomencl. Av. Neotrop. p. 147 (1873: partim); Pelz. Om. Bras. 
+Nomencl. Av. Neotrop. p. 147 (1873: partim); Pelz. Orn. Bras. 
 p. 324 & p. 461 (1871: partim); Berlepsoh, J.f. 0. 1874, p. 279 
 (Sta. Catharina, S. Brazil); Dumford, Ibis, 1877, p. 200 (Buenos 
 Ayres); White, P. Z. S. 1882, p. 628 (Buenos Ayres) j Berlepsch, 
 J.f. O. 1887, p. 37 & p. 126 (Paraguay). 
-Phynchops melanura, Scl, § Huds. Argeyit. Om. ii. p. 193 (1889). 
-Phynchops intercedens, Saunders, Bull. Br. Om. Club, no. xxv. 
+Phynchops melanura, Scl, § Huds. Argeyit. Orn. ii. p. 193 (1889). 
+Phynchops intercedens, Saunders, Bull. Br. Orn. Club, no. xxv. 
 p. xxvi (Mar. 1895). 
 Adult female. Similar to the female of the preceding species, 
 
@@ -16096,7 +16096,7 @@ ii. pi. xiii. pull. (1874); Oates, Str. F. iii. p. 375 (1875 : Ceylon);
 Blytk 8r Wald. B. Burm. p. 162 (1875); Bree, B. Eur. 2nd ed. 
 v. p. 83 (1876); Dresser, Ibis, 1876, p. 415 (Caspian to Tian-
 Shan up to 1000 ft.); Blanf. East Bers. ii. p. 292 (1876) ; Prjev. 
-in Rotolexfs Om. Misc. iii. p. 109 (1878 : only as far as E. Kokonor, 
+in Rotolexfs Orn. Misc. iii. p. 109 (1878 : only as far as E. Kokonor, 
 not in China proper nor in Amurland or E. Siberia); Taylor, Ibis, 
 1878, p. 373 (Port Said and Damietta); Finsch, Verh z.-b. Ges. 
 JFie»,1879,p. 274 (West Siberia); V.Ball, Str. F. vii.p. 233(1879: 
@@ -16786,7 +16786,7 @@ Coll. iii. p. 359 (1872 : Lake Titicaca, breeds in Feb.); Set $Sah.
 Nomencl. Av. Neotr. p. 148 (1873) j Saunders, P. Z. S. 1878, p. 196 
 (revision Larinse); id. Journ. Linn. Soe., Zool. xiv. p. 399 (1878: 
 distribution); Scl.tySalv. P. Z. S. 1879, p. 641 (Bolivia) ; Saunders, 
-P. Z. S. 1882, p. 525 (Callao Bay); Taczan. Om. Pirou, iii. 
+P. Z. S. 1882, p. 525 (Callao Bay); Taczan. Orn. Pirou, iii. 
 p. 452 (1886); Scl. P. Z. S. 1886, p. 404 (Tarapaea); MacFarl 
 Ibis, 1887, pp. 204, 207 (Callao Bay); Scl. P. Z. S. 1891, p. 137 
 (Tarapaea); Hartert, Kat. Vogelsamml. Senckenl. p. 241 (1891: 
@@ -17181,7 +17181,7 @@ Obs. Nomencl. Wilson's Orn. no. 246 (1826) ; id. Ann. Lye. N. Y.
 ii. p. 359 (1828) ; Jard. ed. Wilson's Amer. Orn. iii. p. 216, pi. 74. 
 %. 4 (1832); fJRennie's ed. Mont. Orn. Diet. p. 259 (1833); 
 Nuttall, Man. Orn. ii. p. 291 (1834); Jenyns, Man. Brit Verteb. 
-p. 274 (1835: ex Montagu) ; Audztb. Om. Biogr. iv. p. 118, 
+p. 274 (1835: ex Montagu) ; Audztb. Orn. Biogr. iv. p. 118, 
 pi. 314 (1838); id. Synop. p. 324 (1839); BOrbigny in Sagra's 
 Hist Nat. Cuba, p. 212 (1839); Keys. u. Bias. Wirh. Fur. pp. xevi, 
 243 (1840); Temm. Man. a Orn. 2e <5d. 4e pte. p. 483 (1843); Schl 
@@ -18171,7 +18171,7 @@ Barnes, Ibis, 1893, p. 176 (Aden, winter); Lilford, B. Northants,
 p. 399 (1893); Ussher, Pr. R. Irish Acad. (3) iii. p. 410 (1894) ; 
 Oustal. N. Arch. Mus. Paris, (3) vi. p. 94 (1894: Korla); 
 Collett, Nyt Mag. f. Naturv. Bd. xxxv. p. 304 (1894: Norway) ; 
-Irby, Om. Sirs. 'Gibr. 2nd ed. p. 297 (1895). 
+Irby, Orn. Sirs. 'Gibr. 2nd ed. p. 297 (1895). 
 The Pewit Gull, Pennant, Brit. Zool p. 143, pi. L 5 (1766); ibid. 2nd 
 ed. p. 426 (1788). 
 La Petite Mouette cendrSe, Buff. Hist. Nat. Ois. viii. p. 430 (1783: 
@@ -18188,7 +18188,7 @@ Brown-headed Gull, Lath. Gen. Syn. iii. pt. 2, p. 383 (1785).
 Laughing Gull, Lath. Gen. Syn. iii. pt. 2, p. 383 (1785: partim). 
 Le Petit Goiland, Daubent PL Fnl. pi. 969 (1786). 
 Laxus erythropus, Gm. S. N. i. p. 597 (1788). 
-Larus cinerarius, Schaff. Mus. Om. p. 63 (1789); Pall. Zoogr. Rosso* 
+Larus cinerarius, Schaff. Mus. Orn. p. 63 (1789); Pall. Zoogr. Rosso* 
 
 
 Asiat ii. p. 326 (1811). 
@@ -18196,15 +18196,15 @@ Larus atricilla {nee Linn.), Retzius, Faun. Suec. p. 160 (1790); Pall
 
 Zoogr. Rosso-Asiat. ii. p. 324 (1811). 
 Brown Gull, Lath. Gen. Syn. Suppl ii. j). 331 (1801: winter pi.). 
-Larus canescens, Bechst. Om. Taschenb. ii. p. 370 (1803). 
+Larus canescens, Bechst. Orn. Taschenb. ii. p. 370 (1803). 
 Larus nasvius, Pall Zoogr. Rosso-Asiat. ii. p. 327 (1811). 
-Larus capi&tratus, Temm. Man. d' Om. ed. 2, ii. p. 785 (1820); 
+Larus capi&tratus, Temm. Man. d' Orn. ed. 2, ii. p. 785 (1820); 
 
 Meyer, Taschenb. iii. p. 204 (1822); Brehm, Beitr. Vogelk. iii. 
 
 p. 839 (1822) j id. Lehrb. p. 725 (1824); Steph. in Shaw 8 Gen. 
 Zool. xiii. pt. 1, p. 204 (1826) ; Fleming, Brit. Anim. p. 142 (1828); 
-Savi, Om. Tosc. iii. p. 72 (1831) ; Jenyns, Man. Brit Vertebr. 
+Savi, Orn. Tosc. iii. p. 72 (1831) ; Jenyns, Man. Brit Vertebr. 
 p. 272 (1835); Temm. Man. oVOrn. 2e $d. 4e pte. p. 485 (1840); 
 Selys-Longch. Faune Beige, p. 152 (1842); Tarr. Brit B. ed. 2, 
 iii. p. 547 (1845); Schl. Vog. Nederl p. 604, pi. 354 (1854); 
@@ -18224,7 +18224,7 @@ VOL. xxv. *
 LARIDJE. 
 
 (1856); Bettoni, Ucc. Nidif. Lomb. ii. pi. 98 (1868); Severtz. 
-Turkest Jevotn. p. 70 (1878); Olphe-Gall. Om. Bur. Occident. 
+Turkest Jevotn. p. 70 (1878); Olphe-Gall. Orn. Bur. Occident. 
 fasc. x. p. 07 (1886). 
 
 Gavia capistrata, Kaup, Nathrl Syst. p. 98 & p. 196 (1829); Macgill. 
@@ -18266,7 +18266,7 @@ Feilden, Zool s. s. p. 3287 (1872 : Osteroe, Fseroes, breeds); Gould,
 B. Gt Brit. y. pi. 64 (1873); Swinhoe, Ibis, 1874, p. 165 (Hakodadi); 
 David et Oustal. Ois. Chine, p. 520 (1878); Gigl. Ibis, 1881, p. 218 
 (Italy) j Menzbier, Bull Soc. Mosc. lviii. no! 1, p. 136 (1883); 
-Badde, Om. Cam. p. 482 (1884); Giglioli, Avif Ital. p. 424 (1886) ; 
+Badde, Orn. Cam. p. 482 (1884); Giglioli, Avif Ital. p. 424 (1886) ; 
 Taczan. Ornis, 1888, p. 507 (Poland, the only Gull that breeds); 
 Badde fy Walter, Ornis, 1889, p. 125 (Transcaspia); Giglioli, 1° 
 Besoc. Av. Ital. p. 641 (1889); id. 2° Besoc. p. 648 (1890: breeds, 
@@ -19959,7 +19959,7 @@ Salvad. Ucc. Sard. p. 126 (1864); Degl. # Gerbe, Orn. Eur. ii.
 p. 422 (1867); Doderl Arif. Sicil. p. 236 (1869); Wyatt, Ibis, 
 1870, p. 9 & p. 18 (Tor, Sinai Peninsula); Ehves fy Buckley, t c. 
 p. 337 (Turkey); Maunders, Ibis, 1871, p. 400 (S.W. Spain); 
-Shelley, B. Egypt, p. 306 (1872); HewjL Om. N.O.-Afr. ii. pt. 2, 
+Shelley, B. Egypt, p. 306 (1872); HewjL Orn. N.O.-Afr. ii. pt. 2, 
 p. 1412 (1873); Brooke, Ibis, 1873, p. 347 (Sardinia) ; Irby, Orn. 
 Strs. Gibr. p. 212 (1875); Blanf. East. Persia, ii. p. 291 (1876: 
 Mekran coast); Bree, B. Eur. 2nd ed. v. p. 72 (1876); Saunders, 
@@ -20536,20 +20536,20 @@ The Great Black and White Gull, Albin, Nat Hist. B. iii. p. 89,
 pL 94 (1740); Pennant, Brit Zool. (fol.) p. 140, pi. 1. (1766); id. 
 2nd ed. p. 410 (1788). 
 
-Le Gtiiland noir, Briss. Om. vi. p. 158 (1760). 
+Le Gtiiland noir, Briss. Orn. vi. p. 158 (1760). 
 
 Larus marinus, Linn. Si/st, Nat. i. p. 225 (1766) ; P. L. S. Mull. S. 
 N p. 346 (1773); Mohr, Island Naturk. p. 42 (1766); Fabr. 
 Faun. Grmnl. p. 102 (1780); Gm. S. N. i. p. 598 (1788); Betziui, 
 
 F. Suec. p. 156 (1790); Bonn. Em. Meth. i. p. 84 (1790); Lath. 
-Ind. Om. ii. p. 813 (1790) ; Bechst. Naturg. Deutsehl. ii. p. 815 
+Ind. Orn. ii. p. 813 (1790) ; Bechst. Naturg. Deutsehl. ii. p. 815 
 (1791); Wolf Sf Meyer, Naturg. Tog. Deutsehl Heft six. p. 53, 
 cum tab. (1805); Meyer $* Wolf, Taschenb. Tog. Deutsehl ii. p. 465 
 (1810): Pallas, Zoogr. Rosso-Asiat. ii. p. 321 (1811: Baltic); 
 Meyer, Vog. Lio- u. Esthl. p. 230 (1815); Meisner 4" Schinz, Vog. 
 Schioeiz, p. 266 (1815); Temm. Man. d'Orn. p. 490 (1815) ; Koch, 
-Si/st Baier. Zool. p. 370 (1816); Miss. Om. Suec. p. 164 (1817); 
+Si/st Baier. Zool. p. 370 (1816); Miss. Orn. Suec. p. 164 (1817); 
 Ciwier, Pegne An., Ois. p. 340, Atlas, pi. 92 (1817); E. Sabine, 
 Tr. Linn. Soe. xii. p. 543 (1818: Baffin B., once); Temm. Man. 
 d'Om. 2nd ed. p. 760 (1820); Boie, Isis, 1822, p. 562; Brehm, 
@@ -20561,16 +20561,16 @@ Franc., Ois. p. 392 (1828); Bp. Ann. Lye. N. T. ii. p. 362 (1828);
 Werner, Atlas, Palmipedes, pi. 17 (1828) ; Fleming, Brit An. 
 
 p. 140 (1828); Brehm, Tog. Deutsehl. p. 731 (1831); Selby, Brit. 
-B. ii. p. 507, pi. xcvii. (1833); Nuttall, Man. Om, ii. p. 308 
-(1834); Jenyns, Man. Brit. Tertebr. p. 278 (1835); Audub. Om. 
+B. ii. p. 507, pi. xcvii. (1833); Nuttall, Man. Orn. ii. p. 308 
+(1834); Jenyns, Man. Brit. Tertebr. p. 278 (1835); Audub. Orn. 
 Biogr. iii. p. 305 (1835), and v. p. 636 (1839); Ei/ton, Cat 
 Brit. B. p. 53 (1836); Gould, B. Eur. v. pi. 430 (1837); Bp. 
 Co?np. List B. Eur. fy N. Amer. p. 63 (1838); Audub. Synop. 
 p. 329 (1839); Nawn. Tog. Deutsehl. x. p. 438, taf. 268, 269 
 (1840); Schinz, Europ. Faun. p. 379 (1840); Temm. Man. d'Om. 
-e*d. % 4m* pte. p. 471 (1840); Crespon, Om. Gard, p. 481 (1840) ; 
+e*d. % 4m* pte. p. 471 (1840); Crespon, Orn. Gard, p. 481 (1840) ; 
 Keys. %- Bias. Wirb. Eur. p. xcvii & p. 245 (1840); Macgill Man. 
-Brit. Om. pt. ii. p. 244 (1842) ; Selys-Longeh. Faun. Belg. p. 154 
+Brit. Orn. pt. ii. p. 244 (1842) ; Selys-Longeh. Faun. Belg. p. 154 
 VOL. XXV. B 
 
 IARIDJE. 
@@ -20921,7 +20921,7 @@ Purchased.
 
 Black-backed Gull (part.), Lath. Gen. Sign. iii. pt. 2, p. 372 (1785: 
 as regards the Cape of Good Hope). 
-Larus marinus, Lath. Ind. Om. ii. p. 814 (1790: as regards C. of G. 
+Larus marinus, Lath. Ind. Orn. ii. p. 814 (1790: as regards C. of G. 
 Hope); Fonter, Descr. Anvm. p. 313 (1844: South Georgian Is.). 
 
 LA.BIDJE. 
@@ -21774,7 +21774,7 @@ p. 176 & p. 814; Blanford, East. Pen. ii. p. 290 (1876 : Balnch.
 istan). ' 
 Larus cachinnans, Liclit. (nee Pall) Nomencl Av. p. 99 (1854: Arabia)*; 
 Mems9 (Efi). K. J etensh.-AJc. Fork. 1871, p. 786 (Oholmogony, 
-Dwina); Heugl Om. N.O.-Afr. Bd. ii. p. 1392 (1873, partira: 
+Dwina); Heugl Orn. N.O.-Afr. Bd. ii. p. 1392 (1873, partira: 
 [as regards Somali coast]) ; Meves $ Homeyer, Ornis, 1886, p. 275 
 (Lower Dwina). 
 
@@ -21792,7 +21792,7 @@ Hums, Sir. F. viii. p. 115 (1879 : List); Vidal, op. cit. ix. p. 94
 Drener, B. Eur. viii. p. 417 (1880); Scl. # Hartl. P. Z. S. 1881, 
 p. 174 (Socotra I.); Itidgw. Bull. U.S. Nat. Mus. no. 21, p. 52 
 (l&>\: GreenL); OlpAe-GalL Ibis, 1885, p. 236 (Hendaye, S.W. 
-France); id. Om. Evr. Occid. fasc. x. p. 06 (1886); A. 0. U. 
+France); id. Orn. Evr. Occid. fasc. x. p. 06 (1886); A. 0. U. 
 i%eek~l X. Amer. B. p. 89 (1880 : Greenland); Bidgw. Man. N. 
 Amer. II p. 29 (Ib87): Pleshe, Mini. Acad.St. PStersb. (7) xxxvL 
 p. 56 \lHhS: Turkestan). 
@@ -21939,7 +21939,7 @@ Col Yerbury [P.J.
 [?] Laras 
 argentatus, Nord?n. in Ermarts Beis. urn die Erde, Atlas, 
 Verzeichn. Th. u. Pfl. p. 18 (1835: California). 
-Larus occidentalism Aud. Om. Biogr. v. p. 820 (1839); id. Si/nop, 
+Larus occidentalism Aud. Orn. Biogr. v. p. 820 (1839); id. Si/nop, 
 
 p. 328 (1839); id. B. N. Amer. 8vo ed. vii. p. 161 (1844); Gray, 
 Gen. B. ill. p. 654 (1846) ; Baird, Cass., fy Law. B. N. Amer. 
@@ -22879,14 +22879,14 @@ Glaucus leucophaaus, Bruch, J.f 0. 1853, p. 101 (Red Sea).
 Laroides leucophseus, Bp. Naumannia, 1854, p. 212; id. Consp. Av. 
 
 ii. p. 219 (1857); id. C. B. xlii. p. 219 (1857: Mediterranean) ; 
-Olphe-Gall Om. Bur. Occid. fasc. x. p. 63, note (1886). 
+Olphe-Gall Orn. Bur. Occid. fasc. x. p. 63, note (1886). 
 Larus epargyrus, Licht. Nbmencl. Av. Mus. Berol. p. 99 (1854) [type 
 examined], 
 Laroides rnichahellesii, Bruch, J.f. 0.1855, p. 282; Brehm, Naum. 
 1855, p. 294; Bp. C. JR. xlii. p. 770 (1856); id. Consp. Av. ii. 
 
 p. 219 (1857: Mediterranean). 
-Laroides cachinnans, Bruch, J.f 0. 1855, p. 282; Olphe-Gall Om. 
+Laroides cachinnans, Bruch, J.f 0. 1855, p. 282; Olphe-Gall Orn. 
 Bur. Occid. fasc. x. p. 61 (1886). 
 Dominicanus fuscescens, Bruch, J. f O. 1853, p. 100 (part.) (S.B. 
 Europe). 
@@ -23653,17 +23653,17 @@ Mais. Cauc. p. 55 (1832); Selby, Brit. B. ii. p. 490, ph xciii.
 (1833); Jemms, Man. Brit Tertebr. p. 275 (1835) : Eyton, Cat. 
 Brit. B. p. 52 (1836); Gould, B. Bur. v. pi. 437 (1837); Bp. 
 Comp. List B. Bur. § N. Amer. p. 63 (1838); Naum. Vog. 
-Deutschl. p. 301, pi. 261 (1840) ; Crespon, Om. Gard, p. 485 
+Deutschl. p. 301, pi. 261 (1840) ; Crespon, Orn. Gard, p. 485 
 (1840) ; Keys. u. Bias. Wirb. Eur. p. xcvi & p. 244 (1840); Nordm. 
 in Demicl Voy. Buss. Merid. iii. p. 280 (1840); Selys-Longch. 
-Faun. Belq. p. 153 (1842); Macgill. Man. Brit Om. pt. ii. p. 248 
-(1842); Bouteille, Om. Dauph. ii. p. 244 (1843); Milhle, Om. 
+Faun. Belq. p. 153 (1842); Macgill. Man. Brit Orn. pt. ii. p. 248 
+(1842); Bouteille, Orn. Dauph. ii. p. 244 (1843); Milhle, Om. 
 Grieclienl. p. 141 (1844) ; Crespon, Faun. Mind, ii. p. 124 (1844); 
 Schl. Jtev. Crit p. cxxv (1844); Gray, List B. Brit. Mus., Anseres, 
 
 p. 171 (1844); Yarr. Brit B. 2nd ed. iii. p. 570 (1845); Heiuits. 
 Eggs Brit B. ii. p. 441, pi. cxxv. (1846); Gray, Gen. B. iii. p. 654 
-(1846); DegL Om. Eur. ii. p. 313 (1849); Thomps. B. Irel iii. 
+(1846); DegL Orn. Eur. ii. p. 313 (1849); Thomps. B. Irel iii. 
 p. 348 (1851); IZjcerb. Damn. Fugle, p. 339, tab. xlii. (1852); 
 Macgill. Brit B. v. p. 575 (1852); Schl. Vog. Nederl. p. 599, 
 pi. 349 (1854); Licht Nomencl. Ai\ p. 69 (1854); Heugl. Syst 
@@ -23678,7 +23678,7 @@ Fogl pi. 49. fig. 6 (1863); Newton in S. B.-Gould's Iceland,
 p. 418 (1863: one imm.); Schl. Mus. P.-Bas, Lari, p. 22 (1863); 
 Gray, Cat Brit. B. p. 233 (1863); Padde, Beis. Sibir., Vog. p. 387 
 (1863); Sahad. Ucc. Sard. p. 128 (1864); Wright, Ibis, 1864, 
-p. 151 (Malta); Degl et Gerbe, Om. Eur. ii. p. 424 (1807) ; Loche, 
+p. 151 (Malta); Degl et Gerbe, Orn. Eur. ii. p. 424 (1807) ; Loche, 
 Expl. Sc. Algh\, Ois. ii. p. 184 (1867); Eoliz, J.f. 0. 1868, p. 124 
 (I. of Gottland, breeds); Borggr. Vogelf Norddeutschl. p. 143 
 (1869); Doderl Avif. Sicil. p. 235 (1869) ; Fritsch, Vog. Eur. p. 476, 
@@ -23690,11 +23690,11 @@ Egypt, p. 305 (1872: Damietta) ; Harting, Handb. Brit. B.
 p. 77 (1872); Gould, B. Gt Brit v. pi. 60 (1873); Palmen, 
 Finl Fogl. p. 506 (1873); Alston § R-Br. Ibis, 1873, p. 52 
 (Archangel); Brooke, t. c. p. 347 (Sardinia); Sharpe § Dresser, 
-B. Eur. viii. p. 381, pi. 600 (1873); Heugl. Om. N.O.-Afr. 
+B. Eur. viii. p. 381, pi. 600 (1873); Heugl. Orn. N.O.-Afr. 
 Bd. ii. pt 2, p. 1377 (1873: Nile up to Khartoum); Severtz. 
 Turlxest. Jevotn. p. 70 (1873), and Dresser's transl. Ibis, 1876, 
 p. 415 (Aral to Balkask); Dumford, Ibis, 1874, p. 402 (N. Frisian 
-Is.) ; Irby, Om. Strs. Gibr. p. 214 (1875); Blanf. East Persia, ii. 
+Is.) ; Irby, Orn. Strs. Gibr. p. 214 (1875); Blanf. East Persia, ii. 
 p. 291 (1876: Bushire); Seed. $ H-Br. Ibis, 1876, p. 451 (Lower 
 Petchora, breeds); Collett, Nyt Mag. Naturv. 1877, p. 208 (N. 
 Norway); Saunders, P. Z. S. 1877, p. 799 (Japan) ; David $ Oust 
@@ -24454,7 +24454,7 @@ Bull Nutt. Orn. Club, 188tf, p. 125 (Bay of Fuudy^ ; Merrill,
 
 t. c. p. 125 (Grand Menan). 
 Larus 
-kumlieni, Brewster, Bull. Nntt. Om. Club, 1883, p. 216 
+kumlieni, Brewster, Bull. Nntt. Orn. Club, 1883, p. 216 
 (Cumberland Sd. and Bay of Pundy) ; Park, Auk, 1884, p. 196 
 
 (N. York State); Baird, Brewer, 8$ Bidqw. Water-B. N. Amer. 
@@ -24490,9 +24490,9 @@ Davis Straits, June 10, 1884
 (Henderson), 
 
 43. Larus glaucus. 
-Lams glaucus, Briinn. Om. Bor. p. 44 (1764: Iceland); Fair. Faun. 
+Lams glaucus, Briinn. Orn. Bor. p. 44 (1764: Iceland); Fair. Faun. 
 Graml. p. 100 (1780, ex Briinn.); Molir, Island. Naturh. p. 42 
-(1786) ; Gm. 8. N. i. p. 600 (1788); Lath. Ind. Om. ii. p. 814 (1790); 
+(1786) ; Gm. 8. N. i. p. 600 (1788); Lath. Ind. Orn. ii. p. 814 (1790); 
 Bonn. Enc. MM. i. p. 841 (1790); Retzius, Faun. Suec. p. 156 (1800); 
 VOL. xxv. TJ 
 
@@ -24572,7 +24572,7 @@ lbrh P- 199
 S"f'G{aTsJ' <' E-Brwm, t. c. p. 210 (Forth); Ctos, 
 2? A.-?Jgf,p.620 (1874); >W^ . (E/y. ^ . Fork 1874, p. 21 
 (Mos*el Bay;; Swinh. Ibis, 1874, p. 105 (N. Japan); j?esse&, 
-Bull. Soc. Geoffr. Paris, 1875, p. 296 (Polaris Bay); 2>fy, Om. 
+Bull. Soc. Geoffr. Paris, 1875, p. 296 (Polaris Bay); 2>fy, Orn. 
 Sirs. Gihr. p. 215 (1875: Tangier); A Newton, Arctic Man. 
 
 p. 106 (Ibioj ; Seehohm § H-Bfovm, Ibis, 1876, p. 453 (Lower 
@@ -25476,7 +25476,7 @@ Laivr. B. N. Amer. p. 856 (1858); Evans fy Sturge, Ibis, 1859,
 p. 171 (West. Spitsbergen) ; Bernhardt, op. cit 1861, p. 18 
 (Greenland); A. Newton, Ibis, 1865, p. 507 (Spitsbergen); Gray, 
 Cat Brit B. p. 237 (1863); E. P. Wright, Ibis, 1866, p. 216 
-(Prince Patrick I.); Degl § Gerbe, Om. Eur. ii. p. 405 (1867) ; 
+(Prince Patrick I.); Degl § Gerbe, Orn. Eur. ii. p. 405 (1867) ; 
 Loche, Expl. So. Alger.,Ois. ii. p. 188 (1867: Algeria [?]) ; Fritsch, 
 Vog. Eur. p. 464, tab. 55. figs. 3 & 5 (1870); Gillett, Ibis, 1870, 
 
@@ -25489,7 +25489,7 @@ B. Eur. viii. p. 349, pi. 595 (1877); Collett, N. Mag. Naturv.
 Sound); id. Zool. 1878, p. 417; id. op. cit 1879, p. 8 (Pr. Albert 
 Land) ; Saunders, P. Z. S. 1878, p. 162 (revision LarinEe) ; Kum-
 lien, Bull. U.S. Nat Mus. no. 15; p. 99 (1879: Cumberland 
-Sound); Brewster, Bull. Nutt Om. C. p. 187 (1881: New Brunswick) 
+Sound); Brewster, Bull. Nutt Orn. C. p. 187 (1881: New Brunswick) 
 ; Bidgio. Bull. U.S. Nat Mus. no. 21, p. 51 (1881); Feildm 
 in Markhamh Polar Recomi. p 334 (1881: Novaya Zemlya); 
 id. Tr. Nona. Soc. iii. pp. 209-211 (1881: Franz-Josef Ld.); 
@@ -25513,7 +25513,7 @@ $ H-Br. Faun. Orkney Is. p. 229 (1891); iid. Faun. Argyll $
 Inn. Eebr. p. 189 (1892); Fatio fy Studer, Cat Ois. Suisse, p. 62 
 (1892 : Lake Leman); Lilford, Col Figs. Brit B. pt. xxvi. (1893). 
 Gavia nivea, Brehm, Vog. Deutschl p. 766 (1831). 
-Cetosparactes eburneus, Macgill Man. Br. Om. pt. ii. p. 252 (1842); 
+Cetosparactes eburneus, Macgill Man. Br. Orn. pt. ii. p. 252 (1842); 
 
 
 id. Brit B. v. p. 508 (1852). 
@@ -26956,14 +26956,14 @@ Mk VON. App. p. 196 (1828: 82° N. beyond Spitzbergen); Bp.
 Ann. Lye. 3 . F n. p. 364 (1828); Kaup, Xatilrl Syst. p. 63, p. 64, 
 
 p. 105 fl^29); Swains. § Riekardi. Faun. Bor.-Amer., Bii'ds, 
-p. 429 (1831) ; Lesion, Traits, p. 616 (1831); Savi, Om. Tosc. iii. 
-p. 48 (1S31); Xrfte//, Jiim. Or/z. ii. p. 314 (1834); Audub. Om. 
+p. 429 (1831) ; Lesion, Traits, p. 616 (1831); Savi, Orn. Tosc. iii. 
+p. 48 (1S31); Xrfte//, Jiim. Or/z. ii. p. 314 (1834); Audub. Orn. 
 B'mr. iii. p. 396 (1835); Jenipis, Man. Brit. Vertebr. p. 281 
 (183.>l: Gould, B. Em\ v. pi. 440 (1837) ; Bp. Comp. List B. Fur. 
 cV X Amer. p. 153 (1S3S) ; .4i^6. 6^nop. p. 332 (1839) ; Temm. 
 M*m. ffOm. -2» pi. 4™ pte. p. 495 (1840); Schinz, Europ. Faun. 
 p. ;fcss (1^40*; 3V;//n. Toy. Beutschl x. p. 487, taf. 271 (1840) ; 
-Kw/*. a. Blm. WirL Eur. p. xciv & p. 240 (1840); Crespon, Om. 
+Kw/*. a. Blm. WirL Eur. p. xciv & p. 240 (1840); Crespon, Orn. 
 Gard, p. 4'»4 11^40); Bo. Cat. Tier. Eur. p. 80 (1842) ; Audub. 
 B. 
 X Amt<r. viii. p. 1S6, pi. 451 (1844) ; Giraud, B. Long IsL 
@@ -26975,7 +26975,7 @@ Mem. Sibir., ZmL p. 240, xxiv. fig. 1 (eg£?) (1853); Xzc/tf. Nomencl
 Ar. p.OU (1*54): >SV<//%. J%. X^r/r p. 588, pis. 335 & 836 
 {IS>4>: /;r^?»t JVawm. 1855, p. 294; itf. Vogelfanq,^. 336(1855); 
 Bp. (hmp. Av. ii- pp. 207,208 (1857); Meyer, Brit B. vii. p. 171, 
-pi. 313 (1^57); Jaub. et B.-Lapomm. Rich. Om. Midi Fr. 
+pi. 313 (1^57); Jaub. et B.-Lapomm. Rich. Orn. Midi Fr. 
 p. 3*5 (1859); Sehl Bier. Nederl. Vogels, p. 232, pi. 33. figs. 5-7 
 (WJI) ; Miilier, Videnik. Meddel. 1862, p. 64 (1863: Faeroes) ; 
 Sundev. Sc. FtigL pi. 51. fig. 1 (1863); Jerdon, B. India, ii. pt. 2, 
@@ -26992,13 +26992,13 @@ Grnitt, 18S5, p. 80 (Germany); LuiJcen, t. c. p. 145 ; Grondal, op. cit.
 19m, p. 370 (Iceland); fschusi$ B. Torre, op. cit. 1887, p. 351 
 (Stvria); Schneider, t. c. p. 551 (Upper Alsace : young on migr.) ; 
 Harierf, MT. orn. Ver. Wien, 1887, p. 180 (East Prussia); 
-Mksenik. Wamervfkp Mittekurop. p. 130 (1889); Keller, Om. 
+Mksenik. Wamervfkp Mittekurop. p. 130 (1889); Keller, Orn. 
 Carinthfa, p. 299 (1890); Jacket Sc Bias. Vog. Bayerns, p. 354 
 (1891); CMike, Vogehv. Hehjol p. 589 (1891); Lilford, Col Figs. 
 Brit B. pt. xxl (1892): Gathe, B. Heligol p. 566 (1895); 
 Lmmm, B. Cala. Acad. v. p. 213 (1895 : Monterey). 
 Lefttris paraeltxca (part.), 
-Miss. Om. Suec. p. 181 & p. 184 (1817); 
+Miss. Orn. Suec. p. 181 & p. 184 (1817); 
 *" on, Votf.l Blossom/ Birds, p. 39 (1839: Bering Str.: " knobbed 
 tail "). 
 
@@ -27432,7 +27432,7 @@ Biiifuii/ which is $. crepidatus.
 Catanvcta eephus, Z«?dfc, %s£. Cat. Mamm. &c. Brit. Mus. p. 39 
 (l^J): Orkney). 
 
-Lt<ii> para»iti<Ta, Xilss. (part.) Om. &#<?. p. 181 & p. 184(1817: 
+Lt<ii> para»iti<Ta, Xilss. (part.) Orn. &#<?. p. 181 & p. 184(1817: 
 jr.i ; U AVito^ Jr. Linn. Soc. xii. pt. 2, p. 553 (1819: Davis 
 Sir. : TVw/i. (part.) J/«w. <fOm. p. 796 (1820); Faber, Prodr. 
 iVW . Or/<. p. 105 (1622); Boie, Isis, 1822, p. 562; Veitck, 
@@ -28672,19 +28672,19 @@ Button, Ibis, 1867, p. 190; Degl. 8? Gerbe, Orn. Eur. ii. p. 364
 Norges Fugle, p. 76 (1868); Sperling, Ibis, 1868, p. 203; Smith, 
 Ibis, 1868, p. 459 ; Borggr. Vogelf. p. 240 (1869); Saund. Ibis, 
 1869, p. 171; id. op. cit. 1871, p. 4*01; Doderl. Avif. Sicil. p. 229 
-418G9) ; F. Boie, J. f. Orn. 1869, p. 98 ; Tacz. J. f. Om. 1870, 
+418G9) ; F. Boie, J. f. Orn. 1869, p. 98 ; Tacz. J. f. Orn. 1870, 
 p. 55 ; Finsch §• Hartl. Yog. Ostafr. p. 814 (1870); It. Gray, Birds 
 W. Scotland, p. 507 (1871); Broole, Ibis, 1873, p. 348 ; Dresser, 
 Birds Fur. viii. p. 491 (1874) ; Irby, Birds Gibraltar, p. 217 
 (1875); id. op. cit. ed. 2, p. 309 (1895); JDanf. $ H.-Brown, Ibis, 
-1875, p. 433; Rowley, Om. Misc. i. p. 133 (1876), ii. p. 110 (1877); 
+1875, p. 433; Rowley, Orn. Misc. i. p. 133 (1876), ii. p. 110 (1877); 
 Maynard, Birds E. N. Am. p. 491 (1879); Coppinger, Cruise of 
 the 'Alert,1 pp. 13,17 (1882); Chapman, Ibis, 1884, p. 98; Dixon, 
 Ibis, 1885, p. 95; Arevalo, Aves de Esp. p. 407 (1887); A. Koenig, 
-J. f. Om. 1890, p. 464; Lilford, Birds Northamptonshire, p. 418 
+J. f. Orn. 1890, p. 464; Lilford, Birds Northamptonshire, p. 418 
 (1893). 
 Hydrobates faeroensis, C. L. Brehm, Yog. Deutschl. p. 803 (1831). 
-Thalassidroma melitensis, Schembri, Om. del Gruppo di Malta, 
+Thalassidroma melitensis, Schembri, Orn. del Gruppo di Malta, 
 
 p. 118, pi. (1843); Strv'H. Ann. 8f Mag. N. H. adv. p. 348 
 (1844); Gray, Gen. Birds, iii. p. 648 (1844); Beich. Av. Syst. Nat., 
@@ -28880,11 +28880,11 @@ p. 219, pi. 25 (1826); Eoioley, Ibis, 1860, p. 200; Ehues, Ibis, 1869,
 p. 28; Fritsch, Vog. Bur. pi. 61.fipr. 5 (1870); v. Droste, J.f. Orm. 
 1870, p. 381; Seeb. Hist Brit. Birds, iii. p. 443, pi 56 (1885); id. 
 Birds Jap. Emp. p. 270 (1890). 
-Procellaria "bullocki, Bern. Brit Amm. p. 136 (1828); Bowleg, Om. 
+Procellaria "bullocki, Bern. Brit Amm. p. 136 (1828); Bowleg, Orn. 
 Misc. ii. p. 101, pis. 48, 49 (1876) j Borrer, Birds Sussex, p. 284 
 (1891). 
 
-Thalassidroma leachii, And. Om. Bior/r. iii. p. 434, pi. 260 (1835) ; 
+Thalassidroma leachii, And. Orn. Bior/r. iii. p. 434, pi. 260 (1835) ; 
 id. Birds N. Am. vii. p. 219, pi. 459; Gould, Birds Eur. v. pi. 447 
 (1837); id. Birds Great Brit. v. pi. 85 (1873); Bp. Comp. List, 
 
@@ -28894,13 +28894,13 @@ JSTaum. Vog. Beutschl. x. pi. 275. %. 2 (1840) ; Selys, Faun. Beige,
 p. 157 (1842); Schl. Rev. Crit Ois. Eur. p. cxxxiii (1844); id. Vog. 
 Nederl i. pi. 583 (1854); id. Bier. Nederl. Vog. pi. 33.fig. 3 (1861); 
 Gray, List Anseres Brit. Mus. p. 160 (1844); id. Gen. Birds, iii. 
-p. 648 (1844); id. Cat Brit Birds, p. 225 (1868); Kjrnrb. Om. Ban. 
+p. 648 (1844); id. Cat Brit Birds, p. 225 (1868); Kjrnrb. Orn. Ban. 
 pi. 54112:. 9 (1851); Beieh. Av. SystNat, Natatores,y\. 16.figs. 781-2, 
 pi. 19. %s . 2721-22 (1850); Thompson, Nat. Hid. Irel, Birds, iii. 
 y. 415 (1851); Macgill Hist Brit Birds, v. p. 451 (1852); Brehm, 
 JSTaum. 1855, p. 296; id. Voqelf. p. 354; Heimts. Eggs Brit. Birds, 
 ii. p. 520, pi. 145. fig;. 2 (1856) ; Bp. Compt Bend. xiii. p. 769 
-(1856); Jaub. fy Barth.-Lapomm. Bich. Om. p. 384 {1858); Later. 
+(1856); Jaub. fy Barth.-Lapomm. Bich. Orn. p. 384 {1858); Later. 
 Birds N. Am. p. 830 (1860); Bias, <$• Bald., Naum. Vog. Beutschl. 
 xiii. pt. 2, p. 277 (1860); Beinh. Ibis, 1861, pp. 3, 16; Schrench, 
 BeiseAmurl. p. 515; Swinh. P. Z. 8. 1863, p. 330; More, Urn, 
@@ -28916,8 +28916,8 @@ Oymochorea
 leucorrhoa, Coues, Pr. Ac, Phil. 1864, pp. 75, 90; id. 
 Key N. Am. Birds, p. 329 (1872), ed. 2, p. 781 (1884); id. Chechlist 
 N. Am. Birds, p. 126 (1882); Gigl. Faun. Vert. Oceana, p. S7 
-(1870); Brewster, Bull. Nutt Om. Club, vi. p. 125; Merrill, 
-Bull, mitt Om. Club, vi. p. 249; Salv. Cat. StricM. Coll p. 628 
+(1870); Brewster, Bull. Nutt Orn. Club, vi. p. 125; Merrill, 
+Bull, mitt Orn. Club, vi. p. 249; Salv. Cat. StricM. Coll p. 628 
 (1882); Steams, Pr. U.S. Nat Mus. vi. p. 122 (1883); id. New 
 JEngl Bird-Life, ii. p. 382 (1883); Nelson, Cruise c Corwm/ p. 118 
 
@@ -29576,7 +29576,7 @@ Wilson's Stormy Petrel, Nutt. Man., Water-Birds, p. 322 (1834).
 Oceanites wilsoni, Keys. § Bias. Wirb. Bur. pp. xciii, 238 (1840); Bp. 
 Co?isp. Av. ii. p. 199 (1856); id. Compt. Mend. xlii. p. 769 (1856); 
 Borggr. Vogelf. p. 140 (1869); Salvad. Faun. Ital, Uce. p. 301 
-(1871); Gundl Om. Cuba, p. 223 (1876); Layard, Ibis, 1882, 
+(1871); Gundl Orn. Cuba, p. 223 (1876); Layard, Ibis, 1882, 
 pp. 539, 544; Seed. Hist Brit. Birds, iii. p. 449 (1885). 
 
 Thalassidroma oceanica, Schinz, JSurop. Faun. i. p. 397 (1840); 
@@ -29592,7 +29592,7 @@ Tog. Madag. p. 372 (1877) ; Milne-Fdw. Ann. So. Nat, Zool. 1882,
 
 p. 18; M.-Fdw. $ Grand. Hist. Madag., Ois. p. 676, pis. 299, 
 300 (1885); Arevalo, Aves de Fsp. p. 409 (1887); Reichenow, 
-J.f. Om. 1890, p. 107. 
+J.f. Orn. 1890, p. 107. 
 Wilson's Petrel, Yarr. Brit. Birds, iii. p. 516 (1843). 
 Thalassidroma -wilsoni, And. Birds Am. 8vo ed. vii. p. 223, pi. 460 
 (1844) ; Schl. Rev. Crit Ois. Fur. p. exxxiii (1844) ; Gould, Birds 
@@ -29613,7 +29613,7 @@ p. 478 (1865); Gigl. Faun. Vert. Oceano, p. 37 (1870) ; id. Viagg.
 i Magenta] see index (1875); Brooke, Ibis, 1873, p. 348; Allen, 
 Bull. Mus. Co?np. Zool. Cambr. ii. p. 365 (] 874) ; Coues fy Kidder, 
 Bull. U.S. Nat Mus. no. 2, p. 30 (1875); Kidder, Bull. U.S. 
-Nat Mus. no. 3, p. 16 (1876); Sah. in Rowley's Om. Misc. i. 
+Nat Mus. no. 3, p. 16 (1876); Sah. in Rowley's Orn. Misc. i. 
 p. 238 (1876); id. P. Z. S. 1878, p. 735; id. Voy. Chall, Zool. ii. 
 pt. viii. p. 141 (1881); id. Cat Strickl. Coll. p. 628 (1882); Hume 
 Sr Dav. Str. F. vi. p. 490 (1878) ; Dresser, Birds Fur. viii! p. 505, 
@@ -29629,7 +29629,7 @@ Handb. Birds Burnt, ii. p. 437 (1883); Baird, Brew, fy Ridgw.
 Water-Birds N. Am. ii. p. 416 (1884); Brewst Pr. Bost Soc. 
 
 N. H. xxii. p. 364; Turner, Pr. U.S. Nat Mus. viii. p. 253 
-(1885); Wells, Pr. U.S. Nat Mus. ix. p. 632 (1886); Tacz. Om. 
+(1885); Wells, Pr. U.S. Nat Mus. ix. p. 632 (1886); Tacz. Orn. 
 PSr. iii. p. 463 (1886); A. O. U. Check-l. N. Am. Birds, p. 105 
 (1886); Ridgio. Man. N. Am. Birds, p. 71 (1887); Tait, Ibis, 
 1887, p. 397; Fuller, Birds N. Zeal. ed. 2, ii. p. 250 (1888); id. 
@@ -30730,7 +30730,7 @@ bones. Exped.
 ? Shearwater Petrel, var. A, Lath. Gen. Syn. iii. pt. 2, p. 407 (1785). 
 Procellaria gravis. O'Reilly, Voy. to Greenland Sec. p. 140, pi. 12. 
 fig. I (1818). 
-Procellaria major, Faber, Prodr. Isl. Om. p. 56 (1822); Schl Mus. 
+Procellaria major, Faber, Prodr. Isl. Orn. p. 56 (1822); Schl Mus. 
 
 P.-B., vi. Procell. p. 27 (1863). 
 White-faced Petrel, Lath. Gen. Hist. x. p. 185 (1824). 
@@ -30747,18 +30747,18 @@ Mus. p. 158 (1844) ; id. Gen. Birds,iil p. 647 (18&4) ; id. Hand-L
 
 iii. p. 102 (1871); Schl. Rev. Crit. Ois. Eur. p. exxxii (1844); 
 Reich. Av. Syst. Nat., Suppl. Longip. pi. ix. fig. 770 (1850); 
-Ejcerb. Om. Ban., Suppl. (2) pi. 7. fig. 1 (1854); Thomps. Nat. 
+Ejcerb. Orn. Ban., Suppl. (2) pi. 7. fig. 1 (1854); Thomps. Nat. 
 Hist. Irel. iii. p. 407 (1851); Brehm, Naum. 1855, p. 296; 
 id. Vogelf. p. 356; Bp. Consp. Av. ii. p. 203 (1856) ; id. Compt. 
 Bend. xlii. p. 769 (1856); Heioits. Eggs Brit. Birds, ii. p. 516, 
-pi. 144.fig.3 (1856); Hartl. Om. W.-Afr. p. 250 (1856); Lawr.
+pi. 144.fig.3 (1856); Hartl. Orn. W.-Afr. p. 250 (1856); Lawr.
 Birds N. Am. p. 833(1860); JD. Walker, Ibis, 1860, p. 165; | 
 Reinh. Ibis, 1861, p. 16; Bree, Birds Eur. iv. p. 112, pi. (1863): 
 Newton in Baring Gould's Iceland, p. 419 (1863); Coties, Pr. Ac. 
 Phil. 1864, pp. 132,144; id. Key N. Am. Birds, p. 331 (1872), ed. 2, 
 p. 785 (1884); id. Cheek-list N. Am. Birds, p. 128 (1882); Begl. 
-% Gerbe, Om. Eur. ii. p. 376 (1867) ; Taylor, Ibis, 1869, pp. 388, 
-391; v. Droste, J. f. Om. 1869, p. 382; Gurney in Anders. Birds 
+% Gerbe, Orn. Eur. ii. p. 376 (1867) ; Taylor, Ibis, 1869, pp. 388, 
+391; v. Droste, J. f. Orn. 1869, p. 382; Gurney in Anders. Birds 
 Damara-L. p. 350 (1872); Scl § Salv. Nomencl p. 149 (1873) ; 
 GmM, Birds Qt. Brit. v. pi. 88 (1873) ; Allen, Bull Mus. Comp. 
 Zool. Cambr. ii. p. 365 (1874); Cordeaux, Ibis, 1875, p. 187; 
@@ -30862,7 +30862,7 @@ Naum 1855 p 296; id. Vogelf. p. 356; Bolle, J. f. Orn. 1857,
 p. £$44; Jaub. $ Barth.-Lapomm. Pick. Orn. Fr. p. 381 (1858); 
 Jones, Nat. Bermuda, p. 54 (1859); Powys, Ibis, 1860, p. 357; 
 Drouet, Faun. Agor. p. 127 (1861); Wright, Ibis, 1863, p. 436,1864, 
-p. 153; Bree, B. Fur. iv. p. 109, pi. (1863); Krupev, J.f. Om. 1863, 
+p. 153; Bree, B. Fur. iv. p. 109, pi. (1863); Krupev, J.f. Orn. 1863, 
 p. 336; Locke, Expl. Sci. AlgSr., Ois. ii. p. 174(1867); Begl $ 
 Gerbe, Ois. Fur. ii. p. 375 (1867) ; Boderl Avif. Sicil. p. 228 
 (1869); Flwes $ BUGH. Ibis, 1870, p. 336; Sound. Ibis, 1871, p. 401; 
@@ -30882,7 +30882,7 @@ N. Am. Birds, p. 128 (1882); Salvad. Atti Soc. Ital So. Nat.
 vi p. 132 (1864); id. Faun. Ital, Ucc. p. 298 (1871); Pekehi, 
 Voy. Novara, Zool. i. Fog. p. 142 (1869) ; Gray, Hand-l iii. p. 102 
 (1871); Shelley, Birds Egypt, p. 311 (1872); Scl. 8f Salv. Nomencl. 
-Av. Neotr. p. 149 (1873); Heugl. Om. N.O.-Afr. ii. p. 1367 
+Av. Neotr. p. 149 (1873); Heugl. Orn. N.O.-Afr. ii. p. 1367 
 (1873); Irby, Birds Gibr. p. 217 (1875); id. op. eit. ed. 2, p. 308 
 (1895); Dresser, Birds Fur. viii. p. 513, pi. 615 (1877); E. C. 
 Taylor, Ibis, 1878, p. 374; Sharpe, Phil Trans, clxviii. p. 122 
@@ -31064,7 +31064,7 @@ Phil" ~ • '" " ~ " ' ~ ~ —— -P-
 
 Azores, pp/39, 42 (1870); Turnbidf,"Birds qf E. Lothian, p. 35 
 (1867); %/ . I- Gfcrfe, Onz. -Ear. ii. p. 378 (1567); Ehces, Ibi*9 
-1869, p. 35; Taylor, Ibis, 1809, p. 391; r. JDrosfr, J. f. Om. 1&&, 
+1869, p. 35; Taylor, Ibis, 1809, p. 391; r. JDrosfr, J. f. Orn. 1&&, 
 
 p. 382; R.'Gray, Birds W. Scotland p. 503 (15711: Irty, Birds 
 Gibr. p. 217 (1875), ed. % p. 300(1895): tf.i&w, IS53,p.li*»; 
@@ -31077,11 +31077,11 @@ p. 719 (1889); Serb. Hist. Brit. Bird*, iii. p. 420, pi. 50 il^'t ;
 ttf. JJw. 1890, p. 408 ; Dt\ron. Ibis. 1^2, pp. ft4, ;>il; JRttW, Bt \ 
 1885, p. 254, l&feS, p. 80; 'Booth, Rough NJes Brit. Bird*, i L 
 p. — (1880); Aricah, Aces de Esp. p. 400 (1 ^71; Tnit, Hi*. 1 ^7, 
-p. 397; Stevens. Birds Norf. iii. p. 305 | WXh; Kutttit/, J. f, Om. 
+p. 397; Stevens. Birds Norf. iii. p. 305 | WXh; Kutttit/, J. f, Orn. 
 1890, p. 402; Borrer, Birds Sussex, p. 2^3 11^01 J; Ihiekl 4* //.Brown, 
 Vert Faun. Orhi. p. 242 (1801); Meade-Waldo, Ibis, I*!rt>, 
 p. 206 ; Lilford, Birds Northamptonshire, p. 412 (1»)3|. 
-Puffinus arcticus, Falter, Prorlr. Id. Om. p. 150 f lts22f; Brekmf Vwf. 
+Puffinus arcticus, Falter, Prorlr. Id. Orn. p. 150 f lts22f; Brekmf Vwf. 
 Dmtschl. p. 800 (1831); Navm. TV//. Deuhckl x. p. <>lb, pi 277. 
 figs. 1, 2 (1840); &?/£ AVr. C>#. Ois. Eur. p. csx.\i 11^44); *V/. 
 7r<#. JYerfer/. i. p. 584, pi. 332; id. Di>r. Xederl Fog, pi. 33. Her, 4 
@@ -31163,7 +31163,7 @@ Xttt. xvi. p. 463 (1829;; &£/. Mm. P.-B., vi. Procell. p. 29 (1863).
 
 Puffinifcs yelkouan, Bp. Consp. Av. ii. p. 205 (1856); Salvad. Atti 
 -Sac. Hal Se. Nat. vi. p. 133 (1864); Coues, Br. Ac. Phil. 1864, 
-pp. 137, 144; 1%/. 4* <?<?rte, Om. Bur. ii. p. 379 (1867) ; Doderfetjt, 
+pp. 137, 144; 1%/. 4* <?<?rte, Orn. Bur. ii. p. 379 (1867) ; Doderfetjt, 
 Amf, Jfvd. e Sic. p. 228 (1869); Ehoes $ Buckley, Ibis, 1870, 
 
 p. 33ti; Salvad. Faun. Ital, Ucc. p. 299 (1871); && # Tay/or, 
@@ -31173,13 +31173,13 @@ Puilaus baroli, BonellifJide Bp. Compt. Rend. xlii. p. 769 (1856);
 i¥. Ctoup. .4i-. ii. p. 204 (1856); Gray, Hand-l iii. p. 103 (1871). 
 
 Potions anglorum, Costa, Faun. Reg Nap.> Ucc. p. 72 (1857); 
-Eruper, J. f. Om. 1863, p. —; Wright, Ibis, 1863, p. 438, 
+Eruper, J. f. Orn. 1863, p. —; Wright, Ibis, 1863, p. 438, 
 1KJ4, p. 153, 1874, p. 240; Tristr. P. Z. S. 1864, p. 454; id. 
-Faun, f Fl. Palest, p. 138 (1884); Tacz. J. f. Om. 1870, p. 55 ; 
+Faun, f Fl. Palest, p. 138 (1884); Tacz. J. f. Orn. 1870, p. 55 ; 
 Saund. Ibis, 1871, p. 401; Shelley, Birds Egypt, p. 311 (1872); 
-Brmke, Iimf 1873, p. 348; Heugl Om. N.O.-Afr. ii. p. 1370 
+Brmke, Iimf 1873, p. 348; Heugl Orn. N.O.-Afr. ii. p. 1370 
 (1S73); GigL Ibis, 1881, p. 217; Salv. Oaf. Strickl Coll p. 631 
-<1*82); Seek Ibis, 1883, p. 36; Badde, Om. Came. p. 488 (1884). 
+<1*82); Seek Ibis, 1883, p. 36; Badde, Orn. Came. p. 488 (1884). 
 
 Puffinus sp. inc., Lilford, Ibis, 1887, p. 263, 1889, p. 349. 
 
@@ -31429,7 +31429,7 @@ Zool. Mus. Dresden, 1892, no. 6, p. 79; Irbu, Birds Gibr. ed. 2,
 p. 309 (1895). 
 Nectris 
 obscura, Keys, fy Bias. Wirb. Eur. pp. xciv, 239 (1840); 
-Milhle, Om. Griechenl. p. 136 (1844); ? Heugl. Syst. Ueb. p. 68 
+Milhle, Orn. Griechenl. p. 136 (1844); ? Heugl. Syst. Ueb. p. 68 
 (1856); Linderm. Vog. Griechenl. v- 171 (I860)?; Borggr. Vogelf. 
 
 p. 140 (1869). 
@@ -31444,7 +31444,7 @@ iid. Cat. Mus. Godeffr. iv. p. 7 (1869).
 Puffinus 
 auduboni, Finsch, P. Z. 8.1872, p. Ill; Ridgio. Pr. U.S. 
 Nat. Mus. iii. p. 12 (1880); id. Man. N. Am. Birds, p. 60 (1887) ; 
-Gundl. J.f. Om. 1881, p. 400; Baird, Brew, fy Ridgw. Water-
+Gundl. J.f. Orn. 1881, p. 400; Baird, Brew, fy Ridgw. Water-
 Birds N. Am. ii. p. 386 (1884); A. O. U. Check-l. N. Am. Birds, 
 
 p. 101 (1886); Cory, List Birds West Ind. p. 34 (1885) ; id. Auk, 
@@ -31830,10 +31830,10 @@ Puffinus tenuiroatris, Gray, List Anseres Brit Mus. p. 160 (1844) ;
 id. Gen. Birds, iii. p. 647 (1844); id. Hand-L iii. p. 103 (1871) ; Bp. 
 Compt Mend. xlii. p. 769 (1856); Gigl. Faun. Vert Oceano, p. 33 
 (1870); id. Viagg. ' Magenta,1 pp. 332, 536 (1875) ; Coaes, Key N. 
-Am. Birds, p. 332 (1872); Finsch, J. f. Om. 1874, p. 210; id. 
+Am. Birds, p. 332 (1872); Finsch, J. f. Orn. 1874, p. 210; id. 
 Abhandl Bremen, iii. p. 83; id. P. Z. S. 1879, p. 16; Midgw. 
 Pr. U.S. Nat Mus. iii. pp. 223, 230 (1880); id. Man. N. Am. 
-Birds, p. 62 (1887); Salvad. Om. Pap. iii. p. 462 (1882); Blakiston 
+Birds, p. 62 (1887); Salvad. Orn. Pap. iii. p. 462 (1882); Blakiston 
 <§• Pryer, Trans. As. Soc. Jap. x. p. 107 (1882); Coues, Check-list 
 N Am. Birds, p. 129 (1882); id. Key N. Am. Birds, ed. 2, 
 
@@ -32303,11 +32303,11 @@ Great Black Peteril, JSdzv. Nat. Mist ii. pi. 89 (1747); Lath. Gen.
 Hist. x. p. 173 (1824). 
 Procellaria fuliginosa, Solander MS.; Parkinson, Icon. ined. no. 19, 
 
-cf. Sahin in Rowley's Om. Misc. i. p. 232 (1876). 
-Le Puffin du Cap de Bonne Esperance, Briss. Om. vi. p. 137 (1760). 
+cf. Sahin in Rowley's Orn. Misc. i. p. 232 (1876). 
+Le Puffin du Cap de Bonne Esperance, Briss. Orn. vi. p. 137 (1760). 
 Procellaria sequinoctialis, Linn. Syst. Nat. i. p. 213 (1766); Gm. 
 
-Syst. Nat I. p. 564 (1788) ; Lath. Ind. Om. ii. p. 821 (1790) ; 
+Syst. Nat I. p. 564 (1788) ; Lath. Ind. Orn. ii. p. 821 (1790) ; 
 Pallas, Zoogr. Rosso-As. ii. p. 314 (1811); Vieill N Diet cTHist. 
 Natxx.v. p. 422 (1817) ; id.Bnc.M6th. p. 80 (1823); Kuhl, Beitr. 
 
@@ -32319,7 +32319,7 @@ Layard, Ibis, 1862, p. 97,1863, p. 249, 1867, p. 459; id. B. S. Afr.
 p. 369 (1867); D. Walker, P. Z. S. 1863, p. 378; Hutton, Ibis, 
 1865, p. 285,1867, p. 187,1870, p. 396 ; Pollen $ Van Dam, Faun. 
 Madag., Ois. p. 144 (1868); Finsch $ Hartl Tog. Ostafr. p. 817 
-(1870); Finsch, J.f. Om. 1870, p. 373 ; Cab. §• Reichenow, J.f. Om. 
+(1870); Finsch, J.f. Orn. 1870, p. 373 ; Cab. §• Reichenow, J.f. Om. 
 1876, p. 329; Marti. Vbg. Madag. p. 374 (1877;; Milne-Edw. $ 
 Grand. Hist. Madag., Ois. p. 671 (1885). 
 P6trel-Pufhn "brun, Buff. Hist Nat. Ois, x. p. 163 (1786). 
@@ -32349,7 +32349,7 @@ Consp. Av. ii. p. 200 (1850) ; Corns, Br. Ac. BMl 1864, pp. 118,
 142; Giql. Faun. Vert. Oceano. p. 35 (1870) ; Scl $ Salv. NomencL 
 Av. Neotr. p. 149 (1873); Coues $ Kidder, Bull. U.S. Nat. Mus. 
 no. 2 (1875) ; Kidder, Bull U.S. Nat Mus. no. 3, p. 13 (1870); 
-Salv. in Boivleijs Om. Misc. i. p. 232 (1876); id. P. Z. S. 1878, 
+Salv. in Boivleijs Orn. Misc. i. p. 232 (1876); id. P. Z. S. 1878, 
 
 p. 737; id. op. cit. 1883, p. 431; id. Yoy. • ChalL,' Zool. ii. pt. •
 % iii. 
@@ -32620,8 +32620,8 @@ Forst. JDescr. Anim. p. 23 (1844); Jacq. $• Buck. Voy. Bole Sud,
 
 iii. p. 138 (1853); Schl. Mus. P.-B., vi. Procell. p. 8 (1863); Boll. 
 6r Van Bam, Faun. Madag., Ois. p. 144 (1868); Btdler, Birds 
-N. Zeal. p. 304, pi. — (1873); Finseh, J. f. Om. 1874, p. 207; 
-Salv. in Rowley's Om. Misc. i. p. 238 (1876); id. Cat. StricJd. Coll 
+N. Zeal. p. 304, pi. — (1873); Finseh, J. f. Orn. 1874, p. 207; 
+Salv. in Rowley's Orn. Misc. i. p. 238 (1876); id. Cat. StricJd. Coll 
 p. 629 (1882); Hartl. Vog. Madag. p. 373 (1877); Milne-Edw. 8? 
 Grandid. Hist. Madag., Ois. p. 670 (1885) ; Hamilton, Tr. N. Zeal. 
 Inst, xviii. p. 128 (1886). 
@@ -32638,7 +32638,7 @@ Bur?n. Syst. Ueb. iii. p. 445 (1856); Grill, Zool. Anteckn. pp. 12, 59
 (1858) ; Sol Ibis, 1860, p. 422; Gray, Ibis, 1862, p. 246; Feb. 
 Reise Novara, Zool. i. Vog. p. 146 (1869) ; Hutton, Cat. Birds 
 
-N. Zeal. p. 47 (1871); Cab.% Reichenoiv, J.f. Om. 1876, p. 329. 
+N. Zeal. p. 47 (1871); Cab.% Reichenoiv, J.f. Orn. 1876, p. 329. 
 Puffinus pacaficus, Gray, Gen. Birds, iii. p. 647 (1844). 
 Pterodroma fuliginosa, Bp. Compt. Rend. xiii. p. 768 (1856). 
 Pterodroma atlantica, Bp. Consp. Av. ii. p. 191 (1855); Gould, 
@@ -33175,7 +33175,7 @@ n,o.
 Fauna Vert. Oceano, p. 41 (1870) ; id. Viagg. ' Mar/ent«,' pp. 843, 
 884 (1875); Rklgw. Man. N. Am. Birds, p. 64 (1887). 
 
-(Estrelata magentas, Salv. in Rowley's Om. Misc. i. p. 251, pi. 30. 
+(Estrelata magentas, Salv. in Rowley's Orn. Misc. i. p. 251, pi. 30. 
 
 iw JE. supra intense fusco-nigra, plumis sub quadam luce pailide 
 margin ads, alis, cauda, lateribus, subalaribus ac torque jugulari 
@@ -34575,7 +34575,7 @@ p. 223 (1880); Shufeldt, Pr. U.S. Nat. Mus. -vii. p. 329 (1884).
 428 
 rinwiNiDJt). 
 
-Fulmarus prlacialis, var. rodgerbi, Coues, Om. Prybilov Is. CI874). 
+Fulmarus prlacialis, var. rodgerbi, Coues, Orn. Prybilov Is. CI874). 
 Fulmams gliciah\/f. W. Elliot, Seal-Islands of Alaska, p. 131 (1882). 
 Fulmarus glacialia rodgersi, Coues, Chcch-L N. Am. Bird*, p. 125 
 
@@ -34617,14 +34617,14 @@ id. Gen. Hist. x. p. 178 (1824).
 The White 
 and Black-spotted Peteril, Edw. Nat Hist. ii. p. 90, 
 pi. 90. f. 1 (1747). 
-Le Pe'trel tachete" appele" vulgairement Damier, Briss. Om. vi. 
+Le Pe'trel tachete" appele" vulgairement Damier, Briss. Orn. vi. 
 
 p. 146 (1760). 
 Le Petrel plane et noir ou Damier, Buff. Hist Nat Ois. x. p. 146 
 (1786); Pemet. Voy. ii. p. 72; DAub. PI. Bnl. 964. 
 Procellaria 
 capensis, Linn. Si/st. Nat. i. p. 213 (1766); Gm. Syst. 
-Nat. i. p. 565 (1788); Lath. Lid. Om. ii. p. 822 (1790); Vieill N. 
+Nat. i. p. 565 (1788); Lath. Lid. Orn. ii. p. 822 (1790); Vieill N. 
 Diet d'Hist Nat xxv. p. 423 (1817) ; id. Enc. Mith. p. 78 (1823); 
 Kuhl, Beitr. p. 140 (1820); Less. Man. d'Orn. ii. p. 348 (1828); 
 Halm, Voy. aus Asia, §c., Liefr. xix. (1836); Vigors in Voy. 
@@ -34635,7 +34635,7 @@ Birds Trop. Is. Pac. p. 56 (1859); id. Ibis, 1862, p. 246;
 Peale, U.S. Expl Ftp. viii. p. 338 (1848); Reich. Av. Syst Nat., 
 Natatores, pi. 20. figs. 337-8 (1850) ; Jacq. 8? Pueh. Voy. Pole 
 Sud, iii. p. 138 (1853); Grill, Zool. Anteckn. pp. 12, 58 (1858); 
-Schl. Mus. P.-B., vi. Procell. p. 14 (1863); Degl. $ Gerbe, Om. 
+Schl. Mus. P.-B., vi. Procell. p. 14 (1863); Degl. $ Gerbe, Orn. 
 Fur. ii. p. 372 (1867); Layard, Birds S. Afr. p. 361 (1867) j 
 Pollen $ Van Dam, Faun. Madag., Ois. ii. p. 346 (1868); Pelz. 
 Peise Nov., Zool I, Vo'g. p. 145 (1869) ; Hutton, Cat Birds N. Zeal 
@@ -34658,17 +34658,17 @@ Oceano, p. 46 (1870) ; id. Viagg. 'Magenta" (see index) (1875) ;
 Gurney in Anderss. Birds Bamara-L. p. 353 (1872); ScLfySalv. 
 No mend Av. Neotr. p. 149 (1873); Butter, Birds N. Zeal. p. 299 
 (1873), ed. 2, ii. p. 215 (1888); id. Ibis, 1874, p. 121; Finsch, 
-J.f. Om. 1870, p. 373,1874, p. 208 ; id. Ibis, 1888, p. 309; Salv. 
+J.f. Orn. 1870, p. 373,1874, p. 208 ; id. Ibis, 1888, p. 309; Salv. 
 Ibis, 1875, pp. 373, 376; id. P. Z. S. 1878, p. 737 • id. op. cit. 1883, 
 
 p. 432 ; id. Voy < ChalV, Zool. ii. pt. viii. p. 144 (1881) ; id. Cat. 
-Strickl. Coll. p. 630 (1882); Cab. 8f Reichenoio, J.f. Om. 1876, 
+Strickl. Coll. p. 630 (1882); Cab. 8f Reichenoio, J.f. Orn. 1876, 
 p. 329 • Hartl. Tog. Madag. p. 377 (1877); Moseley, Notes Nat. 
 1 ChalV pp. 134, 137,183, 229 (1879); Sharpe, Phil. Trans, clxviii. 
 p. 118 (1879) : id. P. Z. S. 1881, p. 12 ; id. ed. Bayard's Birds S. Afr. 
 p. 767 (1884); Legge, Birds Ceylon, p. 1056 (1880); Ridgw. Pr. 
 U.S. Nat. Mus. iii. p. 230 (1881); id. Man. N. Am. Birds, p. 69 
-(1887) ; Bocage, Om. Angola, p. 517 (1881) ; B. 0. U. List Brit. 
+(1887) ; Bocage, Orn. Angola, p. 517 (1881) ; B. 0. U. List Brit. 
 Birds, p. 199 (1883) ; Oates, Handb. Birds Burm. ii. p. 436 (1883); 
 Coppinger, Cruise of the l Alert,1 p. 87 (1883) ; Baird, Brew., §• 
 Ridgw. Water-Birds N. Am. ii. p. 400 (1884); A. 0. XJ. Check-l. 
@@ -34686,7 +34686,7 @@ id. Key N. Am. Birds, ed. 2, p. 779 (1884); Stearns, New
 England Bird-Life, ii. p. 386 (1883); Saunde?-s, in Yarr. Brit. 
 Birds, ed. 4, iv. p. 11 (1884); Meyer, Abbild. Vogel-Skel. pt. xi. 
 (1886); Finsch, Ibis, 1888, p. 309. 
-Daptrion capensis, Tacz. Om. Per. iii. p. 465 (1886). 
+Daptrion capensis, Tacz. Orn. Per. iii. p. 465 (1886). 
 Adult. Upper surface white, each feather broadly tipped with 
 dusky black, the feathers of the head and back of the neck black to 
 their bases, the lesser wing-coverts wholly dusky, the median coverts 
@@ -34810,12 +34810,12 @@ Blue IVteL Fo/-s^r7 Toy. i. p. 91; Xa^. (?e». Syn. iii. pt. 2, p. 415
 
 O»*v*t; i/7. <?e/i. JSwi. jft>&, x. p. 196 (1824). 
 A\mh**r Blue Peterll, Coofc's Foy. i. p. 32. 
-Ft e»-H,i -la cemlea, Gto. %st Xtf. i. p. 560 (1788'); Latli.Ind. Om. 
+Ft e»-H,i -la cemlea, Gto. %st Xtf. i. p. 560 (1788'); Latli.Ind. Orn. 
 
 li. p. *i>7 i I7i»U); n<^. IY. Dta. cFffi&. iVa^. xxv. p. 421 (1817); 
 (IM *); Imjard, Birds S. Afr. p. 361 (186V); id. Ibis, 1876, p. 89:?, 
 1*7*, p. 204: Button, Cat. Birds N. £e«Z. p. 47 (1871); J?«/fer, 
-/;»></* X Zf-«/. p. 306 (1873); JYTWCA, J", f. Om. 1870, p. 373, 1874, 
+/;»></* X Zf-«/. p. 306 (1873); JYTWCA, J", f. Orn. 1870, p. 373, 1874, 
 
 p. %Mh ; Fi/^/i 4* 25&W-& Orn. Centralpol. p. 246 (1867). 
 Ptt«*i«\ptila ciemlea, 7/%. P>Wr. p. 275 (1811); Steph. in Sham's 
@@ -35570,7 +35570,7 @@ p. 461 (1886); Meisehek, Tram, X. Zeal. Inst acri. p. 158 (1889):
 ^Sanford, Zool. 1689, p. 588; Chte&eman* Tr. X. Zeal, last xxiiL 
 p. 254 (1891); B. 0. Forbes, Ms, 189% p. 541; G. E. Verrill, 
 Trans, Conned. Ac. ix. p. 437 (1895). 
-Diomedea spadacea, Gm. fyst XaL i. p. o&8 (1788); Lath. Ind. Om* 
+Diomedea spadacea, Gm. fyst XaL i. p. o&8 (1788); Lath. Ind. Orn. 
 
 ii. p. 790 (1790); FieilL X. Met. d'Bist. XaL ii. p. 587 (1818j; 
 Sttph. in Shatc's Gen. Zool. siii. p. 5C1 (18501; Less. Man. eTOni* 
@@ -36071,7 +36071,7 @@ Birds Austr. ii. p. 434 (1865) ; Gray, Gen. Birds, iii. p. 650
 (1844); Reich. Av. Syst., Natatores, pi. 29. figs. 799-800 (1850); 
 Bp. Consp. Av. ii. p. 184 (1855); id. Compt. Rend. xlii. p. 768 
 (1856); JSchl. Mus. P.-B., vi. Procell. p. 34 (1863); Goues, 
-Br. Ac. Phil. 1866, pp. 183, 188; Cab. $ Reichenow, J. f. Om. 
+Br. Ac. Phil. 1866, pp. 183, 188; Cab. $ Reichenow, J. f. Orn. 
 1876, p. 328; le Souef, Ibis, 1895, p. 413. 
 Thalassarche cauta, Gigl. Faun. Vert. Oceano, p. 58 (1870) ; id. Viagg. 
 'Magenta; pp. 736, 800, 841 (1875). 
@@ -36150,7 +36150,7 @@ Gould) ; id. op. ait. xxiv. p. 67 (1892)• id. op. cit. xxv. p. 76
 (1893) j id. Birds N. Zeal ed. 2, ii. p. 203 (1888); Ckeeseman, 
 Tr. N. Zeal Inst xxi. p. 125 (1889). 
 
-Thalassogeron salvini, JRothsch. Bull Brit. Om. Club, L p. Iviii (June 
+Thalassogeron salvini, JRothsch. Bull Brit. Orn. Club, L p. Iviii (June 
 1893) ; id. Ibis, 1S937 p. 572. 
 Diomedea salvini, Bidler, Tr. N. Zeal Inst xxviL p. 122 (1895), 
 
@@ -36184,7 +36184,7 @@ Ad. sk. Cape Seas (R L. Zayard). SfaeHey Coll.
 451 
 
 4. Thalassogerou culminates. 
-Dioniedea chlororliynchos {nee Gm.), Audab. Om. Biogr. v. p. 326 
+Dioniedea chlororliynchos {nee Gm.), Audab. Orn. Biogr. v. p. 326 
 (1839); id. Birch Am. 8vo ed. \ii. p. !<)(> (1H44); Lawr. Birth K. 
 Am. p. 822 (1860). 
 Biomedea culminata, Gould, Ann. <$• Mag. N. II. xiii. p. 301 (1844) ; 
@@ -36192,7 +36192,7 @@ Biomedea culminata, Gould, Ann. <$• Mag. N. II. xiii. p. 301 (1844) ;
 (1856); tfcM. Afe. P.-i?., vi. Proeell. p. 35 (1863); Coues, IV. Ac. 
 Phil. 1866, pp. 183, 188 ; Layard, Birds tf. Afr. p. 364 (1867) ; 
 Sutton, Cat. Birds N. Zeal. p. 44 (1871) ; Finsch, Verh. z.-h. Ges. 
-Wien, 1872, p. 270; Cab.Sf Reich. J. f. Om. 1876, p. 328; Moseky, 
+Wien, 1872, p. 270; Cab.Sf Reich. J. f. Orn. 1876, p. 328; Moseky, 
 Notes Nat 'ChalL1™. 129,183 (1879); tiharpe.Phil. 'Iraw. elxviii. 
 
 m. p. 230 (18>1); A. O. U. Check-l. N. Am. Birds, p. 98 (1886); 
@@ -36230,7 +36230,7 @@ Yellow-nosed Albatros, Lath. Gen. Si/n. iii. pt. 2, p. 309, pi. 94
 (1785); id. Gm. Hist. Birck, x. p. 52, pi. 169 (1824). 
 
 Diomedea chlororhynchos, Gm. Syst. Nat. i. p. 568 (1788); Lath. 
-Ind. Om. ii. p. 790 (1790); Vieill N. Diet a"Hist Nat. p. 287 
+Ind. Orn. ii. p. 790 (1790); Vieill N. Diet a"Hist Nat. p. 287 
 (1816); Steph. in Shaw's Gen. Zool. xiii. p. 262 (1826); Temm. PL 
 Col 468 (1829); Schinz, Naturg. Fog. p. 395, pi. 135 (1832); 
 
@@ -36243,20 +36243,20 @@ Gould, Birds Andr. vii. pi. 42 (1844); id. Handb. Birds Austr. ii.
 
 p. 437 (M>5); Gray, List Anseres Brit. Mus. p. 166 (1844); id. 
 Hand-!, iii. p. 109* (1871); Reich. Av. Syst., Natatores, pi. 2<*. 
-h>. 347, pi. 28. %s. 794-5 (1850); Kjarb. Om. Ban. pi. 7. f. 4 
+h>. 347, pi. 28. %s. 794-5 (1850); Kjarb. Orn. Ban. pi. 7. f. 4 
 (1851); Brehn, Naum. 1855, p. 295 : Bp. Consp. Av. ii. p. 185 
 (1855); id. Compt. Rend. xlii. p. 768 (1856); Zai/ard, Ibis, 1862, 
 pp. 97, 254,1809, p. 377; id. Birds 8. Afr. p. 364 (1867): SchL 
 Mus. P.-B., vi. Prooell. p. 35 (1863) ; D. Walker, P. Z. S. 1863, 
 pp. 378, 379; Bree, Birds Eur. iv. p. 123 (1863); Terr, in Vinson's 
 Toy. Madag., Annexe B, p. 4 (1865); Coues, Pr. Ac. Phil 1866, 
-pp. 184, 188 ; Degl $ Gerbe, Om. JSur.n. p. 368 (1867); Pollen 8? 
+pp. 184, 188 ; Degl $ Gerbe, Orn. JSur.n. p. 368 (1867); Pollen 8? 
 Van Dam, Faun. Madag. ii. p. 145 (1868); Pelz. Peise Novara, Zool. 
 i. Vog. p. 149 (1869); Elliot. Birds N. Am. ii. pi. 58 (1867); Finsch, 
-J. f. Om. 1870, p. 375 ; Sutton, Cat Birds N. Zeal p. 44 (1871); 
+J. f. Orn. 1870, p. 375 ; Sutton, Cat Birds N. Zeal p. 44 (1871); 
 Butter, Birds N. Zeal. p. 294 (1873); id. op. cit. ed. % ii. p. 202 
-(1888) ; Cab. Sf Peichenow, J. f. Om. 1876, p. 328; Salvin in 
-jRowley's Om. Misc. i. p. 238 (1876); Marti. Vog. Madag. p. 378 
+(1888) ; Cab. Sf Peichenow, J. f. Orn. 1876, p. 328; Salvin in 
+jRowley's Orn. Misc. i. p. 238 (1876); Marti. Vog. Madag. p. 378 
 (1877); Saund. P. Z. S. 1880, p. 165; Milne-Edic. $ Grand. Hist. 
 Madag., Ois. p. 668 (1881): Sharpe, ed. Bayard's Birds S. Afr. 
 p. 772 (1884); Finsch, Ibis, '1888, p. 309. 
@@ -36266,7 +36266,7 @@ Diomedea olivaceorhyncha, Gould, Ann. 8r Mag. N. H. xiii. p. 361
 Diomedea olivaceirostris, Bp. Consp. Av. ii. p. 185 (1855); Coues, 
 Pr. Ac. Phil 1866, pp. 186,188. 
 Diomedea profuga, Solander, MS.; Gray, Hand-l iii. p. 109 (1871); 
-Salv. in Pauley's Om. Misc. i. p. 238 (1876). 
+Salv. in Pauley's Orn. Misc. i. p. 238 (1876). 
 Thalassarche chlororhynchus, Gigl. Faun. Vert. Oceano, p. 59 
 (1870); id. Viagg.1Magenta? pp. 106, 725 (1875). 
 Thalassogeron 

@@ -1503,23 +1503,23 @@ Key to the Species.
 a. Forehead, lores, and throat bare fmgilegus, p. 9. 
 b. Forehead and lores only bare, throat feathered ... . pakinator, p. 10. 
 1. Trypaiiocorax frugilegus. 
-La Oorneille moissoneuse, JBriss. Om. ii. p. 16. 
+La Oorneille moissoneuse, JBriss. Orn. ii. p. 16. 
 Oorvus frugilegus, Linn. S. N. i. p. 150; Temm, Man. d'Om. i 
 
-p. 110 ; Naum. Vog. Beutschl. ii. pi. 55; Roux, Om. Prow pi. 132; 
+p. 110 ; Naum. Vog. Beutschl. ii. pi. 55; Roux, Orn. Prow pi. 132; 
 Werner, Atlas, Omnivores, pi. 5; Gould, B. Eur. iii. pi. 24; 
 Macgill Brit B. i. p. 535; Yarr. Brit. B. ii. p. 01; mlegel § 
-Susem. Vdgel Eur. ii. t. 3.fig;. 2; Kj#rb. Om. Ban. pi. 11.fig, 2; 
+Susem. Vdgel Eur. ii. t. 3.fig;. 2; Kj#rb. Orn. Ban. pi. 11.fig, 2; 
 Gray, Gen. B. ii. p. 315 ; Nordm. in Bfonid. Voy. Rim. Mfirid. iii. 
 p. 121; R'upp, Syst Uebers. p. 74; Bp. Consp. I p. 384; Horxf. # 
 Moore, Cat. B. Mm. E.L Co. ii. p. 557; Schlegel, Vog. JYederl. 
 pi. 139; id. Bier. JSfederl. pi. xiii. figs. 4, 5; Fritsch, Vog. Eur. 
 tab. 28. figs. 7, 8; tfTOfey. fe^/c. Fogl pi, 20. fig. 3; M/e/M 
 Bijdr. Bierh. 4to, ii. artf. Oorvus, p. 11, pi. 1. fig. 10; e7iw6. # 
-Barth. Lapomm. Rich. Om. p. 04; Linderm. Vog. Griechenl. 
+Barth. Lapomm. Rich. Orn. p. 04; Linderm. Vog. Griechenl. 
 p. 71: Filippi, Viagg. Pers. p. 350; Jerd. B. Ind. ii. p. 302; Gould, 
 JB. G. Brit. iii. pi.* 60; Schkgel, Mm. F.-B. Coraces, p. 26; Begl 
-8f Gerhe, Om. Eur. i. p. 201; Boderl. Avif. Sm'l. p. 53; Ileugl. 
+8f Gerhe, Orn. Eur. i. p. 201; Boderl. Avif. Sm'l. p. 53; Ileugl. 
 Om. N.O.-Afr. p. 498 ; Gray, HamW. B. ii. p. 12; Sahad. Faun. 
 ItaL Ucc. p.'171; Hume, Ibis, 1871, p. 404; Shelley, B. Egypt, 
 p. 159 ; Severtz. Turhed. Jevotn. p. 03 ; Bresser, B. Eur. pt. xxxv.; 
@@ -1837,7 +1837,7 @@ d'. Entire breast white j throat arid abdomen black scapidatus, p. 22.
 
 OORVUS ITAWArENSrS. 
 Corvus tropicus, Bhxham in Byron's Vol/, p. 240. 
-Coryus hawaiensis, Peak, U.S. Expl Exp. Om, 1848, p, 106; Cass t <\ 
+Coryus hawaiensis, Peak, U.S. Expl Exp. Orn. 1848, p, 106; Cass t <\ 
 2nd edit. p. 119, pi. vi.; Gray, B. Trop. Id. Pacif. p. 24; Dole, Pr. Botf. 
 Soc. N. Mist xii. p. 300; Sol ibis, 1871, p. 359; Gray, Hand-!. B. ii. p. 14. 
 Entire plumage fuliginous brown, with a slight tinge of cinereous; quills 
@@ -2259,7 +2259,7 @@ India [P.].
 i. Ad. sk. Ferozepore (Capt. May). Secretary of State for India tP.'J. 
 Corvus leptonyx. 
 
-Corvus corax, Webb 8? Berth. Om. Canar. p. 9,- Eareourt, Ann. 
+Corvus corax, Webb 8? Berth. Orn. Canar. p. 9,- Eareourt, Ann. 
 
 Nat. But (2) xv. p. 437; Zoche, Expl. Sci. AlgSr. Ois. i. p. 108. 
 Corvus leptonyx, Peak, U.S. Expl Exp. 1848, p. 105. 
@@ -2487,7 +2487,7 @@ Sehl. Bijdr. Dierh Amsterd. fol. art. Corvus, p. 2; Kirk, Ibis,
 1864; p. 321; Layard, B. 8. Afr. p. 168; Sehl Mm. P.-B. Coraces, 
 p. 3; Gray, Hand-l. B. ii. p. 13 ; Bocage, Jom. Lisb. 1870, p. 13; 
 Fmseh, Tr. Z. 8. vii. p. 256; Blanf. Geol § Zool Abyss, p. 393; 
-Umiyl. Om. N.O.-Afr. p. 501; Cab. in Von der Decken Beis. iii. 
+Umiyl. Orn. N.O.-Afr. p. 501; Cab. in Von der Decken Beis. iii. 
 p. 33; Finsch <$• Eartl. Vbg. Ostafr. p. 374; Sharpe, Cat. Afr. B. 
 p. 57; Gurney in Anderss. B. Dam. Ld. p. 154; Antin. 8f Sahad. 
 Viaqg. Bogos, p. 128; Sharpe <$• Bouvier, Bull. 8oc. Zool Prance, i. 
@@ -2712,14 +2712,14 @@ abdomen creamy white like hind neck. •.••••• dautirwus, p. -b.
 b. Sides of neck glossy black like the back: no light 
 collar . ossifragus, p. 29. 
 1. Colceus monedula. 
-Le Choucas, Briss. Om. ii. p. 24. 
+Le Choucas, Briss. Orn. ii. p. 24. 
 Le Choucas a collier, Briss. t. c. p. 27. 
 Le Choucas blanc, Briss, t. c. p. 27 (vai\). m 
 Le Choucas noir, Briss. t. c. p. 28 ; Month PL Fnl. in. pi. 522. ^ 
 Oorvus monedula, Linn. S. N. i. p. 156; Zfcnw. Jltaw. rfO^Lp. 
 
 
-Ill; Namn. Vog. DeutscJil. ii. Taf. 56. fig. 1; Bonx, Om. Prov. 
+Ill; Namn. Vog. DeutscJil. ii. Taf. 56. fig. 1; Bonx, Orn. Prov. 
 pi. 133 ; Werner] Atlas, Omnrvores, pi. "vi.; Gould, B. Eur. in. 
 pi. 223 ; Macgill Br. B. i. p. 552 ; Yarr. Br. B. ii. p. 102; Gray, 
 Gen. J?, ii. p. 315 ; Sold. u. Svsem. Vog. Mr. ii. Taf. iv. fig. 1; 
@@ -2727,11 +2727,11 @@ Nordm. in Bemid. Voy. Bussie Mind, lii. p. 120; Schl. Bier.
 Nederl. Vog. pi. xiii. fig. 6; id. Vog. Nederl. pi. 140; Kj<srb. 
 Om. Ban. Taf. xi. fig. 1; SeJd. Bijdr. Bierh. Amsterd. folio, 
 
-p. 15; Jaub. et Barth. Zapomm. Mich. Om. p. 95; Sehrencl; 
+p. 15; Jaub. et Barth. Zapomm. Mich. Orn. p. 95; Sehrencl; 
 Beis. Amurl. Zoot. p. 324; Sunder. Sv. Fogl pi. xx. fig. 4; Zm(
-fcrm. Vog. Gricchenl p. GO ; Gould, B. Gt. Br. iii. pi. (51; FilippiyViagg. Pers. p. 203; D^Z. et Gerbe, Om. Bur. i. p. 202; Sehl. 
+fcrm. Vog. Gricchenl p. GO ; Gould, B. Gt. Br. iii. pi. (51; FilippiyViagg. Pers. p. 203; D^Z. et Gerbe, Orn. Bur. i. p. 202; Sehl. 
 Mm. P.~B. Ooraces, p. 33; Gray, Ilandrl. ii. p. 13; Boderl. Avif. 
-Sicil. p. 03; Salvad. Faim. Ital. Ucc. p. 173; Heugl Om. N.O.-
+Sicil. p. 03; Salvad. Faim. Ital. Ucc. p. 173; Heugl Orn. N.O.-
 Afr. p. 498; Shelleij,B. Fgypt, p. ICO; Hume, Nests $c. Bid. B. 
 p." 414; Irhij) B. Gibr. p. 1^8; Dresser, B. Fur. part xlvi.; Scully; 
 Sir. F. 1876, p. 158; Blanf. Fast Persia, p. 263. 
@@ -3069,22 +3069,22 @@ y.
 Size very small; wing 9-5-9*8 inches, 
 tarsus 1'65-1'75, violaeea. 
 1. Cor one comix. 
-La Oorneille mantelee, JBnss. Om. ii. p. 19; Month. PL Fnl. 76. 
+La Oorneille mantelee, JBnss. Orn. ii. p. 19; Month. PL Fnl. 76. 
 
 Corvus cornix, Linn. S. N. i, p. 150; Baud. Traite, ii. p. 231; Naum. 
 Vog. Beutschl. ii. pi. 54; Werner, Atlas, Carnivores, pi. 3 ; Less. 
 Traite, p. 328; Gould, B. Fur. iii. pi. 22; Macgill Brit B. i. p. 529; 
 Yarr. Br. B. ii. p. 82 ; Nordm. in Bemid. Vog. Buss. Her. iii. p. 119; 
-Gray, Gen. BAi. p. 315; Kj&rb. Om. Dan. pi. xi. fig. 5; Blyth, 
+Gray, Gen. BAi. p. 315; Kj&rb. Orn. Dan. pi. xi. fig. 5; Blyth, 
 Cat. B. Mm. A. S. B. p. 89; Cab. Mas. Eein. Th. i. p. 231; Bp. 
 Consp. i. p. 385 ; Midd. Sibir. Meis. Zool p. 160 ; Schl. Vog. Nederl. 
 
 pi. 138; Horsf. § Moore, Cat B. Mm. B.I. Co. ii. p. 553; Schl. 
 Bier. Nederl'Hi. pi. 13. ^g. 3; Sundev. Sv. Fogl pi. 20. fig. 2 ; 
-Fritsch, Vog. Bur. tab. 28. fig. 1; Jaub. fy Barth. Lap. Rich. Om. 
+Fritsch, Vog. Bur. tab. 28. fig. 1; Jaub. fy Barth. Lap. Rich. Orn. 
 
 p. 94; Jercl B. Ind. ii. p. 298; Borgqr. Voqelf. NorddeuUcM. p. 
-81; JDegl. et Gerbe, Om. Bur. i. p. 200; Schl Mus. P-B. Coraces, 
+81; JDegl. et Gerbe, Orn. Bur. i. p. 200; Schl Mus. P-B. Coraces, 
 p. 5; Gould, B. Gt Br. part lix.; G. P. Gray, Hand-l. B. ii. p. 11; 
 Salvad. Faun. Ital. TIcc. p. 173 ; Boderl. Aoif. Sicil. p. 62 ; Heuql. 
 Om. NO.-Afr. p. 503; Shelley, B. Eyijpt, p. 159; Bresser, B. 
@@ -3402,7 +3402,7 @@ latitudes.n
 4. Corone caurina. 
 Corvus caurinus, Baird, B. N. Amer. p. 569, pi. xxiv.; Ball 8f Bann. 
 Tr. Chic. Acad. i. p. 286 j Gray, IIand4. B. ii. p. 13; Finseh, 
-Abhandl. Brem. iii. p. 41; Cooper, Om, Calif, p, 285; Baird, 
+Abhandl. Brem. iii. p. 41; Cooper, Orn. Calif, p, 285; Baird, 
 Brewer, § Ridgio. N.-Amer. B. ii. p. 248. 
 Corvus americanus,var. j3.? caurinus, Coues, Key N.-Amer. B. p. 163; 
 id. B. North-west, p. 206. 
@@ -3427,7 +3427,7 @@ J. K. Lord, Esq. [P.].
 J. K. Lord, Esq. [C.]. 
 5. Comae mexicana. 
 
-La Grande Pie du Mexique, Briss. Om, ii. p. 43. 
+La Grande Pie du Mexique, Briss. Orn. ii. p. 43. 
 Mexican Crow, Lath. Gen. Syn. i. p. 306. 
 Corvus mexic amis, Gm. Syst. Nat. i. p. 375 (ex Lath.)\ Schl. Bijdr. 
 
@@ -3443,24 +3443,24 @@ middle toe 1-10. Wing-formula:—4, 3, 5 ; first quill very much
 longer than tenth. (Baird, Brewer, and Riclgivay, I. c.) 
 
 6. Corone corone, 
-La Comeille, Briss. Om. ii. p. 12; Month PI Fnl. iii. pi. 483. 
+La Comeille, Briss. Orn. ii. p. 12; Month PI Fnl. iii. pi. 483. 
 
-Corvus corone, Linn. S. N. i. p. 155 ; Temm. Man. d1 Om. i. p. 108; 
-Nanm. Vo'g. Beutschl. ii. Taf. 53. fig. 2 ,• Roux, Om. Prov. pi. 130 • 
+Corvus corone, Linn. S. N. i. p. 155 ; Temm. Man. d1 Orn. i. p. 108; 
+Nanm. Vo'g. Beutschl. ii. Taf. 53. fig. 2 ,• Roux, Orn. Prov. pi. 130 • 
 Werner, Atlas, Omnivores, pi. 1 ; Gould, B. Fur. iii. pi. 221 • 
 Nordm. in Bemid. Voy. Buss. Merid. iii. p. 120; MacgilL Br. B. 
 
-i. p. 516 ; Yarn. Br. B. ii. p. 79 ; Ejcerb. Om. Ban. tab. xi. fig. 4; 
+i. p. 516 ; Yarn. Br. B. ii. p. 79 ; Ejcerb. Orn. Ban. tab. xi. fig. 4; 
 Gray, Gen. B. ii. p. 313; Bp. Consp. I p. 386 ; Schl. u. Susem 
 Vog. Bur. ii. Taf. 2, Taf. 3. fig. 1 ; Schl F. J. Aves, p. 79; Midd. 
 Sibir. Meis. Zool. p. 160; Schl Vog. Nederl pi. 137; id. Bier. 
 Nederl. Vog. pi. xiii. fig. 2; Horsf. fy Moore, Cat. B. Mus. B.I. 
 Co. ii. p. 553; Fritsch, Vog. Fur. tab. 28. %. 3; Jauh et Barth. 
-Lap. Bich. Om. p. 93; Schl Bijdr. Bierh. Amsierd. fol. art. Corvus, 
+Lap. Bich. Orn. p. 93; Schl Bijdr. Bierh. Amsierd. fol. art. Corvus, 
 
 p. 8, pi. ]. figs. 11,12; Schrenck, Reis, Amurl.y. 325; Linderml 
 Tog. Griechenl. p. 70; Jerd. B. Bid. ii. p. 295; Radde, Reis. Sibir 
-p. 209; Begl. et Gerbe, Om. Fur. i. p. 198; Schl. Mus. P.-B. 
+p. 209; Begl. et Gerbe, Orn. Fur. i. p. 198; Schl. Mus. P.-B. 
 Uoraces, p. 17; Boderl. Avif. Sicil. p. 62; Gould, B. Gt. Br. iii. 
 6. CORONE. 
 37 
@@ -4907,7 +4907,7 @@ breadth; under tail-coverts blackish fxdiginosa, p. 61.
 
 1. Strepera graculina. 
 Corvus graculinus, White, Voxj. New 8. Wales, App. pi. to p. 251. 
-Coracias strepera, Lath. Ind. Om. i. p. 173 ; Baud. Traitt, n. p, 267. 
+Coracias strepera, Lath. Ind. Orn. i. p. 173 ; Baud. Traitt, n. p, 267. 
 Noisy Roller, Lath. Gen. Syn. Buppl. ii. p. 121. t 
 Le Grand Calibe* ou CaliM bruyant, Levaill. Ois. de Paradis, pi. 24. 
 Gracula strepera, Shaw, Gen. Zool. vii. p. 462. 
@@ -5244,7 +5244,7 @@ p. 91, App. p. 19; JEorsf. $ Moore, Cat. B. Mus. E.I. Co. ii.
 p. 554 ; Gray, Eand4. B. ii. p. 10 j David, JV. Arch. Mus. vii. Bull. 
 p. 9; 8winh. P. Z. 8. 1871, p. 382. 
 Pica varia, 8chl Rev. Crit. p. 54; id. Bier. Nederl pi. xiii. figs. 7,7a; 
-id. Mus. P.-B. Coraces, p. 39; Kjcerb. Om. Ban. pi. xii. tig. 2. 
+id. Mus. P.-B. Coraces, p. 39; Kjcerb. Orn. Ban. pi. xii. tig. 2. 
 Pica sericea, Gould, P. Z. 8. 1845, 'p. 2; Gray, Gen. B. ii. p. 314; 
 Bp. Consp. i. p. 383. 
 Cleptes hudsonicus, Gambel, Journ. Acad. iV. 8oi. Philad. 1847, p. 47. 
@@ -5879,7 +5879,7 @@ Black-headed." Holler, Lath. Gen. Syn. Suppl. p. 86.
 Corvus erythrorhynchus, Gm. S. JV. i. p. 372 (ex Lath.); Baud. 
 
 Traite, p. 240, pi. xv. 
-Coracias melanocephalus, Lath. Ind. Om. i. p. 170. 
+Coracias melanocephalus, Lath. Ind. Orn. i. p. 170. 
 La Pie bleue, Levaill. Ois. d'Afr. ii. pi. 57. 
 Psilorhinus sinensis, Gray, Gen. B. ii. p. 308. 
 Calocitta sinensis, Bp. Consp. i. p. 381. 
@@ -6093,11 +6093,11 @@ Mange. rTorth-eastern Africa and Senegambia.
 75 
 
 1. Cryptorhina afra. 
-La Pie du Senegal, Briss. Om. ii. p. 40, pi. 3.fig.2 ; Month. PL Enl 
+La Pie du Senegal, Briss. Orn. ii. p. 40, pi. 3.fig.2 ; Month. PL Enl 
 538. 
 Corvus afer, Linn, S. X. i.p. 157 (ex Briss.). 
 Corvus senegalensis, Linncem, Syst. Av. i. p. 158 (ex Briss.). 
-Coracias nigra, Lath. Inch Om. i. p. 172. 
+Coracias nigra, Lath. Inch Orn. i. p. 172. 
 Le Piacpiae^ Levaill Ois. cTAfr. pi. 54; Sundev. Crit. om Levaill p. 30. 
 Pica nigra, Vieill N. Diet, xxxi. p. 130. 
 Lanius acuticaudatus, Vieill JV". Diet. t. c. p. 134. 
@@ -6106,9 +6106,9 @@ Cryptorhina pcecilorhynchus, IVagler, t. c.~sp. 2-Gray, Mand-l. B.
 ii. p. 9. 
 Ptiio^tonius senegalensis, Swains. B. W. Afr. i. p. 135; Biipp. Syst. 
 Uebers. p. 74 ; Gray, Gen. B. ii. p. 311; Bp. Consp. i. p. 369; 
-Marti Om. W.-Afr. p. 113; Aniin. Cat. deser. TJee. p. 58: Layard, 
+Marti Orn. W.-Afr. p. 113; Aniin. Cat. deser. TJee. p. 58: Layard, 
 
-M.S. Afr. p. 167 j Beugl Om. N.O.-Afr. p. 491; Sharpe, Cat 
+M.S. Afr. p. 167 j Beugl Orn. N.O.-Afr. p. 491; Sharpe, Cat 
 Afr. B. p. 37. 
 Ptilostomus pcecilorhynchus, Gray, Geyi. B. ii. p. 311; Bp. Consp. 
 
@@ -6208,8 +6208,8 @@ La Pie rousse de la Chine, Sonn. Voy. Ind. ii. p. 186, pL 106.
 Rufous Crow, Lath. Gen. Syn SuppL p. 84. 
 Grey-tailed Roller, Lath. Gen. Syn. Suppl. p. 86. 
 Lanius rufus, Scop, Del. Faun, et Flor. Insubr. ii, p. 86. 
-Corvus rufus, Lath. Ind. Om. i. p. 161 ; Daud. Traiti, p. 245. 
-Coracias vagabimda, Lath. Ind. Om. i. p. 171. 
+Corvus rufus, Lath. Ind. Orn. i. p. 161 ; Daud. Traiti, p. 245. 
+Coracias vagabimda, Lath. Ind. Orn. i. p. 171. 
 La Pie rousse, Levaitt. Ois. d'Afr. ii. p. 31, pi. 59. 
 Pica rufa, Vieill N. Diet. d'Eist. Nat. xxvi. p. 130 * Steph. Gen. Zool 
 
@@ -9716,7 +9716,7 @@ b, c. Ad. sk. Guatemala. Purchased.
 4. Xantlrara luxuosa. 
 Pica chloronota, Wagler, Isis, 1829, p. 750 (tf juv.). 
 GarruluS luxuosus, Less. Rev. Zool. 1839, p. 100. 
-Cyanocorax luxuosus, JDu Bus, Esq, Om. pi. 18; Cass, B. Calif, fy 
+Cyanocorax luxuosus, JDu Bus, Esq, Orn. pi. 18; Cass, B. Calif, fy 
 
 
 Texas, p. 1, pi. L; Sclater, Cat. Am. B. p. 144; Sclater $ Sahin, 
@@ -10111,7 +10111,7 @@ Salvin, Ibis, 1873, p. 103.
 
 Gymnokitta cyanocephala, Bp. Consp. i. p. 382; Cass. B. Calif, and 
 Texas, p. 165, pi. 28; Baird, B. N. Amer. p. 574; Cones, Jhis, 
-1872, p. 152; id. Keu N.-Amer. B. p. 163; Cooper, Om. Calif. L 
+1872, p. 152; id. Keu N.-Amer. B. p. 163; Cooper, Orn. Calif. L 
 I>. 292; Baird, Breiver, Sf Ridgw. N.-Amer. B. ii. p. 260, pi. 38. 
 tig. 2 ; Coues, B. North-west, p. 210. 
 
@@ -10296,10 +10296,10 @@ Range, Gold Coast.
 Corvus gymnocephalus, Temm. PI. Col. 327. 
 Tufted Grakle, Lath. Gen. Mist iii. p. 162. 
 Galgulus gymnocephalus, Waglery Syst. Ac. art. Pica, note. 
-Picathartes prymnocephalus, Less. Man. d' Om. i. p. 375 • Gray, Gen. 
+Picathartes prymnocephalus, Less. Man. d' Orn. i. p. 375 • Gray, Gen. 
 
 
-B. ii. p. 316; Bp. Consp. i. p. 387; Marti. Om. W.-Afr. p. 114; 
+B. ii. p. 316; Bp. Consp. i. p. 387; Marti. Orn. W.-Afr. p. 114; 
 ScM. Mus. P.-B. Ooraces, p. 54; Gray, Mand-L B. ii. p. 14; Sharpe, 
 Ibis, 1872, p. 71 -id. Cat. Afr. B. p. 57; Ussher, Ibis, 1874, p. 67, 
 pi. ii. 
@@ -10633,7 +10633,7 @@ Wings short, falling short of the tip of the
 tail by more than the length of the tarsus 43. PODOCES, p. 150. 
 40. 
 GEACTTLITS*. Tj| ^ 
-Ooracia, Brisson, Om. ii. p. 3 (1760) G. graculua. 
+Ooracia, Brisson, Orn. ii. p. 3 (1760) G. graculua. 
 Graculus, Koch, Syst. hater. Zool p. 91 (1810) ... , G. graculua. 
 Fregilus, Cuvier, Begn. Anim. i. p. 416 (1817) G. graculus. 
 
@@ -10670,10 +10670,10 @@ crocorax of Brisson appears to be the right one.
 40 . GRACULUS. 
 p. 549 • Fritsch, Vog. Eur. tab. 28.fig. 4; Linderm. Vog. Griechenl 
 p. 72; Blanf. Geol. $ Zool. Abyss, p. 395: Salvad. TJcc, Ital. 
-p. 169 j JBLeugl. Om. N.O.-Afr. p. 495. 
+p. 169 j JBLeugl. Orn. N.O.-Afr. p. 495. 
 Coracia ervthrorhamphos, Vieill. N. Diet d'Sist, Nat. viii p 2? 
 • id 
-Gal Ois. pi. 103; Roux, Om. Prov. pi. 137.
+Gal Ois. pi. 103; Roux, Orn. Prov. pi. 137.
 Pyrrhocorax graeulus, Temm. Man. i. p. 122• Werner, Atlas, Omnivores, 
 pi. 12; Gould, B. Gt. Brit iii. pi. 62 ; Schleg. Mas. P.-B. 
 Coraces, p. 55 • Irhy, B. Gibr. p. 128; Dresser, B. Eur. pt. xxxvii. 
@@ -10681,7 +10681,7 @@ Coraces, p. 55 • Irhy, B. Gibr. p. 128; Dresser, B. Eur. pt. xxxvii.
 Fregilu§je'orap®ns> JOess. 2>. dOrn. p. 324. 
 Pyrrhocorax rupestris, Brehm, Vog. Deatsckl, p. 175. 
 Fregilus erythropus, Sicains. Classif. B. ii. p. 268. 
-Coracia gracula, Gray, Gen. B. ii. p. 321; Degl §• Gerhe, Om. Eur. 
+Coracia gracula, Gray, Gen. B. ii. p. 321; Degl §• Gerhe, Orn. Eur. 
 
 
 i. p. 205 * Doderl Avif. Sicil p. 64* Gray, Kand-l. B. ii. p. 15. 
@@ -10813,12 +10813,12 @@ pi 378. fig. 2; Blyth, Cat B. Mm. A. S. B. p. 90; Bp. Consp. i.
 
 p. 388; Cab. Mus. Bein. Th. i. p. 227; Reich. Syst Av. pi. lxxxv. 
 fig. 1; Mors/. %• Moore, Cat. B. Mus. B.I. Co. ii. p. 549; Jauh. 
-et Barth.-Lapomni. Mich. Om. p. 96; Linderm. Vog. Griechenl. 
+et Barth.-Lapomni. Mich. Orn. p. 96; Linderm. Vog. Griechenl. 
 p. 72; Jerd. B. hid. ii. p. 819; Filippi, Viagg. Pers. p. 350; 
-JFritsch, Vog, Bur. ta"b. 28. fig. o; JDegl et Gerbe, Om. Bur. 
+JFritsch, Vog, Bur. ta"b. 28. fig. o; JDegl et Gerbe, Orn. Bur. 
 I p. 204; Boderl Avif. Sieil. p. 64; Salvad. Faun. Ital Ucc. 
 p. 170; Gray, Band-L B. ii p. 15; Shelley, B. Egypt, p. 161; 
-JEeitgl Om. KO.-Afr. p. 496; Benders. § Hume, Lahore to Yark. 
+JEeitgl Orn. KO.-Afr. p. 496; Benders. § Hume, Lahore to Yark. 
 p. 249; Dresser, B. Eur. part xxxviii.; Irby, B. Gibr. p. 128; 
 Severtz. Turhest. Jevotn. p. 64; Bresser, Ibis, 1875, p. 237; Scully, 
 Str. P. 1876, p. 162; Blanf. Bast. Persia, p. 263. 
@@ -12287,7 +12287,7 @@ Range. New Guinea and Salwatti, Aru Islands, Mysol, Jobi.
 1. Cicimmrus regius. 
 The supposed king of the Greater Birds of Paradise, Edwards, Birds, 
 iii. pi. 111. 
-Le Petit Oiseau de Paradise, Briss. Om. ii, p. 130, pi. 13. 
+Le Petit Oiseau de Paradise, Briss. Orn. ii, p. 130, pi. 13. 
 Pai'adisea regia, Linn. S. N. i. p. 166 (ex Edwards); SJunu, Gen. 
 Zool. vii. p. 497, pi. 67 ; Less. Voy. Coqtdlle, I p. 658, pi. 2(3 ; 
 Waaler, Si/st. Av. Paradisea, sp. 7,- Gray, Gen.B. ii. p. 323 ,* Schl 
@@ -12968,7 +12968,7 @@ Blue-green Paradise-bird, Lath. Gen. Syn. ii. p. 482.
 Manucodia chalybea, Bodd. Tabl. PL Enl. p. 39 j Elliot, Monogr. 
 Parad. pi. vi.; Salvad. Ann. Mus. Civic. Genov. vii. p. 781. 
 Paradisea viridis, Gm. S. N. i. p. 402. 
-Paradisea chalybea, Lath. Ind. Om. i. p. 197; Shaw, Gen. ZooL vii. 
+Paradisea chalybea, Lath. Ind. Orn. i. p. 197; Shaw, Gen. ZooL vii. 
 
 p. 504, pi. 71. 
 Oracticus chalybeus, VieilL N. Diet. oVHist. Nat. v. p. 355. 
@@ -13325,7 +13325,7 @@ Pilocarpus, Mull. Tijdschr. Nat. Gesch. Bhys.
 
 
 ii. p. 331 (1835) 0. cruentus. 
-Psaropholus, Jard. $ Selby, 111 Om. iv. pL 2Q 
+Psaropholus, Jard. $ Selby, 111 Orn. iv. pL 2Q 
 (c. 1837) O. trailli. 
 Erythrolanius, Zess. M. Z. 1840, p. 274 0. cruentus. 
 * The following species are unknown to me. 
@@ -13563,24 +13563,24 @@ beyond the juguluiu............ trailli, p. 222.
 
 1. Oriolus galbula. 
 The Golden Oriole. 
-Le iMUQi, Brim. Om. lip. 320; Mmib. PL Bnl 26. 
+Le iMUQi, Brim. Orn. lip. 320; Mmib. PL Bnl 26. 
 Oriolus g&ibula* Lmm. 8, N. L p. 160; Kaum. Vog. DetdsehL ii. 
 
 Taf, CJl; Wagier, Syst. Ac. Oriolus, sp. 3 ; Werner, Atlasf Omniyores, 
-pL 15; JimXj Om. Prov. pk. 125, 126,127; Brehm, Vog. 
+pL 15; JimXj Orn. Prov. pk. 125, 126,127; Brehm, Vog. 
 JDeuUcM.jp. 155; JfacgUL Br. B. ii. p. 09; Mordm. in JDemid. Voy. 
 Mamie Mir* iii p. 103; Sjeys. SpBlas. Wirb. Bun p. 50; Gould, ~B. 
 Bun ii. pi. 71; Yarr. Br. B. I p. 212; Gray, Gen. B. i. p. 232 • 
-Bp. Comp. L p. #47; Kfcerb. Om. Ban. pi. xiii. fig. 5; Schl. u. 
+Bp. Comp. L p. #47; Kfcerb. Orn. Ban. pi. xiii. fig. 5; Schl. u. 
 Stmm. VSg. Bur/M. 10; Schl. Fog. Kederl.-ph. 113,114; Horsf. 
-& Mmre, Cat B. Mm. B.I. Co. i. p. 271; Marti. Om. Westafr. 
+& Mmre, Cat B. Mm. B.I. Co. i. p. 271; Marti. Orn. Westafr. 
 
-p. 80; J«w&. 4* Barth.-Lap. Bieh. Om. p. 199 (1859); Schl JOier. 
+p. 80; J«w&. 4* Barth.-Lap. Bieh. Orn. p. 199 (1859); Schl JOier. 
 M4erL Vug. pi 14. figs, 3, 4, 4 &; Linderm. Vog. Griecltenl p. 82; 
 HarU. Faun. Madag.\ 43; FriUch, Vog. Bur. Taf. 14. figs. 7, 8 ; 
 Sunder. Sv. Fogl. pi. Ixvii. fig. 2; Gould, B. Gi. Br. ii. pi. 31; 
 Fiiippi, Viagg. Pirn. p. 330; Zayard, B. S. Afr. p. 133; Zoclie, 
-Mi pi Sei Alger. Om. ii. p. 54; J>#/. e£ #<?/•&«, Om. Bur. i. p. 392 
+Mi pi Sei Alger. Orn. ii. p. 54; J>#/. e£ #<?/•&«, Om. Bur. i. p. 392 
 (1*07): Schl Mm. P.-B. Coraces, p. 99; Bettoni, Ucc. Zrnnb. ii. 
 Taf. 75; Gray, Hand-l. B. I p. 291; Shelley, B. Egypt, p. 150 ; 
 Ihierl Arif. »*tfc*7. p. 104 ; Salrad. Fmm. ItuL Vie. p. 108; Sharp?* 
@@ -13874,11 +13874,11 @@ Oriolus auratus, Vieill. N. Diet dfflst Nat xviii. p. 194; id. et Oud.
 Gal Ois. pi. 83; Swains. B. W. Afr. ii. p. 33; Bp. Consp. i. p. 348; 
 Cab. Mm. Hein. Th. i. p. 209 ; Hartl. J.f. 0. 1854, p. 24; Antm. 
 Cat. Met Ucc. Afr. C-N, p. 44 ; Schl. Mus. P.-B. Coraces, p. 101; 
-Heugl. Om. N.O.-Afr. i. p. 401; Gray, Hand-l. B. i. p. 291; 
+Heugl. Orn. N.O.-Afr. i. p. 401; Gray, Hand-l. B. i. p. 291; 
 Sharpe, Ibis, 1870, p. 216; id. Cat. Afr. B. p. 53. 
 
 Le Loriot bicolor, Tetmn. Cat. Syst. Cab. dOrn. pp. 46, 202. 
-Oriolus bicolor, Lieht. Verz. Doubl. p. 20; Hartl. Om. W.-Afr. p. toO; 
+Oriolus bicolor, Lieht. Verz. Doubl. p. 20; Hartl. Orn. W.-Afr. p. toO; 
 id. J. f. O. 1861, p. 163; Bocage, Jam. Lisb. i. p. 137. ^ 
 Oriolus 'chryseos, Heugl. Sijst Uebers. p. 31. no. 294; id. Naum. 
 
@@ -13969,8 +13969,8 @@ Oriolus chinensis {nee Linn.), Jerd. Madr. Journ. x. p. 262; Blyth,
 
 J. A. 8. B. xi. p. 797 • Dauid, N. Arch. Mas. Bull. p. 8 • Swinh. 
 P. Z. S. 1871, p. 374; Hume, Str. F. 1874, p. 477, 1875, p. 132 ; 
-Prjevakh. Om. Misc. ii. p. 271. 
-Oriolus indicus, Jerd. III. 2nd. Om. pi. 15; Blyth, J. A. S. B. xv. 
+Prjevakh. Orn. Misc. ii. p. 271. 
+Oriolus indicus, Jerd. III. 2nd. Orn. pi. 15; Blyth, J. A. S. B. xv. 
 
 p. 47; id. Cat. B. Mm. A. S. B. p. 216; Bp. Consp. i. p. 348; 
 Horsf. $ Moore, Cat. B. Mus. E.I. Co. i. p. 270 •, Jerd. B. Ind. 
@@ -14862,11 +14862,11 @@ b. Ad. sk. Gilolo.
 21. Oriolus viridis* 
 Green Grakle, Lath. Gen. Syn. Suppl ii. p. 12& 
 
-Gracula viridis, Lath. Ind. Om. Suppl p. xxvm. 
+Gracula viridis, Lath. Ind. Orn. Suppl p. xxvm. 
 
 Striated Roller, Lath. Gen. Syn. Supjil ii. p. 122. 
 
-Coracias sagittata, Lath. Ind. Om. Suppl p. xxvi. _ 
+Coracias sagittata, Lath. Ind. Orn. Suppl p. xxvi. _ 
 
 Oriolus vanegatus, 
 Vieill JSr. Diet. dVHist. IS at xvin. p. 190 imc 
@@ -14881,7 +14881,7 @@ Philemon sagittatus, Vieill N. Diet, xxviii. p. 430. ^
 Mimetes viridis, JKfo^ Survey Intertrop. Coasts Amir. n. p. 419. 
 Mimeta viridis, Pa//. # .Hbraf. TV*. Z*MW. &*. xv. p. 32«>; Jiwtf. «|" 
 
-Selhy, III. Om. ii. pi. 61; Bp. Consp. I p. 340; Cab. Mm. Hat*. 
+Selhy, III. Orn. ii. pi. 61; Bp. Consp. I p. 340; Cab. Mm. Hat*. 
 Th. i. p. 211; Gould, Handb. B. Atcstr. i. p. 402. 
 Mimeta meruloides, Vig. fy Horsf. Tr. Linn. Soe. xv. p. 327; Gray, 
 Gen. B. i. p. 232, 
@@ -15042,7 +15042,7 @@ p. 6 ad. st. Indian archipelago. F. Nightingale, Eeq.tP.l
 24. Oriolus melanocephalus. 
 The Black-headed Indian Icterus, Edwards, Birds, p. 77, pi 77, 
 
-Le Loriot de Bengale, Briss. Om. ii. p. 829. 
+Le Loriot de Bengale, Briss. Orn. ii. p. 829. 
 
 Oriulus rnelanocephalus, Linn. S. N. i. p. 1G0; Wagler, 8yst. Ai\ 
 
@@ -15158,7 +15158,7 @@ mans, Julv 4,1873
 ( Wimberley). 
 25. Oriolus monachus. 
 Moloxita oil la Religieuse 
-d'Abyssinie, Month. Hist. Nat Om, ill. 
+d'Abyssinie, Month. Hist. Nat Orn. ill. 
 
 p. 405. 
 Nun Thrush, Lath. Gen. Syn, ii, p. 77. 
@@ -15240,7 +15240,7 @@ Oriolus" melanocephalus, Des Murs in Lefebvr. Voy. Abyss. Zool.
 p. 1G9 (nee Linn.). 
 Oriolus monachus, Wagl Syst. Av. Oriolus, no. 7 (?iec Gm.). 
 Oriolus arundinarius, Burch. Trav. S. Afr. i. p. 464. 
-— Oriolus chloris, Cm. MS.; teste HartL Om. Westafr. p. 81. 
+— Oriolus chloris, Cm. MS.; teste HartL Orn. Westafr. p. 81. 
 
 VOL. in.
 
@@ -15650,17 +15650,17 @@ black j throat and fore neck dull olivaceous ... . viridis, p. 226.
 
 1. Sphecotheres maxillaris. 
 Maxillary Thrush, Lath. Gen. Syn. Supph ii. p:J8& 
-Turdus maxillaris. Lath. Ind. Om. Suppl p- xlm. 0,„ . 
+Turdus maxillaris. Lath. Ind. Orn. Suppl p- xlm. 0,„ . 
 Sphecotheres viridis, Fi>. <§* JZbr«/. ZV. Linn. $oc. xv. p. 21-3 (ww 
 
 
 VieilL). . Tr. .... 
-Sphecotheres virescens, /ard # &?%, IU. Om. n. pi /9 (nee kieill.); 
+Sphecotheres virescens, /ard # &?%, IU. Orn. n. pi /9 (nee kieill.); 
 Licht. Nbmencl p. 25. . . _ m 
 Sphecotheres australis, Swains, (ubif); Gould, B. Austr. IT. pi. lo; 
 
 
-Biggies, Om. Austr. part 2. . .__ 
+Biggies, Orn. Austr. part 2. . .__ 
 Sphecothera grisea, less. 2><M#, p. 351 ; Gray, Gen.B. l. p. Jdl. 
 Sphecotheres canicollis, Siuains. An. in Menag. p. 320. 
 Sphecotheres maxillaris, Gray, Gen. B. i. p. 231; Cab. Mus. Mem. 
@@ -15736,7 +15736,7 @@ New Guinea.
 Sphecotkeres flaviventris, Gould, P. Z. S. 1849, p. Ill; id. B, 
 Amir. Suppl. pi. 37; Bp. Consp. i. p. 345; Fimch, Neu-Gtiinea3 
 
-p. 173; DiggleSj Om. Austr. part 2 ; Gould, llandb. B. Austr. i. 
+p. 173; DiggleSj Orn. Austr. part 2 ; Gould, llandb. B. Austr. i. 
 p. 468; Rammi/, P. Z. S. 1868, p. 385 : Gray. Kand-l B. i. p. 291; 
 Schl N. T. D. iii. p. 342. 
 Picnorhamphus cucullatus, Mosenb. K Tijdschr. JSTederl Ind. xxix. 
@@ -17073,7 +17073,7 @@ Le Drongear, Zevaitt. Ols d'Afr. p. 167 ; Sandev, Crit. om Levaill.
 p. 42. 
 Dicrurus musicus, VieilL Ar. Diet. d'Hist. Nat. xi. p. 58(3; Gray, Gen. 
 B. i. p. 287; Bp. Consp. i. p. 35*2; Cab. Mas. Hein. i. p. Ill; 
-Hart!. Om. IF.-Afr. p. 100; id. J.f. 0. 1801, p. 170; Grill, Z>ol 
+Hart!. Orn. IF.-Afr. p. 100; id. J.f. 0. 1801, p. 170; Grill, Z>ol 
 Anteck. p. 33; Lm/ard, B. 8. Afr. p. 154; Gray, Hand-l. B. i. 
 p. 280 : Sharp?, Cat. Afr. B. p. 47; Gumey, in Anderss. B. Bam. 
 L. p. 125; Shelley, Ibi% 1875, p. 75. 
@@ -17091,10 +17091,10 @@ p. 32; Brehn, Beise Habesch. pp. 215, 319; Gray, Hand-l. B. i.
 p. 283. 
 Dicrurus divaricatus, Gray, Gen. B. i. p. 287; Cab. Mas. Ilein. i. 
 p. Ill; Strickl. P. Z. S.' 1850, p. 217; Horsf. Sf Moore, Cat. B. 
-Mas. B.I. Co. I p. 155; Earth Om. W.-Afr. p. 100; Gray, 
+Mas. B.I. Co. I p. 155; Earth Orn. W.-Afr. p. 100; Gray, 
 Hand-l. B. i. p. 28$; Finsch, Tr. Z. S. vii. p. 249; Bkmf. Geol. 
 fy Zool. Abyss, p. 344; Finsch # Hartl. Vdg. Ostafr. p. 323; Sharpe, 
-Cat Afr. B. p. 47 ; Heugl. Om. JST. O.-A.fr. pp*. 422, cxii; Antin. 
+Cat Afr. B. p. 47 ; Heugl. Orn. JST. O.-A.fr. pp*. 422, cxii; Antin. 
 8f Salvad. Viagg. Bogos, p. 77. 
 Dicrurus emarginatus, Bp. Consp. i. p. 352. 
 
@@ -17794,7 +17794,7 @@ Chinese countries; Malayan peninsula; Java ; Borneo.
 
 
 1. Bissemurus paradiseus, 
-Le Ooueou vert hup£ de Siam, Briss. Om. iv. p. 151, pi. xlw A, f%. L 
+Le Ooueou vert hup£ de Siam, Briss. Orn. iv. p. 151, pi. xlw A, f%. L 
 Cuculus paradiseus, Linn. S. N. L p. 172. 
 Paradise Cuckoo, Lath. Gen. Syn. i. p. 529. 
 Malabar Shrike, Lath. Gen. Syn. Stqjpl p. 56, pi. 108; id. G<n. Ilkt. 
@@ -17816,7 +17816,7 @@ p. 172 j Bp. Consp. i. p. 351.
 Chibia malabaroides, Hodgs. Ind. Bei\ L p. 325. 
 Dicrurus retifer, Jerd. Madr. Joum. x. p. 241. 
 Dicrurus rangoonensis, M'CleU. P.Z. & 1830, p. 158; Junl &• &/fa, 
-HI. Ind. Om. iv. pi. 38. 
+HI. Ind. Orn. iv. pi. 38. 
 Dicrurus grandis, MClell. P. Z, S. 1839, p. 15b; Gray* Gen. B»u 
 
 p. 286. 
@@ -18341,7 +18341,7 @@ Purchased.
 A. [$]ad. st. Sumatra. 
 5. Irena puella. 
 Fairy Roller, X«^A. Gen. Syn. Suppl p. 87. mu 
-Coracias puella, i^ . I*wZ. Om. i. p. 171; D^wf. Traitt, n. p. 2»»K 
+Coracias puella, i^ . I*wZ. Orn. i. p. 171; D^wf. Traitt, n. p. 2»»K 
 Irena puella, ,7W. Jfe7r. Jfor/z. xiii. p. 202; M'ChM, P. Z« & !**>.% 
 
 p. 160 j Gtoy, <%». 5, i. p. 2b8. pi. 70. fisr. 3: //^r^;f. <V 3/W^ 
@@ -20614,7 +20614,7 @@ i. Imm. sk. Gaboon (P. B. Die Chaillu). R B. Sharpe, Esq.
 h. Ad. sk. Gaboon. M. Du Chaillu [0.]. 
 /. Imm. sk. Fernand Vaz. M. A. Marche [O.J. 
 2. Fraseria cinerascens. 
-Fraseria cinerascens, Hartl. Om. W.-Afr. p. 102 (ex Temm. 31S. in 
+Fraseria cinerascens, Hartl. Orn. W.-Afr. p. 102 (ex Temm. 31S. in 
 Mils. Lugd.) ; Cass. Br. Philad. Acad. 1859, p. 51; Reich. J. f. O. 
 1874, p. 27 ; BouvieTj Cut Ois. Marche tyc, p. 21. 
 
@@ -20945,7 +20945,7 @@ which resembles the immature of B, mariquensis in its mottled plumage.
 BRADYORNIS MINOR. 
 
 Bradyornis variegatus, Heagl. %st Uebcrs. p 32 (deser, nulla). 
-Bradyornis minor, Heitgl. Om. K- 0. Afr. p. 430. 
+Bradyornis minor, Heitgl. Orn. K- 0. Afr. p. 430. 
 
 
 Young. Above dusky smoky brown, the head streaked with buffy white; neck, 
@@ -21546,7 +21546,7 @@ Ois. pi. 142.
 
 Prionops plumatus, Swains. B. W. Afr. i. p. 246, pi. xxvi.; Gray, 
 Gen. B. i. p. 292; Cab. Mm. Bein. i. p. 68; Bp. Consp. i. p. 359 ; 
-Hartl. Om, W.-Afr. p. 107; Bocage, Jorn. Lisb. i. p. 138; Gray, 
+Hartl. Orn. W.-Afr. p. 107; Bocage, Jorn. Lisb. i. p. 138; Gray, 
 Hand-l. B. i. p. 395 ; Skarpe, Cat, Afr. B. p. 49; Bouvier, Cat. Ois. 
 Marche $c. p. 21. 
 
@@ -21610,7 +21610,7 @@ Prionops polioceplialus, Gray, Gen. B. i. p. 202; Riipp. Syst. Uebers.
 
 p. 62; Bp. Comp. i. p. 350; Cab. Mm. Hem. i. p. 08: Ilartl. P. Z. 
 S. 1863, p. 105 ; Sol P. Z. S. 1864, p. 100; Antln. Cat. deseritt 
-Uce. p. 53; Heugl. Om. N.O.-Afr. p. 454; Gray, Hand-l B. i. 
+Uce. p. 53; Heugl. Orn. N.O.-Afr. p. 454; Gray, Hand-l B. i. 
 p. 305; Antin. ty Salvad. Ueo. Bogos, p. 81. 
 Adult male. Back black, with a greenish gloss, the outer upper 
 tail-coverts white on their outer web; wings black like the back, 
@@ -21764,7 +21764,7 @@ Om. Westafr. p. 105; id. J. f. 0. 1801, p. 171; Cass. Br. Acad.
 
 iV. Sci. Bhilad. 1859, p. 13; S'harpe, Cat. Afr. B. p. 50. 
 Prionops rufiventris, Gray, Hand-L B. i. p. 395; Flnsch $* Hartl. 
-Fog. Ostaf. p. 364; Ileugl. Om. N.O.-Afr. p. 455, note. 
+Fog. Ostaf. p. 364; Ileugl. Orn. N.O.-Afr. p. 455, note. 
 
 0 
 
@@ -21791,13 +21791,13 @@ M. B. Du Chaillu [0.].
 
 2. Sigmodus caniceps. 
 Sigmodus caniceps, Bp. Consp. i. p. 365 (ex Temm. MS. in Mm. 
-Lugd.); Jard. Contr. Om. 1852, p. 140, pi. 94; Schl. Nanm. ii. 
+Lugd.); Jard. Contr. Orn. 1852, p. 140, pi. 94; Schl. Nanm. ii. 
 pt/ 2. p. 27; id. llandl Bierh. i. p. 28G, Atl Vog. fig. 17; Bp. 
-Rev. et Mag. de Zool. 1853, p. 441; Hartl Om. Westafr. p. 105; 
+Rev. et Mag. de Zool. 1853, p. 441; Hartl Orn. Westafr. p. 105; 
 Sharpe, Cat Afr. B. i. p. 50. 
 
 Prionops caniceps, Gray, Hand-l. B. i. p. 395; Finschfy Hartl Vog. 
-Ostafr. p. 364, note; Ileugl. Om. N.O.-Afr. p. 455, note. 
+Ostafr. p. 364, note; Ileugl. Orn. N.O.-Afr. p. 455, note. 
 
 Adult Entire surface ahovo black with a greenish gloss, the primaries 
 barred across with white on the inner web of all except the 

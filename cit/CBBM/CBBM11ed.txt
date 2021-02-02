@@ -1636,7 +1636,7 @@ Medellin, Antioquia (Salmon). Sclater Coll.
 
 Diglossa pectoralis, Cab. J.f. 0. 1873, p. 318; Tacz. P. Z. S. 1874, 
 
-p. 511: id. Om. Perou, i.'p. 419; ScL Ibis, 1875, p. 212, pi. iv. 
+p. 511: id. Orn. Perou, i.'p. 419; ScL Ibis, 1875, p. 212, pi. iv. 
 Black; uropygium and scapulars cincraeeous; mystacal stripes 
 and square patch on the breast milky white, the upper margin of 
 this patch and crissum chestnut-red; bill and feet black: whole 
@@ -2000,7 +2000,7 @@ Diglossopis cserulescens, Scl Ann. fy Mag. N. B. ser. 2, xvii. p. 467
 id. Cat. A. B. p. 40 ; id. Ibis, 1875, p. 219; Qray> BancU i. p. 119 
 Scl HSalv. P. Z. S. 1868, p. 627, 1879, p. 496; iid. Nomencl p. 15 
 Wyatt, Ibis, 1871, p. 324; Tacz. P. Z. S. 1879, p. 225, 1882, p. 8 
-id." Om. Perou, i. p. 422. 
+id." Orn. Perou, i. p. 422. 
 
 Diglossa cserulescens, JBerl J. f. 0. 1884, p. 286 (Bucaramanga). 
 Diglossa personata J , Beich. Bandb. p. 231, t. dlii. f. 3752. 
@@ -2146,7 +2146,7 @@ L Ad. st. Ecuador. Sclater Cull.
 
 
 2. Conirostnun cyaneitia. 
-Couirostrani cvaneum, Tacz. P. Z. S. 1874, p. 512 j id. Om. Perou, 
+Couirostrani cvaneum, Tacz. P. Z. S. 1874, p. 512 j id. Orn. Perou, 
 i. p. 423; Scl. et Salv. P. Z. 8. 1879, p. 500. 
 Above dark purple: head black, with broad superciliaries and sides 
 
@@ -2206,7 +2206,7 @@ g, h. Ad. sk. Bogota. Sclater Coll.
 Oonirostrum ferrugineiventre, Scl. P. Z. 8.1855, p. 74, Ave% pl.lxxxv.: 
 Scl. et Salv. P. Z. S. 1874, p. 678, 1870, p. 506; iicl Nomencl. 
 
-p. 15; Gray, IIand4. i. p. 110; Tacz. P. Z. 8.1874, p. 511 ; id. Om. 
+p. 15; Gray, IIand4. i. p. 110; Tacz. P. Z. 8.1874, p. 511 ; id. Orn. 
 Perou, i. p. 424. 
 Above plumbeous, wings and tail blackish, edged with plumbeous ; 
 cap blackish; superciliaries white; beneath bright ferruginous brown; 
@@ -2255,13 +2255,13 @@ h. Ad. sk. Ecuador. Purchased.
 
 6. Couirostrum cinereum. 
 Oonirostrum cinereum, d'Orb. et Lafr. Syn. Av. ii. p. 25; d?Orb. Voy., 
-Ois. p. 374, t. 40. fig. 1 ; Tack. F. P., Om. p. 236; Cab. J. f. O. 
+Ois. p. 374, t. 40. fig. 1 ; Tack. F. P., Orn. p. 236; Cab. J. f. O. 
 1873, p. 64; Gray, Gen. B. i. p. 102; Scl et Salv. P. Z. S. 1867, 
 
 p. 984, 1868, p. 569, 1879, p. 506; iid. Nomencl p. 15; Cassin, 
 Pr. Ac. Sc. Phil 1864, p. 272,- Gray, Hand-l. i. p. 119; Scl 
 P. Z. S. 1873, P/ 780; Tacz. P. Z. S. '1874, p. 511,1879, p. 225; 
-id. Om. Perou, i. p. 425. 
+id. Orn. Perou, i. p. 425. 
 Above pure cinereous; wings and tail blackish, tips of greater 
 wing-coverts, edges of secondaries, and a small speculum at the base 
 of the primaries white; superciliaries white; body below pale 
@@ -2334,7 +2334,7 @@ n, o. cJ ? ad. st.; S. America. Purchased.
 p. 6 jr. »t. 
 8. Conirostrum atrocyaneum. 
 Conirostrum atrocyaneum, Lafr. Rev. ZooL 1848, p. 9; Tacz. P Z S 
-1874, p. 511, et 1879, p. 225; id. Om. Perou/i.-p. 426; ScL ei Salvl 
+1874, p. 511, et 1879, p. 225; id. Orn. Perou/i.-p. 426; ScL ei Salvl 
 
 P. Z. 8.1879, p. 597; Berl et Tacz. P. Z. S. 1884, p. 2SS (Ecuador). 
 5 . XENODACNIS.—6. HEMIDACNIS. 
@@ -2485,7 +2485,7 @@ F.
 Male unknown ; female above dark yellowish 
 olive 14. salmoni, p. 27. 
 1. Dacnis cayana. 
-Sylvia cayanensis cserulea, JBriss. Om. iii. p. 534. 
+Sylvia cayanensis cserulea, JBriss. Orn. iii. p. 534. 
 Blue Manakin, Edwards, Birds, pi. 263. 
 Motacilla cayana, Linn. S. N. i. p. 336. 
 Le Pipit bleu de Cayenne, Daub. PI Mnl 669. fig. 1 (tf). 
@@ -2501,8 +2501,8 @@ Dacnis cyanater, Less. Tr. d'Orn. p. 458; oVOrb. et Lafr. Syn. Av. i.
 p. 21. 
 Dacnis cyanomelas, Burm. Syst. Ueb. iii. p. 153; JReichenb. Handb. 
 p. 227; Berlepsch, J.f. 0. 1873, p. 235. 
-Dacnis cayana, Strickl. Contr. Om. 1851, p. 15; Bp. Consp. i. p. 400; 
-ScL Contr. Om. 1851, p. 106; id. Cat A. B. p. 50; id. P. Z. S. 
+Dacnis cayana, Strickl. Contr. Orn. 1851, p. 15; Bp. Consp. i. p. 400; 
+ScL Contr. Orn. 1851, p. 106; id. Cat A. B. p. 50; id. P. Z. S. 
 1854, pp. 110, 252, 1855, p. 137, 1858, p. 452; id. Ibis, 1863, 
 
 p. 313; Cassin, Pr. Ac. Sc. Phil. 1864, p. 268 j Taylor, Ibis, 1864, 
@@ -2510,7 +2510,7 @@ p. 81 (Trinidad); ScL et Sato. P. Z. S. 1866, p. 179,1867, pp. 570,
 749, 977, 1873, p. 259, 1875, p. 237, 1879, pp. 496, 597; iid. 
 Komencl p. 16; Salvin, P. Z. S. 1870, p. 185; id. Ibis, 1872, p. 313; 
 Layard, 1Mb, 1873, p. 378 (Lower Amazons) ; Leotaud, B. of 
-Trinidad, p. 124; Tacz. P. Z. S. 1874, p. 510,1882, p. 9; id. Om. 
+Trinidad, p. 124; Tacz. P. Z. S. 1874, p. 510,1882, p. 9; id. Orn. 
 Perou, i. p. 428; Salv. et Godm. Biol. C.~A., Av-es, i. p. 244; Salv. 
 Ibis, 1885, p. 207 (Brit. Guian.). 
 Dacnis C} anocephala, Gray, Gen. B. i. p. 102; cP Orb. Voy., Ois. 
@@ -3233,7 +3233,7 @@ a. Bill strong, slightly incurved 9. OHLOROPHANES, p. 29.
 b. Bill thin, lengthened, much incurved .. 10. CCEREBA, p. 31. 
 c. Bill thin, short, slightly incurved 11. CEETHIOLA, p. 36. 
 9. CHLOEOPHANES, 
-Ohlorophanes, Peichenb. Handb. d. sp. Om. p. 233 (1853). 
+Ohlorophanes, Peichenb. Handb. d. sp. Orn. p. 233 (1853). 
 This form is somewhat intermediate between Dacnis and Ccereba, 
 but easily known from either by its strong, slightly incurved bill. 
 It consists of one widely distributed species, and a second, at present 
@@ -3254,8 +3254,8 @@ Aves, i. p. 247; Berlepsch, Ibis, 1881, p. 242; id. J.f. 0. 1884,
 
 p. 286 (Bucaramanga). 
 Ccereba atricapilla, Yieill. Nouv. Diet. xiv. p. 50 (1817). 
-Dacnis atricapilla, Set. Contr. Om. 1851, p. 108; id. P. Z. 8.1854, 
-p. 110; Finsch, P. Z. 8. 1870, p. 560; Peh. Om. Bras. p. 20. 
+Dacnis atricapilla, Set. Contr. Orn. 1851, p. 108; id. P. Z. 8.1854, 
+p. 110; Finsch, P. Z. 8. 1870, p. 560; Peh. Orn. Bras. p. 20. 
 Ohlorophanes 
 atricapilla, Peichenb. Handb. p. 234; Scl. P. Z. S. 
 1854, p. 252, 1857, p. 263, 1861, p. 129; id. Cat. A. B. p. 52; 
@@ -3263,7 +3263,7 @@ Scl et Salv. P. Z. S. 1864, p. 349, 1866, p. 179,1867, p. 749 et
 
 p. 977,1868, p. 166, 1873, p. 260, 1879, p. 497; iid. Ibis, 1859, 
 p. 14,1860, p. 32 ; iid. Nomencl p. 10; Taijlor, Ms, 1864, p. 81; 
-Wyatt, Ibis, 1871, p. 324; Tacz. P. Z. S. 1882, p. 9; id. Om. 
+Wyatt, Ibis, 1871, p. 324; Tacz. P. Z. S. 1882, p. 9; id. Orn. 
 PSrou, i. p. 435. 
 Nectarinia mitrata, Licht. Doubl. p. 15. 
 Ohlorophanes guatemalensis, Sol. P. Z. S. 1861, p. 129; id. Cat A. B. 
@@ -4041,10 +4041,10 @@ Ak. Forh. 1869, p. 622; Gray, HarnU. i. p. 120.
 Certkiola peruviana, Cab. J. f 0. 1865, p. 413; Baird, iV. A. B. L 
 
 p. 428 ; Sund. (Efv. K. VeL-Ak. Forh. 1869, p. 623 : Gray, Hand-l. 
-i. p. 120; Tacz. P. Z. S. 1874, p. 512, et 1879, p. 225; id. Om. Perou, 
+i. p. 120; Tacz. P. Z. S. 1874, p. 512, et 1879, p. 225; id. Orn. Perou, 
 i. p. 439 (Peru). 
 Certkiola, sp., Tacz. P. Z. S. 1879, p. 225. 
-Certkiola magniro&tris, Tacz. P. Z. S. 1880, p. 193; id. Om. Perou, 
+Certkiola magniro&tris, Tacz. P. Z. S. 1880, p. 193; id. Orn. Perou, 
 p. 441 (?). 
 11 . OERTHIOLA. 
 39 
@@ -4842,7 +4842,7 @@ Procnias tersa, Pp. Consp. i. p. 232; Cab. Mm. Ilein. i. p. 329; Burm
 Syst Ueb. iii. p. 191; Scl. Cat. A. B. p. 55 j Gray, Hand-L ii" 
 
 p. 77; Salv. Sf Godm. Ibis, 1879, p. 199; Scl et Sab. P. Z. S 
-1879, p. 597; lid. Nomencl, p. 17; Pelz. Om. Bras. p. 139 -Salv 
+1879, p. 597; lid. Nomencl, p. 17; Pelz. Orn. Bras. p. 139 -Salv 
 Cat Strickl. Coll. p. 178 j id. Ibis, 1885, p. 207 (Brit. Guiana) 
 Procnias caerulea, Dubois, Eev. Zool. 1801, p. 620; Berlemoh Thi* 
 1881, p. 244. J ' > 
@@ -5028,13 +5028,13 @@ TAN'AGBID.E.
 Tanagra viridis, Vieill Nouv. Diet, xxxii. p. 426 • id. Fnc. Meih. 
 p. 784: Tenun. PI. Col. 36. fig. 3. 
 Pipra cklorocapilla, Shaio, Zool. xiii. p. 255. 
-Euplionia viridis, Bp. Cotisp. i. p. 233; Sclater, Contr. Om. 1851; 
+Euplionia viridis, Bp. Cotisp. i. p. 233; Sclater, Contr. Orn. 1851; 
 p. 88; Burm. Syst. Ueb. iii. p. 107. 
 Procnias viridis, Cab. in Tsch. Faun. Per. p. 197. 
 Chlorophonia viridis,Bp. Bev. Zool 1851, p. 137; id. Notes.l. Taw/. 
 p. 12; Sclater, P. Z. S. 1856, p. 269 ; id. Syn. Av. Tan. p. 95; id. 
-Cat. A. B. p. 55; Scl. et Salv. JEv. Om. p. 81 ; iid. Nomencl. 
-p. 17 5 iid. P. Z. S. 1879, p. 598 (Bolivia); Pelz. Om. JBras.ip.2Q2. 
+Cat. A. B. p. 55; Scl. et Salv. JEv. Orn. p. 81 ; iid. Nomencl. 
+p. 17 5 iid. P. Z. S. 1879, p. 598 (Bolivia); Pelz. Orn. JBras.ip.2Q2. 
 Bright grass-green ; whole back and tail-coverts and eye-circlet 
 shining "blue; wings and tail black, edged with green, the wing-
 coverts suffused with blue; abdomen bright yellow; under wing-
@@ -5094,7 +5094,7 @@ ad. sk. Sarayacu, Ecuador Salvin-Godman Coll.
 2. CHLOKOPHONIAr 
 3. Chlorophonia torrejoni. 
 Chlorophonia viridis, Tacz. P. Z. S. 1870, p. 225. 
-Chlorophonia tonejoni, Tacz. P. Z. S. 1882, p. 9. pi, i.fig. 1; id. Om. 
+Chlorophonia tonejoni, Tacz. P. Z. S. 1882, p. 9. pi, i.fig. 1; id. Orn. 
 Per. ii. p. 438. 
 
 Bright grass-green, rump rather brighter; broad patch on 
@@ -5126,11 +5126,11 @@ Sclater Coll.
 Salvin-Godman Coll. 
 
 4. Chlorophonia frontalis. 
-Euphonia frontalis, Sclater, Contr. Om. 1851, p. 89. 
+Euphonia frontalis, Sclater, Contr. Orn. 1851, p. 89. 
 Chlorophonia frontalis, Sclater, P. Z. S. 1856, p. 270 ; id. Si/n. Av. Tan. 
 
 
-p. 96; id. Cat. A. B. p. 55; Scl. et Salv. Ev. Om. p. 81, t. xli. 
+p. 96; id. Cat. A. B. p. 55; Scl. et Salv. Ev. Orn. p. 81, t. xli. 
 tig. 1; iid. Nomencl. p, 17; Salv. et Godm. Ibis, 1879, p. 199. 
 Bright grass-green : broad collar on nape, eye-circlet, rump, and 
 upper tail-coverts bright blue • wings and tail black, edged with 
@@ -5265,9 +5265,9 @@ CJ. S. 0. (Salmon).
 (Goering). 
 
 8. Chlorophonia occipitalis. 
-Euphonia occipitalis, Du Bus, Esq. Om. pi. 14 ($); Jard. Ibis, 
+Euphonia occipitalis, Du Bus, Esq. Orn. pi. 14 ($); Jard. Ibis, 
 
-I860, p. 103 ; Bp. Consp. i.p. 233 ; Sclater, Contr. Om. 1851, p. 90. 
+I860, p. 103 ; Bp. Consp. i.p. 233 ; Sclater, Contr. Orn. 1851, p. 90. 
 
 Chlorophonia occipitalis, Bp. Bev. Zool 1851, p. 138; id. Note s. I. 
 
@@ -5276,7 +5276,7 @@ Tang. p. 12; Cass. Bep. U.S. Astr. Edp. ii. p. 182, pi. 20. f. 2 (<$):
 Sclater, P. Z. S. 1856, p. 270, 1857, n. 205, 1850, p. 364, 1864, 
 
 p. 173 ; id. Syn. Av. Tan. p. 06; id. Cat. A. B. p. 55; Sclat. et Salv. 
-Ibis, 1859, p. 17 ; iid. Ex. Om. p. 83, t. xlii.; iid. No-mend. p. 17; 
+Ibis, 1859, p. 17 ; iid. Ex. Orn. p. 83, t. xlii.; iid. No-mend. p. 17; 
 Simiichr. Mem. Bost. Soc. N. II i. p. 550• Lawr. Bull. U. S. N M. 
 no. 4, p. 18 j Salv. et Godm. Biol. C.-A., Aves, i. p. 253. 
 Acrocompsa occipitalis, Cab. J. f. 0. 1861, p. 80. 
@@ -5676,7 +5676,7 @@ Solater Coll.
 6. Euphouia flavifrons. 
 
 Emberiza fiavifrons, Sparrm. Mus. Carls, iv. no. 92 (1788). 
-Tana°*rafiavifrons, Lath. Ind. Om. SuppL p. 47,• Vieill. Euc. MSfk 
+Tana°*rafiavifrons, Lath. Ind. Orn. SuppL p. 47,• Vieill. Euc. MSfk 
 
 p. 773. 
 Enphonia fiavifrons, 
@@ -5906,7 +5906,7 @@ Salvin-Godman Coll.
 Sclater Coll. 
 
 9. Euphonia trinitatis. 
-Eupkonia trinitatis, StricM. Contr. Om. 1851, p. 72; Sclater, Contr. 
+Eupkonia trinitatis, StricM. Contr. Orn. 1851, p. 72; Sclater, Contr. 
 Orn. 1851, p. 84 ; id. P. Z. S.185G, p. 274 ; id. Syn. Av. Tan. p. 100; 
 id. Cat. A. B. p. 67-, Scl et Salv. P. Z. S. 1868, p. 107 (Venezuela), 
 1879, p. 498 (Antioquia) ; iid. Komencl. p. 17. 
@@ -5950,19 +5950,19 @@ n. $ sk. Colombia. Purchased.
 
 10. Euphonia xauthogastra. 
 Euphonia xauthogastra, Sund. Vet-Ah. Handl. 1833, p. 310, pi. 10. f. 1 • 
-Bp. Consp. i. p. 233; Sclater, Contr. Om. 1851, p. 85; id. P. Z. S. 
+Bp. Consp. i. p. 233; Sclater, Contr. Orn. 1851, p. 85; id. P. Z. S. 
 1854, p. 115, 1855, p. 159,1856, p. 275,1858, pp. 74, 452,1859, 
 
 p. 140, et 1860, pp. 87, 275; id. Syn. Av. Tan. p. 101; id. Cat. A. 
 B. p. 57; Sol et Salv. P.Z.S. 1886, p. 179 (Ucayali), 1868, 
 p. 627 (Venezuela), 1873, p. 780 (S.W. Peru), 1879, p. 498 (Antioquia); 
 rid. Xomencl. p. 17; Tacz. P. Z. S. 1874, p. 518 (O. Peru), 
-18^2, p. 10 (N.E. Peru); id. Om. Per. ii. p. 444; Bert, et Tacz. 
+18^2, p. 10 (N.E. Peru); id. Orn. Per. ii. p. 444; Bert, et Tacz. 
 P. Z. S. l&aS, p. 544, 1834, p. 288 (Ecuador); Tacz. et Berl P. Z. 8. 
 1885, p. 77 (Ecuidor); Salv. Ibis, 1885, p. 208 (Brit. Guiari.). 
 Plionasca xantkogastra, Cab. J.f. O. 1860, p. 330. 
 Acroleptes xantliogaster, Cab. J.f. O. 1861, p. 91. 
-Euphonia oclirascens, Peb. Om. Bras. p. 328. 
+Euphonia oclirascens, Peb. Orn. Bras. p. 328. 
 Euphonia brevirostris, Bp. Rev. Zool. 1851, p. 136; id. Notes. I Tang, 
 
 p. 10. 
@@ -6719,7 +6719,7 @@ hf. 2 ad. sk. Maranura, Peru (Whitely). Salvin-Godman Coll.
 24. Euphonia kypoxantha. 
 Euphoma crassirostris, Scl P. Z. S. I860, p. 275 ; Tacz. P. Z. 8.1877, 
 p. 320. 
-Euphonia hypoxantha, Berl et Tacz. P. Z. S. 1883, p. 554; id. Om. 
+Euphonia hypoxantha, Berl et Tacz. P. Z. S. 1883, p. 554; id. Orn. 
 Per. ii. p. 445 j Berl et Tacz. P. Z. S. 1885, p. 77 (Ecuador). 
 
 Above violaceous black (almost as in E. violacea); crown of head 
@@ -7341,7 +7341,7 @@ Le Pipit bleu de Surinam, Daub. PI. Enl. 669.fig. 3.
 Tanagravelia, Vieill. Nouv. Bid. xxxii.p. 424; id. JEne. MHh. p. 780. 
 Tanagra varia, Steph. Shaw, Zoolxiv. p. 7 ; Cuv. Beg. Anim. i. p. 3G7. 
 Hypothlypis iridina, Cab. in Schomb. Guian. iii. p. 667. 
-Tanagrella velia, Bp. Consp. I p. 236; Sclater, Contr. Om. 1851, p. 97; 
+Tanagrella velia, Bp. Consp. I p. 236; Sclater, Contr. Orn. 1851, p. 97; 
 
 
 id. P. Z. S. 1856, p. 267; id. Syn. Av. Tan. p. 93; id. Cat. A. B, 
@@ -7391,7 +7391,7 @@ Sclater, P. Z. 8. 1855, p. 158,1856, p. 207; id. Syn. Av. Tan. p. 93.
 
 Tanagrella iridina, Sdater, P. Z. 8. 1857, p. 264; id. Cat. A. B. p. 60; 
 Pelzeln, Orn. Bras. p. 205; Scl. et Salv. P. Z. 8. 1873, p. 261 (Rio 
-Javai-i) ; iicl Nomencl. p. 18 ; Tacz. Om. Per, ii. p. 453. 
+Javai-i) ; iicl Nomencl. p. 18 ; Tacz. Orn. Per, ii. p. 453. 
 
 Tanagra ultrarnarina, Natt. MS. 
 
@@ -7477,7 +7477,7 @@ Salvin-Godman Coll.
 Hypothlypis callophrys, Cab. in Schomb. Guian. iii. p. 668 (note). 
 Tanagrella callophrys,i?p. Compt. Rend, xxxii. p. 77; id. Rev. Zool 1851, 
 
-p. ISO; id. Note s. I. Tang. p. 5 ; Sclater, Contr. Om. 1851, p. 98, 
+p. ISO; id. Note s. I. Tang. p. 5 ; Sclater, Contr. Orn. 1851, p. 98, 
 pi. 74; id. P. Z. & 1856, p. 268 ; id. Syn. Ac. Tan. p. 94; id. Cat. 
 A. B. p. 60; Scl. et Sale. Nomencl. p. 18. 
 Above velvety black ; forehead and wide superciliaries and lower 
@@ -7645,7 +7645,7 @@ Procnopis melanota, Bp. Compt. Bend, xxxii. p. 80; id. Ilev. Zool.
 
 xxxii. p. 407. 
 p. 134; id. Note s. I. Tang. p. 8. 
-Calliste melanonota, Sclater ^ Contr. Om. 1851. p. 60. 
+Calliste melanonota, Sclater ^ Contr. Orn. 1851. p. 60. 
 Pipridea melanonota, Sctater, P. Z. S. 1856, p. 2Uo ; id. Syn. Av. Tan. 
 p. 91; id. Cat. A. B. p. 61; Sclat. et Salv. P. Z. S. 1&79, p. 508; iid. 
 Komencl. p. 18; Tacz. P. Z. S. 1879, p. ±>0, 1S82, p. 10 (Peru;. 
@@ -7655,7 +7655,7 @@ Syn. Av. Tan. p. 91; id. Cat. A. B. p. 01 ; iSd. et Salv. P. Z. S.
 
 Pipridea melanonota venezuelensis, Tacz. et Bert. P. Z. S. 1G84, 
 
-p. 289 j Tacz. Om. Per. ii. 450. 
+p. 289 j Tacz. Orn. Per. ii. 450. 
 Above violaceous blue; whole interscapular region darker, blackish; 
 wings and tail black, edged with blue; narrow front, lores, and 
 sides of the head deep velvety black, well defined: body beneath 
@@ -7932,9 +7932,9 @@ p. 157, et 1856, pp. 19, 245; id. Syn. Av. Tan. p. 71; id. Mon.
 10 . CAXLISTE. 
 97 
 
-Callut. p. 3, pi. i. f. 2; Pelz. Om. Bras. p. 205; Tacz. P. Z. 8, 
+Callut. p. 3, pi. i. f. 2; Pelz. Orn. Bras. p. 205; Tacz. P. Z. 8, 
 
-1882, p. 10 (Huambo, N.E. Peru); id. Om. Per. ii. p. 458, 
+1882, p. 10 (Huambo, N.E. Peru); id. Orn. Per. ii. p. 458, 
 Tangara du Br&il, Daub. PI. JEnl. 127. fig. 2. 
 Tangara septicolor, Desm. Tang, tab. 1. 
 
@@ -7976,7 +7976,7 @@ q. Ad. sk. Bogota.
 Purchased. 
 r. <3 ad. sk. Huambo, Peru (Stohmann), Sclater Coll. 
 2. Calliste yeni. w l 
-Aglaia chilenais. Vig. P. Z. S. 1832, p. 3; Jard. et Selb. Ill Om. n. s. 
+Aglaia chilenais. Vig. P. Z. S. 1832, p. 3; Jard. et Selb. Ill Orn. n. s. 
 
 pi. 25.* ~ 
 
@@ -7986,13 +7986,13 @@ Callospiza yeni, Tsck Faun. Per. p. 201.
 
 Tanagra yeni, d'Orb. Voy. p. 270, pi. 24. f. 2. 
 
-Calliste yeni. JBp. Consp. i. p. 234; Sclater, Contr. Om. 1851, p. 51; 
+Calliste yeni. JBp. Consp. i. p. 234; Sclater, Contr. Orn. 1851, p. 51; 
 
 id. RZ. 8. 1856, pp. 19, 245,1858, p. 453, 1873, p. 780 (Cosnipata) 
 : id. Syn. Av. Tan. p. 71; id. Cat. A. B. p. 62; id. Mon. 
 Callist. p. 5; pi. 2; Scl. et Salv. P. Z. 8. 1866, p. 180 (Ucayali), 
 1867, pp. 749, 977,1873, p. 261 (E. Peru), 1879, p. 598 (Bolivia); 
-iid. Nomencl p. 18; Pelzeln, Om. Bras. p. 206 (Matogrosso) ; Tacz. 
+iid. Nomencl p. 18; Pelzeln, Orn. Bras. p. 206 (Matogrosso) ; Tacz. 
 
 P.Z. 8. 1874, p. 514 (Centr. Peru), 1882, p. 11 (N.E. Peru) ; id. 
 Om. Per. ii. p. 457; Berl. et Tacz. P. Z. 8.1885, p. 77 (Ecuador). 
@@ -8111,11 +8111,11 @@ Tanagra tatao, Max. Beitr. iii. p. 459.
 
 Calliste tricolor, Bp. Consp. i. p. 234; Burm. 8yst Ueb, iii. p. 187 j 
 
-Sdater, Contr. Om. 1851, p; 51; id. P.Z.8. 1850, pp. 19,240; 
+Sdater, Contr. Orn. 1851, p; 51; id. P.Z.8. 1850, pp. 19,240; 
 id. Mon. Callist. p. 7, pi. 3 j id. Syn. Av. Tan. p. 72; id. Cat. A. B. 
 
 p. 63; 8cl. et Safa. Nomencl. p. 18; Euler,J,f, 0.1867, p. 410 
-(nest); Pelzeh, Om. Bras. p. 206. 
+(nest); Pelzeh, Orn. Bras. p. 206. 
 Callispiza tricolor, Cab. Mm. Rein. i. p. 26; id. J.f. 0.1874, p. 83 
 (Rio). 
 Tatao tricolor, Bp. Rev. Zool. 1851, p. 141; id. Note s. I Tang. p. 10. 
@@ -8229,13 +8229,13 @@ p. 464.
 Calliste eitrinella, Bp. Consp. I p. 234; Burm. 8i/st Uek iii. p. 184 
 Chrysothraupis citrinella, Bp. Itev. Zool. 1851, p. 142; id. Note s.1 
 Tang. p. 17. 
-Calliste cyaneiventris. Scl. Conir. Om. 1851, p. 52; id. P. Z. 8.1850, 
+Calliste cyaneiventris. Scl. Conir. Orn. 1851, p. 52; id. P. Z. 8.1850, 
 
 pp. 19, 247; id. Mon. Callist. p. 13, pi. 0; id. Syn. Av. Tan. p. 78; 
-id. Cat. A. B. p. 63 j Scl. et Salv. Nommcl. p. 19; Pelzeln. Om. 
+id. Cat. A. B. p. 63 j Scl. et Salv. Nommcl. p. 19; Pelzeln. Orn. 
 Bras. p. 206. 
 
-Aglaia citrinella, Sw. Om. Dr. pi. 6. 
+Aglaia citrinella, Sw. Orn. Dr. pi. 6. 
 
 Above golden yellow, variegated, especially on the interscapulium, 
 with black; broad front black; wings and tail black, broadly edged 
@@ -8258,11 +8258,11 @@ e. Ad. skB Eio, Brazil. Sclater Coll.
 g. Ad. sk. Brazil. Salvin-Godman Coll, 
 7. Calliste tiioraeica. 
 Tanagra thoracica, Temm, PI Col. 42. f. 1 (1823). 
-Calliste thoracica, Bp. Consp. i. p, 234; Sclater, Contr. Om. 1851, 
+Calliste thoracica, Bp. Consp. i. p, 234; Sclater, Contr. Orn. 1851, 
 
 n. 54; id. P. Z. 8. 1856, pp. 19, 247; id. Mon. Callist. p. 15, pi. 7 • 
 id. Syn. Av. Tan. p. 73; id. Cat. A. B. p. 63; Scl. et Salv. J\To?nericl. 
-p. 19; Burm. Syst. Tleb. iii. p. 186; Peh. Om. Bras. p. 206. 
+p. 19; Burm. Syst. Tleb. iii. p. 186; Peh. Orn. Bras. p. 206. 
 Callispiza thoracica, Cab. Mas. Nein. i. p. 26. 
 Chrysothraupis thoracica, Bp. Bev. Zool. 1851, p. 143; id. Note s. I. 
 Tang. p. 17. 
@@ -8321,7 +8321,7 @@ p. 270, pi. 24. f. 1,
 Aglaia schrankii, Lafr. et d* Orb. Syn. Av. i. p. 31; Bp. P. Z. S. 
 1837, p. 122. 
 Aglaia melanotis, Szo. An. in Menag. p. 355 ( $ ). 
-Calliste schrankii, Bp. Consp. i. p. 235, sp. 18 ; Sclaier, Contr. Om. 
+Calliste schrankii, Bp. Consp. i. p. 235, sp. 18 ; Sclaier, Contr. Orn. 
 
 1851, p. 54; id. P. Z. S. 1854, p. 115, 1850, pp. 19, 248, 1857, 
 
@@ -8329,7 +8329,7 @@ p. 264, et 1858, pp. 74, 453 ; id. Mon. Callisi. p. 17, pi. 8 ; id. Syn.
 Av. Tan. p. 74; id. Cat A.B. p. 04; 8cl. et Salo. P.Z.B. 1S6G, 
 p. 180,1867, pp. 749, 977, 1873, pp. 185,2(31 (Peru), 1879, p. 598 
 (Bolivia); iid. Nomencl. p. 19; Tacz. P. Z. S. 1874, p. 514 (Central 
-Peru) ; id. Om. Per. ii. p. 459. 
+Peru) ; id. Orn. Per. ii. p. 459. 
 Callospiza schrankii, Tsch. Faun. Per. p. 201. 
 Chrysotkraupis schrankii, Bp. Rev. Zool. 1851, p. 143; id. Note s. I 
 Tang. p. 17. 
@@ -8557,12 +8557,12 @@ miol).
 %i. $ ad. sk. Costa Rica (Carmiol). Sclater Coll. 
 
 14. Oalliste xanthogastra. 
-Calliste xanthogastra, Sclater, Contr. Om. 1851, pp. 23, 5o; id. 
+Calliste xanthogastra, Sclater, Contr. Orn. 1851, pp. 23, 5o; id. 
 P. Z. S. 1854, p. 115,1855, p. 157, et 1856, pp. 19, 249; id. Mon. 
 Callist. p. 23, pi. 11; id. Syn. Av. Tan. p. 75; id. Cat. A. B. 
 p. 64; Scl. et Salv. P. Z. 8. 1866, p. 180,1867, p. 977, et 1873, 
 p. 261 (Upp. Amazons) ; iid. Nomencl. p. 19; Taez. P. Z. S. 1874, 
-p. 514, et 1882, p. 11; id. Om. Per. ii. p. 461 (Peru) ; 8ah. Ibis, 
+p. 514, et 1882, p. 11; id. Orn. Per. ii. p. 461 (Peru) ; 8ah. Ibis, 
 1885, p. 209 (Brit. Guian.). 
 Ixothraupis ckrysogaster, Bp. Bev. Zool 1851, p. 144; id, Note s. I. 
 Tang. p. 18. 
@@ -8610,7 +8610,7 @@ $ ad. sk. Kukenam, Brit. Guiana Salvin-Godman Coll.
 Tangara tachete* de Cayenne, Buff. PI Bnl. 301. f. 1. 
 Tangara petit Syacou, Less. Tr. d'Om. p. 462. 
 Tanagra graminea, Spiv, Av. Bras. ii. p. 40, pi. 53. £2(5). 
-Calliste virescens, Sclat. Contr. Om. 1851, p. 22, pi. 69. f. 1, et 
+Calliste virescens, Sclat. Contr. Orn. 1851, p. 22, pi. 69. f. 1, et 
 
 
 p. 56. 
@@ -8654,7 +8654,7 @@ Tanagrella rufigula, Bp. Compt. Rend, xxxii. p. 77 j id. Rev. Zool.
 
 1851, p. 130; id. Note s. I. Tang. p. 4. 
 
-Calliste rufigula, Sclater, Contr. Om. 1851, p. 55. 
+Calliste rufigula, Sclater, Contr. Orn. 1851, p. 55. 
 
 Calliste rufigularis, Sclater, P. Z. S. 1856, pp. 19, 250, 1850, p. 440, 
 
@@ -8765,7 +8765,7 @@ Tanagra arthus, Less. 111. Zool. pi. 9.
 
 Calliste arthus, Bp. Consp. i. p. 235, sp. 36. 
 
-Calliste artkusi, Sclater, Contr. Om. 1851, p. 53 j id. P. Z. 8.1856 
+Calliste artkusi, Sclater, Contr. Orn. 1851, p. 53 j id. P. Z. 8.1856 
 
 pp. 19, 251; id. lion. Callist. p. 35, pi. 10 j id. Syn. Av. Tan. p 77 • 
 id. Cat. A. B. p. 65 ; Scl. et 8ak. Nomencl. p. 19. ? 
@@ -8959,12 +8959,12 @@ id. Mon. Callist. p. 41, pi 19; id. Syn. Av. Tan. p. 78; id. Cat A.
 TAlS"AQ-RI2)iB, 
 
 B p. 06; Sol. et Sah. P. Z. 8. 1870, p. 780 (Venezuela); iid. 
-Nomencl p. 19; Wyatt, Ibis, 1871, p. 325 (Ocana); Pelzehi, Om. 
+Nomencl p. 19; Wyatt, Ibis, 1871, p. 325 (Ocana); Pelzehi, Orn. 
 Bras. p. 206 ; Sah. Ibis, 1885, p. 209 (Brit. Guian.). # 
 
 Oalospiza cayana, (M. m Schomb. Guian. iii- p. ^70; ed. iKws. .Hem. 
 
-OaUwte chrysonota, Sclater, Contr. Om. 1850, p. 50, pi. 51, et 1851, 
+OaUwte chrysonota, Sclater, Contr. Orn. 1850, p. 50, pi. 51, et 1851, 
 
 Caliiste cyanolahna, Bp. Pev. Zool. 1851, p. 140; id. Notes s. I Tang. 
 p 14 
@@ -8972,7 +8972,7 @@ p 14
 Caliiste cyanolaenia, Scl P. Z. S. 1856. pp. 19, 252; id Mon. Callist. 
 
 p. 48 j id. Syn. Av. Tan. p. 78; id. Cat. A. B. p. 66; ScL et Sah. 
-Nomencl p. 19; Tacz. Om. Per. ii. p. 463. 
+Nomencl p. 19; Tacz. Orn. Per. ii. p. 463. 
 Above shining ochraceous yellow; cap coppery rufous; sides of 
 head black; wings and tail blackish, edged with bluish, green; 
 below ochraceous yellow; throat and fore neck dark bluish, more or 
@@ -9093,7 +9093,7 @@ Aglaia flava, £20. -2"ooZ. I E n. s. pi. 31.
 
 
 Calliste flava, J?p. Cfaws^. i p. 234; id. Bev.ZooI.l8ol, p. 140; id. 
-Note s. I Tang. p. 14; Sclater, Contr. Om. ISf.f.bl; id. 
+Note s. I Tang. p. 14; Sclater, Contr. Orn. ISf.f.bl; id. 
 
 P. Z. S. 1856,pp. 19, 253; id. Man. Callist. p. 4*, pi. 21. tig. Id1, 
 2 P ; *tt Sun. Av. Tan. p. 79; id. Cat. A. B. p. Go; Pehxln, Dm. 
@@ -9183,18 +9183,18 @@ c. <$ ad. sk. Curytiba, Brazil (flatterer). Salvin-Godman Coll.
 d. S ad. sk. S. Brazil. P. L. Sclater [P.], 
 28. Calliste melanonota. 
 Taaagia peruviana, Desm. Tan. pi. 11 ( $ ) ; Vieill. Enc. MStk p. 778. 
-Tanagra gyrula, Max. Beitr. iii. p. 471 (partim) $ Dubois. Om. Gall. 
+Tanagra gyrula, Max. Beitr. iii. p. 471 (partim) $ Dubois. Orn. Gall. 
 
 p.lSl,pL87(?). 
-Aglaia nielanota, Sw. Om. Dr. pis. 31 (<5), 43 ($). 
+Aglaia nielanota, Sw. Orn. Dr. pis. 31 (<5), 43 ($). 
 Callihte peruviana, Bp. Comp. i. p. 2o4; id. Rev. Zool. 1851, p. 140; 
 
-id. Nvte s. I. Tang. p. 14 j Sclater, Contn Om. 1851, p, 04; id. 
+id. Nvte s. I. Tang. p. 14 j Sclater, Contn Orn. 1851, p, 04; id. 
 2>#.&18o0,p. ID. 
 Calliste melanonota, Sclater, P. Z. S. 1856, p. 254; id. Mon. Calli&t. 
 
 p. 51, pi 23. %s. U,2$; id. Syn. Av. Tan. p. 80 ; id. Cat A. B. 
-p. 67 ; Beheln} Om. Bras. p. 207 ; Sal. et Salv. Nomenel, p. 19. 
+p. 67 ; Beheln} Orn. Bras. p. 207 ; Sal. et Salv. Nomenel, p. 19. 
 Above, head and neck dark coppery chestnut; interscapulium deep 
 black; wing-coverts and lower back clear ochraceous; wings ana-
 tail -black, narrowly edged with bluish: below nearly uniform 
@@ -9245,7 +9245,7 @@ Tanagra gyrola, Linn. S. N. i. p. 315.
 Tangara du Pe*rou, Dauh. PI. BJnl. 133. &g. 2. 
 Tangara rouverdin, JDesm. Tang. p. 6. 
 Aglaia chrysoptera, Sic. An. in Menag. p. 356. 
-Calliste gyrola, Bp. Consp. i. p. 234; Sclater, Contr. Om. 1851, p. 67; 
+Calliste gyrola, Bp. Consp. i. p. 234; Sclater, Contr. Orn. 1851, p. 67; 
 
 
 id. P. Z.S. 1856, pp. 19, 255; id. Mon. Callist. p. 55, pi. 25 j id. 
@@ -9717,7 +9717,7 @@ I Tang. p. 19.
 Calliste* eyanescens, Sclater, P. Z. S. 18/56, p. 260; id. Mon. Callist. 
 
 p. 79, pi. 35 ; id. Syn. Av. Tan. p. 80; id. Cat. A. B. p. 70. 
-Calliste nigriviridis berlepschi, Tacz. Om. Per. ii. p. 469. 
+Calliste nigriviridis berlepschi, Tacz. Orn. Per. ii. p. 469. 
 Above, front, sides of the head, and interscapulium black; cap-
 feathers black, broadly edged with shining greenish blue; rump 
 greenish bine; wings and tail black margined with blue ; bend of 
@@ -9846,8 +9846,8 @@ Bump green 43. cyaneicollis^. 127.
 Bump blue 44. cyanopygia, p. 128. 
 
 41. Calliste larvata. 
-Calliste larvata, JDu Bus, Esq. Om. pi. 9; Bp. Consp.i.y. 236; Sclater, 
-Contr. Om. 1851, p. 64 • id. P. Z. S. 1856, pp. 19, 260 • id, Mon. 
+Calliste larvata, JDu Bus, Esq. Orn. pi. 9; Bp. Consp.i.y. 236; Sclater, 
+Contr. Orn. 1851, p. 64 • id. P. Z. S. 1856, pp. 19, 260 • id, Mon. 
 
 10 . CAXLISTE. 
 125 
@@ -9934,7 +9934,7 @@ C. (Salmon).
 42. CaHiste nigricincta. 
 Aglaia nigro-cincta, Bp. P. Z. S. 1837, p. 121. 
 
-Calliste nigro-cincta, Bp. Consp. i. p. 235 ; Scl. Contr. Om. 1851, p. 68. 
+Calliste nigro-cincta, Bp. Consp. i. p. 235 ; Scl. Contr. Orn. 1851, p. 68. 
 
 Chalcotbraupis nigro-cincta, Bp. liev. Zool. 1851, p. 145; id. Note s. I 
 
@@ -9942,12 +9942,12 @@ Tang. p. 19.
 
 Calliste thalassina, Strickl. Ann. Nat. Hist. 1844, siii. p. 419; Scl. 
 
-Contr. Om. 1851, p. 57; id. P. Z. S. 1854, p. 115, 1855, p. 158. 
+Contr. Orn. 1851, p. 57; id. P. Z. S. 1854, p. 115, 1855, p. 158. 
 
 Aglaia wilsoni, Lafr. Bev. Zool. Ib47, p. 73. 
 
 Calliste wilsoni, Bp. 
-Consp. i. p. 236, sp. 37 ; Des Murs, Icon. Om. 
+Consp. i. p. 236, sp. 37 ; Des Murs, Icon. Orn. 
 
 pi. m. fig. 2. 
 
@@ -9959,8 +9959,8 @@ Calliste nigricincta, Scl. P. Z. S. 1856, p. 261; id. Mm. Callist
 
 p. 85, pL 37; id. Syn. Av. Tan. p. 87 ; id. Cat. A. B. p. 70; Scl. et 
 Sah. P. Z. S. 1873, p. 185 (S. Peru), 1879, p. 599 (Bolivia) ; iid. 
-Nomencl. p. 19; Pelzeln, Om. B?*as. p. 208 (Marabitanas); Tacz. 
-P.Z.S. 1882, p. 2 (N.E. Peru); id. Om. Per. ii. p. 471; 'Salvin, 
+Nomencl. p. 19; Pelzeln, Orn. B?*as. p. 208 (Marabitanas); Tacz. 
+P.Z.S. 1882, p. 2 (N.E. Peru); id. Orn. Per. ii. p. 471; 'Salvin, 
 Ibis, 1885, p. 210 (Brit. Guian.). 
 Above, head and neck lilac-blue ; sides of face greenish ; interscapulium 
 black; whole lower back bright blue; wings and tail 
@@ -10332,12 +10332,12 @@ d. Ad. sk. Venezuela. Purchased.
 Tanagra parzudakii, Lafr. JRev. Zool. 18-43, p. 97; id. May. de Zool. 
 1843, Ois. pi. 41. 
 
-Calliste parzudakii, Bp. Consp. i. p. 235, sp. 26; Sclater, Contr. Om. 
+Calliste parzudakii, Bp. Consp. i. p. 235, sp. 26; Sclater, Contr. Orn. 
 1851, p. 66; id. P. Z. S. 1854, p. 115,1855, p. 158, et 1856, pp. 19, 
 263 j id. Mon. Callist p. 93, pi. 41; id. Syn. Av. Tan. p. 89; id. 
 Cat A. B. p. 71; Sd. et Salv. Nomencl. p. 20; Tacz. P. Z. S. 1874, 
 
-p. 515 (Centr. Peru) ; id. Om. Per. ii. p. 474. 
+p. 515 (Centr. Peru) ; id. Orn. Per. ii. p. 474. 
 Chrysothraupis parzudakii, Bp. Rev. Zool. 1851, p. 143 ,* id. Note s. I. 
 Tang. p. 18. 
 
@@ -10486,12 +10486,12 @@ e. Ad. sk. Bolivia (Buckley). Salvin-Godman Coll.
 / . Ad. sk. Peru. Sahin-Godman Coll. 
 56. Calliste chrysotis. 
 Calliste 
-chrysotis, Du Bus, Esq. Om. pi. 7; Bp. Consp. L p. 236; 
+chrysotis, Du Bus, Esq. Orn. pi. 7; Bp. Consp. L p. 236; 
 Sclater, Contr. Orn. 1851, p. 6G : id. P. Z. S. 1856, pp. 19, 268, et 
 1859, p. 440; id. Mon. Callist. p. 97, pi. 43; id. Syn. Ai\ Tan. 
 
 p. 89 ; id. Cat. A. B, p. 71; Scl. et Salv. Komencl p. 20; Tacz. 
-P. Z. S. 1882, p. 12 (N.E. Peru; ; id. Om. Per. ii. p. 475: Tacz. et 
+P. Z. S. 1882, p. 12 (N.E. Peru; ; id. Orn. Per. ii. p. 475: Tacz. et 
 JBerl. P. Z. S. 1885, p. 79 (Ecuador). 
 Chrysothraupis 
 chrysotis, Bp. Rev. Zool. 1851, p. 142; id. M>te s. L 
@@ -10547,12 +10547,12 @@ Belly black:
 J throat shining fulvous 60. argentea, p. 137. 
 (throat green 61. argyrophenges, p. 137. 
 57. Calliste cyanoptera. 
-Aglaia cyanoptera, Sw. Om. Dr. pi. 8 (1841). 
+Aglaia cyanoptera, Sw. Orn. Dr. pi. 8 (1841). 
 Tanagra argentea, Lafr. Rev. Zool. 1843, p. 69. 
 Calliste cyanoptera, Bp. Consp. i. p. 234; id. Rev. Zool. 1851,p. 140; 
 
 
-id. Note s. I. Tang. p. 15; Sclat. Contr. Om. 1851, p. 64; id. P. Z. S. 
+id. Note s. I. Tang. p. 15; Sclat. Contr. Orn. 1851, p. 64; id. P. Z. S. 
 1856, pp. 19, 254; id. Won. Ccdlist. p. 53, pi. 24; id. Syn. Av. 
 Tan. p. 80; id. Cat. A. B. p. 67; Scl et Salv. P. Z. S. 1868, p. 167 
 (Caracas) ,* iid. Nomencl. p. 19; Bah. et Godm. Ibis, 1879, p. 200, 
@@ -10657,15 +10657,15 @@ Procnopis argentea, Tsch. Wiegm. Arch. 1844, p. 285; id. F. P.. Aves,
 p. 199, pi. 14.fig. 2. 
 Calliste 
 argentea, Gray, Gen., App. p. 14; Bp. Consp. i. p. 235; 
-Sclater, Contr. Om. 1851, p. 60 ; id. P. Z. S. 1856, p. 250; id. Sgn. 
+Sclater, Contr. Orn. 1851, p. 60 ; id. P. Z. S. 1856, p. 250; id. Sgn. 
 Av. Tan. p. 85; id. Mon. Cattist. p. 75, t. xxxiv.; Scl. ot Salv. 
 Nomencl. p. 19; Tacz. P. Z. S. 1874, p. 514 (Oentr. Peru), 1879, 
 
-p. 226 (N. Peru), 1882, p. 11 (N.E. Peru) ; id. Om. Per. ii. 
+p. 226 (N. Peru), 1882, p. 11 (N.E. Peru) ; id. Orn. Per. ii. 
 p. 466. 
 Clialcotliraupis argentea, Pp. It Z. 1851, p 145; id. Note s, I Tang. 
 p. 19. 
-Calliste argentea viridicollis, Tacz. Om. Per. ii. p. 468. 
+Calliste argentea viridicollis, Tacz. Orn. Per. ii. p. 468. 
 Above greenish silvery grey; cap black; -wings and tail black, 
 with edgings like the back but darker: below black; flanks silvery 
 grey like the back; throat and sides of head of a dark golden strawcolour 
@@ -10701,7 +10701,7 @@ Salvin-Godman Coll.
 61. Calliste argyrophenges. 
 Calli&te argyrophenges, Sol. et Salv. P. Z. S. 1876, p. 354, t. xxx. 
 iig. 2, 1879, p. 599 (Bolivia) ; Scl. Ibis, 1876, p. 408; Tacz. P. Z. S. 
-1882, p. 12 (N.E. Peru) ; id. Om. Per. ii. p. 468. 
+1882, p. 12 (N.E. Peru) ; id. Orn. Per. ii. p. 468. 
 
 Abovo of a bright silvery ochre; cap, wings, and tail black: 
 telow, middle of body black, flanks silvery ochre like the back; 
@@ -11093,7 +11093,7 @@ Tanagra (Euphone ?) constantii, Boiss. Rev. Zool. 1840, p. 3.
 15 . P(E(JIL0EHRA.T7Jt»Ifl. 
 145 
 
-Aglaia erytkrotis, Jard. et Selby, III. Om. n. s. pi. 3G (1840). 
+Aglaia erytkrotis, Jard. et Selby, III. Orn. n. s. pi. 3G (1840). 
 Tanagra erytkrotis. Less. Echo d. M. 8. 1843, p. 947. 
 Tanagra igniventris, Tsch. in Wiegm. Arch. 1844, pt. 1, p. 287; 
 
@@ -11110,7 +11110,7 @@ Poecilotliraupis lunulata atricrissa, Tacz. et Per I. P. Z. 8. 1885,
 
 p. 80 (Ecuador). 
 Pcecilothraupis ignicrissa, Cab. J. f. O. 1873, p. 317; Tacz. P. Z. 8. 
-1874, p. 514 (Oentr. Peru), 1882, p. 13 (N.E. Peru): id. Om. 
+1874, p. 514 (Oentr. Peru), 1882, p. 13 (N.E. Peru): id. Orn. 
 Per. ii. p. 482. 
 
 Above black; rump and lesser wing-coverts blue; auricular 
@@ -11330,7 +11330,7 @@ T. Bridges [C.j.
 e. Ad. sk. Bolivia. 
 J- Gould, Esq. 
 2. Buthraupis cucullata. 
-Tanagra cucullata, Jard. HI. Om. n. s. pi. 43 (1841). 
+Tanagra cucullata, Jard. HI. Orn. n. s. pi. 43 (1841). 
 " Tanagra montana, d'Orb.," Less. JDescr. d. Mamm. et Ois. p. 348. 
 Dubusia gigas, Bp. Rev. Zool 1851, p. 171; id. Note s. I. Tang. p. 22. 
 Buthraupis cucullata, Scl. P. Z. S. 1855, p. 157, et 1856, p. 239 -id. 
@@ -11338,7 +11338,7 @@ Buthraupis cucullata, Scl. P. Z. S. 1855, p. 157, et 1856, p. 239 -id.
 
 Syn. Av. Tan. p. 65; id. Cat. A. B. p. 73; Scl et Salv. P. Z. S. 
 1873, pp. 18G, 780 (S. Peru), et 1879, p. 500 (Antioquia) ; iid. 
-Nomencl. p. 20; Tacz. P.Z.S. 1874, p. 513 (0. Peru); id. Om. 
+Nomencl. p. 20; Tacz. P.Z.S. 1874, p. 513 (0. Peru); id. Orn. 
 Per. ii. p. 483. 
 
 Above purple-blue; head black : below, throat black ; abdomen 
@@ -11859,7 +11859,7 @@ a, b. Ad. sk. Trinidad. Sclater Coll.
 c. Ad. &k. Trinidad <? j. Purchased. 
 4. Tanagra cana. 
 
-Tanagra cana, Sic. Om. Dr. pi. 37, $ (1841); Strickl Ann. Nat. 
+Tanagra cana, Sic. Orn. Dr. pi. 37, $ (1841); Strickl Ann. Nat. 
 Hist. xx. p. 332 j Jard. Ami. Nat. Hist. xx. p. 332 (Tobago; ; 
 8dater, P.Z.S. 1855, p. 157, 1856, p. 232, 1859, p. 139, 1860, 
 pp. 274, 292; id. Byn. Av. Tan. p. 58', id. Cat. A. B. p. 75; 
@@ -11869,9 +11869,9 @@ Y. vii. p. 297 (Panama); Wyatt, Ibis, 1871, p. 325 (Colombia);
 Bel. et Salv. Nomencl. p. 21; Hd. P. Z. 8. 1879, p. 500 (Antioquia); 
 Berl. et Tacz. P. Z. 8.1883, p. 545, ^1884, p. 290 (Ecuador"); Salv. 
 et Godm. Biol. Cenfr.-Am., Aves, i. p. 277; Berl. J. f. 0. 1884, 
-p 291 (Bucaramanga) ; Tacz. Om. Per. ii. p. 4fe6; Tacz. et Berl. 
+p 291 (Bucaramanga) ; Tacz. Orn. Per. ii. p. 4fe6; Tacz. et Berl. 
 P. Z. 8. 1885, p. 81 (Ecuador). 
-Tanagia cselestes, Bio. Om. Dr. pi. 41 (jr.) ? 
+Tanagia cselestes, Bio. Orn. Dr. pi. 41 (jr.) ? 
 Tanagra swainsoni, Gray, Gen. B. ii. p. 3(54. 
 Thraupis cana, Cab. Mas. Hein. i. p. 29. 
 Tanagra sayaca, Bp. JRev. Zool. 1851, p. 170; id. Note s. I Tany. 
@@ -12248,7 +12248,7 @@ p. 600 (Antioquia) et p. 600 (Bolivia) • iid. Nommcl p. 21*.
 TA.NAGRID2D. 
 
 Pelz. 
-z. Om. Bras. p. 209 ; Lai/ard, Ibis, 1873, p. 379 (Para) ; Bon-
+z. Orn. Bras. p. 209 ; Lai/ard, Ibis, 1873, p. 379 (Para) ; Bon-
 JZ, P. Z. S. 1878, p. 55 (Costa Rica) ; Taez. P. Z. S. 1882, p. 13 
 
 card, _ 
@@ -12256,7 +12256,7 @@ card, _
 (N.E. Peru); ^/ym, ito, 1885, p. 210 (Brit. Guiana). 
 Thraupis palmarum, Finsch, P. Z. S. 1870, p. 580 (Trinidad). 
 Tanagra olivascens, Licht. BoubL p. 32 (1823); d*Orb. Voy.,Ois. p. 274 ; 
-Sw. Om. Br. pi 38; Cab. in Schomb. Guian. iii. p. 670; Burm. 
+Sw. Orn. Br. pi 38; Cab. in Schomb. Guian. iii. p. 670; Burm. 
 Syst. TJeb. iii. p. 175; Leotaud, Ois. Trin. p. 205; Tsch. Faun. 
 Per., Ave*, p. 204. 
 
@@ -12276,7 +12276,7 @@ p. 513 (C. Peru) ; Laior. Ann. Lye. K T. ix. p. 99 (Verasrua).
 Tanagra p ilmaram viohlavata, Bert, et Tajz. P. Z. S. 1883, p. 546 
 (Ecuador). 
 Tanagra palmarum melanoptera, Berl. J.f. 0.1^84, p. 291 (Ecuador) ; 
-Taez. Om. Per. ii. p. 486. 
+Taez. Orn. Per. ii. p. 486. 
 Tangara e^eque, femelle, Desm. Tang. pi. V>. 
 
 
@@ -12663,7 +12663,7 @@ pp. 453, 551 (Ecuador), I860, p. 86, 1866, p. 97, 1867, p. 341
 
 P. Z. S. 1867, p. 984,1868, p. 569,1869, p. 151, 1876; p. 16 (S. 
 Peru), et 1879, p. 600 (Bolivia); Tacz. P. Z.81874, p. 513(0. Peru), 
-1880, p. 195 (X. Peru), 1882, p. 13 (N.E. Peru); id. Om. Per. ii. 
+1880, p. 195 (X. Peru), 1882, p. 13 (N.E. Peru); id. Orn. Per. ii. 
 p. 488; BerL et Tacz. P. Z. 8. 1884, p. 290 (Ecuador). 
 Tanagra frugilegus, Tack. Wiegm. Arch. 1844, pt. 1, p. 286; id. 
 Faun. Per. p. 204, pi. 17. fig. 1; Hartl. Rev. ZooL 1849, p. 498. 
@@ -13248,7 +13248,7 @@ v. d ad. sk. Zulia; Venezuela {Goering). Salvin-Godman Coll.
 Ramphocelus luciani, Lafr. B. Z. 1838, p. 54; id. Mag. de Zool 1839, 
 Ois. t. 2 ; Bp. Consp. i. p. 242 ,• Scl. P. Z. S. 1856, p. 130; id. Syn. 
 Av. Tan. p. 54; Scl. et Salv. Nomencl. p. 21; Laiur. Ann. Lye. 
-K H. K. Y. vii. p. 331 (Panama); Tacz. Om. Per. ii. p. 494; 
+K H. K. Y. vii. p. 331 (Panama); Tacz. Orn. Per. ii. p. 494; 
 Salv. et God?n. Biol. Centr.-Am., Aves, i. p. 284. 
 
 Ramphopis melanogaster, Sw. An. in. Men. p. 359 (1838) ? 
@@ -13309,11 +13309,11 @@ R. ziropygialis, Bp.)
 7. Ihamphoccelus jacapa. 
 Tanagra jacapa, Linn. S. K. i. p. 813 j Gm. S. X i. p. bSS; Lath. 
 
-2nd. Om. i. p. 419. 
+2nd. Orn. i. p. 419. 
 
 Ramphocelus purpureus, Tieill. Line. Meth. p. 796. 
 
-Rampkopis atrococcineus, Sw. Om. Br. pi. 20; Cab. i/i Sekmnb. 
+Rampkopis atrococcineus, Sw. Orn. Br. pi. 20; Cab. i/i Sekmnb. 
 
 Guian. iii. p. 668. 
 Rarnphoeelus jacapa, Less. Rev. Zool. 1840, p. 132 ; Bp. Consp. I. 
@@ -13322,7 +13322,7 @@ p. 241; Sclater, P. Z. S. 1856, p. 328; id. Syn. Av. Tan. p.52; id. Cat
 A. B. p. 78; Burm. Syst. TJeb. iii. p. 172 ; Scl. et Sate. P. Z. S. 1800, 
 p. 180 (Ucayali), 1867, pp. 571, 749,977 (Amazonia), 1869, p. 597 
 (S. Peru) ; iid. Nomenct. p. 21; Layard, Ibis, 1*573, p. 379 (Lower 
-Amazonia) ; Toes. P. Z. S. 1882, p. 14 (X.E. Peru); id. Om. Per. 
+Amazonia) ; Toes. P. Z. S. 1882, p. 14 (X.E. Peru); id. Orn. Per. 
 ii. p. 491; Tacz. et Berl P. Z. S. 1885, p. 81 (Ecuador) ; Salv. Ibis, 
 1885, p. 210 (Brit. Guiana). 
 Ramphopis jacapa, Gray, Gen. B. ii. p. 363. 
@@ -13342,8 +13342,8 @@ Red-breasted Tanager, Lath. G. H. vi. p. 2.
 Tangara pourpre de Cayenne, Daub. PL JSnl. 128. 
 Tanagra albirostris, Bodd. Tall. p. 8 (1783). 
 Rampkocele bec-d'argent, De&m. Tang. tabb. 30, 31. 
-Ramphocelus albirostris, Pelz. Om. Bras. p. 210. 
-Ramphocelus atrosericeus, Pelz. Om. Bras. p. 211 (part.). 
+Ramphocelus albirostris, Pelz. Orn. Bras. p. 210. 
+Ramphocelus atrosericeus, Pelz. Orn. Bras. p. 211 (part.). 
 
 Bark velvety black, more or less glossed -with, crimson ; head and 
 neck all round and breast dark crimson, which is brightest on the 
@@ -13571,7 +13571,7 @@ p. 316 (Ckoutales); id. P.Z.S. 1*07, p. 138, et 1870? p. 187
 Frantz. J. f. 0. 1869, p. 299 (Costa Rica); Salt, et Godm. Biol. 
 Cenbr.-Am.) Aves, i. g."261 • Laicr. Ann. L. X. T. viii. p. 175 
 (Chiriqui) et p. 179 (Mcaragua), ix. p. Ud (Costa Rica). 
-Rampkopis passerinii, Bp. Xotes Om. p. o± 
+Rampkopis passerinii, Bp. Xotes Orn. p. o± 
 Rampkopis nammigerus, Baird7 Stambury's Frp. to Gt. Salt Lake, 
 App. p. 330 ? 
 
@@ -13927,8 +13927,8 @@ J lesser wing-coverts yellow 15. riibriceps, p. 192.
 [p. 192. 
 1. Pyranga aestiva. 
 Muscicapa rubra, Linn. S. N. i. p. 326. 
-Tanagra sestiva, Gm. S. N. i. p. 889 • Lath. Ind. Om. i. p. 422; 
-Wilson, Am. Om. i. p. 95; t, vi. figs. 3, 4 ; Aud. Om. Biogr. i. 
+Tanagra sestiva, Gm. S. N. i. p. 889 • Lath. Ind. Orn. i. p. 422; 
+Wilson, Am. Orn. i. p. 95; t, vi. figs. 3, 4 ; Aud. Om. Biogr. i. 
 
 p. 232, v. p. 518, t.xliv. 
 Tangara du Missis&ipi, Daub, PL JSnl. 741 (?). 
@@ -13936,7 +13936,7 @@ Tanagra mississipensis, Gm. S. N. i. p. 889.
 Le Tangara du Missis&ipi, Desm. Tang. tt. 32, 33. 
 Tanagra coccinea, JBodcl Tall. d. PL JEnL p. 46. 
 Summer Tanager, Lath. G. II. vi. p. 8. 
-Tanagra variegata, Lath. Ind. Om. i. p. 421. 
+Tanagra variegata, Lath. Ind. Orn. i. p. 421. 
 Variegated Tanager, Lath. G. H. vi. p. 9, t. xeiii. 
 Pyranga sestiva, Vieill. Nouv. Diet, xxviii. p. 291; id. Ene. Meth. 
 p. 799; Bp. P. Z. S. 1837, p. 117; id. Consp. i. p. 241; Sclater, 
@@ -13955,7 +13955,7 @@ id. Cat. StricM. Coll. p. 191; ffidgw. Pr. Ac. Sc. Phil. 1869, p. 130 ;
 Lawr. Ann. L. N. Kvii. p. 297 (Panama), viii. p. 175 (Ghiriqui). 
 et ix. p. 99 (Costa Rica); id. Bull. U. S. N. M. no. 4, p. 19 (S.W. 
 Mexico); Wyatt, Ibis, 1871, p. 326 (Colombia); Tacz. P. Z. S. 
-1879, p. 227 (N. Peru); id. Om. Per. ii p. 494; Leotaud, Ois. 
+1879, p. 227 (N. Peru); id. Orn. Per. ii p. 494; Leotaud, Ois. 
 Trin. p. 290 (Trinidad); Sumichr. Mem. Bost S. K H. i. p. 550 
 (Vera Cruz); Salv. et Godm. Ibis, 1879, p. 200, et 1880, p. 121 (S. 
 Marta) ; iid. Biol. Centr.-Am., Aces, i. p. 289; Boucard, P. Z. S. 
@@ -14681,7 +14681,7 @@ r.
 S $S. slope of Volcano of Salvin-Godman Coll. 
 Chiriqui (AreS). 
 14. Pyra&ga ludoviciaua. 
-Tanagra ludoviciana, Wils. Am. Om. hi. p. 27, pi. 20. fig. 1. 
+Tanagra ludoviciana, Wils. Am. Orn. hi. p. 27, pi. 20. fig. 1. 
 Pyranga ludoviciana, Bp. P. Z. S. 1837, p. 117; id. Consp. i. p. 241; 
 Sclater, P. Z. S. 1856, p. 125, 1857, p. 218, 1859, p. 377, 1862, 
 
@@ -14692,7 +14692,7 @@ B. N. Am. p. 303; Sumichr. Mem. Boston Soc. K H. i. p. 550
 Mexico) ; Brewer, Ibis, 1878, p. 205 ; Baird, Brew., et JRidgw. N. 
 Am. B. i. p. 437; Salvin, Cat. Sirichl. Coll. p. 192; Salv. et Godm. 
 Biol Centr.-Am., Aves, i. p. 297. 
-Tanagra columbiana, Jard. Wils. Am. Om. i. p. 317. 
+Tanagra columbiana, Jard. Wils. Am. Orn. i. p. 317. 
 Pyranga erythropis, Vieill. Nouv. Diet, xxviii. p. 291; id. Bnc. Meth. 
 
 
@@ -14785,7 +14785,7 @@ Juquila, Mexico (Salle). Purchased.
 25. CTANICTEBUS.—26. ORIHOGONrs. 193 
 25. CYANICTERUS. 
 Cyanicterus, Bp. Consp. i. p. 240 (1850) (j. venustus. 
-Callithraupis, Berl. Om. Centr. 1870, p. 63 0. venustus. 
+Callithraupis, Berl. Orn. Centr. 1870, p. 63 0. venustus. 
 
 The single species of this genus is closely allied to Pyranga, but 
 has a longer bill, with the culmen more incurved, and is clad in 
@@ -14802,7 +14802,7 @@ Pyranga icteropus, Vieill. K. D. clH. N. xxviii. p. 291; id. Enc.
 "Meth. p. 799 ; Fuck. Arch. Mm. Par. vii. p. 356. 
 Tachyphonus chloricterus, Vieill. N. D. d'H. N. xxxii. p. 360 ( § ); 
 id."Enc. Meth. p. 804?r"; Puck. Arch. Mm. Par. vii. p. 379. 
-Tachyphone a epaulettes bleues, Less. Tr. d' Om. p. 463 (§ ) ; Puch. 
+Tachyphone a epaulettes bleues, Less. Tr. d' Orn. p. 463 (§ ) ; Puch. 
 Arch. 3Ius. Par. vii. p. 378; pi. xxii. 
 Cyanicterus venustus, Bp. Consp. i. p. 240. 
 Orthogonys C} anicterus, Sclater, Tan. Cat. Sp. p. 8; id. P. Z. 8. 
@@ -14810,7 +14810,7 @@ Orthogonys C} anicterus, Sclater, Tan. Cat. Sp. p. 8; id. P. Z. 8.
 1856, p. 122; id. Si/n. Av. Tan. p. 46; 8cL et Salv. Nomencl. 
 
 p. 22; Salv. Ibis, 1885, p. 211. 
-Callithraupis cyanictera, Berl. Om. Centr. 1879. p. 63; id. J.f. O. 
+Callithraupis cyanictera, Berl. Orn. Centr. 1879. p. 63; id. J.f. O. 
 1879, p. 206. 
 
 Above bright purple-blue; wings and tail black with blue margins 
@@ -14902,10 +14902,10 @@ B. Colour above brownish olive / 3. hiohmamii, p. 19o.
 1. CMorothraupis earmioli* 
 Phcenicothraupis earmioli, Later. Ann. Z, A". T. ix. p. 100 (Costa 
 Rica); Sol. et Sah. P. Z. S. 1873, pp. 180, 780 (S. Peru) j hi. 
-Nomencl p. 22,- Salmn, Ibis, 1869, p. 313; Tacz. Om. Ber. ii 
+Nomencl p. 22,- Salmn, Ibis, 1869, p. 313; Tacz. Orn. Ber. ii 
 
 p. 499; Mdgzo. Br. TJ. S. N. M. 1883, p. 411 (Costa Rica) : Front*. 
-J.f. Om. 1869, p, 299 (Costa Rica). 
+J.f. Orn. 1869, p, 299 (Costa Rica). 
 Chlorothraupis earmioli, Sah. et Godm. Biol CentraAm.. Aves, I 
 p. 299, t. xx.fig. 1. 
 ' 
@@ -15194,7 +15194,7 @@ p. 14 (KE. Peru).
 Phoenicothraupis rhodinolsema, Salv. et Godm. Biol. Centr.-Am., 
 Aves, i. p. 300 (18h3). 
 Phoenicothraupis peruvianus, 
-Tacz. Om. Per. ii. p. 498 (1884) ; Scl. 
+Tacz. Orn. Per. ii. p. 498 (1884) ; Scl. 
 Ibis, 1883, p. 272. 
 
 Above dull brownish red, tail brighter; median crest scarlet; 
@@ -15391,7 +15391,7 @@ C. (Only known in immature dress) 6. lawrencii, p. 205.
 Lanio aurantius, Lafr. Rev. Zool. 1846, p. 402 ; JDu Bus, JEsq. Orn. 
 t. 21; Bp. Camp. I p. 240 ; Sclater, T. Z. S. 1856, pp. 119, 303, et 
 1857, p. 229; id. Syn. Av. Tan. p. 43 ; id. Cat. A. B. p. 83 ; Sclat. 
-et Salv. Ibis, 1859, p. 15 (Guatemala) ; iid. JEx. Om. p. 61, t. 31; 
+et Salv. Ibis, 1859, p. 15 (Guatemala) ; iid. JEx. Orn. p. 61, t. 31; 
 iid. Nomencl. p. 22 ; Sumichr. Mem. Bost. JSoc. N. .27. i. p. 549 (Vera 
 Cruz) ; Lawr. Bull. U. S. N. M. no. 4, p. 19 (N.W. Mexico) j 
 Salv. et Godm. Biol. Centr.-Am., Aves, i. p. 304. 
@@ -15553,8 +15553,8 @@ Consp. i. p. 240; Scl P. Z. S. 1856, p. 119; id. Syn. Av. Tan. p. 43;
 205 
 
 Scl. et Sah. P. Z. S. 1873, p. 185 (S. Peru) et p. 262 (E. Peru), 
-1879, p. 601 (Bolivia) ; iid. Ex. Om. p. 64: iid. Nomtncl p. 22 ; 
-Tacz. P. Z. S. 1874, p. 513 j id. Om. Per. ii. p. 500. 
+1879, p. 601 (Bolivia) ; iid. Ex. Orn. p. 64: iid. Nomtncl p. 22 ; 
+Tacz. P. Z. S. 1874, p. 513 j id. Orn. Per. ii. p. 500. 
 
 Above bright yellow, passing into orange on the upper back; head 
 black, the feathers of the vertex slightly tipped with olivaceous 
@@ -15680,18 +15680,18 @@ Tan. p. 37; id. Cat. A. B. p. 84; Sab. Cat Strichl Coll. p. 194;
 Sol et Salv. P. Z. S. 1864, p. 351 (Panama), 1867, p. 571 (Lower 
 Amazons), 1868, p. 167 (Venezuela), 1876, p. 16 (S. Peru); 1879, 
 
-p. 503 (Antioquia); Ud. Ex. Om. p. 68; iid. Nomencl p. 23; 
+p. 503 (Antioquia); Ud. Ex. Orn. p. 68; iid. Nomencl p. 23; 
 Taylor, Ibis, 1864, p. S2 (Trinidad); Wyaii, Ibis, 1871, p. 327 
 30 . TACHYPHONTTS. 
 207 
 
 (Colombia) ; Layard, Ibis, 1873, p. 379 (Lower Amazons); Forbes, 
-Ibis, 1881, p. 333 (Pernambuco); Pelzeln, Om. Bras. p. 212; Later. 
+Ibis, 1881, p. 333 (Pernambuco); Pelzeln, Orn. Bras. p. 212; Later. 
 Ann. L. N. T. vii. p. 331 (Panama); Tacz. P. Z. S. 1882. p. 15 
 
 (N.E. Peru); Finsch, P. Z. 8. 1870, p. 582 (Trinidad); Zeledon, 
 Cat. Aves Costa Pica, p. 7; Sah. et Godm. Biol. Centr.-Am., 
-Aves, i. p. 309; Tacz. Om. Per. ii. p. 501; Berl J.f. 0. 1884, 
+Aves, i. p. 309; Tacz. Orn. Per. ii. p. 501; Berl J.f. 0. 1884, 
 p. 292; Salv. Ibis, l&So, p. 211 (Brit. Guiana). 
 Pyrrota valerii, J. # E. Verr. P. Z. 1855, p. 351. 
 Tacliyplionus valerii, 8cl. P. Z. 8. 185(3, p. 114; id. Syn. Av. Tan. 
@@ -16426,7 +16426,7 @@ Voym p. 265? pi xxvi. %. 2; Bp. Consp. i. p. 241.
 Tricliotliraupis albieollis, Cab. Mus, Rein. i. p. 23 (note). 
 Eucometis albicollis, Scl P. Z. S. 1856, p. 117; id. Syn. Av. Tan. 
 
-p. 41; id. Cat A. B. p, 84; Pelz. Om. Bras. p. 212; Scl et Salv. 
+p. 41; id. Cat A. B. p, 84; Pelz. Orn. Bras. p. 212; Scl et Salv. 
 iXomencl p. 23; iid. P. Z. S. 1879; p. C01 (Bolivia). 
 Above yellowish, olive ; wings blackish, with margins like the 
 back; tail pale brown tinged with olive and with olive margins; 
@@ -16733,7 +16733,7 @@ Casteln., Ois. p. 69, pi. 20. fig. 2. _
 Nemosia ruficeps, Burm. Si/st. TJeb. iii. p. 159. 
 Pyrrhocoma ruficeps, Cab. Mm. Hein. i. p. 138 ; Sclater* B.Z. S. 18o6, 
 
-p. 108; id. Syn. Av. Tan. p. 32 ; id. Cat. A. B. p. 88 ; Feb. Om. 
+p. 108; id. Syn. Av. Tan. p. 32 ; id. Cat. A. B. p. 88 ; Feb. Orn. 
 Bras. p. 216; Sah. Cat. Strickl. Coll. p. 19o ; Sol. et Salv. Nomencl. 
 p. 24 
 Bark cinereous, rather paler below; whole head and throat 
@@ -16852,7 +16852,7 @@ and only known from the specimens (procured by Euler on the Rio
 Parahyba do Sul, in S.E. Brazil) in the Berlin Museum. 
 
 3. Nemosia gtdra. 
-Sylvia "brasiliensis viridis, Ms . Om. iii. p. 553. 
+Sylvia "brasiliensis viridis, Ms . Orn. iii. p. 553. 
 Motacilla guira, Linn. 8. N. i. p. 335. 
 Hylophilus guira, Max. Beitr. iii. p. 736. 
 
@@ -16860,12 +16860,12 @@ Hylophilus guira, Max. Beitr. iii. p. 736.
 8alv. P. Z. 8. 1866, p. 180 (Ucayali), 1873, p. 269 (E. Peru), 
 1879, p. 602 (Bolivia); iid. NomencL p. 23; Sate. Cat. StrickL 
 Coll. p. 195; id. Ibis, 1885, p. 212 (Brit. Guian.); Tacz. P. Z. 8. 
-1877, p. 744 (N.W. Peru), 1882, p. 15 (N.E. Peru) ; id. Om. 
+1877, p. 744 (N.W. Peru), 1882, p. 15 (N.E. Peru) ; id. Orn. 
 Per. ii. p. 510. 
 
 Nemosia guirina, Sclater, P. Z. 8. 1856, p. 110; id. 8yn. Av. Tan. 
 
-p. 34; id. Cat A. B. p. 87 ; Tacz. Om. Per. ii. p. 554; Bed. et 
+p. 34; id. Cat A. B. p. 87 ; Tacz. Orn. Per. ii. p. 554; Bed. et 
 Tacz. P. Z. 8. 1883, p. 547 (W. Ecuador); Berl J.f 0. 1884, 
 p. 292 (Bucaramanga). 
 Tang, olive a gorge noire de Cayenne, Daub. PL JSnl. 720. fig. 1. 
@@ -16979,10 +16979,10 @@ P. Z. S. 1856, p. 110, et 1857, p. 264; id. Syn. Av. Tan. p. 84 ,VOL.
 XI. Q 
 226 TA^AGBIDiE. 
 
-id. Cat A. B. p. 87; Burm. Si/st. Ueb. III. p. 16: Pekeln, Om. 
+id. Cat A. B. p. 87; Burm. Si/st. Ueb. III. p. 16: Pekeln, Orn. 
 Bras. p. 215 ; Sab. Cat Strickl Coll. p. 196; ScL et Salt. P. Z. 8. 
 1873, p. 263 (E. Peru), 1879, p. 602 (Bolivia) ; iid. Xomencl p. 23; 
-Tacz. Om. Per. ii. p. 511. 
+Tacz. Orn. Per. ii. p. 511. 
 
 Tanagra speculifera, Temm. PL Col. 36.fig-.1 <$, 2 2. 
 Sylvia melanoxantha, LioJit. Doubl. p. 34. 
@@ -16992,11 +16992,11 @@ Hemithraupis melanoxantha, Cab. Mm. Ilein. i. p. 21.
 Nemosia auricollis, Sclater, P. Z. S. 1856, p. Ill ; *V. Syn. Ar. Tan. 
 
 
-p. 35 5 id. Cat A. B. p. 87; Peheln, Om. Bras. p. 215; SrL it 
+p. 35 5 id. Cat A. B. p. 87; Peheln, Orn. Bras. p. 215; SrL it 
 Salv. P. Z. S. 1867, p. 750 (E. Peru). 
 Nemosia insifynis, Sclater, P. Z. S. 1856, p. 110 ; id. >%n. Av. Ttta. 
 
-p. 34 ; id. Cat. A. B. p. 87; Pelz. Om. Bras. p. 215. 
+p. 34 ; id. Cat. A. B. p. 87; Pelz. Orn. Bras. p. 215. 
 Above dull sooty black: wing with a slightly concealer! wilte 
 speculum; lower back bright yellow: below white, with slight 
 cinereous frecklings; throat and crissum yellow: under win#coverts 
@@ -17507,7 +17507,7 @@ Tacky plionus palmarum,
 Vie ill. Sou v. Diet xxxih p. 350; id. JEnc. 
 Meth. p. 803. 
 
-Coll. p. 108 j Tristram. Ibis, 1874, p. ]fft>; Ck/v/, Bull. Xvtt. Om. 
+Coll. p. 108 j Tristram. Ibis, 1874, p. ]fft>; Ck/v/, Bull. Xvtt. Orn. 
 Club, vi. p. 152; 2(t7. J5//Y& of San Domingo, p. 5'>. 
 Arremon palmarum, G-'JYH/, 6^ . Z?. Suppl. p. IIJ; Bryant, Pr. Bust. 
 8oc. X. IL xi. p. 0i> (1BJ0). 
@@ -17527,10 +17527,10 @@ d. Ad. sk. San Domingo (Salle), Selatt'f Coll.
 e. Ad. sk. San Domingo. Salvin-Godman Coll. 
 2. Phoeiticopliiliis polioceplialiis-
 Dulus polioeephalus, Bp. Bev. ZooL 1851, p. 78; id. Xaie s. I. Tang. 
-Phoemcophilns poliocephalus, Strickl. Contr. Om. If 51, p. 104. 
+Phoemcophilns poliocephalus, Strickl. Contr. Orn. If 51, p. 104. 
 Plicenicopkilus palmarum § , Sdaterf P. Z. 8. iboiiy p. 84; id. Syn. 
 Av. Tan. p. 22. 
-Pkoenicophiltis dominlcensis, Cory, Bull Xuit. Om. Club, vi. p. 129 
+Pkoenicophiltis dominlcensis, Cory, Bull Xuit. Orn. Club, vi. p. 129 
 (1881); id. Birds of San Jhmingo, p. 5^, pi viii. 
 
 Like P. palmarum, but with the cap greyish plumbeous like the 
@@ -18076,7 +18076,7 @@ h. Ad. sk. Chillanes, Ecuador {Preiser). Sclater Coll.
 c. Ad. sk. Jima, Ecuador (Buckley). Salvin-Godman Coll. 
 
 11. CMorospingus flavigularis. 
-Pipilopsis flavigularis, 8cL Hev, Zool 1852, p. 8; id. Contr. Om. 
+Pipilopsis flavigularis, 8cL Hev, Zool 1852, p. 8; id. Contr. Orn. 
 1852, p. 131, pi. 98. 
 
 CMorospingus flavigularis, 8cl. P. Z. 8. 1855, p. 155,185G, p. 91, et 
@@ -18084,7 +18084,7 @@ CMorospingus flavigularis, 8cl. P. Z. 8. 1855, p. 155,185G, p. 91, et
 Salv. P. Z. S. 1807, p. 750, 1873, p. 185 (S. Peru) et p. 263 
 
 (E. Peru), 1879, p. 002 (Bolivia); iid. Nomencl. p. 24; Berl. et 
-Tacz. P. Z.S. 1883, p. 547, et 1885, p. 81 (Ecuador); Tacz. Om. 
+Tacz. P. Z.S. 1883, p. 547, et 1885, p. 81 (Ecuador); Tacz. Orn. 
 Per. ii. p. 514. 
 Above yellowish olive; wings and tail brown edged with olive: 
 beneath pale cinereous, almost white in the middle of the belly; 
@@ -18388,7 +18388,7 @@ Chlorospingus ignobilis, Scl. et Sate. P. Z. S. 1870. p. 754 'Venezuela),
 Chlorospingus oleasineus, Scl. P.Z.S. ISO:?, p. 110; ifl Cat A. B. 
 
 p. 339; Scl. et Salv. Nommcl p. 24; Tacs. P. Z. S. 1-74, p. 317 
-(C. Peru), 1879, p. 229 (X. Peru); id. Om. Per. ii. p. 316? TVKK. 
+(C. Peru), 1879, p. 229 (X. Peru); id. Orn. Per. ii. p. 316? TVKK. 
 ^ Per/. P. Z. S. 1885, p. 81 (Ecuador). 
 Above olive-green ; wings and tail brownish ; win'JM-orerts edged 
 with olive; slight superciliary stripe yellowish; beneath jellowi^h 
@@ -18445,7 +18445,7 @@ A". Ad. sk. Jima, Ecuador (Buckley). Salvin-Godman Coll.
 
 26. CMorospingns xanthopMhalmus. 
 Dacnis xanthophthalma, Tacz. P. Z. 8. 1874, p. 510, 1882, p. 9. 
-Chlorospingus xantkopiitlialmus, Tacz. Om. Per. ii. p. 522. 
+Chlorospingus xantkopiitlialmus, Tacz. Orn. Per. ii. p. 522. 
 
 Female. Above nearly uniform brownish grey, with a very slight 
 tinge of chocolate-brown on the head : below pale whitish cinereous, 
@@ -18468,7 +18468,7 @@ Dacuidea leucogaster, Tacz. P. Z. 8. 1874, p. 131, pL xix. fig. 2.
 
 1 >acnidea albiventria, Tacz. P. Z, 8. 1874, p. 510. 
 
-t'klorohpingus leucogaster, Tacz, P. Z. 8.1882, p. 15 ; id. Om. Per. 
+t'klorohpingus leucogaster, Tacz, P. Z. 8.1882, p. 15 ; id. Orn. Per. 
 
 ii. p. 516. 
 Above cinereous; head rather darker, superciliary stripe from the 
@@ -18490,7 +18490,7 @@ a. J ad. sk. Chachapoyas, Peru (Stolzmann). Sclater Coll.
 t'hloiwpmgufl castaneicollis, Sclater, P. Z. 8. 1858, p. 293: id. Cat. 
 A. B. p. 00, pi. x.; 8cL et Salv. XomencL p. 24; iid. P.Z.8. 
 1870, p. 602 (Bolivia); Tacz. P. Z. 8. Ib74, p. 517 (C. Peru), 1879, 
-p. 229; id. Om. PSr. ii. p. 520. 
+p. 229; id. Orn. PSr. ii. p. 520. 
 Above olive-brown; head dark greyish black; sides of head 
 
 25 0 
@@ -18968,7 +18968,7 @@ p. 549 (Vera Cruz); Later. Ann. Lye. X. Y. i\. p. 101 iCcnta
 Rica); Franks. J. f. 0. 1*00, p. 300; Cab. J. f. O lN'0, p. 414 
 (Costa Rica); Teres. P. Z. A 1*74, p. 515 <('entr. IVIUJ, W9 , 
 p. 228 (N. Peru), 1880, p. 197 (X Peru), 1^82, p. 15 f X.E. Peru i ; 
-id. Om. Per. ii. p. 529; Tuez. tt Perl P. Z. & lt<h p. e4 
+id. Orn. Per. ii. p. 529; Tuez. tt Perl P. Z. & lt<h p. e4 
 (Ecuador); Sah. ei Godm. Biol. Cent r.-Am., Arts, i. p. tflSL 
 Buarremon xantkogenys, Cab. Mu&. Una. i p. 141. 
 
@@ -19547,7 +19547,7 @@ c. Ad. sk. Pallatanga, Ecuador (Fraser). Purchased.
 d. Ad. sk. Pallatanga, Ecuador (Fraser). Eyton Coll. 
 e,f. Ad. sk. Jima, Ecuador (Buckley). Salvin-Godman Coll. 
 25. Buarremon dresseri. 
-Carenochrous dresseri, Tacz. P. Z. S. 1883, p. 70 • id. Om. Per. ii. 
+Carenochrous dresseri, Tacz. P. Z. S. 1883, p. 70 • id. Orn. Per. ii. 
 p. 528. 
 Above brownish cinereous; broad front and sides of head black; 
 lores white ; nape ochraceous brown ; wings dark cinereous, with a 
@@ -19567,7 +19567,7 @@ black front, and the nape of an ochraceous brown.
 
 47 . BTTAKKEMOtf. 
 26. Buarremon seebohmi. 
-Carenoelirous seebohmi, Tacz. P. Z. 8. 1883, p. 70: id. Om. Per. ii. 
+Carenoelirous seebohmi, Tacz. P. Z. 8. 1883, p. 70: id. Orn. Per. ii. 
 p. 527. 
 Above cinereous; sides of head and narrow front black; loral spot 
 whitish; cap dark chestnut: beneath cinereous, throat and middle 
@@ -19616,7 +19616,7 @@ i,j. Ad. sk. Intaj, Ecuador (Buckley). Salvin-Godman Coll.
 Buarremon mystacalis, Tacz. P. Z. 8.1874, p. 515. 
 Buarremon taczanowskii, 8cl. et Salv. P. Z. 8. 1875, p. 236, pi. xxxv. 
 fig. 2. 
-Carenochrous taczanowskii, Tacz. Om. Pir. ii. p. 526. 
+Carenochrous taczanowskii, Tacz. Orn. Pir. ii. p. 526. 
 
 Above dark cinereous; sicles of head and frontal spot black; lores 
 
@@ -19917,7 +19917,7 @@ Tanaprra alien*, Bodd. Table d. PL ML p. 40; Max. Beitr. iii.
 p. '307. 
 Axreiuun 
 nkm, Bp. Comp. L p. 487 j Sclater, P. Z. 8. 1856, p. 80; 
-id. %IL AD. Tan. p. 18 j id. Cat A. B. p. 93; Peh. Om. Bras. 
+id. %IL AD. Tan. p. 18 j id. Cat A. B. p. 93; Peh. Orn. Bras. 
 
 p. :*ltj; >Vr/. </ &/t\ P. Z. #. 1807, p. £72 (Lower Amazons), 
 187;J, p. Id7 (S. Peru] j «</. Nomencl. p. 25 ; Bayard, Ibis, 1873, 
@@ -20192,7 +20192,7 @@ b. $ ad. sk. Bolivia (?). Purchased.
 8. Arremon semitorgnatus. 
 Amnion semitorquatus, Sw. An. in Menag. p. 357; Bp. Consp. i. 
 p. 488 ; Mater, P. Z. S. 1856, p. 82; id. %«. Av. Tan. p. 20; id. 
-Cat A. B. p. 9;); Pelz. Om. Bras. p. 217 ; ticl. et Salv. Nomencl 
+Cat A. B. p. 9;); Pelz. Orn. Bras. p. 217 ; ticl. et Salv. Nomencl 
 p. 25; Salv. Cat. StricU. Coll. p. 199. 
 Tanagra interrupt^ Natt. MS. 
 Above olive-green; wings and tail blackish, edged with olive; 
@@ -20244,7 +20244,7 @@ f,9-<S 2 ad. sk. Bogota. Purchased.
 h. $ ad. sk. 
 Bogota.. Gould Coll. 
 10. Arremon nigriceps. 
-Arremon nigriceps, Tacz. P. Z. S. 1880, p. 196; id. Om. Per. ii, 
+Arremon nigriceps, Tacz. P. Z. S. 1880, p. 196; id. Orn. Per. ii, 
 p. 535. 
 Above olive-green; wings and tail dark cinereous, the upper wing-
 coverts slightly edged with olive; head black; broad and well
@@ -20283,7 +20283,7 @@ ad. sk. Bahia (Wucherer). Salvin-Godman Coll. (Type
 of the species.) 
 12. Arremon polionotns. 
 Arremon polionotus, Bp. Consp. i. p. 488 * Sclater, P. Z. S. 1856, p. 81; 
-id. Syn. AD. Tan. p. 19; id. Cat A. B. p. 93; Peh. Om. Bras. 
+id. Syn. AD. Tan. p. 19; id. Cat A. B. p. 93; Peh. Orn. Bras. 
 
 p. 217; Scl et Salv. Nomencl p. 25. 
 Above cinereous; wings and tail brownish, wing-coverts tinged 
@@ -20303,7 +20303,7 @@ Sclater Coll.
 13. Arremon aTbeillaei. 
 Arremon abeillei, Less. B. Z. 1844, p. 435 ; Gray, Gen.. Arm. p. 16: 
 Scl. P. Z. S. 1856, p. 82; id. Syn. Av. Tan. p. 20; Scl et Salv. 
-Nomencl. p. 25; Taos. P. Z. S. 1877, p. 744; id. Om. Per. il. 
+Nomencl. p. 25; Taos. P. Z. S. 1877, p. 744; id. Orn. Per. il. 
 
 p. 534 j Berl et Tacz. P. Z. S. 1883, p. 548 (W. Ecuador). 
 Above dark cinereous ; wings and tail blackish, edged with cine
@@ -20800,7 +20800,7 @@ Le Griverd de Cayenne, Daub. PL JBnl 616 (?).
 
 Coracias cavanus, Bodd. Table d. PL Enl. p. 38. 
 
-Comciaa cayana, Gm. S. K i. p. 381; Lath. Ind. Om. i. p. 172. 
+Comciaa cayana, Gm. S. K i. p. 381; Lath. Ind. Orn. i. p. 172. 
 
 Saltator cayana, d'Orb. Voy., Ois. p. 290. 
 
@@ -21404,7 +21404,7 @@ Hab. Bolivia.
 a. Ad. sk. Bolivia. T. Bridges [C.]. 
 17. Saltator flavidieoHis. 
 Saltatorflavidicollis,Scl P. Z. S. I860, p. 274 ; id. Cat A. B. p. 96; 
-Berl et Tacz. P. Z. 8. 1883, p. 548; Tacz. Om. Per. ii. p. 548. 
+Berl et Tacz. P. Z. 8. 1883, p. 548; Tacz. Orn. Per. ii. p. 548. 
 Saltator olivascens, Scl. et Salv. Ibis, 1871, p. 327 ; Tacz. P. Z. S. 
 
 
@@ -21449,7 +21449,7 @@ p. 793 ; Bp. Consp. i. p. 489; Sclater, P. Z. S. 1856, p. 75; id. Syn.
 Av. Tan. p. 13; id. Cat A.B. p. 97; Wyatt, Ibis, 1871, p. 327; Scl 
 etSalv. Nomencl. p. 26; iid. P. Z. S. 1879, p. 505 (Antioquia); Tacz. 
 P. Z. S. 1874, p. 517 (Lima), 1879, p. 229 (N. Peru), 1880, p. 198 
-(N. Peru),- id. Om. PSr. ii. p. 542; Salv, et Godm. Ibis, 1880, 
+(N. Peru),- id. Orn. PSr. ii. p. 542; Salv, et Godm. Ibis, 1880, 
 p. 122 (S. Marts); id. Biol. Centr.-Am., Aves, L p. 330; Salvin, 
 P. Z. 8.1883, p. 421 (Panama); id. Cat Strickl Cot p. 200: Berl 
 J.f. 0.1884, p. 293 (Bucaramanga). 
@@ -21955,7 +21955,7 @@ p. 154.
 302 
 TAXAGKIDiE. 
 
-Tanagra melanopis, Lath, Ind. Om. i. p. 422; Max. Beitr. iii. p. 504. 
+Tanagra melanopis, Lath, Ind. Orn. i. p. 422; Max. Beitr. iii. p. 504. 
 Saltator melanopis, Vieill. Nouv. Diet. xiv. p. 103; id. JEnc. Meth 
 
 p. 790; cTOrb. Vmj., Ois. p. 291; Tseh. Faun. Per. p. 210. 
@@ -21964,14 +21964,14 @@ icl Cat. A. B. p. 98; id. P. Z. S. 1881, p. 213 (Guiana); Scl et
 Salv. P. Z. S. 1869, p. 597 (S. Peru), 1873, p. 185 (S. Peru), 1875 
 
 p. 237 (Venezuela), 1876, p. 16 (S. Peru), 1879, p. 505 (Antioquia) 
-et p. 604 (Bolivia) ; iid. Nomencl. p. 26; Peiz. Om. Bras 
+et p. 604 (Bolivia) ; iid. Nomencl. p. 26; Peiz. Orn. Bras 
 p. 220j Wyatt, Ibis, 1871, p. 327 (Colombia),* Forbes, Ibis, 1881 \ 
-p. 334 (Pernainbuco); Tacz. Om. Per. ii. p. 547; Berl. J. f. 0. 
+p. 334 (Pernainbuco); Tacz. Orn. Per. ii. p. 547; Berl. J. f. 0. 
 1884, p. 294 (Bucaramanga); Salv. Cat. Strickl Coll p. 201 • id 
 Ibis, 1885, p. 213 (Brit. Guian.). 
 Tanagra 
 olivina, Scl. P. Z. S. 1864, p. 607, et 1873, p. ISO, pi. xxl. 
-(jr.) ; Pelz. Om. Bras. p. 210. 
+(jr.) ; Pelz. Orn. Bras. p. 210. 
 Black-faced Tanager, Lath. G. H. vi. p. 12. 
 
 Grey, wings and tail blackish edged with grey; helow paler, 
@@ -22091,7 +22091,7 @@ iid. Nomencl. p. 26; Cassin, Pr. Ac. Sc. Phil. 1860, p. 140
 p. 298 (Panama), ix. p. 102 (Oosta Rica); Salv. P. Z. S. 1867, 
 p. 141 (Veragua); id. Ibis, 1872, p. 317 (Nicaragua), 1885, p. 213 
 XBrit. Guian.): Perl J.f. 0.1873, p. 245 5 Tacz. P. Z. S. 1874, 
-p. 518 (Central Peru) ; id. Orn. Pir. ii. p. 548 5 Peh. Om. Bras. 
+p. 518 (Central Peru) ; id. Orn. Pir. ii. p. 548 5 Peh. Orn. Bras. 
 p. 220 ,* Salv. et Godm. Biol. Cmtr.-Am., Aves, i. p. 331 j Berl. 
 et Tacz. P. Z. S. 1883, p. 549 (W. Ecuador). 
 Grosbec bleu d'Amenqne, Daub. PI. Enl 154. 
@@ -23350,7 +23350,7 @@ p. 681; Taifh,\ Ibis, 1804, p. 84; Scl Cat A. B. p. 128 ; id. Bis,
 18*3, p. 157 ; ikl et Sah. P. Z. 8. 1866, p. 182,1873, p. 206, 1879, 
 p. 00 •*; ikl. XomencL p. 35; Cass. Pr. Ac. Sc. Phil. 1867, p. 6o; 
 Prhi'hi, Orn. Bras. p. 193; Bayard, Ibis, 1873, p. 381; Forbes, 
-Ihk, 1^1, p. 338: Tacz. Om. Per. ii. p. 411; Sah. Ibis, 1885, 
+Ihk, 1^1, p. 338: Tacz. Orn. Per. ii. p. 411; Sah. Ibis, 1885, 
 p. 217 (Brit. Guian.). 
 Cassicus icteronotus, VieilL Nouv. Diet. v. p. 305; id. Bnc. Meth. 
 p. 724; Tbch. Faun. Per. p. 228; Cab. Mus. Hem. i. p. 186; Bp. 
@@ -23626,7 +23626,7 @@ Purchased.
 6. CASSictrs, 
 32o 
 7. Cassicus affirris. 
-Cassicus ruber, Briss. Om. ii. p. 98. 
+Cassicus ruber, Briss. Orn. ii. p. 98. 
 Caucus aifinis, Sw. Birds of Brazil, pi. 2; jfy. C. 12. xsxvu. p. 833 
 fl&53); Gttssin, Pr. Ac, Sc, PEL 1867, p. 64; ScL Ibis, 1883, 
 
@@ -24413,7 +24413,7 @@ p. 300 (Cordova, Mex.*), 1859, p. 365 (Jalapa) et p. 391 (Oaxaca);
 id. Cat. A. B. p. 135; id. Ibis, 1884, p. 4; Scl et Salv. Ibis, 1860, 
 p. 34 (Guatemala) ; iid. Nbmencl. p. 37 ; Cassm, Fr. Ac. Sc. Fhil. 
 1866, p. 18; Owen, Ibis, 1861, p. 61 (eg^s) ; Cab. J. f. O. 1861, 
-p. 81 (Costa Rica); Merrill, Bull. Nutt. Om. CI. 1877,* p. 85 (Rio 
+p. 81 (Costa Rica); Merrill, Bull. Nutt. Orn. CI. 1877,* p. 85 (Rio 
 Grande); Se?mett, BuU. U.S. Geol Surv. vol. iv. p. 23 (Rio 
 Grande); Corns, Chech-list (1882), p. 02; id. KetjN.A.B. (1884) 
 p. 403; Lawr. Mem. Bost Soc. N. H. ii. p. 281 (N. W. Mexico) ; 
@@ -24528,7 +24528,7 @@ There is no specimen of this bird in European collections, so far as I know.
 330 ICTEK1D.E. 
 
 1872, p. 809, et 1874, pp. 153 et seqq. (Buenos Ayres); Berlepsch, 
-Journ. f. Om. 1873, p. 249 (Santa Catharina); Durnford, Ibis, 
+Journ. f. Orn. 1873, p. 249 (Santa Catharina); Durnford, Ibis, 
 1877, pp. 33, 174 (Ohupat); Forbes, Ibis, 1881, p. 330 (Pernambuco) 
 -WMte, P. Z. S. 1882, p. G01 (Aig. Rep.). 
 
@@ -24537,7 +24537,7 @@ Icterus sericeus, Licht. Boubl. p. 19 ; Tsch. Faun, Fen p. 225.
 Molothrus sericeus, Bp. Consp. i. p. 437 ; Newton, Ibis, 1S60, p. 308 ; 
 
 
-Feb. Om. Bras. p. 200 ; Scl. Cat A. B. p. 135. 
+Feb. Orn. Bras. p. 200 ; Scl. Cat A. B. p. 135. 
 Molobrus sericeus, Bunn. Syst. Ueh. ill. p. 279; id. La-Flat a Heist, 
 
 ii. p. 494; Sternb. J.f. O. 1809, p. 125. 
@@ -25322,8 +25322,8 @@ B. p. 130; id. Ibis, 1884, p. 15 ; Scl et Salv. P. Z. S. 1866, p. 182
 
 1889, p. 252 (Venezuela), 1873, p. 266 (Upp. Amazons) ; iid. 
 Nomencl p. 37; Taylor, Ibis, 1804, p. 84 (Trinidad) ; Wyatt, 
-Ibis, 18717 p. 330 (Colombia) ; Pelzeln, Om. Bras. p. 197 (Lower 
-Amazons); Taca. Om. Per. ii. p. 425. 
+Ibis, 18717 p. 330 (Colombia) ; Pelzeln, Orn. Bras. p. 197 (Lower 
+Amazons); Taca. Orn. Per. ii. p. 425. 
 
 Leistes icterocephalus, Finsch, P. Z. S. 1870, p. 570 (Trinidad) ; 
 Cassin, Pr. Ac. Sc. PML 18(j6, p. 14. 
@@ -25382,7 +25382,7 @@ Zool. Soc. Coll.
 Purchased. 
 12. Agelseus flavus. 
 
-Oriolus flavus, Gm. S. N. i. p. 389; Lath. hid. Om. i. p. 179. 
+Oriolus flavus, Gm. S. N. i. p. 389; Lath. hid. Orn. i. p. 179. 
 Xanthornus flavus, Gould, Zool. Voy. L Beagle] iii. p. 107, pi. 4o; 
 
 Hartl. Ind. Azara, p. 5. 
@@ -25505,7 +25505,7 @@ feathers are slightly denuded at the tips and somewhat spiny.
 
 1. Leistes gmsmeiisis, 
 Oriolus guianensis et Tartagra militaris, Linn. S. X. I. pp. 102, 3113. 
-Oriolus axnericanus, Om. 8. JV. i. p. &#>. 
+Oriolus axnericanus, Orn. 8. JV. i. p. &#>. 
 Agelaius militaris, VieilL Gal Ois. £ p. 128, pi. &*. 
 Triipialis guianensis; Bp. Camp. I p. 4*il>; iterwi. %#t Uek iii. 
 
@@ -26480,7 +26480,7 @@ Range. Guiana and Amazonia.
 ;$02 JCTEltlDJE. 
 
 1. Gymnomystax melanicterus. 
-Oriolus mexicanus, Linn. S. N. i. p. 162; Lath. Ind. Om. i. p. 179. 
+Oriolus mexicanus, Linn. S. N. i. p. 162; Lath. Ind. Orn. i. p. 179. 
 Troupiale jaime a- calotte noire de Cayenne, Daub. PL Eril. 533 (jr.). 
 Agelaius melanicterus, VieilL Noiw.Dict. xxxiv. p. 536; id. Enc. Meth. 
 
@@ -26492,7 +26492,7 @@ Gymnomystax melanicterus, Cab. Mtts. Mein. i. p. 180; Burm. Si/st.
 "Ucb. iii. p. 2G0; Scl. Cat. A. B. p. 137 ; id. Ibis, 1884, p. 19 ; tic!. 
 et Salv. P. Z. S. 18G0, p. 182,1873, p. 207 (Ucayali); iid. NomencL 
 
-p. 37 ; Peh. Om. Bras. p. 197 (Para) j Tacz. Om. Per. ii. p. 420. 
+p. 37 ; Peh. Orn. Bras. p. 197 (Para) j Tacz. Om. Per. ii. p. 420. 
 Pseudolei&tes melanicterus, Finsch, P.Z. S. 1870, p. 575 (Trinidad). 
 Leistes melanicterus, Cassin, Proc. Ac. Sc. Phil. 186G; p. 14. 
 Black-crowned Oriole, Lath. G. II. iii. p. 112. 
@@ -26515,7 +26515,7 @@ h. Ad. sk.; I <S jr.sk. Yquitos, Peru ( Whitely). Salvin-Godman Coll.
 22. ICTEEUS. 
 Type. 
 
-Icterus, Brisson, Om. ii. p. 85 (17G0) * I. vulgaris. 
+Icterus, Brisson, Orn. ii. p. 85 (17G0) * I. vulgaris. 
 
 Xantliornus; Scop. Intr. ad Eist Nat. p. 481 (1777). I. vulgaris. 
 
@@ -26766,7 +26766,7 @@ Xanthornus bullockii, $w. Phil. Mag. 1827, i. p. 436.
 
 Icterus bullockii, And. Orn. Bioqr. v. p. 9 j Baird, B. N. Am. p. 549; 
 ScL Cat A. B. p. 180; id. Ibis, 1883, p. 354; ScL et Salv. P. Z. S. 
-Ib60, p. 362 (Mexico); iid. Ex. Om. p. 188; iid. Komencl. p. 3G; 
+Ib60, p. 362 (Mexico); iid. Ex. Orn. p. 188; iid. Komencl. p. 3G; 
 Baird, Breicer, et Itidgw. N. A. B. ii. p. 199 ; Coues, Key K A. B. 
 (1884) p. 401). 
 
@@ -26955,7 +26955,7 @@ p'. tf ad. sk. Panama (McLeannan). Sclater Coll.
 5. Icterus bonaria. 
 Oriolus bonana, Linn. S. K. i. p. 102. 
 Le Carouge, Daub. PI Enl 535. fig. 1. 
-Icterus bonana, Dm^/. Tr. W Om. ii. p. 832 ; Later. Pr. II. S. N. M. 
+Icterus bonana, Dm^/. Tr. W Orn. ii. p. 832 ; Later. Pr. II. S. N. M. 
 
 
 i. p. 355 * Scl Cat A. B. p. 131; id. Ibis, 18fcS, p. 358; Scl et Sate. 
@@ -27023,7 +27023,7 @@ Gracula cliryssoptera, Merr. Icon. Av. pi. 3.
 Pendulinus chrysoceplialus, Vieill. Gal. Ois. i. p. 122, pi. 86 ; Bp. 
 
 
-Consp. i. p. 452; Cassin, Pr. Ac. Sc. Phil. 1807, p. 56; Pek. Om. 
+Consp. i. p. 452; Cassin, Pr. Ac. Sc. Phil. 1807, p. 56; Pek. Orn. 
 Bras. i. p. 104. 
 Xanthomas chrysoceplialus, Cab. Mus. Ilein. i. p. 184; Burm. Syst. 
 JJeh. iii. p. 270. 
@@ -27300,7 +27300,7 @@ Jr. 0k. Guatemala (Sahin). Salvin-Godman Coll.
 Guatemala (Sahin). 
 
 10. Icterus prosthemelas. 
-Xanthoma proftthemela*, Strkld. Cmitr. Om. 1850, p. 120, pi. 62. 
+Xanthoma proftthemela*, Strkld. Cmitr. Orn. 1850, p. 120, pi. 62. 
 iViicltiliniLs it"*.soiiiT lip. Cvn&jh L p. 482 (?). 
 Icterus pr«fSthwii*4a^ Sclater, P. 2. S. Ib0t>, p. 301, 1857, p. 7; id. 
 
@@ -27647,7 +27647,7 @@ a. Ad. ak. Chamicuros, E. Peru X Gould, Esq. (Type
 (Hauxicett). of the species.) 
 23. Icterus grace-aarase. 
 Icterus grace-annee, Cassin, Br. Ac. Sc. Phil 1867, p. &'2; Tacz, P.Z.8. 
-1877, p. 323 (Tunibez) j id. Om. Per. ii. p. 410 ; Salrin, Ibis, 1874, 
+1877, p. 323 (Tunibez) j id. Orn. Per. ii. p. 410 ; Salrin, Ibis, 1874, 
 
 p. 323 (Guayaquil); id. P. Z. 8. 1883, p. 422 (Payta) ; Scl. et 8ak. 
 P. Z. 8. 1878, p. 137 (Pacasniayo); Scl. Ibis, l&b3, p. 308, pi. xi. 
@@ -27685,7 +27685,7 @@ I860, p. 140 (R. Atrato), et 18G7, p. 51; Tacz. P. Z. 8. 1877, p. 323
 (Tumbez), et 1880, p. 200 (N. Peru); Sumichmst, Mem. Bmi. Soc. 
 N. E. i. p. 553 (Vera Cruz); Lawr. Bull TJ. 8. M. Jf. no. 4, p. 23 j 
 Salv.P. Z. 8.1883,p. 422;Boucard, P. Z. 8.1883, p. 445 (Yucatan); 
-Berl. et Tacz. P. Z. 8.1883, p. 552 (West Ecuador) ; Taos. Om. 
+Berl. et Tacz. P. Z. 8.1883, p. 552 (West Ecuador) ; Taos. Orn. 
 Pir. ii. p. 417. 
 Icterus atrogularis, Less. Cent. Zool p. 73, pi. 22. 
 Oriolus musicus, Cabot, Boston Journ. N. H. iv. p. 465. 
@@ -28101,7 +28101,7 @@ Cat A. B. p. 133; id. Ibis, 1883, p. 370; Cassin. Pr. Ac. Sc. PML
 1867, p. 47 ; Sel et Salv. P. Z, S. 1873, p. 266 (Upper Amazons'), 
 1879, p. 608 (Bolivia) j iid. Nomenel p. 36; Zayard, Ibis, 1873, 
 
-p. 381 (Para) ; PehOrn. Bras. p. 195 iTacz. Om. P£r. ii.p. 420. 
+p. 381 (Para) ; PehOrn. Bras. p. 195 iTacz. Orn. P£r. ii.p. 420. 
 Icterus jamacaii, Cab. in Schomb. Guian. iii. p. 679. 
 Bright orange ; front, sides of head, throat, and tail black ; wings 
 black, lesser coverts orange, middle and greater coverts black; a 
@@ -28691,7 +28691,7 @@ Lampropsar warcewiezi, Cab. Jf O. 1861, p. 83; ScL et Sain
 JMmencL p. 38; Sclater, P. Z. S. 1877, p. 523 (Lima). 
 Scolecophagus ?, Sclater, P. Z. S. 1800? p. 277 (Babaitoyo). 
 Quiscaius asquatorialis, Scl. Cat. A. B. p. 140 (1862). 
-Dives warcewiezi, ScL Ibis, 1884, p. 152 j Taez. Om. Tir. ii p. 4ML 
+Dives warcewiezi, ScL Ibis, 1884, p. 152 j Taez. Orn. Tir. ii p. 4ML 
 
 Uniform shining black; bill and feet black: whole length 9 
 inches, wing 4*4, tail 4*5. Female similar, but smaller. 
@@ -29100,7 +29100,7 @@ Quiscalus niger, Cassin, Pr. Ac. Sc. Phil. 1866, p. 407; Scl. Ibis,
 Quiscalus barita, Salle, P. Z. S. 1857, p. 232. 
 Quiscalus ater, Bryant, Pr. Boston Sec. N. H. xi. p. 94 (1866); 
 
-Cory, Bull. Nutt. Om. Club, vi. p. 153. 
+Cory, Bull. Nutt. Orn. Club, vi. p. 153. 
 Quiscalus baritus, var. niger, Baird, Brew., et Ridgw. N. A. B. ii. 
 
 p. 213. 

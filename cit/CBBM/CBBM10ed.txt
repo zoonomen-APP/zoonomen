@@ -300,7 +300,7 @@ j 44. virescens, Hume 46
 I 45. minullum, Sidnh. ...... 47 
 I 46. e\eretti, Ticredd. 47 
 I 47. eiTtlirorh} ncliuin (Lath.) 48 
-I 6. Luxioides, Omt 49 
+I 6. Luxioides, Orn. 49 
 , 1, bailleui, Oust 49 
 ! 7. Loxops, Cab 49 
 
@@ -2023,7 +2023,7 @@ Motacilla hirundinacea, Shaw fy Nodder, Nat Misc. iv. pi. 114
 
 (1792). 
 Swallow Warbler, Lath. Gen. Syn. Suppl. ii. p. 250 (1801). 
-Sylvia hirundinacea, Lath. Ind. Om. Suppl. p. Iv (1801). 
+Sylvia hirundinacea, Lath. Ind. Orn. Suppl. p. Iv (1801). 
 Pipra desmaresti, Leach, Zool. Misc. i. p. 94, pi. 41 (1814); Shaio, 
 
 Gen. Zool. x. p. 18 (18m.# 
@@ -2199,7 +2199,7 @@ Dicaeum sp., ZZosenb. Pets, naar Zaidoosfereil p. 80 (1807).
 Dicoeum keiense, Salvad. Ann. Mm. Civic. Genov. vi. p. 314 (1874), 
 
 
-xiv. p. 654 (1879), xvi. p. 68 (1880); id. Om. Papuasia etc. ii. 
+xiv. p. 654 (1879), xvi. p. 68 (1880); id. Orn. Papuasia etc. ii. 
 p. 279 (1881). 
 Adult male (Little Key; von Eo&enberg). General colour above 
 glossy purplish blue; wing-coverts like the back; greater coverts, 
@@ -2928,7 +2928,7 @@ p. 120(1874).
 .. 
 Dictum 
 mysoriense, Salvad. Ann. Mas. Civic. Genov. vn. p. 94o 
-(1875), xvi. p. 67 (1880) ; id. Om. Pajmasia etc. ii. p. 275 (Ifcbl). 
+(1875), xvi. p. 67 (1880) ; id. Orn. Pajmasia etc. ii. p. 275 (Ifcbl). 
 
 Adult male. Similar to B. maforense, but with a much smaller 
 spot of scarlet on the fore Leek, and decidedly greyer on the sides of 
@@ -2946,7 +2946,7 @@ Diceetrm geelvinkianum, Meyer, Sitz. K. Alrid. Wien, Ixx. p. 120
 (1874); Gould, B. Few Guinea, part ix. (3fc70). 
 Dicseum jobiense, Salvad. Ann. Mm. Civic. Genov. vii. p. 045 (1875), 
 
-xvi. p.* 08 (1880)3 id. Om. Tupuada etc. p. 275 (18bl). 
+xvi. p.* 08 (1880)3 id. Orn. Tupuada etc. p. 275 (18bl). 
 Similar to D. mysoriense, but distinguished by the head and upper 
 tail-coverts being bright red of the same tint; a moderately large 
 red spot on the breast; upper surface greenibh. Measurements as 
@@ -3063,7 +3063,7 @@ Civic. OfenovMii. p. 511 (1870); fwtedd. P. Z. 8. 1877, pp. U 8, 703,
 
 p. 058 (1881;. 
 Dica?um schistaeeum, Tweed. Ami. § Mag. Nat Hist. (4) xx. p. 537 
-(1877) ; id. P. Z. 8. 1878, p. Ill; Wardlaw Bamsay, Om. Worlcs 
+(1877) ; id. P. Z. 8. 1878, p. Ill; Wardlaw Bamsay, Orn. Worlcs 
 Tioeedd. p. 6o8 (1881); 8harpe, P. Z. 8. 1883, p. 58a 
 
 Dicseum papuense, Hartl. Rev. Zool. 1840, p. 47; Gray, Gen. B. L 
@@ -3199,7 +3199,7 @@ fig*. 2; Sharpe, Ibis, 1870, p. 42; id. Trans. Linn. Soc."2nd ,«er.
 Zool. i. p.340 (1876); Tweedd. Ibis, 1^77, p. 302; Hume b Daiima, 
 Sir. F. 1878, p. 194; Sharpe, Ibis, 1879, p. 201; id. P. Z. S. 1^79, 
 p. 343; Hume, Str. F. 1879, p. 90; Bimjkam, S'r. F. 1680, p. VX>; 
-Wardlav) Ramsay, Om. WorJcs Tweedd. p. V>58 (1881); Sharpe, 
+Wardlav) Ramsay, Orn. WorJcs Tweedd. p. V>58 (1881); Sharpe, 
 P. Z. S. 1881, p. 796; Mutter, Vbq. Insel Salanga, p. 22 (l->S2f: 
 Gates, B. Brit. Burm. i. p. 330 (ItS^. 
 Adult male. Above particoloured; head and hind neck glossy 
@@ -3505,7 +3505,7 @@ Dicaeurn pygmasum, Gray, Gen. B. i. p. 100 (1847) • JBp. Consp. i,
 
 p. 408 (1850); Jteichenb. Sandb. Scans, p. 242, Taf. dlvi.fig. 8781 
 . p. 352 (1870) ; 
-1877, p. COS, 1878, pp. 343, (320; Wardlaw Ramsay, Om. Works 
+1877, p. COS, 1878, pp. 343, (320; Wardlaw Ramsay, Orn. Works 
 Tweedd. p. U58 (1881). 
 
 Adult male. General colour above glossy steel-green, somewhat 
@@ -3741,13 +3741,13 @@ Hab. Island of Hainan.
 
 46. Bicsenm everetti. 
 Dicaemn everetti, Tweedcl Ami. fy Mag. Nat. Hist. (4) xx. p. 537 
-(1877) ; id. P. Z. S. 1878, p. Ill * Wardlaw Ramsay, Om. Works 
+(1877) ; id. P. Z. S. 1878, p. Ill * Wardlaw Ramsay, Orn. Works 
 Tweedd. p. 058 (1881). 
 
 Dicseuni niodestum, 
 Tweedd. P. Z. S. 1878, p. 380 j Sharpe, P. Z. & 
 1883, p. 580. 
-Myzanthe modestum, Wardlaw Ramsay, Om. Works Tweedd. p. 058 
+Myzanthe modestum, Wardlaw Ramsay, Orn. Works Tweedd. p. 058 
 (1881). 
 
 Adxdt male (type of D. modestum). General colour above dark 
@@ -4331,7 +4331,7 @@ F. Nicholson, Esq. [P.],
 
 2. Pardalotus affinis. 
 ? Striped-headed Manakin, Lath. Gen. 8yn. ii. pt. 2, p. 526 (1783). 
-? Pipra striata, Gm. 8. 2V". i. p. 1003 (1788); Lath. 2nd. Om. ii. p. 558 
+? Pipra striata, Gm. 8. 2V". i. p. 1003 (1788); Lath. 2nd. Orn. ii. p. 558 
 (1790) ; Steph. Gen. Zool. x. pt. 1, p. 29, pi. 4 (1817). 
 
 Pardalotus 
@@ -4339,7 +4339,7 @@ affinis, Gould, P. Z. 8. 1837, p. 25; id. 8yn. B. Austr.
 part 2, pi. iii.fig. 2 (1837); id. B. Austr. M. ii. pi. 39 (1848) j Gray, 
 Gen. B. i. p. 270 (1845) ; Reichenb. Vb'g. Neuholl. p. 164 (1850); 
 Bp. Consp. i. p. 334 (1850) j Gould, Handb. B. Austr. i. p. 163 
-(1865); Gray,JZand-L B. i. p. 387, no. 5862 (1869) ; Biggies, Om. 
+(1865); Gray,JZand-L B. i. p. 387, no. 5862 (1869) ; Biggies, Orn. 
 Austr. pi. 30. fig. 3 (c. 1870); Ramsay, Proc. Linn. 8oc. N. 8. W. 
 
 ii. p. 180 (1878> 
@@ -5180,7 +5180,7 @@ DICM1BM.
 6. IfriouocMlus qnadricolor. 
 Prionochilus 
 quadrieolor, Tweedd. P. Z. 8. 1877, p. 762, pi. Ixxvii. 
-fig. 2; Wardlaw Bamsay, Om. Works Tweedd. p. 658 (1881). 
+fig. 2; Wardlaw Bamsay, Orn. Works Tweedd. p. 658 (1881). 
 
 Adult male (type o£ species). Head, neck, and mantle deep Hue-
 black; back scarlet-vermilion, with black bases to the feathers, 
@@ -5792,14 +5792,14 @@ Hylocharis niger, Mull, § Schl. Verh. Nat Gesck. Zand- en Volkenk.
 
 p. 162 (1839-44); Marti. Pev. Zool 1846, p. 48. 
 Dicseum nigrum, Gray, Gen. B. i. p. 100 (1847); Bp. Consp. i. 
-p. 403 (1850); Peichmb. Kandh. Spec. Om. Scans, p. 242, figs. 
+p. 403 (1850); Peichmb. Kandh. Spec. Orn. Scans, p. 242, figs. 
 3786-87 (1853); Eosenb. J. f. O.1864, p. 123; id. Malay. Arch. 
 p. 553(1879). 
 Melanocharis nigra, Sclater, Proc. Linn. Soc. ii. p. 157 (1858); Grai/, 
 Hand-l. B. i. p. 116, no. 1445 (1869) ; Meyer, Sitz. K. Akacl Wien, 
 
 lxx. p. 127 (1874, pt. ); Sahad. Ann. Mm. Civic. Genov. x. p. 14*J 
-(1877), xvi. p. 69 (1880) ; id. Om. Papuasia etc. ii. p. 283 (1881). 
+(1877), xvi. p. 69 (1880) ; id. Orn. Papuasia etc. ii. p. 283 (1881). 
 Prionochilus niger, 
 Gray, P. Z. S. 1858, p. 190 (pt.); id. Cat. Mamm. 
 etc. New Guinea, p. 23 (pt.) j id. P. Z. S. 1861, p. 434; Mnsch, 
@@ -5875,7 +5875,7 @@ vin, Esqrs. [P.],
 Melanocharis sp., Ramsay, Pr. Linn. Soc. N. S. W. hi. p. 276 (1879) ; 
 Salvad. Ibis, 1879, p. 324. 
 Melanocharis bicolor, Ramsay} Pr. Linn. Soc. N. S. W. iii. p. 277 
-(1879); Salvad. Ann. Mus. Civic. Genov. xvi. p. 69 (1880); id. Om. 
+(1879); Salvad. Ann. Mus. Civic. Genov. xvi. p. 69 (1880); id. Orn. 
 Papuasia etc. ii. p. 283 (1881). 
 Melanocharis ? unicolor, Ramsay, Pr. Linn. Soc. N.S. W. iv. p. 98 (1879). 
 Adult male. General colour above glossy blue-black; scapulars 
@@ -6280,7 +6280,7 @@ Uebers. p. 22 (1845) ; Gray, Gen. B. i. p. 60 (1845) ; id. Cat Fissin
 
 Brit. Mus. p. 31 (1848); Bp. Consp. i. p. 343 (1850) ; Cab. Mus. 
 Hein. Th. i. p. 51 (1850); Bolle, J. f. O. 1854, p. 460; Beugl 
-Syst Uehers. p. 17 (1856); Jaul. et Barth.-Lapomm. Pick Om. 
+Syst Uehers. p. 17 (1856); Jaul. et Barth.-Lapomm. Pick Orn. 
 
 p. 340 (1859) ; Salv. Ibis, 1859, p. 302; Tristr. t c. p. 434; FLeugl. 
 J.f. 0. 1861, p. 419; Gould, B. Gt. Br. vol. ii. pi. 6 (1862-73) ; 
@@ -6288,9 +6288,9 @@ Jerd. B. Ind. i. p. 166 (1862) ; Newton in Baring-Gould's Iceland,
 p. 408 (1863); Brehm, Beis. Babesch. p. 272 (1868; ; Filippi, 
 Viac/g. Pers. p. 346 (1865); Bettoni, TJcc. nidif. Lomb. tav. 67 
 (1865-70); More, Ibis, 1865, p. 139; Baird, Ibis, 1867, p. 281; 
-JDegl et Gerbe, Om. Mir. i. p. 592 (1867) ; Loche, AipL Sci. Alger., 
+JDegl et Gerbe, Orn. Mir. i. p. 592 (1867) ; Loche, AipL Sci. Alger., 
 Ois. ii. p. 71 (1867); Tristr. Ibis, 1867, p. 364 ; Drake, t c. p. 425 ; 
-Saunders, Ibis, 1869, p. 174; Eeugl. Om. N.O.-Afr. i. p. 168 
+Saunders, Ibis, 1869, p. 174; Eeugl. Orn. N.O.-Afr. i. p. 168 
 (1869); Doderl Avif. Sicil. p. 145 (1869) ; Droste, Yogelw. Bork. 
 p. 87 (1869) ; Wyatt, Ibis, 1870, p. 12; Flwes $ Buckley, t c. 
 p. 200; Blanf. Geol $ Zool Abyss, p. 349 (1870) ; Sharpe, P. Z. S. 
@@ -6307,7 +6307,7 @@ Norges Fugle, p. 286 (1881); Giglioli, Flench. Ucc. Ital p. 63
 (1881); Biddulph, Ibis, 1881, p. 47; Scully, t c. p. 428; Shelley, 
 Ibis, 1882, p. 259; Biddulph, t c. p. 269; Severtz. Ibis, lw*3, 
 p. 70; B. O. U. list Brit B. p. 44 (1883); Tristr. Faun. # Flor. 
-Palest, p. 62 (1884); Padde, Om. Cauc. p. 36 (1884). 
+Palest, p. 62 (1884); Padde, Orn. Cauc. p. 36 (1884). 
 Chelidon fenestrarum, C. L. Brehm, Vog. Deutschl. p. 140 (1831). 
 Chelidon mpestris, C. L. Brehm, t. c. p. 140 (1831). 
 Hirundo Candida, Naum. Vog. Deutschl. vi. p. 77 (1833). 
@@ -6797,14 +6797,14 @@ is referred to Cones, B. Color. Vail. p. 435.
 97 
 
 Hirundo riparia, Linn. Syst. Nat. i. p. 344 (1766); Ball Zoogr. 
-Rosso-Asiat. i. p. 535 (1811); Wilson, Amer. Om. v. p 46, 
+Rosso-Asiat. i. p. 535 (1811); Wilson, Amer. Orn. v. p 46, 
 pi. 38. 6g. 4 (1812); Temm. Man. d'Orn. i. p. 429 (1815); 
-Roux, Om. Broveng. pi. 143 (1825); Audub. B. Amer. pi. 385 
+Roux, Orn. Broveng. pi. 143 (1825); Audub. B. Amer. pi. 385 
 
 (c. 1826); Werner, Atlas, Chelidones, pi. 3 (1827); Swam, fy 
 Richards. Faun. Bor.-Amer., Birds, p. 383 (1831); Menetr. Cat 
 rais. Cauc. p. 45 (1832) ; Naum. Vog. Deutschl. vi. p. 100, Taf. 146. 
-figs. 3,4 (1833); Gould, B. Eur. ii. pi. 58 (c. 1837); Auduh. Om. 
+figs. 3,4 (1833); Gould, B. Eur. ii. pi. 58 (c. 1837); Auduh. Orn. 
 Biogr. iv. p. 584 (1838); id. B. Amer. 8vo, i. p. 187, pi. 7. fig. 3 
 (1840); Macgill. Hist Brit. B. iii. p. 595 (1840); Nordm. in 
 DSmid. Vog. Buss. Merid. iii. p. 400 (1840); Heioits. Eggs Brit 
@@ -6827,7 +6827,7 @@ Sand Martin, Lath. Gen. Syn. ii. pt. 2, p. 568 (1783).
 Hirundo cinerea, Vieill. N. Diet. d'Hist. Nat. xiv. p. 526 (1817). 
 Cotile riparia, Boie, Ms, 1822, p. 550 ; Selby, Brit B. p. 125, pi. 42. 
 fig. 3 (1833); Gray, Hand-l B. i. p. 73, no. 864 (1869); 
-Wharton, Ibis, 1879, p. 451; Coues, Bull Nutt Om. Club, 1880, 
+Wharton, Ibis, 1879, p. 451; Coues, Bull Nutt Orn. Club, 1880, 
 
 p. 96; Hume, Str. F. 1880, p. 246; A. § B. Neiot. Handb. 
 Jamaica, 1881, p. 107; C. Swinh. Ibis, 1882, p. 101; Seebohm, 
@@ -6843,10 +6843,10 @@ Keys. u. Bias. Wirb. Fur. p. lxi (1840); Rilpp. Syst TJebers.
 
 p. 22 (1845); Gray, Gen. B. i. p. 60 (1845); id. Cat Fissir. 
 Brit. Mus. p. 29 (1848); Bp. Consp. i. p. 342 (1850); Breioer, 
-N.-Amer. Ool p. 105, pi. 4. fig. 49 (1850) ; Scl. Contr. Om. 
+N.-Amer. Ool p. 105, pi. 4. fig. 49 (1850) ; Scl. Contr. Orn. 
 1852, p. 124; Horsf. $ Moore, Cat B. F.I. Co. Mus. i. p. 95 
 (1854); Cassin, B. Calif, p. 247 (1850) ; Heugl Syst Uebers. 
-p. 17(1856); Jaub.et Barth.-Lapomm. Rich. Om. p. 313 (1859); 
+p. 17(1856); Jaub.et Barth.-Lapomm. Rich. Orn. p. 313 (1859); 
 Sahin, Ibis, 1859, p. 302; Tristr. t. c. p. 434; Baird, B. N. 
 Amer. p. 313 (1860); Gould, B. Gt Brit. ii. pis. 7, 8 (186273); 
 Jerd. B. Ind. i. p. 163 (1862) ; Gray, Cat Brit. B. p. 34 
@@ -6856,7 +6856,7 @@ p. 319 (1864); More, Ibis, 1865, p. 139; Coues, t. c. p. 159;
 Dresser, t c. pp. 313, 479; Filippi, Viagg. Bers. p. 346 (1865); 
 Bettoni, JJcc. Nidif. Lomb. tav. 53 (1865-70); Baird, Ibis, 
 1867, pp. 275, 286, 289; Tristr. t c. p. 363; Drake, t. c. p. 425; 
-Degl et Gerbe, Om. Fur. i. p. 596 (1867); Locke, Expl Sci. 
+Degl et Gerbe, Orn. Fur. i. p. 596 (1867); Locke, Expl Sci. 
 Alger., Ois. ii. p. 70 (1867); Brown, Ibis, 1868, p. 427; Heugl 
 VOL. x. 
 H 
@@ -7329,14 +7329,14 @@ c. Ad. • d, e. Juv. sk. South Africa (Zayard). E. B. Sharpe, Esq. t
 
 Subsp. a. Cotile minor. 
 
-Cotvle minor, Cab. Mm. Eein. Th. i. p. 49 (1850) • Eeugl Om. 
+Cotvle minor, Cab. Mm. Eein. Th. i. p. 49 (1850) • Eeugl Orn. 
 
 N.O -Afr. i. p. 166 (1869) ; Blanf. Geol. $ Zool Alyss. p. 350 
 (1870); Sharpe, B.Z.S. 1870, p. 303; Shelley, B. Egypt, p. 124 
 (1872) ; Salvad. Ann. Mus. Civic. Genov. (2) i. p. 122 (1884). 
 Cotvle littoralis, Eempr. # Mr. MSS.; LicM. Nomenel p. 61 (1854). 
 Cotile minor, Gray, Eand4. B. i. p. 74, no. 878 (1869). 
-? Cotyle palustris, pt, Eeugl. Om. N.O.-Afr. i. p. 167 (1869). 
+? Cotyle palustris, pt, Eeugl. Orn. N.O.-Afr. i. p. 167 (1869). 
 
 
 Adult. Similar to C. jpaludicola, but smaller; the brown of the 
@@ -8269,7 +8269,7 @@ m. Ad. sk. Bolivia (Brydges). Sclater Collection.
 5. Tachycmeta bicolor. 
 Hirundo bicolor, Vieill Ois. AmSr. Sept i. p. 61, pi. 31 (1807) 
 Audub. B. Amer. pi. xcviii. (c. 1826); Swains, and Richards. Faun 
-Bor.-Amer.j Birds, p. 328 (1831); Audub. Om. Biogr. i. p. 49 
+Bor.-Amer.j Birds, p. 328 (1831); Audub. Orn. Biogr. i. p. 49 
 (1831) ; id. B. Amer. 8vo, i. p. 175, pi. 46 (1840); Gray, Gen. B. i, 
 
 p. 58 (1845): Lembeye, Av. Cuba, p. 46 (1850); Wottey, Zool. 1853 
@@ -10132,7 +10132,7 @@ P. Z. 8. 1877, pp. 730, 738; E. 'Z. fy Z. C. Zayard, Ibis, 1878,
 pp. 270, 280 j Tristr. Ibis, 1879, p. 192; Solved. Ibis, 1880, 
 p. 130 ; Tristr. t. c. p. 246 ; Z. C. Zayard, t. c. p. 298; Finsch, Ibis, 
 1881, p. 536; id. Report Voy. ' Challenger,' ii. Birds, pp. 43, 53 
-(1881) ,* Salvad. Om. Fapuasia etc. ii. p. 5 (1881); Tristr. Ibisf 
+(1881) ,* Salvad. Orn. Fapuasia etc. ii. p. 5 (1881); Tristr. Ibisf 
 1882, p. 142 ; Zayard, t. c. pp. 502, 543. 
 Hirundo taitensis, Zess. Voy. '• Coquille,' i. p. 648 (1826). 
 Herse taitensis, Zess. CompL Buff, viii, p. 443 (1837). 
@@ -10386,7 +10386,7 @@ pi. to p. 96 (1829).
 Hirundo neoxena, Gould, P. Z. S. 1842, p. LSI; id. B. Austr. foL ii. 
 pi. 13 (1848;; Blyth, Cat B. Mus. As. Soc. p. 198 (1849); Bp. 
 Consp. i. p. 338 (1850); Cab. Mm. Hem. Th. i. p. 40 (1850); 
-IHggles, Om. Austr. pi. 22. fig. 1 (1870). 
+IHggles, Orn. Austr. pi. 22. fig. 1 (1870). 
 
 Hirundo frontalis (nee Q. § G.)f Gray, Cat. Fissir. Brit, Mies, p. 22 
 (1848); Cass. Cat. Hirtmd. Philad. Mas. p. 2 (l*so3); Gouldf 
@@ -10698,7 +10698,7 @@ J.f O. 1855, p. 360; Cass. Proc. Philad. Acad. 1859, p. 33; Du
 149 
 Chailh, Squab. Afr. p. 472 (18G2): Gray, Hand-l. B. i. p. 71, 
 no. 829 (1869). * 
-Atticora nigrita, Bp. Consp. i. p. 337 (1853) : Hartl. Om. W.-Afr. 
+Atticora nigrita, Bp. Consp. i. p. 337 (1853) : Hartl. Orn. W.-Afr. 
 
 p. 25 (1857). 
 Waldenia nigrita, Sharpe, Ibis, 1869, p. 461; id. P. Z. S. 1870, 
@@ -10764,7 +10764,7 @@ HIBUKDHnD^J.
 13. Hiriuido nigrornfa. 
 Hirurido nigroiufa, 
 Socage, Jorn. Lisb. 1877, p. 158,1878, p. 269, 
-1880, p. 236; id. Om. Angola, p. 546 (1881) ; Sharpe, eel Bayard's 
+1880, p. 236; id. Orn. Angola, p. 546 (1881) ; Sharpe, eel Bayard's 
 
 B. S. Afr. p. 840 (1884). 
 Adult male. General colour above glossy purplish blue, with a 
@@ -10787,7 +10787,7 @@ Hab, JBenguela.
 a. cf ad. sk. Caconda, Benguela (Anchieta). Lisbon Museum [P. \ 
 14. Hiriuido smith!! 
 Hirundo smithii, Leach, App. to Tucketfs Toy. Congo, p. 407 (1818) ; 
-Marti. Om. W.-Afr. p. 26 (1857); id. J.f. O. 1861, p 103. 
+Marti. Orn. W.-Afr. p. 26 (1857); id. J.f. O. 1861, p 103. 
 Wire-tailed Swallow, Lath. Gen. Hist, vii. p. 30% pi. cxiii. (1^23). 
 Hirundo filifera, Steph. Gen. Zool. siii. p. 78 (1826); Gray, Gen. B» 
 I p. 58 (1845); id. Cat. Fissir. Brit. Mus. p. 25 (1846); Blyth, 
@@ -10796,7 +10796,7 @@ Cab. Mus. Hein. Th. i. p. 46 (1850); Horsf. 8f Moore, Cat. B. B.L
 Co. Mas. i. p. 93 (1854); Jerd. B. Ind. i. p. 159 (1862); Kirk, 
 Ibis, 1864, p. 320; Blyth, Ibis, I860, p. 337; Tytler, IMs, 1808, 
 
-p. 196; Pelz. t c. p. 307; Beavan, Ibis, 1869, p. 403; Heugl. Om. 
+p. 196; Pelz. t c. p. 307; Beavan, Ibis, 1869, p. 403; Heugl. Orn. 
 N.O.-Afr. i. p. 155 (1869) ; Gray, Hand-l B. i. p. 70, no. 820 
 (1869); Sharpe, P. Z. S. 1870, p. 312; Finsch $ Hartl Yog. Ostafr. 
 p. 142 (1870); Jerd. Ibis, 1871, p. 352; Hume, Sir.F. 1873, p. 164; 
@@ -10913,14 +10913,14 @@ Hirundo griseopyga, Simdev. (Efi\ K. Vef.-Ahad. Fork. Stockh 1850,
 p. 107; Layard, B. S. Afr. p. do (1807); Sfor/w?, P. Z. 6'. 1-70, 
 p. 313; etf. *d. Layartfs B. 8. Afr. p. 30& (1&&2|. 
 Atticora melbina, J". Verr. Rev. et"Mag.de Zooi. lboh p. 310; SfriekL 
-Contr, Om. 1851, p. 1(53; Cass. Cfctf. Hiriaid. Mus. Phiiad. Acad. p. fj 
+Contr, Orn. 1851, p. 1(53; Cass. Cfctf. Hiriaid. Mus. Phiiad. Acad. p. fj 
 (1853); .fiflrf. J. / . O. 1858, p. 39- ; id. Ova. W.-Afr. p. 27> 
 (1857); Cass. Proc. Phiiad. Acad. 1-59, p. 33; JSfort/. J"./. O, 
 1861, p. 103; Forbes, Ibis, 1883. p. 514. 
 
-Hirundo melbina, Striekl. Contr. Om. Ibol, p. 131. 
+Hirundo melbina, Striekl. Contr. Orn. Ibol, p. 131. 
 Atticora cypseloides, Heugl J.f. O. 1862, p. 297, 1804, p. 270. 
-Atticora griseopyga, Heugl. Om. N.O.-Afr. i. p. 149, tab* %ii. (1809) ; 
+Atticora griseopyga, Heugl. Orn. N.O.-Afr. i. p. 149, tab* %ii. (1809) ; 
 
 
 Sharpe, Ibis, 1870, p. 428. 
@@ -11160,11 +11160,11 @@ t Ad. sk. Mombasa (Wakefield). K. B. Sharpe, Esq. "P.].
 u. 2 a& s&- Mombasa Town. J. M. Hildebrandt T! ' 
 v. <$ ad. sk. Kitui, Ukanda. J. M. Hildebrandt *CA 
 18. ffirundo rufula. 
-Hirundo daiuica, Savi, Om. Tosc. iii. p. 201 (1831, nee Z.) ; Selys 
+Hirundo daiuica, Savi, Orn. Tosc. iii. p. 201 (1831, nee Z.) ; Selys 
 Zongch. Ibis, 1870, p. 4*53. 
 
 Hirundo alpestris (non Pall), Bp. Faun. Ital, TJcc. Intr. p. xxx 
-(1832) ; Heugl Om. N.O.-Afr. i. p. 153 (1669) ; Blanf. Geol & 
+(1832) ; Heugl Orn. N.O.-Afr. i. p. 153 (1669) ; Blanf. Geol & 
 Zool Abyss, p. 346 (1870). 
 
 Hirundo ruf ula, 
@@ -11198,7 +11198,7 @@ Cecropis alpestris (non Pall), Reiigl. Sysf. Uebers. p. 16 (1856);
 Borggr. Vogelf. NorddeutscM. p. 100 (1869); Severtz. Turkett. 
 Jevotn. p. 67(1873). 
 
-Hirundo (Cecropis) ruf ula, Jaub. et Barth.-Zap. Rick. Om. p. 308. 
+Hirundo (Cecropis) ruf ula, Jaub. et Barth.-Zap. Rick. Orn. p. 308. 
 
 pi. 19.fig.1 (1859). 
 Lillia rufula, Boie, J. f. 0. 1838, p. 364. 
@@ -11949,15 +11949,15 @@ e. J ad. sk Tati, Matabele Land, Oct. 4 W. E. and C. G. Gates, Esqrs.
 (F. Oates). [P.]. 
 Subsp. a. Hirraido gor&onL 
 
-Hirundo melanocrissa (nee Biipp.), Jard. Confr. Om. 1849, p. 4. 
-Hirundo gordoni, Jard. Contr. Om. 1851, p. 141,1852, p. 47; Ilartl. 
+Hirundo melanocrissa (nee Biipp.), Jard. Confr. Orn. 1849, p. 4. 
+Hirundo gordoni, Jard. Contr. Orn. 1851, p. 141,1852, p. 47; Ilartl. 
 
 Om. W.-Afr. p. 27 (1857); id. J f. O. 1861, p. 103; Gray, 
 Band-L B.l p. 69, no. 799 (1809); Skarpe, Ibis, 1809, p. 1^ ; id. 
 
 P.Z.S. 1870, p. 317; id. Cat Afr. B. p. 40(1871); Shelley $ 
 Buckley', Ibis, 1872, p. 288; Ussher^ Ibis, 1874, p. 6'2; Beieken. 
-J.f. O. 1875, p. 21; Bocage, Om. Angola, p. 182 (1881). 
+J.f. O. 1875, p. 21; Bocage, Orn. Angola, p. 182 (1881). 
 Cecropis gordoni, Cass. Broe. PMlad. Acad. 1859, p. 33. 
 Adult. Above glossy indigo-blue, duller on the wing-coverts; 
 quills brownish black, glossed above, especially on the secondaries, 
@@ -11995,10 +11995,10 @@ Hirundo senegalensis, Binn. St/st Mat i. p. 845 (1766); Siuaim. B
 
 
 W. Afr. ii. p. 72, pi. 6 (1837); Gray, Gen. B. I p. 58 (1845): id. 
-Cat. Fissir. Brit Mus.v. 23 (1848); Jard. Contr. Om. 1849, p. 4Bp. 
-Consp.i. p. 339(1850); Marti. Om. Westafr. p. 27(1857); 
+Cat. Fissir. Brit Mus.v. 23 (1848); Jard. Contr. Orn. 1849, p. 4Bp. 
+Consp.i. p. 339(1850); Marti. Orn. Westafr. p. 27(1857); 
 Dubois, Ois. Bur. pL 35 (1862); Ilartl J. /. O. 1869, p. 103Gray, 
-Hand-l B. i. p. 69, no. 796 (1869); Heuql. Om. MO.-Afr 
+Hand-l B. i. p. 69, no. 796 (1869); Heuql. Orn. MO.-Afr 
 i. p. 156 (1869); Skarpe, P. Z.S. 1870, p. 316; id. Ms, 1872, 
 5. HIE UNDO. 169 
 p. 71 ; Shelky # Buckley, t c. p. 288; Ileugl Orn. N.O.-Afr. iv. 
@@ -12975,7 +12975,7 @@ Hirund. Mns. PJiilad. Acad. p. 7 (1853); Burm. Th. Bras. iii. p. 146
 (1856); Sclater, Cat. Amer. B. p. 39 (1862); Baird, Review Amer. 
 
 B. p. 306 (1865) ; Sal $ Sak. P. Z. S. 1866, p. 178,1867, p. 749; 
-Gray, Hand-l B. i. p. 72, no. 857 (1869); Pelz. Om. Bras. 
+Gray, Hand-l B. i. p. 72, no. 857 (1869); Pelz. Orn. Bras. 
 pp. 18, 402 (1871); Scl $ Salv. P. Z. S. 1873, p. 259; iid. 
 Nomencl. Av. Neotr. p. 14 (1873); Tacz. P.Z. S. 1882, p. 8; Sak. 
 Cat. StricU. Coll p. 152 (1882); id. $ Godm. Biol Centr.-Amer., 
@@ -13869,7 +13869,7 @@ Hirund. Mus. Philad. Acad. p. 4 (1853); Gundl. J. f. 0.1856, p. 3,
 & 1861, p. 328 ; Sclater, P. Z. S. 1861, p. 72 ; id. Cat. Amer. B. 
 
 p. 40 (1862); Baird, Review Amer. B. p. 291 (1865); Bryant, Proc. 
-Post Soc. 2V. -HI z. p. 252 (1866) ; Gundl Om. Cuba, p. 82 (1876) 
+Post Soc. 2V. -HI z. p. 252 (1866) ; Gundl Orn. Cuba, p. 82 (1876) 
 Sol. § Salv. Mmencl Av. Keotr. p. 14 (1873); A. $ E. Xewt. 
 Handb. Jamaica, 1881, p. 107 ; Salv. § Godm. Biol Centr.-Amer., 
 Aves, i. p. 228 (1883); Cory, B. S. Domingo, p. 47 (1884). 
@@ -14917,7 +14917,7 @@ secondaries with a small spot of crinibon at
 the end, but not having a wax-like appendage, japonic vs9 p. 217. 
 1. AmpeHs garralus. 
 Le 
-Jaseur de Boh erne, Briss. Om. ii. p. 333 (1760); Daubent. PL 
+Jaseur de Boh erne, Briss. Orn. ii. p. 333 (1760); Daubent. PL 
 Enl. ii. pi. 461. 
 Ampelis garrulus, Linn. Syst. Nat. i. p. 297 (1766) ; Gm. Syst. Nat. 
 
@@ -15310,9 +15310,9 @@ chin-anglechin-angle.
 Range. Antilles. 
 
 1. Dulus dominicus. 
-Le Tangara de S. Dorningue, Briss. Om. iii. p. 37, pi. ii. fig. 4 (1700); 
+Le Tangara de S. Dorningue, Briss. Orn. iii. p. 37, pi. ii. fig. 4 (1700); 
 Daubent. PI. Enl. v. pi. 156. fig. 2. 
-Tanagra dominica, Linn. Syst. Nat. i. p. 316 (1706) ; Om. Syst. Nat. 
+Tanagra dominica, Linn. Syst. Nat. i. p. 316 (1706) ; Orn. Syst. Nat. 
 
 i. p. 895 (1788). 
 L'Esclave, Buf. Hist. Nat, Ois. iv. p. 203 (1778). 
@@ -15320,7 +15320,7 @@ St. Domingo Tanager, Lath. Gen. Zool. ii. pt, 1, p. 220 (1783).
 Dulus palmaruni, Vieill. Nouv. Diet, a"Hist. Naf.x. p. 435(1817); 
 Bp. Consp. i. p. 331 (1850, pt.) ; Lafr. Bev. Zool. 1851, p. '585. 
 Airemon palmaruni, Gray, Gen. B. iii. App. p. 10 (1840). 
-Dulus dominicus, Strield. Contr. Om. 1851, p. 103; Scl. Oat. Amer. 
+Dulus dominicus, Strield. Contr. Orn. 1851, p. 103; Scl. Oat. Amer. 
 
 B. p. 41 (1862); Gray, Hand-l. B. i. p. 385, no. 5827 (1888); 
 Scl. $• Sato. Nomencl. Av. Neotr. p. 13 (1873); Cory, B. S. Domingo, 
@@ -16084,7 +16084,7 @@ Motacilla vermivora, G?n. Syst Nat. i. p. 951 (17^}.
 Sylvia vermivora, Lath. Lnd. Or/i. ii. p. 544 (17JKJ); Wih. Amer. 
 
 Orn. iii. p. 74, pi. 24. fig:. 4 (1*11; ; VmlL N Dirt, Hhi. Nat. 
-xl p. 278 (1817); Nutt Man. i. p. 400 (1*532; , And. Om. Biogr. 
+xl p. 278 (1817); Nutt Man. i. p. 400 (1*532; , And. Orn. Biogr. 
 
 i. p. 177 (1832), v. p. 400 (1830). 
 Helmitheros migratorius, Rafia. Journ. JPhys. Ixriii. p. 417 (1^19) ; 
@@ -16397,7 +16397,7 @@ known, Ohio. (Coues.)
 1. Helmintliopliila chrysoptera. 
 The Golden-winged Flycatcher, JSdw. Glean, ii. p. 189, pi. 299 
 (1760). N . 
-Le Figuier cendre" a gorge noire de Pensilvanie, Briss. Om. vi., 
+Le Figuier cendre" a gorge noire de Pensilvanie, Briss. Orn. vi., 
 Suppl. p. 109 (1760). 
 Motacilla chrysoptera, Linn. Si/st. Nat. i. p. 333 (1760); Gm. Si/st. 
 
@@ -16409,18 +16409,18 @@ Yellow-fronted Warbler, Lath. t. c. p. 461 (1783); Perm. Arct.
 Zool. ii. p. 404 (1785). 
 Gold-wing Warbler, Penn. Arct. Zool. ii. p. 403 (1785). 
 Motacilla fiavifrons, Gm. Syst. Nat i. p. 976 (1788). 
-Sylvia chrysoptera, Lath. Inch Om. ii. p. 541 (1790); Vieill. Ois. 
+Sylvia chrysoptera, Lath. Inch Orn. ii. p. 541 (1790); Vieill. Ois. 
 
-Amir. Sept. ii. p. 37, pi. 97 (1807); Wils. Amer. Om. ii. p. 113, 
-pi. 15. fig. 5 (1810) ; Bp. Amer. Om. i. p. 12, pi. 1. fig. 3 (1825) ; 
-Auduh. B. Amer. pi. 414; id. Om. Biogr. v. p. 154 (1839). 
+Amir. Sept. ii. p. 37, pi. 97 (1807); Wils. Amer. Orn. ii. p. 113, 
+pi. 15. fig. 5 (1810) ; Bp. Amer. Orn. i. p. 12, pi. 1. fig. 3 (1825) ; 
+Auduh. B. Amer. pi. 414; id. Orn. Biogr. v. p. 154 (1839). 
 
-Sylvia fiavifrons, Lath. Lid. Om. ii. p. 541 (1790). 
+Sylvia fiavifrons, Lath. Lid. Orn. ii. p. 541 (1790). 
 Paras alis aureis, Bartr. Trav. Flor. p. 292 (1791); Coues, Proo. 
 
 Philad. Acad. 1875, p. 352. 
 Sylvicola inornata, Swains. Phil. Mag. new series, i. p. 434 (1827). 
-Vermivora chrysoptera, Jard. ea\ Wils. Amer. Om. i. p. 259 (1832); 
+Vermivora chrysoptera, Jard. ea\ Wils. Amer. Orn. i. p. 259 (1832); 
 
 Bp. Comp. List B. Eur. $ N. Amer. p. 21 (1838). 
 Sylvicola chrysoptera, Richards. Pep. Brit. Assoc. 1836-37, p. 171. 
@@ -16445,12 +16445,12 @@ Ann. Lye. N. Y. ix. p. 94 (1868); Von Fronts. J. f. 0.1869, p. 293 ;
 Helminthophaga leucobronchialis, Brewster, Amer. Sportsm. v. Oct. 17th, 
 
 p.33 (1874, teste Coues)) Coues, B.N.-West, p. 760 (1874); Brewer, Proc. 
-Lost Soc. N H. xvii. p. 439 (1875); Brewster, Bull. Nutt. Om. Club, I 
-p. 1, pi. 1 (1876); Trotter, Bull. Nutt Om. Club, ii. p. 79 (1877); Coues, 
+Lost Soc. N H. xvii. p. 439 (1875); Brewster, Bull. Nutt. Orn. Club, I 
+p. 1, pi. 1 (1876); Trotter, Bull. Nutt Orn. Club, ii. p. 79 (1877); Coues, 
 B. Color. Vail p. 213 (1878); Bidgw. Proo. U.S. Nat. Mus. iii. p. 171 
 (1880); Bidgw. Bull U.S. Nat. Mus. no. 21, p. 16 (1881); Coues, Checklist, 
 p. 35 (1882). 
-Helminthopbila leucobronchialis, Bidgw. Bull. Nutt Om. Club, vii. p. 53 
+Helminthopbila leucobronchialis, Bidgw. Bull. Nutt Orn. Club, vii. p. 53 
 (1882); Coues, Key N. Amer. B. 2nd ed. p. 293 (1884). 
 
 Like B. chrysoptera, but a black bar through the eye as in H. pinus, and 
@@ -16896,7 +16896,7 @@ Helminthopbaga ruficapilla, var. ocularis, Midgic. in Baird, Brewer,
 
 Sf Ridgiu. Hist. X Amer. B. i. p. 191 (1874). 
 Helminthopbaga rufieanilla, var. gutturalis, id. i. c. p. 101 (1^74). 
-Helminthophila raficapilla, Bidgw. Bull. Suit. Om. Club, "ux. p. 04 
+Helminthophila raficapilla, Bidgw. Bull. Suit. Orn. Club, "ux. p. 04 
 
 (1882) j Coues, Key N. Amer. B. 2nd ed. p. 294 (1884). 
 
@@ -17011,7 +17011,7 @@ I S ad. sk. Calaveras County, Calif., April U.S. Xat. Museum HP.].
 6. Helmrathophila celata. 
 Sylvia celata, Say in Long's Expect Eocky Mh. i. p. 109 < 1823j; 
 i%?. ^twe?*. Orn. l. p. 45, pi. 5. fig. 2 (1825): Auduh. B. Amer. 
-pi. 178; id. Om. Biogr. ii. p. 449 (1844). 
+pi. 178; id. Orn. Biogr. ii. p. 449 (1844). 
 
 Vermivora 
 celata, Jard. ed. Wits. Amer. Orn. iii. p. :j32 (lsj2); 
@@ -17145,7 +17145,7 @@ k. Ad. Hem. sk. Orizaba, Mexico (Botteri). Sclater Collection.
 Subsp. a. HelmintliopMla obscura. 
 Helminthophaga celata, Tar. obscura, Ridgw. in Baird7 Breicer, 4" 
 Ridgw. Hist. W. Amer. B. i. p. 192 (1874). 
-Helminthophaga celata obscura, Allen § Brewster, Bull Wnii. Om, 
+Helminthophaga celata obscura, Allen § Brewster, Bull Wnii. Orn. 
 Oub, vih. p. 157 (1888). 
 
 This race was described by Mr. Eidgway as follows :—" Similar 
@@ -17824,7 +17824,7 @@ la Sagra R. N. Cuba, p. 62 (188b).
 Sylvia ludoviciana, Lath. Ind. Orn. ii. p. 536 (1700). 
 Parus varius, Bartr. Trav. Florida, p. 292 (1791). 
 Sylvia torquata, Vieill. Ois. Amer. Sept. p. 35, pi. 99 (ls07). 
-Sylvia pusilla, Wils. Amer. Om. iv. p, 17, pi. 28. %. 3 (1811). 
+Sylvia pusilla, Wils. Amer. Orn. iv. p, 17, pi. 28. %. 3 (1811). 
 Thriothiiras torquatus, Steph. Gen. ZooL xiv. p. 194 (1820). 
 Sylvicola pusilla, Swains. ZooL Journ. iii. p. 109 (1828). 
 Motacilla ludoviciana, Less. Traits, i. p. 418 (1831). 
@@ -18980,7 +18980,7 @@ my conclusions may have to be modified hereafter.
 1. Dendrceca sestiva, 
 
 Yellow Titmouse, Catesby, Nat Hist Carol p. 63, pi. 63 (1731). 
-Le Figuier de Canada, Briss. Om. iii. p. 492, pi. 26. %. 2 (1760) ; 
+Le Figuier de Canada, Briss. Orn. iii. p. 492, pi. 26. %. 2 (1760) ; 
 Baubent PI. Enl. vi. pi. 58. fig. 2. 
 Le Figuier tachetS,,Buf. Hist Nat Ois. v. p. 285 (1778). 
 Figuier de la Caroline, Baubent PI Enl. vi. pi. 58. fig. 1. 
@@ -18990,29 +18990,29 @@ Motacilla canadensis (nee L.), Bodd. Tabl. PL Enl. p. 4 (1783, ex
 Baubent'). 
 Olive Warbler, Penn. Arctic Zool. ii. p. 409 (1785). 
 Motacilla sestiva, Gm. Syst Nat i. p. 996 (1788). 
-Sylvia sestiva, Lath. Ind. Om. ii. p. 551 (1790) ; Vieitt. Ois. Am4r. 
-Sept ii. p. 35, pi. 95 (i802); Audub. B. Amer. pi. 95: id. Om. 
+Sylvia sestiva, Lath. Ind. Orn. ii. p. 551 (1790) ; Vieitt. Ois. Am4r. 
+Sept ii. p. 35, pi. 95 (i802); Audub. B. Amer. pi. 95: id. Orn. 
 Biogr. i. 5. 476 (1831). 
-Sylvia carolinensis, Lath. Ind. Om. ii. p. 551 (1790). 
+Sylvia carolinensis, Lath. Ind. Orn. ii. p. 551 (1790). 
 Parus luteus, Bartr. Trav. Florida, p. 292 (1791). 
 Motacilla carolinensis, Turton, Syst Nat. i. p. 615 (1806). 
 Sylvia flava, Vieill. Ois. AmSr. Sept ii. p. 31, pi. 89 (1807). 
-Sylvia citrinella, Wils. Amer. Om. ii. p. Ill, pi. 15. fig. 5 (1810). 
+Sylvia citrinella, Wils. Amer. Orn. ii. p. Ill, pi. 15. fig. 5 (1810). 
 Motacilla rubiginosa, Pall. Zoogr. Rosso-Asiat. i. p. 496 (1811). 
 ? Rhiniamphus sestivus, Pafin. Journ. Phys. lxxxviii. p. 417 (1819, 
 teste Hartl). 
-Sylvia cHldrenii, Audub. B. Amer. pi. 35; id. Om. Biogr. i. p. 180 
+Sylvia cHldrenii, Audub. B. Amer. pi. 35; id. Orn. Biogr. i. p. 180 
 (1831). 
-Sylvia rathbonia, Audub. B. Amer. pl.65; id. Om. Biogr. i. p. 333 (1831). 
+Sylvia rathbonia, Audub. B. Amer. pl.65; id. Orn. Biogr. i. p. 333 (1831). 
 Sylvicola asstiva, Swains, fy Richards. Faun. Bor.-Amer., Birds, p. 211 
-(1831); Jard. ed. Wils. Amer. Om. i. p. 258 (1832); Bp. Comp. 
+(1831); Jard. ed. Wils. Amer. Orn. i. p. 258 (1832); Bp. Comp. 
 List B. Eur. fy N. Amer. p. 23 (1838); Audub. Syn. p. 68 (1839); id. 
 
 B. Amer. ii. p. 50, pi. 88 (1841); Giraud, B. Long Isl. i. p. 58 (1844); 
 Nemvied, J.f. O. 1858, p. 114; Finsch, P. Z. S. 1870, p. 564. 
 Sylvicola rathbonia, Richards. Rep. Brit. Assoc. 1836-37, p. 172; Bp. 
 Comp. Lid B. Eur. $ N. Amer. p. 23 (1838). 
-Sylvia trocliilus, Nutt Man. Om. 1832, p. 406. 
+Sylvia trocliilus, Nutt Man. Orn. 1832, p. 406. 
 Mniotilta sestiva, Gray, Gen. B. i. p. 196 (1848); id. Hand-L B. i. 
 
 p. 240, no. 3475 (1869). 
@@ -19035,7 +19035,7 @@ Bresser, t c. p. 478 ; Salv. P. Z. S. 1867, p. 136 ; Lawr. Ann. Lye.
 N. Y. ix. p. 94 (1868), p. 200 (1869); Simdev. (Efv. K. Vet-
 Ahad. Fork. Stochh. 1869, p. 606; Cooper, B. Calif, p. 87 
 (1870); Scl. $ Salv. P.Z.S. 1870, p. 836: Salv. t c. p. 138; 
-Pelz. Om. Bras. p. 71 (1871) ; Wyatt, Ibis, 1871, p. 322; Coues, 
+Pelz. Orn. Bras. p. 71 (1871) ; Wyatt, Ibis, 1871, p. 322; Coues, 
 Key N. Amer. B. p. 97 (1872) ; Scl. fy Salv. Nomencl. Av. Neotr. 
 
 p. 9 (1873): Coues, B. N.-West, pp. 54, 232 (1874); Hensh. R^ 
@@ -19242,7 +19242,7 @@ Henry Whitely, Esq. [C.].
 
 2. Deudroeca ruficapilla. 
 ? Chloris erithachorides, FeuilUe, Journ. Obs. Fhys. iii. p. 413 (1725). 
-Figuier de la Martinique, Briss. Om. iii. p. 490, pi.'22. fig. 4 (1760)*. 
+Figuier de la Martinique, Briss. Orn. iii. p. 490, pi.'22. fig. 4 (1760)*. 
 
 * It is almost impossible to make out this description: it may be D. melanoptera 
 of Lawrence, and it certainly does not refer to the Golden Warbler of 
@@ -19467,7 +19467,7 @@ found in S. Domingo, so that the locality given is of no assistance in determini
 the exact species; and, secondly, the bird described is evidently a y< »irag one; and, 
 as in the immature stages all the Golden "Warblers are more or less alike, no 
 identification seems possible. The following is the synonymy :— 
-Le Figuier de S. Domingue, Briss. Om. Hi. p. 404, pi. 26. fig. 5 (1760). 
+Le Figuier de S. Domingue, Briss. Orn. Hi. p. 404, pi. 26. fig. 5 (1760). 
 Petit Figuier de S. Domingue, Briss. t. c. p. 496. 
 Figuier a gorge blanche, Buff. Risk. Nat. Ois. v. p. 287 (1773). 
 
@@ -19476,7 +19476,7 @@ S. Domingo Warbler, Lath. Gen. Byn. ii. pt. 2, p. 470 (1783).
 Green and White Warbler, Lath, t c. p 480. 
 Motaeilla albicollis, Gm. Syst. Nat i. p. 983 (1788) 
 Motacilla chloroleuca, Gm. t. c. p. 984 (1788). 
-Sylvia albicollis, Lath. Ind. Om. ii. p. 535 (1790). 
+Sylvia albicollis, Lath. Ind. Orn. ii. p. 535 (1790). 
 Sylvia chloroleuca, Lath. t. e. p. 984 (1790). 
 7 . DENDECECA. 
 279 
@@ -19933,13 +19933,13 @@ Quebec "Warbler (pt.), Xfl^. Qen. Syn. ii. pt. 2, p. 484 (17b3) ; Jfeww.
 Arctic Zool ii. p. 408 (1785). 
 Bloody-side Warbler, Bern. Arctic Zool. ii. p^405 (17d>, wee X^.) . 
 Motacilla pensilvanica, G-'m. £y*f. Nat. i. p. 971 (1788). 
-Sylvia pensylvanica, Lath. Ind. Om. ii. p. 540 (1790). 
+Sylvia pensylvanica, Lath. Ind. Orn. ii. p. 540 (1790). 
 Sylvia icterocephala, id. t. c. p. 538 (pt.) ; Vieill. Ois. Amer. Sept. ii. 
 
-p. 31, pi. 90 (1807); Audub. B. Amer. pi. 59: id. Om. Biogr. i. 
+p. 31, pi. 90 (1807); Audub. B. Amer. pi. 59: id. Orn. Biogr. i. 
 p. 306 (1832). 
-Sylvia pennsylvanica, Wils. Amer. Om. ii. p. 99, pi. 14. %. 5 (lblO). 
-Sylvicola icterocephala, Jard. ed. Wils. Amer. Om. i. p. 24* (1^32); 
+Sylvia pennsylvanica, Wils. Amer. Orn. ii. p. 99, pi. 14. %. 5 (lblO). 
+Sylvicola icterocephala, Jard. ed. Wils. Amer. Orn. i. p. 24* (1^32); 
 Richards. Pep. Brit Assoc. 183G-37, p. 172; Bp. Camp. List B. Eur. 
 # X. Amer. p. 22 (1838) ; Anduh. Syn. p. U (1830) ; id. B. Amer. 
 
@@ -20096,12 +20096,12 @@ Sylvia blackburnise, Lath. Ind. Orn. ii. p. 527 (17U0j: TmiL Oi\
 pi. 23. fig. 3 (1811) j Auduh. B. Amer. pis. 135, 3U9; itf. Orw. 
 Biogr. ii. p. 208 (1834), v. p. 73 (1839). 
 
-Sylvia parus, Wils. Amer. Om. v. p. 114, pi. 44. %. 3 (lb!2j • 
+Sylvia parus, Wils. Amer. Orn. v. p. 114, pi. 44. %. 3 (lb!2j • 
 
 Auduh. B. Amer. pi. 134; «V7. Orw. Biogr. ii. p. 205 (IK34). 
 Sylvia blackburni, Ffe*7?. 2V*. Diet. a" Hist. Nat. M. p. lt>MlH17). 
 Sylvia melanorrhoa, F&zT?. 2V. Diet. cTHist. Nat. si. p. i50 {1^17 . 
-Sylvicola blackbumias, J^zr^. e& Jn/s. Amer. Om. i. p. 354 (1*32) j 
+Sylvicola blackbumias, J^zr^. e& Jn/s. Amer. Orn. i. p. 354 (1*32) j 
 
 Richards. Rep. Brit. Assoc. 1836-37, p. 172; 2"?p. Camp. Lu>f B. Bun 
 $ N. Amer. p. 22 (1838) ; Auduh. Syn. p. 57 (1839); id. B. Amer. 
@@ -20341,7 +20341,7 @@ Pallatanga, Nov. Sclater Collection.
 13. Beudroeca nigrescens. 
 Sylvia 
 nigrescens, Towns. Journ. BMlad. Acad. vii. p. 191 (1837), 
-viii p. 153 (1839); Audub. B. Amer. pi. 395 ; id. Om. Biogr. v. 
+viii p. 153 (1839); Audub. B. Amer. pi. 395 ; id. Orn. Biogr. v. 
 
 p. 57 (1839). 
 Verrnivora nigrescens, JBp. Comjp. List B. Eur. fy N. Amer. p. 21 
@@ -20671,7 +20671,7 @@ Hob, Texas; re-occurring in Guatemala.
 16. Beiidrceca virens. 
 The Black-throated Green Flycatcher. Echo. Glean, ii. p. 100, pi. 300 
 (1760). 
-Le Figuier a gorge noir de Pensilvanie, JBriss. Om. vi. App. p. 104 
+Le Figuier a gorge noir de Pensilvanie, JBriss. Orn. vi. App. p. 104 
 
 (1760). 
 Le Figuier a, cravatte noire, Buf: Hist. Nat. Ois. v. p. 298 (1778). 
@@ -20679,14 +20679,14 @@ Green Warbler, Lath. Gen. Syn. ii. pt. 2, p. 484 (1783); Penn, Arct.
 
 Zool ii. p. 404 (1785). 
 Motacilla virens, Gm. Syst. Nat. i. p. 985 (1788). 
-Sylvia virens, Lath. Ind. Om. ii. p. 587 (1790); Vieill Ois. Amer. 
+Sylvia virens, Lath. Ind. Orn. ii. p. 587 (1790); Vieill Ois. Amer. 
 
-Sept. ii. p. 33, pi. 92 (1807); Wils. Amer. Om. ii. p. 137, pi. 17. 
-fig. 3 (1810); Auclub. B. Amer. pi. 329. figs. 2, 4; id. Om. Biogr. 
+Sept. ii. p. 33, pi. 92 (1807); Wils. Amer. Orn. ii. p. 137, pi. 17. 
+fig. 3 (1810); Auclub. B. Amer. pi. 329. figs. 2, 4; id. Orn. Biogr. 
 
 v. p. 70 (1838); Gatke, Noam. 1858, p. 423. 
 Parus viridis gutture nigro, Bartr. Trav. Florida, p. 292 (1791). 
-Sylvicola virens, Jard. ed. Wils. Amer. Om. i. p. 279 (1832) j Richards. 
+Sylvicola virens, Jard. ed. Wils. Amer. Orn. i. p. 279 (1832) j Richards. 
 Hep. Brit. Assoc. 1836-37, p. 172; JBp. Comp. List B. Ear. § N. 
 Amer. p. 22 (1838); Audub. Syn. p. 55 (1839); id. B. Amer. ii. 
 
@@ -20710,7 +20710,7 @@ Dresser, t. c. p. 477; Lawr. Ann. Lye. N. Y. ix. p. 94 (1868)
 Sundev. CEfv.K. Vet.-Ahad. Fork Stochk 18(59, p. 611; Sah. P.Z.S. 
 1870, p. 1^2 ; Coues, Key N. Amer. B. p. 97 (1872); Scl. $ Sah 
 JSomencl Av. Neotr. p. 9 (1873) ; Coues, B. N.-West, p. 54 (1874): 
-Lawr. Bull. U.S. Nat. Mm. no. 4, p. 15 (1876); Gundl Om. Cuba, 
+Lawr. Bull. U.S. Nat. Mm. no. 4, p. 15 (1876); Gundl Orn. Cuba, 
 
 p. 64 (1876) ; Coues, B. Color. Vail. p. 241 (1878); Laivr. Br. U.S. 
 Nat. Mm. i. pp. 54, 486 (1878); Merrill, t. c. p. 124 (1878) • 
@@ -20976,9 +20976,9 @@ Sclater Collection.
 18. Dendxceca dominica. 
 The Yellow-throated Creeper, Catesbv, N. Hist. Carol i. p. 62, pi. 62 
 (1731). 
-Le Figuier eendre de S. Domingue, Briss. Om. iii. p. 520, pi. 27. 
+Le Figuier eendre de S. Domingue, Briss. Orn. iii. p. 520, pi. 27. 
 fig. 3 (1760). 
-La Mesange grise de la Caroline, Briss. Om. iii. p. 563 (1760). 
+La Mesange grise de la Caroline, Briss. Orn. iii. p. 563 (1760). 
 MotaciHa dominica, Linn. S. N. i. p. 334 (1766). 
 La Gorge-jaune de St. Domingue, Daub. PI. Evil. 686. fig. 1. 
 Le Cou-]aune, Buff. Hist. Nat. Ois. v. p. 165 (1778). 
@@ -20992,9 +20992,9 @@ Yellow-throat Warbler, Penn. Arct Zool. ii. p. 400 (1785).
 Motacilla ilavicollis, Gm. Syst Nat. i. p. 959 (1788). 
 Motacilla pensilis, Gm. t. c. p. 960 (1788); Less. Traite, p. 418 
 (1831). 
-Sylvia dominica, Lath. Ind. Om. ii. p. 538 (1790). 
+Sylvia dominica, Lath. Ind. Orn. ii. p. 538 (1790). 
 Sylvia pensilis, Lath, t c. p. 520 (1790); Vieill. Ois. Amer. Sept. ii. 
-pi. 72 (1807) ; Audub. B. Amer. pi. 85; id. Om. Biogr. i. p. 434 
+pi. 72 (1807) ; Audub. B. Amer. pi. 85; id. Orn. Biogr. i. p. 434 
 (1831); D'Orbigny, in Ramon de la JSagra's Hist. Nat. Cuba^. 60 
 (1838). 
 Sylvia ilavicollis, Lath. t. c. p. 518 (1790); Vieill. Ois. Amir. Sept 
@@ -21339,7 +21339,7 @@ Sylvia discolor, Vieill. Ois. Amer. Sept. ii. p. 37, pi. 98 (1807);
 Anduh. B. Amer. pi. 14; id. Orn. Biogr. i. p. 76 (1831). 
 Sylvia minuta, Wils. Amer. Orn. iii. p. 87, pi. 25. fig. 4 (1811). 
 Phyllopneuste ininuta, Bote, Isis, 1828, p. 321. 
-Sylvicola discolor, Jard. ed. Wils. Amer. Om. p. 375 (1832); Bp. 
+Sylvicola discolor, Jard. ed. Wils. Amer. Orn. p. 375 (1832); Bp. 
 
 Comp. List B. Eur. $ N. Amer. p. 23 (1838) ; Audub. Syn. p. 62 
 (1839); id. B. Amer. ii. p. 68, pi. 97 (1841); Gosse, B. Jamaica, 
@@ -21450,18 +21450,18 @@ i. <$ ad. Mem. sk. Jamaica. Purchased.
 k. <$ ad. sk. Porto Eico. Dr. Bryant [P.]. 
 24. Dendroeca maculosa. 
 The Yellow-rumped Flycatcher, Bdw. Glean, v. p; 97, pi. 255 (1758). 
-Le Figuier tachete de Pensilvanie, Briss. Om. iii. p. 502 (1760). 
+Le Figuier tachete de Pensilvanie, Briss. Orn. iii. p. 502 (1760). 
 Le Figuier a tete eendree, Buff. Hist. Nat. Ois. v. p. 291 (1778). 
 Yellow-runiped Warbler, Lath. Gen. Syn. ii. pt. 2, p. 481 (1783). 
 Yellow-rump Warbler, Perm. Arcf. Zo'ol. ii. p. 400 (1785). 
 Motacilla maculosa, Gm. Syst. Nat. i. p. 984 (1788). 
-Sylvia maculosa, Lath. Ind. Om. ii. p. 536 (1790) ; Vieill. Ois. Amei\ 
-Sept. p. 33, pi. 93 (1807) ; Audub. B. Amer. pis. 50,123 ; id. Om. 
+Sylvia maculosa, Lath. Ind. Orn. ii. p. 536 (1790) ; Vieill. Ois. Amei\ 
+Sept. p. 33, pi. 93 (1807) ; Audub. B. Amer. pis. 50,123 ; id. Orn. 
 Biogr. i. p. 260 (1831), ii. p. 145 (1834), v. p. 458 (1839); BOrb. 
 in Ramon de la Sagrds Hist. Nat. Cuba, p. 64 (1838). 
-Sylvia magnolia, Wils. Amer. Om. iii. p. 63, pi. 23 (1811). 
+Sylvia magnolia, Wils. Amer. Orn. iii. p. 63, pi. 23 (1811). 
 Sylvicola maculosa, Sioains.fyRieh. Faun Bor.-Amer., Birds, p. 213, 
-"pi. 40 (1831) ; Jard. ed. Wils. Amer. Om. i. p. 353, pi. 23. %. 2 
+"pi. 40 (1831) ; Jard. ed. Wils. Amer. Orn. i. p. 353, pi. 23. %. 2 
 (1832) ; Bp. Comp. ListB. Bur. $N. Amer. p. 22 (1838) ; Audub. 
 Syn. p. 61 (1839) ; id. B. Amer. ii. p. 68, pi. 96 (1841); Bp. 
 Consp. i. p. 307 (1850) ; Bryant, Proc. Bost. Soc. N. H. vii. 
@@ -21485,7 +21485,7 @@ p. 347 5 Dresser, Ibis, 1865, p. 478; Coues, Key N. Amer. B. p. 102
 (1872); Mayn. B. Florida, p. 56 (1873) ; Scl. # Salv. Nomencl. 
 Av. Neotr. p. 9 (1873) ; Coues, B. N.-West, p. 62 (1874) ; Gundl 
 Om. Cuba, p. 66 (1876); Lawr. Bull. U.S. Nat. Mus. no. 4, p. 16 
-(1876) ; Breivst. Bull. Nutt. Om. Club, ii. p. 1 (1877); Coues, B. 
+(1876) ; Breivst. Bull. Nutt. Orn. Club, ii. p. 1 (1877); Coues, B. 
 Color. Vail. p. 290 (1878); id. Bull. U.S. Geol. Surv. iv. p. 567 
 (1878); Cory, B. Bahamas, p. 62 (1880) ; Ridgw.Bidl U.S. Nat. 
 Mm. no. 21, p. 17 (1881) ; Salv.fyGodm. Biol. Centr.-Amer., Aves, 
@@ -21617,7 +21617,7 @@ Golden-crowned Flycatcher, Edwards, Gleanings, p. 187, pi. 298 (1760)
 
 M2TCOTILTID.2S. 
 
-Le Figuier cendrS de Canada, Briss. Om. in. p.^24, pi. 27.fig. 1 (1760). 
+Le Figuier cendrS de Canada, Briss. Orn. in. p.^24, pi. 27.fig. 1 (1760). 
 La Melange de Virginie, Briss. t. c. p. 505 (1760). 
 Le Figuier cendr<§ tacliet6 de Pensilvanie, Bnss. Om.Yi., App. p. 110 
 (1760). 
@@ -21651,12 +21651,12 @@ Grasset Warbler, Penn. t e. p. 411.
 Motacilla cincta, Gm. Syst. Nat. i. p. 980 (1788). 
 Motacilla umbria, Gm. t. c. p. 959 (1788). 
 Motacilla pinguis, Gm. t. c. p. 973. 
-Sylvia umbria, Lath. Lid. Om. ii. p. 518 (1790). 
+Sylvia umbria, Lath. Lid. Orn. ii. p. 518 (1790). 
 Sylvia coronata, Lath. t. e. p. 538 (1790); Vieill. Ois. Amir. Sept. 
 
-ii. p. 24, pis. 78, 79 (1807); Wils. Amer. Om. ii. p. 138, pi. 17. 
+ii. p. 24, pis. 78, 79 (1807); Wils. Amer. Orn. ii. p. 138, pi. 17. 
 fig. 4 (1810), v. p. 121, pi. 45. Hg. 3 (1810); Aiuluh. B. Amer. 
-pi. 153; id. Om. Biogr. ii. p. 303 (1834); D'Orbigny in Ramm 
+pi. 153; id. Orn. Biogr. ii. p. 303 (1834); D'Orbigny in Ramm 
 de la Sagrah Hist. Nat de Cuba, p. 56 (1839). 
 Sylvia cincta, Lath, t e. p. 539 (1790). 
 Sylvia pinguis, Lath, t c. p. 543 (1790). 
@@ -23276,7 +23276,7 @@ explained ty Professor Baird in the 'Birds of Kbrth America* and in his
 1. Perissoglossa tigrina. 
 Spotted Yellow Flycatcher, Echo. Glean, vi. p. 101, pi. 257.fio- 12 
 (1760). * ' * 
-Le Figuier brun de Canada, Briss. Om. iii. p. 515, pi. 27.fio-.A 
+Le Figuier brun de Canada, Briss. Orn. iii. p. 515, pi. 27.fio-.A 
 
 (1760). * ' F 
 Spotted Yellow Warbler, Xai/i. #m. %w. ii. pt. 2, p. 482 (1783) 
@@ -23612,7 +23612,7 @@ Turdus eitreus, P. L. S. MM. Syst. flat. Suppl. p. 141 (1776) ; Cass.
 
 Proc. Philad. Acad. 1864, p. 249. 
 Motacilla canadensis (nee L.), Bodd. Tall PL Enl. p. 24 (1783). 
-Turdus aurocapillus, Lath. 2nd. Om. i. p. 328 (1790) ; Wils. Amer. Orn. 
+Turdus aurocapillus, Lath. 2nd. Orn. i. p. 328 (1790) ; Wils. Amer. Orn. 
 
 ii. p. 88, pi. 14. fig. 2 (1810); Audub. B. Amer. pi. 143; id. Orn. 
 Biogr. ii. p. 253 (1834), v. p. 447 (1839); flutt. Man. i. p. 404 
@@ -24058,7 +24058,7 @@ Siurus ngeyius notabih\ Ridgw. Proc. U.S. Xaf. Mu*. iii. f.1'2 {18*0);
 id. Bull U.S. Nat. JIus. no. 21, p. lb (Ifebl j ; Coues. Kty X Amtr. 
 
 B. 2nd ed. p. 309(1884). 
-Siurus notabilis, Breiust. Bidl. Kutt. Om. Club, vii. p. 138 (1S52). 
+Siurus notabilis, Breiust. Bidl. Kutt. Orn. Club, vii. p. 138 (1S52). 
 Dr. 
 Coues considers tbis to be very doubtfully dibtinct from 
 
@@ -24191,9 +24191,9 @@ S. Xat. Museum [P.].
 shaw). 
 
 2. Oporornis formosa. 
-Svlvia formosa, Wils. Amer. Om. iii. p. 85, pi. 25. jBg. 3 (1811): 
-* Audnb. B. Amer. pi. 88 ; id. Om. Biogr. i. p. 190 (letfl). 
-Svlvicola formosa, Jard. ed. Wils. Amer. Om. i. p. 373 (1832); 
+Svlvia formosa, Wils. Amer. Orn. iii. p. 85, pi. 25. jBg. 3 (1811): 
+* Audnb. B. Amer. pi. 88 ; id. Orn. Biogr. i. p. 190 (letfl). 
+Svlvicola formosa, Jard. ed. Wils. Amer. Orn. i. p. 373 (1832); 
 "Nemoied, J.f. O. 1858, p. 113. 
 Myiodioctes formosus, Audvb. Syn. p. 50(1839); id. B. Amer. ii. 
 
@@ -24218,7 +24218,7 @@ Amer.B. p. 107 (1872); Scl. 4* Salv. Xmimcl Av. JWr/p. 9
 (1873); Coues,B. X.-West,p. 73 (1874); Baird, Brewer, LV Ridgir. 
 Hist. X. Amer. B. i. p. 293, pi. 15. fig. 3 (1874); Breicder, Aim. 
 Lye. X. Y. xi. p. 137 (1875); Lairr. Bull. U.S. Xat. Jim. no. 4, 
-p. 16 (1876); Gundl. Om. Cuba, p. 68 (1870) ; CouesrB. Color. Vail. 
+p. 16 (1876); Gundl. Orn. Cuba, p. 68 (1870) ; CouesrB. Color. Vail. 
 p. 309 (1878); Midgut. Bull U.S. Xat. Mus. no. 21, p. 18 (ISel) : 
 Coues, KeyX. Amer.B. p. 310 (1884). 
 Adult. General colour above olive-greenish ; lesser wing-coverts 
@@ -24478,24 +24478,24 @@ Motacilla chrysoptera, Bodd. Tail PI Enl p. 44 (1783); Bartr.
 Trav. Florida, p. 292 (1791). 
 Yellow-breast Warbler, Penn. Arctic Zool ii. p. 399 (17^5). 
 Qrange-thighed Warbler, Penn. t c. p. 399 (178-5;. 
-Sylvia trichas, Lath. Ind. Om. ii. p. 519 (1790); Vieill. Ois. Amer. 
+Sylvia trichas, Lath. Ind. Orn. ii. p. 519 (1790); Vieill. Ois. Amer. 
 
-Sept. ii. p. 28, pis. 85, 86 (1807); Audub. B. Amer. pi. 23: id. Om. 
+Sept. ii. p. 28, pis. 85, 86 (1807); Audub. B. Amer. pi. 23: id. Orn. 
 Biogr. i. p. 121 (1831), y. p. 463 (1839) ; I)'Orb. in Hamuli de la 
 Sagra's Hist Nat. Cuba, p. 01 (1838). 
 
-Sylvia triclias, var. /3, Lath. Ind. Om. ii. p. 519 (1790). 
+Sylvia triclias, var. /3, Lath. Ind. Orn. ii. p. 519 (1790). 
 Motacilla trichias, Turton, Syst. Nat. i. p. 590 (1800) ; Nutf. Man. 
 1840, p. 457. 
-Sylvia marylandica, Wils. Amer. Om. i. p. 88, pi. 6. %. 1 (1308); 
+Sylvia marylandica, Wils. Amer. Orn. i. p. 88, pi. 6. %. 1 (1308); 
 
 id. op. cit ii. p. 103, pi. 18. fig. 4 (1810). 
 Eegulus? mystaceus, Steph. Gen. Zool. xiii. p. 232 (1*26). 
 Irichas personatus, Swains. Zool. Journ. iii. p. 107 (1G27|; Tig. Voy. 
 
-1 Blossom] Zool. p. 18 (1839); Jard. ed. Wils. Amer. Om. i. pp. 88, 
+1 Blossom] Zool. p. 18 (1839); Jard. ed. Wils. Amer. Orn. i. pp. 88, 
 303 (1832). 
-Syhia roscoe, Audub. B. Amer. pi. 24; id. Om. Biogr. i. p. 124 
+Syhia roscoe, Audub. B. Amer. pi. 24; id. Orn. Biogr. i. p. 124 
 
 (18;32)-
 
@@ -26395,7 +26395,7 @@ J. Gould, Esq.
 2. Basileuterns flaveolus. 
 Basileuterus flaveolus, Baird, Rev. Amer. B. p. 252 (1805); Scl $ 
 Salv. Nomencl Av. Neotr. p, 10 (1873). 
-MyiotHypis flaveolus, JPeb. Om. Bras. p. 72 (1871). 
+MyiotHypis flaveolus, JPeb. Orn. Bras. p. 72 (1871). 
 
 Adult male. General colour above yellowish green, a little lighter 
 on the rump and upper tail-coverts, the long feathers of the former 
@@ -26719,7 +26719,7 @@ Sinio?is).
 8. Basileuterus tristriatus. 
 Myiodioctes tristriatus, Tschudi, Faun. Peruan. p, 193, Taf. 14. fig. 1 
 (1855). 
-Basileuterus tristriatus, Bp. Consp. i. p. 314 (1850) ; Tacz. Om. 
+Basileuterus tristriatus, Bp. Consp. i. p. 314 (1850) ; Tacz. Orn. 
 Ferou, p. 472 (1884). 
 Adult male. General colour above dull olive-green, a little clearer 
 on the rump and upper tail-coverts; lesser wing-coverts like the 
@@ -27691,7 +27691,7 @@ Edwin Wilson, Esq. [P.].
 Salvin-Godman Coll. 
 
 27. BasHexLterus leucophrys. 
-Basileuterus leucophrys, Peh. Om. Bras. pp. 72,137 (1871). 
+Basileuterus leucophrys, Peh. Orn. Bras. pp. 72,137 (1871). 
 Setophaga leucophrys, Gray, Hand-L B. i. p. 245, no. 3553 (I860). 
 Adult. Head slate-colour, obsoletely margined with black on both 
 
@@ -28997,7 +28997,7 @@ Baird, Review Amer. B. p. 2*18 ( 1H>5 ); Gray, Hand-L B. i. p. 243,
 no. 3519 (18G9); Wyatt, Ibis, 1871, p. 323; Sd ,\* bah. XomoieL 
 Av. Keotr. p. 10 (1S73) ; M. P. Z. 8.1?*70, p. 10; bale. Ibis. 1^78, 
 p. 311; Tacz. P. Z. 8. 1879, p. 223, lfc*2, p. 7; Berkj^ek & Tacz. 
-P. Z. 8. 1883, p. 541; Tacz. Om. Perou, p. 4al (1841). 
+P. Z. 8. 1883, p. 541; Tacz. Orn. Perou, p. 4al (1841). 
 Myioborus verticalis, Tacz. P. Z. 8. Ib74, p. 508. 
 Adult male. General colour above slaty grey; lesser wing-coverts 
 like the back; median and greater series, bastard-wing, priniancoverts, 
@@ -29184,7 +29184,7 @@ p. 74; id. Cat Amer. JB. p. 37 (1862); Sci. # Salv. P. Z. 8. 1870,
 p. 784; iid. NomenclAv. Neotr. p. 11 (1873). 
 Setophaga sp., JBaird, HeviewAmer. B. p. 258 (1865). 
 Setophaga bairdi, Salvin, Ibis, 1878, p. 317, pi. viii. fig. 1; Taez. 
-P. Z. 8. 1879, p. 224; id. Om. Perou, p. 480 (1884). 
+P. Z. 8. 1879, p. 224; id. Orn. Perou, p. 480 (1884). 
 Adult male. General colour above dark slaty grey, slightly marked 
 with olive; lesser wing-coverts like the back; median and greater 
 series blackish, externally edged with slaty grey; bastard-wing and 
@@ -29504,7 +29504,7 @@ Eaujp, P. Z. S. 1851, p. 50; Tschudi, Faun. Peruan. p. 192, Taf. 12.
 
 fig. 2 (1855); Baird, Eeview Amer. B. p. 258 (I860); Gray, 
 Hand~l B. i. p. 243, no. 8521 (1869); 8alv. Ibis, 1878, p. 312; 
-Tacz. P.Z.S. 1882, p. 7; id. Om. Perou, i. p. 479 (1884). 
+Tacz. P.Z.S. 1882, p. 7; id. Orn. Perou, i. p. 479 (1884). 
 
 Myioborus melanocepkalus, Tacz. P. Z. 8. 1874, p. 509. 
 
@@ -29780,13 +29780,13 @@ fig. 4 (1760).
 
 Muscicapa canadensis, Linn. Syst. Nor. i. p. 357 (1700); Wik. Amer, 
 Orn. iii. p. 100, pi. 20. fig. 2 (1811; 5 Audub. B. Amer. pi. 103 ; 
-id. Om. Biogr. ii. p. 17 (lb34). 
+id. Orn. Biogr. ii. p. 17 (lb34). 
 
 Canada Flycatcher, Lath. Gen. Syn. ii. pt. 1, p. 354 (1763); Ptmu 
 
 Ai'ctic Zool. ii. p. 383 (1785). 
 Sylvia pardalina, Bp. Journ. Philad. Acad, iv. p. 1711 iifc24). 
-Muscicapa bunapaitii, Audub. B. Amer. pi. 5; id. Om. Biogr. L 
+Muscicapa bunapaitii, Audub. B. Amer. pi. 5; id. Orn. Biogr. L 
 
 p. 27 (1831). 
 Setophaga bonapartii, Swains. $ Richards. Faun. Bor.-Amer., Birds, 
@@ -30253,17 +30253,17 @@ Motacilla mitrata, Gm. JSyst. Nat. i. p. 977 (1788).
 
 438 MNIOTILTXDiE. 
 
-Sylvia mitrata, Lath. Ind. Om. ii. p. 528 (1790) ; Vieill Ois.Amer. 
+Sylvia mitrata, Lath. Ind. Orn. ii. p. 528 (1790) ; Vieill Ois.Amer. 
 Sept. ii. p. 23, pi. 17 (1807); Audub. B. Amer. pi. 60,- td. Orn. 
 Biogr. ii. p. W (1834). 
 Muscicapa pileata, Steph. Gen. Zool x. p. 399 (1817). 
 
 Muscicapa cucnllata, Wilson, Amer. Orn. iii. p. 101, pi. 2d. ng. 3 
 (1811). . . Aa 
-Muscicapa sclbii, Audub. B. Amer. pi. 9; id. Om. Biogr. i. pi. 46 
+Muscicapa sclbii, Audub. B. Amer. pi. 9; id. Orn. Biogr. i. pi. 46 
 
 (1831); Nutt. Man. 1832, p. 296. 
-Setophaga mitrata, JarA. ed. Wils. Amer. Om. i. p. 389 (1832); 
+Setophaga mitrata, JarA. ed. Wils. Amer. Orn. i. p. 389 (1832); 
 Richards. Rep. Brit. Assoc. 1836-37, p. 172; jy'Orb. in Ramon 
 de la tiaqra's Hist. Nat. Cuba, Ois. p. 75 (1838) ; Gray, Gen. B. i. 
 
@@ -30282,7 +30282,7 @@ Dresser, Ibis, 1865, p. 478; Lawr. Ann. Lye. K Y. viii. p. 284
 p. 547 (I860); Coues, Key N. Amer. B. p. 109 (1872) ; Snow, B. 
 Kansas, p. 5 (1873) ; Scl. $ Salv. Nomencl. Av. Neotr. p. 10 {1873); 
 Coues, B. M.-West, p. 78 (1874) ; Baird, Brewer, $ Ridyic. Hut. 
-N. Amer. B. i.p. 314, pi. 15.figs. 10,11 (1874) ; Gundl. Om. Cuba, 
+N. Amer. B. i.p. 314, pi. 15.figs. 10,11 (1874) ; Gundl. Orn. Cuba, 
 p. 71 (1876); Coues, B. Color. Vail. p. 324 (1878); Ridgw. Bull 
 U.S. Wat. Mus. no. 21, p. 19 (1881); Salv. fy Godm. Biol. Centr.-
 Amer., Aves, i. p. 167 (1881) ; Boucard, P. Z. S. 1883, p. 441. 
@@ -30506,7 +30506,7 @@ bluish grey alhiloris, p. 454
 The Little Blue and Grey Flycatchers, Edwards, Gleanings, pt. ii. 
 
 p. 194, pi. 302 (1760). 
-Le Figuier cendre de Pensilvanie, Briss. Om. vi. App. p. 107 
+Le Figuier cendre de Pensilvanie, Briss. Orn. vi. App. p. 107 
 (1760). 
 Motacilla cssrulea, Linn. Si/st Sat i. p. 337 (17G6) ; Gm. 8i/*t. Sat. 
 
@@ -30518,16 +30518,16 @@ Casrulean Warbler, Lath. Gen. Syn. ii. pt. 2, p. 41)0 (ITtS) ; Penn.
 Arctic Zool ii. p. 405 (1785). 
 Grey-throated Warbler, Lath. te. p. 496; Penn. te. p. 411. 
 Motacilla cana, Gm. Syst. Sat i. p. 973 (1788). 
-Sylvia cana, Lath. Lid. Om. ii. p. 543 (1790). 
-Sylvia casrnlea, Lath. Lnd. Om. ii. p. 540 (1790); Bp. Joitnu Phil. 
+Sylvia cana, Lath. Lid. Orn. ii. p. 543 (1790). 
+Sylvia casrnlea, Lath. Lnd. Orn. ii. p. 540 (1790); Bp. Joitnu Phil. 
 Acad. iv. p. 172 (1824). 
 Eegulus griseus, Bartr. Trav. Florida, p. 291 (1791). 
-Muscicapa cserulea, WUs. Amer. Om. ii. p. 104, -pi. 18. %. 5 (1810) ; 
-Auduo. B. Amer. pi. 84; id. Om. Biogr. i. p. 431 (1831). 
+Muscicapa cserulea, WUs. Amer. Orn. ii. p. 104, -pi. 18. %. 5 (1810) ; 
+Auduo. B. Amer. pi. 84; id. Orn. Biogr. i. p. 431 (1831). 
 
 (1848); Bp. Consp.'i. p. 316 (1850); 'Cab. J. f. O. 1855f pP471; 
 Gundl J.f. 0.1861, p. 407. 
-Sylvanga ceerulea, Suit Man. Om. p. 337 (1840). 
+Sylvanga ceerulea, Suit Man. Orn. p. 337 (1840). 
 Oulicivora rnexicana, Bp. Consp. i. p. 315 (1850). 
 Polioptiia cserulea, Scl. P. Z. S. 1855, p. 11; Baird, B. K. Amer 
 
@@ -30639,7 +30639,7 @@ t. Ad, sk. Guatemala. Gould Collection.
 2. Polioptila lembeyi 
 Polioptila lembeyi, Gundl. J. f. O. 1801, p. 32 ; Bai/'d, UP tint: 
 Amer. B. p. 08"(1804) j Gray^Hand-L B. L p. 287, no. 3441 (IblJil); 
-Gundl. J.f. 0. 1872, p. 410; id. Om. Cuba, p. 00 (lS7ij). 
+Gundl. J.f. 0. 1872, p. 410; id. Orn. Cuba, p. 00 (lS7ij). 
 
 Adult. General colour above dull ashy grey, the long feathers of 
 the rump tipped with silky white; wing-coverts like the back, the 
@@ -31172,7 +31172,7 @@ Eand-l. B. i. p. 237, no. 3486 (1860) ; Sate, P. Z. 8. Ib7% p. 1^2.
 
 Polioptila 
 albiloris (non 8el fy Sah.), Tacz. P. Z. & 1877, p. 810, 
-1879, p. 223; id. Om. Firm, p. 452 (1883). 
+1879, p. 223; id. Orn. Firm, p. 452 (1883). 
 
 ^ Adult male. General colour above pure Ereneh grey, the long 
 silky feathers of the rump whitish near their end*.; \ung-covnti> 
@@ -31641,7 +31641,7 @@ ei Barth.-Lapomm. Rich. Dm. p. 2// (18o9); Utos. JW/rf/%
 iWmm. Vog. Deutschl. Taf. 377. fig. 1 (1600;; id. Ibis, 1HJL>, 
 p 70; #?/. *. c. p. 296 ; 6r>^, Zi& i?/-#. ^ . p. 66 (1-03) ; Jf«w; 
 & 1865, p. 121; Gould, B. Gt. Brit, ill pi. 1 (e.1^05); !>///. 
-tf &rfe, Om. JSto\ i. p. 384 (1867); Smith, 3i\ l-0», p. 412; 
+tf &rfe, Orn. JSto\ i. p. 384 (1867); Smith, 3i\ l-0», p. 412; 
 Gray, Hand-L B. i. p. 246, no. 3564 (1809}; Fntsdi, Vog. Ear. 
 tab xxi fi°* 22 (c. 1870); Saunders, Ibh, 1871, p. 215; Snltnd. 
 Faun.ital, Uoe. p. 121 (1*71); B.Grag.B. West Scott, p. 110 
@@ -32614,7 +32614,7 @@ b. $ ad, ssstiv. sk. [India.] Gould Collection.
 3. MotaciHa ocularis. (Plate IY. figs. 5, 6.) 
 Motacilla ocularis, Swirih. Ibis, 1860, p. 55; Ch*ay, Hand-l. B. i. 
 p. 246, no. 3576 (1809) ; Sicinh. P. Z. S. 1870, p. 129,1871, p. 364: 
-Frjev. in Foioley's Om. Misc. ii. p. 192 (1877); DavidfyOusted, 
+Frjev. in Foioley's Orn. Misc. ii. p. 192 (1877); DavidfyOusted, 
 Ok Chine, p. 299 (1878); Hume # Davison, Str. F. 1878, p. 518 
 Hume, Str. F. 1879, p. 103; Scully, t c. pp. 312, 315 ; Hume, t.c. 
 p. 413; Oates, B. Brit Bitrm. i. p. 158 (1883) ; Dybowski, Bull 
@@ -34103,7 +34103,7 @@ p. 208, 1862, p. 156; Layard, B. S. Afr. p. 118 (1867); At/res,
 Mis, 1869, p. 292; Gray, Hand-l B. i. p. 246, no. 3573 (1869); 
 Finsch 8r Hartl Tog. Ostafr. p. 266 (1870); Sharpe, Cat. Afr. B. 
 p. 73 (1871); Gtmiey in Anderss. B. Dam. Ld. p. Il l (1872); 
-Shelley, Ibis, 1875, p. 73; Bocage, Om. Angola, p. 290 (1877-81); 
+Shelley, Ibis, 1875, p. 73; Bocage, Orn. Angola, p. 290 (1877-81); 
 Sharpe in Gates's Matabele Land, App. p. 317 (1881); Holub 8f 
 Von Pelz. Beitr. Orn. Sudafr. p. 82 (1882); Shelley, Ibis, 1882, 
 p. 349; Salv. Cat Strickl. Coll. p. 80 (1882); Butler, Feilden, $ JReid, 
@@ -34112,7 +34112,7 @@ La Petite Bergeronette du Cap de Bonne Esp&rance, Buff. Hist.
 Nat Ois. v. p. 274 (1778). 
 African Wagtail, Lath. Gen. Syn. ii. pt. 2, p. 402 (1783). 
 Cape Wagtail, Lath. Gen. Syn. ii. pt. 2, p. 402 (1783). 
-Motacilla afra, Om. Syst. Nat i. p. 962 (1788). 
+Motacilla afra, Orn. Syst. Nat i. p. 962 (1788). 
 La Lavandiere brune. LevaHl. Ois. oVAfr. iv. p. 80, pi. 177 (1805) ; 
 
 Sundev. Krit Framst., Levaill p. 44 (1857). 
@@ -34402,7 +34402,7 @@ Seebohm, Ibis, 1879, p. 34; Wardlaio Ramsay, t. c. p. 448 ; id. Ibis,
 1880, p. 60; Seebohm, t. c. p. 189; Severtz. Ibis, 1883, p. 64. 
 
 Motacilla boarula, Linn. Mant. p. 527 (1771) ; Gm. Syst. Nat. i. p. 997 
-(1788) ; Temm. Man. d'Orn. i. p. 257 (1820) ; Boux, Om. Provenc. 
+(1788) ; Temm. Man. d'Orn. i. p. 257 (1820) ; Boux, Orn. Provenc. 
 pi. 195 (1825); Werner, Atlas, Insectiv. pi. 74 (1827); Biipp. 
 Neue Wirb. p. 84 (1835-40); Eyion, Cat. Brit. B. p. 15 (1836) ; 
 Gould, B. Eur. ii. pi. 147 (1837) ; Bp. Comp. List B. Eur. § N. 
@@ -34415,7 +34415,7 @@ Eggs Br. B. p. 126, pi. 33. iig. 2 (1846); Gray, Cat. Mamm. etc.
 Nepal pres. Hodgs. p. 75 (1846); id. Gen. B. i. p. 203 (1847) ; Blyth 
 Cat. B. Mus. As. Soc. p. 137 (1849); Thomps. B. Irel. i. p. 218 
 (1849) ; Temm. Sf Schl. Faun. Jap., Aves, p. 59 (1850); Kelaart, 
-Prodr. Cat. p. 121 (1852) ; Kjcerb. Om. Ban. pi. 19. fig. 5 (1852) ; 
+Prodr. Cat. p. 121 (1852) ; Kjcerb. Orn. Ban. pi. 19. fig. 5 (1852) ; 
 Layard, Ann. fy Mag. Nat. Hist. xii. p. 268 (1853); Vernon Harcourt, 
 op. (At. 1855, p. 437; Bolle, J.f. 0.1857, p. 286; Jaubert $ 
 Barth.-Lapomm. Rich. Orn. p. 274 (1859); Lindenn. Yog. Griechenl. 
@@ -34516,12 +34516,12 @@ p. 201; id. Nests and Eggs Ind. B. p. 381 (1874); id. Str. F. 1874,
 p. 237. 
 Motacilla (Oalobates) sulphurea, Blanf. Geol. fy Zool. Abyss, p. 381 
 (1870). 
-Motacilla (Oalobates) boarula, Heugl. Om, N.O.-Afr. ii, pt. 2, App. 
+Motacilla (Oalobates) boarula, Heugl. Orn. N.O.-Afr. ii, pt. 2, App. 
 
 p. lxxxix (1871). 
 Oalobates nielanope, Swinh. P. Z. S. 1871, p. 364; Brooks, J. A. S. 
 Beng. xh\ p. 82 (1872) ; id. Str. F. 1875, p. 250; Fairb. Str. F. 
-1876, p. 260; Bourd. t. c. p. 401; Prjev. in Dawson Bowleg's Om. 
+1876, p. 260; Bourd. t. c. p. 401; Prjev. in Dawson Bowleg's Orn. 
 Misc. ii. p. 193 (1876); David $ Oust. Ok. Chine, p. 302 (1877) ; 
 
 Walden, Tr. Z. S. ix. p. 196 (1877); Tweedd. Ibis, 1877, p. 310; 
@@ -34530,7 +34530,7 @@ Hume $ Davison, Str. F. 1878, p. 362 ; Davison $ Wend. Str. F.
 
 t. c. p. 315; Brooks, t. c. p. 484; Butler, Cat B. Sind fye. p. 40 
 (1879); id. Cat. B. S. Bomb. Pres. p. 54 (1880); Vidal, Str. F. 
-1880, p. 69; Beid, Str. F. 1881, p. 48; Salvad. Om. Papuasia etc. 
+1880, p. 69; Beid, Str. F. 1881, p. 48; Salvad. Orn. Papuasia etc. 
 ii. p. 431 (1881); Biddidph, Ibis, 1881, p. 68; Scully, t. c. 
 p. 452 ; Davidson, Str. F. 1882, p. 310; Nichols. Ibis, 1882, p. 62; 
 C. Swinhoe, t. c. p. 109; Slater, t. c. p. 433; Nichols. Ibis, 1883, 
@@ -34899,7 +34899,7 @@ JBeng xli p 82 (1872); Severtz. Turhest. Jevotn. pp. 67, 139
 p. 384; Eume, Str. F. 1874, p. 239; Stoliczka, t c. p. 464; Ball, 
 Str. F. 1875, p. 293; Scully, Str. F. 1876, p. 151; Seehohm <§* 
 Harm-Brown, Ibis, 1876, p. 123; Blanf. Fast Pers. ii. p. 235 
-(1876); Pn'ev. in Roioley's Om. Misc. ii. p. 193 (1876); Taezan. 
+(1876); Pn'ev. in Roioley's Orn. Misc. ii. p. 193 (1876); Taezan. 
 Bull Soc. Zool. France, i. p. 151 (1876); Eume, Str. F. 1877, 
 p. 37; Butler, t. c. pp. 210, 230; David $ Oust Ois. Chine, p. 304 
 (1877) ; Brooks, Ibis, 1877, p. 208; Davids. $ Wend. Str. F. 1878, 
@@ -34908,7 +34908,7 @@ F. 1879, p. 103; Butier, Cat B. Sind $c. p. 41 (1879); id. Cat
 B. S. Bomb. Pres. p. 55 (1880); Biddulph, Ibis, 18^1, p. 69 ; Sculhj, 
 t. c. p. 452; Davids. Str. F. 1882, p. 313; Sicinh. Ibit>, lhS'2, 
 p. 110; Biddulph, t c. p. 2b0; Davison, Str. F. Ibb3, p, ^90 : 
-Severts. Bis, 1883, p. 80; Madde, Om. Cauc. p. 219 (lb-4). 
+Severts. Bis, 1883, p. 80; Madde, Orn. Cauc. p. 219 (lb-4). 
 Budytes calcarata, Hodgs. Asiatic Research, xix. p. 190 (l&oU). 
 
 Young male. General colour above earthy brown, the feathers 
@@ -35385,10 +35385,10 @@ note (1875); Dress. Ibis, 1876, p. 179; B. O. U. List Brit. B. p. 31
 Motacilla flava anglica, ScMeg. Vog, Nederl. p. 190 (1854). 
 Budvtes neglectus (nee Gould), Brehm, Vog elf. p. 142 (1855); 
 Homeijer §• Tancri, MT. om. Ver. Wien, 1883, p. 86. 
-Motacilla angloram, Flm\ Prev., teste Degl. fy Gerbe, Om. Bur. i. 
+Motacilla angloram, Flm\ Prev., teste Degl. fy Gerbe, Orn. Bur. i. 
 
 p. 442 (1867). 
-Motacilla flava campestris, Heugl. Om. N.O.-Afr. i. p. 322 (1869). 
+Motacilla flava campestris, Heugl. Orn. N.O.-Afr. i. p. 322 (1869). 
 Motacilla flava, var. rayi, Finsch § Hartl. Vog. Ostafr. p. 273 
 (1870). 
 Motacilla flava, var. campestris, Finsch fy Hartl. t. c. p. 273 (1870). 
@@ -35760,7 +35760,7 @@ p. 247 ; Blyth, Ibis, 1865, p. 50; Giqlioli, t. c. p. 55 ; Lilford, Ibis,
 1866, pp. 187, 386, 391; Tristr. t. c. p. 290 ; Chambers, Ibis, 1867, 
 p. 104; Brake, t c. p. 427; Malmgr. t. c. p. 230; Begl. fy Gerbe, 
 Om. Eur. i. p. 376 (1867); Loche, Expl. Sci. Alger., Ois. ii. p. 7 
-(1867); Heugl Om. N. O.-Afr. i. p. 321 (1868); JDoderl. Avif. Sicil. 
+(1867); Heugl Orn. N. O.-Afr. i. p. 321 (1868); JDoderl. Avif. Sicil. 
 p. 101 (1869); Ball $ Bam. Tr. Chicago Acad. i. p. 312*, pi. 30. 
 tig. 1 (1869) ; Wyatt, Ibis, 1870, p. 15; Elwes fy Buckley, t c. 
 p. 195 j Latjard, t c. p. 282; Gould, B.Gr. Brit iii. pi. 4 (c. 1870) ; 
@@ -35804,10 +35804,10 @@ Ibis, 1864, p. 418; Walden, Trans. Zool. Soc. viii. p. 65 (1872);
 Salvad. Ucc. Born. p. 200 (1874) ; Tweedd. Ibis, 1877, p. 228; id. 
 P. Z. S. 1878, p. 82; Meyer, Ibis, 1879, p. 127; Sharpe, i. c. 
 
-p. 262 ; Salvad. Om. Papuasia etc. ii. p. 430 (1881). 
+p. 262 ; Salvad. Orn. Papuasia etc. ii. p. 430 (1881). 
 Budytes cinereocapillus, Sioinh. Ibis, 1863, pp. 94, 309; id. P. Z. S. 
 1871, p. 364. 
-Motacilla flava cinereocapilla fasciata, Hetcgl. Om. N.O.-Afr. i. 
+Motacilla flava cinereocapilla fasciata, Hetcgl. Orn. N.O.-Afr. i. 
 
 p. 321 (1869). 
 Budytes leucostriatus (vox hybridd), Homey er, J.f. O. 1878, p. 128. 
@@ -36317,7 +36317,7 @@ Alston 8f Harvie-Brown, Ibis, 1873, p. 61 ; Adam, Str. F. 1873,
 
 p. 384; Hume, Sfr. F. 1874, p. 237, 1875, p. 489; id. fy Oates,tc. 
 p. 142; Fairb. Str. F. 1876, p. 260 ; Taez. Bull. Soe. Zool. France, 
-ii. p. 151 (1876) ; Prfev. in Daiuson Rowley's Om. Misc. ii. p. 193 
+ii. p. 151 (1876) ; Prfev. in Daiuson Rowley's Orn. Misc. ii. p. 193 
 (1677); David $ Oust. Ois. Chine, p. 303 (1878); Hume % Davison, 
 Str. F. 1878, pp. 363, 518; Ball, Str. F. 1878, vol. ii. p. 219; 
 Davids. Sf Wend. t. c. p. 84; Brooks, t. c. p. 139 * Cripps, t. c. p. 286; 
@@ -36669,7 +36669,7 @@ p. 200.
 Motacilla flava dalinatica, Sundev. (Efv. K Vet.-Akad. Fork Stoekh. 
 1840, p. 54. 
 Motacilla flava cinereocapilla, Te?n?n. Man. cPOrn. iv. p. 022 (1840); 
-Sck Bev. Crit. p. xxxviii (1844); Meitgl Om. KO.-Afi\j>. 321 
+Sck Bev. Crit. p. xxxviii (1844); Meitgl Orn. KO.-Afi\j>. 321 
 (1869). 
 
 Motacilla 
@@ -36779,10 +36779,10 @@ N. Amer. p. 19 (1838); Jerd Madr. Journ. xi. p. 9 (1840); liupp.
 Syst Uebers. p. 59 (1845) ; Blyth, Cat B. Mus. As\ &to. p. 1:J8 
 (1849); Bp. Consp. i. p. 250 (1&50); Cab. Mus. Hein. Tii. i. p. 13 
 (1850); Horsf § Moore, Cat B. EI. Co. Mus. Lp. 351 <lbo4j; 
-Jaub. et Bartk-Lapomm. Rich. Om. p. 281 (1859); Tristr. Ibis, 
+Jaub. et Bartk-Lapomm. Rich. Orn. p. 281 (1859); Tristr. Ibis, 
 1859, p. 30; Brehn, Reis. Habesch, p. 213 (18U3); Blyth, Ibfr, 
 1865, p. 49; Giglioli, t e. p. 55; Blyth, Ibis, 1607, p. 30; IJer/I. 
-£ Gerbe, Om. Eur. i. p. 3b0 (1867, pt); Loche* Exph S<L 
+£ Gerbe, Orn. Eur. i. p. 3b0 (1867, pt); Loche* Exph S<L 
 Algtr., Ois. ii. p. 10(1807); Doderl Avif. Sieil. p. 103 (lfcUOj; 
 Elwes §• BucJdey, Ibis, lb70, p. 195 ; Hume, f. c. p. 142 ; Le Kdys-
 Longclb. t. c. p. 452; Blanf Geol. 6f ZooL Aby*s. p. 3^1 ilb70); 
@@ -36801,7 +36801,7 @@ p. 40 (1879); id Cat B. S. Bomb. Pre*, p. 56 (Ib&O); Biddulph,
 Ibis, 1881, p. 69; Giglioli, t e. p. 200; Davids. Str. F. lebl, 
 p. 310; Reid, Str. F. 1881, p. 48; C. Stanh. Ibis, L**2, p. 109; 
 Severtz. Ibis, 1883, p. 80; Sharpe, ed. ZayarcFs B. S. Afr. p. 551 
-(1884) ; Radde, Om. Cam. p. 222 (18b4). "~~"" 
+(1884) ; Radde, Orn. Cam. p. 222 (18b4). "~~"" 
 Motacilla kaleniczenkii, Erynicki MSS.; Kalenkz. Bull. Mosc. 183^, 
 
 p. 231, tab. xx. 
@@ -36814,7 +36814,7 @@ Motacilla flava, var. melanocepbala, Nordm. in Demid. Voy. Buss.
 Mfrid. iii. p. 239 (1840) ; Shelley, Ibis, 1871, p. 138. 
 
 Motacilla flava melanocepbala, Schl. Rev. Crit p. xxxviii (1844); 
-Heugl Om. N.O.-AfnJ^32I (1869). 
+Heugl Orn. N.O.-AfnJ^32I (1869). 
 
 Budytes 
 nigricapiHa, Bp. Consp. i. p. 249 (1850); Brehn, Naum. 
@@ -39661,22 +39661,22 @@ Sylvia massiliensis, Lath. Ind. Orn. ii. p*. 531 (1790).
 Sylvia maculata, Lath. t. c. p. 532 (1790). 
 570 MOTACILLIDJE. 
 
-Alauda paludosa, Bonn. Om. i. p. 313 (1790). 
+Alauda paludosa, Bonn. Orn. i. p. 313 (1790). 
 
 Anthus campestris, Bechst. Nature?. DeutscM. iii. p. 722 (1807); 
 Naum. Vog. DeutscM. iii. pi. 84. fig. 1 (1823); Brehm , Vog. 
 Deutschl p. 324 (1831) ; Bp. Comp. List B. Bur. §• JY. Amer. p. 18 
 (1838) ; Nordm. in Demid. Vog. Buss. Merid. iii. p. 161 (1840); SchL 
 Bev. Crit p. zxxvi (1844); Gray, Gen. B. i. p. 200 (1847;; Blyih, 
-Cat. B. Mm. As. Soc. p. 136 (1849); Kjmrh. Om. Ban. pi. 17. 
+Cat. B. Mm. As. Soc. p. 136 (1849); Kjmrh. Orn. Ban. pi. 17. 
 fig. 4 (1852); SchL Vog. Nederl. pi. 94 (1854); Sundev. Svensk. 
 Fogl. pi. 8. fig. 5 (c. 1856); Haiti. Orn. W.-Afr. p. 73 (1857) ; 
-Jaub. et Barth-Lapomm. Bich. Om. p. 286 (lb59); Tristr. Ibis, 
+Jaub. et Barth-Lapomm. Bich. Orn. p. 286 (lb59); Tristr. Ibis, 
 1859. pp. 31, 41; Linderm. Vog. Griechenl p. 2&0 (1859); Radde, 
 Beis. Ost-Sibir., Vog. p. 220 (1863); Wright, Ibis, lb64; p. 01; 
 Filippi, Viagg. Pers. p. 348 (1865); Sperling ^ Ibis, lfctfc, p. 290; 
 Smith, t. c. p. 442 ; Gray, Eand~L B. i. p. 250, no. 3635 (1869); 
-Heugl. Om. N.O.-Afr. i. p. 325 (1869); Borggr. Vogelf. DeutscM. 
+Heugl. Orn. N.O.-Afr. i. p. 325 (1869); Borggr. Vogelf. DeutscM. 
 
 p. 86 (1869) ; Goidd, B. Gt. Br. iii. pi. 9 (c. 1870; ; Fritsch, Vog. 
 Bur. tab. xvi. fig. 8 (1870); Wyatt, Ibis, 1870, p. 15; Dimes # 
@@ -40026,7 +40026,7 @@ Str. F. 1878, p. 366; Hume, Str. F. 1879, p. 65-, Kelham, Ibis,
 
 Corydalla lugubris, Tweedd. P. Z. S. 1877, pp. 547, 696, 762, 828; 
 
-id. P. Z. S. 1878, pp. 286,380,710 ; Wardlaw Bamsay, Om. Works 
+id. P. Z. S. 1878, pp. 286,380,710 ; Wardlaw Bamsay, Orn. Works 
 
 Tweedd. p. Q5& (1881). 
 
@@ -40610,9 +40610,9 @@ u. IHim. Wirk Bur. p. 172 (1840); Sdgs-Longch. Faun. Belg.
 p. 87 (18.12); IW . 2toV. //. i. p. 389 (1843) ; llewits. Eggs Brit, 
 B. i. p. 133, pi. 30. %. 1 (1846); <?>w/, Gen. B. i. p. 200 (1847); 
 Thumps. B. Irel. I. p. 225 (1840); Bp. Cmsp. i. p. 248 (18,50); 
-Cab. Mm. Ilein. Tli. I. p. 14 (1850); Kjmrb. Om. Dan. pi. xvii. 
+Cab. Mm. Ilein. Tli. I. p. 14 (1850); Kjmrb. Orn. Dan. pi. xvii. 
 % 3 (1852) ; Sehl. Fog. Nederl. pi. 90 (1854) ; to^D. fe^. 
-i*W//. pi. 8. iig. 7 (1850); JW;. of Barth.-Lapomm. Rich. Om. 
+i*W//. pi. 8. iig. 7 (1850); JW;. of Barth.-Lapomm. Rich. Orn. 
 p. 284 (1850); r^r . 2&w, 1859, pp. 81, 421; Solo, t c. p. 310; 
 Towys, Ibis, 1800, p. 229; Linderm. Fog. Grieclienl. p. 77 (1800) ; 
 Beiuh. Ibis, 1801, p. (j; (Jodm. t. c. p. 343; /SWW. D/er. Nederl. 
@@ -40620,11 +40620,11 @@ Vof/. pi. 9. fig. 5 (1801) : Godman, Ibis, 1802, p. 343; Grai/,Zut
 Brit. B. 1803, p. 09 ; Wright, Ibis, 1864, p. 01; More, Ibis] 1805, 
 
 p. 121; Tristr. Ibis, 1800, p. 124 ; J%7/, iB«, 1807, p. 31 ; itewtf, 
-2. r. p. 281; DegL ct Gerbe, Om. Eur. i. 5. 307 (1807) ; Xoc/ifi, 
+2. r. p. 281; DegL ct Gerbe, Orn. Eur. i. 5. 307 (1807) ; Xoc/ifi, 
 jEty;/. S<>i. Alydr., Ois. ii. p. 10 (1807) ; Smith, Ibis, 1808, p. 442; 
 Hume, Sfr. F. 1809, p. 355 ; Borggr. Yogelf. JDeutschl p. 80 
 (1809); 2W<v£ -4B//". /Sfc& p. 97 (I860) ; Gray, JSand-l B. i. 
-p. 251, no. 3045 (1809) ; Ileugl. Om. N.O.-Afr. 1. p. 323 (1809) ; 
+p. 251, no. 3045 (1809) ; Ileugl. Orn. N.O.-Afr. 1. p. 323 (1809) ; 
 Mwes § Buckley, Ibis, 1870, p. 195; Hume, t. c. p. 288; Goidd, B. 
 Gt. Br. iii. pi. 13 (c. 1870); Fritsch, Vog. Eur. tab. 10. fig. 7 
 (1870) ; II Gray, B. W. Scotl. p. 115 (1871) ; Salvad. Faun. Ital. 
@@ -40645,7 +40645,7 @@ B. Cane. p. 110 (1879); Midgio. Bull U.S. Nat Mm. no. 21,p. 15
 (lh81); Seebohm, Ibis, 1882, p. 370; JDLion, t. c. p. 571; Seebohm, 
 Ibis, 1883, p. 20; Irby, t c. p. 184 ; B. O. U. List Br. B. p. 32 
 (18S3) ; Booth, Bough Notes, pt. 4 (1883); Homeyer $r Tancre, 
-MT. om, Ver. Wien, 1883, p. 86; Badde, Om. Cauc. p. 217 
+MT. om, Ver. Wien, 1883, p. 86; Badde, Orn. Cauc. p. 217 
 (1884) ; Tristr. Faun. § Flor. Palest p. 65 (1884) ; Cones. Key 
 N Amer. B. 2nd ed. p. 285 (1884). 
 Spipola 
@@ -42395,7 +42395,7 @@ Antlras furcatus, Lafr. fy tfOrh. Syn. Av. 1837, p. 27; tfOrb. Voy.
 Amer. Merid, p. 227 (1835-44) ; Gould in Darwin's Voy. l Beagle] 
 Birds, p. 85 (1841) ; Gray, Gen. B. i. p. 206 (1847) ; Bp. Consp. i. 
 
-p. 249 (1850) ; Sol. Ibis, 1878, p. 364; Tacz. Om. Pfrou, p. 459 
+p. 249 (1850) ; Sol. Ibis, 1878, p. 364; Tacz. Orn. Pfrou, p. 459 
 (1884). 
 Anthus brevirostris, Tacz. P. Z. S. 1874, p. 507. 
 
@@ -42465,7 +42465,7 @@ Anthus chii, Spix, Av. Bras. i. p. 7o,pl. 70. &<x. 2 (1824); ~Xtiucied
 Beitr. Naturg. Bras. iii. p. 031 (1&30); Set Cat. Amir. B 
 * L 
 B *>! 
-(1802) ; Pete. Om. Bras. p. 60 (1871).
+(1802) ; Pete. Orn. Bras. p. 60 (1871).
 
 Anthus rufus, Iferr. in Erschu. Grub. Eneycl.iv. p. 290 {i^OV 
 Gray, Gen. B. i. p. 200 (1847); Bp. Comp. i. p. 2411 (1^0)-
@@ -42628,7 +42628,7 @@ ScL Bis, 1878, p. 359.
 Antlius 
 turdinus, Men-em, in Ersch u. Grab. EacycL iv. p. 290 
 (1820). 
-Antlius rufus (nee Gm.)} Pels. Om. Bras. p. Gi> (1&71). 
+Antlius rufus (nee Gm.)} Pels. Orn. Bras. p. Gi> (1&71). 
 
 Hind daw rather long, almost equal to hind toe. Tarsus not 
 exceeding hind toe and claw, and about equal to them. Primarus 
@@ -43179,7 +43179,7 @@ Anthus novas zealandias, Gray, Toy Erebus 4* Terror, Birds,
 
 p. 4 (1844); id. Gen. B. i. p. 206 (1847); Bp. Cony. i. p. 240 
 (1850); Gray, Ibis, 1862, p. 224; Feb. lieu. Nomra, Toy. p. 09 
-(1865); Bidler, Essay Om. New Zeal p. 9 (1863); Gray, Jlutid-l. 
+(1865); Bidler, Essay Orn. New Zeal p. 9 (1863); Gray, Jlutid-l. 
 B> i. p. 252, no. 3058 (1869); Butts, Tram. Xeiu-Zeal Inst, ii. 
 p. 61 (1869), iii. p. 76 (lb70); Htttton, Cat. B. Nna Zeal p. 13 
 (1871); Finsch, J. f. O. 1872, p. 162; id. Trans. Neic-Zeal Imt. 
@@ -43591,10 +43591,10 @@ Hartl. Vog. Ostafr. p. 278, note (1870); Sharpe, Cat. Afr. B.
 
 p. 73 (1871); Ayres, Ibis, 1873, p. 282; Buckley, Ibis, 1874, 
 p. 384; Shelley, Ibis, 1875, p. 73 ; Sharpe, in Oates's Maiahele Land, 
-App. p. 317 (1881) j Holub Sf Von Pelzeln, Beitr. Om. Sildafr. 
+App. p. 317 (1881) j Holub Sf Von Pelzeln, Beitr. Orn. Sildafr. 
 p. 86 (1882); Shelley, Ibis, 1882, p. 349; Butler, Fatten, $ Beid, 
 Zool. 1882, p. 335; Sharpe, ed. Bayards B. S. Afr. p. 530 (1884). 
-Corydalla capensis, Bouvier, Cat Coll Om. p. 54 (1874). 
+Corydalla capensis, Bouvier, Cat Coll Orn. p. 54 (1874). 
 
 Adult. General colour above brown, the featbers dark brown in 
 the centre, broadly edged with fulvous or whity brown; crown 
@@ -43680,10 +43680,10 @@ ad. sk.
 Macronyx flavicollis, Riipp. Neue Wirb., Vdg. p. 102, Taf. 38. Hg. 2 
 (1835) 5 id, Syst. Uebers. p. 79 (1845); Eorsf. $ Moore, Cat. B. E.L 
 Co. 3£us. i. p. 358 (1854); Eeugl Syst. Uebers. p. 44 (1856) ; 
-id. Om. N.O.-Afr. i. p. 330 (1869); Blanf. Geol $ Zool. Abyss. 
+id. Orn. N.O.-Afr. i. p. 330 (1869); Blanf. Geol $ Zool. Abyss. 
 
 p. 384 (1870) 5 'Fmsch, Tr. Z. S. vii. p. 324 (1870) j id. Sf Eartl. 
-Vdg. Ostafr. p. 278, note (1870); Eeugl Om. N.O.-Afr. iv. App. 
+Vdg. Ostafr. p. 278, note (1870); Eeugl Orn. N.O.-Afr. iv. App. 
 p. xciii (1871). 
 Macronyx capensis, pt., Bp. Consp. i. p. 247 (1850). 
 Anthus flavicollis, Gray, Eand4. B. i. p. 252, no. 3663 (1869). 
@@ -43749,17 +43749,17 @@ Cape Lark, var. ft Lath. Gen. Eist B. vi. n. 294 (1*23).
 Macronyx flaviga&ter, Sicains. B. W. Afr. i. p. 215 (lb37); Janh 4« 
 
 
-Selby, HI. Om. (new ser.), i. pi. xxii. (c. 183b); Bp. Conap. i. p. 247 
+Selby, HI. Orn. (new ser.), i. pi. xxii. (c. 183b); Bp. Conap. i. p. 247 
 (1850); Cass. Proc. PMlad. Acad. 1S5G; p. 817 ; Bocage, Jorn. 
 Lish. 1868, p. 48. 
 
 Anthus flaviga&ter, Gray, Gen. B. i. p. 200 (1847); Layard, B. 8. 
 Afr. p. 121 (1867). 
 
-Macronyx croceus, Earth Beitr. Om. W.-Afr.-p. 23 (1844); id. Om. 
+Macronyx croceus, Earth Beitr. Orn. W.-Afr.-p. 23 (1844); id. Om. 
 W.-Afr. pp. 73, 271 (1857); Gumey, Ibis, 18L0, p. 208; Mmteiro, 
 Ibis, 1862, p. 334; Kirk, Ibis, 1804, p. 31b; Cab. in Von 
-der Decked8 Beis. iii. p. 22 (1809); Eem/h Om. NO.-Afr. I 
+der Decked8 Beis. iii. p. 22 (1809); Eem/h Orn. NO.-Afr. I 
 
 p. 331 (1870); Finsck £ Earth Vbg. Ostafn p. 27l> (1*70); 
 8ha?'jye, Cat. Afr. B. p. 73 (1871); Ussher, Ibis, 1674, p. 70; 
@@ -43768,7 +43768,7 @@ Shelley, Ibis, 18*75, p. 73; Bouvier, Cat. Ois. Marche etc. p. 16
 Berlin, 1875, p. 177; Barratt, Ibis, 1876, p. 208 ; SharpetyBouvier, 
 Bull. 8oc. Zool France, i. p. 43 (lb76); Meichen. J, f. 0.1877, 
 p. 30; Cab. J.f. 0. 1878, p. 220; FhcJwr$* Meichen. J. f 0.1879, 
-p. 355; Bocage, Om. Angola, p. 297 (1881); Gumey, Ibis, 1881, 
+p. 355; Bocage, Orn. Angola, p. 297 (1881); Gumey, Ibis, 1881, 
 p. 125; Shelley, P. Z. 8. 1881, p 573; Earth Abhandh not. Ver. 
 Bremen, vii. pt. 2, p. 90 (1881); Shelley, Ibh, 1883, p. 543. 
 Macronyx flavicollis (non Miipp.), Bianc. Spec. Zooh Mmamb. fa&c. iv. 
@@ -43782,7 +43782,7 @@ Eartm. J. f 0.1867, p, 241; Salvad. Mivist Crit Antin. p. 734
 
 Anthus croceus, Gray, Eand-h B. i. p. 252, no. 3662 (1869). 
 Anthus striolatus, Gray,t. c. p. 252, no. 3665 (1869). 
-Corydalla croceus, Bouvier, Cat Colh Om. p. 54 (1874). 
+Corydalla croceus, Bouvier, Cat Colh Orn. p. 54 (1874). 
 
 7- MACRGNTX. 627 
 
@@ -43896,7 +43896,7 @@ t. Ad. Mem. sk. Mombasa. Rev. A. Fowell Buxton
 Macronyx amelise, De Tarragon, Meu. Zool. 1845, p. 452; Gray § 
 Mitch. Gen. B. i. pL 54 (1848); Bp. Consp. I p. 247 (1850); 
 Gurney, Ibis, 1862, p. 28 ; Finsch $* Ha?-tL Vog. Osiafr. p. 278, 
-note (1870); Eolub $ Von Felz. Beitr. Om. Sudafr. p. 87 (1882); 
+note (1870); Eolub $ Von Felz. Beitr. Orn. Sudafr. p. 87 (1882); 
 Sharpe, ed. Layard?s B. S. Afr. p. 583 (1884). 
 
 Anthus arnelias, Gray, Gen. B. i. p. 206 (1848); Lai/ard, B. S. Afr. 

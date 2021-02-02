@@ -1738,11 +1738,11 @@ Paras eseruleus, Linn. S. N. i. p. 341 (1700) ;* Lath, Gen. Syn. ii.
 
 p. 543* Beseke, Yog. Kwrlajids, no. 193; Beizius, Faun. Saee. 
 p. 209 * Koch, System, baier. Zool p. 205: Ttmm. Man. 4fOrn, 
-p. 290; Boux, Om. JPror. p. 190; Less. Trade dTOrn. p. 456; 
+p. 290; Boux, Orn. JPror. p. 190; Less. Trade dTOrn. p. 456; 
 Pall Zoogr. Boss.-As. i. p. 554; Naum. Tog. JDeuUekL IT. j)L 95; 
 Mlsson, Skandin. Faun. i. p. 341 (1835), i. p. 408 f185811 ScMnzy 
 JEurop. Faun. p. 217; Gould\ B. Fur. ii. pL 154; Moquitt-Tandvn, 
-Om. Canar. p. 18 * YarreU, Brit. B. i. p. 330; Sefys-Lont/ch. Om. 
+Om. Canar. p. 18 * YarreU, Brit. B. i. p. 330; Sefys-Lont/ch. Orn. 
 Beige, p. 104; Blyth, Cat. B. M. A. S. B. p. 104; Bp. C A. p. 229; 
 Naceyro, Cat. Av. Galizia, Mem. B. Acad. Madrid, p. 30i> {1850); 
 Kj^rbdUmg, JDanmarhs Fugle, pi. xxviii; Harsf. Sr Mmret C*aL 
@@ -1962,7 +1962,7 @@ Bp. Consp. i. p. 229; Gould, B. Asia, pt. x. \ Swinh. Ibis, 1860,
 pp. 55,131; id. P. Z. S. 1871, p. 437 * Dyboicsky, J. f. 0. 1875, 
 
 p. 249 * Taernn. Bull. Soe. Zool. France, i. p. 162 (1876) * Bjevahhy, 
-in Dawson Rowley's Om. Misc. 1877, p. 187; JDavid 8f 
+in Dawson Rowley's Orn. Misc. 1877, p. 187; JDavid 8f 
 Oustal Ois. Chine, p. 278; Seebohm, Ibis, 1879, p. 33. 
 In the eastern part of the Palaearctic Eegion, in Japan and 
 China, P. major is represented by a smaller and closely allied species. 
@@ -2296,7 +2296,7 @@ Paras major, ZMWI. S. N. i. p. 341 (1766) ; Lath. Gen. Syn. ii. p. 536 ;
 Beseke, Vog. Kurlands, no. 192; Bechstein, Vog.Deutschl iv. p. 713; 
 Betzius, Faun. Suec. p. 268; Lrumpelmann, Tht'err. Bussl., Lief., 
 JEsth- u. Kurlands; p. 22, pi. iii. <} (1811); Koch, System, baier, 
-Zool. p. 204; Temm. Man. d'Orn. p. 287; JRQUX, Om. Provene. 
+Zool. p. 204; Temm. Man. d'Orn. p. 287; JRQUX, Orn. Provene. 
 
 p. 186, pis. 117 & 118; Less. Traite, p. 456; Nilsson, Skandin. 
 Faun. p. 331; Schinz, Europ. Faun. p. 331; Selys-Longch. Faune 
@@ -3442,14 +3442,14 @@ e7f. Ad.- g, h. Juv. sk. Nepal. B. £L Hodgson,Esq. [P.\
 30. Parus nrfescens. 
 Parus 
 rufescens, Townsend, J. A. N. 8c. PMlad. vii. p. 190 (1857); 
-Audub. Om. Biogr. iv. p. 371, pi. 353; id. B. Am. ii. p. L>, 
+Audub. Orn. Biogr. iv. p. 371, pi. 353; id. B. Am. ii. p. L>, 
 pi. 129; dawn, N.Am. B. p. 18; Baird, Bird* X A. p. 304; 
 8dat. Cat. Am. B. p. 14, no. 80; Cooper* Birds of Cvhforn. p. 47 ; 
 Coues, Key N. Am. B. p. 81* id. B. N. West, p. 22; Baird, Brac.f 
 
 •f- Mdgw. N. A. B. i. p. 104. 
 Pceeila rufescens, Bp. C. A. i. p. 280 (1850). 
-Parus sitehensis, Kittlitz (fide Giebel, Tk. Om. iii. p. 32). 
+Parus sitehensis, Kittlitz (fide Giebel, Tk. Orn. iii. p. 32). 
 Entire crown of head, hind neck, interscapular region, throat, 
 and fore neck sooty brown; back, rump, scapular**, and outer 
 
@@ -3684,7 +3684,7 @@ a. Ad. sk. Formosa. E. Swinhoe, Esq., [C.].
 PASID-ffi. 
 
 35. Paras nuchalis. 
-Tarns nuchalis, Jerd. xiii p. 131 (1844); id. Mustr. Lid. Om. pi. 46; 
+Tarns nuchalis, Jerd. xiii p. 131 (1844); id. Mustr. Lid. Orn. pi. 46; 
 JBp. C. A. i. p. 230; Blyth in Jard. Contr. Orn. 1651, p. 49 ; Jerdon, 
 B. Ind. ii. p. 279; Adam, Sir. F. 1873, p. 335: ^//w, $?r. 
 J1. 1875, p. 292, & 1877, p. 221. 
@@ -3752,11 +3752,11 @@ a. [ S ] ad. sk. Philippine Islands.
 b. Ad. sk. ~Js, China.] 
 Fortune Coll.* 
 37. Parus afer. 
-Parus afer, Om. 8. K i. p. 1010 (1783); Gray, Gen. B. I p. 192; 
-Jard, 8? Selby, Must?'. Om. pi. 117; Cab. Mus. Hein. i. p. 92', 
+Parus afer, Orn. 8. K i. p. 1010 (1783); Gray, Gen. B. I p. 192; 
+Jard, 8? Selby, Must?'. Orn. pi. 117; Cab. Mus. Hein. i. p. 92', 
 Monteiro, P. Z. 8. 1865, p. 95; Gray, Hand-l. B. i. p. 231, 
 no. &331; Gurney in Anderss. B. Damara Ld. p. 81 \ Sharpe, ed. 
-Layard B. 8. Afr. p. 329,* Ayres, Ibis, 1880, p. 103; Boeage, Om. 
+Layard B. 8. Afr. p. 329,* Ayres, Ibis, 1880, p. 103; Boeage, Orn. 
 Ang. p. 28Q. 
 
 La Mesange grisette, Levaill. Ois. dHAfr. hi. pi. 138. 
@@ -3764,7 +3764,7 @@ La Mesange brune, Levaill. Ois. cFAfr. hi. pi. 139. i.g. 2.
 Parus cinerascensj Vieill. Kouv. Diet. xx. p. 316 (1818) ; Bonn, et 
 
 
-Vieill. JEnc. Meth. p. 507 ; Hartlaub, Om. W.-Afr. p. 70; Layard, 
+Vieill. JEnc. Meth. p. 507 ; Hartlaub, Orn. W.-Afr. p. 70; Layard, 
 
 B. South\Afr. p. 113 ; Chairman's Trav. in 8. Afr., Append, p. 398. 
 Parus fuscus, 
@@ -3891,7 +3891,7 @@ Of Oust. Ois. de la Chine, p. 283, pi. 34.
 
 Parus Eernodius, Hodgs. Joitm. A. S. Beng. xiii. p. 943 (1844) $ 
 id. in Gray's Zool. Misc. p. 83; Gray, Cat Mamm. etc. Nepal pres. 
-Hodgs. p. 72; Blyth, in Jard. Contr. Om. 1851, p. 51; Jerd. B. Ind. 
+Hodgs. p. 72; Blyth, in Jard. Contr. Orn. 1851, p. 51; Jerd. B. Ind. 
 
 ii. p. 276 * Swinh. Lbis, 1870, p. 155; Blanf. J. A. 8. Beng. 1872, 
 ii. p. 57 ; Brooks, Str. F. 1870, p. 4b7. 
@@ -4192,7 +4192,7 @@ the species?.)
 
 Paras ledoucli, Math. Cat Ois. Alq. in 'Mem. de la Soc. cTHist. JTat. 
 de la Moselle, 1842; id. Rev. Zool. 1846, p. 45; Bp. C A. L p. 229; 
-id. Cat. Parzud., Append, p. 18; Locke, Cat. Mamm. ei Om. Air/. 
+id. Cat. Parzud., Append, p. 18; Locke, Cat. Mamm. ei Orn. Air/. 
 
 p. 78; id. Expl. de VAlg., Ois. p. 298; Tacsan. J.f. O. 1870, p. 4i ; 
 Gurney, Ibis, 1871, p. 86, pi. 3* Dress. B. Fur. iii pi. 107; Dixon7 
@@ -4208,24 +4208,24 @@ a. Ad. sk. North Africa. Purchased.
 b. (S ad. sk. Cedar forests, W. of Batna, H. Seebohm, Esq. [P.]. 
 May 11,1882 (Dixon). 
 42. Parus atricapillus. 
-La Me*sange a teste noire de Canada, Briss. Om. iii. p. 553. pi. 29. 
+La Me*sange a teste noire de Canada, Briss. Orn. iii. p. 553. pi. 29. 
 
 fig. 1 (1760). fi 
 Parus atricapillus, linn. S. N. i. p."%4J1766), * ' 
-Parus atricapillus, Pennant, Arctic Zool. p. 424 (1785); Auduk Om. 
+Parus atricapillus, Pennant, Arctic Zool. p. 424 (1785); Auduk Orn. 
 
 1 . Pi^TTS. 45 
-Biog. ii. p. 146, pi. 126 ; Wilson, Am. Om. i. p. 134, pi. viii. fig. 4; 
+Biog. ii. p. 146, pi. 126 ; Wilson, Am. Orn. i. p. 134, pi. viii. fig. 4; 
 Bonn, et Vieill. Enc. Meth. p. 508 ; Less. Man. dOrn. i. p. 320 ; 
 Swains. Faun. Bor.~Am. Birds, p. 226; Lesson, TraiU (POrn. p. 
-466; Nuttall, Man. Om. p. 241; BeKay, Fauna New York, p. 60, 
+466; Nuttall, Man. Orn. p. 241; BeKay, Fauna New York, p. 60, 
 pi. 45. fig. 100; Bp. C. A. i. p. 230; Cassin, N. A. B. p. 17; Sclat. 
-Cat. Am. B. p. 13, no. 80; Samuels, Om. Neiv Engl, p. 182 ; Gray, 
+Cat. Am. B. p. 13, no. 80; Samuels, Orn. Neiv Engl, p. 182 ; Gray, 
 Hand-l. B. i. p. 232, no. 3354 ; Maynard, B. Florida, p. 30; Cones, 
 Key N. A. B. p. 81 ,• id. B. N. West, p. 20; Baird, Brezo., $ 
 Bidgw. N. A. B. i. p. 96. 
 
-Parus palustris, Nuttall, Man. Om. p. 79 (1832). 
+Parus palustris, Nuttall, Man. Orn. p. 79 (1832). 
 Parus septentrionalis, Harris, Fr. A. N. So. ii. 1845, p. 300 ; Cassin, 
 Lll i. pi. xiv. (1835) (teste Baird, Br. 8f B.) ; Ctam, JV. Am. B. 
 
@@ -5320,7 +5320,7 @@ Nomencl. p. 37.
 Orites caudata, 
 Mors/. 8r Moore, Cat. B. Mus. B.I Comp. i p. 373 
 (1854) ; Sundev. Av. Meth. Tent p. 17; Malm, Fauna, p. 180 j 
-Frjew. in Dawson Roicleys Om. Misc. 1877, p. 190, sp. 89. 
+Frjew. in Dawson Roicleys Orn. Misc. 1877, p. 190, sp. 89. 
 
 3fa/<?. Head all round, nape, sides of neck, throat, breast, tinder 
 wing-coverts, and edge of wing snowy white, this colour becoming 
@@ -6004,7 +6004,7 @@ PARIDJE.
 
 Dicseum sanguimfrons, Say, TV. -4s. Soc. Beng. xv. p. 44 
 
-Paroides flaniraiceps, Strickl. Confr. Om. 1850, p. 148, pi. Q6. 
+Paroides flaniraiceps, Strickl. Confr. Orn. 1850, p. 148, pi. Q6. 
 
 Cephalopyrus flamrniceps, Jerdon, B. Ind. ii. p. 267 (18(33). 
 
@@ -6888,7 +6888,7 @@ Gray, Hand-l. B. \. p. 218, no. 3104; Scl §• Salv. Komencl Ai\
 Neotr. p. 4 \ Cooper, B. Calif, i. p. 32; Baird} Breiver, Sf Bidgicay, 
 
 * REGULUS CUVIERI. 
-Regulus cuvieri, Audub. Om. Biogr. L p. 288, pi. 55 (1832); Gray, Gen. 
+Regulus cuvieri, Audub. Orn. Biogr. L p. 288, pi. 55 (1832); Gray, Gen. 
 
 B. 
 i. p. 175 ; Baird, B. N. Am. p. 228 ; id. Bev. Am. B. p. (JO; Baird, 
@@ -6910,8 +6910,8 @@ was killed in June 1812 on the banks of the Schuylkil River in Pennsylvania."
 X. A. B. i. p. 73; Cones, B. Color ad. Vail. p. 90 (cf. for American 
 references): id. Key X. A. B. p. 78. 
 Reguluacribtatus, Vieill. Ois. Am. ii. pi. 106 (1807). 
-Regains tricolor, Audub. Om. Biogr. ii. p. 470 (1831-39). 
-Regains reguloides, Jardine, Wilson1 s Am. Om. i, p. 127 (1832). 
+Regains tricolor, Audub. Orn. Biogr. ii. p. 470 (1831-39). 
+Regains reguloides, Jardine, Wilson1 s Am. Orn. i, p. 127 (1832). 
 Regains satrapa, var. olivaseens, Baird, Bev. Am. B. p. 65 (1864). 
 
 This species, although very similar to B. ignkctpillus in general 
@@ -6967,7 +6967,7 @@ Byl\iaignicapilla, Brelun, in Temm. Man. d'Orn. p. 231 (1820);
 Itesulus ignicapillus, Meyer, Taschenb. Bei(tse7d. Vogelh. iii. p. 109 
 
 
-(1822)* Werner, Atlas, Inseetivores, pi. 61; Boux, Om. Provenc. 
+(1822)* Werner, Atlas, Inseetivores, pi. 61; Boux, Orn. Provenc. 
 
 I 
 
@@ -7614,7 +7614,7 @@ n. 5*50; Meyer, Sitzb. l\ Ah. Wiss. Wien, lxix. p. 506 (1874) ;
 Salvad. Ann. Mits. Civ. Gen. vii. p. 772 (1875), x. p. 138, xv. p. 42 
 (1870); Sharpe, Proc. Linn. JSoc. xiii. p. 409 (1878); Ramsay, 
 Proc. Linn. Sac. N 8. W. ii. p. 180; Ro&enb. Malay. Archip. p. 395 ; 
-Salvad. Om. Papuasia e Molueche, ii. p. 100. 
+Salvad. Orn. Papuasia e Molueche, ii. p. 100. 
 Cracticus crabsiro&tiis, Salvad. Attili. Ace. 8c. Tor. ix. p. 430 (1874) ; 
 
 3 . CRACTICUS. 
@@ -7877,7 +7877,7 @@ Gould, B. Austr. fol Introd. p. xxxv; Bp.
 Consp. i. p. 367 ; Gould, Handb. B. Austr. i. p. 187; Gray, Hand-l 
 
 B. i. p. 386, no. 5854 • Bamsag, Proc. Linn. Soc. 2V7.8, W. ii. p. 180. 
-Cracticus destructor, Biggies, Om. Austr. pi. —. &g. 2. 
+Cracticus destructor, Biggies, Orn. Austr. pi. —. &g. 2. 
 Bulestes leucopterus, Cab. Mus. Rein. Tli. i. p. 67. 
 Adult, Above, including the scapulars, some of the wing-coverts, 
 and the rump, silvery grey with faint blackish shaft-streaks; the 
@@ -8105,7 +8105,7 @@ d. Imm. sk. Tasmania. Konald Gunn, Esq. [P.].
 Cracticus mentalis, Salvad. <$• D'Alb. Ann. Mus. Civic. Genov. vii. 
 (1875), p. 824; Sharpe, Pr. Linn. Soc. xiii. p. 317 (1877), 409 
 (1878), 687 (1879); Ramsay, Proc. Linn. Soc. 3r. A W. iii. p. 281 
-(1879), iv. p. 99 (1879) ; Salvad. Om. Pap. e Molucche, ii. p. 189. 
+(1879), iv. p. 99 (1879) ; Salvad. Orn. Pap. e Molucche, ii. p. 189. 
 
 Vanga mentalis, Ramsay', o/>. c#. i. p. 392 (1876). 
 Cracticus spaldingi, Masters, Proc. Linn. Soc. N. 8. W. ii. p. 27 
@@ -8302,7 +8302,7 @@ c, d. Ad. sk. Saralalan (Crossley). R. B. Sharpe, Esq.
 e. Ad. sk. Madagascar. R. B. Sharpe, Esq. 
 f* $ ad. sk. Analatsoi. Rev. W, Deans Cowan [C.]. 
 2. Yanga rufa. 
-Lanius madagascariensis rufus, JBriss. Om. p. 178, pi. 18. fig. 4. 
+Lanius madagascariensis rufus, JBriss. Orn. p. 178, pi. 18. fig. 4. 
 Pie-grieche rousse de Madagascar, Daubent PL Enl. 298.fig. 2. 
 Rufous Shrike, Lath. Gen. Syn. i. pt. i. p. 180. 
 Lanius rufus, Gm. S. JST. i. p. 303 (1788). 
@@ -9212,7 +9212,7 @@ woolly. The sexes are different in plumage.
 Mange. Madagascar. 
 
 1. Calicalicus madagascariensis. 
-Lanius madagascariensis minor, Briss. Om. ii. p. 164, pi. 16. 
+Lanius madagascariensis minor, Briss. Orn. ii. p. 164, pi. 16. 
 
 Lanius madagascariensis, Linn. S. N. 1766, i. p. 137; Schley, fy 
 
@@ -9820,7 +9820,7 @@ p. 275; Dress. B. Eur. iii. p. 423, pi. 154.
 
 
 Teleopliontis tchagra, Lilford, Ibis, 1866, p. 380 (nee V.). 
-Teiepkonus tsckagra, (non V.) Begl.fy Gerbe, Om. Eur. i. p. 230; Bp. 
+Teiepkonus tsckagra, (non V.) Begl.fy Gerbe, Orn. Eur. i. p. 230; Bp. 
 Cat. Ois. Eur. Parzud. p. 8 (1856); Locke, Cat. Mamm. Ois. Alg. 
 
 p. 80, sp. 172 (1858); id. Expl. Scient. Alger., Ois. ii. p. 44. 
@@ -9851,7 +9851,7 @@ May 5,1856. Salvin, Esqrs. [P.].
 5. TelopiLonus Manfordi. (Plate II. fig. 2.) 
 Laniarius erythropterus, Blanf. Geol. <$• Zool Abyss, p. 343 (nee Shaw). 
 Lanius senegalus, var., Mempr. 8f Ehrenb, Si/mb. Phys. foL E. 
-Telephonus erythropterus, pt.? Hevgl. Om. N.O.-Afr. i. p. 468. 
+Telephonus erythropterus, pt.? Hevgl. Orn. N.O.-Afr. i. p. 468. 
 Laniarius blanfordi. Sharpe, ed. Layard B. South Afr. p. 397 
 
 (1882). 
@@ -9993,7 +9993,7 @@ e. [ J jad. sk. Fantee. E. B. Sharpe, Esq.
 Telephonus anckietse, Bocage, Jovn. Lisb. 1870, p. 344 • Shelley, P. Z. S. 
 
 1881, p. 579. 
-Telephonus minutus, Bocage, Om. $ Angola, p. 225, pi. iv. 
+Telephonus minutus, Bocage, Orn. $ Angola, p. 225, pi. iv. 
 Laniarius anchietse, Sharpe, ed. Layard B. S. Afr. p. 397 (1882). 
 
 Adult. Yery similiar to T. minutus, but a trifle smaller, and 
@@ -10051,7 +10051,7 @@ DRYOSCOPUS SOMALICUS.
 Lanius somalicus, Hartl. Ibis, 1859, p. 342; Finsch § Hartl. Vog. Ostafr. 
 
 p. 333 (1870); Heuglin, Faun. roth. Meer. no. 125. 
-Dryoscopus somalicus, Heugl. Om. N.O.-Afr. pp. 460, cxvii. 
+Dryoscopus somalicus, Heugl. Orn. N.O.-Afr. pp. 460, cxvii. 
 "Above fine black, excepting the middle of the back being transversely variegated 
 -with grey and whitish; below white, without any rose-tint; tail much 
 like that of L. minor. Hah. Somali Land." 
@@ -10234,7 +10234,7 @@ Hab. Kipini, East Africa.
 
 3. Bryoscopus funebris, 
 Dryoscopus funebris, Hartl. P. Z. S. 1863, p; 105; Scl. ibid. 1864, 
-p. 109; Heugl. Om. N.O.-Afr. pp. 46, crvii. 
+p. 109; Heugl. Orn. N.O.-Afr. pp. 46, crvii. 
 Laniarius funebris, Finsch Sf Ilartl Vog. Ostafr. p. 352, Taf. iv.fig. 2. 
 Laniarius atrocasruleus, Rupp. in Mus. Brit. 
 General colour slaty black; wings, wing-coverts, and tail glossy 
@@ -10330,7 +10330,7 @@ Dryoscopus boulboul, JBp. Consp. i. p. 301 j iShaiye, Cat. Afr. B.
 p 48 ; Shelky, Ibis, 1875, p. 77 ; Barraft, oj>. cit. 1876, p. 204. 
 Malaconotus ferruginous, Grill, Zool. Antech. p. 32. 
 Laniarius rufiventris, Finschfy Hartl. Vog. Ostafr. p. 344. 
-Dryoscopus rufiventris, Ileugl. Om. N.O.-Afr. pp. 344, cxvii. 
+Dryoscopus rufiventris, Ileugl. Orn. N.O.-Afr. pp. 344, cxvii. 
 
 Adult male. General colour above black, with a very slight 
 greenish gloss; the lores, feathers round the eye, and ear-coverts 
@@ -10782,8 +10782,8 @@ p. 825; Cab. in v. d. Deckers Feisen, iii. p. 25 ; Ilartl. Vog. Madag.
 p. 196. 
 Dryoscopus orientalis, Cab. Mas. Hein. i. p. G8 (1850) (teste Cab.). 
 Dryoscopus sublacteus (nee Cass.), Verr. Rev. et Mag. Zool. 1855, 
-p. 420; Earth Om. W.-Afr. p. Ill (teste Finsch $ Eartl). 
-Drvoscopus affinis (non Gray), Ilartl. Om. W.-Afr. p. Ill ; Cass. 
+p. 420; Earth Orn. W.-Afr. p. Ill (teste Finsch $ Eartl). 
+Drvoscopus affinis (non Gray), Ilartl. Orn. W.-Afr. p. Ill ; Cass. 
 Froc. Fhilad. Acad. 1859, p. 53 ; Ilartl. J. f. 0. 1861, p. 173. 
 Dryoscopus bojeri, v. Feb., Ilartl. Faun. Madag. p. 50. 
 Dryo&copus verreauxii, Cab. in v. d. Deckers lieis. iii. p. 26. 
@@ -10841,7 +10841,7 @@ Dr. Lucan "0.].
 e. [" c? J ad. st. West Africa. Purchased." 
 15. Dryoscopus hamatns. 
 Dryoscopus hamatus, Marti P. Z. S. 1863, p. 108 ,* Sel T. Z. 8.1864, 
-p. 109; Meiigl Om. K.O.-Afi\ pp. 460, cxvii 
+p. 109; Meiigl Orn. K.O.-Afi\ pp. 460, cxvii 
 . •- «... i x— „ n xr 
 7 / T> i -~ orvr .
 
@@ -11072,7 +11072,7 @@ no. 0020"; Reichnw. J.f O. 1877, p. 24.
 Dryoscopus gambensis, 'Bp. C. A. i. p. SCO; Harih Or a. W.-Afr. 
 
 p. 110 ; id. J.f. O. 1801, p. 172; Mart maun, op. cif. 1^04, p. 149 ; 
-Sfiaiye, Ibis, 1870, p. 5o; Heitgl. Om. X.O.-Afr. i, p. 4-JG, iv. 
+Sfiaiye, Ibis, 1870, p. 5o; Heitgl. Orn. X.O.-Afr. i, p. 4-JG, iv. 
 p. exvii \ Sharpe, Cat Afr. B. p. 48. 
 Dryoscopus cubla, UeugJ. Syst. Uebers. p. 34; Iii»pp. Sijsf. Uebers, 
 p. 02; JBrehm, Itezse nach Habeseh, p. 814. 
@@ -11255,7 +11255,7 @@ Salvin, Ibis, 1874, p. 316.
 E. Smaller Race. 
 Dryoscopus cubla (?wn Shatu), Boeage, Jorn. Lisb. 1868, p. 44,1874, 
 p. 38, 1876, pp. 151 & 253, 1877, p. 67; Gurnet/, i?i Anderss. B. 
-Dam. Ld. p. 146; Sharpe, P.Z.S. 1873, p. 714; Boeage, Om. 
+Dam. Ld. p. 146; Sharpe, P.Z.S. 1873, p. 714; Boeage, Orn. 
 dAngola, p. 227. 
 Laniarius cubla, Einsch 8/ Hartl. Vo'g. Ostafr. p. 345; Boeage, Jorn. 
 Lisb. 1874, p. 56. 
@@ -11793,7 +11793,7 @@ Archolestes approxirnans, Cab. in von der Deckens Beisen, iii, p. 27.
 Laniarius olivaceus, Sharpe, Cat. Afr. B. p. 49. 
 Meristes olivaceus, Finsch 8f Hartl. Vog. Ostafr. p. 3G1; Heugl. Orn. 
 
-N.O.-Afr, pp. 406, exviii; Bocage, Om. d}Angola, p. 235. 
+N.O.-Afr, pp. 406, exviii; Bocage, Orn. d}Angola, p. 235. 
 Laniarius poliocephalus, Sharpe, ed. Zayard B. S. Afr. p. 387. 
 
 Adult. General colour above pale yellowish green; wing-coverts, 
@@ -11983,7 +11983,7 @@ Cat. descr. Ucc. p. 54; Layard, B. S. Afr. p. 163; Shelley, Ibis,
 1875, p. 77. 
 Laniarius superciliosus, Gray, Gen. B. i. p. 298; Bp. Consp. i. 
 
-p. 360; Haril. Om. W.-Afr. p. 108. 
+p. 360; Haril. Orn. W.-Afr. p. 108. 
 Chlorophoneus similis, Cab. Ahis. Hein. Th. i. p. 71; Gurney in 
 Anderss. B. Dam. Ld. p. 148. 
 Malaconotus sulphureopectus, Jard. Bdirih. Neiv PJriZos. Joum. Hi. 
@@ -11991,12 +11991,12 @@ Malaconotus sulphureopectus, Jard. Bdirih. Neiv PJriZos. Joum. Hi.
 p. 242 (1856). 
 Chlorophoneus sulfureipectus, Bp. C. B. xxxviii. p. 534; Bocage, 
 Om. Angola, p. 234. 
-Laniarius chrysogaster, Haril. Om. W.-Afr. p. 107; Sharpe, Ibis, 
+Laniarius chrysogaster, Haril. Orn. W.-Afr. p. 107; Sharpe, Ibis, 
 1869, p. 190. 
 Laniarius modestus, Boeage, Jorn. Lish. i. p. 151; id. J. f. 0.1876, 
 
 p. 415 ; Gray, Hand-l. B. i. p. 396, no. 6013. 
-Dryoscopus sulfureipectus, Heugl. Om. N. O.-Afr. I pp. 464, cxviii. 
+Dryoscopus sulfureipectus, Heugl. Orn. N. O.-Afr. I pp. 464, cxviii. 
 Telophorus similis, Gray, Hand-l. B. i. p. 398, no. 6047. 
 Telopkorus superciliosus, Gray, Hand-l. B. i. p. 398, no. 6050. 
 Laniarius sulfureipectus, Sharpe, Ibis, 1869, p. 190 ; Finsch § Hartl 
@@ -12237,7 +12237,7 @@ Lamarius gutturalis, Sharpe, Cat. Afr. B. p. 49 (nee Baud.); Shelley,
 
 Ibis, 1875, p. 77 ; Sharpe, ed. Layard B. S. A. p. 385. 
 
-Chloropkoneus bacbakiri, Bocage, Om. Angola, p. 232. 
+Chloropkoneus bacbakiri, Bocage, Orn. Angola, p. 232. 
 
 Adult male. General colour above, including' scapulars, wing- and 
 
@@ -12456,14 +12456,14 @@ Laniius chloris, Vaienc. Diet. Sc. Ar. xl p. 220; Less. Compl. Buff. vu.
 
 
 p. 432; Fucker. Arch. Mm. vii. p. 325. 
-Laniarius peli. Bp. Consp. i. p. 360; IlartL Om. W.-Afr.-pip. 109, 
+Laniarius peli. Bp. Consp. i. p. 360; IlartL Orn. W.-Afr.-pip. 109, 
 273; id. J. f. O. 1855, p. 358, 1861, p. 172. 
 Trichopliorus chlorib, Ilartl. J.f. 0. 1854, p. 2o. 
 Ixonotus chloris, Bp. C. 11. xxiviii. p. 533 (1854). 
 Laniarius lepidus, Cass. Pr. PJdlad. Acad. 1855, p. 327. 
 Nicitor chloris, Finsch 8f Ilartl. Yog. Odafr. p. 360 (1870); 
 Sharpe, Cat.Afr.B.'pAO; id. P. Z. S. 1871, p. 611; Ussher, Ibis, 
-1874, p. 04; Reichmo. J.f. O. 1877, p. 24; Boc. Om. d'Ang. 
+1874, p. 04; Reichmo. J.f. O. 1877, p. 24; Boc. Orn. d'Ang. 
 pp. 230, 550. 
 
 Laniarius chloris, 
@@ -12501,7 +12501,7 @@ i. Ad. sk. Gaboon. Purchased.
 Nicator vireo, Cabanis, J. f. O. 1876, p. 333, Taf. ii.; Peichenow, 
 
 J.f. O. 1877, p. 24; Sharpe § Bouvier, Bull. Soe. Zool. France, 
-1877, p. 308; Bocage, Om. Angola, p. 236, note, & p. 550. 
+1877, p. 308; Bocage, Orn. Angola, p. 236, note, & p. 550. 
 * Bonaparte never called N. chloris by the generic name of Meristes. The 
 first who did this was Gray, in his Hand-}. B. i. p. 396, no. 1489, although he 
 quotes it "Meristes, Bp. 1854." 
@@ -12655,7 +12655,7 @@ Si/st. Uebe?-s. p. 62 (?iec Shaw) ; Lefeb. Abyss., Ois\ p. 169; Ileugl.
 Faun. Moth. Meer. No. 122,- id. J.'f. O. 1864, p. 254,* Antin. Cat. 
 descrr. TJcc. p. 55. 
 
-Nilaus brubru, Ileugl. Om. N.O.-Afr. i. p. 467; Finsch c§-Hartl. Vb'g. 
+Nilaus brubru, Ileugl. Orn. N.O.-Afr. i. p. 467; Finsch c§-Hartl. Vb'g. 
 Ostafr. p. 333 (pt.); Salvad.tyAntin. Viagg. Bogos, p. 86. 
 
 Adidt male. This northern form differs from the species described 
@@ -12744,7 +12744,7 @@ NEOLESTES.
 Neolestes torquatus, 
 Cab. J.f. 0. 1875, p. 237, pi. i. fig. 1 j Sharps 
 $• Bouvier, Mull.tioc.'Aool.France, 1870, p. 308,* Meiehniv. J.f 0. 
-1877, p. 24 • Bocage, Om. Angola, p. 230. 
+1877, p. 24 • Bocage, Orn. Angola, p. 230. 
 
 Adult. General colour above olive-green, the wing-coverts like iho 
 back, the edge of the wing bright yellow; quills dusky brown, externally 
@@ -12948,7 +12948,7 @@ Oreoica cristata, Gould, B. Austr. fol. pi. 81; Bp. C. A. i. p, 365;
 
 Gould, Handb. B. Austr. i. p. 231; Gray, Hand-L B. i. p. 387, 
 
-no. 5856; Biggies, Om. Austr. pi. 35. 
+no. 5856; Biggies, Orn. Austr. pi. 35. 
 
 Adult male. General colour above reddish brown ; wing-coverts, 
 upper tail-coverts, and quills, including the hind neck and the 
@@ -13394,7 +13394,7 @@ no. 5844.
 Eopsaltria pulverulent a, Salvad. Ann. Mus. Civic. Genov. xii. (1878) 
 
 p. 333. J 
-Poeeilodryas pulverulenta, Sakad. Om. Bapuas. e Molucche, ii. p. 88. 
+Poeeilodryas pulverulenta, Sakad. Orn. Bapuas. e Molucche, ii. p. 88. 
 * According to Gray, the specimen described above is an adult female; but 
 Canon Tristram, in 'Ibis,' 1879, p. 183, says "The adult of both sexes seem 
 exactly alike, and have the throat white with the faintest tinge of yellow." 
@@ -13571,7 +13571,7 @@ d". Tail olive, but inner web dark brown;
 
 total length 6 inches chlorura, p. 194. 
 
-Pcecilodryas cyana, Salvad. op. cit. xiv. p. 502 (1879); id. Om. Papuas. e 
+Pcecilodryas cyana, Salvad. op. cit. xiv. p. 502 (1879); id. Orn. Papuas. e 
 Molucche, ii. p. >nrv 
 
 Head of Pcecilodryas cyana. 
@@ -14477,7 +14477,7 @@ Gould Collection.
 
 10. Pachycephala soror. 
 Pachycephala soror, Scl P. Z. 8. 1873, p. 692; Salvad. Ann. Mm. 
-Civic. Genov. x. p. 141 (1877), xv. p. 45 (1879) ; id. Om. Pap. e 
+Civic. Genov. x. p. 141 (1877), xv. p. 45 (1879) ; id. Orn. Pap. e 
 Molucche, ii. p. 222 (1881;. 
 
 Pachycephala (? , sp. ign.), Sol. P. Z. 8. 1873, p. 697, no. 16. 
@@ -14740,7 +14740,7 @@ teste Salvad?).
 
 Pachycephalias christophori, Tristram, Ibis, 1879, p. 441. 
 
-Pachycepliala chrystophori, Salvad. Ibis, 1880, p. 131; id. Om. Pap. 
+Pachycepliala chrystophori, Salvad. Ibis, 1880, p. 131; id. Orn. Pap. 
 
 e Molucch. ii. p. 216 (1881). 
 
@@ -15284,7 +15284,7 @@ E. L. Layard, Esq. [CI.
 24. Pachycephala rufiventris. 
 Rufous-vented Warbler, Lath. Gen. Syn. Suppl. ii. p. 248 (female). 
 
-Sylvia rufiventiis, Lath. Lid. Om. Suppl. ii. p. liv. 
+Sylvia rufiventiis, Lath. Lid. Orn. Suppl. ii. p. liv. 
 
 Rufous-vented Honey-eater, Lath. Gen. Hist, vol. iv. p. 183. 
 
@@ -15295,13 +15295,13 @@ Pachycephala pectoralis, Vig. § Horsf. Tr. Linn. Soc. xv. p. 239
 (wc Lath.); Gould, B. Austr. fol. ii. pi. 67 ; Reickenb. "Fog. Neu
 
 
-holl pp. 158, 284 j Diggles, Om. Austr. text & pi. 33. 
+holl pp. 158, 284 j Diggles, Orn. Austr. text & pi. 33. 
 
 Pachycephala striata, Fig. # Horsf. t. c. p. 240. 
 
 Lanius macularius, Quoy et Gaim. Voy. de VAstrol., Zool. i. p. 257, 
 
-pi. 31. f. 1 {young); Diggles, Om. Austr. pi. 33. figs. 3, 4. 
+pi. 31. f. 1 {young); Diggles, Orn. Austr. pi. 33. figs. 3, 4. 
 
 Pachycephala Vufiventris, Gray, Ann. N. H. xi. p. 193; id. Gen. 
 
@@ -15555,7 +15555,7 @@ a, b. S $ ad, sk. Norfolk Island, June 1865. J. Brenchley, Esq. [P.].
 23. Pachycephala rufinucha. 
 Pachycephala rufinucha, Set. P. Z. S. 1873, p. 692; Sahad. Ann. 
 Mus. Civic. Genov. x. p. 141 (1877), xv. p. 46 (1879). 
-Pachycephala (?) rufinucha, Salvad. Om. Pap. e MoluccJie, ii. p. 225 
+Pachycephala (?) rufinucha, Salvad. Orn. Pap. e MoluccJie, ii. p. 225 
 (1881). 
 
 Adult male. General colour above, including the scapulars, outer 
@@ -15733,7 +15733,7 @@ h. Ad. sk. E. Timor (A. E. Wallace). Gould Collection.
 33. Pachycephala phseonotus. 
 Myiolestes phaionotus, Mull.Mus.Lxigd. (type examinedhy Sahadori); 
 Bp„ Consp. i. p. 358 ; Sahad. P. Z S. 1878, p. 84 ; id. Ann. Mm. 
-Civ. ix. p. 65 (1876) ; id. Om. Papitaaia e Molueehe, ii. p. 230 
+Civ. ix. p. 65 (1876) ; id. Orn. Papitaaia e Molueehe, ii. p. 230 
 (1881). 
 
 Pachycephala brunnea, Wall. P. Z. S. 1865, p. 478; Gray, Hand-1. 
@@ -15745,7 +15745,7 @@ Pachycephala senex, von Pelzeln, Verli. 7c. zool.-hof. Ges. Wien, xxii.
 p. 429 (1872); Meyer, Sitz. k. Akad. Wiss. Witn} Ixix. p. 393 
 (1874); Mater, Ibis, 1874, p. 417. 
 Pachycephala pkasonota, Salvad. in Voy.c Challenger/ Aves. pi. xyiiL 
-fig." 1; id. Ann. Mns. Civ. Gen. xv. p. 47 (1879)• id. Om, Pap e 
+fig." 1; id. Ann. Mns. Civ. Gen. xv. p. 47 (1879)• id. Orn. Pap e 
 Molueche, ii. p. 230 (1881). 
 
 Adult. Hale and female are alike in plumage. General colour 
@@ -15793,7 +15793,7 @@ zool.-bot. GeseU. Wien, 1872, p. 429, pt.; Meyer, Sitz. h. Ahad.
 
 Wien, 1874, lxix. p. 394; Sclat. Ibis, 1874, p. 417; Salvad. Amu 
 Mus. Civ. Gen. viii. p. 399, ix. p. 29; Salvad.fyDAlb, op. cit. xiv. 
-(1879) p. 71; Salvad. Om. Pap. e Molucche, ii. p. 225 (1881). 
+(1879) p. 71; Salvad. Orn. Pap. e Molucche, ii. p. 225 (1881). 
 
 Hyloterpe griseiceps, Walden, Tr. Zool. Soc. ix. p. 179 (1875). 
 Pachycephala squalida, Oustalet, Bull. Soc. Philom, de Paris, Dec. 
@@ -16007,7 +16007,7 @@ New Guinea, p. 31 ,• id. P. Z. S. 1861, p. 435 j Finsch, Next-Guinea,
 
 p. 174 (1865); Gray, Hand4. B. i. p. 388, no. 5878; Bosenb. 
 Malay. Arch. p. 336 (1879); Salvad. Ann. Mus. Civ. Gen.xiv. 
-p. 653 (1879), xv. p. 46 (1879); id. Om. Pap. e Molucche, ii. 
+p. 653 (1879), xv. p. 46 (1879); id. Orn. Pap. e Molucche, ii. 
 p. 228 (1881). 
 ? Myolestes, sp., Bosenb. Beis. naar Zuidoostereil, p. 80 (1867) (teste 
 Saluad.). 
@@ -16521,7 +16521,7 @@ p. 4<,)5 (1874); Mat. Ibis, 1874, p. 418; Salvad. Ann. Mus, Civ,
 Genov. vii. p. 774 (1875). 
 Pachycare flavogrisea, Gould, B. Neio Gum. pt. iii. pi. x. (1876); 
 Ousted. Bull. Soe. Philom. Paris, 1877; Salvad. Ann. Mus. Civ. 
-Genov. xv. p. 48 (1879); id. Om. Pap. eMolucehe, ii. p. 238 (1881), 
+Genov. xv. p. 48 (1879); id. Orn. Pap. eMolucehe, ii. p. 238 (1881), 
 
 Adult male. General colour above blue-grey; bastard-wing feathors 
 black, with pure white tips ; wing-coverts black; quills dusky brown, 
@@ -16621,7 +16621,7 @@ Urokbtes in some respects.
 229 
 
 1. Urolostes molanoleucus. 
-Lanius melanoloucus, Jard. § Selby, III. Om. iii. pi, 115 (1835); 
+Lanius melanoloucus, Jard. § Selby, III. Orn. iii. pi, 115 (1835); 
 
 Lafresnaye, Mag. do Zoo/. 1830, pi. 01. 
 Lard us melnnurus, Licit f, Verz. Voy. Kaffernl. p. 12. 
@@ -16632,8 +16632,8 @@ Lanius eibsoide^ Gray, Gen. B. i. p. 291 (nee Vieill.) ; Layard, B.
 ConmolU cissoidos, Bp. C. A. i. p. 805. 
 Urolofcta melanoleucus, Cab. Mas. Ilein. p. 75; Finsch $ IlaHL 
 Vor/. Obtafr. p. 335; Gamey in jindens. B. Damar. Ld. p. 138; 
-Ay ret, Jim, 18(59, p. 293; JTiw//. Om. KO.-Afr. pp. 490, exxii ; 
-Bocage, Om. Angola, p. 219; 8harpe7 ed. Layard B. 8. Afr. 
+Ay ret, Jim, 18(59, p. 293; JTiw//. Orn. KO.-Afr. pp. 490, exxii ; 
+Bocage, Orn. Angola, p. 219; 8harpe7 ed. Layard B. 8. Afr. 
 
 p. 380. 
 Basanistey cissoides, Ilartl. P. Z 8a 1803, p. 105. 
@@ -17131,7 +17131,7 @@ Estfdaudes, p. 41 ; Koch, Si/st. baier. Zool. i. p. 102 ; Naum. Voy.
 Deutscld. ii. p. 15, Taf. 50 (1822); Gould, B. Eur. iv. pi. 08; 
 Rouse, Orn. Prov. pi. 154; Gould, B. Gt. Brit. pt. xiii.; Frisch, 
 
-Vbg. Europ. pi. 21. fig. 28; Bouteille, Om. du Dauphine, pi. 18. 
+Vbg. Europ. pi. 21. fig. 28; Bouteille, Orn. du Dauphine, pi. 18. 
 
 f. 3; Riipp.Neue Wirbelth. p. 33; Bp. C.li.p. 363 (1850); 
 DeylSr Gerbe, Orn. Europ. p. 224 (1807); Ileuyl Orn. N.O.-
@@ -17371,7 +17371,7 @@ Grieehenl. p. 112 ; Malherhe, Faun. Sicil. p. 48 ; Savi, Orn. Toscan.
 
 I. p. 04; Cam, Orn. Sardegna}s]). 47 ; Salvad. J.f. 0.1865, p. 132; 
 Tristram, Ibis, 1867, p. 364; iJegh ty Gerbe, Orn. Europ. i. p. 221 
-(1867) ; Wright, Ibis, 1864,p. 50'; Ileur/l Om. K.O.-Afr. i. p. 478; 
+(1867) ; Wright, Ibis, 1864,p. 50'; Ileur/l Orn. K.O.-Afr. i. p. 478; 
 Cab. J.f. 0. 1873, p. 75; Sharpe $ Dresser, P. Z. S. 1870, p. 390 ; 
 Dresser, B. Eur. hi. pi. 145, p. 375 (1873); Sehalow, J.f. 0. 1876, 
 p. 132; Seehohm, Ibis, 1878, p. 333; Shelley, B. Egypt, p. 114 
@@ -17516,7 +17516,7 @@ Lanius major, Pallas, Zoogr. Rosso-As. i. p. 402 (1831) ; Seebohm, Ibis,
 pp.232 & 346,1870,pp. 132 & 232; id. Bericht uberdie pi. Termmml 
 deutsch. ornith. Geselhch. 1875, pp. 13, 14; Tschusi Schmidhofen, 
 
-J.f. 0. 1878, p. 90 j Sfcjneger, Om. Cenfralbl. 1878, p. 108. 
+J.f. 0. 1878, p. 90 j Sfcjneger, Orn. Cenfralbl. 1878, p. 108. 
 Lanius 
 excubitor, Ileves, (Efvers. K. Vet.-Ah Fdrh. 1871, p. 762; 
 von Nordmann, Demid. Voy. ii. p. 113; von Middend. Sibir. Heis. 
@@ -17572,15 +17572,15 @@ Lake Baikal, Oct. 18GU. Dr. Djbowsky [C.].
 
 4. Lanius borealis. 
 Lanius oxcubitor, Forster, Phil. Trans. 1772, p. 382 (nee Linn.) ; 
-Wilson, Am. Om. pi. 5. fig. 1 (1808). 
+Wilson, Am. Orn. pi. 5. fig. 1 (1808). 
 Lanius borealis, Vieiil. Ois. Am. p. 90, pi. 1 (1807); And B. Am. 
 
 iv. p. 130, pi. 236 (1842); Nemoied, J. f. O. 1850, p. 100; 
 Jones, Nat. Bermuda, p. 51 (1857) ; Dresser 8f Sharpe, B. Z. S. 
-1870, p. 500 ; Brewer, Ball NutL Om. Club, 1870, p. 120. 
+1870, p. 500 ; Brewer, Ball NutL Orn. Club, 1870, p. 120. 
 Lanius septentrionalis, Bp. (nee Gmeh), O. A. i. p. 883 ; Cassin, Br. 
 
-A. N. So. Bhilad. 1857, p. 213; Cooper, Om. Calif, i. p. 137 
+A. N. So. Bhilad. 1857, p. 213; Cooper, Orn. Calif, i. p. 137 
 (1870). 
 Cullyiio borealis, Baird, B. 2V. Am. p. 324 (1858) ; Ball § Bannister, 
 Alaska, p. 280; Samuels, B. N. Engl p. 208; Gray, lland-l. B. i. 
@@ -17891,15 +17891,15 @@ c, d. S ? ad. sk. Socotra, March 1880. Prof. I. Bayley Balfour [C.].
 
 13. Lanius ludovicianus. 
 Lanius ludovicianus, Linn. S. N. p. 134 (1760, ex Brisson, ii. p. 162, 
-pi. xv. fig. 2) j Wilson, Am. Orn. pi. 22.fig. 1; Audiib. Om. Bioq. 
+pi. xv. fig. 2) j Wilson, Am. Orn. pi. 22.fig. 1; Audiib. Orn. Bioq. 
 
 i. 1831, p. 300, pi. 37; id. Birds Am. iv. pi. 237 j Casbin, Br. A. N. 
 Sc. Philad. 1857, p. 213; Bp. C. A. i. p. 363; Prinz Max. J.f. O. 
 1858, p. 191 • Dresserfy Sharps, P. Z. S.1870, p. 595; Baqq, Bidl. 
-Nutt. Om. Club, 1879, p. 237 ; Purdie, I. c. p. 186 j id. Forest $ 
+Nutt. Orn. Club, 1879, p. 237 ; Purdie, I. c. p. 186 j id. Forest $ 
 Stream, 1879, p. 265. 
 Lanius ardosiaceus, Vieill. Ois. Am. pi. 51 (1807). 
-Lanius carolinenbis, Wils. Am. Om. iii. pi. xxii. f. 5 (1811). 
+Lanius carolinenbis, Wils. Am. Orn. iii. pi. xxii. f. 5 (1811). 
 Lanius excubitoroides, Sioains. Faun. B.-Am. ii. p. 115 (1831); Cas
 
 
@@ -17913,7 +17913,7 @@ Oollyrio ludovicianus, Baird, B. N. Am. 1858, p. 325 ; Gray, Hand-l.
 B. i. p. 391, no. 5935. 
 Oollyrio excubitoroides, Baird, B. iV". Am. p. 327, pi. 75. fig. 2 
 (1858) ; Gray, Hand-l. B. i. p. 391, no. 5940. 
-Collurio excubitoroides, Cooper, Om. Cal. i. p. 138 (1870). _ 
+Collurio excubitoroides, Cooper, Orn. Cal. i. p. 138 (1870). _ 
 Collurio ludovicianus, Baird, Bretv., ty Ridgw. JV. A. B. i. p. 418 
 
 (1874). 
@@ -18044,7 +18044,7 @@ Oolljrio pallidus, Gray, IlamU. B. i. p. 391, no. 5037.
 ? Lanius dealbatus, Fimch ty Ilartl. Vdg. Ostafr,, Nachtrag, p. 860 
 
 (teste Heuglin). 
-Lanius lahtora, Syhes, apud Heuglin. Om. N.O.-Afr. i. p. 483. 
+Lanius lahtora, Syhes, apud Heuglin. Orn. N.O.-Afr. i. p. 483. 
 Lanius fallax, Finseh, Trans. Z. S. Vii. 1872, p. 240, pi. xxv. 
 
 The birds which, according to Hartlaub and Finsch's description, 
@@ -18974,9 +18974,9 @@ Sharpe, Cat Afr. B. p. 50; id. ed. Layard B. South Afr. p. 377.
 Oollyno subcoroiiatus, Gray, Hand-l B. i. p. 301, nu 5943. 
 Fiscus subcoionatus, Gumey in Andersson, B. Damara Ld. p. 138; 
 
-Socage, Jom. List. 1872, p. 07; id. Om. Angola, p, 217 ; Chapman's 
+Socage, Jom. List. 1872, p. 07; id. Orn. Angola, p, 217 ; Chapman's 
 Travels in S. Afr., App. p. 393, 
-Fiscus capelli, Socage, Jom List. xxvi. p. 93 (1879) ; id. Om. 
+Fiscus capelli, Socage, Jom List. xxvi. p. 93 (1879) ; id. Orn. 
 aVAngola, p. 549 ; Beichen. §• Schalow, J. f, O. 1880, p. 97. 
 
 Adult male. Easily distinguished from L. cottaris by a white 
@@ -20543,10 +20543,10 @@ trunk.
 
 42. Lanius nubicus. 
 Lanius nubicus, Licht. Verz. Doubl. p. 47 (1823) ; Temm. PL Col. 
-pi. 21G (1824) ; HartL Pev. Zool. 1843, p. 1-59; Deql. Om. Pur. i. 
+pi. 21G (1824) ; HartL Pev. Zool. 1843, p. 1-59; Deql. Orn. Pur. i. 
 
 p. 390 (1849); Pp. C. A. i. p. 363 (1850); id. Per. et Mag. Zool. 
-1853, p. 438; Cab. Mus. Hein. i. p. 73; Peql. et Gerbc, Om. Pur. 
+1853, p. 438; Cab. Mus. Hein. i. p. 73; Peql. et Gerbc, Orn. Pur. 
 i. p. 227 (1807) ; Kruper, J.f 0.1809, p. 30'; Skarpe, Cat. Afr. P. 
 p. 50; Blanford, Geol. §* Zool. Abyss, p. 340; Poche, Cat Ah/. 
 p. 54 j Saunders, Pis, 1871, p. 207; Press. B. Eur. lii. pi. 417 (1873). 
@@ -20555,7 +20555,7 @@ Ehrenb. Symb. P/iys., Ares ; Susemihl, Yog. Pur. ii. pi. 17 ; HartL
 Om. West afr. no. 317; ffilpp. Syst. Ucbers. no. 218 ; Sclileg. Pev. 
 Grit Ois. Pur. p. xxi (1844); Pree, Birds of Europe, i. p. 1G8, c. 
 tab.; Prelim, J. f. O. 1854, p. 75, and 1856, p. 338; Tristram, 
-Ibis, 1867, p. 305 ; Ileugl. Om. N.O.-Afr. i. p. 485. 
+Ibis, 1867, p. 305 ; Ileugl. Orn. N.O.-Afr. i. p. 485. 
 
 Lanius leucometopon, Von der MilMe, Orn. GrieeJi. p. 78 (1844). 
 Enneoctonus nubicus, Cab. Mm. Hem. i. p. 73 (1850). 
@@ -20633,16 +20633,16 @@ Pie-grieche rousse du Senegal, Daubent. PL Fnl. pi. 477. fig. 2;
 Levaill. Ois. cVAfr. ii. pi. 03. 
 Lanius rufus, Br'iss. Omith. ii. p. 147 (1700); Betzius, Faun. Suec. 
 
-p. 89 ; GtozeJ. Syst. N. i. p. 302; Bechst. Om. Tasehenh. p. 101; 
+p. 89 ; GtozeJ. Syst. N. i. p. 302; Bechst. Orn. Tasehenh. p. 101; 
 Meyer § Wolf, Taschenb. Yog. Deutschl. p. 80; Koch, byst. baier. 
 Zool. i. p. 103; Frischy Vog. pi. 01. fig. 1; Naumann, Vog. JDeutsehl. 
 ii. p. 22, pi. 51 (1822); Buppell, Neue Wirbelth, p. 31;' Gould, B. 
-Fur. pi. 70; Swains, Om. West Afr. p. 231 ; Bp. C. ^L i. p. 3012; 
-Ilartl Om. Westafr.-p.WJ; Ilartl.J.f. 0.1801, p. 171; Kriiper, 
+Fur. pi. 70; Swains, Orn. West Afr. p. 231 ; Bp. C. ^L i. p. 3012; 
+Ilartl Orn. Westafr.-p.WJ; Ilartl.J.f. 0.1801, p. 171; Kriiper, 
 J.f. 0.1809, p. 30; Lindermayer, Tog. Grieclanland<xi.\\'k\ Cant) 
 Om. Sard. p. 50; Malherbe, Faun. Sicil. p. 50; TJ right, Malta, 
 p. 10 ; Blanf Geol. $ Zool. Abi/ss. p. 310; Layard, B! South Afr, 
-no. 311; I)egl § Gerbe, Om. Eur. p. 22o ; lleugl. Om. N.O.-Afr. 
+no. 311; I)egl § Gerbe, Orn. Eur. p. 22o ; lleugl. Om. N.O.-Afr. 
 i. p. 473. 
 Lanius senator, Linn. S.N. ed. x.; #;•#?/, HamUL B. i. p. 393, no. 5978. 
 Lanius pomeranus, Sparrm. Mas. Carls, pi. i. (1780); Saunders, 
@@ -20659,7 +20659,7 @@ Ibis, Jan. 1883; Addendum.
 ? Lanius castaneus, Gm. S. N. i. p. 297 (1788). 
 Lanius collurio, Tar. y. rufus, Gm. S. N. i. p. 300. 
 Lanius collurio senegalensis, Gm. S. N. i. p. 300. 
-Lanius rutilus, Lath. Ind. Om. i. p. 70 (1790). 
+Lanius rutilus, Lath. Ind. Orn. i. p. 70 (1790). 
 Lanius ruiiceps, Bechst. Naturg. Vog. Deufschl. ii. p. 1327 (1805); 
 
 Brehm, Naumannig, 1855, p%275. 
@@ -20795,7 +20795,7 @@ m'. Skull. S. Germany. Dr. Gunther [0.].
 44. Lanius badiixs. 
 Lanius badius, Hartl J. f. 0. 1854, p. 100; SMley, Ibis, 1875, 
 p. 381. 
-Lanius rufus, pt., Hartl Om. Westafr. p. 103. 
+Lanius rufus, pt., Hartl Orn. Westafr. p. 103. 
 Lanius auriculatus (non Muller), Shettey # BucUey, Ibis, 1872, p. 292. 
 " This is undoubtedly a distinct species, easily distinguished from 
 
@@ -20818,14 +20818,14 @@ Collurio, Brisson, Ois. ii. p. 151 (1760).
 
 Lanius 
 collurio, Linn. Syst. Nat. i. p. 188 (17C6) j Retains, Faun. 
-Suec. p. 88; Gmel. S. N. p. 800 ; Lath. Inch Om. p. 69; Meyer 8f 
+Suec. p. 88; Gmel. S. N. p. 800 ; Lath. Inch Orn. p. 69; Meyer 8f 
 Wolf, Taschenb. Vog. Deutschl. p. 90; Bechsfein, Taschenb. p. 102; 
 Meyer, Vog. Esthland u. Livl p. 42; Koch, Syst. baier. Zool i. 
 
 p. 104; Frisch, Vog. pi. 01. fig. 2; Ternm. Man. cTOni. i. p. 147; 
 Levaill Ois. d Afr. ii. pi. 64 ; Naumann, Naturg. Vog. Deutschl. ii. 
 p. 30, pi. 52; Vieill. Enc. Meth. p. 725; id. Faun. Franc, p. 153, 
-pi. 6Q. f. 1-3 ; Savi, Om. Tosc. i. p. 98; NUsson, Om. Suec. p. 72; 
+pi. 6Q. f. 1-3 ; Savi, Orn. Tosc. i. p. 98; NUsson, Om. Suec. p. 72; 
 Pallas, Zoogr. Bosso-As. i. p. 404 j Yarrell, Brit. B. i. p. 154; Keys. 
 fy Bias. Wirbelth. Eur. p. 195; Schleg. Bev. Critique, p. xxi; id, 
 Vog. van Nederl Lnd. p. 232; Gould, B. Eur. pi. 69; Lindermayer, 
@@ -20833,11 +20833,11 @@ Vog. Griechenl. p. 114; Malh. Faun. Sicil. p. 57; Von Wright, Fin-
 lands Foglar, p. 72; Naum. Vog. Deutschl. ii. p. 30, pi. 52; Wright, 
 Ibis, 1864, p. 291; Filippi, Viagy. in Bers. p. 824; Itadcle, J.f. O. 
 1854:, p. 75; Gurney, Ibis, 18G5, p. 208 ; Layard, B. S. Afr. p. 158; 
-Degl. et Gerbe, Om. Europ. i. p. 228; Fmsch $ Hartl Vog. O.-
+Degl. et Gerbe, Orn. Europ. i. p. 228; Fmsch $ Hartl Vog. O.-
 Afr. p. 331; von Nordm. in Demid. Voy. ii. p. 114; FLeuglin, Fetermanrfs 
 Geogr. Mittheil. 1869, p. 407; Blanford, East. Persia, ii. 
 
-p. 137; Finsch, Tr. Z. S. yii. p. 251; Heugl Om. X.O.-Afr.i. p.474; 
+p. 137; Finsch, Tr. Z. S. yii. p. 251; Heugl Orn. X.O.-Afr.i. p.474; 
 Meves, GEfvers. p. 702; Colktt, Norg. Fugle, p. 13; Blanf. Geol. # 
 Zool. Abyssin. p. 340; Shelley, B. Egypt, p. 117; Serertz. J. f. O. 
 1873, p. 435; Bocage, Jam. Lisb. 1876, p. 254; Aniin. 8f Salvach 
@@ -20861,7 +20861,7 @@ Lanius dumetorum, Brehm, Vog. Deutschl. p. 234 (1831).
 
 ? Lanius paradoxus, Brehm, Naumannia, 1855, p. 275. 
 
-Lanius anderssoni, Strichl. fy Scl Conir. Om, 1852, p. 145; Gray, 
+Lanius anderssoni, Strichl. fy Scl Conir. Orn. 1852, p. 145; Gray, 
 
 Hand-l B. i. p. 393, no. 5974. 
 Lanius seruginosus, Klein (teste Heuglin). 
@@ -21581,7 +21581,7 @@ Sylvia chivi, Vieill Nouv. Bid. xi. p. 174 (1817).
 
 Lanius agilis, Liehtenst. Verz. Doubt, p. 526 (1823). 
 
-Vireosylvia agilis, Baird, Rev. Am. B. p. 338; Pelz. Om. Bras. p. 73 
+Vireosylvia agilis, Baird, Rev. Am. B. p. 338; Pelz. Orn. Bras. p. 73 
 (1868). 
 Vireosylvia chivi, Baird, Rev. Am. B. p. 327 (1865). 
 Vireosylvia olivaceus, var. chivi, Baird, Brew., ty Ridgiu. N. Am. B. 
@@ -21681,7 +21681,7 @@ Birds N. A. i. pi. 7.
 Vireosylvia swainsoni, Baird, Bev. Am, B. p. 843 (1858). 
 
 23 . VIREO. 297 
-Vireosylvia gilva, var. swainsoni, Cooper, Om. Califom. i. p. 110 
+Vireosylvia gilva, var. swainsoni, Cooper, Orn. Califom. i. p. 110 
 (1870); Baird, Brew., ty Rirfgw. N. Am. B. i. p. 371; Scl. $* Sah. 
 ^JVomencl. p. 12 ; Lawr. Bull. 'U.S. Nat. Mm. i. p. 17. 
 Yireo gilvus swainsoni, Cones, Birds Color ad. Vail. p. 501. 
@@ -22009,7 +22009,7 @@ a. Ad. sk. Mexico. Gould Collection.
 b. Ad. sk. Missouri. Purchased. 
 16. Vireo pnsilliis. 
 Vireo pusillus, Corns, Proc. A. Ar. So. Philacl. 1860, p. 75 ; Baird, Rev. 
-Am. B. p. 360; JEUiot, Illustr. B. JV. Am. i. pi. vii. * Cooper, Om. 
+Am. B. p. 360; JEUiot, Illustr. B. JV. Am. i. pi. vii. * Cooper, Orn. 
 Californ. i. p. 124; Gray, Hand-l. B. i. p. 381, no. 5756 ; Baird, 
 Brew., § Ridgio. JV. Am. B. i. pp. 383, 391. 
 
@@ -23859,17 +23859,17 @@ Le Grimpereau cle muraille, Buff. PL Enl. 372. figs. 1 & 2 (1770).
 Promerops de muraille, LevailL Ois. Bar ad. iii. pis. 20, 21 (1807). 
 Tickodroma muraria, Illiq. Prodrom. p. 211 (1811); Naum. Yog. 
 Dmttschl. v. Taf. 141; Lesson, Traite d'Om. p. 310, Atlas, pi. 77. 
-fig. 2; Roux, Om. Prov. pi. 238; Gould, B. Eur. iii. pi. 239; v. 
+fig. 2; Roux, Orn. Prov. pi. 238; Gould, B. Eur. iii. pi. 239; v. 
 
 d. Muehle, Griechenl. no. 110; Bupp. Syst. Uebers. no. 114; Gray, 
 Gen. B. i. p. 144; Blyth, Cat. B. Mus. A. S. B. p. 189; Bp. Consp. 
 i. p. 225; Beichenb. Syst. Av. Taf. 38 ; id. Handb. spec. Om., Scans. 
-p. 2G9; Bailly, Om. de Sav., Atlas, iii. pi. 1. figs. 1-5 ; Bree, B. Eu?\ 
-iii, pi. 158; Dcql # Gerbe, Om. Eur. i. p. 190; Jerd. B. Lnd. I 
+p. 2G9; Bailly, Orn. de Sav., Atlas, iii. pi. 1. figs. 1-5 ; Bree, B. Eu?\ 
+iii, pi. 158; Dcql # Gerbe, Orn. Eur. i. p. 190; Jerd. B. Lnd. I 
 p.383; Gray,Ifand-lB.Ly.lU,no.2520; Fritsch, Vog.Eur.Tnl 
 22. fig. 21; Dresser, B. Eur. p. 207, pi. 123; Shelley, B. Egypt, 
 p. 118; Sivinli. P.Z.S. 1871, pp. 270, 356; Altum, Forstzoologie, 
-p. 278; Heugl. Om. N.O.-Afr. p. 236; Perini, Omitol. Veronese, 
+p. 278; Heugl. Orn. N.O.-Afr. p. 236; Perini, Omitol. Veronese, 
 p. 418 (1874); Dresser, IHs/l876, P- 1^G? David fy Oust. Ois. de 
 la Chine, p. 88; Scully, Str. F. 1879, p. 262. 
 Tichodroma alpina, Koch, Syst. baier. Zool. p. 80 (1816). 
@@ -24197,7 +24197,7 @@ vin, Esqrs. [P.].
 31. Boucard [C.]. 
 
 5. Climacteris leucophaea. 
-Certhia leucophsea, Lath. Ind. Om. SuppL p. xxxvi (1801). 
+Certhia leucophsea, Lath. Ind. Orn. SuppL p. xxxvi (1801). 
 Certhia leucoptera, Lath, (teste Gray). 
 Certhia picumnus, III. Mtts. Bert 
 New-Holland Nuthatch, Lath. Gen. Hist. iv. p. 78 (1822). 
@@ -25062,7 +25062,7 @@ h'. Sternum. England. Bae, Esq. [P.],
 5. SITTA. 
 349 
 7. Sitta Mmalayensis. 
-Sitta kimalayensis, Jard. et 8elby, III. Om. iii. pi. 144 (1835) ; Gray, 
+Sitta kimalayensis, Jard. et 8elby, III. Orn. iii. pi. 144 (1835) ; Gray, 
 Gen. B. i. p. 148; Gould, B. Asia, part i. j i?^. C. A. I. p. 227; 
 Horsf. # .Mbore, Ctez!. p. 720; Jerdon, B. Ind. i. p. 385; #cto. 
 1^,1865, p. 309; Jerdon, Ibis, 1872, p. 20; Hume, 8tr. F. 1879, 
@@ -25413,20 +25413,20 @@ n. f?]&k. California. Lord Walsingham [P.J.
 o. Imm. sk. Mexico. Gould Collection. 
 p. Ad. sk. Mexico. Purchased. 
 14. Sitta canadensis. 
-Sitta canadensis, Briss. Om. iii. p. 592, pi. 29. fig. 4 (1760); Linn. 
-S. N. i. p. 177; Lath. hid. Om. i. p. 262; Gm. S. N. i. p. 441; 
-Nutiall, Afa?i. i. p. 583; Audub. Om. Biogr. ii. p. 24; id. ibid. v. 
+Sitta canadensis, Briss. Orn. iii. p. 592, pi. 29. fig. 4 (1760); Linn. 
+S. N. i. p. 177; Lath. hid. Orn. i. p. 262; Gm. S. N. i. p. 441; 
+Nutiall, Afa?i. i. p. 583; Audub. Orn. Biogr. ii. p. 24; id. ibid. v. 
 p. 474, pi. 180; id. B. Amer. iv. p. 179, pi. 248; Swains. Class. B. 
 p. 818; Bp. C.A. i. p. 227 ; Baird, B. N. Amer. p. 376; Sclat Cat. 
 Am. B. p. 15; Blahist. Ibis, 1862, p. 5,-id. ibid. 1863, p. 67; 
 Sclat. Ibis, 1865, p. 311 j Brown, Ibis, 1868, p. 421; Baird, 
-JRevieio Amer. B. p. 87 (1864) ; Cooper, Om. Calif, p. 54; 
+JRevieio Amer. B. p. 87 (1864) ; Cooper, Orn. Calif, p. 54; 
 Baird, Brew., # Bidgw. Amer. B. p. 87; Corns, Kexj 5V. Am. B. 
 p. 83; id. Birds Colorad. Vail. p. 136; Nehrling, J. f, 0. 1880, 
 p. 414. 
 La Sittelle du Canada, Daub&nt. PL Mil. vi. p. 311 (1783). 
 La Sittelle a tete noire, Daubent, PL JEnl, vi. p. 313. 
-Sitta varia, Wik. Am. Om. t. 2.fig.4 (1808). 
+Sitta varia, Wik. Am. Orn. t. 2.fig.4 (1808). 
 Sitta stulta, Vieill. N. Diet. xxxi. p. 332 (1819). 
 ? Sitta melanocephala, Less. Traits d'Om. p. 316 (1831). 
 Adult male. Crown of head, loral region, and a broad streak 
@@ -26123,7 +26123,7 @@ Esqrs. [P.].
 Sitta papuensis, Schl. N. T. I). 8vo, iv. p. 17 (1871) ; JRosenb. Heist. 
 n. Geelvinksb. p. I oil; id. Malay, Arch. pp. 553, 585 (1879). 
 Sittella papuensis, Sharpc, Zool. Jtec. viii. p. <>3 (1873) ; SalvacL Ann. 
-Mas. Civic. Oenov.xvi. p. (53; /r/. Om. Papuasia e delle Molucche, 
+Mas. Civic. Oenov.xvi. p. (53; /r/. Orn. Papuasia e delle Molucche, 
 
 ii. p. 242. 
 Above dusky brown, streaked with black and marked with some 
