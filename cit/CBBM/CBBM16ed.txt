@@ -2810,7 +2810,7 @@ Esq. [P.],
 
 3. Upttpa niargi&ata. 
 Upupa marginata, Bp. Consp. Vol Anis. p. 12 (1854, ex Peters' MSS. 
-in Mus. Berol. ut descr. mdld!); Cab. § Eein. Mus. Eein. Th. ii. 
+in Mus. Berol. ut descr. mdld!); Cab. & Hein. Mus. Hein. Th. ii. 
 
 p. 127 (1800) 5 Hart!. Faun. Maday. p. 82 (1861) j Ml. P. Z. & 
 18GG, p. 421 • Grandid. Bev. et Mag. de Zool. 1857, p. 355; Gray, 
@@ -4111,7 +4111,7 @@ Bp. Consp. Av. i. p. 69; id. Rev. Zool. 1854, p. 251; Gould, Mon.
 Troch. iv. pi. 213 (Oct. 1853); id. Intr. Troch.y. 121; id. P. Z. S. 
 1870, p. 803; Reich. Aafz. d. Col. p. 13 ; Des Murs in Cast Voy. i. 
 
-p. 38; Cab. $ Heine, Mus. Rein. iii. p. 28; Sol. Cat. Am. B. 
+p. 38; Cab. $ Heine, Mus. Hein. iii. p. 28; Sol. Cat. Am. B. 
 p. 305; Muh. 8? Verr. Class. Troch. p. 58; Gray, Hand-l, B. i. 
 p. 103 ; Set. § Salv. P. Z. S. 1807, pp. 584, 979, 1868, p. 169, 
 1873, p. 288; Peh. Orn. Bra*, p. 34; Whitely, P. Z. $. 1873, 
@@ -4946,7 +4946,7 @@ Trochilus rnazeppa, Less. Hist. Xat. Troch. p. 18, pi. 3: Jard. Aim.
 Glaucis hirsuta, Boie, Isis, 1831. p. 545: Buna. Syxt. I eb. ii. 
 
 p. 321; Gould, Mon. Trock. i. pi. 5 (May 1658) : id. lair. Troch. 
-p. 38: Cab. § Heine, Mus. Rein. iii. p. 4: Later. Ann. Lye. X. Y. 
+p. 38: Cab. § Heine, Mus. Hein. iii. p. 4: Later. Ann. Lye. X. Y. 
 vii. p. 319; id. Br. IT. 8. Xat. Mm. i. p. 271; Pelz. Orn. Bras. 
 p. 27: Salv. <§- Elliot, Ibi*, 1673, p. 270; Scl § Salv. P. Z. S. 
 1879, p. 538; Elliot, Sya. Troch. p. b*; Muls. Hist. Xaf. Oh.-
@@ -5750,20 +5750,20 @@ Chlorestes pucheraui, Reich. Aitfz. d. Col. p. 7: id, Troch JBnum
 
 p. 4, pi. 755. f. 4736. 
 " * 
-8 . CHLOKOSTILBOtf. 
+8 . CHLOROSTILBON. 
 Chlorestes nitidissima, Reich. Aufz. d. Col. p. 7; id. Trock Einim. 
 
 pi. 603.ff. 4538-9. 
 
-Hylocharis puckerani, Bp. Rev. ZooL 18f54, p. 2oo. 
+Hylocharis pucherani, Bp. Rev. ZooL 18f54, p. 2oo. 
 
 Hylocharis prasinus, Burm. Syst. Ueb. ii. p. 350. 
 
-CMorostilbon nitidissinmsj Cab. 8f Heine, Mus. Rein, iii. p. 47; 
+Chlorostilbon nitidissimus Cab. & Heine, Mus. Hein, iii. p. 47; 
 
 Reinh. Vidensh. Medd. For. Kjob. 1870, p. 114. 
 
-CMorostilbon igneus, Gould, Inir. Troch. p. 176; Heine, J. f. Orn, 
+Chlorostilbon igneus, Gould, Inir. Troch. p. 176; Heine, J. f. Orn, 
 
 I860, p. 109. 
 
@@ -5935,7 +5935,7 @@ pi. 703. rX 4578-80. i '
 CMorolampis liaeberlini, Cab. $ Heme, Mus. Hein. iii. p. 48 ; Heine 
 
 J.f. Orn. 1863, p. 201. 
-CMorolampis smaragdiua, Cab. § Seine. Mus. Eein. iii. p. 48; Heine. 
+CMorolampis smaragdiua, Cab. § Seine. Mus. Hein. iii. p. 48; Heine. 
 J.f Orn. 1863, p. 202? t > > 
 Chlorostilbon liaeberlini, Gould, Intr. Troch. p. 175• Mute. Ann. Soc. 
 Linn. Lyon, xxii. p. 209 • Eudes-Desl Ann. Mus. Caen, i. p. 523. 
@@ -11646,7 +11646,7 @@ Coeligena wilsoni, Goidd, Mon. Troch iv. pi. 258 (May 1850) *
 Jameson & Eraser, Ibis, 1859, p. 400 ; Set. P. Z. S. 1850 r> 145? 
 1800, p. 94. ' *' > 
 
-Lampropygia wilsoni, Cab. # Heine, Mus. Rein, iii. p. 78 ; Scl Cat 
+Lampropygia wilsoni, Cab. # Heine, Mus. Hein, iii. p. 78 ; Scl Cat 
 Am. B. p. 309; Gould, Intr. Troch. p. 137: Elliot Ibis, 1876, p. 79 • 
 JBerl $r Tacz. P. Z. S. 1883, p. 567,1884, p. 304. l 
 
@@ -15673,7 +15673,7 @@ Cyanoinyia, JBp. Rev. Zool. 1854, p. 254.
 
 Agyrtna ft. Uranomitra, Reich. Aufz. d. Col p. 10 (1854). 
 
-Uranoniitra, Cab.fy Heine, Mus. Rein, iii, p. 41. 
+Uranoniitra, Cab.fy Heine, Mus. Hein, iii, p. 41. 
 
 Range. Southern Mexico, Guatemala, Honduras, and the Andes 
 of Colombia and Peru. 
@@ -17167,7 +17167,7 @@ iv. p. 182; id. Ann. Soc. Linn. Lyon, xxii. p. 206; Merrill* Bull.
 Nntt. Orn. Club, ii. p. 26; Cones $ Bennett, Bull. UJS. Geoqr. 
 Surv. iv.p. 35; Midaw. Pr. U.S. Nat. Mus. iv. p. 25: id. Mm.*N~ 
 Am. B. p. 317. 
-Pyrrhophsena cerviniventris, Cab. $ Seine, Mus. Rein, iii, p. 36; 
+Pyrrhophsena cerviniventris, Cab. $ Seine, Mus. Hein, iii, p. 36; 
 Gmdd,Intr. Troch. p. 157. 
 
 Eranna cerviniventris, Heine, J.f Orn. 1863, p. 187. 
@@ -17941,9 +17941,9 @@ Boucard, P. Z. S. 1878, p. 71; Eudes-Desl Ann. Mm. Caen, i.
 p. 425. 
 Clilorestes sopkiae, Reich. Troch. Enum. p. 4, pi. 697. ff. 4554-5. 
 Erythronota sopkias, Gould, Mon. Troch. v. pi. 322 (July ItGlj. 
-Hemithylaca sophiae, Cab. ty Heine, Mus. Rein. iii. pi 38 ; Heine, 
+Hemithylaca sophiae, Cab. ty Heine, Mus. Hein. iii. pi 38 ; Heine, 
 J.f Orn. 1863, p. 192. 
-Hemithylaca hoffmanni, Cab. <$* Heine, Mus. Rein. iii. p. 38• Cab. 
+Hemithylaca hoffmanni, Cab. <$* Heine, Mus. Hein. iii. p. 38• Cab. 
 J.f. Orn. 1802, p. 163. 
 Ariana sophise, Muls. 8f Verr. Class. Troch. p. 36• Muls. Hist. Xat. 
 Ois.-Monches, i. p. 328, pi. 23, iv. p. 185; id. Ann. Soc. Linn. 
@@ -21773,7 +21773,7 @@ Col. p. 14.
 Phaethornis squalidus, Bp. Consp. Av. i. p. 68; id. Rev. Zool 1854, 
 
 p. 249; Reich. Aufz. d. Col. p. 14; Burm. Syst Ueb. ii. p. 325; Cab. 
-§• Heine, Mus. Rein. iii. p. 8; Gould, Intr. Troch, p. 45; Scl Cat 
+§• Heine, Mus. Hein. iii. p. 8; Gould, Intr. Troch, p. 45; Scl Cat 
 Am. B. p. 286 ; Muls. § Verr. Class, Troch. p. 18; Eider, J. f. 
 Om. 1868, p. 182; Pete. Orn. Bras. p. 27; Salv. $ Elliot, Ibis, 
 1878, p. 9; Berl. J.f. Orn. 1873, p. 273; id. Pr. U.S. Nat Mus. xi. 
@@ -22468,7 +22468,7 @@ Pampa eanrpvloptera, Reich. Aufz. d. Col. p. 11; id. Track. Enum.
 
 p. 9, pi. 800. ff. 4861-62. 
 Spkenoproctus 
-pampa, Cta5. ^* Heine, Mus. Rein, iii. p. 11• Gould, 
+pampa, Cta5. ^* Heine, Mus. Hein, iii. p. 11• Gould, 
 lutr. Trocli. p. 51 ; Jtfwfo. Hist. Xat, Ois.-Mouches, i. p. 115, iv. 
 
 p. 147; z& Ann. Soc. Linn. Lyon, xxii. p. 201; Elliot, Syn. Troch. 
@@ -24774,7 +24774,7 @@ if. S ad. st. Purchased.
 2. Helio&oxa jacula. 
 Heliodoxa jacula, Gould, P. Z. S. 1849, p. 96; id. Mon. Troch. ii. 
 pi. 94 (Sept. 1858); id. Intr. Troch. p. 74; id. Ibis, 1867, p. 247; 
-Cab. 8f Heine, Mus. Rein. iii. p. 22; Salv. P. Z. S. 1867, p. 154, 
+Cab. 8f Heine, Mus. Hein. iii. p. 22; Salv. P. Z. S. 1867, p. 154, 
 1870, p. 202; id. Ibis, 1869, p. 283; Lawr. Ann. Lye. N. Y. ix. 
 
 p. 122; Muls. Mist. Nat. Ois.-Mouches, ii. p. 202, pi. 46 ; id. Ann. 
@@ -25612,7 +25612,7 @@ Muls. $ Verr. Class. Troch. p. 47.
 Ornismya nigra, Bp. Consp. i. p. 81. 
 Florisuga fusca, Reich. Aufz. d. Col. p. 14 j Bp. Rev. ZooL 1854, 
 
-p. 253; Cab. $ Heine, Mus. Rein. iii. p. 29; Scl. Cat. Am. B. p. 295; 
+p. 253; Cab. $ Heine, Mus. Hein. iii. p. 29; Scl. Cat. Am. B. p. 295; 
 JPelz. Orn. Bras. p; 30; Reinh. Vidensh. Medd. Nat. For. Rjob. 1870, 
 p. 104 j Muls. Hist. Nat. Ois.-Mouches, ii. p. 183, iv. p. 204; id. 
 Ann. Soc. Linn. Lyon, xxii. p. 212; Rlliot, Syn. Troch. p. 48; Salv. 
@@ -25959,7 +25959,7 @@ Strichl. Coll. p. 361; E. W. White, P. Z. S. 1882, p. 615; ScL 8f
 Ruds. Arg. Orn. ii. p. 1. 
 Trochilus leucopleurns, Cassin, in Gillies's Expl. Exp. ii. p. 187. 
 
-Orotrochilus leucopleurus, Cab. $* Reine, Mus. Rein. iii. p. 16; Muls. 
+Orotrochilus leucopleurus, Cab. $* Reine, Mus. Hein. iii. p. 16; Muls. 
 Rist. Nat Ois.-Mouches, ii. p. 172, iv. p. 204; id. Ann. Soe. Linn. 
 Lyon, xxii. p. 211. 
 
@@ -26219,7 +26219,7 @@ guerini, Gould, Mon. Track ill. p]. 182 (June 1849); id.
 Intr. Troch. p. 108; Bp. Consp. Av. i. p. 79; id. Rev. Zool 1854, 
 
 p. 253; Reich. Aufz. d. Col p. 12 ; id. Troch. Bnunx. p. 10, pi. 624. 
-if. 4932-5; Cab. $• Heine, Mus. Rein. iii. p. 67: Scl. Cat. Am. B. 
+if. 4932-5; Cab. $• Heine, Mus. Hein. iii. p. 67: Scl. Cat. Am. B. 
 p. 302; Muls. 8f Verr. Class. Troch. p. 73; Wyait, Ibis, 1871, 
 p. 377; Muls. JSibt. Nat. Ois.-Mouche$K iii. p. 178, pi. 87, iv. 
 p. 219; id. Ann. Soc. Linn. Lyon, xsii. p. 222; BUiot, Sun. 
@@ -26660,7 +26660,7 @@ i. <$ ad. fek. [Bolivia.] Gould Coll
 95. OPISTHOPROKA. 
 Type. 
 Avocettinus, Bp. Bev. Zool. 1854, p. 256 (nee 1849) . 0. euryptera. 
-Qpisthoprora, Cab. <§* Heine, Mus. Rein. iii. p. 76 ... 0. euryptera. 
+Qpisthoprora, Cab. <§* Heine, Mus. Hein. iii. p. 76 ... 0. euryptera. 
 
 Range. Colombia. 
 
@@ -28382,7 +28382,7 @@ Panoplites jardinii, Gould, Mon. Troch. ii. pi. 112 (Oct. 1854) ; id.
 
 373 
 
-Intr. Troeh. p. 80; Cab.fy Heine, Mus. Rein. iii. p. 74; Sol. Cat. 
+Intr. Troeh. p. 80; Cab.fy Heine, Mus. Hein. iii. p. 74; Sol. Cat. 
 Am. B. p. 294; Muls. Hist. Nat. Ois.-Mouches, ii. p. 233, pi. 51 j 
 id. Ann. Soc. Linn. Lyon, xxii. p. 213; Elliot, Syn. Troeh. p. 53 ; 
 Eudes-Desl. Ann. Mus. Caen, i. p. 227; Salv. Cat. Strickl. Coll. 
@@ -29356,7 +29356,7 @@ p. 10r pi. 838. #4976-8; Gould, Mon. Troch. ill pL 159 (Sept,
 109 . CALLIPHLOX. 
 387 
 
-ISOQ); id. Mr. Track, p. 97; Cab. £f Seine, Mus. Eein. hi p 58 -
+ISOQ); id. Mr. Track, p. 97; Cab. £f Seine, Mus. Hein. hi p 58 -
 ScL Cat. Am. B. p. 300: Set. $ b'alu, R Z. S. 1867 p 753' 
 1873, p. 288; Pelz. Orn. Bras. p. 32; Beinh. Tide?ish. Medd. Natl 
 For. Kjub. 1870, p. 110; Muls. Mist. Nat. Ois.-Mouckes, iv. p. 45 * 
@@ -30779,7 +30779,7 @@ p. 330 (1840); iid. lieu. Zool. 1840, p. 316; Bp. JRec. Zool. 1834.
 p. 250; Cass. III. B. Cal § Texas, p. 141, pi. 22; Gould. Man. 
 TrocJt. iii.pl. 132 (Sept. 1857); id. Intr. Troch. p. b7; Baird, X. Am. 
 B. p. 133, pi. 14. f. 3; Xantus, Br. Ac. Phil. 1859, p. 190 ; Cab. % 
-Heine, Mus. Eein. iii.p. 57 ; Scl. Cat. Am. B. p. 297 ; id. P. Z. S. 
+Heine, Mus. Hein. iii.p. 57 ; Scl. Cat. Am. B. p. 297 ; id. P. Z. S. 
 1864, p. 177; Gray, Hand-l. B. i. p. 136 ; Cone*, Pr. Ac, Phil. 1808, 
 p. 82; Villada, La Xat. ii. p. 351; de Oca* La Xat, iii. p. 102 ; Elliot, 
 Syn. Troch. p. 100 ; Belding, Pr. U.S. Xat. Mux. i. p. 420; Ecerm. 
@@ -31127,7 +31127,7 @@ Calothorax rnulsanti, Bp. Consp. Av. i. p. 85; Gould, Mon. Troch
 iii. pi. 145 (Nov. 1851); Scl. I>. Z. S. 1859, p. 140, lbOO, p. 04. 
 Lucifer o\ Calothorax mulsanti, Belch. Aufz. d. Col. p. 13: id 
 Troch. Bnum. p. 10, pi. 847. ff. 5004-5. 
-Chgetocercus rnulsanti, Cab. §* Heme. Mus. Rein, ill p. 60: Scl. Cat 
+Chgetocercus rnulsanti, Cab. §* Heme. Mus. Hein, ill p. 60: Scl. Cat 
 Am.B.y. 298. 
 
 pp. 529, 628 { Elliot, Ibt\ 1877, p. 136; id, ,s>/«.' Tith, p. 119; 
@@ -45606,7 +45606,7 @@ Psalurus macropterus, Swains. Classif B. p; 339 (1837).
 
 Hydropsalis torquata, Cass. Joum. Ac. Phil. ii. p. 114 (1852) ; Cab. 
 
-& Heme. Mus. Eein. iii. p. 93 (1800); ScL Cat. Am. B. p. 281 
+& Heme. Mus. Hein. iii. p. 93 (1800); ScL Cat. Am. B. p. 281 
 (1862) 5 id. P. Z.S 1866, p. 41; Pelz. Dm. Brm. p. 11 (1807); 
 Gray, Hand-l i. p. 58 (1869); ScL $ Salv. Komencl Ai\ Keotr. 
 
@@ -47194,7 +47194,7 @@ Proithera diurnis, Swains. Class. B. ii. p. 339 (1837).
 Podager nacunda, Cab. in Schomb. Guiana, iii. p. 711 (1848) ; Bp. 
 Consp. i. p. 63 (1850); Burm. J. f. O. 1853, p. 170; id. Si/st. 
 TJeb. T7i. Bras. ii. p. 400 (1856) ; id. La-Plata Reise, ii. p. 449 
-(1861); Cab. fy Seine, Mus. Rein. iii. p. 88 (1860) ; ScL Cat. 
+(1861); Cab. fy Seine, Mus. Hein. iii. p. 88 (1860) ; ScL Cat. 
 
 620 
 CAPKIMITLGID^. 
@@ -47717,7 +47717,7 @@ Nyetibius sethereus, Bp. Consp. i. p. 58 (1850); Cass. Br. Ac. Phil.
 
 v. p. 184 (1851); id. Cat. Caprim. Mus. Phil. (1851); id. U. S. Bxpl 
 .Erp,p. 190, Orn. Atl pi. xiv. (1858); Burm. Syst. TJeb. Th. Bras. 
-ii. p. 375 (1856); Cab. Sr Heine, Mus. Rein. iii. p. 94 (1860) ; Bel. 
+ii. p. 375 (1856); Cab. Sr Heine, Mus. Hein. iii. p. 94 (1860) ; Bel. 
 P. Z. S. I860, p. 128; Pelz. Orn. Bras. p. 10 (1867); Gray, 
 Handrl. i. p. 55 (1869); Scl. $ Sah. Nomencl. Av. Neotr. p. 95 
 (1873); Cab. J.f. O. 1874, p. 226 (Rio); Salvin, Cat. Strickl. Coll. 
