@@ -6522,7 +6522,7 @@ Muscicapa canadensis Linnaeus, 1766, Syst. Nat., ed. 12,
 
 
 
-(Muscicapa Canadensis aurea)" of Brisson, 1760, Or- 
+(Muscicapa Canadensis aurea)" of Brisson, 1760, Orn. 
 
 
 
@@ -7127,7 +7127,7 @@ Myioborus brunniceps maguirei Phelps and Phelps, Jr.
 
 
 
-Myioborus brunniceps brunniceps (Lafresnaye and d'Or- 
+Myioborus brunniceps brunniceps (Lafresnaye and d'Orn. 
 
 
 
@@ -7627,7 +7627,7 @@ Basileuterus roraimae Sharpe, 1885, Cat. Birds Brit.
 
 
 
-Basileuterus bivittatus bivittatus (Lafresnaye and d'Or- 
+Basileuterus bivittatus bivittatus (Lafresnaye and d'Orn. 
 
  bigny) 
 
@@ -26347,7 +26347,7 @@ Serinus atrogularis Iwenarum White, 1944, Bull. Brit.
 
 
 
-Serinus atrogularis kasaicus White, 1948, Bull. Brit. Or- 
+Serinus atrogularis kasaicus White, 1948, Bull. Brit. Orn. 
 
  nith. Club, 68, p. 129 — Luluabourg, Belgian Congo. 
 
@@ -26727,7 +26727,7 @@ Serinus madaraszi Reichenow, 1902, Ornith. Monatsb., 10,
 
 p. 8 — Myombe, northern Nyasaland. 
 
- Serinus icterus songeae Reichenow, 1918, Journ. f. Or- 
+ Serinus icterus songeae Reichenow, 1918, Journ. f. Orn. 
 
  nith., 66, p. 438 — Songea, southwestern Tanganyika. 
 
@@ -27324,7 +27324,7 @@ Serinus gularis elgonensis (Ogilvie-Grant)
 
 
 
-Poliospiza elgonensis Ogilvie-Grant, 1912, Bull. Brit. Or- 
+Poliospiza elgonensis Ogilvie-Grant, 1912, Bull. Brit. Orn. 
 
  nith. Club, 31, p. 17 — Mangiki, 6,000 ft., Mt. Elgon, 
 
@@ -27650,7 +27650,7 @@ Serinus striolatus graueri Hartert
 
 
 
-Serinus striolatus graueri Hartert, 1907, Bull. Brit. Or- 
+Serinus striolatus graueri Hartert, 1907, Bull. Brit. Orn. 
 
  nith. Club, 19, p. 84 — Ruwenzori, 7,000 ft., equatorial 
 
@@ -28681,7 +28681,7 @@ Carduelis sinica chabarovi (Stegmann)
 
 
 
-Chloris sinica chabarovi Stegmann, 1929, Journ. f. Or- 
+Chloris sinica chabarovi Stegmann, 1929, Journ. f. Orn. 
 
  nith., 77, p. 247 — Kumara, upper Amur River. 
 
@@ -28804,7 +28804,7 @@ Carduelis spinoides heinrichi Stresemann, 1940, Mitt.
 
 Carduelis spinoides monguilloti (Delacour) 
 
- Hypacanthis monguilloti Delacour, 1926, Bull. Brit. Or- 
+ Hypacanthis monguilloti Delacour, 1926, Bull. Brit. Orn. 
 
 
 
@@ -28998,7 +28998,7 @@ Carduelis pinus perplexa (van Rossem)
 
 
 
-Spinus pinus perplexus van Rossem, 1938, Bull. Brit. Or- 
+Spinus pinus perplexus van Rossem, 1938, Bull. Brit. Orn. 
 
  nith. Club, 58, p. 134 — San Andres, Chiapas, Mexico. 
 
@@ -30067,7 +30067,7 @@ Carduelis carduelis balcanica Sachtleben
 
 
 
-Carduelis carduelis balcanica Sachtleben, 1919, Anz. Or- 
+Carduelis carduelis balcanica Sachtleben, 1919, Anz. Orn. 
 
  nith. Ges. Bayern, 1, p. 3 — Kaluckowa, Macedonia. 
 
@@ -30100,7 +30100,7 @@ Carduelis carduelis niediecki Reichenow, 1907, Journ. f.
 
 Ornith., 55, p. 623 — Eregli, Asia Minor. 
 
- Carduelis carduelis iranensis Zarudny, 1913, Mess. Or- 
+ Carduelis carduelis iranensis Zarudny, 1913, Mess. Orn. 
 
  nith., 4, p. 275 — Zagros Mountains, from Kurdistan to 
 
@@ -30203,7 +30203,7 @@ Carduelis caniceps paropanisi Kollibay, 1910, Ornith.
 
 
 
-Carduelis caniceps subcaniceps Zarudny, 1916, Mess. Or- 
+Carduelis caniceps subcaniceps Zarudny, 1916, Mess. Orn. 
 
  nith., 7, p. 174 — Kopet Dagh, northern Khurasan, 
 
@@ -30842,7 +30842,7 @@ Fringilla cannabina Linnaeus, 1758, Syst. Nat., ed. 10,
 
 Jahrb., 14, p. 139 — Cattaro, Dalmatia. 
 
- Acanthis cannabina taurica Kudashev, 1916, Mess. Or- 
+ Acanthis cannabina taurica Kudashev, 1916, Mess. Orn. 
 
  nith., 8, p. 178 — Totakoi, near Simferopol, Crimea. 
 
@@ -30963,7 +30963,7 @@ Fringilla bella Brehm (ex Hemprich MS), 1845, Isis von
 
 Monatsb., 15, p. 3 — Karanowskoe, Tian Shan. 
 
- Acanthis cannabina persica Kudashev, 1916, Mess. Or- 
+ Acanthis cannabina persica Kudashev, 1916, Mess. Orn. 
 
  nith., 7, p. 179 — Demavend, Iran. 
 
@@ -31762,7 +31762,7 @@ Fringilla sanguinea Gould, 1838, Proc. Zool. Soc. London,
 
 1837, p. 127 — Erzurum, Turkey. 
 
- ^Rhodopechys sanguinea orientalis Stephanyan, 1959, Or- 
+ ^Rhodopechys sanguinea orientalis Stephanyan, 1959, Orn. 
 
  nitologia, 2, p. 79 — Aksu-Dzhabagly, southeast of 
 
@@ -32024,7 +32024,7 @@ Uragus sibiricus ussuriensis Buturlin
 
 
 
-Uragus sibiricus ussuriensis Buturlin, 1915, Mess. Or- 
+Uragus sibiricus ussuriensis Buturlin, 1915, Mess. Orn. 
 
  nith., 6, p. 128 — Vladimir Monomakh and Lake 
 
@@ -32639,7 +32639,7 @@ Carpodacus purpureus purpureus (Gmelin)
 
 Fringilla purpurea Gmelin, 1789, Syst. Nat., 1 (2), p. 923 
 
- — Carolina ; emended to South Carolina by Amer. Or- 
+ — Carolina ; emended to South Carolina by Amer. Orn. 
 
  nith. Union, 1931, Check-list North Amer. Birds, ed. 4, 
 
@@ -33293,7 +33293,7 @@ Carpodacus vinaceus formosanus Ogilvie-Grant
 
 
 
-Ca7^podacus incertus Ogilvie-Grant, 1906, Bull. Brit. Or- 
+Ca7^podacus incertus Ogilvie-Grant, 1906, Bull. Brit. Orn. 
 
  nith. Club, 16, p. 122 — Mt. Morrison, 9,000 ft., For- 
 
@@ -34268,7 +34268,7 @@ CARDUELINAE 285
 
 
 
-Pinicola enucleator urupensis Buturlin, 1915, Mess. Or- 
+Pinicola enucleator urupensis Buturlin, 1915, Mess. Orn. 
 
 
 
@@ -37600,7 +37600,7 @@ Pytilia melba citerior Strickland
 
 
 
-Pytelia citerior Strickland, 1852, Jardine's Contrib. Or- 
+Pytelia citerior Strickland, 1852, Jardine's Contrib. Orn. 
 
 
 
@@ -37826,7 +37826,7 @@ Fringilla Melba Linnaeus, 1758, Syst. Nat., ed. 10, 1, p.
 
  1962, Bull. Brit. Ornith. Club, 82, p. 4. 
 
- Pytilia melba angolensis Reichenow, 1919, Journ. f. Or- 
+ Pytilia melba angolensis Reichenow, 1919, Journ. f. Orn. 
 
  nith., 67, p. 227 — Angola, Loango [type from Malanje, 
 
@@ -37870,7 +37870,7 @@ Pytilia melba thamnophila Clancey
 
 
 
-Pytilia melba thamnophila Clancey, 1957, Bull. Brit. Or- 
+Pytilia melba thamnophila Clancey, 1957, Bull. Brit. Orn. 
 
  nith. Club, 77, p. 52 — Big Bend, on Great Usutu River, 
 
@@ -39026,7 +39026,7 @@ Lagonosticta rara forbesi Neumann
 
 
 
-Lagonosticta rara forbesi Neumann, 1908, Bull. Brit. Or- 
+Lagonosticta rara forbesi Neumann, 1908, Bull. Brit. Orn. 
 
  nith. Club, 21, p. 58 — Lokoja, Niger River, Nigeria. 
 
@@ -39291,7 +39291,7 @@ Lagonosticta senegala ruberrima Reichenow
 
 
 
-Lagonosticta brunneiceps ruberrima Reichenow, 1903, Or- 
+Lagonosticta brunneiceps ruberrima Reichenow, 1903, Orn. 
 
 
 
@@ -39307,7 +39307,7 @@ p. 792.
 
 
 
-Lagonosticta senegala kassaica Neumann, 1932, Anz. Or- 
+Lagonosticta senegala kassaica Neumann, 1932, Anz. Orn. 
 
 
 
@@ -39341,7 +39341,7 @@ Lagonosticta senegala rendalli Hartert, 1898, Novit. Zool.,
 
 Ornith. Monatsb., 18, p. 173 — Humpata, Angola. 
 
- Lagonosticta senegala dilutior White, 1946, Bull. Brit. Or- 
+ Lagonosticta senegala dilutior White, 1946, Bull. Brit. Orn. 
 
  nith. Club, 67, p. 10 — Balovale, Northern Rhodesia. 
 
@@ -39371,7 +39371,7 @@ Lagonosticta polionota Shelley, 1873, Ibis, p. 141 — Cape-
 
 
 
-Lagonosticta rhodopareia neglecta Reichenow, 1916, Or- 
+Lagonosticta rhodopareia neglecta Reichenow, 1916, Orn. 
 
  nith. Monatsb., 24, p. 168 — Portuguese Guinea. 
 
@@ -39385,7 +39385,7 @@ Lagonosticta rubricata virata Bates
 
 
 
-Lagonosticta rubricata virata Bates, 1932, Bull. Brit. Or- 
+Lagonosticta rubricata virata Bates, 1932, Bull. Brit. Orn. 
 
  nith. Club, 53, p. 7 — Kulikoro, French Sudan. 
 
@@ -39410,7 +39410,7 @@ ESTRILDIDAE 329
 
 
 
-Lagonosticta rubricata hildebrandti Neumann, 1907, Or- 
+Lagonosticta rubricata hildebrandti Neumann, 1907, Orn. 
 
 
 
@@ -39720,7 +39720,7 @@ Lagonosticta nigricollis Heuglin, 1863, Journ. f. Ornith.,
 
 
 
-Lagonosticta butleri Ogilvie-Grant, 1907, Bull. Brit. Or- 
+Lagonosticta butleri Ogilvie-Grant, 1907, Bull. Brit. Orn. 
 
  nith Club, 21, p. 16 — Chak Chak, Bahr el Ghazal. 
 
@@ -40033,7 +40033,7 @@ Uraeginthus bengahis littoralis van Someren, 1922, Novit.
 
 ZooL, 29, p. 160 — Mombasa. 
 
- Uraeginthus bengalus loveni Granvik, 1923, Journ. f. Or- 
+ Uraeginthus bengalus loveni Granvik, 1923, Journ. f. Orn. 
 
 
 
@@ -40210,7 +40210,7 @@ Uraeginthus granatina retusa (Clancey)
 
 
 
-Granatina granatina retusa Clancey, 1961, Bull. Brit. Or- 
+Granatina granatina retusa Clancey, 1961, Bull. Brit. Orn. 
 
  nith. Club, 81, p. 34 — near Panda, lat. 24°02' S., long. 
 
@@ -40462,7 +40462,7 @@ Estrilda perreini poliogastra (Reiehenow)
 
 
 
-Habropyga poliogastra Reichenow, 1886, Journ. f. Or- 
+Habropyga poliogastra Reichenow, 1886, Journ. f. Orn. 
 
  nith., 34, p. 121 — Inhambane. 
 
@@ -40551,7 +40551,7 @@ Coccopygia kilimensis Sharpe, 1890, Cat. Birds Brit. Mus.,
 
 13, p. 307 — Kilimanjaro. 
 
- Neisna dufresneyi nyansae Neumann, 1905, Journ. f. Or- 
+ Neisna dufresneyi nyansae Neumann, 1905, Journ. f. Orn. 
 
  nith., 53, p. 350 — Bukoba, Lake Victoria. 
 
@@ -40757,7 +40757,7 @@ Estrilda paludicola ruthae Chapin
 
 
 
-Estrilda paludicola ruthae Chapin, 1950, Bull. Brit. Or- 
+Estrilda paludicola ruthae Chapin, 1950, Bull. Brit. Orn. 
 
  nith. Club, 70, p. 23 — Lukolela, Congo. 
 
@@ -40834,7 +40834,7 @@ Estrilda melpoda tschadensis Grote
 
 
 
-Estrilda melpoda tschadensis Grote, 1922, Journ. f. Or- 
+Estrilda melpoda tschadensis Grote, 1922, Journ. f. Orn. 
 
 
 
@@ -40977,7 +40977,7 @@ zool. Mus. Berlin, p. 26 — Senegambia.
 
  not Meuschen, 1787. 
 
- Estrilda xanthophrys W. L. Sclater, 1926, Bull. Brit. Or- 
+ Estrilda xanthophrys W. L. Sclater, 1926, Bull. Brit. Orn. 
 
  nith. Club, 47, p. 32 — Senegal? [Based on cage birds 
 
@@ -41184,7 +41184,7 @@ Estrilda astrild schoutedeni Wolters
 
 
 
-Estrilda astrild schoutedeni Wolters, 1962, Journ. f. Or- 
+Estrilda astrild schoutedeni Wolters, 1962, Journ. f. Orn. 
 
  nith., 103, p. 305 — Bakwanga, lat. 6° 10' S., long. 23° 
 
@@ -41233,7 +41233,7 @@ Estrilda astrild angolensis Reichenow, 1902, Ornith. Mo-
 
 
 
-Estrilda astrild malanje Traylor, 1962, Bull. Brit. Or- 
+Estrilda astrild malanje Traylor, 1962, Bull. Brit. Orn. 
 
  nith. Club, 82, p. 22. New name for Estrilda astrild 
 
@@ -41443,7 +41443,7 @@ Estrilda nonnula eisentrauti Wolters
 
 
 
-Estrilda nonnula eisentrauti Wolters, 1964, Journ. f. Or- 
+Estrilda nonnula eisentrauti Wolters, 1964, Journ. f. Orn. 
 
 
 
@@ -41505,7 +41505,7 @@ Estrilda atricapilla avakubi Traylor
 
 
 
-Estrilda atricapilla avakubi Traylor, 1964, Bull. Brit. Or- 
+Estrilda atricapilla avakubi Traylor, 1964, Bull. Brit. Orn. 
 
  nith. Club, 84, p. 64 — Avakubi, Ituri district, Congo. 
 
@@ -41975,7 +41975,7 @@ Ortygospiza atricollis ansorgei Ogilvie-Grant
 
 
 
-Ortygospiza ansorgei Ogilvie-Grant, 1910, Bull. Brit. Or- 
+Ortygospiza ansorgei Ogilvie-Grant, 1910, Bull. Brit. Orn. 
 
  nith. Club, 25, p. 84 — Gunnal, Portuguese Guinea. 
 
@@ -43431,7 +43431,7 @@ Erythrura hyperythra microrhyncha (Stresemann)
 
 
 
-Chlorura hyperythra microrhyncha Stresemann, 1931, Or- 
+Chlorura hyperythra microrhyncha Stresemann, 1931, Orn. 
 
  nith. Monatsb., 39, p. 12 — Latimodjon mountains. 
 
@@ -43443,7 +43443,7 @@ Erythrura hyperythra ernstmayri Stresemann
 
 
 
-Erythrura hyperythra ernstmayri Stresemann, 1938, Or- 
+Erythrura hyperythra ernstmayri Stresemann, 1938, Orn. 
 
  nith. Monatsb., 46, p. 45 — Wawa Karaeng, Lompoba- 
 
@@ -44181,7 +44181,7 @@ Kordofan.
 
 Lonchura malabarica orientalis (Lorenz and Hellmayr) 
 
- Aedemosyne orientalis Lorenz and Hellmayr, 1901, Or- 
+ Aedemosyne orientalis Lorenz and Hellmayr, 1901, Orn. 
 
 
 
@@ -44189,7 +44189,7 @@ nith. Monatsb., 9, p. 39 — southern Arabia; type from
 
 
 
-Yeshbum, fide Lorenz and Hellmayr, 1901, Journ. f. Or- 
+Yeshbum, fide Lorenz and Hellmayr, 1901, Journ. f. Orn. 
 
 
 
@@ -45555,7 +45555,7 @@ Robinson and Kloss, 1924, Journ. Nat. Hist. Soc. Siam,
 
 
 
-Munia atricapilla novana Mathews, 1929, Bull. Brit. Or- 
+Munia atricapilla novana Mathews, 1929, Bull. Brit. Orn. 
 
 
 
@@ -46783,7 +46783,7 @@ Pholidornis rushiae bedfordi Ogilvie-Grant
 
 
 
-Pholidornis bedfordi Ogilvie-Grant, 1904, Bull. Brit. Or- 
+Pholidornis bedfordi Ogilvie-Grant, 1904, Bull. Brit. Orn. 
 
 
 
@@ -47144,7 +47144,7 @@ Vidua funerea purpurascens (Reichenow)
 
 
 
-Hypochera purpurascens Reichenow, 1883, Journ. f. Or- 
+Hypochera purpurascens Reichenow, 1883, Journ. f. Orn. 
 
  nith., 31, p. 221 — Usegua, Tanganyika. 
 

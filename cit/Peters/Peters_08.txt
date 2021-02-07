@@ -6135,7 +6135,7 @@ Genus STIGMATURA Sclater and Salvin
 
 Stigmatura Sclater and Salvin, 1866, Proc. Zool. Soc. London, 
 
- p. 188. Type, by monotypy, Culicivora budytoides d'Or- 
+ p. 188. Type, by monotypy, Culicivora budytoides d'Orn. 
 
  bigny and Lafresnaye. 
 
@@ -11867,7 +11867,7 @@ Todirostrum chrysocrotaphum chrysocrotaphum Strick-
 
  land 
 
- Todirostrum chrysocrotaphum Strickland, 1850, Contr. Or- 
+ Todirostrum chrysocrotaphum Strickland, 1850, Contr. Orn. 
 
  nith., p. 48, pi. [49] , upper fig. — Peru. 
 
@@ -13917,7 +13917,7 @@ Platyrinchus platyrhynchos nattereri Hartert and Hell-
 
 Platyrinchus platyrhynchos amazonicus Berlepsch 
 
- Platyrhynchus griseiceps amazonicus Berlepsch, 1912, Or- 
+ Platyrhynchus griseiceps amazonicus Berlepsch, 1912, Orn. 
 
  nith. Monatsb. 20, p. 20 — Peixe-Boi, Para, Brazil. 
 
@@ -14804,7 +14804,7 @@ Santa Marta area), Ecuador, and Peru north of the Marahon.
 
 Myiophobus flavicans venezuelanus (Hellmayr) 
 
- Myiobius flavicans venezuelanus Hellmayr, 1920, Anz. Or- 
+ Myiobius flavicans venezuelanus Hellmayr, 1920, Anz. Orn. 
 
  nith Ges. Bayern, 3, p. 16 — Galipan, Cerro de Avila, 
 
@@ -15035,7 +15035,7 @@ Myiophobus ochraceiventris (Cabanis)
 
 
 
-Mitrephorus ochraceiventris Cabanis, 1873, Journ. f. Or- 
+Mitrephorus ochraceiventris Cabanis, 1873, Journ. f. Orn. 
 
  nith., 21, p. 320 — Maraynioc, Junin, Peru. 
 
@@ -19802,7 +19802,7 @@ Xolmis cinerea pepoaza (Vieillot)
 
 
 
-T\yrannus\ Pepoaza Vieillot, 1823, Tabl. Enc. Meth., Or- 
+T\yrannus\ Pepoaza Vieillot, 1823, Tabl. Enc. Meth., Orn. 
 
  nith., 2, livr. 93, p. 855; based on "Pepoaza," no. 201, 
 
@@ -21322,7 +21322,7 @@ Cnipolegus aterrimus Kaup, 1853, Journ. f. Ornith., 1, p.
 
  naye, 1839, Voy. Amer. Merid., Ois., p. 340, and Fluvicola 
 
- nigerrima (not Muscicapa nigerrima Vieillot) [part] d'Or- 
+ nigerrima (not Muscicapa nigerrima Vieillot) [part] d'Orn. 
 
  bigny and Lafresnaye, 1837, Mag. Zool. [Paris] , 7, cl. 
 
@@ -22767,7 +22767,7 @@ Tropical zone of Santa Marta region, northern Colombia,
 
 Attila spadiceus parambae Hartert 
 
- Attila braziliensis parambae Hartert, 1900, Bull. Brit. Or- 
+ Attila braziliensis parambae Hartert, 1900, Bull. Brit. Orn. 
 
  nith. Club, 11, p. 39 — Hacienda Paramba, Imbabura, 
 
@@ -23925,7 +23925,7 @@ MYIARCHUS CEPHALOTES
 
 Myiarchus cephalotes caribbaeus Hellmayr 
 
- Myiarchus cephalotes caribbaeus Hellmayr, 1925, Anz. Or- 
+ Myiarchus cephalotes caribbaeus Hellmayr, 1925, Anz. Orn. 
 
  nith. Ges. Bayern, 1(9), p. 73— Galipan, 6,000 ft., Cerro 
 
@@ -26048,7 +26048,7 @@ Legatus leucophaius leucophaius (Vieillot)
 
  Zool. Ser., 13, pt. 5, p. 117. 
 
- Legatus variegatus nevagans Chubb, 1919, Bull. Brit. Or- 
+ Legatus variegatus nevagans Chubb, 1919, Bull. Brit. Orn. 
 
  nith. Club, 40, p. 43 — Costa Rica, Panama, and Colombia. 
 
@@ -31036,7 +31036,7 @@ Corapipo leucorrhoa altera Hellmayr
 
 
 
-Corapipo leucorrhoa altera Hellmayr, 1906, Bull. Brit. Or- 
+Corapipo leucorrhoa altera Hellmayr, 1906, Bull. Brit. Orn. 
 
  nith. Club, 16, p. 84— Carrillo, Costa Rica. 
 
@@ -33472,7 +33472,7 @@ Subtropical zone of eastern Ecuador and northern tip of
 
 Pipreola riefferii chachapoyas (Hellmayr) 
 
- Euchlornis viridis chachapoyas Hellmayr, 1915, Verh. Or- 
+ Euchlornis viridis chachapoyas Hellmayr, 1915, Verh. Orn. 
 
  nith. Ges. Bayern, 12, p. 206 — Chachapoyas, 8,500 ft., 
 
@@ -38432,7 +38432,7 @@ Neodrepanis hypoxantha Salomonsen
 
 
 
-Neodrepanis hypoxantha Salomonsen, 1933, Bull. Brit. Or- 
+Neodrepanis hypoxantha Salomonsen, 1933, Bull. Brit. Orn. 
 
  nith. Club, 53, p. 182 — " 'East of Antananarivo' (now 
 

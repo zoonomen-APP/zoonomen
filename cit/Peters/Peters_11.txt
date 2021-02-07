@@ -1589,7 +1589,7 @@ Laos, and northern Vietnam.
 
 Urosphena pallidipes osmastoni (Hartert) 
 
- Horeites pallidipes osmastoni Hartert, 1908, Bull. Brit. Or- 
+ Horeites pallidipes osmastoni Hartert, 1908, Bull. Brit. Orn. 
 
  nith. Club, 21, p. 107 — Port Blair, Andaman Islands. 
 
@@ -1810,7 +1810,7 @@ Fauna Japonica, Aves, p. 51, pi. 19 — Japan.
 
 10, p. 117 — Miyake-jima, Seven Islands of Izu. 
 
- Horornis cantans takahashii Momiyama, 1927, Annot. Or- 
+ Horornis cantans takahashii Momiyama, 1927, Annot. Orn. 
 
 
 
@@ -1879,7 +1879,7 @@ kyu Islands.
 
 Cettia diphone restricta (Kuroda) 
 
- Horornis cantans restrictus Kuroda, 1923, Bull. Brit. Or- 
+ Horornis cantans restrictus Kuroda, 1923, Bull. Brit. Orn. 
 
  nith. Club, 43, p. 122 — Minami-daito-jima, Borodino Is- 
 
@@ -3089,7 +3089,7 @@ BRADYPTERUS BARRATTI
 
 Bradypterus barratti camerunensis Alexander 
 
- Bradypterus camerunensis Alexander, 1909, Bull. Brit. Or- 
+ Bradypterus camerunensis Alexander, 1909, Bull. Brit. Orn. 
 
  nith. Club, 25, p. 19— Mt. Cameroon; altitude 7,000 feet. 
 
@@ -3258,7 +3258,7 @@ ufipae and usambarae poorly understood.
 
 Bradypterus barratti granti Benson 
 
- Bradypterus usambarae granti Benson, 1939, Bull. Brit. Or- 
+ Bradypterus usambarae granti Benson, 1939, Bull. Brit. Orn. 
 
  nith. Club, 59, p. 110— Mt. Mlanje, Lichenya Plateau, Ny- 
 
@@ -3470,7 +3470,7 @@ Bradypterus cinnamomeus cinnamomeus (Ruppell)
 
  tude ca. 3,400 meters. 
 
- Bradypterus cinnamomeus pallidior Neumann, 1914, Or- 
+ Bradypterus cinnamomeus pallidior Neumann, 1914, Orn. 
 
  nith. Monatsber., 22, p. 10 — forest west of Baraka, Kivu, 
 
@@ -3539,7 +3539,7 @@ BRADYPTERUS THORACICUS
 
 Bradypterus thoracicus suschkini (Stegmann) 
 
- Dumeticola thoracica suschkini Stegmann, 1929, Journ. Or- 
+ Dumeticola thoracica suschkini Stegmann, 1929, Journ. Orn. 
 
  nith., 77, p. 249 — sources of the Manyk River, affluent 
 
@@ -3563,7 +3563,7 @@ northeastern Baykal.
 
 Bradypterus thoracicus davidi (La Touche) 
 
- Tribura thoracica davidi La Touche, 1923, Bull. Brit. Or- 
+ Tribura thoracica davidi La Touche, 1923, Bull. Brit. Orn. 
 
  nith. Club, 43, p. 168 — Chinwangtao, northeastern Chihli 
 
@@ -4563,7 +4563,7 @@ Chaetops kilimensis Madarasz, 1904, Annales Hist.-Nat. Mus.
 
 Melocichla mentalis luangwae Benson 
 
- Melocichla mentalis luangwae Benson, 1958, Bull. Brit. Or- 
+ Melocichla mentalis luangwae Benson, 1958, Bull. Brit. Orn. 
 
  nith. Club, 78, p. 91 — Luangwa valley, Northern Rhode- 
 
@@ -4815,7 +4815,7 @@ Megalurus pryeri pryeri Seebohm
 
 Megalurus pryeri sinensis (Witherby) 
 
- Lusciniola pryeri sinensis Witherby, 1912, Bull. Brit. Or- 
+ Lusciniola pryeri sinensis Witherby, 1912, Bull. Brit. Orn. 
 
  nith. Club, 31, p. 11 — Hankow. 
 
@@ -4884,7 +4884,7 @@ zon, fide Parkes, 1970, Bull. Brit. Ornith. Club, 90, p. Ill,
 
 Megalurus timoriensis alopex Parkes 
 
- Megalurus timoriensis alopex Parkes, 1970, Bull. Brit. Or- 
+ Megalurus timoriensis alopex Parkes, 1970, Bull. Brit. Orn. 
 
  nith. Club, 90, p. 112 — Tacloban airstrip, Leyte Island, 
 
@@ -5132,7 +5132,7 @@ p. 345 — Cooktown, northern Queensland.
 
 Rec, 1, p. 92 — Melville Island, Northern Territory. 
 
- Dulciornis alisteri mayi Ashby, 1914, South Austral. Or- 
+ Dulciornis alisteri mayi Ashby, 1914, South Austral. Orn. 
 
  nith., 1, pt. 4, p. 27 — Pine Creek, Northern Territory. 
 
@@ -6140,7 +6140,7 @@ Locustella lanceolata (Temminck)
 
  1909, Vogel Pal. Fauna, p. 553. 
 
- Locustella lanceolata gigantea Johansen, 1954, Journ. Or- 
+ Locustella lanceolata gigantea Johansen, 1954, Journ. Orn. 
 
  nith., 95, p. 92 — Shaweishan (= She Shan) Island, east- 
 
@@ -8444,7 +8444,7 @@ Acrocephalus vaughani kerearako Holyoak
 
 Acrocephalus vaughani kaoko Holyoak 
 
- Acrocephalus vaughani kaoko Holyoak, 1974, Bull. Brit. Or- 
+ Acrocephalus vaughani kaoko Holyoak, 1974, Bull. Brit. Orn. 
 
  nith. Club, 94, p. 150— Mitiaro, Cook Islands. 
 
@@ -8545,7 +8545,7 @@ Zool. France, 1, p. 307 — Landana, Cabinda.
 
 Acrocephalus rufescens chadensis (Alexander) 
 
- Calamocichla chadensis Alexander, 1907, Bull. Brit. Or- 
+ Calamocichla chadensis Alexander, 1907, Bull. Brit. Orn. 
 
  nith. Club, 19, p. 63 — Lake Chad. Type from Wunnda, ca. 
 
@@ -8678,7 +8678,7 @@ Acrocephalus gracilirostris parvus (Fischer and Rei-
 
  Kenya. 
 
- Bradypterus macrorhynchus Jackson, 1910, Bull. Brit. Or- 
+ Bradypterus macrorhynchus Jackson, 1910, Bull. Brit. Orn. 
 
  nith. Club, 27, p. 8 — II Polosat, Laikipia, Kenya; altitude 
 
@@ -8858,7 +8858,7 @@ Acrocephalus aedon stegmanni Watson
 
 Ornith., 77, p. 250 — Radde, eastern Amurland. 
 
- Acrocephalus aedon stegmanni Watson, 1985, Bull. Brit. Or- 
+ Acrocephalus aedon stegmanni Watson, 1985, Bull. Brit. Orn. 
 
  nith. Club, 105, p. 79. New name for Phragamaticola aedon 
 
@@ -9434,7 +9434,7 @@ northern Zaire to the Uele and Ituri districts, and adjoining
 
 Chloropeta natalensis major Hartert 
 
- Chloropeta natalensis major Hartert, 1904, Bull. Brit. Or- 
+ Chloropeta natalensis major Hartert, 1904, Bull. Brit. Orn. 
 
  nith. Club, 14, p. 73 — Canhoca, northern Angola. 
 
@@ -10086,7 +10086,7 @@ Loeme), Loango coast, French Congo.
 
 Cisticola lateralis vincenti Chapin 
 
- Cisticola lateralis vincenti J. P. Chapin, 1953, Bull. Brit. Or- 
+ Cisticola lateralis vincenti J. P. Chapin, 1953, Bull. Brit. Orn. 
 
 
 
@@ -10320,7 +10320,7 @@ Cisticola hunteri Shelley
 
  Hartlaub, 1866 = Cisticola ayresii Hartlaub, 1863. 
 
- Cisticola hunteri hypernephala Elliott, 1947, Bull. Brit. Or- 
+ Cisticola hunteri hypernephala Elliott, 1947, Bull. Brit. Orn. 
 
  nith. Club, 68, p. 10— Mt. Olosirwa, Crater Highlands, 
 
@@ -10433,7 +10433,7 @@ Cisticola aberrans teitensis van Someren
 
 Cisticola aberrans bailunduensis Neumann 
 
- Cisticola emini bailunduensis Neumann, 1931, Journ. Or- 
+ Cisticola emini bailunduensis Neumann, 1931, Journ. Orn. 
 
  nith., 79, p. 551 — Chipepe, Bailundo, Benguela, Angola. 
 
@@ -10730,7 +10730,7 @@ Tete, Mozambique.
 
  altitude 900 feet. 1 
 
- Cisticola chiniana emendata Vincent, 1944, Bull. Brit. Or- 
+ Cisticola chiniana emendata Vincent, 1944, Bull. Brit. Orn. 
 
  nith. Club, 64, p. 63 — Mirrote, Mozambique Province, 
 
@@ -11293,7 +11293,7 @@ Cisticola lais monticola Roberts
 
  p. 242 — Six-mile Spruit, Pretoria, Transvaal. 
 
- Highveld of southern Transvaal and probably adjacent Or- 
+ Highveld of southern Transvaal and probably adjacent Orn. 
 
  ange Free State. 
 
@@ -11695,7 +11695,7 @@ CISTICOLA CARRUTHERSI
 
 Cisticola carruthersi Ogilvie-Grant 
 
- Cisticola carruthersi Ogilvie-Grant, 1909, Bull. Brit. Or- 
+ Cisticola carruthersi Ogilvie-Grant, 1909, Bull. Brit. Orn. 
 
  nith. Club, 23, p. 94 — Mokia (= Muhokya), southeastern 
 
@@ -12012,7 +12012,7 @@ Cisticola natalensis tonga Lynes
 
 Cisticola natalensis inexpectata Neumann 
 
- Cisticola natalensis inexpectata Neumann, 1906, Journ. Or- 
+ Cisticola natalensis inexpectata Neumann, 1906, Journ. Orn. 
 
  nith., 54, p. 268 — Lake Abassi (= Awusa), southern Abys- 
 
@@ -12228,7 +12228,7 @@ Cisticola fulvicapilla muelleri Alexander
 
 Cisticola fulvicapilla hallae Benson 
 
- Cisticola fulvicapilla hallae Benson, 1955, Bull. Brit. Or- 
+ Cisticola fulvicapilla hallae Benson, 1955, Bull. Brit. Orn. 
 
  nith. Club, 75, p. 105 — Tsotsoroghe (= Tsotsoroga) Pan, 
 
@@ -12295,7 +12295,7 @@ Cisticola fulvicapilla ruficapilla (Smith)
 
  30, p. 90. 
 
- Transvaal highveld south of lat. 26° S., western half of Or- 
+ Transvaal highveld south of lat. 26° S., western half of Orn. 
 
  ange Free State, and northern Cape Province on the Vaal and 
 
@@ -12688,7 +12688,7 @@ CISTICOLA NANA
 
 Cisticola nana Fischer and Reichenow 
 
- Cisticola nana Fischer and Reichenow, 1884, Journ. Or- 
+ Cisticola nana Fischer and Reichenow, 1884, Journ. Orn. 
 
 
 
@@ -14556,7 +14556,7 @@ Prinia criniger catharia Reichenow
 
 13 — Ta-tsieng-lu-ting (= K'ang-ting), Szechwan. 
 
- Suya crinigera yunnanensis Harington, 1913, Bull. Brit. Or- 
+ Suya crinigera yunnanensis Harington, 1913, Bull. Brit. Orn. 
 
  nith. Club, 31, p. 110 — Yunnan. Types from Momien ( = 
 
@@ -14564,7 +14564,7 @@ Prinia criniger catharia Reichenow
 
  Birds Brit. Mus., 7, p. 180. 
 
- Suya crinigera assamica Stuart Baker, 1924, Bull. Brit. Or- 
+ Suya crinigera assamica Stuart Baker, 1924, Bull. Brit. Orn. 
 
  nith. Club, 44, p. 80— Shillong, Meghalaya, India. 
 
@@ -14588,7 +14588,7 @@ Prinia criniger catharia Reichenow
 
 Prinia criniger parvirostris (La Touche) 
 
- Suya crinigera parvirostris La Touche, 1922, Bull. Brit. Or- 
+ Suya crinigera parvirostris La Touche, 1922, Bull. Brit. Orn. 
 
  nith. Club, 42, p. 53 — Shuitang, southeastern Yunnan; 
 
@@ -14776,7 +14776,7 @@ Prinia atrogularis superciliaris (Anderson)
 
 Prinia atrogularis klossi (Hachisuka) 
 
- Suya superciliaris klossi Hachisuka, 1926, Bull. Brit. Or- 
+ Suya superciliaris klossi Hachisuka, 1926, Bull. Brit. Orn. 
 
 
 
@@ -15911,7 +15911,7 @@ Prinia subflava blanfordi (Walden)
 
  Toungoo, Toungoo District, Pegu Division, Burma). 
 
- Prinia inornata burmanica Harington, 1913, Bull. Brit. Or- 
+ Prinia inornata burmanica Harington, 1913, Bull. Brit. Orn. 
 
  nith. Club, 31, p. Ill— Mandalay. 
 
@@ -15921,7 +15921,7 @@ Prinia subflava blanfordi (Walden)
 
 Prinia subflava herberti Stuart Baker 
 
- Prinia inornata herberti Stuart Baker, 1918, Bull. Brit. Or- 
+ Prinia inornata herberti Stuart Baker, 1918, Bull. Brit. Orn. 
 
 
 
@@ -15967,7 +15967,7 @@ Prinia subflava flavirostris (Swinhoe)
 
 foo, southwestern Formosa. 
 
- Prinia inornata formosa Harington, 1913, Bull. Brit. Or- 
+ Prinia inornata formosa Harington, 1913, Bull. Brit. Orn. 
 
  nith. Club, 31, p. Ill — Laulong (= Lao-nung), Formosa. 
 
@@ -16678,7 +16678,7 @@ Prinia erythroptera jodoptera (Heuglin)
 
 Prinia erythroptera major (Blundell and Lovat) 
 
- Orthotomus major Blundell and Lovat, 1899, Bull. Brit. Or- 
+ Orthotomus major Blundell and Lovat, 1899, Bull. Brit. Orn. 
 
  nith. Club, 10, p. 20 — Getemma, Abyssinia. 
 
@@ -16765,7 +16765,7 @@ Prinia pectoralis ocularia (Smith)
 
  rica, Aves, pi. 75, fig. 1, and text — northern Cape Colony; 
 
- restricted to Kuruman by Clancey, 1960, Bull. Brit. Or- 
+ restricted to Kuruman by Clancey, 1960, Bull. Brit. Orn. 
 
  nith. Club, 80, p. 16. 
 
@@ -17076,7 +17076,7 @@ p. 904— Mt. Kilimanjaro; altitude 6,000 feet.
 
 Apalis thoracica fuscigularis Moreau 
 
- Apalis murina fuscigularis Moreau, 1938, Bull. Brit. Or- 
+ Apalis murina fuscigularis Moreau, 1938, Bull. Brit. Orn. 
 
  nith. Club, 58, p. 48 — Taita Hills, southern Kenya; alti- 
 
@@ -17538,7 +17538,7 @@ Apalis nigriceps nigriceps (Shelley)
 
 Apalis nigriceps collaris van Someren 
 
- Apalis nigriceps collaris van Someren, 1915, Bull. Brit. Or- 
+ Apalis nigriceps collaris van Someren, 1915, Bull. Brit. Orn. 
 
  nith. Club, 35, p. 107 — Bugoma Forest, Uganda. 
 
@@ -17554,7 +17554,7 @@ APALIS JACKSONI 1
 
 Apalis jacksoni bambuluensis Serle 
 
- Apalis jacksoni bambuluensis Serle, 1949, Bull. Brit. Or- 
+ Apalis jacksoni bambuluensis Serle, 1949, Bull. Brit. Orn. 
 
  nith. Club, 69, p. 55 — near Lake Bambulue, 10 miles south 
 
@@ -17833,7 +17833,7 @@ Apalis flavida pugnax Lawson 2
 
 Apalis flavida golzi (Fischer and Reichenow) 
 
- Euprinodes Golzi Fischer and Reichenow, 1884, Journ. Or- 
+ Euprinodes Golzi Fischer and Reichenow, 1884, Journ. Orn. 
 
  nith., 32, p. 182 — Great Arusha, Tanganyika. 
 
@@ -18275,7 +18275,7 @@ Apalis porphyrolaema porphyrolaema Reichenow and
 
  Neumann 
 
- Apalis porphyrolaema Reichenow and Neumann, 1895, Or- 
+ Apalis porphyrolaema Reichenow and Neumann, 1895, Orn. 
 
 
 
@@ -18372,7 +18372,7 @@ Apalis porphyrolaema strausae Boulton
 
  feet. 
 
- Artisornis metopias bensoni Vincent, 1935, Bull. Brit. Or- 
+ Artisornis metopias bensoni Vincent, 1935, Bull. Brit. Orn. 
 
  nith. Club, 55, p. 174 — Mt. Chongoni, Nyasaland; alti- 
 
@@ -18645,7 +18645,7 @@ Sondherheft, p. 243 — Kiambu, near Nairobi, Kenya.
 
  preoccupied by Apalis jacksoni minor Ogilvie-Grant, 1917. 
 
- Apalis cinerea funebris Bannerman, 1937, Bull. Brit. Or- 
+ Apalis cinerea funebris Bannerman, 1937, Bull. Brit. Orn. 
 
  nith. Club, 57, p. 72 — Oku, west of Kumbo, Banso Moun- 
 
@@ -18685,7 +18685,7 @@ APALIS ALTICOLA
 
 Apalis alticola alticola (Shelley) 
 
- Cisticola alticola Shelley, 1899 (February), Bull. Brit. Or- 
+ Cisticola alticola Shelley, 1899 (February), Bull. Brit. Orn. 
 
  nith. Club, 8, p. 35— "Nyasaland" = Fife, fide Shelley, 1899 
 
@@ -19380,7 +19380,7 @@ Orthotomus cucullatus everetti (Hartert)
 
 Orthotomus cucullatus hedymeles (Stresemann) 
 
- Phyllergates cucullatus hedymeles Stresemann, 1932, Or- 
+ Phyllergates cucullatus hedymeles Stresemann, 1932, Orn. 
 
  nith. Monatsber., 40, p. 46 — Wawokaraeng, a peak of Mt. 
 
@@ -19444,7 +19444,7 @@ altitude ca. 1,100 meters.
 
 Orthotomus cucullatus dumasi (Hartert) 
 
- Phyllergates everetti dumasi Hartert, 1899, Bull. Brit. Or- 
+ Phyllergates everetti dumasi Hartert, 1899, Bull. Brit. Orn. 
 
  nith. Club, 8, p. 31— Mt. Mada, Bum. 
 
@@ -19792,7 +19792,7 @@ Northern and eastern Borneo.
 
 Orthotomus atrogularis chloronotus Ogilvie-Grant 
 
- Orthotomus chloronotus Ogilvie-Grant, 1895, Bull. Brit. Or- 
+ Orthotomus chloronotus Ogilvie-Grant, 1895, Bull. Brit. Orn. 
 
  nith. Club, 5, p. 2 — Cape Engario, northeastern Luzon. 
 
@@ -19828,7 +19828,7 @@ Orthotomus atrogularis rabori Parkes
 
  land, Philippines. 
 
- Orthotomus atrogularis rabori Parkes, 1961, Bull. Brit. Or- 
+ Orthotomus atrogularis rabori Parkes, 1961, Bull. Brit. Orn. 
 
  nith. Club, 81, p. 33. New name for Orthotomus atrogu- 
 
@@ -20753,7 +20753,7 @@ CAMAROPTERA HARTERTI 1
 
 Camaroptera harterti Zedlitz 
 
- Camaroptera griseoviridis harterti Zedlitz, 1911, Journ. Or- 
+ Camaroptera griseoviridis harterti Zedlitz, 1911, Journ. Orn. 
 
  nith., 59, p. 342 — Canhoca, northern Angola. 
 
@@ -20787,7 +20787,7 @@ atsber., 2, p. 126 — Jaunde (= Yaounde), Cameroon.
 
 Ornith., 59, p. 331 — Ogowe (= Ogooue) River, Gabon. 
 
- Camaroptera brevicaudata pulchra Zedlitz, 1911, Journ. Or- 
+ Camaroptera brevicaudata pulchra Zedlitz, 1911, Journ. Orn. 
 
  nith., 59, p. 331— Canhoca, northern Angola. 
 
@@ -21312,7 +21312,7 @@ POLIOLAIS LOPESI
 
 Poliolais lopesi lopesi (Alexander) 
 
- Apalis lopezi [sic] Alexander, 1903 (January), Bull. Brit. Or- 
+ Apalis lopezi [sic] Alexander, 1903 (January), Bull. Brit. Orn. 
 
  nith. Club, 13, p. 35 — Bakaki (= Bacake), Fernando Po. 
 
@@ -21797,7 +21797,7 @@ Griqualand West, South Africa.
 
 Eremomela icteropygialis saturatior Ogilvie-Grant 
 
- Eremomela saturatior Ogilvie-Grant, 1910, Bull. Brit. Or- 
+ Eremomela saturatior Ogilvie-Grant, 1910, Bull. Brit. Orn. 
 
  nith. Club, 25, p. 121 — Deelfontein, Cape Province. 
 
@@ -22245,7 +22245,7 @@ Kenya.
 
 Eremomela turneri kalindei Prigogine 
 
- Eremomela turneri kalindei Prigogine, 1958, Bull. Brit. Or- 
+ Eremomela turneri kalindei Prigogine, 1958, Bull. Brit. Orn. 
 
  nith. Club, 78, p. 147 — Kailo, eastern Belgian Congo, lat. 
 
@@ -22625,7 +22625,7 @@ Sylvietta virens baraka (Sharpe)
 
 Sylvietta virens tando Sclater 
 
- Sylvietta virens tando W. L. Sclater, 1927, Bull. Brit. Or- 
+ Sylvietta virens tando W. L. Sclater, 1927, Bull. Brit. Orn. 
 
  nith. Club, 48, p. 18— Ndala-Tando (= Vila Salazar), 
 
@@ -22760,7 +22760,7 @@ p. 258 — Senegambia.
 
  Sudan. 
 
- Sylvietta brachyura nilotica Neumann, 1906, Journ. Or- 
+ Sylvietta brachyura nilotica Neumann, 1906, Journ. Orn. 
 
  nith., 54, p. 279— Shebesha (= Shabashah), White Nile, 
 
@@ -23043,7 +23043,7 @@ Sylvietta ruficapilla rufigenis (Reichenow)
 
 Sylvietta ruficapilla schoutedeni White 
 
- Sylvietta ruficapilla schoutedeni White, 1953, Bull. Brit. Or- 
+ Sylvietta ruficapilla schoutedeni White, 1953, Bull. Brit. Orn. 
 
  nith. Club, 73, p. 69 — Tembwe, west of Lake Tanganyika, 
 
@@ -23057,7 +23057,7 @@ Sylvietta ruficapilla schoutedeni White
 
 Sylvietta ruficapilla makayii White 
 
- Sylvietta ruficapilla makayii White, 1953, Bull. Brit. Or- 
+ Sylvietta ruficapilla makayii White, 1953, Bull. Brit. Orn. 
 
  nith. Club, 73, p. 69 — Malanje, northern Angola. 
 
@@ -23079,7 +23079,7 @@ Sylvietta ruficapilla ruficapilla Barbosa du Bocage
 
 Sylvietta ruficapilla gephyra White 
 
- Sylvietta ruficapilla gephyra White, 1953, Bull. Brit. Or- 
+ Sylvietta ruficapilla gephyra White, 1953, Bull. Brit. Orn. 
 
  nith. Club, 73, p. 68 — Mwinilunga, Northern Rhodesia. 
 
@@ -23243,7 +23243,7 @@ Sylvietta rufescens resurga Clancey
 
 Sylvietta rufescens diverga Clancey 
 
- Sylvietta rufescens diverga Clancey, 1954, Bull. Brit. Or- 
+ Sylvietta rufescens diverga Clancey, 1954, Bull. Brit. Orn. 
 
 
 
@@ -24490,7 +24490,7 @@ PHYLLOSCOPUS BUDONGOENSIS
 
 Phylloscopus budongoensis (Seth-Smith) 
 
- Cryptolopha budongoensis Seth-Smith, 1907, Bull. Brit. Or- 
+ Cryptolopha budongoensis Seth-Smith, 1907, Bull. Brit. Orn. 
 
  nith. Club, 21, p. 12 — Budongo Forest, Uganda. 
 
@@ -24644,7 +24644,7 @@ Ruwenzori Mountains, between 9,300 and 15,000 feet.
 
 Phylloscopus umbrovirens wilhelmi (Gyldenstolpe) 
 
- Cryptolopha wilhelmi Gyldenstolpe, 1922, Bull. Brit. Or- 
+ Cryptolopha wilhelmi Gyldenstolpe, 1922, Bull. Brit. Orn. 
 
  nith. Club, 43, p. 37— Mt. Muhavura, Birunga (= Vi- 
 
@@ -24799,7 +24799,7 @@ PHYLLOSCOPUS COLLYBITA 1
 
 Phylloscopus colly bita canariensis (Hartwig) 
 
- Phyllopneuste rufa canariensis Hartwig, 1886, Journ. Or- 
+ Phyllopneuste rufa canariensis Hartwig, 1886, Journ. Orn. 
 
  nith., 34, p. 486— Tenerife. 
 
@@ -25450,7 +25450,7 @@ Bihar, India.
 
 Phylloscopus affinis subaffinis Ogilvie-Grant 
 
- Phylloscopus subaffinis Ogilvie-Grant, 1900, Bull. Brit. Or- 
+ Phylloscopus subaffinis Ogilvie-Grant, 1900, Bull. Brit. Orn. 
 
  nith. Club, 10, p. 37 — Pu-an-ting, southwestern Kwei-chu 
 
@@ -25862,7 +25862,7 @@ Phylloscopus proregulus chloronotus (Gray and Gray)
 
  Phylloscopus newtoni Gatke, 1889, Ibis, p. 579 — India; re- 
 
- stricted to Darjeeling by Ticehurst, 1920, Bull. Brit. Or- 
+ stricted to Darjeeling by Ticehurst, 1920, Bull. Brit. Orn. 
 
  nith. Club, 41, p. 55. 
 
@@ -26268,7 +26268,7 @@ Phylloscopus trochiloides trochiloides (Sundevall)
 
 Phylloscopus trochiloides obscuratus Stresemann 1 
 
- Phylloscopus trochiloides obscuratus Stresemann, 1929, Or- 
+ Phylloscopus trochiloides obscuratus Stresemann, 1929, Orn. 
 
  nith. Monatsber., 37, p. 74 — conifer zone, Langs-tang 
 
@@ -27346,7 +27346,7 @@ PHYLLOSCOPUS POLIOCEPHALUS
 
 Phylloscopus poliocephalus henrietta Stresemann 
 
- Phylloscopus poliocephalus henrietta Stresemann, 1931, Or- 
+ Phylloscopus poliocephalus henrietta Stresemann, 1931, Orn. 
 
  nith. Monatsber., 39, p. 168 — Mt. Gamkonora, northern 
 
@@ -27387,7 +27387,7 @@ Phylloscopus poliocephalus everetti (Hartert)
 
 Phylloscopus poliocephalus ceramensis (Ogilvie-Grant) 
 
- Cryptolopha ceramensis Ogilvie-Grant, 1910, Bull. Brit. Or- 
+ Cryptolopha ceramensis Ogilvie-Grant, 1910, Bull. Brit. Orn. 
 
  nith. Club, 25, p. 90— Mt. Karobi, Ceram; altitude 2,500 
 
@@ -27685,7 +27685,7 @@ pilla Swainson = Sylvia burkii Burton.
 
 Type, by monotypy, Culicipeta burkii Blyth. 
 
- Pycnosphrys Strickland, 1849, in Jardine (ed.), Contrib. Or- 
+ Pycnosphrys Strickland, 1849, in Jardine (ed.), Contrib. Orn. 
 
 
 
@@ -27724,7 +27724,7 @@ SEICERCUS BURKII
 
 Seicercus burkii whistleri Ticehurst 
 
- Seicercus burkii whistleri Ticehurst, 1925, Bull. Brit. Or- 
+ Seicercus burkii whistleri Ticehurst, 1925, Bull. Brit. Orn. 
 
  nith. Club, 46, p. 22 — Dharmsala, Punjab Himalayas. 
 
@@ -28014,7 +28014,7 @@ Seicercus affinis intermedius (La Touche)
 
 Club, 7, p. 37— Fohkien (= Fukien). 
 
- Cryptolopha burkii cognita La Touche, 1922, Bull. Brit. Or- 
+ Cryptolopha burkii cognita La Touche, 1922, Bull. Brit. Orn. 
 
  nith. Club, 43, p. 42 — Kuatun (= Kuan-t'un), northwest- 
 
@@ -28248,7 +28248,7 @@ Sumatra.
 
 Seicercus montis xanthopygius (Whitehead) 
 
- Cryptolopha xanthopygia Whitehead, 1893, Bull. Brit. Or- 
+ Cryptolopha xanthopygia Whitehead, 1893, Bull. Brit. Orn. 
 
  nith. Club., 1, p. 31 — mountains of Palawan. 
 
@@ -28907,7 +28907,7 @@ lr rhe generic affinity of this species is in doubt. Few specimens
 
 Parisoma lugens griseiventris Erard 
 
- Parisoma lugens griseiventris Erard, 1978, Bull. Brit. Or- 
+ Parisoma lugens griseiventris Erard, 1978, Bull. Brit. Orn. 
 
  nith. Club, 98, p. 46 — Dinsho (= Gurie), Bale, Ethiopia. 
 
@@ -29108,7 +29108,7 @@ Parisoma subcaeruleum ansorgei Zedlitz
 
 Parisoma subcaeruleum cinerascens Reichenow 
 
- Parisoma subcaeruleum cinerascens Reichenow, 1902, Or- 
+ Parisoma subcaeruleum cinerascens Reichenow, 1902, Orn. 
 
  nith. Monatsber., 10, p. 77 — Damaraland. Type from 
 
@@ -29342,7 +29342,7 @@ Motacilla Atricapilla Linnaeus, 1758, Syst. Nat., ed. 10, p.
 
 
 
-Sylvia atricapilla riphaea Snigirewski, 1931, Journ. Or- 
+Sylvia atricapilla riphaea Snigirewski, 1931, Journ. Orn. 
 
  nith., 79, p. 64 — Miass, southeastern Urals. 
 
@@ -29403,7 +29403,7 @@ Sylvia atricapilla pauluccii Arrigoni
 
 Sylvia atricapilla dammholzi Stresemann 
 
- Sylvia atricapilla dammholzi Stresemann, 1928, Journ. Or- 
+ Sylvia atricapilla dammholzi Stresemann, 1928, Journ. Orn. 
 
 
 
@@ -29631,7 +29631,7 @@ Sylvia communis icterops Menetries
 
 Sylvia communis rubicola Stresemann 
 
- Sylvia communis rubicola Stresemann, 1928, Journ. Or- 
+ Sylvia communis rubicola Stresemann, 1928, Journ. Orn. 
 
  nith., 76, p. 378 — Kuldja (= I-ning), Chinese Turkistan 
 
@@ -29886,7 +29886,7 @@ Sylvia curruca telengitica Sushkin
 
  Sylvia curruca halimodendri 
 
- Sylvia curruca halimodendri Sushkin, 1904, Bull. Brit. Or- 
+ Sylvia curruca halimodendri Sushkin, 1904, Bull. Brit. Orn. 
 
  nith. Club, 14, p. 42 — lower Irgiz and lower Turgay Riv- 
 
@@ -30037,7 +30037,7 @@ Curruca nana Ehrenberg, 1833, Symbolae Physicae, Avium
 
 
 
-Sylvia nana theresae Meinertzhagen, 1937, Bull. Brit. Or- 
+Sylvia nana theresae Meinertzhagen, 1937, Bull. Brit. Orn. 
 
  nith. Club, 58, p. 10— Rohri, Sind. 
 
@@ -30678,7 +30678,7 @@ ema'it Plateau, Tassili N'Ajjer, and Ahaggar Mountains, Al-
 
 Sylvia deserticola maroccana Hartert 
 
- Sylvia deserticola maroccana Hartert, 1917, Bull. Brit. Or- 
+ Sylvia deserticola maroccana Hartert, 1917, Bull. Brit. Orn. 
 
  nith. Club, 38, p. 6 — Seksawa, western Atlas, Morocco. 
 
@@ -30787,13 +30787,13 @@ Sylvia undata toni Hartert
 
 south of Biskra, northern Algeria. 
 
- Sylvia undata maroccana Rothschild, 1932, Bull. Brit. Or- 
+ Sylvia undata maroccana Rothschild, 1932, Bull. Brit. Orn. 
 
  nith. Club, 52, p. 82 — J[ebel]. Mago Yebala, northwestern 
 
  Morocco. 
 
- Sylvia undata tingitana Rothschild, 1932, Bull. Brit. Or- 
+ Sylvia undata tingitana Rothschild, 1932, Bull. Brit. Orn. 
 
  nith. Club, 52, p. 105. New name for Sylvia undata mar- 
 
@@ -30940,7 +30940,7 @@ Germany, etc.
 
 Regulus ignicapillus balearicus Jordans 
 
- Regulus ignicapillus balearicus Jordans, 1924, Journ. Or- 
+ Regulus ignicapillus balearicus Jordans, 1924, Journ. Orn. 
 
  nith., 72, p. 165— Lluch, Mallorca. 
 
@@ -32079,7 +32079,7 @@ Melaenornis pallidus pallidus (Muller)
 
 [1], Heft 4, p. 28 — Abyssinia and Kordofan, Sudan; re- 
 
- stricted to Kordofan by Rothschild, 1913, Bull. Brit. Or- 
+ stricted to Kordofan by Rothschild, 1913, Bull. Brit. Orn. 
 
  nith. Club, 33, p. 65. 
 
@@ -32210,7 +32210,7 @@ Melaenornis pallidus modestus (Shelley)
 
 Coast = Ghana. 
 
- Bradornis pallidus tessmanni Reichenow, 1915, Journ. Or- 
+ Bradornis pallidus tessmanni Reichenow, 1915, Journ. Orn. 
 
  nith., 63, p. 129 — Carnot, eastern Cameroon = Central 
 
@@ -32309,7 +32309,7 @@ Melaenornis pallidus griseus (Reichenow)
 
 Melaenornis pallidus divisus (Lawson) 
 
- Bradornis pallidus divisus Lawson, 1961, Bull. Brit. Or- 
+ Bradornis pallidus divisus Lawson, 1961, Bull. Brit. Orn. 
 
  nith. Club, 81, p. 73 — Panda, near Inhambane, Sul do Save, 
 
@@ -32434,7 +32434,7 @@ MELAENORNIS MARIQUENSIS
 
 Melaenornis mariquensis acaciae (Irwin) 
 
- Bradornis mariquensis acaciae Irwin, 1957, Bull. Brit. Or- 
+ Bradornis mariquensis acaciae Irwin, 1957, Bull. Brit. Orn. 
 
  nith. Club, 77, p. 118— Ohopoho, Kaoko Veld, South West 
 
@@ -32777,7 +32777,7 @@ Along the lower Cuanza River, Angola.
 
 Melaenornis brunneus bailunduensis (Neumann) 
 
- Dioptrornis brunneus bailunduensis Neumann, 1929, Or- 
+ Dioptrornis brunneus bailunduensis Neumann, 1929, Orn. 
 
  nith. Monatsber., 37, p. 177 — Chipepe, Bailunduland, 
 
@@ -32995,7 +32995,7 @@ MELAENORNIS OCREATUS
 
 Melaenornis ocreatus kelsalli (Bannerman) 
 
- Fraseria ocreata kelsalli Bannerman, 1922, Bull. Brit. Or- 
+ Fraseria ocreata kelsalli Bannerman, 1922, Bull. Brit. Orn. 
 
  nith. Club, 42, p. 68 — York Pass, Sierra Leone. 
 
@@ -33613,7 +33613,7 @@ RHINOMYIAS INSIGNIS
 
 Rhinomyias insignis Ogilvie-Grant 
 
- Rhinomyias insignis Ogilvie-Grant, 1895, Bull. Brit. Or- 
+ Rhinomyias insignis Ogilvie-Grant, 1895, Bull. Brit. Orn. 
 
  nith. Club, 4, p. 40 — mountains of Lepanto, northern Lu- 
 
@@ -33633,7 +33633,7 @@ RHINOMYIAS GOODFELLOWI
 
 Rhinomyias goodfellowi Ogilvie-Grant 
 
- Rhinomyias goodfellowi Ogilvie-Grant, 1905, Bull. Brit. Or- 
+ Rhinomyias goodfellowi Ogilvie-Grant, 1905, Bull. Brit. Orn. 
 
  nith. Club, 16, p. 17 — Mt. Apo, southeastern Mindanao, 
 
@@ -33900,7 +33900,7 @@ Muscicapa striata balearica Jordans
 
  10, Sonderheft, p. 38. 
 
- Muscicapa striata berliozi Dunajewski, 1938, Bull. Brit. Or- 
+ Muscicapa striata berliozi Dunajewski, 1938, Bull. Brit. Orn. 
 
  nith. Club, 58, p. 148— El Kantara, Algeria. 
 
@@ -33986,7 +33986,7 @@ Butalis grisola L. var. pallida Zarudny, 1903, Zapiski Imp.
 
 
 
-Muscicapa striata sarudnyi Snigirewski, 1928, Journ. Or- 
+Muscicapa striata sarudnyi Snigirewski, 1928, Journ. Orn. 
 
  nith., 76, p. 595. New name for Butalis grisola L. var. pal- 
 
@@ -34045,7 +34045,7 @@ Muscicapa gambagae (Alexander)
 
 12, p. 11 — Gambaga, Gold Coast. 
 
- Muscicapa somaliensis Bannerman, 1909, Bull. Brit. Or- 
+ Muscicapa somaliensis Bannerman, 1909, Bull. Brit. Orn. 
 
  nith. Club, 25, p. 20 — Waghar (= Wagger) Mountains, 
 
@@ -34441,7 +34441,7 @@ Philippine Islands: Luzon, Negros.
 
 Muscicapa dauurica umbrosa Wells 
 
- Muscicapa latirostris umbrosa Wells, 1982, Bull. Brit. Or- 
+ Muscicapa latirostris umbrosa Wells, 1982, Bull. Brit. Orn. 
 
  nith. Club, 102, p. 149 — Quoin Hill cocoa research station, 
 
@@ -34546,7 +34546,7 @@ Sikkim.
 
 8 miles from Trincomalee, Ceylon. 
 
- Muscicapa (Alseonax) muttui stotzneri Weigold, 1922, Or- 
+ Muscicapa (Alseonax) muttui stotzneri Weigold, 1922, Orn. 
 
  nith. Monatsber., 30, p. 63— Kuan-hsien, near Ch'eng-tu, 
 
@@ -34717,7 +34717,7 @@ MUSCICAPA PANAYENSIS
 
 Muscicapa panayensis nigrimentalis (Ogilvie-Grant) 
 
- Stoparola nigrimentalis Ogilvie-Grant, 1894, Bull. Brit. Or- 
+ Stoparola nigrimentalis Ogilvie-Grant, 1894, Bull. Brit. Orn. 
 
  nith. Club, 3, p. 50 — northern Luzon. 
 
@@ -34776,7 +34776,7 @@ Muscicapa panayensis meridionalis (Biittikofer)
 
 Muscicapa panayensis obiensis (Hartert) 
 
- Stoparola panayensis obiensis Hartert, 1912, Bull. Brit. Or- 
+ Stoparola panayensis obiensis Hartert, 1912, Bull. Brit. Orn. 
 
  nith. Club, 31, p. 2— Obi Major. 
 
@@ -34879,7 +34879,7 @@ Muscicapa infuscata (Cassin)
 
 
 
-Artomyias fuliginosa J. and E. Verreaux, 1855, Journ. Or- 
+Artomyias fuliginosa J. and E. Verreaux, 1855, Journ. Orn. 
 
  nith., 3, p. 104 — Gabon. Preoccupied by Muscicapa fuli- 
 
@@ -34891,13 +34891,13 @@ Artomyias fuliginosa J. and E. Verreaux, 1855, Journ. Or-
 
  Africa = Gabon. 
 
- Artomyias fuliginosa minuscula Grote, 1922, Anzeiger Or- 
+ Artomyias fuliginosa minuscula Grote, 1922, Anzeiger Orn. 
 
  nith. Gesell. Bayern, 1, p. 58 — Beni, Semliki valley, Bel- 
 
  gian Congo. 
 
- Artomyias fuliginosa chapini Vaurie, 1951, Bull. Brit. Or- 
+ Artomyias fuliginosa chapini Vaurie, 1951, Bull. Brit. Orn. 
 
  nith. Club, 71, p. 37 — Oguta, southern Nigeria. 
 
@@ -34950,7 +34950,7 @@ Muscicapa boehmi (Reichenow)
 
 253 — Kakoma, Tanganyika. 
 
- Bradyornis sharpii Barbosa du Bocage, 1894, Bull. Brit. Or- 
+ Bradyornis sharpii Barbosa du Bocage, 1894, Bull. Brit. Orn. 
 
  nith. Club, 3, p. 43 — Galanga, Angola. 
 
@@ -35315,7 +35315,7 @@ Marsabit, Kenya.
 
 Muscicapa adusta murina (Fischer and Reichenow) 
 
- Alseonax murina Fischer and Reichenow, 1884, Journ. Or- 
+ Alseonax murina Fischer and Reichenow, 1884, Journ. Orn. 
 
  nith., 32, p. 54— Mt. Meru, Tanganyika. 
 
@@ -35733,7 +35733,7 @@ Muscicapa caerulescens brevicauda Ogilvie-Grant
 
  Clelland, 1837. 
 
- Muscicapa brevicauda Ogilvie-Grant, 1907, Bull. Brit. Or- 
+ Muscicapa brevicauda Ogilvie-Grant, 1907, Bull. Brit. Orn. 
 
  nith. Club, 19, p. 107— upper Congo; altitude 2,000 feet. 
 
@@ -35860,7 +35860,7 @@ MUSCICAPA GRISEIGULARIS
 
 Muscicapa griseigularis parelii Traylor 
 
- Muscicapa griseigulare parelii Traylor, 1970, Bull. Brit. Or- 
+ Muscicapa griseigulare parelii Traylor, 1970, Bull. Brit. Orn. 
 
 
 
@@ -35971,7 +35971,7 @@ Myioparus plumbeus catoleucum (Reichenow)
 
  8, p. 5 — Chamba, north end of Lake Nyasa, Tanganyika. 
 
- Myioparus plumbeus grandior Clancey, 1962, Bull. Brit. Or- 
+ Myioparus plumbeus grandior Clancey, 1962, Bull. Brit. Orn. 
 
  nith. Club, 82, p. 62 — Mashi I, Barotseland, southwestern 
 
@@ -36528,7 +36528,7 @@ Ficedula narcissina owstoni (Bangs)
 
  Fauna, 1, p. 491 — Yaku Shima, northern Ryukyu Islands. 
 
- Zanthopygia narcissina shonis Kuroda, 1923, Bull. Brit. Or- 
+ Zanthopygia narcissina shonis Kuroda, 1923, Bull. Brit. Orn. 
 
  nith. Club, 43, p. 107 — Komi, Amami-Oshima, middle 
 
@@ -37073,7 +37073,7 @@ Taiwan.
 
 Ficedula hyperythra sumatrana (Hachisuka) 
 
- Muscicapula malayana Oglivie-Grant, 1906, Bull. Brit. Or- 
+ Muscicapula malayana Oglivie-Grant, 1906, Bull. Brit. Orn. 
 
  nith. Club, 19, p. 10 — Gunong Tahan, Malay Peninsula; 
 
@@ -37166,7 +37166,7 @@ Washington, 34, p. 56 — Goenoeng Lehio, Celebes.
 
 Ficedula hyperythra annalisa (Stresemann) 
 
- Dendrobiastes hyperythra annalisa Stresemann, 1931, Or- 
+ Dendrobiastes hyperythra annalisa Stresemann, 1931, Orn. 
 
  nith. Monatsber., 39, p. 80 — Matinang Mountains: Ile-Ile, 
 
@@ -38503,7 +38503,7 @@ NILTAVA SUNDARA
 
 Niltava sundara whistleri Ticehurst 
 
- Niltava sundara whistleri Ticehurst, 1926, Bull. Brit. Or- 
+ Niltava sundara whistleri Ticehurst, 1926, Bull. Brit. Orn. 
 
  nith. Club, 46, p. 113— Murree. 
 
@@ -38961,7 +38961,7 @@ NILTAVA POLIOGENYS
 
 Niltava poliogenys vernayi (Whistler) 
 
- Cyornis poliogenys vernayi Whistler, 1931, Bull. Brit. Or- 
+ Cyornis poliogenys vernayi Whistler, 1931, Bull. Brit. Orn. 
 
  nith. Club, 52, p. 24 — Sankrametta, Vizagapatam (= Vis- 
 
@@ -39264,7 +39264,7 @@ southwestern Thailand.
 
 Niltava rubeculoides klossi (Robinson) 
 
- Cyornis rubeculoides klossi Robinson, 1921, Bull. Brit. Or- 
+ Cyornis rubeculoides klossi Robinson, 1921, Bull. Brit. Orn. 
 
  nith. Club, 42, p. 12 — Dran (= Don Duong), southern An- 
 
@@ -39434,7 +39434,7 @@ Niltava banyumas banyumas (Horsfield)
 
 London, 13, p. 146 — Province of Banyumas, Java. 
 
- Cyornis banyumas limitans Robinson, 1927, Bull. Brit. Or- 
+ Cyornis banyumas limitans Robinson, 1927, Bull. Brit. Orn. 
 
  nith. Club, 48, p. 44 — Tamansari, eastern Java; altitude 
 
@@ -40373,7 +40373,7 @@ River, Gabon.
 
 Bias flammulatus aequatorialis (Jackson) 
 
- Megabias [sic] aequatorialis Jackson, 1904, Bull. Brit. Or- 
+ Megabias [sic] aequatorialis Jackson, 1904, Bull. Brit. Orn. 
 
  chis purely African family is probably more nearly related to the 
 
@@ -40715,7 +40715,7 @@ BATIS CAPENSIS
 
 Batis capensis erythrophthalma Swynnerton 
 
- Batis erythrophthalma Swynnerton, 1907, Bull. Brit. Or- 
+ Batis erythrophthalma Swynnerton, 1907, Bull. Brit. Orn. 
 
 
 
@@ -40866,7 +40866,7 @@ Kikumbulyu, Ukamba, Kenya.
 
  Kibonoto, Kilimanjaro; altitude 2,000 meters. 
 
- Batis molitor taruensis van Someren, 1921, Bull. Brit. Or- 
+ Batis molitor taruensis van Someren, 1921, Bull. Brit. Orn. 
 
  nith. Club, 41, p. 103— Maungu, Kenya. 
 
@@ -40965,7 +40965,7 @@ Batis molitor littoralis Neumann, 1907, Journ. Ornith., 55,
 
 p. 356 — Zanzibar. 
 
- Batis soror pallidigula van Someren, 1921, Bull. Brit. Or- 
+ Batis soror pallidigula van Someren, 1921, Bull. Brit. Orn. 
 
  nith. Club, 41, p. 103 — Lumbo, northern Mozambique. 
 
@@ -41052,7 +41052,7 @@ Batis senegalensis (Linnaeus)
 
  2 — Senegal. 
 
- Batis senegalensis togoensis Neumann, 1907, Journ. Or- 
+ Batis senegalensis togoensis Neumann, 1907, Journ. Orn. 
 
  nith., 55, p. 350 — Misahohe, Togoland. 
 
@@ -41434,7 +41434,7 @@ PLATYSTEIRIDAE 387
 
 Platysteira cyanea aethiopica Neumann 
 
- Platysteira cyanea aethiopica Neumann, 1905, Journ. Or- 
+ Platysteira cyanea aethiopica Neumann, 1905, Journ. Orn. 
 
  nith., 53, p. 210 — Banka, in Malo, southern Abyssinia. 
 
@@ -41496,7 +41496,7 @@ Platysteira peltata cryptoleuca Oberholser
 
 Mus., 28, p. 913 — Useri River, plains of Mt. Kilimanjaro. 
 
- Platysteira peltata brevipennis Grote, 1928, Anzeiger Or- 
+ Platysteira peltata brevipennis Grote, 1928, Anzeiger Orn. 
 
 
 
@@ -41575,7 +41575,7 @@ Subgenus DYAPHOROPHYIA Bonaparte
 
 Platysteira castanea hormophora (Reichenow) 
 
- Diaphorophyia hormophora Reichenow, 1901, Journ. Or- 
+ Diaphorophyia hormophora Reichenow, 1901, Journ. Orn. 
 
  nith., 49, p. 285 — no locality; type, in Zoologisches Mu- 
 
@@ -41662,7 +41662,7 @@ Platysteira chalybea (Reichenow)
 
 ber., 5, p. 46 — Bipinde, Cameroon. 
 
- Diaphorophyia chlorophrys Alexander, 1903, Bull. Brit. Or- 
+ Diaphorophyia chlorophrys Alexander, 1903, Bull. Brit. Orn. 
 
  nith. Club, 13, p. 34— Bakaka (= Bakake), Fernando Po. 
 
@@ -41744,7 +41744,7 @@ Mt. Cameroon.
 
 Platysteira concreta harterti (Bates) 
 
- Diaphorophyia ansorgei harterti Bates, 1926, Bull. Brit. Or- 
+ Diaphorophyia ansorgei harterti Bates, 1926, Bull. Brit. Orn. 
 
  nith. Club, 46, p. 105 — Bitye, southern Cameroon. 
 
@@ -42826,7 +42826,7 @@ Rec, 1, p. 126 — Lake Gairdner, South Australia.
 
 p. 69 — Dawson River, southeastern Queensland. 
 
- Leggeornis lamberti hartogi Mathews, 1918, Bull. Brit. Or- 
+ Leggeornis lamberti hartogi Mathews, 1918, Bull. Brit. Orn. 
 
  nith. Club, 39, p. 24 — Dirk Hartog Island, midwestern 
 
@@ -42937,7 +42937,7 @@ Malurus pulcherrimus Gould
 
  Rec, 1, p. 192 — Stirling Range, southwestern Australia. 
 
- Leggeornis lamberti eyrei Mellor, 1921, South Austral. Or- 
+ Leggeornis lamberti eyrei Mellor, 1921, South Austral. Orn. 
 
  nith., 6, p. 10 — Warunda Creek, southern Eyre Peninsula, 
 
@@ -43267,7 +43267,7 @@ rup), southwestern Australia.
 
 Stipiturus malachurus hartogi Carter 
 
- Stipiturus malachurus hartogi Carter, 1916, Bull. Brit. Or- 
+ Stipiturus malachurus hartogi Carter, 1916, Bull. Brit. Orn. 
 
  nith. Club, 37, p. 6 — Dirk Hartog Island, Western Aus- 
 
@@ -43487,7 +43487,7 @@ Rawlinson Range, and margins of Nullabor Plain, but absent
 
 Amytornis textilis myall (Mathews) 
 
- Diaphorillas textilis myall Mathews, 1916, Bull. Brit. Or- 
+ Diaphorillas textilis myall Mathews, 1916, Bull. Brit. Orn. 
 
  nith. Club, 36, p. 90— Myall Creek, Cariewerels (= Car- 
 
@@ -43681,7 +43681,7 @@ Amytornis striatus striatus (Gould)
 
 p. 143 — lower Namoi River, New South Wales. 
 
- Diaphorillas striatus howei Mathews, 1911, Bull. Brit. Or- 
+ Diaphorillas striatus howei Mathews, 1911, Bull. Brit. Orn. 
 
  nith. Club, 28, p. 100— Kow Plains, Victoria. 
 
@@ -44565,7 +44565,7 @@ Sericornis maculatus balstoni Ogilvie-Grant
 
 Club, 23, p. 72 — Bernier Island, midwestern Australia. 
 
- Sericornis maculatus hartogi Carter, 1916, Bull. Brit. Or- 
+ Sericornis maculatus hartogi Carter, 1916, Bull. Brit. Orn. 
 
  nith. Club, 37, p. 6 — Dirk Hartog Island, midwestern 
 
@@ -45268,7 +45268,7 @@ SERICORNIS KERI
 
 Sericornis keri Mathews 
 
- Sericornis magnirostris keri Mathews, 1920, Bull. Brit. Or- 
+ Sericornis magnirostris keri Mathews, 1920, Bull. Brit. Orn. 
 
 
 
@@ -46275,7 +46275,7 @@ Cat., no. 1, p. 287 — Woodside, near Adelaide.
 
 Rec, 2, p. 130— Cobbora, New South Wales. 
 
- Geobasileus reguloides nesa Mathews, 1920, Bull. Brit. Or- 
+ Geobasileus reguloides nesa Mathews, 1920, Bull. Brit. Orn. 
 
 
 
@@ -47069,7 +47069,7 @@ Acanthiza robustirostris Milligan
 
 Dawn, midwestern Australia. 
 
- Acanthiza marianae S. A. White, 1915, South Austral. Or- 
+ Acanthiza marianae S. A. White, 1915, South Austral. Orn. 
 
  nith., 2, p. 45 — Moorilyanna, Everard Range, South Aus- 
 
@@ -48143,7 +48143,7 @@ body Mus. Nat. Hist., Yale Univ., no. 31, p. 3— Kofiau.
 
 Gerygone magnirostris cobana (Mathews) 
 
- Zosterops [= Gerygone] fusca Bernstein, 1864, Journ. Or- 
+ Zosterops [= Gerygone] fusca Bernstein, 1864, Journ. Orn. 
 
 
 
@@ -49368,7 +49368,7 @@ EPHTHIANURA ALBIFRONS
 
 Ephthianura albifrons albifrons (Jardine and Selby) 
 
- Acanthiza albifrons Jardine and Selby, 1828, Illustr. Or- 
+ Acanthiza albifrons Jardine and Selby, 1828, Illustr. Orn. 
 
 
 
@@ -49834,7 +49834,7 @@ Western Africa = Gabon.
 
 Erythrocercus mccallii congicus Ogilvie-Grant 
 
- Erythrocercus congicus Ogilvie-Grant, 1907, Bull. Brit. Or- 
+ Erythrocercus congicus Ogilvie-Grant, 1907, Bull. Brit. Orn. 
 
  nith. Club, 19, p. 41 — forest, eastern Congo Free State; 
 
@@ -49899,7 +49899,7 @@ Erythrocercus livingstonei thomsoni Shelley
 
  zambique. 
 
- Erythrocercus nyasae Ogilvie-Grant, 1912, Bull. Brit. Or- 
+ Erythrocercus nyasae Ogilvie-Grant, 1912, Bull. Brit. Orn. 
 
  nith. Club, 29, p. 115 — near Lake Pamalombe (= Mal- 
 
@@ -49933,7 +49933,7 @@ Erythrocercus livingstonei livingstonei Gray
 
 Erythrocercus livingstonei francisi Sclater 
 
- Erythrocercus francisi W. L. Sclater, 1898, Bull. Brit. Or- 
+ Erythrocercus francisi W. L. Sclater, 1898, Bull. Brit. Orn. 
 
  nith. Club, 7, p. 60 — Inhambane, Mozambique. 
 
@@ -50099,7 +50099,7 @@ Trochocercus nigromitratus (Reichenow)
 
 22, p. 110 — Cameroon. 
 
- Trochocercus kibaliensis Alexander, 1907, Bull. Brit. Or- 
+ Trochocercus kibaliensis Alexander, 1907, Bull. Brit. Orn. 
 
  nith. Club, 19, p. 88 — Kibali River, Belgian Congo = Su- 
 
@@ -51153,7 +51153,7 @@ Eutrichomyias rowleyi (Meyer)
 
 
 
-Zeocephus rowleyi A. B. Meyer, 1878, in Rowley, ed., Or- 
+Zeocephus rowleyi A. B. Meyer, 1878, in Rowley, ed., Orn. 
 
  nith. Miscellany, 3, p. 163 — Tabukan, Great Sangi ( = 
 
@@ -51421,7 +51421,7 @@ Terpsiphone rufiventer tricolor (Fraser)
 
 Terpsiphone rufiventer neumanni Stresemann 
 
- Muscipeta flaviuentris J. and E. Verreaux, 1855, Journ. Or- 
+ Muscipeta flaviuentris J. and E. Verreaux, 1855, Journ. Orn. 
 
  nith., 3, p. 103 — Gabon. Preoccupied by Muscipeta flavi- 
 
@@ -51591,7 +51591,7 @@ Terpsiphone bedfordi (Ogilvie-Grant)
 
 
 
-Trochocercus bedfordi Ogilvie-Grant, 1907, Bull. Brit. Or- 
+Trochocercus bedfordi Ogilvie-Grant, 1907, Bull. Brit. Orn. 
 
 
 
@@ -51849,7 +51849,7 @@ Terpsiphone viridis kivuensis Salomonsen
 
 
 
-Terpsiphone viridis kivuensis Salomonsen, 1949, Dansk Or- 
+Terpsiphone viridis kivuensis Salomonsen, 1949, Dansk Orn. 
 
  nith. Forenings Tidsskrift, 43, p. 86 — Kibati, Kivu, Bel- 
 
@@ -51869,7 +51869,7 @@ Terpsiphone viridis restricta (Salomonsen)
 
 
 
-Tchitrea viridis restricta Salomonsen, 1933, Bull. Brit. Or- 
+Tchitrea viridis restricta Salomonsen, 1933, Bull. Brit. Orn. 
 
  nith. Club, 54, p. 48 — Nkose Island, Lake Victoria. 
 
@@ -51934,7 +51934,7 @@ Terpsiphone viridis plumbeiceps Reichenow
 
  Chitipa), northern Nyasa district, Nyasaland. 
 
- Terpsiphone viridis subrufa Salomonsen, 1949, Dansk Or- 
+ Terpsiphone viridis subrufa Salomonsen, 1949, Dansk Orn. 
 
  nith. Forenings Tidsskrift, 43, p. 84 — Kapulo, Tangan- 
 
@@ -52509,7 +52509,7 @@ north.
 
 Terpsiphone mutata singetra (Salomonsen) 
 
- Tchitrea mutata singetra Salomonsen, 1933, Bull. Brit. Or- 
+ Tchitrea mutata singetra Salomonsen, 1933, Bull. Brit. Orn. 
 
  nith. Club, 53, p. 124 — Soalala, western Madagascar. 
 
@@ -52556,7 +52556,7 @@ Terpsiphone mutata vulpina (Newton)
 
 Terpsiphone mutata voeltzkowiana Stresemann 
 
- Terpsiphone mutata voeltzkowiana Stresemann, 1924, Or- 
+ Terpsiphone mutata voeltzkowiana Stresemann, 1924, Orn. 
 
  nith. Monatsber., 32, p. 18 — Moheli, Comoro Islands. 
 
@@ -53751,7 +53751,7 @@ Monarcha cinerascens jacobii Neumann, 1924, Ornith.
 
 
 
-Monarcha cinerascens nova Mathews, 1925, Bull. Brit. Or- 
+Monarcha cinerascens nova Mathews, 1925, Bull. Brit. Orn. 
 
  nith. Club, 45, p. 86. New name for Monarcha inornatus 
 
@@ -53765,7 +53765,7 @@ Monarcha cinerascens nova Mathews, 1925, Bull. Brit. Or-
 
 Monarcha cinerascens disjunctus Meise 
 
- Monarcha cinerascens disjuncta Meise, 1929, Journ. Or- 
+ Monarcha cinerascens disjuncta Meise, 1929, Journ. Orn. 
 
  nith., 77, p. 455 — Kalaotoa. 
 
@@ -53779,7 +53779,7 @@ Monarcha cinerascens disjunctus Meise
 
 Monarcha cinerascens intercedens Meise 
 
- Monarcha cinerascens intercedens Meise, 1929, Journ. Or- 
+ Monarcha cinerascens intercedens Meise, 1929, Journ. Orn. 
 
  nith., 77, p. 456 — Tukangbesi Islands. 
 
@@ -54432,7 +54432,7 @@ Monarcha trivirgatus nigrimentum Gray
 
 Monarcha trivirgatus wellsi (Ogilvie-Grant) 1 
 
- Piezorhynchus wellsi Ogilvie-Grant, 1911, Bull. Brit. Or- 
+ Piezorhynchus wellsi Ogilvie-Grant, 1911, Bull. Brit. Orn. 
 
  nith. Club, 27, p. 105— Goram = Gorong. 
 
@@ -54751,7 +54751,7 @@ MONARCHA BROWNI
 
 Monarcha browni nigrotectus Hartert 
 
- Monarcha brodiei nigrotectus Hartert, 1908, Bull. Brit. Or- 
+ Monarcha brodiei nigrotectus Hartert, 1908, Bull. Brit. Orn. 
 
  nith. Club, 21, p. 107— Vella Lavella Island. 
 
@@ -54884,7 +54884,7 @@ Poecilodryas nitida De Vis, 1897, Ibis, p. 376 — Boirave,
 
 Orangerie Bay, New Guinea. 
 
- Monarcha chrysomela praerepta White, 1935, Bull. Brit. Or- 
+ Monarcha chrysomela praerepta White, 1935, Bull. Brit. Orn. 
 
  nith. Club, 56, p. 38 — Fergusson Island. 
 
@@ -55120,7 +55120,7 @@ Arses telescophthalmus harterti van Oort
 
 Arses telescophthalmus henkei Meyer 
 
- Arses Henkei A. B. Meyer, 1886, Zeitschr. Gesammte Or- 
+ Arses Henkei A. B. Meyer, 1886, Zeitschr. Gesammte Orn. 
 
  nith., 3, p. 16, pi. 3, figs. 1 and 2 — Astrolabe Mountains, 
 
@@ -55706,7 +55706,7 @@ Tana, Eromanga.
 
 Myiagra caledonica marinae Salomonsen 
 
- Myiagra caledonica marinae Salomonsen, 1934, Journ. Or- 
+ Myiagra caledonica marinae Salomonsen, 1934, Journ. Orn. 
 
  nith., 82, p. 437— Espiritu Santo, New Hebrides. 
 
@@ -56986,7 +56986,7 @@ Philippines: northern and western Mindanao.
 
 Rhipidura nigrocinnamomea nigrocinnamomea Hartert 
 
- Rhipidura nigrocinnamomea Hartert, 1903, Bull. Brit. Or- 
+ Rhipidura nigrocinnamomea Hartert, 1903, Bull. Brit. Orn. 
 
 
 
@@ -57093,7 +57093,7 @@ Rhipidura albicollis orissae Ripley
 
 Rhipidura albicollis vernayi (Whistler) 
 
- Leucocirca pectoralis vernayi Whistler, 1931, Bull. Brit. Or- 
+ Leucocirca pectoralis vernayi Whistler, 1931, Bull. Brit. Orn. 
 
 
 
@@ -57609,7 +57609,7 @@ Rhipidura setora [sic] tormenti Mathews, 1912, Austral Avian
 
 
 
-Setosura setosa macgillivrayi Mathews, 1916, Bull. Brit. Or- 
+Setosura setosa macgillivrayi Mathews, 1916, Bull. Brit. Orn. 
 
  nith. Club, 36, p. 90 — Leichhardt River, Queensland. 
 
@@ -57636,7 +57636,7 @@ Rhipidura rufiventris assimilis Gray
 
 Rhipidura rufiventris finitima Hartert 
 
- Rhipidura rufiventris finitima Hartert, 1918, Bull. Brit. Or- 
+ Rhipidura rufiventris finitima Hartert, 1918, Bull. Brit. Orn. 
 
 
 
@@ -58151,7 +58151,7 @@ Aru Islands, Salawati, Batanta, western and southern New
 
  Guinea east along the north coast to Warbusi (Geelvink Bay), 
 
- along the south coast at least to Hall Sound, possibly to Or- 
+ along the south coast at least to Hall Sound, possibly to Orn. 
 
  angerie Bay. 
 
@@ -58926,7 +58926,7 @@ Passim, Rubi, Geelvink Bay, and Ansus, Jobi (= Japen)
 
 Island. 
 
- Rhipidura rufidorsa nova Mathews, 1928, Bull. Brit. Or- 
+ Rhipidura rufidorsa nova Mathews, 1928, Bull. Brit. Orn. 
 
 
 
@@ -59148,7 +59148,7 @@ Northern Territory.
 
 Rhipidura rufifrons henrici Hartert 
 
- Rhipidura squamata henrici Hartert, 1918, Bull. Brit. Or- 
+ Rhipidura squamata henrici Hartert, 1918, Bull. Brit. Orn. 
 
 
 
@@ -59251,7 +59251,7 @@ Rhipidura rufifrons torrida Wallace
 
 Rhipidura rufifrons streptophora Ogilvie-Grant 
 
- Rhipidura streptophora Ogilvie-Grant, 1911, Bull. Brit. Or- 
+ Rhipidura streptophora Ogilvie-Grant, 1911, Bull. Brit. Orn. 
 
  nith. Club, 29, p. 25 — mouth of the Mimika River, south- 
 
@@ -59279,7 +59279,7 @@ Rhipidura rufifrons louisiadensis Hartert
 
 Rhipidura rufifrons commoda Hartert 
 
- Rhipidura rufifrons commoda Hartert, 1918, Bull. Brit. Or- 
+ Rhipidura rufifrons commoda Hartert, 1918, Bull. Brit. Orn. 
 
  nith. Club, 38, p. 60 — Bougainville. 
 
@@ -59291,7 +59291,7 @@ Rhipidura rufifrons commoda Hartert
 
 Rhipidura rufifrons granti Hartert 
 
- Rhipidura rufifrons granti Hartert, 1918, Bull. Brit. Or- 
+ Rhipidura rufifrons granti Hartert, 1918, Bull. Brit. Orn. 
 
  nith. Club, 38, p. 60— Rendova. 
 
@@ -59957,7 +59957,7 @@ Microeca flavovirescens cuicui (De Vis)
 
 
 
-Zosterops cuicui De Vis, 1897, Ibis, p. 384 — Boirave, Or- 
+Zosterops cuicui De Vis, 1897, Ibis, p. 384 — Boirave, Orn. 
 
  angerie Bay. 
 
@@ -61003,7 +61003,7 @@ Tregellasia leucops heurni (Hartert)
 
 Tregellasia leucops nigriceps (Neumann) 
 
- Poecilodryas leucops nigriceps Neumann, 1922, Verh. Or- 
+ Poecilodryas leucops nigriceps Neumann, 1922, Verh. Orn. 
 
 
 
@@ -61419,7 +61419,7 @@ Peneoenanthe pulverulenta pulverulenta (Bonaparte)
 
  Mayr, 1941, List New Guinea Birds, p. 143. 
 
- Quoyornis leucurus mimika Mathews, 1932, Bull. Brit. Or- 
+ Quoyornis leucurus mimika Mathews, 1932, Bull. Brit. Orn. 
 
  nith. Club, 52, p. 25 — Mimika River, Dutch New Guinea. 
 

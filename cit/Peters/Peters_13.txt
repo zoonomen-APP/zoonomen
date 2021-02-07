@@ -2442,7 +2442,7 @@ EMBERIZINAE 13
 
 
 
-Emberiza cioides neglecta Kuroda, 1923, Bull. Brit. Or- 
+Emberiza cioides neglecta Kuroda, 1923, Bull. Brit. Orn. 
 
  nith. Club, 43, p. 88 — Miyanoura, Yaku-shima. 
 
@@ -2603,7 +2603,7 @@ Emberiza cineracea semenowi Zarudny
 
 
 
-Emberiza (Hypocentor) semenowi Zarudny, 1904, Or- 
+Emberiza (Hypocentor) semenowi Zarudny, 1904, Orn. 
 
  nith. Jahrb., 15, p. 217 — Jebel-Tniie [= Mt. Tntie] and 
 
@@ -4620,7 +4620,7 @@ Emberiza schoeniclus mackenziei Bird, 1936, Bull. Brit.
 
 
 
-Emberiza schoeniclus steinbacheri Dementiev, 1937, Or- 
+Emberiza schoeniclus steinbacheri Dementiev, 1937, Orn. 
 
  nith. Monatsb., 45, p. 86. New name for Cynchramus 
 
@@ -5227,7 +5227,7 @@ Emberiza schoeniclus korejewi (Zarudny)
 
 
 
-Cynchramus pyrrhuloides korejewi Zarudny, 1907, Or- 
+Cynchramus pyrrhuloides korejewi Zarudny, 1907, Orn. 
 
  nith. Monatsb., 15, p. 83 — Seistan and Persian Ba- 
 
@@ -14638,7 +14638,7 @@ Genus XENOSPINGUS Cabanis
 
 Xenospingus Cabanis, 1867, Journ. f. Ornith., 15, p. 347. 
 
- Type, by original designation, Sylvia concolor d'Or- 
+ Type, by original designation, Sylvia concolor d'Orn. 
 
  bigny and Lafresnaye. 
 
@@ -18356,7 +18356,7 @@ Sporophila palustris (Barrows)
 
 
 
-Spermophila palustris Barrows, 1883, Bull. Nuttall Or- 
+Spermophila palustris Barrows, 1883, Bull. Nuttall Orn. 
 
  nith. Club, 8, p. 92 — near Conception del Uruguay 
 
@@ -28241,7 +28241,7 @@ Saltator vigorsii G. R. Gray, 1844, Genera Birds, 2, p. 363.
 
  New name for Saltator rufiventris Vigors, 1839, pre- 
 
- occupied by Saltator rufiventris Lafresnaye and d'Or- 
+ occupied by Saltator rufiventris Lafresnaye and d'Orn. 
 
  bigny, 1837. 
 
@@ -39621,7 +39621,7 @@ Buthraupis rothschildi Berlepsch
 
 
 
-Buthraupis rothschildi Berlepsch, 1897, Bull. Brit. Or- 
+Buthraupis rothschildi Berlepsch, 1897, Bull. Brit. Orn. 
 
  nith. Club, 7, p. iii — Cachabe, N. W. Ecuador (500 
 
@@ -39665,7 +39665,7 @@ Buthraupis aureocincta Hellmayr
 
 
 
-Buthraupis aureocincta Hellmayr, 1910, Bull. Brit. Or- 
+Buthraupis aureocincta Hellmayr, 1910, Bull. Brit. Orn. 
 
  nith. Club, 25, p. Ill — Tatama Mountain, Choco, W. 
 
