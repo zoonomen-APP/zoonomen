@@ -197,9 +197,9 @@ INTRODUCTION'.
 I cannot finish, these introductory remarks without acknowledging 
 the great assistance I have derived from Dr. Pirtscifs work ' Die 
 Papageien'; this is one of the best ornithological works which has 
-ever been published, and the care bestowed by Dr. Pinsch on the 
+ever been published, and the care bestowed by Dr. Finsch on the 
 historical part of the species cannot be too highly appreciated. 
-Unfortunately Dr. Pinsch was misled in many cases by the idea 
+Unfortunately Dr. Finsch was misled in many cases by the idea 
 that the sexes were alike. In my opinion, also, Dr. Finsch did not 
 pay the necessary attention to the less conspicuous differences connected 
 with geographical distribution, so that he often united species 
@@ -209,7 +209,7 @@ I have to acknowledge also the assistance I have received from
 many friends, and to return them my best thanks; I wish particularly 
 to mention Mr. Salvin, Dr. Sclater, Mr. Seebohm, Prof. Newton, 
 Canon Tristram, the Hon. Walter P^othschild, Dr. Eeichenow, 
-Dr. Pinsch, Dr. Meyer, Graf von Berlepsch, Dr. AY. Blasius, 
+Dr. Finsch, Dr. Meyer, Graf von Berlepsch, Dr. AY. Blasius, 
 Dr. Schauinsland, Dr. Stolzmann, Dr. Oustaleb, and M. Salle. 
 
 TOMMASO SALYADOPd. 
@@ -5981,7 +5981,7 @@ Trichoglossus porphyrocephalus, Dieir. Trans. Linn. Soc. xvii. (part 4)
 p. 553 (1837 *) ; Gould, B. Austr. v. pi. 53 (pt. i., 1840; ; G. R. 
 * The description was read March 20, 1832, 
 10 . GLOSSOPSITTACTJS. 
-Gr. Gen. B. ii. p. 411, no. 12 (1846) ; Ilartl Erst. Nachtr. Verz. 
+Gr. Gen. B. ii. p. 411, no. 12 (1846) ; Hartl.rst. Nachtr. Verz. 
 
 p. 15 (1844); Sturt, Exp. Centr. Austr. ii. App. p. 41 (1843); 
 Rehnb. Vog. Neuholl no. 176 (1850); Blyth, Cat. B. Mm. As. 
@@ -9241,7 +9241,7 @@ generally smaller than those from the mainland, and have even been
 separated specifically as C. maoroloplia, Eosenb.; but I do not think 
 that we are justified in accepting this view, especially when we consider 
 the great range of individual variation. Also the birds from 
-the Trobriand Islands have been separated by Dr. Pinsch as Cacatua 
+the Trobriand Islands have been separated by Dr. Finsch as Cacatua 
 trobriandi, but he writes to me that now he considers this name only 
 a synonym of C. triton. 
 
@@ -10045,7 +10045,7 @@ Tzveedd. P. Z. S. 1877, pp. 755, 756, 817, 1878, pp. 107, 281, 340,
 379, 937; Sharpe, P. Z. S. 1879, p. 313 (Sooloo Isl.); Tweedd. 
 Om. Works, pp. 116, 299, 410, 529, 530, 544, 566, 587, 595, 602, 
 628 (1881) ; Wardl. Rams. Tweedd. Orn. Works, p. 655, n. 1 
-(1881) ; Salvia, Cat. StricH. Coll. p. 453, n. 2216 (1882); Kutter, 
+(1881) ; Salvin, Cat. StricH. Coll. p. 453, n. 2216 (1882); Kutter, 
 Joum. f. Orn. 1882, p. 176, 1883, p. 293; Sharpe, Ibis, 1884, 
 
 p. 316; Guillem. P. Z. S. 1885, pp. 250, 251; Sharpe, Ibis, 1888, 
@@ -14519,7 +14519,7 @@ P. Z. 8.1871, p. 493; Wyatt, Ibis, 1871, p. 381 (Colombia); Sclat #
 Salv. Nomencl. Av. Neotrop. p. 112, n. 20 (1873); Garrod, P. Z. 8. 
 1874, p. 587; Sclat P. Z.8. 1875, p. 684, 1880, p. 716; Bchmv. 
 Vogelbild. t. xvii. f. 5 (1878-83); id. Journ. f. Orn. 1881, p. 282 
-(Consp. Psitt. p. 170); ? Salvia, Cat B. Strickl Coll. p. 405 
+(Consp. Psitt. p. 170); ? Salvin, Cat B. Strickl Coll. p. 405 
 (Trinidad) (1882); Sclat. List Vert An. 8th ed. p. 344 (1883). 
 Conurus 
 chrysopkrys, Sw. Two Cent and a Quart, pt. 5, n. 120 
@@ -15600,7 +15600,7 @@ Microsittace ferruginous, G. R. Gr. Rand-list, ii. p. 151, n. 8165
 (1870). 
 Pyrrhura smaragdina, Rchiw. Togelbild. t. xxii. f. 3 (1878-83); id. 
 Joum.f. Orn. 1881, p. 286 (Consp. Psitt. p. 174). 
-Conurus cyanolyseos, Salvia (nee aitct), P. Z. S. 1883, p. 426 (Straits 
+Conurus cyanolyseos, Salvin (nee aitct), P. Z. S. 1883, p. 426 (Straits 
 of Magellan). 
 
 Adult male. Dull green; the crown with a slight bluish tinge ; 
@@ -20548,7 +20548,7 @@ p. 258 (part.) (1820), ii. pp. 251, 252 (part) (1821) ; Vieill Ene.
 Meth. hi. p. 1373 (1823); Spiv, Av. Bras. i. p. 4:3 (1824); Steph. 
 Gen. Zool. xiv. p. 108 (182(5); Voigt, Cm\ Uebers. p. 741 (1831) ; 
 Wagl Mon. Psitt p. 582 (1832); Wied, Beiir. iv. p. 231 (part.) 
-(1832); Ilartl Syst Verz. Ges. Mus. p. 87 (1844); Brehm, Mm. 
+(1832); Hartl.yst Verz. Ges. Mus. p. 87 (1844); Brehm, Mm. 
 d. Papag. t. 45; Burm. Sgst. Ueb. ii. p. 182 (1850). 
 L'Amazone femelle, Levaill. Perr. pi. 85 (1805). 
 Le Perroquet Meunier, Levaill. Pen*, pi. 92 (ltfOo). 
@@ -22851,7 +22851,7 @@ e'. Ad. sk. Guatemala. 0. Salvin, Esq. [C.].
 g', Ji. (S $ ad. Rio Motagua, Guatemala Salvin-Godman Coll. 
 
 sk. (Salvin). 
-i'. Ad. sk. Choacu&e, Guatemala. 0. Salvia, Esq.. [P.-]. 
+i'. Ad. sk. Choacu&e, Guatemala. 0. Salvin, Esq.. [P.-]. 
 h\ <$ ad. sk. Xicoya, Costa Rica, April Salvin-Godman Coll, 
 
 (Zeledon). 
@@ -24910,7 +24910,7 @@ d Ad. bk. Choctum, Vera Paz, Jan. Salvin-Gudman Coll.
 e. Ad. sk.
 (0. Salvin). 
 Choctum, Vera Paz, Jan. Tweeddale Coll. 
-f. Ad. sk(0. Salvia). 
+f. Ad. sk(0. Salvin). 
 Vera Paz. Salvin-Godman Coll. 
 g. Ad.sk. VeraPaz, Jan. (0. Salvin). Selater Coll. 
 A. i $ ad. bk. Yaxcaninal, Guatemala Sah in-Gudinan Coll. 
@@ -31009,7 +31009,7 @@ certainly young; so that I have not the least doubt that the same
 observation holds good for T. miilleri, although some white-billed 
 specimens living in confinement, as shown by Mr. Sclater (P. Z. S. 
 1871, p. 494), retain their white bill for a longer or shorter period. 
-Dr. Pinsch assures us that he has seen living examples in the 
+Dr. Finsch assures us that he has seen living examples in the 
 Amsterdam Zoological Gardens with the white bill changing to a red 
 colour. A specimen at present living in the aviary of the Zoological 
 Society's Gardens in London, which was registered as 1\ albirostris 
@@ -35291,7 +35291,7 @@ p. 232; Finsch, Xed. TijdscJir. Dierk. i. Berigt. p. xiii (1803);
 Rosen?). Town, f. Orn. 1804T p. 112 (partial) ; G. R. Gr. Hand-list, 
 ii. p. 138, n. 8008 (1870); Garrod, P. Z. S. 1*74, p. o>7 ; Rammy, 
 Pr. Linn. Soc. X. S. IF. ii. p. 193, n. 469 (1*781: Salvad. Orn. 
-Pap. e MoL i. p. 144 (1S80); Salvia, Cat. B. Stricht. Cull p. 459 
+Pap. e MoL i. p. 144 (1S80); Salvin, Cat. B. Stricht. Cull p. 459 
 (1882); Selai. Lis* Vert An. 6th eel. p. 324 ^artlm) il^3); 
 Broadb. Pr. R. Sue. QueensL ii. p. 124 (l^Sil, iv. p. 27 (1W) ; 
 Ramsay, Tab. List, p. 16, m 480 (l*b8j; id. Cat. Austr. Birds, 
@@ -38329,7 +38329,7 @@ throat orange-red, with the bases of feathers yellow ; quills black,
 ought to be sharply defined, is scarcely distinct, the spot on the lower nape is 
 too red, and should, be orange and less distinct, and the red patch on the throat 
 ought to be much larger. 
-t Dr. Pinsch, in his Coryllis occipitalis, besides a specimen of Loriculus 
+t Dr. Finsch, in his Coryllis occipitalis, besides a specimen of Loriculus 
 chrysonotus, as before stated, includes also a second, labelled in the British 
 Museum as L. regufos, from unknown locality. I have been able to ascertain 
 that this is the type, or a typical specimen, of L. regulm, Souance of the Massena 
@@ -44396,7 +44396,7 @@ Om. Atl, Papag. p. 76 (1836).
 
 Green, the feathers edged with blackish; head entirely white; small wing-
 coverts, some of the primaries, and the base of the tail red. 
-The bird figured by Gerini, according to Dr. Pinsch, is a variety of Ohrysotis 
+The bird figured by Gerini, according to Dr. Finsch, is a variety of Ohrysotis 
 collaria, but it appears to me to be quite different. 
 
 

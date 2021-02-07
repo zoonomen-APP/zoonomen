@@ -13,7 +13,7 @@ CATALOGUE
 
 OF THE 
 
-BIEDS 
+BIRDS 
 
 
 BRITISH MUSEUM. 
@@ -43,7 +43,7 @@ ACCIPITRES,
 
 OR 
 
-DIUBNAL BIEDS OF PREY, 
+DIUBNAL BIRDS OF PREY, 
 
 
 o r THE 
@@ -115,8 +115,8 @@ Vii i INTE0BTJCTI03S".
 
 The special thanks of the Author for valuable assistance and loan 
 of specimens are due to the Marquis of Huntly, Prof. Peters, Dr. 
-Otto Pinsch, Dr. Cabanis, Prof. Barboza du Socage, Dr. Dubois, 
-Count Salvador!, Messrs. Salvia and Godman, G. Gillett, H. E. 
+Otto Finsch, Dr. Cabanis, Prof. Barboza du Bocage, Dr. Dubois, 
+Count Salvador!, Messrs. Salvin and Godman, G. Gillett, H. E. 
 Dresser, Basil Brooke, and Canon Tristram. 
 
 It remains only to explain the affixes to the names of the persons 
@@ -124,7 +124,7 @@ from whom the specimens were obtained. "[P.]" means "Presented
 by; " «[C.]" = "Collected by;" «[E.]"="Obtained by 
 exchange." 
 
-R. B. SHAKPE. 
+R. B. SHARPE. 
 British Museum, 
 June 1,1874, 
 
@@ -641,7 +641,7 @@ rj 1. lagopus, Gm 196
 
 3. schistaeea, Swidev 216 
 
-4. plumbea, Salvia 216 
+4. plumbea, Salvin 216 
 
 5. albicollis, Lath 216 
 
@@ -767,7 +767,7 @@ f) 3. pennatus, Gm 253
 1. rnonogrammiea, Temm,. 275 
 
 a.rnonogrammiea, TVMM. 275 
-j3. rnexidionalis, Ilartl ., 277 
+j3. rnexidionalis, Hartl., 277 
 
 47. Herpetotheres, F., 277 
 
@@ -1255,7 +1255,7 @@ $ Bias. Wirb. Eur. p. 133 (1840).
 
 iEgypius cinereus, JBp. Cat. Met. TJcc. Europ. p. 17 (1842). 
 
-Polypteryx cinereus, JBJodgs. in Grafs Zool Misc. p. 81 (1844); Blyih, 
+Polypteryx cinereus, Hodgs. in Grays Zool. Misc.. p. 81 (1844); Blyih, 
 
 Ami. N. JBJ. xiii p. 115 (1844). 
 
@@ -3402,7 +3402,7 @@ Bp. Consp. i. p. 13 (1850); Gurney, Cat.
 Bapt. B. Nona. Mus. p. 24 (1864). 
 
 * Von Pelzeln's L formosus (ex Lath.) is surely nothing but the female of /. 
-americanus, witness sexed specimens in the collection of Messrs. Salvia and 
+americanus, witness sexed specimens in the collection of Messrs. Salvin and 
 Grodman. 
 12. IBrCIER. 37 
 Milvago crassirostris, Pelz. Sits. AJcad. Wien, xliv. p. 7 (1861); id. 
@@ -17478,7 +17478,7 @@ Aquila intermedia, Boitanl Ois. d'Eur. p. (1^25),
 Aquila bonellii, Less. Man. Orn. i. p. 83 <182fc); Gould, B. Eur. i. 
 
 pi. 7 (1837) ; Schl. u. Susem. Vog. Bur. Taf. 18 (163U) ; Gray, Gen. 
-B. i. p. 14 (1845) ; Bp. Consp. I p. 14 (lb5G) ; Ilartl Orn. W.-Af). 
+B. i. p. 14 (1845) ; Bp. Consp. I p. 14 (lb5G) ; Hartl.rn. W.-Af). 
 p. 3 (1857); Fritseh, Vog. Eur.T&L G.fig*. 4, 5 <15OH>; Jauh. tt 
 Barth. Lap. Pick. Orn. p. 10, pi. 4 (1859); tichl. Mu*. P.-B. Aquila?, 
 
@@ -18324,7 +18324,7 @@ Hab. Central America, and South America as far as Paraguay.
 
 a. S ad. st. Brazil. 
 b. Juv. sk. Brazil. 
-e. $ ad. st. Panama. O. Salvia, Esq. 
+e. $ ad. st. Panama. O. Salvin, Esq. 
 
 2U FALC0JTCDJ3. 
 d Juv. st.
@@ -23840,12 +23840,12 @@ p. 428.
 BAZA. m 
 Type. 
 Lophotes, Less. Traite, p. 96 (1831, nee Gioma) B. lophotes. 
-Baza, JBJodgs. J. A. S. JB. v. p. 777 (1836) B. lophotes. 
+Baza, Hodgs. J. A. S. JB. v. p. 777 (1836) B. lophotes. 
 Avieida, Sw. B. W. Afr. i. p. 104 (1887; B. cuculoides. 
 Lepidogenys, J. JS. Gray, 1839, teste G. JR. Gray, List 
 
 Gen. JB. p. 4 (1840)* B. lophotes. 
-Hytiopus, JBJodgs. J. A. S. & x. p. 27 (1841) B. lophotes. 
+Hytiopus, Hodgs. J. A. S. & x. p. 27 (1841) B. lophotes. 
 Lophastur, Blyth, J. A. S. B. xi. p. 464 (1842) B. reinwardti. 
 
 Head of Basa lophoteb. 
@@ -24123,7 +24123,7 @@ Purchased.
 
 * The type of this species is said to have come from Zanzibar; it has not been 
 met with by Dr. Kirk or any subsequent observer, and is omitted in the great 
-work on the birds of Eastern Africa by Drs. Pinsch and Hartlaub. I have, 
+work on the birds of Eastern Africa by Drs. Finsch and Hartlaub. I have, 
 however, little doubt that, if the locality should prove to be correct, the bird 
 from Zanzibar will be identical with that of South Africa. 
 2B2 
@@ -28341,7 +28341,7 @@ Le Sacre hagard, Sold. $ Versl Trait e Fauc. pi. 9 {'I80C).
 Gennaia sacer, Bp. Rev. ei Mag. de Zool. 1854, p. 536; Loehe, Expl 
 
 Set. Alger, p. 50 (1867). 
-Saker, Salvia Sf Brudr. Falconry, pi. xv. (1855). 
+Saker, Salvin Sf Brudr. Falconry, pi. xv. (1855). 
 Falco saqer, Heugl X.O.-Afr. i. p. 27 (l&ft). 
 Falco hendersoni. Hume, Ibis, 1871, p. 407; id. <§* Henders. Lahore 
 

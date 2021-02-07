@@ -1672,8 +1672,8 @@ Hah. Northern Palsearctic Eegion.
 a, b. Ad. st. Europe. Purchased. 
 
 c. Ad. sk. Siberia. Purchased. 
-d. Ad. sk. Omsk. Dr. Pinsch [C. 
-e. Ad. sk. Omsk. Dr. Pinsch [0 
+d. Ad. sk. Omsk. Dr. Finsch [C. 
+e. Ad. sk. Omsk. Dr. Finsch [0 
 i 
 
 7. Parus flavipeetus. 
@@ -7947,7 +7947,7 @@ a-f. Ad. sk. Queensland. Purchased.
 
 g. Ad. sk. Queensland. Gould Collection. 
 h. Ad. sk. Australia. Sir T. Mitchell [P/|. 
-i. Ad. sk. Australia (Cockerel!). RD. Godman and 0. Salvia, 
+i. Ad. sk. Australia (Cockerel!). RD. Godman and 0. Salvin, 
 Esqrs. [P.]. 
 
 k. Ad. sk. Port Bowen. Purchased. 
@@ -8552,7 +8552,7 @@ Hah. Madagascar.
 a,5. c?$ ad.sk N.E. Madagascar, Nov. 1865. MM. Pollen and Van Dam 
 
 c. $ 
-ad. sk. Noce Vola (Crossley). F. D. Godman and O. Salvia, 
+ad. sk. Noce Vola (Crossley). F. D. Godman and O. Salvin, 
 Esqrs. [P.], 
 3. Artamia bernieri. 
 Oriolia bernieri, Geoffroy St.-Hil. Mem. Acad. Sci. Avril 2, 1838; id. 
@@ -9393,7 +9393,7 @@ Menagr. p. 283.
 Telophorus erythropterus, Gray, Gen. B. i. p. 292 (1846). 
 Telephonus longirostris, Bp. C. A.i. p. 361; Licht. Nomencl. p. ii j 
 
-Finsch $ Ilartl Vog. Ostafr. p. 340; Heugl Orn. N.O.-Afr. 
+Finsch $ Hartl.og. Ostafr. p. 340; Heugl Orn. N.O.-Afr. 
 
 p. 472. 
 Telephonus erythropterus, Bp. C. A. i. p. 361 j Marti. Orn. Westafr. 
@@ -10235,7 +10235,7 @@ Hab. Kipini, East Africa.
 3. Bryoscopus funebris, 
 Dryoscopus funebris, Hartl. P. Z. S. 1863, p; 105; Scl. ibid. 1864, 
 p. 109; Heugl. Orn. N.O.-Afr. pp. 46, crvii. 
-Laniarius funebris, Finsch Sf Ilartl Vog. Ostafr. p. 352, Taf. iv.fig. 2. 
+Laniarius funebris, Finsch Sf Hartl.og. Ostafr. p. 352, Taf. iv.fig. 2. 
 Laniarius atrocasruleus, Rupp. in Mus. Brit. 
 General colour slaty black; wings, wing-coverts, and tail glossy 
 black, with a greenish lustre; the long fluffy feathers of the rump 
@@ -14878,7 +14878,7 @@ b. $ ad. sk. Taviuni, April 16,1875. E. L. Layard, Esq. [0.].
 c. 
 Qjuv.sk. Somo-Somo, Oct. 16, Dr. KleinschmidtTC.l. 
 1875. 
-d-f. $ ad. sk. Taviuni (Liardet). } F.D.Oodman and 0. Salvia, 
+d-f. $ ad. sk. Taviuni (Liardet). } F.D.Oodman and 0. Salvin, 
 I Esqrs. [P.]. 
 g.Ji. $ ad. sk. Taviuni (Liardet). ) (Types of species.) 
 
@@ -15172,7 +15172,7 @@ a. d ad. st. Port Essington. Oapt. W". Chambers, R.N.
 b. d ad. sk. Port Essington. Oapt. W. Chambers, R.N. 
 c. 5 ad. sk. Port Essington. J. B. Jukes, Esq. [P.]. 
 d,e. $ 
-J ad. sk. Port Essington. F. D. Godman and 0. Salvia, 
+J ad. sk. Port Essington. F. D. Godman and 0. Salvin, 
 Esqrs. [P.]. 
 
 f. $ ad. sk. N.W. Australia, May 1856. G. R. Elsey, Esq. [P.]. 
@@ -19182,7 +19182,7 @@ General Hardwicke [P.],
 c-e. Ad. sk. China. R. Swinhoe, Esq. [0.1. 
 /. Ad. sk. China. G. T. Lay, Esq.. [0.]. 
 y,^. c? $ ad. sk. Amoy, China, April F. D. Godman and 0, 
-1862 (Swinhoe). Salvia, Esqrs. [P.]. 
+1862 (Swinhoe). Salvin, Esqrs. [P.]. 
 
 i. 
 Ad.sk. Amoy, December 1859 Gould Collection. 
@@ -20748,7 +20748,7 @@ time it comes to Europe are rather abraded; consequently they
 have no real breeding-plumage. 
 
 a. [ $ 1 ad. st. Europe. R. B. Sharp©, Esq. [P.]. 
-k [$ ] ad.sk. Europe. F. D. Godman and 0. Salvia, 
+k [$ ] ad.sk. Europe. F. D. Godman and 0. Salvin, 
 Esqrs. [P.]. 
 c,d. [tf$]ad. at. France. M. Baillon [P.]. 
 <*;/• 6 2 ad. sk.; Valkenswaard, HolF. 
@@ -21444,7 +21444,7 @@ Birds N. Am. 1858, p. 354.
 Vireosylvia altiloqua, Cassin, Proc. A. N. Se. Philad. 1831, p. 152 j id. 
 Illustr. 1854, pp. 8, 221, pi. xxxvii.; Bryant, Proc. Host. Soc. v. 
 
-p. 113 (1859); Newton, Ibis, 1859, p. 145; Sclat $ Salvia, P. Z. S. 
+p. 113 (1859); Newton, Ibis, 1859, p. 145; Sclat $ Salvin, P. Z. S. 
 1864, p. 348. 
 Vireosylvia calidris, Baird, Rev. Am. B. p. 329 (1805); Sclat. § 
 Salvin, P. Z. S. 1875, p. 234; iid. Nomencl. p. 11. 

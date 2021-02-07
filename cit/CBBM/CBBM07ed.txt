@@ -33,7 +33,7 @@ PASSERIFOEMES,
 
 OK 
 
-PEBCHIM BIEDS, 
+PEBCHIM BIRDS, 
 
 
 IN THE 
@@ -394,9 +394,9 @@ Sf Menders.) 117
 13. Laticilla, Blyth 118 
 1. bumesi (Blyth) H*> 
 2. cinerascens (Wald.) . - HO 
-14. Ellisia, Ilartl 120 
+14. Ellisia, Hartl.20 
 1. ty^^JIartl 120 
-oHiliciuii, Ilartl - 121 
+oHiliciuii, Hartl. 121 
 (5. lantzij Grand 121 
 y. lqiig,LcaLidata, E. Newt. 122 
 15. Megalurus, itorsf. 1 22 
@@ -1128,7 +1128,7 @@ a. inglisi ( Hume)
 
 9. superciliosus, Vig. § H. 419 
 
-10. ruficeps, Ilartl 420 
+10. ruficeps, Hartl.20 
 
 11. rubeculus, Gould 421 
 
@@ -3222,7 +3222,7 @@ Spain.
 a. <$ ad. sk. 
 Algeria. Purchased. 
 b. S 
-ad. sk. Khifan M'Sakta, Algeria, F. D. Godman and 0. Salvia, 
+ad. sk. Khifan M'Sakta, Algeria, F. D. Godman and 0. Salvin, 
 April 12, 1857 (O. &), Esqrs. [P.]. 
 c. 
 9 ad.sk Oued Souf, Algeria, Jan. 3, P. D. Godman and 0. Salvin, 
@@ -3871,7 +3871,7 @@ b.
 2 ad. sk. Ngila, Taviuni, E. L. Layard, Esq. [C.]. 
 July 29,1875. 
 c. th 
-Ad.; e,f. Juv. sk. Taviuni (Liardet). F. Godman and O. Salvia, 
+Ad.; e,f. Juv. sk. Taviuni (Liardet). F. Godman and O. Salvin, 
 Esqrs. [P.]. 
 2. Lamprolia minor. 
 Lamprolia minor, Layard, Ibis^ 1876, pp. 155, 392 {ex Eleinschmidi, 
@@ -11177,7 +11177,7 @@ cf ad. sk. British Caffraria, July 1877 B. B. Sharpe, Esq. [P.].
 (F, A. Ban-ait). 
 />. JUV. sk. British Oaffraria, Jan. 267 B. B. Sharpe, Esq. [P.]. 
 1877 (F. A. Bmratt). 
-*. £ ad. sk. T$&tal(T.Aijres). F. D. Godman and O. Salvia, 
+*. £ ad. sk. T$&tal(T.Aijres). F. D. Godman and O. Salvin, 
 Esqrs. [P.]* 
 
 h. 
@@ -18003,7 +18003,7 @@ I. Ad. sk. Madras {Jerdon). Gould Collection,
 e. Ad. sk. Madras. Eyton Collection. 
 d. Ad. sk. Banks of the Ganges Gould Collection. (Type 
 (Jerdon). of F. cleghomice.) 
-e. Ad. sk. Dehra Doon. F. D. Godman and O. Salvia, 
+e. Ad. sk. Dehra Doon. F. D. Godman and O. Salvin, 
 Esqrs. [P.], 
 f. Ad. sk. Dehra Doon. Gould Collection. 
 °g. <$ ad. sk. Sambhur, June 11,1873. E. M. Adam, Esq. [C.]. 
@@ -18846,7 +18846,7 @@ Bp. Consp. i. p. 280 (1850); Horsf. $ Moore, Cat. B. F.I Co
 Mm. i. p. 824 (1854); Cass. Broc. Phil ad. Acad. 1850, p. 318 • 
 Ilartl. Orn. W.-Afr. p. 20,4 (1857); Swinh. Ibis, 1801, p. 329Antin. 
 Cat. deser. 'Ucc. p. 37 (1804) j Ilartl. P. Z. 8. 1807. p. 825' 
-Finsch # Ilartl Vog. Ostafr. p. 229 (1870) ; Salvad. Faun. Ital 
+Finsch # Hartl.og. Ostafr. p. 229 (1870) ; Salvad. Faun. Ital 
 Ucc.-p. 119 (1871); Sharps;Cat Afr.B.V. 29 (lSn,Vt.); Gurney, 
 inAnderss. B. Bam. Ld p. 88 (1872) ; Walden, Trans. Z. 8. \iii. 
 
@@ -20393,7 +20393,7 @@ Ibis, 18G9;p. 104 ; id. Orn. X.O.-Afr. i. p. 260 (1809).
 Oyoticola rulieeps, Ileugl. Si/st. Uebers. p. 22 (1850). 
 Drymoica leucopygia, Ileugl Si/st. Uebers. p. 22 (1856); Gray. 
 Eand-1. B. i. p". 199, no. 2794 (1809), 
-Drymoeca ruficeps Ilartl J. f. O. 1801, p. 110; Ilewjl Ibis, J 809, 
+Drymoeca ruficeps Hartl.. f. O. 1801, p. 110; Ilewjl Ibis, J 809, 
 
 p. 10:]; Warpe, Cat. Afr. B.y.ZQ (1871); Antin. tttialvad, Viagg. 
 Bogosj p. 10h (lh73).' 
@@ -21777,7 +21777,7 @@ a, b. Ad. sk. Brisbane, Queensland, F. DtiCane Godman and
 e. Ad.; d. Juv. sk.
 (Cocherell). 
 Eichmond river. 
-0. Salvia, Esqrs. [P.]. 
+0. Salvin, Esqrs. [P.]. 
 Mr. A. P. Goodwin [C.]. 
 
 3. Sericornis frontalis. 
@@ -21944,7 +21944,7 @@ Hob. Prom Kew South Wales northwards along the east coast as
 far as Port Denison. 
 
 a, I, c. Ad. j d. Brisbane, Queensland F. DuCane Godman and 0. 
-Juv. sk. (J. T. Coekerell). Salvia, Esqrs, [P.]. 
+Juv. sk. (J. T. Coekerell). Salvin, Esqrs, [P.]. 
 e. Ad. sk. River Hunter (Gould). Eyton Collection. 
 
 6, Sericornis arfakiana. 
@@ -25196,7 +25196,7 @@ d, e. Ad.; /, g. Nepal. B. II. Hodgson, Esq. Hp~,
 Juv. sk. 
 
 h, i. Ad. sk. Nepal (Hodgson). India Museum. 
-k, I Ad. sk. Darjiling (Secies). F. D. Godnxan and 0. Salvia, 
+k, I Ad. sk. Darjiling (Secies). F. D. Godnxan and 0. Salvin, 
 E^qi-s. "P.". 
 
 m. Ad. bk. Sikhim (Jfaadelli). H. Seebohm, Esq. T.] . 
@@ -29582,7 +29582,7 @@ tail 4, tarsus 1*5.
 Hab. Island of Formosa. 
 
 a. Ad. sk. Noith Formosa, April 1862. R Swinhoe, Esq. [0.]. 
-b. Ad. sk. North Formosa (J2. Sicinhoe). F. D. Godman and 0. Salvia, 
+b. Ad. sk. North Formosa (J2. Sicinhoe). F. D. Godman and 0. Salvin, 
 Esqrs. [P.]. 
 £, d. Ad. sk. North Formosa (R. Swinhoe). II. Seebohm, Esq. [P.]. 
 
@@ -32777,7 +32777,7 @@ Hand-l B. i. p. 2*0. no. 4142 {18U1M: *Sk/r^, CW. ^/>-. i?. p. 24
 (1871); «/. ^/. Bayard's B. S. Afr. p. 214 (1&73): Socage, Orn. 
 Angola, p. 252, tab. 1. lis-. 1 f 1877}. 
 
-Crateropus &enex7 Fittbch $ Ilartl Tog. Ostc/fr. p. 200 (1868). 
+Crateropus &enex7 Fittbch $ Hartl.og. Ostc/fr. p. 200 (1868). 
 
 Adult. General colour above earthy brown, with paler margins to 
 most of the feathers; wing-coverts like the back, the median and 
@@ -37606,7 +37606,7 @@ Hah. Java.
 
 a. (S ad. sk. East Java. A. E. Wallace, Esq. i~C 1 
 b. Ad. sk. West Java (E. C. Buxton). F. Nicholson, Esq. |P.]. 
-c. (S ad. sk. Java (Diard). F. D. Godman and I). Salvia, 
+c. (S ad. sk. Java (Diard). F. D. Godman and I). Salvin, 
 Esqrs. [P.]. 
 2. Drymocataphus nigricapitatus, 
 Brackypteryx nigro-capitata, Eyion, P. Z. 8. 1839, p. 103; Bh/fh, 

@@ -33,7 +33,7 @@ PASSERIFORMES,
 
 OK 
 
-PEEOHING BIEDS, 
+PEEOHING BIRDS, 
 
 
 I N THE 
@@ -1230,7 +1230,7 @@ BartL 444
 
 6. aureiflavus (Smith) .. 446 
 
-7. xanthops, Ilartl 447 
+7. xanthops, Hartl.47 
 
 8. jamesoni, Sharpe .... 447 
 
@@ -13077,7 +13077,7 @@ cheeks and under surface of body white, stieaked with greenish
 black on the lower throat, fore neck, sides of body, flanks, and 
 under tail-coverts. 
 
-Dr. Pinsch has no doubt, from his own personal observations, that 
+Dr. Finsch has no doubt, from his own personal observations, that 
 the specimens with white under surfaces are by no means always 
 young birds, as they breed in this dress, and gain the full plumage 
 by a change of feather, and by the wearing away of the edges themselves, 
@@ -15202,7 +15202,7 @@ F. BohndorfT [C.].
 30. CINNAMOPTEEUS. 
 Type. 
 Cinnamopterus, Bp. C. B. xxxvii. p. 830 (1853) C. tenuirostris. 
-Oligomyodrus, Ilartl J. f 0. 1859, p. 34 (ex ScJiiff, 
+Oligomyodrus, Hartl.. f 0. 1859, p. 34 (ex ScJiiff, 
 
 Mm, Frankfi) 
 Q. tenuirostris. 
@@ -24813,7 +24813,7 @@ ilesh-eolour. Total length 4-" (}"' to 4" 8'", oilmen 4i'" to 5'", wing
 I/ab. Western Abyssinia. 
 
 3. Pytelia hypogrammica. (Plate XII. fig. 2.) 
-Pytelia afra (nee Gnu), Ilartl Orn. W.-Afr. p. 145 (1857). 
+Pytelia afra (nee Gnu), Hartl.rn. W.-Afr. p. 145 (1857). 
 Pytelia hypogrammica, Sharpe, Ibis, 1870, p. 50; id. Cat Afr. B, 
 "p. 07(1*71); Shelley $ Buckley, Ibis, 187:2, p. 289; Shelley, Ibb9 
 188.'), p. 553 ; id. Ibis, 1880, p. 320. 
@@ -25378,7 +25378,7 @@ Frbgilk funerea, Be Tarrag. JRei\ ZooL 1847, p. ISO.
 
 Tiaris funerea. Gray, Gen. B. ii. p. 375 (1849j. 
 
-Hvpochaera ultramarina, Ilartl Orn. W.-Afr. p. 14!J (l^-">7j; Fisher, 
+Hvpochaera ultramarina, Hartl.rn. W.-Afr. p. 14!J (l^-">7j; Fisher, 
 
 >./. 0.1583, p. 135: Reichen. J.f. 0. LSST. p. 70. 
 Hypoeiisera purpuraseen-, lieieke/i. J. f. O. leb-1, p. 221; FL«ekerf 
@@ -32241,8 +32241,8 @@ q Ad sk. Cameroons. Sharpe Coll.
 PLOOEIDJJ!. 
 
 10. Estrilda nonntila. 
-Astrilda nomiula, Ilartl J.f 0.1863, p. 425. 
-Estrelda nonnula, Shelley, Ibis, 188G, p. 330; Ilartl Zool Jahrb. ii. 
+Astrilda nomiula, Hartl..f 0.1863, p. 425. 
+Estrelda nonnula, Shelley, Ibis, 188G, p. 330; Hartl.ool Jahrb. ii. 
 
 
 p. 321, pi. xiii. fig. 5 (1887) ; Shelley, P. Z. S. 1888, p. 31; Ilartl. 
@@ -36095,7 +36095,7 @@ Ploceus solitarius, Pr. Wiirtt; Heugl J.f. 0.1867, p. 297.
 Hyphantornis abyssinicn^ Finsch, Tr. Z. S. vii. p. 201 (1870); Gray, 
 
 Ilanchl B. ii. p. 41, no. 0576 (1870); Finsclify Hartl. Tog. Ostafr. 
-p. 388 (1870) ; Ilartl Abhandl not. Ter. Bremen, vii. p. 99 
+p. 388 (1870) ; Hartl.bhandl not. Ter. Bremen, vii. p. 99 
 (18S1); Pelz. Terh. z.-b. Ges. Wien, xxxi. p. 612 (1881), xxxii. 
 
 p. 505 (1882); Salcad. Ann. Mus. Genov. (2) i. p. 187 (1884), vi. 
@@ -40201,7 +40201,7 @@ Layards B. S. Afr. p. 445 (1884) ; Biittik. Notes Leydan Mm. xi.
 
 p. 74 (1889). 
 Alecto erytkrorhynehus, Bp. Comp. i. p. 438 (1850). 
-Textor niger, Striclcl $ Scl Contr. Orn. 1852, p. 150; Salvia, Cat. 
+Textor niger, Striclcl $ Scl Contr. Orn. 1852, p. 150; Salvin, Cat. 
 StricM/Coll. ?. 24Q {18*2). 
 
 Alecto panicivorus, Mull J.f. O. 1855, p. 460. 

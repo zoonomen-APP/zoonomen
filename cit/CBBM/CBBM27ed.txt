@@ -93,7 +93,7 @@ specimens which are now regarded as referable to species previously
 named and described. 
 
 The unrivalled collection of Tinamous formed by Messrs. Godman 
-and Salvia, and supplemented by the loan of numerous specimens 
+and Salvin, and supplemented by the loan of numerous specimens 
 from Continental Museums, has enabled the author to discriminate 
 considerably more species than his predecessors were inclined to 
 admit. 
@@ -1747,7 +1747,7 @@ Consp. Gen. Av. ii. p. 146 (part.) (1855); id. Com<pt. Rend. xl.
 
 p. 724, n. 144 (1855), xliii. pp. 992, 993 (1856) (Abyssinia, 
 Algeria, Spain, Slrasburg!); Heugl. Syst. Tlebers. p. 6o. n. 677 
-(1856) (Abyssinia) ; Ilartl Syst. Orn. W.-Afr. p. 245 (1857) (St. 
+(1856) (Abyssinia) ; Hartl.yst. Orn. W.-Afr. p. 245 (1857) (St. 
 Thome'); Loche, Cat. 31 et 0. Alger, p. 104 (1858) (Oran et 
 Constantine) ; Heugl Ibis, 1859, p. 348 (Eed Sea, Dakalak, 
 Massaua, Assab) ; Cass. Pr. Acad. Philad. 1859, p. 175 (youn«-, 
@@ -7140,7 +7140,7 @@ Anser -vulgaris, Pall. Zoogr. Rosso-As. ii. p. 222 (part.) (1811).
 Anser ferus, Steph. Gen. Zool. xii. 2, p. 28, pi. 41 (1824); Gould, B. 
 Eur. pi. 347 0837) ; Ft/t Mon. Anat. p. 93 (1838) ; G. R. Gr. 
 List Gen. B. p. 73 (1840); id. List B. Brit. Mus. iii. p. 129 
-(1844); id. Gen. B. iii. p. 607, n. 1 (1844) ; Ilartl Syst Verz. 
+(1844); id. Gen. B. iii. p. 607, n. 1 (1844) ; Hartl.yst Verz. 
 Ges. Mus. p. 117 (1844); Strickl. Ann. <§• Mag. N. H (3) iii. 
 pp. 122, 124 (1859); G. R. Gr. Cat. Brit B. p. 186 (1863) ; 
 ? Boie, J.f 0. 1863, p. 61; Sclat. P. Z. S. 1869, p. 629 ; Fyt Syn. 
@@ -12830,7 +12830,7 @@ b. Wing-coverts black, with a metallic green lustre. Jubatusi, p. 169.
 to Dumont (Diet. Sc. Nat. viii. p. 393), who, however, only mentions the word 
 Chenalopex as a nomen vulgare used by Aristoteles and as a generic term used 
 by Moehring. 
-t Pollowing Sclater and Salvia, I have left Anser jubatus, Spix, in the genus 
+t Pollowing Sclater and Salvin, I have left Anser jubatus, Spix, in the genus 
 Chenalopex, but I have some doubt about its being congeneric with C. agyptiacus. 
 
 24 . CHBtfALOPEX. 
@@ -34740,7 +34740,7 @@ of the rump just below the wings; edge of the wing and under
 wing-coverts whitish (Sardinia, Mus. Turin). 
 
 Bab. From the basin of the Mediterranean to Turkestan; 
-according to Pinsch, also Southern Siberia; North-western India 
+according to Finsch, also Southern Siberia; North-western India 
 in winter; accidental in Germany and Holland* 
 
 «-/• 6 $ ad. et No locality. Purchased. 
@@ -40651,7 +40651,7 @@ Salvin-Godman Coll.
 3 . CKYPTI7KUS. 
 52& 
 i' -n\ 5 ad* et ad. Cboctum, Guatemala, Jan. Salvin-Godman Coll. 
-sk. (0. Salvia,). 
+sk. (0. Salvin,). 
 
 o'. $ ad. sk. Plaja Vicente, April 1859. Salvin-Godman Coll. 
 (Type of Tinamus meseiythrus, Sclat.) 

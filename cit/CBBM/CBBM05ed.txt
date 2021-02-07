@@ -2234,7 +2234,7 @@ from Siberia and India agree in wing-formula &c. with the European
 form. Examples ftom Egypt, Palestine, and Asia Minor agree 
 in colour and size with small specimens of the Himalayan form. 
 
-a, b. Ad. sk South England. F. Godman and O. Salvia, 
+a, b. Ad. sk South England. F. Godman and O. Salvin, 
 Esqrs. [P.]. 
 c Ad. st. Near London. W. Yarrell, Esq. [P.]. 
 
@@ -2528,7 +2528,7 @@ a, b. <$ ad. sk. Sardinia, Mar. 6, April 24 R. B. Skarpe, Esq. [P.l.
 (A. B. Brooke). 
 c. Ad. sk. Palestine. Canon 
 Tristram [C.]. 
-d. Jad.sk . Algeria, May (0. Salvin). F.GodmananclO. Salvia, 
+d. Jad.sk . Algeria, May (0. Salvin). F.GodmananclO. Salvin, 
 Esqrs. [P.]. 
 e. Ad. sk. Tangier (Favier). Purchased. 
 / . <$ ad. sk. Teneriffe, April 8 (F. GodF.
@@ -3373,7 +3373,7 @@ TU RAID-IS.
 
 el Juv.; <?,/. Tunis. L. Fraser, Esq. [0.]. 
 Ad. sk. 
-(f, h. 2 ad. sk. Ghemora, Pro v. of Constau- F. Godman and 0. Salvia, 
+(f, h. 2 ad. sk. Ghemora, Pro v. of Constau- F. Godman and 0. Salvin, 
 tino, Algeria, May 19,1857 E^qrs. [P.]. 
 
 (0. S.). 
@@ -8608,7 +8608,7 @@ Esqrs. [P.].
 
 g. 6 ad. sk. Near Gibraltar, May 7,1874. Col. Irby I P.J. 
 h. 
-Ad. sk. Zana, Algeria (0. S.). F. Godman and 0. Salvia, 
+Ad. sk. Zana, Algeria (0. S.). F. Godman and 0. Salvin, 
 Esqrs. [P.]. 
 4. Locustella ochotensis. 
 Sylvia (Locustella) certhiola (Pall.) apud Midd. Sib. Beis. ii. p. 184 
@@ -12608,7 +12608,7 @@ a. Ad. st. Java.
 Purchased. 
 h. Ad. sk. Java. 
 A. R. Wallace, Esq. [C.]. 
-c. Ad. sk. Java. F. Godman and O. Salvia, 
+c. Ad. sk. Java. F. Godman and O. Salvin, 
 Esqrs. [P.]. 
 d. Ad. sk. Java. [Erroneously labelled India Museum. 
 " Assam; McClelland:1'] 
@@ -14798,7 +14798,7 @@ r rf ad.sk. Stockholm, May 21,1873. W. Meves, Esq. [0.].
 * Juv.sk. Waxholm, July IS, 1873. W. Meves, Esq. \0.\ 
 i $ ad. sk. Skfine, May 9/1868 (W. R. B. Sharpe, Esq. [P.]. 
 Meves). 
-u Q ad, ?; Juv. Eidsvold, S. Norway, F. Godman and 0. Salvia, 
+u Q ad, ?; Juv. Eidsvold, S. Norway, F. Godman and 0. Salvin, 
 ' s | . June 1866 {J. Maker). Esqrs. [P.]. 
 w x. Ad. sk. N. Africa. Purchased. 
 v\ r? 9. ad. sk. Balta Ziman, Turkey, P. B. Sharpe, Esq. [P.]. 
@@ -17422,7 +17422,7 @@ acLk Ne?al (md#80n)'
 I m. 6 2 « ^ Museum. 
 4, o.| | ad. ak. Nepal. B H.Hodgson, Esq. fP.]
 » 9 ad sk. Darjiling (Pfforww). India Museum. 
-a 9 ad' sk. Darjiling (Eccles). F. Godman and 0. Salvia, 
+a 9 ad' sk. Darjiling (Eccles). F. Godman and 0. Salvin, 
 
 
 * * 
@@ -18101,7 +18101,7 @@ c. S acl. fik.
 Guatemala. 
 Purchased. 
 Purchased. 
-d. e. c? ad. sk. Guatemala. Osbert Salvia, Esq. [C.J. 
+d. e. c? ad. sk. Guatemala. Osbert Salvin, Esq. [C.J. 
 
 27. Hernia pritzhueri. 
 Turdus priizhueri, Layard, Ann. Nat. Hist. i. p. 374 (1878) ; id. Ibis, 
@@ -18536,7 +18536,7 @@ p. 219 (1847); Bp. Consp. i. p. 270 (1850).
 Turdus naumannii, Temm., apud Gould, B. Eur. ii. pi. Ixxix. (1837), 
 apud Temm. Man. d'Orn. iv. p. 004 (1840), apud Hodgs. M8. 
 Drawings (in the Brit. Mus) of Birds of Nepal, Passeres, pi. 152. 
-no. 790, wide Ilodgs. Grafs Zool Misc. p. 83 (1844), amid Bh/tK 
+no. 790, wide Ilodgs. Grays Zool. Misc.. p. 83 (1844), amid Bh/tK 
 Cat B. Mvs. A. S. B. 1849, p. 101. J ' 
 
 Cychloselys fuscatus (Pall), Bp. Cat. Parzud. p. 5 (1850). 
@@ -19776,7 +19776,7 @@ Bahama Islands in the West Indies, being ospocially abundant on
 New Providiance and Ahaco. 
 
 The British Museum does not possess an example of this species, 
-Skins are in the collections of Dr. Sclater, Messrs. Salvia and Godinan, 
+Skins are in the collections of Dr. Sclater, Messrs. Salvin and Godinan, 
 and in my own. 
 
 2. Mimocichla ardesiaca. 
@@ -19876,7 +19876,7 @@ The Cuban Mocking-bird Thrush appears to be confined to the
 island of Cuba. 
 
 The British Museum does not possess an example of this species ; 
-bnt skins are in the collections of Dr. Sclater, Messrs. Salvia and 
+bnt skins are in the collections of Dr. Sclater, Messrs. Salvin and 
 Godman, and in my own. 
 
 5. CATHARTJS. Type. 
@@ -20658,7 +20658,7 @@ Abyssinia.
 
 a. Ad. st. England. X Gould, Esq. [P.]. 
 b. Ad. st. Bayswater, London. J. F. Stevens, Esq. [P.]. 
-c. d. Ad. sk. Middlesex. P. Godman and O. Salvia 
+c. d. Ad. sk. Middlesex. P. Godman and O. Salvin 
 Esqrs. [P.]. 
 e,f,g,7i. Juv. st. Cambridgeshire. Mr. J. Baker [C.]. 
 *,&. c?$ ad.; J, Leicestershire. Theodore Walker, Esq. 
@@ -21052,20 +21052,20 @@ S. Michael's, Azores,
 March 1865 (F. G.). 
 England. 
 II. Saunders, E^q. [P.]. 
-E. Godman and 0. Salvia, 
+E. Godman and 0. Salvin, 
 Esqrs. [P.]. 
 E. Godman and 0. Salvin, 
 Esqrs. [P,J. 
 Canon Tristram [C.]. 
 E. Godman and 0. Salvin, 
 Esqrs. [P.]. 
-F. Godman and 0. Salvia, 
+F. Godman and 0. Salvin, 
 Esqrs. [P.]. 
 F. Godman and 0. Salvin, 
 Esqrs. [P.]. 
 E. Godman and 0. Salvin, 
 Esqrs. [P.], 
-F. Goclmau and 0. Salvia, 
+F. Goclmau and 0. Salvin, 
 Esqrs, [P.], 
 Purchased. 
 
@@ -21685,7 +21685,7 @@ Northern Cashmere, occasionally crossing Behring's Straits into
 Alaska. It winters in North Africa as far south as Abyssinia, and 
 in India and South China. 
 
-<?, b. <$ ad. sk Bodo, Norway, June 1857 F. Godman and O. Salvia, 
+<?, b. <$ ad. sk Bodo, Norway, June 1857 F. Godman and O. Salvin, 
 
 (F. 6-'.). 
 Esqrs. [P.]. 
@@ -21849,9 +21849,9 @@ It passes through Southern Europe on migration, and winters in
 Palestine and North Africa. Stray examples have been known to 
 wander as far east as Persia and India. 
 
-a,b. <5 2 ftd. j o, Holland (J. Baker). F. Godman and O. Salvia , 
+a,b. <5 2 ftd. j o, Holland (J. Baker). F. Godman and O. Salvin , 
 Juv. sk. Esqrs. [P.]. 
-d, e. S 2 ad. sk. Valkensvaard, Holland F. Godman and O. Salvia, 
+d, e. S 2 ad. sk. Valkensvaard, Holland F. Godman and O. Salvin, 
 
 (J. Baker). Esqrs. [P.], 
 f 9-6 2 a(^-sk-Holland. Purchased in London market. 
@@ -23698,7 +23698,7 @@ synonyms can be of no importance save to the ornithological pedant.
 
 i. 
 p. lbO (1846); Bp.Consp. i. p. 290(1850); Cab. Mus. Ilein. 
-i. p. 2 (1850) ; Moore, P. Z. S. 1854, p. 25; Ilartl Orn. W.-Afr. 
+i. p. 2 (1850) ; Moore, P. Z. S. 1854, p. 25; Hartl.rn. W.-Afr. 
 p. 68 (1857); Jaub. et Barth.-Lapomm. Mich. Orn. p. 230 (1859) ; 
 Newt. List B. Eur. Blasius, p. 10 (1862) ; Jerd. B. Bid. ii. p. 130 
 (1863); Filippi, Viagg. Pers. p.347 (1865); Begirt Gerbe,Om.Biir. 
@@ -24332,7 +24332,7 @@ occurred in Egypt. Nothing is known of its migrations.
 
 a. J ad. sk. Af ka, Lebanon. Canon Tristram [C.]. 
 b. <$ ad. sk. Below Ainat, Lebanon. Canon Tristram [C.]. 
-c. Juv. sk. Ainat, Lebanon (Tristram). F. Godman and O. Salvia, 
+c. Juv. sk. Ainat, Lebanon (Tristram). F. Godman and O. Salvin, 
 Esqrs. [P.], 
 7. Euticilla hodgsoni. 
 Phoenicura reevesii, Gray, apud Bluth, J. A. S. Benq. xii. r>. 963 
@@ -28232,7 +28232,7 @@ h 1-6 2 ad. sk. Beersheba, Palestine. Canon Tristram [O.].
 m. <$ ad. sk. 
 Beersheba, Palestine, Feb. F. Godman and O. Salvin, 
 3, 18U (Tristram). E^qrs. [P.]. 
-»; o- cT 2 ad. sk. Anascha, Taurus, Asia E. Godman and 0. Salvia, 
+»; o- cT 2 ad. sk. Anascha, Taurus, Asia E. Godman and 0. Salvin, 
 Minor, March 1870 Esqrs. [P.]. 
 
 (C. G. Danford). 
