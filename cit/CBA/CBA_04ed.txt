@@ -7346,7 +7346,7 @@ b In coloration, this species bears a remarkable likeness to Limnornis curvirost
 
 
 
-Sylviorthorhynchus desmurii DssMuRS in Gay, Hist. fis. pol. Chile, Zool., 
+Sylviorthorhynchus desmurii DesMurs in Gay, Hist. fis. pol. Chile, Zool., 
 
  p. 316, Orn. pi. 3, 1847 Prov. Valdivia, particularly near Corral, Chile 
 
@@ -7358,7 +7358,7 @@ Sylviorthorhynchus desmurii DssMuRS in Gay, Hist. fis. pol. Chile, Zool.,
 
 
 
-Sylviorthorhynchus malur aides DssMuRS, Iconog. ornith., livr. 8, pi. 45 [ = 46], 
+Sylviorthorhynchus malur aides DesMurs, Iconog. ornith., livr. 8, pi. 45 [ = 46], 
 
  1847; idem, in Chenu, Encycl. Hist. Nat., 3, p. 155, 1852 Chile; HARTLAUB, 
 
@@ -18355,7 +18355,7 @@ Synnalaxis (sic) humicola KITTLITZ, Me"m. Ac. Sci. St. Petersb., (sav. tr.), i,
 
 Synallaxis humicola D'ORBIGNY, Voyage Ame"r. me'rid., Ois., p. 245, 1839 
 
- part, Valparaiso; DARWIN, Zool. Beagle, 3, p. 75, 1839 Valparaiso; DssMuRS 
+ part, Valparaiso; DARWIN, Zool. Beagle, 3, p. 75, 1839 Valparaiso; DesMurs 
 
  in Gay, Hist. fis. pol. Chile, Zool., i, p. 288, 1847 Chile; SCLATER, P. Z. S. 
 
@@ -37069,7 +37069,7 @@ to Matto Grosso (Cuyaba, Sao Luis de Caceres, Caicara, Villa Bella de
 
 Dendroplex picirostris LAFRESNAYE, Rev. Zoo]., 10, p. 76, 1847 Rio Hacha, Col- 
 
- ombia (type examined); DssMuRS, Iconog. ornith., livr. 9, pi. 51, 1847 
+ ombia (type examined); DesMurs, Iconog. ornith., livr. 9, pi. 51, 1847 
 
  Rio Hacha (figure of type); LAFRESNAYE, Rev. Mag. Zool., (2) 2, p. 596 
 
@@ -44558,7 +44558,7 @@ Range: French, Dutch, and British Guiana; southern Venezuela (on
 
 
 
-Glyphorhynchus castelnaudii DssMuRS in Castelnau, ExpeU Am<r. Sud, Zool., 
+Glyphorhynchus castelnaudii DesMurs in Castelnau, ExpeU Am<r. Sud, Zool., 
 
  i, livr. 18, Ois., p. 47, pi. 15, fig. 2, 1856 Santa Maria, lower Huallaga, Peru 
 

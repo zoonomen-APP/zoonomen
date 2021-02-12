@@ -1,6 +1,10 @@
 #...; 2019.01.26
 # make pass.html and update numfiles
 #prevent pass.html from being copied to ./numfile
+#
+# run date script to put date and time in c:/txt/d1
+
+c:/zoonomen/avtax/tools/date.sh
 mv pass.html pass.html.tmp
 #copy any new files to ./numfile ; the -u argument copies only newer files
 # or files that do not exist in target directory.
