@@ -1,3 +1,4 @@
+#2021.02.12 initial edits.
 s/NuTTALL/NUTTALL/g
 s/rARDINE/JARDINE/g
 s/bHARPE/SHARPE/g
