@@ -340,7 +340,7 @@ Genus 3. Pyrrhuphonia Bonaparte 31
 
 
 
-17. Pyrrhuphonia Jamaica (Linnseus) '. 31 
+17. Pyrrhuphonia Jamaica (Linnaeus) '. 31 
 
 
 
@@ -416,7 +416,7 @@ Key to the Species and Subspecies of Calospiza 36
 
 
 
-Genus 6. Tanagra Linnseus - 54 
+Genus 6. Tanagra Linnaeus - 54 
 
 
 
@@ -1172,7 +1172,7 @@ Key to the Species and Subspecies of Icterus „ _ 257
 
 
 
-44. Icterus icterus (Linnseus) 263- 
+44. Icterus icterus (Linnaeus) 263- 
 
 
 
@@ -1204,7 +1204,7 @@ Key to the Species and Subspecies of Icterus „ _ 257
 
 
 
-52. Icterus dominicensis (Linnseus) 273 
+52. Icterus dominicensis (Linnaeus) 273 
 
 
 
@@ -1212,7 +1212,7 @@ Key to the Species and Subspecies of Icterus „ _ 257
 
 
 
-54. Icterus spurius (Linnseus) 275 
+54. Icterus spurius (Linnaeus) 275 
 
 
 
@@ -1525,7 +1525,7 @@ Key to the Species of Cyanerpes 385
 
 
 
-4. Cyanerpes cyaneus (Linnseus) 386 
+4. Cyanerpes cyaneus (Linnaeus) 386 
 
 
 
@@ -1670,7 +1670,7 @@ Genus 1. Mniotilta Vieillot 431
 
 
 
-1. Mniotilta varia (Linnseus) 432 
+1. Mniotilta varia (Linnaeus) 432 
 
 
 
@@ -1706,7 +1706,7 @@ Key to the Species and Subspecies of Helminthophila 446-
 
 
 
-5. Helminthophila chrysoptera (Linnseus) 448- 
+5. Helminthophila chrysoptera (Linnaeus) 448- 
 
 
 
@@ -2656,7 +2656,7 @@ Calospiza Gray
 
 
 
-Tnnagra Linnseus 
+Tnnagra Linnaeus 
 
 
 
@@ -7405,7 +7405,7 @@ Aglaia (not of Renier, 1804, nor of Eschscholz, 1825) Swainson, Zool. Jour., iii
 
 
 
-Calospiza Gray, List Gen. Birds, 1840, 44. (Type, Tanagra tricolor Linnseus.) 
+Calospiza Gray, List Gen. Birds, 1840, 44. (Type, Tanagra tricolor Linnaeus.) 
 
 
 
@@ -7433,7 +7433,7 @@ Chrysothraupis Bonaparte, Rev. et Mag. de Zool., iii, Mar., 1851, 142. (Type,
 
 Ixothraupis Bonaparte, Rev. et Mag. de Zool., iii, Mar., 1851, 143. (Type, 
 
- Tanagra. punctata Linnseus. ) 
+ Tanagra. punctata Linnaeus. ) 
 
 
 
@@ -8583,7 +8583,7 @@ AgUia gyrola (not Tanagra gyrola Linnaeus) Lapresnaye and D'Orbigny, Mag.
 
 de Zool., 1837 (Synopsis Avium, i, p. 32). 
 
- Tanagra gyrola (not of Linnseus) D'Okbigny, Voy. Amer. M6rid., Ois., 1839, 272. 
+ Tanagra gyrola (not of Linnaeus) D'Okbigny, Voy. Amer. M6rid., Ois., 1839, 272. 
 
  Callospiza gyrola Tschudi, Wiegmann's Archiv. fiir Naturg., 1844, 286 (Peru); 
 
@@ -9340,7 +9340,7 @@ Calliste larvata (not of Du Bus) Sclatek, Jardine's Contr. Orn., 1851, 64 (Chi-
 
  de Cartago, Jimenez, Trojas de Puntarenas, and Pozo Azul de Pirris, Costa 
 
- Rica).— RiDGWAY, Proc. U. S. Nat. Mus., x, 1887, 585 (Segovia R., Hon- 
+ Rica).— RIDGWAY, Proc. U. S. Nat. Mus., x, 1887, 585 (Segovia R., Hon- 
 
  duras). — Richmond, Proc. IT. S. Nat. Mus., xvi, 1893, 488 (Rio Escondido, 
 
@@ -9703,7 +9703,7 @@ Tanagra Linn.,eus, Syst. Nat., ed. 12, i, 1766, 313. (Type, by elimination, T.
 
 
 
-episcopus Linnaeus or T. sayaca Linnseus.) 
+episcopus Linnaeus or T. sayaca Linnaeus.) 
 
  Thraupis BoiE, Isis, 1826, 947. (Type, Tanagra archepiscopus Desmarest, = T. 
 
@@ -10056,7 +10056,7 @@ Tamf/m cana ScLATEE, Proc. Zool. Soc. Lond., 1855, 157 (Bogota, Colombia);
 
  Beelepsch, Proc. Zool. Soc. Lond., 1885, 81 (Yaguachi, w. Ecuador). — 
 
- RiDGWAY, Proc. U. S. Nat. Mus., x, 1887, 580, 585 (Truxillo and Segovia R., 
+ RIDGWAY, Proc. U. S. Nat. Mus., x, 1887, 580, 585 (Truxillo and Segovia R., 
 
  Honduras). — Zeledon, Anal. Mus. Nac. Costa Rica, i, 1887, 109 (Alajuela, 
 
@@ -10106,7 +10106,7 @@ Tanagra episcopus (not of Linnaeus) Bonaparte, Proc. Zool. Soc. Lond., 1837,
 
 
 
-Tanagra sayaca (not of Linnseus) Bonapaete, Rev. Zool., 1851, 170; Note sur 
+Tanagra sayaca (not of Linnaeus) Bonapaete, Rev. Zool., 1851, 170; Note sur 
 
  lesTang., 1851, 21. 
 
@@ -11028,7 +11028,7 @@ Spindalis bUineatus Jardine and Selby, Illustr. Orn., new ser., 1836, pi. 9.
 
 
 
-Tanagra zena (not Pringilla zena Linnseus) Gosse, Birds Jamaica, 1847, 231. 
+Tanagra zena (not Pringilla zena Linnaeus) Gosse, Birds Jamaica, 1847, 231. 
 
 
 
@@ -11563,7 +11563,7 @@ Birds W. I., 1885, 11.
 
  Tanagra (Spindalis) pretrei Gundlach, Journ. fiir Orn., 1871, 266, 275. 
 
- Tanagra zena (not Fringilla zena Linnseus) Vigors, Zool. Journ., iii, no. xi, Dec, 
+ Tanagra zena (not Fringilla zena Linnaeus) Vigors, Zool. Journ., iii, no. xi, Dec, 
 
 
 
@@ -12072,7 +12072,7 @@ Piranga "Vieii-lot, Ois. Am. Sept., i, 1807, p. iv. (Type, Musdcapa rubra
 
 
 
-Linnseus. ) 
+Linnaeus. ) 
 
  Pyranga (emendation) Vieillot, Analyse, 1816, 32. 
 
@@ -12624,7 +12624,7 @@ Piranga erythrocephala, adult female (p. 102)
 
 
 
-PIRANGA RUBRA RUBRA (Linnseus). 
+PIRANGA RUBRA RUBRA (Linnaeus). 
 
  SUMMER TANAGER. 
 
@@ -16256,7 +16256,7 @@ Tanagra hranilia Linnijeus. )
 
  Jacapa Bonaparte, Eev. et Mag. de Zool., iii. Mar., 1851, 178. (Type, Tanagra 
 
- jacapa Linnseus. ) 
+ jacapa Linnaeus. ) 
 
 
 
@@ -29005,7 +29005,7 @@ stein, manuscript; coll. Berlin Mus.). — Bonaparte, Consp. Av., i, 1850, 426.
 
 
 
-RiDGWAY, Man. N. Am. Birds, 1887, 367, part. 
+RIDGWAY, Man. N. Am. Birds, 1887, 367, part. 
 
  Mololhrus snms Oassin, Proc. Ac. Nat. Sci. Phila., 1866, 18, part (Mazatlan).— 
 
@@ -30601,7 +30601,7 @@ Quiscalus versicolor Vieillot, Nouv. Diet. d'Hist. Nat., xxviii, 1819, 488 ("Nor
 
  45, pi. 5, fig. 1; Ann. Lye. N. Y., ii, 1828, 54; Geog. and Comp. List, 1838, 
 
- 28. — NuTTALL, Man. Orn. U. S. and Canada, i, 1832, 194, part. — Audubon, 
+ 28. — NUTTALL, Man. Orn. U. S. and Canada, i, 1832, 194, part. — Audubon, 
 
  Orn. Biog., i, 1831, 35, part, pi. vii, fig. 1; v, 1839, 481, part; Synopsis, 1839, 
 
@@ -30627,7 +30627,7 @@ IQutscalusI versicolor Bonaparte, Consp. Av., i, 1850, 424.
 
 
 
-Gracula barita (not of Linnseus) Ord, Journ. Ac. Nat. Sci. Phila., i, 1818, 254. 
+Gracula barita (not of Linnaeus) Ord, Journ. Ac. Nat. Sci. Phila., i, 1818, 254. 
 
 
 
@@ -31903,7 +31903,7 @@ Quiscalus versicolor (not of Vieillot) Vigors, Zool. Journ., iii, no. xi, 1827,4
 
 (Cuba). 
 
- Quiscalus harytus (not Gracula harita Linnseus) D'Orbigny, in La Sagra's Hiat. 
+ Quiscalus harytus (not Gracula harita Linnaeus) D'Orbigny, in La Sagra's Hiat. 
 
 
 
@@ -33356,7 +33356,7 @@ Qwkcalm bariius Fbabooy, Rep. Orn. Mass., 1839, 285 (Massachusetts?). — Lins-
 
 LEY, Am. Journ. Sci., xliv, 1843, 260 (Connecticut?). 
 
- Oraoula guiscala (not of Linnseus) Oed, Journ. Ac. Nat. Sci. Phila., i, 1818, 253. 
+ Oraoula guiscala (not of Linnaeus) Oed, Journ. Ac. Nat. Sci. Phila., i, 1818, 253. 
 
 
 
@@ -35036,7 +35036,7 @@ Sc[olecophagus] cyanocephalus Oabanis, Mus. Hein., i, 1851, 195, footnote
 
 Slcolecophagus] cyanocephalus Coues, Key N. Am. Birds, 2d ed., 1884, 411. — 
 
- RiDGWAY, Man. N. Am. Birds, 1887, 379. 
+ RIDGWAY, Man. N. Am. Birds, 1887, 379. 
 
 
 
@@ -36756,7 +36756,7 @@ but browner; tail yellowish olive Icterus oberi, young (p. 265)
 
 
 
-ICTERUS ICTERUS (Linnseus). 
+ICTERUS ICTERUS (Linnaeus). 
 
 
 
@@ -37694,7 +37694,7 @@ Island of Cuba, Greater Antilles.
 
 
 
-Icterus dominicensis (not Oriolus dominicensis Linnseus) Vigors, Zool. Journ., iii, 
+Icterus dominicensis (not Oriolus dominicensis Linnaeus) Vigors, Zool. Journ., iii, 
 
  1828, 441 (Cuba).— Lawrence, Ann. Lye. N. Y., vii, 1860, 268 (Cuba; 
 
@@ -38134,7 +38134,7 @@ Icterus lavidaMlis Sclatek, Proc. Zool. Soc. Lond., 1871, 270, pi. 21 (Santa Luc
 
 
 
-ICTERUS SPURIUS (Linnseus). 
+ICTERUS SPURIUS (Linnaeus). 
 
  OROEARS ORIOLE. 
 
@@ -38275,7 +38275,7 @@ Eastern United States and whole of Mexico; breeding from the Gulf
 
  Phila., iii, 1823, 363; Ann. Lye. N. Y., ii, 1828, 51; Geog. and Comp. List, 
 
- 1838, 29.— NuTTALL, Man. Orn. U. S. and Can., i, 1832, 165.— Audubon, 
+ 1838, 29.— NUTTALL, Man. Orn. U. S. and Can., i, 1832, 165.— Audubon, 
 
  Orn. Biog., i, 1831, 221, pi. 42; v. 1839, 485; Synopsis, 1839, 144; Birds Am., 
 
@@ -40842,7 +40842,7 @@ Lucas, Lower California").— Sclater and Salvin, Exotic Orn., pt iv, 1867,
 
  Proc. U. S. Nat. Mus., ix, 1886, 150 (Chietla, Puebla; lanhuiatlan, Oaxaca).— 
 
- RiDGWAY, Proc. U. S. Nat. Mus., ix, 1886, 150 (Chietla, etc., crit.).— Salvin 
+ RIDGWAY, Proc. U. S. Nat. Mus., ix, 1886, 150 (Chietla, etc., crit.).— Salvin 
 
  and GoDMAN, Biol. Centr.-Am., Aves, i, 1887, 477.— Jouy, Proc. U. S. Nat. 
 
@@ -41753,7 +41753,7 @@ Hand-list, ii, 1870, 32, no. 6453.— Solatek and Salvin, Nom. Av. Neotr.,
 
  Pendvlinus leucopteryx Gassin, Proc. Ac. Nat. Sci. Phila., Apr., 1867, 59 (monogr.). 
 
- Oriolus mexicanus (not of Linnseus) Leach, Zool. Misc., i, 1814, 8 (excl. syn.), 
+ Oriolus mexicanus (not of Linnaeus) Leach, Zool. Misc., i, 1814, 8 (excl. syn.), 
 
 
 
@@ -45109,7 +45109,7 @@ Agelmus phoeniceus (not of Swainson, 1827) Swainson, Fauna Bor. Am., ii, 1831,
 
  siN, Proc. Ac. Nat. Sci. Phila., 1866, 10, part (monogr. ). — Baird, Brewer, 
 
- and RiDGWAY, Hist. N. Am. Birds, ii, 1874, 159, part, pi. 33, figs. 1, 2, 3.— 
+ and RIDGWAY, Hist. N. Am. Birds, ii, 1874, 159, part, pi. 33, figs. 1, 2, 3.— 
 
  Gentry, Proc. Ac. Nat. Sci. Phila., 1874, 97 (habits). — Henshaw, Rep. Orn. 
 
@@ -45119,7 +45119,7 @@ Agelmus phoeniceus (not of Swainson, 1827) Swainson, Fauna Bor. Am., ii, 1831,
 
  Bird Migr. Miss. Val., 1888, 163, chiefly (includes A.p.fortist; dates, etc.). — 
 
- RiDGWAY, Orn. Illinois, i, 1889, 313. — Thompson, Proc. U. S. Nat. Mus., xiii, 
+ RIDGWAY, Orn. Illinois, i, 1889, 313. — Thompson, Proc. U. S. Nat. Mus., xiii, 
 
  1891, 572 (localities in Manitoba, etc. ; habits; notes). — Bendirb, Life Hist. N. 
 
@@ -45961,7 +45961,7 @@ Comparative average measurements of the two series and of A. p. fortis are as fo
 
 
 
-Agelaius phceniceus (not Oriolm phoenweus LinnseusJ Woodhoose, Rep. Sitgreaves' 
+Agelaius phceniceus (not Oriolm phoenweus LinnaeusJ Woodhoose, Rep. Sitgreaves' 
 
  Expl. Zuni and Col. K., 1853, 80.— Baird, Bep. Pacific K. R. Surv., ix, 1858, 
 
@@ -46453,7 +46453,7 @@ Northwest coast district, from British Columbia (Vancouver Island
 
 
 
-Agelaius phcaiiceus (not Oriolus phceniceiis Linnseus) Baikd, Rep. Pacific E. E. 
+Agelaius phcaiiceus (not Oriolus phceniceiis Linnaeus) Baikd, Rep. Pacific E. E. 
 
  Surv., ix, 1858, 526, part (Fort Steilacoom, Washington) ; Cat. N. Am. Birds, 
 
@@ -47392,7 +47392,7 @@ Xantocephalus xardocephalus Resler, Proc Md. Ac. Sci., 1891, 139 (near Curtis
 
 
 
-Iderm icterocephalus (not of Daudin, 1800, ex Oriolus icterocephalus Linnseus) 
+Iderm icterocephalus (not of Daudin, 1800, ex Oriolus icterocephalus Linnaeus) 
 
  Bonaparte, Am. Orn., i, 1835, 27, pi. 3 (Rocky Mts.).— Nuttall, Man. Orn. 
 
@@ -47531,13 +47531,13 @@ Leistes Vigors, Zool. Journ., ii, no. vi, July, 1825, 191. (Type, Oriolus americ
 
 
 
-Gmelin, = Emberiza militaris Linnseus.) 
+Gmelin, = Emberiza militaris Linnaeus.) 
 
  Pedotribes^ Cabanis, Mus. Hein., i, Sept. 10, 1851, 191. (Type, Oriolus gmm- 
 
 
 
-ensis Linnaeus, = Emberiza militaris Linnseus. ) 
+ensis Linnaeus, = Emberiza militaris Linnaeus. ) 
 
 
 
@@ -48498,7 +48498,7 @@ Stumella magna Baird, Rep. Pacific R. R. Surv., ix, 1858,535; Cat. N. Am.
 
  Gentry, Proc. Ac. Nat. Sci. Phila., 1874, 98 (habits).— Baihd, Brewer, and 
 
- RiDGWAY, Hist. N. Am. Birds, ii, 1874, 174, pi. 34, fig. 2.— Mearns, Bull. 
+ RIDGWAY, Hist. N. Am. Birds, ii, 1874, 174, pi. 34, fig. 2.— Mearns, Bull. 
 
  Nutt.,Orn. Club, iv, 1879, 36 (Fishkill, New York, winter).— Ridgway, Nom. 
 
@@ -48588,13 +48588,13 @@ Stumella ludovidana Swainson, Fauna Bor.-Am., ii, 1831, 282.— Audubon, Syn-
 
 Cadeus alaudarius Datjdin, Traits d' Orn., ii, 1800, 325 (based on Stumus ludovi- 
 
- danus and Alauda magna Linnseus). 
+ danus and Alauda magna Linnaeus). 
 
 
 
 Sltun^lla] collaris Vieillot, Enc. M^th. , ii, 1823, 633 ( cites Stumus ludovidanus and 
 
- Alauda magna Linnseus, etc. ) . 
+ Alauda magna Linnaeus, etc. ) . 
 
 
 
@@ -49255,7 +49255,7 @@ Atlantic lowlands of southeastern Mexico, in States of Vera Cruz
 
 
 
-Stumella ludovieicma (not Stumus ludomcianus Linnseus) Sclater, Proc. Zool. Soc. 
+Stumella ludovieicma (not Stumus ludomcianus Linnaeus) Sclater, Proc. Zool. Soc. 
 
  Lond., 1856, 143 (David, Chiriqui).— Taylor, Ibis, 1860,317 (Honduras).— 
 
@@ -49527,7 +49527,7 @@ Western United States, southwestern British Provinces, and north-
 
 
 
-StumeUa ludovidana (not Sturnus ludomcianus Linnseua?) Acdubon, Synopsis, 
+StumeUa ludovidana (not Sturnus ludomcianus Linnseua?) Audubon, Synopsis, 
 
  1839, 148, part.— Allen, Bull. Mus. Comp. Zool., iii, 1872, 128 (e. Kansas), 
 
@@ -49581,7 +49581,7 @@ Stumella neglecia Audubon, Birds Am., oct. ed., vii, 1843, 339, pi. 489 (upper
 
  Brewer, and Rldgway, Hist. N. Am. Birds, ii, 1874, pi. 34, fig. 1.— 
 
- RiDGWAY, Orn. 40th Parallel, 1877, 506 (Sacramento, California; localities in 
+ RIDGWAY, Orn. 40th Parallel, 1877, 506 (Sacramento, California; localities in 
 
  Nevada and Utah; habits, song, etc.); Nom. N. Am. Birds, 1881, no. 264; 
 
@@ -49771,7 +49771,7 @@ Situmella} magna neglecta Hbnshaw, Orn. Rep. Wheeler's Surv., 1879, 302 (e.
 
 
 
-base Sierra Nevada). —RiDGWAY, Man. N. Am. Birds, 1887, 372. 
+base Sierra Nevada). —RIDGWAY, Man. N. Am. Birds, 1887, 372. 
 
  Stumella ludomciana neglecta SOjAter, Ibis, 1884, 25 (monogr.). 
 
@@ -49893,7 +49893,7 @@ Sturnella hidoviciana hippocrepis Sclater, Ibis, Jan., 1884, 25 (monogr.).
 
 
 
-Sturnella ludomdana (not Stumus ludovicianus Linnseus) Vigors, Zool. Journ., m, 
+Sturnella ludomdana (not Stumus ludovicianus Linnaeus) Vigors, Zool. Journ., m, 
 
  no. xi, 1827, 442 (Cuba). 
 
@@ -50325,7 +50325,7 @@ Dolkhonyx oryzworus Swainson, Zool. Journ., iii, 1827, 351; Philos. Mag. n. s., 
 
  Zool. Exp. W. 100th Mend., 1875, 311 (Provo, Utah; Huerfano, Colorado, 
 
- May).— RiDGWAY, Bull, Essex Inst., vii, 1875, 23 (Ruby Valley, Nevada), 30 
+ May).— RIDGWAY, Bull, Essex Inst., vii, 1875, 23 (Ruby Valley, Nevada), 30 
 
  (Salt Lake Valley, Utah); Field and Forest, 1877, 208 (Colorado); Nom. N. 
 
@@ -50440,7 +50440,7 @@ D\_olichonyx] oryzivorus Cabanjs, Mus. Hein., i, 1851, 187. — Nelson, Bull. Es
 
  Handb. Jamaica, 1881, 104.— Coues, Key N. Am. Birds, 2d ed., 1884, 400.— 
 
- RiDGWAY, Man. N. Am. Birds, 1887, 366. 
+ RIDGWAY, Man. N. Am. Birds, 1887, 366. 
 
 
 
@@ -51555,7 +51555,7 @@ Genus CHLOROPHANES Reichenbach.
 
 Chlorophanes '' Reichenbach, Handb. d. ap. Orn., i, 1853, 233. (Type, Ccereba 
 
- atricapilla Vieillot, = Cerlhia spiza Linnseus. ) 
+ atricapilla Vieillot, = Cerlhia spiza Linnaeus. ) 
 
 
 
@@ -51958,7 +51958,7 @@ Cyanerpes lucidus, adult male (p. 389)
 
 
 
-'Cyansepes CjBkuleus (Linnseus). 
+'Cyansepes CjBkuleus (Linnaeus). 
 
 
 
@@ -52881,7 +52881,7 @@ Arbelorhina cyanea Cabanis, in Schomburgk's Reis. Brit. Guiana, iii, 1848, 675.�
 
  GuNDLACH, Repert. Fisico-Nat. Cuba, i, 1866, 290; Orn. Cuba, 1893, 105.— 
 
- RiDGWAY, Proc. U. S. Nat. Mus., x, 1887, 579 (Truxillo, Honduras).— Zble- 
+ RIDGWAY, Proc. U. S. Nat. Mus., x, 1887, 579 (Truxillo, Honduras).— Zble- 
 
  DON, Anal. Mus. Nac. Costa Rica, i, 1887, 108 (Las Trojas de Puntarenas, San 
 
@@ -53081,7 +53081,7 @@ Central America, from Guatemala (Choctum) to the Isthmus of
 
 
 
-Ccereba cieruLea (not Cerlhia cserulea Linnseus) Sclatee, Proc. Zool. Soc. Lond., 
+Ccereba cieruLea (not Cerlhia cserulea Linnaeus) Sclatee, Proc. Zool. Soc. Lond., 
 
  1856, 140 (Veragua). 
 
@@ -53141,7 +53141,7 @@ Dacnis Cuvier, Regne Anim., i, 1817, 395. (Type, MotadUa cayana Linnaeus.)
 
 
 
-Motaoilla cayana Linnseus. ) 
+Motaoilla cayana Linnaeus. ) 
 
  Polidacnis Cassin, Proc. Ac. Nat. Sci. Phila., xvi, Nov., 1864, 269. (Type, Dacnii 
 
@@ -54275,7 +54275,7 @@ Genus CCEREBA Vieillot.
 
 
 
-Owefta Vieillot, Ois. Am. Sept., i, 1807, 70. {Ty^e, Gerthia jlaveola Linnseus.) 
+Owefta Vieillot, Ois. Am. Sept., i, 1807, 70. {Ty^e, Gerthia jlaveola Linnaeus.) 
 
  Certhiola Sundevall, Oefv. Vet.-Ak. Handl. Stockholm, 1835, 99. (Type, Cerlhia 
 
@@ -55620,7 +55620,7 @@ Caribbean coast district of Colombia and Venezuela; Trinidad;
 
 
 
-Coerebaflaveola (not Certhia ftaveola Linnseus) Vieillot, Enc. Meth., ii, 1823, 611, 
+Coerebaflaveola (not Certhia ftaveola Linnaeus) Vieillot, Enc. Meth., ii, 1823, 611, 
 
  part (description; see Finsch, Verh. k. k. zool.-bot. Gesellsch. Wien, 1871, 
 
@@ -56390,7 +56390,7 @@ Islands of Porto Rico, Vieques, Culebra, Anegada, Tortola, Virgin
 
 
 
-Carebaflaveola (not Cerlhia flaveola Linnseus) Vieillot, Enc. Meth., ii, 1823, 611, 
+Carebaflaveola (not Cerlhia flaveola Linnaeus) Vieillot, Enc. Meth., ii, 1823, 611, 
 
  part (Porto Rico). 
 
@@ -56635,7 +56635,7 @@ Birds, xi, 1886, 42.— Cory, Auk, iii, 1886, 48; Birds W. I., 1889, 62.
 
 
 
-CCEREBA FLAVEOLA (Linnseus). 
+CCEREBA FLAVEOLA (Linnaeus). 
 
  JAMAICAN BANANAaiTIT. 
 
@@ -56867,7 +56867,7 @@ Certhiola saccharina Lawrence, Ann. N. Y. Acad. Sci., i, June, 1878, 151 (St. Vi
 
  cent, Lesser Antilles; coll. U. S. Nat. Mus.); Proc. U. S. Nat. Mus., i, 1878, 
 
- 190, 487 (St. Vincent).— RiDGWAY, Proc. U. S. Nat. Mus., viii, 1885, 30, 
+ 190, 487 (St. Vincent).— RIDGWAY, Proc. U. S. Nat. Mus., viii, 1885, 30, 
 
  (synonymy; St. Vincent; "Grenada"). — Cory, Auk, iii, 1886, 50 (St. Vin- 
 
@@ -56994,7 +56994,7 @@ Cerlhwla flaveola (not Certhia flaveola Linnasus) Newton (A. and E. ), Ibin, 185
 
 Certhiola newtoni Baied, Brewer, and Ridgway, Hist. N. Am. Birds, iii, 1874, 
 
- 508.— RiDGWAY, Proc. U. S.Nat. Mus., viii, 1885, 30 (synonymy).— Sclatek, 
+ 508.— RIDGWAY, Proc. U. S.Nat. Mus., viii, 1885, 30 (synonymy).— Sclatek, 
 
  Cat. Birds Br,t. Mus., xi, 1886, 43.— Cory, Auk, iii, 1886, 51; Birds W. I., 
 
@@ -57131,7 +57131,7 @@ Certhiold. dominicana T.wlor, Ibis, 1st ser., vi, Apr., 1864, 167 (Dominica, Les
 
  xi, 1886, 44, pi. 5, fig. 2 (Dominica; Montserrat; Antigua; Barbuda) .—Gkis- 
 
- DALE, Ibis, 1882, 486 (Montserrat).— RiDGWAY, Proc. U. S. Nat. Mus., viii, 
+ DALE, Ibis, 1882, 486 (Montserrat).— RIDGWAY, Proc. U. S. Nat. Mus., viii, 
 
  1885, 30 (synonymy).— CoKY, Auk, iii, 1886, 51; Birds W. I., 1889, 65. 
 
@@ -57413,7 +57413,7 @@ Antilles; coll. U. S. Nat. Mus.); in Hist. N. Am. Birds, i, 1874, 428; iii,
 
 
 
-508.— RiDGWAY, Proc. U. S. Nat. Mus., viii, 1885, 30 (synonymy).— Sclater, 
+508.— RIDGWAY, Proc. U. S. Nat. Mus., viii, 1885, 30 (synonymy).— Sclater, 
 
 
 
@@ -57806,7 +57806,7 @@ Island of Grenada, Lesser Antilles.
 
 Certhiola atrata (not of Lawrence, 1878) Lawrence, Proc. U. S. Nat. Mus., i, 1879, 
 
- 269 (Grenada).— RiDGWAY, Proc' U. S. Nat. Mus., viii, 1885, 30, part 
+ 269 (Grenada).— RIDGWAY, Proc' U. S. Nat. Mus., viii, 1885, 30, part 
 
  (Grenada).— Cory, List Birds W. I., 1885, 9, part (Grenada); Auk, iii, 
 
@@ -58922,7 +58922,7 @@ Genus MNIOTILTA Vieillot.
 
 
 
-MnioiiUa Vieillot, Analyse, 1816, 45. (Type, Moiacilla raria Linnseus.) 
+MnioiiUa Vieillot, Analyse, 1816, 45. (Type, Moiacilla raria Linnaeus.) 
 
  Oxyglossus Swainson, Zool. Journ., iii, 1827, 357. (Type, 0. macalalus Swainson, = 
 
@@ -59183,7 +59183,7 @@ Mniotilta wna Vieillot, Nouv. Diet, d' Hist. Nat., xxi, 1818, 230.— Bonaparte,
 
  11.— Audubon, Synopsis, 1839, 71; Birds Am., oct. ed., ii, 1841, 105, pi. 
 
- 114._NuTTALL, Man. Orn. U. S. and Can., 2d ed., i, 1840, 702.— Gosse, Birds 
+ 114._NUTTALL, Man. Orn. U. S. and Can., 2d ed., i, 1840, 702.— Gosse, Birds 
 
  Jamaica, 1847, 134. — Lbmbeye, Avesdelalslade Cuba, 1850, 68, pi. 10, flg. 1.— 
 
@@ -60652,7 +60652,7 @@ Helminthophaga^ (not of Bechstein, 1802) Cabanis, Mus. Hein., i, 1850, 20.
 
 
 
-(Type, Motadlla chrysoptera Linnseus. ) 
+(Type, Motadlla chrysoptera Linnaeus. ) 
 
  Helminthophila Ridgway, Bull. Nutt. Orn. Club, vii, Jan. 1882, 53. (Type, Sylvia 
 
@@ -61039,7 +61039,7 @@ cc. Rump and upper tail-coverts chestnut (adults) or pinkish buffy (young);
 
 
 
-HELMINTHOPHILA CHRYSOPTERA (Linnseus). 
+HELMINTHOPHILA CHRYSOPTERA (Linnaeus). 
 
  GOLDEN-WINGED WARBLER. 
 
@@ -61292,7 +61292,7 @@ BIKDS OF NORTH AND MIDDLE AMERICA. 451
 
  Brewer, and Ridgway, Hist. N. Am. Birds, i, 1874, 192, pi. 11, fig. 2. — 
 
- RiDGWAY, Ibis, 1876, 170; Norn. N. Am. Birds, 1881, no. 81.— Warren, Bull. 
+ RIDGWAY, Ibis, 1876, 170; Norn. N. Am. Birds, 1881, no. 81.— Warren, Bull. 
 
  Nutt. Orn. Club, i, 1876, 6-8 (e. Massachusetts; nesting habits, etc.). — 
 
@@ -62875,7 +62875,7 @@ Sylvia celata Say, Long's Exped. Rocky Mts., i, 1823, 169 (Council Bluffs, Iowa)
 
  Bonaparte, Amer. Orn., i, 1825, 45, pi. 5, fig. 2; Ann. Lye. N. Y., ii, 
 
- 1826, 88.— NuTTALL, Man. Orn. U. S. and Can., i, 1832, 413.— Audubon, 
+ 1826, 88.— NUTTALL, Man. Orn. U. S. and Can., i, 1832, 413.— Audubon, 
 
  Orn. Biog., ii, 1834, 449, pi. 178.— Peabody, Eep. Orn. Mass., 1839, >,13 
 
@@ -64711,7 +64711,7 @@ iii, July, 1827, 160. (Type, Parus americanus Linnreus. )
 
 
 
-(Type, Parus americanus Linnseus.) 
+(Type, Parus americanus Linnaeus.) 
 
  Compsothlypis^ Cabanis, Mus. Hein., i, 1850, 20. (Type, Parus americanus 
 
@@ -65390,7 +65390,7 @@ no. 93, part; Birds N. W., 1874, 46, part; Birds Col. Val., 1878, 208, part.—
 
  Meekiam, Am. Nat., viii, 1874, 86 (OcklawahaE., Florida). —Baied, Brewer, 
 
- and RiDGWAY, Hist. N. Am. Birds, i, 1874, 208, part.— Brewster, Bull. 
+ and RIDGWAY, Hist. N. Am. Birds, i, 1874, 208, part.— Brewster, Bull. 
 
  Nutt. Orn. Club, v, 1880, 48 (Camden Co., Georgia, breeding).— Loomis, 
 
@@ -65420,7 +65420,7 @@ Mlniotiltal americana Gray, Gen. Birds, i, 1848, 196, part.
 
 (^ompsothlypisl ammcanoCABANis, Mus. Hein., i, 1850, 20, part (in synonymy). — 
 
- RiDGWAY, Man. N. Am. Birds, 1887, 491, part. 
+ RIDGWAY, Man. N. Am. Birds, 1887, 491, part. 
 
 
 
@@ -69181,7 +69181,7 @@ Dlendroica] wsliva morcomi Ridgway, Man. N. Am. Birds, 1887, 494, part.
 
 
 
-Dendroica petechia (not Motacilla petechia Linnseus) Wells, Proc. U. S. Nat. Mus., 
+Dendroica petechia (not Motacilla petechia Linnaeus) Wells, Proc. U. S. Nat. Mus., 
 
  ix, 1886, 611 (Grenada). 
 
@@ -69516,7 +69516,7 @@ Bendroeca sestiva Brown, Ibis, 1868, 420 (Vancouver I.). — Nelson, Cruise "Cor
 
 
 
-DENDROICA PETECHIA PETECHIA (Linnseus). 
+DENDROICA PETECHIA PETECHIA (Linnaeus). 
 
  JAMAICAN YELLOW WARBLER. 
 
@@ -70293,7 +70293,7 @@ W. I. Birds, 1892, 155 (St. Bartholomew).
 
 Proc. Zool. Soc. Lond., 1892, 499 (Anguilla). 
 
- Dendroica petechia (not MotaeUla petechia Linnseus) Cassin, Proc. Ac. Nat. Sci. 
+ Dendroica petechia (not MotaeUla petechia Linnaeus) Cassin, Proc. Ac. Nat. Sci. 
 
 
 
@@ -71284,7 +71284,7 @@ crit.).— Cory, List Birds W. I., 1885, 8.— Shaepe, Cat. Birds Brit. Mus., x,
 
 
 
-and RiDGWAY, Hist. N. Am. Birds, i, 1874, 217) Coubs, Birds Col. Val., 
+and RIDGWAY, Hist. N. Am. Birds, i, 1874, 217) Coubs, Birds Col. Val., 
 
 
 
@@ -73377,7 +73377,7 @@ Dendroica cicrulescens Baird, Review Am. Birds, Apr., 1865, 186. — Gdndlach,
 
  Anal. Soc. Esp. Hist. Nat., vii, 1878, 179 (Porto Rico). — Baied, Brewer, 
 
- and RiDGWAY, Hist. N. Am. Birds, i, 1874, 254, pi. 12, figs. 10, 11.— Beewee, 
+ and RIDGWAY, Hist. N. Am. Birds, i, 1874, 254, pi. 12, figs. 10, 11.— Beewee, 
 
  Proo. Bost. Soc. N. H., xvii, 1875, 439 (n. New England, breeding); xix, 
 
@@ -74346,7 +74346,7 @@ nant, Arct. Zool., ii, 1785, 411).
 
 
 
-ginianus Linnseus). 
+ginianus Linnaeus). 
 
  Sylvia xanthorhoa Vieillot, Nouv. Diet, d' Hist. Nat. xi, 1817, 180 (based on 
 
@@ -74592,7 +74592,7 @@ Sylvia auduiionii AvDVBOi^, Orn. Biog., v, 1839, 52, pi. 395.
 
 Sylvicola auduboni Bonapabte, Geog. and Comp. List, 1838, 21. — Audubon, Syn- 
 
- opsis, 1839, 52.— NuTTALL, Man. Orn. U. S. and Can., 2d ed., i, 1840, 414.— 
+ opsis, 1839, 52.— NUTTALL, Man. Orn. U. S. and Can., 2d ed., i, 1840, 414.— 
 
  Gameel, Proc. Ac. Nat. Sci. Phila., iii, 1846, 155; .Journ. Ac. Nat. Sci. Phila., 
 
@@ -76184,7 +76184,7 @@ ScLATER, Ibis, 1860, 273 (Tactic).— Sclatee, Cat. Am. Birds, 1862, 358, part, 
 
  Texas).— Brewster, Bull. Nutt. Orn. Club, iv, 1879, 77 (Comal Co., Texas; 
 
- habits).- RiDGWAY, Nom. N. Am. Birds, 1881, no. 106.— Salvin and Godman, 
+ habits).- RIDGWAY, Nom. N. Am. Birds, 1881, no. 106.— Salvin and Godman, 
 
  Biol. Centr.-Am., Aves, i, 1881, 139.— Brown, Bull. Nutt. Orn. Club,vii, 1882, 36 
 
@@ -76777,7 +76777,7 @@ Dendrmca cserulea Baird, Eep. Pacific E. E. Surv., ix, 1858, 280; Cat. N. Am.
 
 1872, 414 (do.); Eepert. Fisico-Nat. Cuba, i, 1865, 234.— BAiED,BEEWEn, and 
 
- RiDGWAY, Hist,. N. Am. Birds, i, 1874, 235, pi. 13, figs. 10, 11; iii, 1874, 505 
+ RIDGWAY, Hist,. N. Am. Birds, i, 1874, 235, pi. 13, figs. 10, 11; iii, 1874, 505 
 
  (Drummondville, Ontario, breeding; descr. nest and eggs). — Henshaw, 
 
@@ -77432,7 +77432,7 @@ Dendroica blackbumix Baied, Eep. Pacific E. R. Surv., ix, 1858, 274; Cat. N. Am.
 
  Bost. Soc. N. H., i, 1869, 547 (Orizaba, Vera Cruz).— Baied, Beewee, and 
 
- RiDGWAY, Hist. N. Am. Birds, i, 1874, 237, pi. 13, figs. 2, 3; iii, 1874, 505 
+ RIDGWAY, Hist. N. Am. Birds, i, 1874, 237, pi. 13, figs. 2, 3; iii, 1874, 505 
 
  (Ogden, Utah, 1 spec, Sept., 1871). — Beewee, Proc. Bost. Soc. N. H., xix, 
 
@@ -77601,7 +77601,7 @@ Sylvia parus Wilson, Am. Orn., v, 1812, 114, pi. 44, fig. 3. — Stephens, Shaw'
 
  Journ. Ac. Nat. Sci. Phila., iv, 1824, 200; Ann. Lye. N. Y., ii, 1826, 82.— 
 
- NuTTALL, Man. Orn. U. S. and Can., i, 1832, 392. — Audubon, Orn. Biog.,ii, 
+ NUTTALL, Man. Orn. U. S. and Can., i, 1832, 392. — Audubon, Orn. Biog.,ii, 
 
  1834, 205, pi. 134. 
 
@@ -79451,7 +79451,7 @@ Sylvia icterocephala Vieillot, Ois. Am. Sept., ii, 1807, 31, pi. 90; Nouv. Diet.
 
  1817, 622.— BoNAPAKTE, Ann. Lye. N. Y., ii, 1826, 80.— Audubon, Orn. Biog., i, 
 
- 1832, 306, pi. 59.— NuTTALL, Man. Orn. U. S. and Can., i, 1832, 380. 
+ 1832, 306, pi. 59.— NUTTALL, Man. Orn. U. S. and Can., i, 1832, 380. 
 
 
 
@@ -79858,7 +79858,7 @@ SyMa autumnalis Wilson, Am. Orn., iii, 1811, 65, pi. 23, fig. 3.— Stephens,
 
  Bonaparte, Journ. Ac. Nat. Sci. Phila., iv, 1824, 195; Ann. Lye. N. Y., ii, 
 
- 1826, 84.— NuTTALL, Man. Orn. U. S. and Can., i, 1832, 390.— Audubon, Orn! 
+ 1826, 84.— NUTTALL, Man. Orn. U. S. and Can., i, 1832, 390.— Audubon, Orn! 
 
  Biog., i, 1831, 447, pi. 88. 
 
@@ -80154,7 +80154,7 @@ Dendroica striata Baird, Rep. Pacific R. R. Surv., ix, 1858, 280; Cat. N. Am. Bi
 
  Cuba, i, 1865, 234; Journ. fur Orn., 1872, 414 (Cuba); Anal. Soc. Esp. Hist. 
 
- Nat., vii, 1878, 181 (Porto Rico).— Baird, Brewer, andRiDGWAY, Hist. N. Am. 
+ Nat., vii, 1878, 181 (Porto Rico).— Baird, Brewer, andRIDGWAY, Hist. N. Am. 
 
  Birds, i, 1874, 248, pi. 13, figs. 9, 12.— Brewer, Proc. Bost. Soc. N. H., 1875, 
 
@@ -80229,7 +80229,7 @@ Dendrceca striata Sclater, Cat. Am. Birds, 1862, 31 (Jamaica; Tobago; Bogota).�
 
  Colorado, summer resident; Denver, May). — Cory, Birds Bahama I., 1880, 
 
- 61. — RiDGWAY, Nom. N. Am. Birds, 1881, no. 101. — Allen and Brewster, 
+ 61. — RIDGWAY, Nom. N. Am. Birds, 1881, no. 101. — Allen and Brewster, 
 
  Bull. Nutt. Orn. Club, viii, 1883, 158 ( Austina Bluffs, Colorado, May 8, 9).- 
 
@@ -82286,7 +82286,7 @@ Sylvia petechia (not MotaeUla petechia LinniEus) Vibillot, Ois. Am. Sept., ii, 1
 
  PAETE, Journ. Ac. Nat. Sci. Phila., iv, 1824, 198; Ann. Lye. N. Y., ii, 1826, 
 
- 83.— NuTTALL, Man. Orn. U. S. and Can., i, 1832, 364.— Audubon, Orn. 
+ 83.— NUTTALL, Man. Orn. U. S. and Can., i, 1832, 364.— Audubon, Orn. 
 
  Biog., ii, 1834, 259, 360, pis. 163, 164.— Peabody, Rep. Orn. Mass., 1839, 307.— 
 
@@ -83974,7 +83974,7 @@ Sylvia Philadelphia Wilson, Am. Orn., ii, 1810, 101, pi. 14, fig. 6 (near Philad
 
  parte, Journ. Ac. Nat. Sci. Phila., ii, 1824, 189; Ann. Lye. N. Y., ii, 1826, 
 
- 85.— NuTTALL, Man. Orn. U. S. and Can., i, 1832, 404.— Addubon, Orn. Biog., 
+ 85.— NUTTALL, Man. Orn. U. S. and Can., i, 1832, 404.— Addubon, Orn. Biog., 
 
  V, 1839, 78. 
 
@@ -85325,7 +85325,7 @@ Sclater and Salvin, Proc. Zool. Soc. Lond., 1870, 836 (San Pedro, Hon-
 
 Domingue Daubenton, PI. Enl., pi. 398, fig. 2). 
 
- Motacilla canadensis (not of Linnseus) Boddaert, Tabl PI. Enl., 1783, 84, part 
+ Motacilla canadensis (not of Linnaeus) Boddaert, Tabl PI. Enl., 1783, 84, part 
 
 
 
@@ -88280,7 +88280,7 @@ Geothlypis nelsoni nelsoni, adult female' (p. 685)
 
 
 
-GEOTHLYPIS TRICHAS TRICHAS (Linnseus). 
+GEOTHLYPIS TRICHAS TRICHAS (Linnaeus). 
 
  MARYLAITD YELLOW-THROAT. 
 
@@ -89578,7 +89578,7 @@ GeothylpistrKhas Baied, Rep. Pacific R. R. Surv., ix, 1858, 241, part (Fort Stei
 
  Baibd, Brewer, and Ridgway, Hist. N. Am. Birds, i, 1874, 297, part.— 
 
- RiDGWAY, Bull. Nutt. Orn. Club, iii, 1878,65 (Marysville, California); Nom. 
+ RIDGWAY, Bull. Nutt. Orn. Club, iii, 1878,65 (Marysville, California); Nom. 
 
  N. Am. Birds, 1881, no. 122, part.— Belding, Proc. U. S. Nat. Mus., i, 1879, 
 
@@ -92468,7 +92468,7 @@ Idma dumieola Vieillot, Ois. Am. Sept., i, 1807, 85 (cites Miixctcnpa viridh
 
 
 
-Linnseus); Enc. M6th., ii, 1823, 702. — Vieillot and Oudart, Gal. (,»in., i, 
+Linnaeus); Enc. M6th., ii, 1823, 702. — Vieillot and Oudart, Gal. (,»in., i, 
 
 
 
@@ -93984,7 +93984,7 @@ Sylvania mitrata Nuttall, Man. Orn. U. S. and Can., 2de(l., i, 1S40, 333. — Wo
 
  HODSE, inBep. Sitgreaves'sExpl. Zuniand Col. E., 1853, 69 (Indian Territory 
 
- and Texas). —RiDGWAY, Proc. IT. S. Nat. Mus., viii, 1885, 564 (Cozumel I., 
+ and Texas). —RIDGWAY, Proc. IT. S. Nat. Mus., viii, 1885, 564 (Cozumel I., 
 
  Yucatan); Orn. Illinois, i, 1889, 174.- Cory, Auk, iii, 1886, 46 (West Indian 
 
@@ -94258,7 +94258,7 @@ Mmdcapa minuia (not of Gmelin) Wilson, Am. Orn., vi, 1812, 62, pi. 50, fig. 5
 
  (New Jersey, etc.). — Bonaparte, Journ. Ac. Nat. Sci. Phila., ii, 1824, 179. — 
 
- NuTTALL, Man. Orn. U. S. and Can., i, 1832, 296. — Audubon, Orn. Biog., v, 
+ NUTTALL, Man. Orn. U. S. and Can., i, 1832, 296. — Audubon, Orn. Biog., v, 
 
  1839, 291, pi. 434, fig. 2; Synopsis, 1839, 44; Birds Am., oct. ed., i, 1840, 238, 
 
@@ -95351,7 +95351,7 @@ Myiodioctes canadensis AvDVBOi^, Synopsis, 1839, 49; Birds Am., oct. ed., ii, 18
 
  breeding).— Goss, Bull. Nutt. Orn. Club, vi, 1881, 246 (Neosho R., Kansas, 
 
- Aug. 29).— RiDGWAY, Nom. N. Am. Birds, 1881, no. 127.— Salvin and God- 
+ Aug. 29).— RIDGWAY, Nom. N. Am. Birds, 1881, no. 127.— Salvin and God- 
 
  man, Biol. Centr.-Am., Aves, i, 1881, 166.— Sharpe, Cat. Birds Brit. Mus.,x, 
 
@@ -96508,7 +96508,7 @@ S[etophaga] ruticilla Cabanis, Mus. Hein., i, 1850, 18.— Newton (A. and E.),
 
  Handb. Jamaica, 1881, 106.— Coues, Key N. Am. Birds, 2d ed., 1884, 316.— 
 
- RiDGWAY, Man. N. Am. Birds, 1887, 529. 
+ RIDGWAY, Man. N. Am. Birds, 1887, 529. 
 
 
 
@@ -103265,7 +103265,7 @@ Howe, Contr. N. Am. Orn., ii, 1902, 19 (Mount Killington, Vermont, breeding).
 
 
 
-Page 543: Cancel ttie following citations under Dendroeca ccmadensig 
+Page 543: Cancel the following citations under Dendroeca ccmadensig 
 
  and transfer them to Wilsonui caiKcdt-/if!/'n {p. 718): Taczanowski, Proc. 
 
@@ -103367,7 +103367,7 @@ Page 565: To synonymy of Dendroica virens add: '
 
  Synopsis, 1839, 62, part; Birds Am., oct. ed., ii, 1841, 69 (not pi. 98).- 
 
- NuTTALL, Man. Orn. U. S. and Can., 2d ed., i, 1840, 442, part. 
+ NUTTALL, Man. Orn. U. S. and Can., 2d ed., i, 1840, 442, part. 
 
 
 

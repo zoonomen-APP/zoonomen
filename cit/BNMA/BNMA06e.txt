@@ -860,7 +860,7 @@ Key to the Species of Campephilus 165
 
 
 
-79. Campephilus principalis (Linnseus) 167 
+79. Campephilus principalis (Linnaeus) 167 
 
 
 
@@ -1165,7 +1165,7 @@ Key to the Species and Subspecies(?) of Sphyrapicus 273
 
 
 
-140. Sphyrapicus varius varius (Linnseus) 274 
+140. Sphyrapicus varius varius (Linnaeus) 274 
 
 
 
@@ -1310,7 +1310,7 @@ Key to the Genera of Ramphastidse 329
 
 
 
-Genus 1. Ramphastos Linnseus 330 
+Genus 1. Ramphastos Linnaeus 330 
 
 
 
@@ -1579,7 +1579,7 @@ Key to the Species and Subspecies of Streptoceryle 408
 
 
 
-1. Streptoceryle torquata torquata (Linnseus) 409 
+1. Streptoceryle torquata torquata (Linnaeus) 409 
 
 
 
@@ -1659,7 +1659,7 @@ Key to the Species of Todus 443
 
 
 
-5. Todus todus (Linnseus) 448 
+5. Todus todus (Linnaeus) 448 
 
 
 
@@ -1969,7 +1969,7 @@ Genua 5. PhalEenoptilus Ridgway 547
 
 
 
-24. Phalsenoptilus nuttallii nuttaUii (Audubon) 548 
+24. Phalsenoptilus nuttallii nuttallii (Audubon) 548 
 
 
 
@@ -2302,7 +2302,7 @@ Key to the Species and Subspecies of Otus 684
 
 
 
-24. Otus asio asio (Linnseus) 687 
+24. Otus asio asio (Linnaeus) 687 
 
 
 
@@ -4408,17 +4408,17 @@ Scapanens (p. 170).
 
 
 
-- Pious Linnseus, Syst. Nat., ed. 10, i, 1758, 112. (Type, as fixed by Gray, 1855, 
+- Pious Linnaeus, Syst. Nat., ed. 10, i, 1758, 112. (Type, as fixed by Gray, 1855, 
 
- Pieus martiiLS Linnseus.) — Dryocopus Boie, Isis, 1826, 997. (Type, Picus martivs 
+ Pieus martiiLS Linnaeus.) — Dryocopus Boie, Isis, 1826, 997. (Type, Picus martivs 
 
- Linnseus.)— Carionanits Kaup, Naturl. Syst., 1829, 131. (Type, Picus martius 
+ Linnaeus.)— Carionanits Kaup, Naturl. Syst., 1829, 131. (Type, Picus martius 
 
- Linnseus.) — Dryopicos Malherbe, M^m. Acad. Metz, xxx, 1849, 320. (Type, Picus 
+ Linnaeus.) — Dryopicos Malherbe, M^m. Acad. Metz, xxx, 1849, 320. (Type, Picus 
 
- martius Linnseus.) — Dryotomus Swainson, Fauna Bor.-Am., ii, 1831, 301, 304. (Type, 
+ martius Linnaeus.) — Dryotomus Swainson, Fauna Bor.-Am., ii, 1831, 301, 304. (Type, 
 
- by orig. designation, Pieus martius Linnseus.) Palaearctic Region. (Monotypic.) 
+ by orig. designation, Pieus martius Linnaeus.) Palaearctic Region. (Monotypic.) 
 
 
 
@@ -6039,7 +6039,7 @@ Northern and central United States, east of Rocky Mountains,
 
 
 
-Pieus auratus (not Cuculus auratus Linnseus) Vieillot, Ois. Am. Sept., ii, 1807, 
+Pieus auratus (not Cuculus auratus Linnaeus) Vieillot, Ois. Am. Sept., ii, 1807, 
 
  66, part, pi. 123; Nouv. Diet. d'Hist. Nat., xxvi, 1818, 100.— Lesson, Tiait6 
 
@@ -6090,7 +6090,7 @@ Colaptes auratus Swainson, Faima Bor.-Am., ii, 1831, pp. xxvi, 314, part; Classi
 
  Birds, ii, 1837, 310. — Bonaparte, Geog. and Comp. List, 1838, 40, part. — 
 
- NuTTALL, Man. Orn. U. S. and Can., Land Birds, 2d ed., 1840, 663. 
+ NUTTALL, Man. Orn. U. S. and Can., Land Birds, 2d ed., 1840, 663. 
 
  Baird, Rep. Pacific R. R. Surv., ix, 1858, 118, part; Cat. N. Am. Birds, 
 
@@ -6632,7 +6632,7 @@ CoUvptes hybridus Baibd, Eep. Pacific E. R. Surv., ix, 1858, 122 (valleys of upp
 
  Bebwbe, and Eidgwat, Hist. N. Am. Birds, ii, 1874, 582, pi. 54, fig. 8. — 
 
- RiDGWAY, Field and Forest, 1877, 209 (Colorado); Om. 40th Parallel, 1877, 
+ RIDGWAY, Field and Forest, 1877, 209 (Colorado); Om. 40th Parallel, 1877, 
 
  556 (Washoe Valley, Nevada, 1 spec, Jan.); Om. Illinois, i, 1889, 387. — 
 
@@ -6815,7 +6815,7 @@ Island of Cuba (GuamS; El Guamd; Rem^dios; San Diego de los
 
 
 
-Colaptes awratus (not CwmIus awatus Linnseus) Vigoes, Zool. Joum., iii, 1828, 
+Colaptes awratus (not CwmIus awatus Linnaeus) Vigoes, Zool. Joum., iii, 1828, 
 
  444 (Cuba). — D'Orbignt, in La Sagra's Hist. Fis. Pol. y Nat. Cuba, Avea, 
 
@@ -9544,7 +9544,7 @@ Genus MELANERPES S-wainson.
 
 MeUmerpes Swainson, Fauna Bor.-Am., ii, 1831, 316. (Type, by orig. design., 
 
- Picus erythrocephalus Linnseus.) 
+ Picus erythrocephalus Linnaeus.) 
 
  . Melampicos Malherbe, M6m. Acad. Metz, xxx, 1849, 363. (Type, as fixed by 
 
@@ -10089,7 +10089,7 @@ Picus erythrocephalus Temminck, Cat. Syst., 1807, 62. — ^Vieillot, Ois. Am. Se
 
  141, pi. 27; V, 1839, 536; Synopsis, 1839, 184; Birds Am., oct. ed., iv, 1842, 
 
- 274, pi. 271.— NuTTALL, Man. Om. U. S. and Can., Land Birds, 1832, 569, 
+ 274, pi. 271.— NUTTALL, Man. Om. U. S. and Can., Land Birds, 1832, 569, 
 
  2d ed., 1840, 674.— Hahn and Kustek, Om. Atlaa, 1834, pi. 2.— Putnam, 
 
@@ -12268,7 +12268,7 @@ Centurus superdlians Cabanis, Joum. fiir Om., 1856, 103 (habits; crit.). — Gtj
 
  Brewer, Proc. Bost. Soc. N. H., vii, 186b, 307.— Sclateb, Cat. Am. Birds, 
 
- 1862, 342.— RiDGWAY, Proc. U. S. Nat. Mus., iv, 1881, 115 (monogr.).— Cobt, 
+ 1862, 342.— RIDGWAY, Proc. U. S. Nat. Mus., iv, 1881, 115 (monogr.).— Cobt, 
 
  Auk, iii, 1886, 379; Birds West Ind., 1889, 174.— Chapman, Bull. Am. Mus. 
 
@@ -12278,7 +12278,7 @@ Centurus superdlians Cabanis, Joum. fiir Om., 1856, 103 (habits; crit.). — Gtj
 
 C[en,turus\ superdliaris Reichenbach, Handb. Scansores, Picinee, 1854, 408, 
 
- pi. 662, figs. 4400-4401.— RiDGWAY, Proc. U. S. Nat. Mus., iv, 1881, 98 
+ pi. 662, figs. 4400-4401.— RIDGWAY, Proc. U. S. Nat. Mus., iv, 1881, 98 
 
  (diagnosis). 
 
@@ -24411,7 +24411,7 @@ Genus CEOPHLCEUS Cabanis.
 
 Ceophloeus " Cabanis, Joum. fiir Om., May, 1862, 176. (Type, Picus Ivmatua 
 
- Linnseus.) 
+ Linnaeus.) 
 
 
 
@@ -24566,7 +24566,7 @@ Ceophloeus lineatus simllis (p. 150).
 
 
 
-o [Piais] lineatus Linnseus, Syst. Nat., ed. 12, i, 1766, 174 (based on Pic noir hup& 
+o [Piais] lineatus Linnaeus, Syst. Nat., ed. 12, i, 1766, 174 (based on Pic noir hup& 
 
  de Cayenne Brisson, Orn., iv, 31, pi. 1, fig. 2). — Picus lineatus Boddaert, Tabl. PL 
 
@@ -24778,7 +24778,7 @@ vii, 1862, 333 (Panama).
 
 name for Ceophloeus mesorhynehus Cabanis and Heine). 
 
- Dryocopus lineatu^ (not Picus lineatus Linnseus) Sclatbb and Salvin, Proc. Zool. 
+ Dryocopus lineatu^ (not Picus lineatus Linnaeus) Sclatbb and Salvin, Proc. Zool. 
 
 
 
@@ -25754,7 +25754,7 @@ Driopicus (not Dryopicos Malherbe, 1849, nor Dryopicus Malherbe, 1850) Bona-
 
 Bylatomus (not Hylatoma Latreille, 1804) Baird, Rep. Pacific R. R. Surv., ix, 
 
- 1858, 107. (Type, by orig. desig., Picus pileatus Linnseus.) 
+ 1858, 107. (Type, by orig. desig., Picus pileatus Linnaeus.) 
 
 
 
@@ -25764,7 +25764,7 @@ Hylotomus (emendation) Cabanis, Joum. fur Om., 1862, 176.
 
 Phloeotomus 6 Cabanis and Heine, Mus. Hein., iv, heft 2, July, 1863, 102. 
 
- (Type, by monotypy, Pieus pileatus Linnseus.) 
+ (Type, by monotypy, Pieus pileatus Linnaeus.) 
 
 
 
@@ -27271,7 +27271,7 @@ Central and southern Florida (St. Johns River?; Blue Cypress
 
 
 
-Picas pileatus (not of Linnseus) ArouBON, Om. Biog., ii, 1834, 74, part; v, 1839, 
+Picas pileatus (not of Linnaeus) ArouBON, Om. Biog., ii, 1834, 74, part; v, 1839, 
 
 
 
@@ -27422,7 +27422,7 @@ Northern Upper Austral, Transition, and Canadian zone forests of
 
 
 
-PieuB pileatus (not of Linnseus) Wilson, Am. Om., iv, 1811, 27, part, pi. 29, fig. 1 
+PieuB pileatus (not of Linnaeus) Wilson, Am. Om., iv, 1811, 27, part, pi. 29, fig. 1 
 
  (by error fig. 2 on plate). — Bonaparte, Ann. Lye. N. Y., ii, pt. i, 1826 
 
@@ -27658,7 +27658,7 @@ east to Idaho (Sawtooth and Sabnon Kiver Mountains) and western
 
 
 
-Picas pileatm (not of Linnseus) Audubon, Om. Biog., ii, 1834, 74, part (Columbia 
+Picas pileatm (not of Linnaeus) Audubon, Om. Biog., ii, 1834, 74, part (Columbia 
 
  R.); V, 1839, 533, part (Columbia R.); Synopsis, 1839, 176, part (Columbia 
 
@@ -27821,7 +27821,7 @@ Campephilus Gray, List Gen. Birds, 1840, 54. (Type, by original designation,
 
 
 
-Picits principalis Linnseus.) 
+Picits principalis Linnaeus.) 
 
  Oampophilus (emendation) Cabanis and Hemtb, Mus. Hein., iv, heft 2, July, 
 
@@ -28372,7 +28372,7 @@ Campephilus principalis Gray, List Birds Brit. Mus., Picidse, 1868, 53. — ^Woo
 
  CouBS, Check List, 1873, no. 293; 2d ed., 1882, no. 431.— Baird, Brewer, 
 
- and RiDGWAY, Hist. N. Am. Birds, ii, 1874, 496, pi. 49, figs. 1, 2. — ^Merriam, 
+ and RIDGWAY, Hist. N. Am. Birds, ii, 1874, 496, pi. 49, figs. 1, 2. — ^Merriam, 
 
  Am. Nat., viii, 1874, 88 (St. John and Ocklawaha rivers, e. Florida). — Ridg- 
 
@@ -29943,7 +29943,7 @@ Campephihts guatemdiensis Salvin, Proc. Zool. Soc. Lond., 1867, 157 (Santiago de
 
  Mus. Nac. Costa Rica, i, 1887, 123 (Grecia, Jimenez, Las Trojas, and Cartago, 
 
- Costa Rica).— RiDGWAY, Proc. U. S. Nat. Mus., x, 1887, 582, 591 (Truxillo 
+ Costa Rica).— RIDGWAY, Proc. U. S. Nat. Mus., x, 1887, 582, 591 (Truxillo 
 
  and Rio Segovia, Honduras).- Stone, Proc. Ac. Nat. Sci. Phila., 1890, 206 
 
@@ -31169,7 +31169,7 @@ Capnopicm Bonapaetb, Ateneo ItaJiano, ii, 1854, 125 (Consp. Volucr. Zygod.,
 
 
 
-Picas tephrodops Wagler=P. passerinus Linnseus.) 
+Picas tephrodops Wagler=P. passerinus Linnaeus.) 
 
  Phaionerpes Reichenbach, Handb. Scansores, Picinae, 1854, 856. (Type, Picas 
 
@@ -32763,7 +32763,7 @@ Malherbe.)
 
 
 
-(Type, Picus minor Linnseus.) 
+(Type, Picus minor Linnaeus.) 
 
  Tridactylia (not of Shaw, 1815) Bonaparte, Ateneo Italiano, ii, 1854, 123 
 
@@ -32882,7 +32882,7 @@ anterior end of nostrils about equal to its depth at same point;
 
  short-acuminate. Tarsus longer than outer hind toe with claw 
 
- (except in D. scalaris, D. nuttdUii, D. striclclandi, and D. arizonse), 
+ (except in D. scalaris, D. nuttallii, D. striclclandi, and D. arizonse), 
 
  feathered in front for at least upper third; outer hind toe much 
 
@@ -32930,7 +32930,7 @@ Coloration. — (1) General color of upper parts black, the scapulars
 
  with occiput as well as nape red, the crown streaked or speckled with 
 
- white. (D. scalaris and D. nuttaUii groups.) 
+ white. (D. scalaris and D. nuttallii groups.) 
 
 
 
@@ -35129,7 +35129,7 @@ Pieus rubricapillus Nuttall, Man. Om. TJ. S. and Can., Land Birds, 2d ed., 1840,
 
 
 
-[Picus (Trichopicus) villosm] var. medius (not Picus medius Linnseus) Baird, Rep. 
+[Picus (Trichopicus) villosm] var. medius (not Picus medius Linnaeus) Baird, Rep. 
 
  Pacific R. R. Surv., ix, 1858, p. xxvii. 
 
@@ -35316,7 +35316,7 @@ Dryobates mllosus auduboni Brewster, Auk, iii, 1886, 104 (Black Mts., w. North
 
 
 
-[Pints (Trichopicus) villosus.] var. minor (not Picus minor Linnseus) Baird, Rep. 
+[Pints (Trichopicus) villosus.] var. minor (not Picus minor Linnaeus) Baird, Rep. 
 
  Pacific R. R. Surv., ix, 1858, p. xxvii (nomen nudum). 
 
@@ -35619,7 +35619,7 @@ Dryobates maynardi piger Jenkins, Auk, xxiii, April, 1906, 169, in text.
 
 
 
-DRYOBATES VILLOSUS SEPTENTRIONALIS (NuttaU). 
+DRYOBATES VILLOSUS SEPTENTRIONALIS (Nuttall). 
 
 
 
@@ -36120,7 +36120,7 @@ Dryobates villosus harrisi Beckham, Auk, iv, 1887, 120 (Pueblo Co., Colorado).
 
 
 
-Pieus villosus (not of Linnseus) Allen, Bull. Mus. Comp. Zool., iii, 1872, 163 (Mt. 
+Pieus villosus (not of Linnaeus) Allen, Bull. Mus. Comp. Zool., iii, 1872, 163 (Mt. 
 
  Lincoln, Colorado).— (?) Williams, Bull. Nutt. Om. Club, vii, 1882, 62 (Belt 
 
@@ -37059,7 +37059,7 @@ Coast district of southeastern Alaska (Sitka; Howkan; Loring;
 
 
 
-Picas viUosas (not of Linnseus) Dall and Bannister, Trans. Chicago Ac. 
+Picas viUosas (not of Linnaeus) Dall and Bannister, Trans. Chicago Ac. 
 
  Sci., i, 1869, 274 (Sitka, Alaska).— Finsch, Abb. Nat. Brem., iii, 1872, 60, 
 
@@ -38779,7 +38779,7 @@ Sclater, Cat. Am. Birds,' 1862, 334, part (eynonymy only).— (?)Dbe8SER,
 
  no. 440, part.— Baikd, Bbbwer, and Ridgwat, Hist. N. Am. Birds, ii, 1874, 
 
- 509, part.- RiDGWAY, Proc. U. S. Nat. Mus., iii, 1880, 188, part; Nom. N. Am. 
+ 509, part.- RIDGWAY, Proc. U. S. Nat. Mus., iii, 1880, 188, part; Nom. N. Am. 
 
  Birds, 1881, no. 361, part.- Ogilbt, Sci. Proc. Roy. Dublin Soc, iii, 1882, 57 
 
@@ -38801,7 +38801,7 @@ P[vms] pubescens Bonnaterre and Vieillot, Enc. M6th., iii, 1823, 1311. — ^Bona
 
  Birds, ii, 1845, 435, part.— Coues, Key N. Am. Birds, 2d ed., 1884, 483, part.— 
 
- RiDGWAY, Ann. Lye. N. Y., x, 1874, 377, part (Illinois). — Kopman, Gulf 
+ RIDGWAY, Ann. Lye. N. Y., x, 1874, 377, part (Illinois). — Kopman, Gulf 
 
  Fauna and Flora Bull., i, no. 2, 1899, 57 (s. Louisiana, resident). 
 
@@ -38980,7 +38980,7 @@ Upper Austral Zone and part of Transition Zone of eastern North
 
 
 
-Pirns pubescens (not of Linnseus) Wilson, Am. Om., i, 1807, 153, part, pi. 9, 
+Pirns pubescens (not of Linnaeus) Wilson, Am. Om., i, 1807, 153, part, pi. 9, 
 
  fig. 4. — ViBiLLOT, Ois. Am. Sept., ii, 1807, 65, part, pi. 121; Nouv. Diet. 
 
@@ -38992,7 +38992,7 @@ Pirns pubescens (not of Linnseus) Wilson, Am. Om., i, 1807, 153, part, pi. 9,
 
  and Comp. List, 1838, 39, part.— Lbsson, Traits d'Om., 1831, 228, part,— 
 
- NuTTALL, Man. Om. U. S. and Can., i, 1832, 576, part. — ^Atjdubon, Om. 
+ NUTTALL, Man. Om. U. S. and Can., i, 1832, 576, part. — ^Atjdubon, Om. 
 
  Biog., ii, 1834, 81, part, pi. 112; v, 1839, 539, part; Synopsis, 1839, 180, part; 
 
@@ -39161,7 +39161,7 @@ Dryobates pubescens American Ornithologists' Union, Check List, 1886 (and 2d
 
 Picus {Dendrocopus) Tnedianvs Swainson, Fauna Bor.-Am., ii, 1831, 308 (New 
 
- Jersey).— NuTTALL, Man. Om. U. S. and Can., Water Birds, 1834, 601. 
+ Jersey).— NUTTALL, Man. Om. U. S. and Can., Water Birds, 1834, 601. 
 
 
 
@@ -39439,7 +39439,7 @@ Picas pubescens (not of LiimseuB) Blakiston, Ibis, 1862, 3 (Forks of Saskatche-
 
  List, 1873, no. 299, part; 2d ed., 1882, no. 439, part. — ^Baird, Bbewee, and 
 
- RiDGWAY, Hist. N. Am. Birds, ii, 1874, 509, part. — Ridgwat, Nom. N. Am. 
+ RIDGWAY, Hist. N. Am. Birds, ii, 1874, 509, part. — Ridgwat, Nom. N. Am. 
 
  Birds, 1881, no. 361, part.— (?)Merbiam, Bull. Nutt. Om. Club, vii, 1882, 
 
@@ -40142,7 +40142,7 @@ Dryobates piibescens turati Fisher (W. K.), Condor, iv, May, 1902, 68 (diagnosis
 
  Tulare Co., CaUfomia, June). 
 
- ' (7)PiCMS pubescens (not of Linnseus) Ridgwat, Bull. Nutt. Om. Club, iii, 1878, 67 
+ ' (7)PiCMS pubescens (not of Linnaeus) Ridgwat, Bull. Nutt. Om. Club, iii, 1878, 67 
 
  (Marysville, Yuba Co., California, Dec. 27; crit.). — Ridgwat and Belding, 
 
@@ -44483,7 +44483,7 @@ Volucr. Zygod., May, 1854, 8). (Type, Picus thyroideus Casein.)
 
 
 
-designation, Picus uantis Linnseus.) 
+designation, Picus uantis Linnaeus.) 
 
  Sphyropicus (emendation) Sclatbk, Proc. Zool. Soc. Lond., 1859, 236. — ^Elliot, 
 
@@ -46570,7 +46570,7 @@ SphyropieiLS thyroideus Cooper, Om. Calif. 1870, 394. — ^Mehriam, Sixth An. Re
 
  TJ. S. Geol. Surv. Terr., 1873, 694 (Madison R., Montana). — Baisd, Brewer, 
 
- and RiDGWAY, Hist. N. Am. Birds, ii, 1874, 547, pi. 56, fig. 6. — Bblding, 
+ and RIDGWAY, Hist. N. Am. Birds, ii, 1874, 547, pi. 56, fig. 6. — Bblding, 
 
  Phoo. U. S. Nat. Mus., i, 1878, 429 (Placer and Calaveras counties, Cali- 
 
@@ -48765,13 +48765,13 @@ P. drrhatus Temminck.)
 
 
 
-Linnseus.) , 
+Linnaeus.) , 
 
  Piculus Geopfeoy Saint-Hilaiee, Nouv. Ann. du Mus. d'Hist. Nat., eer. 3, i, 
 
 
 
-1832, 396. (Type, Pipra minuta Linnseus.) 
+1832, 396. (Type, Pipra minuta Linnaeus.) 
 
  Microcolaptes Bonapaetb, Ateneo Italiano, ii, 1854, 126 (Consp. Volucr. Zygod., 
 
@@ -52675,7 +52675,7 @@ flank patch of yellow or orange elongated feathers Selenidera (p. 348).
 
 
 
-Genus RAMPHASTOS Linnseus. 
+Genus RAMPHASTOS Linnaeus. 
 
 
 
@@ -53337,7 +53337,7 @@ Rhamphastos carinatus Sclatbb, Proc. Zool. Soc. Lond., 1859, 388 (Playa Vicente,
 
 
 
-Ramphastos tucanus (not of Linnseus) Shaw, Gen. Zool., viii, pt. 2, 1811, 362. 
+Ramphastos tucanus (not of Linnaeus) Shaw, Gen. Zool., viii, pt. 2, 1811, 362. 
 
 
 
@@ -53769,7 +53769,7 @@ Rhamphastos carinatus Salvin and Godman, Ibis, 1879, 206 (Manaure, Santa
 
 
 
-Ramphastos piscivonis (not of Linnseus) Lawrence, Ann. Lye. N. Y., viii, 1867, 
+Ramphastos piscivonis (not of Linnaeus) Lawrence, Ann. Lye. N. Y., viii, 1867, 
 
  183 (Greytown, Nicaragua). — Sclater and Salvin, Proc. Zool. Soc. Lond., 
 
@@ -57576,7 +57576,7 @@ Jacamaralcyon (extralimital).";
 
 o Urogalba Bonaparte, Ateneo Italiano, ii, 1854, 129 (Consp. Volucr. Zygod., 1854, 
 
- 13.) (Type, Alcedo paradisea Linnseus.) — Urocex Cabanis and Heine, Mus. Hein., iv, 
+ 13.) (Type, Alcedo paradisea Linnaeus.) — Urocex Cabanis and Heine, Mus. Hein., iv, 
 
  heft 1, April, 1863, 216. (To replace Urogalha Bonaparte, on grounds of purism.) — 
 
@@ -64302,7 +64302,7 @@ Genus STREPTOCERYLE Bonaparte.
 
 Ispida (not of Brisson, 1760, Schaefter, 1789, nor Rafinesque, 1815) Swainson, 
 
- Classif. Birds, ii, 1837, 326. (Type, Alcedo alcyon Linnseus.) 
+ Classif. Birds, ii, 1837, 326. (Type, Alcedo alcyon Linnaeus.) 
 
 
 
@@ -65321,7 +65321,7 @@ Lesser Antilles (islands of Guadeloupe and Dominica; Martinique?).
 
 
 
-{1)Alcedo torquata (not of Linnseus) Vibillot, Nouv. Diet. d'Hist. Nat., xix, 1818, 
+{1)Alcedo torquata (not of Linnaeus) Vibillot, Nouv. Diet. d'Hist. Nat., xix, 1818, 
 
 
 
@@ -67033,7 +67033,7 @@ Am., Oct. ed., iv, 1842, 205, pi. 255.— Swainson and Richardson, FaunaBor.
 
  Am., ii, 1831, 339.— Jakdine, ed. Wilson's Am. Orn., i, 1832, 348, pi. 23, fig. 
 
- 1.— NuTTALL, Man. Om.TT. S. and Can., Land Birds, 1832, 594.— D'Obbiqnt, 
+ 1.— NUTTALL, Man. Om.TT. S. and Can., Land Birds, 1832, 594.— D'Obbiqnt, 
 
  in La Sagra's Hist. Nat. Cuba, Ois., 1839, 130.— Mabtens, Joum. fiir Orn 
 
@@ -67365,7 +67365,7 @@ Western North America, east to and including Rocky Mountains;
 
 
 
-Alcedo aXeyon (not of Linnseus) Audubon, Om. Biog., i, 1831, 394, part; Synopsis, 
+Alcedo aXeyon (not of Linnaeus) Audubon, Om. Biog., i, 1831, 394, part; Synopsis, 
 
  1839, 173, part; Birds Am., oct. ed., iv, 1842, 205, part. — Pat.TiAS, Zoogr. 
 
@@ -67498,7 +67498,7 @@ CMoroeeryle Kaup, Verh. naturhist. Vereins Hessen, ii, 1848, 68 (Fam. Eisv.,
 
 
 
-1848, 8). (Type, Alcedo superdliosa Linnseus.) 
+1848, 8). (Type, Alcedo superdliosa Linnaeus.) 
 
  Amazonis (not Amazona Lesson, 1830) Rbichenbach, Handb., Alcedin., 1851, 28. 
 
@@ -71421,7 +71421,7 @@ Island of Cuba (San Diego de los Banos, Trinid&d, El Guam&, San
 
 
 
-(?) Todits viridis {not oi Linnseus) Vieillot, Nouv. Diet. d'Hist. Nat., xxxiv, 1819, 
+(?) Todits viridis {not oi Linnaeus) Vieillot, Nouv. Diet. d'Hist. Nat., xxxiv, 1819, 
 
  184, part. 
 
@@ -71638,7 +71638,7 @@ TODUS PDLCHERRIMUS Sharpe.
 
 
 
-SHAXPE'S TODY. 
+SHARPE'S TODY. 
 
 
 
@@ -71983,7 +71983,7 @@ Todus multicolor (not of Gould) Schlbgel, Mus. Pays-Bas, iii, no. 19, 1863, 8,
 
 
 
-TODUS TODUS (Linnseus). 
+TODUS TODUS (Linnaeus). 
 
 
 
@@ -72166,7 +72166,7 @@ Island of Porto Rico (Mayagu6z; El Yunque; Utuado; Caguas).
 
 
 
-Todvs viridis (not of Linnseus) Desmaeest, Hist. Nat. Tang., etc., 1805, pi. 67.— 
+Todvs viridis (not of Linnaeus) Desmaeest, Hist. Nat. Tang., etc., 1805, pi. 67.— 
 
 
 
@@ -72628,13 +72628,13 @@ Genus MOMOTUS Brisson.
 
 
 
-Momotus Bkisson, Om., iv, 1760, 465. (Type, Eamphastos momota Linnseus.) 
+Momotus Bkisson, Om., iv, 1760, 465. (Type, Eamphastos momota Linnaeus.) 
 
  Prionites Illigee, Prodromus Om., 1811, 224. (Type, Ramphmtos momota 
 
 
 
-Linnseus.) 
+Linnaeus.) 
 
  Prionitis (emendation) Voigt, Thierreich, i, 1831, 660. 
 
@@ -72642,7 +72642,7 @@ Linnseus.)
 
 
 
-momota Linnseus.) 
+momota Linnaeus.) 
 
  Barryphonus « (emendation?) Vieillot, Analyse, 1816, 69. 
 
@@ -77342,7 +77342,7 @@ Suborder NYCTICORACIiE.
 
  57. — LiLLjBBORG, Proc. Zool. Soc. Lond., 1866, 16. — Baikd, Brewer, and 
 
- RiDGWAY, Hist. N. Am. Birds, ii, 1874, 398. — Coues, Key N. Am. Birds, 
+ RIDGWAY, Hist. N. Am. Birds, ii, 1874, 398. — Coues, Key N. Am. Birds, 
 
  2d ed., 1884, 447. 
 
@@ -77983,13 +77983,13 @@ British Guiana to upper Amazon Valley, Bolivia, northern Argentina, Paraguay,
 
 * Caprimulgus Linnaeus, Syst. Nat., ed. 10, i, 1758, 193. (Type, as fixed by Gray, 
 
- 1840, C. europseus Linnseus.) — Nyctidielidon Rennie, in Montague's Om. Diet., 1831, 
+ 1840, C. europseus Linnaeus.) — Nyctidielidon Rennie, in Montague's Om. Diet., 1831, 
 
- 335. (Type, Caprimulgus europxus Linnseus.) — Phalsenivora Blyth, Analyst, v, no. 
+ 335. (Type, Caprimulgus europxus Linnaeus.) — Phalsenivora Blyth, Analyst, v, no. 
 
  xvii, Oct., 1836, 79; in White's Nat. Hist. Selbome, 1836, 49, 72, footnote. (New 
 
- name for Caprimulgus Linnseus.) 
+ name for Caprimulgus Linnaeus.) 
 
 
 
@@ -78348,7 +78348,7 @@ Genus SIPHONORHIS Sclater.
 
 Siphonorhis Sclater, Proc. Zool. Soc. Lond., 1861, 77. (Type, Caprimulgvs 
 
- americanus Linnseus.) 
+ americanus Linnaeus.) 
 
 
 
@@ -80237,7 +80237,7 @@ A[ntrostomus] carolinensis Cabanis and Heine, Mus. Hein., iii, 1860, 90 (Cuba). 
 
  Newton, Handb. Jamaica, 1881, 109. — Cotjes, Key N. Am. Birds, 2d ed., 
 
- 1884, 451.— RiDGWAY, Man. N. Am. Birds, 1887, 298. 
+ 1884, 451.— RIDGWAY, Man. N. Am. Birds, 1887, 298. 
 
 
 
@@ -84305,7 +84305,7 @@ Southeastern Mexico, in States of Vera Cruz (Rivera; Orizaba;
 
 
 
-{1)Nyctidromus americanus (not Caprimulgus amerimnus Linnseus) Sclater, Proc. 
+{1)Nyctidromus americanus (not Caprimulgus amerimnus Linnaeus) Sclater, Proc. 
 
 
 
@@ -84625,7 +84625,7 @@ Nyctidrmnus albicollis (not Caprimulgus albicollis Gmelin) Meekili; (J. C), Bull
 
  Mus., 1, 1878, 145 (Ft. Brown and Hidalgo, Texas; habits; descr. nest and 
 
- eggs). — RiDGWAY, Proc. U. S. Nat. Mus., i, 1878, 143, part, pis. 1, 2 (generic 
+ eggs). — RIDGWAY, Proc. U. S. Nat. Mus., i, 1878, 143, part, pis. 1, 2 (generic 
 
  outlines; synonymy; description); iii, 1880, 188, 233; Nom. N. Am. Birds, 
 
@@ -87369,7 +87369,7 @@ Ohorddles popetue popetue Goode, Bull. U. S. Nat. Mus., no. 20, 1883. 313.
 
 
 
-Caprimulgus americanus (not of Linnseus) Wilson, Am. Orn., v, 1812, 65, pi. 40, 
+Caprimulgus americanus (not of Linnaeus) Wilson, Am. Orn., v, 1812, 65, pi. 40, 
 
  figs. 1, 2 (type locality not stated, but probably Penn.sylvania). 
 
@@ -92275,7 +92275,7 @@ alba Scopoli. See Newton, Ibis, 1876, 104; Allen, Auk, xxv, 1908, 288-291.)
 
 
 
-for Strix Savigny nee Linnseus; type, Strix flammea Linnseus, 1766, not of 
+for Strix Savigny nee Linnaeus; type, Strix flammea Linnaeus, 1766, not of 
 
 
 
@@ -93815,7 +93815,7 @@ Strix pratincola Bonaparte, Geog. and Comp. List, 1838, 7 (based on Audubon,
 
 [iSSm] pratincok Bonaparte, Consp. Av., i, 1850, 55. — Gray, Hand-list, i, 1869, 
 
- 52, no. 565.— RiDGWAY, Proc U. S. Nat. Mus., ix, 1886, 164, in text (Chietla 
+ 52, no. 565.— RIDGWAY, Proc U. S. Nat. Mus., ix, 1886, 164, in text (Chietla 
 
  and Puebla, Puebla; crit. ; measurements). — Sharpb, Hand-list, i, 1899, 300. 
 
@@ -94324,7 +94324,7 @@ Strix pratincola (not of Bonaparte) Sclater and Salvin, Ibis, 1859, 222 (Gua-
 
 
 
-Strix flammea (not of Linnseus) Sharpb, Cat. Birds Brit. Mus., ii, 1875, 291, part 
+Strix flammea (not of Linnaeus) Sharpb, Cat. Birds Brit. Mus., ii, 1875, 291, part 
 
  (Veragua, Panama; "Mexico"). 
 
@@ -95310,7 +95310,7 @@ S[trix] punctatissima Gray, Gen. Birds, i, 1844, 41. — RoTHSOHiiiD and Hartbet
 
 
 
-Strix flammea (not of Linnseus) Shabpe, Cat. Birds Brit. Mus., ii, 1875, 291, part 
+Strix flammea (not of Linnaeus) Shabpe, Cat. Birds Brit. Mus., ii, 1875, 291, part 
 
  (Galapagos). 
 
@@ -96202,7 +96202,7 @@ Third and fourth, or second, third, and fourth, from outside, not counting the
 
 
 
-(?) [Strix] funerea Linnseus, Syst. Nat., ed. 10, i, 1758, 93, part (based on Fauna 
+(?) [Strix] funerea Linnaeus, Syst. Nat., ed. 10, i, 1758, 93, part (based on Fauna 
 
  cica, 51); ed. 12, i, 1766, 133.— Nyctale funerea Bonaparte, Cat. Met. Ucc. Eur., 
 
@@ -97175,7 +97175,7 @@ southern Ohio, southern California, etc., casually to North Carolina
 
  Bor.-Am., ii, 1831, 97.— Jaedine, ed. Wilson's Am. Om., ii, 1832, 66.— 
 
- NuTTALL, Man. Om. U. S. and Can., Land Birds, 1832, 137; 2d ed., 1840, 
+ NUTTALL, Man. Om. U. S. and Can., Land Birds, 1832, 137; 2d ed., 1840, 
 
  • 145.— AuDtJBON, Om. Biog., ii, 1834, 567, pi. 199; v, 1839, 397.— Peabody, 
 
@@ -98394,13 +98394,13 @@ Scotiaptex nebulosa lapponica American Ornithologists' Union Committee,
 
 
 
-Genus STRIX Linnseus. 
+Genus STRIX Linnaeus. 
 
 
 
 Strix LiNNiEUS, Syst. Nat., ed. 10, i, 1758, 92. (Type, by subsequent designa- 
 
- tion, Strix aliux) Linnseus or S. strUula Linnseus. See Newton, Ibis, 1876, 
+ tion, Strix aliux) Linnaeus or S. strUula Linnaeus. See Newton, Ibis, 1876, 
 
  94-105; Allen, Auk, xxv, 1908, 290.) 
 
@@ -98408,13 +98408,13 @@ Strix LiNNiEUS, Syst. Nat., ed. 10, i, 1758, 92. (Type, by subsequent designa-
 
 Symium Savigny, Descr. de I'Egypte, Ois., i, livr. 1, 1809, 111, 298. (Type, 
 
- Strix ululans Savigny =5. aliico Linnseus.) 
+ Strix ululans Savigny =5. aliico Linnaeus.) 
 
 
 
 Aluco (not of Fleming, 1828) Kaup, Naturl. Syst., 1829, 190. (Type, Strix aluco 
 
- Linnseus.) 
+ Linnaeus.) 
 
 
 
@@ -99025,7 +99025,7 @@ Sumium nebulosum Scott, Proc. Bost. Soc. N. H., xv, 1873, 226.
 
 
 
-(?) Strix aluco (not of Linnseus) Nuttall, Man. Om. U. S. and Can., Land Birds, 
+(?) Strix aluco (not of Linnaeus) Nuttall, Man. Om. U. S. and Can., Land Birds, 
 
  1832, 135; 2d ed., 1840, 137 (Newfoundland). 
 
@@ -100083,7 +100083,7 @@ New Mexico (San Miguel County, 9,500 feet; upper Pecos River)
 
 Symium ocddentale (not of Xantus, 1859) Coubs, Ibis, 1865, 162 (Ft. Whipple, 
 
- Arizona).— RiDGWAY, Am. Nat., viii, 1874, 239 (Tucson, Arizona); in Baird, 
+ Arizona).— RIDGWAY, Am. Nat., viii, 1874, 239 (Tucson, Arizona); in Baird, 
 
  Brewer, and Ridgway, Hist. N. Am. Birds, iii, 1874, 29, 38, part (Tucson).— 
 
@@ -100195,13 +100195,13 @@ Asio Brisson, Orn., i, 1760, 477. (Type, by tautonymy, [Asia] ado BriB8on=
 
 
 
-Strix otus Linnseus.) 
+Strix otus Linnaeus.) 
 
  Otus (not of Pennant, 1769) Cuvier, Lefons Anat. Comp., 1800, tab. ii. (Type, 
 
 
 
-by tautonymy, Strix otua Linnseus.) 
+by tautonymy, Strix otua Linnaeus.) 
 
 
 
@@ -100242,7 +100242,7 @@ Naturalist, ii, no. 9, June, 1837, 123. (Type, A. auritus 'M.oTns=Strix otus
 
 
 
-Linnseus.) 
+Linnaeus.) 
 
 
 
@@ -100921,7 +100921,7 @@ Otus zonurus Kaup, Trans. Zool. Soc. Lond., iv, pt. vi, 1859, 234.
 
 
 
-jBuio asio (not Strix asio Linnseus) De Kay, Zool. N. Y., ii, 1844, 25, pi. 12, fig. 25. 
+jBuio asio (not Strix asio Linnaeus) De Kay, Zool. N. Y., ii, 1844, 25, pi. 12, fig. 25. 
 
 
 
@@ -101684,7 +101684,7 @@ The whole of continental North and South America, from coast of
 
 Strixflammea Pontoppidan, Daneke Atlas, i, 1763, 617, pi. 25 (Sweden; based on 
 
- Linnseus, Fauna Suecica, no. 73). 
+ Linnaeus, Fauna Suecica, no. 73). 
 
 
 
@@ -102268,7 +102268,7 @@ descr.).
 
 (central Asia). — Schalow, Journ. fur Orn., 1908, 108. 
 
- Sumia funerea (not Strix funerea Linnseus) Cooke, Auk, ii, 1885, 31 (Corinth, 
+ Sumia funerea (not Strix funerea Linnaeus) Cooke, Auk, ii, 1885, 31 (Corinth, 
 
 
 
@@ -104036,7 +104036,7 @@ Pennant. See Stone, Auk, xxiv, 1907, 192; Allen, Bull. Am. Mus., xxiv,
 
 
 
-xxxiii. (Type, Strix scops Linnseus.) 
+xxxiii. (Type, Strix scops Linnaeus.) 
 
  Pisorhina Kaup, lais, 1848, 769. (Type, Scops manadensis Quoy and Gaimard.) 
 
@@ -104866,7 +104866,7 @@ Otus guatemalae (p. 717).
 
 
 
-OTUS ASIC ASIC (Linnseus). 
+OTUS ASIC ASIC (Linnaeus). 
 
 
 
@@ -106646,7 +106646,7 @@ Western Washington (Mount Vernon; Lake Cushman; Fort Van-
 
 
 
-(?) Strix asio (not of Linnseus) Townsend (J. K.), Journ. Ac. Nat. Sci. Phila., 
+(?) Strix asio (not of Linnaeus) Townsend (J. K.), Journ. Ac. Nat. Sci. Phila., 
 
 
 
@@ -106952,7 +106952,7 @@ EpMaltes ckoUba (not Strix choliha Vieillot) Lawrence, Ann. Lye. Nat. Hist.
 
 
 
-Scops asio (not Strix asio Linnseus) Cassin, in Baird, Rep. Pacific R. R. Surv., 
+Scops asio (not Strix asio Linnaeus) Cassin, in Baird, Rep. Pacific R. R. Surv., 
 
  ix, 1858, 51, part (Petaluma, San Francisco, and Sacramento Valley, Cali- 
 
@@ -111373,7 +111373,7 @@ ensis Franklin).
 
 
 
-nobilis Morris =5&'m bubo Linnseus.) 
+nobilis Morris =5&'m bubo Linnaeus.) 
 
  (?) Etoglaux Hodgson, Journ. Asiat. Soc. Bengal, x, 1841, 28. (Typo, Bubo 
 
@@ -115748,7 +115748,7 @@ Nyctea Stephens, Shaw's Gen. ZooL, xiii, pt. ii, 1826, 63. (Type, Strix erminea
 
 
 
-Shavr=S. nyctea Linnseus.) 
+Shavr=S. nyctea Linnaeus.) 
 
  Nyctia (emendation) Swainson, Clas'aif. Birds, ii, 1837, 217. 
 
@@ -115777,7 +115777,7 @@ Strix nivea Thunberg=iS'. nyctea Linnaeus.)
 
 
 
-nyctea Linnseus.) 
+nyctea Linnaeus.) 
 
 
 
@@ -116317,7 +116317,7 @@ Nycteanivea americxma Brbhm, Verz. Samml. C. L. Brehm, 1866, 2.
 
 [Strix] scandiaca Linn^btts, Syst. Nat., ed. 12, i, 1766, 132 (Sweden; based on 
 
- Strix capite aurito, corpore albido Linnseus, Fauna Suecica, 16). — Latham, 
+ Strix capite aurito, corpore albido Linnaeus, Fauna Suecica, 16). — Latham, 
 
  Index Om., i, 1790, 53. 
 
@@ -116928,7 +116928,7 @@ BIBDS OF NOBTH AND MIDDLE AMEBIOA. 777
 
 
 
-[Stnx]fun&ea (not of Linnseus, 1758) Linn^tjs, Syst. Nat., ed. 12, i, 1766, 133.— 
+[Stnx]fun&ea (not of Linnaeus, 1758) Linn^tjs, Syst. Nat., ed. 12, i, 1766, 133.— 
 
  Gmblin, Syst. Nat., i, pt. 1, 1788, 294.— Latham, Index Om., i, 1790, 62. 
 
@@ -117218,7 +117218,7 @@ BIBDS OF NOBTH AND MIDDLE AMEEICA. 779
 
 
 
-[8umia] ulula (not Strix ulula Linnseus) Bonapakte, Consp. Av., i, 1850, 36, 
+[8umia] ulula (not Strix ulula Linnaeus) Bonapakte, Consp. Av., i, 1850, 36, 
 
  part.— Gray, Hand-list, i, 1869, 39, no. 376, part. 
 
@@ -117294,7 +117294,7 @@ Olauddium Boie, Isis, xix, 1826, 970. (Type, by monotypy, Strix passerina
 
 
 
-Linnseus.) 
+Linnaeus.) 
 
  NycHpetes Swainson, Classif. Birds, ii, 1837, 218. (Type, Strix perlata Vieillot.) 
 
@@ -118923,7 +118923,7 @@ Strix passerinoides (not of Temminck) Townsbnd (J. K.), Jovim. Ac. Nat. Sci.
 
  Phila., viii, 1839, 152.— Aottjbon, Orn. Biog., v, 1839, 271, pi. 432, figs. 
 
- 4, 5.— NuTTALL, Man. Orn. U. S. and Can., Land Birds, 2d ed., 1840, 148 
+ 4, 5.— NUTTALL, Man. Orn. U. S. and Can., Land Birds, 2d ed., 1840, 148 
 
  (Ft. Vancouver, Washington; habits). 
 
@@ -120840,7 +120840,7 @@ Glauddium siju Cabanis, Joum. fiir Om., 1855, 465. — Lawrence, Ann. Lye.
 
  its); Repert. Pisico-Nat. Cuba, i, 1865, 226.— Weight, Am. Nat., il, 1868, 
 
- 420. — RiDGWAY, Proc. Bost. Soc. N. H., xvi, 1873, 105(monogr.; Remedies 
+ 420. — RIDGWAY, Proc. Bost. Soc. N. H., xvi, 1873, 105(monogr.; Remedies 
 
  and Nueva Sofia, Cuba); Ibis, 1876, 17 (crit.).— Sharpe, Ibis, 1875, 59 
 
@@ -120874,7 +120874,7 @@ Glauddium havanense Kaup, Jardine's Contr. Om., 1852, 104 (Cuba; ex Strix
 
 
 
-Scops asio (not Strix asio Linnseus) Gundlach, Joum. fiir Om., 1861, 403 (Cuba). 
+Scops asio (not Strix asio Linnaeus) Gundlach, Joum. fiir Om., 1861, 403 (Cuba). 
 
 
 
@@ -132589,7 +132589,7 @@ nelsonl 236
 
 
 
-nuttaUi 245 
+nuttalli 245 
 
 
 
@@ -132697,7 +132697,7 @@ lucasana 252
 
 
 
-nuttaUi 244 
+nuttalli 244 
 
 
 

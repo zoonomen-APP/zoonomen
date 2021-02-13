@@ -451,7 +451,7 @@ In groups of wide geographic range it is of course necessary to have
 
  as yet unknown to science. 
 
- ^ Certain so-called genera of the family Fringillida) afford a sirikiug illustration. 
+ ^ Certain so-called genera of the family Fringillida) afford a striking illustration. 
 
 
 
@@ -972,7 +972,7 @@ Washingtcni, D. (7., JuVy i, 1901.
 
 
 
-^The Academy's entire collection of Icteridaj and Corvidse, with ttie exception of 
+^The Academy's entire collection of Icteridaj and Corvidse, with the exception of 
 
  certain specimens whicli can not be lent owing to conditions accompanying their gift 
 
@@ -990,7 +990,7 @@ NOTE.
 
 
 
-The necessity for beginning this work with the highest instoiul of 
+The necessity for beginning this work with the highest instead of 
 
  the lowest forms is to be regretted, and may be explained by briefly 
 
@@ -1066,7 +1066,7 @@ Measurements are in millimeters, and are made in the following
 
 
 
-(5) Depth of Mil at hase, measured with dividers from lower edge 
+(5) Depth of Bill at base, measured with dividers from lower edge 
 
  of mandibular rami to highest portion of the culmen. 
 
@@ -1473,7 +1473,7 @@ Key to the Species and Subspecies of Acanthis 80
 
 
 
-22. Acanthis linaria linaria (Linnseus) - 85 
+22. Acanthis linaria linaria (Linnaeus) - 85 
 
 
 
@@ -1493,7 +1493,7 @@ Genus 7. Carduelis Brisson 93
 
 
 
-26. Carduelis carduelis (Linnseus) 94 
+26. Carduelis carduelis (Linnaeus) 94 
 
 
 
@@ -1549,7 +1549,7 @@ Key to the Species and Subspecies of Astragalinus 108
 
 
 
-35. Astragalinus tristis tristis (Linnseus) 109 
+35. Astragalinus tristis tristis (Linnaeus) 109 
 
 
 
@@ -1653,11 +1653,11 @@ Key to the American (introduced) Species of Passer 143
 
 
 
-57. Passer domesticus (Linnseus) I43 
+57. Passer domesticus (Linnaeus) I43 
 
 
 
-58. Passer montanus (Linnseus) I45 
+58. Passer montanus (Linnaeus) I45 
 
 
 
@@ -1669,7 +1669,7 @@ Key to the Species and Subspecies of Passerina I47
 
 
 
-59. Passerina nivalis nivalis (Linnseus) _ 14g 
+59. Passerina nivalis nivalis (Linnaeus) _ 14g 
 
 
 
@@ -1698,7 +1698,7 @@ Key to the Species and Subspecies of Oalcarius 155
 
 
 
-62. Oalcarius lapponicus lapponicus (Linnieus) 165 
+62. Oalcarius lapponicus lapponicus (Linnaeus) 165 
 
 
 
@@ -2091,7 +2091,7 @@ Key to the Species and Subspecies of Junco 272
 
 
 
-136. Junco hyemalis hyemalis (Linnseus) 278 
+136. Junco hyemalis hyemalis (Linnaeus) 278 
 
 
 
@@ -2501,7 +2501,7 @@ Key to the Species and Subspecies of Pipilo 403
 
 
 
-221. Pipilo erythrophthalmus erythrophthalmus (Linnseus) 423 
+221. Pipilo erythrophthalmus erythrophthalmus (Linnaeus) 423 
 
 
 
@@ -3084,7 +3084,7 @@ Key to the Species of Melopyrrha 562
 
 
 
-327. Melopyrrha nigra (Linnseus) 562 
+327. Melopyrrha nigra (Linnaeus) 562 
 
 
 
@@ -3160,7 +3160,7 @@ Key to the Species of Cyanospiza 581
 
 
 
-341. Cyanospiza ciris (Linnseus) 586 
+341. Cyanospiza ciris (Linnaeus) 586 
 
 
 
@@ -3232,7 +3232,7 @@ Key to the Species and. Subspecies of Guiraca 607
 
 
 
-353. Guiraca cserulea caerulea (Linnseus) 607 
+353. Guiraca cserulea caerulea (Linnaeus) 607 
 
 
 
@@ -4180,7 +4180,7 @@ NORTH AND MIDDLE AMERICA.
 
 
 
-By KOBEET RiDGWAY, 
+By KOBEET RIDGWAY, 
 
 
 
@@ -6683,11 +6683,11 @@ The above distinctions hold good between Cosrcia, Cyanerpes, and Glossiplila (Cc
 
 'Lucas, The Auk, xii, April, 189.i, 186; Proc. U. S. Xat. Mus., xviii, 1895, 505-507; 
 
- RiDGWAY, Proc. U. S. Nat. Mus., xviii, 1895, 449, 450. This family is represented by 
+ RIDGWAY, Proc. U. S. Nat. Mus., xviii, 1895, 449, 450. This family is represented by 
 
  a single nlonotypic genus, Procnias Illiger (Prodromus Orn., 1811, 228; type, ^impelis 
 
- tersa Linnseus), which ranges from Colombia over the Amazonian and Brazilian 
+ tersa Linnaeus), which ranges from Colombia over the Amazonian and Brazilian 
 
  provinces of South America. 
 
@@ -7163,7 +7163,7 @@ THE FINCHES. 1
 
 
 
-Conirostral, "nine-primaried," acutiplantar Oscines, with ttie com- 
+Conirostral, "nine-primaried," acutiplantar Oscines, with the com- 
 
  missure distinctly' and more or less abruptly angulated or deflexed 
 
@@ -9421,7 +9421,7 @@ Pringilla vespertina Cooper (W. ), Ann. Lye. Nat. Hist. N. Y., i, pt. ii, 1825,2
 
  1; Ann. Nat. His. Lye. N. Y. ii, 1828, 113; Zool. Journ., iv, pt. ii, 1828, 2.— 
 
- NuTTALL, Man. Orn. U. S. and Canad., i, 1832, 526. — Audubon, Orn. Biog., iv, 
+ NUTTALL, Man. Orn. U. S. and Canad., i, 1832, 526. — Audubon, Orn. Biog., iv, 
 
  1838, 515; v, 1839, 235, pLs. 373, 374. 
 
@@ -10465,7 +10465,7 @@ Northern and eastern Xorth America, breeding in coniferous forest
 
 
 
-Loxia . . curvirostra (not Linnseus) Forstee, Philos. Trans., Ixii, 1772, 402 
+Loxia . . curvirostra (not Linnaeus) Forstee, Philos. Trans., Ixii, 1772, 402 
 
  (Severn River). 
 
@@ -10957,7 +10957,7 @@ High mountains of central and southern New Mexico and Arizona
 
 
 
-Loxia mexicana (not of Linnseus) Strickland, Jardine's Contr. Orn., 1851, 43 
+Loxia mexicana (not of Linnaeus) Strickland, Jardine's Contr. Orn., 1851, 43 
 
  (City of Mexico). — Sclater, Proc. Zool. Soc. Lond., 1859, 365 (Jalapa, Vera 
 
@@ -11082,7 +11082,7 @@ Loxia stricklandi Nelson, Rep. Nat. Hist. Coll. Alaska, 1887, 174, part (Arizona
 
 
 
-Loxia curvirostra (not of Linnseus) Sharpe, Cat. Birds Brit. Mus., xii, 1888, 435, 
+Loxia curvirostra (not of Linnaeus) Sharpe, Cat. Birds Brit. Mus., xii, 1888, 435, 
 
  part. 
 
@@ -11361,7 +11361,7 @@ X. loxia] leucoptera Gray, Gen. Birds, ii, 1845, 388. — Bonaparte, Consp. Av.,
 
  viii, 1876, 105 (n. e. Illinois, winter).— Coues, Key N. Am. Birds, 2d ed., 
 
- 1884, 348.— RiDGWAY, Man. N. Am. Birds, 1887, 393. 
+ 1884, 348.— RIDGWAY, Man. N. Am. Birds, 1887, 393. 
 
 
 
@@ -11683,13 +11683,13 @@ Genus PINICOLA Vieillot.
 
 Pinicola Vieillot, Ois. Am., Sept., i, 1807, p. iv. (Type, P. ?-u6ro yieUlot,= 
 
- Loxia enucleator Linnseus. ) 
+ Loxia enucleator Linnaeus. ) 
 
 
 
 SlrobUophaga Vieillot, Analyse, 1816, 29. (Type, Dur-Bec B\ifion,= Loxia enu- 
 
- cleator Linnseus.) 
+ cleator Linnaeus.) 
 
 
 
@@ -12129,7 +12129,7 @@ ICorythus] enudeator Bonaparte, Consp. Av.,i, 1850, 528, part.
 
 Pyrrhula enudeator Bonaparte, Synopsis, 1828, 119; Am. Orn., iii, 1828, 16, pi. 16, 
 
- fig. 3. — NuTTALL, Man. Orn. U. S. and Canada, i, 1832, 535. — Audubon, Om. 
+ fig. 3. — NUTTALL, Man. Orn. U. S. and Canada, i, 1832, 535. — Audubon, Om. 
 
  Biog.,iv,,1838, 414, pi. 358. 
 
@@ -12524,7 +12524,7 @@ part (w. side Cascades).
 
 
 
-Pinicola enucleator (not Loxia enucleator Linnseus) Finsch, Abh. Nat. Forh.,iii, 
+Pinicola enucleator (not Loxia enucleator Linnaeus) Finsch, Abh. Nat. Forh.,iii, 
 
 
 
@@ -14447,7 +14447,7 @@ Genus ACANTHIS Beehstein.
 
 
 
-Acanthis Beohstein, Orn. Taschenb., 1803, 125. (Type, Fringilla linaria Linnseus; 
+Acanthis Beohstein, Orn. Taschenb., 1803, 125. (Type, Fringilla linaria Linnaeus; 
 
 
 
@@ -14490,7 +14490,7 @@ Vieillot.)
 
 
 
-flavirostris Linnseus. ) 
+flavirostris Linnaeus. ) 
 
 
 
@@ -14965,7 +14965,7 @@ Greenland; breeding n. of lat. 70°).
 
  land, 1863, 409, part. 
 
- F. [ringilla] linaria (not of Linnseus) Newton, Ibis, 1865, 502, in text (Spitz- 
+ F. [ringilla] linaria (not of Linnaeus) Newton, Ibis, 1865, 502, in text (Spitz- 
 
 
 
@@ -15074,7 +15074,7 @@ JEgiothm borealis Swinhoe, Proc. Zool. Soc. Lond., 1871, 386 (north China) ; Ibi
 
 
 
-(?) Acanthis linaria {not Fringilla linaria Linnseus) Bonaparte and Schlegel, 
+(?) Acanthis linaria {not Fringilla linaria Linnaeus) Bonaparte and Schlegel, 
 
  Mon. des Loxiens, 1850, pi. 52. 
 
@@ -15872,7 +15872,7 @@ IFringilla'] linaria Linnaeus, Syat. Nat., ed. 10, i, 1758, 182 (Europe); ed. 12
 
  MiNCK, Man. d'Orn., i, 1820, 373.— Naumann, Vog. DeutschL, v, 1826, 173, pi. 
 
- 126. — NuTTALL, Man. Orn. U. S. and Canada, i, 1832, 512.— Audubon, Orn. 
+ 126. — NUTTALL, Man. Orn. U. S. and Canada, i, 1832, 512.— Audubon, Orn. 
 
  Biog., iv, 1838, 523, pi. 375.— Kittlitz, Denkw., i, 1858, 321 (Kamtschatka).— 
 
@@ -16718,7 +16718,7 @@ Breeding and resident in Greenland; in winter southwestward through
 
 
 
-Fringilla linaria (not of Linnseus) Reinhardt, Ibis, 1861, 7 (Greenland). 
+Fringilla linaria (not of Linnaeus) Reinhardt, Ibis, 1861, 7 (Greenland). 
 
  ^giothus rostraius Coues, Proc. Ac. Nat. Sci. Phila., 1861, 378 (s. Greenland; U. S. 
 
@@ -17242,7 +17242,7 @@ Spinus^ Koch, Bayr. Zool., 1816, 233. (Type, by elimination, Fringilla spinus
 
 Linnaius.) (See Stejneg&r, Auk, i, 1884, 360.) 
 
- Chrysomitris BoiE, Isis, 1828, 322. (Type, Fringilla spinus Linnseus. ) 
+ Chrysomitris BoiE, Isis, 1828, 322. (Type, Fringilla spinus Linnaeus. ) 
 
  Hypacanthis^ Cabanis, Mus. Hein., i, Aug., 1851, 161. (Type, Carduelis spinoides 
 
@@ -17514,7 +17514,7 @@ Adult. — Above grayish or brownish, conspicuously streaked with
 
 ' Although introduced, with other European birds, into Oregon, there is no record 
 
- to the effect that this species has become naturalized. [Fringillct] sjjiims Linnseus, 
+ to the effect that this species has become naturalized. [Fringillct] sjjiims Linnaeus, 
 
  Syst. Nat., ed. 10, i, 1758, 181 (based on Fauna Suecica, 203, etc.); ed. 12, i, 1766, 
 
@@ -18948,7 +18948,7 @@ Astragalinus lawrencii (p. 121)
 
 
 
-ASTRAGALINUS TRISTIS TRISTIS (Linnseus). 
+ASTRAGALINUS TRISTIS TRISTIS (Linnaeus). 
 
  AMERICAN GOLDFINCH. 
 
@@ -19188,7 +19188,7 @@ Astragalinus irklis Allen, Proc. Essex Inst., iv, 1864, 69 (Springfield, Massa-
 
  Dec); Bull. Nutt. Orn. Club, v, 1880, 96; Check List, 2d ed., 1882, no. 
 
- 213.— RiDGWAY, Nbm. N. Am. Birds, 1881, no. 181.- Merriam, Bull. Nutt. 
+ 213.— RIDGWAY, Nbm. N. Am. Birds, 1881, no. 181.- Merriam, Bull. Nutt. 
 
  Orn. Club, vii, 1882, 235 (Point de Monts, prov. Quebec, Canada, July). — 
 
@@ -19607,7 +19607,7 @@ Fringillapsaltria Say, Long's Exped. Eocky Mts., ii, 1823, 40 (Arkansas Eiver). 
 
  BoNAPAKTE, AiQ. Orn., i, 1825, 54, pi. 6, fig. 3; Ann. Lye. N. Y., 1828, 111.— 
 
- NuTTALL, Man. Orn. U. S. and Canada, i, 1832, 510. — Audubon, Orn. Biog., v, 
+ NUTTALL, Man. Orn. U. S. and Canada, i, 1832, 510. — Audubon, Orn. Biog., v, 
 
  1839, 85, pi. 394. 
 
@@ -23448,7 +23448,7 @@ Genus PASSER Brisson.
 
 
 
-Passer Beissox, Orn., ii, 1760, 71. (Type, Fringilla domestica Linnseus. ) 
+Passer Beissox, Orn., ii, 1760, 71. (Type, Fringilla domestica Linnaeus. ) 
 
  Pyrgiia CtiviER, Regne Animal, i, 1817, 385. (Type, Fringilla domestica Linnreus. ) 
 
@@ -23925,13 +23925,13 @@ Passerina Yieillot, Analyse, 1S16, 30. (Type, by elimination, Emberiza nivalis
 
 Pkclrophanes (notof Meyer, 1815) Kaup, Entw. Eur. Thierw., 1829, 138. (Type, 
 
- Emberiza ^liaiUs Linnseus. ) 
+ Emberiza ^liaiUs Linnaeus. ) 
 
 
 
 Pleetropheiia.i' Stejnegbr, Proc. U. S. Nat. Mus., v, June 5, 1882, 33. (Type, 
 
- Emberiza niralis Linnieus. ) 
+ Emberiza niralis Linnaeus. ) 
 
 
 
@@ -24523,7 +24523,7 @@ Plectrophanes niralis Meyer, Zus. u. Bericht. Myeru. Wolf, -Taschenb. , 1822, 57
 
  iv, 1873, 261, pi. 225.— Snow, Birds Kansas, 1873, 6 (e. Kansas in winter).— 
 
- RiDGWAY, Bull. Essex Inst. , v, 1873, 182 ( Colorado in winter) ; Nom. N. Am. 
+ RIDGWAY, Bull. Essex Inst. , v, 1873, 182 ( Colorado in winter) ; Nom. N. Am. 
 
  Birds, 1881, no. 186. — Baird, Brewer, and Ridgway, Hist. N. Am. Birds, i, 
 
@@ -24694,7 +24694,7 @@ lEmberiza} lotharingica Guslis, Syst. Nat., i, 1788, 882, part (Europe; based on
 
 [Emberiza} ghicialis Latham, Index Orn., i, 1790, 398 (England, etc.;=E. mustelina 
 
- Gmelin, and E. niralis Linnseus, Fauna Suecica, no. 227B) . 
+ Gmelin, and E. niralis Linnaeus, Fauna Suecica, no. 227B) . 
 
 
 
@@ -24769,7 +24769,7 @@ Aleutian Islands, including Commander Islands, Kamchatka; Pribi-
 
 
 
-Plectropliitnes rmalis (not Emberiza nivalis Linnseus) Dall and Bannister, Trans. 
+Plectropliitnes rmalis (not Emberiza nivalis Linnaeus) Dall and Bannister, Trans. 
 
  Chicago Ac. Sci., i, 1869, 282, part (St. Georges I., Pribilof group) . — Finsch, 
 
@@ -25187,7 +25187,7 @@ gilla lapponica Linnaeus. ) (See Stejneger, Proc. U. S. Nat. Mus., v, 1882, 32. 
 
 
 
-Fringilla lapponica Linnseus. ) 
+Fringilla lapponica Linnaeus. ) 
 
  Cenirophanes Kaup, Entw. Eur. Thierw., 1829, 158. (Type, Fringilla lapponica 
 
@@ -26084,7 +26084,7 @@ Plectrophanes pictus Bonaparte, Geog. and Comp. List, 1838,37. — Audubon, Syn-
 
  R., North Dakota, Oct. 1). — Snow, Birds Kansas, 1873, 7. — Baied, Brewer, 
 
- and RiDGWAY, Hist. N. Am. Birds, i, 1874, 518, pi. 24, figs. 4, 5.— Nelson, 
+ and RIDGWAY, Hist. N. Am. Birds, i, 1874, 518, pi. 24, figs. 4, 5.— Nelson, 
 
  Bull. Nutt. Orn. Club, i, 1876, 42 ( Calumet Lake, n. e. IlUnois, Mar. ; habits) .— 
 
@@ -27068,7 +27068,7 @@ Great Plains between Missouri River and Rock^^ Mountains, breed-
 
 
 
-Fringilla bicolor (not of Linnseus) Townsend, Journ. Ac. Nat. Sci. Phila., vii, 1837, 
+Fringilla bicolor (not of Linnaeus) Townsend, Journ. Ac. Nat. Sci. Phila., vii, 1837, 
 
  189 (plains of Platte E.; type in U. S. Nat. Mus.) ; Narrative, 1839, 346.— 
 
@@ -27508,7 +27508,7 @@ within the past thirty years throughout the whole extent of the
 
 Emberiza americana Wilson, Am. Orn., i, 1808, 411; iii, 1811, 86, pi. 3, fig. 2. — 
 
- NuTTALL, Man. Orn. U. S. and Canada, i, 1832, 461.— Audubon, Orn. Biog., 
+ NUTTALL, Man. Orn. U. S. and Canada, i, 1832, 461.— Audubon, Orn. Biog., 
 
  iv, 1838, 579, pi. 384; Synopsis, 1839, 101; Birds Am., oct. ed., iii, 1841, 58, 
 
@@ -27756,7 +27756,7 @@ Emberiza towmendii Audubon, Orn. Biog., ii, 1834, 183 (Chester Co., Pennsyl-
 
  vania; type in coll. U. S. Nat. Mus.); v, 1839, 90, pi. 400; B. Am., iii, 1841, 
 
- 62, pi. 157.— NuTTALL, Man., 2d ed., i, 1840, 528. 
+ 62, pi. 157.— NUTTALL, Man., 2d ed., i, 1840, 528. 
 
 
 
@@ -28036,7 +28036,7 @@ Chondestes grammaca Bonaparte, Geog. and Comp. List, 1838, 32. — Baird, Rep.
 
  part. — Baied, Brewer and Ridgway, Hist. N. Am. Birds, i, 1874,562, part. — 
 
- RiDGWAY, Bull. Nutt. Orn. Club, iii, 1878, 43 (Washington, District of Colum- 
+ RIDGWAY, Bull. Nutt. Orn. Club, iii, 1878, 43 (Washington, District of Colum- 
 
  bia, 2 spec. Aug. 27), 164 (Wabash Co., Illinois). — Langdon, Birds Cine, 
 
@@ -30095,7 +30095,7 @@ Eastern North America, breeding from Connecticut, Pennsylvania
 
 
 
-(?) Fringilla hyemalis (not of Linnseus, 1758) Gmelin, Syst. Nat., i, 1788, 922 (New 
+(?) Fringilla hyemalis (not of Linnaeus, 1758) Gmelin, Syst. Nat., i, 1788, 922 (New 
 
  York; based on Winter Finch Pennant, Arct. Zool., ii, 376). 
 
@@ -31757,7 +31757,7 @@ Cenironyx bairdii B Ami), Rep. Pacific R. R. Surv., ix, 1858, 441; Cat. N. Am. B
 
  695 (North Dakota; habits, etc.); Birds N. W., 1874, 125 (syn., descr., 
 
- habits, etc.).— RiDGWAY, Bull. Essex Inst., v, 1873, 182, 190 (El Paso Co., 
+ habits, etc.).— RIDGWAY, Bull. Essex Inst., v, 1873, 182, 190 (El Paso Co., 
 
  Colorado; crit. ) .^Baird, Beewbe, and Ridgway, Hist. N. Am. Birds, ii, 
 
@@ -34849,7 +34849,7 @@ There is a decided difference in average measurements between specimens from
 
 Birds Kansas, 1873, 17 (Topeka, e. Kansas, Apr. 26).— Baird, Brewkr, and 
 
- RiDGWAY, Hist. N. Am. Birds, i, 1874, .550, pi. 2.5, fig. 5.— Deane, Bull. Nutt. 
+ RIDGWAY, Hist. N. Am. Birds, i, 1874, .550, pi. 2.5, fig. 5.— Deane, Bull. Nutt. 
 
  Orn. Club, iii, 1878, 39 ( Webster, Boscawen, and Salisbury, New Hampshire, 
 
@@ -34859,7 +34859,7 @@ Birds Kansas, 1873, 17 (Topeka, e. Kansas, Apr. 26).— Baird, Brewkr, and
 
  Scient. Proc. Roy. Dubl. See, iii, 1882 [33] (Navarro Co., Texas, Oct.).— 
 
- RiDGWAY, Bull. Nutt. Orn. Club, iv, 1879, 238 (Fairfax Co., Virginia, breed- 
+ RIDGWAY, Bull. Nutt. Orn. Club, iv, 1879, 238 (Fairfax Co., Virginia, breed- 
 
  ing) ; Nom. N. Am. Birds, 1881, no. 199.— Jouy, Bull. Nutt. Orn. Club, vi, 1881, 
 
@@ -36754,7 +36754,7 @@ Southeastern extremity of Mexican plateau, in State of Oaxaca
 
 Peitcxa TWtosticta Sclater and Salvin, Proc. Zool. Soc. Lond., 1868, 322 (Oaxaca, 
 
- s. e. Mexico; coll. SalvinandGodman). — Baihd, Brewer, andRiDGWAY, Hist. 
+ s. e. Mexico; coll. SalvinandGodman). — Baihd, Brewer, andRIDGWAY, Hist. 
 
  N.Am. Birda, ii, 1874, 38, footnote.— Ridg way. Ibis, 1883, 400 (crit.).— Sal- 
 
@@ -38125,7 +38125,7 @@ Pi'uc:eii fiiKsini Debsser, Ibis, 1865, 489 (prairies near iledina R., Texas).�
 
  BiTCHER, Proc. Ac. Xat. Sci. Phila., 1868, 149 (Laredo, Texas, breeding).— 
 
- RiDGWAY, Am. Nat., vii, 1873, 617, in text (crit.') ; Nom. X. Am. Birds, 1881, 
+ RIDGWAY, Am. Nat., vii, 1873, 617, in text (crit.') ; Nom. X. Am. Birds, 1881, 
 
  no. 228.— Sxoiv, Birds Kansas, 187.S, 7 (Fort Hays, w. Kansas) .—Coues, 
 
@@ -38306,7 +38306,7 @@ Peucsea asstivdl is SchATER, Cat. Am. Birds, 1862,115, excl.syn., part (Georgia)
 
  CoUES, Check List, 1873, no. 170, part; 2d ed., 1882, no. 251.— Baird, Brewer, 
 
- and RiDGWAY, Hist. N. Am. Birds, ii, 1874, 39, part, pi. 28, fig. 4. — JIayxard, 
+ and RIDGWAY, Hist. N. Am. Birds, ii, 1874, 39, part, pi. 28, fig. 4. — JIayxard, 
 
  Birds E. N. Am., 1878, 125, part (chiefly n. and middle Florida). — Ridgway, 
 
@@ -40274,7 +40274,7 @@ Zonotrichia belli Elliot, Illustr. New and Unfig. N. Am. Birds, i, 1869, pi. 14.
 
 
 
-Amphi^iza bellii Coues, Birds N. W., 1874, 234,part.^RiDGWAY, Proo. U. S. Nat. 
+Amphi^iza bellii Coues, Birds N. W., 1874, 234,part.^RIDGWAY, Proo. U. S. Nat. 
 
  Mus.,iii, 1880,180. 
 
@@ -40284,7 +40284,7 @@ Amphispiza belli Belding, Proc. U. S. Nat. Mus., i, 1879, 416 (Murphy's, Calar
 
  veras Co., Feb.); v, 1883, 530 (Santa Rosalia Bay, Lower California). — 
 
- RiDGWAY, Nom. N. Am. Birds, 1881, no. 225. — Coues, Check List, 2d ed., 
+ RIDGWAY, Nom. N. Am. Birds, 1881, no. 225. — Coues, Check List, 2d ed., 
 
  1881, no. 259.— EvERMANN, Auk, iii, 1886, 182 (Ventura Co., California).— 
 
@@ -40622,13 +40622,13 @@ Struthus (not of Boie, 1826) Bonaparte, Geog. and Comp. List, 1838, 31. (Type,
 
 
 
-Emberiza hyemalis Linnseus. ) 
+Emberiza hyemalis Linnaeus. ) 
 
  Niphiea^ Audubon, Synopsis Birds N. Am., 1839, 106. (Type, Emberiza hyemalis 
 
 
 
-Linnseus. ) 
+Linnaeus. ) 
 
 
 
@@ -41581,7 +41581,7 @@ Junco hyemalis danhyi Coues, Auk, xiv, Jan., 1897, 94, in text (crit.).
 
 
 
-JUNCO HYEMALIS HYEMALIS (Linnseus). 
+JUNCO HYEMALIS HYEMALIS (Linnaeus). 
 
  SLATE-COLORED JUNCO. 
 
@@ -43082,7 +43082,7 @@ Junco hyemalis pinosus American Oknithologists' Union Committee, Auk, xi,
 
  Jan., 1894, 47; Check List, 2d ed., 1895, no. 567d.— Loomis, Auk, xi, 1894, 
 
- 265, pi. 7.— RiDGWAY, Man. N. Am. Birds, 2d ed., 1896, 603.— Kaeding, 
+ 265, pi. 7.— RIDGWAY, Man. N. Am. Birds, 2d ed., 1896, 603.— Kaeding, 
 
  Bull. Coop. Orn. Club, i, 1899, 81 (habits). 
 
@@ -44455,7 +44455,7 @@ Junco cinereus Gabaxis, Mus. Hein, i, 1851, 134, footnote.— Sclater, Proc. Zoo
 
  N. H., i, 1869, 551 (alpine reg. Orizaba, Vera Cruz). — Baikd, Brewer, and 
 
- RiDGWAY, Hist. N. Am. Birds, i, 1874, 580, footnote. — Salvin, Cat. Strick^ 
+ RIDGWAY, Hist. N. Am. Birds, i, 1874, 580, footnote. — Salvin, Cat. Strick^ 
 
  land Coll., 1882, 232 (Mexico).— Ridgw.iy, Auk, ii, 1885, 363 (crit.); Proc. 
 
@@ -45481,7 +45481,7 @@ Eastern North America, breeding in Newfoundland, Labrador, and
 
 
 
-Fringilla montana (not of Linnseus) Foester, Philos. Trans., Ixii, 1772, 405 (Hud- 
+Fringilla montana (not of Linnaeus) Foester, Philos. Trans., Ixii, 1772, 405 (Hud- 
 
  son Bay; cites "Br. Zool. Edw., 269; Brisson, iii, p. 79; Faun. Am. Sept."). 
 
@@ -45588,7 +45588,7 @@ S.[pizeUa] monticola Nelson, Bull. Essex Inst., viii, 1876, 108 (n. e. Illinois,
 
  Oct. 15 to Apr. 1; descr. song) . — Coues, Key N. Am. Birds, 2d ed., 1884, 379, 
 
- part. — RiDGWAY, Man. N. Am. Birds, 1887, 417. 
+ part. — RIDGWAY, Man. N. Am. Birds, 1887, 417. 
 
 
 
@@ -46173,7 +46173,7 @@ Splzrila sorkdis ScLATER, Proc. Zool. Soc. Lond., 1858, 304 (La Parada, Oaxaca) 
 
  i, 1869, 552 (temp, region Vera Cruz, breeding).— Baird, Brewer, and 
 
- RiDGWAY, Hist. N. Am. Birds, ii, 1874, 7, part (Orizaba, Jalapa, and Cordova, 
+ RIDGWAY, Hist. N. Am. Birds, ii, 1874, 7, part (Orizaba, Jalapa, and Cordova, 
 
  Vera Cruz; Oaxaca).— Lawrence, Bull. U. S. Xat. :\Ius., no. 4, 1876, 21 
 
@@ -47305,13 +47305,13 @@ Should it eventually prove desirable to separate a Californian subspecies the na
 
  Arizona; Cape St. Lucas, Lower California, etc.).— Baird, Brewer, and 
 
- RiDGWAY, Hist. N. Am. Birds, i, 1874, pi. 26, figs. 11, 12; ii, 1874, 15.- 
+ RIDGWAY, Hist. N. Am. Birds, i, 1874, pi. 26, figs. 11, 12; ii, 1874, 15.- 
 
  Henshaw, Rep. Orn. Spec. Wheeler's Surv., 1873 (1874), 159 (Fort Whip- 
 
  ple, Arizona).— Lawrence, Bull. U. S. Nat. Mus., no. 4, 1876, 21 (Chapulco, 
 
- Puebla, Jan.).— RiDGWAY, Nom. N. Am. Birds, 1881, no. 215; Proc. U. S. 
+ Puebla, Jan.).— RIDGWAY, Nom. N. Am. Birds, 1881, no. 215; Proc. U. S. 
 
  Nat. Mus., ix, 1886, 144 (Atlixco, Puebla; crit.).— Belding, Proc. U. S. Nat. 
 
@@ -49161,7 +49161,7 @@ Z.[onotrichia] levcojihryx Swainson, Fauna Bor. -Am., ii, 1831, .493. — Gray, 
 
  Mar. 20 to May 15, Sept. 20 to Oct. 25).— Coues, Key N. Am. Birds, 2d ed., 
 
- 1884, 383.— RiDGWAY, Man. N. Am. Birds, 1887, 415. 
+ 1884, 383.— RIDGWAY, Man. N. Am. Birds, 1887, 415. 
 
 
 
@@ -51656,7 +51656,7 @@ Fringilla melodia Wilsox, Am. Orn., ii, 1810, 125, pi. 16, fig. 4 (Canada to
 
  125; V, 1839,507, pi. 25; Synopsis, 1839, 120; Birds Am., oct. ed., ill, 1841, 
 
- 147, pi. 189.— NuTTALL, Man. Orn. U. S. and Canada, i, 1832, 486. 
+ 147, pi. 189.— NUTTALL, Man. Orn. U. S. and Canada, i, 1832, 486. 
 
 
 
@@ -52731,7 +52731,7 @@ ildospka fasdala rimlaris Bryant, Proc. Calif. Acad. Sci. , 2d ser., i, Sept. 29
 
  Check List, 1889, 13; Abridged Check List, 1889, and 2d ed., 1896, no. bSlg.— 
 
- RiDGWAY, Man. N. Am. Birds, 2d ed., 1896, 604. 
+ RIDGWAY, Man. N. Am. Birds, 2d ed., 1896, 604. 
 
 
 
@@ -53418,7 +53418,7 @@ Melospiza fasciata graminea Townsend, Proc. U. S. Nat. Mus., xiii, no. 799, Sept
 
  Ornithologists' Union Committee, Auk, viii, 1891, 86; Check List, 2d ed., 
 
- 1895, no. 5827i.— RiDGWAY, Man. N. Am. Birds, 2d ed., 1896, 604.— Grin- 
+ 1895, no. 5827i.— RIDGWAY, Man. N. Am. Birds, 2d ed., 1896, 604.— Grin- 
 
  nell, Pub. i, Pasadena Acad. Sci., 1897, 6 (Santa BarbaraL). 
 
@@ -54539,7 +54539,7 @@ Z. [onotrichia] cinerea Gray, Gen. Birds, ii, 1849, 373.
 
 Melospiza cinerea Finsch, Abh. Nat. Ver. Brem., iii, 1872, 20, 41 (Unalaska). — 
 
- RiDGWAY, Proc. U. S. Nat. Mus., iii, 1880, 3 (crit), 180; Nom. N. Am. 
+ RIDGWAY, Proc. U. S. Nat. Mus., iii, 1880, 3 (crit), 180; Nom. N. Am. 
 
  Birds, 1881, no. 232.— Codes, Check List, 2d ed., 1882, no. 250; Key N. 
 
@@ -55853,7 +55853,7 @@ P-lagserella] iliaca Swainson, Classif. Birds, ii, 1837, 288. — Cabanis, Mus. 
 
  i, 1851, 131 (South Carolina).— Coues, Key N. Am. Birds, 2d ed., 1884, 
 
- 385.— RiDGWAY, Man. N. Am. Birds, 1887, 434. 
+ 385.— RIDGWAY, Man. N. Am. Birds, 1887, 434. 
 
 
 
@@ -56532,7 +56532,7 @@ Coast district of southern Alaska (islands and coast of mainland
 
 
 
-PringiUa loirnsemll Acdubon, Orn. Biog., y, 1839, 236, pi. 424, fig. 7 (Columbia 
+PringiUa loirnsemll Audubon, Orn. Biog., y, 1839, 236, pi. 424, fig. 7 (Columbia 
 
  River;' type now in U. S. Nat. Mus.); Synopsis, 1839, 119; Birds Am., oct. 
 
@@ -56927,7 +56927,7 @@ Passerella schistacea Baikd, Rep. Pacific R. R. Surv., ix, 1858, 490, part ("tj'
 
 I'assereVn Hiacu, var. Rrhlslaceii .Vllen, Bull. ilus. Comp. ZooL, iii, July, 1872, 168 
 
- (Ogden, Utah).— RiDGWAY, Bull. Essex Inst., v, 1873, 183 (Colorado); vii, 
+ (Ogden, Utah).— RIDGWAY, Bull. Essex Inst., v, 1873, 183 (Colorado); vii, 
 
  187."i, 37 (Nevada).— Henshaw, Ann. Rep. AVheeler's Surv., 1877, 1318. 
 
@@ -57568,7 +57568,7 @@ Pipilo cMorurus Baied, Rep. Pacific R. R. Surv., ix, 1858, 519. — Allen, Bull.
 
  no. 208; 2d ed., 1882, no. 310; Birds N. W., 1874, 176.— Baird, Brewer, and 
 
- RiDGWAY, Hist. N. Am. Birds, ii, 1874, 131; iii, 1874, 517 (Sierra Nevada, 
+ RIDGWAY, Hist. N. Am. Birds, ii, 1874, 131; iii, 1874, 517 (Sierra Nevada, 
 
  3,000-7,000 ft. ; n. CoastRange, Sept. ).—Hbnshaw, Rep. Orn. Spec. Wheeler's 
 
@@ -58672,7 +58672,7 @@ Pipilo macronyx Swaixsox, Philos. Mag., new ser., i, 1827, 434, part (Real del
 
  Zool. Soc. Lond., 1869, 361 (Valley of Mexico).— Baird, Brewer, and 
 
- RiDGWAY, Hist. N. Am. Birds, ii, 1874, 105, footnote (City of Mexico). — 
+ RIDGWAY, Hist. N. Am. Birds, ii, 1874, 105, footnote (City of Mexico). — 
 
 
 
@@ -58711,7 +58711,7 @@ P.[ipilo'] macronyx Gkay, Gen. Birds, ii, 1844, 360. — Bonaparte, Consp. Av., 
 
 
 
-1850, 487.— RiDGWAY, Man. N. Am. Birds, 1887, 438. 
+1850, 487.— RIDGWAY, Man. N. Am. Birds, 1887, 438. 
 
  \_Pipilo'] macronyx Gray, Hand-list, ii, 1870, 92, no. 7360.— Sclater and Salvin, 
 
@@ -64711,7 +64711,7 @@ Embernagra siriaticeps (not of Lafresnaye, 1852) Sclatbr and Salvin, Proc.
 
  Trojas, Pozo Azul de Pirris, Naranjo de Cartago, and Angostura, Costa 
 
- Rica).— RiDGWAY, Proc. U. S. Nat. Mus., x, 1887, 580, 587 (Truxillo and 
+ Rica).— RIDGWAY, Proc. U. S. Nat. Mus., x, 1887, 580, 587 (Truxillo and 
 
  Segovia R., Honduras). — Nx'tting and Ridgway, Proc. U. S. Nat. Mus., vi, 
 
@@ -71614,7 +71614,7 @@ Geospizafortis Gould, Proc. Zool. Soc. Lond., pt. v, 1837, 5 (Galapagos Islands)
 
  Brit. Mus., xii, 1888, 10, part (James, Charles, and Bindloe islands). — 
 
- RiDGWAY, Proc. U. S. Nat. Mus., xii, 1890, 107, part (Charles, James, and 
+ RIDGWAY, Proc. U. S. Nat. Mus., xii, 1890, 107, part (Charles, James, and 
 
  Indefatigable islands); xix, 1897, 521, part, pi. 57, fig. 15 (Duncan, Charles, 
 
@@ -74254,7 +74254,7 @@ Phila., 1863, 298 (Jamaica).
 
 Proc. Zool. Soc. Lond., 1861, 74 (Jamaica). 
 
- Sycalis flaveola (not Fringilla flaveola Linnseus) Sclater, Ibis, 1872, 41, part 
+ Sycalis flaveola (not Fringilla flaveola Linnaeus) Sclater, Ibis, 1872, 41, part 
 
 
 
@@ -74665,7 +74665,7 @@ Iimnature male. — Above dull brown (intermediate between raw
 
 
 
-^ \_Tanagra] jacarini Linnseus, Syst. Nat., ed. 12, i, 1766, 314.— -U.[oZ(7(ima] jacarina 
+^ \_Tanagra] jacarini Linnaeus, Syst. Nat., ed. 12, i, 1766, 314.— -U.[oZ(7(ima] jacarina 
 
  Cabanis, Mus. Hein., i, June, 1851, 147, part. — Volatinia jacarini Sharpe, Cat. Birds 
 
@@ -74797,7 +74797,7 @@ Volatinia splendens Sclatbb, Proc. Zool. Soc. Lond., 1859, 140 (Pallatanga,
 
  and Guiana). — Zeledon, An. Mus. Nac. Costa Rica, i, 1887, 111 (San Jos^, 
 
- Costa Rica).— RiDGWAY, Proc. U. S. Nat. Mus., x, 1887, 580 (Truxillo, Hon- 
+ Costa Rica).— RIDGWAY, Proc. U. S. Nat. Mus., x, 1887, 580 (Truxillo, Hon- 
 
  duras).— Coky, Auk, vi, 1889, 218 (Grenada); x, 1893, 220 (Tobago); Cat. 
 
@@ -76376,7 +76376,7 @@ Euetheia bicolor Cory, Auk, iii, 1886, 209, part; 1887, 96 (Martinique); 1890, 3
 
  X, 1893, 220 (Tobago); Birds W. I., 1889, 96, part; Cat. W. I. Birds, 1892, 155 
 
- (St. Bartholomew) .—RiDGWAY, Proc. U. S. Nat. Mus., xii, 1890, 130 (Santa 
+ (St. Bartholomew) .—RIDGWAY, Proc. U. S. Nat. Mus., xii, 1890, 130 (Santa 
 
  Lucia) . — Allen, Bull. Am. Mus. N. II., iv, 1892, 52 (Carupano, Venezuela). — 
 
@@ -78090,7 +78090,7 @@ Loxigilla noctis Sclater, Cat. Am. Birds, 1862, 102 (Martinique). — Taylor (E.
 
 Fringilla (rufo-barbata) Jacqhin, Beytrage, 1784, 11 (Martinique; = Fringilla 
 
- noctis Linnseus). 
+ noctis Linnaeus). 
 
 
 
@@ -78136,7 +78136,7 @@ Island of Santa Lucia, Lesser Antilles.
 
 
 
-Loxigilla noctis (not Fringilla noctis Linnseus) Sclater, Proc. Zool. Soc. Lond., 
+Loxigilla noctis (not Fringilla noctis Linnaeus) Sclater, Proc. Zool. Soc. Lond., 
 
  1871, 267, 270 (Santa Lucia) ; 1889, 395 (do.) .—Semper, Proc. Zool. Soc. 
 
@@ -78250,7 +78250,7 @@ Islands of Dominica, Marie Galante, Desirade, Grande Terre, and
 
 
 
-Loxigilla noctis (not Fringilla noctis Linnseus) Lawrence, Proc. U. S. Nat. Mus., 
+Loxigilla noctis (not Fringilla noctis Linnaeus) Lawrence, Proc. U. S. Nat. Mus., 
 
  i, 1878, 57 (Dominica; crit. ; descr. nest and eggs), 457 (Guadeloupe), 487, 
 
@@ -78449,7 +78449,7 @@ Island of Antigua, Lesser Antilles.
 
 
 
-ILoxigilla} noctis (not Fringilla noctis Linnseus) Sclater and Salvin, Nom. Av. 
+ILoxigilla} noctis (not Fringilla noctis Linnaeus) Sclater and Salvin, Nom. Av. 
 
 
 
@@ -78577,7 +78577,7 @@ Islands of St. Eustatius and St. Christopher (also Anguilla, Saba,
 
 
 
-[LoTigilld] noclk (not Frinrj'dla noctin Linnseus) Sclater and Salvix, Nom. Av. 
+[LoTigilld] noclk (not Frinrj'dla noctin Linnaeus) Sclater and Salvix, Nom. Av. 
 
 
 
@@ -78760,7 +78760,7 @@ According to Mr. Cory the adult male of this form never assumes
 
 
 
-Loxigilla noctis (not Fringilla noctis Linnseus) Sclatek, Proc. Zool. Soc. Lond., 
+Loxigilla noctis (not Fringilla noctis Linnaeus) Sclatek, Proc. Zool. Soc. Lond., 
 
  1874, 175 (Barbados).— CoKY, Auk, iii, 1886, 204, part; Birds W. I., 1889, 
 
@@ -82289,7 +82289,7 @@ Cijanoapiza araoeiiri'^ Baird, Rep. Pacific R. R. Surv., ix, 1858, 504; Cat. X. 
 
  Lawrence, Mem. Bost. Soc. N. H., ii, 1874, 276 (Mazatlan) . — Baird, Breweh, 
 
- and RiDGWAY, Hist. N. Am. Birds, ii, 1874, 84, pi. 29, figs. 11, 12.— Henshaw, 
+ and RIDGWAY, Hist. N. Am. Birds, ii, 1874, 84, pi. 29, figs. 11, 12.— Henshaw, 
 
  Rep. Orn. Spec. AVheeler's Surv., 1873 (1874), 63 (Denver, Colorado), 120 
 
@@ -84050,7 +84050,7 @@ Guiraca cyanoides cono'ekiRiOGWA-Y,- Proc. U. S. Nat. Mus., v, Sept. 5, 1882, 39
 
 
 
-Cyanocompsa concreta cyanescens RiDGWAY,Auk, xv, July, 1898, 229 (Panama; 
+Cyanocompsa concreta cyanescens RIDGWAY,Auk, xv, July, 1898, 229 (Panama; 
 
  U. S. Nat. Mus.).— Bangs, Proc. New Engl. Zool. Club, ii, 1900, 32 (Lion 
 
@@ -84256,7 +84256,7 @@ BIBD8 OF NOETH AND MIDDLE AMERICA. 601
 
 
 
-^)Quiraca cyanea {not Loxia cyanea Linnseus) Sclatee and Salvin, Proc. Zool. 
+^)Quiraca cyanea {not Loxia cyanea Linnaeus) Sclatee and Salvin, Proc. Zool. 
 
 
 
@@ -84917,9 +84917,9 @@ Genus GUIRACA Swalnson.
 
 
 
-Guiraca Swainson, Zool. Journ., iii, 1827, 350. (Type, Loxia cxrulea Linnseus.) 
+Guiraca Swainson, Zool. Journ., iii, 1827, 350. (Type, Loxia cxrulea Linnaeus.) 
 
- Coccoborus Swainson, Classif. Birds, ii, 1837, 277. (Type, Loxia cieruka Linnseus.) . 
+ Coccoborus Swainson, Classif. Birds, ii, 1837, 277. (Type, Loxia cieruka Linnaeus.) . 
 
 
 
@@ -86907,7 +86907,7 @@ Zamelodia melanocephala mierorhyncha Grinnell, Condor, ii, Nov., 1900, 128
 
 
 
-(?) Zamelodia ludoviciana (not Loxia ludoviciana Linnseus?) McLain, Auk, xv, 
+(?) Zamelodia ludoviciana (not Loxia ludoviciana Linnaeus?) McLain, Auk, xv, 
 
  1898, 191 (Myers, Humboldt Co., California, July 1, 1898). ' 
 
@@ -87726,7 +87726,7 @@ Pyrrhuloxia sinuata Baird, Eep. Pacific R. R. Surv., ix, 1858. 508, pai't (El Pa
 
  Lawrence, Mem. Bost. Soc. N. H., ii, 1874, 275 (Mazatlan). — Baird, Brewer, 
 
- and RiDGWAY, Hist. N. Am. Birds, ii, 1874, 95, part. — Y arrow and Henshaw, 
+ and RIDGWAY, Hist. N. Am. Birds, ii, 1874, 95, part. — Y arrow and Henshaw, 
 
  Rep. Orn. Spec. Wheeler's Surv., 1873 (1874), 35 (Arizona).— Henshaw, 
 
@@ -89263,7 +89263,7 @@ Nehbling, Our Native Birds, etc., ii, 1896, 185, pi. 25, fig. 6. — Cooke, Bird
 
 Clardincdigl cardinaUs Jordan, Man. Vertebr. E. N. Am., 4th ed., 1884, 89.— 
 
- RiDGWAY, Man. N. Am. Birds, 1887, 442, part. 
+ RIDGWAY, Man. N. Am. Birds, 1887, 442, part. 
 
 
 
@@ -91108,7 +91108,7 @@ Guerrero, Mexico).
 
 
 
-1850, 501.— RiDGWAY, Man. N. Ain. Birds, 1887, 443. 
+1850, 501.— RIDGWAY, Man. N. Ain. Birds, 1887, 443. 
 
  Cardinalis carneus Salvin and GoujrAN, Biol. Centr.-Am., Aves, i, 1884, 341 
 
@@ -91156,7 +91156,7 @@ Genus PITYLUS Cuvier.
 
 
 
-Pityhis Cuvier, Kegne Animal, i, 1829, 413. (Type, Loxia, grossa Linnseus. ) 
+Pityhis Cuvier, Kegne Animal, i, 1829, 413. (Type, Loxia, grossa Linnaeus. ) 
 
  Cissurus REifMENBACii, Av. Syst. Nat., 1850, pi. 77. (Type, Loxia fuliginosa 
 
@@ -92519,7 +92519,7 @@ Saltator atriceps Sclater, Proc. Zool. Soc. Lond., 1856, 69 (monogr.; Cordova
 
  Rio, Vera Cruz). — Zelbdon, An. Mus. Nac. Costa Rica, i, 1887, 111 (Naranjo, 
 
- Costa Rica). —RiDGWAY, Proc. U. S. Nat. Mus., x, 1888, 586 ( Segovia R., Hon- 
+ Costa Rica). —RIDGWAY, Proc. U. S. Nat. Mus., x, 1888, 586 ( Segovia R., Hon- 
 
  duras). — Richmond, Proc. U. S. Nat. Mus., xvi, 1893, 491 (Greytown, Nica- 
 

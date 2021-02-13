@@ -416,7 +416,7 @@ It may be added that printing of the present volume has been
 
 
 
-ROBEBT RiDGWAY. 
+ROBEBT RIDGWAY. 
 
 
 
@@ -633,7 +633,7 @@ Page.
 
 
 
-3. Squatarola squatarola (Linnseus) 
+3. Squatarola squatarola (Linnaeus) 
 
 
 
@@ -669,7 +669,7 @@ Genus 6. Oxyechus Reichenbach 98
 
 
 
-8. Oxyechus vociferus vociferus (Linnseus) 99 
+8. Oxyechus vociferus vociferus (Linnaeus) 99 
 
 
 
@@ -705,7 +705,7 @@ Key to the Subspecies of Pagolla wilsonia 108
 
 
 
-Genus 9. Charadrius Linnseus 114 
+Genus 9. Charadrius Linnaeus 114 
 
 
 
@@ -753,11 +753,11 @@ Key to the North and Middle American Genera of Scolopacidse 145
 
 
 
-Genus 1. Scolopax Linnseus 149 
+Genus 1. Scolopax Linnaeus 149 
 
 
 
-1. Scolopax rusticola Linnseus 150 
+1. Scolopax rusticola Linnaeus 150 
 
 
 
@@ -781,7 +781,7 @@ Key to the North American Species of Gallinago 161
 
 
 
-4. Gallinago gallinago (Linnseus) 165 
+4. Gallinago gallinago (Linnaeus) 165 
 
 
 
@@ -797,7 +797,7 @@ Key to the Subspecies of Limosa limosa 178
 
 
 
-6. Limosa limosa limosa (Linnseus) 178 
+6. Limosa limosa limosa (Linnaeus) 178 
 
 
 
@@ -817,7 +817,7 @@ Key to the Species and Subspecies of Vetola 183
 
 
 
-9. Vetola hsemastica (Linnseus) ; I9I 
+9. Vetola hsemastica (Linnaeus) ; I9I 
 
 
 
@@ -858,7 +858,7 @@ Key to the Species of Ereunetes 210
 
 
 
-13. Ereunetes pusillus (Linnseus) 210 
+13. Ereunetes pusillus (Linnaeus) 210 
 
 
 
@@ -1249,7 +1249,7 @@ Key to the Species and Subspecies of Rjrnchops 451
 
 
 
-1. Rynchops nigra nigra (Linnseus) 451 
+1. Rynchops nigra nigra (Linnaeus) 451 
 
 
 
@@ -1418,7 +1418,7 @@ Key to the American Subspecies of Anous stolidus 545
 
 
 
-23. Anous stolidus stolidus (Linnseus) 546 
+23. Anous stolidus stolidus (Linnaeus) 546 
 
 
 
@@ -1474,7 +1474,7 @@ Key to the Species and Subspecies of Rissa 565
 
 
 
-1. Rissa tridactyla tridactyla (Linnseus) 565 
+1. Rissa tridactyla tridactyla (Linnaeus) 565 
 
 
 
@@ -1494,7 +1494,7 @@ Genus 2. Pagophila Kaup , 575
 
 
 
-Genus 3. Larus Linnseus 580 
+Genus 3. Larus Linnaeus 580 
 
 
 
@@ -1593,7 +1593,7 @@ Key to the Species of Chroicocephalus 636
 
 
 
-21. Chroicocephalus atricilla(Linnseus) 636 
+21. Chroicocephalus atricilla(Linnaeus) 636 
 
 
 
@@ -1754,7 +1754,7 @@ Key to the Species and Subspecies of Uria 719
 
 
 
-5. Uria troille troille (Linnseus) 721 
+5. Uria troille troille (Linnaeus) 721 
 
 
 
@@ -1762,7 +1762,7 @@ Key to the Species and Subspecies of Uria 719
 
 
 
-7. Uria lomvia lomvia (Linnseus) 726 
+7. Uria lomvia lomvia (Linnaeus) 726 
 
 
 
@@ -1778,7 +1778,7 @@ Key to the Species of Cepphus 733
 
 
 
-9. Cepphus grylle (Linnseus) 733 
+9. Cepphus grylle (Linnaeus) 733 
 
 
 
@@ -1898,7 +1898,7 @@ Key to the Species and Subspecies of Fratercula » 783
 
 
 
-25. Fratercula arctica arctica (Linnseus) 784 
+25. Fratercula arctica arctica (Linnaeus) 784 
 
 
 
@@ -2086,7 +2086,7 @@ Rhyacophilus Kaup
 
 
 
-Tringa Linnseus 
+Tringa Linnaeus 
 
 
 
@@ -3388,7 +3388,7 @@ Bon=Parra jacana Linnaeus.)
 
  Asarcia ^ Sharpe, Cat. Birds Brit. Mus., xxiv, 1896, 86. (Type, by original desig- 
 
- nation, Parra variabilis Linnseu8=i''u&a spinosa Linnseus.) 
+ nation, Parra variabilis Linnseu8=i''u&a spinosa Linnaeus.) 
 
 
 
@@ -3571,7 +3571,7 @@ Jacana spinosa violacea adults (p. 13).
 
 
 
-o [Parra] jacana Linnseus, Syst. Nat., ed. 12, 1766, 259 (Brazil; based on Spur-winged 
+o [Parra] jacana Linnaeus, Syst. Nat., ed. 12, 1766, 259 (Brazil; based on Spur-winged 
 
  Water-hen of Brazil Edwards, Gleanings, iii, 1764, 305, pi. 357); Gmelin,- Syst. Nat., 
 
@@ -3856,7 +3856,7 @@ Asarcia variabilis Shabpe, Cat. Birds Brit. Mus,, xxiv, 1896, 86, part (Orange W
 
 
 
-Parra jacana (not of Linnseus) Stephens, Gen. Zool., xii, i, 1824, 263, part. 
+Parra jacana (not of Linnaeus) Stephens, Gen. Zool., xii, i, 1824, 263, part. 
 
 
 
@@ -3886,7 +3886,7 @@ Parra gymnostoma (not of Wagler, 1831) Solater, Proc. Zool. Soo. Lend., 1856,
 
 o The only species of Jacana known to occur at or near Cartagena is J. nigra; never- 
 
- theless, the bird described and figured by Edwards, upon which Linnseus based his 
+ theless, the bird described and figured by Edwards, upon which Linnaeus based his 
 
  Fulica spinosa, was evidently this species, in transition (from juvenal to adult) plum- 
 
@@ -4231,7 +4231,7 @@ Rico).— Stahl, Ornis, vol. 3, 1887, 452 (Porto Rico).
 
 no. 288, part. 
 
- Jacana spinosa (not FuUca spinosa Linnseus) Elliot, Auk, v, 1888, 297, part 
+ Jacana spinosa (not FuUca spinosa Linnaeus) Elliot, Auk, v, 1888, 297, part 
 
 
 
@@ -4289,7 +4289,7 @@ Haiti).
 
 Cuba; habits). 
 
- Asarda variabilis (not Parra variabilis Linnseus) Shaepe, Cat. Birds Brit. Mus., 
+ Asarda variabilis (not Parra variabilis Linnaeus) Shaepe, Cat. Birds Brit. Mus., 
 
 
 
@@ -4761,13 +4761,13 @@ Genus CEDICNEMUS Temminek.
 
 
 
-adrius cedicnemus Linnseus.) 
+adrius cedicnemus Linnaeus.) 
 
  Fedoa Leach, Syst. Cat. Mam. and Birds Brit. Mus., 1816, 28. (Type, Chara- 
 
 
 
-drius (edicnemus Linnseus.) 
+drius (edicnemus Linnaeus.) 
 
 
 
@@ -5827,7 +5827,7 @@ by monotypy, H. ostralegus Linnaeus.)
 
 
 
-matopus ostralegus Linnseus.) 
+matopus ostralegus Linnaeus.) 
 
  Ostrelaga (emendation) Bonnatbrre, Tabl. Encycl. M6tb., i, 1791, Ixxxii. 
 
@@ -7094,7 +7094,7 @@ chusetts, and Nova Scotia); southward to Yucatan (Merida; Co-
 
 
 
-Hsematopus ostralegus (not of Linnseus) Wilson, Am. Om., viii, 1814, 15, pi. 64, 
+Hsematopus ostralegus (not of Linnaeus) Wilson, Am. Om., viii, 1814, 15, pi. 64, 
 
  fig. 2. — Vieillot, Nouv. Diet. d'Hiat. Nat., xv, 1817, 408, part. — Bonaparte, 
 
@@ -7485,7 +7485,7 @@ Coasts and islands of Lower California (Carmen, Cerros, Cedros,
 
 
 
-[?] Hasmatopus ostralegus (not of Linnseus) Vigors, Zool. Voy. "Blossom," 
+[?] Hasmatopus ostralegus (not of Linnaeus) Vigors, Zool. Voy. "Blossom," 
 
  Birds, 1839, 29 (west coast of America). 
 
@@ -8328,7 +8328,7 @@ Genus ARENARIA Brisson.
 
 Arenaria Beisson, Orn., v, 1760, 132. (Type, by tautonymy and monotypy, 
 
- [Arenaria] arenaria 'Bnsson= Tringa interpres Linnseus.) 
+ [Arenaria] arenaria 'Bnsson= Tringa interpres Linnaeus.) 
 
 
 
@@ -8338,19 +8338,19 @@ Morinella Babteam, Trav. Carolina, etc.,1791, 294 (London ed., 1792,292): Zim-
 
  monotypy and tautonymy, M. americana Ziinmerman= TnTig'a morinella 
 
- Linnseus. Seei Mathews, Auk, xxxi, 1914, 89, 91.) 
+ Linnaeus. Seei Mathews, Auk, xxxi, 1914, 89, 91.) 
 
 
 
 Morinella Meteb and Wolt', Taschenb. Vog. Deutschl., ii, 1810, 383. (Type, by 
 
- monotypy, Morinella collaris Meyer=Tringa interpres Linnseus.) 
+ monotypy, Morinella collaris Meyer=Tringa interpres Linnaeus.) 
 
 
 
 Strepsilas <>■ Illigee, Prodromus Orn., 1811, 263. (Type, by subsequent designa- 
 
- tion of Gray, 1840, Tringa interpres Linnseus.) 
+ tion of Gray, 1840, Tringa interpres Linnaeus.) 
 
 
 
@@ -8358,7 +8358,7 @@ Cinclus "Moehr[ing]" (not of Borkhausen, 1797 nor Bechstein, 1802) Gray, List
 
  Gen. and Subgen. Birds, 2d ed., 1841, 85. (Type, by original designation and 
 
- monotypy, Tringa morinellus Linnseus.) 
+ monotypy, Tringa morinellus Linnaeus.) 
 
 
 
@@ -9560,7 +9560,7 @@ Charadrius cinclus Pallas, Zoogr. Rosso-Asiat., ii, 1826, 148 (new name for Trin
 
 
 
-interpres Linnseus; Siberia; Kamchatka). 
+interpres Linnaeus; Siberia; Kamchatka). 
 
  Tringa oahuensis Bloxham, in Byron's Voy. 'Blonde,' 1826, 251 (Oahu, Hawaiian 
 
@@ -10934,7 +10934,7 @@ BIEDS OF NORTH AND MIDDLE AMERICA. 61
 
 
 
-and RiDGWAY, Water Birds N. Am., i, 1884, 126. — American Obnitholo- 
+and RIDGWAY, Water Birds N. Am., i, 1884, 126. — American Obnitholo- 
 
 
 
@@ -11417,13 +11417,13 @@ Vanellus Brisson, Om., v, 1760, 94. (Type, by tautonymy, Tringa mnellus
 
 
 
-Linnseus.) 
+Linnaeus.) 
 
  Gavia (not of Forster, 1788, nor of Boie, 1822) Glogek, Hand- und Hilfsbuch, i, 
 
 
 
-1842, 433. (Type, Tringa vanellus Linnseus.) 
+1842, 433. (Type, Tringa vanellus Linnaeus.) 
 
 
 
@@ -12280,7 +12280,7 @@ Hoploptervs cayannus Zeledon, Cat. Aves de Costa Rica, 1882, 30.
 
 
 
-{^Charadrius'] spinosus (not of Linnseus) Gmelin, Syst. Nat., i, pt. ii, 1789, 691 
+{^Charadrius'] spinosus (not of Linnaeus) Gmelin, Syst. Nat., i, pt. ii, 1789, 691 
 
  (Cayenne; based on Pluvier arme.de Cayenne Daubenton, PI. Enl., ix, pi. 
 
@@ -12315,7 +12315,7 @@ Genus SQUATAROLA Cuvier.
 
 Squatarola Cuviee, Efegntf Animal, i, 1817, 467. (Type, by tautonymy, Tringa 
 
- sqiudarola Linnseus.) • 
+ sqiudarola Linnaeus.) • 
 
 
 
@@ -12954,7 +12954,7 @@ BIRDS OP NORTH AND MIDDLE AMERICA. 77
 
  1891, 516; Mem. R. Ac. Torino, xxxix, 1888, 114 (Olga Bay), 139 (Korea).— 
 
- RiDGWAY, Proc. TJ. S. Nat. Mus., iii, 1880, 198 (Cat. N. Am. Birds, no. 513); 
+ RIDGWAY, Proc. TJ. S. Nat. Mus., iii, 1880, 198 (Cat. N. Am. Birds, no. 513); 
 
  Nom. N. Am. Birds, 1881, 43.— Cory, Birds Bahama Is., 1880, 114.— Legge, 
 
@@ -13238,7 +13238,7 @@ Genus PLUVIALIS Brlsson.
 
 Pluvialis Beisson, Orn., v. 1760, 42. (Type, by tautonymy, Charadrius pluvialis 
 
- Linn8eus=0. apricarius Linnseus.) 
+ Linn8eus=0. apricarius Linnaeus.) 
 
 
 
@@ -14245,7 +14245,7 @@ Pluvialis dominims dominiais Brooks (W. S.), Bull. Mus. Comp. Zool., lix, 1915,
 
 
 
-Charadrius pluvialis (not of Linnseus, 1758) Wilson, Am- Orn., vii, 1813, 71, pi. 
+Charadrius pluvialis (not of Linnaeus, 1758) Wilson, Am- Orn., vii, 1813, 71, pi. 
 
  59, fig. 5.— Sabine (E.), in Parry's Voy., 1821, App., p. cxix (North Georgian 
 
@@ -14257,7 +14257,7 @@ Charadrius pluvialis (not of Linnseus, 1758) Wilson, Am- Orn., vii, 1813, 71, pi
 
  ii, 1827, 297. — Swainson and Richardson, Fauna Bor.-Am., ii, 1831, 369 
 
- (Hudson Bay).— NuTTALL, Man. Om., U. S. and Can., Water Birds, 1834, 16. 
+ (Hudson Bay).— NUTTALL, Man. Om., U. S. and Can., Water Birds, 1834, 16. 
 
  — Audubon, Orn. Biog., iii, 1835, 623, pi. 300. — Pbabody, Rep. Om. Mass., 
 
@@ -15421,7 +15421,7 @@ Oat. Ois. Eiu-., 1876, 48 (Malta).
 
  lix, 1915, 378 (East Cape and Cape Serdze, n. e. Siberia, July 14, 17). 
 
- [Charadrius] pluvialis (not of Linnseus) Latham, Index Om., i^, 1790, 740, part. 
+ [Charadrius] pluvialis (not of Linnaeus) Latham, Index Om., i^, 1790, 740, part. 
 
  Charadrius pluvialis Pallas, Zoogr. Eosso-Asiat., ii, 1826, 141, part.— Hoesmeld, 
 
@@ -15744,7 +15744,7 @@ Range. — Northern Europe and Asia, south in winter to northern
 
 
 
-EUDROMIAS MORINELLUS (Linnieus). 
+EUDROMIAS MORINELLUS (Linnaeus). 
 
 
 
@@ -16831,7 +16831,7 @@ Oxyechus vodferus rubidus Riley, Proc. Biol. Soc. Wash., xxii, April 17, 1909, 8
 
  ("small resideiit West Indisin KiUdeer;" new name for Charadrius torquatus 
 
- Linnseus, 1766, not Pontoppidan, 1763).— Wetmore, Bu}1. 326, Uj S. Dept. 
+ Linnaeus, 1766, not Pontoppidan, 1763).— Wetmore, Bu}1. 326, Uj S. Dept. 
 
  Agric, 1916, 39 (Pprto Rico, resident; habits; food). 
 
@@ -18449,7 +18449,7 @@ Eupodd wilsonia rufirlucha Wetmore, Auk, ixxiv, Jan., 1917, 58 (Culebra Island,
 
 
 
-Charadrius morinellus (not of Linnseus) Dennt, Proc. Zool. Soc. Lond., 1847, 39 
+Charadrius morinellus (not of Linnaeus) Dennt, Proc. Zool. Soc. Lond., 1847, 39 
 
  (Jamaica). 
 
@@ -18733,13 +18733,13 @@ Charadrius LiNN.a!Us, Syst. Nat., ed. 10, i, 1758, 150. (Type, by tautonymy,
 
 
 
-Charadrius hiaticula Linnseus.) 
+Charadrius hiaticula Linnaeus.) 
 
  Aegialitis Boie, Isis, 1822, 558. (Type, as designated by Gray, 1855, Charadrius 
 
 
 
-hiaticula Linnseus.) 
+hiaticula Linnaeus.) 
 
  Aegialites (emendation) Boie, Isis, 1826, 978. 
 
@@ -18765,7 +18765,7 @@ Charadrius Hrrhepidesmas Wagler=C -mongolus Pallas.)
 
 
 
-hiaticula Linnseus.) 
+hiaticula Linnaeus.) 
 
  Mgialophilus Gould, Handb. Birds of Australia, ii, 1865, 234. (Type, by origuial 
 
@@ -19330,7 +19330,7 @@ no. 4, 1876, 46 (San Mateo, Oaxaca, Aug., Feb.).— Allen, Bull. Nutt. Orn.
 
  (Albemarle and Indefatigable islands, Galapagos).- Baied, Brewbb, and 
 
- RiDGWAY, Water Birds N. Am., i, 1884, 154-.- Turner, Proc. U. S. Nat. Mus., 
+ RIDGWAY, Water Birds N. Am., i, 1884, 154-.- Turner, Proc. U. S. Nat. Mus., 
 
  viii, 1885^246 (Davis Inlet, breeding); Contr. N. H. Alaska, 1886, 150 (St. 
 
@@ -19378,7 +19378,7 @@ no. 4, 1876, 46 (San Mateo, Oaxaca, Aug., Feb.).— Allen, Bull. Nutt. Orn.
 
 M[gialitis\ semipalmata Newton (A. and E.), Handb. Jamaica, 1881, 115. — 
 
- RiDGWAY, Man. N. Am. Birds, 1887, 176. 
+ RIDGWAY, Man. N. Am. Birds, 1887, 176. 
 
 
 
@@ -20061,7 +20061,7 @@ Journ. fur Orn., 1865, 270).
 
 
 
-hiaticula Linnseus). 
+hiaticula Linnaeus). 
 
  Aegialites auritus Hbuqlin, Syst. Ueb. Vog. N. O. Afrika, 1856, 56 {nomen nudum). 
 
@@ -20808,7 +20808,7 @@ Mgialites pusillus Swinhoe, Ibis, 1860, 63 (Amoy, China, winter; habits).
 
 
 
-Charadrius hiaticula (not of Linnseus) Pallas, Zoogr. Rosso-Asiat., ii, 1826, 144. 
+Charadrius hiaticula (not of Linnaeus) Pallas, Zoogr. Rosso-Asiat., ii, 1826, 144. 
 
 
 
@@ -20897,7 +20897,7 @@ App., p. 133, no. 400 bis.
 
  .Mgialitis mierorhyneha Coues, Birds Northwest, 1874, 456. 
 
- .Mgialitis hiatiada (not Charadrius hiatieula Linnseus) Ramsay, Proc. Linn. Soc. 
+ .Mgialitis hiatiada (not Charadrius hiatieula Linnaeus) Ramsay, Proc. Linn. Soc. 
 
 
 
@@ -22432,7 +22432,7 @@ Breeding in western United States from Pacific Coast to Salt Lake
 
 
 
-[easuremenfB of C. alexandrinus {Charadrius alexandrinus Linnseus; C. cantianus 
+[easuremenfB of C. alexandrinus {Charadrius alexandrinus Linnaeus; C. cantianus 
 
  ham) are given for comparison, this being tte Old World representative of C. 
 
@@ -22638,7 +22638,7 @@ JEgialitis cantianus Cottes, Check List, 1873, no. 401.
 
 
 
-(?) Charadrius alexandrinus (not of Linnseus?) Schalow, Journ. fiir Om., 1891, 
+(?) Charadrius alexandrinus (not of Linnaeus?) Schalow, Journ. fiir Om., 1891, 
 
  259 (Kadiak, Alaska). 
 
@@ -23567,7 +23567,7 @@ Mgialitis collaris Sclater and Saltin, Proc. Zool. See. Lond., 1866, 199 (upper
 
  Proc. Zool. Soc. Lond., 1882, 628 (Buenos Aires).— Baird, Brewer, and 
 
- RiDGWAY, Water Birds N. Am., i, 1884, 153.— Barrows, Auk, i, 1884, 313 
+ RIDGWAY, Water Birds N. Am., i, 1884, 153.— Barrows, Auk, i, 1884, 313 
 
  (Concepcion, Uruguay, March, Aug.).— Salvin, Ibia, 1886, 178 (Bartica Grove, 
 
@@ -24582,7 +24582,7 @@ Scolopax b LiNN.a;us, Syst. Nat., ed. 10, i, 1758, 145. (Type, as designated by
 
 
 
-Gray, 1840, and by elimination, S. rusticola Linnseus.) 
+Gray, 1840, and by elimination, S. rusticola Linnaeus.) 
 
  Rusticola (not of Houttuyn, 1770) Vieillot, Nouv. Diet. d'Hist. Nat., ui, 1816, 
 
@@ -24592,7 +24592,7 @@ Gray, 1840, and by elimination, S. rusticola Linnseus.)
 
 
 
-rusticola Linnseus.) 
+rusticola Linnaeus.) 
 
  Rustieula (emendation) Vieillot, Nouv. Diet. d'Hist. Nat., xxiv, 1818, 124. 
 
@@ -25199,7 +25199,7 @@ Rusticola sylvestris Macgilliveay, Man. Brit. Orn., ii, 1842, 105.
 
 Rusticola europcea Lesson, Trait6 d' Orn., 1831, 555 (new name for Scolopax rusti- 
 
- cola Linnseus). 
+ cola Linnaeus). 
 
 
 
@@ -26881,7 +26881,7 @@ GalUnago aelestis Deessee, Birds Europe, vii, 1880, 641, pis. 542, 543. — Hume
 
  Ibis, 1884, 389 (Pyrenees); Man. Brit. Birds, 1889, 557.— Baied, Brewee, 
 
- and RiDGWAY, Water Birds N. Am., i, 1884, 192. — Saivadoei, An. Mus 
+ and RIDGWAY, Water Birds N. Am., i, 1884, 192. — Saivadoei, An. Mus 
 
  Genov. (2), i, 1884, 223 (Shoa, Africa); Elenco Ucc. Ital., 1886, 232.— White- 
 
@@ -27978,13 +27978,13 @@ Genus LIMOSA Brisson.
 
 Lim^sa Bbisson, Om., v, 1760, 261. (Type, by tautonymy, [Lim^sa] limosa 
 
- 'BnBsovL=Scolopax limasa Linnseus.) 
+ 'BnBsovL=Scolopax limasa Linnaeus.) 
 
 
 
 Rusticola HouTTUYN, in Nozeman, Nederl. Vogelen, i, 1770 (p. 1 of inhoud). 
 
- (Type, by monotypy, R. grutto Kovittu.yn=Scolopax limosa Linnseus.) 
+ (Type, by monotypy, R. grutto Kovittu.yn=Scolopax limosa Linnaeus.) 
 
 
 
@@ -28129,7 +28129,7 @@ etc., migrating to India, Australia, etc.) Limosa limosa melanuroides
 
 (extralimital)." 
 
- LIMOSA LIMOSA LIMOSA (Linnseus). 
+ LIMOSA LIMOSA LIMOSA (Linnaeus). 
 
 
 
@@ -28383,7 +28383,7 @@ Limosa belgica Salvadori, Elenco Ucc. Ital., 1886, 228; Ann. Mua. Genov., (2),
 
 
 
-Scohpax aegocepkala (not ot Linnseus) Boddaeet, Tabl. PI. Enl., 1783, 55 (PL 
+Scohpax aegocepkala (not ot Linnaeus) Boddaeet, Tabl. PI. Enl., 1783, 55 (PL 
 
  Enl., pi. 916). 
 
@@ -28770,7 +28770,7 @@ aa. Tail not barred (imiform black, with white base and tip); axillars and most 
 
 
 
-" [Scolopax] lapponica Linnseus, Syst. Nat., ed. 10, i, 1758, 147 (Lapland); ed. 12, 
+" [Scolopax] lapponica Linnaeus, Syst. Nat., ed. 10, i, 1758, 147 (Lapland); ed. 12, 
 
  i, 1766, 246. — Limicula lapponica Vieillot, Nouv. Diet. d'Hist. Nat., iii, 1816, 250. — 
 
@@ -28786,7 +28786,7 @@ aa. Tail not barred (imiform black, with white base and tip); axillars and most 
 
  ican Ornithologists' Union, Check List, 3rd ed., 1910, 119. — [Scolopax] segocephala 
 
- Linnseus, Syst. Nat., ed. 10, i, 1758, 147 (s. Europe); ed. 12, i, 1766, 2i(o.—Totanus 
+ Linnaeus, Syst. Nat., ed. 10, i, 1758, 147 (s. Europe); ed. 12, i, 1766, 2i(o.—Totanus 
 
  aegocepJialus Bechstein, Om. Taschenb., ii, 1803, 288.— iimosa segocephala Leach, 
 
@@ -29010,7 +29010,7 @@ Limosa fedoa Sabine, in Franklin's Polar Sea, 1823, 689. — Obd, ed. Wilson's A
 
  Bor.-Am., ii, 1831, 395 (Saskatchewan plains). — Lesson, Traits d'Om., 
 
- 1831, 554.— NuTTALL, Man. Om. U. S. and Can., Water Birds, 1834, 173.— 
+ 1831, 554.— NUTTALL, Man. Om. U. S. and Can., Water Birds, 1834, 173.— 
 
  Audubon, Om. Biog., iii, 1835, 287, pi. 238; v, 1839, 590; Synopsis, 1839, 
 
@@ -29812,7 +29812,7 @@ Limosa rufa (not of Temminck, 1820) Temminck and Sohlegel, Fauna Japonica,
 
 
 
-Limosa lapponica (not Scohpax lapponica Linnseus) Cassin, Proc. Ac. Nat. Sci. 
+Limosa lapponica (not Scohpax lapponica Linnaeus) Cassin, Proc. Ac. Nat. Sci. 
 
  Phila., 1858, 196 (Hakodate, Japan).— Swinhoe, Ibis, 1863, 91 (Peking).— 
 
@@ -31383,7 +31383,7 @@ and Bannister, Trans. Chicago Ac. Sci., i, 1869, 291 (Pastolik and mouth of
 
  Allen, Bull. Mus. Oomp. Zool., iii, 1872, 171, 181 (Ogden, Utah, after Sept. 
 
- 25).— RiDGWAY, BuU. Essex Inst., v, 1873, 187 (Colorado).— Mbrmam, 
+ 25).— RIDGWAY, BuU. Essex Inst., v, 1873, 187 (Colorado).— Mbrmam, 
 
  Rep. U. S. Geol. Surv. Terr., 1873, 714 (Utah).— Henshaw, Ann. Lye. N. Y., 
 
@@ -32935,7 +32935,7 @@ Ereunetes occidentalis Lawrence, Proc. Ac. Nat. Sci. Phila., xvi, April, 1864, 1
 
  N. Am. Birds, pt. 7, 1867 (vol. ii), pi. 41; TST. Am. Shore Birds, 1895, 100, pi. 
 
- ♦ 27.— RiDGWAY, Proc. U. S. Nat. Mus., vii, 1884, 178 (Sabanilla, Colombia, 
+ ♦ 27.— RIDGWAY, Proc. U. S. Nat. Mus., vii, 1884, 178 (Sabanilla, Colombia, 
 
  March). — ^Henshaw, Auk, ii, 1885, 384 (Boston Harbor, Massachusetts, Aug. 
 
@@ -33139,19 +33139,19 @@ Pavoncella Leach, Syst. Cat. Mam. and Birds Brit. Mus., 1816, 29. (Type, Trin^a
 
 
 
-pugnax Linnseus.) 
+pugnax Linnaeus.) 
 
  Machetes Cuvier, Rfegne Anim., i, 1817, 490. (Type, by original designation, 
 
 
 
-Tringa pugnax Linnseus.) 
+Tringa pugnax Linnaeus.) 
 
  Philomachus Gray, List Gen. and Subgen. Birds, 1841, 89. (Type, Tringa 
 
 
 
-pugnax Linnseus.) 
+pugnax Linnaeus.) 
 
  Machophilus Thienemann, Rhea, Heft i, 1846, 117. (Substitute for Philomachus 
 
@@ -33932,7 +33932,7 @@ pi. 54, figs. 1, 2.
 
 
 
-Tringa pugnax Linnseus). 
+Tringa pugnax Linnaeus). 
 
  Philomachus pugnax indicus Reichenbach, Grallatores, 1850, pi. 72, figs. 596-600. 
 
@@ -34442,7 +34442,7 @@ Tryngites rufescens Cabanis, Journ. fur Orn., 1856, 418 (Cuba); 1878, 199 (Ar-
 
  Texas, spring and autumn). — Maynard, Birds E. N. Am., 1879, 390. — 
 
- RiDGWAY, Proc. U. S. Nat. Mus., iii, 1880, 201 (Cat. N. Am. Birds, no. 556); 
+ RIDGWAY, Proc. U. S. Nat. Mus., iii, 1880, 201 (Cat. N. Am. Birds, no. 556); 
 
  Nom. N. Am. Birds, 1881, no. 556.— Rag sd ale, Bull. Nutt. Orn. Club, vi, 1881, 
 
@@ -34571,7 +34571,7 @@ Canutus Bhehm, Vog. Deutachl., 1831, 653. (Type, by tautonymy, Tringa
 
 
 
-canutus Linnseus.) 
+canutus Linnaeus.) 
 
  Anteliotringa"- Mathews, Birds Australia, iii, pt. 3, Aug. 18, 1913, 274. (Type, 
 
@@ -38046,7 +38046,7 @@ Tringa faUinella Pallas, Zoogr. Rosso-Asiat., ii, 1826, 188.
 
 
 
-Tringa islandica (not of Linnseus) Retzius, Fauna Suecica, 1800, 192. 
+Tringa islandica (not of Linnaeus) Retzius, Fauna Suecica, 1800, 192. 
 
 
 
@@ -38109,13 +38109,13 @@ Pelidna Cuvier, Rfegne Anim., i, 1817, 490. (Type, as designated by Gray,
 
 
 
-1840, Tringa aindus Linnaeus =7. alpina Linnseus.) 
+1840, Tringa aindus Linnaeus =7. alpina Linnaeus.) 
 
  Schxnidus Gray, List Birds Brit. Mus., iii, 1844, 104 (ex Moehiihg, 1752). 
 
 
 
-(Type, Tringa dndiLS Linn8eus=T. alpina Linnseus.) 
+(Type, Tringa dndiLS Linn8eus=T. alpina Linnaeus.) 
 
 
 
@@ -38984,7 +38984,7 @@ Tringa alpina Wilson, Am. Orn., vii, 1813, 25, pi. 56, fig. 2. — Bonapaetb, An
 
  Lye. N. Y., ii, 1826, 317. — Swainson and Richardson, Fauna Bor.-Am., ii, 
 
- 1831, 383.— NuTTALL, Man. Orn. U. S. and Can., Water Birds, 1884, 106.— 
+ 1831, 383.— NUTTALL, Man. Orn. U. S. and Can., Water Birds, 1884, 106.— 
 
  Audubon, Orn. Biog., iii, 1835, 580, pi. 290; Synopsis, 1839, 234; Birds Am., 
 
@@ -40645,7 +40645,7 @@ Island, Bahamas).
 
  Tringa pectoralis Bonaparte, Ann. Lye N. Y., ii, 1826, 318 (crit.); Am. Orn., 
 
- iv, 1833, 43, pi. 23, fig. 2.— NuTTALL,.Man. Orn. TJ. S. and Can., Water 
+ iv, 1833, 43, pi. 23, fig. 2.— NUTTALL,.Man. Orn. TJ. S. and Can., Water 
 
  Birds, 1834, 111.— Audubon, Orn. Biog., iii, 1835, 601, pi. 294; v, 1839, 582; 
 
@@ -41567,7 +41567,7 @@ Actodromas hmrdi Newton, Proc. Zool. Soc. Lond., 1871, 57 (descr. eggs).—
 
  St. Lawrence Bay, Siberia; shores Norton Sound, rare). — Baird, Brewer, 
 
- and RiDGWAY, Water Birds N. Am., i, 1884, 230.— Drew, Auk, ii, 1885, 18 
+ and RIDGWAY, Water Birds N. Am., i, 1884, 230.— Drew, Auk, ii, 1885, 18 
 
  (Colorado, 7,000-13,000 ft. alt.).— Murdoch, Auk, ii, 1885, 63 (Point Barrow, 
 
@@ -44243,7 +44243,7 @@ Eurynorhynchus Nilsson, Orn. Suecica, ii, 1821 (1819?), 29. (Type, by monotypy,
 
 
 
-E. griseus Nilsson = Platalea pygmea Linnseus.) 
+E. griseus Nilsson = Platalea pygmea Linnaeus.) 
 
  Curynorhynchus (emendation) Temminck, Man. d'Orn., 2d ed., i, 1820, civ. 
 
@@ -44364,7 +44364,7 @@ Range. — jllastern Asia. (Monotypic.)
 
 
 
-EURYNORHYNCHUS PYGMEUS (Linnseus.) 
+EURYNORHYNCHUS PYGMEUS (Linnaeus.) 
 
 
 
@@ -44606,7 +44606,7 @@ Eurinorhynchus pygmaeas Hartlatjb, Journ. fiir Orn., 1859, 325 (crit.), 328
 
 
 
-c Linnseus's type was in the collection of the Museum of XJpaala, Sweden, as late 
+c Linnaeus's type was in the collection of the Museum of XJpaala, Sweden, as late 
 
  1860, according to Lilljeborg (Journ. fiir Orn., 1860, 299). 
 
@@ -45285,7 +45285,7 @@ Calidris arenaria Illiger, Prodr. Orn., 1811, 249.— Temminck, Man. d'Om., ii,
 
  Lond., 1834, 15 (North America; crit.); Birds Great Brit., iv, 1873, pi. 66 and 
 
- text. — NuTTALL,' Man. Orn, U. S. and Can., Water Birds, 1834, 4. — Peabody, 
+ text. — NUTTALL,' Man. Orn, U. S. and Can., Water Birds, 1834, 4. — Peabody, 
 
  Rep. Orn. Mass., 1839, 357.— Crespon, Om. Gard, 1840, 352.— Nordmann, 
 
@@ -45817,7 +45817,7 @@ Orn., 1826, [188].
 
 
 
-Tringa arenaria Linnseus). — ^Tbmminok, Man. d'Orn., 1815, 334. 
+Tringa arenaria Linnaeus). — ^Tbmminok, Man. d'Orn., 1815, 334. 
 
  Armaria grisea Bechstein, Naturg. Deutschl., iv, i, 1809, 368, pi. xxiv, fig. 1 
 
@@ -45843,7 +45843,7 @@ Tringa arenaria Linnseus). — ^Tbmminok, Man. d'Orn., 1815, 334.
 
 
 
-calidris Linnseus). 
+calidris Linnaeus). 
 
  Calidris americana Brehm, Vog. Deutschl., 1831, 695; Naumannia, 1850, Heft 2, 
 
@@ -45877,7 +45877,7 @@ by original designation, Scolopax semipalmata Gmelin.)
 
 oThe type of Symphemia Raflnesque is Tringa semipalmata Wilson=r. pusilla 
 
- Linnseus; therefore, Symphemia is a synonym of Ereunetes lU^er. See Richmond, 
+ Linnaeus; therefore, Symphemia is a synonym of Ereunetes lU^er. See Richmond, 
 
  Proc. Biol. Soc. Wash., xviii, 1905, 75. 
 
@@ -46578,7 +46578,7 @@ Salt Lake, Utah, breeding); Proc. U. S. Nat. Mus., iii, 1880, 200 (Cat. N. Am.
 
  18 (Grant and Traverse Counties, Minnesota, breeding). — Baird, Brewer, 
 
- and RiDGWAY, Water Birds N. Am., i, 1884, 285, part. — Drew, Auk, ii, 1885, 
+ and RIDGWAY, Water Birds N. Am., i, 1884, 285, part. — Drew, Auk, ii, 1885, 
 
  18 (Colorado, breeding at 6,000 ft.). — ^Agbrsborg, Auk, ii, 1885, 286 (s. e. 
 
@@ -48002,7 +48002,7 @@ BIRDS OP NORTH AND MIDDLE AMERICA. 333
 
 
 
-Scolopax . . . totanus (not of Linnieus, 1758) Fokster, Philos. Trans,, Ixii, 1772, 
+Scolopax . . . totanus (not of Linnaeus, 1758) Fokster, Philos. Trans,, Ixii, 1772, 
 
  410 (Albany Fort, Keewatin). 
 
@@ -48841,7 +48841,7 @@ Totamis flavipes Vieillot, Nouv. Diet. d'Hist. Nat., vi, 1816, 410. — Sabine, 
 
  Salvin, Proc. Zool. Soc. Lond., 1879, 547 (Medellin, Antioquia, Colombia). — 
 
- RiDGWAY, Proc. U. S. Nat. Mus., iii, 1880, 200 (Cat. N. Am. Birds, no. 549); 
+ RIDGWAY, Proc. U. S. Nat. Mus., iii, 1880, 200 (Cat. N. Am. Birds, no. 549); 
 
  X, 1887, 578 (Swan Island, Caribbean Sea); xii, 1890, 137 (Gregory Bay. 
 
@@ -49000,7 +49000,7 @@ T[otanus] flampes Maximilian, Beitr. Naturg. Bras., iv, ii, 1833, 723. — Tschu
 
  Journ. fiir Orn., 1859, 89 (descr., etc.). — Trippb, Proc. Essex Inst., vi, 1871, 
 
- 119 (Minnesota).— RiDGWAY, Ann. Lye. N. Y., x, 1874, 384 (Illinois); Man. 
+ 119 (Minnesota).— RIDGWAY, Ann. Lye. N. Y., x, 1874, 384 (Illinois); Man. 
 
  N. Am. Birds, 1887, 188.— Nelson, Bull. Essex Inst., viii, 1876, 129, 153 
 
@@ -49716,7 +49716,7 @@ Range. — Palaearctic Region (casual in Alaska). (Monotypic.)
 
 
 
-RHYACOPHILUS GLAREOLA (Linnseus). 
+RHYACOPHILUS GLAREOLA (Linnaeus). 
 
 
 
@@ -50371,7 +50371,7 @@ Totanus grallatoris Stephens, Shaw's Gen. Zool., xii, 1824, 148.
 
 
 
-Trynga littorea (not Tringa littorea Linnseus) Pallas, Zoog. Eosso-Asiat., ii, 1826, 
+Trynga littorea (not Tringa littorea Linnaeus) Pallas, Zoog. Eosso-Asiat., ii, 1826, 
 
  195. 
 
@@ -50423,7 +50423,7 @@ T[otanus] glareoloides Jeedon^ Birds India, iii, 1864, 697 (in synonymy).
 
 
 
-Genus TRINGA Linnseus. 
+Genus TRINGA Linnaeus. 
 
 
 
@@ -50431,13 +50431,13 @@ Tringa Linnaeus, Syst. Nat., ed. 10, i, 1758, 148. (Type, by tautonymy, Tring
 
 
 
-ocTophus Linnseus. ) 
+ocTophus Linnaeus. ) 
 
  Helodromas Kaup, Skizz. Entw.-Geach. Eur. Thierw., 1829, 144. (Type, by 
 
 
 
-monotypy, Tringa ocrophus Linnseus.) 
+monotypy, Tringa ocrophus Linnaeus.) 
 
 
 
@@ -51898,7 +51898,7 @@ BIRDS OP NORTH AND MIDDLE AMERICA. 365
 
  (Ogden, Utah).— Lawrence, Mem. Boat. Soc. N. H., ii, 1874, 309 (Mazatlan, 
 
- Sinaloa).— RiDGWAY, Om. 40th Parallel, 1877, 610 (Truckee Valley, Nevada, 
+ Sinaloa).— RIDGWAY, Om. 40th Parallel, 1877, 610 (Truckee Valley, Nevada, 
 
  May 13; Glendale, Nevada, July); Proc. U. S. Nat. Mus., iii, 1880, 200 
 
@@ -52236,7 +52236,7 @@ o Totanus irevipes Vieillot, Nouv. Diet. d'Hist. Nat., vi, 1816, 410 (no localit
 
  207. — Totarms incanus (not Scolopax incana Gmelin) and Heteroscelus incanus of 
 
- numerous authors. — Trynga glareola (not Tringa glareola Linnseus) Pallas, Zoogr. 
+ numerous authors. — Trynga glareola (not Tringa glareola Linnaeus) Pallas, Zoogr. 
 
  Rosso-Asiat., ii, 1826, 194, pi. 60. — Totanus pedesCris, part, Lesson, Traits d'Om.i 
 
@@ -52400,7 +52400,7 @@ Seteroscelus incanus Coues, Check List, 1873, no. 440; 2nd. ed., 1882, no. 642; 
 
  Bull. U. S. Nat. Mus., no. 7, 1877, 19 (Palmyra Island, Fanning Group).— 
 
- -RiDGWAY, Proc. U. S. Nat. Mus., iii, 1880, 200 (Cat. N. Am. Birds, no. 553); 
+ -RIDGWAY, Proc. U. S. Nat. Mus., iii, 1880, 200 (Cat. N. Am. Birds, no. 553); 
 
  Nom. N. Am. Birds, 1881, no. 553.— Elliott, Mon. Pribylov Group, 1882, 130 
 
@@ -52740,7 +52740,7 @@ U. S. Nat. Mus., no. 29, 1885, 131.)
 
 327. 
 
- Cfuinetta Gray, List Gen. Birds, 1840, 68. (Type, Tringa hypoleucos Linnseus.) 
+ Cfuinetta Gray, List Gen. Birds, 1840, 68. (Type, Tringa hypoleucos Linnaeus.) 
 
 
 
@@ -54114,7 +54114,7 @@ Nom. N. Am. Birds, 1881, no. 555.— Mehriam, BulL Nutt. Orn. Club, vii,
 
 1883, 198 (Colorado Springs, Colorado, April, numerous). — ^Baird, Brewer, 
 
- and RiDGWAY, Water Birds N. Am., i, 1884, 296. — Saxtnders, ed. Yarrell's 
+ and RIDGWAY, Water Birds N. Am., i, 1884, 296. — Saxtnders, ed. Yarrell's 
 
  Brit. Birds, iii, 1884, 440; Man. Brit. Birds, 1889, 589.— Drew, Auk, ii, 
 
@@ -54598,7 +54598,7 @@ LATJB, Syst. Index Azara's Apunt., 1847, 25.
 
  T[otanus] campestris Vibillot, Tabl. Enc. M6th., iii, 1823, 1098. 
 
- Pavoncella pugnax (not Tringapugnax Linnseus) Macoun, Cat. Canad. Birds, 1900, 
+ Pavoncella pugnax (not Tringapugnax Linnaeus) Macoun, Cat. Canad. Birds, 1900, 
 
 
 
@@ -54614,7 +54614,7 @@ Numenius Brisson, Orn., v, 1760, 311. (Type, by tautonymy, [Numenius]
 
 
 
-numenius Bris?on=iS'cotopa2; arquata Linnseus.) 
+numenius Bris?on=iS'cotopa2; arquata Linnaeus.) 
 
  Neomenius"- (emendation) Billbbro, Synop. Faunae Scand., i, para 2, 1828, tab. 
 
@@ -54626,7 +54626,7 @@ A and p. 159.
 
 
 
-arquata Linnseus.) 
+arquata Linnaeus.) 
 
 
 
@@ -55096,7 +55096,7 @@ Numenius arquata Temminck, Cat. Syst., 1807, 169; Man. d'Orn.,ii, 1820, 603. —
 
  157 (Iceland). — Pearson and Bidwell, Ibis, 1894, 236 (n. Norway). — 
 
- RiDGWAY, Man. N. Am. Birds, 2nd ed., 1895, 588. — Poynting,- Eggs Brit. 
+ RIDGWAY, Man. N. Am. Birds, 2nd ed., 1895, 588. — Poynting,- Eggs Brit. 
 
  Birds, pt. ui, 1896, 243, pis. 51, 52.— Popham, Ibis, 1897, 106 (Yeneseisk, 
 
@@ -55172,7 +55172,7 @@ Numenius arquatus madagascariensis Sibree, Ibis, 1892, 115 (Madagascar).
 
 Numenius major Stephens, Shaw's Gen. Zool., xii, pt. 1, 1824, 26 (new name for 
 
- Scolopax arquata Linnseus). — Shaepe, Ibis, 1886, 168 (Muscat, Arabia). 
+ Scolopax arquata Linnaeus). — Shaepe, Ibis, 1886, 168 (Muscat, Arabia). 
 
 
 
@@ -55580,7 +55580,7 @@ Essex Inst., v, 1866, 93 (Hamilton, Ontario).— Lawrence, Ann. Lye. N. Y.,
 
  Nutt. Orn. Club, vii, 1882, 256 (near Plattsburg, New York, formerly).— 
 
- RiDGWAY, Bull. Essex Inst., vii, 1875, 31 (Salt Lake Valley, Utah, breeding), 
+ RIDGWAY, Bull. Essex Inst., vii, 1875, 31 (Salt Lake Valley, Utah, breeding), 
 
  34 (Parleys Park, Utah, rare); Field and Forest, ii, 1877, 211 (Colorado), 
 
@@ -55602,7 +55602,7 @@ Essex Inst., v, 1866, 93 (Hamilton, Ontario).— Lawrence, Ann. Lye. N. Y.,
 
  Texas, resident). — Matnard, Birds E. N. Am., 1879, 398. — Baird, Brewer, 
 
- and RiDGWAY, Water Birds N. Am., i, 1884, 311, part. — ^Turner, Proc. 
+ and RIDGWAY, Water Birds N. Am., i, 1884, 311, part. — ^Turner, Proc. 
 
  U. S. Nat. Mus., viii, 1885, 248 (Labrador).— Drew, Auk, ii, 1885, 18 (plains 
 
@@ -57236,7 +57236,7 @@ BIKDS OF NORTH AND MIDDLE AMERICA. 405
 
 and Richardson, Fauna Bor.-Am., ii, 1831, 377. — Lesson, Traits d'Orn., 
 
- 1831, 565— NuTTALL, Man. Orn. U. S. and Can., Water Birds, 1834, 97.— 
+ 1831, 565— NUTTALL, Man. Orn. U. S. and Can., Water Birds, 1834, 97.— 
 
  Audubon, Orn. Biog., iii, 1835, 283, pi. 237; v, 1839, 589; Synopsis, 1839. 
 
@@ -58355,7 +58355,7 @@ Nat. For. Kjobeniavn, 1881, 185 (Greenland).— Salvin, Ibis, 1861, 356
 
  Fjord, June).— Dalgleish, Bull. Nutt. Orn. Club, v, 1880, 210 (5 British 
 
- records).- RiDGWAY, Proc. U. S. Nat. Mus., iii, 1880, 201 (Cat. N. Am. 
+ records).- RIDGWAY, Proc. U. S. Nat. Mus., iii, 1880, 201 (Cat. N. Am. 
 
  Birds, no. 560); xix, 1896, 633 (Charles Island, Galapagos); Nom. N. Am. 
 
@@ -59315,7 +59315,7 @@ d'Orn., ii, 1828, 280; Trait6 d'Om., 1831, 562.— Swainson and Kichardson,
 
  Islands and Melville Peninsula). — Jahdinb, ed. Wilson's Am. Om., ui, 1832, 
 
- 195, pi. 73, fig. 4.— NuTTALL, Man. Om. U. S. and Can., Water Birds, 1834, 
+ 195, pi. 73, fig. 4.— NUTTALL, Man. Om. U. S. and Can., Water Birds, 1834, 
 
  236.— Audubon, Om. Biog., iii, 1835, 404, pi. 255; Synopsis, 1839, 239; 
 
@@ -59403,7 +59403,7 @@ d'Orn., ii, 1828, 280; Trait6 d'Om., 1831, 562.— Swainson and Kichardson,
 
  ing).— Butler, Oat. Birds Sind, etc., 1879, 64.— Maynard, Birds E. N. Am., 
 
- 1879, 372.— RiDGWAY, Proc U. S. Nat. Mus., iii, 1880, 201 (Cat. N. Am. 
+ 1879, 372.— RIDGWAY, Proc U. S. Nat. Mus., iii, 1880, 201 (Cat. N. Am. 
 
  Birds, no. 563); Norn. N. Am. Birds, 1881, no. 563.— Giglioli, Ibis, 1881, 
 
@@ -59589,7 +59589,7 @@ C[rymopMlus] fulicarius Ridgway, Man. N. Am. Birds, 1887, 144.
 
 
 
-[Phalaropus] lobafus{not Tririga lobata Linnseus) Tunstall, Om. Brit., 1771, 3.— 
+[Phalaropus] lobafus{not Tririga lobata Linnaeus) Tunstall, Om. Brit., 1771, 3.— 
 
  Latham, Ind. Om., Suppl., ii, 1790, 776. 
 
@@ -60515,7 +60515,7 @@ Phalaropus angustirrostris Naumann, Rhea, i, 1846, 23.
 
 
 
-■Phalaropus fulicarius (not IHnga fuUcaria Linnseus) Fmtsch, V6g. Eur., 1871, 
+■Phalaropus fulicarius (not IHnga fuUcaria Linnaeus) Fmtsch, V6g. Eur., 1871, 
 
  pi. 39, flg. 5.— Hume, Ibis, 1872, 469 (Sind, India); Stray Feath., i, 1873, 
 
@@ -60785,7 +60785,7 @@ Breeding from central Washington, central Alberta, Saskatchewan
 
 
 
-Phalaropus lobatus (not Tringa lobata Linnseus) Wilson, Am. Orn.,ix, 1814, 72, 
+Phalaropus lobatus (not Tringa lobata Linnaeus) Wilson, Am. Orn.,ix, 1814, 72, 
 
  pi. 73, fig. 3.— Ord, ed. Wilson's Am. Om., ix, 1825, 72, pi. 73, fig. 3.— Haet- 
 
@@ -61251,13 +61251,13 @@ Eecurvirostra LiNN.s;tTS, Syst. Nat., ed. 10, i, 1758, 151. (Type, by monotypy,
 
 
 
-Recurvirostra avosetta Linnseus.) 
+Recurvirostra avosetta Linnaeus.) 
 
  Avocetta Bhisson, Orn., vi, 1760, 538. (Type, " Avocetta" =Recurvirostra avosetta 
 
 
 
-Linnseus.) 
+Linnaeus.) 
 
 
 
@@ -61853,7 +61853,7 @@ Grallatores, 1851, pi. 66, fig. 991.— Baird, in Rep. Stansbury's Surv. Great
 
 1883, 351 (Lower California south of lat. 24° 80').— Baikd, Beewbr, and 
 
- RiDGWAY, Water Birds N. Am., i, 1884, 341.— Debw, Auk, ii, 1885, 18 (Colo- 
+ RIDGWAY, Water Birds N. Am., i, 1884, 341.— Debw, Auk, ii, 1885, 18 (Colo- 
 
  rado).— Beckham, Auk, ii, 1885, 144 (Pueblo, Colorado); Proc. U. S. Nat. 
 
@@ -62018,19 +62018,19 @@ Genus HIMANTOPUS Brisson.
 
 Himantopus Brisson, Orn., v, 1760, 33. (Type, by tautonymy, [Himantopus] 
 
- himantopus BnBBOTi= Charadrius himantopus Linnseus.) 
+ himantopus BnBBOTi= Charadrius himantopus Linnaeus.) 
 
 
 
 Macrotarsus Lacbpbde, Tabl. Oiseaux, 1799, 18. (Type, Charadrius himan- 
 
- topus Linnseus.) 
+ topus Linnaeus.) 
 
 
 
 Hypsibates Nitzsch, in Ersch und Gruber's Encycl., xvi, 1827, 150. (Type, 
 
- Charadrius himantopus Linnseus.) 
+ Charadrius himantopus Linnaeus.) 
 
 
 
@@ -62801,7 +62801,7 @@ Himantopus nigricollis Vieillot, Nouv. Diet. d'Hist. Nat., x, 1817, 42 (North
 
  Lye. N. Y., ii, 1826, 322; Geog. and Comp. List, 1838, 54.— Lesson, Traits 
 
- d'Om., 1831, 550.— NuTTALL, Man. Orn. U. S. and Can., Water Birds, 1834, 
+ d'Om., 1831, 550.— NUTTALL, Man. Orn. U. S. and Can., Water Birds, 1834, 
 
  8.— Atjdubon, Orn. Biog., iv, 1838, 247, pi. 328; Synopsis, 1839, 253; Birds 
 
@@ -63081,7 +63081,7 @@ xiii, 1, 3. — Salvin and Godman, Biol. Centr.-Am., Aves, iii, 1903, 397.
 
 
 
-1910, 33.— RiDGWAY, Man. N. Am. Birds, 1887, 1, 20. 
+1910, 33.— RIDGWAY, Man. N. Am. Birds, 1887, 1, 20. 
 
  =Longipennea Nitzsch, Meckel's Deutsches Archiv Phys., 1820, 265.— Dubois, 
 
@@ -63381,7 +63381,7 @@ Only one genus is known, this being represented by about foiir
 
 
 
-Genus RYNCHOPS Linnseus. 
+Genus RYNCHOPS Linnaeus. 
 
 
 
@@ -63407,7 +63407,7 @@ by monotypy, Rynchops nigra Linnaeus.)
 
 
 
-(Type, " Rygchopsalia" =Rynchops nigra Linnseus.) 
+(Type, " Rygchopsalia" =Rynchops nigra Linnaeus.) 
 
  Rhynchopsalia (emendation) Gloger, Hand-u. Hilfsb., 1842, 463. 
 
@@ -63415,7 +63415,7 @@ by monotypy, Rynchops nigra Linnaeus.)
 
 
 
-Rynchops Linnseus.) 
+Rynchops Linnaeus.) 
 
 
 
@@ -63716,7 +63716,7 @@ BIEDS OF NORTH AND MIDDLE AMERICA. 453
 
  Proc. Bost. Soc. N. H., xx, 1879, 276 (Woods Hole, Massachusetts, 1 spec, 
 
- Aug. 19, 1879).— RiDGWAY, Proc. U. S. Nat. Mus., iii, 1880, 206 (Cat. N. 
+ Aug. 19, 1879).— RIDGWAY, Proc. U. S. Nat. Mus., iii, 1880, 206 (Cat. N. 
 
  Am. Birds, no. 656); Norn. N. Am. Birds, 1881, no. 656.— Purdie, Bull. 
 
@@ -63724,7 +63724,7 @@ BIEDS OF NORTH AND MIDDLE AMERICA. 453
 
  on Muskegat Island, Massachusetts up to 1832). — Baied, Brewer, and 
 
- RiDGWAY, Water Birds N. Am., i, 1884, 192.— Loomis, Auk, ii, 1885, 193 
+ RIDGWAY, Water Birds N. Am., i, 1884, 192.— Loomis, Auk, ii, 1885, 193 
 
  (Chester, South Carolina, 1 spec, Sept. 10, 1882, after storm). — Salvin, Ibis, 
 
@@ -63790,7 +63790,7 @@ RlAincopsl nigra Bonaparte, Obs. Nomencl. Wilson's Am. Orn., 1826, [207].
 
 
 
-[Rhynchops nigra] ;3. IjAtjham, Index Orn., ii, 1790, 803 (=R.fulva Linnseus). 
+[Rhynchops nigra] ;3. IjAtjham, Index Orn., ii, 1790, 803 (=R.fulva Linnaeus). 
 
 
 
@@ -63906,7 +63906,7 @@ BIRDS OF NORTH AND MIDDLE AMERICA. 455
 
 
 
-Rhyncfiops nigra (not Linnseus) Maximilian, Beitr. Natuig. Bras., iv, 1833, 877 
+Rhyncfiops nigra (not Linnaeus) Maximilian, Beitr. Natuig. Bras., iv, 1833, 877 
 
  (Espirito Santo, s. Brazil). — Darwin, Zool. Voy. 'iBeagle,' iii, 1839, 161 
 
@@ -67238,7 +67238,7 @@ Chelochelidon (emendation) Bkehm, Isis, 1842, 413.
 
  Laropis Wagler, Isis, 1832, 1225. (Type, Sterna anglica Montague=<S'. nilotica 
 
- Linnseus.) 
+ Linnaeus.) 
 
 
 
@@ -67553,7 +67553,7 @@ Sterna anglica Montagu, Orn. Diet. Suppl., 1813, fig. (Sussex, England; coll.
 
  Naturg. Bras., iv, 1833, 867.— Sblby, Brit. Birds, ii, 1833, 480, pi. 88, fig. 1.— 
 
- NuTTALL, Man. Orn. U. S. and Can., Water Birds, 1834, 269.— Jbntns, Man. 
+ NUTTALL, Man. Orn. U. S. and Can., Water Birds, 1834, 269.— Jbntns, Man. 
 
  Brit. Vertebr., 1835, 269.— Etton, Rarer Brit. Birds, 1836, 97, figs,; Cat. 
 
@@ -67982,7 +67982,7 @@ designated by Gray, 1840, Sterna himndo Linnseua.)
 
 
 
-Wagler =./itscoto Linnseus.) 
+Wagler =./itscoto Linnaeus.) 
 
  Chelido " Billbehg, Synop, Faunae Scand., i, pars 2, 1828, tab . A and p. 193. (New 
 
@@ -67994,7 +67994,7 @@ name for Sterna Xinnseus.)
 
 
 
-manuscript, =5. fuscata Linnseus.) 
+manuscript, =5. fuscata Linnaeus.) 
 
  Planetes (emendation) Gistel, Naturg. Thierreichs furhohere Schulfen, 1848, p. x. 
 
@@ -72760,7 +72760,7 @@ Sterna fuliginosa Wilson, Am. Orn., viii, 1814, 145, pi. 72, fig. 7. — ^VieH/L
 
  DINE, ed. Wilson's Am. Orn., iii, 1832, 182; Contr. Orn., 1849, 86 (Bermudas, 
 
- 1 spec). — ^NuTTALL, Man. Orn. U. S. and Can., Water Birds, 1834, 284. — Au- 
+ 1 spec). — ^NUTTALL, Man. Orn. U. S. and Can., Water Birds, 1834, 284. — Au- 
 
  dubon, Orn. Biog., iii, 1835, 263, pi. 235; v, 1839, 641; Synopsis, 1839, 317; 
 
@@ -74382,13 +74382,13 @@ Hydrochelidon nigra surinamensis, winter adults (p. 533).
 
  [Hydrochelidon lariformis.] a. (European references) Coues, Birds Northwest, 1874, 
 
- 704. — [Sterna] nxvia Linnseus, Syst. Nat., ed. 12, i, 1766, 228 (south Europe=young). — 
+ 704. — [Sterna] nxvia Linnaeus, Syst. Nat., ed. 12, i, 1766, 228 (south Europe=young). — 
 
  Lams merulinus ScopoU, Ann. I. Hist. Nat., 1769, 81. — {1)Larus columbinus ScopoU, 
 
  Ann. I. Hist. Nat., 1769, 83. — Sterna nubilosa Sparrman, Mus. Carls., fasc. iii, 1788, 
 
- no. 63 (Finland;=young). — Sterna fissipes (not of Linnseus) Latham, Index Om., ii, 
+ no. 63 (Finland;=young). — Sterna fissipes (not of Linnaeus) Latham, Index Om., ii, 
 
  1790, 810; Bechstein, Naturg. Deutschl., ii, 1791, 833; Yarrell, Brit. Birds, ui, 1843. 
 
@@ -75119,7 +75119,7 @@ Tijdschr. Nederl. Ind., xliv, 1884, 207 (Java); xUx, 1889, 420 (Sumatra).
 
 68 (Dobrudscha, breeding). 
 
- Hydrochelidon nigra (not Sterna nigra Linnseus) Biddulph, Ibis, 1881, 102 (Gilgit, 
+ Hydrochelidon nigra (not Sterna nigra Linnaeus) Biddulph, Ibis, 1881, 102 (Gilgit, 
 
 
 
@@ -75749,7 +75749,7 @@ Eydrochelidon fissipes Coues, Proc. Ac. Nat. Sci. PMla., 1862, 554 (monogr.);
 
 [Eydrochelidon lariformis] /3. (American references.) Coues, Birds Northwest, 
 
- 1874, 705 (monogr.; not Rallvs lariformis Linnseus, 1758). 
+ 1874, 705 (monogr.; not Rallvs lariformis Linnaeus, 1758). 
 
 
 
@@ -77017,13 +77017,13 @@ Anous" Stephens, Shaw's Gen. Zool., xiii, pt. i, 1826, 139. (Type, as designated
 
 
 
-by Gray, 1840, A. niger Stephens =jSfema stolida Linnseus.) 
+by Gray, 1840, A. niger Stephens =jSfema stolida Linnaeus.) 
 
  Stolida Lesson, Trait6 d'Om., 1831, 620. (Type, by tautonymy, Sterna stolida 
 
 
 
-Linnseus.) 
+Linnaeus.) 
 
  Gavia (not of Forster, 1788, nor Boie, 1822) Swainson, Classif. Birds, ii, 1837, 373. 
 
@@ -77035,7 +77035,7 @@ Linnseus.)
 
 
 
-Linnseus.) 
+Linnaeus.) 
 
 
 
@@ -77772,7 +77772,7 @@ Galapagos Archipelago (Abingdon, Albemarle, Barrington, Bindloe,
 
 
 
-Megnlopterus stolidus (not Sterna stolida Linnseus) Gould, in Darwin's Zool. Voy. 
+Megnlopterus stolidus (not Sterna stolida Linnaeus) Gould, in Darwin's Zool. Voy. 
 
  'Beagle,' iii, 1841, 145, part (Galapagos Islands). 
 
@@ -79495,7 +79495,7 @@ R. hrunnicMi Stephens=iorMs tridactylus Linnaeus.)
 
 
 
-Linnseus) . 
+Linnaeus) . 
 
  [??] Polocandora Rbicheneach, Nat. Syst. Vog., 1852 (1853), p. v. (Type not 
 
@@ -79636,7 +79636,7 @@ Rissa brevirostris, young (p. 573) .
 
 
 
-RISSA TRIDACTYLA TRIDACTYLA (Linnseus). 
+RISSA TRIDACTYLA TRIDACTYLA (Linnaeus). 
 
 
 
@@ -80140,7 +80140,7 @@ Breeding in Arctic and Subarctic Europe and Asia, and North
 
  Fauna Bor .-Am., ii, 1831, 423. — ^Men^ries, Cat. Rais. Caucas., 1832, 56. — 
 
- NuTTALL, Man. Orn. U. S. and Can., Water Birds, 1834, 298. — Jenyns, Man. 
+ NUTTALL, Man. Orn. U. S. and Can., Water Birds, 1834, 298. — Jenyns, Man. 
 
  Brit. Vertebr., 1835, 274.— Audubon, Orn. Biog., iii, 1835, 186, pi. 224; 
 
@@ -80650,7 +80650,7 @@ Larus rissa Pallas, Zoogr. Rosso-Asiat., ii, 1826, 321 (Kamchatka).
 
 
 
-Larus tridactylus (not of Linnseus) Kittlitz, Isis, 1832, 1104 (n. w. North America); 
+Larus tridactylus (not of Linnaeus) Kittlitz, Isis, 1832, 1104 (n. w. North America); 
 
  Denkw. Reise Russ. Am. Mikron. and Kamtschatka, i, 1858, 248; ii, 1858, 
 
@@ -81761,7 +81761,7 @@ L[arus] brachytarsus Holboil, Naturhist. Tidsskr., iv, 1843, 422 (Greenland).
 
 
 
-Genus LARUS Linnseus. 
+Genus LARUS Linnaeus. 
 
 
 
@@ -81769,13 +81769,13 @@ Larus LTNN.ffiius, Syst. Nat., ed. 10, i, 1758, 136. (Type, as designated by
 
 
 
-Gray, 1840, Larus glaucus Linnseus=i. hyperboreas Gunnerus.) 
+Gray, 1840, Larus glaucus Linnaeus=i. hyperboreas Gunnerus.) 
 
  Lencus Kiup, Natiirl. Syst., 1829, 84. (Type, as designated by Gray, 1855, 
 
 
 
-Larus marinus Linnseus.) 
+Larus marinus Linnaeus.) 
 
  Leucus (emendation) Gray, App. List Gen. Birds, 1842, 15. 
 
@@ -81817,7 +81817,7 @@ deau.)
 
 
 
-Linnseus.) 
+Linnaeus.) 
 
  Mnaliaa Heine, in Heine and Reichenow, Nom. Mus. Hein. Orn., 1890, 358. 
 
@@ -82651,7 +82651,7 @@ Lotus glaucus (not of Pontoppidan, 1763 a) Brunnicii, Om. Bor., 1764, 44 (Ice-
 
  Anim., 1828, 139. — Swainson and Richardson, Fauna Bor.-Am., ii, 1831, 
 
- 416.— NuTTALL, Man. Orn. U. S. and Can., Water Birds, 1834, 306.— Selby, 
+ 416.— NUTTALL, Man. Orn. U. S. and Can., Water Birds, 1834, 306.— Selby, 
 
  Brit. Birds, ii, 1838, 498, pi. 99.— Jenyns, Man. Brit. Vertbr., 1835, 279.— 
 
@@ -82673,7 +82673,7 @@ Lotus glaucus (not of Pontoppidan, 1763 a) Brunnicii, Om. Bor., 1764, 44 (Ice-
 
 
 
-<J =Larus canus Linnseus, 1758. 
+<J =Larus canus Linnaeus, 1758. 
 
 
 
@@ -84292,7 +84292,7 @@ Larus chalcopterus (not of Lichtenstein) Lawrence, in Baii-d, Rep. Pacific R. R.
 
 
 
-Larus fuscus (not of Linnseus) Pelzeln, Verh. Zool. Bot. Ges. Wien, 1873, [sepa- 
+Larus fuscus (not of Linnaeus) Pelzeln, Verh. Zool. Bot. Ges. Wien, 1873, [sepa- 
 
  rate, p. 8]. 
 
@@ -84444,7 +84444,7 @@ Larus argentatus Taveenbr, Summary Report Geological Survey of Canada for
 
 
 
-LARUS MARINUS Linnseus. 
+LARUS MARINUS Linnaeus. 
 
 
 
@@ -84658,7 +84658,7 @@ Zool., xiii, pt. i, 1826, 186.— Bonapaete, Ann. Lye. N. Y., ii, 1828,
 
 
 
-1833, 507, pi. 97.— NuTTALL, Man. Orn. U. S. and Can., Water Birds, 
+1833, 507, pi. 97.— NUTTALL, Man. Orn. U. S. and Can., Water Birds, 
 
 
 
@@ -84787,7 +84787,7 @@ Zool., xiii, pt. i, 1826, 186.— Bonapaete, Ann. Lye. N. Y., ii, 1828,
 
  S6n6g„ Ois., 1884, 333 (Cape Blanco, etc., Senegal).— Baird, Brewer, and 
 
- RiDGWAY, Water Birds N. Am., ii, 1884, 225.— Radde, Orn. Caucas., 1884, 
+ RIDGWAY, Water Birds N. Am., ii, 1884, 225.— Radde, Orn. Caucas., 1884, 
 
  479 (not found on Caspian Sea).— Torre and Tschtjsi, Ornis, 1885,^ 560 
 
@@ -84857,7 +84857,7 @@ L[arus\ marinus Keysbbling and Blasius, Wirb. Eur., 1840, pp. xcvii, 245. —
 
  Gray, Gen. Birds, iii, 1846, 654.— Blasius, Journ. fiir Orn., 1865, 379.— 
 
- RiDGWAY, Ann. Lye. N. Y., x, 1874, 391 (Lake Michigan, n. e. Illinois, in 
+ RIDGWAY, Ann. Lye. N. Y., x, 1874, 391 (Lake Michigan, n. e. Illinois, in 
 
  winter); Man. N. Am. Birds, 1887, 28.— Nelson, Bull. Essex Inst., viii, 1876, 
 
@@ -84885,7 +84885,7 @@ Domiriicanus marinus Lochb, Expl. Sci. Alg^r., Ois., ii, 1867, 177. — Olphb-
 
 
 
-[Lorw* man'niw] 7 Latham, Index Orn., ii, 1790, 8 14 ■(=£a?-tts maririMS Linnseus). 
+[Lorw* man'niw] 7 Latham, Index Orn., ii, 1790, 8 14 ■(=£a?-tts maririMS Linnaeus). 
 
 
 
@@ -86152,7 +86152,7 @@ Orn., 1850, 13 (Bermudas, Feb., March).— Thompson, Birds Ireland, iii,1851,
 
  Nat. Mus., no. 25, 1884, 266 (Bermudas, frequent): — ^Baird, Brewer, and 
 
- RiDGWAY, W?ter Birds N. Am., ii, 1884, 255. — Seebohm, Hist. Brit. Birds, 
+ RIDGWAY, W?ter Birds N. Am., ii, 1884, 255. — Seebohm, Hist. Brit. Birds, 
 
  iii, 1885, 326.— LiJTKEN, Ornis, 1885, 145 (Denmark).— Torre and Tschusi, 
 
@@ -86295,7 +86295,7 @@ Larus (Laroides) argentatus Droste, Vogelw. Borkum, 1869, 346.
 
 
 
-Larus fuseus (not of Linnseus) Pennant, Brit. Zool., 2d ed., ii, 1788, 131. — 
+Larus fuseus (not of Linnaeus) Pennant, Brit. Zool., 2d ed., ii, 1788, 131. — 
 
  BoNNATBEEE, Tabl. Enc. M6th., i, 1790, 82. — Bechstein, Naturg. Deutschl., 
 
@@ -86751,7 +86751,7 @@ L[arm] cacMnnans Coubs, Key N. Am. Birds, 2d ed., 1884, 744.
 
 
 
-Larusfuscm (not of Linnseus) Swinhoe, Ibis, 1860, 68 (Amoy, China). 
+Larusfuscm (not of Linnaeus) Swinhoe, Ibis, 1860, 68 (Amoy, China). 
 
 
 
@@ -87948,7 +87948,7 @@ L[arus] zonorhynchus Gray, Gen. Birds, iii, 1846, 654.— Bonaparte, Oonsp. Av.,
 
 
 
-LARUS CANUS Linnseus. 
+LARUS CANUS Linnaeus. 
 
 
 
@@ -88761,7 +88761,7 @@ Larus canus (not of Linnaeus) Swainson and Richardson, Fauna Bor.-Am., ii,
 
  Am., ii, 1831, 422 (Fort Franklin, Great Bear Lake, Mackenzie; =young<'). — 
 
- NuTTALL, Man. Orn. U. S. and Can., Water Birds, 1834, 301.— Baird, in 
+ NUTTALL, Man. Orn. U. S. and Can., Water Birds, 1834, 301.— Baird, in 
 
  Stansbury's Rep. Great Salt Lake, 1852, 335 (w. North America); Cat. N. 
 
@@ -88916,7 +88916,7 @@ Chroicocephalus (emendation) Wharton, Zoologist, 1878, 105.
 
 
 
-Linnseus.) 
+Linnaeus.) 
 
  Cirrhocephala Bonaparte, Naumannia, 1854, 213. (Type, by tautonymy, Larus 
 
@@ -89071,7 +89071,7 @@ Chroicocephalus Philadelphia, adults (p. 645).
 
 
 
-CHROICOCEPHALUS ATRICILLA (Linnseus). 
+CHROICOCEPHALUS ATRICILLA (Linnaeus). 
 
 
 
@@ -89574,7 +89574,7 @@ BIKDS OP NOEXH AND MIDDLE AMERICA. 641
 
 X[ema] atricilla Cabanis, in Schomburgk's Reis. Brit. Guiana, iii, 1848, 761. 
 
- Larus ridibundus (not of Linnseus) Wilson, Am. Orn., ix, 1814, 89, pi. 74, fig. 4.— 
+ Larus ridibundus (not of Linnaeus) Wilson, Am. Orn., ix, 1814, 89, pi. 74, fig. 4.— 
 
 
 
@@ -90328,7 +90328,7 @@ Chrcecocephalus Philadelphia Ooues, Proc. Ac. Nat. Sci. PMla., 1871, 41 (Fort
 
  (Great Salt Lake, Utah).— Henshaw, Ann. Lye. N. Y., xi, 1875, 13 (Ogden, 
 
- Utah).— RiDGWAY, Orn. 40th Parallel, 1877, 639 (San Francisco Bay, Feb.); 
+ Utah).— RIDGWAY, Orn. 40th Parallel, 1877, 639 (San Francisco Bay, Feb.); 
 
  Field and Forest, ii, 1877, 210 (Boulder, Colorado, Dec). 
 
@@ -91529,7 +91529,7 @@ Blasipus heemanni Lawbence, in Baird, Rep. Pacific R. R. Surv., ix, 1858, 848;
 
  Columbia River, Washington). — Coues, Ibis, 1864, 388 (Chiapam, Guate- 
 
- mala; •crit.).— RiDGWAY, Om. 40th Parallel, 1877, 636 (San Francisco Bay). 
+ mala; •crit.).— RIDGWAY, Om. 40th Parallel, 1877, 636 (San Francisco Bay). 
 
 
 
@@ -92170,7 +92170,7 @@ Xema furcatum Coues, Check List, 1873, no. 559; Birds Northwest, 1874, 66:
 
 Xema furcata Coues, Check List, 2d ed., 1882, no. 791. — Baied, Brewer, anc 
 
- RiDGWAY, Water Birds N. Am., ii, 1884, 273. — Saunders, Cat. Bird, 
+ RIDGWAY, Water Birds N. Am., ii, 1884, 273. — Saunders, Cat. Bird, 
 
  Brit. Mus., XXV, 1896, 165 (Dah-ymple Rock, near Chatham Island, Gala 
 
@@ -92638,7 +92638,7 @@ Llarus] sabinii Feilden, Zoologist, 1579, 8 (Cambridge Bay, Victoria Land,
 
 Larus sabinii Swainson and Richardson, Fauna Bor.-Am., ii, 1831, 428.— 
 
- NuTTALL. Man. Orn. U. S. and Can., Water Birds, 1834, 296.— Sohlegel, 
+ NUTTALL. Man. Orn. U. S. and Can., Water Birds, 1834, 296.— Sohlegel, 
 
  Rev. Crit., 1844, cxxviii.— Deqland, Om. Eur., ii, 1849, 331. — Mtdden- 
 
@@ -95319,9 +95319,9 @@ Stercorarius Brisson, Orn;, vi, 1760, 149. (Type, by tautonymy, [Stercorarius]
 
 
 
-stercorarius Brisson=iants parasiticus Linnseus.) 
+stercorarius Brisson=iants parasiticus Linnaeus.) 
 
- Lestris Illiger, Prodromus Orn., 1811, 272. (Type, £ams parasiticus Linnseus.) 
+ Lestris Illiger, Prodromus Orn., 1811, 272. (Type, £ams parasiticus Linnaeus.) 
 
  Praedatrix Vibillot, Analyse, 1816, 65. (Type, Labe Buffon=iams parasiticus 
 
@@ -95333,7 +95333,7 @@ Linnaeus.)
 
 
 
-parasiticus Linnseus.) 
+parasiticus Linnaeus.) 
 
  Atalolestris Mathews, Birds Australia, ii, pt. 5, Jan. 81, 1913, 500. (Type, by 
 
@@ -96080,7 +96080,7 @@ Stercorarius crepidatus Vieillot, Nouv. Diet. d'Hist. Nat., xxxii, ]819, 155;
 
  eggs). — CoLLBTT, Nyt Mag. Naturv., 1877, 207 (n. Norway); xxxv, 
 
- 1894, 298.— RiDGWAY, Nom. N. Am. Birds, 1881, no. 698.— Feilden, in Mark- 
+ 1894, 298.— RIDGWAY, Nom. N. Am. Birds, 1881, no. 698.— Feilden, in Mark- 
 
  ham's Polar Reconn,, 1881, 335 (Novaya Zemlya, breeding); Ibis, 1889, '503 
 
@@ -96481,7 +96481,7 @@ Cataracta parasitica Rbtzius, Fauna Suecica, 1800, 160.
 
 
 
-Lestris parasiticus (not Larus parasiticus Linnseus) Tbmminck, Man. d'Orn., 
+Lestris parasiticus (not Larus parasiticus Linnaeus) Tbmminck, Man. d'Orn., 
 
  1815, 512; 2ded., ii, 1820, 796.— Lesson, Man. d'Orn., ii,1828, 288.— Audubok 
 
@@ -97823,7 +97823,7 @@ Genus PLAUTUS Gunnerus.
 
 
 
-Plotiis (not of Linnseus, 1766) Gunnerus, Trondheimske Selsk. Skrifter, i, 1761, 
+Plotiis (not of Linnaeus, 1766) Gunnerus, Trondheimske Selsk. Skrifter, i, 1761, 
 
 
 
@@ -97837,19 +97837,19 @@ Alca alle Linnaeus.)
 
 
 
-monotypy, Plotus eller Plautus columbarius Gunnenia=.ilica alle Linnseus.) 
+monotypy, Plotus eller Plautus columbarius Gunnenia=.ilica alle Linnaeus.) 
 
  Alle Link, Beschr. Nat. Samml. Univ. Rostock, i, 1806, 17. (Type, by monotypy, 
 
 
 
-A. nigricans Link =.4 tea alle Linnseus.) 
+A. nigricans Link =.4 tea alle Linnaeus.) 
 
  Mergulus VIeillot, Analyse, 1816, 67. (Type, by original designation, Petit 
 
 
 
-plongeon noir et blanc Edward8=J.Zco alle Linnseus.) 
+plongeon noir et blanc Edward8=J.Zco alle Linnaeus.) 
 
 
 
@@ -98357,7 +98357,7 @@ Alle nigricans Link, Beschr. Nat.-Samml. Uii;iv. Eostock, i, 1806, 17. — Coubs
 
  Bull. Nutt. Om. Club, iv, 1879, 244; Check List, 2d ed., 1882, no. 863.— 
 
- RiDGWAY, Proc. TJ. S. Nat. Mus., iii, 1880 (Cat. N. Am. Birds, no. 752); 
+ RIDGWAY, Proc. TJ. S. Nat. Mus., iii, 1880 (Cat. N. Am. Birds, no. 752); 
 
  Norn. N. Am. Birds, 1881, no. 752.— Park, Bull. Nutt. Om. Club, vii, 1882, 
 
@@ -98792,7 +98792,7 @@ Alca LiNN.a!US, Syst. Nat., ed. 10, i, 1758, 130; ed. 12, i, 1766, 210. (Type, b
 
 
 
-tautonymy, Alca tarda Linnseus.) 
+tautonymy, Alca tarda Linnaeus.) 
 
  Pingouin Lac^ipede, in Bufton Hist. Nat., Quadr., Didot ed., xiv, 1799 (1802), 
 
@@ -98901,7 +98901,7 @@ Range. — Coasts and islands of the northern Atlantic Ocean, south
 
 
 
-ALCA TORDA Linnseus. 
+ALCA TORDA Linnaeus. 
 
 
 
@@ -99212,7 +99212,7 @@ Utarrmnia tarda Leach, Syst. Cat. Mam., etc., Brit. Mus., 1816, 42. — Stephens
 
  land).— Scott, Bull. Nutt. Orn. Club, iv, 1879, 228 (Long Beach, New Jersey, 
 
- Feb.).— RiDGWAY, Proc. U. S. Nat. Mus., iii, 1880, 211 (Cat. N. Am. Birds; 
+ Feb.).— RIDGWAY, Proc. U. S. Nat. Mus., iii, 1880, 211 (Cat. N. Am. Birds; 
 
  no. 742); Norn. N. Am. Birds, 1881, no. 742.— Giglioli, Ibis, 1881, 221 (Italian 
 
@@ -99778,7 +99778,7 @@ etc.).
 
 Handb. Vog. Deutschl., 1831, 982. 
 
- Uria troile (not Colymbus troille Linnseus) Bonaparte, Ann. Lye. N. Y., ii, 1828 
+ Uria troile (not Colymbus troille Linnaeus) Bonaparte, Ann. Lye. N. Y., ii, 1828 
 
 
 
@@ -99792,7 +99792,7 @@ Brit., v., 1873, pi. 48, rear fig., and text, part.— Baird, Brewer, and
 
 
 
-RiDGWAY, Water Birds N. Am., ii, 1884, 477, part. 
+RIDGWAY, Water Birds N. Am., ii, 1884, 477, part. 
 
  U[ria] troile Ridgway, Man. N. Am. Birds, 1887, 18, part. 
 
@@ -99808,7 +99808,7 @@ Gmelin, Ui^ svarbag and C7. rimg'OTa Briinnich; etc.).
 
 
 
-URIA TROILLE TROILLE (Linnseus). 
+URIA TROILLE TROILLE (Linnaeus). 
 
 
 
@@ -101172,7 +101172,7 @@ Una hrunnichii Valenciennes, in Choris, Voy. Pittor. autour du Monde, A16out.,
 
  ii, 1828 ("Synopsis"), 424. — Swainson and Richaedson, Fauna Bor.-Am., 
 
- ii, 1831, 477.— NuTTALL, Man. Orn. U. S. and Can,, Water Birds, 1834, 529.— 
+ ii, 1831, 477.— NUTTALL, Man. Orn. U. S. and Can,, Water Birds, 1834, 529.— 
 
  AuDTJBON, Orn. Biog., iii, 1835, 336, pi. 245; Synopsis, 1839, 349; Birds Am., 
 
@@ -101341,7 +101341,7 @@ Lomvia arra Coues, Check List, 1873, no. 635, part; 2d ed., 1882, no. 876, part.
 
  Alca arra Schlegel, Mus. Pays-Bas, vi, no. 33 (Urinatores), 1867, 16. 
 
- Uria troille (not of Linnseus, 1758) BrxJnnich, Orn. Bor., 1764, 27 (Iceland). 
+ Uria troille (not of Linnaeus, 1758) BrxJnnich, Orn. Bor., 1764, 27 (Iceland). 
 
  Uria troile Wood (N. A.), Bull. Mich. Orn. Club, 1897, 10 (near Gibraltar, Mich- 
 
@@ -101442,7 +101442,7 @@ BIEDS OF NORTH AND MIDDLE AMERICA. 731
 
 
 
-Cepphus lomvia (not Alca lomvia Linnseus, 1758) Pallas, Zoogr. Rosso-Asiat., ii, 
+Cepphus lomvia (not Alca lomvia Linnaeus, 1758) Pallas, Zoogr. Rosso-Asiat., ii, 
 
  ]826, 345. 
 
@@ -101486,7 +101486,7 @@ Lomvia ana Coues, Check List, 1873, no. 635, part; 2d ed., 1882, no. 876, part;
 
  in Elliott's Affairs in Alaska, 1875, 211 (Pribilof Islands, breeding; habits, 
 
- etc.).— RiDGWAY, Proc. U. S. Nat. Mus., iii, 1880, 212 (Cat. N. Am. Birds, 
+ etc.).— RIDGWAY, Proc. U. S. Nat. Mus., iii, 1880, 212 (Cat. N. Am. Birds, 
 
  no. 764); Norn. N. Am. Birds, 1881, no. 764. — Elliott, Monogr. Pribylov 
 
@@ -101597,7 +101597,7 @@ Cepphus Pallas, Spic. Zool., v, 1769, 33 (Type, C. lacteolm T3Ma.s=Alca grylle
 
 Grylle Leach, in Ross's Voy. Disc. Baffin's Bay, App., 1819, p. li. (Type, G. scap- 
 
- ularis Leach=j4Zco grylle Linnseus.) 
+ ularis Leach=j4Zco grylle Linnaeus.) 
 
 
 
@@ -102441,7 +102441,7 @@ Coasts and islands of the Arctic Ocean (both hemispheres) ; breed-
 
 
 
-Colymbusgrylle {not oi Linnseus, 1758) Phipps, Voy. North Pole, 1774, 186 (Spitz- 
+Colymbusgrylle {not oi Linnaeus, 1758) Phipps, Voy. North Pole, 1774, 186 (Spitz- 
 
  bergen). 
 
@@ -102471,7 +102471,7 @@ Colymbusgrylle {not oi Linnseus, 1758) Phipps, Voy. North Pole, 1774, 186 (Spitz
 
  82° 33').— Barrows, Proc. Bost. Soc. N. H., xix, 1877, 158, part (monogr.).— 
 
- RiDGWAY, Proc. U. S. Nat. Mus., iii, 1880, 212 (Cat. N. Am. Birds, no. 760), 
+ RIDGWAY, Proc. U. S. Nat. Mus., iii, 1880, 212 (Cat. N. Am. Birds, no. 760), 
 
  part; Nom. N. Am. Birds, 1881, no. 760, part.— Mbrriam, Bull. Nutt. Orn. 
 
@@ -104441,7 +104441,7 @@ Brachyrhamphus hypoleucus Xantus, Proc. Ac. Nat. Sci. Phila., xi, Nov., 1859,
 
  Proc. Ac. Nat. Sci. Phila., 1868, 64 (monogr.); Check List, 2d ed., 1882, 
 
- no. 868.— RiDGWAY, Proc. U. S. Nat. Mus., iii, 1880, 211 (Cat. N. Am. Birds, 
+ no. 868.— RIDGWAY, Proc. U. S. Nat. Mus., iii, 1880, 211 (Cat. N. Am. Birds, 
 
  no. 757); v, 1883, 534, footnote (Cape San Lucas and San Jose del Cabo); 
 
@@ -107625,7 +107625,7 @@ Simorhynchus eristatellus Bonaparte, Compt. Rend., xM, 1856, 744. — Schlegel,
 
  Siberia).— Bureau, Bull. Soc. Zool. Franc., iv, 1879, 51, pi. 5, figs. 3-5.— 
 
- RiDGWAY, Proc. U. S. Nat. Mus., iii, 1880, 211 (Cat. N. Am. Birds, no. 748); 
+ RIDGWAY, Proc. U. S. Nat. Mus., iii, 1880, 211 (Cat. N. Am. Birds, no. 748); 
 
  Nom. N. Am. Birds, 1881, no. 748. — Elliott, Monogr. Pribylov Group, 
 
@@ -107698,7 +107698,7 @@ Island; off mouth of Yukon River; islands in Bering Straits; St. Mathews
 
 S[imorhynchus] cristatellus Coues, Key N. Am. Birds, 2d ed., 1884, 807. — 
 
- RiDGWAY, Man.xN. Am. Birds, 1887, 13. 
+ RIDGWAY, Man.xN. Am. Birds, 1887, 13. 
 
 
 
@@ -108389,7 +108389,7 @@ Fratercula Brisson, Orn., vi, 1760, 81. (Type, Alca arctica linnseus.)
 
  Mormon Illiger, Prodr. Orn., 1811, 283. (Type, Alca aretica Linnasus.) 
 
- Larva Vieillot, Analyse, 1836, 67. (Type, Macareux = Alca arctica Linnseus.) 
+ Larva Vieillot, Analyse, 1836, 67. (Type, Macareux = Alca arctica Linnaeus.) 
 
  Puffmus"' (not of Brisson) " Will[ughby] " S. D. W., Analyst, iii, no. xiv, Jan., 
 
@@ -108849,7 +108849,7 @@ One adult female from Spitzbergen ( F. a. mmmanni).
 
  LiBN, Bull. U. S. Nat. Mus., no. 15, 1879, 103 (Gulf of St. Lawrence to Hudson 
 
- Straits).— RiDGWAY, Proc. U. S. Nat. Mus., iii, 1880, 211 (Cat. N. Am. Birds, 
+ Straits).— RIDGWAY, Proc. U. S. Nat. Mus., iii, 1880, 211 (Cat. N. Am. Birds, 
 
  no. 743; Nom. N. Am. Birds, 1881, no. 743.— Giglioli, Ibis, 1881, 220 
 
@@ -110102,7 +110102,7 @@ Mormon drrhatum Bonaparte, Ann. Lye. N. Y., ii, 1828 ("Synopsis"), 429;
 
  Geog. and Comp. List, 1838, 66.— Schinz, Nat. Abbild. Vog., 1833, 373, pi. 
 
- 130. — NuTTALL, Man. Om. TJ. S. and Can., Water Birds, 1834, 539. — Audu- 
+ 130. — NUTTALL, Man. Om. TJ. S. and Can., Water Birds, 1834, 539. — Audu- 
 
  bon, Orn. Biog., iii, 1835, 364, pi. 249; Synopsis, 1839, 342; Birds Am., 8vo. 
 

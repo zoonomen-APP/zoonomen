@@ -5668,7 +5668,7 @@ Ortalida vitula Gray, List Birds Brit. Mus., pt. 3, Gallinae, 1844, 20 (Mexico) 
 
  print). — Reichenbach, Voll. Nat. Tauben, 1861, 144, part.— Baihd, Brewer, 
 
- and RiDGWAY, Hist. North Araer. Birds, iii, 1874, 398, footnote, part. 
+ and RIDGWAY, Hist. North Araer. Birds, iii, 1874, 398, footnote, part. 
 
 
 
@@ -27113,7 +27113,7 @@ Tetrao cupido Wilson, Amer. Orn., iii, 1811, 104, part, pi. 27, fig. 1.— Temmi
 
 
 
-1831, 500. — NuTTALL, Man. Orn. United States and Canada, Land Birds, 1832, 
+1831, 500. — NUTTALL, Man. Orn. United States and Canada, Land Birds, 1832, 
 
  662, part; ed. 2, 1840, 799, part.— Audubon, Orn. Biogr., ii, 1834, 490, part; v, 
 
@@ -27547,7 +27547,7 @@ Tetrao cupido (not of Linnaeus) Wilson, Am. Orn., iii, 1811, 104, part, pi. 27,
 
 
 
-— NuTTALL, Man. Om. United Stales and Canada, Land Birds, 1832, 662, part; 
+— NUTTALL, Man. Om. United Stales and Canada, Land Birds, 1832, 662, part; 
 
  ed. 2, 1840, 799, part— Audubon, Om. Biogr., ii, 1834, 490, part, pi. 186 ; v, 1839, 
 
@@ -29369,7 +29369,7 @@ Hand-list, i, 1899, 20.
 
 
 
-RiDGWAY, Man. North Amer. Birds, 1887, 205.— Reichenow, Die Vogel, i, 1913, 
+RIDGWAY, Man. North Amer. Birds, 1887, 205.— Reichenow, Die Vogel, i, 1913, 
 
 
 
@@ -29538,7 +29538,7 @@ iv, 1885, 198, 205, in text.— Ogilvie-Grant, Cat. Birds Brit. Mus., xxii, 1893
 
 
 
-99.— RiDGWAY, Orn. Illinois, ii, 1895, 14.— Salvin and Gooman, Biol. Centr.- 
+99.— RIDGWAY, Orn. Illinois, ii, 1895, 14.— Salvin and Gooman, Biol. Centr.- 
 
 
 
@@ -29558,7 +29558,7 @@ Nos. 49, 50, 1913 (3).
 
 
 
-RiDGWAY, Hist. North Amer. Birds, iii, 1874, 466. 
+RIDGWAY, Hist. North Amer. Birds, iii, 1874, 466. 
 
  <Odontophorinae Carus, Handb. Zool., i, 1868-75, 321. 
 
@@ -34615,7 +34615,7 @@ Philortyx fasciatus Gould, Monogr. Odontoph., pt. 2, 1846, 17, pi. 14 and text. 
 
  Mem. Boston Soc. Nat. Hist., ii, 1874, 307 (plains of Colima, sw. Mexico).— 
 
- RiDGWAY, Proc. U. S. Nat. Mus., ix, 1886, 177, in text (Colima).— Ogilvie- 
+ RIDGWAY, Proc. U. S. Nat. Mus., ix, 1886, 177, in text (Colima).— Ogilvie- 
 
  Grant, Cat. Birds Brit. Mus., xxii, 1893, 406 (plains of Colima; Sierra Madre 
 
@@ -39766,7 +39766,7 @@ Perdix virginiana Wilson, Amer. Orn., vi, 1812, 21, pi. 47. — Bonaparte, Journ
 
  37, pi. 4.— Audubon, Orn. Biogr., i, 1831, 388, pi. 76; v, 1839, 564, pi. 76.— 
 
- NuTTALL, Man. Orn. United States and Canada, i, 1832, 646.— Brown, in Wilson 
+ NUTTALL, Man. Orn. United States and Canada, i, 1832, 646.— Brown, in Wilson 
 
  and Bonaparte, Illustr. Amer. Orn., 1835, pi. xi [Ixix]. — Faxon, Auk, xx, 1903, 
 
@@ -43044,7 +43044,7 @@ Chiapas).
 
 
 
-RiDGWAY, Man. North Amer. Birds, 1887, 189. 
+RIDGWAY, Man. North Amer. Birds, 1887, 189. 
 
  Colinus coyolcos Nelson, Auk, xv, 1898, 117, in text, 121 (Pacific coast, Oaxaca 
 
@@ -53149,7 +53149,7 @@ Phasianus colchicus + P[hasiaims'\ torquatus BuRNSJ Ornith. Chester County, Pa.,
 
  i, 1787, 289; Index Orn., ii, 1790, 629.— Gray, Handlist, ii, 1870, 257, No 
 
- 9574.- ShArpe, Handlist, i, 1899, 37.— Buturlin, Ibis, 1904, 379 (diagnosis) 
+ 9574.- Sharpe, Handlist, i, 1899, 37.— Buturlin, Ibis, 1904, 379 (diagnosis) 
 
 
 
@@ -54967,7 +54967,7 @@ M[eleagris] gallopavo Maximillan, Journ. fiir Orn., 1850, 426 (descr. ; plum.;
 
  meas. ; habits). — Hatch, Bull Minnesota Acad. Nat. Sci., 1874, 61 (Minnesota; 
 
- sw. part). — RiDGWAY, Ann. Lye. Nat. Hist., New York, x, 1874, 382 (Illinois; 
+ sw. part). — RIDGWAY, Ann. Lye. Nat. Hist., New York, x, 1874, 382 (Illinois; 
 
  resident). — Boies, Cat. Birds Southern Michigan, 1875, No. 145 (s. Michigan). — 
 
@@ -55050,7 +55050,7 @@ Meleagris gallopavo, var. americana Merriam, Trans. Connecticut Acad. Sci., iv.,
 
 Meleagris gallopavo americana CouEs, Bull. Nuttall Orn. Club, v, 1880, 100. — 
 
- RiDGWAY, Proc. U. S. Nat. Mus., iii, 1880, 195 ; Nom. North Amer. Birds, 1881, 
+ RIDGWAY, Proc. U. S. Nat. Mus., iii, 1880, 195 ; Nom. North Amer. Birds, 1881, 
 
  No. 470a.— Wheaton, Rep. Birds Ohio, 1882, 444; 579 (descr.; distr.; hist.; 
 

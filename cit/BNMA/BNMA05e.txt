@@ -2069,7 +2069,7 @@ Genus 23. Anthracothorax — Continued. Pa S e -
 
 
 
-84. Anthracothorax dominicus (Linnseus) 468 
+84. Anthracothorax dominicus (Linnaeus) 468 
 
 
 
@@ -2097,7 +2097,7 @@ Genus 25. Eulampis Boie 477
 
 
 
-89. Eulampis jugularis (Linnseus) 478 
+89. Eulampis jugularis (Linnaeus) 478 
 
 
 
@@ -2647,7 +2647,7 @@ Key to the Species and Subspecies of Orthorhyncus 657
 
 
 
-168. Orthorhyncus cristatus cristatus (Linnseus) 662 
+168. Orthorhyncus cristatus cristatus (Linnaeus) 662 
 
 
 
@@ -2659,7 +2659,7 @@ Genus 57. Chrysolainpis Boie 665
 
 
 
-170. Chrysolampis mosquitus (Linnseus) 666 
+170. Chrysolampis mosquitus (Linnaeus) 666 
 
 
 
@@ -2836,7 +2836,7 @@ Key to the Species and Subspecies of Chsetura 715
 
 
 
-17. Chsetura pelagica (Linnseus) 717 
+17. Chsetura pelagica (Linnaeus) 717 
 
 
 
@@ -7613,7 +7613,7 @@ Genus HYPOLOPHUS Cabanis and Heine.
 
 Eypolophus" Cabanis and Heine, Mus. Hein., ii, Aug., 1859, 16. (Type, Turdus 
 
- cirrhatus Gmelin=Zamws canadensis Linnseus.) 
+ cirrhatus Gmelin=Zamws canadensis Linnaeus.) 
 
 
 
@@ -7891,7 +7891,7 @@ Thamnophilus & Vieillot, Analyse, 1816, 40; Nouv. Diet. d'Hist. Nat., iii, 1816,
 
  308. c (Type, Pie-Orieche rayee — Fourmillier huppe Bufion= Lanius doliatus 
 
- Linnseus.) 
+ Linnaeus.) 
 
 
 
@@ -9073,7 +9073,7 @@ laltoyuca), San Luis Potosl (Vallfe), Guanajuato?, Oaxaca (Choa-
 
 
 
-(?) Thamnophilus doliatus (not Lanius doliatus Linnseus) Bonaparte, Proc. 
+(?) Thamnophilus doliatus (not Lanius doliatus Linnaeus) Bonaparte, Proc. 
 
  Zool. Soc. Lond., 1837, 117 (Guatemala; descr.)-— Frantzitjs, Journ. fur 
 
@@ -62809,13 +62809,13 @@ T. nigricollis Vieillot.)
 
 
 
-Trochilus porphyrurus Shaw= T. mango Linnseus.) 
+Trochilus porphyrurus Shaw= T. mango Linnaeus.) 
 
  [Anthraeotharax.] 5. Hypophania Reichenbach, Aufz. der Colib., 1854, 11. (Type, 
 
 
 
-Trochilus dominicus Linnseus.) 
+Trochilus dominicus Linnaeus.) 
 
  Margarochrysis Reichenbach, Aufz. der Colib., 1854, 11. (Type, Trochilus 
 
@@ -64190,7 +64190,7 @@ Lampornis prevosti thalassinus Ridgway, Proc. U. S. Nat. Mus., viii, no. 36, Oct
 
 
 
-Lampornis mango (not Trochilus mango Linnseus) D'Oca, La Naturaleza, iii, 
+Lampornis mango (not Trochilus mango Linnaeus) D'Oca, La Naturaleza, iii, 
 
  1875, 62; Troq. de Mex., 1875, 25, pi. (4), fig. 16.— Sanchez, Anal. Mus. 
 
@@ -64987,7 +64987,7 @@ Lampornis dominicus (not Trochilus dominicus Linnaeus) Elliot, Ibis, 1872, 349,
 
 
 
-(t) Trochilus mango (not of Linnseus) Lesson, Hist. Nat. Colibr., 1830-31, 66, 
+(t) Trochilus mango (not of Linnaeus) Lesson, Hist. Nat. Colibr., 1830-31, 66, 
 
  pi. 15 (Porto Rico). 
 
@@ -65764,7 +65764,7 @@ coll. J. Gould).
 
  [Eulampis] holosericeus Sclater and Salvin, Nom. Av. Neotr., 1873, 81, part. 
 
- Eulampis holosericeus (not Trpchilus holosericeus Linnseus) Lawrence, Proc. U.S. 
+ Eulampis holosericeus (not Trpchilus holosericeus Linnaeus) Lawrence, Proc. U.S. 
 
  Nat. Mus., i, 1879, 272 (Grenada), 487, part (Grenada).— Wells, Proc. U. S. 
 
@@ -65784,7 +65784,7 @@ Genus EULAMPIS Boie.
 
 
 
-Eulampis Boie, Isis, 1831, 547. (Type, Trochilus jugularis Linnseus.) 
+Eulampis Boie, Isis, 1831, 547. (Type, Trochilus jugularis Linnaeus.) 
 
  Culampis (typographical error?) Lesson, Ind. Gen. Troch., 1832, p. vii. 
 
@@ -77346,7 +77346,7 @@ Genus HELIOTHRYX Boie.
 
 
 
-Heliothryx Boie, Isis, 1831, 547. (Type, Trochilus auritus Linnseus.) 
+Heliothryx Boie, Isis, 1831, 547. (Type, Trochilus auritus Linnaeus.) 
 
 
 
@@ -80254,11 +80254,11 @@ Genus MELLISUGA Brisson.
 
 
 
-Mellisuga Brisson, Orn., iii, 1760, 694. (Type, Trochilus minimus Linnseus.) 
+Mellisuga Brisson, Orn., iii, 1760, 694. (Type, Trochilus minimus Linnaeus.) 
 
  Dyrinia Mulsant and Verreaux, Mem. Soc. Imp. Sci. Nat. Cherb., xii (ser. 2, 
 
- ii), 1866, 232 (Classif. Troch., 1866, 88). (Type, Trochilus minimus Linnseus.) 
+ ii), 1866, 232 (Classif. Troch., 1866, 88). (Type, Trochilus minimus Linnaeus.) 
 
 
 
@@ -80651,7 +80651,7 @@ Island of Haiti (Le Coup and Port au Prince, Haiti; Catare, Samana
 
 1766, 192.— Gmelin, Syst. Nat., i/pt. i, 1788, 496. 
 
- Trochilus niger (not of Linnseus?) Vieillot, Ois. Am. Sept. i, 1807, 73 (L'Oiseau- 
+ Trochilus niger (not of Linnaeus?) Vieillot, Ois. Am. Sept. i, 1807, 73 (L'Oiseau- 
 
 
 
@@ -84486,7 +84486,7 @@ b It is possible that the specimen (Gould's type) in reality came from Californi
 
 c Trochilus floresii Bourcier, Rev. Zool., 1846, 316 (Jamaica); =Anthracothorax 
 
- mango (Linnseus). 
+ mango (Linnaeus). 
 
 
 
@@ -85666,7 +85666,7 @@ Genus ARCHILOCHUS Reichenbach.
 
 
 
-Trochilus (not of Linnseus, 1758? <*) of Authors. 
+Trochilus (not of Linnaeus, 1758? <*) of Authors. 
 
 
 
@@ -85674,7 +85674,7 @@ Cynanthus (not of Swainson, 1827) Boie, Isis, 1831, 547. (Type, Trochilus colubr
 
 
 
-Linnseus:) 
+Linnaeus:) 
 
  Colubris (not of Hubner, 1793) Wood (T. C), Orn. Guide, Jan., 1837, 137. (Type, 
 
@@ -85684,7 +85684,7 @@ C. rubens Wood= Trochilus colubris Linnaeus.) — Reichenbach, Syst. Av.
 
 
 
-Nat., 1849, pi. 40. (Type, Trochilus colubris Linnseus.) 
+Nat., 1849, pi. 40. (Type, Trochilus colubris Linnaeus.) 
 
  [Selasphorus] /?. Archilochus Reichenbach, Journ. fur Orn., 1853, Extra heft, 
 
@@ -85710,7 +85710,7 @@ Trochilus alexandri Bourcier and Mulsant.)
 
 
 
-(Type, Trochilus colubris Linnseus.) 
+(Type, Trochilus colubris Linnaeus.) 
 
 
 
@@ -85756,9 +85756,9 @@ Bill as long as or longer than head, rather slender, straight, terete;
 
 
 
-° The type of Trochilus Linnseus, according to recent authorities, is Trochilus polyt- 
+° The type of Trochilus Linnaeus, according to recent authorities, is Trochilus polyt- 
 
- mus Linnseus (type of Aithurus Cabanis and Heine), as designated by Gray in 1840; 
+ mus Linnaeus (type of Aithurus Cabanis and Heine), as designated by Gray in 1840; 
 
  see Allen, Bull. Am. Mus. Nat. Hist., xxiv, 1908, 12. 
 
@@ -90270,7 +90270,7 @@ given; based on Gilt-crested Hummingbird Latham, Synopsis, Suppl., ii, 172).
 
 Audebeet and Vieillot, Ois. Dor6s, i, 1801, 91-93, pis. 47, 48 (Martinique). 
 
- Trochilus cristatus (not of Linnseus) Vieillot, Nouv. Diet. d'Hist. Nat., vii, 
+ Trochilus cristatus (not of Linnaeus) Vieillot, Nouv. Diet. d'Hist. Nat., vii, 
 
 
 
@@ -90769,7 +90769,7 @@ i. e., Grenada?; coll. G. N. Lawrence).
 
 Grenada; crit.). 
 
- Orthorhynchus cristatus (not Trochilus cristatus Linnseus) Lawrence, Proc. U. S. 
+ Orthorhynchus cristatus (not Trochilus cristatus Linnaeus) Lawrence, Proc. U. S. 
 
 
 
@@ -90830,7 +90830,7 @@ Orfhorhynchus exilis (not Trochilus exilis Gmelin) Wells, Proc. U. S. Nat. Mus.,
 
 Genus CHRYSOLAMPIS Boie. 
 
- Chrysolampis Boie, Isis, 1831, 546. (Type, Trochilus mosquitw Linnseus.) 
+ Chrysolampis Boie, Isis, 1831, 546. (Type, Trochilus mosquitw Linnaeus.) 
 
 
 
@@ -93426,9 +93426,9 @@ cApus (not Apos Scopoli, 1777, prior by anteriority) Scopoli, Intr. Nat. Hist.,
 
  1777, 483 (type, Hirundo apus Linnaeus). — Micropus Meyer and Wolf, Taschenb. 
 
- Deutschl. Vog., i, 1810, 280 (type, Hirundo apus Linnseus). — Cypselus Illiger, Prodr. 
+ Deutschl. Vog., i, 1810, 280 (type, Hirundo apus Linnaeus). — Cypselus Illiger, Prodr. 
 
- Orn., 1811, 229 (type, Hirundo apus Linnseus). — Cipselus (emendation) Vieillot, 
+ Orn., 1811, 229 (type, Hirundo apus Linnaeus). — Cipselus (emendation) Vieillot, 
 
  Analyse, 1816, 38. — Brachypus Meyer, Vog. Liv.-u. Esthl., 1815, 142 (type, Hirundo 
 
@@ -101805,7 +101805,7 @@ Genus TROGON Brisson.
 
 Trogon Brisson, Orn., i, 1760, 42; iv, 1760, 164, pi. 16, fig. 1. (Type, as fixed 
 
- by Stone, Auk, xxiv, 1907, 192,6 Trogon viridis Linnseus=!T. strigilatus 
+ by Stone, Auk, xxiv, 1907, 192,6 Trogon viridis Linnaeus=!T. strigilatus 
 
  Linnaeus.) 
 
@@ -101950,11 +101950,11 @@ Trogon strigilatus strigilatus (and other South American subspecies),
 
 
 
-» [Trogon] strigilatus Linnseus, Syst. Nat., ed. 12, i, 1766, 167, no/1 (=adult female; 
+» [Trogon] strigilatus Linnaeus, Syst. Nat., ed. 12, i, 1766, 167, no/1 (=adult female; 
 
  based on Trogon cayanensis tinereus Brisson, Orn., iv, 165, pi. 16, fig. 1). — Trogon 
 
- strigilatus Stephens, Shaw's Gen. Zool., ix, 1815, 10. — [Trogon] viridis Linnseus, Syst. 
+ strigilatus Stephens, Shaw's Gen. Zool., ix, 1815, 10. — [Trogon] viridis Linnaeus, Syst. 
 
  Nat., ed. 12, i, 1766, 167, no. 3 (=adult male; based on Trogon cayanensis viridis 
 
@@ -103457,7 +103457,7 @@ In adopting as the earliest name for this species Trogon curucui Linnaeus, I am
 
  respect, has reached a different conclusion by identifying the name in question 
 
- with T. collaris Vieillot. It is true that Linnseus's T. curucui, a composite species, 
+ with T. collaris Vieillot. It is true that Linnaeus's T. curucui, a composite species, 
 
  includes T. collaris as well as the present species, and that the majority of the refer- 
 

@@ -1320,7 +1320,7 @@ Key to the Species and Subspecies of Zenaidura 340
 
 
 
-22. Zenaidura macroura macroura (Linnseus) 341 
+22. Zenaidura macroura macroura (Linnaeus) 341 
 
 
 
@@ -1328,7 +1328,7 @@ Key to the Species and Subspecies of Zenaidura 340
 
 
 
-24. Zenaidura macroura carolinensis (Linnseus) 345 
+24. Zenaidura macroura carolinensis (Linnaeus) 345 
 
 
 
@@ -1677,7 +1677,7 @@ Genus 18. Starnoenas Bonaparte 496
 
 
 
-91. Starnoenas cyanocephala (Linnseus) 497 
+91. Starnoenas cyanocephala (Linnaeus) 497 
 
 
 
@@ -1746,7 +1746,7 @@ Figure.
 
 
 
-12. Crotophaga Linnseus 
+12. Crotophaga Linnaeus 
 
 
 
@@ -2806,7 +2806,7 @@ Adult male. — Above plain gray (nearest neutral gray, but slightly
 
 
 
-b [Cuculus] canorus Linnseus, Syst. Nat., ed. 10, i, 1758, 110 (Europe); ed. 12, i, 
+b [Cuculus] canorus Linnaeus, Syst. Nat., ed. 10, i, 1758, 110 (Europe); ed. 12, i, 
 
  1766, 168.— Cuculus canorus Naumann, Vog. Deutschl., v, 1826, 196, pis. 127, 128,129; 
 
@@ -3264,7 +3264,7 @@ C[uculus] canorus telephonus Ridgway, Man. N. Am. Birds, 2d ed., 1896, 596.
 
 
 
-Cuculus canorus (not of Linnseus) Swinhoe, Proc. Zool. Soc. Lond., 1871, 395 
+Cuculus canorus (not of Linnaeus) Swinhoe, Proc. Zool. Soc. Lond., 1871, 395 
 
  part (Talien Bay, n. China).— Blakiston and Pryer, Ibis, 1878, 227 (Fuji- 
 
@@ -3345,15 +3345,15 @@ synonymy of Coccygus).
 
 
 
-Cuculus americanus Linnseus and C. canorus Linnseus.) 
+Cuculus americanus Linnaeus and C. canorus Linnaeus.) 
 
- Cureus Boie, Isis, 1831, 541. (Type, Cuculus americanus Linnseus.) 
+ Cureus Boie, Isis, 1831, 541. (Type, Cuculus americanus Linnaeus.) 
 
  Erythrophrys Swainson, Classif. Birds, ii, 1837,322. (Type, Cuculus carolinensis 
 
 
 
-Wilson=C. americanus Linnseus.) 
+Wilson=C. americanus Linnaeus.) 
 
  Nesococcyx & Cabanis and Heine, Mus. Hein., iv, Heft 1, 1862, 79, footnote. 
 
@@ -3723,7 +3723,7 @@ Coceyzus lansbergi (p. 41).
 
 
 
-COCCYZUS AMERICANUS AMERICANUS (Linnseus). 
+COCCYZUS AMERICANUS AMERICANUS (Linnaeus). 
 
 
 
@@ -4434,7 +4434,7 @@ Eryihrophrys americanus Bonaparte, Geog. and Comp. List, 1838, 40.
 
 Coccyzus pyropterusYxKiLLOT, Nouv. Diet. d'Hist. Nat., viii, 1817, 270 (new name 
 
- for Cuculus americanus Linnseus). 
+ for Cuculus americanus Linnaeus). 
 
 
 
@@ -4468,7 +4468,7 @@ Coccyzus pyropterusYxKiLLOT, Nouv. Diet. d'Hist. Nat., viii, 1817, 270 (new name
 
 Cuculus carolinensis Wilson, Am. Orn., iv, 1811, 13, pi. 28, fig. 1 (new name for 
 
- C. americanus Linnseus ? ). 
+ C. americanus Linnaeus ? ). 
 
 
 
@@ -6610,7 +6610,7 @@ Am. Birds, 1872, 190.
 
  Erythrophrys seniculus Bonaparte, Geog. and Comp. List, 1838, 40. 
 
- (?) [Coccyzus] dominicus (not Cuculus dominicus Linnseus?) Bonaparte, Consp. 
+ (?) [Coccyzus] dominicus (not Cuculus dominicus Linnaeus?) Bonaparte, Consp. 
 
 
 
@@ -7035,7 +7035,7 @@ Coccyzus minor shelleyi Riley, Smithson. Misc. Coll., xlvii, Nov. 8, 1904, 285
 
  (new name to replace C. dominicx Shelley considered preoccupied by Cuculus 
 
- dominions Linnseus). 
+ dominions Linnaeus). 
 
 
 
@@ -10228,7 +10228,7 @@ Sci. Phila., i, 1849, 215 (Mazatlan, etc.). — Salvin, Proc. Zool. Soc. Lond.,
 
 1883, 426 (Acapulco, Guerrero). 
 
- [Piaya] cay anus (not Cuculus cayanus Linnseus) Bonaparte, Consp. Av., i, 1850, 
+ [Piaya] cay anus (not Cuculus cayanus Linnaeus) Bonaparte, Consp. Av., i, 1850, 
 
 
 
@@ -10710,7 +10710,7 @@ Genus SAUROTHERA Vieillot.
 
 Saurothera" Vieillot, Analyse, 1816, 28; Nouv. Diet. d'Hist. Nat., xxxii, 1819, 
 
- 348. (Type, Coucou h longlec Buffon= Cuculus vetula Linnseus.) 
+ 348. (Type, Coucou h longlec Buffon= Cuculus vetula Linnaeus.) 
 
 
 
@@ -16023,7 +16023,7 @@ Geophilus jasijatere Bertoni, Aves Nuev. Paraguay, 1901, 43 (Alto Parana, Para-
 
 
 
-Genus CROTOPHAGA Linnseus. 
+Genus CROTOPHAGA Linnaeus. 
 
 
 
@@ -19146,7 +19146,7 @@ b Ognorhynchus, Bonaparte, Remarques Obs. Blanchard Psittacides, 1857, 6. (Type,
 
 "Diopsittaca Ridgway, Proc. Biol. Soc. Wash., xxv, May 4, 1912, 99. (Type, Psit- 
 
- tacus nobilis Linnseus.) (AZos, noble; ^ittokij, a parrot.) Includes also Diopsittaca 
+ tacus nobilis Linnaeus.) (AZos, noble; ^ittokij, a parrot.) Includes also Diopsittaca 
 
  hahni (Souanc6). 
 
@@ -20191,7 +20191,7 @@ Except in its naked head this genus agrees perfectly in details of structure as 
 
 
 
-& Deroptyus Wagler, Mon. Psitt., 1832, 492. (Type, Psittacus accipitrinus Linnseus.) 
+& Deroptyus Wagler, Mon. Psitt., 1832, 492. (Type, Psittacus accipitrinus Linnaeus.) 
 
  Derotypus (emendation) Bonaparte, Consp. Gen. Av., i, 1850, 5. 
 
@@ -20476,7 +20476,7 @@ Genus ARA Laeepede.
 
 
 
-Am Lacepede, Tabl. Ois., 1799, 1. (Type, Psittaeus rnacao Linnseus.) 
+Am Lacepede, Tabl. Ois., 1799, 1. (Type, Psittaeus rnacao Linnaeus.) 
 
  Paraeus Rafinesqtje, Analyse de Nature, 1815, 65. (New name for "Am La- 
 
@@ -20484,13 +20484,13 @@ Am Lacepede, Tabl. Ois., 1799, 1. (Type, Psittaeus rnacao Linnseus.)
 
  Paranus Gray, Hand-list, ii, 1870, 144. (Error for Paraeus Rafinesque.) 
 
- Macrocereus & ViEttiOT, Analyse, 1816, 70. (Type, Psittaeus macao Linnseus.) 
+ Macrocereus & ViEttiOT, Analyse, 1816, 70. (Type, Psittaeus macao Linnaeus.) 
 
  Macrocireus (emendation) Swainson, Classif. Birds, ii, 1837, 299. 
 
- Sittace Wagler, Mon. Psitt., 1832, 499. (Type, Psittaeus ararauna Linnseus.) 
+ Sittace Wagler, Mon. Psitt., 1832, 499. (Type, Psittaeus ararauna Linnaeus.) 
 
- Arara Spix, Av. Bras., i, 1824, 25. (Type, Psittaeus macao Linnseus.) 
+ Arara Spix, Av. Bras., i, 1824, 25. (Type, Psittaeus macao Linnaeus.) 
 
  Araclanga c Gloger, Gem. Hand-u. Hilfsbuch der Naturg., Bd. 1, 1842, 193. 
 
@@ -20500,13 +20500,13 @@ Am Lacepede, Tabl. Ois., 1799, 1. (Type, Psittaeus rnacao Linnseus.)
 
  Ararauna Bonaparte, Rev. et Mag. de Zool., 1854, 149. (Type, Psittaeus ara- 
 
- rauna Linnseus.) 
+ rauna Linnaeus.) 
 
  Araeanga B on aparte , Re v. et Mag. de Zool . , 1854, 149 . (Type , Psittaeus aracanga 
 
 
 
-Gmelin=P. macao Linnseus.) 
+Gmelin=P. macao Linnaeus.) 
 
  Primolius Bonaparte, Compt. Rend., xliv, 1857, 596. (Type, Sittace primoli 
 
@@ -20516,7 +20516,7 @@ Bonaparte=.4rara auricollis Cassin.)
 
  Macao S. D. W., Analyst, iii, no. xiv, Jan., 1836, 212. (Type, M. splendens= 
 
- Psittaeus ararauna Linnseus?.) 
+ Psittaeus ararauna Linnaeus?.) 
 
 
 
@@ -24229,7 +24229,7 @@ Conuropsis carolinensis carolinensis Bangs, Proc. New Engl. Zool. Club, iv, 1913
 
 Psittacus septentrionalis Maximilian, Reise Nord-Amerika, i, 1839, 175 (New 
 
- Harmony, Indiana; substitute name for P. carolinensis Linnseus). 
+ Harmony, Indiana; substitute name for P. carolinensis Linnaeus). 
 
 
 
@@ -26207,11 +26207,11 @@ a [Psittacus] aureus Gmelin, Syst. Nat., i, pt. i, 1788, 329 (Brazil; based on P
 
  Eupsittaca aurea Cabanis, Joum. fur Orn., 1862, 335, in text. — [Psittacus] brasiliensis 
 
- (not of Linnseus) Latham, Index Orn., i, 1790, 103. — Psittacus regulus Shaw, Gen. 
+ (not of Linnaeus) Latham, Index Orn., i, 1790, 103. — Psittacus regulus Shaw, Gen. 
 
  Zool., viii, pt. ii, 1812, 453 (new name for P. brasiliensis Latham). — Ps[ittacus] canicu- 
 
- laris (not of Linnseus) Lichtenstein, Verz. Doubl., 1823, 6.— Conurus canieularis 
+ laris (not of Linnaeus) Lichtenstein, Verz. Doubl., 1823, 6.— Conurus canieularis 
 
  Cabanis, in Schomburgk's Reise Brit. Guiana, iii, 1848, 728.— [Eupsittula] canieularis 
 
@@ -27624,7 +27624,7 @@ Carlos).
 
 
 
-Psittacus pertinax (not of Linnseus), juv., Lichtenstein, Preis-Verz. Mex. Vog., 
+Psittacus pertinax (not of Linnaeus), juv., Lichtenstein, Preis-Verz. Mex. Vog., 
 
 
 
@@ -29602,11 +29602,11 @@ Psittacula Ilmgeb, Prodr. Mam. et Av., 1811, 200. (Type, Psittacus passerinus
 
 
 
-Linnseus.) 
+Linnaeus.) 
 
  PsittacuVas (error) Spix, Av. Bras., i, 1824, 38. 
 
- Forpus Boie, Journ. fur Om., 1858, 363. (Type, Psittacus passerinus Linnseus.) 
+ Forpus Boie, Journ. fur Om., 1858, 363. (Type, Psittacus passerinus Linnaeus.) 
 
 
 
@@ -30043,7 +30043,7 @@ aa. Wings without any blue. (Adult females.)
 
 
 
-a [Psittacus] passerinus Linnseus, Syst. Nat., ed. 10, i, 1758, 103 (America; based on 
+a [Psittacus] passerinus Linnaeus, Syst. Nat., ed. 10, i, 1758, 103 (America; based on 
 
  Mus. Adolphi Friderici, i, p. 14); ed. 12, i, 1766, 150 (cites Psittacus brasiliensis Bris- 
 
@@ -32695,7 +32695,7 @@ b Pionus bridgesi Boucard, The Humming Bird, i, April 1, 1891, 27 (Bolivia and
 
 
 
-c [Psittacus] sordidus Linnseus, Syst. Nat., ed. 10, i, 1758, 99 ("Mexico"; based 
+c [Psittacus] sordidus Linnaeus, Syst. Nat., ed. 10, i, 1758, 99 ("Mexico"; based 
 
  on Psittacus fuscus Edwards, Birds, pi. 167). — Psittacus sordidus Vieillot, Nouv. 
 
@@ -36525,7 +36525,7 @@ C[hrysotis]flavinzichm Gray, Gen. Birds, ii, 1846, 421.
 
 
 
-AMAZONA AUTDMNALIS AUTUMNALIS (Linnseus). 
+AMAZONA AUTDMNALIS AUTUMNALIS (Linnaeus). 
 
 
 
@@ -38629,7 +38629,7 @@ Mexico, in States of Tamaulipas (Victoria; Sierra Madre above
 
 
 
-Psittacus amazonicus (not of Linnseus) Ktjhl, Consp. Psitt., 1820, 104, part. 
+Psittacus amazonicus (not of Linnaeus) Ktjhl, Consp. Psitt., 1820, 104, part. 
 
 
 
@@ -39922,7 +39922,7 @@ Androglossa albifrons Reichenow, Joum. fur Orn., 1881, 375, part (monogr.);
 
 
 
-PsUtacus leucocephalus (not of Linnseus) Shaw, Gen. Zool., viii, pt. 2, 1811, 517, 
+PsUtacus leucocephalus (not of Linnaeus) Shaw, Gen. Zool., viii, pt. 2, 1811, 517, 
 
  part. — Vieillot, Nouv. Diet. d'Hist. Nat., xxv, 1817,322, part (description 
 
@@ -40663,7 +40663,7 @@ Psitt., 1882, 215.
 
 
 
-AMAZONA AGILIS (Linnseus). 
+AMAZONA AGILIS (Linnaeus). 
 
 
 
@@ -40882,9 +40882,9 @@ Stephens, Shaw's Gen. Zool., xiv, 1826, 102.— Voigt, Cuv. Uebers., 1831,
 
  lant, pi. 105). 
 
- Psittacus virescens (not of Linnseus) Bechstein, Kurze Ueb., 1811, 99. 
+ Psittacus virescens (not of Linnaeus) Bechstein, Kurze Ueb., 1811, 99. 
 
- Psittams aestivus (not of Linnseus) Kuhl, Consp. Psitt., 1820, 75, part. 
+ Psittams aestivus (not of Linnaeus) Kuhl, Consp. Psitt., 1820, 75, part. 
 
 
 
@@ -41088,7 +41088,7 @@ Psitt., p. 8); Naumannia, 1856 (Consp. Psitt., no. 92).
 
 Kuhl, Consp. Psitt., 1820, 80, part (supposed female). 
 
- Psittacus festivust (not of Linnseus) Moritz, Wiegmann's Archiv fiir Naturg., 
+ Psittacus festivust (not of Linnaeus) Moritz, Wiegmann's Archiv fiir Naturg., 
 
 
 
@@ -41386,7 +41386,7 @@ Chrysotis salleiFiNscs, Die Papag., ii, 1868, 513. — Reichenow, Vogelbild., 18
 
 
 
-AMAZONA COLLARIA (Linnseus). 
+AMAZONA COLLARIA (Linnaeus). 
 
 
 
@@ -42011,7 +42011,7 @@ Isle of Pines, Cuba (Nueva Gerona; Managua).
 
 
 
-Amazona leucocephala (not Psittacus leucocephalus Linnseus) Bangs and Zappet, 
+Amazona leucocephala (not Psittacus leucocephalus Linnaeus) Bangs and Zappet, 
 
  Am. Nat., xxxix, 1905, 201 (Isle of Pines; habits, etc.). 
 
@@ -42916,7 +42916,7 @@ c Lithoenas Reichenbach, Av. Syst. Nat., 1852, p. xxv; type, Columba livia
 
  Linnaeus. — Rupkola (not of Brisson, 1760) Bogdanow, Trudy St.-Petersb. Obshch., 
 
- xii, 1881, 99 (subgenus); type, Colurriba livia Linnseus. (Palaearctic.) 
+ xii, 1881, 99 (subgenus); type, Colurriba livia Linnaeus. (Palaearctic.) 
 
 
 
@@ -43043,7 +43043,7 @@ Lepidoenas (p. 315).
 
  1827, nor Eyton, 1836) Bogdanow, Trudy St.-Petersb. Obshch., xii, 1881, 99 (sub- 
 
- genus); type, Columba anas Linnseus? — Calotreron Heine, in Heine and Keichenow, 
+ genus); type, Columba anas Linnaeus? — Calotreron Heine, in Heine and Keichenow, 
 
  Nom. Mus. Hein. Orn., 1890, 275; new name for Palumbsena Bonaparte, on grounds 
 
@@ -43059,13 +43059,13 @@ Lepidoenas (p. 315).
 
 
 
-c Columba Linnseus, Syst. Nat., ed. 10, i, 1758, 162; type, as fixed by Selby, 1825, 
+c Columba Linnaeus, Syst. Nat., ed. 10, i, 1758, 162; type, as fixed by Selby, 1825, 
 
- C. palumbus Linnseus. — Palumbis Porster, Synopt. Cat. Brit. Birds, 1817, 55; type, 
+ C. palumbus Linnaeus. — Palumbis Porster, Synopt. Cat. Brit. Birds, 1817, 55; type, 
 
- by tautonymy, Columba palumbus Linnseus. — Palumbus Kaup, Naturl. Syst., 1829, 
+ by tautonymy, Columba palumbus Linnaeus. — Palumbus Kaup, Naturl. Syst., 1829, 
 
- 107; type, by tautonymy, Columba palumbus Linnseus. (Palsearctic.) 
+ 107; type, by tautonymy, Columba palumbus Linnaeus. (Palsearctic.) 
 
 
 
@@ -51335,7 +51335,7 @@ Range. — Deciduous forest region of eastern North America.
 
 
 
-ECTOPISTES MIGRATORIUS (Linnseus). 
+ECTOPISTES MIGRATORIUS (Linnaeus). 
 
 
 
@@ -53952,7 +53952,7 @@ Chamaepelia carolinensis Giebel, Thes. Orn., i, 1872, 633.
 
 
 
-Zenaidura macroura (not Columba macroura Linnseus) Ridgway, Proc. IT. S. 
+Zenaidura macroura (not Columba macroura Linnaeus) Ridgway, Proc. IT. S. 
 
  Nat. Mus., viii, Sept. 2, 1885, 355; Orn. Illinois, i, 1889, 499.— American 
 
@@ -53998,11 +53998,11 @@ Zenaidura macrura Bonhote, Ibis, 1903, 298 (New Providence, Andros, and
 
 Columbafusca Muller, Syst. Nat. Suppl., 1776, 134 (new name for C. carolinensis 
 
- Linnseus). 
+ Linnaeus). 
 
 
 
-[Perissurd] marginata (not Columba marginata Linnseus) Heine and Reichenow, 
+[Perissurd] marginata (not Columba marginata Linnaeus) Heine and Reichenow, 
 
  Norn. Mus. Hein. Orn., 1890, 278 (South Carolina; Georgia). 
 
@@ -59591,7 +59591,7 @@ Melopelia meloda (extralimital).
 
 
 
-MELOPELIA ASIATICA ASIATICA (Linnseus). 
+MELOPELIA ASIATICA ASIATICA (Linnaeus). 
 
 
 
@@ -60799,7 +60799,7 @@ Zenaida meloda (not Columba meloda Tschudi) Lichtenstein, Nom. Av. Mus.
 
 
 
-Columba leucoptera (not of Linnseus) Heermann, Journ. Ac. Nat. Sci. Phila., ii, 
+Columba leucoptera (not of Linnaeus) Heermann, Journ. Ac. Nat. Sci. Phila., ii, 
 
  1852, 271 (Guaymas, Sonora). — Baird, in Rep. Stansbury's Surv. Great Salt 
 
@@ -61454,7 +61454,7 @@ Scardafella ridgwayi brasiliensis (extralimital)."
 
 
 
-o Only the type species, G. striata (Linnseus), has been examined in this connection. 
+o Only the type species, G. striata (Linnaeus), has been examined in this connection. 
 
 
 
@@ -65066,7 +65066,7 @@ Lesser Antilles north of St. Vincent (Santa Lucia; Martinique;
 
 
 
-Colwmba passerina (not of Linnseus) Fahlbebg, Kongl. Vetensk. Acad. Nya 
+Colwmba passerina (not of Linnaeus) Fahlbebg, Kongl. Vetensk. Acad. Nya 
 
  Handl., vii, 1786, 253 (St. Bartholomew). — Temminck, in Temnrinck 
 
@@ -66148,7 +66148,7 @@ Chamxpeleia passerina Cory, Birds Bahama Is., 1880, 228, part.
 
 
 
-Columba passerina (not of Linnseus) Bland, Ann. Rep. Smithson. Inst, for 1858 
+Columba passerina (not of Linnaeus) Bland, Ann. Rep. Smithson. Inst, for 1858 
 
  (1859), 287 (Bermudas).-^JoNES, Naturalist in Bermuda, 1859, 36, 70 (hab- 
 
@@ -70343,7 +70343,7 @@ Leptoptila gawmeri Salvadoei, Cat. Birds Brit. Mus., xxi, 1893, 557 (n. Yucatan;
 
 
 
-Leptoptila jamaicensis (not Columba jamaicensis Linnseus) Sclateb, List. Vertebr. 
+Leptoptila jamaicensis (not Columba jamaicensis Linnaeus) Sclateb, List. Vertebr. 
 
  Anim., 8th. ed., 1883, 457 (Cozumel Island, Yucatan). 
 
@@ -75949,7 +75949,7 @@ Journ. fur Orn., 1874, 230 (Brazil).
 
  [Columba martinicana] (3 Gmelin, Syst. Nat., i, pt. 2, 1789, 781, part. 
 
- (1)Columba martinica (not Linnseus?) Temminck and Knip, Pigeons, i, fam. trois., 
+ (1)Columba martinica (not Linnaeus?) Temminck and Knip, Pigeons, i, fam. trois., 
 
 
 
@@ -77281,7 +77281,7 @@ Starnamas Bonaparte, Geog. and Comp. List, 1838, 41. (Type, by monotypy,
 
 
 
-Columba cyanocephala Linnseus.) 
+Columba cyanocephala Linnaeus.) 
 
  Starnsenas (emendation) Gray, Gen. Birds, ii, 1845, 479. 
 

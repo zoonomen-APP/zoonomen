@@ -601,7 +601,7 @@ Key to the Species and Subspecies of Mimocichla 79
 
 
 
-42. Mimocichla plumbea (Linnseus) 82 
+42. Mimocichla plumbea (Linnaeus) 82 
 
 
 
@@ -1961,7 +1961,7 @@ Genus 33. Nuttallornis Ridgway 504
 
 
 
-68. NuttalloVnis borealis (Swainson) 505 
+68. Nuttallornis borealis (Swainson) 505 
 
 
 
@@ -1989,7 +1989,7 @@ Key to the Species and Subspecies of Myiochanes 511
 
 
 
-73. Myiochanes virens (Linnseus) 518 
+73. Myiochanes virens (Linnaeus) 518 
 
 
 
@@ -3150,7 +3150,7 @@ PlanC'ticus Bonaparte
 
 
 
-Tnrdus Linnseus 
+Tnrdus Linnaeus 
 
 
 
@@ -3226,7 +3226,7 @@ Ramphofinclus I^af resnaye
 
 
 
-Sturnns Linnseus 
+Sturnns Linnaeus 
 
 
 
@@ -5572,7 +5572,7 @@ Proc. Zoo'l. Soc. Lond., 1874, 218, part (mcmogr.).— Baird, Brewer, and
 
 
 
-RiDGWAY, Hist. N. Am. Birds, i, 1874, 60, part; iii, 1874, 501 (Seneca Co., 
+RIDGWAY, Hist. N. Am. Birds, i, 1874, 60, part; iii, 1874, 501 (Seneca Co., 
 
 
 
@@ -5608,7 +5608,7 @@ Bull. Nutt. Orn. Club, v, 1880, 115 (near Calais, Maine, 1 spec, Aug. 25,
 
 
 
-RiDGWAY, Nom. N. Am. Birds, 1881, no. 21, part.— Cabanis, Journ. fur 
+RIDGWAY, Nom. N. Am. Birds, 1881, no. 21, part.— Cabanis, Journ. fur 
 
 
 
@@ -5689,7 +5689,7 @@ a Additional probable records are Colorado (Boulder County, May 14, 1880) and
 
 S[axicola] venanthe Coues, Key N. Am. Birds, 2d ed., 1884, 25G, part; 5th ed., i, 
 
- 1903, 256, part.— RiDGWAY, Man. N. Am. Birds, 1887, 580, part. 
+ 1903, 256, part.— RIDGWAY, Man. N. Am. Birds, 1887, 580, part. 
 
 
 
@@ -5765,7 +5765,7 @@ Cyano-syhna Brehm, Isis, 1828, 920. (Type, Motacilla sueeica Linnyeus.)
 
 
 
-Linnseus.) 
+Linnaeus.) 
 
  Cyanegula (emendation) Boie, Journ. flir Orn., 1857, 166. 
 
@@ -10642,7 +10642,7 @@ Turdus ustulatus Nuttall, Man. Orn. U. S. and Canada, Land Birds, ed. 2, 1840,
 
  ington, west of Cascade Mts.). — Brown, Ibis, 1868, 420 (Vancouver I.). — 
 
- RiDGWAY, Proc. Ac. Nat. Sci. Phila., xxi, 1869, 127 (crit.). — Dall and Ban- 
+ RIDGWAY, Proc. Ac. Nat. Sci. Phila., xxi, 1869, 127 (crit.). — Dall and Ban- 
 
  nister, Trans. Chicago Ac. Sci., i, 1869, 275 (Sitka, Alaska). — Cooper, Orn. 
 
@@ -11682,7 +11682,7 @@ Turdus aliciac Baird, Rep. Pacific R. R. Surv., ix, 1858, 217 (West Northfield,
 
  and Bannister, Trans. Chicago Ac. Sci., i, 1869, 275 (Yukon R., Alaska). — 
 
- RiDGWAY, Proc. Ac. Nat. Sci. Phila., xxi, 1869, 128 (crit.); Orn. Illinois, i, 
+ RIDGWAY, Proc. Ac. Nat. Sci. Phila., xxi, 1869, 128 (crit.); Orn. Illinois, i, 
 
  1889, 87.— Frantzius, Journ. fur Orn., 1869, 289 (Costa Rica).— Salvin, 
 
@@ -14094,7 +14094,7 @@ Island of Porto Rico, Greater Antilles.
 
 
 
-Galeoscoptes plumbeus (not Turdus plumbeus Linnseus) Sclater, Proc. Zool. Soc. 
+Galeoscoptes plumbeus (not Turdus plumbeus Linnaeus) Sclater, Proc. Zool. Soc. 
 
 
 
@@ -14429,7 +14429,7 @@ Mimocichla plumbea Baird, Review Am. Birds, July, 1864, 36 (Nassau, New Provi-
 
  Abaco), 351 (Eleuthera).— Northrop, Auk, viii, 1891, 66 (Andros I.).— 
 
- RiDGWAY, Auk, viii, 1891, 333 (Abaco), 335 (New Providence), 336 (Eleu- 
+ RIDGWAY, Auk, viii, 1891, 333 (Abaco), 335 (New Providence), 336 (Eleu- 
 
  thera). — Bangs, Auk, xvii, 1900, 289 (New Providence; descr. young). — 
 
@@ -15187,7 +15187,7 @@ Merula (not of Koch, 1816)a Leach, Syst. Cat. Mam. and Birds Brit. Mus., 1816,
 
 
 
-20. (Type, Turdus merula Linnseus). 
+20. (Type, Turdus merula Linnaeus). 
 
  (?)IIodoiporus Reichenbach, Av. Syst. Nat., 1850, pi. 53. (Type, Turdus jamai- 
 
@@ -16648,7 +16648,7 @@ Southern portion of Carolinian fauna, breeding from Soutli Caro-
 
 
 
-Turdus migratorius (not of Linnseus) Loomis, Bull. Nutt. Orn. Club, iv, 1879, 210. 
+Turdus migratorius (not of Linnaeus) Loomis, Bull. Nutt. Orn. Club, iv, 1879, 210. 
 
  (Chester Co., South Carolina, rare in summer.) 
 
@@ -19710,7 +19710,7 @@ Norn. Av. Neotr., 1873, 2.
 
 
 
-Irazu). — RiDGWAY, Proc. U. S. Nat. Mus., v, 1882, 494 (summit Volcan de 
+Irazu). — RIDGWAY, Proc. U. S. Nat. Mus., v, 1882, 494 (summit Volcan de 
 
 
 
@@ -21213,7 +21213,7 @@ Nom. Av. Neotr., 1873, 2.
 
 
 
-RiDGWAY, Proc. U. S. Nat. Mus., ix, 1886, 131 (Teziutlan, Puel^la; descr. 
+RIDGWAY, Proc. U. S. Nat. Mus., ix, 1886, 131 (Teziutlan, Puel^la; descr. 
 
 
 
@@ -21237,7 +21237,7 @@ Sialia Swainson, Philos. Mag., new ser., i, 1827, 369; Zool. Jnurn., iii, 1827, 
 
 
 
-eilla sialis Linnseus). 
+eilla sialis Linnaeus). 
 
  Scyrornisa Gistel, Naturgesch. des Thierreichs fiir hohere Schulen, 1848, p. 8. 
 
@@ -22458,7 +22458,7 @@ BIRDS OF NORTH AND MIDDLE AMERICA. 147
 
 
 
-Sylvia sialis (not Motacilla sialis Linnseus) Liciitenstein, Preis-Verz. Mex. Vog., 
+Sylvia sialis (not Motacilla sialis Linnaeus) Liciitenstein, Preis-Verz. Mex. Vog., 
 
  1830, 2; Journ. fiir Orn., 1863, 57 (reprint). 
 
@@ -27441,7 +27441,7 @@ Linnanis.)
 
 
 
-riifits Linnseus.) 
+riifits Linnaeus.) 
 
 
 
@@ -28915,7 +28915,7 @@ Harporhynchus cinereus Xantus, Proc. Ac. Nat. Sci. Pliila.. xi, Nov., 1859, 298
 
  327, 331 (crit.); Birds Col. Val., 1878, 68, footnote.— Baird, Brewer, and 
 
- RiDGWAY, Hist. N. Am. Birds, i, 1874, 40, pi. 4, fig. 2.— Ridgway, Nom. N. 
+ RIDGWAY, Hist. N. Am. Birds, i, 1874, 40, pi. 4, fig. 2.— Ridgway, Nom. N. 
 
  Am. Birds, 1881, no. 14.— Sharpb, Cat. Birds Brit. Mus., vi, 1881, 355 (La 
 
@@ -29167,7 +29167,7 @@ Harporkynchns bendirci Coues, Am. Nat., vii, June, 1873, 330. footnote (Tucson,
 
  Arizona; colL, Dr. E. Coues c); Check List, 1873, no. 11 bis. — Baird. Brewer, 
 
- and RiDGWAY, Hist. N. Am. Birds, iii, 1874, 500. — Brewster, Bull. Nutt. 
+ and RIDGWAY, Hist. N. Am. Birds, iii, 1874, 500. — Brewster, Bull. Nutt. 
 
  Orn. Club, vi, 1881, 65 (Tucson, Arizona; crit.; habits); vii, 1882, 09 (Camp 
 
@@ -31587,7 +31587,7 @@ D.felivox S. D. W.,="The Cat Thrush of Latham.")
 
 
 
-carolinensis Linnseus.) 
+carolinensis Linnaeus.) 
 
 
 
@@ -31604,7 +31604,7 @@ Galeoscoptes a Cabanis, Mus. Hein., i, 1850, 82. (Type, Muscicapa caroliyunsis
 
 
 
-Linnseus.)'' 
+Linnaeus.)'' 
 
  Felivox Bonaparte, Compt. Rend., xxxviii, 1854, 50. (Type, Mitscicapa caro- 
 
@@ -32079,7 +32079,7 @@ Mimius carolinensis Clifford, Trans. Ills. Agric. Soc. v. 1865. 925 (habits).
 
 G[aleoscoptes] carolincnsis Cabanis, Mus. Hein., i, 1850, 82 (Jalapa, Vera Cruz). — 
 
- RiDGWAY, Man. N. Am. Birds, 1887. 542. — Coues, Key N. Am. Birds, 5th ed. i, 
+ RIDGWAY, Man. N. Am. Birds, 1887. 542. — Coues, Key N. Am. Birds, 5th ed. i, 
 
  1903, 284. 
 
@@ -33320,7 +33320,7 @@ Southwestern United States, from Gulf coast, in Texas, to the
 
 
 
-Orpheus polyglottus (not Tiirdiis polyglottos Linnseus) Swainson, Zool. Journ., 
+Orpheus polyglottus (not Tiirdiis polyglottos Linnaeus) Swainson, Zool. Journ., 
 
  iii. 1827, 167 (Mexico); Philos. Mag., n. s., i, 1827, 369 (Real del Monte, 
 
@@ -34033,7 +34033,7 @@ Minvs [typograpical (>nor] dominicus Cherrie, Tontr. Orn. San. Dom., 1896, 10
 
 (Haiti). 
 
- Mimus orpheus (not Turdus orpheus Linnseus) Sharpe, Cat. Birds Brit. Mus., vi, 
+ Mimus orpheus (not Turdus orpheus Linnaeus) Sharpe, Cat. Birds Brit. Mus., vi, 
 
 
 
@@ -37724,7 +37724,7 @@ Beckham, Proc.U. 8. Nat. Mas., x, 1888, 089 (Corpus Chrisli and Beeville,
 
 Olroscoptesl mnntanus Coues, Key N. Am. Birds, 2d ed., 1884, 249; 5th ed., i, 
 
- 1903, 282.— RiDGWAY, Man. N. Am. Birds, 1887, 541. 
+ 1903, 282.— RIDGWAY, Man. N. Am. Birds, 1887, 541. 
 
 
 
@@ -38285,7 +38285,7 @@ Margarops iiionlamis Sclatek, Proc. Zool. Soc. Lond., 1859, 336 (monogr. ; Guade
 
  (Desin-^e); Auk, iii, 1886, 15;. iv, 1887, 95 (Martinique); Birds West Ind., 
 
- 1889, 29.— RiDGWAY, Proc. U. S. Nat. Mus., xii, 1890, 129 (Santa Lucia). 
+ 1889, 29.— RIDGWAY, Proc. U. S. Nat. Mus., xii, 1890, 129 (Santa Lucia). 
 
 
 
@@ -41008,7 +41008,7 @@ Maine, I sijec, May 4, 1889). — Braislin, Auk, xv, 1898, 55 (Brooklyn, New
 
  1850,. 421.— CouEs, Key N. Am. Birds, 2d ed., 1884, 427; 5th ed., i, 1903, 503, 
 
- pi. 1 and fig. 3.— RiDGWAY, Man. N. Am. Birds, 1887, 365. 
+ pi. 1 and fig. 3.— RIDGWAY, Man. N. Am. Birds, 1887, 365. 
 
 
 
@@ -41465,7 +41465,7 @@ Genus ESTRILDA Swainson.
 
 
 
-Estrilda Swainson, Zool. Journ., iii, 1827, 349. (Type, Loxia astrild Linnseus.) 
+Estrilda Swainson, Zool. Journ., iii, 1827, 349. (Type, Loxia astrild Linnaeus.) 
 
 
 
@@ -41487,13 +41487,13 @@ Sporaeginthus a Cabanih. Mus. Hein., i, August, 185J, 170. (Type, Fringillu uina
 
 Uraeginthusb Cabanis, Mus. Hein., i, Aug., 1851, 171. (Type, FriiigUlu bengal us 
 
- Linnseus. ) 
+ Linnaeus. ) 
 
 
 
 ^mandat'a Reichenbach, Singvogel, J861, 15. {Typv, Amudiun puiirtatu lMyt\\,= 
 
- Fringilla- amandava Linnseus. ) 
+ Fringilla- amandava Linnaeus. ) 
 
 
 
@@ -41517,7 +41517,7 @@ Brunhilda Reichenbach, Singvogel, 1861, 48. (Type, Fringilla enjthronotos
 
 Haplopyga Heuglin, Orn. Nord Ost- Africa, App., 1871, p. cxxxvii. (Type, 
 
- Loxia astrild Linnseus.) 
+ Loxia astrild Linnaeus.) 
 
 
 
@@ -42272,7 +42272,7 @@ Rwinhoe' Proc. Zool. Soc. Lond., 1863, 69 (Peking, n. China). — Alauda arvensi
 
  kinensis Hartert, Vog. Palilarkt. Fauna, iii, June, 1905, 248. — Alauda arvensis (not of 
 
- Linnseus) Kitllitz, Denkw., ii, 1858, 198; Homeyer, Journ. fur Ofn., 1869, 52, 171 
+ Linnaeus) Kitllitz, Denkw., ii, 1858, 198; Homeyer, Journ. fur Ofn., 1869, 52, 171 
 
  (e. Siberia); Taczanowski, Journ, fur Orn., 1872, 454 (e. Siberia); 1873, 86 (do); Bull. 
 
@@ -44729,13 +44729,13 @@ Eremophila alpestris Allex, Mem. Bost. Soc. N. M., i, 1868, 496 (Iowa); Btill.
 
  Check List. 1873, no. 53, part; 2d ed.. 1882. no. 82. part.— Baird, Brewer, 
 
- and RiDGWAY. Hist. X. Am. Birds, ii, 1874. 141. part. — Howey, Bull. Xutt. 
+ and RIDGWAY. Hist. X. Am. Birds, ii, 1874. 141. part. — Howey, Bull. Xutt. 
 
  Orn. Club. iii. 1878. 40 (Canandaigua Co., w. New York, breeding). — Dayan, 
 
  Bull. Xutt. Orn. Club, iii, 1878, 53 (Lewis Co., n. Xew York, breeding). — 
 
- RiDGWAY. Bull. Xutt. Orn. Club, iii, 1878, 165 (Wabash Co., Illinois, breed- 
+ RIDGWAY. Bull. Xutt. Orn. Club, iii, 1878, 165 (Wabash Co., Illinois, breed- 
 
  ing); Xom. X. Am. Birds 1881, no. 300, part.— Joxes, Bull. Xutt. Orn. Club, 
 
@@ -45207,7 +45207,7 @@ of the Cascade Mountains to southeastern British Colombia (Cliilh-
 
 
 
-Olocoris alpestris (not Alauda alpestris Linnseus) Newberry, Rep. Pacific R. R. 
+Olocoris alpestris (not Alauda alpestris Linnaeus) Newberry, Rep. Pacific R. R. 
 
 
 
@@ -46662,7 +46662,7 @@ Otocoris alpestris pallida Dwight, Auk, vii, April, 1890, 154 (ex "Townsend,
 
  American Ornithologis'i;s' Check List, 2d ed., 1895, no. 474j, part. — 
 
- RiDGWAY, Man. N. Am. Birds, 2d ed., 1896, 599, part. — Oberholser, 
+ RIDGWAY, Man. N. Am. Birds, 2d ed., 1896, 599, part. — Oberholser, 
 
  Proc. II. S. Nat. Mus., xxiv, 1902, 863 (monogr.). 
 
@@ -49917,7 +49917,7 @@ Copurus leuconotus Lapresnaye, Rev. Zool., 1842, 335 ("'Bolivia;" error). —
 
  aldas, w. Ecuador). — Salvin and Godman, Biol. Centr.-Am., Aves, ii, 1888, 
 
- 4.— RiDGWAY, Proc. U. S. Nat. Mus., x^ 1888, 589 (Segovia R., s. Honduras).— 
+ 4.— RIDGWAY, Proc. U. S. Nat. Mus., x^ 1888, 589 (Segovia R., s. Honduras).— 
 
  Richmond, Proc. U. S. Nat. Mus., xvi, 1893, 504 (Rio Escondido, Nica 
 
@@ -57360,7 +57360,7 @@ Tijranniscus parvus Lawrence, Ibis, iv, Jan., 18(52, 12 (Panama; coll. G. N. Law
 
  307 (Costa Rica). — Boucard, Proc. Zool. Soc. Lond., 1878, 63 (Navarro, Costa 
 
- Rica).— RiDGWAY, Proc.U. S. Nat. Mus., vi, 1883, 414 (Pirris, Costa Rica).— 
+ Rica).— RIDGWAY, Proc.U. S. Nat. Mus., vi, 1883, 414 (Pirris, Costa Rica).— 
 
  Sclater, Cat. Birds Brit. Mus., xiv, 1888, 132 (Angostura and Turrialba, Costa 
 
@@ -59805,7 +59805,7 @@ Elainea martinica Taylor, Ibis, 1864, 169 (Dominica). — Sclater, Proc. Zool.
 
  British Honduras; crit.). — Feilden,~ Ibis, 1889, 486 (Barbados; habits). — 
 
- RiDGWAY, Proc. U. S. Nat. Mus., xii, 1890, 130 (Santa Lucia). — Berlepsch, 
+ RIDGWAY, Proc. U. S. Nat. Mus., xii, 1890, 130 (Santa Lucia). — Berlepsch, 
 
  Journ. fiir Orn., 1892, 85 (Curagao; crit.).— Nicoll, Ibis, 1904, 558 (Barbados; 
 
@@ -60167,7 +60167,7 @@ LESSER ANTILLEAN REFERENCES.
 
 
 
-Elainea martinica (not Miiscicapa martinica Linnseus) Lawrence, Proc. U. S. Nat. 
+Elainea martinica (not Miiscicapa martinica Linnaeus) Lawrence, Proc. U. S. Nat. 
 
 
 
@@ -62619,7 +62619,7 @@ Ecuador; Cosnipata, s. Peru; Pebas, e. Peru). — Salvadori and Festa, Boll. ^Mu
 
  Zool., etc., Torino, xv, no. 362, 1899, 9 (Foresta del Rio Peripa, w. Ecuador. — —Myio- 
 
- zetetes cayennensis (not Muscicapa cayanensis Linnseus) Sclater and Sai,vin, Proc. 
+ zetetes cayennensis (not Muscicapa cayanensis Linnaeus) Sclater and Sai,vin, Proc. 
 
  Zool. Soc. Lond., 1869, 598 (Cosnipata, Peru). 
 
@@ -67446,7 +67446,7 @@ GuatVml^Ca . Birds Brit. Mus., xiv. 1888, 200 (Cordova; Cozumel I
 
  C^l ScS-N^o, Proc. TI. S. Nat. Mus., ^^'^'^.^^^^^ 
 
- Nicaragua).-RiDGWAY, Proc. U. S. Nat. Mus., x 1888 589 (Segovia R^ 
+ Nicaragua).-RIDGWAY, Proc. U. S. Nat. Mus., x 1888 589 (Segovia R^ 
 
 
 
@@ -69518,7 +69518,7 @@ Contopus (^not Conlipns de Marseul, 1853) Cabanis, Jouni. t'iir Orn., iii, Nov.,
 
 
 
-479. (Type, Musdcapa virens Linnseus.) 
+479. (Type, Musdcapa virens Linnaeus.) 
 
  Syrichta (not Syrichtus Boisduval, 1833) Bonaparte, Ann. Scf. Nat., ser. 4, 
 
@@ -70657,7 +70657,7 @@ Contopus ochraceus Sclater and Salvin, Proc. Zool. Soc. Lond., xxxvii, 1869, 419
 
  (Costa Rica; coll. Salvin and Godman).— Salvin, Ibis, 1870, 115; 1874, 313.— 
 
- RiDGWAY, Ibis, 1883, 401 (crit.).— Sclater, Cat. Birds Brit. Mus., xiv, 1888, 
+ RIDGWAY, Ibis, 1883, 401 (crit.).— Sclater, Cat. Birds Brit. Mus., xiv, 1888, 
 
  237.— Salvin and Godman, Biol. Centr.-Afn., Aves, ii, 1889, 84, pi. 38, fig. 2. 
 
@@ -71462,7 +71462,7 @@ Contopus richardsoni Sclater, Cat. Am. Birds, 1862, 331 (Vera Paz, Guatemala);
 
  ovevora, Bugaba, and Volcan de Chiriqui, Panama.) — Baird, Brewer, and 
 
- RiDGWAY, Hist. N. Am. Birds, ii, 1874, pi. 44, fig. 4. — BERLEPscnand Taczan- 
+ RIDGWAY, Hist. N. Am. Birds, ii, 1874, pi. 44, fig. 4. — BERLEPscnand Taczan- 
 
  owsKi, Proc. Zool. Soc. Lond., 1883, 558 (Chimbo, w. Ecuador, Sept.; crit.); 
 
@@ -71696,7 +71696,7 @@ Contopus richardsonii peninsulx Brewster, Descr. Seven Sup. New North Am.
 
  gists' Union Committee, Auk, ix, 1892, 106; Check List, 2d ed., 1895, no. 
 
- 462a.— RiDGWAY, Man. N. Am. Birds, 2d ed., 1896. 598. 
+ 462a.— RIDGWAY, Man. N. Am. Birds, 2d ed., 1896. 598. 
 
 
 
@@ -75077,7 +75077,7 @@ ing).— Bangs, Auk, xviii, 1901, 363 (Divala, Panama, Nov. 30); Proc. New
 
 E[mpidona.r] flariventris Coues, Key N. Am. Birds, 2d ed., 1884, 442; 5th ed., i, 
 
- 1903, 530.— RiDGWAY, Man. N. Am. Birds, 1887, 341. 
+ 1903, 530.— RIDGWAY, Man. N. Am. Birds, 1887, 341. 
 
 
 
@@ -75722,7 +75722,7 @@ Empidonax trailln{noioi Baird) Dresser, Ibis, 1865, 474 (San Antonio, Texas). �
 
  Barbara, California).— Allen, Bull. Mus. Comp. Zool., iii, 1872, 179 (Kan- 
 
- sas). — RiDGWAY, Bull. Essex Inst., v, 1873, 184 (Colorado). — Coues, Check 
+ sas). — RIDGWAY, Bull. Essex Inst., v, 1873, 184 (Colorado). — Coues, Check 
 
  List, 1873, no. 257. — Snow, Birds Kansas, 1873, 3 (Kansas). — Langdon, Birds 
 
@@ -76956,7 +76956,7 @@ Empidonax ^'hammondi'- Allen, Bull. Mus. Comp. Zool., iii, 1872, 179 (Utah;
 
 E[mpidonax\ hammondi Coues, Key N. Am. Birds, 2d ed., 1884, 443; 5th ed., 
 
- i, 1903, 531.— RiDGWAY, Man. N. Am. Birds, 1887, 344. 
+ i, 1903, 531.— RIDGWAY, Man. N. Am. Birds, 1887, 344. 
 
 
 
@@ -78363,7 +78363,7 @@ Empidonax difficilis B.\irl), Rep. Pacific R. R. Surv., ix, Oct., 1858, 198, in 
 
  Lawrence, Proc. Bost. Soc. N. H., xiv, 1871, 279 (Tres Marias Islands, w.. 
 
- Mexico).— RiDGWAY, Orn. 40th Parallel, 1877, 544 (Wahsatch Mts., Utah,, 
+ Mexico).— RIDGWAY, Orn. 40th Parallel, 1877, 544 (Wahsatch Mts., Utah,, 
 
  breeding); Field and Forest, 1877, 208 (Colorado); Nom. N. Am. Birds, 1881, 
 
@@ -78686,7 +78686,7 @@ Empidonax cineritius Brewster, Auk, v, Jan., 1888, 90 (La Laguna, Ix)wer Cali-
 
  Key N. Am. Birds, 4th ed., 1894, 901.— Bendire, Life Hist. N. Am. Birds, 
 
- ii, 1895, 301.— RiDGWAY, Man. N. Am. Birds, 2d ed., 1896, 599.— Kaeding, 
+ ii, 1895, 301.— RIDGWAY, Man. N. Am. Birds, 2d ed., 1896, 599.— Kaeding, 
 
  Condor, vii. 1905, 135 (San Jose del Cabo and San Juanico Bay, Apr., May). 
 
@@ -80911,7 +80911,7 @@ b The specimen referred to by Mr. Nelson as from the Plains of Colima unques-
 
 
 
-t(>pcc City). — RiDGWAY, Orii. 40tli Parallel, 1877, 534 (Sacramento, Califor- 
+t(>pcc City). — RIDGWAY, Orii. 40tli Parallel, 1877, 534 (Sacramento, Califor- 
 
  niaV, Norn. N. Am. Birds, 1881, no. 317.— Brewster, Bull. Nutt. Orn. Club, 
 
@@ -81966,7 +81966,7 @@ Myionaxa Cabanis and Heine, Mus. Hein., ii, Oct., 1859, 73. (Type, Mmncapa
 
 
 
-crinita Linnseus.) 
+crinita Linnaeus.) 
 
  Rather small to large Tyrannidee (wing about 70-116 mm.) with 
 
@@ -82321,7 +82321,7 @@ streak of dusky along shaft on terminal portion; wing relatively shorter
 
  capa ferox] ft Gmelin, Syst. Nat., i, 1788, 934. — Myiarchus cnnitus (not Turdus crinitus 
 
- Linnseus) Hartlaub, Index Azara Apunt., 1847, 13; D'Orbigny, Voy. Amer. Merid., 
+ Linnaeus) Hartlaub, Index Azara Apunt., 1847, 13; D'Orbigny, Voy. Amer. Merid., 
 
  Ois., 1839, 306. — [Tyrannula] irritabilis (not Tyrannus irritabilis Vieillot, 1823) Bona- 
 
@@ -84613,7 +84613,7 @@ Western United States and northern Mexico; north to southern
 
 
 
-Myiobius crinitus (not Muscicapa crinita Linnieus) Gambel, Proc. Ac. Nat. Sci. 
+Myiobius crinitus (not Muscicapa crinita Linnaeus) Gambel, Proc. Ac. Nat. Sci. 
 
  Philad., i, 1847, 39 (Santa Barbara, California). 
 
@@ -89292,7 +89292,7 @@ Platyrhynchus (not Platyrinchiis Desmarest, 1805) Temminck, Tabl. Meth., 1822,
 
 
 
-23. (Type, Lanius pitangva Linnseus.) 
+23. (Type, Lanius pitangva Linnaeus.) 
 
  Megarynchus Thunberg, Dissert, de genre Megaryncho, 1824, 2. (See Heine, 
 
@@ -89314,7 +89314,7 @@ phuratus Maximilian, = Lanwts pitangva Linnaeus.)
 
 
 
-Lanius pitangva Linnseus.) 
+Lanius pitangva Linnaeus.) 
 
 
 
@@ -90222,7 +90222,7 @@ Pitangus sulphuratus bolivianus (extralimital)''
 
 
 
-o [Lanius] sulphuratus Linnseus, Syst. Nat., ed. 12, i, 1766, 137 (Cayenne; based on 
+o [Lanius] sulphuratus Linnaeus, Syst. Nat., ed. 12, i, 1766, 137 (Cayenne; based on 
 
  Lanius cayanensis luteus Brisson, Orn., ii, 176, pi. 16). — Tyrannus sulphuratus Vieillot, 
 
@@ -90256,7 +90256,7 @@ o [Lanius] sulphuratus Linnseus, Syst. Nat., ed. 12, i, 1766, 137 (Cayenne; base
 
 Specimens from southern Brazil are intergrades between this form and P. s. boliv- 
 
- ianus: — Muscicapa pitangua (not Lanius pitangva Linnseus) Maximilian, Beitr. Naturg. 
+ ianus: — Muscicapa pitangua (not Lanius pitangva Linnaeus) Maximilian, Beitr. Naturg. 
 
  Bras., iii, 1831, 838. — S[aurophagus] maximiliani Cabanis and Heine, Mus. Hein.,. ii, 
 
@@ -91838,7 +91838,7 @@ Pilanyus taylori Sc.atku, Ibis, Apr., 1804^09 ^^^^; '''';;'.^'t^- ^^^^l^^
 
 [Pitan,us] taylori Gkav, Hand4ist, i, 1869, 357, l^^'^f^^'^'^^^^T''' ^ZT.' 
 
- Norn Av Neotr.. 1873, 50.-Cory, List Birds West Ind., 1885, 15.-bHARPE, 
+ Norn Av Neotr.. 1873, 50.-Cory, List Birds West Ind., 1885, 15.-SHARPE, 
 
 
 
@@ -92757,7 +92757,7 @@ Tyrannus carolinensis TEMMiNt'K, Tabl. Meth., 1836, 24. — Baird, Rep. Pacific
 
  rare).— CouES, Check List, 1873, no. 242; 2d ed. 1882, no. 368; Birds North- 
 
- West, 1874, 235.— RiDGWAY, Proc. Essex Inst., vi, 1874, 184 (Colorado); vii, 
+ West, 1874, 235.— RIDGWAY, Proc. Essex Inst., vi, 1874, 184 (Colorado); vii, 
 
  1875, 17 (Truckee Valley, w. Nevada), 30 (Salt Lake City, Utah), 33 (Parleys 
 
@@ -92774,7 +92774,7 @@ Park, Utah); Orn. 40th Parallel, 1877, 532 (Nevada and Utah); Proc. U. S.
 
  try, Proc. Ac. Nat. Sci. Phila., 1874, 103 (habits). — Baird, Brewer, and 
 
- RiDGWAY, Hist. N. Am. Birds, ii, 1874, 316, pi. 43, fig. 4.— Henshaw, Zool. 
+ RIDGWAY, Hist. N. Am. Birds, ii, 1874, 316, pi. 43, fig. 4.— Henshaw, Zool. 
 
  Expl. W. 100th Merid., 1875, 341 (Denver, Colorado; Provo, Utah, com- 
 
@@ -92927,7 +92927,7 @@ Avium, p. 45) (Santa Cruz, Bolivia).
 
 
 
-(new name for Lanins tyrannus Linnseus). 
+(new name for Lanins tyrannus Linnaeus). 
 
  Tyrannus vieillotii SwAinfiON, Fauna Bor.-Am., ii, 1831, 138 (based on Vieillot, 
 
@@ -93352,7 +93352,7 @@ Sharpe, Hand-list, iii, 1901, 149.
 
 
 
-1903, 515.— RiDGWAY, Man. N. Am. Birds, 1887, .330. 
+1903, 515.— RIDGWAY, Man. N. Am. Birds, 1887, .330. 
 
  T[yrannus] verticolis (not of Say) Hartlai-r, Syst. Vorz., 1844, 49, part 
 
@@ -93515,7 +93515,7 @@ Tyrannus verticalis Say, Long's Exp. Rocky Mts., ii, 1823, 60 (Arkansas R.,
 
  Colorado or w. Kansas). — Bonaparte, Geog. and Comp. List, 1838, 25. — 
 
- NuTTALL, Man. Orn. U. S. and Can., 2d ed., 1840, 360.— Baird, Rep. Pacific 
+ NUTTALL, Man. Orn. U. S. and Can., 2d ed., 1840, 360.— Baird, Rep. Pacific 
 
  R. R. Surv., ix, 1858, 173; Cat. N. Am. Birds, 1859, no. 126.— Heermann, 
 
@@ -93552,7 +93552,7 @@ Rep. Pacific R. R. Surv., x, pt. vi, 1859, 37 (California). — Cooper and
 
  Soc. N. H., ii, 1874, 288 (Tepic; Plains of Colima).— Baird, Brewer, and 
 
- RiDGWAY, Hist. N. Am. Birds, ii, 1874, 324, pi. 43, fig. 2.— Henshaw, Zool. 
+ RIDGWAY, Hist. N. Am. Birds, ii, 1874, 324, pi. 43, fig. 2.— Henshaw, Zool. 
 
  Expl. W. 100th Merid., 1875, 342 (California, Nevada, Colorado, New Mexico, 
 
@@ -93636,7 +93636,7 @@ T[yrannits] verticalis Hartlaub, Syst. Verz., 1844, 49, part. — Coues, Key N.
 
 Musdcapa verticalis Bonaparte, Am. Orn., i, 1825, 18, pi. 2; Synopsis Birds 
 
- U. S., 1828, 67.— NuTTALL,*Man. Orn. U. S. and Can., i, 1832, 273.— Audu- 
+ U. S., 1828, 67.— NUTTALL,*Man. Orn. U. S. and Can., i, 1832, 273.— Audu- 
 
  bon, Orn. Biog., iv, 1838, 422, pi. 359; Synopsis. 1839, 39; Birds Am., oct. 
 
@@ -95931,7 +95931,7 @@ Milvulus SwAiNSON, Zool. Journ., iii, July, 1827, 1G5. (Type, Tyrannus savanna
 
 Despotes Reichenbach, Av. Syst. Nat., 1850, pi. 6G. (Type, Muscicapa tyrannus 
 
- Linnseus.) 
+ Linnaeus.) 
 
 
 
@@ -96347,7 +96347,7 @@ dalgo, Texas; habits; measurements); v, 1879, 401 (Point Isabel and Lomita,
 
  Merrill, Proc. U. S. Nat. Mus., i, 1878, 137 (Fort Brown, Texas; habits, etc.) — 
 
- RiDGWAY, Nom. N. Am. Birds, 1881, no. 301; Bull. Nutt. Orn. Club, viii, 
+ RIDGWAY, Nom. N. Am. Birds, 1881, no. 301; Bull. Nutt. Orn. Club, viii, 
 
  1883, 59 (Norfolk, Virginia, 1 spec, Jan. 2, 1882); Auk, iii, 1886, 134 (Key 
 
@@ -96801,7 +96801,7 @@ M[ilvulus] tyrannus Cabanis and Heine, Mus. Hein., ii, 1859, 78 (Surinam; Vene-
 
  zuela.)— Coues, Key N. Am. Birds, 2d ed., 1884, 431; 5th ed., i, 1903, 512.— 
 
- RiDGWAY, Man. N. Am. Birds, 1887, 327. 
+ RIDGWAY, Man. N. Am. Birds, 1887, 327. 
 
 
 
@@ -97522,7 +97522,7 @@ Allen, Bull. Am. Mus. Nat. Hist., ii, 1889, 73.)
 
 
 
-(T^'pe, Piprn vianacns Linnseus.) 
+(T^'pe, Piprn vianacns Linnaeus.) 
 
 
 
@@ -99234,7 +99234,7 @@ Parus aureola Linnaeus.)
 
 
 
-leucocilla Linnseus.) 
+leucocilla Linnaeus.) 
 
  Dixiphia Reichenbach, Av. Syst. Nat., 1850, pi. 63. (Type, Pipra leucocilln 
 
@@ -100636,7 +100636,7 @@ Panama (Cordillera de Tole; Chitra; Boquete de Chitra; Calo-
 
 
 
-Pipra leucocilla (not of Linnseus) Salvin, Proc. Zool. See. Lond., 1867, 149 (Cor- 
+Pipra leucocilla (not of Linnaeus) Salvin, Proc. Zool. See. Lond., 1867, 149 (Cor- 
 
  dillera de Tole, Panama); 1870, 200 (Chitra, Boquete de Chitra, and Calo- 
 
@@ -100672,7 +100672,7 @@ Corapipo Bonaparte, Consp. Voluc. Anisod., 1854, 6. (Tj'pe, Pipra gutturalis
 
 
 
-Linnseus.) 
+Linnaeus.) 
 
  Coropipo o- (emendation) Cabanis and Heine, Mus. Hein., ii, Oct., 1859, 94. 
 
@@ -103897,7 +103897,7 @@ Bill small, less than half as long as head, broad and depressed
 
 b Calvifrons Daudin, Ann. Mus. Hist. Nat., iii, 1804, 146. (Type, Corvus calvus 
 
- Linnseus.) — Gyvinocephalus (not of Bloch and Schneider, 1801) Geoffroy St.-Hilaire, 
+ Linnaeus.) — Gyvinocephalus (not of Bloch and Schneider, 1801) Geoffroy St.-Hilaire, 
 
  Ann. Mus. Hist. Nat., xiii, 1809, 237. (Same tj-pe)—Perissocephalus Oberholser, Proc. 
 
@@ -103911,7 +103911,7 @@ cGymnoderm Geoffroy St.-Hilaire, Ann. Mus. Hist. Nat., xiii, 1809, 237. (Type,
 
  Graculafcetidal^xrmiens.) — Coracina (not Coracinus Gronovius, 1763) Vieillot, Analyse, 
 
- 1816, 37. (Type, C. gymnodcra \un\\oi, = Grac}da fotida Linnseus.) — Coronis Gloger, 
+ 1816, 37. (Type, C. gymnodcra \un\\oi, = Grac}da fotida Linnaeus.) — Coronis Gloger, 
 
  Froriep's Notizen, xvi, 1827, 277. (Same type.) Guiana to eastern Ecuador; 
 
@@ -104020,7 +104020,7 @@ Cotinga cayana. adult male (extralimital)a
 
 
 
-o [Ampelis] cayana Linnseus, Syst. Nat., ed. 12, i, 1766, 298 (Brazil; Cayenne; based 
+o [Ampelis] cayana Linnaeus, Syst. Nat., ed. 12, i, 1766, 298 (Brazil; Cayenne; based 
 
  on Cotinga cayanensis Brisson, Orn., ii, 344, pi. 24, fig. 3). — [Cotinga] cayana Bona- 
 
@@ -104129,7 +104129,7 @@ Cotinga maynana, adult male (extralimital)c
 
 
 
-« {Amfclisl cotinga Linnseus, Syst. Nat., ed. 12, i, 1766, 298 (Brazil; based on Cotinga 
+« {Amfclisl cotinga Linnaeus, Syst. Nat., ed. 12, i, 1766, 298 (Brazil; based on Cotinga 
 
  Brisson, Orn., ii, 340, pi. 34, fig. 1). — Cotinga cotinga Hartert, Kat. Vogelsaml. Sekenb., 
 
@@ -104149,7 +104149,7 @@ b Ampelis cincta Kuhl, Buff, et Daub. Fig. Av. Col. Nom. Syst., 1820, 4 (based o
 
  1846, 279; Sclater, Cat. Birds Brit. Mus., xiv, 1888, S83.— Ampelis superba Shaw, Nat. 
 
- Misc., xix, no. 11, July, 1808, pi. 821. — Ampelis cotinga (not of Linnseus) Vieillot, Enc. 
+ Misc., xix, no. 11, July, 1808, pi. 821. — Ampelis cotinga (not of Linnaeus) Vieillot, Enc. 
 
  Meth., ii, 1823, 761. — [Cotinga] cxrulea (not Ampelis cxrulea Vieillot) Bonaparte, 
 
@@ -104157,7 +104157,7 @@ b Ampelis cincta Kuhl, Buff, et Daub. Fig. Av. Col. Nom. Syst., 1820, 4 (based o
 
 
 
-c [Ampelis] maynana Linnseus, Syst. Nat., ed. 12, i, 1766, 298 ("Mayanensi regione;" 
+c [Ampelis] maynana Linnaeus, Syst. Nat., ed. 12, i, 1766, 298 ("Mayanensi regione;" 
 
  based on Cotinga mayanensis Brisson, Orn., ii, 341, pi. 34, fig. 2). — [Cotinga] maynana 
 
@@ -117039,7 +117039,7 @@ Mus., xiv, 1888, 405 (Tuciirriqui, Costa Rica; Calovevora, Cordillera dc Tole,
 
  Proc. Zool. Soc. Lond., 1878, 66 (Volcan de Irazu, Costa Rica, 6,000 ft.).- 
 
- RiDGWAY, Proc. U. S. Nat. Mus., v, 1882, 496 (Volcan de Irazu, Costa Ricaj.- 
+ RIDGWAY, Proc. U. S. Nat. Mus., v, 1882, 496 (Volcan de Irazu, Costa Ricaj.- 
 
  Salvin and Godman, Biol. Centr.-Am., Aves, ii, 1891, 142; Ibis, 1892, 327 
 
@@ -119371,7 +119371,7 @@ Page 597 : To citations of Sayornis phoebe add :
 
 
 
-RiDGWAY, Orn. Illinois, i, 1889, 347.— Bendire, Life Hist. N. Am. Birds, i, 1895, 
+RIDGWAY, Orn. Illinois, i, 1889, 347.— Bendire, Life Hist. N. Am. Birds, i, 1895, 
 
  272, pi. 1, fig. 28 (egg).— Nehrling, Our Native Birds, i, 1896, 348, pi. 5. fig. 3. 
 
@@ -119394,7 +119394,7 @@ Page 604 : To citations of Sayornis saya add :
 
 
 
-RiDGWAY, Orn. Illinois, i, 1889, 348.— Bendire, Life Hist. N. Am. Birds, i. 1895, 
+RIDGWAY, Orn. Illinois, i, 1889, 348.— Bendire, Life Hist. N. Am. Birds, i. 1895, 
 
  276, pi. 1, fig. 29.--MILLER (W. D.), Bull. Am. Mus. N. H., xxii, 1906, 168 (Rosario, 
 
