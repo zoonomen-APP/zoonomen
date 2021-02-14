@@ -34,7 +34,7 @@ then east to include the Sandwich Islands ; south to Ross Sea[
 Victoria Land, and King George V. Land—also the Islands of 
 Amsterdam and St. Paul’s, in the Indian Ocean. 
 The Classification followed is that of Sharpe’s ‘Hand-list.’ This 
-is in conformity with the ‘ Chock-list of the Royal Australasian 
+is in conformity with the ‘ Check-list of the Royal Australasian 
 Ornithologists Union, the American Ornithologists’ Union, and 
 my own works on Australia. 
 The Nomenclature is founded on the Rules of the International 
@@ -10242,7 +10242,7 @@ Anas superciliosa rogersi Mathews.
 Anas superciliosa rogersi Mathews, Austral Av. Rec. vol. i. pt. 2, 
 p. 33, Apr. 2nd, 1912: Augusta, South-West Australia. (Fig. 
 Gould, vii. pi. 9; Math. pi. 210; and Phillips, pi. 24.) 
-Anas novsehollandiae Mathews, Chock-list Birds Austr. p. 58, Feb. 16th, 1920: 
+Anas novsehollandiae Mathews, Check-list Birds Austr. p. 58, Feb. 16th, 1920: 
 as synonym of above (ox Stokes, Discov. Austr. vol. i., App. p. 483, 1846), 
 nude name. 
 Distr. — Western and Northern Australia and New Guinea. 
@@ -10976,7 +10976,7 @@ Kaup, Skizz. Entwick.-Gesch. Nat. Syst. p. 170 (pref- April), 1829.
 Aqnilus Mathews, Check-list Birds Austr. p. 64, Feb. 16th, 1920 : as synonym of 
 Fregata ; ex Bronn, Zur nngewandtcn Naturg 1 . u. Pliys. p. 159, 1824: nomen 
 nudum., based on “ Fregatt-vogel.” 
-Pavrifregala Mathews, Chock-list Birds Austr. p. 64, Fob. 16th, 1920. Typo 
+Pavrifregala Mathews, Check-list Birds Austr. p. 64, Fob. 16th, 1920. Typo 
 (by original designation): Attagen ariel Gray. 
 Fregata ariel (Gray). 
 Distr .— Indian Ocean from the coasts of Australia to the 
@@ -33421,7 +33421,7 @@ Ptilotis sonoroides Gray, Proc. Zool. Soc. Lond. 1861, p. 428 : Waigou
 Island. 
 Distr. —Waigou and New Guinea. 
 Genus MELIPHACATOR Math. 
-Mdiphacator Mathews, Bull. Brit. Orn. Club, vol. xlv. p. 93, 1925. 
+Meliiphacator Mathews, Bull. Brit. Orn. Club, vol. xlv. p. 93, 1925. 
 Type (by original designation): Ptilotis provocator Layard. 
 Meliphacator provocator (Lay.). (9-230.) 
 Yellow-faced Honey-eater. 
