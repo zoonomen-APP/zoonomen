@@ -438,7 +438,7 @@ Fam. I. STHUTHioNiD-ffi: . 2
 
 
 
-1. Struthio, Linn 2 
+1. Struthio, Linn. 2 
 
 
 
@@ -703,7 +703,7 @@ Fam. I. OB.ACiD.aE 14
 
 
 
-1. Crax, Linn 14 
+1. Crax, Linn. 14 
 
 
 
@@ -763,7 +763,7 @@ Fam. I. TETRAONIDiG . . 18
 
 
 
-3. Tetrao, Linn 19 
+3. Tetrao, Linn. 19 
 
 
 
@@ -975,7 +975,7 @@ Fam. II. Phasianid^; . . 21
 
 
 
-42. Pbasianus, Linn 37 
+42. Pbasianus, Linn. 37 
 
 
 
@@ -1011,7 +1011,7 @@ Fam. II. Phasianid^; . . 21
 
 
 
-51. Pavo, Linn 40 
+51. Pavo, Linn. 40 
 
 
 
@@ -1044,7 +1044,7 @@ Fam. III. NuMiDiDiB .... 41
 
 
 
-3. Numida, Linn 41 
+3. Numida, Linn. 41 
 
 
 
@@ -1060,7 +1060,7 @@ Fam. IV. Melbaqbid^: . 43
 
 
 
-1. Meleagris, Linn 43 
+1. Meleagris, Linn. 43 
 
 
 
@@ -1352,7 +1352,7 @@ Sub-Fam. 1. Columbinse . . 68
 
 
 
-2. Columba, Linn 68 
+2. Columba, Linn. 68 
 
 
 
@@ -1689,7 +1689,7 @@ Sub-Order II. Didi
 
 
 
-2. Didus, Linn 92 
+2. Didus, Linn. 92 
 
 
 
@@ -1729,7 +1729,7 @@ Sub-Fam. 1. Rallinae ....
 
 
 
-1. Eallus, Linn 
+1. Eallus, Linn. 
 
 
 
@@ -2004,7 +2004,7 @@ Sub-Fam. 2. Fulicinae .... 109
 
 
 
-55. Fulica, Linn 1 09 
+55. Fulica, Linn. 1 09 
 
 
 
@@ -2112,7 +2112,7 @@ Fam. I. Colymbidje .... 115
 
 
 
-1. Colymbus, Linn 115 
+1. Colymbus, Linn. 115 
 
 
 
@@ -2241,7 +2241,7 @@ Sub-Fam. 1. Procellariiua; 120
 
 
 
-1. Procellaria, Linn 120 
+1. Procellaria, Linn. 120 
 
 
 
@@ -2349,7 +2349,7 @@ Fam. IV. DiombdbidjE . . 128
 
 
 
-1. Diomedea, Linn 128 
+1. Diomedea, Linn. 128 
 
 
 
@@ -2397,7 +2397,7 @@ Sub-Fam. 1. Alcinae 130
 
 
 
-2. Alca, Linn 130 
+2. Alca, Linn. 130 
 
 
 
@@ -2499,7 +2499,7 @@ Sub-Fam. 1. Sterninae . . 133
 
 
 
-6. Sterna, Linn ] 34 
+6. Sterna, Linn. ] 34 
 
 
 
@@ -2527,7 +2527,7 @@ Sub-Fam. 2. Rhynchopinse. 138
 
 
 
-12. Rhynchops, Linn 138 
+12. Rhynchops, Linn. 138 
 
 
 
@@ -2551,7 +2551,7 @@ Sub-Fam. 3. Larinaa .... 139
 
 
 
-17. Lams, Linn 139 
+17. Lams, Linn. 139 
 
 
 
@@ -2676,7 +2676,7 @@ dinae 147
 
 
 
-2. Haematopus, Linn 147 
+2. Haematopus, Linn. 147 
 
 
 
@@ -2774,7 +2774,7 @@ Sub-Fam. 4. Charadriinae . 150
 
 
 
-24. Cnaradriua, Linn 152 
+24. Cnaradriua, Linn. 152 
 
 
 
@@ -2846,7 +2846,7 @@ dinee 156
 
 
 
-39. Recurviroatra, Linn 157 
+39. Recurviroatra, Linn. 157 
 
 
 
@@ -2991,7 +2991,7 @@ Sub-Fam. 9. Scolopacinse . 162
 
 
 
-69. Tringa, Linn 164 
+69. Tringa, Linn. 164 
 
 
 
@@ -3015,7 +3015,7 @@ Sub-Fam. 9. Scolopacinse . 162
 
 
 
-75. Scolopax, Linn 166 
+75. Scolopax, Linn. 166 
 
 
 
@@ -3173,7 +3173,7 @@ Sub-Order VII. Otidbs . . 173
 
 
 
-1. Otia, Linn 173 
+1. Otia, Linn. 173 
 
 
 
@@ -3360,7 +3360,7 @@ Fam. I. Psophiid-e .... 181
 
 
 
-1. Psophia, Linn 181 
+1. Psophia, Linn. 181 
 
 
 
@@ -3554,7 +3554,7 @@ Fam. II. Plataleid.*: . . 188
 
 
 
-1. Platalea, Linn 188 
+1. Platalea, Linn. 188 
 
 
 
@@ -3578,7 +3578,7 @@ Sub-Fam. 1. Tantalinae. 189
 
 
 
-1. Tantalus, Linn 189 
+1. Tantalus, Linn. 189 
 
 
 
@@ -3631,7 +3631,7 @@ Page
 
 
 
-10. Mycteria, Linn 191 
+10. Mycteria, Linn. 191 
 
 
 
@@ -3765,7 +3765,7 @@ Hartl 193
 
 
 
-19. Canchroma, Linn 198 
+19. Canchroma, Linn. 198 
 
 
 
@@ -4076,7 +4076,7 @@ Sub-Fam. 7. Anatinae .... 214
 
 
 
-33. Anas, Linn 216 
+33. Anas, Linn. 216 
 
 
 
@@ -4256,7 +4256,7 @@ Sub-Fam. 11. Merginse . . 228
 
 
 
-72. Mergus, Linn 228 
+72. Mergus, Linn. 228 
 
 
 
@@ -4389,7 +4389,7 @@ Fam. II. ODONTOPTEHYGiD-a;. 235
 
 Fam. III. PLOTiDiE .... 236 
 
- 1. Plotus, Linn 236 
+ 1. Plotus, Linn. 236 
 
 
 
@@ -4409,13 +4409,13 @@ Fam. V. Feegatidjb .... 237
 
 Fam. VI. Phaethontid.£:. 238 
 
- 1. Phaethon, Linn 238 
+ 1. Phaethon, Linn. 238 
 
 
 
 Fam. VII. PBLECANiDiE . 238 
 
- 1. Pelecanus, Linn 238 
+ 1. Pelecanus, Linn. 238 
 
 
 
@@ -4952,7 +4952,7 @@ Sub-Fam. 5. Aquilinaj . . 260
 
 
 
-76. Falco, Linn 273 
+76. Falco, Linn. 273 
 
 
 
@@ -5160,7 +5160,7 @@ Fam. II. Steigida;
 
 
 
-1. Strix, Linn 300 
+1. Strix, Linn. 300 
 
 
 
@@ -8258,7 +8258,7 @@ XII. TETRASTES, Keys. u. Bias.
 
 
 
-1. bonasia (Linn,), (p. 90.) 
+1. bonasia (Linn.,), (p. 90.) 
 
 
 
@@ -10796,7 +10796,7 @@ XLH. PHASIANUS, Linn.
 
 
 
-1. colchicus, Linn, (p. 320.) 
+1. colchicus, Linn., (p. 320.) 
 
 
 
@@ -19110,7 +19110,7 @@ XXXV. GE0TRYG0N,
 
 
 
-3. martinica {Linn,.), (p. 570.) 
+3. martinica {Linn.,.), (p. 570.) 
 
 
 
@@ -27592,7 +27592,7 @@ GBNBBA AND SPECIES OP BIEDS
 
 
 
-28. fuscus, Linn, (p. 250.) 
+28. fuscus, Linn., (p. 250.) 
 
 
 
@@ -29950,7 +29950,7 @@ XXXVHL CLADORHYNCHUS, Gray.
 
 
 
-XXXIX. RECURVIROSTRA, Linn/ 
+XXXIX. RECURVIROSTRA, Linn.  
 
  (Sharpe, *. c. p. 326.) 
 
@@ -33696,7 +33696,7 @@ I. PSOPHIA, Linn.
 
 
 
-1. crepitans, Linn, (p. 279.) British Guiana, 
+1. crepitans, Linn., (p. 279.) British Guiana, 
 
 
 
@@ -34670,7 +34670,7 @@ I. TANTALUS, Linn.
 
 
 
-1. loculator, Linn, (p. 321.) 
+1. loculator, Linn., (p. 321.) 
 
 
 
@@ -36553,7 +36553,7 @@ XXXI. ARDETTA, Gray.
 
 
 
-1. minuta (Linn,.), (p. 222.) 
+1. minuta (Linn.,.), (p. 222.) 
 
 
 
@@ -37565,7 +37565,7 @@ IV. PLECTROPTERUS, Staph.
 
 
 
-2. garnbensis (Linn,.), (p. 48.) 
+2. garnbensis (Linn.,.), (p. 48.) 
 
 
 
@@ -40388,7 +40388,7 @@ LEX. (EDEMIA, Fleming.
 
 (Salvad. *. e. p. 399.) 
 
- 1. nigra (Linn,.), (p. 401.) 
+ 1. nigra (Linn.,.), (p. 401.) 
 
 
 
@@ -42661,7 +42661,7 @@ I. SARCORHAMPHTJS, Bum.
 
 
 
-1. gryphus (Linn,.), (p. 20.) Andes of Ecuador, Peru, 
+1. gryphus (Linn.,.), (p. 20.) Andes of Ecuador, Peru, 
 
 
 
@@ -42689,7 +42689,7 @@ II. GYPAGUS,
 
 
 
-1. papa (Linn,.), (p. 22.) Mexico to Panama. 
+1. papa (Linn.,.), (p. 22.) Mexico to Panama. 
 
 
 
@@ -47152,7 +47152,7 @@ p. 90 (1883).
 
 
 
-4. leucocephalus (Linn,.), (p. 304.). 
+4. leucocephalus (Linn.,.), (p. 304.). 
 
 
 
@@ -47311,7 +47311,7 @@ LVII. ELANOIDES, Vieitt.
 
 
 
-1. furcatus (Linn,.), (p. 317.) 
+1. furcatus (Linn.,.), (p. 317.) 
 
 
 
@@ -52989,7 +52989,7 @@ List of the Specimens of Cetacea in the Zoological Depart-
 
 
 
-Catalogue of Ruminant Mammalia (Pecora, Linnseus) in the 
+Catalogue of Ruminant Mammalia (Pecora, Linnaeus) in the 
 
  British Museum. By John Edward Gray, F.R.S., &c. 
 

@@ -748,7 +748,7 @@ Sub-Fam. 4. Psittacinse . . 26
 
 
 
-28. Paittacua, Linn 26 
+28. Paittacua, Linn. 26 
 
 
 
@@ -999,7 +999,7 @@ Sub-Fam. 2. Coraciinee . . 46
 
 
 
-5. Coraciaa, Linn 46 
+5. Coraciaa, Linn. 46 
 
 
 
@@ -1031,7 +1031,7 @@ Sub-Fam. 1. Alcedlninee . 48
 
 
 
-3. Alcedo, Linn 50 
+3. Alcedo, Linn. 50 
 
 
 
@@ -1152,7 +1152,7 @@ Bucorax, Sundev
 
 
 
-Buceros, Linn 
+Buceros, Linn. 
 
 
 
@@ -1258,7 +1258,7 @@ Fam. I. Uptjpid^b 70
 
 
 
-1. Upupa, Linn 70 
+1. Upupa, Linn. 70 
 
 
 
@@ -1310,7 +1310,7 @@ Fam. I. MEBOPiD.ffii 72
 
 
 
-3. Merops, Linn 73 
+3. Merops, Linn. 73 
 
 
 
@@ -1370,7 +1370,7 @@ Fam. I. ToDiDiE 78
 
 
 
-1. Todus, Linn 78 
+1. Todus, Linn. 78 
 
 
 
@@ -1466,7 +1466,7 @@ v, . , 9. Macropaalia, Scl. ........ 81
 
 
 
-20. Oaprimulgua, Linn 84 
+20. Oaprimulgua, Linn. 84 
 
 
 
@@ -2012,7 +2012,7 @@ Seine 136
 
 
 
-105. Trocbilus, Linn 140 
+105. Trocbilus, Linn. 140 
 
 
 
@@ -2108,7 +2108,7 @@ Fam. I. Teoqonid^; . . 146
 
 
 
-5. Trogon, Linn 147 
+5. Trogon, Linn. 147 
 
 
 
@@ -2210,7 +2210,7 @@ Dynamopterus^&e-JSi^o. 155
 
 
 
-6. Cuculus, Linn 158 
+6. Cuculus, Linn. 158 
 
 
 
@@ -2411,7 +2411,7 @@ Sub-Fam. 6. Crotophaginae . 175
 
 
 
-45. Crotophaga, Linn 175 
+45. Crotophaga, Linn. 175 
 
 
 
@@ -2567,7 +2567,7 @@ Fam. I. RHAMPHASTiD.a:
 
 
 
-1. Rbamphastos, Linn 189 
+1. Rbamphastos, Linn. 189 
 
 
 
@@ -2872,7 +2872,7 @@ Page
 
 
 
-45. Pious, Linn 232 
+45. Pious, Linn. 232 
 
 
 
@@ -2900,7 +2900,7 @@ Sub-Fam. 3. Iynginse 236
 
 
 
-50. lynx, Linn 236 
+50. lynx, Linn. 236 
 
 
 
@@ -7676,7 +7676,7 @@ XXXVII. PALiEORNIS, Vig.
 
 (Salvad. Cat. B. Brit. Mus. xx. p. 433, 1891.) 
 
- 1. eupatria (Linn,), (p. 435.) Ceylon. 
+ 1. eupatria (Linn.,), (p. 435.) Ceylon. 
 
 
 
@@ -12659,7 +12659,7 @@ II. BUCEROS, Linn.
 
 
 
-1. rhinoceros, Linn, (p. 352.) 
+1. rhinoceros, Linn., (p. 352.) 
 
 
 
@@ -27300,7 +27300,7 @@ GENEEA AND SPECIES
 
 
 
-4. cristata (Linn,.), (p. 409.) 
+4. cristata (Linn.,.), (p. 409.) 
 
 
 
@@ -32888,7 +32888,7 @@ XV. DENDKOCOPUS, Koch.
 
 
 
-1. major {Linn,.), (p. 211.) 
+1. major {Linn.,.), (p. 211.) 
 
 
 

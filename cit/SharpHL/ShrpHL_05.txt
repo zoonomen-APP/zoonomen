@@ -1739,7 +1739,7 @@ Earn. XXX. Motacillid^ . 137
 
 
 
-1. Motacilla, Linn 137 
+1. Motacilla, Linn. 137 
 
 
 
@@ -1822,7 +1822,7 @@ SYSTEMATIC INDEX.
 
 
 
-12. Alauda, Linn 166 
+12. Alauda, Linn. 166 
 
 
 
@@ -2034,7 +2034,7 @@ Fam. XXXni. Fbingillid^. 188
 
 
 
-35. Friugilla, Linn 225 
+35. Friugilla, Linn. 225 
 
 
 
@@ -2174,7 +2174,7 @@ HartL ^ 241
 
 
 
-69. Loxia, Linn 269 
+69. Loxia, Linn. 269 
 
 
 
@@ -3279,7 +3279,7 @@ Fam. XXXIX. Stuenid.e . 612
 
 
 
-1. Stumus, Linn 512 
+1. Stumus, Linn. 512 
 
 
 
@@ -3524,7 +3524,7 @@ Fam. 5LII. Bcphagid j: . .
 
 
 
-1. Buphaga, Linn 
+1. Buphaga, Linn. 
 
 
 
@@ -3532,7 +3532,7 @@ Fam. XLin. Obiolid^ . .
 
 
 
-1. Oriolus, Linn 
+1. Oriolus, Linn. 
 
 
 
@@ -3690,7 +3690,7 @@ Sub-Fam. 2. Faradiseinae . 571
 
 
 
-14. Paradisea, Linn 572 
+14. Paradisea, Linn. 572 
 
 
 
@@ -26237,7 +26237,7 @@ XXII. LULLULA, Kawp.
 
 
 
-1. arborea {Linn,:), (p. 636.) Bnrope. 
+1. arborea {Linn.,:), (p. 636.) Bnrope. 
 
 
 
@@ -37228,7 +37228,7 @@ LXX. PYRRHULA, Briss.
 
 
 
-1. pyrrhula (Linn,.), (p. 446.) 
+1. pyrrhula (Linn.,.), (p. 446.) 
 
  (Hartert, t. u. p. 93.) 
 
@@ -50683,11 +50683,11 @@ Central America
 
 * Mr. Eidgway suggests that the name of this species should be P. eryihromdas 
 
- of Vieillot, as Linnseus's name Tanagra rubra, 1766, is ante-dated by Fringilla rubra 
+ of Vieillot, as Linnaeus's name Tanagra rubra, 1766, is ante-dated by Fringilla rubra 
 
  of Linnaeus (1758). In common with most British Naturalists, I do not recognise 
 
- the names in the 10th edition of Linnasus's ' Systema,' and I follow Dr. Sclater in 
+ the names in the 10th edition ofLinnaeus's ' Systema,' and I follow Dr. Sclater in 
 
  preserving the name of P. rubra (Linn.) for the species. 
 
@@ -106070,7 +106070,7 @@ No. 1. — Guide to an Exhibition of Old Natural History Books,
 
  illustrating the origin and progress of the Study of 
 
- Natural History up to the time of Linnteus. [By B. B. 
+ Natural History up to the time of Linnaeus. [By B. B. 
 
  Woodward.] Pp. 37. 1905, 8vo. M. 
 

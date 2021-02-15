@@ -1328,7 +1328,7 @@ o. Cirrhopipra, Bp 152
 
 
 
-9. Pipra, Linn 153 
+9. Pipra, Linn. 153 
 
 
 
@@ -1726,7 +1726,7 @@ XI
 
 Page 
 
- ,11. Muscjcapa, Linn 211 
+ ,11. Muscjcapa, Linn. 211 
 
 
 
@@ -21145,7 +21145,7 @@ Colombia.
 
 
 
-7. maynana (Linn,.), (p. 386.) 
+7. maynana (Linn.,.), (p. 386.) 
 
 
 
@@ -27476,7 +27476,7 @@ New Caledonia.
 
 
 
-17. insulaxis, Eamsay, Pr. Linn, Soc. N. S. W. iii. Lord Howe Isl. 
+17. insulaxis, Eamsay, Pr. Linn., Soc. N. S. W. iii. Lord Howe Isl. 
 
  p. 117 (1878). 
 
@@ -54203,7 +54203,7 @@ List of the Specimens of Cetacea in the Zoological Depart-
 
 
 
-Catalogue of Ruminant Mammalia (Pecora, Linnasus) in the 
+Catalogue of Ruminant Mammalia (Pecora,Linnaeus) in the 
 
  British Museum. By John Edward Gray, F.R.S., &c. 
 
