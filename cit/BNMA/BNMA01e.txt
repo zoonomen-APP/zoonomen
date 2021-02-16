@@ -23,7 +23,7 @@ At Sapsucker Woods
 
 
 
-Illusrracion of Snowy Owl by Louis Agassis Fuertes 
+Illustration of Snowy Owl by Louis Agassis Fuertes 
 
 
 
@@ -56,7 +56,7 @@ http://www.archive.org/details/cu31924090256870
 
 
 
-SMITHSOISriAM INSTITUTION. 
+SMITHSOINIAN INSTITUTION. 
 
 
 
@@ -107,7 +107,7 @@ The publications of the National Museum consist of two series: the
 
 
 
-The Bulletin^ publication of which was commenced in 1875, is a series 
+The Bulletin's publication of which was commenced in 1875, is a series 
 
  of elaborate papers, issued separately' and based for the most part upon 
 
@@ -167,7 +167,7 @@ Papers intended for publication by the National Museum are usually
 
 S. P. Langley, 
 
- Secretary of the SmitJisoniati Institution. 
+ Secretary of the Smithsonian Institution. 
 
 
 
@@ -184,11 +184,11 @@ NORTH AND MIDDLE AMERICA;
 
 
 
-A DESCRIPTIVE GATALOaUE 
+A DESCRIPTIVE GATALOGUE 
 
 
 
-HIGHEK GEOUPS, GENERA, SPECIES, AND SUBSPECIES OF BIRDS 
+HIGHER  GROUPS, GENERA, SPECIES, AND SUBSPECIES OF BIRDS 
 
 
 
@@ -220,7 +220,7 @@ Paet I.
 
 
 
-Family FRINGILLIDJl— The Finches. 
+Family FRINGILLIDAE— The Finches. 
 
 
 
@@ -228,7 +228,7 @@ WASHINGTON:
 
 
 
-GOVERNMENT FEINTING OFFICE. 
+GOVERNMENT PRINTING OFFICE. 
 
 
 
@@ -532,7 +532,7 @@ The question of whether a given form should be considered as a
 
  and the author holds that no conclusion in such a matter should be 
 
- accepted unless based upon an amount of material and careful invest! 
+ accepted unless based upon an amount of material and careful investi 
 
  gation equal to that bestowed by the original describer. 
 
@@ -546,7 +546,7 @@ Recognizing the fact that in the present stage of zoological nomen-
 
  dence. He has not, however, often done so on theoretical grounds, 
 
- because, in the first place, the facts when known may or maj^ not 
+ because, in the first place, the facts when known may or may not 
 
  justify the step, and in the second because a binomial is preferable to 
 
@@ -554,9 +554,8 @@ Recognizing the fact that in the present stage of zoological nomen-
 
 
 
-1 As set forth in the Check List of North American Birds (editions of 1886, 1889, 
-
- and 1895) and various supplements to the same. 
+1 As set forth in the Check List of North American Birds 
+(editions of 1886, 1889, and 1895) and various supplements to the same. 
 
 
 
@@ -767,7 +766,7 @@ XII PREFACE.
 
 
 
-"science is not litei-ature," neither has it any concern with what an 
+"science is not literature," neither has it any concern with what an 
 
  author should have done or meant to do, but only with what he 
 
@@ -1072,7 +1071,7 @@ Measurements are in millimeters, and are made in the following
 
 
 
-' Specimens of conspicuously extended or abbreviated make liave, however, been 
+' Specimens of conspicuously extended or abbreviated make have, however, been 
 
  excluded from measurement. 
 
@@ -1316,7 +1315,7 @@ Key to the Superfamilies of the Suborder Eleutherodactyli 16
 
 
 
-SUPERFAMILY OsCINES 17 
+SUPERFAMILY OSCINES 17 
 
 
 
@@ -1324,11 +1323,11 @@ Key to the Families of Oscines 18
 
 
 
-Family FringillidjE 24 
+Family Fringillidae 24 
 
 
 
-Key to the Genera of Fringillidre 28 
+Key to the Genera of Fringilliae 28 
 
 
 
@@ -1469,7 +1468,7 @@ Key to the Species and Subspecies of Acanthis 80
 
 
 
-21. Acanthis hornemannii exilipes (Cones) - 82 
+21. Acanthis hornemannii exilipes (Coues) - 82 
 
 
 
@@ -1481,7 +1480,7 @@ Key to the Species and Subspecies of Acanthis 80
 
 
 
-24. Acanthis linaria rostrata (Cones) - - • 91 
+24. Acanthis linaria rostrata (Coues) - - • 91 
 
 
 
@@ -1565,7 +1564,7 @@ Key to the Species and Subspecies of Astragalinus 108
 
 
 
-39. Astragalinus psaltria arizonse (Cones) 115 
+39. Astragalinus psaltria arizonse (Coues) 115 
 
 
 
@@ -1694,23 +1693,23 @@ Genus 14. Oalarius Bechstein 154
 
 
 
-Key to the Species and Subspecies of Oalcarius 155 
+Key to the Species and Subspecies of Calcarius 155 
 
 
 
-62. Oalcarius lapponicus lapponicus (Linnaeus) 165 
+62. Calcarius lapponicus lapponicus (Linnaeus) 165 
 
 
 
-63. Oalcarius lapponicus alascensis Ridgway 158 
+63. Calcarius lapponicus alascensis Ridgway 158 
 
 
 
-64. Oalcarius pictus (Swainson) 160 
+64. Calcarius pictus (Swainson) 160 
 
 
 
-65. Oalcarius ornatus (Townsend) 162 
+65. Calcarius ornatus (Townsend) 162 
 
 
 
@@ -31414,7 +31413,7 @@ Passerculus guttatua (not of Lawrence) CouEsand Streets, BulL U. S. Nat. Mus.,
 
 no. 7, 1877, 10, excL syn. (San Benito I., Lower California; crit.). 
 
- Passermlus sanctorum Cones Ridgway, Proc. TJ. S. Kat. Mus., v, sig. 34, Mar. 
+ Passermlus sanctorum Coues Ridgway, Proc. TJ. S. Kat. Mus., v, sig. 34, Mar. 
 
 
 
@@ -43457,7 +43456,7 @@ Junco annectens (part) Baied, in Cooper's Orn. Cal., 1870, 564 (Fort Bridger,
 
 
 
-J.lunco} annectens Teippe, in Cones' Birds N. W., 1874, 145 (Idaho .Springs, 
+J.lunco} annectens Teippe, in Coues' Birds N. W., 1874, 145 (Idaho .Springs, 
 
  Colorado ; crit. ) . 
 
