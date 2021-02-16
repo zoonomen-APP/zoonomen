@@ -1917,7 +1917,7 @@ Columbia, p. 10 (1850) (Sumatra); Wall. Ibis, 1805, p. 374
 
 p. 60 (1873) (Java); Gieb. The*. Orn. iii. p. 031 (1877). 
 Spkenocercus korthalsi, Bp. Consp. Av. ii. p. 9 (1854) (Malasia, 
-Sumatra); id. Compt. Bend, xxxix. p. 878 (1834), xl. p. 210. n. 11 
+Sumatra); id. Compt. Rend. xxxix. p. 878 (1834), xl. p. 210. n. 11 
 (1855); id. Coup d'cril Ordr. Pig. pp. 5, 54, n. 11 (18-55) ; 
 llchnb. Tauhm, i. p. Il l (18(52), ii. p. 182, Kov. Suppl. t. v. f. 58 
 (1862) (ex Knip); Jerd. B. of 'Ind. iii. p. 454 (1864) ; G. R. Gr. 
@@ -2603,7 +2603,7 @@ yii. p. J17 (1881) (N.E. Afr.); Bohm, J.f. 0. 1882, p. 199 (Centr.
 Afr.), 1883, p. 199 ; Bohm # Schal. J.f. 0.1886, pp. 416,4^0,423; 
 MaUchie, J. f. 0.1887, p. 146; Schal. J. f. 0.1887, p.228 j Bchuo. 
 J.f. 0.1892, p. 16. 
-Phalacrotreron calva, Bp. Consp. Av. ii. p. 6 (1854); id. Compt. Bend. 
+Phalacrotreron calva, Bp. Consp. Av. ii. p. 6 (1854); id. Compt. Rend. 
 xl. p. 216, n. 4 (1855); id. Coup cCceil Ordre Big. p. 54, n. 4 
 (1855) ; id. Icon. Pig. pi. 3 (head) (1857); Behnb. Tauben, i. p. 107 
 t. 240 b. f. 3370, t. *42. f. 1347 (ex Jard. $ Selby), ii. p. 181, t. v. 
@@ -2621,7 +2621,7 @@ Mand-list, ii. p. 224, n. 9113 (1870); Sousa, Mus. Nac. Lisb. Columbae,
 p. 5 (1873) (Bissao, Casamance, Angola); Oust. Bull. Soc. 
 Philom. (7) i. p. 106 (1877). 
 Vinago pytiriopsis, Verr. MS. ?, unde 
-Phalacrotreron pytiriopsis, Bp. Compt. Bend, xxxix. p. 873 (1854). 
+Phalacrotreron pytiriopsis, Bp. Compt. Rend. xxxix. p. 873 (1854). 
 Treron nudifrons, Meugl. MS. in Mus. Stuttg. (Slave Coast); Bocage, 
 
 
@@ -4622,7 +4622,7 @@ Treron pompadora, part., StrickL Ann. fy Mag. N. II. xix. p. 48 (note)
 
 Osmotreron 
 malabarica, part., Bp. Consp. Av. ii. p. 13 (1854); id. 
-Compt. Bend, xxxix. p. 875 (1854), xl. p. 216, n. 24 (1855); id. 
+Compt. Rend. xxxix. p. 875 (1854), xl. p. 216, n. 24 (1855); id. 
 Coup tfocil Ordr. Big. pp. 6, 54, n. 24 (1855); id. Icon. Pig. pi. xii. 
 
 * As Jerdon himself has given up the name affinis, I think we must use the 
@@ -7145,7 +7145,7 @@ Sousa, Mas. JSac. Zisb. Columbse, p. 7 (1&73) j Salmd. Ann, 31us*
 Civ. Gen. ix. p. 670 (1875); Meyer, Ibis, 1879, p. 135; Bias. 
 
 J. f. 0. 1883, p. 138; id. Zeitsehr.f. ges. Orn. iii. p. 131 (1886). 
-Trerolsema gularis, Bp. Compt. Bend. xli. p. 24 (1855); G. R.'Gr. 
+Trerolsema gularis, Bp. Compt. Rend. xli. p. 24 (1855); G. R.'Gr. 
 Hand-list, ii. p. 230, n. 0203 (1870); Schieid, Cat. p. 22 
 (1878). 
 
@@ -7317,7 +7317,7 @@ Wall. Ibis, 1805, p. 378; id. J.f. 0.1866, p. 278; Sahad. Ucc.
 Bom. p. 289 (1874) : Sharpe, Ibis, 1877, p. 23 ; Hume, Str.Feath. 
 
 viii. p. 67 (1878); Vorderm. N. T. N. I1. p. 503 (1890) (Billiton). 
-Jtamphiculus jambu, Bp. Consp. ii. p. 17 (1854); id. Compt. Bend. 
+Jtamphiculus jambu, Bp. Consp. ii. p. 17 (1854); id. Compt. Rend. 
 xxxix. p. 878 (1854), xl. p. 216, n. 35; id. Coup a"ceil Ordr. Pig. 
 pp. 10, 54, ii. 35 (1855); Moore, P. Z. 8. 1859, p. 465 (Pinang 
 and Malacca) ; G. JR. Gr. Rand-list, ii. p. 227, n. 9150 (1870); 
@@ -8525,7 +8525,7 @@ Kunikaru clementinse, JDes Murs et Preu. Toy. Vtnus^ Ok. p. 2t*4
 Ptilopus clementinse, part., Bp. Camp. Av. ii. p. 22 (1854); id. Icon. 
 Pig. pL xxii. f. 1 (Samoa), pi. xxiv. f. 2, juv. (1857). 
 Ptilopus apicalis, Bp. Consp. Av. ii. p. 23 (1854) (Vavao (!), Samoa): 
-id. Compt. Bend. xxix. p. 87G (L^54), xl. p. 216, n. 43 (1855); id. 
+id. Compt. Rend. xxix. p. 87G (L^54), xl. p. 216, n. 43 (1855); id. 
 Coup (Pail Ordr. Pig. pp. 0, 54, n. 43 (1K>5); Gieh. Thes. Orn. iii. 
 
 p. 362 (1877)5 Elliot, P. Z. S. 1878, p. 527; Tristr. Cat. Coll. B. 
@@ -12018,7 +12018,7 @@ Nae. Lisb. Columbas, p. 9 (1873).
 " Treron jonogaster, Bchnb." Bp. (errore) /. c. 
 Jotreron hyogaster, Bp. Co?npt. Bend, xxxlx. p. 878 (1854J; id. 
 Coup d'ceil Ordre Pig. p. 10 (1855). 
-Jotreron iogastra. Bp. Compt. Bend. xl. p. 217^ n. 50; id. Coup 
+Jotreron iogastra. Bp. Compt. Rend. xl. p. 217^ n. 50; id. Coup 
 (Tail Ordre Pig. p. 55, n. 56 (1855). 
 Ionotreron ionogastia, Rthib. Tauben, i. p. 100, n. 234. t. 239.ff. 133->33 
 (1862). 
@@ -12223,7 +12223,7 @@ p. 360; Wall P. Z. S. 1863, p. 34; id. Ibis, 1865, p. 381, n. 39;
 Finsch, Seu-Gum. p. 17 (1865); Wall. X f. O. 1866, p. 279, 
 
 n. 39; Salmd, Ann. Mu$. Civ. Gen. viii p. 383 (Bouru) (1876). 
-Jotreron viridis, Bp. Consp. Ai\ ii. p. 24 (1854) ; id. Compt. Bend. 
+Jotreron viridis, Bp. Consp. Ai\ ii. p. 24 (1854) ; id. Compt. Rend. 
 
 xxxix. p. 878 (1854), xl. p. 217, n. 53; id. Coup d'ceil Ordre Pig. 
 pp. 10, 55, n. 53 (1855); Lenz, J. f. O. 1877, p. 377; Bein. ty 
@@ -12464,7 +12464,7 @@ Type.
 Chryssena, Bp. Consp. Av. ii. p. 28 (1854) C. luteovirens. 
 Chrysotreron, Bp. in h'tt (ibid.). 
 Chryscenas, Bp. in iitt. (ibid.). 
-Chryscena, Bp. Compt. Bend, xxxix. p. 879 (1854). 
+Chryscena, Bp. Compt. Rend. xxxix. p. 879 (1854). 
 
 Range. Confined to the Fiji Islands. 
 
@@ -12732,7 +12732,7 @@ h, i. Ad. et imrn. Kandavu. Salvin-Godinan Coll.
 sk. 
 
 10. DREPANOPTILA. Tjpe> 
-Drepanoptila, Bp. Compt. Bend. xii. p. 658 (1855) ... . D. holosericea. 
+Drepanoptila, Bp. Compt. Rend. xii. p. 658 (1855) ... . D. holosericea. 
 Drepanoptera {errore ?), Bp. Compt. Rend, xliii. p. 948 
 (1850) D. holosericea. 
 Calyptomensenas, Vetr. fy Des Murs, Rev, et Mag. de 
@@ -12769,7 +12769,7 @@ cPceil Ordr. Pig. j)j). 8, 54, n. 38 (1855); Verr. § Des Murs, Rev.
 et Mag. de Zool. 1862, p. 135 ; Jouan, Mem. Soc. 8c. Ned. Cherb. 
 
 ix. p. 230 (1863). ^ 
-Drepanoptila holosericea, Bp. Compt. Bend. xli. p. 668 (1855), xliii. 
+Drepanoptila holosericea, Bp. Compt. Rend. xli. p. 668 (1855), xliii. 
 p. 834 (1856); Bchnh. Tauben, i. p. 98, t. 236 B. f. 3365 (1862), ii. 
 p. 179 (1862); G.B. Or. Hand-list, ii. p. 227, n. 9156 (1870) ; 
 Marie, Act. Soc. Linn. Bord. xxvii. p. 328 (1870); id. Ibis, 1877, 
@@ -12777,7 +12777,7 @@ p. 362; Elliot, P. Z. 8. 1878, p. 513, f. 6 (wing) ; E. L. Bayard,
 Ibis, 1880, p. 339 (gizzard), 1881, p. 172 (nest and eggs), 1882, 
 pp. 527, 544; Tristr. Cat. Coll. B. p. 45 (1889); Wiglesw. Aves 
 Pohjnes. p. 47 (1891). 
-Drepanoptera holosericea, Bp. Compt. Bend, xliii. p. 948 (1856). 
+Drepanoptera holosericea, Bp. Compt. Rend. xliii. p. 948 (1856). 
 Trygon holosericeus, Rchb.(erro7*e),Gray, List B.Brit. Mxts.Oolumbae, 
 p.~8 {in syn. P. holoserica) (1856). 
 
@@ -12850,14 +12850,14 @@ Ois. vi. p. 32 (1854) A. madagascariensis.
 Chlanrydaena, Bp. Ann. Sc. Nat. (4) i. p. 130, 
 
 n. 1646 (1854); id. Consp. Av. ii. p. 29 (1854). 
-Chlamydcena, Bp. Compt. Bend, xxxix. p. 879 
+Chlamydcena, Bp. Compt. Rend. xxxix. p. 879 
 (1854) A. nitidissima. 
 Funingus, Bp. Consp. Av. ii. p. 29 (1854). 
 Erythraena, Bp. Consp. Ao. ii. p. 30 (1854) A. pulcherrima. 
 Erythrcena, Bp. Compt. Rend, xxxix, p. 880 
 
 (1854). 
-Erythrotreron, Bp. (?) Compt. Bend, xxxix. 
+Erythrotreron, Bp. (?) Compt. Rend. xxxix. 
 
 p. 880 (1854) ( = Erythrcena). 
 Ervthrolsema, Bp. (1854), fide G.B. Gr. List 
@@ -12872,7 +12872,7 @@ a. Tail blue, like the back; neck and breast
 grey 
 a'. Crown red pulcherrima, p. 161. 
 
-* Bonaparte (Compt. Bend, xliii. p. 834) states that Lesson established the 
+* Bonaparte (Compt. Rend. xliii. p. 834) states that Lesson established the 
 genus Cohmibigatlus in 1837, but I have not been able to find where. 
 t ALECTROBNAS ? BODERICANA. 
 
@@ -13424,7 +13424,7 @@ Bend, xxxix. p. 1077 (1854) ; id. Coup d'ceil Ordr. Fig. p. IS
 Carpophaga puella, Cass, (nee Less.) Pr. Ac, Nat. Se. Philad. 1854, 
 
 p. 231. 
-? Megaloprepia assimilis, Bp. Compt. Bend. In. p. 217, n.— (?) (Coup 
+? Megaloprepia assimilis, Bp. Compt. Rend. In. p. 217, n.— (?) (Coup 
 deed Ordr. Pig, p. 55, n. — Y) (1855), xli. p. &~$ (1855), xliii. 
 
 p. 836 (1856) ; Behib. Taub. i. p. 102, n. 239 (lbt>2), ii. p. 203, 
@@ -14250,7 +14250,7 @@ Orn. i. p. 584 (1872); Salrad, Monogr. sottagen. Globicera, p. 15
 (1878> ; id. Ibis, 1879, p. 364; Wiglesw. Aves Polyues.-p.o2,Ji. 2C8 
 (1891). 
 
-Globicera aurorse, Bp. Consp. Av. ii. p. 32 (1854); id. Compt. Bend. 
+Globicera aurorse, Bp. Consp. Av. ii. p. 32 (1854); id. Compt. Rend. 
 
 xxxix. p. 1072 (1854), xl. p. 217, n. 79 (1855): id. Coup dmil 
 Ordr. Piq. pp. 13, 55, n. 79 (1855), xliii. p. 835 (1850); Bchib. 
@@ -14824,7 +14824,7 @@ f. 3360 (1862), ii. p. 199, Novit. SuppL t. vi. f. 69 (1862); ? Smsa,
 Mm, Mac. Lisb. Columbse, p. 10 (1873) (Mindanao I). 
 Carpophaga rufinuchalis, Cass. Pr. Ac, Nat. Sc. Philad. 1854, p. 228 
 (1854). 
-Carpophaga paulina, Bp. Compt. Bend. xli. p. 247 (1855),xliiL p. 836 
+Carpophaga paulina, Bp. Compt. Rend. xli. p. 247 (1855),xliiL p. 836 
 (1856) ; G. B. Gr. List B. Brit Mm. Columbse, p. 17 (1856); Wall 
 
 P. Z. S. 1862, p. 345 (Sula Isl.); id. Ibis, 1805, pp. 385,398 j Finsck, 
@@ -14844,7 +14844,7 @@ J. f. 0.1833, p. 139 ; Sclat. List Vert. An. 8th ed. p. 443 (1883);
 Gidllem. P. Z. S. 1885, p. 557 (Talisse Isl.); Bias. Zeitschr. f. d. 
 ges. Orn. ii. p. 306 (1885), iii. p. 132 (1886); Tristr. Cat. Coll. B. 
 p. 42 (1889). 
-Garpophaga rufinucha, Bp. Compt. Bend. xli. pp. 247, 658 (1855), 
+Garpophaga rufinucha, Bp. Compt. Rend. xli. pp. 247, 658 (1855), 
 xliii. p. 836 (1856). 
 Dueula rufmuchalis, G. R. Gr. Sand-list, ii. p. 230, n. 9200 (1870). 
 Garpophaga sylvatica, Sclat. (nee Tickell) P. Z. S. 1874, p. 695, 
@@ -15658,7 +15658,7 @@ p. 443 plakira); Earns. Pr. Linn. Soc. N.S. W. iv. p. 72 (1879)
 iii. pp. 86, 55S (1882); Tristr. Ibis, 1882, p. 144; id. Cat. Coll. 
 B. p. 42 (1889) ; Salvad. Mem. B. Ac. Sc. Tor. xlii. p. 56 (Agg. 
 Orn. Pap. e Mol. p. 182) (1891); Tristr. Ibis, 1892, p. 298. 
-Ducula pistrinaria, Bp. Consp. Av. ii. p. 36 (1854); id Compt. Bend. 
+Ducula pistrinaria, Bp. Consp. Av. ii. p. 36 (1854); id Compt. Rend. 
 
 xl. pp. 215, 217, n. (J6 (1855); id. Coup d'ceil Ordr. Pig. pp. 53r 
 55, n. 96 (1855); id. Compt Bend. xli. p. 658 (1855); Behb. 
@@ -15930,7 +15930,7 @@ h. Ad. sk. [Waigiou] (Wallace). Gould Coll.
 Carpophaga senea. Peak (nee Linn.) U.S. Expl JSxped., Zool. p. 198 
 (1848) (Mangsi); Marti. Archivf, Naturg. 1852, p. 115 (part.). 
 Carpophaga pickeringii, Cass. Pr. Ac. Nat. Sc. Philad. vii. p. 228 
-(Mangsi) (1854); Bp. Compt. Bend, xliii. p. 835 (1856); Cass. 
+(Mangsi) (1854); Bp. Compt. Rend. xliii. p. 835 (1856); Cass. 
 Tin. St. JSxpi. Bxp. 2nd ed. p. 267, pi. xxvii. (1858) ; Rchnb. 
 Tauben, ii. p. 184, Novit. SuppL t. vi. f. 72 (1862); Wald. Tr. 
 Zool Soc. ix. p. 215 (1875); Sharpe, Tr. Linn. Soc, Zool. i. p. 353 
@@ -16019,7 +16019,7 @@ latrans, Peale, U.S. Rxpl Exped. p. 200, pi. 55
 203 
 
 1854, p. 169; Cass. Pr. Ac. Nat Sc. Philad. 1854, p. 229; Bp. 
-Consp. Av. ii. p. 33 (1854); id. Compt. Bend, xxxix. p. 1074 
+Consp. Av. ii. p. 33 (1854); id. Compt. Rend. xxxix. p. 1074 
 (1854), xl. p. 217, n. 86 (1855); id. Coup oVmil Ordr. Big. 
 pp. 15, bo, n. 88 (1855); Cass. Tin. St. Expl Exp. 2nd ed. p. 261, 
 pi. xxvi. (1858); G. B. Gr. Cat. B. Trop. Isl. p. 42 (1859) : 
@@ -16130,7 +16130,7 @@ Civ. Gen. (2) x. p. b25 (1891); id. Mem. B. Ac. Sc. Tor. (2) xiiL
 p. 56 {Ayy. Orn. Pap. e MoL p. 182) (1*91}. 
 Zoncenas zoea, 
 Bchnb. Ai\ Syst. Xat. p. \\\i (1855) ; Bp. Consp. 
-Av. ii. p. 37 (1854); id. Compt. Bend, xxxix. p. 1076 (1854), 
+Av. ii. p. 37 (1854); id. Compt. Rend. xxxix. p. 1076 (1854), 
 
 xl. p. 217, n. 103 (1855) ; id. Coup d'ml Ordr. Pig. pp. 17, 55, 
 n. 103 (1855); JRosenb. W. T. X L xxv. p. 249, n. 231 (1863); 
@@ -16596,7 +16596,7 @@ p. 407 (1879); Salmd. Orn. Pap. e Mol. iii. p. 96 (1882); Pleske,
 Bull. Acad. Petersb. xxix. p. 535 (1884) (Ternate); Guillem, 
 P. Z. 8. 1885, p. 575 (Batchian); Salmd. Mem. B. Ac. 8c. Tor. 
 (2) xlii. p. 56 (Agg. Orn. Pap. e Mol p. 182) (1891). 
-Ducula basilica, Bp. Chn*p. Av. ii. p. 35 (1854); id. Compt. Bend. 
+Ducula basilica, Bp. Chn*p. Av. ii. p. 35 (1854); id. Compt. Rend. 
 xxxix. p. 
 1076 (1854), xL p. 217, n. 95 (1855); id. Coup d'ceil 
 p 2 
@@ -18285,7 +18285,7 @@ pi. 61 fpt. y., 1841J ; id. List Gen. B. 2nd ed. App.
 p. 12 (1842) , L. antarcticus. 
 Lopkolteraus, Aqassiz, KomencL ZooI.f Aves, p. 43 
 (1846). 
-LopholGenaiis, Bp. Compt. Bend. xl. p. 218 (1855). 
+LopholGenaiis, Bp. Compt. Rend. xl. p. 218 (1855). 
 Range. Eastern Australia, from Cape York to Tasmania. 
 
 
@@ -19286,7 +19286,7 @@ Pig. ii. pi. 50 (1888-43); G, P. Gr. Gen. B. ii. p. 470, n. 19
 (1844); id. Cat Hodgs. Coll B. M. p. 122 (1846); Blyth, J. A. 
 8. B. xiv. p. 804 (1845); id. Ann. $ Mag. K H. xix. p. 105 
 (1847); id. Cat. B. Mus. A. S. B. p. 234, n. 1418 (1849); JBp. 
-Consp. Av. ii. p. 40 (1854); id. Compt. Bend, xxxix. p. 1106 
+Consp. Av. ii. p. 40 (1854); id. Compt. Rend. xxxix. p. 1106 
 (1854), xl. p. 218, n. 131 (1855); id. Coup d'ceil OrdrePig. pp. 22, 
 m, n. 131 (1855); Hodgs. P. Z. 8.1855, p. 126; G. R. Gr. List 
 B. Brit. Mus. Columbse, p. 29 (1856); 8undev. Svenska Foglama, 
@@ -19798,7 +19798,7 @@ Columba dubia, Brehm, Vogelfang, p. 256 (1855).
 
 Golumba plumipes, G, R. Gr. List B. Brit. Mus. Columbse, p 29 
 
-(Persia) (1856) (var, sernidom. ? descr. nulla): Bp. Compt. Bend. 
+(Persia) (1856) (var, sernidom. ? descr. nulla): Bp. Compt. Rend. 
 
 xliii. p. 838 (1856). 
 Palurubus livia, Heugl Syst. Uebers. p. 49 (1856). 
@@ -19924,7 +19924,7 @@ Columba livia, Saui, Or a. Tota. ii. p. 1150, with figure (1829) (nee Hi.
 
 p. 227,1831). 
 Columba turricola, Bp. Consp. Av. ii p. 47 (l^r>!) (Ttalr and Persia); id. 
-Compt. Bend, xxsix. p. 1107 (Italy and Persia) (1854), xl. p. 218, n. 133 
+Compt. Rend. xxsix. p. 1107 (Italy and Persia) (1854), xl. p. 218, n. 133 
 (1855); id. Cmip d'ml Ordre PUf. pp. 23, «%, n. 133 (l$x>); 8und>u. 
 Smmfca Fofflarna, p. 1C8 (IS5li); #<•*«*. TkiAw, i. p. 57 (l&te); 
 ? 2>iafr. Eksn 1868, pp. 209, 210 (Palestine); G. It Or. Hmd4kt> ii. 
@@ -20048,7 +20048,7 @@ p. 168 (1856); Locke, Expl. 8c. Alger, ii. p. 112 (1857); Marti
 St/st. Orn. W.-Afr. p. 193 (1857) ; id. J.f. 0.1861, p. 266 (good 
 species); Rehrib. Tauben, i. p. 57 (1862); G. B. Gr. tfand4ist. ii. 
 p. 232, n. 9232 (1870); Sound. Tarr. Brit. B. Hi. p. 15(1882). 
-Columba senegalensis [Bp.~\, Mm. Ber.; id. Compt. Bend, xliii. 
+Columba senegalensis [Bp.~\, Mm. Ber.; id. Compt. Rend. xliii. 
 p. 948 (1856); "Iddkt*JldeBcJinb. Tauben, p. 57 (1862). 
 ? Columba livia, var. schimperi, Oicst. (nee Bp.) Nouv. Ai'ch. Mm. (2) 
 ii. p. 156 (1879) (Loss Islands); Kartl J.f. 0.1879, p. 189. 
@@ -21761,7 +21761,7 @@ Bendire, Life Mist S. Am. Birds, p. 131 (1892); CAapm. Butt.
 Am. Mus. S. B. iv. p. 291 (1892). 
 White-crowned Pigeon, Lath. Syn. ii. 2, p. 616, n. 5 (1783). 
 Patagicenas leucocephala, Mchnb. Av. Syst. Sat p. xxv (1852); Bp. 
-Comp. Av. ii. p. 54 (1854); id. Compt. Bend, xxxix. p. 1110 (1854), 
+Comp. Av. ii. p. 54 (1854); id. Compt. Rend. xxxix. p. 1110 (1854), 
 
 xl. p. 218, n. 152 (1855) ; id. Coup dml Ordre Pig. pp. 20, 56, 
 n. 152 (1855); Cab. 8f GundlJf. O. 1856, p. 107; Burm, Syst. 
@@ -22650,7 +22650,7 @@ Temm. (%ec Mol.) Big. et Gall. I pp. 359, 488
 (1813); Steph Gen. Zool. xi. p. 101 (1819); Bern. Bid. Be. Nat. xl. 
 
 p. 375 (1826). n 7 
-Chloroenas sylvestris, Bp. Consp. Av< ii. p. 52 (1854); id. Compt. Bend. 
+Chloroenas sylvestris, Bp. Consp. Av< ii. p. 52 (1854); id. Compt. Rend. 
 xxxix. p. 1108 (1854), xl. p. 218, n. 147 (1855); id. CouptfmilOrdre 
 Big. pp. 25, 56, n. 147 (1855); G. B. Gr. Hand4. B. ii. p. 235, n. 928 
 (1870); Hein. $ Bchiw. Nbmencl. Mus. Eein. Orn. p. 277 (Bio Grande 
@@ -23154,7 +23154,7 @@ p. 448 (1883); Berl. $ Tacz. P. Z. S. 1884, p. 311 (W. Ecuador)
 Chlorcenas albilinea, 
 Bp. Consp. Av. ii. p, 51 (1854); id. Compt. 
 Rend, xxxix. p. 1108 (1854), xl. p. 218, n. 142 (1855); id. Coup 
-d'ceil Ordre Pig. pp. 24, 56, n. 142 (1855); id. Compt. Bend, xliii. 
+d'ceil Ordre Pig. pp. 24, 56, n. 142 (1855); id. Compt. Rend. xliii. 
 
 p. 838 (1856); Sclat. P. Z. S. 1855, p. 103; Bchnb. Tauben, i. p. 61 
 (1862), ii. p. 171; Kovit Suppl t. ii. ff. 17,18 (1862); Soasa, Mus. 
@@ -23317,7 +23317,7 @@ Columba trocaz, part., G. It Gr. Gen. B. ii. p. 470, n. 27 (1844); id.
 ListB. Brit. 3Ius. Columbae, p. 27 (part.) (1856). 
 Trocaza laurivora, part., Bp. Consp. Av. ii. p. 45 (1854); ib. Compt. 
 Bend, xxxix. p. 1104 (1854), xl. p. 218, n. 127 (1855); id. Coup 
-$o?il Ordre Pig. pp. 20, 58, n. 127 (1855); id. Compt. Bend, xliii. 
+$o?il Ordre Pig. pp. 20, 58, n. 127 (1855); id. Compt. Rend. xliii. 
 
 p. 837 (Mus. Brit.) (1850); id. Icon. Pig. pi. 69 (1857). 
 Trocaza trocaz, part., G. It Gr. Hand-list, ii. p. 233, n. 9249 (1870). 
@@ -23741,9 +23741,9 @@ y. Ad. sk. Nepal. B. II. Hodgson, Esq.
 Palumbus elphinstonii,var., Blyth, J. A. S. B. xx. p. 178 (1851). 
 
 Palumbus tomngtonii, Kelaart, Pr. Faun. Zeyl p. 107 (1852) • Bp. 
-Co?isp. Av. ii. p. 42 (1854); id. Compt. Bend, xxxix. p. 1103 
+Co?isp. Av. ii. p. 42 (1854); id. Compt. Rend. xxxix. p. 1103 
 (1854), xl. p. 218, n. 117 (1855); id. Coup d'ceil Ordr. Pig. pp. 20, 
-56, n. 117 (1855); id. Compt. Bend, xliii. p. 837 (1856); Bchnb. 
+56, n. 117 (1855); id. Compt. Rend. xliii. p. 837 (1856); Bchnb. 
 Tauben, i. p. 52 (1862); Jerd. B. Ind. iii. p. 466 (1864) j Blyth, 
 Ibis, 1867, p. 306; G. R Gr. Rand-list, ii. p. 233, n. 9247 (1870) ; 
 Hume, Nests $ Eggs, iii. p. 499 (1875): id. Str. F.yii. p. 424 
@@ -24539,9 +24539,9 @@ Janthsenas halmaheira, Bp. C. Av. ii. p. 44 (Gilolo and Ceram) (1554).
 Carpophaga albogularis, G. B. Gr. Lki B. Brit. Mus. Culumba*, 
 
 p. 24 (touibiade LI.) (l&otfj. 
-Janthce-nas halmacheira {sic)7 Bp. Compt. Bend, xliii. p. 887 (Gilolo) 
+Janthce-nas halmacheira {sic)7 Bp. Compt. Rend. xliii. p. 887 (Gilolo) 
 (18515). 
-Janthcenas leucolseina, Bp. in Mm. Brit IsOO {Compt. Bend, xliii. 
+Janthcenas leucolseina, Bp. in Mm. Brit IsOO {Compt. Rend. xliii. 
 
 p. 887, Ceram) (lbo(3). 
 Carpophaga albigularis, G. B. Gr. P. Z. S. l<b. p. 11JU iXew 
@@ -24651,7 +24651,7 @@ A. Goldie, Esq. [C.].
 q. Ad. sk. Louisiade Archipelago. J. McGillivray, Esq. 
 48. Columba hypoenochroa. 
 Ianthoenas hypoenochroa, Gould, P. Z. JS. 1856, p. 136 (Isle of Pines); 
-Bp. Compt. Bend, xliii. p. 837 (1856); Marie, Act, Soc. Linn. 
+Bp. Compt. Rend. xliii. p. 837 (1856); Marie, Act, Soc. Linn. 
 Bord. xxvii. p. 328 (1870); Marie, Ibis, 1877, p. 362; Tristr. 
 Ibis, 1870, pp. 184,193; Layard, Ibis, 1880, p. 231 (Lifu) ; Layard, 
 Ibis, 1881, p. 133, 1882, pp. 528, 544; Schal.«/"./. 0. 1887, p. 244. 
@@ -25014,7 +25014,7 @@ ii. 9228 (1*70); Souw, Jfvs. Xac. LiJ>. Columba, p. 12 < 1*73);
 Earns. P. Z. & 1870, p. 115; Saiv. Cat. B. Strickl. Coll. p. 554 
 (1^2); Tristr. Cat. Coll. P . p. 43 (1*^>); Hem. & Jttehmo. 
 Xomencl. Mus. Ilein. Orn. p. 283 (1890I. 
-Leueomeloena norfoleien«is, Bp. Compt. Bend. xwix. p. 1104 (1854), 
+Leueomeloena norfoleien«is, Bp. Compt. Rend. xwix. p. 1104 (1854), 
 
 xl. p. 218. n. 120 (1855); id. Coup (Tail Ordr. Piq. pp. 205 m. 
 n. 120 (1855). 
@@ -26710,7 +26710,7 @@ a, h. Ad. et J ad. sk. Engano, May. Dr. E. Modigliani [C.].
 Macropygia rufipennis, Blyth, J. A. S. B. xv. p. 371 (1846) (Nicobar 
 Id.); id. Cat. B. Mus. A.S.B. p. 234, n. 1422 (1849); G. B. Gr. 
 Gen. B. A pp. p. 23 (1849); Bp. Consp. Av. ii. p. 56 (1854); id. 
-Compt. Bend, xxxix. p. 1111 (1854), xl, p. 219, n. 159 (1855); id. 
+Compt. Rend. xxxix. p. 1111 (1854), xl, p. 219, n. 159 (1855); id. 
 Coup d'ceil Ordre Pig. pp. 27, 57, n. 159 (1855); Bchnb. Tauben, 
 
 i. p. 86 (1862); Pelz. Novara Beise, Vog. p. 109 (1865); Wall. 
@@ -27505,7 +27505,7 @@ Turtur amboinensis, part., Less. Compl. de Buff., Ois. viii. p. G7
 
 Macropygia 
 doreya, Bp. Consp. Av. ii. p. 57 (New Guinea) (18-54) 
-(type examined); id. Compt. Bend, xxxix. p. 1111 (1854), xl. 
+(type examined); id. Compt. Rend. xxxix. p. 1111 (1854), xl. 
 
 p. 219, n. 102 (1855) • id. Coup. d>wil Ordre Pig. pp. 28, 52, 
 n. 162 (1855); Sclat. Jmm. Pr. Linn. Soc. ii. p. 168, n. 148 
@@ -27735,7 +27735,7 @@ Salyin-Grodman Coll.
 
 23.ffiacropygia carteretia. 
 Macropygia carteretia, Bp. Consp. Av. ii. p. 57 (New Ireland) (1854) 
-(typ^s examined) ; id. Compt. Bend, xxxix. p. 1112 (1854), xl. 
+(typ^s examined) ; id. Compt. Rend. xxxix. p. 1112 (1854), xl. 
 
 p.'11%, n. 103 (1855) ; id. Coup dwil Ordre Piq. pp. 28, 57, n. 163 
 (1835) 5 G. M. Gr. Cat. B. Trap. 1st. p. 43 (1859); Bchnb. Tauten, 
@@ -29194,7 +29194,7 @@ legs red" (C. E, Towmend). Total length about 11 inches, wing
 
 Hub. Socorro Islands. 
 
-2. ZESTAIDA. „ 
+2. ZENAIDA.
 Type. 
 Zenaida, Bp. Comp. List, p. 41 {18;J8) Z. amabilis. 
 iStenuroena (subgen.), JRchnk Tmtben7 i. p. 20 (1802) .. Z. stenura. 
@@ -29414,7 +29414,7 @@ Gen B. p. 58 (1*40): £/. <7tf/i. J?, ii. p. 475. L. 1 ii-45i ; f;/As^
 B. Jam. p. 307 (1*47) iBrhnh. Syn. Jr. f. 1412 < W7u id. Syn. 
 Av. Columbaria. Xouf. t. WA~>). £ 2Sj7~i»* f W>1 ? {* * Audnb.); 
 GosbP, Xat. Soj. in Jam. p. 174 tls51f: Dp, f^n^p. Ar. ii. p. *2 
-(lbo4j; iff. Compt. Bend. \1. \I\K 47r 20H, n. 212 /l*3o'; uL Orn. 
+(lbo4j; iff. Compt. Rend. \1. \I\K 47r 20H, n. 212 /l*3o'; uL Orn. 
 kail Ordre Big. }>]». 4L OH, Q, 240 1 ls»>>f; /,/. (\,mpt. lb ad xliii. 
 p. 946 (lS-jf»h 6'. P . Or. List B. Brit. 3//A, Columbus p. 47 
 (185t>»; /??/«#. * Cab. J.f. O. 1<W, p. III ; XV///7/. Birds X 
@@ -29581,7 +29581,7 @@ Video); JF7/^7. &/*£. ^& Columba, sp. 70 (1^27) |^jn. emend.);
 Less. Compl. de Buff., Ois. viii. p. GO (parti (]K37): id. op. cit. 
 2nd ed. p. 285 (part.) (1838); Dane. Vmj. kBeagle] ZooL p. 115 
 (1841); Tsck. Faun. Per., Aves, p 275 (1844); Meyen in Mm. 
-Berol.Jide Bp. Compt. Bend, xliii. p. 940 (165(5). 
+Berol.Jide Bp. Compt. Rend. xliii. p. 940 (165(5). 
 
 Zenaida 
 aurita, Eraser (nee Te?mni), P. Z. S. Ib43, p. 115 (Chile); 
@@ -29611,7 +29611,7 @@ Peristera chrvsauchenia, Bchnh. Syn. Ai\ f. 1429 (1847): G. B. 6r/\
 6fe«. B. App. p. 24(18491. 
 Zenaida cbilei>i>. uBp," Bchnh. Sya. Av. Columbaria^ Abr#. t. 245 &. 
 if. 3-529-30 (1^51): BJJ. Con^p. ii. p. 82, i/z a#«. Z. auriculatse 
-(1854); id. Compt. Bend, xliii. p. 940 (1854). ^ 
+(1854); id. Compt. Rend. xliii. p. 940 (1854). ^ 
 
 CMorcfciia- meridionalis, Bp. Con*p. Ai\ ii. p. 7>2 (1854/ {ex King ; 
 
@@ -29629,7 +29629,7 @@ pp. 330,339; tit lot. $ Sale. 1HI7. p. 9&9 (Peru), IbO-, pp. 176,
 1870, p. 0**5; Taez. P. Z tf. I ^74, p. 555; id. P. Z. S. 1*80, p. 213 
 (X. Peru) ; Mat. List JWt An. Kli ed. p. 450 (18-3j; #«». 4* 
 Bchmc. XuwHirf. Mv*. linn. Orn. p. 2,^4 (l&sO) (Chili). 
-Zenaida lnamilafH. Bp. Con\p. Ac. ii. p. 82 (lN5i); id. Compt, Bend. 
+Zenaida lnamilafH. Bp. Con\p. Ac. ii. p. 82 (lN5i); id. Compt. Rend. 
 
 xliii. pp. 97, 220, u. 245 t l^~h)}; id. Coup d\i il Ordre Pig. pp. 42; 
 58; n. 245 (W>5); G. B. Gr. Li*t B. Brit. MILS. Culumbae, p. 47 
@@ -29659,10 +29659,10 @@ $ Bidley, Journ. Linn. Soc, Zool. xx. p. 479 (1890) (Fernando
 Norouha); Frmzelf J.f.0.1891, p. 123; Hartert. Kat. VogeUamml. 
 p. 187 (1891); Holland, Bis, 1892, p. 209. 
 Zenaida hypoleuca, G. B. Gr. MS. Mus. Brit. 1854; Bp. Cmsp. 
-Av. ii. p. 83 (1854) (Am. centr. ?); id. Compt. Bend. xl. pp. 97, 
+Av. ii. p. 83 (1854) (Am. centr. ?); id. Compt. Rend. xl. pp. 97, 
 220, B. 246 (1855) ; id. Coup tVail Ordre Pie/, pp. 42, 58, n. 246 
 (1855); <?. M. Gr. List B. Brit. Mus. Cokmboe, p. 48 (1850) (Pearl 
-Island); Bp. Compt: Bend, xliii. p. 940 (1850); Bp. Icon. Pig. 
+Island); Bp. Compt. Rend. xliii. p. 940 (1850); Bp. Icon. Pig. 
 TOI*. xxi. 2 Q 
 
 386 
@@ -30026,7 +30026,7 @@ eff-S ? ad. sk. Aunai, Brit. Guiana, May Salvin-Godman Coll.
 (jar. WMteit/). 
 
 7. Zenaida jessie®. 
-y Zenaida stenure, G. R. Gr. (nee Bp.) List B. Brit. Mm. Columh®, 
+y Zenaida stenura, G. R. Gr. (nee Bp.) List B. Brit. Mm. Columh®, 
 p. 48 (1856). 
 Zenaida Jessie®, Rikerf M.S.: Ridgw. Pr. V.S.Nat. Mus. x. p. 527 
 (1887) (Diamantina; Lower Amazon) (type examined). 
@@ -30082,9 +30082,9 @@ t 227. f. 2484, t. 254. ff. 1415-10 (lb62j; G. M. Gr. Hand-list, ii.
 * I have not been able to identify the following species:— 
 ZEKAIBA STEXURA. 
 
-Zenaida stenura, Bp. Mus. Paris, 1854; id. Cmisp. An ii. p. 84 (1854) 
+Zenaida stenura, Bp. Mus. Paris, 1854; id. Consp. Av. ii. p. 84 (1854) 
 
-(Colombia); id. Compt. Bend. xl. pp, 98, 220, n. 250 (1855); id. Coup 
+(Colombia); id. Compt. Rend. xl. pp, 98, 220, n. 250 (1855); id. Coup 
 
 d'ail Ordre Pig. pp. 43, 58, n. 250 (1855), 
 
@@ -30210,7 +30210,7 @@ zV/. Av. Syxt. Xat. p. xxiv (1852).
 Melopelia leucoptera, Bp. Comp. Ac. ii. p. fcl (1*54/; id. Cornet. Mend. 
 
 xl. p. 220, n. 240 (lb55): id. Gmp eTtpIl Ordrt Pi)/, p. 5% n. 240 
-(1855); id. Compt. Bend, xliii p. i»46 (IslHi: Baird, B. X. Am. 
+(1855); id. Compt. Rend. xliii p. i»46 (IslHi: Baird, B. X. Am. 
 p. 603(1858); id. Pr. Philad. Acad. l*o9,p. 305 .CqvSt. Lucas); 
 .flfarc/i, Pr. P/«7<H?. iiwrf. lfeOS, p. 302 (Jamaica): >Vr"W. P.Z. 8. 
 1864, p. 178; D/*m. HAH, 1*66, p. 24; CW'*\ Pr. Philad. Acad. 
@@ -31731,7 +31731,7 @@ Xat Madag. xii. Ois. p. 460, pis. 185, 186, 1ST (13K5); TVi^r.
 Cat Coil. B. p. 38 (1889); Seine # JKC/IJW. Xmuencl. Mm. Hem. 
 Orn. p. 277 (1890); Sibree, Ibis, 1891, p. 564. 
 Turtur prevostianus, Bp. Comp. Av. ii. p. 02 (1854) (=C. picta, 3/u& 
-Pan's, Marianne Isl.*, Quny <f* Gaimard); wf. Compt. Bend. xl. 
+Pan's, Marianne Isl.*, Quny <f* Gaimard); wf. Compt. Rend. xl. 
 pp. 16, 219, n. 180 (1855); af. Co?^ fail Ordre Pig. pp. 30, 57, 
 
 n. 180 (1855); G. B. Gr. List B. Trap. Isl p. 43 flaoU); Ilartl. 
@@ -32648,7 +32648,7 @@ Mindoro. Luzon) (1M)0); Martet%' Kat. Vogelmmml. p. 188
 
 Streptopelia 
 &u«unnVri, Bp. Gm*p, Ac. ii. p. 05 (1854) (Malesia, 
-Ja^a! Sumatra! Borneo!); id. Compt. Bend. xl. pp. 18, 219, 
+Ja^a! Sumatra! Borneo!); id. Compt. Rend. xl. pp. 18, 219, 
 
 n. 101 (l*5o); ?V. CW;> /i>i7 C//y?r. P/?. pp. 31, 57, n. 191 (1555); 
 G. R. Gr. Hand-list, ii. p. 209, n. 9331 (18/0); #«««, JSfw*. 2V%£. 
@@ -33020,7 +33020,7 @@ p. 388 (Accra), 1877, p. 13 (Loango Coast I; ; *r Barter t7 J.f. O.
 I 4 1881 p. 604 (Niger). 
 / 
 Streptopelia yinacea, Bp. Consp. Av. ii. p. 04 (13-J4) (part., excL 
-"White Nile); id. Compt. Bend. xl. pp. 17, 219, n. 187 (16->5); id. 
+"White Nile); id. Compt. Rend. xl. pp. 17, 219, n. 187 (16->5); id. 
 Coup d?ml Ordr. Pig. pp. 31, 57, u. 187 (1855j; Mchnb. Tauben, i, 
 
 p. 74 (1862), ii. pp. 75, 197, Nomt. SuppL t ill f. 24 (1862) {ex 
@@ -33619,7 +33619,7 @@ d'mil Ordre Fig. pp. 32, 57, n. 193 (part.) (1855); id. Compt.
 Bend. xH. p. 659 (1855): Bchnb. Tauben, i. p. 76, t. 247. f. 1370 
 (1862); G. R. Gr. Hand-list, ii. p. 239, n. 9331 (part.) (1870). 
 
-Turtur terre^tris, Mereatorum, fide Bp. Compt. Bend. xl. p. 18 
+Turtur terre^tris, Mereatorum, fide Bp. Compt. Rend. xl. p. 18 
 (1855); id. Coup d'ceil Ordre Fig. p. 32 (1855). 
 Coluroba (Peristera) liumilis, Schrenck, Voq. d. Amur-L. p. 284 
 
@@ -34670,7 +34670,7 @@ xiv. 2, p. 874 (part.) (1845) 5 id. Ann. $ Mag. 'Nat Mist six.
 p. 184 (part.) (1847) ; id Cat. B. Mus. A. S. B. p. 286, n. 1435 
 (1849); Kelaart, Prodr. Cat. p. 130 (1852); Layard, Ann. $Mag< 
 K. H. (2) xiv. p. 60 (1854); Bp. Consp. Av. ii. p. 63 (part.) 
-(1854): id. Compt. Bend* xl. p. 17 (part.), p. 219, n. 184 (1855); 
+(1854): id. Compt. Rend. xl. p. 17 (part.), p. 219, n. 184 (1855); 
 id. Coup dttil Ordre Pig. pp. 31, 57, n. 184 (1855); Bb/th, 
 J A. & B. xxiv. p. 263 (note) (1855); Adams, P. Z. S. 1858, 
 p. 498 (Deccan and Lower Himalayan Eansres) ; Bcknb. Tauben, 
@@ -35646,7 +35646,7 @@ Austr. ii. p. 142 (1865); Soma, Mus. Nae. Lisb. Columba), p. 23
 N. H. TV. i. p. 59, n. 91 (1870); Bams. Pr. Linn. Hoc. N. H. W, 
 ii, p. 197, n. 534 (1877); North, Bescr. Cat. Net>ts * Eggs B. 
 Austr. ^. 277 (1889). 
-Chrysauchoena humeralis, Bp. Compt. Bend. xl. p. 210 (1854); id. 
+Chrysauchoena humeralis, Bp. Compt. Rend. xl. p. 210 (1854); id. 
 
 Coup d'ceil Ordr. Pig. p, 48 (1855). 
 Turtur humeralis, Hchleg. Be Bierent. fisj. pv207 (1864). 
@@ -36083,7 +36083,7 @@ Steph. Gen. Zool. xi. p. 98 (1819); Desm. Diet So. Nat. xl. p. 3(30
 d?Orn. p. 474 (1831); id. Compl. de Buff., Ois.im. p. 72 (1837 V 
 id. op. cit. 2nd ed. p. 289 (1838). 
 Geopelia maugei, G. B. Gr. List Galling Brit. Mus. p. 11 (1844); 
-JBp. Consp. Av. ii. p. 94 (1854); id. Compt. Bend. xl. pp. 210,221, 
+JBp. Consp. Av. ii. p. 94 (1854); id. Compt. Rend. xl. pp. 210,221, 
 
 n. 281 (1855); 
 id. Coup d'ceil Ordre Pig. pp. 48, 59, n. 281 (1855) • 
@@ -36107,7 +36107,7 @@ Geopelia albiventris, Blyth, J. A. S. B. xviii. p. 817 (1849); id. Cat.
 B. Mus. A. S. B. p. 235, n. 1427 (1849). 
 Tomopeleia maugei, Bchnb. Av. Syst. Nat. p. xxv (1852); G. B. Gr. 
 Sand-list, ii. p. 236, n. 9291 (1870). 
-Columba multicincta. Temm. Mus. Lugd.jide Bp. Compt. Bend, xl, 
+Columba multicincta. Temm. Mus. Lugd.jide Bp. Compt. Rend. xl, 
 
 p. 210 (1855); id. Coup dceil Ordre Pig. p. 48 (1855) (Sumbava). 
 Geopeleia maugei, Bchnb. Tauben, i. p. 27, t. 253 b. f. 3380 (1802). 
@@ -36317,7 +36317,7 @@ Scardafella squanio>a, Z>>. Co?a>p. Aj':
 :^ p. 85(lb54); ?VI. Cww/tf. 
 
 Re?id.x\. pp. 24, 1^20, n, 253 f 1855); zVf. Coup cPail Ordre Pig. 
-pp. 43, 58,11. 253 (1875); id. Compt. Bend, xliii. p. 940 (lb5f>); 
+pp. 43, 58,11. 253 (1875); id. Compt. Rend. xliii. p. 940 (lb5f>); 
 Rchnb. Taubtn, i. p. 19, t. 250. f. 1392, t. 253. f. 1409, t. 253/;. 
 
 f. 33bl (lb62), ii. p. 103 (lb02); lieinL lid. 3Ied. Xat 
@@ -36394,7 +36394,7 @@ Chamsepelia squamosa, part., Lieht. Nomencl. p. 83 (1854) ; Grieb.
 Thes. Orn. i. p. 635 (1872). 
 Scardafella 
 inca, Bp. Consp. Av. ii. p. 85 (1854) (Guatemala) ; id. 
-Compt. Bend. xl. pp. 24, 220, n. 254 (1855); id. Coup d'ceil Ordre 
+Compt. Rend. xl. pp. 24, 220, n. 254 (1855); id. Coup d'ceil Ordre 
 Pig. pp. 43, 58, n. 254 (1855) ; id. Compt Bend, xliii. p. 946 
 (185(5) (Mexico and Guatemala); Sclat. P. Z. S. 1856, p. 309 
 (Cordova); Baird, List, n. 452 (1858); Sclat. fy Salv. Ibis, 1859, 
@@ -37113,7 +37113,7 @@ Tsch. Faun. Per. pp. 45, 275 (1844-46); Gosse, B. Jam. p. 311
 (1847); Bchnb. Syn. Av. ff. 1419-20 (1847); Cab. in Schomb* 
 Guiana, p. 743 (1848); Gosse, Nat. Soj. in Jam. p. 173 (1851); 
 Bchnb. St/st. Av. Columbaria, Novit. t. 266. if. 2875-78 (1851) ; 
-Bp. Consp. Av. ii. p. 77 (1854) ; id. Compt. Bend. xl. pp. 20, 220, 
+Bp. Consp. Av. ii. p. 77 (1854) ; id. Compt. Rend. xl. pp. 20, 220, 
 
 n. 227 (1855); id. Coup d'ceil Ordre Pig. pp. 37, bS, n. 227 (1855); 
 Burnt. Syst. Ueb. Th. Bras., Yog. ii. p. 296 (1856) ; Gundl.J. f. 0. 
@@ -38100,7 +38100,7 @@ Chamaspeleia cruziana, Bchnb. Ai\ Syst. Nat. p. xxiv (1852).
 ? Oharnsepelia cyanostigma (errore), Bclmb. in Bibra, Denkschr. h. 
 
 AM. Wismuch v. 2, p. 130 (1853) (Chili); id. J.f. 0.1855, p. 56. 
-Columbula cruziana, Bp. Consp. Av. ii. p. 80 (1854); id. Compt. Bend. 
+Columbula cruziana, Bp. Consp. Av. ii. p. 80 (1854); id. Compt. Rend. 
 
 xl. pp. 23, 219, n. 239 (1855); id. Coup d'ceil Ordre Pig. pp. 39, 58, 
 n. 239 (1855); G. B. Gr. List B. Brit. Mm. Columb©, p. 40 (1856); 
@@ -38270,7 +38270,7 @@ Om. Bras. p. 450 (1871); GieL Thts. Orn. i. p. C34 (1572); Sclat.
 
 Talpacotia 
 tiodina, Bp. (Jump. Ax. Ii. p. 79, n. 3 (1854) (Brazil, 
-Bolivia); "id. Compt. Bend. xl. pp. 22. 210, n. 235 {1>55 (I- Centr. 
+Bolivia); "id. Compt. Rend. xl. pp. 22. 210, n. 235 {1>55 (I- Centr. 
 America); 2V/. Coup d'ail Ordre Pig. pp. 39,55, n. 235 {lsoo) ; 
 <?. i?. 67r. Hand-list, ii. p. 240,11. 9343 (ls70): kr ^i/^r/. 32?/*, JWw. 
 Z&k Columke, p. 21 (1^73) (Surinam!;; 7r/cs. 1\ Z. S% 1874? 
@@ -38766,8 +38766,8 @@ Peristera
 cinerea, Siv. Zool. Journ. iii. p. 360 (1827); G. M. (h\ List 
 Gen. B. 2nd ed. p. 75 (1841); id. Gen. B. ii. p. 476, n. 1 (1845); 
 Rchnb. Syn. An. if. 1425-26 (1847): Bp. Consp. Av. ii. p. 75 
-(1854) ; id. Compt. Bend. xl. pp. 99, 220, n. 220 (1855); id. Coup 
-d'ceil Ordre Piq. pp. 37, 58, n. 220 (1855); id. Compt. Bend. xlii. 
+(1854) ; id. Compt. Rend. xl. pp. 99, 220, n. 220 (1855); id. Coup 
+d'ceil Ordre Piq. pp. 37, 58, n. 220 (1855); id. Compt. Rend. xlii. 
 
 p. 944 (1856) (Mexico); G. B. Gr. List B. Brit. Mm. Columbse, 
 p. 52 (1856); Burm. Syst Ueb. Thier. Bras., Yog. ii. p. 303 (1856); 
@@ -38805,7 +38805,7 @@ Xat. VogelsammL p. 1*7 (1*01); Cherrie, Aul^ 1*02, p. 320 {Cobta
 Eica). 
 Uhamsepelia cinerea, Hartl. St/st. Verz. p. 00 (1*44 J. 
 ^ rPeristera ustulata, Z*V7J/. XumeacL Ar. p. <H3 (1*54J (Brazil); Bp, 
-Compt. Bend, xliii. p. 044 (1*50) (Mexico!). 
+Compt. Rend. xliii. p. 044 (1*50) (Mexico!). 
 Peristera pretiosa, F.-Perez, Pr. U.S. Xat, 3fus. ix. p. 175 (Mexico) 
 (1886). 
 
@@ -39534,7 +39534,7 @@ W. Afr. ii. p. 214 (1837); G. R. Gr. List Gallince Brit. Mus. p. 10
 (1844); Mipp. Syst. Ueb. p. 100 (1845); Mchnb, Syn. Av.ff. 139091 
 (1847); id. Av. Syst. Nat p. xxv (1852); Sclat. Contr. Orn. 
 1852, p. 126 (MonknUo); Marti. J. f. 0.1854, p. 206; Bp. Consp. 
-Av. ii. p. 69 (1854) ; id. Compt. Bend. xl. pp. 20,219, n. 202 (1855); 
+Av. ii. p. 69 (1854) ; id. Compt. Rend. xl. pp. 20,219, n. 202 (1855); 
 id. CouptfceilOrdrePig. pp. 32, m, n. 202 (1855); Brehm, J.f O. 
 1855, pp. 481, 492; G. B. Gr. List B. Brit. Mus. Columbae, p. 36 
 502 PERISTEEID^. 
@@ -40650,7 +40650,7 @@ id. Gen. B. ii. p. 477, n. 1 (lb44); Blyth, J. A. S. B. xiv. 2, p. b59
 (1845 j ; id. Ann. ^ Mag. X H. xix. p. 99 (1847); StricM. ibid. 
 
 p. 101 (note) (lS47j; Rchnh. Av. Syst Xat. p. xxv (1855) ; Bp. 
-Co/i»p. Av. ii. p. 91 {1S54J ; id. Compt. Bend. si. pp. 208, 509, 222, 
+Co/i»p. Av. ii. p. 91 {1S54J ; id. Compt. Rend. si. pp. 208, 509, 222, 
 i. 273 (1*55); id. Coup d'ceil Ordre Big. pp. 46, 47, 59, n. 273 
 (1*55); G. B. Gr. Lkt B. Brit Mus. Columke,p. 59 (1*56); Moore, 
 P Z. S. 1*50. p. 407 ; Bclmb. Tauben, i. p. 46, t. 260. ff. 1441-42 
@@ -42149,7 +42149,7 @@ Australia); id. B. Amtr. v. pi. 09. (pt. viL, 1842); G. It. Gr. Gen.
 
 B. ii. p. 478, n. 3 (1845); Bchnb. Syn. Av. if. 1461-62 (1847); id. 
 Vag. Keuholl. &p. 431 (1850); Bp. Consp. Av. ii. p. 87 (1854); id. 
-Compt. Bend. xl. pp. 206, 221, n. 261 (1855); id. Coup dctil Ordre 
+Compt. Rend. xl. pp. 206, 221, n. 261 (1855); id. Coup dctil Ordre 
 Pig. pp. 44, 59, n. 261 (1855); Elsey, F. Z. S. 1857, p. 27 (Point 
 Pearce) ; ZucMd, J. f. 0. 1858, p. 40 (Lynd River) j Bchnb. 
 Tauben, I p. 43, t. 202. if. 1461-62 (1862), ii. p. 166 (1862). 
@@ -42504,7 +42504,7 @@ Peristera erythrothorax, G. JR. Gr. Gen. B. Index, p. 77 (1849); Behnb.
 Hipi, Ac. Columbaria1, JSorii, t. 257 b. f. 3385 {ex Temm. 4' Knip) 
 (1851). 
 
-Leptoptila ervthrothorax, Bp. Consp. Av. ii. p. 74 (1854); id.Compt. Bend. 
+Leptoptila ervthrothorax, Bp. Consp. Av. ii. p. 74 (1854); id.Compt. Rend. 
 
 xl. pp. 90/220, n. 217 (1855); id. Coup d'ceil Ordre Pig. pp. 36, 58, 
 n. 217 (1855); Bcfaib. Taubem, i. p. 26, t. 2575. f. 3385 (1862); Pels. 
@@ -42529,7 +42529,7 @@ Haphpelia larvata and H. joknstoni, and to one of these I think that it must be
 assigned; Gray (Gen. B. ii. p. 476) had already suspected the identity of 
 
 C. erythrothorax, Temm., with Haphpelia larvata. 
-1 Bonaparte (Compt. Bend, xl. p. 99; Coup d'ceil Orclre Pig. p. 36) had 
+1 Bonaparte (Compt. Rend. xl. p. 99; Coup d'ceil Orclre Pig. p. 36) had 
 
 already mentioned the bird in the Museum of Frankfort as from Java(!j, but 
 
@@ -43614,7 +43614,7 @@ Wied. (nee auct.) Reise naeh Bras. ii. p. 341
 Peristera macrodactylus («c), G. R. Gr. List B. Brit. Mm. Columbse, 
 
 p. 56 (1856) (descr. nulla). 
-Peristera macrodact} la, Bp. Compt. Bend, xliii.p. 945 (=rufaxiUa!) 
+Peristera macrodact} la, Bp. Compt. Rend. xliii.p. 945 (=rufaxiUa!) 
 (1856). 
 Peristera frontalis, Bunn, (nee Temm.) Syst. Ueb. Th. Bras., Vog. 
 
@@ -43743,7 +43743,7 @@ d. Ad. sk. Salta, Arg. Republic, June. H. Durnford, Esq. [C.].
 8. Leptoptila ochroptera. 
 Peristera brasiliensis, G. B. Gr. List B. Brit. Mus. Columbse, p. 54 
 
-(1856) (Brazil) (descr. nulla); JSp. Compt. Bend, xliii. p. 945 (1856). 
+(1856) (Brazil) (descr. nulla); JSp. Compt. Rend. xliii. p. 945 (1856). 
 Peristera brevipennis, part., G. B. Gr. op. cit. p. 54, specim. a, b (1856). 
 Columba ochroptera, Natter. Cat MS. 
 
@@ -44907,7 +44907,7 @@ Geotrvgon chrv>ia. Bp. in Htt.Jide Consp.ii. p. 72 (1*54); id. Compt.
 Beml xL p. W{1*55); id. Coup d>ml Ordre Pig. p. 05 (1855). 
 Peristera m\btacea, G. II. Or. {nee Temm.) Liht B. Brit. Mas. 
 Columbae/p. 55, specim. a9b (St. Domingo) (^50), 
-Oreopeleia martinica, Bp. (nee Linn.) Compt. Bend, xliii. p. 044 
+Oreopeleia martinica, Bp. (nee Linn.) Compt. Rend. xliii. p. 044 
 (1550); Baird, B. X. Am. p. 007 (1858); Behnb. Tauben, i. p. 01 
 (descr. sed BOB ic. 1402, err. 1401) (1802); GmidL Itepert. Fisico-
 XaL Cuba, i. p. 299 (1*60); G. It Gr. Hand-list, ii. p. 242, n.907d 
@@ -45325,7 +45325,7 @@ o. Ad. sk. Ecuador (C. Buckley). Salvin-Godman Coll.
 Peristera erytiiropareia, G. B. Gr. MSS. in Brit. Mus.; id. List 
 
 B. Brit. Mus. Columbne, p. 56 (185G) (Ecuador, Verreaux's Coll.) ; 
-Bp. Compt. Bend, xliii. p. 944 (note) (1856). 
+Bp. Compt. Rend. xliii. p. 944 (note) (1856). 
 Geotrygon 
 bourcieri, Sclat. fy 6'alv. (nee Bp. ?) Exot. Orn. p. 79 
 (part), pi. xl. (1862); G. 22. Gr. Hand-list, ii. p. 243, n. 9392 
@@ -45681,7 +45681,7 @@ Ois. p. 118 (1853); Bp. Co?isp. Av. ii. p. 89
 (1854) P, pampusan. 
 
 Pklogronas, Bp. Consp. Av. ii. p. 88 (1854). 
-Pampusan, Bp. Compt, Bend, xliii. p. 947 (1850) . P. erytkroptera. 
+Pampusan, Bp. Compt. Rend. xliii. p. 947 (1850) . P. erytkroptera. 
 Phlogoonas, Sclat. P. Z. S. 1861, p. 300; 1805, 
 
 p. 238. 
@@ -46090,7 +46090,7 @@ f. 2590 {mc'imri (1851).
 Peristeia rufiifula, Tucker. $ Jacq. Toy. Pole Sud, ili, Ois. p. 118 
 (descr. nulla) (1653); Earth J.f. 0. 1854, p. 160. 
 Phlegienas rufigula, Bp. Consp. Av. ii. p. 89 (1854). 
-Phleg&nas rufigula, Bp. Compt. Bend. xl. pp. 206,221, n. 265 (1855); 
+Phleg&nas rufigula, Bp. Compt. Rend. xl. pp. 206,221, n. 265 (1855); 
 
 id. Covp d'rtil Ordrt Fir/, pp. 45, 59, n. 265 (1855) ; Bchib. Tauhen, 
 
@@ -46831,13 +46831,13 @@ N. T. D. iv. p. 28 (1871).
 Tympanistria erythroptera, Btchnb. Av. Syst. Nat. p. xxv, t. 2571. 
 I. OOoo (laO.2). 
 Phlegsenas erythroptera, part., Bp. Consp. Av. Ii. p. 89 (1854); id. 
-Compt. Bend. xl. pp. 206, 221,"266 (part.) (1855); id. Coup imil 
+Compt. Rend. xl. pp. 206, 221,"266 (part.) (1855); id. Coup imil 
 Ordre Big. pp. 45, 59, n. 266 (part.) (1853). 
 
 Caloenas erythroptera, part., 
 G. B. Gr, List B. Brit. Mm. Columbse, 
 p, 64 (1856); id. Cat. B. Trop. Isl p. 44 (part.) (1859). 
-Pampusana erythroptera, part., Bp. Compt. Bend. xliii. p. 947 
+Pampusana erythroptera, part., Bp. Compt. Rend. xliii. p. 947 
 (1856). 
 Phlegoenas erythroptera, part., Bchnb. Tauben, i. p. 41 (part.) t. 257 b. 
 
@@ -47706,7 +47706,7 @@ Starnoenas cyanocephala, Bp. Comp. List, p. 41 (1838); Aud. Syn.
 p. 193 (1839); 6. B. Gr. List Gen. B. p. 58 (1840); Aud. B. Am. 
 v. p. 23, pi. eclxxxiv. (1842) ; Hartl. Syst. Verz. p. 99 (1844); 
 Gosse, B. Jam. p. 324 (note) (1847); Bp. Comp. Av. ii. p. 69 
-(1854); id. Compt. Bend. xl. pp. 102, 220, n. 203 (1855) ; id. 
+(1854); id. Compt. Rend. xl. pp. 102, 220, n. 203 (1855) ; id. 
 Coup dceil Ordre Big. pp. 34, 58, n. 203 (1855); Burm. Syst. Ueb. 
 In. Bras., Vog. ii. p. 308 (1856) (Venezuela, Brazil I); G. B. Gr. 
 List B. Brit. Mm. Columbse, p. 58 (1856); Gundl. J.f. O. 1856, 
@@ -47832,7 +47832,7 @@ Mem. Zool. iii. pt. 1, p. 217 (1821); Schleg. Be Bierent p. 208
 Columba gaJlus, Wagl Syst. Av. Columba, sp. 113 (1827). 
 
 Columba gouldiae, Gray fy Hardw. III. Ind. Zool. ii. pi. 57 (juv.) 
-(1834); Bp. Compt. Bend, xxxix. p. 871 (1854) ; id. Coup. oVmil 
+(1834); Bp. Compt. Rend. xxxix. p. 871 (1854) ; id. Coup. oVmil 
 Ordre Pig. p. 3 (1855); Bartlett, P. Z. S. 1866, p. 79 (note). 
 
 Geophilus nicobaricus, 
@@ -48818,7 +48818,7 @@ DIDTDJE.
 Pezophaps solitaria, StricM. The Dodo, $c. p. 46 (1848); Sely*-
 Lonqch. Rev. Zool. 1848, p. 293, n. 2; G. R. Gr. Gen. B. ii. p- 483 
 (1848); StricM. Conbr. to Orn. 1852, p. 19; 3p. Consp. JAV. II. 
-v 3 (1854); id. Compt. Bend, xliii. p. 840, n. 6 (1856); StricM. 
+v 3 (1854); id. Compt. Rend. xliii. p. 840, n. 6 (1856); StricM. 
 Tr. Zool Soc. iv. pp. 187-196, pi. 35 (1859); Rchnb. Tauben, 
 i p 128 (1802) ; Lund, Bull. Soc. Orn. Suisse, 1865, p. 150 ; 
 

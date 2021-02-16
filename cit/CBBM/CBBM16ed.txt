@@ -16275,7 +16275,7 @@ Eranna, Heine, J.f Orn. 1863, p. 187 A. cinnamomea.
 Eratina, Heine, J.f. Orn. 1803, p. 190 A. ioclura. 
 Ariana, Mnls. fy Terr. Class. Troch. p. 3G A. niveiventris. 
 Myletes, Muh. Hist. Nat. 0is.-3fouches, i. p. 284. A. yucatanensis. 
-Saucerottia, Bp. Compt. Bend. xxx. p. 381 (1850). A. erythronota. 
+Saucerottia, Bp. Compt. Rend. xxx. p. 381 (1850). A. erythronota. 
 Erythronota, Gould, Mon. Troch. v. (1860) A. erythronota. 
 Eratopis, Heine, J. f Orn. 1863, p. 191 A. elegans. 
 Erasuria, Heine, J.f Orn. 1863, p. 191 A. warszewiszi. 
@@ -19584,7 +19584,7 @@ Sclater Colls.
 62. CHETSUEOMA. Type> 
 Chrysuronia, Bp. Consp. Av.l^.75 C. cenone. 
 
-Chrysurus, Bp. Compt. Bend. 18o0, p. 382. 
+Chrysurus, Bp. Compt. Rend. 18o0, p. 382. 
 
 Chrysurisca, Cab. $ Heine, Mus. Hem. iii. p. 42. 
 
@@ -27219,7 +27219,7 @@ m, n. <$ 2 ad. st. Purchased.
 Type. 
 Loddigesia, " Gould," Bp. Consp. Av. i. p. 80 (1849) .. L. mirabilis. 
 Loddigesia, Gould, Mon. Troch. Hi. pi. 161 (Sept. 1861). 
-Loddigesiornis, Bp. Compt. Bend. xxx. p. 381 (1850) .. L. mirabilis. 
+Loddigesiornis, Bp. Compt. Rend. xxx. p. 381 (1850) .. L. mirabilis. 
 Grtkorhynchus 8. Mulsantia, Reich. Aufz. d. Col. p. 12.. L. mirabilis, 
 Thaumantoessa, Heine, J.f. Orn. 1863, p. 209 L. mirabilis. 
 
@@ -27921,7 +27921,7 @@ $ ad. sk. * Gould Colls.
 
 
 5. Eriocnemis godini. 
-Trochilus godini, Bourc. Compt. Bend, xxxii. p. 186 (1851). 
+Trochilus godini, Bourc. Compt. Rend. xxxii. p. 186 (1851). 
 Eriocnemis godini, Reich. Aufz, d. Col. p. 9 ; Gould, Mon. Troch. 
 
 iv. pi. 277 (May 1861); id. Intr. Troch. p. 145; Muls. ty Verr. 

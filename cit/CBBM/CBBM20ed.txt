@@ -5679,7 +5679,7 @@ i. Ad. sk. Queensland (E. Waller). Salvin-Godman Coll.
 h, I. Ad. sk. Australia (J. T. Cocherelt). Salvin-Godman Coll. 
 9. PTILOSCLERA. 
 Type. 
-Ptilosclera, Bp. Compt. Bend. xliv. p. 597, gen. 66 (1857); 
+Ptilosclera, Bp. Compt. Rend. xliv. p. 597, gen. 66 (1857); 
 
 G. B. Gr. List Psitt. Brit Mus. p. 59 (1859) ........ P. versicolor. 
 1. Ptilosclera versicolor. 
@@ -6479,7 +6479,7 @@ Lid. Orn. i. p. 105, n. 68 (1790); Slum, Gen. Zool. viii. 2, p. 46S
 
 p. 371 (1817); KM, Comp. Psitt p. 51 (1820) ; Vieill. Enc. 
 Meth. iii. p. 1408 (1823); Forster, Leon. Lied. t. 48; id. Descr. An. 
-p. 259 (1844); Licht. ibid, (note) (1844); Bp. Compt. Bend. xii. 
+p. 259 (1844); Licht. ibid, (note) (1844); Bp. Compt. Rend. xii. 
 p. 1111 (1855). 
 Nanodes? palmarum, Stepk. Gen. Zool. xiv. 2, p. 120 (1826). 
 Trichoglossus palmarum, Wagl Mon. Psitt. p. 546 (1832); G. R. 
@@ -9273,7 +9273,7 @@ Halm (nee Gm.), Orn. Afl., Papag. t. 32 (nee deser. ?) (1835) ;
 Voigt, Cuv. Uelers. p. 737 (1831); Temm. Tall. Metk. p. 56 
 (1839) ; id. Coup drmil gen. Ind. Arch. p. 405 (note^ (1849). 
 
-Plyctulophus parvulus, Bp. Compt. Bend. xxx. p. 139 (1850)*; id. 
+Plyctulophus parvulus, Bp. Compt. Rend. xxx. p. 139 (1850)*; id. 
 Naumannia, 1856, Consp. Psitt. n. 275. 
 Plyctolophtis parvus, Bp. Beo. ei Mag. de Zool. 1854, p. 156, 
 
@@ -9416,7 +9416,7 @@ Plyctolophus citrinocristatus, Fras. P. Z. S. 1844, p. 38; id. Aim. $*
 Mag. N. H. xiv. p. 452 (1844); Bp. Compt Itend. xxx. p. 138 
 (1850); id. Rev. et Mag. de Zool. 1854, p. 156, n. 263; id. Nau~ 
 mannia, 1856, Consp. Psitt. n. 276 ; Souance, Rev. et Mag. de Zool. 
-1856? p. 2-25, n. 100 ; Bp. Compt. Bend. xliv. p. 537 (1857). 
+1856? p. 2-25, n. 100 ; Bp. Compt. Rend. xliv. p. 537 (1857). 
 
 Cacatois a huppe orange*e, Hombr. 8f Jacq. Toy. Pole Sua7, Atlas, 
 pi. 26. f. 2 (1845 ?) (type examined). 
@@ -9499,7 +9499,7 @@ Cat. Austr. B., Psittaci, p. 3 (1891).
 Plyctolophus erythropterus, Sw. Class. B. ii. p. 302 (1837). 
 Kakadoe crista tricolorata, Bourjot, Perr. pi. 72 (1837-38). 
 Leadbeater's Cockatoo, Blsey, P. Z. S. 1857, p. 26. 
-Lophochroa leadbeateri, Bp. Compt. Bend. xliv. p. 537 (1857); 
+Lophochroa leadbeateri, Bp. Compt. Rend. xliv. p. 537 (1857); 
 
 Finseh, Ned. Tijdschr. Dierk. i. Berigten, p. xxii (1863); G. P. 
 Gr. Band-list, ii. p. 170, n. 8899 (1870). 
@@ -9568,7 +9568,7 @@ p. 693 (1832); G.B. Gr. Gen. B. ii. p. 425, n. 5 (1845); Blyth,
 Cat. B. Mus. A. 8. B. p. 1 (1849); Bp. Bev. etMag. de Zool. 1854, 
 p. 155, n. 254; id. Naumannia, 1856, Consp. Psitt. n. 267 ; 
 Souanci, Rev. et Mag. de ZooL 1856, p. 224; Bolle, Journ.f Orn. 
-1856, p. 170; Bp. Compt. Bend. xliv. p. 537 (1857); G. B. Gr. 
+1856, p. 170; Bp. Compt. Rend. xliv. p. 537 (1857); G. B. Gr. 
 List Psitt. Brit Mm. p. 93 (1859); Sclat. P. Z. 8. I860, pp. 22b*, 
 227 ; G. B. Gr. P. Z. 8. I860, p. 358 ; 8clat. P. Z. 8.1861, p. 305, 
 366, 1864, p. 188; Bernst. Nat. Tijdschr. Ned. Ind. XXYH. p. 295 
@@ -9755,7 +9755,7 @@ lor. ser. 2, xl. p. 155 (1889); Tri.tr. Cat. Coll. B. p. 72 (1889).
 Plyetolophus rosaceus, Lear, Parr. pi. 2 (1832). 
 
 Plyetolophus moluccensis, Selby, Nat. Libr., Parrots, p. 131 (1836) ; 
-Bp. Compt. Bend. xxx. p. 138 (1850); Rosenb. Jotim. f. Orn. 
+Bp. Compt. Rend. xxx. p. 138 (1850); Rosenb. Jotim. f. Orn. 
 1862, pp. 61, 62 ; id. Nat Tijdschr. Ned. hid. xxv. pp. 140, 141 
 (1863). 
 
@@ -17539,7 +17539,7 @@ Am. Birds, p. 269 (note) (1887).
 Psittacula lineolata, Sclat P. Z. S. 1856, p. 306: Baird. B. N. Am. 
 
 p. 66 (1858). 
-Myiopsitta catharina, Bp. Compt. Bend. xliv. p. 538 (1857). 
+Myiopsitta catharina, Bp. Compt. Rend. xliv. p. 538 (1857). 
 Bolborhynchus catharina, " Bp.f Sclat. P. Z. S. 1857, p. 225 ; Sclat 
 $ Salv. Ibis, 1859, p. 137 (in syn. C. lineolati); G. R. Gr. Hand-
 list, ii. p. 149, n. 8143 (1870). 
@@ -21342,7 +21342,7 @@ p. 45, pi. 27 (1844); id. Ann. 8f Mag. N. JE. xiii. p. 475 (1844).
 Psittacus auro-palliatus, G. JR. Qr. Gen. B. ii. p. 421, n. 31 (1846). 
 Chrysotis navinuchus, G. It. Qr. Gen. B. ii. p. 422; n. 7 (1846). ^ 
 Amazona auropalliatus, Less. Descr. Mamm. et Ois. p. 196 (184/). 
-Chrysotis auripalliata, Bp. Compt. Bend, xxxvii. 2, p. 807 (1853) 5 
+Chrysotis auripalliata, Bp. Compt. Rend. xxxvii. 2, p. 807 (1853) 5 
 id. Not. 
 Coll. Delattre, p. 2 (1854); id. Bev. et Mag. de Zool 
 v 2 
@@ -25174,7 +25174,7 @@ sk. November (Hauzwell).
 
 9. Pionopsittacus pyrilia. 
 Psittacula 
-pvrilia, Bp. Compt. Bend, xxxvii. p. 807 (note) (1853); 
+pvrilia, Bp. Compt. Rend. xxxvii. p. 807 (note) (1853); 
 id. Not. Coll. Delaftre, p. 2 (note) (1854). 
 Evopsitta pyrilia, Bp. Rev. et Mag. tie ZooL 1854, p. 151, n. 78. 
 
@@ -29535,7 +29535,7 @@ Psittacus (Psittacula) cyanicollis, 8. Milll. Verh. Land- en Tolkenh
 p. 182 (1839-1844). 
 Psittacula cyanicollis, G. R. Gr. Gen. B. ii. p. 423, n. 26 (1846); 
 Pelz. u. Lor. Ann. d. naturh. ECofmus. iii. p. 40 (1878). 
-Geoffroyus cyanicollis, Bp. Consp. i. p. 6 (1850); id. Compt. Bend 
+Geoffroyus cyanicollis, Bp. Consp. i. p. 6 (1850); id. Compt. Rend.
 
 xxx. p. 137 (1850) ; id. Bev. et Mag. de ZooL 1854, p. 155, n. 288 * 
 id. Naumannia, 1856, Consp. Psitt. n. 238; SouancL Bev et Mao 
@@ -32515,7 +32515,7 @@ N. E. (2) xiii. p. 264 (1854) ; Earth Journ. f Orn. 1854, p. 158,
 B. p. lxiii; Bp. Bei\ et Mag. de Zooh 1854, p. 152, n. 45; 
 Soaa?ice, Bev. et Mag. de Zooh 1856, p. 158; Bp. Xamnannia, 
 1856, Consp. Psitt n. 142; Eorsf. $ Moore., Cat. B. Mas. E. I. 
-Comp. ii. p. 616 (part) (1858-58f; Bp. Compt. Bend. xliv. p. 538 
+Comp. ii. p. 616 (part) (1858-58f; Bp. Compt. Rend. xliv. p. 538 
 (1857); Philipps, P. Z. S. 1857, p. 99: Adams, P. Z. S. 1858, 
 p. 490,1859, p. 173; Earth Journ. f Orn. 1659, p. 289; Irby, 
 Ibis, 1861, p. 218; Finsch, Papag: ii. p. 40 (1808) (svn. emend.); 
@@ -33807,9 +33807,9 @@ Journ. f. Orn. 1881, p. 232 (Co/isp. Bsitt. p. 127); id. Togelbild.
 Bencht. (1883). 
 Psittacus viridicollis, Cass. Br. Acad. BhilwL vi. p. 378 (1853); 
 
-Bp. Compt. Bend. xliv. p. 539 (1857). 
+Bp. Compt. Rend. xliv. p. 539 (1857). 
 Palaeornis viridicollis, Bp, Naumannia, 1856, Consp. Bsitt. n. 144. 
-Palseomis calthrapa, Bp. Compt. Bend. xliv. p. 539 (1857). 
+Palseomis calthrapa, Bp. Compt. Rend. xliv. p. 539 (1857). 
 Palseornis caltforopise, Schleg. Dierent. y. 72 (1864). 
 
 Adult male. Head, nape, and back bluish grey, lower back and 
@@ -36352,7 +36352,7 @@ W. A. Bailward [P.].
 
 5. Pyrrhulopsis personata. 
 Coracopsis? personata, G. P. Gr. P. Z. S. 1848, p. 21, pi. 3; id. 
-Gen. B. iii. App. p. 19 (1849); Bp. Compt. Bend. xxx. p. 138 
+Gen. B. iii. App. p. 19 (1849); Bp. Compt. Rend. xxx. p. 138 
 (1850) * SouancS, Bev. et Mag. de Zool 1856, p. 210. 
 
 Platycercus splendens, juv., Peale, U.S. FxplFxp. p. 128, pi. 34. f. 4 
@@ -36903,7 +36903,7 @@ MSth. iii. p. 1405 (1823); Yoxgt, Cuv. Uebers. p. 747 (1KJ1);
 Pucker. Rev. et Mag. de Zool. 1853, p. 1(53. 
 Psittacus sreptophorus (lege streptophorus), JDesm. Bid. 8c. Xat. 
 
-xxxix. p. 88 (1826); Bp. Compt. Bend. xliv. p. o>$8 (lb57). 
+xxxix. p. 88 (1826); Bp. Compt. Rend. xliv. p. o>$8 (lb57). 
 Psittacula torquata, Steph. Gen. Zool. xir. 2, p. 144 (1820) ; Jfagl. 
 Mon. Psitt. p. 630 (1832); Lear, Parr. pi. 40 (lb32). 
 Psittacus loxia, Cuv. Mus. Paris, fide Less. Tr. d'Orn. p. 204 (1831); 
