@@ -28938,7 +28938,7 @@ c Brotogerys devillei Salvadori, Cat. Birds Brit. Mus., xx, 1891, 261 (Amazon R.
 
 
 
-« (??) Psittacus cajenneus Miiller, Syst. Nat. Suppl., 1776, 81 (not of p. 78; based 
+« (??) Psittacus cajenneus Muller, Syst. Nat. Suppl., 1776, 81 (not of p. 78; based 
 
  on Petit Perruche de Cayenne Daubenton, PI. Enl., pi. 456, fig. 2). — (??) Psittacus nota- 
 
@@ -32828,7 +32828,7 @@ ce. Under parts grayish brown, washed with reddish purple; wing-coverts dusky,
 
 
 
-d Psittaeus fuscus Miiller, Syst. Nat. Suppl., 1776, 78 (Cayenne; based on Perroquet 
+d Psittaeus fuscus Muller, Syst. Nat. Suppl., 1776, 78 (Cayenne; based on Perroquet 
 
  varte, de Cayenne Daubenton, PI. Enl., pi. 408). — Pionus fuscus Salvadori, Cat. Birds 
 
@@ -32844,7 +32844,7 @@ d Psittaeus fuscus Miiller, Syst. Nat. Suppl., 1776, 78 (Cayenne; based on Perro
 
  fig. 3. — Amazona violacea Schlegel, Mus. Pays-Bas, Psittaci, 63; Revue, 1874, 29. — 
 
- [Psittaeus] purpureus (not of M tiller, 1776) Gmelin, Syst. Nat., i, pt. i, 1788, 346 
+ [Psittaeus] purpureus (not of Muller, 1776) Gmelin, Syst. Nat., i, pt. i, 1788, 346 
 
  (Surinam; based on Perroquet violet Barriere, Fr. Fjquin., 144; Papagei violet Buffon, 
 

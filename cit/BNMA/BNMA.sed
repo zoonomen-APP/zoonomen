@@ -52,3 +52,9 @@
 #s/ICey/Key/g
 #/Birds N\./ s/Codes/Coues/g
 s/Orn. Chib/Orn. Club/g
+/Syst/ s/Mdller/Muller/g
+/Syst/ s/Miiller/Muller/g
+/Syst/ s/Miiller/Muller/g
+/Syst/ s/Mtiller/Muller/g
+/Syst/ s/M tiller/Muller/g
+/Syst/ s/Mijller/Muller/g
