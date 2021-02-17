@@ -3367,7 +3367,7 @@ Orus frateroulus Cassin, in Balrd, Rep. Pacific R. R. Surv., ix, 1858, 656 (Albu
 
 
 
-Orus niediecki Eeichbnow, Om. Monatsb., xiv, 1906, 190 (Anadyr Bay, ne. Si- 
+Orus niediecki Eeichbnow, Orn. Monatsb., xiv, 1906, 190 (Anadyr Bay, ne. Si- 
 
  beria; see Buturlin, Ibis, 1907, 364, 365). 
 
@@ -3849,7 +3849,7 @@ Olrus] canadensis Maxemiuan, Journ. fiir Orn., vii, 1859, 84 (Wabash River;
 
 
 
-Orus americana (not Ardea atnericana Linnaeus) Auditbon, Om. Biogr., ill, 1835, 
+Orus americana (not Ardea atnericana Linnaeus) Auditbon, Orn. Biogr., ill, 1835, 
 
  441, pi. 261 (supposed young!) ; Synopsis, 1839, 219; Birds Amer., 8vo ed., 
 
@@ -6947,7 +6947,7 @@ Ballus longirostris caribaeus (p. 64)
 
 " Ballus longirostris cypereti. — Rallus cypereti Taczanowski, Proc. Zool. Soc. 
 
- London, 1877, 747 (Santa Lucia, Tumbez, nw. Peru; coll. Warsaw Mus.) ; Om. 
+ London, 1877, 747 (Santa Lucia, Tumbez, nw. Peru; coll. Warsaw Mus.) ; Orn. 
 
  P6rou, iii, 1886, 315. — [Ballus'] cypereti Brabourne and Chubb, Birds South 
 
@@ -7631,7 +7631,7 @@ Rallus crepitans Tdbton, Syst. Nat., i, 1806, 430 (New York). — WttsoN, Amer.
 
  Bridge, Cincinnati, May 1891). — Ameeican Ornithologists' Committee, 
 
- Auk, vii, 1890, 64; Check-list, ed. 2, 1895, No. 211.— Beewstee, Auk. xviii, 
+ Auk, vii, 1890, 64; Check-list, ed. 2, 1895, No. 211.— Bewster, Auk. xviii, 
 
  1901, 136 (East Orleans, Mass., Nov. 30, 1895).— Allen (G. M.), Proc. Man- 
 
@@ -8979,7 +8979,7 @@ SciATEB and Salvin, Proc. Zool. Soc. London, 1868, 444, part
 
 1864, 69 (Jamaica). 
 
- [Rallus Umgirostris'i c. var. cariteeus Ridgwat, Bull. Nutt. Om. Club, v, 1880, 
+ [Rallus Umgirostris'i c. var. cariteeus Ridgwat, Bull. Nutt. Orn. Club, v, 1880, 
 
 
 
@@ -9183,7 +9183,7 @@ Rallus longirostris (not of Boddaert) d'Okbignt, in La Sagra's Hist. Nat. Cuba,
 
  Ois., 1839, 260, pi. 31, fig. 5 (Spanish ed., 1839, 179).— Solateb and Salvin, 
 
- Proc. Zool. Soc. London, 1868, 444 (Cuba).— Gundlach, Om. (Jubana, 
+ Proc. Zool. Soc. London, 1868, 444 (Cuba).— Gundlach, Orn. (Jubana, 
 
  1895, 241. 
 
@@ -9636,7 +9636,7 @@ Rico).— Stahi,., Fauna de Puerto Eico, 1883, 63, 152 (Puerto Rico;
 
 specimen). 
 
- (?) [Balhis longiroatris] c. var. caribwus Ridgway, Bull. Nutt. Om. Club, v, 1880, 
+ (?) [Balhis longiroatris] c. var. caribwus Ridgway, Bull. Nutt. Orn. Club, v, 1880, 
 
 
 
@@ -11621,7 +11621,7 @@ coTT, Trans. lUinois Agr. Assoc, i, 1855, 386 (niinois).— Cassin, in
 
  No. 676; Birds Northwest, 1874, 535, part (excl. synonyms under "b. obso- 
 
- letus").—PmsDiE, Bull. Nutt. Om. Club, ii, 1877, 22 (Nahant, Mass., Nov. 21, 
+ letus").—PmsDiE, Bull. Nutt. Orn. Club, ii, 1877, 22 (Nahant, Mass., Nov. 21, 
 
  1875); iu, 1878, 140 (Sudbury Meadows, Mass.).— Bbbweb, Proc. Boston 
 
@@ -12030,7 +12030,7 @@ Rallus elegans (not of Audubon) Cabanis, Jonm. fur. Om., iv, 1836, 427
 
  (Cuba). — GiTN-DLACH, Joum. fiir Om., x, 1S62, 90 (Cuba; crit.) ; Contr. 
 
- Om. Cubana, 1876, 188; Om. Cubana, 1895, 239. — ^Thienemann, Joum. fiir 
+ Orn. Cubana, 1876, 188; Orn. Cubana, 1895, 239. — ^Thienemann, Joum. fiir 
 
  Om., V, 1857, 156 (Cuba; descr. ^gs). — Bbeweb, Proc. Boston Soc. Nat 
 
@@ -13159,7 +13159,7 @@ Rallus virginianus Tueton, Syst. Nat., i, 1806, 432.— Wilson, Amer. Orn., vii,
 
 
 
-1839, 216; Birds Amer., 8vo ed., v, 1842, 174, pi. 311.— Peabodt, Rep. Om. 
+1839, 216; Birds Amer., 8vo ed., v, 1842, 174, pi. 311.— Peabodt, Rep. Orn. 
 
  Massachusetts, 1839, 374. — Woodhotjse, Rep. Sitgreaves' Expl. Zufii and Colo- 
 
@@ -13211,7 +13211,7 @@ Rallus virginianus Tueton, Syst. Nat., i, 1806, 432.— Wilson, Amer. Orn., vii,
 
  zatian, Sinaloa, in winter). — Ridgwat, Orn. 40th Parallel, 1877, 612 (near 
 
- Pyramid Lake, Nev., May) ; Om. Illinois, ii, pt. i, 1895, 91. — Bkewsteb, Bull. 
+ Pyramid Lake, Nev., May) ; Orn. Illinois, ii, pt. i, 1895, 91. — Bkewsteb, Bull. 
 
  Nutt. Orn. Club, iv, 1879, 45 (descr. downy young). — Meabns, Bull. Nutt. Orn. 
 
@@ -14455,7 +14455,7 @@ Genus AMAUKOLIMNAS Sharpe
 
 
 
-Amaurolimnas Shakpb, BuU. Brit Om. Club, i, No. 5, 1893, p. xxviii. (Type, by- 
+Amaurolimnas Shakpb, BuU. Brit Orn. Club, i, No. 5, 1893, p. xxviii. (Type, by- 
 
  original designation and monotypy, Rallus concolor Gosse.) 
 
@@ -18585,7 +18585,7 @@ Porzana Carolina Baied, Lit. Eec. and Journ. Linn. Assoc. Pennsylvania Coll.,
 
  1878, 165 (Fort Brown ; Tex. ; breeding?). — Rathbun (F. R.), Rev. List Birds 
 
- Central New York, 1879, 35 (breeding). — Beewstee, Bull. Nutt. Orn. Club, 
+ Central New York, 1879, 35 (breeding). — Bewster, Bull. Nutt. Orn. Club, 
 
  iv, 1879, 46 (descr. downy young) ; Bull. Mus. Comp. Zool., xli. No. 1, 1902, 
 
@@ -20904,7 +20904,7 @@ Corethrura jamaicensis Lichtenstein, Nom. Av. Mus. Berol., 1854, 96.
 
 Creoiscus jamaicensis Cabanis, Journ. fiir Orn., 1856, 428 (Caba). — Gundlach, 
 
- Journ. fur Orn., 1875, 360 (Cuba) ; Contr. Orn. Cubana, 1876, 192; Om. 
+ Journ. fur Orn., 1875, 360 (Cuba) ; Contr. Orn. Cubana, 1876, 192; Orn. 
 
  Cubana, 1895, 245.— Stahl, Fauna Puerto Rico, 1883, 63, 153 (Puerto Rico; 
 
@@ -26921,7 +26921,7 @@ Fulica a[tra'] atra Glegg, Ibis, 1924, 86 (Macedonia; breeds locally). — Mein-
 
  Verb. Orn. Ges. Bay., xvi, 1925, 243 (Sagan distr., Germany). — Uhl, Verb. 
 
- Om. Ges. Bay., xvi, 1925, 313 (Neustadt, Germany). — Hildebeandt, Orn. 
+ Orn. Ges. Bay., xvi, 1925, 313 (Neustadt, Germany). — Hildebeandt, Orn. 
 
  Monatsb., xxxiv, 1926, 35 in test (ecology). — Schnabel, Verb. Orn. Ges. Bay., 
 
@@ -26969,7 +26969,7 @@ Fulica a[tra'] atra Glegg, Ibis, 1924, 86 (Macedonia; breeds locally). — Mein-
 
  Ges. Bay., xix, 1932, 545 (breeding habits; Hamburg, Germany). — Withebby, 
 
- Brit. Birds, xxvl, 1933, 351 (recovery of marked birds). — Rithke, Om. 
+ Brit. Birds, xxvl, 1933, 351 (recovery of marked birds). — Rithke, Orn. 
 
  Monatsb., xlii, 1934, 152 (nesting habits). — KtrMMERcowE aj?d Nibthammeb, 
 
@@ -27038,7 +27038,7 @@ FuUea platyuros Beehm, Vogel Deutschl., 1831, 711 (female with 16 rectrices).
 
 1849, 120, pi. 77 (Japan). 
 
- PuUca stenoleuca Packelhoff, Om. Monatsb., 1914, 288 (Germany). 
+ PuUca stenoleuca Packelhoff, Orn. Monatsb., 1914, 288 (Germany). 
 
  FuUca atra commvnis, maeulati-pennis, megapus A. E. Beehm, Verz. Samml., 
 

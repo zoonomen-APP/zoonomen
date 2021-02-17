@@ -17,11 +17,28 @@
 #s/nuttaUii /nuttallii /g
 #s/ nuttdUii/ nuttallii/g
 #2021.02.15
-s/HIGHEK /HIGHER /g
-s/GEOUPS,/ GROUPS,/g
-s/ FRINGILLIDJl/ FRINGILLIDAE/g
-s/ FEINTING OFFICE/ PRINTING OFFICE/g
-s/ FringillidjE/ Fringillidae/g
-s/ Fringillidre/ Fringilliae/g
-s/Cones/Coues/g
-s/Oalcarius/Calcarius/g
+#s/HIGHEK /HIGHER /g
+#s/GEOUPS,/ GROUPS,/g
+#s/ FRINGILLIDJl/ FRINGILLIDAE/g
+#s/ FEINTING OFFICE/ PRINTING OFFICE/g
+#s/ FringillidjE/ Fringillidae/g
+#s/ Fringillidre/ Fringilliae/g
+#s/Cones/Coues/g
+#s/Oalcarius/Calcarius/g
+#2021/02/16
+s/ Om. / Orn. /g
+s/ vespcHina Codes/ vespertina Coues/
+s/ vespcHina/ vestpertina/g
+s/ Beewstee/ Bewster/g
+s/ resieriina/ vespertina/g
+s/ vcxpcrtina/ vespertina/g
+s/ vesperma/ vespertina/g
+s/ Gameel/ Gambel/g
+s/ gambelU/ gambelii/g
+s/FrimjiUii/Fringilla/g
+s/BIEDS OF/BIRDS OF/g
+s/ BoucARD/ Boucard/g
+s/leucolxma/leucolaema/g
+s/Agelxus/Aglaius/g
+s/phceniceus/phoeniceus/g
+s/phmniceus/phoeniceus/g

@@ -3606,7 +3606,7 @@ According to Mr. Brewster," "the young of most, if not all, of the
 
 
 
-a Bull. Nutt. Om. Club, iii, 1878, 179, footnote. 
+a Bull. Nutt. Orn. Club, iii, 1878, 179, footnote. 
 
 
 
@@ -3748,7 +3748,7 @@ An exclusively Old World (western Palsearctic and Ethiopian) family, represented
 
 
 
-BIEDS OF NORTH AND MIDDLE AMERICA. 5 
+BIRDS OF NORTH AND MIDDLE AMERICA. 5 
 
 
 
@@ -4300,7 +4300,7 @@ c Crocomorpkus Hargitt, Cat. Birds Brit. Mus., xviii, 1890, 439. (Type, Pieus
 
 
 
-BIEDS OF NOBTH AND MIDDLE AMEEICA. 9 
+BIRDS OF NOBTH AND MIDDLE AMEEICA. 9 
 
 
 
@@ -5860,11 +5860,11 @@ Pieus auratus Vieillot, Nouv. Diet. d'Hist. Nat., xxvi, 1818, 70 ("Brazil"), 100
 
  fig. 1, part. — Bonaparte, Ann. Lye. N. Y., ii, pt. 1, 1826, 44, part. — Attdu- 
 
- BON, Om. Biog., i, 1832, 191, part, pi. 37; v, 1839, 540, part; Synopsis, 
+ BON, Orn. Biog., i, 1832, 191, part, pi. 37; v, 1839, 540, part; Synopsis, 
 
  1839, 184, part; Birds Am., oet. ed., iv, 1842, 282, part, pi. 273.— Nuttall, 
 
- Man. Om. U. S. and Can., i, 1832, 561, part. — Sundevall, Consp. Pie., 1866, 
+ Man. Orn. U. S. and Can., i, 1832, 561, part. — Sundevall, Consp. Pie., 1866, 
 
  71, part. 
 
@@ -5898,13 +5898,13 @@ Colaptes auratus Swainson, Fauna Bor.-Am., ii, 1831, pp. xxvi, 314, part; Classi
 
  rare straggler). — Ridgway, Proc. TJ. S. Nat. Mus., iii, 1880, 190, part; Nom. 
 
- N. Am. Birds, 1881, no. 378, part; Bull. Nutt. Om. Club, vi, 1881, 121 (Mt. 
+ N. Am. Birds, 1881, no. 378, part; Bull. Nutt. Orn. Club, vi, 1881, 121 (Mt. 
 
- Carmel, Illinois; crit.); Om. Illinois, i, 1889, 387, part. — Ingersoll, Bull. 
+ Carmel, Illinois; crit.); Orn. Illinois, i, 1889, 387, part. — Ingersoll, Bull. 
 
- Nutt. Om. Club, vi, 1881, 184, part (vernacular synonymy). — Nehrlinq, 
+ Nutt. Orn. Club, vi, 1881, 184, part (vernacular synonymy). — Nehrlinq, 
 
- Bull. Nutt. Om. Club, vii, 1882, 171 (s. e. Texas, breeding, but chiefly in win- 
+ Bull. Nutt. Orn. Club, vii, 1882, 171 (s. e. Texas, breeding, but chiefly in win- 
 
  ter) . — American Ornithologists' Union, Check List, 1886 (and 2d ed. , 1895), 
 
@@ -6045,11 +6045,11 @@ Pieus auratus (not Cuculus auratus Linnaeus) Vieillot, Ois. Am. Sept., ii, 1807,
 
  d'Om., 1831, 228, part.— Wilson, Am. Om., i, 1810, 45, part, pi. 3, fig. 1.— 
 
- Bonaparte, Ann. Lye. N. Y., ii, pt. i, 1826, 44, part. — Aitditbon, Om. 
+ Bonaparte, Ann. Lye. N. Y., ii, pt. i, 1826, 44, part. — Aitditbon, Orn. 
 
  Biog., i, 1832, 191, part, pi. 37; v, 1839, 540, part; Synopsis, 1839, 184, part; 
 
- Birds Am., oet. ed., iv, 1842, 282, part, pi. 273.— Nuttall, Man. Om. U. S. 
+ Birds Am., oet. ed., iv, 1842, 282, part, pi. 273.— Nuttall, Man. Orn. U. S. 
 
  and Can., Land Birds, 1832, 561, part. — Sundevall, Consp. Pic, 1866, 
 
@@ -6116,7 +6116,7 @@ Colaptes auratus Swainson, Faima Bor.-Am., ii, 1831, pp. xxvi, 314, part; Classi
 
  Orn. Club, v, 1880, 56 (nesting in natural cavity). — (7)Dalgleish, Bull. 
 
- Nutt. Om. Club, V, 1880, 74 (accidental in England).— Hardy, Bull. Nutt. 
+ Nutt. Orn. Club, V, 1880, 74 (accidental in England).— Hardy, Bull. Nutt. 
 
  Orn. Club, v, 1880, 241 (imusual nesting sites). — Ridqwat, Nom. N. Am. 
 
@@ -6632,9 +6632,9 @@ CoUvptes hybridus Baibd, Eep. Pacific E. R. Surv., ix, 1858, 122 (valleys of upp
 
  Bebwbe, and Eidgwat, Hist. N. Am. Birds, ii, 1874, 582, pi. 54, fig. 8. — 
 
- RIDGWAY, Field and Forest, 1877, 209 (Colorado); Om. 40th Parallel, 1877, 
+ RIDGWAY, Field and Forest, 1877, 209 (Colorado); Orn. 40th Parallel, 1877, 
 
- 556 (Washoe Valley, Nevada, 1 spec, Jan.); Om. Illinois, i, 1889, 387. — 
+ 556 (Washoe Valley, Nevada, 1 spec, Jan.); Orn. Illinois, i, 1889, 387. — 
 
  Bendikb, Proc. Bost. Soc. N. H., xix, 1877, 130 (Camp Harney, Oregon, 
 
@@ -6654,7 +6654,7 @@ Colaptes auratus, var. hybridus Ridgwat, Bull. Essex Inst., vii, Jan., 1875, 38
 
 
 
-Colaptes auratus, y. hybridus Ridgwat, Bull. Nutt. Om. Club, iii, Apr., 1878, 
+Colaptes auratus, y. hybridus Ridgwat, Bull. Nutt. Orn. Club, iii, Apr., 1878, 
 
  68 (Calaveras Co., California; crit.). — ^Bblding and Ridgway, Proc. U. S. 
 
@@ -6664,7 +6664,7 @@ Colaptes auratus, y. hybridus Ridgwat, Bull. Nutt. Om. Club, iii, Apr., 1878,
 
 Colaptes auratus hybridus Ridgway, Proc. IT. S. Nat. Mus., iii, Aug. 24, 1880, 
 
- 190; Norn. N. Am. Birds, 1881, no. 378a.— Brown (N. C), Bull. Nutt. Om. 
+ 190; Norn. N. Am. Birds, 1881, no. 378a.— Brown (N. C), Bull. Nutt. Orn. 
 
  Club, vii, 1882, 40 (Boeme, Kendall Co., w. Texas). 
 
@@ -6674,13 +6674,13 @@ Pious hybridus auraio-mexicanus Sundevall, Consp. Picinarium, 1866, 72.
 
 
 
-Colaptes auratus+mexicanus Coues, Bull. Nutt. Om. Club, vi, July, 1881, 183, 
+Colaptes auratus+mexicanus Coues, Bull. Nutt. Orn. Club, vi, July, 1881, 183, 
 
  in text (Ft. Whipple, Arizona, 1 spec, Feb. 20). 
 
 
 
-Colaptes auratus+C. Tnexicanus Bebieb, Bull. Nutt. Om. Club, vi, Oct., 1881, 
+Colaptes auratus+C. Tnexicanus Bebieb, Bull. Nutt. Orn. Club, vi, Oct., 1881, 
 
  247 (Orange Co. and Ft. Hamilton, New York; Mt. Carmel, Illinois). 
 
@@ -6692,7 +6692,7 @@ Colaptes auratus+cafer Burns, Wilson Bull., no. 18, 1898, 4 (Chester Co., Penn-
 
 
 
-{1)Colaptes auratus? Ridgway, Om. 40th Parallel, 1877, 557 (West Humboldt 
+{1)Colaptes auratus? Ridgway, Orn. 40th Parallel, 1877, 557 (West Humboldt 
 
  Mts., Nevada, 1 spec, Oct.). 
 
@@ -6700,7 +6700,7 @@ Colaptes auratus+cafer Burns, Wilson Bull., no. 18, 1898, 4 (Chester Co., Penn-
 
 Colaptes auratus (not Cu,culus auratus Linnaeus) Allen, Bull. Mxis. Comp. Zool., 
 
- iii, 1872, 139 (Ft. Hays, w. Kansas).— Beeieb, Bull. Nutt. Om. Club, v, 
+ iii, 1872, 139 (Ft. Hays, w. Kansas).— Beeieb, Bull. Nutt. Orn. Club, v, 
 
  1880, 47 (Ft. Hamilton, New York, 1 spec, Oct. 4, 1879). 
 
@@ -6837,11 +6837,11 @@ Colaptes dirysocaidosua Gtjndlach, Ann. Lye. Nat. Hist. N. Y., vi, 1858, 273
 
 
 
-( , Cuba); Joum. fur Om., 1874, 153 (habits); Contr. Om. Cubana, 
+( , Cuba); Joum. fur Om., 1874, 153 (habits); Contr. Orn. Cubana, 
 
 
 
-1876, 274; Om. Cubana, ed. 1895, 142.— Albeecht, Joum. flir Om., 1861, 
+1876, 274; Orn. Cubana, ed. 1895, 142.— Albeecht, Joum. flir Om., 1861, 
 
  210.— CoET, Auk, iii, 1886, 330 (synonymy; descr.); Birds West Ind., 1889, 
 
@@ -8693,7 +8693,7 @@ Colaptes mexicanus (not of Swainson, 1827) Swainson, Fauna Bor.-Am., ii, 1831,
 
  pp. xxvi, 315, part.— Jaedinb, ed. Wilson's Am. Om., i, 1832, 43, 44, foot- 
 
- note.— Nuttall, Man. Om. U. S. and Can., Land Birds, 2d ed., 1840, 
+ note.— Nuttall, Man. Orn. U. S. and Can., Land Birds, 2d ed., 1840, 
 
  667.— Sclater, Proc. Zool. Soc. Lond., 1857, 127 (San Jos6 Valley, Califor- 
 
@@ -8726,7 +8726,7 @@ Colaptes mexicanus (not of Swainson, 1827) Swainson, Fauna Bor.-Am., ii, 1831,
 
 
 
-BIEDS OF NOBTH AND MIDDLE AMEBICA. 35 
+BIRDS OF NOBTH AND MIDDLE AMEBICA. 35 
 
 
 
@@ -8762,7 +8762,7 @@ C[olaptes] mexuxmus Maximilian, Journ. f flr Om., 1858, 421 (Port Union). — Co
 
 
 
-PifMS mexicanus Audubon, Om. Biog., v, 1839, 174, pi. 416, fig. 5; Synopsis, 1839, 
+PifMS mexicanus Audubon, Orn. Biog., v, 1839, 174, pi. 416, fig. 5; Synopsis, 1839, 
 
  185; Birds Am., oct. ed., iv, 1842, 290, pi. 274.— Sundevall, Consp. Av. 
 
@@ -8770,7 +8770,7 @@ PifMS mexicanus Audubon, Om. Biog., v, 1839, 174, pi. 416, fig. 5; Synopsis, 183
 
 
 
-Pieus (Colaptes) mexicanus Nuttall, Man. Om. U. S. and Can., Water Birds, 
+Pieus (Colaptes) mexicanus Nuttall, Man. Orn. U. S. and Can., Water Birds, 
 
  1834, 603. 
 
@@ -8782,7 +8782,7 @@ Geopicus mexHcanus Malhebbb, Mon. Picid., ii, 1862, 262, part.
 
 Colaptes auratus, var. mexiMnua Ridgwat, Bull. Essex Inst., v, Nov., 1873, 185 
 
- (Colorado). — ^Hbnshaw, Rep. Om. Spec. Wheeler's Surv., 48 (Utah), 67 
+ (Colorado). — ^Hbnshaw, Rep. Orn. Spec. Wheeler's Surv., 48 (Utah), 67 
 
  (Platte R.). 
 
@@ -8796,7 +8796,7 @@ Colaptes auratus mexicanus Ridgwat, Bull. Essex Inst., vi, Oct., 1874, 171 (Sac-
 
  Nat. Mus., iii, 1880, 7, 190, part; Nom. N. Am. Birds, 1881, no. 3786, part.— 
 
- Meaens, Bull. Nutt. Om. Club, iv, 1879, 195 (Ft. Klamath, Oregon).— 
+ Meaens, Bull. Nutt. Orn. Club, iv, 1879, 195 (Ft. Klamath, Oregon).— 
 
  Hbnshaw, Auk, iii, 1886, 79 (upper Pecos R., New Mexico). 
 
@@ -8814,7 +8814,7 @@ Colaptes auratus, var. mmcanus Ridgway, Bull. Essex Inst., vii, Jan., 1875, 38
 
 
 
-Colaptes auratus, /?. wiyexkanus Ridgway, Bull. Nutt. Om. Club, iii, April, 1878, 
+Colaptes auratus, /?. wiyexkanus Ridgway, Bull. Nutt. Orn. Club, iii, April, 1878, 
 
  67 (Calaveras Co., California).— Belding, Proc. U. S. Nat. Mus., i, 1879, 430 
 
@@ -8915,7 +8915,7 @@ Northwest coast district, from northern California (Humboldt
 
 
 
-Colaptes mexiearms (not of Swainson) Nuttall, Man. Om. U. S. and Can., Land 
+Colaptes mexiearms (not of Swainson) Nuttall, Man. Orn. U. S. and Can., Land 
 
  Birds, 2d ed., 1840, 667, part.— Sclatbk, Proc. Zool. Soc. Lond., 1859, 236 
 
@@ -8927,7 +8927,7 @@ Colaptes mexiearms (not of Swainson) Nuttall, Man. Om. U. S. and Can., Land
 
  Ibis, 1868, 419 (Vancouver I.). — Dall and Bannister, Trans. Chicago 
 
- Ac. Sci., i, 1869, 275 (Sitka, Alaska).— Cooper, Om. Calif., 1870, 408, part.— 
+ Ac. Sci., i, 1869, 275 (Sitka, Alaska).— Cooper, Orn. Calif., 1870, 408, part.— 
 
  CouES, Check List, 1873, no. 314, part; 2d ed., 1882, no. 459, part; Birds 
 
@@ -9052,7 +9052,7 @@ Adult female.— Length (akms), 283-314 (296); wing, 148.5-158
 
  Nat. Mus.). 
 
- Colaptes rufipileus Ridgway, Bull. Nutt. Om. Club, ii, July, 1877, 60, 61; Proc. 
+ Colaptes rufipileus Ridgway, Bull. Nutt. Orn. Club, ii, July, 1877, 60, 61; Proc. 
 
  U. S. Nat. Mua., iii, 1880, 190, 219, 229; Nom. N. Am. Birds, 1881, no. 
 
@@ -9530,7 +9530,7 @@ Nesoceleuafemandinx Cory, Auk, iii, 1886, 380; Birds West Ind., 1889, 176; Cat.
 
 
 
-Nesoelevs femandinae Gundlach, Om. Cubana, ed. 1895, 144. 
+Nesoelevs femandinae Gundlach, Orn. Cubana, ed. 1895, 144. 
 
 
 
@@ -9734,7 +9734,7 @@ i After carefully examining a very large number of sexed specimens I have been
 
 
 
-BIEDS OF NORTH AND MIDDLE AMEKICA. 
+BIRDS OF NORTH AND MIDDLE AMEKICA. 
 
 
 
@@ -10085,13 +10085,13 @@ Picus erythrocephalus Temminck, Cat. Syst., 1807, 62. — ^Vieillot, Ois. Am. Se
 
  Deapiez, Diet. Class., xiii, 1828, 496.— Bonapahte, Ann. Lye. N. Y., ii, pt. i, 
 
- 1826, 45.— Lesson, Traits d'Om., 1831, 227.— Audubon, Om. Biog., i, 1831, 
+ 1826, 45.— Lesson, Traits d'Om., 1831, 227.— Audubon, Orn. Biog., i, 1831, 
 
  141, pi. 27; V, 1839, 536; Synopsis, 1839, 184; Birds Am., oct. ed., iv, 1842, 
 
- 274, pi. 271.— NUTTALL, Man. Om. U. S. and Can., Land Birds, 1832, 569, 
+ 274, pi. 271.— NUTTALL, Man. Orn. U. S. and Can., Land Birds, 1832, 569, 
 
- 2d ed., 1840, 674.— Hahn and Kustek, Om. Atlaa, 1834, pi. 2.— Putnam, 
+ 2d ed., 1840, 674.— Hahn and Kustek, Orn. Atlaa, 1834, pi. 2.— Putnam, 
 
  Proc. Essex Inst., i, 1856, 214 (Massachusetta). — Sundevall, Consp. Av. 
 
@@ -10138,7 +10138,7 @@ Sci. Phila., 1859, 105 (Rio Grande, New Mexico, 1 spec, July). — Vereill,
 
  Ann. Lye. N. Y., viii, 1866, 291 (vicinity of New York City).— Geat, List 
 
- Birds Brit. Mus., Picidse, 1868, 115.— Coopeb, Om. Calif., 1870, 402.— Allen, 
+ Birds Brit. Mus., Picidse, 1868, 115.— Coopeb, Orn. Calif., 1870, 402.— Allen, 
 
  Bull. Mus. Comp. Zool., iii, 1872, 129 (Leavenworth and Topeka, Kansas), 
 
@@ -10158,13 +10158,13 @@ Sci. Phila., 1859, 105 (Rio Grande, New Mexico, 1 spec, July). — Vereill,
 
 1873, 173 (Salt Lake City, Utah, 1 spec, May), 177, 185 (Colorado); vii, 1875, 
 
- 31 (Salt Lake City); Field and Forest, i, 1877, 209 (Colorado); Om. 40th 
+ 31 (Salt Lake City); Field and Forest, i, 1877, 209 (Colorado); Orn. 40th 
 
  Parallel, 1877, 554 (Salt Lake City; Laramie, Wyoming); Proc. TJ. S. Nat. 
 
- Mus., iii, 1880, 189; Nom. N. Am. Birds, 1881, no. 375; Bull. Nutt. Om. 
+ Mus., iii, 1880, 189; Nom. N. Am. Birds, 1881, no. 375; Bull. Nutt. Orn. 
 
- Club, vi, 1881, 120 (unusual migration in s. Illinois in fall of 1879); Om. 
+ Club, vi, 1881, 120 (unusual migration in s. Illinois in fall of 1879); Orn. 
 
  Ilhnois, i, 1889, 383.— Coubs, Check List, 1873, no. 309; 2d ed., 1882, no. 
 
@@ -10180,7 +10180,7 @@ Sci. Phila., 1859, 105 (Rio Grande, New Mexico, 1 spec, July). — Vereill,
 
 1874, 564, pi. 54, fig. 4; special ed., 1875, plate facing p. 564. — Feenald, 
 
- Am. Nat., viii, 1874, 437 (Orono, Maine, accidental). — Henshaw, Rep. Om. 
+ Am. Nat., viii, 1874, 437 (Orono, Maine, accidental). — Henshaw, Rep. Orn. 
 
  Spec. Wheeler's Surv., 1874, 90 (South Park and Huerfano R., Colorado); 
 
@@ -10194,23 +10194,23 @@ Sci. Phila., 1859, 105 (Rio Grande, New Mexico, 1 spec, July). — Vereill,
 
  tana). — ^McCaulbt, Rep. U. S. Geol. and Geog. Surv. Terr., iii, 1877, 679 
 
- (Red R. Valley, Texas; crit.).— Bailbt (H. B.), Bull. Nutt. Om. Club, iii, 
+ (Red R. Valley, Texas; crit.).— Bailbt (H. B.), Bull. Nutt. Orn. Club, iii, 
 
  1878, 97 (Vermilion, South Dakota; habits). — ^Maynaed, Birds Florida, 1878, 
 
- 229.— Mberiam, Bull. Nutt. Om. Club, iii, 1878, 123 (Lewis Co., New York, 
+ 229.— Mberiam, Bull. Nutt. Orn. Club, iii, 1878, 123 (Lewis Co., New York, 
 
  resident; habits); vi, 1881, 232 (Adirondack region, breeding). — ^Rathbun 
 
  (F. R.), Rev. List Birds Centr. New York, 1879, 25 (resident).— Coues 
 
- (G. H.), Bull. Nutt. Om. Club, iv, 1879, 31 (Brooklyn, New York, summer 
+ (G. H.), Bull. Nutt. Orn. Club, iv, 1879, 31 (Brooklyn, New York, summer 
 
  resident). — ^Roberts, 8th An. Rep. Geol. and Nat. Hist. Surv. Minn., 
 
  1880, 163(Duluth, 1 spec, July 11, 1877); in Wilcox's Hist. Becker Co., Minn., 
 
- 1907, 176 (common).— Agersborg, Bull. Nutt. Om. Club, vi, 1881, 120 (Ver- 
+ 1907, 176 (common).— Agersborg, Bull. Nutt. Orn. Club, vi, 1881, 120 (Ver- 
 
  miUon, South Dakota; pecuUar nesting site). — Brown (N. C), Proc. Portland 
 
@@ -10218,17 +10218,17 @@ Sci. Phila., 1859, 105 (Rio Grande, New Mexico, 1 spec, July). — Vereill,
 
  Roy. DubUn Soc, iii, 1882, 59 (Navarro Co., Texas, uncommon in summer). — 
 
- PuRDiB, Bull. Nutt. Om. Club, vii, 1882, 57 (near Boston, Massachusetts, 
+ PuRDiB, Bull. Nutt. Orn. Club, vii, 1882, 57 (near Boston, Massachusetts, 
 
- Sept., Oct., and Nov., 1881).— Williams, Bull. Nutt. Om. Club, vii, 1882, 
+ Sept., Oct., and Nov., 1881).— Williams, Bull. Nutt. Orn. Club, vii, 1882, 
 
- 63 (Belt Mts., Montana, 1 spec). — Knowlton, Bull. Nutt. Om. Club, vii, 
+ 63 (Belt Mts., Montana, 1 spec). — Knowlton, Bull. Nutt. Orn. Club, vii, 
 
  1882, 63 (Orwell, Brandon, Rutland, etc, Vermont, common). — ^Nbhrling, 
 
- Bull. Nutt. Om. Club., vii, 1882, 171 (Houston, etc., s. e. Texas, breeding). — 
+ Bull. Nutt. Orn. Club., vii, 1882, 171 (Houston, etc., s. e. Texas, breeding). — 
 
- Allen and Brewster, Bull. Nutt. Om. Club, viii, 1883, 196 (Colorado 
+ Allen and Brewster, Bull. Nutt. Orn. Club, viii, 1883, 196 (Colorado 
 
  Springs, Colorado). — Drew, Auk, ii, 1885, 17 (Colorado, breeding from 
 
@@ -10630,7 +10630,7 @@ Bill slightly shorter to decidedly longer than head, its length
 
 
 
-BIEDS OF NORTH AND MTDDLB AMEEICA. 49 
+BIRDS OF NORTH AND MTDDLB AMEEICA. 49 
 
 
 
@@ -11794,9 +11794,9 @@ Upper and Lower Austral zones of eastern United States; north,
 
  1826, 45.— Valenciennes, Diet. Sei. Nat., xl, 1826, 181.— Deapibz, Diet. 
 
- Class., xiii, 1828, 496. — Nuttall, Man. Om. U. S. and Can., Land Birds, 
+ Class., xiii, 1828, 496. — Nuttall, Man. Orn. U. S. and Can., Land Birds, 
 
- 1832, 572; 2d ed., 1840, 677.— Audubon, Om. Biog., v, 1839, 169, pi. 415, 
+ 1832, 572; 2d ed., 1840, 677.— Audubon, Orn. Biog., v, 1839, 169, pi. 415, 
 
  fig. 3; pi. 416, fig. 4; Synopsis, 1839, 183; Birds Am., oct. ed., iv, 1842, 270, 
 
@@ -11820,7 +11820,7 @@ Nat. Sci. Phila., iii, pt. ii, 1824, 370; Obs. Wils. Am. Om., 1826, [31].
 
  Inst., iv, 1864, 53 (Massachusetts, accidental); Bull. Mus. Comp. Zool., ii, 
 
- 1871, 306 (Florida); iii, 1872, 180 (Kansas); Bull. Nutt. Om. Club, vi, 1881, 
+ 1871, 306 (Florida); iii, 1872, 180 (Kansas); Bull. Nutt. Orn. Club, vi, 1881, 
 
  183 (Massachusetts). — Dresser, Ibis, 1865, 469 (San Antonio, etc., 'Texas, 
 
@@ -11846,19 +11846,19 @@ Nat. Sci. Phila., iii, pt. ii, 1824, 370; Obs. Wils. Am. Om., 1826, [31].
 
  Lye. N. Y., xi, 1875, 144 (Ritchie Co., West Virginia; habits); Bull. Nutt. 
 
- Om. Club, iii, 1878, 181 (deser. young female). — Meeeiam, Trans. Conn. 
+ Orn. Club, iii, 1878, 181 (deser. young female). — Meeeiam, Trans. Conn. 
 
- Ae. Sei., iv, 1877, 65 (accidental in Connecticut); Bull. Nutt. Om. Club, iv, 
+ Ae. Sei., iv, 1877, 65 (accidental in Connecticut); Bull. Nutt. Orn. Club, iv, 
 
- 1879, 6 (Lewis Co., New York, 1 spec, winter). — ^Meaens, Bull. Nutt. Om. 
+ 1879, 6 (Lewis Co., New York, 1 spec, winter). — ^Meaens, Bull. Nutt. Orn. 
 
  Club, iii, 1878, 146 (Comwall, 1 spec, Sept., 1870).— Rathbun (F. R.), Rev. 
 
- List Birds Centr. New York, 1879, 25 (resident). — Plummbr, Bull. Nutt. Om. 
+ List Birds Centr. New York, 1879, 25 (resident). — Plummbr, Bull. Nutt. Orn. 
 
  Club, vi, 1881, 120 (Newton, Massachusetts, 1 spec, Nov. 25, 1880).— Brown, 
 
- (N. C), Bull. Nutt. Om. Club, vii, 1882, 40 (Boeme, KendaU Co., s. w. 
+ (N. C), Bull. Nutt. Orn. Club, vii, 1882, 40 (Boeme, KendaU Co., s. w. 
 
 
 
@@ -11871,7 +11871,7 @@ Nat. Sci. Phila., iii, pt. ii, 1824, 370; Obs. Wils. Am. Om., 1826, [31].
 
 
 
-Texas, rare).— Neheling, BuU. Nutt. Om. Club, vii, 1882, 171 (s. e. Texas, 
+Texas, rare).— Neheling, BuU. Nutt. Orn. Club, vii, 1882, 171 (s. e. Texas, 
 
  breeding).— Ogilbt, Sci. Proc. Roy. Dublin Soc, iii, 1882, 59 (Navarro Co., 
 
@@ -11967,7 +11967,7 @@ Melanerpes carolinus American Ornithologists' Union, Check List, 1886 (and
 
  Scott, Auk, vi, 1889, 251 (Tarpon Springs, Punta Rassa, and Key West, 
 
- Florida). — Ridgwat, Om. Illinois, i, 1889, 384. — Bergtold, List Birds 
+ Florida). — Ridgwat, Orn. Illinois, i, 1889, 384. — Bergtold, List Birds 
 
  Buffalo, New York, 1889, 12 (straggler).— Lewis, Auk, vii, 1890, 206 (New- 
 
@@ -12040,7 +12040,7 @@ C[entunis] carolinenm Swainson, Classif. Birds, ii, 1837, 310.
 
 Centurus carolinenm Abbott, Am. Nat., iv, 1870, 538 (New Jersey). — Beck- 
 
- ' HAM, Bull. Nutt. Om. Club, vii, 1882, 164 (Bayou Sara, Louisiana). — Seton, 
+ ' HAM, Bull. Nutt. Orn. Club, vii, 1882, 164 (Bayou Sara, Louisiana). — Seton, 
 
  Auk, ii, 1885, 335 (Toronto, Ontario). 
 
@@ -12264,7 +12264,7 @@ BIRDS OF NORTH AND MIDDLE AMERICA. 61
 
 Centurus superdlians Cabanis, Joum. fiir Om., 1856, 103 (habits; crit.). — Gtjnd- 
 
- LACH, Joum. fur Om., 1874, 152 (habita); Om, Cubana, ed. 1895, 141.— 
+ LACH, Joum. fur Om., 1874, 152 (habita); Orn. Cubana, ed. 1895, 141.— 
 
  Brewer, Proc. Bost. Soc. N. H., vii, 186b, 307.— Sclateb, Cat. Am. Birds, 
 
@@ -13790,7 +13790,7 @@ Oct. 17, 1885, 576 (Cozumel Island, Yucatan; coll. U. S. Nat. Mus.).
 
 
 
-BIEDS OF NORTH AND MIDDLE AMERICA. 1 6 
+BIRDS OF NORTH AND MIDDLE AMERICA. 1 6 
 
 
 
@@ -14110,7 +14110,7 @@ One adult female ( C. s. subelegans) from British Oulana
 
 
 
-BIEDS OF NORTH AND MIDDLE AMEEICA. 75 
+BIRDS OF NORTH AND MIDDLE AMEEICA. 75 
 
 
 
@@ -14364,7 +14364,7 @@ o Eight specimens.
 
 
 
-BIEDS OF NORTH AND MIDDLE AMERICA. 
+BIRDS OF NORTH AND MIDDLE AMERICA. 
 
 
 
@@ -14444,7 +14444,7 @@ Centurus hoffmanni Lawrence, Ann. Lye. N. Y., ix, 1868, 131 (San Joa6 and
 
  Grecia, Costa Eica). — Prantzius, Joum. fiir Om., 1869, 364 (Costa Rica). — 
 
- BoucARD, Proc. Zool. Soc. Lond., 1878, 49 (San 3ob6, Cartago, and Punta 
+ Boucard, Proc. Zool. Soc. Lond., 1878, 49 (San 3ob6, Cartago, and Punta 
 
  Arenas, Costa Rica). — Zeled(3n, Cat. Aves de Costa Rica, 1882, 23; Anal. 
 
@@ -15502,7 +15502,7 @@ Centurus aurifrons Sclatbr, Cat. Am. Birds, 1862, 343 (n. Mexico). — Oabanis,
 
  Joum. fiir Orn., 1863, 323 (crit.).— Gray, List Birds Brit. Mus., Picidae, 1868, 
 
- 103. — Duois, La Natuialeza, i, 1873, 139 (Guanajuato). — Cooper, Om. 
+ 103. — Duois, La Natuialeza, i, 1873, 139 (Guanajuato). — Cooper, Orn. 
 
  (' Calif., 1870, 399 (Texas, etc.).— Coues, Check List, 1873, no. 307; 2d ed., 
 
@@ -15522,7 +15522,7 @@ Centurus aurifrons Sclatbr, Cat. Am. Birds, 1862, 343 (n. Mexico). — Oabanis,
 
  1881, 104 (monogr.); Nom. N. Am. Birds, 1881, no. 373.— Brown (N. C), 
 
- Bull. Nutt. Om. Club, vii, 1882, 40 (Boeme, Kendall Co., w. Texas, resi- 
+ Bull. Nutt. Orn. Club, vii, 1882, 40 (Boeme, Kendall Co., w. Texas, resi- 
 
  dent). — -American Ornithologists' Union Committee, Auk, xx, 1903, 
 
@@ -15558,7 +15558,7 @@ Melanerpes aurifrons BjDaw AY, Proc.TJ. S.Nat. Mus. ,viii,no. 23, Sept. 2,1885,3
 
  410. — Lloyd, Auk, iv, 1887, 191 (w. in Texas to Castle Mts., Tom Green Co., and 
 
- n. to Texas and Pacific R. R.). — Hancock, Bull. Ridgw. Om. Club, no. 2, 1887, 
+ n. to Texas and Pacific R. R.). — Hancock, Bull. Ridgw. Orn. Club, no. 2, 1887, 
 
  16 (Corpus Christi, Texas).— Cooke, Bird Migr. Miss. Val., 1888, 132 (Tom 
 
@@ -15645,7 +15645,7 @@ C[entuTUs] subekgans (not of Bonaparte, 1837) Gray, Gen. Birds, ii, 1846, 442.
 
  ■ [Centums] subelegans Bonaparte, Ateneo Italiano, ii, 1854, 126 (Consp. Volucr. 
 
- Zygod., 1854, 11), part (excl. syn.); Notes Om. Coll. Delatte6, 1854, 85. 
+ Zygod., 1854, 11), part (excl. syn.); Notes Orn. Coll. Delatte6, 1854, 85. 
 
 
 
@@ -16884,7 +16884,7 @@ o Seven Bpecimens. 6 Four specimens.
 
 
 
-BIEDS OF NORTH AND MIDDLE AMEEICA. 93 
+BIRDS OF NORTH AND MIDDLE AMEEICA. 93 
 
 
 
@@ -17262,7 +17262,7 @@ Centurus uropygialis Baibd, Proc. Ac. Nat. Sci. PMla., vii, June, 1854, 120 (Bil
 
  Proc. Ac. Nat. Sci. Phila., 1866, 54 (Ft. Whipple, Arizona, rare); Check List, 
 
- 1873, no. 308, part; 2d ed., 1882, no. 452, part.— Cooper, Om. Cal., 1870, 
+ 1873, no. 308, part; 2d ed., 1882, no. 452, part.— Cooper, Orn. Cal., 1870, 
 
  399 (Pt. Mojave, California). — ^Baird, Brewer, and Ridgway, Hist. N. Am. 
 
@@ -17270,7 +17270,7 @@ Centurus uropygialis Baibd, Proc. Ac. Nat. Sci. PMla., vii, June, 1854, 120 (Bil
 
  habits; descr. eggs). — Lawrence, Mem. Bost. See. N. H., ii, 1874, 294 
 
- (Mazatlan, Sinaloa; Tepic; Guadalajara, Jalisco). — ^Henshaw, Rep. Om. 
+ (Mazatlan, Sinaloa; Tepic; Guadalajara, Jalisco). — ^Henshaw, Rep. Orn. 
 
  Spec. Wheeler's Surv., 1874, 133 (Valley of GUa R. and southward, Ari- 
 
@@ -17324,7 +17324,7 @@ Melanerpes uropygialis Ridgway, Proc. U. S. Nat. Mus., viii, no. 23, Sept. 2, 18
 
  1895), no. 411, part. — Scott, Auk, iii, 1886, 428 (Tucson, Florence, Riverside, 
 
- etc., Arizona; habits). — Morcom, Bull. Ridgway Om. Club, no. 2, 1887, 42 
+ etc., Arizona; habits). — Morcom, Bull. Ridgway Orn. Club, no. 2, 1887, 42 
 
  (Yuma,Ca]ifomia, breeding). — Hargitt, Cat. BirdsBrit. Mus., xviii, 1890, 182, 
 
@@ -17879,7 +17879,7 @@ Geat, List Birds Brit. Mus., Gapit. and Picid., 1868, 102.— Ridgwat, Proc.
 
 
 
-U. S. Nat. Mus., iv, 1881, 117 (monogr.).— Coet, Bull. Nutt. Om. Club, vi, 
+U. S. Nat. Mus., iv, 1881, 117 (monogr.).— Coet, Bull. Nutt. Orn. Club, vi, 
 
 
 
@@ -17913,7 +17913,7 @@ Birds West Ind., 1885, 20.
 
 
 
-West Ind. Birds, 1892, 12, 104, 131.— Cheeeie, Contr. Om. San Dom., 1896, 
+West Ind. Birds, 1892, 12, 104, 131.— Cheeeie, Contr. Orn. San Dom., 1896, 
 
 
 
@@ -18869,7 +18869,7 @@ Melanerpes fanrddvorus (not Picus formieivortis Swainson) Baihd, Rep. Pacific
 
  Check List, 1873, no. 310, part; 2d ed., 1882, no. 310, part.— Coopbb, Om.' 
 
- Calif., 1870, 403, part (Arizona). — Henshaw, Rep. Om. Coll. Wheeler's 
+ Calif., 1870, 403, part (Arizona). — Henshaw, Rep. Orn. Coll. Wheeler's 
 
  Surv., 1874, 134 (Oak Orchard and Apache, Ariztoa; habits); Zool. Exp. 
 
@@ -18919,7 +18919,7 @@ Melanerpes formidvorus bairdi Ridgwat, Bull. U. S. Nat. Mus., no. 21, 1881,
 
  35 (no. 377), 85, part (w. Mexico).— Coues, Check List, 2d ed., 1882, no. 
 
- 454, part. — Brewster, Bull. Nutt. Om. Club, viii, 1883, 24 (Chiricahua 
+ 454, part. — Brewster, Bull. Nutt. Orn. Club, viii, 1883, 24 (Chiricahua 
 
  Mts., Arizona). — Scott, Auk, ii, 1885, 174, 356 (Santa Catalina Mts., Arizona); 
 
@@ -19052,7 +19052,7 @@ Piais formidvonis (not of Swainson) Lesson, Compl. Buffon, ix, 1837, 318. —
 
  ViGOBS, Zool. Voy. "Blossom," 1839, 23 (Monterey, California). — Nuttall, 
 
- Man. Om. U. S. and Can., Land Birds, 2d ed., 1840, 682 (mts. near Santa 
+ Man. Orn. U. S. and Can., Land Birds, 2d ed., 1840, 682 (mts. near Santa 
 
  Barbara, California). 
 
@@ -19087,11 +19087,11 @@ Surv., ix, 1858, 114, part; Cat. N. Am. Birds, 1859, no. 96, part.— Bolle,
 
  Joum. fur Om., 1858, 321 (habits). — ^Heeemann, Rep. Pacific E. R. Surv., 
 
- X, iv, no. 2, 1859, 58 (California; habits).— Cooper, Om. Cal., 1870, 403, 
+ X, iv, no. 2, 1859, 58 (California; habits).— Cooper, Orn. Cal., 1870, 403, 
 
  part. — CouEs, Check List, 1873, no. 310, part.— Baied, Bbbweb, and Eidg- 
 
- WAT, Hist. N. Am. Birds, ii, 1874, pi. 53, figs. 1, 2.— Ridgwat, Om. 40th 
+ WAT, Hist. N. Am. Birds, ii, 1874, pi. 53, figs. 1, 2.— Ridgwat, Orn. 40th 
 
  Parallel, 1877, 553 (Sacramento, California); Proc. U. S. Nat. Mus., iii, 1880, 
 
@@ -19230,7 +19230,7 @@ Cape San Lucas district of Lower California (Cape San Lucas; San
 
 
 
-> Mehnerpes f(yrmicivorus,ya,T. angustifrons Baird, in Cooper's Om. Cal., i, 1870, 
+> Mehnerpes f(yrmicivorus,ya,T. angustifrons Baird, in Cooper's Orn. Cal., i, 1870, 
 
  405 (Cape San Lucas, Lower California; coll. U. S. Nat. Mus.). — Baied, 
 
@@ -20208,7 +20208,7 @@ Picus torquatus (not of Boddaert, 1783 6) Wilson, Am. Om., iii, 1811, 31, pi. 20
 
  1826, 46; Synop. Birds U. S., 1828, 46.— Valenciennes, Diet. Sci. Nat., xl, 
 
- 1826, 177.— Drapiez, Diet. Class., xiii, 1828, 497.— Nuttall, Man. Om. U. S. 
+ 1826, 177.— Drapiez, Diet. Class., xiii, 1828, 497.— Nuttall, Man. Orn. U. S. 
 
 
 
@@ -20281,7 +20281,7 @@ Eight adult females from Kocky Mountain district (Idaho and
 
 
 
-and Can., Land Birds, 1832, 577; 2d ed., 1840, 679— Audubon, Om. Biog., 
+and Can., Land Birds, 1832, 577; 2d ed., 1840, 679— Audubon, Orn. Biog., 
 
  V, 1839, 176, pi. 416; Synopsis, 1839, 184; Birds Am., oct. ed., iv, 1842, 280, 
 
@@ -20315,7 +20315,7 @@ Melanerpes torquatus Jaedine, ed. Wilson's Am. Orn., i, 1832, 321, pi. 20, fig. 
 
  Rep. Pacific R. R. Surv., ix, 1858, 115; Cat. N. Am. Birds, 1859, no. 96.— 
 
- Cassin, Om. Wilkes' Expl. Exped., 1858, 242 (Oregon); Proc. Ac. Nat. Sci. 
+ Cassin, Orn. Wilkes' Expl. Exped., 1858, 242 (Oregon); Proc. Ac. Nat. Sci. 
 
  PhUa., 1863, 327 (Ft. Tejon, California; crit.). — Coopee and Suckley, Rep. 
 
@@ -20872,7 +20872,7 @@ Centurus pucherani Sclater, Cat. Am. Birds, 1862, 342, part (Babahoyo, w.
 
  280 (Bluefields, Nicaragua).— Salvin, Ibis, 1872, 320 (Chontales, Nicara- 
 
- gua). — BoucARD, Proc. Zool. Soc. Lond., 1878, 49 (San Carlos and Naranjo, 
+ gua). — Boucard, Proc. Zool. Soc. Lond., 1878, 49 (San Carlos and Naranjo, 
 
  Costa Rica). — Ridgwat, Proc. U. S. Nat. Mus., x, 1887, 591 (Rio Segovia, 
 
@@ -20886,7 +20886,7 @@ Centurus pueheranii Sclatbh, Proc. Zool. Soc. Lond., 1860, 286 (Babahoyo, w.
 
  1860, 43 (Coban and Yzabal, Guatemala). — Sclater and Salvin, Proc. Zool. 
 
- Soc. Lond., 1864, 367 (Panama).— Ferry, Pub. 146, Field Mus. N. H., Om. 
+ Soc. Lond., 1864, 367 (Panama).— Ferry, Pub. 146, Field Mus. N. H., Orn. 
 
  Ser., i, 1910, 276 (Guayabo and Lim6n, Costa Rica). 
 
@@ -21538,7 +21538,7 @@ d Chloronerpes rubiginosus rubiginosus Hellmayr, Novit. Zool., xiii, 1906, 38, p
 
 
 
-BIEDS OF NORTH AND MIDDLE AMEEICA. 127 
+BIRDS OF NORTH AND MIDDLE AMEEICA. 127 
 
 
 
@@ -21806,7 +21806,7 @@ o Three specimens.
 
 
 
-BIEDS OF NORTH AND MIDDLE AMEBIOA. 129 
+BIRDS OF NORTH AND MIDDLE AMEBIOA. 129 
 
 
 
@@ -22841,7 +22841,7 @@ de la Candelaria, Costa Bica; coll. Berlin Mus.).
 
  Nac. Costa Rica, i, 1887, 124 (Rio Sucio, Sarchf de Alajuela, and Naranjo 
 
- de Cartago, Costa Rica).— Ferry, Pub. 146, Field Mus. N. H., Om. Ser., 
+ de Cartago, Costa Rica).— Ferry, Pub. 146, Field Mus. N. H., Orn. Ser., 
 
  i, 1910, 267 (Guayabo, Costa Rica). 
 
@@ -25589,7 +25589,7 @@ C[ampepMlus] leucorkamphus Reiohenbach, Handb., Scansores, Picinae, 1854,
 
 
 
-(?)Picits Uneatus (not of Linnaeus?) Audubon," Om. Biog., v, 1839, 315 ("Colum- 
+(?)Picits Uneatus (not of Linnaeus?) Audubon," Orn. Biog., v, 1839, 315 ("Colum- 
 
  bia River"); Synopsis, 1839, 176 ("Columbia River"); Birds Am., oct. ed., 
 
@@ -25597,7 +25597,7 @@ C[ampepMlus] leucorkamphus Reiohenbach, Handb., Scansores, Picinae, 1854,
 
 
 
-{'>)Dryotomus delatrii Bonapaktb, Notes Om. Coll. Delattre, 1854, 85 ("Cali- 
+{'>)Dryotomus delatrii Bonapaktb, Notes Orn. Coll. Delattre, 1854, 85 ("Cali- 
 
  fomie"). 
 
@@ -27074,7 +27074,7 @@ BIKDS or NOBTH AND MIDDLE AMBBIOA. 159
 
 
 
-Dryopieus pileatus Bonaparte, Notes Om. Coll. Delatee, 1854, 85. — Malhbkbe, 
+Dryopieus pileatus Bonaparte, Notes Orn. Coll. Delatee, 1854, 85. — Malhbkbe, 
 
 
 
@@ -27128,7 +27128,7 @@ Proc. Roy. Dublin Soc, iii, 1882, 58 (Navarro Co., Texas). — Neheling, Bull.
 
 
 
-Nutt. Om. Club, vii, 1882, 170 (s. e. Texas; habits; descr. nest and eggs). 
+Nutt. Orn. Club, vii, 1882, 170 (s. e. Texas; habits; descr. nest and eggs). 
 
  E\ylotomus] pileatus CorBS, Key N. Am. Birds, 2d ed., 1882, 480, part. 
 
@@ -27271,7 +27271,7 @@ Central and southern Florida (St. Johns River?; Blue Cypress
 
 
 
-Picas pileatus (not of Linnaeus) ArouBON, Om. Biog., ii, 1834, 74, part; v, 1839, 
+Picas pileatus (not of Linnaeus) ArouBON, Orn. Biog., ii, 1834, 74, part; v, 1839, 
 
 
 
@@ -27426,9 +27426,9 @@ PieuB pileatus (not of Linnaeus) Wilson, Am. Om., iv, 1811, 27, part, pi. 29, fi
 
  (by error fig. 2 on plate). — Bonaparte, Ann. Lye. N. Y., ii, pt. i, 1826 
 
- (Synop. Birds U. S.), 44, part. — Nuttall, Man. Om. U. S. and Can., Land 
+ (Synop. Birds U. S.), 44, part. — Nuttall, Man. Orn. U. S. and Can., Land 
 
- Birds, 1832, 567, part; 2d ed., 1840, 671, part.— Audubon, Om. Biog., ii, 
+ Birds, 1832, 567, part; 2d ed., 1840, 671, part.— Audubon, Orn. Biog., ii, 
 
  1834, 74, part; v, 1839, 533, part; Synopsis, 1839, 176, part; Birds Am., oct. 
 
@@ -27484,11 +27484,11 @@ Eyhtomus pileatus Blakiston, Ibis, 1863, 52 (Sturgeon Lake, Keewatin). —
 
  189, part; Norn. N. Am. Birds, 1881, no. 371, part. — Knowi/ton, Bull. Nutt. 
 
- Om. Club, vii, 1882, 63 (Brandon, Vermont).— Batcheldeh, Bull. Nutt. Om. 
+ Orn. Club, vii, 1882, 63 (Brandon, Vermont).— Batcheldeh, Bull. Nutt. Orn. 
 
  Club, vii, 1882, 150 (Grand Falls and Ft. Fairfield, New Bmnswick; Houlton, 
 
- Maiae).— Meeeiam, Bull. Nutt. Om. Club, vii, 1882, 236 (Point de Monts. 
+ Maiae).— Meeeiam, Bull. Nutt. Orn. Club, vii, 1882, 236 (Point de Monts. 
 
  Quebec).— Beackett, Quart. Joum. Bost. Zool. Soc, iii, 1884, 17 (near Bos- 
 
@@ -27658,7 +27658,7 @@ east to Idaho (Sawtooth and Sabnon Kiver Mountains) and western
 
 
 
-Picas pileatm (not of Linnaeus) Audubon, Om. Biog., ii, 1834, 74, part (Columbia 
+Picas pileatm (not of Linnaeus) Audubon, Orn. Biog., ii, 1834, 74, part (Columbia 
 
  R.); V, 1839, 533, part (Columbia R.); Synopsis, 1839, 176, part (Columbia 
 
@@ -27690,13 +27690,13 @@ Hylatomv^ pileatus Baird, Rep. Pacific R. R. Surv., ix, 1858, 107, part (Columbi
 
 Mylotomus pihatus Sclater, Proc. Zool. Soc. Lond., 1859, 236 (Vancouver I.). — 
 
- Cooper, Om. Calif., 1870, 396.— Coubs, Check List, 1873, no. 294, part; 
+ Cooper, Orn. Calif., 1870, 396.— Coubs, Check List, 1873, no. 294, part; 
 
  2d ed., 1882, no. 432, part; Birds North West, 1874, 278, part.— Baird, 
 
  Brewer, and Ridgwat, Hist. N. Am. Birds, ii, 1874, 551, part. — Hen- 
 
- SHAW, Rep. Om. Spec. Wheeler's Surv., 1876, 26 (Sierra Nevada, s. to 
+ SHAW, Rep. Orn. Spec. Wheeler's Surv., 1876, 26 (Sierra Nevada, s. to 
 
  lat. 37°). — Bendirb, Proc. Bost. Soc. N. H., six, 1877, 130 (Camp Harney, 
 
@@ -27900,7 +27900,7 @@ o The species mentioned are, in the sequence given: 1. M. imperialis (Gould); 2.
 
 
 
-BIEDS OF NORTH AND MIDDLE AMEBICA. 165 
+BIRDS OF NORTH AND MIDDLE AMEBICA. 165 
 
 
 
@@ -28085,9 +28085,9 @@ Picus imperialis Gould, Proc. Zool. Soc. Loud., ii, 1832, 140 ("California," i. 
 
  near Bolanos, Jalisco, Mexico; 6 coll. J. Grould). — ^Lesson, Compl. Bnffon, 
 
- ix, 1837, 317.— Audubon, Om. Biog., v, 1839, 313; Synopsis, 1839, 175; Birds 
+ ix, 1837, 317.— Audubon, Orn. Biog., v, 1839, 313; Synopsis, 1839, 175; Birds 
 
- Am., Oct. ed., iv, 1842, 212. — ^Nuttall, Man. Om. U. S. and Can., Land 
+ Am., Oct. ed., iv, 1842, 212. — ^Nuttall, Man. Orn. U. S. and Can., Land 
 
  Birds, 2d ed., 1840, 667.— Sundevall, Consp. Av. Picin., 1866, 4. 
 
@@ -28313,9 +28313,9 @@ Picus principalis Boddaebt, Tabl. PI. Enl., 1783, 43.— Temminck, Cat. Syst., 1
 
  229.— SwAiNSON, Fauna Bor.-Am., ii, 1831, 301; Classif. Birds, ii, 1837, 306.— 
 
- Audubon, Om. Biog., i, 1831, 341, pi. 66; v, 1839, 535; Synopsis, 1839, 175; 
+ Audubon, Orn. Biog., i, 1831, 341, pi. 66; v, 1839, 535; Synopsis, 1839, 175; 
 
- Birds Am., oct. ed., iv, 1842, 214, pi. 256.— Nuttall, Man. Om. U. S. and Can., 
+ Birds Am., oct. ed., iv, 1842, 214, pi. 256.— Nuttall, Man. Orn. U. S. and Can., 
 
  ♦ LandBirds,1832, 564; 2d ed., 1840, 668.— Sundevall,Consp. Av.Picin., 1866,4. 
 
@@ -28378,11 +28378,11 @@ Campephilus principalis Gray, List Birds Brit. Mus., Picidse, 1868, 53. — ^Woo
 
  WAT, Proc. U. S. Nat. Mus., iii, 1880, 188; Nom. N. Am. Birds, 1881, no. 359; 
 
- Om. Illinois, i, 1889, 374 (White Co., Illinois, formerly).— Hay, Bull. Nutt. 
+ Orn. Illinois, i, 1889, 374 (White Co., Illinois, formerly).— Hay, Bull. Nutt. 
 
- Om. Club, vii, 1882, 92 (near Vicksburg and Jackson, Mississippi). — Nehr- 
+ Orn. Club, vii, 1882, 92 (near Vicksburg and Jackson, Mississippi). — Nehr- 
 
- tiNG, Bull. Nutt. Om. Club, vii, 1882, 170 (Harris and Montgomery Coun- 
+ tiNG, Bull. Nutt. Orn. Club, vii, 1882, 170 (Harris and Montgomery Coun- 
 
  ties, Texas).— Bailey (H. B.), Bull. Nutt. Orn. Club, viii, 1883, 40 (Alta- 
 
@@ -28541,7 +28541,7 @@ i, 1866, 293; Joum. fiir Om., 1866, 352; 1871, 293; 1874, 148 (habits); Contr.
 
 
 
-Om. Cuba, 1876, 113, 273; Om. Cubana, ed. 1895, 137.— Gray, List Birds 
+Om. Cuba, 1876, 113, 273; Orn. Cubana, ed. 1895, 137.— Gray, List Birds 
 
 
 
@@ -29227,7 +29227,7 @@ Picnu anais Lesson, Descr. Mam. et Gis., 1847, 203.
 
 
 
-Dryolxmvas verreauri Bonaparte, Notes Om. Coll. Delattre, 1854, 85, footnote 
+Dryolxmvas verreauri Bonaparte, Notes Orn. Coll. Delattre, 1854, 85, footnote 
 
  (Santa Marta, Colombia). 
 
@@ -30010,7 +30010,7 @@ delaria Mts., Jimenez, etc., Costa Rica; Santiago de Veragua, w. Panama). —
 
 
 
-Ferry, Pub. 146, Field Mus. N. H., Om. Ser., i, no. 6, 1910, 266 (Guayabo, 
+Ferry, Pub. 146, Field Mus. N. H., Orn. Ser., i, no. 6, 1910, 266 (Guayabo, 
 
 
 
@@ -30374,13 +30374,13 @@ Megapicus guatemalensis Malherbe, Mon. Picid., i, 1861, 19, part (Papantla,
 
 
 
-[Dryotomu^] odoardus Bonaparte, Notes Om. Coll. Delattre, 1854, 85, footnote, 
+[Dryotomu^] odoardus Bonaparte, Notes Orn. Coll. Delattre, 1854, 85, footnote, 
 
  in text (Mexico). 
 
 
 
-DryoUmms odoardus Bonaparte, Notes Om. Coll. Delattre, 1854, 86, footnote, 
+DryoUmms odoardus Bonaparte, Notes Orn. Coll. Delattre, 1854, 86, footnote, 
 
  in text (Mexico). 
 
@@ -31018,7 +31018,7 @@ Chloronerpes percussus Reichenbach, Handb. Scansores, Picinse, 1854, 407,
 
  pi. 662, figs. 4398, 4399.— Gundlach, Joum. fur Om., 1856, 102 (habits); 
 
- 1874, 151 (habits); Repert. Pisico-Nat. Cuba, i, 1866, 294; Contr. Om. Cuba, 
+ 1874, 151 (habits); Repert. Pisico-Nat. Cuba, i, 1866, 294; Contr. Orn. Cuba, 
 
  1876, 115, 273.— Bheweb, Proc. Bos. Soc. N. H., vii, 1860, 307.— Gray, 
 
@@ -31034,7 +31034,7 @@ Xiphidiopims percussus Sclatek, Cat. Am. Birds, 1862, 339. — Coht, Auk, ui,
 
  viil, 1891, 189, in text (near Cardenas, Cuba; descr. xanthochroic variety); 
 
- Om. Cubana, ed. 1895, 140.— Chapman, Bull. Am. Mus. N. H., iv, 1892, 
+ Orn. Cubana, ed. 1895, 140.— Chapman, Bull. Am. Mus. N. H., iv, 1892, 
 
  301 (near Trinidad, s. Cuba). — ^Menegaux, Rev. Fran?. d'Om., no. 2, 
 
@@ -34875,9 +34875,9 @@ Picas villosus Vieillot, Ois. Am. Sept., ii, 1807, 64, pi. 120; Nouv. Diet. d'Hi
 
  ii, part i, 1826 (Synop. Birds TJ. S.), 46; Geog. and Comp. List, 1838, 39.— 
 
- Lesson, Traits d'Om., 1831, 228. — Nuttall, Man. Om. U. S. and Can., 
+ Lesson, Traits d'Om., 1831, 228. — Nuttall, Man. Orn. U. S. and Can., 
 
- Land Birds, 1832, 575; 2d ed., 1840, 683.— Aotubon, Om. Biog., v, 1839, 
+ Land Birds, 1832, 575; 2d ed., 1840, 683.— Aotubon, Orn. Biog., v, 1839, 
 
  164, pi. 416; Synopsis, 1839, 179; Birds Am., oct. ed., iv, 1842, 244, pi. 262.— 
 
@@ -34899,7 +34899,7 @@ Picas villosus Vieillot, Ois. Am. Sept., ii, 1807, 64, pi. 120; Nouv. Diet. d'Hi
 
  ginia; crit.); Bull. Nutt. Orn. Club, iii, 1878, 179 (descr. young male).— 
 
- Dalglbish, Bull. Nutt. Om. Club, v, 1880, 73 (accid. in England).— Ridg- 
+ Dalglbish, Bull. Nutt. Orn. Club, v, 1880, 73 (accid. in England).— Ridg- 
 
  WAY, Proc. U. S. Nat. Mus., iii, 1880, 188; Norn. N. Am. Birds, 1881, no. 360. 
 
@@ -35091,7 +35091,7 @@ Picus phillipsii Audubon, Orn. Biog., v, 1839, 186, pi. 417, figs. 5, 6 (Massach
 
  setts; type now in coll. U. S. Nat. Mus.); Synopeis, 1839, 177; Birds Am., 
 
- oct. ed., iv, 1842, 238, pi. 259.— Nuttall, Man. Om. TJ. S. and Can., Land 
+ oct. ed., iv, 1842, 238, pi. 259.— Nuttall, Man. Orn. TJ. S. and Can., Land 
 
  Birds, 2d ed., 1840, 686.— Malherbe, Mon. Picid., 1, 1861, 84; iii, 1861, 
 
@@ -35123,7 +35123,7 @@ Plicus] philippsii Reichenbach, Handb., Scansores, Picinae, 1854, 364, pi. 632,
 
 
 
-Pieus rubricapillus Nuttall, Man. Om. TJ. S. and Can., Land Birds, 2d ed., 1840, 
+Pieus rubricapillus Nuttall, Man. Orn. TJ. S. and Can., Land Birds, 2d ed., 1840, 
 
  685 (new name for P. martini Audubon). 
 
@@ -35224,7 +35224,7 @@ Pims auduboni Trudeau," Joum. Ac. Nat. Sci. Phila., vii, 1837, 404 (near New-
 
  crown-patcli). — Bonaparte, Geog. and Comp. List, 1838, 39.— Audubon, 
 
- Om. Biog., V, 1839, 194, pi. 417, fig. 10; Synopsis, 1839, 181; Birds Am., oct. 
+ Orn. Biog., V, 1839, 194, pi. 417, fig. 10; Synopsis, 1839, 181; Birds Am., oct. 
 
  ed., iv, 1842, 259, pi. 265.— Nuttall, Man. Orn. U. S. and Can., Land 
 
@@ -35701,7 +35701,7 @@ p. w. Canada; habits).— Ootjes, Check List, 1873, no. 298, part; 2d ed.,
 
 
 
-Bull. Nutt. Om. Club, vii, 1882, 236 (Godbout, Quebec).— Steaens, Proc. 
+Bull. Nutt. Orn. Club, vii, 1882, 236 (Godbout, Quebec).— Steaens, Proc. 
 
 
 
@@ -36036,13 +36036,13 @@ Pagosa, Colorado).
 
 
 
-BIEDS OF NORTH AND MIDDLE AMEBICA. 213 
+BIRDS OF NORTH AND MIDDLE AMEBICA. 213 
 
 
 
 Picus vilhsm, var. harrisi Alien, Proc. Bost. Soc. N. H., xvii, 1874, 63 (Yellow- 
 
- stone and Musselaliell rivers, Montana). — Scott, Bull. Nutt. Om. Club, iv, 
+ stone and Musselaliell rivers, Montana). — Scott, Bull. Nutt. Orn. Club, iv, 
 
  1879, 95 (Twin Lakes, Colorado, breeding). 
 
@@ -36058,7 +36058,7 @@ Piats villosv^, var. Aamsii Ridgwat, Am. Joum. Sci., iv, Dec, 1872, 456, part;
 
 
 
-Pieus villosus . . . var. Jiarrisii Henshaw, Rep. Om. Spec. Wheeler's Surv., 
+Pieus villosus . . . var. Jiarrisii Henshaw, Rep. Orn. Spec. Wheeler's Surv., 
 
  1874, 48 (mts. of Utah, resident), 89 (mts. near Ft. Garland, Colorado, June). 
 
@@ -36072,11 +36072,11 @@ Pints villosits harrisi Ridgwat, Bull. Essex Inst., vii, Jan., 1875, 34 (Parleys
 
  (Rocky Mts., lat. 49°); Check List, 2d ed., 1882, no. 439, part.— Deew, Bull. 
 
- Nutt. Om. Club, vi, 1881, 140 (San Juan Co., Colorado); Auk, ii, 1885, 17 
+ Nutt. Orn. Club, vi, 1881, 140 (San Juan Co., Colorado); Auk, ii, 1885, 17 
 
  (Colorado, breeding at 4,500-11,500 ft.). — Allen and Brewster, Bull. Nutt. 
 
- Om. Club, viii, 1883, 196 (Colorado Springs, Colorado, May, June). — ^Agees- 
+ Orn. Club, viii, 1883, 196 (Colorado Springs, Colorado, May, June). — ^Agees- 
 
  BOBG, Auk, ii, 1885, 283 (s. e. South Dakota; "resident"). — ^Henshaw, Auk, _ 
 
@@ -36122,7 +36122,7 @@ Dryobates villosus harrisi Beckham, Auk, iv, 1887, 120 (Pueblo Co., Colorado).
 
 Pieus villosus (not of Linnaeus) Allen, Bull. Mus. Comp. Zool., iii, 1872, 163 (Mt. 
 
- Lincoln, Colorado).— (?) Williams, Bull. Nutt. Om. Club, vii, 1882, 62 (Belt 
+ Lincoln, Colorado).— (?) Williams, Bull. Nutt. Orn. Club, vii, 1882, 62 (Belt 
 
  Mts., Montana, breeding). — (?) Cameron,' Auk, xxiv, 1907, 270 (Custer and 
 
@@ -36279,7 +36279,7 @@ Picus harrisii (not of Audubon) Baird, Rep. Pacific R. R. Surv., ix, 1858, 87,
 
  R.).— CouES, Proc. Ac. Nat. Sci. Phila., 1866, 52 (Ft. Whipple, Arizona; 
 
- crit.). — Cooper, Om. Calif., 1870, 375, part (e. branches of Colorado R., 
+ crit.). — Cooper, Orn. Calif., 1870, 375, part (e. branches of Colorado R., 
 
  Arizona). 
 
@@ -36295,7 +36295,7 @@ Picus harrisi Coubs, Ibis, 1865, 162 (Ft. Whipple).
 
 Picus villosus . . . var. harrisi . . . Cottes, Check List, 1873, no. 298o, part. — 
 
- Henshaw, Rep. Om. Spec. Wheeler's Surv., 1874, 133 (Ft. Wingate, New 
+ Henshaw, Rep. Orn. Spec. Wheeler's Surv., 1874, 133 (Ft. Wingate, New 
 
  Mexico, etc.). 
 
@@ -36469,7 +36469,7 @@ Cf)Pims harridi Baied, Rep. Pacific R. R. Suiv., ix, 1858, 87, part (The Dalles
 
 
 
-Picas harrisii Cooper, Om. Calif., 1870, 375, part (summit of Sierra Nevada).— 
+Picas harrisii Cooper, Orn. Calif., 1870, 375, part (summit of Sierra Nevada).— 
 
  Pehnbr, Ann. Rep. Smithson. Inst, for 1864 (1865), 425 (Ft. Crook, Cali- 
 
@@ -36479,7 +36479,7 @@ Picas harrisii Cooper, Om. Calif., 1870, 375, part (summit of Sierra Nevada).—
 
 Picua harrisi Sclater, Proc. Zool. Soc. Lond., 1858, 3 (near Shasta, California).— 
 
- RiDGWAT, Om. 40th Parallel, 1877, 545, part (near Pyramid Lake and 
+ RiDGWAT, Orn. 40th Parallel, 1877, 545, part (near Pyramid Lake and 
 
  Carson City, Nevada). 
 
@@ -36523,7 +36523,7 @@ Picus villosus harrisi Ridgwat, Bull. Essex Inst., vii, Jan., 1875, 13, 15, 21, 
 
  (localities in Nevada); Proc. U. S. Nat. Mus., jii, 1880, 188, part; Nom. 
 
- N. Am. Birds, 1881, no. 3606, part.— Mbarns, Bull. Nutt. Om. Club, iv, 
+ N. Am. Birds, 1881, no. 3606, part.— Mbarns, Bull. Nutt. Orn. Club, iv, 
 
  1879, 195 (Ft. Klamath, Oregon, sum. res.).— Cotjbs, Check List, 2d ed., 
 
@@ -36682,7 +36682,7 @@ Picus harrisii Sclatek, Proc. Zool. Soc. Lond., 1857, 127 (San Jos6 Valley, Cali
 
  1859, 57, part (Tejon Pass, California). — Xanttts, Proc. Ac. Nat. Sci. Phila., 
 
- 1859, 190 (Ft. Tejon).— Cooper, Om. Calif., 1870, 375, part (Santa Barbara 
+ 1859, 190 (Ft. Tejon).— Cooper, Orn. Calif., 1870, 375, part (Santa Barbara 
 
  and Tejon Pass). 
 
@@ -36717,7 +36717,7 @@ Picus vilhsus . . . var. harrid Coubs, Check List, 1873, no. 298a, part.
 
 PictM villosus, var. harrid Baird, Brewer, and Ridgway, Hist. N. Am. Birds, 
 
- ii, 1874, 507, part.— Henshaw, Rep. Om. Spec. Wheeler's Surv., 1876, 258 
+ ii, 1874, 507, part.— Henshaw, Rep. Orn. Spec. Wheeler's Surv., 1876, 258 
 
  (Ft. Tejon and Mt. Whitney, California). 
 
@@ -36727,7 +36727,7 @@ Picus villosas, var. harridi Ridgwat, Am. Joum. Sci., iv, 1872, 456, part.
 
 
 
-Picus villosus harrid Brewster, Bull. Nutt. Om. Club, iii, 1878, 179 (Nicasio, 
+Picus villosus harrid Brewster, Bull. Nutt. Orn. Club, iii, 1878, 179 (Nicasio, 
 
  Marin Co.; descr. young).— Ridgwat, Proc. U. S. Nat. Mus., iii, 1880, 188, 
 
@@ -36745,7 +36745,7 @@ Dryobates vUlosus harridi Ridgwat, Proc. U. S. Nat. Mus., viii, 1885, 355, part.
 
  American Ornitholoqists' Union, Check List, 1886, no. 393c, part. — 
 
- MoRCOM, Bull. Ridgw. Om. Club, no. 2, 1887, 41 (Bear Valley, June).— 
+ MoRCOM, Bull. Ridgw. Orn. Club, no. 2, 1887, 41 (Bear Valley, June).— 
 
  Brtant (W. E.), Proc. CaKf. Acad. Sci., ser. 2, 1889, 286 (Hansen's Ranch 
 
@@ -37543,7 +37543,7 @@ Southwestern New Mexico (Animas Peak; San Luis Mountains;
 
 
 
-Pieus villosus harrisi (not Pints harrid Audubon) Bbewstee, Bull. Nutt. Om. 
+Pieus villosus harrisi (not Pints harrid Audubon) Bbewstee, Bull. Nutt. Orn. 
 
  Club, viii, 1883, 22 (Chiricahua Mts., s. e. Arizona). — Scott, Auk, ii, 1885, 
 
@@ -38367,7 +38367,7 @@ Bangs).
 
 
 
-Rica; habits).— Ferry, Pub. 146, Field Mus. N. H., Om. Ser., i, no. 6, 
+Rica; habits).— Ferry, Pub. 146, Field Mus. N. H., Orn. Ser., i, no. 6, 
 
 
 
@@ -38867,7 +38867,7 @@ Dryobates pubescens pubescens (not of Oberholser, 1896) American Ornitholo-
 
 
 
-(Georgia). — Nuttall, Man. Om. U. S. and Can., Water Birds, 1834, 601; 
+(Georgia). — Nuttall, Man. Orn. U. S. and Can., Water Birds, 1834, 601; 
 
 
 
@@ -38885,7 +38885,7 @@ Land Birds, 2d ed., 1840, 690.
 
 Hand-list, ii, 1870, 184, no. 8595. 
 
- Pieus meridionalis Nuttall, Man. Om. U. S.and Can., Water Birds, 1834, 601. — 
+ Pieus meridionalis Nuttall, Man. Orn. U. S.and Can., Water Birds, 1834, 601. — 
 
 
 
@@ -38992,7 +38992,7 @@ Pirns pubescens (not of Linnaeus) Wilson, Am. Om., i, 1807, 153, part, pi. 9,
 
  and Comp. List, 1838, 39, part.— Lbsson, Traits d'Om., 1831, 228, part,— 
 
- NUTTALL, Man. Om. U. S. and Can., i, 1832, 576, part. — ^Atjdubon, Om. 
+ NUTTALL, Man. Orn. U. S. and Can., i, 1832, 576, part. — ^Atjdubon, Orn. 
 
  Biog., ii, 1834, 81, part, pi. 112; v, 1839, 539, part; Synopsis, 1839, 180, part; 
 
@@ -39055,13 +39055,13 @@ An adult male from Satuma Island, British Columbia, taken Feb. 3, 1894, in the
 
 
 
-Bull. Nutt. Om. Club, iii, 1878, 71 (descr. young female with red on nape).— 
+Bull. Nutt. Orn. Club, iii, 1878, 71 (descr. young female with red on nape).— 
 
  Bhbwstbe, Ann. Lye. N. Y., xi, 1875, 144 (Ritchie Co., West Virginia); 
 
- Bull. Nutt. Om. Club, iii, 1878, 179 (descr. young).— Dalgleish, Bull. 
+ Bull. Nutt. Orn. Club, iii, 1878, 179 (descr. young).— Dalgleish, Bull. 
 
- Nutt. Om. Club, V, 1880, 74 (accidental in England). — Ridgwat, Proc. 
+ Nutt. Orn. Club, V, 1880, 74 (accidental in England). — Ridgwat, Proc. 
 
  U. S. Nat. MuB., iii, 1880, 188, part; Norn. N. Am. Birds, 1881, no. 361, part.— 
 
@@ -39145,7 +39145,7 @@ Dryobates pubescens American Ornithologists' Union, Check List, 1886 (and 2d
 
  6,100 ft.).— (?)Anthony, Auk, iii, 1886, 165 (Washington Co., Oregon).— Ridg- 
 
- wat, Om. Illinois, i, 1889, 378, part.— Thorne, Auk, xii, 1895, 214 (Ft. Keogh, 
+ wat, Orn. Illinois, i, 1889, 378, part.— Thorne, Auk, xii, 1895, 214 (Ft. Keogh, 
 
  e. Montana, resident). — Bendieb, Lite Hist. N. Am. Birds, ii, 1895, 55, part.— 
 
@@ -39161,7 +39161,7 @@ Dryobates pubescens American Ornithologists' Union, Check List, 1886 (and 2d
 
 Picus {Dendrocopus) Tnedianvs Swainson, Fauna Bor.-Am., ii, 1831, 308 (New 
 
- Jersey).— NUTTALL, Man. Om. U. S. and Can., Water Birds, 1834, 601. 
+ Jersey).— NUTTALL, Man. Orn. U. S. and Can., Water Birds, 1834, 601. 
 
 
 
@@ -39441,7 +39441,7 @@ Picas pubescens (not of LiimseuB) Blakiston, Ibis, 1862, 3 (Forks of Saskatche-
 
  RIDGWAY, Hist. N. Am. Birds, ii, 1874, 509, part. — Ridgwat, Nom. N. Am. 
 
- Birds, 1881, no. 361, part.— (?)Merbiam, Bull. Nutt. Om. Club, vii, 1882, 
+ Birds, 1881, no. 361, part.— (?)Merbiam, Bull. Nutt. Orn. Club, vii, 1882, 
 
  236 (Point de Monts, Quebec).— (?)Steabns, Proc. U. S. Nat. Mus., vi, 1883, 
 
@@ -39608,13 +39608,13 @@ Dryohates pubescens leuatrus Fishek (W. K.), Condor, iv. May, 1902, 69. —
 
 Picus gairdneri (not of Audubon) Baikd, Rep. Pacific R. R. Surv., ix, 1858, 
 
- 91, part (Laramie R. and Ft. Laramie, Wyoming). — Cooper, Om. Cal., 
+ 91, part (Laramie R. and Ft. Laramie, Wyoming). — Cooper, Orn. Cal., 
 
  1870, 377, part (Rocky Mts).— Aiken, Proc. Boat. Soc. N. H., xv, 1872, 206 
 
  (e. Colorado, winter).— Rmow at, Field and Forest, ii, 1877, 209 (Colorado); 
 
- Om. 40th Parallel, 1877, 546 (upper Humboldt Valley, Nevada, and Parleys 
+ Orn. 40th Parallel, 1877, 546 (upper Humboldt Valley, Nevada, and Parleys 
 
  Park, Utah). 
 
@@ -39634,11 +39634,11 @@ Pious pubescens gairdneri Ridgway, Bull. Essex Inst., vii, Jan., 1875, 22, 34
 
  188, part; Nom. N. Am. Birds, 1881, no. 361a, part.— Drew, Bull. Nutt. 
 
- Om. Club, vi, 1881, 141'(San Juan Co., Colorado); Auk, ii, 1885, 17 (Colo- 
+ Orn. Club, vi, 1881, 141'(San Juan Co., Colorado); Auk, ii, 1885, 17 (Colo- 
 
  rado, breeding at 4,500-11,500 ft.).— Coues, Check List, 2d ed., 1882, no. 
 
- 441, part. — Allen and Brewster, Bull. Nutt. Om. Club, viii, 1883, 196 
+ 441, part. — Allen and Brewster, Bull. Nutt. Orn. Club, viii, 1883, 196 
 
  (Colorado Springs). — Beckham, Auk, ii, 1885, 143 (Pueblo, Colorado, May). — 
 
@@ -39674,7 +39674,7 @@ Picus pubescens, var. gairdneri Ridgway, Bull. Essex Inst., v, Nov., 1873, 173
 
  N. Y., xi, 1874, 9 (Wahsatch Mts. and Provo, Utah).— Scott, Bull. Nutt. 
 
- Om. Club, iv, 1879, 95 (Lake Co., Colorado, June). 
+ Orn. Club, iv, 1879, 95 (Lake Co., Colorado, June). 
 
 
 
@@ -39822,7 +39822,7 @@ Picus pubescens (not of Linnaeus) Woodhousb, in Rep. Sitgreaves' Expl. Zuni
 
 
 
-BIEDS OF- NORTH AND MIDDLE AMERICA. 239 
+BIRDS OF- NORTH AND MIDDLE AMERICA. 239 
 
 
 
@@ -39969,7 +39969,7 @@ Upper Austral and Transition zones of California, except on north-
 
 
 
-Pieus meridionalis (not of Swainson) Nttttall, Man. Om. U. S. and Can., 2d ed., 
+Pieus meridionalis (not of Swainson) Nttttall, Man. Orn. U. S. and Can., 2d ed., 
 
 
 
@@ -39991,7 +39991,7 @@ i, 1840, 690 (California).— Gambel, Joum. Ac. Nat. Sci. Phila., i, 1847, 55
 
 
 
-Nat. Sci. Phila., 1859, 190 (Ft. Tejdn, California).— Cooper, Om. Calif., 1870, 
+Nat. Sci. Phila., 1859, 190 (Ft. Tejdn, California).— Cooper, Orn. Calif., 1870, 
 
  . 377 (cMefly). — Bated, Bebwee, and Ridgwat, Hist. N. Am. Birds, iii,1874, 
 
@@ -40122,7 +40122,7 @@ o Ten specimejig.
 
 
 
-BIEDS OF NORTH AND MIDDLE AMEEICA. 241 
+BIRDS OF NORTH AND MIDDLE AMEEICA. 241 
 
 
 
@@ -40142,7 +40142,7 @@ Dryobates piibescens turati Fisher (W. K.), Condor, iv, May, 1902, 68 (diagnosis
 
  Tulare Co., CaUfomia, June). 
 
- ' (7)PiCMS pubescens (not of Linnaeus) Ridgwat, Bull. Nutt. Om. Club, iii, 1878, 67 
+ ' (7)PiCMS pubescens (not of Linnaeus) Ridgwat, Bull. Nutt. Orn. Club, iii, 1878, 67 
 
  (Marysville, Yuba Co., California, Dec. 27; crit.). — Ridgwat and Belding, 
 
@@ -40569,13 +40569,13 @@ Picus nuttalli Sclater, Proc. Zool. Soc. Lond., 1857, 127 (San Jos6 Valley,
 
  1861, pi. 24, figs. 8, 9.— Gray, List Birds Brit. Mus., Picidse, 1868, 49.— 
 
- Cooper, Om. Calif., 1870, 378. — Baird, Brewer, and Ridgwat, Hist. 
+ Cooper, Orn. Calif., 1870, 378. — Baird, Brewer, and Ridgwat, Hist. 
 
  N. Am. Birds, ii, 1874, 521, pi. 50, figs. 3, 6.— Henshaw, Rep. Orn. Spec. 
 
  Wheeler's Surv., 1876, 258 (Santa Barbara, Ft. Tejon, Tejon Mts., and 
 
- Kemville, California; habits).— Rina way, Om. 40th Parallel, 1877, 547 
+ Kemville, California; habits).— Rina way, Orn. 40th Parallel, 1877, 547 
 
  (Sacramento Valley); Proc. U. S. Nat. Mus., iii, 1880, 189; Norn. N. Am. Birds, 
 
@@ -40635,9 +40635,9 @@ Dryobates nuttalli Ridgway, Proc. U. S. Nat. Mus., viii, Sept. 2, 1885, 355. —
 
 Dryobates nuttallii American Ornithologists' Union, Check List, 1886, (and 
 
- 2d ed., 1895), no. 397.— Moeoom, Bull. Ridgw. Om. Club, no. 2, 1887, 41 
+ 2d ed., 1895), no. 397.— Moeoom, Bull. Ridgw. Orn. Club, no. 2, 1887, 41 
 
- (San Bernardino, Cahfomia). — Gault, Bull. Ridgw. Om. Club, no. 2, 1887, 
+ (San Bernardino, Cahfomia). — Gault, Bull. Ridgw. Orn. Club, no. 2, 1887, 
 
  78-81 (range, habits, etc.).— (?)Bryant (W. E.), Proc. Calif. Ac. Sci., ser. 
 
@@ -40866,7 +40866,7 @@ The birds from southern Tamaulipas are intermediate between typical D. s. scalar
 
 
 
-BIEDS OF NORTH AND MIDDLE AMERICA. 247 
+BIRDS OF NORTH AND MIDDLE AMERICA. 247 
 
 
 
@@ -41134,7 +41134,7 @@ Adult female.— Length (skins), 139-150 (144); wing, 86-89.5 (87);
 
 
 
-BIEDS OF NOBTH AND MIDDLE AMEEICA. 249 
+BIRDS OF NOBTH AND MIDDLE AMEEICA. 249 
 
 
 
@@ -41655,7 +41655,7 @@ D[ictyopipo] lucasana Gabanis and Heine, Mus. Hein., iv, heft 2, 1863, 75.
 
 
 
-Picas scalaris var. IvMisanus Baerd, in Coopee, Om. CaKf., 1870, 381 (crit.). — 
+Picas scalaris var. IvMisanus Baerd, in Coopee, Orn. CaKf., 1870, 381 (crit.). — 
 
  Baied, Beeweb, and Ridqway, Hist. N. Am. Birds, ii, 1874, 519. 
 
@@ -42046,11 +42046,11 @@ Pieus scalaris (not of Wagler) Baied, in Rep. Stansbury's Surv. Great Salt Lake,
 
  List, 1873, no. 297, part; 2d ed., 1882, no. 434, part.— Elliot, lUustr. New 
 
- and Unflg. Birds N. Am., i, 1869, 7, part.— Cooper, Om. Calif., 1870, 379, 
+ and Unflg. Birds N. Am., i, 1869, 7, part.— Cooper, Orn. Calif., 1870, 379, 
 
  part (Colorado R. and adjacent mountains). — Baihd, Beewee, and Ridq- 
 
- WAT, Hist. N. Am. Birds, ii, 1874, 515, part. — Hbnshaw, Rep. Om. 
+ WAT, Hist. N. Am. Birds, ii, 1874, 515, part. — Hbnshaw, Rep. Orn. 
 
  Spec. Wheeler's Surv., 1874, 133 (30 miles s. of Apache, Gila R., and San 
 
@@ -42060,9 +42060,9 @@ Pieus scalaris (not of Wagler) Baied, in Rep. Stansbury's Surv. Great Salt Lake,
 
  Mus., iii, 1880, 189, part; Nom. N. Am. Birds, 1881, no. 363, part.— Bebw- 
 
- STEE, Bull. Nutt. Om. Club, vii, 1882, 22 (Tucson and Cienega, Arizona). — 
+ STEE, Bull. Nutt. Orn. Club, vii, 1882, 22 (Tucson and Cienega, Arizona). — 
 
- MoECOM, Bull. Ridgw. Om. Club, no. 2, 1887, 41 (Yuma, California). — 
+ MoECOM, Bull. Ridgw. Orn. Club, no. 2, 1887, 41 (Yuma, California). — 
 
  Allen, Bull. Am. Mus. N. H., v, 1893, 35 (Oputo and Bacadehuachy, n. e. 
 
@@ -42344,9 +42344,9 @@ Picus scalaris (not of Wagler) Woodhottse, in Rep. Sitgreaves' Expl. Zuni and
 
  Mus., iii, 1880, 189, part; Nom. N. Am. Birds, 1881, no. 363, part.— Beown 
 
- (N. C), Bull. Nutt. Om. Club, vii, 1882, 40 (Boeme, Kendall Co., Texas, 
+ (N. C), Bull. Nutt. Orn. Club, vii, 1882, 40 (Boeme, Kendall Co., Texas, 
 
- resident). — Nehelinq, Bull. Nutt. Om. Club, vii, 1882, 170 (Houston, etc., 
+ resident). — Nehelinq, Bull. Nutt. Orn. Club, vii, 1882, 170 (Houston, etc., 
 
  Texas). — Ogilbt, Sci. Proc. Roy. Dublin Soc, iii, 1882, 58 (Navarro Co., 
 
@@ -42391,7 +42391,7 @@ Dryohates scalaris Ridgway, Proc. U. S. Nat. Mus., viii, Sept. 2, 1885, 355, par
 
  Auk, iv, 1887, 190 (Tom Green and Concho counties, Texas).— Hancock, 
 
- Bull. Ridgw. Om. Club, no. 2, 1887, 16 (Corpus Christi, Texas).— Hasbrouck, 
+ Bull. Ridgw. Orn. Club, no. 2, 1887, 16 (Corpus Christi, Texas).— Hasbrouck, 
 
  Auk, vi, 1889, 238 (Eastland Co., Texas). 
 
@@ -42945,11 +42945,11 @@ Picas strichlandi (not of MaLherbe, 1845) Malherbe, Mon. Picid., i, 1861, 108,
 
  Zool. Expl. W. 100th Mend., 1875, 389 (Chiricalma Mts., Arizona; habits).— 
 
- Allen, Bull. Nutt. Om. Club, v, 1880, 90.— Ridoway, Proc. U. S. Nat. Mus., 
+ Allen, Bull. Nutt. Orn. Club, v, 1880, 90.— Ridoway, Proc. U. S. Nat. Mus., 
 
  iii, 1880, 189, 219, 233; Nom. N. Am. Birds, 1881, no. 365.— Bkbwsteb, Bull. 
 
- Nutt. Om. Club, vi, 1881, 72 (Chiricahua Mts.); viii, 1883, 22 (Santa Rita and 
+ Nutt. Orn. Club, vi, 1881, 72 (Chiricahua Mts.); viii, 1883, 22 (Santa Rita and 
 
  Chiricahua Mts.; remarks on plumages); Auk, ii, 1885, 199 (Santa Rita Mts.; 
 
@@ -43397,7 +43397,7 @@ o "Von f&of, fremd, sonderbar und Kpaufdc, Specht." (Cabanis and Heine.)
 
  siderably less extensile than that of Dryobates; but the evidence is somewhat conflict- 
 
- ing and requires further investigation. (See Ridgway, Om. Fortieth Parallel, 1877, 
+ ing and requires further investigation. (See Ridgway, Orn. Fortieth Parallel, 1877, 
 
  548; Proc. U. S. Nat. Mus., iii, 1880, 6, and Merrill, Auk, v, 1888, 254. 
 
@@ -43679,15 +43679,15 @@ Picas alholarvatus Baird, Rep. Pacific R. R. Surv., ix, 1858, 96; Cat. N. Am.
 
  Crook and Shasta Butte, California; habits). — Sundevaix, Consp. Av. 
 
- Picin., 1866, 29.— Cooper, Om. Calif., 1870, 382.— Coues, Check List, 1873, 
+ Picin., 1866, 29.— Cooper, Orn. Calif., 1870, 382.— Coues, Check List, 1873, 
 
  no. 295. — ^Baird, Brewer, and Ridgway, Hist. N. Am. Birds, ii, 1874, 
 
- 526, pi. 50, figs. 7, 8.— Henshaw, Rep. Om. Spec. Wheeler's Surv., 1876, 
+ 526, pi. 50, figs. 7, 8.— Henshaw, Rep. Orn. Spec. Wheeler's Surv., 1876, 
 
  259 (Tejon Mts., Mt. Whitney, and Walker Basin, California, breeding).— 
 
- Ridgway, Om. 40th Parallel, 1877, 547 (Sierra Nevada, near Carson City).— 
+ Ridgway, Orn. 40th Parallel, 1877, 547 (Sierra Nevada, near Carson City).— 
 
  Bendire, Proc. Best. Soc. N. H., xix, 1877, 129 (Blue Mts., Oregon; descr. 
 
@@ -43695,7 +43695,7 @@ Picas alholarvatus Baird, Rep. Pacific R. R. Surv., ix, 1858, 96; Cat. N. Am.
 
  Trees, Murphys, Summit Meadows, and Soda Springs, California). — ^Brewer, 
 
- Bull. Nutt. Om. Club, v, 1880, 56 (Placer Co., California; descr. nest 
+ Bull. Nutt. Orn. Club, v, 1880, 56 (Placer Co., California; descr. nest 
 
  and eggs). 
 
@@ -44324,9 +44324,9 @@ ii, 1871, 305 (e. Florida).— Coubs, Check List, 1873, no. 296; 2d ed., 1882,
 
  524, pi. 49, fig. 8.— Matnard, Birds E. N. Am., 1879, 244, pi. 19.— Brown 
 
- (N. C), Bull. Nutt. Om. Club, iv, 1879, 11 (Coosada, Alabama; notes).— 
+ (N. C), Bull. Nutt. Orn. Club, iv, 1879, 11 (Coosada, Alabama; notes).— 
 
- Nehrling, Bull. Nutt. Om. Club, vii, 1882, 170 (Harris, Galveston, and 
+ Nehrling, Bull. Nutt. Orn. Club, vii, 1882, 170 (Harris, Galveston, and 
 
  Ft. Bend counties, e. Texas).^ — Beyer, Proc. Louisiana Soc. Nat. for 1897-99 
 
@@ -44408,7 +44408,7 @@ Picus querulus Wilson, Am. Om., ii, 1810, 103, pi. 15, fig. 1 (North Carolina,
 
  Bonaparte, Ann. Lye N. Y. (Synopsis Birds U. S.), 1826, 46. — Ntjttall, 
 
- Man. Om. U. S. and Can., Land Birds, 1832, 577. — Audubon, Om. Biog., 
+ Man. Orn. U. S. and Can., Land Birds, 1832, 577. — Audubon, Orn. Biog., 
 
  V, 1839, 12, pi. 389, figs. 1, 2; Synopsis, 1839, 180; Birds Am., oct. ed., iv, 
 
@@ -45009,7 +45009,7 @@ Pieus varius Vibillot, Ois. Am. Sept., ii, 1807, 63, pis. 118, 119; Nouv. Diet.
 
  2.— Bonaparte, Ann. Lye. N. Y., ii, pt. i (Synop. Birds U. S.), 1826, 45; 
 
- Geog. and Comp. List, 1838, 39. — Nuttall, Man. Om. TJ. S. andCan., Land 
+ Geog. and Comp. List, 1838, 39. — Nuttall, Man. Orn. TJ. S. andCan., Land 
 
  Birds, 1832, 574; 2d ed., 1840, 680.— Audttbon, Om.Biog., ii, 1884, 519, pi. 
 
@@ -45092,13 +45092,13 @@ Sphyrapicvs varius Baird, Eep. Pacific R. R. Surv., ix, 1858, p. xxviii, 103. �
 
  1872, 233 (Decatur and Mahaska counties, s. Iowa, breeding). — Gundlach, 
 
- Joum. flir Om., 1874, 150 (Cuba); Om. Cubana, 1876, 273; ed. 1895, 139.— 
+ Joum. flir Om., 1874, 150 (Cuba); Orn. Cubana, 1876, 273; ed. 1895, 139.— 
 
  CouES, Birds Northwest, 1874, 285; Bull. IT. S. Geol. and Geog. Surv. 
 
  Terr., iv, 1878, 616 (Pembina and Souiis R., North Dakota, breeding). — 
 
- Brewster, Bull. Nutt. Om. Club, i, 1876, 63 (biography); iii, 1878, 180 
+ Brewster, Bull. Nutt. Orn. Club, i, 1876, 63 (biography); iii, 1878, 180 
 
  (descr. young); Auk, iii, 1886, 104 (mts. of w. North Carolina, breed- 
 
@@ -45108,11 +45108,11 @@ Sphyrapicvs varius Baird, Eep. Pacific R. R. Surv., ix, 1858, p. xxviii, 103. �
 
  Gineta Mts., Chiapas). — Maynard, Birds Florida, 1878, 223, pi. 18. — ^Mer- 
 
- RiAM, Bull. Nutt. Om. Club, iv, 1879, 1 (Lewis Co., New York; habits); 
+ RiAM, Bull. Nutt. Orn. Club, iv, 1879, 1 (Lewis Co., New York; habits); 
 
  Auk, i, 1884, 295 (Point de Monts, Quebec).— Ridg way, Proc. U. S. Nat. 
 
- Mus., iii, 1880, 189; Nom. N. Am. Birds, 1881, no. 369; Om. Illinois, i, 1889, 
+ Mus., iii, 1880, 189; Nom. N. Am. Birds, 1881, no. 369; Orn. Illinois, i, 1889, 
 
  380.— Cory, Birds Bahama Is., 1880, 121 (New Providence I.); Auk, iii, 
 
@@ -45203,7 +45203,7 @@ Muskoka, Ontario, breeding).— Dearborn, Pub. 125, Field Mus. N. H.,
 
  Virginia, breeding at 4,000 ft.). — Stansill, Auk, xxvi, 1909, 395 (centr. 
 
- Alberta, breeding). — Ferry, Pub. 146, Field Mus. N. H., Om. Ser., i, no. 
+ Alberta, breeding). — Ferry, Pub. 146, Field Mus. N. H., Orn. Ser., i, no. 
 
  6, 1910, 266 (Coliblanco, Costa Rica).— Bbai,, Bull. 37, U. S. Biol. Surv., 
 
@@ -45509,7 +45509,7 @@ Sphyrapicus nuchalis Baird, Rep. Pacific R. R. Surv., ix, 1858, pp. xxviii, 921
 
 
 
-Sphyrapicus nuchalis Baird, Ibis, 1867, 270. — Cooper, Om. Calif., 1870, 390 
+Sphyrapicus nuchalis Baird, Ibis, 1867, 270. — Cooper, Orn. Calif., 1870, 390 
 
  (Ft. Mojave and Pt. Yuma; Rocky Mts., lat. 48°). — Baird, Brewer, and 
 
@@ -45558,7 +45558,7 @@ Sphyrajdcus varius, var. michalis Ridgway, Bull. Essex Inst., v, Nov., 1873,
 
  Virgin City, Utah; Pt. Garland and Navajo Creek, Colorado). — Scott, 
 
- Bull. Nutt. Om. Club, iv, 1879, 95 (Twia Lakes, Colorado, breeding). 
+ Bull. Nutt. Orn. Club, iv, 1879, 95 (Twia Lakes, Colorado, breeding). 
 
 
 
@@ -45572,9 +45572,9 @@ Sphyrapieus varius nuehalis Ridgway, Bull. Essex Inst., vii, Jan., 1875, 22, 24,
 
  34 (localities in Nevada and Utah); Proc. U. S. Nat. Mus., iii, 1880, 189; 
 
- Nom. N. Am. Birds, 1881, no. 369a.— Drew, Bull. Nutt. Om. Club, vi, 
+ Nom. N. Am. Birds, 1881, no. 369a.— Drew, Bull. Nutt. Orn. Club, vi, 
 
- 1881, 141 (San Juan Co., Colorado, breeding). — Merrill, Bull. Nutt. Om. 
+ 1881, 141 (San Juan Co., Colorado, breeding). — Merrill, Bull. Nutt. Orn. 
 
  Club, vi, 1881, 206 (Ft. Shaw and Bighorn Mts., Montana; descr. nest and 
 
@@ -45774,7 +45774,7 @@ Young (iotJi sexes). — ^Wings, tail, and back essentially as in adults;
 
 
 
-BIEDS OF NOBTH AND MIDDLE AMERICA. 283 
+BIRDS OF NOBTH AND MIDDLE AMERICA. 283 
 
 
 
@@ -45808,7 +45808,7 @@ CaJifomia; breeding in Transition Zone from northern California
 
 Picas ruber Stephens, Shaw's Gen. Zool., ix, 1815, 160. — Vigors, ZooL Voy. 
 
- "Blossom," 1839, 23 (Monterey, California).— AuDUBOiJ, Om. Biog., v, 1839, 
+ "Blossom," 1839, 23 (Monterey, California).— AuDUBOiJ, Orn. Biog., v, 1839, 
 
  179, part, pi. 416, figs. 9, 10; Sjmopsis, 1839, 181, part; Birds Am., oct. ed., 
 
@@ -45856,9 +45856,9 @@ Sphyrapieus ruber Baird, Rep. Pacific R. R. Surv., ix, 1858, pp. xxviii, 104,
 
  part; Cat. N. Am. Birds, 1859, no. 87, pait. — CotrBS, Check List, 1873, no. 
 
- 3037, part.— Henshaw, Rep. Om. Spec. Wheeler's Surv., 1877, 1319 (e. 
+ 3037, part.— Henshaw, Rep. Orn. Spec. Wheeler's Surv., 1877, 1319 (e. 
 
- slope Sierra Nevada) . — RroowAT, Om. 40th Parallel, 1877, 549 (w. slope Sierra 
+ slope Sierra Nevada) . — RroowAT, Orn. 40th Parallel, 1877, 549 (w. slope Sierra 
 
  Nevada) . — American ORNn-HOLOGiSTs' Union, Check List, 1886 (and 2d ed. , 
 
@@ -45900,7 +45900,7 @@ S[phyrapicus] ruber Ridgway, Man. N. Am. Birds, 1887, 289, pait.
 
 Sphyrapieus ruber Xantus, Proc. Ac. Nat. Sci. Phila., 1859, 190 (Ft. Tej6n, 
 
- Califomia). — Cooper, Om. Cal., 1870, 392, part. — ^Baird, Brewer, and 
+ Califomia). — Cooper, Orn. Cal., 1870, 392, part. — ^Baird, Brewer, and 
 
  p: Ridgway, Hist. N. Am. Birds, ii, 1874, pi. 51, fig. 6 (California).— Hargitt, 
 
@@ -45949,7 +45949,7 @@ footnote, part; v, Jan., 1873, 40, footnote, part. — Baird, Bhewer, and
 
 
 
-RiDGWAT, Hist. N. Am. Birds, ii, 1874, 544, part. — Hbnshaw, Rep. Om. 
+RiDGWAT, Hist. N. Am. Birds, ii, 1874, 544, part. — Hbnshaw, Rep. Orn. 
 
 
 
@@ -45971,7 +45971,7 @@ Spec. Wheeler's Surv., 1876, 259 (Tej6n Mts. and near Kemville, s. Cali-
 
 
 
-Bull. Nutt. Om. Club, iv, 1879, 195 (Ft. Klamath, s. e. Oregon). 
+Bull. Nutt. Orn. Club, iv, 1879, 195 (Ft. Klamath, s. e. Oregon). 
 
  S\j)hyropieus] v[arius] rubor Coues, Key N. Am. Birds, 2d ed, 1884, 486, part. 
 
@@ -46066,7 +46066,7 @@ Northwest coast district, breeding from western Oregon (Beaver-
 
 
 
-BIEDS OF NORTH AND MIDDLE AMERICA. 285 
+BIRDS OF NORTH AND MIDDLE AMERICA. 285 
 
 
 
@@ -46122,7 +46122,7 @@ Sphyrapicus ruber flaviventris Osgood, North Am. Fauna, no. 21, Sept., 1901,
 
 
 
-Pirns ruber (not of Gmelin) Audubon, Om. Biog., v, 1839, 179, part, pi. 416, 
+Pirns ruber (not of Gmelin) Audubon, Orn. Biog., v, 1839, 179, part, pi. 416, 
 
  figs. 9, 10; Synopsis, 1839, 181, part; Birds Am., oct. ed., iv, 1842, 261 part, 
 
@@ -46479,7 +46479,7 @@ Sphyrapieus thyroideus Baibd, Rep. Pacific R. R. Svurv., ix, 1858, pp. xxviii,
 
 
 
-1874, 242 (proves identity of 5. thyroideus and "S. ttdlliamsonii"); Rep. Om. 
+1874, 242 (proves identity of 5. thyroideus and "S. ttdlliamsonii"); Rep. Orn. 
 
  Spec. Wheieler's Surv., 1874, 90 (mts. near Ft. Garland, Colorado; crit.); 
 
@@ -46491,13 +46491,13 @@ Sphyrapieus thyroideus Baibd, Rep. Pacific R. R. Svurv., ix, 1858, pp. xxviii,
 
  Gbinnell (G. B.) in Ludlow's Rep. Recon., 1876, 81 (Tower Creek, 
 
- Yellowstone Park). — Rldgwat, Om. 40th Parallel, 1877, 551 (Sierra Nevada, 
+ Yellowstone Park). — Rldgwat, Orn. 40th Parallel, 1877, 551 (Sierra Nevada, 
 
  near Carson City; Parley's Park, Utah); Proc. U. S. Nat. Mus., iii, 1880, 
 
  189; Nom. N. Am. Birds, 1881, no. 370; Auk, iv, 1887, 75 (Blue Canyon, 
 
- Califomia; descr. adult male with red crown). — Scott, BuU. Nutt. Om. 
+ Califomia; descr. adult male with red crown). — Scott, BuU. Nutt. Orn. 
 
  Club, iv, 1879, 95 (Twin Lakes, Colorado, breeding); Auk, iii, 1886, 427 
 
@@ -46566,7 +46566,7 @@ S[phyrapieus] thyroideus Ooues, Ibis, 1865, 162 (Ft. Whipple, Arizona). — Rido
 
 
 
-SphyropieiLS thyroideus Cooper, Om. Calif. 1870, 394. — ^Mehriam, Sixth An. Rep. 
+SphyropieiLS thyroideus Cooper, Orn. Calif. 1870, 394. — ^Mehriam, Sixth An. Rep. 
 
  TJ. S. Geol. Surv. Terr., 1873, 694 (Madison R., Montana). — Baisd, Brewer, 
 
@@ -46652,7 +46652,7 @@ S{phyrapicus'\ williamsoni Coues, Ibis, 1865, 162, in text (Ft. Whipple).
 
 
 
-Sphyropicus mlliamsonii Cooper, Om. Calif., 1870, 393. — ^Merriam, Sixth An. 
+Sphyropicus mlliamsonii Cooper, Orn. Calif., 1870, 393. — ^Merriam, Sixth An. 
 
  Rep. U. S. Geol. Surv. Terr., 1873, 694 (headwaters Madison R., Wyoming). 
 
@@ -47312,9 +47312,9 @@ Picus tridactylus Bonaparte, Ann. Lye. N. Y., ii, pt. i, 1826, 46, 437 (descr.
 
  plumages); Synop. Birds U. S., 1828, 46. — Swainson, Fauna Bor.-Am., ii, 
 
- 1831, pL 56 (sources of Athabasca R.). — Nuttall, Man. Om. U. S. and Can., 
+ 1831, pL 56 (sources of Athabasca R.). — Nuttall, Man. Orn. U. S. and Can., 
 
- Land Birds, 1832, 578.— Audubon, Om. Biog., ii, 1834, 197, pi. 132; v, 1839, 
+ Land Birds, 1832, 578.— Audubon, Orn. Biog., ii, 1834, 197, pi. 132; v, 1839, 
 
  538. 
 
@@ -47322,7 +47322,7 @@ Picus tridactylus Bonaparte, Ann. Lye. N. Y., ii, pt. i, 1826, 46, 437 (descr.
 
 Pieus (Aptenvus) tridactylus Swainson, Fauna Bor.-Am., ii, 1831, 311 (sources 
 
- of Athabasca R.). — Nuttall, Man. Om. U. S. and Can., Water Birds, 1834, 
+ of Athabasca R.). — Nuttall, Man. Orn. U. S. and Can., Water Birds, 1834, 
 
  602. 
 
@@ -47368,7 +47368,7 @@ Picus hirsutus Vieillot, Nouv. Diet. d'Hist. Nat., xxvi, 1818, 103, part (Hudson
 
  Audubon, Orn. Biog., v, 1839, 184; Synopsis, 1839, 183; Birds Am., oct. ed., 
 
- iv, 1842, 268, pi. 269.— Nutoall, Man. Om. TJ. S. and Can., Land Birds, ed. 2, 
+ iv, 1842, 268, pi. 269.— Nutoall, Man. Orn. TJ. S. and Can., Land Birds, ed. 2, 
 
  1840, 622. 
 
@@ -47404,7 +47404,7 @@ Picoides hirsutus Malheebe, M6m. Acad. Metz, xxx, 1849, 329. — Baied, Rep.
 
 
 
-Picus hirsitus Audubon, Om. Biog., v, 1839, pi. 417, figs. 3, 4. 
+Picus hirsitus Audubon, Orn. Biog., v, 1839, pi. 417, figs. 3, 4. 
 
 
 
@@ -47418,7 +47418,7 @@ Picoides americanus Beehm, Handb. Vogel Deutschl., 1831, 195 ("Amerika"). —
 
  Brewer, and Ridgway, Hist. N. Am. Birds, ii, 1874, pi. 50, fig. 2. — Mee- 
 
- KHM, Bull. Nutt. Om. Club, iii, 1878, 200 (Lewis Co., New York, breeding; 
+ KHM, Bull. Nutt. Orn. Club, iii, 1878, 200 (Lewis Co., New York, breeding; 
 
  descr. nest and eggs); iv, 1879, 6 (Lewis Co., resident). — Brewster, Proc. 
 
@@ -47483,7 +47483,7 @@ in winter).— Ralph and Bags, Trans. Oneida Hist. Soc, iii, 1886, 123 (Her-
 
 
 
-P[icoides\ americaniis Brewster, Bull. Nutt. Om. Club, viii, 1883, 122 (unusual 
+P[icoides\ americaniis Brewster, Bull. Nutt. Orn. Club, viii, 1883, 122 (unusual 
 
  influx into e. Massachusetts, winter ot 1860-61). — Coues, Key N. Am. Birds, 
 
@@ -47525,7 +47525,7 @@ Picoides americanus americanus Bangs, Auk, xvii, April, 1900, 132, part (crit.).
 
 Picoides tridactylus americanus Ridgway, Proc. U. S. Nat. Mus., iii, March 27, 
 
- 1880, 6, 189; Nom. N. Am. Birds, 1881, no. 368.— Merriam, Bull. Nutt. Om. 
+ 1880, 6, 189; Nom. N. Am. Birds, 1881, no. 368.— Merriam, Bull. Nutt. Orn. 
 
  Club, vi, 1881, 232 (Adirondack region, New York, resident); Auk, i, 1884, 
 
@@ -47545,7 +47545,7 @@ Pieus arcticus (not of Swainson) DeKay, Zool. New York, 1844, 190, pi. 17,
 
 
 
-[Picoides americanus.] Var. fasdatus Baebd, in Cooper's Om. Calif., 1870, 385, 
+[Picoides americanus.] Var. fasdatus Baebd, in Cooper's Orn. Calif., 1870, 385, 
 
  part. 
 
@@ -47741,7 +47741,7 @@ Picoides americanus americanus Grinnbll (J.), Condor, xi, 1909, 205 (Forty-mile,
 
 
 
-[Picoides americanus.} Var. faseiatus Baird, ia Cooper's Om. Calif., 1870, 385, 
+[Picoides americanus.} Var. faseiatus Baird, ia Cooper's Orn. Calif., 1870, 385, 
 
  part (type from Ft. Simpson, Mackenzie; coll. U. S. Nat. Mus.). 
 
@@ -47942,7 +47942,7 @@ Picus dorsalis Sundevall, Consp. Av. Picin., 1866, 14.
 
 
 
-[Picoides americanus.] Var. dorsalis Baird, in Cooper's Om. Calif., 1870, 386, 387 
+[Picoides americanus.] Var. dorsalis Baird, in Cooper's Orn. Calif., 1870, 386, 387 
 
  (crit.).— CoTJES, Key N. Am. Birds, 1872, 194. 
 
@@ -48523,7 +48523,7 @@ A[ptemus] arctieus Reichenbach, Handb. Scansores, Picinse, 1854, 361, pi. 630,
 
 Pieus arctieus Swainson, Fauna Bor.-Am., ii, 1831, pi. 57. — Gloger, Handb. 
 
- Naturg. Vog. Eur., 1834, 462, footnote.— Nuttall, Man. Om. U. S. and Can., 
+ Naturg. Vog. Eur., 1834, 462, footnote.— Nuttall, Man. Orn. U. S. and Can., 
 
  2d ed., i, 1840, 691.— Audubon, Synopsis, 1839, 182; Birds Am., oct. ed., iv, 
 
@@ -48570,7 +48570,7 @@ BIRDS OF NORTH AND MIDDLE AMERICA. 301
 
 winter).— TuENBULL, Birds E. Penn. and N. J., 1869, 41 (Pocono Mts., n. 
 
- Pennsylvania, occasional). — Coopeb, Om. Calif., 1870, 384 (summit of Sierra 
+ Pennsylvania, occasional). — Coopeb, Orn. Calif., 1870, 384 (summit of Sierra 
 
  Nevada).— CouBS, Check List, 1873, no. 300; 2d ed., 1882, no. 443; Birds 
 
@@ -48580,13 +48580,13 @@ winter).— TuENBULL, Birds E. Penn. and N. J., 1869, 41 (Pocono Mts., n.
 
  1877, 64 (Simsbury and East Winsor Hill, Connecticut, winter); Bull. Nutt. 
 
- Om. Club, iv, 1879, 6 (Lewis Co., New York, resident); vii, 1882, 236 (Point 
+ Orn. Club, iv, 1879, 6 (Lewis Co., New York, resident); vii, 1882, 236 (Point 
 
  de Monts, Quebec, resident); North Am. Fauna, no. 16, 1899, 115 (Mt. Shasta, 
 
  California, breeding). — Baird, Brewer, and Ridgwat, Hist. N. Am. Birds, 
 
- ii, 1874, 530, pi. 50, fig. 1.— Ridgway, Om. 40th Parallel, 1877, 548 (Sierra 
+ ii, 1874, 530, pi. 50, fig. 1.— Ridgway, Orn. 40th Parallel, 1877, 548 (Sierra 
 
  Nevada, near Carson City, winter); Proc. U. S. Nat. Mus., iii, 1880, 189; 
 
@@ -48594,13 +48594,13 @@ winter).— TuENBULL, Birds E. Penn. and N. J., 1869, 41 (Pocono Mts., n.
 
  S. Nat. Mus. , i, 1878, 429 (Soda Springs and Summit Meadows, Sierra Nevada, 
 
- Sept.).— Roberts, Bull. Nutt. Om. Club, iv, 1879, 154 (Carlton Co., Minne- 
+ Sept.).— Roberts, Bull. Nutt. Orn. Club, iv, 1879, 154 (Carlton Co., Minne- 
 
  sota, breeding; Minneapolis, winter); An. Rep. Geol. and N. H. Surv. Minn., 
 
  1880, 163 (Grand Marais and Black Point, Minnesota, Aug.). — Brewster, 
 
- Bull. Nutt. Om. Club, iii, 1878, 180 (descr. young male); vi, 1881, 182 (Plym- 
+ Bull. Nutt. Orn. Club, iii, 1878, 180 (descr. young male); vi, 1881, 182 (Plym- 
 
  outh, Massachusetts, Dec); viii, 1883, 122 (Lynn, Massachusetts, abundant 
 
@@ -48610,17 +48610,17 @@ winter).— TuENBULL, Birds E. Penn. and N. J., 1869, 41 (Pocono Mts., n.
 
  Massachusetts, Oct., 1883); v, 1888, 254 (Ft. Klamath, Oregon; crit.), 390 
 
- (Winchendon, Massachusetts, winter). — Deane, Bull. Nutt. Om. Club, v, 
+ (Winchendon, Massachusetts, winter). — Deane, Bull. Nutt. Orn. Club, v, 
 
- 1880, 56 (Hyde Park, Massachusetts, winter). — Gunn, Bull. Nutt. Om. Club, 
+ 1880, 56 (Hyde Park, Massachusetts, winter). — Gunn, Bull. Nutt. Orn. Club, 
 
  vi, 1881, 119 (Cheboygan Co., Michigan, breeding). — ^Williams, Bull. Nutt. 
 
- Om. Club, vii, 1882, 62 (Belt Mts., Montana, breeding). — ^Batcheldbr, Bull. 
+ Orn. Club, vii, 1882, 62 (Belt Mts., Montana, breeding). — ^Batcheldbr, Bull. 
 
- Nutt. Om. Club, vii, 1882, 150 (Grand Falls and Fairfield, New Branswick).— 
+ Nutt. Orn. Club, vii, 1882, 150 (Grand Falls and Fairfield, New Branswick).— 
 
- Wood, Om. and Oolog., ix, 1884, 62 (30 m. n. of Mackinac, Michigan). — ^Tur- 
+ Wood, Orn. and Oolog., ix, 1884, 62 (30 m. n. of Mackinac, Michigan). — ^Tur- 
 
  ner, Proc. U. S. Nat. Mus., viii, 1885, 242 (Labrador). — ^American Orni- 
 
@@ -48656,7 +48656,7 @@ winter).— TuENBULL, Birds E. Penn. and N. J., 1869, 41 (Pocono Mts., n.
 
  June; Menonomee, Wisconsin, Oct. ; Honey Lake, California, Jime; etc.). — 
 
- Cantwbll, Om. and Oolog., xv, 1890, 133 (n. Minnesota, breeding). — Thomp- 
+ Cantwbll, Orn. and Oolog., xv, 1890, 133 (n. Minnesota, breeding). — Thomp- 
 
  son, Proc. TJ. S. Nat. Mus., xiii, 1890, 549 (Manitoba, resident; habits).— Mac- 
 
@@ -48727,7 +48727,7 @@ Picus tridactylus (not of Lirmseus) Bonaparte, Am. Om., ii, 1828, 14, pi. 14,
 
  fig. 2.— Jardine, ed. Wilson's Am. Om., iii, 1832, 423, pi. 14, fig. 2.— Audu- 
 
- bon, Om. Biog., ii, 1834, 198; v, 1839, 538, pi. 132.— Nottall, Man. Om. 
+ bon, Orn. Biog., ii, 1834, 198; v, 1839, 538, pi. 132.— Nottall, Man. Orn. 
 
  U. S. and Can., 2d ed., i, 1840, 578. 
 
@@ -49533,7 +49533,7 @@ Picummis olivaceus flavotinctus Haktbht, Novit. Zool., ix, Dec. 16, 1902, 606
 
 
 
-P[ieumnvs] o[livaceus] flavotinctus Hellmayr, Bull. Brit. Om. Club, xxiii, 1909, 
+P[ieumnvs] o[livaceus] flavotinctus Hellmayr, Bull. Brit. Orn. Club, xxiii, 1909, 
 
  67, in text. 
 
@@ -51341,7 +51341,7 @@ With reference to C. aurantiicinctus, which seems to differ from C. aurantiivent
 
  nensis Vieillot, Nouv. Diet. d'Hist. Nat., iv, 1816, 500. — [Buccal cayanensis Latham, 
 
- Index Om. , i, 1790, 202.— C[apito] rubricollis Vieillot, Enc. M6th. , iii, 1823, 1426 (based 
+ Index Orn. , i, 1790, 202.— C[apito] rubricollis Vieillot, Enc. M6th. , iii, 1823, 1426 (based 
 
  on Barbu de Cayenne Brisson, etc.). — M^ncropogonl nsemus Temminck, PI. Col. , iii, Kvr. 
 
@@ -52213,7 +52213,7 @@ Tetragonops frantdi Sclater, Ibis, Oct., 1864, 371, pi. 10 (Costa Rica;" coll.
 
  Brit. Mus., Capit., 1868, 19. — ^Marshall, Mon. Capitonidse, 1871, 3, pi. 2. — 
 
- BoucARD, Proc. Zool. Soc. Lond., 1878, 47 (Navarro, Costa Rica). — Shelley, 
+ Boucard, Proc. Zool. Soc. Lond., 1878, 47 (Navarro, Costa Rica). — Shelley, 
 
  Cat. Birds Brit. Mus., xix, 1891, 121 (Navarro and Volcan de Irazd, Costa 
 
@@ -52258,7 +52258,7 @@ Semnomisfrantzii Richmond, Auk, xvii, April, 1900, 179, in text. — Perry, Pub.
 
 
 
-146, Field Mus. Nat. Hiet., Om. Ser, i, no. 6, 1910, 265 (Coliblanco, Costa 
+146, Field Mus. Nat. Hiet., Orn. Ser, i, no. 6, 1910, 265 (Coliblanco, Costa 
 
 
 
@@ -52606,7 +52606,7 @@ BaUIouius (extralimital).5
 
  Volucr. Zygod. , 1854, 4) . (Tj^pe, Pteroglossus nigrirostris Waterhouse. ) — Ramphomelas 
 
- (emendation) Bonaparte, Notes Om. Coll. Delattre, 1854, 54, footnote. 
+ (emendation) Bonaparte, Notes Orn. Coll. Delattre, 1854, 54, footnote. 
 
 
 
@@ -54211,7 +54211,7 @@ Rhamphastos tocard Sclatee, Proc. Zool. Soc. Lond., 1860, 70 (Pallatanga, w.
 
  fiir Om., 1869, 362 (Costa Rica). — ^Taozanowski and Bbelepsch, Proc. 
 
- Zool. Soc. Lond., 1885, 108 (Mipoto, Ecuador). — Taczanowski, Om. du 
+ Zool. Soc. Lond., 1885, 108 (Mipoto, Ecuador). — Taczanowski, Orn. du 
 
  P6-0U, iii, 1886, 145.— Allen, Bull. Am. Mus. N. H., ii, 1889, 76 (Quito, 
 
@@ -56544,7 +56544,7 @@ o Seven specimens. 6 Five specimens.
 
 
 
-BIEDS OF NORTH AND MIDDLE AMERICA. 355 
+BIRDS OF NORTH AND MIDDLE AMERICA. 355 
 
 
 
@@ -57482,7 +57482,7 @@ aa. Bill straight, narrow, compressed (width at nostrils much less than depth at
 
 
 
-BIEDS OF NORTH AND MIDDLE AMBBICA. 361 
+BIRDS OF NORTH AND MIDDLE AMBBICA. 361 
 
 
 
@@ -57923,11 +57923,11 @@ Jacamerops grandis Lesson, Trait6 d'Orn., 1831, 234, pi. 27, fig. 2. — Gray, L
 
  18; Cat. Birds Brit. Mus., xix, 1891, 176 (Vera^a, Panama, etc.); in Wyts- 
 
- man's Gen. Av., pt. 10, 1909, 7.— Descoueth/Z, Om. Brfe., 1854-56, pi. 18, 
+ man's Gen. Av., pt. 10, 1909, 7.— Descoueth/Z, Orn. Brfe., 1854-56, pi. 18, 
 
  fig. 4, and text.— Bubmeistee, Syst. Ueb. Th. Bras., ii, 1856, 298. — Pelzeln, 
 
- Sitz. Ak. Wien, xx, 1856, 519; Om. Bras., 1870, 25, 405.— Laweence, Ann. 
+ Sitz. Ak. Wien, xx, 1856, 519; Orn. Bras., 1870, 25, 405.— Laweence, Ann. 
 
  Lye. N. Y., vii, 1862, 291 (Panama). — Sclater and Salvin, Proc. Zool. Soc. 
 
@@ -58212,7 +58212,7 @@ o Porty-eix specimens.
 
 
 
-BIEDS OF NORTH AND MIDDLE AMEEICA. 
+BIRDS OF NORTH AND MIDDLE AMEEICA. 
 
 
 
@@ -59546,7 +59546,7 @@ Plumage and coloration. — Plumage compact but soft, mostly
 
 
 
-BIEDS OF NOETH AND MIDDLE AMERICA. 875 
+BIRDS OF NOETH AND MIDDLE AMERICA. 875 
 
 
 
@@ -60832,7 +60832,7 @@ o Six specimens.
 
 
 
-BIEDS OF NORTH AND MIDDLE AMERICA. 381 
+BIRDS OF NORTH AND MIDDLE AMERICA. 381 
 
 
 
@@ -61406,7 +61406,7 @@ Adults (sexes alike). — Forehead and crown broadly barred with
 
  melanotis Lesson, Trait6 d'Orn., 1831, 167.— B[ucco] strigilatus Lichtenstein, Verz. 
 
- Doubl., 1823, 8 (Sao Paulo, s. Brazil). — T[amatid] leacotis Swainson, Om. Drawings, 
+ Doubl., 1823, 8 (Sao Paulo, s. Brazil). — T[amatid] leacotis Swainson, Orn. Drawings, 
 
  pt. 1, 1834, pi. 10 (no locality).— B[ucco] leucotis Gray, Gen. Birds, i, 1846, 74. 
 
@@ -62178,7 +62178,7 @@ Malacoptila inomata Sclater, Ann. and Mag. N. H., ser. 2, xiii, 1854, 478
 
  Rica). — Prantzius, Joum. fur Om., 1869, 311, part (Pacuare, Costa Rica). — 
 
- BoucARD, Liste Ois. r&ol. Guat., 1878, 24. — Salvdj and Godman, Biol. 
+ Boucard, Liste Ois. r&ol. Guat., 1878, 24. — Salvdj and Godman, Biol. 
 
  Centr.-Am., Aves, ii, 1896, 517 (San Carlos, Rama, Santo Domingo, etc., 
 
@@ -62374,7 +62374,7 @@ o The type of M. fuliginosa remains imique in its very dark, sooty coloration, b
 
 
 
-BIEDS OF NORTH AND MIDDLE AMERICA. 393 
+BIRDS OF NORTH AND MIDDLE AMERICA. 393 
 
 
 
@@ -64236,7 +64236,7 @@ o Ceryle Boie, Isis, 1828, 316. (Type, Alcedo rvdis Linnaus.)
 
 
 
-BIEDS OF NORTH AND MIDDLE AMERICA. 407 
+BIRDS OF NORTH AND MIDDLE AMERICA. 407 
 
 
 
@@ -65542,7 +65542,7 @@ Thirty-six adult females of M. t. torquata. . . .
 
 
 
-BIEDS OF NOETH AND MIDDLE AMEEICA. 415 
+BIRDS OF NOETH AND MIDDLE AMEEICA. 415 
 
 
 
@@ -67365,7 +67365,7 @@ Western North America, east to and including Rocky Mountains;
 
 
 
-Alcedo aXeyon (not of Linnaeus) Audubon, Om. Biog., i, 1831, 394, part; Synopsis, 
+Alcedo aXeyon (not of Linnaeus) Audubon, Orn. Biog., i, 1831, 394, part; Synopsis, 
 
  1839, 173, part; Birds Am., oct. ed., iv, 1842, 205, part. — Pat.TiAS, Zoogr. 
 
@@ -67387,7 +67387,7 @@ Ceryle alcyon Cassin, lUustr. Birds CaUf., Tex., etc., 1856, 254, part. — Bair
 
  Oregon).— Dall and Bannister, Trans. Chicago Ac. Sci., i, 1869, 275 (Sitka; 
 
- Yukon Valley, up to Fort Yukon; habits). — Cooper, Om. Calif., 1870, 337.— 
+ Yukon Valley, up to Fort Yukon; habits). — Cooper, Orn. Calif., 1870, 337.— 
 
  Finsch, Abh. Nat. Ver. Brem.. iii, 1872, 29 (Alaska). — Grayson, Proc. 
 
@@ -67414,7 +67414,7 @@ part. — Sharpe, Mon. Alced., 1871, 79, part; Cat. Birds Brit. Mus., xvii, 1892
 
  W. 100th. Merid., 1875, 366. — ^Baikd, Brewer, and Ridgwat, Hist. N. Am. 
 
- Birds, ii, 1874, 392, part.— Ridgway, Om. 40th Parallel, 1877, 545 (Truckee 
+ Birds, ii, 1874, 392, part.— Ridgway, Orn. 40th Parallel, 1877, 545 (Truckee 
 
  River, Nevada; Parleys Park, Utah); Proc. U. S. Nat. Mus., iii, 1880, 190, 
 
@@ -69816,7 +69816,7 @@ Ceryh americana (not Alcedo americana Gmelin) Lawrence, Ann. Lye. N. Y.,
 
  Sci. Phila., 1866, 59 (Colorado R., between Ft. Yuma and Ft. Mojave); Ibis, 
 
- 1866, 263 (Colorado R.).— Cooper, Om. Calif., 1870, 339. 
+ 1866, 263 (Colorado R.).— Cooper, Orn. Calif., 1870, 339. 
 
 
 
@@ -69842,7 +69842,7 @@ Ceryle cabanisi Sharpe, Mon. Alced., 1868, 87, part. — Bouoard, Proc. Zool. So
 
  American Ornithologists' Union, Check List, 1886, no. 391, part. — 
 
- Hancock, Bull. Ridgw. Om. Club., no. 2, 1887, 16 (Corpus Christi, Texas, 1 
+ Hancock, Bull. Ridgw. Orn. Club., no. 2, 1887, 16 (Corpus Christi, Texas, 1 
 
  spec, March. 16). — LIiOYD, Auk, iv, 1887, 190 (Nueces and Frio Canons, 
 
@@ -69900,7 +69900,7 @@ Ceryle ammcana, var. cabanisi Baird, Brewer, and Ridgway, Hist. N. Am.
 
  Oaxaca).— Merrill, Proc. U. S. Nat. Mus., i, 1878, 142 (Ft. Brown, Texas, 
 
- May-Oct.).— Brewster, Bull. Nutt. Om. Club, iv, 1879, 79 .(Comal Co., 
+ May-Oct.).— Brewster, Bull. Nutt. Orn. Club, iv, 1879, 79 .(Comal Co., 
 
  Texas; descr. nest and eggs). 
 
@@ -70439,7 +70439,7 @@ Ceryle inda Cassin, Cat. Halcyonidse Mus. Phila. Acad., 1852, 3 (Cayenne); Proc.
 
  Bahia, Brazil). — Bbrlbpsch, Proc. Zool. Soc. Lond., 1885, 120 (Palmal, 
 
- Ecuador); Novit. Zool., xv, 1908, 275 (Cayeime). — Taczanowski, Om. du 
+ Ecuador); Novit. Zool., xv, 1908, 275 (Cayeime). — Taczanowski, Orn. du 
 
  Pfoou, iii, 1886, 103.— Salvin, Ibis, 1886, 60 (Bartica Grove and Camacusa, 
 
@@ -70534,7 +70534,7 @@ C[hloroceryle] viridirufa Cabanis and Heine, Mus. Hein., ii, Jan., 1860, 146
 
 
 
-BIEDS OF NORTH AND MIDDLE AMEBICA. 437 
+BIRDS OF NORTH AND MIDDLE AMEBICA. 437 
 
 
 
@@ -70568,13 +70568,13 @@ Schombuigk's Reis. Brit. Guiana, iii, 1848, 704.
 
 
 
-1848, 8).— Pelzeln, Sitz. Ak. Wien, 1856, 515; Om. Bras., i. abth., 1868, 23. 
+1848, 8).— Pelzeln, Sitz. Ak. Wien, 1856, 515; Orn. Bras., i. abth., 1868, 23. 
 
  [Ceryle] bicolor Boie, Isis, 1828, 316.— Bonaparte, Consp. Av., i, 1850, 160.— 
 
 
 
-Pelzeln, Om. Bras., iv. abth., 1871, 404. 
+Pelzeln, Orn. Bras., iv. abth., 1871, 404. 
 
  C[hloroceryle] bicolor Reichenbach, Handb., Alced., 1851, 28, pi. 414, figs. 3118, 
 
@@ -70830,7 +70830,7 @@ Ceryle superdliosa Gray, List Fissirostr. Birds Brit. Mus., 1848, 62. — Cassin
 
 [Ceryle] superciliosa Bonaparte, Consp. Av., i, 1850, 160. — Gray, Hand-list, i, 
 
- 1869, 98, no. 1193, part.— Pelzeln, Om. Bras., iv. Abth., 1871, 404.— Sclater 
+ 1869, 98, no. 1193, part.— Pelzeln, Orn. Bras., iv. Abth., 1871, 404.— Sclater 
 
  and Salvin, Nom. Av. Neotr., 1878, 103, part.— Shabpe, Hand-Hat, ii, 
 
@@ -70990,7 +70990,7 @@ C[hloroceryle'] superdliosa Sclatee, Proc. Zool. Soc. Lond., 1864, 176 ("City o1
 
 
 
-BIEDS OF NORTH AND MIDDLE AMEKICA. 441 
+BIRDS OF NORTH AND MIDDLE AMEKICA. 441 
 
 
 
@@ -71805,7 +71805,7 @@ Todus angustirostria Lafebsnatb, Eev. et Mag. de ZooL, ser. 2, iii, Oct., 1851,
 
  Haiti and San Dom., 1885, 107, pi. (23), fig. 4; Auk, iii, 1886, 369 (descr.; 
 
- synonymy); Birds West Ind., 1889, 164. — Cherrie, Contr. Om. San Dom., 
+ synonymy); Birds West Ind., 1889, 164. — Cherrie, Contr. Orn. San Dom., 
 
  1896, 20. 
 
@@ -72848,7 +72848,7 @@ a With the very satisfactory material that has been brought together in connecti
 
 
 
-BIEDS OF NOBTH AND MIDDLE AMERICA. 455 
+BIRDS OF NOBTH AND MIDDLE AMERICA. 455 
 
 
 
@@ -74146,7 +74146,7 @@ Two adult females from Chiapas ( M, m. saiuratus)
 
 
 
-BIEDS OF NORTH AND MIDDLE AMERICA. 465 
+BIRDS OF NORTH AND MIDDLE AMERICA. 465 
 
 
 
@@ -74628,7 +74628,7 @@ a Prionites martii S-pbi, Avium Species Novae (Av. Bras.), i, "1824" (=1825-1826
 
 
 
-BIEDS OF NORTH AKD MIDDLE AMERICA. 
+BIRDS OF NORTH AKD MIDDLE AMERICA. 
 
 
 
@@ -77486,7 +77486,7 @@ Caprimulgi (p. 489).
 
 
 
-BIEDS OF NOKTH AND MIDDLE AMEEIOA, 489 
+BIRDS OF NOKTH AND MIDDLE AMEEIOA, 489 
 
 
 
@@ -77983,7 +77983,7 @@ British Guiana to upper Amazon Valley, Bolivia, northern Argentina, Paraguay,
 
 * Caprimulgus Linnaeus, Syst. Nat., ed. 10, i, 1758, 193. (Type, as fixed by Gray, 
 
- 1840, C. europseus Linnaeus.) — Nyctidielidon Rennie, in Montague's Om. Diet., 1831, 
+ 1840, C. europseus Linnaeus.) — Nyctidielidon Rennie, in Montague's Orn. Diet., 1831, 
 
  335. (Type, Caprimulgus europxus Linnaeus.) — Phalsenivora Blyth, Analyst, v, no. 
 
@@ -78546,7 +78546,7 @@ o One specimen.
 
 
 
-BIEDS OF NOETH AND MIDDLE AMEEICA, 497 
+BIRDS OF NOETH AND MIDDLE AMEEICA, 497 
 
 
 
@@ -80076,7 +80076,7 @@ Caprimulgus carolinenais Vibillot, Nouv. Diet. d'Hist. Nat., x, 1817, 232. —
 
  Wilson, Am. Orn., vi, 1817, 95, pi. 54, fig. 2 (Virginia; Tennessee). — 
 
- Stephens, Shaw's Gen. Zool., x, 1824, 149.— Attdubon, Om. Biog., i, 1831, 
+ Stephens, Shaw's Gen. Zool., x, 1824, 149.— Attdubon, Orn. Biog., i, 1831, 
 
  273, pi. 52; v, 1839, 401; Synopsis, 1839, 31; Birds Am., oct. ed., i, 1840, 
 
@@ -80120,7 +80120,7 @@ Antrostomus carolinensis "Gould, leones Avium, 1838," Bonapabte, Geog.
 
  Journ. fiir Orn., 1874, 120 (Cuba); 1878, 159, 172 (Porto Rico); Anal. Soc. 
 
- Bsp. Hist. Nat., vii, 1878, 201 (Porto Rico); Om. Cubana, ed. 1895, 103.— 
+ Bsp. Hist. Nat., vii, 1878, 201 (Porto Rico); Orn. Cubana, ed. 1895, 103.— 
 
  Lawrence, Ann. Lye. N. Y., ix, 1868, 120 (Las Cruces de Candelaria, Cosfa 
 
@@ -80142,13 +80142,13 @@ I spec, April, 1889).— Coues, Check List, 1873, no. 264; 2d ed., 1882, no.
 
  Illinois); Proc. U. S. Nat. Mus., iii, 1880, 188; Nom. N. Am. Birds, 1881, no. 
 
- 353; Om. Illinois, i, 1889, 367.— Merrill (J. C), Proc. U. S. Nat. Mus., i, 
+ 353; Orn. Illinois, i, 1889, 367.— Merrill (J. C), Proc. U. S. Nat. Mus., i, 
 
  1878, 146 (Ft. Brown, Texas).— Ma ynaed, Oologist, v, 1879, 2 (nesting 
 
  habits). — Sclatee and Salvin, Proc. Zool. Soc. Lond., 1879, 531 (Medellin, 
 
- Antioquia, Colombia).— Beown (N. C), Bull. Nutt. Om. Club, iv, 1879, 
+ Antioquia, Colombia).— Beown (N. C), Bull. Nutt. Orn. Club, iv, 1879, 
 
 
 
@@ -80156,7 +80156,7 @@ II (Coosada, Alabama; song). — Sennbtt, Bull. TJ. S. Geol. and Geog. Surv.
 
  Terr., v, 1879, 410 (Lomita Ranch, Texas; habits). — Cory, Birds Bahama Is., 
 
- 1880, 104 (Andros I.; Inagua I.); Bull. Nutt. Om. Club, vi, 1881, 153 (Haiti); 
+ 1880, 104 (Andros I.; Inagua I.); Bull. Nutt. Orn. Club, vi, 1881, 153 (Haiti); 
 
  Auk, iii, 1886, 341; Birds West Ind., 1889, 136; Cat. West Ind. Birds, 1892, 
 
@@ -80190,7 +80190,7 @@ II (Coosada, Alabama; song). — Sennbtt, Bull. TJ. S. Geol. and Geog. Surv.
 
  figs. 8, 9 (eggs). — Piers, Trans. Nova Scotia Inst. Sci., ser. 2, i, 1895, 405 
 
- (Pictou, Nova Scotia, 1 spec). — Cheerie, Contr. Om. San Dom., 1896, 18 
+ (Pictou, Nova Scotia, 1 spec). — Cheerie, Contr. Orn. San Dom., 1896, 18 
 
 
 
@@ -80501,7 +80501,7 @@ Norn. Av. Neotr., 1873, 96.
 
  and Salvin, Proc. Zool. Soc. Lond., 1875, 237 (San Cristobal, Venezuela).— 
 
- Taczanowski, Om. du P6rou, i, 1884, 219.— Bangs, Proc. New Engl. Zool. 
+ Taczanowski, Orn. du P6rou, i, 1884, 219.— Bangs, Proc. New Engl. Zool. 
 
  Club, i, 1899, 78 (San Sebastian, Santa Marta, Colombia).— Robinson and 
 
@@ -80538,7 +80538,7 @@ o The two specimens examined have mostly assumed the adult plumage; therefore
 
 
 
-BIEDS OF NORTH AND MIDDLE AMEBICA. 513 
+BIRDS OF NORTH AND MIDDLE AMEBICA. 513 
 
 
 
@@ -80546,7 +80546,7 @@ BIEDS OF NORTH AND MIDDLE AMEBICA. 513
 
 
 
-Antrostomus cortapau Pblzbln, Om. Bras., i. Abth., 1868, 13 (Ponte de Guapor6, 
+Antrostomus cortapau Pblzbln, Orn. Bras., i. Abth., 1868, 13 (Ponte de Guapor6, 
 
  Corrego Funda, Barro de Rio Negro, and Pard, Brazil; ex Natterer, manu- 
 
@@ -80600,7 +80600,7 @@ Antrostomus rutilus (not o£ Burmeister) Semper, Proc. Zool. Soc. Lond., 1872,
 
 
 
-652 (Santa Lucia, Lesser Antilles; habits). — Allen, Bull. Nutt. Om. Club, 
+652 (Santa Lucia, Lesser Antilles; habits). — Allen, Bull. Nutt. Orn. Club, 
 
 
 
@@ -80830,7 +80830,7 @@ Antrostomus cuhanenm Lawrence, Ann. Lye. Nat. Hist. N. Y., vii, 1862 (pub-
 
  of orig. descr.). — Gundlach, Report. Fisico-Nat, Cuba, i, 1866, 283; Joum. 
 
- fiir Om., 1874, 120 (habits); Om. Cubana, ed. 1895, 102.— Sclater, Proc. 
+ fiir Om., 1874, 120 (habits); Orn. Cubana, ed. 1895, 102.— Sclater, Proc. 
 
  Zool. Soc. Lond., 1866, 585 (crit.).— Cory, Auk, iii, 1886, 342; Birds West 
 
@@ -81006,7 +81006,7 @@ a On the third and fourth rectrices the white occupies the distal half, approxim
 
 
 
-BIEDS OF NORTH AND MIDDLE AMBEICA. 
+BIRDS OF NORTH AND MIDDLE AMBEICA. 
 
 
 
@@ -81312,7 +81312,7 @@ b Specimens from these localities may represent A. v. macromystax, especially th
 
 
 
-BIEDS OF NORTH AND MIDDLE AMERICA. 519 
+BIRDS OF NORTH AND MIDDLE AMERICA. 519 
 
 
 
@@ -81864,7 +81864,7 @@ A[ntrosUmvus] v[odferus'] macromystax Bailet (Florence M.), Handb. Birds W.
 
 
 
-Antrostomus vodferus arizonse Beewstbe, Bull. Nutt. Om. Club, vi, April, 1881, 
+Antrostomus vodferus arizonse Beewstbe, Bull. Nutt. Orn. Club, vi, April, 1881, 
 
  69 (Chiricahua Mts., Arizona; coll. W. Brewster); vii, 1882, 211 (Santa 
 
@@ -81891,7 +81891,7 @@ A[ntrostomus] v[ocifeTus] arizonse Cottbs, Key, 2d ed., 1884, 452.
 
  A[ntrostomus] vodferus arizonx Eidgwat, Man. N. Am. Birds, 1887, 299. 
 
- Caprimulgus vodferus arizonss Ridgwat, Bull. Nutt. Om. Club, vii, Oct., 1882, 
+ Caprimulgus vodferus arizonss Ridgwat, Bull. Nutt. Orn. Club, vii, Oct., 1882, 
 
 
 
@@ -82420,7 +82420,7 @@ a Seven epecimens. 6 Six Bpecimens.
 
 
 
-BIEDS OF NORTH AND MIDDLE AMEEICA. 527 
+BIRDS OF NORTH AND MIDDLE AMEEICA. 527 
 
 
 
@@ -82644,7 +82644,7 @@ Adult male. — ^Pileum pale brownish gray, vermiculated and streaked
 
 
 
-BIEDS OF NORTH AND MIDDLE AMEBIOA. 529 
+BIRDS OF NORTH AND MIDDLE AMEBIOA. 529 
 
 
 
@@ -83868,7 +83868,7 @@ Footnote-T-Continued.
 
 
 
-BIEDS OF NORTH AND MIDDLE AMEEICA. 541 
+BIRDS OF NORTH AND MIDDLE AMEEICA. 541 
 
 
 
@@ -84061,7 +84061,7 @@ Nyctidromus guianensis Cassin, Proc. Ac. Nat. Sci. Phila., 1851, 183, 189 (Cay-
 
  rence, Ann. Lye. N. Y., vii, 1862, 290 (Panama). — Sclater and Salvin, 
 
- Proc. Zool. Soc. Loud., 1864, 364 (Panama). — Pelzeln, Om. Bras., i. Abth. 
+ Proc. Zool. Soc. Loud., 1864, 364 (Panama). — Pelzeln, Orn. Bras., i. Abth. 
 
  1868, 13 (crit.); iv. Abth., 1870, 401.— Salvin, Proc. Zool. Soc. Lend., 1870, 
 
@@ -84134,7 +84134,7 @@ Nyctidromus affinis Gray, List Birds Brit. Mus., ii, sec 1, 1848, 11 (Mexico;
 
 
 
-BIEDS OF NORTH AND MIDDLE AMEEICA. 543 
+BIRDS OF NORTH AND MIDDLE AMEEICA. 543 
 
 
 
@@ -84629,7 +84629,7 @@ Nyctidrmnus albicollis (not Caprimulgus albicollis Gmelin) Meekili; (J. C), Bull
 
  outlines; synonymy; description); iii, 1880, 188, 233; Nom. N. Am. Birds, 
 
- 1881, no. 356.— Allen, Bull. Nutt. Om. Club, v, 1880, 90.— Ameeicau 
+ 1881, no. 356.— Allen, Bull. Nutt. Orn. Club, v, 1880, 90.— Ameeicau 
 
  Ornithologists' Union, Check List, 1886, no. 419. — ^Hancock, Bull. Bidgw. 
 
@@ -85093,7 +85093,7 @@ Western United, States, breeding in Transition and Upper Sonoran
 
 
 
-Cajnimulgus nuttalUi AvDVBON, Om. Biog., v, 1839, 335 (nomen nudum); Birds 
+Cajnimulgus nuttalUi AvDVBON, Orn. Biog., v, 1839, 335 (nomen nudum); Birds 
 
  Am., Oct. ed., vii, 1844, 350, pi. 495 (east bank of Missouri R., between Ft. 
 
@@ -85121,7 +85121,7 @@ Antrostomits nuttalUi Cassin, Proc. Ac. Nat. Sci. Phila., 1851, 183; Jotim. Ac.
 
  (Topeka, Kansas, common), 179 (e. Kansas; Colorado, up to 8,000 ft.; 
 
- Utah). — Henshaw, Rep. Om. Spec. Wheeler's Surv., 1874, 129 (Apache, 
+ Utah). — Henshaw, Rep. Orn. Spec. Wheeler's Surv., 1874, 129 (Apache, 
 
  Camp Grant, etc., Arizona; descr. young). 
 
@@ -85456,13 +85456,13 @@ BIEDS OP NORTH AND MIDDLE AMEBICA. 551
 
  no. 266, part; Am. Nat., vii, 1873, 325 (descr. eggs); Birds Northwest, 1874, 
 
- 261, part. — Coopee, Om. CaUf., 1870, 341, part. — Meeeiam, Sixth An. Rep. 
+ 261, part. — Coopee, Orn. CaUf., 1870, 341, part. — Meeeiam, Sixth An. Rep. 
 
  U. S. Geol. Surv., 1872, 692 (Ogden, Utah).— Snow, Birds Kansas, 1873, 3 
 
  (e. and middle Kansas). — ^Aiken, Proc. Bost. Soc. N. H., xv, 1872, 206 
 
- (Wyoming).— Hbnshaw, Rep. Om. Spec. Wheeler's Surv., 1874, 88 (Ft. 
+ (Wyoming).— Hbnshaw, Rep. Orn. Spec. Wheeler's Surv., 1874, 88 (Ft. 
 
  Garland, Colorado; habits); Zool. Exped. W. 100th Merid., 1875, 369 (Denver 
 
@@ -85476,9 +85476,9 @@ BIEDS OP NORTH AND MIDDLE AMEBICA. 551
 
  BuU. U. S. Geol. and Geog. Surv. Terr., iii, 1877, 675 (Red R., Texas; 
 
- habits). — RiDGWAT, Om. 40th Parallel, 1877, 567 (localities in Nevada and 
+ habits). — RiDGWAT, Orn. 40th Parallel, 1877, 567 (localities in Nevada and 
 
- Utah; habits, measurements, etc.). — ^Brewstbh, BuU. Nutt. Om. Club, 
+ Utah; habits, measurements, etc.). — ^Brewstbh, BuU. Nutt. Orn. Club, 
 
  viii, 1883, 21 (Tombstone, etc., Arizona). 
 
@@ -85726,7 +85726,7 @@ BIRDS OF NORTH AND MIDDLE AMERICA. 553
 
  1852, 123 (Calif.; Oregon); Illustr. Birds Texas, etc., 1855, 237 (Oregon; 
 
- Wash.); Om. U. S. Expl. Exped., 1858, 187 (Oregon).— Newberry, Rep. 
+ Wash.); Orn. U. S. Expl. Exped., 1858, 187 (Oregon).— Newberry, Rep. 
 
  Pacific R. R. Surv., x, pt. iv, no. 2, 1857, 77, part (CaUf. and Oregon; habits). 
 
@@ -85746,7 +85746,7 @@ BIRDS OF NORTH AND MIDDLE AMERICA. 553
 
 
 
-Antrostomus nuttalli Cooper, Om. Calif., 1870, 341, part. 
+Antrostomus nuttalli Cooper, Orn. Calif., 1870, 341, part. 
 
 
 
@@ -85966,7 +85966,7 @@ Adult male. — Top of the head sandy brown, minutely mottled with
 
 
 
-BIEDS OF NOBTH AND MIDDLE AMEBICA. 555 
+BIRDS OF NOBTH AND MIDDLE AMEBICA. 555 
 
 
 
@@ -86180,7 +86180,7 @@ a Description from the type of the species, no. 14123, coll. William Brewster;
 
 
 
-BIEDS OF NOETH AND MIDDLE AMEEICA. 657 
+BIRDS OF NOETH AND MIDDLE AMEEICA. 657 
 
 
 
@@ -86394,7 +86394,7 @@ o All the other rectricea are wanting in the specimen described.
 
 
 
-BIEDS OF NORTH AND MIDDLE AMEBIOA. 559 
+BIRDS OF NORTH AND MIDDLE AMEBIOA. 559 
 
 
 
@@ -87093,9 +87093,9 @@ Caprimulgus virginianus Temminck, Cat. Syst., 1807, 136. — Stephens, Shaw's
 
  Obs. Wilson's Am. Om., 1826, [241]; Synopsis Birds U. S., 1828, 62.— Nut- 
 
- tall, Man. Om. U. S. and Can., Land Birds, 1832, 619; Water Birds, 1834, 
+ tall, Man. Orn. U. S. and Can., Land Birds, 1832, 619; Water Birds, 1834, 
 
- 609 (Great Bear Lake, Mackenzie). — ^Audttbon, Om. Biog., ii, 1834, 273, 
+ 609 (Great Bear Lake, Mackenzie). — ^Audttbon, Orn. Biog., ii, 1834, 273, 
 
  pi. 147; V, 1839, 406.— Koenig-Waethaitsen, Journ. fur Om., 1868, 373. 
 
@@ -87115,7 +87115,7 @@ Chordeiles virginianus Swainson, Fauna Bor.-Am., ii, 1831, 496. — ^Bonapaetb,
 
  Geog. and Comp. List, 1838, 8. — ^Audubon, Synopsis, 1839, 32; Birds Am., 
 
- oct. ed., i, 1840, 159, pi. 43.— Ntjttail, Man. Om. TJ. S. and Can., Land 
+ oct. ed., i, 1840, 159, pi. 43.— Ntjttail, Man. Orn. TJ. S. and Can., Land 
 
  Birds, 2d ed., 1840, 748.-Jardine, Contr. Om., 1848, 81 (Bermudas, numer- 
 
@@ -87146,7 +87146,7 @@ BIBDS OP NORTH AND MIDDLE AMEBIOA. 565
 
 mew). — CouES, Check List, 1873, no. 267 part. — Brewster, Ann. Lye. N. Y., 
 
- xi, 1875, 143 (RitcMe Co., West Virginia); Bull. Nutt. Om. Club, iii, 1878, 
+ xi, 1875, 143 (RitcMe Co., West Virginia); Bull. Nutt. Orn. Club, iii, 1878, 
 
  178 (descr. young).— Reid, Bull. U. S. Nat. Mus., no. 25, 1884, 208 (Ber- 
 
@@ -87162,7 +87162,7 @@ mew). — CouES, Check List, 1873, no. 267 part. — Brewster, Ann. Lye. N. Y.,
 
  105, 143 (Cuba; Jamaica; Barbados).— Fbilden, Ibis, 1889, 486 (Barbados).— 
 
- EiDQWAY, Om. Illinois, i, 1889, 369. — Cantwell, Om. and Ool., xv, 1890, 
+ EiDQWAY, Orn. Illinois, i, 1889, 369. — Cantwell, Orn. and Ool., xv, 1890, 
 
  133 (e. Minnesota).— Chapman, Bull. Am. Mus. N. H., ui, 1890, 140 (Ash- 
 
@@ -87178,7 +87178,7 @@ mew). — CouES, Check List, 1873, no. 267 part. — Brewster, Ann. Lye. N. Y.,
 
  Mackenzie). — Saivin and Godman, Biol. Centr.-Am., Aves, ii, 1894, part. — 
 
- GuNDLACH, Om. Cubana, ed. 1895, 100. — ^Bbndirb, Life Hist. N. Am. Birds, 
+ GuNDLACH, Orn. Cubana, ed. 1895, 100. — ^Bbndirb, Life Hist. N. Am. Birds, 
 
  (ii), 1895, 163, pi. 3, figs. 1, 2, 3 (eggs).— Bishop, N. Am. Fauna, no. 19, 1900, 
 
@@ -87220,7 +87220,7 @@ mew). — CouES, Check List, 1873, no. 267 part. — Brewster, Ann. Lye. N. Y.,
 
  Cent. Argentina, 1898, 521. — ^Ihering, Rev. Mus. Paulista, iii, 1899, 275 
 
- (Sao Paulo, s. Brazil); vi, 1904, 332 (Paraguay). — Dabbenb, Om. Argentina, 
+ (Sao Paulo, s. Brazil); vi, 1904, 332 (Paraguay). — Dabbenb, Orn. Argentina, 
 
  1910, 263 (Tucuman, Cordova; Chaco; Barracan al Sud, Buenos Aires; Entre 
 
@@ -87321,7 +87321,7 @@ Charddles popetue Baied, Rep. Pacific R. R. Surv., ix, 1858, 151, part (Carlisle
 
  WAY, Proc. U. S. Nat. Mus., ui, 1880, 188, part; Nom. N. Am. Birds, 1881, 
 
- no. 357, part. — Beewstee, Proc. Host. Soc. N. H., xii, 1883, 380 (Grand 
+ no. 357, part. — Bewster, Proc. Host. Soc. N. H., xii, 1883, 380 (Grand 
 
  Entry I., Gulf of St. Lawrence).— Stbaens, Proc. U. S. Nat. Mus., vi, 1883, 
 
@@ -87347,7 +87347,7 @@ Charddles popetue Baied, Rep. Pacific R. R. Surv., ix, 1858, 151, part (Carlisle
 
 Chordediles popetue Coubs, Check List, 2d ed., 1882, no. 399. — ^Meeeiam, Bull. 
 
- Nutt. Om. Club, vii, 1882, 236 (Point de Monts, Quebec, summer resident). 
+ Nutt. Orn. Club, vii, 1882, 236 (Point de Monts, Quebec, summer resident). 
 
 
 
@@ -87403,7 +87403,7 @@ Chordeiles popetue var. henryi (not Chordeiles henryi Cassin) Nelson, Bull. Nutt
 
 Chordeiles virginianus henryi Ridgway, Proc. U. S. Nat. Mus., iii, Aug. 24, 1880, 
 
- 188, part; Nom. N. Am. Birds, 1881, no. 357o, part; Om. Illinois, i, 1889, 370 
+ 188, part; Nom. N. Am. Birds, 1881, no. 357o, part; Orn. Illinois, i, 1889, 370 
 
  (Illinois; based on Nelson, as above). — Keemodb, Provincial Mus. Victoria, 
 
@@ -87532,7 +87532,7 @@ Chordeiles popetue (not Caprimulgus popetue Vieillot) Baibd, Rep. Pacific R. R.
 
  166, part, at least (Puget Sound, Vancouver?, Fort Dallas, and Fort Steilacoom, 
 
- Washington).— Cooper, Om. Calif., 1870, 343 (excl. syn. part). — Allen, 
+ Washington).— Cooper, Orn. Calif., 1870, 343 (excl. syn. part). — Allen, 
 
  Bull. Mus. Comp. Zool., iii, 1872, 169 (Ogden,Utah).— Belding, Proc. U.S. 
 
@@ -87557,7 +87557,7 @@ C[hordediles] popetue Coubs, Key N. Am. Birds, 2d ed., 1884, 454, part.
 
 
 
-Chwdeiles virginianus popetue Mearns, Bull. Nutt. Om. Club, iv, 1879, 195 (Ft. 
+Chwdeiles virginianus popetue Mearns, Bull. Nutt. Orn. Club, iv, 1879, 195 (Ft. 
 
  Klamath, Oregon). 
 
@@ -87581,7 +87581,7 @@ Chordeiles popetue, var. henryi Baibd, Bhewek, and Ridgway, Hist. N. Am.
 
 
 
-Chordeiles popetue . . . p. henryi Ridgway^ Om. Fortieth Parallel, 1877, 568, 
+Chordeiles popetue . . . p. henryi Ridgway^ Orn. Fortieth Parallel, 1877, 568, 
 
  part (Truckee Valley and East Humboldt Mts., Nevada). 
 
@@ -88072,7 +88072,7 @@ Chordeiles popetue . . . var. Jienryi Ridgwat, Bull. Essex Inst., v, Nov., 1873,
 
 
 
-Chordiles virginianus, var. henryi Scott, Bull. Nutt. Om. Club, iv, 1879, 95 (Twin 
+Chordiles virginianus, var. henryi Scott, Bull. Nutt. Orn. Club, iv, 1879, 95 (Twin 
 
  Lakes, Colorado; descr. eggs). 
 
@@ -88117,7 +88117,7 @@ Colorado).
 
 
 
-and Bhewster, Bull. Nutt. Om. Club, viii, 1883, 196 (Colorado Springs, " 
+and Bhewster, Bull. Nutt. Orn. Club, viii, 1883, 196 (Colorado Springs, " 
 
 
 
@@ -88125,7 +88125,7 @@ Colorado).
 
  C[hordediles\ p[ope1ue\ henryi Cotjes, Key N. Am. Birds, 2d ed., 1884, 454, part. ' * 
 
- Chordiles popetue henryi Drew, Bull. Nutt. Om. Club, vi, 1881, 140 (San Juan 
+ Chordiles popetue henryi Drew, Bull. Nutt. Orn. Club, vi, 1881, 140 (San Juan 
 
 
 
@@ -88300,7 +88300,7 @@ Chordeiles popetae, var. henryi Baird, Brewer, and Ridgwat, Hist. N. Am.
 
 
 
-Chordeiles popetue . . . i?. henryi Ridgwat, Om. Fortieth Parallel, 1877, 568, 
+Chordeiles popetue . . . i?. henryi Ridgwat, Orn. Fortieth Parallel, 1877, 568, 
 
  part (in synonymy). 
 
@@ -88511,7 +88511,7 @@ and RiDGWAT, Hist. N. Am. Birds, iii, 1874, 520 (Miami, Florida; not of
 
 vol. ii, 400). 
 
- Chorddles popetue minor Smith (G.), Bull. Nutt. Om. Club, v, Jan., 1880, 54 
+ Chorddles popetue minor Smith (G.), Bull. Nutt. Orn. Club, v, Jan., 1880, 54 
 
 
 
@@ -89683,7 +89683,7 @@ Chordeiles texensis Lawrence, Ann. Lye. Nat. Hist. N. Y., vi, 1858, 167, 168
 
  ScLATEB, Proc. Zool. Soc. Lond., 1866, 134, part (monogr.); Joum. fiir Om., 
 
- 1867, 264, part.— Cooper, Om. Calif., 1870, 345 (Ft. Mojave and west to coast 
+ 1867, 264, part.— Cooper, Orn. Calif., 1870, 345 (Ft. Mojave and west to coast 
 
  mts., s. California); Auk, iv, 1887, 92 (Ventura Co., California). — Baird, 
 
@@ -89810,7 +89810,7 @@ Ch[ordeiles] acutipennis texensis Haxieut, Tierreich, Podarg., Oaprim.. Macropt.
 
 Chordediles acutipennis texensis Coues, Check List, 2d ed., 1882, no. 402, part. — • 
 
- Brewster, Bull. Nutt. Om. Club, viii, 1883, 21 (SantajRita Mts., Tucson, 
+ Brewster, Bull. Nutt. Orn. Club, viii, 1883, 21 (SantajRita Mts., Tucson, 
 
  and Camp Lowell, Arizona). 
 
@@ -89820,7 +89820,7 @@ C[hordediles] acutipennis texensis Coubs, Key N. Am. Birds, 2d ed., 1884, 454, p
 
 
 
-Chordiles acutipennis texensis Nehrling, Bull. Nutt. Om. Club, vii, 1882, 170 
+Chordiles acutipennis texensis Nehrling, Bull. Nutt. Orn. Club, vii, 1882, 170 
 
  (Harris, Montgomery, Galveston, and Ford counties, s. e. Texas; habits). 
 
@@ -89986,7 +89986,7 @@ o voktI^ioc, noctu victum quserena. (Vieillot.)
 
 
 
-BIEDS OF NOETH AND MIDDLE AMEBIOA. 585 
+BIRDS OF NOETH AND MIDDLE AMEBIOA. 585 
 
 
 
@@ -90486,7 +90486,7 @@ Panama (Lion Hill; Punta de Sabana) and southward through
 
 
 
-BIEDS OF, NOETH AND MIDDLE AMEBIOA. 589 
+BIRDS OF, NOETH AND MIDDLE AMEBIOA. 589 
 
 
 
@@ -90534,11 +90534,11 @@ Nyctibius grandisYisiLiiOT, Nouv. Diet. d'Hist. Nat., xvi, 1825, 7. — Lafebsna
 
  e. Peru); 1873, 290 (upper Ucayali, e. Pern); 1875, 237 (San Cristobal, Vene- 
 
- zuela). — Pelzeln, Om. Bras., i. Abth., 1868, 10. — Euler, Journ. fur Om., 
+ zuela). — Pelzeln, Orn. Bras., i. Abth., 1868, 10. — Euler, Journ. fur Om., 
 
  1869, 251 (Brazil; babits; nesting).— Reinhardt, Ved. Med. Nat. Forh., 1870, 
 
- 115 (Brazil). — Taczanowski, Om. du P6rou, i, 1884, 204. — Salvin, Ibis, 
+ 115 (Brazil). — Taczanowski, Orn. du P6rou, i, 1884, 204. — Salvin, Ibis, 
 
  1885, 437 (Camacusa, Brit. Guiana). — Hartert, Cat. Birds Brit. Mus., xvi, 
 
@@ -90564,7 +90564,7 @@ Nyctibius grandisYisiLiiOT, Nouv. Diet. d'Hist. Nat., xvi, 1825, 7. — Lafebsna
 
 [Nyctibiiis'] grandis Bonaparte, Consp. Av., i, 1850, 58. — Gray, Hand-list, i, 1869, 
 
- 55, no. 605. — Pelzeln, Om. Bras., iv. Abth., 1870, 400. — Sclater and Sal- 
+ 55, no. 605. — Pelzeln, Orn. Bras., iv. Abth., 1870, 400. — Sclater and Sal- 
 
  vin, Nom. Av. Neotr., 1873, 95.— Sharpe, Hand-list, ii, 1900, 79. 
 
@@ -90708,7 +90708,7 @@ c Of the four males from Jamaica, only one is in the cinnamon-bufty plvunage, bu
 
 
 
-BIEDS OF NOETH AND MIDDLE AMEEICA. 
+BIRDS OF NOETH AND MIDDLE AMEEICA. 
 
 
 
@@ -91362,7 +91362,7 @@ o One specimen, from Metlaltoyuca, Puebla (the male, type of the subspecies).
 
 
 
-BIEDS OF NORTH AND MIDDLE AMEBICA. 593 
+BIRDS OF NORTH AND MIDDLE AMEBICA. 593 
 
 
 
@@ -91682,7 +91682,7 @@ a In the Key to the. Suborders of Coraciiformes, on p. 298 of Part V of this wor
 
 
 
-BIEDS OF NORTH AND MIDDLE AMERICA. 595 
+BIRDS OF NORTH AND MIDDLE AMERICA. 595 
 
 
 
@@ -92307,7 +92307,7 @@ flammea Limi8eus=;Sf. alba Scopoli.)
 
 Linii8eus=S. alba Scopoli.) 
 
- Eustrinx Webb and Beethblot, Om. Canar., 1841, 8. (Type, Strix flammea 
+ Eustrinx Webb and Beethblot, Orn. Canar., 1841, 8. (Type, Strix flammea 
 
 
 
@@ -92386,7 +92386,7 @@ c Tuvdi, the night owl. (Richmond.)
 
 
 
-BIEDS OF NORTH AND MIDDLE AMEBICA. 601 
+BIRDS OF NORTH AND MIDDLE AMEBICA. 601 
 
 
 
@@ -92915,7 +92915,7 @@ N. H., iv, 1892, 296 (near Trinidad, s. Cuba).— Bangs and Zaepey, Am. Nat.,
 
 xxxis, 1905, 202 (Isle of Pines). 
 
- Aluco flammea furcata Eothschild, Bull. Brit. Om. Club, xiv, no. cviii, June 25, 
+ Aluco flammea furcata Eothschild, Bull. Brit. Orn. Club, xiv, no. cviii, June 25, 
 
 
 
@@ -93042,7 +93042,7 @@ c I have not been able to examine specimens from these islands.
 
 
 
-BIEDS OF NORTH AND MIDDLE AMERICA. 605 
+BIRDS OF NORTH AND MIDDLE AMERICA. 605 
 
 
 
@@ -93596,7 +93596,7 @@ I am unable to discover constant differences of coloration between specimens fro
 
 
 
-BIEDS OF NOETH AND MIDDLE AMBBICA. 607 
+BIRDS OF NOETH AND MIDDLE AMBBICA. 607 
 
 
 
@@ -93866,7 +93866,7 @@ Strixfiammea, /3 pratincola Ridgway, Orn. Fortieth Parallel, 1877, 569 (Sacra-
 
 Aluco flammeus pratincola Ridgway, Proc. U. S. Nat. Mus., iii, March 27, 1880, 
 
- 7.— CouES, Check List, 2d ed., 1882, no. 461; Bull. Nutt. Om. Club, viii, 
+ 7.— CouES, Check List, 2d ed., 1882, no. 461; Bull. Nutt. Orn. Club, viii, 
 
  1883, 122 (Hamilton, Ontario, May 9, 1882). 
 
@@ -93920,7 +93920,7 @@ iStraammcajiaAuDUBON, SynopsisBirds N.Am., 1839, 25 ("SouthernStates, . . .
 
  Texas to North CaroHna"); Birds Am., oct. ed., 1, 1840, 127, pi. 34. — Nut- 
 
- tall, Man. Om. U. S. and Can., Land-Birds, ed. 2, 1840, 149. — Brewer, 
+ tall, Man. Orn. U. S. and Can., Land-Birds, ed. 2, 1840, 149. — Brewer, 
 
  ed. Wilson's Am. Om., 1840, 687.— Coues, Ibis, 1865, 162, in text (Fort 
 
@@ -93934,7 +93934,7 @@ Strixflmnmea americana Schlegel, Mus. Pays-Bas, ii, no. 12 (Striges), 1863, 4;
 
  Surv. Terr., iv, 1878, 39 (Brownsville, Texas); v, 1879, 417 (Lomita Ranch, 
 
- Texas, breeding).— Bicknell, Bull. Nutt. Om. Club, iii, 1878, 132 (New 
+ Texas, breeding).— Bicknell, Bull. Nutt. Orn. Club, iii, 1878, 132 (New 
 
  York City). 
 
@@ -93954,7 +93954,7 @@ Strixflxmanea, var. americana Eathbun (P. E.), Revised List Birds Centr. N. Y.,
 
  Club, iv, 1879, 61 (Sing Sing, New York, 1 spec, Jan.).— Wheaton, Bull. 
 
- Nutt. Om. Club, iv, 1879, 62 (Columbus, Ohio, Nov. 2). 
+ Nutt. Orn. Club, iv, 1879, 62 (Columbus, Ohio, Nov. 2). 
 
 
 
@@ -93978,7 +93978,7 @@ Alluco") flamrrmis ammcanus Ridgway, Bull. HI. State Labr. N. H., no. 4, 1881,
 
 
 
-{l)Strix forfixata Audubon, Om. Biog., v, 1839, 334 ("Green Bay, on my way 
+{l)Strix forfixata Audubon, Orn. Biog., v, 1839, 334 ("Green Bay, on my way 
 
  across the Mississippi"). 
 
@@ -94274,7 +94274,7 @@ One adult female from Patagonia (Cordillera de Bio CIiico)<
 
 
 
-BIEDS OF NOBTH AND MIDDLE AMERICA. 611 
+BIRDS OF NOBTH AND MIDDLE AMERICA. 611 
 
 
 
@@ -94427,7 +94427,7 @@ Total length about 12 inches [about 305 mm.], wing 9.7 [246.4 mm.],
 
 
 
-Strix Jlammea bargei Hakteet, Bull. Brit. Om. Club, no. in, Dec, 1892, p. xiU 
+Strix Jlammea bargei Hakteet, Bull. Brit. Orn. Club, no. in, Dec, 1892, p. xiU 
 
 
 
@@ -94713,7 +94713,7 @@ Strix insularis Pelzeln, Journ. fiir Om., xx, Jan., 1872, 23 (St. Vincent, Lesse
 
 
 
-T[yto] allba] insularis Hartert, Bull. Brit. Om. Club, xxxi, Jan. 25, 1913, 38, in 
+T[yto] allba] insularis Hartert, Bull. Brit. Orn. Club, xxxi, Jan. 25, 1913, 38, in 
 
  text. 
 
@@ -94946,7 +94946,7 @@ Vincent, Bequia, Union I., Carriacou, and Grenada, Lesser Antilles; habits;
 
 descr. nest and eggs). 
 
- Aluco flammea nigrescens Rothschild, Bull. Brit. Om. Club, xiv, June 25, 1904, 
+ Aluco flammea nigrescens Rothschild, Bull. Brit. Orn. Club, xiv, June 25, 1904, 
 
 
 
@@ -95274,7 +95274,7 @@ Strvc- punctatisdma Gray, in Gould, Zool. Voy. "Beagle," iii, 1841, 34, pi. 4
 
  Zool. Soc. Lond., iv, 1859, 246.— Habtlaub, Journ. fiir Orn., 1854, 170.— 
 
- Strickland, Om. Syn., i, 1855, 182. — ScLATERand Salvin, Proc. Zool. Soc. 
+ Strickland, Orn. Syn., i, 1855, 182. — ScLATERand Salvin, Proc. Zool. Soc. 
 
  Lend., 1870, 323 (Indefatigable I., Galapagos). — Salvin, Trans. Zool. Soc. 
 
@@ -96208,7 +96208,7 @@ Third and fourth, or second, third, and fourth, from outside, not counting the
 
  2, 24. — Ululafunerea Schlegel, Mus. Pays-Bas, Striges, 1862, 8. — Syrniumfunerewm 
 
- iglin, Om. Nord-Ost Africa, i, 1869, 123. — Cryptoglaux funerea funerea American 
+ iglin, Orn. Nord-Ost Africa, i, 1869, 123. — Cryptoglaux funerea funerea American 
 
  ithologists' Union, Check List, 3rd ed., 1910, 171. — [Strix\ tengmalmi GmeUn, 
 
@@ -96660,7 +96660,7 @@ Nyctala tmgmalmi richardsgni Cotjes, Check Liat, 2d ed., 1882, ao. 482. — ^Mee
 
  Bull. Nutt. Orn. Club, vii, 1882, 237 (Point de Monts, Quebec, vrinter resi- 
 
- dent; notes, etc.).— Fox, Bull. Nutt. Om. Club, viii, 1883, 61 (Hollis, New 
+ dent; notes, etc.).— Fox, Bull. Nutt. Orn. Club, viii, 1883, 61 (Hollis, New 
 
  Hampshire, Dec. 15, 1879).— Jbncks, Bull. Nutt. Orn. Club, viii, 1883, 122 
 
@@ -96674,7 +96674,7 @@ Nyctala tmgmalmi richardsgni Cotjes, Check Liat, 2d ed., 1882, ao. 482. — ^Mee
 
  Nelson, Rep. Nat. Hist. Coll. Alaska, 1887, 150 (Nulato, Yukon delta, etc.; 
 
- habits).— RiDGWAT, Om. Illinois, i, 1889, 412.— Thompson, Proc. U. S. Nat. 
+ habits).— RiDGWAT, Orn. Illinois, i, 1889, 412.— Thompson, Proc. U. S. Nat. 
 
  Mus., xiii, 1890, 542 (Winnipeg, etc., Manitoba; probably resident). — ^Ben- 
 
@@ -97175,11 +97175,11 @@ southern Ohio, southern California, etc., casually to North Carolina
 
  Bor.-Am., ii, 1831, 97.— Jaedine, ed. Wilson's Am. Om., ii, 1832, 66.— 
 
- NUTTALL, Man. Om. U. S. and Can., Land Birds, 1832, 137; 2d ed., 1840, 
+ NUTTALL, Man. Orn. U. S. and Can., Land Birds, 1832, 137; 2d ed., 1840, 
 
- • 145.— AuDtJBON, Om. Biog., ii, 1834, 567, pi. 199; v, 1839, 397.— Peabody, 
+ • 145.— AuDtJBON, Orn. Biog., ii, 1834, 567, pi. 199; v, 1839, 397.— Peabody, 
 
- Rep. Om. Mass., 1839, 70.— Db Kat, Zool. N. Y., ii, 1844, pi. 11, fig. 23. 
+ Rep. Orn. Mass., 1839, 70.— Db Kat, Zool. N. Y., ii, 1844, pi. 11, fig. 23. 
 
 
 
@@ -97197,7 +97197,7 @@ Nyctale acadica Bonaparte, Geog. and Comp. List, 1838, 7. — Gambel, Joum.
 
  Texas, etc., 1854, 285; in Baird, Kep. Pacific R. R. Surv., ix, 1858, 58.— 
 
- Strickland, Om. Syn., 1855, 176. — Newberry, Rep. Pacific R. R. Surv., 
+ Strickland, Orn. Syn., 1855, 176. — Newberry, Rep. Pacific R. R. Surv., 
 
  vi, chapt. ii, 1857, 77 (Oregon). — Brewer, N. Am. Oology, i, 1857, 74.— 
 
@@ -97209,7 +97209,7 @@ Nyctale acadica Bonaparte, Geog. and Comp. List, 1838, 7. — Gambel, Joum.
 
  1860, 156 (Ft. Vancouver, Washington, Feb.; Dallea, Washington, Dec); 
 
- Om. Calif., 1870, 436 (Ft. Tejon; Ft. Vancouver).— Vehrill, Proc. Essex 
+ Orn. Calif., 1870, 436 (Ft. Tejon; Ft. Vancouver).— Vehrill, Proc. Essex 
 
  Inst., iii, 1862, 143 (Oxford Co., Maine, resident). — Lord, Proc. Roy. ArtU. 
 
@@ -97225,7 +97225,7 @@ Nyctale acadica Bonaparte, Geog. and Comp. List, 1838, 7. — Gambel, Joum.
 
  285 (crit. as to plumage of young; synonymy); in Baird, Brewer, and Ridg- 
 
- way, Hist. N. Am. Birds, iii, 1874, 43; Om. Fortieth Parallel, 1877, 572 
+ way, Hist. N. Am. Birds, iii, 1874, 43; Orn. Fortieth Parallel, 1877, 572 
 
  (Thousand Spring Valley, Nevada, Sept. 24, 1868); Field and Forest, ii, 
 
@@ -97235,9 +97235,9 @@ Nyctale acadica Bonaparte, Geog. and Comp. List, 1838, 7. — Gambel, Joum.
 
  Cat. Birds Brit. Mus., ii, 1875, 287 (Comax, Brit. Columbia; w. Mexico; 
 
- etc.).— Coale, Bull. Nutt. Om. Club, ii, 1877, 83 (Chicago, Illinois; habits, 
+ etc.).— Coale, Bull. Nutt. Orn. Club, ii, 1877, 83 (Chicago, Illinois; habits, 
 
- etc.).— Dbane, Bull. Nutt. Om. Club, ii, 1877, 84 (Newton, Hingham, and 
+ etc.).— Dbane, Bull. Nutt. Orn. Club, ii, 1877, 84 (Newton, Hingham, and 
 
  Deer I., e. Massachusetts, April, June, July; probably breeding).— Bendiee, 
 
@@ -97245,18 +97245,18 @@ Nyctale acadica Bonaparte, Geog. and Comp. List, 1838, 7. — Gambel, Joum.
 
  Langdon, Birds Cincinnati, 1877, 12 (Avondale, Hamilton Co., Ohio).— 
 
- Beewstee, Bull. Nutt. Om. Club, vi, 1881, 143-145 (Tyngsboro, Massachu- 
+ Bewster, Bull. Nutt. Orn. Club, vi, 1881, 143-145 (Tyngsboro, Massachu- 
 
  setts, breeding; habits; descr. nest and eggs); vii, 1882, 23-25 (habits, 
 
- changes of plumage, etc.).— Peancis, Bull. Nutt. Om. Club, vi, 1881, 185 
+ changes of plumage, etc.).— Peancis, Bull. Nutt. Orn. Club, vi, 1881, 185 
 
  (Braintree, Maflsachusetts, breeding; descr. nest).— Reid, Bull. U. S. Nat. 
 
 
 
 
-BIEDS OF NORTH AND MIDDLE AMEEICA. 631 
+BIRDS OF NORTH AND MIDDLE AMEEICA. 631 
 
 
 
@@ -97507,7 +97507,7 @@ Nyctale albifrons Cassin, Illustr. Birds Calif., Texas, etc., 1854, 187; in Bair
 
  1866, 50 (Ft. Whipple, Arizona).— McIlweaith, Proc. Essex Inst., vi, 1866, 
 
- 82 (Hamilton, Ontario). — Coopee, Om. Calif., 1870, 435 (Nevada, near CaJi- 
+ 82 (Hamilton, Ontario). — Coopee, Orn. Calif., 1870, 435 (Nevada, near CaJi- 
 
  fomia line, lat. 39°, 7,000 ft.).— Vbbeill, Am. Nat., v, 1871, 119 (Maine). 
 
@@ -97768,7 +97768,7 @@ BiU relatively small; top of cere .more than two-thirds as long as
 
 
 
-BIEDS OF NORTH ANO MIDDLE AMEEIOA. 635 
+BIRDS OF NORTH ANO MIDDLE AMEEIOA. 635 
 
 
 
@@ -98100,11 +98100,11 @@ Strix cinerea Vieillot, Ois. Am. Sept., i, 1807, 48; Nouv. Diet. d'Hist. Nat., v
 
  SwAiNSON and Richardson, Fauna Bor.-Am., ii, 1831, 77, pL 31. — ^Ndttall, 
 
- Man. Om. U. S. and Can., Land Birds, 1832, 128; 2d ed., 1840, 134.— 
+ Man. Orn. U. S. and Can., Land Birds, 1832, 128; 2d ed., 1840, 134.— 
 
  TowNSBND (J. K.), Joum. Ac. Nat. Sci. PhUa., viii, 1837, 151 (n. w. United 
 
- States). — ^Audubon, Om. Biog., i-», 1838, 364, pi. 351. — Pbabody, Rep. Om. 
+ States). — ^Audubon, Orn. Biog., i-», 1838, 364, pi. 351. — Pbabody, Rep. Orn. 
 
  Mass., 1839, 274.— Thompson, Nat. Hist. Vermont, 1853, 65. — Coites, Check 
 
@@ -98870,9 +98870,9 @@ Strix nebuhsa (not of Forster, 1772) Vielllot, Ois. Am. Sept., i, 1807, 45,
 
  Lyc.N.Y.,ii,pt. 1,1826,38. — Swainson and Richardson, Fauna Bor.-Am.,ii, 
 
- 1831, 81.— Audubon, Om. Biog., i, 1831, 242, pi. 46; v, 1839, 386.— Nuttall, 
+ 1831, 81.— Audubon, Orn. Biog., i, 1831, 242, pi. 46; v, 1839, 386.— Nuttall, 
 
- Man. Om. U. S. and Can., Land Birds, 1832, 133; 2d ed., 1840, 143.— Gould, 
+ Man. Orn. U. S. and Can., Land Birds, 1832, 133; 2d ed., 1840, 143.— Gould, 
 
  Birds, Europe, i, 1832, pi. 46 and text.— Werner, Atlas Ois. d'Europe, i, 
 
@@ -98880,9 +98880,9 @@ Strix nebuhsa (not of Forster, 1772) Vielllot, Ois. Am. Sept., i, 1807, 45,
 
  Nom. N. Am. Birds, 1881, no. 397.— Coues, Check List, 2ded., 1882, no. 
 
- 476. — Batchelder, Bull. Nutt. Om. Club, vii, 1882, 150 (Houlton, Maine; 
+ 476. — Batchelder, Bull. Nutt. Orn. Club, vii, 1882, 150 (Houlton, Maine; 
 
- Fairfield, New Brunswick).— Merrlaji, Bull. Nutt. Om. Club, vii, 1882, 237 
+ Fairfield, New Brunswick).— Merrlaji, Bull. Nutt. Orn. Club, vii, 1882, 237 
 
  (Point de Monts, Quebec). 
 
@@ -98941,9 +98941,9 @@ Symium nebulosum Audubon, Synopsis, 1839, 27; Birds Am., oct. ed., i, 1840,
 
  Penn.);iQ Baird, Rep. Pacific E. R. Surv., ix, 1858, 56.— Stbickland, 
 
- Om. Syn., i, 1855, 189.— Bkewer, North Am. Ool., 1857, 72.— Baikd, Oat. 
+ Orn. Syn., i, 1855, 189.— Bkewer, North Am. Ool., 1857, 72.— Baikd, Oat. 
 
- N. Am. Birds, 1859, no. 54; in Cooper's Om. Calif., 1870, 431.— Willis, An. 
+ N. Am. Birds, 1859, no. 54; in Cooper's Orn. Calif., 1870, 431.— Willis, An. 
 
  Rep. Smithson. Inst, for 1858 (1859), 281 (Nova Scotia). — ^Martens, Joum. 
 
@@ -98961,7 +98961,7 @@ Symium nebulosum Audubon, Synopsis, 1839, 27; Birds Am., oct. ed., i, 1840,
 
  Dakota; Yellowstone and Musselshell rivers, Montana). — Ridgway, in 
 
- in Baird, Brewer, and Ridgway, Hist. N. Am. Birds, iii, 1874, 34; Om. 
+ in Baird, Brewer, and Ridgway, Hist. N. Am. Birds, iii, 1874, 34; Orn. 
 
  Illinois, i, 1889, 409, part.— Sharpb, Cat. Birds Brit. Mus., ii, 1875, 257.— 
 
@@ -99025,7 +99025,7 @@ Sumium nebulosum Scott, Proc. Bost. Soc. N. H., xv, 1873, 226.
 
 
 
-(?) Strix aluco (not of Linnaeus) Nuttall, Man. Om. U. S. and Can., Land Birds, 
+(?) Strix aluco (not of Linnaeus) Nuttall, Man. Orn. U. S. and Can., Land Birds, 
 
  1832, 135; 2d ed., 1840, 137 (Newfoundland). 
 
@@ -99100,7 +99100,7 @@ Syrnium nebulosum Taylor, Ibis, 1862, 128 (Florida). — ^Maynakd, Birds E. N.
 
  ii, 1871, 340 (e. Florida).— Ootjes, Check List, 1873, no. 323, part.— Nbhr- 
 
- LiNG, Bull. Nutt. Om. Club, vii, 1882, 172 (Montgomery, Galveston, and 
+ LiNG, Bull. Nutt. Orn. Club, vii, 1882, 172 (Montgomery, Galveston, and 
 
  Fort Bend counties, Texas). 
 
@@ -99116,7 +99116,7 @@ Strix nebulosa alleni Ridgway, Proc. IT. S. Nat. Mus., iii, sig. 1, March 27, 18
 
  1881, no. 397a. — Reichenow and Schalow, Joum. fiir Om., 1881, 79 (reprint 
 
- of original descr.). — Scott, Bull. Nutt. Om. Club, vi, 1881, 18 (Tanasofenskee 
+ of original descr.). — Scott, Bull. Nutt. Orn. Club, vi, 1881, 18 (Tanasofenskee 
 
  Lake, Florida).— Cotjbs, Check List, 2d ed., 1882, no. 477. 
 
@@ -99336,7 +99336,7 @@ o One specimen. 5 Four specimens.
 
 
 
-BIEDS OF NOETH AND MIDDLE AMEEICA. 647 
+BIRDS OF NOETH AND MIDDLE AMEEICA. 647 
 
 
 
@@ -99827,7 +99827,7 @@ Symium occddentale Xantus, Proc. Ac. Nat. Sci. Phila., xi, July, 1859, 190, 193
 
  (Ft. Tejon, California; coll. U. S. Nat. Mus.).— Baied, Birds N. Am., 1860, 
 
- 50, atlas, pi. 66.— Coopek, Om. Calif., 1870, 430 (Ft. Tejon).— Redgway, in 
+ 50, atlas, pi. 66.— Coopek, Orn. Calif., 1870, 430 (Ft. Tejon).— Redgway, in 
 
  Baird, Brewer, and Ridgway, Hist. N. Am. Birds, iii, 1874, 38.— Coues, 
 
@@ -100210,7 +100210,7 @@ by tautonymy, Strix otua Linnaeus.)
 
 
 
-BIEDS OF NORT10: AND MIDDLE AMBBICA. 653 
+BIRDS OF NORT10: AND MIDDLE AMBBICA. 653 
 
 
 
@@ -100581,7 +100581,7 @@ Temperate North America; north to Newfomidland, southern
 
 (?) [Strix] americana Gmeun, Syst. Nat., i, pt. 1, 1788, 288 (South America; 
 
- based on Asia americanus Brieson, Om. p. 145, no. 7, and Bubo ochro-dnereus 
+ based on Asia americanus Brieson, Orn. p. 145, no. 7, and Bubo ochro-dnereus 
 
  pectme maculosa Peuillee, Joum. des obs., ed. 1725, p. 59. — Latecam, Index 
 
@@ -100698,11 +100698,11 @@ Strix otus (not of Linnaeus) Wilson, Am. Om., vi, 1812, 73, pi. 61, fig. "1"=3.�
 
  Am. Om., 1826 [130]; Ann. Lye. N. Y., ii, pt. i, 1826, 37.— Swainson and 
 
- Richardson, Fauna Bor.-Am., ii, 1831, 72. — Nuttall, Man. Om. U. S. and 
+ Richardson, Fauna Bor.-Am., ii, 1831, 72. — Nuttall, Man. Orn. U. S. and 
 
- Can., Land Birds, 1832, 130; 2d ed., 1840, 139.— Audubon, Om. Biog., iv, 
+ Can., Land Birds, 1832, 130; 2d ed., 1840, 139.— Audubon, Orn. Biog., iv, 
 
- 1838, 572, pi. 383.— Peabody, Rep. Om. Mass., 1839, 88. 
+ 1838, 572, pi. 383.— Peabody, Rep. Orn. Mass., 1839, 88. 
 
 
 
@@ -100744,9 +100744,9 @@ Otus wilsonianus Lesson, Traitd d'Om., 1831, 110 (New York). — Oassin, Illustr
 
  49, (Red R., Manitoba, to Mackenzie R.). — Coues, Proc. Ac. Nat. Sci. 
 
- PMla., 1866, 50 (Ft. WMpple, Arizona).— Cooper, Om. Calif., 1870, 426.— 
+ PMla., 1866, 50 (Ft. WMpple, Arizona).— Cooper, Orn. Calif., 1870, 426.— 
 
- RiDQWAY, Om. Fortieth. Parallel, 1877, 570 (Sacramento, California, June; 
+ RiDQWAY, Orn. Fortieth. Parallel, 1877, 570 (Sacramento, California, June; 
 
  San Francisco, Jan.; Carson City, etc., Nevada). 
 
@@ -100788,11 +100788,11 @@ Otus vulgaris wilsonianus Ridgway, Bull. Essex Inst., vi, Oct., 1874, 171 (Sacra
 
 
 
-Asia wilsonianus Ridgway, Proc. U. S. Nat. Mus., March 27, 1880, 7; Om. 
+Asia wilsonianus Ridgway, Proc. U. S. Nat. Mus., March 27, 1880, 7; Orn. 
 
  Illinois, i, 1889, 405.— Coues, Check List, 2d ed., 1882, no. 472.— Merriam, 
 
- Bull. Nutt. Om. Club, vii, 1882, 237 (Point de Monts, Quebec, 3 specs.. 
+ Bull. Nutt. Orn. Club, vii, 1882, 237 (Point de Monts, Quebec, 3 specs.. 
 
  May). — American Ornithologists' Union, Check List, 1886 (and 2d ed., 
 
@@ -100891,7 +100891,7 @@ Nyctalops vnlsonianus Stone, Ank, xx, July, 1903, 275. — Grinnell (J.), Auk,
 
 
 
-Otus vAlsonius Drew, Bull. Nutt. Om. Club, vi, 1881, 141 (Colorado). 
+Otus vAlsonius Drew, Bull. Nutt. Orn. Club, vi, 1881, 141 (Colorado). 
 
 
 
@@ -100958,7 +100958,7 @@ Adults (sexes alike). — General color of upper parts plain dark sooty
 
 
 
-BIEDS OF NORTH AND MIDDLE AMERICA. OOy 
+BIRDS OF NORTH AND MIDDLE AMERICA. OOy 
 
 
 
@@ -101099,7 +101099,7 @@ Otus stygius Pucheban, Rev. Zool., 1849, 29. — Kaup, Jardine's Contr. Om., 185
 
  1863, 6; no. 86 (Revue), 1873, 4.— Oassin, Proc. Ac. Nat. Sci. Phila., 1865, 5 
 
- (Mirador, Vera Cruz). — Pelzeln, Om. Bras., 1868, 10. — Rbogway, in Baird, 
+ (Mirador, Vera Cruz). — Pelzeln, Orn. Bras., 1868, 10. — Rbogway, in Baird, 
 
  Brewer, and Ridgway, Hist. N. Am. Birds, iii, 1874, 17. 
 
@@ -101109,13 +101109,13 @@ O^tus"] stygius Gray, Gen. Birds, i, 1844, 40.
 
 
 
-[Otus'] stygius Gray, Hand-list, i, 1869, 50, no. 542 (s. Brazil). — Pelzeln, Om. 
+[Otus'] stygius Gray, Hand-list, i, 1869, 50, no. 542 (s. Brazil). — Pelzeln, Orn. 
 
  Bras., 1871, 400. 
 
 
 
-Asio stygius Strickland, Om. Syn., i, 1855, 207. — Sharpe, Cat. Birds Brit. Mus., 
+Asio stygius Strickland, Orn. Syn., i, 1855, 207. — Sharpe, Cat. Birds Brit. Mus., 
 
  ii, 1875, 241 (Brazil; Cuba). — ^Bbrlepsch and Ihering, Zeitschr. Om., 1885, 
 
@@ -101216,7 +101216,7 @@ The series examined is much too small to justify an opinion of whether the speci
 
 
 
-BIEDS OF NORTH AND MIDDLE AMEEICA. 661 
+BIRDS OF NORTH AND MIDDLE AMEEICA. 661 
 
 
 
@@ -101266,7 +101266,7 @@ Om., 1855, 465 (Cuba).— Gundlach, Repert. Fisico-Nat. Cuba, i, 1865, 226;
 
 i, 1869, 50, no. 543. 
 
- Asio siguapa Strickland, Om. Syn., i, 1855, 212. 
+ Asio siguapa Strickland, Orn. Syn., i, 1855, 212. 
 
  Nyctalops stygius siguapa Bangs and Zappby, Am. Nat., xxxix, April, 1905, 201 
 
@@ -101817,7 +101817,7 @@ Asia).— Hantzsch, Journ. filr Orn., 1908, 876 (n. e. Labrador).
 
 249 (Hartz Mts. ; East Indies). 
 
- Nyctalops acdpitrinus Stone, Auk, xx, July, 1903, 275. — Dabbene, Om. 
+ Nyctalops acdpitrinus Stone, Auk, xx, July, 1903, 275. — Dabbene, Orn. 
 
 
 
@@ -101835,7 +101835,7 @@ ad Tanain reperti).
 
  Si!XE5rocA2/oiMsFoRSTER(J. R.), Philos. Trans., ixii, 1772, 384 (Severn R., Kee- 
 
- watin).— Audubon, Om. Biog., v, 1839, 273, pi. 432, fig. 6.— Nuttall, Man. 
+ watin).— Audubon, Orn. Biog., v, 1839, 273, pi. 432, fig. 6.— Nuttall, Man. 
 
  Orn. U. S. and Can., Land Birds, 2d ed., 1840, 141.— Homeyer, Joum. fflr 
 
@@ -101920,7 +101920,7 @@ BIBDS OF NOBTH AND MIDDLE AMERICA. 665
 
  Point and Elizabeth I . , Straits Magellan) ; Ibis, 1868, 188 (Straits Magellan) .— 
 
- Deostb, Journ. fur Orn., 1869, 109 (Far8e Islands). — Pelzbln, Om. Bras., 
+ Deostb, Journ. fur Orn., 1869, 109 (Far8e Islands). — Pelzbln, Orn. Bras., 
 
  1868, 10; iv Abth., 1871, 400.— Lee, Ibis, 1873, 137 (Argentina).— Reed, 
 
@@ -101930,7 +101930,7 @@ BIBDS OF NOBTH AND MIDDLE AMERICA. 665
 
  Argentina); 1878, 396 (centr. Patagonia, resident).-j-ADAMS, Ibis, 1878, 427 
 
- (St. Michaels, Alaska; habits). — Taczanowski, Om. du P^rou, i, 1884, 194. — 
+ (St. Michaels, Alaska; habits). — Taczanowski, Orn. du P^rou, i, 1884, 194. — 
 
  Nielsen, Ornis, vol. 3, 1887, 157 (Iceland). — Kobnigswald, Joum. filr 
 
@@ -101974,7 +101974,7 @@ Otvs {Brachyotus) brachyotus Ridgway, in Baird, Brewer, and Ridgway, Hist.
 
 Asia brachyotus Macgilliveay, Man. Brit. Om., i, 1840, 67; Hist. Brit. Birds, 
 
- iii, 1840, 461.— Strickland, Om. Syn., i, 1855, 209.— Salvin, Ibis, 1875, 377 
+ iii, 1840, 461.— Strickland, Orn. Syn., i, 1855, 209.— Salvin, Ibis, 1875, 377 
 
  (Juan Fernandez). — Gibson, Ibis, 1879, 423 (Cape San Antonio, Argentina). — 
 
@@ -102115,7 +102115,7 @@ Otvs mierocephalus Leach, Syst. Cat. Brit. Birds, etc., 1816, 11 (Small-headed
 
 
 
-Strix brachyura Nilsson, Om. Suec, i, 1817, 62 (new name for Strix Jlammea 
+Strix brachyura Nilsson, Orn. Suec, i, 1817, 62 (new name for Strix Jlammea 
 
  Pontoppidan, etc.). 
 
@@ -102187,7 +102187,7 @@ Brac%oi«scassinw Brewer, Proc. Bost. Soc. N. H., v, 1856, 321 (North America);
 
  1868, 143 (Conchitas, Argentina). — Dall and Bannister, Trans. Chicago 
 
- Ac. Sci., i, 1869, 273 (Nulato, etc., Alaska).- Cooper, Om. Calif., 1870, 
+ Ac. Sci., i, 1869, 273 (Nulato, etc., Alaska).- Cooper, Orn. Calif., 1870, 
 
  428.— Gundlach, Joum. fiir Orn., 1871, 375 (Cuba). 
 
@@ -102226,7 +102226,7 @@ BIBDS QF NORTH AND MIDDLE AMEBICA. 667
 
 (numerous North and South American localities cited). 
 
- Brachyottts palustris, p. cassini Ridgway, Om. Fortieth Parallel, 1877, 571 (San 
+ Brachyottts palustris, p. cassini Ridgway, Orn. Fortieth Parallel, 1877, 571 (San 
 
 
 
@@ -102262,7 +102262,7 @@ issued Dec. 29, 1899), 478 (Point Barrow, Alaska; coll. Ac. Nat. Sci. Phila.);
 
 descr.). 
 
- Asio acdpitrinus pallidum Saeudny and Loudon, Om. Monatsb., 1906, 151 
+ Asio acdpitrinus pallidum Saeudny and Loudon, Orn. Monatsb., 1906, 151 
 
 
 
@@ -102865,7 +102865,7 @@ Guatemala, through Costa Rica (San Jos6; EI Pozo de Tfcraba),
 
 Cf'!)[Stnx] aniericana Gmelin, Syst. Nat., i, pt. 1, 1788, 288 (South America; based 
 
- on Asio americanm Brisson, Om. (ed. 1763), i, 145; Bubo ochro-dnereus 
+ on Asio americanm Brisson, Orn. (ed. 1763), i, 145; Bubo ochro-dnereus 
 
  pectore maculoso Feuillee, Joum. des Obs., ed. 1725, 59). 
 
@@ -102897,7 +102897,7 @@ Strix mexicana Daudin, Traits d'Om., ii, 1800, 214.— Shaw, Gen. Zool., vii, 18
 
 
 
-Strix mexkanus Audubon, Om. Biog., iv, 1838, 574. 
+Strix mexkanus Audubon, Orn. Biog., iv, 1838, 574. 
 
 
 
@@ -102992,9 +102992,9 @@ Otua mexicanus Stephens, Shaw's Gen. Zool., xiii, pt. ii, 1826, 57. — Ouvier,
 
  Trans. Zool. Soc. Lond., iv, 1859, 235. — Sohlbgbl, Mus. Pays-Bas, ii, no. 11 
 
- (Striges), 1863, 2; no. 36 (Review), 1873, 3.— Pblzbln, Om. Bras., 1868, 
+ (Striges), 1863, 2; no. 36 (Review), 1873, 3.— Pblzbln, Orn. Bras., 1868, 
 
- 10.— Taczanowski, Om. du P^rou, i, 1884, 192. 
+ 10.— Taczanowski, Orn. du P^rou, i, 1884, 192. 
 
 
 
@@ -103004,7 +103004,7 @@ Otua mexicanus Stephens, Shaw's Gen. Zool., xiii, pt. ii, 1826, 57. — Ouvier,
 
 [Otus] mexicanus Bonaparte, Consp. Av., i, 1850, 50. — Gray, Hand-list, i, 1869, 
 
- 51, no. 546.— Pelzbln, Om. Bras., 1871, 400. 
+ 51, no. 546.— Pelzbln, Orn. Bras., 1871, 400. 
 
 
 
@@ -103020,7 +103020,7 @@ Rhinoptynx mexicanus Katjp, Jardine's Contr. Cm., 1852, 114; Trans. Zool. Soc.
 
 
 
-Asia mexicanus Strickland, Om. Syn., i, 1855, 208. — Shabpe, Cat. Birds Brit. 
+Asia mexicanus Strickland, Orn. Syn., i, 1855, 208. — Shabpe, Cat. Birds Brit. 
 
  Mus., ii, 1875, 231 (Brazil; Bahia; Bogota; Panama). — Sclater, Proc. Zool. 
 
@@ -103066,7 +103066,7 @@ Scops damatoT Gray, Cat. Accip. Brit. Mus., 1844, 45.
 
 
 
-Otus damatOT Descourtilz, Om. Br6s., 1854:-'56, pi. 5, upper fig. — Gukney, Cat. 
+Otus damatOT Descourtilz, Orn. Br6s., 1854:-'56, pi. 5, upper fig. — Gukney, Cat. 
 
  Birds of Prey, 1894, 36. — Hellmayr, Abh. k. b. Ak. Wiss., ii kl., xxii Bd., 
 
@@ -103230,7 +103230,7 @@ a Third, fourth, and fifth from outside.
 
 
 
-BIEDS OF NORTH AND MIDDLE AMEEIOA. 675 
+BIRDS OF NORTH AND MIDDLE AMEEIOA. 675 
 
 
 
@@ -103338,7 +103338,7 @@ Coey, List Birds West Ind., 1885, 21.
 
  [Scops] grammicus Bonapaetb, Consp. Av., i, 1850, 46. 
 
- Scops grammicus Steickland, Om. Syn., i, 1855, 205. — Sclatee, Proc. Zool. 
+ Scops grammicus Steickland, Orn. Syn., i, 1855, 205. — Sclatee, Proc. Zool. 
 
 
 
@@ -103496,7 +103496,7 @@ rufous phase). (Cuba; Isle of Pines.) Gynmasio lawreneii (p. 679).
 
 
 
-BIEDS OF NORTH AND MIDDLE AMEEICA. 677 
+BIRDS OF NORTH AND MIDDLE AMEEICA. 677 
 
 
 
@@ -103677,7 +103677,7 @@ A[thene\ nudipes Gray, Gen. Birds, i, 1844, 35.
 
 
 
-Athene nudipes Steiokland, Om. Syn., i, 1855, 173. 
+Athene nudipes Steiokland, Orn. Syn., i, 1855, 173. 
 
 
 
@@ -104804,7 +104804,7 @@ a With only one specimen of the rufous phase of 0. a. hasbroucki I am not able t
 
 
 
-BIEDS OF NORTH AND MIDDLE AMBKIOA. 687 
+BIRDS OF NORTH AND MIDDLE AMBKIOA. 687 
 
 
 
@@ -105568,7 +105568,7 @@ BIEDS OP NORTH AND MIDDLE AMEHIOA. 691
 
 Strix nsevda Daudin, Traits d'Om., ii, 1800, 217.— Shaw, Gen. Zool., vii, 1809, 
 
- 230.— Wilson, Am. Om., iii, 1811, 17, pi. 19, fig. 1.— Nuttall, Man. Om. 
+ 230.— Wilson, Am. Om., iii, 1811, 17, pi. 19, fig. 1.— Nuttall, Man. Orn. 
 
  U. S. and Can., Land Birds, 2d ed., 1840, 125. 
 
@@ -105620,7 +105620,7 @@ Sfriz:a*io(notof Linnaeus) Daudin, Traits d'Om., ii, 1800, 216, part. — ^Tbmmi
 
  Bor.-Am., ii, 1831, 99, in text.— Jakdine, ed. Wilson's Am. Om., i, 1831, 
 
- 307.— Audubon, Om. Biog., i, 1831, 486, pi. 97; v, 1839, 392, part.— Nuttall, 
+ 307.— Audubon, Orn. Biog., i, 1831, 486, pi. 97; v, 1839, 392, part.— Nuttall, 
 
  Man. Orn. U. S. and Can., Land Birds, 1832, 120; 2d ed., 1840, 127.— 
 
@@ -105687,7 +105687,7 @@ Scops asio Lesson, Traits d'Om., 1831, 107. — ^Bonapabte, Geog. and Comp.
 
 Tex., etc., 1854, 179, part; in Baird, Rep. Pacific R. R. Su)-v.,1858, 51, part 
 
- (not specimens mentioned). — Strickland, Om. Syn., i, 1855, 199. — ^Bbewek, 
+ (not specimens mentioned). — Strickland, Orn. Syn., i, 1855, 199. — ^Bbewek, 
 
  North Am. Oology, 1857, 65.— Baikd, Cat. N. Am. Birds, 1859, no. 49.— 
 
@@ -105715,9 +105715,9 @@ Tex., etc., 1854, 179, part; in Baird, Rep. Pacific R. R. Su)-v.,1858, 51, part
 
  Ann. Lye. N. Y., xi, 1875, 144 (Ritchie Co., West Virginia).- Frazar, Bull. 
 
- Nutt. Om. Club, ii, 1877, 80 ((fish-eating habits).— Meehiam, Bull. Nutt. 
+ Nutt. Orn. Club, ii, 1877, 80 ((fish-eating habits).— Meehiam, Bull. Nutt. 
 
- Om. Club, vi, 1881, 232 (Lewis Co., n. New York, breeding). — Langdon, 
+ Orn. Club, vi, 1881, 232 (Lewis Co., n. New York, breeding). — Langdon, 
 
  Joum. Cine. Soc. N. H., v, 1882, 52, 53 (dichromatism in vicinity of Cincin- 
 
@@ -105818,7 +105818,7 @@ M[egascops] asio Ridgway, Man. N. Am. Birds, 1887, 261.
 
 
 
-BIEDS OF NOETH AND MIDDLE AMBBICA, 693 
+BIRDS OF NOETH AND MIDDLE AMBBICA, 693 
 
 
 
@@ -105872,7 +105872,7 @@ Scops mcadlii Cassin, Illustr. Birds CaUf., Texas, etc., July, 1854, 180 (Rio
 
 
 
-8[cops\ mcmllii Cooper, Om. Calif., 1870, 421, in text (crit.). 
+8[cops\ mcmllii Cooper, Orn. Calif., 1870, 421, in text (crit.). 
 
 
 
@@ -106001,7 +106001,7 @@ Om. Club, vii, 1882, 33, part (lower Rio Grande Valley).— Neheling, Bull.
 
 
 
-Nutt. Om. Club, vii, 1882, 192 (Houston, Texas).6 
+Nutt. Orn. Club, vii, 1882, 192 (Houston, Texas).6 
 
  S[cops] a[sio] maccalli Coubs, Key N. Am. Birds, 2d ed., 1884, 506. 
 
@@ -106503,13 +106503,13 @@ Scops ado (not Strix ado Linnaeus) Eidgwat, in Baird, Brewer, and Ridgway,
 
 
 
-Scops ask) kennicotti (not Scops hennicottii Elliott) Allen, Bull. Nutt. Om. Club, 
+Scops asio kennicotti (not Scops kennicottii Elliott) Allen, Bull. Nutt. Orn. Club, 
 
- vi, 1881, 128 (Walla Walla, e. Washington).— Bendire, Bull. Nutt. Om. 
+ vi, 1881, 128 (Walla Walla, e. Washington).— Bendire, Bull. Nutt. Orn. 
 
  Club, vi, 1881, 185 (Walla Walla, e. Washington; descr. eggs).— Beewstbb, 
 
- Bull. Nutt. Om. Club, vii, 1882, 28-31, part (Walla Walla; Hellgate, Mon- 
+ Bull. Nutt. Orn. Club, vii, 1882, 28-31, part (Walla Walla; Hellgate, Mon- 
 
  tana; descr. supposed gray phase; crit.). 
 
@@ -106958,9 +106958,9 @@ Scops asio (not Strix asio Linnaeus) Cassin, in Baird, Rep. Pacific R. R. Surv.,
 
  fornia). — ^Heeemann, Rep. Pacific R. Surv., x, pt. iv, no. 2, 1859, 35 (Cali- 
 
- fornia).— Cooper, Om. Calif., 1870, 420.— Nelson, Proc. Bost. Soc. N. H,, 
+ fornia).— Cooper, Orn. Calif., 1870, 420.— Nelson, Proc. Bost. Soc. N. H,, 
 
- xvii, 1875, 363 (Nevada City, California). — Ridgwat, Om. Fortieth Parallel, 
+ xvii, 1875, 363 (Nevada City, California). — Ridgwat, Orn. Fortieth Parallel, 
 
  1877, 571 (Sacramento, California).— Belding, Proc. U. S. Nat. Mus., i, 1879, 
 
@@ -106984,13 +106984,13 @@ Scops asio, var. mccallii (not of Cassin) Cooper, Am. Nat., iii, 1869, 479 (Colo
 
 Scops asio, var. macealU Ridgwat, in Baird, Brewer, and Ridgway, Hist. N. Am. 
 
- Birds, iii, 1874, 52, part (Stockton, California). — ^Henshaw, Rep. Om. Spec. 
+ Birds, iii, 1874, 52, part (Stockton, California). — ^Henshaw, Rep. Orn. Spec. 
 
  Wheeler's Surv., 1876, 262 (Ft. Tejon, Califomia). 
 
 
 
-Scops asio bendirei Brewster, Bull. Nutt. Om. Club, vii, Jan., 1882, 31 (Nicasio, 
+Scops asio bendirei Brewster, Bull. Nutt. Orn. Club, vii, Jan., 1882, 31 (Nicasio, 
 
  Marin Co., Califomia; coll. W. Brewster). — Rbichenow and Schalow, 
 
@@ -107178,9 +107178,9 @@ Birds, 1881, no. 403, part.— Coues, Check List, 2d ed., 1882, no. 470, part.
 
 1875, 119, part (w. Mexico). 
 
- Scops asio trichopsis ? Beewstee, Bull. Nutt. Om. Club, vii, 1882, 33, part. 
+ Scops asio trichopsis ? Bewster, Bull. Nutt. Orn. Club, vii, 1882, 33, part. 
 
- Scops asio trichopsis Beewstee, Bull. Nutt. Om. Club, viii, 1883, 36 (Camp Lowell, 
+ Scops asio trichopsis Bewster, Bull. Nutt. Orn. Club, viii, 1883, 36 (Camp Lowell, 
 
 
 
@@ -107402,7 +107402,7 @@ Adults {sexes alike). — General color of upper parts brownish gray,
 
 
 
-BIEDS OF UrOETH AND MIDDLE AMEEICA. 705 
+BIRDS OF UrOETH AND MIDDLE AMEEICA. 705 
 
 
 
@@ -107680,7 +107680,7 @@ Scops m'callii (not Scops mccallii Cassin) Sclatbe and Salvin, Ibis, 1859, 220
 
 
 
-Scops asio maccalli Bebwstbr, BuU. Nutt. Om. Club, vii, 1882, 33, part (Guate- 
+Scops asio maccalli Bebwstbr, BuU. Nutt. Orn. Club, vii, 1882, 33, part (Guate- 
 
  mala; e. Mexico). 
 
@@ -108114,7 +108114,7 @@ Megascops cooperi Zeled6n, Proc. U. S. Nat. Mus., vui, 1885, 111 (Costa Rica);
 
 
 
-Mlegascops"] cooped Beewstee, Auk, v, 1888, 88, in text. 
+Mlegascops"] cooped Bewster, Auk, v, 1888, 88, in text. 
 
 
 
@@ -108551,7 +108551,7 @@ Elphialtes] choliba Gray, Gen. Birds, i, Sept., 1845, 38.
 
 
 
-Ephialtes choliba Pelzeln, Om. Bras., i, 1868, 9; iv, 1871, 399. 
+Ephialtes choliba Pelzeln, Orn. Bras., i, 1868, 9; iv, 1871, 399. 
 
 
 
@@ -108561,7 +108561,7 @@ Scops choliba D'Ohbignt, Voy. Am. M^rid., iv, pt. 3, 1839, 132 (Corrientes,
 
  Mag. de Zool., 1838 (Synopsis Avium, p. 8) (Corrientes, Argentina; Chiquitos, 
 
- Bolivia).— TscHUDi, Fauna Peruana, Aves, 1846, 118.— Strickland, Om. 
+ Bolivia).— TscHUDi, Fauna Peruana, Aves, 1846, 118.— Strickland, Orn. 
 
  Syn., i, 1855, 204.— Sclatbr, Proc. Zool. Soc. Lend., 1858, 133 (Cayenne; 
 
@@ -108571,7 +108571,7 @@ Scops choliba D'Ohbignt, Voy. Am. M^rid., iv, pt. 3, 1839, 132 (Corrientes,
 
  Soc. Lend., 1866, 198 (upper RioXJcayali, e. Peru); 1867, 590(M:exiana I., 
 
- lower Amazon).— -Taczanowski, Om. du Pdrou, i, 1884, 185. 
+ lower Amazon).— -Taczanowski, Orn. du Pdrou, i, 1884, 185. 
 
  , iSc[ops] choliba Tschudi, Wiegmann's Archiv fur Naturg., x, pt. i, 1844, 267 
 
@@ -108583,7 +108583,7 @@ Scops choliba D'Ohbignt, Voy. Am. M^rid., iv, pt. 3, 1839, 132 (Corrientes,
 
 
 
-Megascops choliba Bbrlepsch, Bull. Brit. Om. Club, xii, no. Ixxxii, Oct. 30, 
+Megascops choliba Bbrlepsch, Bull. Brit. Orn. Club, xii, no. Ixxxii, Oct. 30, 
 
  1901, 8, 9, in text (crit. nomencL). — Berlepsch and Stolzmann, Proc. Zool. 
 
@@ -108619,7 +108619,7 @@ Otus dioliba Thayer and Bangs, Bull. Mus. Comp. Zool., xlvi, 1905, 149 (San
 
 
 
-Otus choliba choliba Dabbbnb, Om. Argent., 1910, 253 (Cordova, Tucuman, Chaco, 
+Otus choliba choliba Dabbbnb, Orn. Argent., 1910, 253 (Cordova, Tucuman, Chaco, 
 
  and Pacheco, Argentina). — Carrikbe, Ann. Carnegie Mus., vi, 1910, 474 
 
@@ -108677,12 +108677,12 @@ Scops brasilianus (not Strix brasiliana Gmelin o) Lawrence, Ann. Lye. N. T.,
 
 
 
-» =GlawMium braailianum. See Berlepsch, Bull. Brit. Om. Club, xii, 1901, 8, 9. 
+» =GlawMium braailianum. See Berlepsch, Bull. Brit. Orn. Club, xii, 1901, 8, 9. 
 
 
 
 
-BIEDS OF NOBTH AND MIDDLE AMERICA. 715 
+BIRDS OF NOBTH AND MIDDLE AMERICA. 715 
 
 
 
@@ -110600,7 +110600,7 @@ Scops flammeola Kiup, Trans. Zool. Soc. Lond., iv, pt. vi, 1859, 226 (Mexico;
 
  Saivin, Exotic Om., pt. vii, 1868, pi. 50, and text. — Elliot, lUustr. New 
 
- and Unfig. N. Am. Birds, i, 1869, pi. 28, and text. — Baied, in Cooper, Om. 
+ and Unfig. N. Am. Birds, i, 1869, pi. 28, and text. — Baied, in Cooper, Orn. 
 
  Calif., 1870, 422 (Ft. Crook, California).— Cotjes, Check List, 1873, no. 319; 
 
@@ -110608,15 +110608,15 @@ Scops flammeola Kiup, Trans. Zool. Soc. Lond., iv, pt. vi, 1859, 226 (Mexico;
 
  Brewer, and Ridgway, Hist. N. Am. Birds, iii, 1874, 58. — Henshaw, Rep. 
 
- Om. Spec. Wheeler's Surv., 1874, 135 (30 miles south of Apache, Arizona); 
+ Orn. Spec. Wheeler's Surv., 1874, 135 (30 miles south of Apache, Arizona); 
 
  Zool. Exped. W. 100th Merid., 1875, 406 (south of Apache, Arizona).— Ridg- 
 
- way, Field and Forest, ii, 1877, 210 (Boulder Co., Colorado); Om. 40th Par- 
+ way, Field and Forest, ii, 1877, 210 (Boulder Co., Colorado); Orn. 40th Par- 
 
- allel, 1877, 335, in text (Nevada, California?).— Dbanb, Bull. Nutt. Om. 
+ allel, 1877, 335, in text (Nevada, California?).— Dbanb, Bull. Nutt. Orn. 
 
- Club, iv, 1879, 188 (Fremont Co., Colorado). — Ingehsoll, Bull. Nutt. Om. 
+ Club, iv, 1879, 188 (Fremont Co., Colorado). — Ingehsoll, Bull. Nutt. Orn. 
 
  Club, V, 1880, 121 (near Mosca Pass, Colorado). — ^Salvin and Godman, Biol. 
 
@@ -110650,7 +110650,7 @@ Scops flammeolus Shaepe, Cat. Birds Brit. Mus., ii, 1875, 105 (Duefias, Guate-
 
  v, 1883, 549 (Big Trees, Calaveras Co., California). — Brbwstbe, Bull. Nutt. 
 
- Om. Club, vui, 1883, 123 (between Colorado City and Manitou, and near 
+ Orn. Club, vui, 1883, 123 (between Colorado City and Manitou, and near 
 
  Mosca Pass, Colorado). 
 
@@ -111996,11 +111996,11 @@ Strix virginiana Daudin, Traits d'Om., ii, 1800, 210, pi. 13. — Shaw, Gen. Zoo
 
  N. Y., ii, pt. i, 1826, 37; 1828, 435 (crit.); Synopsis, 1828, 37; Isis, 1832, 
 
- 1139.— Audubon, Om. Biog., i, 1831, 313, pi. 61; v, 1839, 393.— Nuttall, 
+ 1139.— Audubon, Orn. Biog., i, 1831, 313, pi. 61; v, 1839, 393.— Nuttall, 
 
- Man. Om. U. S. and Can., LandBirds, 1832, 124; 2ded., 1840, 129.— Pbabody, 
+ Man. Orn. U. S. and Can., LandBirds, 1832, 124; 2ded., 1840, 129.— Pbabody, 
 
- Rep. Om. Mass., 1839, 87.— Thompson, Nat. Hist. Vermont, 1853, 65. 
+ Rep. Orn. Mass., 1839, 87.— Thompson, Nat. Hist. Vermont, 1853, 65. 
 
 
 
@@ -112022,7 +112022,7 @@ Bubo virginianus Bonaparte, Geog. and Comp. List, 1838, 6. — ^Audubon, Syn-
 
  Jardine's Contr. Om., 1852, 116 (monogr.); Trans. Zool. Soc. Lond., iv, 
 
- 1859, 241 (monogr.). — Strickland, Om. Syn., i, 1855, 213 (excl. syn. 
+ 1859, 241 (monogr.). — Strickland, Orn. Syn., i, 1855, 213 (excl. syn. 
 
  part). — Brewer, N. Am. Oology, i, 1857, 64. — Cassin, in Baird, Rep. 
 
@@ -112030,7 +112030,7 @@ Bubo virginianus Bonaparte, Geog. and Comp. List, 1838, 6. — ^Audubon, Syn-
 
  48, part. — Schlegel, Mus. Pays-Bas, ii, no. 11 (Oti), 1863, 10; no. 36 (Revue), 
 
- 1873, 4. — Cooper, Om. CaUf., 1870, 418, part (in synonymy). — ^Allen, Bull. 
+ 1873, 4. — Cooper, Orn. CaUf., 1870, 418, part (in synonymy). — ^Allen, Bull. 
 
  Mus. Comp. Zool., ii, 1871, 337 (e. Florida; excl. syn. part). — Coues, Check 
 
@@ -112040,7 +112040,7 @@ Bubo virginianus Bonaparte, Geog. and Comp. List, 1838, 6. — ^Audubon, Syn-
 
  Terr., v, 1879, 417 (Lomita Ranch, Texas; crit.).— Ridgwat, Proc. TT. S. 
 
- Nat. Mus., iii, 1880, 191; Nom. N. Am. Birds, 1881, no. 405; Om. Illinois, 
+ Nat. Mus., iii, 1880, 191; Nom. N. Am. Birds, 1881, no. 405; Orn. Illinois, 
 
  i, 1889, 418. — American Ornithologists' Union, Check List, 1886 (and 
 
@@ -112052,7 +112052,7 @@ Bubo virginianus Bonaparte, Geog. and Comp. List, 1838, 6. — ^Audubon, Syn-
 
 
 
-B[t46o] virginianus MAxrMrLLA.N, Joum. fur Om. , 1858, 23 (upper Missouri River). — 
+B[t46o] virginianus MAxrMrLLA.N, Joum. fur Orn. , 1858, 23 (upper Missouri River). — 
 
  Coues, Key N. Am. Birds, 2d ed., 1884, 503.— Ridqway, Man. N. Am. 
 
@@ -112151,7 +112151,7 @@ mentioned; coll. Mus. Paris).
 
  Oltus] crassirostris Gray, Gen. Birds, i, 1844, 40. 
 
- Asio crassirostris Strickland, Om. Syn., i, 1855, 208. 
+ Asio crassirostris Strickland, Orn. Syn., i, 1855, 208. 
 
  Stria; macrorhyncha Temminck, PI. Col., ii, livr. 77, June, 1821, pi. 62 and text 
 
@@ -112240,7 +112240,7 @@ o Nine specimens.
 
 
 
-BIEDS OF NORTH AND MIDDLE AMERICA. 743 
+BIRDS OF NORTH AND MIDDLE AMERICA. 743 
 
 
 
@@ -112401,7 +112401,7 @@ Bubo virginiana (not Strix virginiana Gmelin) Cassin, lUustr. Birds Calif.,
 
  part (Ft. Union; Medicine Bow Creek, Wyoming). — Baird, Cat. N. Am. 
 
- Birds, 1859, no. 48, part.— Coopek, Om. Calif., 1870, 418, part. 
+ Birds, 1859, no. 48, part.— Coopek, Orn. Calif., 1870, 418, part. 
 
 
 
@@ -112453,7 +112453,7 @@ Bubo virginianus, /?. subarctieus (not Buho suharctieus Hoy) Ridgway, Field and
 
 
 
-[Bubo virginianus] fi. subarctieus Ridgway, Om. Fortieth Parallel, 1877, 572 
+[Bubo virginianus] fi. subarctieus Ridgway, Orn. Fortieth Parallel, 1877, 572 
 
  (Carson, Nevada, breeding; City of Rocka, s. Idaho). 
 
@@ -112584,7 +112584,7 @@ Bubo virginianus (not Strix virgirdana Gmelin) Gambel, Proc. Ac. Nat. Sci.
 
  1859, no. 48, part. — Hbermann, Rep. Pacific R. R. Surv., iv, no. 2, 1859, 35 
 
- (Ft. Tejon, and near Sacramento, California). — Cooper, Om. Calif., 1870, 
+ (Ft. Tejon, and near Sacramento, California). — Cooper, Orn. Calif., 1870, 
 
  418, part. 
 
@@ -112600,7 +112600,7 @@ Am. Birds, 1872, 202, part.
 
 PHla., ii, 1852, 261 (Sacramento Valley). 
 
- Bubo virginianus subarcticus (not Bubo subarcticus Hoy) Mearns, Bull. Nutt. Om. 
+ Bubo virginianus subarcticus (not Bubo subarcticus Hoy) Mearns, Bull. Nutt. Orn. 
 
  Club, iv, 1879, 195 (Ft. 'Klamath, Oregon).— Ridqway, Proc. U. S. Nat. Mus., 
 
@@ -112697,7 +112697,7 @@ Bubo virginianus (not Strix mrginiana Gmelin) Baihd, Proc. Ac. Nat. Sci. Phila.,
 
  xi, 1859, 302 (Cape San Lucas, Lower California); Cat. N. Am. Birds, 1859, 
 
- no. 48, part.— Cooper, Om. Calif., 1870, 418, part (Cape San Lucas).— 
+ no. 48, part.— Cooper, Orn. Calif., 1870, 418, part (Cape San Lucas).— 
 
  Shahpe, Cat. Birds Brit. Mus., ii, 1875, 19, part. 
 
@@ -112830,7 +112830,7 @@ Bubo virginianus (not /Stria; virginiana Gmelin) ViCMJES, Zool. Voy. "Blossom,"
 
  1858, 49, part (Bodega, California).— Baied, Cat. N. Am. Birds, 1859, no. 
 
- 48, part.— Cooper, Om. Calif., 1870, 418, part. 
+ 48, part.— Cooper, Orn. Calif., 1870, 418, part. 
 
 
 
@@ -112842,7 +112842,7 @@ Bubo virginianus (not /Stria; virginiana Gmelin) ViCMJES, Zool. Voy. "Blossom,"
 
 [Bubo virginianvs.l Var. padflais (not Bubo virginianus padficus Casain) Cooper, 
 
- Om. Calif., 1870, 418, part.— Coues, Key N. Am. Birds, 1872, 202, in text, 
+ Orn. Calif., 1870, 418, part.— Coues, Key N. Am. Birds, 1872, 202, in text, 
 
  part. 
 
@@ -112872,7 +112872,7 @@ B[u6o] v\irginianus'\ padficus Coues, Key N. Am. Birds, 2d ed., 1884, 504, part.
 
 
 
-B[tt5o] virginianus saturatus Ridgway, Om. Fortieth Parallel, 1877, 672, footnote, 
+B[tt5o] virginianus saturatus Ridgway, Orn. Fortieth Parallel, 1877, 672, footnote, 
 
  part; Man. N. Am. Birds, 1887, 263, part. 
 
@@ -112997,7 +112997,7 @@ B[w5o] vlirginianus] padflcus Cottes, Key N. Am. Birds, 2d ed., 1884, 504, part.
 
 
 
-J?[m5o] virginianus saturatus Ridgway, Om. Fortieth Parallel, 1877, 572, footnote; 
+J?[m5o] virginianus saturatus Ridgway, Orn. Fortieth Parallel, 1877, 572, footnote; 
 
  part; Man. N. Am. Birds, 1887, 263, part. 
 
@@ -113005,7 +113005,7 @@ J?[m5o] virginianus saturatus Ridgway, Om. Fortieth Parallel, 1877, 572, footnot
 
 Bubo virginianus saturatus Ridgway, Proc. U. S. Nat. Mus., iii, 1880, 191, part, 
 
- Nom. N. Am. Birds, 1881, no. 405 c, part.— Brewsteh, Bull. Nutt. Om. Club, 
+ Nom. N. Am. Birds, 1881, no. 405 c, part.— Brewsteh, Bull. Nutt. Orn. Club, 
 
  vii, 1882, 229 (Walla WaUa,, Waslungton; crit.). — ^American Ornitholo- 
 
@@ -113178,7 +113178,7 @@ B[ubo] v[irginianus] padfixus Coues, Key N. Am. Birds, 2d ed., 1884, 504, part.
 
 
 
-B[ubo] virginianus saturatus Ridgway, Om. Fortieth Parallel, 1877, 572, footnote 
+B[ubo] virginianus saturatus Ridgway, Orn. Fortieth Parallel, 1877, 572, footnote 
 
  (no type locality specified, but type from Sitka, Alaska, in coll. U. S. Nat. 
 
@@ -113978,7 +113978,7 @@ Bange. — ^Tropical America, except West Indies and Galapagos
 
 The latest revision of this group is that by Count von Berlepach, who recognizes the 
 
- following forms (Bull. Brit. Om. Club, xii, 1901, 4-6): 
+ following forms (Bull. Brit. Orn. Club, xii, 1901, 4-6): 
 
 
 
@@ -114024,7 +114024,7 @@ Strix pulsatrix Maximilian, Reia. Bras., i, 1820, 366, footnote (Rio Grande do B
 
  pulsatrix Berlepach, Journ. ftir Om., 1873, 282 (Santa Catarina, s. Brazil; synonymy; 
 
- geog. range; crit.). — Pulsatrix pulsatrix Berlepach, Bull. Brit. Om. Club, xii, no. 
+ geog. range; crit.). — Pulsatrix pulsatrix Berlepach, Bull. Brit. Orn. Club, xii, no. 
 
  Ixxxi, Oct. 30, 1901, 4, 5 (Santa Cataiina, etc.; crit.). 
 
@@ -114064,15 +114064,15 @@ melanonota Berlepsch and Stolzmann, Proc. Zool. Soc. Lend., 1902, 41 (crit.).
 
 
 
-Athene melanonota (not Noctua mekmota Tschudi) Pelzeln, Om. Bras., i, 1868, 9. 
+Athene melanonota (not Noctua mekmota Tschudi) Pelzeln, Orn. Bras., i, 1868, 9. 
 
 
 
 Symium melanonotum Sharpe, Cat. Birds Brit. Mus., ii, 1875, 280. — Ciccaba TJiefoji- 
 
- onota Taczanowski, Om. du P&ou, i, 1884, 1^.— Pulsatrix sharpd Berlepsch, Bull. 
+ onota Taczanowski, Orn. du P&ou, i, 1884, 1^.— Pulsatrix sharpd Berlepsch, Bull. 
 
- Brit. Om. Club, xii, no. Ixxxi, Oct. 30, 1901, 6 (Province of Espiritu Santo, e. Brazil; 
+ Brit. Orn. Club, xii, no. Ixxxi, Oct. 30, 1901, 6 (Province of Espiritu Santo, e. Brazil; 
 
  coll. Count von Berlepsch).— jS^nmm koenigswaldianum Bertoni, Aves Nuevas del 
 
@@ -114166,7 +114166,7 @@ AduU /emaZe.— Length (skins), 435-470 (459); wing, 318-350
 
 
 
-BIEDS OF NORTH AND MIDDLE AMEBICA. 
+BIRDS OF NORTH AND MIDDLE AMEBICA. 
 
 
 
@@ -114200,7 +114200,7 @@ Owl Latham, Synopsis Birds, Suppl., p. 50, pi. 107).
 
 (Lion Hill, Panama; Colombia to Guiana and Brazil). 
 
- Symium perspidllatum Strickland, Om. Syn., i, 1855, 193. — ^Lawrence, Ann. 
+ Symium perspidllatum Strickland, Orn. Syn., i, 1855, 193. — ^Lawrence, Ann. 
 
 
 
@@ -114232,7 +114232,7 @@ Hellmatb, Novit. Zool., xiii, 1906, 45 (Laventille, Trinidad; crit.).
 
 (Guiana; Surinam; Brazil). — Shabpe, Hand-list, i, 1899, 284, part. 
 
- {1)P[ulsatrix] perspidllata Berlepsch, Bull. Brit. Om. Club, xii, 1901, 5, in text 
+ {1)P[ulsatrix] perspidllata Berlepsch, Bull. Brit. Orn. Club, xii, 1901, 5, in text 
 
 
 
@@ -114266,13 +114266,13 @@ Trait6 d'Om., 1831, 105.
 
 Brit. Guiana, iii, 1848, 732. 
 
- Athene torquata Strickland, Om. Syn., i, 1855, 172. — L:]Sotaud, Ois. Trinidad, 
+ Athene torquata Strickland, Orn. Syn., i, 1855, 172. — L:]Sotaud, Ois. Trinidad, 
 
- 1866, 52.— Pblzbln, Om. Bras., i Abth. 1868, 8 (Borba, Rio Negro, and 
+ 1866, 52.— Pblzbln, Orn. Bras., i Abth. 1868, 8 (Borba, Rio Negro, and 
 
  Pard, Brazil). 
 
- [Athene] torquata Pelzeln, Om. Bras., iv Abth. 1871, 399 (range in Brazil) 
+ [Athene] torquata Pelzeln, Orn. Bras., iv Abth. 1871, 399 (range in Brazil) 
 
  [Ciccaha] torquata Bonaparte, Consp. Av., i, 1850, 43 (Guiana). 
 
@@ -114389,7 +114389,7 @@ Strix larvata Shaw, Nat. Misc., xix, 1808, pi. 801 (Cayenne; new name for S.
 
 Athene melanota (not Noctua melanota Tschudi) Pucheean, Rev. et Mag. Zool., 
 
- 1849, 28 (Brazil; coll. Mus. Paris).— Strickland, Om. Syn., i, 1855, 172. 
+ 1849, 28 (Brazil; coll. Mus. Paris).— Strickland, Orn. Syn., i, 1855, 172. 
 
 
 
@@ -114756,7 +114756,7 @@ o Fourth and fifth, third, fourth, and fifth, or fourth, fifth, and sixth from o
 
 
 
-BIEDS OF NORTH AND MIDDLE AMEBICA. 
+BIRDS OF NORTH AND MIDDLE AMEBICA. 
 
 
 
@@ -115084,7 +115084,7 @@ The series examined ia remarkably uniform as to coloration, and I am unable to
 
 
 
-BIEDS OF NORTH AND MIDDLE AMEEIOA. 763 
+BIRDS OF NORTH AND MIDDLE AMEEIOA. 763 
 
 
 
@@ -115436,7 +115436,7 @@ Symium virgatum Cassin, Proc. Ac. Nat. Sci. Phila., iv, 1848, 124 ("South
 
  228 (reprint); Joum. Ac. Nat. Sci. Plula., ii, pt. i, 1850, 51, pi. 3. — Steiok- 
 
- LAND, Om. Syn., i, 1855, 193.— Sclater, Proc. Zool. Soc. Lond., 1856, 285 
+ LAND, Orn. Syn., i, 1855, 193.— Sclater, Proc. Zool. Soc. Lond., 1856, 285 
 
  (Cordova, Vera Cruz); 1858, 132 (a. Mexico; Central America). — Sclatbk 
 
@@ -115519,7 +115519,7 @@ Ciccaha virgata Salvin, Proc. Zool. Soc. Lond., 1870, 216 (Chitra, Calovevora,
 
  crit.). — ScLATER and Salvin, Proc. Zool. Soc. Lond., 1873, 304 (Chyavetas, 
 
- e. Peru); 1879, 539 (Concordia, Antioquia, Colombia). — ^Taczanowski, Om. 
+ e. Peru); 1879, 539 (Concordia, Antioquia, Colombia). — ^Taczanowski, Orn. 
 
  du P6rou, i, 1884, 182. — ^Taczanowski and Berlepsoh, Proc. Zool. Soc. 
 
@@ -116039,7 +116039,7 @@ accidental in the Bermudas (2 specimens autumn of 1843, 1 specimen
 
  on Fauna Suecica, 54, and Altico albvs diwnus Edwards, Av. 61, pi. 61); ed. 
 
- 12, i, 1766, 132.— Beunnich, Om. Bor., 1764, 7.— Gmeiin, Syst. Nat., i, pt. i, 
+ 12, i, 1766, 132.— Beunnich, Orn. Bor., 1764, 7.— Gmeiin, Syst. Nat., i, pt. i, 
 
  1788, 201.— Latham, Index Om., i, 1790, 57. 
 
@@ -116065,9 +116065,9 @@ Strix nyctea 'Fo-RBTEU, Philos. Trans., Ixxii, 1772, 385 (Hudson Bay).— Fabeic
 
  parte, Ann. |iyc. N. Y., ii, pt. i, 1826, 36.— Swainson and Biohardson, 
 
- Fauna, Bor.-Am., ii, 1831, 88. — Nxtttall, Man. Om. TJ. S. and Can., Land 
+ Fauna, Bor.-Am., ii, 1831, 88. — Nxtttall, Man. Orn. TJ. S. and Can., Land 
 
- Birds, 1832, 116; 2d ed., 1840, 121.— Atjdubon, Om. Biog., ii, 1834, 135, pi. 
+ Birds, 1832, 116; 2d ed., 1840, 121.— Atjdubon, Orn. Biog., ii, 1834, 135, pi. 
 
  121; V, 1839, 382.— Sundevall, Svensk. Fogl., 1856-58, pi. 24, figs. 3, 3*.— 
 
@@ -116133,7 +116133,7 @@ Nyctea nyctea Ambeican Oenithologists' Union, Cbeck List, 1886 (and 2d ed.,
 
  Winnipeg, Manitoba, rare summer resident). — Nelson, Rep. Nat. Hist. CoU. 
 
- Alaska, 1887, 153 (Sitka nortbward; babits). — Ridgwat, Om. Illinois, i, 
+ Alaska, 1887, 153 (Sitka nortbward; babits). — Ridgwat, Orn. Illinois, i, 
 
  1889, 422.— Chapman, Bull. Am. Mus. N. H., iii, 1890, 136 (numerous at 
 
@@ -116234,7 +116234,7 @@ Nyctea nivea Geay, Gen. Birds, i, 1844, pi. 12, fig. 2. — Rbinhabdt, Joum. fur
 
 
 
-1858, 63.— Steickland, Om. Syn., i, 1855, 194.— Baied, Cat. N. Am. Birds, 
+1858, 63.— Steickland, Orn. Syn., i, 1855, 194.— Baied, Cat. N. Am. Birds, 
 
 
 
@@ -116254,9 +116254,9 @@ Nyctea nivea Geay, Gen. Birds, i, 1844, pi. 12, fig. 2. — Rbinhabdt, Joum. fur
 
  and Bannister, Trans. Chicago Ac. Sci., i, 1869, 273 (Alaska). — Coopee, 
 
- Om. Calif., 1870, 447 (no California record to date). — Snow, Birds Kansas, 
+ Orn. Calif., 1870, 447 (no California record to date). — Snow, Birds Kansas, 
 
- 1873, 2 (rare in winter).— Allen, Bull. Nutt. Om. Club, vii, 1881, 128 (Ft. 
+ 1873, 2 (rare in winter).— Allen, Bull. Nutt. Orn. Club, vii, 1881, 128 (Ft. 
 
  Walla Walla, Washington, Dec. 1).— Deane, Auk, xxiii, 1906, 100 (large 
 
@@ -116325,7 +116325,7 @@ Nycteanivea americxma Brbhm, Verz. Samml. C. L. Brehm, 1866, 2.
 
 Strix scandiaca Vieillot, Nouv. Diet. d'Hist. Nat., ix, 1817, 600.— Nuttall, Man. 
 
- Om. U. S. and Can., Water Birds, 1834, 561; Land Birds, ed. 2, 1840, 133.— 
+ Orn. U. S. and Can., Water Birds, 1834, 561; Land Birds, ed. 2, 1840, 133.— 
 
  Malmgren, Joum. fiir Om., 1865, 396. 
 
@@ -116337,7 +116337,7 @@ Nyctea scandiaca Newton, ed. Yarrell's Hiat. Brit. Birds, ui, 1872, 187.^Deessbr
 
  309; Check List, 2d ed., 1882, no. 479.— Sharpe, Cat. Birds Brit. Mus., ii, 1875, 
 
- 125.— Deanb, Bull. Nutt. Om. Club, ii, 1877, 9 (New England records for 
+ 125.— Deanb, Bull. Nutt. Orn. Club, ii, 1877, 9 (New England records for 
 
  winter of 1876-77).— Fbilden, Proc. Zool. Soc. Lond., 1877, 31 (North Polar 
 
@@ -116345,7 +116345,7 @@ Nyctea scandiaca Newton, ed. Yarrell's Hiat. Brit. Birds, ui, 1872, 187.^Deessbr
 
  44').— RiDGWAT, Proc. U. S. Nat. Mus., iii, 1880, 192; Nom. N. Am. Birds, 
 
- 1881, no. 406.— Bbndire, Bull. Nutt. Om. Club, vii, 1882, 58 (Ft. Walla 
+ 1881, no. 406.— Bbndire, Bull. Nutt. Orn. Club, vii, 1882, 58 (Ft. Walla 
 
  Walla, Washington).— Nelson, Cruise "Corwin" in 1881 (1883), 76 (resident 
 
@@ -116665,7 +116665,7 @@ As to the claims of the bird from northeastern Asia to subspecific rank, I am no
 
 (2) Sum,ia ulula tianschanica Smallbones (Om. Monatsb., 1906, 27; Sumia ulula 
 
- korejewi Sarudny and Loudon, Om. Monatsb., 1907, 2); Tian Schan. 
+ korejewi Sarudny and Loudon, Orn. Monatsb., 1907, 2); Tian Schan. 
 
 
 
@@ -116942,9 +116942,9 @@ Strix funerea Foestek, Philos. Trans., Ixii, 1772, 385 (Severn and Churchill
 
  part.— Bonaparte, Ann. Lye. N. Y., ii, pt. i, 1826, 35.— Swainson and 
 
- RicHAEDSON, Fauna Bor.-Am., ii, 1831, 92. — Ntjttall, Man. Om. TJ. S. 
+ RicHAEDSON, Fauna Bor.-Am., ii, 1831, 92. — Ntjttall, Man. Orn. TJ. S. 
 
- and Can., Land Birds, 1832, 115; 2d ed., 1840, 119.— Attdubon, Om. Biog., 
+ and Can., Land Birds, 1832, 115; 2d ed., 1840, 119.— Attdubon, Orn. Biog., 
 
  iv, 1839, 550, pi. 378.— Bebwbr, ed. Wilson's Am. Om., 1840, 686.— Db KiY, 
 
@@ -116964,7 +116964,7 @@ SumiafuTierea Bonapahtb, Geog. and Comp. List, 1838, 6. — ^Audubon, Synopsis,
 
  vi, 1853, 306 (Raeine, Wisconsin). — Kennicott, Trans. His. Agric. Assoc, 
 
- i, 1855, 581 (n. Illinois). — Dbgland and Gbebe, Om. Europ., i, 1867, 117. — 
+ i, 1855, 581 (n. Illinois). — Dbgland and Gbebe, Orn. Europ., i, 1867, 117. — 
 
  Dalgleish, Bull. Nutt. Orn. Club, v, 1880, 74 (3 British records). — Ridgway, 
 
@@ -117058,7 +117058,7 @@ Sumia ulula caparoch Stejnegbr, Auk, i, Oct., 1884, 363. — ^Allen, Auk, ii, 18
 
  Brewster, Auk, v, 1888, 390 (Winchenden, Massachusetts, 4 specs., winter 
 
- 1886-87 and 1887-88).— Ridgway, Om. Illinois, i, 1889, 424.— Thompson, 
+ 1886-87 and 1887-88).— Ridgway, Orn. Illinois, i, 1889, 424.— Thompson, 
 
  Proc. U. S. Nat. Mus., xiii, 1890, 546 (Manitoba, irregular winter visitant; 
 
@@ -117175,7 +117175,7 @@ Obs. Wilson's Am. Om., 1826, [15].
 
  Sumia ulula . . . var. hudsonica Coues, Check List, 1873, no. 326. 
 
- Sumia ulula var. hudsonica Mbeeiam, Bull. Nutt. Om. Club, iii, 1878, 54 (Lewis 
+ Sumia ulula var. hudsonica Mbeeiam, Bull. Nutt. Orn. Club, iii, 1878, 54 (Lewis 
 
 
 
@@ -117250,11 +117250,11 @@ Sumia ulula Cabot, Naumannia, 1852, heft iii, 66 (Lake Superior). — Cassin,
 
  274, part (Nulato and Sitka, Alaska; habits; descr. nest and eggs). — Coopbe, 
 
- Om. Calif., 1870, 448 (no California record). — Mehriam, Sixth An. Rep. U. S. 
+ Orn. Calif., 1870, 448 (no California record). — Mehriam, Sixth An. Rep. U. S. 
 
  Geol. Surv. Terr., 1873, 696 (Madison R., Montana, Aug. 11).— (?)Ridgwat, 
 
- Bull. Nutt. Om. Club., iii, 1878, 38 (St. Michaels, Alaska).— (?)American 
+ Bull. Nutt. Orn. Club., iii, 1878, 38 (St. Michaels, Alaska).— (?)American 
 
  Ornithologists' Union, Check List, 1886 (and 2d ed., 1895), no. 377.— 
 
@@ -117713,7 +117713,7 @@ Footnote — Continued.
 
  types now in coU. Am. Mus. N. H.). — [AtJiene] minutissima Bonaparte, Consp. Av., i, 
 
- 1850, 38; Pelzeln, Om. Bras., 1871, 399. — Athene minutissiTnaFelzeln, Om. Bras., 1868, 
+ 1850, 38; Pelzeln, Orn. Bras., 1871, 399. — Athene minutissiTnaFelzeln, Orn. Bras., 1868, 
 
  9; iv, 1871, 463; Ibis, 1875, 330 (Spanish Guiana). — Noctua minutissiTna Schlegel, Mus. 
 
@@ -117725,9 +117725,9 @@ Footnote — Continued.
 
  brasiliensis Brisson, Orn., 145, this based on Cabure ou Caboure Willughby, Om., 107, 
 
- etc.; see Berlepsch, Bull. Brit. Om. Club, xii, 1901, 8, 9). — G[laucidiu'in'\ brasilieTise 
+ etc.; see Berlepsch, Bull. Brit. Orn. Club, xii, 1901, 8, 9). — G[laucidiu'in'\ brasilieTise 
 
- Berlepsch, Bull. Brit. Om. Club, xii, no. Ixxxii, Oct. 30, 1901, 9, in text.^ — Strixferox 
+ Berlepsch, Bull. Brit. Orn. Club, xii, no. Ixxxii, Oct. 30, 1901, 9, in text.^ — Strixferox 
 
  VieUlot, Nouv. Diet. d'Hist. Nat., vii, 1817, 22 (Paraguay; based on Cabur6 Azara, 
 
@@ -117745,7 +117745,7 @@ Footnote — Continued.
 
  ed. 2, pt. i, 1821, 97, in text (Brazil; based on Cabouri Azara). — [Athene] infuscata 
 
- Bonaparte, Consp. Av., i, 1850, 37; Strickland, Om. Syn., 1855, 163. — Gl[avMdium] 
+ Bonaparte, Consp. Av., i, 1850, 37; Strickland, Orn. Syn., 1855, 163. — Gl[avMdium] 
 
  infuscatum Kaup, Jardine's Contr. Om., 1852, 103. — [Phalxruipsis] infuscata Bona- 
 
@@ -117950,7 +117950,7 @@ The very considelrable variation in pattern and colors in the series examined in
 
 
 
-BIEDS OF NOETH AND MIDDLE AMEBIOA. 785 
+BIRDS OF NOETH AND MIDDLE AMEBIOA. 785 
 
 
 
@@ -118566,11 +118566,11 @@ Olauddium grumrn (not of Wagler) Coubs, Ibis, 1865, 162, in text (Ft. Wliipple,
 
  Proc. U. S. Nat. Mus., iii, 1880, 192, part; Norn. N. Am. Birds, 1881, no. 409. 
 
- part.— Brewster, Bull. Nutt. Om. Club, viti, 1883, 27 (Chiricahua Mts., 
+ part.— Brewster, Bull. Nutt. Orn. Club, viti, 1883, 27 (Chiricahua Mts., 
 
  Arizona, 10,000 ft.; Ft. Bayard, New Mexico; crit.). — Williams (R. S.), 
 
- Bull. Nutt. Om. Club, viii, 1883, 59 (Gold Run, Belt Mts., Montana).— 
+ Bull. Nutt. Orn. Club, viii, 1883, 59 (Gold Run, Belt Mts., Montana).— 
 
  American Ornithologists' Union, Check List, 1886 (and 2d ed., 1895), no. 
 
@@ -118810,7 +118810,7 @@ Glauddium gnoma (not of Wagler) Oassin, in Baird, Rep. Pacific R. R. Surv.,
 
  i, 1879, 434 (Murphy's and Soda Springs, California); v, 1883, 550 (Murphy's; 
 
- notes).— Bbndire, Bull. Nutt. Om. Club, viii, 1883, 242 (Ft. Klamath, e. 
+ notes).— Bbndire, Bull. Nutt. Orn. Club, viii, 1883, 242 (Ft. Klamath, e. 
 
  Oregon; descr. nest and eggs) ; Life Hist. N. Am. Birds, (i), 1892, 403, part.'— 
 
@@ -119030,7 +119030,7 @@ G\lauddium\ gnoma califomievum Nelson, Proc. Biol. Soc. Wash., xxiii, 1910,
 
 
 
-BIEDS OF NORTH AND MIDDLE AMEEICA. 793 
+BIRDS OF NORTH AND MIDDLE AMEEICA. 793 
 
 
 
@@ -119258,7 +119258,7 @@ transverse spot on each side; back, rump, scapulars, and wing-cov-
 
 
 
-BIEDS OF NORTH AKD MIDDLE AMERICA. 795 
+BIRDS OF NORTH AKD MIDDLE AMERICA. 795 
 
 
 
@@ -119488,7 +119488,7 @@ o Two specimens; one from Yaruca, Honduras, the other from Vijagua, northern
 
 
 
-BIEDS OF NORTH AND MIDDLE AMBKICA. 797 
+BIRDS OF NORTH AND MIDDLE AMBKICA. 797 
 
 
 
@@ -120524,7 +120524,7 @@ Glauddium phalsenoides {not Strix phalxnoidaa Daudin) Salvin, Proc. Zool. Soc.
 
 
 
-BIEDS OF NORTH AND MIDDLE AMERICA. 803 
+BIRDS OF NORTH AND MIDDLE AMERICA. 803 
 
 
 
@@ -120828,7 +120828,7 @@ Athene dju Cassin, Cat. Strig. Mus. Ac. Nat. Sci. PHla., 1849, 13.
 
 
 
-Nyctale dju Strickland, Om. Syn., i, 1855, 177. 
+Nyctale dju Strickland, Orn. Syn., i, 1855, 177. 
 
 
 
@@ -121246,7 +121246,7 @@ o This phase is bo exceptional that it is represented, in its extreme developmen
 
 
 
-BIEDS OF NORTH AND MIDDLE AMEEICA. 809 
+BIRDS OF NORTH AND MIDDLE AMEEICA. 809 
 
 
 
@@ -121278,7 +121278,7 @@ Mierathene whitneyi Coubs, Proc. Ac. Nat. Sci. Phila., 1866, 51 (Ft. Mojave,
 
  Arizona); Check List, 1873, no. 331; Birds Northwest, 1874, 320.— Elliot, 
 
- lUustf . New and Unfig. Am. Birds, i, 1868, pi. 29 and text. — Cooper, Om. 
+ lUustf . New and Unfig. Am. Birds, i, 1868, pi. 29 and text. — Cooper, Orn. 
 
  Calif., 1870, 442 (Ft. Mojave, Arizona). — Ridgway, in Baird, Brewer, and 
 
@@ -121288,7 +121288,7 @@ Mierathene whitneyi Coubs, Proc. Ac. Nat. Sci. Phila., 1866, 51 (Ft. Mojave,
 
  Nom. N. Am. Birds, 1881, no. 411.— Sharps, Cat. Birds Brit. Mus., ii, 1875, 
 
- 224.— Brewster, Bull. Nutt. Om. Club, viii, 1883, 27 (Camp Lowell, Ari- 
+ 224.— Brewster, Bull. Nutt. Orn. Club, viii, 1883, 27 (Camp Lowell, Ari- 
 
  zona; descr. young, nest, and eggs, etc.). — ^American Ornithologists' 
 
@@ -121506,7 +121506,7 @@ Similar to M. whitneyi, but coloration much browner (the plumage
 
 
 
-BIEDS OF NORTH AND MIDDLE AMBBICA. 811 
+BIRDS OF NORTH AND MIDDLE AMBBICA. 811 
 
 
 
@@ -123036,9 +123036,9 @@ Strix cunicularia (not of Molina) Bonaparte, Ann. Lye. N. Y., ii, pt. i, 1826, 3
 
  1828, 435 (crit.); Am. Om., i, 1825, 68, pi. 7, fig. 2.— Swainson and Richard- 
 
- son, Fauna Bor.-Am., ii, 1831, 99, in text. — Ntjttall, Man. Om. U. S. and 
+ son, Fauna Bor.-Am., ii, 1831, 99, in text. — Ntjttall, Man. Orn. U. S. and 
 
- Can., Land Birds, 1832, 118; 2d ed., 1840, 123.— Audubon, Om. Biog., v, 
+ Can., Land Birds, 1832, 118; 2d ed., 1840, 123.— Audubon, Orn. Biog., v, 
 
  1839, 264, pi. 432. 
 
@@ -123091,7 +123091,7 @@ a These Louisiana birds possibly S. floridana.
 
  Oregon). — Ka.up, Trans. Zool. Soc. Lend., iv, 1859, 201. — Canfibld, Am. 
 
- Nat., ii, 1869, 583 (biogr.).— Cooper, Om. Calif., 1870, 437.— Grayson, 
+ Nat., ii, 1869, 583 (biogr.).— Cooper, Orn. Calif., 1870, 437.— Grayson, 
 
  Proc. Bost. Soc. N. H., xiv, 1872, 270 (Tres Marias Islands, w. Mexico). 
 
@@ -123161,7 +123161,7 @@ Athene hypugaea Baird, in Rep. Stansbury's Siu^. Great Salt Lake, 1852, 314
 
  Surv., xii, pt. ii, 1860, 157 (35 miles west of Ft. Kearney; Ft. Benton, 
 
- Montana) .^3ooPBR, Om. Calif., 1870, 448. 
+ Montana) .^3ooPBR, Orn. Calif., 1870, 448. 
 
 
 
@@ -123250,7 +123250,7 @@ N. H., ii, 1874, 297 (Tres Marias; Mazatlan, Sinaloa); Bull. U. S. Nat. Mus.,
 
 Speotyto cunicularia, y. hypogsea Ridoway, Field and Forest, ii, 1877, 21 (Colo- 
 
- rado); Om. Fortieth Parallel, 1877, 573 (Sacramento and San Francisco, Cali- 
+ rado); Orn. Fortieth Parallel, 1877, 573 (Sacramento and San Francisco, Cali- 
 
  fornia; Carson City, Nevada; etc.). — Belding, Proc. U. S. Nat. Mus., i, 1879, 
 
@@ -123266,7 +123266,7 @@ Speotyto cunicularia hypogsea Ridgway, Bull. Essex Inst., vii, Jan., 1875, 11, 1
 
  (near Frenchmans Creek and Sweet Grass HUls, Montana); Check List, 2d 
 
- ed., 1882, no. 487.— Nbhhling, Bull. Nutt. Om. Club, vii, 1882, 173 (s. e. 
+ ed., 1882, no. 487.— Nbhhling, Bull. Nutt. Orn. Club, vii, 1882, 173 (s. e. 
 
  Texas). — Belding, Proc. U. S. Nat. Mus., v, 1883, 543 (Cape San Lucas 
 
@@ -123804,7 +123804,7 @@ Soc. Lond., 1857, 231 (Santa Domingo; habits).
 
  Strix dominicensis Bryant, Proc. Best. Soc, N. H., xi, 1866, 90 (Santo Domingo). 
 
- Speotyto cunicularia dominicensis Cory, Bull. Nutt. Om. Club, vi, 1881, 154 
+ Speotyto cunicularia dominicensis Cory, Bull. Nutt. Orn. Club, vi, 1881, 154 
 
 
 
@@ -123812,7 +123812,7 @@ Soc. Lond., 1857, 231 (Santa Domingo; habits).
 
 
 
-Contr. Om. San Dom., 1896, 22. 
+Contr. Orn. San Dom., 1896, 22. 
 
  [Speotyto] cunicularia dominicensis Cory, List Birds West Ind., 1885, 21, part 
 
@@ -123964,7 +123964,7 @@ o Three specimens. No specimens with sex determined are available.
 
 
 
-BIEDS OF NORTH AND MIDDLE AMEBICA, 
+BIRDS OF NORTH AND MIDDLE AMEBICA, 
 
 
 
