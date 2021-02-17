@@ -10519,7 +10519,7 @@ Curvirostra americana (not Loxia americana Gmelin, 1788) Wilson, Am. Orn., iv,
 
 
 
-[Curvirostra] americana Codes, Key N.Am. Birds, 1872, 129, part. 
+[Curvirostra] americana Coues, Key N.Am. Birds, 1872, 129, part. 
 
 
 
@@ -16931,7 +16931,7 @@ WAY, Proc. U. S. Nat. Mus., iii, Aug. 24, 1880, 177; Norn. N. Am. B., 1881, no.
 
  JEgiothus flavirostris brewsteri Goode, Bull. U. S. Nat. Mus., no. 20, 1883, 305. 
 
- Linota flavirostris brewsteri Codes, Check List, 2d ed., 1882, no. 211. 
+ Linota flavirostris brewsteri Coues, Check List, 2d ed., 1882, no. 211. 
 
  L. [inoial flavirostris brewsteri f Coues, Key N. Am. Birds, 2d ed., 1884, 353. 
 
@@ -30704,7 +30704,7 @@ Passerculus sandvicensis alaudinus Coues, Check List, 2d ed., 1882, no. 229.
 
 
 
-P. \/isserculus\ s. [andvicensisl alaudinus Codes, Key N. Am. Birds, 2d ed. , 1884, 363. 
+P. \/isserculus\ s. [andvicensisl alaudinus Coues, Key N. Am. Birds, 2d ed. , 1884, 363. 
 
 
 
@@ -30978,7 +30978,7 @@ Passerculus sandvicensis anthinus CouES, Check List, 2d ed., 1882, no. 228, part
 
 
 
-P. [cmerculus'] s. [andvicensis] anthinus Codes, Key N. Aro. Birds, 2d ed., 1884, 363, 
+P. [cmerculus'] s. [andvicensis] anthinus Coues, Key N. Aro. Birds, 2d ed., 1884, 363, 
 
  part. 
 
@@ -31844,7 +31844,7 @@ Ammodramm bairdi Allen, Bull. Am. Mus. N. H., v, 1893, 38 (Nuevencha plain,
 
 
 
-Passerculus bairdii Codes, Am. Nat., vii, Nov., 1873, 697 (North Dakota). 
+Passerculus bairdii Coues, Am. Nat., vii, Nov., 1873, 697 (North Dakota). 
 
 
 
@@ -32671,7 +32671,7 @@ Coturniculus paBserinus . . var. perpallidus CouES, Clieck List, 1873, no. 162a.
 
 
 
-[Coturniculus passerinus] b. pierpallidus Codes, Birds N. W., 1874, 132 (synonymy). 
+[Coturniculus passerinus] b. pierpallidus Coues, Birds N. W., 1874, 132 (synonymy). 
 
 
 
@@ -32695,7 +32695,7 @@ Cotmnicuhis passerinus pei-paHiVius Ridgway, Bull. Essex Inst., vi, Oct., 1874, 
 
 
 
-C.[oturniculus p. [asserinusl perpallidus Codes, Key N. Am. Birds, 2d ed., 1884, 
+C.[oturniculus p. [asserinusl perpallidus Coues, Key N. Am. Birds, 2d ed., 1884, 
 
  366. 
 
@@ -38787,7 +38787,7 @@ P.leucxa] arizcmie Brewer, Ibis, Apr., 1878, 205, in text (Fort Brown, Texas).
 
 
 
-Peucsea ssstivalis arizonse Codes, Check List, 2d ed., 1882, no. 253. 
+Peucsea ssstivalis arizonse Coues, Check List, 2d ed., 1882, no. 253. 
 
 
 
@@ -43986,7 +43986,7 @@ StnUhxis caniceps Woodhouse, Proc. Ac. Nat. Sci. Phila., vi, Dec, 1852, 202 (San
 
  ("Birds N. Am."), atlas, pi. 72, fig. 1; Cat. N. Am. Birds, 1859, no. 353; in 
 
- Cooper's Orn. Cal., i, 1870, 201, part (includes /. dorsalis). — Codes, Proc. 
+ Cooper's Orn. Cal., i, 1870, 201, part (includes /. dorsalis). — Coues, Proc. 
 
  Ac. Nat. Sci. Phila., 1866, 85 (Fort Whipple, Arizona, winter; crit. ). — 
 
@@ -44065,7 +44065,7 @@ J. [u7ico'] caniceps Ridgway^, Man. N. Am. Birds, 1887, 423.
 
 
 
-[Juncol dnereus var. caniceps Codes, Key N. Am. Birds, 1872, 141. 
+[Juncol dnereus var. caniceps Coues, Key N. Am. Birds, 1872, 141. 
 
 
 
@@ -44117,7 +44117,7 @@ Junco hiemalis caniceps Coues, Check List, 2d ed., 1882, no. 265.
 
 
 
-J.luncol h.[iemalis} caniceps Codes, Key N. Am. Birds, 2d ed., 1884, 379. 
+J.luncol h.[iemalis} caniceps Coues, Key N. Am. Birds, 2d ed., 1884, 379. 
 
 
 
@@ -45579,7 +45579,7 @@ no. 177, part; 2d ed., 1882, no. 268, part; Birds N. W., 1874, 146, part; Bull.
 
 
 
-ISpizella] monticola Codes, Key N. Am. Birds, 1872, 142, part. 
+ISpizella] monticola Coues, Key N. Am. Birds, 1872, 142, part. 
 
 
 
@@ -49781,7 +49781,7 @@ Zonotrichia gambeli Henshaw, Rep. Orn. Spec. AVheeler's Surv., 1876, 242 (Mount
 
  Whitney, g. California, 2 specs. Sept. 1?).— Ridgway, Proc. U. S. Nat. Mus., 
 
- iii, 1880, 179; Nom. N. Am. Birds, 1881, no. 207.— Codes, Check List, 2d ed., 
+ iii, 1880, 179; Nom. N. Am. Birds, 1881, no. 207.— Coues, Check List, 2d ed., 
 
  1882, no. 278.— American Ornithologists' Union, Check List, 1886, no. 
 
@@ -54540,7 +54540,7 @@ Melospiza cinerea Finsch, Abh. Nat. Ver. Brem., iii, 1872, 20, 41 (Unalaska). �
 
  RIDGWAY, Proc. U. S. Nat. Mus., iii, 1880, 3 (crit), 180; Nom. N. Am. 
 
- Birds, 1881, no. 232.— Codes, Check List, 2d ed., 1882, no. 250; Key N. 
+ Birds, 1881, no. 232.— Coues, Check List, 2d ed., 1882, no. 250; Key N. 
 
  Am. Birds, 2d ed., 1884, 372.— Bean, Proc. U. S. Nat. :\lus., v, 1882, 154, part 
 
@@ -56368,7 +56368,7 @@ Passerella iliaca unalaschensii Coues, Clieck List, 2d ed., 1882, no. 283, part.
 
 
 
-P.lasserella'] i.[Uaca] vii.alaKivv.ii.s Codes, ICey N. Am. Birds, 2d ed., 1884, 
+P.lasserella'] i.[Uaca] vii.alaKivv.ii.s Coues, Key N. Am. Birds, 2d ed., 1884, 
 
 
 
@@ -59813,7 +59813,7 @@ Pipilo maculatus, var. megalonyx Baied, Brewer, and Ridgway, Hist. N. Am.
 
 
 
-[Pipilo maculatus var. arcficns'] d. megalonyx Codes, Birds N. W., 1874, 175 
+[Pipilo maculatus var. arcficns'] d. megalonyx Coues, Birds N. W., 1874, 175 
 
  (synonymy). 
 
@@ -83159,7 +83159,7 @@ Oyanospiza versicolor Baird, Eep. Pacific E. R. Surv., ix, 1858, 503 (Boquilla,-
 
 
 
-Passerina versicolor Codes, Bull. Nutt. Orn., v, Apr. 1880, 96; Check List, 2d ed.,. 
+Passerina versicolor Coues, Bull. Nutt. Orn., v, Apr. 1880, 96; Check List, 2d ed.,. 
 
  1882, no. 293.— Ridgway, Nom. N. Am. Birds, 1881, no. 250.— American 
 
@@ -83173,7 +83173,7 @@ Passerina versicolor Codes, Bull. Nutt. Orn., v, Apr. 1880, 96; Check List, 2d e
 
 
 
-P.lasserina] versicolor Codes, Key N. Am. Birds, 2d ed., 1884, 391. — Ridgway, 
+P.lasserina] versicolor Coues, Key N. Am. Birds, 2d ed., 1884, 391. — Ridgway, 
 
  Man. N. Am. Birds, 1887, 448. 
 
@@ -90649,7 +90649,7 @@ Cardinalu igneus Baird, Proc. Ac. Nat. Sci. Phila., Nov., 1859, 801, 304, 305 (C
 
 
 
-Cardinalis nrg'mianus var. igneus Codes, Check List, 1873, no. 203a, part. 
+Cardinalis nrg'mianus var. igneus Coues, Check List, 1873, no. 203a, part. 
 
 
 

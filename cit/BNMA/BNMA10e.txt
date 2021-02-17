@@ -2365,7 +2365,7 @@ Family Ckacidae: Curassows, Guans, and Chachalacas
 
 =Cracidae Sclater and Salvin, Nom. Av. Neotr., 1873, vii, 135. — Baird, Brewer, 
 
- and Ridgway, Hist. North Amer. Birds, iii, 1874, 397.— Codes, Key North 
+ and Ridgway, Hist. North Amer. Birds, iii, 1874, 397.— Coues, Key North 
 
  Amer. Birds, ed. 2, 1884, 572.— Elliot, Stand. Nat. Hist., iv, 1885, 229, 232, 
 
@@ -12270,11 +12270,11 @@ Dendragapus ohscurus richardsoni American Ornithologists' Union, Check-list,
 
 
 
-[Tetrao ohscurus'] var. richardsonii Codes, Key North Amer. Birds, 1872, 233, part. 
+[Tetrao ohscurus'] var. richardsonii Coues, Key North Amer. Birds, 1872, 233, part. 
 
 
 
-Tetrao ohscurus var. richardsonii Codes, Check List North Amer. Birds, 
+Tetrao ohscurus var. richardsonii Coues, Check List North Amer. Birds, 
 
 
 
@@ -12294,11 +12294,11 @@ Canace ohscura richardsonii Ridgway, Proc. U. S. Nat. Mus., iii, 1880, 196, part
 
 Canace ohscura richardsoni Ridgway, Nom. North Amer. Birds, 1881, No. 471b, 
 
- part. — Codes, Check List North Amer. Birds, ed. 2, 1882, No. 558, part. 
+ part. — Coues, Check List North Amer. Birds, ed. 2, 1882, No. 558, part. 
 
 
 
-C[anace] o[bscura] richardsoni Codes, Key North Amer. Birds, ed. 2, 1884, 579, 
+C[anace] o[bscura] richardsoni Coues, Key North Amer. Birds, ed. 2, 1884, 579, 
 
  part. 
 
@@ -41419,7 +41419,7 @@ COLINUS VIRGINIANUS INSULANUS Howe
 
 
 
-ICey West Bobwhite 
+Key West Bobwhite 
 
 
 

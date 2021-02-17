@@ -26,19 +26,29 @@
 #s/Cones/Coues/g
 #s/Oalcarius/Calcarius/g
 #2021/02/16
-s/ Om. / Orn. /g
-s/ vespcHina Codes/ vespertina Coues/
-s/ vespcHina/ vestpertina/g
-s/ Beewstee/ Bewster/g
-s/ resieriina/ vespertina/g
-s/ vcxpcrtina/ vespertina/g
-s/ vesperma/ vespertina/g
-s/ Gameel/ Gambel/g
-s/ gambelU/ gambelii/g
-s/FrimjiUii/Fringilla/g
-s/BIEDS OF/BIRDS OF/g
-s/ BoucARD/ Boucard/g
-s/leucolxma/leucolaema/g
-s/Agelxus/Aglaius/g
-s/phceniceus/phoeniceus/g
-s/phmniceus/phoeniceus/g
+#s/ Om. / Orn. /g
+#s/ vespcHina Codes/ vespertina Coues/
+#s/ vespcHina/ vestpertina/g
+#s/ Beewstee/ Bewster/g
+#s/ resieriina/ vespertina/g
+#s/ vcxpcrtina/ vespertina/g
+#s/ vesperma/ vespertina/g
+#s/ Gameel/ Gambel/g
+#s/ gambelU/ gambelii/g
+#s/FrimjiUii/Fringilla/g
+#s/BIEDS OF/BIRDS OF/g
+#s/ BoucARD/ Boucard/g
+#s/leucolxma/leucolaema/g
+#s/Agelxus/Aglaius/g
+#s/phceniceus/phoeniceus/g
+#s/phmniceus/phoeniceus/g
+#2021.02.17
+/Key/ s/Codes/Coues/g
+#/Birds N/ s/Codes/Coues/g
+#/Check/ s/Codes/Coues/g
+#/Am. Nat./ s/Codes/Coues/g
+#/Proc./ s/Codes/Coues/g
+/Birds Col./ s/Codes/Coues/g
+#s/ICey/Key/g
+#/Birds N\./ s/Codes/Coues/g
+s/Orn. Chib/Orn. Club/g

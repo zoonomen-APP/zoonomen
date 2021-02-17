@@ -6771,7 +6771,7 @@ Amer. Birds, 1859, No. 36; Ibis, 1872, 484, footnote (e. Kansas).— Barnard,
 Ann. Rep. Smiths. Inst, for 1860 (1861), 434 (Chester County, Pa.).— Salvin, 
 Ibis, 1861, 355 (Coban, Guatemala).— Schlegel, Mus. Pays-Bas, ii, No. 7, 
 livr. 2, 1863, 10 (monogr.); No. 36, livr. 10, 1873, 131 — Dresser, Ibis, 1865, 
-327 (s. Texas; habits).— Codes, Proc. Acad. Nat. Sci. Philadelphia, 1866, 49 
+327 (s. Texas; habits).— Coues, Proc. Acad. Nat. Sci. Philadelphia, 1866, 49 
 (Fort Whipple, Ariz.?) ;|Proc. Boston Soc. Nat. Hist., xii, 1868, 120 (South 
 Carolina); Key North Amer. Birds, 1872, 211; Check List North Amer. 
 Birds, 1873, No. 335; Bull. Nuttall Orn. Club, viii, 1883, 61 (Bluffton, S. C.; 
@@ -9539,7 +9539,7 @@ ix, 1858, 16.-— Brewer, North Amer. Ooh, i, 1857, 20, pi. 5, fig. 55.-— Bair
 Cat. North Amer. Birds, 1859, No. 15.— Verrill, Proc. Essex Inst., iii, 
 1862, 140 (Oxford County, Maine, summer vis.).— Lawrence, Ann. Lyc. 
 Nat. Hist. New York, viii, 1866, 280 (vicinity of New York City).— Cooper, 
-Orn. California, Land Birds, 1870, 464.— Codes, Key North Amer. Birds, 
+Orn. California, Land Birds, 1870, 464.— Coues, Key North Amer. Birds, 
 1872, 212.— Hatch, Bull. Minnesota Acad. Nat. Sci., 1874, 51 (Minnesota; 
 quite rare).— Henshaw, Ann. Lyc. Nat. Hist. New York, xi, 1874, 10 
 (Utah).— Boies, Cat. Birds Southern Michigan, 1875, No. 131 (s. Michigan; 
@@ -15351,7 +15351,7 @@ delphia, hi, 1846, 45 (California); Journ. Acad. Nat. Sci. Philadelphia i,
 
 288 BULLETIN 50, UNITED STATES NATIONAL MUSEUM 
 451.— Heerman, Journ. Acad. Nat. Sci. Philadelphia, ii, 1853, 259 (Cali¬ 
-fornia).-— -Codes, Key North Amer. Birds, 1872,216, part.— Sharpe, Cat. Birds 
+fornia).-— -Coues, Key North Amer. Birds, 1872,216, part.— Sharpe, Cat. Birds 
 Brit. Mus., i, 1874, 191, part (San Francisco, w. California; w. Mexico?).— 
 ?Beristain and Laurencio, Mem. y Rev. Soc. Cient. “Antonio Alzate,” 
 vii, 1894, 226 (w. Mexico).— DeMay, Condor, xliv, 1942, 229 (bones; Buena 
@@ -15375,7 +15375,7 @@ xxx, 1928, 272, in text (patronymics).— Grinnell, Univ. California Publ.
 Zool., xxxviii, 1932, 266 (type locality; crit.). 
 Buteo elegans ? Newberry, Rep. Pacific R. R. Surv., vi, pt. 4, Chapt. 2, 1857, 75 
 (n. California; s. Oregon). 
-Buteo lineatus elegans Codes, Check List North Amer. Birds, 1873, No. 352a; ed. 
+Buteo lineatus elegans Coues, Check List North Amer. Birds, 1873, No. 352a; ed. 
 2, 1882, No. 521; Key North Amer. Birds, ed. 2, 1884, 546.— Ridgway, in 
 Baird, Brewer, and Ridgway, Hist. North Amer. Birds, iii, 1874, 257 (diag¬ 
 nosis), 277; Bull. Essex Inst., vi, 1874, 172 (Sacramento Valley); Proc. U. S. 
@@ -26624,7 +26624,7 @@ ser. 2, 1875, 4.
 Stand. Nat. Hist., iv, 1884, 273, in text— Stejneger, Sci. Rec., ii, 1884.— 
 American Ornithologists’ Union, Check-list, 1886, 197. Ridgway, Orn. 
 Illinois, i, 1889, 426, 439.— Knowlton, Birds of World, 1909, 231. 
-*= Pandionidae Gurney, List Diurn. Birds Prey, 1884, xv, 112. Codes, Key 
+*= Pandionidae Gurney, List Diurn. Birds Prey, 1884, xv, 112. Coues, Key 
 North Amer. Birds, ed. 2, 1884, 498, 556.— Cope, Amen Nat,, xxiii, 1889, 
 872. —Salvin and Godman, Biol. Centr.-Amer., Aves, iii, 1897, iii, 39. 
 American Ornithologists’ Union, Check-list, ed. 3., 1910, 168. Dubois, 
@@ -35067,7 +35067,7 @@ No. 36, livr. 10, 1873, 37, part— Dresser, Ibis, 1865, 323 (s. Texas; breed¬
 ing on Medina River).— Sclater and Salvin, Proc. Zool. Soc. London, 
 1869, 252 (Maruria and Lake Velencia, Venezuela).— Stjndevall, Ofv. 
 Vet.-Akad. Forh., 1869, 601 (Porto Rico).— Finsch, Proc. Zool. Soc. 
-London, 1870, 556 (Trinidad; crit.).— Codes, Key North Amer. Birds, 1872, 
+London, 1870, 556 (Trinidad; crit.).— Coues, Key North Amer. Birds, 1872, 
 214, part; Check List North Amer. Birds, 1873, No. 344; ed. 2, 1882, No. 
 505, part; Key North Amer. Birds, ed. 2, 1884, 536, part.- Hatch, Bull. 
 Minnesota Acad. Nat. Sci., 1874, 50 (Minnesota; not abund., summer res.), 
@@ -35521,7 +35521,7 @@ Calif.).— Cooper and Stjckley, Rep. Pacific R. R. Surv., xii, book 2, pt. ,
 1860 142, part (California in Oct. and Nov.). Schlegel, Mus. ays- as, 
 ii No. 2, livr. 1, 1862, 19, part (monogr.); No. 36, livr. 10, 1873, 37, part.— 
 Blakiston, Ibis, 1863, 43 (nw. Canada; descr. nest).— Cooper, Orn. Ca i- 
-fornia, Land Birds, 1870, 460.— Codes, Key North Amer. Birds, 1872, 21, 
+fornia, Land Birds, 1870, 460.— Coues, Key North Amer. Birds, 1872, 21, 
 part; Check List North Amer. Birds, 1873, No. 344, part; Birds Northwest, 
 1874 345 part; Check List North Amer. Birds, ed. 2, 1882, No. o05, part, 
 Key North Amer. Birds, ed. 2, 1884, 536, part.-RmawAY, Bull Essex Inst., 
@@ -37537,7 +37537,7 @@ Birds, 1887, 252, part.— Bryant, Proc. California Acad. Sci., ser. 2, ii, 1889
 281, 282, part (Cape San Lucas district). 
 Falco ( Tinnunculus) sparverius var. sparverius Ridgway, in Baird, Brewer, and 
 Ridgway, Hist. North Amer. Birds, iii, 1874, 169, part (Cape San Lucas). 
-Falco sparverius a. sparverius Codes, Birds Northwest, 1874, 349, part. 
+Falco sparverius a. sparverius Coues, Birds Northwest, 1874, 349, part. 
 Falco sparverius peninsularis Mearns, Auk, ix, 1892, 257 (geogr. range), 267 (San 
 Jos<§, Lower California; coll. U. S. Nat. Mus.).— American Ornithologists’ 
 Union, Auk, x, 1893, 60 (Check-list, No. 360 b); Check-list, ed. 2, 1895, No. 
