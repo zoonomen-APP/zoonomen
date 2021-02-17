@@ -9195,7 +9195,7 @@ Muscicapa fascinans, Gray, Hand-l. B. i. p. 323, no. 4855.
 Adult. General colour above ashy brown, the upper tail-coverts 
 
 2. M. superciliosa (Wall.), Gray, Hand-l. B. i. p. 324, is Phylloscopus presbytis 
-(Miiller), ex Timor. Cf. Seebohm, 'Ibis,' 1877, p. 83. 
+(Muller), ex Timor. Cf. Seebohm, 'Ibis,' 1877, p. 83. 
 l2 
 
 
@@ -10578,7 +10578,7 @@ fig.l($).
 
 Gobe-mouche a gorge rousse du Senegal, Buff. PI. JSnl. v. pi. 567. 
 fig. 3($). 
-Muscicapa cyanea, P. L. S. Miiller, S. Nat. Suppl. p. 170; Cass. Pt\ 
+Muscicapa cyanea, P. L. S. Muller, S. Nat. Suppl. p. 170; Cass. Pt\ 
 Phil. Acad. 1864, p. 256. 
 
 Collared Flycatcher, Lath. Gen. Syn. ii. pt. 1, p. 330 ($). 
@@ -21704,7 +21704,7 @@ culmen 0*5, wing 2*75, tail 3-5, tarsus 0-8.
 
 Obs. On comparing the Salwati specimen with another from Banda 
 collected by Mr, Wallace, a difference in the forehead is observable. 
-The Banda bird, true B. squamata of Miiller, has a broad black forehead, 
+The Banda bird, true B. squamata of Muller, has a broad black forehead, 
 with a small spot of white above the fore part of the eye. In 
 the !N"ew-Gruinea individual the forehead is white, extending backwards 
 over the eye. The type of R. griseicauda, from "Waigiou, however, 
@@ -27258,7 +27258,7 @@ iig. 1; Bp. Ccmsp. i. p. 324.
 
 Muscicapa grammiceps, Gray, Hand-l B. i. p. 323, no. 4850* 
 
-Sylvia leucorrhoa, Blyth, i&w;1870,p. 169 («p MuUer, MS., in Mm, 
+Sylvia leucorrhoa, Blyth, i&w;1870,p. 169 («p Muller, MS., in Mm, 
 
 Lwjd.). 
 
@@ -30899,7 +30899,7 @@ tail 1*95, tarsus 0*8. {Mas. Lugd.)
 Hab. Island of Sumatra. 
 
 a. cT ad. sk. Singalong, Sumatia Leyden Museum [P.]. (One 
-{S. Miiller). of the typical specimens.) 
+{S. Muller). of the typical specimens.) 
 68. NILTAVA. 
 Type. 
 Niltava, Hodgs. Ind. "Review, i. p. 650 (1837) JS". sundara. 

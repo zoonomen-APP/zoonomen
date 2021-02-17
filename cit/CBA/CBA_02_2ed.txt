@@ -6204,7 +6204,7 @@ p. 150 (Type R. tucanus Linnaeus).
 
 
 
-Ramphastos toco MtJLLER, Syst. Nat. Suppl., 1776, p. 82 (Cayenne); GOULD, 
+Ramphastos toco Muller, Syst. Nat. Suppl., 1776, p. 82 (Cayenne); GOULD, 
 
  Mon. Ramphastidae, ed. I, 1834, pi. 6 and text; Id., ed. 2, 1854, pi. I and 
 
@@ -6419,7 +6419,7 @@ Range: Panama, southward in tropical zone of western Colombia
 
 
 
-*Ramphastos monilis Miiller. RED-BILLED TOUCAN. 
+*Ramphastos monilis Muller. RED-BILLED TOUCAN. 
 
 
 
@@ -7100,7 +7100,7 @@ Range: Brazil (from north coast to Rio de Janeiro).
 
 
 
-*Pteroglossus aracari atricollis (P. L. S. Miiller). b NORTHERN BLACK- 
+*Pteroglossus aracari atricollis (P. L. S. Muller). b NORTHERN BLACK- 
 
  NECKED ARACARI. 
 
@@ -12172,11 +12172,11 @@ Range: Western Colombia, Ecuador; north Peru?
 
 Monasa Vieillot, Analyse, 1816, p. 27 (Type Coucou noir de Cayenne Buffon 
 
- Cuculus tranguittus Gme\in = Cuculus niger Miiller). 
+ Cuculus tranguittus Gme\in = Cuculus niger Muller). 
 
 
 
-*Monasa niger (Miiller). BLACK NUN BIRD. 
+*Monasa niger (Muller). BLACK NUN BIRD. 
 
 
 
@@ -18930,7 +18930,7 @@ Crocomorphus Hargitt, Cat. Bds. Brit. Mus., XVIII, 1890, p. 439 (Type Picus
 
 
 
-"Crocomorphus flavus flavus (P. L. S. Miiller}. CHESTNUT- WINGED 
+"Crocomorphus flavus flavus (P. L. S. Muller}. CHESTNUT- WINGED 
 
  YELLOW WOODPECKER. 
 

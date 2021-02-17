@@ -4350,7 +4350,7 @@ Corpus cyanoleucus (not of Latham, 1801) Wied, Reise Bras., 2, p. 190, 1821
 
 
 
-Cortus tricolor (not of P. L. S. Miiller, 1776) Mikan, Del. Fl. Faun. Bras., 
+Cortus tricolor (not of P. L. S. Muller, 1776) Mikan, Del. Fl. Faun. Bras., 
 
  Part 2, pi. 10, 1822 Mattodentro, Ypanema, and Rio Verde (Sao Paulo), 
 
@@ -40146,7 +40146,7 @@ Santo Domingo. 1
 
 
 
-Turdus merle P. L. S. Miiller, Natursyst., Suppl., p. 139, 1776 based on 
+Turdus merle P. L. S. Muller, Natursyst., Suppl., p. 139, 1776 based on 
 
  Daubenton, PI. Enl., pi. 558, fig. 1; Santo Domingo. 
 
@@ -44036,7 +44036,7 @@ Genus ALLENIA Cory
 
 Allenia Cory, Auk, 8, p. 42, 1891 type, by orig. desig., Turdus montanus 
 
- Lafresnaye=Afu*ctcapa fusca P. L. S. Miiller. 
+ Lafresnaye=Afu*ctcapa fusca P. L. S. Muller. 
 
 
 
@@ -44966,7 +44966,7 @@ Gracula longirostra Pallas, Spic. Zool., fasc. 6, p. 5, pi. 2, fig. 2, 1769 Suri
 
 
 
-Turdus cyaneus P. L. S. Miiller, Natursyst., Suppl., p. 145, 1776 based on 
+Turdus cyaneus P. L. S. Muller, Natursyst., Suppl., p. 145, 1776 based on 
 
  "Merle a tgte noire, du Cap de Bonne Esperance" Daubenton, PI. Enl., 
 
@@ -45595,7 +45595,7 @@ Turdus migratorius Linnaeus, Syst. Nat., 12th ed., 1, p. 292, 1766 based on
 
 
 
-(?) Turdus canadensis P. L. S. Miiller, Natursyst., Suppl., p. 140, 1776 based 
+(?) Turdus canadensis P. L. S. Muller, Natursyst., Suppl., p. 140, 1776 based 
 
  on ("Le Merle de Canada" of Buffon, ex] Brisson, Orn., 2, p. 245, 1760 
 
@@ -46637,7 +46637,7 @@ Turdus assimilis assimilis Miller and Griscom, Amer. Mus. Nov., 184, p. 10,
 
 1 It appears that the combination Turdus tristis is preoccupied by an earlier 
 
- Turdus tristis P. L. S. Mtiller (Natursyst., Suppl., p. 145, 1776). Cf. Oberholser, 
+ Turdus tristis P. L. S. Muller (Natursyst., Suppl., p. 145, 1776). Cf. Oberholser, 
 
  Proc. Biol. Soc. Wash., 34, p. 106, 1921. 
 

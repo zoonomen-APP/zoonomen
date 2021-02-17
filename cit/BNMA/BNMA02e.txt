@@ -1140,7 +1140,7 @@ Key to the Species of Scolecophagus 245
 
 
 
-40. Scolecophagus carolinus (Miiller) 246- 
+40. Scolecophagus carolinus (Muller) 246- 
 
 
 
@@ -34233,7 +34233,7 @@ Scolecophagus Swainson, Fauna Bor. -Am., ii, 1831, 286, 494. (Type, Oriolus
 
 
 
-ferrugineus Gmelin,= Turdus carolinus Miiller.) 
+ferrugineus Gmelin,= Turdus carolinus Muller.) 
 
  Euphagus Cassin, Proc. Ac. Nat. Sci. Phila., xviii, Dec, 1866, 413. (Type, 
 
@@ -35104,7 +35104,7 @@ Qaiscalus purpureus (not of Woodhouse) Newberry, Rep. Pacific B. R. Surv.,
 
 
 
-Scolecophagus carolinus (not Turdus carolinus Miiller) Seton, Auk, iii, 1886, 
+Scolecophagus carolinus (not Turdus carolinus Muller) Seton, Auk, iii, 1886, 
 
  322 (Big Plain and Winnipeg, Manitoba, breeding). 
 
@@ -85319,7 +85319,7 @@ Sclater and Salvin, Proc. Zool. Soc. Lond., 1870, 836 (San Pedro, Hon-
 
 2-17). 
 
- Tardus citreus MtJLLER, Syst. Nat. Suppl., 1776, 141 (based on Petit Grioede St. 
+ Tardus citreus Muller, Syst. Nat. Suppl., 1776, 141 (based on Petit Grioede St. 
 
 
 
@@ -85974,7 +85974,7 @@ Seiurus noveboracensis Bonaparte, Geog. and Comp. List, 1838, 21. — Gossb, Bir
 
 
 
-^^SeQlecophagus carolinus (Mtiller), 
+^^SeQlecophagus carolinus (Muller), 
 
 
 

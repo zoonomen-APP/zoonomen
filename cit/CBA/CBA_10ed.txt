@@ -1646,7 +1646,7 @@ Cacicus cristatus Leotaud, Ois. Trinidad, p. 271, 1866 Trinidad.
 
 
 
-Cassicus citreus (not Oriolus citrius Miiller) Cassin, Proc. Acad. Nat. Sci. 
+Cassicus citreus (not Oriolus citrius Muller) Cassin, Proc. Acad. Nat. Sci. 
 
  Phila., 1867, p. 68 part, Trinidad. 
 
@@ -1761,7 +1761,7 @@ Goeldi, 8, p. 418, 1914 part, Amap& and Cunany, Brazil.
 
 1769 substitute name for Xanthornus d-ecumanus Pallas. 
 
- Oriolus citrius P. L. S. Mtiller, Natursyst., Suppl., p. 87, 1776 based on 
+ Oriolus citrius P. L. S. Muller, Natursyst., Suppl., p. 87, 1776 based on 
 
 
 
@@ -2707,7 +2707,7 @@ Ostinops alfredi (not Cassicus alfredi Des Murs) Taczanowski and Berlepsch,
 
 
 
-Psarocolius viridis (not Oriolus viridis P. L. S. Miiller) Wagler, Syst. Av., 
+Psarocolius viridis (not Oriolus viridis P. L. S. Muller) Wagler, Syst. Av., 
 
  1, fol. 22, sp. 1, 1827 part, "Juv. hornot.," Brazil. 
 
@@ -11891,7 +11891,7 @@ Scolecophagus (not of Geoffrey, 1795) Swainson, in Swainson and Richardson,
 
  Faun. Bor.-Amer., 2, pp. 286, 494, Feb., 1832 type, by orig. desig., 
 
- Oriolus ferrugineus Gmelin = Turdus carolinus P. L. S. Miiller (cf. Rich- 
+ Oriolus ferrugineus Gmelin = Turdus carolinus P. L. S. Muller (cf. Rich- 
 
  mond, Proc. Biol. Soc. Wash., 16, p. 128, 1903). 
 

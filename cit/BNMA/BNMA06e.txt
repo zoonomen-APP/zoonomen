@@ -655,7 +655,7 @@ Key to the Species and Subspecies of Oenlurus — Continued. 'P^b.
 
 
 
-46. Centurus striatus (Miiller) 98 
+46. Centurus striatus (Muller) 98 
 
 
 
@@ -1414,7 +1414,7 @@ Genus 1. Jacamerops Oken 362
 
 
 
-1. Jacamerops aurea (Mtiller) 362 
+1. Jacamerops aurea (Muller) 362 
 
 
 
@@ -4295,7 +4295,7 @@ Phlceotomus (p. 153).
 
 c Crocomorpkus Hargitt, Cat. Birds Brit. Mus., xviii, 1890, 439. (Type, Pieus 
 
- flaims Miiller.) Amazon Valley, Guianas, Venezuela, and Trinidad; two species. 
+ flaims Muller.) Amazon Valley, Guianas, Venezuela, and Trinidad; two species. 
 
 
 
@@ -16690,7 +16690,7 @@ Sojith-central and southwestern Mexico, in States of Puebla (Izucdr
 
 
 
-Picas elegans (not of Miiller, 1776 «) Swainson, PHlos. Mag., n. s., i, no. 6, June, 
+Picas elegans (not of Muller, 1776 «) Swainson, PHlos. Mag., n. s., i, no. 6, June, 
 
  1827, 439 ("Maritime land" [of Mexico]) = adult male). — Lesson, Compl. 
 
@@ -23618,7 +23618,7 @@ IMMACTTLATE WOODPECKER.
 
 
 
-Similar to G. elegans (Miiller)," but inner webs of remiges without 
+Similar to G. elegans (Muller)," but inner webs of remiges without 
 
  dusky bars (plain yellow) . 
 
@@ -51329,7 +51329,7 @@ With reference to C. aurantiicinctus, which seems to differ from C. aurantiivent
 
  Daubenton, PI. Enl., pi. 206, fig. 1). — Capito niger Marshall, Mon. Capit., 1871, 157, 
 
- pi. 63; Shelley, Cat. Birds Brit. Mus., xix, 1891, 111. — (7) Bucco maculatus MuUer, 
+ pi. 63; Shelley, Cat. Birds Brit. Mus., xix, 1891, 111. — (7) Bucco maculatus Muller, 
 
  Syst. Nat. Suppl., 1776, 89 (based on Daubenton, PI. Enl., pi. 206, fig. 2).— Bucco 
 
@@ -57637,13 +57637,13 @@ Jaeamerops " Oken, Isis, i,. 1817, 1148. (Type, Les Jacamerops Cuviei=Alcedo
 
 
 
-grandis Gmelin=^. aurea Mtiller.) 
+grandis Gmelin=^. aurea Muller.) 
 
  Lamprotila Swainson, Classif. Birds, ii, 1837, 336. (Type, L. platyrhyndia 
 
 
 
-SwB,iDBon= Alcedo aurea Miiller.) 
+SwB,iDBon= Alcedo aurea Muller.) 
 
  Lamproptila (emendation) AaAssiz, Nomencl. Zool., Aves (addenda), 1846, 12. 
 
@@ -57715,7 +57715,7 @@ Range. — Costa Rica to Amazon Valley. (Monotypic.)
 
 
 
-JACAMEROPS AUREA (Mtiller). 
+JACAMEROPS AUREA (Muller). 
 
 
 
@@ -57863,7 +57863,7 @@ Caribbean slope of Costa Rica (Carrillo; El Hogdr; Jimenez;
 
 
 
-Alcedo awrea MtJLLER, Syst. Nat. Suppl., 1776, 94 (Berbice, Dutch Guiana; based 
+Alcedo awrea Muller, Syst. Nat. Suppl., 1776, 94 (Berbice, Dutch Guiana; based 
 
  on Long-tailed Kingfisher, etc., Vosmaer, Beschr. Missch. Am. Langst. 
 

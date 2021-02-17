@@ -25506,7 +25506,7 @@ Demiegretta ruficollis Gundlach, Journ. Orn., 23, p. 303, 1875 Cuba (breed-
 
 
 
-Hydranassa tricolor (not Ardea tricolor P. L. S. Miiller) Sennett, Bull. U. S. 
+Hydranassa tricolor (not Ardea tricolor P. L. S. Muller) Sennett, Bull. U. S. 
 
  Geol. Geogr. Surv. Terr., 4, p. 60, 1878 Brownsville, Texas (breeding). 
 
@@ -25732,13 +25732,13 @@ Museum of Natural History, New York); Peters, Bds. World, 1, p. 113,
 
 
 
-*Hydranassa tricolor tricolor (P. L. S. Miiller). TRICOLORED 
+*Hydranassa tricolor tricolor (P. L. S. Muller). TRICOLORED 
 
  HERON. 
 
 
 
-Ardea tricolor P. L. S. Miiller, Natursyst., Suppl., p. Ill, 1776 based on 
+Ardea tricolor P. L. S. Muller, Natursyst., Suppl., p. Ill, 1776 based on 
 
 
 
@@ -36646,7 +36646,7 @@ for Branta Scopoli.
 
 
 
-*Branta bernicla hrota (0. F. Miiller). LIGHT-BELLIED BRANT. 
+*Branta bernicla hrota (0. F. Muller). LIGHT-BELLIED BRANT. 
 
 
 

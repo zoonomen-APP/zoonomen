@@ -1568,7 +1568,7 @@ Jacamerops Lesson, Traite d'Orn., livr. 3, 1830, p. 234. Type,
 
  by monotypy, Alcedo grandis Gmelin = Alcedo aurea P. L. S. 
 
- Miiller. 
+ Muller. 
 
 
 
@@ -1596,11 +1596,11 @@ Caribbean slope of Costa Rica, Panama (both slopes) and west-
 
 
 
-Jacamerops aurea aurea (P. L. S. Miiller) 
+Jacamerops aurea aurea (P. L. S. Muller) 
 
 
 
-Alcedo aurea P. L. S. Miiller, Natursyst., Suppl., 1776, p. 94. 
+Alcedo aurea P. L. S. Muller, Natursyst., Suppl., 1776, p. 94. 
 
 
 
@@ -3100,7 +3100,7 @@ Monasa atra (Boddaert)
 
 
 
-Cuculus niger P. L. S. Miiller, Natursyst., Suppl., 1776, p. 90. 
+Cuculus niger P. L. S. Muller, Natursyst., Suppl., 1776, p. 90. 
 
 
 
@@ -3586,11 +3586,11 @@ Tropical zone of the Pacific Coast of Colombia; five specimens
 
 
 
-Capito niger niger (P. L. S. Miiller) 
+Capito niger niger (P. L. S. Muller) 
 
 
 
-Bucco niger P. L. S. Miiller, Natursyst., SuppL, 1776, p. 89. 
+Bucco niger P. L. S. Muller, Natursyst., SuppL, 1776, p. 89. 
 
  (No locality i=: Cayenne, ex Buffon.) 
 
@@ -4126,7 +4126,7 @@ Central Peru (Chanchamayo) intergrading with E. v. versicolor
 
 
 
-Eubucco versicolor versicolor (P.L.S. Miiller) 
+Eubucco versicolor versicolor (P.L.S. Muller) 
 
 
 
@@ -4243,7 +4243,7 @@ Genus PSILOPOGON S. Muller
 
 
 
-Psilopogon S. Miiller, Tijdschr. Nat. Gesch. en Phys., 2, 1835, 
+Psilopogon S. Muller, Tijdschr. Nat. Gesch. en Phys., 2, 1835, 
 
  p. 339. Type, by monotypy, Psilopogon pyrolophus S. Miil- 
 
@@ -4257,7 +4257,7 @@ c/. Chasen, Bull. Raffles Mus., no. 11, 1935, p. 140.
 
 
 
-Psilopogon pyrolophus S. Miiller 
+Psilopogon pyrolophus S. Muller 
 
 
 
@@ -4907,11 +4907,11 @@ States.)
 
 
 
-Megalaima oorti ocrti (S. Miiller) 
+Megalaima oorti ocrti (S. Muller) 
 
 
 
-Bucco Oorti S. Miiller, Tijdschr. Nat. Gesch. en Phys., 2, 1835, 
+Bucco Oorti S. Muller, Tijdschr. Nat. Gesch. en Phys., 2, 1835, 
 
 
 
@@ -5447,9 +5447,9 @@ Bucco roseus Dumont, Diet. Sci. Nat., ed. Levrault, 4, 1816,
 
  Java and Bali. 
 
- Megalaima haemacephala haemacephala (P. L. S. Miiller) 
+ Megalaima haemacephala haemacephala (P. L. S. Muller) 
 
- Bucco haemacephalus P. L. S. Miiller, Natursyst., Suppl., 1776, 
+ Bucco haemacephalus P. L. S. Muller, Natursyst., Suppl., 1776, 
 
 
 
@@ -10037,7 +10037,7 @@ Pteroglossus aracari atricollis (P. L. S. Muller)
 
 
 
-Ramphastos atricollis P. L. S. Miiller, Natursyst., Suppl., 1776, 
+Ramphastos atricollis P. L. S. Muller, Natursyst., Suppl., 1776, 
 
 
 
@@ -11196,11 +11196,11 @@ Bolivia.)
 
 
 
-Ramphastos toco toco P. L. S. Miiller 
+Ramphastos toco toco P. L. S. Muller 
 
 
 
-Ramphastos Toco P. L. S. Miiller, Natursyst., Suppl., 1776, 
+Ramphastos Toco P. L. S. Muller, Natursyst., Suppl., 1776, 
 
  p. 82. (Cayenne, ex Buffon.) 
 
@@ -15825,7 +15825,7 @@ Crocomorphus Hargitt, Cat. Bds. Brit. Mus., 18, 1890, p. xiv, 6
 
  (in key), 439. Type, by original designation, C. flavus = 
 
- Picus flavus Miiller. 
+ Picus flavus Muller. 
 
 
 
@@ -16081,9 +16081,9 @@ parts of British Guiana.
 
 
 
-Celeus elegans elegans (P.L.S. Miiller) 
+Celeus elegans elegans (P.L.S. Muller) 
 
- Picus elegans P.L.S. MuUer, Natursyst., Suppl., 1776, p. 92. 
+ Picus elegans P.L.S. Muller, Natursyst., Suppl., 1776, p. 92. 
 
 
 
@@ -16361,9 +16361,9 @@ Liege, 2, 1845, p. 69. (Brazil.)
 
 
 
-Celeus flavus flavus (P.L.S. Miiller) 
+Celeus flavus flavus (P.L.S. Muller) 
 
- Picus flavus P.L.S. Miiller, Natursyst., Suppl., 1776, p. 91. 
+ Picus flavus P.L.S. Muller, Natursyst., Suppl., 1776, p. 91. 
 
  (Cayenne.) 
 
@@ -17317,7 +17317,7 @@ p. 1000. (Arakan.)
 
 
 
-Picus viridanus weberi (Miiller) 
+Picus viridanus weberi (Muller) 
 
 
 
@@ -20328,7 +20328,7 @@ Swainson.
 
 
 
-Miiller. 
+Muller. 
 
  ^ The plate is lettered "L. Woodpecker". 
 
@@ -21139,9 +21139,9 @@ Picus radiolatus Wagler, Syst. Av., 1827, Picus, sp. 39.
 
 
 
-Melanerpes striatus (P. L. S. Miiller) 
+Melanerpes striatus (P. L. S. Muller) 
 
- Picas [sic] striatus P. L. S. Miiller, Natursyst., Suppl, 1776, 
+ Picas [sic] striatus P. L. S. Muller, Natursyst., Suppl, 1776, 
 
 
 
@@ -27953,7 +27953,7 @@ Mesopicos Malherbe, Mem. Acad. Nat. Metz, 30, 1848-49
 
 
 
-goertans Gm. r= Picus goertae P. L. S. Miiller. (G. R. Gray, 
+goertans Gm. r= Picus goertae P. L. S. Muller. (G. R. Gray, 
 
 
 
@@ -28002,9 +28002,9 @@ French West Africa (Timbuktu) through Air and Lake Chad
 
 
 
-Mesopicos goertae goertae (P. L. S. Miiller) 
+Mesopicos goertae goertae (P. L. S. Muller) 
 
- Picus Goertae P. L. S. Miiller, Natursyst., Suppl., 1776, p. 91. 
+ Picus Goertae P. L. S. Muller, Natursyst., Suppl., 1776, p. 91. 
 
 
 

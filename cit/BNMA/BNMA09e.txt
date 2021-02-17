@@ -2715,7 +2715,7 @@ Orus hoy tana Sca^ATEB, Proc. Zool. Soc. London, 1857, 8 (crit).
 
 
 
-(?) Ardea (Grus) buccinator Mtjllee, Syst. Nat., Suppl., 1776, 110 (America; 
+(?) Ardea (Grus) buccinator Muller, Syst. Nat., Suppl., 1776, 110 (America; 
 
  based on Buffon and Boddaert). 
 
@@ -3352,7 +3352,7 @@ Orus frateroulus Cassin, in Balrd, Rep. Pacific R. R. Surv., ix, 1858, 656 (Albu
 
 [Orus'\ fraterculus Gray, Hand-list, iii, 1871, 24, No. 10084. 
 
- Orus mexicana (not Ardea mexicana Miiller) Beyant, Proc. California Acad. 
+ Orus mexicana (not Ardea mexicana Muller) Beyant, Proc. California Acad. 
 
  Sei., ser. 2, ii, 1889, 270 (Tia Juana Valley, Lower California).— Wayne, Auk, 
 
@@ -4272,7 +4272,7 @@ Nat. Cuba, i, 1865-66, 347.
 
 Beewee, Proc. Boston Soc. Nat. Hist., vii, 1860, 808 (Cuba). 
 
- lOrus] mexicana (not Ardea (Cirus) mexicmm Miiller) Cory, List Birds West 
+ lOrus] mexicana (not Ardea (Cirus) mexicmm Muller) Cory, List Birds West 
 
 
 
@@ -17482,7 +17482,7 @@ Journ. fur Orn., Ixxv, 1927, 266 (Helgoland banding records).— Pou,, Verb.
 
  habits).— ScHiEHMANN, Journ. fur Orn., Ixxviii, 1930, 154 (population density 
 
- in breeding season).— Mulleb, Verh. Orn. Ges. Bay., xix, 1930, 85, 572 (Lake 
+ in breeding season).— Muller, Verh. Orn. Ges. Bay., xix, 1930, 85, 572 (Lake 
 
  Naising Bavaria; habits). — Bannebman, Birds Trop. West Africa, ii, 1931^ 
 
@@ -19609,7 +19609,7 @@ Scl&ter and Salvin, 1869, Rallus cayennensis Gmelin=iJ. cayanensis Bod-
 
 
 
-daert=iJ. viridis Miiller.) 
+daert=iJ. viridis Muller.) 
 
  ErythroUmnas Heine, in Heine and Reichenow, Nom. Mus. Hein. Orn., 1890, 
 

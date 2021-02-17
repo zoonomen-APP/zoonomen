@@ -946,7 +946,7 @@ Key to the Species of Brotogeris 183
 
 
 
-36. Brotogeris jugularis (Miiller) 183 
+36. Brotogeris jugularis (Muller) 183 
 
 
 
@@ -1042,11 +1042,11 @@ Key to the Species and Subspecies of Amazona 218
 
 
 
-50. Amazona versicolor (Miiller) , 227 
+50. Amazona versicolor (Muller) , 227 
 
 
 
-51. Amazona arausiaca (Miiller) 229 
+51. Amazona arausiaca (Muller) 229 
 
 
 
@@ -28894,7 +28894,7 @@ Brotogeris tuipara (extralimital).e
 
 
 
-BROTOGERIS JUGULARIS (Mtiller). 
+BROTOGERIS JUGULARIS (Muller). 
 
 
 
@@ -29360,7 +29360,7 @@ Southwestern Mexico, in States of Guerrero (Acapulco), Oaxaca
 
 
 
-Psittacus jugularis Mulleb, Syst. Nat. Suppl., 1776, 80 ("America"; based on 
+Psittacus jugularis Muller, Syst. Nat. Suppl., 1776, 80 ("America"; based on 
 
  Petit Perruche & gorge jaune d'Amerigue Daubenton, PI. Enl., pi. 190, fig. 1). — 
 
@@ -31689,7 +31689,7 @@ Pyrilia caica, young (extralimital).
 
 
 
-& Psittacus histrio (not of Miiller, 1776) Boddaert, Tabl. PI. Enl., 1783, 46 (Cayenne; 
+& Psittacus histrio (not of Muller, 1776) Boddaert, Tabl. PI. Enl., 1783, 46 (Cayenne; 
 
  based on Perruche a tUe noir, de Cayenne Daubenton, PL Enl., pi. 744). — Caica histrio 
 
@@ -35560,7 +35560,7 @@ Psitt., 1882, 220; Vogelbild., 1883, Nachtr. 127.
 
 
 
-AMAZONA VERSICOLOR (Mtiller). 
+AMAZONA VERSICOLOR (Muller). 
 
 
 
@@ -35828,7 +35828,7 @@ Allen, Bull. Nutt. Orn. Club, v, 1880, 169 (Santa Lucia).
 
 
 
-AMAZONA ARAUSIACA (Mtiller). 
+AMAZONA ARAUSIACA (Muller). 
 
 
 
@@ -41134,7 +41134,7 @@ Amazona vittata gracilipes Ridgway, Proc. Biol. Soc. Wash., xxviii, May 27, 1915
 
 
 
-AMAZONA VENTRALIS (Mtiller). 
+AMAZONA VENTRALIS (Muller). 
 
 
 
@@ -41935,7 +41935,7 @@ no. cxviii, Nov. 1, 1905, 15.
 
 418, in text (measurements, etc.). 
 
- Psittacus gutturalis Mvlier, Syst. Nat. Suppl., 1776, 79 ("Martinique"; based on 
+ Psittacus gutturalis Muller, Syst. Nat. Suppl., 1776, 79 ("Martinique"; based on 
 
 
 

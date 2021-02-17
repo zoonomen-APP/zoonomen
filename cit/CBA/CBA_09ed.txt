@@ -1251,7 +1251,7 @@ Acrocompsa Cabanis, Journ. Orn., 9, pp. 88, 89, 1861 type, by subs, desig.
 
 
 
-Tanagra viridis (not of P. L. S. Mtiller, 1776) Vieillot, Nouv. Diet. Hist. 
+Tanagra viridis (not of P. L. S. Muller, 1776) Vieillot, Nouv. Diet. Hist. 
 
 
 
@@ -2763,7 +2763,7 @@ Additional material examined. Trinidad, 1 (type of P. cyanocephala).
 
 
 
-Pipra cyanocephala (not Tanagra cyanocephala P. L. S. Miiller, 1776) Vieillot, 
+Pipra cyanocephala (not Tanagra cyanocephala P. L. S. Muller, 1776) Vieillot, 
 
 
 
@@ -5502,7 +5502,7 @@ Tanagra chlorotica Linnaeus, Syst. Nat., 12th ed., 1, p. 317, 1766 based
 
 
 
-Tanagra elegans P. L. S. Miiller, Natursyst., Suppl., p. 160, 1776 based on 
+Tanagra elegans P. L. S. Muller, Natursyst., Suppl., p. 160, 1776 based on 
 
  "Tangara, de Cayenne" Daubenton, PI. Enl., pi. 114, fig. 1 (male adult). 
 
@@ -9425,7 +9425,7 @@ Motacilla velia Linnaeus, Syst. Nat., 10th ed., 1, p. 188, 1758 based on
 
 
 
-Tanagra varia (not of P. L. S. Miiller, 1776) Stephens, in Shaw, Gen. Zool., 
+Tanagra varia (not of P. L. S. Muller, 1776) Stephens, in Shaw, Gen. Zool., 
 
  14, (1), p. 7, 1826 based on Motacilla velia Desmarest, Hist. Nat. Tang., 
 
@@ -10840,7 +10840,7 @@ Calliste (not Callista Poli, 1791) Boie, Isis, 1826, p. 974 type, by virtual
 
 
 
-monotypy, Tanagra tricolor Gme\in=Tanagra seledon P. L. S. Miiller. 
+monotypy, Tanagra tricolor Gme\in=Tanagra seledon P. L. S. Muller. 
 
  Aglaia (not of Renier, 1804) Swainson, Zool. Journ., 3, p. 347, 1827 type, 
 
@@ -10852,7 +10852,7 @@ by orig. desig., Tanagra tatao auct.=Af/Zai'a paradisea Swainson.
 
 
 
-Tanagra tricolor Gme\m=Tanagra seledon P. L. S. Miiller. 
+Tanagra tricolor Gme\m=Tanagra seledon P. L. S. Muller. 
 
  Procnopis Cabanis, 2 Arch. Naturg., 10, (1), p. 284, 1844 type, by orig. 
 
@@ -11051,7 +11051,7 @@ Range. French and Dutch Guiana, and northern Brazil
 
 
 
-Tanagra viridis P. L. S. Miiller (Natursyst., Suppl., p. 158, 1776) is based on 
+Tanagra viridis P. L. S. Muller (Natursyst., Suppl., p. 158, 1776) is based on 
 
  "Tangara" Daubenton, PI. Enl., pi. 7, fig. 1, an artifact composed of the body of 
 
@@ -11628,7 +11628,7 @@ Range. Eastern Brazil, in State of Pernambuco (Macuca;
 
 
 
-Tanagra seledon P. L. S. Miiller, 1 Natursyst., Suppl., p. 158, 1776 based on 
+Tanagra seledon P. L. S. Muller, 1 Natursyst., Suppl., p. 158, 1776 based on 
 
  "Tangara varie a tete verte de Cayenne" Daubenton, PI. Enl., pi. 33, 
 
@@ -11696,7 +11696,7 @@ Calliste tricolor Bonaparte, Consp. Gen. Av., 1, (1), p. 234, 1850 Brazil;
 
 
 
-1 Although Miiller's description is faulty ("der Riicken, die Kehle und der 
+1 Although Muller's description is faulty ("der Riicken, die Kehle und der 
 
  Burzel sind gelb") as in other cases where similar evidences for the author's care- 
 
@@ -11763,13 +11763,13 @@ Range. Wooded region of southeastern Brazil, from southern
 
 
 
-*Calospiza cyanocephala cyanocephala (P. L. S. Miiller). RED- 
+*Calospiza cyanocephala cyanocephala (P. L. S. Muller). RED- 
 
  NECKED TANAGER. 
 
 
 
-Tanagra cyanocephala P. L. S. Miiller, Natursyst., Suppl., p. 159, 1776 
+Tanagra cyanocephala P. L. S. Muller, Natursyst., Suppl., p. 159, 1776 
 
  based on "Tangara varie a tte bleue de Cayenne" Daubenton, PI. Enl., 
 
@@ -13752,11 +13752,11 @@ Range. Tropical zone of Costa Rica (Caribbean slope and
 
 
 
-Calospiza varia (P. L. S. Miiller). SMALL SPOTTED TANAGER. 
+Calospiza varia (P. L. S. Muller). SMALL SPOTTED TANAGER. 
 
 
 
-Tanagra varia P. L. S. Miiller, Natursyst., Suppl., p. 158, 1776 based on 
+Tanagra varia P. L. S. Muller, Natursyst., Suppl., p. 158, 1776 based on 
 
 
 
@@ -20837,7 +20837,7 @@ Fringilla autumnalis Linnaeus, Syst. Nat., 12th ed., 1, p. 320, 1766 Surinam
 
 
 
-Tanagra mitrata P. L. S. Miiller, Natursyst., Suppl., p. 159, 1776 based on 
+Tanagra mitrata P. L. S. Muller, Natursyst., Suppl., p. 159, 1776 based on 
 
  "Tangara a tete rousse, de Cayenne"; Daubenton, PL Enl., pi. 290, fig. 7. 
 
@@ -30200,7 +30200,7 @@ Range. Subtropical zone of Bolivia (Yungas of La Paz), eastern
 
 1 This renaming is unwarranted, since Aglaia cyanocephala Lafr. and d'Orb . 
 
- is not affected by the earlier Tanagra cyanocephala P. L. S. Miiller, 1776, which 
+ is not affected by the earlier Tanagra cyanocephala P. L. S. Muller, 1776, which 
 
  pertains to an entirely different genus (Calospiza). 
 
@@ -31819,7 +31819,7 @@ Tanagra bresilia Linnaeus, Syst. Nat., 12th ed., 1, p. 314, 1766 based on
 
 
 
-*To this genus probably belong Loxia laticauda P. L. S. Miiller (Natursyst., 
+*To this genus probably belong Loxia laticauda P. L. S. Muller (Natursyst., 
 
  Suppl, p. 151, 1776), Loxia flabellum Boddaert (Tabl. PI. Enl., p. 23, 1783), and 
 
@@ -32582,7 +32582,7 @@ pi. 267 (Surinam); Lanius carbo Pallas; and "Jacapu" Marcgrave, Hist.
 
 
 
-Tanagra pompadura P. L. S. Miiller, Natursyst., Suppl., p. 159, 1776 based on 
+Tanagra pompadura P. L. S. Muller, Natursyst., Suppl., p. 159, 1776 based on 
 
  "Tangara pourpr6, de Cayenne" Daubenton, PI. Enl., pi. 128, fig. 1. 
 
@@ -45913,7 +45913,7 @@ Range. Gonave Island, off Haiti (Hispaniola), Greater Antilles.
 
  pi. 273, fig. 1), whose only source is "Le Merle olive de S. Domingue" of Brisson 
 
- (Orn., 2, p. 296, pi. 27, fig. 2), and upon which Turdus indicus P. L. S. Miiller 
+ (Orn., 2, p. 296, pi. 27, fig. 2), and upon which Turdus indicus P. L. S. Muller 
 
  (Natursyst., Suppl., p. 145, 1776) as well as Turdus virens Boddaert (Tabl. PI. 
 

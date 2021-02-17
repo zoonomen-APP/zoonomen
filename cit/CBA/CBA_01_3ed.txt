@@ -6162,13 +6162,13 @@ Range. Breeds in Iceland, the Faroes, northern Scandinavia
 
 
 
-*Pluvialis dominica dominica (P. L. S. Miiller). AMERICAN 
+*Pluvialis dominica dominica (P. L. S. Muller). AMERICAN 
 
  GOLDEN PLOVER. 
 
 
 
-Charadrius dominicus P. L. S. Miiller, Natursyst., Suppl., p. 116, 1776 
+Charadrius dominicus P. L. S. Muller, Natursyst., Suppl., p. 116, 1776 
 
  based on "Le Pluvier dore, de Saint-Domingue" Brisson, Orn., 5, p. 48, 
 
@@ -6701,7 +6701,7 @@ Charadrius dominions fulvus Nelson, Nat. Hist. Coll. Alaska, 3, p. 125, 1887
 
 
 
-Charadrius dominicus (not of Miiller) Sharpe, Cat. Bds. Brit. Mus., 24, 
+Charadrius dominicus (not of Muller) Sharpe, Cat. Bds. Brit. Mus., 24, 
 
  pp. 195, 738, 1896 (in part; monog.; full bibliog.). 
 
@@ -16615,7 +16615,7 @@ Tringa Morinella Linnaeus, Syst. Nat., 12th ed., 1, p. 249, 1766 based on
 
 
 
-Tringa hudsonica P. L. S. Miiller, Natursyst., Suppl., p. 114, 1776 based on 
+Tringa hudsonica P. L. S. Muller, Natursyst., Suppl., p. 114, 1776 based on 
 
  "The Turnstone from Hudson's Bay" Edwards, Nat. Hist. Birds, 3, 
 
@@ -25090,13 +25090,13 @@ Hypsibates Nitzsch, in Ersch and Gruber, Allg. Encycl. Wiss., 16, sec. 1,
 
 
 
-*Himantopus himantopus mexicanus (P. L. S. Miiller). BLACK- 
+*Himantopus himantopus mexicanus (P. L. S. Muller). BLACK- 
 
  NECKED STILT. 
 
 
 
-Charadrius mexicanus P. L. S. Miiller, Natursyst., Suppl., p. 117, 1776 
+Charadrius mexicanus P. L. S. Muller, Natursyst., Suppl., p. 117, 1776 
 
  based on "L'Echasse du Mexique" Brisson, Orn., 5, p. 36, 1760, Mexico 
 
@@ -25625,7 +25625,7 @@ Matto Grosso (Caicara, Pansecco); Reed, Anal. Univ. Chile, 49, p. 567,
 
  Santiago, Chile. 
 
- Himantopus mexicanus (not Charadrius mexicamis Miiller) Sanzin, El Hornero, 
+ Himantopus mexicanus (not Charadrius mexicamis Muller) Sanzin, El Hornero, 
 
 
 
@@ -30277,7 +30277,7 @@ Larus eburneus Phipps, Voy. North Pole, App., p. 187, 1774 coast of Spitz-
 
 
 
-Larus candidus 0. F. Miiller, Zool. Dan. Prodr., p. viii, 1776 Greenland. 
+Larus candidus 0. F. Muller, Zool. Dan. Prodr., p. viii, 1776 Greenland. 
 
 
 
@@ -34181,7 +34181,7 @@ Larus naevius Linnaeus, Syst. Nat., 12th ed., 1, p. 225, 1766 based on
 
 
 
-Larus albus (not of Gunnerus, 1767) P. L. S. Miiller, Natursyst., Suppl., 
+Larus albus (not of Gunnerus, 1767) P. L. S. Muller, Natursyst., Suppl., 
 
  p. 104, 1776 based on "Mouette cendree tachetee" Daubenton, PI. Enl., 
 
@@ -43249,7 +43249,7 @@ Alca tetracula Pallas, Spicil. Zool., fasc. 5, p. 24, pi. 4, and pi. 5, figs. 10
 
 
 
-Alca cristata P. L. S. Miiller, Natursyst., Suppl., p. 104, 1776 based on 
+Alca cristata P. L. S. Muller, Natursyst., Suppl., p. 104, 1776 based on 
 
  Pallas, Spicil. Zool., fasc. 5, pi. 3. 
 

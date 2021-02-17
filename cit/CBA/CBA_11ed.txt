@@ -1475,7 +1475,7 @@ Subfamily RICHMONDENINAE. Cardinals and Allies
 
 Saltator Vieillot, Analyse Nouv. Orn. Elem., p. 32, April, 1816 type, by 
 
- monotypy, "Grand Tangara, Buffon" = Tanagra maxima P. L. S. Miiller. 
+ monotypy, "Grand Tangara, Buffon" = Tanagra maxima P. L. S. Muller. 
 
 
 
@@ -2110,7 +2110,7 @@ Range. Tropical zone of extreme eastern Panama (Cana,
 
 
 
-*Saltator maximus maximus (P. L. S. Miiller). 3 LESSER BUFF- 
+*Saltator maximus maximus (P. L. S. Muller). 3 LESSER BUFF- 
 
  THROATED SALTATOR. 
 
@@ -2148,7 +2148,7 @@ Range. Tropical zone of extreme eastern Panama (Cana,
 
  plate of the Cayenne bird," and reject it as unidentifiable, while pi. 205, the basis 
 
- of Miiller's description, unquestionably refers to the present species. 
+ of Muller's description, unquestionably refers to the present species. 
 
 
 
@@ -2157,7 +2157,7 @@ Range. Tropical zone of extreme eastern Panama (Cana,
 
 
 
-Tanagra maxima P. L. S. Miiller, Natursyst., Suppl., p. 159, 1776 based on 
+Tanagra maxima P. L. S. Muller, Natursyst., Suppl., p. 159, 1776 based on 
 
  "Tangara, des grands bois de Cayenne" Daubenton, PL Enl., pi. 205; 
 
@@ -2618,7 +2618,7 @@ Saltator similis similis Hellmayr, Verh. Orn. Ges. Bayern, 12, p. 133, 1915
 
 
 
-Saltator maximus (not Tanagra maxima P. L. S. Miiller) Ihering, Rev. Mus. 
+Saltator maximus (not Tanagra maxima P. L. S. Muller) Ihering, Rev. Mus. 
 
  Paul., 5, p. 266, 1902 Iguape", Sao Paulo. 
 
@@ -8541,7 +8541,7 @@ Tanagra gularis Linnaeus, Syst. Nat., 12th ed., 1, p. 316, 1766 based on
 
 
 
-Tanagra fusca P. L. S. Miiller, Natursyst., Suppl., p. 159, 1776 based on 
+Tanagra fusca P. L. S. Muller, Natursyst., Suppl., p. 159, 1776 based on 
 
  "Tangara brun, d'Amerique" Daubenton, PI. Enl., pi. 155, fig. 2; [French] 
 
@@ -11496,7 +11496,7 @@ Loxia ludoviciana Linnaeus, Syst. Nat., 12th ed., 1, p. 306, 1766 based on
 
 
 
-Loxia rubricollis P. L. S. Miiller, Natursyst., Suppl., p. 151, 1776 based on 
+Loxia rubricollis P. L. S. Muller, Natursyst., Suppl., p. 151, 1776 based on 
 
  "Gros-bec de la Louisiane" Daubenton, PI. Enl., pi. 152, fig. 2. 
 
@@ -14800,7 +14800,7 @@ Carolina, not nearer than 150 miles from the sea= South Carolina.
 
 (type in coll. of F. Jacquin). 
 
- Loxia papa P. L. S. Mliller, Natursyst., Suppl., p. 152, 1776 based on "Le 
+ Loxia papa P. L. S. Muller, Natursyst., Suppl., p. 152, 1776 based on "Le 
 
 
 
@@ -20537,7 +20537,7 @@ Carpodacus mexicanus nigrescens Griscom, Amer. Mus. Novit., 293, p. 5,
 
 
 
-Carpodacus mexicanus mexicanus (not Fringilla mexicana Miiller) Ridgway, 
+Carpodacus mexicanus mexicanus (not Fringilla mexicana Muller) Ridgway, 
 
  Bull. U. S. Nat. Mus., 50, Part 1, p. 131, 1901 part, Tamaulipas (Miqui- 
 
@@ -20640,13 +20640,13 @@ Range. Western Mexico, from Sonora south to Colima and
 
 
 
-Carpodacus mexicanus mexicanus (P. L. S. Miiller). MEXICAN 
+Carpodacus mexicanus mexicanus (P. L. S. Muller). MEXICAN 
 
  HOUSE FINCH. 
 
 
 
-Fringilla mexicana P. L. S. Miiller, Natursyst., Suppl., p. 165, 1776 based on 
+Fringilla mexicana P. L. S. Muller, Natursyst., Suppl., p. 165, 1776 based on 
 
 
 
@@ -25809,9 +25809,9 @@ The "Gros-Bec, appelle la Nonette" Daubenton (PI. Enl., pi. 393, fig. 3)
 
 described and figured from a cage-bird of unknown origin, upon which 
 
- nonnette P. L. S. Miiller (Natursyst., Suppl., p. 151, 1776) and Loxia cucullata 
+ nonnette P. L. S. Muller (Natursyst., Suppl., p. 151, 1776) and Loxia cucullata 
 
- Boddaert (not of Mtiller, 1776) (Tabl. PL Enl., p. 24, 1783) are based, is too am- 
+ Boddaert (not of Muller, 1776) (Tabl. PL Enl., p. 24, 1783) are based, is too am- 
 
  biguous to be identified, though it might have been intended for a member of this 
 
@@ -25878,7 +25878,7 @@ Naturhist. Foren., 1870, p. 224 Rio de Janeiro and Lagoa Santa, Minas
 
 Geraes. 
 
- Spermophila cucullata (not Loxia cucullata Boddaert nor Miiller) Sclater, 
+ Spermophila cucullata (not Loxia cucullata Boddaert nor Muller) Sclater, 
 
 
 
@@ -27402,7 +27402,7 @@ Loxia lineola Linnaeus, Syst. Nat., 10th ed., 1, p. 174, 1758 "Asia," errore
 
 
 
-Loxia crispa (not Fringilla crispa Linnaeus, 1776) P. L. S. Miiller, Natursyst., 
+Loxia crispa (not Fringilla crispa Linnaeus, 1776) P. L. S. Muller, Natursyst., 
 
  Suppl., p. 154, 1776 based on "Bouvreuil a plumes frisees, du Bresil" 
 
@@ -33367,7 +33367,7 @@ type, by monotypy, Pinicola rubra Vieillot =Loxia enucleator Linnaeus. 1
 
 
 
-monotypy, "Dur-Bec" Buffon=L<ma leucura P. L. S. Miiller. 
+monotypy, "Dur-Bec" Buffon=L<ma leucura P. L. S. Muller. 
 
  Corythus Cuvier, Regne Anim., 1, p. 391, "1817" [=Dec. 7, 1816] type, 
 
@@ -33406,7 +33406,7 @@ Cuvier.
 
 
 
-*Pinicola enucleator leucura (P. L. S. Miiller). GREATER CANA- 
+*Pinicola enucleator leucura (P. L. S. Muller). GREATER CANA- 
 
  DIAN PINE GROSBEAK. 
 
@@ -38328,7 +38328,7 @@ Carolina, Virginia, and New York (South Carolina accepted as type
 
 locality). 
 
- Fringilla taria P. L. S. Mtiller, Natursyst., Suppl., p. 163, 1776 based on 
+ Fringilla taria P. L. S. Muller, Natursyst., Suppl., p. 163, 1776 based on 
 
 
 
@@ -41676,7 +41676,7 @@ Although there seems hardly any doubt that the bird was originally intro-
 
 
 
-Sycalis flam (not Fringilla flava P. L. S. Miiller) A. and E. Newton, Handb. 
+Sycalis flam (not Fringilla flava P. L. S. Muller) A. and E. Newton, Handb. 
 
 
 
@@ -41958,7 +41958,7 @@ Sycalis flaveola (not Fringilla flaveola Linnaeus) Forbes, Ibis, 1881, p. 338
 
 
 
-Sicalis flaveola flava (not Fringilla flava P. L. S. Miiller) Hellmayr, Field 
+Sicalis flaveola flava (not Fringilla flava P. L. S. Muller) Hellmayr, Field 
 
  Mus. Nat. Hist., Zool. Ser., 12, p. 298, 1929 Maranhao (Cod6, Cocos), 
 
@@ -42018,7 +42018,7 @@ Additional specimens examined. Piauhy: Parnagua, 3. Pernambuco: Pao
 
  "Bruant du Bresil" (PI. Enl., pi. 321, fig. 1), upon which Fringilla flava P. L. S. 
 
- Miiller (Natursvst., Suppl., p. 164, 1776) is based, I am bound to agree with 
+ Muller (Natursvst., Suppl., p. 164, 1776) is based, I am bound to agree with 
 
  Sharpe and Miller that this figure showing a bird of indefinite coloring with short 
 
@@ -42192,7 +42192,7 @@ Additional material examined. Espirito Santo: Victoria, 1. Rio de Janeiro:
 
 
 
-Passerina flava (not Fringilla flava P. L. S. Mttller, 1776) Vieillot, Tabl. Enc. 
+Passerina flava (not Fringilla flava P. L. S. Muller, 1776) Vieillot, Tabl. Enc. 
 
  M6th., On., livr. 93, p. 932, 1823 primarily based on "Chuy" Azara, 
 
@@ -48612,17 +48612,17 @@ Coryphospingus Cabanis, Mus. Hein., 1, p. 145, Oct., 1851 type, by subs,
 
  desig. (Gray, Cat. Gen. Subgen. Bds., p. 73, 1855), Fringilla cristata 
 
- Gme\in=Fringilla cucullata P. L. S. Miiller. 
+ Gme\in=Fringilla cucullata P. L. S. Muller. 
 
 
 
-*Coryphospingus cucullatus cucullatus (P. L. S. Miiller). 
+*Coryphospingus cucullatus cucullatus (P. L. S. Muller). 
 
  NORTHERN RED-CRESTED FINCH. 
 
 
 
-Fringilla cucullata P. L. S. Miiller, Natursyst., Suppl., p. 166, 1776 based on 
+Fringilla cucullata P. L. S. Muller, Natursyst., Suppl., p. 166, 1776 based on 
 
  "Moineau, de Cayenne" Daubenton, PI. Enl., pi. 181, fig. 1 (=male); 
 
@@ -66898,7 +66898,7 @@ While not strongly marked, this form cannot well be united to either of its
 
 3 An earlier name for either this or the succeeding form is Aimophila tolteca 
 
- J. W. von Miiller (Reisen Ver. St., Canada, and Mexico, 3, p. 584, 1865) from 
+ J. W. von Muller (Reisen Ver. St., Canada, and Mexico, 3, p. 584, 1865) from 
 
 
 
@@ -67011,7 +67011,7 @@ Mexico. The description fits the one just as well as the other, except the passa
 
  "pectore griseo" which points rather to lawrencii, while the measurements, no sex 
 
- being indicated, are practically useless. Von Miiller travelled in the ranges of 
+ being indicated, are practically useless. Von Muller travelled in the ranges of 
 
  both races, and as there is no clue to the exact locality of the type specimen, 
 
@@ -72646,7 +72646,7 @@ Zonitrichia Bonaparte, Giorn. Arcad., 52, p. 206, 1831 emendation.
 
 
 
-Fringilla capensis P. L. S. Miiller. 
+Fringilla capensis P. L. S. Muller. 
 
 
 
@@ -73618,7 +73618,7 @@ Brachyspiza capensis peruviana Ridgway, Auk, 15, p. 321, 1898 (part); Bangs,
 
 
 
-Brachyspiza capensis (not Fringilla capensis P. L. S. Miiller) Hartert, Nov. 
+Brachyspiza capensis (not Fringilla capensis P. L. S. Muller) Hartert, Nov. 
 
  Zool., 5, p. 485, 1898 Cayambe, Ecuador. 
 
@@ -73929,7 +73929,7 @@ Zonotrichia canicapilla (not of Gould) Paessler, Zeits. Ool. Orn., 16, p. 30,
 
 
 
-Brachyspiza capensis capensis (not Fringilla capensis P. L. S. Miiller) Barros, 
+Brachyspiza capensis capensis (not Fringilla capensis P. L. S. Muller) Barros, 
 
  Rev. Chil. Hist. Nat., 24, p. 149, 1920 Nilahue, Curico, and Melipilla, 
 
@@ -74032,7 +74032,7 @@ Additional material examined. Argentina: Potrerillos, Mendoza (alt. 5,000 ft.),
 
 
 
-Brachyspiza capensis capensis (not Fringilla capensis P. L. S. Miiller) Barros, 
+Brachyspiza capensis capensis (not Fringilla capensis P. L. S. Muller) Barros, 
 
  Rev. Chil. Hist. Nat., 34, p. 320, 1930 Caj6n de las Vacas, Las Lenas, 
 
@@ -74088,7 +74088,7 @@ Zonotrichia pileata (not Emberiza pileata Boddaert) Stempelmann and Schulz,
 
 
 
-Brachyspiza capensis (not Fringilla capensis P. L. S. Miiller) Sanzin, El 
+Brachyspiza capensis (not Fringilla capensis P. L. S. Muller) Sanzin, El 
 
  Hornero, 1, p. 152, 1918 Mendoza; Castellanos, I.e., 5, p. 323, 1934 
 
@@ -74528,7 +74528,7 @@ Zonotrichia pileata (notEmberiza pileata Boddaert) Salvin, Ibis, 1880, p. 355
 
 
 
-Brachyspiza capensis (not Fringilla capensis P. L. S. Miiller) (?)Koslowsky, 
+Brachyspiza capensis (not Fringilla capensis P. L. S. Muller) (?)Koslowsky, 
 
  Rev. Mus. La Plata, 6, p. 279, 1895 Chilecito, La Rioja; Lillo, Anal. 
 
@@ -74931,13 +74931,13 @@ Range. Savannas and slopes of Roraima and Merum Moun-
 
 
 
-*Zonotrichia capensis capensis (P. L. S. Miiller). CAYENNE 
+*Zonotrichia capensis capensis (P. L. S. Muller). CAYENNE 
 
  SPARROW. 
 
 
 
-Fringilla capensis P. L. S. Miiller, Natursyst., Suppl., p. 165, 1776 based on 
+Fringilla capensis P. L. S. Muller, Natursyst., Suppl., p. 165, 1776 based on 
 
  "Bruant, du Cap de Bonne Esperance" Daubenton, PI. Enl., pi. 386, 
 
@@ -76385,7 +76385,7 @@ Range. Breeds in North America, from western Alberta, central
 
 
 
-Fringillafasciata (not of P. L. S. Miiller, 1776) Gmelin, Syst. Nat., 1, (2), p. 922, 
+Fringillafasciata (not of P. L. S. Muller, 1776) Gmelin, Syst. Nat., 1, (2), p. 922, 
 
  1789 based on "Fasciated Finch" Pennant, Arct. Zool., 2, p. 376; New 
 
@@ -77821,13 +77821,13 @@ Birds from southeastern Arizona (near Fairbank and Patagonia) and northern
 
 
 
-Melospiza melodia pectoralis J. W. von Miiller. MEXICAN SONG 
+Melospiza melodia pectoralis J. W. von Muller. MEXICAN SONG 
 
  SPARROW. 
 
 
 
-Melospiza pectoralis J. W. von Miiller, 1 Reisen Ver. St., Canada und Mexico, 3, 
+Melospiza pectoralis J. W. von Muller, 1 Reisen Ver. St., Canada und Mexico, 3, 
 
 
 

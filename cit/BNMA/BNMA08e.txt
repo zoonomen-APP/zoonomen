@@ -649,7 +649,7 @@ Key to the Species and Subspecies of Pluvialis ^
 
 
 
-5. Pluvialis dominicus dominicus (Mtiller) ^* 
+5. Pluvialis dominicus dominicus (Muller) ^* 
 
 
 
@@ -1225,7 +1225,7 @@ Key to the American and Hawaiian Species of Himantopua 442
 
 
 
-2. Himantopua mexicanus (Mtiller) 442 
+2. Himantopua mexicanus (Muller) 442 
 
 
 
@@ -9749,7 +9749,7 @@ Cinclus morinellus Gray, List Gen. Birds, 2d ed., 1841, 85.
 
 
 
-Tringa hudsonica MtJLLER, Natursyst., Anhang, 1776, 114 (based on Turnstone 
+Tringa hudsonica Muller, Natursyst., Anhang, 1776, 114 (based on Turnstone 
 
  from Hudson's Bay Edwards, Nat. Hist. Birds, iii, 1750, 141, pi. 141). 
 
@@ -13688,7 +13688,7 @@ C\haTadrim\ pluvialis Holboll, Naturhist. Tidsskr., iv, 1843, 406 (Greenland). �
 
 
 
-Charadrius aureus MtJLLER, Syst. Nat., Suppl., 1776, 118 (ex Brisson, Orn., v, 
+Charadrius aureus Muller, Syst. Nat., Suppl., 1776, 118 (ex Brisson, Orn., v, 
 
  1760, 43). 
 
@@ -35532,7 +35532,7 @@ Island; Jacobs Bight).^— Lesson, Traits d'Orn., 1831, 558.
 
  Canatus islandicus Luhdbr, Journ. fur Orn.. 1871, 301 (Stralsund). 
 
- Charadrius utopiensis MtJLLER, Syst. Nat. Suppl., 1 776, 117 (basedon PI. Enl., 365). 
+ Charadrius utopiensis Muller, Syst. Nat. Suppl., 1 776, 117 (basedon PI. Enl., 365). 
 
 
 
@@ -36043,7 +36043,7 @@ o Fourteen specimens.
 
  (Lapland). — Putnam, Proc. Essex Inst., i, 1856, 216 (Essex Co., Massa. 
 
- chusetts). — Hewitson, Eggs Brit. Birds, ii, 1856, 366, pi. 103. — Mttller, 
+ chusetts). — Hewitson, Eggs Brit. Birds, ii, 1856, 366, pi. 103. — Muller, 
 
  Journ. fur Orn., 1856, 230 (Provence). — Cassin, in Baird, Rep. Pacific R. R, 
 
@@ -52240,7 +52240,7 @@ o Totanus irevipes Vieillot, Nouv. Diet. d'Hist. Nat., vi, 1816, 410 (no localit
 
  Rosso-Asiat., ii, 1826, 194, pi. 60. — Totanus pedesCris, part, Lesson, Traits d'Om.i 
 
- 1831, 552.— Totanus pulverulmtus Miiller, Naturk. Verb., 1844, 152 (Timor); Tem- 
+ 1831, 552.— Totanus pulverulmtus Muller, Naturk. Verb., 1844, 152 (Timor); Tem- 
 
  mlnck and Schlegel, Fauna Japonica, Aves, 1849, 109, pi. 65. — [Oambetta] pulveru- 
 
@@ -80106,7 +80106,7 @@ Breeding in Arctic and Subarctic Europe and Asia, and North
 
  Birds, 1872, 314. 
 
- LariLS tridactylus Mulleb, Natursyst., Suppl., 1776, 344. — ^Fabeicius, Fauna 
+ LariLS tridactylus Muller, Natursyst., Suppl., 1776, 344. — ^Fabeicius, Fauna 
 
  Groenlandica, 1780, 98. — Retzius, Fauna Suecica, 1780, 154. — ^Mohr, 
 
@@ -80529,7 +80529,7 @@ Laroides rissa Brbhm, Vog. Deutschl., 1831, 755.
 
 
 
-Larus albus (not of Gunnerus, 1767) Mulleb, Natursystems, Suppl., 1776, 108 
+Larus albus (not of Gunnerus, 1767) Muller, Natursystems, Suppl., 1776, 108 
 
  (based on Mouette cendrSe tachetie Brisson, Orn., vi, 1760, 185, pi. 17, fig. 2). 
 
@@ -95886,7 +95886,7 @@ Lestris parasitica Nilsson, Orn. Suecica, 1817, 181, 184, part. — Sabine (E.),
 
  Eur. Faun., 1840, 390.— Kjaerb0lling, Damn. Fugle, 1852, 346, pi. 43.— 
 
- MtJLLER, Vidensk. Meddel., 1862 (1863), 64 (Faroes).— Preyeh, Reis. n. 
+ Muller, Vidensk. Meddel., 1862 (1863), 64 (Faroes).— Preyeh, Reis. n. 
 
  Island, 1862, 417.— Sundevall, Svesnk. Fogl., 1863, pi. 51, figs. 2, 3; Oefv. 
 
@@ -107791,7 +107791,7 @@ Simorhynchus tetraculus Coues, Proc. Ac. Nat. Sci., Phila., 1868, 43, fig. 9
 
 N. Am. Birds, 1872, 342. 
 
- Aim cristata Mtjllee, Natursyst., Suppl., 1776, 104. 
+ Aim cristata Muller, Natursyst., Suppl., 1776, 104. 
 
 
 

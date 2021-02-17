@@ -1608,7 +1608,7 @@ Key to the Species and Subspecies of Carpodacus 124
 
 
 
-48. Carpodacus mexicanus mexicanus (Miiller) 131 
+48. Carpodacus mexicanus mexicanus (Muller) 131 
 
 
 
@@ -20731,7 +20731,7 @@ Pyrrhulinota Hodgson, in Gray's Zool. Misc., 1844, 85. (Type, Loxia erythrina
 
 Burrica Ridgway, Man. N. Am. Birds, 1887, 390. (Type, Fringilla mexicana 
 
- Miiller. ) 
+ Muller. ) 
 
 
 
@@ -21887,7 +21887,7 @@ C-larpodacus'] purpureus californicus Henshaw, Orn. Rep. Wheeler's Surv., 1879,
 
 
 
-CARPODACUS MEXICANUS MEXICANUS (Miiller). 
+CARPODACUS MEXICANUS MEXICANUS (Muller). 
 
  MEXICAN HOUSE FINCH. 
 
@@ -22195,7 +22195,7 @@ Mon. des Loxiens, 1850, pi. 17, upper fig.
 
 Zool. Soc. Lond., 1858, 303 (Oaxaca); 1859, 380 (do.). 
 
- Carpodacus mexicanus (not Fringilla mexicana Miiller) Salvin and Godman, 
+ Carpodacus mexicanus (not Fringilla mexicana Muller) Salvin and Godman, 
 
 
 
@@ -22347,7 +22347,7 @@ Clarpodaeusl rhodocolpvs Cabaxis, Mus. liein., i, Aug., 1851, 166 ("Mexico,"
 
 i. e., Cuernavaca, Morelos;' Berlin ]Mus. ). 
 
- Carpodacvs mexicanus (not of Fringilla mc.ricana jMiiller) Salvin and Godman. 
+ Carpodacvs mexicanus (not of Fringilla mc.ricana jMuller) Salvin and Godman. 
 
 
 
@@ -23162,7 +23162,7 @@ Carpodacus purpureus var. californicvs Brewster, Bull. Nutt. Orn. Club, ii, 1877
 
 
 
-Carpodacus niexicanui (not Fringilla mexicana Miiller) Salvin and Godman, 
+Carpodacus niexicanui (not Fringilla mexicana Muller) Salvin and Godman, 
 
  Biol. Centr. -Am., Aves, i, 1886, 422, part (Frontera, New Mexico; Monterey, 
 
@@ -24651,7 +24651,7 @@ Calcarius nivalis Giglioli, Avif. Ital., 1886, 56.
 
 
 
-Emberiza notaia MtJLLER, Syst. Nat. Suppl., 1776, 157 (based on Buffon). 
+Emberiza notaia Muller, Syst. Nat. Suppl., 1776, 157 (based on Buffon). 
 
 
 
@@ -50192,7 +50192,7 @@ Genus BRACHYSPIZA Ridgway.
 
 BrachyspizK Ridgway, Auk, xv, July (pub. Mav 14), 1898, 224. (Type, Fringilla 
 
- capensis Miiller.) 
+ capensis Muller.) 
 
 
 
@@ -74263,7 +74263,7 @@ Proc. Zool. Soc. Lond., 1861, 74 (Jamaica).
 
  Sicalis flaveola Com, Auk, iii,_1886, 213 (Jamaica); Birds AV. I., 1889, 100 (do.). 
 
- S. \_ycalis'\ /nwa (not Fringilla flava Miiller) A. and E. Newton, Handb. Birds 
+ S. \_ycalis'\ /nwa (not Fringilla flava Muller) A. and E. Newton, Handb. Birds 
 
 
 
