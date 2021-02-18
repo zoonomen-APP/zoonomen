@@ -20,11 +20,13 @@
 #ShrpHL_05.txt: the names in the 10th edition of Linnasus's ' Systema,' and I follow Dr. Sclater in 
 #ShrpHL_05.txt: Natural History up to the time of Linnteus. [By B. B. 
 #
-s/Linnrgus/Linnaeus/g
-s/ Linn / Linn. /g
-s/Linn,/Linn.,/g
-s/ Linn\// Linn. /g
-s/ Linnseus/ Linnaeus/g
-s/ Linnasus/Linnaeus/g
-s/ Linnseus/ Linnaeus/g
-s/ Linnteus/ Linnaeus/g
+#s/Linnrgus/Linnaeus/g
+#s/ Linn / Linn. /g
+#s/Linn,/Linn.,/g
+#s/ Linn\// Linn. /g
+#s/ Linnseus/ Linnaeus/g
+#s/ Linnasus/Linnaeus/g
+#s/ Linnseus/ Linnaeus/g
+#s/ Linnteus/ Linnaeus/g
+#2021.02.18
+s/CEstrelata/Oestrelata/

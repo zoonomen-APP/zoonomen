@@ -38826,7 +38826,7 @@ i. 112.
 
  armillata (Fulica), i. 1 10. 
 
- arminjoniana (CEstrelata), 
+ arminjoniana (Oestrelata), 
 
 
 
@@ -39716,7 +39716,7 @@ avocetta (Recurvirostra), i.
 
  axillaris (Elanus), i. 270. 
 
- axillaris (CEstrelata), i. 
+ axillaris (Oestrelata), i. 
 
 
 
@@ -41085,7 +41085,7 @@ stilbon), ii. 113.
 
 161. 
 
- brevipes (CEstrelata), i. 
+ brevipes (Oestrelata), i. 
 
 
 
@@ -41127,7 +41127,7 @@ phus), i. 131.
 
 thus), ii. 202. 
 
- brevirostris (CEstrelata), i. 
+ brevirostris (Oestrelata), i. 
 
 
 
@@ -42964,7 +42964,7 @@ eenchris (Cerchneis), i.
 
 ii. 8. 
 
- cervicalis (CEstrelata), i. 
+ cervicalis (Oestrelata), i. 
 
 
 
@@ -48179,7 +48179,7 @@ corax), i. 232.
 
  fischeri (Turacus), ii. 153. 
 
- fisheri (CEstrelata), i. 126. 
+ fisheri (Oestrelata), i. 126. 
 
  fisheri (Glaucidium), i. 
 
@@ -50644,7 +50644,7 @@ gularis (Cuculus), ii. 158.
 
 225. 
 
- gularis (CEstrelata), i. 126. 
+ gularis (Oestrelata), i. 126. 
 
  gulielmi (Pyocephalus), ii. 
 
@@ -51399,7 +51399,7 @@ ii. 118.
 
  hensti (Astur), i. 248. 
 
- heraldica (CEstrelata), i. 
+ heraldica (Oestrelata), i. 
 
 
 
@@ -52355,7 +52355,7 @@ i. 33, 34.
 
 161. 
 
- incerta (CEstrelata), i. 1 25. 
+ incerta (Oestrelata), i. 1 25. 
 
  incerta (Turturcena), i. 73. 
 
@@ -53125,7 +53125,7 @@ i. 227.
 
 79. 
 
- jamaicensis (CEstrelata), i. 
+ jamaicensis (Oestrelata), i. 
 
 
 
@@ -54704,7 +54704,7 @@ don), i. 133.
 
 77. 
 
- leucoptera (CEstrelata), i. 
+ leucoptera (Oestrelata), i. 
 
 
 
@@ -55279,7 +55279,7 @@ i. 147.
 
 158. 
 
- longirostris (CEstrelata), i. 
+ longirostris (Oestrelata), i. 
 
 
 
@@ -55796,7 +55796,7 @@ gus), ii. 84.
 
  macroptera (Ninox), i. 290. 
 
- macroptera (CEstrelata), i. 
+ macroptera (Oestrelata), i. 
 
 
 
@@ -56175,7 +56175,7 @@ corax), i. 234.
 
 iscus), i. 119. 
 
- magenta' (CEstrelata), i. 
+ magenta' (Oestrelata), i. 
 
 
 
@@ -59293,7 +59293,7 @@ Nauclerus, i. 268.
 
  neglecta (Columba), i. 69. 
 
- neglecta (CEstrelata), i. 
+ neglecta (Oestrelata), i. 
 
 
 
@@ -59754,7 +59754,7 @@ ii. 81.
 
 165. 
 
- nigripennis (CEstrelata), i. 
+ nigripennis (Oestrelata), i. 
 
 
 
@@ -61802,7 +61802,7 @@ ortyx), i. 45.
 
 ii. 143. 
 
- parvirostris (CEstrelata), i. 
+ parvirostris (Oestrelata), i. 
 
 
 
@@ -62505,7 +62505,7 @@ ii. 224.
 
 158. 
 
- phseopygia (CEstrelata), i. 
+ phseopygia (Oestrelata), i. 
 
 
 
@@ -70381,7 +70381,7 @@ gus), ii. 87.
 
  Tringoides, i. 161. 
 
- trinitatis (CEstrelata), i. 
+ trinitatis (Oestrelata), i. 
 
  126. 
 

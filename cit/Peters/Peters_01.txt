@@ -9826,7 +9826,7 @@ ORDER PROCELLARIIFORMES 65
 
 
 
-CEstrelata phceopygia Salvin, Trans. Zool. Soc. London, 9, 1876, p. 507, 
+Oestrelata phceopygia Salvin, Trans. Zool. Soc. London, 9, 1876, p. 507, 
 
  pi. 88, f. 1. (Chatham Island, Galapagos.) 
 
@@ -9840,7 +9840,7 @@ Pterodroma phaeopygia sandwichensis (Ridgway)
 
 
 
-CEstrelata sandwichensis Ridgway, in Baird, Brewer and Ridgway 's 
+Oestrelata sandwichensis Ridgway, in Baird, Brewer and Ridgway 's 
 
  Water Bds. No. Am., 2, 1884, p. 395, in text. (Hawaiian Islands.) 
 
@@ -9850,7 +9850,7 @@ Pterodroma externa externa (Salvin)
 
 
 
-CEstrelata externa Salvin, Ibis, 1875, p. 373. (Islands of Masafuera and 
+Oestrelata externa Salvin, Ibis, 1875, p. 373. (Islands of Masafuera and 
 
  Juan Fernandez.) 
 
@@ -9864,7 +9864,7 @@ Breeds on the Juan Fernandez group.
 
 
 
-CEstrelata cervicalis Salvin, Ibis, 1891, p. 192. (Kermadec Islands.) 
+Oestrelata cervicalis Salvin, Ibis, 1891, p. 192. (Kermadec Islands.) 
 
  Breeds on the Kermadec Islands. 
 
@@ -9888,7 +9888,7 @@ Pterodroma cookii axillaris (Salvin)
 
 
 
-CEstrelata axillaris Salvin, Bull. Brit. Orn. CI., 1, 1893, p. 33. (Chatham 
+Oestrelata axillaris Salvin, Bull. Brit. Orn. CI., 1, 1893, p. 33. (Chatham 
 
  Islands.) 
 
@@ -9902,7 +9902,7 @@ Pterodroma cookii nigripennis (Rothschild)
 
 
 
-CEstrelata nigripennis Rothschild, Bull. Brit. Orn. CI., 1, 1893, p. 57. 
+Oestrelata nigripennis Rothschild, Bull. Brit. Orn. CI., 1, 1893, p. 57. 
 
  (Kermadec Islands.) 
 
@@ -46245,7 +46245,7 @@ perpallida, Cerchneis, 298
 
  Phseonetta, 181 
 
- phseopygia, CEstrelata, 65 
+ phseopygia, Oestrelata, 65 
 
  phseopygia, Pterodroma, 65 
 

@@ -32900,7 +32900,7 @@ tones, Check-l N. Am. Birds, p. 126 (1882); id. Key N. Am.
 Birds, ed. 2, p. 779 (1884); Stevens. Birds Norf. iii. p. 361, pi. 4 
 Fulmarus kasitatus, Gray, Hand-l. iii. p. 106 (1871). 
 Diablotin, Later. Br. US. Nat. Mus. i, p. 68 (1878). 
-CEstrelata, sp., Lawr. Pr. U.S. Nat. Mus. i. p. 488 (1879). 
+Oestrelata, sp., Lawr. Pr. U.S. Nat. Mus. i. p. 488 (1879). 
 
 
 Adult Upper surface sooty brown, a little paler on the upper 
@@ -32933,13 +32933,13 @@ a. Ad. sk. Haiti (J. Heame). Zool. Soc.
 Procellaria jamaicensis, Bancroft, Zool. Journ. v. p. 81 (1826). 
 Blue-Mountain Duck, Gosse, Birds Jamaica, p. 437 (1847). 
 Pterodroma caribkea, Carte, B. Z. S. 1866, p. 93, pi. 10. 
-CEstrelata (Pterodroma) caribbaea, Gigl. fy Salvad. Ibis, 1869, p, 06. 
+Oestrelata (Pterodroma) caribbaea, Gigl. fy Salvad. Ibis, 1869, p, 06. 
 Fulmarus caribbasus, Gray, Hand-l. B. iii. p. 107 (1871). 
-CEstrelata caribbjea, Scl. $• Salv. Nomencl Av. Neotr. p. 149 (1873). 
+Oestrelata caribbjea, Scl. $• Salv. Nomencl Av. Neotr. p. 149 (1873). 
 (Estrelata jamaicensis, A. fy JS. Neioton, Ilandb. Jamaica, 1881, 
 
 p. 117; Morris, Nature, 1881, xxv. p. 151. 
-CEstrelata jamaicensis, 
+Oestrelata jamaicensis, 
 Ridgw. Man. N. Am. Birds, p. 67; Cory, 
 Auk, v. p. 81 (1888) ; id. Cat. Wett Ind. Birds, p. 84 (1892), 
 
@@ -33033,7 +33033,7 @@ l^tjTy p. 188.
 Ithantistes parvirostris, Bp. Compt. Rend. xlii. p. 768 (1856). 
 Priicwlaria f-Estrelata) parvirostris. Gray, Cat. Birds Prop.-Is. Fac. 
 
-CEstrelata parvirostris, Canes, Br. Ac. Phil. 1866, pp. 146,170; Gigl. 
+Oestrelata parvirostris, Canes, Br. Ac. Phil. 1866, pp. 146,170; Gigl. 
 4* Saimrl Ibis, 1869, p. G6; Ridgw. Man. N. Am. Birds, p. 64 
 
 GtNtrelata parviro&trL, Lister, P. Z. S. 1891, pp. 295, 300. 
@@ -33195,7 +33195,7 @@ There are no specimens of this species in the British Museum.
 11. (Estrelata phaeopygia. 
 ? Procellaria alba, Bloxham in Byron's Voy. p. 252; Gray, Cat. Birds 
 Trap. Is. Pac. p. 56 (1859) (partim). 
-CEstrelata phseopygia, Salv, Trans. Zool. Soc. ix. p. 507, pi. 88.fig.1 
+Oestrelata phseopygia, Salv, Trans. Zool. Soc. ix. p. 507, pi. 88.fig.1 
 (1876); Wilson, Aves Kaioaiienses, part v. (1894). 
 Procellaria rostrata ?, Moseley, Notes Nat' ChalV p. 499 (1879) (nee 
 Peale). 
@@ -33718,14 +33718,14 @@ Hah. Antarctic Ocean {Peale); New Zealand Seas {Buller).
 
 a. 
 Ad. sk. New Zealand Seas. Hon. W. Rothschild [P.]. 
-24. CEstrelata fisheri. 
+24. Oestrelata fisheri. 
 iE-trelata 
 fisheri, Ridgxo. Pr. U.S. Nat. Mm. v. p. 656 (June 
 18b:i), vi. p. 18 (1885); id. Man. N. Am. Birds, p. 68 (1887); 
 id. Auk, 1895, p. 319, pi. 4; A. 0. U. Check-l. N. Am. Birds, 
 
 p. 103 (1880). 
-CEstrelata 
+Oestrelata 
 fisheri, Coues, Key N. Am. Birds, ed. 2, p. 780 (1884); 
 Baird, Brew., $ Ridgw. Water-Birds N. Am. ii. p. 396 (1884); 
 Midgw. Br. TIM. Nat. Mm. viii. p. 18 (1885). 
@@ -36750,7 +36750,7 @@ affinis (Gavia), 181.
 affinis (Gelochelidon), 28. 
 affinis (Larus), 172, 178, 
 254, 255, 259, 270. 
-affinis (CEstrelata), 414. 
+affinis (Oestrelata), 414. 
 affinis (Procellaria) 414. 
 affinis (Sterna), 27, 8Q. 
 affinis (Sylochelidon), 87. 
@@ -37024,14 +37024,14 @@ assimilis (Puffinus), 370,
 
 383. 
 astrolabas (Pliaetusa), 97. 
-aterrima (CEstrelata), 
+aterrima (Oestrelata), 
 398, 401. 
 aterrima (Procellaria), 
 
 401. 
 aterrima (Pterodroma), 
 401. 
-atlantica (CEstrelata), 
+atlantica (Oestrelata), 
 400. 
 atlantica (Procellaria), 
 399. 
@@ -37219,12 +37219,12 @@ brevicaudus (Priofinus),
 389. 
 brevicaudus (Puffinus), 
 388. 
-brevipes (CEstrelata), 398, 
+brevipes (Oestrelata), 398, 
 408. 
 brevipes (Procellaria), 
 408. 
 brevirostris (Larus). 312. 
-brevirostris (CEstrelata), 
+brevirostris (Oestrelata), 
 398, 409, 410. 
 brevirostris (Prion), 436. 
 brevirostris (Procellaria), 
@@ -37400,7 +37400,7 @@ capistratus (Larus), ISo,
 
 capistratus (Xema), 209, 
 
-210. , xcaribbasa (CEstrelata), 
+210. , xcaribbasa (Oestrelata), 
 403. 
 caribbsea (Pterodroma), 
 
@@ -37485,7 +37485,7 @@ cepphus(Catharacta\327.
 cepphus (Lestris), 330. 
 cepphus (Stercorarius), 
 331, 335. 
-cervicalis (CEstrelata), 
+cervicalis (Oestrelata), 
 
 398, 411. 
 Cetosparactes, 301. 
@@ -37831,7 +37831,7 @@ eximius (Thalassogeron),
 
 449. 
 exsul (Pelecanoides), 438. 
-externa (CEstrelata), 398, 
+externa (Oestrelata), 398, 
 
 
 411. 
@@ -37851,7 +37851,7 @@ fasciata (Procellaria),
 435. 
 fasciolala (Thalassidroma), 
 455. 
-fisheri (CEstrelata), 399, 
+fisheri (Oestrelata), 399, 
 415, 416. 
 fissipes (Hydrochelidon), 
 7,19, 21. 
@@ -37863,7 +37863,7 @@ flavipes (Larus), 246,
 flavirostris (Adamastor), 
 
 375. 
-flavirostris (CEstrelata), 
+flavirostris (Oestrelata), 
 
 375. 
 flavirostris (Procellaria), 
@@ -37946,7 +37946,7 @@ fuliginosa (Nectris), 386,
 387. 
 fuliginosa ' (Ocean odroma), 
 347, 352. 
-fuliginosa (CEstrelata), 
+fuliginosa (Oestrelata), 
 
 400. 
 fuliginosa (Pbcebetria), 
@@ -38685,7 +38685,7 @@ leucophasus (Laroides),
 268. 
 leucopbseus (Larus), 255, 
 267. 
-leucopbrys (CEstrelata), 
+leucopbrys (Oestrelata), 
 412. 
 leucophthalma (Xeoia), 
 219. 
@@ -38704,7 +38704,7 @@ leucoptera (Cookilaria),
 416. 
 leucoptera (Hydrochelidon), 
 5, 6, 456. 
-leucoptera (CEstrelata), 
+leucoptera (Oestrelata), 
 408, 416. 
 leucoptera (Procellaria), 
 414, 416. 
@@ -38763,13 +38763,13 @@ longi penn is (Hyd rocecropis),
 68. 
 longipennis (Sterna), 42, 
 64,67,68,97,100,457. 
-longirostris (CEstrelata), 
+longirostris (Oestrelata), 
 
 418. 
 longirostris (Bruchiga-
 Tia), 236. 
 longirostris (Larus), 236. 
-longirostris (CEstrelata), 
+longirostris (Oestrelata), 
 
 399. 
 longirostris (Sterna), 91. 
@@ -38866,7 +38866,7 @@ madagascariensis* Stereorarzus),
 320. 
 madraspatanufi {BiiyQcbops), 
 159. 
-magenta (CEstrelata 1, 
+magenta (Oestrelata 1, 
 396,407magnirostrisfPbaethusa 
 , 
 
@@ -39576,7 +39576,7 @@ phieocepbala (Xema),
 phaeocephalus (Larus), 
 
 198. 
-phoeopygia (CEstrelata), 
+phoeopygia (Oestrelata), 
 398,407. 
 Phaethusa, 4, 23. 
 Philadelphia (Ohroeocephalus), 
@@ -39593,7 +39593,7 @@ philippina (Sterna), 137.
 philippina (Thalasseus), 
 loJ. 
 phillipi (Fulmarus), 414. 
-phillipi (CEstrelata), 406, 
+phillipi (Oestrelata), 406, 
 
 412. 
 phillipi (Procellaria), 
@@ -39837,7 +39837,7 @@ rossii (Larus), 167.
 rossii (Prion), 436. 
 rossi (Rhodostetbia), 
 167. 
-rostrata (CEstrelata), 398, 
+rostrata (Oestrelata), 398, 
 404. 
 rostrata (Proeellaria), 
 404. 
@@ -39884,7 +39884,7 @@ saundersi (Larus), 170,
 183,184. 
 saundersi (Sterna), 43, 
 112,120,121,457. 
-scalaris (CEstrelata), 399, 
+scalaris (Oestrelata), 399, 
 
 416. 
 scapulata (Thalassidroma), 
@@ -39937,7 +39937,7 @@ senex (Anous), 139, 144,
 senex (Sterna), 137. 
 septentrionalis (Rissa), 
 283. 
-sericea (CEstrelata), 401. 
+sericea (Oestrelata), 401. 
 sericeus (Adamastor), 
 401. 
 sericeus (Puffinus), 401. 
@@ -40003,7 +40003,7 @@ Hocorroensia (Oeeanodroma),
 847, 352. 
 aolandri (Cooldlaria), 410. 
 bolanclri (Fulmarus), 410. 
-s-olandri (CEstrelata), 398, 
+s-olandri (Oestrelata), 398, 
 
 410. 
 boiandri (Procollaria), 
@@ -40230,7 +40230,7 @@ tridactvlus (Larus), 30-"),
 308/ 
 tridactylus, var. kotzebui 
 (Larus), 309. 
-rrinitatis (CEstrelata), 399, 
+rrinitatis (Oestrelata), 399, 
 
 413. 
 tristis (Puffinus), 386. 
