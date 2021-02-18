@@ -1183,7 +1183,7 @@ Accentor rubeculoides Moore (ex Hodgson MS), 1854,
 
 
 
-Cat. Birds Mus. East India Co., 1, p. 361 — Nepal. 
+Cat. Birds Mus. Hon. East-India Company, 1, p. 361 — Nepal. 
 
  Prunella rubeculoides muraria R. and A. Meinertzhagen, 
 
@@ -1568,7 +1568,7 @@ Prunella atrogularis huttoni (Moore)
 
 Accentor huttoni Moore, 1854, in Horsfield and Moore, 
 
- Cat. Birds Mus. East India Co., 1, p. 360; new name for 
+ Cat. Birds Mus. Hon. East-India Company, 1, p. 360; new name for 
 
  A. atrogularis Blyth (ex Hutton MS), 1849, Journ. 
 
@@ -2226,7 +2226,7 @@ Brachypteryx nipalensis Hodgson, 1854, in Horsfield and
 
 
 
-Moore, Cat Birds Mus. East India Co., 1, p. 397 — 
+Moore, Cat. Birds Mus. Hon. East-India Company, 1, p. 397 — 
 
 
 
@@ -9243,7 +9243,7 @@ Breeds in the hills of Syria and Lebanon; winters south
 
 Ruticilla phoenicuroides Moore, 1854, in Horsfield and 
 
- Moore, Cat. Birds Mus. East India Co., 1, p. 301 — 
+ Moore, Cat. Birds Mus. Hon. East-India Company, 1, p. 301 — 
 
  Shikarpur, Sind. 
 
@@ -9422,7 +9422,7 @@ Phoenicurus hodgsoni (Moore)
 
 Ruticilla Hodgsoni Moore, 1854, in Horsfield and Moore, 
 
- Cat. Birds Mus. East India Co., 1, p. 303 — Bootan. 
+ Cat. Birds Mus. Hon. East-India Company, 1, p. 303 — Bootan. 
 
 
 
@@ -30298,7 +30298,7 @@ MALACOPTERON MAGNIROSTRE
 
 Alcippe magnirostris Moore, 1854, in Horsfield and Moore, 
 
- Cat. Birds Mus. East India Co., 1, pp. xiv (in list), 407 
+ Cat. Birds Mus. Hon. East-India Company, 1, pp. xiv (in list), 407 
 
  — Malacca. 
 
@@ -34223,7 +34223,7 @@ Spelaeornis longicaudatus (Moore)
 
 Pnoepyga longicaudata Moore, 1854, in Horsfield and 
 
- Moore, Cat. Birds Mus. East India Co., 1, p. 398 — 
+ Moore, Cat. Birds Mus. Hon. East-India Company, 1, p. 398 — 
 
  "Afghanistan," error; corrected to northern India, by 
 
@@ -38201,7 +38201,7 @@ TURDOIDES LONGIROSTRIS
 
 Pyctorhis longirostris "Hodgson" = Moore, 1854, in Hors- 
 
- field and Moore, Cat. Birds Mus. East India Co., 1, 
+ field and Moore, Cat. Birds Mus. Hon. East-India Company, 1, 
 
  p. 408 — Nepal. 
 
@@ -47934,7 +47934,7 @@ Yuhina castaniceps castaniceps (Moore) '^ o -n '/■
 
  Ixulus castaniceps Moore, 1854, in Horsfield and Moore, 
 
- Cat. Birds Mus. East India Co., 1, p. 411 — "Afghanis- 
+ Cat. Birds Mus. Hon. East-India Company, 1, p. 411 — "Afghanis- 
 
  tan," error; corrected to Khasi Hills, Assam, by Sharpe, 
 
