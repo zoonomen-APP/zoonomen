@@ -1912,7 +1912,7 @@ p. 232 (1890); Stycm, Ibis, 1891, pp. 327, 493 (Lower Yangtze,
 resident; Ningpo, breeding); Campbell, Ibis, 1892,p. 244 (Corea). 
 Geronticus nippon, Gray, List Grail Brit. Mus. p. 91 (1844); id. 
 Hand-l B. iii. p. 40, no. 10232 (1871). 
-Nipponia temmincki, Beiehenb. Av. Syst Nat. p. xiv (1852); id. 
+Nipponia temmincki, Reichen.. Av. Syst Nat. p. xiv (1852); id. 
 Grail Taf. 141. fig. 538 (1851); Bonap. C. B. xl. p. 725 (1855). 
 Nipponia nippon, Bonap. Consp. ii. p. 152 (1855); Tacz. Bull. Soc. 
 Zool France, i. p. 258 (1876); Stejn. Pr. U.S. Nat. Mus. x.p.272 
@@ -7162,7 +7162,7 @@ b'. With a distinct blackish loral patch plmnifera, p. 87.
 Ardea intermedia, Uasselt, MSS. (teste Schlegel), Wagler, Isis, 1829, 
 p. 659 (Javat); Layard, Ann. 8f Mag. Nat. Hkt. xiv. p. Ill 
 (1854) ; Schl. Mus. Bays-Bas, Ardea, p. 19 (1863: part.); Hume, 
-Nests Sr Eggs Ind. B. p. 615 (1875); Beiehen. J.f. 0.1877, p. 273 
+Nests Sr Eggs Ind. B. p. 615 (1875); Reichen. J.f. 0.1877, p. 273 
 (pt.); Dresser, B. Bur. vi. p. 238, note (1880); Seeb. B. Japan, 
 Bmp. p. 217 (1890). 
 Ardea melanopus, Wagler, Isis, 1829, p. 659 (Java). 
@@ -8800,7 +8800,7 @@ Proe. U.S. Xaf. Mus. v. pp. 544, 548 (1883: Lower California) ;
 Baird, Brewer, $ Bidgw. Water-Birds X. Amer. i. p. 33 (1884); 
 Coues, Fey X Amer. B. 2nd ed. p, 661 (1884). 
 Hvdranassa 
-rufa, Heine §- Beiehen. XomencL Mus. Hein. p. 306 
+rufa, Heine §- Reichen. XomencL Mus. Hein. p. 306 
 (1590). 
 
 Advli male. General colour above ligbt slaty grey, with a hoary 
@@ -12228,13 +12228,13 @@ Vorderm. N. T. Nederl Ind. xliv. p. 202 (1884: Java) ; Whitehead,
 Ibis, 1885, p. 44 (Corsica); Swinh. fy Barnes, t. c. p. 136 
 (Mhow); Fischer, J.f. O. 1885, p. 118 (Wapokomoland); Sharpe, 
 Ibis, 1886, p. 491 (Fao), p. 499 (Bushire); Gigl. Avif. ltal. pp. 285, 
-541 (1886) ; Salvad. Eleneo Ucc. Ital. p. 246 (1886); Beiehen. 
+541 (1886) ; Salvad. Eleneo Ucc. Ital. p. 246 (1886); Reichen. 
 J. f. O. 1887, p. 50 (Kagehi) ; Koenig, J.f. O. 1888, p. 275 
 (Tunis); Hume, Str. F. xi. p. 337 (1888: Manipur); Lilford, 
 Col. Fig. Brit. B. pt. vii. (1888); St. John, Ibis, 1889, p. 178 
 (Caudahar); Lilford, t. c. p. 344 (Limasol, Cyprus); Gigl Avif. 
 Ital., 1st Besoc. p. 444 (1889); Saunders, Man. Brit. JB. p. 367 
-(1889); Beiehen. Syst Verz. Vog. Deutschl. p. 41 (1889); id. 
+(1889); Reichen. Syst Verz. Vog. Deutschl. p. 41 (1889); id. 
 
 J. f. O. 1889, p. 268 (Quilimane); Vorderm. Nat. Tijdschr. 
 Nederl. Lid. xlix. p. 417 (1889: Sumatra); Brusina, Motr. etc. 
@@ -17602,7 +17602,7 @@ p. 444 (1881); Sharpe in Oates's Matebele Land., App. B, p. 327
 Hist Brit B. ii. p. 492 (1884); Badde, Orn. Cauc. pp. 42, 404 
 (1884); Sharpe, Ibis, 1886, p. 491 (Fao); Heine § Beichen. 
 Nomencl Mus. Hien. p. 308 (1890); Sharpe, Ibis, 1891 p. 112 
-(Fao, Sept.); Beiehen. Vog. deutsch~Ost~Afr. p. 64 (1894: Bagamojo; 
+(Fao, Sept.); Reichen. Vog. deutsch~Ost~Afr. p. 64 (1894: Bagamojo; 
 ussambara; Ugalla; "Wualaba; Massai Steppes; Aruscha -r 
 Victoria Nyanza). 
 Bubulcus ruficristata, Verr. MSS.; Bp. Consp. Av. ii. p. 125 (1855)* 
@@ -20328,7 +20328,7 @@ p. 273 (1884); Seebohm, Ibis, 1884, p. 268 (Kiukiang) ; Wardlaw-
 Ramsay, t e. p. 335 (Manila); Styan, Ibis7 1891, pp. 327, 492" 
 (Lower Yangtse, July) ; De La louche, Ibis, 1892, p. 489 (Swatow ; 
 Foochow); Styan, Ibis, 1893, p. 434 (Hainan). 
-Botaurus flarieollis, Beiehenb. Syst Wat p. xvi (1852); Reichen, 
+Botaurus flarieollis, Reichen.. Syst Wat p. xvi (1852); Reichen, 
 
 J.f. 0.1877, p. 245. 
 Herodiasfl-ivicoliis,Licht. Womenel. Av. Mus. Berol. p. 89 (1854). 
@@ -21223,7 +21223,7 @@ VOL. XXVI. S
 $58 AEDEIDiE. 
 
 Vley, breeding); Gray, Hand-l. B. iii. p. 32, no. 10161 (18/1, 
-pt.) ; Barratt, Ibis, 1876, p. 211 (Potchefstroom); Beiehen.J.f.0. 
+pt.) ; Barratt, Ibis, 1876, p. 211 (Potchefstroom); Reichen.J.f.0. 
 1877, p, 248 ; Ayres, Ibis, 1880, p. 270 (Potchefstroom) ; Butler, 
 Feilden, $ Beid, ZooL 1882, p. 344 (Newcastle, breeding); Symonds, 
 Ibis, 1887, p. 334 (Orange Free State). 
@@ -23234,7 +23234,7 @@ Africa, p. 230 (1825) ; Denham <§* Clapperton, Travels in Africa,
 
 ii. App. p. 202 (1826); Less. Traite cVOm. p. 577 (1831); Vieill 
 Gal Ois. ii. p. 250 (1834) ; Riipp. Syst. Uebers. p. 121 (1845: 
-Senaar and Abyssinia); Gray, Gen. B. iii. p 588 (1847) ; Beiehenb. 
+Senaar and Abyssinia); Gray, Gen. B. iii. p 588 (1847) ; Reichen.. 
 Grail tab. 86. fig. 513 (1848) ; Licht. Nomencl. Mm. Berol p. 90 
 (1854: N. Africa; Arabia); Bp. Consp. Av. ii. p. 144 (1855); 
 JEeugl Syst. Uebers. p. 60 (1856: Senaar; White Nile; Abyssinia) 
@@ -23284,17 +23284,17 @@ Johnston, Rivf>r Congo, p. 370 (1884): Fischer, Zeitschr. ges. Orn.
 I. p. 384 (1884: Cheat Aruscha); Sahad. Ann. Mm. Genov. (2) 
 i p. 220 (l-8i: Shoa); Fischer, J.f. 0. 1885, p. 118 Tangani; 
 Aruscha; Naiwa>eha Lake); HarUrt,Jf 0. 1886, p 606 (Loko, 
-R. Niger); Beiehen. J.f. O. 1887, p. 48 (Victoria Nyanza, breeding) 
-; Matsche, t. c. p. 146 (Likulwe); Beiehen." t. c. p. 299 
+R. Niger); Reichen. J.f. O. 1887, p. 48 (Victoria Nyanza, breeding) 
+; Matsche, t. c. p. 146 (Likulwe); Reichen." t. c. p. 299 
 (Manyaiipa); Sahtd. Arm. Mus. Genov. (2) vi. p. 315 (1888: 
 Shoa;; Biltfik, Notes Leyd. Mus, ix. p. 244 (1888: Htimpata) ; 
 id. op. mi. xi. p. 100 (1889: Upper Cunene River): Gurney, Ibis, 
 3b9U, p. 127 (Ghasrira, 4500 ft., Southern slope of Kilimanjaro); 
-Beiehen. J.f O. lVl)0, p. 308 (Cameroons); id. ibid. 1891, p. 142 
+Reichen. J.f O. lVl)0, p. 308 (Cameroons); id. ibid. 1891, p. 142 
 (Naiiijrwira^Ugojro); Emin, t. c. p. 345 (Albert Nvan^a); Beddard, 
 P. Z. S. Ib01, p." 18, fipr. 4b; Sibree, Ibis, 1891, p. 211 (Madagascar) 
 ; Bendall, Ibis, 1892, p. 227 (Gambia) ; Sharpe, t. c. p. 342 
-(Machakos); Newton, Diet. Birds, ii. p. 405 (1895); Beiehen. 
+(Machakos); Newton, Diet. Birds, ii. p. 405 (1895); Reichen. 
 Tog. dmt*eh-Ost-Afr. p. 61, fig. 32 (1894); Shelley, Ibis, 1894, 
 
 p. 477 (Fort Lister, Nvasa-land); Fleck, J. f O. i894, p. 387 
@@ -24761,7 +24761,7 @@ Mm., Grail, pi. 73. no. 801; id. in Gray's ZooL Misc. p. 80 (1644) j
 Gray7 Cat. Mamm. 8fc. Nepalpres. Hodgs. p. 136 (1840); Gould, 
 
 B. Austr. vi. pi. 51 (1847); Bbjth, Cat B. Mm. As. Sec. p. 276 
-(1849: Calcutta distr.); Beiehenb. Grail tab. xeiv. fig, 445, 
+(1849: Calcutta distr.); Reichen.. Grail tab. xeiv. fig, 445, 
 ecxeii. fig. 2387 (1850); Bennett, Gatherings of a Naturalist in 
 Australasia, p. 195, pi. i. (1860); Parker .P. Z. 8. I860, p. 328 
 Irby, Ibis, 1861, p. 244 (Oudh) $ Jerd. B. Ind. iii. p. 734 (1864). 
@@ -41316,7 +41316,7 @@ Podiceps albicoliis, less. Traits d'Om. p. 594 (1831).
 Podiceps chilensis, Gould, ZooL Voy. Beagle, pt. iii. Birds, p. 137 
 (1841) iTierra del Fuego; Buenos Ayres'1; Gay. Hist. Chili, Zoo/. 
 
-i. p. 464 (1847); Beiehenb. Xafatores, pl.~13. no. 750 (1850). 
+i. p. 464 (1847); Reichen.. Xafatores, pl.~13. no. 750 (1850). 
 Podiceps 
 rollandi, Gould {nee Q. & G.), ZooL Vol/. Beagle, pt. iii. 
 Birds, p. 137 (1841) [part"!; G. P. Gray, List of B. pt. iii. p. 151 
@@ -42618,7 +42618,7 @@ dEur. Orel. 14, pi. 6 (1828;; Selby, Brit. Orn. ii. p. 392, pi. Ixxii.
 p. 135 [Erzeroom] ; Bemid. Toy. Buss. Mend. iii. p. 304 (lft40) ; 
 Bouteille, Orn. Bauphine, ii. p. 225, pi. 59. fig. 2 (1843) ; 6*. 12. 
 Gray, List of B. pt. id. p. 149 (1844); Begl. Orn. Burop. ii. p. 301 
-(1840) ; Beiehenb. Natatores, pi. 11. nos. 64-68 (1850); Thomps. 
+(1840) ; Reichen.. Natatores, pi. 11. nos. 64-68 (1850); Thomps. 
 Nat Hist. Irel. iii. p. 184 (1851): Macqill. Brit. B. v. p. 259 
 (1852); Kjarboll. Banm. Fugle, p. 400, pL hoax. (1852); Waiters, 
 N Hist, B. Irel. p. 220 (1853); jStottfea. fiteasfc. Fogl pi. 54. fig. 3 
