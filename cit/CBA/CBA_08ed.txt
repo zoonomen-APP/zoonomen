@@ -11875,7 +11875,7 @@ Anthus chii (not of Vieillot) Philippi, Ornis, 4, p. 159, 1888 Antofagasta.
 
 
 
-Anthus calcaratus (not of Taczanowski) Berlepsch and Leverkiihn, Ornis, 
+Anthus calcaratus (not of Taczanowski) Berlepsch and Leverkuhn, Ornis, 
 
  6, p. 8, 1890 Calama, Antofagasta (crit.; spec, examined). 
 
@@ -20789,7 +20789,7 @@ Hylophilus brunneiceps Sclater, Proc. Zool. Soc. Lond., 1866, p. 322 "in
 
  Negro and "Oyapock, Guiana" (monog.); Gadow, Cat. Bds. Brit. Mus., 
 
- 8, p. 310, 1883 "Guiana"; Berlepsch and Leverkiihn, Ornis, 6, p. 7, 
+ 8, p. 310, 1883 "Guiana"; Berlepsch and Leverkuhn, Ornis, 6, p. 7, 
 
  1890 "Angostura," Orinoco (crit.; spec., now in Berlin Museum, ex- 
 
@@ -63632,7 +63632,7 @@ Basileuterus cinereicollis Sclater, Proc. Zool. Soc. Lond., 1864, p. 166
 
  Sharpe, Cat. Bds. Brit. Mus., 10, p. 382, 1885 Bogota (descr.); Berlepsch 
 
- and Leverkiihn, Ornis, 6, p. 7, 1890 Bogota (crit.); Chapman, Bull. 
+ and Leverkuhn, Ornis, 6, p. 7, 1890 Bogota (crit.); Chapman, Bull. 
 
  Amer. Mus. N. H., 36, p. 550, 1917 Buena Vista, above Villavicencio, 
 
