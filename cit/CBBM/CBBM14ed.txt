@@ -832,7 +832,7 @@ JO. bellus, Scl 207
 20. crypterythrus, <SW 210 
 21. eryptoxanthus, Scl 211 
 00. 
-Pyroeeplialus, Gould .... 211 
+Pyroceplialus, Gould .... 211 
 I.'rubineiibj iitorfr/ 211 
 2. muxieanus, /Sit*/ 213 
 3. nanus, Gould 214 
@@ -1531,7 +1531,7 @@ scarcely so large as Turdus viscivoms, and the greater number
 of them much smaller. The Tyrant-birds are mostly clad in dull 
 colours of olive-brown and black, relieved only by shades of yellow 
 and green ; though there are occasional exceptions to the rule, such 
-as the brilliant scarlet of the male PyrocepJiali, and the fiery crests 
+as the brilliant scarlet of the male Pyrocephali, and the fiery crests 
 of the Musdvorce. Their generally uniform plumage and similar 
 external structure renders the discrimination of the species of 
 Tyrannidce and their grouping into genera extremely difficult, and 
@@ -15760,7 +15760,7 @@ Salvin-Godman Coll.
 Sclatex Coll. (Types 
 of the species.) 
 
-66. PYKOCEPHALUS. 
+66. PYROCEPHALUS. 
 Type. 
 Pyrocephalus, Gould, Zool. Voy.'Beagle,1 iii. p. 44 (1841) P. rubineus. 
 
