@@ -158,7 +158,7 @@ U [C.] " equals " Collected by" ; "[E.] " signifies "Received in
 Exchange." Where none of these signs are used, the specimens 
 have been acquired by purchase. 
 
-R. EOWDLER SHARPE. 
+R. BOWDLER SHARPE. 
 British Museum (N. H.), 
 27th February, 1894. 
 
@@ -722,7 +722,7 @@ Page
 
 a. rhaad {Lath.) 310 
 
-1. cserulescens (F.) 308 
+1. caerulescens (F.) 308 
 
 2. canicollia (Reichen.) .. 309 
 
@@ -2181,7 +2181,7 @@ Rallus germanicus, Brehm, Vdg. DeutscM. p. 690 (1831).
 Kallus minor, Brehm, Vogelf p. 328 (1855). 
 Kallus f uscilateralis, Brehm, Vogelf p. 328 (1855). 
 Kallus indicus, pt., Jerd. B. Ind. iii. p. 726 (1864). 
-Aranius aquatieus, Gray, HandA. B. iii. p. 59, no. 10408 (1871). 
+Aranius aquaticus, Gray, HandA. B. iii. p. 59, no. 10408 (1871). 
 
 Adult male in summer jplumage. General colour above olive-brown, 
 broadly streaked with black, the feathers being all longitudinally 
@@ -2368,12 +2368,9 @@ Damietta (Filipponi).
 Foot of Mount Oarmel, Palestine. 
 Midian. 
 Marshes of Babylonia {Com
-
-
 mander Jones). 
 Shiraz (Sir 0. St. John). 
 Yarkand, July 18, 20 (J. 
-
 Scully). 
 Yarkand, March (J". Biddulph). 
 Lundi, Northern Afghanistan, 
@@ -2530,7 +2527,7 @@ p. 371 (1876: Yokohama).
 Ptallus aquaticus, 0. japonicus, Bp. C. R. xliii. p. 598 (1856). 
 Eallus aquaticus, c. indicus, Bp. t c. p. 598 (1856). 
 Rallus aquaticus, pt., Schl Mus. Pays-Bus, Ealli, p. 10 (1865). 
-Eallus aquaticus, var., Dyb. fy Parv. Jf. O. 1868, p. 338 (Dauria). 
+Eallus aquaticus, var., Dyb. fy Parv. J.f.O. 1868, p. 338 (Dauria). 
 Eallus japonicus, Jerd. B. Fid. ii. p. 727, note (1863) ; Dresser, B. 
 Eur Ml p. 261 (1878). 
 Eallus aquaticus indicus, Seeb. B. Japan. Fmp. p. 359 (1890). 
@@ -2586,11 +2583,11 @@ z-d'. (S ad.; e'-%'. Calcutta, Dec, Jan. Hume Coll.
 5 ad. sk. 
 k'. Ad. sk. Calcutta (F. Blyth). India Museum. 
 
-9. Rallus cserulescens. 
+9. Rallus caerulescens. 
 Blue-necked Bail, Lath Gen. Sijn. iii. pt. 1, p. 284 (1785). 
 
 Rallus 
-cserulescens, Gm. Syst. Nat. i. p. 716 (1788): Lath. Ind. 
+caerulescens, Gm. Syst. Nat. i. p. 716 (1788): Lath. Ind. 
 Orn. ii. p. 758 (1790); Vieill N. Diet. d'Hist Nat. xxYih. p. 551 
 (1819) ; Gray, Gen. B. iii. p. 593 (18415); Feichenb. Ilmidb., Fulicarim, 
 Novit. Taf. xliii. figs. 2473-74 (1851): Bp. C. It xliii. p. 598 
@@ -2610,7 +2607,7 @@ Afr. p. 610 (1884); Bohm, J.f. 0.1885, p. 52 (Gonda). ^
 Rallus 
 caffer, Forst. Icon. ined. iig. 129; id. Descr. Anim. p. 50 
 (1844). 
-Rallus aquatieus (nee L.)3 Gurney, Ibis, 1859, p. 249 (Natal), 1868, 
+Rallus aquaticus (nee L.)3 Gurney, Ibis, 1859, p. 249 (Natal), 1868, 
 
 p. 261. 
 26 RALLIDJE. 
@@ -2671,7 +2668,7 @@ P. A. Barratt, Esq.
 F. A. Barratt, EMJ. 
 [O.]. 
 
-10. Rallus ma&agascariensis. 
+10. Rallus madagascariensis. 
 ? Rallus madagascariensie, Desj. P. Z. 8. 1831, p. 45 (deser. nulla). 
 
 Rallus madagascaiiensis (certe), Verr. S. Afr. Q. Journ. ii. p. 80 
@@ -5090,7 +5087,7 @@ Chiricote aplomado, Azara, Apunt.iii. p. 216 (1805).
 Hall us nigricans (nee V.), Bp. Joum. Philad. Acad. iv. p. 386 
 
 
-(\S'2o);'Burnt. J.f. O. 1853, p. 176 (egg). 
+(\S'2o);'Burnt. J.f.O. 1853, p. 176 (egg). 
 G-allinula saracura, Spiv, Av. Bras. ii. p. 75, Taf. 98 (1825). 
 Kallus melanurus, Bp. Joum. Philad. Acad. v. p. 139 (1825), 
 Gallinula plumbea, Neuwied, Beitr. Orn. Bras. iv. p. 795 (1832); 
@@ -5185,7 +5182,7 @@ Range. Southern New Guinea.
 1. Megacrex inepta. 
 Megacrex inepta, B* Albert, fy Salvad. Ann. Mus. Civic. Genov. xiv. 
 p. 130 (1879) ; DAlbert. P. Z. S. 1879, p. 218; BeicJien. $ 
-Sthalow, J.f. O. 1879, p. 310; Gould, B. New Guinea, v. pi. 69 
+Sthalow, J.f.O. 1879, p. 310; Gould, B. New Guinea, v. pi. 69 
 (1880) ; jyAlbert. Nuova Guinea, p. 588 (1880) ; Salvad. Ann. 
 Mus. Civic. Genov. xviii. p. 321 (1882); id. Orri. Papaasia. iii. 
 p. 272 (1882). 
@@ -5481,7 +5478,7 @@ Ocydromus nigricans, Bidler, Tr. N. Zeal. Inst. i. p. 50 (1868), iii.
 
 p. 55 (1870); Gray, Hand-L B. iii. p. 56, no. 1036G (1871). 
 Ocydromus fuscus, 
-Finsch, J.f. O. 1870, p. 354; id. Tr. N. Zeal. 
+Finsch, J.f.O. 1870, p. 354; id. Tr. N. Zeal. 
 Inst. v. p. 209 (1872); id. J. f. O. 1872, p. 180; Button, Tr. N. 
 Zeal. Inst. vi. p. Il l (1873); Buller, B. N. Zeal. p. 174 (1873) ; 
 
@@ -5781,7 +5778,7 @@ of the quills; wing-coverts deep chestnut like
 the back 7 kioloides, p. 73. 
 1. Canirallns ocnletis *. 
 Gallinula 
-oculea, Hartl J.f. O. 1855, p. 357 {ex Temm. MBS.); 
+oculea, Hartl J.f.O. 1855, p. 357 {ex Temm. MBS.); 
 Gray, Hand-l B. iii. p. 67, no. 10506 (1871). 
 Canirallus oculeus, Bp. C. It xliii. p. 600 (1856); Hartl Faun. 
 Madag. p. 80 (1862). 
@@ -5791,7 +5788,7 @@ lJhilad. Acad. 1859, p. 174 (Camma llivei); Sharpe, Ibib, 1869,
 p. 195 (Fantee); id. P. Z. S. 1871, p. 614 (Cameroons); Ussher, 
 Ibis, 1874, p. 74 (Fantee); Oust N. Arch. Mas. (2) ii. Bull p. 142 
 (1879: Gaboon); Reichen. J. f O 1890, p. 106 (Cameroons). 
-Hypotaenidia oculea, Hartl J.f. O. 1861, p. 274. 
+Hypotaenidia oculea, Hartl J.f.O. 1861, p. 274. 
 
 llallina 
 oculea, Schl Mus. Bays-Bas, lialli, p. 20 (1865); Buttik. 
@@ -6428,7 +6425,7 @@ Gray, Hand-l, B. iii. p. 62, no. 10456 (1871); Hengl. Orn. N.O.-
 Afr. ii. pt. 2, p. 1241 (Gondokoro), App. p. cxcvi (1871); Sharpe 
 Sf Bouvier, Bull. Soc. Zool. France, iii. p. 79 (1878: Boma); 
 Sharpe, in Gates'1 Matebele Ld. App. p. 324 (1881: Gubuleweyo); 
-Bocage, Orn. Angola, p. 479 (1881); Boehm, J.f. O. 1882, p. 188 
+Bocage, Orn. Angola, p. 479 (1881); Boehm, J.f.O. 1882, p. 188 
 (Kakoma, May) ; Schalow, J. f. O. 1883, p. 340 (Kakoina, Dec.); 
 Hartl. Abhandl. nat. Ver. Bremen, vii. p. 119 (1881: Lado); 
 Pelz. Verh. z.-b. Gesellsch. Wlen, xxxi. p. 155 (1881: Mahagi) ; 
@@ -6616,7 +6613,7 @@ p. 490 (1859); Reinh. Ibis, 1861, p. 11 (Greenland) ; Gray, List
 Brit. B. p. 178 (1863); More, Ibis, 1865, p. 439; Layard, B. S. 
 Afr. p. 338 (1867); id. Ibis, 1869, p. 377; Doderl Avif. Sicil. 
 p. 199 (1869); Fritsch, Vog. Fur. Taf. 32. figs. 2, 6 (1870); 
-id. J.f. O. 1871, p. 351 (Bohemia); Reugl. Orn. N.O.-Afr. ii. 
+id. J.f.O. 1871, p. 351 (Bohemia); Reugl. Orn. N.O.-Afr. ii. 
 p. 1242 (1871) j Gray, Hand-IB. iii. p. 62, no. 10450 (1871); 
 Shelley, B. Egypt, p. 274 (3872); Irby, B. Gibr. p. 142 (1875); 
 Ayres, Ibis, 1877, p. 351 (Lydenburg); Hartl Abhandl not. Ver. 
@@ -7101,7 +7098,7 @@ Harvie Brown, Ibis, 1875, p. 418 (Transylvania); Seeb. Ibis, 1882,
 
 p. 226 (A&trackan). 
 Phalaridium pubillum 
-(nee Fall), Meves, J.f. O. 1875, p. 433 (Karabolska: 
+(nee Fall), Meves, J.f.O. 1875, p. 433 (Karabolska: 
 nesting). 
 
 25 . ZAJPORNTA. 
@@ -7368,7 +7365,7 @@ Haruie Brown. Ibis, 1873, p. 07 (Archangel); Brooke, t. c. p. 336
 (Sardinia) ; Wharton, Ibis, 1875, p. 27 (Corsica): Tacz. Bull. Soc. 
 Zool. France, ii. p. 160 (1877 ; Poland); Cab. J.'f. 0.1878, p. 246 
 (Kitui in Ukamba); Marsch. fy Pelz. Orn. Vindob. p. 118 (1882); 
-Radde, Orn. Cauc. p. 376 (1884); Fischer, J.f. O. 1885, p. 117 
+Radde, Orn. Cauc. p. 376 (1884); Fischer, J.f.O. 1885, p. 117 
 (Zanzibar); Gigl. Avif. Ital. p. 349 (1886); id. op. cit. 1st Piesoc. 
 p. 540 (1889);' Madardsz, Ausst. Ungar. Vogelf. p. 112 (1891)-
 Hartert, Ibis, 1892, p. 513 (E. Prussia). 
@@ -7719,7 +7716,7 @@ Scl. % Salv. Nomencl. A v. Neotr. p. 139 (1873); Coues, B. N.West,
 p. 538 (1874); Lawr. Mem. Bost. Soc. Nat. Hist. ii. p. 312 
 (1874: Mazatlan); Hensh. Rep. Zool. Exped. 100th Mer. p. 4(58 
 (1875); Gundl. Orn. Cuba, p. 299 (1876); Tacz. P. Z. S. 1877, 
-p. 748 (W. Ecuador) ; Gundl. J.f. O. 1878, p. 162 (Porto Rico); 
+p. 748 (W. Ecuador) ; Gundl. J.f.O. 1878, p. 162 (Porto Rico); 
 Coues, Bull. U.S. Geol Surv. iv. p. 647 (1878); Merrill, Proc. 
 U.S. Nat. Mm. i. p. 165 (S. Texas: breeding); Belding, t. c. 
 p. 433 (Stockton); Scl. 8> Salv. P. Z. S. 1879, p. 545 (Medellin) ; 
@@ -8215,7 +8212,7 @@ pt).
 Phalaridium sp. indet., OIphe-Gall, Contr. Faun. Orn. Bur. Occul 
 
 fasc. xvL p. 30 (lfc87). 
-Gallinula pusilla [nee Ball), Koenig, J.f. O. 1888, p. 275 (Tunis). 
+Gallinula pusilla [nee Ball), Koenig, J.f.O. 1888, p. 275 (Tunis). 
 Gallinula minuta {nee Ball), Reiser, Vbg. Mus. Sarajevo, p. 117 
 
 (1891). 
@@ -8747,7 +8744,7 @@ Scl P. ZS. 1861, p. 81.
 Corethrura minuta, Licht. Nomencl. Av. p. 96 (1854). 
 JLaterirallus gossii, Bp. O. P. xliii. p. 591) (185(5). 
 Ervthra minuta, Bp. C. P. xliii. p. 600 (1856). 
-Crybastus gossii, Cab. J.f. O. 1856, p. 428 ; Gundl J. f. O. 1875, 
+Crybastus gossii, Cab. J.f.O. 1856, p. 428 ; Gundl J. f. O. 1875, 
 
 p. 858; id. Orn. Cuba, p. 191 (1876). 
 Porzana minuta, March, Proc. Philad. Acad. 1864, p. 69. 
@@ -8847,7 +8844,7 @@ Layard, Ibis, 1878, p. 264 (New Caledonia): Oust. Bull Soc.
 Philom. 1879, p. 220; Finsch, J. f. O. 1880, pp.' 297, 307 ; id. Ibis, 
 1881, pp. 106,109; id. J.f O. 1882, p. 307 (Kushai); E. L. § I. 
 C. Layard, Ibis, 1882, pp. 537, 544 (New Caledonia) ; Butter, B. 
-New Zeal. 2nd ed. ii. p. 101, pi. 23. fig. 1 (1888); Reichen. J.f. O. 
+New Zeal. 2nd ed. ii. p. 101, pi. 23. fig. 1 (1888); Reichen. J.f.O. 
 1891, p. 127; Wiglesw. Abhandl. Zool. Mus. Dresd. no. 6, p. 60 
 (1891). 
 Zapornia spilonota (nee Gould), Peale. U.S. Expl. Exped., Aves, 
@@ -8858,7 +8855,7 @@ Soc. Linn. Bordeaux, xxvii. p. S28 (1870) ; Schl. Mus. Pays-Bas,
 Balli, p. 36 (1865). 
 
 Porzana spilonota, var., Hartl. in Wieym. Arch. 1852, p. 136. 
-Porzana vitiensis, Hartl. J.f. O. 1854, p. 169. 
+Porzana vitiensis, Hartl. J.f.O. 1854, p. 169. 
 Porzana tabuensis, Hartl. J.f O. 1854, p. 169 (Society Isl.); Gould, 
 
 
@@ -10145,7 +10142,7 @@ p. 142 (Celebes) ; DAlb. et Salvad. Ann. Mus. Civ. Gen. xiv.
 p. 129 (1879); Salvad. ibid. p. 667 (1879); D'Atb. Nuova Guin. 
 p. 588 (1880); Finsch, P. Z. S. 1880, p. 577; Salvad. Ann. 
 Mus. Civ. Gen. xviii. p. 321, no. 12 (1882); id. Orn. Papuasia etc. 
-iii. pp. 273-74 (1882); W. Blasius, J.f. O. 1883, p. 139, 1884, 
+iii. pp. 273-74 (1882); W. Blasius, J.f.O. 1883, p. 139, 1884, 
 p. 218 (Lake Teweh and S.E. Borneo; breeding); Kwtter, t. c. 
 p. 225 (eggs); id. J. f. O. 1885, p. 353; Blasius, Zeitschr* iii. 
 p. 158 (1886: Celebes); Biittik. Notes Leyd. Mus. ix. p. 80 (1887 : 
@@ -11540,7 +11537,7 @@ iii. p. 02, no. 10458 (1871) {JReichen. J.f O. 1877, p. 12 (Loango
 Coast) ; Fischer $ lieichen. J.f. 0.1878, p. 248 (Osi-Tana district); 
 Bartl Abhandl. nat. Ver. Bremen, vii. p. 119 (1881: Lado) ; 
 Peh. Verh. z.-b. Wien, xxxi. p. 155 (1881: Mahagi); Bdhm, J. f. 
-0. 1882, p. 180 (Kakouaa, May); Schalow, J.f. O. 1883, p. 340; 
+0. 1882, p. 180 (Kakouaa, May); Schalow, J.f.O. 1883, p. 340; 
 Fischer, Zeitschr. ges. Orn. i. p. 386 (1884: Nguruman, Naiwascha 
 Lake); Bidtih. Notes Leyd. Mus. vii. p. 245 (1885: Liberia); 
 Meyer, Abbild. Vogel-Sk. pt. xi. (1884); Fischer, J. f. 0. 1885, 
@@ -11559,11 +11556,11 @@ LJ=S S5Z*. ( **». ** ^ M>^> P' I*.
 Limnocorax mosainbicus, Peters, I. c.; JKr/c, 12>w, 1804, p. 335 (Zam
 
 
-besi) j Cab. in Von der Decken, Meis. iii. p. 51 (1809); Cab. J.f. O. 
+besi) j Cab. in Von der Decken, Meis. iii. p. 51 (1809); Cab. J.f.O. 
 
 1878, p. 246(Kitui). 
 
-Limnocorax flavirostris, Ilartl. J.f. O. 18-58, p. 301 ; Gurney, Ibis, 
+Limnocorax flavirostris, Ilartl. J.f.O. 18-58, p. 301 ; Gurney, Ibis, 
 
 1802, p. 35 (Natal) ; Sol. P. Z. S. 1804, p. 144; Monteiro, P. Z. S. 
 
@@ -11730,7 +11727,7 @@ Bp. C. R. xliii. p. GOO (1856); Walden, Tr. Z. 8. ix. p. 231,
 pi. xxxiii. fig. 2 (1875); Tweedd. P. Z. S. 1877, p. 702 (Monte 
 Alban), p. 768 (Cebu); id. P. Z. 8. 1878, p. 345 (S. Leyte, 
 July); JSteere, List B. $ Mamm. Biped. P/ulipp. y. 26 (1890; 
-Luzon, Siquijor); Blasius, J.f. O. 1890, p. 145 (Mindanao). 
+Luzon, Siquijor); Blasius, J.f.O. 1890, p. 145 (Mindanao). 
 
 Adult male. Dark slaty grey, the thighs entirely slaty grey, 
 without the pale vinous isabelline inner face seen in the other 
@@ -12075,7 +12072,7 @@ Erythra javanica, Bp. t. c.
 Erythra ehinensis (sic), Bp. t. c. 
 Rallina phoenicura, Wall. P. Z. S. 1863, p. 487 (Timor). 
 Porzana, sp., Scl. P. Z. S. 1863, p. 223. 
-Rallus (Erythra) phoenieurus, Martens, J.f. O. 1866, p. 29 (Zamboanga). 
+Rallus (Erythra) phoenieurus, Martens, J.f.O. 1866, p. 29 (Zamboanga). 
 
 
 Amaurornis phoenicura, 
@@ -12093,7 +12090,7 @@ Erythrura phoenicura, Oates, Handb. B. Brit. Burm. ii, p. S48 (1883).
 Amaurornis leucomelsena, Salvad. Ann. Mus. Genov. xviii. p. 321 
 
 (1882); id. Orn. Papuasia, iii. p. 278 (1882: Bouru). 
-Erythra leucomelsena, Blasius {nee S. Midi), J.f. O. 1884, p. 215 
+Erythra leucomelsena, Blasius {nee S. Midi), J.f.O. 1884, p. 215 
 (S.E.Borneo). 
 Pisynolimnas phoenicura, Heine, in Heme §* Feichen. Nomencl. Mus. 
 Hem. p. 317 (1890). 
@@ -13237,7 +13234,7 @@ fistulans, Vieill. N. Diet. d'Hist. Nat. xii. p. 405 (1817);
 Brehm, Fog. Deutschl. p. 705 (1831). 
 Gallinula orientalis, Horsf. Tr. Z. S. xiii. p. 195 (1820); Raffl. t. c. 
 
-p. 329 ; Sahad. Ucc. Bom. p. 342 (1874) ; Blasius, J.f. O. 1884, 
+p. 329 ; Sahad. Ucc. Bom. p. 342 (1874) ; Blasius, J.f.O. 1884, 
 p. 218 (S.E. Borneo : breeding); Everett, Joxirn. Straits Br. R. 
 Asiat. Soc. 1889, p. 202; Vorderm. Nat. Tijdschr. Nederl. Ind. 
 xlix. p. 416 (1889: Sumatra). 

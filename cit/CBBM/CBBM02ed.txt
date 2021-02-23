@@ -1096,7 +1096,7 @@ surface bouvieri, p. 11.
 Scotopelia peli, JBp. Consp. i. p. 44 (ex Temm. MS. in Mm. Lugd.); 
 Strickl Orn. Syn. p. 197; Hartl. J. f. 0. 1855, pp. 358, 360; id. 
 Orn. W.-Afr. p. 18; Cass. Pr. Phil. Acad. 1859, p. 32; Gurney, 
-Ibis, 1859, p. 445, pi. 15; Hartl J.f. O. 1861, p. 101; Kirk, Ibis, 
+Ibis, 1859, p. 445, pi. 15; Hartl J.f.O. 1861, p. 101; Kirk, Ibis, 
 1864, p. 317; Finsch u. Hartl Vog. Ost-Afr. p. 100; Murie, J. 
 Anat. Pkys. vi. p. 70; Sharpe, ed. Layard, JB. S. Afr. p. 69. 
 Bubo peli, Kaup, Contr. Orn. 1852, p. 117. 
@@ -1104,7 +1104,7 @@ Scotopelia typica, JBp. Rev. et Mag. de Zool 1854, p. 543.
 Strix pelii, Schl. Hand-l Dierh. i. p. 176, pi. 1. fig. 10. 
 Ulula pelii, Schl. Mus. P.-JB. Striges, p. 23 (1862); id. Dierent. p. 14, 
 fig. 6. 
-Scotoglaux peli, Heine, J.f. O. 1860, p. 196. 
+Scotoglaux peli, Heine, J.f.O. 1860, p. 196. 
 Ketupa peli, Gray, Hand-4. JB. i. p. 45 (1869). 
 Adult. Above deep rufous bay, crossed with numerous irregular 
 bars of black, fainter on the head, which is more Mvescent; wing-
@@ -2491,7 +2491,7 @@ Bubo africanus, Scl Pep. Spelie coll Somali Ld. p. 9; Speke, Ibis,
 
 1860, p. 244; Heugl in Peterm. Mitth. 1861, p. 20. 
 Otus melanotus, Heugl. J. f. O. 1863, p. 12. 
-Bubo selenotis, Heugl. J.f. O. 1867, p. 293 (ex Pr. Wiirt. MS.). 
+Bubo selenotis, Heugl. J.f.O. 1867, p. 293 (ex Pr. Wiirt. MS.). 
 Huhua cinerascens, Gumey, Ibis, 1868, p. 149; id. in Anderss. B. 
 
 Dam. Ld. p. 42. 
@@ -11214,7 +11214,7 @@ Cat. Acoipitr. B. M. 1844, p. 52; id. Zoo?. Voy. Erebus $ Terror]
 
 p. 2; id. Gen. B. i. p. 85 ; Bp. Consp. i. p. 42 ; Strickl Orn. Syn. 
 p. 1(30; Gray, Iland-l i. p. 41; Ilutton, Cat. B. N. Zeal, p.2: 
-Finsch, J.f. O. 1872, p. 94, et 1874, p. 177. 
+Finsch, J.f.O. 1872, p. 94, et 1874, p. 177. 
 Spiloglaux novse zealandiee, Kaup, Isis, 1848, p. 768; id. Contr. Orn. 
 1852, p. 108, et Tr. Z. S. iv. p. 218; Bp. JRev. et Mag. de Zool. 1854, 
 
@@ -12102,7 +12102,7 @@ Athene albifacies, Gray, Voy. Erebus and Terror, Birds, p. 2; id.
 Gen. JB. i. p. 35; Bp. Consp. i. p. 42; Strickl. Orn. Syn. p. 171; 
 Gray, Kand-l. B. i. p. 41; HutUm, Cat. B. N. Zeal. p. 2; Fimch, 
 
-J.f. O. 1872, p. 95, et 1874, p. 177. 
+J.f.O. 1872, p. 95, et 1874, p. 177. 
 Sceloglaux albifacies, Kaup, Isis, 1848, p. 768, et Contr. Orn. 1852, 
 p. 109, et Tr. Z. S. iv. p. 219; Bp. Rev. et Mag. de Zool. 1854, 
 p. 544; Gould, B. Aitstr. Suppl. part ii.; Bailer, B. JSf. Z. p. 21, 
@@ -12942,7 +12942,7 @@ Strichl Orn. Syn. p. 162; Gray, Eand-l P. i. p. 42.
 
 Glaucidium ferrugineum, Kaup, Contr. Orn. 1852, p. 104: Purm. 
 
-Th. Pras. ii. p. 141; Cab. J.f. O. 1869, p. 207. 
+Th. Pras. ii. p. 141; Cab. J.f.O. 1869, p. 207. 
 
 BKOWIT PHASE. Adult. Above ashy brown, with concealed 
 diamond-shaped spots of white on the back, extending to the upper 
@@ -14599,7 +14599,7 @@ Norddeutschl. p. 63.
 Otus major, Brehm, Naum. 1855, p. 270. 
 Otus minor, Brehm, I. c. 
 Otus assimilis, Brehm, L c. 
-Otus verus, Fmsch, J.f. O. 1859, p. 381, 
+Otus verus, Fmsch, J.f.O. 1859, p. 381, 
 
 
 * The following is a species recognised by Von Heuglin, but at present unknown 
@@ -15031,7 +15031,7 @@ Om. Provenc. i. p. 75, pi. 40; Werner, Atlas, Rapaces, pi. 42 ;
 Sw. 4" Bich. Faun. Bor.-A?n. Birds, p. 75; Audub. B. N. Am. 
 pi. ccccxxxii.; id. Orn. Biogr. v. p. 273 ; Schl. u. Summ. Yog. 
 Fur. Taf. ol; Yarr. Brit. B. L p. 121; Schl. Tog. Kcderl pi. 4(5; 
-Sund. Sv. Fogl. p. 183, pi. xxiv. fig. 2 ; Homey er, J.f. O. 1SC8, 
+Sund. Sv. Fogl. p. 183, pi. xxiv. fig. 2 ; Homey er, J.f.O. 1SC8, 
 p. 256. 
 Caspian Owl, Bath. Gen. Sipi. i. p. 147. 
 La Chouette, Buff. PI Fnl ii. pi. 438. 

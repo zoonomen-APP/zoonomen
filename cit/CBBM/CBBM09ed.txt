@@ -3561,7 +3561,7 @@ Nectarinia parvula, Jard. Monogr. Sun-birds, p. 181 (1842).
 Nectarinia venusta, Jard. torn. cit. p. 252, pi. 7; Hartl. Orn. W.-
 
 Afr. p. 48, no. 136 (1857) ; id. J f. 0.1861, p. 109; Bocage, Jorn. 
-Lisb. ii. p. 41, no. 16 (1868); tieiehenow, J.f. O. 1875, p. 30; 
+Lisb. ii. p. 41, no. 16 (1868); tieiehenow, J.f.O. 1875, p. 30; 
 Bocage, Jorn. Lisb. 1878, p. 2; id. Orn. dAngola, p. 173 (1877). 
 
 Ohalcomitra venusta, Beichb. Handb. Seansoritf, p. 280, no. 648, 
@@ -4446,7 +4446,7 @@ NECTARINIIDJE.
 
 12. Cinnyris habessinica. 
 Nectarinia habessinica, Hempr. fy Ehr. Symb. JP7imt Zool i An Y\ 4 
-(1828); Midi. J.f. O. 1855, p. 15; Ileuyl. Faim. 'rath. Meer. 
+(1828); Midi. J.f.O. 1855, p. 15; Ileuyl. Faim. 'rath. Meer. 
 
 Nectarinia purpurata, Kittl. Kupf. Nat. Vo//m p 22 -pi fc>8 iv* 1 
 (1833); Gray, Gen. B. i. p. 98 (1847) ; *JFTeuql jr. V V I8(k 
@@ -5453,7 +5453,7 @@ Nectarophila zeylonica, Beichb. torn. cit. p. 282, pi. 570. figs. 3885
 Holdsiuorth, P. Z. S. 1872, p. 434. 
 Arachnothera nigralba, Gray, Band-l I?, i. p. 113, no. 1402 (1869). 
 Anthreptes zeylonica, Licht. Nomencl Av. p. 56 (1854). 
-Nectarinia zeylonica, Ilartl. J.f. O. 1859, p. 292. 
+Nectarinia zeylonica, Ilartl. J.f.O. 1859, p. 292. 
 
 Adult male. Entire crown and ulnar coverts metallic purplish 
 green; chin and throat purplish violet; lower back and upper tail-
@@ -5782,7 +5782,7 @@ Neetarinia aspasia, S. Mull. Nafuurl. Gescli. Land-en Volhenk. p. 110
 Neetarinia aspasioides, Gray, P. Z. S. I860, p. 348; Pelz. Verli, h. h. 
 
 zool.-bot. Geselhch. Wien,'1 $72, p. 427. 
-Cinnyris aspasia (pt.), Rosenberg, J.f. O. 1804, p. 123. 
+Cinnyris aspasia (pt.), Rosenberg, J.f.O. 1804, p. 123. 
 Neetarinia aspasinoides, Finsch, Neu-Guinea, p. 16-U (1865). 
 Neetarinia amasia, Finsch, torn. cit. p. 163. 
 Proiuerops aspasinoides, Gray, Iland-l. B. i. p. 110, no. 1356 (1869). 
@@ -6203,7 +6203,7 @@ c. S ad. sk. Kingwilliainstown, October 1876. Capt. Trevelyan [P.].
 d. J ad. sk. Natal. 
 Purchased. 
 29. CiEiiyris fischeri. 
-Oinnyris fischeri, Beichen. J.f. O. 1880; p. 142. 
+Oinnyris fischeri, Beichen. J.f.O. 1880; p. 142. 
 Similar to C. verreavxi, but much smaller. (BeieJienow.) 
 Hah. Mozambique. 
 
@@ -6329,7 +6329,7 @@ Nectar inia obscura, Jard. Monogr. Sun-birds, p. 253 (1842) ; id.
 Orn. W.-Afr. pp. 50, 271 (1857); id. J. f. 0. 1861, p. 109; Gray, 
 Hand-l. B. i. p. 108, no. 1321 (1869) ; Sharpe, Ibis, 1870, p. 478; 
 id. Cat. Afr. B. p. 38, no. 353 (1871); Shelley 8f Buckley, Ibis, 
-1872, p. 287; Reichenow, J.f. O. 1875, p. 31. 
+1872, p. 287; Reichenow, J.f.O. 1875, p. 31. 
 
 Cinnyris obscurus, Bp. C. A. i. p. 407, no. 26 (1850); Sharpe fy 
 Bouvier, Bull. Son. Zool. France, L p. 304 (1876) ; Shelley, Monogr. 
@@ -6555,7 +6555,7 @@ Nectarinia
 cyanocephala, Jard. Monogr. Sim-birds, pp. 198, 254 
 pi. 10 (1842); id. Ami. # Mag. Nat. Hist. x. p. 187 (1842) • 
 Hartl. Orn. W.-Afr. pp. 49, 271 (1857); Cass. Br. Bhilad. Acad. 
-18r,9, p. 36, no. 41'; Hartl. J.f. O. 1860, p. 136, no. 80; id. B. Z. S 
+18r,9, p. 36, no. 41'; Hartl. J.f.O. 1860, p. 136, no. 80; id. B. Z. S 
 I860, p. 110 ; id. J.f. 0.1861, p. 109; Gray, Hand-l B. I p. 108, 
 no. 1325 (1869); Sharpe, Ibis, 1869, p. 188; id. Cat Afr. B 
 
@@ -6565,7 +6565,7 @@ Marche 8fc. p. 14 (1875) ; Beichenow, J. f. O. 1875, p. 30,1877
 p. 25;Bocage, Orn. d'Angola, p. 171 (18t7). ' 
 Nectarinia verticalis, Gray, Gen. B. i. p. 98 (1847); Bp C A 
 i. p. 405 (1850); Hartl. Orn. W.-Afr. p. 50 (1857); Cass.' Br 
-Bhilad. Acad. 1859, p. 36, no. 46; Hartl J.f. O. 1861, p. 109. 
+Bhilad. Acad. 1859, p. 36, no. 46; Hartl J.f.O. 1861, p. 109. 
 Cyanomitra cyanocephala, Beichb. Handb. Scansorice, p. 291, no 678 
 pi. 573. fig. 3906 (1854); Oustal. N. Arch. Mus. i. p. 89 (1878). ' 
 Leucochloridia verticalis, Beichb. torn, cit p. 312, no. 731 pi 590 
@@ -6624,8 +6624,8 @@ x. <$ ad. sk. Bembe, Angola. J. J. Monteiro, Esq.
 [0.1 
 39. Cinnyrls reicheixbaclii 
 Nectarinia reichenbachii, Marti Orn. W.-Afr. p. 50 (1857) j Cm, 
-Pr. PMhd. Ac. 1859, p. 36; mine, J.f. O. 18G0, p. 137; Sartl. 
-op. cit. 1861, p. 109 ; Sharpe, Ibis, 1870, p. 478; Reichenow, J.f. O. 
+Pr. PMhd. Ac. 1859, p. 36; mine, J.f.O. 18G0, p. 137; Sartl. 
+op. cit. 1861, p. 109 ; Sharpe, Ibis, 1870, p. 478; Reichenow, J.f.O. 
 1875, p. 31; Bouvier, Cat Ois. Marche, p. 14 (1875). 
 
 Adelinus reichenbachii, Oustal. N. Arch. Mus. i. p. 88 (1878), 
@@ -7618,7 +7618,7 @@ figs. 3866-67 (1854).
 
 C. acile of Heuglin. 
 Nectarinia natalensis, Antin. Cat. p. 34 (1864, nee Jardine) ; Heugl. 
-J.f. O. 1867, p. 202; Salvad. AUi R. Ace. Torin. p. 731, pi. 1. 
+J.f.O. 1867, p. 202; Salvad. AUi R. Ace. Torin. p. 731, pi. 1. 
 fig. 2. 
 6. cnraTEiH. 
 95 
@@ -7708,7 +7708,7 @@ Nectarluia fuliginosa, Drapies, Diet. Class, xv. p. 510 (1S29); JarcL
 Monoqr. Sun-birds, pp. 197, 256, pi. 14 (1842) • Stricld. Contr. 
 Om. 1851, p. 133 • Marti Orn. W.-Afr. p. 43 (1857) ; id. jr. f. O, 
 I860, p. 13(5, 1861, p. 108• Cass. JProc. BUM. Acad. 1850, p. 35 ; 
-SocageSJom. Lisb. 1868, p. 135; Beickenow, J.f. O. 1875, p. 30; 
+SocageSJom. Lisb. 1868, p. 135; Beickenow, J.f.O. 1875, p. 30; 
 Boeage, 0m. d1Angola, p. 163 (1877). 
 
 Cinnyris aureus, Less. Descr. Mamm. ct Ois. p. 271 (1847). 
@@ -7790,7 +7790,7 @@ yOrn.il-p. 42 (1828).
 Nectarinia auratifrons, Drapiez, Diet. Class, XY. p. 511 (1829). 
 Nectarinia amethystina, Jard. Monogr. Sun-birds, pp. 195, 256, 
 
-pi. 13 (1*42); "Hartl Orn. W.-Afr. p. 44 (1857); id.J.f. O. 
+pi. 13 (1*42); "Hartl Orn. W.-Afr. p. 44 (1857); id.J.f.O. 
 1861, p. 108; Grill, Zool Antechn. pp. 10, 39 (1858) ; Layard, 
 
 B. S. Afr. p. 79 (1867); Bocage, Jorn. Lisb. 1869, p. 340, 1877, 
@@ -7930,7 +7930,7 @@ pi. 568.fig.3875 (1854).
 
 Nectarinia angolensis, Marti. Orn. W.-Afr. pp. 45, 270 (1857); 
 Cass. Pr. Philad. Acad. 1859, p. 35 ; llartl. J. f. 0. I860, p. 136; 
-id. J.f 0.1801, p. 108; Reicheno^J.f. O. 1875, p. 30; Bouvier, 
+id. J.f 0.1801, p. 108; Reicheno^J.f.O. 1875, p. 30; Bouvier, 
 Cat. Ois. Marche, p. 13 (1875); Bocage, Orn. $ Angola, p. 162 
 (1877). 
 
@@ -8844,7 +8844,7 @@ Anthothreptes, Cab. torn, cit. p. 104 A. malaecensis.
 Mangusia, Bp. Compt. Rend. 1854, p. 205 A. rectirojstris. 
 Euchloridia, Reichb. Handb. Scansorice, p. 312(1854) A. rectirostris. 
 Ilypogramma, Reichb. torn. cit. p. 314 A. hypogrammica, 
-Tephrolaema, Heme, J.f. O. I860, p. 137 A. tephrolaema. 
+Tephrolaema, Heme, J.f.O. I860, p. 137 A. tephrolaema. 
 Arachnophila, Salvad. Ann. Mus. Civ. Genova, v. 
 
 p. 172 (1874) 
@@ -9189,7 +9189,7 @@ Nectarinia hypodilus, Jard. Contr. Orn. 1851, p. 153 ; Hartl. J. f. O.
 Orn. W.-Afr. p. 52,'no. 149 (1857) ; Socage, Jorn. Lisb. i. p. 135, 
 no. 36 (1866) ; Gray, Hand-l. B. i. p. 108, no. 1317 (lb69); 
 Beichenow, J. f. O. Lb75, p. 31; Socage, Orn. cT Angola, p. 176 
-(1877) ; Beichen. Jf. O. Ib77, p. 25. 
+(1877) ; Beichen. J.f.O. Ib77, p. 25. 
 
 Nectarinia 
 collaris, Verr. in Jard. Contr. Orn. 1851, p. 152 (nee 
@@ -9221,7 +9221,7 @@ Meiehen. torn. cit. p. 260.
 
 Anthodiseta collaris, Cab. in Von der Decketfs Beis. Ost-Afr. iii. 
 
-p. 28, no. 21 (18G9); id. J.f. O. 1878, p. 226. 
+p. 28, no. 21 (18G9); id. J.f.O. 1878, p. 226. 
 Anthodiseta 
 zanibesiana, Sharpe, ed. LayarcVs B. S. Afr. p. 321 
 (1876); Nicholson, P. Z. S. 1878, p. 356; Shelley, Monogr. Nect. 
@@ -9475,7 +9475,7 @@ Monoyr. Keet. p. 333.
 
 Tepln-okema resplendens, Heine, J.f. 0. 1860, p. 137. 
 Nectarinia chloroLema (by " misprint "), Marti P. Z. S. 1860,p. 7. 
-Nectarinia jrabonica, Hartl. J.f. O. 1861, pp. 13, 109; Gray,
+Nectarinia jrabonica, Hartl. J.f.O. 1861, pp. 13, 109; Gray,
 
 
 If and-!. B. i. p 107, no. 1300 (I860). 
@@ -10633,7 +10633,7 @@ Myzomela
 chermesina^ Gray, Gen, B. I. pi. 38 (1840); id. Cat. B. 
 Trop. Id. p. 11; Bp. C A. i. p. 394; Gray, P. Z. S. 1856, p. 190; 
 id. Cat. B. New Guin. p. 55; id. P. Z. S. 1861, p. 434; Bosenh. 
-Nat. TijdBchr. Ned. Ind. xxv. p. 236; id. J.f. O. 1864, p. 122; 
+Nat. TijdBchr. Ned. Ind. xxv. p. 236; id. J.f.O. 1864, p. 122; 
 Grat/; Hand-L B. L p. 154, no. 19b9; Bosenh. Malay. Archvp. 
 
 p. 653; Forbes, P.Z.tilbTS, p. 352, 1&79; p. 273; Salvad. Orn. 
@@ -11002,7 +11002,7 @@ tail-coverts is much less distinct. Wing 2*65 inches, tail 1*9, tarsus
 Myzomela cineracea, Scl P. Z. S. 1879, p. 448, pi. 37. fig. 1, 1880, 
 p. 65; Salvad. Ann. Mus. Civ. Gen. xvi. p. 73; id. Orn, Papuasia, 
 ii. p. 304; id. Aiti B. Accad. Sci. Torino, xvi. p. 624 (1881); 
-Reichen. fy Sohalow, J.f. O. 1880, p. 197; Gould, B. Neiu Gum. 
+Reichen. fy Sohalow, J.f.O. 1880, p. 197; Gould, B. Neiu Gum. 
 pt. xii. 
 Adult male. General colour above uniformly dark brownish grey ; 
 underparts paler j under wing-coverts and inner margin of quills 
@@ -11947,7 +11947,7 @@ Zosterops tepliropleura, Goidd, P. Z. S. 1855, p. 160; id. B. Anstr.
 Sappl pi. 49 (1859) • id. Ilandb. B. Austr. i. p. 538 (1865); Hartl 
 
 
-J.f. O. 1865, p. 18; Gray, Hand-l B. i. p. 162, no. 2109. 
+J.f.O. 1865, p. 18; Gray, Hand-l B. i. p. 162, no. 2109. 
 Zosterops griseonota, 
 Gray, P. Z. S. 1859, p. 161; id. Cat. B. Trop. 
 Isl Pacific Ocean, p. 15 (1859) ; Verr. JRev. et Mag. de Zool. 
@@ -12370,7 +12370,7 @@ xx. p. 473 (1857) j Gray, P. Z. 8. 1858, p. 175; 'id. Cat. Mamm.
 Mosenb, Nat. Tifdschr. Ned. 2nd. xxv. p. 237 (1863) : 8harpe. Cat. 
 B. Brit. Mus. iv. p. 211, note (1879). 
 Zosterops grayi, Wall. P. Z. & 1803, p. 494; Mnsch, Neu-Guinea. 
-p. 164 (1865); Earth J.f. O. 1865, p. 23; Gray, Eand-l. B. i. 
+p. 164 (1865); Earth J.f.O. 1865, p. 23; Gray, Eand-l. B. i. 
 p. 163, no. 2137 (1869); 8ahad. Ann. Mus. Civic. Genov. xiv. 
 1 . ZOSTEROPS. 163 
 p. G54 (1870), xvi. p. 81 (1880); id. Orn. Pammia etc. ii. p. 360 
@@ -12465,7 +12465,7 @@ Zosterops sp.; Gray, Gen, B. i. p. 198 (1848) ; Bp. Consp. i. p. 398
 Zosterops albiventris, BeicJienb. JELandb., Merop. p. 92, sp. 195, Taf. 
 
 461. rig-. 3298 (1852); Jacq. et Bucher. Voy. Pole Sad, Zool texte, 
-iii. p. 95 (1853); Hartl.. f. 0. 1854, p. 164; Bosenb. J.f. O. 
+iii. p. 95 (1853); Hartl.. f. 0. 1854, p. 164; Bosenb. J.f.O. 
 1864, p. 123 j Ilartl. J.f 0. 1865, p. 21; Gray, Iland-l B. i. 
 p. 163, no. 2138 (1809) ; Salvad. Ann. Mus. Civic. Genov. xvi. p. 81 
 (1880) ; id. Orn. Papuasia etc. p. 366 (1881). 
@@ -12802,7 +12802,7 @@ Zosterops madagascariensis, JRupp. Syst. Uebers* p. 57 (1845) ; HeugL
 Syst. TJebers. p. 24, no. 199 (1856). 
 Zosterops lateralis, pt., Heugl. Ibis, 1861, p. 358 (nee Zatk). 
 Zosterops capensis, pt., Heugl. Ibis, 1861, p. 358 (nee Sund.). 
-Zosterops ha"bessinica, Heugl. J.f. 0. 1862, p. 42; Hartl. J.f. O. 
+Zosterops ha"bessinica, Heugl. J.f. 0. 1862, p. 42; Hartl. J.f.O. 
 
 1805, p. 9; Ileitgl. Orn. N.O.-Afr. i. p. 413, iv. pi. ex. (1869-71) ; 
 Sel $ Hartl. P. Z. 8. 1881, p. 1(38; Marti, t. c. p. 954. 
@@ -12850,7 +12850,7 @@ I, c. £ 5 ad. sk. Socotra, March 1880 {Balfour). British Assoc. [P.].
 
 Zosterops euryophthalma; HeugL S'ysi. Uebers, p. 24, no, 200 (1856, 
 descr. nullti). 
-Zosterops poliogastra, Keuql. Ibis, 18G1, p. 357, pi. 18; ich J.f. O. 
+Zosterops poliogastra, Keuql. Ibis, 18G1, p. 357, pi. 18; ich J.f.O. 
 1802, pp. 42, 299 • Maril. J. f. O. 1806, p. 9 j Gray, Hand-l B. 
 
 i. p. 163, no. 2156 (1809) ,• Heugl. Orn. M. O.-Afr. i. p. 412 (1869) : 
@@ -13147,7 +13147,7 @@ Legge [P.].
 Zosterops xantliochroa, 
 Gray, P. Z. 8. 1859, p. 101; id. Cat. B. 
 Trop. IsL Pacific Ocean, p. 16 (1859) ; Verr. Rev. et Mag. de 
-Zool 1800, p. 435 ; llartl J.f. O. 1805, p. 25; Gray, Hand-L B. 
+Zool 1800, p. 435 ; llartl J.f.O. 1805, p. 25; Gray, Hand-L B. 
 
 i. 
 p. 162, no. 2114 (1869); Marie, Acies 8oc. Linn. Bordeaux, 
@@ -13624,7 +13624,7 @@ Gray, Hand-l B. i. p. 102, no. 2126 (1800); Sharpe, Cat. Afr.B.
 p. 30 (1871); Gumeij in^Anderss. B. Bam. Ld. p. 76 (1872); 
 Sharpe, ed. Bayard's B. 8. Afr. p. 32-5 (1870) ; Bocaye, Orn. Angola, 
 p. 288 (1877); Hartl AbJiaMFnat. Ver. Bremen, vii. p. 9911881). 
-Zosterops aurifrons (nee Temrn.), Henyl J.f. O. 1862, p. 41. 
+Zosterops aurifrons (nee Temrn.), Henyl J.f.O. 1862, p. 41. 
 Zosterops icterovirens, Br. Wilrtemb. Icon. ined.; Heuyl J. f. O. 
 1802, p. 205; Gray, Hand-l. B. i. p. 163, no. 2161 (1869). 
 Zosterops pallescens, Heuyl J.f O. 1804, p. 259. 
@@ -15598,7 +15598,7 @@ Glyciphila ocularis, Gould, B. Ausfr. iv. pi. 31; Gray, Gen. B. i.
 
 p. 113; Bp. C. A. i. p. 393; Reichenh. Voq. Neuholl. no. 346; 
 Gray, P. Z. S. 1858, p. 174; id. Cat. B. New Gmn. p. 23; id. P. Z. S. 
-1861, p. 435; Wallace, P. Z. S. 1863, p. 486; Rosenberg, J.f. O. 
+1861, p. 435; Wallace, P. Z. S. 1863, p. 486; Rosenberg, J.f.O. 
 1864, p. 122; id. Malay. Archip. p. 364. 
 Lichmera ocularis, Cab. Mus. Hein. l. j>. 118 (1850). 
 Stomiopera ocularis, Reiclmib. Meropince, p. 109, pi. 479.figs. 3399
@@ -16543,7 +16543,7 @@ auriculata, S. Milll. in Mus. Lugd. (teste Salvad.); Scl. Pr.
 Linn. Soc. ii. p. 157 (1858), &ine dtvscript.; Gray, P. Z. S. 1858, 
 
 p. 191; id. Cat. B. New Guin. p. 24; id. P.Z.S. 1861, p. 434; 
-Rosenberg, Nat Tijdschr. Ned. Ind. xxv. p. 326; id. J.f. O, 1864, 
+Rosenberg, Nat Tijdschr. Ned. Ind. xxv. p. 326; id. J.f.O. 1864, 
 p. 122; Finsch, Neil-Gum. p. 165; Gray, Hand-l B. i. p. 157, no. 
 2044; Scl.P^ZJ$A873,-p. 157; Meyer, Sitzb.Ah Wiss. Wien,\sx. 
 p. 207; Ros&nbTMalay. Arch. p. 553. 
@@ -17166,7 +17166,7 @@ filigera, Gould, P. Z. 8. 1850, p. 278, pi. 34,-Macgilliv. Karr.
 Voy. Rattlesn. ii. p. 357 • Gray, P. Z. 8. 1858, pp. 174, 190; id. 
 Cat. B. New Gum. pp. 23, 55 ; Rosenberg, Nat. Tijdschr. JVed. Ind. 
 
-xxv. p. 286 j id. J.f. O. 1864, p. 122;' Gould, Handb. B. Austr. 
+xxv. p. 286 j id. J.f.O. 1864, p. 122;' Gould, Handb. B. Austr. 
 i. p. 522 j id. B. Austr. Sujipl. pi. 42; Meyer, 8itzb. Ak. Wiss. 
 Wien, lxx. p. 290 ; Ramsay, Proc. Linn. 8oc. N. 8. W. iii. p. Ill; 
 8harpe, Journ. Linn. Soc. xvi. p. 440 (1882). 
@@ -17507,7 +17507,7 @@ p. 156, no. 2023.
 Philemon erythrotis, Vieill. Nouv. Diet, xxvii. p. 429. 
 Ptilotis auricomis, Gould, B. Austr. iv. pi. 37 ; id. Handb. B. Austr. 
 i. p. 511; Cab. Mm. Hem. i. p. 118; Bp. C. A. i,.p. 392; Bosenb. 
-Nat. Tijdschr. Ned. Ind. xxv. p. 236 (New Guin.); id. J.f. O. 
+Nat. Tijdschr. Ned. Ind. xxv. p. 236 (New Guin.); id. J.f.O. 
 1864, p. 122 j Ramsay', Proc. Linn. Soc. N. S. W. ii. p, 189 j Salvad. 
 Orn. Papuasia etc. ii. p. 339. 
 Adult. This species represents P. cassidix in New South Wales ; it 
@@ -19609,7 +19609,7 @@ p. 158; Gray, P. Z.S. 1858, p. 174, 1859, p. 155, 1861, p. 434;
 id. Cat. B. NewGuin. p. 24; Posenb. J.f. 0. 1864, p. 122; Finsch, 
 Neu-Guin. p. 165 ; Gray, Hand-l. B. i. p. 160, no. 2086; Meyer, 
 Sitzb. Ah. Wiss. Wien, lxx. pp. 113, 214; Salvad. Ann. Mm. Civ. 
-Gen. vii. p. 775, viii. p. 401, x. p. 146; Cab. Sf Peichenozv, J.f. O. 
+Gen. vii. p. 775, viii. p. 401, x. p. 146; Cab. Sf Peichenozv, J.f.O. 
 1879, p. 321; d1 Albert. Ann. Mus. Civ. Gen. x. p. 20; Ramsay, 
 Proc. Linn. Soc. N. S. W. iii. pp. Ill , 287 (1879); Sharpe, Proc. 
 Linn. Soc. xiii. p. 497, xiv. p. 687 (1879) ; Posenb. Malay. Archip 
@@ -20083,7 +20083,7 @@ Melitograis striata, Sund. Meth. Av. Tent. p. 50 (1872); Meyer, I. c.
 Melitograis gilolensis, Salv. Ami. Mus. Civ. Gen. yii. p. 775 (1875), 
 
 xvi. p. 79; id. Orn. Pajma&ia etc. ii. p. 349. 
-Melidipnus gilolensis, Cab.fyBeichenow, J.f. O. 1876, p. 321. 
+Melidipnus gilolensis, Cab.fyBeichenow, J.f.O. 1876, p. 321. 
 Adult. The ocular region, part of the sides of the fore neck, and 
 sides of the occiput bare; the stiff lanceolate feathers of the crown 
 brownish grey with white shafts; neck, mantle, and back blackish 
@@ -20714,7 +20714,7 @@ Add:—
 Page 182. Add :— 
 
 Zosterops eurycricotus. 
-Zosterops eurycricotus, FischerfyEeichen. J.f. O. 1884. p. 6. 
+Zosterops eurycricotus, FischerfyEeichen. J.f.O. 1884. p. 6. 
 Yellowish green, with an extraordinarily broad girdle round the 
 
 ADDENDA. 29;* 

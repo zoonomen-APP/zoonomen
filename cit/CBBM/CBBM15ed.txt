@@ -2408,7 +2408,7 @@ b, c. Ad. sk. Int. of Bolivia, T. Bridges [C.J. (Types of the
 species.) 
 
 7. Upucerthia luscinia. 
-Ochetorhynchus luscinia, Barm. J.f. O. I860, p. 249; id. La-Plata 
+Ochetorhynchus luscinia, Barm. J.f.O. I860, p. 249; id. La-Plata 
 Beise, ii. p. 464; Scl. Cat. A. B. p. 148. 
 Upucertliia luscinia, Sal. et Salv. Nomencl p. 62; Salv. Ibis, 1880, 
 
@@ -2658,8 +2658,8 @@ P. Z. S. 1871, p. 200 (Buenos Ayres); Heed, Ibis, 1874, p. 84
 (Masafuera) ; Salv. Ibis, 1875, pp. 370, 370 (Masafuera); id. P. Z. S, 
 1883; p. 424 (Peru); Dumf Ibis, 1877, p. 179 (Buenos Ayres); 
 Sharpe, P. Z. S. 1881, p. 8; White, P. Z. S. 1882. p. 010 (rep. Arg.); 
-Berl. J.f. O. 1887, p. 119 (Paraguay). 
-Cillurus rivularis, Cab. J.f. O. 1873, p. 319; Tacz. P. Z. S. 1874, 
+Berl. J.f.O. 1887, p. 119 (Paraguay). 
+Cillurus rivularis, Cab. J.f.O. 1873, p. 319; Tacz. P. Z. S. 1874, 
 
 p. 526 (Peru). 
 Cinclodes rivularis, Tacz. Oni. Per. ii. p. 132. 
@@ -3113,9 +3113,9 @@ Lochmias nematura, Bp. Consp. i. p. 210 j Cab. et Hem. Mus. JECein.
 
 
 ii. p. 25 ; Burm. Syst. TJeb. iii. p. 6; id. J.f. 0. I860, p. 248 (rep. 
-Arg.); Sol Cat. A. B. p. 149; Eider, J.f. O. 1867, pp. 189, 194, 
+Arg.); Sol Cat. A. B. p. 149; Eider, J.f.O. 1867, pp. 189, 194, 
 198, 399 (Brazil); Scl et Salv. Nomencl. p. 62 ; Salv. Ibis, 1885, 
-p. 418 (Brit. Guian.); Berl J.f. O. 1887, p. 132 (Paraguay). 
+p. 418 (Brit. Guian.); Berl J.f.O. 1887, p. 132 (Paraguay). 
 Above brown; head darker; sides of head white, feathers edged 
 with black: wings blackish, edged like the back; tail black: beneath 
 blackish, with central white spots on the feathers; bill and feet 
@@ -3221,7 +3221,7 @@ Oxyurus spinicauda, Bp. Consp. i. p. 212 ; Scl. Cat. A. B. p. 149 ; id.
 
 P. Z. S. 1867, p. 324 (Chili); Scl. et Salv. Ibis, 1868, p. 187 (Str. 
 Magellan); iid. Nomencl. p. 62 ; iid. P. Z. S. 1878, p. 433 ; Cab. et 
-Reich. J.f. O. 1876, p. 323 (Str. Magellan) ; Solo. Cat. Strick. Coll, 
+Reich. J.f.O. 1876, p. 323 (Str. Magellan) ; Solo. Cat. Strick. Coll, 
 p. 334.^ 
 Synallaxis spinicauda, Gay, Faun. ChiL, Aves, p. 292; Fraser, 
 P. Z. S. 1843, p. 112 (Chili); Phihj>pi, An. Univ. Chil. xxxi. p. 253. 
@@ -4105,7 +4105,7 @@ et 1878, p. 01 (Buenos Ayres); Forbes, lbis,*lS8l, p. 340 (N.E.
 Brazil); Inez. P. Z. 8. 1882, p. 25 (N.E. Peru); id. Dm. Per. ii. 
 
 
-p. 125; White, P. Z. S. 1882, p. OIL (rep. Arg.); JSerl. J.f. O. 
+p. 125; White, P. Z. S. 1882, p. OIL (rep. Arg.); JSerl. J.f.O. 
 1884, p. 306 (Bncaramanga), et 1887, p. 132 (Paraguay); 8cl. et 
 Huds. Arc/. Orn. i. p. 170. 
 Synallaxis aibig-ularis, 8cl. P. Z. 8. 1858, pp. 03, 450, et 1859, p. 192 
@@ -4323,7 +4323,7 @@ Synallaxis brunneicaudalis, Lawr. Ann. Lyc. N.Y. vii. p. 319
 Synallaxis nigrifumosa, Lawr. Ann. Lyc. N. T. viii. p. 180, et ix. 
 
 p. 105 (Costa Rica) ; Salv. P. Z. S. 1807, p. 143; id. Ibis, 1870, 
-p. 110; Fronts. J.f. O. 1809, p. 304 (Costa Rica). 
+p. 110; Fronts. J.f.O. 1809, p. 304 (Costa Rica). 
 Above mouse-brown; front dark cinereous; cap and wings externally, 
 except the wing-end, bright rufous; tail brown: beneath 
 dark cinereous : whole length 6*7 inches, wing 2*2, tail 3*3. Female 
@@ -6621,8 +6621,8 @@ Ayres); Taez. P. Z.S. 1879, p. 231, et 1880, p. 200 (N. Peru);
 id. Orn. Per. ii. p. 143; Scl. et Suds. Arg. Orn. i. p. 192-, White. 
 P. Z. S. 1882, p; 612 (rep. Arg.). 
 Phacellodomus 
-sincipitalis, Cab. J.f. O. 1883, p. 109 (Tucuman); 
-White, P. Z. S. 1883, p. 433 (Buenos Ayres); Berl J.f. O. 1887, 
+sincipitalis, Cab. J.f.O. 1883, p. 109 (Tucuman); 
+White, P. Z. S. 1883, p. 433 (Buenos Ayres); Berl J.f.O. 1887, 
 
 p. 119 (Paraguay). 
 Phacellodomus 
@@ -8243,7 +8243,7 @@ iii. p. 32; Scl. Cat. A. B. p. 156 ; Scl. et Salv. Nomencl. p. 66.
 Anabates xenops, Temm. in Mus. Lugd. 
 Anabates contaminatus, Licht in Mus. Berol. ; Peh. Sitz. Akad. 
 Wien, xxxiv. p. 129. 
-Heliobletus contaminatus, Berl. J.f. O. 1887, p. 119 (Paraguay). 
+Heliobletus contaminatus, Berl. J.f.O. 1887, p. 119 (Paraguay). 
 
 Above earthy brown; broad superciliaries pale fulvous; cap 
 blackish brown, with earthy-brown bhaft-spots : wings blackish, with 
@@ -8594,7 +8594,7 @@ Max. Beitr. iii. p. 1155; Bp. Consp. i. p. 211; Sclater, P. Z. S.
 id. Cat. A. B. p. 159; Cab. et Hein. Mus. Hein. ii. p. 33 ,• Scl. et 
 Salv. P. Z. S. 1868, p. 027 (Venezuela), et 1873, p. 270 (E. Peru) ; 
 iid. Nomencl. p. 60 ; Layard, Ibis, 1873, p. 385 (Para) ; Salv. et 
-Godm. Ibis, 1880, p. 17l (Sta. Marta) ; Cab. J.f. O. 1884, p. 307 
+Godm. Ibis, 1880, p. 17l (Sta. Marta) ; Cab. J.f.O. 1884, p. 307 
 (Bucararuanga); Salv. Ibis, 1885, p. 420 (Brit. Guian.). 
 
 Xenops mexicanus, 
@@ -9168,7 +9168,7 @@ Sittasomus erythacus, Bp. Consp. i. p. 209; Lafr. Rev. Zool 1850,
 p. 589,- Burm. Syst. TTeb. iii. p. 20; Cab. et Hein. Mm. Hein. ii. 
 p. 33 j Scl. Cat. A. B. p. 100; Scl. et Sain. P. Z. S. 1879, 
 p. 022 (Bolivia); Cab. J. f. O. 1874, p. 87 (S. Brazil); Set. et 
-Muds. Arg. Dm. i, p. 198; BerL J.f. O. 1887, p. 132 (Paraguay). 
+Muds. Arg. Dm. i, p. 198; BerL J.f.O. 1887, p. 132 (Paraguay). 
 Sittasomus olivaceus, White, P. Z. 8/1*8*2, p. 013 (rep. Arg.). 
 
 Above yellowish olive; outer secondaries, rump, and tail chestnut ; 
@@ -9220,7 +9220,7 @@ Sittasomus erithacus, Lafr. Rev. Zool. 1850, p. 589 (?); Scl. P. Z. S.
 Sittasomus sylvioides, Lafr. Bev. Zool 1849, p. 331, et 1850, p. 590; 
 Scl P. Z. S. 1850, p. 290,1859, p. 305, et 1804, p. 175 (S. Mexico); 
 id. Cat. A.B. p. 100; Salv. Ibis, 1801, p. 353 (Guatemala); Lawr. 
-Ann. Lyc. N. Y. ix. p. 100 (Ooata lttca); Frantz. J.f. O. 1869, 
+Ann. Lyc. N. Y. ix. p. 100 (Ooata lttca); Frantz. J.f.O. 1869, 
 
 p. 304 (Costa Bica). 
 Sittasomus pectinicaudus, Cab. et Hein. Mus. Hein. ii. p. 33. 
@@ -9660,7 +9660,7 @@ Salv. Ibis, 1866, p. 205 (Guatemala), et 1885, p. 421 (Brit. Guiana);
 Wyatt, Ibis, 1871, p. 331 (Colombia); Layard, Ibis, 1873, p. 385 
 (Para); Boucard, P. Z. S. 1878, p. 60 (Costa Bica); Tacz. P. Z. S. 
 1882, p. 27 (N.E. Peru); White, P. Z. S. 1882, p. 613 (rep. Arg.): 
-Bidgio. P. U. S. N. MM. p. 404 (Nicaragua) ; JBerl J.f. O. 1887, 
+Bidgio. P. U. S. N. MM. p. 404 (Nicaragua) ; JBerl J.f.O. 1887, 
 p. 132 (Paraguay); ScL et Huds. Arg. Orn. i. p. 199. 
 Glvphorlrjnchus pectoralis, ScL P. Z. S. 1860, p. 299 (Ecuador) ; ScL 
 et Salv. P. Z. S. 1864, p. 354 (Panama); Lawr. Ann. Lyc. N. T. 
@@ -12977,7 +12977,7 @@ p. 140 (Costa Rica); JBoucard, P. Z. S. 1878, p. 06 (Oobta Eiea).
 Dendrocops multistrigatus, Scl et Salv. Ibis, 1860, p. 275 (Guatemala). 
 Dendrocolaptes 
 multistrigatus, Scl Cat. A. B. p. 102; Lawr. Ami. 
-Lyc.N. YAx. pp. 106, 140 (Costa Rica); Franks. J.f. O. 1809, 
+Lyc.N. YAx. pp. 106, 140 (Costa Rica); Franks. J.f.O. 1809, 
 
 p. 305 (Costa Kica). 
 Above fulvous-brown; head rather darker, with pale fulvous 
@@ -14794,7 +14794,7 @@ N. Y. ix. p. 107 (Costa Rica); Frantz. J. f. 0. 1869, p. 305
 Godm. Ibis, 1880, p. 171 (Santa Marta) j Tacz. P. Z. S. 1879, 
 p. 232 (N. Peru); id. Orn. Per. ii. p. 8; Perl, et Tacz. P. Z. S. 
 1883, p. 304 (W. Ecuador); Berl. J. f. 0. 1884, p. 307 (Buearamanga). 
-Thamnophilus cserulescens, Lafr. Pev. Zool. 1853, p. 338 (?). 
+Thamnophilus caerulescens, Lafr. Pev. Zool. 1853, p. 338 (?). 
 
 Erionotus naevius, Cab. et Kein. Mus. Sein. ii. p. 10. 
 
@@ -15079,7 +15079,7 @@ Thamnophilus caerulescens, Vie ill. Nouv. Diet. iii. p. 311; id. Mic.
 Meth. p. 743 (tf); Scl. Cat. A. B. p. 174; Scl. et Salv. Nomencl. 
 
 p. 70; Salv. Ibis, 1880, p. 3G0 (rep. Arg.); White, P. Z. S. 1882, 
-p. 614 (rep. Arg.); Bert. J.f. O, 1887, p. 119 (Paraguay); Scl. et 
+p. 614 (rep. Arg.); Bert. J.f.O. 1887, p. 119 (Paraguay); Scl. et 
 Huds. Arg. Orn. i. p. 204. 
 Thamnophilus auratus, VieUL Nouv, Diet, iii, p. 312; id.~Enc.Meth. 
 
@@ -15092,7 +15092,7 @@ Thamnophilus ventralis,
 Sclater, Edinb. Phil. Joum. n. s. i. p. 244 
 (c?). 
 
-Erionotus cserulescens, Cab. et Hem. Mus. Rein. ii. p. 15. 
+Erionotus caerulescens, Cab. et Hem. Mus. Rein. ii. p. 15. 
 
 Above cinereous; cap and nape black; interscapulium with a 
 white basal spot and mixed with black; wings black, edged with 
@@ -17884,7 +17884,7 @@ Myrmotherula rnelcena, Scl. P. Z. S. 1858, p. 237 (Bogota); id. Cat
 A. B. p. 180 ; Pelz. Oni. Bras. p. 82 ; Scl et Salv. P. Z. S. 1864, 
 p. 356 (Panama), 1806, p. 186, 1867, p. 750, et 1873, p. 274 
 (Peru), et 1879, p. 525 (Antioquia) ; iid. Nomencl. p. 72 ; Lawr. 
-Ann. Lyc. i\T. Y. ix. p. 107 (Costa Rica); Frantz. J.f. O. 1869, 
+Ann. Lyc. i\T. Y. ix. p. 107 (Costa Rica); Frantz. J.f.O. 1869, 
 p. 305 (Costa Rica) ; Salv. Ibis, 1874, p. 311; Bouc. P. Z. S. 1878, 
 p. 61 (Costa Rica); Tacz. Orn. PSr. ii. p, 48. 
 Myrmotherula albigula, Lawr. Ann. Lyc. N. Y. viii. p. 131 (Panama), 
@@ -19499,7 +19499,7 @@ a.
 $ ad. sk. Oyapoc, Cayenne (Jelski). Sclater Coll. 
 (Type of Microbates torquatus.) 
 17. CERCOMACRA. Type, 
-Cercomacra, ScL P. Z. S. 1858, p. 244 C. cserulescens. 
+Cercomacra, ScL P. Z. S. 1858, p. 244 C. caerulescens. 
 This group leads off from Formicivora towards Pyriglena, and is 
 
 a stronger and larger form of the former genus, with short wings 
@@ -19977,7 +19977,7 @@ Myiothera domicella, Max. Beitr. iii. p. 1058.
 Formicivora domicilla, MinStr, MSm. Acad. St. Petersb. se>. vi. (Set. 
 Nat) t. i. p. 503, pi. vii. figs. 1, 2. 
 Pyriglena domicella, Cab. Wiegm. A7'ch. 1847, pt. i. p. 212; Bp* 
-Consp. i. p. 202; Burm. Sijst. Xleb. iii. p. 50; Euler, J.f. O. 1867, 
+Consp. i. p. 202; Burm. Sijst. Xleb. iii. p. 50; Euler, J.f.O. 1867, 
 
 p. 401 (Brazil). 
 Drymophila trifasciata, Sw. Zool. Journ, ii. p. 152 ; id. Zool. III. ser. 2, 
@@ -19987,8 +19987,8 @@ Thamnophilus domicella, Lafr. et d'Orb. Syn, Av. i. p. 11.
 Pyriglena leucoptera, Sclater, P. Z. S. 1858, p. 246 (S.E. Brazil); 
 
 id. Cat A. B. p. 185 ; Pelz. Orn. Bras. p. 85; Cab. et Hein. Mus. 
-Jlein. ii. p. 10; Berl J.f. O. 1873, p. 254 (S. Brazil); ScL et Salv. 
-mmencl p. 73; iid. P. Z. S. 1879, p. 625 (Bolivia); Cab. J.f. O. 
+Jlein. ii. p. 10; Berl J.f.O. 1873, p. 254 (S. Brazil); ScL et Salv. 
+mmencl p. 73; iid. P. Z. S. 1879, p. 625 (Bolivia); Cab. J.f.O. 
 1874, p. 85 (S. Brazil). 
 
 Glossy black above and beneath; large dorsal spot, lesser wing-
@@ -25783,18 +25783,18 @@ brunneus (Sclerurus),114,
 eab&niei (Anabasenops), 
 
 105. 
-cserulescens (Cercomacra), 
+caerulescens (Cercomacra), 
 263,264. 
 cajruleseens (Ellipura), 
 
 264. 
-cserulescens (Hrionotus\ 
+caerulescens (Hrionotus\ 
 200. 
-cserulescens (Forraicivora), 
+caerulescens (Forraicivora), 
 264. 
-cserulescens (Myrmothera), 
+caerulescens (Myrmothera), 
 20*. 
-cserulescens (Thamnophilus), 
+caerulescens (Thamnophilus), 
 180,192,197,200, 
 
 201. 

@@ -1070,7 +1070,7 @@ Subfam. MyrADEOTiNiE,
 
 55. Melanotis, Bp.....
 
-1. cserulescens, Swains
+1. caerulescens, Swains
 
 2. hypoleucus, Hartl.
 
@@ -1899,7 +1899,7 @@ in Java, pi. 45; Hartl. Mag. de Zool. 1845, Ois. texte to
 pi. GO; Gray, Gen. B. i. p. 190; Bp. Consp. i. p. 390; Cab. Mus. 
 Hem. Th. i. p. 70 ; Ilorsf. $ Moore, Cat. B. B.I, Co. Mus. i. 
 
-p. 205 (pt.); Bemst. J.f. O. 1859, p. 277; Jerri B. Ind. ii. p; 104. 
+p. 205 (pt.); Bemst. J.f.O. 1859, p. 277; Jerri B. Ind. ii. p; 104. 
 zEgitliina 
 scapularis, Gray, Hand-l. B. i. p. 316, no. 4727 j Nichols. 
 Ibis, 1879, p. 107,1881, p. 148. 
@@ -5789,7 +5789,7 @@ Orn. W.-Afr. pp. 86, 272; Cass. Pr. PMlad. Acad. 1659, p. 44;
 Marti J. f. 0. 1861, p. 165 ; Cass. Journ. PMad. Acad. v. p. 1^2, 
 pi. xxii. fig. 3. 
 
-Hypotrichas calnrus, Heine, J.f. O. I860, p. 138. 
+Hypotrichas calnrus, Heine, J.f.O. I860, p. 138. 
 Criniger calurus, Finsch, J. f. O.1867, p. 23; Gray, Hand-L B. i. 
 
 
@@ -6286,7 +6286,7 @@ Trichophorus ciuerascens, Ilartl. P. Z. & 1850, p. 29;J; id. J. f. O,
 Criniger barbatus, FimeJi, J. f. O. 1807, p. 21 ; Gray, Hand-l. B. i. 
 
 p. 274, no. 4024 ; Mmrpe, Cat Afr. B. p. 22. 
-Criniger einerascens, Finseh, J.f. O. Ib07, p. 32. 
+Criniger einerascens, Finseh, J.f.O. Ib07, p. 32. 
 Adult. General colour above yellowish olive-green, shaded on 
 the head and mantle with grey, the feathers having grey ends; 
 wing-coverts like the back, the quills dark brown, externally olive-
@@ -6319,7 +6319,7 @@ Lugd.)$ Hartl.rn. W.-Afr. p. 83.
 occurring in the genus Crimgir, viz. C. icterinus, Bp., and C. zciericus, Stxickl. 
 11 . CRIN1GEB. 
 Trickophoms tricolor, Cass. Pr. Fltilad Acad. 1857. p. 33; Ilartl. 
-^ Oni. W.-Afr. p. 265 ; id J.f. O. 1R)1, p. 1(54. 
+^ Oni. W.-Afr. p. 265 ; id J.f.O. 1R)1, p. 1(54. 
 Xenocickla tricolor. 6'«ss. Pr. Philad Acad 1859, p. 45: Heine, J. f, 0. 
 18G0, p. 139. 
 Criniger tricolor, Finsch, J. f. O. 1807, p. 25; Sharpe, Ibis, 18G9, 
@@ -6514,7 +6514,7 @@ c. Ad. sk. Bouru. A. It". Wallace, Esq. ~C.].
 
 20. Criniger affinis. 
 Criniger affinis, JIo?nbr. ei Jacq. Ann. Sci. Xat. (2) xvi. p. 313; 
-Gray, Gen. B. i. p. 230; Finsch, J.f. O. 1S<>7, p. 3o; Gray, 
+Gray, Gen. B. i. p. 230; Finsch, J.f.O. 1S<>7, p. 3o; Gray, 
 Iland-l. B. i. p. 274, no. 4018; Saluad. Ann. MMS. Civic. Genoo. 
 xu. p. 183 (IbfcO). 
 
@@ -6668,7 +6668,7 @@ Trichophoropsis typus, Bp. Comptes Rendus, 1854, p. 59; Salrad,
 Ucc Born. p. 203; Sharpe, Ibis, 1877, p. 15; id. Ibis, 1879, 
 
 p. .250. 
-Criniger bemmeleni, Finsch, J.f. O. 18G7, p. 29. 
+Criniger bemmeleni, Finsch, J.f.O. 18G7, p. 29. 
 13 . TETCHOLESTES. 
 Trichophorus notatus, Temm. in Mus. Lugcl, teste Fimeh (nee Cass.), 
 Criniger typus, Gray, Hand-l. B. i. p. 275, no. 4040. 
@@ -7285,18 +7285,18 @@ Ad. sk. Cameroons Mountains, 7000 feet. Major E. Burton [P.],
 6. Xenocichla simplex. 
 Trichopkorus simplex, Hartl. J. f. 0. 1855, iii. p. 856 (ex Temm.); 
 id. Orn. W.-Afr. p. 88; Cals. Pr. Philad. Acad. 1859, p. 44; 
-Heme, J.f. O. 18C0, p. 188; Hartl J.f. O. 1861, p. 168. 
+Heme, J.f.O. 18C0, p. 188; Hartl J.f.O. 1861, p. 168. 
 
 Criniger simplex, Finsch, J. f. O. 1807, p. 28; Gray, Hand-l. B. i. 
 
-p. 278, no. 4006; Sharps, Cat. Afr. B. p. 22 ; Beichen. J.f. O. 
+p. 278, no. 4006; Sharps, Cat. Afr. B. p. 22 ; Beichen. J.f.O. 
 1875, p. 35 ; Sharpe c]- Bovvier, Bull. Soc. Zool. France, 1876, p. 44; 
 Beichen. J.f O. 1877, p. 25 ; Nicholson, P. Z. 8. 1878, p. 129. 
-Ciiniger palpebro&us, Finsch, J.f. O. 1867, p. 28 (ex Heugl. MS.)f 
+Ciiniger palpebro&us, Finsch, J.f.O. 1867, p. 28 (ex Heugl. MS.)f 
 Andropadus (Oriniger) marchei, Oustalet, Nouv. Arch, au Mus. (2) 
 
 ii. Bull. 1879, p. 101 (type examined). 
-Andropadus marchei, Beichen. $* Schalow, J.f. O. 1S79, J>. 482. <* 
+Andropadus marchei, Beichen. $* Schalow, J.f.O. 1S79, J>. 482. <* 
 Adult General colour above dark brown, slightly olive; wings 
 brown like the back, washed with olive on the coverts; tail-feathers 
 brown, shaded with olive on the edges, the outer feathers edged 
@@ -7664,7 +7664,7 @@ Hartl. J. f. 0. 1801, p. 105.
 
 Criniger notatus, Finsch, J. f. O. 1807, p. 30 ,• Gray, Hand-l. B. i. 
 
-p. 273, no. 4007; S/iarpe, Cat Afr. B. p. 22 ; Peichen. J f. O. 
+p. 273, no. 4007; S/iarpe, Cat Afr. B. p. 22 ; Peichen. J.f.O. 
 1870, p. 35; Sharpe ty Bouv. Bull. Soc. Zool. France, 1870, p. 40; 
 Peichen. J. f. O. 1877, p. 25. 
 Adult. General colour above olive-green, the head a little darker 
@@ -7691,9 +7691,9 @@ b. Ad. sk. Gaboon (DuChaillu). H. B. Sharpe, Esq.
 c. d. Ad. sk. Gaboon (P. B. N. Walker). R. B. Sharpe, Esq. 
 15. Xenocichla canicapilla. 
 Tricliophorus canicapillus, Hartl. Beitr. Orn. W.-Afr. p. 24; id. 
-J.f. O. 1854, p. 25; id. Orn. W.-Afr. p. 84. 
+J.f.O. 1854, p. 25; id. Orn. W.-Afr. p. 84. 
 Xenocichla canicapillus, Cass. Pr. Philad. Acad. 1859, p. 44. 
-Criniger canicapillus, Finsch, J.f. O. 1807, p. 31; Gray, Hand-l. B.' 
+Criniger canicapillus, Finsch, J.f.O. 1807, p. 31; Gray, Hand-l. B.' 
 i. p. 273, no. 4009; Sharpe, Ibis, 1872, p. 09. 
 Adult. General colour above olive-green, a little paler on the 
 upper tail-coverts; wing-coverts like the back ; quills dark brown, 
@@ -7777,7 +7777,7 @@ Thomps. Exp. Niger, ii. p. 496; Gray, Gen. B. i. p. 236; Bp.
 Consp. i. p. 261; Marti. Orn. W.-Afr. pp. 87, 272; Cass. Pr. 
 Philacl Acad. 1859, p. 45; Seine, J.'f. 0. I860, p. 140; Sartl 
 
-J.f. O. 1861, p. 166; Gray, HandA. B. i. p. 276, no. 4055; 
+J.f.O. 1861, p. 166; Gray, HandA. B. i. p. 276, no. 4055; 
 Sliarpe, Ibis, 1870, p. 52 ; id. Cat. Afr. B. p. 22; Reichen. J. f. O. 
 1873, pp. o4, 49. 
 Adult. Gr en oral colour above dull olive-greenish, much browner 
@@ -8465,7 +8465,7 @@ b. $ ad. sk. Biballa (Anchieta). R. B. .Sharpe, I
 4. Phyllostrophus fischeri. 
 
 Criniger fischeri, Beichen. Orn. Centralbl. 1870, p. 139; Fischer $• 
-Beichen. J.f. O. 1879, p. 348; Beichen. $ Schahtc, t. e. p. 819. 
+Beichen. J.f.O. 1879, p. 348; Beichen. $ Schahtc, t. e. p. 819. 
 
 Adult. Upper surface olive-green; throat and middle of the belly 
 yellowish white ; breast and flanks olivaceous; under tail-coverts 
@@ -9363,7 +9363,7 @@ Hartl Vog. Osiafr. p. 299 ; Sharpe, Cat. Afr. B. p. 23 (pt) ; id.
 
 P. Z. 8. 1871, p. 331, pi. -vii. fig. 2 ; Gurney, in Anderss. B. Bam. 
 Id. p. 120; Sharpe fy Bouv. Bull Soc. Zool. France, 1876, p. 44; 
-Beichen. J.f. O. 1877, p. 25; Bocage, Orn. Angola, p. 244, 
+Beichen. J.f.O. 1877, p. 25; Bocage, Orn. Angola, p. 244, 
 Adult male. General colour above light eaithy brown, the upper 
 tail-coverts rather darker brown, obscurely margined with a shade 
 of dull olive; wing-coverts and quills all darker brown than, the 
@@ -9767,7 +9767,7 @@ Pycnonotus crocorrhous, Strickl Ann. Nat. Hist. xiii. p. 412 ; Blyth,
 J. A. S. Bene/, xiv. p. 567; Gray, Gen. B. i. p. 237; Horsf. $ Moore, 
 Cat. B. Mus. E.I. Co. i.p. 245 ; Gray, Hand-l. B. i. p. 270, no. 3058; 
 Nichols. Ibis, 1879, p. 168, 1881, p. 148. 
-Pvcnonotus aurigaster, G?-ay, Gen. B. i. p. 237; Von Mull J.f. O. 
+Pvcnonotus aurigaster, G?-ay, Gen. B. i. p. 237; Von Mull J.f.O. 
 
 "1855, p. 394; Layard, B. S. Afr. p. 139. 
 Ixus chrysorrhoeus, Bp. Consp. i. p. 266. 
@@ -9943,7 +9943,7 @@ Luis analis, Bp. Consp. i. p. 265.
 Pycnonotus gourdini, Bp. Consp. i. p. 20G; Saluad. Ucc. Born. p. 198. 
 Loedorusa analis, Cab. Mas. Ilein. Th. i. p. 109. 
 Ixos gourdini, Jacq. Sf Pucker. Voy. Pole Sud, texte, ZooL m. p. 79 ; 
-HartlJ.f. O. 1854, p. 163. 
+HartlJ.f.O. 1854, p. 163. 
 Pycnonotus analis, Sclater, P. Z. 8. 1863, p. 216; Gray, JETand-L B. 
 
 i. p. 270, no. 3943; Salvad. Ucc. Born. p. 197; Sharpe, Ibis, 1870, 
@@ -10547,7 +10547,7 @@ x. Ad. st. Africa. J. Gould, Esq.
 Subsp. a. Pycnonotus gabonensis. 
 
 Pycnonotus gabonensis, Sharpe, P. Z. S. 1871, p. 131, pi. vii. fig. 1 ; 
-id. Cat. Afr. B. p. 23 ; JReichen. J.f. O. 1875, p. 83 ; Dresser, B. 
+id. Cat. Afr. B. p. 23 ; JReichen. J.f.O. 1875, p. 83 ; Dresser, B. 
 Fur. text to pi. xxxix. 
 
 * Adult. Similar to P* barlatus, but darker brown above ; on the 
@@ -12013,7 +12013,7 @@ Ixidia squamata (nee Temm.), Salvad. TJcc. Born. p. 200; Sharpe,
 Ibis, 1878, p. 419 
 Ixidia webberi, Hume, Str. F. 1879, pp. 40, 63 j Reichen. § Schalow. 
 
-J.f. O. 1879, p. 432. 
+J.f.O. 1879, p. 432. 
 Adult. Yery similar to JR. squamata of Java, but distinguished by 
 the much larger amount of white on the outer tail-feathers. Total 
 length 6-4 inches, culmen 0-55, wing 2*9, tail 2*7, tarsus 0*6. 
@@ -16890,7 +16890,7 @@ Review Amer. B. p. 141.
 
 Troglodytes furvus, Gbr/er, J. f. 0. 1854, p. 370 (nee Gm.). 
 Hylematliroud aedon, Cab. J.f. 0.1800, p. 407. 
-Hylemathrous americanus, Cab. J.f. O. 1800, p. 407. 
+Hylemathrous americanus, Cab. J.f.O. 1800, p. 407. 
 Troglodytes domestica, Cones, Pr. Philad. Acad. 1875, p. 351 *. 
 
 
@@ -17261,7 +17261,7 @@ tenmla, Nov. 6,1859.
 
 3. Troglodytes striatulus. 
 Troglodytes striatums, Zafr. Rev. Zool 1845, p. 338. 
-Hylemathrous striatums, Cab. J.f. O. 18C0, p. 408. 
+Hylemathrous striatums, Cab. J.f.O. 18C0, p. 408. 
 Troglodytes livpaedon (nee Sclater), Laior. Ann. Lye. N. Y. vii. 
 
 
@@ -18946,7 +18946,7 @@ b. Throat and chest rufous, with a greyish tinge.. sumichrasti, p. 282.
 1. Catherpes mexicanus. 
 Troglodytes 
 mexicanus, Licht. Preis-Verz. mex. Vog. 1830, p. 2: 
-Gray, Gen. B. i. p. 159 ; Cab.J.f. O. 1863, p. 57. 
+Gray, Gen. B. i. p. 159 ; Cab.J.f.O. 1863, p. 57. 
 Troglodytes murarins, Licht. P)-eis-Verz. mex. Vog. 1830, no. 80; Cab, 
 
 J.f. 
@@ -24145,7 +24145,7 @@ has been found breeding in Southern Utah and in Arizona.
 MELANOTIC 
 Type. 
 Melanotis, Bp. Consp. Av.i. p. 276 (1850, descr.nulla; 
-unde) M. cserulescens. 
+unde) M. caerulescens. 
 Melanotis, Baird, Review Amer. B. p. 56 (1804) ... . M. casrulescens. 
 
 Range. Confined to Central America, where it is found in Mexico 
@@ -24173,7 +24173,7 @@ Mimus cternlescens, Gray, Gen. B. i. p. 221(1847); Sclater, P. Z. S.
 
 Melanotis melanotis, Bp. Consp. i. p. 270 (18r50). 
 
-Melanotis cserulescens, Selater, P. Z. S. 1859, pp. 862, 870; id. Cat 
+Melanotis caerulescens, Selater, P. Z. S. 1859, pp. 862, 870; id. Cat 
 
 Amer. B. p. 7 (1802); Baird, Review Amer. B. p. 56 (1804) ; 
 Swnichr. Mem. Bost. Soc. N. H. i. p. 54S (1868); Grayson, Proe. 
@@ -24792,7 +24792,7 @@ Ober's Solitaire replaces the foregoing species in the island of
 S. Vincent. 
 5. ICyiadectes elizabethse. 
 Muscicapa elizabeth, Lembeye, Aves Cuba, p. 39, pi. 5.fig*.3 (1850). 
-Myiadestes elizabeth, Cab. J.f. O. 1856, p. 2; Gimdl J.f. 0, 1861, 
+Myiadestes elizabeth, Cab. J.f.O. 1856, p. 2; Gimdl J.f. 0, 1861, 
 
 p. 328; JBaird, Revieio Amer. B. p. 425 (1864). 
 Ptilogonys elizabeth, Gray, Kand-l. B. i. p. 360, no. 5575 (1869). 
@@ -25056,7 +25056,7 @@ b. Ad. sk. Mexico. Purchased.
 10. Myiadectes melanops. 
 Myiadestes melanops, Sate. P. Z. S. 1864, p. 580, pi. 36; Bated, 
 Bevieio Amer. B. p. 426 (1866) ; Later. Ann. Lye. W. Y. ix. p. 97 
-(1868); Von Frantz. J.f. O. 186% p. 296; ScL $ Sate. Nomenel 
+(1868); Von Frantz. J.f.O. 186% p. 296; ScL $ Sate. Nomenel 
 Av. JSfeotr. p. 4 (1873). 
 
 Ptilogonys melanops, Gray, Hand-l. B. i. £. 366, no. 5576 (1869). 
@@ -27235,11 +27235,11 @@ burmanicus (Pycnono
 tus), 125. 
 
 cabanisi (Criniger), 83. 
-cserulescens (Melanotis), 
+caerulescens (Melanotis), 
 
 362. 
 cseruleseens (Mimus),362. 
-cserulescens (Orpheus), 
+caerulescens (Orpheus), 
 362. 
 csesius (Myiadestes), 373. 
 casmarhynehus (Ohloropsis), 

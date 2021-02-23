@@ -3393,7 +3393,7 @@ SAYORNIS. _
 Type. 
 Sayornis, Bp. Ann. So. Nat. s6x. 4, Zool. t. i. p. 133 
 (1854) S. pallida. 
-Aulanax, Cab. J.f. Orn. 1856, p. 2 S. nigricans. 
+Aulanax, Cab. J.f.O.n. 1856, p. 2 S. nigricans. 
 Theromyias, Cab. et Hein. Mus. Hein. ii. p. 68 (1859) S. saya. 
 
 Sayornis contains a small group of Tyrannidce allied to Ochthceca, 
@@ -5819,7 +5819,7 @@ Bigotillo, Azara7 Apunt. ii. p. 93.
 Platvrhynchus mvsfcaceus, VieilL Nouv. Diet, xxvii. p. 14; id. JEnc. 
 Meth. p. 844; ScL Cat A. B. p. 207; Peh. Orn. Bras. p. 100; 
 ScL et Salv. WomencL p. 44; Salv. Ibis, 1885, p. 292 (Rr. Guiana) ; 
-Berlepsch, J.f. O. 1873, p. 258 (S. Catharina); id. Zeitschr. ges. 
+Berlepsch, J.f.O. 1873, p. 258 (S. Catharina); id. Zeitschr. ges. 
 Orn. 1885, p. 129 (Rio Grande do Sul); White, P. Z. S.1882, p. 005 
 (Misiones, rep. Arg.); ScL et Muds. Arg. Orn. i. p. 136. 
 
@@ -7968,7 +7968,7 @@ Ibis, 1881, p. 342; Barrows, Bull. Mitt. Orn. CI. viii. p. 199 (Entrerios);
 Berl et Jher. Zeitsch. Orn. 1885, p. 130 (Bio Grande do 
 Sul) ; Scl. et Muds. Arg. Orn. i. p. 140. 
 Anseretes cristatellus, Salvad. Att. Sc. It. vii. p. 153. 
-Serphophaga verticata, Burm. J.f. O. 1860, p. 246. 
+Serphophaga verticata, Burm. J.f.O. 1860, p. 246. 
 
 
 Above cinereous, usually with a slight olivaceous tinge on the 
@@ -8006,7 +8006,7 @@ s, t. Ad. st. Bolivia. T. Bridges [C.j.
 2. Serpkopliaga alTbogrisea. 
 Elainea cinerea, Pelz. Orn. Bras. p. 180 j Berl. Ibis, 1883, p. 138 (?). 
 Serphophaga albogrisea, 8cl. et Sah. P. Z. S. 1880, p. 150 ; Reich, u. 
-Schaloiv, J.f. O. 1881, p. 88. 
+Schaloiv, J.f.O. 1881, p. 88. 
 
 Above cinereous, vertical patch, white; wings black, broadly 
 margined with white except in the primaries • tail blackish, with 
@@ -8029,7 +8029,7 @@ Serpophaga cinerea, Selater, P. Z. S. 1858* p. 458, 1859, p. 144, et
 
 p. 53; Pelz. Om.Bras. p. 103; Sah. P.Z.S. 1867, p. 147; id. 
 et Tacz. P. Z. S. 1883, p. 553;'"Boucard, P. Z. S. 1878, p. 62; Wyatt, 
-Ibis, 1871, p. 332; Berl. J.f, O. 1884, p. 318. 
+Ibis, 1871, p. 332; Berl. J.f.O. 1884, p. 318. 
 Serpophaga grisea, Zatvr. Ann. L. N. T. x. p. 139 (Costa Rica)* 
 Salv. Ibis, 1874, p. 315. 
 
@@ -9707,7 +9707,7 @@ Ornithion imberbe, Tacz. P. Z. S. 1879, p. 234,1880, p. 202, et 1882,
 p. 19 (Peru); Bidgw. P. U. 8. N. M. iii. pp. 187, 218; id. Man. 
 48. OBKITH10N.
 N. A. B. p. 346 (Texas); Coues, Key N. A. B. 1884, p. 443; 
-Berl J.f. O.1884, p. 301 (Colombia). 
+Berl J.f.O.1884, p. 301 (Colombia). 
 Eupsilostoma pusilium, Set. P. Z. S. I860, pp. 68,283; id. Cat. A. B. 
 
 p. 215 (W. Ecuador); Tacz. P. Z. S. 1874, p. 536, et 1877, p. 325 
@@ -11412,7 +11412,7 @@ Elainea caniceps, Scl Cat. A. B. p. 217; id. P. Z. S. 1861, p. 407,
 
 et 1870, p. 835 ; Pete. Orn. Bras. p. 107 ; Scl. et Sah. P. Z. S. 1867, 
 
-p. 978, et 1873, p. 279; Cab. J.f. Orn. 1874, p. 88; Tacz. Orn. 
+p. 978, et 1873, p. 279; Cab. J.f.O.n. 1874, p. 88; Tacz. Orn. 
 Per. ii. p. 369. 
 Elainea elegans, Pete. Orn. Bras. p. 107; Scl. et Sah. P. Z. S. 1868, 
 pp. 628, 631, et 1879, p. 614; Scl. P. Z. S. 1870, p. 835; Tacz. Orn. 
@@ -12051,7 +12051,7 @@ Ann. L. N. Y. vii. p. 295; Taylor, Ibis, 1864. p. 86; Sel et Salv.
 
 P. Z. S. 1866, p. 189, 1867, pp. 279,577, 978, 1868, p. 628 (Venezuela), 
 et 1876, p. 16; iid. JVomencl.ipAQ; Pelz. Orn. Bras. p. 109 j 
-Berl et Tacz. P. Z. 8.1883, p. 556, et 1885, p. 68 ; BerL J.f. O. 
+Berl et Tacz. P. Z. 8.1883, p. 556, et 1885, p. 68 ; BerL J.f.O. 
 1884, p. 302; Tacz. Orn. Pe?\ ii. p. 275; 8alv. Ibis, 1885, p. 295 
 (Br. Guiana). 
 Myiozetetes guianensis, Cab. et Hein. Mus. Hein. ii. p. 61; 8cl.P. Z.8. 
@@ -12205,7 +12205,7 @@ Myiozetetes similis, Scl et Salv. P. Z. 8. 1873, p. 279; Tacz. P. Z. 8.
 P.Z.8.1885, p. 90. 
 
 Myiozetetes texensis coliimbianus, Berl Ibis, 1884, p. 434. 
-Myiozetetes icterophrys, Heine, J.f. O. 1861, p. 197 ? 
+Myiozetetes icterophrys, Heine, J.f.O. 1861, p. 197 ? 
 Myiozetetes grandis, Lawr. Proc. Ac. 8c. Phil. 1871, p. 234 (cf. Scl. 
 
 
@@ -14178,7 +14178,7 @@ pp. 394, 500, vi. pp. 374, 393; Tacz. Orn. Per. ii. p. 294; Salv.
 Ibis, 1885, p. 296. 
 Scaphorhynchus mexicanus, Lafr. Rev. Zool 1851, p. 473; Sol. Ibis, 
 1859, p. 120. 
-Megarhynchus niexicanus, Rein. J.f. O. 1859, p. 346; Cdb.et Hein. 
+Megarhynchus niexicanus, Rein. J.f.O. 1859, p. 346; Cdb.et Hein. 
 Mus. Hein. ii. p. 64; Cab. J.f. 0.1861, p. 246; Scl. Cat. A. B. 
 
 p. 224; Sol. et Salv. P. Z. 8. 1864, p. 360, et 1870, p. 837 ; Zawr. 
@@ -14911,7 +14911,7 @@ Muscicapa eupogon, Licht. Mus. Berol
 Myiobius xanthopygius, Scl P. Z. S. 1860, p. 465; id. Cat. A. B. 
 p. 225; Cab. et Hein. Mus. Hein. ii. p. 67 ; Scl. et Salv. P. Z. S. 
 1866, p. 189 ; JEuler, J. f. 0.1868, p. 185 j Pek. Orn. Bras. p. 113; 
-Cab. J.f. O. 1874, p. 88; Tacz. P. Z. S. 1874, p. 537. 
+Cab. J.f.O. 1874, p. 88; Tacz. P. Z. S. 1874, p. 537. 
 Myiobius atricaudus, Laior. Ibis, 1863, p. 183; id. Ann. L. N. Y. 
 
 viii. p. 8 (Panama) ; Scl et Salv. P. Z. S. 1864, p. 360; Salv. 
@@ -14980,7 +14980,7 @@ Myiobius sulphureipygius, Scl P. Z. S. 1860, p. 465; id. Ibis, 1859,
 p. 442, et 1873, p. 373: id. Cat. A. B. p. 226 j Scl. H Salv. Ibis, 
 1860, p. 399; iid. Nomencl. p. 51; Lawr. Ann. Lye. N. Y. viii. 
 p. 8, ix. p. 114; Salv. P.Z.S. 1867, p. 148, et 1870, p. 198; 
-Frantz. J.f. O. 1869, p. 308: Ridgw. P. U. 8. N. M. vi. p. 402. 
+Frantz. J.f.O. 1869, p. 308: Ridgw. P. U. 8. N. M. vi. p. 402. 
 Myiobius citrinopygius, Cab. et Hein. Mus. Hein. ii. p. Q7. 
 Myiobius mexicanus, Cab. in Mus. Berol. 
 
@@ -17670,7 +17670,7 @@ o. Ad. sk. Guatemala.
 Sclater Coll. 
 3. Contopus lugubris. 
 Contopus lugubris, Lawr. Ann. L. JSf. Y. viii. p. 134, ix. p. 115 
-(Costa Rica): Fronts*. J.f. O. 1869, p. 308 (Costa Rica): Salvin, 
+(Costa Rica): Fronts*. J.f.O. 1869, p. 308 (Costa Rica): Salvin, 
 Ibis, 1874, p. 310. J * 
 
 Contopus pertmax, var. lugubris, JRidgw. N. A. B. ii. p. 351. 
@@ -17788,7 +17788,7 @@ A. B\ p. 231; Cab. J. f. 0.1861, p. 248 (Costa Rica); 8cl et Salv.
 Ibis, 1859, pp. 122, 441; iid. P. Z. 8. 1864, etp. 360 (Panama), et 
 1870, p, 837 (Honduras) ; iid. Mmenel. p. 52; Dresser, Ibis, 1865, 
 p. 474 (Texas) ; Lawr. Ann. Lye. N. Y. viii. p. 290, ix. p. 115 (Costa 
-Rica); Pidgw. Ann. L. JSr. Y. x. p. 376 (Illinois) ; Frantz. J.f. O. 
+Rica); Pidgw. Ann. L. JSr. Y. x. p. 376 (Illinois) ; Frantz. J.f.O. 
 1869, p. 308 (Costa Rica); Merrill, P. U. 8. N. M. i. p. 137 (Texas) ; 
 Boucard, P. Z. 8.1878, p. 64 ("Costa Rica); 8ah\ et God?n. Ibis, 
 1880, p. 125 (Santa Marta)$ Nehrling, J. f. 0.1883, p 90 (Illinois); 
@@ -18081,7 +18081,7 @@ Lembeye, Av. de Cuba, p. 129.
 
 Muscicapa caribsaa, Gundl Boston Journ. N. H. vi. p. 816. 
 
-Blacicus caribous, Cab, J.f. 0. 1855, p. 480 (Cuba); Gundl. J.f. O. 
+Blacicus caribous, Cab, J.f. 0. 1855, p. 480 (Cuba); Gundl. J.f.O. 
 
 1861, p. 328, et 1872, p. 426. 
 Contopus caribseus, Baird, Breiv. et Ridgw. N. A. B. ii. p. 3*51; 
@@ -18890,7 +18890,7 @@ Salv. P. Z. S. 1870, p. 199 (Veragua); Bom. P. Z. S. 1878, p. 64
 (Costa Hica). 
 Mviarchus venezuelensis, Lawr. Pr. Ac. Sc. Phil. 1865, p. 38; ScL 
 "et Salv. P. Z. S. 1868, p. 632 (Venezuela). 
-Myiarclius ferocior, Cab. J.f. O. 1883, p. 214 (rep. Arg.). 
+Myiarclius ferocior, Cab. J.f.O. 1883, p. 214 (rep. Arg.). 
 Above dark cinereous, more or less olivaceous: wings and tail 
 blackish, wing-coverts and outer secondaries with more or less 
 defined edgings of dirty white: beneath, throat and breast cinereous; 
@@ -19157,7 +19157,7 @@ pp. 366, 384; id. Ibis, 1859, p. 440; id. Oat. A. B. p. 233: Mat
 et Salv. Ibis, 1859,p. 121 (Guatemala); Ud. P.Z.8. 1870, p. m 
 (Honduras) ; iid. Nomencl. p. 52; G. C. Taylor, Ibis, 1860, p. 114 
 (Honduras); Law. Ann. Lye. N. Y. viii. p. 182 (Nicaragua), et 
-ix.pp. 115, 204; Frantz. J.f. O. 1869, p. 308 (Costa Bica) ; Owes, 
+ix.pp. 115, 204; Frantz. J.f.O. 1869, p. 308 (Costa Bica) ; Owes, 
 Br. Ac. Sc. Phil 1872, p. 74; Boucard, P. Z. 8.1883, p. 448 (Yucatan) 
 j Bidgw. Man. N. A. B. p. 335. 
 
@@ -21969,7 +21969,7 @@ Bras. p. 127; Cab. et Hein. Mus. Hein. ii. p. 92; Scl. et Salv. P. Z. S.
 978 (Amazonia), 1868, p. 628 (Venezuela), 1873, p. 283 (E. Peru); 
 iid. Nomencl. p. 54 ; Taylor, Ibis, 1864, p. 87 (Trinidad); Layard* 
 Ibis, 1873, p. 384 (Para) ; Finsch, P. Z. S.1870, p. 573 (Trinidad); 
-Salv. et Godm. Ibis, 1880, p. 169 (Santa Marta) ; Berl. J.f. O. 
+Salv. et Godm. Ibis, 1880, p. 169 (Santa Marta) ; Berl. J.f.O. 
 1884, p. 304 (Bucaramanga); Salv. Ibis, 1885, p. 300 (British 
 Guiana); Tacz. Orn. Per. ii. p. 340. 
 Shining black; cap golden yellow ; thighs crimson; bill and feet 
@@ -22324,7 +22324,7 @@ Pipra leucorrhoa,
 ScL JP. Z. 8. 1863, p. 63, pi. x. (Colombia); 8alv. 
 JP.Z. S. 1867, p. 149, et 1870, p. 200 (Veragua) ; id. Ibis, 1872, 
 pp. 313, 318 (Nicaragua); Lawr. Ann. Lye. N. Y. ix. p. 116 
-(Costa Rica) ; Frantz. J.f. O. 1869, p. 309 (Costa Eica) ; Sd. et 
+(Costa Rica) ; Frantz. J.f.O. 1869, p. 309 (Costa Eica) ; Sd. et 
 Salv. Momenel p. 54; Boucard, JP. Z. 8. 1878, p. 66 (Costa Eica); 
 Berl J.f. 0.1884, p. 305 (Bucaramanga). 
 
@@ -23014,7 +23014,7 @@ Sclater Coll.
 Pipra caudata, Shaw, Nat. Misc. v. pi. 153 (1794) ; Thunb. Mem 
 Acad. Retersb. 1822, pi. 7. fig. 1; Spix, Av. Bras. ii p. 5, pi. 6* 
 figs. 1, 2; Wagl. Isis, 1830, p. 930 j Sw. Orn. Dr. pi 45: Burm. 
-Sgst. TIeb. ii. p. 441; Eider, J.f. O. 1867, p. 223 (nest). 
+Sgst. TIeb. ii. p. 441; Eider, J.f.O. 1867, p. 223 (nest). 
 
 Chiroxiphia caudata, Cab. Wiegm. Arch. 1847, i. p. 235; Bp. Qmsp 
 I p. 171 j Scl. Cat. A. B. p. 251; Pelz. Orn. Bras. p. 129: SeL 
@@ -24325,11 +24325,11 @@ Ann. Lye. N. T. vii. p. 295 (Colombia), ix. pp. 116 (Costa Eica),
 204 (N. Yucatan) ; Cab. J.f O. 1861, p. 252 (Costa Eica) ; Salv. 
 
 P. Z. S.1867, p. 149, et 1870, p. 199 (Veragua) ; id. Ibis, 1872, p. 318 
-(Chontales); Frantz. J.f. O. 1869, p. 309 (Costa Eica); Bouc. 
+(Chontales); Frantz. J.f.O. 1869, p. 309 (Costa Eica); Bouc. 
 P. Z. 8. 1878, p. 66 (Costa Eica), et 1883, p. 448 (Yucatan); 
 Salv. et Godm. Ibis, 1880, p. 169 (Sta. Marta); Pidgtv. P. U.S. 
 2?. M. v. pp. 397, 500 (Costa Eica), vi. p. 398 (Nicaragua); Berl. 
-J.f. O. 1884, p. 305 (Bucararnanga). 
+J.f.O. 1884, p. 305 (Bucararnanga). 
 Psaris mexicanus, Less. Pev. ZooL 1839, p. 41. 
 Psaris tityroides, Less. Pev. Zool. 1842, p. 210. 
 Tityra mexicana, Sclater, P. Z. S. 1856, pp. 141, 297. 
@@ -24750,7 +24750,7 @@ Pachyrhamphus aglaise, Sclater, P. Z. 8.1856, p. 297, et 1857, p. 74;
 Platypsaris affinis, FllioU Ibis, 1859, p. 394, pi. 13. 
 Hadrostomus aglaise, Cab. et Hem. Mus. Ilein. ii. p. 85; Cab. 
 
-J.f. O. 1861, p. 252 (Costa Rica); Scl. Cat. A. B. p. 240; id. 
+J.f.O. 1861, p. 252 (Costa Rica); Scl. Cat. A. B. p. 240; id. 
 P. Z. 8. 1864, p. 176 (Mexico); Lawr. Ann. Lye. N. Y. ix. pp. 116 
 (Costa Rica), 204 (N, Yucatan); Frantz. J.f. 0. 1869, p. 309 
 336 
@@ -27492,7 +27492,7 @@ Syst. Ueb. ii. p. 432.
 Ampelio cucullatiis, Cab. et Rein. Mus. JELein. ii. p. 104; Scl. Cat. 
 
 A. B. p. 255 ; Pelz. Orn. Bras.y. 132 ; Hamilton, Ibis, 1871,p. 306 
-(Brazil); Scl. et Salv. Nomencl p. 58; Berl. Jf. O. 1873, p. 266 
+(Brazil); Scl. et Salv. Nomencl p. 58; Berl. J.f.O. 1873, p. 266 
 (S. Brazil) ; Berl. et Jlier. Zeitschr. ges. Orn. 1885, p. 140 (Rio Gr. 
 do Sul). 
 Carpornis cucullatus, Bp. Consp. i. p. 176. 
@@ -27711,7 +27711,7 @@ Scl P. Z. S. 1854, p. 113 (Ecuador), 1855, p. 153
 
 p. 254; id. Ibis, 1878, p. 166; Scl. et Salv. Nomencl. p. 58; iid. 
 P. Z. S. 1879, p. 519 (Antioquia); Tacz. P. Z. S. 1882, p. 24 
-(N.E. Peru); id. Orn. Per. ii. p. 375; Berl J.f. O. 1884, p. 306 
+(N.E. Peru); id. Orn. Per. ii. p. 375; Berl J.f.O. 1884, p. 306 
 (Bucaramanga). 
 Euchlorornis riefferi, Cab. et Ilein. Mus. Hein. ii. p. 103. 
 
@@ -29347,7 +29347,7 @@ Cephalopterus
 glabricollis, Gould, P. Z. S. 1850, p. 92, pi. xx.; 
 Cab. J. f. 0.1801, p. 254 (Costa Rica); Salv. P. Z. S. 1867, p. 150, 
 et 1870, p. 201 (Veragua) ; Lawr. Ann. Lye. N. Y. ix. p. 117 
-(Costa Rica); Fronts. J.f. O. 1869, p. 310 (Costa Rica) ; Scl. et 
+(Costa Rica); Fronts. J.f.O. 1869, p. 310 (Costa Rica) ; Scl. et 
 Salv. Nomencl. p. 60; Boucard, P. Z. S. 1878, p. 60 (Costa Rica). 
 
 Above and beneath black, with slight metallic reflections on the 
@@ -33149,7 +33149,7 @@ Acanthisitta longipes, Gray, List of Gen. of Birds, App. p. 6 (1842);
 
 
 Fllman, Zoologist, 1861, p. 7466. 
-Xenicus longipes, Gray, Ibis, 1862, p. 218; Finsch, J.f. O. 1867, 
+Xenicus longipes, Gray, Ibis, 1862, p. 218; Finsch, J.f.O. 1867, 
 
 p. 320, 1870, p. 251, 1872, p. 109, et 1874, pp. 171,184; Pelz. 
 Verh. h-h.zool.-bot Ges. Wien, 1867, p. 316; Butter, Birds of 2sew 
@@ -33157,7 +33157,7 @@ Zealand, p. 115 (1873); id. Ibis, 1874, p. 116; id. Man. B. of
 N Z p. 14 (1882); id. B. of N. Z. ed. ii. p. 108; Button, Cat. 
 B. of N. Z. p. 7 (1871); id. Ibis, 1874, p. 37; Forbes, RZ. 8. 
 1882, p. 569. 
-Xenicus stokesii, Graij, Ibis, 1862, p. 219; Finsch, J.f. O. 1867, 
+Xenicus stokesii, Graij, Ibis, 1862, p. 219; Finsch, J.f.O. 1867, 
 
 p. 320,1870, p. 251,1872, p. 109, et 1874, p. 184. 
 Upper parts dark green, tinged with yellow, shading into dark 

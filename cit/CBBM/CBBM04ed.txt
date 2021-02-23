@@ -291,7 +291,7 @@ a*, pamrostrig, Gould .. 32
 
 5. Edoliisoma, Jacq. $* Pucker. 42 
 
-1. cserulescens, Blyih .. 44, 469 
+1. caerulescens, Blyih .. 44, 469 
 
 2. nigrum, Gam 45 
 
@@ -2051,7 +2051,7 @@ p. 190.
 Campephagapersonata, Gray, Geyi. B. i p. 283 ; Finsch, Neu-Guinea, 
 p. 172; Gray, Hand-l. B. i. p. 366, no. 5006. 
 Graucalus personatus, Bp. Consp. i. p. 354; Wallace, P. Z. S. 1863, 
-p. 485; HaHl J.f. O. 1864, p. 438. 
+p. 485; HaHl J.f.O. 1864, p. 438. 
 Adult male. General colour above slaty grey; the scapulars and 
 wing-coverts, primary-coverts and primaries black, externally margined 
 with slaty grey, the secondaries more broadly; tail-feathers 
@@ -2133,7 +2133,7 @@ a, b. Ad. sk. Flores. A. E. Wallace, Esq. [0.].
 Campephaga cseruleogrisea, Gray, P. Z. S. 1858, p. 179 * id. Cat. B, 
 New Guinea, p. 32; id. P. Z. S. 1861, p. 435 • Mosenb. J.f 0.1864, 
 
-p. 121 • Hartl J.f. O.1865, p. 155 * Finsch, Neu-Guinea, p. 171 * 
+p. 121 • Hartl J.f.O.1865, p. 155 * Finsch, Neu-Guinea, p. 171 * 
 Gray, Hand-l. B. i. p. 338, no. 5101. 
 Campephaga strenua, Schl. N. T, D. iv. p. 44 * Sclater, P. Z. S, 1873, 
 
@@ -2607,7 +2607,7 @@ fVbl*'pyri^, Cumr^ Rhjne A aim. L p. 348 (1S17) G. canus.
 VU ill. | G. melanops. 
 PtilaiMa, Jtieq. ft Parker. V**y. Pole Sml} texte, iii. p. 67 
 {1K# | ,. G. boyeri. 
-{*\ an< tpraucalu**, Marti. J.f. O, l?s01, p. 170 . G. azureus. 
+{*\ an< tpraucalu**, Marti. J.f.O. l?s01, p. 170 . G. azureus. 
 Itatujf. From Africa and Madagascar, through India and Ceylon, 
 
 the Burmese countries, eastwards to the island of Formosa; 
@@ -3047,8 +3047,8 @@ no. 503.
 Oeblepyris cinerascens, Bp. Consp. i. p. 353 (ex Temm. MS. in Mus. 
 
 Lugd.). 
-Graucalus frenatus, Heugl. J.f. O. 1804, p. 255. 
-Campephaga frenata, Hartl J.f. O. 18G5, p. 158* Gray, Hand4. B. 
+Graucalus frenatus, Heugl. J.f.O. 1804, p. 255. 
+Campephaga frenata, Hartl J.f.O. 18G5, p. 158* Gray, Hand4. B. 
 
 i. p. 340, no. 5136. 
 Campephaga anderssoni, Sharpe, B. Z. S. 1870, p. 70, pi. iv. 
@@ -3318,7 +3318,7 @@ p. 336, no. 5071.
 Coracina javensis, Cab. Mus. Rein. Th. i. p. 62. 
 Graucalus javensis, Blyth, Cat. B. Mus. A. S. B. App. i. p. xii; Bp. 
 Consp. i. p. 354; Horsf. $ Moore, Cat. B. Mus. E. I. Co. i. p. 174, 
-no. 232; HartL J.f. O. 1864, p. 441. 
+no. 232; HartL J.f.O. 1864, p. 441. 
 
 Adult female. General colour light ashy grey, a little paler on the 
 
@@ -4001,17 +4001,17 @@ m". Under tail-coverts rufescent, barred with
 black dispar $, p. 46. 
 n". Under tail-coverts chestnut-rufous aruensis $, p. 52. 
 
-1. Edoliisoma cserulescens. 
+1. Edoliisoma caerulescens. 
 Oeblepyris caerulescens, Blytli, J. A. 8. B. 1842, p. 463,1846, p. 307: 
 id. Cat B. Mm. A. 8. B. p. 191. 
-Campephaga cserulescens, Gray, Gen. B. i. p. 283: Kartl. J. f. 0. 
+Campephaga caerulescens, Gray, Gen. B. i. p. 283: Kartl. J. f. 0. 
 
 1865, j). 157. 
 Oeblepyris aterrima, Blyth, Ibis, 1866, p. 368*. 
 Campephaga aterrima, Gray, Hand-L B. i. p. 338, no. 5100 (descr. 
 
 nulla). 
-Volvocivora cserulescens, Walden, Tr. Z. 8. ix. p. 178, pi. xxx. 
+Volvocivora caerulescens, Walden, Tr. Z. 8. ix. p. 178, pi. xxx. 
 fig. 2 ; Sharpe, Tr. Linn. 8oc. new series, vol. i. p. 351: Tweedd. 
 
 P. Z. 8.1877, pp. 693, 759, et 1878, p. 283. 
@@ -4060,7 +4060,7 @@ Z. S. 1862, p. 165; Bosenb. J. f. O. 1864, p. 121; Finsch, Neu-
 Guinea, p. 171; Gray, Hand-l. B. i. p. 338, no. 5094; Meyer, Sitz. 
 h. Akad. Wien, Ixix. p. 389. 
 Campephaga cinnamomea, Gray, Gen. B. i. p. 283; Bp. Consp. i. 
-p. 383; Bosenb. J.f. O. 1864, p. 121. 
+p. 383; Bosenb. J.f.O. 1864, p. 121. 
 Edoliisoma marescoti^.J«c</. et Pucher. Voy. Bole Sud, Zool. iii. p. 69; 
 Bp. C. B. xxxviii. p. 540. 
 
@@ -4210,7 +4210,7 @@ Eahm ^oith-western Xew Guinea.
 Feb. 13, 1876. 
 
 5. Edoliisoma ceramense. 
-Graucalus ceramensis, Bp. Consp. i. 355 ,* Saril, J.f* O. 1864, p. 442. 
+Graucalus ceramensis, Bp. Consp. i. 355 ,* Saril, J.f.O. 1864, p. 442. 
 Campephaga ceramensis, Gray, P. Z. S. 1860, p. 354; Fimch, Netur 
 Guinea, p. 172; Gray, Waml-L B, L p. 336, no. 5073. 
 Campephaga amboinensiSj Handl J.f. 0.1865, p. 150 • Gray, Hand-L 
@@ -4695,7 +4695,7 @@ Campephaga tenuirostris, Gray, Gen. B. i.*;p. 283.
 Campephaga plurnbea, Gray, Gen. B. i. p. 283; Bp. Consp. i. p. 353; 
 Gray, P. Z. S. 1858, p. 193; id. Cat B. New Guinea, p. 32 ; Sclater, 
 Br. Linn. Soc. ii. p. 160; Gray, P. Z. 8.1861, p. 435; Wall P. Z. S. 
-1863, p. 485; Bosenb. J.f. O. 1864, p. 121; Hartl. J. f. O. 1865, 
+1863, p. 485; Bosenb. J.f.O. 1864, p. 121; Hartl. J. f. O. 1865, 
 
 p. 155 ; Finsch, Neu-Guinea, p. 1715 Gray, Hand-l. B. i. p. 338, 
 no. 5096. 
@@ -8037,7 +8037,7 @@ Campephaga rufiventris, Gray, Gen. B. i. p. 283; id. Hand-l B. i.
 p. 339. no. 5117: Ramsay, Br. Linn. Soc. W. S. W. ii. pt. 1, 
 p. 181. 
 Lalage leucomela, Bp. Consp. i. p. 355: id, C. R. xxxviii. p. 541; 
-Earth J.f. O. 1865, p. 166. 
+Earth J.f.O. 1865, p. 166. 
 Ceblepyris rufiventris, Jacq. et Pitcher. Voy. Pole Sud, Zool. iii, Ois. 
 
 p. 71; Hartl. J. f. O. 1854, p. 163. 
@@ -8053,7 +8053,7 @@ p. 167.
 J > 
 Campephaga polygram mica, 
 Gray, P. Z. S. 1858, p. 179; id. Cat B. 
-Neio Guinea, p. 32,• Rosenb. J.f. O. 1864, p. 121; Finsch, Km-
+Neio Guinea, p. 32,• Rosenb. J.f.O. 1864, p. 121; Finsch, Km-
 Guinea, p. 172. 
 
 9. IAIAGE. 107 
@@ -9428,7 +9428,7 @@ A. 8. B. p. 175; Bp. Consp. i. p. 318,
 Butalis latirostris, Blyth, J. A. 8. B. xvi. p. 121; Bayard, Ann. Nat. 
 Hist. 1854, xiiL p. 127; Swinh. P. Z. 8. 1871, p. 379; Blyth $ Wald. 
 
-B. Burm. p. 104; Dybowsk. J.f. O. 1872, p. 447; Taezan. Bull. 
+B. Burm. p. 104; Dybowsk. J.f.O. 1872, p. 447; Taezan. Bull. 
 Soc. Zool. France, i. p. 168; David §* Oustal Ois. Chine, p. 123; 
 Tweedd. P. Z. 8. 1878, p. 284. 
 Muscicapa 
@@ -10285,7 +10285,7 @@ p. 1G3; J. Sf E. Verreaux, Rev. et Mag. de Zool. 1851, p. 309; iid.
 op. cit. 1855, p. 418; Hartl Orn. W.-Afr. p 95; Cass. Pr. Philad. 
 Acad. 1859, p. 50; Hartl. J. f. O. 1861, p. 169; Gray, Hand-l. B. 
 i. p. 329; Sharpe, Ibis, 1870, p. 480; id. P.Z. S. 1871, pp. 133, 
-610; id. Cat. Afr. B. p. 43; Reichenoiv, J.f. O. 1877, p. 22. 
+610; id. Cat. Afr. B. p. 43; Reichenoiv, J.f.O. 1877, p. 22. 
 Diaphorophyia leucopygialis, Bp. C. R. xxxviii. p. 353; Bocage, 
 Om. Angola, p. 201; Sharpe Sf Bouvier, Bull. Soc. Zool, France, 
 1877, p, 479. 
@@ -10368,10 +10368,10 @@ b. [c?] ad. sk. Wassaw, March 1872 (J5T. K. B. Sharpe, Esq.
 F. Blissett). 
 c, Juv. sk. Ashantee. J. Gould, Esq. 
 3. Diaphorophyia concreta. 
-Platystira concreta, Hartl. J.f. O. 1855, p. 360. 
+Platystira concreta, Hartl. J.f.O. 1855, p. 360. 
 Platystira (Myiophila) concreta, Hartl. Orn. W.-Afr. p. 95. 
 Stiphromyias concreta, Heine, J. f. O. I860, p. 133. 
-Myiophila concreta, Hartl J.f. O. 1801, p. 169. 
+Myiophila concreta, Hartl J.f.O. 1801, p. 169. 
 Diaphorophyia concreta, Sharpe, Ibis, 1873, p. 174. 
 
 
@@ -10521,7 +10521,7 @@ b. Ad. sk. Gaboon. M. Verreaux.
 2. Artomyias ussheri. (Plate III. fig. 2.) 
 Artomyias ussheri, Sharpe, Ibis. 1871, p. 416, et 1872, p. 70 : Ussher, 
 2&w, 1874, £. 00. 
-Artomyias fuliginosa, Reichen. J.f. O. 1875, p. 22 (ncc Verr.\ 
+Artomyias fuliginosa, Reichen. J.f.O. 1875, p. 22 (ncc Verr.\ 
 
 8. PLAirSIIKA. 
 145 
@@ -10615,7 +10615,7 @@ p. '567; Shelley $• Buckley, Ibis, 1872, p. 287 ,• Bocage, Orn. Angola,
 p. 195. 
 Platystira cyanea, GOv??/, Hand-l B. i. p. 329; Sliarpe, Cat. Afr. B. 
 p. 44; id.P.Z.S. 1871, p. 610,- «& Jta, 1873, p. 158; Sharpe 
-8f Bouvier, Bull. Soc. Zool. France, 1870, p. 45; Ileichenow, J.f. O. 
+8f Bouvier, Bull. Soc. Zool. France, 1870, p. 45; Ileichenow, J.f.O. 
 1877, p. 22. 
 Adult male. Upper surface deep glossy blue-black, with a very 
 slight greenish shade, inclining to grey on the rump, where the 
@@ -10961,7 +10961,7 @@ p. 518 ; Yarr. Brit. B. i. p. 1G4; Gray, Gen. B. i. p. 2G2 ; Schl. u.
 Susem. Voy. JEktr.TaS. 19; Gould, B. Eur. ii. pi, 65; Sold. Voy. 
 Nederl pi. 115; Sundev. Sv. Foyl pi. xvii. fig. 1; Ilartl. Orn. W.-
 Afr. p. 97; Cass. Pr. Philad. Acad. 1859, p. 51; Linderm. Voy. 
-Griech. p. 110; Rartl.J.f. O. 1861, p. 169; Schl Voy. van Nederl. 
+Griech. p. 110; Rartl.J.f.O. 1861, p. 169; Schl Voy. van Nederl. 
 pi. 11. fig. 1; Layard, B. S. Afr. p. 148, no. 281 j Gray, RamU B. 
 i. p. 321, no. 4811 ; Fmsch, Tr. Z. S. vii. p. 245; Finsch % Ilartl 
 Voq. Ostafr. p. 300; Heuql Orn. NO.-Afr. i. p. 439; Shelley, B. 
@@ -11228,7 +11228,7 @@ Butalis lugens, Earth P. Z 8, 1860, p. 110- id. J. f. O. 1861,
 p. 169. 
 Muscicapa 
 lugens, Gray, Eand-l. B. i. p. 821, no. 4817; Flmch § 
-Eartl Voff. Ostqfr. p. 302; ReicJim. J.f. O. 1875, p. 22 • Socage, 
+Eartl Voff. Ostqfr. p. 302; ReicJim. J.f.O. 1875, p. 22 • Socage, 
 Orn. Angola, p. 203. 
 
 Adult (type of species). General colour above uniform blue-grey, 
@@ -11782,7 +11782,7 @@ W.T.Blanford,Esq.[P.].
 12. Muscicapa hyperythra. 
 Siphia hyperythra, Cabanis, J. f. 0.1866, p. 391 ; Walden, Ibis, 1872, 
 p. 472. 
-Menetica hyperythra, Cabanis, J.f. O. 1866, p. 401. 
+Menetica hyperythra, Cabanis, J.f.O. 1866, p. 401. 
 Niltava hyperythra, Gray, Iland-i. B. i. p. 326, no. 4901. 
 Erythrosterna hyperythra, Holdsw. P. Z. S. 1872, p. 442, pi. 17; 
 Hume, Nests $ Eggs Ind. B. p. 217 5 Brooks, Str. F 1875, p. 230. 
@@ -12598,7 +12598,7 @@ Muscicapa rnacrocephala, Fllman, Zool. 1861, p. 7465.
 Muscicapa rninuta, Bllman, t. c. p. 7465. 
 Myiomoira rnacrocepliala, Finseh, J. f. O. 1872, p. 163 j Buller, B. 
 
-lY. Zeal. p. 126; Finseh, J.f. O. 1874, p. 188; Sharpe, Voy. Ereb. 
+lY. Zeal. p. 126; Finseh, J.f.O. 1874, p. 188; Sharpe, Voy. Ereb. 
 # Terr. Birds, App. p. 26. 
 Myiomoira dieffenbacliii, Finseh, Tr. N. Zeal. Inst. vii. p. 229. 
 
@@ -14237,7 +14237,7 @@ p. 269; Gray, Hand-l. B. i. p. 321, no. 4820.
 Muscicapa hylocharis, Swinh. Ibis, 1862, p. 305 (nee T. 8c S.). 
 Muscicapa rufigularis, Gray, Hand-l. B. i. p. 323, no. 4845. 
 Niltava erythaca, Gray, Hand-l. B. i. p. 327, no. 4908. 
-Ervthrosterna luteoia, Swinh. P. Z. S. 1871, p. 380; Dybowsh. J.f. O. 
+Ervthrosterna luteoia, Swinh. P. Z. S. 1871, p. 380; Dybowsh. J.f.O. 
 1872, p. 449; Tacz. Bull. Soc. Zool. France, i. p. 169; David 8c 
 Oustal. Ois. CJiine, p. 121. 
 Siphia erythrura (lapsu), Verr. N. Arch. Mus. vii. Bull. p. 29. 
@@ -15059,7 +15059,7 @@ Acanthiza, sp., Gray, Hand-l B. i. p. 220, no. 3147. *
 214 
 MFSCICAPIDJE. 
 
-Gerygone simplex, Cab. J.f. O. 1872, p. 310; Walden, Tr. Z. S. ix. 
+Gerygone simplex, Cab. J.f.O. 1872, p. 310; Walden, Tr. Z. S. ix. 
 
 p. 194; Sharpe, Tr. Linn. Soc. n. s. i. p. 352; id. Notes Leyden Mns. 
 i. no. 9, p. 28. 
@@ -15365,7 +15365,7 @@ B. i. p. 220, no. 3141.
 Acanthiza flaviventris, Gray, Gen. B. i. p. 189 ; id. Hand-l B. i. 
 p. 219, no. 3129. 
 Gerygone igata, Bp. Consp. i. p. 293; Gray, Ibis, 1862, p. 221; Pelz. 
-Beis. Novara, Voy. p. 65j Finsch, J.f. O. 1872, p. 162, et 1874, 
+Beis. Novara, Voy. p. 65j Finsch, J.f.O. 1872, p. 162, et 1874, 
 
 p. 187 ; Butter} B. N. Zeal, Intr. p. xv; Sharpe, Voy. Ei*eb. <$• 
 Terror, Birds, App. p. 25. 
@@ -16426,7 +16426,7 @@ p. 321. F y
 Turdus oclirotarsus, Forster, Descr. Anim. p. 82 (ex icon. ined. 148; 
 Dusky Bay, March 28, 1773). 
 Muscicapa albifrons, Fllman, Zool. 1861, p. 7465. 
-Myioscopus albifrons, Finsch, J.f. O. 1872, p. 160, et 1874, p. 187. 
+Myioscopus albifrons, Finsch, J.f.O. 1872, p. 160, et 1874, p. 187. 
 
 Adidt. General colour above sooty grey, the head browner, the 
 feathers with greyish bases, on which portion of the plume the shaft 
@@ -18076,7 +18076,7 @@ Ay res).
 2. Lioptilus olivascens. 
 Parisoma olivascens, Cass. Pr. Philad. Acad. 1859, p. 52; Hartl, 
 J.f. 0. 1861, p. 161 j Gray, Hand-l B. i. p. 286, no. 3415. 
-iEgithalopsis olivascens, Heine, J.f. O. 1859, p. 131. 
+iEgithalopsis olivascens, Heine, J.f.O. 1859, p. 131. 
 Adult. Entire upper parts ashy olive; wings and tail olive-brown; 
 quills externally edged with paler yellowish ashy, and internally 
 with white ; throat and under tail-coverts white; breast and abdomen 
@@ -18198,7 +18198,7 @@ Sylvia nycthemera, Temm. in Mus. Lugd., wide
 
 Lalage nycthemera, Bp. Consp. i. p. 355; Wall P. Z. S. 1863, p. 485; 
 
-Marti J.f. O. 1865, p. 105; Finsoh, Neu-Guinea, p. 172; Sakad. 
+Marti J.f.O. 1865, p. 105; Finsoh, Neu-Guinea, p. 172; Sakad. 
 
 Ucc. Born. p. 148. 
 
@@ -18492,7 +18492,7 @@ tab. 17.
 Parisoma melanurum, Cass. Pr. Philad. Acad. 1859, p. 51; Hartl 
 
 J.f O. 1861, p. 161; Gray, Hand4. B. i. p. 236, no. 3414. 
-iEgithalopsis melanura, Heine, J.f. O. 1859, p. 131. 
+iEgithalopsis melanura, Heine, J.f.O. 1859, p. 131. 
 Muscicapa melanura (nee Cass.), Heugl. J. f. O. 1863, p. 274; Finsch 
 $ Hartl Vog. Ostafr. p. 303, note ; Gray, Hand-l B. i. p. 330, 
 
@@ -19243,7 +19243,7 @@ VOL. IV. TJ
 &iari>e, Joiirn. Linn. Soc. xiii. pp. 310, 498 5 Gould, B. New Guinea, 
 
 part viii. 
-Todopsis cserulescens, Bosenb. J. f. 0. 1804, p. 120. 
+Todopsis caerulescens, Bosenb. J. f. 0. 1804, p. 120. 
 Todopsis, sp., Salvad. Ami. Mm. Civic. Genov. ix. p. 25. 
 TcMtrea bonapartii, GV^T/, Hand-l. B. i. p. 384, no. 5032. 
 
@@ -21050,7 +21050,7 @@ Rhipidura flabellifera, Gray in Dteffenb. Trav. N. Zeal n. App. p. 190;
 id. Voy. Erebus § Terror, p. 8, pi. 6. fig. 2; id. Gen. B. i. p. 258; 
 Bp. Cotisp. i. p. 323; Gray, Ibis, 1862, p. 225; Belt. Beis. Nomra, 
 Voy. p. 76; Ramsay, Ibis, 1865, p. 155; Gray, Hand-l B. i. p. 3SO, 
-no. 4953; Fmsch, J.f. O.1872, p. 164, et 1874, p. 100; Butter, B. 
+no. 4953; Fmsch, J.f.O.1872, p. 164, et 1874, p. 100; Butter, B. 
 K Zeal p. 143; Shatpe, Voy. Brebus fy Terror, Birds} App. p. 26, 
 
 45. BHIPIDURA. 
@@ -21533,7 +21533,7 @@ Bhipidura melanura, Gray, in Dieffenb. Trav. N. Zeal ii. App. p. 191 ;
 
 id. Gen. B. i. p. 258 ; id. Ibis, 1802, p. 225; id. Voy.Ereb.8f Terror, 
 p; 8; id. Hand-l B. i. p. 330, no. 4954. 
-Bhipidura fuliginosa, Gray, Gm. B. i. p. 258; Finsch, J.f. O. 1872, 
+Bhipidura fuliginosa, Gray, Gm. B. i. p. 258; Finsch, J.f.O. 1872, 
 
 p. 165, et 1874, p. 190 • Buller, B. N. Zeal p. 146; Sharpe, Voy. 
 JSreb. 8f Terr., App. p. 26. 
@@ -24000,7 +24000,7 @@ Tchitrea cristata, Filippi, Bev. Zool 1853, p. 289.
 Tchitrea melampyra, Verr.inMaHI. Orn. W.~Afr. p. 90; Cass. Fr. 
 
 
-Philad. Acad. 1859, p. 47; Marti P. Z. S. 1860, p. Ill; id. J.f. O. 
+Philad. Acad. 1859, p. 47; Marti P. Z. S. 1860, p. Ill; id. J.f.O. 
 1861, p. 167; Gray, Eand-l B. i, p. 333, no. 5006. 
 Muscipeta duchaillui, Cass. Pr. Philad. Acad. 1859, pp. 48, 49; id. 
 Journ. Philad. Acad. iv. pi. 50. 
@@ -24010,7 +24010,7 @@ Journ. Philad. Acad. iv. pi. 50.
 Muscipeta melampyra, Cass. Pr. Philad. Acad. 1859, p. 49, note. 
 Terpsiphone duchaillui, Meine, J. f. O. 1859, p. 429. 
 Terpsiphone speciosa, Meine, t. c. p. 429. 
-Tchitrea duchaillui, Marti J f. O. 1861, p. 167; Gray, MamU. B. 
+Tchitrea duchaillui, Marti J.f.O. 1861, p. 167; Gray, MamU. B. 
 
 i. p. 333, no. 5007. 
 Tchitrea speciosa, Marti J.f. 0,i§5i ** 167; Gray, Mand~l B. I. 
@@ -24332,7 +24332,7 @@ P-£ 5 -4?few # Thorns. Exped. Mger, ii. p. 492 $ JSJ>. Gwwp. i.
 p. 32o. 
 TcMtrea tricolor, G W Gen. B. i. p. 260: Hartl Orn. W.-Afr. p. 90, 
 BO. 274. 
-Muscipeta flaviventris, Verr. J.f. O. 1855, p. 103 : Cm. Pr. Philad. 
+Muscipeta flaviventris, Verr. J.f.O. 1855, p. 103 : Cm. Pr. Philad. 
 Acad. 1859, pp. 47, 49. 
 TcMtrea flaviventris, Marti Orn. W.-Afr. p. 91, no. 278; Cass. Pr. 
 Philad. Acad. 1859, p. 59; Hartl J.f. 0. 1861, p. 168; Gray, 
@@ -24372,7 +24372,7 @@ TcMtrea nigriceps, Hartl. J.f. 0.1855, pp. 355,361 (ex Temm. M88.
 
 in Mm. Lugd.) ; id. Orn. W.-Afr. p. 91, no. 277; Cass. Pr. Philad. 
 
-Acad. 1869, pp. 47, 49; Hartl J.f. O. 1861, p. 168; Sharpe, Ibis, 
+Acad. 1869, pp. 47, 49; Hartl J.f.O. 1861, p. 168; Sharpe, Ibis, 
 
 1869, p. 188; Gray, Hand-l B. i. p. 333, no. 5014. 
 
@@ -26165,7 +26165,7 @@ Megabias flammulata, J. fy. E. Verr. Rev. et Mag. de Zool. 1855,
 p. 348 j Hartl. Orn. W.-Afr. p. 92 ; Shelley and Buckley, Ibis, 1872, 
 p. 292. 
 Megabiasbicolor, Elliot. Ibis, 1859, p. 394; Hartl. J.f 0.1861,p. 168; 
-Reichen.J.f. O. 1875, p. 25. 
+Reichen.J.f.O. 1875, p. 25. 
 Srnithornis tricolor (lapsu), Gray, Hand-l. B. i. p. 324, no. 4868. 
 Myiagroides conspicuus, Reichen. J. f. 0. 1874, p. 102. 
 
@@ -28697,7 +28697,7 @@ Fh/c. p. 142, pi. 14; Gray, Gen. B. i. p. 2G0; Sclater, P. Z. 8.1877,
 
 p. loo. 
 Arses clirysomelas, Lesson, Traite, p. 887; Bp. Camp. i. p. 326. 
-Monarcha cordensis, Cab.fyReichen. J.f. O, 1870, p. 320. 
+Monarcha cordensis, Cab.fyReichen. J.f.O. 1870, p. 320. 
 Adult male (New Ireland, G. Brown). General colour above 
 bright orange-yellow, more brilliant on the head; mantle glossy 
 black, the adjoining feathers of the upper interscapulary region 
@@ -31188,7 +31188,7 @@ Exped. Niger, ii. p. 491 * HartL Orn. JF.-Afr. p. 95,- Bouvier, Cat.
 Ois. Marehe §T. p. 19. 
 
 Butalis fraseri, Bp. Oonsp. i. p. 818. 
-Cassinia rubicunda, JELaril. Bev. Zool 1860, p. 82; id, J.f. O 1861 
+Cassinia rubicunda, JELaril. Bev. Zool 1860, p. 82; id, J.f.O.1861 
 
 
 p. 168; Sharpe, Ibis, 1870, p. 54, pi 2. %. 1 • id. Cat. Afr. B. 

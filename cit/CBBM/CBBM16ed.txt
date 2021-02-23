@@ -3133,16 +3133,16 @@ Ay res, Ibis, 1879, p. 294 (Transvaal) ; Sharpe, in Oatei Matahele-
 Ld. App.p.304 (1881); Gumey, Ibis, 1881, p. 125 (Mpmbasa); 
 Shelley, Ibis, 1881, p. 570; Holub $ Pelz. Orn. Siidafr. p. 71 
 (1B82); Shelley, Ibis, 1882, p. 245 (Umvuli River) ; %£P. Z. S. 
-1882, p. 302; Bohm, J.f. O. 1883, p. 190; Schalow, t. c. p. 851 
+1882, p. 302; Bohm, J.f.O. 1883, p. 190; Schalow, t. c. p. 851 
 (Mpapw.aj Kakoma); Fi$ch. Zeitsch. ges. Orn. i. p. 360 (1884, 
 Pangani); Bohm, J. f O. 1885, p. 46; Fischer, t. c. p. 127; 
 Ayres, Ibis, 1885, p. $1 (Umzeila's country); Shelley, Ibis4 1885,, 
 p. 395 (Somali); Souza, Jorn. Lisb. 1886, no. 43, p. 152; Schalow, 
-J.f. O. 1886, p. 426; Beichen. J.f. Q. 1887, p. 61 (Usan<Jawi)^ 
+J.f.O. 1886, p. 426; Beichen. J.f. Q. 1887, p. 61 (Usan<Jawi)^ 
 Schalow, J. f. O. 18$7, p. 236; Buttik. Notes Ley dm Mus. x. 
 p. 222 (1888, Kasinga Biver), xi. p. 08 (1889, Humpata); Tristr. 
 Jbis, 1889, p. 225 (Kjkombo); Souza, Jorn. Inb. na 48, p. %2\ 
-(1888); Beichen. J.f. O. 1889, p. 276. 
+(1888); Beichen. J.f.O. 1889, p. 276. 
 Irrisor 
 senegalensis (nee V), Gumey, P.Z.S. 1864, p. 2 (Damaya); 
 Cab. in Von der Decken's Pets. iii. p. 34 (1869) ; id. J.f 0.1878, 
@@ -3368,9 +3368,9 @@ Sept.
 
 3. Irrisor bollii. (Plate II.) 
 Irrisor 
-bollei; Marti. J.f. O. 1858, p. 445; id. J.f. 0.1861, p. 108 • 
+bollei; Marti. J.f.O. 1858, p. 445; id. J.f. 0.1861, p. 108 • 
 Shame, Ibis, 1871, p. 414; id. Cat. Afr. B. p. 10 (1871): id. Ibil 
-1872, p 67 j Meichen. J.f. O. 1875, p. 20. ' 
+1872, p 67 j Meichen. J.f.O. 1875, p. 20. ' 
 
 Adult male. Upper surface from the nape to the middle of the 
 back glossy green; lower back, upper tail-coverts, and basal two-thirds 
@@ -3556,7 +3556,7 @@ W. T. Blanford, Esq.
 /• [ ? ] a<^ s** Abyssinia (Sir W. C. Harris). India Museum. 
 
 3. Scoptelus castaneiceps. (Plate III. fig. 2.) 
-Irrisor bollei, juv., Uartl J.f. Orn. 1858, p. 445. 
+Irrisor bollei, juv., Uartl J.f.O.n. 1858, p. 445. 
 Irrisor castaneiceps, Sharpe, Ibis, 1871, p. 414,1872, p. 07; Ussher, 
 Ibis, 1874, p. 51. 
 
@@ -4118,7 +4118,7 @@ p. 103 ; Set. § Salv. P. Z. S. 1807, pp. 584, 979, 1868, p. 169,
 p. 189 ; Muh. Hist. Nat Ois.-Mouches, ii. p. 237, iv. p. 207 ; 
 id. Ann. Soc. Linn. Lyon, xxii. p. 214; Elliot, Syn. Troch. 
 p. 174; Sah. Cat. Strickl Coll. p. 366; id. Ibis. 1885, p. 434: 
-Berl. J.f. Orn. 1887, p. 319. 
+Berl. J.f.O.n. 1887, p. 319. 
 Ormtmya nigrotis, Less. Suppl. Ois.-Mouches, p. 97. 
 Trochilus nigrotis, Less. Ind. Gin. Troch. p. xx. 
 Reliothrix nigrotis, Gray, Gen. B. i. p. 115; Bp. Consp. Av. i. p. 69; 
@@ -4223,7 +4223,7 @@ Troch. iv. pi. 217 (Oct. 1853); id. Intr. Troch. p. 121; id. P. Z. S
 Rein. iii. p. 28; Salv. Ibis, 18C0, pp. 272, 400. Ib72, p. 320; id 
 
 P. £#.1867, p. 155, 1870, p. 2Q9; Scl. Cat Am. JB. p, 305; 
-Lawr. Ann. Lye. N. Y. vii. p. 291, ix. p. 125; Heine, J.f. Orn. 
+Lawr. Ann. Lye. N. Y. vii. p. 291, ix. p. 125; Heine, J.f.O.n. 
 1863, p. 182; Scl. $ Sah. P.Z. 8. 1864, p. 365, 1879, p. 529; 
 Muls. fy Verr. Class. Troch. p. 58; Elliot, Ibis, lfc76, p, 397 ; id. 
 Syn. Troch. p. 175; Muls. Hist Nat Ois.-Mouehes, ii. p. 242, 
@@ -4368,7 +4368,7 @@ Petasopliora ? geoffroyi, Gould, P. Z. S. 1847, p. D.
 Colibri geoffroyi, Bp.' Cony). Av.l. p. 00. 
 Ois.-Mouches, iii. p. loo ; id. Ann. Sue. Linn. Lyon, xxii. p. 521; 
 Elliot, Si/n. Troch. p. 173: Btrl & Tacz. P. Z. 8. 1854, p. 305, 
-1885, p. 104; Bed. J.f. Orn. 1887, p. 318. 
+1885, p. 104; Bed. J.f.O.n. 1887, p. 318. 
 
 Petasopliora a. Scliistes geoffroyi, Reich. Aufz. d. Col. p. 13. 
 
@@ -5201,7 +5201,7 @@ Chlorolampis, Cah. fy Heine, Mus. Hein. iii. p. 47
 
 (I860) C. angustipennls. 
 Prasitis, Cab.fyHeine, Mus. Hein. iii. p. 49 . . C. prasimis. 
-Chloauges, Heine, J.f. Orn. 1863, p. 200 ........ C. auriceps. 
+Chloauges, Heine, J.f.O.n. 1863, p. 200 ........ C. auriceps. 
 Chlorostilbon (Merion), Mids. Hist Sat Ois.-
 
 Mouches, ii. p. 92 (1875) C. haeberlini. 
@@ -5630,7 +5630,7 @@ Chlorostiibon bicolor, Cab. § Heine, Mus. Hem. iii. p. 46.
 Chlorostilhon phaeton, Gould, Mon. Troch. v. pi. 354 (July 1801) 
 id. Intr. Troch. p. 175; Seine, J. f. Orn. 1863, p. 167; Burm 
 
-J.f. Orn. 1800, p. 88. 
+J.f.O.n. 1800, p. 88. 
 Chlorostiibon aureiventris, Gould, Intr. Troch. p. 176 ; Heine, Xf. 
 Orn. 1863, p. 197. 
 Chlorostiibon spleudidus, Ellio+, Ibis, 1875, p. 165,1877, p. 136 ; id. 
@@ -5767,9 +5767,9 @@ Chlorostilbon igneus, Gould, Inir. Troch. p. 176; Heine, J. f. Orn,
 
 I860, p. 109. 
 
-CMorostilbon egregius, Heine, J.f. Orn. 1803, p. 107. 
+CMorostilbon egregius, Heine, J.f.O.n. 1803, p. 107. 
 
-CMorostilbon pucherani, Heine, J.f. Orn. 1803, p. 108; Elliot, Ibis, 
+CMorostilbon pucherani, Heine, J.f.O.n. 1803, p. 108; Elliot, Ibis, 
 
 1875, p. 101; id. Syn. Trocli. p.*244; Muls. Ann. Soc. Linn. Lyon, 
 
@@ -5777,7 +5777,7 @@ xxii. p. 200; Eiales-Besl. Ann. Mus. Caen, i. p. 518; Sab. Cat.
 Stricld. Colly. 370; Berl Pr. U.S. Nat. Mm. xi. p. 504. 
 CMorostilbon insularis, Laiur. Ann. Lye. N. Y. vii. p. 457; id. Pr. 
 Bost. Soc. N. H. xiv. p. 284; id. Mem. Bost. Soc. N. II. ii. p. 2d2; 
-Heine, J.f. Orn. 1863, p. 199; Muls. Hist. Nat. Ois.-Mouches, ii. 
+Heine, J.f.O.n. 1863, p. 199; Muls. Hist. Nat. Ois.-Mouches, ii. 
 
 p. 100. 
 Hylocharis flavifrons, Peh. Orn. Bras. p. 33. 
@@ -5853,7 +5853,7 @@ ans:iistipennis, Gould, Mon. Troch. v. pi. 353 (May
 
 p. 312,1887, p. 333. 
 CMorolampis clirysogaster, Cab. § Seine, 3Ius. Hein. ill. p. 47. 
-OMorolampis angustipennis, Heine, J.f. Orn. 1863, p. 201. 
+OMorolampis angustipennis, Heine, J.f.O.n. 1863, p. 201. 
 Olilorostilbon peruana, Seine, J. f. Orn. 1803, p. 201 {fide IL v. 
 Berlep&ck). 
 
@@ -5934,7 +5934,7 @@ OHorestes kaeberlini, Reich. Aufz. d. Col. p. 7; id. Troch. Enum. n. 4
 pi. 703. rX 4578-80. i ' 
 CMorolampis liaeberlini, Cab. $ Heme, Mus. Hein. iii. p. 48 ; Heine 
 
-J.f. Orn. 1863, p. 201. 
+J.f.O.n. 1863, p. 201. 
 CMorolampis smaragdiua, Cab. § Seine. Mus. Hein. iii. p. 48; Heine. 
 J.f Orn. 1863, p. 202? t > > 
 Chlorostilbon liaeberlini, Gould, Intr. Troch. p. 175• Mute. Ann. Soc. 
@@ -5967,7 +5967,7 @@ Chlorostilbon melanorhynchus,
 Gould, P Z. S. I860, p. 308; Bed. 
 fy Tacz. P.Z.S. 1883, p. 568, 1884, p. 300; Tacz. Orn. Per. i. 
 
-p. 415; Berl. J.f. Orn. 1884. p. 313. 
+p. 415; Berl. J.f.O.n. 1884. p. 313. 
 Chlorostilbon ehrysogaster, Gould, Intr. Troch. p. 198 (nee Bourc.). 
 Chlorostilbon angustipennis,Elliot, Ibis, 1875, p. 173 ; id. Syn.Troch. 
 p. 254 (nee Eraser); Eudes-Desl. Ann. Mus. Caen, i. p. 524. 
@@ -6134,7 +6134,7 @@ Intr. Troch. p. 177; E. O. Taylor, Ibis, 1868, p. 82 j Elliot, Ibis,
 1875, p. 159 j id. Syn. Troch. p. 246 • Eudes-Desl. Ann. Mus. Caen, 
 
 i. p. 526. 
-Chlorolampis atala, Heine, J.f. Orn. 1863, p. 202. 
+Chlorolampis atala, Heine, J.f.O.n. 1863, p. 202. 
 Chlorostilbon carribseus, Lawr. Ann. Lye. N. Y. x. p. 2. 
 Chrysomirus atala, Mids. Hist. JVat Ois.-Mouches, ii. p. 105, iv, 
 p." 199; id. Ami. Soc. Linn. Lyon, xxii. p. 210. 
@@ -6196,9 +6196,9 @@ CHorostilbon daphne, Goukl Intr. Troch p. 177:fi'rl.&* >V/r. P. #. >S.
 1866, p. 195. 
 CHorostilbon brevicaudatus Gould, Intr. Tryeh. p. 17K: 7>// r. P. #. »S'. 
 1874, p. 545,1882, p. 40. 
-Chlorolampis daphne, Heine, J.f. Orn. 1803, p. 201. 
+Chlorolampis daphne, Heine, J.f.O.n. 1803, p. 201. 
 Ohlorolampis napensis, Heine. J.f Orn. l&fj'A, p. 201. 
-Chlorolampis brevicaudatus, Heine, J.f. Or it. lfcUO, p. 202. 
+Chlorolampis brevicaudatus, Heine, J.f.O. it. lfcUO, p. 202. 
 Agyrtria media, Pefo. Orrc. P;Y^* pp. 20, 57; Ell tot ^ Ihi$, 1^74, 
 
 p. 263. 
@@ -6283,7 +6283,7 @@ Ohlore&tes d. Ricordia, Reich. Aufz. d. Col p. 8 (Mar. Type.
 1854) S. ricordi. 
 Sporadinus, Bp. Rev. ZooL 18.54, p. 255 S. ricordi. 
 Sporadicus, Cab. $ Heine, Mm. Hem. iii. p. 25 S. ricordi. 
-Erasmia, Heine, J.f. Orn. 1803, p. 191. 
+Erasmia, Heine, J.f.O.n. 1803, p. 191. 
 Sporadinus (Marsyas), Muls. Hist. Nat. Ois.-Moaehes, 
 
 
@@ -6366,10 +6366,10 @@ Sporadinus maugsei, Gould, Mori. Troch. y. pL 349 (Sept. 1861);
 id. Intr. Troch. p. 173; Elliot, Ibis, 1872, p. 356; id. Syn. Troch. 
 
 p. 242; Muls. Hist Nat. Ois.-M'ouches, ii. p. 77, iv. p. 198; id. 
-Ami. Soe. Linn. Byon, xxii. p. 209; Gundl. J.f. Orn. 1878, p. 182 : 
+Ami. Soe. Linn. Byon, xxii. p. 209; Gundl. J.f.O.n. 1878, p. 182 : 
 Eudes-Besl Ann. Mm. Lyon, i. p. 503; Cory, B. West Ind. p. h">4, 
-Chlorestes ^ertrudis, Gundl. J.f. Orn. 1874, p. 31-3. 
-CMorolampis gertrudis, Cab. J.f. Orn. 1875, p. 223. 
+Chlorestes ^ertrudis, Gundl. J.f.O.n. 1874, p. 31-3. 
+CMorolampis gertrudis, Cab. J.f.O.n. 1875, p. 223. 
 CMorolampis maugseus, Muls. 8f Verr. Class. Troch, p. 40; GzmdL 
 
 
@@ -6963,7 +6963,7 @@ Panychlora parvirostris, Laiur. Pr. Ac. Phil. 1865, p. 39.
 Microehera parvirostris, Salv. P. Z. 6\ 1867, p. 154; id. Ibis, 1872, 
 
 p. 319; Laiur. Ann. Lye. N. Y. ix. p. 122; Gray, Ilanchl B. i. 
-p. 134; v. Frantz. J.f. Orn. 1809, p. 315; Muls. Hist. Nat. Ois.-
+p. 134; v. Frantz. J.f.O.n. 1809, p. 315; Muls. Hist. Nat. Ois.-
 Mouches, iii. p. 136 ; 'id. Ann. Soc. Linn. Lyon, xxii. p. 221; Elliot, 
 Syn. Troch. p. 104; Boucard, P. Z. S. 1878. p. GO; Gould, Suppl. 
 Trod. pi. 30 (Aug. 1880). 
@@ -7130,7 +7130,7 @@ Intr. Troch. p. 180 ; Gray, Hand-l B. i. p. 149; Elliot, Ibis, 1875,
 
 p. 170; id. Syn. Troch. p. 247; Muk. Mist. Nat. Ois.-Mouches, 
 ii. p. 112 ; id. Ann. Soc. Linn. Lyon, xxii. p. 210; Etides-JDesl, Ann. 
-Mm. Cam, i. p. 530, iv. p. 199; Berl. J.f. Orn. 1887, p. 334. 
+Mm. Cam, i. p. 530, iv. p. 199; Berl. J.f.O.n. 1887, p. 334. 
 Chlorostilbon (Panichlora) poortmanni, Muls. § Verr. CI. Troch. p. 42. 
 Adult male. Upper surface shining grass-green, crown and 
 under surface glittering grass-green ; tail also shining, a little 
@@ -7168,7 +7168,7 @@ J. /. 0™. 1887, p. 336.
 Chlorostilbon (PanicMora) eucliloris, Ufa/*. £ IVr. C&ss. 2>ocft. 
 
 p. 42. 
-Panyclilora poortmani major, Bed. J.f. Orn. 1884, p. 313. 
+Panyclilora poortmani major, Bed. J.f.O.n. 1884, p. 313. 
 
 Adult male. Very similar to that of P. poorttaaui, but the colour 
 of the crown and under surface of a more golden hue. 
@@ -7202,7 +7202,7 @@ Troch. p. 178; Gray, HancUl B. L p. 140; Elliot, Bis, 1575,
 
 p. 171; id. Syn. Troch. p. 248; Muh. Hist. Nat. Qk.-Mmtdm% ii. 
 p. 115, iv. p. 190; id. Ann. Soc. Linn. Lyon, xxii. p. 210; Elides-
-Deal Ann. Mus. Caen, i.p. 530; BerL J.f. Orn. I^b7, p. 334. 
+Deal Ann. Mus. Caen, i.p. 530; BerL J.f.O.n. I^b7, p. 334. 
 Panyclilora maeulicollis, Cab. # Heine, Mm. Hein. iii. p. 49. 
 PanycHora aurata, Cab. # Heine, Mus. Hein. iii. p. 50. 
 Smaragdites alicise, Muls. 8f Terr. Class. Troch. p. 42. 
@@ -7677,7 +7677,7 @@ p. 304; Salv. Cat. Strichl. Coll. p. 362; Allen, Bull. Am. Mus. N.
 H. ii. p. 260. * 
 Cceligena a. Thalurania glaucopis, Reich. Aufz. der Col. p. 7; id. 
 Troch. Enmn. p. 2, pi. 685.ff. 4509-10. 
-Glaucopis frontalis, Burm. Syst. Ueb. ii. p. 333; Euler, J.f. Orn. 
+Glaucopis frontalis, Burm. Syst. Ueb. ii. p. 333; Euler, J.f.O.n. 
 1867, p_. 222. 
 Thalurania lucise, Lawr. Ann. Lye. N. Y. vii. p. 2; id. Pr. Bost. Soc. 
 
@@ -7813,7 +7813,7 @@ p. 355; Elliot, Syn. Troeh. p. 99; Muls. $ Verr. Class. Troeh. p. 51;
 Muls. Hist. Nat Ois.-Monches, iii. p. 63, pi. 73, iv. p. 217; id. 
 Ann. Soc. Linn. Lyon, xxii. p. 218; Boucard, P. Z S.1878, p. 69; 
 Salv. <§* Godm. Ibis, 1880, p. 172; Eudes-Hesl. Ann. Mus. Caen, 
-i. p. 306; Berl. J.f. Orn. 1884, p. 310, 1887, p. 319. 
+i. p. 306; Berl. J.f.O.n. 1884, p. 310, 1887, p. 319. 
 Coeligena a. Thalurania columbica, Reich. Aufz. der Col. p. 7; id. 
 Troeh. Emm. p. 3, pi. 685.ff. 4511-12. 
 Coeligena a. Thalurania puella, Reich Aufz. der Col. p. 7. 
@@ -8171,7 +8171,7 @@ Cceligena a. Thalurania gyrinno, Reich. Aufz. d. Col p. 7 ; id. Troch.
 Enum.^l.Q82.E.4coOO-l. 
 Thalurania forfieata, Cab. $ Heme, Mas. Hein. iii. p. 24; Heme, 
 
-J.f. Orn. 1863, p. 181. 
+J.f.O.n. 1863, p. 181. 
 Polytmus furcatus, Gray} Hand-I. B. i, p. 130. 
 Adult male. Upper surface nearly black when viewed from in 
 front, with a slight shade of green, which is brighter on the rump ; 
@@ -8395,7 +8395,7 @@ TROCHILI.
 Ann. Soc. Zimz. Lyon, xxii. p. 203; id Hist. Xat. Ois.-Mouches, iv. 
 
 p. 150; Elliot, St/n. Troch. p. 45; Eudes-Besl Ana. Mus. Caen, 
-i. p. 20G; Perl J.f. Orn. 1884 p. 309, 1887, p. 810. 
+i. p. 20G; Perl J.f.O.n. 1884 p. 309, 1887, p. 810. 
 Chalybura seneicauda, Lawr. Pr. Ac. Phil. 18G5, p. 38, 
 Polytmus buffoni, Gray, Hand-l B. i. p. 126. 
 Adult male. Upper surface shining grass-green; upper tall-
@@ -8611,7 +8611,7 @@ Aufz. d. Col. p. 11 (1854) L. dominicus.
 Margarochrysis, Reich. Aufz. d. Col p. 11 
 
 (1854) L. dominicus. 
-Endoxa, Heine, J.f. Orn. 1863, p. 179 .. L. mango. 
+Endoxa, Heine, J.f.O.n. 1863, p. 179 .. L. mango. 
 Campylopteras (Cruris), Mute. Ami. Soe. 
 
 
@@ -8674,7 +8674,7 @@ Mus. Hem. hi. p. 10; Sal P. Z. S. 1801, p. 79; id. Cat. Am. B.
 p. 291; Muh. $ Terr. Class. Troch. p. 24: Muis. Hist. Xat. Ois.-
 Mouckes, I p. 103, iv. p. 155 ; id. Ann. Soe. Linn. Lyon, xxii. p. 202; 
 Eudes-Desl Ann. MILS. Caen, i. p. 190. 
-Eudoxa porphyrura, Heine, J.f. Orn. 1803. p. 179. 
+Eudoxa porphyrura, Heine, J.f.O.n. 1803. p. 179. 
 Polytmus porpliyrurus, Gray, Hand-l B. 1. p. 120. 
 
 
@@ -8751,14 +8751,14 @@ Lampornis
 mango, Bp. Consp. i. p. 71; id. Rev. Zool. 1854, p. 250; 
 Gould, Mon. Troch. ii. pi. 74 (Sept. 1856); Burm. Syst. TJeb. ii. 
 
-p. 331; id. J.f. Orn. 1865, p. 229 ; Cass. Pr. Ac. Phil. 1860, p. 10 ; 
+p. 331; id. J.f.O.n. 1865, p. 229 ; Cass. Pr. Ac. Phil. 1860, p. 10 ; 
 ScL P. Z. S.1860, p. 254 ; id. Cat. Am. B. p. 291; Cab. 8f Heine, Mus. 
 Hein. iii. p. 19; Later. Ann. Lye. N. Y. vii. p. 319 ; E. C. Taylor, 
 Ibis, 1863, p. 91; Sol. $ Salv. P. Z. S. 1864, p. 365,1866, p.'l93, 
 1867, pp. 584, 752, 979, 1868, pp. 169, 628, 1873, p. 287; Muls. 8? 
 Verr. Class. Troch. p. 24; Finsch, P. Z. S. 1870, p. 562; Wyatt, 
 Ibis, 1871, p. 376; Peh. Orn. Bras. p. 28 ; Reinh. Vidensh. Medd. 
-Nat. For. Kjdb. 1870, p. 103 ; Eider, J.f. Orn. 1873, p. 221; Muls. 
+Nat. For. Kjdb. 1870, p. 103 ; Eider, J.f.O.n. 1873, p. 221; Muls. 
 Hiit. Nat. Ois.-Mouches, i. p. 155, pi. 13, iv. p. 155 ; id. Ann. Soc. 
 Linn. Lyon, xxii. p. 202; Eudes-Desl. Ann. Mus. Caen, i. p. 189. 
 
@@ -8777,7 +8777,7 @@ Troch. p. 38; Layard, Ibis, 1873, p. 235; ScL $ Salv. P. Z. S.
 1879, pp. 528, 627 j Boucard, P. Z. S. 1879, p. 178; Salv. Cat. 
 Strickl Coll. p. 361; id. Ibis, 1885, p. 432; Tacz. Orn. Ptr. i. p. 281. 
 
-Lampornis nigricollis, Berl J.f. Orn. 1884, p. 309,1887, p. 317. 
+Lampornis nigricollis, Berl J.f.O.n. 1884, p. 309,1887, p. 317. 
 Adult male. Upper surface golden green, duller on the crown; 
 middle of the throat and abdomen black ; sides of the neck glittering 
 green, passing into glittering blue along the sides of the black 
@@ -9010,7 +9010,7 @@ Mute. Hist. Nat. Ois.-Mouches, ii. p. 259.
 
 Lampomis calosoma, Elliot, Ibis, 187'2, p. 351; Mids. Hist. Nat. 
 Ois.-3fouches, i. p. 177, iv. p. 154, pi. 15; Gould, Suppl. Trock. 
-pi. 9 (Aug. 1880); Berl. J.f. Orn. 1867, p. 334. 
+pi. 9 (Aug. 1880); Berl. J.f.O.n. 1867, p. 334. 
 
 Crinis calosoma, Eudes-Desl. Ami. Mu*. Caen, i. p. 212. 
 Oampylopterus calosoma, Mais. Ann. Soc. Linn. Lyon, xxii. p. 202. 
@@ -9565,7 +9565,7 @@ Gould, Mon. Troch. ii. pi. 84 (Sept. 1857) ; id. Intr. Troch. p. 08:
 
 A. $ E. XeivtonK Ibis, 1859, p, 138 ; Scl. Cat. Am.B. p. 291. 
 LampornL liolosericeus, Cab.ty Heine, 3L^t Hex a. iii. p. 17; GundL 
-J.f. Orn. 1878, p. 181. 
+J.f.O.n. 1878, p. 181. 
 Lampornis chlorolsenius, Cfefi. 4' Heine, 3Ius. Hein. iii. p. 17. 
 Eulampis longirostris, Gould. Intr. Troch. p. 09. 
 Poly tmus holo&ericeus et chlorolamius, Gray, Hand-l. B. i. p. ISO. 
@@ -9995,7 +9995,7 @@ Colibri cyanotis, Bp, Camp* i. p. 69.
 Cat Am. B. 
 
 p. 30t>; Gould, Intr. Troch. p. 125; id. P. Z. 8. Ife70. p. bt)3: Cad. 
-J.f. Orn. 1863, p. 162; Muls. $ Verr. Class. Track p. 49 ; Sel. $ 
+J.f.O.n. 1863, p. 162; Muls. $ Verr. Class. Track p. 49 ; Sel. $ 
 24 . PETASOPHOKA. 
 Ill 
 
@@ -10202,7 +10202,7 @@ Ohrysolampis mosquita, Muls. 8? Verr. Class. Troch. p. 57.
 Ohrysolampis reichenbachi, Cab. $ Heine, Mus. Hein, iii. p. 21. 
 
 * I do not know the bird referred to as:— 
-OIIRYSOLAHPIS GIGLIOLII, Oust Le Naturalise, 1885) p. 3; Berl.J.f. Ornk 
+OIIRYSOLAHPIS GIGLIOLII, Oust Le Naturalise, 1885) p. 3; Berl.J.f.O.nk 
 1887, 
 p. 7. 
 VOL. XVI.
@@ -10531,7 +10531,7 @@ p. SO; 8cl Cat. Am. B. p. 301 : Whitehj, P. Z. & 1S73. p. IPO:
 Tacz. P. X & 1874, p. 543, 1880. p. 504; id. On*. Per. i. p. #5*: 
 jfcfo&. Zfof. Nat Ois.-MoutJws. ii. p. 2&f», pi. 59, h. p. 511; kl 
 Ann. Soc. Linn. Lyon, 5.xii. p. 510 ; Elliot* Syn. H. Birds, p. G*»: 
-Tacz. <$• iSV/. P. X 6'. 1855, p. 103; Bed. J.f. Ora. 1557. p. 354. 
+Tacz. <$• iSV/. P. X 6'. 1855, p. 103; Bed. J.f.O.a. 1557. p. 354. 
 Diplilogeena (Lepidoria) temniinckii. Huh. £ Fm*. Ch/^lf. Twit. 
 
 p. 61. 
@@ -10611,12 +10611,12 @@ Gray,Hand-LBA.y. 138.
 
 Heliomaster angelae, Bp. Consp. Av. i. p. 70; Gould, Mon. Troch. 
 
-iv. pi. 263 (May 1853); Burm. J.f. Orn. 1860, p. 244,1865, p. 229; 
+iv. pi. 263 (May 1853); Burm. J.f.O.n. 1860, p. 244,1865, p. 229; 
 id. R. Z. S. 1865, p. 460; id. La-Rlata Reise, ii. p. 448. 
 Calliplilox b. Calliperidia angelse, Reich. Aufx. d. Col. p. 12 ; id. Troch. 
 Enum. p. 10, pi. 842. ff. 4986-89. 
 Omithomyia angelae, Bp. Rev. Zool 1854, p. 251. 
-Campylopterusinornatus, Burm. J.f. Orn. 1860, p. 244; id.La-Rlata 
+Campylopterusinornatus, Burm. J.f.O.n. 1860, p. 244; id.La-Rlata 
 
 Reise, ii. p. 447. 
 Calliperidia angelae, Gould, Intr. Troch. p. 141; Muls. fy Verr. Class. 
@@ -10948,7 +10948,7 @@ Trochilus heliantheus, Gray, Hand-l B. i. p. 138.
 Helianthea porphyrogaster, Muls. Hist. Nat. Ois.-Mouches, ii. p. 293, 
 
 iv. p. 211; id. Ann. 8oc. Linn. Lyon, xxii. p. 216. 
-Hypochrysia helianthea, Berl J.f. Orn. 1887, p. 823. 
+Hypochrysia helianthea, Berl J.f.O.n. 1887, p. 823. 
 Adult male. Upper surface nearly black, with a tinge of green on 
 the middle of the back and wing-coverts * upper tail-coyerts glittering 
 greenish plumbeous; head and neck deep black ; forehead glittering 
@@ -10996,7 +10996,7 @@ Diphlosraena (Helianthea) bonapartii, Muls. $ Very. Class. Troch.
 
 p. 61. 
 Trochilus bonapartii, Gray, Hand-l. B. i. p. 138. 
-Hypoebrysea bonapaitei, Berh J.f. Orn. 1887, p. 323. 
+Hypoebrysea bonapaitei, Berh J.f.O.n. 1887, p. 323. 
 Adult male. Upper surface dark shining grass-green ; crown and 
 nape black : forehead glittering grass-green ; rump and upper tail-
 coverts glittering golden-orange ; under surface glittering green as 
@@ -11216,7 +11216,7 @@ Bourcieria, Bp. Compt. Rend. xxx. p. 380 (1850) ... . B. torquata.
 Bourcieria a. Conradinia, Reich. Aufz. d. Col. p. 10 
 
 (1854) *. B. eonradi. 
-Polysena, Heine, J.f. Orn. 1863, p. 215 B. torquata. 
+Polysena, Heine, J.f.O.n. 1863, p. 215 B. torquata. 
 
 Range. Andes from Venezuela and Colombia to Bolivia. 
 
@@ -11255,7 +11255,7 @@ Honiophaina inca, Cab.fy Heine, Mus. Hein. iii. p. 79; Muls. Hist.
 Nat Ois.-Mouches, ii. p. 322; id. Ann. Sue. Linn. Lyon, xxii. 
 
 p. 216. 
-Polysena inca, Heine, J.f. Orn. 1863, p. 216. 
+Polysena inca, Heine, J.f.O.n. 1863, p. 216. 
 Diphlogeena inca, Muls. §> Verr. Class. Troch. p. 61. 
 Trocbilus inca, Gray, Hand-l. B. i. p. 139. 
 Adult male. Body, including upper and under tail-coverts, 
@@ -11303,7 +11303,7 @@ Bourcieria insectivora, Gould, Intr. Troch. p. 135; Tacz. P.Z.S.
 
 p. 5; id. Syn. Troch. p. 76 • Sharpe in Goulds Suppl. Troch. pi. 20 
 (Mar. 1887). 
-Polysena insectivora, Heine, J.f. Orn. 1863, p. 216. 
+Polysena insectivora, Heine, J.f.O.n. 1863, p. 216. 
 
 
 VOL. XVI. 
@@ -11347,7 +11347,7 @@ p. 136; Scl $8ah. P. Z. S. 1870, p. 782 ; Elliot, Syn. Troth, p. 76.
 Bourcieria a. Conradinia conradi, Reich. Troch. Enum, p. 7, pi. 747. 
 fit. 4714-15. 
 Ilelianthea conradi, Cab.fy Heine, Mus. Hem. iii. p. 80. 
-Polyoma conradi, Heine, J.f. Orn. 1863, p. 216. 
+Polyoma conradi, Heine, J.f.O.n. 1863, p. 216. 
 DipMogsena conradi, Mids. $• Verr. Class. Troch. p. 61. 
 Homophaina conradi, Muls. Hist. Nat. 0 is.-Mouches, ii. p. 320, iv. 
 
@@ -11377,14 +11377,14 @@ Gould, Mon. Troch. iv. pi. 251 (May 1854); id. Intr. Troch. p. 135 \
 id. P. Z. S. 1870, p. 803; Scl. Cat. Am. B. p. 309; Elliot Sim. 
 Troch. p. 77; Scl. $ Sate. P. Z. S. 1879, p. 5.30; Taez. & Berl. 
 
-P. Z. S. 188-5, p. 105; Berl J.f. Orn. 1887, p. 324 
+P. Z. S. 188-5, p. 105; Berl J.f.O.n. 1887, p. 324 
 Bourcieria ,3. Honiophaina prunellii, Reich. Troch. Emm. p. 7, pi. 748. 
 £L 4710-17. * l 
 Homopliaina torquata, Cab. § Seine, Mus. Hem. iii. p. 70; Muls. 
 Hist. Nat Ois.-Mouches, ii. p. 316, iv. p. 213; id. Ann. Soc. Linn. 
 Lyon, sxii. p. 210. 
 
-Polytena torquata, Heine, J.f. Orn. 3 803, p. 215. 
+Polytena torquata, Heine, J.f.O.n. 3 803, p. 215. 
 Diphlogsena torquata, Muls. 4* Terr. Class. Troch. p. 01. 
 Trochilus torquatus, Gray, Hand-l. B. I. p. 139. 
 
@@ -11478,7 +11478,7 @@ Range. Colombia.
 Diphlogena (Helianthea) traviesi,, Muls* <§* Verr. Ann. Soc. Linn. 
 Lyon, 1866, n. 199. 
 Eudosia traviesi, Muls. Hist. Nat. Ois.-Mouches, iii. p. 2, pi. G6; id. 
-Ann. Soc. Linn. Lyon, xxii. p. 216; Berl. J.f. Orn. 1887, p. 323. 
+Ann. Soc. Linn. Lyon, xxii. p. 216; Berl. J.f.O.n. 1887, p. 323. 
 Boureieria traviesi, Elliot, Syn. Troch. p. 77*. Sharpe in Gould's 
 Suppl. Troch. pi. 21 (Mar. 1887). 
 Adult male. Upper surface dark shining grass-green ; npper tail-
@@ -11554,7 +11554,7 @@ shining green boliviana, p. 136.
 Trochilus prunellii, Bovrc. <J- Mtth. Ann. So. Phys. et JS7at. Lyon. vi. 
 p. SO (ib43) ; Gray, Hand-l B. i. p. 130. 
 Bourcieria prunellii, Bp. Consp. i. p. 73; id. Bev. Zool. 1854, p. 252; 
-Elliot, Syn. TrocL p. 78; Berl J.f. Orn. 1887, p. 324. 
+Elliot, Syn. TrocL p. 78; Berl J.f.O.n. 1887, p. 324. 
 Bourcieria torquata, Belch. Track. Enum. p. 7, pi. 750. if. 4721-22. 
 Cosligena prunellii, Gould, Mon. Track, iv. pi. 257 (Sept. 1857). 
 Homophaina prunellii, Cab. fy Heme, Mus. Hein. iii. p. 79. 
@@ -11595,7 +11595,7 @@ Purchased.
 
 2. Lampropygia assimilis. 
 Lampropygia ?, Elliot, Ibis, 1876, p. 58. 
-Bourcieria assimilis, Elliot, Syn. Troch. p. 78; JBerl J.f. Orn. 1884, 
+Bourcieria assimilis, Elliot, Syn. Troch. p. 78; JBerl J.f.O.n. 1884, 
 
 
 p. 310,1887, p. 824; id. Zeiischr. yes. Orn. iv. p. 120, pL 3. f. 2. 
@@ -11847,7 +11847,7 @@ Ibis, 1871, p. 377; Scl. $ Salv. P. Z. S. 1875, p. 235; Elliot, Ibis,
 1876, p. 10; Muls. Hist. Nat. Ois.-Mouches, iii. p. 268, iv. p. 220; 
 id. Ann. Soc. Linn. Lyon, xxii. p. 224. 
 
-Lesbia kingi, Heine, J.f. Orn. 1863, p. 212. 
+Lesbia kingi, Heine, J.f.O.n. 1863, p. 212. 
 
 * 
 The following species is unknown to me:— 
@@ -11868,7 +11868,7 @@ Paucal, Peru (Raymondi)." (Tacz. Orn. Per. i. p. 334.)
 138 TROCHILI. 
 
 Lesbia niargaretha3, Heine, J.f Oni. 1863, p. 213. 
-Lesbia cyanurus, Heine, J.f. Orn. 1803, p. 213. 
+Lesbia cyanurus, Heine, J.f.O.n. 1803, p. 213. 
 Mellisuga &alvadorii, Beav. Ann. Mus. Zool. Floy. 1865, p. 204, 
 Cynanthns gorge, Muls. fy Terr. Class. Track, p. 83. 
 Cyanole&bia cyanura gorgo, Berl, J.f Orn. 1887, p. 326. 
@@ -11976,7 +11976,7 @@ ccelestis, Gould, Intr. Troch. p. 102; Muls. § Verr.
 Class. Troch. p. 83; Muls. Hist Nat. Ois.-Mouches, iii. p. 96. 
 Cynanthus cvanurus, Scl. P. Z, S. 1889, pp. 70, 95; Gould, P. Z. S. 
 "1870, p. 803. 
-Lesbia ccelestis, Scl. Cat. Am. P. p. 301; Seine, J.f. Orn. 18G3, 
+Lesbia ccelestis, Scl. Cat. Am. P. p. 301; Seine, J.f.O.n. 18G3, 
 
 p. 212. 
 Trochilus ccelestis, Gray, Hand~l. B. i. p. 143. 
@@ -12023,7 +12023,7 @@ Whitely, P. Z. S. 1878, p. 188; Sol $> Sate. P. Z. S. 1879, pp. 529,
 Linn. Lyon, xxii. p. 224; Elliot, 8yn. Troch. p. 152; Tacz. % 
 Berl. P. Z. S. 1885, p. 103. 
 Lesbia mocoa, Reich. Avfz. d. Col p. 8; id. Troch. Enum. p. 5, 
-pi. 717. £4620-7; Bp. Rev. Zool 1854, p. 252; Seine, J.f. Orn. 
+pi. 717. £4620-7; Bp. Rev. Zool 1854, p. 252; Seine, J.f.O.n. 
 1863, p. 212. 
 
 Cynanthus smaragdicauda, Gould, Mon. Troch. iii. pi. 173 (3Xay 
@@ -12188,7 +12188,7 @@ Sappho, Reich. Syst. Av. pi. 40 (1849) S. sparganura.
 Sparganura, Cab. fy Heine, 3Ius. Hein. iii. p. 62 
 
 (1860) , S. sparganura. 
-Polyonymus, Heine, J.f. Orn. 1863, p. 206 S. carol! 
+Polyonymus, Heine, J.f.O.n. 1863, p. 206 S. carol! 
 Leobia, Mais. Hist. Nat Ols.-Mouches, iii. p. 298 .. S. caroli. 
 
 Range. Andes of Central Peru; Bolivia and Chili; Argentine 
@@ -12348,7 +12348,7 @@ Coinetes caroli, Gould, Mori. Troch. iii. pi. 177 (July 1861) ; id. Intr.
 
 Troch. p. 104 * Muls. Ann. Soc. Linn. Lyony xxii. p. 225. 
 
-Polvonvmus caroli, Seine, J.f. Orn. 1863. p. 206; Nation, P. Z. 8. 
+Polvonvmus caroli, Seine, J.f.O.n. 1863. p. 206; Nation, P. Z. 8. 
 
 1881, p. 487. 
 
@@ -12464,7 +12464,7 @@ Muls. 8r Verr. Class. Troch. p. 83.
 
 Psalidoprymna victorise, Cab. $ Heine, Mus. Hein. iii. p. 52; Berl. 
 
-J.f. Orn. 1887, p. 328. 
+J.f.O.n. 1887, p. 328. 
 Lesbia gouldi amaryllis, Berl. df Tacz. P. Z. S. 1884, p. 305. 
 Adult male. Upper and under surfaces shining golden gTeen 
 (rather dull); throat glittering grass-green, drawn to a point on the 
@@ -12528,7 +12528,7 @@ Troch. p. 83; Muk. J&ist Nat. Ois.-Mouches, iii. p. 289 ; id. Ann.
 Soc. Linn. Lyon, xxii p. 2*25; Elliot, Syn. Troch. p. 147. 
 
 Cynanthus eucharis, Bp. Rev. Zool. 1854, p. 252. 
-Psalidoprymoa eucharis, Berl. J.f. Orn. 1887, p. 328. 
+Psalidoprymoa eucharis, Berl. J.f.O.n. 1887, p. 328. 
 
 
 Adult male. Similar to that of L. victories but smaller, and with a 
@@ -12585,7 +12585,7 @@ P.Z.S. 1874, p. 675; Muls. Hist. Nat. Ois.-Mouclm, in. p. 291,
 pL 98 ; id. Ann. Soc. Linn. Lyon, xxii. p. 225; Elliot, Ibis, 1877, 
 p. 137; id. Syn. Troeh. p. 147 ; Sal § Sate. P. Z. & 1879, p. 028. 
 Psalidoprymna bifurcata, Cab.fy Heine, Mus. Hein. iii. p. 53. 
-Agaclyta nuna, Heine, J.f. Orn. 1863, p. 211. 
+Agaclyta nuna, Heine, J.f.O.n. 1863, p. 211. 
 Adult male. Very similar to that of L. eucharis, but with the 
 glittering green of the throat more restricted and rounded at its 
 lower edge, instead of produced towards the breast; the lateral 
@@ -12653,7 +12653,7 @@ Agaclyta gouldi, Cad.ty Heine, Mus. Hem. iii. p. 70.
 Agaclyta gracilis, Cab.fy Heine, Mus. Hem. iii. p. 71. 
 Lesbia svlphia, Muls. § Verr. Class. Troch. p. 83. 
 Lesbia chlorura, Gould, P. Z. 8. 1871, p. 504. 
-Psalidoprymna gouldi, Berl. J.f. Orn. 1887, p. 328. 
+Psalidoprymna gouldi, Berl. J.f.O.n. 1887, p. 328. 
 
 
 Adult male. Similar to those of L. eucJiaris and L. nuna, but 
@@ -12795,7 +12795,7 @@ Bolivia (Bridges).
 /, g. <S ad. sk. Bolivia. Bridges [0.]. 
 2. Metallura jelskii. 
 
-Metallura jelskii, Cab. J.f. Orn. 1874, p. 99 ; Muls, Hist. Nat. Ois.-
+Metallura jelskii, Cab. J.f.O.n. 1874, p. 99 ; Muls, Hist. Nat. Ois.-
 Mouches, iii. p. 109, pi. 79; Elliot, Syn. Track p. 164 5 Tacz. Orn. 
 Fir. i. p. 354. 
 Metallura cupreicauda, Tacz. P. Z. S. 1874, p. 544. 
@@ -12915,7 +12915,7 @@ Metallura tbyrianthina ?, cPMamonv. Bull Soc. Zool. Fr. xi. p. 311
 Metallura quitensis, Gould, Intr. Tronh. p. 112; Lawr. Ann. Lye. 
 
 N. Y. ix. p. 237 ; Mills. Rist. Nat. Ois.-Mouclies, iii. p. 115. 
-Urolampra quitensis, Heim, J.f. Orn. 1863, p. 210. 
+Urolampra quitensis, Heim, J.f.O.n. 1863, p. 210. 
 Adelomya tyrianthina, Muk. § Verr. Class, Trock. p, 70. 
 Adult male, Upper and under surfaces dark shining grass-green ; 
 throat black, with a large spot of glittering green extending to the 
@@ -13085,7 +13085,7 @@ Hah. Southern Colombia (Popayan).
 a. $ ad.• b. <$ juv.; Popayan, Colombia. Gould Coll. 
 c. § ad. sk. 
 9. Metallura eupogon. 
-Metallura eupogon, Cab. J.f. Orn. 1874, p. 97; Elliot, Syn. Troch. 
+Metallura eupogon, Cab. J.f.O.n. 1874, p. 97; Elliot, Syn. Troch. 
 p. 164. 
 Metallura hedvig*e, Tacz. P. Z. S. 1874, p. 139 (pub. 1 June, 1874), 
 p. 544; id. Orn. Pir. i. p. 352; Muls. Hist. Nat. Ois.-Mouches, 
@@ -13287,7 +13287,7 @@ Panterpe, Cab. 4* Seine, Mus. LLein. iii. p. 48 (1860) P. inslgnis.
 Range. Costa Pica and Western Panama. 
 
 1. Panterpe insignis. 
-Panterpe insignis, Cab.fy Seine, Mm. J&ein. iii. p. 48; Cab. J.f. Orn. 
+Panterpe insignis, Cab.fy Seine, Mm. J&ein. iii. p. 48; Cab. J.f.O.n. 
 1862, p. 164; Gould, Mon. Troeh. v. pi. 336 (May 1861); id. Intr. 
 Troch, p. 167; Lawr. Ann. Lye. N. Y. via. p. 45 (partim), ix. 
 
@@ -13391,7 +13391,7 @@ p. 182; Cab. # Heine, Mus. Hem. iii. p. 75; Scl Cat Am. B. p. 308 ;
 Wyatt, Ibi% 1871, p. 378; Mute. Hist. Nat. Ois.-Mouches, iii. p. 84, 
 iv.'p. 218; id. A?m. Soc.Linn. Lyon, xxii. p. 219; ElliotL, Syn. Trooh. 
 
-p. 89; Berl J.f. Orn. 1884, p. 310, 1887, p. 322. 
+p. 89; Berl J.f.O.n. 1884, p. 310, 1887, p. 322. 
 Trocliilus j8. Anactoria clarissse, ife&A. ^M/S. <#. Col p. 12; ztf. Trooh. 
 JBmim. pi. 830. ff. 4953-55. 
 Trocliilus /3. Anactoria libussa, Meieh. Aufs. d. Col. p. 12. 
@@ -14036,7 +14036,7 @@ pi. 720. ff. 4636-7.
 Adelomyia sabinse, Bp. Rev. Zool. 1854, p. 253. 
 Adelisca melanogenys, Cab. <§* Heine, Mus. Hein. iii. p. 72; 
 
-Heine, J.f. Orn. 1863, p. 214. 
+Heine, J.f.O.n. 1863, p. 214. 
 
 170 
 TROCHI1I. 
@@ -14047,7 +14047,7 @@ Mids. $ Terr. Class. Troch. p. 71; Muls. Hist. Nat. Ois.-Mouches,
 
 iii. p. 131; id. Ann. Soe. Linn. Lyon, xxii. p. 220; Elliot, Syn. 
 Troch. p. 182; Tacz. P. Z. 8. 1879, p. 238, 1880, p. 207; id. Orn. 
-Per. i. j. 361; Berl. J.f. Orn. 1884, p. 311, 1887, p. 325. 
+Per. i. j. 361; Berl. J.f.O.n. 1884, p. 311, 1887, p. 325. 
 Adelomyia maculata, 
 Gould, Mon. Troch. iii. pi. 199 (Sept. 1861); 
 id. Intr. Troch. p. 113; Muls. Sf Verr. Class. Troch. p. 71; Gould, 
@@ -14389,11 +14389,11 @@ p. 129; Elliot, Ibis, 1877, p. 142.
 Polytmus thaumantias, Cab.fy Heine, Mus. Hem. iii. p. 5; Scl Cat. 
 Am. B. p. 307; Pelz. Orn. Bras. p. 28; Reinh. Vidensh. Medd. 
 Nat. For. Kjob. 1870, p. 106; Elliot, Syn. Troch. p. 214; Salv. 
-Cat. Strichl. Coll p. 366; Berl. J.f. Orn. 1887, p. 317. 
+Cat. Strichl. Coll p. 366; Berl. J.f.O.n. 1887, p. 317. 
 
 Polytmus leucocHorus, Heme, J. f. Orn. 1863, p. 176. 
 Chlorestes thaurnantias, Muls. <$r Verr. Class. Troch. p. 32. 
-Polytmus thaumantias virescens, Berl. J.f. Orn. 1887, p. 317. 
+Polytmus thaumantias virescens, Berl. J.f.O.n. 1887, p. 317. 
 
 Adult male. Upper surface golden green, upper tail-coverts 
 rather "brighter, crown duller; under surface glittering yellowish 
@@ -14611,8 +14611,8 @@ Scl. $* Huds. Arg. Orn. ii. p. 7.
 
 Agyrtria albicollis, Cab. fy Heine, Mus. Hein. iii. p. 32; Heine, 
 
-J.f. Orn. 1863, p. 183; Reinh. Vidensk Medd. Nat. For.Kjob. 1S70, 
-p. 112; Pelz. Orn. Bras. p. 29; Berl J.f. Orn. 1873, p. 270. 
+J.f.O.n. 1863, p. 183; Reinh. Vidensk Medd. Nat. For.Kjob. 1S70, 
+p. 112; Pelz. Orn. Bras. p. 29; Berl J.f.O.n. 1873, p. 270. 
 Adult male. Upper surface, chin, chest, and Hanks shining grass-
 green ; throat, middle of the abdomen, and under tail-coverts pure 
 white; central rectrices rather darker than the back, lateral steel-
@@ -14923,7 +14923,7 @@ p. 255; Gould, Mon. Troch. v. pi. 296 (Sept: 1859): id. Intr.
 Troch. p. 152 ; Elliot, Ibis, 1878, p. 42. 
 Agyrtria milleri, Reich. Avfz. d. Col. p. 10; id. Troch. Enum. p. 7, 
 pi. 759. if. 4752-3; Cab. % Heine, Mus. Hein. iii. p. 33; ScL Cat. 
-Am. B. p. 313; Seine, J.f. Orn. 1863, p. 185; Peh. Orn. Bras. 
+Am. B. p. 313; Seine, J.f.O.n. 1863, p. 185; Peh. Orn. Bras. 
 
 p. 
 29; ScL § Salv. P. Z. S. 1867, p. 584; Elliot, Syn. Troch. 
@@ -14954,7 +14954,7 @@ Soc. Linn. Lyon, xxiL p. 204; Elliot, Syn. Troch. 1878, p. 52.
 
 Leucochlorls caeruleiceps, Muls. fy Verr. Class. Troch. p. 31. 
 
-Agyrtria cseruleiceps, Heine^ J.f. Orn. 1863, p. 185; Elliot, Syn. 
+Agyrtria cseruleiceps, Heine^ J.f.O.n. 1863, p. 185; Elliot, Syn. 
 Troch. p. 206; Sharpe, in Gould's Mon. Troch, Suppl. (Mar. 
 1885); Berl J.f. 0m. 1887, p. 330. 
 
@@ -15080,7 +15080,7 @@ Hylocharis versicolor, Gray, Gen. B. i. p. 115; Bp. Consp. Av. i.
 p. 74. 
 Agyrtria brevirostris, Reich. Aufz. d. Col. p. 10; id. Troch. Enum. 
 p. 7, pi. 759. f. 4749; Cab. fy Seine, Mus. Hein. iii. p. 34; Scl. 
-Cat. Am. B. p. 313; Heine, J.f. Orn. 1863, p. 185; Pels. Orn. 
+Cat. Am. B. p. 313; Heine, J.f.O.n. 1863, p. 185; Pels. Orn. 
 Bras. p. 29 ,* Berl J. f. Orn. 1873, p. 276; Elliot. Syn. Troch. 
 p. 204. 
 Agyrtria versicolor, Reich. Aufz. d. Col. p. 10; id. Troch. Emm. 
@@ -15202,7 +15202,7 @@ p. 205.
 Thaumatias viridissimus, Burm. Syst. Ueb. ii. p. 344 ? 
 Agyrtria malvinse, Cab. $ Heine, Mus. Hein. iii. p. 33: Seine, J. f. 
 Ora. 1863, p. 188. 
-Agyrtria terpna, Heine, J.f. Orn. 1863. 
+Agyrtria terpna, Heine, J.f.O.n. 1863. 
 Leucoehloris linnsei, Muls. fy Verr. Class. Troch. p. 32. 
 Polytmus linnseij Gray, Hand-l. B. i. p. 128. 
 Thaumatias tobaci, Elliot, Ibis, 1878, p. 49; Elliot, Syn. Troch. 
@@ -15214,7 +15214,7 @@ Agvrtria maculata, Cab. fy Heine, Mus. Hein. iii. p. 33; Scl. Cat.
 Am. B. p. 313; Heine, J.f Orn. 1863, p. 184; Pelz. Orn. Bras. 
 
 p. 29 ; Scl. $ Salv. P. Z. S. 1867, p. 554. 
-Agyrtria viridissima terpna, BerL J.f. Orn. 1887, p. 330. 
+Agyrtria viridissima terpna, BerL J.f.O.n. 1887, p. 330. 
 Adult male. Upper surface dark shining bronzy green, darker on 
 the head; throat and breast glittering grass-green; middle of the 
 abdomen "white ; flanks shining green; under tail-coverts grey, 
@@ -15370,12 +15370,12 @@ Whitely).
 Thaumatias apicalis, Gould, Intr. Troch. p. 154; Muls. Hist. Nat 
 Ois.-Mouches, i. p. 252; id. Ann. Soc. Linn. Lyon, xxii. p. 205 j 
 Elliot, Ibis, 1878, p. 51; Eudes-JDesl. Ann. Mus. Caen, i. p. 386 j 
-Berl J.fi Orn. 1887, p. 331. 
+Berl J.f.O.n. 1887, p. 331. 
 
-Agyrtria apicalis, Seine, J.f. Orn. 1863, p. 184; Elliot, Syn. Troch. 
+Agyrtria apicalis, Seine, J.f.O.n. 1863, p. 184; Elliot, Syn. Troch. 
 
 p. 207; Sharpe in Gould's Mon. Troch. Suppl. (Mar. 1885). 
-Agyrtria terpna, Heine, J.f. Orn. 1863, p. 184; Muls. Hist. Nat. 
+Agyrtria terpna, Heine, J.f.O.n. 1863, p. 184; Muls. Hist. Nat. 
 Ois.-Mouches, i. p. 253. 
 Leucochloris apicalis, Muls. 8f Terr. Class. Troch. p. 32. 
 
@@ -15420,7 +15420,7 @@ Mus. no. 4, p. 33; Elliot, Ibis, 1878, p. 43.
 Agyrtria magaritacea, Reich. Troch. Ennm. p. 7, pL 758. f. 4748. 
 Agyrtria Candida, Cab. $* Heine, Miis. Hein. iii. p. 33; Heine, 
 
-J.f. Orn. 1863, p. 183; Elliot, Syn. Troch. p. 203. 
+J.f.O.n. 1863, p. 183; Elliot, Syn. Troch. p. 203. 
 Leucolia 
 Candida, Muls. #• Verr. Class. Troch. p. 31; Muh. Hist. 
 Nat. Ois.-Mouches, i. p. 233, pi. 21, iv. p. 174 ; id. Ann. tioe. Linn. 
@@ -15581,7 +15581,7 @@ Gould Colls.
 21. Agyrtria compsa. 
 Agyrtria mellisuga, Cab. 4* Heine, Mus. Hein. iii. p. 34; Pelz* Orn. 
 Bras. pp. 29, 37. 
-Agyrtria compsa, Heine, J.f. Orn. 1863, p. 185; Elliot, St/n. Troeh. 
+Agyrtria compsa, Heine, J.f.O.n. 1863, p. 185; Elliot, St/n. Troeh. 
 
 p. 204. 
 Thaumatias compsa, Muh. Hist. Nat Ois.-Mouches, iii. p. 256; id. 
@@ -16272,7 +16272,7 @@ Pyrrhopheena, Cab. |-Heine, Mns. Rein. iii. p. 35. A. pristina.
 Hemithylaca, Cab.fy Heine, Mus. Hein. iii. p. 37. A. niveiventris. 
 Hexnistilbon, Gould, Intr. Troch. p. 149 A. ocai. 
 Eranna, Heine, J.f Orn. 1863, p. 187 A. cinnamomea. 
-Eratina, Heine, J.f. Orn. 1803, p. 190 A. ioclura. 
+Eratina, Heine, J.f.O.n. 1803, p. 190 A. ioclura. 
 Ariana, Mnls. fy Terr. Class. Troch. p. 3G A. niveiventris. 
 Myletes, Muh. Hist. Nat. 0is.-3fouches, i. p. 284. A. yucatanensis. 
 Saucerottia, Bp. Compt. Rend. xxx. p. 381 (1850). A. erythronota. 
@@ -16430,7 +16430,7 @@ p. 498; Tacz. P. Z. S. 1874, p. 543; id. Orn. Per. i. p. 406;
 Elliot, Syn. Troch. p. 217; Salv. P. Z. S. 1883, p. 425. 
 Pyrrliophsena amazilia, Cah.fy Seine, Mus. Hem. iii. p. 35 ; Seine. 
 
-J.f. Orn. 1863, p. 186. 
+J.f.O.n. 1863, p. 186. 
 Amazilia lessoni, Muls. fy Verr. Class. Troch. p. 35; Muls. Sist. Nat 
 Ois.-Mouches, iv. p. 181: id. Ann. Soc. Linn. Lyon, xxii. p. 206, 
 Amazilis amazili, Eudes-Desl. Ami. Mus. Caen, i. p. 395. 
@@ -16469,7 +16469,7 @@ Amazilia amazilicula, Reich. Aufz. d. Col. p. 10; id. Trock Enum*
 
 p. 8, pi. 777. if. 4805-6. 
 Pyrrhophaena leucophaea, Cab. $* Seine, Mus. Sein. iii. p. 35; Seine, 
-J.f. Orn. 1863, p. 186. 
+J.f.O.n. 1863, p. 186. 
 Amazilis leucophgea, Eudes-Desl. Ann. Mus. Caen, i. p. 399. 
 Similar to A. pristina, but rather smaller; the white spot on the 
 breast is larger, and the green feathers of the throat more restricted; 
@@ -16490,7 +16490,7 @@ pi. 304 (Sept. 1861); ul. Intr. Troch. p. 156; JIuls. & Verr. Class.
 Troch. p. 35; Muls. Hist. Nat. Ois.-Movche-, i. p. 2^9 : id. Ann. 
 Soc. Linn. Lyon, xxii. p. 206; EViot, Syn. Troch. p. 218. 
 
-Pyrrhoplisena alticola, Ileine, J.f. Or a. 18C3, p. 1^7. 
+Pyrrhoplisena alticola, Ileine, J.f.O. a. 18C3, p. 1^7. 
 
 Amazilis alticola, Eudes-Desl. Ann. MILS. Caen, i. p. 390. 
 
@@ -16796,7 +16796,7 @@ Hob. Tres Marias Islands, Western Mexico.
 a,h. S 2 ad.sk. Tres Marias Is., Mar. (Forrer). Salvin-Godman Coll. 
 
 7. Amazilia beryllina. 
-Trochilus beryllinus, Licht. Preis-Verz. Mex.^ Vdg. p. 1 (cf. J.f. Orn. 
+Trochilus beryllinus, Licht. Preis-Verz. Mex.^ Vdg. p. 1 (cf. J.f.O.n. 
 
 1863, p. 55). 
 
@@ -16835,7 +16835,7 @@ id. Intr. Troch. p. 159; Scl. Cat Am. B. p. 314; id. P. Z. S. 1864,
 p. 177 ; A. Duges, La Nat i. p. 141; Villada, La Nat ii. p. 364; 
 de Oca, La Nat. iii. p. 23; Elliot, Syn. Troch. p. 221• Ridgw. Man. 
 N. Am. B. p. 317. 
-Eranna beryllina, Heine, J.f. Orn. 1863, p. 188. 
+Eranna beryllina, Heine, J.f.O.n. 1863, p. 188. 
 Polytnms beryllinus, Gray, Hand-l. B. i. p. 132. 
 Amazilis beryllinus, Eudes-Desl Ann. Mus. Caen, i. p. 410. 
 Amazilia marise, Ferrari-Perez, Pr. TJ. S. Nat. Mus. ix. p. 158. 
@@ -16958,7 +16958,7 @@ Amazilia dumerili, Salv. Ibis, 1860, pp. 263, 270.
 Pjrrhophsena devillii, Salv. Ibis, 1866, p. 204; Lawr. Ann. Lye. 
 N. T. no. 4, p. 33; Muls. Hist Nat Ois.-Mouches, i. p. 305, 
 pi. 27 j id. Ann. Soc. Linn. Lyon, xxii. p. 206. 
-Eramia devillii, Heine, J.f. Orn. 1863, p. 188. 
+Eramia devillii, Heine, J.f.O.n. 1863, p. 188. 
 Amazilia marise, Elliot, Syn. Troch. p. 222 ; Ridgw. Man. N. Am. B. 
 
 p. 317. 
@@ -17004,9 +17004,9 @@ v. pi. 310 (Sept. 18G1); Muls. fy Verr. Class. Troeh. p. 35.
 Pyrrhopkasna castaneiventris, Gould, Intr. Troth, p. 157 ; Muls. 
 Hist. JSTat. Ois.-Mouches, i. p. 300, iv. p. 182; id. Ann. Sue. Linn, 
 Lyon, xxii. p. 206 j tPHamonv. Mull Soc. ZooL Fr. xi, p. 314; 
-Berl. J.f. Orn. 1887, p. 331. 
+Berl. J.f.O.n. 1887, p. 331. 
 
-Eranna castaneiventris, Heine, J.f. Orn. 1863, p. 187. 
+Eranna castaneiventris, Heine, J.f.O.n. 1863, p. 187. 
 Amazilis castaneiventris, JEudes-Desl. Ann, Mus. Caen, i. p. 409. 
 
 
@@ -17035,7 +17035,7 @@ Pyrrhopkaena cyanura, Gould, Intr. Troeh. p, 160; Salr. litis, 1866?
 
 p. 195; Muls. Hist Nat. Ois.-Mouches, i p. 307; id. Ann, Soc. 
 Linn. Lyon, xxii. p. 206. 
-Eratina cyanura, Heine, J.f. Orn. 1863, p. 191. 
+Eratina cyanura, Heine, J.f.O.n. 1863, p. 191. 
 Ariana cyanura, Muls. § Verr. Class. Troeh. p. 36. 
 Polytmus cyanurus, Gray, Hand-h B. L p. 132. 
 Saucerottia cyanura, Fudes-Desl Ann. Mus. Caen, i. p. 417. 
@@ -17134,7 +17134,7 @@ Ridgw. Pr. US. Nat Mus. iv. p. 25; id. Man. N. Am. B. p. 317
 Boucard, P. Z. S. 1883, p. 451. 
 
 Pyrrhophsena yueatanensis, Gould, Inir. Troch. p. 157. 
-Eranna yucatanensis, Heine, J.f. Orn. 1863, p. 187. 
+Eranna yucatanensis, Heine, J.f.O.n. 1863, p. 187. 
 Pyrrhophsena cen miventris, Salv. Ibis, 18(56, p. 105 (nee Gould), 
 AJoiazilis yueatanensis-, Eudes-Ded. Ann. Mies. Caen, i. p. 402. 
 
@@ -17294,7 +17294,7 @@ Scl. P. Z.SISm, pp. 94, 253,290 ;id. Cat.Am.B.ip.3U: Salv. Ibis,
 1860, pp. 195, 270,1872, p. 320; id. P. Z. 8. 1867, p. 15b; ld70, 
 p. 210 j id. Cat. Strickl. Coll. p. 309; Later. Ann. Life. X. Y. vii. 
 p. 292; Muls. $ Verr. Class. Troch. p. 35; Wyatt, Ibis, 1871, 
-p. 378; Merrill, Bull. Xutt. Orn. Club, i. p. 88; Berl J.f. Orn. 
+p. 378; Merrill, Bull. Xutt. Orn. Club, i. p. 88; Berl J.f.O.n. 
 1884, p. 311. 
 Amazilia dubusi, Reich. Aufz. d. Col p. 10; id. Troch. Enum. p. 8, 
 pi. 778. ff. 4809-10. 
@@ -17310,13 +17310,13 @@ Intr. Troch. p. 158 ; Later. Ann. Lye. X. Y. viii p. 1&4, ix. p. 127 ;
 id. Bull. U.S. Xat. Mus. no. 4, p. 33; v. Frantz. J. f. Orn. ISm, 
 
 p. 317; Scl. 8r Salt). P. Z. S. 1870, p. 803; Boucard, P. Z. 8.1878, 
-p. 71; Berl J.f. Orn. 1887, p. 331. 
+p. 71; Berl J.f.O.n. 1887, p. 331. 
 Pyrrhophaena sauvis, Cab.fy Heine, Mus. Hem. iii. p. 38. 
 Eranna dubusi, Heine, J.f Orn. 1803, p. 188. 
 Hemithylaca aglaia% Cab. Sf Heine, Mus. Hein. iii. p. 38. 
-Eranna suavis, Heine, J.f. Orn. 1863, p. 188. 
-Eranna ju -uncla, Heine, J.f. Orn. 1863, p. 188. 
-Eranna riefferi, Heme, J.f. Orn. 1863, p. 188. 
+Eranna suavis, Heine, J.f.O.n. 1863, p. 188. 
+Eranna ju -uncla, Heine, J.f.O.n. 1863, p. 188. 
+Eranna riefferi, Heme, J.f.O.n. 1863, p. 188. 
 55 . AMAZILIA. 217 
 Ariana riefferi, Muls. Hist Nat. Ois.-Mouches, i. p. 310, iv. p. 184; id. 
 Ami. Soc. Linn. Lyon, xxii. p. 206. 
@@ -17613,7 +17613,7 @@ Pyrrkophsena viridigaster, Gould, Intr. Troch. p. 159.
 Amazilia viridiventris, Scl. Cat Am. B. p. 315 : Wyatt Ibis, 1871, 
 
 p. 378; Elliot, Syn. Troch. p. 220. 
-Eratina viridiventris, Heine, J.f. Orn. 1863, p. 191. 
+Eratina viridiventris, Heine, J.f.O.n. 1863, p. 191. 
 Ariana viridigaster, Mitls. § Verr. Class. Troch. p. 36; Mids. Hist. 
 Nat. Oi$.-Mouches, i. p. 320, iv. p. 185; id. Ann. Soc. Linn. Lyon, 
 
@@ -17653,9 +17653,9 @@ TEOCHILI.
 
 Ois.-Mouches, i. p. 299; id. Ann. Soc. Linn. Lyon, xxii. p. 206; 
 
-Berl.J.f. Orn. 1887, p. 332. 
+Berl.J.f.O.n. 1887, p. 332. 
 
-Eratina iodura, Heme, J.f. Orn. 1883, p. 190. 
+Eratina iodura, Heme, J.f.O.n. 1883, p. 190. 
 
 Amazilia iodura, Elliot, Syn. Troch. p. 223; Sharpe in Gould's Mon. 
 
@@ -17678,7 +17678,7 @@ Amazilia lucida, Elliot, Ann. fy Mag. N. H. 1877, xx. p. 404 ,* id. Syn.
 Troch. p. 2^3; Muls. Hist. Xat. Ois.-Mouches, iv. p. 1&3 • Sharpe 
 in Gould's Mon. Troch. Suppl (March 1887> 
 
-Pvrrhophsena lucida, JBerl J.f. Orn. 1887, p. 332. 
+Pvrrhophsena lucida, JBerl J.f.O.n. 1887, p. 332. 
 Amazilis lucidus, Eudes-Besl Ann. Mus. Caen, L p. 40b. 
 
 
@@ -17742,7 +17742,7 @@ Chlorestes edwardsii, Reich. Troch. Emm. p. 4, pi. 698.ff. 4558-9.
 Erythronota edwardi, Gould. Mori. Troch. v. pi, 318 (May 1858) ; id. 
 Intr. Troch. p. 161; Lawr. Ann. Lye. N. Y. vii. p. 292, ix. p. 127. 
 Hemithylaca edwardi, Cab.fy Heine, Mus. Hein. iii. p. 37. 
-Eratina edwardi, Seine, J.f. Orn. 1863, p. 191. 
+Eratina edwardi, Seine, J.f.O.n. 1863, p. 191. 
 Saucerottia edwardi, Scl. fy Salv. P. Z. S. 1864, p. 365; Eude$~Desl. 
 
 Ann. Mus. Caen, i. p. 427. 
@@ -17790,7 +17790,7 @@ Erythronota niveiventris, Gould, Mon. Troch. v. pi. 319 (May 1858);
 id. Intr. Troch. p. 161; Salv. P. Z. S. 1867, p. 155,1870, p. 210. 
 Hemithylaca niveiventris, Cab. $ Seine, Mus. Hein. iii p. 37; Heine, 
 
-J.f. Orn. 1863, p. 192. 
+J.f.O.n. 1863, p. 192. 
 Saucerottia niveiventris, Scl # Salv. P. Z. S. 1864, p. 365; Eudes-
 DesL Ann. Mus. Caen, i. p. 429. 
 Ariana niveiventris, Mills. § Verr. Class. Troch. p. 36. 
@@ -17898,7 +17898,7 @@ p. 530.
 Chlorestes y. Saucerottia typica, Reich. Aufz. d. Col. p. 7. 
 Chlorestes typica, Reich. Troch. Enum. p. 4, pi. 701. 8. 4569-70. 
 Hemithylaca saucerottii, Cab. § Heine, Mus. Hein. iii. p. 38 ; Heine, 
-J.f. Orn. 1863, p. 192. 
+J.f.O.n. 1863, p. 192. 
 Erythronota typica, Gould, Hon. Troch. v. pi. 321 (Sept. 1861). 
 Ariana saucerottii, Muls. fy Verr. Class. Troch. p. 36; Muls. Hist, 
 Nat. Ois.-Mouches, i. p. 331, iv. p. 185; id. Ann. Soc. Linn. Lyon, 
@@ -17944,7 +17944,7 @@ Erythronota sopkias, Gould, Mon. Troch. v. pi. 322 (July ItGlj.
 Hemithylaca sophiae, Cab. ty Heine, Mus. Hein. iii. pi 38 ; Heine, 
 J.f Orn. 1863, p. 192. 
 Hemithylaca hoffmanni, Cab. <$* Heine, Mus. Hein. iii. p. 38• Cab. 
-J.f. Orn. 1802, p. 163. 
+J.f.O.n. 1802, p. 163. 
 Ariana sophise, Muls. 8f Verr. Class. Troch. p. 36• Muls. Hist. Xat. 
 Ois.-Monches, i. p. 328, pi. 23, iv. p. 185; id. Ann. Soc. Linn. 
 Lyon, xxii. p. 207. 
@@ -18015,7 +18015,7 @@ intr. Troch. p. 160; E. C. Taylor, Ibis, 18(53, p. 92.
 
 Hemithylaca erythronota, Cab. c} Heine, Mm. Hein. iii. p. 37: 
 
-Heine, J.f. Orn. 1863, p. 192 ; Finsch, P. Z. S. 1870, p. 562. 
+Heine, J.f.O.n. 1863, p. 192 ; Finsch, P. Z. S. 1870, p. 562. 
 
 Ariana erythronota, Mute. 8? Verr. Class. Troch. p. 36; Muls. Hist. 
 
@@ -18166,7 +18166,7 @@ Erythronota elegans, Gould, Mon. Track, v. pi. 320 (Sept. 1881) ;
 
 id. Intr. Troch. p. 162. 
 
-Erasinia elegans, Jffeine, J.f. Orn. 1863, p. 191. 
+Erasinia elegans, Jffeine, J.f.O.n. 1863, p. 191. 
 
 Arania elegans, Muls. fy Verr. Class. Troch. p. 36, 
 
@@ -18206,7 +18206,7 @@ Chlorestes cyanifrons, Reich. Troch. Enum. p. 4, pi. 701. fr. 4571-2.
 Hemithylaca cyanifrons, Cab. # Seine, Mus. Sein. iii. p. 39 * Gould, 
 
 Intr. Troch. p. 163. 
-Eratopis cyanifrons, Seine, J.f. Orn. 1863, p. 191. 
+Eratopis cyanifrons, Seine, J.f.O.n. 1863, p. 191. 
 Ariana cyanifrons, MuU. k Verr. Class. Troch. p. 36* Muls. Sist. 
 
 Nat Ois.-Mouches, i. p. 332, iv. p. 185 ; id. Ann. Soc. Linn. Lyon, 
@@ -18215,7 +18215,7 @@ xxii. p. 207.
 Poly turns cyanifrons, Gray, Sand-l. B. i. p. 131. 
 Aniazilia cyanifrons., Elliot, Syn. Troch. p. 225; Berl J. f. Orn. 
 1884, p. 312. 
-Pyrrophsena cyanifrons, Berl. J.f. Orn. 1887, p. 332. 
+Pyrrophsena cyanifrons, Berl. J.f.O.n. 1887, p. 332. 
 
 
 Adult male. Upper surface shining bronzy green, shading into 
@@ -18283,7 +18283,7 @@ Hein. iii. p. 54; B. C. Taylor, Ibis, 1863, p. 92; Pelz. Orn. Bras.
 p. 31; Lawr. Ann. Lye. N. Y. ix. p. 126; Finsch, P. Z. S. 1870, 
 p. 562; Scl. $ Salv. P. Z. S. 1867, pp. 753, 979, 1873, p. 288, 
 1879, p. 530; Mute. Ann. Soc. Linn. Lyon, xxii. p. 215; Elliot, 
-Lbis, 1877, p. 138; Tacz. P. Z. S. 1882, p. 38; BerL J.f. Orn. 
+Lbis, 1877, p. 138; Tacz. P. Z. S. 1882, p. 38; BerL J.f.O.n. 
 1887, p. 321. 
 Selasphoms y. Heliomaster longirostris, Reich. Aufz. d. Col. p. 13. 
 Ileliomastes longirostris, Bp, Rev. Zool. 1854, p. 251; Mills. Hist. 
@@ -18458,7 +18458,7 @@ id. Intr. Troch. p. 140; Scl. 8f Sato. Ibis, 1859, p. 129 ; Sato. Ibis,
 
 iii. p. 54 j Muls. $* Verr. Class. Troch. p. 26; Lawr. Ann. Lye. 
 N. Y. ix. p. 126 ; id. Bull. U.S. Nat Mus. no. 4, p. 32 ; v. Frantz. 
-J.f. Orn. 1869, p. 317; Muls. Ann. Soc. Linn. Lyon, xxii. p. 26. 
+J.f.O.n. 1869, p. 317; Muls. Ann. Soc. Linn. Lyon, xxii. p. 26. 
 Floricola constanti, Elliot, Syn. Troch. p. 84. 
 Adult nude. Upper surface, including the crown, shining bronzy 
 
@@ -18701,7 +18701,7 @@ n,o. $? ad.sk. ' Gould Colls.
 3. Cyanophaia luminosa. 
 Sapphironia luminosa, Later. Ami. Lye, N. Y. vii. p. 458. 
 
-Lepidopygia luminosa, Heine, J.f. Orn. 18(53, p. 194; Muls. Hist. 
+Lepidopygia luminosa, Heine, J.f.O.n. 18(53, p. 194; Muls. Hist. 
 
 Nat. Ois.-Mouches, ii. p. 87. 
 
@@ -18770,7 +18770,7 @@ Juliarnyia julise, Cass. Pr. Ac. Philad. 1860, p. 194; JEudes-Desl.
 Ann. Mus. Caen, i. p. 463. 
 Damophila julia, Cab. $* Heine, Mas. Hein. iii. p. 40: ScL Cat. Am. 
 
-B. p. 316; Heine, J.f. Orn. 1863, p. 194; Wyatt, Mis, 1»71, 
+B. p. 316; Heine, J.f.O.n. 1863, p. 194; Wyatt, Mis, 1»71, 
 p. 378 ; MuU. Hist. Nat. Ois.-Mouches, ii. p. 50, pi. 34, iv. p. 193; 
 id. Ann. Soc. Linn. Lyon, xxii. p. 208; BerL J. f. Orn. 1.^84, 
 p. 312, 1887, p. 333. 
@@ -18847,7 +18847,7 @@ c? ad.; k. Line of Railway, Panama Salvin-Godman & Gould
 ad. sk. Cnepo, Panama (Arce). Salvin-Godman Coll. 
 59. PQLYEEATA. 
 Type. 
-Polyerata, Heme, J.f. Orn. 1803, p. 194 P. amabilis. 
+Polyerata, Heme, J.f.O.n. 1803, p. 194 P. amabilis. 
 Coeligena /3. Bamophila, Reich. Aufz. d. Col. p. 7(partim). 
 Damophila, Gould, Mon. Troch. v. pi. 341 (1859); Elliot, 
 
@@ -19183,7 +19183,7 @@ Thaumatias cseruleus, Bp. Consp. Av. I. p. 78.
 Glilorestes cseralea, Eeich Aufz. d. Col. p. 7; id. Troch. Enum. 
 
 p. 4, pi. 69. ft. 4534-5; Cab. $ Seine, 3Ius. Hein. Hi. p. 46; 
-Heine, J.f. Oni. 1863, p. 196. 
+Heine, J.f.O.i. 1863, p. 196. 
 Hylockaris audeberti, Burm. 8ysi. Ueb. ii. p. 849. 
 Eueepkala eserulea, Gould, Mon. Troch. v. pi. 335 (Sept. 1857): id. 
 
@@ -19620,7 +19620,7 @@ p. 7, iv. p. 186; id. Ann. Soc. Linn. Lyon, xxii. p. 207; Elliot., fyn.
 Troch p. 169; Eudes-JDesl Ann. Mus. Caen, 1. p. 434. 
 Chrysurisca cenone. Cab. 8f Heine, Mus. Hein. iii. p. 42. 
 Hylocharis cenone, Muls. 4' Terr. Class. Troch. p. 38. 
-Chrysuronia cenone longirostris, Berl J.f. Orn. 1867, p. 333. 
+Chrysuronia cenone longirostris, Berl J.f.O.n. 1867, p. 333. 
 
 Adult male. Upper surface shining grass-green, becoming golden 
 
@@ -20715,7 +20715,7 @@ Hein. iii. p. 3; Muls. ty Verr. Class. Troch. p. 13; Gould, Ann.
 
 p. 27, pi. i. ; id. Ann. Soc. Linn. Lyon, xxii. p. 199 j Elliot, Syn. 
 Troch. p. 3 (partim); Eudes-Desl. Ann. Mus. Caen, i. p. 70 j BerL 
-J.f. Orn. 1887, p. 313. 
+J.f.O.n. 1887, p. 313. 
 Myietina aquila, Bp. Rev. Zool. 1854, p. 249. 
 Grypus aquila, Gray, Hand4. B. i. p. 123. 
 Upper surface dark shining green, darker on the crown, bluer on 
@@ -20861,7 +20861,7 @@ Gould Colls.
 65. THEENETES. Type 
 Threnetes, Gould, Mon. Troch. i. pi. 13 (Oct. 1852); id. 
 Intr. Troch. p. 40 T. leucums. 
-Dnophera, Heine, J.f. Orn. 1863, p. 175 T. antomse. 
+Dnophera, Heine, J.f.O.n. 1863, p. 175 T. antomse. 
 Range. Central America from Guatemala southwards; Colombia, 
 
 Ecuador, Amazons Valley, and Guiana. 
@@ -20930,7 +20930,7 @@ Threnetes
 leucurus, Gould, Men. Troch. I. pi. 13 (Oct. 1852); id. 
 Intr. Troch. p. 60; Reich. Aufz. d. CW.p. 15; Bp. Rev.Zool 1854 
 
-p. 249 ; Heine, J.f. Orn. 1863, p. 175 ; Sale. fy Elliot, Ibis, 1873, 
+p. 249 ; Heine, J.f.O.n. 1863, p. 175 ; Sale. fy Elliot, Ibis, 1873, 
 p. 277; Elliot, His, 1877, p. 142 ; Eudes-Besl. Ann. Mm. Caen, \. 
 p. 92; Boucard, The Humtrdng Bird, i. p. 17. 
 Polytmus leucurus, Gray, Hand-l. B. i. p. 120. 
@@ -20967,7 +20967,7 @@ Glaucis leucurus, Tar. cervinicauda, Muls. fy Verr. Class. Troch.
 
 p. 14; Muls. Ann. Soc. Linn. Lyon, xxii. p. 200. 
 Glaucis cervinicauda, Elliot, Syn. Troch p. 8: Tacz. Orn. Bir.i. 
-p. 260; Berl J.f. Orn. 1887, p. 314. 
+p. 260; Berl J.f.O.n. 1887, p. 314. 
 Polytmus cervinicauda, Gray, Band-l B. i. p. 127. 
 Adult. Yery similar to that of T. leucurus, but rather larger, the 
 
@@ -21088,7 +21088,7 @@ Ibis, 1873, p. 278 j Muls. Hist. Nat Ois.-Mouches, i. p. 46, pi. 4,
 
 iv. p. 136 j Eudes-Desl. Ann. Mus. Caen, i. p. 90. 
 Aphantochroa antonise, JReich. Aufz. d. Col. p. 15. 
-Dnopkera antonias, Heine, J.f. Orn. 1863, p. 175. 
+Dnopkera antonias, Heine, J.f.O.n. 1863, p. 175. 
 Glaucis antonise, Muls. fy Verr, Class. Troch. p. 14; Muls. Hist. Nat. 
 Ois.-Mouches, i. p. 46, pi. 3 ; id. Ann. Soc. Linn. Lyon, xxii. p. 200 ; 
 Elliot, Syn. Troch. p. 7. 
@@ -21193,7 +21193,7 @@ $ Sah. R Z. S.1868. p. 1G8, 1878, p. 1G; #«/». §• J?/tf<rf, 75w, 1873,
 p. 12 ; Whitely, Ibis, 1873, p. 189 ; J/w&. .Hi**. Nat. Ois.-Jfouckes, 
 i. p. 58, iv. p. 138 j id. Ann. Soc. Linn. Zi/ont xxii. p. 200; 
 Elliot, Si/n. Trock p. 13; Eudes-Desl. Ann. JIus. Caen, i. p. 97; 
-&z/u. Or*. Strickl Coll. p. 359 ; Berl J.f. Orn. 1887, p, 314. 
+&z/u. Or*. Strickl Coll. p. 359 ; Berl J.f.O.n. 1887, p, 314. 
 Guyornis typus, Bp. Bev. Zool. 1854, p. 24U. 
 Toxoteuches guvi, Cab.fy Heine, JIus. Hein. iii. p. 11 (pt.); Heitze, 
 
@@ -21240,7 +21240,7 @@ Phaetkornis apiealis, Bp. Consp. Av. i. p. 68.
 Phsetornis guyi, var. emilise, Muls. 8f Verr. Class. Troch. p. 17; Mills. 
 Ann. Soc. Linn. Lyon, xxii. p. 200. 
 Phaetkornis yaruqui, Cass. Pr. Ac. Phil. 1860, p. 194. 
-Phaethornis guyi emilise, Bed. J.f> Orn. 1887, p. 314. 
+Phaethornis guyi emilise, Bed. J.f.O.n. 1887, p. 314. 
 
 
 Adult male. Very similar to that of P. guyi, but the upper tail-
@@ -21331,7 +21331,7 @@ Phaethornis malaris, Bp. Consp. Av. i. p. 67; id. Rev. Zool 1854,
 
 p. 249; Reich. Aufz. d. Col p. 14; Cab. 4* Heine, Mas. Hein. iii. 
 p. 9; Gould, Intr. Troch. p. 41; Scl. Cat Am. B. p. 284; Heine, 
-J.f. Ora.lS63,p. 176; Muls. $ Ferr. Class. Troch. p. 18; Gray, 
+J.f.O.a.lS63,p. 176; Muls. $ Ferr. Class. Troch. p. 18; Gray, 
 Hand-l B. i. p. 121; ScL $ Sate. P. Z. S. 1807, pp. 753,979,1873, 
 p. 286; Pels. Orn. Bras. p. 26; Tacz. P. Z. S. 1*84, p.' 541. 
 Phaetomis affinis, Pelz. Sits, math.-nat CI Ah. JFiss. Wien, xx. 
@@ -21568,7 +21568,7 @@ p. 43; Muls. & Verr. Class. Troch. p. 18; Sol. § Salv. P. Z. 8.
 Hist. Wat. Ois.-Mouehes, I p. 70 ; id. Ann. Soc. Linn. Lyon, xxii. 
 p. 200; Elliot, Syn. Troch. p. 16; Eudes-Besl. Ann. Mus. Caen, I 
 p. 110; Tacz. P. Z. 8.1882, p. 34; id. Orn. Per. i. p. 265; Berl. 
-J.f. Orn. 1887, p. 315. 
+J.f.O.n. 1887, p. 315. 
 Trochilus oseiyi, Bourc. Sf Muls. Ann. Soc. Linn. Lyon, (2) IV. p. 139 
 
 (1852). 
@@ -21692,7 +21692,7 @@ id. Cat. Am. B. p. 285; Cab. 8f Seine, Mm. FLein. iii. p. 8 ; Muls*
 Mills. Mist. Nat. Ois.-Mouches, i. p. 83; id. Ann. Soe. Linn. Lyon, 
 
 xxii. p. 201; Elliot, Syn. Troch. p. 16; Salv. $ Godm. Ibis, 1880, 
-p. 171: Eudes-Desl Ann. Mies. Caen, i. p. 120: Berl J.f* Orn, 
+p. 171: Eudes-Desl Ann. Mies. Caen, i. p. 120: Berl J.f.O.n, 
 1887, p. 315. 
 Adult. Upper surface bronze-green, each feather with a narrow 
 subterminal dark band and fringed with buff ; crown dark brown ; 
@@ -21776,7 +21776,7 @@ p. 249; Reich. Aufz. d. Col. p. 14; Burm. Syst Ueb. ii. p. 325; Cab.
 §• Heine, Mus. Hein. iii. p. 8; Gould, Intr. Troch, p. 45; Scl Cat 
 Am. B. p. 286 ; Muls. § Verr. Class, Troch. p. 18; Eider, J. f. 
 Om. 1868, p. 182; Pete. Orn. Bras. p. 27; Salv. $ Elliot, Ibis, 
-1878, p. 9; Berl. J.f. Orn. 1873, p. 273; id. Pr. U.S. Nat Mus. xi. 
+1878, p. 9; Berl. J.f.O.n. 1873, p. 273; id. Pr. U.S. Nat Mus. xi. 
 p. 560; Muls. Hist. Nat. Ois.-Mouches, i. p. 77, iv. p. 142; id. 
 Ann. Soc. Linn. Lyon, xxii. p. 201; Elliot, Syn. Troch. p. 17 ; 
 Eudes-Desl Ann. Mus. Caen, i. p. 117. 
@@ -21820,7 +21820,7 @@ p. 249; Reich. Aufz. d. Col. p. 14; Gould, Mon. Troch. i. pi. 29
 p. 18; Wyatt, Ibis, 1871, p. 376; Salv. 8f ElliotK Ibis, 1878, p. 10 ; 
 Muls. Hist. Nat. Ois.-Mouches, i. p. 75, pi. 5; id. Ann. Soc.Linn. 
 Lyon,xxn. p. 201; Elliot, Syn. Troch. p. 14; Eudes-Desl. Ann. 
-Mtis. Caen, i. p. 116; Salv. Ibis, 1885, p. 431; Berl.J.f. Orn. 
+Mtis. Caen, i. p. 116; Salv. Ibis, 1885, p. 431; Berl.J.f.O.n. 
 1887, p. 314. 
 Allied to P. pretrii, and with the tail similarly formed, but the 
 postocular and malar stripes are white instead of buff, and the 
@@ -22615,7 +22615,7 @@ Mon. Troch. ii. pi. 48 (May 1860); id. Mr. Troch. p. 53; Muls.
 4' Verr. Class. Troch. p. 22. 
 Campy lopterus 
 largipennis, Cab. 8f Seine, Mus. Hein. iii. p. 12; 
-Scl. Cat. Am. B. p. 283; F. Seine, J.f. Orn. 1863, p. 177; Sol. $ 
+Scl. Cat. Am. B. p. 283; F. Seine, J.f.O.n. 1863, p. 177; Sol. $ 
 Salv. P. Z. S. 1867, p. 584; Pek. Orn, Bras, p, 28; Muls. Hist. 
 Nat. Ois.-Mouches, i. p. 119, iv. p. 148; id. Ami. Soc, Linn. Lyon, 
 
@@ -22768,11 +22768,11 @@ kemileucurus, Cab. <§• Heine, Mus. Hein. iii. p. 13;
 Scl. Cat. Am. B. p. 288 ,• Gould, Intr. Troch. p. 52; 0#&. J". / . Orn. 
 1862, p. 162; Scl. P. £. 6'. 1864, p. 176; Salv. Ibis, 18G6, p. 204, 
 1870, p. 205; Lawr. Ann. Lye. NT. ix. p. 121; Bull. US. Nat 
-Mus. no. 4, p. 32; v. Frantz. J.f. Om 1869, p 315; Boucard, 
+Mus. no. 4, p. 32; v. Frantz. J.f.O. 1869, p 315; Boucard, 
 
 P. Z. S. 1878, p. 68; Elliot, Syn. Troch. p. 2(6; Nutting, Pr. U.S. 
 Nat Mus. v. p. 501; Ferrari-Perez* Pr. U.S. Nat. Mus. ix. p. 157; 
-Berl.J.f. Orn. 1887, p. 316. 
+Berl.J.f.O.n. 1887, p. 316. 
 Polytnius hemileucurus, Gray, Hand-l. P. i. p. 124. 
 
 Adult male. Dark shining violet-blue, top and sides of the head 
@@ -22871,7 +22871,7 @@ p. 51; Cah. 8f Heine, Mus. Hein. iii. p. 18; Scl Cat. Am. B.
 p. 287; Muls. fy Verr. Class. Troch. p. 22; Sol. $ Salt;. P. Z. S. 
 1868, p. 160,1870, p. 782 ; Elliot, Ibis, 1875, p. 10; id. 8yn. Troch. 
 p. 26; Mais. Hist Nat. Ois.-Mouches, i. p. 132, iv. p. 149; id. 
-Ann. Soc. Linn. Lyon, xxii. p. 202; Berl. J.f. Orn. 1887, p. 316. 
+Ann. Soc. Linn. Lyon, xxii. p. 202; Berl. J.f.O.n. 1887, p. 316. 
 Sffipiopterus lazulus, Reich. Aufz. d. Col. p. 11; id. Troch. Enum. 
 
 p. 9, pL 801. ff. 4863-64; Eudes-Desl. Ami. Mus. Caen, i. p. 156. 
@@ -23154,7 +23154,7 @@ AMASTTOCHEOA.
 Type. 
 Aphantochroa, Goidd, Mon. Troch. ii. pi. 54 (Oct. 
 1854) A. cirrochloris. 
-Agapeta, Seine, J.f. Orn. 1863, p. 178 A. gularis. 
+Agapeta, Seine, J.f.O.n. 1863, p. 178 A. gularis. 
 Aphantoehroa (Placophorus), Mids. Ann. Soc. Linn. 
 Lyon, xxii. p. 202 (1875) A. gularis. 
 Mange. Ecuador to Bolivia, Amazons Yalley, and Eastern Brazil. 
@@ -23259,7 +23259,7 @@ ii. pi. 55 (Mav 1861) ; id. Mr. Troch. p. 55; Scl % Salv. P.Z. S.
 1867, p; 753^ 1873, p. 287; Muls. Hist. Nat. Ois.-Mouches, i. 
 p. 141, iv. p. 151; id. Ann. Soc. Linn. Lyon, xxii. p. 202; Elliot) 
 Syn. Troch. p. 28; Eudes-Desl. Ann. Mus. Caen, i. p. 165. 
-Agapeta gularis, P. Heine, J.f. Orn. 1803, p. 178. 
+Agapeta gularis, P. Heine, J.f.O.n. 1803, p. 178. 
 Campylopterus gularis, Muls.%fy Verr. Class. Troch. p. 22. 
 
 Adult male. Upper surface dark shining grass-green; wings 
@@ -23702,7 +23702,7 @@ spectabilis, Later. Ann. Lye. X. Y. viii. p. 472,* 8alv.
 Ms, 1868, p. 251. 
 Eugenes spectabilis, Sab. Ik's, 1809, p. 310; Lawr. Ann. Life. K. Y. 
 
-ix.p. 121, x.#p. 140; v. Frantz.J.f. Oni. 1800, p. 315; Muls. 
+ix.p. 121, x.#p. 140; v. Frantz.J.f.O.i. 1800, p. 315; Muls. 
 Hist. Xat. Ois.-MoucJieS) ii. p. 215, iv.-p. 200; id. Ana. Soc. Linn. 
 Lyon, xxii. p. 213; Boucard, P. Z. 8. 1878, p. 08; Elliot, Sya. 
 froch. p. 01 j Eudes-Desl. Ann.Mus. Caen, i. p. 281. 
@@ -24166,7 +24166,7 @@ w. 2 ad. sk.
 
 4. Delattria hemiieuca. 
 Oreopyra heniileuca, Salv. P. Z. S. 1864, p. 584; Later. Ann. Lye. 
-N Y. ix. p. 125; v.^Frantz. J.f. Orn. 1869, p. 310j Muh. Hist. 
+N Y. ix. p. 125; v.^Frantz. J.f.O.n. 1869, p. 310j Muh. Hist. 
 Nat. Ois.-Mouches, iv. p. 187, pi. 118; id. Ann. Soc. Linn. Lyon, 
 
 xxii. p 203; Boucard, P. Z.S. 1878, p. 79; Eudes-JDesl Am. Mus. 
@@ -24242,7 +24242,7 @@ Mr. Trock. p. 134; Bp. Rev. Zool 1854, p. 254; Cab. % Heine,
 Mus. Hein. iii. p. 30; Scl. Cat. Am. B. p. 309; Mute. <§• Terr. 
 Class. Track, p. 59; Peh. Orn. Bras. p. 31; Hamilton, Ibis, 1871, 
 
-p. 307; Berl. J.f. Orn. 1873, p. 275; Reinh. Vidensk. Medd. Xat. 
+p. 307; Berl. J.f.O.n. 1873, p. 275; Reinh. Vidensk. Medd. Xat. 
 For. Kjbb. 1870, p. 107; Muls. Hist Xat Ois.-Mouekes, ii. p. 227; 
 id. Ami. Sac. Linn. Lyon, xxii. p. 213; Elliot, Syn. Troch. p. 56; 
 Eudes-Besl Ann. Mus. Caen, I. p. 251; Salv. Cat. Strickl. Coll. 
@@ -24316,7 +24316,7 @@ Ann. Soc. Linn. Lyon, xxii. p. 213,• Elliot, Syn. Troch. p. 57;
 Eudes-Besl. Ann. Mm. Caen, i. p. 254; Tacz. 6m. Fir. i. p. 387; 
 d'Hamonv. Bull. Soc. Zool. Fr. xi. p. 316. 
 
-Polyplancta aurescens, Heine, J.f. Orn. 1863, p. 182. 
+Polyplancta aurescens, Heine, J.f.O.n. 1863, p. 182. 
 Trochilus aurescens, Gray, Hand-l. B. i. p. 140. 
 Clytolsema azurescens (!), Mids. fy Verr. Class. Troch. p. 59. 
 
@@ -24502,7 +24502,7 @@ p. 60; Whitely, P. Z. S. 1873, p. 189; 8el. $ Sah. R. Z. 8.1875,
 p. 235; Tacz. R. Z. 8. 1874, p. 543, 1880, p. 204,18S2, p. 38; 
 id. Orn. Rer. i. p. 375 ; Muls. Hist. Nat. Ois.-Mouches, ii. p. 286, 
 pi. 60, iv. p. 211; id. Ann. 8oc. Linn. Lyon, xxii. p. 215; Elliotf 
-8yn. Troch. p. 61; Berl. J.f. Orn. 1887, p. 323. 
+8yn. Troch. p. 61; Berl. J.f.O.n. 1887, p. 323. 
 Docimaster ensiferus, Bp. Consp. i. p. 74; id. Rev. Zool. 1854, p. 251, 
 
 l.p.74; 
@@ -24628,7 +24628,7 @@ HELIODOXA.
 Type. 
 Heliodoxa, Gould, P. Z. S. 1849, p. 95 H. jacula. 
 Leadbeatera, Bp. Consp. Av. i. p. 70 H. leadbeateri. 
-Aspasta, Heine, J.f. Orn. 1863, p. 179 H. leadbeateri. 
+Aspasta, Heine, J.f.O.n. 1863, p. 179 H. leadbeateri. 
 Hypolia, Muls. Ann. Soc. Linn. Lyon, xxii. p. 212 
 
 (1875) H. leadbeateri. 
@@ -24685,9 +24685,9 @@ Heine, Mus. Hem. iii. p. 22; Eudes-Besl. Ann. Mus. Caen, i.
 p. 285; Tacz, P. Z. S. lSb'2, p. 85. 
 Leadbeatera splendens, Gould, Intr. Troch. p. 74. 
 Heliodoxa sagitta, Cab. 4* Heine, Mus. Hein. iii. p. 22. 
-Aspasta leadbeateri, Heine, J.f. Orn. 1563. p. 170. 
-Aspasta otero, Heine, J.f. Orn. Ib63. p. 180. 
-Aspasta splendens, Heine, J.f. Orn. 3K>3, p. ISO. 
+Aspasta leadbeateri, Heine, J.f.O.n. 1563. p. 170. 
+Aspasta otero, Heine, J.f.O.n. Ib63. p. 180. 
+Aspasta splendens, Heine, J.f.O.n. 3K>3, p. ISO. 
 Hypolia leadbeateri. Muls. Hist. Nat. Ois.-Mouthes. ii. p. 207; id. 
 Ann. Soc. Linn. Lyon, xxii. p. 213. 
 Clytolaema leadbeateri, var. otero, Muls. §• Verr. Class. Troch. p. ?,9. 
@@ -24695,7 +24695,7 @@ Clytolsema leadbeateri, Muls. fy Verr. Class. Troch. p. 59.
 Hypolia otero, Muh. Hisf. Nat. Oi$.~Mouches, ii. p. 209. 
 Hypolia splendens, Mids. Hist. Nat. Ois.-Mouches, ii. p. 211. 
 Heliodoxa splendens, Eudes-Besl. Ann. Mus. Caen, i. p. 286. 
-Heliodoxa leadbeateri parvula, Berl. J.f. Orn. 1887, p. 8*20. 
+Heliodoxa leadbeateri parvula, Berl. J.f.O.n. 1887, p. 8*20. 
 
 Adult male. Upper surface dark grass-green, more bronzy on the 
 
@@ -24780,7 +24780,7 @@ Cab. 8f Heine, Mus. Hein. iii. p. 22; Salv. P. Z. S. 1867, p. 154,
 p. 122; Muls. Mist. Nat. Ois.-Mouches, ii. p. 202, pi. 46 ; id. Ann. 
 Son. Linn. Lyon, xxii. p. 212; Boucard, P. Z. 8. 1878, p. 59; 
 Elliot, Syn. Troch. p. 64; Eudes-Desl. Ami. Mus. Caen, i. p. 287; 
-Berl. J.f. Orn. 1887, p. 320. 
+Berl. J.f.O.n. 1887, p. 320. 
 Leadbeatera jacula, Bp. Consp. i. p. 70; id. JRev. Zool. 1854, p. 251. 
 Cceligena (Leadbeatera) jacula, Beich. Aufz. d. Col. p. 7. 
 Cceligena jacula, Meich. Troch. Enum. p. 4, pi. 688. f. 4522. 
@@ -25114,7 +25114,7 @@ id. Intr. Troch. p. 142 ; Cab. $* Heine, Mus. Hein. iii. p. 30; ScL
 Cat. Am. B. p. 310; Muls. Hist Nat. Ois.-Mouches, ii. p. 221, 
 pi. 49, iv. p. 207; id. Ann. Soc. Linn. Lyon, xxii. p. 213; ScLfy 
 Salv. P. Z. S. 1879, p. 529; Elliot, Syn. Troch. p. 55; Ettdes-Desl 
-Ann. Mus. Caen, i. p. 248; JBerl. J.f. Orn. 1887, p. 320. 
+Ann. Mus. Caen, i. p. 248; JBerl. J.f.O.n. 1887, p. 320. 
 
 Adult male. Tipper surface shining grass-green; upper tail-coverts 
 golden bronze; centre of the crown, forehead, and chin glittering 
@@ -25446,7 +25446,7 @@ Ibis, 1873, p. 388; Muls. Hist. Nat. Ois.-Mouches^ ii. p. 178, iv.
 p. 204; id. Ann. Soc. Linn. Lyon} xxii. p. 212 ; Elliot, Syn. Troch. 
 p. 4#; Eudes-Desl. Ann. Mus. Caen, i. p. 221;' Tacz. P. Z. S. 1880, 
 p. 304; id. Orn. Per. i. p. 297; Tacz. § Berl P. Z. S. 1883, p. 566; 
-Berl. J.f. Orn. 1887, p. 317; id. Pr. U.S. Nat. Mus. xi. p. 561. 
+Berl. J.f.O.n. 1887, p. 317; id. Pr. U.S. Nat. Mus. xi. p. 561. 
 Eloribuga ferrugineiceps, Reich. Aufz. d. Col. p. 14. 
 Topaza mellivora, Leot. Ois. Trin. p. 141 (1866); Gray, Hand-l. B. 
 
@@ -26689,7 +26689,7 @@ Ois.-Mouches, ii. p. 264, pi. 56; id. Ann. Soc. Linn. Lyon, xxii.
 p. 215; Elliot, Syn. Troch. p. 101. 
 Deiattria georginae, Bp. Bev. Zool. 1854, p. 253. 
 Opibthoprora eurvptera, Cab. $* Heine, Mus. Hein. iii. p. 76; Berl. 
-J.f. Oni. 1887,p. 325. 
+J.f.O.i. 1887,p. 325. 
 Avocettinus georginse, Mids. §* Verr. Class. Troch. p. 53. 
 Polytmus eurypterus, Gray, Hand-l. B. i. p. 133. 
 Adult. Upper surface shining grass-green, becoming bronze-
@@ -26869,14 +26869,14 @@ Helianthea 8. Agkeactis cupreipennis, Reich. Aitfz. d. Col. p. 9 ; id.
 Troch. JEnum. p. 6, pi. 737. ft'. 4689-90. 
 Aglaiactis sequatorialis, Cab. § Heine. Mus. Hein. iii. p. 70; Heine, 
 
-J.f. Orn. 1863, p. 211. 
+J.f.O.n. 1863, p. 211. 
 Aglaeactis sequatorialis, Gould, Intr. Troch. p. 106; Scl. Cat. Am. 
 i?. p. 302. 
 Aglasactis cupreipennis, var. sequatorialis, Muls. fy Verr. Class. Troch. 
 
 i. p. 66; Muls. Ann. Soc. Linn. Lyon, xxii. p. 218. 
 Aglasactis parvula, Gould, Intr. Troch. p. 106. 
-Aglaiactis parvula, Heine, J.f. Orn. 1863, p. 211. 
+Aglaiactis parvula, Heine, J.f.O.n. 1863, p. 211. 
 Aglseactis cupreipennis, var. parvula, Muls. fy Verr. Class. Troch. 
 p. 66; Muls. Ann. Soc. Linn. Lyon, xxii. p. 218 ; Tacz. P. Z. S. 
 1880, p. 207. 
@@ -27221,7 +27221,7 @@ Loddigesia, " Gould," Bp. Consp. Av. i. p. 80 (1849) .. L. mirabilis.
 Loddigesia, Gould, Mon. Troch. Hi. pi. 161 (Sept. 1861). 
 Loddigesiornis, Bp. Compt. Rend. xxx. p. 381 (1850) .. L. mirabilis. 
 Grtkorhynchus 8. Mulsantia, Reich. Aufz. d. Col. p. 12.. L. mirabilis, 
-Thaumantoessa, Heine, J.f. Orn. 1863, p. 209 L. mirabilis. 
+Thaumantoessa, Heine, J.f.O.n. 1863, p. 209 L. mirabilis. 
 
 Range. Central Peru." 
 
@@ -27503,7 +27503,7 @@ Troch. p. 119 ; Muls. Hist. Nat. Ois.-Mouches, iii. p. 139, pi. 82;
 id. Ann. Soc. Linn. Lyon, xxii. p. 221; Boucard, P. Z. S. 1878f 
 
 p. 69; Elliot, Syn. Troch. p. 184; Tacz. Orn. Per. i. p. 364; 
-Berl. J.f. Orn. 1887, p. 319. 
+Berl. J.f.O.n. 1887, p. 319. 
 Mellibuga meritti, Lawr. Ann. Lye. N. Y. vii. p. 110; Gould, Itns, 
 1860, p. 309. 
 Basilinna guimeti, Cab. 8$ Heine, Mus. Hein. iii. p. 45. 
@@ -27759,7 +27759,7 @@ Cat. Am. B. p. 311; Muls. $ Vert. Class. Troch. p. 65; Whvtely,
 P.Z.8. 1873, p. 784; Muls. Hist. Nat. Ois.-Mouches, iii. p. 30, 
 iv. p. 216; id. Ann. Soc. Linn. Lyon, xxii. p. 217; Elliot, Syn. 
 
-Troch. p. 191; Berl. J.f. Orn. 1887, p. 321. 
+Troch. p. 191; Berl. J.f.O.n. 1887, p. 321. 
 Hylocliaris aline, Gray, Hand-L B. i. p. 152. 
 
 
@@ -28186,7 +28186,7 @@ Helianthea isaacsoni, Elliot, Ibis, 1872, p. 294,1874, p. 331; id. Syn.
 Troch. p. 71. 
 Saturia isaacsoni, Muls. Hist. Nat. Ois.-Mouches, ii. p. 299, pi. 61, 
 
-iv. p. 212; id. Ami. Soc. Linn. Zyon,xxil p. 217 ; Berl. J.f. Orn. 
+iv. p. 212; id. Ami. Soc. Linn. Zyon,xxil p. 217 ; Berl. J.f.O.n. 
 1887, p. 323. 
 VOL. XVI. 2 B 
 
@@ -28221,7 +28221,7 @@ id. Intr. Troch. p. 146; Scl Cat. Am. B. p. 311; MvU. ^ Terr.
 Class. Troch. p. 6o; Muls. Mist. Nat. Ois.-Mouehes, iii. p. 51, iv. 
 
 p. 216 • id. Ann. Soc. Linn. Lyon, xxii. p. 218 ; Elliot, Syn. Troch. 
-p. 190; Scl. $ Salv. P. Z. S. '1879, p. 530; Berl J.f. Orn. 1887, 
+p. 190; Scl. $ Salv. P. Z. S. '1879, p. 530; Berl J.f.O.n. 1887, 
 p. 522. 
 Eriocnemys aurelia, Bp. Rev. Zool. 1854, p. 252. 
 Hylocharis aurelise, Gray, Sand-l. B. i. p. 152. 
@@ -28499,7 +28499,7 @@ Mu8. Hein. iii. p. 74 ; Scl Cat. Am. B. p. 294 ; Wyatt, Ibis, 1871,
 p. 376; Elliot, Ibis, 1876, p. 10 5 id. Syn. Troch. p. 54; Mvk. 
 Hist. Nat. Ois.-Moueftes, ii. p. 235 ; id. Ann. Soc. Linn. Lyon, xxii. 
 p. 213; Scl. 8f Salv. P. Z. S. 1879, p. 529; Eudes-Desl Ann. Mm. 
-Caen, 1. p. 228; Berl J.f. Orn. 1887, p. 321. 
+Caen, 1. p. 228; Berl J.f.O.n. 1887, p. 321. 
 Adult male. Upper surface dark shining grass-green ; crown and 
 under surface glittering green; under tail-coverts buff; central 
 rectrices dark green, laterals buff tipped and edged with dark green ; 
@@ -29179,7 +29179,7 @@ y, $ ad. sk. ex C. B. Cory).
 
 5. Doriclia bryantse. 
 Doricha bryantse, Laior. Ann. Lye. 2V.Y viii. p. 48-3, it. p. 12:3; 
-Frantz. J.f. Orn. 1869, p. 316; Salv. P. Z. 8. 1870, p. 209 ; Muh. 
+Frantz. J.f.O.n. 1869, p. 316; Salv. P. Z. 8. 1870, p. 209 ; Muh. 
 Hist Nat. Ois.-Mouches, iv. p. 42, pi. 10*3; id. Ann. Soe. Limi, 
 Lyon, xxii. p. 226; Boueard, P. Z. 8. 1878, p. 70; Elliot, 8yn. 
 Troch. p. 125; Gould, Mon. Troch., Sitppl. pi. 53 (Jan. 1881). 
@@ -29250,7 +29250,7 @@ pi. 711. if. 4610-4.
 Tlaaumastura duponti, Bp. Rev. Zool 1854, p. 257. 
 Tilmatura duponti, Cab. fy Heine, Mus. JZein. iii. p. 59; Scl Cat. 
 
-Am. B. p. 300; Heine, J.f. Orn. 1863, p. 205; Muls. Hist. Nat. 
+Am. B. p. 300; Heine, J.f.O.n. 1863, p. 205; Muls. Hist. Nat. 
 Ois.-Moivches, iv. p. 11, pi. 101; id. Ann. Soc. Linn. Lyon, xxii. 
 
 p. 224 ; Elliot, Syn. Troch. p. 128; Ferrari-Perez, Pr. U.S. Nat. 
@@ -29444,7 +29444,7 @@ CallipMox mitclielli, Gould, Mon. Track, iii. pi. 160 Qlay I860) ;
 id. Intr. Troch. p. 98 ; id. Ibis, 1876, p. 399; de Oca, La Nat iii. 
 
 p. 165; Miot, 8yn. Troch. p. 131; Mills. Mist. Nat Ois.-Mouches, 
-iv. p. 49 ; Berl. J.f. Orn. 1887, p. 330. 
+iv. p. 49 ; Berl. J.f.O.n. 1887, p. 330. 
 Amathusia (Philodice) mitchelli, Muls. $ Verr. Class. Troch. p. 86. 
 Philodice mitchelli, Muls. Ann. Soc. Linn. Lyon, xxii. p. 226. 
 Adult male. Similar to that of C* amethystina, but with the 
@@ -29570,7 +29570,7 @@ Trochilus cyanopogon, Less. Lid. Gen. Troeh. p. xxiii; &w. Birds
 Brazil $ MM. pi. 77. 
 Trochilus simplex, Less. Hist. Nat. Col. p. 86, pi. 23; id. Ind. Gin. 
 Troch. p. xhi. 
-Trochilus corru&cus, Licht. Preis-Verz. Mex. Vog. p. 1 (cf. J.f. Orn. 
+Trochilus corru&cus, Licht. Preis-Verz. Mex. Vog. p. 1 (cf. J.f.O.n. 
 1863, p. 55). 
 
 Calolhorax lucifer, Gray, Gen. B. i. p. 110; id. Hand-L B. i, p. 135; 
@@ -29995,7 +29995,7 @@ Selasphoras scintilla, Gould, Men. Troch. iii.pl. 138 (May 1852) j id.
 Intr. Troch. p. 89; JReich. Aufz. d. Col. p. 13 ; id. Troch. JEnum. 
 
 p. 10, pi. 858. if. 5024-26; Bp. Rev. Zool. 1854, p. 256 ; Cab. £ 
-Heine, Mus. Hein. iii. p. 56; Cab. J.f. Orn. 1863, p. 165; Muls. 
+Heine, Mus. Hein. iii. p. 56; Cab. J.f.O.n. 1863, p. 165; Muls. 
 % Verr. Class. Troch. p. 89; Salv. P. Z. 8. 1867, p. 155, 1870, 
 p. 209; Later. Ann. Lye. N. Y. ix. p. 123; Frantz. J. f. Orn. 
 1869, p. 315; Muls. Hist. Nat. Ois.-Mouches, iv. p. 104, pi. 109; 
@@ -30349,7 +30349,7 @@ a.
 juy. sk. (Types of the species.) 
 8. Selasphorus flammula. 
 Selasphorus flammula, Salv. P. Z. S. 1864, p. 586; Lawr. Ann. Lye. 
-N. Y. ix. p. 123 j Frantz. J.f. Orn. 1863, p. 815; Muls. Hist. Nat 
+N. Y. ix. p. 123 j Frantz. J.f.O.n. 1863, p. 815; Muls. Hist. Nat 
 Ois.-Mouches, iv. pp. 99,221, pL 107 • Elliot, Syn. Troch. p. 113; 
 Boucard, P. Z. S. 1873, p. 70,* Ridgw. Pr. II. S. Nat Mus. v# 
 p. 497; Sharps in Gould's Mon. Troch., Suppl pi. 31 (Jan. 1883). 
@@ -30417,7 +30417,7 @@ BuU. US. Nat. Mus. no. 4, p. 32; Frantz. J. f. Orn. 1869, p. 315 ;
 Elliot, Ibis, 1872, p. 354; id. Syn. Troch. p. l05 ; Villada, La Nat. 
 ii, p. 352; Baird, Brewer, fy Bidgw. N. Am. B. ii. p. 462; de Oca, 
 La Nat. iii. p. 22; Gundl. Orn. Cub. pp. 28, 107, 234, 271; id. 
-J.f. Orn. 1878, p. 180; Boucard, P. Z. S. 1878, p. 70 ; id. P. Z. 8. 
+J.f.O.n. 1878, p. 180; Boucard, P. Z. S. 1878, p. 70 ; id. P. Z. 8. 
 1883, p. 451; Merrill, Auk, i. p. 146; Nutting, Pr. U.S. Nat. 
 Mus. vi. p. 394; Bidgw. Pr. U.S. Nat. Mus. viii. p. 573 ; Ferrari-
 Perez, Pr. US. Nat. Mus. x. p. 157; Brewster, Auk, iii. p. 105; 
@@ -31071,7 +31071,7 @@ p, 227; Cory, B. West Ind. p. 149.
 
 406 TROCHILI. 
 
-Ortliorhynclius boothi, Gimdl. J.f. Orn. 1856, p. 99. 
+Ortliorhynclius boothi, Gimdl. J.f.O.n. 1856, p. 99. 
 
 Atthis heleuge, Later. Ann. Lye. X. Y. vii. p. 2(53. 
 
@@ -31137,7 +31137,7 @@ pp. 529, 628 { Elliot, Ibt\ 1877, p. 136; id, ,s>/«.' Tith, p. 119;
 
 Muls, Hist. Nat. Ois.-Mouches, iv. p. 118, pi. 110; id. Ann. Soc. 
 Linn. Lyon, xxii. p. 228; Salv. $• Godm. Ibis, 1879, p. 205; Berl. ty 
-Tacz. P. Z. S. 1884, p. 806; Berl. J.f. Orn. 1887, p. 330. 
+Tacz. P. Z. S. 1884, p. 806; Berl. J.f.O.n. 1887, p. 330. 
 
 Ornismya (Polyrnnia) ruulsanti, Muls. §• Verr. Class. Troch. p. 91. 
 Trochilus mulsanti, Gray, Rand4. B. i, p. 145. 
@@ -31263,7 +31263,7 @@ Acestrura lieliodori, Gould, Inir. Troch. p. 92; Scl. $• Salt. P. Z. S.
 1870, p. 7b2,lti7o, p. 235; Muls. Mist. Nat. Oi&.-Mouehes, iv. 
 
 p. 120$ id, Ann. Soc. Linn. Lyon, xxii. p. 228; Elliot, Syn, Troch, 
-p. 1:20 ; Bert. J.f. Orn. 1884, p. 311, 1887, p. 330. 
+p. 1:20 ; Bert. J.f.O.n. 1884, p. 311, 1887, p. 330. 
 Oinismya (Acestrura) heliodori, Muls. $* Verr. Class. Troch. p. 92. 
 Trochilub heliodori, Gray, Hand-l. B. i. p. 145. 
 Adult mcde. Also similar to that of A. mulsanti, and the tail 
@@ -31364,7 +31364,7 @@ TrocMlus minutulus, Vieill. Ois. Am. Sept. ii. p. 73.
 Trochilus yieilloti, JShazv, Gen. Zool. yiii. p. 347. t 
 Ornismya minima, Less. Hist. Xat. Ois.-Moaches, pp. xxxii, 213. '• 
 Mellisuga humilis, Gosse, B. Jam. p. 127; March, Pr. Ac. Hill. 
-18(53, p. 285 j Albrecht, J.f. Orn. 1862, p. 201. 
+18(53, p. 285 j Albrecht, J.f.O.n. 1862, p. 201. 
 Trochilus Catherine, Salle, Rev. Zool. 1849, p. 498. 
 Hylocharis nigra, Gray, Gen. B. i. p. 114. 
 Mellisuga minima, JBj?. Consp. AD. i. p. 81 ; id. Reu. Zool. 1854, 
@@ -31375,7 +31375,7 @@ Troeh. p. 87; JScL P. Z. S. 1857, p. 233; id. Cat. Am. B. p. 297;
 March, Br. Ac. Phil. 18(53, p. 2bo • Bryant, Pr. Bott. >%c. 2S.H. xi. 
 p. 95* Blhot, Ibis, 1872, p. 354* id. Syn. Troeh. p. 103; Mids. 
 Hist. Nat. Ois.-Mouchet, iv. p. 82, pi. 100. fT. 1, 2; id. Ami. Soc. 
-Linn. Lyon, xxii. p. 227; GundL J.f. Orn. Ifc74, p. 307 ; Cory, B. 
+Linn. Lyon, xxii. p. 227; GundL J.f.O.n. Ifc74, p. 307 ; Cory, B. 
 West Ltd. p. 149. 
 Hylocharis niger, Bp. Consp. A v. i. p. 81. 
 Zephyritis (Dyriniaj minima, Muls. $ Verr. Class. Troeh. p. 88. 
@@ -32360,7 +32360,7 @@ p. 83; id. Rev. Zool. 1854, p. 257; Gould, Mon. Trock iii. pi. 121
 (Sept. 1861); id. Intr. Trock p. 84; Later. Ann. Lye. N. Y. vii. 
 p. 465; Scl fy Salv. P.Z.JS.1864, p. 365; Salv. P. Z. S. 1870, 
 p. 207; Elliot, Syn. Trock p. 133; Tacz. Orn. PSr. i. p. 299; 
-Berl. J.f. Orn. 1887, p. 329. 
+Berl. J.f.O.n. 1887, p. 329. 
 Telamon 
 delattrii, Muls. § Verr. Class. Trock p. 75; Muls. Hist 
 Nat Ois.-Mouches, iii. p. 199; id. Ann. Soc. Linn. Lyon, xxii. 
@@ -32428,7 +32428,7 @@ Trochilus reginse, Gray, Hand-l. B. i. p. 147.
 Lophornis stictolophus, Salv. fy Elliot, lhis7 lh7% p. 2S0: M&4f 
 
 
-Syn. Troch. p. 133; Berl J.f. Orn. 1887, p. 32ft 
+Syn. Troch. p. 133; Berl J.f.O.n. 1887, p. 32ft 
 Telamon strictolophus, Muls. Hist. Nat. Ois.-Moiieke,\ iii. p. 20], 
 pi. 90. f. % iv. p. 219. 
 
@@ -32571,7 +32571,7 @@ Trochilus audeneti, Less. Ind. Gen. Troch. p. xlii.
 Lophornis chalybseus, Bp. Consp. Ai\ i. p. 84; Meich. Aufz. d. Col. 
 p. 12; id. Troch.Bnum.-p.Q^l. 812.ff. 4b93-5; Gould, $Ion. Troch. 
 iii. pi. 124 (May 1852); Scl. Cat. Am. B. p. 290; Peh. Dm. Bras. 
-p. 32; Berl. J.f. Orn. 1873, p. 275; Elliot, Syn. Troch. p. 130. 
+p. 32; Berl. J.f.O.n. 1873, p. 275; Elliot, Syn. Troch. p. 130. 
 Lophornis audeneti, Bp. Consp. Av. i. p. 84. 
 Bellatrix chalybseus, Bp. JRev. Zool. 1854, p. 257. 
 Lophornis festivus, Burm. Syst. Ueb. ii. p. 354. 
@@ -32722,7 +32722,7 @@ Intr. Troch. p. 86; Mtds. $ Verr. Class. Troch. p. 78; BerL J. f.
 Orn. 1887, p. 329. 
 
 Tricholopha 
-popelairii, Heine, J.f. Orn. 1863, p. 209; Muls. Hist. 
+popelairii, Heine, J.f.O.n. 1863, p. 209; Muls. Hist. 
 Nat. Ois.-mouches, iii. p. 235; id. Ann. Soc. Linn. Lyon, xxii. 
 
 p. 223. 
@@ -32840,7 +32840,7 @@ Troch. p. 139.
 Prymnacantha conversi, Cab.fy Seine, Mus. ELdn. iii. p. 65; 3£uls. 
 Eist. Nat. Ois.-Mouches, iii. p. 242; id. Ann, Soc. Linn, Lyon, 
 
-xxii. p. 223; Berl J.f. Orn. 1887, p. 223. 
+xxii. p. 223; Berl J.f.O.n. 1887, p. 223. 
 Mellisuga conversi, Mids. fy Verr. Class. Troch, p. 79. 
 Gouldia conversi sequatorialis, Berl $ Toes. P. Z. S, 1883, p. 567. 
 Adult male. Similar to that of P. langsdorffi, the back less bronzy, 
@@ -33605,7 +33605,7 @@ Cab. <§• Heine, Mus. Hein. iii. p. 84 (1860); Poicys, IbU, I860,
 p. 234 (Ionian Is.); Adams, His, 1K54, p. 14 (Einpt); Wriyht, 
 Ibis, 1864, p. r^ 1874, p. 227 (Malta); Sperling Ibis, lb(54, p. 283 
 (Mediterran.); Trittr. P. Z. S. 1864, p. 431; id. Ibi% 1860, p. 79 
-(Palebt); Set. P. Z. S. 1865, p. 598; id. J.f. O. 1-67, p. 117; 
+(Palebt); Set. P. Z. S. 1865, p. 598; id. J.f.O. 1-67, p. 117; 
 Begl. et Gerhe, Orn. Bur. i. p. 601 (1867); Gray, Hand-L L p. 63, 
 no. 717 (1869); Borygreve, Vogelf Xorddeittschl. p. 65 (1839); 
 Heugl. Orn. N.O.-Afr. p. 142, part. (1869); Slices $ Buckley, 
@@ -33657,7 +33657,7 @@ Vogels. Mus, Senckenb. p. 119. note (1891).
 Cypselus turrium, Brehm, Vogelf. p. 46 (1855); id. Nauniannia, 18*55, 
 
 p. 270. 
-Oypselus aterrimus, Keugl. J.f. O. 1861, p. 422. 
+Oypselus aterrimus, Keugl. J.f.O. 1861, p. 422. 
 Cypselus apus niger, ) 
 Cypselus apus vulgaris, ( A. E. Brehm, Verz. Samml. C. L. Brehm, 
 Cypselus apus murarius, {* p. 3 (1866) {teste Dresser). 
@@ -33998,7 +33998,7 @@ Subsp. jS. Micropus murimis.
 V. 
 /. O. 1857, p. 322 (Canar.) ; Drake, Ibis, 1867, p. 425 (Tangier) 
 ; Heugl. Orn. N.O.-Afr. p. 142, part. (%ar. murinu*) (1869) ; 
-Harhoig, J.f. O. 1886, p. 457 (Madeira) *. 
+Harhoig, J.f.O. 1886, p. 457 (Madeira) *. 
 Cypselus murarius, 
 Vem. Hare. Ann. <§• liar/. Xat. Hist, xv. p. 437 
 (1855). 
@@ -34139,7 +34139,7 @@ pi. vi. (1830); Jard. $ Selhy, III Orn. pi. 83 (1839) (Madeira) ;
 Webbfy Berth. Orn. Canary. 24 (1841); Gould, Voy.< Beagle; 
 
 ii. p. 41 (1841) (Cape Verde Is.); Bp. Consp. i. p. 65 (1850); 
-Vernon Harcourt, P. Z. 8. 1851, p. 144 (Madeira) ; Bolle, J.f. O. 
+Vernon Harcourt, P. Z. 8. 1851, p. 144 (Madeira) ; Bolle, J.f.O. 
 1857, p. 323; Newton, Ibis, 1863, pp. 186, 192 (Madeira); ScL 
 P. Z.8. 1865, p. 600; id. J.f 0. 1867, p. 119 ; Gray, Uand-l i. 
 p. 63, no. 718 (1869); Dohm, J.f. 0. 1871, p. 9 (Cape Verde) ; 
@@ -34539,7 +34539,7 @@ Salvad. Ibis, 1881, p. 540; JSwinh. Ibis, 1882, p. 101 (S. Afghan.) ;
 Oates, B. B?'it. Burm. ii. p. 3 (note); Tristr. Faun. $ Flor. Falestin, 
 p. 83 (1884) j Fadde, Orn. Camas, pp. 36, 294 (1884) ; Fischer, 
 Zeitschr. ges. Orn. 1884, p. 35 (Massai-Ld.): id. J. f. O. 1885, 
-p. 127 (E. Afr.); lieichen. J.f. O. 1887, p. 61 (Kagehi) ; Koenig, 
+p. 127 (E. Afr.); lieichen. J.f.O. 1887, p. 61 (Kagehi) ; Koenig, 
 J.f O. 1888, pp. 138, 164 (Tum^segn^; Dresser, Ibis, 1889, p. 91 
 (Transcasp.); Fadde fy Walter, Ornis, 1889, p, 73 ; Gates, ed. 
 Humes Nests fy Fggs, iii. p, 21 (1890); Salvad. Ann. Mus. Civ. 
@@ -34788,7 +34788,7 @@ Tail of Micropus affinis. Tail of Micropus sulfurcatus.
 Cypselus subfurcatus, Blyth, Journ. As. Soc. Being, xviii. p. 807 
 (1849) ; Bp. Consp. i. p. 65 (1850); Swink. P. Z. S. 1863, p. 294 
 (China); id. Ibis, 1863, p. 254; Gray, Hand-l. i. p. 63 (1863); 
-Scl. P. Z. S. 1865, p. 602; id. J.f. O. 1867, p. 123; Blyth, Ibis, 
+Scl. P. Z. S. 1865, p. 602; id. J.f.O. 1867, p. 123; Blyth, Ibis, 
 1865, p. 41 (note), 1870, p. 161; Swink. Ibis, 1866, p. 131, 1867, 
 
 p. 227 (Amoy; breed.), 1870, p. 89 (Hainan) ; id. P. Z. S. 1871, 
@@ -35079,7 +35079,7 @@ Panyptila cayanensis,
 Cab. Wiegm. Arch. xiii. p. 345 (1847) ; Burm. 
 Syst. Uebers. ii. p. 369 (1856) *; Scl. P. Z. S. 1805, p. 606; id. 
 
-J.f. O. 1887, p. 128 j Layard, Ibis, 1873, p. 389 5 Scl. $ Sato. 
+J.f.O. 1887, p. 128 j Layard, Ibis, 1873, p. 389 5 Scl. $ Sato. 
 Mom. Av. Eeotr. p. 94 (1873) - iid. P. Z. S. 1879, p. 531 
 (Antioq.); Salv. Cat StricM. Coll p. 371(1882); Bed. $ Taos. 
 P. Z. S. 1883, p. 569 ("W". Ecuador) 5 iid. Ibis, 1885, p. 438 (B. 
@@ -35132,7 +35132,7 @@ Salvin-Godman Coll.
 
 2. Panyptila sanctiMeronynii. 
 Panvptila sanctihieronymi, Salvin, P. Z. S. 1883, p. 190, pi xxii. ; 
-Scl. P.Z.S.WGo, p. 607; id. J.f. O. 1867, p. 128; Salvin, Ibis, 
+Scl. P.Z.S.WGo, p. 607; id. J.f.O. 1867, p. 128; Salvin, Ibis, 
 1866, p. 195, 1874, p. 188; Scl & Sal v. Xomeacl. Av. Neotr. p. 94 
 
 (1878). 
@@ -35680,7 +35680,7 @@ Cypselus cayanensis, Bryant, Pr. Bost. Soc. Nat Mist. xi. p. 95
 
 (1866). 
 Tachornis iradii, Gundl. Ann. Lye. hrat. Hist. I860, p. 268 (Cuba); 
-id. J.f. O. 1874, p. 116. 
+id. J.f.O. 1874, p. 116. 
 
 Adult. Tail short, slightly furcate. Above black, wings a little 
 
@@ -36161,7 +36161,7 @@ Kelham, Ibis, 1881, p. 372.
 Hirandinapiis giganteus, Sahad. TJcc. Borneo, p. 124 (1874); Oates, 
 
 B. Burmah, ii. p. 5 (1883); Biittik. Notes Leyden Mus. ix. p. 40 
-(1887) (Sumatra) ; Hartert, J.f. O.1889, p. 400 (Perak); Sharpe, 
+(1887) (Sumatra) ; Hartert, J.f.O.1889, p. 400 (Perak); Sharpe, 
 Ibis, 1890, p. 24; Steere, List B. $ Mamm. BMlippin. p. 12 (1890). 
 Porehead, crown and nape, hind neck, sides of the head and neck, 
 wings and tail almost black with steel-bine gloss; lores deep black, 
@@ -36311,12 +36311,12 @@ p. 372 (1882); Bedd. Ibis, 1885, p. 20; Salvin, Ibis, 1885,
 p. 436. 
 Reaiiprogne zonaris, Tacz. Orn. Perou, L p. 231 (1884). 
 b. Referring to specimens from the West Indies. 
-Oypaelus collaris, AlbrevM, J.f. O. 1861, p. 200 (Cuba). 
+Oypaelus collaris, AlbrevM, J.f.O. 1861, p. 200 (Cuba). 
 Acantliylis collaris, Gosse} B. Jamaica, p. 51 (1847). 
 Chsetura zonaris, ScL P. Z. 8. 1801, p. 77 (Jamaica); Albrecht, 
 
 
-J.f. O. 1862, p. 201. 
+J.f.O. 1862, p. 201. 
 Nepnoc&tes collaris, Gimdl. J. f. O. 1862, p. 177, 1874, p. 114; id. 
 Contr. Orn. Cuba, p. 83 (1876). 
 Acantliyllis zonaris, A. Sf E. Newton, Uandb. Jamaica, p. 108 
@@ -36476,7 +36476,7 @@ PAcanthyhs collaris, Cab. in Schomb. Reis. Guiana, iii. p. 709
 Hemiprocne albicincta, Cab. J.f. 0.1862, p. 165 (Guiana to Mexico); 
 Relz. Ibis, 1875, p. 330; Salvin, Ibis, 1885, p. 436. 
 ? Hemiprocne minor, Lawr. Ann. N. Y. Ac. Sc. ii. p. 11 (1882) 
-(Bogota); Reiehen.fySchalow, J.f. O. 1884, p. 382. 
+(Bogota); Reiehen.fySchalow, J.f.O. 1884, p. 382. 
 
 Like C. zonaris but considerably smaller, and the white collar 
 
@@ -36564,7 +36564,7 @@ Acanthylis pelasgia, Bp. Consp. i. p. 04 (1850).
 Chaetura peia^ffia, Baird, B. N. Amer. p 144 (1858); Sel Cat. 
 
 Amer. B. p. 282 (1862;: Scl. P. Z. S. 1883, p. 100, 1865, p. 610; 
-id. J.f. O. 1867, p. 132: Gray, Hand-l i. p. 06 (1S0U): Sale. 
+id. J.f.O. 1867, p. 132: Gray, Hand-l i. p. 06 (1S0U): Sale. 
 Cat Strickl Coll. p. 372 (1832); id. Ibis, 1889, p. 307 (Uozumel); 
 Jeffries, Auk, vi. p. 120 (1889). 
 
@@ -37392,7 +37392,7 @@ if not identical.
 31. Chsetura stictilsema. 
 Cypselus stictilaemus, JReiclien. Orn. Cmtralbl. 1879; p. 114 (Ualinii); 
 
-id. J.f. O. 1879, pp. 293, 315, 344. 
+id. J.f.O. 1879, pp. 293, 315, 344. 
 
 Chsetura stictilasma, Reiehen. J.f. 0. 1885, p. 127 (Calinii,E. Afr.), 
 
@@ -37479,7 +37479,7 @@ Ckaetura rutila, Scl. $ Salv. Ibis, I860, p. 37, pi. 3 j iid. P. Z. S.
 
 1869, p. 363 j Scl. P. Z. S. 1863, p. 100 (part.); id. P. Z. S. 1865, 
 
-p. 613 (part.); id. J.f. O. 1867, p. 135 (part.) ; Sumichr. Natura&
+p. 613 (part.); id. J.f.O. 1867, p. 135 (part.) ; Sumichr. Natura&
 sa,v.p.250(1882). 
 Adult male. Tail-feathers subequal. Yery similar to the true 
 
@@ -37630,7 +37630,7 @@ CYPSELID^J.
 
 4. Oypseloides fumigafras. 
 Ilemiprocne fumigata, Streuhel, 1^,1848, p 866 (ex Watt. MS.). 
-Oypseloides fnmi|atus, Scl. P Z. A 1865, p 615,- td J f. O. 1867, 
+Oypseloides fnmi|atus, Scl. P Z. A 1865, p 615,- td J.f.O. 1867, 
 
 p. 138 ; Scl. # Sato. P. Z. S. 1869, p. 598; tid Nomencl. Av. 
 Neotrop. p. 95 (1873); Tac*. Om Peroui. p 582 (1884). 
@@ -37862,9 +37862,9 @@ Mus. As. Soc. p. 86 (1849); Bp. Consp. i. p. 343 (1850); Horsf.
 8f Moore, Cat. B. Mus. B. I. Comp. i. p. 98 (1854) ; G. R. Gray, 
 
 P. Z. S. 1858, pp. 170, 189 (var.; Louisiade) ; id. Cat. B. New 
-Guinea,_ pp. 17, 54; Bernst. J.f. O. 1859, p. 118 (nidific.) ; Jerd. 
+Guinea,_ pp. 17, 54; Bernst. J.f.O. 1859, p. 118 (nidific.) ; Jerd. 
 B. India, p. 182 (1862); Rosenb. Nat. Tijdschr. Nederl. Ind. xxv. 
-p. 234 (18u3j; Scl. P. Z. S. 1863, p. 212'(S. Borneo); id. J.f. O. 
+p. 234 (18u3j; Scl. P. Z. S. 1863, p. 212'(S. Borneo); id. J.f.O. 
 1864, p. 120 (Waigiou) ; Finsch, New-Guinea,^. 162 (1865) ; Pelz. 
 Reis. Novara, Vo'g. p. 39, (Java) (1865); Gray, Ann. fy Mag. Nat. 
 Hist. 1866, xvii. p. 118 ; id. Hand-l i. p. 65, no. 746 (1869) ; Ler/ge, 
@@ -37885,7 +37885,7 @@ Ann. Mus. Civ. 1879, p. 647 (Kei); id. Orn. Papuas. i. p. 544
 (1880); id. Agg. Orn. Pap. i. p. 63 (1889); Tristr. Ibis, 1880, 
 p. 246 (Salomon Is., corr.); Sharpe, Journ. Linn. Soc, Zool. xvi. 
 p. 430 (1880); A.B. Meyer, Abbild. Vogelsh. pi. 46. fig. 2 (1883) ; 
-id. Zeitschr. ges. Orn. 1884, p. 278; W. Bias. J.f. O. 1884, p. 217 
+id. Zeitschr. ges. Orn. 1884, p. 278; W. Bias. J.f.O. 1884, p. 217 
 (S.E. Borneo); Kutter, J.f O. 1885, p. 346 (eggs); Finsch $ 
 Meyer, Zeitschr. ges. Orn. 1886, p. 14 (.New Guinea); Hartert, 
 J.f O. 1889, p. 359 (N.E. Sumatra); Tristr. Ibis, 1889, p. 556; 
@@ -38370,7 +38370,7 @@ sk. Layard).
 
 7. CoHocalia troglodytes. 
 Collocalia troglodytes, Gray, Gen. B. pi. 19 (1845); id. Hand-l. i. 
-p. 65 (1809); #M. P. 2. & 1883, p. S34; Slartens, J.f. O.1866, 
+p. 65 (1809); #M. P. 2. & 1883, p. S34; Slartens, J.f.O.1866, 
 p. 18; i?/>. Compt. Mend. xli. p. 977; Ptf/z. i?me Novara, Yog. 
 p. 40 (1805); JYalden, Trans. ZooL Sac. ix. p. 158 (1875); Tweedd. 
 P. Z. S. 1877, p. 823 (Mindanao); Sharjje, Trans. Linn. Soc. i. 
@@ -38883,9 +38883,9 @@ Macropteryx klecho, Gray, List Gen. B. p. 8 (1840); Blyth7 Cat. B.
 Mus. As. Soc. Beng. p. 87 (1849); Set R. Z^S. 1883, p. 212. 
 Dendrochelidon klecho, Boie, Isis, 1844, p. 165 ; Bp. Consp. i. p. 66 
 (1850) ; Horsf. # Moore, Cat. B. Mus. E. I Comp. i. p. 110 (1854) j 
-Gould, B. Asia, i. pi. 22 (1859); Bemst. J.f. O. 1859, p. 183, 
-pi. ii. (nest and eggs); id. J.f. O. 1860, p. 268; Cab. § Heine, 
-Mus. Hem. iii. p. 83 (1860); %ScZ. P. Z. S. I860, p. 616; id. J.f. O. 
+Gould, B. Asia, i. pi. 22 (1859); Bemst. J.f.O. 1859, p. 183, 
+pi. ii. (nest and eggs); id. J.f.O. 1860, p. 268; Cab. § Heine, 
+Mus. Hem. iii. p. 83 (1860); %ScZ. P. Z. S. I860, p. 616; id. J.f.O. 
 1867, p. 140; Gray, Hand-L 1. p. 64 (1869). 
 
 Dendrochelidon 
@@ -39029,14 +39029,14 @@ Macropteryx mystacea, S. Mull. Verh. Land-en Volhenh. p. 110
 (1839-44); Salvad. Ann Mus. Civ. Gen. x. pp. 130, 311 (1877) 5 
 id. P. Z. S. 1878, pp. 81, 95; id. Orn. Papuasia, i. pp. 537, 538 
 (1880); A. B. Meyer, Zeitschr. ges. Orn. 1884, p. 278 (Ostind. 
-Arch.); id. ibid. 1886, pp. 14, 34; Nehrkom, J.f. O. 1885, p. 32 j 
+Arch.); id. ibid. 1886, pp. 14, 34; Nehrkom, J.f.O. 1885, p. 32 j 
 Guillem. P. Z, S. 1885, pp. 569, 630. 
 
 Dendrochelidon mystacea (-us), Boie, Isis, 1844, p. 166; Bp. Consp. 
 
-i. p. 66 (1850); Gould, B. Asia, i. pi. 24 (1859); Bemst. J.f. O. 
+i. p. 66 (1850); Gould, B. Asia, i. pi. 24 (1859); Bemst. J.f.O. 
 1859, p. 183; Cab. § Heine, Mus. Hein. iii. p. 82 (1860); Wall 
-P. Z. S. 1863, p. 22 ; Rosenb. J.f. O. 1864, p. 117; Set. P. Z. S. 
+P. Z. S. 1863, p. 22 ; Rosenb. J.f.O. 1864, p. 117; Set. P. Z. S. 
 1865, pp. 596, 616; id. J.f O. 1867, p. 140; Gray, Hand-l. i. 
 p. 65 (1869); A. B. Meyer, Sitzb. h. Ak. Wissensch. Wien, ixx. 
 p. 218 (1874); Salvad. Ann. Mus. Civ. Gen. viii. p. 372 (1876); 
@@ -39104,7 +39104,7 @@ Dendroehelidon eomatus (-a),^e, hu, lb44, •P;!«. '¥'<•»$:£
 
 
 • v 6(5 (1850) ; GWrf, •»• -4«w, l. pi. 26 (1859); Cab. $ Jlime, 
-fc &fo i i. p. 82 (18G0); Scl. 1\ Z. S. 18(15, p. 017; ul. J.f. O. 
+fc &fo i i. p. 82 (18G0); Scl. 1\ Z. S. 18(15, p. 017; ul. J.f.O. 
 1867 Vlil Gray, EaJ-l i. p. 05 (1800); &r/«i& tTee-Ihr^, 
 
 Si 47 (Malay,Penins.)'(1879); S^ f , /to, If*, p. 414 (Bor^o) 
@@ -39119,7 +39119,7 @@ Tram. Linn. Soc. ser. 2, i. p. 319 (Pb ihppmes)(i« - J, i c
 
 P. Z. 8.1877, p 828 (Mindanao):; &fo.G*tte« . <*M^9, 
 (1882); Oaies, J?.Burmah, n. p. 14 (1884) ,. nmterT,^.J.V. , 
-p 401 (Perakj ; id. J.f. O. 185)1, p. 295 (Mmdoro). 
+p 401 (Perakj ; id. J.f.O. 185)1, p. 295 (Mmdoro). 
 Adult nude. Lores deep black;_ forehead crow*nape throat, 
 sides of head, upper and under wmg-covcrts metallic blue, a lew 
 
@@ -39807,7 +39807,7 @@ pi. 148 (1833); Gould, B. Fur. ii. pi. 51 (1837) ; Zander, Voy.
 Mecklenb. p. 185 (1838) ; Nitzseh, Pterylogr. p. 124 (1840); Keys, 
 fy Bias. Wirb. Fur. pp. xxxiii & 146 (1840); Miihle, Orn. Griech. 
 p. 28 (1844); Smith, III. Zool. S. Afr. B pi. 102 ^1845) ; Bp. 
-Consp. i. p. 59 (1850); A. F. Brehm, J.f. O. 1853, p. 452 (X.O.A£
+Consp. i. p. 59 (1850); A. F. Brehm, J.f.O. 1853, p. 452 (X.O.A£
 t\); Heugl. Ibis, 1859, p. 339 (Red Sea); Powys, Ibis, 1860, 
 p. 236 (Ionian Is.); Linderm. Voy. Griech. p. 28 (I860); Cab. § 
 Heine, Mus. Hein. ill. p. 88 (1800); Tristr. Ibis, 1362, p. 278 
@@ -40578,7 +40578,7 @@ Nouv. Diet, x- p. 233 (1817) ,• Gray, List Fissirostr. Brit. JMus.
 
 p. 7 (1848) ; id. Hand-l i. p. 56 (1869) j Bp. Consp. i. p. 60 
 (1850) ; Cass. Cat. Caprim. Ac. Phil. no. 4 (1851); Cab.$ Heine, 
-Mm. Hein. iii. p. 89 (1860); Koenig-Warth. J.f. O. 18G8, p 387 
+Mm. Hein. iii. p. 89 (1860); Koenig-Warth. J.f.O. 18G8, p 387 
 (nidif.); Sharpe, ed. Bayard's B. S. Afr. p. 84 (1875); Salvin, Cat. 
 Strickl. Coll p. 377 (1882). 
 Caprimulgus 
@@ -42391,7 +42391,7 @@ Bogos); Finsch $ Earth Tog. O.-Afr. p. 120 (1870); Bkmf.
 Geol # Zool. Abyss, p. 337 (1870 j ; Fin#c/i, Tram. ZuoL &JC. vii. 
 
 p. 211 (1870; Abyssinia); An tin. <| Salmi. Ann. Mm, Cir. 
-Gen. 1873, p. 432 (Bogos); Bohm, J.f. O. 1883, p. 17«; Srhtdow, 
+Gen. 1873, p. 432 (Bogos); Bohm, J.f.O. 1883, p. 17«; Srhtdow, 
 t c p. 352 (Inter. E. Africa); Salvad. Ann. Mm. Civ. (ten. xxi. 
 p. 264 (1884); Radde, Orn. Cauccw. p. 21)5 (1884 ; Tiflis). 
 Oaprimulgus einnaniomeus, Sharpe, Ibis, 1871, p. 414 (Lugo*, W. 
@@ -42673,7 +42673,7 @@ id. Ibis, 1802, p. 280.
 
 Caprimulgus infufecatus, Cretzsclmi., Pilpp. Ail p. 0, pi. vi. (1826); 
 Pilpp. Syst. Uebers. p. 21 (1845); Bp. Consp. i. p. 59 (1K30) ; 
-Heugl Syst. Uebers. p. 21 (1856); id. J.f. O. Ibtj4, p. 244. 
+Heugl Syst. Uebers. p. 21 (1856); id. J.f.O. Ibtj4, p. 244. 
 
 Caprimulgus poliocephalus, Heugl (nee Pupp.\f Ibia, lb'M7 p. 33i). 
 
@@ -42867,7 +42867,7 @@ p. 22 (1845); Bp. Consp. L p. 60 (1850); Malh. Faun. Ormth.
 Alger, p. 9 (1855); Loche, Cat. Mamm. et Ois. Alger, p. 97 
 (1858); id. Expl Sol Alger., Ois. ii. p. 105 (1867) ; Taylor, Ibis, 
 1859, p. 46 (Egypt); Adams, Ibis, 1864, p. 13 (Egypt) ; Koenig-
-Warth. J.f. O. 1868, p. 366 (nidific.) ; Shelley, Ibis, 1871, p. 47 ; 
+Warth. J.f.O. 1868, p. 366 (nidific.) ; Shelley, Ibis, 1871, p. 47 ; 
 Severtz. J. f. 0.1875, p. 179. 
 Caprimulgus arenicolor, Severtz. Ibis, 1875, p. 491 (Turkestan) 
 (type examined); Dresser, Ibis, 1876, p. 190; Seek IS£s,1877,p. 163. 
@@ -43344,7 +43344,7 @@ Carolina); Hives, torn, cit p. 156; Lloydt Auk, 1887, p. 191 (W.
 Texas); Richmond, Auk, 1888, p. 21; Chapman, Auk, 1888, p. 272 
 (Florida) ; Evermam, Auk, 1889, p. 2*2; Cory, Aide, 1889, p. 270 
 (Porto Rico). 
-Caprimulgus vociferous, Koenig-Warth. J.f. O. 1808, p. 309. 
+Caprimulgus vociferous, Koenig-Warth. J.f.O. 1808, p. 309. 
 
 Adult male. Crown ashy, minutely sprinkled with dusky, very 
 narrowly streaked with black on the sides and very broadly in the 
@@ -43844,7 +43844,7 @@ a, $ ad. sk. Tizimin, Yucatan, Jane 10 (G. Salvin-Cfodman Coll.
 F. Gaumer). (Typ« of the sped* s.) 
 39. Caprimulgns bruotatus. 
 Oaprimulgus binotatus, Bp. Consp. 1. p. 60 (18-50, ex Temm. MS.); 
-Marti J.f. O. 1855, p. 355; id. Orn. W.-Afr. p. 22 (1857). 
+Marti J.f.O. 1855, p. 355; id. Orn. W.-Afr. p. 22 (1857). 
 
 Adult male (?). Colour deep brownish black; head, neck, back, 
 rump, upper tail-coverts, wing-coverts, throat, breast, and sides of the 
@@ -45170,7 +45170,7 @@ Kngouleveiit a Lunettes on Ilaleur, Buff. Hist. Nat. Ois. vi. p. 543
 Ohordeilos americanus, Bp. Camp. i. p. 03 (1850). 
 Siphonorhis americanus, ScL R Z. 8. 1861, p. 77; id. Cat. Am. B. 
 
-p. 282 (1802) j id. I\ Z. 8. 1866, p. 144; id. J.f. O. 1867, p. 277; 
+p. 282 (1802) j id. I\ Z. 8. 1866, p. 144; id. J.f.O. 1867, p. 277; 
 Alhrecht J. f. 0. 1862, p. 199; March, Pr. Ac. Nat. 8c. Phil. 
 1863, p. 286; Gray, Iland-l. B. i. p. 60 (1869); Sol <$• Salv. 
 Nomeiirl. A v. Neotrop. p. 97 (1873); A. <$ JE. Newt Handb. 
@@ -45295,7 +45295,7 @@ Cab. §* Heine, Mus. Mem. iii. p. 90 (ISiSO); Boeaye, Jurn. lisk
 1808, p. 133 (Angola); Gray, Rand-l L p. 00 (lbU9); £&<?/'. 4* 
 BucU. Ibis, 1872, p. 290; Peh. Ibis, 1873, p. 107; Jik^/. Or//. 
 N,0.-Afi\ I p. 137 (1874); Sato, 6W. ^m-E Coil. p. 37b 
-(1882); Eartert, J.f. 0.1880, p. 591 (Haussa); Bekhen. J.f. O. 
+(1882); Eartert, J.f. 0.1880, p. 591 (Haussa); Bekhen. J.f.O. 
 1891, p. 381 (Togo; egg), 
 
 Adult male. Above brown, more or less distinctly mottled with 
@@ -45466,7 +45466,7 @@ Capriniulgus climacurus, Vieill. Gal. Ois. i. p. 19-5, pi. 122 (1825;
 Senegal); Keys. £ Bias. Wirb. Eur. pp. xxxiv, 14b' (1840); A. JS. 
 JBrehm, Jf. 0. 1853, p. 452 (X.E. Africa); TMenem. Fortpfl. all. 
 
-Vog. pi. xlii. fig. 19 (1856, epg); Koenig-Warth. J.f. O. 1868, 
+Vog. pi. xlii. fig. 19 (1856, epg); Koenig-Warth. J.f.O. 1868, 
 
 p. 377 (nidifieat). 
 Caprimulgus longicaudis, Steph. Gen. Zool. xiii. p. 89 (1820). 
@@ -46634,7 +46634,7 @@ Subsp. a. Chordeiles henryi.
 Chordeiles henryi, Cass, llkistr. B. Calif. $ Tex. i. p. 233 (1855); 
 
 p. 37 (1888), 
-Caprimulgus henryi, Koenig-Warth. J.f> O. 1868, p; 376. 
+Caprimulgus henryi, Koenig-Warth. J.f.O. 1868, p; 376. 
 Chordeiles popetue, var. henryi, Bair£7 Brew. § liidgic. N. Am.B . 
 ii. p. 404 (1874); Merrill, Proc. U.S. Nat. Mm. L p. 140 (1878) • 
 £eldmg,tc. p. 427 (1879). 
@@ -46965,7 +46965,7 @@ Gray, JELand-l. i. p. 61 (1869); Salvin, Cat. StriekL Coll p. 375
 p. 429; Sennett, Auk, 1887, p. 27; Cooper, t. c. p. 92; Itidqw. 
 Man. N. A. B. p. 301 (1887) ; Lloyd, Auk, 1888, p. 191; Safmnf 
 Ibis, 1889, p. 308 (Cozumel). 
-Caprimulgus texensis, Koenig-WariJi. J.f. O. 1868, p. 37£>. 
+Caprimulgus texensis, Koenig-WariJi. J.f.O. 1868, p. 37£>. 
 Chordeiles acutipennis, var. texensis, Baird. Brew. |- Bidgia. K A 
 
 B. ii. p. 406 (1874); Merrill, Proc. TJ.8* Nat. Mm. i. p. 146 
@@ -47184,7 +47184,7 @@ Range. That of the single species.
 1. Po&ager nacunda. 
 Nacunda, Azara, Apunt. no. 312 (1805). 
 Caprimulgus nacunda, Vieill Nouv. Diet. x. p. 240 (1817; ex Azara); 
-Koenig-Warth. J.f. O. 1868, p. 372 (nidihe). 
+Koenig-Warth. J.f.O. 1868, p. 372 (nidihe). 
 Caprimulgus campestris, Licht. Verz. JDoubl. p. 59 (1823; San 
 Paulo). 
 Caprimulgus diurnus, Temm. PL Col. 182 (1823): Wied, Beitr. iii. 
@@ -47720,7 +47720,7 @@ v. p. 184 (1851); id. Cat. Caprim. Mus. Phil. (1851); id. U. S. Bxpl
 ii. p. 375 (1856); Cab. Sr Heine, Mus. Hein. iii. p. 94 (1860) ; Bel. 
 P. Z. S. I860, p. 128; Pelz. Orn. Bras. p. 10 (1867); Gray, 
 Handrl. i. p. 55 (1869); Scl. $ Sah. Nomencl. Av. Neotr. p. 95 
-(1873); Cab. J.f. O. 1874, p. 226 (Rio); Salvin, Cat. Strickl. Coll. 
+(1873); Cab. J.f.O. 1874, p. 226 (Rio); Salvin, Cat. Strickl. Coll. 
 p. 374 (1882). 
 Adult. Upper surface rufous-brown, with narrow deep brown 
 longitudinal shaft-stripes and vermiculations ; top of the head deep 
@@ -48593,7 +48593,7 @@ Colls.
 Podargus javensis, Mors/. Trans. Linn. Soc. xiii. p. 141 (1851). 
 Podargus cornutus, Temm. PL Col 159 (1823; Sumatra); BcMeg. 
 
-J.f. O. 1856, p. 400; id. Nederl. Tifdsckr. Dierh.m. p. 341, part. 
+J.f.O. 1856, p. 400; id. Nederl. Tifdsckr. Dierh.m. p. 341, part. 
 (1866). 
 Podargus javanensis, 
 JSorsf. Zool Mes. Jam, pi. 37 (1824); Btyth, 
@@ -48997,7 +48997,7 @@ Halmahera); Cab. $ Heine, 31ns. Hein. iii. p. 123 (1860); Scl.
 
 
 P. Z. S. 1863, p. 212; Gray, Hand-l. i. p. 54 (1869). 
-Podargus crinifrons, ScWg. J.f. O. 1856, p. 460; id. Ned. Tijdschr. 
+Podargus crinifrons, ScWg. J.f.O. 1856, p. 460; id. Ned. Tijdschr. 
 Bierh iii. p. 340 (1866). 
 Batrachostomus psilopterus, Gray, P. Z. 8. I860, p. 345 (Batchian) ; 
 id. Hand4. i. p. 54 (1869) ; Scl. P. Z. 8. 1863, p. 212. 
@@ -49296,7 +49296,7 @@ Caprimulgus nova3~kollandia3, Lath. Ind. Orn. ii. p. 588 (1790) ; id.
 Gen. Syn. Suppl ii. p. 261 (1801); Steph. Gen. Zool x. p. 170 
 (1817) ; Vieill Nouv. Diet x. p. 234; id. Enc. M&th. p. 537 
 (1823); Less. Trotted Orn. p. 265 (1831); Thienem. Eortpfi, ges. 
-yog. pi. xlii. fig. 22 (1854; eggs); Koenig-Warth. J.f. O. 1868, 
+yog. pi. xlii. fig. 22 (1854; eggs); Koenig-Warth. J.f.O. 1868, 
 
 p. 383 (nidification). 
 Banded Goatsucker, Lath. Gen. Syn. Suppl. ii. p. 262, pi. 136 (1801); 
@@ -49465,7 +49465,7 @@ tig. 30 (1859) (anatom.); Cab. fy Heine, Mus. Hein. iii. p. 95
 654 
 STEAT0RNITHEDJ3. 
 
-Trinidad, p. G5 (1866); Eoemg-Warih. J.f. O.1868, p. 384 (esrpr); 
+Trinidad, p. G5 (1866); Eoemg-Warih. J.f.O.1868, p. 384 (esrpr); 
 Scl. et Salv. P. Z. 8 1868, p. 165, 1870, p. 779 (Merida). I87S, 
 
 p. 139 (Catamarca), 1879, p. 532 (Antioquia) ; Goering, Vargcma, 

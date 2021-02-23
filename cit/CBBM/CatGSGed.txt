@@ -295,7 +295,7 @@ Less. 1831, nec Linn. 1766. Diplodon, Nitzsch, 1840.
 f61. Spizia/teryx, Kaup, 1851. (Harpagus circumcinctus, 
 I Kaup.) 
 4^*62. Ierax, Vig. 1824, nec Leach, 1816. Ilierax, Cuv. 1829. 
-■ Jerax, et Zerax, Kaup, 1851. (Falco cserulescens, Linn.) 
+■ Jerax, et Zerax, Kaup, 1851. (Falco caerulescens, Linn.) 
 • Not employed after this date. The type was Falco frontalis , Daud. 
 b Not employed in 1816 nor in 1818. 
 /p 
@@ -1875,7 +1875,7 @@ Wits.)
 *624. Trichas, Sw. 1827, nec Glog. 1827. Geothlypis, Cab. 
 1847. (Turdus trichas, Linn.) 
 625. Myiothlypis, Cab. 1850. (Trichas nigricristatus,La/r.) 
-*626. Zosterops, Vig. fy Horsf. 1825. (Certhia cserulescens, 
+*626. Zosterops, Vig. fy Horsf. 1825. (Certhia caerulescens, 
 tl Lath.) 
 627. Spirops et Speirops, Reichenb. 1851. (Zosterops lugu- 
 bns, Hartl.) 

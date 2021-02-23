@@ -2468,7 +2468,7 @@ Contr. Orn. 1852, p. 124; Heugl Sy&t. Uebers. p. 17 (1856) ;
 Horsf. $ Moore, Cat. B. Mus. E. I. Co. ii. p. 571 (1856); Hartl 
 Orn. W.-Afr. p. 30 (1857); Cab. Sr Heine, Mus. Hein. Th. ii. 
 p. 117 (1860); Hartl 
-J.f. O. 1861, p. 104; Brehm, Reis. Habesch, 
+J.f.O. 1861, p. 104; Brehm, Reis. Habesch, 
 p. 2J0 (1863); Antin. Cat. descr. Ucc. p. 26 (1864); Schl. Mus. 
 Pays-Bas, Coraces, p. 134 (1867); Gray, Hand-l B. i. p. 76, 
 no. 905 (1869); Blanf. Geol $ Zool Abyss, p. 319 (1870); Finsch, 
@@ -2589,15 +2589,15 @@ iii. p. 34 (1869); Sharpe, P. Z. 8. 1869, p. 569; Layard, Ibis, 1869,
 p. 364; Gray, Hand-l. B. i. p. 76, no. 904 (1869); Finsch 8f 
 Hartl. Yog. Ostafr. p. 154 (1870); Sharpe, Ibis, 1871, p. 154; 
 Gumeyin Anderss. B. Dam.-Ld. p. 53 (1872); Buckley, Ibis, 1874, 
-p. 364; Barratt, Ibis, 1876, p. 198; Cab. J.f. O. 1878, p. 234; 
-Fischer $ Reichen. J.f. O. 1878, p. 254; Ayres, Ibis, 1879, p. 290; 
+p. 364; Barratt, Ibis, 1876, p. 198; Cab. J.f.O. 1878, p. 234; 
+Fischer $ Reichen. J.f.O. 1878, p. 254; Ayres, Ibis, 1879, p. 290; 
 Bocage, Orn. Angola, p. 84 (1881); Sharpe in Oates' Matabele-
 Land, p. 302 (1881); Shelley, P, Z. 8. 1881, p. 566; id. P. Z. S 
 1882, p. 302; id. Ibis, 1882, p. 243; Fischer, Zeitsch. i. p. 359 
 (1884); Sharpe, ed. Bayard's B. 8. Afr. pp. 104, 805 (1884); 
-Boehm, J.f. O. 1885, p. 57; Fischer, J. f. O. 1886, p. 127; Ayres, 
-Ibis, 1886, p. 284, 1887, p. 50; Matschie, J.f. O. 1887, p. 152; 
-Scludow, t.c. p. 236; Tristr. Ibis, 1889, p. 225; Emin, J.f. O. 
+Boehm, J.f.O. 1885, p. 57; Fischer, J. f. O. 1886, p. 127; Ayres, 
+Ibis, 1886, p. 284, 1887, p. 50; Matschie, J.f.O. 1887, p. 152; 
+Scludow, t.c. p. 236; Tristr. Ibis, 1889, p. 225; Emin, J.f.O. 
 1891, p. 59 (Ugogo). 
 Long-tailed Eoller, Lath. Gen. Syn. i. pt. 1, p. 409 (1781). 
 Coracias angolensis, Shaw, Gen. Zool. vii. p. 394, pi. 51 (1809). 
@@ -2863,7 +2863,7 @@ Coraces, p. 137 (1867, pt.); Gray, Hand-l. B. i. p. 75, no. 898
 (1809); Heugl. Orn. N.O.-Afr. i. p. 172 (1869); Blanf. Geol fy 
 Zool Abyss, p. 319 (1870) ; Finsch, Trans. Z. 8. vii. p. 221 (1870) ; 
 Hartl. Abhandl. not. Ver. Bremen, vii. p. 110 (1881; Muffoi): 
-llartert, J.f. O. 1886, p. 592. 
+llartert, J.f.O. 1886, p. 592. 
 Adult male. General colour above olivaceous, the head not like 
 the back, but clear reddish lilac like the under surface; a white 
 nuchal patch; lores and base of forehead as well as a broad eyebrow 
@@ -3288,8 +3288,8 @@ Mand-l B. i. p. 7% no. 911 (1869) ; Sharpe, Ibis, 1869, p. 193 ; id.
 P. Z. S. 1869, p. 569; Blanf. Geol. § Zool. Abyss, p. 320 (1870); 
 Finsch, Trans. Z.S.viL p. 220 (1870); Sharpe, Ibis, 1871, p. 274; 
 Shelley § Buckley, Ibis, 1872, p. 286; TIssher, Ibis, 1874, p. 48; 
-Beichen. J.f. O. 1875, p. 14; Sharpe fy Bouvier, Bull. Soe. Zool. 
-France, i. pp. 39, 303 (1876) ; lieichen. J.f. O. 1877, p. 2; Ayres, 
+Beichen. J.f.O. 1875, p. 14; Sharpe fy Bouvier, Bull. Soe. Zool. 
+France, i. pp. 39, 303 (1876) ; lieichen. J.f.O. 1877, p. 2; Ayres, 
 Ibis, 1877, p. 342 ; Cab. J.f O. 1878, p. 234; Fischer ^ Beichen. 
 J.f. 0.1879, p. 343; Oust. N. Arch. Mus. (2) ii. Bull p. 71 (1879) ; 
 Bocage, Orn, Angola, p. 85 (1881); Gurney, Ibis, 1881, p. 124; 
@@ -3425,7 +3425,7 @@ Cass. Proc. Philad. Acad. 1859, p. 33; Hartl. J.f. 0.1861, p. 104;
 SM. Mus. Pays-Bas, Coraces, p. 143 (1867) ,* Gray, Hand-L B. i. 
 p. 76, no. 909 (1869); Sharpe, Ibis, 1870, p. 484, 1871, p. 278; 
 Shelley 8> Buckley, Ibis, 1872, p. 286; Ussher, Ibis, 1874. p. 49 ; 
-Reichen. J.f. O. 1875, p. 14; ScL Ibis, 1876, p. 247; Oust. N. 
+Reichen. J.f.O. 1875, p. 14; ScL Ibis, 1876, p. 247; Oust. N. 
 Arch. Mus. (2) ii. p. 130 (1879); Biittik. Notes Leyden Mus. vii. 
 p. 159 (1865). 
 Oolaris gularis, Wagler, Syst. Av. Colaris, sp. 3 (1827); Reichenb. 
@@ -3891,7 +3891,7 @@ Handb. B. Austr. l. p. 119 (1865); Pete'. Reis. Novara, Tog. p. 42
 (1865, pt.); Ramsay, Ibis, 1866, p. 327 ; 8el. P. Z. 8.1869, p. 121; 
 Gray, Hand-l. B. i. p. 76, no. 907 (1869); Elliot, Ibis, 1871, p. 204; 
 Ramsay, P. Z. 8. 1875, p. 582; 8cl. Ibis, 1876, p. 247 ; Cab. fy 
-Reichen. J.f. O. 1876, p. 323; 8alvad. $ DAlbert. Ann. Mus. 
+Reichen. J.f.O. 1876, p. 323; 8alvad. $ DAlbert. Ann. Mus. 
 Genov. xiv. p. 53 (1879); 8ahad. 0)-n. Papuasia etc. i. p. 503 
 
 * This description is so inaccurate that it is impossible to identify it with 
@@ -4618,11 +4618,11 @@ Consp. I p. 163 (1850); Cab.fy Seine, Mus. Hein. Tli. ii. p. 135
 Antin. Cat. descr. TJcc. p. 31 (1864). 
 Merops minulus, Cuvier, Begne An. i. p. 422 (1829). 
 Merops pusilla, Stoains. B. TV. Afr. ii. p. 89 (1837). 
-Merops minullus, A. E. Brehm, J.f. O. 1853, p. 75. 
+Merops minullus, A. E. Brehm, J.f.O. 1853, p. 75. 
 Merops minutus (nee V.), Finsch, Trans. Z. 8. vii. p 225 (1870); 
 
 
-id. <$• Hartl. Vog. Ostafr. p. 188 (1870, pt.); Reichen. J.f. O. 
+id. <$• Hartl. Vog. Ostafr. p. 188 (1870, pt.); Reichen. J.f.O. 
 1875, p. 18. 
 Melittophagus pusillus, Dresser, Monogr. Merop. p. Ill, pi. 25 
 (1885, pt). 
@@ -4712,7 +4712,7 @@ Nat. Guepiers, iii. p. 33, pi. 7 (1807).
 Merops 
 variegatus, Vieill. N. Diet, d'Hist. Nat. xiv. p. 25 (1817) ; 
 Marti Orn. W.-Afr. p. 39 (1857) • Cass. Proc. Philad. Acad 
-1859, p. 34: Marti. J.f. O. 1861, p. 106 ; Reichen. J.f. O. 1875, 
+1859, p. 34: Marti. J.f.O. 1861, p. 106 ; Reichen. J.f.O. 1875, 
 
 p. 18; Rocage, Orn. Angola, p. 91 (1877). 
 Melittophagus sonnimi, Roie, Isis, 1828, p. 316 (e.v Levaill); Pp. 
@@ -4771,7 +4771,7 @@ Merops, p. 11 (1863).
 Merops lafresnayii, GuSrin, Rev. Zool. 1843, p. 322; Gray, Gen. B. 
 
 i. p. 86 (1846); Guirin in Ferr. $ Galin. Voy. Ahjss. iii. p. 243, 
-pi. 15 (1847); Brehm, Reis. Habesch, p. 210 (1803); Heugl. J.f. O. 
+pi. 15 (1847); Brehm, Reis. Habesch, p. 210 (1803); Heugl. J.f.O. 
 1864, p.355; "" "" " "~ '""""" """ ' 
 Orn. N.O.~Afr. 
 Zool. Ah/ss. p. 
@@ -4961,7 +4961,7 @@ Hartl Abhandl not. Ver. Bremen, vii. p. Il l (1881).
 SphecoDax frenatus, Cab. $ Heine, Mm. Hein. Th. ii. p. 134 (1860). 
 Melittophagus bullocki (nee V.), Antin. Cat. deser. Uec. p. 31 
 
-(1864); Hartm. J.f. O. 1866, p. 204 j Dresser, Monogr. Merop. 
+(1864); Hartm. J.f.O. 1866, p. 204 j Dresser, Monogr. Merop. 
 pi. 32 (1885). 
 Melittophagus frenatus, Gray, Hand-l. B. i. p. 101, no. 1226 (1869) : 
 Pelz. Sitz. zool-bot Ges. Wien, xxxi. p. 143 (1881). 
@@ -4979,7 +4979,7 @@ a. Ad. sk Sennaar (Kotschj). Sharps Coll.
 Merops bullockii, Vierth. Naum. 1852, p. 41 (pi). 
 
 Merops bolesla^ Jd, Pels. Sitz. k. Alcad. Wien, xxx. p. 320 (1858); 
-Hani. J.f. O. 1861, p. 107; Heugl. Orn. N.O.-Afr. i. p. 206 
+Hani. J.f.O. 1861, p. 107; Heugl. Orn. N.O.-Afr. i. p. 206 
 (1869). 
 
 Spheconax boleslavskii, 
@@ -5485,7 +5485,7 @@ Blepharomerops, Reickenb. t c. p. 82 M. persicus.
 Cosmaerops, Cab. §• Heine, Mus. Hein. Th. ii. p. 138 
 
 (1860) M. ornatus. 
-Bombylonax, Heine, J.f. O. 1859, p. 4'J4 M. breweri. 
+Bombylonax, Heine, J.f.O. 1859, p. 4'J4 M. breweri. 
 Archimerops, Ilartl. Arck. f. Naturg. xxvi. p. 90 
 
 (1860) M. breweri. 
@@ -6226,7 +6226,7 @@ Dixon, t. c. p. 560 j Seeb. Ibis, 1883, p. 21; Murray, Vertebr. Faun.
 Sind, p. 108 (1884) ; Salvad. Ann. Mm. Civic. Genov. (2) i. p. 108 
 (1884); Dresser, Monogr. Merop. p. 03, pi. 16 (1884); Swinh. 8f 
 Barnes, Ibis, 1885, p. 61; Aijres, t. c. p. 343; St. John, Bis, 1889, 
-p. 157; Reichen. J.f. O. 1889, p. 110; Sharpe, Tr. Linn. Soc. (2) 
+p. 157; Reichen. J.f.O. 1889, p. 110; Sharpe, Tr. Linn. Soc. (2) 
 Zool v. pt. 3, p. 84 (1889); Oates, ed. Hume's Nests & Eggs hid. 
 i?.iii.p.65(1891). * JJ 
 Merops 
@@ -8178,11 +8178,11 @@ Hein. Th. ii. p. 141 (1860); Schl. Mus. Pays-Bas, Merops, p. 7
 i. p. 100, no. 1213 (1869); Heugl. Orn. N.O.-Afr.i. p. 199 (1869), 
 iv. pi. lxv. (1870) ; Blanf. Geol. $ Zool. Abyss, p. 321 (1870); 
 Finsch, Trans. Z. S. vii. p. 321 (1870); id. $ Hartl. Tog. Ostafr. 
-p. 182 (1870) ; Fischer $ Beichen. J.f. O. 1878, p. 256; Shelley, 
+p. 182 (1870) ; Fischer $ Beichen. J.f.O. 1878, p. 256; Shelley, 
 P. Z. S. 1881, p. 569; Hartl. Abhandl. nat Ver. Bremen, vii 
 p. Ill (1881) ; Gurney, Ibis, 1882, p. 72; Forbes, Ibis, 1883, 
 pp. 519, 527; Shellei/, t c. p. 556; Dresser, Monogr. Merop. p. 89, 
-pi. 20 (1884); Shelley, Ibis, 1885, p. 397 ; Hartert, J.f. O. 1886, 
+pi. 20 (1884); Shelley, Ibis, 1885, p. 397 ; Hartert, J.f.O. 1886, 
 p. 592; Oust Bibl. haut Etudes, xxxi. Art. 10, p. 4 (1886); 
 Shelley, Ibis, 1888, p. 296. 
 ? Merops brasiliensis, Gm. Syst Nat i. p. 462 (1788). 
@@ -10106,7 +10106,7 @@ pt.); Bp. Consp. Vol. Anis. p. 10 (1854, pt.); Hartl. Orn. Westufi-.
 p. 37 (1857) ; Grill, Zool. Antechn. pp. 11, 46 (1858) ; Cass. Proc. 
 Philad. Acad. 1859, p. 34 ; Tristr. Ibis, 1859, p. 27; Gurney, t. c. 
 p. 245; Cab. $ Heine, Mus. LTein. Th. ii. p. 148 (1860); Hartl. 
-J.f. O. 1861, p. 105 ; Allen, Ibis, 1862, p. 360 ; Adams, Ibis, 1864, 
+J.f.O. 1861, p. 105 ; Allen, Ibis, 1862, p. 360 ; Adams, Ibis, 1864, 
 pp 15, 237 ; Kirk, t. c. p. 235 ; Lm/ard, B. S. Afr. p. 67 (1867) ; 
 Taylor, Ibis, 1867, p. 56 ; Degl. 8f Gerbe, Orn. Eur. i. p. 177 (1867); 
 Loche, Expl. Sci. AlgSr., Ois. ii. p. 93 (1867); Gray, Hand-l B. 
@@ -10122,14 +10122,14 @@ pi. 10 (1871, pt.); id. P. Z. S. 1871, p. 003; Saunders, Ik's, 1871,
 p. 07 ; Gumey in Afiderss. B. Dam.-Ld. p. 59 (1872) ; Shelley. B. 
 Egypt, p. 107 (1872); id. $ Buckley, Ibis, 1872, p. 286; Uljier, 
 ibis, 1874, p. 79; Buckley, t. c. p. 304; Dresser, B. Eur. v. p. 125, 
-pi. 291 (1873) ; Shelley, Ibis, 1875, p. 09; Reichen. J.f. O. 1875, 
+pi. 291 (1873) ; Shelley, Ibis, 1875, p. 09; Reichen. J.f.O. 1875, 
 pp. 16, 49 ; Sharpe, ed. Bayard's B. S. Afr. pp. 110, 607 (1875-84) ; 
 id. § Bouvier, Bull. Sue. Zool. France, i. p. 40 (1870); Blanf. East. 
 Pers. ii. p. 122 (1870); Reichen. J.f 0.1STT, p. 20; Fischer, 
 t. c. p. 425 ; Socage, Orn. Auc/ola, p. 97 (1877) ; Danf. Ibis, 1877, 
-p. 202; Cab. J.f. O. 1878, p. 235; Fischer <§• Reichen. f.c.p. 253; 
+p. 202; Cab. J.f.O. 1878, p. 235; Fischer <§• Reichen. f.c.p. 253; 
 Fischer, t. c. p. 289; Nichols. P. Z. S. 1878, p. 355; Fischer, 
-J.f. O. 1879, p. 293; Oust. Nouv. Arch. Mus. (2) ii. p. 80 (1879); 
+J.f.O. 1879, p. 293; Oust. Nouv. Arch. Mus. (2) ii. p. 80 (1879); 
 Ayres, Ifjis, 1880, p. 202; Sharpe in Oates1 Matabele-Land, App. 
 p. 306 (1831); Shelley, P. Z. S. 1881, p. 508; Solub $ Pelz. 
 Beitr. Orn. Sudafr. p. 04 (1882); Shelley, Ibis, 1882, p. 244; 
@@ -11097,7 +11097,7 @@ BO. 1185 (1869); Heugl Orn. N.O.-Afr. i. p. 186 ^1869); Finsch
 id. P.Z.S. 2870, p. 149; id. ed. LayartVs B. S. Afr. pp. Ill, 807 
 (1875-84) ; Ussher, Ibis, 1874, p. 49; Shelley, Ibis, 1875, p. 69; 
 Reiehen. J. f. 0. 1875, pp. 16, 49; Buckley, Ibis, 1876, p. 133; 
-Ayres, Ibis, 1879, p. 291 ; Fischer § Reiehen. J.f. O. 1870, p. 343 ; 
+Ayres, Ibis, 1879, p. 291 ; Fischer § Reiehen. J.f.O. 1870, p. 343 ; 
 Sharpe, in Oatrs' Matahele-Land, App. Birds, p. 307 (1881); Bo-
 cage, Orn. Angola, p. 98 (1881); Shelley, Ibk, 1882, p. 244; 
 Butler, Feilden, 8? Reid, Zool. 1882, p. 206 ; Ayres, Ms, 18847 
@@ -11316,7 +11316,7 @@ ii. p. 289 (1874) ; id. Bull. U.S. Nat. Mus. i. p. 30 (1875) ; Tacz.
 P. Z. S. 1877, p. 328 ; Sal $ Salv. P. Z. S. 1879, p. 534 ; iid. t. c. 
 p. 632 ; Solo. $ Godm. Ibis, 1880, p. 170; Nutting, Proc. U.S. Nat. 
 Mus. v. p. 399 (1882); id. op. cit. vi. pp. 375, 386, 394 (1883); Salv. 
-P. Z. S. 1883, p.. 426 ; Barroios, Auk, i. p. 26 (1884); Berl. J.f. O. 
+P. Z. S. 1883, p.. 426 ; Barroios, Auk, i. p. 26 (1884); Berl. J.f.O. 
 1884, p. 318; id. und Jheriny, Zeitschr. ges. Orn. ii. p. 160 (1885); 
 Salvin, Ibis, 1886, p. 60; Ridgio. Proc. U.S. Nat. Mus. ix. p. 160 
 (1886); Taez. Orn. Perou, iii. p. 100 (1886); Berl. J. /. O. 1887, 
@@ -11981,7 +11981,7 @@ Alcedo rubescens, Vieill. N. Diet. d'Hist. Nat. xix. p. 408 (1818).
 Alcedo vestita, Dumont, Diet. Sci. Nat. xxix. p. 272 (1823); Pucher. 
 
 
-Eev. et Mag. de Zool. 1853, p. 386; Hartl. J.f, O. 1855, p. 423. 
+Eev. et Mag. de Zool. 1853, p. 386; Hartl. J.f.O. 1855, p. 423. 
 
 Ceryle 
 amazona, Boie, Isis, 1828, p. 316; Gray, Gen. B. i. p. 82 
@@ -12001,11 +12001,11 @@ Soc. N. H. ii. p. 290 (1874) ; Scl. $ Salv. P. Z. S. 1875, p. 237;
 Lawr. Bull. U. S. Nat. Mus. pt. 4, p. 30 (1875) ; Scl. % Salv. 
 P. Z. S. 1879, pp. 534, 632 ; White, P. Z. S. 1883, p. 40; Bouc. 
 t. c. p. 453; Nutting, Proc. U.S. Nat. Mas. vi. p. 394 (1883); 
-Borrows, Auk, I p. 26 (1884) ; Berl. J.f. O. 1884, p. 318; id. $ 
+Borrows, Auk, I p. 26 (1884) ; Berl. J.f.O. 1884, p. 318; id. $ 
 Jhering, Zeitsch. ges. Orn, ii. p. 160 (1885); Ridgio. Proc. U.S. 
 Nat. Mus. ix. p. 161 (1880); Tacz. Orn. Perou, iii. p. 102 (1886); 
-Salv. Ibis, 1886, p. 60; Berl. J.f. O. 1887, pp. 22, 121; Scl. $ 
-Hudson, Argent Orn. ii. p. 27 (1889); Berl. J.f. O. 1889, p. 308; 
+Salv. Ibis, 1886, p. 60; Berl. J.f.O. 1887, pp. 22, 121; Scl. $ 
+Hudson, Argent Orn. ii. p. 27 (1889); Berl. J.f.O. 1889, p. 308; 
 Allen, Bull. Amer. Mus, N. II. ii. p. 101 (1889). 
 Ckloroceryle 
 amazona, Reiclienb. Handb., Alced. p. 26, Taf. 412. 
@@ -12270,7 +12270,7 @@ Orn. Bras. p. 23 (1871); Scl. § Salv. Nomencl Av. Neotr. p. 103
 (1873) ; iid. P. Z. S. 1873, p. 293; Lee, His, 1873, p. 133 ; Durnf. 
 Ibis, 1877, p. 185 ; Scl. # Salv. P. Z. S. 1879, p. 632 ; Salv. Ibis, 
 1880, p. 301; id. $ Godm. t. c. p. 174; Forbes, Ibis, 1881, p. 349 ; 
-Berlepsch, J.f. O. 1884, p. 318; id. # Jhering, Zeitschr. ges. Orn. 
+Berlepsch, J.f.O. 1884, p. 318; id. # Jhering, Zeitschr. ges. Orn. 
 ii. p. 160 (1885); Taos. Orn. Perou, iii. p. 105 (1886); Salv. Ibis, 
 E2 
 132 
@@ -15052,13 +15052,13 @@ Alcedo quadribrachys (nee Bp.), Verr. Bev. et May. Zool. 1851,
 
 p. 267; Strickl. Contr. Orn. 1851, p. 134, cum fig.; Cass. Cat. 
 Halcyon. Philad. Mm. p. 2 (1852); Hartl. Orn. Westafr. p. 34 
-(1857, pt.) ; Cass. Proc. Bliilad. Acad. 1859, p. 34; Heine, J.f. O. 
+(1857, pt.) ; Cass. Proc. Bliilad. Acad. 1859, p. 34; Heine, J.f.O. 
 3860, p. 187; Hartl. J.f O. 1861, p. 105; DuChaillu, Equat. 
 Africa, p. 472 (1861; ; Gray, Hand-l. B. i. p. 95, no. 1159 (1869) ; 
 Sharpe, Monoyr. Alced. p. 25, pi. 0 (1870, pt.) ; id. P. Z. S. 1871, 
 p, 603 ; Sharpe fy Bonvier, Bull. Soc. Zool. France, i. p. 31 (1876) ; 
 Bocage, Orn. Angola, p. 537 (1881); Sharpe, Journ. Linn. Soc. 
-v xvii. p. 485 (1884) ; Beichcn. J.f. O. 1887, p. 307, 1890, p. 116. 
+v xvii. p. 485 (1884) ; Beichcn. J.f.O. 1887, p. 307, 1890, p. 116. 
 Adult. Head, neck, cheeks, and scapulars rich ultramarine; the 
 whole of the back and upper tail-coverts rich cobalt; a small spot 
 in front of the eye and a longitudinal patch of feathers along the 
@@ -15136,7 +15136,7 @@ p. 83 (1878); Sharpe, P. Z. S. 1879, p. 329; id. Ibis, 1879, p. 248 ;
 Hume, Str. F. viii. pp. 50, 86 (1879); Salvad. Ann. Mus. Civ. 
 Genov. xiv. p. 193 (1879); Vorderm. Nat. Tijdsch: Nederl. Bid. 
 xli. p. 185 (1881) ; Kelham, Ibis, 1881, p. 381 : A. Midi. J.f. 0. 
-1882, p. 397 ; Blasius, J.f. O. 1883, pp. 213, 215; Nichols. Ibis, 
+1882, p. 397 ; Blasius, J.f.O. 1883, pp. 213, 215; Nichols. Ibis, 
 1883, p. 89; Blasius, Zeitschr. ges. Orn. hi. p. 94 (1886); Vorderm. 
 Nat. Tijdsihr. Nederl. Ind. xlvi. p. 11 (1886), xlix. p. 393 (1889); 
 Blasius] Ornis, 1888, p. 307; Sharpe, Ibis, lo90, pp. 18, 283. 
@@ -15659,7 +15659,7 @@ Sohl. Mm. Pays-Bas, Alced. p. 11 (1863) ; Kirk, Ibis, 1804, p. 325 ;
 Zai/ard, B. S. Afr. p. 65 (1807); Heiu/l. Orn. NO-Afr. i. p. 180 
 (1809); Gray, Hand-l. B. i. p. 96, no. 1166 (1H39); Fimch $ 
 Marti. Voy. Ostafr. p. 167 (1870) ; Reichen. J.f. 0. 1877, p. 20 ; 
-Cab. J.f. O. 1878, p. 235; Fischer % Reich, t.c. p. 255; Fischer, 
+Cab. J.f.O. 1878, p. 235; Fischer % Reich, t.c. p. 255; Fischer, 
 t. c. p. 285; id. J. f. 0. 1879, p. 293 ; Reichen. J. f. O. 1887, 
 p. 307. 
 Alcedo 
@@ -15896,7 +15896,7 @@ p. 325 ; Sharpe, Monoqr. Alced. p. 39, pi. 12 (1869) ; Souza, Jorn.
 Lisb. xlvii. p. 156 (1888) ; Bocage, op. tit. xlviii. p. 211 (1888). 
 Corythornis nais, Bp. Consp. Valuer. Anis. p. 10 (1854); Hartl. 
 
-J.f. O. 1861, p. 105. 
+J.f.O. 1861, p. 105. 
 Corythornis cyanocephala, Cab. <§• Heine, Mus. Hein. Tk. ii. p. 145 
 (i860). 
 Corytliornis galerita, Sharpe, Monogr. Alced., Intr. p. vii (1871). 
@@ -16161,7 +16161,7 @@ Mamm. etc. Neio Guinea, pp. 21, 55 (1859).
 Alcedo azurea (nee Lath.), Schl. Mus. Pays-Bas, Alced. p. 17 
 (1863, pt.); id. Fog. Nederl. Jnd. pp. 11, 47 (1864, pt.). 
 Alcyone azurea (nee Lath.), Eosenb. JSrat. Tijdsch. Nederl. Ind. xxv. 
-p! 231 (1863, pt.); id. J.f. O. 1864, p. 118. 
+p! 231 (1863, pt.); id. J.f.O. 1864, p. 118. 
 Alcyone pulchra, pt., Gray, Hand-l. B. i. p. 96, no. 1176 (1869). 
 Alcyone affinis (nee Gray), Ramsay, Proc. Linn. Soc. J\T. S. W. iii. 
 
@@ -16233,7 +16233,7 @@ i. p. 158 (1850); Reichenb. Eandb., Alced. p. 7, Taf. 398. tigs.
 3068-9 (1851); Cass. Cat. Halcyon. Philad. Mus. p. 5 (1852); 
 Macgill. Voy.' Rattlesnake,'' ii. p. 356 (1852); Bp. Consp. Volucr. 
 Anis. p. 10 (1854); Scl. Journ. Proc. Linn. Soc, Zool. ii. p. 156 
-(1858); Rosenb. J.f. O. 1864, p. 118; Gould, Handb. B. Austr. i. 
+(1858); Rosenb. J.f.O. 1864, p. 118; Gould, Handb. B. Austr. i. 
 p. 142 (1865); Ramsay, P. Z. 8. 1868, p. 383; Sharpe, P. Z. S. 
 1869, p. 357; id, Monogr. Alced. p. 53, pi. 16 (1869); Gray, 
 Hand-l, B. i. p. 97, no. 1179 (1869); Beccari, Ann. Mus. Civ. 
@@ -16486,7 +16486,7 @@ pur); Oates, ed. Hume's Nests Sp JEggs Incl. B. iii. p. 13 (1890).
 Cevx purpurea, Less. Traite, p. 38 (1831) ; Rdchenb. Handb., Alced. 
 
 p. 9, Taf. 398. fig. 3071 (1851); Bp. Consp. Vol. Anis. p. 9 (1854); 
-Hartl.J.f. O. 1855, p. 423. 
+Hartl.J.f.O. 1855, p. 423. 
 Cevx microsoma, Burton, P. Z. S. 1837, p. 89. 
 Ceyx erythaca, Blijth, Cat. B. Mus. As. Sue. p. 50 (1849). 
 Dacelo rubra, ScM. Mus. Bays-Bus, Alced. p. 49 (1863) ; id. Vog. 
@@ -17582,7 +17582,7 @@ tig. 2 (1833); Shaw # Nodd. op. cit. xxi. pi. 901 (1809),
 Alcedo Ccerulea, Bupp. Neue Wirb., Yog. p. 70 (1835) ; Bp. Consp. 
 
 i. p. 158 (1850); IleugJ. Syst. Ueben. p. 18 (1856); Antin. Cat. 
-descr. Ucc. p. 29 (18(14); Hartl. J.f. O. 1806, p. 201. 
+descr. Ucc. p. 29 (18(14); Hartl. J.f.O. 1806, p. 201. 
 Ilak-yon cvanotih, Swains. B. TV. Afr. ii. p. 103 (1837) ; Jard. Contr. 
 Om. 1849, p. 6. 
 Alcedo picta, 
@@ -17622,7 +17622,7 @@ II.) ; Sharpe, App. Jameson's Bear-Column, p. 408 (1890).
 Alcedo purpurea {nee Gm.), Bes Murs in Lefebvre's Toy. Abyss., 
 Zool. p. 82 (1848). 
 Ispidina cserulea, Bp. Consp. Volucr. Anis. p. 9 (1854). 
-Alcedo cyanotis, Hartl. J.f. O. 1854, p. 4; id. Orn. W.-Afr. p. 35 
+Alcedo cyanotis, Hartl. J.f.O. 1854, p. 4; id. Orn. W.-Afr. p. 35 
 
 (1857). 
 Ispidina cyanotis, Hartl. J.f. 0.1861, p. 105 ; Brehm, Beis. Habesch, 
@@ -17855,7 +17855,7 @@ Kufous Kingfisher, Lath. Gen. Syn. i. pt. 2, p. 630 (1782).
 Lacelo rufulus, Lafr. Mev. Zool. 1838, p. 224. 
 Ispidina madagascariensis, Cass. Cat. Hale. Philad. Mus. p. IS (1852); 
 
-Bp. Consp. Volucr. Anis. p. 9 (1854); Hartl J.f. O, I860, p. 86; 
+Bp. Consp. Volucr. Anis. p. 9 (1854); Hartl J.f.O. I860, p. 86; 
 
 9 . MYIOCEXX. 
 195 
@@ -18416,10 +18416,10 @@ Melidora macrorhina, Reichenb. JEandb., Aleed. p. 41, sp. 99, Taf. 428.
 figs. 3166-7 (1851); Sclater, Journ. Linn. 8oc. ii. p. 156 (1858); 
 8harpe, Mon. Aleed. p. 303, pi. 120 (1869); Beccari, Ann. Mus. Civ. 
 Genov. vii. p. 708 (1875); Salvad. t c. p. 766, viii p. 398 (1876); 
-Cab. $ Betoken. J.f. Orn. 1876, p. 323; Salvad. Ann. Mus. Civ. 
+Cab. $ Betoken. J.f.O.n. 1876, p. 323; Salvad. Ann. Mus. Civ. 
 Genov. x. pp. 128,303 (1877), xii. p. 319 (1878); id. Orn. Papuasia 
 etc. i. p. 500 (1881); Sharpe, Journ. Linn. 8oc. xvi. p. 429 (1882); 
-Nehrh. J.f. O. 1885, p. 32 (Waigiou) ; Guillem. P.Z.8. 1885, 
+Nehrh. J.f.O. 1885, p. 32 (Waigiou) ; Guillem. P.Z.8. 1885, 
 
 p. 628• Salvad. Agg. Orn. Papuasia, i, p. 60 (1889); Meyer} Ibis, 
 1890, p. 415. 
@@ -18427,7 +18427,7 @@ p. 628• Salvad. Agg. Orn. Papuasia, i, p. 60 (1889); Meyer} Ibis,
 
 Melidora eirphrosina^ Reichenb. L e.; Rosenh. Nat. Tifdschr. Kederl. 
 
-hid. xxv. p. 230 (1863); id. J.f. O. 1861, p. 117. 
+hid. xxv. p. 230 (1863); id. J.f.O. 1861, p. 117. 
 Melidora euphrasies, Bp. Consp. Vol. Anisod. p. 9 (1854). 
 Dacelo macrorhina, Schl Mm. P.-B. Alced. p. 22 (1863); id. Tog. 
 
@@ -18507,7 +18507,7 @@ Range. Confined to South-eastern New Guinea.
 
 1. Clytoceyx rex. 
 Clytoceyx rex, Sharpe, Ann. $ Mag. Nat Hist (5) vi. p. 231 (1880) ; 
-Meyer, J.f. O. 18b0, p. 313, note; Gould, B. N. Guin. iv. pi. 9 
+Meyer, J.f.O. 18b0, p. 313, note; Gould, B. N. Guin. iv. pi. 9 
 (1881); Sharpe, Journ. Linn. Soc, Zool. xvi. p. 429 (1882); Salvad. 
 Ann. Mus. Civ. Genov. xviii. p. 421 (1882); id. Orn. Papuasia e 
 delle Molucche, iii. App. p. 526 (1882) ; Finsch fy Meyer, Zeitsc/ir. 
@@ -20793,7 +20793,7 @@ p. 541 (Panay), p. 690 (Luzon), p. 758 (Oebu), p. 823 (N.
 Mindanao); id. P. Z. S. 1878, p. 282 (Negros), p. 34 (S. Leyte), 
 
 p. 379 (Panaon), p. 943 (Zamboanga). 
-Alcedo fusca (nee Bodd), Martens, J.f. O. 1866, p. 16; id. Preuss. 
+Alcedo fusca (nee Bodd), Martens, J.f.O. 1866, p. 16; id. Preuss. 
 Faped. Ost-Asien, p. 189 (1867). 
 Dacelo gularis, Schl Mus. Pays-Bas, Revue Alced. p. 19 (1874). 
 0,2 
@@ -21040,7 +21040,7 @@ Cab. 8f Heine, Mus. Kein. Tli. ii. p. loo (1860);
 Salvad. Ucc. Bom. p. 102 (1874); Wald. Trans. ZooL Soc. ix. 
 
 p. 154 (1875); David <§• Oust. Ois. Chine, p. 75 (1877); Meyer, 
-Ibis, 1879, p. 61 (Celebes) ; Tacz. J.f. O. 1881, p. 180 (Askold); 
+Ibis, 1879, p. 61 (Celebes) ; Tacz. J.f.O. 1881, p. 180 (Askold); 
 Milller, J. f 0. 1882, p. 398 (Salanga) ; Vorderm. Nat. Tijdschr. 
 Nederl. Ind. xlvi. p. 11 (1886); Blasius, Omis, iv. p. 307 (1888: 
 Palawan). 
@@ -21323,7 +21323,7 @@ id. § Hartl. Toy. Ostafr. p. 160 (1870); Shaipe, Monoyr. Alced.
 p. 173, pi. 64. fig. of ad. (1870, pt.); Sharpe, P. Z. 8. 1873, p. 712 
 (Mombasa-); Antin. <^ Salvad. ilayy.Boyos, p. 68 (1873); Sharpe 
 c$* Bouvier, Bull. Soc. Zool. France, ii. p. 474 (1877: Congo) ; 
-Fischer, J.f. O. 1S77, pp. 172, 180; Cab. J.f. O. 1878, p. 235; 
+Fischer, J.f.O. 1S77, pp. 172, 180; Cab. J.f.O. 1878, p. 235; 
 Fischer $ lleichen. t. c. p. 255 (Zanzibar); Fischer, J.f O. 1879, 
 pp. 293, 303; Hartl. Ahhandl. Nat. Ver. Bremen, vii. p. 110 
 (1881: Laclo); Shelley, 1\ Z. S. 1881, p. 567 (Pangani) ; id. Ibis, 
@@ -21331,9 +21331,9 @@ pp. 293, 303; Hartl. Ahhandl. Nat. Ver. Bremen, vii. p. 110
 Linn. Soc. x\ii. p. 4\5 (I8b4: Seinuiio); Fischer, Zeitschr. yes. 
 Orn. i. p. 361 (L884); Sclrad. Ann. Mus. Civic. Genov. (2) i. 
 p. 113 (1884 : Hhoa); Shelley, Ibis, 1885, p. 395 (Somali); Fncher, 
-J.f. O. 1885, p. 126 (Zanzibar, &c.); Buttik. Notes Ley den Mus. 
+J.f.O. 1885, p. 126 (Zanzibar, &c.); Buttik. Notes Ley den Mus. 
 Mi. p. 166 (1885: Liberia), \iii. p. 249 (1886), x. p. 70 (1888); 
-Hartert, J.f. O. 1886, p. 295 (Loko) ; Oust Bibl. Haut Etudes, 
+Hartert, J.f.O. 1886, p. 295 (Loko) ; Oust Bibl. Haut Etudes, 
 xx\i. art 10, p. 4 (1886: Somali) ; Reichen. J.f O. 1887, p. 60 
 (Eagehi) ; id. t. c. p. 808 (Ka&songo); Souza, Jorn. Lisb. xii. p. 221 
 (1888 : Quindiimbo); id. op. cit. (2) i. p. 121 (1889 : Quisfcangne); 
@@ -21785,7 +21785,7 @@ Mitth. p. 21 (1862); Kirk, Ibis, 1864, p. 325 (Zambesi); Layard,
 B. 8. Afr. p. 64 (1867). 
 Halcyon pygmsea, Bp, Consp. i. p. 154 (1850); ScL Contr. Orn. 1852, 
 p. 124 (Bed Sea coast); Antin. Cat. descr. Ucc. p. 28 (1864: 
-Gazelle Biver) ; Hartm. J.f. O. 1866, p. 200; Bekken. J.f. 0. 
+Gazelle Biver) ; Hartm. J.f.O. 1866, p. 200; Bekken. J.f. 0. 
 1877, p. 20 (Loango). 
 Ghelicutia striolata, Reichenb. Handb., Alced. p. 39, Taf. 424. fig. 3155 
 (1851); Bp. Consp. Vol Anis. p. 9 (1851). 
@@ -21822,7 +21822,7 @@ p. 235; Fischer $ Reichen. t e. p.*2Zo*, iid. J.f O. 1879, p. 344
 (Malindi); Sharpe in Gates' Matabele-Ld., App. p. 303 (1681); 
 Gumey, Ibis, 1881, p. 124; Shelley, P.Z. S. 1861, p. 5t>7 (Melindi, 
 Pansrani, Usambara Alts.); id. Ibis, 18^2. p. 244 (Uinvuli H.); 
-Bbhm, J.f, O. 1883, p. 172 (Kakoma) ; Hartl. Abhandl nat. Ver. 
+Bbhm, J.f.O. 1883, p. 172 (Kakoma) ; Hartl. Abhandl nat. Ver. 
 Brem. viii. p. 207 (1883: Wakkala) ; Sharpe, Joum. Linn. Soc, 
 Zool. xvii. p. 435 (1884 : Bern Bakir) ; Fischer, Zeitschr. ges. Or a. 
 I. p. 361 (1884: Zanzibar, Pangani, Arabella, Xahvascha); id. 
@@ -21832,7 +21832,7 @@ Somali) j Reichen. J. f O. 1887, p 60 (Usandawi, Wembaere,
 Usegua); yiatschie, f. c. p. 151 (Lualaba, Luvule); Reichen. t. c. 
 p. 304 (Leopoldville); Sauza, Jorn. Lisb. xL pp. 83, 158 (1887); 
 Shelley, Ibis, 1888, p. 297 (Tangaxii); id. P. Z. S. 1889, >. 537 
-(Useri River); Reichen. J.f. O. 1889, p. 275 (Quilimane, Mbusini, 
+(Useri River); Reichen. J.f.O. 1889, p. 275 (Quilimane, Mbusini, 
 Usegua); Souza, Jorn, List. (2) i. p. 44 (1889: Huilla). 
 Dacelo tschellcutensis, Heugl Orn. X.O.-Afr. i. p. 192 (1869). 
 
@@ -22067,7 +22067,7 @@ J.f. 0. lbTS, p. 235 (E. Africa); Shelby} P. Z. 8. 18S1, p. 566
 Halcyon irrorata, Reichenb. Mandb., Alced. p. 11, Taf. 400. fig. 3078, 
 Tat*. 401. ilii. 3079 (1851) ; Cab. in Von der Deckens Revs. iii. p. 36 
 (180b: Mozambique); Finsch 4* MariL Tog. Osiafr. p. 159 (1870) j 
-Fischer §• Ileiehea. J.f. O. 1878, p. 255 (Mombasa); Fischer, t. e. 
+Fischer §• Ileiehea. J.f.O. 1878, p. 255 (Mombasa); Fischer, t. e. 
 
 p. 28b; atf. # Beichen. J.f. 0.1879, p. 343 (Malindi); J&'/WH, Jf 0. 
 1883, p. 172 (Zanzibar); Fischer, Zeitschr. yes. Or a. Lp. 361 (1884: 
@@ -22142,7 +22142,7 @@ Dm. W.-Arf p. 31 (1857) j Cass. Proc. Philad. Acad. 1859, p. 33
 (Camma River); Heine, J. f. 0.1860, p. 187; Cab. § Heine, Mus. 
 Hem. Th. ii. p. 153 (1860); Hartl. J. f 0.1861, p. 104; id. 
 P. Z. 8. 1863, p. 105 (Kazeh); 8cl P. Z. S. 1864, p. Il l (Meninga); 
-Ant in. Cat. descr. XIcc. p. 28 (1864); Hartm. J.f. O. 1866, p. 201; 
+Ant in. Cat. descr. XIcc. p. 28 (1864); Hartm. J.f.O. 1866, p. 201; 
 Gray, Hand-l B. i. p. 90, no. 1081 (1869); Sharpe, P. Z. 8. 1869, 
 p. 568; id. Monogr. Alced. p. 191, pi. 70 (1870); Finsch, Trans. 
 Z. 8. vii. p. 221 (1870); id. $ Hartl. Vog. Ostafr. p. 157 (1870); 
@@ -22159,7 +22159,7 @@ Ibis, 1883, p. 523; Salvad. Ann. Mus. Civic. Genov. (2) i. p. 114
 (1884: Shoa); Bo'hm, J.f O. 1885, pp. 47, 57 (Gonda); MUik. 
 Notes Leyd. Mus. vii. p. 161 (1885 : Liberia), viii. p. 249 (1886), 
 x. p. 70 (1888); Uartert, J. f. O. 1886, p. 595 (Loko); Beichen. 
-J.f. O. 1887, p. 60 (Simiu River); Matschie, t. e. pp. 140, 151 
+J.f.O. 1887, p. 60 (Simiu River); Matschie, t. e. pp. 140, 151 
 " (Tanganyika, Lualaba) ; Beichen. t. c. p. 300 (Manyanga), p. 307 
 (Kibongi); Souza, Jorn. Lisb. xi. p. 158 (Angola); id. op. cit. (2) 
 i. p. 114 (1889: Katuuibella); Beichen. J f O. 1890, p. 116 
@@ -22477,7 +22477,7 @@ Halcyon malimbica
 SMley fy Buckley, Ibis, 1872, p. 286; Shelley, Ibis, 1883, p. 557 
 CShonga); Biitiik. Notes Ley den Mas, vii. p. 162 (1885), viii. 
 
-p. 249 (1886), x. p. 70 (1888); Eartert, J.f. O. 1886, p. 595 
+p. 249 (1886), x. p. 70 (1888); Eartert, J.f.O. 1886, p. 595 
 (Loko). 
 Bacelo cinereifrons, Schl Mus. Pays-Bas. Alced. p. 29 (1863, pt., 
 Siena Leone). 
@@ -22521,7 +22521,7 @@ Halcyon cinereifrons, Gray, Gen. B. i. p. 79 (1846); Yerr. Bev. et
 Mag. de Zool. 1851, p. 265 (Gaboon); Reichenb. Eandb., Alced. 
 
 p. 12, Taf. 400. ^g. 3076 (1851) ; Earth Orn. Wesf-Afr. p. 32 
-(1857, pt.) ; Hartl J.f. O. 1861, p. 104 (Bembe); Laijard, B. 8. 
+(1857, pt.) ; Hartl J.f.O. 1861, p. 104 (Bembe); Laijard, B. 8. 
 Afr. p. 64 (1867); Gray, Eand-L B. I p. 90, no. 1082 (1869). 
 Halcyon malimbica, 
 Cass. Cat. Halcyon. Phil. Mm. p. 8 (1852, pt.: 
@@ -22663,7 +22663,7 @@ Tijdschr, Nederl hid. xxv. p. 230 (1863); id. J.f. 0.1864, p. 118.
 Alcedo cyanoleuca (nee Vieill.), Bp. Consp. i. p. 157 (1850; ex Temm. 
 MSS. in Mus. Lugd.); Bosenb. Nat. Tijdschr. Nederl. Lid. xxv. 
 
-p. 231 (1863); id. J.f. O. 1864, p. 118. 
+p. 231 (1863); id. J.f.O. 1864, p. 118. 
 250 
 iLLCEDINID^5. 
 
@@ -22675,7 +22675,7 @@ p. 159 (1860); Salvad. Ann. Mus. Genov. x. pp. 126, 305 (1877,
 pi). 
 Sauropatis sauropkaga, Salvad. Ibis, 1879, p. 322; id. Orn. Papuasia, 
 
-i. p. 468 (1880); Nehrh. J.f. O. 1885, p. 32 (Waigiou); Guillem. 
+i. p. 468 (1880); Nehrh. J.f.O. 1885, p. 32 (Waigiou); Guillem. 
 P. Z. S. 1885,:p.;568 (Weda Isl.)/p. 627 (Waigiou,Mysol,Dorey); 
 Salvad. Agg, urn. Papuasia, i. p. 57 (1889). 
 Adult male. General colour above bright blue, ratber duller on 
@@ -23323,7 +23323,7 @@ Alcedo ruhceps, Cuvier, 31 $S. in 31us. Paris; uiide
 
 Alcedo vuficeiQSjDi{mo?it, Bid. Sci. Xat. xxix. p. 273 (1823); Pucker. 
 
-Hev. et 3Iag. de Zool. 18-33, p. 367; Marti. J.f. O. 1805, p. 423. 
+Hev. et 3Iag. de Zool. 18-33, p. 367; Marti. J.f.O. 1805, p. 423. 
 
 Dacelo ruiiceps, Lesson, Traite d'Or/i. p. 247 (1831). 
 
@@ -24869,7 +24869,7 @@ p. 86 (1870, pt.) j Oates, Handb. B. Brit. Burm. ii. p. 85 (1883).
 Todirhainphus collaris (nee Sioai?is.), Jerd. B. Ind. i. p. 228 (1862). 
 Todirhanrphus chloris (nee Bodd.), Hume, Ibis, 1870, p. 438 (Sunderbunds). 
 Sauropatis chloris (nee Bodd.), Blyth # Wald. B. Burm. p. 71 (1875); 
-Mull. J.f. O. 1882, p. 398 (Salanga). 
+Mull. J.f.O. 1882, p. 398 (Salanga). 
 
 Adult male. Similar to H. chloris, but with green ear-coverts and 
 the black band round the nape obsolete. Total length 9 inches, 
@@ -25557,7 +25557,7 @@ Alced. p. 217, pi. 8*2 (1871).
 Paralcyon lindsayi, Eeichenb. Handb., Alced. p. 36, Taf. 421. figs. 
 
 3143-44 (1851); Bp. Consp. Voluer. A?iis. p. 9 (1854). 
-Actenoides lessoni, Hartl. J.f. O. 1854, p. 64. 
+Actenoides lessoni, Hartl. J.f.O. 1854, p. 64. 
 Astacophilus lindsayi, Cab. # Heine, Mus. Hein. Th. ii. p. 162 
 
 (1860). 
@@ -26347,7 +26347,7 @@ p. 708 (1875) ; Salvad. op. tit. x. pp. 127, 303 (1877); Gould, B.
 Neiu Guinea, iv. pi. 48 (1878); Salvad. Orn. Papuasia, i. p. 452 
 (1880); Meyer, Zeitschr. yes. Orn. iii. p. 33 (1886) ; Salvad. Agg. 
 Om. Papuasia, i. p. 55 (1889). 
-Alcedo (Tanysiptera) nympha, Martens, J.f. O. 1866, p. 18. 
+Alcedo (Tanysiptera) nympha, Martens, J.f.O. 1866, p. 18. 
 
 Adult. Head rich ultramarine, inclining to cobalt on the nape; 
 ear-coverts and upper part of the back and scapulars jet-black; 
@@ -27121,7 +27121,7 @@ Gray, P. Z. S. 18C.0, pp. 346, 347; Wall. P. Z. S.
 Gray, Hand-L B. i. p. 90, no. 1074 (1809); Sharpe, P. Z. S. 1869, 
 
 p. 631; id. Monogr. Alced. p. 279, pi. 109 (1871); Cab. & Reichen. 
-J.f. O. 1876, p. 323. 
+J.f.O. 1876, p. 323. 
 Dacelo 
 dea, pt., SchL Mm. Pays-Bas, Alced. p. 43 (1863); id. 
 Yog. Nederl. Ind. pp. 33, 62, pi. 13. figs. 3, 4 (1864); Finsch, 
@@ -27368,7 +27368,7 @@ Urospatha martii, Saload. Atti R. Accad. Sci. Torino, iv. p. 179
 Proc. U. S. Nat. Mus. Till p. 109 (1885; Costa Rica); Tacz. Orn. 
 PSroUyiii. p. Il l (1886; Central Peru, Monterico). 
 
-Baryphthengus martii, Berlepsch, J.f. O. 1889, p. 308 (Yurimaguas). 
+Baryphthengus martii, Berlepsch, J.f.O. 1889, p. 308 (Yurimaguas). 
 
 Adult male. General colour above bright green, the "fling-coverts 
 and secondaries like the back ; bastard-wing, primary-coverts, and 
@@ -30004,7 +30004,7 @@ Consp. G. A. i. p. 89 (1850) ; Bonap. Coasp. Vol. Anisod, p. 2
 (1854); Horsf. ^* Moore, Cat B. Mus. E. Bid. Co. ii. p. 581 
 (1856-8); Blanf. GeoL Zool Abyss, p. ^880 (1870); Antin. e 
 Sahad. Ann. Mus. Civ. Genov. p. 420 (1873); id. Cat Ucc. p. 57 
-(1873) ; Reich. J.f. O, IglS^JJ ; Elliot, Monogr. Bucerot. pi. i. 
+(1873) ; Reich. J.f.O. IglS^JJ ; Elliot, Monogr. Bucerot. pi. i. 
 (1877): Ottley, P. Z. & J879, p. 461; Salvad. Ann. Mus. Cm. 
 Genov. xxi. p. 101 (1884); Dubois, Bull. Mus. Belg. iii. p. 221 
 (1884); Beddard, P. Z. S. 1885, p. 41,fisr. 2; Shelley, Ibis, 1888, 
@@ -30188,7 +30188,7 @@ myth, Ibis, 1866, p. 352; Gray, Hdnd-L B. ii. p. 127, sp. 7866
 p. 518, pi. xlix. fig. 2 ; Elliot, Monog. Bucerot. pi. 4 [text] (1877); 
 Shape, Ibis, 1879, p. 246; Kelham, Ibis, 1881, p. 383; Nicholson, 
 Ibis, 1883, p. 240; Milne-Edio. Compt. Rend. xcix. p. 833 
-(1884); Beddard, P. Z. S. 1889, p. 588, fig. 2; Hartert, J.f. O. 
+(1884); Beddard, P. Z. S. 1889, p. 588, fig. 2; Hartert, J.f.O. 
 1889, p. 369; Sharpe, Ibis, 1890, p. 14; Elliot, Auk, 1891, 
 p. 8. 
 Buceros 
@@ -30958,7 +30958,7 @@ Le Calao \iolet LevailL Hist Nat. d'Oh. FAmer. I p. 30, pi. 10
 (1-01). 
 
 Bueero^ curonatu^ Bndd. TahL PL Eul. p. o3 (L -31: (rrmt. 6V*/. Z>\ 
-Ii. p. 30U (1-47); Ifo/'tf. J.f. O. KM p. 2-i>: >V///. 3///,. I%>/
+Ii. p. 30U (1-47); Ifo/'tf. J.f.O. KM p. 2-i>: >V///. 3///,. I%>/
 »V/v. i. iJiim-u-, p. r» (1^52} :* A7fc. I*t'fi/l. It//// Me. p. 1<J2 ti^s '7); 
 frV,vW. P. X, S. 1S7L\ p. 4fU. ,V* 1*7:), p. 0&>/iijr. 2. 
 
@@ -31757,7 +31757,7 @@ Penelopides panini, Cab. $ Heine, Mus. Hein. ii. p. 108 "part]
 (I860),-Waden, Tr. Z. S. ix. p. 100, j± xxriii. fig. 1 tf, fi«7. 2 $ 
 (1875); BlUot, Monor/r. Bueerot. pi. 21 [text] (1&77); Steere, 
 List Birds # Mamm. "Philippines, p. 13 (1890). 
-Buceros (Penelopides) panini, F<w Martens. J.f. O. p. 18 (1366); 
+Buceros (Penelopides) panini, F<w Martens. J.f.O. p. 18 (1366); 
 tV;w/, JSofw^-/. B. ii. p. 129, sp. 7892 (1870). 
 Buceros panayensis, Scop. Del. Faun. etFlor. In&ubr. ii. p. 87 (1786); 
 Gm. &I i p. 300 (1788); Lath. Ind. Orn. i. p. 144 (1790); 
@@ -31838,7 +31838,7 @@ Buceros sulcirostiis, Wagl. Syst. Av. Buceros, no. J 3 [juv. TiriL]
 (1827). 
 Buceros panini, Gray, Gen. B. ii. p. 400 Fpart.] (1847); v. Martens, 
 
-J.f. O. 1866, p. 18. 
+J.f.O. 1866, p. 18. 
 Penelopides panini; Cab. $* Heine, Mus. Hein. ii. p. 168 [part.] 
 (1860). 
 Buceros 
@@ -32016,7 +32016,7 @@ Buceros exarhaettis, Blyth, J. As. Soc. Betty. xu. p. 097 (1847).
 Buceros exaratus>, Bli/i/i, Cat. B. Mux. As. Hoc. p. 44 (1849); Wald. 
 Tr. Z. S. Tiii. p. 47, pi. v. figs. 1 [ tf] & 2 [Q] (lb72); Lenz, 
 
-J.f. O. 1877, p. 370; Meyer, Ibis, 1879," p. tfo. 
+J.f.O. 1877, p. 370; Meyer, Ibis, 1879," p. tfo. 
 Hydrocissa exaratus, Bonap. Consp. Gen. Av. i. p. 90 (1850); Elliot, 
 "Monoyr. Bucerot. pi. xhi. Ltexf (187b). 
 Anorrhinute ex<u\itu&, Boiiap. Vunp. Vol. Anisod. p. 2 (1854). 
@@ -32100,7 +32100,7 @@ Cranorrhinus cassidix, Cab.fy Heine, Mus. Hein. ii. p. 173 (I860);
 Mull. $ Schl Verh. Ges. Ned. Ind., Aves, p. 24, pi. 4 bis [ $ ] (183944); 
 Wallace, Malay. Arch. i. p. 364 (1869); Wald. Tr. Z. S. viii. 
 
-p. 47, figs. 1-4 (1872); Lenz, J.f. O. 1877, p. 370; Elliot, Mon. 
+p. 47, figs. 1-4 (1872); Lenz, J.f.O. 1877, p. 370; Elliot, Mon. 
 Bucerot. pi. 16 [text] (1877) ; Meyer, Ibis, 1879, p. 65 j Guillemard, 
 P. Z. S. 1885, p.^54; id. Marchesa, ii. p. 188 (1886). 
 Buceros (Cranorrhinus) cassidix, Gray, Hand-l B. ii. p. 129 (1870); 
@@ -32225,7 +32225,7 @@ lllivticeros (Cassidix) corrugatus, Bonap. Consp. Vol Anisod. p. 3
 Cranorrhinus 
 corrugatus, Walden, Trans. Z. S. viii. p. 51 (1872) ; 
 Salvador i, TJcc. Borneo, p. 86 (1874); Sharpe, Ibis, 1879, p. 246; 
-Elliot, Mon. Bucerot pi. 17 [text] (1880); Ilartert, J.f. O. 1889, 
+Elliot, Mon. Bucerot pi. 17 [text] (1880); Ilartert, J.f.O. 1889, 
 
 p. see. 
 Buceros (Cranorrhinus) corrugatus, Bubois, Bull. Mus. Belg. iiL 
@@ -32798,7 +32798,7 @@ Rhytidoceros ruficollis, Salvad. Ann. Mus. Civ. Genov. vii. p. 763
 
 p. 314 (1877), p. 493 (1878), xiv. p. 186 (1879). 
 Calao papuensis, Bosenb. Nat Tijd. Ned. Ind. p. 229 (1863); id, 
-J.f. O. 1864, p. 117. 
+J.f.O. 1864, p. 117. 
 Bucerosflavicollis, Bamsay, P. L. 8. N. 8. W. i. p. 393 (1876). 
 Adult male. Head, neck, and upper chest dark chestnut, rather 
 paler on the throat *; tail pure white, rest of plumage black, the 
@@ -33889,7 +33889,7 @@ p. 435 (1884).
 Orammicus fasciatus, Bonap. Consp. Vol. Anisod. p. 3 (1854). 
 Loplioceros fasciatns, Cab. fy Heine, Mus. Hem. ii. p. 168 (I860); 
 Heine, J. f. O. 1860, p. 188; Shelley, P. Z. S. 1888, p. 41 j id. Ibis, 
-1888, p. 59 ; Reich. J.f. O. 1890, p. 114. 
+1888, p. 59 ; Reich. J.f.O. 1890, p. 114. 
 Buceros (Loplioceros) fasciatns, Dubois, Bull. Mus. Belt), iii. p. 214 
 (1884). 
 Buceros melanoleueus, Tieill. {nee Liclit.) N. Diet. cVHist. Nat. iv. 
@@ -34128,7 +34128,7 @@ Buceros limbatus, Hupp. Faun. Abyss., Vog. p. 5, pi. ii.fig.1 (1835);
 
 Grayj Gen. B. ii. p. 400 (1847); Sehl. Mus. Pays~Bas, i. Buceros. 
 
-p. 13 (1862); Heugl. J.f. O. p. 270 (18G4); Finsch, Tr. Z. S. vii. 
+p. 13 (1862); Heugl. J.f.O. p. 270 (18G4); Finsch, Tr. Z. S. vii. 
 p. 279 (1870) 
 Tockus limbatus, JRupp. Syst. Uebers. Vog. KO.-Afr. p. 79 (1845); 
 Bonap. Consp. Gen. Av. i. p. 92 (1850) ; Horsf. $ Moore, Cat. B. 
@@ -34449,7 +34449,7 @@ p. 169.
 Buceros (Tockus) erythrorhynchus, Less. TraiU Orn. p. 252 (1831). 
 Tockus erytkrorlrynckus, Pilpp. Syst. Uebers. Vog. N.O.-Afr. p. 79 
 (1845);'' Bonap. Consp. Gen. Ao. i. p. 92 (1850); id. Consp. Vol. 
-Anisod. p. 3 (1854); Hartl J.f. O. 1854, p. 193; Horsf. $ Moore, 
+Anisod. p. 3 (1854); Hartl J.f.O. 1854, p. 193; Horsf. $ Moore, 
 Cat. B. Mus. E. Ind. Co. ii. p. 595 (1856-58); Hartl. Orn. W.-
 Afr. p. 165 (1857) ; Xirk, Ibis, 1864, p. 327; Heugl. J. f. O. 
 1864, p. 271; Antin. Cat. descr. Ucc. p. 78 (1864); Sharpe, Ibis, 
@@ -34473,7 +34473,7 @@ xvii. p. 435 (1884); Salvad. Ann. Mus. Civ, Genov. xxi. pp. 103,
 p. 596. 
 Kkynckaceros erytlirorkvnchus, Cab. Sf Heme, Mus. Hem. ii. p. 166 
 (1860); id. Jf. 0. 1878, p. 235; Schaloio, J.f 0. 1883, p. 348 ; 
-Fisch. Zeit. ges. Orn. i. p. 362 (1884); id. Jf. O. 1885, p. 126. 
+Fisch. Zeit. ges. Orn. i. p. 362 (1884); id. J.f.O. 1885, p. 126. 
 
 Alopbius ervthrorkynckus, Dubois, Bull. Mus. Belg. iii. p. 218 
 
@@ -35050,7 +35050,7 @@ a, b. J ad. et imm. sk. W. Africa. Zool Soc. Coll.
 (Types of species.) 
 
 4. Bycanistes subquadratus. 
-Bycanistes subquadratus, Cab. J.f. O. 1880, p. 350, pi. i.; Booage, 
+Bycanistes subquadratus, Cab. J.f.O. 1880, p. 350, pi. i.; Booage, 
 Orn. Angola, p. 540 (1881); Elliot Mon. Bucerot. pi. 28 I text] 
 (1882). 
 
@@ -35083,7 +35083,7 @@ Kile District, Elgon, ^60 00-8000 ft. (JacUon).
 
 5. Bycanistes albotibialis. 
 Buceros albotibialis, 
-Cab. # Reich. J.f. O. 1877, pp. 19 & 103, 1878, 
+Cab. # Reich. J.f.O. 1877, pp. 19 & 103, 1878, 
 pi. i.; Bocage, On?. Angola, p. 540 (1881) ; Shelley, Ibis, 1883, 
 
 p. 56 ; JZeit-h. J.f. 0. 1890, p. 114. 
@@ -35226,7 +35226,7 @@ o,
 
 8. Bycanistes fistulator. 
 Buceros fistulator, Cassin, P. -4c. Kat. Sci. PMlad. v. p. 68 (1852); 
-Hartl Orn. W.-Afr. p. 162 [part.] (1857) ; id. J.f. O.1861, p. 261 
+Hartl Orn. W.-Afr. p. 162 [part.] (1857) ; id. J.f.O.1861, p. 261 
 
 (1885); Hariert, J.f 0. 1886, p. 596 ; Shelley, Ibis, 1888, p. 53. 
 Tmetoceros nVtulator, Bonap. Consp. Vol. A?usod. p. 2 (1854). 
@@ -35341,7 +35341,7 @@ Str. F. ix. p. 86 (1880).
 
 Anorrhinus 
 comatus, Elliot, Mon. Bucerot. pi. 39 [text] (1877); 
-Gates, B. Brit. Burmah, ii. p. 94 (1883); Hartert,J.f. O. 1889, 
+Gates, B. Brit. Burmah, ii. p. 94 (1883); Hartert,J.f.O. 1889, 
 
 p. 369 ; Sharpe, Ibis, 1890, p. 16. 
 Bu (eros (Anorrhinus) comatus, Dubois, Bull. Mus. Belg. iii. p. 207 
@@ -35559,7 +35559,7 @@ tf Dav. 8. F. vi. p. 115 (1878); Hume, 8. F. viii. p. 8G (1879);
 
 Sharpe, Ibis, 1879, p. 248; Oates, B. Brit. Burmah, ii. p. 89 (1888); 
 
-Hartert, J.f. O. 1889, p. 366; 8harpe, Ibis, 1890, p. 16. 
+Hartert, J.f.O. 1889, p. 366; 8harpe, Ibis, 1890, p. 16. 
 
 Buceros scutata, Bodd. Tabl PL Enl. p. 55 (1783); Gray, Gen. Birds, 
 
@@ -36844,7 +36844,7 @@ Trogon (Trogonurus) mexicanus, Gray, Hand-l. B. i. p. 82 (1869).
 Trogon glocitans, IAclit, Preis-Verz. JIed\ Th. v. Deppe u. Sckiede, p. 1 
 
 
-(1830); id. J.f. O. 1863, p. 55. 
+(1830); id. J.f.O. 1863, p. 55. 
 a Trogon morgani, Swains.,'" Gould, Mon. Trog. ed. i. text to pi. 1 
 (1838). 
 

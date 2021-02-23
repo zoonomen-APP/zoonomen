@@ -3837,7 +3837,7 @@ P. Z. 8. 1^70, p. 432 j id. Ibis,
 1875, p. 435; id. Ibis, 1876, 
 p. 140; Finsek, Jmm. Mm. Godeffr. Heft xil. p. 8 (1876); 
 Datr-un Rowley, Orn.Mise. ii. p. 34, pi. 62 (1876); Cab. & Feichen. 
-J.f. O. i-7!5;p. 310. 
+J.f.O. i-7!5;p. 310. 
 vM?c& 7/i/iZe- General colour above velvety black; wings also 
 velvety black, the leader and median series tipped with metallic 
 steel-blue; rumj>-feafchers Mark, ending in silky white, like the adjoining 
@@ -4151,7 +4151,7 @@ and it may belong to a totally distinct genus.
 Cossypha poensis, StricM. P. Z. S. 1844, p. 100; Allen $ Thomps. 
 Exped. Niger, ii. p. 496 (1848); Hartl J.f. 0.1855, p. 360; id. 
 Orn. W.-Afr. p. 77 (1857); Cass. Proc. Philad. Acad. 1859, p. 42; 
-Hartl. J.f. O. 1861, p. 163; Sharpe, Ibis, 1869, p. 382; id. Cat. 
+Hartl. J.f.O. 1861, p. 163; Sharpe, Ibis, 1869, p. 382; id. Cat. 
 Afr. B. p. 85 (1871); id. P. Z. S. 1871, pp. 609, 515; Beichen. 
 
 J. f. O. 1875, p. 50. 
@@ -4219,7 +4219,7 @@ Cossipka vocifera, Smith. III. Zool. S. Afr.. Aves. text to C. hunieralia
 (1840). ' 
 Cossypha reclamator, Strickl. P. Z. S. 1844, p. 100; Hartl. Orn. W.-
 
-Afr. p. 76 (1857) ; id. J.f. O.1861, p. 162. 
+Afr. p. 76 (1857) ; id. J.f.O.1861, p. 162. 
 Rhipidura bicolor, Gray, Gen. B. i. p. 258 (1846). 
 Bessonornis vociferans, Gray, Gen. B. i. p. 220 (1847) ; Bp. Consp. i. 
 
@@ -4269,7 +4269,7 @@ E. B. Sharpe, Esq,
 
 4. Cossypha natalensis. 
 Cossypha natalensis, Smith, III. Zool $. Afr. pi. lx. (1840) ; Earth 
-P. Z. 8. 1860, p. 110; id. J.f. O. 1861, p. 162 ; Bianc. Spec. Zool. 
+P. Z. 8. 1860, p. 110; id. J.f.O. 1861, p. 162 ; Bianc. Spec. Zool. 
 Mosamb. fasc. xvi. p. 400 (1865); Bocage, Jorn. Lisb. 1868, p. 42 ; 
 Finsch $ EaHh Vog. Ostafr. pp. 283, 865; Sharpe, Cat Afr. B. 
 p. 25 (1871) ; Shelley, Ibis, 1875, p. 73; Sharpe, ed. Bayard's B. S. 
@@ -4871,7 +4871,7 @@ k, I. Ad.; m.Pull. sk. Abeokuta (H Robin). F. Nicholson, Esq. [P.] .
 n. Ad. sk. River Niger (Br. BaiMe). R. B. Sharpe, Esq. 
 16. Cossypha melanonota* 
 Oossypha verticalis (non Hartl.), Cass. Proc. Bhilad. Acad. 1859, 
-p. 42; Seine, J.f. 0. 1860, p. 128; Hartl J.f. O. 1861, p. 163. 
+p. 42; Seine, J.f. 0. 1860, p. 128; Hartl J.f.O. 1861, p. 163. 
 Bessomis melanonota, Cab. J. f. O. 1875, p. 235; Meichen. J.f O. 
 1877, p. 30. 
 Oossypha melanonota, 
@@ -7079,7 +7079,7 @@ Aedon leucoptera, Bp. Consp. i. p. 286 (1850) ; Heugl. Si/st. Uebers.
 
 p. 25 (1856) ; id. Ibis, 1869, p. 86; Gray, Han'd-l. B. I p. 211, 
 no. 2984 (1869); Heugl Orn. N.O.-Afr. i. p. 279 (1869); Cab. 
-J.f. O. 1878, p. 221; Sharps, J.f. O. 1882, p. 345. 
+J.f.O. 1878, p. 221; Sharps, J.f.O. 1882, p. 345. 
 Adult. Above dark cinnamon ; underneath white, with the mou
 
 
@@ -7345,7 +7345,7 @@ Ehrenh. Symb. Phys., Aces, fol. dd. (1828).
 Cercotrichas erythroptera, Boie, Isis, 1831, p. 542 ; JRiipp. Syst. 
 Uebers. p. 60 (1845); Cab. Mus. Hein. Th. i. p. 41 (1850); Heugl. 
 Syst. Uebers. p. 30 (1856) j Hartl. Orn. W.-Afr. p. 69 (1857)) 
-Heugl. Ibis, 1859, p. 341; Hartl J.f. O. 1861, p. 161; Brehm, 
+Heugl. Ibis, 1859, p. 341; Hartl J.f.O. 1861, p. 161; Brehm, 
 Beis. Habesch, pp. 214,301 (1863); Heugl. Orn. N. 0. Afr. pp. 280, 
 lxxvii (1869); Finsch $ Hartl. Vog. Ostafr. p. 250 (1870) ; Blanf. 
 Geol.tyZool. Abyss, p. 360 (1870) ; Finsch, Trans. Z. S. vii. p. 234 
@@ -7763,7 +7763,7 @@ Cossypha leucoceps, Swains. Ckssif. B.'ii. p. 233 (1837).
 Bessonornis albicapilla, Gray, Gen. B. i. p. 220 (1847); Bp. Consp. 
 
 i. p. 301 (1850); Gray, Hmtd-I. B. i. p. 265, no. 3870 (1869). 
-Cossypha albicapilla, Hartl Orn. Westafr. p. 77 (1857); id. J.f. O. 
+Cossypha albicapilla, Hartl Orn. Westafr. p. 77 (1857); id. J.f.O. 
 1861, p. 163; Sharpe, Cat. Afr. B. p/26 (1871). 
 
 Adult. Above slaty brown, the lower back, rump, and upper tail-
@@ -8307,7 +8307,7 @@ b. Ad. sk. New Zealand. Capt. Mokf» "IV.
 c, d. Ad. sk. Xew Zealand. E} tun Colkctioif. 
 6. Sphenosacus riifescertg. 
 Sphenceacus rnfescens, Btdk)\ Ibis, 16l*9, p. 36; id. B. New Zeal. 
-p. 131, pi IS. %. 2 (1873); Ftnseh, J.f. O. It72T p. 112, 1874, 
+p. 131, pi IS. %. 2 (1873); Ftnseh, J.f.O. It72T p. 112, 1874, 
 p. 185; Sharpe, Voy. Ereb. fy Terror, App. Birds, p. "15 (1*75); 
 Butter, Man. B. New Zeal. p. 28, pL x. %. 2 (ltS21. 
 Megalurus rufeseens, Gray, Hand~l £. i. p. 206, no. 2013 (1860). 
@@ -10435,7 +10435,7 @@ Cj d> <$ ad. et $ juv. sk. Otjimhinque, June 1866 R. B. Sharpe, E-q.
 e. 9 ad. sk. Matalko, Damara Land, E. B. Sharps E^q. 
 July 1866 (C J. A.). 
 2. Calamonastes xuidosixs. 
-Drymceca undosa, lleichenoic, J.f. O. IBB2} p. 211. 
+Drymceca undosa, lleichenoic, J.f.O. IBB2} p. 211. 
 
 Adult male (type of species). General colour above uniform dark 
 ashy brown; wing-coverts like the back; the greater coverts obscurely 
@@ -10890,7 +10890,7 @@ Drymoeca rufogularis, Hartl. Orn. W.-Afr. p. 58 (1857).
 Euprinodes rufogularis, Cass. Proc. Philad. Acad. 1859, p. 38 ; Hartl. 
 
 
-J.f. O. 1861, p. 110. 
+J.f.O. 1861, p. 110. 
 Drymoterpe rufogularis, Heine, J.f 0. 1859, p. 426. 
 Adult (type of species). General colour above dull slaty brown, 
 with a faint tinge of olive; wing-coverts like the back; bastard 
@@ -10950,7 +10950,7 @@ Eab. West Africa : Fernando Po and Gaboon.
 a. Ad. sk. Fernando Po. L. Fraser, Esq. [C.]. 
 3. Euprinodes schistaceus. 
 Euprinodes schistaceus, Cass. Proc. Philad. Acad. 1859, p. 38; Hartl. 
-J.f. O. 1861, p. 110. 
+J.f.O. 1861, p. 110. 
 Drymoica schistacea, Gray, Hand-l. B. i. p. 201, no. 2838 (1869). 
 Adult male. Head, neck, and entire upper parts bluish cinereous, 
 with a slight tinge of olive on the back; abdomen, under wing-
@@ -11217,7 +11217,7 @@ to. Ad. Mem. sk. Elephant Tier, Oct. 7,1859 E.B. Sharpe, Esq.
 (a J. A.)." 
 
 2. Dryodromas melaniira. 
-Dryodromas melanurus, Cab, J.f, O.1882, p. 349. 
+Dryodromas melanurus, Cab, J.f.O.1882, p. 349. 
 Adult male (Angola; Schiitt: type of species). General colour 
 above dark slaty grey, thie mantle washed with brown; lesser and 
 median wing-coverts like the back, the greater series, primary-coverts, 
@@ -11357,7 +11357,7 @@ Andersson),
 
 5. Dryodromas icteropygiaiis. ^ *••+*} 
 Sylvietta icteropygiaiis, Zafr. Iter. Ztmh 1639, p. 2*J?, 
-Oligoeercus icteropyga. Cab. J.f. O. 1853, p. 109. 
+Oligoeercus icteropyga. Cab. J.f.O. 1853, p. 109. 
 Drymoica icteropygiaiis, G-ray, Hand-t. B. i. p. 202? no. 2652 (I860). 
 Drymoica dbigriKaris, F. § If.} Gray, Mand-t B. i p. 203? no. 28C0 
 
@@ -11827,9 +11827,9 @@ Hah. Benguela.
 a. $ ad. sk. Caeonda> Benguela (Anchieia). Lisbon Museum [P.], 
 4. Sylviella virens. 
 Sylvietta microura (non JRiipp.\ Cass. Pmc, PhUad. Acad. 1850, p. 318. 
-Sylvietta virens, Cass, Pmc. Philad. Acad. 1859, p. 39; Harti. J.f, O. 
+Sylvietta virens, Cass, Pmc. Philad. Acad. 1859, p. 39; Harti. J.f.O. 
 1861, p. 111. 
-Bseocerca -sirens, Seine, J.f. O. 1859, p. 426; Meicken. J.f. O. 1*77, 
+Bseocerca -sirens, Seine, J.f.O. 1859, p. 426; Meicken. J.f.O. 1*77, 
 
 p. 29; Shurpe fy Bouvier, Bull Soc. Z*JOL Frame, Ifef6, p. 30CJ; 
 Bocage>9 Orn. Angola, pp. 28&, 554 (1881). 
@@ -11886,7 +11886,7 @@ b. Ad. sk. Abrobonko, Fantee (Ussher). R. B. Sharpe, Esq.
 Eremomela, Sundev. (Efv. K. Vet-AJcad. Fork. Stochh. 
 
 1850, p. 102 E. flaviventris. 
-Bseoscehs, Heine, J.f. O. 1860, p. 130 E. badiceps. 
+Bseoscehs, Heine, J.f.O. 1860, p. 130 E. badiceps. 
 Tricholais, Heuglin, Orn. N.O.-Afr. p. 286 (1869).... E. elegans. 
 
 Head of Eremomelaflaviventris, to show the nostril. 
@@ -12542,7 +12542,7 @@ Sylvia cnryasocnema, Lickt in Jfus. Berol.
 
 
 , pp.'ZL'i,2f~& (ibt>3); nenqt. ion, i^ u, p, 
-id. Orn. N.O.-Afr. p. 281 (1869j; Finsch,J.f. O. l^p. 355; 
+id. Orn. N.O.-Afr. p. 281 (1869j; Finsch,J.f.O. l^p. 355; 
 Slmrpe, Ibis, 1870, p. 376: Finseh, Tr. Z. S. vii. p. 231 (1870, ; 
 BUmf. Geo!, fy Zool. Abyss, p. 370 (187Gf; FUIHII A- Hfirfl. YJg, 
 Ostafr. p. 241 (1870); )$harpe, Cat. AfV. B. p. 33 f 1^71^); 
@@ -12550,11 +12550,11 @@ ShelleyfyBuckley, Ifo's, 1872, p. 287; Aufin. «V Sal cad. Yiagg. Bogus,
 
 p. 105 (1873) ; UssJier, Ibis, 1874, p. 58; Reich* n. J. f^O. 1^75, 
 p. 50 ; M?. /. f. O. 1877, p. 29; Sharpe <$• B»Hvin\ Btrll >%r. Zml. 
-France, 1870? p. 307 ^Ifesc/^rJ- Reichen. J.f. O. 1870, p. 354 ; 
+France, 1870? p. 307 ^Ifesc/^rJ- Reichen. J.f.O. 1870, p. 354 ; 
 Ifortf. Abhandl not. Yer. Bremen, u l p. DO (lt^l); Pet, Sifz. 
 K. Ahad. Wien, p._ 144 {18*1). 
 Drvmoica griseoviridis, von Mull. Xaum. i. Heft 4. p. 27 (lKol). 
-Syncopta Srevicandata, Cab. J. f. O. 1853,13. li(j; Hartl. J.f. O. 
+Syncopta Srevicandata, Cab. J. f. O. 1853,13. li(j; Hartl. J.f.O. 
 1854, p. 17 ; Heugl Syst. Vehers. p. 23 (INJBI. 
 Orthotomus chrysocnemis, Licht Xmnencl. Ai\ BeroL p. 33 (1854). 
 Orthotonus damans, Heugl. Sj/st. Uelers. p. 24 (1^50). 
@@ -12714,7 +12714,7 @@ Camaroptera concolor, Hartl. Orn. W.-Afr. p. Q2 (1*>57); id. J", f. 0.
 1861, p. Ill; Eeugllbis, 1869, p. 141; Firwh £f Marti Yog. 
 Ostafr. p. 289 (1870) ; Shelley $ Buckley, Ibis, 1672, p. 201; liekhen. 
 
-J.f. O. 1875, pp. 44, 50. 
+J.f.O. 1875, pp. 44, 50. 
 Drymoica concolor, Gray, Hand-l. B. i. p. 203f no. 28*16 (1S00). 
 Adult General colour above doll olive-green ; lesser and median 
 
@@ -12938,7 +12938,7 @@ R. B. Siiarpe, Esq.
 
 2. Stiphrornis gaboaensis. (Plate YL fig. 2.) 
 Stiphrornis ervthrothorax (non Hartl\ Cass. Prue. PMM. Acad. 
-1859, p. SO {Seine, J. f. O. 1*50, p. 1:J0: Hurt!. J.f. O. 1-61, 
+1859, p. SO {Seine, J. f. O. 1*50, p. 1:J0: Hurt!. J.f.O. 1-61, 
 
 p. Ill,- /Sfca?ye, Orf. 4/ h B. p. 32 (1^71, pt.j. 
 Adult. Yery similar to & erythrothorax; but instead of being 
@@ -15307,7 +15307,7 @@ a. Ad. sk. Landana, Congo (Z. Petit). M. A. Bouvier.
 Drymoica 
 bairdi, Cass. Proc. Philad. Acad. 1855, p. 327 * Gh'ay, 
 Mand-I B. i. p. 201, no. 2834 (1869). 
-Drymoeca bairdi, Marti Orn. W.-Afr. pp. 59,271 (1857); id. J.f. O. 
+Drymoeca bairdi, Marti Orn. W.-Afr. pp. 59,271 (1857); id. J.f.O. 
 1861, p. 110 j Oustalet, N. Arch. Mm. (2) ii. p. 104 (1879). 
 Herpystera bairdi, Sundev. Av. Meth. Tent. p. 7 (1872). 
 
@@ -18175,7 +18175,7 @@ Drymoeca erythrops, Hartl Orn. W.-Afr. p. 58 (l<)itj; Sfarpe, Ibis,
 ib7G, p. 475; id. Gat Aff.B. p. CI 41*711; Sktlley_j#_Buddeyf 
 
 Drvmoica errthrop-, Gray, JZa/uI-t B. i. p. 100.2 o. 'J7^S {1*69). 
-Meloeichla pvrrliops, Cah. J.f. O. 1<5. p. L*3G: Bmdui. J, f. 0. 
+Meloeichla pvrrliops, Cah. J.f.O. 1<5. p. L*3G: Bmdui. J, f. 0. 
 1*77, p. 80""; Gab. J. f. 0. l-*78, p. 2±> 
 Cfcticola emhrops. Shwrpc ty JSWuVr, Bull. &m. Z^ol. France, ii. 
 
@@ -18685,7 +18685,7 @@ Hah. Himalayas: Nepal and Kumaon.
 
 a. Ad. sk Nepal. B. H. Hodgson, Esq. [P.], 
 14. Cisticola ferruginea*. 
-Cisticola ferraginea, Heugl. Syst TTebers. p. 21 (1856); id, J.f. O. 
+Cisticola ferraginea, Heugl. Syst TTebers. p. 21 (1856); id, J.f.O. 
 1864, p. 259; id. Ibis, 1869, p. 143; id. Orn. MO.-Afr. p. 265 
 (1869), iv. App. p. kxv (1873). 
 
@@ -20051,7 +20051,7 @@ Drymoica valida, &ray, t c. p. 200, no. 2802 (18G9).
 Drymoica strangeri, Gray, t c. p. 198, no. 2755 (1869). 
 Cisticola stran&'ei, Sliarpe § Bouvier, Bull Soc. Zool France, i. p. 306 
 (1876). 
-Cisticola fortirostris, Cab. J.f. O. 1878, p. 222. 
+Cisticola fortirostris, Cab. J.f.O. 1878, p. 222. 
 
 
 General colour aboye dusky brown, with ashy margins to the 
@@ -24041,7 +24041,7 @@ Malacca.
 India Museum. 
 W. Harvey, Esq. [P.]. 
 
-2. Eupetes cserulescens. 
+2. Eupetes caerulescens. 
 Eupetes caerulescens, 
 Temm. PI. Col. ii. pi. 574 (1885;; Mull. Nat. 
 Gesch. Land-en Talk. p. 22 (1839-1844); Gray, Gen.B. i. p. 208 
@@ -27266,7 +27266,7 @@ b. Ad. sk. Madras. Gould Collection.
 4. Argya rubigiaosa. 
 Crateropus rubiginosus, Riipp. Syst. Uebers. p. 47, Taf. 19 (1845); 
 Gray, Gen. B. i. p. 224 (1840) j Bp. Consp. I p. 278 (1850) 
-JSevgl Syst Uebers. p. 30 (1856) ; id. J.f. O. 18Q2, p. 300. 
+JSevgl Syst Uebers. p. 30 (1856) ; id. J.f.O. 18Q2, p. 300. 
 
 Chatorhea rubigino.*a, Myth, Ibis, 1807, p. 6. 
 Malacocercus rubiginosus, Gray, Eand-L B. i. p. 272, no. 4120 
@@ -29142,7 +29142,7 @@ Yin, Eaqrs. [P.].
 
 10, Pomatorhinus rnficeps. 
 
-PoinatLrliinu* miicep^ Hartl. J.f. O. jb33, p. 31; Gould, B. Austr., 
+PoinatLrliinu* miicep^ Hartl. J.f.O. jb33, p. 31; Gould, B. Austr., 
 Suppl. pi. ob; Gray, Iland-L B. i. p. 27^, no. 4101 {JdJD). 
 Poraatoetoiau* mneep^ Gould, ITandb. B. Austr, i. p. 464 (1865) ; 
 Ramsay, Proc. Linn, 8oe. 2V". 8. W. ii. p. Is^ (lsTo). 
@@ -30273,7 +30273,7 @@ Genov. xiv. p. 229 (1879).
 
 Garrulus 
 coronatus, Fj-eliny, Jahre^b. naturf. Geselhcli. Bmden, 
-1852, p. 20; Reichenb. J.f. O. 1854, p. 149. 
+1852, p. 20; Reichenb. J.f.O. 1854, p. 149. 
 
 Adult. General colour above deep chocolate-brown, the wing-
 coverts like the back; quills blackish brown, externally edged with 
@@ -32511,7 +32511,7 @@ Ixos plebejus, CretzscJmi. in Bvpp. Atlas, Taf. 23 (1826).
 Crateropus plebeius, Gray, Gen. B. i. p. 224 (1846); Bp. Consp. i. 
 
 p. 278 (1850): Kirk, this, 1864, p. 318; Antin. Cat descr. p. 44 
-(1864); Hartm. J.f. O. 1864, p. 148; Gray, Hand-l B. i. p. 280, 
+(1864); Hartm. J.f.O. 1864, p. 148; Gray, Hand-l B. i. p. 280, 
 no. 4133 (1869); Finsch $ Eartl Vog. Ostafr. p. 287 (1870); 
 Hmgl Orn. N.O.-Afr. i. p. 303 (1870). 
 474 TniEums. 
@@ -32553,7 +32553,7 @@ O.plebeius, then C. lirlcii will certainly be a recognizable dark race.
 a. Ad. .sk. Zambesi. Dr. Kirk '"P.". (Type 
 of C. fa'fknl) " 
 6. Crateropus hypostictus. 
-Crateropus hypostictus, Cab. $ Reichen. J.f. O. 1S77, pp. 2o, 103. 
+Crateropus hypostictus, Cab. $ Reichen. J.f.O. 1S77, pp. 2o, 103. 
 Very like O. plebeius, but smaller and having blackish lores 
 (Cabanis 4' Reichen.) 
 JIab. Loango coast, W. Africa. 
@@ -37017,7 +37017,7 @@ Eyton Collection.
 
 7. Tnrdinus falvescens. 
 Turdirostris ftdvescen?, Cass, Broc. BMlad. Acad. 1859, p. 54 j Heine, 
-J.f. O. 1809, p. 4:J0; IlariL J.f. O. 1861, p. 17ii. 
+J.f.O. 1809, p. 4:J0; IlariL J.f.O. 1861, p. 17ii. 
 Alethe fulve&cen*, Gray, IIaad4. B. i. p. SVJ, no. 4784 (1869). 
 Trichastoma rutipennis; Sharpe} Ann. ty Mag. Sat, Hist. (4) x, p. 451 
 Trichastoma fulvescens, Sliarpe, Ann. $• Mag. Nat, Hist. (4) s. 
@@ -43910,11 +43910,11 @@ Vog. BeutscU. pi. 92. fig. 2 (1822); Werner, Atlas, Insectivores,
 pi. 71 (1827) ; Gould, B. Eur. ii. pi. 101 (1837); Gray, Gen. B. 
 I p. 187 (1848) ; Bp. Consp. I p. 305 (1850) ; Middend. Sibir. Beis., 
 Zool p. 172 (1851); Badde, Beis. Sibir., Vog. p. 243 (1863) • Bree, B. 
-Eur. ii. p. 115, pi. (1867); Dybowskify Parvex, J.f. O. 1868, p. 334; 
+Eur. ii. p. 115, pi. (1867); Dybowskify Parvex, J.f.O. 1868, p. 334; 
 Gray, Uand-l. B. I p. 233, no. 3322 (1869); Fritsch, Vog. Eur. tab. 
 
 18. fig. 16 (c. 1870); Tristr. Ibis, 1870, p. 494; Gould, B. Asia, 
-part 23 (1871) ; Swinh. P. Z. S. 1871, p. 361; Taczan. J.f. O. 
+part 23 (1871) ; Swinh. P. Z. S. 1871, p. 361; Taczan. J.f.O. 
 654 TIMELIIDJS. 
 
 1872, p. 434, 1874, p. 335; Dresser, B. Eur. hi. p. 35, pi. 100 
