@@ -5173,7 +5173,7 @@ Microtarsus, Eyton, P. Z. S. 1839, p. 102 M. melanoleucus.
 Bracliypodius, Blyth, J. A. S. Beny. xiv. p. 576 
 
 (1845) M. melanocephalus. 
-Prosecusa, Beichenb. Syst. Av. pi. liv. fig. 10' (1850) M. chalcocephalus. 
+Prosecusa, Reichenb. Syst. Av. pi. liv. fig. 10' (1850) M. chalcocephalus. 
 Ixocherus, Bp. Notes Coll. Dtlattre in 0. B. xxxviii. 
 
 1854, p. 58 «. M. melanoleucus. 
@@ -8274,7 +8274,7 @@ nom. emend.) P. capensis.
 
 Tarsus of Phyllostrophus capensis, to show scutellations. 
 
-Bange. Confined to Africa. 
+Range. Confined to Africa. 
 
 * A species supposed to be a Phyllostrophus has been described from Sen*gambia, 
 but lias never been seen since D'Aubenton's time. Its synonymy is as 
@@ -8481,7 +8481,7 @@ Ixonotus, J. $ E. Terr. Bev. et Mag. de Zool. 1851, Type,
 
 p. 306 I. guttatus. 
 Head and bill of Ixonotus guttatus. 
-Bange. Confined to AVest Africa, from Gaboon to Fantee. 
+Range. Confined to AVest Africa, from Gaboon to Fantee. 
 
 20. IXONOTUS. 119 
 1. Ixonotus guttatus. 
@@ -12043,7 +12043,7 @@ Type.
 
 Head of Spteixus canifrons. 
 
-Bange. Hills of Sylhet, Khasia hills, Foochow, and Formosa. 
+Range. Hills of Sylhet, Khasia hills, Foochow, and Formosa. 
 
 Key to the Species. 
 
@@ -12157,7 +12157,7 @@ Irena, Honf. TV. Linn. Soc. xiii. p. 1-33 I. tureosa.
 
 Head of Irena crhriger, to show nuchal hairs. 
 
-Bange. Indian peninsula, Indo-Chinese countries, Malayan peninsula 
+Range. Indian peninsula, Indo-Chinese countries, Malayan peninsula 
 ; Java ; Sumatra ; Borneo ; Philippine Islands. 
 
 This genus was fully described by me in the present work 
@@ -12687,7 +12687,7 @@ coverts 45. GINCLUS, p. 306.
 Type. 
 Cinnicertliia, Lesson, Descr. Mamm. et Ois. p. 286 (1847) C. unirufa. 
 Presbvs, Cab. Mm. llein. Th. i. p. 80 (1850) C. unirufa. 
-Thelydrias, Beichenb. Syst. Av. (1853, teste Gray). 
+Thelydrias, Reichenb. Syst. Av. (1853, teste Gray). 
 
 Head of Cinniccrthia unirufa. 
 Range. Confined to South America. 
@@ -20570,7 +20570,7 @@ Hydrobata, Vieill. Now. Diet. d'Hist. Nat. i. p. 219 (1816). C. albicollis.
 Of. Salvin, Ibis, 1867, pp. 109-122; Seebohm, Ibis, 1880, p. 190. 
 
 Bill of Cinclus. Leg of Cinclus. 
-Bange. As a rule Dippers are northern birds, and are largely 
+Range. As a rule Dippers are northern birds, and are largely 
 spread over the Palsearctic Eegion -wherever there are mountains with 
 swiftly flowing streams to afford a suitable habitat. They are 
 found over the greater part of Europe and Northern Asia, and occur 
@@ -22414,7 +22414,7 @@ Galeoscoptes, Cab. Mus. Hein. Th. i. p. 82 (1850) ... . G. carolmensis.
 Felivox, Bp. Comptes Rendus. xxxviii. p. 56 (1854) .. G. carolinensis. 
 
 
-Bange. North America, extending into Central America on migration. 
+Range. North America, extending into Central America on migration. 
 
 
 1. Galeoscoptes carolmensis. 
@@ -25306,7 +25306,7 @@ and velvety 66. SEBICUXTJS, p. 895.
 Type. 
 Ptilonorhynchus, Kuhl, Beitr, zur Zool. p. 150 (1820) ,. P. \iolaceus. 
 
-Bange. Confined to Australia. 
+Range. Confined to Australia. 
 
 61. PmONORHXtfCHUS. 
 381 

@@ -1086,7 +1086,7 @@ Bab. Sandwich Islands.
 
 3. Hemignatlras lucidus. 
 Hemignathus lucidus, Licht. Abhandl. K. Ahad. Berlin, 1838, p. 451, 
-tab. v. fig. 2; Bp. Consp. i. p. 404 (1850) j Beichenb. Bandb. 
+tab. v. fig. 2; Bp. Consp. i. p. 404 (1850) j Reichenb. Bandb. 
 Scam. p. 313, Taf. dxci. figs. 4012-13 (1853); Licht. Nomencl Av. 
 
 p. 55 (1854) ; Cass. U.S. JEipl Biped., Birds, p. 180 (1858); Dole, 
@@ -1140,7 +1140,7 @@ Merops jaunoir, Levaill. Hist. Nat. Promerops et Guepiers, iii. pL 19
 (1807). 
 
 Drepanis pacifica, Temm. Man. WOrn. i. p. lxxxvi (1820); Gray, 
-Gen. B. i. p. 96 (1847) ; Bp. Consp. i. p. 403 (1850); Beichenb. 
+Gen. B. i. p. 96 (1847) ; Bp. Consp. i. p. 403 (1850); Reichenb. 
 Handb. Scans, p. 253, pi. dlxi. fig. 3828 (1853); Gray, Cat. Birds 
 Trop. Isl. Pacific Ocean, p. 7 (1859) ; id. Hand-l. B. i. p. 113, 
 no. 1443 (1869) ; Bole, Proc. Bost. Soc. Nat. Hist. xii. p. 297 
@@ -1339,7 +1339,7 @@ Bost. Soc. Nat. Mist. xii. p. 298 (1869); Sclater, P. Z. 8.1878J
 p. 348; id. Report Birds *" Challenge?*"1 Exjped. p. 95 (1881). 
 Himatione chloris, Cab. Mm. Hem. Th. i. p. 99, note (1850). 
 Himatione maculata, Cab. t. c. p. 100, note (1850). 
-Himatione flava, Beichenb. Handb. Scans, p. 256 (1855). 
+Himatione flava, Reichenb. Handb. Scans, p. 256 (1855). 
 Drepanis (Himatione) sanguinea $, Gray, Cat. Birds Trojp. Isl. 
 Pacific Ocean, p. 8 (1859). 
 
@@ -2367,7 +2367,7 @@ Ad. sk, Sula Islands. A. E. Wallace, Esq. [C.].
 Dicceum sanguinolentum, 
 Temm. PI. Col. iv. pi. 478. fig. 2 (1829) • 
 Gray, Gen. B. i. p. 100 (1847;; Bp. Consp. i. p. 403 (1850) • 
-Beichenb. Handb. Scans, p. 240, pi. dlvii. fig. 3783 (1853) : Gray 
+Reichenb. Handb. Scans, p. 240, pi. dlvii. fig. 3783 (1853) : Gray 
 Hand-l B. i. p. 114, no. 1418 (1809); Nichols. Ibis, 1881, p. 152 • 
 Meyer, Vog. etc. Ostind. Arch. p. 39 (1884). ' 
 
@@ -2409,7 +2409,7 @@ Volkenk. p. 162 (1839-44); Gray, Gen. B. i. p. 100 (1847); Bp.
 Consp. i. p. 433 (1850) ; Wall. P. Z. S. 1863, p. 486* Finsch, New 
 Guinea^. 163 (1865); Gray, Hand-l. B. i. p. 115, no. 1433 (1869). 
 
-Microchelidon maeklotii, Beichenb. Handb. Scans, p. 244 (1853). 
+Microchelidon maeklotii, Reichenb. Handb. Scans, p. 244 (1853). 
 
 Adult male (type of species). General colour above dark purplish 
 blue, the wing-coverts like the back; bastard-wing, primary-coverts, 
@@ -2761,7 +2761,7 @@ figs. 1,2 (1826-28); id. Traite, p. SOS (1831) ; Mull $ SchL Verh.
 Natuurl. Oesch. Land-en Volkenk. p. 162, note (1839-44); Hartl. 
 Bev. Zool. 1846, p. 47; Gray, Gen. B. i. p. 100 (1847) ; Bp. Consp. 
 
-i. p. 403 (1850); Beichenb. Bandb. ticans. p. 241, Taf. dlvii. 
+i. p. 403 (1850); Reichenb. Bandb. ticans. p. 241, Taf. dlvii. 
 figs. 3784-85 (1853) j Gray, P. Z. S. 1860, p. 349; Wall. P. Z. 8. 
 1863, pp. 19, 32; Finsch, Neu-Guinea, p. 163 (1865); Gray, 
 Band-l. B. i. p. 115, no. 1427 (1869); Meyer, JSitz. K. Akad. 
@@ -3607,7 +3607,7 @@ Ad. sk. West coast of Sumatra. Dr. Eaber [C.].
 42. DicsBum concolor. 
 Dictum concolor, Jerd. Madr. Journ. xi. p. 227 (1840); id, IU. Ind. 
 Orn. pi. 39 (1847); Gray, Gen. B. I p. 100 (1847) ; Blyth, Cat. B. 
-Mus. As. Soc. p. 227 (1849) ; JBp. Consp. i. p. 403 (1850)• Beichenb. 
+Mus. As. Soc. p. 227 (1849) ; JBp. Consp. i. p. 403 (1850)• Reichenb. 
 Handb. Scans, p. 241, Taf. dlvi. %. 3780 (1853); Jerd. B. Bid. i. 
 
 p. 375 (1862); Gray, Hand-l. B. i. p. 115, no. 1424 (1869); Hume, 
@@ -3795,7 +3795,7 @@ Dicamm
 minimum, Myth, Ami. $ Mag. Nat. Hist. xx. p. 316 
 (1847); Tytler, op. clt. (2) xiii. p. 373 (1854); Bhjth. Cat B. 
 Mus. As. Soc. p. 227 (1849); Bp. Consp. i. p. 403 (1850j ; 
-Beichenb. Handb. Scans, p. 241 (1853) j Horsf. § Moore, Cat B, 
+Reichenb. Handb. Scans, p. 241 (1853) j Horsf. § Moore, Cat B, 
 JE.I. Co. Mus. ii. p. 750 (1854) j Jerd. B. 2nd. i. p. 374 (1&62) 
 Beamn, 2bis, 18(55, p. 416; Brooks, 2Us, 18l'9, p. 47; Gray, 
 lland-l. B. i. p. 115, no. 1425 (1869); Blanf. Ibis, 1870, p. 4fe; 
@@ -3930,7 +3930,7 @@ Drepanis rrifa, Gray, Gen. B. i. p. 90 (1*547).
 Ilypoloxias coccinea, Bp. Consp. i. p. 518 (1850) ; Dole, Proc. Bust 
 
 \Soc. N. II. 1870, p. 301. 
-Ilimatione rufa, Beichenb. Handb. Scans, p. 255 (lbo3). 
+Ilimatione rufa, Reichenb. Handb. Scans, p. 255 (lbo3). 
 
 
 Adult. General colour above dull orange-rufous, rather ]>rwner 
@@ -4388,7 +4388,7 @@ Pardalotus punetatus, Temm. Man. d'Om. i. p. lxv (1^20): id. PL
 
 Col. iii. pi. 78 (182:]); Gould, Syu. B. Au»tr. ?L 2, pi iii %. 1 
 (1837) • Gray, Gen. B. i. p. 270 {1843); Gould, B. AuMr. ii. pi. So 
-(1848); Bp. Comp. i. p. 334 (lfcoO); Beichenb. Top. Xettholl. 
+(1848); Bp. Comp. i. p. 334 (lfcoO); Reichenb. Top. Xettholl. 
 
 p. 163 (1850) ; GWtf, jEftw«&. B. Austr. i. p. 157 (LbOo); % , 
 lland-l. B. i. p. 387? no. 5850 (1800); Bamsay, Proc. Linn. h'oc. 
@@ -13441,7 +13441,7 @@ Bill and tail of Petrochelidon pyrrhonota.
 190 
 HlRTnSDINIDJE. 
 
-Bange. North. America; Central America; and South America 
+Range. North. America; Central America; and South America 
 to Brazil and Peru. Antilles. South Africa. Australia and the 
 Papuan Islands. Central India. 
 
@@ -14229,7 +14229,7 @@ Pristoptera, Bp. Rivist. Contemp., Torino, 1857, p. 4. . P. pristoptera.
 
 Bill of Psalidoprocne holomelcena (magnified), to show nostrils. 
 
-Bange. Africa. 
+Range. Africa. 
 Key to the Species. 
 
 
@@ -17453,7 +17453,7 @@ Type.
 Mniotilta, Vieill Analyse, p. 45 (1816) M. varia. 
 Oxyglossus, Swains. Zool. Journ. iii. p. 357 (1828) M. varia. 
 
-Bange. Whole of [North America, ranging in winter throughout 
+Range. Whole of [North America, ranging in winter throughout 
 Central America to Colombia, Venezuela. Jamaica; Cuba ; S. 
 Domingo. 
 
@@ -17655,7 +17655,7 @@ Oreothlypis, Stejneger, Auk, 1884, p. 168 f P. superciliosa.
 
 Of. Stejneger, Auk, 1884, pp. 168-170. 
 
-Bange. Forth America. Central America, and South America 
+Range. Forth America. Central America, and South America 
 to Southern Brazil and Bolivia. 
 
 Key to the Sjpecies. 
@@ -43071,7 +43071,7 @@ Anthus australis,
 Vig.fyHorsf. Trans. Linn. Soc. xv. p. 229 (1826); 
 Gray, Gen. B. i. p. 206 (1847); Gould, B. Austr. fol. iii. pi. 73 
 (1848) ; Bp. Consp. I p. 249 (1850) ; Cab. Mus. Eein. Th. i. p. 15 
-(1850); Beichenb. Vog. Neuholl p. 64 (1850)• Gould, Ilandb. B. 
+(1850); Reichenb. Vog. Neuholl p. 64 (1850)• Gould, Ilandb. B. 
 Austr. I p. 392 (1865),-Ramsay, P. Z. A'1865, p. 690; Gray, 
 Hand-l. B. i. p. 252, no. 3656 (1869); Von Mull. P. Z. £ 1869, 
 

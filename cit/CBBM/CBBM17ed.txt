@@ -2853,7 +2853,7 @@ Coracias levaillanti, Temm. (ubi?); Riipp. Syst. JJebers. p. 23 (1845)
 Heugl Syst. Uehers. p. 18 (1856). 
 Coracias 
 pilosa, Gray, Cat. Fissir. Brit. Mus. p. 34 (1848); Bp. 
-Consp. i. p. 167 (1850) ; Beichenb. Handb., Merop. p. 49, Taf. 433. 
+Consp. i. p. 167 (1850) ; Reichenb. Handb., Merop. p. 49, Taf. 433. 
 fig. 3184 (1852) ; Scl. Contr. Orn. 1852, p. 124; Horsf. $ Moore, 
 Cat. B. Mus. E. I. Co. ii. p. 571 (1856); Bartl. Orn. TV-Afr. 
 
@@ -3077,7 +3077,7 @@ Syst Av. Coracias, no. 6 (1827); Jard. § Selby, PL Orn. iii. pi.
 
 cxxiii. (c. 1830); Swains. B. W. Aft. ii. p. 108, pi. xiii. (1837); 
 Gray, Gen. B. i. p. 62 (1845); id. Cat Fissir. Brit Mus. p. 34 
-(1848); Bp. Consp. Av. i. p. 167 (1850); Beichenb. Handb., 
+(1848); Bp. Consp. Av. i. p. 167 (1850); Reichenb. Handb., 
 Merop. p. 48, Taf. 432. figs. 3683-84 (1852); Sartl Orn. Westafr. 
 p. 30 (1857); Cab. Sf Seine, Mus. Hem. Th. ii. p. 110 (1860); Eartl. 
 J.f 0.1861, p. 104; 8c7iL Mus. Paxjs-Bas, Coraces, p. 136 (1867) ; 
@@ -3257,7 +3257,7 @@ African Roller, Lath. Gen. Syn. Suppl. i. p. 86 (1787).
 Coracias afra, Lath. Ind. Orn. i. p. 172 (1790). 
 Coracias africana, Shaw $ Nodder, Nat. Misc. xi. pi. 401 (1799). 
 Le Petit Bolle violet, Levaill. Ois. de Farad., Bolliers, pi. 35 (1806). 
-Colaris afra, Cuv. Begne Anim. i. p. 401 (1817) ; Beichenb. ttandb., 
+Colaris afra, Cuv. Begne Anim. i. p. 401 (1817) ; Reichenb. ttandb., 
 
 
 Merop. p. 56, Taf. 438. figs. 3201, 3202 (1852;. 
@@ -5650,16 +5650,16 @@ Mamm. Philipp. p. 9 (1890).
 
 Merops badius, G?n. 8yst. Nat. i. p. 462 (1788); Gray, Gen. B. i. 
 
-p. 86 (1846); Beichenb. Handb., Merop. p. 75, Taf. 449. fig. 3244 
+p. 86 (1846); Reichenb. Handb., Merop. p. 75, Taf. 449. fig. 3244 
 (1852). 
 Merops castaneus, Lath. Lnd. Orn. i. p. 273 (1790); Vieill. N. Diet 
 tfffist Nat. xiv. p. 18 (1817). 
 Le Guepier marron et bleu, ou Le Guepier Latreille, male, Levaill. 
 Hist. Nat. Guipiers, iii. p. 45, pi. 12 (1807). 
-Merops hypoglaucus, Beichenb. Handb.) Merop. p. 76, Taf. 449. fig. 
+Merops hypoglaucus, Reichenb. Handb.) Merop. p. 76, Taf. 449. fig. 
 3245 (1852). 
-Melittophas badius, Beichenb. t c. p. 82 (1852). 
-Melittopkas hypoglaucus, Beichenb. t. c. p. 82 (1852). 
+Melittophas badius, Reichenb. t c. p. 82 (1852). 
+Melittopkas hypoglaucus, Reichenb. t. c. p. 82 (1852). 
 Merops omatus (nee Lath.), Von Mai-tens, J. f. O. 1866, p. 17. 
 
 Adult male. Back and scapulars green, as well as the wing
@@ -6289,8 +6289,8 @@ Kirk, Ibis, 1864, p. 324; Layard, B. S. Afr. p. 69 (1867); Gurney,
 Ibis, 1868, p. 154; Gray, Hand-l B. i. p. 99, no. 1206 (1869); 
 Holub $ Pete. Beitr. Orn. Sudafr. p. 65 (1882). 
 
-Blepharomerops aegyptius, Beichenb. Handb., Merop. p. 82 (1852). 
-Blepharoinerops savignii, Beichenb. t. c. p. 82 (1852). 
+Blepharomerops aegyptius, Reichenb. Handb., Merop. p. 82 (1852). 
+Blepharoinerops savignii, Reichenb. t. c. p. 82 (1852). 
 Merops chrysocercus, Cab.fy Heine, Mus. JELein. Th. ii. p. 139 (1860). 
 
 
@@ -6604,11 +6604,11 @@ Merops ruficapillus, Vieill. N. Diet. d'Eist. Nat. xiv. p. 23 (1817).
 
 Merops vaillauti, Bp. Consp. i. p. 161 (1850). 
 
-Merops segyptms (nee Forsh.), Beichenb. Eandb., Merop. p. 64, 
+Merops segyptms (nee Forsh.), Reichenb. Eandb., Merop. p. 64, 
 
 Taf. 443 B. figs. 3545-46 (1852). 
-Blepharomerops segyptius, Beichenb. t. e. p. 82 (1852). 
-Blepharomerops superciliosus, Beichenb. t. e. p. 82 (1852). 
+Blepharomerops segyptius, Reichenb. t. e. p. 82 (1852). 
+Blepharomerops superciliosus, Reichenb. t. e. p. 82 (1852). 
 
 
 Adult male. Similar to M. aegyptius, and having a golden-olive 
@@ -7334,7 +7334,7 @@ p. 306; Shelley, Ibis, 1890, p. 167; Sharpe, App. to Jameson's
 Merops savignii (nee Audouin), Swains. Zool. Illustr. ii. pi. lxxvi. 
 (1821). 
 Merops cuvieri, Licht Verz. Doubl. p. 15 (1823). 
-Aerops albicollis, Beichenb. Handb., Merop. p. 82, Taf. 449.figs. 3246
+Aerops albicollis, Reichenb. Handb., Merop. p. 82, Taf. 449.figs. 3246
 
 
 47 (1852); Cab. <$• Heine, Mus. Hein. Th. ii. p. 137 (1863). 
@@ -8171,7 +8171,7 @@ Blue-headed Bee-eater, Lath, Gen. Syn. i. pt. 2, p. 680 (1782).
 Merops nubicus, Gm. Syst Nat i. p. 464 (1788); Gray, Gen. B. 
 
 i. p. 86 (1846) ; Strickl. P. Z. S. 1850, p. 216; Bp. Consp. i. p. 161 
-(1850); Beichenb. Ilandb., Merop. p. 79, Taf. 451. figs. 3254-55 
+(1850); Reichenb. Ilandb., Merop. p. 79, Taf. 451. figs. 3254-55 
 (1852); Marti Orn. Westafr. p. 41 (1857) ; Cab. $ Heine, Mus. 
 Hein. Th. ii. p. 141 (1860); Schl. Mus. Pays-Bas, Merops, p. 7 
 (1863); Antin. Cat descr. Uce. p. 30(1864); Gray, Hand~l B. 
@@ -8313,7 +8313,7 @@ Range. Confined to Celebes.
 
 1. Meropogon forsteni 
 Meropogon forsteni, Bp. Consp. i. p. 164 (1850, ex Temm. MSS) ; 
-Beichenb. Handb., Merop. p. 10 (1852) ; Tweedd. Trans. Z. S. viii. 
+Reichenb. Handb., Merop. p. 10 (1852) ; Tweedd. Trans. Z. S. viii. 
 
 p. 42 (1872); Meyer, J. f. 0. 1872, p. 405; Gould, B. Asia, i. 
 pi. 39 (1873) ; Meyer, Ibis, 1879, p. 58; Dresser, Monoyr. Merop. 
@@ -8521,7 +8521,7 @@ Nyctiornis amicta, Swains. Zool. Illustr. 2nd ser. ii., text to pi. 56
 (1831); Gray, Gen. B. i. p. 87 (1846) ; id. List Fissir, Brit. Mus. 
 
 p. 73 (1848); Bp. Consp. i. p. 164 (1850); Gould, B. Asia, i. pi. 38 
-(1850); Beichenb. Handb., Merop.y. 80, Taf. 453. figs. 3260-61 
+(1850); Reichenb. Handb., Merop.y. 80, Taf. 453. figs. 3260-61 
 (1852) ; Moore, P. Z. S. 1854, p. 264; Horsf. $ Moore, Cat. B. 
 Mus. E. I. Co. i. p. 383 (1854) ; Bp. Consp. Valuer. Anis. p. 8 
 (1854) ; Cab. $ Heine, Mus. Hein. Th. ii. p. 133 (1860) ; Jerd. B. 
@@ -9235,7 +9235,7 @@ Passeres, pi. 15. fig. 1 (no. 221): id. in Gray's Zool. Misc. p. 82
 (1844). 
 
 Halcyon brunniceps, Jerd. Madr. Journ. xiii. p. 143 (1844). 
-Ehamphalcyon gurial, Beichenb. Ilandb., Alced. p. 16, Taf. 426. fig. 
+Ehamphalcyon gurial, Reichenb. Ilandb., Alced. p. 16, Taf. 426. fig. 
 3158 (1851, nee Taf. 399. fig. 3075). 
 
 Pelargopsis 
@@ -9533,7 +9533,7 @@ Sharpe Coll.). (Types of species.).
 d, e. Ad. sk. Flores. "Wallace Coll. 
 
 Subsp. y. Pelargopsis burmanica. 
-Khamphaleyon capensis (nee L.),Beichenb. Handb., Alcecl. p. 16, Taf. 
+Khamphaleyon capensis (nee L.),Reichenb. Handb., Alcecl. p. 16, Taf. 
 
 399. figs. 3072-73 (1851). 
 Halcyon leucocephalus {nee Gm.), Horsf. Sr Moore, Cat. B. Mus. 
@@ -10375,7 +10375,7 @@ F. x. p. 457 (1887); Cordeaux, Ibis, 1888, p. 224; Hume, Str. F.
 xi. p. 47 (1888); Oates, ed. Hume's Nests <§• Eggs Ind. B. p. 8 
 (1890). 
 Oeryle leuconielanura, 
-Beichenb. Handb., Alced. p. 21, Taf. 409 B. 
+Reichenb. Handb., Alced. p. 21, Taf. 409 B. 
 fig. 3488 (1851). 
 
 Adult male. Similar to Q. rudis, but generally distinguished by a 
@@ -10828,7 +10828,7 @@ Alcedo lugubris, Temm. PL Col. iv. pi. 548 (1834) ; Schl. Mus.
 Pays-Bas, Alced. p. 2 (1863). 
 Alcedo (Ceryle) lugubris, Temm. § Schl. Faun. Jap., Aves, p. 77, 
 pi. 38 B (ISoO). 
-Ceryle lugubris, Bp. Consp. i. p. 160 (1850) ; Beichenb. Handb., 
+Ceryle lugubris, Bp. Consp. i. p. 160 (1850) ; Reichenb. Handb., 
 Alced. p. 22, Taf. 408. figs. 3099-3100 (1851) ; Sicinh. P. Z. S. 
 1863, p. 333 ; Gray, Hand-l. B. i. p. 97, no. 1184 (1869) ; Sharpe, 
 Monogr. Alced. p. 59 (1869); Swinh. P. Z. S. 1871, p. 348; id. 
@@ -12281,13 +12281,13 @@ Argent. Orn. ii. p. 27 (1889) ; Allen, Bull. Amer. Mus. N. Y. ii.
 
 p. 101 (1889). 
 Chloroceryle 
-americana, Beichenb. Handb., Alced. p. 27, Taf. 413. 
+americana, Reichenb. Handb., Alced. p. 27, Taf. 413. 
 figs. 3112-13 (1851); Bwm. Th. Bras. ii. p. 407 (1856) ; Cab. $ 
 Heine, Mus. Hein. Th. ii. p. 147 (1860); Burm. Hew. La-Plata, 
 
 ii. p. 447 (1861); Sbl. Cat. Amer. B. p. 265 (1862); Barrows, Auk, 
 i. p. 26 (1884). 
-Chlorocervle chalcites, Beichenb. Handb., Alced. p. 28, Taf. 415. 
+Chlorocervle chalcites, Reichenb. Handb., Alced. p. 28, Taf. 415. 
 figs. 3120-21 (1851); Burm. Th. Bras. ii. p. 408, note (1856). 
 Ceryle cabanisi 
 {nee Tack), Scl $ Salv. P. Z. S. 1879, p. 534; 
@@ -13143,7 +13143,7 @@ a. 2 ^d. sk. Santa Rita, Ecuador ( Yillagomez). Salvin-Godman Coll.
 3. ALCED0. 
 Type. 
 Alcedo, Linn. Syst. Nat. i. p. 178 (1766) A. ispida. 
-Bange. Over the greater part of the Old "World, excepting Aus
+Range. Over the greater part of the Old "World, excepting Aus
 
 
 tralia and Polynesia. Absent in the JSTew World. 
@@ -13405,9 +13405,9 @@ Alcedo Iiispida, Less. Traite, p. 243 (1831); Filippi, Viagg. Persia,
 p. 346 (1865). 
 Alcedo subispida, Brehm, Vog. Deutschl. p. 149 (1831). 
 Alcedo advena, Brehm, t. c. p. 150, Taf. xi. fig. 2 (1831). 
-Alcedo pallasi, Beichenb. Handb., Alced. p. 3, Taf. 392. figs. 3043-44, 
+Alcedo pallasi, Reichenb. Handb., Alced. p. 3, Taf. 392. figs. 3043-44, 
 Taf. 393. figs. 3045-40 (1851). 
-Alcedo bengalensis, var. sondaica, Beichenb. t. c. p. 3 (1851). 
+Alcedo bengalensis, var. sondaica, Reichenb. t. c. p. 3 (1851). 
 Alcedo japonica, Bp. Consp. Vol. Anis. p. 10 (1854). 
 Alcedo brachyrhynchus, Brehm, Vogelf. p. 51 (1855). 
 Alcedo pallida, Brehm, t. c. p. 51, 
@@ -15150,7 +15150,7 @@ B. As. Soc. 1889, p. 159; Whitehead^ Ibis, 1890, p. 45.
 Ceyx meninting, Ctivier, Pegne Anim. i. p. 444 (1829). 
 Alcedo bengalensis (nee Gm.), Less. Traite, p. 243 (1831, pt.). 
 Alcedo verreauxi, De la Berqe, Pev. Zool. 1851, p. 305, pi. 9 ; 
-Beichenb. Handb., Alced. p. 5, Taf. 403. fig. 3173 (1851); Blyth, 
+Reichenb. Handb., Alced. p. 5, Taf. 403. fig. 3173 (1851); Blyth, 
 Ibis, 1866, p. 348; Gray, Hand-l B. i. p. 95, no. 1155 (1869). 
 
 Adult male (type of species). General colour above rich purplish 
@@ -17709,7 +17709,7 @@ e\ <$ ad. sk. Waliko, July 31 (IF. J.). Salvin-Godman Coll.
 Alcedo natalensis, 
 Smith, S. Afr. Q. Journ. no. 5, p. 14 (1831); 
 Bayard, K S. Afr. p. 66 (1867). 
-Ispidina nitida, Kaup, Fa?n. Eisv. p. 13 (1848) j Beichenb. Handb., 
+Ispidina nitida, Kaup, Fa?n. Eisv. p. 13 (1848) j Reichenb. Handb., 
 Alced. p. 6 (1851). 
 Alcedo nitida, Gray, Cat. Mssir. Brit. Mus. p. 65 (1848); id. Gen. 
 
@@ -17788,7 +17788,7 @@ VOL. XVII. O
 Cass. Proc. Philad. Acad. 3867, p. 37; Jard. Mem. StricJcl p. SSI 
 (1858); DuChaillu, Equal. Afr. p. 472 (1861); Gray, Hand-l B. 
 L p. 96, no. 1169 (1869). 
-Ispidina leucogastra, Beichenb. Ha?idb.;Alced. p. 6, Taf. 395. fig. 3056 
+Ispidina leucogastra, Reichenb. Ha?idb.;Alced. p. 6, Taf. 395. fig. 3056 
 
 (1851); Cass. Cat. Halcyon. Phil. Mus. p. 13 (1852); Sharpe, 
 Monoyr. Alced. p. 139, pi. 50 (1868); Ussher, Ibis, 1874, p. 50 
@@ -18412,7 +18412,7 @@ Gen. B. p. 14 (1841); id. Kand-l B. i. p. 89, no. 1067 (1869);
 Bamsay, Proc. Linn. Soe. N. 8. Wales, iii. p. 262 (1878), iv. p. 97 
 (1879). 
 
-Melidora macrorhina, Beichenb. JEandb., Aleed. p. 41, sp. 99, Taf. 428. 
+Melidora macrorhina, Reichenb. JEandb., Aleed. p. 41, sp. 99, Taf. 428. 
 figs. 3166-7 (1851); Sclater, Journ. Linn. 8oc. ii. p. 156 (1858); 
 8harpe, Mon. Aleed. p. 303, pi. 120 (1869); Beccari, Ann. Mus. Civ. 
 Genov. vii. p. 708 (1875); Salvad. t c. p. 766, viii p. 398 (1876); 
@@ -18503,7 +18503,7 @@ Type.
 Clytoceyx, Sharpe, Ann, fy Mag. Nat. Hist (5) vi. p. 231 
 (1880) C. rex. 
 
-Bange. Confined to South-eastern New Guinea. 
+Range. Confined to South-eastern New Guinea. 
 
 1. Clytoceyx rex. 
 Clytoceyx rex, Sharpe, Ann. $ Mag. Nat Hist (5) vi. p. 231 (1880) ; 
@@ -18573,7 +18573,7 @@ Paralcyon, Gloger, in Froriep's Notizen, p. 278 (1827).... D. gigas.
 Choucalcyon, Less. Traiti d'Oni. p. 248 (1831) ........ D. gigas. 
 Nycticeyx, Gloger, Hcmdb. Naturg. p. 338 (1842) ...... D. gigas. 
 
-Bange. Australia and Southern Few Guinea. 
+Range. Australia and Southern Few Guinea. 
 
 Key to the Species. 
 
@@ -18602,13 +18602,13 @@ Alcedo gigantea, Lath. Bid. Orn. i. p. 245 (1790); Blum, Gen. ZooL
 viii. p. 53 (1811); Bonn, et Vieill. Enc. Meth. i. p. 282 (1823). 
 Dacelo gigantea, Leach, ZooL Misc. ii. p. 125, pi. cvi. (1815) ,* Vig. 
 # BLorsf. Tr. Linn. Boc. xv. p. 204 (1827); Gould, B. Amir. ii. 
-pi. 18 (1844); Beichenb. Tog. Neuholl. p. 36 (1850) j Bp. Gtmsp. 
+pi. 18 (1844); Reichenb. Tog. Neuholl. p. 36 (1850) j Bp. Gtmsp. 
 I p. 153 (1850); Biggies, Orn. Austr. pi. 23 (1870). 
 
 Choucalcyon australe, Less. Trade, p. 248 (1831). 
 
 Dacelo gigas, Gray, Gen. B. i. p. 78 (1846); id. List Fissir. Brit. 
-Mus. p. 51 (1848); Beichenb. Kandb., Alced. p. 40, Taf. 427. 
+Mus. p. 51 (1848); Reichenb. Kandb., Alced. p. 40, Taf. 427. 
 figs. 3161-63 (1851) ,* Cass. Cat. Hale. Philad. Mus. p. 14 (1852); 
 Gray, P. Z. B. 1858, p. 189; id. Cat Mamm. % B. New Guin. 
 pp. 19, 44 (1859); Bchl. Mus. Pays-Ba$, Alced. p. 19 (1803); 
@@ -19619,7 +19619,7 @@ Halcyon coromanda minor, Temm. <§• Schl. Faun. Japon. p. 76
 (1842). 
 Halcyon coromander, Blyth, Cat B. Mus. As. Soc. p. 47 (1849). 
 Halcyon schlegeli, Bp. Consp. i. p. 156 (1850). 
-Callialcyon coromanda, Beichenb. Handb., Alced. p. 15, Taf. 405. 
+Callialcyon coromanda, Reichenb. Handb., Alced. p. 15, Taf. 405. 
 
 fig. 3092 (1851); Bp. Consp. Vol. Anis. p. 9 (1854); Wald. Ibis, 
 1873, p. 302 (S. Andamans) ; Salvad. Ucc. Bom. p. 793 (1874): 
@@ -22064,7 +22064,7 @@ Gray, Mand-l. B. i. p. 91, no. 1088 (18(59); Sharpe^ Jlonoc/r. Alced.
 p. Ib7, pi. 03 (1869; ; id. ed. Bayard's B. 8. Afr. p. 119 (1875); Cab. 
 J.f. 0. lbTS, p. 235 (E. Africa); Shelby} P. Z. 8. 18S1, p. 566 
 (ikino, Melindi, Pangani); Gumey, Ibis, 1882, p. 72 (Mombasa). 
-Halcyon irrorata, Beichenb. Mandb., Alced. p. 11, Taf. 400. fig. 3078, 
+Halcyon irrorata, Reichenb. Mandb., Alced. p. 11, Taf. 400. fig. 3078, 
 Tat*. 401. ilii. 3079 (1851) ; Cab. in Von der Deckens Revs. iii. p. 36 
 (180b: Mozambique); Finsch 4* MariL Tog. Osiafr. p. 159 (1870) j 
 Fischer §• Ileiehea. J.f. O. 1878, p. 255 (Mombasa); Fischer, t. e. 
@@ -22518,7 +22518,7 @@ Alceclo malimbica, Shaw, Gen. Zool. viii. p. GQ (1811).
 Alcedo cinereifrons, Vieill. Nouv. Diet. sis., p. 403 (1818); id, fy 
 Oud. Gal. Ois. i. pi. 187 (1825). 
 Halcyon cinereifrons, Gray, Gen. B. i. p. 79 (1846); Yerr. Bev. et 
-Mag. de Zool. 1851, p. 265 (Gaboon); Beichenb. Eandb., Alced. 
+Mag. de Zool. 1851, p. 265 (Gaboon); Reichenb. Eandb., Alced. 
 
 p. 12, Taf. 400. ^g. 3076 (1851) ; Earth Orn. Wesf-Afr. p. 32 
 (1857, pt.) ; Hartl J.f. O. 1861, p. 104 (Bembe); Laijard, B. 8. 
@@ -26197,7 +26197,7 @@ Type.
 Tanysiptera, Vigors, Trans. Linn. Soc. xiv. p. 433 (1825). T. dea. 
 Uralcyon, Heine, J.f*. 0.1859, p. 406 T. sylvia. 
 
-Bange. Moluccas, Papuan Islands, and the Cape York 
+Range. Moluccas, Papuan Islands, and the Cape York 
 Peninsula of Australia. 
 
 Key to tlie Species. 
@@ -30678,7 +30678,7 @@ culmen, or sloping clown anteriorly till it becomes almost confluent
 with it; sides of the throat naked ; tail-feathers subequal, uniform 
 white stained with buff; crest moderate, rather hairy; size large. 
 
-Banger. Philippine Islands. 
+Ranger. Philippine Islands. 
 
 Kiti to the Species. 
 
@@ -33297,7 +33297,7 @@ Size small; bill moderate, curved, with or without a small keel-
 shaped casque ; sides of the throat more or less naked ; tail wedge-
 shaped ; crest slight; plumage grey, below white or grey. 
 
-Bange. Peninsula of India and Ceylon. 
+Range. Peninsula of India and Ceylon. 
 
 Key to the Species, 
 
@@ -36308,7 +36308,7 @@ face feathered; ear-coverts produced into hair-like filaments. Upper
 tail-coverts not abnormally lengthened. Edge of npper mandible 
 toothed behind the sub terminal notch. 
 
-Bange. San Domingo. 
+Range. San Domingo. 
 
 1. Tinetotrogou rho&ogaster. 
 La Couroucou 

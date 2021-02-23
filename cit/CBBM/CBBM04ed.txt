@@ -3107,7 +3107,7 @@ p. 02.
 Giaucalus 
 melanops, Vigors fy Ilorsf. Tr. Linn. Soc. xv. p. 216; 
 Gould, Syn. B. Austr. part iv.; id. B. Amir, folio, ii. pL 55; Bp. 
-Consp. i. p. 852 j Beichenb. Vbq. Neuholl pp. 108, 282; Sclater, 
+Consp. i. p. 852 j Reichenb. Vbq. Neuholl pp. 108, 282; Sclater, 
 Tr. Linn. Soc. ii. p. 159; Bosenb. J. f. O. 1804, p. 121: Marti. 
 
 J. f. O. 1864, p. 437; Gould, Handb. B. Aadr. i. p. 192 ; 
@@ -12058,7 +12058,7 @@ Petroica multicolor, Gray, Gen. B. i. p. 183.
 
 Petroica erythrogabtra (nee Lath.), Gould, B. Austr. folio, iii. pi. 4 j 
 
-Beichenb, Voy. Keuholl. pp. 62, 289; Bp. Consp. i. p. 2i)9 j Gray, 
+Reichenb. Voy. Keuholl. pp. 62, 289; Bp. Consp. i. p. 2i)9 j Gray, 
 
 Ibis, 1862, p. 224; Gould, Hondo. B. Austr. ii. p. 526; Gray, 
 
@@ -12180,7 +12180,7 @@ Gray, Hand-l B. i. p. 228, no. 3297.
 Petroica erythrogaster, Gray, Gen. B. i. p. 183. 
 Erythrodryas rhodinogaster, Gould, P. Z. 8. 1842, p. 112 ; id. B. 
 
-Austr. folio, iii. pi. 1; Beichenb. Yog. NeuholL pp. 89, 289 ; Gould, 
+Austr. folio, iii. pi. 1; Reichenb. Yog. NeuholL pp. 89, 289 ; Gould, 
 Handb. B. Austr. i. p. 276; Ramsay, Br. Linn. Soc. N. S. W. ii. 
 
 p. 183. 
@@ -12688,7 +12688,7 @@ Qttoy et Gaimard, Voy. de VAstrol i. p. 173, pi. 3.
 fig. 2. 
 Petroica fusca, Gould, B, Austr. folio, iii. pi. 8; Gray, Gen. B. i. 
 
-p. 183; Bp. Consp. i. p. 299; Beichenb. Vo'g. Neuholl. pp.95, 289; 
+p. 183; Bp. Consp. i. p. 299; Reichenb. Vo'g. Neuholl. pp.95, 289; 
 Biggies, Orn. Atistr. pi 40. fig. 1. 
 Amaurodryas vittata, Gould, Handb. B, Austr. i. p. 286; Ramsay, 
 Pr. Linn. Soc. N. 8. W. ii. p. 183. 
@@ -14952,7 +14952,7 @@ Pailopus olivaceus, Gould, P. Z. 8. 1837, p. 147; id. 8yn. B. Austr.
 part iv. 
 Geryo-one albogularis, Gould, B. Austr. folio, ii. pi. 97; Bp. Comp. i. 
 
-p. 292; Beichenb. Vog. Neuholl. pp. 70, 288; Bamsay, P. Z, 8. 
+p. 292; Reichenb. Vog. Neuholl. pp. 70, 288; Bamsay, P. Z, 8. 
 1866, p. 576; Finsch, Neu-Guinea, p. 166; Gould, Ilandb. B. Austr. 
 i. p. 266; Bamsay) Pr. Linn. 8oo. N. 8. W. ii. p. 183• 8harpe, 
 Notes Leyden Mus. i. no. 9, p. 28. 
@@ -16466,7 +16466,7 @@ Petroica australis, Gray, Voy. Ereb. $ Terr. Birds, p. 7; id. Gen. B.
 
 i. p, 183; JPelz. Reis. Novara, Voy. p. 65. 
 Miro australis, Bp. Consp. i. p. 299. 
-Myioscopus longipes, Beichenb. Syst. Av. pi. 67. fig. 2 • Finsch, J.f 
+Myioscopus longipes, Reichenb. Syst. Av. pi. 67. fig. 2 • Finsch, J.f 
 O. 1872, p. 112, et 1874, p. 186. 
 Petroica longipes, Gray, Ibis, 1862, p. 223: id. Hand-l. B. i. p. 229, 
 no. 3309. 
@@ -17107,7 +17107,7 @@ Leiden Museum [P.J.
 27. HYLIOTA. Typ0 
 Hyiiota, Swains. Classif. B. ii. p. 260 (1837) H, flavigastra. 
 Wing of Hyiiota flavigastra. 
-Bange. Confined to Africa. 
+Range. Confined to Africa. 
 Key to the Species. 
 
 
@@ -19665,7 +19665,7 @@ k, I. $ ad. sk. Tasmania. J. B. Jukes, Esq. [P.].
 3, Malurus melanotus. 
 Malurus nielanotus, Gould, P. Z. S. 1840, p. 163 • id. B. Austr. fol. 
 
-iii. pi. 20; Gray, Gen, B. i. p. 165; Bp. Vonsp. i. p. 218; Beichenb. 
+iii. pi. 20; Gray, Gen, B. i. p. 165; Bp. Vonsp. i. p. 218; Reichenb. 
 Fog. Netdioll pp. 98, 291; Gould, Handb. B. Austr. L p. 322; 
 Gray, Hand-l B. i. p. 204, no. 2878; Biggies, Orn. Austr. pi. 44. 
 fig. 4; Ramsay, Br. Linn. Soc. N. 8. W. ii. p. 184. 
@@ -19743,7 +19743,7 @@ part 1.
 Malurus splendens, Gould, B. Austr. folio, iii. pi. 21; Gray, Gen. B. 
 
 i. p. 165; Bp. Consp. i. p. 218; Cab. Mus. Hein. Th. i. p. 41; 
-Beichenb. Vog. Neuholl. pp. 98, 291; Gould, Handb. B. Austr. i. 
+Reichenb. Vog. Neuholl. pp. 98, 291; Gould, Handb. B. Austr. i. 
 p. 323; Gray, Hand4. B. i. p. 204, no. 2879 ; Biggies, Orn. Austr. 
 pi. 44. fig. 1; Ramsay, Pr. Linn. Soc. JV. 8. W. ii. p. 184. 
 Adult male. General colour above rich enamelled cobalt, the scapulars 
@@ -20090,7 +20090,7 @@ d9 e. <5 $ ad- sk, Cape York. Purchased.
 11. Malurus pulcherrimus. 
 Malurus jjulclienimus, Gould, P. Z. 8. 1844, p. 106* id. B. Amir. 
 folio, hi. pi. 23; Gh-ay, Gen. B. i, p. 65 * Bp. Consp. i. p. 218; 
-Beichenb. Vo'g. Neuholl, pp. 79, 291; Gould, BLandh. B. Austr. i. 
+Reichenb. Vo'g. Neuholl, pp. 79, 291; Gould, BLandh. B. Austr. i. 
 
 p. 327 j Rmnsay, Br. Linn. Soc. N. S. W. ii. p. 184. 
 Malurus ceeruleicapillus, u Gould"' (nbi?); Gi*ay, Kand-l. B. L p. 204, 
@@ -21144,7 +21144,7 @@ Khipidura flabellifera (wee Gm.), Vig.fy Horsf. Tr. Linn, Soc. xx*.
 p. 247; Swains. Monogr. Flye. p. 124, pi. 10. 
 Khipidura albiscapa, Gould, P. Z. 8. 1840, p. 113; Gray, Gen, B. 
 i. -D. 258; Cab. Mus. Hein. Th. i. p. 57; Bp. Consp. i. p. 82;J; 
-Beichenb. Vog. Neuholl. p. 154; Gould, Kan&h. B. Austr. i. p. 233; 
+Reichenb. Vog. Neuholl. p. 154; Gould, Kan&h. B. Austr. i. p. 233; 
 Gray, JBxmd-L B. i. p. 3B0, no. 4955; Bigglesy Orn. Austr, pi. 30. 
 %. 2; Bamsay, Br. Linn. Soc. N. S. W. ii. p. 182. 
 Adult male. Greneral colour above ashy brown, head with a slightly 
@@ -21753,7 +21753,7 @@ Rhipidura rufifrons, Vig.fyHorsf. Tr. Linn. Soc. xv. p. 248; Gould,
 
 
 B. Austr. foho, ii. pi. 84; Gray, Gen. B. i. p. 259; Bp. Consp. i. 
-p. 823; Beichenb. Yog. Neuholl. p. 98; Gould, Handb. B. Austr. i. 
+p. 823; Reichenb. Yog. Neuholl. p. 98; Gould, Handb. B. Austr. i. 
 p. 240 j Gray, ILand-l. B. i. p. 380, no. 4956; Diggles, Orn. Austr. 
 pi. 36. fig. 1; Ramsay, Ibis, 1875, p. 377; id. Proc. Linn. Soc. 
 1ST. S. W. ii. p. 182. 
@@ -23008,14 +23008,14 @@ Bev. Zool 1865, p. 15.
 
 Rhipidura niotaeilloides, Vig. $r Horsf. Tr. Zhm. SJC. xv. p. 246; 
 Gould, B. Austr. fol. ii. pi. 86; Gray, Gen. B. i. p. 259; Bp. 
-Consp. i. p. 32.3; Beichenb. Vog. NeuhoB. pp. 224,286; -2o«/. # 
+Consp. i. p. 32.3; Reichenb. Vog. NeuhoB. pp. 224,286; -2o«/. # 
 Ifoo/'e, Co*. J?. Mus. El. Co. i. p. 146; .Knacft, NeurGmnea, 
 
 p. 169; Gray, JSTaraM. J?, i. p. 332, no. 4993. 
 Muscipeta melanoleuca, Quoy ei Gaim. Voy. de VAstroL, Zod* I. p. 180. 
 Leucocerca laticauda, Sicains. Monogr. Flyc. p. 130, pi. 11RMpidura 
 picata, Gould, B. Austr. folio, Intr. p. xixix ; Bp. Consp. 
-i. p. 823; Beichenb. Yog. NeuMl p. 286; Gray, Hand-L B. I 
+i. p. 823; Reichenb. Yog. NeuMl p. 286; Gray, Hand-L B. I 
 p. 332, no. 4994. 
 Rhipidura nielanoleuca, Gray, Gen. B. i. p. 259; id. Hand-!. B. i. 
 p. 332, no. 4995. 
@@ -24708,7 +24708,7 @@ Philentoma, JEyton, Ann. 2V. H. xvi. p. 220 (1845).. P, pyrrhopterum.
 
 Wing of Philentoma velatum. 
 
-Bange. From Tenasscrim down the Malayan peninsula to the 
+Range. From Tenasscrim down the Malayan peninsula to the 
 islands of Java, Sumatra, and Borneo. 
 
 Key to the Swedes, 
@@ -25300,7 +25300,7 @@ Myiagra plumbea, Vig. Sf Ilorsf. Tr. Linn. Soe. xv. p. 254; Gould,
 
 
 B. Austr. folio, ii. pi. 89; Blyth, Cat. B. Mus. A. S. B. p. 204; 
-Bp. Consp. i. p, 321; Beichenb. Vog. Neuholl. p. 90; Gould, Ilandb. 
+Bp. Consp. i. p, 321; Reichenb. Vog. Neuholl. p. 90; Gould, Ilandb. 
 B. Austr. i, p. 252; Bamsay, Ibis, 1P65, p. 301; Biggies, Orn. 
 Austr. pi. 38. figs. 3, 4; Legge, Pr. B. Soe. Tasm. 1875, p. 10; 
 Bamsay, B. Z. S. 1875, p. 587; id. Br. Linn. Soc. N. S. W. ii. 
@@ -28195,7 +28195,7 @@ c, Ad. sk. Timor. A. R. Wallace, Esq. [O.j.
 7. Piezorhynchus gouldi. 
 Monarcha trivirgata, Gould, Syn. B. Austr. pt. ii.; id. B. Austr. fol. ii. 
 
-pi. 90; id. Ilandb. B. Austr. i. p. 263; Beichenb. fog, Neulwll. 
+pi. 90; id. Ilandb. B. Austr. i. p. 263; Reichenb. fog, Neulwll. 
 
 pp. 227, 287. 
 
@@ -29075,7 +29075,7 @@ Type.
 Peltops, Wagler, Ms, 1829, p. 636 P. blainvillii. 
 Erolla, Lesson, Traite d'Orn, p. 260 (1831) P. blainvillii. 
 Platystomus, Sivains. Classif. B. ii. p. 261 (1837) P. blainvillii. 
-Bange. Confined to New Guinea, Mysol, and Waigiou, 
+Range. Confined to New Guinea, Mysol, and Waigiou, 
 
 1. Peltops blainvillii. 
 Eurylaimus 
@@ -29116,7 +29116,7 @@ b. Ad." sk.' Waigiou. Purchased.
 64. POMAEEA. ^ 
 Pomarea, ^ . C. B. xxxviii. p. 650 P. nigra. 
 
-Bange. Society Islands ; Marquesas Islands. 
+Range. Society Islands ; Marquesas Islands. 
 
 Key to ilie Species. 
 
@@ -31168,7 +31168,7 @@ Type.
 Cassinia, Marti. Bev. et Mag. de Zool. 1860, p. 82 C. fraseri. 
 Cf. Sharpe, Ibis, 1870, p. 53. 
 
-Bange. Confined to Africa. 
+Range. Confined to Africa. 
 
 Key to the Species* 
 

@@ -3946,7 +3946,7 @@ B. Above and below black 19. atrata, p. 47.
 Bahama Titmouse, Catesby, Car. i. t. 59. 
 Certhia bahamensis, Briss. Orn. iii. p. 620. 
 Oerthiaflaveola, var. |3, Linn. S. N. i. p. 187. 
-Certhiola bahamensis, Beichenb. Handb. p. 253 (1853); Cassin, Pr. 
+Certhiola bahamensis, Reichenb. Handb. p. 253 (1853); Cassin, Pr. 
 
 
 Ac. Sc. Phil. 1864, p. 271; Baird, Ibis, 1867, pp. 264,276, et N. A. B. 
@@ -4485,7 +4485,7 @@ Guian. iii. p. 675 ; Euler, J.f. 0.1867, p. 406 (nest).
 11 . CERTHIOLA. 
 45 
 
-Oerthiola chloropyga, Cab. Mus. Rein. i. p. 97 (1851); Beichenb. 
+Oerthiola chloropyga, Cab. Mus. Rein. i. p. 97 (1851); Reichenb. 
 Randb. p. 252; 8cl. Cat. A. B. p. 53 ; Gray, Rand-l i. p. 120; 
 Cassin, Pr. Ac. 8c. Phil. 1864, p. 272 ; 8c!. § 8ab. P. Z. 8. 1867, 
 
@@ -4494,7 +4494,7 @@ p. 26; Bernhardt, Fuglef. Camp. Bras. p. 244; Finsch, Verh. z.-b.
 Ges. Wien, 1871, p. 779; 'JBaird, Am. Nat 1873, p. 613; id. N. A. B. 
 I. p. 428 • Forbes, Ibis, 1881, p. 330 (Pernambuco); Ridqio. Pr. 
 XT. S. N. M. 1885, p. 28; Salvin, Ibis, 1885, p. 207 (Brit. Gfuian.). 
-Oerthiola guianensis, Cab. Mm. Rein. i. p. 97; Beichenb. Randb. 
+Oerthiola guianensis, Cab. Mm. Rein. i. p. 97; Reichenb. Randb. 
 
 p. 252; Gray, Rand-l i. p. 120. 
 Certliiola raajuscula, Cab. J. f. O. 1865, p. 413 • Gray, Rand-l i. 
@@ -23309,7 +23309,7 @@ suspend their purse-like nests from the branches of tail trees, generally
 over the water. The eggs are white or blue, spotted with 
 violet or reddish (cf. Wied, Beitr. iii. pp. 1234, 1239). 
 
-Bange. From Nicaragua southwards to Paraguay and Bolivia. 
+Range. From Nicaragua southwards to Paraguay and Bolivia. 
 
 Key to the Species. 
 
@@ -26549,7 +26549,7 @@ impossible to arrange these birds in clearly defined sections, although
 the throe subgenera which they have indicated may be used as a 
 make-shift. 
 
-Bange. The same as that of the subfamily. 
+Range. The same as that of the subfamily. 
 
 22 . 
 ICTERUS. 303 

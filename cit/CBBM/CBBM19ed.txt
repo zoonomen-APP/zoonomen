@@ -843,7 +843,7 @@ Heine 401
 3. australis, Sharpe 403 
 32. Dasyloplius, Swains 403 
 1. superciliosus (Cuv.) .. 404 
-83. Lepidbgramrnus, Beichenb. 404 
+83. Lepidbgramrnus, Reichenb. 404 
 1. cumingi (Fraser) 404 
 34. Coua, Cuv 405 
 1. caexulea (X.) 406 
@@ -1943,7 +1943,7 @@ Sharpe Coll.
 Type. 
 Erythrobucco, Shelley, Ibis, 1889, p. 475 E. rolleti. 
 
-Bange. North-east Africa. 
+Range. North-east Africa. 
 
 3 . MELANOBUCCO. 
 1. Erythxobucco rolleti. 
@@ -1991,7 +1991,7 @@ F. BohndorfL
 3. MELANOBUCCO. 
 Type. 
 Melanobucco, Shelley, Ibis, 1889, p. 476 M. bidentatus 
-Bange. Confined to Africa. 
+Range. Confined to Africa. 
 
 Key to the Species. 
 
@@ -3369,7 +3369,7 @@ Cladurus, Beichen. J.f. 0. 1877, p. 17
 Lignobucco; Beichen. J.f 0. 1887, p. 3
 
 
-Bange. Confined to Africa. 
+Range. Confined to Africa. 
 
 Key to the Species. 
 
@@ -4587,7 +4587,7 @@ Aimole, Manipur, April (A.
 Manipur, May (A. O. H.).
 12. CHOTO&EEA. 
 Chotorhea, Bp. Consp. Vol. Zygod. p. 12 (1851)
-Bange. Throughout} the Malayan Peninsula
+Range. Throughout} the Malayan Peninsula
 
 and Borneo. 
 
@@ -7169,7 +7169,7 @@ f-x". Ad. sk. Anjango, Travancore, Dec. Hume Coll.
 Type; 
 Mesobucco, Shelley, Ibis, 1889, p. 477 M. duvaucelL 
 
-Bange. Eastern Himalayas to Assam, Burma, and Tenasserim, 
+Range. Eastern Himalayas to Assam, Burma, and Tenasserim, 
 down the Malayan Peninsula. 
 
 Key to the Species. 
@@ -9591,7 +9591,7 @@ CAPTTCWTD^.
 Tetragonops, Jard. Edinb. Phil. Journ. n. s. i. p. 404 
 (1855) T. rharnphastiniis. 
 
-Bange. Ecuador ; Costa Bica. 
+Range. Ecuador ; Costa Bica. 
 
 Key to the Species. 
 
@@ -13622,7 +13622,7 @@ Jacamerops grandis, Less, Tr. cFOrn. p. 234; Gray et Mitch. Gen
 
 
 B. i. p. 84; Gray, List Fiss. B. M. p. 68 ; Bj>. Consp. i. p. 153 
-id. Consp. Vol. Zijq. p. 13 ; Beichenb. Handb.ip. 88; Sol. Syn. Galb, 
+id. Consp. Vol. Zijq. p. 13 ; Reichenb. Handb.ip. 88; Sol. Syn. Galb, 
 p. 9; id. P. Z. $.' 1855, p. 16,1867, p. 263 ; id. Cat. A. IB. p. 268 
 id. Monogr. Jac. and Puff-Ids. p. 57, pi. xviii.; Cass. Cat. Hale, 
 p. 18; Pete Sitz. Ah. Wien, xx. p. 519; id. Orn. Bras. p. 251 
@@ -17497,7 +17497,7 @@ Type.
 Surniculus, Less. Traite 0?'n. p. 151 (1831) S. lugubris. 
 Pseudornis, ILodgs. J. A. S. Beng. viii. p. 136 (1839) .. S. lugubris. 
 Cacangelus, Cab. 8r Seme, Mus. Hein. iv. p. 17 (1862).. S. lugubris. 
-Bange. Ceylon and the Indian Peninsula, extending eastward 
+Range. Ceylon and the Indian Peninsula, extending eastward 
 
 through the Burmese countries to South China, and south through 
 the Malayan Peninsula to Sumatra, Java, Borneo, the Philippine 
@@ -24110,7 +24110,7 @@ Nesococcyx, Cab. $• Heme, Mies. Hein. iv. p. 79, note
 
 (1862) C. ferrugineus. 
 
-Bange. North America from about 49° N. lat., and South 
+Range. North America from about 49° N. lat., and South 
 America, with the exception of the extreme south. 
 
 Key to the Sjoecies. 
@@ -30205,7 +30205,7 @@ e. Ad. sk. Porto Rico (Dr. Bryant). Sclater Coll.
 Type. 
 Hyetornis, Scl. Cat. Am. Birds, p. 321 (1862) II. pluvialis. 
 Hyetomantis, Cab. J.f. 0. 1862, p. 203, note H. pluvialis. 
-Bange. Confined to Jamaica. 
+Range. Confined to Jamaica. 
 
 9. Hyetornis pluvialis. 
 Cuculiis pluvialis, Gm. Syst. Nat. i. p. 411 (1788); Wald. Ibis, 1809, 
@@ -30268,7 +30268,7 @@ Coccycua, Xess. TVYw'tf Or;?, p. 142 (1831) P. niinuta.
 Pyrrhococcyx, C«#. in Schomb. Pels, iii. (1848) p. 713 .. P. cayana. 
 Coccyzusa, Cab. <$• Heine, Mm. Ilein. Tli. iv. p. 80, note.. P. miniiia. 
 
-Bange. The whole of Central America, and South America as far 
+Range. The whole of Central America, and South America as far 
 as Bolivia and the Argentine Uepnblic. 
 
 Key to the Species. 

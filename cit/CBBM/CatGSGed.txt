@@ -1262,10 +1262,10 @@ Opethyorhynchus, Boie, 1826. Figulus, Spix, 1824.
 404. Heleodytes, Cab. 1851. Furnarius, Sw. 1837* (Fur- 
 narius griseus, Sw.) 
 405. Rhodinocichla, Hartl. 1853. (Fumarius roseus, Less.) 
-*406. Cxnclodes, G. E. Gr. 1840, et Beichenb. 1853. Opetio- 
-rhyncbus, Kittl. 1830, et Beichenb. 1853. Oppetiorhyn- 
+*406. Cxnclodes, G. E. Gr. 1840, et Reichenb. 1853. Opetio- 
+rhyncbus, Kittl. 1830, et Reichenb. 1853. Oppetiorhyn- 
 cbus, D’Orb. Sf Less. 1837. Cillurus, Cab. 1844, et 
-Beichenb . 1853. (Motacilla patagonica, Gm.) 
+Reichenb.. 1853. (Motacilla patagonica, Gm.) 
 407. Upucerthia, I. Geoffr. 1832. Uppucerthia, D’Orb. fy 
 Lafr. 1837. (Upucertbia dumetoria, D’Orb.) 
 408. Ochetorhynchus, Meyen, 1834. (Ochetorhynehus ru- 
@@ -1276,8 +1276,8 @@ mia, Sw. 1837- (Myiothera nematura> Licht.)
 Henicornis, Agass. (Eremobius pboenicura, Gould.) 
 *411. Limnornis, Gould, 1839. ( Limnornis rectirostris, Gould.) 
 412. Cinnicerthia, Less. 1844. Presbys, Cab. 1851. Thely- 
-drias, Beichenb. 1853. (Limnornis unirufus, Lafr.) 
-*413. Geositta, Sw. 1837- Euthyonyx, Beichenb. 1850. 
+drias, Reichenb. 1853. (Limnornis unirufus, Lafr.) 
+*413. Geositta, Sw. 1837- Euthyonyx, Reichenb. 1850. 
 (Alauda cunicuiaria, Vieill.) 
 414. Geobates, Sw. 1837. (Geobates brevicauda, Sw.) 
 *415. Cinclocerthia, G.E.Gr. 1840. Stenorhyncbus, Gould, 
@@ -1603,7 +1603,7 @@ Salicaria, Selby , 1840. Lusciniola, G.B.Gr. 1841.
 (Sylvia phragmitis, Bechst.) 
 527- Potamodus et Pottaraodus, Kaup, 1829. Calamoherpe, 
 Brehm, 1828. Cettia, Pr. B. 1838. Bradypterus, Cab. 
-1850, nec G.B.Gr. 1840. Tiltria, Beichenb. 1 850. (Syl- 
+1850, nec G.B.Gr. 1840. Tiltria, Reichenb. 1 850. (Syl- 
 via fluviatilis, Mey.) 
 528. Pseudoluscinia, 1838, et Lusciniopsis, Pr. B. 1842. 
 (Sylvia luscinioides, Sav.) 
@@ -2233,7 +2233,7 @@ p. Bl . ? (Sylvia atricapilla, Vieill.)
 t768. Apalopteron, Pr.B. 1853. (Iora familiaris, Kittl.) 
 7 69. Alcurus, Hodgs. 1844. (Brachypus melanocephalus, 
 J. E. Gray.) 
-77 0. Brachypodius, Bl. 1845. Prosecusa, Beichenb. 1850. 
+77 0. Brachypodius, Bl. 1845. Prosecusa, Reichenb. 1850. 
 Ixos, p. Temm. (Lanius melanocephalus, Gm.) 
 7 71. Spizixos, Bl. 184 ? (Spizixos canifrons, Bl.) 
 772. Otocompsa, Cab. 1851. Copsychus, p. Wagl. 1827. 
@@ -2650,7 +2650,7 @@ liochera, DeFil. 1846. (Ampelis cucullata, Sw.)
 nigra, Less.) 
 *941. Lipangus, Boie , 1828. Latbria, Sw. 1831. Lipaugus, 
 Cab. 1847- (Muscicapa simplex, Licht.) 
-942. Poliochrus, Beichenb. 1850. (Muscicapa cinerea, 
+942. Poliochrus, Reichenb. 1850. (Muscicapa cinerea, 
 Pr. Max.) 
 f943. Hbteropelma, Pr.B. 1853. (Pipra unicolor, Menetr.) 
 f944. Schiffornis, Pr.B. 1853. (SehifFornis major, Pr.B.) 
@@ -3089,7 +3089,7 @@ f 1 1 10. Lamprocorax, Pr. B. 1853. (Lamprotornis fulvipen-
 nis, Homb. fy Jacq.) 
 1111. Spreo, Less. 1831. Notauges, Cab . 1851. (Turdus 
 bicolor, Gm.) 
-1112. Pyrrhocheira, Beichenb. 1850. Amydrus, Cab. 1851. 
+1112. Pyrrhocheira, Reichenb. 1850. Amydrus, Cab. 1851. 
 Nabouroupus, 1853, et Naburupus, 1854, Pr. B. (Tur- 
 dus morio, Linn.) 
 1113. Pilorhinus, Cab. 1851. (Ptilonorhynchus albirostris, 
@@ -3491,7 +3491,7 @@ ventris, D’Orb.)
 Vieill.) 
 *1268. Embernagra, Less. 1831. Limnospiza, Cab. 1851. 
 (Saltator viridis, Vieill .) . 
-1269. Aimophila, Sw. 1837. Aemophila, Agass. Hcemo- 
+1269. Aimophila, Sw. 1837. Aemophila, Agass. Haemo- 
 phila, Reichenb. 1850. Haemophila, Cab. 1851 . (Aimo- 
 phila superciliosa, Sw.) 
 tl270. Atlapetes, Wagl. 1831. Atlantopetes, Cab. 1851. 
@@ -3569,12 +3569,12 @@ gilla alario, Linn.)
 Struthus, Boie, 1826. (Fringilla ccelebs, Linn. ) 
 1299. Carduelis, Briss. 1760. Fringilla,, Linn. 1746. Acan- 
 this, Bechst. 1802. (Fringilla carduelis, Linn.) 
-I 1300. Callacanthis, Beichenb. 1850. (Fringilla Burtoni, 
+I 1300. Callacanthis, Reichenb. 1850. (Fringilla Burtoni, 
 Gould.) 
 1301. Procarduelis, Hc\dgs. 1844. Pyrrha, Cab. 1850. 
 (Fringilla nipalensis, Hodgs.) 
 1302. IIypacanthis, Cab. 1851. (Carduelis spinoides, Vig.) 
-;tl303. Loxops, Cab. 1847. Byrseus, Beichenb. 1850. Hypo- 
+;tl303. Loxops, Cab. 1847. Byrseus, Reichenb. 1850. Hypo- 
 loxias, Licht. 18 ? (Fringilla coccinea, Gm.) 
 it 1304. Emblema, Gould , 1842. (Emblema picta, Gould.) 
 j 1305. Chrysomitris, Boie, 1828. Fringilla, III. 1811. Spi- 
@@ -3583,7 +3583,7 @@ Linn.)
 1306. Astragalinus, Cab. 1851. Spinus, Boie , 1826, nec 
 Mcehr. 1752. (Fringilla tristis, Linn.) 
 1307. Pyrrhomitris, Pr. B. 1850. (Carduelis cucullata, Sw.) 
-1308. Sporagra, Beichenb. 1850. (Fringilla magellanica, 
+1308. Sporagra, Reichenb. 1850. (Fringilla magellanica, 
 Vieill.) 
 1309. ? Citrinella, Pr. B. 1838, nec Kaup, 1829. Spi- 
 nus, i£ocA, 1816, nec Mcehr. 1752. Dryospiza, G.R.Gr. 
@@ -3591,7 +3591,7 @@ nus, i£ocA, 1816, nec Mcehr. 1752. Dryospiza, G.R.Gr.
 1310. Dryospiza, Keys, fy Bl. 1840. Serinus, Brehm, 1828, 
 nec Koch. (Fringilla serinus, Linn.) 
 1*131 1 . Metoponia, Pr. B. 1853. (Passer pusillus, Pall.) 
-1312. Poliospiza, Schiff. 1850. Tephrospiza, Beichenb. 1850. 
+1312. Poliospiza, Schiff. 1850. Tephrospiza, Reichenb. 1850. 
 * (Serinus tristriatus, Biipp.) 
 1313. Agripasser, Pr.B. 1850. Chrysospiza, Cab. 1851. 
 (Fringilla lutea, Licht.) 
@@ -3602,7 +3602,7 @@ thraustes, Less. 1831. (Fringilla chloris, Linn.)
 gramina, Gr.) 
 1316. Sica lis, Boie , 1828. Sycalis, Cab. 1851. Crithagra, 
 Pr.B. 1850. (Fringilla brasiliensis, Gm.) 
-1317. Sitagra, Beichenb. 1850. (Fringilla campestris, Spix .) 
+1317. Sitagra, Reichenb. 1850. (Fringilla campestris, Spix .) 
 
 4 ** 
 ! T ,! 
@@ -3768,7 +3768,7 @@ Fringilla, Temm. 1815. (Loxia pyrrhula, Linn.)
 (Pyrrhula? epauletta, Hodgs.) . 
 *1382. Carpodacus, Kaup, 1829. Erythrina, Brehm, 1828, nec 
 Bot. Erythrospiza, Pr.B. 1830. Ery throthorax, Brehm, 
-1831. Hcemorhous, Sw. 1837. Pyrrhulinota, Hodgs. 
+1831. Haemorhous, Sw. 1837. Pyrrhulinota, Hodgs. 
 1844. Haemorrhous, Cab. 1851. (Loxia erythrina, 
 Pall.) % 
 1383. Bucanetes, Cab. 1851. (Pyrrhula Payraudsei, Aud.) 
@@ -3803,11 +3803,11 @@ Sporophila, Cab. 1844 et Pr.B. 1850. Spermophila,
 Sw. 1827 a . Loxia, Spix, 1824. Spermospiza, Pr. B . ! 
 (Pyrrhula falcirostra, Temm.) 
 Melopyrrha, Pr. B. 1853. (Loxia nigra, Linn.) 
-Gyrinorhynchus, Beichenb. 1850. Spermophila, ! 
+Gyrinorhynchus, Reichenb. 1850. Spermophila, ! 
 Pr. B. 1850, nec Sw. (Loxia nainuta, Gm.) 
 Piezorhina, Lafr. 1843. (Piezorliina cinerea, Lafr.) 
 Phonipara, Pr.B. 1850. (Loxia canora, Gm.) 
-Euetheia, Beichenb. 1850. Euethia, Cab. 1851. j 
+Euetheia, Reichenb. 1850. Euethia, Cab. 1851. j 
 (Fringilla lepida, Linn.) 
 Callyrhynchus, Less. 1842. Callirhynchus, Agassi 
 (Callyrhynchus pemvianus. Less.) 
@@ -4546,20 +4546,20 @@ Subfam. II. Columbine, Sw. (G. of B. p. 468).
 Muscadivores, Less. 1831. Carpophaga, Selby , 1835 b . 
 (Columba senea, Linn.) 
 Globicera, Pr. B. 1854. (Columba oceanica. Less.) 
-Myristicivora, Beichenb. 1853. (Columba bicolor, 
+Myristicivora, Reichenb. 1853. (Columba bicolor, 
 Scop.) 
 Leucomeljina, Pr. B. 1854. (Columba norfolciensis, 
 Lath.) 
-Megaloprepia, Beichenb. 1853. Columbines et Pa- 
+Megaloprepia, Reichenb. 1853. Columbines et Pa- 
 lombes australes. Less. 1837. (Columba magnifica, 
 Temm.) 
 Ducula, 1836, et Rinopus, 1841, Hodgs. Rhinopus, 
 Agass. (Ducula insignis, Hodgs.) 
-Jantpioenas, Beichenb. 1853. Janthsenas, Pr.B. 1854. 
+Jantpioenas, Reichenb. 1853. Janthsenas, Pr.B. 1854. 
 (Columba janthina, Temm.) 
-Zonoenas, Beichenb. 1853. Zonsenas, Pr. B. 1854. 
+Zonoenas, Reichenb. 1853. Zonsenas, Pr. B. 1854. 
 (Columba Mulleri, Temm.) 
-?? Craspedoenas, Beichenb. 18 53. Craspedsenas ,Pr.B. 
+?? Craspedoenas, Reichenb. 18 53. Craspedsenas ,Pr.B. 
 1854. (Columba auricularis, Temm., nonne avis arti 
 facta?) 
 Hemiphaga, Pr. B. 1854. (Carpophaga poliocephala, 
@@ -5288,7 +5288,7 @@ OF BIRDS.
 1804. Chenoram pirns. Bum. 1817- Apertirostra, 
 Vand. de Patte, 18 ? Empharis, Rajinq. 1815. 
 Ardea, 5 div. Gm. 1788. (Ardea oscitans, Bodd.) 
-1912. Hiator, Beichenb. 1853. Anastomus, Boie , 1826. 
+1912. Hiator, Reichenb. 1853. Anastomus, Boie , 1826. 
 (Anastomus lamelligerus, Temm.) 
 Subfam. IV. Scoping, Pr. B. Ardeinae, p. G. R. Gr. 
 s 1913. Scopus, Briss. 1760. Cepphus, Wagl. 182 7, nee Pall. 
@@ -6819,14 +6819,14 @@ Temm.)
 Temm.) 
 1704 a. (2400.) Osculatia, Pr.B. 1854. (Geotrygon saphi- 
 rina, Pr. B.) 
-1728. For Penelops read — — ? Penelops, Beichenb. 1853, 
+1728. For Penelops read — — ? Penelops, Reichenb. 1853, 
 nee Kaup , 1829, &c. 
 1747. For 184 ? read 1851. 
 1913. = Cepheus, G. R. Gr. 1847. 
 1949. For Nerodia read Herodia. 
 — 1977. For Mesopidius read Metopidius. 
--£**^-1988. Read Lewinia, Beichenb .,” Pr.B. 1854. 
--1996. For Euryzona, Pr.B. 1854, read “ Euryzona, Beichenb. ” 
+-£**^-1988. Read Lewinia, Reichenb..,” Pr.B. 1854. 
+-1996. For Euryzona, Pr.B. 1854, read “ Euryzona, Reichenb. ” 
 Pr. B. 1854. 
 
 

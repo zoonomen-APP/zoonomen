@@ -839,7 +839,7 @@ Subfam. PEIONOPIKJB.
 1. lugubris, Bp. 281 
 5. Leptopterus, Bp 282 
 1. cbabert. Mull. 282 
-6. Iiectes, Beichenb 283 
+6. Iiectes, Reichenb.283 
 1. cirrbocephalus, Less. .. 284 
 2. uropygialis; Gray 285 
 SYSTEMATIC INDEX. 
@@ -2985,7 +2985,7 @@ Amblycorax, Bp. C. JR. xxxvii. p. 829 (1853) O. violaceus*
 Anomalocorax, Fitz. Sitz. Ahad. IVien, xlvi. Abtk. 1, 
 
 p. 209 (1803) C. splendens* 
-Bange. The whole of the Old World, excepting Africa south of 
+Range. The whole of the Old World, excepting Africa south of 
 the desert and Oceania: North America and Mexico. 
 
 
@@ -7127,7 +7127,7 @@ A. Everett, Esq. [C.J.
 
 24. TEMNURTJS. T 
 Temnurus, Less. Trait*?, p. 341 (1831) T. truncatus. 
-Bange. Confined to Cochin China. 
+Range. Confined to Cochin China. 
 
 1. Temnurus truncatus. 
 Glaucopis temnura, Temm. PI Col. 357 j ScIiL Mus. P.-B. Coraees^ 
@@ -7146,7 +7146,7 @@ Hob. Cochin China (Diard).
 Type. 
 Garrulus, Briss. Orn. ii. p. 46 (1760) G. glandarius. 
 Glandarius, Koch, Syst> baier. Zool. p. 99 (1816) ,,. . G. glandarius. 
-Bange. Europe and Asia, including all the countries of the MediH2 
+Range. Europe and Asia, including all the countries of the MediH2 
 
 
 9 2 
@@ -9504,7 +9504,7 @@ Cyanolyca, Cab. Mus. Hein. i. p. 223 (1851) . .. X. armillata.
 
 Xanthocitta, Cab. t c. p. 223 (1851, ex Bp. MS.) X. yncas. 
 
-Bange. Central and South America. 
+Range. Central and South America. 
 
 Key to the Species. 
 
@@ -10515,7 +10515,7 @@ Type.
 Creadion, VieilL N. Did. d? Hist. Nat. viii. p. 390 (1817) C. carunculatus. 
 Oxystomus, Sioains. Classif. B, ii. p. 270 (1887) ... . C. carunculatus. 
 
-Bange, New Zealand. 
+Range, New Zealand. 
 
 1. Creadion canmcalatus. 
 Wattled Stare, Lath Gen. Syn. iii. p. 9, pi. 36. 
@@ -11143,7 +11143,7 @@ Ptiloris paradisea, &WM»A -&w>£ Journ. i. 481; Z«*& S A*. Ofc.
 IW . pp.25, 213, pis. 29, 30; Gould, B.Austr. iv. pi. 100; 
 Cray, fi&i. B. i. p. 94; Jty. Gww/>. i. p. 412; <7a&. Jfw. J2«». 
 
-Th. l.p. 214; Beichenb. Handb. spec. Orn. Scansonse, y.SM, lax. 
+Th. l.p. 214; Reichenb. Handb. spec. Orn. Scansonse, y.SM, lax. 
 dek f>s. 3083-85; Gotdd, Handb. B. Austr. i. p. 591; Gray, 
 Hand~l B, i. p. 105; Mtiot, P. Z. S. 1871, p. 582; id. Monogr. 
 Parad. pi. xxv. 
@@ -11439,7 +11439,7 @@ Seleucides, Less. Hist Nat. Ois. Parad. Syn. p. 29. .. S. niger.
 Nematophora, Gray, List Gen. B. 1840, p. 12 ... .. S. niger. 
 
 
-Bange. Confined to New Guinea. 
+Range. Confined to New Guinea. 
 
 1. Seleucides niger*. 
 Le Manucode a douze filets, Audeb. et Vieill Ois. Dor. ii. p. 29 
@@ -16836,7 +16836,7 @@ d. <J ad. sk. Jambusan, Sept. 15, 1874. A. Everett, Esq. [C],
 5. BUCHAHGA. 
 Type. 
 Buchanga, ffodgs. Ind. Bev. i. p. 326 (1837) B. macrocerca. 
-Musicus., Beichenb. Si/st Au. lxxxviii. fig. 9 (1850) .. B. assimilis. 
+Musicus., Reichenb. Si/st Au. lxxxviii. fig. 9 (1850) .. B. assimilis. 
 
 Mange. The whole of Africa; India and Ceylon; Indo-Chinese 
 region, China and Japan, Formosa, Hainan; Malayan peninsula, 
@@ -16895,7 +16895,7 @@ d. <J ad. sk. Jambusan, Sept. 15, 1874. A. Everett, Esq. [C],
 5. BTTCHAHGA. 
 Type. 
 Buchanga, Hodgs. Ind. Rev. i. p. 326 (1837) B. macrocerca. 
-Musicus., Beichenb. Syst. AD. lxxxviii. fig. 9 (1850) .. B. assimilis. 
+Musicus., Reichenb. Syst. AD. lxxxviii. fig. 9 (1850) .. B. assimilis. 
 
 Range. The whole of Africa; India and Ceylon; Indo-Chinese 
 region, China and Japan, Formosa, Hainan; Malayan peninsula, 

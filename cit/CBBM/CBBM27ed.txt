@@ -136,7 +136,7 @@ few works are specially devoted to them. The first attempt at a
 complete account was Eyton's ' Monograph of the Anatidse, or Duck 
 Tribe/ published in 1838. 
 
-Between 1845 and 1850 Dr. Beichenbach, in the 6 Synopsis 
+Between 1845 and 1850 Dr. Reichenb.ch, in the 6 Synopsis 
 Avium/ gave rather indifferent figures, mostly copies, of the 4 Natatores' 
 known in his time. 
 
@@ -4886,7 +4886,7 @@ A2UTID.2E.
 
 tail, in the conformation of the feet, but has no comb ; the bill is 
 somewhat larger and flatter. 
-Bange. Prom Assam and Eastern Bengal to Java. 
+Range. Prom Assam and Eastern Bengal to Java. 
 
 1. Asarcornis scutulata. 
 Anas 
@@ -5932,7 +5932,7 @@ Cosmonessa, Bchnb. (nee Kaup) Av. Syst. Kat. p. x
 Mx, B. 0. U. List Br. B. p. 123 (1883) (^Aix, Bote). 
 
 
-Bange. Confined to Northern America and Eastern Asia. 
+Range. Confined to Northern America and Eastern Asia. 
 
 12. .EX. 73 
 Key to the tijyecies. 
@@ -8654,7 +8654,7 @@ Brenthus, Sundev. Meth. nat. Av. disp. Tent. p. 145
 Ptocas, Heine, Nom. Mus. Hein. Orn. p. 342 (1890) 
 (= Bufibrenta). 
 
-Bange. Palaearctic and Nearctic regions. 
+Range. Palaearctic and Nearctic regions. 
 
 Key to the Species. 
 
@@ -9758,7 +9758,7 @@ Bullock's Coll.
 
 19. NESOCHEKT. -
 Nesochen, Salvad. MS. N. sandvicensis. 
-Bange. Confined to the Sandwich Islands. 
+Range. Confined to the Sandwich Islands. 
 
 1. Nesochen sandvicensis. 
 " Geese ... . not unlike the Chinese Geese," JBllis, Narr. Voy. ii. 
@@ -10663,7 +10663,7 @@ gen. 10 (1856) C. cyanopterus,
 Cyanaucken, Schleg. 1867 {fide G. B. Gr. Hand-list, 
 
 iii. p. 76, 1871). 
-Bange. Confined to Abyssinia and Shoa. 
+Range. Confined to Abyssinia and Shoa. 
 
 1. Cyanoclieii cyanopterus. 
 Bernicla cyanoptera, Hupp. Syst. Uebers. pp. 120, 137, n. 488, t. 49 
@@ -24916,7 +24916,7 @@ Marmaronetta, JRchnh. Av. Syst. Nat. p. ix (1852).. M. angustirostris,
 Marmonetta (er?vre), Martens, J.f. 0.1868, p. 67 : 
 
 G. R. Gr. Hand-list, iii. p. 84 (1871). 
-Bange. Erom the basin of the Mediterranean to India. 
+Range. Erom the basin of the Mediterranean to India. 
 39 . MAB2O.E02O3TTA. 
 321 
 
@@ -26046,7 +26046,7 @@ Ilyonetta, Heine, Nomencl. Mus. Hem. Orn. p. 847
 
 (1890) (=Nyroca,I%?m.). 
 
-Bange. Cosmopolitan. 
+Range. Cosmopolitan. 
 
 Key to the Species. 
 
@@ -29474,7 +29474,7 @@ Ckaritonet.ta, Stejn. Bull U.S. Nat. Mm. no. 29, p. 163
 (1885) ' 
 0. albeola. 
 
-Bange. Northern Hemisphere. 
+Range. Northern Hemisphere. 
 
 Eey to tlie Species. 
 
@@ -32935,7 +32935,7 @@ Heniconetta, Agass. Ind. Univ. Nom. Zool p. 178
 (1846). 
 * 
 
-Bange. Confined to the Arctic regions. 
+Range. Confined to the Arctic regions. 
 
 419 
 
@@ -38613,7 +38613,7 @@ T. major.
 T. major. 
 
 Trachypelma, Gieb. Tkes. Orn. iii. p. 648 (1877). 
-Bange. Confined to the Neotropical Kegion, from Mexico to Peru 
+Range. Confined to the Neotropical Kegion, from Mexico to Peru 
 and Paraguay. 
 
 * Or 1845 according to Gr. E. <3r. Hand-list, iii. p. 3. 

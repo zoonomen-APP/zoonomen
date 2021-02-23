@@ -2099,7 +2099,7 @@ Gypiscus, JSundev. Av. Tent p. 110 (1873) \ N. pileatus.
 Bill of Neophron 
 'percnopterus. 
 
-Bange. Occasionally in Northern Europe. Found in all the countries 
+Range. Occasionally in Northern Europe. Found in all the countries 
 bordering the Mediterranean and Red Seas, and occurs also in 
 Southern Africa, extending to Persia and the countries fringing the 
 Persian Gulf to the peninsula of India, over the whole of which it 
@@ -2358,7 +2358,7 @@ than tarsus 10. OENOPS, p. 25.
 7. SAECORHAMPHUS. ^ 
 Sarcoramphus, Dumfril, Zool Anal p. 32 (1806) S. gryphus. 
 Gryphus, Bonap. Kev. et Mag. de Zool. 1854, p. 530 .. S. gryphus. 
-Bange. The western coast of South America and the eastern 
+Range. The western coast of South America and the eastern 
 
 coast to 41° S. lat. 
 
@@ -2464,7 +2464,7 @@ Type.
 Cathartes, Uliger, Prodr. Syst. Mamm. et Av. p. 236 (1811) .. C. papa. 
 Gypagus, Vieill. Analyse, p. 21 (1816) C. papa. 
 Gyparchus, Gloger, Kandb. Naturg. p. 235 (1842) ., 0. papa. 
-Bange. S. America, from Brazil (a little below 20° S. lai), north
+Range. S. America, from Brazil (a little below 20° S. lai), north
 
 
 wards to Mexico; Trinidad. 
@@ -3934,7 +3934,7 @@ from Vosmaer's ' Besch. AMk. RoofVogel' (1769); but a reference to the work
 shows that Tosrnaer never used the word in a generic sense at all. 
 14 . SEJRPENTi.EItrS. 
 
-Bange. The whole of Southern Africa, from Benguela on the west 
+Range. The whole of Southern Africa, from Benguela on the west 
 to the Zambesi on the east coast; KE . Africa, from below Khartoom 
 southwards to the Upper White Nile, and through the whole of 
 Abyssinia; "W. Africa, Senegambia. 
@@ -6285,7 +6285,7 @@ Geranospiza, Kaup, Isis, 1847, p. 183 G. czertilescens.
 Geranopus, Kemp, Ccmtr. Orn. 1850, p. 65 G. cserulescens. 
 Geranospizias, JSmtdev. Av. Tmt. p. 107 (1873) ..... . G. casrulescens. 
 
-Bange. Throughout Central America from Southern Mexieo to 
+Range. Throughout Central America from Southern Mexieo to 
 Panama, and in South America occurring in Ecuador, Guiana, and 
 Amazonia westwards to about 70° W. long., and throughout Southern 
 Brazil into Bolivia. 
@@ -7544,7 +7544,7 @@ white spots, which seem peculiar to the adult. (Mus. LugcL)
 
 Hah. Gold Coast to Gaboon. 
 
-a,b. $ 2 ad. sk. Eiver Banger, Gaboon. H. T. Ansell, Esq. [P.]. 
+a,b. $ 2 ad. sk. Eiver Ranger, Gaboon. H. T. Ansell, Esq. [P.]. 
 
 c. 
 S juv. sk. Eiver Ogowe, Gaboon M. Bouvier [E.]. 
@@ -11552,7 +11552,7 @@ Spizigeranus, Gray, Handel B. i. p. 9 (18695 nee Kaup).
 
 Nostril of H. meiidionalis, showing tubercular process. 
 
-Bange. The northern and central portions of the South American 
+Range. The northern and central portions of the South American 
 continent from Columbia and Guiana southwards to 20° S. lat., 
 ranging on the east coast to the provinces of Bio and Paraguay. 
 
@@ -15997,7 +15997,7 @@ Gypaetus, Storr, Alpenreise, p. 69 (1784) G. barbatus.
 Gyptus, Burner. Zool. Anal p. 34 (1806) G. barbatus. 
 Phene, Savign. Syst. Ois cVEgypte, p. 242 (1800) G. otsifragus. 
 
-Bange. The mountains of countries bordering the Mediterranean, 
+Range. The mountains of countries bordering the Mediterranean, 
 and extending through Central Asia and the Himalaya Mountains to 
 Northern China. Africa; in Egypt and N.E. Africa, and in S. 
 Africa. 
@@ -16293,7 +16293,7 @@ Pteroaetus, Kaup, Classif. Sang, tt. Tog, p. 120 (1844) A. verreatodL
 
 Head and foot of Aqmla chr^saetm. 
 
-Bange. The whole of Europe, Africa, and Asia, but not extending 
+Range. The whole of Europe, Africa, and Asia, but not extending 
 to the Malayan or Australian regions; K". America, as far 
 as Mexico. 
 
@@ -19328,7 +19328,7 @@ Chcaetus, Vieill Analyse, p. 23 (1816) 0. gallic us.
 
 Head of Circaetus gallwus (reduced). 
 
-Bange. The whole of Africa, Southern and Central Europe, the 
+Range. The whole of Africa, Southern and Central Europe, the 
 Indian peninsula, Timor, and Mores. 
 
 Key to the Species. 
@@ -21339,7 +21339,7 @@ Gypohierax, Biipp. Keue Wirb. p. 46 (1835) G. angolensis.
 Racama, J. JE. Gray in G. B. Gray's List of Genera, 
 
 p. 1 (1840) G. angolensis. 
-Bange. "West Africa, from Senegambia to Angola. East Africa, 
+Range. "West Africa, from Senegambia to Angola. East Africa, 
 Island of Pemba, near Zanzibar. 
 
 1. Gypohierax angolensis. 
@@ -23172,7 +23172,7 @@ Type.
 Gampsonyx, Vigors, Zool. Journ. ii. p. 69 (1825) G. swainsoni. 
 Chondrohierax, Less. 
 
-Bange. Trinidad, Guiana, and Brazil. 
+Range. Trinidad, Guiana, and Brazil. 
 
 1. Oampsonyx swainsoni. 
 Gamponyx swainsoni, 
@@ -23348,7 +23348,7 @@ Type.
 Pernis, Cuv. Bhgne An. i. p. 322 (1817) .*. P. apivorus. 
 Pterochalinus, Gloger, Ilandb. Naturg. p. 215 P. apivorus. 
 
-Bange. Europe and Northern Asia, extending to Japan and 
+Range. Europe and Northern Asia, extending to Japan and 
 Forth China; the whole of India, with Ceylon • Java and Sumatra; 
 the whole of Africa, with Madagascar. 
 
@@ -24443,7 +24443,7 @@ y
 \ 
 
 Bill and foot of Barjpagus diodon. 
-Bange. Central America ; Guiana; Amazonia; Brazil*. Peru. 
+Range. Central America ; Guiana; Amazonia; Brazil*. Peru. 
 
 69 . HAKPIGUS. 
 361 

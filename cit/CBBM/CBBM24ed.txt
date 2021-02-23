@@ -279,7 +279,7 @@ Subfam. IV. CHARADE IINJS.
 13. Sarc-Fgranmius, Reiche?ib.. 148 
 1. indicus (JWtf.) .. 149, 734 
 2. atrinucbalis (Vertf.) 152,734 
-14. Tylibyx, Beichenb 153 
+14. Tylibyx, Reichenb.153 
 1. 
 melanocepbalus(j5#2>j9.)I53, 
 ' 734 
@@ -293,7 +293,7 @@ melanocepbalus(j5#2>j9.)I53,
 3. specipsujj ( Wagl.) 161,735 
 Page 
 
-18. Belocopterus, Beichenb... 163 
+18. Belocopterus, Reichenb... 163 
 1. cayermensis (Gm.) 163, 735 
 2. ebllensis (Mol) .. 165,735 
 19. Vanellus, Briss 166 
@@ -302,7 +302,7 @@ Page
 1. leucura [Licht.).. 171, 736 
 21. Chsetusia, Bp 174 
 1. gregaria (Pall.) .. 174,736 
-22. StepEanibyx, Beichenb. .. 177 
+22. StepEanibyx, Reichenb. .. 177 
 1. coronatus (Bodd.) 178, 736 
 2. melanopterus 
 ! (Cretzschm.) .... 180,736 
@@ -1895,7 +1895,7 @@ Purchased.
 
 (Edicnemus affinis, Rupp. Mus. Senck. ii. p. 210 (1837); id. SysL 
 Uebers. p. 117, Taf. 42 (1845); Strickl. P. Z. 8. 1850, p. 220 (Kordofan); 
-Beichenb. Handb., Grail. Nov. Taf. xxxvi. figs. 2440-41 
+Reichenb. Handb., Grail. Nov. Taf. xxxvi. figs. 2440-41 
 (1851); Heugl. Syst. Uebers. p. 54 (1856: Abyssinian coast; 
 White Nile, south of 6°); Hartl. Orn. W.-Afr. p. 209, note 
 (1857); Heugl Ibis, 1859, p. 344 (Habab; Danakil; Tajura); 
@@ -2580,7 +2580,7 @@ pp. 182, 188, tab. 8 (1805: India); Temm. PL Col. v. pi. 362
 Strickl. Ann. N H. vii. p. 38 (1841); Gray, List Gralla Brit. 
 Mus. p. 73 (1844) ; Rihpp. Syst. Uebers. p. 121 (1845 : Ked Sea); 
 Gray, Gen. B. iii. p. 560 (1848); Blyth, Cat. B. As. Soc. p. 276 
-(1849: Ceylon, S. India); Beichenb. Av. Syst. Nat., Gall. p. xii, 
+(1849: Ceylon, S. India); Reichenb. Av. Syst. Nat., Gall. p. xii, 
 Taf. 167. figs. 440-442 (1852); Blyth, J. A. S. Beng. xxi. p. 352 
 (1852) ; id. Contr. Orn. 1852, p. 27 (Ceylon); Layard, Ann. $ Mag. 
 
@@ -2764,7 +2764,7 @@ Ortyxelus, Vieittot, Gal. Ois. ii. p. 91 (1834) 0. meiffreni
 Torticella (ubi ?), teste Gloger. 
 Psilocnemis, Gloger., Handb. Nature/, p. 403 (1842) 0. meifireni. 
 Helortyx, Agassiz, Index Univ. p. 176 (1846) 0. meiffreni. 
-Oxytelus, Beichenb. Av. Syst.Nat. p. xxviii (1852) 0. meiffreni. 
+Oxytelus, Reichenb. Av. Syst.Nat. p. xxviii (1852) 0. meiffreni. 
 
 Mange. The same as that of the single species of the genus. 
 
@@ -2877,7 +2877,7 @@ Egypt and Nubia).
 Pluvianus aegyptius, Strickl. Ann. fy Mag. N. H. vii. p. 37 (1841), 
 
 xiii. p. 39 (1844); Gray, Gen. B. iii. p. 536 (1844); Bupp. Syst. 
-TJebers. p. 117 (1845); Strickl B. Z. 8.1850, p. 221; Beichenb. Av. 
+TJebers. p. 117 (1845); Strickl B. Z. 8.1850, p. 221; Reichenb. Av. 
 Syst. Nat, Gall. p. xxx, Taf. 374.figs. 2120-2123 (1852); Bp. C. B. 
 xliii.p. 419 (1856) ,* Hartl. Orn. West-Afi\ p. 209 (1857); Taylor, 
 Ibis, 1859, p. 52 (Egypt); Hartl J. f. O. 1861, p. 268 (Bissao; 
@@ -3711,7 +3711,7 @@ Cursor temmincki, Wagl. Syst. Av. Cursor, p. 80, sp. 3 (1827).
 Cursorius senegalensis, Swains. B. W. Afr. ii. pi. 24 (1837); Gray, 
 List Grallce in Brit. Mus. p. 60 (1844: Gambia); id. Gen. B. iii. 
 
-p. 537 (1844); Bilpp. Syst. Uebers. p. 117 (1845); Beichenb. Av. 
+p. 537 (1844); Bilpp. Syst. Uebers. p. 117 (1845); Reichenb. Av. 
 Syst. Nat, Gall. Taf. 375.figs. 2129-30 (1852); Heugl Syst. Uebers. 
 p. 54 (1856: E. Senaar); Hartl Orn. W.-Afr. p. 209 (1857: 
 Senegambia ; Ashantee $ Sierra Leone); Mont. Ibis, 1865, p. 335 
@@ -4360,7 +4360,7 @@ Java).
 Glareola grallaria, 
 Temm. Man. oVOrn. ii. p. 503 (1820) ; S. Mull. 
 Verk. Nat Gesck Land-en Volhenk. p. 23 (1839-44: Oetanata); 
-Gould, B. Austr. vi. pi. 22 (1848); Beichenb. Eandb., Gallin. Nov. 
+Gould, B. Austr. vi. pi. 22 (1848); Reichenb. Eandb., Gallin. Nov. 
 tab. cccx. figs. 2499-2501 (1851;; Schl. Banal. Bierh. i. p. 445 
 (1857); Gray, P. Z. S. 1858, p. 197; id. Cat. B. New Guinea, 
 
@@ -4512,7 +4512,7 @@ Brehm, Toe/. DeutschL p. 566 (1831) ; Menetr. Cat. rais. Caue.
 p. 52 (1832); Gould, B. Bur. iv. pi. 265 (1837); Naum. Tog. 
 DeutschL ix. p. 437, Taf. 234. figs. 1,2 (1838); Crespon, Orn. Gard, 
 p. 339 (1840); Nordm. in Demid. Voy. Buss. Merid. iii. p. 274 
-(1840); Beichenb. Av. Syst. Nat. p. xxvii, Taf. 291. tigs. 16191625 
+(1840); Reichenb. Av. Syst. Nat. p. xxvii, Taf. 291. tigs. 16191625 
 (1852); Gray, B. W. ScotL p. 251 (1871); Fallon, Ois. Belg. 
 p. 141 (1875). 
 Glareola 
@@ -9404,7 +9404,7 @@ Hsematopus longirostris,
 Vieill. N. Diet. d7Uist. Nat. xv. p. 410 
 (1817: Australia); Gray, List Grallm Brit. Mus. p. 72 (1844); 
 Gould, B. Austr. vi. pi. 7 (1845); Gray, Voy. Ereh. <£• Terror, 
-Birds, p. 12 (1846); id. Gen. B. iii. p. 547 (1846); Beichenb. Yog. 
+Birds, p. 12 (1846); id. Gen. B. iii. p. 547 (1846); Reichenb. Yog. 
 Neuholl. p. 30, no. 311 (1849); id. Sa?idb. Grail., Nomt. tab. elxix. 
 figs. 2412-14 (1851); MacGilliv. Voy. Rattlesn. ii. p. 358 (1852 : 
 N.E.Australia; Torres Straits); Bp. C. B. xliii p. 420(1856); 
@@ -10362,7 +10362,7 @@ Range. Confined to Australia.
 1. Erythrogouys ductus. 
 Erythrogonys cinctus, Gould, P. Z. & 1837, p. 155; id. B. Jwtr. 
 vi. pi. 21 (1841); Gray, List Grail Brit Mus. p. G6 (1844: 
-Murray River); id. Gen. B. iii. p. 542 (1847); Beichenb. Grail 
+Murray River); id. Gen. B. iii. p. 542 (1847); Reichenb. Grail 
 tab. 180. figs. 1959-60 (1848); id. Vog. Neukoll p. 32 (1850) ; 
 Bp. C. B. xliii. p. 419 (185G); Gould, B. Z. S. 1863, p. 238 
 (Central Australia) ; id. Handb. B. Austr.il p. 240 (1865); Gray. 
@@ -10937,7 +10937,7 @@ r>
 India Museum. 
 
 8. MICB.0SARC0PS. 
-Bange. Eastern Siberia, soutb to British Burma and Eastern 
+Range. Eastern Siberia, soutb to British Burma and Eastern 
 Bengal. 
 
 
@@ -11106,7 +11106,7 @@ Charadrius spinosus (nee L.)} Neuioied, Beitr. Naturg. Bras. iv. p. 764
 Hoplopterus cayanus, Gray, List Grail, Brit. Mus. p. 65 (1844: 
 
 S. America); id. Gen. B. iii. p. 542 (1847); Hartl. Ind. Azara, 
-p. 24 (1847); Beichenb. Grail. Taf. xcix. %. 701 (1851); 
+p. 24 (1847); Reichenb. Grail. Taf. xcix. %. 701 (1851); 
 Cab. in Schomb. Beis. Gidan. iii. p. 750 (1848); Licht. Nommcl. 
 Av. Mus. Berol. p. 95 (1854: Brazil; Guiana); Moore, P. Z. S. 
 1859, p. 63 (Aloor River, Honduras); Sal. fy Salv. Ibis, 1859, 
@@ -11665,7 +11665,7 @@ Vanellus lateralis, Smith, III. Zool. S. Afr.. Birds, pi. 23 (1839:
 U'TugelaR.); Hartt. Orn. W.-Afr. p. 213,, note (1857). 
 
 Lobivanellus lateralis, Gray, List Grail. Brit. Mus. p. 65 (1844 : 
-Cape); Beichenb. Grail®, Taf. c. fig. 084 (1848) ; Mont.P.Z.S. 
+Cape); Reichenb. Grail®, Taf. c. fig. 084 (1848) ; Mont.P.Z.S. 
 18(55, p. 90 (Benguela); Finsch # Hartl. Tog. Ostafr. p. 643 
 (1870); Gnrney in Anders*. B. Bam. Ld. p. *267 (1*872: Okavango 
 & Teoughe Rivers ; Lake Ngarni; Ondonga); At/res, Ibis, 
@@ -13432,7 +13432,7 @@ Philomackus cay anus (nee lath.), Goidd in Darwiris Toy. 'Beagle,1"
 Birds, p. 127 (1841: La Plata). 
 
 Belonopterus 
-cayennensis, Beichenb. Gralke, p. xviii, tab. ci. figs. 
+cayennensis, Reichenb. Gralke, p. xviii, tab. ci. figs. 
 678-80 (1852) • Bp. C B. xliii. p. 418 (1850)-Heine $ Beicken. 
 NomencL Mus. Hem. p. 334 (1890• pt.)I 
 
@@ -14767,8 +14767,8 @@ p. 95 (1854); Layard, B. S. Afr. p. 294 (1867: throughout the
 Colony) ; Gray, Hand-l. B. iii, p. 13, no. 9977 (1871); Buckley, 
 Ibis, i874, p. 387 (Natal); Barratt, Ibis, 1876,p. 191 (Transvaal); 
 Butler, Feilden, $ Beid, Zool 1882, p. 336 (Estcourt, Nov.). 
-jEgialitis coronatus, Beichenb. Grail. Taf. xcix. fig. 704 (1852). 
-Stephanibyx coronatus, Beichenb. Av. Syst. Nat. p. xviii (1852); 
+jEgialitis coronatus, Reichenb. Grail. Taf. xcix. fig. 704 (1852). 
+Stephanibyx coronatus, Reichenb. Av. Syst. Nat. p. xviii (1852); 
 Bp. C. B. xliii. p. 419 (1856); Salvad. Ann. Mus. Gen. (2) i. 
 
 p. 220 (1884: Daimbi, Shoa). 
@@ -17816,7 +17816,7 @@ Hyetoceryx, Seine, Nomencl Mus. Sein. p. 336
 n390) 
 0. obscuni3. 
 
-Bange. "With the exception of Western Europe, Western Africa, 
+Range. "With the exception of Western Europe, Western Africa, 
 the extreme south of South America, and Oceania, nearly cosmopolitan. 
 
 
@@ -17957,7 +17957,7 @@ Trav. N. Zeal. ii. App. p. 195 (1843); id. List Grail Brit. Mus.
 
 p. 67 (1844: Mount Egmont, N. Z.); id. Voy. Ereb. $ Terr., 
 Birds, p. 11, pi. ix (1846 : Waikonati, Sept.) ; id. Gen. B. iii. 
-p. 544 (1847); Beichenb. Grail tab. Cv. 3.g. 1068 (1851); Gray, 
+p. 544 (1847); Reichenb. Grail tab. Cv. 3.g. 1068 (1851); Gray, 
 Ibis, 1862, p. 234; Bolts, Trans, New Zeal. Inst. ii. p. 68 (1870: 
 Dog Range, Ashburton distr., breeding); Gray. Hand-l B. iii. 
 p. 14, no. 9988 (1871); Finsch, J. f. O. 1872, p. 168 (N. Z.); 
@@ -20175,7 +20175,7 @@ Brit. Mus. p. 63 (1844) j Gay, Hist. Jis. Chile, Zool. i. p. 401
 Squatarola modesta, Gray, Gen. B. iii. p. 543 (1847); Licht. Nom&nel 
 
 Av. p. 95 (1854). 
-Zonibyx cincta, Beichenb. Av. Syst. Nat. p. xviii (1852). 
+Zonibyx cincta, Reichenb. Av. Syst. Nat. p. xviii (1852). 
 "Vanellus rnodestus, Burm. Th. Bras. iii. p. 362 (1856); id. Beis. La 
 
 Plata-St. ii. p. 363 (1861: Pampas ; Rio Quarto). 
@@ -20310,7 +20310,7 @@ ingtori).
 PODASOCYS. 
 Type. 
 Podasocys, Coues, Proc. Philad. Acad. 1866, p. 96 .... P. montanus. 
-Bange. Western States of North America, from Montana to 
+Range. Western States of North America, from Montana to 
 Mexico. 
 1, Podasocys montanus. 
 Charadrius montanus, Towns. Joum. Acad. Philad. vii. p. 192 (1837: 
@@ -20456,7 +20456,7 @@ sk. Michardsmi).
 30. 
 OXYECHUS. „ 
 Type. 
-Oxyechus, Beichenb. Av. Sysi. Nat. p. xviii (1852) ... . O. vociferus. 
+Oxyechus, Reichenb. Av. Sysi. Nat. p. xviii (1852) ... . O. vociferus. 
 Range. Forth America generally, migrating into South America. 
 
 Africa. 
@@ -25714,7 +25714,7 @@ Mange, Confined to Australia.
 Eudromias australis, Gould, P. Z. S. 1840, p. 174 (interior of S. Australia) 
 ; id. B. Austr. vi. pi. 15 (1843); Gray, List Grail. Brit. 
 Mus. p. 68 (1844) ; Stuart, Exp. Cmtr. Austr. ii. App. p. 49 (1849: 
-Plains of Adelaide); Beichenb. Grail. Suppl. tab. cv.figs. 106567 
+Plains of Adelaide); Reichenb. Grail. Suppl. tab. cv.figs. 106567 
 (1851); Licht. Nomencl. Av. Mus. Berol. p. 95 (1854); Schl. 
 Mus. Pays-Bas, Cursores, p. 47 (1865); Gould, Hcmdb. B. Austr. 
 
@@ -26580,7 +26580,7 @@ Himantopus
 leucocephalus, Gould, P. Z. S. 1837, p. 26; S. Mull. 
 Verh. Land- en Volkenk. p. 153 (1839-44: New Guinea; Java; 
 Sumatra); Gould, B. Austr. vi. pi. 24 (1841); Gray, List Grail. 
-Brit. Mus. p. 98 (1844) ; id. Gen. B. iii. p. 577 (1847); Beichenb. 
+Brit. Mus. p. 98 (1844) ; id. Gen. B. iii. p. 577 (1847); Reichenb. 
 Grail, tab. xcvii. figs. 642-43 (1848) ; Start, Exp. Centr. Austr. 
 
 ii. App. p. 49 (1849); Licht. Nomencl. Av. Mus. Berol. p. 93 
@@ -27129,7 +27129,7 @@ Recurvirostra orientalis, Cuv. Regne An. i. p. 496 (1817) Teinm.
 323 
 
 Man. d?Orn. ii. p. 593 (1820); Gray, Gen. B. iii. p. 556 (1847) ; 
-Beichenb. Grail tab. lxii. fig. 520 (1851). 
+Reichenb. Grail tab. lxii. fig. 520 (1851). 
 Leptorliynchus pectoralis, JDu Bus, Bull. R. Acad. Belqiqae, ii. 
 
 p. 420, pi. vii. (1835); id. Mag. de Zool. 1835, pi. 45. 
@@ -27571,7 +27571,7 @@ Biogr. iv. p. 168 (1838); Bp. Comp. ZistB. Eur.fy N. Amer. p. 54
 (1838); Audub. B. Amer. 8vo, vi. p. 24, pi. 353 (1843); Giraud, 
 B. Long Lsl. p. 269 (1844); Gray, List Grail. Brit. Mm. p. 97 
 (1844); id. Gen. B. iii. p. 576 (1847); Gosse, B. Jamaica, p. 389 
-(1847); Beichenb. Grail tab. Ixvi. fig. 991 (1851); LicJit Nomencl. 
+(1847); Reichenb. Grail tab. Ixvi. fig. 991 (1851); LicJit Nomencl. 
 Av. Mus. Berol. p. 93 (1854: Mexico); Bp. C. B. xliii. p. 421 
 (1856); Baird, B. N. Amer. p. 703 (1858); Henry, Proc. Acad. 
 Nat. Sci. Philad. 1859, p. 108 iNew Mexico) ; Xantus, t. c. p. 192 
@@ -29219,7 +29219,7 @@ xxxi. p. 767 (1881: Sumba); Blahist. # Fryer, B. Jap. p. 115
 p. 82 (1884: Bering Isl; Karatchatka); Seebohm, Ibis, 1884, p. 34; 
 Tacz. Bull. Soc. Zool. France, 1885, p. 475. 
 Numenius major (nee Steph.), Temm.fySchl. Faun. Jap. p. 110, pi. 66 
-(1850) ; Beichenb. Grail. Novit. tab. Ivi. %. 2564 (1851); Swinh. 
+(1850) ; Reichenb. Grail. Novit. tab. Ivi. %. 2564 (1851); Swinh. 
 Ibis, 1861, p. 343 (Pekin); id. P. Z. S. 1863, p. 318 (S. China; 
 Formosa, winter); id. Ibis, 1876, p. 334 (Hakodadi); Blakist $ 
 Fryer, B. Jap. p. 115 (1882: Hakodadi); Vorderm. N. T. Nederl 
@@ -30840,7 +30840,7 @@ Numenius brevirostris, Licht Verz. JDoubl. p. 7^5(1823: Monte
 
 video); Tmnm.Bl. Cot v. pi. 381 (1825); Gould, in Darwin's 
 Voy. < Beagle,7 Birds, p. 129 (1841: Buenos Ayres); ? Hartl. Ind. 
-Azara. p. 25 (1847); Beichenb. Grail, tab. lxxviii. "fig. 546 (1850); 
+Azara. p. 25 (1847); Reichenb. Grail, tab. lxxviii. "fig. 546 (1850); 
 Abbott, Ibis, 1861, p. 156 (Falkland Isl.) ; Belz. Orn. Bras. p. 30& 
 (1871: Ypanema). 
 
@@ -31101,7 +31101,7 @@ Brehm, Fog. BeutscM. p. 627 (1831): Nairn. Fog. Deutschl. viii.
 
 p. 428, pi. 214 (1836); Nordm. in Dimid. Toy. Buss. MSrid. iii. 
 
-p. 254 (1840); Beichenb. Grail tab. lxvvi. fig* 567-68 (1850). 
+p. 254 (1840); Reichenb. Grail tab. lxvvi. fig* 567-68 (1850). 
 Limosa noveboracensis, Leach, Syst. Cat. Mamm. etc. Brit. Mus. 
 
 p. 32 (1816). 
@@ -31124,7 +31124,7 @@ p. 437 (1840); Keys. # Bias. Wirb. Eur. pp. lxxiv, 213 (1840) ;
 Nordm. in Dimid. Foy. Buss. Merid. iii. p. 255 (1840: Caspian); 
 Webb 8f Berth. Orn. Canar. p. 38 (1841); Schl. Bev. Crit. p. lxxxvii 
 (1844) ; Muhle, Beitr. Orn. Griechenl. p. 102 (1844); Thomps. B. 
-Irel. ii. p. 225 (1850); Beichenb. Grail, tab. Ixxvi. figs. 56566 
+Irel. ii. p. 225 (1850); Reichenb. Grail, tab. Ixxvi. figs. 56566 
 (1850): Kjcerb. Danm. Fugle, pi. xxxiii.6 (1851); Macgill. 
 Brit. B. iv. p. 260 (1852); Schl. Fog. Nederl. pi. 226 (1854); 
 Licht. Nomencl Av. Mus. Berol. p. 91 (1854); Hewits. Eggs Brit. 
@@ -31492,7 +31492,7 @@ Limosa australasiana, Gray, List Grail. Brit Mus. p. 96 (1844).
 
 Limosa lapponica, var. novae zealandise, Gray, Toy. Ereb. $• Terr., 
 Birds, p. 13 (1846) ; Palmen, Vega Eaped. v. p. 302 J1887). 
-Limosa novas zealandise, Gray, Gen. B. iii. p. 570 (1847); Beichenb. 
+Limosa novas zealandise, Gray, Gen. B. iii. p. 570 (1847); Reichenb. 
 Grail, tab. exxvii. figs. 2449-50 (1850) ; Bp. C. B, xliii. p. 597 
 (1856) j Cass. U.S. Ez.pl Bxped. p. 814 (1855); Gray, Cat. B. 
 Trop. Isl p. 50 (1859) ; id. Ibis, 1862, p. 326 (New Zealand); 
@@ -31509,7 +31509,7 @@ Carolines: Gilbeit Isl); Forbes,Ibis, 1893,p.529 (Chatham Id.),
 
 Limosa 
 uropygialia>, Gotdd, P. Z. 8. 1848, p. 33 (Australia; ; id. B. 
-Austr. vi. pi. 29 (1848) ; Beichenb. Vog. Neuholl. p. 190% no. 528 
+Austr. vi. pi. 29 (1848) ; Reichenb. Vog. Neuholl. p. 190% no. 528 
 (1850); Macgill Karr. Toy. Battlesn. ii. p. 356 (1852); Lichf. 
 Nomencl Av. Mus. Berol p. 91 (1854: Australia); Bp. C. M. 
 
@@ -34132,7 +34132,7 @@ Nat. Mus. no. 29, p. 129 (1885: Bering IsL); id. Proa. U.S. Nat.
 Mm. x. p. 133 (1887 : Commander IsL). 
 
 The Spotted Kedshank, Yarrell, Brit. B. ii. p. 520 (1843). 
-Totanus fuseus indicus, Beichenb. Grail, tab. cclxxxix. figs. 2370-71 
+Totanus fuseus indicus, Reichenb. Grail, tab. cclxxxix. figs. 2370-71 
 (1850). 
 Erythroscelus ocellatus, Bp. C. B. xliii. p. 596 (1856). 
 
@@ -34517,7 +34517,7 @@ no. 367 ;* id. in Gray's Zool. Misc. p. 86 (1844) ; Gray, List Grail.
 Brit. Mus. p. 100 (1844); Hupp. Syst Uebers. p. 126 (1845); 
 Gray, Gen. B. iii. p. 573 (1846); id. Cat Mamm. fyc. Nepal pres. 
 Bodgs. p. 139 (1846); Bewits. Eggs Brit. B. ii. p. 289, pi. lxxx. 
-(1846); Blyth, Cat. B. Mus. As. Soc. p. 266 (1849); Beichenb. 
+(1846); Blyth, Cat. B. Mus. As. Soc. p. 266 (1849); Reichenb. 
 Grail, tab. lxxv. figs. 580-81 (1850); Thomps. B. Irel. ii. p. 202 
 (1850); Middend. Beis. Sibir., Zool. p. 205 (1851: Ochotsk, Aug.) ; 
 Kjcerb. JDanm. Fugle, tab. 36. fig. 5 (1851); Macgill. Brit B. iv. 
@@ -35779,7 +35779,7 @@ Gould in Damoirfs Toy. 'Beagle,1 Birds, p. 130 (1841); Gray,
 List Grail. Brit. Mus. p. 99 (1844); Tschudify Cab. Faun. Peruan., 
 Aves, p. 52 (1845-46) ; Gray, Gen. B. iii. p. 573 (1840); Marti. 
 Lnd. Azara, p. 25 (1847) ; Gosse, B. Jamaica, p. 352 (1847) ; 
-Beichenb. Grail tab. lxxv.fig. 583 (1850); Burm. Th. Bras. iii. p. 3G8 
+Reichenb. Grail tab. lxxv.fig. 583 (1850); Burm. Th. Bras. iii. p. 3G8 
 (1856); id. BeiseLaPlata-St. ii. p. 503 (1861); Schl. Mm. Pays-Bas, 
 Scolopaces, p. 63 (1864: Cuba; Colombia ; Surinam ; Chili); Leot. 
 Ois. Trinid. p. 454 (1866) ; Bryant, Proc. Bost. Soc. Nat. Hist. xi. 
@@ -40182,7 +40182,7 @@ Tog. Eur. tab. 38. fig. 0 (1870); Alston ty Harvie-Broion, Ibis,
 Limicola Indiana, Less. TraiU d'Orn. p. 554 (1831). 
 
 Limosa terek, Temm. MSS.; Gould, B. Eur. iv. pi. 307 (1837); 
-Temm. Man. d'Om. iv. p. 42G (1840) ; Beichenb. Grail, tab. cccii. 
+Temm. Man. d'Om. iv. p. 42G (1840) ; Reichenb. Grail, tab. cccii. 
 figs. 2446-48 (1850); Fimch, Neu-Guinea, p. 182 (1865). 
 
 Terekia javanica, Bjp. Comp. List B. Eur. $ N. Amer. p. 52 (1838); 
@@ -42797,7 +42797,7 @@ Mus. p. 29
  P. pugnax. 
 P. pugnax. 
 P. pugnax. 
-Bange. Almost the whole of the Old World; accidental in 
+Range. Almost the whole of the Old World; accidental in 
 America. 
 2E 2 
 
@@ -43025,7 +43025,7 @@ Machetes optatus, Hodgs. Icon, ined in Brit. Mus., Grail pi. 95.
 nos. 336, 412, pi. 95 a. no. 366, App. pi. 47; id. in Gray's Zool 
 Misc. p. 86 (1844). 
 
-Philomachus pugnax indicus, Beichenb. Grail, tab. lxxii. figs. 596600 
+Philomachus pugnax indicus, Reichenb. Grail, tab. lxxii. figs. 596600 
 (1850). 
 Tringa (Machetes) pugnax, Middend. Meis. Sibir., Zool. p. 218 
 
@@ -44133,7 +44133,7 @@ Ereunetes, Illiger, JProdr. p. 262 (1811) E. pusillus.
 Hemipalama, Bp. Journ. Pliilad. Acad. v. p. 87 (1825) E. pusillus. 
 Heteropoda, Nuttall, Man. Orn. ii. p. 135 (1834) E. pusillus. 
 
-Bange. N\E. Siberia and Arctic America, from the high north in 
+Range. N\E. Siberia and Arctic America, from the high north in 
 summer to Brazil and Peru in winter. 
 
 1. Ereimetes pusillus. 
@@ -45308,7 +45308,7 @@ p. 124 (1842) ; Gray, List Grallce Brit. Mus. p. 107 (1844); id.
 Gen. B. iii. p. 581 (1845); Bilpp. Syst Uebers. p. 126(1845); 
 Gosse, B. Jamaica, p. 354 (1847); Cab. in Schomb. Beis. Guian. iii. 
 p. 758 (1848: R. Waini); Thomps. B. Irel. ii. p. 121 (1849) ; 
-Beichenb. Mandb. Grail tab. lxxii. iigs. 605-607 (1851); 
+Reichenb. Mandb. Grail tab. lxxii. iigs. 605-607 (1851); 
 Marcourt, P. Z. S. 1851, p. 146 (Madeira); Macgill Hist. Brit. B. 
 iv. p. 237 (1852) ; Kjcerb. Orn. Ban. Taf. xxxiv. fig. 1, Suppl. 
 Taf. xv. figs. 4, 5 (1852) ; Burm. Th. Bras. iii. p. 371 (1856: 
@@ -50222,7 +50222,7 @@ B. Amer. 8vo, v. p. 261, pi. 330 (1842); Giraud, B. Long Isl
 p. 236 (1844); Schl. Bev. Crit. p. lxxxviii (1844); Muhle, Beitr. 
 Orn. Griechenl. p. 104 (1844); Grog, List Grail. Brit. Mus. p. 104 
 (1844); id. Gen. B. iii. p. 579 (1845); Holholl, Faun. Gronl. p. 39 
-(1846); Blyth, Cat. B. Mus. As. Soc. p. 269 (1849) ; Beichenb. Grail. 
+(1846); Blyth, Cat. B. Mus. As. Soc. p. 269 (1849) ; Reichenb. Grail. 
 tab. 73.figs. 621-623 (1850); Thomps. B. Irel. ii. p. 303 (1850) ; 
 Macgill. Brit. B. iv. p. 197 (1852) ; Kjcerb. Banm. Fugle, tab. 34, 
 JSuppl pi. xv. fig. 3 (1852); Schl. Vog. Nederl. pi. 229 (1854); 
@@ -51717,7 +51717,7 @@ Longch. Faun. Beige, p. 126 (1842); Schl. Rev. Crit p. lxxxviii
 (1844); Miihle, Beitr. Orn. Griechenl. p. 103 (1844); Gray, List 
 Grail. Brit Mus. p. 103 (1844); id. Gen. B. iii. p. 579 (1845); 
 Cab. in Schomb. Beis. Gnian. iii. p. 758 (1848); Blyth, Cat B. 
-Mus. A. S. B. p. 268 (1849: Calcutta) ; Beichenb. Grail, tab. lxxiiL 
+Mus. A. S. B. p. 268 (1849: Calcutta) ; Reichenb. Grail, tab. lxxiiL 
 VOL. xxiv. 
 2 Q 
 
@@ -53971,7 +53971,7 @@ Homoptilura, Gray, List Gen. B. 1840, p. 70 ..... . G. iindulata.
 Xylocota, Bp. C. B. xh. p. 660 (1855) G. jamesoni. 
 Coenocoryplia, Gray, List Gen. B. 1855, p. 19 G. aueklandica, 
 Spilura, Bp. C. B. xliii. p. 579 (1856) G. solitaria. 
-Bange. Nearly cosmopolitan. 
+Range. Nearly cosmopolitan. 
 
 The Snipes vary considerably in style of plumage and in the 
 amount of feathering on the tibio-tarsal joint, the latter "being a 
@@ -57559,7 +57559,7 @@ y, s. Ad. sk. New South Wales. Australian Museum
 a\ Ad. sk. Upper Hunter Eiver, N. S.W. J. Gould, Esq. [C.l 
 
 V. Ad. sk. Sydney, N. S. W. Seebohm Coll. 
-*'? d'. <$ 5 ad. sk. Dandenong Bange, Victoria, Seebohm Coll. 
+*'? d'. <$ 5 ad. sk. Dandenong Range, Victoria, Seebohm Coll. 
 Nov., Dec. {A. vonHugel). 
 e'. Ad. sk. Gipps' Land Lakes, Victoria Seebohm Coll. 
 {Marshall). 
@@ -57954,7 +57954,7 @@ Pays-Bas, Scolopaces, p. 8 (1864); Scl § Sah. Exotic Orn. p. 196
 Sah. Nomencl. Av. Neotr. p. 145 (1873); AIkn, Bull. Amer. Mus. 
 
 v. p. 149 (1893 : Matto Grosso). 
-Telmatias gigantea, Beichenb. Grail, tab. lxix. fig. 504 (1850). 
+Telmatias gigantea, Reichenb. Grail, tab. lxix. fig. 504 (1850). 
 Gallinago lacunosa, Licht. Nomencl Av. Mus. Berol p. 93 (1854: 
 Montevideo; Paraguay). 
 Xylocota gigantea, Bp. C. M. xliii. p. 579 (1856). 
@@ -57997,7 +57997,7 @@ Exotic Orn. p. 196 (1869); Gray, Eand4. B. iii. p. 53, no. 10339
 (1871); Scl % Sah. Nomencl Av. Neotr. p.-145 (1873) ; Sahin, 
 Ibis, 1886, p. 179 (British Guiana). 
 
-Telmatias paludosa, Beichenb. Grail tab. lxix. fig. 562 (1850). 
+Telmatias paludosa, Reichenb. Grail tab. lxix. fig. 562 (1850). 
 
 Gallinago paludosa, Licht. Nomencl Av. Mus. Berol. p. 93 (1854: 
 Guiana j Cayenne) j Schl Mus. Pays-Bos, Scolopaces, p. 8 (1864: 
@@ -58043,7 +58043,7 @@ p. 130; id. Geogr. Dirir. Charadr. p. 448 (1888).
 Scolopax meridionalis, Peak, U.S. Expl. Exped. p. 229 (1848: Orange 
 Bay); Cass. t. c. 2nded. p. 310, pi. 35.fig.1 (1858). 
 
-Telmatias stricklandi, Beichenb. GralL tab. lxx. fig. 998 (1850). 
+Telmatias stricklandi, Reichenb. GralL tab. lxx. fig. 998 (1850). 
 
 Scolopax spectabilis, Harll. Naumannia, 1853, p. 216 (Vaidivia). 
 
@@ -58467,7 +58467,7 @@ Gallinago minima, Leach, Syst. Cat Mamm. fyc. Brit. Mus. p. 31
 (1816: Wiltshire); Stephens in Shaw's Gen. Zool xii. p. 57 
 (1824); Sykes, P Z. S. 1832, p. 163 (Deccan). 
 
-Limnocryptes gallinula> Kaup, Natilrl. Syst. p. 118 (1829); Beichenb. 
+Limnocryptes gallinula> Kaup, Natilrl. Syst. p. 118 (1829); Reichenb. 
 Grail, tab. lxix. figs. 560-561 (1850); Bp. C. B. xliii p. 579 
 (1856); Gould, B. Gt. Brit, iv, pi. 80 (1865); Loche, Expl Sci. 
 Alger., Ois. ii. p. 298 (1867); Stcinh. P. Z. S. 1871, p. 407 
@@ -59046,7 +59046,7 @@ Bentschl viii. p. 361, pi. 211 (1837); Keys. $ Bias. Wirb. Fur.
 pp. lxxviii, 217 (1840) ; Nor dm. in Demid. Voy. Bliss. Merid. iii. 
 
 p. 252 (1840) ; Miihle, Beitr. Orn. Griechenl. p. 108 (1844); 
-Beichenb. Grail, tab. lxviii. figs. 552, 553 (1850); Hartl. J.f. 0. 
+Reichenb. Grail, tab. lxviii. figs. 552, 553 (1850); Hartl. J.f. 0. 
 1854, p. 159 (Ceylon); Bolle, J.f. O. 1855, p. 176 (Canary Is.); 
 Schl. Bier. Nederl. Vogels, pi. 22. figs, 4, 4 a (1861); id. Mus. 
 Pays-Bas, Scolopaces, p. 2 (1864); Degl. 8c Gerbe, Orn. Fur. ii. 
@@ -59495,7 +59495,7 @@ CHARADKIID.3E.
 Scolopax 
 saturata, JSorsf. Trans. Linn. Soc. xiii. p. 191 (1821 : 
 Mount Prahu, Java, 7000 ft.); id. Zool. Research. Java, pi. 63 
-(1824); Less. Compl. Buff. Ois. iii. p. 420 (1837); Beichenb. 
+(1824); Less. Compl. Buff. Ois. iii. p. 420 (1837); Reichenb. 
 Grail, tab. cccliv.fig. 2780 (1851) ; Bp. C. B. xliii. p. 579 (1856) ; 
 Schl. Eandl. Dierk. i. p. 432, pi. vi. fig. 71 (1857) : id. Dierent. 
 
@@ -59602,7 +59602,7 @@ vi. p. 15, pi. 352 (1839); Giraud, B. Long Isl. p. 266 (1844).
 Philonela 
 minor, Gray, List Gen. B. p. 90 (1841); id. List Grail. . 
 Brit. Mus. p. 112 (1844: Bockpori); id. Gen. B. iii. p. 584, 
-pi. 157. fig. 2 (1846); Beichenb. Grail, tab. lxviii. fig. 554 (1850); 
+pi. 157. fig. 2 (1846); Reichenb. Grail, tab. lxviii. fig. 554 (1850); 
 Licht. Nomencl. Av. Mus. Berol. p. 93 (1854); Cass, in Bairds 
 
 B. N. Amer. p. 709 (1858 : Pennsylvania; Nebraska); Boardm, 
@@ -59741,7 +59741,7 @@ Leptoscelis, Des Murs, Icongr. Orn, pi. 41 (1846) (nee
 Halliday, 1833) P. mitchelli. 
 Phegornis, Gray, Gen. B. iii. p. 546 (1847) P. mitchelli. 
 
-Bange. S.W. of South America, from Peru to Chili. 
+Range. S.W. of South America, from Peru to Chili. 
 
 CHABADEIID.^. 
 
@@ -60782,7 +60782,7 @@ Crymophilus, Vieill. Analyse, p. 62 (1816) C. fulicarius.
 Amblyrhynchus, Nutt. Man. ii. p. 247 {nee Gray, 
 
 1840) C. fulicarius. 
-Bange. The same as that of the single species. 
+Range. The same as that of the single species. 
 
 1. Crymophilus fulicarius. 
 The Bed Coot-footed Tvinga, Edw. Nat Hist. B. iii. p. 142, 
@@ -62314,7 +62314,7 @@ ii. p. 341 (1828); id. Traits d'Orn. p. 521, pi. 109.fi*>.2 (1831);
 JSlainv. Ann. Sci Nat. vi. p. 97 (1836); Gould in Darwin's Voy. 
 < Beagle; Birds, p. 118 (1841: Falkland Is.) ; Gray, List Grail. 
 Brit.Mus. p. 51 (1844: Straits of Magellan; Falkland Is.); id. 
-Gen. B. iii. p. 522, pi. 135.fig. 3 (1845); Beichenb. Gall. tab. clxxix. 
+Gen. B. iii. p. 522, pi. 135.fig. 3 (1845); Reichenb. Gall. tab. clxxix. 
 figs. 1545-46 (1850); Bp. C. JR. xliii. p. 420 (1856); Eytcm, P. Z. S. 
 1858, pp. 90,100; Gould, P. Z. S. 1859, p 95, I860, p. 386(Falk
 2 . CHTOSrARCHTTS. 
@@ -62410,7 +62410,7 @@ above the eulmen crozettensis, p. 713.
 Chionis minor, Earth Bed. Zool. 1841, p. 5, 1842, pi. ii. figs. 2, 2 a; 
 Lafr. t c. p. 402 ; Gray, List Grail. Brit Mus p. 52 (1844 : Ker~ 
 guelen's Land); id. $ Mitchell, Gen. B. iii. p. 522, pi. 136 (1845) ; 
-Beichenb. Gall tab. clxxix. fig. 1547 (1850); Bp. C. JR. xliii. 
+Reichenb. Gall tab. clxxix. fig. 1547 (1850); Bp. C. JR. xliii. 
 
 p. 420 (1856); ScJil. Handl Dierk. p. 400, pi. viii.fisr. 98 (1857) ; 
 id. Bier. p. 232 cumfig".;Sutton, Ibis, 18<'5, p. 277 (Prince Edward 
@@ -62898,7 +62898,7 @@ Tinocliorus eschscholtzii, Geoffr.fy Less. Cent. Zool. p. 140, pi 50
 
 (1830); Fraser, P Z. S. 1843, p. 110 (Chili). 
 Thinocoms swainsoni, Gray, List Grail. Brit Mm. p. 51 (1844; 
-Chili); Beichenb. Gall. tab. clxxx. %. 1551 (1850); Bp C It 
+Chili); Reichenb. Gall. tab. clxxx. %. 1551 (1850); Bp C It 
 
 xliii. p. 420 (1856); Scl. P Z. 8. 1857,' p. 331 (Chili); Beh. Beil 
 Novara, Tog. p. 113 (1865: Chili); Gray, List Gall. Brit. Mas 

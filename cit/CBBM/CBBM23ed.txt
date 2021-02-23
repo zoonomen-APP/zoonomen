@@ -471,7 +471,7 @@ j3. alfara (Bidgiv.) 141 j8. cajrulescens (JSelys) . 193
 
 1. niger ((?/».) 150 12. ineKhonottis, Temm. .. 205 
 
-38. Amaurornis, Beichenb. .. 152 a. pelewensis, Hartl. fy 
+38. Amaurornis, Reichenb. .. 152 a. pelewensis, Hartl. fy 
 
 1. olivacea (ifefo/aw) . 153, 338 Finsch . 206 
 
@@ -626,7 +626,7 @@ aydeni, Marsh 276
 1. americanus (B.) 259 
 3. Sarcogeranus, Sharpe.... 260 
 1. leucogeranus (Ball.) .. 261 
-4. Antigone, Beichenb 262 
+4. Antigone, Reichenb.262 
 1. collaris (Bodd.) 262 
 2. antigone (i.) 264 
 3. australasiana, Gould .. 265 
@@ -2114,7 +2114,7 @@ p. lxviii (1840); Nordm. in Bemid. Voy. Buss. Merid. iii. p. 274
 (1840); Selys-Longch. Faune Beige, p. 118 (1842); Schl. Iter. 
 Crit p. civ (1844); Gray, List Grallce Brit. Mus. p. 115 (1844) ; 
 id Gen. B. iii. p. 593 (1846); Hewits. Eggs Brit B. ii. p. 322, 
-pi. xc. fig. 2 (1840); Thomps. B. Irel ii. p. 322 (1850); Beichenb. 
+pi. xc. fig. 2 (1840); Thomps. B. Irel ii. p. 322 (1850); Reichenb. 
 Ilamlb., Fulicarim, Taf. cxv. figs. 1143-1145 (1851); Macgill. 
 Hist. Brit. B. iv. p. 521 (1852); Kjcerb. Orn. Ban. pi. xxxviii. 
 fig. 2, Suppl. pi. xviii. fig. 2 (1852); Schl. Vog. Nederl. pi. 257 
@@ -2683,7 +2683,7 @@ pi. 230B. fig. 1, pi. 231 (1879-82); Sibree, Ibis, l8927 p. 114.
 Rallus poliocephalus, Gray, List Gratia Brit. 3Ius. p. 116 (1844). 
 Eiensis typus, Pucker. Bev. Zool. 1845, p. 278 ; Des Murs. Iconor/r. 
 Orn. pi. 24 (1846). 
-Biensis madasascariensis, Beichenb. Kandb., Fulicarite, Taf. cccvi. 
+Biensis madasascariensis, Reichenb. Kandb., Fulicarite, Taf. cccvi. 
 %. 2476 (1851); Bp. C. R. xliii. p. 599 (1856); Marti.t Faun. 
 
 2. LIMNOPAIUULTTS. 
@@ -2862,7 +2862,7 @@ liallus sanguinolentus, pt.; Gray, List Grcdlce Brit. Mus. p. 115
 liallus csesius faec Spiv), Tschudi, Faun. Peruan., Aves, pp. 52, 301 
 (1845-46); Schl. Mus. Pays-Bas, Ralli, p. 8 (1865); Toes. P. Z. S. 
 1880, p. 213 (Cutervo). 
-Ballina ciesia, Beichenb. Handb., Fnlic. Taf. exxii. fig. 1201 (1851"). 
+Ballina ciesia, Reichenb. Handb., Fnlic. Taf. exxii. fig. 1201 (1851"). 
 Aramides rhytirhynchus, Burm. Meis. La-Plata St. ii. p. 504 (1861: 
 Parana). 
 Aramides zelebori, Telz. Beis. Novara, Vdg. p. 133 (1865). 
@@ -3555,7 +3555,7 @@ Hab. Tahiti.
 38 B iLLIDJE. 
 
 Grader Brit. Mm. p. 115 (1844); id. Gen. B. iii. p. 593 (1840); 
-Beichenb. Ilandb., Fulic. tab. cccv. figs. 2407-68 (18o2); Gould, 
+Reichenb. Ilandb., Fulic. tab. cccv. figs. 2407-68 (18o2); Gould, 
 Handb. B. Austr. ii. p. 336 (18()5j; #//</*/, 2&'«, 187-5, p. 392 
 (Auckland Isl.); Butler, Tr. N. Zeal. Inst, xi. p. 362 (1878) ; id. 
 
@@ -3563,7 +3563,7 @@ B. A". Zeal. 2nd ed. ii. p. 100 (1888); North, Cat. Nests $ Eggs
 Austr. B. p. 320(1889). 
 Eallus lowini, Swains. An. in Menag. p. 336 (1837) ; Gray, Gen. B. 
 
-iii. p. tm (1846); Gould, B. Austr. vi. pi. 77 (1848); Beichenb. 
+iii. p. tm (1846); Gould, B. Austr. vi. pi. 77 (1848); Reichenb. 
 Fog. Neulwll. p. 242 (1850). 
 Lewiiiia brachvpus, Bp. C. B. xliii. p. 599 (1856). 
 Lewinia pectoralis (nee Gould), Bp. C. B. xliii. p. 599 (1856). 
@@ -3651,11 +3651,11 @@ Rallus pacificus, var., Forster, Icon. ined. pi. 127 ; Licht. JDescr, Anim.
 
 p. 178 (1844) ; Gray, Cat. B. Trop. Isl. Pacif. Ocean, p. 51 
 (1859). 
-Porzana philippensis, Beichenb. Ha?idb., Fulic. tab. cxviii. figs. 1173™ 
+Porzana philippensis, Reichenb. Ha?idb., Fulic. tab. cxviii. figs. 1173™ 
 74 (1851). 
 Rallus 
 pectoralis (nee Citvier), Gould, B. Austr. vi. pi. 76 (1848): 
-Beichenb. Vog. Neuholl. p. 154 (1851); id. Handb., Fulic. Novit. 
+Reichenb. Vog. Neuholl. p. 154 (1851); id. Handb., Fulic. Novit. 
 tab. xlii. figs. 2465-66 (1851); Mocg. Voy. 'Rattlesnake; ii. p. 358 
 (1852: Torres Straits); Cass. U.S. Expl. Biped., Birds, p. 303 
 (1858); Gray, P. Z. S. 1858, p. 198; id. Cat. B. New Guinea, p 62 
@@ -5981,7 +5981,7 @@ Penang); Hume, Str. F. ii. p. 483 (1874: Tenasserim).
 Railina euryzona, Beickenb. Handb., Fulicarice, tab. cxx. %. 1180 
 
 (1851) 
-Ilypolsenidia euryzona, Beichenb. t. c. p. 23 (1852). 
+Ilypolsenidia euryzona, Reichenb. t. c. p. 23 (1852). 
 Euryzona fasciata, Bp. C. B. xliii. p. 509 (1856). 
 Rallina fasciata, Schl. Mus. Pays-Bas, Ralli, p. 19 (1865); id. X. 
 
@@ -6511,7 +6511,7 @@ Type.
 
 Crex, JBechstein, Orn. Taschenb. p. 336 (1802) C. crex. 
 
-Bange. The same as that of the single species of the genus. 
+Range. The same as that of the single species of the genus. 
 
 1. Crex crex. 
 The Land-Rail, or Daker-Hen, Albin, Nat. Hist B. i. p. 30, pi. 32 
@@ -7049,7 +7049,7 @@ GatJce, Vogelw. Helgoland, p. 5*31 (1891).
 Ortygometra olivacea, Steph. Gen. Zool. xii. pt. 1, p. 226 (1824). 
 
 Zapornia pusilla (nee Ball), Steph. t. e. p. 231, cum k%. (1824); 
-Gould, B. Fur. iv. pi. 345 (1837); Beichenb. Sgst Nat. Pulic. 
+Gould, B. Fur. iv. pi. 345 (1837); Reichenb. Sgst Nat. Pulic. 
 tab. cxix. figb. 1176-78 (1852). 
 
 Phalaridion pusilla (nee Fall.), Kaup, Nat. Sgst. p. 173 (1829). 
@@ -8192,7 +8192,7 @@ p. 382 (Portugal) ; Beichen. Syst. Verz. Vog. Beutschl. p. 44
 1892, p. 114 (Madagascar). 
 Baillon's Crake, Yarr. Brit. B. iii. p. 20 (1843). 
 
-Zapornia pygmaea, Beichenb. Handb. Fulicarise, Taf. cxix. figs. 11/982 
+Zapornia pygmaea, Reichenb. Handb. Fulicarise, Taf. cxix. figs. 11/982 
 (1851) ; Bp. C.li. xliii. p. 599 (1856); Loche, Bxpl Sci. Alger., 
 Ois. ii. p. 340 (1867); Bartl. P. Z. S. 1879, p. 772. 
 
@@ -12723,7 +12723,7 @@ d. d ad. sk. Valencia, Venezuela, July Salvin-Godman Coll.
 Tribonvx, JDu Bus, Bull. Acad. Boy. Bruxelles, vii. 
 p. 212 (1840) T. mortieri. 
 Brachyptrallus, Lafr. Bev. Zool. iii. p. 282 (1840) T. mortieri. 
-Bange. The same as that of the single species. 
+Range. The same as that of the single species. 
 
 1. Tribonyx mortieri. 
 Tribonyx mortieri, Du Bus, Bull. Acad. Boy. Bruxelles, vii. p. 214, 
@@ -12872,7 +12872,7 @@ Type.
 Porphyriornis, Allen, Bull. Am. Mus. Nat. Hist. iv. art. vi. 
 
 p. 57 (1892) P. comeri. 
-Bange. Confined to Tristan d'Acunha and Gough Island. 
+Range. Confined to Tristan d'Acunha and Gough Island. 
 1. Porphyriornis nesiotis. 
 Gallinula nesiotis, Scl. P. Z. S. 1861, p. 261, pi. xxx.; Gray, Hand-l. 
 B. iii. p. 66, no. 10501 (1871); Scl. P. Z. & 1878, p. 577; id. Bep. 

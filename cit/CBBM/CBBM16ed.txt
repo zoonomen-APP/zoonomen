@@ -1773,7 +1773,7 @@ VPWBTDM*
 Type. 
 Upupa, Linn. Sysi. Nat. i. p. 183 .. > U. epops. 
 
-Bange. Southern Palsearetic Eegion from the British Islands to 
+Range. Southern Palsearetic Eegion from the British Islands to 
 Japan, Africa, Madagascar, Arabia, the Indian peninsula and 
 Ceylon, the Indo-Chinese region as far south as Tonka in the Malay 
 peninsula, Hainan, and 1ST. Borneo. 
@@ -1826,7 +1826,7 @@ Brit. B. iii. p. 41 (1840) ; Sclil £ Svsem. Yog. Eur. pt. vii. pi. xi.
 Buss. 3Ierid. iii. p. 212 (1840); 8eh/s~Lonqch Faune Belg. p. 107 
 (1842); Schh Bep. Crit p. Iii (1844); bray, Gen. B. i. p. 00 
 (1847); Tkomps. B. Irel i. p. 353 (1840); Bp. Comp. i. p. 88 
-(1850); Kjarb. Banm. Fugle, pi. 13. fig. 1 (1852); Beichenb. 
+(1850); Kjarb. Banm. Fugle, pi. 13. fig. 1 (1852); Reichenb. 
 Eandb. Scans, p. 318, Taf. clxcv. figs. 3033-34 (1853); Heiuits, 
 Eggs Br. B. i. p. 249, pi. 63. £g. 3 (1856); Sundev. Svensk. For/l 
 pi. 19. fig. 5 (1856); Jaub. et Barth-Lapomm. BicL Orn. p. 302 
@@ -2905,7 +2905,7 @@ id. $• Audeb. Ois. Dor. pi. ii. Promerops, p. 11 (1802).
 Upupa cristatella, Vieill. Gal. Ois. i. p. 300, pi. 184 (1825). 
 Upupa capensis, Strains. B. W. Afr. ii, p. 115 (1837); Jard. %• 
 
-Selby, III. Orn. pi. 142 (1839) ; Beichenb. Handb. Scansores, p. 319, 
+Selby, III. Orn. pi. 142 (1839) ; Reichenb. Handb. Scansores, p. 319, 
 pi. dxcv. fig. 4035 (1853). 
 Upupa decorata, Hartl. P. Z. S. 1865, p. 86; Gray, Hand-l. B.i. 
 
@@ -4081,7 +4081,7 @@ hidden; sexes dissimilar 25. CHEYSQLAMPIS,
 1. HELIOTHBIX 
 Type. 
 Heliothrix, Boie} Iszs, 1831, p. 547 < ,. H. auritus. 
-Bange. Tropical America, from British Honduras and Guatemala 
+Range. Tropical America, from British Honduras and Guatemala 
 
 to Southern Brazil. 
 
@@ -4341,7 +4341,7 @@ the name was first used by Gould, in 1851, when describing S. albo
 
 
 gularis. 
-Bange. Andes, from Colombia to Bolivia. 
+Range. Andes, from Colombia to Bolivia. 
 Key to the Species. 
 
 a. Whole crown dark grass-green like the neck; 
@@ -9438,7 +9438,7 @@ Anthraeothorax y. Sericotes, Belch. Aufz. d. Cul
 
 
 p. 11 (1854) E. iiuLfeeiieeu-. 
-Bange. Lesser Antilles, from the Virgin Islands to St. Vincent. 
+Range. Lesser Antilles, from the Virgin Islands to St. Vincent. 
 Key to the Species. 
 
 a. Wings shining green • throat rich shining ^ incurred 
@@ -12096,7 +12096,7 @@ Bridges [0.].
 ZODALIA. 
 Type. 
 Zodalia, Muls. Hist. Nat Ois.-Mouches, iii. p. 281 (1876) .. Z. ortoni. 
-Bange. Southern Colombia, Ecuador. 
+Range. Southern Colombia, Ecuador. 
 
 Key to the Species. 
 
@@ -14259,7 +14259,7 @@ Marta, March (F. Simons).
 PHLOGOPHXLUS. 
 Type. 
 Phlogophilus, Gould, P. Z. 8. 1860, p. 310 P. hemileucurus, 
-Bange. Andes of Eastern Ecuador. 
+Range. Andes of Eastern Ecuador. 
 A genus of doubtful affinity. Gould, unable to indicate its 
 position, placed it at the end of the Trochilidce, but suggested, 
 without stating his reasons, that it might be allied to Adelomyia. 
@@ -15679,7 +15679,7 @@ Range. Southern Mexico, Guatemala, Honduras, and the Andes
 of Colombia and Peru. 
 
 Bonaparte's name Cyanomyia was for many years used for this 
-genus, though of a few months7 later date than Beichenbach s 
+genus, though of a few months7 later date than Reichenb.ch s 
 subgeneric or sectional name TJranoniiim. Both are equally uncharacterized, 
 and if either have claims to be adopted, the genus 
 rather than the subgenus should have the preference. Cabanis and 
@@ -19588,7 +19588,7 @@ Chrysurus, Bp. Compt. Rend. 18o0, p. 382.
 
 Chrysurisca, Cab. $ Heine, Mus. Hem. iii. p. 42. 
 
-Bange. Tropical America from Guatemala to the Argentine Republic. 
+Range. Tropical America from Guatemala to the Argentine Republic. 
 
 
 Key to ike Species. 
@@ -23989,7 +23989,7 @@ Chariessa, Heme, J. f. Orn. 1863, p. 178 , D. henrici.
 Cceligena (Himelia), Mids. Ami. Soc. Linn. Lyont xxii. 
 
 p. 203 (1875) D. henrici. 
-Bange. Southern Mexico, Guatemala, and Costa Rica. 
+Range. Southern Mexico, Guatemala, and Costa Rica. 
 Key to the Swedes. 
 
 a. Under surface greyish brown. 
@@ -26081,7 +26081,7 @@ ad. sk.
 92. OREONYMPHA. „, 
 Type. 
 Oreonympha, Gould, P. Z. S. 1869, p. 295 0. nobilis. 
-Bange. Highlands of Southern Peru. 
+Range. Highlands of Southern Peru. 
 
 1. Oreonympha nohilis. 
 Oreonympha nobilis, Govld, P. Z. 8.1869, p. 295; id. Man. Trock.7 
@@ -26293,7 +26293,7 @@ Eupogonus, Muls. Ann. Soc. Linn. Lyon, xxii.
 
 
 p. ^22. 
-Bange. Andes from Northern Colombia to Bolivia. 
+Range. Andes from Northern Colombia to Bolivia. 
 This genus is a somewhat composite one, and might be separated 
 into three or perhaps four, for which the following names are 
 available:—Ehamjyhomicron for section a' of the subjoined key, 
@@ -30375,7 +30375,7 @@ Selasphorus j8. Archilochus, Reich. Troch. Enum. p. 10. T. alexandri.
 * I do not know the bird from Santa Barbara, California, described by 
 Mr. J. A. Jeffries as TROCHILUS VIOLAJUGTJLUM (Aukf y. p. 168, 1888). 
 114 . TBOCHILTTS. 39 9 
-Bange. North. America : Mexico and Central America, in winter, 
+Range. North. America : Mexico and Central America, in winter, 
 to Chiriqui. 
 
 Key to the Species. 
@@ -38691,7 +38691,7 @@ Palsestra, Agass. Nomencl. Zool. hid. Univ. p. 271
 
 (1870). 
 Chelidonia; Streubel, Isis, 1848, p. 370 iL nrystaeea. 
-Bange. India, Malay ana, and Fapuasia. 
+Range. India, Malay ana, and Fapuasia. 
 
 
 Key to the Sjpecics. 
@@ -39228,7 +39228,7 @@ protectively.
 
 Young hatched helpless, but covered with down. 
 
-Bange. The family ranges over most parts of the world, except 
+Range. The family ranges over most parts of the world, except 
 the Arctic and Antarctic regions, and seems to be absent from the 
 Eastern Pacific Islands. It is most developed in tropical countries. 
 
@@ -45457,7 +45457,7 @@ Oct. IB (C."J. A.).
 SCOTORNIS. 
 T\pe. 
 Scotornis, Swainson, B. W. Afr. ii. p. GQ (1837) ... . S. climacurus. 
-Bange. That of the single species. 
+Range. That of the single species. 
 
 1. Scotornis climacuras. 
 Long-tailed Goatsucker, Lath. Gen. Syn. iv. p. 540 (1783). 
@@ -49423,7 +49423,7 @@ The nidification is singular. The eggs are said to be four in
 number, and are pure white. 
 They inhabit caves, and are crepuscular in their habits. 
 
-Bange. Mountainous districts of northern and western parts of 
+Range. Mountainous districts of northern and western parts of 
 South America (Guiana to Peru). 
 
 1. STEATOSIS. 
@@ -49433,7 +49433,7 @@ Steatornis, Humboldt, Bull. Soe. Philom. Paris, sex 3,
 
 xvii. p. 295 (1810) 
 S. caripensis. 
-Bange. That of the family. 
+Range. That of the family. 
 
 1. Steatornis caripensis. 
 Caprimulgus 

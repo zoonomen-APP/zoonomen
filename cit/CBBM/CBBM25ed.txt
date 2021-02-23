@@ -1427,7 +1427,7 @@ Crit. p. cxxxi (1844); Biipp. Syst. Uebers. p. 139 (1845: "Lower
 Egypt); Yarr. Brit. B. 2nd ed. iii. p. 511 (1845) : Eewits. Eggs 
 Brit. B. ii. p. 430*, pi. 120* (1846); Thomps. Ann, Nat. Hist. xx. 
 
-p. 79 (1847); id. B. Irel. iii. p. 298 (1851); Beichenb. Natat. 
+p. 79 (1847); id. B. Irel. iii. p. 298 (1851); Reichenb. Natat. 
 tab. xxi. figs. 812-815 (1848); Bald. Naum. 1851, lift. iv. p. 44 
 (Hungary,breeding); Kjcerb. Damn. Fugle, p. 331, taf. 40 B (1852); 
 id. Suppl. taf. 21. figs. 1, 2 (1854); Bowys, Ibis, 1860, p. 357 
@@ -1436,7 +1436,7 @@ breeding) ; Sintenis, J.f. 0. 1877, p. 68.
 Sterna javanica, Horsfield, Trans. Linn. Soc. xiii. p. 198 (1820) [not 
 of bis Zool. Bes. p. 8] (type in Brit. Mus.); Steph. in Shaw's Gen. 
 Zool. xiii. pt. 1, p. 158 (1825); Gray § Ilardw. III. 2nd. Zool. i. 
-pi. 70. fig. 1 (1832: Oawnpore); Beichenb. Natal. Novit. vii. 
+pi. 70. fig. 1 (1832: Oawnpore); Reichenb. Natal. Novit. vii. 
 tab. cclxx. fig. 2258 (1850). 
 
 Sterna delamotta (sic), Vieill. Em. Method, i. p. 350 (1820: Picardy). 
@@ -1471,7 +1471,7 @@ Gould, B. Gt. Br. v. pi. 77 (1873); Walden, Tr. Z. S. ix. p. 244
 (1892). 
 Sterna similis, Gray, Hardtv. III. Ind. Zool I pi. 70. fig. 2 (1832) 
 (type in Brit. Mus.); Sykes, B. Z. S. 1832, p. 171; Jerdon, Madras 
-Journ. xii. p. 224 (1840); Beichenb. Natat. Novit. viii. tab. cclxxi. 
+Journ. xii. p. 224 (1840); Reichenb. Natat. Novit. viii. tab. cclxxi. 
 fig. 2261 (1850). 
 
 Sterna, sp. n. ? no. 404, Jerdon, Madr. Journ. xii. p. 224 (1840). 
@@ -2123,7 +2123,7 @@ Longch. F. Belg. p. 151 (1842); Macgill Man. Brit Orn. ii.
 p. 233 (1842); Bouteille, Orn. DauphinS, ii. p. 237 (1843); 
 MuhU, Orn. Griechenl. p. 147 (1844); Crespon, Faun. MSrid. ii. 
 p. 120 (1844); Schleg. Mev. Crit. p. exxx (1844); Hewits. Eggs 
-Brit B. ii. p. 435, pi. 122 (1846); Beichenb. Natat. tah. xx. 
+Brit B. ii. p. 435, pi. 122 (1846); Reichenb. Natat. tah. xx. 
 figs. 807-810 (1850); Thomps. B. Irel. iii. p. 304 (1851); Kjarb. 
 Danm. Fugle, p. 332, tab. 40 B., Suppl. tab. 21 (1852); Schl. 
 Vog. Nederl. p. 615, pi. 362 (1854); Heugl. Sijst Uebers. p. 71 
@@ -2681,7 +2681,7 @@ Neuwied, Beitr. Naturg. Bras. iv. p. 861 (1833) ; Tsch £
 Cab. Faun. Peruan., Aves, pp. 53, 305 (1846) ; Sartl Ind. Azara, 
 
 p. 26 (1847); Cab. in Schomb. Beis. Guiana, iii. p. 461 (1848); 
-Beichenb. Natat. tab. xviii. fig. 257 (1848); Burm. Th. Bras. iii. 
+Reichenb. Natat. tab. xviii. fig. 257 (1848); Burm. Th. Bras. iii. 
 pp. 450, 451 (1856); id. Beise La Plata, ii. p. 519 (1861) ; Schl 
 Mus. P.-Bas, Sterna, p. 12 (1863); Taylor, Ibis, 1864, p. 96 
 (Orinoco); Scl $ Salv. P. Z. S. 1867, pp. 593, 979 (Mariana, 
@@ -2699,7 +2699,7 @@ Temm.," Less. TraiU, p. 622 (1831: Brazil)
 
 Phaethusa magnirostris, Wagler, Isis, 1832, p. 1224; Gray, List 
 Gen. p. 79 (1840), p. 100 (1841); id. Gm. B. iii. p. 659 (1846); 
-Beichenb. Syst. Nat tab. iv. (1850) id. Av. Syst Nat, Longip. 
+Reichenb. Syst. Nat tab. iv. (1850) id. Av. Syst Nat, Longip. 
 
 24c LARID^J. 
 
@@ -2853,7 +2853,7 @@ p. exxx (1844); Aud. B. Amer. vii. p. 81, pi. 430 (1844); Giraud,
 
 B. Long Is. p. 353 (1844); Yarr. Brit. B. 2nd ed. iii. p. 515 
 (1845); Hewits. Eggs Brit. B. ii. p. 431, pi. 121. tig. (1846) ; 
-Gray, Gen. B. iii. p. 659 (1846); Beichenb. Natat. tab. six. 
+Gray, Gen. B. iii. p. 659 (1846); Reichenb. Natat. tab. six. 
 fig. 261 (1848) ; Begl. Ois. Bur. ii. p. 336 (1849); StrickL 
 P. Z. S. 1850, p. 222 (Kordofan); Kjcerb. Dcrnm. Fugle, p. 327, 
 tab. 40 A. fig. 2 (1852), Suppl. tab. 20. fig. 1 (1854); Schl. Vog. 
@@ -3018,7 +3018,7 @@ Hydrocecropis nuttalli, Bote, Isis, 1844, p. 179.
 Gelochelidon affinis, Boie, Isis, 1844. p. 187; Bp. C. B. xlii. p. 772 
 (1856). 
 
-Gelochelidon macrotarsa, Boie, Isis, 1844, p. 187; Beichenb. Vog. 
+Gelochelidon macrotarsa, Boie, Isis, 1844, p. 187; Reichenb. Vog. 
 Neuholl p. 347 (1850) ; Bp. C. B. xlii. p. 772 (1856); Gould, 
 Handb. B. Austr. ii. p. 403 (1865); id. B. Austr. Sujppl pi. 81 
 (1869); Gray, Hand-l B. iii. p. 119 (1871); Ramsay, P. Z. S. 
@@ -3518,7 +3518,7 @@ Hydroprogne, Kaup, Naturl. Syst. p. 91 (1829) : H. caspia*,
 Sylochelidon, Brehm, Tog. Deutschl p. 770 (1831) ...... H. caspia. 
 Helopus, Wagl. Isis, 1832, p. 1224 H. caspia. 
 
-Bange. Almost cosmopolitan ; the exceptions being Tropical and 
+Range. Almost cosmopolitan ; the exceptions being Tropical and 
 South America and the Islands of the Pacific. 
 
 1. Hydroprogne caspia. 
@@ -3547,7 +3547,7 @@ B. pt. ii. p. 230 (1842); Selys-Longch. Faun. Belg. p. 149 (1842);
 Schl. Bev. Crit. p. cxxviii (1844); Gray, List B. Brit. Mus. p. 175 
 (1844); Tarr. Brit. B. ed. 2, iii. p. 493 (1845); Gray, Gen. B. 
 iii. p. 658 (1846) ; Hewits. Bggs Brit. B. ii. p. 421, pi. 97 (1846); 
-Beichenb. Natat. tab. xviii. figs. 258-260 (1848); Degl Orn. 
+Reichenb. Natat. tab. xviii. figs. 258-260 (1848); Degl Orn. 
 Bur. ii. p. 337 (1849); Brandt in Lehmann's Beise n. Buchara, 
 p. 330 (1852: Caspian); Kjcerb. Danmh. Fugle, p. 326, tab. 40 A. 
 (1852), Suppl. tab. 20. figs. 1, 2 (1854) ; Schl. Tog. Nederl. p. 612, 
@@ -4757,7 +4757,7 @@ Traite, p. 622 (1831); Franklin, P. Z. S. 1831, p. 125; Jerdon,
 Madr. Jburn. xii. p. 223 (1840); Gray, List B. Brit Mm. p. 179 
 (1844); *Reichen\ Natat. tab. xx. fig. 281 (1848); Butges 
 
-* Beichenbach, Schlegel, and others spell the specific name melanogmtra;
+* Reichenb.ch, Schlegel, and others spell the specific name melanogmtra;
 but aa this appears to have been done on no fixed principle, I have placed 
 all the references under melanogaster, as being both correct and convenient. 
 44 LARIDiE. 
@@ -9163,7 +9163,7 @@ Sylochelidon poliocerca, Gray, List B. Brit. Mus., Anseres, p. 175
 (1844: Australia). 
 Thalasseus 
 poliocercus, Boie, Isis, 1844, p. 182; Gould, B. Austr. 
-yii. pi. 24 (1848); Beichenb. Vog. Neuholl. p. 346 (1850); Bennett, 
+yii. pi. 24 (1848); Reichenb. Vog. Neuholl. p. 346 (1850); Bennett, 
 Gath. of a Naturalist,^. 241 (1860); Gould, Handb. B. Austr. 
 
 i. p. 396 (1865); Marie, Act. Soc. Linn. Bord. xx\ii. p. 328 (1870). 
@@ -9172,7 +9172,7 @@ p. 98 (1854).
 Sylochelidon yelox, Biipp. Syst. Uebers. p. 139 (1845: Red Sea) ; 
 A. E. Brehm, Beis. Eabesch, pp. 229, 419 (1803). 
 Thalasseus pelecanoides, Gould, B. Austr. vii. pi. 23 (1848); Gray, 
-Gen. Birds, iii. p. 658(1846); Beichenb. Vog. Neuholl. p. 340 
+Gen. Birds, iii. p. 658(1846); Reichenb. Vog. Neuholl. p. 340 
 (1850); J. Macgill. Voy. 'Rattlesnake] ii. p. 358 (1853); Bosenb. 
 Nat. Tijdschr. Ned. lnd. xxv. p. 258 (1863) ; Marie, Act. Soc. 
 Linn. Bord. xxvii. p. 328 (1870: N. Caledonia); Swinhoe, P. Z. 8. 
@@ -10168,7 +10168,7 @@ Melanosterna anasthetus, Blyth, J.A.S. B. xv. p. 373 (1846: type
 
 of genus). 
 Sterna fuliginosa (partim), Gray, Gen. B. iii, p. 659 (1846). 
-Onychoprion panaya, Gould, B. Austr. vii. pi. 33 (1848) ; Beichenb. 
+Onychoprion panaya, Gould, B. Austr. vii. pi. 33 (1848) ; Reichenb. 
 
 Tdg.Neuholl. p. 348 (1850); Macgill Narr. Toy. l Battlesnake? ii. 
 
@@ -10618,7 +10618,7 @@ Syn. B. Austr.yt 2, pi. fig. 1 (1837) ; B'Orbiqn. in Sagra's BList.
 Nat Cuba, p. 215 (1839); Temm. $ Schley.'F. Japon. p. 133, 
 pi. 89 (1842); Audub. B. N, Amer. 8vo ed. vii. p. 90, pi. 432 
 (1844); Gray, List Anseres Brit Mus. p. 177 (1844); id. Gen. B. 
-iii. p. 659 (1846: partim); Beichenb. Natat. tab. xxii. fig. 828 
+iii. p. 659 (1846: partim); Reichenb. Natat. tab. xxii. fig. 828 
 (1848); J. F. Naum. Naumannia, 1851, Bd. ii. p. 15 (Anhalt); 
 Yarr. Brit B., 2nd Suppl. p. 50 (1856); Marti. Orn. W.-Afr. 
 p. 254 (1857); Cassin, Orn. U.S. Fxplor. Exped. p. 386 (1858) ; 
@@ -10773,7 +10773,7 @@ Austr. B. p. 23(1888); Vorderm. Nat. Tijdschr. Nederl 1ml
 xlix. p. 420 (1889: Sumatra); Ether idge,'Zool. Id. Horn's I. 
 p. 17 (1889); Wiglesw. Abh. zool. Mus. Dresd. 1890-91, p. 75, 
 no. 372 (1892). 
-Sterna gouldi, Beichenb. Natat. tab. xxii. fig. 829 (1848); id. op. cit. 
+Sterna gouldi, Reichenb. Natat. tab. xxii. fig. 829 (1848); id. op. cit. 
 Novit. ix. t. cclxxii. iigs. 2267-8 (1850). 
 Sterna (Onychoprion) serrata, Gray, Cat. B. Troth I Pacific, p. 59 
 (1859). 
@@ -11151,7 +11151,7 @@ f. Ad. sk. Robben I., Cape G. Hope Salvin-Godman Coll,
 25. Sterna nereis. 
 Stemula nereis, Gould, P. Z. S. 1842, p. 140; id. B. Austr. vii. 
 pi. 29 (1848 : Bass Straits and West Australia); id. Handb. B* 
-Austr. ii. p. 402 (1865); Beichenb. Vog. Neuholl p. 347 (1850); 
+Austr. ii. p. 402 (1865); Reichenb. Vog. Neuholl p. 347 (1850); 
 Layard, Ibis, 1878, p. 265 (New Caledonia; breeding) ; E. P, 
 Ramsay, Tab. List Austr. B. p. 28 (1888); North, Nests § Eggs 
 Austral B. pp. 358, 404 (1889). 
@@ -11159,7 +11159,7 @@ Austral B. pp. 358, 404 (1889).
 Sterna parva, Ellman, Zoologist, 1861, p. 7473. 
 Sterna media, J. B. Forst. JDescr. Anim. p. 20 (1844: Southern 
 Ocean, outside the tropic). 
-Sterna nereis, Gray, Gen. B. iii. p. 659 (1846); Beichenb. Natat. 
+Sterna nereis, Gray, Gen. B. iii. p. 659 (1846); Reichenb. Natat. 
 tab. xxL tigs. 801-2 (1848) ; Pelz. Verh. zool-bot. Gesell. Wien, 
 
 xxii. p. 318 (1867); FinscJi, J.f. 0. 1870, p. 366, 1872, p. 253, 
@@ -11526,7 +11526,7 @@ Stemula minuta, Bole, Isis, 1822, p, 563 (type of genus); Kemp,
 Naturl. 8i/st. pp. 95 & 196 (1829); Gray, List Gen. p. 79 (1840), 
 and p. 100 (1841); Boie, Isis, 1844, p. 183; Biipp. Syst. Uebers. 
 
-p. 140 (1845: Lower Egypt); Beichenb. Syst. Nat. tab. iv. 
+p. 140 (1845: Lower Egypt); Reichenb. Syst. Nat. tab. iv. 
 (1850), and Av. Syst. Nat, p. v (1852); Licht. Nomencl. Av. p. 98 
 (1854) : Brehm, Naum. 1855, p. 295; Locke, Expl 8c. Alger., 
 Ois. ii. p. 204 (1867); Fritsch, Vog. Eur. p. 460, Taf. 54. fig. 5 
@@ -11557,7 +11557,7 @@ Sternula danubialis, Brehm, Naum, 1855, p. 295; id. Vogelf. p. 349
 Sternula meridionalis, Brehm, Naum. 1855, p. 295; id. Vogelf. 
 
 p. 349 (1855). 
-Sterna gouldi, Hume, Str. F. v. p. 326 (1877: India; nee Beichenb., 
+Sterna gouldi, Hume, Str. F. v. p. 326 (1877: India; nee Reichenb., 
 which is S.fuliyinosa); K Ball, Str. F. vii. p. 233 (1888); /. B. 
 Cripps, t. c. p. 314 (E. Bengal); Hume, op. cit. viii. p. 116 (1879: 
 List); id. op. cit. ix. p. 131 (1880); id. op. tit. xi. p. 350 (1888: 
@@ -13653,7 +13653,7 @@ MICEANOUS. w
 Type. 
 Micranous, Saunders, Bull Brit. Orn. Club, 
 no. xxiii. p. xix (Jan. 1895) M. tenuirostris (Ternm.). 
-Bange. Tropical and Sub-tropical seas. 
+Range. Tropical and Sub-tropical seas. 
 
 Key to the Species* 
 
@@ -14732,7 +14732,7 @@ Boie, Isis, 1844, p. 191 (Red Sea); Gray, Gen. B. iii. p. 656
 Rhynchops 
 orientalis, Cretzschm. in Riipp. Atlas, p. 37, tab. 24 
 (1826) ; Fraser, B. Z. S. 1843, p. 52 (Nun River); Gray, List B. 
-Brit Mus., Anseres, p. 174 (1844: Niger); Beichenb. Natat. 
+Brit Mus., Anseres, p. 174 (1844: Niger); Reichenb. Natat. 
 tab. xviii. fig. 402 (1848) ; Allen $ Thomps. Exp. Niger, i. p. 167 
 (1848) ; Hartl Orn. W.-Afr. p. 257 (1857: Senegambia); Cassin, 
 Br. Bhilad. Acad. 1859, p. 176 (Gamma R.? W. Africa); Antin. 
@@ -15513,7 +15513,7 @@ Melanolarus, Heine § Reich. Nomencl. Mus. Hein.
 5. 359 (1890) .. L. franklini. 
 Epitelolarus, Heine fy Reich. Nomencl. Mus. Hein. 
 p. 359 (1890) L. heernianni. 
-Bange. Cosmopolitan, with the exception of Polynesia and the 
+Range. Cosmopolitan, with the exception of Polynesia and the 
 Centra] Pacific. 
 
 Key to the Species. 
@@ -15954,7 +15954,7 @@ p. 561 (Dalmatia); Hartert, MT. orn. Ver. Wien, 1887, n. 80
 p. 138 (1889); Keller, Orn. Carinthice, p. 303 (1890); 
 Brusina, Orn. Croatica, p. 92 (1889); Fatio §• Studer, Cat. Ois. 
 Suisse, pp. 62-63 (1892). 
-Chroicocephalus niinutus, Eyton, Cat. Brit. B, p. 54 (1836); Beichenb. 
+Chroicocephalus niinutus, Eyton, Cat. Brit. B, p. 54 (1836); Reichenb. 
 Av. Syst Nat, Longip. p. v (1852); Bruch, J. f. O. 1853, p. 105 
 Licht. Nomencl. Av. p. 98 (1854); Brehm, Naum. 1855, p. 295 
 id. Vogelf. p. 343 (1855) ;* Salvad. Ucc. Sard. p. 124 (1864) 
@@ -19508,7 +19508,7 @@ Lams fuliginosus (part.), Gray, List B. Brit. Mus., Anseres, p. 170
 
 Larus bridges!, Fraser, R Z. S. 1845, p. 16; id. Zool. Typ. pi. OS 
 
-(1849: Chile); Beichenb. Natat. Novit. xviii. tab. 281. fig. 2317 
+(1849: Chile); Reichenb. Natat. Novit. xviii. tab. 281. fig. 2317 
 
 (1852)• Cassin, U.S. Astronom. Exped. ii. p. 205 (1855 : Chile). 
 
@@ -25466,7 +25466,7 @@ Pagopliila eburnea, Kaup, Natihrl Syst. pp. 68, 69, & p. 196 (1829 :
 type of genuh); Gray, List Gen. B. ed. 1841, p. 99 & App. p. 15 
 (1842) ; id. List B. Brit 3Ius.,Ameves, p. 174 (1844); id. Gen. B. 
 
-iii. p. 654, pi. 180. fig. 1 (1846); Beichenb. Syst. Nat tab. v. 
+iii. p. 654, pi. 180. fig. 1 (1846); Reichenb. Syst. Nat tab. v. 
 (1850); id. Av. Syst Nat, Longip. p. v (1852) ; Licht NomencL 
 Av. p. 99 (1854); Bruch, J. f. 0. 1853, p. 106; Bp. Naum. 
 1854, p. 212 ; Brehn, Naum. 1855, p. 295; Bp. C. B. xlii. p. 771 
@@ -26386,7 +26386,7 @@ Catarracta *, Bp. Naum. 1854, p. 210 M. antarctica.
 Megalestris, Bp. Cat PamidaH, p. 11 (1856) ... . M. catarrhactes. 
 Buphagus, Cones, Pr. Philad. Acad. 1863, p. 125, ex 
 Moehring (1752) M. catarrhactes. 
-Bange. North and South Atlantic, southern portion of the 
+Range. North and South Atlantic, southern portion of the 
 Indian Ocean, Antarctic regions, and seas round New Zealand. 
 
 Key to the Species. 
@@ -28064,7 +28064,7 @@ Cataractes longecaudatus [sic], MacgilL Man. Brit, Orn. pt. ii.
 
 p. 258 (1842). 
 Buffon's Skua, Yarrell, Brit B. iii. p. 494 (1843). 
-Lestris longicaudata, Beichenb. Syst. Nat. tab. v. (1830); id. Nat. 
+Lestris longicaudata, Reichenb. Syst. Nat. tab. v. (1830); id. Nat. 
 Syst. Fog., Longip. p. v. (1852); Thornps. Nat. Hist IreL iii. p. **)99 
 (1851); Heugl. Ibis, 1872, p. m (Novaya Zemlva); JRwwrA, Ferh. 
 z.-b. Wien, p. 879, pi. 277 (N.W. Siberia); BootA, Rvugh Ndm, 
@@ -28810,7 +28810,7 @@ lype.
 Oceanodroma, Reich. Av. Syst. Nat. p. iv (1852) • 
 Coues, Proc. Ac. Phil. 1864, p. 74 O. furcata. 
 Cynioehorea, Corns, Pr. Ac. Phil. 1864, p. 75 O. leucorrhoa. 
-Bange. Seas chiefly of the Northern Hemisphere, but southwards 
+Range. Seas chiefly of the Northern Hemisphere, but southwards 
 to the coast of Peru and the island of St. Helena. 
 
 Key to the Sj)eoies. 
