@@ -58,3 +58,13 @@ s/Orn. Chib/Orn. Club/g
 /Syst/ s/Mtiller/Muller/g
 /Syst/ s/M tiller/Muller/g
 /Syst/ s/Mijller/Muller/g
+s/CouES/Coues/
+s/\]\Iyiarchus/Myiarchus/
+s/IMyiarchus/Myiarchus/g
+s/]Myiarchus/Myiarchus/g
+s/Musdvora/Muscivora/g
+s/M[iarchu(s]/Myiarchus/g
+s/Gmelm/Gmelin/g
+s/yan Rossem/van Rossem/g
+s/Ann. Lye. Nat./Ann. Lyc. Nat./g
+
