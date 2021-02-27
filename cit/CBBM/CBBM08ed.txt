@@ -3542,7 +3542,7 @@ p. 4219 Heugl. J.f.O. 3874, p. 396; Malm, Fauna, p. 182 j David
 Parus (Poecile) ohtectus, Cab, J.f O.1871, p. 237. 
 Parus grisescens, Sharpe $ Dress. B. Eur. iii. sub P. cinetus (1871). 
 Poecile obtecta, Cab. J.f 0.1872, p. 443. 
-Pcecile affinis, Prjev. in Dawson Bowley's Ornith. Misc. pt. vi. p. 188, 
+Poecile affinis, Prjev. in Dawson Bowley's Ornith. Misc. pt. vi. p. 188, 
 
 sp. 85 (1877) ;' David $ Oust Ois. Chine, p. 289. 
 Parus cinetus, subsp. grisescens, Seebohm, Ibis, 1879, p. 2. 
@@ -10786,7 +10786,7 @@ p. 420; Earth Orn. W.-Afr. p. Ill (teste Finsch $ Eartl).
 Drvoscopus affinis (non Gray), Ilartl. Orn. W.-Afr. p. Ill ; Cass. 
 Froc. Fhilad. Acad. 1859, p. 53 ; Ilartl. J. f. 0. 1861, p. 173. 
 Dryoscopus bojeri, v. Feb., Ilartl. Faun. Madag. p. 50. 
-Dryo&copus verreauxii, Cab. in v. d. Deckers lieis. iii. p. 26. 
+Dryoscopus verreauxii, Cab. in v. d. Deckers lieis. iii. p. 26. 
 Laniarius boyeri, Gray} Hand-l. B. i. p. 397, no. 6032. 
 
 Eastern Race.—Adult male (type of B. affinis). Above glossy blue-
@@ -10925,7 +10925,7 @@ Hartl. Vog. Ostafr. p. 350.
 
 Generally similar to D. affinis, but is larger, being about the size 
 
-LANIIDJE. 
+LANIIDAE. 
 
 of D. gambensis, and has the under wing-coverts black; entire upper 
 surface, except the rump, deep black; underparts and rump white; 
@@ -24097,7 +24097,7 @@ e,f. 6 $ ad. sk. North Australia (h) F. I). Godman and O. Sal
 
 via, Esqrs. [P.] 
 
-2. Climacteris rnelaiionota. 
+2. Climacteris melanonota. 
 Climacteris melanota, Gould, P. Z. 8. 1840, p. 100,1667, p. 970; 
 Bp. C. A. i. p. 225. 
 Climacteris melanonota, Gray, Gen. B. i. p. 145; Gould, B. Austr. 
@@ -24351,7 +24351,7 @@ id. Handb. B. Austr. i. p. C02 (1805) ; id, B. Amtr. pi. 95 ; Bp.
 C. A. i. p. 225; Reichenb. Handh. spec. Or a.. Scans, no. 030, pi. 005 
 (1851) ,• E. P. Ramsay, Proc. Linn. Soc. X S. W. 1878, p. 191 ; 
 Gray, Gen. B. i. p. 145 (1847J ; id. Eand-l B. i. p. 184, no. 2520. 
-Climacteris affinis, Blyth, J, A. &\ B. 1803, p. 453. 
+Climacteris affinis, Blyth, J, A. S. B. 1863, p. 453. 
 
 Adult male. Orbital region and a broad superciliary stripe of a rich 
 rusty-red colour ; in the colour of all the upper parts of the body, 
