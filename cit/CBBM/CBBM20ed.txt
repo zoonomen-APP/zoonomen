@@ -2010,7 +2010,7 @@ Gum. p. 158 (1865); Schleg. Mw. P.-B., Psittaci, Revue, p. 59
 
 (1874); Gleb. Thes. Orn. ii. p. 500 (1875). 
 
-Do micella atra, Finsch, Papwj. ii. p. 755 (1863); id, P. Z. 8. 
+Do micella atra, Finsch, Papwj. ii. p. 755 (1863); id, P. Z. S. 
 I860, p. 157; Meyer, Sitzb. k Ah. Wissensch. Wien, kx. p. 237 
 (1874); id. Sitzb, Isit, Drescl. 1875, p. 78; Rchmo. Joum. f. Or a. 
 1881, n. 165 {Consp. Psitf. p. 101). 
@@ -2037,14 +2037,14 @@ e. Ad. sk. New Guinea. Tweeddale Coll.
 / . Ad. sk. Sorong, New Guinea. Tweeddale Coll. 
 g. Ad. sk. Salwatty. A. R. Wallace Coll. 
 2. Chalcopsittacus "bernsteiiiL 
-Chalcopbitta novae guineas (part.), G. R. Gr. P. Z. 8. Ib58, p. 194; 
-id. P. Z. 8. 1861, p. 4:16; Rosenb. Joum. f. Orn. 1862, pp. 03, 07; 
+Chalcopbitta novae guineas (part.), G. R. Gr. P. Z. S. Ib58, p. 194; 
+id. P. Z. S. 1861, p. 4:16; Rosenb. Joum. f. Orn. 1862, pp. 03, 07; 
 id. Nat. Tijdschr. Ned. Ind. xxy. p. 142 (lb63). 
 
-Chalcopsitta'atra (part.), Soled. P. Z. 8. 1KJ0, p. 227; G. R. Gr, 
+Chalcopsitta'atra (part.), Soled. P. Z. S. 1KJ0, p. 227; G. R. Gr, 
 
-P. Z. 8.1861, p. 436 ; Rosenb. Nat Tijdschr. Ned, Lid. xxv. p. 224; 
-id. Joum. f. Orn. 1864, p. 113; Wall. P. Z. 8. 1864, p. 2^1: 
+P. Z. S.1861, p. 436 ; Rosenb. Nat Tijdschr. Ned, Lid. xxv. p. 224; 
+id. Joum. f. Orn. 1864, p. 113; Wall. P. Z. S. 1864, p. 2^1: 
 G. R. Gr! Hand-list, ii. p. 153, u. 8191 (1870); Salmd. Ana. 
 Mus. Civ. Gen. vii. p. 760 (1875). 
 Chalcopsitta bernsteinii, Rose?ib. Joum. f. Or a. 1861, p. 46 (Mysol). 
@@ -2389,13 +2389,13 @@ yellow fwcata, p. 30.
 1. Eos cyanogenys. 
 Eos cyanogonia, Bp. Consp. i. p. 4 (1850); id, Compt. Mend. xxx. 
 
-p. 185 (1850); id. P. Z. 8. 1850, p. 27, pi. xiv.; id. Rev. et Mag. 
+p. 185 (1850); id. P. Z. S. 1850, p. 27, pi. xiv.; id. Rev. et Mag. 
 de Zool. 1854, p. 156, sp. 287; id. Naumannia, 1856, Consp. Psitt. 
 sp. 301; Mat. Ibis, 1859, p. 2JJL; G. P. Or. List Psitt. Brit. Mus. 
 p. 
-51 (1859); id. P. Z. 8. 1859, p. 158; Sclat. P. Z. 8. 1800, 
-p. 227; G. P. Or. P. Z. 8. 1860, p. 357; Rosenb. Journ. f. Orn. 
-1862, p. 65; id, Journ. f. Orn. 1864, p. 114, n. 13; Wall. P. Z. 8. 
+51 (1859); id. P. Z. S. 1859, p. 158; Sclat. P. Z. S. 1800, 
+p. 227; G. P. Or. P. Z. S. 1860, p. 357; Rosenb. Journ. f. Orn. 
+1862, p. 65; id, Journ. f. Orn. 1864, p. 114, n. 13; Wall. P. Z. S. 
 1864, pp. 290, 295; 8c£leg. Dierent. p. G8 (1864); Wall. Ibis, 1865, 
 p. 395 ; G. P. Gr. Hand-list, ii. p. 154, sp. 8200 (1870). 
 Lorius cyanogenia, SchUg. Mus. P.-B. Psittaci, p. 128 (1864); id. 
@@ -2410,7 +2410,7 @@ p. 147; id. Sitzb. Isis Dresd. 1875, p. 78; Pchmo. Journ. f. Orn.
 1881, p. 167 (Consp. Psitt. p. 103); id, Vogelbild. t. xxxi. f. 6 
 (1878-83). 
 Eos cyanogenys, Salvad. Ann. Mus. Civ. Gen. x. p. 33, n. 65 (1877); 
-id. P. Z. 8. 1878, p. 86; id. Orn. Pap. e Mol. i. p. 24(5 (1880); id. 
+id. P. Z. S. 1878, p. 86; id. Orn. Pap. e Mol. i. p. 24(5 (1880); id. 
 Mem. R. Ac. Sc. Tor. ser. 2, xl. p. 168 (1889); Meyer, Vogel-
 Skelett t. xlvi. (1879-89). 
 
@@ -2573,7 +2573,7 @@ p. 500 (1875); Gulliv. P. Z. S. 1875, p. 489; Bosenb. Zool. Gart.
 1878, p. 346. 
 Eos indica, Wagl. Mon. Psitt. p. 557 (1832); G. R. Gr. Gen. B. ii. 
 
-p. 417, no. 1 (1845); Bp. P. Z. 8. 1856, p. 28; id. Mev. et Mag. 
+p. 417, no. 1 (1845); Bp. P. Z. S. 1856, p. 28; id. Mev. et Mag. 
 de Zool. 1854, p. 156, no. 286 ; SouancS, Bev. et Mag. de Zool. 1856, 
 p. 226; Bp. Naumannia, 1856, Consp. Psitt. no. 297 ; G. B. Gr. 
 List Psitt. Brit Mus. p. 51 (1859); id. P. Z. S. 1860, p. 357; 
@@ -2665,13 +2665,13 @@ List Psitt. Brit Mus. p. 53 (1859); id. Cat B. Trop. Isl p. 31
 (1859) j Sclat. P. Z. S. I860, p. 228, 1869, pp. 122,124; G. R. Gr. 
 Hand-list, ii. p. 154, sp. 8205 (1870) j Bayard, Ibis, 1880, p. 307; 
 Salvad. Orn. Pap. e Mol. I p. 249 (1880), iii. p. 518 (1882) ; Ramsay, 
-Pr. Linn. Soc. N. 8. W. vii. p. 34 (1882); Grant, P. Z. 8.1887, 
+Pr. Linn. Soc. N. 8. W. vii. p. 34 (1882); Grant, P. Z. S.1887, 
 
-p. 330, 1888, p. 190; Woodford, P. Z. 8. 1888, p. 249; Salvad. 
+p. 330, 1888, p. 190; Woodford, P. Z. S. 1888, p. 249; Salvad. 
 Mem. P. Ac. 8c. Tor. ser. 2, xl. p. 168 (1889); Tristr. Cat Coll. 
 B. p. 78 (1889). 
-Eos unicolor, Wall (nee Shaio), P. Z. 8. 1864, pp. 291, 295. 
-Domicella cardinalis, Finsch, Papag. ii. p. 185 (1868); id. P. Z. 8. 
+Eos unicolor, Wall (nee Shaio), P. Z. S. 1864, pp. 291, 295. 
+Domicella cardinalis, Finsch, Papag. ii. p. 185 (1868); id. P. Z. S. 
 1869, p. 128, pi. xi.; Ramsay, Pr. Linn. Soc. N.8. W. i. p. 67 (1876); 
 Rchnw. Vogelbild. t. xxxiii. f. 4 (1878-83). 
 Trichoglossus cardinalis, Rchnw. Journ.f. Orn. 1881, p. 162 (Consp. 
@@ -2710,7 +2710,7 @@ Psittacus borneus, Linn. 8. N. i. p. 141, no. 11 (1766); Gm. 8. N. i.
 p. 318 (1788); Lath. Ind. Orn. I p. 89, no. 21 (1790); Bechst. 
 Kurze TIebers. p. 69 (1811) ,• Shaw, Gen. Zool. viii. p. 460, pi. 67 
 (1811); Kuhl, Consp. Psitt p. 40 (1820); VieiU. Enc. Mtth. p. 1382 
-(1823); Wall. P. Z. 8.1863, p. 21; Finsch, Papag. ii. p. 911 (1868); 
+(1823); Wall. P. Z. S.1863, p. 21; Finsch, Papag. ii. p. 911 (1868); 
 Salvad. Cat. TJcc. Bom. p. 27 (note) (1874). 
 Lory de la Chine, D'Aubent. PL Enl. 519. 
 Lori de Gilolo (!), Sonn. Voy. Nouv. Guin. p. 177, pi. 112 (1776). 
@@ -2941,7 +2941,7 @@ Lorius (Eos) wallacei, Finsch, Journ.f. Orn. 1864, p. 411.
 Eos wallacei, Newt. Ibis, I860, p. 340; G. R. Gr. Hand-list, ii. p. 155, 
 sp.8206 (1870) (et< Waigiou, Gueb<§, Obi I) 5 Salmd. Ann. Mus. 
 Civ. Gen. x. p. 34, n. 70 (1877) ; id. Orn. Pap. e Mol i. p. 255 
-(1880); Nehrk Joum.f. Orn. 1885, p. 31; Guillem. P. Z. 8. 1885. 
+(1880); Nehrk Joum.f. Orn. 1885, p. 31; Guillem. P. Z. S. 1885. 
 
 p. 621; Saivad. Mem. R. Ac. So. Tor. ser. 2, xl. p. 169 (1889). 
 Domicella riciniata, part., Finsch, Papay. ii. p. 803 (1868). 
@@ -3306,28 +3306,28 @@ b'. Interscapular region yellow fiavopalliatus, p. 41.
 Lorius tricolor, part.', G. R. Gh\ P.Z. 8. 1858, p. 194. 
 Lorius hypoinochrous, G.R. Gr. List Psitt. Brit. Mus. p. 49 (1859); 
 
-id. Cat. B. New Gum. p. 39 (1859); id. P. Z. 8. 1861, p. 436, id. 
+id. Cat. B. New Gum. p. 39 (1859); id. P. Z. S. 1861, p. 436, id. 
 Hand-list, ii. p. 153, sp. 8185 (1870) ; id. Cruise Curaeoa, Birds, 
 
 p. 380, pi. 14 (1873) ; Gieb. Thes. Orn. ii. p. 501 (1875). 
 Lorius hypoenochrous, 
-Wall. P. Z. 8. 1864, p. 289 ; 8clat P. Z. 8. 
+Wall. P. Z. S. 1864, p. 289 ; 8clat P. Z. S. 
 1869, pp. 122, 124; id. P.Z. 8. 1876, p. 460 (East New Guin.); 
 id. Ibis, 1876, p. 364; id. P.Z, 8. 1877, p. 108, 1878, p. 289; 
-8alvad. Ann. Mus. Civ. Gen. x. p. 32, n. 55 (1877) ; 8clat. P. Z. 8. 
+8alvad. Ann. Mus. Civ. Gen. x. p. 32, n. 55 (1877) ; 8clat. P. Z. S. 
 1879, p. 447; 8alvad. Ibis, 1879, p. 365; id. Orn. Pap. e Mol i. 
 
 p. 221 (1880); Layard, Ibis, 1880, pp. 300, 806 (Admiralty Isl.!) ; 
-Tristr. P. Z. 8. 1881, p. 996; id. Ibis, 1882, p. 143 (Solomon 
+Tristr. P. Z. S. 1881, p. 996; id. Ibis, 1882, p. 143 (Solomon 
 Islands!); Sliarpe, Journ. Linn. 8oc., Zool. xvi. p. 426 (1882) ; 
 Ramsay, Ibis, 1882, p. 473; Salvad. Orn. Pap. e Mol. iii. p. 518 
 (1882) ; Ramsay, Pr. Linn. 8oc. N. 8. W. vii. p. 43 (1882) ; 
 Sahad. Mem. R. Ac. 8c. Tor. ser. 2, xl. p. 166 (1889); Tristr. 
 Cat. Coll. B. p. 73 (1889). 
-Domicella hypoinochroa, Finsch, Papag. ii. p. 768 (1868); id. P. Z. 8. 
+Domicella hypoinochroa, Finsch, Papag. ii. p. 768 (1868); id. P. Z. S. 
 1879, p. 17. 
 
-Domicella hypoenochroa, Finsch, P. Z. 8. 1869, p. 127, 1879, p. 17 ; 
+Domicella hypoenochroa, Finsch, P. Z. S. 1869, p. 127, 1879, p. 17 ; 
 Rchmo. Journ. f. Orn. 1881, pp. 172, 396 (Consp. Psiit. pp. 108, 
 229); id. Vogelbild. t. xxxi. f. 5 (1878-83). 
 
@@ -3453,7 +3453,7 @@ Fogelbild. t. xi. f. 2 (1878-83).
 
 Lorius lori, G. M. Gr. Hand-list, ii. p. 153, sp. 8187 (1870) ; Garrod, 
 
-P. Z. 8. 1874, p. 5S7; Salv. Cat. B. Strickl. Coil. p. 455 (18b2) : 
+P. Z. S. 1874, p. 5S7; Salv. Cat. B. Strickl. Coil. p. 455 (18b2) : 
 Tristr. Cat Coll B. p. 73 (1889). 
 Domicella tricolor, Hchmv. Vogelbild. t. xi. f. 2 (1878-83) ; id. 
 Joum. f. Orn. 1881, p. 172 (Consp. Psitt. p. 10a). 
@@ -3744,7 +3744,7 @@ k. Skeleton.
 
 7. Lorius chlorocercus. 
 Lorius 
-chlorocercus, Goidd, P. Z. 8. 1850, p. 137 • G. P. Gr. List 
+chlorocercus, Goidd, P. Z. S. 1850, p. 137 • G. P. Gr. List 
 Psitt. Brit. Mus. p. 49 (1859); id. Cat. B. Prop. 1st. p. SI (1859); 
 Sclat. P. Z. S. I860, p. 228; Wall. P. Z. S. 1864, p. 289 ; Sclat. 
 
@@ -3762,7 +3762,7 @@ pp. 187, 190; Salvad. Mem. R. Ac. Sc. Tor. ser. 2, xl, p. 167
 Lorius 
 chloronotus (errore), Bp. Naumannia, 1856, Consp. Psitt. 
 sp. 293. 
-Domicella chlorocerca, Finsch, Papag. ii. p. 767 (1868); id. P. Z. 8. 
+Domicella chlorocerca, Finsch, Papag. ii. p. 767 (1868); id. P. Z. S. 
 1869, p. 127; Rehiw. Journ. f. Orn. 1881, p. 171 (Consp. Psitt. 
 
 p. 107); id. Voyelbild. t. xxxi. f. 8 (1878-83). 
@@ -3923,9 +3923,9 @@ g. JUT. sk. Bought alive at Ternate. 1 Challenger' Erped.
 k. Ad. st. Moluccas. Purchased. 
 ijkjl. Skeletons. 
 10. Lorius flavo-palliatus. 
-Lorins gamilas, Sclut P. Z. 8. 1860, p. 226 (nee p. 227) (ex Batjan); 
+Lorins gamilas, Sclut P. Z. S. 1860, p. 226 (nee p. 227) (ex Batjan); 
 Rosenh. Journ. f. Orn. I860, p. 62 (partim); id. iW. Tijdsrir. 
-Ned. Lid. xxiii. p. 141 (nee p. 142) (1862); Wall. P. Z. 8. 1864, 
+Ned. Lid. xxiii. p. 141 (nee p. 142) (1862); Wall. P. Z. S. 1864, 
 
 p. 280, n. 05 (partim) ; Sckleg. Mus. P.-B. Psittaci, p. 121 (partim) 
 (ex Batjan, Morotai, et Raou); Fimch, Neu-Guin. p. 157 (partim) 
@@ -3933,13 +3933,13 @@ p. 280, n. 05 (partim) ; Sckleg. Mus. P.-B. Psittaci, p. 121 (partim)
 sp. 8189 (partim) (1870); Schleg. Mas. P.-B. Psittaci, Revue, 
 p. 55 (partim) (1874) (ex Batjan, Morotai, Obi); Gieh. The*. Orn. 
 ii. p. 501 (partim) (1*75). 
-Lnrius sairulus, G. II. Gr. P. Z. 8. I860, p. 856 (partim, ex Batjan). 
+Lnrius sairulus, G. II. Gr. P. Z. S. I860, p. 856 (partim, ex Batjan). 
 Domicell.i jrarrula, part., Finsck, Papag. ii. p. 776 (1868) (ex Batjan, 
 Morotai, Itacu). 
 
 Loriti.H ila\opal!iatUH, 8alrad. Ann. Mus. Civ. Gen. x. p. 33, n. 64 
 (1.^77); id. Dm. Pap. e MoL i. p. 243 (18&0); Sciat List Vert. 
-An. Hh e&. p. 31** (1H63); Gintlrm. P. Z. 8. 1885, p. 564; SJiarpe, 
+An. Hh e&. p. 31** (1H63); Gintlrm. P. Z. S. 1885, p. 564; SJiarpe, 
 Gould's B. Xew Gain. pt. xxiv. pi. 5 (1888); Sahad. Mem. Ii. 
 Ae. 8c. Tor. sw. 2, xl.p. B>8 (1889). 
 
@@ -4806,17 +4806,17 @@ Sharpe, Journ. Linn. Soc. Zool. xiii pp. 80, 309 (1877), p. 491,
 sp. 13 (1878), xiv. p. 586 (1879) ; Layard, Ibis, 1878, pp. 253, 
 
 274. 280; Ramsay, Proe. Linn. Soc. K 8. W. iii. p. 255 (1878), iv. 
-p. 96 (1879); Tristr. Ibis, 1879, pp. 18o, 191, 442 ; Sclat. P. Z. 8. 
+p. 96 (1879); Tristr. Ibis, 1879, pp. 18o, 191, 442 ; Sclat. P. Z. S. 
 1879, p. 447; Salvad. Orn. Pap. e Mol i. p. 288 (1880) ; 
 Imjard, Ibis, 1880, pp. 230 (Lifu), 300, 307; Rchnw. Voqelbild, 
 t. viii. f. 2 (1878-83); id. Journ. f. Orn. 1881, p. 157 (Oonsp. 
 Psitt. p. 93); Finsch, Ibis, 1881, p. 538; Ramsay, Pr. Linn, 
 Soc. N. S. W. vii. p. 34 (1882) (Solomon Islands) ; Tristr. Ibis, 
-1882, p. 143; Layard, P. Z. 8. 1882, p. 408 (Lifu); Sharpe, 
+1882, p. 143; Layard, P. Z. S. 1882, p. 408 (Lifu); Sharpe, 
 Journ. Linn, Soc, Zool. xvi. p. 426 (1882) ; Finsch, Tog. d. 
 Siidsee, p. 18 (New Britain, Laloki) (1884) ;' Finsch u. Meyer, 
 Zeitschr. f. yes. Orn. 1886, p. 9 (Horseshoe Mountains) ; Schal. 
-Journ. f. Orn. 1887, p. 246 (New Caledonia); Grant, P. Z. 8. 
+Journ. f. Orn. 1887, p. 246 (New Caledonia); Grant, P. Z. S. 
 1887, p. 330, 1888, pp. 187, 191; Pelz. u. Lor. Ann. d. naturh. 
 Hofmus. 1888, p. 39 (typical specimen of T. deplanchei); Tristr. 
 Cat. Coll. B. p. 74 (1889); Salvad. Mem. R. Ac. Sc. Tor. sex. 2, 
@@ -4924,7 +4924,7 @@ a-e. S; f. 9 ad. sk. Admiralty Islands. (Challenger 'Expedition.
 g. 2 ad. sk. [New Ireland.*] Dr. O. Einsch [C.]. 
 6. Trichoglossns nigrogtilaris. 
 Triclioglossus 
-nigrogularis, G. R. Gr. P. Z. 8. 1858, pp. 183, 195 
+nigrogularis, G. R. Gr. P. Z. S. 1858, pp. 183, 195 
 id. Cat. B. New Guin. pp. 41, 60 (1859); id. List Psitt. Brit. 
 Mus. p. 61 (1859); Sclat. P. Z. S. 1860, p. 227; G. R. Gr. 
 
@@ -4944,9 +4944,9 @@ Gen. xiv. p. 40 (1879) (Fly River); Sahad. Orn. Pap. e Mol I
 p. 292 (1880); id. Toy. CJicdL, Birds, p. 75, pi xx. (1881); RcJimc. 
 Journ. f. Orn. 1881, pp. 159, 3915 (Cmsp. Psitt. pp. 95, 228); 
 id. Vogelbihl Nachtr. 30 (1883); Meyer, Zeitschr. f. yes. Orn. 
-i. p. 274 (1884); Gvillem. P. Z. 8. 1885, p. 623; Sahad. Mem. 
+i. p. 274 (1884); Gvillem. P. Z. S. 1885, p. 623; Sahad. Mem. 
 R. Ac. 8c. Tor. ser. 2, xl. p. 172 (1889). 
-Triclioglossus cyanogranrmus, pait., Wall. P. Z. 8. 1861, p. 291; 
+Triclioglossus cyanogranrmus, pait., Wall. P. Z. S. 1861, p. 291; 
 FinscJi, Papay. ii. p. 830 (partim) (1868). 
 Trichoglossus haematotus, pait., Schleq. Ned. Ttjdschr. Dierk. iii. 
 
@@ -4973,12 +4973,12 @@ Islands, and which most likely is a hybrid between T. nigrogularis and Chalcopsi
 scintillatus. 
 TRICHOGLOSSUS COCCINTIFKONS, G. B. Gr. 
 
-Trichoglossus coccineifrons, 67. R. Gr. P. Z. 8. 1838, pp. 183, 194; 
+Trichoglossus coccineifrons, 67. R. Gr. P. Z. S. 1838, pp. 183, 194; 
 id. Cat.B. New Guin. pp. 41, 60 {1859); id. Libt Psitt. Brit. Mm. 
 
-p. 62 (1859); Mat. P. Z. 8. I860, p. 227; 67. R. Gr. P. Z. 8. 1861, 
+p. 62 (1859); Mat. P. Z. S. I860, p. 227; 67. R. Gr. P. Z. S. 1861, 
 p. 436; Ro&enb. Joum. f. Orn. 1862, pp. 6o, 67, 1864, p. 112, 
-n. 7; Wall. P. Z. 8. 1SG4, pp. 291, 295; Finsch, Ncu-Guin. p. 158 
+n. 7; Wall. P. Z. S. 1SG4, pp. 291, 295; Finsch, Ncu-Guin. p. 158 
 (1865); Rosenb. Reis oiaar de Zvidoodtreil. p. 48 (1867); 8(hleg. Ned. 
 Tijdschr. PierJc. iii. p. 336 (1806;; JF>;^, Papay. ii. p. 845 (*1868) ; 
 67. R. Gr. Hand-lht, ii. p. 150, sp. 8222 (1870); SiJikg. Ned. Tidj&chr. 
@@ -5018,7 +5018,7 @@ Trichoglossus mitckellii, G. P. Gr. ListPsitt. Brit. Mus. p. 62 (1859);
 Fimch, Papag. ii. p. 838 (1868); Sclat. P. Z. S. 1871, p. 490, 
 pi. xli.; G. P. Gr. ibid.; Sclat. op. cit. p. 544; Salv. Ibis, 1871, 
 
-p. 372 ; Sclat P. Z. 8. 1880, p. 420: id. List Vert, An. 8th ed. 
+p. 372 ; Sclat P. Z. S. 1880, p. 420: id. List Vert, An. 8th ed. 
 p. 320 (1883). 
 Psittacus (Trichoglossus) f orsteni, Bosenb. Journ. f. Orn. 1862, p. 66; 
 id. Naturk. Tifdschr. Ned. hid. xxv. p. 146 (1863). 
@@ -5111,8 +5111,8 @@ n. 3 (1846); Bp. Mev. et Mag. de Zool. 1854, p. 157, n. 300;
 Souance, Bev. et Mag. de Zool. 1856, p. 226; Bp. Naumannia, 
 1856, Consp. Psitt. p. 314; G. B. Gr. List Psitt. Bint. Mus. p. 60 
 (1859); Schleg. Mus. P.-B. Psittaci,p. 108 (1864); Gould, Handb. 
-B. Ausir. ii. p. 93 (1865); Ramsay, P. Z. 8.1864, p. 293; Schleg. 
-Mus. P.-B. Psittaci, Berne, p. 47 (1874); Ramsay, P. Z. 8. 1875, 
+B. Ausir. ii. p. 93 (1865); Ramsay, P. Z. S.1864, p. 293; Schleg. 
+Mus. P.-B. Psittaci, Berne, p. 47 (1874); Ramsay, P. Z. S. 1875, 
 p. 602. 
 Tricboglossus swainsoni, 
 Jard. fy Selb. III. Orn. iii. pi. 112 (1825-39); 
@@ -5121,7 +5121,7 @@ Jard. fy Selb. III. Orn. iii. pi. 112 (1825-39);
 vi. p. 153, pi. 20 (1836); Sw. Class. B. ii. p. 304 (1837); Gould, 
 B. Austr. v. pi. 48 (pt. ix., 1842) ; Rchnb. Yog. Neuholl. n. 170 
 (1850); Sclat. P. Z. S. 1860, p. 372 ; Ramsay, Ibis, 1865, p. 305 ; 
-Diggl. Syn. Austr. B. ii. pi. %o. f. 2 (1877); Forbes, P. Z. 8. 1878, 
+Diggl. Syn. Austr. B. ii. pi. %o. f. 2 (1877); Forbes, P. Z. S. 1878, 
 p. 126, 1879, p. 170 (note); Moseley, Not. Chall. p. 352 (1879); 
 Forbes, Voy. Chalk, Birds, p. 90 (1881). 
 Tricboglossus 
@@ -5340,7 +5340,7 @@ Eos ornata, Wagl. Mon. Psitt. p. 562 (1832); G. B. Gr. Gen. B. ii.
 LOEITDJE. 
 
 p. 417, n. 8 (1845); Blyth, Cat. B. As. Soc. Beng. p. 11, n. 52 
-(1849) ; id. Journ. As. Soc. Beng. xix. p. 237 (1850); Bp. P. Z. 8. 
+(1849) ; id. Journ. As. Soc. Beng. xix. p. 237 (1850); Bp. P. Z. S. 
 1850, p. 27. 
 Psittacus (Trichoglossus) ornatus, Midi. $ Schleg. Verh. Zand-en 
 
@@ -5358,7 +5358,7 @@ Hartl. Erst. Nachtr. Tens. p. 15 (1846) ; Bp. Rev. et Mag. de Zool.
 Horsf. $ Moore, Cat. B. Mus. F. I. Co. ii. p. 631 (1858) ; Blyth, 
 Journ. A. 8. B. xxvii. p. 280 (note) (1858); Wall. Ibis, 1859, 
 pp. 112, 113; G. R. Gr. List Psitt. Brit. Mus. p. 62 (1859) ; 
-Sclat. P. Z. 8. 1861, pp. 226, 417 ; G. R. Gr. ibid. p. 357 ; Wall. 
+Sclat. P. Z. S. 1861, pp. 226, 417 ; G. R. Gr. ibid. p. 357 ; Wall. 
 
 P.Z.8. 1864, pp. 291,295; Schleg. Mus. P.-B. Psittaci, p. 112 
 (1864) ; Finsch, Neu-Guin. p. 158 (1865) ; id. Papag. ii. p. 842 
@@ -5430,7 +5430,7 @@ b. Underside of the quills with a coloured band.
 d. Band on the underside of the quills yellow . euteles, p. 64. 
 V. Band on the underside of the quills red ... . chlorolepidotus, p. Q^. 
 1. Psitteuteles flavoviridis. 
-Trichoglossus flavoviridis, Wall. P. Z. 8. 1862, p. 337, pi. xxxix., 
+Trichoglossus flavoviridis, Wall. P. Z. S. 1862, p. 337, pi. xxxix., 
 1864, pp. 292, 295 (partiin) ; Finsch, Neu-Guin. p. 158 (1865); 
 & Papag. ii. p. 849 (1868); G. P. Gr. Hand-list, ii. p. 155, 
 n%218 (1870); Wald. Ann. $ Mag. N. H. (4) viii. p. 281 (1871); 
@@ -5459,7 +5459,7 @@ Ad. sk.
 d. <$ ad. sk. Sula Isl. (A. P. Wallace). Gould Coll. 
 e. Ad. sk. Sula Isl. (A. P. Wallace). Tweeddale Coll. 
 2. Psitteuteles meyeri. 
-Trichoglossus flavoviridis, part, Wall. P. Z. 8. 1862, p. 337, 1864, 
+Trichoglossus flavoviridis, part, Wall. P. Z. S. 1862, p. 337, 1864, 
 pp. 292, 295 (Menado). 
 
 Trichoglossus 
@@ -5477,7 +5477,7 @@ p. 275 (1878); Meyer, Ibis, 1879, p. 54 ; Tweedd. Orn. Works,
 pp. 113, 136 (1881) ; Wardl Ramsay, Tweedd. Orn. Works, p. 670 
 (1881): Rchnw. Voc/elbild. t. xv. £ 3 (1878-83); id. Joum. f. Orn, 
 1881, p. 156 (Consj). Psitt. p. 92): Bias. Joum. f. Orn. 1883, 
-pp. 125, 134; Guillem. P. Z. 8. 1885, p. 544; Meyer, Togel-
+pp. 125, 134; Guillem. P. Z. S. 1885, p. 544; Meyer, Togel-
 Skelett. t. xxiv. (1879-8S). 
 Adult. Green ; pileum olive-brown, tinged with golden, especially 
 on the forehead ; cheeks, lores, and throat brown-green, each feather 
@@ -5691,7 +5691,7 @@ Gould in Voy. Beag. i. App. p. 481 (1846); Leich. Joum. Overl.
 Exp. to Port Essington, p. 441 (1847) ; Bchnb. Vog. Neuhott. n. 173 
 (1850); Jacq. et Pucher. Voy. Pole Sud, Zool. iii. p. 102 (1853) j 
 10 . GLOSSOPSITTACUS. 
-Wartl. Journ. f. Orn. 1854, p. 165; Ekey, P. Z. 8. 1857, p. 27; 
+Wartl. Journ. f. Orn. 1854, p. 165; Ekey, P. Z. S. 1857, p. 27; 
 Zuchold, Joum. f. Orn. 1858, p. 39; Finsch, Papag. ii. p. 853 
 (1868); Gieb. fhes. Orn. iii. p. 660 (1877); Pchnw. Journ. f. Orn. 
 1881, p. 155 (Consp. Psiti. p. 91); Salvin, Cat. B. Strickl Coll 
@@ -6201,8 +6201,8 @@ Psittacus (Trichoglossus) placentis, 8. Mull. Verh. Land-en Volkenk.
 p. 472 (1839-1844). 
 Coriphilus 
 placentis, G. B. Gr. Gen. B. ii. p. 417, no. 7 (1845); 
-id. P. Z. 8. 1858, pp. 182, 194; id. Cat. B. New Guin. pp. 41, 59 
-(1859) 5 id. List Psitt. Brit. Mus. p. 59 (1859); id. P. Z. 8. 1800, 
+id. P. Z. S. 1858, pp. 182, 194; id. Cat. B. New Guin. pp. 41, 59 
+(1859) 5 id. List Psitt. Brit. Mus. p. 59 (1859); id. P. Z. S. 1800, 
 
 p. 357,1801, p. 436 ; Bosenb. Beis naar de ZuidoosttreiL^. 48, 80, 
 87,100 (1867). 
@@ -6221,7 +6221,7 @@ Orn. 1881, p. 150 {Consp. Psitt. p. 80); id. Vor/elbild. t. xxix. f. 4
 
 Trichoglossus placentis, Bosenb. Journ. / Orn. 1802, pp. 61, 62, 65, 
 67 ; id. Nat. Tijdschr. Ned. Ind. xxv. pp. 140, 141,142,145 (1868). 
-Charmosyna placentis, Wall. P. Z. 8. 186-t, p. 292 (cum var. a et b), 
+Charmosyna placentis, Wall. P. Z. S. 186-t, p. 292 (cum var. a et b), 
 
 p. 295. 
 Coriphilus placens, 8chleg. Bierent. p. 78, with rig. (1864); Finseh, 
@@ -6229,7 +6229,7 @@ Neu-Gnin. p. 158 (1865); Salvad. Ann. Mus. Civ. Gen. x. p. 30,
 sp. 85 (1877); D1 Alb. e Salvad. Ann. Mus. Civ. Gen. xiv. p. 42 
 (1879); Salvad. Orn. Pap. e Mol. i. p. 303 (1880); Bias. P. Z. S. 
 1882, p. 702; Pleske, Bull. Acad. Petenb. xxix. p. 524 (1884); 
-NehrJc. Journ./ Orn. 1885, p. 31; Guillem. P. Z. 8. 1885, pp.565, 
+NehrJc. Journ./ Orn. 1885, p. 31; Guillem. P. Z. S. 1885, pp.565, 
 623; Salvad. Mem. B. Ac. Sc. Tor. ser. 2, xl. p. 174 (1889). 
 
 Nanodes placens, 
@@ -6283,10 +6283,10 @@ r. $ ad. sk. Amboina (Hoedi). Salvin-Godman Coll.
 
 3. Hypocharmosyna subplacens. 
 Trichoglossus subplacens, 
-Sclat. P. Z. 8. 1876, p. 519, 1871, p. 108, 
+Sclat. P. Z. S. 1876, p. 519, 1871, p. 108, 
 1878, p. 671; Ramsay, Pr. Linn. Soo. N.S. W. iii. p. 255 (1878), 
 
-iv. p. 96 (1870); Finsch, P. Z. 8. 1879, p. 12; Finsch, Ibis, 1881, 
+iv. p. 96 (1870); Finsch, P. Z. S. 1879, p. 12; Finsch, Ibis, 1881, 
 p. 538; Pchnw. Journ.f. Orn. 1881, p. 150 (Consp. Psitt. p. 86) ; 
 id. Vogelbild. in the text of pi. xxix. (1883); Sharpe, Journ. Linn. 
 Soo., Zoology, xvi. p. 427 (1882); Finsch, Vo'g. der SMsee, p. 18 
@@ -6416,7 +6416,7 @@ Hab. Mysori Islands in Geelvink Bay.
 
 a. $ ad. sk. Kordo, Mysori ? Purchased. 
 6. Hypocharmosyna rubrigularis. 
-Trichoglossus rubrigularis, Sclat. P. Z. 8.1881, p. 451 (New Britain); 
+Trichoglossus rubrigularis, Sclat. P. Z. S.1881, p. 451 (New Britain); 
 Rchnw. Joum. f Orn. 1881, p. 395 (Consp. Psitt. p. 228); Sclat. 
 Ibis, 1882, p. 347; Rchnw. u. Schal. Joum. f. Orn. 1882, p. 118 ; 
 Rchnw. ibid. p. 239; id. Vogelbild. Nachtr. 31 (1883). 
@@ -6561,7 +6561,7 @@ I. No yellow collar round the base of the neck..., pulchella, p. 79.
 II. A yellow collar round the base of the neck .... margaritm, p. 81. 
 1. Charmosynopsis pulchella. 
 Oharmosyna pulchella, G. R. Gr. List Psitt. Brit. Mus, p. 102 (1859) j 
-id. P. Z. 8. 1859, p. 158; Sclat. P. Z. 8. 1860, p. 227; G, R. 
+id. P. Z. S. 1859, p. 158; Sclat. P. Z. S. 1860, p. 227; G, R. 
 
 80 
 LORIiDJD. 
@@ -6737,19 +6737,19 @@ Tijdsehr. Ned. 2nd. xxv. pp. 143, 223 (1863); id. Journ. f. Orn.
 Neu-Guin. p. 157 (1865); G. R. Gr. Hand-libt} ii. p. 157, sp. 8238 
 (1870); Sundev. Metk. not. Av. disp. Tent. p. 72 (1872); Sclat 
 
-P. Z. 8. 1873, p. 697; Rosenb. Reist. naar Geehinkb. pp. 98, 102 
+P. Z. S. 1873, p. 697; Rosenb. Reist. naar Geehinkb. pp. 98, 102 
 (1875); Salvad. Ami. Mus. Civ. Gen. riii. p. 760 (1875); Gould, 
 B. of Neio Guin. pt. ii. pi. 1 (1876); Salvad. Ann. Mus. Civ. Gen. 
 x. p. 37, n. 91, p. 123 (1877); id. Orn. Pap. e Mol i. p. 320 (1880); 
-Guiltem. P. Z. 8. 1885, p. 684; Tristr. Cat. Coll. B. p. 74 (1889); 
+Guiltem. P. Z. S. 1885, p. 684; Tristr. Cat. Coll. B. p. 74 (1889); 
 Salvad. Mem. R. Ac. 8c. Tor. ser.2, xl. p. 175 (1889). 
 Pyrrhodes papuensis, Sw. Class. B. ii. p. 304 (1837). 
 Pfcittacus (Beloeercus) papuensis, 8. Mull Yei'h. Land-en Yolkenk. 
 
 
 p. 471 (1839-44). 
-Charmosyna papua, G. R. Gr. Gen. B. ii. p. 416 (1845); id. P. Z. 8. 
-1858, p. 194; id. Cat B. New Guin. p. 59 (1859) ; id. P. Z. 8. 
+Charmosyna papua, G. R. Gr. Gen. B. ii. p. 416 (1845); id. P. Z. S. 
+1858, p. 194; id. Cat B. New Guin. p. 59 (1859) ; id. P. Z. S. 
 1861, p. 436. 
 
 Charmosina (!) papuensis, Bp. Co?isp. Av. i. p. 3 (1850); id. Rev. et 
@@ -6757,7 +6757,7 @@ May. de Zool 1854, p. 156, sp. 293 ; id. Naumannia, 1856, Consp.
 Psitt sp. 307. 
 
 Charmosyna papuana, 8cl Journ. Pr. Linn. Soc. ii. p. 165, n. 106 
-(1858); id. P Z. 8. I860, p. 227; Wall. P. Z. 8. 1862, p. 159; 
+(1858); id. P Z. 8. I860, p. 227; Wall. P. Z. S. 1862, p. 159; 
 id. Ann. <$• Mag. N. M. (3) x. p. 470 (1862). 
 
 Eos papuensis, Sehleg. Dierent. p. 69 (1864). 
@@ -6977,8 +6977,8 @@ xv. p. 34 (1871) (type examined} j id. Mm. P.-B. Psittaci, Revue,
 p. 52 (1874); Rosenb. Reist naar GeeltinM. pp. 102, 113, 137 
 (1875); id. Malay. Arckip p. 601 (1871-79). 
 Trichoglossus 
-muschenbroekii, 6'clat P. Z. 8. 1873, p. 097: Meyer. 
-Sitzb. Isis Drehd. 1875, p. 78; FimcA, P. Z. 8. 1675, p. 041; id. 
+muschenbroekii, 6'clat P. Z. S. 1873, p. 097: Meyer. 
+Sitzb. Isis Drehd. 1875, p. 78; FimcA, P. Z. S. 1675, p. 041; id. 
 Rowley's Orn. Misc. ii. p. 61, pi 44 (1870); Gould, B. New Gum. 
 pt. v. pi. 8 (1877); Bchnw.Joum.f, Orn. 1881,p. l54:(Consp,Psitt 
 
@@ -7312,7 +7312,7 @@ desniarestii, Bp. Bev. et Mag. de Zool. 1854, p. 154,
 sp. 219; id. Naumannia, 1856, Consp. Psitt. sp. 230; Sclat. Journ. 
 Pr. Linn. Soc. ii. p. 166, sp. 117 (partim) (1858) : Wall. Ibis, 1859^ 
 
-p. 210 ; id. P. Z. 8.1864, p. 284; Finsch, Neu-Guin. p. 158 (partim) 
+p. 210 ; id. P. Z. S.1864, p. 284; Finsch, Neu-Guin. p. 158 (partim) 
 (1865) ,• G. B. Gr. Hand-list, ii. p. 168, sp. 8373 (1870). 
 Opopsitta desmarestii, Sclat P. Z. S. 1860, p. 227; Bosenb. Journ, 
 
@@ -7364,9 +7364,9 @@ Opopsitta desmarestii, part., Sclat. Jour a. Pr. Linn. Soc. ii. p. 100,
 sp. 117 (1858); G. R. Gr. Cat. B. New Gum. p. 4<J (partimj 
 (1859); Rosenb. (nee Gam.) Journ. f, Orn. 1802, p. 03 (ex fcsalwatty); 
 id. Nat. Tijdschr. Ned. Ina. xxv. pp. 143, 220 (partim) 
-(1863); Sclat. P. Z. 8. 1873, p. 697 (ex Sorong). 
+(1863); Sclat. P. Z. S. 1873, p. 697 (ex Sorong). 
 
-Cyclopsitta blythi, part., Wad. P. Z. 8. 1864, p. 285 (specim. ex 
+Cyclopsitta blythi, part., Wad. P. Z. S. 1864, p. 285 (specim. ex 
 Salwatty). 
 
 PsittaciuVdesrnarestii, part., Schley. Mus. P.-B. Psittaci, p. 75(180)4); 
@@ -7381,10 +7381,10 @@ Salvad. Ann. Mus. Civ. Gen. vii. p. 910
 "(1875), x. p. 27, n. 25, p. 119 (1877); id. Orn. Pap. e Mo/. I. 
 
 p. 152 (I860); Rchnw. Journ. f. Orn. 1881, p. 138 (Consp. P*itt. 
-p. 74) ; id. Vogelbild. Naehtr. 20 (1883) ; Guillem. P. Z. 8. li*8o, 
+p. 74) ; id. Vogelbild. Naehtr. 20 (1883) ; Guillem. P. Z. S. li*8o, 
 p. 619; Sahad. Mem. R.Ac. 8c. Tor. ser. 2, xl. p. 161 (IbbO;; 
 Tristr. Cat. Coll. B. p. 78 (1889). 
-Cyclopsittacus occipitahs (errore), Guillem. P. Z. 8. 1875, p. 61*0. 
+Cyclopsittacus occipitahs (errore), Guillem. P. Z. S. 1875, p. 61*0. 
 Cyclopsitta occidentalis, Gieb. Thes, Orn. iii. p. 800 (1877): Sharpi\ 
 
 Goulds B New Gum. pt. xix. pi. 3 (1885). 
@@ -7481,7 +7481,7 @@ Eiver.
 a. Juv. sk. New Guinea, mainland east of Iriile Gould Cull. 
 Island, Feb. (Dr. James). 
 7. Cyclopsittacns coxeni. 
-Cyclopsitta coxeni, Gould, P. Z. 8. 1807, p. 182; id. B. Austr., 
+Cyclopsitta coxeni, Gould, P. Z. S. 1807, p. 182; id. B. Austr., 
 
 "SuppL pi. (35 (pt. iv., 18b7) ; G. R. Gr. Hand-Utt, ii. p. 1C8, n. 8-574 
 (1870); Ramsay, Pr. Linn. Soc. X& W. ii. p. 195, n. oil (1878); 
@@ -7537,7 +7537,7 @@ ilj. 195, n. 512 (1878); id. Tab. List, p. 17, n. 526 (1888); Be
 J M, i?<°j>. &c. -EUy?. iV. Queensl. p. 33 (1889); Rams. Cat. Austr. 
 
 B. iii. Psittaci, p. 33 (18i)lj. 
-Cyelopsitta maccoyi, GWrf, P. £. 6'. 1875, p. 314; Sclat. P. Z. 8. 
+Cyelopsitta maccoyi, GWrf, P. £. 6'. 1875, p. 314; Sclat. P. Z. S. 
 1875, p. 602 (note); Gould, Birds New Guin. pt. i. pi. 10 (1875); 
 Gieb. T/ies. Orn. iii. p. 800 (1877). 
 
@@ -7573,7 +7573,7 @@ rt.Jad.sk. N.Queensland. Gould Coll. (One of the types.)
 Psittacula diophthalma, Hombr. et Jacq. Ann. des 8c. Nat. xvi. 
 p. 318 (1841) (south coast of New Guinea?) (Jtype examined); 
 G. R. Gr. Gen. B. ii. p. 423, n. 19 (1846); id. Cat. B. Neio Guin. 
-pp. 42, 60 (partim) (1859); id. P. Z. 8. 1861, p. 437 (partim); 
+pp. 42, 60 (partim) (1859); id. P. Z. S. 1861, p. 437 (partim); 
 Schley. Mzis. P.-B. Psittaci, p. 75 (partim) (1864); id. Ned. Tijdschr. 
 Bierh. iii. p. 331 (partim) (1866) ; Finsch, Papag. ii. p. 627 
 (partim) (1868); Meyer, Sitzb. k. Ah. Wissensch. Wien, Ixix. p. 213 
@@ -7587,7 +7587,7 @@ Cyelopsitta diophthalma, Jacq.et Pucher. Voy. Pole Sud, Zool iii. p.107
 1854, p. 154, n. 220; id, Naumannia, 1856, Consp. Psitt. sp. 231 
 (excl. syn. ?); Sclat. Journ. Pr. Linn. Soc. ii. p. 166, sp. 118 (1858) ; 
 
-Wall. P. Z. 8. 1864, pp. 284, 294 (partim); Finsch, Neu-Guin. 
+Wall. P. Z. S. 1864, pp. 284, 294 (partim); Finsch, Neu-Guin. 
 
 * According to the rule followed in the Zoological Catalogues of the British 
 Museum, right to priority cannot be claimed for specific names published in 
@@ -7676,7 +7676,7 @@ Tweedclale Coll.
 o. 2 ad. sk. Salwatty, Purchased. 
 
 10. Cyclopsittacus aruensis. 
-Psittacula diophthalnia, Q. R. Gr. (nee H. et J.) P. Z. 8. 1858, 
+Psittacula diophthalnia, Q. R. Gr. (nee H. et J.) P. Z. S. 1858, 
 
 p. 183 j id. List Psitt. Brit. Mus. p. 90 (1859); id. Cat. B. New 
 Guin. pp. 42,60 (partim) (1859) j id. P. Z. S. 1861, p. 437 (partim) 5 
@@ -7684,12 +7684,12 @@ SeJiley. Mus. P.-B. Psittaci, p. 75 (paitim) (1864) ; id. Ned.
 Tijdsehr. Bierh. iii. p. 331 (partim) (1866); Rosenb. Reis naar 
 de Ziddoostereil p. 48 (1867); Finsch, Papag. ii. pp. 627, 957 
 (partim) (1868). 
-Opopsitta dioplithalma, Select, (nee II. et J.) P. Z. 8. 1860, p. 227 
+Opopsitta dioplithalma, Select, (nee II. et J.) P. Z. S. 1860, p. 227 
 (from Am Isl.) ; Rosenb. Joum. f. Orn. 1862, p. 65; id. NaU 
 Tijdsehr. Ned. Ind. xxv. pp. 145, 226 (partim) (1863). 
 
 Cyclopsitta 
-dioplithalma, Wall. P. Z. 8. 1864, p. 284 (partim); 
+dioplithalma, Wall. P. Z. S. 1864, p. 284 (partim); 
 'Finsch, Neu-Gidn. p. 158 (partim) (1865); G. R. Gr. kand-list, 
 
 ii. p. 167, sp. 8372 (partim) (1870). 
@@ -7702,7 +7702,7 @@ Ovclop&ittacus aruensis, Salvad. Ann. Mus. Civ. Gen. x. p. 28, n. 29
 If Alb. # Salvad. Ann. Mus. Civ. Gen. xiv. p. 34 (1879); 
 Salvad. Orn. Pap. e Mol. i. p. 161 (1880) ; Rchnw. Journ.f. Oni. 
 1881, p. 394 (Consp. Psitt. p. 75 a); id. VoqelUU. Naclitr. 22 (1883j; 
-Meyer, Zeitschr. /. ges. Orn. i. p. 273 (1884); Guillem. P. Z. 8. 
+Meyer, Zeitschr. /. ges. Orn. i. p. 273 (1884); Guillem. P. Z. S. 
 1885, p. 620; Salvad. Mem. R. Ac. So. Tor. ser. 2, xl. p. 162 (1889); 
 Tristr. Cat Coll. B. p. 78 (1889). 
 
@@ -7994,7 +7994,7 @@ LOPHOPSITTACUS.
 ^ 
 
 Type. 
-Lophopsittacus, Neivt. P. Z. 8. 1875, p. 350 L. mauritianus. 
+Lophopsittacus, Neivt. P. Z. S. 1875, p. 350 L. mauritianus. 
 Lophopsittacus mauritianus. 
 Broad-billed Parrot, Oiuen, Trans. Zool. Soc.xi. p. o3 (186G). 
 Ppittacns mauritianus, Oicen. Ifa's, 1860, p. 168; id. Ann. Sc. Nat. 
@@ -8670,7 +8670,7 @@ p. 156, n. 276 ; Souanct, Rev. et Mag. de Zool. 1856, p. 225 5 Bp.
 JSTaumannia, 1856, Consp. Psitt. n. 288; G. R. Gr. List Psitt. 
 * Brit. Mus. p. 98 (partim) (1859); Gould, Handb. B. Austr. ii. 
 p. 17 (1865); ? Miili P. Z. S. 1869, p. 279 (Melbourne); Ramsay, 
-Pr. Linn. Soo. N. S. W. ii. p. 193, n. 456 (1878); Sclat. P. Z. 8. 
+Pr. Linn. Soo. N. S. W. ii. p. 193, n. 456 (1878); Sclat. P. Z. S. 
 1882, p. 421 j id. List Vert An. 8th ed. p. 315 (1883); Ramsay, Tab. 
 List, p. 10, n. 476 (1888) ; North, Lescr. Cat. Nests § Eggs Austr. 
 Birds, p. 252 (1889). 
@@ -9046,7 +9046,7 @@ G.R. Gr. Gen. B. iii. p. 425, n. 6 (1845); Blyth, Cat. B. Mus.
 A. S. B. p. 2 (1849) ; Mchnb. Neuentd. Yog. N. JEL n. 188 (1850): 
 Bolle, Journ. f. Orn. 1856, p. 170; Plsey, P. Z. S. 1857, p. 20; 
 Zuchold, Journ. f. Orn. 1858, p. 39 ; G. P. Gr. List Psitt. Brit. Mas. 
-p. 94 (1859); id. Oat. B. New Gum. p. 60 (1859); Selat. P. Z. 8. 
+p. 94 (1859); id. Oat. B. New Gum. p. 60 (1859); Selat. P. Z. S. 
 1860, p. 415; Schleg. Jaarb. Natura Art Mag. p. 182 (1861); id. 
 Journ. f. Orn. 1861, p. 378; Selat P. Z. S. 1864, p. 188; Schley. 
 Mus. P.-B. Psittaci, p. 134 (1864); id. Dierent p. 82 (1864); 
@@ -9054,7 +9054,7 @@ Gould, Handb. B. Austr. ii. p. 2 (1865); Ramsay, Ibin, 1866,
 p. 332; Schley. Ned. Tijdschr. Dierk. iii. p. 320 (1866); Huxley, 
 1\ Z. S. 1867, p. 443 (skull); G. P. Gr. Hand-list, ii. p. 1C0, 
 n. 8391 (1870); Garrod, P. Z. S. 1873, pp. 466, 634, 1874, pp. 587, 
-588, 591; Selat. P. Z. S. 1875, p. 60 (note); Pamsay, P. Z. 8. 
+588, 591; Selat. P. Z. S. 1875, p. 60 (note); Pamsay, P. Z. S. 
 1875, p. 601; Garrod, P. Z. S. 1876, p. 419 ; Masters, Pr. Linn. 
 Soc. N. S. W. ii. p. 274 (1878); Moseley, Not ChalL p. 352 (1879) ; 
 Schmidt, P. Z. S. 1880, p. 309; Salvin, Cat B. Striekl Coll p. 453 
@@ -9161,11 +9161,11 @@ Cacatua cyanopis, Blyth, Journ. As. 8oe. Beng. xxv. p. 447 (1856).
 Cacatua triton, Sclat. Journ. Br. Linn. 8oc. ii. p. 16(5, sp. 120 (lboS); 
 
 G. R. Gr. B. Z. 8. 1858, pp. 184, 195; id. Cat. B. New Guin. 
-pp. 43, 60 (1859); id. P. Z. 8. 1859, p. 159; id. List Btttt. Brit. 
-Mus. p. 94 (1859); Sclat P. Z. 8. 1860, pp. 227, 371; Wall. Ibis, 
-1861, p. 286; G. R. Gr. P. Z. 8. 1861, p. 437 ; Finsch, Ned. 
-Tijdschr. Bierk. i. Berigten, p. xxii (1863) ; Sclat. P. Z. 8.1864, 
-pp. 160, 188; Wall P. Z. 8. 1864, pp. 280, 293; Schleq. Dierent 
+pp. 43, 60 (1859); id. P. Z. S. 1859, p. 159; id. List Btttt. Brit. 
+Mus. p. 94 (1859); Sclat P. Z. S. 1860, pp. 227, 371; Wall. Ibis, 
+1861, p. 286; G. R. Gr. P. Z. S. 1861, p. 437 ; Finsch, Ned. 
+Tijdschr. Bierk. i. Berigten, p. xxii (1863) ; Sclat. P. Z. S.1864, 
+pp. 160, 188; Wall P. Z. S. 1864, pp. 280, 293; Schleq. Dierent 
 p. 82 (1864); id. Mus. B.-B. Psittaei, p. 133 (1864); Sclat. Ann. 
 § May. N. E. (3) xv. p. 74 (1865); Finsch, Neu-Guin. p. 159 
 (1863); Schley. Ned. Tijdschr. Dierk. iii. pp. 320, 321 (1866) ; 
@@ -9183,7 +9183,7 @@ Orri. Bap. e Mol. i. p. 94 (1880); Finsch, Voy. der Siidsee, p. 38
 p. 618; Salvad. Mem. R. Ac. Sc. Tor. ser. 2, xl. p. 154 (18fr>9); 
 Tristr. Cat. Coll B. p. 72 (1889); Salvad. Ann. Mus. Civ. Gen. 
 (2) ix. p. 557 (1890); id. Aygiunte, p. 215 (1891). 
-Cacatua sequatorialis, G. R. Gr. {nee Temm.) P. Z. 8. 1861, p. 437 
+Cacatua sequatorialis, G. R. Gr. {nee Temm.) P. Z. S. 1861, p. 437 
 (N. Guinea, Mysol). 
 Plyctolophus macrolophus, Rosenb. Nat. Tijdschr. Ned. Ind. xxiii. 
 p. 45 (1861); id. Journ. f. Orn. 1861, p. 45 (Mysol ai.d Salwatty). 
@@ -9569,14 +9569,14 @@ Cat. B. Mus. A. 8. B. p. 1 (1849); Bp. Bev. etMag. de Zool. 1854,
 p. 155, n. 254; id. Naumannia, 1856, Consp. Psitt. n. 267 ; 
 Souanci, Rev. et Mag. de ZooL 1856, p. 224; Bolle, Journ.f Orn. 
 1856, p. 170; Bp. Compt. Rend. xliv. p. 537 (1857); G. B. Gr. 
-List Psitt. Brit Mm. p. 93 (1859); Sclat. P. Z. 8. I860, pp. 22b*, 
-227 ; G. B. Gr. P. Z. 8. I860, p. 358 ; 8clat. P. Z. 8.1861, p. 305, 
+List Psitt. Brit Mm. p. 93 (1859); Sclat. P. Z. S. I860, pp. 22b*, 
+227 ; G. B. Gr. P. Z. S. I860, p. 358 ; 8clat. P. Z. S.1861, p. 305, 
 366, 1864, p. 188; Bernst. Nat. Tijdschr. Ned. Ind. XXYH. p. 295 
-(1864); Wall. P. Z. 8. 1864, pp. 279, 280, 293; Schleq. Mus. B.-B. 
+(1864); Wall. P. Z. S. 1864, pp. 279, 280, 293; Schleq. Mus. B.-B. 
 Psittaci, p. 143 (1864); id. Bierent. p. 81 (1864); Sclat. Ann. $ 
 Maq. N. H. (3) xv. p. 74 (1865) ; Fitisch, Neu-Guin. p. 158 
 (1865); Schleg. Ned. Tijdschr. Dierk. iii. p. 319 (1866); Sclat. 
-P. Z. 8.1867, p. 184; Garrod, P. Z. 8. 1873, pp. 466,634,1874, 
+P. Z. S.1867, p. 184; Garrod, P. Z. S. 1873, pp. 466,634,1874, 
 pp. 587, 588, 591, 595; Schleg. Mm. P.-B. Psittaci, Heme, p. 07 
 * From Limit's quotations it is quite evident that bis P. cristatus is the 
 Psittacus albus cristatus, Aldr. (=Kakatoes a huppe blanche of Buffbn); but in 
@@ -9667,7 +9667,7 @@ P. Z. S. 1804, pp. 280, 203; Sclat. Ann. $ Mag. X. H. (3) xv.
 p. 
 74 (1805); id. P. Z. S. 1867, p. 184; G. R. Gr. Hand-list, 
 ii. p. 109, n. 8392 (1870); id. Ann. $ Mag. X. H. (4) v. p. 329 
-(1870) ; Sclat P. Z. 8. Ib77, p. 107; Salvad. Ann. Mus. Civ. Gen. 
+(1870) ; Sclat P. Z. S. Ib77, p. 107; Salvad. Ann. Mus. Civ. Gen. 
 x. p. 25, ii. 5 (1877); id. Orn. Pap. e Mol i. p. 103 (ISsO); 
 Sclat. P. Z. S. 1880, p. 07 (New Britain); Layard, Ibis, 18>0, 
 p. 300; Finsch, Ibis, 1881, pp. 587, 538; Salvad. Orn. Pap. 
@@ -9923,7 +9923,7 @@ Cacatua
 ducorpsii, Jacq. fy Pucker. Voy. Pole Sud, Zool. i. p. 108, 
 sp. 73 (1853) (types examined); HartI. Journ.f. Orn. 1854, p. 165 ; 
 Sclat. P. Z. S. 1860, p. 228, 1864, pp. 159,187,188,189, pi. xni. 
-(nee P. Z. S. 1862, pi. xiv.) ; Wall. P. Z. 8. 1864, pp. 280, 293; 
+(nee P. Z. S. 1862, pi. xiv.) ; Wall. P. Z. S. 1864, pp. 280, 293; 
 Sclat. Ann. $ Mag. N. H. (3) xv. p. 74 (1865); id. P. Z. S. 1867, 
 
 p. 184,1869, pp. 118,124,1875, pp. 59,60 ; Sahad. Ann. Mm. Civ. 
@@ -10363,7 +10363,7 @@ Selat P.Z.S. 1869, p. 627 (breeding); G. R. Gr. Sand-list, ii.
 
 p. 168, n. 8383 (1870); Garrod, P. Z. S. 1878, pp. 465, 634,1874, 
 p. 587,1877, p. 297; Ramsay, P. Z. S. 1877, p. 351; Selat. List 
-Vert An. 8th ed. p. 315 (1883); GoodcMld, P. Z. 8. 1886, 
+Vert An. 8th ed. p. 315 (1883); GoodcMld, P. Z. S. 1886, 
 p. 190 j Sutton, P. Z. S. 1886, p. 211; Tristr. Cat Coll B. p. 73 
 (1889). 
 Oacatua novse liollandiae, ScMeg. Journ.f. Orn. 1861, p. 880. 
@@ -10723,7 +10723,7 @@ xxv. pp. 282,356 (1882); Tristr. Ibis, 1882, pp. 138,143 ; Ramsay,
 Ibis, 1882, p. 472; Salmd. Ann. Mas. Civ. Gen. xviii. p. 418, n. 1 
 (1882); id. Orn, Pap. e Mol iii. p. 513 (1882); Ramsay, Pr. 
 Linn. 8oc. N. 8. W. vii. pp. 35, 065 (1882) j Jtchnw. Vogelbild. 
-Nachtr. 26 (1883); id. Journ.f. Orn. 1883, p. 410; SclaL P. Z. 8. 
+Nachtr. 26 (1883); id. Journ.f. Orn. 1883, p. 410; SclaL P. Z. S. 
 1883, p. 347 ; Finsch, Voq. der Siidsee, p. 17 ; 8alvad, Mem. P. Ac. 
 8c. Tor. (2) xl. p. 157 (1889); Tristr. Cat. Coll. P. g. 73. 
 Nasiterna mortoni, Pamsay, Pr. Linn. Soc. N. 8. W. vii. pp. 35, 6Q6 
@@ -11209,7 +11209,7 @@ Souanee, Icon. Perr. pi. i. f. 1 (1857j ; G. R. Gr. Hand-list, ii.
 
 p. 145, n. 8088 (1870). 
 Ara leari, G. R. Gr. List Psitt. Brit Mas. p. 30 (1859); id. List 
-Vert. An. 8th ed. p. 338 (18S3) ; id. P. Z. 8.1866, p. 417. 
+Vert. An. 8th ed. p. 338 (18S3) ; id. P. Z. S.1866, p. 417. 
 Ara glauca, Sclat (nee Vieill.) P. Z. S. 1860, p. 372; id. List Vert. 
 An. (1877), p. 240; id. P. Z. S. 1878, p. 976. 
 Sittace leari, Finsch, Papag. i. p. 392 (1867); Pelz. Orn. Bras. 
@@ -11630,9 +11630,9 @@ p. 144, n. 8073 (1870); Salv. Ibis, 1871, pp. 87, 89; Beinh. Ibis,
 Neotrop. p. Ill, n. 6 (1873); Garrod, P. Z. S. 1873, pp. 465, 633, 
 4. ABA. 155 
 1874, p. 587; Later. Bull. U. 8. Nat. Mus. no. 4, p. 35 (Tehuantepec) 
-(1875); Boucard, P. Z. 8. 1878, pp. 38, 46; Sclat. «$• Salv. 
+(1875); Boucard, P. Z. S. 1878, pp. 38, 46; Sclat. «$• Salv. 
 
-P. Z. S. 1879, p. 634; Schmidt, P. Z. S. 1880, p. 310 j Tacz. P. Z. 8. 
+P. Z. S. 1879, p. 634; Schmidt, P. Z. S. 1880, p. 310 j Tacz. P. Z. S. 
 1882, p. 4G; Nutting, Pr. U. 8. Nat Mus. v. p. 402 (1882) ; 
 3, p. 67; Tacz. Orn. du Perou, iii. p. 192, Tabl. p. 98 (188G); 
 Ridgw. Man. N. Am. Birds, p. 587 (1887); Garlepp, Journ. f, Orn. 
@@ -11640,9 +11640,9 @@ Ridgw. Man. N. Am. Birds, p. 587 (1887); Garlepp, Journ. f, Orn.
 
 Ara aracanga, G. R. Gr. Gen. &. ii. p. 412, n. 3 (1845) ; Sclat. 
 
-P. Z. 8. 1857, p. 266 ; Moore, P. Z. 8.1859, p. 59; Sclat # Salv. 
+P. Z. S. 1857, p. 266 ; Moore, P. Z. S.1859, p. 59; Sclat # Salv. 
 Ibis, 1859, p. 137; Homey. Journ. f. Orn. 1859, p. 360; Sclat. $ 
-Sale. P. Z. 8. 1864, p. 367; Lawr. Ann. Luc. N. Y. viii. p. 11 
+Sale. P. Z. S. 1864, p. 367; Lawr. Ann. Luc. N. Y. viii. p. 11 
 (1867). J F 
 Macrocercus (Aracanga) aracanga, Bp. Rev. et Mag. de Zool. 1854, 
 
@@ -12390,7 +12390,7 @@ Primolius makawanna, Bp.,Jide G. R. Gr. L c. (in syn. Arse manilatae)
 (1859). 
 Arara manilata, Schleg. Mus. P.-B. Psittaci, p. 7 (1864) ; id. op. tit 
 Revue, p. 2 (1874). 
-Sittace macavuana, Finsch, Papag. i. p. 415 (1867); id. P. Z. 8. 
+Sittace macavuana, Finsch, Papag. i. p. 415 (1867); id. P. Z. S. 
 
 1870, p. 586 ; Gieb. Thes. Orn. iii. p. 496 (1877). 
 Primolius manilata, G. R. Gr. Hand-list, ii. p. 144, n. 8078 (1870). 
@@ -13037,7 +13037,7 @@ Si/st Ueb. ii. p. 166 (1856); G. P. Gr. List Psitt Brit. Mas.
 
 p. 35 (1859); Schleg. Mus. P.-B. Paittaci, p. 16 (1864); Sclat 
 P. Z. 8 1867, p. 587; Fimch, Papag. i. p. 455 (1867; ; Sclat. 
-P. Z. 8. 1871, p. 772; Gieb. T/ies. Orn. i. p. 764 (1872) ; Sclat # 
+P. Z. S. 1871, p. 772; Gieb. T/ies. Orn. i. p. 764 (1872) ; Sclat # 
 Sab. Nommcl. Av. Neotrop. p. Ill, n. 5 (1873); ScJdeg. Mus. P.-B. 
 Psittaci, Pevue, p. 4 (1874); Schmidt, P. Z. S. IbSO, p. 310 ; Sclat 
 P. Z. S. 1880, p. 697; id. List Vert An. 8th ed. p. 343 (1883). 
@@ -13237,7 +13237,7 @@ PSITTACIDJE.
 
 pp. 257, 456 (1871); Sclat. $ Salv. Nomencl Av. Keotrop. p. 112, 
 
-B. 16 (partim) (1873) ; Qarrad, P. Z. 8. 1873, pp. 405, 633, 1874, 
+B. 16 (partim) (1873) ; Qarrad, P. Z. S. 1873, pp. 405, 633, 1874, 
 p. 587 ; Rchnw. Voc/eMUl t. ii. f. 5 (1878-83) : Forbes. Ibis. 1881, 
 p. 351; Salv. Cat B. Strickl. Coll. p. 465 (1882); Sclat List Vert. 
 An. 8th ed. p. 343(1883). 
@@ -13394,7 +13394,7 @@ p. 121.
 Psittacus nrmillaris, III., fide G. It Gr. Lht Psitt. But. 3fu*. p. 35 
 (1859). 
 Nandayus nanday, G. B. Gr. PBmd-list, ii. p. 147, n. 8100(1870). 
-Conurus nanday a, Sclat. P. Z. 8. 1870, p. 3<^3. 
+Conurus nanday a, Sclat. P. Z. S. 1870, p. 3<^3. 
 Conurus melanoceplialus, Bchmc. Jovrn.f. Orn. 1851, p. 280 ( Cony>. 
 
 Psitt p. 168). 
@@ -13495,7 +13495,7 @@ Hartl. Rev. et Mag. de Zool 1849, p. 274; G. R. Gr. List PsitL
 Brit. Mus. p. 34 (1859); Fmsch, Papa//, i. p. 4(51 (18(37); Gieb. 
 T/ies. Orn. i. p. 764 (1872) ; SclaL § Sah\ Nomencl. Av. Neotrop. 
 p. 112, n. 7 (1873); Tacx. P. Z. S. 1874, p. 549; Sclab &r Solo. 
-P. Z. 8. 1879, p. 635 ; Tacz. P. Z. S. 1880, p. 211; Rehnw. down. 
+P. Z. S. 1879, p. 635 ; Tacz. P. Z. S. 1880, p. 211; Rehnw. down. 
 f. Orn. 1881, p. 273 (Comp. Pdit. p. 161) ; id. VogeWild. text of 
 'pi. xxii. lig. 7 (1883); Tacz. Orn. Per. iii. p. 193, Tabl. p. 99 (1886);, 
 Sclat. Argent. Orn. ii. p. 43 (1889). 
@@ -13912,7 +13912,7 @@ Ind. Azar. Apunt. p. 17 (1847); G. R. Gr. List Psitt. Brit Mus.
 p. 31 (1859): Sclat. Cat. Am. B. p. 340, n. 2004 (1862); Finsch, 
 Papag. i. p. 470 (1867) ; Pel*. Orn. Bras. pp. 250, 446, Iii (1871); 
 Gieb. Thes. Orn. i. p. 705 (1872); Sclat. $ &**». Nomencl. Av. 
-Neotrop. p. 112, n. 12 (1873) ; iid. P. Z. 8. 1873, p. 299; Garrod, 
+Neotrop. p. 112, n. 12 (1873) ; iid. P. Z. S. 1873, p. 299; Garrod, 
 P. Z. S. 1874, p. 587; Cab. Joum.f. Orn. 1881, p. 107 ; Sclat List 
 Vert. An. 8th ed. p. 341 (1883) ; Berl. fy Jhering, Zeitschr. f. ges. 
 Orn. 1885, p. 163; Salvin, Ibis, 1886, p. 67 ; Berl. Joum.f. Orn. 
@@ -14511,12 +14511,12 @@ Conurus seruginosus, G. B. Gr. Gen. B. ii. p. 413, n. 12 (syn. emend.)
 (1845); Bp. Bev. et Mag. de Zool. 1854, p. 150, n. 39 ; ? Souance, 
 Bev. et Mag. de Zool. 1856, p. 60 ; ? Bp. Naumannia, 1856, Consp. 
 Psitt n. 68; ? Burm. 8gst Ueb. ii. p. 170 (185G) j G. B. Gr. List 
-Psitt Brit. Mus. p. 38 (1859); Sclat. 8? Salv. P. Z. 8. 1867, p. 587 
+Psitt Brit. Mus. p. 38 (1859); Sclat. 8? Salv. P. Z. S. 1867, p. 587 
 (Rio Negro), 1868, p. 729 ; 8ousa, Mus. Nac. Lisboa, Psittaci,p. 8 
 (1869); ? G. P. Gr. Hand-list, i. p. 147, n. 8113 (1870); Sclat. 
 
-P. Z. 8.1871, p. 493; Wyatt, Ibis, 1871, p. 381 (Colombia); Sclat # 
-Salv. Nomencl. Av. Neotrop. p. 112, n. 20 (1873); Garrod, P. Z. 8. 
+P. Z. S.1871, p. 493; Wyatt, Ibis, 1871, p. 381 (Colombia); Sclat # 
+Salv. Nomencl. Av. Neotrop. p. 112, n. 20 (1873); Garrod, P. Z. S. 
 1874, p. 587; Sclat P. Z.8. 1875, p. 684, 1880, p. 716; Bchmv. 
 Vogelbild. t. xvii. f. 5 (1878-83); id. Journ. f. Orn. 1881, p. 282 
 (Consp. Psitt. p. 170); ? Salvin, Cat B. Strickl Coll. p. 405 
@@ -14648,8 +14648,8 @@ i. p. 766 (partim) (1872).
 Conurus clirysogenys, Lawr. (nee Mass. et SouancS) Ann. Lye. N. 
 Y. viii. p. 11 (1863); Schleq. Mus. P.-B. Psittaci, Eeme, p. 5 
 (1874). 
-Conurus ocularis, 8clat. 8f Salv. P. Z. 8. 1864, p. 367, 1867, p. 588; 
-Salv. P. Z. 8. 1870, p. 214; Salv. Ibis, 1871, p. 93 ; Sdat. $ Sato. 
+Conurus ocularis, 8clat. 8f Salv. P. Z. S. 1864, p. 367, 1867, p. 588; 
+Salv. P. Z. S. 1870, p. 214; Salv. Ibis, 1871, p. 93 ; Sdat. $ Sato. 
 Nomencl Av. Neotrop. p. 112, n. 21 (1873); Cab. Journ. f. Orn. 
 1879, p. 222 ; JRchnw. Vogelbild. t. xvii. f. 1 (1878-83) ; id. Joum. 
 
@@ -16925,7 +16925,7 @@ Lye. N. Y. ix. p. 131 (1868); Selat. fy Salv. Reot Orn. pi. *1
 
 p. 214; id. Ibis, 1871, p. 93; Gieb. Thes. Orn. i. p. 703(1872); 
 Sclat.fySalv. Nomenel. Ac. Keotrop. p. Ill, n. 40 (1873) : Schley. 
-Mits. P.-B. Psittaci, Revue, p. 6 (1874) ; Boucard, P. Z. 8. 187*^? 
+Mits. P.-B. Psittaci, Revue, p. 6 (1874) ; Boucard, P. Z. S. 187*^? 
 p. 46; Zeled. Pr.U. 
 S. Nat. Mm. viii. p. Il l (1885). 
 Pyrrhura hoffxnannii, 
@@ -17352,7 +17352,7 @@ Conurus aurifrons, Bourj. Perr. pi. 45 {1837-38); G. R. Gr. Gen, B.
 ii. p. 414, n. 41 (1845); id. List Psitt. Brit. Mvs. p. 44 (1*39); 
 Homey. Journ. f. Orn. 1859, p. 361; Sclat. Cat. Am. B. p. 351, 
 n. 2093 (1862),-Schleg. Mus. P.-B. P*ittaci, p. 15 {1HJ4U Mat. 
-P. Z. 8. 18(56, p. 100; Sclat. § Sale. P. Z. S. 1N>7, p. as8; Sat v. 
+P. Z. S. 18(56, p. 100; Sclat. § Sale. P. Z. S. 1N>7, p. as8; Sat v. 
 Ibis7 1871, p. 88 (note); Schley. Mtt*. P.-B. lMttn'-i, Recife, p. 4 
 (1874). 
 
@@ -18153,11 +18153,11 @@ Pbittacula passerina, Sclat. $ Salt), (nee Linn.) P. £> o. lo/o, p. «*ui
 248 
 PSITTAC1DJ3. 
 
-(Nauta, E. Peru); Tacz. P. Z. 8. 1882, p. 415: id. Orn. Per. iii. 
+(Nauta, E. Peru); Tacz. P. Z. S. 1882, p. 415: id. Orn. Per. iii. 
 
 p. 212, Tabl. p. 100 (1886)*. 
 Psittacula crassirostris, 
-Tacz. P. Z. 8. 1883, p. 72 (Yuriniapruas, E. 
+Tacz. P. Z. S. 1883, p. 72 (Yuriniapruas, E. 
 Peru); Bchnw. u. Schal Jonm.f. Orn. 1885, p. 4C0; Tacz. Om, 
 Pir. iii. p. 215, Tabl. p. 100 (1886) ; Pidgw. Pr. U.S. Xat. Jlus. 
 
@@ -18368,7 +18368,7 @@ Psittacula cyanoptera,
 G. R. Gr. List Psitt. Brit. Mus. p. 86 (1859) ; 
 Sclat. Cat. Am. B. p. 357, n. 2135 (1860); Tayl. Ibis, 1864, 
 
-p. 94; Finsch, P. Z. 8. 1870, p. 554; G. R. Gr. Maud-list, ii. 
+p. 94; Finsch, P. Z. S. 1870, p. 554; G. R. Gr. Maud-list, ii. 
 p. 166, n. 8350 (1870); ? Wyatt, Ibis, 1871, p. 382 JOolombia); 
 Sclat. 8f Salv. Nomencl. Av. Neotr. p. 115, n. 2 (1873); 8ah\ # 
 Godm. Ibis, 1880, p. 176; Rehnw. Joum. f. Orn. 1881, p. 340 
@@ -18382,7 +18382,7 @@ Psittacula cyanochlora, Natt. Cat. MS.; Sohleg. Mus. P.-B. Psittaci,
 p. 
 31 (in sign. Psitt. sancti thorns) (18(34); Finsch, Papag. ii. 
 p. 
-649 (in syn. P. passerine) (1868) ; Rartl. P. Z. 8. 1885, 
+649 (in syn. P. passerine) (1868) ; Rartl. P. Z. S. 1885, 
 p. 615, pi. xxxviii. f. 2 (Kio Branclio); id. Ibis, 1888, p. 493; 
 Ridgw. Auk, v. pp. 461, 462 (1888). 
 Psittacula pabserina, part., Finsch, Papag. ii. p. 649 (mas jun. et in 
@@ -20430,11 +20430,11 @@ Clirysotis P, Bclat $ Bah. Ibis, 1859, p. 138.
 
 Chrysotis guatemate, Hartl in Mus. Brem.; JSWO*. Ibis, 1860, p. 44; 
 
-id. P. Z. 8. I860, p. 253; id. Cat. Am. B. p. 353, n. 2107 (1862): 
+id. P. Z. S. I860, p. 253; id. Cat. Am. B. p. 353, n. 2107 (1862): 
 
 PWe/e, Po/x^. u. p. 562, t. 4 (1868) ; Bclat. % Bah. P. Z. S. 
 
-1870, p. 837; Bclat. P. Z. 8. 1870, p. 896; G. M. Or. Hand-list. ii. 
+1870, p. 837; Bclat. P. Z. S. 1870, p. 896; G. M. Or. Hand-list. ii. 
 
 p. 165, n. 8335 (1870); Bah. Ibis, 1871, pp. 87, 98 (part.) ; Latvr. 
 Ifas, 1871, p. 250; Gieb. Thes. Orn. i.p. 082 (1872); Bclat. $ Baiv. 
@@ -20828,17 +20828,17 @@ emend.) (1846).
 Chrysotis amazonica, 
 Bp. Bed. ei May. de Zool. 1854. p. 151, n. 94; 
 Souance, Rev. et Mag. de Zool. IboC, p. 154; Bp. Xaumannia, 
-1850, Consp. Psitt. n. 80 (excl. svn.); Selat P. Z. 8. 1858, p. 75; 
+1850, Consp. Psitt. n. 80 (excl. svn.); Selat P. Z. S. 1858, p. 75; 
 
 G. M. Gr. List Psitt Brit. Mm. p. 78 (18-59); Selat Cat Am. B. 
-p. 352, n. 2103 (1862); Sclat $ Sale. P. Z. 8. 1867, p. 753; 
+p. 352, n. 2103 (1862); Sclat $ Sale. P. Z. S. 1867, p. 753; 
 Fimch, Papay. ii. p. 570 (1868); Soma, Mm. Xae. Lisb. Psittaei, 
 p. 11 (1869); Finseh, P. Z.8. 1870, p. 580; G. It Gr. Hand-list, 
 ii. p. 163, n. 8312 (1870) ; Pelz. Orn. Bras. pp. 22i\f 448, liii 
-(1871): Gieb. Thes. Orn. i. p. (579 (1872); Selat. $ Sah. P. Z. 8. 
+(1871): Gieb. Thes. Orn. i. p. (579 (1872); Selat. $ Sah. P. Z. S. 
 1873, p. 300; Sclat. $• SaU. Xomenct Ai\ Xeotrop. p. 114, n. 25 
 (1873); Rehnw. VoyHMld. 1.1. f. 0 (1878); Salt. $ Godm. Ibis, 
-1880, p. 176; Taez. P. Z. 8. 1882, p. 45; Sclat List Vert. An. 
+1880, p. 176; Taez. P. Z. S. 1882, p. 45; Sclat List Vert. An. 
 8th ed. p. 349 (1883); Sah. Ibis, 1886, p. 69; Taez. Orn. Pin 
 iii. p. 223, Tabl. p. 100 (1886). 
 Psittacus aniazonus, Schley. Diereni. p. 65 (1864). 
@@ -21336,7 +21336,7 @@ Ad. sk. Bogota. Purchased.
 
 16. Chrysotis auropalliata. 
 Psittacus (Amazona) auro-palliatus, Less. Rev. Zool 1842, p. 135. 
-Psittacus flavinuchus, Gould, P. Z. 8.1843, p. 104; id. Voy. of* Sulphur, 
+Psittacus flavinuchus, Gould, P. Z. S.1843, p. 104; id. Voy. of* Sulphur, 
 
 p. 45, pi. 27 (1844); id. Ann. 8f Mag. N. JE. xiii. p. 475 (1844). 
 Psittacus auro-palliatus, G. JR. Qr. Gen. B. ii. p. 421, n. 31 (1846). 
@@ -22166,7 +22166,7 @@ pp. 241, 373; Salv. Ibis, 1890, p. 88.
 Chrysotis 
 aestivalis, Bp. Natimanma, 1856, Consp. Psitt. n. 100 
 (descr. nulla) *; G. B. Gr. List Psitt Brit. Mus. p. 81, n. 19 
-(1859); Sclat. P. Z. 8.1859, p. 389; G. B. Gr. Hand-list, ii. p. 164, 
+(1859); Sclat. P. Z. S.1859, p. 389; G. B. Gr. Hand-list, ii. p. 164, 
 
 n. 8325 (1870); Salv. Ibis, 1871, p. 88 (note). 
 Amazona autumnalis, Schleg. Mus. P.-B. Psittaci, p. 51 (part.) 
@@ -22442,7 +22442,7 @@ Salv. Nomencl. Av. Neotrop. p. 113, n. 2 (1873); Gieb. Thes.
 Orn. iii. p. 796 (1877); Pchiw. Vogelbild. t. i. f. 3 (1878); Sdat. 
 
 P. Z. S.1879, pp. 438, 834, 1880, pp. 23, 718; id. Ibis, 1881, 
-p. 412; id. List Vert. An. 8th ed. p. 346 (1883); Sdat. P. Z. 8. 
+p. 412; id. List Vert. An. 8th ed. p. 346 (1883); Sdat. P. Z. S. 
 1887, p. 2 ; W. L. Sdat Ibis, 1887, p. 318. 
 Androglossa 
 bodini, Rchno. Journ. f. Orn. 1881, p. 371 (Consp. 
@@ -22499,7 +22499,7 @@ Souance, Rev. et Mag. de Zool. 1856, p. 153; Bp, Naumannia,
 (1859); Sclat. Cat. Am. B. p. 354, n. 2114 (1802); Sclat. 4' 
 Salv. P. Z. S. 1866, p. 197; Fin&c/i, Papag. ii. p. oil {part) 
 (1868); Sousa, Mm. Nac. Lishoa, Pbittaci, p. 11 (lbG9j; G. R* 
-Gr. Hand-list, ii, p. 164, n. 8320 (1870); Finsch, P. Z. 8. 1870, 
+Gr. Hand-list, ii, p. 164, n. 8320 (1870); Finsch, P. Z. S. 1870, 
 pp. 554, 586; Pelz. Orn. Bras. pp. 265,449, Mi (part.) (1871); 
 Gieb. Thes. Orn. i. p. 682 (part.) (1872); Sclat £ Salt. P. Z. S. 
 187S, p. 300; iid. NomencL Av. Keotrop. p. 113, n. 1 (1873); 
@@ -22603,9 +22603,9 @@ Psittacus leucocephalus, fern., Kiihl, Consp. Psitt. p. 80 (1820).
 Psittacus festiyus ?, Moritz, Wiegm. Arch. 1836, i. p. 389; 
 Chrysotis dominicensis, Bp. Rev. et Mag. de Zool 1854, p. 151, 
 
-n. 88 ; id. Nau?na?inia, 1856, Consp. Psitt. n. 92; Sclat. P. Z. 8. 
+n. 88 ; id. Nau?na?inia, 1856, Consp. Psitt. n. 92; Sclat. P. Z. S. 
 1857, p. 224. 
-Chrvsotis vittata, Bolle, Journ. f. Orn. 1856, p. 170; 8elat. P. Z. 8. 
+Chrvsotis vittata, Bolle, Journ. f. Orn. 1856, p. 170; 8elat. P. Z. S. 
 1857, p. 224; A. $ B. Newt. Ibis, 1859, p. 377; G. R. Gr, List 
 Psitt. Brit. Mus. p. 83 (1859); Taylor, Ibis, 1864, p. 171; Cab. 
 Journ. f. Orn. 1866, p. 190 (note); Finsch, Papag. ii. p. 515 
@@ -22680,7 +22680,7 @@ Band-list, ii, p. 164, n. 8328 (1870) ; Sdlv. Ibis, 1871, p. 88
 (note); Pels. Orn. Bras. pp. 205 (note), 448 (1871); Gieh. Thes. 
 Om. i. p. 683 (1872); Select,fySalv. Nomencl. Av. Neotrop. p. 113, 
 n. 10 (1873); Berl. u. JJiermc/, ZeitscJir.f ges. Orn. 1885, p. 164 ; 
-Selat. P. Z. 8. 1889, p. 394; ? Berl. Joum.f. Orn. 1887, p. 133. 
+Selat. P. Z. S. 1889, p. 394; ? Berl. Joum.f. Orn. 1887, p. 133. 
 Amazona pretrei, Schleg. Mus. P.-B. Psittaci, p. 59 (1864); id. op. 
 cit. Revue, p. 28 (1874). 
 Androglossa pretrei, 
@@ -22735,7 +22735,7 @@ Incl Orn. I p. 119, n. 113 (1790); Shaw, Gen. Zool viii. 2, p. 518
 p. 106 (part.) (182G); Beam. Diet. 8c. Nat. xxxix. p. 105 (1820); 
 Cm. Pegn. An. i. p. 405 (1829) ; Wagl Isis, 1831, p. 52^>; id. 
 Mon. Piitt. p. 601 (1832) ; G. JR. Gr. Gen. B. ii. p. 421, n. 26 
-(1846); Gulliv. P. Z. 8. 1875, p. 489. 
+(1846); Gulliv. P. Z. S. 1875, p. 489. 
 P&ittacus leucocephalus, var. y, Gm. 8. N. i. p. 338 (1788). 
 
 Psittacus leucocephalus, part., 8/iaw, Gen. Zool viii. 2, p. 517 (1811); 
@@ -22946,8 +22946,8 @@ Psittacus leucocephalus, part., Less. Tr. d'Om. p. 197 (1881) ; Wagl.
 
 Mm. Psitt. p. 599 (1832). 
 
-Chrysotis saUsel, Mat P. Z. 8.1857, pp. 224, 284; G. P. Gr. List 
-Psitt. Brit Mm. p. 83 (1859) j Sclat. P. Z. 8.1861, p. 79; id. Cat. 
+Chrysotis saUsel, Mat P. Z. S.1857, pp. 224, 284; G. P. Gr. List 
+Psitt. Brit Mm. p. 83 (1859) j Sclat. P. Z. S.1861, p. 79; id. Cat. 
 Am. B. p. 353, n. 2110 (1862); Sousa, Mas. Nac. Lish. Psittaci, p. 10 
 (1869); Sclat. $ 8ah. Nomencl. Av. Neotrop. p. 113, n. 3 (1873) j 
 
@@ -23052,7 +23052,7 @@ Chrysotis leucocephala,
 Bp. Pev.et Mag. de Zool. 1854, p. 151, n. 86 
 (part.); id. Xaumannia, 1856, Consp. Psitt. n. 90 (part.); Selat. 
 
-P. Z. 8.1857, p. 224 (part.) ; G. P. Gr. List Psitt. Brit Mus. p. 82 
+P. Z. S.1857, p. 224 (part.) ; G. P. Gr. List Psitt. Brit Mus. p. 82 
 (1859); Brewer, Pr. Post. Soc. Nat Hist. vii. p. 307 (1860); Slat. 
 P. Z. S. 1861, p. 79 ; Fimeh, Papag. ii. p. 520 (186S); r Sousa, Mus. 
 Xac. Lisboa, Psittaci, p. 10 (1809); Gieb. TJu>s. Om i. p. fN2 
@@ -24794,7 +24794,7 @@ Brehm, Mm. d. Papay. t. 51.
 Evopsitta amazonina, Bp. JRev. et May. de ZooL 1854, p. 151, n. 70; 
 
 Souance, Rev. et May. de Zool. 1856, p. 153. 
-Euopsitta amazonina, Sclat. P. Z. 8.1855, p. 102. 
+Euopsitta amazonina, Sclat. P. Z. S.1855, p. 102. 
 Pyrilia amazonina, Bp. Kaumannia, 1856, Conxp. Psitt. n. 77 ; 
 
 SouancS, Icon. Perr. pi. xxv. (1857). 
@@ -25312,7 +25312,7 @@ Bunn. Syst. Ueb. ii. p. 194 (note) (1856).
 
 Caica 
 vulturina, Bp. Rev. et Mag. de Zool. 1854, p. 151, n. 113 ; 
-Sclnt. # Sah. P. Z. 8. 1887, pp. 588, 595; Soma, Mus. Nac. Lisb. 
+Sclnt. # Sah. P. Z. S. 1887, pp. 588, 595; Soma, Mus. Nac. Lisb. 
 Psittaci,p. 12 (1869) ; Sclat. § Salv. NomencL Av. Neotrop. p. 114, 
 
 n. 5(1873). 
@@ -25796,9 +25796,9 @@ Lisb. Psittaci, p. 13 (1869).
 
 Urochroma hueti, Bp. Naumannia, 1856, Consp. Psitt. n. 12-4 ; $?Zotf. 
 
-P. Z. S. 1857, p. 19; Sclat. $ Hah. P. Z. 8. 1867, pp. 753, 759 ; 
+P. Z. S. 1857, p. 19; Sclat. $ Hah. P. Z. S. 1867, pp. 753, 759 ; 
 G. B. Gr. Hand-list, ii. p. 167, n. 8361 (1870); Sclat 4* Salv. 
-P. Z. 8. 1873, p. 301; iid. Nomencl Av. Neotrop. p. 115, 12. 6 
+P. Z. S. 1873, p. 301; iid. Nomencl Av. Neotrop. p. 115, 12. 6 
 (1873); Salv. Cat. B. StricM, Colly. 469 (1882); Tacz. Orn. Per. 
 iii. p. 217 (1886). 
 Eucliroura hueti, Behnw. Journ. f. Orn. 1881, p. 360 (Camp. Psitt. 
@@ -25886,7 +25886,7 @@ tf ad. sk. South of Merida, Venezuela (B. Goering). Sclater Coll.
 (Type of species.) 
 b. 5 ad. sk. Esquuque, Trujillo, Venezuela (S. Goering). Sclater Coll. 
 7. XTrochroma stictoptera. 
-Urockroma stictoptera, Sclat. P. Z. 8. 1862, p. 112, pi. xi.; id. Cat 
+Urockroma stictoptera, Sclat. P. Z. S. 1862, p. 112, pi. xi.; id. Cat 
 Am. B. p. 357, n. 2133 (1862); G. & Gr. Hand-list, ii. p. 167, 
 
 n. 8365 (1870); Sclat. $* Salv. Nomencl. Av. Neotrop. p. 114, 
@@ -26052,8 +26052,8 @@ h, i. Ad. sk. Amazons (Wallace). Salvin-Godman Coll.
 Psittacus melanocephalus (part.)? G. R. Gr. List Psitt. Brit Mvs. 
 
 p. 73, spec, b (1859). 
-p. 114, n. 7 (part.) (1873); Tacz. P. Z. 8. 1882, p. 40; Tacz $ 
-Berl P. Z. 8.1885, p. 109 (Canelos, Ecuador?); Tacz. Orn. Per. 
+p. 114, n. 7 (part.) (1873); Tacz. P. Z. S. 1882, p. 40; Tacz $ 
+Berl P. Z. S.1885, p. 109 (Canelos, Ecuador?); Tacz. Orn. Per. 
 iii. p. 226, Tabl. p. 100 (1886); Garl Journ. f. Orn. 1889, p. 291; 
 Berl Journ./. Orn. 1889, p. 317. 
 Amazona melanocephala, Schleg. Mus. P.~B. Psittaci, p. 64, spec. 2, 3 
@@ -26818,11 +26818,11 @@ n. 215 ; 8ousa, Mus. Nac. Lisb. Psittaci, p. 20 (1869); Rchmv.
 VogelbUd. t. viL f. 2 (1878-83); id. Journ. f. Orn. 1881, p. 384 
 ^{Consp. Psitt. 
 p. 224); Sahin, Cat. B. Strickl. Coll p. 463 (1882); 
-Sclat. List Vert. An. 8th ed. p. 337 (1883); Sclat. P. Z. 8. 1886, 
+Sclat. List Vert. An. 8th ed. p. 337 (1883); Sclat. P. Z. S. 1886, 
 
 p. 31; Hartert, Journ. f. Orn. 1886, p. 598. 
 Poeocephalus senegalensis, Souance, Rev. et Mag. de Zool. 1856, 
-p. 216; Garrod, P. Z. 8. 1874, p. 587. 
+p. 216; Garrod, P. Z. S. 1874, p. 587. 
 Paeocephalus senegalus, Bp. Naumannia, 1856, Consp. Psitt. n. 217. 
 Pionias senegalus-, Finsch, Papag. ii. p. 489 (1868); Gieb. Thes. Orn. 
 iii. p. 192 (1877). 
@@ -27260,19 +27260,19 @@ p. xvi (1863); Parker, P, Z. S. 1863, p. 516; Heugl. Journ. f. Orn.
 
 1863, p. 271; Schleg. Mm. P.-B. Psittaci, p. 37 (1864) ; Parker, 
 
-P. Z. 8. I860, p. 238 (note); Xeulem. Ned. Tijdschr. Dierk. iii. 
-p. 380 (1866); Bohrn, P. Z. 8. 1866, pp. 325, 320 (Prince Isl.); 
+P. Z. S. I860, p. 238 (note); Xeulem. Ned. Tijdschr. Dierk. iii. 
+p. 380 (1866); Bohrn, P. Z. S. 1866, pp. 325, 320 (Prince Isl.); 
 Brehm, Thierleb. iii. p. 21 (with figure) (1866); Finsch, Papag. 
 ii. p. 308 (1868); Sousa, Mus. Nac. Lisb. Psittaci, p. 19 (18(J9j ; 
 G. R. Gr. Hand-list, ii. p. 160, n. 8268 (1870); Skarpe, Ibis, 
 1870, p. 57 (Fantee); Lildher, Journ.f Orn. 1871, p. 334; Sharpe, 
 Cat. Afr. B. p. 19 (1871); Heugl. Orn. N.O.-Afr. i. 2, p. 745 
 (1871); Stolher, Joum. f. Orn. 1872, p. 18; Rehnw. u. Zuhder, 
-Journ.f. Orn. 1873, p. 218; Rchnw. ibid. p. 299; Garrod, P. Z. 8. 
+Journ.f. Orn. 1873, p. 218; Rchnw. ibid. p. 299; Garrod, P. Z. S. 
 1873, pp. 466,633,1874, p. 587; Ussher, Ibis, 1874, p. 56; Sclat. Ibis, 
 1874, p. 185 (TVrestof Lake Tangyanika); Rchmc. Journ.f. Orn. 1875, 
 p. 10 (Goldkiiste, Nigergegend, "Karnerum, Gabon), p. 48; Gullw. 
-P. Z. 8. 1875, p. 489; Forbes, P. Z. 8. 1877, p. 307 ; Rchmc. 
+P. Z. S. 1875, p. 489; Forbes, P. Z. S. 1877, p. 307 ; Rchmc. 
 Jour?i. f Orn. 1877, p. 14 (Loango) ; Gieb. Thes. Orn. iii. p. 336 
 (1877); Fischer, Journ.f Orn. 1880, p. 189 (Tanganika) ; Bchnw. 
 VogelULd. t. vii. I 5 (1878-83); id. Joum. f Orn. 1881, p. 262 
@@ -27282,7 +27282,7 @@ Abh. Brem. vii. p. 126 (1881), viii. p. 211 (1882); Forbes, Ibis,
 Bias. Joum. f Orn. 1884, p. 229; Rchnw. Joum. f. Orn. 1885, 
 p. 212; Sundev.Ibis, 1886, p. 454; Hartert, Journ.f. Orn. 1886, 
 pp. 570, 598; Rchnw. Joum. f Orn. 1887, pp. 56, 220, 305; 
-Shelley, P. Z. 8.1888, p. 44; Rchnw. Journ. f. Orn. 1890, p. 110. 
+Shelley, P. Z. S.1888, p. 44; Rchnw. Journ. f. Orn. 1890, p. 110. 
 Psittacus guineensis cinereus, Briss. Orn. iv. p. 310 (1760). 
 Perroquet cendr6 de Guinee, D''Aubent. PI. Fnl. 311. 
 Le Jaco, ou Perroquet cendre, Buff. Hist. Nat. Ois. vi. p. 100 (1779). 
@@ -27627,9 +27627,9 @@ h. Ad. sk. Madagascar. Purchased.
 Coracopsis comorensis, Peters, Sitzb. der Berl. Akad. der Wissensch. 
 1854, p. 371; Licht. NomencL Av. p. 71 (1854); Hartl. Journ.f. 
 Orn. 1860, p. 107 ; id. Orn. JBeitr. Faun. Madag. p. 59 (1801): 
-Sclat. Ibis, 1864, pp. 295, 300 ; Sclat. P. Z. 8. 1873, p. 474; Hartl 
+Sclat. Ibis, 1864, pp. 295, 300 ; Sclat. P. Z. S. 1873, p. 474; Hartl 
 Vdg. Madag, p. 230 (1877); E. Newt. P. Z. S.1877, pp. 29G, 302 ; 
-Oust. Bull. JSOC. PMom. (7) ii. p. 165 (1878) ; Shelley, P. Z. 8. 
+Oust. Bull. JSOC. PMom. (7) ii. p. 165 (1878) ; Shelley, P. Z. S. 
 1879, p. G74; Belinw. Journ. f. Orn. 1881, p. 261 (Consp. Psitt 
 
 p. 149); id. Vogelbild. Nachtr. 70 (1883) ; Milne-Edio. et Oust. 
@@ -27743,7 +27743,7 @@ Dasyptilus,
 Wagl. Mon. Psitt. p. 502 (1832) D. pesqueti. 
 Of. Meyer, Mitth. zool. Mm. Dresd. 1875, p, 14; Garrod, 
 
-P. Z. 8. 1876, pp. 691, 692. 
+P. Z. S. 1876, pp. 691, 692. 
 Range. Confined to New Guinea. 
 1. Dasyptilus pesqueti. -
 Psittacus pecquetii, Less. Bull, des 8c. Nat. xxv. p. 241 (Juin 1831); 
@@ -27759,17 +27759,17 @@ Maout, Eist. Nat. Ois. p. 104, pi. 2 (1853); Bp. Rev. et Mag. de
 Zool. 1854, p. 155, n. 248; id. Naumannia, 1856, Consp. Psitt. 
 
 n. 260; G. R. Gr. Cat. B. New Gum. pp. 43, 60 (1859); id. List 
-Psitt. Brit Mus. p. 100 (1859) ; 8clat. P. Z. 8. 1860, p. 227; 
+Psitt. Brit Mus. p. 100 (1859) ; 8clat. P. Z. S. 1860, p. 227; 
 Rosenh. Journ. f. Orn. 1862, p. 65 ; id. Nat. Tijdschr. xxv. pp. 146, 
 147 (1863),- id. Journ. f. Orn. 1864, p. 116, n. 38; Bernst. Nat. 
 Tijdschr. Ned. 2nd. xxvii. p. 297 (1864); id. Ned. Tijdschr. Dierk. 
 ii. p. 327 (1865) ; G. R. Gr. Hand-list, ii. p. 159, n. 8260 (1870); 
 Salvad. AttiR. Ace. 8c. Tor. ix. p. 630 (1874); D'Alb. Nature, 1876, 
 xv. p. 165; Meyer, Mitth. z. Mus. Dresd. i. p. 14 (1875); Rowley, 
-Orn. Misc. i. p. 32 (1875); Garrod, P. Z. 8.1876, p. 691; Meyer, 
+Orn. Misc. i. p. 32 (1875); Garrod, P. Z. S.1876, p. 691; Meyer, 
 Vdgcl-8kelett. i. Taf. i. (1879); Tristr. Cat. Coll. B. p. 78 (1889). 
 Dasyptilus pequeti, Jard. Nat. Libr., Parrots, p. 140, pi. xvii. (1836); 
-WaU. P. Z. 8. 1864, pp. 287, 294. 
+WaU. P. Z. S. 1864, pp. 287, 294. 
 ^Psittrichas pesqueti, Less. Compl. de Buff. ix. p. 199, pi. 25. f. 2 
 
 (1837); id. op. cit. 2nd ed. Ois. p. 603, pi. —. f. 2 (1838). 
@@ -27780,7 +27780,7 @@ Naumannia, 1856, Consp. Psitt. n. 261; G. R. Gr. List Psitt. Brit.
 Mus. p. 100 (1859); Finsch, Papag. ii. p. 323 (1868); 8alvad. 
 Ann. Mus. Civ. Gen. xii. p. 317 (1878). 
 
-Dasyptilus pesqueti, G. R. Gr. P. Z. 8. 1858, p. 195, 1861, p. 437; 
+Dasyptilus pesqueti, G. R. Gr. P. Z. S. 1858, p. 195, 1861, p. 437; 
 Finsch, Papag. ii. pp. 320, 955 (1868); Qieb. Thes. Orn. ii. p. 18 
 (1874); Meyer, 8itzb. Isis Dresd. 1873, p. 76; Beccari, Ann. 
 Mus. Civ. Gen. vii. p. 714 (1875); id. Ibis, 1876, p. 252; 8alvad. 
@@ -28162,7 +28162,7 @@ P. 121 H877^ : Solat P Z fl Ift^ „ 1A«. 7Lr„™ »ra .o 1QW
 
 Meyer, Orn.pentralblatt 1878, pp. 119, 137; Gould, B. New 
 
-(i878-79), iv. p. 69 {1879)]'Fimch, P. Z. 8. 1879, p. 12; &Alb. 
+(i878-79), iv. p. 69 {1879)]'Fimch, P. Z. S. 1879, p. 12; &Alb. 
 
 e Salvad. Ami. Mm. Civ. Gen. xiv. p. 36 (1879); Salvad. A?in. 
 
@@ -28170,16 +28170,16 @@ p. 146 and following
 (1882); Ramsay, Pr. Linn. Soc. N. S. W. vii. p. 33 (1882); 
 Tristr. Ibis, 1882, p. 143; Mmschenbr. Dagboeh, p. 256 (partini) 
 (1883); Finsch, Yog. d. Sildsee, p. 17 (1884) ; Meyer, Zeitschr.f. 
-ges. Orn. i. p. 373 (1884) ; Grant, P. Z. 8. 1887, p. 329, 1888, 
+ges. Orn. i. p. 373 (1884) ; Grant, P. Z. S. 1887, p. 329, 1888, 
 p. 189; Meyer, Yogel-Skelett. t. x., xliv. (1878-89). 
 Eclectus 
-puniceus, Bp. P. Z. 8. 1849, p. 142 (syn. emend.); id. Rev. 
+puniceus, Bp. P. Z. S. 1849, p. 142 (syn. emend.); id. Rev. 
 et Mag. de Zool. 1854, p. loo, n. 235; Rosenb. Nat Tijdschr. Ned. 
 Ind. XXY. pp. 143, 145, 226, n. 20 (1863); id. Joum.f. Orn. 1864, 
 
 p. 114, n. 20. 
 Eub puniceus, Licht. NomencL Av. p. 71 (1854). 
-Polychlorus magnus, 8clat. P. Z. 8. 1857, p. 226, 1860, p. 227 (Arrou 
+Polychlorus magnus, 8clat. P. Z. S. 1857, p. 226, 1860, p. 227 (Arrou 
 Isl.); Marie, Act. Soc. Linn. Bord. xxvii. p. 327 (1870) (Nouvelle 
 Caledonie !); Oust. Bull. Soc. Philom. Paris, 1879, p. 218. ^ 
 Polychlorus grandis, Sclat. (nee Gm.) Journ. Pr. Linn. Soc. ii. 
@@ -28189,7 +28189,7 @@ Eclectus polychlorus, var. aruensis, G. R. Gr. P. Z. S. 1858, p. 183 ;
 id. Cat. B. Netu Guin. pp. 40, 59 (1859); Bemst Nat Tijdschr. 
 Ned. Lnd. xxvii. p. 297 (1864). 
 
-Psittacodis polychloros, G. R. Gr. P. Z. 8. 1858, p. 194. 
+Psittacodis polychloros, G. R. Gr. P. Z. S. 1858, p. 194. 
 Mascarinus polychlorus, Horsf $ Moore, Cat. B. Mus. JE. I Comp. 
 
 ii. p. 625 (1858); Finsch, Ned. Tijdschr. Bierh. i. Berigten, p. xvi 
@@ -28338,13 +28338,13 @@ Vena. Ges. Mus. p. 87 (1844).
 Mascarinus puniceus, Less, (nee Gm.) Tr. d?Orn. p. 188 (1831). 
 Eclectus grandis, Wagl. Mon. Pbitt. p. 572 (1832) ; 8elby, Nat. Libr.y 
 
-Parrots, p. 112 (1836); Bp. P. Z. 8. 1849, p. 143 ; id. Rev. et Mag. 
+Parrots, p. 112 (1836); Bp. P. Z. S. 1849, p. 143 ; id. Rev. et Mag. 
 de Zool. 1854, p. 155, n. 2^6 ; id. Naumannia, 1856, Consp, Psiit. 
 
 n. 244; 8ouance, Bev. et Mag. de Zool. 1856, p. 218; Horsf. fy 
 Moore, Cat. B. Mus. F.I. Comp. ii. p. 624 (1858); G. P. Gr. 
-P. Z. 8. 1860, p. 357; Bernst. Nat. Tijdschr. Ned. Ind. xxvii. 
-p. 295 (1864); Wall. P. Z. 8. 1864, p. 286; Schleg. Mus. P.-B. 
+P. Z. S. 1860, p. 357; Bernst. Nat. Tijdschr. Ned. Ind. xxvii. 
+p. 295 (1864); Wall. P. Z. S. 1864, p. 286; Schleg. Mus. P.-B. 
 Psittaci, p. 38 (1864); Finsch, Papag. ii. p. 340 (1868); Meyer, 
 Zool. Gart. 1874, p. 161; 8chleg. Mus. P.-B. Psittaci, Berne, p. 13 
 (1874); Gieb. Thes. Orn. ii. p. 74 (1875) ; 8alvad. Ann. Mus. Civ. 
@@ -28354,14 +28354,14 @@ Gen. yii. p. 757, n. 6 (nee n. 3), et errata-corrige lin. 17, n. 2
 p. 345; Meyer, Zeitschr. f. wissensch. Zool. xxxvii. p. 156 and 
 following (1882). 
 Eclectus eeylonensis, G. B. Gr. Gen. B. ii. p. 418, n. 2 (1845). 
-Polychlorus magnus, Mat. P. Z. 8. 1860, pp. 226, 227 (partim). 
-Eclectus polychloros, yar., G. B. Gr. P. Z. 8. 1860, p. 358. 
+Polychlorus magnus, Mat. P. Z. S. 1860, pp. 226, 227 (partim). 
+Eclectus polychloros, yar., G. B. Gr. P. Z. S. 1860, p. 358. 
 Psittacodis ruagnis, Bosenb. Joum. f. Orn. 1862, p. 62; id. Nat. 
 
 Tijdschr. Ned. Bid. xxy. pp. 141, 142 (1868\ 
 Eclectus polychlorus, Bernst. (nee 8eop.) Nat. Tijdschr. Ned. Ind. 
 
-xxvii. p. 294 (1864); Wall. P. Z. 8. 1864, p. 286 (partim) ; 
+xxvii. p. 294 (1864); Wall. P. Z. S. 1864, p. 286 (partim) ; 
 8chleg. Mus. P.-B. Psittaci, p. 40 (partim) (1864); Finsch, Papag. 
 ii. p. 333 (paitim) (1868); Merger, Zool. Gart. 1874, p. 161 (partim) 
 j Schleg. Mus. P.-B. Psittaci, Bevue, p. 14 (partim) (1874); 
@@ -28371,10 +28371,10 @@ p. 345 (partim); Musschenhr. in Bernst. Dagboeh, p. 256 (partim)
 Psittacus polychlorus, part., Finsch, Neu-Guin. p. 157 (1865). 
 Eclectus roratus, G. B. Gr. Hand-list, ii. p. 157, n. 8240 (1870) 5 
 
-8alvad. P. Z. 8. 1878, p. 78; id. Orn. Pap. e Mol. i. p. 206 (1880); 
+8alvad. P. Z. S. 1878, p. 78; id. Orn. Pap. e Mol. i. p. 206 (1880); 
 Rchnw. Vogelbild. t. xxvii. f. 6 ( ? ) (1878-83); id. Joum. f. Orn. 
 1881, pp. 252,397 (Consp. Psitt. pp. 140,229) ; Salvad. Vog. ChalL, 
-Birds, p. 59 (1881); Sclat. P. Z. 8. 18b3,p.l96; Meyer, Zeitschr. 
+Birds, p. 59 (1881); Sclat. P. Z. S. 18b3,p.l96; Meyer, Zeitschr. 
 
 394 PSITTACID^}. 
 
@@ -28629,7 +28629,7 @@ Wagl Mon. Psitt. p. 745 (1832).
 ? Eos orientals, G. B. Gr. Gen. B. A pp. p. 20 (1849). 
 Psittacodis westermani, Bp. Oonsp. A v. i. p. 4 (1850) (type examined); 
 
-id. P. Z. 8. 1850, p. 26 (note); id. Compt Bend, xxx. p. 136 (1850); 
+id. P. Z. S. 1850, p. 26 (note); id. Compt Bend, xxx. p. 136 (1850); 
 id. Bev. et Mag. de Zool 1854, p. 155, n. 234; id. Naumannia, 
 1856, Consp. Psitt. n. 241; Souanci, Bed. et Mag. de Zool. 1856, 
 p, 218; Bosenb. Journ.f. Orn. 1862, p. 66; id. Nat. Tijdschr. Ned, 
@@ -28707,7 +28707,7 @@ Eclectus cornelia, Bp. P. Z. S. 1849, p. 143, pi. xi. (type examined);
 id. Compt. Rend. xxx. p. 135 (1850); id. Rev. et Mag. de Zool. 
 1854, p. 155, n. 237; id. Naumannia, 1856, Consp. Psitt. n. 245; 
 
-G. R. Gr. List Psitt. Brit. Mus. p. 66 (1859); Sclat. P. Z. 8. 1860; 
+G. R. Gr. List Psitt. Brit. Mus. p. 66 (1859); Sclat. P. Z. S. 1860; 
 p. 242 j G. R. Gr. P. Z. S. 1860, p. 357 j Rosenb. Nat. Tijdschr. 
 Ned. Ind. xxv. p. 146 (1863); Finsch, Ned. Tijdschr. Dierh. i. 
 Berigten, p. xvii (1863); Wall P. Z. S. 1864, pp. 286, 294 ; 
@@ -28722,7 +28722,7 @@ Psittacus cornelia, Finsch, Neu-Guin. p. 157 (1865).
 31 . GEOFFKOYTTS. 
 399 
 
-Eclectus corneliae, Finsch, Papap. ii. p. 348 (1868); id. P. Z. 8. 1869, 
+Eclectus corneliae, Finsch, Papap. ii. p. 348 (1868); id. P. Z. S. 1869, 
 
 p. 128 ; Meyer, Zool Gart. 1874, p. 161; Qieb. The*. Orn. ii. 
 p. 74 (1875); Forbes, Ibis, 1877, p. 283; Salvad. Ibis, 1877, p. 475 ; 
@@ -28878,11 +28878,11 @@ female simplex, p. 413.
 
 
 1. G-eoffroyus keyensis. 
-Psittacus capistratus, G. R. Gr. (nee Bechst.) P. Z. 8. 1858, pp. 183, 
+Psittacus capistratus, G. R. Gr. (nee Bechst.) P. Z. S. 1858, pp. 183, 
 195 (?); id. Cat B. New Gum. pp. 42, 60 (1859); id. List Psitt 
 Brit Mus.fr 72 (1859); id. P. Z. JS. 1861, p. 437. 
 
-Geoffroyus personatus (part.), Wall. P. Z. 8. 1864, p. 283. 
+Geoffroyus personatus (part.), Wall. P. Z. S. 1864, p. 283. 
 Psittacus rhodops (part.), Finsch, Neu-Guin. p. 156 (1865). 
 Geoffroyus capi&tratus, Rosenb. (nee Bechst) Rets naar Zuidoostereil. 
 
@@ -28895,7 +28895,7 @@ id. Mus. P.-P. Psittaci, Revue, p. 18 (partim) (1874).
 Pionias rhodops (part.), Finsch, Papag. ii. pp. 380, 955 (1868). 
 
 Geoffroyus keyensis, Schleg. MS. (Finsch, Papag. ii. p. 956) (1868); 
-Salvad. Ann. Mus. Civ. Gen. x. p. 29, n. 37 (1877); id. P. Z. 8. 
+Salvad. Ann. Mus. Civ. Gen. x. p. 29, n. 37 (1877); id. P. Z. S. 
 1878, p. 86; id. Ann. Mus. Civ. Gen. xiv. p. 638 (1879) ; id. Orn. 
 Pap. e Mol. i. p. 173 (1880); id. Voy. ChalL, Birds, p. 67 (1881); 
 Bilttik. Not. Leyd. Mus. viii. p. 61 (partim) (1886); Salvad. Mem. 
@@ -28998,13 +28998,13 @@ Geoffroyus personatus, Bp. Consp. Av. i. p. 0 (I8o0); id. lieu, et
 Mag. de ZooL 1854, p. 155, n. 227 ; ? Souancf, Iter, et Mag. de 
 ZooL 1856, p. 217; Bp. KawMnni«j\8oi>, Consp. Psitt. ii. 234; 
 Mosenb. Joum. f. Orn. 1802, p. 06 (Timor); id. Nat. Tydsclir. 
-Ned. Lid. xxv. p. 140 (Timor) (1803); Wall, P. Z. 8. 180 i, pp. 283, 
+Ned. Lid. xxv. p. 140 (Timor) (1803); Wall, P. Z. S. 180 i, pp. 283, 
 293 (partim); Salvad. Ann. Mus. Civ. Gen. (2) ix. p. 479 (1890) 
 (Timor, Pulo Semau). 
 
 Psittacus jukesii, G. P. Gr. List Psitt. Brit. Mus. p. 72 (Timor) 
 (1859). 
-Geoffroyus juke&ii, Sclat. P. Z. 8. 1800, p. 226 (Timor); Wall. P. 
+Geoffroyus juke&ii, Sclat. P. Z. S. 1800, p. 226 (Timor); Wall. P. 
 
 Z. 8. 1863, p. 484 (Timor). 
 Eclectus personatus (part.), Schleg. Mus. P.-B.Psittaci, p. 42 (Timor) 
@@ -29053,7 +29053,7 @@ lurcliafeod.
 PSITTACID2E. 
 
 4. (xeoffroyus aruensis. 
-Psittacus aruensis, G. R. Gr. P. Z. 8. 1858, pp. 183, 196; id. Cat B. 
+Psittacus aruensis, G. R. Gr. P. Z. S. 1858, pp. 183, 196; id. Cat B. 
 Neio Gain, pp. 42, 60 (1859); id. List Psitt. Brit Mus. p. 72 
 (1859); id. P. Z. S. 1861, p. 437. 
 
@@ -29156,8 +29156,8 @@ Geotfroyus fuscicapillus. Pp. Pev. et Mag. de Zool 1854, p. 155,
 n. 230; id. Naumannia, 1856, Co?isp. Psitt n, 235. 
 Geoftroyus personatua (part.), Souance, Pev. et Mag. de Zool. 1856, 
 p. 217; ticket P. Z. ti. 1860, p. 226 (Amboyna); Posenb. Journ.f. 
-Om. 1862, pp. 61, 62 (Amboyna, Ceram); Wall. P. Z. 8. 1863, 
-p. 19 (Bouru, Amboyna, Ceram, Goram); id. P. Z. 8.1864, p. 283 
+Om. 1862, pp. 61, 62 (Amboyna, Ceram); Wall. P. Z. S. 1863, 
+p. 19 (Bouru, Amboyna, Ceram, Goram); id. P. Z. S.1864, p. 283 
 (part). 
 Psittacus rliodops, G. P. Gr. P. Z. ti. 1861, p. 436 (descr. nulla); 
 Finsch, Neu-Guin. p. 156 (part.) (1865). 
@@ -29178,7 +29178,7 @@ Geoffroy rhodops, G. Ii. Gr. Hand-list, ii. p. 160, n. 8271 (1870)
 Geoffroy fuscicapillus, G. P. Gr. op. cit. no. 8276 (1870). 
 Geoftroyus rliodops, tialvad. A?in. Mus. Civ. Gen. viii. p. 369 (1876) 
 
-(Bouru); id. P. Z. 8. 1878, p. 80; id. Orn. Pap. e Mol. i. p. 179 
+(Bouru); id. P. Z. S. 1878, p. 80; id. Orn. Pap. e Mol. i. p. 179 
 (1880); id. Voy. ChalL, Birds, p. 61 (1881); Bias. u. Nehrlc. Verh. 
 z.-b, Ges. Wien, 1882, p. 414; Bihttik. Not Leijd. Mus. viii. p. 61 
 (1886); Salvad. Mem. P. Ac. 8c. Tor. (2) xl. p. 163 (1889); 
@@ -29263,7 +29263,7 @@ Gould CoU.
 Tweeddale Coll. 
 
 6. Greoffroyns floresianus. 
-GeofTroytts jukesii (part.), Wall P. Z. 8. 1863, p. 484 (Flores). 
+GeofTroytts jukesii (part.), Wall P. Z. S. 1863, p. 484 (Flores). 
 Geoffroyus personatus (part.), Wall. P. Z. S. 1864, pp. 283, 293 
 (Flores); Tristr. (nee Shaw) Cat. Coll. B. p. 79 (1889). 
 
@@ -29539,9 +29539,9 @@ Geoffroyus cyanicollis, Bp. Consp. i. p. 6 (1850); id. Compt. Rend.
 
 xxx. p. 137 (1850) ; id. Bev. et Mag. de ZooL 1854, p. 155, n. 288 * 
 id. Naumannia, 1856, Consp. Psitt. n. 238; SouancL Bev et Mao 
-deZool 1856, p. 218; Sclat. P. Z. 8. 1860, p. 227; Bosenb Journ 
+deZool 1856, p. 218; Sclat. P. Z. S. 1860, p. 227; Bosenb Journ 
 f. Orn. 1862, p. 62; id. Nat. Tijdschr. Ned. Ind. xxv. pp 14J* 
-142 (1863); Wall. P. Z. 8. 1864, p. 283; 8alvad. Ann. Mm. Civ 
+142 (1863); Wall. P. Z. S. 1864, p. 283; 8alvad. Ann. Mm. Civ 
 31. aEQjraoYus. 
 411 
 
@@ -29635,7 +29635,7 @@ f. l(rf), 3($) (1846).
 Psittacus heteroclitus,^. R. Gr. Gen. B. ii. p. 421, n. 8 (1846) $ id. 
 List Psitt. Brit Mm. p. 73 (1859). 
 Pionus heteroclitus, Jacq. et Pucker. Voy. Pdle Sud, iii. p. 103 (c?) 
-(1853); Marti. Journ.f. Orn. 1854, p. 165; Sclat. P. Z. 8. 1869, 
+(1853); Marti. Journ.f. Orn. 1854, p. 165; Sclat. P. Z. S. 1869, 
 
 p. 118; ? Finsch, Ibis, 1881, p. 538. 
 Pionus cyaniceps, Jacq. et Pucker. Voy. Pole Sud, Zool. i. p. 105 ( $ ) 
@@ -29655,7 +29655,7 @@ pp. 138,143; Grant, P. Z. S. 1887, p. 329, 1888, p. 189; Salvad.
 Mem. R. Ac. So. Tor. ser. 2, xl. p. 164 (1889); Tristr. Cat ColL 
 B. pp. 78, 79 (1889). 
 Geoffroyus cyaniceps, Bp. Rev. et Mag. de Zool 1854, p. 155, n. 229 
-bis; Sclat. P. Z. 8. 1877, p. 107 (New Britain), 1878, p. 672 (New 
+bis; Sclat. P. Z. S. 1877, p. 107 (New Britain), 1878, p. 672 (New 
 Britain). 
 
 Psittacus (Geoffroy) heteroclitus, G. R. Gr. Cat. B. Trop. Isl p. 34 
@@ -30071,7 +30071,7 @@ Prioniturus discurus, G. R. Gr. List Psitt. Brit. Mus. p. 18 (1859;
 Philippine Isl.); Sclat. P. Z. & I860, p. 224; Gould, B. of Asia, vi. 
 j)l. 15 (pt. xiv., 1862); v. Mart. Journ.f. Orn. 1866, p. 22 ; Wald. 
 Tr. ZooL Soc. ix. pp. 132, 249 (part.) (1875); Sharpe, Tr. Linn. 
-JSoc. (2) ZooL i. p. 312 (1876); Tweedd. P. Z. 8. 1877, pp. 538, 
+JSoc. (2) ZooL i. p. 312 (1876); Tweedd. P. Z. S. 1877, pp. 538, 
 756, 817, 1878, pp. 379, 937, 1879, p. 68; Tweedd. Voy. ChalL, 
 Birds, p. 9 (1881); id. Orn. Works, pp. 300 (part.), 410, 461, 462, 
 5<*10, 544, 602, 628, 646 (1881); WardL-Bams., Tweedd. Orn. 
@@ -30082,7 +30082,7 @@ Cat. Coll. B. p. 75 (1889); Steere, List, p. 6 (1890).
 
 Prioniturus spatuliger, G. R. Gr. List Psitt. Brit. Mus. p. 18 
 (Manilla) (1859); Gould, B. of Asia, vi. pi. 14 (pt. xiv., 1862) ; 
-Wall. P. Z. 8.1864, p. 294; Mart. Journ.f. Orn. 1866, p. 22. 
+Wall. P. Z. S.1864, p. 294; Mart. Journ.f. Orn. 1866, p. 22. 
 
 Prioniturus, sp., Wall. P. Z. S. 1864, p. 284. 
 Pionias discurus, Finsch, Papag. ii. p. 401 (1868) ; Gieh. Thes. Orn. 
@@ -30473,7 +30473,7 @@ PSITT ACID J3.
 
 Gen. viii. p. 369 (1870) (Bouru); id. Orn. Pap. e Mol. i. p. 133 
 (1880); liclmw. Joum.f. Orn. 1581, p. 244 (Consp. Psitt. p. 132) ; 
-id. Voqelbild. Nachtr. (51 (1883); Forbes, P. Z. 8. 1883, p. 589; 
+id. Voqelbild. Nachtr. (51 (1883); Forbes, P. Z. S. 1883, p. 589; 
 #«&>«& ifcfm. 22. -4C. £e. Tor. ser. 2, xl. p. 158 (1889). 
 
 Female. Green, underparts slightly more yellowish. ; pileum 
@@ -30938,22 +30938,22 @@ xxx. p. 136 (1850); id. Rev. et Mag. de Zool. 1854, p. 153, n. 155;
 SouancS, Rev. et Mag. de Zool. 1856, p. 209; Bp. Naumannia, 
 1856, Consp. Psitt. n. 155; SouancS, Icon. Perr. pi. 45 (1857); 
 Selat. P.Z.8. 1857, pp. 225,226; G. R. Gr. List Psitt. Brit. 
-Mus. p. 68 (1859) ; Selat. P. Z. 8.1860, p. 226; Rosenb. Joum. f. 
+Mus. p. 68 (1859) ; Selat. P. Z. S.1860, p. 226; Rosenb. Joum. f. 
 Orn. 1862, p. 6; id. Nat. Tijdschr. Ned. Ind. xxv. p. 139 (1863); 
 Finsch, Ned. Tijdschr. Dier7i. i. Berigt p. xvii (1863); Wall. 
 P.Z.8. 1864, pp. 286, 294; Finsch, Neu-Guin. p. 157 (1865); 
 Soma, Mus. Nac. Lisb. Psittaci, p. 16 (1869) ; G. R. Gr. Handlist, 
 ii. p. 158, n. 8249 (1870); Wald. Ibis, 1872, p. 116; id. 
-Trans. Zool. Soc. viii. p. 31 (1872); Garrod, P. Z. 8. 1873, p. 634, 
+Trans. Zool. Soc. viii. p. 31 (1872); Garrod, P. Z. S. 1873, p. 634, 
 1874, p. 587; Sulvad. Ann. Mus. Civ. Gen. vii. p. 644 (1875), ix. 
-p, 53 (Sanghir) (1876) ; Forbes, P. Z. 8.1877, p. 307 ; Lent, Joum. 
+p, 53 (Sanghir) (1876) ; Forbes, P. Z. S.1877, p. 307 ; Lent, Joum. 
 f. Orn. 1877, p. 361; Meyer, Ibis, 1879, p. 47 ; Schmidt, P. Z. S. 
 1880, p. 310 ; Salvad. Orn. Pap. e Mol. i, p. 135 (1880) ; Tweedd. 
 Orn. Works,-p. 135 (1881) -'Rchniv. Vogelbild. t. xxvii. £ 9 (187883) 
 ; id. Journ.f. Orn. 1881, p. 245 (Consp. Psitt. p. 133); Selat. 
 List Vert. An. 8th ed. p. 325 (1883); Bias. Journ.f. Orn. 1883, 
 p. 134; Meyer, Sitzb. u. Abh. Ges. Ms, 1884, Abh. i. p. 6; 
-Gidllem. P. Z. 8.1885, p. 542 (Talisse Isl., N. Celebes); Dallwitz, 
+Gidllem. P. Z. S.1885, p. 542 (Talisse Isl., N. Celebes); Dallwitz, 
 Joum. f. Orn. 1885, p. 103; Bias. Zeitschr. f. ges. Orn. 1885, 
 p. 209,1886, p. 206; id. Ornis, iv. p. 556 (1888); Tristr. Cat. 
 Coll B. p. 76 (1889); Hickson. Natural, in N. Celebes, pp. 59, 8Q, 
@@ -30961,7 +30961,7 @@ Coll B. p. 76 (1889); Hickson. Natural, in N. Celebes, pp. 59, 8Q,
 Tanygnathus albirostris, Wall. P.Z.8. 1862, p. 336 (Celebes and 
 Sula Islands), 1864, pp. 286, 294; Finsch, Neu-Guin. p. 157 
 (1865); Selat P. Z. S. 1868, p. 262,1871, p. 494; Garrod, P. Z. S. 
-1876. p. 692; Tweedd. P. Z. 8. 1877, p. 818; Salvad. Orn. Pap. e 
+1876. p. 692; Tweedd. P. Z. S. 1877, p. 818; Salvad. Orn. Pap. e 
 Mol. i. p. 135 (1880); Tweedd. Orn. Works, p. 544 (1881) ; 
 Rchnw. Joum. f. Orn. 1881, p. 246 (Consp. Psitt. p. 246) (syn. 
 emend.) ; id. Vogelbild. text of pi. xxvi. f. 9 (1878-83); Selat!List 
@@ -31057,7 +31057,7 @@ Tanygnathus niiilleri, part., Wald. Tr. Zool. Soc. viii. p. 31 (1872).
 Tanygnathus everetti, Ticeedd. Ann. § Mar/. X. H. (4) xx. p. 533 
 (1877) (Butuan, N. .Mindanao); id. P. Z. S. 1877, p. 818 : Sharpe, 
 
-P. Z. 8. 1879, p. 314 ; Ticeedd. Orn, WorJcs, pp. 544, 561 (1881) ; 
+P. Z. S. 1879, p. 314 ; Ticeedd. Orn, WorJcs, pp. 544, 561 (1881) ; 
 Wardl. Puims. Ticeedd. Orn. Wor7cs,yrQ- 655, 670 (1881) : Rchnio. 
 Journ. f. Orn. 1881, p. 240 (Consp. Psitt. p. 134); id. Voyelhild 
 text of pi. xxvii. f. 9 (1878-83); Steere, List, p. 6 (1890). 
@@ -31105,10 +31105,10 @@ Zoological Society.
 Massena Coll. 
 
 8. Tanygnathus burbidgei. (Plate XL) 
-Tanygnathus burbidgei, Shmye, P. Z. 8. 1879, p. 313 (Sulu Islands); 
+Tanygnathus burbidgei, Shmye, P. Z. S. 1879, p. 313 (Sulu Islands); 
 Pchmv. u. Schal. Jovrn. f. Orn. 1879, p. 427 : Wardl. Hams. 
 Ticeedd. Orn. Works, p. 655 (1881); id. Ibis, 1884, p. 470; 
-Guillem. P. Z. 8. 1885, p. 252 (Sulu Islands). 
+Guillem. P. Z. S. 1885, p. 252 (Sulu Islands). 
 
 Tanygnathus albirostris, part., Rchnw. Journ. f. Orn. 1881, p. 246 j 
 id. Consp. Psitt. p. 134 (1881). 
@@ -31376,7 +31376,7 @@ Finsch, Ned. Tijdsehr. Bierk. i. Berigt. p. ix {partim) (1803);
 >S'e£%. ifeTw*. P.-U. Psittaci, p. 16 (partim) (1564): >S**ma. Mu<. 
 Nac. Lisb. Psittaci, p. 14 (lb09); Eoldsio. P. Z. S. 1^72, p. 425 
 (Ceylon only); Eutt Sir. Feath. i. p. 333 (1873): ? Garrod, 
-P. Z. 8. ISTS, p. 465, 1874, p. 587; Legge, Ibis, LH74, p. 14 
+P. Z. S. ISTS, p. 465, 1874, p. 587; Legge, Ibis, LH74, p. 14 
 (Ceylon); ? Schleg. Mus. P.-B. Psittaci, Revue, p. 35 (1&74); 
 PGtoJZw. P. Z. &'l875, p. 489; Schmidt, P. Z. ff. 1880, p. 300; 
 Scfcrt. £w$ fan?. An. 8th ed. p. 320 (partim r) (1883). 
@@ -31751,7 +31751,7 @@ v". (S ad. sk. Tsitkan, Upper Burmah. Feb.
 to". Ad. sk. Cambodia "". 
 
 4. Palseornis magnirostris. 
-Palseornis alexauclri, Blyth (nee aitct.), J. A. 8. B. xxviii. p. 413 
+Palseornis alexauclri, Blyth (nee aitct.), J. A. S. B. xxviii. p. 413 
 (1859) (Audamans); Ibis, I860, p. 187; Blyth, Ibis, 1863, p. 1 
 (Andaman Islands only), p. 869, 18iit>, p. 358; Beat, (/tec Linn) 
 Ibis, 1867, p. 319 (Ai.daman Isl.); Ball. Str. FeatL i. p. UO (1*72; 
@@ -31822,7 +31822,7 @@ Coll.
 
 5. Palseornis wardi. 
 Palseornis wardi, 
-E. Newt. P. Z. 8. 1867, p. 346; id. Ibis, 1867, 
+E. Newt. P. Z. S. 1867, p. 346; id. Ibis, 1867, 
 pp. 341, 359; Finsch, Papag. ii. p. 945 (1868); Schley, et Poll, 
 Rech. Faun. Madag. p. 157 (1868); G. R. Gr. Hand-list, ii. 
 
@@ -32055,7 +32055,7 @@ p. 15 (1869); G. P. Gr. Hand-list, ii. p. 143, n. 8060
 Palseornis freoatus (part.), Liclit. Nomencl. Av. p. 71 (1854). 
 Palseornis torquata, Beav. Ibis, 18(39, p. 410; Bayard, Ibis, 1869, 
 
-p. 45(5 (\ar.); Garrod, P. Z. 8. 1873, p. 634,1874, p. 587; Parker, 
+p. 45(5 (\ar.); Garrod, P. Z. S. 1873, p. 634,1874, p. 587; Parker, 
 Ibis, 1883, p. 193. 
 Adult male. Green ; the hind part of the head with a bluish tinge 5 
 a black line from the nostrils to the eye; a rose collar encircling 
@@ -32984,7 +32984,7 @@ pp. 9,16 (1874), iii. p. 56 (1875); Armstr. Btr. Feath. iv. p. 308
 (1876); Hume, Sir. Feath. v. p. 21 (1877); Oates, Str. Feath. \ ii. 
 p. 46 (1878). 
 Paweornis cyanocephalus (part.), Blyth, Cat. B. Mtis. A. S. B. p. 5, 
-n. 21 (1849); Gould, P. Z. 8. 1859, p. 150 (Tavoy), p. 151 
+n. 21 (1849); Gould, P. Z. S. 1859, p. 150 (Tavoy), p. 151 
 (Siam): Finseh, Papag. ii. p. 40 (part.) (1868); Wald. Ibis, 
 1874. p. 284 (part.); Blyth $ Wald. B. of Burmdh, p. 55 (1875); 
 454 PSITTACllLffi. 
@@ -33286,15 +33286,15 @@ B. H. Hodgson, E,M|.
 "P.". 
 11. Palseornis schisticeps. 
 Palaeornis schisticeps, Hodgs. As. Res. six. p. 178 (1836): Bhjih, 
-J. A. 8. B. x. p. 925 (1841); Hodgs. Grays Zool. Misc. p. 63 
+J. A. S. B. x. p. 925 (1841); Hodgs. Grays Zool. Misc. p. 63 
 (1844); Earth 8yst. Terz. Ges. Mm. p. So (1844); Gray, Cat. 
 Hodgs. Coll B. Mm. p. 113 (184<»): Blyth. Cat. B, Mv*. A. 8. B. 
 p. 5 (1849); G. R. Gr. Gen. B. App. p. 19 (1849); Blytk, 
-J. A. 8. B.xix. p. 232 (1850); Bp. Rev. et Mag. de Zool 1N>4, 
+J. A. S. B.xix. p. 232 (1850); Bp. Rev. et Mag. de Zool 1N>4, 
 p. 152, n. 143 ; 8ouance, Be v. et Mag. de Zool 1850, p. ]•> ; Bp. 
 Naumannia, 1856, Consp. Psitt. n. 141; Horsf. £ Moore. Cat. B. 
 Mus. E. I. Comp. ii. p. 615 (1856-58); Gould, B. of Asia, \i. pi. b 
-(pt. x., 1858) ; Adams, P. Z. 8. 1858, p. 491, 1859. p. 173; G. B. 
+(pt. x., 1858) ; Adams, P. Z. S. 1858, p. 491, 1859. p. 173; G. B. 
 Gr. List Psitt. Brit. Mm. p. 22 (1859); 8ouance, Icon. Terr. pi. 43 
 (c?) (1859); Jm7. B. of Bid. i. p. 201 (1802); BhjtJi, Ibis, IKft, 
 p. 4; Gray, Ctaf. Hodgs. Coll B. 3Ius. 2nd ed. p. 61 (1803); 
@@ -33303,7 +33303,7 @@ j^er, P. £. & 1866, p. 568; Beav. Ibis, 1867, p. 142; ? ,SW^.
 Ibis, 1867, p. 389; Blytli, Ibis, 1868, p. 132; Peh. Joura. f. Ora. 
 1868, p. 35; Ttjtler, ibis, 1868, p. 201; Peh. Ibis, 1808, p. 319 ; 
 Brooks, Ibis, 1869, p. 47; Beav. Ibis, 1869, p. 411; G. It Gr. 
-Sand-list, ii. p. 142, n. 8055 (1870); ? Swinh. P. Z. 8. 1871, 
+Sand-list, ii. p. 142, n. 8055 (1870); ? Swinh. P. Z. S. 1871, 
 p. 391 (Upper I angtsze): Jerd. Ibis, 1872, p. 6: Hume, &tr. Feath. 
 ii. ^ p. 17 (1874); Wald. Ibis, 1S74, p. 286: 8vMeg. Mus. P.-B. 
 Psittaci, Revue, p. 35 (1874); Hume, Str. Feath. viii. p. 86, n, 
@@ -33639,8 +33639,8 @@ Mon. Psitt p/519 (1832) ; Lear, Parr, pi. 31 (1832); Jercl Made.
 Joum. si. p. 209, pi. 3 (1840): id. TIL Lid. Orn. pi. 18 (1847): 
 Hartl. Syst Verz. Ges. Mus. p. 85 (1844); G. B. Or. Gen. B. Ii. 
 
-p. 410, n. 9 (1846); Blyth. J. A. 8. B. xvi. p. 475 (1847): id. Cat. 
-B. Mas. A. 8. B. pp. 5, 316 (1849): id. J. A. 8. B. xlx. p. 204 
+p. 410, n. 9 (1846); Blyth. J. A. S. B. xvi. p. 475 (1847): id. Cat. 
+B. Mas. A. 8. B. pp. 5, 316 (1849): id. J. A. S. B. xlx. p. 204 
 (1850); Bp. Bet. et 3Iag. de Zool '18-54, p. 152, n. 144: Souanri. 
 Bev. et Mag. de Zool. 1856, p. 158; Bp. Xaumanuia, 1856, Consp. 
 Bsitt. n. 143; Horsf. $ Moore, Cat B. Mm. E. I. Comp. ii. p. 614 
@@ -33658,7 +33658,7 @@ Ibis, 1880, p. 284 (Ceylon!); Tweedd. Orn. Works, p. 2h2 (Ib^l);
 8th ed. p. 322 (1883): Tristr. Cat Coll. B. p. 75 (1889): Murr. 
 Avif. of Brit hid. ii. p. 465 (1890); Gates, Nests $ Eggs hid. B. 
 iii. p. 89 (1890). 
-Palseornis nielanorhynchus, SyJces {nee Wagl), P. Z. 8.1832. p. 90 
+Palseornis nielanorhynchus, SyJces {nee Wagl), P. Z. S.1832. p. 90 
 Psittaeus (Oonurus) hinialavanus, Less, tn BHanger, Toy. aux Ind.7 
 Zool. p. 239 (1834). 
 Oonurus sagittifer colomboides, Bourj. Perr. pis. 3 ($), 3 bis ( J ) 
@@ -33858,9 +33858,9 @@ Nevill).
 h'. Ad. sk. Gould Coll. 
 
 16. Palaeorais derbyana. 
-Pal&ornis derbyanus, Fraser, P. Z. 8. 1850, p. 245, pi. 25; Gould, 
+Pal&ornis derbyanus, Fraser, P. Z. S. 1850, p. 245, pi. 25; Gould, 
 B. of Asia, vi. pi. 9 (pt. x., 1858); G.B. Gr. List Psitt. Brit. Mas. 
-p. 2o (1859); Blyth, Ibis, 1866, p. 353,1873, p. 79; Swinh. P. Z. 8. 
+p. 2o (1859); Blyth, Ibis, 1866, p. 353,1873, p. 79; Swinh. P. Z. S. 
 1873, p. 690 (Moupin); Hume, 8tr. Feath. ii. p. 9 (1874); Blyth, 
 B. of Burma, p. 54 (note) (1875); ? David et Oust. Ois. Chin. 
 p. 1, pi. 1 (1877); Hume, 8tr. Feath. vii. p. 164 (1878); Bchmo. 
@@ -33978,13 +33978,13 @@ Mustachoe Parrakeet, Lath. Gen, Hist. ii. p. 162 (1822).
 Mustachoe Parrakeet, var. B, Lath. Gen. Hist. ii. p. 163 (1822). 
 Paheornis pondicerianus (part.), Vig. Zoot Journ. ii. p. 54 (1825); 
 8teph. Gen. Zoot xiv. 2, p. 128 (partim) (1826); Wagt Mon. 
-Psitt p. 512 (partim) (1832); Horsf. P. Z. 8. 1839, p. 165McClelt 
-P. Z. 8.1839, p. 165; Hodgs. Gray's Zoot Misc. p. 85 
+Psitt p. 512 (partim) (1832); Horsf. P. Z. S. 1839, p. 165McClelt 
+P. Z. S.1839, p. 165; Hodgs. Gray's Zoot Misc. p. 85 
 (1844); G. K Or. Gen. B. ii. p. 410, n. 12 (partim) (1846); id. 
-Cat. Hodr/s. Coll. Brit. Mus. p. 113 (1846); Blyth, J. A. 8. B. xv. 
+Cat. Hodr/s. Coll. Brit. Mus. p. 113 (1846); Blyth, J. A. S. B. xv. 
 
 p. 24 (1846), xvi. p. 745 (1847); id. Ann. $ May. N. H. xx. p. 386 
-(1847); Brehm, Thierleb. iii. p. 70 (1865); 8chmidL P. Z. 8.1880, 
+(1847); Brehm, Thierleb. iii. p. 70 (1865); 8chmidL P. Z. S.1880, 
 
 p. 310, 
 ' 
@@ -34081,7 +34081,7 @@ Palasomis melanorhyncha, Sclat P. Z. S. 1871, p. 771; Blyth, Ibis,
 
 1873, p. 79; Sclat P. Z. & 1878, p. 999. 
 Palfflomis ponticerianus, Blyth, Ibis, 1878, p. 79. 
-Palasomis schisticeps, Sclat. (nee Hodgs.) P. Z. 8. 1876, p. 696. 
+Palasomis schisticeps, Sclat. (nee Hodgs.) P. Z. S. 1876, p. 696. 
 Palasomis fasciata, Salvad. Ann. Mus. Civ. Gen. (2) iv.p. 574 (1887), 
 
 v. p. 559 (1888), vii. p. 376 (1889). 
@@ -34513,15 +34513,15 @@ g, k Imm. sk. Java. Tweeddale Coll.
 i} h. Skeletons. 
 
 19. Palseornis caniceps* 
-Palseomis caniceps, Blyth, J. A. 8. B. xv. pp. 23, 51, 368 (1846); id. 
-Cat. B. Mm. A. 8. B. p. 6 (1840): id. J. A. 8. B. xix. p. 233 
+Palseomis caniceps, Blyth, J. A. S. B. xv. pp. 23, 51, 368 (1846); id. 
+Cat. B. Mm. A. 8. B. p. 6 (1840): id. J. A. S. B. xix. p. 233 
 (1850); Bp. Ret. et Mag. de Zool. 1854, p. 152, n. 146; Hartl 
 Joum.f. Orn. 1854, B. p. Ixiii; Borsf. $ Moore, Cat. B. Mm. E. 
 
 I. Comp. p. 621 (1856-58); Gould, B. of Asia, vi. pi. 5 (pi ix., 
-1857); Moore, P. Z. 8.1859, p. 454: G. R. Gr. List Psitt. Brit. 
+1857); Moore, P. Z. S.1859, p. 454: G. R. Gr. List Psitt. Brit. 
 Mas. p. 25 (1859); Jerd. B. of hid. i. p. 264 (1862): Blyth, 
-Ibis, 1863, p. 5 ; Wall. P. Z. 8. 1864, pp. m, 292; Pet. Nor am 
+Ibis, 1863, p. 5 ; Wall. P. Z. S. 1864, pp. m, 292; Pet. Nor am 
 Reis., Yog. p. 98 (1865); Finsch, Papag. ii. p. 83 (1868); Blyth, 
 Ibis, 1873, p. 80 (note); Ball, 8tr. Feath. i. p. 61 (1873); Ilmne, 
 Sir. Feath. ii. pp. 25,178 (1874); Wald. Ibis, 1874, p. 296; Bbfth, 
@@ -34678,7 +34678,7 @@ id. J. A. S.B. xix. p. 233 (1650); Ilorsf. £ Moore, Cat. B. Mus.
 E. I. Comp. ii. p. 620 (1856-58); Blyth, J. A. S. B. xxui. p. fel 
 (1858); G. B. Gr, List PM. Brit/Mus. p. 23 (1859|; Blyth 
 Ibis, 1863, pp. o, 465 (partim), 1868, p. 132; Firtseh, Papaq. ii. 
-p. 81 (partim) (1868); Ball, J. A. 8. B. xxxix. p. 30 (partim) 
+p. 81 (partim) (1868); Ball, J. A. S. B. xxxix. p. 30 (partim) 
 (1870); id. JStr. Feath.i. p. 601 (partim) (1873); !* Blyth, Ibis, 1*73, 
 p. 80 (note); Hume, Sir. Feath. ii. pp. 23,181 (1674); Garrod, 
 P/. 
@@ -34792,7 +34792,7 @@ Palseornis aiftnis, fi/tler (nee Gould), MS.; Bear. Ibis, 1^07, pp. 320,
 ii. pp. 9, 24, 184 (1874) { Wald. Ibis, 1874, p. 290. 
 Belocercus erytbrogenys, part., G. R. Gr. Hand-list, ii. p. 143, 
 n. 8005 (1890). 
-Palseornis tytleri, Hume, J. A. 8. B. 1874. p. 108; id. Str. Feath. ii. 
+Palseornis tytleri, Hume, J. A. S. B. 1874. p. 108; id. Str. Feath. ii. 
 p. 454 (1874), viii. p. S7, n. 152 ter (1879) ; Tri<tr. Cat CoH. B. 
 p. 75 (1889). 
 Adult male. Eesembles tbe male of P. nicoharica, but it is somewhat 
@@ -34875,26 +34875,26 @@ Midi £ Schleg. Verh. Land- en VoZkenh pp. 108,377, 381 (183944).
 Palseornis malaccensis, 
 Via. Zool. Journ. ii. p. 52 (1825); 8teph. 
 Gen. Zool xiv. 2, p. 127 (1826); WagL Mon. Psitt. p. 514 (1832); 
-8elby, Nat. Libr., Parrots, p. 75, pi. 3 (1S36); 8trieU. P. Z. 8.1812, 
+8elby, Nat. Libr., Parrots, p. 75, pi. 3 (1S36); 8trieU. P. Z. S.1812, 
 
-p. 168; Blgth, J. A. 8. B. xi. p. 788 (1842); Hartl. 8yst. Verz. 
+p. 168; Blgth, J. A. S. B. xi. p. 788 (1842); Hartl. 8yst. Verz. 
 Ges. Mus. p. 85 (1844); Blyth, Cat. B. Mus. A. 8. B. p. 5 (1849); 
 id. J. A. 8 B. six. p. 233 (1850); Mottl § Dilho. Contr. N. II. of 
 Lab. p. 26 (1855); Gould, B. of Asia, vi. pi. 10 (pt. x., 1858); Pelz. 
 Novara Reis., Vd'g. pp. 97,162 (1865). 
 Conurus erythrogenys, Less. Tr. WOrn. p. 215 (1831) 5 Pitcher. Rev. 
-et Mag. de Zool. 1853, p. 163 ; 8clat. P. Z. 8. 1860, p. 71. 
+et Mag. de Zool. 1853, p. 163 ; 8clat. P. Z. S. 1860, p. 71. 
 Psittacus (Belocercus) barbatulatus, Mull. § Schleg. Verh. Land-en 
 Volhenh. pp. 107, 471 (1839-44). 
 
 Pakeomis 
 longicauda, G. P. Gr. Gen. B. ii, p. 410, n. 10 (1846); 
 Horsf. # Moore, Cat. B. Mm. E. I Comp. ii. p. 618 (1S56S&); 
-Moore, P. Z. 8. 1859, p. 453; 8ioinh. P. Z. 8. 1870, p. 427, 1871, 
+Moore, P. Z. S. 1859, p. 453; 8ioinh. P. Z. S. 1870, p. 427, 1871, 
 
 476 PSITTACIDJ3. 
 
-p. 391; Salvad. Ucc. Bom. p. 22 (1874) ; Sharp* P. Z. 8. 1875, 
+p. 391; Salvad. Ucc. Bom. p. 22 (1874) ; Sharp* P. Z. S. 1875, 
 p. 104 (Labuan); id. Ibis, lb77? p. 9; Bruggem. Abk. Bremen, v. 
 p. 454 (1877), p. 527 (1878); David et Oust Ois. Chine, p. 3 
 (1877); thcnpe, P.Z.8. 1879, p. 825: Hume, 8tr. Feath. viii. 
@@ -34907,7 +34907,7 @@ xhx. p. 388 (1889J; ? Hartert, Joum.f Orn. 1889, p. 373 ; Ei * ntt,
 Journ. Sir. Br. R. As. &x?.1889,p. 177; 8harpe,Ik\ 1890, p. 1 : 
 Vorderm. Eat. Tijdschr. Eed. Ind. 1. p. 418 (1890). 
 Palaeornis longicaudus, G. B. Gr. List Bsitt. Brit Mvb. p. 22 
-(1859); Blyth, Ibis, 1863. p. 5 (svn. emend.): 3Mrf. P. Z. 8. 
+(1859); Blyth, Ibis, 1863. p. 5 (svn. emend.): 3Mrf. P. Z. S. 
 1603, p. 207; 7F?///. P. £. 6*. 1864.'pp. '282, 293; &#/<//. J/i/s, 
 P.-P. Psittaci, p. 84 (1864); id. op. eit. Berne, p. 36 11874); 
 Garrod, B.Z. 8. 1874, p. 587 ; Tridr. Cat Coll B. p. 75 <1N?0J. 
@@ -34919,7 +34919,7 @@ Souance, Bev. et Mag. de Zool 1850, p. 208; Sousa, 3/ws Ear.
 Lisb. Psittaci, p. 15 (1809). 
 
 Belocercus malaccensis, Bp. Eanmannia, 1856, Omsj). Psitt, n. 140. 
-Palseornis viridmrj stax, Blyth, J. A. 8. B. XT. p. 440 (young) (1**50); 
+Palseornis viridmrj stax, Blyth, J. A. S. B. XT. p. 440 (young) (1**50); 
 id. Ibis, 1873, p. 80 (note). 
 Y Palseornis aihnis, Gould, B. of Asia, vi. pi. 11 (pt. x., 1858); Bigth, 
 Ibis, 1865, p. 43. 
@@ -34999,7 +34999,7 @@ Ml Type.
 Polytelis, Wagl Mon. Fsitt p. 489 (1832) w0^ barrabandi. 
 Barrabandius, Bp. Consp. Av. i. p. 2 (1850) P. barrabandi. 
 
-Polyteles, Gould, P. Z. 8.1863, p. 232. 
+Polyteles, Gould, P. Z. S.1863, p. 232. 
 Range. Confined to Australia. 
 
 
@@ -35068,7 +35068,7 @@ Platycercub rosaceus, G. P. Gr. List Psitt Brit. Mi/*, p. 9 (1859);
 Schleg. Mus. P.-B. Psittaci, p. 98 (1864): id. op. cit. Revue, p. 40 
 (1874). 
 
-Polyteles barrabandi, Goi/ld, P. Z. 8. 1863, p. 232 ; Garrod, P. Z. S. 
+Polyteles barrabandi, Goi/ld, P. Z. S. 1863, p. 232 ; Garrod, P. Z. S. 
 1876, p. 692 ; Heine et Rclmw. Nomencl. Mus. Hem. Or a. p. 241 
 (1890). 
 
@@ -35107,7 +35107,7 @@ d-g. <$ ad. et ad. sk. Australia {J. T. Cockerell). Salvin-Godman Oo]l.
 h. Imm. sk. Australia. Purchased. 
 i. $ ad. sk. New South Wales. Ilume Coll. 
 2. Polytelis alexan&rae. 
-Polyteles alexandrae, Gould, P. Z. 8. 1863, p. 232. 
+Polyteles alexandrae, Gould, P. Z. S. 1863, p. 232. 
 Polytelis alexandrae, Gould, Handb. B. Austr, ii. p. 32 (1865); id. B. 
 Austr., Suppl. pi. 62 (pt. iv., 1867); G. B. Gr. Rand-list, ii. p. 138, 
 
@@ -35175,7 +35175,7 @@ Psittacus melanuru*, Thienem. FoHpfi. d. ge$, Vug. p. 73 il^46|.
 Barrabandius nielanurus, Bp. Consp. Av. I. p. 2 jlfcoO) : id. Rev. ef 
 Mag. de Zool. 1854, p. 153, n. 183 ; Svvaact, j& v. et Mag. de 
 ZooL 1856, p. 212; Bp. Xaumamiia, 1856, Comp. PsiiL it. 1*5. 
-Polyteles melanurus, Selat. P. Z. 8. 1859, p. 433; Go>tM, P. Z. S. 
+Polyteles melanurus, Selat. P. Z. S. 1859, p. 433; Go>tM, P. Z. S. 
 1863, p. 232 ; Finsck, Xed. Tijdsehr. Dierk. I. Berlgt p. x! (1*»3). 
 
 Adult male. Head, neck, shoulders, ramp, and all the under surface 
@@ -35668,7 +35668,7 @@ Bolle, Joum.f. Orn. 1856, p. 170 ; Ilorsf. § Moore, Cat. B. Mns.
 E.L Comp. ii. p. 624 (1858); Sclat. P. Z. S. 1861, p. 234; 
 Finsch, Ned. Tijdschr. JDierh. i. Berigt. p. xiii (1803); Gould, 
 Handb. B. Austr. ii. p. 35 (1805) ; Ramsay, Pr. Linn. Soc. 
-N. S. W. ii. p. 193, n. 407 (1808) ; Miill. P. Z. 8. 1809, p. 279; 
+N. S. W. ii. p. 193, n. 407 (1808) ; Miill. P. Z. S. 1809, p. 279; 
 Simd. Meth. not. Av. disp. Tent. p. 71 (1872); Garrod, P. Z. S. 
 1873, pp. 405, 034, 1874, p. 587 ; Forbes, 'Ibis, 1877, p. 282; 
 Sclat. List Vert. An. 8th ed. p. 324 (1883); Broadb. Pr. R. Soc. 
@@ -35924,7 +35924,7 @@ Platycercus dorsalis, Less. Compl de Buff, 2nd ed., Ois. p. Gil (1838)*
 
 G. P. Gr. P. Z. S. 1858, p. 104; id. Cat. B. New Gum. p. 59 (1859); 
 id. P. Z. S. 1861, p. 430 ; Bemst. Nat. Tijdschr. Ned. hid. xxvii. 
-p. 297(1864); Wall. P. Z. 8. 1864, p. 282; Schleg. Mus. P.-B. 
+p. 297(1864); Wall. P. Z. S. 1864, p. 282; Schleg. Mus. P.-B. 
 Psittaci, p. 91 (1864) • Finsch, Neu-Guin. p. 156 (1863); Schleg. 
 Ned. Tijdschr. Dierk iii. p. 184 (1866) ; G. P. Gr. Hand-fat, li. 
 p. 139, n. 8012 (1870); Meyer, Sitzb. Isis zu Dresd. 1875, p. 76; 
@@ -36936,7 +36936,7 @@ Psittacula loxias, Finsch. Papag. ii. p. 618 (1868) ; Gieb. Thes. Orn.
 iii. p. 328 (1877). 
 Cyclopsitta lunulata, G. B. Gr. Hand-list, ii. p. 168, n. 8377 (1870) • 
 Wald. Tr. Zool. Soc.ix. pp. 133,249 (1875) ; Sharpe, Trans. Linn. 
-8oc. (2) Zool i. p. 312 (1876); Ttceedd. P. Z. 8. 1877, pp. 689, 
+8oc. (2) Zool i. p. 312 (1876); Ttceedd. P. Z. S. 1877, pp. 689, 
 818, 1878, p. 937; id. Orn. Works, pp. 301, 410 (Luzon only), 
 
 42 . BOLBOPSITTACUS. 
@@ -37354,7 +37354,7 @@ pullaria, Bp. Fev. et Mag. de ZooL 1854, p. 154, n. 222;
 Hartl. Journ.f. Orn. 1854, p. 194; Souance, Fev. et Mag. de Zool 
 1856, p. 217 ; Bp. Naumannia, 1856, Consp, Fsitt. n. 224; HartL 
 Syst. Orn. W.-Afr. p. 168 (1857); id. Journ.f. Om. 1861, p. 262 ; 
-Parker, P. Z. 8. 1863, p. 516, 1865, p. 237; Bocage, Jam. Sc. 
+Parker, P. Z. S. 1863, p. 516, 1865, p. 237; Bocage, Jam. Sc. 
 Lisboa, n. ii. p. 143 (1867); Heugl. Orn. N. O.-Afr. i. p. 748 (1809); 
 Sotcsa, Mus. Nac. Lisb. Psittaci, p. 20 (1869); Heugl Peterm. 
 Geogr. Mittk 1809, p. 415; G. F. Gr. Hand-list, ii. p. 167, 
@@ -37366,7 +37366,7 @@ t. xx. f. 3 (1878-83); id. Journ, f. Orn. 1881, p. 257 (Consp.
 Fsitt. p. 145); Hartl. Abh. Br em. yiii. p. 212 (1882); Hartert, 
 43 . AGAPOBfflS. 511 
 Jbum. f. Orn. 1886, p. 598; Bchnio. Journ.f. Orn. 1887, p. 302; 
-8heU. P. Z. 8. 1888. p. 45 (Tingasi); Trlstr. Cat. Coll B. pp. 76, 
+8heU. P. Z. S. 1888. p. 45 (Tingasi); Trlstr. Cat. Coll B. pp. 76, 
 77(1879). 
 
 Agapornis xanthops, Heugl. Journ. f. Orn. 1863, p. 271, 1864, p. 268. 
@@ -37523,7 +37523,7 @@ Hartl Joum. f. Orn. 1861, p. 262; ? Kirk, Ibis, 1864, p. 820
 App. p. 406 ( ); Bocage, Jom. 8c. Lisboa, i. p. 336 (1867); 
 Sousa, Mm. Nao, Lisboa, Psittaci, p. 20 (1869); Russ, Joum.f. Orn. 
 1869, p. 82; Brehm, Joum.f. Orn. 1869, p. 139; G. R. Gr. Handlist, 
-ii. p. 167, n. 8367 (1870) ; Garrod, P. Z. 8.1873, pp. 465, 634; 
+ii. p. 167, n. 8367 (1870) ; Garrod, P. Z. S.1873, pp. 465, 634; 
 Sharpe, Layard'sB. of 8. Afr. p. 192 (1875-84); JRchmo. Vogelbild. 
 t. xx. f. 1 (1878-8:3) ; id. Joum. f. Orn. 1881, p. 258 (Consp. 
 Pdtt. p. 146); Sate. Cat. B. Strickl. Coll. p. 461 (1882); Sclat. 
@@ -37533,7 +37533,7 @@ pp. 69, 195 (1889); Trisir. Cat. Coll B. p. 77 (Natal!) * (1889).
 Psittacula passerina, Magyar Ldszld, Delafrik. TJtazasai, 1849-51, i. 
 
 p. 242. 
-Agapornis roseicapilla (errore), Garrod, P. Z. 8. 1874, p. 587. 
+Agapornis roseicapilla (errore), Garrod, P. Z. S. 1874, p. 587. 
 Adult male. Green, underneath yellowish green; forehead and 
 supercilium red; lores, sides of the head, and throat pale rosecolour 
 ; uropygium and upper tail-coverts cobalt-blue ; quills dusky, 
@@ -37839,7 +37839,7 @@ n. 246; Horsf $ Moore, Cat. B. Mus. E. I. Comp. ii. p. 627
 (1859); Jerd. B. of Ind. i. p. 265 (1862); Gray, Cat Eodgs. Coll 
 B. Mus. 2nd ed. p. Q>% n. 465 (1863) ; Blyth, Ibis, 1863, p. 6 (part.) ; 
 id. App. Zool of the Andam. Isl in Mouafs Arch. Andam. Ish 
-p. 355 (1863);" Wald. P. Z. 8. 1866, p. 538; Blyth, Ibis, 1867, 
+p. 355 (1863);" Wald. P. Z. S. 1866, p. 538; Blyth, Ibis, 1867, 
 p. 295; Bean. Ibis, 1867, p. 320 (Andaman Isl.), 1869, p. 412; 
 Elwes, Ibis, 1870, p. 527; G. R. Gr. Hand-list, ii. p. 152, n. 8172 
 (1870); Ball, Journ. A. 8. B. xli. p. 279 (1872); Wald. Ibis, 
@@ -38132,7 +38132,7 @@ is like an adult male in the Leyden Museum !
 44 . LOKlOUXTTS. 521 
 3. Loriculus flosculus. 
 f Psittacus vernali^ part., XuM, Consp. Psitt. p. 65 (1820). 
-Loriculus flosculus, Wall P. Z. 8. 1863, pp. 484, 488, 1864, pp. 288, 
+Loriculus flosculus, Wall P. Z. S. 1863, pp. 484, 488, 1864, pp. 288, 
 294; Q. R. Gr. Sand-list, ii. p. 152, n. 8178 (1870); Wald. 
 
 P. Z. S. 1871, p. 333; id, Tr. Zool Soe. vii p. 27 (1872); Gieb. 
@@ -38209,7 +38209,7 @@ P&II'IACIDJC.
 5. loriculus chrysoiiotus. 
 Loriculus regulus. G. P. Gr. {nee Souance) Li*t Psitt. Brit. Mus. 
 
-p. 56 (Mindanao) (1850); Wall. P. Z. 8. 1864, p. 2SS; Finsch, 
+p. 56 (Mindanao) (1850); Wall. P. Z. S. 1864, p. 2SS; Finsch, 
 Ibis, 1874, p. 208; Wald. Trans. ZooL Soc. ix. p. 137 (1S75) ; 
 Tweedd. Orn. WorU, p. :J04 (1881). 
 Coryllis 
@@ -38219,8 +38219,8 @@ Loriculus enlacissi, Sclat. {nee Vieill) P. Z.S. 1871, p. 470: iff. Per.
 List of Vert. p. 202 (1872). 
 Loriculus, chry^onotus. Sclat. Ibis, 1872, p. 824, pi. xi. - (Zebu): id. 
 
-P. Z. 8. 1872, p. 790; Wald. P. Z. 8. 1873, p. o'2V): Garrod. 
-P. Z. 8. 1878, p. 634, 1874, p. 587; Gieb. Thes. Orn. ii. p. 497 
+P. Z. S. 1872, p. 790; Wald. P. Z. S. 1873, p. o'2V): Garrod. 
+P. Z. S. 1878, p. 634, 1874, p. 587; Gieb. Thes. Orn. ii. p. 497 
 (1875): Wald. Trans. ZooL 8uc. ix. pp. 137, 249 (1*7.3) ; Skarpe, 
 Earns. Tweedd. Orn. Works, p. 655 (1881) ; Tweedd. Vwh ChalL. 
 Birds, p. 10 (1881); Sclat List Vert. An. 8th eel. p. 820 (1^3,: 
@@ -38429,7 +38429,7 @@ Psittaeus coulaeissi, VieilL Eric. M§th. iii. p. 1405 (1823).
 Psittacula coulaci, part., Less. Tr. a?Orn. p. 202 (1831). 
 Psittacula rubrifrons, Vig, Phil. Mag. 1831, p. 147 ($); Lear, 
 Parrots, pi. 41 (1832); Bourj. Perr. pi. 87 (1837-38) (ex Lear). 
-Psittacula riibrifrons, Vig. P. Z. 8. 1831, p. 97. 
+Psittacula riibrifrons, Vig. P. Z. S. 1831, p. 97. 
 Psittacula culacissi, Wagl. Mon. Psitt. p. 027 (1832). 
 Psittaculus rubrifrons, Sw. Class. B. ii. p. 303 (183d). 
 Psittacula melanoptera, G. P. Gr. Gen. B. ii. p. 423, u. 16 (1846). 
@@ -38440,7 +38440,7 @@ Hartl. JourA. f. Orn. 1854, p. Ixiii.
 Loriculus philippensis, Souance, Pev. et Mag. de ZooL 1850, p. 221 ; 
 Schleq. Mus. P.-B, Psittaci, p. 130 (1864); v. Mart Journ.f. Orn. 
 1806,' p. 21; op. cit. Bemie, p. 59 (1874); Wold. Tr. ZooL 8oc. ix. 
-pp. 135, 249 (1875) j Tweedd. P. Z. 8. 1877, p. 820; id. Orn. 
+pp. 135, 249 (1875) j Tweedd. P. Z. S. 1877, p. 820; id. Orn. 
 
 Works, pp. 209,303, 304,410,547 (1881) j Wardl. Bams. Tweedd. 
 Orn. Works, p. 655 (1881); Tristr. Cat Coll. B. p. 76 (1889); 
@@ -38448,11 +38448,11 @@ titeere, List, p. 6 (1890).
 
 Licmetukw phiiippen^is, Bp. Naumannia, 1856, Consp. Psitt. n. 254. 
 Loriculus culacissi, G. P. Gr. List Psitt. Brit. Mus. p. oQ (1859) ; 
-Wall. P. Z. 8. 1864, p. 288; Gieb. Thes. Orn. ii. p. 498 (1875); 
+Wall. P. Z. S. 1864, p. 288; Gieb. Thes. Orn. ii. p. 498 (1875); 
 Meyer, Pmvl. Orn. Misc. ii. p. 232, n. 6 (1877); id. Vogel-Skelett. 
 
 t. ii. (1879). 
-? Loriculus melanopterus, Wall. P. Z. 8. 1864, pp. 288, 294. 
+? Loriculus melanopterus, Wall. P. Z. S. 1864, pp. 288, 294. 
 Coryllis culacissi, Finsoh, Papag. ii. p. 705 (1808). 
 Licmetulus culacissi, G. R. Gr. Hand-list, ii. p. 152, n. 8181 (1870). 
 Coryllis philippensis, Pckmo. Journ. f. Orn. 1881, p. 228 (Consp. 
@@ -38575,9 +38575,9 @@ Loriculus asiaticus, Blyth, op. eit, p. 312 (1849); id. Journ. A. 8. B.
 xviii. p. 801 (1849), xix. p. 236(1850); Kelaart, Prodr. Faun. 
 Ctyl p. 127 (1852) ; Layard, Ann. fy Mag. N. II. (2) xiii. p. 261 
 (1854J ; Ilartl. Journ. f. Orn. 1854, p. 158; Horsf. $ Moore, Cat. 
-B. Mus. E. I. Comp. ii. p. 628 (1856) ; Wald. P. Z. 8. 1866, 
+B. Mus. E. I. Comp. ii. p. 628 (1856) ; Wald. P. Z. S. 1866, 
 p. 
-539 ; Garrod, P. Z. 8. 1873, p. 634, 1874, p. 587; Tweedd. Orn. 
+539 ; Garrod, P. Z. S. 1873, p. 634, 1874, p. 587; Tweedd. Orn. 
 Works, p. 17 (1881); Sclat. List Vert. An. 8tli ed. p. 326 (1883). 
 Loriculus indiens, Bp. Bev. et Mag. de Zool. 1854, p. 155, n. 240; 
 Souance, Rev. et Mag. de Zool. 1856, p. 219, n. 173, p. 220, 
@@ -38587,11 +38587,11 @@ Journ. f. Orn. 1858, p. 449; G. It Gr. List Psitt. Brit. Mus.
 
 p. 55 (1859); Schleg. Mus. P.-B. Psittaci, p. 132 (1864); Pelz. 
 IsovaraMeise, Tog. p. 99 (1865); G. It. Gr. Hand-list, ii. p. 152, 
-n. 8173 (1870); Holdstv. P. Z. 8. 1872, pp. 405, 426; Legge, Ibis, 
+n. 8173 (1870); Holdstv. P. Z. S. 1872, pp. 405, 426; Legge, Ibis, 
 1874, p. 15; Hume, 8tr. Feath. ii. p. 186 (1874); Schleg. Mus. 
 P.-B. Psittaci, Mevue, p. 60 (1874); Legge, Str. Feath. iii. p. 365 
 (1875); Gieb. Thes. Orn. ii. p. 498 (1875); Meyer, Roiol. Orn. 
-Misc. ii. p. 232, n. 2 (1877); Tweedd. P. Z. 8.1877, p. 820; Hume, 
+Misc. ii. p. 232, n. 2 (1877); Tweedd. P. Z. S.1877, p. 820; Hume, 
 Str. Feath. vii. p. 368 (1878), viii. p. 87, n. 153 bis (1879); Legge, 
 B. of Ceyl. pp. 180, 1212, pi. iv. lower fig. (ad.), pi. vii. upper iig. 
 (young) (1880) ; Tweedd. Orn. Works, pp.546, 547 (1881) ; Tristr. 
@@ -38602,7 +38602,7 @@ p. 155, n. 241; Souance, Rev. et Mag. de Zool. 1856, pp. 219, 221;
 Bp. Xaumannia, 1856, Consp. Psitt. n. 250; G. R. Gr. List Psitt. 
 Brit. Mus. p. 5o (1859)*; Sclat. Ibis, 1860, p. 361 (note); Sioinh. 
 Ibis, 1861, p. 411, 1862, p. 305; G. It Gr, Hand-list, ii. p. 152, 
-n. 8174 (1870) ; Swinh. P. Z. 8.1871, p. 391. 
+n. 8174 (1870) ; Swinh. P. Z. S.1871, p. 391. 
 Loriculus coulaci, Blyth, Ibis, 1863, p. 7, 1867, p. 226. 
 Loriculus edwardsi, Blyth, Ibis, 1867, pp. 295, 311; Wald. Ibis, 
 1807, p. 46; Nevill. Journ. A. 8. B. {Ceyl. Br.) 1870-71,p. 32 ; 
@@ -39015,7 +39015,7 @@ q\ Juv.sk.*
 r\ $ skeleton. 
 
 14. Loriculus sclateri* 
-Loriculus sclateri, Wall P. Z. 8.1862, p. 336, pi. xxxviii.; id. P. Z. 8. 
+Loriculus sclateri, Wall P. Z. S.1862, p. 336, pi. xxxviii.; id. P. Z. S. 
 1864, pp. 281, 294; SeMeg. Mus. R~B. Psittaci, p. 132 (1864); 
 id. Ned. Tijdschr. Dierk iii. p. 186 (1865); G. B. Gr. Hand-list, 
 
@@ -39254,7 +39254,7 @@ which is wanting in L. catamene.
 537 
 18. Loriculus catamene. 
 Loriculus arnabilis 
-(part.), Wald. P. Z. 8. 1871, p. 333 (Sanghir 
+(part.), Wald. P. Z. S. 1871, p. 333 (Sanghir 
 IsL); id. Tram. Zool Soc. viii. p. 26 (1872): Tweedd. Orn. Works, 
 
 p. 131 (1881). 
@@ -39303,7 +39303,7 @@ Gieb. Thes. Orn. ii. p. 497 (1875); Salvad. Ann. Mm. Civ. Gen.
 
 vii. p. 911 (1875); Gould, B. of New Guin. pt. v. pi. 11 (1877); 
 Meyer, Bowl. Orn. Misc. ii. pp. 231, 234, n. 18 (1877); Sclat. 
-P. Z. 8.1877, p. 107; id. Bowl Orn. Misc. ii. p. 376, pi. 72. f. 1 
+P. Z. S.1877, p. 107; id. Bowl Orn. Misc. ii. p. 376, pi. 72. f. 1 
 (P) (1877); Salvad. Ann. Mus. Civ. Gen. x. p. 29, n. 35 (1877); 
 Bosenb. Malay. Archip. p. 593 (1878-79); Sahad. Orn. Pap. e Mol 
 i. p. 171 (1880); Sharpe, Journ. Linn. Soc., Zool xvi. p. 426 (1882); 
@@ -39747,7 +39747,7 @@ f, g. Imm. sk. S. Australia (J. T. Cockerell). Salvin-Godman Coll.
 
 h. Ad. sk. S. Australia. Purchased. 
 3. Platycercus flaveolus. 
-Platycercus flaveolus, Gould, P. Z. 8. 1837, p. 20; id. Syn. B. Austrm 
+Platycercus flaveolus, Gould, P. Z. S. 1837, p. 20; id. Syn. B. Austrm 
 pi.—.f.l (head) (183—?); Wiegm.Archivf. Saturg. 1830, p. 395; 
 Gould, B. Austr. v. pi. 26 (pt. iv., 1841); G. R. Gr. Gen. B. ii. 
 
@@ -40056,10 +40056,10 @@ p. 194, n. 479 (1878); Mclmw. Journ. f. Orn. 1881, p. 119 (Consp.
 B&itt. p. 55); id. Vogelbild. Nachtr. 12 (1883); Ramsay, Tab. 
 List, p. 16, n. 495 (1888). y? 
 Platycercus cyanogenys, 
-Gould, P. Z. 8. 1855, p. 166; id. B. Austr. 
+Gould, P. Z. S. 1855, p. 166; id. B. Austr. 
 Suppl pi. 63 (pt. ii., 1855); G. R. Gr. List Psitt. Brit. Mus. p. 4 
 (1859); id. Cat. B. New Guin. p. 59 (1859); Gould. Handb. B. 
-Austr. ii. p. 52 (1865); Ramsay, P. Z. 8.1875, p. 602. 
+Austr. ii. p. 52 (1865); Ramsay, P. Z. S.1875, p. 602. 
 
 45 . PLA.TYOEKCIVH. 
 540 
@@ -40654,7 +40654,7 @@ Platycercus barnardi, Vig. $ Morsf. Trans. Linn. Soc. xv. p. 2^3
 p. 528 (1832); Lear, Parr. pi. lb (1832) ; Bourj. Par. pi. 32 
 (1837-38); Gould, Syn. B. Au*tr. pi. —. f. 1 iPO-:-): Id. IJ. 
 Austr. T. pi. 21 (pt. xi., Ib43j: G. R. Gr. Gen. B. ii, p. 4(b, n. 1& 
-(1846); Mitch. P. Z. 8. 1849, p. 64; Blyth, Cat. B. Mu>. A. S. B. 
+(1846); Mitch. P. Z. S. 1849, p. 64; Blyth, Cat. B. Mu>. A. S. B. 
 p. 8 (1849) ; Rchnb. Neuentd. Tog. N. Moll. n. 1^2 flb50j : G. R. 
 Gr. List Psitt. Brit. Mus. p. 8 (1859) ; Somrt/er, Journ. f Orn. 
 1859, p. 360; Schley. Mas. P.-B. Psittaei. p/9 4 (1-04);" Gould. 
@@ -40800,7 +40800,7 @@ Trans. Linn. Soc. XY. p. 283 (1826); Steph. Gen. Zool. xiV. 2, p. 121
 
 ii. p. 146 (1828); Gould, B. Austr. v. pi. 20 (pt. xi, 1843); Thienem. 
 Fortpfl. d. ges. Vog. p. 73 (1846); Bchnb. Neuenid. Vog. N. Holt 
-n. 181 (1850) ; Sclat P. Z. 8.1862, p. 322. 
+n. 181 (1850) ; Sclat P. Z. S.1862, p. 322. 
 Nanodes zonarius, Steph. Gen. Zool xiv. % p. 119 (1826). 
 Platycercus zonarius, Wagl Mm. Psitt. p. 534 (1832); HartI Sgsi. 
 Vers. Ges. Mus. p. 84 (1844); G. B. Gr. Gen. B. ii. p. 408, n. 11 
@@ -40809,9 +40809,9 @@ Joum. f. Orn. 1859, p. 360; Schleg. Mus. P.~B. Psittaci, p. 94
 (1864); Gould, Handb. B. Austr. ii. p. 43 (1865); FmteA, Papag. 
 
 ii. p. 212 (1868); Schleg. Mus. P.-B. Psittaci, Berne, p. 39 (1874); 
-Garrod, P. Z. 8. 1874, p. 587; Gieb. Thes. Orn. iii. p. 221 (1877); 
+Garrod, P. Z. S. 1874, p. 587; Gieb. Thes. Orn. iii. p. 221 (1877); 
 Banway, Pr. Linn. Soc. N. 8. W. ii. p. 193, n. 473 (1878): Schmidt. 
-P. Z. 8. 1880, p. 310; Bchnw. Vogelbild. t. xvi. £ 3(1878-83); 
+P. Z. S. 1880, p. 310; Bchnw. Vogelbild. t. xvi. £ 3(1878-83); 
 id. Joum. f. Orn. 1881, p. 124 {Consp. Psitt. p. 60); Sclat. List 
 Vert An. 8th ed. p. 332 (1883); Bamsag, Tab. List p. 16, n. 489 
 (1888); North, Pr. Linn. Soc. N. S. W. (2) iv. p. 1025 (1889); 
@@ -41027,10 +41027,10 @@ Blyth, Cat. B. Mm. A. 8. B. p. 8 (1849); Rchnb. Xeueatd. Vog.
 N. Roll. n. 445 (1850); Bp. Rev. et Mag. de Zool. 1854, p. 154, 
 n. 197; Souance, Rev. et Mag. de Zool. 1856, p. 213; id. JS'aitmannia, 
 1856, Consp. Psitt. n. 195; Gould, JBJandb* B. Austr. ii, 
-p. 67 (1865); Mat. P. Z. 8.1866, p. 201; G. P. Gr. Hand-list, 
+p. 67 (1865); Mat. P. Z. S.1866, p. 201; G. P. Gr. Hand-list, 
 ii. p. 137, n. 7996 (1870); Garrod, P.Z.S. 1874, p. 587; Biggl. 
 8yn. B. Austr. ii. p. 79, pi. 79. f. 1 (1877); Ramsay, Pr. Linn. 8oc. 
-N.8. W. ii. p. 194, n. 490 (1878); Schnidt P. Z. 8. 1830, p. 310; 
+N.8. W. ii. p. 194, n. 490 (1878); Schnidt P. Z. S. 1830, p. 310; 
 8clat. List Vert. An. 8th ed. p. 334 (1883); Ramsay, Tab. List, 
 p. 17, n. 504 (1888); North, Descr. Cat. Xests 4* Eggs Ait*tr. 
 Birds, p. 261 (1889); Ramsay, Cat. Austr. Birds, P&ittaci, p. 72 
@@ -41265,7 +41265,7 @@ i. Juv. sk.
 Gregory Exped. [C.]. 
 6. Psephotus hsematonotus. 
 Platycercus 
-haematonotus, Gould, P. Z. 8. 1837, p. 151; Wiegm. 
+haematonotus, Gould, P. Z. S. 1837, p. 151; Wiegm. 
 Arckiv f. Nattirg. 1839, p. 395 ; Hartl Erst. Nachtr. Verz. p. 15 
 (1846); G. R. Gr. Gen. B. ii. p. 408, n. 14 (1846); id. List Psitt. 
 Brit. Mus. p. 6 (1859); Homeyer, Jonm. f. Orn. 1859, p. 3(50; 
@@ -41284,7 +41284,7 @@ Bierh. i. Berigt. p. x (1863); Gould, Handb. B. Austr. ii. p. 69
 (1865): Buss, Journ.f. Orn. 1869, p. 287, 1870, p. 30; Brachenf. 
 Journ. f. Orn. 1870, p. 149; G. R. Gr. Hand-list, ii. p. 137, n.7997 
 (1870) • Ramsay, Pr. Linn. Soc. N. 8. W. ii. p. 194, n. 492 (1878); 
-Forbes, P. Z. 8. 1879, pp. 169, 357; Salvin, Cat. B. Strickl. Coll 
+Forbes, P. Z. S. 1879, pp. 169, 357; Salvin, Cat. B. Strickl. Coll 
 
 p. 462 (1882); Sclat. List Vert. An. 8th ed. p. 334 (1883); Broad!). 
 PSITTACIDJ5. 
@@ -41747,7 +41747,7 @@ Gould Coll.
 
 5. Keophema petrophila. 
 Euphema petrophila, 
-Gould, P. Z. 8. 1840, p. 148; id. B. Austr. v. 
+Gould, P. Z. S. 1840, p. 148; id. B. Austr. v. 
 pi. 40 (pt. xiv., 1844); G. R. Gr. Gen. B. ii. p. 411. n. 0 (1840 j; 
 Rclmb. Netientd. Tog. N. Holl. n. 1G8 (1850); Bp. Rev. et Mag. dt 
 Zool. 1854, p. 154, n. 196; Souance, Rev. et Jlag. de Zool. ld>~U, 
@@ -41893,7 +41893,7 @@ List Fsitt. Brit. Mus. p. 16 (1859); Schley. Mm. P.-B. Phittaei"
 
 p. 102 (1864) ; Gould, Handb. B. Austr. ii. p. 79 (1805); Finsch 
 Papag. ii. p. 159 (1868); G. R. Gr. Hand-list, ii. p. 141, n. 8039 
-(1870); Sclat. P. Z. S. 1871, p. 102; Garrod, P. Z. 8. 1873, 
+(1870); Sclat. P. Z. S. 1871, p. 102; Garrod, P. Z. S. 1873, 
 pp. 465, 634, 1874, p. 587; Seldeg. Mus. P.-B. I^ittaci, Revue. 
 p. 41 (1874) ; Gieb. Thes. Orn. ii. p. 133 (1875); Diggt. Sun. B. 
 Austr. ii. p. 80, pi. 80. if. 2, 3 (1877); Ramsay, Pr. Linn. Soc 
@@ -42300,7 +42300,7 @@ p. 133, n. 187; Souance, Rev. et Mag. de Zool 1856, p. 212; Bp.
 Naumannia, Consp. Psitt. n. 188 ; Bolle, Journ. f. Orn. 1850, 
 p. 170; Trav. Ibis, 1866, p. 118; G. B. Gr. Sand-list, ii. p. 139, 
 n. 8019 (1870); Sclat. P. Z. S. 1872, p. 795; Garrod, P. Z. S. 
-1873, pp. 466, 634, 1874, p. 587 ; Forbes, P. Z. 8. 1&79, p. 19; 
+1873, pp. 466, 634, 1874, p. 587 ; Forbes, P. Z. S. 1&79, p. 19; 
 Rcbnv. Vogelbild. t. xvi. f. 7 (1878-83); id. Journ. f. Orn. 1881, 
 p. 42 {Consp. Psitt. p. 42); Sclat. List Vert. An, 8th ed. p. 333 
 (1883); Tristr. Cat. Coll B. p. 77 (1889). 
@@ -42562,7 +42562,7 @@ Bord. xxvii. p. 327 (1870); id. Ibis, 1877, p. 362; Laijard, Ibis,
 C. novce zeelandicz, t. xvi. f. 7 (1878-83); id. Journ. f. Orn. 
 1881, p. 43 (Consp. Psitt. p. 43); E. L. § F. L. C. Layard, Ibis, 
 1882, pp. 524,543; Tristr. ibid. p. 525; Salv. fy S'clat. ibid, (note) ; 
-Sclat. P. Z. 8. 1882, p. 630, pi. xlvi.; id. List Vert. An. 8th ed. 
+Sclat. P. Z. S. 1882, p. 630, pi. xlvi.; id. List Vert. An. 8th ed. 
 p. 333 (1883); Schaloto, Journ. f. Orn. 1887, pp. 96, 246 ; Tristr. 
 Cat. Coll. B. p. 77 (1889). 
 * I am not quite sure that this specimen really belongs to G* erythrotis,
@@ -43031,7 +43031,7 @@ Bp. Naumannia, 1856, Consp. Psitt. n. 308; id. Compt Rend, xliv.
 p. 530 (1857) j Gould, Handb. B. Anstr. ii. p. 90 (1865); Qarrod, 
 P.Z.8. 1873, pp. 466,634, 1874, p. 587; Biggl Syn. B. Austr. 
 ii. p. 84, p i 174 (1877) ; Ramsay, Pr. Linn. Soc. N.8. W. ii. 
-p. 194, ii. 503 (1878); Forbes, P. Z. 8. 1879, pp. 168, 171, 174, 
+p. 194, ii. 503 (1878); Forbes, P. Z. S. 1879, pp. 168, 171, 174, 
 pi. xvi. ft 1,2, 8,10,12; Salvin, Cat B. Stric/cl. Coll p. 4&2 (1882); 
 tidat List Vert An. Stli ed. p. 334 (1883); Legge, Pr. Roy. Soe. 
 Tasm. 1886, p. 238j Ramsay, Tab. List, p. 17, n. 517 (1888); 
@@ -43163,7 +43163,7 @@ ibid. p. 347; Sund. Meth. nab. Av. disp. Tent. p. 71 (187^ •
 Garrod, P. Z. S. 1873, pp. 465, 634, 1874, p. 587 5 Gieb. This. Orn. 
 11. p. 565 (1875) ; JDiggl 8yn. B. Austr. ii. p. 81, pi. 81. f. 3 (1877) * 
 Bamsay, Pr. Linn. 80c. N. 8. TV. ii. p. 194,11. 500 (1878); Forbes] 
-P. Z. 8. 1879, p. 166; Braun, Arb. zool.-zoot Inst. Wurzb v 
+P. Z. S. 1879, p. 166; Braun, Arb. zool.-zoot Inst. Wurzb v 
 p. 161 & follow.; id. Verh. d. phys.-med. Ges. Wurzb. n. F. xiv! 
 p. 121, xv, p. 120; Bchnw. Vogelbild. t. xiv. f. 4 (1878-83); id* 
 Journ. f. Orn. 1881, p. 37 (Consp. Psitt. p. 37); Salv. Cat Strickl. 
@@ -43355,11 +43355,11 @@ Range. South-western and South Australia.
 PSITTACID7E. 
 
 1. G-eopsittacus occidentalis. 
-Geopsittacus occidentalis, Gould, P. Z. 8. 1861, p. 100 ; id. Handb. 
-B. Austr. ii. p. 88 (1865); Sclat P. Z. 8. 1867, p. 891 (from life) ; 
+Geopsittacus occidentalis, Gould, P. Z. S. 1861, p. 100 ; id. Handb. 
+B. Austr. ii. p. 88 (1865); Sclat P. Z. S. 1867, p. 891 (from life) ; 
 Gould, B. Austr., Suppl. pi. 66 (part iv., 1867); Murie, P. Z. S. 
 1868, pp. 158, 165; G. JR. Gr. Hand-list, ii. p. 141, n. 8043 
-(1870); Sclat P. Z. S. 1873, p. 433 (from life); Garrod, P. Z. 8. 
+(1870); Sclat P. Z. S. 1873, p. 433 (from life); Garrod, P. Z. S. 
 1874, p. 587; Diggl Syn. Austr. B. ii. p. 83 (1877); Rchnw. 
 Journ.f. Orn. 1881, p. 16 (Comp. Psitt. p. 16); id. Vogelbild 
 Nacktr. 1 (1883); Sclat List Vert An. 8th ed. p. 329 (lb83); 
@@ -43428,7 +43428,7 @@ b. Upper surface bluish ; smaller greyi, p. 601.
 1. Stringops habroptilus. 
 Centropus (P), G. R. Gr. App. Buff. N. Zeal p. 194 (note). 
 Strigops habroptilus, G. R. Gr. Gen. B. ii. p. 427, pi. cv. (1845) ; 
-Strange, P. Z. 8. 1847, p. 50; G. R. Gr. Ann. $ Mag. N. H xx. 
+Strange, P. Z. S. 1847, p. 50; G. R. Gr. Ann. $ Mag. N. H xx. 
 
 p. 55 (1847); id. B. Z. 8.1847, p. 62 ; Bucher. Rev. et Mag. de 
 Zool 1847, p. 385; Bp. Consp. i. p. 8 (1850); Lyall, B. Z. 8. 1852, 
@@ -43442,7 +43442,7 @@ Ibis, 1862, p. 103; G. R. Gr. Ibis, 1862, p. 230; Haast, BUI
 Inst Canterb. 1863,; id. Verh. z.-b. Gesell Wien, 1863, p. 1115; 
 Layard, Ibis, 1863, p. 245; Haast, Ibis, 1864, p. 340 ; id. Journ. 
 f. Orn. 1864, p. 458; Schleg. Bierent. p. 76, cumfigura (1864); 
-Barker, P. Z. 8.1865, p. 235; Gould, Handb. B. Austr. ii. App. 
+Barker, P. Z. S.1865, p. 235; Gould, Handb. B. Austr. ii. App. 
 p. 538 (1865); Travers, Journ. Linn. 8oe. ix. Botany, n. 35 (1865) 
 (Ibis, 1866, p. 114); Humbert (Haast), Bull. Soc. Orn. Suisse, 
 1866, p. 69; Hector, N. Zeal Bxhib. 1866, p. 276; Pels. Verh 
@@ -43602,7 +43602,7 @@ Hab. Guiana.
 2. ARA, sp. 
 Ara sp., Humboldt, Beise Aeq. Geg. $c. iv. p. 6 (1860); Finsch, Papag. ii. 
 
-p. 935 (1868;; id. P. Z. 8. 1869, p. 128. 
+p. 935 (1868;; id. P. Z. S. 1869, p. 128. 
 " In one of the huts of the Pacimonales (San Francisco Solano, on the left 
 side of the Casiquiar<§) we bought an Ara, about 17 inches long, and of an 
 entirely purple plumage, like the Psittacus macao." 
@@ -44401,7 +44401,7 @@ collaria, but it appears to me to be quite different.
 
 
 43. OHRYSOTIS PRISCA. 
-Ohrysotis prisca, Sclat. P. Z. 8. 1861, p. 79. 
+Ohrysotis prisca, Sclat. P. Z. S. 1861, p. 79. 
 Ohrysotis priscus, Albrecht, Joum. f. Orn. 1862, p. 203. 
 
 

@@ -1906,7 +1906,7 @@ Corvus sylvestris, A. E. Brehm, Vog. Deutschl. p. 163.
 Corvus littoralis, id. t. c. p. 164. 
 Corvus peregrinus, id. i. c. p. 104. 
 Corvus montanus, id. t c. p. 165. 
-Corvus nobilis, Gould, P. Z. 8. 1837, p. 79 ; Gray, Hand-l JB. ii. p. 11. 
+Corvus nobilis, Gould, P. Z. S. 1837, p. 79 ; Gray, Hand-l JB. ii. p. 11. 
 Corvus littoralis, Holb. in Kroyerh Tidschr. iv. p. 390. 
 Corvus vociferus, Cabot, Bost. Joum. N. Sci. iv. p. 464. 
 Corvus lugubris, Agass. Proc. Bost. Soc. N. H. ii. p. 188. 
@@ -2417,7 +2417,7 @@ d. Ad. sk. # Madras.
 e. Ad. sk. * Deccan (Syhes), Secretary of State for India [P.J. 
 6. Corvus torquatus. 
 Corvus torquatus, Less. TraiU, p. 328* j Grm/} Hand-l, B. ii. p. 13; 
-David, m Arch. Mus. vii. Bull, p. 9; Surinh. P. Z. 8.1871, p. 383. 
+David, m Arch. Mus. vii. Bull, p. 9; Surinh. P. Z. S.1871, p. 383. 
 Corvus pectoralis, Horsf. $ Moore, Gat. B. Mtts. JS.L Co. ii. p. 557; 
 Schl. Mus. P.-B. Coraces, p. 5. 
 
@@ -2493,12 +2493,12 @@ p. 57; Gurney in Anderss. B. Dam. Ld. p. 154; Antin. 8f Sahad.
 Viaqg. Bogos, p. 128; Sharpe <$• Bouvier, Bull. 8oc. Zool Prance, i. 
 p. 46. 
 Corvus scapularis, var. sethiops, JECempr.fyBhr. Symh, Phys. fol. z. 
-Corvus dauricus, Desj, P. Z. 8. 1831, p. 45. 
+Corvus dauricus, Desj, P. Z. S. 1831, p. 45. 
 23 
 
 3* COBVXTS. 
 
-Corvus curvirostris, Gould, P. Z. 8. 1836, p. 18; Gray, Gen. B. ii. 
+Corvus curvirostris, Gould, P. Z. S. 1836, p. 18; Gray, Gen. B. ii. 
 
 p. 315j Bp. Consp. i. p. 380; Cab. Mus. Hem. Tli. i.' p. 232, note; 
 Ilartl. Orn. W.-Afr. p. 114; Antin. Cat. descr. Ucc. p. 59; Gray, 
@@ -3178,7 +3178,7 @@ a', b', c'. Skulls. S. Germany. Dr. Giinther.
 
 8ubsp. a. Corone capellaua, 
 
-Oorvus eapellamts, Sclater, P. Z. 8. 1870. 
+Oorvus eapellamts, Sclater, P. Z. S. 1870. 
 
 Similar to O. comix, but having the light parts of the plumage 
 white instead of drah-grey. The species is founded on some (at 
@@ -3226,7 +3226,7 @@ p. 384; Gray, Cat. Mamm. $c. coll. Hodgs. Nepal, p. 102 ; Ilorsf.
 Amsterd. fol. p. 4; Jerd. B. Ind. ii. p. 298; 8chl Mm. P.-B. Coraces, 
 p. 10 ; Gray, Hand-l. B. ii. p. 14. 
 Corvus impudiens, Hodgs. in Gray's Zool. Misc. p. 84. 
-Oorvus dauricus, Pears. J. A. 8. B. x. p. 652 (nee Pall). 
+Oorvus dauricus, Pears. J. A. S. B. x. p. 652 (nee Pall). 
 Corvus impudicus, Gray, Hand-l, B. ii. p. 14; Hume, Str. F. 1873, 
 
 
@@ -3589,7 +3589,7 @@ Zool. 1853, p. 547; Koldsiu. P. Z. 81872, p. 460; Ball, 8. F. 1874,
 
 p. 418; Hume, t. c. pp. 243, 479,1875, p. 143; id. Nests and Eggs 
 Ind. B. p. 411; Blyth Sf Wold. B. Bitrm. p. 86. 
-Corvus corone, FrwiJd. P. Z. 8. 1831, p. 120 (nee L.). 
+Corvus corone, FrwiJd. P. Z. S. 1831, p. 120 (nee L.). 
 Corvus corax, Boyle, Himalaya, p. 77 (nee L.). 
 Oorvus macrorhynchus, Gray ty Ilardw. III. Ltd. Zool. pi. 36. figs. 2a, 
 
@@ -3597,12 +3597,12 @@ Oorvus macrorhynchus, Gray ty Ilardw. III. Ltd. Zool. pi. 36. figs. 2a,
 Corvus enca, Swidev. Ann. N. II. xviii. p. 300 (nee IIo?-sf.). 
 Corvus culminatus, Gray, Cat. Mamm. §c. Nepal, Hodgs. p. 102 
 
-(nee Syhes) * Blyth, J. A. 8. B. xv. p. 24, xvi. p. 727, xxiv. p. 479; 
-id. Cat. B. Mm. A. 8. B. p. 89; Button, J. A. 8. B. xviL pt 2, 
+(nee Syhes) * Blyth, J. A. S. B. xv. p. 24, xvi. p. 727, xxiv. p. 479; 
+id. Cat. B. Mm. A. 8. B. p. 89; Button, J. A. S. B. xviL pt 2, 
 
 p. 9 • Bp. Consp. i. p. 385; Horsf. # Moore, Cat. B. 3Ius. E.L Co. 
 ii. p. 553 (pt.) ; Jerd. B. Ind. ii. p. 295; Blyth, Ibis, 1867, p. 34, 
-1868, p. 132 : Gray, Hand-L B. ii. p. 11: Godw.-Aust J. A. 8. B. 
+1868, p. 132 : Gray, Hand-L B. ii. p. 11: Godw.-Aust J. A. S. B. 
 1874, J. 170/ J' F ' 
 Corvus sinensis, Moore, Cat, B. Mus. B.I. Co. ii. p. 556; Gray, 
 
@@ -3955,7 +3955,7 @@ Corvus japonensis, Bp. Consp. i. p. 386; Midd. Sibir. Bets. Zool. p.
 ScJiL Bijdr. Dierk. Amsterd. 4to, art. Corvus, pi. i. tigs. 3 & 4 ,• id. 
 Mvs. A-B. Coraces, p. 15; Gray, Hand-l B. ii. p. 11 j Sivinh 
 
-P. Z. 8. 1871, p. 382. 
+P. Z. S. 1871, p. 382. 
 Adult. Above glossy purplish black, the wings rather more reddish 
 or bronzy purple, the bastard wing and primary-coverts, as well 
 as the outer aspect of the quills, steel-green, the inner webs of the 
@@ -4705,14 +4705,14 @@ i. Ad. sk. Kamtschatka. Purchased.
 k. Skeleton. Norfolk. Purchased. 
 /. Skull. S. Germany. Dr. Giinther. 
 2. Fucifraga hemispila. 
-Nucifraga hemispila, Vigors, P. Z. 8.1830, p. 8 j Gould, Cent. Himal. 
+Nucifraga hemispila, Vigors, P. Z. S.1830, p. 8 j Gould, Cent. Himal. 
 B. pi. 36; Hodgs. in Gray's Zool. Misc. p. 84; Gray, Cat. Mamm. 
-8fC Nepal Hodgs. p. 102; id. Gen. B. ii. p. 313 ; Blyth, J. A. 8. B. 
+8fC Nepal Hodgs. p. 102; id. Gen. B. ii. p. 313 ; Blyth, J. A. S. B. 
 xv. p. 25 ; id. Cat. B. Mus. A. 8. B. p. 90; Bp. Consp. i. p. 383 ; 
 Cab. Mas. Hem. Th. i. p. 229; Ilorsf. fy Moore, Cat. B. Mus. E.I. 
 Co. ii. p. 563 j Jerd. B. Ind. ii. p. 304; 8chl. Mus. P.-B. Coraces, 
 p. 38; Gray, Hand-l. B. ii. p. 9; David, N. Arch. Mus. Bull. 
-p. 9; Sioinh. P. Z. 8. 1871, p. 382; Hume, Nests $ Eggs Bid. B. 
+p. 9; Sioinh. P. Z. S. 1871, p. 382; Hume, Nests $ Eggs Bid. B. 
 p. 415. 
 Nucifraga immaculata, Blyth, Ibis, 1867, p. 36; Gray, Hand4. B. 
 ii. p. 9*. 
@@ -5236,16 +5236,16 @@ p. 314; Blyth, Cat. B. Mus. A. S. B. p. 91; Mors/. % Moore, Cat.
 B, Mus. F.I. Co. ii. p. 551; Jerd. B. Ind. ii. p. 305; Gould, B. 
 Asia, part xv.; Gray, Eand-l B, ii. p. 10. 
 15. PICA. 03 
-Pica megaloptera, Blyth, J. A. 8. B. xi. p. 193. 
+Pica megaloptera, Blyth, J. A. S. B. xi. p. 193. 
 
-Pica media, Blyth, J. A. 8. B. xiii. p. 39a; id. Cat. B. Mus. A. 8. B. 
+Pica media, Blyth, J. A. S. B. xiii. p. 39a; id. Cat. B. Mus. A. 8. B. 
 
 p. 91, App. p. 19; JEorsf. $ Moore, Cat. B. Mus. E.I. Co. ii. 
 p. 554 ; Gray, Eand4. B. ii. p. 10 j David, JV. Arch. Mus. vii. Bull. 
-p. 9; 8winh. P. Z. 8. 1871, p. 382. 
+p. 9; 8winh. P. Z. S. 1871, p. 382. 
 Pica varia, 8chl Rev. Crit. p. 54; id. Bier. Nederl pi. xiii. figs. 7,7a; 
 id. Mus. P.-B. Coraces, p. 39; Kjcerb. Orn. Ban. pi. xii. tig. 2. 
-Pica sericea, Gould, P. Z. 8. 1845, 'p. 2; Gray, Gen. B. ii. p. 314; 
+Pica sericea, Gould, P. Z. S. 1845, 'p. 2; Gray, Gen. B. ii. p. 314; 
 Bp. Consp. i. p. 383. 
 Cleptes hudsonicus, Gambel, Journ. Acad. iV. 8oi. Philad. 1847, p. 47. 
 Pica tibetana, Hodys. Ann. N. II (2) iii. p. 203. 
@@ -5725,7 +5725,7 @@ Z. S. 1831, p. 96; Keys. $ Blasius, Wirh. ^Eur. p. xiv: Gould,
 B. Eur. iii. pi. 217; Bree, B. Eur. i. p. 140, cum tab. 
 Oorvus cyanus, Schl. u. Susem. Vbg. Eur. ii. Taf. 5, 
 Cyanopolius cooki, Bp. Beport Brit. Assoc. 1849, p. 75. 
-Cyanopiea cooki, Bp. JP. Z. 8.1850, p. 86; id. Consp. i. 352 ; Fritsch, 
+Cyanopiea cooki, Bp. JP. Z. S.1850, p. 86; id. Consp. i. 352 ; Fritsch, 
 Vog. Eur. tab. xxvii. fig. 9; Dresser, B. Eur. part xxvii. j Irby, 
 
 B. Gibr. p. 129; B?-ee, B. Eur. 2nd ed. ii. p. 4, cum tab. 
@@ -5793,7 +5793,7 @@ Pailorhinus sinensis, Gray, Cat. Mamm. §*<;. Nepal JSodgs. 1846,
 p. 101; Blyth, J. A. &*£. xv. p. 27. 
 Pailorhinus occipitalis, J%tf2, J. A. S. B.xv. p. 26', id. Cat. B. Mus. 
 A. S. B. p. 98; Hutton, J. A. S. B. xvii. p. 681. 
-Psilorhinus albicapillus, Blyth, J. A. 8. B. xv. p. 28. 
+Psilorhinus albicapillus, Blyth, J. A. S. B. xv. p. 28. 
 Urocissa occipitalis, Cab. Mus. Hem. Th. i, p. 87; Goidd, B. Asia}
 pt. xiii.; Jerd, B. Ind. ii. p. 300; Hume, Nests and JEggs Ind. B. 
 
@@ -6059,7 +6059,7 @@ n\,n.($ 2juv.sk Cashmere.
 
 o. Juv. sk. Cashmere. R. B. Sharpe, Esq. [P.]. 
 5. "CTrocissa cserttlea. 
-Urocissa cserulea, Gould, P. Z. 8. 1862, p. 282; Swinfr. Ibis, 1803, 
+Urocissa cserulea, Gould, P. Z. S. 1862, p. 282; Swinfr. Ibis, 1803, 
 p. 384; Gould, B. Asia, part xvi.; Swinh. P Z. & 1871, p. 3*2. 
 Cissa cseralea, ScM. Mus. P.-P. Coraces, p. 71j. c7r«y, Hand-L P. 
 ii. p. 7. 
@@ -6325,7 +6325,7 @@ Jan. 19, 18(38.
 V. Ad. sk. Pegu. "W. T. Blanford, Esq. [P.], 
 c\ Skeleton. Zoological Society. 
 2. Dendrocitta frontalis. 
-Dendrocitta frontalis, McCUll P. Z. 8. 1839, p. 163; Bp. Consp. I 
+Dendrocitta frontalis, McCUll P. Z. S. 1839, p. 163; Bp. Consp. I 
 
 p. 309; Horsf. Sf Moore, Cat. B. Mm. JE.L Co. ii. p. 569; Jerd. 
 B. huh ii. p. 310; Gray, Iland-L B. ii. p. 8. 
@@ -6388,11 +6388,11 @@ a. Ad. st. India. Major-Gen. Hardwicke [P.].
 b. Ad. sk. India. J. E. Reeves, Esq. [P.] 
 c. Ad. sk. Malabar. J. Gould, Esq. (Type °^ species.) 
 4. Dendrocitta himalayensis. 
-Dendrocitta sinensis, Gould, P. Z. 8. 1833, p. 57; id. Tr. Z. 8. i. 
+Dendrocitta sinensis, Gould, P. Z. S. 1833, p. 57; id. Tr. Z. 8. i. 
 p. 89 j Gray, Cat. Mamm. $c. Nepal Hodgs. p. 102 ; Hutton, J. A. 
 8. B. xvii. p. 682 (1848); Blyth, Cat. B. Mus. A. 8. B. p. 92; Bp. 
 Consp. i. p. 369 j Cab. Mus. Hein. i. p. 217 j Horsf. <$• Moore, Cat 
-B. Mus. MI. Co. I p. 568; Godw.-Austen, J. A. 8. B. 1870, 
+B. Mus. MI. Co. I p. 568; Godw.-Austen, J. A. S. B. 1870, 
 p. 110. 
 Pica sinensis, Gould, Cent Ilimal B. pi. 43; Gray, in Hardw. III. 
 Ind. Zool i. pi. 26. 
@@ -6487,7 +6487,7 @@ Oorvus sinensis, Lath. Ind. Orn. i. p. 161; Baud. Traite, ii. p. 244 ;
 
 
 tShaw, Gen. ZooL vii. p. 369. 
-Dendrocitta sinensis, Gray, IIand~l. B. ii. p. 8; tiwinh. P. Z. 8.1871. 
+Dendrocitta sinensis, Gray, IIand~l. B. ii. p. 8; tiwinh. P. Z. S.1871. 
 
 p. 382. 
 Adult. Back and scapulars brown, shading off into greyish on tho 
@@ -6524,10 +6524,10 @@ b. Ad. sk. China. J. Gould, Esq.
 7. Dendrocitta occipitalis. (Plate III.) 
 Glaucopis occipitalis, Mull. Tijdschr. 1835, p. 343, pi. ix.fig. 1 j Schl. 
 Mus. P.-B. Coraces, p. 75. 
-Dendrocitta rufigaster, Gould, P. Z. 8. 1837, p. 80 j Bli/th, Cat B. 
+Dendrocitta rufigaster, Gould, P. Z. S. 1837, p. 80 j Bli/th, Cat B. 
 
 Mus. A. 8. B. p. 336; Gray, Sand4. B. ii. p. 8. 
-Crypsirhina rufigastra, Blyth, J. A. 8. B. xii. p. 933. 
+Crypsirhina rufigastra, Blyth, J. A. S. B. xii. p. 933. 
 Dendrocitta occipitalis, Bp. Consp. i. p. 369; Gray, Hand-L B. ii. 
 
 p. 8. 
@@ -6617,7 +6617,7 @@ Orypsirhina varians, Vieill. Analyse, p. 36; id. et Oud. Gal. Ois.
 
 
 pi. 100 ; Vigors, Mem. Raffles, p. 60o ; Gray, Gen. B. ii. p. 310; 
-Myth, J. A. 8. B. xii. p. 933, xvi. p. 464, xvii. p. 249; id. Cat. 
+Myth, J. A. S. B. xii. p. 933, xvi. p. 464, xvii. p. 249; id. Cat. 
 
 B. Mus. A. S. B. p. 92; Bp. Camp. i. p. 309; Cab. Mas. Ilein. 
 Tk, i. p. 216; Horsf. $ Moore, Cat. B. Mm. B.I. Co. ii. p. 504; 
@@ -7383,7 +7383,7 @@ b.
 gust 12,1872. 
 3. G-armlus japonicus. 
 Garriilus glandarius japonicus, Schl. Faun, Jap. p. 83, pi. 43 (1850). 
-Garrulus japonicus, Bp. Consp. i. p. 375 ; id. P. Z. 8. 1850, p. 375 j 
+Garrulus japonicus, Bp. Consp. i. p. 375 ; id. P. Z. S. 1850, p. 375 j 
 Cab. Mm. Hem. Th. i. p. 220; ScM. Mas, P.-B. Coraces, p. 60; 
 Dresser, B. Bur. art. Garrulus, part xx. 
 
@@ -9386,7 +9386,7 @@ Hob. Rio Boraxudo, near Paranagua (Natterer).
 
 14. Cyanocorax ornatus, 
 Pica ornata, Less, Bev. Zool. 1839, p. 41. 
-Cyanocorax ornatus, Gray, Gen, B. ii. p. 307; Scl P. Z. 8. 1857, 
+Cyanocorax ornatus, Gray, Gen, B. ii. p. 307; Scl P. Z. S. 1857, 
 
 
 p. 204, 1859, p. 305• Sold. Mm. P.-J5. (braces, p. 47. 
@@ -10248,7 +10248,7 @@ Brachyprorus, Cab. Mus. Hein. Th. i. p. 217 . .*. S* ciaeim
 Mange, Confined to Australia. 
 
 1. Stmthi&ea cinerea. 
-Struthidea cinerea, Gould, P. Z. 8. 1836, p. 143; id. Syn. B» Am$6r~ 
+Struthidea cinerea, Gould, P. Z. S. 1836, p. 143; id. Syn. B» Am$6r~ 
 I. pi. 9; id. P. Austr. iv. pi. 17; Meich. Vog. NeuholL p» 148; &mw» 
 Gen.JB.Ji. p. 309, pi. 75. %. 3; Pp. Consp. i. p. 368; Mehk.%2 
 Av. Taf. lrp. %. 7; Gould, Handb. P. Austr. i p. 472; 0«w» 
@@ -10688,7 +10688,7 @@ i. p. 205 * Doderl Avif. Sicil p. 64* Gray, Kand-l. B. ii. p. 15.
 Fregilus hinialayantis, Gould. P. Z. S. 1862. p. 125; Jerd. B. Ind ii. 
 p. 318. 
 Fregilus graculus, Tar. orientalis, Dybowshi, J.f.O. 1868, p. 332. 
-Fregilus graculus, Tar. brachypus, Swinh. P. Z. 8. 1871, p. 383. 
+Fregilus graculus, Tar. brachypus, Swinh. P. Z. S. 1871, p. 383. 
 Adult male. General colour above glossy purplish black, of a 
 silky texture; wings black, externally dull green• tail dull greenish 
 black; entire under surface of body glossy purplish black, shading 
@@ -12295,7 +12295,7 @@ Iland-l Bierk. i. p. 332, pi. iv. fig. 46; id. J.f. 0. 1861, p. 385 j
 id. Mus. P.-B. Coraees, p. 88; id. N T. D. iv. pp. 17, 49; Gray, 
 
 P. Z. S. 1858, p. 181, 1861, p. 436 ; id. Hand4. B. ii, jp. 16; Wall. 
-Ibis, 1859, p. Ill ', id. P. Z. 8. 1862, p. 160,- id. Malay Arch. ii. 
+Ibis, 1859, p. Ill ', id. P. Z. S. 1862, p. 160,- id. Malay Arch. ii. 
 p. 132; Wagler, Zool Gart. 1873, p. 10. 
 Le Roi des Oiseaux de Paradis, Sown. Voy. N. Guin. i. p. 156, 
 pi. 95. 
@@ -12386,7 +12386,7 @@ Mange. Confined to Waigiou.
 1. Ehipidornis respublica. 
 Lophorhina respublica, Bp. C. B. xxx. p. 13L 
 Diphyllodes respublica, Bp. C. B. xxx. p. 291; id. Consp. i. p. 413. 
-Diphyllodes gulielmi iii., Meyer, P. Z. 8.1875, p. 31 (ex Mttsschmbr. 
+Diphyllodes gulielmi iii., Meyer, P. Z. S.1875, p. 31 (ex Mttsschmbr. 
 MS.) j id. Mitth. zool. Mus. Mresden, 1875, p. 4, pi. 1; Gould, B. N. 
 
 Guin. part ii. 
@@ -13241,7 +13241,7 @@ id. II. N. p. 201, pis. 25 bis, 25 ter.
 
 Sericulus aureus, Gray, Gen. B. i. p. 232; Bp. Consp. i. p. 349 ; 
 
-Gray, P. Z. 8. 1861, p. 435; Wall. Ibis, 1861, p. 287; id. P. Z. S. 
+Gray, P. Z. S. 1861, p. 435; Wall. Ibis, 1861, p. 287; id. P. Z. S. 
 
 18G2, p. 160; id. Malay Arch. ii. p. 257; Schl. Mus. P.-B. Co
 
@@ -13795,7 +13795,7 @@ Mus. P.-B. Coraces, p. 101; Gray Hand-l. B. i. p. 291, Hume,
 Lahore to Yarh. p. 167; Senders. $ Hume, t, c. p. 200, pi- a.. 
 Hume, Nests and Eggs Ind. B. p. 299. . ,. ,. 5*,/ 
 
-Oriolus galbula, Sykes, P. Z. 8. 1832, p. 17; Hodgs..» Grays Zool. 
+Oriolus galbula, Sykes, P. Z. S. 1832, p. 17; Hodgs..» Grays Zool. 
 Misc. p. 83. _7 , T A Q -n -
 Oriolus aureus, Jerd. Madr. Journ. x. p. 261; Blijtk, J. A. o. J>. H. 
 
@@ -13919,7 +13919,7 @@ d. ? ad. sk. fW. Africa.] R. B. Sharpe, Esq.
 e. Ad. sk. River Gambia. Lieut.-Col. Strachan [P.]. 
 
 4. Oriolus notatus. 
-Oriolus auratus, Gurney, P. Z. 8. 1864, p. 2 (jiec V.) j Anderss. t c. 
+Oriolus auratus, Gurney, P. Z. S. 1864, p. 2 (jiec V.) j Anderss. t c. 
 p. 6 ; Layard, B. 8. Afr. p. 185. 
 Oriolus notatus, Peters, J.f. 0.1868, p. 132; Cab. in Von der Dec/ten's 
 Pets. Vbg. iii. p. 83; Gray, Hand-l. JB. i. p. 391; Sharpe, Ibis, 
@@ -13967,7 +13967,7 @@ Swains. An. in Menag. p. 342 (sub 0. coronatus) ;
 Byton, P. Z. S. 1839, p. 104. 
 Oriolus chinensis {nee Linn.), Jerd. Madr. Journ. x. p. 262; Blyth, 
 
-J. A. 8. B. xi. p. 797 • Dauid, N. Arch. Mas. Bull. p. 8 • Swinh. 
+J. A. S. B. xi. p. 797 • Dauid, N. Arch. Mas. Bull. p. 8 • Swinh. 
 P. Z. S. 1871, p. 374; Hume, Str. F. 1874, p. 477, 1875, p. 132 ; 
 Prjevakh. Orn. Misc. ii. p. 271. 
 Oriolus indicus, Jerd. III. 2nd. Orn. pi. 15; Blyth, J. A. S. B. xv. 
@@ -14218,8 +14218,8 @@ ad. sk. South Andaman,"Feb. 10, R. B. Sharpe, Esq. [P.].
 b. <$ ad, c. juv.sk. Port Blair, S. Andamans, R. B. Sharpe, Esq. [P.]. 
 July 7,1873 (Wimberlmj). 
 9. Oriolus bro&eripi 
-Oriolus broderipii, Bp. JP. Z. 8.1850, p. 279, pi. xviii.; id. Consp. i. 
-p. 348; Wall P. Z. 8. 1863, p. 485; JSchL Mm. P.-B. Ooraces, 
+Oriolus broderipii, Bp. JP. Z. S.1850, p. 279, pi. xviii.; id. Consp. i. 
+p. 348; Wall P. Z. S. 1863, p. 485; JSchL Mm. P.-B. Ooraces, 
 p. 106; id. Dirent. p. 179, cum fig.; Finsch, Neu-Guinea, p. 173 ; 
 Gray, Hand-l. B. i. p. 291. no. 4303. 
 Broderinus refulgens, Bp. C. R. xxxviii. p. 538 (1854). 
@@ -14429,7 +14429,7 @@ d.
 Jan. 1875. 
 e. cS juv. sk. Dumalon, Mindanao. Prof. J. B. Steere [0.]. 
 13. Oriolns frontalis. 
-Oriolus frontalis, Wall. P. Z. 8. 1862, p. 340, pi. xl; Finscli, Keu-
+Oriolus frontalis, Wall. P. Z. S. 1862, p. 340, pi. xl; Finscli, Keu-
 Guinea, p. 178 • Gray, Hand-l. B. i. p. 292. 
 Broderipus frontatus, Walden, Tr. Z. 8. viii. p. 61. 
 
@@ -14522,7 +14522,7 @@ a. <$ ad. sk. Sanghir Islands. Darmstadt Museum [E.].
 Mimetes flavocinctus, King, Survey Iniertr, Coasts Austr. ii. p. 419. 
 Mimeta flavocincta, Vig. fy Horsf. Tr. Linn. Boo. xv. p. 327 j Bp. 
 Consp. i. p. 346; Gould, Kaindb. B. Austr. i. p. 466; Firisch, Neio 
-Guinea, p. 173; Ramsay, P. Z. 8. 1868, p. 385. 
+Guinea, p. 173; Ramsay, P. Z. S. 1868, p. 385. 
 Oriolus flavocinctus, Gray, Gen. B. i. p. 232; Gould, B. Austr. iv. 
 pi. 14; SeM. M. P.-B. (Horaces, p. 110; Biggies, Orn. Austr. part 
 xvi.; Gray, Hand-l. B. i. p. 293. 
@@ -14834,7 +14834,7 @@ Bab. Bouru.
 a. S ad. sk. Bourn A. R. "Wallace, Esq. [C.l. 
 h, e. Juv, sk. Bouru. A. E. Wallace, Esq. [C.j. 
 20. Oriolns p&aeochromus. 
-Oriolus ph&ochromus, Gray, P. Z. 8. 1860, p. 351; Sc?il 31. P.~B. 
+Oriolus ph&ochromus, Gray, P. Z. S. 1860, p. 351; Sc?il 31. P.~B. 
 
 Coraces, p. 114* Gray, Rand-l. B. i. p. 293. 
 Mimeta phsenochroma, Mnsch, Neii-Guinea, p. 173. 
@@ -14970,7 +14970,7 @@ Cat B. Mus. B.L Co. i. p. 268; Pelz. Beis. Novara, Toy. pp. 75,
 151; Schl Mm. P.-B. Coraces, p. 109; Gray, Kand-l. B. i. p. 293 ; 
 Sahad. Ucc. Bom. p. 277. 
 Oriolus leucogaster, Temm. PI Col. 214 (texte, ex Beinw. MS.). 
-Oriolus castanopterus, Blyth, J. A. 8. B. xi. p. 796; Gray, Gen. B. 
+Oriolus castanopterus, Blyth, J. A. S. B. xi. p. 796; Gray, Gen. B. 
 L p. 232. 
 Xanthonotus leucogaster, Bp. C. It. xxxviii. p. 538. 
 
@@ -15048,7 +15048,7 @@ Oriulus rnelanocephalus, Linn. S. N. i. p. 1G0; Wagler, 8yst. Ai\
 
 Oriolus, sp, 8; Jerd. Madr. Journ. x. p. 262: Gray, Gen. B. i, 
 
-p. 232 j Myth, J. A. 8. B. xv. p. 45; id. Cat. B. Mus. A. 8. B. 
+p. 232 j Myth, J. A. S. B. xv. p. 45; id. Cat. B. Mus. A. 8. B. 
 p. 215 ; Bp. Consp. i. p. 846 ; Horsf. fy Moore, Cat. B. Mus. ML 
 Co. I. p. 209 • Jerd. B. Ind. ii. p. 110; Sehl Mus. P.-B. Coraces, 
 p. 106 j Gray, Hand-l B. i. p. 292 ; Ball, S. F. 3873, p. 73,1874, 
@@ -15056,9 +15056,9 @@ p. 412; Hume, 8. F. 1874, p. 477,1875, p. 133 5 id. Nests and Fags
 2nd. B. p. 801 • Blyth 8? Walden, B. Burm. p. 139. 
 Loriot de la Chine, Month. PL Enl. 79. 
 Loriot rieur, Levaill. Ois. d'Afr. vi. pi. 263. 
-Oriolus rnaderaspatanus, Franhl P. Z. 8.1881, p. 118. 
-Oriolus maccoshii, Tichell, J. A. 8. B. ii. p. 577. 
-Oriolus hodgsonii, Swains. An. m Menag. p. 290 ; Blyth, J. A. 8. B, 
+Oriolus rnaderaspatanus, Franhl P. Z. S.1881, p. 118. 
+Oriolus maccoshii, Tichell, J. A. S. B. ii. p. 577. 
+Oriolus hodgsonii, Swains. An. m Menag. p. 290 ; Blyth, J. A. S. B, 
 
 xi. p. 460; Hodgs. in Gray's Zool Misc. p. 83: Gray. Gen. B. i. 
 p. 232. . . 
@@ -15550,7 +15550,7 @@ disappears; in the Hainan bird it intensifies with age. (M.bwmtioe.)
 Hab. Hainan. 
 
 33. Oriolus trailli. 
-Pastor traillii, Viyws, P. Z. 8. 1831, p. 175 j Gould, Cent. B.ttmal. 
+Pastor traillii, Viyws, P. Z. S. 1831, p. 175 j Gould, Cent. B.ttmal. 
 Mts. pi. 35; Sod(/s. J. A. S. B. v. p. 772. . 
 Oriolus trailli, M'Cl'ell. P. Z. S. 1839, p. 160; Blyth, J. A. <S. B. zi. 
 
@@ -16470,7 +16470,7 @@ t. Ad. sk. Cape York. Capt. Stanley [P.].
 3. Chibia bimaensis. 
 Bicrurus 
 bimaensis, Bp. Consp. i. p. 352 {ex Temm. MS. in Mus. 
-Jjugd., descr. nulla) ; Wall. P. Z. 8. 1863, p. 494 (descr. princeps) ; 
+Jjugd., descr. nulla) ; Wall. P. Z. S. 1863, p. 494 (descr. princeps) ; 
 Finsch Neu-Guinea, p. 171; Gray, Hand-l. B. i. p. 288. 
 
 Head of Chibia bimaensis. 
@@ -16623,7 +16623,7 @@ A. R. Wallace, Esq.
 e. Juv. sk. N. Ceram. 
 5. Chibia pectoralis. 
 Dicrurus 
-pectoralis, Wallace, P. Z. 8. 1862, pp. 335, 342 • Finseh, 
+pectoralis, Wallace, P. Z. S. 1862, pp. 335, 342 • Finseh, 
 Neil-Guinea, p. 170 • Gray, Hand-l. B. i. p. 2«5. 
 
 Head of Chibia pectoralis. 
@@ -16809,7 +16809,7 @@ Entomoletes aeneus. Sundev. Av. Meth, Tent. p. 22.
 
 
 5 . B0CIIANGA. 245 
-Sckter, P. Z. 8. 1803, p. 218• Gray, HmuU B. i. p. 287; Salvad. 
+Sckter, P. Z. S. 1803, p. 218• Gray, HmuU B. i. p. 287; Salvad. 
 Ucc, Bom. p. 153. 
 Dicrurus picinus, Bp. Consp. I p. 352 (tw Miill MS. i*i Mm. Lugd.); 
 Gray, Iland-L B. i. p. 285; fValdm, B. Burm. p. 128. 
@@ -16944,7 +16944,7 @@ Muscicapa biloba, Lieht. Verz. Doubl. p. 52.
 Dicrurus indicus, Steph. Gen. Zool. xiii. p. 189 (ev Levaill.} ; Hodgs. 
 Asiat. Research, xiii. p. 21, cum jig. 
 Dicrurus balicassius, Syhes, P. Z. S. 1832, p. 86 (nee L.) ; Jerd. Madr. 
-Journ. x. p. 238; M Clell P. Z. S. 1839, p. 158 ; Bhjth, J. A. 8. B. 
+Journ. x. p. 238; M Clell P. Z. S. 1839, p. 158 ; Bhjth, J. A. S. B. 
 
 xi. p. 175. 
 Buclianga albirictus, Hodgs. Lid. Rev. i. p. 326; Hume, 8. F. 1873, 
@@ -17390,7 +17390,7 @@ a, b. Ad, sk. Nepal. B. H. Hodgson, Esq.. [P.].
 
 c. Ad. sk N. W, Himalayas. Cap! Stackhonse Pmwill [P,], 
 5. Buchanga leucogenys. 
-Dierurus cineraceus, Blyth, J. A. 8. B. xv. p. 299; id. Cat. B. Mus. 
+Dierurus cineraceus, Blyth, J. A. S. B. xv. p. 299; id. Cat. B. Mus. 
 A. 8. B. p. 203. 
 Dierurus leucopbaus, Swtnh. JP. Z. $, 1868, p. 285 (nee Vieill.); 
 Hume, S.^F 1874, p. 210, 1875, p. 99. 
@@ -17488,7 +17488,7 @@ d. Ad. sk. Qondul, Katiawar, Nov, Major J. Hayes Lloyd [P.J,
 
 Subsp. ct. Buchanga insularis. 
 
-Buchanga caerulescens, JEColdsw. P. Z. 8. 1872, p. 439 (nee £.). 
+Buchanga caerulescens, JEColdsw. P. Z. S. 1872, p. 439 (nee £.). 
 
 ^Lc^wZi maZe. Similar to B. ccerulescens, but much smaller and 
 darker, especially on the throat and chest, which are slaty brown 
@@ -17559,10 +17559,10 @@ Dicrurus forficatus, Steph. Gen. Zool. xiii. part 2, p. 138* Gray, Gen,
 
 B. i. p. 286; Bp. Consp. i. p. 351* Hartl. Faun. Madag. p. 40 
 Roch 8f E. Newt. Ibis, 1862, p. 274 * F. Newt. Ibis, 1863, p. 348 
-Sol. P. Z. 8. 1863, p. 163; A. Newt. P. Z. 8. 1865, p. 834; Schl 
-P. Z. 8. 1806, p. 423 • Grand. Rev. et Mag. de Zool. 1867, p. 386 
+Sol. P. Z. S. 1863, p. 163; A. Newt. P. Z. S. 1865, p. 834; Schl 
+P. Z. S. 1806, p. 423 • Grand. Rev. et Mag. de Zool. 1867, p. 386 
 Schl. # Pollen, Faun. Madag. Ois. p. 79; Gray, Hand-l. B. i 
-p. 286; 8karpe, P. Z. 8. 1870, p. 390; id. Cat. Afr. B. p. 47 
+p. 286; 8karpe, P. Z. S. 1870, p. 390; id. Cat. Afr. B. p. 47 
 no. 842. 
 Adult. Black, everywhere glossed with steel- or bine-black; quills 
 and tail black, glossed on the outer web with greenish steel-black; 
@@ -17808,7 +17808,7 @@ Dicrurus platurus, VieilL N. Diet. d?Hu&. KaL ix. p. 588; Gmy$
 
 Hand-l B. i. p. 287. 
 Edolius malabaricus, Horsf. Tr. Linn. Soc. xiii. p. 145. 
-Edolius rangoonensis, Gould, P. Z. 8. 1836, p. 5; Biytkf J,A.& B* 
+Edolius rangoonensis, Gould, P. Z. S. 1836, p. 5; Biytkf J,A.& B* 
 
 xi. p. 172. 
 Edolius grandis, Gould, P. Z. S. 1830, p. 5; Blyik, J.A.S.B. xi. 
@@ -17820,7 +17820,7 @@ HI. Ind. Orn. iv. pi. 38.
 Dicrurus grandis, MClell. P. Z, S. 1839, p. 15b; Gray* Gen. B»u 
 
 p. 286. 
-Edolius cristatellus, Blyih, J. A. 8. B. xi. p. 171. 
+Edolius cristatellus, Blyih, J. A. S. B. xi. p. 171. 
 Edolius dentirostris, A. Hay, apud Jerd. Madr. Joum. u, p. 121. 
 Edolius orissse, A. Hay, apud Jerd. I. e. 
 Dicrurus paradiseus, Gray, Gen. B. i. p. 286; 2M&. ¥m« Wmarm* 
@@ -19380,7 +19380,7 @@ Rectes kirrocephalus, Bp. C. JR. xxxi. p. 563; Scl Journ. Linn. Soc~
 
 1858, p. 161; Gray, P. Z. S. 1859. p. 157; id. Cat Mamm. $c. N. 
 
-Guin. p. 33; Finsch, Neu-Guinea, p. 170; Scl. P. Z. 8. 1873, p. (396. 
+Guin. p. 33; Finsch, Neu-Guinea, p. 170; Scl. P. Z. S. 1873, p. (396. 
 Timalia poliocepkala, Bp. C. B. xxxi. p. 563 (ex Mull). 
 Rectes dichrous, Bp. C. B. xxxi. p. 5(J'3 ; Scl Journ. Linn. Soc. 1858, 
 
@@ -20132,7 +20132,7 @@ Goidd, P. Z. S. 1845, p. 80; id. B. Amtr.
 Intr. p. xxxvii; Bp. Com}), i. p. 366; Gould, Ilandb. B. Austr. i. 
 
 p. 226; Gray, Eand4. B. i. p. 386. 
-Myiolestes gouldi, Gray, P. Z. 8. 1858, p. 180. 
+Myiolestes gouldi, Gray, P. Z. S. 1858, p. 180. 
 Myiolestes griseatus, Gray, P. Z. &. 1858, p. 180. 
 Colluricincla parvissima, Gould, Ann. fy Mag. Nat. Hist (4) x. 
 p. 114. 
@@ -20279,7 +20279,7 @@ Eab. Island of Mysore, in Geelvink Bay, Xew Guinea.
 6. Pinarolestes tenebrosus, 
 Rectes tenebrosus, Hirtlauh # Fimch, P. Z. *$. 16CS, pp. 6, IP, lid, 
 
-P. Z. 8.1872, p. 99; Finsch, Journ. Mm. Godtfr. IMt viii. p. 18, 
+P. Z. S.1872, p. 99; Finsch, Journ. Mm. Godtfr. IMt viii. p. 18, 
 Taf, iii.fig. 1. 
 Colluricincla tenebrosaj Gray, Hand-L B. L p. 380. 
 
@@ -20556,7 +20556,7 @@ b. Grey above; in front of the eye a conspicuous
 white tuft of plumes over the loral region cinei-ascens, p. 304. 
 1. Fraseria ochreata. 
 Tephrodornis ochreatus, 
-Strickl. P. Z. 8. 1844, p. 102; Allen, JExp. 
+Strickl. P. Z. S. 1844, p. 102; Allen, JExp. 
 Niger, ii. p. 489; Fraser, Zooloqia Ti/p. pi. 36; Bp. Consp. i. 
 
 p. 358; Hartl. J.f O. 1855, p. 3tf0; Gray, Haml-l. B. i. p. 394. 
@@ -20653,7 +20653,7 @@ HEMIPUS. 305
 13. HEMIPUS. 
 
 Type. 
-Ilemipus, Hodgson, P. Z. 8. 1845, p. 32 II. capitalis. 
+Ilemipus, Hodgson, P. Z. S. 1845, p. 32 II. capitalis. 
 Myiolestes, Cabanis, Mus. Ilein. Th. i. p. 67 (I860) II. obsciirus. 
 Cabanisia, Bp. C. R. xxxviii. p. 536 (1854) ' II. obscurus. 
 
@@ -21638,7 +21638,7 @@ Prionops talacoma, Smith, Report Exp. Fxpk C. Afr. App. p. 45; id.
 ML Zool. S. Afr. Aves, pi. v.; Gray, Gen. B. i. p. 292; Bp, Comp. 
 
 i. p. 359; (tray, Ann. N. II (3) xiv. p. 374; Kirk, Ibis, 1864, 
-p. 319; Gunuy, P. Z. 8.1804, p. 3 ; Anders*, t. c. p. 5; Layard, 
+p. 319; Gunuy, P. Z. S.1804, p. 3 ; Anders*, t. c. p. 5; Layard, 
 B. 8. Afr. p. 160; Gurnet/, Ibis, 1868, p. 267; Gray, IIand4. B. 
 . i. p. 305 ; Ayres, Ibis, 1869, p. 203; Sharpe, P Z. 8. 1870, p. 148; 
 Finsch <§• Ilartl. Yog. Ostaf. p. 305 ; Sharpe, Cat. Afr. B. p. 49 ; 

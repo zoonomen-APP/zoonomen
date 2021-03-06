@@ -1514,12 +1514,12 @@ Galapagos. Sir W. Burnett and
 Admiral Fifzroy [P.]. 
 2. Geospiza strenua. 
 
-Geospiza strenua, Gould, P. Z. 8. 1837, p. o; Darwin, ZooL Toy. 
+Geospiza strenua, Gould, P. Z. S. 1837, p. o; Darwin, ZooL Toy. 
 'Beagle,' Birds, p. 100, pi. xxxvii. (1841)* Gray, Gen. B. ii. p. 359 
-(1844) j Bp. Consp. i. p. 542 (1850)• Scl. $ Sab. P. Z. 8.1870, 
+(1844) j Bp. Consp. i. p. 542 (1850)• Scl. $ Sab. P. Z. S.1870, 
 
 p. 323; Gray, Hand-l B. ii. p. 88; no. 7298 (1870); Sunder. 
-P. Z. 8. 1871, p. 124; Scl. $ Sab. Nomencl. Av. Neotr. p. 27 
+P. Z. S. 1871, p. 124; Scl. $ Sab. Nomencl. Av. Neotr. p. 27 
 (1873) j Salv. Tram. Z. S. ix. p. 480 (1876). 
 Adult male (type of species). Similar to <r. magmrostris, but 
 smaller: " bill brown -or black or yellowish brown; tarsus black or 
@@ -1984,7 +1984,7 @@ species of Camarliynchus is simply one of size, and so no "key to the
 species " can be tabulated. 
 
 1. CaHiarhyiichus variegatus. 
-Camarhynchus variegatus, 8cl. £ 8alv. P. Z. 8. 1870, pp. 323, 324 ; 
+Camarhynchus variegatus, 8cl. £ 8alv. P. Z. S. 1870, pp. 323, 324 ; 
 id. Nomencl Av. Keotr. p. 29 (1873) ; Sahin, Trans. Z. 8. ix. 
 
 p. 489, pi. lxxxv. (Ib76), 
@@ -2169,7 +2169,7 @@ Range. Confined to the Galapagos Archipelago.
 Cactornis assimilis, 
 Gould, P. Z. S. 1837, p. 7; Darwin, Zool. Vox/. 
 'Beagle? Birds, p. 105, pi. xliii. (1841); Gray, Gen. B. ii. p. 359 
-(184-4) ; Bp. Consp. i. p. 542 (1850) ; ScL # Sah. P. Z. 8. 1870, 
+(184-4) ; Bp. Consp. i. p. 542 (1850) ; ScL # Sah. P. Z. S. 1870, 
 
 p. 323; Gray, Hand-L B. ii. p. 89, no. 7308 (1870); ScL 8r Salv. 
 Nomencl. Av. Neotr. p. 29 (1873); Salvin, Trans. Z. S. ix. p. 486 
@@ -2212,7 +2212,7 @@ Gould, P. Z. S. 1837, p. 7 ; Darwin, ZooL Voy.
 i Beagle] Birch, p. 104, pi. xlii. (1841); Gray, Gen. B. ii. p. 359 
 (1844); Bp. Consp. i. p. 542 (1850) ; Sol $ Salv. P. Z. S. 1870, 
 p. 323; Gray, Hand-L B. ii. p. 89, no. 7307 (1870): Sundeo. 
-P. Z. 8. 1871, p. 124; Scl, $ 8ah. Nomencl Av. Neotr. p. 29 
+P. Z. S. 1871, p. 124; Scl, $ 8ah. Nomencl Av. Neotr. p. 29 
 
 (1873); Salvin, Trans. Z. S. ix. p. 485 (1870). 
 Tisserin des Gallapagoes, Neboux, Rev. ZooL 1840, p. 291. 
@@ -2313,7 +2313,7 @@ Salvhi-Godman Coll.
 1868 (Br. A. Habel). 
 
 3. Cactornis abingdonl. 
-Cactornis abingdoni, Scl. $ Sab. P. Z. 8. 1870, p. 326; iid. Komencl 
+Cactornis abingdoni, Scl. $ Sab. P. Z. S. 1870, p. 326; iid. Komencl 
 Av. Neotr. p. 29 (1873) ; Salmn, Tram. Z. 8. ix. p. 486 (1876). 
 
 Adult male (type of species). Entirely sooty black, with the exception 
@@ -2334,7 +2334,7 @@ a. [c?l ad. sk. Abingdon Island, Dec. Salvin-Godman Coll.
 b. [tf] ad. sk. Abingdon Island, Dec. Dr. A. Habel [C], 
 4. Cactornis pallida. 
 Cactornis pallida, 
-Scl. fy Salv. P. Z. 8. 1870, p. 327; iid. Komencl 
+Scl. fy Salv. P. Z. S. 1870, p. 327; iid. Komencl 
 Av. Neotr. p. 29 (1873) ; JSahm, Trans. Z. 8. ix. p. 487 (187G). 
 
 Male. (? In seasonal plumage.) General colour above pale olive-
@@ -3012,7 +3012,7 @@ Hesperipliona melanura, Bp. Consp. i. p. 506 (1850).
 Eophona nielanura, Gould, B. Asia, v. pi. 19 (1851); Sorsf. §• 
 Moore, Cat B. El. Co. Mus. ii. p. 462 (1854); Gray, Eand-l. B. 
 
-ii. p. 88, no. 7293 (1870); Swinh. P. Z. 8.1871, p. 386; id. Ibis, 
+ii. p. 88, no. 7293 (1870); Swinh. P. Z. S.1871, p. 386; id. Ibis, 
 1873, p. 372,1875, p. 121; Dyboivsh', J.f. 0. 1876, p. 199; Tacz. 
 Bull. Soe. Zool. France, i. p. 181 (1876): David <§• Oust. Ois. Chine, 
 p. 347, pi. 92 (1877). 
@@ -4604,17 +4604,17 @@ ii. p. 362 (1844).
 Pitylus dorsigerus, Jard. $ Selby, HI. Orn. iv. (n. s.) pi. 44 (c. 1840). 
 Coccoborus chrysogaster, Tschudi $• Cab. Faun. Peruan., Aves, p. 222 
 (1855). 
-Pheucticus chrysogaster, 8cl P. Z. 8. 1858, pp. 450, 454, 1850, 
+Pheucticus chrysogaster, 8cl P. Z. S. 1858, pp. 450, 454, 1850, 
 
 p. 140, 1860, p. 87; id. Cat. Amer. B. p. 100 (1862); id. § Solo. 
 Nomencl. Av. Neotr. p. 27 (1873) ; Laiur. 3Ie?n. Post 8oc. iVT. H. 
-iv. p. 275 (1874); Tacz. P. Z. 8. 1880, p. 199; JSalv. Cat. 8tricM. 
-Coll. p. 218 (1882); Berl § Tacz. P. Z. 8. 1883, p. 549, 1884, 
+iv. p. 275 (1874); Tacz. P. Z. S. 1880, p. 199; JSalv. Cat. 8tricM. 
+Coll. p. 218 (1882); Berl § Tacz. P. Z. S. 1883, p. 549, 1884, 
 p. 292; Salvin fy Godman, Biol. Centr.-Amer., Aves3 i. p. 335 
 (1884) ; Tacz. Orn. Perou, ni. p. 335 (1884). 
 Goniaphea chrysopeplus, Gray, Hand-l. B. ii. p. 104, no. 7550 
 (1870). 
-Pheucticus chrysopeplus (nee Fig.), Tacs. P. Z. 8. 1874, p. 519, 1879, 
+Pheucticus chrysopeplus (nee Fig.), Tacs. P. Z. S. 1874, p. 519, 1879, 
 
 p. 229. 
 Adult. Similar to P. chrysopeplus, but much smaller, and not 
@@ -4836,8 +4836,8 @@ Buckley).
 
 5. Pheucticus xtropygialis. 
 Pheucticus aureiventris (nee D'Orb. fy Lafr.), Cab. Mus. Eein. Th. i. 
-p. 153 (1850) ; Sol P. Z. 8.1855, p. 154 
-Pheucticus uropygialis, Scl fy Sah. P. Z. 8. 1870, p. 840; nd. 
+p. 153 (1850) ; Sol P. Z. S.1855, p. 154 
+Pheucticus uropygialis, Scl fy Sah. P. Z. S. 1870, p. 840; nd. 
 Nomencl Av. Neotr. p. 27 (1873); Salv. Cat Strickl Coll. p. 218 
 (1882) ; id. 8f Godman, Biol. Centr.-Amer., Aves, i. p. 334 (1884); 
 
@@ -4914,7 +4914,7 @@ I Ad. st.
 Pheucticus aureiventris {nee I)1 Orb. fy Lafr.). 8cL P, Z, 8. 1858, 
 p. 551,18G0, p. 87. 
 Pheucticus crissalis, 8cl <§* 8ah. T. Z. 8. 1877, p. 19; Tacz, & Ber^ 
-lepsch, P. Z. 8. 1885; p. 84. 
+lepsch, P. Z. S. 1885; p. 84. 
 
 11. PHETTCTICTJS. 
 Pheucticus liemiclirysus (lapsu), Sahin § Godman, Biol Centr.-
@@ -5327,7 +5327,7 @@ Salvin-Godman Coll.
 2. Hedymeles melanocepialus. 
 Guiraca melanocephala, 
 Swains. Phil. Mar/, n. s. i. p. 438 (1827); 
-Bp. P. Z. 8. 1837, p. Ill; id. Comp. List B. Fur. § JV. Amer. 
+Bp. P. Z. S. 1837, p. Ill; id. Comp. List B. Fur. § JV. Amer. 
 
 p. 30 (1838); id. Comp. i. p. 502 (1850); Baird, B. N. Amer. 
 p. 498 (1858); Duges, La Nat. i. p. 139 {1868); Sumichr. Mem. 
@@ -5342,8 +5342,8 @@ Ooccoborus melanocephalus, Audul. Syn. p. 133 (1839); id. B. Amer.
 Pitylus melanocephalus, Gray, Gen. B. ii. p. 362 (1844). 
 Hedyraeles melanocephalus, Cab. Mus. Hein. Th. L p. 153 (1850); 
 
-ScL P. Z. 8. 1857, p. 213, 1858, p. 303, 1859, p. 365; id. Cat. 
-Amer. B. p. 100 (1862); id. P. Z. 8. 18G4, p. 174; Sd. $ 8ate. 
+ScL P. Z. S. 1857, p. 213, 1858, p. 303, 1859, p. 365; id. Cat. 
+Amer. B. p. 100 (1862); id. P. Z. S. 18G4, p. 174; Sd. $ 8ate. 
 Nomencl. Av. Neotr. p. 27 (1873); Laivr. Mem. Bost. Soc. u. 
 
 12 . HEDYMELES. 
@@ -5810,15 +5810,15 @@ Hicks ; Sm. no. 53184).
 2. Ghiiraca parellina. 
 Fringilla parellina, LicM. in Mus. Berol, undh 
 Cyanoloxia parellina, Bp. Consp. i. p. 502 (1850). 
-(ioniaphea parellina, ScL P. Z. 8. 1850, p. 302, 1857, p. 228; Gray, 
+(ioniaphea parellina, ScL P. Z. S. 1850, p. 302, 1857, p. 228; Gray, 
 
 
 Iland-l. B. ii. p. 103, no. 7541 (1870). 
-Guiraca parellina, Scl P. Z. 8. 1859, pp. 3G5,378; id. Cat. Amer. B. 
+Guiraca parellina, Scl P. Z. S. 1859, pp. 3G5,378; id. Cat. Amer. B. 
 
 p. 101 (1802); id. 8f Salv. Nomencl. Av. Neotr. p. 27 (1873); 
 Lawr. Mem. Bost. Soc. Nat Bist. ii. p. 276 (1874); id. Bull. U.S. 
-Nat. Mus. no. 4, p. 20 (1870); Barnard, P. Z. 8. 1883, p. 444; 
+Nat. Mus. no. 4, p. 20 (1870); Barnard, P. Z. S. 1883, p. 444; 
 Salvin 8f Godman, Biol. Centr.-Amer., Aves, i. p. 347 (1885). 
 Cjanospiza parellina, Baird, B.N Amer. p. 502, pi. lvi. fig. 1 (1858) ; 
 id. Mex. Bound. Surv. ii., Birds, p. 17 (1859); 8umichr. Mem. 
@@ -6600,12 +6600,12 @@ Hob. Nicaragua.
 14 . ORYZOBOBTJSo 
 6. Oryzoborus fuuereus. 
 Oryzoborus funereus, Scl. P. Z. S.1859, p. 378; id. $ Salv. Ibu. 1860, 
-p. 898 j Scl. Cat. Amer. B. p. 102 (1802); Solo. P. Z. 8.1807, p. 141, 
+p. 898 j Scl. Cat. Amer. B. p. 102 (1802); Solo. P. Z. S.1807, p. 141, 
 1870, p. 189 ; 8cl. $ 8alv. Nomencl. Av. Neotr. p. 28 (1873); iid. 
 P. Z.8. 1879, p. 506; Ridgw. Sf Nutting, Pr. U.S. Nat. Mm. vi. 
 p. 400 (1883): 8ah. $ Godm. Biol. Cent.-Amer., Aves, i. p. 349 
 (1886). 
-Oryzoborus aethiops, Scl. P. Z. 8.1860, pp. 88, 276; Lawr. Ann. Lye. 
+Oryzoborus aethiops, Scl. P. Z. S.1860, pp. 88, 276; Lawr. Ann. Lye. 
 
 N. Y. vii. p. 333 (1861); Scl Cat. Amer. B. p. 102 (1862). 
 Goniapliea funerea, Gray, Hand-l. B. ii. p. 104, no. 7556 (1870). 
@@ -6747,7 +6747,7 @@ Pyrrhula rufobarbata, Hahn # Kilster, Vdg. am Asien etc. Lief. vii.
 
 Taf. 6 (1850). 
 Pyrrhulagra violacea, Bp. Consp. i. p. 403 (1850). 
-Loxigilla" violacea, Sclater, P. Z. 8. 1857, p. 231, 1861, p. 74; id. 
+Loxigilla" violacea, Sclater, P. Z. S. 1857, p. 231, 1861, p. 74; id. 
 
 Cat. Amer. B. p. 102 (1862) j Ridgw. Proc. U. S. Nat Mas. i. 
 
@@ -6937,7 +6937,7 @@ Hah Essequibo River and Berbice, Guiana.
 
 Spermophila anoxantha, Gosse, B. Jamaica, p. 247, pi. 62 (1847). 
 
-Loxigilla anoxantha, Sol P. Z. 8. 1861, p. 74; zd Cat Amer.B. 
+Loxigilla anoxantha, Sol P. Z. S. 1861, p. 74; zd Cat Amer.B. 
 
 p. 102 (1862) j March, Pr. PMlad. Acad. 1863, p. 207 ',A.JfF. ISewton, 
 Haridb. Jamaica, 1881, p. 104; Salvin,Cat StrieMColl p. 219 
@@ -7093,7 +7093,7 @@ Neorhynchus nasesus, Scl P. Z. S. 1869, p. 147, pi. 12; Tacz. P. Z. &
 
 1874, p. 520; 1877, p. 320; Salv. Cat. Sirickl. Coll. p. 223 (1882) • 
 
-Berlepsch 8f Tacz. P. Z. 8. 1883, pp. 537, 550.^ 
+Berlepsch 8f Tacz. P. Z. S. 1883, pp. 537, 550.^ 
 
 Gyrkinorhynckus 
 niasesiis, Gray, Hand-l. B. ii. p. 107, no. 7625 
@@ -7644,7 +7644,7 @@ Loxia grisea, Gm. Syst. Nat. i. p. 857 (1788).
 Spermophila grisea, Gray, Gen. B. ii. p. 386 (1844); Scl. Ibis, 1871, 
 
 
-p. 18; id. $ Salv. Nomencl. Av. Neotr. p. 28 (1873); iid. P. Z. 8. 
+p. 18; id. $ Salv. Nomencl. Av. Neotr. p. 28 (1873); iid. P. Z. S. 
 1879, p. 507 • Salv. & Godman, Biol. Centr.-A?ner.} Aues, i. p. 3-56 
 (1884); Sakin, Ibis, 1885, p. 215. 
 SporopMla cinereola, Pp. Consp. i. p. 499 (1850). 
@@ -7972,8 +7972,8 @@ f. o* Ad. sk. San Paulo (Joyner). iSalvin-Godraan Coll.
 g. Ad. fck. Brazil. Sah in-Godman Coll, 
 
 6. SpermopMla simplex. 
-Sperrnopkila simplex, Tacz. P. Z. 8. 1874, pp. 182, 510; Xation, t. c. 
-p. 329; Tacz. P. Z. 8. 1880, p. 109; id. Orn. Ptrov, iii. p. 16 
+Sperrnopkila simplex, Tacz. P. Z. S. 1874, pp. 182, 510; Xation, t. c. 
+p. 329; Tacz. P. Z. S. 1880, p. 109; id. Orn. Ptrov, iii. p. 16 
 (1886}. 
 Sporophila simplex, Giebel7 Tim. Orn. iii. p. 523 (L877). 
 
@@ -8019,7 +8019,7 @@ Sclater Coll.
 Sclater Coll. 
 
 7. Spermophila obscura. 
-Spermophila obscura, Tacz. P. Z. 8. 1874, p. 519; id. Orn. Pirou, 
+Spermophila obscura, Tacz. P. Z. S. 1874, p. 519; id. Orn. Pirou, 
 iii. p. 17 (188G). 
 Spermophila ornata, ? {nee LicM.), Salvin, Ibis, 1880, p. 353. 
 Adult male. General colour above uniform brown, slightly washed 
@@ -8058,8 +8058,8 @@ b. $ ad. sk. Salta, Argentine Eepublic, H. Durnford, Esq. [C.].
 June 28, 1878. 
 
 8. Spermophila pauper. 
-Spermophila obseura (nee Tacz. 1874), Tacz. P. Z. 8. 1880, p. 199. 
-Spermophila pauper, Berlepsch § Tacz. P. Z. 8. 1883, p. 550; Tacz. 
+Spermophila obseura (nee Tacz. 1874), Tacz. P. Z. S. 1880, p. 199. 
+Spermophila pauper, Berlepsch § Tacz. P. Z. S. 1883, p. 550; Tacz. 
 Om. Perou, iii. p. 18 (1886). 
 
 Adult male. General colour above brown, with a slight olive 
@@ -8091,10 +8091,10 @@ Pyrrhula alaudina, cTOrb. 8f Lafr. Syn. Av., Mag. de Zool. 1887,
 p. 88. 
 Spermophila 
 telasco, Gray, Gen. B. ii. p. 386 (1844); Scl. His, 
-1871, p. 7; id: P. Z. 8. 1871, p. 407; id. § Sah. Xomencl. Av. 
-Keotr. p. 28 (1873); Nation, P. Z. 8. 1874, p. 329; Tacz. t c. 
+1871, p. 7; id: P. Z. S. 1871, p. 407; id. § Sah. Xomencl. Av. 
+Keotr. p. 28 (1873); Nation, P. Z. S. 1874, p. 329; Tacz. t c. 
 
-p. 519, 1877, p. 320; Berlepseh $ Tacz. P. Z. 8. Ib83, p. 550; 
+p. 519, 1877, p. 320; Berlepseh $ Tacz. P. Z. S. Ib83, p. 550; 
 Sah. t c. p. 421; Tacz. Orn. Perou, iii. p. 14 (1886). 
 SporopMla alaudina, Bp. Consjh i. p. 490 (1850); Tschudi fy Cab. 
 Faun. Peruan. p. 222 (1855). 
@@ -8180,13 +8180,13 @@ Spermophila rufirostris, Sclater, Ibis, 1871, p. 21.
 
 Catarnenia inornata, 8c!. § 8alv. Nomencl Av. Xeotr. p. 31 (1873); 
 
-Tacz. P. Z. 8. 1874), p. 229,1880, p. 199; 8cl. P. Z. 8. 1881, p. 4b6; 
+Tacz. P. Z. S. 1874), p. 229,1880, p. 199; 8cl. P. Z. S. 1881, p. 4b6; 
 Berlepsch $ Tacz. B. Z. 8. 188o, p. 85. 
-Catarnenia rufirostris, Tacz. P. Z. 8. 1874, p. 521; id. Orn. Berou, 
+Catarnenia rufirostris, Tacz. P. Z. S. 1874, p. 521; id. Orn. Berou, 
 
 iii. p. 21 (1880). 
 Catarnenia 
-homochroa, Berlepsch § Tacz. P. Z. 8. 1884, p. 293 {nee 
+homochroa, Berlepsch § Tacz. P. Z. S. 1884, p. 293 {nee 
 Sclater). 
 
 Adult male. General colour above bluish, grey, streaked with 
@@ -8235,7 +8235,7 @@ ad. sk. Acancocha, Peru, May 1873 Sclater Coll.
 Catanienia kornoekroa, Sclater, P. Z. S. 1858, p. 552,18G0, p. 88; id 
 Cat Amer. B. p. 106 (1862); id. # Sah. Nomencl AD. Neoir 
 
-p. 31 (1873) ; Tacz. P. Z. 8. 1874, p. 521, 1879, p. 229; Berlepsch 
+p. 31 (1873) ; Tacz. P. Z. S. 1874, p. 521, 1879, p. 229; Berlepsch 
 $ Tacz. P. Z. & 1885, p. 85. ' 
 Gyrinorhynchus liomocliroiis, Gray, Hand-l. B. ii. p. 107, no. 7021 
 (1870). 
@@ -8919,7 +8919,7 @@ I. p. 495 (1850); Fete. Orn. Bras. p. 226 (1871); Sel Ibis, 1871,
 115 
 
 p. 6, pi. i. figs. 1, 2; id. $ Safo. Nomencl. Av. Neotr. p. 28 (1872) ; 
-iid. P. Z. 8. 1879, p. 604. ^ K }l 
+iid. P. Z. S. 1879, p. 604. ^ K }l 
 SporopHla nigrorufa, Cab. Mus. JTein. Tk. i. p. 150, note (1850). 
 Gyrinorkynckus nigrorufus, Gray, Hand-l. B. ii. p. 105, no. '7583 
 
@@ -8980,7 +8980,7 @@ p. 251 (1856).
 FEINGTLLIDiB. 
 
 Pyrrhula pileata, Natterer, MSS.} unde 
-Spermophila pileata, Sclater, P. Z. 8. 1864, p. (507; id. Oni. Bras. 
+Spermophila pileata, Sclater, P. Z. S. 1864, p. (507; id. Oni. Bras. 
 
 p. 226 (1871) ; 8d. Ibis, 1871, p. 5, pi. i. fig. 3 ; id. $ Sate. 
 Nomencl. Av. Neotr. p. 28 (1873). 
@@ -9570,10 +9570,10 @@ y.
 c? JUT. sk. Rogers). 
 28. SpermopMla parva. 
 Sporophila morelleti, Cab. Mm. Hein. Th. L p. 150 (1850, nee Bp.). 
-SpermopMla morelleti, Scl P. Z. 8. 1850, p. 302 (nee Bp.). 
+SpermopMla morelleti, Scl P. Z. S. 1850, p. 302 (nee Bp.). 
 SpermopMla moreleti (nee Bp.)} Baird, B. N. Amer. p. 506 (1858) : 
 
-id. U. S. $ Mex. Bound. Surv., Birds, p. 17 (1858); Scl P. Z. 8. 
+id. U. S. $ Mex. Bound. Surv., Birds, p. 17 (1858); Scl P. Z. S. 
 1859, pp. 365, 378; id. Cat. Amer. B. p. 105 (1802, pt.) ; Suniiehr. 
 Mem. Bost. Soc. N. H. I p. 551(1809); Scl. Ibis, 1871, p. 10 
 (pt); Coues, Keg N. Amer. B. p. 150 (1872); Scl. § Sale. 
@@ -10411,14 +10411,14 @@ u.
 £ F. A G.). 
 34. Spermophila luctuosa. 
 Spermophila luctuosa, Lafr. Rev. Zool. 1843, p. 291; Gray, Gen. B 
-ii. p. 388 (1844); Bp. Consp. i. p. 497 (1850) ; Scl. P. Z. 8. 1855, 
+ii. p. 388 (1844); Bp. Consp. i. p. 497 (1850) ; Scl. P. Z. S. 1855, 
 p. 160, 1858, pp. 72, 455; id. Cat. Amer. B. p. 105 (1862); id. $ 
-Salv. P. Z. 8. 1867, p. 750,1869, p. 597; Pelz. Orn. Bras. p. 224, 
+Salv. P. Z. S. 1867, p. 750,1869, p. 597; Pelz. Orn. Bras. p. 224, 
 note; Scl. Ibis, 1871, p. 15; Scl $ Salv. Nomencl Ad. Neotr. p. 28 
-(1873); iid. P. Z. 8. 1873, p. 204; Tacz. P. Z. 8. 1874, p. 519; 
+(1873); iid. P. Z. S. 1873, p. 204; Tacz. P. Z. S. 1874, p. 519; 
 Scl $ Salv. P. Z. S. 1879, pp. 507,005; Sahinfy Godm. Ibis, 1880, 
-p. 14 j Tacz. P. Z. S. 1882, p. 17; id. fy Berlepsch, P. Z. 8. 1884, 
-p. 293; iid. P. Z. 8. 1885, p. 84; Tacz. Orn. Perou. iii. p. 10 
+p. 14 j Tacz. P. Z. S. 1882, p. 17; id. fy Berlepsch, P. Z. S. 1884, 
+p. 293; iid. P. Z. S. 1885, p. 84; Tacz. Orn. Perou. iii. p. 10 
 (1886). 
 Sporophila luctuosa, 
 Cab. in Wiegm. Arch. 1844, p. 291; Tschudi <§* 
@@ -12212,7 +12212,7 @@ pLl59; id. Orn. Biocjr. ii. p. 336 (1834).
 Gruarica cardinalis, Jard. ed. Wils. Amer. Orn. i. p. 188, pi. xi. figs. 1, 
 2 (1832). 
 
-Cardinalis vircrinianus, Bp. P. Z. 8. 1837, p. Ill; id. Comp. List B. 
+Cardinalis vircrinianus, Bp. P. Z. S. 1837, p. Ill; id. Comp. List B. 
 Eur. § N Amer. p. 35 (1838); Gray, Gen. B. ii. p. 353 (1844); 
 Bp. Consp. i. p. 501 (1850) ; Scl. P. Z. S. 1850, p. 302; Baird, B. 
 N Amer. p. 509 (1838); Nemcied, J. f. O. 1858, p. 208; Baird, 
@@ -12418,7 +12418,7 @@ forms.
 23 . C1EI>TK-AI,IS. 
 165 
 
-Oardinalis virginianus (nee X.), 8cl P. Z. 8. 1856, p. 302; Fmsch, 
+Oardinalis virginianus (nee X.), 8cl P. Z. S. 1856, p. 302; Fmsch, 
 Abhandl nat. Ver. Brem. 1870, p. 339: Grayson, Troc. Bost. 8oc. 
 
 N. H. xiv. p. 281 (1871). 
@@ -12542,7 +12542,7 @@ Salvin-Godman Coll.
 (A. II. Markliam). 
 2. Cardinalis phceniceus. 
 Cardinalis 
-phoeniceus, Bp. P. Z. 8.1837, p. Ill (ex Gould, M8S.); 
+phoeniceus, Bp. P. Z. S.1837, p. Ill (ex Gould, M8S.); 
 Gray, Gen. B. ii. p. 358 (1844); Bp. Consp. i. p. 501 /1850) ; 
 
 Nomencl. Av. Neotr. p. 27 (1873): Baird, Brewer, Sr 'Ridgw. 
@@ -13540,7 +13540,7 @@ Smith, Ibis, 1863, p. 444; Borggr. Vogelf. NorddeutscM. p. 77
 (1869); DoderL Avif. Sicil. p. 80 (1869); Elwes § Buckley, Ibis, 
 1870, p. 193; Fritsch, Yog. Eur. Taf. 25.figs. 13,14 (1870);" Gray, 
 Hand-L B. ii. p. 80, no. 7168 (1870) ; Saunders, Ibis, 1871, p. 219; 
-Sahad. Faun. Ital, Ucc. p. 151 (1871); Swinh. P. Z. 8. 1871, 
+Sahad. Faun. Ital, Ucc. p. 151 (1871); Swinh. P. Z. S. 1871, 
 p. 385; It Gray, IJ. West Scot!, p. 137 (1871); Dresser, B. Eur. 
 iv. p. 15, pi. 184 (1871) ; Harting, Handb. Brit. B. p. 27 (1872) ; 
 Severtz. Turkest. Jevotn. pp. 64, 116 (1873) ; Aht. $ Harm 
@@ -14259,7 +14259,7 @@ Carduelis europaeus, Severtz. Turkest. Jevotn. p. 04 (1873).
 
 Carduelis major, Tacz. P. Z. S. 1870, p. 072; Seebohm, Ibis, 1882, 
 
-^ pp. 424, 547 ; id P. Z. 8. Ib62, p. 134. 
+^ pp. 424, 547 ; id P. Z. S. Ib62, p. 134. 
 
 Frmgilla major, Seebohm, Hist. Brit. B. ii. p. 87 (1884). 
 
@@ -14510,7 +14510,7 @@ obtained by Sir O. St. John also appears to be intermediate; and
 thus we have a second point of contact in the ranges of the two 
 Goldfinches, the other being in the neighbourhood of Krasnoyarsk, 
 whence Mr. Seebohm has received several specimens, clearly hybrids 
-(cf. Seebohni, P. Z. 8. 1882, p. 134, and 'Ibis,' 1882, p.'424) 
+(cf. Seebohni, P. Z. S. 1882, p. 134, and 'Ibis,' 1882, p.'424) 
 between the Oriental Goldfinch and the large form of the European 
 Goldfinch (C. major). 
 
@@ -15311,7 +15311,7 @@ a. <$ ad. sk. Riohamba, Ecuador, June 1858 Sclater Coll.
 {L. Fraser). 
 b. 2 a(h sk- Cuenca, Ecuador (L. Fraser). Sclater Coll. 
 5. Chrysomitris atriceps. 
-Chrysomitris atriceps, Sah. P. Z. 8. 180:J, p. 100; id. Ibis, 1800, 
+Chrysomitris atriceps, Sah. P. Z. S. 180:J, p. 100; id. Ibis, 1800, 
 p. 194 * Scl. § Salv. Nomenel. Av. JSTeotr. p. 34 {1873); Itidgw. 
 Ibis, 1884, p. 4;); Sahin fy Godtnan, Bid. Centr.-Amer.. Aves* 
 i. p. 429, pi. xxrri. figs. 1, 2. 
@@ -15853,7 +15853,7 @@ y. <$ ad. sk. Lion Hill Station, Panama Sahin-Godman Coll.
 Carduelis columbianus, Lafr. Rev. Zool. 1843, p. 292. 
 Chrysomitris nana, Bp. Consp. i. p. 510 (1850). 
 Astragalinus columbianus, Cab. Mus. Hein. Th. i. p. 159 (lboO). 
-Chrysomitris columbiana, #t/ P. Z. 8. 1855, p. 159; Baird, B. X. 
+Chrysomitris columbiana, #t/ P. Z. S. 1855, p. 159; Baird, B. X. 
 
 
 Amer. p. 423 (1858); &>/. Cat. Amer. B. p. 124(1H>2); Cass. 
@@ -16063,7 +16063,7 @@ Salvin-Godman Coll.
 
 
 11. Chrysomitris stejnegeri. 
-Chrysomitris xanthogastra {nee Du Bus), ScL %-Sah\ P. Z. 8. 1879, 
+Chrysomitris xanthogastra {nee Du Bus), ScL %-Sah\ P. Z. S. 1879, 
 p. 607. 
 Adult male. Similar to C. seanthogaster, but rather larger, and 
 distinguished by its yellow thighs, larger yellow wing-patch (the 
@@ -16106,7 +16106,7 @@ e. J ad. sk. Sorata, Bolivia (C. Buckley). Salvin-Godman Coll.
 12. Chrysomitris uropygialis. 
 Chrysomitris uropygialis, 
 Scl. Cat. Amer. B. p. 12o (1862); Cass. 
-Proc. PMlad. Acad. I860, p. 91; Scl. P. Z. 8. 1867, pp. 332, 338; 
+Proc. PMlad. Acad. I860, p. 91; Scl. P. Z. S. 1867, pp. 332, 338; 
 id. 8? Salv. Nomencl. Av. Keotr. p. 31 (1873) j Tacz. Orn. Perou, 
 
 iii. p. *54 (1886). 
@@ -16538,7 +16538,7 @@ Chrysomitris barbata
 (nee Mol), Sel. $ Sah. P. Z. S. 1808, p. 140 ; 
 iid. Nomencl. Av. Neotr. p. 34 (1873> pt.) ; Durnf. Ibis, 1877, 
 
-p. 172; White, P. Z. 8. 1882, p. 600. 
+p. 172; White, P. Z. S. 1882, p. 600. 
 Chrysomitris 
 notata {nee Du Bus), Ridyw. Proc. U.S. Nat. Mus. 
 iii p. 177 (1880)t. 
@@ -16800,7 +16800,7 @@ d,e. <$ $ ad. sk. Rorainia, Nov. 1883 (II. W.). Salvin-Godman Coll.
 f,ff-d$ ad. sk. Roraima, Jan. 6, 1882 (H. W.). Salvin-Godman Coll. 
 Subsp. I. Clirysomitris siemiradzkii. 
 
-Clirysomitiis siemiradzkii, Berlepsch 8f Tacz. P. Z. 8. 1883, p. 551, 
+Clirysomitiis siemiradzkii, Berlepsch 8f Tacz. P. Z. S. 1883, p. 551, 
 pi. 50, 1884, p. 313; Tacz. Oni. Perou, iii. p. 50 (1886). 
 
 Adult male. Similar to C. icterica, but apparently always uniform 
@@ -16822,10 +16822,10 @@ Fringilla notata, Gray, Gen. B. ii. p. 371 (1849) j id. IIand4. B. ii.
 p. 82, no. 7196 (1870). 
 Chrysomitris notata, 
 Bp. Consp. i. p. 516 (1850); Cab. Mus. Hein. 
-Th. i. p. 160 (1850); Sel P. Z. 8. 1856, p. 304,1858, p. 303,1859, 
+Th. i. p. 160 (1850); Sel P. Z. S. 1856, p. 304,1858, p. 303,1859, 
 pp. 365, 380 j 8cl. $ 8alv. Ibis, 1860, p. 275 ; 8cl. Cat. Amer. B. 
 
-p. 124 (1862); id. P. Z. 8.1864, p. 474; Cass. Proc. Philad. Acad. 
+p. 124 (1862); id. P. Z. S.1864, p. 474; Cass. Proc. Philad. Acad. 
 1865, p. 92 ; 8umichr. Mem. Bost. 8oc. N. H. i. p. 550 (1869); 
 8cl 8f 8ah. Ko?nencl. Av. Neotr. p. 34 (1873); Lawr. Bull U. 8. 
 Nat Mus. iv.p. 22 (1876); 8alv. Cat. 8frichl. Coll. p. 214 (1882) ; 
@@ -16904,7 +16904,7 @@ id. SysLUehers. p. 77 (1845) : Blatif. GeoL § Zool. Abyss, p. 415
 Fringilla (Dryospiza) nigriceps, Heugl. St/st Uebers. p. 41 (18-56). 
 
 Afr, i. pt. 2, p. 640 (1870). 
-Crithagra nigriceps, Blyth, J. A. 8. Being, xxiv. p. 257 (1855). 
+Crithagra nigriceps, Blyth, J. A. S. Being, xxiv. p. 257 (1855). 
 Dryospiza nigriceps, Horsf. 4* Moore, Cat. B. JE.L Co. Mm. ii. 
 
 p. 494 (1856). 
@@ -17371,7 +17371,7 @@ no.7204(1870).
 
 Fringilla (Dryo&piza) citrinelloides, Heugl. Syst. Uebers. p. 41 (1850). 
 Citrinella citrinelloides, Bp. Comp. i. p. 520 (1850); Heugl Orn. 
-K.O.-Afr. I pt. 2, p. 044 (1870); Shelley, P. Z. 8. 1885, p. 228. 
+K.O.-Afr. I pt. 2, p. 044 (1870); Shelley, P. Z. S. 1885, p. 228. 
 Chrysomitris citrinelloides, 8ak\ Cat. Strickl. Coll. p. 213 (1882). 
 
 Adult male. General colour above yellowish green, all the feathers 
@@ -20495,7 +20495,7 @@ wing 3*3, tail 1-65, tarsus 0*6. (Alus. E. Stebuhm.)
 Eah. Chinese Mongolia. 
 
 8. Montifringilla sordida. 
-PPropasser muiTayi, Blyth, J. A. 8. Beng, xxxii. p. 45s (lbU3j ; 
+PPropasser muiTayi, Blyth, J. A. S. Beng, xxxii. p. 45s (lbU3j ; 
 Hume, 8tr. F 1876, p. 504, 187U, p. 108. 
 
 Fringillauda nemoiicola {nee Eodgs.j, Eorsf. ty Moore, Cat. B. E. I. 
@@ -20503,7 +20503,7 @@ Co. 31m. ii. p. 492 (1850) ; Adams, P. rA 8. l&o'J, p. 1^4; Jerd. B.
 2nd. ii. p. 414 (1863, pt.); Pet. Ibis, iaU*, p. 310; Hume $ 
 Eenders. Lahore to Yark. p. 204 (1873;. 
 
-Fringillauda bordida, Stoliezka, J. A. 8. Beng. xxxvii. p. 63 (1808); 
+Fringillauda bordida, Stoliezka, J. A. S. Beng. xxxvii. p. 63 (1808); 
 Eume, 8tr. F. 1873, p. 41,1671), p. 108 : tioulhj, Ibis, 18^1, p. ."307; 
 Biddulph, t. c. p. 88; Homeyer §- Ttuiere, Ml\ Or a. Vtr. Wie/i, 
 1883, p. 80. 
@@ -20672,7 +20672,7 @@ pi. 47 (1830); J?/). Ctosp. i. p. 33^ (1850) : 2/ontf $• J We , CW. i?.
 JS: I. Co. Mus. ii. p. 491 (1850, pt); bwitth. P. Z. & 1-71, p. 3*3; 
 Eume, Sir. F. 1873, p. 41; Dt/wVZ 4* 0w,$£. O/s. CfoV, p. 334 
 (1877); Hume, Sir. F. 1*79, p. 108. 
-Montifringilla nemoricola, Blyth, J. A. 8. Baig. xiii. p. 934 (1*44); 
+Montifringilla nemoricola, Blyth, J. A. S. Baig. xiii. p. 934 (1*44); 
 Gray, Cat Mamm. etc. Ntpol pres. Iludqs. p. 107 {l^itt) ; Blyth^ 
 Cat. B. Mm. As. tioc. p. 121 (1^49). 
 Fiingilla nemoricola, 6V«y, frV/i. B. ii. p. 372 (1849); it/, Iland-L 
@@ -21372,7 +21372,7 @@ Leucosticte
 brunneinucha, Bp. Consp. i. p. 530 (IboO); Cab. Mas. 
 Ilein. Th. i. p. 154(1850); Tf lately, Ibis, 1SC7, p. 202 ; Salvad. 
 
-P. Z. 8. 1861, p. 580; Swinh. P. Z. 6\ 1871, p. 385; Tacz. J. f. O. 
+P. Z. S. 1861, p. 580; Swinh. P. Z. 6\ 1871, p. 385; Tacz. J. f. O. 
 1873, p. 92; S'winh. Ibis, lb76, p. 450; Irnz. Bull. 8oc. ZooL 
 France, I p. 180 (1870); id. J.f.O. 1876, p. 200; David $ Oust 
 Ois. Chine, p. 334, pi. b9 (1877); Blakid. $ Pn/er, B. Japan, 
@@ -21548,7 +21548,7 @@ FRINGILLID^.
 
 1. Khynchostrutlms socotranus. 
 Rhynchostruthus socotranus, Scl. § Hard. P. Z. S. 1881, p. 171. 
-Rhynchostruthus riebecki, Hartl. P. Z. 8. 1881, p. 954, pi. 72. 
+Rhynchostruthus riebecki, Hartl. P. Z. S. 1881, p. 954, pi. 72. 
 
 Adult male. Above dusky ashy brown, with the crown dusky 
 
@@ -22325,13 +22325,13 @@ flavicollis, Frankl. P. Z. S. 1831, p. 120; Gray, Cat.
 Mamm. etc. Nepal pres. Hodgs. p. 107 (1846) ; id. Gen. B. ii. 
 
 p. 372 (1840); id. Hand-l. B. ii. p. 85, no. 7248 (1870). 
-Ploceus flavicollis, Sykes, P. Z. 8. 1882, p. 94. 
+Ploceus flavicollis, Sykes, P. Z. S. 1882, p. 94. 
 Gyimiorhis flavirostris, Hodgs. Icon. ined. in Brit. Mus., Passeres, 
 pi. 287 (no. 864); id. in Gray's Zool. Misc. p. 84 (1844). 
 Pyrgita flayicollis, Jerd. Madr. Journ. xi. p. 28 (1840); Burqess. 
 
 P. Z. S. 1854, p. 160. 
-G-yimiorliis flavicollis, Blyth, J. A. 8. Beng. xiii. p. 948 (1844); Bp. 
+G-yimiorliis flavicollis, Blyth, J. A. S. Beng. xiii. p. 948 (1844); Bp. 
 Cony. i. p. 512 (1850) ; Horsf. $ Moore, Cat. B. E,I. Co. Mm. 
 
 ii. p. 497 (1856); Adam, Str. F. 1873, p. 388; James, t. c. p. 420; 
@@ -24576,7 +24576,7 @@ i. $ ad. sk. Tripoli. Guuld Coll.
 h $ ad. sk. N. Africa (ex Verreaux). Gould Cull. 
 5. Passer pyrrhonotixs. (Plate V.) 
 Passer 
-pvrrhonotus, Blyili, J. A. 8. Beng. xiii. p. 940 (1844); id. 
+pvrrhonotus, Blyili, J. A. S. Beng. xiii. p. 940 (1844); id. 
 Cat. B. Mus. As. Soc. p. 119 (1840) ; lip. Omsp. L p. oOS ( 1*MO) ; 
 Jerd. B. hid. ii. p. 305 (1803); Blyth, Ibis, ]8*J^, p. tf-34; Gray, 
 Hand-l B.ii. p. 85, no. 7272 (1870); Hume. Sir. F. !&?;], p. 1>0U, 
@@ -25140,7 +25140,7 @@ wing 2-5, tail 1*8, tarsus 065.
 Hah. "Western Afghanistan. 
 a. d ad. sk. Dedadi. Dr. Aitchison [C.]. 
 10. Passerjagoensis*.^
-Pyrgita jagoensis, Gould, P. Z. 8. 1837, p. 77. 
+Pyrgita jagoensis, Gould, P. Z. S. 1837, p. 77. 
 L^c^m\ \ 
 
 Bp. Comp. i. p. 510 (1850); l)ohrn, J. f. 0.1871, p. 6; Gray. 
@@ -25293,7 +25293,7 @@ cinnamomeus, Blyth, J. A. S. Beng. xiii. p. 947 (1844) • id.
 Cat B. Mm. As. Soc. p. 110 (1849) • Gray, Gen. B. ii. p. 373 
 (1849); Bp. Consp. i. p. 508 (1850) ; Ilorsf. $ Moore, Cat. B. B. I 
 Co. Mm. ii. p. 500 (1856); Jerd. B. Bid. ii. p. 365 (1802); Blyth, 
-Ibis, 1867, p. 42; Beavan, t. c. p. 138; Stoliczha, J. A. 8. Beng. 
+Ibis, 1867, p. 42; Beavan, t. c. p. 138; Stoliczha, J. A. S. Beng. 
 
 xxxvii. p. 57 (1868): Beavan, Ibis, 1868, p. 174; Beh. t. c. p. 318;* 
 Gray, Iland-l. B. ii. p. 86, no. 7265 (1870); Bwinh. P. Z. S. 1871, 
@@ -26203,7 +26203,7 @@ y. Ad. sk. River Gambia. Gould Coll.
 ^. Ad. sk. River Gambia. Sharpe Coll. 
 a\ Juv. sk. River Gambia, Dec. 21,1864. Sharpe Coll. 
 22. Passer ammodendri. 
-Passer ammodendri, Severtz*; Bode, P. Z. 8. 1871, p. 481; Gould, 
+Passer ammodendri, Severtz*; Bode, P. Z. S. 1871, p. 481; Gould, 
 B. Asia, v. pi. 15 (1872); Seoerte. Turkest. Jevotn. pp. 04, 115; 
 * The late Dr. Severtzoff, although he apparently did not publish his description 
 of P. ammodendri until 1873, distributed specimens to museums and 
@@ -28644,7 +28644,7 @@ p, q, r, s, t. Skeletons. 0. Darwin, Esq. [P.].
 
 ? Dryospiza syriaca, Licht. NomencL Av. Berol. p. 46 (1854). 
 
-Serinus aurifrons {nee Bhjth)) Tristr. P. Z. 8. 1864, p. 447; id. Ibis, 
+Serinus aurifrons {nee Bhjth)) Tristr. P. Z. S. 1864, p. 447; id. Ibis, 
 
 1867, p. 90; id. Ibis, 1868, p. 207, pi. 7. 
 
@@ -29188,7 +29188,7 @@ Sycalis luteola, Sundev. Krit. om Sparrm. Mm. Carls, p. 14 (1857).
 380 
 VfilNGI LLIDJE. 
 
-Sycalis brasiliensis (nee (JUL), Sel. # Salv. P. Z. 8. 1867, p. 573. 
+Sycalis brasiliensis (nee (JUL), Sel. # Salv. P. Z. S. 1867, p. 573. 
 
 Fringilla oolumbiana, Gray, Ilaml4. B. ii. p. 84, no. 7232 (1870). 
 
@@ -29224,7 +29224,7 @@ Critliagra brasiliensis (nee Gm.), Darwin, Voy. Q Beagle j Birds,
 p. 88 (1841). 
 Passerina brasiliensis (nee Gm.), Hartl. Ind. Azara, p. 9 (1847). 
 ? Critliagra flaveola, Bp. Consp. i. p. 521 (1858). 
-Sycalis chloropsis, Sel. 8f Sah. P. Z. 8. 1809, pp. 101, 632 (nee Bp.). 
+Sycalis chloropsis, Sel. 8f Sah. P. Z. S. 1809, pp. 101, 632 (nee Bp.). 
 Sycalis brasiliensis (nee Gm.)} Peh. Orn. Bras. p. 232 (1871). 
 Sycalis pelzelni, Sclater, Ibis, 1872, p. 42; id. fy Salv. Nomencl. Av. 
 Neotr. p. 34 (1873) ; Durnf. Ibis, 1877,^ p. 172 ; 'Salv. Cat. Strickl 
@@ -30632,7 +30632,7 @@ Hasmatospiza
 eipahi, Bkfth, Cat. B. Mus. As. Soc, App. p. 842 
 (1849) j Bp. | Sehl. Mmiogr. Loxiens, p. 83, pis. 89,40 (1850) ; 
 Bp. Cmisp. i. p. 526 (lb50); Gould, B. Asia, v. pi. 24 (1850) ; 
-Blyth, J. A. 8. Beng. xxiii. p. 213 (1854); Horsf. 8f Moore, Cat. 
+Blyth, J. A. S. Beng. xxiii. p. 213 (1854); Horsf. 8f Moore, Cat. 
 
 B. E.L Co. Mm. ii. p. 454 (1856); Jerd. B. hid ii. p. 894 (1863); 
 Bhfth, Ibis, 1867, p. 43; Beavan,'Ibis, 1868, p. 177 ; Bulger, Ibis, 
@@ -31076,7 +31076,7 @@ Ilab. Western Rzetchuen, China.
 
 
 9. Carpodacus graudis. 
-Carpodacus grandis, Blyth, J. A. 8. Beng. xviii. p. 810 (1849): id. 
+Carpodacus grandis, Blyth, J. A. S. Beng. xviii. p. 810 (1849): id. 
 Cat. B. Mus. As. Soc, App. p. 342 (1849). 
 Carpodacus sophia, Bp. fy ScM. Monogr. Loxiem, p. 22, pi. 34 (1850) ; 
 JBp. Comp. I p. 532 (1850). 
@@ -32039,7 +32039,7 @@ Eiver.
 
 
 17. Carpodacus rhodopeplus. 
-Fringilla rhodopepla, Vigors, P. Z. 8. 1831, p. 23 ; Gould, Cent B. 
+Fringilla rhodopepla, Vigors, P. Z. S. 1831, p. 23 ; Gould, Cent B. 
 Himcd. Mts. pi. 31. fig. 1 (1832). 
 
 Propasser rhodopeplus, Hodqs. Icon. ined. in Brit. Mas., Passeres, 
@@ -32048,7 +32048,7 @@ id. P. Z. $. 1845, p. 36; Horsf. $ Moore, Cat. B. E. I. Co. Mm. ii.
 
 p. 458 (1856); Jerd. B. Ind. ii. p. 400 (1863); Blyth, Ibis, 1867, 
 ' p. 44; Hume, 8tr. F. 1873, p. 15,1879, p. 108. 
-Erythro&piza rhodopepla, Blyth, J. A. 8. Beng. xiii. p. 952 (1844). 
+Erythro&piza rhodopepla, Blyth, J. A. S. Beng. xiii. p. 952 (1844). 
 Carpodacus rhodopeplus, Gray, Gen. B. ii. p. 384 (1844); id. Cat. 
 
 Maymn.etc. Nepal pres. Hodqs. p. 109 (1846) ; Blyth, Cat. B.Mus. 
@@ -32133,7 +32133,7 @@ m. J ad. sk. Sikhim, 1879 (X. Mandelli). Hume Coll.
 Carpodacus edwardsi, Verr, N. Arch. Mus. vi. Bull. p. 89 (1870), 
 
 vii. p. 58 (1871), viii. pi. 3 (1872). 
-Propasser saturates, Blanf. J. A. 8. Beng. xli p. 168 (1872) : id. 
+Propasser saturates, Blanf. J. A. S. Beng. xli p. 168 (1872) : id. 
 Ibis, 1873, p. 218 j Hume, Str. F. 1873, p. 418, 
 Propasser edwardsi, Baud § Oust Ois. Chute, p. 355, pi. 94 (1877); 
 Hume, Str. F. 1878, vol. ii. p. 415; id. Str. F. 1879, p. 108. 
@@ -32619,7 +32619,7 @@ Bp. Cotisp. i. p. 531 (1850); Gray, Hand-l B. ii. p. 101, no. 7519
 
 Propasser thura, 
 Ilorsf. Sf Moore, Cat. B. E. 1. Co. Mus. ii. p. 459 
-(1850); Moore, P. Z. 8. 1855, p. 215, pi. 113; Jerd. B. Ind. ii. 
+(1850); Moore, P. Z. S. 1855, p. 215, pi. 113; Jerd. B. Ind. ii. 
 
 p. 401 (1863); Hume, Str. F 1878, p. 15; David fy Oust. Ois. 
 Chine, p. 357 (1877) ; Hume, Str. F. 1879, p. 108, 1880, p. 350. 
@@ -32990,7 +32990,7 @@ Gen. Prjevalski [C.].
 
 45. PYRBHOSPIZA. 
 Type. 
-Pyrrhospiza, Hodgs. J. A. 8. Beng. xiii. p. 953 (1844) .. P. punicea. 
+Pyrrhospiza, Hodgs. J. A. S. Beng. xiii. p. 953 (1844) .. P. punicea. 
 Linurgus, Reichenb. Syst. Av. Taf. lxxviii. fig. 9 (1830, nee 
 Ligurinus) P. olivacea. 
 
@@ -34874,7 +34874,7 @@ Ibis, 1881, p. 82 ; Scully, t. c. p. 577; Marshall, Ibis, 1884, p. 420.
 45G 
 FKINGILLID.E. 
 
-Pyrrhula aurantia, Gould, B. Asia, v. pi. 34 (18-58); Adams, P. Z. 8. 
+Pyrrhula aurantia, Gould, B. Asia, v. pi. 34 (18-58); Adams, P. Z. S. 
 1868, p. 484; Gray, TIand-l B. ii. p. 99, no. 7479 (1870); Hume, 
 Nests §• Eggs 2nd. B. p. 470 (1873). 
 
@@ -34941,7 +34941,7 @@ m. c? ad. sk N.W. Himalayas.
 Pyrrhula erythrocephala, Vigors, P. Z. S. 1831, p. 174; Gould, Cent 
 Stmal. B. pi. 32 (1832); Hodgs. Icon. med. in Brit Mus., Passeres, 
 pi. 308.figs. 1-4 (nos. 335-338); id. in Gray's Zoo!. Misc. p. 85 
-(1844); BlytJi, J. A. 8. Beng. xiii. p. 051 (1844) ; Gray, Gen. B. 
+(1844); BlytJi, J. A. S. Beng. xiii. p. 051 (1844) ; Gray, Gen. B. 
 il p. 387 (1844); id. Cat. Mamm. etc. Nepal pres. Hodgs. p. Ill 
 (1846) ; Blxjth, Cat B. Mus. As. Soc. p. 123 (1849) ; Bp. Consp. 
 
@@ -37616,7 +37616,7 @@ i?. Ad. sk. Shanghai, Jan. 5, 1884 F. W. Styan, Esq. [P.]
 Ernberiza 
 fucata, Pall. Reis. Russ. Reichs, iii. p. 698 (1776); Gm. 
 Si/st Nat I p. 871 (1788),- Pall. Zoogr. Rosso-Asiat ii. p. 41 
-(1811); Keys. u. Bias. TVirb. Eur. p. xxxix (1840) ; Blyth, J. A. 8. 
+(1811); Keys. u. Bias. TVirb. Eur. p. xxxix (1840) ; Blyth, J. A. S. 
 Benq. xi. p. 601 (1842), xiii. p. 957 (1844); Gray, Gen. B. ii. 
 
 p. 377 (1844); Bp. Consp. i. p. 464 (1850); Temm. $ Schl. Faun. 
@@ -37627,7 +37627,7 @@ t.c, p. 141; Whitely, t c, p. 202; Tytler, Ibis, 1868, p. 201;
 Peh. t.c. p. 318; Brooks, Ibis, I860, p. 458; Gould, B. Asia, v. 
 pi. 9 (1869); Borggr. Vogelf. Norddeutschl. p. 72 (1869); Swinh. 
 Ibis, 1870, p. 354; id. Pi Z. 8 1871, p. 388; Godwin-Austen, 
-J. A. 8. Benq. 1874, p. 171; Blyth § Wald. B. Burm. p. 95 
+J. A. S. Benq. 1874, p. 171; Blyth § Wald. B. Burm. p. 95 
 (1875); Sioink Ibis, 1875, p. 121; Tacz. J.f. 0.1876, p. 198; id. 
 Bull. Soc. Zool. France, i. p. 175 (1876); David fy Oust. Ois. 
 Chine, p. 332 (1877); Anders. Zool. Fxped. Tun-nan, Aves, p. 603 
@@ -38977,7 +38977,7 @@ tab. 50 (1811) ; Temm, Man. iii. p. 232 (1835); Werner, Atlas,
 Granivores, pis. 442, 443; Gould, B. Eur. iii. pi. 174 (1837) ; 
 Keys. u. Bias. Wirb. Eur. p. xxxviii (1840) ; Hodgs Icon, 
 ined. in Brit. Mm., Basseres, pi. 291. figs. 1-3 (n. 793); id. in 
-Gray's Zool. Misc. p. 84 (1844); Blyth, J. A. 8. Betty, xiii. 
+Gray's Zool. Misc. p. 84 (1844); Blyth, J. A. S. Betty, xiii. 
 
 p. 957 (1844) j Middend. Beis. Sibir., Zool. p. 138, Taf. xiii. fig. 9 
 (1851); Blyth, J. A. S. Beng. xxiii. p. 732 (1854) j Jaub. et Bartk-
@@ -42034,7 +42034,7 @@ sk.
 r. £ ad. sk. Nagasaki, Dec. E. Ringer, Esq. [P.]. 
 s. $ ad. sk. Nagasaki, March. F. Ringer, Esq. [P.j. 
 32. Emberiza tristrami. 
-Emberiza stracheyi {nee Moore), Swinh. P. Z. 8. 1862, p. 318, 1863, 
+Emberiza stracheyi {nee Moore), Swinh. P. Z. S. 1862, p. 318, 1863, 
 p. 801 j id, Ibisj 1805, p. 05. 
 VOL. xir. 2 N 
 546 FKINGILLIILE. 
@@ -47417,7 +47417,7 @@ p. 8/9; Scl Sr Sah. Ibis, 1859, p. 17,-Scl Cat. Amer. B. p. 107
 63 . OTANOSPIZA. 
 615 
 
-1865, p. 491; Sol P. Z. 8. 1867, p. 142; JBaird, Ibis, 1867, 
+1865, p. 491; Sol P. Z. S. 1867, p. 142; JBaird, Ibis, 1867, 
 
 p. 276; Lawr. Ann. Lye. N Y ix. pp. 103 (1868), 201 (1869); 
 Duges, La Nat. i. p. 140 (1869); Frantz. J. /. 0. 1809, p. 301; 
@@ -47652,9 +47652,9 @@ Comj). List B. Bur. $• N. Amer. p. 35 (1838) : Audub. B. Amer.
 
 iii. p. 96, pi. clxx. (1841) ; Giraud, B. Long Isl. p. 110 (1844); 
 Gray, Gen. B. ii. p. 375 (1849); Bp. Consp. i. p. 474 (1850); 
-Cab. Mus. Hem. Th. i. p. 148 (1850); 8cl. P. Z. 8. 1856, p. 304; 
+Cab. Mus. Hem. Th. i. p. 148 (1850); 8cl. P. Z. S. 1856, p. 304; 
 Cab.J.f. 0.1856, p. 8. 
-Cyanospiza eyanea, Baird, B. N. Amer. p. 505 (1858); Scl. P. Z. 8. 
+Cyanospiza eyanea, Baird, B. N. Amer. p. 505 (1858); Scl. P. Z. S. 
 1859, p. 379; id. § 8alv. Ibis, 1859, p. 18; Scl. Cat. Amer. B. 
 
 p. 107 (1802; ; Lawr. Ann. Lye. N. Y. viii. p. 179 (1865); 
@@ -48041,9 +48041,9 @@ Calliste leclancheri, Bp, Consp. i. p. 285 (1850).
 623 
 
 Cyanospiza leclanch eri, Dues, La Nat. i. p. 140 (1809); Scl Sf 
-Salv. P. Z. 8. 1870, p. 551; iid. Nomencl. Av. Neotr. p. 29 (1873); 
+Salv. P. Z. S. 1870, p. 551; iid. Nomencl. Av. Neotr. p. 29 (1873); 
 Later, Mem. Bost. Soc. N. H. ii. p. 277 (1874); id. Bull. U. 8. 
-Nat Mas. no. 4, p, 20 (1875) ; Salv. P. Z. 8. 1883, p. 421; id. $ 
+Nat Mas. no. 4, p, 20 (1875) ; Salv. P. Z. S. 1883, p. 421; id. $ 
 Godm. Biol Cmitr.-Ame?\, Aves, i. p. 364 (1886). 
 
 Adult male. General colour above cobalt-blue, the mantle and 
@@ -48106,9 +48106,9 @@ Siimichrast).
 f. $ ad. sk. Acapulco, Mexico, March (A. Salvin-Godman Coll. 
 M. Markham). 
 6. Cyanospiza versicolor. 
-Spiza versicolor, Bp. P. Z. 8. 1837, p. 120; Gray, Gen. B. ii. p. 375 
+Spiza versicolor, Bp. P. Z. S. 1837, p. 120; Gray, Gen. B. ii. p. 375 
 (1849); Bp. Consp. i. p. 475 (1850) ; Cab. Mus. Hein. Th. i. p. 148 
-(1850); Scl. P. Z. 8. 1857, p. 214, 1859, p. 365; Dugte, La Nat. 
+(1850); Scl. P. Z. S. 1857, p. 214, 1859, p. 365; Dugte, La Nat. 
 
 i. p. 140 (1809). 
 624 
@@ -49015,7 +49015,7 @@ Marti Ind. Azara, p. 10 (1847).
 
 Poofepiza melanoleuca, Bp. Consp. i. p. 473 (1850) ; Burm. La-
 Plata Beis. ii. p. 484 (1861) ; Pelz. Orn. Bras. p. 439 (1871); Scl. 
-& Salv. Nomencl Av. Neotr. p. 30 (1873) ; iid. P. Z. 8.1879, p. 005 ; 
+& Salv. Nomencl Av. Neotr. p. 30 (1873) ; iid. P. Z. S.1879, p. 005 ; 
 Salv. Bis, 1880, p. 354, pi. ix. %. 2; White, P. Z. S. 1882, p. 599; 
 Salv. Cat. Strickl. Coll. p. 227 (1882); Barrows, Bidl. Nutt. Orn. 
 Club, viii. p. 130 (1883). 
@@ -49289,7 +49289,7 @@ y. $ ad. sk. Cosquin, Sept. 6, 1882 (JE. Salvin-Godman Coll.
 W. White). 
 10. Poospiza erythrophrys. 
 Poospiza erythropkrys, Sclater, Ibis, 1881, p. 500, pJ. xvii. fig. 1 ; 
-White, P. Z. 8. 1882, p. 599. 
+White, P. Z. S. 1882, p. 599. 
 
 Adult male (type of species). General colour above dull reddish 
 brown washed with olive ; lesser and median coverts bluish grey ; 
@@ -52962,11 +52962,11 @@ e'. Ad. sk. Bolivia. T. Bridges, Esq. [0 ].
 
 7. Ammodromus peruaims. 
 Coturniculus 
-peruanus, JBp. Consp. i. p. 481 (1850); Set. P. Z. 8. 
-1858, p. 455; id. & Salv. P. Z. 8. 1806, p. 182; iid. P. Z. 8. 1867, 
-pp. 750, 977; iid. P. Z. 8. 1878, p. 264; iid. Nomencl Av. Neotr. 
+peruanus, JBp. Consp. i. p. 481 (1850); Set. P. Z. S. 
+1858, p. 455; id. & Salv. P. Z. S. 1806, p. 182; iid. P. Z. S. 1867, 
+pp. 750, 977; iid. P. Z. S. 1878, p. 264; iid. Nomencl Av. Neotr. 
 
-p. 32 (1873),- Taos. P. Z. 8. 1874, p. 521, 1882, p. 17,- id. Orn. 
+p. 32 (1873),- Taos. P. Z. S. 1874, p. 521, 1882, p. 17,- id. Orn. 
 PSrou, iii. p. 43(1886). 
 Ammodromus peruanus, Gray, Hand-l. JB. ii. p. 96, no. 7424 (1870). 
 
@@ -53043,7 +53043,7 @@ CO.].
 
 o. Ad. sk. Bohvia {Bridges). Sclater Coll. 
 8. Armodromus petenicus. 
-Ammodromus petenicus, Salvin, P. Z. 8.1808, p. 180; id. Mis71886, 
+Ammodromus petenicus, Salvin, P. Z. S.1808, p. 180; id. Mis71886, 
 p. 193. 
 Coturniculus (?) petenicus, Mdgio. Ibis, 1884, p. 44. 
 Coturniculus petenicus, SalmnSr Godman, Biol, Centr.-Amer., Aues, i. 
@@ -53398,7 +53398,7 @@ IQOth Merid. p. 283 (1875;; Ridgio. Rep. Surv. 40th Parallel,
 p. 484 (1877) ; Coues, Bull U.S. Geol. Surv. iv. p. 595 (1878) ; 
 Sennett, t. c. p. IS, v. p. 390 (1879); Ridgw. Bidl. U.S. Nat. Mus. 
 no. 21, p. 26 (IbSi); Coues, C/ieck-l N. Amer. B. p. 53 (1882) ; 
-Boucard, P. Z. 8. 1883, p. 444; fielding, Proc. U.S. Nat. Mus. 
+Boucard, P. Z. S. 1883, p. 444; fielding, Proc. U.S. Nat. Mus. 
 vi. pp. 348, 350 (1884); Coues, Key N. Amer. B. 2nd eel. p. 370 
 (1&84); Butcher, Auk, i. p. 31 (1884) : Brew, Aide, ii. p. 16 
 (1885) ; Beckh. t c. p. 142 ; Agersb. t c. p[ 280 ; Scott, t. c. p. 354; 
@@ -54298,13 +54298,13 @@ a. $ ad. sk Crittenden, Arizona, July 20, 1884 H. K. Coale Esq.
 [x>r], ' 
 Subsp. y. Peucsea botterii. 
 
-Zonotrichia botterii, Scl. P. Z. 8.1857, p. 214. 
+Zonotrichia botterii, Scl. P. Z. S.1857, p. 214. 
 
 Peucsea cassini (nee Woodh.), Baird, B. N. Amer. p. 486 (1858); id. 
 Mex. Bound. Surv. ii. Birds, p. 3 6 (1858): Sumichr. Mem. Post. 
 Soe. N R. ii. p. 551 (1869). 
 
-Peucsea botterii, Scl Cat. Amer. B. p. 116 (1862); id.fySalv. P. Z. 8. 
+Peucsea botterii, Scl Cat. Amer. B. p. 116 (1862); id.fySalv. P. Z. S. 
 1868, p. 323$ iid. Nomencl. Av. Neotr. p. 32 (1873); Ridgw. in 
 Hist. N. Amer. B. ii. p. 38, footnote (1874): Salvin & Godman. 
 Biol Centr.-Amer., Aves, i. p. 389 (1886). 
@@ -55329,7 +55329,7 @@ b. Ad. sk. Juehitan, April 20,1871 (F. Sumi- Sclater Coll.
 chrasf). 
 c. 2 ad. sk. Oaxaca (A. Boucard). Sclater Coll. 
 7. H&mophila stolzmanni. 
-HaemopMla stolzmanni, Tacz. P. Z. 8. 1877, p. 322, pi. 36. ^g, 2; id. 
+HaemopMla stolzmanni, Tacz. P. Z. S. 1877, p. 322, pi. 36. ^g, 2; id. 
 Om. Perou, iii. p. 47 (1886). 
 
 Adult male. General colour above ashy brown, streaked with 
@@ -57366,7 +57366,7 @@ j Gray, Gen. B. ii. p. 361 (1844); Hartl Ind. Azara, p. 6
 B. p. 117 (1862); id. $ Sah. P. Z. S. 1868, p. 140; Gray, Band-l 
 
 B. ii. p. 91, no. 7334 (1870); Pels. Orn. Bras. p. 230 (1871); 
-Hudson, P. Z. 8. 1872, p. 548; Scl. Sf Salv. Nomencl Ai\ Neotr. 
+Hudson, P. Z. S. 1872, p. 548; Scl. Sf Salv. Nomencl Ai\ Neotr. 
 
 p. 32 (1873); White, P. Z. S. 1882, p. GOO; Salvin, Cat StricH. 
 Coll p. 233 (1882); Barroics, Bull Nutt. Orn. Club, viii. p. 132 
@@ -57639,7 +57639,7 @@ Selater Coll.
 6. Embernagra striaticeps. 
 Embemagra striaticeps, Lafr. Mei\ Zool. 1852, p. 01; Scl $• Salt. 
 P. Z. & 1864, p. 352; Cass. Proe. Philad. Acad. 16U5, p. 170; 
-Lawr. Ann. Lye. N. Y. viiL p. 181 (1860); Sah\ P. Z. 8.1867, 
+Lawr. Ann. Lye. N. Y. viiL p. 181 (1860); Sah\ P. Z. S.1867, 
 p. 142; Lawr. Ann. Lye. N. Y. ix. p. 103 (1868); Frantz. J. f. 0. 
 1869, p. 301; Sah. P.Z. S. 1870, p. 100; Gray, Hand-L B. ii. 
 p. 01, no. 7340 (1870); Scl $ Sal v. Nomencl AD. Neotr. p. 32 
@@ -57974,7 +57974,7 @@ Passerina sphenura, Vieill. N. Diet, cV Hist. Nat. xxv. p. 25 (1817) *.
 Emberizoides macrurus, Gray, Gen. B.ii. p. 360 (1844); Bp. Consp. 
 
 
-i. p. 482 (1850) ; Scl. P. Z. 8. 1856, p. 30 j Burm. Rets. La Plata-
+i. p. 482 (1850) ; Scl. P. Z. S. 1856, p. 30 j Burm. Rets. La Plata-
 St. ii. p. 485 (18G1); Scl. Cat. Amer. B. p. 118 (1862) ; id. $ Sal v. 
 Nomencl. Av. Neotr. p. 33 (1873); iid. P. Z. S. 1875, p. 237, 1879, 
 p. 507 j Salv. Lbis, 1885, p. 216. 
@@ -58079,7 +58079,7 @@ Emberizoides sphenurus (nee V.), Scl. Cat. Amer. B. p. 118 (1862);
 Gray, Hand-IB. ii. p. 90, no. 7327 (1870); Belz, Orn. Bras. 
 
 p. 230 (1871); Set. # Sah. Nomencl Av. Neotr. p. 33 (1873); iid. 
-P. Z. 8. 1879, p. 607; Sah. Cat StricM, Coll. p. 234 (1882). 
+P. Z. S. 1879, p. 607; Sah. Cat StricM, Coll. p. 234 (1882). 
 Adult male. Similar to E. macrurus, and differing only in its 
 VOL. XII. 3 ID 
 
@@ -58546,7 +58546,7 @@ Sycalis chloropsis, JBurm. J.f. 0.1860, p. 247; id. Eeis. La PlataSt.
 ii. p. 489 (1861). 
 Fringilla chloris, Gray, Hand-l B. ii. p. 84, no. 7242 (1870). 
 Sycalis lutea, Scl Ibis, 1872, p. 46, pi. 2. rig. 2; id. fy Salv. Nbmenol. 
-Av. Neotr. p. 35 (1873); iid. P. Z. S. 1879, p. 607; Scl. P. Z. 8. 
+Av. Neotr. p. 35 (1873); iid. P. Z. S. 1879, p. 607; Scl. P. Z. S. 
 1881, p. 487; Tacz. Orn. Perou, iii. p. 56 (1886). 
 
 Adult male. General colour above bright olive-yellow, pure yellow 
@@ -59227,7 +59227,7 @@ Subsp. y. Phrygilus saturatus.
 
 Emberiza gayi (nee Eyd. §• Gerv.), UOrb. §* Lafr. Mag. de Zool. 
 1837, p. 75. 
-Phrygilus atriceps (nee JD'Orb.), Sel. $ Salv. P. Z. 8. 1867, p. 985; 
+Phrygilus atriceps (nee JD'Orb.), Sel. $ Salv. P. Z. S. 1867, p. 985; 
 Tacz. Orn. Perou, iii. p. 34 (1886). 
 Phrygilus caniceps (nee Burm.). SaMrij Cat, StricJcl. Coll. p. 227 
 (1882). 
@@ -59907,13 +59907,13 @@ $tt* 6 $ ad. &t. Valparaiso (C. JUarioin). Voy.ILM.S,'Beagle.'
 10. PhrygHus plebeius. 
 Phrygilus plebeius, Cab. Arch. f. Naturg. x. p. 290 (1844); Bp, 
 Co/tsp. i. p. 476 (1850); Tschudi § Cab. Faun. Peruan., Aves, p. 219, 
-pi. 19. fig. 1 (1855) ; Sol P. Z. 8. 1860, p. 87; id. $ Salv. P. Z. 8. 
+pi. 19. fig. 1 (1855) ; Sol P. Z. S. 1860, p. 87; id. $ Salv. P. Z. S. 
 18&5, p. 568 j Gray, Hand-l. B. ii. p. 89, no. 7316 (1870); Scl $ 
-8ah. Nomencl. Av. Neotr. p. 31 (1873); Berl. $ Taoz. P. Z. 8. 
-1884, p. 294,- Tacz. Orn. PSroit, iii. p. 39 (1884),- Scl. P. Z. 8. 
+8ah. Nomencl. Av. Neotr. p. 31 (1873); Berl. $ Taoz. P. Z. S. 
+1884, p. 294,- Tacz. Orn. PSroit, iii. p. 39 (1884),- Scl. P. Z. S. 
 1886, p. 397. 
 
-Plirygilus ocularis {nee Scl), Tacz. P. Z. 8. 1874, p. 520,1879, p. 229, 
+Plirygilus ocularis {nee Scl), Tacz. P. Z. S. 1874, p. 520,1879, p. 229, 
 1882, p. 17. 
 
 Adult male. General colour above ashy brown, all the feathers 
@@ -60599,7 +60599,7 @@ Gubematrix pusilla, JBvrm. J.f. 0.1863, p. 254 ; Gray, Sand-l. 2?,
 ii. p. 115, no.^7715 (1870). 
 Lophospiza pusilla, Burnt. Meis. La-Plata St. ii. p. 488 (1856). 
 Coryphospingus pusillus, Salvin, Ibis, 1880, p. 354, pi. ix. fig. 1. 
-Lophospingus pusillus, Cab. J.f 0.1878, p. 195 ; Scl P. Z. 8.1879, 
+Lophospingus pusillus, Cab. J.f 0.1878, p. 195 ; Scl P. Z. S.1879, 
 p. 460. 
 Adult General colour above light ashy brown, elearer ashy on 
 the lower back, rump, and upper tail-coverts; lesser wing-coverts 
@@ -61076,7 +61076,7 @@ Oalvptrophorus gularis, Cab. in Schomb. Meis. Guian. iii. p. 078
 (1848) ; Licht. Nomend. AD. p. 45 (1854). 
 Paroaria gularis, Bp. Consp. i. p. 472 (1850) j Scl. Cat Amer. B. 
 
-p. 108 (1802) ; id. $ Salv. P. Z. 8. 1800, p. 181, 1807, p. 512; iid. 
+p. 108 (1802) ; id. $ Salv. P. Z. S. 1800, p. 181, 1807, p. 512; iid. 
 Nomencl. Av. Neotr. p. 30 (1878) ; iid. P. Z. S. 1873, p. 204; tialv. 
 Cat. Strickl. Coll. p. 225 (1882); id. Ibis, 1886, p. 303 ; Tacz. Orn. 
 P6rou, iii. p. 27 (1880). 

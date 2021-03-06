@@ -2056,7 +2056,7 @@ Aves, fol. cc (1833).
 Philomela orpliea (Temm.) apud Jerdon^ Madras Journ. x. p. 267 
 
 (1830). 
-Curruca jerdoni, Bh/th, J. A. 8. Benq. xvi. p. 439 (1847). 
+Curruca jerdoni, Bh/th, J. A. S. Benq. xvi. p. 439 (1847). 
 Sylvia jerdoni (Blyth), Bhjth, Cat. B. Mm. As. Soc. p. 187 (1849) ; 
 
 Bp. Consp. I p. 294 (1850); Gray, Hand-L B. i. p. 214 no. 3022 
@@ -2271,7 +2271,7 @@ fasc. i. p. 21 (1835).
 Curruca garrula (Beehst.), apud Jerdon, Madr. Journ. x. p. 2G9 (1839), 
 
 apud Tacz. Bull 8oe. ZooL France, i. p. 142 (187(3). 
-Curruca svlviella (Lath.), apudBh/th, J. A. 8. Beng. xiv. p. 504 (1815). 
+Curruca svlviella (Lath.), apudBh/th, J. A. S. Beng. xiv. p. 504 (1815). 
 Syhia affinis, Blyth, Cat. B. 31m. As. Soc. p. 187 (1849) j Jlitme, 
 
 Stray Feath. vii. p. GO (1878). 
@@ -2279,7 +2279,7 @@ Pyropktkalma affinis (Blyth), Bp. Consp. i. p. 293 (1850).
 Sylvia curruca (Linn.), apud Horsf. § Moore, Cat. B. Mm. E.I Co. 
 
 i. j>. 344 (1854), apud Jerdon, B. Ind. ii. p. 209 (18(53), apud 
-Stoinh. P. Z. 8. 1871, p. 355, apud Severtz. Turkest. Jevotn. p. 05 
+Stoinh. P. Z. S. 1871, p. 355, apud Severtz. Turkest. Jevotn. p. 05 
 (1873), apud Hume § Renders. Lahore to Tarlc. p. 22] (1873), 
 apud Blanf. East. Pers. ii. p. 175 (1870), apudPrjev. lioicleijs Orn, 
 Misc. ii. p. 170 (1877), apud David et Oust. Ois. Chine, p. 210 
@@ -4041,7 +4041,7 @@ Phyllopneustes middendorfii, Meves, Of v. Jc. Vet.-Ak. Fork 1871,
 p. 758. 
 46 TtJRDIDJS. 
 
-Phyllopneuste plimibeitarsa (Sivinh,), Swinhoe, P. Z. 8. 1871, 
+Phyllopneuste plimibeitarsa (Sivinh,), Swinhoe, P. Z. S. 1871, 
 
 p. SdO; Homeyer, Journ. Orn. 1872, p. 20(3; Prjev. Rowley's Orn. 
 Misc. ii. p. 17i (1877) ; Darnel et Omt. Ois. Chine, p. 270 (1877). 
@@ -4079,7 +4079,7 @@ Phylloscopus tenellipes, Swinhoe, Ibis, 1800, p. 53; Seebohm, Ibis.
 
 1877, p. 75; Hume, Sir. F. vi. p. 854 (187S). 
 Sylvia tenellipes (8toinhoe),'Gray} Hand-l B. i. p. 216.no. 3059 (1869). 
-Phyllopneuste tenellipes (Swinhoe), Swinhoe, P. Z. 8. 1871, p. 356; 
+Phyllopneuste tenellipes (Swinhoe), Swinhoe, P. Z. S. 1871, p. 356; 
 
 David et Oust. Ois. Chine, p. 269 (1877). 
 Pliyllopseuste tenellipes (Swinhoe), Giebel, Thes. Orn. iii. p. 121 
@@ -4126,7 +4126,7 @@ type is in the Swinhoe collection in my possession, and other examples
 are in the collection of Allan Hume, Esq. 
 
 7. Phylloscopus magnirostris. 
-Phvlloseopus magnirostris, Blyth, J. A. 8. Beng. xii. p. 966 (1843); 
+Phvlloseopus magnirostris, Blyth, J. A. S. Beng. xii. p. 966 (1843); 
 Horsf. $ Moore, Cat B. Mus. B.I. Co. i. p. 336 (1854); Jerdon, 
 
 B. Ind. ii. p. 191 (1803); Brooks, X A. & Bene/, xli. pt. 2, p. 79 
@@ -4331,7 +4331,7 @@ Misc. p. 8*2. no. 385 (circ. 1844, descr. nulla, partim).
 
 Pliyllopneuste occipitalis, Jerdon,fide Bh/th, J. A. S. Beng. xiv. p. 503 
 (1845); Jerdon,fideBh/th, Cat. B. Mus. As. Soc. p. 183 (1849). 
-Culicepeta occipitalis (Jerdon),fide Blyth, J. A. 8. Beng. xvi. p. 442 
+Culicepeta occipitalis (Jerdon),fide Blyth, J. A. S. Beng. xvi. p. 442 
 (1847). 
 
 Reguloides 
@@ -4503,7 +4503,7 @@ Muscicapa presbytia, 8. Midler, Tychchr. v. ]\raL Gesrk en IViys. ii.
 
 p. 381 (1835, deser. nulla), 
 Pliylloscopus viridipeimis, Blyth, J. A, 8. Beng. xxiv. p. 275 (1850). 
-Gerygone suporciliosa, Wallace, P. Z. 8. 1803, p. 45)1. 
+Gerygone suporciliosa, Wallace, P. Z. S. 1803, p. 45)1. 
 Sylvia presbytia (Milll.), Gray, Hand-l B. I p. 210. no. 3002 (1800); 
 Blyth, Ibis, 1870, p. 100. 
 Acanthiza superciliosa (Wall.), Gray, Hand-L B. i. p. 219. no. 3133 
@@ -5295,9 +5295,9 @@ Purchased.
 17. Phylloscopus tristis. 
 Motacillaacredula(X«Mw.)^«<f7>(ff//. Zoog. Bosso-As. i p. 490(1811). 
 Sylvia trochilus (Linn.) ?, apud Jerd. Madras Journ. xi. p. 0 (1840). 
-Phylloscopus tristis, Blyth, J. A. 8. Benq. xii. p. 000 (1843); id. 
+Phylloscopus tristis, Blyth, J. A. S. Benq. xii. p. 000 (1843); id. 
 
-J. A. 8. Beng. xiv. p. 501 (1845); id. Cat. B. Mus. As. Soc. p. 185 
+J. A. S. Beng. xiv. p. 501 (1845); id. Cat. B. Mus. As. Soc. p. 185 
 (1840); Horsf. 8f Moore, Cat B. Mus. B.I. Co. p. 330 (1854); 
 Jerdon, B. India, ii. p. 100 (1803); Hume <§• Senders. Lahore to 
 York, p. 219 (1873); Dresser, B. Bur. pt Lwi. (1875); Blanf. 
@@ -5403,10 +5403,10 @@ Pliylloseopus
 affinis (Tickell), Blyth, J. A. S. Beng. xvi. p. 442 
 (1847); Bli/t/i, Cat B. Mus. As. Soc. p. 185 (1849); Jerdon, 
 B. India, ii. p. 194 (1803); Peheln, Ibis, 1868, p. 308; 
-Blanf. J. A. 8. Beng. xli. pt. 2, p. 54 (1872); Brooks, Ibis, 1872, 
+Blanf. J. A. S. Beng. xli. pt. 2, p. 54 (1872); Brooks, Ibis, 1872, 
 
 p. 31; id. J. A. B. Beng. xli. pt. 2, p. 81 (1872) ; Godwin-Austen, 
-J. A. 8. Beng. xlv. pt. 2, p. 80 (1876); Seehohm, Ibis, 1877, p. 100 j 
+J. A. S. Beng. xlv. pt. 2, p. 80 (1876); Seehohm, Ibis, 1877, p. 100 j 
 Hume 4* Damson, "Stray Feath. vi. p. 356 (1878V 
 Begulus flaveolus {Blyth), fide Gray, Gen. B. i. p.'l75 (1848). 
 Begulus affinis (Tickell), Gray, Gen. B. i. p. 175 (1848). 
@@ -7579,7 +7579,7 @@ Salicaria turdina orientalis, Temm. et Schleg. Faun. Japon., Aves,
 Salicaria turdoides orientalis, Temm. et Schleg. Faun. Japon., Aves, 
 pi. xx B. (1847). 
 Calamoherpe orientalis (Temm. et Schleg.), Bp. Consp. i. p. 285 
-(18C0); Swinhoe, lbi% 1803, p. 305; id. P. Z. 8. 1803, p. 293, and 
+(18C0); Swinhoe, lbi% 1803, p. 305; id. P. Z. S. 1803, p. 293, and 
 1870, p. 427; Tacz. Journ. Orn. 1874, p. 319, and 1875, p. 245; 
 Tacz. Bull. 80c. Zool. France, 1876, p. 138 j Blakiston ty Pryer, 
 Ibis, 1878, p. 237. 
@@ -7671,7 +7671,7 @@ Malacocercus ? abnornis, Ilodys. MS. Drawings (in the Brit. 3fus.)
 
 of B. of Nepal, Passeres, pi. 54. no. 816, imde 
 Malacocercus ? abornis, Ilodys., Gray's Zool Misc. p. 83. no. 816 (1844). 
-Calamoherpe brunnescens (Jerd.), Myth, J. A. 8. Betty, xv. p. 218 
+Calamoherpe brunnescens (Jerd.), Myth, J. A. S. Betty, xv. p. 218 
 
 (1846); Bp. Consp. i. p. 285 (1850). 
 Acrocephalus brunnescens (Jerd.), Blyth, Cat. B. Mas. As. Soc. 
@@ -7689,7 +7689,7 @@ p. 445; Allen, 11m, 1804, p. 07, pi. i.; UvwjL Orn. K.Q.-Afr. I
 p. 287 (18(H)); Shlley,B. F</tjpf, p. 05 (1*72/; i?/w«/l iW. /W«, 
 li. p. 104 (1870); Dreiser, B. Eur. pt. lxii. (1877).* 
 Salicnria stenturia {Ilempr. et Mr.), Mr. Si/st. U(bers. p. 28 (1850), 
-Acrocephalus orientalis (T. § S.) apud Gray, P. Z. 8. 18**0, p. 34J). 
+Acrocephalus orientalis (T. § S.) apud Gray, P. Z. S. 18**0, p. 34J). 
 Calamodyta brimneacens (JerdX Gray. llaiul-L B. i. p. 207. no. 2018 
 (1860). 
 Calamodyta stentoria {Hempr. et J3h\), Gray, Iland-h B, i. p. 207. 
@@ -8374,7 +8374,7 @@ Calamodvta fasciolata (Gray), Gray, Iland-l B. i. p. 207. no. 2924
 
 p. 253 (1877). 
 Calamodyta insularis (Wall), Gray, Hand-l. B. i. p. 207. no. 2925 
-(1809) ; Swinhoe, P. Z. 8. 1871, p. 352 ; David et Oust Ois. Chine, 
+(1809) ; Swinhoe, P. Z. S. 1871, p. 352 ; David et Oust Ois. Chine, 
 
 p. 253 (1877). 
 Calamoherpe subflavescens, Elliot, P. Z. S. 1870, p. 243. 
@@ -9215,7 +9215,7 @@ Amurl I p. 367 (1860).
 
 122 TURDID-E. 
 
-Calamohorpe action (Pall), Stoinhoe, P. Z. 8. 1803, p. 204. 
+Calamohorpe action (Pall), Stoinhoe, P. Z. S. 1803, p. 204. 
 Saliearia aedon (Pall), I)i/buw. u. Parrex, Jown. Orn. 1808, p. 333. 
 Calamodytaaedon (Pall) I Gray, ILmd-L B. i-jp. 208.no. 2939(1800). 
 Arundiuax aedou {Pall.), ISwinhoe, P. Z. S. 1871, p. 3o3; Tacz. Journ. 
@@ -9346,7 +9346,7 @@ Petit). di/pfents rufescens, Sharpe
 TTJKDIBJB. 
 
 3. Lusciiriola major. 
-Dumeticola major, Brooks, J. A. 8. Being, xli. p. 77 (1872). 
+Dumeticola major, Brooks, J. A. S. Being, xli. p. 77 (1872). 
 General colour of the upper parts neutral brown; lores pale; 
 eye-stripe indistinct greyish white, losing itself behind the eye ; 
 
@@ -9383,7 +9383,7 @@ Nepal, Passeres, pi. 53. no. 826, uncle Ilodgs. Gray's Zoo'l. Misc.
 
 p. 82. no. 826 (1844, desc. null.) ; Gray, Cat. Mamm. §c. Nepal 
 Coll. Ilodgs. pp. 64, 151 (1846, desc. secund.). 
-Dumeticola thoracica, Bhjth, J. A. 8. Beng. xiv. p. 584 (1845, desc. 
+Dumeticola thoracica, Bhjth, J. A. S. Beng. xiv. p. 584 (1845, desc. 
 pirn.) j Bhjth, Cat. B. Mus. As. Soc. p. 183 (1849). 
 Calamodyta affinis (Jlodgs.), Ch-ay, Gen.B. i. p. 172 (1848): id.Hand-l 
 
@@ -9398,7 +9398,7 @@ Prjev. Rowley's Orn. Misc. 1877, p. 169: David et Oust. Ois.
 Chine, p. 247 (1877). 
 Dumeticola brunneipectus, Blyth, Ibis, 1867, p. 19. 
 
-Locustella taczanowskia, Swinhoe, P. Z. 8. 1871, p. 355. 
+Locustella taczanowskia, Swinhoe, P. Z. S. 1871, p. 355. 
 
 Tribura luteiventris, Ilodgs. apud David et Oust, Ois. Chine, t>, 239 
 
@@ -9968,15 +9968,15 @@ W. T. Blanford, Esq. [O.].
 Type. 
 Cettia, JBonap. Comp. List B. Eur, fy JST. Amer. p. 11 
 ' (1838) C. cetti. 
-Horeites, Hodgs. P. Z. 8. 1845, p. 30 C. brunneifrons. 
-Ilorornis, Hodgs. P. Z. 8. 1845, p. 31 C. fortipes. 
-Neornis, Blyth) J. A. 8. Beng. xiv. pt. ii. p. 590 (1845, 
+Horeites, Hodgs. P. Z. S. 1845, p. 30 C. brunneifrons. 
+Ilorornis, Hodgs. P. Z. S. 1845, p. 31 C. fortipes. 
+Neornis, Blyth) J. A. S. Beng. xiv. pt. ii. p. 590 (1845, 
 
 ex Hodgs.) 0. flavolivacea. 
 Homochlamys, Sahad. Atti Ace. Sc. Tor. v. p. 510 
 
 (1870) C. canturians. 
-Herbivox, 8winhoe, P. Z. 8.1871, p. 353 0. cantans. 
+Herbivox, 8winhoe, P. Z. S.1871, p. 353 0. cantans. 
 Urosphena, Swinhoe, Ibis, 1877, p. 205 0. squamiceps. 
 
 The genus Cettia contains a small group of Bush-Warblers, distinguished 
@@ -10176,11 +10176,11 @@ Gibraltar. Col. Irby [P.].
 Horornis fortipes, Ilodgs. MS. Drawings (in the Brit. Mus.) of B. of 
 Nepal, Passeres, pi. 63. no. 850, wide Ilodgs. Gray's ZooL Mwc 
 
-p. 82.no. 850 (1844, descr. null.); Hodgs. P. Z. 8. 1845-p 31 
-(descr. prim.); Blyth,J. A. 8. Beng. xiv. p. 584 (1845) : Gray, Cat 
+p. 82.no. 850 (1844, descr. null.); Hodgs. P. Z. S. 1845-p 31 
+(descr. prim.); Blyth,J. A. S. Beng. xiv. p. 584 (1845) : Gray, Cat 
 Mamm. $c. Nepal Coll. Ilodgs. p. 64 (1846); Bn Conw i 
 p. 290 (1850) ; Jerd. B. Ind. ii. p. 1*62 (1863). J' *' P' 
-Drymoica brevicaudata, Blyth, J. A. 8. Beng. xvi. p. 450 (1847) 
+Drymoica brevicaudata, Blyth, J. A. S. Beng. xvi. p. 450 (1847) 
 Regains fortipes (Hodgs.), Gray, Gen. B. i. p. 175 (1848). 
 Salicaria ?, Ilodgs. MS. Drawings (in the Brit. Mus) of B of 
 Nepal, Appendix, pi. 40. no. 900, and pi. 41. no. 928, wide ' 
@@ -10201,7 +10201,7 @@ Arundinax davidiana, Verr. N. Arch. Mm. Bull vi. p. 37 (1870) ;
 
 David et Oust. Ois. Chine, p. 255 (1877). 
 
-Horeites pallidus, Brooks, J. A. 8. Beng. xli. pt. ii. p. 78 (1872). 
+Horeites pallidus, Brooks, J. A. S. Beng. xli. pt. ii. p. 78 (1872). 
 
 Horeites brunnescens, Hume, Ibis, 1872, p. 109. 
 
@@ -10317,7 +10317,7 @@ Capt. Stackhouse Pinwill
 
 7 . CETTTA. 131) 
 4. Cettia pallidlpcs. 
-Phylloscopus pallidipes, Blanf. J. A. 8. Bmq. xli. pt. ii. p. 1<>2, pi. \ii. 
+Phylloscopus pallidipes, Blanf. J. A. S. Bmq. xli. pt. ii. p. 1<>2, pi. \ii. 
 (1872). 
 Iloreites sericea, Walden, Bhjth § Wald. B. Barm, p. 11 J) (1875, 
 tiee Tetnm,). 
@@ -10652,7 +10652,7 @@ Beng. xiv. p. 585 (1845); Gray, Cat. Mamm. #e. Nepal Coll. Hodgs.
 pp. 65, 151 (1846) j Horsf. $ Moore, Cat B. Mus. E.I. Co. 
 
 p. 323 (1854); Jerd. B. Lid. ii. p. 163 (1863); SwMoe, P. Z. S. 
-1871, p. 351; Brooks, J. A. 8. Beng. xli. pt. ii. p. 78 (1872); David 
+1871, p. 351; Brooks, J. A. S. Beng. xli. pt. ii. p. 78 (1872); David 
 et Oust Ois. Chine, p. 263 (1877). 
 Horeites pollicaris, Ilodgs. MS. Drawings (in the Brit. 31us.) of 
 
@@ -10865,7 +10865,7 @@ C. EMTHACUS, p. 292.
 Type. 
 
 Geociclila, Kuhl (reference unknown *) .. G. interpres. 
-Zoothera, Viyors, P. Z. 8. 1881, p. 172 . . G. nionticola. 
+Zoothera, Viyors, P. Z. S. 1881, p. 172 . . G. nionticola. 
 Oreocincla, Gould, P. Z. S. 1837, p. 145 . G. varia. 
 Turdulus, ITock/s. Grcq/s Zool. Miscell p. 83 (1844) . G. wardii. 
 Ciclilopasser, Bp. Compt. Rend, xxxviii. p. 0 (1854) . . G terrestris. 
@@ -11356,7 +11356,7 @@ Turdus dauma, Lath. 2nd. Orn. i. p. H6'2 (1790); Gray, Gen. B. i.
 
 
 p. 218 (1847) ; Gray, Hand-l. B. i. p. 254. no. 3691 (1869). 
-Oreocincla parvirostris, Gould, P. Z. 8. 1837, p. 136. 
+Oreocincla parvirostris, Gould, P. Z. S. 1837, p. 136. 
 Turdus varius, Honf. apud Jerd. Madras Journ. p. 254 (1839). 
 Turdus wliitei, Byton apud Blyth, Ann. Nat. Hist, xii. p. 98 
 (1843), apud Gray, Cat. Mamm. $c. Nepal Coll. Hodgs. p. feO 
@@ -11665,7 +11665,7 @@ a. Ad. sir. S.E. New Guinea. A. Goldie, Esq. [0.].
 Zoothera inibricata, Laijard, Ann. Nat. Hist, xiii. p.212 (1854): Jerdon. 
 B. Ind.l p. 509(1802). 
 Oreocincla mlghiriensis, Bh/th, apud Jerd. Ibis. 1872. p. J»*it), a pud 
-Holdsw. P. Z. 8. 1872, p. 446. 
+Holdsw. P. Z. S. 1872, p. 446. 
 Oreocincla imbricata (Bayard), Hume, Stray Feath. 187;>; p. 4^7; 
 Zegge, Birds of Ceylon, p. 455, pi. xix. hg. 2 (1870). 
 Oreocincla gregoriana, Nevd, Stray FeatA. i. p. 437 (187»j). 
@@ -11719,7 +11719,7 @@ Turclua viscivoriiH ?, Ilodys. MS.Duiwings (m the Brit. Mas.) of Birds
 of Nepal, Basseres, pi. l'">S a, no. 107 (afterwards altered to 802'), uncle 
 Tui'dus oroocincloides, Ilodys. Gray's Zool. Misc. p. 83 (1844). 
 Otvoeinek rostrata, Ilodys' Ann. Nat. Hist, xv. p. 3:20 (1845). 
-Oreocincla mollissima, Bh/th*, J. A. 8. Bern/, xu. p. 141 (1847); «V7. 
+Oreocincla mollissima, Bh/th*, J. A. S. Bern/, xu. p. 141 (1847); «V7. 
 
 Cat. B. Mas. As. Sot: p.' 1(50 (1840); Horsf. fy Moore, Cat. B. Mas. 
 JE.LCo. i. p. 103 (1854); Jmfaw, B.India, i. p. 533 (1802); Godw.A 
@@ -11810,7 +11810,7 @@ Horsf. Sr Moore, Cat. B. Mas. E.I. Co. i. p. 192 (1854); Jerd. B.
 Ind.'i. p. 500 (1802); Gray, Cat. Mamm. $c. Nepal Coll. Hodgs. 
 
 p. 41 (1803); Gray, Kand-l. B. i. p. 201. no. 3811(18(59); Godw.~ 
-Aust. J. A. 8. Beng. xli. pt. 2, p. 142 (1872); Ulanford, J. A. S. 
+Aust. J. A. S. Beng. xli. pt. 2, p. 142 (1872); Ulanford, J. A. S. 
 Beng. xli. pt. 2, p."40 (1872). 
 Tardus 
 rostratus, Modgs. MS. Drawings (in the Brit. Mas.) of Birds 
@@ -12158,7 +12158,7 @@ Oreocincla spiloptera, Bhjth. J. A. S. Bern/. x\i. p. 142 (1847); Blytli,
 Oaf. B. Mm. As. Soc. p. 100 (1849) ; %Eelamt, Pradr. Cat. p. 1:22 
 (1852) ; Layard, Ann. Nat. Hist. 1853, p. 270; Bh/th, Ms, 1S07, 
 
-p. 30:); Holdsw. P. Z. 8. 1872, p. 440; Leqqe} Ibis, 1874, p. 18; 
+p. 30:); Holdsw. P. Z. S. 1872, p. 440; Leqqe} Ibis, 1874, p. 18; 
 id. Str. F. 1875, p. 307. 
 Tardus spilopterus (Bh/th), Gray, Hand-lB. I p.254. no.3693 (18G9); 
 Legge, Birds of Ceylon, p. 451, pi. xix. (1879). 
@@ -12201,7 +12201,7 @@ a, b, c. Ad. sk. Ceylon. Purchased.
 d, e,f. Ad. sk. Nuwera Elba, Ceylon. Mr. E. Boate [C.]. 
 22. GeocicMa guttata. 
 
-Turdiis status, Viqors, P. Z. 8. 1831, p. 92; Smith, III Zool S. 
+Turdiis status, Viqors, P. Z. S. 1831, p. 92; Smith, III Zool S. 
 Afr., Birds, pi. xx'xix. (1*31)); Gray, Gen. B.i. p. 219 (1847) ; Bp. 
 Consp. i. p. 209 (1830) ; Lai/ard, B. S. Afr, p. 128 (1807); Gray, 
 Iland-l. B. i. p. 25:). no. 3070 (1869); tiharpe, Cat. Afr. B. p. 21 
@@ -12406,10 +12406,10 @@ TTJRDIDJE.
 
 28. Geocichla cyanouottis. 
 Turd us cyanotns, Jarch # Selbi/, III. Oni. i. pi. xlvi. (1828) ; Si/kes, 
-P. Z. 8. 1S32, p. 87 ; Jerri Madr. Joum. x. p. 254 (1830) ; Gray, 
+P. Z. S. 1S32, p. 87 ; Jerri Madr. Joum. x. p. 254 (1830) ; Gray, 
 lland-L B. i. p. 250. no. 3702 (1800). 
 G-eocichla 
-cyanota {Jard. § Selbi/), Blyth, J. A. 8. Beng. xvi. p. 145 
+cyanota {Jard. § Selbi/), Blyth, J. A. S. Beng. xvi. p. 145 
 (1847); Blyth, Cat. B. Mus. As. Soe. p. 103 (1840); Bp. Cousp. 
 
 i. p. 208 (1830); Ilorsf. # Moore, Cat. B. Mies. F.I. Co. i. p. 101 
@@ -12462,7 +12462,7 @@ no. 445 (1828) ; Gray, Gen. B. i. p. 220 (1847) ; Gray, Kand4. B.
 
 i. p. 250. no. 3700 (1800). 
 Turdus macei, Vieill N. Diet. d'Hist. ted. xx. p. 270 (1818). 
-Turdus lividus, Tickell, J. A. 8. Beng. ii. p. 577 (1833). 
+Turdus lividus, Tickell, J. A. S. Beng. ii. p. 577 (1833). 
 Petroeinela cyanota (Jard.), apud Ifodgs. M8. Drawings (in the 
 Mr it. Mus.'j of Birds of Nepal, Passeres, pis. 138, 130. no. 584, 
 unde Ilodgs. Graffs Zoo'l. Misc. p. 83 (1844). 
@@ -12481,7 +12481,7 @@ id. Cat. B. Man. As. tioe. p. I<5;5 (1H44>) ; Bp. Consp. i. p. 2(58
 
 Mus.B.I. Co. i. p. ISO (1834); .#;•& B. 1ml. i. p. 517 (18<>2); 
 
-Godw.-Aitst. J. A. 8. Box/, xxxix. pt. 2, p. 208 (1H70); i/ww, 
+Godw.-Aitst. J. A. S. Box/, xxxix. pt. 2, p. 208 (1H70); i/ww, 
 
 iWtf awd .%« iwtf. B. p. 220 (187-1); %M $ Tl'aM. B. Jhmn. 
 
@@ -12904,7 +12904,7 @@ of Oreocincla pecturalis, Legge.)
 
 36. Geociclila pinicola. 
 Turdus pinicola, Sclater, P. Z. S. 1859, pp. 334,362; id. P. Z. S. 1800, 
-p. 200; id. Cat, Amer. B. p. 0. pi. 1 (1802); id. P. Z. 8. 18(54, 
+p. 200; id. Cat, Amer. B. p. 0. pi. 1 (1802); id. P. Z. S. 18(54, 
 p. 172 j Sumichrctht, Mem. Host. Soe. JV", II. i. p. 543 (1809) ; Cray, 
 Iland-l. B. i. p. 258. no. 3771 (1809); tie!. § Sale. Nomencl. Ar. 
 Keotr. p. 2 (1873); Salv. §• Godm. JJioL Cent,-Amer. Zool. Aves, 
@@ -13551,7 +13551,7 @@ which the above descriptions are taken.
 2. Turdus bewsheri. 
 Turdus 
 bewsheri, B. Newton, P. Z. S. 1877, p. 299, pi. xxxiv.; 
-Shelley, P. Z. 8. 1879, p. 677. 
+Shelley, P. Z. S. 1879, p. 677. 
 
 In the adult male in spring plumage the general colour of the 
 upper parts is chocolate-brown, somewhat darker on the head and 
@@ -14129,7 +14129,7 @@ Tardus melodus (Bartr.), Wilson, Artier. Orn. i. p. 29, pi. ii. fig. 1
 
 (180S). 
 Turdus meloclius (Bartr.), Bp, Journ. Phil Acad. iv. p. 33 (1824). 
-Manila mustelinus (Gmel), Benny, P. Z. 8. 1847, p. 38. 
+Manila mustelinus (Gmel), Benny, P. Z. S. 1847, p. 38. 
 Turdus densus, Bp. Compt. Rend. xxxviii. p. 2 (1854). 
 Turdus (Hylociclila) mustelinus (Gmel), Cones, Birds Colorado Vail 
 
@@ -14199,10 +14199,10 @@ TTTRDID2E.
 Merulft silona (Vieill), apud 8ioainson, Phil.^Mag. 1827, p. 369, apud 
 tiicainson, Faun. Bor.-Amer., Birds, p. 186 (1831;. 
 Turdus silens (Vieill.), apud Gray, Gen. B. i. p. 219 (1847) ; apud 
-Plater, P. Z. S. 1858, p. 300, et P. Z. 8. 1859, p. 825, et Ibis, lbOl, 
+Plater, P. Z. S. 1858, p. 300, et P. Z. S. 1859, p. 825, et Ibis, lbOl, 
 
 p. L>82, et Cat Amer. B. p. 2 (1862). 
-Turdus bolitaiius, Wilson, apud Selater, P. Z. 8. 1857, p. 212. 
+Turdus bolitaiius, Wilson, apud Selater, P. Z. S. 1857, p. 212. 
 Turdus auduboni, Baird, Beview, i. p. 10 (1864)• Gray, Hand-LB. 
 i 
 p. 254. no. 868o (1869)• Sumichrast, Mem. Bost. Soc. X" ±L i. 
@@ -14458,7 +14458,7 @@ The synonymy of the Grey-cheeked form is as follows:—
 13. Turdus aliciae. 
 Turdus 
 aliciss, Baird, Cass.,fy Laior. B. X Amer. p. 217, pi. 81. 
-fig*. 2 (1858) • Sclater, P. Z. 8. 1859, p. 326; Baird, P^riew, L 
+fig*. 2 (1858) • Sclater, P. Z. S. 1859, p. 326; Baird, P^riew, L 
 
 p. 21 (1864); Ball $ Bann. Tr. Chic. Acad. L p. 275 (1H50) ; 
 Gray, Hand-l B. i. p. 254 no. 3686 (I860) ; Frantziut, Jour a. 
@@ -14874,11 +14874,11 @@ Turdus pliasopygus, Cab. Seliomh. JRezs. Guian. iii, p. 666 (1848);
 2. TURDUS. 200 
 Cab. Mus. Rein. i. p. 4 (1850); Licht Norn. Av. Mm. Zool BeroL 
 
-i. p. 2G (1854.) * Sdater, P. Z. 8. 1850, p. 327 ; id. Cat. Amer. 
+i. p. 2G (1854.) * Sdater, P. Z. S. 1850, p. 327 ; id. Cat. Amer. 
 B. p. 3 (1862) j Z&rf. Ow. Trinid. p. 107 (1800); 8cL cy 8alo. 
 P. ^. 8. 1807, p. 508, pi. xxix.; tow/, JiW-J. if. i. p. 257. no. 
 3738 (1869); &/. # &*&. Ex. Orn. p. 140, pi. lxxv. (18(59) • Pelz. 
-Orn. Bras. pp. 93, 421 (1871) ; ScL $ Sal v. P. Z. 8. 187tf, p. 255; 
+Orn. Bras. pp. 93, 421 (1871) ; ScL $ Sal v. P. Z. S. 187tf, p. 255; 
 &>Z. # #«&*. Nomencl. Av. JSreotr. p. 1 (1873) j Layard, Ibis, 1873, 
 p. 376. 
 Planesticus phseopygus (Cab.), Bp. Compt. Rend. xxxviii. p. 3 (1854). 
@@ -15097,11 +15097,11 @@ The synonymy of the extreme form is as follows:—
 
 23. Turdus leucaucheiL 
 Turdus leiicauchen, 
-Selater, P. Z. 8. 1858, p. 447; Sel. $• Sab. Ibi$, 
-1859, p. 0; Selater, P. Z. 8. 1859, p. 828; id. Cat. Amer. B. p. 3 
+Selater, P. Z. S. 1858, p. 447; Sel. $• Sab. Ibi$, 
+1859, p. 0; Selater, P. Z. S. 1859, p. 828; id. Cat. Amer. B. p. 3 
 (18(52) j Baird, Bev. Am. B. i. p. 24 (1804); Salvin, P. Z. S. 
 18(37, p. lo2 ; Later* Ann. L. JSew York, ix. p. 91 (1808),* Grai/, 
-Iland-L B. i. p. 257. no. 3749 (1869) ; Scl $ Sato. P. Z. 8.1870, 
+Iland-L B. i. p. 257. no. 3749 (1869) ; Scl $ Sato. P. Z. S.1870, 
 
 p. 838. 
 This form differs from the preceding in having the upper parts an 
@@ -15125,7 +15125,7 @@ Turdus
 gymnophthalmus, Cab. Schomb. Reis. Guian. iii. p. 665 
 (1848); Licht. Norn. Av. Mus. ZooL Berol p. 25 (1854): Sclater, 
 
-P. Z. 8. 1859, p. 329 j id. Cat. Amer. P. p. 4 (1862) ; Taylor, Ibis 
+P. Z. S. 1859, p. 329 j id. Cat. Amer. P. p. 4 (1862) ; Taylor, Ibis 
 Spelt leucaucJian, 
 
 2 . TURDUS. 
@@ -15411,7 +15411,7 @@ Licit. Mm. Av. Mm. Zool. Berol. p. 26 (1854) ; Sctafer, P. Z 8.
 1859, p. 329; Taylor, Ibis, 1804, p. 80; Sdater, Cat.Amer.B. 
 
 p. 4 (1862); M. 8f 8ah. P. Z 8.1866, p. 177; ml P. Z. & 1868, 
-p. 166; Gray, Hand-l B. i. p. 258. no. 3757 (1860); Fimeh. P. Z. 8. 
+p. 166; Gray, Hand-l B. i. p. 258. no. 3757 (1860); Fimeh. P. Z. S. 
 1870, p. 554; Peh. Orn. Bras. pp. 94, 421 (1871); Scl $ 8ah. 
 Mmeml. Av. Motr. p. 1 (1873) ; Zayard, Ibis, 1873, p. 376. 
 Spelt alhzvenfris. 
@@ -15648,7 +15648,7 @@ The synonymy of the conspecific form is as follows:—
 34. Turdus casius. 
 Planesticus casing, Bp. Compt, Mend. xli. p; 657 (1355). 
 Tardus csesius (Bonap.), Gray, Hand-l. B. i. p. 257. no. 3744 (I860). 
-Turdus casius (Bonap.), Sclater, P. Z. 8. 1359, p. 330; Later, Ana. 
+Turdus casius (Bonap.), Sclater, P. Z. S. 1359, p. 330; Later, Ana. 
 
 L. N. II. Neiv York, yii. p. 326 (18G2). 
 Turdus 
@@ -15677,7 +15677,7 @@ Man. dOrn. iii. p. 91 (1835); Bp. Cmnp. LtstB. Eur. & N Amer.
 p. 17 (1838); Keys. u. Bias. With. Bur. pp. Iii. 178 (1840); Gray, 
 Gen. B. i. p. 219 (1847); Der/l Orn. Bur. i. p. 462 (1849); Bp. 
 Consp. i. p. 272 (1850); Cab. Mm. Hem. i. p. 4 (1850); SeJatar, 
-P. Z. 8. 1856, p. 294; id. P. Z. 8. 1859, p. 331; id. Cat Amer. B. 
+P. Z. S. 1856, p. 294; id. P. Z. S. 1859, p. 331; id. Cat Amer. B. 
 p. 4 (1862); Newt. List B. Bur. Blashis, p. 9 (1862); Dtql. et 
 Gerbe, Orn. Bur. i. p. 406 (1867); Ball $ Bann. Tr. Chic. Acad. 
 i. p; 276 (1869); Gray, Hand-l. B. i. p. 257. no. 3747 (16<i9); 
@@ -16990,7 +16990,7 @@ sen-anus, Tsch. Av. Comp., Wiegm. Arch. x. p. 280 (3844) j
 Tschudi $ Cab. Fauna Peruana, Aves, p. 18G (1845); Gray. Gen, 
 
 B. i. p. 219 (1847); Bp. Consp. I p. 275 (1850) ; Cab. Journ. Orn. 
-1854, p. 260 j Sclater, P. Z. 8. 1859, p. 330; Gray, IlantU. B. i. 
+1854, p. 260 j Sclater, P. Z. S. 1859, p. 330; Gray, IlantU. B. i. 
 p. 258. no. 3755 (1809); Scl £f Salv. Nonrenal. Av. Neotr. p. 2 
 (1873, partim); Tacz. P. Z. S. 1874, p. 504. 
 Turdus atrosericeus (Lafi\), apud Sclater, Cat. Amei\ B, p. 5 (1802, 
@@ -17289,10 +17289,10 @@ by a complete series of examples in every intermediate stage of
 colour. The synonymy of the Northern form is as follows:— 
 
 11. Hernia gigas. 
-Tardus gigas, Fraser, P. Z. 8. 1840, p. 59; Gray, Gen. B. i. p. 219 
+Tardus gigas, Fraser, P. Z. S. 1840, p. 59; Gray, Gen. B. i. p. 219 
 (1847); Bp. Consp. i. p. 275(1850),-Licht.Nomend.Av. p. 20 (1854); 
-Mater, P. Z. S. 1855, p. 144; id. P. Z. 8. 1858, pp. 451, 550 : 
-id. P. Z. 8.1859, p. 332; id. Cat. Amer. B. p. 5 (1862); Scl $ Sah. 
+Mater, P. Z. S. 1855, p. 144; id. P. Z. S. 1858, pp. 451, 550 : 
+id. P. Z. S.1859, p. 332; id. Cat. Amer. B. p. 5 (1862); Scl $ Sah. 
 ttv. Orn. p. 139, pi. lxx. (1808); Gray, Hand-l B. i. p. 258. 
 no. 3760 (1869); Scl. $ Salv. Komenel Av. Neotr. p. 2(1873); iid. 
 
@@ -17327,8 +17327,8 @@ The synonymy of the Southern form is as follows:—
 
 12. Herula gigantodes. 
 Turdus gigantodes, 
-Cab. Jonrn. Orn. 1873, p. 815: Tacz. P. Z. 8. 
-1874, p. 503; Scl. 8f Sahin, P. Z. 8. 1874, p. 677. 
+Cab. Jonrn. Orn. 1873, p. 815: Tacz. P. Z. S. 
+1874, p. 503; Scl. 8f Sahin, P. Z. S. 1874, p. 677. 
 
 This differs from the typical form in leing much darker and 
 browner. The head, wings, and tail are almost black; the back, 
@@ -18280,7 +18280,7 @@ Julius 33rcnchley; Esq. [P.].
 Turdus albiceps, Swinh. Ibis, 180i, p. 303 j id. Ibis, I860, pp. 135, 
 315, pi. v.; &>«//, IIund-L B. i. p. 200. no. 3707 (1809) ; tiwinh. 
 
-P. Z. 8. 1871, p. 307 • David et Oust Ois. Chine, p. 150 (1877). 
+P. Z. S. 1871, p. 307 • David et Oust Ois. Chine, p. 150 (1877). 
 In the adult wale in spring plumage the entire head, neck, and 
 
 throat are pure white, the rest of the upper parts dark brown, nearly 
@@ -18330,7 +18330,7 @@ mosa.
 
 a. Ad. sk. Formosa. R. Swinlioe, Esq. [O.]. 
 33. Merula castanea. 
-Merula castanea, Gould, P. Z. S. 1835, p. 185 ; Blyth, J. A. 8. Bern/. 
+Merula castanea, Gould, P. Z. S. 1835, p. 185 ; Blyth, J. A. S. Bern/. 
 xvi. p. 149 (1847); id. Cat B.Mus. As. 8oc. p. 102 (1849); llorsf. 
 $ Moore, Cat. B. Mus. B.I. Co. i. p. 197 (1854); Gould, B. Asia, 
 ii. pi. 75 (1859); Jerd. B. Ind.i. p. 526 (1802); Gray, Cat. 
@@ -18522,7 +18522,7 @@ Gen. B. i. p. 219 (1847); Middend. Reis. Sibir. Zool ii. pi 2,
 
 p. 172 (1851); Gould, B. Asia, I pi. Ixv. (1851) ; Brehm, Vogelf. 
 p. 1G1 (1855) j Newt. List B. Eur. Btasius,y. 9 (18G2); Swin'h. 
-P. Z. 8. 1802, p. 317 j Blahiston, Ibis, 1802, p. 319; Swinh P. Z. S. 
+P. Z. S. 1802, p. 317 j Blahiston, Ibis, 1802, p. 319; Swinh P. Z. S. 
 1863, p. 280 ; Radde, Reis. Sibir. Yog. p. 230 (1803) ; Swinh. Ibis, 
 1803, pp. 93, 277; Degl. et Gerbe, Orn. Eur. I p. 409 (1807) : 
 Fritsch, Tog. Eur. p. 138 (1870) ; Stvinh. P. Z. S. 1871, p. 300 ; 
@@ -18706,9 +18706,9 @@ d.
 J ad. sk. Ningpo, China, March 1872. ^ H. Swinhoe, Esq. [C.]. 
 (Alleged hybrid between M. naumannii and M. fuscata.) 
 39. Merula protoniomelsena*. 
-Turclus dissimilis, Myth, J. A. 8. Benq. xvi. p. 144 (1847, tf, nee $) $ 
-Gray, Hand-l B. i. p. 2o0. no. 3729 (18G9) • Godiv.-Aust. J. A. 8. 
-Bmg. xli. pt. 2, p. 142 (1872) ; Seebohm, JP. Z. 8. 1879, p. 805, 
+Turclus dissimilis, Myth, J. A. S. Benq. xvi. p. 144 (1847, tf, nee $) $ 
+Gray, Hand-l B. i. p. 2o0. no. 3729 (18G9) • Godiv.-Aust. J. A. S. 
+Bmg. xli. pt. 2, p. 142 (1872) ; Seebohm, JP. Z. S. 1879, p. 805, 
 pi. fxiv. 
 
 Geociehla 
@@ -18765,7 +18765,7 @@ of Col. Godwin-Austen.
 
 40. Merula euryzona. 
 Merula euryzona, DuBus, Esquiss. Orn. pi. xxxiv. (1845). 
-Turdus Muventris, Sclater, P. Z. 8. 1857, p. 273; id. P. Z. S. 1859, 
+Turdus Muventris, Sclater, P. Z. S. 1857, p. 273; id. P. Z. S. 1859, 
 
 
 p. 331; id. Ibis, 1861, pL viii. $ id. Cat. Amer. B. p. 4 (1802) • 
@@ -19031,7 +19031,7 @@ Gray's Zool. Misc. p. 83 (1840).
 
 Planesticus ruficollis (Pall.), Bp. Cat. Parzud. p. 5 (1856) ; Jerdon, 
 
-B. Ind. i. p. 528 (1862) ; Godw.-Aust. J. A. 8. Beng. xxxix. pt. 2, 
+B. Ind. i. p. 528 (1862) ; Godw.-Aust. J. A. S. Beng. xxxix. pt. 2, 
 p. 182 (1870). 
 Turdus hyenialis, Dybowsky, Journ. Orn. 1872, p. 439. 
 In the adult male in spring plumage the general colour of the upper 
@@ -19092,16 +19092,16 @@ boioshy), May 18,1871.
 
 m. S ad. sk. China. Purchased. 
 44. Merula unicolor. 
-Turdus unicolor, Tichell, J. A. 8. Beng. ii. p. 577 (1833)• Gould, 
-P. Z. 8. 1837, p. 136; Gray, Gen. B. i. p. 220 (1847); id. Hand-l 
+Turdus unicolor, Tichell, J. A. S. Beng. ii. p. 577 (1833)• Gould, 
+P. Z. S. 1837, p. 136; Gray, Gen. B. i. p. 220 (1847); id. Hand-l 
 B. i. p. 255. no. 3699 (1869, Goidd), and p. 260. no. 3796 (1869, 
 Tichell). 
-Turdus modestus, Blyth, J. A. 8. Beng. xi. p. 460 (1842, nee JEyton). 
+Turdus modestus, Blyth, J. A. S. Beng. xi. p. 460 (1842, nee JEyton). 
 Petrocincla homochroa, Hodgs. MS. Drawings (in the Brit. Mm.) of 
 
 B. of Nepal, Passeres, pi. 139. no. 586, wide Hodgs. Gray's ZooL 
 Mise. p. 83 (1844). 
-Geocichla dissimilis, Blyth, J. A. 8. Beng. rvi. p. 144 (1847, $, nee 
+Geocichla dissimilis, Blyth, J. A. S. Beng. rvi. p. 144 (1847, $, nee 
 c?); Horsf. $f Moore, Cat. B. Mm. JS.I. Co. i. p. 191 (1854). 
 Geocichla unicolor (Tichell), Blyth, Cat. B. Mus. As. 8oc, p. 163 
 (1849); Bp. Comp. i. p. 208 (1850); Jerd. B. Ind. i. p. 519 
@@ -19246,7 +19246,7 @@ Turdus clirysolaus Temm., apud Godir.-Aust. J. A. S. Beng. xxxix.
 
 pt. 2, p. 101(1870). 
 G-eociclila obscura (Gmel), Jerdon, Ibis, 1872, p. 130. 
-Turduluspallens {Pall), Godw.-Amt. J. A. 8. Beng. xliii.pt. 2, p. 178 
+Turduluspallens {Pall), Godw.-Amt. J. A. S. Beng. xliii.pt. 2, p. 178 
 
 (1874). 
 
@@ -19673,7 +19673,7 @@ e. Ad. sk. Uovnoo. t Purchased.
 2S0 TUrdDIDiE. 
 
 4. MIMOCICHLA, Sclater. Type 
-Mimocichla (subgenus), Sclater, P. Z. 8. 1859, p. 330 . . M. rubripes. 
+Mimocichla (subgenus), Sclater, P. Z. S. 1859, p. 330 . . M. rubripes. 
 
 Mimokitta, Bryant, Pr. Bo*t. Soc. ix. p. 871 (1865) ... . M. bryanti. 
 
@@ -19970,11 +19970,11 @@ brown in the allied species.
 Myioturdus fuscater, Lafresn. Rev. Zool. 1845, p. 34 L 
 Grallaria fuscatra (Lafr.)t Gray, Gen. B. i. p. 213 (184G), 
 Chamseza fuscater (Zafr.), Bp* Cump. i. p. !204 (1850), 
-Catharus fuscater (Lah\\ Selater, P. Z. 8. 1859, p. 324; Salvin, P. 
+Catharus fuscater (Lah\\ Selater, P. Z. S. 1859, p. 324; Salvin, P. 
 
 
 Z. 8. 1867, p. 132; Later. Ann. lye. JSr. T. ix. p. 90 (1808); 
-Salvm, P. Z. 8. 1870, p. 180; Set. §• 8ah. Komencl AD. JVcotr, 
+Salvm, P. Z. S. 1870, p. 180; Set. §• 8ah. Komencl AD. JVcotr, 
 p. 1 11873); Salv. $ Godm. Biol Cetitr.-Amer. ZooL, Jves,
 p. 3 (1879). 
 Turdus ftibcater (Lafrt), Gray, Iland-l B. i. p. 259. no. 3782 (18G9). 
@@ -20010,7 +20010,7 @@ b. Ad. sk. Quito, Ecuador {Jameson). J. Gould, Esq.
 c. S ad. sk. Veragua (Arce). II. Seebohm, Esq. [P.]* 
 
 2. Catharus mentalis, 
-Catharus mentalis, Scl $ Salt P. Z. 8.1876, p. 352; iid. P. Z. 8. 
+Catharus mentalis, Scl $ Salt P. Z. S.1876, p. 352; iid. P. Z. S. 
 1879, p. 591. 
 
 In the adult male the general colour of the upper parts, including 
@@ -20045,12 +20045,12 @@ to be a resident.
 3. Catharus mexicanus. 
 Malacocychla mexicanus, Bp. Oompt. Rend, lxiii. p. 90S (1856) j 
 Sclater*, P Z. 8. 1857, p. 203; Sd. $ Salv* Ibis, 1869, p. 7. 
-Catharus mexicanus (Bp.), Sclater, P. Z. 8. 1859, p. 324; Baird, 
+Catharus mexicanus (Bp.), Sclater, P. Z. S. 1859, p. 324; Baird, 
 
-Bev. Am. B. p. 11 (1804); Solater, P. Z. 8. 1804, p. 172; Salm'n, 
+Bev. Am. B. p. 11 (1804); Solater, P. Z. S. 1804, p. 172; Salm'n, 
 
 P. Z. 8, I860, p, GO; Later. Ann. Lye. & Y. ix. p. 90 (1808) ; 
-Sumichrast, Mem. Bost Soc. Ar. II i. p. 542 (1869); Sahin, P. Z. 8. 
+Sumichrast, Mem. Bost Soc. Ar. II i. p. 542 (1869); Sahin, P. Z. S. 
 1870, p. 179 • Scl fy Salv. Nomencl Av. Keotr. p. 1 (1873)• Salv. 
 ty Goclm. Biol. Centr.-Amer. Zool, Aves, i. p. 6 (1879). 
 Turclus 
@@ -20392,7 +20392,7 @@ Godman.
 
 11. Catharus occidentalis. 
 Catharus 
-occidentalis, Sclater, P. Z. 8. 1859, pp. 323, 370; Baird, 
+occidentalis, Sclater, P. Z. S. 1859, pp. 323, 370; Baird, 
 Bev. Am. B. p. 8 (18G4) ; SumicJirast, Mem. Bost. Soc. N. II i. 
 
 p. 542 (1809) ; Later. Bull XI. S. 2?at. Mm. no. 4, p. 11 (1870); 
@@ -21098,13 +21098,13 @@ Caucasus. Nothing has been recorded respecting its migrations.
 
 a. d ad. sk Besht, Persia. Col. St. John [C.]. 
 9. Erithacus hnnmeus. 
-Larvivora cyana (Pallas), apud Hodgson, J. A. 8. BengJri. p. 102 
+Larvivora cyana (Pallas), apud Hodgson, J. A. S. BengJri. p. 102 
 (1837; male), apud Bp. Consp. i. p. 301 (1850), apud Horsf § 
 Moore, Cat B. Mus, KL Co. i. p. 810 (1854), apud Jerdon, B. 
-Ind. h\ p. 145 (1863), apud Holdsio. P. Z. 8. 1872, p. 454, apud 
+Ind. h\ p. 145 (1863), apud Holdsio. P. Z. S. 1872, p. 454, apud 
 Hume, Nests and Eggs Bid. B. ii. p. 324 (1874). 
 
-Larvivora brimnea, Hodgson, J. A. 8. Beng. vi. p. 102 QSZ7, female) * 
+Larvivora brimnea, Hodgson, J. A. S. Beng. vi. p. 102 QSZ7, female) * 
 
 Legge, Birds of Ceylon, p. 44(3 (1879), 
 Phoemcura superciliaris, Jerd. Madr. Journ. xiii. p. 170 (1844). 
@@ -21325,7 +21325,7 @@ Lusciola calliope (Pall.), Keys. u. Bias. Wirb. Eur. pp. lviii, 190
 (1840) ; Temm. et JSchleg. Faun. Japan. Aves, p. 57 (1847). 
 Calliope camtschatkensis (Gmel,), Strickl. Ann, Nat. Hist. vi. 
 
-p. 422 (1841) ; Blyth, J. A. 8. Beng. xvi. p. 134 (1847) ; id. 
+p. 422 (1841) ; Blyth, J. A. S. Beng. xvi. p. 134 (1847) ; id. 
 Cat B. Mm. As. Sac. p. 169 (1849) 5 Bp. Consp. i. p. 295 (1850); 
 Cab. Mus. Hem. i. p. 1 (1850) ; Horsf. $ Moore, Cat. B. Mm* B.I. 
 Co. i. p. 313 (1854); Jaub. et Barth.-Lapomm. Rich. Orn. p. 236 
@@ -21358,7 +21358,7 @@ no. 8202 (1869).
 Lusciola (Melodes) calliope (Tall), Fritsch, Vog. Fur. p. 184 
 (1870). 
 Calliope kamtschatkensis 
-{Gmel.\ Godw.-Aust. J. A. 8. Bang, xxxix. 
+{Gmel.\ Godw.-Aust. J. A. S. Bang, xxxix. 
 pt. % p. 270 (1870j ; Tacz. Bidl. Soc. Zool France, p. 143 (1876) j 
 Bn'ev. Bowleg's Orn. Misc. ii. p. ISO (1877); Hume # Davison, 
 Stray Feath. \i. p. 337 (1878). 
@@ -21428,11 +21428,11 @@ n, o. tf ad. • p. $ ad. sk, Philippine Islands. Hugh Cuming, Esq. [C.].
 
 13. ErithactLS pectoralis. 
 Calliope pectoralis, Gould, Icones Avium, pt. ii. pi. 1 (1837) ; Blyth, 
-J. A. 8. Beng. xii. p. 934 (1843) ; Gray, Cat. Mamm. &c. Nepal 
-Coll. Hodgs. p. 69 (1846) ; Blyth, J. A. 8. Beng. xvi. p. 135 (1847); 
+J. A. S. Beng. xii. p. 934 (1843) ; Gray, Cat. Mamm. &c. Nepal 
+Coll. Hodgs. p. 69 (1846) ; Blyth, J. A. S. Beng. xvi. p. 135 (1847); 
 id. Cat. B. Mm. As. Soc. p. 169 (1849); Bp. Consp. i p. 295 
 (1850) ; Adams, P. Z. S. 1858, p. 492; Horsf. $ Moore, Cat. B. 
-Mus. F.I. Co. i, p. 313 (1854) * Adams, P. Z. 8. 1859, p. 180 j 
+Mus. F.I. Co. i, p. 313 (1854) * Adams, P. Z. S. 1859, p. 180 j 
 6. EMTH.ACTJS. 307 
 Blyth, Ibis, 1862, p. 303 ; Jerd. B. Lid. ii. p. 150 (1863); Beaoan, 
 Ibis, 1867, p. 453 ; Peheln, Ibis, 1868, p. 310; Godw.-Aust. J. A, 
@@ -21594,7 +21594,7 @@ Ada)m>IUs' 1878
 
 (18/9). 
 Cyanecula orientals, Brehm, Tog. Deutschl p. 853 (1831). 
-Phcemcura suecica {Linn.), Sylces. P. Z. 8. 1832, p. 92: Jerd. Mmlr. 
+Phcemcura suecica {Linn.), Sylces. P. Z. S. 1832, p. 92: Jerd. Mmlr. 
 
 Joum. x. p. 207 (1830). 
 Pandicilla suecica {Linn.), Bhjth, Field Nat. i. p. 201 (1833). 
@@ -23075,7 +23075,7 @@ May 29, 1868.
 rv ™ 
 Type. 
 Sialia, Swains. Zool. Journ. iiL p. 173 (1827) S. sialis. 
-Grandala, Hodgs. J. A. 8. Beng. xii. p. 447 (1843) S. coelicolor. 
+Grandala, Hodgs. J. A. S. Beng. xii. p. 447 (1843) S. coelicolor. 
 The genus Sialia consists of a small group of birds, apparently 
 
 nearly allied to the Kedstarts. The bill is short, slender, and black, 
@@ -23128,18 +23128,18 @@ inches, females 3*48 to 3*35 inches occidentalism p. 332.
 
 b. Breast and flanks dull verdigiis-blue arciica, p. 333. 
 1. Sialia ccelicolor. 
-Gxandala ccelicolor, Bodgs. J. A. 8. Bene/, xii. p. 447 (1843) : Gray, 
+Gxandala ccelicolor, Bodgs. J. A. S. Bene/, xii. p. 447 (1843) : Gray, 
 Gen. B. i. p. 184 (1846),* id. Cat. Mamm. $c. Nepal Coll Modal 
 
 
-p. 69 (1846) • Blyth, J. A. 8. Beng. xvi. p. 132 (1847)• id. Cat. B. 
+p. 69 (1846) • Blyth, J. A. S. Beng. xvi. p. 132 (1847)• id. Cat. B. 
 Mus. As. 8oc. p. 166 (1849),-Bp. Consp. i. p. 298 (I860),-Borsf. 
 8f Moore, Cat. B. Mus. JSJ. Co. i. p. 281 (1854) ; Gould, B. Asia. 
 pt. xiv. (1862) • Jerd. B. Ind. ii. p. 119 (1808); Gray, Cat Mamm. 
 Sfc. Nepal Coll. Bodgs. p. 35 (1863) • id. Band-i B. I p. 224. no. 
 3204 (1869) ; Sunnh. P. Z. S. 1871, p. 360; JPrjev. Rowley's Orn. 
 Misc. ii. p. 182 (1877); David et Oust. Ois. Chine, p. 176 (1877). 
-Grandala schistacea, Bodgs. J. A. 8. Beng. xii. letterpress on plate to 
+Grandala schistacea, Bodgs. J. A. S. Beng. xii. letterpress on plate to 
 illustrate page 447 (1843); Borsf. fy Moore, Cat. B. Mus. BI 
 Co. i. p. 281 (1854). 
 
@@ -23381,7 +23381,7 @@ Sialia occidentalis, Totomend, Journ. Phil. Acad. Nat. 8c. yii. p. 183
 Sialia mexicana, Swains, apud Bp. Gomp. List B. JEur. Sf Y. Amer. 
 
 p. 16 (1838); apud Gray, Gen. B. i. p. 184 (1846, partim) ; apud 
-Bp. Comp. i. p. 298 (1850, partim) ; apud Sclater, P. Z. 8. 1857, 
+Bp. Comp. i. p. 298 (1850, partim) ; apud Sclater, P. Z. S. 1857, 
 p. 126 j apud Baird, Cass. $ Lawr. B. N. Amer. p. 223 (1858, 
 partim) ; apud Scl. Cat. Amer. B. p. 11 (1862, partim); apud 
 Baird, Remeio, p. 63 (1864) ; apud Gray, Hand-l. B. i. p. 230. 
@@ -24418,7 +24418,7 @@ Sylvia (Phoenieura) reevesii, Gray, Zool Misc. 1831, p. 1.
 Phoenieura reevesii {Gray), McClelland\ P. Z. S. 1839, p. 161. 
 Phoenieura leucoptera, Blyth, J. A. S. Beng. xii. p. 902 (1843). 
 Ruticilla leucoptera (Blyth), Gray, Gen. B. i. p. 180 (1840); Blytli, 
-J. A. 8. Beng. xvi. p. 134 (1847); id. Cat. B. Mm. As. Soc. p. 108 
+J. A. S. Beng. xvi. p. 134 (1847); id. Cat. B. Mm. As. Soc. p. 108 
 (1849) ; JBp. Consp. i. p. 290 (1850); Moore, P. Z. S. 1854, p. 28; 
 Gray, Hand-l. B. i. p. 221. no. 3100 (1809). 
 Ruticilla aurorea (Gmel), Gray, Gen. B. i. p. 180 (1840); Bp. 
@@ -24515,7 +24515,7 @@ Ruticilla aurorea (Gmel), apud Bonap. Cat Metod. Ucc. Eur. p. 39
 LiL-ciola erytlirogastra (Giild.), ScM. Rev. Crit. p. xxxi (1844); 
 
 Fritsch, tog. Eur. p. 180 (1870). 
-Ruticilla graadis, Gould, P. Z. 8. 1849, p. 112. 
+Ruticilla graadis, Gould, P. Z. S. 1849, p. 112. 
 Ruticilla erytlirogastra (Giihl), Bhjth, Cat. B. Mits. As. 8oe. p. 108 
 
 (1849); Bp. Consp. i. p. 290 (1850); Gould, B. Asia, i. pi. 49 
@@ -24538,7 +24538,7 @@ Ohamfehous erytlirogastra (Giild.), Bp. Compt, Mend, xxxyiii. p. 8
 Sylvia (Ruticilla) erytlirogastra (Giild.), Badde, Beis. 8ibir. Vog. 
 
 p. 257 (1863). 
-Ruticilla (Aclelura) erytlirogastra (GUM.), Blanford, J. A. 8. Beng. 
+Ruticilla (Aclelura) erytlirogastra (GUM.), Blanford, J. A. S. Beng. 
 xli. pt 2, p. 51 (1872). 
 In the adidt male in full autumn plumage the forehead, crown, 
 and nape are pale grey, any disturbance of the feathers showing 
@@ -24614,7 +24614,7 @@ Sylvia (Ruticilla) erythronota (Eversm.), Middend. Beis. Sibi?\ Zool.
 
 ii. pt. % p. 175 (1853). 
 Ruticilla 
-rufogularis, Moore, P. Z. 8. 1854, p. 27, pi. lix.; Horsf. 
+rufogularis, Moore, P. Z. S. 1854, p. 27, pi. lix.; Horsf. 
 8f Moore, Cat. B. Mus. EI. Co. i. p. 306 (1854) ; Gray, Hand-l 
 
 B. i. p. 221. no. 8160 (1860) ; Hume*, Ibis, 1870, p. 530. 
@@ -24715,7 +24715,7 @@ p. 68 (1840) • Bhjth, J. A. S. Beng. xvi. p. 134 (1847)- Gray, Gen.
 B. i. p. 180 (1848); Bhjth, Cat. B. Mm. As. Soc. p. 108 (1849)• 
 Bp. Consp. i. p. 206 (1850); Horsf. § Moore, Cat B. Mm. E.I. Co. 
 i. p. 308 (1854) ; Jerd. B. Ind. ii/p. 141 (1863), Gray, Hand-IB. 
-I. p. 221. no. 31G2 (1809) ; Godtv.-Aust. J. A. 8. Beng. xxxix. pt. 2, 
+I. p. 221. no. 31G2 (1809) ; Godtv.-Aust. J. A. S. Beng. xxxix. pt. 2, 
 p. 270 (1870); Swinh. P. Z. S. 1871, p. 358• Hume § Benders. 
 Lahore to Tarh. p. 211 (1873); Prjev. Roicleifs Orn. Misc. ii. 
 p. 174 (1877) • David et Oust. Ois. Chine, p. 108 (lb77). 
@@ -25839,12 +25839,12 @@ parts of Persia and Baluchistan, and the white-headed form alone
 in Turkestan. 
 
 8. Saxicola picata, 
-Saxicola picata. Blyth, J. A. 8. Bene/, xvi. p. 131 (1847); id. Cat B. 
+Saxicola picata. Blyth, J. A. S. Bene/, xvi. p. 131 (1847); id. Cat B. 
 Mm. As. 8ue. p. 187 (1840); Bp. Consp. i. p. 304 (1850); Ilorsf. 
 & Moore, Cat. B. Mas. EL Co. i. p. 287 (1854); Jerd. B. Incl li. 
 
 p. 131 (1803); Gray, Hand-l B. i. p. 226. no. 3251 (1869); Blanf 
-4* Dresser, P. Z. 8. 1874, p. 227; Blanf. East. Persia, ii. p, 153 
+4* Dresser, P. Z. S. 1874, p. 227; Blanf. East. Persia, ii. p, 153 
 (1876). 
 
 Dromokea picata {Blyth), Gould, B. Asia, pt. xvn. (1865), 
@@ -25915,7 +25915,7 @@ Sis-i-jum,S.W.ofKamian, TV. T. Blaiiford, Esq. C.].
 
 S. Persia, 0500 feet. 
 4. Saxicola capistrata. 
-Saxicola leucomela (Tall.), apitd BlytJi, J. A. 8. Beng. xvi. p. 131 
+Saxicola leucomela (Tall.), apitd BlytJi, J. A. S. Beng. xvi. p. 131 
 (1847); apud Blyth, Cat. B. Mm. As. Sor. p. 107* (1849): apud 
 Jerd. B. Ind. ii. p. 131 (180*3) ; apud Dresser, Ibis 1875, p. 33f>. 
 
@@ -25923,7 +25923,7 @@ Saxicola capistrata, Gould, B. Asia, pt. xvii. (18153): Gray, Ilaad-L
 
 B. i. p. 224. no. 3200 (1800). 
 Saxicola lugens, Lickt. apud Severtz. Turkest. Jevotn. p. Go (1873). 
-Saxicola morio, Hempr. et Ehr. apud Blanf. § Dresser, P. Z. 8.1874, 
+Saxicola morio, Hempr. et Ehr. apud Blanf. § Dresser, P. Z. S.1874, 
 p. 225 (partim) ; apud Dresser, B. Eur. pt. xxvii. {1874, parfim) ; 
 apud Severtz. Strug Feath. iii. p. 420 (1875). 
 Adult male in breeding-plumage. Head and nape greyish white, 
@@ -26536,7 +26536,7 @@ p. 225. no. &2;3o (1800) ; Gurney, Anders*. B. Dam. Ld. p. 110
 (1872, birds ofthe year). 
 Saxicola albipileata (Bocaye), Gray, Iland-l B. i. p. 22(3. no. 3208 
 (I860, mate). 
-Saxicola diluta, Btanf. # Dresser, P. Z. 8. 1874, p. 234, pi. xxxix. 
+Saxicola diluta, Btanf. # Dresser, P. Z. S. 1874, p. 234, pi. xxxix. 
 fig. 1 ; Sharpe, ed/Bayard's B. 8. Afr. p. 248 (IS7 7, female). 
 Saxicola 
 ander&soni, Sharpe, ed. Bayard's B. 8. Afr. p. 249 (1877, 
@@ -26887,7 +26887,7 @@ Saxicola moesta, LieJit. Ferz. JDoubL p. 33 (1823); Bp. Comp. i.
 
 p. 304 (1830); Gray, Hand-l B. i. p. 225. no. 3228 (18<>0); 
 Hmtjl Orn. KO.-Afr. i. p. 3-55 (1869); Dresser, B. Bur. pt. xxx. 
-(1874); Blanf. $ Dresser, P. Z. 8. 1874, p. 223. 
+(1874); Blanf. $ Dresser, P. Z. S. 1874, p. 223. 
 Saxicola philotliamna, 
 Tristram, Ibis, 18vl), pp. 58, 209f pi. ix.; 
 Tristram, Ibis, 1807, p. 03 j Tleuql. Orn. J\r.O.-Afr. i. p. :m {180>>); 
@@ -27324,7 +27324,7 @@ Saxicola finsckii, JBJeuyL Orn. KO.~Afi\ i. p. 350 (1809).
 Saxicola xantkoinelsena, HJempr. et JEhr, apud Shelley, B. Egypt, p. 74 
 (1872). 
 
-Saxicola erythrsea, JHe?npr. et JEhr. apud Blanf Sf Dresser, P. Z. 8. 
+Saxicola erythrsea, JHe?npr. et JEhr. apud Blanf Sf Dresser, P. Z. S. 
 
 1874, p. 222 j apud JDresser, B. Ew\ pt. xxv. (1874); apud Blanf. 
 
@@ -27860,7 +27860,7 @@ Piirelia^fl.
 o. (S ad.sk. Tangiers. M. Fa\iiT ~J1-'^ 
 27. Saxicola vittata. 
 Saxicola vittata, llempr. et 12fir. St/mb. Pfii/s.f Aws, fol. <*o tl* !.'»*; 
-Blanf. 8? Dresser, P. Z. 8. 1874, p. 220• Dnmetf IM% ltt75, 
+Blanf. 8? Dresser, P. Z. S. 1874, p. 220• Dnmetf IM% ltt75, 
 
 p. 386. 
 Saxicola leucokenia, Atitin. et Salvad. Atti 1L Are, Sii. Tor. \iii. 
@@ -28266,7 +28266,7 @@ Co. p. 287 (1854, #).
 Saxicola botta3, Bonap. Compt. Rend. xxxviii. p. 7 (1854, <$ ) ; Gray, 
 llandA. B. i. p. 226. no. 3241 (1809, tf); Heugl. Orn. X.O.-Afr. 
 
-i. p. 353 (18C9, S)\ Blanf. # Dresser, P. Z. 8. 1874, p. 230, 
+i. p. 353 (18C9, S)\ Blanf. # Dresser, P. Z. S. 1874, p. 230, 
 pi. xxxvi. lig. 1 (c?). 
 Saxicolaferruginea, Heugl Si/st. Uelters. p. 2G(1856, <$). 
 Saxicola intermedia; Heugl. Sijsf. Vebers. p. 20 (18o6, $ , descr. 

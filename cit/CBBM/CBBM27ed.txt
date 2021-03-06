@@ -1162,7 +1162,7 @@ Chauna chavaria, part., Illig. Pi*odr. M. et A. p. 254 (1811); Cut:
 Z. CIIUTNA. 
 Regn. An. i. p. 409 (part.) (1817) ; Steph. Gen. Zool. xii. 1, p. 272 
 (part.) (1824); Cuv. Regn. An. 2nd eel. i. p. 530 (part.) (1829) ; 
-Sclat. P. Z. 8. 1863, p. 377 (New Grenada); Ernst, Rev. Cient. 
+Sclat. P. Z. S. 1863, p. 377 (New Grenada); Ernst, Rev. Cient. 
 Univ. Centr. Venez. i. p. 43 (1887) (Venezuela). 
 
 Opistholophus cha\aria, Vieill. Analyse, p. 60 (1816). 
@@ -1175,7 +1175,7 @@ Chauna derbiana, G. R. Gr. Gen. B. in. p. 591, n. 2, pi. 160 (1846) ;
 
 Salv.fySclat. Ibis, I860, p. 402 (Peteu I); Sc/at P. Z. & 1863, 
 
-p. 377, 1864, p. 75, 1865, p. 676; Moore, P. Z. 8. I860, pp. 308, 
+p. 377, 1864, p. 75, 1865, p. 676; Moore, P. Z. S. I860, pp. 308, 
 369; Sclat. ibid. pp. 369, 370, p. 417 (Trinidad); id. P. Z. S. 
 1871, p. 102 (Santa Martha); Sundev.Meth. nat. Av. disp. Tent. 
 p. 133 (1872); Sclat, £ 8ah. NomeneL Av. Ncot>op. p. 128 (1873) 
@@ -1191,10 +1191,10 @@ Palamedea derbvana, S'ckleg. Be Birrent. p. 266 (1864) ; id. Mus.
 
 P.-B., Ralli, p. 72 (1865) (Bogota); Gieb. Thes. Orn. Hi. p. 12 
 (1877). 
-Chauna nigricollis, 8<lat. P. Z. 8.1864, p. 75; pi. xi. (New Granada), 
+Chauna nigricollis, 8<lat. P. Z. S.1864, p. 75; pi. xi. (New Granada), 
 1865, p. 676, 1866, jt 369 (= derbyana). 
 ? Palamedea cornuta, Zeot. Ois. de Visle de Trinid. p. 488 (1866) 
-(=C. derbyana, of. P. Z. 8. 1866, p. 417). 
+(=C. derbyana, of. P. Z. S. 1866, p. 417). 
 
 ANATOMY: see Parker, P. Z. S. 1863, pp. 511,518; id. Ann. & Mag. 
 
@@ -1608,7 +1608,7 @@ Layard, Ann. # Mag. N. H. xiv. p. 208 (Ceylon) (1854); Bolle,
 X f. O. 1855, p. 314 (Spain); Bp. Consp/Gen. Av. ii. p. 145 
 (1855); id. Compt. Rend. xl. p. 724, n. 142 (1855), xliii. p. 992 
 (1856); Heugl. Sijst. Uebers. no. 075 (1856) ; Loche, Cat. M. et O. 
-AlgSr. p. 103 (1858); Adams, P. Z. 8. 1858, p. 50 (Punjab); 
+AlgSr. p. 103 (1858); Adams, P. Z. S. 1858, p. 50 (Punjab); 
 Homey. J.f.O. 1802, p. 424 (Balearic Isl.); Radde, Reis. S.O.-
 Sibir. ii. p. 347 (Lake Baikal) (1863); Wright, Ibis, 1864, p. 149 
 (Malta); Jerd. B. of hid. iii. p. 775, n. 944 (part.) (1864) ; 
@@ -1623,7 +1623,7 @@ p. 492 (Malta) ; Severtz. Turkest Jevotn. p. 70 (1870) ; Milne-
 Bdw. Rech. Ois. Boss. ii. p. 36 (1869-71) ; Homey. J.f.O. 1870, 
 p. 429 (Lake Baikal); Saund. Ibis, 1871, p. 394 (Spain, breeding); 
 Salvad. Faun, d'ltal, Ucc. p. 248 (1872); Hume, Str. Feaih. i. 
-p. 257 (1873) (Sindh); Blwes, P. Z. 8.1873, p. 049 (Mongolia ?) ; 
+p. 257 (1873) (Sindh); Blwes, P. Z. S.1873, p. 049 (Mongolia ?) ; 
 Brooks, Ibis, 1873, p. 341 (Sardinia); Wright, Ibis, 1874, p. 238 
 (Malta); Legge, Ibis, 1875, p. 407 (Ceyion) ; Severtz. J.f.O. 
 1875, p. 184; Bress. Ibis, 1876, p. 422 (Turkestan) ; Butler, Sir. 
@@ -1691,7 +1691,7 @@ Tristr. Ibis, 1868, p. 327 (Palestine); Sound. P. Z. S. 1869, p. 432
 Tacz. J.f O. 1870, p. 53 (Constantine); Droste, Ber. xviii. Vers. 
 Orn. Ges. 1870, p. 80; Gum. Ibis, 1871, p. 297 (Algeria); Shell, 
 ibid. p. 314 (Egypt) j G. R. Gr. Hand-list, iii. p. 72, n. 10544 
-(1871); Dohrn, J.f O. 1871, p. 9 (Cape Verd); Holdsw. P. Z. 8. 
+(1871); Dohrn, J.f O. 1871, p. 9 (Cape Verd); Holdsw. P. Z. S. 
 1872, p. 479 (Ceylon); Shell B. of Egypt, p. 272 (1872); Thien. 
 
 PHCBNTCOPTERIDJS. 
@@ -1959,13 +1959,13 @@ Sclat P.Z.8. 1867, p. 334 (Chili); Mat. $ Salv. P. Z. S. 1868,
 p. 145 (Conchitas); iid. Ibis, 1868, p. 139 (Gregory Bay); Phil. §• 
 Landb. Cat Av. CHI p. 279, u. 169 (1868); G. R. Gr. Ibis, 1869, 
 p. 442, pi. xiv. f. 4 (head); fPelz. Orn. Bras. p. 559 (1871) (Brazil!); 
-Sclat P. Z. 8. 1871, p. 627 (Zool. Gard.); G. P. Gr. Hand-list, 
-iii. p. 72, n. 10547 (1871); Burm. P. Z. 8. 1872, p. 364; Sclat 
-P. Z. 8.1872, p. 549 (Rio Negro); Sclat $> Salv. Nomencl. Av. 
+Sclat P. Z. S. 1871, p. 627 (Zool. Gard.); G. P. Gr. Hand-list, 
+iii. p. 72, n. 10547 (1871); Burm. P. Z. S. 1872, p. 364; Sclat 
+P. Z. S.1872, p. 549 (Rio Negro); Sclat $> Salv. Nomencl. Av. 
 Neotrop. p. 107, n. 2 (1873); Tacz. P.Z.8. 1874, p. 562 (Junin, 
-C. Peru); Sclat P. Z. 8. 1876, p. 333 (Upper Amazons, Zool. 
+C. Peru); Sclat P. Z. S. 1876, p. 333 (Upper Amazons, Zool. 
 Gard.); Gieb. Thes. Orn. iii. p. 108 (1877); Durnford, Ibis, 1877, 
-p. 41 (Chuput, Patagonia); Tacz. P. Z. 8.1877, p. 330 (Tumbez); 
+p. 41 (Chuput, Patagonia); Tacz. P. Z. S.1877, p. 330 (Tumbez); 
 Bumf. Ibis, 1878, p. 400 (Centr. Patag.); Gibson, Ibis, 1880, 
 p. 156 (Cape San Antonio, Buenos Ayres); Salv. Cat. B. Strickl. 
 Coll. p. 527 (1882); Sclat. List Vert An. 8th ed. p. 413 (1883); 
@@ -2267,7 +2267,7 @@ G. P. Gr. (nee Phil.) Ibis, 1869, pp. 441, 443, pi. xv. ff. 9, W
 (part.); Gieb. Thes. Orn. iii. p. 108 (part.) (1877) ; ? Tacz. (nee 
 Phil.) Orn, Per. iii. p. 423 (Bollaert's specim.) (Parinacocha, 
 Peruvian Andes) (1886). 
-Phcenicopterus jamesi, Rahmer, in litt.; Sclat. P. Z. 8. 1886, 
+Phcenicopterus jamesi, Rahmer, in litt.; Sclat. P. Z. S. 1886, 
 
 p. 399, pi. xxxvi. and cut of head, f. 3 on p. 400 (Tarapaca;; 
 Maimer, J.f O. 1887, p. 160f, tab. ii. f. 1 (head); Cab. J.f O. 
@@ -2481,7 +2481,7 @@ OYGNUS DAVIDI.
 
 Oygnus (Coscoroba) davidi, Swinh. P. Z. S. 1870, p. 430 (Tientsin). 
 
-Oygnus davidi, Swinh. P. Z. S. 1871, p. 416; Mwes, P. Z. 8. 1873, p. 651; 
+Oygnus davidi, Swinh. P. Z. S. 1871, p. 416; Mwes, P. Z. S. 1873, p. 651; 
 David § Oust Ois. Chine, p. 494 (1877); Selat. P. Z. S. 1880, p. 507. 
 Oygnus (Koscoroba) davidi, t)avid, N Arch. Mus. Bull. vii. Cat n. 438 
 
@@ -2836,7 +2836,7 @@ n. 358; Dress. Bis, 1876, p. 416; Hume, 8tr. Feath. vii. p. 105
 Holor minor, Olphe-GalL Contr, Faun. Orn. Fur. Occ. fasc. v, 
 
 p. 15 (1885). 
-Cygnus davidi, Gigl. § Salvad. [nee Swink) P. Z. 8.1887, p. 589, 
+Cygnus davidi, Gigl. § Salvad. [nee Swink) P. Z. S.1887, p. 589, 
 pi. Hi. f. 1 (Possiette Bay) ; iid. Mem. B. Ac. 8c. Tor. (2) xxxix. 
 
 p. 117 (1888). 
@@ -3406,7 +3406,7 @@ Bras. p. 459 (1870); Sclat.fy Sah. Ibis, 1870, p. 504 (eggs, Elizabeth
 Island); JB. Zool. Gen. Amst. 1871, pp. 196-198; G. B. 
 Gr. Band-list, iii. p. 78, n. 10599 (1871); Gieb. Thes. Orn. i. 
 p. 856 (1872); Burm. P. Z. S. 1872, p. 365 (Parana); GarrodT 
-P. Z. 8. 1873, pp. 467 (carotids), 639; Sclat. fy Salv. Nom. Av. 
+P. Z. S. 1873, pp. 467 (carotids), 639; Sclat. fy Salv. Nom. Av. 
 Neotrop. p. 129, n. 1 (1873) ; Garr. P. Z. S. 1875, p. 348; Gulliv. 
 ibid. p. 488; Bumf. Ibis, 1876, p. 163; Sclat. $ Salv. P. Z. S. 
 1876, p. 370; Bumf. Ibis, 1877, pp. 41 (Chuput), 191 (Buenos 
@@ -3535,7 +3535,7 @@ Chenopis atrata, Wagl. Isis, 1832, p. 1234; Bp. Compt. Rend, xliii.
 p. 648, n. 7 (1856); Gould, Jiandb. B. Austr. ii. p. 346 (1865); 
 Rams, Lbis, 1866, p. 335 (Port Denison); Button, Ibis, 1870, 
 p. 397 (Auckland, introduced); G. R. Gr. Hand-list, iii. p. 78, 
-n. 10605 (1871); Rams. P. Z. 8.1877, p. 345; Stejn. Pr. U.S. Nat. 
+n. 10605 (1871); Rams. P. Z. S.1877, p. 345; Stejn. Pr. U.S. Nat. 
 Mus. v. p. 219 (1882). 
 Chenopsis atrata, Rchnb. Av. Syst. Nat. p. x (1852). 
 Cygnus plutonius, Bad. Die JEier eur. Vog. Taf. 31. t 2 (1863); 
@@ -3547,7 +3547,7 @@ Chenopsis atratus, Sund. Meth. not. Av. disp. Tent. p. 146 (1872).
 
 Hybrids. 
 
-Black Swan J X White Swan $, Glencon, P. Z. 8. 1847, p. 97. 
+Black Swan J X White Swan $, Glencon, P. Z. S. 1847, p. 97. 
 
 Cygnus atratusxO. olor, Leverk. J.f. 0. 1890, p. 217. 
 
@@ -3746,16 +3746,16 @@ pi. 2 (pt. xxxiL, 1848); Rehnb. Av. Syst. Nat. p.ix, tab.x. (1852);
 
 Bp. Coonpt. Bend, xliii. p. 649, n. 42 (185G); Hep. of Council Z. 8. 
 1856, p. 13 (Zool. Gard.) ; Zuchold, J.f 0. 1858, p. 41 (Turner's 
-Creek); Bennett, P. Z. 8.1861, p. 266; Sclat. P. Z. 8.1862, p. 185 
+Creek); Bennett, P. Z. S.1861, p. 266; Sclat. P. Z. S.1862, p. 185 
 (Zool. Gard.); Gould, Handb. B. Austr. ii. p. 352 (1865); Schleg 
-Mus. P.-B., Anseres, p. 92 (1866); Mull P. Z. 8. 1869, p. 280; 
+Mus. P.-B., Anseres, p. 92 (1866); Mull P. Z. S. 1869, p. 280; 
 
 G. R. Gr. JETand-l. iii. p. 73, n. 10552 (1871); Gieb. Thes.Om. i, 
-p. 374 (1872); Bams. P. Z. 8. 1875, p. 590; id. Pr. Linn. 8oc, 
+p. 374 (1872); Bams. P. Z. S. 1875, p. 590; id. Pr. Linn. 8oc, 
 N. 8. W. i. pp. 194, 217 (Clarence River), 219, 220 (1876); id, 
-P. Z. 8.1877, p. 345 (Queensland); Diggl B. Austr. ii. p. 109 (1877); 
+P. Z. S.1877, p. 345 (Queensland); Diggl B. Austr. ii. p. 109 (1877); 
 Bams. Pr. Linn. 8oc. N. 8. W. ii. p. 200, n. 648 (1878); Sclat. 
-P. Z. 8.1880, pp. 497, 535; Forbes, P. Z 8. 1882, p. 350 (trachea): 
+P. Z. S.1880, pp. 497, 535; Forbes, P. Z 8. 1882, p. 350 (trachea): 
 Sclat. List Vert. An. 8th ed. p. 415, n. 940 (1883); Bams. Tab, 
 List, p. 22, n. 659 (1888); Petterd, Pr. B. Soc. Tasm. 1888. 
 pp. 91, 92 (Tasmania); Tristr. Cat. Coll. B. p. 52 (1889). 
@@ -3958,7 +3958,7 @@ p. 229, pi. 5Q (1793); Vieill. N. B. xxiii. p. 328, pi. M 2. f. 1
 (1818)5 Bum. Bid. So. Nat xxxv. p. 464 (1825); Benn. Zool. 
 Gard. Menag. ii. p. 207 with fig. (1831) ; Less. Compl. de Buff.7 
 Ois. ix. p. 526 (1837); id. op. cit. 2nd ed. p. 717 (1838); K. <§* B. 
-Wirbelth. Bur. pp. lxxxiv, 225 (1840); Tarr. P. Z. 8. 1841, 
+Wirbelth. Bur. pp. lxxxiv, 225 (1840); Tarr. P. Z. S. 1841, 
 p. 71 (trachea); Schleg. Rev. Grit. p. 106 (Europe?) (1844). 
 Anas gambensis, Linn. 8. N. i. p. 195, n. 3 (1766): Gm. 8. N. L 2, 
 p. 503, n. 3 (1788): Lath. Ind. Orn. ii. p. 839, n. 19 (1790) ; Cuv. 
@@ -3978,12 +3978,12 @@ Natatores, t. 105. f. 246 (1845); id. Av. 8yst. Nat. p. ix (part.)
 
 J.f. 0.1854, p. 302 (part.); Bp. Compt. Rend, xliii. p. 649, n. 40 
 (part.) (1856); Hartl. 8yst. Orn. Westafr. p. 246, n. 697 (part.) 
-(1857); Sclat. P. Z. 8. 1859, pp. 131, 132, pi. 153. f. 2, I860, 
+(1857); Sclat. P. Z. S. 1859, pp. 131, 132, pi. 153. f. 2, I860, 
 pp. 38, 39 (skull), 40, 41 (trachea); Hartl. J.f 0.1861, p. 272 
 (Bissao); Sclat. P. Z. S. 1864, p. 114 (Unyamuezi); Kirh, Ibis, 
 1864, p. 334 (Zambesi); Schleg. Mus. P.-B., Anseres, p. 93 (part.) 
 (1866); Boc. Jom. Ac. Se. Lisb. 1867, p. 148; Newt Ibis, 1867, 
-p. 375; Sclat. P. Z. 8. 1868, p. 261 (ShirS River, E. Africa) ; 
+p. 375; Sclat. P. Z. S. 1868, p. 261 (ShirS River, E. Africa) ; 
 Sperling, Ibis, 1868, p. 292 (Shire* River); Sclat. ibid. p. 502 
 (Shire* River); Byt Syn. Anat. p. 24 (1869); Finsch $ Hartl. 
 Vog. Ost-Afr. p. 802 (1870); Boc. Jom. Ac. 8c. Lisb. 1871, p. 277G. 
@@ -4469,7 +4469,7 @@ Bum. Diet. 8c. Nat xxxv. p. 465 (1825); fykes, P. Z. 8 1831,
 p. 125. 
 Plectropterus 
 melanotos, Steph. Gen. Zool. xii. 2, p. 8 (1824); 
-Sykes, P. Z. 8. 1832, p. 167, n. 213 (Dukhun): Jerd. Madr. Journ, 
+Sykes, P. Z. S. 1832, p. 167, n. 213 (Dukhun): Jerd. Madr. Journ, 
 
 xii. p. 219, n. 379 (1840). 
 Anas melanotus, part., Less. Tr. d'Orn. p. 628 (Bengala) (1831). 
@@ -4493,14 +4493,14 @@ SarMdiornis
 melanonotus, Layard, Ann. $• Mag. N. H. xiv. p. 268 
 (1854) ; Jerd. B. of Ind. iii, p. 785 (1864); G. JR. Gr. Hand-list, 
 
-iii. p. 73, n. 10555 (part.) (1871) ; Holdsw. P. Z. 8. 1872, p. 479 
+iii. p. 73, n. 10555 (part.) (1871) ; Holdsw. P. Z. S. 1872, p. 479 
 (Ceylon) ; Lloyd, Ibis, 1873, p. 419 (Kattiawar); Anders. Ibis, 
 1874, p. 220 ; Hume, Nests and Eggs, p. 636 (1875); Legge, Ibis, 
 1875, p. 407 (Ceylon); Hume, 8tr. Feath. iv. p. 192 (1875); ButL 
 8r Hume, Str. Feath. iv. p. 27 (1876); Hume <$• Bavis. Str. Feath. 
 v. p. 486 (1878); Hume, 8tr. Feath. vii. p. 507 (1879). 
 Sarcidiornis melanota, Bp. Compt Rend, xliii. p. 649, n. 38 (1856); 
-Garrod, P. Z. 8. 1875, p. 152, if. 1, 2 (trachea); 8elat P. Z. 8, 
+Garrod, P. Z. S. 1875, p. 152, if. 1, 2 (trachea); 8elat P. Z. 8, 
 1880, p. 534. 
 
 Anas melanota, part., 8chleg. Mus. P.-P., Anseres, p. 74 (India, 
@@ -4568,7 +4568,7 @@ PalcBoz. i p. 159 (Madagascar) (1848).
 Sarcidiornis 
 africana, StricM. Ann. ty Mag. N. II. 1852, p. 349; 
 Hartl J.f.O. 1854, p. 303; Bp. Compt Rend. Ixiii. p. 649, n. 37 
-(1856); Sclat. P. Z. 8.1860, p. 42; Sclat $ Spehe, P. Z. S. 1864, 
+(1856); Sclat. P. Z. S.1860, p. 42; Sclat $ Spehe, P. Z. S. 1864, 
 
 p. 114 (Unyamuezi); Blyth, Ibis, 1867, p. 175 ; Sharpe, P. Z. S. 
 1870, p. 401 (Madagascar); Bocage, Jorn. Ac. Sc. Lisb. 1877, 
@@ -4840,15 +4840,15 @@ Sarcidiornis regia,
 Bp. Compt. Rend. xliii. p. 649, n. 39 (1856)• 
 Burm. J.f.O. 1860, p. 266 (Tucuman); id. La-Plata Reise, ii. 
 
-p. 513 (1861); 8clat. P. Z. 8. 1867, p. 339; Philippi, P. Z. 8. 
-1868, p. 532 (not Chilian)• Burm. P. Z. 8.1872, p. 365 (Tucuman) 
+p. 513 (1861); 8clat. P. Z. S. 1867, p. 339; Philippi, P. Z. S. 
+1868, p. 532 (not Chilian)• Burm. P. Z. S.1872, p. 365 (Tucuman) 
 ; Bodinus, J.f. 0.1878, p. 366 (Zool. Gard.), 1882, p. 21. 
 Anser melanotus, Burm. (nee Penn.) 8yst. Ueb. iii. p. 434 (1856). 
 Sarcidiornis melanonota, 8elat.fy8alv. Nomenel. Av. Neotrop. p. 129 
 (Paraguay, Guiana) (1873). 
 
-Sarcidiornis carunculata, 8clat. $* 8ah. P. Z. 8.1876, p. 377; 8clat. 
-ibid. p. 695, pi. lxviii. (Maranham); 8clat. P. Z. 8. 1880, p. 511; 
+Sarcidiornis carunculata, 8clat. $* 8ah. P. Z. S.1876, p. 377; 8clat. 
+ibid. p. 695, pi. lxviii. (Maranham); 8clat. P. Z. S. 1880, p. 511; 
 Forbes, Jbis, 1881, p. 355; Behmo. Orn. Centralbl 1882, p. 35; 
 id. Tog. d. Zool Gart. p. 61 (1882); 8elat. List Vert. An. 8th 
 ed. p. 427 (1883); Berl. J.f.O. 1887, p. 124; 8clat. Argent. Orn. 
@@ -5260,9 +5260,9 @@ Zool. u. Zoot. 1848, p. 159; id. AWL § Mag. N. H. ii. p. 393
 (1848); Hartl. J.f.O. 1860, p. 173; id. Orn. Beitr. Faun. Madag. 
 p. 82 (1861) ; Polk N. T. D. i. p. 327 (1863); Booh <$• B. Neivt. 
 Ibis, 1863, p. 174 (Madagascar); B. Newt. ibid. p. 459 (trachea); 
-Sclat. P. Z. 8. 1863, p. 165 ; Kirk, Ibis, 1864, p. 336 (Zambesi); 
+Sclat. P. Z. S. 1863, p. 165 ; Kirk, Ibis, 1864, p. 336 (Zambesi); 
 Vinson, Voy. Madag. p. 85 (1865); Verr. ibid., Ann. B, p. 4 (1865); 
-Schleg. Mus. P.-B., Anseres, p. 75 (1866); id. P. Z. 8.1866, p. 426; 
+Schleg. Mus. P.-B., Anseres, p. 75 (1866); id. P. Z. S.1866, p. 426; 
 Schleg. 8f Poll. Bech. Faun. Madag. p. 141 (1868); Grand. Bev. et 
 Mag. de Zool. 1868, p. 5; Cab. in v. d. Beck. Beis. iii. p. 51 (1869) 
 
@@ -5270,7 +5270,7 @@ Mag. de Zool. 1868, p. 5; Cab. in v. d. Beck. Beis. iii. p. 51 (1869)
 Hand-list, iii. p* 77, n. 10593 (1871); Bocage, Jorn. Ac. Lisb. no. xii. 
 p. 278 (1871); Anderss. B. BamaraLand, p. 336 (1872); Bocage, 
 Jorn. Ac. Bisb. no. xvii. p. 45 (1874); Gieb. Thes. Orn. ii. p. 701 
-(1878); Bartl. P. Z. 8. 1875, p. 68 (Tamatave); Bocage, J.f O. 
+(1878); Bartl. P. Z. S. 1875, p. 68 (Tamatave); Bocage, J.f O. 
 1876, p. 294 (Huilla, Cunene); Hartl. Fog. Madag. p. 357 (1877); 
 Fisch. $ Bchnw. J.f.O. 1878, p. 248; Pitch, ibid. p. 296, 1879, 
 p. 285; Bocage, Orn. Any. p. 498 (1881) (Angola); 8harpe in 
@@ -5302,8 +5302,8 @@ Hartl Orn. Westafr. p. 247); Gum. in Anderss. B. Damara Land,
 p. 337 (note) (1872). 
 Nettopus madagascariensis, Sund. Meth. nat. Av. disp. Tent p. 146 
 (1872); Rchnw. Yog. d. Zool. GaH. p. 58 (1882). 
-Nettopus auritus, Sclat. P. Z. 8. 1880, p. 505. 
-Nettapus auratus (errore), Shelley, P. Z. 8.1881, p. 601 (Lamu). 
+Nettopus auritus, Sclat. P. Z. S. 1880, p. 505. 
+Nettapus auratus (errore), Shelley, P. Z. S.1881, p. 601 (Lamu). 
 Anserella aurita, Rchnw. Orn. Centralbl. 1882, p. 22. 
 
 Adult male. Forehead, sides of the head, and a collar round the 
@@ -5400,32 +5400,32 @@ Esq. [P.].
 Seebohm Coll. 
 2. Hettopus pulchellus. 
 
-Nettapus pulchellus, Gould, P. Z. 8. 1841, p. 89 (N. Australia) ; 
+Nettapus pulchellus, Gould, P. Z. S. 1841, p. 89 (N. Australia) ; 
 tU i?. -4iw«r. vii. pi. 4 (pt. vi., 1842); G. R. Gr. Gen, B. iii. p. 608, 
 
 n. 2 (1844); Rchnb. 8yn. Av. Natatores, t. 90. if. 938, 939 (1844) 
 (ex Gould); Blyth, Cat B. Mus. A. 8. B. p. .302, n. 1765 (1849); 
-Bp. Compt Henri xliii. p. G49, n. 62 (185(3); Elsey, P. Z. 8.1857, 
-p. 28; G. R. Gr. P. Z. 8.1858, p. 198; id. Cat. B.'Neiu Guin. p. 63 
+Bp. Compt Henri xliii. p. G49, n. 62 (185(3); Elsey, P. Z. S.1857, 
+p. 28; G. R. Gr. P. Z. S.1858, p. 198; id. Cat. B.'Neiu Guin. p. 63 
 (1859); Finsoh, Neu-Guin. p. 183 (1865); Gould, Handb. B. Austr. 
 ii. p. 357 (1865); 8c7ileg. Mus. P.-B., Anseres, p. 97 (1866) (Amboina); 
-Rams. P. Z. 8.1868, p. 388 (Queensland); But 8yn. Anat. 
+Rams. P. Z. S.1868, p. 388 (Queensland); But 8yn. Anat. 
 p. 37 (1809) ; Gieb. Thes. Orn. ii. p. 101 (1875); Rams.'Pr. Linn. 
 Sac. N. 8. W. i. pp. 194, 386 (1876); BAlb. 8ydn. Mail, 1877, 
 p. 248; id Ann. Mas. Civ. Gen. x. p. 20 (1877): id. Ibis, 1877, 
-p. 372; Rams. P. Z. 8. 1877, p. 346; id. Pr. Linn. 8oc. N. 8. W. 
+p. 372; Rams. P. Z. S. 1877, p. 346; id. Pr. Linn. 8oc. N. 8. W. 
 ii. p. 200, n. 650 (1877); Mast ibid. p. 276 ((1877); LA lb. $ 
 JSalvad. Ann. Mus. Civ. Gen. xiv. p. 133 (1879) (Katau and Fly 
 Rivers); D'Alb. Nuov. Gum. pp. 519, 588 (1880); Legge, B. of 
-CeyL p. 1067 (1880); Selat. P. Z. 8. 1883, pp. 52, 200 (Larat); 
-Finsch, Vog. d. Sildsee, p. 29 (1884); Forbes, P. Z. 8.1884, p. 434; 
+CeyL p. 1067 (1880); Selat. P. Z. S. 1883, pp. 52, 200 (Larat); 
+Finsch, Vog. d. Sildsee, p. 29 (1884); Forbes, P. Z. S.1884, p. 434; 
 Bins. Zeitschr. ges. Orn. 1886, pp. 202,209 (Celebes); Bams. Tab. 
 List, p. 22, n. 661 (1888)• Tristr. Cat Coll. B. p. 51 (1889) (Port 
 Moresby) ; Sdlvad. Agg. Orn. Pap. e Mol. p. 210 (1891). 
 Anserella pulchella, G. R. Gr. Hand-list, iii. p. 77, n. 10595 (1871) ; 
 
 Rchnw. Orn. Centralbl. 1882, p. 22. 
-Nettopus pulchellus, Sclat. P. Z. 8. 1880, p. 505 ; 8alvad. Ann. Mus. 
+Nettopus pulchellus, Sclat. P. Z. S. 1880, p. 505 ; 8alvad. Ann. Mus. 
 Civ. Gen. xviii. p. 400, n. 1 (1882); id. Orn. Pap. e Mol. iii. p, 384 
 (1882). 
 
@@ -5894,7 +5894,7 @@ t. 96. ff. 936-37 (1845?) (ex Gonld); Bp. Compt. Rend. xliii.
 p. 649, n. 61 (1856); Gould, Handb. B. Austr. ii. p. 359 (1865); 
 Schleg. Mus. P.-B. Anseres, p. 77 (1866) ; Blytli, Ibis, 1866, 
 p. 350 (note); Finsch, Verh. z.-b. Ges. Wien, 1872, p. 339; Pels. 
-Ibis, 1873, p. 122; Bams. P. Z. 8. 1877, p. 346; id. Pr. Linn. 
+Ibis, 1873, p. 122; Bams. P. Z. S. 1877, p. 346; id. Pr. Linn. 
 8oc. N. 8. TV. ii. p. 200, n. 651 (1878); 8alv. Cat. B. Strickl. Coll. 
 ^ p. 530, n. 2579 (1882); Bams. Tab. List, p. 22, n. 662 (1888). ^ 
 Kettapus bicolor, Less. JEcho du Monde Savant, 1844, p. 127 (New 
@@ -5903,7 +5903,7 @@ Anserella albipennis, G. B. Gr. Hand-list, iii. p. 77, n. 10596 (1871);
 
 Bchnw. Or?i. Centralbl 1882, p. 22. 
 Nettapus corornandelicus, part., Gieb. Thes. Orn. ii. p. 701 (1875). 
-Nettopus albipennis, Sclat, P. Z. 8. 1880, p. 505. 
+Nettopus albipennis, Sclat, P. Z. S. 1880, p. 505. 
 Nettapus coromandelianus albipennis, Hartert, Kat. Vogelsamml. 
 
 p. 228, ii. 3375 (1891). 
@@ -5966,7 +5966,7 @@ Bonn. Eno, Meth. i. p. 130, pi. 35. f. 1 (1790); Wils. Am. Orn.
 viii. p. 97, pi. 70. f. 3 (1814); Vieill. N. B. v. p. 106 (1816); 
 Bum. Bid. 8c. Nat. vi. p. 382 (1817); Licht. Vers. Boubl. p. 85 
 (1823); Sieph. Gen. Zool. xii. 2, p. 96 (1824); Bp. Obs. Wils. 
-n. 261 (1825); YarreU, P. Z. 8. 1830, p. 35 (Dorking); Benn. 
+n. 261 (1825); YarreU, P. Z. S. 1830, p. 35 (Dorking); Benn. 
 Gard. fy Menag. Zool. 8oc, Birds, p. 281, with figure (1831); 
 Less. Tr. d'Orn. p. 634 (1831); Nutt Man. ii. p. 394 (1834); 
 Aud. Orn. Biogr. iii. p. 52 (1835), v. p. 618 (1839); id. 8yn. 
@@ -6203,25 +6203,25 @@ Aix galericulata, Bote, Isis, 1828, p. 329, n. 1 ; /#r?VA;/. P. Z. &
 1842, p. 166; G. R. Gr. List B. Brit. Mus. iii. p. 133 (1844); 
 id. Gen. B. iii. p. 614, n. 2 (1845); Gould, B. of Asia, vii. pi. 09 
 (pt. iv., 1852); Licht. Nomencl. Av. p. 102 (1854); Bp. Compt. 
-Rend, xliii. p. 450, n. 122 (1856); Sclat. P. Z. 8. 1859, p. 200 
+Rend, xliii. p. 450, n. 122 (1856); Sclat. P. Z. S. 1859, p. 200 
 (incubation); Homey. J.f. 0. 1859, p. 372 (Zool. Gart.) ; Swinh. 
 
 P. Z. S. 186°), p. 324 (Central China); id. Ibis, 1860, p. 295 
 (Formosa!); Przew. Yoxj. n. 196 (1867); Whitely, Ibis, 1867, 
-p. 207 (Hakodadi); Eyt. Syn. Anat. p. 71 (1869): Sclat. P. Z. 8. 
+p. 207 (Hakodadi); Eyt. Syn. Anat. p. 71 (1869): Sclat. P. Z. S. 
 1809, p. 629 (breeding); G. R. Gr. Hand-list, iii.' p. 80, n. 10627 
 (1871); Sioinh. P. Z. S. 1871, p. 418; Pelz. Ibis, 1873, p. 123; 
-Garr. P. Z. 8. 1873, p. 467 (carotids), p. 639 (muscles); Sioinh. 
+Garr. P. Z. S. 1873, p. 467 (carotids), p. 639 (muscles); Sioinh. 
 Ibis, 1875, pp. 137, 457 (Hakodadi); Dyh. # Tacz. J. f. O. 1875, 
 p. 256 (Usfeuri); Tacz. J. f. O. 1870, p. 202; id. Bull. Soc. Zool. 
 Fr. ii. p. 45 (1877): David 8? Oust. Ois. Chine, p. 501 (1877); 
-Blah. Sf Pryer, Ibis, 1878, p. 213 (Japan); Sclat. P. Z. 8. 1880, 
+Blah. Sf Pryer, Ibis, 1878, p. 213 (Japan); Sclat. P. Z. S. 1880, 
 p. 513; Bolau, J.f.O. 1881, p. 63, 1882, p. 340; Blah. 8f Pryer, 
 Tr. As. Soc. Japan, x. p. 97 (1882); Jouy, Pr. U. S. Nat. Mm. 
 vi. p. 318 (1883); B., B., $ JR. Water-Birds N. Am. ii p. 9 
 (note) (1884); Ridgw. Man. N. Am. B. p. 99 (1887); Gigl <$• 
-Salvad. P. Z. 8. 1887, p. 591 (Olga Bav); Salvad. $ Gigl Mem. 
-R. Ac. 8c. Tor. (2) xxxix. pp. 118, 131 (1888); Tacz. P. Z. 8. 
+Salvad. P. Z. S. 1887, p. 591 (Olga Bav); Salvad. $ Gigl Mem. 
+R. Ac. 8c. Tor. (2) xxxix. pp. 118, 131 (1888); Tacz. P. Z. S. 
 1888, p. 460 (Corea); Dorries, J.f.O. 1888, p. 92 (E. Siberia); 
 Tristr. Cat. Coll. B. p. 50 (1889); Evans, Ibis, 1891, p. 73; 
 Sty an, Ibis, 1891, pp. 328, 496; Hartert, Kat. Vogelsamml.^. 229 
@@ -6402,7 +6402,7 @@ n. 36 (1856); Crisp, P. Z. S. 1857, p. 215; Sclat. P. Z. S. 1859,
 p. 206 (incubation); Schleg. Dierent. p. 279, with fig. (1864); 
 Gould, Handb. B. Austr. ii. p. 350 (1865) j Schleg. Mus. P.-B., 
 Anseres, p. 115 (1866) ; Byt. Suppl to Osteol. Av. pi. — 
-(1869^ ; id. Syn. Anat. p. 15 (1869) ; Mull P. Z. 8. 1869, 
+(1869^ ; id. Syn. Anat. p. 15 (1869) ; Mull P. Z. S. 1869, 
 p. 280; Sclat t c. p. 629 (breeding); Unit. Ibis, 1870, p. 397; 
 b. R. Gr. Sand-list, iii. p. 
 74, n. 2724 (1871) ; NatMs. 
@@ -6916,7 +6916,7 @@ Lye. N. Y. viii. p. 295 (1867); $ Brown, Ibis, 1868, p. 425
 (Vancouver I.); Ei/t. Syn. Anat. p. 40 (1869) ; Gieb. Thes. Orn. 
 i. 
 p. 371 (part.) (1872); Sound. P. Z. S. 1872, p. 520; Sclat 
-P. Z. 8. 1880, p. 501 (part.); Tristr. Cat. Coll. B. p. 51 (Hudson 
+P. Z. S. 1880, p. 501 (part.); Tristr. Cat. Coll. B. p. 51 (Hudson 
 Bay) (18891; Seebh. B. Jap. Emp. p. 238 (part.) (1891); ? Macfarl 
 Pr. U.S. Nat Mus. xiv. p. 423 (1891). 
 ? Tadorna nivea, part., Brehm, Isis, 1830, p. 996; id. Handh. Vdg. 
@@ -7329,25 +7329,25 @@ Zool. xii. 2, p. 25 (1824); Dum. Bid. 8c. Nat. xxxv. p. 461
 
 p. 628 (1881) ; Savi, Orn. Tosc. iii. p. 179 (1831) ; Menetr. Cat. 
 Rais. p. 56 (1832); Gould, B. Eur. pi. 289 (pt. xii., 1837); Bp. 
-Comp. List, p. 55, n. 397 (1838) ; BartL P. Z. 8. 1839, p. 3; 
-Nairn. Vdg. Deutschl xi. p. 351, Taf. 289 (1842) ; Strirkl. P. Z. 8. 
+Comp. List, p. 55, n. 397 (1838) ; BartL P. Z. S. 1839, p. 3; 
+Nairn. Vdg. Deutschl xi. p. 351, Taf. 289 (1842) ; Strirkl. P. Z. S. 
 1842, p. 167 (China); Schlep. Rev. Crit. p. ex (1844): Hartl. 
 8yst. Verz. Ges. Mus. p. 117 (1844) ; Ejcerb. Bamu. Fugle, pi. 45, 
 Suppl. pi. 24 (1852); Midd. Reis. O.-Sibir. ii. p. 227 (Taimuland) 
 (1853); Schley. Vog. Nederl pis. 280, 281, 282 (1854); Waliengr. 
 Naumannia, 1854, p. 268 (1854); Licht. Nomencl. Av. p. 100 
 (1854); Selys-L. Naumannia, 1855, p. 263; Bp. Compt. Rend. 
-xliii. p. 648, n. 18 (1856); Adams, P. Z. 8. 1858, p. 509 (Punjab); 
+xliii. p. 648, n. 18 (1856); Adams, P. Z. S. 1858, p. 509 (Punjab); 
 Taylor, Ibis, 1859, p. 54 (Egypt); A. Neict. P. Z.8. I860, p. 340; 
 Potvys, Ibis, I860, p. 351; Reinh. Ibis, 1861, p. 12 (Greenland) ; 
 F. $ P. Godman, Ibis, 1861, p. 90 (Bodo); Sivinh. Ibis, 1801, 
-p. 344 (N. China) ; id. P. Z. 8. 1863, p. 328; Radde, Reis. 8. 0.-
+p. 344 (N. China) ; id. P. Z. S. 1863, p. 328; Radde, Reis. 8. 0.-
 Sibir. ii. p. 858 (Irkutsk) (1863); Nordm. J. f. 0. 1864, p. 376 
 (Finland); Jerd. B. of hid. iii. p. 780 (Punjab) (1864); Deql. 
 # Gerbe, Orn. Eur. ii. p. 483 (1867) ; Elw. fy Buchl Ibis, 1870, 
 p. 389 (Macedonia); Malmgr. J. f. O. 1870, p. 292; David, N. 
 Arch. Mus. Bull. vii. Cat. n. 441 (1871); A. Netvt. Pr. Ac. 
-Philad. 1871, p. 99; Swinh. P. Z. 8. 1871, p. 416; Shell. Ibis, 
+Philad. 1871, p. 99; Swinh. P. Z. S. 1871, p. 416; Shell. Ibis, 
 1871, p. 315 (Egypt); G.R. Gr. Sand-list, iii. p. 74, n. 10565 
 (1871); Gould, B." Great Brit. v. pi. 4 (pt. xix., 1871); Sund. 
 Svensk. Fogl pi. 57. f. 1 (1872); Shell. B. Eqypt, p. 280 (1872); 
@@ -7359,7 +7359,7 @@ Bull. Soc. Zool. Fr. ii. p. 42 (1877); David $ Ovst Ois. Chine,
 p. 492 (1877); Dress. B. Eur. vi. p. 375, pi. 414 (pts. 65, m, 
 1878); Finsch, Verh. z.-b. Ges. Wien, 1879, p. 260 (W. Siberia) ; 
 Hume, Str. Feath. viii. p. 114, n. 947 (1879); Hmne $ Marsh. 
-Game B. of Ind. iii. p. 73, pi. 10 (1880); Sclat. P. Z. 8. 1880, 
+Game B. of Ind. iii. p. 73, pi. 10 (1880); Sclat. P. Z. S. 1880, 
 p. 500 ; Freke, Zoologist, Sept. 1881, p. 365 ; Ridgw. Nomencl. N 
 Am. B. n. 593 (1881); Coues, Check-list, 2nd ed. p. Ill, n. 692 
 (1882) ; Rchmv. Vog. zool. Gart. p. m (1882); 8alv. Cat. B. 
@@ -8131,7 +8131,7 @@ Pink-footed Goose.
 
 Anser brachyrkynchus, 
 Baill. Mem. Soc. R. dAbbev. 1833, p. 74; id/. 
-Cat. p. 26, n. 248 (183- ?); id. P. Z. 8.1839, p. 134; Temm. Man. 
+Cat. p. 26, n. 248 (183- ?); id. P. Z. S.1839, p. 134; Temm. Man. 
 tfOm. 2nd ed. iv. p. ,520 (1840); Rep. Counc. Z. 8. 1841, p. 14; 
 Bp. Cat. Met. Ucc. Eur. p. 70, n. 421 (1842); Jardine, Natur. 
 Libr. xxvii. p. 70 (1843); Yarr. Hist Brit. B. 2nd ed. iii. p. 153 
@@ -8143,7 +8143,7 @@ p. 007, n. 6 (1844); Blyth, Cat. B. Mus. A. 8. B. p. 301, n. 1756
 1855, pp. 254, 257 ; 8eh/s, Naumannia, 1855, p. 262, n. 4; Yarr. 
 Hid. Brit B. 3rd ed. iii. p. 158 (1S56); ? Irby, Ibis, 1801, p. 247 
 (Alumbag, Oudh) : G. R. Gr. Cat Brit B. p. 187 (1863); Jerd. 
-B. of Lid. iii. p. 780 (1864) ; A, Newt. P. Z. 8. 1864, p. 498 
+B. of Lid. iii. p. 780 (1864) ; A, Newt. P. Z. S. 1864, p. 498 
 (Spitsbergen); id. Ibis, 1864, p. 132 (Ireland), 1865, pp. 209, 513 
 (Spitsbergen); More, Ibis, 1865, p. 441; Beql. ty Gerbe, Orn. Bur. 
 ii. p. 482 (1861); Collett, Saersh. aft of Vid. Selsk. Fork. p. 175, 
@@ -8154,12 +8154,12 @@ G. R. Gr. Hand-list, iii. p. 74, n. 10564 (1871); Gould, B. Gr.
 Brit. v. pi. 31 (pt. xix.? 1871); Simdev. SvensTc. Fogl. pi. 82. f. 1 
 (1872); Dress. B. Bur. vi. p. 369, pi. 413 (pts. 71, 72, 1878); 
 Hume, Sir. Feath. viii. p. 114, n. 946 (1879) ; Hume $ Marsh. 
-Game B. iii. p. 71, pi. 9 (1880) ; Sclat. P. Z. 8. 1880, p. 500; 
+Game B. iii. p. 71, pi. 9 (1880) ; Sclat. P. Z. S. 1880, p. 500; 
 Elwes, Ibis, 1880, p. 314 (Jutland); Rchnw. Vog. zool. Giirt. p. 66 
 (1882); Nordensk. Die Umseqelung As. u. Eur. i. p. 109 (1882); 
 B. O. TJ. List Br. B. p. 116 (1883); Bolau, J.f O. 1883, p. 76, 
 & foil. (Germany); GaetJce, ibid. p. 80 (Heligoland); Sclat List 
-Vert An. 8th ed. p. 417 (1883); Tegetm. P. Z. 8. 1884, p. 176 ; 
+Vert An. 8th ed. p. 417 (1883); Tegetm. P. Z. S. 1884, p. 176 ; 
 Saund. YarrelVs Br. B. iv. p. 270 (1884-85); Seehh. Hist Br. 
 B. iii. p. 498, pi. 60 (1885); Collett, Suppl til Norges Fugle, p. 7 ; 
 fMcLeod, 8tr. Feath. x. p. 168 (Punjab) (1887); Tristr. Cat. 
@@ -8170,7 +8170,7 @@ J.f.O. 1890, p. 81; Bub. Faun. Vert Belg., Ois. ii. p. 401 (1891).
 p. 28 (1838)(egg !); K $ B. Wirbelth Eur. p. lxxxiii (note) (1840). 
 104 ANATID2E. 
 
-Anser phoenicopus, Bartl. P. Z. 8. 1839, p. 3 ; Yarr. Hist. Br. B. 
+Anser phoenicopus, Bartl. P. Z. S. 1839, p. 3 ; Yarr. Hist. Br. B. 
 
 iii. p. 64, with fig. (1843), i. Introd. p. xi (1843); Bartl P. Z. 8 
 1861, p. 19. 
@@ -9163,7 +9163,7 @@ J. f. 0. 1870, p. 303; Fritsch, Vog. Eur. p. 401, Taf. 145.
 f. 1 (1870); Heugl. J.f. 0.1871, p. 104 (Rotjess-Ejell and Barents-
 Land rO; Later. Am. Nat. v. p. 283 (North Carolina) (1871); 
 Eaton, Zoologist, 1874, p. 3815 (Spitsbergen); Bress. B. Eur. 
-vi. p. 397, pi. 415. f. 1 (1878); Mat. P. Z. 8. 1880, p. 501; 
+vi. p. 397, pi. 415. f. 1 (1878); Mat. P. Z. S. 1880, p. 501; 
 Frehe, Zoologist, Sept. 1881, p. 372; Ridgm. Norn. N. Am. B. 
 n. 597 (1882); Coues, Check-list, 2nd ed. p. 112, n. 699 (1882); 
 Salv. Cat. B. Strickl. Coll. p. 529, n. 2574 (1882); Sclat. List Vert. 
@@ -9926,7 +9926,7 @@ white. poliocephala, p. 137.
 Anser melanopterus, Fyt. Mon. Anat. p. 93 (1838) (Lake Titicaca) j 
 Gould in Barium, You. 'Beagle,' p. 134, pi. 50 (1841); Fraser, 
 
-P. Z. 8.1843, p. 118 (Ohili) ; Marti Sijst. Yerz. Ges. Mm. p. 117 
+P. Z. S.1843, p. 118 (Ohili) ; Marti Sijst. Yerz. Ges. Mm. p. 117 
 (1844); Schleg. Mm. P.~B., Anseres, p. 100 (1866): Byt. Sim. AnaU 
 p. 41 (1869); Gieb. The*. Orn. i. p. 512 (1872). 
 Anser montana, Tsch. {nee Gm.) Wiegm. Arch. 1843, i. p. 390, n. 2L 
@@ -9938,7 +9938,7 @@ t. 101. f. 953 (1845) (ex Beagle); Des Murs in Gay, Hist, de
 Chile, l p. 443 (1848) ; Bartl. Naumannia, 1853, p. 222, sp. 160; 
 Bibra, JDenkschr. k. Ah. Wissensch. v. 2, p. 131 (1853) ; id. J.f.O. 
 1855, p. 57 ; Cass, in U.S. Astron. Exp. ii. p. 101 (1856) (Chili); 
-Sclat. P. Z. 8.1857, p. 128; Phil. $ Landb. Wiegm. Arch. 1863, 
+Sclat. P. Z. S.1857, p. 128; Phil. $ Landb. Wiegm. Arch. 1863, 
 i. p. 185; Sclat. Ibis, 1864, p. 121; Peh. Beis. Novara, Yog. 
 p. 137 (1865); Sclat. P. Z. S. 1867, pp. 320, 334, 339; Phil. <§• 
 Landb. Cat. Av. Chil. p. 40 (1868) (Chili); Sclat. $ Sah. P.Z.S. 
@@ -9959,7 +9959,7 @@ Chloephaga melanoptera, Licht. Nomencl. Av. p. 100 (1854); Bp,
 Compt. Rend. xlHi. p. 648, n. 25 (1856); Burm. La Plata-Beisef 
 
 ii. p. 513 (1861); Sclat. Ibis, 1864, p. 122; G. B. Gr. Band-list, 
-iii. p. 77, n. 10591 (1871); Burm. P. Z. 8. 1872, p. 365; Tacz, 
+iii. p. 77, n. 10591 (1871); Burm. P. Z. S. 1872, p. 365; Tacz, 
 P. Z. S. 1874, p. 554; Gigl Viagg. Mag. ^p. 946, 957 (1876). 
 Oressochen melanopterus, Bann. Pr. Ac. Philad. 1870, p. 131. 
 Anser (Brenthus) melanopterus, Bchnw. Orn. CentralbL 1882, p. 37; 
@@ -10075,7 +10075,7 @@ p. 57; Cass. U.S. Astron. Exp. ii. p. 200, pi. xxiii. (S 2) (1856)
 Arch 1863, i. p. 199; iid. Cat. Av. CHI. p. 40 (1868); Sclat. Ibis, 
 1864, pp. 121,122; Belz. Beise Novara, Voy. p. 136 (1865); Sclat. 
 P. Z. S. 1867, pp. 320, 334, 339; Cunningham, Ibis, 1868, p. 127 ; 
-Fyt. Syn. Anat. p. 30 (1869) ; Bum. P. Z. 8.1872, p. 366; Sclat. 
+Fyt. Syn. Anat. p. 30 (1869) ; Bum. P. Z. S.1872, p. 366; Sclat. 
 $ Salv. Nomencl. Av. Neotrop. p. 128 (1873); iid. P. Z. S. 1876, 
 p. 807, 1878, p. 436 ; Sclat. P. Z. S. 1879, p. 310 (egg), 1880, 
 p. 504; Sharpe, P. Z. S. 1881, p. 13; Sclat. $ Salv. Voy. Chall, 
@@ -10183,7 +10183,7 @@ Magellanic Goose, Lath. op. cit. p. 443, n. 8 (1785); id. Gen. Hist.
 
 x. p. 231 (1824). 
 Anas magellanica, Gm. 8. N. i. 2, p. 505, n. 56 (1788) ($ ); Lath. 
-Bid. Orn. ii. p. 838, n. 11 (1790); Yarr. P. Z. 8. 1833, p. 3 
+Bid. Orn. ii. p. 838, n. 11 (1790); Yarr. P. Z. S. 1833, p. 3 
 (trachea). 
 
 Anas leucoptera, Gm. 8. N. i. 2, p. 505, n, 59 (1788) ($); Lath. 
@@ -10339,12 +10339,12 @@ id. Descr. An. (ed. Licht.) p. 333 (1844).
 
 xxiii. p. 343 (1818); Bum. Bid. 8c. JSrat. xxxv. p. 470 (1825). 
 ? Bemicla picta, Steph. Gen. Zool. xii. 2, p. 60 (1824). 
-Anser inornatus, 5 (!), King, P. Z. 8. 1830-31, p. 15 (Straits of 
+Anser inornatus, 5 (!), King, P. Z. S. 1830-31, p. 15 (Straits of 
 Magellan). 
 Anas inornatus, Less. CompL de Buff., Ois. ix. p. 527 (1837); id* 
 op. cit. 2nd ed. p. 718 (1838). 
-Ckloephaga magellanica, Fraser {nee Gm.), P. Z. 8. 1843, p. 118 
-(Chili); 8clat. P. Z. 8.1871, p. 700 (Chili) ; Sclat. $ 8alv. Norm. 
+Ckloephaga magellanica, Fraser {nee Gm.), P. Z. S. 1843, p. 118 
+(Chili); 8clat. P. Z. S.1871, p. 700 (Chili) ; Sclat. $ 8alv. Norm. 
 
 * Said to be a hybrid between C. antarctica and O. magellanica, but apparently 
 an albino variety. 
@@ -10375,22 +10375,22 @@ Eyt. Syn. Anat. p. 22 (1869); G. R. Gr. Hand-list, iii. p. 77,
 n. 10588 (1871) ; Sclat. $ Sah. Nomencl. Av. Neotrop. p. 128, 
 n. 2 (part.) (1873) ; Sharpe, Zool. Ereb. $ Terr., Birds, p. 37, 
 pi. 30 (type; (1875). 
-Anas inornata, Sclat. P. Z. 8. 1858, p. 290 (?=magellanica). 
+Anas inornata, Sclat. P. Z. S. 1858, p. 290 (?=magellanica). 
 Bernicla^disgar, Ph. fy Landb. An. Univ. Chile, xxi. p. 427 (1862); 
 
 iid. Wiegm'Arch. 1863, i. p. 190 ; Sclat. Ibis, 1864, p. 122; Pelz. 
 Beise Novar., Vog. p. 137 (1865); Phil. $ Landb. Cat. Av. Chil. 
 
 p. 40 (1808); Sclat # Salv. Ibis, 1870, p. 500 (== magellanica): 
-Burnt. P. Z. 8.1872, p. 366 (Sierra Tinta, Rio Negro); Sclat. # 
-Sah. P. Z. 8. 1876, p. 364; Sclat. P. Z. 8. 1880, p. 503; Montluz. 
+Burnt. P. Z. S.1872, p. 366 (Sierra Tinta, Rio Negro); Sclat. # 
+Sah. P. Z. S. 1876, p. 364; Sclat. P. Z. S. 1880, p. 503; Montluz. 
 Bull. Soc. Acclim. 1886, p. 159; Burm. Anal. Mm. Nac. Btien* 
 Aires, iii. p. 247 (1888); Sclat. Argent. Orn. ii. p. 123 (part.) 
 (1889); B. James, Neio List Chil. B. p. 9, n. 144 (1892) : Lataste? 
 Act. Soc. Sc. Chili, iii. p. exxii (1894). 
 Bernicla antarctica (errore), Burm. La Plata-Reise, ii. p. 514 (1861). 
 
-Chloephaga dispar, Selat. Ibis, 1864, p. 122; id. P. Z. 8. 1867, 
+Chloephaga dispar, Selat. Ibis, 1864, p. 122; id. P. Z. S. 1867, 
 pp. 320, 334 (Chili); Eyt Si/n. Anat. p. 29 (1869); G. R. Gr. 
 Hand-list, iii. p. 77, n. 10587 (1871). 
 
@@ -10404,7 +10404,7 @@ Bernicla (Chloephaga) inornata, Oust. op. cit p. 313 (1891).
 
 Hybrids. 
 
-Bernicla dispar $ X B. magellanica $, Sclat. fy Salv. P. Z. 8. 
+Bernicla dispar $ X B. magellanica $, Sclat. fy Salv. P. Z. S. 
 1876, p. 365, ff. a tf, b $; Sclat. List Vert An. 8th ed. p. 421. 
 £«d, 5 $(1883). 
 
@@ -11136,16 +11136,16 @@ p. 344, 1862, p. 179 (Cuba); Sclat P. Z. S. 1864, p. 299 (Guiana,
 Brazil, Paraguay, etc.); Gundl. Repert. Fisico-Nat. Cuba, i. p. 388 
 (1866); Leot. Ois. Trin. p. 509 (Trinidad) (I860) ; Selat. # Salv. 
 
-P. Z. 8. 1866, p. 200 (Ucayali); Schleg. Mus. R.-B., Anseres, p. 90 
-(1866); Sclat. $ Salv. P. Z. 8. 1869, p. 160 (Rep. Arg.) ; Fyt. 
+P. Z. S. 1866, p. 200 (Ucayali); Schleg. Mus. R.-B., Anseres, p. 90 
+(1866); Sclat. $ Salv. P. Z. S. 1869, p. 160 (Rep. Arg.) ; Fyt. 
 Syn. Anat. p. 61 (1869) ; Pelz. Orn. Bras. pp. 319, 459, .Iviii 
 (1870) j Beinh. Meddel. Fork. 1870, p. 21 (Brazil); G. B. Gr. 
 Mand-list, iii. p. 79, n. 10613 (1871); Burm. P. Z. S. 1S72, 
-p. 367; Sclat. fy Salv. P. Z. 8. 1873, p. 304 (Ucayali); iid. 
+p. 367; Sclat. fy Salv. P. Z. S. 1873, p. 304 (Ucayali); iid. 
 Nomencl. p. 129, n. 5 (1873); Coues, B. N.-West, p. 559 (1874); 
 Gundl. J.f. 0. 1875, p. 377 (Cuba); Gieb. Thes. Orn. ii. p. 31 
 (1875); Sclat. 8f Salv. P. Z. S. 1876, p. 376; Dumford, Bis, 1878, 
-p. 64 (Buenos Ayres); Sclat. P. Z. 8.1880, p. 509 ; Rchmo. Orn. 
+p. 64 (Buenos Ayres); Sclat. P. Z. S.1880, p. 509 ; Rchmo. Orn. 
 Centralbl. 1882, p. 22 ; Sclat. List Vert An. 8th ed. p. 425 (1883); 
 P., P., 8f R. Water-Birds N. Am. i. p. 481 (1884); Cory, List P. 
 W. Lid. i. p. 30 (1885); Salv. Lbis, 1886, p. 172 ; Taos. Orn. Per. 
@@ -11183,14 +11183,14 @@ Ogobai); Meine, J. f. O. 1860, p. 203; Marti. J. f. O. 1861,
 p. 272 ; id. Orn. Beitr. Faun. Madag. p. 83 (Madagascar) (1861); 
 Gum. Ibis, 1862, p. 158 (Natal); Poll. N. T. £>. i. p. 327 (1863); 
 23 . DENDBOCYCNA. 
-Bengl J.f. 0.1863, p. 164; Iiartm. ibid. p. 463; Sartl P. Z. 8. 
+Bengl J.f. 0.1863, p. 164; Iiartm. ibid. p. 463; Sartl P. Z. S. 
 1863, p. 106 (Kazeh, E. Africa); Roch # B. Newt Ibis, 1863, 
 
 p. 174 (Madagascar) ; JS. Newt. ibid. p. 452 (introduced in 
 Mauritius); Sclat. P. Z. S. 1864, p. 114 (Meninga, E. Afr.), p. 299 ; 
 Antin. Cat. JDescr. p. 113 (1864); Iiartm. J.f. 0. 1864. p. 150; 
-A. Netut. P. Z. 8. 1865, p. 837 (Madagascar); Vine. Voy. a 
-Madag. p. 4 (1865); Schleg. P. Z. 8. 1866, p. 426 (Madagascar, 
+A. Netut. P. Z. S. 1865, p. 837 (Madagascar); Vine. Voy. a 
+Madag. p. 4 (1865); Schleg. P. Z. S. 1866, p. 426 (Madagascar, 
 Reunion, Mayotte); id. Mus. P.-B., Anserea, p. 90 (1866); Layard, 
 Birds 8. Afr. p. 349 (1867); Grand. Rev. et Mag. Zool 1868, 
 p. 6; 8chleg. $ Poll Peek Faun, de Madag. p. 143 (1868); 
@@ -11200,12 +11200,12 @@ pp. 51, 384 (1869); Finsch £ Bartl. Tog. Ost~Afr.y. 806 (1870) ;
 G. P. Gr. Band-list, iii. p. 79, n. 10613 (part.) (1871); Anderss. 
 B. DamaraLand, p. 338 (1872); Ileugl. Orn. N.O.-Afr. ii. 2. 
 p. 1298 (1873) ; Pchmv. § Liihder, J.f 0. 1873, p. 211; Pclrnio. 
-J.f. 0. 1874, p. 374 (Gold Coast) ; Bartl. P. Z. 8. 1875, p. 68 
+J.f. 0. 1874, p. 374 (Gold Coast) ; Bartl. P. Z. S. 1875, p. 68 
 (Madagascar); Bocage, J.f. 0.1876, p. 294 (Mossamedes), p. 434 
 (Bissao) ; Pchnw. J.f. 6. 1877, p. 11 (Loango); Bartl. Vog. 
 Madag. p. 358 (1877); Fiseh. 8f Pchnw. J. f. O. 1878, p. 248 
 (Osi-Tana); Fischer, ibid. p. 295, 1879, pp. 295, 296: 8clat. 
-P. Z. 8.1880, p. 509; Shell. P. Z. 8.1881, p. 601 (Ugogoj; Sato. 
+P. Z. S.1880, p. 509; Shell. P. Z. S.1881, p. 601 (Ugogoj; Sato. 
 Cat. B. 8tricM. Coll p. 530 (Kordofan) (1882); Bolub fy Peh. 
 Beitr. Orn. S.-Afr. p. 328 (1882); Milne-Fdw. § Grand. Ok. 
 Madag. p. 729, pi. eclxxv. f. 5 (head) (1882); Sharpe, Bayard's 
@@ -11712,7 +11712,7 @@ by Leschenault; evidently Ctivier, like Horsfield, dicl not distinguish the two
 species. 
 154 ANATIDiE. 
 
-(1865) (Manilla); Sclat. P. Z. 8. 1866, p. 149; Schlep. Mus. P.-P., 
+(1865) (Manilla); Sclat. P. Z. S. 1866, p. 149; Schlep. Mus. P.-P., 
 Anseres, p. 88 (1866); BlythJHs, 1867, p. 175; Marti. $ Finsch, 
 Fauna Centralpolyn., Orn. p. 211 (1867); Bams. P. Z. S. 1868, 
 
@@ -11720,7 +11720,7 @@ p. 388; Blyth, Ibis, 1870, p. 176 ; G. M. Gr. Hand-list, lii. p. 79,
 
 n. 10610 (1871); Layard, Ibis, 1872, p. 99; Wald. Trans. ZooL 
 Soc. viii. p. 102 (1872); Tweedd. Trans. Zool Soc. ix. pp. 242, 
-252 (1875); Layard, P. Z. 8. 1875, pp. SO, 440 (Viti-levu); 
+252 (1875); Layard, P. Z. S. 1875, pp. SO, 440 (Viti-levu); 
 Gieb. Thes. Orn. ii. p. 31 (1875); Salvad. Ann. Mus. Civ. Gen. 
 
 ix. p. 49 (1876) (Bioto); Layard, Ibis, 1876, p. 393 ,• Bruggem. 
@@ -11751,11 +11751,11 @@ Dendrocygna arcuata, var. gouldi, Bp. Compt. Mend, xliii. p. 649,
 
 n. 53 c (1856). 
 Dendrocygna arcuata, var. vagans, Bp. ibid. n. 53 d (1856). 
-Dendrocygna badia, G. M. Gr. P. Z. 8.1860, p. 366 (Moluccas). 
+Dendrocygna badia, G. M. Gr. P. Z. S.1860, p. 366 (Moluccas). 
 Dendrocygna gouldi, Gould, Sandb. B. Austr. ii. p. 374 (1865); 
 Marie, Act. Soc. Linn. Bord. xxvii. p. 328 (1870); id. Ibis, 1877, 
 
-p. 363, n. 105 (New Caledonia); Mams. P. Z. 8. 1877, p. 346; 
+p. 363, n. 105 (New Caledonia); Mams. P. Z. S. 1877, p. 346; 
 Layard, Ibis, 1882, pp. 538, 542, 544. 
 Anas, sp., Jouan, Mem. Soc. Sc. Nat. Ch&rb. ix. p. 242 (1863) (N. 
 Caledonia). 
@@ -11765,7 +11765,7 @@ Anas vagans, Finsch, Neu-Guin. p. 183 (1865).
 Anas (Dendrocygna) vagans, Mart. J.f. 0.1866, p. 30, n. 190. 
 Dendronessa arcuata, Sundev. Meth. nat. Av. disp. Tent. p. 147 
 (1872). 
-Dendrocycna vagans, Sclat. P. Z. 8. 1880, p. 510 ; Trislr. Cat. Coll 
+Dendrocycna vagans, Sclat. P. Z. S. 1880, p. 510 ; Trislr. Cat. Coll 
 
 B. p. 51 (N. Australia) (1889). 
 Dendrocycna arcuata, Salvad. Orn. Map. e Mol. iii. p. 385 (1882); id. 
@@ -12865,7 +12865,7 @@ p. 220 (1782).
 Oie arniee {errore), Buff. Hist Nat Ois. ix. p. 76 (excl. syn.) 
 Egyptian Goose, Lath. Syn. iii. 2, p. 453, n. 16 (1785); Yarrel!T 
 
-P. Z. 8. 1833, p. 4 (trachea). 
+P. Z. S. 1833, p. 4 (trachea). 
 Anser africanus, Bonn. Enc. Meth. i. p. 119 (1790). 
 Anas merganser, Naum. Naturg. Land-u. Wasser-Vog. iii. pp. 329, 
 478, t. 53. f. 78 (1799). 
@@ -13420,11 +13420,11 @@ vii. pi. 8 (pt. xiv., 1844); G. B. Gr. List B. Brit. Mus. iii. p. 132
 f!h44); id. Gen.B. iii. p. 613, n. 2 (1845); Bchnb. Syn. Av., 
 Natal t. liii. € 396, 435-36 (1845); MacgilL Narr. Toy. Battlesn. 
 ii. p. 358 (1*32); LkM. Nomencl Av. p. 101 (1854); G. B. Gr. 
-P. Z. 8. 18*58, p. 198; id. Cat. B. New Gain. p. 63 (1859); id. 
+P. Z. S. 18*58, p. 198; id. Cat. B. New Gain. p. 63 (1859); id. 
 P. Z. & 1860, p. 365 (Batchian, Gilolo), 1861, p. 438; Wall. 
 P. Z, 8. 1*363, p. 3d (Bourn, Moluccas, Xe\v Guinea); Bosenb. N. 
 T. N L xxv. p. 256, n. 302 (1863); id. J.f.O. 1864, p. 138, 
-n. 302; &M. P. Z. 8. 1864, pp. Ib9, 190; Gould, Handb. B. 
+n. 302; &M. P. Z. S. 1864, pp. Ib9, 190; Gould, Handb. B. 
 Austr. ii. p. 360 (1865); Bosenb. Bets naar Zuidoostereil p. 54 
 (Aru) (1867); Eyt. Syn. Anat. p. 56 (1869); Bams. Br. Linn. 
 Soc. N. 8. W. i. pp. 194, 217, 386, 395 (Port Moresby) (1876), ii. 
@@ -13438,7 +13438,7 @@ Sharpe, Journ. Linn. Soc. xiv. p. 688 (1879) ; Sclat. P. Z. S. 1880,
 pp. 511, 535; DAlb. Num. Guin. pp. 34, 50, 582 (1880); Salmd. 
 Ann. Mm. Cw. Gen. xvlii. p. 401, n. 4 (1882); id. Orn. Pap. e 
 Mol iii. p. 391 (1882); Sato. Cat. B. StricJcL CoU. p. 532 (1882) ; 
-Sclat. P. Z. 8.1883, pp. 52,195, 200 (Larat, Timorlaut); Finsch, 
+Sclat. P. Z. S.1883, pp. 52,195, 200 (Larat, Timorlaut); Finsch, 
 1%. d. Siidsee, p. 29 (1884); Meyer, Sitzb. u. Abh. Gesellsch. Isis, 
 1884, Abh. i. p. 57; Forbes, P. Z. S. 1884, p. 434; Meyer, Zeitsehr. 
 yes. Orn. I p. 295 (1884); Pleshe, Bull. Ac. PStersb. xxix. p. 538 
@@ -13625,19 +13625,19 @@ Tadorna rutila, Boie, Isis, 1822, p. 364; Steph. Gen. Zool. xii. 2,
 
 p. 71 (1824); Brehm, Handb. Naturg. Vog. Deutschl. p. 859 
 (1831); Sijhes, P. Z. S. 1832, p. 167, n. 215 (Duklmn, Guzerat) ; 
-StricH. P. Z. 8. 1836, p. 102 (Smyrna); Gould, B. Eur. pi. 358 
-(1837) ; Fraser, P. Z. 8. 1839, p. 122 (Erzeroum) ; Jerd. 
-Madr. Journ. xii. p. 220, n. 286 (1840); Blyth, P. Z. 8. 1842, 
+StricH. P. Z. S. 1836, p. 102 (Smyrna); Gould, B. Eur. pi. 358 
+(1837) ; Fraser, P. Z. S. 1839, p. 122 (Erzeroum) ; Jerd. 
+Madr. Journ. xii. p. 220, n. 286 (1840); Blyth, P. Z. S. 1842, 
 p. 94; Tayl. Ibis, 1859, p. 54; Poiuys, Ibis, 1860, p. 354 (Ionian 
-Is.) ; 8clat. P. Z. 8. 1864, p. 190, 1866, p. 150; Taylor, Ibis, 
-1867, p. 71 (Egypt); 8clat P. Z. 8. 1869, p. 629 (breeding); 
+Is.) ; 8clat. P. Z. S. 1864, p. 190, 1866, p. 150; Taylor, Ibis, 
+1867, p. 71 (Egypt); 8clat P. Z. S. 1869, p. 629 (breeding); 
 Elw. $ Buckl. Ibis, 1870, p. 339 (Dobrudscha); Shell Ibis, 1871, 
 p. 315; Bound. Ibis, 1871, p. 396 (S. Spain, breeding); Garrod, 
-P. Z. 8. 1873, p. 467 (carotids), p. 639 (muscles); Irly, Orn. 8tr. 
+P. Z. S. 1873, p. 467 (carotids), p. 639 (muscles); Irly, Orn. 8tr. 
 Gibr. p. 197 (1875); Danf. $ H. Brotcn, Ibis, 1875, p. 4^6 (Transylvania) 
-; Dress. Ibis, 1876, p. 419 ; Forbes, P. Z. 8. 1877, pp. 307, 
+; Dress. Ibis, 1876, p. 419 ; Forbes, P. Z. S. 1877, pp. 307, 
 312 (bursa Fabricii); Durnf. Ibis, 1878, p. 35 (Asia Minor); 
-Schmidt, P. Z. S. 1880, p. 317; Selat P. Z. 8. 1880, p. 511; 
+Schmidt, P. Z. S. 1880, p. 317; Selat P. Z. S. 1880, p. 511; 
 Seebh. Hist. Brit. B. iii. p. 524, pi. 66 (egg) (1885) ; Tristr. Cat. 
 Coll. B. pp. 50, 270 (1889); Seebh. B. Jap. Fmp. p. 241 (1890) ; 
 Campb. Ibis, 1892, p. 245 (Corea); Elliot, Zool 1892, p. 311 
@@ -13658,7 +13658,7 @@ Nomencl Av. p. 101 (1854); Brehm, J.f.O. 1855, pp. 367, 484;
 id. Vogelf. p. 370 (1855); Bp. Compt. Rend, xliii. p. 649, n. 46 
 (1856); Heugl. Syst. TJebers. n. 689 (1856); Brehm, J. f. O. 
 1857, pp. 78,384; Loche, Cat. Mamm. et Ois. AlgSr. p. 140 (1858) • 
-Adams, P. Z. 8.1858, p. 509,1859, p. 189 (Ladakh); Sclat. P. Z. 8 
+Adams, P. Z. S.1858, p. 509,1859, p. 189 (Ladakh); Sclat. P. Z. 8 
 1859, p. 206 (breeding); Salv. Ibis, 1859, pp. 357, 362 (E.Atlas) ; 
 Swinh. Ibis, 1860, p. 67 (Amoy) ; Tristr. ibid. p. 81 (N. Africa); 
 Swinh. Ibis, 1861, p. 344 (China); Heugl. Peterm. Geogr. Mitth 
@@ -14274,7 +14274,7 @@ Tadorna tadornoides, Earth Verz. Ges. Mus. p. 118 (1844); Sclat.
 
 186 ANATIDiE. 
 
-P. Z. 8. 1864, p. 191, pi. xTiii., 1880, p. 512 ; id. List Vert. An. 
+P. Z. S. 1864, p. 191, pi. xTiii., 1880, p. 512 ; id. List Vert. An. 
 8th ed. p. 429 (1883) ; Zegge, Pr. JS. Soc. Tasm. 1886, p. 244 
 (Tasmania) (1887); Tristr. Cat. Coll. B. p. 59 (1889); Hartert, 
 Kat. Vogelsamml. p. 228 (1891); Sharpe, Cat. Osteol. Specim. Coll. 
@@ -14515,10 +14515,10 @@ Licht. Preis-Verz. p. iii, n. 157 (Mexico) (1830); Brehm} Isis,
 1830, p. 992 ; Less. Tr. d'Orn. p. 634 (1831); Saw, Orn. Tosc.m. 
 p. 161 (1831) ; Wagl Isis, 1831, p. 532 (Mexico); Menetr. Cat. 
 Rais. p. 57 (Bakou) (1832); Aud. Orn. Biogr. iii. p. 164, pi. 221 
-(1835) ; Strickl. P. Z. 8. 1836, p. 102 (Smyrna); Gould, B. Bur. 
+(1835) ; Strickl. P. Z. S. 1836, p. 102 (Smyrna); Gould, B. Bur. 
 ,, pi. 361 (1837); Bp. Comp. List, p. 56 (1838) ; Byt. Mon. Anat 
 
-p. 140, pi. 11 (skeleton & trachea) (1838); Fras. P. Z. 8. 1839, 
+p. 140, pi. 11 (skeleton & trachea) (1838); Fras. P. Z. S. 1839, 
 p. 134 (Erzeroum) ; Aud. Syn. p. 276 (1839); Vig. Zool. Beech. 
 Yoy. p. 30 (1839) ; Temm. Man. iv. p. 531 (1840); K. § B. 
 Wirhelth. Fur. pp. lxxxv, 227 (1840); Macgill. Man. ii. p. 165 
@@ -15321,11 +15321,11 @@ Hah. Laysan Islands.
 Anas xanthorhyncha, Roch $* U. Newt, (nee Forst.) &is, 1863, p. 174 
 
 (Tamatave). 
-DaOla erythrorhyncha, 8clat. {nee Gm.) P. Z. 8.1863, p. 165. 
-Anas melleri, 8clat. P. Z. 8. 1864, p. 487, pi. xxxiv. (Madagascar); 
+DaOla erythrorhyncha, 8clat. {nee Gm.) P. Z. S.1863, p. 165. 
+Anas melleri, 8clat. P. Z. S. 1864, p. 487, pi. xxxiv. (Madagascar); 
 
 G. R. Gr. Hand-list, iii. p. 82, n. 10641 (1871) ; Gieb. Thes. Orn. i. 
-p. 357 (1872); JSartl. Tog. Madag. p. 360 (1877); Sclat. P. Z. 8. 
+p. 357 (1872); JSartl. Tog. Madag. p. 360 (1877); Sclat. P. Z. S. 
 1880, p. 517 ;' Milne-Edw. fy Grand. Ois. Madag. p. 724, pis. 269 
 (bird), 275 a. I 1 (head) (1882); Rehnw. Orn. Centralbl 1882, 
 p. 19; Tristr. Cat. Coll. B. p. 49 (1889); Sibree, Ibis, 1892, p. 270. 
@@ -15740,7 +15740,7 @@ p. 242 (18(33) ; Sclat. P. Z. S. 1864,' p. 9 (Hualieine); Woodhouse,
 ibid. p. 11; Sclat. ibid. p. 487; Hartl. Ibis, 1864, p. 232 (Fiji 
 Isl.) ; Buller, Ess. Orn. N. Zeal. p. 18 (1865); Finsch, Neu-Gtdn. 
 p. 183 (1865); Gould, Handb. B. Austr. ii. p. 363 (1865); Bams. 
-Ibis, 1866, p. 335 ; Sclat. P. Z. 8. 1866, p. 418 (Zool. Gard.) ; 
+Ibis, 1866, p. 335 ; Sclat. P. Z. S. 1866, p. 418 (Zool. Gard.) ; 
 Schley. Mus. P.-B., Anseres, p. 42 (1866) ; Hector, Neio Zeal. Es>p. 
 p. 277 (1866); Finsch, J.f O. 1867, pp. 336, 337; Huti. Ibis, 
 1867, p. 379; Hartl. P. Z. S. 1867, p. 832; F. 8?H Orn. Centralpolyn. 
@@ -15750,7 +15750,7 @@ Eyt. Syn. Anat. p. 96 (1869); Hutt. Ibis, 1870, p. 395; F. # H.
 J.f. 0.1870, p. 122 ; Finsch, ibid. pp. 357,358; Grilffe, ibid. p. 403 
 (Samoa); Marie, Act. Soc. Linn. Bord. xxvii. p. 328 (1870); G. 
 B. Gr. 'Hand-list, iii. p. 82, n. 10647 (1871); Trav. Tr. # Br. N. 
-Z. Inst iv. p. 207 (1871), v. p. 218 (1872); ? H. § F. P. Z. 8. 
+Z. Inst iv. p. 207 (1871), v. p. 218 (1872); ? H. § F. P. Z. S. 
 1872, pp. 90,108 (Pelew); Hutt. Ibis, 1872, p. 247 (Chatham I.); 
 Gieb. Thes. Orn. i. p. 363 (1872): Finsch, J. f. O. 1872, pp. 33,56, 
 185; Fotts, Ibis, 1873, p. 85; Pelz. ibid. p. 123; Duller, D. New 
@@ -15912,8 +15912,8 @@ p. 510 (Indus): G. B. Gr. Cat. Hodgs. Coll. B. M. 2nd ed. p. 77
 (1863); Jerd.B. of Ind. iii. p. 799 (1864); Schley. Mus. P.-B., 
 Anseres, p. 43 (part.) (1866); Eyt. Syn. Anat.y. 94 (1869); Sclat. 
 
-P. Z. 8. 1872, p. 729 (Zool. Gard.) ; Gieb. Thes. Orn. i. p. 360 
-(1872) (syn. emend.); Holdsio. P. Z. 8. 1872, p. 479; Hume, 8tr. 
+P. Z. S. 1872, p. 729 (Zool. Gard.) ; Gieb. Thes. Orn. i. p. 360 
+(1872) (syn. emend.); Holdsio. P. Z. S. 1872, p. 479; Hume, 8tr. 
 Feath. i. p. 281 (1873); Adam, ibid. p. 40*2; Legge, Ibis, 1875, 
 p. 407 (Ceylon); Blyth, B. Burma, p. 165 (Arakan, Bhamo, 
 Tenasserim) (1875); Hume Sf JDavis. Str. Feath. iv. p. 489 (1878); 
@@ -15945,7 +15945,7 @@ List B. Brit. Mus. hi. p. 136 (1844) ; Bp. Compt. Rend. xliii.
 p. 694, n. 67 (1856). 
 Tadorna? poecilorhyncha, Jerd. Madr. Journ. xii. p. 221, n. 387 
 (1840). 
-? Chaulelasmns streperus, Stoliczka {nee and.), J. A. 8. B. xii. 1, 
+? Chaulelasmns streperus, Stoliczka {nee and.), J. A. S. B. xii. 1, 
 
 p. 255 (1872) {of. Hume, Str. Feath. iv. p. 29). 
 Adult male. Upper part of the head and a broad band from the 
@@ -16272,7 +16272,7 @@ Geogr. Mitth. 1869, p. 417; Eyt. Syn. Anat. p. 99 (1869); Finsch
 p. 82, n. 10642 (1871); Anderss. B. Damara Land,^. S41 (1872) ; 
 Heugl. Orn. N.O.-Afr. ii, 2, p. 1317 (1873); Aijres, Ibis, 1874, 
 p. 105 (Transvaal), 1876, p. 433,1*80, p. 273 (Transvaal); Sclat. 
-P. Z. 8. 1880, p. 518; Rchnw. Orn. Centralbl. 1852, p. 19; Butt., 
+P. Z. S. 1880, p. 518; Rchnw. Orn. Centralbl. 1852, p. 19; Butt., 
 Feild., Sr Reid, Zoolog. 1882, p. 427 (Natal) (1882); Holub, Beitr. 
 Orn. Siidafr. p. 330 (1882); Sharpe, Bayard's B. S. Afr. p. 756 
 (1884); Salvad. Ann. Mus. Civ. Gen. (2) i. p. 244 (Slioa) (1884), 
@@ -16817,7 +16817,7 @@ p. 102 (1857); Jon., Wedd., fy Hurdis, Nat in Perm. p. 47
 (Bermuda) (1859); Mart. J.f. 0. 1859, p. 220; Finsth, J.f.O. 
 1859, p. 387 (Bulgaria); Preen, ibid. p. 463 (note); Poivys, Ibis, 
 1860, p. 353 (Ion. Isl.); Simps, ibid. p. 394 (W. Greece); Swinh. 
-P. Z. 8. 1863, p. 324 (China); Nordm. J. f. 0. 1864, p. 377; 
+P. Z. S. 1863, p. 324 (China); Nordm. J. f. 0. 1864, p. 377; 
 Schleg. Mus. P.-B., Anseres, p. 48 (Cape of Good Hope !) (1866); 
 Przew. Voy. n. 203 (1867); Tristr. Ibis, 1808, p. 328 (Palestine); 
 Elwes fy Buckl. Ibis, 1870, p, 340 (Macedonia); Homey er, J.f.O. 
@@ -17365,7 +17365,7 @@ du Mus., Bull vii. Cat. n. 449 (1871); Gieb. Thes. Orn. i. p. 359
 (1872); Heugl Ibis, 1872, p. 64 (Waigats Is.); TaijL ibid. p. 233 
 (Crimea); Fischer, J.f. 0.1872, p. 390 (St.Petersburg); Severtz. 
 Turk. Jevotn. p. 70 (1873) ; Finsch, Verh. z.-b. Ges. TYien, 1879, 
-p. 263; JSeehh. Hist. Br. B. iii. p. 539 (1885); Scully, J. A. 8. B. 
+p. 263; JSeehh. Hist. Br. B. iii. p. 539 (1885); Scully, J. A. S. B. 
 Ivi. p. 88 (1887); Bryant, For. $ Str. xxyi. no. 22, p. 426 (California) 
 (1887); Saunders, Man. Brit. B. p. 425 (1889) ; Bchnw. 
 J.f 0.1890, p. 82 : Seebh. B. Jap. Emp. p. 247 (1890); HaHert, 
@@ -17379,7 +17379,7 @@ p. 155 (1816); Bum. Bid. 8c. Nat. vi. p. 369 (1817).
 Anas penelope 13, Lath. Ind. Orn. ii. p. 861 (1790). 
 Canard Kogolka, Bonn. Enc. Meth. i. p. 142 (1790). 
 Mareca fistularis, Steph. Gen. Zool xii. 2, p. 131, pi. 50 (1824); 
-Sykes, P. Z. 8. 1832, p. 168, Cat. n. 219 (Duklmn); Eyt. Mon« 
+Sykes, P. Z. S. 1832, p. 168, Cat. n. 219 (Duklmn); Eyt. Mon« 
 Anat. p. 118 (1838); Jerd. Madr. Journ. xii. p. 219, n. 380 (1840); 
 Eyt. Syn. Anat. p. 70 (1869). 
 
@@ -17401,7 +17401,7 @@ p. 133 (1844); id. Gen. B. iii. p. 614, n. 1 (1845); Riipp. Syd.
 Ushers, p. 138 (Egypt, Abyssinia) (1845); Rcbib. 8yn. Av., 
 Natatores, t. 92. ff. 168, 169 (1845) ; G. R. Gr. Cat. Hodgs. Coll, 
 B. M. p. 145 (1846); Blyth, Cat. B. Mus. A. 8. B. p. 305, n. 1778 
-(1849); Harcourt, P. Z. 8. 1851, p. 146 (Madeira); JRchnb. Av. 
+(1849); Harcourt, P. Z. S. 1851, p. 146 (Madeira); JRchnb. Av. 
 8y$t. Nat. p. ix (1852); Harcourt, Ann. fy Mag. N. H. xii. p. 63 
 (Madeira) (1853); Licht. Nomencl. Av. p. 101 (1854); Hartl. 
 J.f 0. 1854, p. 160 (Ceylon!)*; Bp. Compt. Rend. xliii. p. 650, 
@@ -17413,13 +17413,13 @@ de Zool. 1859, p. 145, pi. 6 (var.); Tristr. Ibis, 1860, p. 81:
 Poxoys, ibid. p. 353 (Ionian Isl.); Sioinh Ibis, 1861, p. 345 
 (N. China), 1863, p. 434 (Formosa); G. R. Gr. List Br. B. p. 191 
 (1863) ; id. Cat. Hodgs. Coll. B. M. 2nd ed. p. 76 (1863) ; Tristr. 
-P. Z. 8.1864, p. 453 (Jordan); Jerd. B. of Lid. iii. p. 804 (1864k 
+P. Z. S.1864, p. 453 (Jordan); Jerd. B. of Lid. iii. p. 804 (1864k 
 More, Ibis, 1865, p. 444 (Great Britain); Whitely, Ibis, 1867, 
 p. 207 (Hakodadi) ; 8winh. ibid. p. 399; Lawr. Ann. Lye. N. Y 
 viii. p. 297 (1867); Degl. $ Gerbe, Orn. Eur. ii. p. 512 (1867); 
 Tristr. Ibis, 1868, p. 328 (Palestine) $ Coues, Pr. Ess. Inst v. 
 p. 299 (New England) (1868); Tacz. J. f O. 1870, p. 55 (Constantina); 
-Swirik. Ibis, 1870, p. 366; id. P. Z. 8. 1871, p. 418 ; 
+Swirik. Ibis, 1870, p. 366; id. P. Z. S. 1871, p. 418 ; 
 Sound. Ibis, 1871, p. 397 (Spain) j Goebel, J. f O. 1871, pp. 21, 
 22, 23, 24,148; G. R. Gr. Hand-list, iii. p. 81, n. 10628 (1871); 
 Gould, B. Gr. Brit v. pi. 13 (1871); Sundev. Metli. nat. Av. 
@@ -17442,7 +17442,7 @@ p. 499 (1877); Prjev. in Rowl Orn. Misc. iii. p. 101 (Mongolia)
 Nutt. Orn. Club, iii. p. 98 (1878); Berier, op. cit. iv. p. 190 (N. 
 Carolina) (1879); Heme, Str. Feath. vii. p. 494 (Calcutta) (1879); 
 id. op. cit viii. p. 115, n. 963 (1879); Deane, Bull. Nutt. Orn. Club, 
-v. p. 126 (N. Carolina, Virginia) (1880); Sclat. P. Z. 8. 1880, 
+v. p. 126 (N. Carolina, Virginia) (1880); Sclat. P. Z. S. 1880, 
 p. 574; Finsch, Ibis, 1880, pp. 332, 333 (Taluit, Marshall I.); 
 Hume § Marsh. Game-Birds of Ind. iii. p. 197, pi. 26 (1880); 
 Ridgw. Norn. N. Am. B. n. 606 (1881); Cecil Smith, Zool. 1881, 
@@ -18038,14 +18038,14 @@ id. Bull 8c. Nat. xix. p. 103 (1829); Less. Compl de Buff., Ois.
 
 ix. p. 536 (1837); id. op. cit. 2nd ed. p. 722 (1838). 
 Anas 
-chiloensis, King, P. Z. 8. 1830-31, p. 15 (Chiloe); Less. 
+chiloensis, King, P. Z. S. 1830-31, p. 15 (Chiloe); Less. 
 Compl. de Buff., Ois. ix. p. 535 (1837); id. op. cit. 2nd ed. p. 721 
 (1838); Burm. La Plata Beise, ii. p. 517 (Mendoza) (1861); 
 8chleg. Mm. P.-B., Anseres, p. 46 (1866); Gieb. Thes. Orn. I 
 
 p. 347 (1872) ; Hartert, Kat. Vogelsamml p. 230 (1891). 
 Mareca chiloensis, Eyt. Mori. Anat. p. 117, pi. 21 (1838) (Chiloe, 
-and Cavenne !); Fraser, P. Z. 8. 1843, p. 119 (Chili) ; G. M. Gr. 
+and Cavenne !); Fraser, P. Z. S. 1843, p. 119 (Chili) ; G. M. Gr. 
 List B".Brit. Mvs. iii. p. 134 (Falkland Isl.) (1844) ; id. Gen. B. 
 
 iii. p. 614, n. 3 (1845) ; Bclml. 8yn. Av., Natatores, t. 92.ff. 162-63 
@@ -18359,7 +18359,7 @@ Vieill. N. B. v. p. 168 (1816); Bum. Diet. 8c. Nat. vi. p. 393
 p. 109 (1844); Temm. # Schleg. Faun. Jap., Aves, p. 127, tab. 82 B 
 (d), 82 C ($) (1850); Schleg. Mus. P.-B., Anseres, p. 54 (1866) 
 (syn. emend.); Gieb.Thes. Orn. i.p. 351 (1872) (syn. emend.); Seehh. 
-Ibis, 1888, p. 351 (Great liakoff I.); Tacz. P. Z. 8.1888, p. 460 
+Ibis, 1888, p. 351 (Great liakoff I.); Tacz. P. Z. S.1888, p. 460 
 (Corea); Seebh. P. Jap: Emp. p. 244 (1890); id. Ibis, 1892, p. 96 
 (Tsusima) ; Campb. ibid. p. 245 (Corea). 
 Anas glocitans, Pall. Act. Stockh. xl. pp. 26, 33, t. 1 (1779); Gm. 
@@ -18370,7 +18370,7 @@ pi. 36. f. 4 (1790); Pall. Zoogr. Posso-As. ii. p. 261 (1811); Bum.
 Diet. 8c. Nat. vi. p. 375 (1817); Less. Compl. Buff-, Ois. ix. 
 p. 536 (1837); id. op. tit. 2nd ed. p. 722 (part.) (1838); Midd. 
 8ibi?\ Peis. ii. p. 230, tab. xxiii. fl' 1, 2 (eggs) (1853) ; Swinh. 
-P. Z. 8. 1863, p. 324; id. Ibis, 1867, pp. 231, 394 (Amoy); 
+P. Z. S. 1863, p. 324; id. Ibis, 1867, pp. 231, 394 (Amoy); 
 Przeio. Voy. n. 200 (1867-69); Tacz. J.f. 0.1870, p. 312 (Dauria); 
 Homey, ibid. p. 431; A. David, N. Arch, du Mus., Bull. vii. Cat. 
 n. 451 (1871). 
@@ -18381,16 +18381,16 @@ Zoogr. Posso-As. ii. p. 261) (1811).
 Anas picta, 8teller, Obs. M8. {fide Pallas, I. c). 
 Querquedula forniosa, 8teph. Gen. Zool xii. 2, p. 151 (1824); Eyt. 
 
-Mon. Anat p. 124, pi. ii. f. 2 (trachea) (1838); Strickl. P. Z. 8. 
+Mon. Anat p. 124, pi. ii. f. 2 (trachea) (1838); Strickl. P. Z. S. 
 1842, p. 168; Bp. Cat. Mqt. Ucc. Bur. p. 71, n. 436 (Eur. Or.) 
 (1842); G. P. Gr. List B. Brit. Mus. iii. p. 137 (1844); Bp. Pev. 
 Crit. Orn. Eur. p. 103 (1850) ; Gerbe, Pev. et Mag. de Zool. 1854, 
 
-p. 12 (France); 8clat. P. Z. 8.1867, p. 818 (Zool. Gard.); JDegl. <$• 
+p. 12 (France); 8clat. P. Z. S.1867, p. 818 (Zool. Gard.); JDegl. <$• 
 Gerbe, Orn. Eur. ii. p. 523 (France) (1867); Eyt. Syn. Anat. p. 77 
 (1869); Sharpe fy Bress, B. of Eur. vi. p. 521 (syn. emend.), 
 pi. 428 (pt. 1,1871); Htime, Str. Feath. vii. p. 494 (India) (1879), 
-viii, p. 115, n. 966, p. 494 (Sultanpore) (1879); Sclat. P. Z. 8. 
+viii, p. 115, n. 966, p. 494 (Sultanpore) (1879); Sclat. P. Z. S. 
 31 . NETTlOtf. 
 241 
 1880, p. 521; Hume § Marsh. Game B. of Ind. iii. p. 225 (1880); 
@@ -18564,7 +18564,7 @@ pi. xiii. f. 1 (trachea) (1798); Pall Zoogr. Bosso-As. ii. p. 263
 Vieill N. D. v. p. 173(1816) ; Bum. Diet. 8c. Nat vi. p. 390 (1817); 
 Temm. Man. 2nd ed. ii. p. 846 (1820) ; Licht. Verz. Doubl p. 84 
 (1823); Mem. Brit. An. p. 125 (1828) ; KiUl. Ms, 1829, p. 529 
-(Kamtschatka); Franhl P. Z. 8. 1831, p. 125; 8am, Orn. Tosc. 
+(Kamtschatka); Franhl P. Z. S. 1831, p. 125; 8am, Orn. Tosc. 
 iii. p. 148 (1831); Brehm, Vbg. Deutsehl. p. 884 (1831); Menttr. 
 Cat Mais. Cam. p. 57 (Caspian) (1832); Jen. Man. p. 235 (1835); 
 Temm. Man. 2nd ed. iv. p. 539 (1840); Keys. $ Bias. Wirbelth. 
@@ -18572,10 +18572,10 @@ Fur. pp. lxxxv, 227 (1840); 8elys-L.,Faun.Belg. i. p. 142 (1842);
 Naum. Vog. Deutsehl. xi. p. 701, t. 304 (1842); 8chleg. Bev. Crit. 
 p. cxiii (1844); Eartl. Verz. Ges. Mus. p. 119 (1844); Degl. Orn. 
 Fur. ii. p. 438 (1849); Temm. fy 8chleg. Faun. Jap., Aves, p. 127 
-(1850) ; B[arc. P. Z. 8. 1851, p. 146 (Madeira); Midd. Sibir. Beis. 
+(1850) ; B[arc. P. Z. S. 1851, p. 146 (Madeira); Midd. Sibir. Beis. 
 ii. p. 230 (1853) ,• Wallengr. Naumannia, 1854, p. 27S (Scandinavia) 
 ; Bolle, J f O. 1855, p. 179 (Canaries); Kittl. Denhw. ii. 
-p. 292 (1858); Swinh. P. Z. 8. 1863, p. 324 (China); Jerd. B. of 
+p. 292 (1858); Swinh. P. Z. S. 1863, p. 324 (China); Jerd. B. of 
 Ind. iii. p. 806 (1864); 8winh. Ibis, 1865, p. 347 (Formosa); 
 Godm. Ibis, 1866, p. 102 (Azores); Schleg. Mus. P.-P., Anseres, 
 p. 52 (part.) (1866) ; Tristr. Ibis, 1868, p. 328 (Palestine); 
@@ -19442,7 +19442,7 @@ Gard.); Schleg. Mus. P.-B., Anseres, p. 47 (1866): Pams. Ibis,
 p. 900; Newt P. Z. S. 1871, pp. 649, 650 (part.), f. 1 (sternum), 
 f. 2 (trachea, with bulla ossea); Gieb. Thes. Orn. i. p. 360 (1872); 
 Pams. Pr. Linn. Soc. K S. W. i. pp. 195, 216, 219 (1876) ; id. 
-P. Z. 8. 1877, p. 346; Pchiw. J. f. O. 1877, p. 218 (Celebes) ; 
+P. Z. S. 1877, p. 346; Pchiw. J. f. O. 1877, p. 218 (Celebes) ; 
 Bias. J.f.O. 1883, pp. 116,121 (Celebes); Bchnw. ibid. p. 122 ( = 
 castanea, Fyton) (Celebes); Hartert, Kat. Vogelsamml. p. 230 
 Mareca castanea, Fyton, Mon. Anat. p. 119, pi. 22 (tf) (1838); 
@@ -20163,12 +20163,12 @@ Hartl. Verz. Ges. Mus. p. 119 (Peru)
 Querquedula oxyptera, Tsch. Faun. Per., Aves, pp. 55,309 (Sierra 
 region of Peru) (1844-46); ? Bibra, Denkschr. Ak. Wien, v. p. 131 
 (1853) (Chili); Licht. Nomencl Av. p. 102 (part., Peru) (1854); 
-Bibra, J. f. 0. 1855, p. 57; Sclat <$• Salv. P. Z. 8. 1867, p. 990 
+Bibra, J. f. 0. 1855, p. 57; Sclat <$• Salv. P. Z. S. 1867, p. 990 
 (Salinas, S. Peru), 1868, p. 570, 1869, p. 157 (Peru); iid. Nomencl 
-Av. Neotrop. p. 129 (1873); Tac%. P. Z. 8.1874, p. 554 (Junin, Centr. 
-Peru); 8clat. $ Salv. P. Z. 8. 1876, p. 385; Tacz. P. Z. 8. 1880, 
+Av. Neotrop. p. 129 (1873); Tac%. P. Z. S.1874, p. 554 (Junin, Centr. 
+Peru); 8clat. $ Salv. P. Z. S. 1876, p. 385; Tacz. P. Z. S. 1880, 
 
-p. 212 (Outervo); Sclat. P. Z. 8. 1880, p. 522,1886, p. 401 (Tarapaca) 
+p. 212 (Outervo); Sclat. P. Z. S. 1880, p. 522,1886, p. 401 (Tarapaca) 
 ; Tacz. Orn. Per. iii. p. 476 (1886) ; Tristr. Cat Coll. B. p. 49 
 (1889); Sclat. P. Z. S. 1891, p. 136 (Tarapaca); Berk. James, 
 New List Chil. B. p. 9, n. 155 (Tarapaca). 
@@ -20177,7 +20177,7 @@ Dafila oxyptera, Rchnb. Syn. Av., Natatores, t. 92. f. 164 (exMeyen)
 
 Querquedula angustirostris, Ph. § Landb. (nee Menetr.) An. Univ. 
 Chile, xxi. p. 439 (1862); iid. Wiegm. Arch. 1863, i. p. 202 (Tacna); 
-Sclat. P. Z. 8. 1867, p. 395 (=oxyptera, Meyeri); Philippi, Ornis, 
+Sclat. P. Z. S. 1867, p. 395 (=oxyptera, Meyeri); Philippi, Ornis, 
 1888, p. 160 (Calalaste). 
 
 Anas flavirostris, part., Schley. Mus. P.-B., Anseres, p. 59 (1866); 
@@ -20238,7 +20238,7 @@ Dafila sp., Sclat. P. Z. S. 1860, p. 83 (Ecuador).
 Querquedula andium, Sclat. 8? Salv. Nomencl. Av. Neotrop. pp. 129, 
 162 (Ecuador) (1873); iid. P. Z. S. 1875, p. 237 (Sierra Nevada 
 of Merida), 1876, p. 387, pi. xxxiv.; Sclat. P. Z. S. 1880, p. 522; 
-Tacz. $ Berl P. Z. 8.1885, p. 119. 
+Tacz. $ Berl P. Z. S.1885, p. 119. 
 
 Adult. Similar to N. flavirostre and N. owypterwm, but darker on 
 
@@ -20602,10 +20602,10 @@ torquata, G. R. Gr. List B. Brit. Mus. iii, p. 139
 Apunt. p. 28; n. 441 (1847); Bp. Compt. Rend, xliii. p. 650, 
 
 n. 105 (1856); Sclat. P. Z. S. 1867, p. 335 (Chili!); Sclat. $ Sab. 
-P. Z. 8. I860, p. 635 (Argentine); Pelz. Orn. Bras. p. 460 (1870): 
-Burm. P. Z. 8. 1872, p. 367 (Parana) ; 8clat. # Salv. Nomencl. 
-Av. Neotrop. p. 129 (Argentine) (1873); 8elat. $ Salv. P. Z. 8. 
-1876, p. 389; Sclat. P. Z. 8. 1880, p. 522; Berl J. f. O. 1887, 
+P. Z. S. I860, p. 635 (Argentine); Pelz. Orn. Bras. p. 460 (1870): 
+Burm. P. Z. S. 1872, p. 367 (Parana) ; 8clat. # Salv. Nomencl. 
+Av. Neotrop. p. 129 (Argentine) (1873); 8elat. $ Salv. P. Z. S. 
+1876, p. 389; Sclat. P. Z. S. 1880, p. 522; Berl J. f. O. 1887, 
 p. 124- Sclat Argent Orn. ii. p. 132 (1889); Aplin, Ibis, 1894, 
 p. 201 (Uruguay). 
 Anas rhodoptera," Dub. (errore), Bp. Compt. Rend, xliii. p. 650 (in 
@@ -21040,7 +21040,7 @@ s.
 S ad. sk. Omsk, May. St. G. Littledale, 
 Esq. [P.]. 
 * DAFILA MOBESTA. 
-Dafila inodesta, Tristr. P. Z. 8. 1886, p. 79, pi. vii. (Sydney I., Phoenix 
+Dafila inodesta, Tristr. P. Z. S. 1886, p. 79, pi. vii. (Sydney I., Phoenix 
 Group, Oentr. Pacific); id. Oat CoU. B. p. 50 (1889); Lister, P. Z. S. 
 1891, pp. 289, 298, 300; Wiglesw. Aves Polyn. p. 71 (1891). 
 
@@ -21573,21 +21573,21 @@ Marti 2nd. Azar. Apunt. p. 27, n. 429 (1847); G. B. Gr. Gen. B.
 iii. Append, p. 28 (1849); Belz. Orn. Bras. pp. 321, 400, lix 
 (S. Brazil) (1870). 
 Dahla oxyura, Behnb. Syn. Av., Natatores, t. 88. fl. 920-921 (1845); 
-Selat. P. Z. 8.1867, p. 335 (Chili); G.B. Gr. Rand-list, iii. p, 81, 
+Selat. P. Z. S.1867, p. 335 (Chili); G.B. Gr. Rand-list, iii. p, 81, 
 no. 10635 (1871); Tacz. B. Z. 8. 1874, p. 554 (Peruj, 18825 p. 47 
 
 (N.E. Peru); Philippi, Ornis, iv. p. 160 (Antofagasta) (1888). 
 Dafila 
 spinicauda, Bp. Compt. Rend. xliii. p. 650, n. 113 (1856); 
-Selat. * Sato. P. Z. 8. 1868, p. 146 (Rep. Arg.), 1809, p. 157 
+Selat. * Sato. P. Z. S. 1868, p. 146 (Rep. Arg.), 1809, p. 157 
 
 — -* .., „. -,«™ _ *m. Sdatm P# z. S. 1870, 
 
 1873, pp. 467, 639: Selat. §* Salv. NomencL Av. Neotrop. p. 130 
-(1873); iid. P. Z. 8.1876, pp. 17, 392 (Peru); Bumf. JBw,1876, 
+(1873); iid. P. Z. S.1876, pp. 17, 392 (Peru); Bumf. JBw,1876, 
 
 p. 163,1877, pp. 41,192,1878, pp. 64,401 (Centr. Palag); Selat 
-P Z. 8. 1880, p. 515; Sharpe, P. Z. 8. 1881, p. 14; Salv. Cat, 
+P Z. 8. 1880, p. 515; Sharpe, P. Z. S. 1881, p. 14; Salv. Cat, 
 280 ANATIDiE. 
 
 B. StricH. Coll. p. 533 (1882); Milne-Edio. Bech. Faun. Beg. 
@@ -21771,7 +21771,7 @@ Anas bahaniensis, Linn. 8. iV. i. p. 199, n. 17 (1706) (ex Catesby);
 
 Gm. 8. AT. i.2, p. 516, n. 17 (1788); Lath. Inch Orn. ii. p. 85f>, n. 58 
 
-P. Z. 8. 1843, p. 119 (Chili); Tsch. Wiegm. Arch. 1844, i. p. 315 
+P. Z. S. 1843, p. 119 (Chili); Tsch. Wiegm. Arch. 1844, i. p. 315 
 (Peru); id. Faun. Fer.,Aves, p. 54, n. 2 (1846); ?Yarrell,F. Z.8. 
 1847, p. 54 (Chili; egg); Burni. St/st. Ueb. iii. p. 436 (1856); 
 Cab. J.f. 0.1857, p. 227 (Anmerk.); Gundl. J.f.O. 1861, p. 191 
@@ -21984,7 +21984,7 @@ Abessin. 1861-62, p. 206 (1868); Schley. $ Poll.' Peek. Faun.
 Madag. p. 141 (1868) ; Chapm. Trav. in S. Afr. ii. App. p. 422 
 (1868); Finsch £ IlartL Tog. Ost-Afr. p. 808 (1870) ; Gieb. 
 Thes. Orn. i. p. 350 (1872) ; llartl. Tog. Madag. p. 362 (1877): 
-Shell. P. Z. 8. 1882, p. 310 (Mamboio); Milhe-Fdw. ^ Grand. 
+Shell. P. Z. S. 1882, p. 310 (Mamboio); Milhe-Fdw. ^ Grand. 
 Ois. Madag. p. 725, pi. 275. f. 4 (bead) (1882); Fischer, Zeitschr. 
 ges. Orn. '1884, p. 394 (Masai); Bohm, J.f O. 1885, p. 02 
 (Karuma, C. Africa); Fmin, J.f.O. 1891, p,58 (Ugogo); Rclmw. 
@@ -22603,8 +22603,8 @@ p. 4, n. 12,1775).
 Anas crecca, var. /§, Lath. Ind. Orn. ii. p. 873 (1790). 
 Anas crecca, var. 8, Lath. Ind. Orn. ii. p. 874 (1790). 
 Querquedula circia, Steph. Gen. Zool. xii. 2, p. 143, pi. 51 (1824); Boie, 
-Isis, 1828, p. 329 ; Sykes, P. Z. 8. 1832, p. 169, n. 221 (Dukhun) ; 
-Gould, B. Bur. pi. 364 (1837); Dicks. $ Ross, P. Z. 8. 1839, 
+Isis, 1828, p. 329 ; Sykes, P. Z. S. 1832, p. 169, n. 221 (Dukhun) ; 
+Gould, B. Bur. pi. 364 (1837); Dicks. $ Ross, P. Z. S. 1839, 
 
 p. 134 (Erzeroom); Strickl. Ann. fyMag. N. H. viii. p. 545 (1842) ; 
 G. R. Gr. List B. Brit Mus. iii. p. 137 (1844) ; Riipp. Syst. Uebers. 
@@ -22614,7 +22614,7 @@ n. 1781 (1849); Lnyard, Ann. $ Mag. N. H. xiv. p. 269 (Ceylon)
 B. M. 2nd ed. p. 77 (1863); Szvinh, Ibis, 1863, p. 434 (Formosa); 
 Jerd. B. of Ind. iii. p. 807 (1864); Gould, B. of Great Brit, v, 
 pi. 17 (pt. viii., 1865); Begl. § Gerbe, Orn. Bur. ii. p. 518 (1867): 
-Swinh. Ibis, 1867, p. 407 (Amoy); id. P. Z. 8. 1870, p. 427, 1871, 
+Swinh. Ibis, 1867, p. 407 (Amoy); id. P. Z. S. 1870, p. 427, 1871, 
 p. 418 (China, Formosa) ; JSlw. $Buckl Bis, 1870, p. 340 (Turkey); 
 G. R. Gr. Hand-list, iii. p. 83, n. 10656 (1871); Sharp>e § Dress. 
 36. &UEKQTTEDtrLA. 
@@ -23054,14 +23054,14 @@ White-faced Duck, Lath. Syn. iii. 2, p. 502, n. 50 (1785).
 Querquedula discors, 8teph. Gen. Zool xii. 2, p. 149 (1824); Boie, 
 
 lsis, 1828, p. 329 ; G. P. Or. List B. Brit. Mus. iii. p. 138 (1844); 
-Sclat. P. Z. 8. 1857, p. 206 (Jalapa); Sails, P. Z. 8. 1857, p. 237 
+Sclat. P. Z. S. 1857, p. 206 (Jalapa); Sails, P. Z. S. 1857, p. 237 
 
 (S. Domingo); Baird, B. N. Am. p. 779 (1858); id. Mex. B. 
 Sum. p. 20 (1859); id. Cat. N. Am. B. n. 591 (1859); Bryant, 
-Pr. Boat. Soc. N. H. vii. p. 122 (Bahamas) (1859); Sclat. P. Z. 8. 
+Pr. Boat. Soc. N. H. vii. p. 122 (Bahamas) (1859); Sclat. P. Z. S. 
 1859, p. 393 (Oaxaca); Sclat. fy Salv. Ibis, 1859, p. 231 (Guatemala) 
 ; Sclat. P. Z. S. 1860, p. 254 (Orizaba); Coop, fy Suckl N. 
-H. Wash. Terr. p. 254 (1860) ; Sclat. P. Z. 8. 1861, p. 82 
+H. Wash. Terr. p. 254 (1860) ; Sclat. P. Z. S. 1861, p. 82 
 (Jamaica); Blahist. Ibis, 1862, p. 9 (Brit. N. Amer.); Boss, 
 Canad. Nat, April 1802; Verr. Pr. Ess. Inst iii. p. 153 (1862) ; 
 Hayd. Pep. 1862, p. 176; Blakist. Ibis. 1863, p. 146; March, Pr. 
@@ -23070,10 +23070,10 @@ p. 101 (Sombrero) (1804), p. 297 (1866); Salv. I&w, 1865, p. 193
 (Guatemala); Dresser, Ibis, 1866, p. 43 (Texas, breeding); Gundl 
 Pep. Fis.-Nat. Cuba, i. p. 389 (1866); Degl 8p Gerbe, Orn. Eur. 
 ii. p. 520 (1867); Coves, Pr. Ess. Inst v. p. 299 (1868); Sclat 
-fy Salv. P. Z. 8. 1869, p. 252 (Valencia, Venezuela) ; Lawr. 
+fy Salv. P. Z. S. 1869, p. 252 (Valencia, Venezuela) ; Lawr. 
 Ann. Lye. N. Y. ix. p. 143 (Costa Eica) (1868); Ball $ Bonn. 
 Tr. Chic. Acad. i. p. 297 (Alaska, breeding) (1869); Pefc. Orn. 
-Bras. p. 460 (Brazil!) (1870); Salv. P. Z. 8. 1870, p. 219 (Veragua); 
+Bras. p. 460 (Brazil!) (1870); Salv. P. Z. S. 1870, p. 219 (Veragua); 
 G. P. Gr. Hand-list, iii. p. 83, n. 10659 (1871); Allen, Bull. 
 Mus. Comp. Zool. iii. p. 183 (Kansas) (1872); Aiken, Pr. Post. 
 300 
@@ -23798,7 +23798,7 @@ Finsch, Tr. Zool. Soc. vii. p. 301 (Abyssinia) (1870); Stev. U.S.
 Geol Surv. Terr. 1870, p. 466 (Wyoming); G. P. Gr. HamUM, 
 iii. p. 85, n. 10676 (1871); Swinh. P. Z. & 1871, p. 418 (S. Cnina, 
 Formosa) ; Goidd, B. Gh*eat Brit. v. pi. 14 (pt. xx., 1871); Allen, 
-Bull. Mus. Comp. Zool iii. p. 183 (Utah) (1872); Moldsw. P. Z. 8. 
+Bull. Mus. Comp. Zool iii. p. 183 (Utah) (1872); Moldsw. P. Z. S. 
 1872, p. 479 (Ceylon); Sunder. Meih. not. Av. disji, Tent p. 148 
 (1872) ; Coues, Key, p. 288 (1872); id. Check-list, n. 498 (1873); 
 Layard, P. Z. S. 1873, p. 205 (Ceylon) j Heugl. Orn. KO.-Afr* 
@@ -25214,7 +25214,7 @@ Range, Confined to Australia.
 Anas 
 nsevosa, Gould, P. Z. S. 1840, p. 177 (W. Australia); id- Bt 
 Austr. Tii. pi. 10 (pt. v., 1841) ; Sclat. P. Z. S. 1864, p. 192; 
-Schleg. Mus. P.-B., Anseres, p. 63 (1866); Milll. P. Z. 8. 1869, 
+Schleg. Mus. P.-B., Anseres, p. 63 (1866); Milll. P. Z. S. 1869, 
 
 p. 280; Gieb. Thes. Orn. i. p. 358 (1872) (China!); Earns. Pr. 
 Linn. Soc. N. S. W. i. pp. 195, 216, 219 (1876); Echnw. Orn, 
@@ -25224,7 +25224,7 @@ Gen. B. iii. p. 613, n. 3 (1845); Echnb. Syn. Av., Natatores, t. 93.
 
 f. 431 (ex Gould) (1845). 
 Stictonetta nsevosa; Echnb. Av. Syst. Nat. p. ix (1852); Bp. Compt. 
-Bend, xliii. p. 649, n. 79 (1856); Sclat. P. Z. 8. 1864, p. 192; 
+Bend, xliii. p. 649, n. 79 (1856); Sclat. P. Z. S. 1864, p. 192; 
 Gould. Handb. B. Austr. ii. p. 307 (1865); G. E. Gr. Sand-list, 
 
 iii. p. 80, n. 10620 (1871); Earns. Pr. Linn. Soc. N. 8. W. ii. p. 200, 
@@ -25632,8 +25632,8 @@ Callichen rufa (errore?), Komig, J.f. 0. 3888, p. 285 (Tunis).
 
 Hybrids. 
 
-Fuligula rufina X Metopiana peposaca, Sclat. P. Z. 8. 1880, p. 524. 
-Branta rufina <$ x Anas boscas $, Martorelli, P. Z. 8. 1891, p. 489. 
+Fuligula rufina X Metopiana peposaca, Sclat. P. Z. S. 1880, p. 524. 
+Branta rufina <$ x Anas boscas $, Martorelli, P. Z. S. 1891, p. 489. 
 
 Adult male. Head, throat, and sides of the upper neck reddish 
 chestnut; the feathers on the top of the head much elongated, 
@@ -26757,7 +26757,7 @@ Auk, 1888, p. 66 (Cuba, Jamaica) ; Hatch, B. of Minnes. p. 57
 Fuligula valisneria, Hartl Verz. Ges. Mus. p. 120 (1844); Rchnb. 
 Syn. Av., Natatores, t. 80. ff. 2758-60 (1850) (ex Audubon); Wied, 
 
-J. f. 0.1859, p. 174; Sclat. £ Salv. P. Z. 8. 1876, p. 400; Sclat. 
+J. f. 0.1859, p. 174; Sclat. £ Salv. P. Z. S. 1876, p. 400; Sclat. 
 P. Z. S. 1880, p. 526. 
 Nyrcca valisneria, 
 G. R. Gr. List B. Brit. Mus. iii. p. 43 (1844); id. 
@@ -27626,7 +27626,7 @@ C.B.[P.].
 
 9. Nyroca nationi. 
 Fuligula nationi, Mat. fy Salv. P. Z. S. 1877, p. 522 (Lima); Selat. 
-P. Z. 8. 1878, p. 477, pi. xxxii.; Garrod, I. c. p. 479 (trachea); 
+P. Z. S. 1878, p. 477, pi. xxxii.; Garrod, I. c. p. 479 (trachea); 
 Tacz. Orn. Per. iii. p. 484 (1886); ? MacFarl. Ms, 1887, p. 203 
 (Arica and Mollendo); Berl. § Stolzm. P. Z. S. 1892, p. 399. 
 Type. Very similar to the male of N. brunnea, but the brown 
@@ -28557,7 +28557,7 @@ AvesPolyn.y. 60 (1891).
 Fulix fuligula, Sundeo. (ubi ?); Lovhi, (Efv. K. Vet-Ah. Fork. 1864, 
 
 p. 315; B.,B.,$B.Wat-B.N. Am.ii.-p.l&(note) (I88±); GiglAvif. 
-Ital p. 316, n. 307 (1886); Tacz. P. Z. 8. 1888, p. 460 (Oorea). 
+Ital p. 316, n. 307 (1886); Tacz. P. Z. S. 1888, p. 460 (Oorea). 
 Fuligula vulgaris, Hodgs. in Gray's Zool. Misc. p. 86, n. 373 (1844). 
 Fuligula fuligula, LicM. Nomencl Av. p. 102 (1854); Hartert, Eat. 
 
@@ -29271,7 +29271,7 @@ TACHYEEES.
 Type. 
 Micropterus (subgen.), less. Man. d'Orn. p. 416 (1828) 
 (nee lacep. 1802) T. cinereus. 
-Micropterus, King, P. Z. 8. 1830, p. 15 (nee lacep. 
+Micropterus, King, P. Z. S. 1830, p. 15 (nee lacep. 
 1802). 
 Tackyeres, Owen, Trans. Zool 8oc. ix. p. 254 (1875) .. T. cinereus. 
 
@@ -29576,7 +29576,7 @@ Clansrula vulgaris, Flem. Brit. An. p. 120 (1828); Gould, P. Z. S.
 Gould, B. Fur. * pi. 379 (1837); Sw. Class. B. ii. p. 369 (1837); 
 Byt. Mon. Anat. p. 166, pi. iii. f. 4 (sternum), pi. 12. f. 4 (ca3ca), 
 pi. 15. f. 2 (trachea) (1838); Abbott, P.Z. 8. 1834, p. 134 (Trebizond) 
-; Blahist Ibis, 1863, p. 148 ; Garrod, P. Z. 8. 1878, p. 429 
+; Blahist Ibis, 1863, p. 148 ; Garrod, P. Z. S. 1878, p. 429 
 (trachea). 
 
 Glaucion clangula, Kaup, Natilrl Syst. p. 53 (1829) ; K. # B. Wir
@@ -29763,9 +29763,9 @@ N. II. ii. p. 315 (Mazatlan) (1874).
 Bucephala clangula, Cones, Key, p. 290 (1872); id. Chech-list, 
 n. 505 (1873); id. B. N-West, p. 576 (part.) (1874); Jeffries, 
 Bull. Nutt. Orn. Club, v. p. 189 (1880). 
-Clangula glaucion, 8clat. § Salv. P. Z. 8. 1876, p. 401; Lazor. Pr. 
+Clangula glaucion, 8clat. § Salv. P. Z. S. 1876, p. 401; Lazor. Pr. 
 
-U.8. Nat. Mm. i. p. 241 (Barbuda) (1878); Sclat. P. Z. 8. 1880, 
+U.8. Nat. Mm. i. p. 241 (Barbuda) (1878); Sclat. P. Z. S. 1880, 
 p. 527 (part.). 
 Clangula glaucium americana, 
 Ridqio. Pr. U.S. Nat. Mas. iii. p. 204 
@@ -30151,7 +30151,7 @@ iii. p. 67 (1872); 8eeb. Hist Brit. B. iii. p. 593 (1885).
 Clangula scapularis, Brehm, Isis} 1830, p. 999, n. 1; id. Vog. Beutschl. 
 p. 932 (1831). 
 Clangula barrovii, 8w. fy Bich. Faun. Bor.-Am. ii. p. 456, pi. 70 
-(1831), cf. P. Z. 8. 1831, p. 132; Gould, B. Eur. v. pi. 380 
+(1831), cf. P. Z. S. 1831, p. 132; Gould, B. Eur. v. pi. 380 
 (1837); Less. Compl. de Buff., Ois. 2nd ed. p. 721 (1838); 8w. 
 Jin. in Menag. p. 271 (1838); Bp. Comp. List, p. 58 (1838); 
 Myt. Mm. Anat. p. 165 (1838); Holboell, Kroyerh Naturhist. 
@@ -30325,7 +30325,7 @@ Heerm. P. B. B. Bep. x. pt. vi. p. 70 (1859); Murr. BJimk Nmo
 Phil. Journ. 1859, p. 230; Bretcer, Proc. Post. Soc. N. S. ui. 
 p. 308 (Cuba) (1860); Beinh Ibis, 1861, p. 14 (Gieenland) ; 
 Gundl. J. f. O. 1861, p. 346 (Cuba), 1862, p. 93; DegL 
-4r Gerbe, dm. Bur. ii. p. 545 (1867); Newt. P. Z. 8. 3871, 
+4r Gerbe, dm. Bur. ii. p. 545 (1867); Newt. P. Z. S. 3871, 
 -p. 57 (egg); Hartinq, Man. Br. Birds, p. 161 (Great Britain) 
 (1872); Pelz. Ibis, 1873, p. 46; Sclat. $ Salt*. B Z. 8. Ib76, 
 p. 401; Dress. B. of Bur. vi. p. 589, pi. 439 (1877) ; Set. P. Z. S. 
@@ -30663,7 +30663,7 @@ Stickl. N. H. Wash. Terr. p. 261 (1860); Reinh. Ibis, 1861, p. 14
 (Greenland); Ross, Canad. Natur. Apr. 1862 (Mackenzie); Verr. 
 Pr. Ess. Inst. iii. p. 153 (1862) ; Boardm. Pr. Bost. Soc. ix. p. 139 
 (1862); G. R. Gr. List Brit. B. p. 203 (1863); Blakist. Ibis, 
-1863, p. 149 (Brit. N. Am.); Swinh. P. Z. 8. 1863, p. 324; 
+1863, p. 149 (Brit. N. Am.); Swinh. P. Z. S. 1863, p. 324; 
 Malmgr. (Efv. K. Vet.-Ak. Fork. 1863, p. 108, 1864, p. 399; 
 id. J. f. 0. 1863, p. 379 (Spitsbergen); A. Newt. Ibis, 1865, 
 p. 515 (Spitsbergen); Laior. Ann. Lye. N. Y. viii. p. 297 
@@ -30673,7 +30673,7 @@ Orn. Bur. ii. p. 549 (1867); Coues, Pr. JSss. Inst. v. p. 206
 1868, p. 43 (Borkum), 1869, p. 347 (Faroe); Eyt. 8yn. Anat. 
 p. 121 (1869); Ball $ Bann. Tr. Chic. Acad. i. p. 298 (1869) j 
 Gillett, Ibis, 1870, p. 309 (Nova-Zeinlia); Gould, B. Great Brit. 
-v. pi. 33 (1870); Swinh. P. Z. 8. 1871, p. 419 (Takoo) ; G. R. Gr. 
+v. pi. 33 (1870); Swinh. P. Z. S. 1871, p. 419 (Takoo) ; G. R. Gr. 
 Band-list, iii. p. 87, n. 10701 (1871); Heugl. J.f. 0.1871, pp. 89,92, 
 105 (Spitsbergen); id. Ibis, 1872, p. 63 ; Finsch, Abh. Brem. Ver. 
 iii. p. 67 (1872) ; Heugl J. f O. 1872, p. 122 (Novaja Semlja and 
@@ -30688,13 +30688,13 @@ juv.), 444 (d1 ad.) (1875); Seeb, Sf Harvie Brown, Ibis, 1876,
 p. 445 (Petchora) ; Tacz. J.f. 0.1876, p. 202 (Ussuri) ; Komey. 
 J.f.O. 1876, p. 317; Tacz. Orn. Vost. Sibir. p. 71 (1877); id. 
 Btill. Soc. Zool. Fr. ii. p. 48 (1877) ; Swinh. Ibis, 1877, p. 147 
-(Hakodadi); Feild. P. Z. 8. 1877, pp. 30, 31 (N. Polar Basin) f 
+(Hakodadi); Feild. P. Z. S. 1877, pp. 30, 31 (N. Polar Basin) f 
 id. Ibis, 1877, p. 411 (Floeberg Beach, lat. 82° 27' K , Grinnel 
 Land) ; David q Oust. Ois. Chine, p. 506 (1877); Blakist fy Pryer, 
 Ibis, 1878, p. 215 (Yezo); Adams, ibid. p. 433 (Michalaski); 
 Seeb. Ibis, 1879, p. 23; Finsch, Verh. z.-b. Ver. Wien, 1879r 
 p. 152 (W. Siberia); Blakist fy Pryer, Tr. As. Soc. Jap. viii. 
-p. 186 (1880); Sclat. P. Z. 8.1880, p. 527; Ridgw. Norn. N. Am. 
+p. 186 (1880); Sclat. P. Z. S.1880, p. 527; Ridgw. Norn. N. Am. 
 B. n. 623 (1881); Elliott, Mon. Seal-Isl. p. 130 (1881) ; Blakist. 
 Sr Pryer, Tr. As. Soc. Jap. x. p. 100 (1882); Coues, Chech-listr 
 2nd ed. p. 115, n. 728 (1882); Salv. Cat B. Strickl. Coll. p. 539 
@@ -31182,7 +31182,7 @@ Temm. Man. 2nd ed. iv. p. 549 (1840); Naum. Vog. Deutschl. xii.
 p. 199, Taf. 318 (1844); 8chleg. Rev. Crib. p. cxix (1844); Temm. % 
 8chleg. Faun. Jap., Aves, pp. 129,141 (1850) ; Middend. 8ibir. 
 Beis. ii. 2, p. 237 (1853); Kruper, Naumannia, 1857, 2, p. 1 
-(Iceland); Kittl Denhio. ii. p. 347 (1858) ; 8winh. P. Z. 8.1863, 
+(Iceland); Kittl Denhio. ii. p. 347 (1858) ; 8winh. P. Z. S.1863, 
 
 p. 324; Gieb. Thes. Orn. i. p. 354 (1872); van Kempen, Bull 8oc. 
 Zool. Fr. 1889, p. 105 (Dunkerque!). 
@@ -31211,12 +31211,12 @@ J.f.O. 1854, p. 442 (Greenland); Licht Nomencl. Av. p. 103
 
 p. 94) (1854); Beinh. Jbis, 1861, p. 14 (Greenland); Whitely, 
 This, 1867, p. 208 (Hakodadi); Dyb. <$• Parr. J.f.O. 1868, p. 339 
-(Dauria); Wright. Ibis. 1869, p. 254 (Malta!); Harting, P. Z. 8. 
-1871, p. 119 (N. Coast of Greenland); Garrod, P. Z. 8. 1875, 
+(Dauria); Wright. Ibis. 1869, p. 254 (Malta!); Harting, P. Z. S. 
+1871, p. 119 (N. Coast of Greenland); Garrod, P. Z. S. 1875, 
 
 p. 154 (trachea); 8winh. Ibis, 1876, p. 335 (Kanitschatka), 1877, 
 
-p. 147 (Japan); Garrod, P. Z. 8.1878, p. 479 (treaehea) ; Blakist. 
+p. 147 (Japan); Garrod, P. Z. S.1878, p. 479 (treaehea) ; Blakist. 
 §• Fryer, Ibis, 1878, p. 215; 8eeb. Ibis, 1879, p. 22; Blakist. 8r 
 Fryer, Tr. As. 8oc. Jap. viii. p. 186 (1880), x. p. 99 (1882); Hartl 
 
@@ -31891,7 +31891,7 @@ p. 248 (1890).
 (Edemia 
 americana, Puchm*. Bev. et Mag. de Zool. 1850, p. 835; 
 HartL J.f. 0.1855, p. 420; Kirkby, ef. Ibis, 1862, p. 308; SwinL 
-Ibis, 1863, p. 435 (Yangtee); id. P. Z. 8.18fi3, p. 324; Brown, Ibi$7 
+Ibis, 1863, p. 435 (Yangtee); id. P. Z. S.18fi3, p. 324; Brown, Ibi$7 
 1868, p. 426 (Vancouver I.); Coues, Pr. Ess. Imt. v. p. 201(1868); 
 id. Pr. Bost. Soc. N H. xii. p. 125 (1868); Turnb. Birds E. Pa. 
 
@@ -32614,7 +32614,7 @@ LicU. Nomencl Av. p. 103 (1854) (Mexico); Beinh. J.f O. 1854,
 
 p. 142 (Greenland); id. Ibis, 1861, p. 14 (Greenland): Albrechi, 
 J.f. 0. 1862, p. 207 ; March, Pr. Philad. Acad. 1864, p. 72; A. 
-Newt. P. Z. 8. 1867, p. 167 {eg%); Coues, Key, p. 294 (1872); id. 
+Newt. P. Z. S. 1867, p. 167 {eg%); Coues, Key, p. 294 (1872); id. 
 Chech-list, n. 518 (1873); Selat. $* Salu. Nomencl. Ai\ Neotrop. 
 p. 130 (1873); Coues, B. N~West,y. 582 (1874); Selat $ Solo. 
 P. Z. S. 1876, p. 402 (Jamaica); Bress. B. of Eur. vi. p. 6139, 
@@ -33026,7 +33026,7 @@ f. 10 (<S), 12 ($) (1870); G. E. Gr. Hand-list, Iii. p. 88, n. 10705
 (1871) j Stejn. If 0.1873, p. 307 (Norway); Goebel, ibid. p. 422; 
 Beinh. Vid. Medd. Kjbbenh. 1881, p. 188 (Greenland); Walterr 
 J.f.O. 1890, pp. 234, 236 (Norway). 
-Soinateria stelleri, Jard. Brit B. iv. p. 73 (1843): Newt. P. Z. 8.1861, 
+Soinateria stelleri, Jard. Brit B. iv. p. 73 (1843): Newt. P. Z. S.1861, 
 p. 400, pi. xxxix. f. 4 (egg); Sharpe $ Dress, B. of Eur. vi. p. 649, 
 pL 447 (1871); Beg, Synon, Eur. Briitv. u. Gaste, p. 133 (1872) ; 
 Cones, Ibis, 1872, p. 53 ; Gum. ibid. p. 330 (Flaxman'b I>L); Corns, 
@@ -33450,7 +33450,7 @@ Jen. Man. p. 227 (1835); Lafresn. Echo du Monde sav. no. 2,1836,
 p. 5 {cf. Less. Compl. de Buff. 2nd ed. p. 720, 1838); Gould, B. 
 Eur. v. pi. 374 (1837); Sw. Class. B. ii. p. 368 (1837); Bp. Comp. 
 List, p. 57, n. 416 (1838); Rep. Comic. Z. 8. 1839, p. 39; X # B. 
-Wirbelth. Eur. pp. lxxxvi, 228 (1840); Gulliv. P. Z. 8. 1842, p. 72 
+Wirbelth. Eur. pp. lxxxvi, 228 (1840); Gulliv. P. Z. S. 1842, p. 72 
 (muscular fibres); Macgill. Man. ii. p. 177 (1842) ; Hartl. Verz. 
 Ges. Mus. p. 120 (1844); G. R. Gr. List B. Brit. Mus. iii. p. 141 
 (part.) (1844); id. Gen. B. iii. p. 624, n. 1 (syn. emend.) (1844); 
@@ -33467,7 +33467,7 @@ P. Z. S. 1864, p. 495; More, Ibis, 1865, p. 444 (Great Britain):
 A. Newt. Ibis, 1865, p. 515 (Spitsbergen); Cunningh. Ibis, 1866, 
 p. 16; Baird, Ibis, 1867, p. 286 (part.); Begl. §> Gerbe, Orn. Eur. 
 ii. p. 555 (1867); ? Broste, J.f O. 1868, p. 44 (Borkum); Sclat. 
-P. Z. 8. 1869, p. 629 (Zool. Gard.: breeding); Fritsch, J.f.O. 
+P. Z. S. 1869, p. 629 (Zool. Gard.: breeding); Fritsch, J.f.O. 
 1869, p. 46 (Bohemia); Boie, ibid. p. 97 (Lofoten); 8. Milller, 
 ibid. p. 347 (Faroe); Gould, B. of Great Brit v. pi. 26 (1870); 
 Gillett, Ibis, 1870, p. 309 (Nowaja-Semlja); G. R. Gr. Hand-list, 
@@ -33480,7 +33480,7 @@ id. J.f.O. 1872, p. 122 (Novaja Semlja); Fritsch, J.f. 0.1872,
 p. 372 (Bohemia); Finsch, Zweite Deutsche Nordpolfahrt, ii. Vog. 
 p. 209 (1873); Bumf. Ibis, 1874, p. 403 (N. Frisian I.); Heugl 
 Reis. Nordpolarmeer, iii. p. 137 (1874); Cord. Ibis, 1875, p. 186 
-(Heligoland); Sclat P. Z. 8. 1880, p. 528; Brandt, J.f O.1880, 
+(Heligoland); Sclat P. Z. S. 1880, p. 528; Brandt, J.f O.1880, 
 54 . SOMATEKIA. 427 
 p. 249 (note);—?J.f.O.1880,p.404 (Sylt); Gigl Ibis, 1881,p. 215 
 (Italy); Tsehusizu Schmidh. J.f. 0. 1881, p. 212 (E. Hungary) ; 
@@ -33597,9 +33597,9 @@ p. 73 (1846); id. Orn. Beitr. Faun. Grind, p. 69 (1854); Bairdf
 B. N. Am. p. 809 (part.) (1858); id. Cat N.Am. B.n. 600 (part.) 
 (1859); Beinh. (neeLinn.) Bis, 1861, p. 14 (Greenland); Blakht. 
 Ibis, 1863, p. 150 (Hudson's Bay); Baird, Ibis, 1867, p. 286 
-(part.); Brotm, P. Z. 8. 1868, p. 360; Marting, P. Z. 8. 1871, 
+(part.); Brotm, P. Z. S. 1868, p. 360; Marting, P. Z. S. 1871, 
 p. 118 (Baffin's Bay); Coues, KegN Am. B.v. 293, n. 513 (part.) 
-(1872); Fetid. P. Z. 8.1877, p. 29 (Noiman-Lockyer I) ; id. IMsf 
+(1872); Fetid. P. Z. S.1877, p. 29 (Noiman-Lockyer I) ; id. IMsf 
 1877, p. 411; Kumlien, Bull. U.8. Nat. Mm. no. 15, p. 89 (Cumberland 
 Gulf) (1879); Bidgw. Pr. U.8. Nat. Mm. iii. p. 204 
 (1880); id. Norn. N. Am. B. n. 627 (1881); Cbues, ChecMmt, 
@@ -34252,7 +34252,7 @@ Vinson's Vog. a Madag., App. B, p. 4 (1865) ; Layard, Birds of
 Boc. Jorn. Acad. 8c. Lisb. 1872, p. 70 (Rio Coroca); Ayres, Ibis-, 
 1874, p. 105 (Transvaal); Boc. u. Gad. J. f. O. 1876, p. 294; 
 Bchmv. J.f O. 1877, p. 11 (Loango); HartL Lie Vog. Madag. 
-p. 366 (1877); Sclab. P. Z. 8. 1880, pp. 529,534; Fisch. u. Bchmo. 
+p. 366 (1877); Sclab. P. Z. S. 1880, pp. 529,534; Fisch. u. Bchmo. 
 J.f.O. 1880, p. 139(Zanzibar); Boc. Orn. Angola,?. 505 (1881) ; 
 Butl, Feild., $ Beid, Zoolog. 1882, p. 428 (Natal); Bbhm, J.f.O. 
 1882, p. 184 (Zanzibar); Milne~Edw. fy Grandid. Ois. Madag. 
@@ -34263,7 +34263,7 @@ Fischer, J. f. O. 1885, p. 115; 8ymonds, Ibis, 1887, p. 336
 (Shoa) (1888); Tristr. Cat. Coll. B. p. 46 (1889); Sibree, Ibis, 
 1892, pp. 265, 271; Nicholls fy Eglington, 8portsm. in 8. Afr. 
 p. 125 (note) (1893). 
-Erismatura leuconota, Mont. P. Z. 8.1865, p. 89 (Benguela). 
+Erismatura leuconota, Mont. P. Z. S.1865, p. 89 (Benguela). 
 Biziura leuconota, Schleg. Mus. P.-B. Anseres, p. 8 (1866); Gieb. 
 Thes. Orn. i. p. 467 (1872). 
 Clangula leuconota, Chapm. Trav. in 8. Afr. ii. App. p. 423 (1868). 
@@ -34840,7 +34840,7 @@ p. 652, n. 160 (1856); Cab. 8? GundL J.f.O.1857, p. 230 (Cuba) ;
 Baird, B. N. Am. p. 811 (1858); id. Cat. N. Am. B. n. 609 
 (1859); Bryant, Pr. Boat. Soc. Nat. Hist, vii., p. 122 (1859) 
 (Bahamas); Sclat. § Salv. Ibis, 1859, pp. 5,232 (eggs, Guatemala); 
-Sclat. P. Z. 8. 1859, p. 393 (Oaxaca) ; Heerm. P. R. R. Rep. x. 
+Sclat. P. Z. S. 1859, p. 393 (Oaxaca) ; Heerm. P. R. R. Rep. x. 
 pt. vi. p. 70 (1859) (California); ? Taylor, Ibis, I860, p. 315 (Honduras) 
 ; Gundl J.f. 0. 1861, p. 346 (Cuba); Anonymous, Ibis, 
 1862. p. 289 (Martinica): Ross, Canad. Nat. vii. p. 153 (Slave 
@@ -34855,13 +34855,13 @@ G. R. Gr. Hand-list, iii. p. 90, n. 10721 (1871); Coues, Key, p. 295
 Neotrop. p. 131 (1873); Law. Mem. Bost. Soc. N. H. ii. p. 315 
 (1874) (Mexico) ; Deane, Amer. Nat. viii. p. 433 (1874) (Cape Cod, 
 Mass.); Coues, B. N.-West, p. 583 (1874); GundL J.f.O. 1874, 
-p. 314 (Porto Rico), 1875, p. 384 (Cuba) ; Sclat. $ Salv. P. Z. 8. 
+p. 314 (Porto Rico), 1875, p. 384 (Cuba) ; Sclat. $ Salv. P. Z. S. 
 1876, pp. 403, 411; Gundl. Anal. 8oc. Esp. Hist. Nat. vii. p. 407 
 (1878) (Porto Rico); id. J.f 0.1878, pp. 162, 191; Coues, Am. 
-Nat xii. p. 123, fig. of tail-feathers (1878); Sclat. P. Z. 8. 1880, 
+Nat xii. p. 123, fig. of tail-feathers (1878); Sclat. P. Z. S. 1880, 
 p. 530; Cory, B. Bahama Isl. p. 189 (1880); A. $ E. Newt. 
 Handb. Jam. p. 113 (1881); Ridgw. Norn. N. Am. B. n. 634 
-(1881) ; Forbes, P. Z. 8.1882, p. 456 (no bulla ossea) ; Coues, Checklist, 
+(1881) ; Forbes, P. Z. S.1882, p. 456 (no bulla ossea) ; Coues, Checklist, 
 2nd ed. p. 117, n. 741 (1882); id. Key N. Am. B. 2nd ed. 
 p. 715, n. 741 (1884); B., B., $ R. Water-B. N Am. ii. p. 104 
 (1884); Cory, List B. W. Ind. p. 31 (1885); Nehrl. J. f. O. 
@@ -35229,7 +35229,7 @@ t, u. J ad. sk. S. America. Eyton Coll.
 
 
 7. Erismatura australis. 
-Oxyura australis, Gould, P. Z. 8. 1836, p. 85 (Australia) ; id. Syn. B. 
+Oxyura australis, Gould, P. Z. S. 1836, p. 85 (Australia) ; id. Syn. B. 
 Austr. pi. — (head <$ $) (1837). 
 
 Erismatura 
@@ -35612,7 +35612,7 @@ sk. N. Zealand, Feb.
 h. Skeleton. Otagb, New Zealand. Otago Museum [P.]. 
 61. KLEEGAISTETTA. 
 Type. 
-Mersxanetta, Gould, P. Z. 8. 18 M, p. 95 M. armata. 
+Mersxanetta, Gould, P. Z. S. 18 M, p. 95 M. armata. 
 Raphipterus, Gay, Atlas de la Hist. fis. y polit. de Chile, 
 
 pi. — (1844, fide Des Murs, Icon. Orn., genre Merganetta, 
@@ -36111,7 +36111,7 @@ Jap., Aves, p. 129 (1850); JfefiVW. $f&r. ifew. Ii. p. 23tf (1K>3);
 Wolley, 2to,1859, pp. 69-76 (Lapland); itehrenck, Vo//. d. Anwr-
 Lande, p. 486 (I860); IrAy, IMs, 1861, p. 251 (Oudh ani Kumaun); 
 i8z«»A. t&tf. p. 344 (N. China); Gould, B. of Gi. Brit. v. pi 37 
-(pt. ii., 1862); Svrinh. P. Z. 8. 1863, p. 322; Sadde, Mei$. in & O.8ibir. 
+(pt. ii., 1862); Svrinh. P. Z. S. 1863, p. 322; Sadde, Mei$. in & O.8ibir. 
 Ii. p. 379 (1863); G. M. Gr. List Brit. B. p. 213 (MM); 
 Wright IMs, 1864, p. 291 (Malta); Kordm. J.f.O. 1*T4, p. 3?J 
 (Finland and Lapland); ScMeg. Mm. P.-B.t Anseres, p. 0 {Ib$Mlj D^//. 
@@ -38932,7 +38932,7 @@ Tinamus solitarius, Vieill. Enc. Meth. i. p. 373, n. 11 (1820); Pelz.
 Orn. Bras. pp. 290, 453, lv (Rio Janeiro, Mattodentro, Ypanema, 
 Ytarare) (1871); Sclat. fy Salv. Nom. Av. Neotrop. p. 152, n. 1 
 (Paraguay and Brazil) (1873); Bed. J.f.O. 1874, p. 251 (Santa 
-Catharina); Sorbi/, P. Z. 8. 1875, p. 361 (egg); Schleg. Mus 
+Catharina); Sorbi/, P. Z. S. 1875, p. 361 (egg); Schleg. Mus 
 P.-B., Tinami, p. 10 (1880); ? Sclat. List Vert An. 8th ed. p. 545 
 (1883) (Zool. Gard.); Berl. u. Jher. Zeitschr. ges. Orn. 1885, 
 
@@ -39532,7 +39532,7 @@ of the back greyish brown ; flanks bright glossy chestnut; middle
 of the abdomen greyish; tail and upper tail-coverts chestnut. 
 
 Female. Specimens from Ecuador, according to Taezanowski and 
-Count Berlepsch (P. Z. 8. 1885, p. 172), differ from the Bogota male 
+Count Berlepsch (P. Z. S. 1885, p. 172), differ from the Bogota male 
 in the following particulars :—" Upper parts darker, more olive and 
 less rufescent, and with broader barrings ; the rufous colour of the 
 crown darker and more distinctly undulated with black; the cheeks 
@@ -39697,7 +39697,7 @@ Rand-list, iii. p. 4, n. 9868 (1871); Salvin, Ibis, 1874, p. 312
 
 Nothocercus bonapartii, part., Sclat 8f 8alv. Nom. Av. Neotrop, 
 
-p. 152 (Costa Rica) (1873); Boucard {nee G. P. Gr.% P. Z. 8. 
+p. 152 (Costa Rica) (1873); Boucard {nee G. P. Gr.% P. Z. S. 
 1878, p. 41 (Rio Navarro, Costa Rica); Zeled. Cat Av. Costa 
 Rica, p. 29 (1882); id. Pr. U.S. Nat Mus. 1885, p. 112 (Costa 
 Rica); id. An. Mus. Nac. Costa Pica, 1887, p. 128, n. 610. 
@@ -40898,7 +40898,7 @@ do Cap. Gama, Matto Grosso) (1871).
 Nothocercus radiatus, G. R. Gr. Hand-list, iii. p. 4, n. 9885 (1871). 
 Crypturus radiatus, Sclat. fy Salv. Nomenel. Av. Neotrop. p. 152, 
 
-n. 15 (1853) 5 id. P. Z. 8. 1879, p. 642 (Bolivia) (=N. scolopax, 
+n. 15 (1853) 5 id. P. Z. S. 1879, p. 642 (Bolivia) (=N. scolopax, 
 Bp. ?). 
 * This name does not appear in the « Comptes Rendus. (xlii.) whence the 
 'Tableaux Parapeliques' have been extracted, but only in the Extracts, where 
@@ -41570,7 +41570,7 @@ and JSTatterer's descriptions.
 Bab. Barra do Bio Negro, C. Brazil. 
 
 * 21. Crypturus bartletti. (Plate XL) 
-Crypturus bartletti, Sclat. fy Salv. P. Z. 8.1873, p. 311 (E. Peru) ; 
+Crypturus bartletti, Sclat. fy Salv. P. Z. S.1873, p. 311 (E. Peru) ; 
 iid. Norn. Av. Neotrop. p. 152, n. 14 (1873); Bartl. P. Z. & 1882, 
 
 p. 375 (Santa Cruz 011 the Huallaga River, E. Peru); Tacz. Orn. 
@@ -42114,7 +42114,7 @@ Hah. Territory of Tepic, Forth-western Mexico.
 ( W. B. Richardson). (Type of species.) 
 29. Crypturus transfasciatus. 
 Crypturus transfasciatus, ScZat fy Sato. P. Z. S. 1878, p. 141, pi. ariii. 
-(Santa Rosa, Ecuador); Berl § Tacz. P. Z. 8. 1884, pp. 282, 312 
+(Santa Rosa, Ecuador); Berl § Tacz. P. Z. S. 1884, pp. 282, 312 
 (Guayaquil); Tacz. $ Berl. P, Z. S. 1885, p. 121. 
 
 4 . RHOTCHOTTTS. 
@@ -42547,11 +42547,11 @@ Tetrao perdix, Molina {nee Linn.), Sagg. Stor. Nat. Chili (2nd ed.),
 p. 218 (1776). 
 Crypturus perdicarius, Kittl. Mem. des Sav. Strang, i. (1831) p. 192, 
 t. 12; Nathus. J.f. 0. 1879, p. 258 (effg). 
-Nocthura perdicaria, Eraser, P. Z. 8. 1843. p. 115 : Bridges, ibid.: 
-id. P. Z. 8.1846, p. 9 (Chili). 
+Nocthura perdicaria, Eraser, P. Z. S. 1843. p. 115 : Bridges, ibid.: 
+id. P. Z. S.1846, p. 9 (Chili). 
 Nothura 
 perdicaria, G. JR. Gh\ List B. Brit. Mies. iii. p. 53 (part., 
-specim. b, c) (1844); Yarrell, P. Z. 8. 1847, p. 53 (egg); Des 
+specim. b, c) (1844); Yarrell, P. Z. S. 1847, p. 53 (egg); Des 
 Murs in Gay, Hist, de Chile, i. p. 392 (1848); JEartl. Naumannia, 
 1853, p. 221; Cass. U.S. Expl. Exped. ii. Birds, p. 192 (1856); 
 Sara. J.f 0. 1857, p. 39; Germ. Br. Bost. Soc. N. EC. vii. I860, 
@@ -42559,7 +42559,7 @@ Sara. J.f 0. 1857, p. 39; Germ. Br. Bost. Soc. N. EC. vii. I860,
 p. 312; Schleg. Mus. P.-B., Tinanri, p. 40 (1880). 
 Tinamus perdicarius, Hartl. Syst Verz. Ges. Mus. p. 105 (1844). 
 Rhynchotus perdix, G. R. Gr. Gen. B. iii. p. 525, n. 2 (1844); Bp. 
-t'ompt Bend. xlii. p. 881, n. 318 (1856); Sclat. P. Z. 8. 1860, 
+t'ompt Bend. xlii. p. 881, n. 318 (1856); Sclat. P. Z. S. 1860, 
 
 p. 97 (part., Chili); Pelz. Reise Novara, Vog. p. 113 (1865). 
 Rhynchotis perdix, Rchnb. Syn. Av., Gallinaceae, t. 287. if. 1581-82 
@@ -42567,9 +42567,9 @@ Rhynchotis perdix, Rchnb. Syn. Av., Gallinaceae, t. 287. if. 1581-82
 ? Nothura 
 punctulata, JDes Murs in Gay, Hist, de Chile, i. p. 391 
 (1848); Bp. Compt. Rend. xlii. p. 955 (1856) ; id. Tall. Parall 
-Gallin. (Extract), p. 12, n. 339, p. 26 (1856) ; Sclat. P. Z. 8. 1867, 
+Gallin. (Extract), p. 12, n. 339, p. 26 (1856) ; Sclat. P. Z. S. 1867, 
 
-p. 331; cf. Sclat. § Salv. P. Z. 8. 1879, p. 642; Waugh $ Lataste, 
+p. 331; cf. Sclat. § Salv. P. Z. S. 1879, p. 642; Waugh $ Lataste, 
 Act. Soc. Sc. Chili, iv. p. Ixxxviii, n. 28 (Penaflor) (1894). 
 Rhynchotus 
 perdicarius. Licht. Nom. Av. p. 87 (1854); Bp. TabL 
@@ -42593,7 +42593,7 @@ p. 641, n. 3117 (1882); Sclat. Ibis, 1890, p. 82 (quintocubital) ;
 Hartert, Kat Vogeisamml. p. 206, n. 3100 (1891); Berk. James, 
 New List CHI. B. p. 14, n. 253 (1892). 
 Tinamus perdix, Gieb. Thes. Orn. iii. p. 636 (1877). 
-? Nothoprocta punctulata, Sclat P. Z. 8. 1879, p. 461 (Chili). 
+? Nothoprocta punctulata, Sclat P. Z. S. 1879, p. 461 (Chili). 
 
 JL&ult General upper plumage greyish brown; feathers of the 
 
@@ -42752,15 +42752,15 @@ Doring).
 
 6. Nothoprocta curvirostris. 
 Eliynchotis perdix, 
-? Sclat. (nee Mol.) P. Z. 8. 1860, p. 97 (Calacali 
+? Sclat. (nee Mol.) P. Z. S. 1860, p. 97 (Calacali 
 and Puellaro, Ecuador). 
 Nothoprocta curvirostris, Select. Sf Salv. (nee Bp.) Nom. Av. Neotrop. 
-pp. 153,163 (Ecuador) (1873); iid. P. Z. 8. 1874, p. 680; Sorby, 
+pp. 153,163 (Ecuador) (1873); iid. P. Z. S. 1874, p. 680; Sorby, 
 
-P. Z. 8. 1875, p. 361; Tacz. P. Z. 8. 1880, p. 213 (Cutervo, 
+P. Z. S. 1875, p. 361; Tacz. P. Z. S. 1880, p. 213 (Cutervo, 
 N. Peru), 1882, p. 49 (Chirimoto, N.E. Peru) : Bed. $ Tacz. 
-P. Z. 8. 1884, p. 312 (Cechce, 10,000 feet, W. Ecuador); Tacz. $ 
-Berl P. Z. 8.1885, p. 123; Tacz. Orn. Per. iii. p. 306, Tables, 
+P. Z. S. 1884, p. 312 (Cechce, 10,000 feet, W. Ecuador); Tacz. $ 
+Berl P. Z. S.1885, p. 123; Tacz. Orn. Per. iii. p. 306, Tables, 
 p. 107 (1886); Salv. Novit. Zool.ii. p/#22(near Oajamarca) (1895). 
 Tinamus curvirostris, Gieb. Thes. Orn. iii. p. 636 (1877). 
 Nothura curvirostris, Sclileg.Mm. P.-B., Tinami, p. 41 (note) (1880). 
@@ -42819,7 +42819,7 @@ Jan. (0. T. Baron),
 Rhynchotus ornatus, G. JR. Gr. List Gallium Br. Mus. p. 102" 
 (Bolivia) (1867); id. Hand-list, iii. p. 5, n. 9868 (1871). 
 Nothoprocta ornata, Selat. fy Salv. Nom. Av. Neotrop. p. 153, n. 2 
-(1873) ,* iid. P. Z. 8. 1874, p. 680,1879, p. 642 (Bolivia). 
+(1873) ,* iid. P. Z. S. 1874, p. 680,1879, p. 642 (Bolivia). 
 Tinamus ornatus, Gieb. Thes. Urn. iii. p. 637 (1877). 
 Larger than JV". jperdicaria. Upper parts brownish grey, vermiculated 
 and irregularly banded with black and fulvous white; the 
@@ -42843,7 +42843,7 @@ a, b. Ad. st. Bolivia. T. Bridges, Esq.. [P.].
 TI^AMID^!. 
 
 8. ISothoprGcta branickii. 
-Nothoprocta branickii, Tacz. P. Z. 8.1874, p. 563 (Junin, C. Peru); 
+Nothoprocta branickii, Tacz. P. Z. S.1874, p. 563 (Junin, C. Peru); 
 8clat. # Salv. T. Z. 8. 1874; p. 680 j Tacz. Orn. Per. iii. p. 308, 
 Tables, p. 107 (1886). 
 
@@ -43391,30 +43391,30 @@ p. 61.
 Eudromia elegans, If Orb. § Is. Geofr. Mag. de Zool 1832, 01. ii. 
 text to pi. 1 (Patagonia) (1832); Lafr. Rev. Zool. viii. p. 87; I>? Orb. 
 Toy. ii. p. 68 (note 1), p. 302t n. 11 (1835-38); Less, CompL de 
-Buff. 2nd ed. Ois. p. 241, pi. —. f. 1 (1838) : Eraser, P. Z. 8.1843, 
+Buff. 2nd ed. Ois. p. 241, pi. —. f. 1 (1838) : Eraser, P. Z. S.1843, 
 
 p. 116; Bridges, ibid. (Mendoza) ; Hartl. Ind. Azar. Apunt. p. 21 
 (Anm.) (1847); B.p. Compt. Rend. xlii. p. 881, n. 342 (1856); id. 
 Tabl Par all. Gallin. (Extract), p. 12, n. 344 (1856); Burm. J.f.O. 
 1858, p. 161, 1860, p. 259; id. La Plata-Reise, ii. p. 498 (San 
 Luis, Mendoza) (1860); G. R. Gr. Hand-list, iii. p. 6, n. 9910 
-(1871) ; Muds. § Sclat. P. Z. 8. 1872, pp. 545, 549 (Rio Negro) ; 
+(1871) ; Muds. § Sclat. P. Z. S. 1872, pp. 545, 549 (Rio Negro) ; 
 Leyb.Exc.Pamp.Arjent.^. — (1873); id. (v.Mart, traml) J.f O. 
 1875, p. 443; Schleg. Mus. P.-B., Tinami, p. 48 (Chili!) (1880); 
 Burm. Anal Mus. Nac. Buen. Aires, iii. p. 245 (Patagonia) (1888)7 
 p. 318 (1890). 
 Tinamotis elegans, G. R. Gr. Gen. B. iii. p. 525, n. 2 (1844) ; Bridges, 
-P. Z. 8. 1847, p. 28 (Mendoza) ; Rchnb. 8yn. Av., Gallinacese, 
+P. Z. S. 1847, p. 28 (Mendoza) ; Rchnb. 8yn. Av., Gallinacese, 
 t.287. f. 1583 (1848) {ex D'Orb. et Is. Geofr.); G. R. Gr. List 
 Gallium B. M. p. 106 (Chili!, Bridges) (1867); Gieb. Thes. Orn. 
 iii. p. 6S5 (1877). 
 Tinamus (Eudromia) elegans, Schleg. Handl. Dierk. i. p. 399 (1857). 
 Tinamus elegans, Schleg. Dierent. p. 233 (1864). 
 Calodromas elegans, Sclat. § Salv. Nom. Av. Neotrop. p. 153 
-(Argentine) (1873); Sorby, P. Z. 8. 1875, p. 361 (egg); Durnf. 
+(Argentine) (1873); Sorby, P. Z. S. 1875, p. 361 (egg); Durnf. 
 Ibis, 1877, p. 45 (Chuput), 1878, p. 406 (Centr. Patag.); Sclat. 
 
-P. Z. 8. 1879, p. 311 (eggs, Falklands!); id. Zool Voy. Chall, 
+P. Z. S. 1879, p. 311 (eggs, Falklands!); id. Zool Voy. Chall, 
 Birds, p. 152 (eggs) (1881); Barrows, Auk, 1884, p. 318 (Bahia 
 Blanca, Lower Uruguay); Sclat. $* Suds. Argent. Orn. ii. p. 214 
 (1889) ; Bedd. Ibis, 1890, pp. 61-66, ff. 2, 3 (ca*ca); Sclat. Ibis, 
@@ -43535,18 +43535,18 @@ p. 568.
 Eudromia andecolaf, E'Orb. Voy. ii. p. 08 (note 2), p. 302, n. 12 
 (Bolivia) (1835-38). 
 
-Tinamotis pentlandi, Vigors, P. Z. 8. 1836, p. 79 (Andes); id. Lond. § 
+Tinamotis pentlandi, Vigors, P. Z. S. 1836, p. 79 (Andes); id. Lond. § 
 Edinb. Philos. Mag. x. p. 289 (1837); id. Isis, 1838, p. 195; Less. 
 Compl de Buff. 2nd ed. Ois. p. 241 (1838) : G. R. Gr. List Gen. 
 
 B. p. 63 (1840) ; id. op. cit. 2nd ed. p. 82 (1841); G. R. Gr. $ 
 Mitch. Gen. B. iii. p. 525, pi. 137 (1844); Tsch. Arch./. Katurg. 
 1844, i. p. 308, n. 283 (Peru); id. Faun. Per., Aves, pp. 47, 280 
-(1846): Bridges, P. Z. 8. 1847, p. 28 (Tapaquilcha) ; Rchnb. Syn. 
+(1846): Bridges, P. Z. S. 1847, p. 28 (Tapaquilcha) ; Rchnb. Syn. 
 Av., Galliuacea?, t. 287. f. 1588 {ex Gr. $ Mitch.) (1848); Bp. 
 Compt. Rend. xlii. p. 881, n. 343 (1856); id. Tail. Parall. Gallin. 
 {Extract), p. 12, n. 345 (1856); G. R. Gr. List Gallincs B. M. 
-p. 105 (1867); SclaL $ Salu. P. Z. 8. 1867, p. 989 (Arequipa), 
+p. 105 (1867); SclaL $ Salu. P. Z. S. 1867, p. 989 (Arequipa), 
 1868, p. 570; G. R. Gr. Hand-list, iii. p. 6, no. 9911 (1871); 
 SclaL # Sah. Nom. Av. Neotrop. p. 153 (Bolivia and Peru) (1873) ; 
 Tacz. P. Z. S. 1874, p. 564 (Junin); Gieb. Thes. Orn. iii. p. 635 
@@ -43555,7 +43555,7 @@ Ver. Wien, 1884, p. 165 (Cochabamba, Bolivia) ; Tacz. Orn. Pir.
 iii. p. 310 (1886) ; Sclai. P. Z. S. 1886, p. 404 (Huasco, X. Chili), 
 1891, pp. 132, 137 (Sacaya and Canchosa); James, Netv List 
 Chil. B. p. 14, n. 254 (1892). 
-Eudromia sp., Bridges, P. Z. 8. 1846, p. 9 (Tapaquilcha). 
+Eudromia sp., Bridges, P. Z. S. 1846, p. 9 (Tapaquilcha). 
 Tinamus pentlandii, Schleg. Handl. iJierk. i. p. 399 (1857); id. 
 Dierent. p. 233 (1864). 
 Eudromia pentlandii, Schleg. Mus. P.-B., Tinami, p. 47 (1880). 
@@ -44215,14 +44215,14 @@ Diet. Class, d'Hist. Nat. xiv. p. 449 (Brazil, Chili, Peru, Magellan)
 (1828) ; Less. Tr. d'Orn. p. 6, pi. i. f. 2 (1831); ? Wied, Beitr. 
 Naturg. Bras. iv. p. 559 (part., Rio Grande do Sul) (1832); Martin, 
 P. Z. S. 1834, p. 9 ; D'Orb. Voy. ii.p. 303, n. 2 (note) (1835-38); 
-Sio. Class. B. ii. p. 346 (1837); Darwin, P. Z. 8. 1837, p. 35 
+Sio. Class. B. ii. p. 346 (1837); Darwin, P. Z. S. 1837, p. 35 
 (La Plata, South to the Rio Negro) ; Temm. PI. Col. I, Tabl. Meth. 
 p. 88 (1838); Banc. Zool. Voy. Beagle, iii. p. 120 (1841); Gulliv. 
 P. Z. S.1842,p. 141 (blood-corpuscles); G. R. Gr. Gen.B. iii. p. 527, 
 n. 1 (1844) ; id. List B. Brit. Mus. iii. p. 54 (1844); Thienem. Fortpflanz. 
 ges. Vog. Erst Heft, p. 4, t. ii. f. 1 (egg) (1845); id. 
 Rhea, i. Heft, 1846, p. 16, f. 2 (structure of egg-shell); J. E. 
-Gray, Knoiosl. Menag. pi. 12 (1846); Yarrell, P. Z. 8. 1847, p. 54 
+Gray, Knoiosl. Menag. pi. 12 (1846); Yarrell, P. Z. S. 1847, p. 54 
 (egg); Hartl. Lnd. Azar. Apunt. p. 22, n. 339 (1847); Rchnb. 
 Syn. Av., Gallinaceae, t. 388. ff. 2194-95 (1848); id. Av. 8yst. Nat. 
 p. xxx (1852); Hartl. J. f O. 1854, p. 257 (in confinement); 
@@ -44233,22 +44233,22 @@ p. 352 (Sahara, St. Lucia, Lagoa Santa) (1856); Bp. Compt. Rend.
 xliii. p. 841, n. 1 (1856); Wyman, Pr. Bost. 8oc. N. H. vi. p. 127 
 (1857); Burm. J. f O. 1858, p. 154; Homeyer, J. f O. 1859, 
 p. 365 (in confinement); Ed. Bis, 1859, p. 115 (Zool. Gard.); 
-8clat. P. Z. 8. 1859, p. 205 (incubation), 1860, pp. 207, 208, f. 2 
+8clat. P. Z. S. 1859, p. 205 (incubation), 1860, pp. 207, 208, f. 2 
 (head), p. 210; id. Ann. $ Mag. N. H. (3) vi. pp. 142, 143, f. 2 
 (head) (1860); Ed. Ibis, 1860, p. 310 (Zool. Gard.); Burm. J.f O. 
 1860, p. 260 (Mendoza); id. La Plata-Reise, ii. p. 500 (1861); 
 Sclat. Rep. Brit. Assoc. Adv. 8c. for 1861-62, Misc. Comm. p. 158 
 (1862); id. Trans. Z. 8. iv. I860, p. 355, f. 1 (head), pi. lxviii. 
-(1862); Crisp, P. Z. 8. 1862, p. 137 (gall-bladder); 8clat. P. Z. 8. 
+(1862); Crisp, P. Z. S. 1862, p. 137 (gall-bladder); 8clat. P. Z. S. 
 1863, p. 234; Boding, Arch. f Naturg. 1863, i. pp. 213-241 
 (part.); id. Be Rhea Americana, Diss. Zool. pp. 32 (1863); Ed. 
 Ibis, 1864, p. 123; Schleg. De Dierent. p. 236 (1864); Crisp, Rep. 
 Brit. Assoc. Adv. 8c. for 1864, 1865, Misc. Comm. pp. 92, 93; 
 Parker, Phil Trans. 1866, pp. 113-183; Schmidt, Zool. Gart. 
-1866, pp. 8-14; J. L. Eitzinger, t. c. pp. 131-133; Huxley, P. Z. 8. 
+1866, pp. 8-14; J. L. Eitzinger, t. c. pp. 131-133; Huxley, P. Z. S. 
 1867, p. 421, f. 2 (skull); Cunninyh. Ibis, 1868, p. 126 (Patagonia); 
 Anon. Aus der Natur, xliv. oder n. F. xxxii. pp. 300-303, 315318,329-
-333 (1868) ; Sclat. P. Z. 8.1869, p. 628; Nathus. Zeitschr. 
+333 (1868) ; Sclat. P. Z. S.1869, p. 628; Nathus. Zeitschr. 
 f.wiss.Zool 1869, p. 322, t. 26. f. 1; Sternberg, J.f O. 1869, 
 
 p. 275; S\enoner\ Zool. Gart. xi. pp. 34-35 (1870); Holtz, 
@@ -44275,10 +44275,10 @@ Qadow, J. f 0. 1877, pp. 186, 187, 188 (anatomical details);
 Davis, Oologist, iv. 1, March 1878, pp. 5,6 ; Beerbohm, Wander, in 
 Patag. p. 52 (1879); id. Chicago Field, xi. no. 6, March 22, 1879, 
 p 92 • id. Ibis, 1879, p. 386 ;'Gibson,Ibis, 1880, p. 1G7 (Buenos 
-Ayres); Bumf. ibid. p. 414; Schmidt, P. Z. 8.1880, p. 315; Oudot, 
+Ayres); Bumf. ibid. p. 414; Schmidt, P. Z. S.1880, p. 315; Oudot, 
 Lerm. des Autr. p. 220 (1880); Remonchamps, Bull. Ac. Belg. (2) 
 i. p. 115 (1880); id. Arch. Biol. i. p. 583, pi. xxxv. (glande 
-gastrique) (1880); Forbes, Ibis, 1881, p. 361; id. P. Z. 8. 1881, 
+gastrique) (1880); Forbes, Ibis, 1881, p. 361; id. P. Z. S. 1881, 
 pp. 784, 785, figs. 7, 8 (trachea); Reinh. Vid. Medd. Nat. For. i 
 Zjbbenh. 1881, pp. 141-153; id. Ibis, 1882, pp. 322, 332 (fossil, 
 Brazil); Raveret-Wettel, Bull. Soc. Acclim. 1882, p. 64; Sclat. 
@@ -44289,7 +44289,7 @@ captivity); Berenger, ibid. p. 916; v. Boeck, Mitth. om. Ter. in
 Wien, 1884, p. 166 (E. Bolivia and on the Cordilleras of Tacora 
 near Tacna), cf. Ibis, 1886, p. 366; Gibson, Ibis, 1885, p. 283 
 (Paysandu, Uruguay); Gadow, P. Z. S. 1885, pp. 308-322, ff. 1, 4 
-(skull); Claraz, P. Z. 8.1885, pp. 324-327 ; Beddard, t. c. p. 839; 
+(skull); Claraz, P. Z. S.1885, pp. 324-327 ; Beddard, t. c. p. 839; 
 A. Newt. Enc. Brit. 9th ed. xx. p. 505 (1886); Berl. J. f. O. 
 1887, p. 127 ; Zander, 8B. Ges. Konigsb. 1888, pp. 31, 32 ; Burm. 
 An. Mus. Nac. Buen. Air. iii. p. 245 (1888); Sclat. <$• Suds. 
@@ -44315,7 +44315,7 @@ toy. de Rouen, vi. (1771-1780) pp. 142-144 (1819).
 
 Bhea nandu, Less. Man. d'Orn. ii. p. 208 (1828). 
 
-Bhea, Seron, P. Z. 8. 1841, p. 79 (breeding in confinement); id. 
+Bhea, Seron, P. Z. S. 1841, p. 79 (breeding in confinement); id. 
 
 Ann. Sr Mag. N S. ix. pp. 344, 345 (1842); Derby, P. Z. S. 1842, 
 
@@ -44327,7 +44327,7 @@ pp. 182-186 (1860),
 1. KHEA. 
 581 
 Hybrid. 
-Rhea americana 5 X R. macrorhyncha St Sclat. P. Z. 8. 1863, 
+Rhea americana 5 X R. macrorhyncha St Sclat. P. Z. S. 1863, 
 
 p. 234 
 Albino* 
@@ -44398,7 +44398,7 @@ San Francisco, Prov. Pernambuco) (1832); ? Licht Norn. An.
 p. 88 (Brazil) (1854); Burm. Syst. Uebers. Thier. Bras. iii. p. 352 
 (part.) (Campos, interior of Brazil) (1856); Reinh. Vid. Medd. 
 naturh. Foren. Kjobenh. 1870, p. 46 (Rio San Francisco). 
-Rhea inacrorhyncha, Sclat. P. Z. 8. 1860, pp. 207, 208, f. 1 (head), 
+Rhea inacrorhyncha, Sclat. P. Z. S. 1860, pp. 207, 208, f. 1 (head), 
 
 p. 210 (ex patria ignota) ; id. Ann. $ Mag. N. H. (3) vi. pp. 142, 
 143, f. 1 (head) (1860); id. Ibis, 1860, p. 310; id. Hep. Brit. Assoc. 
@@ -44407,12 +44407,12 @@ iv. p. 356, f. 2, pi. lxix. (1862); Cimningh. P. Z. S. 1871, p. 105;
 G. R. Gr. Hand-list, iii. p. 2, n. 9843 (1871) ; Sclat. # Salv. 
 Norn. Av. Neotrqp. p. 154, n. 2 (ex loco ignoto) (1873); Sorting, 
 Ostriches § Ostr. Farm. pp. 92, 93, with fig. of the head (1877); 
-8clat. P. Z. 8. 1877, p. 160 (N.E. Brazil); Gieb. Thes. Orn. iii. 
+8clat. P. Z. S. 1877, p. 160 (N.E. Brazil); Gieb. Thes. Orn. iii. 
 p. 424 (1877); Forbes, Ibis, 1881, pp. 316, 325, 356, 360 (X.E 
-Brazil) 5 id. P. Z. 8. 1881, pp. 784, 786 (trachea); Parker, P. Z. 8. 
+Brazil) 5 id. P. Z. S. 1881, pp. 784, 786 (trachea); Parker, P. Z. S. 
 1883, pp. 141,142 (respiratory organs); Sclat. List Vert. An. 8th 
 ed. p. 553, f. 60 (head) (Maranham and Pernambuco) (1883) ; 
-Finsch, Ibis, 1884, p. 353; Gadoio, P. Z. 8. 1885, pp. 308-322, 
+Finsch, Ibis, 1884, p. 353; Gadoio, P. Z. S. 1885, pp. 308-322, 
 ff. 2, 5 (skull), f. 9 (trachea); ? Claraz,^ t. c. pp. 324, 325 
 (eggs); 8clat. ibid. p. 327 (=either P. americana or Ft. darwini) ; 
 Gadoio, Bronn's Thl r-Reichs, \l 4, Aves, p. 104 (1893); Schal. 
@@ -44486,7 +44486,7 @@ I: 11 (foot); Claraz, P. Z. S. 1885, pp. 324-327; A. Newt Enc.
 Brit 9th ed. xx. p. 506 (1886); Ball, Notes of a Natural in S. 
 Amer.v. 261 (1887); Philippi, Oraw,iv.p.l59 (Atacama) (1888); 
 Sclat. $ Huds. Argent Orn. ii. p. 219, lig. of head (1889); Heine u. 
-Bchnw. Nomencl. Mus. Hein. Orn. p. 305 (1890); Sclat P. Z. 8. 
+Bchnw. Nomencl. Mus. Hein. Orn. p. 305 (1890); Sclat P. Z. S. 
 1890, p. 412 (Tarapaca), 1891, pp. 132,137 (Oanchosa, Tarapaca); 
 Oust Miss. Sc. Cap Horn, Ois. pp. 247, 334 (1891); Sharpe, Cat 
 Ost Specim. P. C. S. iii. p. 419 (1891); Berk. James, New List Chil. 
@@ -44644,12 +44644,12 @@ Dromiceius novae hollandise, Vieill Analyse, p. 54 (1816); Steph.
 Gen. Zool xi. 2, p. 439 (1819) ; Less. Man. ii. p. 210 (1828). 
 Dromaius ater, part, Vieill. N. I), x. p. 212 (1817): Less. Tr. dJOrn. 
 
-p. 9 (part.), pi. 2. f. 2 (1831) ; Parker, P. Z. 8. 1863, p. 517 (sacral 
+p. 9 (part.), pi. 2. f. 2 (1831) ; Parker, P. Z. S. 1863, p. 517 (sacral 
 vertebrae). 
 Dromaeus 
 novae hollandise, Banz. El. di Zool. m. 1, p. 99 (1821) ; 
-Bp. Compt. Rend. xliii. p. 841, n. 4 (1856); Bartl. P. Z. 8. 
-1859, p. 205, 1860, p. 205; 8clat. P. Z. 8. 1860, pp. 211, 248, 
+Bp. Compt. Rend. xliii. p. 841, n. 4 (1856); Bartl. P. Z. S. 
+1859, p. 205, 1860, p. 205; 8clat. P. Z. S. 1860, pp. 211, 248, 
 372; Geoffr. 8t.-Hil. Acclim. et Domed. An. Utiles, €d. iv. 
 
 p. 403 (1861); Sclat Trans. Z. 8. iv. p. 360, pi. lxxv. (1862) ; 
@@ -44657,16 +44657,16 @@ id. P. Z. S. 1863, p. 234 (incubation); Holland, J. f. O. 1864,
 p. 199; Haughton, Pr. B. Irish Acad. ix. pp. 487-497 (muscular 
 system) (1865) ; Hartm. Zool Gart. 1866, pp. 69-72 
 (breeding); Parker, Phil Trans. 1866, pp. 113-183; Murie, 
-P. Z. 8. 1867, pp. 405-475 (tracheal pouch); Huxley, t. c. p. 422, 
-f. 3 (under view of the skull) ; 8clat P. Z. 8. 1869, p. 628 (breeding) 
+P. Z. S. 1867, pp. 405-475 (tracheal pouch); Huxley, t. c. p. 422, 
+f. 3 (under view of the skull) ; 8clat P. Z. S. 1869, p. 628 (breeding) 
 ; 8undev. Meth. nat. Av. disp. Tent p. 152 (1872); CougHrey, 
 Pr. Liverp. 8oc. 1872-73, pp. 293-299 ; id. Ann. $ Mag. JV. H. 
 (4) xii. p. 217 (1873) (tracheal pouch) ; id. Pr. Liverp. Soc. 187273, 
 pp. 327-333 (1873) (heart); Pelz. Ms, 1873, p. 120; Garrod, 
-P. Z. 8.1873, p. 470 (both carotids), p. 644 (muscles); Gieb. Thes. 
+P. Z. S.1873, p. 470 (both carotids), p. 644 (muscles); Gieb. Thes. 
 Orn. ii. p. 59 (part.) (1875): Bodinus, J. f. O. 1876, p. 341 
 (breeding); Harting fy Mosenih. Ostriches 8f Ostr. Farm. pp. 131144, 
-fig. p. 132 (1877); Forbes, P. Z. 8.1877, p. 314, f. 5 (vent); 
+fig. p. 132 (1877); Forbes, P. Z. S.1877, p. 314, f. 5 (vent); 
 Fd. Ibis, 1877, p. 237 (note); Gibson, Pr. Phys. Soc. Fdinb. 187678, 
 p. 200 (reared in Scotland); Nathus. J.f.O. 1879, p. 246; 
 Malm, (Efv. Ah. Fork 1880, pp. 33-43, pi. vi. (tracheal pouch); 
@@ -45048,8 +45048,8 @@ Gr. Gen. B. iii. p. 528 (part.) (1844); id. List B. Brit. Mus. iii.
 1. CASUAEItTS. 
 593 
 p. 54 (1844); TMenem. Fortpflanz. ges. Vogelj p. 2, t. i. f. 1 (1845); 
-Gulliv. P. Z. 8. 1848, p. 37 (blood-corpuscles); Bp. Compt. Rend. 
-xliii. p. 841, n. 6 (1856); G. R. Gr. P. Z. 8. 1800, p. 862 ; Finsch, 
+Gulliv. P. Z. S. 1848, p. 37 (blood-corpuscles); Bp. Compt. Rend. 
+xliii. p. 841, n. 6 (1856); G. R. Gr. P. Z. S. 1800, p. 862 ; Finsch, 
 Neu-Guin. p. 180 (part.) (1865); G. R, Gr. Hand-list, iii. p. 2, 
 n. 9848 (1871); Schleg. Mus. P.-B., Struthiones, p. 9 (1873); 
 Gulliv. P.Z. S. 1875, p. 488, 
@@ -45060,21 +45060,21 @@ Ah. 1819, p. 179; Steph. Gen. Zool. xiv. 2, p. 432, pi. 29 (1819) ;
 Ranz. Elem. di Zool. iii. pt. 1, p. 97 (1821); Vieill. Gal. des Ois. 
 
 ii. p. 77, pi. 225 (1825) ; Merrem in Ersch u. Gruber's Fncycl. 
-xv. p. 348 (1826); A&um, J. f. 0. 1854, p. xxvi; Gould, P. Z. 8. 
+xv. p. 348 (1826); A&um, J. f. 0. 1854, p. xxvi; Gould, P. Z. S. 
 1857, p. 269; Benn. t. c. p. 720; Homey. J. f. 0. 1859, p. 365; 
 8clat. Ibis, 1859, p. 115 ; id. P. Z. S. 1860, pp. 210, 250 ; Blyth, 
 Ibis, 1860, p. 307; Selat. t. c. p. 310; id. Ann. $ Mag. N. II. (8) 
 vi. p. 145 (I860); DesMurs, Tr. oVOologie, p. 362 (1860); Rosenb. 
-J.f. 0. 1861, p. 45 ; Blyth, Ibis, 1862, p. 7b; Crisp, P. Z. 8. 1862, 
+J.f. 0. 1861, p. 45 ; Blyth, Ibis, 1862, p. 7b; Crisp, P. Z. S. 1862, 
 p. 137; 8clat. Trans. Z. 8. iv. p. 358, f. a, and p. 360 (note), pi. 71 
 (1862) ; 8ehleg. Jaarb. zool. Genotsch. Nat. Art. Mag. 1862, p. 196 ; 
-8clat. P. Z. 8.1863, p. 234; 8chleg. Dierent., Vogels, p. 238 (1864); 
-8clat. P. Z. 8. 1806, p. 168; F. 8chleg. Zool. Gart. 1866, p. 177; 
-Sclat. P. Z. 8.1867, p. 179 ; Midler, t. c. p. 252 ; Kreff't, t. c. p. 483 j 
-Sclat. P. Z. 8. 1868, p. 376, 1869, p. 628 ; Wall. Malay Archip. 
-ii. p. 156 (1869); Flower, P. Z. 8. 1871, pp. 32, 33, 34, 35 ; Sclat. 
-P. Z. 8. 1872, pp. 150, 495; Gieb. Thes. Orn. i, p. 595 (1872) ; 
-Garrod, P. Z. 8. 1873, p. 644; Rosenb. J. f. O. 1873, p. 390; 
+8clat. P. Z. S.1863, p. 234; 8chleg. Dierent., Vogels, p. 238 (1864); 
+8clat. P. Z. S. 1806, p. 168; F. 8chleg. Zool. Gart. 1866, p. 177; 
+Sclat. P. Z. S.1867, p. 179 ; Midler, t. c. p. 252 ; Kreff't, t. c. p. 483 j 
+Sclat. P. Z. S. 1868, p. 376, 1869, p. 628 ; Wall. Malay Archip. 
+ii. p. 156 (1869); Flower, P. Z. S. 1871, pp. 32, 33, 34, 35 ; Sclat. 
+P. Z. S. 1872, pp. 150, 495; Gieb. Thes. Orn. i, p. 595 (1872) ; 
+Garrod, P. Z. S. 1873, p. 644; Rosenb. J. f. O. 1873, p. 390; 
 Nathus. J.f.O. 1874, p. 10; Sclat. P.Z. 8. 1875, pp. 86, 87; 
 Harting, Ostriches Sf Ostr. Farm. p. 103, with pi. (1877); Sclat, 
 P. Z. S. 1878, pp. 80, 214; Meyer, J. f. O. 1878, p. 202 ; Nathus. 
@@ -45137,7 +45137,7 @@ Zool. Soc.
 4. Casuarius australis. 
 
 Casuarius australis, Wall, Illusfr. Sijdn. Herald, 1854, 3rd June; 
-Gould, P. Z. S. 1857, pp. 209, 270; G. E. Gr. P. Z. 8. 1858, 
+Gould, P. Z. S. 1857, pp. 209, 270; G. E. Gr. P. Z. S. 1858, 
 
 p. 196 • id. Cat B. New Guin. p. 61 (1859): Sclat. P. Z. S. 1860, 
 p. 210; id. Ibis, I860, p. 310; id. Tr. Zool. Soc. iv. p. 360 (1862) ; 
@@ -45153,7 +45153,7 @@ Orn. i. p. 594 (1871) ; Schleg. Mm. P.-JB., Struthiones, p. 9
 (1873); Earns. P. Z. S. 1874, p. 325 ; Sclat. P. Z. S. 1875, pp. 2, 
 82, 85, 86, 87; id. Nature, xii. p. 516 (1875; ; Sorby, P. Z. S. 1875, 
 p. 362 ; Sclat. P. Z. S. 1875, p. 469 (a second specimen in confinement), 
-& p. 527; Rains. P. Z. S. 1876, p. 119 & foil.; Sclat. P. Z. 8. 
+& p. 527; Rains. P. Z. S. 1876, p. 119 & foil.; Sclat. P. Z. S. 
 1876, p. 414; Rams. Pr. Linn. Soc. N. 8. W. i. p. 186 (1876), ii. 
 p. 196, n. 559, & p. 376, pi. xi. (head) (1877) ; Krefft, P. Z. S. 1877, 
 P« „ . „ ... 
@@ -45168,7 +45168,7 @@ Ilockingham Bay) (1888); Lumholtz, Among CannibaU, pp. 98,
 Schal Zeitschr.f. Oologie, 1892, p. 11; id. J.f.O. 1894, p. 24. 
 Casuarius johnsouii, F. Maell. Australasian, Dec. 15th, 1860; id. 
 
-P. Z. 8.1867, p. 242; Benn. $ Carron, ibid. pp. 473, 474; Krefft, 
+P. Z. S.1867, p. 242; Benn. $ Carron, ibid. pp. 473, 474; Krefft, 
 ibid. p. 483; Biggies, Orn. of Austr. pts. xii., xiil; Ibis, 1868, 
 p. 348; Krefft, Ibis, 1869, p. 348; Newt. Ibis, 1870, p, 120. 
 Casuaris regalis (e?%rore), Eosenb. J.f 0.1873, p. 390. 
@@ -45254,7 +45254,7 @@ Ostrichesfy Ostr. Farm. p. 107 (1877): Forbes, P. Z. S. 1877, pp.
 307, 316 (cloaca and bursa Fabricii); SJiarpe, Ibis, 1877, p. 325 ; 
 Sclat Sf Salv. Ibis,1877,-p. 372 (note) : Oust Assoc. Sc. de France, 
 Bull. no. 539, p. 350 (1878); Meyer, J.f.O. 1878, pp. 202. 300; 
-Salvad. Ami. Mus. Civ. Gen. xii. pp. 421,422 (1878); Sclat. P. Z. 8. 
+Salvad. Ami. Mus. Civ. Gen. xii. pp. 421,422 (1878); Sclat. P. Z. S. 
 1878, p. 214; Sclat. $ Salv. Ibis, 1878, p. 481,1879, p. 96; I)1 Alb. 
 $ Salvad. Ann. Mus. Civ. Gen. xiv. pp. 136-145, ff. pp. 137, 139, 
 140, 141, 142, 143 (1879); Ed. Ibis, 1879, p. 482; Sclat. List 
@@ -45316,7 +45316,7 @@ specimen/.
 Casuarius, n. sp., Blyth, Ibis, 1800, v. 193 ; Sclat. P. Z. S. 1860, 
 p. 210; id. Ann. % Mag. Nat. Hist (3) vl p. 145 (I860). 
 Casuarius 
-uniappendiculatus, Blyth, J. A. 8. B, xxix. p. 112 (juv.) 
+uniappendiculatus, Blyth, J. A. S. B, xxix. p. 112 (juv.) 
 (1860); id. Ann. $ Mag. Nat. Hist. (3) vi. p. 113 (1860); Sclat. 
 ibid, (note); Blyth, Ibis, 1860, p. 307; Sclat. t. c. p. 310; Bennett, 
 
@@ -45441,8 +45441,8 @@ c. Pull. St. Jobi. L. Laglaize V
 (1828) ; id. Mam dJOrn. ii. p. 209 (part.) (1828); id. Tr. d'Orn. 
 
 p. 7 (part.) (1831) ; Sclat. Journ. Linn. Soc. ii. p. 168, sp. 152 
-(1858); G. P. Gr. P. Z. 8. 1858, p. 196 (part.); id. Cat. JB. New 
-Guin. pp. 50, 61 (part.) (1859); id. P. Z. 8. 1861, p. 438; Finsch, 
+(1858); G. P. Gr. P. Z. S. 1858, p. 196 (part.); id. Cat. JB. New 
+Guin. pp. 50, 61 (part.) (1859); id. P. Z. S. 1861, p. 438; Finsch, 
 Nm-Guin. p. 180 (part.) (1865). 
 ? Casuarius orientalis, 8. Mull. Verh. Land-en Volkenh. p. 109 (part.) 
 (1839-44). 
@@ -45455,29 +45455,29 @@ Posenb. J. f. 0. 1873, pp. 390, 391; Meyer, Sitzb. k. Ak. Wiss.
 
 Wien, lxix. pp. 216, 217 (1874); Select. Ibis, 1874, p. 417; id. 
 
-P. Z. 8. 1875, pp. 85, 87; Posenb. Peist. naar Geelvinkb. pp. 84, 
+P. Z. S. 1875, pp. 85, 87; Posenb. Peist. naar Geelvinkb. pp. 84, 
 117,144, pi. xvii. (1875); Bece. Ann. Mus. Civ. Gen. vii. p. 717 
 (1875); 8alrad. ibid. p. 796 (Andai) (1875); Sclat. Ibis, 1876, 
 p. 258; Harting, Ostriches $ Ostr. Farm. p. 118 (1877); Oust. 
-P. Z. 8.1878, p. 389; Meyer, J.f.O. 1878, pp. 200, 201, 203, 299; 
+P. Z. S.1878, p. 389; Meyer, J.f.O. 1878, pp. 200, 201, 203, 299; 
 Ibis, 1878, p. 482, 1879, p. 96; Posenb. Malay. Archip. pp. 563, 
 595 (1879); Salvad. Mem. P. Ac. 8c. Tor. (2) xxxiv. p. 210, tav. ii. 
 f. 8 (head) (1881); id. Ami. Mus. Civ. Gen. xviii. p. 414, n. 7 
 (1882); id. Orn. Pap. e Mol. iii. p. 495 (1882); Schal. J. f. O. 
 1894, p. 20 (egg). 
-Casuarius kaupi, Sclat (nee Posenb.) P. Z. 8. 1871, p. 627 (Mansinam), 
+Casuarius kaupi, Sclat (nee Posenb.) P. Z. S. 1871, p. 627 (Mansinam), 
 1872, pp. 147,149, 150, pi. ix. (Mansinam), 1873, p. 474; 
 Meyer, Sitz. k. Ak. Wiss. Wien, lxix. pp. 216, 217 (1874); Sclat. 
-Ibis, 1874, p. 417 (note); Oust. P. Z. 8.1878, p. 389. 
+Ibis, 1874, p. 417 (note); Oust. P. Z. S.1878, p. 389. 
 
-Casuarius papuensis, " Posenb.;1 Sclat. P. Z. 8. 1872, pp. 149,150. 
+Casuarius papuensis, " Posenb.;1 Sclat. P. Z. S. 1872, pp. 149,150. 
 
 Casuarius westermanni, Sclat. P. Z. S. 1874, p. 248 (type examined); 
 id. Ibis, 1874, p. 417 (note) ; id. P. Z. S. 1875, pp. 85, 87, 380, 
 pi. xix.; id. Nature, xi. p. 516 (1875); id. Ibis, 1876, pp. 245, 
 258; Harting, OstrichesfyOstr. Farm. p. 119 (1877); Sharpe, Ibis, 
 1877, p. 325; Gould, B. of Neto Gain. v. pi. 15 (pt. v., 1877) ; 
-Meyer, J.f O. 1878, pp. 200, 201, 203, 299; Oust. P. Z. 8. 1878, 
+Meyer, J.f O. 1878, pp. 200, 201, 203, 299; Oust. P. Z. S. 1878, 
 
 600 CASUABIIDJ3. 
 
@@ -45517,7 +45517,7 @@ Casuarius picticollis, Selat. Pep. Brit Assoc. 1874, p. 138; id. P. Z. S.
 (young, Milne Bay) ; id. Pep. Brit. Assoc. 1875, p. 112; id. J.f.O. 
 1876, p. 258; id. >. Z. S. 1876, p. 414 (specim. in confinement); 
 id. list Vert. An. 6th ed. p. 423 (1877); Gould, B. New Guin. v. 
-pi. 14 (pt v., 1877); Forbes, P. Z. 8. 1877, pp. 307, 315, 316 
+pi. 14 (pt v., 1877); Forbes, P. Z. S. 1877, pp. 307, 315, 316 
 (cloaca); Harting, Ostrichesfy Ostr. Farm. p. 121 (1877); Sharpe, 
 Ibis, 1877, p. 352 ; Meyer, J.f O. 1878, p. 203 ; Selat Ibis, 1879, 
 
@@ -45607,7 +45607,7 @@ P. Z. S. 1878, p. 390; Meyer, J.f.O. 1878, p. 203; Ibis,
 aauxmiBja. 
 
 1879, p. 96 ; ScM. P. Z. S. 1870, p. 5 (note); id. List Vert An. 
-7th ed. p. 473 (1879); Lm/nrd, litis, 1880, p. 303; Powell, P. Z. 8. 
+7th ed. p. 473 (1879); Lm/nrd, litis, 1880, p. 303; Powell, P. Z. S. 
 1880, p. 493 ; Scdvad. Mem. JR. Ac. So. Tor. (2) xxxiv. p. 214, 
 tav. ii. f. 10 (head) (1881); id. Ann. Mm. Civ. Gen. xviii. p. 415, 
 
@@ -45741,49 +45741,49 @@ Temm. Man. d'Orn. 2nd ed. i. p. cxiv (lfc>20); 8teph. Gen. ZooL
 xiii. 1, p. 71 (1826); Banz. Blem. ai ZooL iii. 0, p. 295 (1826) ; 
 Less. Man, d'Orn. ii. p. 211 (1828); id. Votj. Coq.% Zool. i. p. 418 
 (1828) (Bay of Islands); Cuv. Beqn. An. 2nd ed. i. p. 498 (note) 
-(1829); less. Tr. dOrn. p. 12 (1831); Tarr. P. Z. 8. 1833, 
+(1829); less. Tr. dOrn. p. 12 (1831); Tarr. P. Z. S. 1833, 
 pp. 24,80; id. Trans. Zool. Soc. i. pp. 71-76, pi. x. (type) (1833); 
-MacLeay, P. Z. 8. 1835, p. 61; Tarr. Isis, 1836, pp. 386-389; 
-Short, P. Z. 8. 1837, p. 24 (liung specimens) ; Less. Compl deBvff. 
+MacLeay, P. Z. S. 1835, p. 61; Tarr. Isis, 1836, pp. 386-389; 
+Short, P. Z. S. 1837, p. 24 (liung specimens) ; Less. Compl deBvff. 
 , 
-2nd ed. Ois. p. 71, pi. — (1838) ; Given, P. Z. 8. 1838, pp. 4851, 
-71, 72, 105-110 (anatomy); Ounningh. P. Z. 8. 1839, pp. 63, 
+2nd ed. Ois. p. 71, pi. — (1838) ; Given, P. Z. S. 1838, pp. 4851, 
+71, 72, 105-110 (anatomy); Ounningh. P. Z. S. 1839, pp. 63, 
 05 (habits); id. Ann. $ Mag. N. H. iv. pp. 312-314 (1840); 
 id.Fror. Notiz. xiv. pp. 177-179 (1840); Given, Trans. Zool. 8oc. 
 
-ii. pp. 257-301, pis. 47-55 (1841) (anatomy); Gould, P. Z. 8. 
-1841, p. 70; Owen, P. Z. 8. 1842, pp. 22-41 (myology); G. B. 
+ii. pp. 257-301, pis. 47-55 (1841) (anatomy); Gould, P. Z. S. 
+1841, p. 70; Owen, P. Z. S. 1842, pp. 22-41 (myology); G. B. 
 Gr. List B. Brit. Mus. iii. p. 55 (1844) ; Gray "$• Mitch. Gen. 
-B. iii. p. 530, pi. cxxxix. (1846); Owen, P. Z. 8. 1846, p. 49 
+B. iii. p. 530, pi. cxxxix. (1846); Owen, P. Z. S. 1846, p. 49 
 (femur); id. Trans. ZooL 8oc. iii. 1842, pp. 278-301, pis. xxxi.xxxiv. 
-(myology), pi. xxxv. (female organs) (1849); Strange, P. Z. 8. 
+(myology), pi. xxxv. (female organs) (1849); Strange, P. Z. S. 
 1847, p. 51 ; Gould, t c. pp. 93, 94; Bchnb. Syn. Av., Grallatores, 
 t. 143. ff. 1015-16 (1845), Gallinacege, t. 386. ff. 219192 
 [ex Yarrell), I 2193 {ex Gr. $ Mitch.) (1848); MantelL 
-P. Z. 8.1850, p. 211; Bartl. t c. p. 275, pi. xxx. ff. 1, 2 (head and 
+P. Z. S.1850, p. 211; Bartl. t c. p. 275, pi. xxx. ff. 1, 2 (head and 
 wing), pi. xxxi. f. 1 (foot); Bchnb. Av. Syst Nat. p. xxx (1852) ; 
 Bareste, Compt. Rend. xlii. pp. 861-863 (brain) (1856) ; id. 
 Institut, xxiv. p. 167 (1856); id. Ann. 8c. Nat. (3) ZooL x. pp 4850 
 (1856) ; Bp. Compt. Rend. xliii. p. 841, n. 21 (1856); 8clat. # 
 Hochst. Bep. Brit. Assoc. Adv. Sci. 1861, p. 116; iid. Nat. Hist. 
-Bev. 1861, p. 504; G. B. Gr. Ibis, 1862, p. 233 ; Barker, P. Z. 8. 
+Bev. 1861, p. 504; G. B. Gr. Ibis, 1862, p. 233 ; Barker, P. Z. S. 
 1 . APTERXX. 605 
 1863, p. 511 (sacral vertebrae) ; Hector, Neio Zeal Fxh. p. 276 
-(Otago) (1866); Huxley, P. Z. 8. 1867, p. 424 (under view of the 
+(Otago) (1866); Huxley, P. Z. S. 1867, p. 424 (under view of the 
 skull); Haast, J.f 0. 1868, p. 243; Potts, Trans. N. Z. Inst ii. 
 1869, p. m (eg*r) (1870); Owen, P. Z. S. 1870, p. 334; id. Trans. 
 
 Z. 8. vii. 1870, pp. 381-385, pis. 45, 46 (anatomical details) 
 (1871); Finsch, J.f. 0. 1870, p. 337; G. 22. Gr. Hand-list, in. 
 p. 3, n. 9853 (1871); Hutton, Cat. B. New Zeal p. 23 (1871); 
-Potts, Ibis, 1872, p. 36 (var.); Sclat. P. Z. 8. 1872, p. 861; Gieb. 
+Potts, Ibis, 1872, p. 36 (var.); Sclat. P. Z. S. 1872, p. 861; Gieb. 
 Thes. Orn. i. p. 391 (1872); Finsch, J.f.O. 1872, p. 263; id. 
 Trans. N Z. Inst. v. 1872, p. 211 (1873) ; Schlep. Mus. P.-B., 
 Struthiones, p. 7 (1873); Bull. Hist. B. New Zeal p. 365 (1873); 
 Haast,Ibis, 1874, pp. 174, 215 ; Finsch^ J.f.O. 1874, p.220 (part.); 
 Bowl Orn. Misc. i. pp. 18, 19, pi. iv. (juv.) (1875) ; v. Hilgel, 
 Ibis, 1875, p. 394; Harting, Ostriches fy Osfr. Farm. p. 178 
-(1877); Forbes, P. Z. 8. 1881, pp. 781, 782 (trachea) ; Bull. Man. 
+(1877); Forbes, P. Z. S. 1881, pp. 781, 782 (trachea) ; Bull. Man. 
 N. Zeal B. p. 45, pi. xxii. (1882); Sclat List Vert. An. 8fch ed. 
 p. 547, n. 1431 (1883); Bedd. P. Z. S. 1885, pp. 188, 189 (heart); 
 B. Lankester, t. c. pp. 239, 240 (heart); Owen, t. c. pp. 328, 329 
@@ -45930,11 +45930,11 @@ i. pp. 158, 659 (1830) (Bay of Tolaga); Gould, B. Austr. vi. pi. 2
 (1845); Jacq. $ Puoh. Voy. Pole Sud, Ois. iii. p. 127 (1853;; 
 Marti J.f.O. 1854, p. 166; Gould, Handb. B. Austr. ii. p. 568 
 (part.) (1865); Bull Tr. N. Zeal. Inst, iii. 1870, p. 52, pi. xii b. 
-(head) (1871); Sclat. P. Z. 8. p. 479; Finsch, J. f O. 1874, 
+(head) (1871); Sclat. P. Z. S. p. 479; Finsch, J. f O. 1874, 
 p. 220 (part.); Fimch, Ibis, 1882, p. 399 (King's Country, N. 
 Island). 
 Apteryx 
-mantelli, Bartl P. Z. 8. 1850, p. 275, pi. xxx. ff. 3, 4 
+mantelli, Bartl P. Z. S. 1850, p. 275, pi. xxx. ff. 3, 4 
 (head), pi. xxxi. i. 2 (foot) (North Island); JSrewm. Fror. Taqsber. 
 no. 664 (Zool iii.) pp.210, 212 (habits) (1852); Wolley, Zoologist, 
 
@@ -45943,9 +45943,9 @@ Bend, xliii. p. 841, n. 22 (1856); Fd. Ibis, 1859, p. 115; Sclat.
 P. Z. S. 1859, p. mO (egg), 1860, p. 194 (egg); Sclat. $ Hochst. 
 Pep. Brit. Assoc. Adv. 8c. 1861, p. 177; iid. Nat. Hist. Rev. 1861, 
 p. 505; G. R. Gr. Ibis, 1862, p. 233; Layard, Ibis, 1863, p. 242; 
-Sclat. P. Z. 8. 1863, p. 234 (N. Island), 1864, p. 374 (Auckland! 
+Sclat. P. Z. S. 1863, p. 234 (N. Island), 1864, p. 374 (Auckland! 
 living specimen) ; Gould, Handb. B. Austr. ii. p. 569 (1865) ; 
-Finsch, J.f.O. 1867, pp. 329-331; Bowl. P. Z. 8. 1867, p. 894; 
+Finsch, J.f.O. 1867, pp. 329-331; Bowl. P. Z. S. 1867, p. 894; 
 JEd. Ibis, 1868, pp. 251, 504 (incubation); Potts, Tr. N. Z. Inst. ii. 
 1869, p. 67 (egg) (1870); Hutton, Ibis, 1870, p. 398 (Auckland); 
 Finsch, J.f.O. 1870, pp. 337-339 ( = australis?); Buller, Tr. 

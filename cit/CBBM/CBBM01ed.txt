@@ -3480,7 +3480,7 @@ h. £ ad. sk. Tinta, June 28,1869. Henry Whitely, Esq., Jun. I P.J.
 I S juv. sk. Tinta, June 28,1869. Henry Whitely, Esq., Jun. [P.], 
 h. Skeleton. 
 4. Ibycter albigtilaris. 
-Polyborus albogularis, Gould, P. Z. 8.1837, p. 9. 
+Polyborus albogularis, Gould, P. Z. S.1837, p. 9. 
 
 Milvago albogularis, JDarwin, Vox/, Beagle, Birds, p. 13, pi. 1 (1841); 
 Strichl Orn. Syn. p. 22 (1855); 8cl Ibis, 1861, p. 23; Gray, 
@@ -3975,7 +3975,7 @@ t (1869).
 Serpentarius secretarius, Gray, Cat, Acciptr. Brit Mus. p. 77 (1848). 
 Sagittarius secretarius, StricM. Orn. Syn. p, 144 (1855) j Gurney in 
 Anderss. B. Bam. Ld. p. 34 (1872). 
-Serpentarius orientalis, Verr. P. Z. 8.1856, p. 352. 
+Serpentarius orientalis, Verr. P. Z. S.1856, p. 352. 
 Astur secretarius, ScU. Mus. P.~B. Astures, p. 28 (1862). 
 Sagittarius serpentarius, Finsch u. Hartl Vog. Ostafr. p. 93 (1870). 
 
@@ -4117,7 +4117,7 @@ Gymnogenys madagascariensis, Less. Traite, p. 64 (1831).
 Polyboroides radiatus, Gray, List Gen. J?, p. 5 (1840) ; id. Gen. B. i. 
 
 p. 31, pi. 11.fig. 2 (1845) ; Bp. Consp. i. p. 12 (1850); JZartl Faun. 
-Madag. p. 21 (1861) ; Scl P. Z. 8. 1863, p. 161; Grand. Rev. et 
+Madag. p. 21 (1861) ; Scl P. Z. S. 1863, p. 161; Grand. Rev. et 
 Mag. de Zool. 1867, p. 321. 
 Gymnogenys radiatus, Kaup, Mus. Sench. iii. p. 260 (1845). 
 Circaetus radiatus, Kaup, Isis, 1847, p. 262. 
@@ -4148,7 +4148,7 @@ Purchased.
 
 Polyboroides typicus, 8mith, 8. Afr. Q. J. i. p. 107 (1830); id. IlL 
 Zool 8. Afr. pis. 81, 82 (1849); Marti, Orn. IF. Afr. pp. 2, 269 
-(1857),-Cass. Proc. Phil. Acad. 1859, p. 30; 8el P. Z. 8. 1863, 
+(1857),-Cass. Proc. Phil. Acad. 1859, p. 30; 8el P. Z. S. 1863, 
 
 p. 162; Layard, B. 8. Afr. p. 32 (1867); Gurn. Ibis, 1868, p. 146 j 
 Sharpe, Ibis, 1869, p. 194 • Fimeh u. Karil Yog. Ostafr. p. 95(1870); 
@@ -5756,7 +5756,7 @@ Ibis, 1870, u. 392 j SchL Mus. P.-B. Heme Aceipitr. p. 51 (1873).
 Circus approximans, Peak, U. 8. Expl. Exp. p. 64 (1848). 
 Circus gouldi, Bp, Co?isp. i. p. 34 (1850); id. Rev. Zool 1850, p. 491; 
 Gray, Ibis, 1862, p. 215; Boiler9 B. N. Zeal part 1 (1872). 
-Circus wolfi, Gumey, P. Z. 8. I860, p. 823, pi. xliv. 
+Circus wolfi, Gumey, P. Z. S. I860, p. 823, pi. xliv. 
 
 Young. Above uniform sooty brown; the nape and hind neck 
 
@@ -5828,7 +5828,7 @@ p. Juv. sk. New Zealand. Purchased.
 I have not had an opportunity of examining the following species:— 
 
 15. Circus macroscelis. 
-Circus macrosceles, A. Newton, P. Z. 8.1863, p. 180; 22. Nexut. Ibis. 
+Circus macrosceles, A. Newton, P. Z. S.1863, p. 180; 22. Nexut. Ibis. 
 1863, p. 337; Gurney, Ibis, 1869, p. 451; Gray, Hand-l. R i. 
 
 p. 36 (1869). 
@@ -6931,7 +6931,7 @@ Falco carbonarius, Ztcht. Verz. Vog. Kaffernl. p. 11 (1842).
 Circus maurus, Hupp. Syst. Uebers. p. 12 (1845, err.). 
 Accipiter carbonarius, Gray, Gen. of B. i. p. 29 (1849); StricTd. 
 
-P. Z. 8.1850, p. 215. 
+P. Z. S.1850, p. 215. 
 Micronisus niger, Bp. Consp. i. p. 33 (1850); id. Bev. et Mag. de 
 Zool ia54,p.538; JSeugllbis, 1861, p. 74; 8&!&>,1864,p.306; 
 Gray, Sand-l B. i. p. 35 (1869). 
@@ -7595,7 +7595,7 @@ Nisus trinotatus, Schl. Mus. JP.-B. Astuies, p. 45 (1862); id. Yog.
 
 Nederl Ind. Valhv. pp. 27, 65, pL 19. figs, 1-3 (1866); id. Memw 
 Actipitr. p. 90 (1873). 
-ErytTirospiza trinotata, EJaup, P. Z. 8. 1867, p. 172: Walden, Tr. Z. 
+ErytTirospiza trinotata, EJaup, P. Z. S. 1867, p. 172: Walden, Tr. Z. 
 
 8. viii. p. 33 (1872). 
 Young. Above bright ferruginous red, the head and hind neck 
@@ -7652,13 +7652,13 @@ Esq. [ CEsq. \ C.I,
 . 
 
 8. Astur mueHeri 
-Accipiter muelleri, Wall. P. Z. 8.1865, p. 475; id. Ihk, 1868. p. 9: 
+Accipiter muelleri, Wall. P. Z. S.1865, p. 475; id. Ihk, 1868. p. 9: 
 Gray, Kand-l B. i. p. 35 {1869). 
 
 22 . ASTUR. 
 103 
 Kisus cruentus, Schl Vog. Neclerl bid. ValH\ pi. 14.fig. 1 (1806). 
-Accipiter griseogularis (pt.), Kaup, P. Z. 8. 18(57, p. 175. 
+Accipiter griseogularis (pt.), Kaup, P. Z. S. 18(57, p. 175. 
 Xisus ralilleri, Giebel, Oni. Hies. p. 204 (1872). 
 Nisus rufitorques (pt.), Schl Mus. P.-JB. Revue Acdpitr. p. 80 (1873). 
 
@@ -7736,7 +7736,7 @@ Pole Sud, Zool p. 48, pi. 2. fig. 1 (1853) ; Strickl Orn. Syn. p. 112
 
 Sparvins Mogaster, Bp. JRev. et Mag. de Zool. 1854, p. 538. 
 
-Astur Mogaster, Gray, P. Z. 8. 1860, p. 343. 
+Astur Mogaster, Gray, P. Z. S. 1860, p. 343. 
 
 Nisus Mogaster, Sold. Mus. P.~B. Astures, p. 43 (1862)j id. Yog. 
 
@@ -7838,7 +7838,7 @@ Accipitr. 1844,^ p. 33.
 
 Lophospizia trivirgatus, Kaup, Contr. Orn. 1850, p. 65; Gray, Cat. 
 Hodgs. Coll 1863, p. 19? Hume, Pough Notes, i. p. 116 (1869); 
-Swirik. P. Z. 8.1871, p. 341. 
+Swirik. P. Z. S.1871, p. 341. 
 
 Young. Above brown, with a fully developed occipital crest, upper 
 tail-coverts banded with darker brown and tipped with white; 
@@ -7909,7 +7909,7 @@ Astur griseiceps, Schl. Mm. P.-J9. Astures, p. 28 (1862); Wall Ibis,
 pi. 11. figs. 1, 2 (1866) ; Wall. Ibis, 1868, p. 6 j Gray, EandA. B. 
 I p. 30 (1869); Schl Kevue Aceipitr. p. 67 (1873). 
 
-Lophospiza griseiceps, Kaup, P. Z. 8.1867, p. 178; Waldm, Ti\ Z. S. 
+Lophospiza griseiceps, Kaup, P. Z. S.1867, p. 178; Waldm, Ti\ Z. S. 
 viiL p. 33 (1872). 
 
 Young, Above brown, the feathers with a purplish gloss and 
@@ -8083,8 +8083,8 @@ Nisus dussumieri, Zess. Man. d'Orn. i. p. 99 (1828) j id. Traite, p. 59
 (1831); Bp. Rev. et Mag. de Zool 1834, p. 538. 
 Astur dussumieri, Cuv. Begne An. i. p. 332 (1829); Blyth, Ann. N. 
 
-H. sii. p. 91 (1843); id. J. A. 8. B. xii. p. 308 (1843). 
-Accipiter dukhunensis, Sykes, P. Z. 8. 1832, p. 79, et J. A. 8. B. hi. 
+H. sii. p. 91 (1843); id. J. A. S. B. xii. p. 308 (1843). 
+Accipiter dukhunensis, Sykes, P. Z. S. 1832, p. 79, et J. A. S. B. hi. 
 p. 419 (1834) ; Jerd. Madr. Joum. x. j . 83 (1839). 
 Accipiter badius, SiricM. Ann. N. H. xiii. p. 33 (1844); Gray, Gm. 
 B. i. p. 29 (1849) $ Striekl Orn. 8yn. p. 106 (1855) ; Sharpe, Ibis, 
@@ -8098,9 +8098,9 @@ Arch. f. Naturg. 1852, p. 96.
 Micronisus badius, Bp. Consp. i. p. 33 (1850) ; Blyth, I. A. 8. B. 
 
 xix. p. 332 (1850); Kaup, Cont Orn. 1850, p. 66; Jerd. B. Ind. 
-i. p. 48 (1862); Blyth, Ibis, 1863, p. 16; Beav. P. Z. 8. 1868, 
+i. p. 48 (1862); Blyth, Ibis, 1863, p. 16; Beav. P. Z. S. 1868, 
 p. 394 ; Mime, Bough Notes, i. p. 117 (1869); Gray, Hand-l B. 
-i. p. 35 (1869) ; Eoldsw. P. Z. 8. 1872, p. 411. 
+i. p. 35 (1869) ; Eoldsw. P. Z. S. 1872, p. 411. 
 Nisus badius, Bp. Bev. et Mag. de Zool 1854, p. 538; 8chl. Mm. 
 P.-B. Astures, 5. 48 (1862) ; id. Nederl Tidschr. iii. p. 359 (1866) j 
 id. Bemie Aceipitr. p. 92 (1873). 
@@ -8400,11 +8400,11 @@ Kaup, P. Z. S. 1867, p. 172; Walden, Tr. Z. S. viii. pp. 34, 110
 Micronisus soloensis, Gray, Cat. Aceipitr. B. M. p. 75 (1848); Bp. 
 Consp. i. p. 33 (1850) ; Horsf. $ Moore, Cat. B. Mus. B. L Co. i. 
 
-p. 38 (1854); Gray, P. Z. 8. 1860, p. 344; Swinh. P. Z. & 1863, 
+p. 38 (1854); Gray, P. Z. S. 1860, p. 344; Swinh. P. Z. & 1863, 
 
 p. 261; Peh. Reis. Novara, Vog. p. 12 (1865); Wall. Ibis, 1868, 
 
-p. 12; Gray, Mand-l. B. i. p. 35 (1869); Swinh. P. Z. 8. 1871, 
+p. 12; Gray, Mand-l. B. i. p. 35 (1869); Swinh. P. Z. S. 1871, 
 
 p. 342. 
 Micronisus badius, Sicirih. Ibis, 1860, p. 359, 
@@ -8583,8 +8583,8 @@ i.
 dagascar. 
 j. S ad. sk. Joanna Island. Bartle Frere, Esq. [P.]. 
 19. Astur poliocephalus. 
-Accipiter poliocephalus, Gray, P. Z. 8. 1853, p. 170; id. Cat. B. N. 
-Guin. p. 16 (1859); ScL P. Z. 8. I860, p. 322, pi. x.; Kaup, P. Z. 8. 
+Accipiter poliocephalus, Gray, P. Z. S. 1853, p. 170; id. Cat. B. N. 
+Guin. p. 16 (1859); ScL P. Z. S. I860, p. 322, pi. x.; Kaup, P. Z. S. 
 1837, p. 177 j Wall Ibis, 1808, p. 12; Gray, Sand-l B. i. p. 34 
 (1809). 
 Xisus poliocephalus, Schh NederL Tijdsch. iii. p. 328 (1866) j id. Mus, 
@@ -8932,7 +8932,7 @@ of the'Herald?
 d. S ad. st. Fiji Islands. 
 e. $ ad. st. Itewa. Julius Brenchley, Esq. [P.], 
 27. Astnr griseigularis. 
-Astur griseogularis, Qrmjt P. Z. 8.1800, p. 343. 
+Astur griseogularis, Qrmjt P. Z. S.1800, p. 343. 
 
 Nisus 
 cruentua, JSehl 31m. I\-B. Astures, p. 40 (1862); id. Vog. 
@@ -9584,7 +9584,7 @@ Fritsch, Vog. Bur. tab. 4. fiss. 3, 4, 5 (18oS) ; Jercl B. Ind. i. p. 51
 i. p. 99 (1867); Loehe, Expl Sci. Alger, i. p. 72 (1807) ; Bettmii, 
 Ucc. Bomb. ii. tav. 58 (18f9); Gray] JBand-l. B. i. p. 31 (1869); 
 Siime, Bough Notes, i. p. 124 (1869) j Neict. ed. Yarr. Brit B. L 
-p. 88 (1871) ; Sdvad. Faun. Ital Uce.y. 15 (1871); Sicinh. P. Z. 8. 
+p. 88 (1871) ; Sdvad. Faun. Ital Uce.y. 15 (1871); Sicinh. P. Z. S. 
 1871, p. 3415 Sharpe § Dresser, B. Eur. pt. ix. (1871); Shelley, 
 B. Egypt, p. 185 (1872) ; Hume, Stray F. i. p. 124 (1873). 
 Jerax fringillarius, Leach, Syst Cat. Mamm. §*c. Brit. Mzi$. p. 10 
@@ -10135,7 +10135,7 @@ Accipiter superciliosiis, StricU. Orn. Syn. p. 115 (1855).
 Xisus tinus, Burin. Th. Bras. ii. p. 70 (1855); SckL Mus. P.-B. 
 
 Astures, p. 33 (1862); id. Berne Accipitr. p. 77 (1873). 
-Teraspiza turns, Kanp, P. Z. 8. 1867, p. 171. 
+Teraspiza turns, Kanp, P. Z. S. 1867, p. 171. 
 Young. Above dull emnamon-rufous, the head blackish, leaving 
 only a rufous eyebrow, and the back, scapulars, and wing-coverts 
 slightly mottled with black centres to some of the feathers; sides of 
@@ -10568,7 +10568,7 @@ Nisus rhodogaster, SchL Yog. Nederl. Ind.f Valkv. pp. 21, 60, pi-12.
 
 figs. 5, 6 (1866) ; id. JRemce Acdpitr. p. 76 (1878). 
 
-Teraspiza rhodogaster, Kemp, P. Z. 8.1867, n. 171. 
+Teraspiza rhodogaster, Kemp, P. Z. S.1867, n. 171. 
 
 Teraspiza rhodogastra, Waldm7 Tr. Z. 8. viii. pp. 38, 109, pi 3d. 
 
@@ -10615,7 +10615,7 @@ Nisus sulaensis, Schl Vog. Kederl. Indn Valkv. pp. 26, 64, pi. 10.
 
 figs. 3, 4 (1866). 
 
-Uraspiza sulaensis, Kaup, P. Z. 8.1867, p. 176. 
+Uraspiza sulaensis, Kaup, P. Z. S.1867, p. 176. 
 
 Accipiter sulaensis, Wall. Ibis. 1868, p. 10 -Gray, Hand~l. B. I. p. 34 
 
@@ -10879,17 +10879,17 @@ id. Vog. Nederl. Ind., Valkv. pp. 20, 59, pi. 12. figs. 1-4 (1866); id.
 Revue Accipitr. p. 74 (1873). 
 
 24. ACCIPITEE. 151 
-Accipiter dussumieri (nee Te?nm.)) Sykes, P. Z. 8. 1832, p. 79; 
+Accipiter dussumieri (nee Te?nm.)) Sykes, P. Z. S. 1832, p. 79; 
 
-Kodgs. J. A. 8. B. xii p. 308 (1843). 
+Kodgs. J. A. S. B. xii p. 308 (1843). 
 Nisus manillensis, Meyen, JBeitr. p. 694, Taf. ix. (1834) *. 
 Accipiter besra, Jerd. Madr. Journ. x. p. 84 (1839) ; id. III. Ind. Orn. 
 
 pi. 4 (1847). 
 Accipiter fringillarius, Jerd. Madr. Journ. x. p. 84 (1839). 
-Accipiter minutus, Blyth{ J. A. 8. B. xi. p. 882 (1842). 
+Accipiter minutus, Blyth{ J. A. S. B. xi. p. 882 (1842). 
 Accipiter afhnis, Jffodgs. in Gray's Zool. Misc. p. 81 (1844). 
-Accipiter nisoides, Blyth, J. A. 8. B. xvi. p. 727 (1847); id. Cat. B. 
+Accipiter nisoides, Blyth, J. A. S. B. xvi. p. 727 (1847); id. Cat. B. 
 
 Mus. A. 8. B. p. 22 (1849); id. Ibis, 1865, p, 28, et 1866, p. 240, 
 
@@ -10898,17 +10898,17 @@ Hieraspiza virgatus, Kaup, Contr. Orn. 1850, p. 63.
 Astur gularis, Temm. Sf Schl, Faun. Jap. Aves, p. 5, pi. 2 (1850). 
 Accipiter gularis, Bp. Mev. et Mag. de Zool. 1854, p. 538; Gurney, 
 
-Ibis, 1865, p. 547; 8winh. P. Z. 8.1871, p. 34$ 
+Ibis, 1865, p. 547; 8winh. P. Z. S.1871, p. 34$ 
 Micronisus badius, Swinh. Ibis, 1860, p. 359, et 3661, p. 263. 
 Micronisus, sp., Swinh. Ibis, 1861, p. 25. 
 Micronisus gularis, Swinh. Ibis, 1863, p. 212. 
 Accipiter stevensoni, Gurney, Ibis, 1863, p. 447, pi. xi.; Swinh. 
 
-P. Z. 8.1863, p. 261, et 1870, p. 600, et 1871, p. 341 ; Gray, JEand-l. 
+P. Z. S.1863, p. 261, et 1870, p. 600, et 1871, p. 341 ; Gray, JEand-l. 
 B. I p. 32 (1869). 
 Accipiter gularis, Swinh. Ibis, 1863, p. 89* 
 Micronisus virgatus, 8winh. Ibis, 1866, p. 403. 
-Teraspiza virgata, Kaup, P. Z. 8.1867, p. 171. 
+Teraspiza virgata, Kaup, P. Z. S.1867, p. 171. 
 Young. Above brown, the feathers margined with rufous or 
 rufous ochre, the crown blackish brown, the nape mixed with 
 white and the scapulars and upper tail-coverts with concealed white 
@@ -11139,7 +11139,7 @@ Accipiter bicolor, StrieM. Orn. Syn. p. 110 (1855) ; ScL 4' Salv, Ex.
 
 Orn. pp. 137, 170, pi. Ixix. (1868) • Gray, Hand-!. B. i. p. 33 
 (1869); Bel 8? Salv. Nomencl. Av. Neotr. p. 120 (1873). 
-Accipiter pileatus (lapsu), Sol P. Z. 8.1859, p. 389; Sah. Ibis, 1861, 
+Accipiter pileatus (lapsu), Sol P. Z. S.1859, p. 389; Sah. Ibis, 1861, 
 
 p. 355; Lawr. An. Lye. N. Y. vii. p. 289 (1862), ix. p. 134 (1864). 
 Accipiter erythrocnemis, Scl. P. Z. S. 1860, p. 96 {lapsu). 
@@ -11593,7 +11593,7 @@ Buteo meridkmalis, Behl Mm. P.-B. Buteones, p. 17 (1862); Gray,
 
 Hmd-l B. i. p. 9 (1869): Sehl Mm. P*-B. Berne Accipiir, p. 110 
 (1873). r 
-Urubitinga meridionalis, Bel. fy Sah. P. Z. 8. 1867, p. §89, et 1869, 
+Urubitinga meridionalis, Bel. fy Sah. P. Z. S. 1867, p. §89, et 1869, 
 
 * &repos, alter; <r7riZ'ta$t accipiter. 
 26. TACSYTBIOBCHIS. 161 
@@ -12308,11 +12308,11 @@ Mr. Brydges [0.].
 4. Buteo erytliroiiotus*. 
 Haliaetus erythronotus, King, ZooL Joum. ill. p. 424 (1827). 
 Aquila "braccata, Meyen, Beitr. p. Go (1834), 
-Buteo varius, Gould, P. Z. 8.1837, p. 10; Banc. Toy, Beagle, Birds, 
+Buteo varius, Gould, P. Z. S.1837, p. 10; Banc. Toy, Beagle, Birds, 
 
 
 p. M (1841) ; Cass. U.S. JSxpl Exp. Orn. p. 92, pi. 3. %. 1 (1838); 
-Scl. P. Z. 8. I860, p. 384. 
+Scl. P. Z. S. I860, p. 384. 
 Buteo tricolor, JD'Orb. et Lafr. Syn. Av. p. 6 (1838) ; B'Orh. Voy. 
 Am. Mend. pp. 69, 106, pi. 30 (c. 1840). 
 Buteo imicolor, I)7 Orb. et Lafr. Syn, Av. p. 7 (1838). 
@@ -12882,7 +12882,7 @@ i, h, I Ad. sk, Southern Ural. Dr. Strader [0.].
 9. Buteo plumipes. (Plate Til . fig. 1.) 
 Oircus plumipes, Modgs. in Gray's Zool Misc. p. 81 (1844). 
 
-Buteo plumipes, Hodgs, P. Z. 8. 1845, p. 37; Gray, Gen, B. i. p. 11 
+Buteo plumipes, Hodgs, P. Z. S. 1845, p. 37; Gray, Gen, B. i. p. 11 
 (1849) ; Kaup, Oontr. Orn* 1850, p. 77 ; Bp. Gonsp. AD. i. p. 19 
 (1850),* StricU. Orn. Syn. p. 38 (1856) j Jerd. B. Ind. i. p. 91 
 (1862) j Myth, Ibis, 1863, p. 21, et 1866, p. 245; Gray, Hand4. 
@@ -12903,7 +12903,7 @@ p. 6 (1869); Sumh. Ibis, 1870, p. 87; Jerd, Ibis, 1871, p. 337;
 27 . BXJXEO. 18 L 
 Buteo vulgaris, Blgth, Ibis, 1863, p. 20. 
 
-Buteo asi&tieus, Stoinh. P. Z. 8. 1871, p. 339. 
+Buteo asi&tieus, Stoinh. P. Z. S. 1871, p. 339. 
 
 Young. Above pale brown; scapulars and feathers of the hind 
 neck washed with rufous on their outer margins, the whole of the 
@@ -13161,12 +13161,12 @@ Buteo oxypterus, Cass, Pr. Phil. Acad, 1855, p. 282; Strickl Orn.
 (1860) ; Gray, JETand-L B. i p. 8 (1869) ; Cooper, B. Calif, ed. 
 Baird, y. 480 (1871); Coues, Key to N. Am. B. p. 218 (1872). 
 Buteo insignatus, Cass. B. Calif, fy Texas, p. 102, pi. 31 (1855); 
-Strickl. Orn. Syn. p. 38 (1855) ; Set P. Z. 8. 1856, p. 285 ; Cass, in 
+Strickl. Orn. Syn. p. 38 (1855) ; Set P. Z. S. 1856, p. 285 ; Cass, in 
 Baird, B. N. Am. p. 23 (1860) ; Gray, Hand-l. B. i p. 8 (1869) ; 
 
 Cooper, B, Calif ed. Baird, p. 474 (1871). 
 Buteola insignata, Bp. C. It. xlii. p. 956 (1856). 
-Buteo Miginosus, Scl. P. Z. 8. 1858, p. 356, et Tr. Z. 8. iv. p. 267, 
+Buteo Miginosus, Scl. P. Z. S. 1858, p. 356, et Tr. Z. 8. iv. p. 267, 
 pi. Ixii. (1858); Cass, in Baird" s B. N. Am. pi. 15. Rg. 1 (1860); 
 
 Bah. Ibis, 1860, p. 401; Gray, BTand-l. B. i. p. 7 (1869). 
@@ -13429,7 +13429,7 @@ Xeotr. p. 118 (1873).
 Buteo leverianus, Vig. Zool. Journ. i. p. 340 (1824). 
 Astur boreaiis, Cuv. Regn. An. i p. 332 (1829), 
 Astur leverianus, Cuv. torn, cit p. 332 (1829). 
-Buteo ventralis, Gould, P. Z. 8. 1837, p. 10; Darwin, Zool. Beagle, 
+Buteo ventralis, Gould, P. Z. S. 1837, p. 10; Darwin, Zool. Beagle, 
 
 
 Birds, p. 27 (1841); Gray, Cat Accipitr. 1844, p. 18 ; Strichl Orn. 
@@ -14485,7 +14485,7 @@ Purchased.
 
 Asturina magnirostris, Scl P. Z. S. 1856, p. 285 (nee Gm.); ScL fy 
 8afo. Ibis, 1859, p. 217. 
-Asturina ruficauda, ScL 8f Safa. P. Z. 8. 1869, p. 133, et Ex. Orn. 
+Asturina ruficauda, ScL 8f Safa. P. Z. S. 1869, p. 133, et Ex. Orn. 
 pi. Ixxxviii. (1869), et Nomencl p. 118 (1873). 
 Adult. Above dull ashy grey, a little clearer on the head and 
 sides of the face, the upper tail-coverts tipped with white, and 
@@ -15043,7 +15043,7 @@ Guian. iii. p. 740 (1848); Burm. Th. Bras. ii. p. 42 (1856).
 Falco longipes, Illiger, in Mus. JBerol, unde 
 TJrubitinga longipes, Bp. Consp. i. p. 29 (1850). 
 Morphnus brasiliensis, Strichl. Orn. Syn. p. 24 (1855). 
-Urubitinga zonura, Scl. P. Z. 8.1858. p. 129: Sel. &• Salv. Nomencl. 
+Urubitinga zonura, Scl. P. Z. S.1858. p. 129: Sel. &• Salv. Nomencl. 
 
 p. 119 (1873). 
 Asturina urubitinga, Sclil Mus, JP.-B. Asturinso, p. 6(1862): id. Revue, 
@@ -15659,7 +15659,7 @@ d. Skeleton. Purchased.
 36. THBASAETTJS. 
 Type. 
 Harpyia, VieiM. Analyse, p. 24 (1816) T. harpyia. 
-Thrasaetus, Gray, P. Z. 8.1837, p. 108 T. harpyia. 
+Thrasaetus, Gray, P. Z. S.1837, p. 108 T. harpyia. 
 Nothrophrontes, Ghger, Kandb. Naturg. p. 219 (1842).... T. harpyia. 
 
 Bill of Thrasaetus harpyia (reduced). 
@@ -16029,7 +16029,7 @@ p. 79 (1863) ; Newt. Ooih. While}, p. 8 (1864); Garmy, Cat. Mapt
 B. Norm. Mm. p. 81 (1864); Bree, B. Eur. i.j». 12 (1866) j Degl 
 et Gerbe, Orn. Eur. I p. 16 (1867); Loche, JSxpl. Alger. I p. '14 
 (1867); Gray, Hand-l B, i. p. 1 (1869); Hume, Bough Notes, L 
-p.35 (1869); Sdoad. Faun. Ital Xfce. p. 4 (1871); Swmh.P. Z. 8. 
+p.35 (1869); Sdoad. Faun. Ital Xfce. p. 4 (1871); Swmh.P. Z. S. 
 I mf 
 
 37- GVPAUTrs, 229 
@@ -16573,7 +16573,7 @@ Falco rmperialis, Crespon, Faun. Merid. i. p. 131 (1844).
 Aquila barthelemyi, Jaub. Rev. Zool. 1852, p. 545 ; id. et Barih. Lap. 
 
 
-Rich. Orn. p. 3i, pi. 2 (1850) ; Murie, P. Z. 8.1870, p. 80. 
+Rich. Orn. p. 3i, pi. 2 (1850) ; Murie, P. Z. S.1870, p. 80. 
 . Aquila fuscicapilla, Brehm, Namn. 1855, p. 267. 
 Aquila canadensis, Cass, in BairoTs B. N. Am. p. 41 (1860) ; Ball §• 
 Bonn. Tr. Chic. Acad. I p. 272 (1869); Cooper, B. Calif. edBaird, 
@@ -17325,7 +17325,7 @@ a. Juv. st. Xanthus. Sir 0. Fellows [P. j .
 Subsp. a. Aquila hastata. 
 
 Morphnus hastatus, Less. Toy. Belang. p. 217 (1834), 
-^ Limnaetus unicolor, Blyth, J. A. 8. B: xii. p. 128 (1843). 
+^ Limnaetus unicolor, Blyth, J. A. S. B: xii. p. 128 (1843). 
 
 Limnaetus hastatus, Blyth, Ann. 2Vr. S. xiii. p, 114 (1844). 
 
@@ -17334,9 +17334,9 @@ Spizaetus punctate, Jerd. Madr. Jmirn. xiii. p. 164 (1844).
 Spizaetus hastatus, Gray, Gen. B. i. p. 14 (1845); StrieTd. Orn. Syn. 
 
 p. 72 (1855). 
-Aquila hastata, Blyth, J. A. 8. B. xv. p. 7 (1846) j Jerd. B. Bid. i. 
+Aquila hastata, Blyth, J. A. S. B. xv. p. 7 (1846) j Jerd. B. Bid. i. 
 p. 62 (1862) ; Gray, Hand~l i. p. 11 (1869); Mime, Bough Motes, 
-l p. 180 j Anders. P. Z. 8.1871, p. 622. 
+l p. 180 j Anders. P. Z. S.1871, p. 622. 
 Aquila nsevia, Brooks, 8tr. F. i. p. 293 (1873). 
 
 Of this species, to unite which with A. ncevia I cannot quite agree 
@@ -17380,7 +17380,7 @@ Aquila nsevia, 8ehrench, Beis. Amurl. Vog. p. 220 (18*59); lAnderm.
 
 Tog. Griech. p. 26 (1860); Jerd. B. Ind. i. p. 59 (1862); Madde, 
 Beis. 8ibir. Tog. p. 85 (1863) ; Hume, Bough Mies, I. p. 162 (I860): 
-Anders. P. Z. 8.1871, p. 686; Hume, 8tr. R L p. 158 (1873). 
+Anders. P. Z. S.1871, p. 686; Hume, 8tr. R L p. 158 (1873). 
 
 Falco clanga, Naum. Tog. Beutschl xiii. Taf. 342,346 (18(D). 
 
@@ -17484,23 +17484,23 @@ Barth. Lap. Pick. Orn. p. 10, pi. 4 (1859); tichl. Mu*. P.-B. Aquila?,
 
 p. 9(1862); Gray, Hand-l I p. 12 (1S09); Heugl. Orn. KO.~ 
 Afr. i. p. 49 (1869) ; Shelley, B. Egypt, p."206 (1872). 
-Nisaetus grandis, Sodgs. J. A. 8. B. v. p. 230 (1836) ; Jerd. Ill 2nd. 
+Nisaetus grandis, Sodgs. J. A. S. B. v. p. 230 (1836) ; Jerd. Ill 2nd. 
 Orn. pi. 1(1847) 
 Nisaetus niveus, Jerd. Madr. Journ, x. pp. 09, 234 (1839), 
-Spizaetus grandis, Bhjtk, J. A. 8. B. xii. p. 301 (1843). 
+Spizaetus grandis, Bhjtk, J. A. S. B. xii. p. 301 (1843). 
 Aquila nipalensis, ITodgs. in Grag^s ZooL Misc. p. 81 (1844). 
 Aquila xubriventer; Sodgs. t. c. p. 81 (1844). 
-Eutolmaetus bonellii, Blyth, J. A. 8. B. xiv. p. 174 (1845), et xix. 
+Eutolmaetus bonellii, Blyth, J. A. S. B. xiv. p. 174 (1845), et xix. 
 
 p. 335 (1850); Hume, Bough Notes, l. p. 189 (18C9). 
-Tolmaetus bonellii, Blyth, J. A. 8. B. xv. p. 5 (1846), 
+Tolmaetus bonellii, Blyth, J. A. S. B. xv. p. 5 (1846), 
 Nisaetus strenuus, Jerd. III. 2nd. Orn. pi. 1 (1847). 
 Aquila wiedii, Brehm, Naum. 1855, pp. 2-5, 268. 
 Pseudaetus bonellii, Bp. Cat Ois. Eur. Parzud. p. 1 (1850) ; Locke, 
 Expl Alger. Ois. I p. 29 (1867); JBume, Sir. F. i p. 158 {1873). 
 Aquilastur bonellii, Brehm^ Ber. Orn. Vers. Stuttg. i860, p. 53. 
 Aquilastur wiedii, Brehm, tit supra. 
-Nisaetus bonellii, Jerd. B. ImL I p. 67 (1862); Hokhw. P. Z. 8. 1872, 
+Nisaetus bonellii, Jerd. B. ImL I p. 67 (1862); Hokhw. P. Z. S. 1872, 
 
 p. 411. 
 Nestling. Above umber-brown, with whitish margins to the small 
@@ -17797,7 +17797,7 @@ p. 14 (1845); Gould, B. Austr. I pi 2 (1848)-7 Bp. Camp. I p. 14
 (1850): mrickl Orn. 8m. p. 62 (1855): Gray. Hmd-h 3. i p. 12 
 (1869). i 
 Butaetus morphnoides, 3lyth, X A. 8. B. adv. p. 546 (1845). 
-Hieraetus cristate, Blyth, J. A. 8. B* xv. p. 4 (1846). 
+Hieraetus cristate, Blyth, J. A. S. B* xv. p. 4 (1846). 
 Hieraetus morphnoides, Kaup, Isis, 1847, p. 243; Gmdd. Ranib* B. 
 
 
@@ -17903,7 +17903,7 @@ Hah. Columbia.
 
 a. Ad. sk. Bogota (Chesterton). W. Wilson Saunders, Esq. [P.]. 
 42. HEOPTFS. 
-Heteropus, Hodgs. J. A. 8. R. xii. p. 127 (1843, nee Bum. Type. 
+Heteropus, Hodgs. J. A. S. R. xii. p. 127 (1843, nee Bum. Type. 
 etBibr.im) H. malayensis. 
 Neopus, Hodgs. in Gray's Zool Misc. p. 81 (1844).... H. malayeneis. 
 Qnychaetus, Kaup, Classif. Saug. u. Vog. p. 120 (1844). H. malayensis. 
@@ -17928,17 +17928,17 @@ Ind. Vcdkv. pp. 8, 49, pi 3. figs. 1, 2 (1866),- Gray, Mand-l
 L p. 11 (1869) ; JSchl Berne Aceipitr. p. 117 (1873). 
 Aquila makyana, Less. TraitS, p. 39 (1831). 
 Aquila pernigra, BLodgs. J A. 8. B. v. p. 227 (1836). 
-Heteropus perniger, Modgs. J. A. 8. B. xii p. 127 (1843). 
+Heteropus perniger, Modgs. J. A. S. B. xii p. 127 (1843). 
 Nisaetus ovivorus, Jerd. Madr. Journ. xiii. p. 157 (1844). 
 Ictinaetus perniger, Blyth^ Ami. N. JET. xiii. p. 114 (1844). 
 Neopus perniger, Hodgs. m Gray's Zool. Misc. p. 81 (1844). 
-Ictinaetus malayensis, Blyth, J. A. 8. B. xv. p. 7 (1846). 
+Ictinaetus malayensis, Blyth, J. A. S. B. xv. p. 7 (1846). 
 Neopus malayensis, JSorsf.fyMoore, Cat B. Mm. B. I. Co. i. p. 381 
 
 
-(1854); Jerd. B. Ind. i. p. 65 (1862); Beav. P. Z. 8.1868, p. 396, 
+(1854); Jerd. B. Ind. i. p. 65 (1862); Beav. P. Z. S.1868, p. 396, 
 pLxxxiv.,- WaU.Ibis,lS68^.1S; mime,BoughJVote»,i.p.l87(1869); 
-Wald. Tr. Z. 8. viii. p. 34 (1872); Holdsw. P. Z. 8.1872, p, 411. 
+Wald. Tr. Z. 8. viii. p. 34 (1872); Holdsw. P. Z. S.1872, p, 411. 
 
 Yomuj. Above brown, all the wing-coverts and the secondaries 
 with buffy white spots at their tips, minute on the former, larger on 
@@ -18280,7 +18280,7 @@ Bp. Consp. Ac. i. p. 28 (1850) ; Strickl Orn. Syn. p. 67 (1855) j
 Burm. Th. Bras. Th. ii. p. 60. note (1856) ; Schl. Mm. P.-B. Astures; 
 p. 2 (1862) ; Zeot. Ois. Trinicl. p. 10 (1866) ; Graij, Sand-l 
 
-B. i. p. 12 (1869); Finseh, P. Z. 8. 1870, p. 555; Pek. 0?vi.Bra$. 
+B. i. p. 12 (1869); Finseh, P. Z. S. 1870, p. 555; Pek. 0?vi.Bra$. 
 pp. 4, 397 (1871) ; Scl $ Salv. Nomencl p. 20 (1873) ; J8W& Jfccwe 
 Accijntr. p. 52 (1873). 
 Harpyia ornata, /Sj?£r, Jip. Bras. p. 8 (1824). 
@@ -18567,11 +18567,11 @@ c. <$ juv. st. South Africa. Sir A. Smith [0.].
 
 5. Spizaetus nipalensis. 
 Nisaetus nipalensis, Hodgs. J, A. S. B. v. p. 229, pi. 7 (1836). 
-Nisaetus pulcher, Hodgs. J. A. 8. B. vi. p. 361 (1837). 
+Nisaetus pulcher, Hodgs. J. A. S. B. vi. p. 361 (1837). 
 Nisaetus pallidus, Hodgs. I s. c. (1837). 
 Spizaetus grandis, Gray, Cat. Acoipitr. 1844, p. 8. 
 Spizaetus pulcher, Gray, t. c. p. 8 (1844). 
-Spizaetus nipalensis, Gray, t. c. p. 8 (1844); BIyth, J. A. 8. B. xix. 
+Spizaetus nipalensis, Gray, t. c. p. 8 (1844); BIyth, J. A. S. B. xix. 
 
 
 p. 333 (1850) ; Strickl Orn. 8yn. p. 69 (1855) ; Gray, Hand-l B. 
@@ -18830,7 +18830,7 @@ A. R. Wallace, Esq. [0.1
 A. R. "Wallace, Esq. [O.j. 
 
 8. Spizaetus alboniger. 
-Xisaetus alboniger, Blyth, J. A. 8. B. xiv. p. 173 (1845). 
+Xisaetus alboniger, Blyth, J. A. S. B. xiv. p. 173 (1845). 
 Spizaetus borneonensis, Gray, Cat Accipitr. 1848, p. 10. *
 *** *~~ 
 Spizaetus albordger, Blyth, J, A. S. B. xix. p. 385 (1850) ; Strichl. 
@@ -18901,8 +18901,8 @@ pis. 6, 7. figs. 1, 8 (1866); Wall. Ihis71868, p. 13; Gray, Band-l
 B. L p. 13 (1869); Hume, Rough Notes, i. p. 198 (1869). 
 Spizaetus linmaetus. Gray, Gen. B. i. p. 14 (1845): StrickL Orn. 
 Syn. p. 71 (1855). 
-Nisaetus caligatus, Blyth, J. A. 8. B. xiv. p. 174 (1845). 
-Spizaetus nipalensis, Blyth, J. A. 8. B. xvi. p. 1179 (1847). 
+Nisaetus caligatus, Blyth, J. A. S. B. xiv. p. 174 (1845). 
+Spizaetus nipalensis, Blyth, J. A. S. B. xvi. p. 1179 (1847). 
 Nisaetus niveus, Jerd. Ill Ind. Orn. p. 5 (1847). 
 Spizaetus cirmtus (pt.), Schl. Mus. P.-B. Reme Accipitr. p. 52 
 (1873). 
@@ -19147,11 +19147,11 @@ el Ad. sk. Senegal. Rev. D. E. Morgan [P.],
 e. Ad. sk. Mombas (Wakefield). R. B. Sharpe, Esq. [P.]. 
 / . Skeleton. Zoological Society. 
 Subsp. a. Astnrinxda meridionalis. 
-Micronisus nionogrammicus, var. meridionalis. Eartt, P. Z. 8.1860, 
+Micronisus nionogrammicus, var. meridionalis. Eartt, P. Z. S.1860, 
 
 p. 109. 
 Micronisus monogrammicus, JBocage, Jorn. Lisb, 1867, pp. 132, 331. 
-Melierax monogrammicus, Sharpe, P. Z. 8.1870, p. 150. 
+Melierax monogrammicus, Sharpe, P. Z. S.1870, p. 150. 
 Asturinula monogrammica, ttmch u. Hartl. Vog. Ostafr. p. 60 (1870, 
 Kaupifalco monogrammicus, Gurnet/ in Aaiderss. B. Bam. Ld. p. 26 
 (1872). 
@@ -19775,7 +19775,7 @@ Falco cheela, Lath. Lid, Orn. i. p. 14 (1790).
 Falco albidus, Temm. PI Col. i. pi. 19 (1824, ex Guv.). 
 Cymindis albidus, Vigors, Zool. Journ. i. p. 324 (1824). 
 Buteo albidus, CUD. JRegne An. i. p. 337 (1829). 
-Hsematoxnis undulatus, Vigors, P. Z. 8. 1830-31, p. 171 j Gould, 
+Hsematoxnis undulatus, Vigors, P. Z. S. 1830-31, p. 171 j Gould, 
 
 
 Cent. Jffimal B. pi. 1 (1832). 
@@ -19874,7 +19874,7 @@ Subsp. a. Spilornis melanotis.
 
 Oircaetus undulatus, Jerd. Madr. Journ. x. p. 70 (1839)* 
 Buteo melanotis, Jerd. Madr. Journ. xiii. p. 165 (1844). 
-Hsematornis spilogaster, Myth, J. A. 8. B. xvi. p. 351 (1852); Zm/ardf 
+Hsematornis spilogaster, Myth, J. A. S. B. xvi. p. 351 (1852); Zm/ardf 
 
 
 Ann. 2V. H. xii. p. 100 (1853). 
@@ -19883,8 +19883,8 @@ Haematornis cheela, Beav. Ibis, 1867, p. 314.
 Spilornis rutherfordi, Swinh. Ibis, 1870, p. 8o; id. P. Z. & 1871, 
 
 p. 340 5 Wald. Ibis, 1873, p. 298. 
-Spilornis spilogaster, Blanf. J. A. 8. B. 1871, p. 270. 
-Spilornis bacha, Moldsw. P. Z. 8. 1872, p. 412. 
+Spilornis spilogaster, Blanf. J. A. S. B. 1871, p. 270. 
+Spilornis bacha, Moldsw. P. Z. S. 1872, p. 412. 
 Oircaetus rutherfordi, Giebel, Orn. The*, p. 702 (1872). 
 Spilornis davisoni, Emrne, Str. F. L pp. 305, 422 (1873). 
 Similar in all respects to 8. cheela, but very much smaller, appearing 
@@ -19967,7 +19967,7 @@ Falco backa, baud. Traite, ii. p. 43 (1800, ex Zevaill),
 Faico bido, Sorsf. Tr. Linn. 8oe. xiii p. 137 (1822). 
 Oymindis bacha, Vigors, Zool Joum. i. p. 324 (1824). 
 Bufeo bacha, Vigors, Mem. Raffl. p. 650 (1830). 
-Hsematornis bacha, Vigors, P. Z. 8.1830-31, p. 170; Sorsf. $• Moore, 
+Hsematornis bacha, Vigors, P. Z. S.1830-31, p. 170; Sorsf. $• Moore, 
 
 Cat B. Mus. E. I, Co. I p. 49 (1854). 
 Spilornis bacha, Gray, List Gen. B. 1840, p. 3 ; Bp. Consp. i. p. 10 
@@ -20136,7 +20136,7 @@ Hdb. Sula Islands.
 a. Ad. st. Sula Islands. Purchased. 
 b. $ ad. sL Sula Islands. A. B. Wallace, Esq. [C.]. 
 6. Spiloruis holospilus. 
-Buteo holospilus, Vigors, P. Z. 8.1830-31, p. 96. 
+Buteo holospilus, Vigors, P. Z. S.1830-31, p. 96. 
 Hsematornis holospilus, Vigors, t c. p. 170 * Horsf. Sf Moore, Cat. B. 
 Mus. JE. I. Co. i. p. 50 (1854). 
 Spilomis holospilus, Gray, Cat Accijpitr. p. 10 (1844) ; Bp. Consp. i. 
@@ -20199,7 +20199,7 @@ b. Juv. sk. Cataguan. H. Ouming, Esq. [P.].
 c. Juv. st, Mindanao. 
 4. Ad, st* Philippine Islands. J. R. Reeves, Esq. [P.]. 
 51. BUTASTUR. Type 
-Butastur, Hodgs. J. A. 8. B. xii. p. 311 (1843) B. teesa. 
+Butastur, Hodgs. J. A. S. B. xii. p. 311 (1843) B. teesa. 
 Poliornis, Kaup, Classif. Saitg. u. V6g. p. 122 (1844) .. B. teesa. 
 
 Bill of Butastur teem. 
@@ -20372,7 +20372,7 @@ Falco poliogenys, Temm. PI. Col i. pi. 325 (1825).
 Astur poliogenys. Gray, Cat. Aceipitr. 1844, p. 34. 
 Buteo fasciatus, A. Kay, Madr. Journ. xiii. p. 146 (1844). 
 Astur barbatus, JEyton, Ann. N. H. xvi. p. 228 (1845). 
-Buteo pygmaeus, Blyth, J. A. 8. B. xiv. p. 177 (1845); id. Cat. B. 
+Buteo pygmaeus, Blyth, J. A. S. B. xiv. p. 177 (1845); id. Cat. B. 
 
 
 Mus. A. S. B. p. 29 (1849). 
@@ -21304,7 +21304,7 @@ e. c? ad. st. Fifth Cataract of the Nile. F. Galton, Esq. [P.].
 Haliaetus vociferoides, Des Murs, R. Z. 1845, p. 175*; id. Iconogr. 
 Orn. pi. 7 (1845); JBp. Consp. i. p. 15 (1850); Strichl Orn. Syn. 
 
-p. 52 (1855); Marti. Faun. Madag. p. 16 (1861); SchL P. Z. 8. 
+p. 52 (1855); Marti. Faun. Madag. p. 16 (1861); SchL P. Z. S. 
 1866, p. 420; Gray, Hand-l P. i. p. 17 (1869). 
 Haliaetus vociferator, Sch. fy Poll F. M. Ozs. p. 42, pi. 15 (1868); 
 Schl. Mus. P.-P. JRevue Accipitr. p. 118 (1873). 
@@ -22058,7 +22058,7 @@ i9 k. Ad. sk. Mayo, Cape-Verdelslands. M. A. Bouvier [C. j ,
 m, n. Sterna. 
 4. Milvus affinis. 
 Milvus 
-affinis, Gould, P. Z. 8. 1837, p. 140; id. $yn. B. Austr. 
+affinis, Gould, P. Z. S. 1837, p. 140; id. $yn. B. Austr. 
 pt. iii. (1838) j Gray, Gen. B. i. p. 24 (1845): Gould, B. Austr. 
 
 l. pi. 21 (1848); Bp. Consp. i. p. 21 (1850) j Schl. Mm. P.-B. 
@@ -22129,7 +22129,7 @@ A. R. Wallace, Esq. [O.J
 
 5. MHvus melauotis. 
 Milvus melanotis, Temm. et Sold. Faun* Jap. Aves, p. 14, pis. 5, OB 
-f ? 1845) j (?r^, few. .5. i. p. 24 (1845); Blanf. J. A. 8. B. 1872, 
+f ? 1845) j (?r^, few. .5. i. p. 24 (1845); Blanf. J. A. S. B. 1872, 
 
 p. 153. 
 Milvus niger, Tar. melanotis, SckreriL, Reis. AmurL, Vog* p. 234 
@@ -22139,7 +22139,7 @@ Homey. J.f. 0.1868, p. 252.
 Milvus major, Hmne. Rough Notes, ii. p. 326 (1870) ; Jercl Ibis, 1872> 
 
 p. 312; Hume, Sir. F. i. p. 100 (1873), 
-Milvus goTinda, Swinh. P. Z. 8.1871, p. 341; 8chl Mm. R-3. Revue 
+Milvus goTinda, Swinh. P. Z. S.1871, p. 341; 8chl Mm. R-3. Revue 
 Accipitr. p. 126 (1873). 
 
 Adult male. Above dark chocolate-brown, with, a slight purplish 
@@ -22217,11 +22217,11 @@ W. T. Blanford, Esq. [P.],
 
 8. Milvas govindaf. 
 Milvus govinda, 
-Sylzes. P. Z. 8. 1832, p. 81; Bp. Ctonsp. i. p. 21 
+Sylzes. P. Z. S. 1832, p. 81; Bp. Ctonsp. i. p. 21 
 (1850) j 8chl Mus. P.-3. Milvi, p. 2 (1862) ; Jerd. B. Bid. i. 
 
 p. 104 (1802) 5 Gray, Hand-l B. I. p. 26 (1869) ; JSume, Bough 
-Notes, ii p. 320 (1870) j Soldsw. P. Z. 8. 1872, p. 414,-Blanf. J 
+Notes, ii p. 320 (1870) j Soldsw. P. Z. S. 1872, p. 414,-Blanf. J 
 A. 8. B. 1872, p. 43; Sume <§r Senders. Lahore to Yark. p. 176 
 (1873) j Ball, Sir. F. i. p. 53 (1873). 
 Milvus cheela, Jerd. 3£adr. Jaunt, x, p. 71 (1839) : Gray. Gen. B* 
@@ -22280,7 +22280,7 @@ Range, Australia.
 
 
 1. Lophoictiaia isum 
-Milvus isurus, Gould, P. Z. 8.1887, p. 140; id. Syn. B. Amtr. pi HI 
+Milvus isurus, Gould, P. Z. S.1887, p. 140; id. Syn. B. Amtr. pi HI 
 (1838) j Gray, Gen. B. i. p. 24 (1845) ; Gould, B. Amtr. L pi. 22 
 (1848) j Bp, Comp. L p. 21 (1850); Schl Mm. P.-B. Milvi, p. 4 
 (1862) ; Gould, Hanoi). B. Amtr. i. p. 51 (1865) : Gray, Hand-l 
@@ -22527,7 +22527,7 @@ Cymindis uneinatus, Less, Man. d? Orn. i. p. 91 (1828); Gray, Gen.
 B. i p. 25, pi. 9. fig. 7 (1845); Bp. Consp. i. p. 21 (1850) ; JBurm. 
 Th, Bras. ii. p. 108 (1856); Zeot. Ois. Trinid. p. 36 (1866); Gray, 
 Mand-l B. L p. 136 (1869); Pelz. Orn. Bras. pp. 5, 398 (1871); 
-SchL Berne, p. 136 (1873); Sharpe, P. Z. 8. 1873, p. 419; 86k $ 
+SchL Berne, p. 136 (1873); Sharpe, P. Z. S. 1873, p. 419; 86k $ 
 Sab. Womencl p. 122 (1873). 
 Cymindis cuculoides, Swains. Classif. B. ii. p. 209 (1837). 
 RegerMnus uneinatus, Kaup, Mm. Senchenb. iii p. 262 (1845); Cab. 
@@ -22536,8 +22536,8 @@ m Schomb. Beis. Guian. iii. p. 736 (1848).
 Eosthramus uneinatus, Strtckl. Orn. Syn. p. 136 (1855). 
 Cymindis pueherani, IAot. Ois. Trinid. p. 40 (1866); Gray, Mand-L 
 
-B. i p. 25 (1869); Mrnch, P. Z. 8.1870, p. 557. 
-Cymindis boliviensis, Burm. P. Z. 8.1868, p. 635; Gray. Hand-l B. 
+B. i p. 25 (1869); Mrnch, P. Z. S.1870, p. 557. 
+Cymindis boliviensis, Burm. P. Z. S.1868, p. 635; Gray. Hand-l B. 
 i ? . 28 (1869). 
 Cymmdis vitticaudus, Pelz. Orn. Bras. pp. 6, 398 (1871). 
 
@@ -23275,7 +23275,7 @@ $&. MACHJEEHAMPHUS.
 Type. 
 Maelueraxnphus, If estenn. Dijcl tot d. Dierk. i. p. 29, 
 ^ pi. 12 (1848) M. alcinus. 
-Stringonyx, Gurney, P. Z. 8.18Uo, p. 61s M. anderssoni 
+Stringonyx, Gurney, P. Z. S.18Uo, p. 61s M. anderssoni 
 
 Bill of Machmrhamphm anderssoni. 
 
@@ -23307,8 +23307,8 @@ culmen 1*35, wing 14*2, tail 7*8, tarsus 2-5. (Mus. Lugd.)
 Hab. Malacca. 
 
 2. Machserhamphxis anderssoni. 
-Stringonyx anderssoni, Gurney, P. Z. 8.1865, p. 618. 
-Machaerhamphus alcinus {nee Westerm.), Bartlett, P. Z. 8. 1866, 
+Stringonyx anderssoni, Gurney, P. Z. S.1865, p. 618. 
+Machaerhamphus alcinus {nee Westerm.), Bartlett, P. Z. S. 1866, 
 
 p. 324 j Gumey, TV. Z. 8. vi. pi. 29 (1869): Gray. JStmd-l B. i. 
 p. 26 (1869). 
@@ -23582,7 +23582,7 @@ Falco ptilorhynehus, Temm. PL Col. I pi. 44 (1823).
 Pernis ptilonorhynchus, Steph. Gen. ZooL xiii. pi 35 (1826); Holdsw. 
 
 
-P. Z. 8. 1872, p. 414. 
+P. Z. S. 1872, p. 414. 
 Pernis cristata, Cuv. Regne An. L p. 335 (1829) ; Gray, Gen. B. L 
 p. 24 (1845); Bp. Consp. Av. i. p. 20 (1850); StricM. Orn. Sun. 
 p. 131 (1855); Jerd. B. 2nd. i. p. 108 (1862); Wall. Ibis, 186% 
@@ -23903,7 +23903,7 @@ Buteo cristatus, Bonn, et Vieill Brie. With, iii. p. 1220 (1823)* Pucher.
 JRev. ZooL 1830, p. 84; Hartl J. f. O.1855, p. 418. 
 Falco lathami, J. E. Gray in Griffith's An. King. i. p. 30 (1829, 
 
-deser. orig.); Tiekell, J. A. 8. B. ii. p. 509 (1838, descr. orig.). 
+deser. orig.); Tiekell, J. A. S. B. ii. p. 509 (1838, descr. orig.). 
 Lophotes indicus, Less. Traite, p. 90 {lfe31). 
 Baza sjama, Hodgs. J. A. S. B. v. p. 777 (1830). 
 Lepidogenvs lathami. J. E. Gray, lfc39; teste G. E. Gray, Lid Gen. 
@@ -23915,10 +23915,10 @@ p. 23 (lb45j; BIyfh, Cat B. Mm. A. 8. B. p. 17 (1849); id. J. A.
 i. p. 62 (1«54); Strickl Orn. %«. j>. 126 (1855); Jerd. B. Bid. L 
 p. Il l (1862); 8c)d. Mm. P.-B. Milvi, p. 4 (1862); Blyih, Ibis, 
 1863. p. 11; Wall. EMS, 1868, p. 19; Gray, Hand-l B. i. p. 25 
-(1869); Hume, Emtgh Notes, ii. p. 337 (1870); Holdsw. P. Z. 8. 
+(1869); Hume, Emtgh Notes, ii. p. 337 (1870); Holdsw. P. Z. S. 
 1872, p. 415. 
 Hytiopus syama, Hodgs. J. A. 8, B. x. p. 27 (1841). 
-Hytiopus lophotes, Btyth, J. A. 8. B. xii. p. 312 (1843); id. Ami. N. 
+Hytiopus lophotes, Btyth, J. A. S. B. xii. p. 312 (1843); id. Ami. N. 
 
 
 H. xii, p. 93 (1843) ; Hodgs. in Grays ZooL Misc. p. 81 (1844). 
@@ -24068,7 +24068,7 @@ p. 24; Qumey, lbis7 1868, p. 143.
 Avicida buteoldes, Lafr. Mev, Zool 1846, p. 132 *. 
 Hytiopiis cafer, Sundev. (Efv. K. Vetensk. Fork. Stoclch. I860, p. 110. 
 Avicida eueuloides, G-urmy, Ibis, 1859, p. 240, 
-Avicida cafer, Schl P. Z. 8.1866, p. 420. 
+Avicida cafer, Schl P. Z. S.1866, p. 420. 
 Baza verreauxn, Gray, Mandl~B. i» p. 25 (1869). 
 
 
@@ -24259,7 +24259,7 @@ p, 127 (1855) * Schl Mus. P.-B. Milvi, p. 4 (1862) -Gould, Handb.
 
 358 FALCONIM. 
 
-B. Amir. i. p. 56 (1865) ; Ramsay, P. Z. 8.1867, p. 392; Gray, 
+B. Amir. i. p. 56 (1865) ; Ramsay, P. Z. S.1867, p. 392; Gray, 
 Hand-l B. I. p. 25 (1869). 
 Avieida suberistata, Lafr. Rev. Zool 1846, p. 127; Bp. Consp. i. 
 
@@ -24402,7 +24402,7 @@ C.
 360 PALCOXIDJE. 
 
 10. Bazarufa. 
-Baza reinwardtii, Gray, P. Z. 8. I860, p. 343. 
+Baza reinwardtii, Gray, P. Z. S. I860, p. 343. 
 Baza rufa, SchL Fog. Nederl Ind. Valhv. pp. 41, 78, pi. 27. %. 4, 
 pi. 28. figs. 1-3 (1866); Wall Ibis, 1868, p. 8; Gray, JEand4.B, 
 
@@ -24535,7 +24535,7 @@ ofB. i. p. 22 (1844) $ Ga5. <§- Tschudi, Faun. Tertian., Yog. pp. 18,
 
 p. 101 (1855); Burm. Th. Bras. ii. p. 100 (1856); Lawr. Ann. 
 Xyc. iV. T. vii. p. 317 (1861); ScL $ Salv. P. Z. S. 1864, p. 369, et 
-1866, p. 198; LSot. Ois. Trinid. p. 28 (1866); Set $ Sate. P. Z. 8. 
+1866, p. 198; LSot. Ois. Trinid. p. 28 (1866); Set $ Sate. P. Z. S. 
 1867, pp. 753,979; Finsch, P. Z. S. 1870, p. 556; Pdz. Orn. Bras. 
 p. 5 (1871); Set $ Salv. Nommcl p. 122 (1873). 
 Diodon brasiliensis, Less. Trait47 p. 96 (1831). 
@@ -24995,7 +24995,7 @@ Hal. Assam and Kachar.
 
 72. POLrOHIER4X. 
 4. Microhierax erythrogenys. 
-Hierax eiythrogenys, Vigors, P. Z. 8.1831, p. 98; Blijth, J. A. S. B. 
+Hierax eiythrogenys, Vigors, P. Z. S.1831, p. 98; Blijth, J. A. S. B. 
 xl pt. 2, p. 789 (1842); Gray, Gen. B. i. p. 21 (1844); Fraser, 
 Zool. Typ. pi. 31 (1849)• Kaup, Contr. Orn. 1850, p. 52; StricM. 
 Om. Si/n. p. 102 (1855); Gray, JKand.-l. B. i. p. 24 (1869). 
@@ -25126,7 +25126,7 @@ Bab. Yicinity of Tonghoo, Burmah.
 SPIZIAPTEEYX. _ 
 s» 
 ^ Type. 
-Spiziapteryx, Kaup, P. Z. 8. 1851, p. 43 S. circumcinctus. 
+Spiziapteryx, Kaup, P. Z. S. 1851, p. 43 S. circumcinctus. 
 Hemihierax, Burm. Peis.La Plata-St. ii. p. 437 (1861) S. circumcinctus. 
 
 Tarsus of Spiziapteryx circumcincfvs. 
@@ -25134,8 +25134,8 @@ Tarsus of Spiziapteryx circumcincfvs.
 Range. Confined to the Argentine Republic. 
 
 1. Spiziapteryx circumcinctus. 
-Harpagus circumcinctus, Kaup, JP. Z. 8. 1851, p. 43. 
-Spiziapteryx circumcinctus, Xaup, P. Z. 8. 1851, p. 43 * Pp. Pev. et 
+Harpagus circumcinctus, Kaup, JP. Z. S. 1851, p. 43. 
+Spiziapteryx circumcinctus, Xaup, P. Z. S. 1851, p. 43 * Pp. Pev. et 
 
 
 Mag. de Zool 1854, p. 537; 8cl. $ Sah. Nomencl p. 122 (1873). 
@@ -26094,7 +26094,7 @@ Sakin, Ibis, 1859, p. 184. pi. 6: Trisir. t. c. p. 289; ScM. Mm. P.-B.
 Falc. p. 5 (18S2); Gray, HamU. B. i. p. 20 (lfc80); JSeugl Orn. 
 KO.-Afr. I. p. 21 (1869) ; Salvad. Faun. Ital Uec p. 18 (1871); 
 Shelley!, B. of Egypt, p. 1S7 (1672); Hume, Stray Feathers, L p. 10 
-(1872); Saunders, P. Z. 8. 1872, p. 356. 
+(1872); Saunders, P. Z. S. 1872, p. 356. 
 
 Falco peiegrinoides, Temm. PL Col. 479 (1S24). 
 Falco lanarius alphanet, ScM, AbhandL Geh. ZooL p. 10 (1841). 
@@ -26560,7 +26560,7 @@ e. Juv. sk. NepauL B. H. Hodgson, Esq. [P.J.
 g. Skeleton, Zoological Society. 
 \ Sternum. B. H. Hodgson, Esq. [P.]. 
 12. Falco hypoleueus. 
-Falco hypoleueus, Gould, P. Z. 8. 1840, p. 162 (deter, on'g.); SckL 
+Falco hypoleueus, Gould, P. Z. S. 1840, p. 162 (deter, on'g.); SckL 
 Ahhandl. Geo. ZooL $c. p. 1G (1841) ; Gray, Gen. B. i. p. 19 
 (1844) 5 Gould, B. Atistr. fol. i. pi. 7 (1848); Sturt, Exp. C. Amtr. 
 
@@ -27246,7 +27246,7 @@ Turumtia chicquera, Blyth, Ibis, 1863, p. 9.
 
 Lithofalco chicquera, Hume, Rough Notes, i. p. 91 (1869) : Anders. 
 
-P. Z. 8.1871, p. 681. 
+P. Z. S.1871, p. 681. 
 Adult male. Entire head and hind neck chestnut; forehead and 
 
 sides of the face and neck, as well as the throat, white, with faint 
@@ -28496,7 +28496,7 @@ Hab. Mexico and the southern States of 3Torth America.
 
 a. Ad. sk. Mexico. E. B. Sharpe, Esq. [P.]. 
 77. HIEBACIPEA. Type 
-Ieracidea, Gould, P. Z. 8. 1837, p. 141 H. berigora. 
+Ieracidea, Gould, P. Z. S. 1837, p. 141 H. berigora. 
 Leg of Hieracidea berigora. 
 
 77. HIEJRACIDEJL. 421 
@@ -29409,7 +29409,7 @@ Tinnunculus newtoni, Gurney, Ibis, 1863, p. 34, pi. ii.; Newton, t. c.
 
 p. 336; Grand, Rev. et Mag. de Zool. 1867, p. 819; Gurney, Ibis, 
 1869, p. 447; Gray, JECand-l. B. i. p. 23 (1869). 
-Falco newtoni, ScM. P. Z. 8.1866, p. 420; SckL $ Poll Faun. Madag, 
+Falco newtoni, ScM. P. Z. S.1866, p. 420; SckL $ Poll Faun. Madag, 
 Ois. p. 32, pi. 11. figs. 1,2 (1868); Schl. Mus. P.-B, Revue Accipitr. 
 
 p. 43 (1873). 
@@ -29914,7 +29914,7 @@ s. 5 juy. sk. New Granada. T, K. Salmon; Esq.
 Emerillon de Cayenne, Bttff. Tl JEnl i. pi. 444 (1770). 
 Falco isabellinus, Sw. An. in Mmag. p. 281 (1837). 
 Poecilomis isabellinus, Bp. JRev. et Mag. de Zool. 1854, p. 537. 
-Tinnunculus sparverius, Sol. ty Salv. P. Z. 8. 1869, p. 254. 
+Tinnunculus sparverius, Sol. ty Salv. P. Z. S. 1869, p. 254. 
 Tinnunculus sparverius, var. isabellinus, Mdgw. JPr, Fhilad. Acad, 
 1870, p. 149. 
 
@@ -30631,7 +30631,7 @@ Haliaetus plumbeu*, Hudyi. J. A. S. B. \i. p. 307 (lsj" j.
 Ichthyaetus bicolor, Gray, ZiU Gen. B. L p. 4 (1&41) ; btricU. Qrn. 
 
 Syn. p. U0 {lbo5). 
-Ichthyaetus hurfeldi, Blyth, J. A. 8. B. \l p. 110 (1842). 
+Ichthyaetus hurfeldi, Blyth, J. A. S. B. \l p. 110 (1842). 
 Ichthyaetus plumb^us, Ilodgs. in Grays Zool, Mhe. p. *1 (1^44). 
 Ichthjaetus hucariu5, Ilodgs in Grays Zool. M'he. p. *1 (1*44). 
 Pontoaetus ichthyaetus, Gray, Gui. B. L p. 17 (1K45?; JUbfth, Cut. B. 

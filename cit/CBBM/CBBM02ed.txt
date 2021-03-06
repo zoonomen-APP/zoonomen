@@ -781,7 +781,7 @@ Strix hardwickii, J. JE. Gray, III. Ind. Zool. ii. pi. 31.
 
 Strix dumeticola, Tick. J. A. S. B. ii. p. 571. 
 
-Cultrunguis nigripes, Hodgs. J. A. 8. B. v. p. 364. 
+Cultrunguis nigripes, Hodgs. J. A. S. B. v. p. 364. 
 
 Cultrunguis leschenaulti, Jerd. Madr. Journ. x. p. 90. 
 
@@ -855,7 +855,7 @@ e. Ad. sk. Behar. B. H. Hodgson, Esq. [P.l.
 / . Ad. st. India. Major-Gen. Hardwicke [P.j. 
 g. Ad. st. Hong-Kong. Purchased. 
 2. Ketupa flavipes. 
-Cultrunguis flavipes. Hodgs. J. A. 8. B. v. p. 364. 
+Cultrunguis flavipes. Hodgs. J. A. S. B. v. p. 364. 
 Ketupa flavipes, Gray, Gen. B. i. p. 38; Cass. Cat. Strigida Fhilad. 
 Mm. p. 10; Blyth, Cat. B. Mm. A. S. B. p. 37; Bp. Consp. I 
 
@@ -1228,7 +1228,7 @@ Gray) B. ascalaphus.
 Huhua, Hodgs. As. Research, xix. p. 173 (1836).... B. nipalensis. 
 Heliaptex, Swains. Classif. B. ii. p. 217 (1837) B. arcticus. 
 Urrua, Hodgs. J. A. S. B. vi. p. 372 (1837) B. bengalensis. 
-Etoglaux (pro Huhua), Hodgs. J. A. 8. B. x. p. 28 
+Etoglaux (pro Huhua), Hodgs. J. A. S. B. x. p. 28 
 
 (1841) B. nipalensis. 
 Mesomorpha (pro Urrua), Hodgs. 1. c. p. 28 B. bengalensis. 
@@ -2049,7 +2049,7 @@ Otus bengalensis, Frankl. P. Z. S. 1831, p. 115 j Gould, Cent. B.
 
 JSimal. Mts. pi. 3. 
 
-Urrua cavearia, Hodgs. J. A. 8. B. vi. p. 372. 
+Urrua cavearia, Hodgs. J. A. S. B. vi. p. 372. 
 
 Urrua bengalensis, Jerd. Madr. Jozirn. x. p. 87; id. B. Ind. i. p. 128 j 
 
@@ -2074,7 +2074,7 @@ m
 
 Gray, Hand-l. B. i. p. 44; Hume, Str. F. i. p. 163. 
 
-Bubo cavearius, Hodgs. J. A. 8. JB. xix. p. 169. 
+Bubo cavearius, Hodgs. J. A. S. JB. xix. p. 169. 
 
 Ascalaphia bengalensis, Bhjth% Ibis, 1866, p. 252; Hkime, Hough 
 
@@ -2189,7 +2189,7 @@ Bubo africanus, Stephens, Gen. Zool. xiii. pi. 2, p. 55.
 
 11UB0XIDA). 
 
-p. 110; Gray, lland-l B. i. p. 43?-Gurney, P. Z. 8.1871, p. 148; 
+p. 110; Gray, lland-l B. i. p. 43?-Gurney, P. Z. S.1871, p. 148; 
 Schl Revue Accvpitr. p. 4; S/iarpe, ed. Layard, P. S. Afr. p. 70. 
 Bubo dilloni, Prevost et Des Murs, Rev. Zool. 1846, p. £42 j iid. in 
 Lefebvr. Voy. Abyss. Zool. p. 73, pi. S. 
@@ -2823,19 +2823,19 @@ from Southern India, and is stated to hold an intermediate position between
 2?. nipalensis and B. orientalis. Not having seen examples from South India, 
 BtTBONIDiE. 
 
-Huhua nipalensis, Hodgs. J. A. 8. B. vi. p. 362; Jerd. B. Ind. i. 
+Huhua nipalensis, Hodgs. J. A. S. B. vi. p. 362; Jerd. B. Ind. i. 
 
 p. 131; Bhjth, Ibis, 1806, p. 254; Hume, Bough Notes, p. 378 j 
 id. 8tr. F. I p. 431. 
-Etoglaux nipalenaia, Hodgs. J. A. 8. B. x. p. 28. 
+Etoglaux nipalenaia, Hodgs. J. A. S. B. x. p. 28. 
 Bubo orientalis, Blyth, Cat. B. Mus. A. 8. B.y. 34. 
 Bubo pectoralis, Cass. Cat Strigidce Bhilad. Mzts. p. 9. 
 Urraa nipalensis, Kaup, Contr. Orn. 1852, p. 117; id. Tr. Z. 8. iv. 
 
 p. 244. 
-Ptiloskelos amkerstii, Tickell, J. A. 8. B. xxviii. p. 448. 
-Huhua orientalis, Blyth, J. A. 8. B. xxviii. p. 411. 
-Huhua pectoralis, Holdsto. P. Z. 8. 1872, p. 416. 
+Ptiloskelos amkerstii, Tickell, J. A. S. B. xxviii. p. 448. 
+Huhua orientalis, Blyth, J. A. S. B. xxviii. p. 411. 
+Huhua pectoralis, Holdsto. P. Z. S. 1872, p. 416. 
 Young. General colour white, somewhat washed with yellow hei\ 
 and there, and barred with broad markings of dark brown, sometimes 
 heart- and sometimes spade-shaped on the back, less prominent 
@@ -2856,7 +2856,7 @@ I cannot speak positively on the species; but if distinct, the synonymy will be
 as follows:— 
 BUBO PECTORALIS. 
 
-Huhua pectoralis, Jerd. 3fadr. Journ. x. p. 89, pi. 1 ,* Eoldsw. P. Z. 8.1872, 
+Huhua pectoralis, Jerd. 3fadr. Journ. x. p. 89, pi. 1 ,* Eoldsw. P. Z. S.1872, 
 
 p. 416. 
 Bubo pectoralis, Gray, Gen. B. i. p. 37; By. Consp. L p. 49; 8tricJcL Orn. 
@@ -2956,7 +2956,7 @@ Urrua orientalis, Kaup, Contr. Orn. 1852, p. 117 j id. Tr.Z. S.iv.
 p. 243. 
 Bubo orientalis minor, Schl. Mus. P.-B. Oti, p. 15 j id. Bevue Accipitr. 
 p. 5. 
-Huhua orientalis, Holdsw. P. Z. 8.1872, p. 416. 
+Huhua orientalis, Holdsw. P. Z. S.1872, p. 416. 
 Bubo sumatranus, Salvad. TJcc. Born. p. 19. 
 Young. Above white, everywhere banded with light brown, inclining 
 to rufous on the greater upper wing-coverts; primary coverts 
@@ -3832,10 +3832,10 @@ p. 88 j Schh Revue Accipitr. p. 14 ; 8/iarpe, ed. Ixtyard, B. of 8.
 Afr. p. 75. 
 Scops latipennis, Kemp, Tr. Z. 8. iv. p. 223; id. Contr. Orn. 1852, 
 
-p. HO; Gurney^ P. Z. 8. 1871, p. 148. 
+p. HO; Gurney^ P. Z. S. 1871, p. 148. 
 Ephialtes latipennis, Licht. Nomencl. Av. p. 7. 
 Scops senega! ensis (nee Sioains.), Strickl. <§-Sclater, Contr. Orn. 1852, 
-p. 142; Mont. P. Z. 8. 1865, p. 91; Socage, Jorri. Zisb. i. p. 132; 
+p. 142; Mont. P. Z. S. 1865, p. 91; Socage, Jorri. Zisb. i. p. 132; 
 Blanf. Geol. §• Zool. Abyss, p. 303; Finsch, Tr. Z. 8. vii. p. 210; 
 Antin. $• Salvad. Viagg. Bogos, p. 40. 
 Scops fazoglensis, Wiirt. Naum. 1857, p. 432 j Heugl. J. f. 0. 1867, 
@@ -3865,7 +3865,7 @@ b. Ad. st. Cape of Good Hope. Sir A. Smith [O.j.
 c. Ad. sk. Benguela. J. J. Monteiro, Esq. [0.] 
 
 Subsp. /3. Scops pennatus. 
-Scops pennata, Hodg. J. A* 8. B. vi. p. 369 (pt.); Blyth, J. A. 8. B. 
+Scops pennata, Hodg. J. A* 8. B. vi. p. 369 (pt.); Blyth, J. A. S. B. 
 
 xiv. p. 183; Kaup, Contr. Orn. 1852, p. 110j id. Tr. Z. 8. iv. p. 223 j 
 Bp. Bev. et Mag. de Zool. 1854, p. 543. 
@@ -6635,7 +6635,7 @@ Ilab. S. Andamans.
 
 34. Scops rafescens. 
 Sfcrix rufescens, Ho7%sf. Tr. Linn. 8oc. xiii. p. 140. 
-Scops rufescens, 8w. Classif. B. ij. p. 217; Blyth, J. A. 8.B. xiv. 
+Scops rufescens, 8w. Classif. B. ij. p. 217; Blyth, J. A. S.B. xiv. 
 
 
 p. 183 ; StricM. Orn. Sijn. p. 201; Grmj, JKand-l B. i. p. 46; 8chl 
@@ -8903,9 +8903,9 @@ Noctua brama, Stephens, Gen. Zool xiii. pt. 2, p. 115; Less. Traite,
 
 p. 103; Schl Mm. P.-B. Striges, p. 29; id. Bevue Accipitr. p. 27. 
 Surnia brama, Pp. Oss. JRegn. An. Cuv. p. 58. 
-Noctua indica, Franld. P. Z. 8. 1831, p. 115. 
+Noctua indica, Franld. P. Z. S. 1831, p. 115. 
 Noctua tarayensis, Hodgs. As. Research, xix. p. 175. 
-Athene indica, Blyth, J. A. 8. B. xi. p. 457. 
+Athene indica, Blyth, J. A. S. B. xi. p. 457. 
 Athene brama, Blyth, Ann. N. H. xii. p. 93; Gray, Gen. B. i. p. 34, 
 pi. 12.fig. 3; Cass. Cat. Striyidce PMlad. Mas. p. 14: Blyth] Cat. 
 
@@ -9856,7 +9856,7 @@ Ninox lugubris, Blyth, Ann. N. B. xii. pp. 93, 231: Sharpe, Ibis,
 
 1875, p. 258. 
 Ninox jeridius, Hodgs. m Gray's Zool 3Iisc. p. 82. 
-Ninox scutellatus, Blyth, J. A. 8. B. xvi p. 511; Jerd. B. Lid. i. 
+Ninox scutellatus, Blyth, J. A. S. B. xvi p. 511; Jerd. B. Lid. i. 
 
 p. 147; Hwne, Bough Notes, ii. p. 420. 
 Athene hirsuta, Bonap. Comp. i. p. 41. 
@@ -9990,10 +9990,10 @@ Ctenoglaux scutellatus, Kaup, Contr. Orn. 1852, p. 109, et Tr. Z. 8.
 
 iv. p. 219. 
 Ninox japonicus, Bp. Pev. et Mag. de Zool. 1854, p. 543; Walden, Tr. 
-Z. 8. viii. p. 40; 8winh. P. Z. 8. 1871, p. 343; 8harpe, Ibis, 1875, 
+Z. 8. viii. p. 40; 8winh. P. Z. S. 1871, p. 343; 8harpe, Ibis, 1875, 
 p. 259. 
 Ninox hirsutus, Bp. Rev. et Mag. de Zool. 1854, p. 543; Holdsw. 
-P. Z. 8. 1872, p. 418; Hume, 8tr. F. 1874, pp. 151, 409, et 1875, 
+P. Z. S. 1872, p. 418; Hume, 8tr. F. 1874, pp. 151, 409, et 1875, 
 p, 441. 
 11 . NINOX. 157 
 Ninox borneensis, Bp. IZev. et Mag. de Zool 1854, p. 543; Walden, 
@@ -11400,7 +11400,7 @@ Buteo connivens, Vieill N. Diet. iv. p. 481.
 Noctua frontata, Less. TraiU, p. 106 • PucJier. Eev. et Mag. de ZooL 
 
 1849, p. 21. 
-Athene fortis, Gould, P. Z. 8.1837, p. 141• id. Syn. B. Austr. pt. iii, 
+Athene fortis, Gould, P. Z. S.1837, p. 141• id. Syn. B. Austr. pt. iii, 
 Athene connivens, Gray, Ann. N. II. xi. p. 1S9• id. Gen. B. i. p. 35 • 
 
 Gould, B. Austr. i. pi. 34; Cass. Cat.titrigidcePJiilad. Mus. p. 16; 
@@ -11785,9 +11785,9 @@ Athene superciliaris, Pueher. Rev. et Mag. de Zool 1849, p. 19 ; Bp.
 Consp. i. p. 39 ; StricM. Orn. 8yn. p. 168; Gray, Hand-l B. i. p. 40 ; 
 
 Gumey, Ibis, 1869, p. 453. 
-Scops superciliaris, Blyth, J. A. 8. B. xix. p. 509. 
+Scops superciliaris, Blyth, J. A. S. B. xix. p. 509. 
 Ieraglaux superciliaris, Kaup, Contr. Orn. 1852, p. 107. 
-Noctua polleni, 8chl. IT. T. D. i. p. 81; id. P. Z. 8. 1866, p. 421; id. 
+Noctua polleni, 8chl. IT. T. D. i. p. 81; id. P. Z. S. 1866, p. 421; id. 
 
 8r Poll. F. M. Ois. p. 49, pi. 17. 
 Noctua superciliaris, 8chl Mas. P.~B. Revue Accipitr. p. 25. 
@@ -13984,9 +13984,9 @@ Athene erythxoptera, Goidd, P. Z. S. 1837, p. 130 ,* Gray, Gen. B.
 
 
 i. p. 34. 
-x4Lthene undulata, Blyth, J. A. 8. B. xi. p. 457. 
+x4Lthene undulata, Blyth, J. A. S. B. xi. p. 457. 
 Athene perlineata, Ilodgs. in Gray's Zool. Misc. p. 82. 
-Athene radiata, Blyth, J. A. 8. B. xv. p. 281; id. Cat B. Mus. A. S. B. 
+Athene radiata, Blyth, J. A. S. B. xv. p. 281; id. Cat B. Mus. A. S. B. 
 p. 39; Cass. Cat Striqidte PJdlad. Mm. p. 14; Bp. Cotisp. i. p. 40 ; 
 Horsf. $ Moore, Cat B. Mm. B. I. Co. i. p. 67; Striehl. Orn. Syn. 
 p. 167; jerd. B. Ind. i. p. 143 ; Gray, Hand-l. B. i. p. 39; Hume, 
@@ -19503,7 +19503,7 @@ Tichell, J. A. S. B. ii. p. 572; Jerd. Ill Bid. Orn.
 pi. 30; Bp, Consp. i. p. 55 ; Kaup, Contr. Orn. 1852, p. 119; Strickl 
 Om. Syn. p. 181; Jerd. B. Ind. i. p. 118; Schl 3Ius. P.-B. Striges, 
 
-p. 0; Gray, Rand-l B. i. p. 53; Sicinh. P. Z. 8. 1871, p. 344; 
+p. 0; Gray, Rand-l B. i. p. 53; Sicinh. P. Z. S. 1871, p. 344; 
 Gould, B. Asia, part xxiv. 
 Strix longiniembris, Jerdon, 3Iadr. Joum. x. p. 86 ; Gray, Gen. B. i. 
 
@@ -19624,7 +19624,7 @@ Bp. Consp. i. p. 55: Kavp, Contr. Orn. 1852, p. 118; id. Tr. Z. 8.
 
 iv. p. 245 ; Mottl. df JDilkv. N. II. Labuan, p. 8; Ilorsf.fyMoore, 
 Cat. B. Mus. B. I Co. i. p. 80; 8tricld. Orn. Syn. p. 183; Jerd. 
-B. Ind. i. p. 119; Sol. P. Z. 8. 1803, p. 207; Blyth, Ibis, 1866, 
+B. Ind. i. p. 119; Sol. P. Z. S. 1803, p. 207; Blyth, Ibis, 1866, 
 p. 251; Wall. Ibis, 1868, p. 26; Gray,IIand~l. P. i. p. 52; Goidd, 
 B. Asia, pi. xxii.; Walden, Ibis, 1872, p. 365; Hume, Hough Notes, 
 ii. p. 346; id. 8tr. F 1873, p. 429; Salvad. Ucc. Bom. p. 21. 

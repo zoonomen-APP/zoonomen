@@ -1894,7 +1894,7 @@ Purchased.
 8. (Edicnemus affinis. 
 
 (Edicnemus affinis, Rupp. Mus. Senck. ii. p. 210 (1837); id. SysL 
-Uebers. p. 117, Taf. 42 (1845); Strickl. P. Z. 8. 1850, p. 220 (Kordofan); 
+Uebers. p. 117, Taf. 42 (1845); Strickl. P. Z. S. 1850, p. 220 (Kordofan); 
 Reichenb. Handb., Grail. Nov. Taf. xxxvi. figs. 2440-41 
 (1851); Heugl. Syst. Uebers. p. 54 (1856: Abyssinian coast; 
 White Nile, south of 6°); Hartl. Orn. W.-Afr. p. 209, note 
@@ -1909,7 +1909,7 @@ Hartl Vog. Ostafr. p. 62Q (1870: Somali); Gray, Hand-l B.
 iii. p. 9, no. 9943 (1871); Heugl Orn. N.O.-Afr. ii. p. 990 (1873 : 
 coast of Samhar; E. Kordofan; Upper Kir and Gazelle Eivers); 
 Antin. $* Salvad. Viagg. Bogos, p. 142 (1873: Samhar; Bogos ; 
-Barka); Salvin, Cat. Strickl. Coll. p. 590 (1882); Shelley, P. Z. 8. 
+Barka); Salvin, Cat. Strickl. Coll. p. 590 (1882); Shelley, P. Z. S. 
 1888, p. 49 (Lado); HeinefyBeichen. Nomencl. Mus. Hein. Orn. 
 p. 333 (1890: Abyssinia); Hartert, Hat. Vogels. Mm. Senck. 
 p. 219 (1891: Abyssinia). 
@@ -2228,7 +2228,7 @@ Range. The same as that of the single species of the genus.
 (Edicnemus magnirostris, Vieill. N. Diet. dHist. Nat. xxiii. p. 231 
 (1818: ex Geqffr. M88.); id. Enc. Meth. i. p. 834, pL 2U. fig. 1 
 (1820); Temm. PI. Col v. pi. 387 (1820); 8. Miill Verh. Land-
-en Volhenk. p. 23 (1839-44: Oetanata); Gray, P. Z. 8. 1860, 
+en Volhenk. p. 23 (1839-44: Oetanata); Gray, P. Z. S. 1860, 
 
 p. 363; Rosenb. Nat. Tijdschr. Nederl Ind. xxv. p. 253 (18(33: 
 Ceram) ; id. J. f. O. 1864, p. 135 ; 8eebohm, Geogr. Distr. 
@@ -2245,12 +2245,12 @@ Guinea); id. Compl. de Buff'., Ois. p. 677 (1838); Gray, List Gen.
 B. p. 83 (1841); Licht. No?nencl.Av. Mus. Berol. p. 93 (1854). 
 Esacus magnirostris, Gray, List Gen. B. p. 88 (1841); id. Gen. B. 
 iii. p. 535 (1844) ; Gould, B, Austr. vi. pi. 6 (1848) ; Macgill Toy. 
-RaUlesn. ii. p. 358 (1852); Gray, P. Z. 8. 1856, p. 187 (Am), 
+RaUlesn. ii. p. 358 (1852); Gray, P. Z. S. 1856, p. 187 (Am), 
 p. 196; Bp. C. R. xliii. p. 416 (1856); 8el. Proa. Linn. Soc. ii. 
 p. 169 (1858); Cass. U.S. Expl. Exp. p. 359 (1858); Gray, Cat. 
-Mamm. % B. New Guinea, p. 50 (1859); Gray, P. Z. 8. 1861, 
-p. 438 (Salawati); Wallace, P. Z. 8. 1862, pp. 335, 346 (Sula 
-Isl.); id. P. Z. 8. 1863, p. 35 (Bouru); Gould, Handb. B. Austr. 
+Mamm. % B. New Guinea, p. 50 (1859); Gray, P. Z. S. 1861, 
+p. 438 (Salawati); Wallace, P. Z. S. 1862, pp. 335, 346 (Sula 
+Isl.); id. P. Z. S. 1863, p. 35 (Bouru); Gould, Handb. B. Austr. 
 ii. p. 213 (1865) ; Finsch, Neu-Giiinea, p. 181 (1865); Sehl Mus. 
 Pays-Bas, Cursores, p. 22 (1865); Rosenb. Reis naar Zitidoostereil. 
 p. 8'2 (1867); Marie, Actes Soc. Linn. Bord. xxvii. p. 328 
@@ -2259,9 +2259,9 @@ p. 8'2 (1867); Marie, Actes Soc. Linn. Bord. xxvii. p. 328
 Str. F. ii. p. 290 (1874 : Anclamans, breeding); id. op. cit. iii. p. 224 
 (1875); Hume, Nests $ Eggs Ind. B. iii. p. 581 (1873) ; Wald. 
 Tr. Z. 8. ix. p. 227 (1875 : Sooloo Is.); Hume, Str. F. iv. p. 293 
-(1876); Scl. P. Z. 8. 1876, p. 461 (Huon Gulf); Masters, Proc. 
+(1876); Scl. P. Z. S. 1876, p. 461 (Huon Gulf); Masters, Proc. 
 Limi. Soc. N.8. W. i. p. 59 (1877: Cape Grenville; Long IsL); 
-Ramsay, t. c. p. 187 (Queensland); id. P. Z. 8. 1877, p. 335 
+Ramsay, t. c. p. 187 (Queensland); id. P. Z. S. 1877, p. 335 
 (Port Denison); Scl t. c. p. 556; Hume, Str. F. v. p. 121 (1877) ; 
 Ramsay, Proc. Linn. Soc. N. 8. W. ii. p.'196 (1878); Masters, t c. 
 4 . ORTHOBHAMPHUS. 
@@ -2277,7 +2277,7 @@ Finsch, t c. p. 540 (New Britain) ; Scl. Voy. « Challenger; ii. p. 33
 (1881: Pigeon Is.); Tristr. P. Z. S. 1881, p. 996 (Louisiades); id. 
 Ibis, 1882, pp. 140,144 (Solomon Is.); E. L. cfE. L. C. Layard, t c. 
 pp. 532,544 (Huon Is., breeding) ; Oates,Handb. B. Brit Burm.il 
-p. 351 (1883); Sharpe, Ibis, 1888, p. 203 (Palawan); Grant, P. Z. 8. 
+p. 351 (1883); Sharpe, Ibis, 1888, p. 203 (Palawan); Grant, P. Z. S. 
 1888, p. 201 (Guadalcanal*); Ramsay, Tab. List Austr. B. p. 19 
 (1888); Whitehead, Ibis, 1890, p. 59 (Palawan); Sharpe, t. c. 
 pp. 141, 284 (Abai, N. Borneo); Oates, ed. Hume's Nests Sr Eggs 
@@ -6736,7 +6736,7 @@ in Max Weber, Zool. ErgeK Reis. NederL Ost-Ind. p. 30(3 (1893).
 Hydralector gallinaceus, Wagler, Isis, 1832, p. 280; Walden, Tr. 
 
 Z. S. viii. p. 92 (1872: Menado; Makassar); Meyer, Ibis, 1879, 
-p. 141 (Limbotto); Forbes, P. Z. 8. 1881, p. 647 ; Blasius, J.f.O. 
+p. 141 (Limbotto); Forbes, P. Z. S. 1881, p. 647 ; Blasius, J.f.O. 
 * I have not found Mr. Grays authority for this locality. 
 so 
 so 
@@ -6817,7 +6817,7 @@ q, r. $ ad. sk.
 SI 
 2. Hydralector novae-guineae. 
 Parra gallinacea 
-(nee T.), D1 Albert. P. Z. 8. 1875, p. 30 ; id. Ann. 
+(nee T.), D1 Albert. P. Z. S. 1875, p. 30 ; id. Ann. 
 Mus. Genov. viii. p. 799 (1875). 
 Parra cristata (nee V.), Sharpe, Journ. Linn. Soc. Zool. xii. p. 505 
 (1877: Laloke River). 
@@ -7060,9 +7060,9 @@ Gray, List Grallm Brit Mus. p. 112 (1844); Schl. Mus. Pays-Bas,
 Ralli, p. 65 (1865). J 
 Parra hypomelsena, Gray, Gen. B. iii. p. 589, pi. clix. (1846); Scl 
 
-P. Z. 8. 1856, p. 283 (Bogota, Carthagena, Chiriqui): Salvin. 
-P. Z. 8. 1870, p. 218 (Oalobre); Wyatt, Ibis, 1871, pp. 116, 383; 
-Scl. fy Salvm, Nomencl. Av. Neotrop. p. 142 (1873); iid. P. Z. 8. 
+P. Z. S. 1856, p. 283 (Bogota, Carthagena, Chiriqui): Salvin. 
+P. Z. S. 1870, p. 218 (Oalobre); Wyatt, Ibis, 1871, pp. 116, 383; 
+Scl. fy Salvm, Nomencl. Av. Neotrop. p. 142 (1873); iid. P. Z. S. 
 1879, p. 546 (Antioquia); Berlepsch, J.f. 0. 1884, p. 320 (Lake 
 Paturia, Bucarramanga); id. J. f. 0. 3889, p. 320 (Ucayali P.). 
 Jacana nigra, Elliot, Auk, v. p. 296 (1888). 
@@ -7653,7 +7653,7 @@ Cinclus interpres, Gray, List Gen. B. p. 85 (1841); Rilpp. Syst.
 
 Uebers. p. 118 (1845); Gray, Gen. B. iii. p. 549 (1846); id. Cat. 
 
-B. Trop. Isl Pacific Ocean, p. 48 (1859); id. P. Z. 8. 1860f 
+B. Trop. Isl Pacific Ocean, p. 48 (1859); id. P. Z. S. 1860f 
 p. 363 (E. Gilolo) ; id. List Brit. B. p. 143 (1863); Layard, B. 
 S. Afr. p. 301 (1867); Gray, Hand-l. B. iii. p. 22, no. 10068 
 (1871); Gurney in Anderss. B. Bam. Ld. p. 276 (1872; Walvisch 
@@ -7693,7 +7693,7 @@ Tog. Neuholl p. 206 (1849); Thomps. B. Irel. ii. p. 177 (1850);
 
 M CHAKADEIIDJE. 
 
-Lembeye, Av. Cuba, p. 100 (1850); Harcourt, P. Z. 8. 1851, 
+Lembeye, Av. Cuba, p. 100 (1850); Harcourt, P. Z. S. 1851, 
 
 p. 146 (Madeira) ; Midd. Peis. Sibir., Zool p. 213 (1851: 75° N. 
 lat.: Taimyr River; Boganida River, May ; Sehantar Isl., Aug.); 
@@ -7714,7 +7714,7 @@ Cuba); Linderm. Vog. Griechenl. p. 136 (1860: spring & autumn
 migrant) ; Powys, Ibis, 1860, p. 339 (Antivari, Dec, Jan.); Swinh. 
 t. c. p. 359 (Amoy); Swinh. Ibis, 1861, p. 342 (Peking), 1862, p. 255 
 <Foochow, Dec), 1863, p. 414 (Formosa) ; Albrecht, J.f O. 1862, 
-p. 205 (Jamaica); Swinh. P. Z. 8.1863, p. 315 (Amoy); A. Newt 
+p. 205 (Jamaica); Swinh. P. Z. S.1863, p. 315 (Amoy); A. Newt 
 in Baring-Gould)s ' Iceland,1 p. 411 (1863: breeding); Bayard, 
 Ibis, 1863, p. 250 (Cape St. Francis, Dec.); Blakist t c. p. 130 
 (York Factory, Aug.; Mackenzie R.); E. Newt. t. c. p. 455 
@@ -7732,7 +7732,7 @@ Eandb. B. Austr. ii. p. 269 (1865): Finsch, Neu-Ghdnea, p. 181
 Sept.) ; Godm. Ibis, 1866, pp. 100, 107 (Azores, June); Sahin, 
 t. c. p. 190 (Guatemala, both coasts) ; Schl. P. Z. S. 1866, p. 425 
 (Mayotte; Reunion); JDegl § Gerhe, Orn. Eur. ii. p. 154 (1867); 
-Loche, Expl. Sei. Alger., Ois. ii. p. 28 (1867 : migrant); Scl. P. Z. 8. 
+Loche, Expl. Sei. Alger., Ois. ii. p. 28 (1867 : migrant); Scl. P. Z. S. 
 1867, p. 339 (Chili); Eartl t. c. p. 83 (Pelew Isl.); Lawr. Ann. 
 Lye. N. Y. viii. p. 100 (1867: Sombrero); Baird, Ibis, 1867, 
 p.* 286; Beavan, t c. p. 332 (Andamans); E. Newt, t c. pp. 350, 
@@ -7765,7 +7765,7 @@ Earting, Eandb. Brit B. p. 45 (1872) ; Eeugl Ibis, 1872,
 p. 62 (Novaya Zemlya) ; Godman, t c. p. 221 (Flores, Azores); 
 Finsch, Ahiiandl. not. Ver. Bremen, iii. p. 62 (1872: Alaska); 
 Coues, Key N. Amer. B. p. 246 (1872); Finsch, J. f. 0.1872, 
-p. 52 (Samoa); Eoldsw. P. Z. 8. 1872, p. 472; JScl § Salv. 
+p. 52 (Samoa); Eoldsw. P. Z. S. 1872, p. 472; JScl § Salv. 
 Nomencl. Av. Neotr. p. 143 (1873); Buller, B. N. Zeal p. 221 
 (1873) ; Gould, B. Gt. Brit. iv. pi. 60 (1873) ; Tacz. J. f. 0.1873, 
 p. 101 (Kultuk; Darasun), 1874, p. 336; AM. 8? Earvie-Brown, 
@@ -7807,7 +7807,7 @@ Trans, vol. 168, Aves, p. 4 (1878: Rodriguez); Laior. Proc.
 U.S. Nat. Mus. i. p. 67 (1878: Dominica), p. 197 (S. Vincent); 
 Blakist # Pryer, Ibis, 1878, p. 219 (Japan); E. L. $ L. C. Layard, 
 t e. p. 280 (New Hebrides; Santo); E. C. Taylor, t c. p. 373 
-(Damietta); E. Adams, t. c. p. 437 (Michalaski); Tweedd. P. Z. 8. 
+(Damietta); E. Adams, t. c. p. 437 (Michalaski); Tweedd. P. Z. S. 
 1878, p. 711 (N. Bohol); Scl t c. p. 557; Forbes, t c. p. 127 
 (Raine IsL); Maynard, B. East. N. Amer. p. 366 (1879); Milne-
 Edwards & Grandid. Eist. Nat Madag., Ois. p. 512 (1879); Legge, 
@@ -9336,9 +9336,9 @@ Ussuri, no. 157 (1870); Blyth, B. Burm. p. 154 (1875: Arakan) ;
 Oates, B. Brit Burm. ii. p. 377 (1883). 
 
 Hsematopus longirostris {nee V.), Swinh. Ibis, 1863, p. 406 (Ape's 
-Hill Creek, Formosa); id. P. Z. 8.1803, p. 310. 
+Hill Creek, Formosa); id. P. Z. S.1803, p. 310. 
 
-Haamatopus osculans, Swinh. P. Z. 8.1871, p. 405; Pelz. Verk s.-6. 
+Haamatopus osculans, Swinh. P. Z. S.1871, p. 405; Pelz. Verk s.-6. 
 Ver. Wien, 1872, Extraheft, p. 6; Swinh. Ibis, 1874, p. 426 
 (Chefoo); id. Ibis, 1875, pp. 129, 453 (Hakodadi); Tacz. Bull 
 Soc. Zool France, i. p. 249 (1876); David # Oust. Ois. Chine, 
@@ -9349,7 +9349,7 @@ Ibis, 1878, p. 219 (Yezo, Yokohama); 8eebohm, Ibis, 1879, p. 26
 iid. op. tit. x. p. 109 (1882); Tacz. Bull Soc. Zool. France, viii, 
 p. 339 (1883) ; Blakist. Amended List B. Jap. p. 11 (1884: Japan 
 generally); Stejn. Bull. U.S. Nat Mus. no. 29, pp. 100,138 (1885 : 
-Kanitchatka); Tacz. P. Z. 8. 1888, j . 459 (Corea); Seebohm, 
+Kanitchatka); Tacz. P. Z. S. 1888, j . 459 (Corea); Seebohm, 
 Geoqr. Distr. Charadr. p. 303 (1888); id. B. Japan. Fmp. p. 319 
 (1890: Kurile Isl.; Yezo; Yokohama); Styan,IMs, 1891, pp. 330, 
 504 (Lower Yangtse, winter); Campbell, Ibis, 1892, p. 246 (Corea); 
@@ -9410,7 +9410,7 @@ figs. 2412-14 (1851); MacGilliv. Voy. Rattlesn. ii. p. 358 (1852 :
 N.E.Australia; Torres Straits); Bp. C. B. xliii p. 420(1856); 
 Gray, P. Z. S. 1858, p. 197 (Aru Is.); Scl Journ. Proc. Linn. Soc, 
 Zool. ii. p. 169 (1858 : New Guinea); Gray, Cat. Mamm. $-Birds 
-New Guin. pp. 51, 62 (1859); id. P. Z. 8.1861, p. 438; id. Ibis, 
+New Guin. pp. 51, 62 (1859); id. P. Z. S.1861, p. 438; id. Ibis, 
 1862, p. 235; Bosenb. Nat. TijdscJir. Nederl Ind. xxv. p. 253 
 (1863); id. J.f. 0.1864, p. 136 (New Guinea; Aru Isl.); Goidd, 
 Handb. B. Austr. ii. p. 215 (1865) ; Firnch, Neu-Guinea, p. 181 
@@ -9738,7 +9738,7 @@ Fogers).
 
 6. Hasmatopus galapagensis. 
 Haematopus palliatus (nee Temm.), Scl $• JSalv. F. Z. S. 1870, p. 323 
-(Indefatigable Is.); Sundev. P. Z. 8. 1871, p. 125 (Galapagos); 
+(Indefatigable Is.); Sundev. P. Z. S. 1871, p. 125 (Galapagos); 
 Salv. Trans. Zool. Soc. is. p. 502 (1875: Indefatigable Is.). 
 
 Haematopus galapagensis, Fidgw. Auk, 5ii. p. 331 (1886: Chatham 
@@ -9781,7 +9781,7 @@ Hsematopus palliatns
 (nee Temm.), 8cl. fy 8alv. Ibis, 1870, p. 499 
 (Straits of Magellan) ; Tacz, P. Z. 8 1877, p. 748 (Peru); 8ah. 
 
-P. Z. 8. 1883, p. 429 (Paracas Bay); Tacz. Orn. JP4rou, iii. p. 350 
+P. Z. S. 1883, p. 429 (Paracas Bay); Tacz. Orn. JP4rou, iii. p. 350 
 (1886); Macf. Ibis, 1887, p. 205 (San Lorenzo Is., Peru); Brewster, 
 Auk, v. p. 86 (1888 : Isabella Isl., W. Coast of Mexico, Tekuantepec). 
 Heematopus frazari, Brewster, Auk, v. p. 84 (1888: Carmen Is., Gulf 
@@ -9862,7 +9862,7 @@ B. p. 300, pi. xx. fig. 2 (1889); Forbes, Ibis, 1893, p. 545 (Chatham
 IsL). 
 Haematopus fuliginosus, Gould, B. Austr. vi. pi. 8 (1845); Gray, 
 Gen. B. iii. p. 547 (1847); Reiehtnb. Tog. NeuholL no. 319 
-(1849) ; Gray, P. Z. 8. 1858, p. 197; id. Cat. Mamm. £ B. New 
+(1849) ; Gray, P. Z. S. 1858, p. 197; id. Cat. Mamm. £ B. New 
 Gidn. p. 62 (1859); Gould, Handh. B. Austr. ii. p. 217 (1865); 
 Masters, Proc. Linn. Soc. N. S. W. i. p. 00 (1877: Palm IsL); 
 Ramsay, t. c. p. 187; Walker, Ibis, 1892, p. 257 (Adele IsL, lsN\. 
@@ -10113,11 +10113,11 @@ Cass, in Bcrirds B. N. Amer. p. 700 (1858: Coast of Chili);
 Scl P. Z. S. 1860, p. 386 (Falkland Is.) • Abbott, Ibis, 1861, 
 
 p. 155 (Falkland Is.); Schl. Mus. Pays-Bas, Cursores, p. 76 
-(1865, pt.); Scl. P. Z. 8.1867, pp. 331, 339 (Chili); id. §• 8ah. 
+(1865, pt.); Scl. P. Z. S.1867, pp. 331, 339 (Chili); id. §• 8ah. 
 Ibis, 1870, p. 499 (Port Laguna); Gray, Rand4. B. iii. p. 22, 
 no. 10066 (1871) ; 8cl. $ Sato. Mmencl. A v. Neotrop. p. 143 
 (1873); 8ahin, Ibis, 1875, p. 377 (Masafuera Isl.); Bumf. Ibis, 
-1878, p. 403 (Tambo Point); 8cl. $ 8alv. P. Z. 8.1878, p. 438 
+1878, p. 403 (Tambo Point); 8cl. $ 8alv. P. Z. S.1878, p. 438 
 (Elizabeth Isl.) ; iid. Toy. < Challenger; ii. p. 109 (1881) ; Sharpe, 
 P. Z. S. 1881, p. 15 (Port Henry); Sato. P. Z. S. 1883, p. 429 
 (San Lorenzo Is., Peru); Taez. Orn. Perou, iii. p. 351 (1886); 
@@ -10126,7 +10126,7 @@ p. 205 (San Lorenzo Isl.); Scl fy Muds. Argent. Orn. ii. p. 176
 (1889: Tambo Point); Bidgw. Proc. U.S. Nat Mus. xii. p. 136 
 (1889: Elizabeth Isl.); Lucas, op. cit. xiii. p. 130 (1890); Oust 
 Miss. Sci. Cap Horn, Ois. p. 119 (1891). 
-Haematopus unicolor (nee Wagl.)} Gould, P. Z. 8. 1859, p. 96 
+Haematopus unicolor (nee Wagl.)} Gould, P. Z. S. 1859, p. 96 
 (Falkland Is.). 
 
 Hseniatopus niger ater, Baird, Brewer,fy Bidgw. Water-Birds N. 
@@ -10740,7 +10740,7 @@ Charadrius bilobus, Gm. Syst. Nat. i. p. b91 (1788): Less. TraiU
 d'Om. p. 546 (1831). 
 Charadrius myops, Less. TraiU d'Om. p. 546 (1831); Pucher. Rev. 
 Zool. 1851, p. 570. 
-Vanellus bilobus, Sykes, P. Z. 8. 1832. p. 166 (Deccan); Jerd. Madr. 
+Vanellus bilobus, Sykes, P. Z. S. 1832. p. 166 (Deccan); Jerd. Madr. 
 Joum. xii. p. 213 (1840 : India generally). 
 
 Sarciophoms 
@@ -11197,15 +11197,15 @@ Yanellu* ptiloscelis, Gray fy Mitch. Gen. B. id. p. 541, pi. 145
 (1847); Iteichenb. Grail. Taf. ccxcix. fig. 2434 (1848); Gray, 
 Jlaml-l B. iii. p. 11, no. 9952 (1871). 
 V.mellus resplendent, Gray, Gen. B. iii. p. 541 (1847); Licht. 
-Nomeact. Av. Mm. Berol. p. 95 (1854 : Peru) ; 8cl. P. Z. 8. 1858, 
+Nomeact. Av. Mm. Berol. p. 95 (1854 : Peru) ; 8cl. P. Z. S. 1858, 
 
-p. 556 (Punin, Ecuador); id. P. Z. 8. 1860, p. 82 (Quito); id. # 
-8alv. P. Z. 8. 1869, p. 156 (Tmta, Peru); iid. Nomencl. Av. Neotrop. 
-p. 142 (1873); Tacz. P. Z. 8. 1874, p. 560 (Junin; MaravmV); 
-id. $ Berlepsck, P. Z. 8. 1885, p. 116 (Ecuador); 8cl. 
-P. Z. 8. 1886, p. 403 (Sitana and Sacaya, Tarapaca); Taczan. Orn. 
+p. 556 (Punin, Ecuador); id. P. Z. S. 1860, p. 82 (Quito); id. # 
+8alv. P. Z. S. 1869, p. 156 (Tmta, Peru); iid. Nomencl. Av. Neotrop. 
+p. 142 (1873); Tacz. P. Z. S. 1874, p. 560 (Junin; MaravmV); 
+id. $ Berlepsck, P. Z. S. 1885, p. 116 (Ecuador); 8cl. 
+P. Z. S. 1886, p. 403 (Sitana and Sacaya, Tarapaca); Taczan. Orn. 
 Peroic, iii. p. 336(1886: Tarmaj; Scebohm, Geogr. Distr. Charadr. 
-p. 228 (1888); 8d. P. Z. 8. 1891, p. 136 (Tarapaca); Berkeley 
+p. 228 (1888); 8d. P. Z. S. 1891, p. 136 (Tarapaca); Berkeley 
 James, Neiv List Chilian B. p, 11 (1892: Tarapaca). 
 Ptiloscelys resplendens, Bp. C. P. xliii. p< 419 (1856). 
 
@@ -11547,7 +11547,7 @@ Lobivanellus" senegallus Srrickl. P. Z. S. 1&41, p. 33; Blanf. Geo!.
 <$• Zool. Abyss, p. 431 (1870 : Agula below 7000 ft.; Anseba 
 Valley). 
 
-Lobivanellus albieapillus Stricld. P. Z. 8. 1841, p. 33; Peiehenh. 
+Lobivanellus albieapillus Stricld. P. Z. S. 1841, p. 33; Peiehenh. 
 Grail. Taf. c. h>s. 682-083 (1848) ; Striekl P. Z. S. 1N50. p. L':d 
 (Kordofan) ; Finsch # Earfl Toy, Ostafr. p. 642 (1870); Finsek, 
 Trans. Zool. Sac. vii. p. 29U (1870: Kokai; Gabena Weldt 
@@ -12062,7 +12062,7 @@ Tringa goenbis. Lath Ind. Oni. li. p. 727 (1790).
 
 Vanellub goensis, Vieill. N. Diet d'llist. Nat. xxxv. p. 208 (1819): 
 
-Frankl. P. Z. 8. 1831, p. 124 (Ganges); SyJces, P. Z. 8 1832, 
+Frankl. P. Z. S. 1831, p. 124 (Ganges); SyJces, P. Z. 8 1832, 
 
 p. 165 (Deccan); Gould, Cent. B. Himal. M. pi. 78 (1832); Jerd. 
 JIadr. Journ. xii. p. 214 (1840). 
@@ -12077,7 +12077,7 @@ B. Mus. As. Soc. p. 261 (1849: Calcutta); Licht Nomencl. Av.
 Mas. Berol. p. 95 (1854: Bengal); Irby, Ibis, 1861, p. 237 (Oudh); 
 Jerd. B. Lid. iii. p. 648 (1864) j Beavan, Ibis, 1868, p. 390 (Maimbhoom); 
 Brooks, Ibis, 1869, p. 60 (Naini Tal); Feilden, Ibis, 
-1870, p. 295 (Secunderabad, breeding); Blanf. J. A. 8. Benq. xl. 
+1870, p. 295 (Secunderabad, breeding); Blanf. J. A. S. Benq. xl. 
 p. 275 (1871: Wardha Valley) ; Hayes Lloyd, Ibis, 1873, p. 416 
 (Kathiawar) ; C. H. T. Marshall, Ibis, 1884, p. 424 (Chamba) ; 
 W. W. Cordeaux, Ibis, 1888, p. 224 (Lindur Valley, Cashmere). 
@@ -12087,8 +12087,8 @@ Sarcogrammus goensis, Reichenb. Grail, p. xviii, taf. ci. fig. 168,
 t. cii. fig. 1050 (1852). 
 Lobivanelliis 
 indicus, Schl. Mus. Pays-Bas, Cursores, p. 68 (1865: 
-Bengal; Columbo); Holdsw. P. Z. 8. 1874, p. 472 (Ceylon); 
-Stoliczka, J. A. 8. Beng. xli. p. 251 (1872 : Kutch); Hume, Nests 
+Bengal; Columbo); Holdsw. P. Z. S. 1874, p. 472 (Ceylon); 
+Stoliczka, J. A. S. Beng. xli. p. 251 (1872 : Kutch); Hume, Nests 
 $ Eggs Lid. B. p. 574 (1873); id. 8tr. F. i. p. 232 (1873 : Sind); 
 Adam, t c. p. 394 (Sambhur); Ball, Str. F. ii. p. 429 (1874: 
 Chota Nagpur); Butler, 8tr. F. iv. pp. 14,35 (1876: Northern 
@@ -13407,17 +13407,17 @@ i2
 164 
 CHA&ADKIIDiB. 
 
-Hudson, P. Z. 8. 1874, p. 167 (Buenos Ayres); Sorting, i. c* 
+Hudson, P. Z. S. 1874, p. 167 (Buenos Ayres); Sorting, i. c* 
 
 pp. 450, 457 (Uruguay); Bumf. Ibis, 187(5, p. 164 (Buenos 
 
 Ayres) ; id. Ibis, 1877, p. 42 (Cliupat Valley, breeding); id. t. e. 
 
 p. 196 (Buenos Ayres) • Garrod, B. Z. 8. 1878, pp. 627, 628; ScL 
-$ Salv. JP. Z. 8. 1879, p. 546 (Antioquia)• Gibson, Ibis, 18807 
+$ Salv. JP. Z. S. 1879, p. 546 (Antioquia)• Gibson, Ibis, 18807 
 p. 
 161 (Cape San Antonio); Durnf. t. c. p. 416 (Tucuman); 
-White, P. Z. 8. 1882, p. 627 (Buenos Apes); Berlepsch, Ms, 1884, 
+White, P. Z. S. 1882, p. 627 (Buenos Apes); Berlepsch, Ms, 1884, 
 p. 441 (Angostura); Barroius, Auk, i. p. 278 (1884: Lower 
 Uruguay, breeding Aug. to Bee); Gibson, Ik's, 1885, p. 282 
 (Paysandu); Berl. fy Bier. Zeitschr. ges. Orn. ii. p. 85 (1885: 
@@ -14375,7 +14375,7 @@ Wright, Ibis, 1864, p. 42 (not observed in Malta) ; Schl. Mm.
 Pays-Bas, Cursores, p. 58 (1865: Lower Volga; Senaar) j Borqgr 
 Vogelf. Norddeutsehl p. 109 (1869); Wright, Ibis, 1869, pp. 251253 
 (Malta) ; Wyatt, Ibis, 1870, p. 17 (Sinai); Severtz. Turhest. 
-Jevotn. p. 69 (1873); JSeebohm, P. Z. 8. 1888, p. 416; id. Geogr. 
+Jevotn. p. 69 (1873); JSeebohm, P. Z. S. 1888, p. 416; id. Geogr. 
 
 * 
 Cf. Salvad. Ibis, 1888, pp. 320-325,1890, pp. 124-126. 
@@ -15875,8 +15875,8 @@ Muhle, Beitr. Orn. Griechenl. p. 96 (1844); Gray, List Grail. Brit.
 Mus. p. 66 (1844); Hewits. Bggs Brit. B. ii. p. 249, pi. lxviii. 
 fig. 1 (1846); Gray, Gen. B. iii. p. 544 (1847); Blyth, Cat. B. 
 Mus. As. Soc. p. 262 (1849); Thomps. B. Irel. ii. p. 83 (1850); 
-Earcourt, P. Z. 8. 1851, p. 146 (Canary Is.); Brehm, J.f.O. 
-1854, p. 79; Burgess, P. Z. 8. 1855, p. 80 (Karachi); Bolle, 
+Earcourt, P. Z. S. 1851, p. 146 (Canary Is.); Brehm, J.f.O. 
+1854, p. 79; Burgess, P. Z. S. 1855, p. 80 (Karachi); Bolle, 
 
 J. f. O. 1855, p. 176 (Canary Is., winter); Heugl. Syst. TJebers. 
 p. 56 (18Q0) ; Eartl Orn. West-Afr. p. 215 (1857: Gaboon); 
@@ -15887,7 +15887,7 @@ Potuys, t. c. p. 339 (Corfu & Epirus); F. $ P. Godman, Ibis, 1861,
 p. 86 (Norway, May) ; Schleg. Bier. Nederl. Vogels, pi. 21. figs. 2,3 
 (1861); Eartl J.f.O.1861, p. 268 (Gaboon); Netotonin BaringGould's 
 Iceland, p. 411 (1863); Gray, List Brit. B. p. 139 (1863); 
-Gould, B. Gt. Brit. iv. pis. 38, 39 (1864); Tristr. P. Z. 8. 1864, 
+Gould, B. Gt. Brit. iv. pis. 38, 39 (1864); Tristr. P. Z. S. 1864, 
 p. 450 (Palestine, winter); Wright, Ibis, 1864, p. 140 (Malta, 
 spring & autumn); Sperling, t. c. p. 286 (Missolonghi marshes, 
 Nov.); Salvad. J.f O. 1865, p. 284 (Sardinia); Gigl. Ibis, 1865, 
@@ -18052,7 +18052,7 @@ Eudromias xanthoeheilus (nee Wagl), Gray, List Grallcs Brit.
 Mus. p. 68 (1844: Tasmania). 
 
 ^Egialitis bicincta, Gould, 8yn. B. Austr. pt. ii. pi. 32. ftg. 3 (1837); 
-Rarting, Ibis, 1870, p. 202 ; Ramsay, P. Z. 8. 1877, p. 337 (Cardwell) 
+Rarting, Ibis, 1870, p. 202 ; Ramsay, P. Z. S. 1877, p. 337 (Cardwell) 
 ; id. Proc. Linn. 8oc. N. 8. W. ii. p. 197 (1878); 8ahad. 
 Orn. Papuasia, iii. p. 305, note (1882); Ramsay, Proa. Linn. 8oc. 
 
@@ -18354,17 +18354,17 @@ pi. 14. fig. 1 (1825).
 
 Charadrius geoffroyi, Wagl Syst. Av., Charadrius, p, 61, no. 19 
 (1827); KittUtz, Kupfertaf. Vog, p. 26, pi. 34. fig. 2 (1833: Red 
-Sea) ; Blyth, J. A. 8. Beng. xii. p. 181 (1843: S. India); Gray, 
+Sea) ; Blyth, J. A. S. Beng. xii. p. 181 (1843: S. India); Gray, 
 Gen. B. iii. p. 544 (1847) ; Ileugl. Ibis, 1859, p. 345 (Eed Sea, 
 resident); E. Newton, Ibis, 1863, p. 455 (Madagascar, Sept.) ; 
 Blyth, Ibis, 1865, p. 34; Schl. Mus. Bays-Bas, Cursores, p. 39 
 (1865); id. P Z. 8. 1866, p. 425 (N.W. coast of Madagascar); id. 
 $Poll. Faune Madag., Ois. pp. 129, 172 (1868); Marti. <§• Finsch, 
 
-P. Z. 8.1868, pp. 117,118 (Pelew Islands); Finsch, Trans. Zool. 
+P. Z. S.1868, pp. 117,118 (Pelew Islands); Finsch, Trans. Zool. 
 8oc. vii. p. 279 (1873 : Zoulla, March; Massowah, June & Aug.); 
 Finsch $ Marti. Vog. Ostafr. p. 648 (1870); Gray, Haud-l. B. iii. 
-p. 14, no. 9993 (1871); Marti. # Finsch, P. Z. 8. 1872, p. 89; 
+p. 14, no. 9993 (1871); Marti. # Finsch, P. Z. S. 1872, p. 89; 
 Meugl. Orn. N.O.-Afr. ii. pt. 1, p. 1020, pi. xxxiv. fig. 3 (1873 : 
 Egypt, winter; Red Sea, Gulf of Aden, July to Nov.); Finsch, 
 Joum. Mus. Godeffr. viii. p. 31 (1875: Pelew Is.); Bosenb. 
@@ -18374,9 +18374,9 @@ Voq. Madag. p. 286 (1877) ; Bosenb. Malay. Arch. pp. 277, 324,
 
 p. 94 (Asia Minor); Milne-Edwards fy Grandid. Mist. Nat. 
 Madag., Ois. p. 507 (1882); 8evertz. Ibis, 1883, p. 80 (Pamir, not 
-observed); Forbes, P. Z. 8. 1884, p. 43 (Tenimber Id.); Fischer, 
+observed); Forbes, P. Z. S. 1884, p. 43 (Tenimber Id.); Fischer, 
 J.f. 0. 1885, p. 115 (Usegiia); 8harpe, Ibis, 1886, p. 492 (Fao, 
-March); Lister, P. Z. 8. 1888, p. 528 (Christmas IsL, Indian 
+March); Lister, P. Z. S. 1888, p. 528 (Christmas IsL, Indian 
 Ocean); Seebohm, Geogr. Distr. Charadr. p. 146 (1888); Beichen. 
 J. f. 0.1889, p. 265 (Zanzibar, Nov.); Seebohm, B. Japan. Emp. 
 p. 310 (1890); Emin, J.f. 0.1891, p. 338; Marti. Abhandl. nat. 
@@ -18385,7 +18385,7 @@ Wissensch. Anst. x. p. 6 (1893: Zanzibar, Nov.); id. Vog.
 Deutsch-Ost-Afr. p. 33 (1894 : Usegiiha). 
 Charadrius leschenaulti, Less. Man. d'Orn. ii. p. 322 (1828); Swinh 
 
-J. A. 8. Beng. xxix. p. 259 (1860: Amoy); Wallace, P. Z. S. 
+J. A. S. Beng. xxix. p. 259 (1860: Amoy); Wallace, P. Z. S. 
 1863, p. 487 (Flores); Layard, B. 8. Afr. p. 299 (1867: Salt 
 River, Cape Town); Cab. $ Beichen. J.f. 0. 1876, p. 327. 
 CHAEADKIIDJE. 
@@ -19071,7 +19071,7 @@ Ois. Chine, p. 427 (1877) ; Salvad. Orn. Papuasia etc. iii. p. 299
 (1882) ; id. Ami. Mus. Civ. Gen. xviii. p. 325 (1882); Blakiston, 
 Amended List B. Jap. p. 10 (1884 : Yezo & Japan generally); 
 Sharpe, Hep. Zool. Coll. BC.M.S. 'Alert;-p. 27 (1884: Pt. Moile; 
-Channel Rock); Guillen*. P. Z. 8. 1885, p. 664 (Batanta, Oct.) ; 
+Channel Rock); Guillen*. P. Z. S. 1885, p. 664 (Batanta, Oct.) ; 
 Nehrk. J.f 0. 1885, p. 35 (Waigiou) ; Gigl § Salvad. P. Z. S. 
 1887, p. 585 (Olga Bay, Oorea, Sept.) ; Salvad. $ Gigl. Mem. P. 
 Accad. Torino, xxxix. p. 114(1888); Ramsay, Tab. List Austr. 
@@ -19097,7 +19097,7 @@ Islands, May to Oct,); A. O. U. Cheek-l N. Amer. B. p. 163
 (1886: Alaska); Ridgio. N. Amer. B. p. 179 (1877); Nelson, 
 Report Nat. Hist. Coll. Alaska, p. 127 (lo87 : Choris Peninsula); 
 Stejn. Pr. US. Nat. Mus. x. p. 126 (1887: Commander R ) ; 
-Tacz. P. Z. 8. 1888, p. 456 (Chimulpo, Corea, June). 
+Tacz. P. Z. S. 1888, p. 456 (Chimulpo, Corea, June). 
 
 Eudromias mongolicus, Tacz. Bull. Soc. Zool. France, i. p. 248 
 (1876) ; Tweedd. P. Z. S. 1878, p. 344 (S. Leyte, Sept.); Tacz. 
@@ -19380,7 +19380,7 @@ Blyth, Ibis, 1868, p. 133; Pelz. t. c. p. 321 (Kyangsisa); Beamn,
 t. c. p. 389 (Salween K., Sept): Murray. Vertebr. Faun. Strut, 
 p. 226 (1884). 
 Charadrius leschenaulti (nee less.), Blyth, J. A. S. Benq. xii. p. 81 
-(1843: Calcutta); Adams, P. Z. 8. 1859, p. 188 (Chimouraii 
+(1843: Calcutta); Adams, P. Z. S. 1859, p. 188 (Chimouraii 
 Lake, Ladak, breeding) ; id. Wand. Nat. Inch p. U83 (1867). 
 
 Charadrius rufinellus, Blyth, Ann. 8f Mag. N. H. xii. p. 169 (1843: 
@@ -20976,7 +20976,7 @@ Orange R.; Port Elizabeth; East London); Salvad. Ann. Mus.
 
 Genov. (2) i. p. 218 (1884: Falls of Kora, Shoa); Shelley, Ibis, 
 1885, p. 417 (Somali); Symonds, Ibis, 1887, p. 334 (Eroonstadt): 
-Shelley, Ibis, 1888, p. 305 (Lake Jipi): id. P. Z. 8. 1888, p. 49 
+Shelley, Ibis, 1888, p. 305 (Lake Jipi): id. P. Z. S. 1888, p. 49 
 (Kibiro^; Salvad. Ann. Mus. Gen. (2) vi. p. 309 (1888: Cialalaka; 
 Adda, Shoa); Souza, Jorn. Zisb. (2) ii. p. 117 (1889: Catumbella): 
 Sharpe, Ibis, 1892, p. 544 (Ukanibani) ; Bocage, Jorn. Zisb. (2) 
@@ -21092,7 +21092,7 @@ Godman Colls.
 
 3. Oxyechus bifrontatus. 
 -^Egialitis tricollaris (nee VieilL), Licht. Nomencl Av. Mus. Berol. 
-p. 94 (1854); Bartiett, P. Z. 8. 1876, p. 67; Sibree, Ibis, 1892, 
+p. 94 (1854); Bartiett, P. Z. S. 1876, p. 67; Sibree, Ibis, 1892, 
 p. 115. 
 Charadrius tricollaris (nee VieilL), Bartl Faun. Madag. p. 72 (1861); 
 Grand. Mev. et Mag. de Zool. 1867, p. 419; Bartl. Tog. Madag. 
@@ -22097,7 +22097,7 @@ Charadrius lonsripes {nee T. § S.), David, N. Arch, du 3Ius. 1867,
 
 Bull. p. 38 (Pekin, winter). 
 
-JEaialitis hartins;i, Sicinh. P. Z. 8. 1870. p. 136, pi. xii. (Yanjrtse 
+JEaialitis hartins;i, Sicinh. P. Z. S. 1870. p. 136, pi. xii. (Yanjrtse 
 
 Kiang), 1871, p. 404; id. Ibis, 1873, p. 96. 
 
@@ -22223,7 +22223,7 @@ Vbg. Dmtsch-Ostafr. p. 34 (1894: Ugalla Eiver).
 ? Charadrius erythropus, Gm. Syst Nat. i. p. 684 (1788). 
 Charadrius philippinus, Lath. Ind. Orn. ii. p. 745 (1790); Sykes, 
 
-P. Z. 8. 1832, p. 166; Jerd. Madr. Journ. xii. p. 212 (1840); 
+P. Z. S. 1832, p. 166; Jerd. Madr. Journ. xii. p. 212 (1840); 
 Swinh. Ibis, 1861, pp. 260, 342; Schl. Mus. Pays-Bas, Oursores, 
 264 
 CHAEADEITD-2B. 
@@ -22443,7 +22443,7 @@ iEgialitis hiaticula (nee Linn.), Ramsay, Proc. Linn. Soc. N. 8. W. i.
 p. 394 (1877: Port Moresby), ii. p. 197 (1878 : S. New Guinea), 
 iii. p. 279 (1879: Laloki Kiver) : id. Tab. List Austr. B, p. 19 
 (1888: N.S.W.). 
-^Egialitis jerdoni, Legge, P. Z. 8. 1880, p. 39; id. B. Ceylon, 
+^Egialitis jerdoni, Legge, P. Z. S. 1880, p. 39; id. B. Ceylon, 
 
 p. 956 (1880); Saload. Orn. Papuasia etc. iii. p. 303 (1882); 
 Biddulph, Ibis, 1882, p. 287 (Gilg-it, May, Sept.); Davidson, Str. 
@@ -24145,7 +24145,7 @@ Gold Coast; River Niger); Cass, Proc. Philad. Acad. 1859, p. 173
 p. 487 (Fantee); Shelley fy Buckley, Ibis, 1872, p. 290 (Accra); 
 Sharpe, Ibis, 1873, p. 487 (River Volta); Oustal. Nouv. Arch. 
 Mus. (2) ii. Bull. p. 145 (1879: Gaboon). 
-Oharadrius tenellus, Hartl. Faun. Madag. p. 72 (1861); Scl. P. Z. 8. 
+Oharadrius tenellus, Hartl. Faun. Madag. p. 72 (1861); Scl. P. Z. S. 
 1863, p. 164 (Madagascar); Roch $ E. Newton, Ibis, 1863, p. 169; 
 
 E. Newton, i.e. p. 455; Grandid. Bev. et Mag. de Zool 1867, 
@@ -24153,7 +24153,7 @@ p. 419; Schl. 8r Poll. Faune Madag., Ois. p. 129 (1868); Finsch $r
 Hartl. Fog. Ostafr. p. 655, note (1870) ; Gray, Hand-l. B. iii. 
 p. 16, no. 10018 (1871); Hartl. Fog. Madag. p. 288 (1877); 
 Beichen. Fog. Beutsch-Ost-Afr. p. 34 (1894: Lindi). 
-Oharadrius niveifrons [nee Cuv.), Schl. P. Z. 8.1866, p. 425 (Madagascar) 
+Oharadrius niveifrons [nee Cuv.), Schl. P. Z. S.1866, p. 425 (Madagascar) 
 ; Grandid. Rev. et Mag. de Zool. 1867, p. 419. 
 Gharadrius marginatus, var. tenellus, Milne-EdwardsfyGrandidier, 
 Hist. Nat. Madag., Ois. p. 509 (1879). 
@@ -24958,7 +24958,7 @@ Hudson, P. Z. S. 1872, p. 549 (Rio Negro, Patagonia); Scl 8r
 
 CHAEADBIID^B. 
 
-Salv. Nomencl Av. Neotr. p. 143 (1873); Parting, P. Z. 8.1874, 
+Salv. Nomencl Av. Neotr. p. 143 (1873); Parting, P. Z. S.1874, 
 
 p. 457, pi. lx. % 6 (egg); Durnf. Ibis, 1878, p. 402 (Central Patagonia) 
 ; Gibson, Ibis, 1880, p. 163 (Cape San Antonio, Buenos 
@@ -25091,7 +25091,7 @@ Arch. Mus.
 
 Anassawara); Shelley, Ibis, 1888, p. 30-3 (Manda Isl.; Jipi); id, 
 
-P. Z. 8. 1888, p. 49 (Kibiro). 
+P. Z. S. 1888, p. 49 (Kibiro). 
 Hiaticula pectoralis, Licht. Komencl. Ac, Mus. Berol. p. 94 (1854; 
 Kaflraria). 
 
@@ -26509,7 +26509,7 @@ Birds, p. 130 (1841: La Plata, swamps near Buenos Ayres*);
 Fraser, P. Z. S. 1843, p. 117 (Chili); Gay, Faim. Chili; ZooL 
 
 p. 424 (1847); Burm. Reise La Plata-St ii. p. 502 (1801); ScL 
-P. Z. S. 1867, p. 339 (Chili) ; id. $ Sale. P. Z. 8. 1808, p. 144 
+P. Z. S. 1867, p. 339 (Chili) ; id. $ Sale. P. Z. S. 1808, p. 144 
 (Buenos Ayres) j Pelz. Orn. Bras. pp. 310, 457 (1871: Ypanema, 
 June j Irisanga, Dec.; Caicara, March); Barrows, Auk, i. p. 314 
 (1884: Azul, Jan.• Puan, March; Concepeion, March to Aug., not 
@@ -29318,7 +29318,7 @@ JSp. Comp. List B. Bur. $ N. Amer. p. 49 (1838); Audub. Orn.
 Biogr. v. p. 587 (1839); id. B. Amer. 8vo, vi. p. 35, pi. 355 
 (1843); Vigors, Toy. 'Blossom! p. 28 (1839); Gray, List Grail. 
 Brit. Mas. p. 94 (1844); Giraud, B. Long Isl p. 271 (1844); 
-Benny, P. Z. 8. 1847, p. 39 (Jamaica); Gray, Gen. B. ill. p. 560 
+Benny, P. Z. S. 1847, p. 39 (Jamaica); Gray, Gen. B. ill. p. 560 
 (1847); Reichenb. Grail, tab. Ixxvill. fig. 544, ccclix. figs. 2815-16 
 (1850); Lembeye, Av. Cuba, p. 88 (1850); LicM. Nmnencl. Av. 
 Mus.Berol p.* 91 (1854); Bp. CM. xliii. p. 597 (1856); Cass. 
@@ -31508,12 +31508,12 @@ Tonga; Fiji; New Hebrides; Loyalty Isl.; New Caledonia;
 Carolines: Gilbeit Isl); Forbes,Ibis, 1893,p.529 (Chatham Id.), 
 
 Limosa 
-uropygialia>, Gotdd, P. Z. 8. 1848, p. 33 (Australia; ; id. B. 
+uropygialia>, Gotdd, P. Z. S. 1848, p. 33 (Australia; ; id. B. 
 Austr. vi. pi. 29 (1848) ; Reichenb. Vog. Neuholl. p. 190% no. 528 
 (1850); Macgill Karr. Toy. Battlesn. ii. p. 356 (1852); Lichf. 
 Nomencl Av. Mus. Berol p. 91 (1854: Australia); Bp. C. M. 
 
-xliii. p. 597 (3856); Gray, P. Z. 8. Ib58, p. 197 (Torre* Straits); id. 
+xliii. p. 597 (3856); Gray, P. Z. S. Ib58, p. 197 (Torre* Straits); id. 
 Cat. Mamm. § B. K. Gum. p. &2 {lb59 j: Layard, Ibk, 1^*3, p. 245 
 (New Zealand); Sici/zh. t. c. p. 409 (Formosa), p. 445 (N. Japan); 
 Schl Mus. Pays-Bas, Scolopaces, p. 25 (1b04); Blyth, Ibis, I8b'5, 
@@ -34625,9 +34625,9 @@ p. 226 (1886); Pleske, Uebers. Sdug. u. Tog. Kola-Halbins. p. 362
 (1886); Tait, Ibis, 1887, p. 392 (Portugal, July and Aug.); 
 Macgregor, Str. F. x. p. 466 (1887: Mysore); Harvie-Brown 
 # Buckley, Vertebr. Faun. Caithn. p. 223 (1887); Giglioli # 
-Salvad. P. Z. 8.1887, p. 587 (Olga Bay, Corea) ; Karvie-Brown §Buckley, 
+Salvad. P. Z. S.1887, p. 587 (Olga Bay, Corea) ; Karvie-Brown §Buckley, 
 Vertebr. Faun. Outer Sebf. p. 135 (1888); Seebohmr 
-Geogr. Distr. Charadr. p. 353 (1888); Tacz. P. Z. 8.1888, p. 457 
+Geogr. Distr. Charadr. p. 353 (1888); Tacz. P. Z. S.1888, p. 457 
 (Corea) ; Irby, Key List Brit. B. p. 49 (1888); Sharpe, Ibis, 1888,, 
 p. 203 (Palawan); Ko&nig, J.f. 0. 1888, p. 279 (Tunis, April) -T 
 Hume, Str. F. xi. p. 325 (1888: Manipur) ; Everett, Journ. 
@@ -35405,9 +35405,9 @@ p. 185 (1869); Layard, Ibis, 1809, p. 76 (Cole&berg; George) ;
 Finsch, Trans. Z. 8. vii. p. -299 (1870: Zoulla, March); Ehoes fy 
 Buckley, Ibis, 1870, p. 33:3 (Corfu); Swinh. t. c. p. 364 (Hainan); 
 Fritsch, Tog. Bur. tab. 38. fig. 3 (1870); Salvad. Faun. Ital.,Ucc. 
-p. 220 (1871); Sivinh. P. Z. 8. 1871, p. 405 (Formosa; Amoy; 
+p. 220 (1871); Sivinh. P. Z. S. 1871, p. 405 (Formosa; Amoy; 
 Hainan) ; Sharpe # Dresser, B. Bur. viii. p. 151, pi. o6Q (1871); 
-Holdsw. P. Z. 8. 1872, p. 475 (Aripo, Ceylon) ; Gurney in Anderss* 
+Holdsw. P. Z. S. 1872, p. 475 (Aripo, Ceylon) ; Gurney in Anderss* 
 B. Dam. Band, p. 302 (1872); Shelley, B. Egypt, p. ^57 (1872); 
 BrooJce, Ibis, 1873, p. 338 (Sardinia) ; Severtz. Turkest. Jevotn. 
 p. 69 (1873: breeding); Tacz. J. f. O. 1874, p. 325 (Argun R) ; 
@@ -36429,8 +36429,8 @@ U.S. Nat Mus. iv. p. 47 (1875: Tehuantepec) ; Durnf. Ibis, 1876,
 p. 164 (Buenos Avres), 1877, p. 199, 1878, p. 404 (Patagonia); 
 Merrill, JProe. US. Nat Mus. i. p. 102 (1878: Fort Brown, 
 Texas) j Later, t c. pp. 197, 242, 489 (S. Vincent; Barbuda); 
-Belding, t. c. p. 441 (California) ; Tacz. fy Berl P. Z. 8. 1885, 
-pp. 119,124 (Babakoyo) ; Scl. P. Z. 8. 1886, p. 404 (Tarapaea)._ 
+Belding, t. c. p. 441 (California) ; Tacz. fy Berl P. Z. S. 1885, 
+pp. 119,124 (Babakoyo) ; Scl. P. Z. S. 1886, p. 404 (Tarapaea)._ 
 Totanus leucopyga, Illiger, Mus. Berol.; teste Giebel, Thes. Orn. iii. 
 
 p. 645 (1877). 
@@ -37471,7 +37471,7 @@ p. 109 (Venezuela); Sandeo. (Efi\ K. Vet-Akad. Fork. Storkh,
 Bras. pp. 300, 457 (1871); Ilartim/, Handh. Brit. B. p, 137 
 (1872); Cones, Key X. Amer. B. p. 259 (lfc7f>): Scl. $ Salv. 
 P. Z. S. 1873, p. 309 (Eastern Peru) ; Cones ~B. X.-West, p. 498 
-(1874); Tacz. P. Z. 8. 1874, p. 560; Hensh. Bep. Zool IQQth 
+(1874); Tacz. P. Z. S. 1874, p. 560; Hensh. Bep. Zool IQQth 
 Merid. p. 459 (1875) ; lit id, Zool. 1877, p. 478 (Bermudas, 
 migrant); Ernst, Estud. Flor. ?/ Fawn. Venezuela, p. 312 (1877); 
 Cones, Bvll. U.S. Geo!. Sum. iv. p. 043 (1878: Montana, July, 
@@ -38438,7 +38438,7 @@ Gerbe, Orn. Eur. ii. p. 227 (1867) ; Lochs, Expl. Sci. Alger.,
 Ois. ii. p. 326 (1867); Blyth, Ibis, 1867, p. 169; E. Newt. t. c. 
 
 p. 346 (Seychelles); Finsch 8f Hartl Faun. Centralpolyn. p. 187 
-(1867); iid. P. Z. 8. 1868, pp. 8, 118 (Pelew Is.) ; Beavan, Ibis, 
+(1867); iid. P. Z. S. 1868, pp. 8, 118 (Pelew Is.) ; Beavan, Ibis, 
 1868, p. 395 (Umbala); Byb. J. f. 0. 1868, p. 337 (Darasun); 
 Betioni, TJcc. nidif. Bomb. ii. pi. 89 (1868); Borqgr. Vogelf. 
 Norddeutschl. p. 115 (1869); Boderl Avif. Sicil. p. 186 (1869) ; 
@@ -38447,7 +38447,7 @@ pi. 33. figs. 13,14 (1870); Godioin-Austen, J. A. S. Beng. xxxix.
 pt. 2, p. 273 (1870: Kliasia Hills); Salvad. Faun. ltd., TJcc. 
 p. 216 (1871); Saunders, Ibis, 1871, p. 388 (Malaga); Wald. 
 Trans. Zool. Soc. viii. p. 96 (1872: Celebes); Godman, Ibis, 1872, 
-p. 221 (Madeira); Hartl. $ Finsch, P. Z. 8. 1872, p. 106 (Pelew 
+p. 221 (Madeira); Hartl. $ Finsch, P. Z. S. 1872, p. 106 (Pelew 
 IsL); Holdsw. t. c. p. 474 (Ceylon); Hume 8f Henders. Bahore to 
 Tark. p. 289 (1873); Ball, Str. F. i. p. 85 (1873: Andanians) ; 
 Alston <§• Harvie-Brown, Ibis, 1873, p. Q7 (River Dwina); Wald. 
@@ -39802,7 +39802,7 @@ figs. 2811-12 (1850).
 
 Actitis notata, Bp. C. R. xliii. p. 597 (1856). 
 
-Tringites niacularius, Scl. $ Salv. P. Z. 8. 1873, p. 309 (Chamicuros). 
+Tringites niacularius, Scl. $ Salv. P. Z. S. 1873, p. 309 (Chamicuros). 
 
 Totanus hypoleucus, var. macularius, Ridgw. Ann, Lye. N. Y. x, 
 
@@ -40202,7 +40202,7 @@ ii. p. 171 (18G5); Blyth, Ibis, 1867, p. 167; Begl. fy Gerbe, Orn.
 Eur. ii. p. 171 (1807); Dyb. J. f. 0. 1868, p. 337 (Dauria) ; 
 Borggr. Togelf. Nordcleutschl. p. 115 (1869); Salvad. Ibis, 1870, 
 p. 154; Blanf. Geol $ Zool Abyss, p. 433 (1870: Zoulla, Jan.) ; 
-Salvad. Faun. Ital, Uec. p. 221 (1871): Simnh. P. Z. 8. 1871, 
+Salvad. Faun. Ital, Uec. p. 221 (1871): Simnh. P. Z. S. 1871, 
 p. 406 (Tientsin); Dresser, B. Eur. viii. p. 195, pi. 572 (1871); 
 Gurney in Anderss. B. Bam. Ld. p. 304 (1872); Hume, Str. F. I. 
 p. 23^ (1873: Karachi, Feb.); Antin. fy Salvad. Tiagg. Bor/os, 
@@ -40704,7 +40704,7 @@ Fleming, Brit. Anim. p. 104 (1828); Less. Trade a"Orn. p. 551
 (1831); Jenyns, 31an. Brit Tertebr. p. 2C0 (1835); Aitdvb. Orn. 
 Biogr. iii. p. 483, pi. 269 (1835j ; Nauru. Toy. DeuUehl \iii. 
 
-p. 145, pi. 201 (1836); Strickl P. Z. 8. 1836, p. 101 (Smyrna): 
+p. 145, pi. 201 (1836); Strickl P. Z. S. 1836, p. 101 (Smyrna): 
 Gould, B. Bur. iv. pi. 312 (1837); Crespon, Orn. Gard, p. 433 
 (1840); Keys. $ Bias. Wirb. Bur. pp. kxii, 210 (1840|; Nord?n. 
 in JDemid. Voy. Buss. Merid. iii. p. 245 (1840: Odessa. March) ; 
@@ -40887,7 +40887,7 @@ Glottis horsfieldii, Gray, torn. cit. p. 99 (1844).
 53 . GLOTTIS. 485 
 Totanus nivigula, Hodgs. Icon. ined. in Brit Mus., Grail, pi. 85. 
 figs. 1, 2, no. 766. 
-Totanus horsfieldii, Gray, Gen. B. iii. p. 573 (1846); Scl. P. Z. 8. 
+Totanus horsfieldii, Gray, Gen. B. iii. p. 573 (1846); Scl. P. Z. S. 
 1863, p. 222 (Tabanis). 
 Glottis niveignla, Gray, Cat. Mamm. etc. Nepal pres. Hodgs. p. 138 
 
@@ -44881,7 +44881,7 @@ Macgill Brit B. iv. p. 194 (1852); Putnam, Proc. Ess. Inst. i.
 p. 217 il856: Essex Co., Mass.); Bodd, Zool. 1860, p. 7236 (Land's 
 End, Oct.); Brewer, Proc. Post. Soe. Nat. Hist. vii. p. 308 (1860: 
 Cuba); Saunders, Zool. 1866, p. 389 (Belfast) ; Stevens. B. Norf. 
-ii. p. 358 (1870: Norfolk Coast); Harting, P. Z. 8. 1871, p. 117; 
+ii. p. 358 (1870: Norfolk Coast); Harting, P. Z. S. 1871, p. 117; 
 Jt. • Gray, B. West Seoil. p. 319 (1871: Caithness) ; Seebohm, 
 Geogr. Distr. Charadr. p. 446 (1888) ; GatJce, Vogelw. BLelgoh 
 522 
@@ -46975,19 +46975,19 @@ Tringa albescens, Temm. PI. Col. v. pi. 41 (1828: " Oceania ") ;
 
 
 Gray, Gen. B. iii. p. 579 (1845); Reichenb. Mandb., GralL 
-tab. lxxiii. fig. 633 (1846); Gray, P. Z. 8. 1858. p. 197 j id. Cat. 
+tab. lxxiii. fig. 633 (1846); Gray, P. Z. S. 1858. p. 197 j id. Cat. 
 
-B. New Guinea, pp. 52, 62 (1859) ; id. P. Z. 8. 1861, p. 438; 
+B. New Guinea, pp. 52, 62 (1859) ; id. P. Z. S. 1861, p. 438; 
 Swinh. Ibis, 1863, p. 413 (Formosa); Rosenb. Xf.O.1864, p. 135; 
 Sharpe # Dresser, B. Eur. viii. p. 33 (1871) ; Gray, Hand-L B. 
 iii. p. 50, no. 10312 (1871); Wald. Ibis, 1873, p. 317 (S.Andaman,, 
 Jan.); Swinh. Ibis, 1875, p. 455 (Hakodadi); Sharpe, Ibis, 1876, 
 p. 52 (Matu, May); Blakist $ Pryer, Ibis, 1878, p. 221 (Yezo) ; 
-Txoeedd. P. Z. 8. 1878, p. 712 (Philippine Is.); Hume, Str. F. 
+Txoeedd. P. Z. S. 1878, p. 712 (Philippine Is.); Hume, Str. F. 
 "viii. p. 113 (1879), p. 157 (Tonka; Salangore); Salvad. Ann. Mus. 
 Genov. xviii. p. 327 (1882); id. Orn. Papuasia, iii. p. 315 (1882: 
 Aru Isl.; Salawati); Meyer, Site. Abhandl. Ges.c Isis' Dresd. 
-1884, Abth. i. p. 6b (Sangi); Guillem. P. Z. 8. 1885, p. 417 (Sandakan 
+1884, Abth. i. p. 6b (Sangi); Guillem. P. Z. S. 1885, p. 417 (Sandakan 
 Bay); id. torn. cit. p. 576 (Weda Isl.) ; Blasius, Ornis, iv* 
 p. 627 (1888; Great Sanghir); 8alvad. Agg. Orn. Papuasia, iii. 
 p. 201 (1891); Wiglesio. Abhandl K. Mus. Dresd. (1890-91), no. vi. 
@@ -47031,7 +47031,7 @@ B. Austr. ii. p. 257 (1865).
 Tringa temmincM (nee Leisl), Blakist. Ibis, 1862, p. 330 (N. Japan, 
 Aug.). 
 
-Tringa damacensis, Swinh. Ibis, 1863, p. 413 (Formosa) ; id. P. Z. 8. 
+Tringa damacensis, Swinh. Ibis, 1863, p. 413 (Formosa) ; id. P. Z. S. 
 1871, p. 409 (coasts of China). 
 VOL. xxrv* 2 IT 
 
@@ -47324,7 +47324,7 @@ pusilla (nee Linn.), Wilson, Amer. Orn. v. pi. 37. fig. 4
 (1812); Audub. B. Amer. pi. 320; Stcaim. 8f Rick. Faun. Bar." 
 Amer., Birds, p. 386 (1831: Great Bear Lake, Mav}; Audtib* 
 Orn. Biogr. iv. p. 180 (1838); id. B. Amer. v. p. 280, pi 337 
-(1842); Giraud, B. Long Isl. p. 240 (1844); Sel. P. Z. 8. 1850, 
+(1842); Giraud, B. Long Isl. p. 240 (1844); Sel. P. Z. S. 1850, 
 
 p. 311 (Cordova); Brewer, JProe. Bost. Sac. Mat Hist. vii. p. 308 
 (1860; Cuba); Sorting, Handb. Brit. B. p. 143 (1872); Adam, 
@@ -47334,7 +47334,7 @@ VieUl N. Diet. dRist Nat. xxxiv. p. 466 (1819);
 Gray, Gen. B. iii. p. 579 (1845); SchL Mm. Pags-Bas, Seolopaces, 
 
 p. 48 (1864) ; Uot. Ois. Trinid. p. 476 (1866); Sel $ Sal®. P Z. 8. 
-1867, p. 591 (Mexiana); iid. P. Z. 8. 1870, p. 323 (Indefatigable 
+1867, p. 591 (Mexiana); iid. P. Z. S. 1870, p. 323 (Indefatigable 
 Isl.) j Gray, Hand-l B. m. p. 50, no. 10317 (1871); Sharpe % 
 Dresser, B. Bur. viii. p. 51, pi. 552. figs. % 3 (1871); Fmsck, 
 Abhandl not. Ver. Bremen, iii. p. 65 (1872: Alaska) €ouesr 
@@ -47918,7 +47918,7 @@ Parv. J.f.O. 18(38, p. 337 (Darasun); Coilett Xorges Fugle, p. 53
 (1868); Borggr. Vogelf. KorddeuUcM. p. 117 (18601: Doderl. 
 Acif. Sicil p. 191 (1869); Wright. Ibis, 1870, p. 492 (Malta, 
 May); Godwin-Austen, J. A. S. Beng. xxxix. p. 273 (1870) ; 
-Gray, Hand-l B. iii. p. 50, no. 10315 (1871): Stcinh. P. Z. 8. 
+Gray, Hand-l B. iii. p. 50, no. 10315 (1871): Stcinh. P. Z. S. 
 1871, p. 401); R. Gray, B. West. Scotl p. 321 (1871: Caithness) ; 
 Sharpe fy Dresser, B.Eur, viii. p. 45, pis. 549. %. 1, ODD. %. 2 
 (1871); Hnrting, Handb. Brit B. p. 49 (1872); Shelley, B. 
@@ -49155,10 +49155,10 @@ Proc. U.8. Nat Mas. v. p. 331 (1882).
 Tringa sp., Swinh. Ibis, 1800, p. 359 (Amoj); id. Ibis, 1861, p. 312 
 (between Takow and Peking). 
 Tringa acuminata, 
-Swinh. P. Z. 8. 1803, p. 316 j id. Ibis, 1863, p. 412 
+Swinh. P. Z. S. 1803, p. 316 j id. Ibis, 1863, p. 412 
 (Formosa) j Schl Mus. Pays-Bas, Seoiopaces, p. 38 (1864: Java; 
 Ternate ; Amboina; Port Essington ; Australia); Whitely, Ibis, 
-1867, p. 205 (Hakodadi); Uartl §• Finsch, P. Z. 8. 1868, pp. 8,18 
+1867, p. 205 (Hakodadi); Uartl §• Finsch, P. Z. S. 1868, pp. 8,18 
 (Pelew Is.); Swinh. P. Z. S. 1871, p. 409 (China, migrant) ; Gray, 
 Hand-l B. iii. p. 49, no. 10304 (1871) ; Hartl. Sf Finsch, P. Z. S. 
 1872, p. 106 (Pelew Is.); Meyer, J.f.O. 1873, p. 405 (Celebes); 
@@ -52408,7 +52408,7 @@ Nat. Set. Phihd. 1858, p. 196 (Hakodadi) j Smnh. Ibis, 1863,
 
 p. 444 (Japan). 
 Tringa 
-tenuirostris (nee Horsf.), Swinh. P. Z. 8. 1863, p. 315 
+tenuirostris (nee Horsf.), Swinh. P. Z. S. 1863, p. 315 
 (Shanghai): Gould, JEandb. B. Austr. ii. p. 260 (1865); Gray, 
 Hand-l B. iii. p. 49, no. 10301 (1871); Masters, Proc. Linn. Soc. 
 
@@ -53608,11 +53608,11 @@ p. 316; Jerd. B. bid. iii. p. 692 (1864); Sehl. Mus. Pays-Bas,
 Scolopaces, p. 49 (1864: Red Sea; Formosa; Java); id. 4" Pollen, 
 Faune Madag., Ois. p. 160 (1868); Wright, Ibis, 1869, p. 253 
 (not observed in Malta); Ehces 4* Buckley, Ibis, 1870, p. 331 
-(Bosphoras); Siohikoe, t. c. p. 363 (Hainan); id. P. Z. 8. 1871, 
+(Bosphoras); Siohikoe, t. c. p. 363 (Hainan); id. P. Z. S. 1871, 
 p. 408 (China and Formosa, winter); Gray, Hand-l. B. iii. p. 4B 
 no. 10305 (1871); Meves, (Efers. K. Vet.-Akad. Fork. Stockh. 
 1871, p. 777 (N.W. Russia); Hurting, Handb. Brit. B. p. 141 
-(1872); Holdsio. P. Z. 8. 1872, p. 474 (Ceylon); Stoinhoe, Ibis, 
+(1872); Holdsio. P. Z. S. 1872, p. 474 (Ceylon); Stoinhoe, Ibis, 
 1873, p. 424 (Shanghai); Heugl. Orn. N.O.-Afr. ii. Ahth. i. 
 p. 1185 (1873); Hume, Str. F. i. p. 244 (1873: Karachi); id. ibid. 
 ii p. 298 (1874: Andamans); Fallon, Ois. Belg. p. 169 (1875) -
@@ -54223,13 +54223,13 @@ China)*; id. fy Hardiv. Illustr. 2nd. Zool. ii. pi, 54. fig. 3
 (1832) ; Seebohm, Ibis, 1884, p. 267. 
 
 ? Scolopax sthenura, Kuhl; Boie, Isis, 1833, p. 1077. 
-Gallinago heterura, Hodgs. P. Z. 8.1836, p. 8 (Nepal). 
+Gallinago heterura, Hodgs. P. Z. S.1836, p. 8 (Nepal). 
 Gallinago biclavus, Hodgs. J. A, 8. Beng. vi. p. 491 (1837j. 
-Scolopax heterura, Eyton, P. Z. 8. 1839, p. 107 (Malay Peninsula). 
+Scolopax heterura, Eyton, P. Z. S. 1839, p. 107 (Malay Peninsula). 
 Gallinago horsfieldii, Gray, List Grail. Brit. Mus. p. 110 (1844); id. 
 
 
-Hand-l. B. iii. p. 53, no. 10344 (1871) ; Swinh P. Z. 8. 1871, 
+Hand-l. B. iii. p. 53, no. 10344 (1871) ; Swinh P. Z. S. 1871, 
 p. 407 (China; Hainan; Formosa); id. Ibis, 1873, p. 426, 1874, 
 p. 425, 1875, p. 131 (Chefoo) ; Tacz. J. f. O. 1873, p. 105; 
 Hume, 8tr. F. iii. p. 182 (1875: Pegu) ; Tacz. J. f. O. 1876, 
@@ -54247,13 +54247,13 @@ Mus. As. Soc. p. 272 (1849: Calcutta) ; Cass. U.S. Expl. Exped,
 
 p. 313 (1858); Sivinh. Ibis, 1860, p. m (Amoy), 1861, p. 56 
 (Canton), p. 343 (N. China, Aug., Sept.), 1862, p. 259 (Foochow), 
-1863, p. 415 (Formosa, breeding) ; id. P. Z. 8. 1863, p. 314 
+1863, p. 415 (Formosa, breeding) ; id. P. Z. S. 1863, p. 314 
 (Canton to Pekin); Jerd. B. Ind. iii. p. 674 (1864) ; Schl. Mus. 
 Pays-Bas, Scolopaces, p. 12 (1864); Szoinh. Ibis, 1865, p. 232 
 (Formosa, Nov.); Beavan, P. Z. S. 1865, p. 492 (Lower Bengal); 
 Swinh. Ibis, 1867, p. 234 (Amoy); Beavan, Ibis, 1868, p. 392 
 (Barrackpore) ; Stvinh. Ibis, 1870, p. 362 (Hainan) ; Godwin-
-Austen, J. A. 8. Beng. xxxix. p. 273 (1870 : Khasia Hills, April); 
+Austen, J. A. S. Beng. xxxix. p. 273 (1870 : Khasia Hills, April); 
 Blanf. op. cit. xL p. 270 (1871: "Wardha Valley, not observed) ; 
 Holdsw. P. Z. S. 1872, p. 473 (Ceylon); Wald. Ibis, 1873, p. 318 
 (Andamans); G. F. L. Marshall, Str. F. i. p. 428 (1873); Hume,, 
@@ -54907,7 +54907,7 @@ Scolopax uniclavatus (nee IIodys.% Gray, P. Z. S. i860, p. 365
 Gallinago megala, Swinhoef Ibis, 1861, p. 343 (marshes on the road 
 to Pekin), 1862, p. 255 (Foochow), 1863, p. 415 (Formosa); id. 
 
-P. Z. 8.1863, p. 313 (China Coasts, spring and autumn); SckL 
+P. Z. S.1863, p. 313 (China Coasts, spring and autumn); SckL 
 Mus. Pays-Basy Scolopaces, p. 12 (1864); Swinkoe, Ibis, 1865, 
 p. 232 (Formosa); Gray, BandrL B. m. p. 52, no. 10345 (1871); 
 Swinhoe, Ibis, 1871, p. 407 (China and Formosa); Wold. Trans, 
@@ -55696,7 +55696,7 @@ Bp. Comp. List B. Eur. $ K Amer. p. 52
 (1838); Selys-Longch. Faun. Beige, p. 129 (1842); Rilpp. Syst. 
 TJebers. p. 126 (1845: Lower Egypt); Blyth, Cat B. Mm. As. 
 Soc. p. 272 (1849: Calcutta): Bp. 0. R. xliii. p. 579 (1856); 
-Sartt. Orn. West-Afr. p. 239 (1857); Adams, P. Z. 8. 1859, 
+Sartt. Orn. West-Afr. p. 239 (1857); Adams, P. Z. S. 1859, 
 
 p. 189 (Cashmere); Jaub. et Bartk-Lapbmm. Rich. Orn. p. 481 
 (1859); Irby, Ibis, 1861, p. 241 (Oudh); Swinh. Ibis, 1863, p. 415 
@@ -55712,14 +55712,14 @@ Gerbe, Orn. Eur. ii. p. 183 (1867); Locke, Expl. Sci. Alger., Ois.
 ii. p. 296 (1867): Doderl. Avif. Sicil. p. 195 (1869) ; Fritsch, 
 Fog. Fur. Taf. 37. fig. 8 (1870); Sioinh. Ibis, 1870, p. 362 
 (Hainan); Finsch § Hartl. Vog. Ostafr. p. 771 (1870); Godwin-
-Austen, J. A. 8. Beng. xxxix. p. 273(1870: Khasia Hills); Gray, 
+Austen, J. A. S. Beng. xxxix. p. 273(1870: Khasia Hills); Gray, 
 Hand-l B. iii. p. 52, no. 10329 (1871); Salvad. Faun. Ital, Ucc. 
 p. 227 (1871); Stvinh. P. Z. S. 1871, p. 407 (China; Formosa; 
 Hainan); Gurney, Ibis, 1871, p. 299 (Algeria); McMaster, J. A. 
 8. Beng. xl. p. 215 (1871: Nagpur); Blanf. t c. p. 276 (Wardha 
 Valley); Meves, (Efv. Vet.-Akad. Fork Stockh. 1871, p. 777 (1871: 
-N.W. Russia); Stoliczka, J. A. 8. B. xli. p. 252 (1872: Kutch); 
-Holdsio. P. Z. 8. 1872, p. 473 (Ceylon) ; Hume, Nests fy Eggs 
+N.W. Russia); Stoliczka, J. A. S. B. xli. p. 252 (1872: Kutch); 
+Holdsio. P. Z. S. 1872, p. 473 (Ceylon) ; Hume, Nests fy Eggs 
 Ind. B. p. 586 (1873: Cashmere); id. 8tr. F. i. p. 235 (1873: 
 Sind); Adam, t. c. p. 395 (Sambhur); Mayes Lloyd, Ibis, 1873, 
 p. 417 (Kathiawar); Tacz. J. f. O. 1873, p. 106 (E. Siberia) ; id. 
@@ -55734,8 +55734,8 @@ Aboo); 8cully, t. c. p. 186 (Yarkand); Fairbank, t. c. p. 263
 (Khandala); Tacz. Bidl. 8oc. Zool. France, i. p. 257 (1876) ; 
 David $ Oust. Ois. Chine, p. 478 (1877) ; Butler, Str. F. v. p. 214 
 (1877 : Mount Aboo); id. t. c. p. 232 (Deesa) ; Fairbank, t. c. 
-p. 409 (Palani Hills); Tweedd. P. Z. 8. 1877, p. 703 (Monte 
-Alban); id. P. Z. 8. 1878, p. 345 (S. Leyte, Sept.), p. 712 
+p. 409 (Palani Hills); Tweedd. P. Z. S. 1877, p. 703 (Monte 
+Alban); id. P. Z. S. 1878, p. 345 (S. Leyte, Sept.), p. 712 
 (N. Bobol, Nov.); Blakiston $ Pryer, Ibis, 1878, p. 222; Prjev. 
 in Rowley's Orn. Misc. iii. p. 90 (1878: Koko-nor, March; Lake 
 Hanka, April; Hoang-ho Valley; Kansu, Sept,) ; Hume ty Davison, 
@@ -55752,7 +55752,7 @@ Marshall, Ibis, 1884, p. 424 (Chamba); Murray, Vertebr. Faun.
 Sind, p. 240 (1884); Blakist. Amended List B. Japan, p. 12 (1884) -T 
 Coues, Fey 2V. Amer. B. 2nd ed. p. 623 (1884); Dyb. $ Tacz. Bull 
 Soc. Zool. France, ix. p. 147 (1884); Tacz. op. tit. x. p. 475 (1885: 
-Sidemi, S.E. Ussuri); id. P. Z. 8. 1887, p. 610 (Corea), 1888, 
+Sidemi, S.E. Ussuri); id. P. Z. S. 1887, p. 610 (Corea), 1888, 
 p. 468; Everett, Journ. Straits Branch As. Soc. 1889, p. 208 
 (Labuan); Sharpe, Trans. Linn. Soc. (2), Zool. v. pt. 3, p. 89 
 (1889); id. Sci. Pes. 2nd Yark. Miss., Aves, p. 144 (1891: Lehr 
@@ -57053,10 +57053,10 @@ Subsp. a. Grallinago andina.
 
 Scolopax frenata {nee Licht.), Tschudi, Faun. Peruan. pp. 52, 299 
 (1845-46). 
-GaHinago frenata {nee LieU.), Scl. 8f Salv. P. Z. 8. 1869, p. 156 
+GaHinago frenata {nee LieU.), Scl. 8f Salv. P. Z. S. 1869, p. 156 
 (Tungasuca, Peru, 11,000 to 14,000 ffc.). 
 Scolopax andina, Tacz. P. Z. S. 1874, p. 561 (Junin, Pern) ; Scl. $ 
-Salv. P. Z. 8.1876, pp. 17,19 (Tinta, Peru); Tacz. P. Z. S. 1880, 
+Salv. P. Z. S.1876, pp. 17,19 (Tinta, Peru); Tacz. P. Z. S. 1880, 
 
 p. 213 (Cutervo, Peru, 9000 ft., Dec, Jan.); id. Orn. Perou, iii. 
 p. 375 (1886). 
@@ -57083,7 +57083,7 @@ c* $ ad. sk. Tungasuca, Peru, May 28 Salvin-Godman Coll,
 (J5T, Whitely). 
 
 8. Gallinago nobiHs. 
-Gallinago nobilis, Scl P. Z. 8. 1856, p. 31 (Bogota); Bp. 0. JR. 
+Gallinago nobilis, Scl P. Z. S. 1856, p. 31 (Bogota); Bp. 0. JR. 
 xliiL p. 579; Schl Mus. Pays-Bos, Scolopaces, p. 9 (1864: 
 Bogota); Scl. 8f Salv. Exotic Orn. p. 196, pL xcviii. (1869); Gray, 
 Hand-L B. iii. p. 53, no. 10337 (1871); Scl $ Salv. Nomenel. Av. 
@@ -57203,8 +57203,8 @@ Becasina prima, Azara, Apunt. iii. p. 271, no. 387 (1805).
 
 Scolopax paraguaise, 
 Vieill. N. Diet. d'Hist. Nat. iii. p. 3*56 (1816) *r 
-id. Enc. Meth. iii. p. 1160 (1823); Fraser, P. Z. 8. 1843, p. 118 
-(Chili); Hartl Ind. Azara, p. 24 (1847); Tamil, P. Z. 8. 1847y 
+id. Enc. Meth. iii. p. 1160 (1823); Fraser, P. Z. S. 1843, p. 118 
+(Chili); Hartl Ind. Azara, p. 24 (1847); Tamil, P. Z. S. 1847y 
 
 p. 54 (Chili), 
 Scolopax magellanicus, King, Zool Journ. iv. p. 93 (1833). 
@@ -57215,28 +57215,28 @@ Birds, p. 131 (1841: Maldonado; E. Falkland*).
 
 Gallinago magellanicus, Gray, List Grail Brit. Mm. p. Ill (1844) ; 
 id. Gen. B. iii. p. 583 (1846); Gay, Faun. CML, Zool. i. p. 427 
-(1847); Bp. C. B. xliii. p. 579 (1856); Sol P. Z. 8. 1860, p. 387 
+(1847); Bp. C. B. xliii. p. 579 (1856); Sol P. Z. S. 1860, p. 387 
 (Falkland Is.) • Abbott, Ibis, 1861, p. 156 (Falkland Is.). 
 
 Gallinago 
 paraguaige, Gray, List Grail. Brit. Mus. p. Ill (1844) ; 
 id. Gen. B. iii. p. 583 (1846); Bp. C. B. xliii. p. 579 (1856); SchL 
 Mus. Pays-Bas, Scolopaces, p. 11 (1864: Chili & Falkland Is.); 
-8cl. P. Z. 8. 1867, pp. 332, 339 (Chili); id. $ Salvin, P. Z. 8.1868, 
+8cl. P. Z. S. 1867, pp. 332, 339 (Chili); id. $ Salvin, P. Z. S.1868, 
 
 p. 144 (Conchitas); iid. Ibis, 1868, p. 189 (Sandy Point, Straits of 
 Magellan) ; iid. Bxotic Orn. p. 196 (1869) ; Gray, Handr-l. B. iii. 
 p. 53, no. 10336 (1871); 8cl. $ 8alv. Nommcl. Av. Neotr. p. 144 
 (1873); Durnf. Ibis, 1877, p. 198 (Buenos Avres); 8cl $> Salv, 
-P. Z. 8.1878, p. 438 (Puerto Bueno; Falkland Is.); iid. Bep. Voy. 
-< Challenger; Zool. ii. Birds, p. 109 (1880); 8harpe, P. Z. 8. 1881, 
+P. Z. S.1878, p. 438 (Puerto Bueno; Falkland Is.); iid. Bep. Voy. 
+< Challenger; Zool. ii. Birds, p. 109 (1880); 8harpe, P. Z. S. 1881, 
 p. 15 (Cockle Cove, Straits of Magellan) ; Barrows, Auk, i. p. 314 
 (1884: Lower Uruguay); Gibson, Ibis, 1885, p. 282 (Paysandu, 
 Uruguay); Withington, Bis, 1888, p. 472 (Lomas de Zamora); 
 8cl. $ Huds. Argent Orn. ii. p. 181 (1889); Heine 8? Beichen, 
 NomencL Mus. Hein. p. 331 (1890: Chili); Lucas, Proc. U.S. 
 Nat. Mus. xiii. p. 130 (1890: Laredo Bay, Straits of Magellan); 
-8cl. P. Z. 8. 1891, p. 137, pt. (Tarapaea); Oust. Miss. 8ci. Cap 
+8cl. P. Z. S. 1891, p. 137, pt. (Tarapaea); Oust. Miss. 8ci. Cap 
 Horn, Ois. p. 124 (1891) ; Holland, Ibis, 1891, p. 16 (Argentine 
 Republic); Graham Kerr, Ibis, 1892, p. 150 (Lower Pilcomayo) j , 
 70 . GALLDSTAGO. 
@@ -57484,7 +57484,7 @@ Handb. B. Austr. ii. p. 271 (1865); Ramsay, Ibis, 1866, p. 334
 (Port Denison); Whitely, Ibis, 1867, p. 226 (Hakodadi); Gray, 
 JSand-l B. iii. p. 52, no. 10331 (1871) ; Siuinh. Ibis, 1874, p. 163 
 (Hakodadi, May) ; Ramsay, Proa. Linn. Soe. N. 8. W. i. p. 190' 
-(1877); id. P. Z. 8. 1877, p. 339 (N.E. Queensland); id. Proc. 
+(1877); id. P. Z. S. 1877, p. 339 (N.E. Queensland); id. Proc. 
 Linn. 8oc. MS. W. ii. p. 198 (1878); Blahist. SfPryer, Ibis, 1878, 
 p. 222 (Japan); Seebohm, Ibis, 1879, p. 26 (Hakodadi)* Ridgic. 
 Proc. U.S. Nat. Mus. iv. p. 331 (1882); Blahist. $ Pnjer, B. Japan, 
@@ -59500,7 +59500,7 @@ Grail, tab. cccliv.fig. 2780 (1851) ; Bp. C. B. xliii. p. 579 (1856) ;
 Schl. Eandl. Dierk. i. p. 432, pi. vi. fig. 71 (1857) : id. Dierent. 
 
 p. 248 (1864); id. Mits. Pays-Bas, Scolopaces, p. 3 (1864: Java); 
-Blyth, Ibis, 1865, p 36, note ; Sol. § Salv. P. Z. 8. 1809, p. 419 ; 
+Blyth, Ibis, 1865, p 36, note ; Sol. § Salv. P. Z. S. 1809, p. 419 ; 
 Gray, Eand-l. B. iii. p. 54, no. 10353 (1871) ; Legge, B. Ceylon, 
 p. 808 (1880); Vorderm. Nat. Tijdschr. Nederl. Ind. xlv. p. 107 
 (1885: Mount Salak, Java) : Seebohm, Ibis, 1886, p. 127 (Java), 
@@ -60655,7 +60655,7 @@ Hand-l B. iii. p. 55, no. 10359 (1871); Scl. § Salv. Nomencl Av.
 Neotr. p. 145 (1873) ; Bumf. Ibis, 1877, p. 42 (Patagonia), 
 p. 199 (Buenos Avres), 1878, p. 403 (Central Patagonia); Sharpe, 
 P. Z. S. 1881, p. 1*6 (Coquimbo) ; Salvin, Cat. Strickl Coll p. 608 
-(1882: Valparaiso) ; id. P. Z. 8. 1883, p. 429 (Chili) ; Barroivs, 
+(1882: Valparaiso) ; id. P. Z. S. 1883, p. 429 (Chili) ; Barroivs, 
 Auk, i. p. 314 (1884: Lower Uruguay); Withington, Ibis, 1888, 
 p. 472 (Lomas de Zamora); Tacz. Orn. Perou, iii. p. 378 (1886); 
 Berl. J.f.O. 1887, p. 126 (Paraguay); Seeboh?n. Geogr. Distr. 
@@ -62873,15 +62873,15 @@ Reiehenb. Gall. tab. clxxx. figs. 1548-50 (1850) ; Bp. C. R. xiiii.
 
 p. 420 (1856) ; Burm. Reise La Plata-St. ii. p. 501 (1867 : 
 feosario); Scl. P. Z. S. 1867, p. 331 (Chili); id. $ Salv. t. c. p. 989 
-(Peru) ; iid. Ibis, 1868, p. 188 (Peckett Harbour) : iid. P. Z. 8. 
+(Peru) ; iid. Ibis, 1868, p. 188 (Peckett Harbour) : iid. P. Z. S. 
 1868, p. 143 (Conchitas), pp. 176, 570 (Peru); iid. Ibis, 1869, 
 p. 284 (Gregory Bav); iid. P. Z. S. 1869, p. 148 (Lima); iid. Ibis, 
 1870, p. 499 (Sandv Point, March); Gray, Kand-l. B. iii. p. 20, 
 no. 10047 (1871); Scl. $ Sate. Nomencl. Av. Neotr. p. 144 (1873); 
-Tacz. P. Z. 8. 1874. p. 557 (Lima and Chorillos); Bumf. Ibis, 
+Tacz. P. Z. S. 1874. p. 557 (Lima and Chorillos); Bumf. Ibis, 
 1876, p. 164 (Buenos Avres) • id Ibis, 1877, p. 42 (ClnrpatValley, 
 Nov., ? breeding), p. 197 (Buenos Ayres); id. Ibis, 1878, p. 403 
-(Central Patagonia, Oct. & March); Salv. P. Z. 8. 1883, p. 429 
+(Central Patagonia, Oct. & March); Salv. P. Z. S. 1883, p. 429 
 (Coquimbo); Tacz. Orn. Perou, iii. p. 283 (1886) ; Scl # Suds. 
 Argent. Orn. ii. p. 176 (1889): Scl. P.Z.8. 1891, p. 137 (Tarapaca) 
 ; Oust. Miss. Sci. Cap Horn, Ois. p. 108 (1891); Holland, 
@@ -63913,7 +63913,7 @@ Seebohm Coll.
 k. $ ad. st. Queensland. Seebohm Coll. 
 j^&&. Page 157. Hoplopterus spinosus. 
 
-Hoplopterus spinosus, Sharpe, P. Z. 8. 1895, p. 514 (Somali-land); 
+Hoplopterus spinosus, Sharpe, P. Z. S. 1895, p. 514 (Somali-land); 
 Shelley, B. Africa, i. p. 188 (1896). 
 
 V. Ad. st. E^ypt {Stafford Allen). Seebohm Coll. 
@@ -64047,7 +64047,7 @@ o". Juv. sk. Punjab, Nov. 8 (JS. X Elwes). Seebohm Coll.
 
 Add: Pa&e 178. Stephanibyx coronatus. 
 
-Stephanibyx coronatus; Sharpe, P. Z. 8. 1895, p. 514 (Bordwain) : 
+Stephanibyx coronatus; Sharpe, P. Z. S. 1895, p. 514 (Bordwain) : 
 Shelley, B. Africa, i. p. 188 (1896). 
 
 t,u.<$2 ad. sk. S. Africa (E. L. LayaroT). Seebohm Coll. 

@@ -2453,7 +2453,7 @@ Pogonias nigritkorax, Cuv. Regne An. p. 458 (1829) ; Bp. Consp. Av.
 i. p. 145 (1850). 
 Laimodon nigrithorax, 
 Gray, Gen. B. ii. p. 428 (1846); Bp. Consp. 
-Vol. Zyg. p. 12 (1854); Verr. P. Z. 8. 1859, p. 325 ; Gurney, Ibis, 
+Vol. Zyg. p. 12 (1854); Verr. P. Z. S. 1859, p. 325 ; Gurney, Ibis, 
 1862, p. 32• Layard, B. 8. Afr. p. 233 (1867); id. Ibis, 1871, 
 
 p. 226. 
@@ -2865,7 +2865,7 @@ Laimodon melanocephalus, Riipp. Si/st. Uehers. p. 95 (1845) ; Ileugl.
 Ibis, 1859, p. 343 ; id. J.f. 0. 1861, p. 196. 
 Laimodon bifrenatus, Gray, Gen. B. ii. p. 429 (1845) ; Bp. Consp. 
 
-Vol. Zyg. p. 12 (1854) ; Verreaux, P. Z. 8. 1859, p. 396. 
+Vol. Zyg. p. 12 (1854) ; Verreaux, P. Z. S. 1859, p. 396. 
 Pogonorhynchns bifrenatus, Tleugl. Ibis, 1861, p. 123. 
 Pogonorhynehus nielanocephalus, Goffia, Mus. Pays-Bos, Buccones, 
 
@@ -3457,7 +3457,7 @@ p. 175, no. 8464 (1870); Buttik. Notes Lei/den Mus. vii. p. 210
 (1885). 
 Xylobucco duckaillui, Marshall, Monogr. Capit p. 113, pi 46 (1870); 
 
-Sharpe, Cat Aft. B. p. 15 (1871); id. P. Z. 8. 1871, p. 600; 
+Sharpe, Cat Aft. B. p. 15 (1871); id. P. Z. S. 1871, p. 600; 
 
 Shelley 8f Buckley, Ibis, 1872, p. 207 ; Ussher, Ibis, 1874, p. 55 ; 
 
@@ -3526,7 +3526,7 @@ Megalaima barbatula, Gray, Gen. B. ii. p. 430 (1846); Bayard, B.
 
 8. Afr. p. 234 (1867). 
 Barbatiila pusilla, Bonap. Consp. Av. i. p. 144 (1850); id. Consp. 
-Vol Zyg. p. 12 (1854); Verr. P. Z. 8. Ib59, p. 399 (pt.)• Marshall, 
+Vol Zyg. p. 12 (1854); Verr. P. Z. S. Ib59, p. 399 (pt.)• Marshall, 
 Monogr. Capit. p. 117, pi. 48 (1871); Sharps, Cat. Afr. B. p. 16 
 (pt.) (1871); id. ed. Bayard's B. 8. Afr.jp. 175 (1884). 
 
@@ -4148,7 +4148,7 @@ field). (Typo of species.)
 10. CALOKHAMPHUS. ™ 
 Type. 
 Calorhamphus, Less. Rev. Zool 1839, p. 139 (May) C. hayi, 
-Megalorhynchus, Ryton, P. Z. 8.1839, p. 106 C. hayi. 
+Megalorhynchus, Ryton, P. Z. S.1839, p. 106 C. hayi. 
 
 Range. Prom Southern Tenasserim down the Malay Peninsula to 
 Sumatra and Borneo. 
@@ -4186,7 +4186,7 @@ Bucco hayi, J. E. Grmj, Zool Misc. p. 33 (1882).
 
 Calorhamphus sanguinolentus, Less. Rev. Zool. 1839, p. 139. 
 
-Megalorhynchus spinosus, Byton, P. Z. 8. 1839, p. 10(3. 
+Megalorhynchus spinosus, Byton, P. Z. S. 1839, p. 10(3. 
 
 Megalorhynchus lathami (nee Gm.), Blyth, J. A. S. B. xi. p. 202 
 
@@ -4862,7 +4862,7 @@ Bucco rafflebii, Less. Rev. Zool. 1839, p. 137.
 Megalaima versicolor, Gray, Gen. B. ii. p. 429 (1846); Bp. Consp. 
 
 i. p. 143 (1850); Motley § JDillw. Nat. Mist. Labnan, p. 28 (1855) ; 
-Moore, P. Z. 8. 1859, p. 454; Goffin, Mus. Pays-Bas, Baccoiies, 
+Moore, P. Z. S. 1859, p. 454; Goffin, Mus. Pays-Bas, Baccoiies, 
 p. 15(1863); Gray, List Capit. Brit.Mus.y. 6 (1868); id. Hand-l 
 B. ii. p. 174, no 8435 (1870). 
 Megaleema (Chotorhea) versicolor, Bp. Consp. Vol. Zygod. p. 12 
@@ -5705,7 +5705,7 @@ Hah. Kina Ealu Mountain, North Borneo.
 a,b. $ 2 a-d. sk. Kina Balu (J. Whitehead). Seebohm Coll. 
 
 8. Cyanops franklini. 
-Bucco franklini, Bh/th, J. A. 8. Beng. xi p. 167 (1842), xv. p. 13 
+Bucco franklini, Bh/th, J. A. S. Beng. xi p. 167 (1842), xv. p. 13 
 (1846). ^ 
 Bucco igniceps, Tlodgs. Icon. ined. in Brit. Ofvs., Passeres, pi. 322. 
 fig. 2 (no. 172); id. in Gray's Zool. Misc. p. 85 (1844). 
@@ -5885,7 +5885,7 @@ Megalaema oorti,
 Bp. Consp. Vol. Zygod. p. 12 (1854); Marshall, 
 Monogr. Capit p. 59, pi. 27 (1871); B'uttih. Motes Ley den Mus. 
 
-ix. p. 16 (I586); tiharpe, P. Z. 8. 1887, p. 442. 
+ix. p. 16 (I586); tiharpe, P. Z. S. 1887, p. 442. 
 Cyanops oorti, Salvad. Ann. 3Ius. Civ. Gmov* xiv. p. 180 (1879). 
 Adult female. General colour above light grass-green; wing-
 coverts like the back; bastard-wing, primary-coverts, and quills 
@@ -6114,7 +6114,7 @@ Ad. sk. N. Formosa, April (22. Swin- SeebohmColl. (Type
 q. Ad. sk. N". Formosa, April (R. Swin- Salvin-Godaian Coll. 
 hoe). 
 14. Cyanops faber. 
-Megalasma faber, Stoinhoe, Ibis, 1870, p. 96, pi. iv.; id. P. Z. 8. 
+Megalasma faber, Stoinhoe, Ibis, 1870, p. 96, pi. iv.; id. P. Z. S. 
 
 1871, p. 391; Marshall, Monogr. Capit. p. 59, pi. 25 (1871) : 
 
@@ -6242,9 +6242,9 @@ Blyth, Cat B. Mus. As. 8oe. p. 06 (1840, pi.); Layard, Ann. $r
 May. N. H. (2) xiii. p. 440 (1854) ; COBB. U. 8. Euped. (Perry), 
 
 p. 242 (1856). 
-Bucco caniceps, Blyth, J. A. 8. Beng. xv. p. 282 (1846). 
+Bucco caniceps, Blyth, J. A. S. Beng. xv. p. 282 (1846). 
 Bucco viridis (nee Bodcl), Bp. Consp, i. p. 144 (1853). 
-Megalaima zevlonica, Blyth, J. A. 8. Beng. xx. p. 151 (1851); 
+Megalaima zevlonica, Blyth, J. A. S. Beng. xx. p. 151 (1851); 
 Kelaart, Prodr. Cat p. 127 (1852) ; Horsf. $ Moore, Cat. B. Mus. 
 
 El. Co. ii. p. (538 (1856); Jerd. B. Lid. i. p. 311 (1862) ; Coffin, 
@@ -6253,7 +6253,7 @@ Mus. Pays-Bas, Buccones, p. 84 (1863) ; Gray, List Capit Brit.
 
 Mus. p. 13 (1868); id. Hand-l. B. ii. p. 17&, no. 8458 (1870) ; 
 
-Holdsw. P. Z. 8. 1872? p. 429; Hume, Nests § Eggs Ind. B. p. 180 
+Holdsw. P. Z. S. 1872? p. 429; Hume, Nests § Eggs Ind. B. p. 180 
 
 (1873); Legge, Ibis, 1874, p. 15. 
 
@@ -7049,10 +7049,10 @@ Green Barbet, Lath. Gen. Syn. i. pt. 2, p. 504 (1782).
 
 Bucco viridis, JBodd. Tail. JPl. Enl p. 53 (1783) ; Gm. S. N. i. p. 408; 
 Jerd. Madr. Journ. xi. p. 217 (1840) ; id. op. cit. xiii. p. 139 (1844); 
-Blyth, J. A. 8. B. xv. p. 13 (1846); Jerd. III. Ind. Orn. pi, 26 
+Blyth, J. A. S. B. xv. p. 13 (1846); Jerd. III. Ind. Orn. pi, 26 
 (1847). 
 
-Bucco caniceps (nee Frankl), Syhes, P. Z. 8.1832, p. 97. 
+Bucco caniceps (nee Frankl), Syhes, P. Z. S.1832, p. 97. 
 
 Megalaima viridis, 
 Gray, Gen. B. ii. p. 429 (1846); Blyth, Cat B. 
@@ -7196,7 +7196,7 @@ CAPITOIOJDJE.
 Xantholsema duvaucelii, Horsf. # Moore, Cat. B. Mus. P.I. Co. ii. 
 
 p. 647 (1856) : Salvad. TJcc. Borneo, p. 38 (1874) ; Tweedd. Ibis, 
-1877, p. 299; Sharpe, Ibis, 1879, p. 240 ; id. P. Z. 8.1881, p. 792; 
+1877, p. 299; Sharpe, Ibis, 1879, p. 240 ; id. P. Z. S.1881, p. 792; 
 Kelham, Ibis, 1881, p. 389; Mutter, J.f.O.1882, p. 427; Biittik. 
 Notes Leyden Mus. ix. p. 16 (1886); Salvad. Ann. Mus. Civ. Genov. 
 (2) iv. p. 529 (1887). 
@@ -7276,7 +7276,7 @@ Salvin-Godman
 CoU. 
 
 2. Mesobucco cyanotis. 
-Bucco australis (nee Horsf.), Blyth, J. A. 8. Benq. xv. p. 13 
+Bucco australis (nee Horsf.), Blyth, J. A. S. Benq. xv. p. 13 
 
 (1846). 
 Bucco cyanotis, Blyth, J. A. S. Beng. xvi. p. 465 (1847). 
@@ -7964,10 +7964,10 @@ Ad. sk. Java (Dr. Horsfield). India Museum.
 g. Ad. sk. [Java.] 
 Gould Coll. 
 4. Xantholaema malabarica. 
-Bucco barbiculus (nee Cuv.), Blyth, J. A. 8. Beng. xv. p. 13 (1846); 
+Bucco barbiculus (nee Cuv.), Blyth, J. A. S. Beng. xv. p. 13 (1846); 
 
 Jerd. Madr. Journ. xiii. p. 140 (1844). 
-Bucco malabarica, Blyth, J. A. 8. Beng. xvi. pp. 386, 465 (1847). 
+Bucco malabarica, Blyth, J. A. S. Beng. xvi. pp. 386, 465 (1847). 
 Megalaima malabarica, Blyth, Cat. B. Mus. As. 8oc, App. p. 336 
 
 (1849); Goffin, Mus. Bays-Bas, Buccones,; p. 27, note (1863); 
@@ -9103,7 +9103,7 @@ Capito punrtatus, Less. TraiU, p. 165 (1831): Gray. Gen. B. ii
 p. 430 (1846). 
 Capito aurifrons, Vigors, P. Z. JS. 1832, p. S • Gray, Gen. B. ii. p. 430 
 (1846). 
-Micropogonflavicollis, Bp. P. Z. 8. 1837, p. 120. 
+Micropogonflavicollis, Bp. P. Z. S. 1837, p. 120. 
 Bueco punctatus, Pes Murs, Iconogr. Orn. pi. 20 (1846). 
 Capito flavicollis, Gray, Gen. B. ii. p. 430 (1846). 
 Micropogon auricollis, Bp. Co?isp. Vol. Zygod. p. 12 (1854). 
@@ -9115,7 +9115,7 @@ Amer. 5 . p. 329 (1862, pt.).
 Capito 
 auratus (nee Cuv.), Goffin, Mus. Pays-Bas, Buccones, p. 56 
 (1863); Gray, List Capit. Brit. Mus. p.* 20 (1868); Pelz. Orn. 
-Bras. p. 239 (1871); Scl. $ Salr. P. Z. 8. 1873, p. 298; iid. 
+Bras. p. 239 (1871); Scl. $ Salr. P. Z. S. 1873, p. 298; iid. 
 
 18 . CAPITO. 
 113 
@@ -9284,7 +9284,7 @@ ley),
 y. J ad. sk. Sarayacu (C. Buckley). Sclater Coll. 
 h, i. 6 ? ad. sk. Intac, Ecuador (C. Buckley). Salvin-GodmanColl. 
 0. Capito granadensis. (Plate Y. fig. 5.) 
-Capito richardsoni (nee Gray), Sclat. P. Z. 8.1855, p. 162; id. Cat. 
+Capito richardsoni (nee Gray), Sclat. P. Z. S.1855, p. 162; id. Cat. 
 Amer. B. p. 329 (1862. pt.)j Goffin, Mm. Pays-Bas, Buccones, p. 50 
 (1863); Gray, List Capit. Brit. Mm. p. 22 (1868, pt.) ; Salvin, 
 Ibis, 1870, p. 112; Scl. §> Salv. Nomencl. Av. Neotr. p. 110 
@@ -9302,18 +9302,18 @@ d, e. J ad. sk. Bogota. Purchased.
 
 
 10. Capito auxantiieollis. 
-Eubucco aurantiicollis, Scl. P. Z. 8. 1857, p. 267. 
-Capito hartlaubi (nee Lap j , Scl. P. Z. 8.1857, p. 267. 
+Eubucco aurantiicollis, Scl. P. Z. S. 1857, p. 267. 
+Capito hartlaubi (nee Lap j , Scl. P. Z. S.1857, p. 267. 
 Capito aurantiicollis, Scl. Ibis, 1861, p. 119; id. Cat. Anw. B. 
 
 
 p. 329 (1862); Scl. $ Sah. P. Z. S. 1866, p. 196; Gray, List 
 Capit. Brit. Mm. p. 22 (1868); id. Hand4. B. ii. p. 178. no. 
 8499 1870); Salv. Ibis, 1870, p. 112; Marshall, Monoyr. Capit. 
-p. 175, pi. 70 (1871); Scl. # Salv. P. Z. 8. 1873, p. 298; lid. 
-Nomencl. Av. Neotr. p. 110 (1873); Taczan. P. Z. 8.1874, p. 549; 
+p. 175, pi. 70 (1871); Scl. # Salv. P. Z. S. 1873, p. 298; lid. 
+Nomencl. Av. Neotr. p. 110 (1873); Taczan. P. Z. S.1874, p. 549; 
 id. Orn. Perou, iii. p. 141 (1886). 
-Capito melanotic Scl fy Salv. P. Z. 8. 1866, p. 196. 
+Capito melanotic Scl fy Salv. P. Z. S. 1866, p. 196. 
 
 Adult male. Similar to C. riehardsoni, but differing in the clearer 
 crimson colour of the head, sides of face, and chin, and especially 
@@ -9350,8 +9350,8 @@ i, h <$ 2 ad. sk. Eiver Ucayali, July (J. Gould Coll.
 Hauxivell). 
 
 11. Capito steerii (Plate Y. fig. 2.) 
-Capito steerii, 8cl. § Salv. P. Z. 8. 1878, p. 140, pi. 12 (tig. mace.); 
-Tact. P. Z. 8. 1882, p. 45 ; id. Orn. Perou, iii. p. 143 (18sG). 
+Capito steerii, 8cl. § Salv. P. Z. S. 1878, p. 140, pi. 12 (tig. mace.); 
+Tact. P. Z. S. 1882, p. 45 ; id. Orn. Perou, iii. p. 143 (18sG). 
 
 Adult male. Similar to G. ricliardsoni as regards the colour of 
 the under surface of the body, but with a much larger patch of 
@@ -9385,7 +9385,7 @@ Capito maynanensis, Gray, Gen. B. ii. p. 430 (1846;.
 Eubucco elegans, Bp. Consp. i. p. 142 (1850) ; id. Consp. Vol. Zygod. 
 
 p. 13 (1854). 
-Eubucco pictus, 8cl P. Z. 8. 1857, p. 268. 
+Eubucco pictus, 8cl P. Z. S. 1857, p. 268. 
 Capito pictus, 8cl. Ibis, 1861, p. 187; Goffin, Mus. Pays-Bas, 
 Buccones, p. 63 (1863;. 
 
@@ -9486,7 +9486,7 @@ p. 329 (1862) j Gqffin,Mus. Pays-Bas, Buccoiies, p. oS (1863);
 6?r«y, List Capit. Brit. Mus. p. 22 (1868) ; ztf. Hand-l B. ii. 
 p. 178, no. 8497 (1870); Salv. Ibis, 1870, p. Ill; Marshall, 
 Monogr. Capit. p. 165, pi. 66 (1871); Scl. t$- #«/r. Xom^'icJ. Ax. 
-Neotr. p. 110 (1873, pt.) ; iid. P. Z. 8. 1870, p. 538. 
+Neotr. p. 110 (1873, pt.) ; iid. P. Z. S. 1870, p. 538. 
 Capito hartlaubi (= $), Gray, Gen. B. ii. p. 430 (lb4G); Scl. 
 
 P. Z. S. 1854, p. 115, 1855, p. 162; id. Ibis, 1861, p. 189; id. 
@@ -9495,9 +9495,9 @@ p. 61 (1863); Gray, List Capit. Brit. Mus. p. 22 (lbG8).
 Capito capistratus, Byton, Contr. Orn. 1849, p. 131. ^"tf 
 Mei>alairna capi&tratus, Eyton, Contr. Orn. 1850, p. 29, pi. 45. 
 Eubucco bourcieri, Bp. Consp. i. p. 142 (1850); id. Consp. Vol. 
-Zyyod. p. 13 (1854); Scl. P. Z. 8. 1859, p. 146, 1860, pp. 95, 297. 
+Zyyod. p. 13 (1854); Scl. P. Z. S. 1859, p. 146, 1860, pp. 95, 297. 
 Eubucco hartlaubi, Bp. Consp. i. p. 142 (1850); id. Consp. Vol, 
-Zyyod. p. 13 (1854); Scl. P. Z. 8. 1857, p. 2(J7, 1858, p. 75. 
+Zyyod. p. 13 (1854); Scl. P. Z. S. 1857, p. 2(J7, 1858, p. 75. 
 
 Adult male. General colour above bright grass-green, wing-
 coverts like the back; bastard-wing, primary-coverts, and quills 
@@ -9551,7 +9551,7 @@ Gould Coll.
 £. c5* ad. sk. Nanegal (L. Freiser). Sclater Coll. 
 15. Capito salviai*. (Plato Y. fig. 4.) 
 Capito Tbourcieri (nee Lafr), Salvm, P. Z. S. 1870? p. 212 ; Laior. 
-Ann. Lye. N. Y. ix. p. 130 (1870)• Boucard, P. Z. 8. 1878, 
+Ann. Lye. N. Y. ix. p. 130 (1870)• Boucard, P. Z. S. 1878, 
 
 p. 47. 
 Capito 
@@ -9609,7 +9609,7 @@ p. 184, pi. vi., 1802, p. 2 ; Goffin, Mus. Pays-Bat, !>itcione.>,
 p. 93 (1803); Gray, List Capit. Brit. Mus. p. 10 (1808J; id. 
 Hand-l B. ii. p. 177, no. 8488 (1870); Marshall, Monogr. Capit. 
 p. 1, pi. i. (1871) ; Sd. $Salv. Nonrenal Av. Neotr. p. 110 (1873); 
-Qarrod, P. Z. 8. 1878, p. 932; Tacz. # Perl. P. Z. S. 1885, 
+Qarrod, P. Z. S. 1878, p. 932; Tacz. # Perl. P. Z. S. 1885, 
 p. 116. 
 Adult. General colour above dark golden brown, with a band 
 of golden yellow across the lower back, the rump and upper tail-
@@ -10223,11 +10223,11 @@ Ad. sk. Maranham, Brazil (Wende- Salvin-Godman Coll.
 born). 
 
 7. Ehamphastos inca. 
-Ramphastos inca, Gould, P. Z. 8.1840, p. 68; id. Man. Mamph. ed. 
+Ramphastos inca, Gould, P. Z. S.1840, p. 68; id. Man. Mamph. ed. 
 2, pi. 7; Casein, Pr. Ac. 8c. Phil. 1807, p. 105; Scl. et Salv. 
-Nomencl p. 108 ; iid. P. Z. 8. 1873, p. 297 (E. Peru), et 1879, 
+Nomencl p. 108 ; iid. P. Z. S. 1873, p. 297 (E. Peru), et 1879, 
 
-p. 633 (Bolivia) ; Tacz. P. Z. 8. 1882, p. 44 (N.E. Peru); id. Orn. 
+p. 633 (Bolivia) ; Tacz. P. Z. S. 1882, p. 44 (N.E. Peru); id. Orn. 
 Per. iii. p. 140. 
 Above black; upper tail-coverts orange: beneath, throat and 
 neck white, with a slight yellowish tinge on the neck ; belly black ; 
@@ -10253,7 +10253,7 @@ RH1MPI1ASTIDJE.
 
 8. Rhamphastos cuvieri. 
 Rampkabtob cuvieri, Waff I. Syst. Av. tsp. 5 ; Less. Tr. aVQrn. p. 171; 
-Gould, P. Z. 8. 1834, p. 73 ; id. Mouogr. Rampli. ed. 1, pi. 2 ; id. 
+Gould, P. Z. S. 1834, p. 73 ; id. Mouogr. Rampli. ed. 1, pi. 2 ; id. 
 ed. 2, pi. 8 ; Sturm, Monogr. Mamph. pt. i. pi. 2; Pelz. Orn. Bras. 
 
 
@@ -10466,7 +10466,7 @@ id. Mon. Mampli. ed. 1, pi. 0, et ed. 2, pi. 1*3; Sturm, Mon.
 RampTi. pt. iii. pi. 3 ; Bp. Consp. i. p. 93; Less. Tr. d'Orn. 
 p. 173; Cab. in Schomb. G-man. iii. p. 722; Taylor, Ibis, 1864, 
 p. 93 (Trinidad); Cassin, Pr. Ac. 8c. Phil 1867, p. 107,* Pek. 
-Orn. Bras. p. 233 ; Finsch, P. Z. 8.1870, p. 584 (Trinidad) ; Salv. 
+Orn. Bras. p. 233 ; Finsch, P. Z. S.1870, p. 584 (Trinidad) ; Salv. 
 Ibis, 188G, p. 05 (Brit. Guiana). 
 Le Pignan-Ooin, Levaill. Ois. de Par. ii. p. 19, pi. 7. 
 
@@ -10507,7 +10507,7 @@ Banipkastos dicolorus, Linn. S. N. i. p. 152; Gm. S. Ar, i. p. 356;
 Lath. Ind. Orn. i. p. 135; Waql Syst. Av. sp. 14 ; Sio. Zool. III 
 ser. 1, ii. pi. 108 ; Jard. et Se'lh. Ill Orn. i. pi. 29; Less. Tr. 
 
-. cPOrn. p. 173; Gould, P. Z. 8. 1834, p. 74; id. Man. Bamph. 
+. cPOrn. p. 173; Gould, P. Z. S. 1834, p. 74; id. Man. Bamph. 
 ed. 1, pi. 11, et ed. 2, pi. 14; Sturm, Mon. Bamph. pt. iii. pi. 5; 
 Bp. Consp. i. p. 93; Cab. in Schomb. Guian. iii. p. 722; Burm. Syst. 
 Ueb. ii. p. 204 ; Fraser, P. Z. S. 1866, p. 368; Peh. Orn. Bras. 
@@ -10587,14 +10587,14 @@ j bill uniform black 4. nigrirostris, p. 135.
 B. General plumage yellow 
 6. bailloni, p. 13B. 
 1. Andigena hypoglaucns. 
-Pteroglossus kypoglaucus, Gould, P. Z. 8. 1883, p. 70, et 1834, 
+Pteroglossus kypoglaucus, Gould, P. Z. S. 1883, p. 70, et 1834, 
 p. 77; id. Mon. Ramph. ed. i. pi. 19; Sturm, Mou. Ramph. pt. ii. 
 pi. 4; Bp. Consp. i. p. 94. 
 Andigena 
-hypoglauca, Gould, P. Z. 8. 1850, p. 93; id. Mon. 
+hypoglauca, Gould, P. Z. S. 1850, p. 93; id. Mon. 
 Ramph. ed. % pi. 38; Casdn, Pr. Ac. 8c. Phil lfcG7, p. 122; 
-Bel et Salv. Nomenol. p. 109; iid. P. Z. 8. 1873, p. 186 (Peru); 
-Tacz. et Berl. P. Z. 8.1885, p. 108 (Ecuador); Tacz. Orn. Per. iii. 
+Bel et Salv. Nomenol. p. 109; iid. P. Z. S. 1873, p. 186 (Peru); 
+Tacz. et Berl. P. Z. S.1885, p. 108 (Ecuador); Tacz. Orn. Per. iii. 
 
 p. 157. 
 Above dark green with a brownish tinge; cap black, broad 
@@ -10627,13 +10627,13 @@ I. <$ ad. sk. Oachupata,
 S.W. Peru Sclater Coll. 
 
 2. Andigena cucullatus. 
-Pteroglossus cucullatus, Gould, P. Z. 8. 1846, p. 69; Bp. Consp. i. 
+Pteroglossus cucullatus, Gould, P. Z. S. 1846, p. 69; Bp. Consp. i. 
 p. 95. 
-Andigena cucullatus, Goidd, P. Z. 8. 1850, p. 93 ; id. Mon. Ramph, 
-ed. 2, pi. 39; Sol et Salv. Nomencl. p. 109; iid. P. Z. 8. 1870, 
+Andigena cucullatus, Goidd, P. Z. S. 1850, p. 93 ; id. Mon. Ramph, 
+ed. 2, pi. 39; Sol et Salv. Nomencl. p. 109; iid. P. Z. S. 1870, 
 
 p. 634 (Bolhia); Cassin, Pr. Ac. 8c. Phil. 1807, p. 122; Tacz. 
-P. Z. 8. 1874, p. 548 (C. Peru), et 1882, p. 45 fN.E. Peru), 
+P. Z. S. 1874, p. 548 (C. Peru), et 1882, p. 45 fN.E. Peru), 
 2 . ANDIGHSNA. 
 135 
 Above dark green with, a brownish, tinge on the back; cap 
@@ -10654,11 +10654,11 @@ c. Ad. sk. Bolivia.
 T. Bridge*, [C.]. 
 3. Andigena laminirostris. 
 Andigena 
-laminirostris, (xould, P. Z. 8. 1850, p. 93; id. Mm. 
-Pamph. ed. 2, pi. 37; Sclater, P. Z. 8. 185% p. 140, et 1860, 
+laminirostris, (xould, P. Z. S. 1850, p. 93; id. Mm. 
+Pamph. ed. 2, pi. 37; Sclater, P. Z. S. 185% p. 140, et 1860, 
 
 p. 95 (Ecuador) ; id. Cat. A. B. p. 327; Cassin, Pr. Ac. 8c. Phil. 
-1867, p. 122; Perl et Tacz. P. Z. 8. 1884, p. 308, et 1885, p. 121 
+1867, p. 122; Perl et Tacz. P. Z. S. 1884, p. 308, et 1885, p. 121 
 (W. Ecuador); Tacz. Orn. PSr. iii. p. 158. 
 Above clear olive-brown; head and nape black; rump lemon-
 yellow ; tail dark grey, with broad chestnut tail-end to the central 
@@ -10698,8 +10698,8 @@ Gould Coll.
 Pteroglossus nigrirostris, Waterh. P. Z* 8. 1839, p. Ill; Bp, Consp, 
 i. p. 94. 
 Pteroglossus melanorhynchus, Sturm, Monogr. Ramph. pt. i. pi. 3. 
-Andigena nigiirostris," Gould, P. Z. 8. 1850, p. 93; id. Monogr. 
-Mmnph. ed. 2, pi. 40; 8el P. Z. 8. 1855, p. 161 (Bogota); id. 
+Andigena nigiirostris," Gould, P. Z. S. 1850, p. 93; id. Monogr. 
+Mmnph. ed. 2, pi. 40; 8el P. Z. S. 1855, p. 161 (Bogota); id. 
 Cat. A. B. p. 327; Cassin, Pr. Ac. 8c. PJdlad. 1867, p. 123; 
 Wyatt, Ibis, 1871, p. 379 (Colombia); Berl. J.f. 0.1884, p. 319 
 (Bucaramanga). 
@@ -11334,12 +11334,12 @@ g. Bugaba, Chiriqui (Arce). Salvin-Godman Coll.
 h. Ad. sk. Bugaba, Chiriqui (Arce). Gould Coll. 
 8. Pteroglossus erythropygius. 
 
-Pteroglossus erytkropygius, Gould, P. Z. 8. 1843, p. 15; id. Zool. 
+Pteroglossus erytkropygius, Gould, P. Z. S. 1843, p. 15; id. Zool. 
 Voy. i Sulphur,1 p. 45, pi. xxviii.; id. Mon. Ramph. ed. 2; pi. 21 
-(lower tig.); Set. P. Z. 8.1860, pp. 71,280 (Ecuador); Lam. Ann. 
+(lower tig.); Set. P. Z. S.1860, pp. 71,280 (Ecuador); Lam. Ann. 
 Lye. N. Y. viii. p. 178 (Chiriqui); Cassin, Pr. Ac. 8c. Phil. 1867, 
 
-p. 109 ; Salv. P. Z. 8. 1867, p. 157 (Veragua); 8cl. et Scdv. No-
+p. 109 ; Salv. P. Z. S. 1867, p. 157 (Veragua); 8cl. et Scdv. No-
 mend, p. 109; Bed. et Tacz. P. Z. S. 1883, p. 573, et 1885, p. 123 
 (Ecuador). 
 Above dark green: head and nape black; rump scarlet: beneath 
@@ -11537,13 +11537,13 @@ uo
 
 14. Pteroglossus humboldti. 
 Pteroglos&us humboldti, Wagl. Syst Av. sp. 4 (1827); Gould, Mon. 
-Humph, ed. 1, pi. 22, ed. 2, pi. 22; id. P. Z. 8.1835, p. 157; Sturm, 
+Humph, ed. 1, pi. 22, ed. 2, pi. 22; id. P. Z. S.1835, p. 157; Sturm, 
 Man. Humph, pt. ii. pi. 5 ( S), pt. iii. pi. 8 (?); &?J. P. #. 8.1857, 
 
 p. 267 (U. Amazons); Cassin, Pr. Ac. 8c. Phil. 1867, p. 112; 
-Peh. Orn. Bras. p. 237 ; 8cl. et Salv. P. Z. 8. 18G6, p. 195 (Ucayali), 
+Peh. Orn. Bras. p. 237 ; 8cl. et Salv. P. Z. S. 18G6, p. 195 (Ucayali), 
 1807, p. 753, et 1873, p. 297 (E. Peru); iid. Nomencl. p. 109; 
-Tacz. P. Z. 8. 1882, p. 44 (N.E. Peru) ; id. Orn. Per. iii. p. 149 ; 
+Tacz. P. Z. S. 1882, p. 44 (N.E. Peru) ; id. Orn. Per. iii. p. 149 ; 
 Berl. J.f. 0.1889; p. 311. 
 Above dark green; bead black; rump scarlet: beneath pale 
 yellow; throat and neck black; thighs brown ; upper mandible 
@@ -11573,11 +11573,11 @@ q, r. 2 ^d. sk. Andoa, Ecuador (Buckley). Salvin-Godman Coll.
 
 15. Pteroglossus inscriptus. 
 Pteioglossub inscriptus, Swains. Zool. III. ser. 1, ii. pi. 90 ; Wagl, 8yst. 
-Av. sp. 5; Gould, P. Z. 8. 1834, p. 77; id. Mon. Mamph. ed. 1, 
+Av. sp. 5; Gould, P. Z. S. 1834, p. 77; id. Mon. Mamph. ed. 1, 
 pi. 23, ed. 2, pi. 23 ; Sturm, Mon. Ramph. pt, iii. pi. 9$ Cassin, Pr. 
 Ac. So. Phil 1867, p. 112; Peh. Orn. Bras. p. 236 ; Scl. et Salv. 
 
-P. Z. 8.1867, p. 586 (L. Amazons) ; iid. Nomeml. p. 109 ; Layard, 
+P. Z. S.1867, p. 586 (L. Amazons) ; iid. Nomeml. p. 109 ; Layard, 
 Ibis, 1873, p. 393 (Para); Salv. Ibis, 1886, p. 65 (Brit. Guiana). 
 Above dark green; head black; rump scarlet: beneath pale 
 yellow; throat and neck black; thighs brown; bill clearly ochraceous 
@@ -11914,7 +11914,7 @@ i. <$ ad. sk. Bio Napo.
 Sclater Coll. 
 5. Selenidera nattereri 
 Pteroglossus 
-nattereri, Gould, P. Z. 8. 1835, j>. 157; id. Mon. 
+nattereri, Gould, P. Z. S. 1835, j>. 157; id. Mon. 
 Humph, ed. 1, pi. 25 ; Sturm, Mon. Ramph. pt. i. pi. 9. 
 Selenidera nattereri, Bp. Consp. i. p. 95 ; Gould, Mon. Ramph. ed. 2, 
 pi. 34; Pelz. Orn. Bras. p. 238; Cassin, Pr. Ac. Sc. Phil. 1867, 
@@ -11994,11 +11994,11 @@ Selenidera
 spectabilis, Cassin, Pr. Ac. Sc. Phil. 1857, p. 214, ot 
 1867, p. 117; id. Joum. Ac. Sc. Phil. iv. ser. 2, p. 1, pi. 1 ; Zawr. 
 Ann. Lye. N. Y. vii. p. 474 (Colombia), et ix. p. 120 (Costa 
-Rica) ; Scl. et Sah. P. Z. 8. 1864, p. 366 (Panama); iid. Nomencl. 
+Rica) ; Scl. et Sah. P. Z. S. 1864, p. 366 (Panama); iid. Nomencl. 
 
-p. 109; Salv. P. Z. 8. 1867, p. 157, et 1870, p. 211 (Veragua); 
+p. 109; Salv. P. Z. S. 1867, p. 157, et 1870, p. 211 (Veragua); 
 id. Ibis, 1872, pp. 313, 323 (Nicaragua); Frantz. J.f. 0. 1869, 
-p. 362 (Costa Rica); Bouc. P. Z. 8. 1878, p. 47 (Costa Rica). 
+p. 362 (Costa Rica); Bouc. P. Z. S. 1878, p. 47 (Costa Rica). 
 Above green, tail greyish; head and nape black; large post
 
 
@@ -12032,7 +12032,7 @@ h. tf ad. sk. Veragua {Arce). Salvin-Godman Coll.
 i, k. S ? ad. sk. Santa Fe, Veragua {Aire). Gould Coll. 
 5. AULAGORHAMPHUS. 
 Type. 
-Aulacorhynchus, Gould, P. Z. 8. 1834, p. 147 A. sulcata. 
+Aulacorhynchus, Gould, P. Z. S. 1834, p. 147 A. sulcata. 
 Aulacoramphus, G. R. Gray, List Gen. B. p. 50 
 
 (1840) ' A. sulcata. 
@@ -12651,7 +12651,7 @@ xx. pp. 504, 517; id. Orn. Bras. p. 24.
 Paradise Jacamar, Lath. Gen. Hist. iv. p. 5. 
 Urogalba paradisea, Bp. Consp. Vol. Zyg. p. 13; 8al. P. Z, 8. 1855, 
 p. 14 ; id.Cat. A. B. p. 207; id. Monogr. Jac. andPuff-bds, p. 1, pi. i. 
-tig. 1; 8cl. et Salt). P. Z. 8. 1867, p. 582 ; iid. Nommcl. p. 105 ; 
+tig. 1; 8cl. et Salt). P. Z. S. 1867, p. 582 ; iid. Nommcl. p. 105 ; 
 8alv. Ibis, 1886, p. 62 (Brit. Guiana) j W. L. Sclater, Ibis, 1887, 
 p. 318 (Brit. Guiana). 
 Urocex paradisea, Cab. et Hein. Mus. Hein. iv. p. 217. 
@@ -12778,12 +12778,12 @@ Le Jacaniar proprement dit, Buff. Hist. Nat., Ois. vii. p. 220 ; id. PL
 Enl 238. 
 
 Grub. Enc. sect. 1, lii. p. 308; Reichenb. Etandb.-g. 85; Set. Contr. 
-Orn. 1852, p. 29 ; id. 8gn. Galb. p. 2 ; id. P. Z. 8. 1SD5} p. 13; id. 
+Orn. 1852, p. 29 ; id. 8gn. Galb. p. 2 ; id. P. Z. S. 1SD5} p. 13; id. 
 Cat. A.B. p. 205; id. Monogr. Jac. and Puff-bds. p. 7, pi. ii. : Cass. 
 Cat. Hale. p. 17; Pet. Sitz. Ah. Ji'ien, xx. p. 510; id. Orn. 
 Bras. p. 24; Cab. et Hein. Mas. Ilein. iy. p. '219: Sd. et Salt: 
 
-P. Z. 8. Ib07j p. 581; iid. Komeacl. p. 104; 8ah\ Ibis, 1880, 
+P. Z. S. Ib07j p. 581; iid. Komeacl. p. 104; 8ah\ Ibis, 1880, 
 p. 01 (Brit. Guiana). 
 Le Jacaniar, And. et Vidll. Ois. Dor. i. Jac. t. 1 (d); Levaill Ois 
 de Par. ii. j>p. Ill, 112, It. 47, 48. 
@@ -13506,7 +13506,7 @@ i. p. 153; id. Consp. Vol Zyg. p. 14; Reichenb. Handb. p. 83;
 5 . &ALBALCYEHYNCHTJS. 
 175 
 
-ScL Syn. Galb. p. 8 ; id. P. Z. 8. 1835, p. 16 ; id. Monoqr. Jac. and 
+ScL Syn. Galb. p. 8 ; id. P. Z. S. 1835, p. 16 ; id. Monoqr. Jac. and 
 Puff-Ms. p. 49, pi. xvi.; Cass. Cat. Hah. p. 18; Re'ink Fuglef. 
 Bras. Camp. p. 123 ; 6H e£ Said. Nomencl. p. 105. 
 
@@ -13638,7 +13638,7 @@ Lamprotila grandis, Cab. in Schomb. Guian. iii. p. 718 ; id. in Ersch
 u. Grub. Unc. sect. 1, Hi. p. 810; Cab. et Hem, Mm. Ilein. iv. 
 p. 227. 
 Jaearuerops isidori, Beville, Mev. Zool. 1849, p. 55; JReicJienb. llandb. 
-p. 88 ; Scl. 8yn. Galb. p. 10 ; id. P. Z. 8.1855, p. 16 ; Bp, Consp. 
+p. 88 ; Scl. 8yn. Galb. p. 10 ; id. P. Z. S.1855, p. 16 ; Bp, Consp. 
 Vol. Zyg. p. 13; Bes 3furs, Exp. de Castelnau, Zool, Ois. p. 32, 
 t.x. 
 Lamproptila isidori, Cab. et Rein. Mus. Heiri. iv. p. 227. 
@@ -13878,7 +13878,7 @@ Bucco collaris, Lath. Lid. Orn. I p. 202; Vieill. Wouv, Diet. iii.
 
 p. 240 ; id. fine. Meth. p. 1420 ; Gray et Mitch. Gen. B. i. p. 74; 
 Gray, List Fiss. B. M. p. 47; 8cl. Ann. N. II. ser. 2, xiii. p. 356; 
-id. Syn. Bucc. p. 7 ; id. P. Z. 8. 1854, p. 110, 1855, p. 196; id. 
+id. Syn. Bucc. p. 7 ; id. P. Z. S. 1854, p. 110, 1855, p. 196; id. 
 Oat. A. B. p. 268; id. Monoyr. Jae. and Puff-bds. p. 61, pi. xix. ; 
 Pelz. Sitz. Ah. Wien} xx. p. 510; id. Orn. Bras. p. 22; Cab. et 
 Rein. Mus. Rein, iv. p. 148; Scl. et 8ah. P. Z. S. 1867, pp. 582, 
@@ -13954,7 +13954,7 @@ Zyg. p. 13.
 Cyphos macrorhynchus, Strickl. Ann. Nat. Hist. vi. p. 418, 
 Bucco macrorhynchus, Gray et Mitch. Qen. B. i. p. 74; Cab. in 
 
-Schomb. Guian. iii. p. 719;' Set P. Z. 8.1855, p. 190; id. Cat. A. B. 
+Schomb. Guian. iii. p. 719;' Set P. Z. S.1855, p. 190; id. Cat. A. B. 
 
 p. 209; id. Monogr. Jac. and Puff-bds. p. 05, pi. xx.; Peh. Sits. Ak. 
 Wienf xx. p. 511; id. Orn. Bras. p. 21; Sol. et Solo. Nomenel. p. 105; 
@@ -14148,9 +14148,9 @@ g. Skeleton. S.E. Brazil Eyton Coll.
 6. Bucco pectoralis. 
 Bucco pectoralis, Gray et Mitch. Gen. B. i. p. 74, pi. xzvi.; Gray, List 
 Fiss. B. M. p. 47; Scl. Ann. Nat. Hist. ser. 2, xiii. p. 858; id. 
-Syn. Bucc. p. 8 j id. P. Z. 8. 1855, p. 196 ; id. Monogr. Jac. and 
+Syn. Bucc. p. 8 j id. P. Z. S. 1855, p. 196 ; id. Monogr. Jac. and 
 Puff-bds. p. 75, pi. xxiv.; Lawr. Ann. Lye. N. Y. vii. p. 464 
-(Panama); Scl. et-Sah. P. Z. 8. 1864, p. 363, et 1879, p. 536; 
+(Panama); Scl. et-Sah. P. Z. S. 1864, p. 363, et 1879, p. 536; 
 iid. Nomencl. p. 105; Wyatt, Ibis, 1871, p. 374; Berl J.f. 0. 
 1884, pp. 277, 315 (Bucaramanga). 
 
@@ -14263,9 +14263,9 @@ ft, I 6 ? ad. sk. Para (Layard). Tweeddale Coll.
 m. Ad. st. Para. R. Graliam [P.]. 
 n, o. Ad. st. S. America Purchased. 
 9. Bucco picatus. 
-Bucco picatus, Scl. P. Z. 8. 1855, p. 194; id. Man. Jac. and Pivffbds. 
-p. 81; Scl. et Salu. P. Z. 8. 1873, p. 295 (E. Peru); ml 
-Nomencl p. 105 ; Tacz. P. Z. 8. 1882, p. 44 (N.E. Peru); id. Orn. 
+Bucco picatus, Scl. P. Z. S. 1855, p. 194; id. Man. Jac. and Pivffbds. 
+p. 81; Scl. et Salu. P. Z. S. 1873, p. 295 (E. Peru); ml 
+Nomencl p. 105 ; Tacz. P. Z. S. 1882, p. 44 (N.E. Peru); id. Orn. 
 Per. iii. p. 124. 
 
 Nothriscus picatus, Cab. et Rein. Mus. Rein. iv. p. 140. 
@@ -14280,10 +14280,10 @@ b. § ad.sk. Saroiria, Upper Amazons Sab in-Godman Coll.
 (Ravxwell). 
 c. Ad. sk. Sarayacu, Ecuador (Buckley). Salvin-Godman Coll. 
 10. Bucco subtectus. 
-Bucco subtectus, Mater, P. Z. 8. 1860, p. 290; id. Cat. A. B. 
+Bucco subtectus, Mater, P. Z. S. 1860, p. 290; id. Cat. A. B. 
 p. 270; id. Monocjr. Jac. and Puffi-bds, p. 83, pi. xxvii.: 861. et 
-8ah. P. Z. 8. 1864, p. 303, 1879, p. 536; iid. Nomencl.^. 100: 
-Tacz. et Berl. P. Z. 8. 1885, pp. 118,123 (Ecuador). 
+8ah. P. Z. S. 1864, p. 303, 1879, p. 536; iid. Nomencl.^. 100: 
+Tacz. et Berl. P. Z. S. 1885, pp. 118,123 (Ecuador). 
 Bucco tectus, Lawr. Ann. Lye. K. Y. vii. p. 318. 
 Nothribcus subtectus, Cab. et Rein. Miis. Rein. iv. p. 147. 
 
@@ -14312,7 +14312,7 @@ Capito cyphos, Wagl. Syst. Av. Capito, sp. 4; Tsch. Faun. Per., Aves,
 
 p. 259. 
 Tamatia macrodactylus, Less. Tr. d'Orn. p. 1G8. 
-Capito macrodactylus, Bp. P. Z. 8. 1837, p. 119 ; id. Consp. i. p. 146; 
+Capito macrodactylus, Bp. P. Z. S. 1837, p. 119 ; id. Consp. i. p. 146; 
 Burm. 8yst. deb. ii. p. 285, 
 
 1 . BTJCGO. 
@@ -14365,7 +14365,7 @@ Bucco ruficollis, Gray et Mitch. Gen. B. i. p. 74; Scl. Ann. Nat.
 Mist ser. 2, xiii. p. 360; id. Syn. Bucc. p. 10, pi. 1; id. P. Z. S. 
 1855, p. 190; id. Cat. A. B. p. 270; id. Monogr. Jac. and Puff-
 Ids. p. 89, pi. xxix.; Cassin, Proc. Acad. Philad. 1860, p. 134; Scl. 
-et Salv. P. Z. 8.1870, p. 781; iid. Nomencl. p. 106; Wyatt, Ibis, 
+et Salv. P. Z. S.1870, p. 781; iid. Nomencl. p. 106; Wyatt, Ibis, 
 1871, p. 374; Scdv. et Godm. Ibis, 1880, p. 175; Berl. J.f O. 
 1884, p. 318 (Bucaramanga). 
 
@@ -14506,7 +14506,7 @@ n. Ad. sk. Capini River, L. Amazons Sclater Coll.
 o. Ad. sk. Lower Amazons (Wallace). Salvin-Godman Coll 
 15. Bucco pulmentum. 
 Tamatia ^Nyctactes) pulmentum, Bp. et Yerr. MS. 
-Bucco pulmentum, Sclater, P. Z. 8. 1855, p. 194, pi. 100, et lb57, 
+Bucco pulmentum, Sclater, P. Z. S. 1855, p. 194, pi. 100, et lb57, 
 
 
 p. 202; id. Cat. A i?. p. 270 ; id. Monogr. Jac. and Papbds. p. 97, 
@@ -14608,7 +14608,7 @@ Gray, List Fiss. B. M. p. 48; Sclater, Ann. N. H. ser. 2, xiii'
 p. 362 ; id. Syn. Bucc. p. 12• id. P. Z. S. 1855, p. 19G; id. Cat. A, 
 B. p. 271 j id. Monogr. Jaa. and Puff-hds. p. 103, pi. xxxiv.; Peh 
 tiitz. Ak. Wien, xx. p. 508 • Reinh. Fuqhf. Camp. Bras. p. 120 
-Sol. et Sah. Nomencl. p. 106; iid. P. Z. 8.1879, p. 633 ; Bed. J. f. O, 
+Sol. et Sah. Nomencl. p. 106; iid. P. Z. S.1879, p. 633 ; Bed. J. f. O, 
 1887, pp. 23,121 (Paraguay); Tacz. Orn. Per. iii. p. 129: Berl 
 J.f. 0.1889, p. 808. 
 Gapito inelanotis, Temm. PI. Col. 94; Wagl. Syst Av. Capito, sp. 5 : 
@@ -14810,7 +14810,7 @@ iv. p. 132; Scl et Salv. P. Z. S. 1867, pp. 583, 752,1873, p. 295;
 VOL. XIX. 0 
 194 BUCCONIDJE. 
 
-iid. Nomenol p. 106; Tacz. P. Z. 8. 1882, p. 44 (N.E. Peru) 5 id. 
+iid. Nomenol p. 106; Tacz. P. Z. S. 1882, p. 44 (N.E. Peru) 5 id. 
 Orn. Per. iii. p. 131. 
 Munasa fusea, Graif et Mitch. Gen. B. i. p. 74; Gray, List Flss. B. 
 
@@ -14818,8 +14818,8 @@ M. p. 49; Bp. Consp. i. p. 147 ; Strickl. Contr. Orn. 1852, p. 43 ;
 Pelz. Sitz. Ak. Wien, xx. p. 513; id. Orn. Bras. p. 23. 
 Monasa uuitorijues, Da Bus, Bull. Ac. Brux. xiv. pt.2, p. 107; Lafr. 
 Bev.Zoul. 1848, p. 248. 
-Malacoptila inomata, Set. P. Z. 8.1855, p. 198 (err.). 
-Malacoptila nigrifusca, 8cl. P. Z. 8. 1855, p. 195: id. Cat. A. B. 
+Malacoptila inomata, Set. P. Z. S.1855, p. 198 (err.). 
+Malacoptila nigrifusca, 8cl. P. Z. S. 1855, p. 195: id. Cat. A. B. 
 
 p. 272. 
 Malacoptila unitorques, 8cl. P.Z.8. 1858, p. GO; id. Cat. A. B. 
@@ -14862,9 +14862,9 @@ Monasa ruia, Gray et Mitch. Gen. B. i. p. 74; Gray, List Fiss. B. M.
 p. 50: Bp. Consp. i. p. 147 • Peh. Sitz. Ak. Wien, xx. p. 513; id. 
 Om. Bras, p. 23. 
 Malacoptila rufa, Scl. Ann. Nat. Hist. ser. 2, xiii. p. 475; id. 8yn. 
-Bucc. p. 15; id. P. Z. 8. 1855, p. 196; id. Cat. A. B. p. 272; id. 
+Bucc. p. 15; id. P. Z. S. 1855, p. 196; id. Cat. A. B. p. 272; id. 
 Monogr. Jac. and Puff-bds. p. 115, pi. xxxviii.; Cab. et Hein. Mas. 
-Hein. iv. p. 130; Scl et Salv. P. Z. 8.1867, p. 583, et 1873, p. 295; 
+Hein. iv. p. 130; Scl et Salv. P. Z. S.1867, p. 583, et 1873, p. 295; 
 iid. Nomencl. p. 106; Tacz. P. Z. S. 1874, p. 548, et 1882, p. 44 
 (Peru); id. Orn. PSr. iii. p. 130. 
 
@@ -15173,7 +15173,7 @@ MICEOMOKACHA.—4. NONNTTLA. 199
 3. 
 MICEOMOEACHA. 
 Type. 
-Micromonacha, Scl P. Z. 8. 1881, p. 777 M. lanceolata, 
+Micromonacha, Scl P. Z. S. 1881, p. 777 M. lanceolata, 
 Under this name I proposed, in 1881, to isolate the little Bucco 
 lanceolatus of Deville from the Upper Amazons. Micromonacha is 
 apparently more nearly allied to Malacoptila than to Bucco, and 
@@ -15187,12 +15187,12 @@ Bucco lanceolata, Deville, Mev. et Mag. de Zool. 1849, p. 56; Scl.
 Ann. Nat. Hist. ser. 2, xiii. p. 863 ; id, Syn. Bitcap. 18, pi. 3; id. 
 
 
-P. Z. 8. 1855, p. 196; Scl et Salv. Nomejicl p. 100; Tacz. Orn. 
+P. Z. S. 1855, p. 196; Scl et Salv. Nomejicl p. 100; Tacz. Orn. 
 Per. iii. p. 127. 
 Capito lanceolatus, Bp. Consp. Vol. Zi/g. p. 13; Bes Mars, An. noiw. 
 on rares de VExp. de Castelnau, Ois. p. 30. 
 Nystalus lanceolatus, Cab. et If em. Mus. Ileln. iv. p. 142. 
-Micromonacha lanceolata, 8cl. P. Z. 8. 1881, p. 777; id. Monogr. 
+Micromonacha lanceolata, 8cl. P. Z. S. 1881, p. 777; id. Monogr. 
 
 Jac. and Puf-bds. p. 131, pi. xliv. 
 
@@ -15212,7 +15212,7 @@ a, d. Ad. sk. Sarayacu, Ecuador (Buckley). Salvin-Godman Coll.
 4. 
 101NULA. « 
 Type. 
-Nonnula, Scl. P. Z. 8. 1853, p. 124 N. rubecula. 
+Nonnula, Scl. P. Z. S. 1853, p. 124 N. rubecula. 
 This genus embraces the smallest and most feeble members of the 
 
 family. They are nearly allied to Malacoptila and Monacha, but 
@@ -15388,7 +15388,7 @@ Coll. )
 
 5. HAPALOPTILA. 
 Type. 
-ITapaloptila, Scl P. Z. 8. 1881, p. 777 H. castanea. 
+ITapaloptila, Scl P. Z. S. 1881, p. 777 H. castanea. 
 This is a large form with a strong hooked hill and well-developed 
 
 rietal bristles. In structure it is nearly allied to MonacJia, but has 
@@ -15400,9 +15400,9 @@ Hapaloptila is found in Ecuador and Colombia.
 1. H&paloptila castanea. 
 Malacoptila castanea, 
 Verr. Rev. Zool 1866, p. 355, t. six.; Scl. et 
-Salv. Fomenel. p. 106 ; iicl. P. Z. 8. 1879, p. 536. 
-ITapaloptila castanea, Scl. P. Z. 8. 1881, p. 777 j id. Monoqr. Jew. 
-and Puff-bds. p. 143, pi. xlviii.; Tacz. et Perl P. Z. 8. 1885, 
+Salv. Fomenel. p. 106 ; iicl. P. Z. S. 1879, p. 536. 
+ITapaloptila castanea, Scl. P. Z. S. 1881, p. 777 j id. Monoqr. Jew. 
+and Puff-bds. p. 143, pi. xlviii.; Tacz. et Perl P. Z. S. 1885, 
 
 p. 116 (Ecuador). 
 Above cinereous with an olivaceous tinge, wings and tail darker; 
@@ -15724,7 +15724,7 @@ Bolivia (Behn). Sclater Coll.
 7. 
 CHELiDOPIERA. 
 Type. 
-Clielidoptera, Gould, P. Z. 8. 1830, p. SI 0. tenebrosd, 
+Clielidoptera, Gould, P. Z. S. 1830, p. SI 0. tenebrosd, 
 Ohelithjotera is a well-marked form of Euecotddee, differing from 
 the other members of the family in its lengthened wings and 
 shortened tail. The bill is also short and slender and much 
@@ -15749,17 +15749,17 @@ p.1330; Leas.Tr. tfOrn. p. 157.
 Wkite-rtimped Cnckow, Lath. Gen. Hist. iii. p. 324. 
 Monasa tenebrio, Temm. PL Col. 323. fig. 1. 
 L} pornh: tenebrosa, Wagl. 8ijst. Av. Lypomix, &p. 7. 
-Clielidoptera tenebrosa, Gould, P. Z. 8. 1830, p. 81; Gray et Mitch, 
+Clielidoptera tenebrosa, Gould, P. Z. S. 1830, p. 81; Gray et Mitch, 
 
 Gen. B. i. p. 75; Cab. in 8chomb. Guian. iii. p. 720; Gray, List 
 Fiss. B. M. p. 50; Bp. Consp. i. p. 148 ; 8cL Ann. Nat. Hist. >ser. 
-2, xiii. p. 482; id. 8yn. Bnec. p. 23; id. P. Z. 8. 1855, pp. 130, 
+2, xiii. p. 482; id. 8yn. Bnec. p. 23; id. P. Z. S. 1855, pp. 130, 
 190; id. Cat. A. B. p. 275 ; id. Monogr. Jae. and Puff*b(fo. p. 101, 
 pi lv. fig. 1; Pels. 8ifz. Ah. Wien^xx. p. 513; id. Orn. Bras, 
 
-p. 23 ; Cab. et Hem. Mm. llein. iv. p. 124; 8cl. et 8alv. P. Z. 8. 
+p. 23 ; Cab. et Hem. Mm. llein. iv. p. 124; 8cl. et 8alv. P. Z. S. 
 1800, p. 192,1867, pp. 583, 752, 1870, p. 781, 1873, pp. 18(5, 205; 
-iid. Nomenel. p. 100; Toes. P. Z. 8. 1882, p. 44 (N.E. Peru) ; id. 
+iid. Nomenel. p. 100; Toes. P. Z. S. 1882, p. 44 (N.E. Peru) ; id. 
 Orn. Per. iii. p. 130; 8alv. Ibis, 1886, p. 03 (Brit. Guiana) ; IV. 
 L. Sclater, Ibis, J 887, p. 318 (Brit. Guiana) ; Bed. J.f.O. 1881), 
 p. 309. 
@@ -16361,34 +16361,34 @@ Cuculus coromandelicus, 8. Mull. Natarl. Gesch. Land- en Volkenk.
 
 p. 234, note (1839-44). 
 Oxylophus coromandus, Jerd. Madr. Jouvn. xi. p. 272 (1840); Blytli, 
-J. A. 8. Beng. xi. p. 920 (1842); Gray, Gen. B. ii. p. 464 (1847) • 
+J. A. S. Beng. xi. p. 920 (1842); Gray, Gen. B. ii. p. 464 (1847) • 
 Blytli, Cat B. Mus. As. 8oc. p. 74 (1849); Bp. Consp. i. p. 102 
 (1850); Licht. Nomencl. Av. Berol p. 79 (1854); Motley $ 
 Dilkv. Labium N. H. p. 55 (1855); My, Ibis, 1861, p. 230; 
-Sclat. P. Z. 8. 1863, p. 209. 
+Sclat. P. Z. S. 1863, p. 209. 
 Oxylophus coromandus vel rubrarmus, Hodgs. Icon. ined. in Brit. 
 Mus., Passeres, pi. 345.fia\<». 1, 2 (no. 011); id. in Gray's Zool, 
 Misc. p. 85 (1844). 
 
 Coccystes coromandus, Horsf. fy Moore. Cat. B. Mus. B. I. Co. ii 
 
-p. C93 (1854); Moore, P. Z. 8. 1859, p. 459; Jerd. B. Lid. I 
+p. C93 (1854); Moore, P. Z. S. 1859, p. 459; Jerd. B. Lid. I 
 p. 341 (1862); Cab. $ Heine, Mus. Hein. iv. p. 45 (1862); 8cM. 
 Mus. Pays-Bas, Cuculi, p. 43 (1863); Bhjth, Ibis, 1866, p. 304; 
 8tcinh. Ibis, 1867, p. 227; Bulger, Ibis, 1869, p. 169; Gray, 
-Hand-l B. ii. p. 220, no. 906 (1870); 8wn?t. P. Z. 8. 1871, 
-p. 394; Holdsw. P. Z. 8. 1872, p. 432; Hume, Nests $ Eggs Ind. 
+Hand-l B. ii. p. 220, no. 906 (1870); 8wn?t. P. Z. S. 1871, 
+p. 394; Holdsw. P. Z. S. 1872, p. 432; Hume, Nests $ Eggs Ind. 
 B. p. 138 (1873); 8alvad. Ucc. Born. p. 67 (1874); Blyth § 
 Walden, B. Burm. p. 81 (1875); Hume, 8tr. F. 1876, p. 82; 
 Briiggem. Abhandl not. Ver. Bremen, v. p. 465 (1876) ; David fy 
 Oust. Ois. Chine, p. 71 (1877); Hume <§• Davis. 8tr. F. 1878, 
 
-p. 162; 8harpe, Ibis, 1878, p. 414; Tweedd P. Z. 8. 1878, p. 946 • 
+p. 162; 8harpe, Ibis, 1878, p. 414; Tweedd P. Z. S. 1878, p. 946 • 
 Legge, B. Ceylon, p. 249 (1879); Hume, 8tr. F. 1879, p. 89; 
 8cully, t. c. p. 257; Wardlmo-Bamsai/, App. Tweedd. Mem. p. 65Q 
 (1881) ; 8imson, Ibis, 1882, p. 87; Sahin, Cat. Strickl. Colly.437 
 (1882) ; Midler, J.f.O. 1882, p. 406; Blasius, J.f. 0.1883, p. 155; 
-Oates, B. Brit. Burm. ii. p. 117 (1883); Guillem. P. Z. 8. 1885, 
+Oates, B. Brit. Burm. ii. p. 117 (1883); Guillem. P. Z. S. 1885, 
 p. 406; Biittik. Notes Leyd. Mus. ix. p. 29 (1886); Vordevm. 
 Nat. Tijdschr. Nederl Ind. xlri. p. 10 (1886); Norman, Ibis, 
 1888, p. 400; Sharpe, Ibis, 1890, p. 12. 
@@ -17531,35 +17531,35 @@ Cuculus albopunctulatus, Drap. Diet. Class. Hist. Nat. iv. p. 570
 Cuculus albopunctatus, Horsf. Zool. Res. Java, pi. — (1824). 
 Pseudornis dicruroides, Hodgs. Icon. ined. in, Brit. Mus., Passeres, 
 
-pi. 353. no. 502; id. J. A. 8. Beng. 1839, p. 136; id. in Gray's 
+pi. 353. no. 502; id. J. A. S. Beng. 1839, p. 136; id. in Gray's 
 Zool. Misc. p. 85 (1844); Gray, Cat. Mamm. § B. Nepal pres. Hodgs. 
 
 p. 119 (1846). 
-Pseudornis lugubris, Sodgs. J. A. 8. Beng. 1839, p. 137. 
+Pseudornis lugubris, Sodgs. J. A. S. Beng. 1839, p. 137. 
 Cuculus dicruroides, Jerd. Madras Journ. x. p. 221 (1840); Blyth, 
-J. A. 8. Beng. 1842, p. 915, 1843, p. 244; Kelaart, Cat. Prodr. 
+J. A. S. Beng. 1842, p. 915, 1843, p. 244; Kelaart, Cat. Prodr. 
 App. p. 60 (1853); Layard, Ann. fy Maq. N. H. xiii. p. 453 
 (1854); Gray, Hand-l. B. ii. p. 219, no. 9051 (1870). 
-Polyphasia lugubris, Blyth, J. A. 8. Beng. xii. 1843, p. 244. 
+Polyphasia lugubris, Blyth, J. A. S. Beng. xii. 1843, p. 244. 
 fSurniculus dicruroides, Blyth, Cat. B. Mus. As. Soc. 1849, p. 72 ; 
 Horsf.fyMoore, Cat. B. Mus. E. I. Co. ii. p. 696 (1856) ; Jerd. 
 
 B. India, i. p. 336 (1862); Swirih. P.Z.8. 1871, p. 394; Holds-
-worth, P. Z. 8. 1872, p. 431; Hume, Sir. F. 1874, p. 472; David 
+worth, P. Z. S. 1872, p. 431; Hume, Sir. F. 1874, p. 472; David 
 Sr Oust. Ois. Chine, p. 61 (1877). 
 Surniculus lugubris, 
 Blyth, Cat. B. Mas. As. Soc. p. 72 (1849); 
 Horsf. $ Moore, Cat. B. Mus. JS. I. Co. ii. p. 695 (1856); Sclat. 
 
-P. Z. 8. 1863, p. 209 ; Walden, Ibis, 1872, p. 368; Salvad. Ucc. di 
+P. Z. S. 1863, p. 209 ; Walden, Ibis, 1872, p. 368; Salvad. Ucc. di 
 Borneo, p. 63 (1874); Sharpe, Ibis, 1877, p. 8; Tweeddale, t. c. 
-p. 287; id, P. Z. 8. 1878, p. 613; Hume § Davison, Sir. F. vi. 
+p. 287; id, P. Z. S. 1878, p. 613; Hume § Davison, Sir. F. vi. 
 pp. 159, 502 (1878); Ball, Str. F. vii. p. 207 (1878) ; Salvad. 
 Ann. Mus. Civ. Gen. 1879, p. 184; Sharpe, Ibis, 1879, p. 244; id. 
-P. Z. 8. 1879, p. 328; Hume, Str. F. viii. pp. 54, 89 (1879) ; 
+P. Z. S. 1879, p. 328; Hume, Str. F. viii. pp. 54, 89 (1879) ; 
 Legge, B. Ceylon, p. 243 (1880); Hume, Str. F. ix* p. 248 (1880); 
 Wardlaw Ramsay, Tioeeddale's Orn. Works, App. p. Qo6 (1881); 
-Sharpe, P. Z. 8.1881, p. 792; Oates, Handb. B, Br. Burm. ii. p. 112 
+Sharpe, P. Z. S.1881, p. 792; Oates, Handb. B, Br. Burm. ii. p. 112 
 (1883); Blasius, Verh. zool-bot. Ges. Wien, xxxiii. p. 30 (1883); 
 Bilttik. Notes Leyden Mus. 1886, p. 27; Sharpe, Ibis, 1888, p. 394, 
 1890, p. 10; Whitehead, t. c. p. 46. 
@@ -17569,7 +17569,7 @@ Cacangelus lugubris, Cab. § Heme, Mus. Hein. iv. p. 17 (1862);
 A. Midi. J.f.O. 1882, p. 404. 
 Cacangelus dicruroides, Cab. fy Heine, Mus. Hein. iv. p. 18, note 
 (1862). 
-Surniculus velutinus {nee Sharpe), Tweeddale, P. Z. 8.1879, p. 69. 
+Surniculus velutinus {nee Sharpe), Tweeddale, P. Z. S.1879, p. 69. 
 
 Adult. Black, with a deep green gloss, brightest on the back, 
 wings, and tail, and slightly more purple on the head and neck; on 
@@ -18431,17 +18431,17 @@ Hume Coll.
 Tweeddale CoU. 
 
 Cuculus fugax, Horsf. Tr. Linn. Soc. xiii. p. 178 (1821) ; Tig. Mem. 
-Baffl. p. 671 (1830); Sykes, P. Z. 8. 1832. p. 98; JercL Madr. J. 
+Baffl. p. 671 (1830); Sykes, P. Z. S. 1832. p. 98; JercL Madr. J. 
 
 xi. p. 219 (1840); 8. mil. Verh. Land-en Folk. p. 233 (1830-44); 
-Bhjth, J. A. 8. Beng. xi. p. 900 (1842), xii. p. 240 (1843), xiv. 
+Bhjth, J. A. S. Beng. xi. p. 900 (1842), xii. p. 240 (1843), xiv. 
 pp. 204, 943 (1845) ; id. Ami. # Mag. Nat. Eist. 1846, p. 385; 
 Grayj Cat. Mamm. fy B. Nepal pres. Hodgs. p. 120 (1846). 
 Cuculus lathami, J. E. Gray, III. Lid. Zool. pi, 34. fig. 2 (1834). 
 Cuculus vagans, 8. Mull. Verh. Land-en Folk. p. 233, note (1839-44). 
 Cuculus nisicolor, Ilodgs. Icon. ined. in Brit. Mus., Passeres, pi. 357. 
 
-fig. 1 (no. 872); Blyth, J. A. 8. Beng. 1843, p. 943, 1840, p. 18. 
+fig. 1 (no. 872); Blyth, J. A. S. Beng. 1843, p. 943, 1840, p. 18. 
 Cuculus flaviventris (nee Scop,), 8trickl. J. A, 8. Beng. 1844, p. 390, 
 note. 
 
@@ -18807,13 +18807,13 @@ f"\ Larger: wing over 6*5 inches intermedins juv.,
 
 1. CUCTIIUS micr opt eras. 
 Cuculus micropterus, 
-Gould, P. Z. 8. 1837, p. 187; Hodgs. Icon. 
+Gould, P. Z. S. 1837, p. 187; Hodgs. Icon. 
 hied, in Bibl. Soc. Zool. ii. p. 205 (no. 507); id. in Gray's Zool. 
-Misc. p. 85 (1844); Bh/th, J. A. 8. Beng. xi. p. 902 (1842), xiv. 
+Misc. p. 85 (1844); Bh/th, J. A. S. Beng. xi. p. 902 (1842), xiv. 
 
 p. 204, xv. p. 18 (1846) ; id. Ibis, 1862, p. 387; Jerd. B. Lid. 
 i. p. 320 (1862) ; Schl. Mus. Pai/s-Bas, Cuculi, p. 12 (1864); 
-Swinhoe, P. Z. 8. 1871, p. 395 ; Holdsivorth, P. Z. 8.1872, p. 430; 
+Swinhoe, P. Z. S. 1871, p. 395 ; Holdsivorth, P. Z. S.1872, p. 430; 
 Jerd. Ibis, 1872, p. 13; Wald. Ibis, 1873, p. 304; Ball, Sir. F. I 
 p. 63 (1873) ; Hume, Str. F. ii. pp. 191, 472 (1874); Brooks, Stir. 
 F. iii. p. 232 (1875); Hume, Sir. F. iv. p. 156 (1876); Fairbanh, 
@@ -20142,7 +20142,7 @@ himalayanus, Vig. P. Z. S. 1831, p. 172; Blyth, Cat B.
 Mus. As. Soc. p. 71 (1849) ; Horsf. $ Moore, Cat. A Mus. E.L 
 Co. ii. p. 704 (1858); Jerd. B. Ind. i. p. 323 (1862); Tgtler, lids, 
 18G8, p. 202; Jerd. IUs} 1872, p. 12 ; Seebohm, Ibis, 1878, p. 326; 
-Sharpe, P. Z. 8. 1879, p. 327 ; Biddidph, Str. F ix. p. 314 (1880); 
+Sharpe, P. Z. S. 1879, p. 327 ; Biddidph, Str. F ix. p. 314 (1880); 
 
 (>. CUCtrLKJS. 253 
 
@@ -20152,11 +20152,11 @@ id. Ilk, 1881, p. 50; Scully, t. c. p. 431; id. Str. I. x. p. 103
 p. 30; Marshall, t. c. p. 410. 
 Cuculus canoroides, S. Mull. Verh. Nat. Gesch. Land-en Volk. p. 235, 
 note (1830-44); Bp. Camp. Av. i. p. 103 (1850) ; Gray, P. Z.8. 
-1860, p. 359; Wallace, P. Z. 8. 18(53, p. 484; Finsch, Neu-Guinea, 
+1860, p. 359; Wallace, P. Z. S. 18(53, p. 484; Finsch, Neu-Guinea, 
 
 p. 159 (1865); Gould, B. Australia, p. 614 (1805); Blyth, Ibis, 
 1865, p. 31; Gray, Hand-l. B. ii. p. 216, no. 9006 (1870); Blyth, 
-Cat. B. Burmah, p. 79 (1875); IVardlaiv Bamsay, P. Z. 8. 1875, 
+Cat. B. Burmah, p. 79 (1875); IVardlaiv Bamsay, P. Z. S. 1875, 
 p. 600; Salvad. Ami. Mus. Civ. Genov. x. p. 124 (1877), xiii. p. 457 
 (1878) ; UAlbertis $ Salvad. Ann. Mus. Civ. Genov. xiv. p. 42 
 (1879); Bamsay, Pr. Linn, Soc. N. S. Wales, iv. p. 90 (1879) ; 
@@ -20165,8 +20165,8 @@ Bias. u. Nehrk. Verh. Gesellsch. Wien, 1882, p. 417; Finsch, Tog.
 der Siidsee, p. 16 (1884) ; Pleshe, Bull. Act. Petersb. xxix. p. 524 
 (1884); Guillemard, P. Z. S. 1885, pp. 565, 624; Blasius, Omis, v. 
 p. 806 ; Whitehead, Ibis, 1890, p. 46. 
-Ouculus saturatus, Horsf. J. A. 8. Beng. xii. p. 942 (1843) ; Blyth, 
-J. A. 8. Beng. xv. p. 18 (1840) : Cab. $ Heine, Mus. Hein. iv. p. 37, 
+Ouculus saturatus, Horsf. J. A. S. Beng. xii. p. 942 (1843) ; Blyth, 
+J. A. S. Beng. xv. p. 18 (1840) : Cab. $ Heine, Mus. Hein. iv. p. 37, 
 note (1802). 
 Cuculus optatus, Gould, P. Z. S. 1845, p. 18; Gray, Gen. B. ii. 
 
@@ -20174,7 +20174,7 @@ p. 463 (1847); Gould, B. Australia, iv. pi. 48; id. Introd. B. Australia,
 p. 67 (1848); Rchb. Voq. Neuholl. ii. pp. 113, 309 (1851); 
 Bp. Consp. At\ i. p. 103 (1850); Cab. § Heme, Mui. Ilein. i\. 
 p. 34, note (1802). 
-Ouculub canorus indicus, Blyth, J. A. 8. Beng. xv. 1840, p. 19; Stejn. 
+Ouculub canorus indicus, Blyth, J. A. S. Beng. xv. 1840, p. 19; Stejn. 
 Bull. U.S. Nat. Mus. no. 29, p. 228 (1885). 
 Nicoclarius optatus, Bp. Consp. Vol Zygod. p. 6, sp. 108 (1854); Gray, 
 Hand-l. B. ii. p.216, no. 9007 (1870). 
@@ -20626,7 +20626,7 @@ Le Coucou solitaire, Levaill. Ois. 6! Afr. v. p. So, pi. 206 (180(5).
 Cuculus solitarius, Steph, Gen. Zool. ix. p. 84, pi. IS (1815); TiellL 
 Fine. Meth. p. 1336 (1823) ; Gurney, Ibis, 1800, p. 213; Layard, 
 
-B. 8. Afr. p. 248 (18(37) ; Sharpe, P. Z. 8. 1873, p. 582; Ayres, 
+B. 8. Afr. p. 248 (18(37) ; Sharpe, P. Z. S. 1873, p. 582; Ayres, 
 Ibis, 1876, p. 433; Shelley, P. Z. & 1883, p. 309; Sharpe, ed. 
 Bayard's B. 8. Afr. pp. 149, 809 (1875-84); id. Joum. Linn. 8oc, 
 Zool. xvii. p. 432; Salvad. Ann. Mus. Civ. Gen. 18b8, p. 214. 
@@ -20635,7 +20635,7 @@ rubeculus, Swains. B. W. Afr. ii. p. 181 (1837); Fraser,
 P Z. 8. 1843, p. 52 ; Hart. Orn. W.-Afr. p. 190 (1857); id. J.f.O. 
 1861, p. 205; Cab. §• Heine, Mns. Hein. iv. p. 40 (1802); Mont. 
 
-P. Z. 8. 1865, p. 92 ; Sharpe, Ibis, 1S70, p 485 ; Gray, Hand-l B. 
+P. Z. S. 1865, p. 92 ; Sharpe, Ibis, 1S70, p 485 ; Gray, Hand-l B. 
 ii. p. 215, no. 8991 (1870); Beichen. J.f O. 1877, p. 16. 
 Cuculus capensis (nee Mull), Gray, Gen. B. ii. p. 403 (1847); Bp. 
 Consp. Av. i. p. 102 (1850); Grill, Zool. Antechn. p. 41 (1858) ; 
@@ -20792,12 +20792,12 @@ Ouculi, p. 16 (18G4); Zw/a/Y7, i>\ 8. Afr. p. 240 (1807) ; 6%wi.
 2V«y. & ^t/>-. ii. p. 408 (1868): Gray, Hand-l. B. ii. p. 215, 
 110.8994(1870); Heugl. Orn. N.O.-Afr. pp. 784, clxiii (1871); 
 Gurnet/ in Awlerss. B. Damara L. p. 226 (1872) ; JSalvad. Ann. 
-Mus. Civ. Geii.1873, p. 411; Sharpe, P. Z. 8. 1873, p. 587; Buckley, 
+Mus. Civ. Geii.1873, p. 411; Sharpe, P. Z. S. 1873, p. 587; Buckley, 
 Ibis, 1874, p. 307 ; Sharpe, ed. Layard's B. S. Afr. pp. 150, 809 
 (1875-84); Bocage, Orn. Angola, p. 141 (1877); Beichen. 
 
 J. f. 0. 1877; p. 16; 8harpe, Journ. Linn. Soc, Zool. xvii. p. 432 
-(1884); Salvad. Ann. Mus. Civ. Gen. 1884, p. 94; Shelley, P. Z. 8. 
+(1884); Salvad. Ann. Mus. Civ. Gen. 1884, p. 94; Shelley, P. Z. S. 
 1888, p. 42. 
 Le Coucou criard, LevailL Ois. d'Afr. v. p. 28, pis. 204, 205 (1806); 
 Sundev. Krit. om Levaill. p. 47 (1858). 
@@ -21008,7 +21008,7 @@ p. 464 (1847); Layard, Ann. % Mag. Nat Mist. xiii. 2nd ser.
 6 . CTTCTrLTTS. 263 
 p. 452 (1854); Jerd. B. Ind. i. p. 325 (1802) ; Schl. Mvs. Pays-Bas, 
 Cuculi, p. 23 (pt., 1804); Gray, Iland-l. B. ii. p. 218, no, 0032 
-(1879); Holdsxoorth, P. Z. 8. 1872, p. 430; Walden, Trans. Z. 8. 
+(1879); Holdsxoorth, P. Z. S. 1872, p. 430; Walden, Trans. Z. 8. 
 viii. p. 55 (1872); Legge, Ibis, 1874, p. 15 ; Hume, Str. F. ii. p. 472 
 (1874); Legge, Ibis, 1875, p. 284; Fairbanh, Str. F. iv. p. 255 
 (1876); Hume, Str. F. vi. p. 150 (1878); Ball, Str. F. vii. p. 207 
@@ -21261,8 +21261,8 @@ Cucnlus. prionulus, iL MS Licht. Verz. Douhl. p. 9 (1821).
 
 Cuculus cineracetis, 
 Jig. fy Ilorsf. Tr. Linn. Soc. xv. p. 208 (1820); 
-Janl 1? Selby, III. Orn. v. p. 07 (c. 1830) ; Blyth, J. A. 8. Ben//. 
-1*43, p. 242; titrickl. J. A. 8. Beng. 1344, p. 393, note; Gould, 
+Janl 1? Selby, III. Orn. v. p. 07 (c. 1830) ; Blyth, J. A. S. Ben//. 
+1*43, p. 242; titrickl. J. A. S. Beng. 1344, p. 393, note; Gould, 
 
 B. Austr. iv. p. 80 (1848) ; Rchb. Yog. XeuholL ii. p. 113 : Rosenb. 
 Reis naar ZuidoostereiL p. 49 (1867). 
@@ -21276,7 +21276,7 @@ Cacomantis tlabelliformi^ Bp. Comp. i. p. 104 (1850); id. Comp.
 
 Vol. Zip/od. p. 0 (1854) : Cab. 4* Heine, Mus. Hem. iv. p. 24 
 (1802)7 Gould, Handb. B. Austr. i. p. 618 (1805); Walden, Tr. 
-Z. tf, Mii. p. 54 (1872); Ramsay, P. Z. 8. 1875, p. 000; Forbes, 
+Z. tf, Mii. p. 54 (1872); Ramsay, P. Z. S. 1875, p. 000; Forbes, 
 
 8 . CAC03£A2rri3. 
 267 
@@ -21409,7 +21409,7 @@ tralia. [P.]
 Le petit Concou de 1'Isle Panav, Sonn. Voy. Nouv. Gum. i. D 122, 
 pl. 81 (1776). " i 
 Cuciilus meniBnus, Scop. Del Flor. et Faun. Insabr. ii. p. 89 (1786) ; 
-SfricM. J. A. 8. Beng. 1844, p. 891; Blyth, Cat. B. M. As. Soe. 
+SfricM. J. A. S. Beng. 1844, p. 891; Blyth, Cat. B. M. As. Soe. 
 
 p. 71 (1864); Schl. Mits. Bays-Bos, Cuculi, p. 21 (1864): Gray* 
 Hand-L B. 'ii. p. 217, no. 9016 (1870). 
@@ -21815,7 +21815,7 @@ Soc. N. 8. Wales, vii. p. 21 (1881); id.^ %ab. List, p. 15 (1888).
 Cuculus dumetorum, Gould, P. Z. S. 184o, p. 19 ; id. B. Austr. iv. 
 in text.pl. 87(1848); id. Intr. B. Austr. p. 67 (1848); Gray, 
 Gen. B. ii. p. 463 (1847) ; Rchb. Vog. Neulioll. ii. pp. 115, 309 
-(1850); Gray, P. Z. 8. 1858, p. 195; id. Cat. B. New Gum. 
+(1850); Gray, P. Z. S. 1858, p. 195; id. Cat. B. New Gum. 
 
 p. 60 (1859) ; id. Hand-l B. ii. p. 217, no. 9031 (1870). 
 Cacomantis dumetorum, Bp. Consp. i. p. 103 (1850); id. Consp. Vol. 
@@ -21827,11 +21827,11 @@ Soc. N. 8. Wales, iii. p. 257 (1878), iv. p. 96 (1879) ; Salvad, Ibis,
 Cacomantis tvmbonomus, 
 Bp. Consp. i. p. 104 (1850); id. Consp. 
 Vol Zyyoa. p. 6 (1854) ; Cab. $ Heine, Mm. Hein. iv. p. 22 (1862) ; 
-Wall. P. Z. 8. 1863, p. 484; Finsch, Nm-Guin. p. 159 (1865) j 
+Wall. P. Z. S. 1863, p. 484; Finsch, Nm-Guin. p. 159 (1865) j 
 Wald. Tr. Z. 8. viii. p. 54 (1872); 8alvad. Ann. Mus. Civ. Gen. 
 
 xiii. p. 458 (1878); B'Alb. $ Salvad. op. cit. xiv. p. 13 (1879); 
-Finsch, Vog. d. Siidsee, p. 15 (1884); Guillemard, P. Z. 8. 1885, 
+Finsch, Vog. d. Siidsee, p. 15 (1884); Guillemard, P. Z. S. 1885, 
 p. 551 j Salvad. Orn. Papuasia, i. p. 340 (1880), Agg. p. 49 
 (1889). 
 Adult male. Somewhat similar to C. merulinus, but with, the 
@@ -21878,16 +21878,16 @@ Tweeddale Ooll.
 Seebohm Coll, 
 
 4. Cacomantis insperatus. 
-Cuculus insperatus, Gotdd, P. Z. 8.1845, p. 19; id. B. Austr. iv. 
+Cuculus insperatus, Gotdd, P. Z. S.1845, p. 19; id. B. Austr. iv. 
 pi. 87 (1846); Gray, Gen. B. ii. p. 46;] (1847); Mchb. Vog. 
 i^wM.p.ll4(1849). 
 Cacomantis 
 insperatus, Bp. Consp. i. p. 104 (1850); Cab. «J* Heine, 
 Mus. Hein. iv. p. 24, note (1802); Gould, Handb. B. Austr. i. 
 
-p. 619 (1865); Sclat. P. Z. 8. 1877, p. 106; Finsch, P. Z. 8. 
+p. 619 (1865); Sclat. P. Z. S. 1877, p. 106; Finsch, P. Z. S. 
 1879, p. 12 ; Zayard, Ibis, 1880, p. 800. 
-Cuciilus assimilis, G. B. Gray, P. Z. 8. 1858, pp. 184, 195; id. 
+Cuciilus assimilis, G. B. Gray, P. Z. S. 1858, pp. 184, 195; id. 
 
 P. Z. S. 1801, p. 437; id. HmuU. B. ii. p. 217, no. 9026. 
 Cuculus (Cacomantis) tymbonomus {nee Mull.), Gray, P. Z.8.1860, 
@@ -21897,7 +21897,7 @@ Cacomantis infaustus, Cab. fy Heine, Mus. Hein. iv. p. 23 (1862);
 Wald. Trans. Z. 8. viii. p. 54 (1872). 
 
 Cacomantis 
-assimilis, Gray, P. Z. 8. 1861, p. 437; Cab. § Heine, 
+assimilis, Gray, P. Z. S. 1861, p. 437; Cab. § Heine, 
 Mus. Hein. iv. p. 23 (1862); Finsch, Neu-Guin. p. 159 (pt., 
 1865); Wald. Trans. Z. 8. viii. p. 54 (1872); 8harpe,Joum. Linn. 
 8oc, Zool. xiii. p. 492 (1877); 8alvad. Ann. Mus. Civ. Gen. xiii. 
@@ -21906,8 +21906,8 @@ p. 458 (1878), xiv. p. 642 (1879); id. Ibis, 1879, p. 321; 8harpe,
 Journ. linn. 8oc, Zool. xvi. p. 428 (1882); Pleske, Bull. Acad. 
 Petersb. xxix. p. 524 (1884); Saluad. Orn. Papuasia, i. p. 337 (1889). 
 Cuculus infaustus, Gray, Hand4. B. ii. p. 217, no. 9023 (1870). 
-Cacomantis sp. inc., Sclat. P. Z. 8. 1879, p. 447. 
-Cacomantis tymbonomus (nee Mull.), Grant, P. Z. 8.1888, p. 191. 
+Cacomantis sp. inc., Sclat. P. Z. S. 1879, p. 447. 
+Cacomantis tymbonomus (nee Mull.), Grant, P. Z. S.1888, p. 191. 
 
 
 Adult male. Similar to C. merulinus, but with the upper parts 
@@ -22183,13 +22183,13 @@ Cuculus passerinus, Yahl, 8kriv, af Natuur. 8elsfc.iv. p. 57 (3797);
 i p. 217, no. 9014 (1870). 
 Surniculus flavus, pt., male, Less. Traite, p. 152 (1831). 
 Cuculus flavus, Jerd. Madr. Journ. xi. p. 220. 
-Ouculus niger {nee Linn.), Blyth, J. A. 8. Bern}. 1842, pp. 708, 008, 
+Ouculus niger {nee Linn.), Blyth, J. A. S. Bern}. 1842, pp. 708, 008, 
 
 1843, p. 240; Gray, Gen. B. ii. p. 463 (1847) ; id. Cat. Mamm. etc. 
 Nepal pre*. Hodgs. p. 120 (1846). 
 Cuculus tenuirostris, Gray, III. Bid. Z. ii. pi. 34.fig. 1 (1834); Stricld. 
 
-J. A. 8. Beng. 1844, p. 391, note ; Blyth, op. cit. 1849, p. 805; id. 
+J. A. S. Beng. 1844, p. 391, note ; Blyth, op. cit. 1849, p. 805; id. 
 Cat. B. Mus. As. 8oe. p. 72 (1849) ; Layard, Ann. &> May. Nat. 
 Hist. xiii. p. 453 (1854). 
 Cuculus (Gymnopus) niger, Blyth, Aim. ty Mag. Nat. Hist. 1843, p. 94. 
@@ -22207,7 +22207,7 @@ Ball, 8tr. F. vii. p. 207 (1878) ; Cripps, t c. p. 265; Hume, op. cit.
 
 viii. p. 89 (1879), ix. p. 55 (1880); Butler, t. c. p. 388; Held, op. cit. 
 x. p. 27 (1881); Davidson, t. c. p. 360. 
-Polyphasia passerina, Jerd. Ibis, 1872, pi. 1; Holdsworth, P. Z. 8. 
+Polyphasia passerina, Jerd. Ibis, 1872, pi. 1; Holdsworth, P. Z. S. 
 1872, p. 431; Legge, His, 1875, p. 284. 
 Ololygon 
 passerinus, Hume, Nests fy JEggs Lid. B. p. 136 (1873); 
@@ -22468,7 +22468,7 @@ d. Ad. sk. S. Australia (G. F. Angus). Gould Coll.
 Type. 
 Ghrysococcvx, Ijoi?, Isis, 18*27, p. 977 
 Chalcites, less. Trait* Orn. p. 152 (18:31) 
-Lainproniorpha, Vig. P. Z. 8. 1&31, p. i)2 .. 
+Lainproniorpha, Vig. P. Z. S. 1&31, p. i)2 .. 
 Lamprococcyx, Cab. JItis. Mem. iv. p. 11 (18(52) .. 
 
 
@@ -22618,7 +22618,7 @@ c'. tf ad. sk. South Africa. ' L.Melville, Esq. [P. j .
 d\ e\ cJ $ ad. sk. South Africa (Layard). "Sharpe Coll. 
 
 2. Chrysococcyx flavigularis. 
-Chrysococcyx flavigularis, Shelley, P. Z. 8. 1879, p. 679; pi. 50. 
+Chrysococcyx flavigularis, Shelley, P. Z. S. 1879, p. 679; pi. 50. 
 Adult (type of species). Entire upper parts, as well as the sides 
 of the head and neck, golden green, with a very strong shade of 
 copper- or lilac-bronze; two centre tail-feathers uniform fiery 
@@ -22845,7 +22845,7 @@ p. 228 (1872); Ayres, Ibis, 1874, p. 103; Reichen. J.f 0. 1875,
 p. 6; Bocage, Or?i. Angola, p. 143 (1877); Beichen. J.f.O. 1877, 
 p. 17; Ayres,Ibis. 1578, p. 407; Cab. J.f 0.1878, p. 237; FiseJi. 
 <§• Beichen. t c. p. 2o2; Oust. Bull. Nouv. Arch. Mus. 1879, p. 59: 
-Ayres, Ibis, 1879, p. 297, 1580, p. 262: Shelley, P. Z. 8. 1881, 
+Ayres, Ibis, 1879, p. 297, 1580, p. 262: Shelley, P. Z. S. 1881, 
 p. 594; 27?. 23w, 1882, p. 24,5; Bohm, J. f. O. 1882, p. 105 : 
 Schahic, t e. p. 34G; Sharpe. ed. ZayartVs B. S. Afr. pp. lo;3, 800 
 (187-5-84); Ayres, Ibis, 1884, p. 224 ; Fisch. Zeitschr. r/es. Orn. lbS4. 
@@ -23184,20 +23184,20 @@ Ouculus xanthorhynchus, Horsf, Tr. Linn. Soc. xiii. p. 179 (1822) j
 id. Zool Res. Java, pi. 59 (1824); Vig. Mem. RaM. p. 672 (1830); 
 
 S. Mull. Verh. Nat Gesch. Land-en Folk p. 234 (1839-44) ; 
-Blyth, J. A. 8. Lena. xi. p. 919 (1842); 8ehl. Mus. Pays-Bas, 
+Blyth, J. A. S. Lena. xi. p. 919 (1842); 8ehl. Mus. Pays-Bas, 
 Cuculi, p. 32 (1864) (Gray, Hand4. B. ii. p. 219, no. 9040 (1870) ; 
 Sharpe, Ibis, 1879, p. 244. 
 Lampromorpha amethystina, Vig. P. Z> 8. 1831, p. 98. 
-Chrysococcvx xanthorhynchus, Blyth, J. A. 8. Beng. xi. p. 919 (1842), 
+Chrysococcvx xanthorhynchus, Blyth, J. A. S. Beng. xi. p. 919 (1842), 
 
 xii. p. 245 (1843); Blyth, Cat B. Mus. As, Soc. p. 73 (1849); 
 Bp. Consp. i. p. 106 (1850); Horsf. $ Moore, Cat. B. Mus. E. I. 
-Co. ii. p. 706 (1856-58); 8cl. P. Z. 8. 1863, p. 209; Salvad. Ucc. 
+Co. ii. p. 706 (1856-58); 8cl. P. Z. S. 1863, p. 209; Salvad. Ucc. 
 Borneo, p. 62 (1874); Wald. Ibis, 1874, p. 137; Hume, 8tr. F. 
 iii. p. 472 (1874); Blyth % Wald. B. Burma, p. 80 (1875); Tweedd. 
 Ibis, 1877, p. 287 ; Wardlaw Ramsay, Ibis, 1877, p. 458; Hume, 
-Str. F. vi. p. 506 (1878), viii. pp. 54, 89 (1879); Skarpe, P. Z. 8. 
-1879, p. 327 ; Hume, Str. F. ix. p. 248 (3880) ; Sharpe, P. Z. 8. 
+Str. F. vi. p. 506 (1878), viii. pp. 54, 89 (1879); Skarpe, P. Z. S. 
+1879, p. 327 ; Hume, Str. F. ix. p. 248 (3880) ; Sharpe, P. Z. S. 
 1881, p. 702; Oates, Handb. B. Br. Burm. ii. p. 114 (1883); 
 Biittik. Notes Leyden Mus. 1886, p. 27; Sharpe, Ibis, 1888, p. 198, 
 1890, p. 9; Whitehead, t. c. p. 46. 
@@ -23209,7 +23209,7 @@ $ Davis. Str. F. vi. pp. 101, 506 (1878).
 
 Chalcococcyx amethystinus, Wald. Tr. Z. S. ix. pp. 160, 250 (1875). 
 Ohalcites xanthorhynchus, Gould, B. Asia, vi. pi. 47 (1877). 
-Chrysococcyx limborgi, Tzueedd. P. Z. 8.1877, p. 366; id. Str. F. vii. 
+Chrysococcyx limborgi, Tzueedd. P. Z. S.1877, p. 366; id. Str. F. vii. 
 
 p. 319 (1878); Hume, Str. F. viii. p. 89 (1879) j Bingham, Str. F. 
 ix. p. 168 (1880); Oates, Handb. B. Br. Burm. ii. p. 116 (1883). 
@@ -23356,7 +23356,7 @@ Cripps).
 Spotted Curucui, Brown, III. Zool pi. 13 (1776). 
 Trogon maculatus, Gm. 8yst. Nat. i. p. 404 (1788, ex Brown). 
 Cuculus lucidus (nee G?n.% Blyth, J. A. S. Beng. xi. p. 917 (1842). 
-Chrysococcyx lucidus, Blyth, J. A. 8. Beng. xi. p. 917 (1842), xiii. 
+Chrysococcyx lucidus, Blyth, J. A. S. Beng. xi. p. 917 (1842), xiii. 
 
 
 p. 390 (1844). 
@@ -23365,7 +23365,7 @@ Ohalcites xanthorhynchus
 Mm., Passeres, pi. 539 (figs. 515, 516); id. in Gray's Zool. Misc. 
 
 p. 85. 
-Chrysococcyx smaragdinus (nee Sw.)f Blyth, J. A. 8. Beng. xv. p. 53 
+Chrysococcyx smaragdinus (nee Sw.)f Blyth, J. A. S. Beng. xv. p. 53 
 Chrysococcyx xanthorhynchus, Gray, Cat. Mamm. etc. Nepal pres. 
 
 Hodgs. p. 20 (1846). 
@@ -23374,11 +23374,11 @@ Chrysococcyx plagosus (nee Lath.), Bp. Consp. i p. 106 (1850).
 Lampromorphus plagosus, Bp. Consp. Vol. Zygod. p. 7 (1854). 
 Chrysococcyx hodgsoni, Horsf.fy Moore, Cat. B. Mus. JE. I. Co. ii. 
 
-p. 705 (1856-58); Jerd. B. India, i. p. 338 (1862); 8winh. P. Z. 8. 
+p. 705 (1856-58); Jerd. B. India, i. p. 338 (1862); 8winh. P. Z. S. 
 1871, p. 394; Dam. 8tr. F. x. p. 299 (1881). 
 Lamprococcyx smaragdinus, Cab. §• Heine, Mus. Hein. iv. p. 13, note 
 (1862). 
-Chrysococcyx schomburgki, Gould, P. Z. 8. 1864, p. 73, 
+Chrysococcyx schomburgki, Gould, P. Z. S. 1864, p. 73, 
 Cuculus hodgsoni, 8chl. Mus, Pays-Bas, Cuculi, p. 32 (1864). 
 
 u2 
@@ -23388,7 +23388,7 @@ CUCXFLIDJ5.
 
 LamprococcTX maculatus, Wold. Ibis, 1869, p. 334; Holdsworthy
 
-P. Z. 8. 1872, p. 432 ; Hume, Sir. F. viiL pp. 161, 502 (1878); 
+P. Z. S. 1872, p. 432 ; Hume, Sir. F. viiL pp. 161, 502 (1878); 
 Salvad. Awn. Mtts. Civ. Gen. p. 581 (1887). 
 Cuculus sehomkirgki, Gray, Hand-l. B. ii. p. 219, no. 9045. 
 Cuculus smaragdinus, Gray, 1. c. no. 9050. 
@@ -23517,7 +23517,7 @@ Wien, Ixix. p. 81 (1874); Sclat. Ibis, 1874, p. 416.
 
 Chrysococcyx meyeri, Salvad. Ann. Mus. Civ. Genov. vi. p. 82 
 (1874) ; Beccari, Ann. Mus. Civ. Genov. viL p. 715 (1875); Salvad. 
-t. c. p. 762$ Beccari, Ibis} 1870, p. 233; Guilkm. P. Z. 8. 
+t. c. p. 762$ Beccari, Ibis} 1870, p. 233; Guilkm. P. Z. S. 
 1885, p. 625. 
 
 Lamproeoceyx 
@@ -23921,7 +23921,7 @@ Linn. Soc. ii. p. 166 (1858) j Gray, R. Z. 8. 1858, p. 195 ; id. Cat.
 B. New Gum. pp. 44, 60 (1859) ; Rosenb. Nat. Tijdsckr. Ned. 
 2nd. xxv. p. 230 (New Guinea) (1863); id. J.f. 0.1864, p. 117 
 (pt.) ; Finsch, Neu-Guin. p. 159 (1865). 
-Chrysococcyx pcecilurus, Gray, P. Z. 8. 1861, pp. 431, 437; Finsch, 
+Chrysococcyx pcecilurus, Gray, P. Z. S. 1861, pp. 431, 437; Finsch, 
 Neu- Guin. p. 159 (1865). 
 
 Lamprococcyx pcecilurus? Cab. fy Heine, Mus. Hem. iv. p. 15, note 
@@ -24461,10 +24461,10 @@ p. 17(1847).
 Goeevzus nielanocorvphus. Vieill. Xouv. Diet. cTHist, Xat. yiii. p. 271 
 (1817) ; id. JSno. Metli. lii. p. 1344 (1825); Scl Cat Am. B. p. 323 
 (1862); Cab. $ Seine, Mus. Mem. iv. p. 77, note (1862),-Sell 
-Mus. Pays-Bas, Cueuli, p. 38 (1804) ; Scl P. Z. 8. 1864, p. 122, 
+Mus. Pays-Bas, Cueuli, p. 38 (1804) ; Scl P. Z. S. 1864, p. 122, 
 1806, p. 100• id. £ Sah. t c. p. 105, 1867, pp. 752, 070, 1860, 
 
-p. G:J3; Scl. P. Z. 8. 1870, p. 168 • Gray, Mand-l B. ii. p. 210, 
+p. G:J3; Scl. P. Z. S. 1870, p. 168 • Gray, Mand-l B. ii. p. 210, 
 no. 8916 (1870); Feb. Orn. Bras. p. 273 (1871); Set. # Salv. 
 Xo/nencl. Av. Xeotr. p. 108 (1873); Barroios,Auk, i. p. 28 (1884); 
 Tacz. Orn. Firou, ill. p. 189'(1836); Willington, Ibis, 1883, p. 468; 
@@ -24625,14 +24625,14 @@ Coccyzus carolinensis, If Orb. in Sagra^s Hist. Nat. Cuba, Ois. p. 150
 
 (1840). 
 Piaya clominica, Gray, Gen. B. ii. p. 457 (1840). 
-Coccyzus dominicus, Bp. Consp. i. p. 112 (1850); Scl. P. Z. 8. 1857, 
+Coccyzus dominicus, Bp. Consp. i. p. 112 (1850); Scl. P. Z. S. 1857, 
 
 p. 234 ; Baird, Pr. Ac. Pliilad. 1803, p. 04; March, t. c. p. 154. 
 Coccyzus flavirostris, Glog. J. /. 0. 1854, p. 223, note. 
 Coecystes julieni, Lawr. Ami. Lye. N. Y. viii. p. 42 (1804). 
-Coccyzus bairdi, Set. P. Z. 8. 1804, p. 120; Gray, Hand-l B. ii. 
+Coccyzus bairdi, Set. P. Z. S. 1804, p. 120; Gray, Hand-l B. ii. 
 p. 211. no. 8923 (1870); Peh. Orn. Bras. p. '273 (1871); Scl. 
-P. Z. 8.1872, p. 400. 
+P. Z. S.1872, p. 400. 
 Coccyzus julieni, Gray, Hand-l B. ii. p. 211, no. 8924 (1876). 
 Coccyzus culeri, Cab. J. f. 0.1873, p. 73. 
 Adult. Above brown, slightly glossed with olive on the mantle 
@@ -24871,15 +24871,15 @@ Coccyzus erythrophtlialmus, Bp. Journ. Acad. Philad. iii. p. 307, pi. 2
 (1824) ; Audubon, Orn. Biogr. i. p. 170 (1831), v. p. 523 (1839); 
 id. B. Am. iv. p. 300, pi. 276 (1830); Zembeije, Av. Cuba, p. 73 
 (1850); Bp. Consp. i. p. Il l (1850),-Glog. J. f. O. 1854, p. 224; 
-Scl. P. Z. 8. 1857, p. 214, 1859, p. 252; Baird, N. Am. B. ii. 
+Scl. P. Z. S. 1857, p. 214, 1859, p. 252; Baird, N. Am. B. ii. 
 
 p. 484 (1860) ; id. B. N. Am. p. 77 (1860); Sato. $ Scl. Ibis, 
 I860, p. 276; Scl. Cat Am. B. p. 323 0862); Cab. % Seine, 
 Mus. Hein. iv. p. 76, note (1862) ; Schl Mas. Pays-Pas, Cuculi, 
 p. 37 (1864); Sol. P. Z. S. 1864, p. 122; LSotaud, On. Trin. p. 352 
 (1866); Baird, Bis, 1867, pp. 278, 285; Selys, Ibis, 1870, p. 452; 
-Scl. P. Z. 8.1870, p. 168; Gray, Hand-l B. ii. p. 210, no. 8915 
-(1870); Scl. P. Z. 8. 1870, p. 681; Coues, Key N. Am. B. p. 190 
+Scl. P. Z. S.1870, p. 168; Gray, Hand-l B. ii. p. 210, no. 8915 
+(1870); Scl. P. Z. S. 1870, p. 681; Coues, Key N. Am. B. p. 190 
 (1872); Scl. et Salv. Nomencl Av. Neotr. p. 108 (1873); iid. 
 
 P. Z. S. 1873, p. 296 ; Gould, Introd. B. CM. Brit. p. xcv (1873) ; 
@@ -25077,7 +25077,7 @@ Eudynamis taitensis, Bp. Consp. Av. i. p. 101 (1850); id. Consp.
 
 Vol. Zygod. p. 6 (1854); Bull. B. N. Zeal p. 73, pi. 8 (1873); id. 
 
-2nd eel. i. p. 127 (1888); Layard, P. Z. 8. 1876, p. 491; Tristr. Ik's, 
+2nd eel. i. p. 127 (1888); Layard, P. Z. S. 1876, p. 491; Tristr. Ik's, 
 
 1882, p. 143. 
 
@@ -25234,7 +25234,7 @@ Le Coucou a gros bee, Levaill. Ois. Afr. y. p. 59, pi. 214 (1806).
 Le Coucou tacheron, Levaill. t. c. p. 62, pi. 216. 
 Cuculus honoratus, Linn. 8yst. Nat. i. p. 109 (1760, ex Briss. pi. 11. 
 
-fig. 2); Vieill. Enc. Metlu p. 1332 (1823) ; Blyth, J. A. 8. Beng. 
+fig. 2); Vieill. Enc. Metlu p. 1332 (1823) ; Blyth, J. A. S. Beng. 
 
 xi. p. 913 (1842); Walden, Ibis, 1869, p. 327. 
 Cuculus scolopaceus, Linn. 8yst Nat. i. p. 170 (1766, ex Edio. 
@@ -25250,14 +25250,14 @@ Cuculus erassirostris, 8teph. Gen. Zool. ix. p. 86 (1815, ex Levaill.
 pi. 215) -K Vieill. Enc. Meth. p. 1333 (1823). 
 
 Cuculus orientalis (nee Linn.), Horsf. Trans. Linn. 8oe. xiii. p. 178 
-(1822); Blyth, J. A. 8. Beng. xi. p. 913 (1842); StricM. Ann. # 
+(1822); Blyth, J. A. S. Beng. xi. p. 913 (1842); StricM. Ann. # 
 Mag. Nat. Hist. 1846, p. 400. 
 
 Eudynamis orientalis, 
-Vig. Mem.Baffl. p. 671 (1830) ; 8yJces, P. Z. 8. 
+Vig. Mem.Baffl. p. 671 (1830) ; 8yJces, P. Z. S. 
 1832, p. 97; Jerd. Madras Joum. xi. p. 220 (1840); Pearson, 
 
-J. A. 8. Beng. x. p. 657 (1841) ; Blyth, J. A. 8. Beng. 1843, 
+J. A. S. Beng. x. p. 657 (1841) ; Blyth, J. A. S. Beng. 1843, 
 p. 245, 1847, p. 468; Layard, Ann. § Mag. Nat. Hist xii. p. 451 
 (1854) ; Moth § Billw. Contr. Nat. Mst.'labuan, i. p. 55 (1855); 
 Horsf. $ Moore, Cat. B. Mus. E. I. Co. ii. p. 708 (1850-58) ; Swinh. 
@@ -25265,10 +25265,10 @@ Ibis, 1861, p. 46; Irby, t. c. p. 230 ; Jerd. B. Ind. i. p. 342 (1802);
 Blyth, Ibis, 1863, p. 363; Gray, Iland-l. B. ii. p. 221, no. 9072 
 (1870); Jerd. Ibis, 1872, p. 15; Anderson, Ibis, 1873, p. 74; 
 Legge, Ibis, 1874, p. 16; Bidtik. Notes Leyd. 3Ius. 1883, p. 29. 
-Eudymanis honorata, Blyth, J. A. 8. B. 1842, p. 912; Gray, Gen. B. 
+Eudymanis honorata, Blyth, J. A. S. B. 1842, p. 912; Gray, Gen. B. 
 
 ii. p. 464 (1847); Wald. Ibis, 3869, p. 338; Gray, Hand-l B. ii. 
-p. 220, no. 9008 (1870); Holdsioorih, P. Z. 8. 1872, p. 432; Hume. 
+p. 220, no. 9008 (1870); Holdsioorih, P. Z. S. 1872, p. 432; Hume. 
 Nests 8f Eggs Ind. B. p. 139 (1873) ; Ball, Sir. F, i. p. 03 (1873) • 
 Hume, t. c. p. 173; Adams, t c. p. 373 ; Ball, 8tr. F. ii. p. 394 
 (1874) ; Anders. Ibis, 1875, p. 142; Fairbank, 8tr. F. iv. p. 26o 
@@ -25991,7 +25991,7 @@ Eudynamis niger (nee Linn), Biilgg. Abhandl. nat. Ver. Brem. v.
 
 p. 57 (1876). 
 Eudynamis orientalis (nee Linn), 8alvad. Ann. Mus. Civ, Gen. ix. 
-p. 53 (1877) j Tiveedd. P. Z. 8. 1878, p. 613. 
+p. 53 (1877) j Tiveedd. P. Z. S. 1878, p. 613. 
 Adult male. Similar in plumage to E. lionorata: "bill greyish 
 green; legs dark lead-grey; claws black ; iris crimson" (A. II. 
 Everett). Total length 14*7 inches, culmeu 1*2, wing 7*4, tail 7*0, 
@@ -26067,14 +26067,14 @@ p. 401 (1878), xiv. p. 044 (1870); id. Orn. Papaada etc. i. p. 350
 (1880); Meyer, Verh.z.-b. Ges. Wim, 1881,p. 707; Blas.u.Nehrk. 
 Verh. ».-&. Ges. Wien, 1882, p. 418 ; Pleske, Bull. Acad. Pitersh. 
 xxix. p. 525 (1884); Salvad. Agg. Orn. Papuasia, p. 51 (1889). 
-Eudynamis ransomi, Bp. Consp. Av. i. p. 101 (1850) ; Graij, P. Z. 8. 
-1800, p. 359; Wall. P. Z. 8.1803, p. 23; Wald. Ibis, 1800, p. 84:}, 
+Eudynamis ransomi, Bp. Consp. Av. i. p. 101 (1850) ; Graij, P. Z. S. 
+1800, p. 359; Wall. P. Z. S.1803, p. 23; Wald. Ibis, 1800, p. 84:}, 
 pi. 10; Gray, Hand-l. B. ii. p. 221, no. 0073 (1870) j Wald. Trail,*. 
 
 Z. 8. ix. p. 102 (1875). 
 Cuculus punctatus, var. ceramensis, Forsten in 3/«<?. Luqd., fide Bp. 
 Consp. Av. i. p. 101 (1850). 
-Eudynamis picatus, Gray, Gen. B. ii. p. 404 (1847) ; id. P. Z. 8.1800, 
+Eudynamis picatus, Gray, Gen. B. ii. p. 404 (1847) ; id. P. Z. S.1800, 
 
 p. 359 j Bosenb. Natuurk. Tijdschr. Nederl. 2nd. xxv. p. 220 (1803, 
 pt.); id. J.f.O. 1804, p. 117 (pt.); Schl. Mus. Pays-Bas, Ouculi, 
@@ -26347,13 +26347,13 @@ Torino, xiii. p. 318 (1878); id. Orn. Fantasia, p. 868 (1880) ;
 
 Sharps, Journ. Linn. 8oc, Zool xvi. p. 428 (1882); Guillem. 
 
-P. Z. 8. 1885, p. 625; Salvad. Orn. Papuasia, App. p. 51 (1889). 
+P. Z. S. 1885, p. 625; Salvad. Orn. Papuasia, App. p. 51 (1889). 
 Eudynamis picatus, 8. MM. Verh. Land- en Folk. p. 876, note 
 (1839-44); JBp. Ctnsp. Av. i. p. 101 (1850); Cab. $ Heine, Mus. 
 Hein. iv. p. 55, note (1862); Cab. $ Beichen. J.f. 0. 1876, p. 324. 
 
 Eudynamis punctate (nee Linn.), pt., JBp. Consp. Av. i. p. 101 
-(1850)• Gray, Cat. B. New Gum. p. 40 (1859); id. P. Z. 8. 
+(1850)• Gray, Cat. B. New Gum. p. 40 (1859); id. P. Z. S. 
 1859, p. 159, 1861, p. 437. 
 
 Eudynamis riifiventer, 8clat. Joum. Linn. Soc., Zool ii. p. 166 
@@ -26577,7 +26577,7 @@ Bangs. New Guinea and Aru Islands.
 
 1. Ehamphomantis megarhynclms. 
 Cuculus megarliynchus, G. B. Gray, P. Z. S. 1858, pp. 184,195; id, 
-Cat. B. Neio Gum. pp. 44, 60 (1859); id. P. Z. 8.1861, p. 437• 
+Cat. B. Neio Gum. pp. 44, 60 (1859); id. P. Z. S.1861, p. 437• 
 Rosenb. J.f. 0.1864, p. 117; Gray, Eand-l B. ii. p. 217, no. 9025 
 (1870). 
 
@@ -26630,9 +26630,9 @@ Zool 1835, Ois. pi. 37; Kuster, Orn. Atlas, pt. 15, pi. 4 (1838);
 Gray, Gen. B. ii. p. 461 (1845); Gould, B. Austr. iv. pi. 90 
 (1848); id. Introd. B. Austr. p. 68 (1844); Bchb. Yog. Neuholl. ii. 
 pp. 119, 309 (1849) ; Bp. Consp. i. p. 97 (1850); id. Consp. Vol. 
-Zijgod. p. 4 (1854); Wall. Ibis, 1860, p. 147; Gray, P. Z. 8. 
+Zijgod. p. 4 (1854); Wall. Ibis, 1860, p. 147; Gray, P. Z. S. 
 1860, p. 359; Cab. $ Heine, Mus. Hein. iv. p. 56 (1862); Wall. 
-P. Z. 8. 1863, p. 482; Bosenb. Naturh. Tijdschr. Kederl Lid. 
+P. Z. S. 1863, p. 482; Bosenb. Naturh. Tijdschr. Kederl Lid. 
 xxy. p. 229 (1863); id. J. / . O. 1864, p. 117; Schl. Mus. Pai/s-
 Bas, Cuculi, p. 36 (1864); Finsch, lSTeu-Guinea, p. 159 (I860) ; 
 Gould, Ilandb. B. Austr. i. p. 628 (1865); Boscnb. Beis. naar 
@@ -26644,12 +26644,12 @@ p. 394 (1876); Salvad. Ann. Mus. Civ. Gen. viii. p. 374 (1876);
 Sharpe, Journ. Linn. 80c, Zool. xiii. p. 492 (1878); Bamsay, Pr. 
 Linn. Soc. N. 8. Wales, iii. p. 258 (lb78) ; Salvad. Ann. Mus. Civ. 
 Gen. xiii. p. 462 (1878), xiv. p. 614 (1879); Bamsay, Pr. Linn. 
-Soc. N. 8. Wales, iv. p. 96 (1879) ; Finsch, P. Z. 8. 1879, p. 13 ; 
+Soc. N. 8. Wales, iv. p. 96 (1879) ; Finsch, P. Z. S. 1879, p. 13 ; 
 Sharpe, Journ. Linn. Soc, Zool. xiv. pp. 628, C86 (1879); Sclat. 
-P. Z. 8. 1879, p. 447; Meyer, Ibis, 1879, p. (57;*Salvad. Orn. 
+P. Z. S. 1879, p. 447; Meyer, Ibis, 1879, p. (57;*Salvad. Orn. 
 Papuasia etc. i. p. 372 (1880); Sharpe, Journ. Linn. Soc, Zool. 
 xvi. p. 428 (1882); Finsch, Vdg. Sudsee, p. 16 (1884}; Meyer, 
-Sitzb. not. Gesellsch. Isis, 1884, Suppl. i. p. 18 ; Guillem. P. Z. 8. 
+Sitzb. not. Gesellsch. Isis, 1884, Suppl. i. p. 18 ; Guillem. P. Z. S. 
 1885, p. 549; Blasius, Zeitschr. ges. Orn. ii. p. 260 (1S85) ; 
 Bamsay, Tab. List Austr. B. p. 15 (1888); Salvad. Agg. Orn. 
 Pajmasia, p. 52 (188*9). 
@@ -26922,10 +26922,10 @@ Hist. Nat. Mamm. et Ois. p. 251, pi. 18. fig. 1 (1837) ; Gray,Gen. B.
 
 ii. p. 455 (1846); Bp. Consp. i. p. 108 (1850); Pucker. Rev. et May. 
 Zool. 1852, p. 475; Bp. Consp. Vol. Zyyod. p. 5 (1854); Gray, 
-Cat. B. Trop. Isl. p. 35 (1859); Sclat. P. Z. 8. 1869, p. 122 ; Gray, 
+Cat. B. Trop. Isl. p. 35 (1859); Sclat. P. Z. S. 1869, p. 122 ; Gray, 
 Iland-l. B. ii. p. 214, no. 8981 (1870); Wald. Tr. Linn. 8oe. viii. 
 p. 5G (1872); Scl. P.Z.8. 1877, p. 100, 1878, p. 289; Finsch, 
-P. Z. 8.1879, p. 17 ; Layard, Ibis, 1880, p. 300 ; Tristr. Ibis,lH62, 
+P. Z. S.1879, p. 17 ; Layard, Ibis, 1880, p. 300 ; Tristr. Ibis,lH62, 
 p. 143; Finsch, Toy. der 8'iidsee, p. 10 (1884); North, Proc. Linn. 
 8oc. N. 8. Wales, (2) ii. p. 444 (1887). 
 Nesocentor ateralbus, Cab. § Seine, Mus. Hein. iv. p, 119 (1862) ; 
@@ -26980,8 +26980,8 @@ i. Ad. sk. New Britain. Tweeddale Coll.
 335 
 
 2. Ceutropus milo. 
-Ceutropus milo, Gould, P. Z. 8. 1850, p. 136; Gray, Cat. B. Trap. 
-Isl. p. 34 (1859) j Sel. P. Z. 8. 1809, p. 124; Gray, Sand-l. B. d. 
+Ceutropus milo, Gould, P. Z. S. 1850, p. 136; Gray, Cat. B. Trap. 
+Isl. p. 34 (1859) j Sel. P. Z. S. 1809, p. 124; Gray, Sand-l. B. d. 
 ]>. 214; no. 8974 (1870); Ramsay, Tr. Linn. Soc. K 8. Wales, iv. 
 
 p. G9 (1879); Tristr. Ibis, 1882. p. 143 : Ramsay. Froc. Linn. Soc. 
@@ -26989,7 +26989,7 @@ N. 8. Wales, vii. p. 21 (1882).
 Nesocentor milo, Cab. 8? Seine, Mus. llein. iv. p. 120, note (1802); 
 Salvad. Ann. Mus. Civ. Gen. xiii. p. 463 (1878); id. Orn. Papuasia, 
 
-i. p. 385 (1880), iii. p. 521 (1882); Grant, P. Z. 8. 1888, p. 191; 
+i. p. 385 (1880), iii. p. 521 (1882); Grant, P. Z. S. 1888, p. 191; 
 Sharpe, in Gould's B. New Guin. iv. pi. 44 (1888); Salvad. 
 Agg. Orn. Papuasia, 1889, p. 52. 
 Adult male. Head, neck, and chesl bufiy white; remainder of 
@@ -27014,7 +27014,7 @@ d. 2 imm. sk. Guadalcanar, May G. C. M. Woodford,
 J Esq. [P.]. 
 3. Ceutropus goliath. 
 Ceutropus goliath, Bp. Consp. i. p. 108 (1850) (ex Forsten, M88. in 
-Mus. Lugd.) ; id, Consp. Vol. Zyr/od. p. 5 (1854); Gray, P. Z. 8. 
+Mus. Lugd.) ; id, Consp. Vol. Zyr/od. p. 5 (1854); Gray, P. Z. S. 
 1860, p. 359; 8cM. Mus. Pays-Bas, Cuculi, p. Gl (1864); id. 
 Dierent. p. 102 ; Finsch, Neu-Guin. p. 160(1865); Gray, Sand-l. 
 
@@ -27022,7 +27022,7 @@ B. ii. p. 214, no. 897G (1870).
 Nesocentor goliath, 
 Cab. <§• Stint, Mus. Sein. iv. p. 118 (1862) ; 
 Salvad. Ann. MILS. Civ. Gen. vii. p. 763 (1875), xiii. p. 462; id. 
-Orn. Papuasia, i. p. 382 (1880) j Guittem. P. Z. 8.18b5, p. 566. 
+Orn. Papuasia, i. p. 382 (1880) j Guittem. P. Z. S.18b5, p. 566. 
 
 Adult. Black, strongly glossed with green and blue, the latter 
 colour more evident on the wings and tail; a large white patch is 
@@ -27112,7 +27112,7 @@ Forbes Coll.
 18 . CENIROPTTS. 
 337 
 5. Centropus aruensis. 
-Oentropus menebiki (nee Gam.), Gray, P. Z. 8. 1858, pp. 184,195 
+Oentropus menebiki (nee Gam.), Gray, P. Z. S. 1858, pp. 184,195 
 (pt., Aru); id. Cat B. New Gum. p. 43 (pt., 1859); id. P. Z. &. 
 1861, p. 437, pt.; Schl Ned. Tijdsehr. Dierk iii. p. 330 (pt., 
 1866), iv. p. 11 (pt., 1871). 
@@ -27555,7 +27555,7 @@ Peebohni Coll,
 343 
 
 13. Centropus rectunguis. 
-Centropus rectunguis, Strickl. P. Z. 8. 1840, p. 104; Bhjth, Cat. B 
+Centropus rectunguis, Strickl. P. Z. S. 1840, p. 104; Bhjth, Cat. B 
 Mm. As. Soc. p. 321 (1810); Strickl Ann. $ Mag! N. II. xix. 
 
 p. 134 (1850) ; Schl. Mus. Pays-Bas, Cuculi, p. 07 (pi., 1804); 
@@ -27610,7 +27610,7 @@ Centropus pliilippensis, vai\ javanica, Horsf. Zool. Research. Java,
 text to pi. 60 (1824). 
 
 Centropus cftstanopterus, Steph. Gen. Zool xiv. p. 215 (1820); 
-Heifer, J. A. 8. Beng. 1838, p. 802; Smith, op. eit. 1841, p. 058. 
+Heifer, J. A. S. Beng. 1838, p. 802; Smith, op. eit. 1841, p. 058. 
 Centropus pliilippensis {nee Cui\), Sykes, P. Z. S. 1832, p. 08; 
 
 
@@ -27620,7 +27620,7 @@ p. 1099, 1843, p. 246, 1844, p. 945, 1845, p. 202 ; 8. Mull Verh.
 Land- en Folk. p. 405 (1839-44) ; Blyth, Ann. 8f Mag. Nat. Hist. 
 1847, p. 385; id. Cat. B. Mus. As. Soe. p. 78 (1849) ; Layard, Ann. 
 $ Mag. Nat. Hist 1854, xiii. p. 450; Motley fyDilhoyn, Contr. Nat. 
-Hist. Labuan, p. 54 (1855) ; Irby, Ibis, 1801, p. 230; Scl. P. Z. 8. 
+Hist. Labuan, p. 54 (1855) ; Irby, Ibis, 1801, p. 230; Scl. P. Z. S. 
 1863, p. 209. 
 
 344 
@@ -27630,14 +27630,14 @@ Cuculus philippensis, Sundev. Physiogr. Stilish. Tijdshr. 1837, p. 107;
 
 Striehl. Ann. $ Mag. Nat. Hist 1846, p. 401. 
 Oentropus pyrrliopterus, Jerd. Madras Journ. xi. p, 224 (1840). 
-Cuculus fasciatus, Smith, J. A. 8. Beng. 1841, p. 659. 
-Oentropus sinensis, Blyth, J. A. 8. Beng. xii. p. 247 (1843), xiv. 
+Cuculus fasciatus, Smith, J. A. S. Beng. 1841, p. 659. 
+Oentropus sinensis, Blyth, J. A. S. Beng. xii. p. 247 (1843), xiv. 
 
 p. 202 (1845) ; id. App. Cat. B. Mus. As. Soc. p. xix (1852); Sioinh. 
 Ibis, 1861, p. 49; Gray, Hand-l B. ii. p. 214, no. 8965(1870) ; 
-Swinh. P. Z. 8. 1871, p. 893; David $ Oust. Ols. Chine, p. 58 
+Swinh. P. Z. S. 1871, p. 893; David $ Oust. Ols. Chine, p. 58 
 (1877) ; Styan, Ibis, 1887, p. 230. 
-Oentropus einycercus, Hay, J. A. 8. Beng. xiv. p. 551 (1845); Blyth, 
+Oentropus einycercus, Hay, J. A. S. Beng. xiv. p. 551 (1845); Blyth, 
 Cat B. Mus. As. Soc. p. 78 (1849); Bp. Consp. Vol Zygod. p. 5 
 (1854) ; Horsf. § Moore, Cat. B. Mus. E.I. Co. ii. p. 685 (185658) 
 ; Schl. Mus. Pays-Bas, Cuculi, p. 66 (1864); Gray, Hancl-l 
@@ -27678,16 +27678,16 @@ Cab. Sf Heine, Mus. Hein. iv. p. 116, note
 (1862); Wall Ibis, 1872, p. 366; Hume, Str. F. i. p. 453 (1873); 
 Sahad. TJcc. Borneo, p. 78 (1874); Hume, Str. F. ii. pp. 193, 473 
 (1874), iii. p. 83 (1875); Armstrong, op. cit Iv. p. 312 (1876) ; 
-Sharpe, Ibis, 1877, p. 8; Tiueedd. P. Z. 8. 1878, p. 614; Sharpe, 
+Sharpe, Ibis, 1877, p. 8; Tiueedd. P. Z. S. 1878, p. 614; Sharpe, 
 
-P. Z. 8. 1879, p. 328; Sahad. Ann. Mus. Civ. Gen. xiv. p. 188 
+P. Z. S. 1879, p. 328; Sahad. Ann. Mus. Civ. Gen. xiv. p. 188 
 (1879); Hume, Str. F. viii. p. 55 (1879"); Kelham, Ibis, 1881, 
-p. 394; Sharpe, P. Z. 8. 1881, p. 793; Wardlaw Ramsay, App. 
+p. 394; Sharpe, P. Z. S. 1881, p. 793; Wardlaw Ramsay, App. 
 Tweedd. Orn. Works, p. 656 (1881); Blasius,J.f. 0.1882, p. 247; 
 A. Midi Orn. Ins. Salanga, p. 60 (1882); Nicholson, Ibis, 1883, 
 p. 241; Blasius, Verk zool-bot Ges. Wien, xxxiii. p. 39 (1883); 
 Guillemard, P. Z. S. 1885, p. 406; Sahad. Ann. Mus. Civ. Gen. 
-iv. p. 533 (1887); Sharpe, Ibis, 1888, p. 198; Everett, P. Z. 8. 
+iv. p. 533 (1887); Sharpe, Ibis, 1888, p. 198; Everett, P. Z. S. 
 1889, p. 226; Hartert, J. f. O. 1889, p. 372 ; Sharpe, Ibis, 1890, 
 p. 13; Whitehead, t c. p. 46; Everett, Journ. Straits Branch As* 
 Soc. 1889, p. 175. 
@@ -28376,12 +28376,12 @@ Gen. B. ii. p. 455 (1846); id. Hand-l. B. ii. p. 213, no. 8950
 Centrococcyx 
 viridis, Cab. §• Heine, Mas. Hein. iv. p. 110, note 
 (1862); Walden, Trans. Z. 8. viii. p. 68 (1872), ix. p. 163 (1875) ; 
-id. P. Z. 8. 1877, pp. 543, 691, 758, 823* Sharpe, Trans. Linn. 
-Soc. 1877, p. 322 j Tmeedd. P. Z. 8.1878, pp. 283, 341, 709,1879, 
+id. P. Z. S. 1877, pp. 543, 691, 758, 823* Sharpe, Trans. Linn. 
+Soc. 1877, p. 322 j Tmeedd. P. Z. S.1878, pp. 283, 341, 709,1879, 
 
 p. 946; id. Rep. Voy. l Challenger,' ii. p. 15 (1880)• Wardlaw 
 Mamsay, App. TweeddaWs Orn. Works, p. 658 (1880) • Kutter, 
-J. f. O. 1882, p. 175; Guillemard, P. Z. 8. 1885, p. 257; 8teere, 
+J. f. O. 1882, p. 175; Guillemard, P. Z. S. 1885, p. 257; 8teere, 
 List Birds fy Mamm. Steere Exped. Philipp. p. 12 (1890). 
 Adult male. General plumage glossy greenish black, with the 
 wings deep chestnut; feathers of the head, neck, mantle, and chest 
@@ -28453,7 +28453,7 @@ d'. Ad. &k, Brunei River. Bassett Smith, E^q.
 Le Coucou de Madagascar, Briss Orn. p. 138, pi. 13. fig. 2 
 
 (17G0). 
-Cuculus toulou, P. Z. 8. Mull. 8. N. 8uppl p. 90 (1776). 
+Cuculus toulou, P. Z. S. Mull. 8. N. 8uppl p. 90 (1776). 
 Toulou, Month. Sv»t Nat. Ois. vi. p. 309, pi. xvii. (1779). 
 Long-heeled Cuckoo, Lath. Gen. 8yn. i. p. 524 (1781). 
 Le Coucou de Madagascar, appelle Toulou, Eaubent, PL Etil 295 
@@ -28469,8 +28469,8 @@ Centropus tolu, III. Abliandl. k Ak Wiss. Berlin, 1816, p. 224
 Bp. Consp. i. p. 107 (1850) ; id. Consp. Vol. Zygod. p. 15 (1854) 
 Peh. Naum. 1858, p. 497 ; lioeh # E. Newton, Ibis, 1803, p. 100 
 
-E. Newton, t.c. p. 452; 8cl. P. Z. 8. 1803, p. 164; A. Neioton, 
-P. Z. 8. 1865, p. 834; Grand. Rev. et Mag. Zool 18G7, p. 389. 
+E. Newton, t.c. p. 452; 8cl. P. Z. S. 1803, p. 164; A. Neioton, 
+P. Z. S. 1865, p. 834; Grand. Rev. et Mag. Zool 18G7, p. 389. 
 18 . CMTKOJPUS. 
 351 
 
@@ -28812,7 +28812,7 @@ Gray, Hand-l. B. ii. p. 218, no. 8959 (1870).
 Ceutropus affinis, llorsf. Trans. Linn. Soc. xiii. p. 180 (1822); 
 Via. Mem. Baffl. p. 05*0 (1800) ; Blyth, J A. 8. Benq. xi. p. 1105 
 (1812); Bp. Consp. i. p. 108 (1850); Bermt. J. f. O. 1859, p. 185, 
-1860, p. 209; Sal. P. Z. 8. Ib03,p. 209 ; Finsch] Neu-Guin. p. 160 
+1860, p. 209; Sal. P. Z. S. Ib03,p. 209 ; Finsch] Neu-Guin. p. 160 
 (1865); Gray, Hand-l. B. ii. p. 218, no. 8960 (IbTOj ; Blasias, 
 
 J.f.O. 1888, p. 132, 1888, p. 874; Sharpe, Ibis, 1888, p. 198. 
@@ -28823,7 +28823,7 @@ Ceutropus uiolkenboeri, Bp. Consp. i. p. 108 (1850); Gray, Hand-l.
 B. ii. p. 214,no.8964(1870). 
 Ceutropus medius, Bp. Consp. i. p. 108 (1850), ex Midler, M88. 
 in Mus. Lugd.; Pucker. Bev. et May. Zool 1852, p. 475, note; 
-Bp. Consp. Vol. Zyyod. p. 86 (1854); Gray, P. Z. 8. 1860, p. 359; 
+Bp. Consp. Vol. Zyyod. p. 86 (1854); Gray, P. Z. S. 1860, p. 359; 
 
 Wallace, op. cit. 1868, p. 23; Finsch, Neu-Guin. p. 59 (1865). 
 Centrococcyx lepidus, Cab. fy Heme, Mus. Hem. iv. p. 109 (1802); 
@@ -28831,7 +28831,7 @@ Hartert, J.f 0.1889, p. 372.
 Centrococcyx affinis, Cab. & Heine, t. c. p. 110; Wald. Trans. Z. 8. 
 
 viii. pp. ^ 58, 112 (1872); Meyer, Ibis, 1879, p. 70: id. 8iiz. 
-nat. Ges. Isis, p. 18 (1884); Guillemard, P. Z. 8. 1885', pp. 504, 
+nat. Ges. Isis, p. 18 (1884); Guillemard, P. Z. S. 1885', pp. 504, 
 551; Whitehead, Ibis, 1890, p. 47. 
 Ceutropus moluccensis, Cab. $• Heme, I. c. (ex Bernst. 3188. in Mus. 
 Berol) ; Gray, Hand-l. B. ii. p. 214, no. 8967 (1870). 
@@ -29152,7 +29152,7 @@ Consp. i. p. 107 (1850); Cab. <$• Heine, Mus. Hein. iv. p. 107,
 note (1SG2) ; Schl. Mus. Pays-Bas, Cuculi, p. 04 (18G4) j Layard, 
 
 B. S. Afr. p. 245 (1867); Gray, Hand-l. B. ii. p. 213, no. 8952 
-(1870); Sharpe, P. Z. 8. 1873, p. 023; Socage, Jorn. Lisb. vi. 
+(1870); Sharpe, P. Z. S. 1873, p. 023; Socage, Jorn. Lisb. vi. 
 p. 146 (1877); Cab. J. f O. 1878, p. 238; Fischer $ Beichen. 
 J. f. O. 1879, p. 341; Bohm, J. f. O. 1883, p. 1G4; Sehaloio, t. c. 
 p. 346; Sharpe, ed. Bayard's B. S. Afr. pp. 105, 810 (1884); 
@@ -29698,9 +29698,9 @@ nigrifrons, Cab. & Heine, Mus. Hein. iv. p. 119, note
 rTesocentor melanops, Gab. &> Heine. Mus. Hein. iv. p. 119, note 
 (1802). 
 Pyrrhocentor melanops, Walden, Tr. Z. 8. ix. pp. 164, 330 ; Tweeddale, 
-P. Z. 8. 1877, p. 823 ; 8harpe, Tram. Linn. 8oc. ser. 2, Zool l. 
+P. Z. S. 1877, p. 823 ; 8harpe, Tram. Linn. 8oc. ser. 2, Zool l. 
 
-p. 322 (1877); Tweeddale, P. Z. 8. 1878, pp. 108, 940,1879, p. 69; 
+p. 322 (1877); Tweeddale, P. Z. S. 1878, pp. 108, 940,1879, p. 69; 
 Wardlaw Ramsay, App. Tweedd, Orn. Works, p. 656 (1881) ; 
 Kiltter, J.f. 0.1883, p. 303. 
 Adult, Head, neck, and fore part of chest buff; forehead, a 
@@ -29730,19 +29730,19 @@ p, 108; id. Consp. Vol Zygod. p. 5 (1854) ; Briigg. Abhandl. nat.
 
 Ver. Brem. v. p. 00 (1876). 
 
-Oentropus bicolor, Less. TraiU, p. 137 (1831); Blyth, J. A. 8. Beng. 
+Oentropus bicolor, Less. TraiU, p. 137 (1831); Blyth, J. A. S. Beng. 
 1843, p. 946, 1845, p. 20; Gray, Gen. B. ii. p. 455 (1846); Packer. 
-Rev. et Mag. Zool. 1852, p. 472; Gray, P. Z. 8.1860, p. 359 ; id. 
+Rev. et Mag. Zool. 1852, p. 472; Gray, P. Z. S.1860, p. 359 ; id. 
 Hand-l B. ii. p. 214, no. 8972 (1870). 
 
 Pyrrhocentor bicolor, Cab, $ Heine, Mus, Hein. iv. p. 117 (1862); 
-Gray, P. Z. 8. 1869, p. 359; Salvad. Orn. Papuasia, i. p. 392 
+Gray, P. Z. S. 1869, p. 359; Salvad. Orn. Papuasia, i. p. 392 
 (1880). 
 
 Pyrrhocentor 
 celebensis, Walden, Tr. Z. 8. viii. p. 55 (1872); 
 8alvad. Ann. Mus. Civ. Gen. vii. p. 650 (1875); Lenz,J.f.O. 
-1877, p. 372; Meyer, Ibis, 1879, p. 70; Gxrilhmard, P. Z. 8. 1885, 
+1877, p. 372; Meyer, Ibis, 1879, p. 70; Gxrilhmard, P. Z. S. 1885, 
 
 p. 551. 
 366 
@@ -30337,7 +30337,7 @@ Piaya mehleri, Bp. Consp. i. p. 110; (1850) ; Sel PZ. S. 1SO5
 
 p. 103,1868, VV.75, 460, 1859, p. 146, I860, pp. 95, 285; id. Cat. 
 Amer B p 322 (1862); SchL Mus. Pays-Bas, Cuculi, p. 5/ 
-(1864); Set. PZS. 1864, p. 177; Salv. P. Z. 8. 1867, p. 156; 
+(1864); Set. PZS. 1864, p. 177; Salv. P. Z. S. 1867, p. 156; 
 Scl. & Salv. t. c. pp. 280, 752, 758; Salv. P. Z. S. 1870, pp. 211, 
 837; id. Ibis, 1872, p. 323; Sol. $ Salv. PZS. 1873, p. 296; 
 Boucard, P. Z. S. 1878, p. 48. 
@@ -31240,7 +31240,7 @@ Mange. Indian Peninsula and Ceylon.
 1. Taccocua sirkee. 
 Oentropus sirkee, Gray, 111 Ind. Zool. i. pi. 28 (1830). 
 
-Taccocua leschenaulti, Less. Traite, p. 144 (1831); Bhjth, J. A. 8. 
+Taccocua leschenaulti, Less. Traite, p. 144 (1831); Bhjth, J. A. S. 
 Bene/, xiv. p. 201 (1845); id. # Wald. Cat. B. Mus.'As. tfw.p.77 
 (1849) ; Jerd. B. Ind. i. p. 352 (1862) $ Iloldsworth, P. Z. S. 
 1872, p. 433 j Hume, Xests § Eggs Ind. B. p. 145 (1873); Sharpe, 
@@ -31582,7 +31582,7 @@ Type.
 
 Rhopodytes, Cab, 8f Seine, Mus. Hein. iv. p. 61 
 (1862) . R. diardi. 
-Poliococcyx, Sharpe, P. Z. 8. 1873, p. 606 R. sumatranus. 
+Poliococcyx, Sharpe, P. Z. S. 1873, p. 606 R. sumatranus. 
 
 Range. India and Ceylon, ranging through the Burmese countries 
 to Cochin China, and down the Malayan Peninsula to Java, 
@@ -32037,18 +32037,18 @@ GVCTJLIDM.
 Melias 
 diardi, Leas. Traite, p. 132 (1831); Puclier. Pev. et Mag. 
 Zool 1853, p. 6o. 
-Pkcenicophaus tristis (nee Less.), McClell P. Z. 8. 1839, p. 166; 
-Blyth,J. A. 8. Beng. si. p. 928, xii. p. 246 (1843). 
-Phoenicophaus simiatranns (nee Raffl.), Blyth, J. A. 8. Beng. xii. 
+Pkcenicophaus tristis (nee Less.), McClell P. Z. S. 1839, p. 166; 
+Blyth,J. A. S. Beng. si. p. 928, xii. p. 246 (1843). 
+Phoenicophaus simiatranns (nee Raffl.), Blyth, J. A. S. Beng. xii. 
 
 p. 246 (1843); Schl. Mus. Pays-Bas, Cuculi, p. 53 (pt.; 1864) : 
 Snelkman in VetVs Midden-Sumatra, Tog. p. 34 (1884). 
-Phoenicophaus diardi, Blyth, J. A. 8. Beng. x\. p. 199 (1845); Scltl. 
+Phoenicophaus diardi, Blyth, J. A. S. Beng. x\. p. 199 (1845); Scltl. 
 Mus. Pags-Bas, Cuculi, p. 54 (1864). 
 Zanclostoinus diardi, Gray, Gen. B. ii. p. 460 (1845), iii. App. p. 23 
 (1849); Bes Mws. leonor/r. Orn. pi. 19 (1849); Blgth, Cat. B. 
 Mus. As. Soe. p. 76 (1849) ; Horsf. Sr Moo/e, Cat. B. Mus. E.L 
-Co. ii. p. 600 (1856-58); Moore, P. Z. 8. 1859, p. 458; BJijth § 
+Co. ii. p. 600 (1856-58); Moore, P. Z. S. 1859, p. 458; BJijth § 
 Wald. Cat. Mamm. $ B. Burma, p. 81 (1875). 
 
 Plioenicophgeus nig riven tris, Peale, U.8. Expl. Exped. pp. 140, 141, 
@@ -32061,7 +32061,7 @@ Phoenicophaus nigriventris, Earth Arch. f. Nat. xViii. p. 107
 
 Khopodytes 
 diardi, Cab. §• Heine, Mus. Hein. iv. p. 61 (1862); 
-Sharpe, P. Z. 8.1873, p. 604,fig. 9 (head); Hume, Str. F. iii. p. 319 
+Sharpe, P. Z. S.1873, p. 604,fig. 9 (head); Hume, Str. F. iii. p. 319 
 (1875); Tweedd. Ibis, 1877, p. 287; Mime, 8tr. F. vi. p. 163, 
 
 viii. pp. 54; 89; Salrad. Ann. Mus. Civ. Gen. xrr. p. 180 (1879) ; 
@@ -32148,18 +32148,18 @@ Tweeddale Coll
 6. Bbopodytes sumatranus. 
 Cuculus 
 sumatranus, Baffi. Trans. Linn. Soc. xiii. p. 287 (1822) : 
-StricJd. J. A. 8. Beng. xiii. p. 391, note (1844), 
+StricJd. J. A. S. Beng. xiii. p. 391, note (1844), 
 Phcenicophaus sumatranus, Fig. Mem. Baffl. p. 671 (1830): Bluth, 
 
 J. A. S. Beng. xiv. p. 199 (1845). ' 
 Plicenicopkaus crawfurdii, J. E.' Gray. Zool. Misc. i. p. 3, pi. 3 
-(1831) ; Eyton, P. Z. 8. 1839, p. 105. 
+(1831) ; Eyton, P. Z. S. 1839, p. 105. 
 Zauclostomus crawfurdii, Gray, Gen. B. ii. p. 4C0 (1845). 
 Zanclostomus sumatranus, Gray, Gen. B. ii. p. 460 (1845) j Blyth, 
 
 Cat. B. Mus. As. Soc. p. 76 (1849); Horsf. $• Moore, Cat. B. Mus. 
 
-E.L Co. ii. p. 689 (1856-58) j Moore, P. Z. 8. 1859, p. 458; 8cl 
+E.L Co. ii. p. 689 (1856-58) j Moore, P. Z. S. 1859, p. 458; 8cl 
 P.Z.8. 1863, p. 208; Gray, Hand-l. B. ii. p. 207, no. 8884 
 (1870); Br'ugg. Abhandl not. Ver. Bremen, i. p. 455 (1877), 
 v. p. 455 (1882). 
@@ -32174,7 +32174,7 @@ Branch It Asiat, Soc. 1889, p. 174.
 Cuculus crista tus, "Zicht. MS," Cab. § Heine, Mus. Hein. iv. p. 62 
 (1862). 
 
-Poliococcyx sumatranus, Sharpe, P. Z. 8.1873, p. 606, fig. 14 (head), 
+Poliococcyx sumatranus, Sharpe, P. Z. S.1873, p. 606, fig. 14 (head), 
 1875, p. 104; Hume, Str. F. iii. p. 319 (1875); Gates, Handb. B. 
 Brit Burmah, ii. p. 123 (1883); Sharpe, Ibis, 1890, p. 18. 
 
@@ -32440,13 +32440,13 @@ Krit. Framst. Levaill. p. 49 (1857).
 Phoenicophseus pyrrhocephalus, 
 JSteph. Gen. Zool. ix. p. 59 (1815) ; 
 Vieill. N. Diet xviii. p. 401 (1810); id. Fnc. Meth. p. 1340 (1823); 
-id. Gal Ois. pi. 37 (1825) ; Blijth, J. A. 8. Bene/, xi. p. 927 (1842), 
+id. Gal Ois. pi. 37 (1825) ; Blijth, J. A. S. Bene/, xi. p. 927 (1842), 
 xi\. p. 199 (1845); Blyth, Cat. B. Mus. As.' >$oc. p.75 (1849); 
 Lat/ard, Ann. § Mag. Nat. Hist. 1854, xiii. p. 453 ; Cab. $• Heme, 
 Mus. Hem. iv. p. 08 (1802); Schl. Mus. Fays-Bas, Cuculi,p. 53 
 (1864); Gray, HandA. B. ii. p. 205, no. 8865 (1870); Iloldswortli, 
 
-P. Z. 8.1872, p. 433; Wald. Trans. Z. S. viii. p. 52, fig. 8, head 
+P. Z. S.1872, p. 433; Wald. Trans. Z. S. viii. p. 52, fig. 8, head 
 (1872) ; Sharpe, P. Z. S. 1873, p. 605, fig. 11; Hume, op. cit. viii. 
 p. 89 (1879); Legge, B. Ceylon, p. 255, pi. 12 (1880); Barker, 
 His, 188G, p. 184. 
@@ -32528,12 +32528,12 @@ p. 48 (1864); Finseh, Neu-Guin. p. 159 (1865); 'Wallace, Malay
 Archip. ii. p. 340 (1869); Gray, Hand-L B. ii. p. 205, no. 88C6 
 (1870); Wald. Trans. Z. 8. yiii. pp. 52,53, fig. 5 (1874) ; lenz, 
 J.f. 0. 1877. p. 371; Meyer, Ibis, 1879, p. 67; Briigg. AbhandL 
-naf. Ver. Brem. v. p. 57 (1882); Guillemard, P. Z. 8. 1885, 
+naf. Ver. Brem. v. p. 57 (1882); Guillemard, P. Z. S. 1885, 
 p. 549. 
 Melias calorhynchus, Less, Traite, p. 132 (1831). 
-Zanclostomus calorhynchus, BIyth, J. A. 8. Beng, xi. p. 1098 
+Zanclostomus calorhynchus, BIyth, J. A. S. Beng, xi. p. 1098 
 (1842). 
-Phoenicophaus melanogaster (nee Vieill.), Blytft, J. A. 8. Beng. xiv. 
+Phoenicophaus melanogaster (nee Vieill.), Blytft, J. A. S. Beng. xiv. 
 
 p. 199 (1845); id. Cat. B. Mm. As, 8oc. p. 75 (1849). 
 Phoenicophaus callirliynchus, Bp, Consp, i. p. 98 (1850) ; id. Consp. 
@@ -32612,7 +32612,7 @@ Cab. §• Seine, Mus. Hein. iv. p. 66
 
 r3y» CFCTTLIB2E. 
 
-Pdrinoeoccyx curvirostris, 8harj)e, P. Z. 8. 1S73; p. 604; Nicholson, 
+Pdrinoeoccyx curvirostris, 8harj)e, P. Z. S. 1S73; p. 604; Nicholson, 
 Ibis, 1881, p. 140. 
 
 Adult Feathers of the upper half of the head leaden grey, 
@@ -32654,11 +32654,11 @@ and entire tail glossy green ,.. ceneicauda, p. 400.
 1. IJrococcyx erythrognfcthus. 
 Ouculus melanognathus (nee Horsf.), RaM. Trans. Linn. 8oo. xiii. 
 p. 287 (1822). 
-Phoenicophseus viridis (nee Vieill), Blyth, J. A. 8. Beng. xi. p. 027 
+Phoenicophseus viridis (nee Vieill), Blyth, J. A. S. Beng. xi. p. 027 
 (1842), xiv. p. 199 (1845). 
 Phcenicophseus erythrognathus, Marti. Vers, Mus. Brem. 1844, p. 05; 
 Bp. Consp. i. p. 98 (1850); id. Consp. Vol Zygod. p. 5 (1854); 
-J". 8f F. Verr. Bed. et Mag. Zool 1855, p. 357; 8eL P. Z. 8. 
+J". 8f F. Verr. Bed. et Mag. Zool 1855, p. 357; 8eL P. Z. S. 
 1863, p. 208 ; 8chL Mus. Pays~Bas, Cuculi, p. 49 (18G4) ;* Gray, 
 Hand4. B. ii. p. 206, no. 8868 (1870) ; Hume, Sir. F. ii. p. 472 
 (1874); Blyth $ WaU. Cat. Mamm. fy B. Burma, p. 81 (1875); 
@@ -32922,7 +32922,7 @@ Zanclostoinus aereus, Hartl. J.f. 0. 1854, p. 201; id. Orn. W.-Afr.
 p. 275 (1857); Cass. B\ Ac. Philad. 1850, p. 142; Gray, Hand-l 
 B. ii. p. 206, no. 8874 (1870); Reiclien. J.f.O. 1875, p. % 1877, 
 p. 15. 
-Zanclostoinus seneus, Marti. § Monteiro, P. Z. 8. 1860, p. 112; 
+Zanclostoinus seneus, Marti. § Monteiro, P. Z. S. 1860, p. 112; 
 SharpefyBouvier, Bull. Soe. Zool France, i. p. 312 (1876); Boeage, 
 Om. Angola, p. 147 (1877). 
 
@@ -33021,7 +33021,7 @@ Malcolia superciliosus, Gu6r, Icon. Begne An. i. pi. 33. fig. 1 (182938).
 
 
 Dasylophus superciliosus, Swains. Class. B. ii. p. 324, pi. 280.fig-,a 
-(1837) ; Gray, Gen. B. ii. p. 456, pi. 116 (1845) j Blyth, J. A. 8. 
+(1837) ; Gray, Gen. B. ii. p. 456, pi. 116 (1845) j Blyth, J. A. S. 
 Beng. xiv. p. 199 (1S45); id. Cat. B. Mus. As. Soc. p. 75 (1849); 
 Bp. Consp. Vol. Zygod. p. 5 (1854); Cab. 8? Heine, Mus. Ilein. iv. 
 
@@ -33079,10 +33079,10 @@ S. Beng. xiv. p. 199 (1845); Gray, Kand-l B. ii. p. 206, no. 8871
 (1870). 
 34 . COTJA. 405 
 Lepidoorammus cumingi, Bp. Consp. Vol. Zygod. p. 5 (1854): Cab. $ 
-Heine, Mus, Eein. iv. p. 70 (1862); Sliarpe, P. Z. 8. 1873. p. 602, 
+Heine, Mus, Eein. iv. p. 70 (1862); Sliarpe, P. Z. S. 1873. p. 602, 
 fig. 6 head; Wold. Trans. Z. 8. ix. p. 163 (1875): Gould. B. Asia, 
 
-vii. pi. 45 (1876) ; Tweedd. P. Z. 8. 1877, p. 691. 
+vii. pi. 45 (1876) ; Tweedd. P. Z. S. 1877, p. 691. 
 Cuculus decorus, " Gravmhorst," Bp. Consp. Vol. Zygod. p, 5 (1854). 
 Adult (type of species). Upper half and sides of the head grey, 
 passing into white on the sides of the forehead and throat; all the 
@@ -33213,17 +33213,17 @@ p. 390; Bp. Consp. I p. 109 (1850); 86hl Handl. DierJc. I
 p. 206 (1857); Kollar, Site. Ah. Wiss. Wien, 1858, p. 342; Hartl. 
 Om. Beitrag Faun. Madag. p. 60 (1861) ; Moch $ K Newton, 
 34 . GOTTA. 407 
-Ibis, 186,% p. 1G6; R Newton, t. c. p. 453; 8el. P. Z. 8. 1863, 
+Ibis, 186,% p. 1G6; R Newton, t. c. p. 453; 8el. P. Z. S. 1863, 
 
 p. 1G4 ; 8c7d. Mus. Pays-Bas. Cuculi, p. 40 (1864); A. Newton, 
-P. Z. 8. 1865, p. 834; Sehl P. Z. 8. 1866, p. 424; Grand Rev. eb 
+P. Z. S. 1865, p. 834; Sehl P. Z. S. 1866, p. 424; Grand Rev. eb 
 Mag. Zool 1867, p. 390; 8chl. 8? Pollen, Faun. Madag., Ois. p. 55 
 (1868); Gray, Iland-l B. ii. p. 208, no. 8894 (1870); Bartlett, 
-P. Z. 8. 1875, p. 67; Hartl Vog. Madag. p. 248 (1877); Milne-
+P. Z. S. 1875, p. 67; Hartl Vog. Madag. p. 248 (1877); Milne-
 Fdiu. $ Grand. Ois. I p. 148, Atlas, i. pis. 48, 49 (1879). 
 Oentropus csevuleus, Temm. Tail Metli. p. 53 (1838). 
 Glaueococcyx coeruleus, Cab. # Heine, Mus. Rein. iv. p. 71 (1862). 
-Sericosomus cseruleus, Sharpe, P. Z. 8. 1873, p. 616. 
+Sericosomus cseruleus, Sharpe, P. Z. S. 1873, p. 616. 
 
 Adult. Entire plumage uniform blue, with a violet gloss on the 
 tail; under surface of the quills glossy blackish blue, shaded with 
@@ -33274,8 +33274,8 @@ Coccyzus reynaudi, Verr. Cat. Coll. Ois. Rivoli, p. 25 (1846).
 Coua ruficeps (nee Gray), Bp. Consp. i. p. 109 (1850); id. Consp. Vol. 
 Zygod. p. 120 (1854). 
 Sericosomus reynaudi, Cab. fy Heine, Mus. Hein. iv. p. 73, note 
-(1862); Sharpe, P. Z. 8.1873, p. 615. 
-Sericosomus sp., Bartlett, P. Z. 8.1879, p. 771. 
+(1862); Sharpe, P. Z. S.1873, p. 615. 
+Sericosomus sp., Bartlett, P. Z. S.1879, p. 771. 
 
 Adult. Above glossy olive, shaded on the quills and outer tail-
 feathers with violet-blue; forehead and front half of the crown 
@@ -33338,7 +33338,7 @@ Madag. p. 240 (1877) ; Milne-Edio. $ Grand. Mist. Madag., Ois.
 i. p. 150, Atlas, i. pis. 42, GO (1879). 
 Coua serrisiana, Bp. Consp. Vol. Zygod. p. 120 (1854). 
 Seiicosomus serriamts, Cab. $ Seine, Mm. Hein. iy. p. 74. note 
-(1862); Sharpe, P. Z. 8.1873, p. 015. 
+(1862); Sharpe, P. Z. S.1873, p. 015. 
 
 Adult Above olive-brown, with a blight rufous shade on the back 
 of the neck and mantle ; quills and tail purplish black ; a few of 
@@ -33493,7 +33493,7 @@ Gray, Hand-l B. ii. p. 208, no. 8887 (1870) : Hartl. Vdg. Madaa.
 p. 246 (1877, pt). x 
 34. COCA. 411 
 Sericosomus ruficeps, Cab.tyHeine, Mus. Hem, iv. p. 73, note (1862): 
-Sharpe, P. Z. 8.1873, p. G14. 
+Sharpe, P. Z. S.1873, p. G14. 
 Coua ruficeps typicus, Milne-Edwards 8? Grandid. Hist Madag., Ois. 
 
 i. p. 156, Atlas, I pi. 53 (1879). 
@@ -33525,7 +33525,7 @@ Ooua ruficeps, pi, Grand. Rev. et Mag. Zool, 1867, p. 391; Ha HI.
 
 Vdg. Madag. p. 246 (1877). 
 
-Sericosomus olivaceiceps, Sharpe, P. Z. 8. 1873, p. 615. 
+Sericosomus olivaceiceps, Sharpe, P. Z. S. 1873, p. 615. 
 
 Coua ruficeps, var. olivaceiceps, Milne-Edwards § Grandid. Hist. 
 
@@ -33554,7 +33554,7 @@ ctrcuLiD^;.
 
 (1877) ; Milne-Edtvards Sf Grandid. Hist Madag., Ois. i. p. 158, 
 Atlas, L pi. 57(1870). 
-Sericosomus cursor, 8harpe, P. Z. 8. 1873; p. 613. 
+Sericosomus cursor, 8harpe, P. Z. S. 1873; p. 613. 
 
 Adult. Above greenish grey, with, the quills and tail violet-
 shaded brown, the latter with white ends to all but the four centre 
@@ -33575,7 +33575,7 @@ Gray, Hand-l. B. ii. p. 208, no. 8891 (1879); Hartl. Tog. Madag.
 p. 237 (1877); Milne-Edw. Mist. Madag. Ois, i. p. 159, pis. 58, 5<) 
 (1879). 
 Ooua liartlanbi, Grandid. Rev. et Mag. Zool 1869, p. 339. 
-Sericosomus coquerelli, Sharpe, P. Z. 8. 1873, p. 614. 
+Sericosomus coquerelli, Sharpe, P. Z. S. 1873, p. 614. 
 
 Adult. Very similar in plumage to 0. gigas, but much smaller. 
 Entire upper parts nearly uniform olive; quills brown, and with 
@@ -33748,7 +33748,7 @@ Bp. Consp. i. p. 97 (1850); id. Consp. Vol
 Zygod. p. 5 (1854) $ Cab. fy Heine, Mus. Hein. iv. p. 71, note 
 
 36. NE0M0RPHX7S.
-(1862); Wallace, P. Z. 8. 1863, p. 28; Gray, Hand4. B. ii. p. 20,5, 
+(1862); Wallace, P. Z. S. 1863, p. 28; Gray, Hand4. B. ii. p. 20,5, 
 no. 8372 (1870); Skarpe, P. Z. S. 1873, p. G07,fi«y. 10; flflta*. 
 CTbc. Borneo, p. 76 (1874); J?>v%. Abhandl. nat. Ver. Brem. v. 
 
@@ -33975,7 +33975,7 @@ Cultrides rufipennis, Gray, P. Z. 8 1849, p. 63, pi. 10.
 
 Neoniorpkus rufipennis, Cab. § Heine, Mus. Hem. iv. p. 92, note 
 
-(1862) ; Sel P. Z. 8.1864, p. 249 (pt, Guiana), 1866, p. 60 : Peh. 
+(1862) ; Sel P. Z. S.1864, p. 249 (pt, Guiana), 1866, p. 60 : Peh. 
 
 Orn. Bras. p. 272 (1871); Sol $ Salv. Noinencl. Av. Neotr. p. 107 
 
@@ -34005,7 +34005,7 @@ b. 2
 ad. sk. Camacusa, British Guiana, Oct. Salvin-Godman Coll. 
 (J5T. Whitelij), 
 5. Keomorphus ra&iolosus. 
-Neomorphus radiolosus, Sah. P. Z. 8.1878, p. 439, pi. 27. 
+Neomorphus radiolosus, Sah. P. Z. S.1878, p. 439, pi. 27. 
 Adult. Upper half of the head, back of the neck, and front of the 
 mantle glossy greenish black, barred with brownish burl on the forehead 
 and front of the crown, and with white or rufous-white on the 
@@ -35987,7 +35987,7 @@ Shelley Coll.
 10. Tnracus meriani 
 Corythaix meriani, JRupp. Arch. f. Nature/, xvii. p. 319 (1851); 
 Hart!. Orn. W.-Afr. p. 157 (1857); Seine, J. f. 0.1860, p. 189; 
-Sharpe, P. Z. 8. 1871, p. 006; Meicken. J. f. 0. 1877, p. 14; 
+Sharpe, P. Z. S. 1871, p. 006; Meicken. J. f. 0. 1877, p. 14; 
 Bocage, Orn. Angola, p. 541 (1881); Schuloio, J.f. 0.1886, p. 37; 
 Shelley, P. Z.S.m7,y. 123. 
 
@@ -36311,8 +36311,8 @@ Corythaix porpliyreolophus (nee Vig.), Rilpp. Neue Wirb., Fog. p. 7
 
 J.f. 0. 1882; p. 208; Dubois, Bull Mas. Belg. iii. p. 147 (1884). 
 Turacus porphyreolophus; Rilpp. Arch. f. Nature/. xvii. p. 321 (1851); 
-id. Contr. Orn. 1852, p. 74; Gray, P. Z. 8. 1864, p. 45. 
-Gallirex chlorochlani} s, Shelley, Ibis, 1881, p. 118; id. P. Z. 8.1881, 
+id. Contr. Orn. 1852, p. 74; Gray, P. Z. S. 1864, p. 45. 
+Gallirex chlorochlani} s, Shelley, Ibis, 1881, p. 118; id. P. Z. S.1881, 
 
 p. 590, 1885; p. 358; Bdhm, J.f 0. 1885, p. 42; Fischer, t. c. 
 p. 123; 8chaloiu,J.f. 0. 1886, p. 52; Reichen. J. f 0. 1887, p. 57. 
@@ -36911,9 +36911,9 @@ e, d. d ? ad. sk. Shoa, Sept. {Antinori). Shelley Coll.
 456 MTJSOPHAGID^:. 
 
 2. (rymnoschizorlris leopoldi 
-Schizorhis personata (nee R'tipp.), Scl. P. Z. 8. 1864, p. 112. 
+Schizorhis personata (nee R'tipp.), Scl. P. Z. S. 1864, p. 112. 
 
-Schizorhis leopoldi, Shelley, Ibis, 1881, p. 117, pi. 2; id. P. Z. 8. 
+Schizorhis leopoldi, Shelley, Ibis, 1881, p. 117, pi. 2; id. P. Z. S. 
 1881, p. 591 ; Bb'hm, J. f. 0. 1883, p. 162; Schalow, t. c. p. 345; 
 Dubois, Bull. Mus. Belg. iii p. 147 (1884). 
 

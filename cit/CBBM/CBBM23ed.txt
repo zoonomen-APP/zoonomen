@@ -1997,7 +1997,7 @@ Salvin-Godman Coll.
 4. Eallus aeojLatorialis. (Plate II. fig. 1.) 
 Itallus 
 virginianus (nee £.), Scl. P. Z. &'. 1877, p. 523, note (Lima); 
-Berl. $ Tacz. P. Z. 8. 1884, p. 313 (W. Ecuador), 1885, p. 112 
+Berl. $ Tacz. P. Z. S. 1884, p. 313 (W. Ecuador), 1885, p. 112 
 (Kiobamba); Tacz. Orn. Ferou, iii. p. 314 (1886). 
 
 Adult. Similar to B>. virginianus, but having the lateral under 
@@ -2669,7 +2669,7 @@ F. A. Barratt, EMJ.
 [O.]. 
 
 10. Rallus madagascariensis. 
-? Rallus madagascariensie, Desj. P. Z. 8. 1831, p. 45 (deser. nulla). 
+? Rallus madagascariensie, Desj. P. Z. S. 1831, p. 45 (deser. nulla). 
 
 Rallus madagascaiiensis (certe), Verr. S. Afr. Q. Journ. ii. p. 80 
 (1833); Gray, Gen. B. iii. p. 593 (1846); Schl. Mis. Pays-Bas, 
@@ -3004,7 +3004,7 @@ Nemoied, Beitr. Nature/. Bras. iii. p. 782 (1833 : Pdo de Janeiro);
 
 Gray, Gen. B. iii. p. 593 (1846); Sold. Mus. Pays~Bas, Palli, 
 
-p. 8* (1865); Scl 8f Salv. P. Z. 8. 1868, p. 446; Pelz. Orn, Bras. 
+p. 8* (1865); Scl 8f Salv. P. Z. S. 1868, p. 446; Pelz. Orn, Bras. 
 p. 315 (1871) ; Scl. $ Salv. Nomenol. Av. Neotr. p. 139 (1873); 
 32 
 RALLIDJE. 
@@ -3110,7 +3110,7 @@ Le Easle raye" des Philippines, Briss. Orn. v. p. 167, pi. xiv. fig. 2
 
 Rallus striatum Linn. S. K i. p. 262 (1766); Gm. S. X. i. p. 714 
 (1788) j StricJcl P. Z. S. 1840, p. 105; Bh/th, Cat. B. Mm. A*. 
-Soc. p. 28o (1849); Adams, P. Z. 8. 1858, p. 503 (Punjab); 
+Soc. p. 28o (1849); Adams, P. Z. S. 1858, p. 503 (Punjab); 
 Swinh. Ibis, 1863, p. 427 (Formosa); Jerd. B. 1ml iii. p. 726 
 (181)4); Swinh. Ibis, 1805, p. 355, 1806, p. 294; Bli/t/i, Ibis, 
 1807, p. 172 ; IIoMm. P. Z. S. 1872, p. 470: Gudiv.-Ausi, J. A. S. 
@@ -3687,7 +3687,7 @@ p. 21 (1884: New Britain; breeds) ; Reichen. J.f 0. lb(Jl; p. 127
 Kallus forsteri, Bartl. Arch. f Nat. 1852, p. 136; id. J.f. 0. 1854, 
 
 p. 169; id. # i^srA, Or;/. Centralpoh/n p. 102 (1867) ; /zVZ. P. Z. & 
-1809, p. -544; iid. P. Z. 8. 1871, p. 25 (Sayai). 
+1809, p. -544; iid. P. Z. S. 1871, p. 25 (Sayai). 
 Ilvpotasnidia pectoralis, Reuhenb. Av. 8yst. Nat. p. xxiii (1852) ; 
 Legge, B. Ceylon, p. 776 (1880). 
 Hvpottcnidia philippensis, Bp. C. R. xliii. p. 599 (1856); Schl Mus. 
@@ -3722,7 +3722,7 @@ Kallus striatus, pi , Finsch, Neu-Guinea, p. 181 (1865).
 Kallus (Eulabeornis) philippensis, Martens, J.f O. 1866, p. 28. 
 Kallus hypoleucus, Hartl §• Finsch, Faun/ Centralpolyn. p. 163 
 
-(1867); iid. J. f. O. 1870, p. 122; iid. P. Z. 8. 1869, p. 545 
+(1867); iid. J. f. O. 1870, p. 122; iid. P. Z. S. 1869, p. 545 
 (Tonga), 1871, p. 25. 
 Eulabeornis philippensis, Gray, Ha?id~l B. iii. p. 57, no. 10377 
 
@@ -3736,7 +3736,7 @@ N. Z. Inst. iv. p. 202 (1871); id. Ibis, 1872, p. 37; id. Trans. N, Z.
 Inst v. p. 199, pi. xviii. (1872). 
 Ilypotaenidia australis, Bek. Ibis, 1873, p. 43; Ramsay, Broc. Linn. 
 Soc. N. 8. W. ii. p. 209 (1877), iii. p. 40 (1878). 
-Kallus philippinensis, Gulliv. P. Z. 8. 1875, p. 488. 
+Kallus philippinensis, Gulliv. P. Z. S. 1875, p. 488. 
 ? Hypoteemdia striata, Rosenb. {nee L.) Malay. Arch. p. 373 (1878
 
 
@@ -4244,8 +4244,8 @@ b. S
 juv. sk. Mangare, Chatham Islands, II. 0. Forbes, Esq, 
 June 1 ( W. Hawkins). 
 2. Cabalus sylvestris. 
-Ocvdromus sylvestris, 8cl. P. Z. 8. 1869, p. 472, pi. xxxv.; Bemiett, 
-P. Z. 8. 1869, p. 471; Gray, Eand-l. B. iii. p. 5i5, no. 10367 (1871) ; 
+Ocvdromus sylvestris, 8cl. P. Z. S. 1869, p. 472, pi. xxxv.; Bemiett, 
+P. Z. S. 1869, p. 471; Gray, Eand-l. B. iii. p. 5i5, no. 10367 (1871) ; 
 Puller, Trans. N. Z. x. p. 216 (1877); Meyer, Abhild. Vog.-8kel 
 pts.iv., v. p. 32, Taf. xli. (1883) ; Etheridge, Lord Howe Id p 17 
 (1889); North, Pec. Austr. Mas. i. p. 37, pi. i. fig. 3 (1890, nesting). 
@@ -4275,7 +4275,7 @@ t>. EUXABE0RNI3.
 
 5. EULABEORNIS. 
 Type. 
-Eulabaornis, Gould, P. Z. 8. 1844, p. 50 E. cabtaneiveiilria. 
+Eulabaornis, Gould, P. Z. S. 1844, p. 50 E. cabtaneiveiilria. 
 
 Mange. Northern Australia and the Aru Islands ; Solomon Islands; 
 Fiji Islands. 
@@ -4293,8 +4293,8 @@ Eulabeomis castaneiventris, Gould, P. Z, 8.1844, p. 56 (N. Australia);
 id. B. Austr. vi. pi. 78<1844) j Gray, Gen. B. iii. p. 596 (1840) ; 
 Meichenb. Handb., Fulicar. Taf. cxxiii. tigs. 1211-14 (1852); Bp. 
 
-C. M. xliii. p. 600 (1850); Gray, P. Z. 8. 1858, pp. 198, 198 (Aru 
-Islands); id. Cat B. New Guinea, pp. 52, 63 (1859) j id. P. Z. 8. 
+C. M. xliii. p. 600 (1850); Gray, P. Z. S. 1858, pp. 198, 198 (Aru 
+Islands); id. Cat B. New Guinea, pp. 52, 63 (1859) j id. P. Z. S. 
 1861, p. 438 (Louisiade Isl.) j Mosenb. Nat Tijdschr. NederL Ind. 
 xxv. p. 255 (1863) ; id. Xf. 0.1864, p. 282 (New Guinea); Fimch, 
 Neu-Guinea, p. 181 (1865) • Gould, Handb. B. Austr. ii. p. 338 
@@ -4643,7 +4643,7 @@ Aramides chiricote, pt., *£/•#?/, Gen. B. iii. p. 594 (1846).
 Aramides mangle, Barm. Th. Bras iii. p. 385; note (1856); Srt. $ 
 
 
-Salv. P. Z. 8. 1868, p. 449 (Bahia); Gray, Hand-l. B. iii. p. (50, 
+Salv. P. Z. S. 1868, p. 449 (Bahia); Gray, Hand-l. B. iii. p. (50, 
 no. 1042!> (1871); Pelz. Orn. Bras. p. 316 (1871: Sapitiba) : ScL 
 $ Salv. Nomencl. Ai\ Neotr. p. 139 (1873). 
 
@@ -4679,7 +4679,7 @@ Salvin-Godman Coll.
 Old Coll. 
 
 2. Aramides wolfi. 
-Aramides wolfi, Berl $ Tacz. P. Z. 8. 1883, p. 576 (Chimbo, 
+Aramides wolfi, Berl $ Tacz. P. Z. S. 1883, p. 576 (Chimbo, 
 W. Ecuador). 
 Adult. General colour above olive-brown; scapulars like the 
 back; lower back and rump reddish brown; upper tail-coverts 
@@ -5145,7 +5145,7 @@ h.
 <$ ad. sk. Ypanema, Brazil, April (J. Salvin-Godman Coll. 
 Natterei'). 
 8. Aramides callopterus. 
-Aramides callopterus, Scl. $ Salv. P. Z. 8. 1878, p. 439, pi. xxviii. 
+Aramides callopterus, Scl. $ Salv. P. Z. S. 1878, p. 439, pi. xxviii. 
 Adult (type of species). General colour above greenish olive; 
 scapulars like the back; lower back and rump chocolate-brown; 
 lesser wing-coverts like the back; median and greater coverts 
@@ -5654,7 +5654,7 @@ Rail us cuvieri. Pitcher. JRev. et Mag. deZool. 1845, p. 279.
 Eulabeornis gularis, Gray, Gen. B. iii. p. 595 (184(5); id. Hand-l. 
 B. hi. p. 50, no. 10372 (1871); E. Bartlett, P. Z. S. 1875, p. 68. 
 RoiifXPtius beraieri, Bp. C. P. xliii. p 599 (1865); Hartl. Fami. 
-Madag. p. 79 (1801); E. Newt. Ibis. 1863, p. 458; Sol. P. Z. 8. 
+Madag. p. 79 (1801); E. Newt. Ibis. 1863, p. 458; Sol. P. Z. S. 
 1863, p. 165 ; A. Newt. P. Z. S. 1865, p. 837. 
 
 Rougetius gularis, Bp. C. P. xliii. p. 599(1856). 
@@ -5813,7 +5813,7 @@ olive-brown, with a slight reddish, tinge, the abdomen nearly
 * This species has been included in the Avifauna of Papuasia, but without 
 reason (cf. Salvad. Orn. Pap. iii. p. 284). The following is the synonymy :— 
 Eallus oculeus, Gray, P. Z. S. 1858, p. 197 (Louisiades). 
-llallina oculea, Gray, JP. Z. 8. 1801, p. 438 (Mysol, Aru). 
+llallina oculea, Gray, JP. Z. S. 1801, p. 438 (Mysol, Aru). 
 Eallus oculea, Finsch, Neu-Gmnea, p. 181. 
 
 These synonyms probably refer to Gymnoceres plimbeiventris. 
@@ -6276,13 +6276,13 @@ a. £ ad. sk3 Tondano, N. Celebes. Wallace Coll.
 h. Ad. sk. Celebes. Tweeddale Coll. 
 e. Ad. &k. Sula Islands. Wallace Coll. 
 5. Eallina tricolor, 
-Rallina tricolor, Gray, P. Z. 8. 1858, p. 188 (Am Islands); id. Cat. 
-B. New Guinea, pp. 52, 62; id. P. Z. 8. 1859, p. 159 (Dorey); id. 
-P. Z. 8. 1861, p. 438; Bosenb. J. f. O. 1864, p. 283; 8chl Mm. 
+Rallina tricolor, Gray, P. Z. S. 1858, p. 188 (Am Islands); id. Cat. 
+B. New Guinea, pp. 52, 62; id. P. Z. S. 1859, p. 159 (Dorey); id. 
+P. Z. S. 1861, p. 438; Bosenb. J. f. O. 1864, p. 283; 8chl Mm. 
 Pays~Bas, Ralli, p. 18 (1805); id. N. T. D. iii. p. 349 (1866); Gould, 
-P. Z. 8. 1866, p. 218 (Cape York); Bosenb. Beis naar Zuidooatereil 
+P. Z. S. 1866, p. 218 (Cape York); Bosenb. Beis naar Zuidooatereil 
 p. 53 (1867); Gould, B. Aitstr. Suppl. pi. 78 (1869) ; Gray, 
-Hand-l. B. iii. p. 58, no. 10400 (1871); ScL P. Z. 8. 1877, p. 113 
+Hand-l. B. iii. p. 58, no. 10400 (1871); ScL P. Z. S. 1877, p. 113 
 (Duke of York I&l.); Jtta?way,t. c. p. 345 (Rockingham Bay; 
 nesting) ; Bosenb. Malay. Archip. p. 373 (Aru), p. 396 (187b); 
 Ramsay, Proc. Linn. Soc. N. 8. W. iii. p. 297 (1878: Laloki 
@@ -6293,7 +6293,7 @@ Mus. Genov. xviii p. 320 (1882); id. Orn. Papuasia etc. iii. p. 265
 id. Zeitschr. yes. Orn. i. p. 294 (1884: egg); Kehrk. J.f. 0.1885, 
 p. 35 ("Waigiou); Rummy, Tab. List Austr. B. p. 21 (1888); 
 Salvad. Ayy. Orn. Papuasia, iii. p. 196 (1891). 
-Rallus tricolor, Gray, P. Z. 8. 1858, p. 197; Finsch, Neu-Guinea, 
+Rallus tricolor, Gray, P. Z. S. 1858, p. 197; Finsch, Neu-Guinea, 
 
 p. 181 (1865); Bosenb. Malay. Arch. p. 563 (1878-79). 
 Adult male (type of species). General colour above dark slaty 
@@ -7998,11 +7998,11 @@ r". Sternum. Jamaica. Gosse Coll.
 R alius novae hollandiaa, CUD. MSS. in Mus. Paris} Less. Traite, 
 p. 537 (1831 ; descr. nulla); Pitcher. Reo. et May, de ZooL 1851, 
 p. 278. ' 
-Porzana fluminea, Gould, P. Z. 8. 1842, p. 139; id. £. Amtr. \i. 
+Porzana fluminea, Gould, P. Z. S. 1842, p. 139; id. £. Amtr. \i. 
 pi. 79 (1848); id. Eandb. B. Austr. ii. p. 339 (I860); Ramsay, 
 Proc. Linn. 80c. JSf. 8. TV. i. p. 193 (1876;, ii. p. 199 (1877); id. 
 
-P. Z. 8. 1877, p. 345 (Queensland); North, Proc. Linn. 80c. 
+P. Z. S. 1877, p. 345 (Queensland); North, Proc. Linn. 80c. 
 N. 8. W. (2) ii. p. 1779 (1888: Cumberland district); Ramsay, 
 Tab. List Austr. £. p. 23 (1888). 
 Ortygometra fluminea, Gray, List Gralla Brit. Mus, p. 118 (1844); 
@@ -9015,7 +9015,7 @@ Ballus obscurus, Gm. Sgst. Nat. i. p. 718 (1788).
 ? Ballus sandwickensis, Gm. Syst. Nat. i. p. 325 (1788) ; Hartl. 
 
 AbhandL not. Ver. Bremen, xii. Heft 3, p. 397 (1892). 
-Moho, Peak, P. Z. 8. 1862, p. 145. 
+Moho, Peak, P. Z. S. 1862, p. 145. 
 Pennula millsi, Dole, Hawaiian Annual, 1879, p. 14; A. Newton, 
 
 P. Z. S. 1889, p. 5. 
@@ -10746,10 +10746,10 @@ Hab. N.E. Nicaragua.
 
 Porzana albigularis, Scl. cj Salv. P. Z. S. 1804, p. 372 (Panama): 
 iid. P. Z. S. 1867, p. 280 (Mosquitia); iid. Rvot. Orn. p. 101), 
-pi. 55 (1868) ; iid. P. Z. 8. 1808, p. 454; iid. NomencL Av.Neotr. 
+pi. 55 (1868) ; iid. P. Z. S. 1808, p. 454; iid. NomencL Av.Neotr. 
 
 p. 140 (1873); Lawr. Ann. Lye. N. Y.h. p. 142 (1808: Nicoya): 
-Scl # Salv. P. Z. 8.1879, p. 546 (Antioguia), Pidgio. Proc. U.S. 
+Scl # Salv. P. Z. S.1879, p. 546 (Antioguia), Pidgio. Proc. U.S. 
 Nat Mus. vi. p. 409 (1883 : Panama). 
 Aramides albigularis, Gray, Iland-L B. in. p. 61, no. 10442 (1871). 
 
@@ -11102,7 +11102,7 @@ Corethrura erythrothorax, Cass, in Perri/s Exped. Japan, ii. p. 229
 
 (1856). F ' ¥ 
 Porzana erythrothorax, Swinh. Ibis, 1861, pp. 67, 411 (Canton, 
-Amoy) ; Blakist Ibis, 1862, p. 331 (Japan); SivinJi. P. Z. 8. 1870, 
+Amoy) ; Blakist Ibis, 1862, p. 331 (Japan); SivinJi. P. Z. S. 1870, 
 
 p. 603; id. P.Z.S. 1871, p. 414; id. Ibis, 1874, p. 163 (Hakodadi), 
 1875, p. 134 (Chefoo); David 8f Oust Ois. Chine, p. 486 
@@ -11725,7 +11725,7 @@ Amaurornis
 olivacea, Meichmb. Naturl. Syst. Vdg. p. xxi (1852) ; 
 Bp. C. R. xliii. p. GOO (1856); Walden, Tr. Z. 8. ix. p. 231, 
 pi. xxxiii. fig. 2 (1875); Tweedd. P. Z. S. 1877, p. 702 (Monte 
-Alban), p. 768 (Cebu); id. P. Z. 8. 1878, p. 345 (S. Leyte, 
+Alban), p. 768 (Cebu); id. P. Z. S. 1878, p. 345 (S. Leyte, 
 July); JSteere, List B. $ Mamm. Biped. P/ulipp. y. 26 (1890; 
 Luzon, Siquijor); Blasius, J.f.O. 1890, p. 145 (Mindanao). 
 
@@ -12005,7 +12005,7 @@ p. 720 (1864); Schl. Mus. Pays-Bas,~R&\\i, p. 41 (1865); Godioin-
 Austen, J. A. S. Benq. xxxix. p. 254 (1870: Mymensing); Blanf. 
 op. cit. xl. p. 276 (1871: Wardha Valley); Swinh. Ibis, 1870, p. 364 
 (Hainan); id. P.Z. 8. 1871, p. 414 (S. China, Formosa); Holdsw. 
-P. Z. 8.1872, p. 476 (Ceylon); Gray, Hand-l B. iii. p. 67, no. 10508 
+P. Z. S.1872, p. 476 (Ceylon); Gray, Hand-l B. iii. p. 67, no. 10508 
 (1871); Gould, B. Asia, vii. pi. 67 (1872); Hayes Lloyd, Ibis, 1873, 
 p. 418 (Kathiawar); Hume, Nests 8? Eggs Ind. B. p. 599 (1873) ; 
 Aitken, Str. F. i. p. 424 (1873: Bombay, breeding); Hume 
@@ -12037,7 +12037,7 @@ P. Z. S. 1877, p. 833 (Butuan) ; id. P. Z. S. 1878, p. 953 (Zaniboanga)
 ; David fy Oust. Ois. Chine, p. 486 (1877); Anders. Pep. 
 Exped. Yunnan, Aves, p. 691 (1878 : Bhamo); Cripps, S/r.F. vii. 
 p. 306 (1878: Faridpur); Legge, B. Ceylon, p. 786 (1879); Sharpe, 
-P. Z. 8.1879, p. 352 (Labuan); Hume, Str. F. viii. pp. 70 (Malacca), 
+P. Z. S.1879, p. 352 (Labuan); Hume, Str. F. viii. pp. 70 (Malacca), 
 113; Doig, t. c. p. 371 (E. Narra); Butler, Cat. B. Sind, etc. p. 67 
 (1879) ; Salvad. Ann. Mus. Civic. Genov. xiv. p. 253 (1879 : 
 Sumatra); Meyw, Ibis, 1879, p. 142 (Celebes); Sharpe, t. c. p. 271 
@@ -12735,7 +12735,7 @@ Soc. N S. W. ii. p. 199 (1878) ; id. Tab. List Austr. B. p. 21
 Brachyptrallus ralloides, Lafr. Bev. Zool. iii. p. 232 (1840). 
 Tribonyx gouldi, Scl. Ann. Nat. Hist. (3) xx. p. 122 (1867); id. 
 
-P. Z. 8.1867, p. 816, cum fig. 
+P. Z. S.1867, p. 816, cum fig. 
 Adult. General colour above ruddy brown, with a strong wash of 
 olive, the head and neck like the back ; scapulars and lower back 
 and rump mottled with a few ochraceous spots on the ends of the 
@@ -12787,7 +12787,7 @@ B. Austr. vi. pi. 72 (1845); Gray, Gen. B. iii. p. 5^9 (1845) ;
 Reichenb. Vog. Neuholl p. 151 (1849); id. Handb., Fulicarw, 
 tab. ccciv. fig. 2460 (1852); Gould, Handb. B. Austr. ii. p. 325 
 (1805); 8cl P. Z. S. 1867, p. 816 (Tasmania); Gray, Hand-L B. 
-iii. p. 65, no. 10492 (1871) j Ramsay, P. Z. 8. 1877, p. 344 
+iii. p. 65, no. 10492 (1871) j Ramsay, P. Z. S. 1877, p. 344 
 (Queensland); id. Proc. Linn. Soc. N. S. W. ii. p. 21 (1878); id. 
 op. cit. ii. p. 172 (1888: Derby); id. Tab. List Austr. B. p. 21 
 (1888); North, Nests and Eggs Austr. B. p. 324, pi. xvii, tig. 4 
