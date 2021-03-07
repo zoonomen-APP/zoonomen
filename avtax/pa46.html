@@ -11,7 +11,34 @@
 	<link rel="stylesheet" href="./stylesheet.css" type="text/css"></link>
 	</head>
 	<body bgcolor="white">
-	<small>Version 3.006 (2021.02.11).</small>
+<body bgcolor="white"><style>
+/* Tooltip container */
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 400px;
+  background-color: black;
+  color: #fff;
+  text-align: left;
+  border-radius: 6px;
+  padding: 5px 0;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+
+</style>
+	<small>Version 3.008 (2021.03.06).</small>
 	Bold species <b>epithet</b> = type<br>
 	<h1>PASSERIFORMES</h1><p>
 	
@@ -122,8 +149,8 @@ target="ref_fr">Rev.Zool.</a></i> 8 p.339</li>
 	1845 <i><a href="../cit/jourr.html#Rev.Zool."
 	target="ref_fr">Rev.Zool.</a></i> 8 p.339</li>
 
-	<li>Campylorhynchus megalopterus nelsoni <a
-	href="../bio/bior.html#Ridgway" target="ref_fr">Ridgway</a> 1903
+	<li>Campylorhynchus megalopterus nelsoni (<a
+	href="../bio/bior.html#Ridgway" target="ref_fr">Ridgway</a>) 1903
 	<i><a href="../cit/jourp.html#Proc.Biol.Soc.Wash."
 	target="ref_fr">Proc.Biol.Soc.Wash.</a></i> 16 p.111</li>
 
@@ -421,11 +448,14 @@ p.4,note
 	1941 <i><a href="../cit/jourp.html#Proc.Biol.Soc.Wash."
 	target="ref_fr">Proc.Biol.Soc.Wash.</a></i> 54 p.172</li>
 
-	<li>Salpinctes obsoletus exsul <a
+	<li>Salpinctes obsoletus exsul&#8224; <a
 	href="../bio/bior.html#Ridgway" target="ref_fr">Ridgway</a> 1903
 	<i><a href="../cit/jourp.html#Proc.Biol.Soc.Wash."
 	target="ref_fr">Proc.Biol.Soc.Wash.</a></i> 16 p.169
-	<!--T.L. Isla San Benedicto, Islas de Revillagigedo, Colima, MEX, TLMEX --></li>
+	<div class="tooltip">TL
+	 	<span class="tooltiptext">T.L. Isla San Benedicto, Islas de Revillagigedo, Colima, MEX, TLMEX</span>
+	</div></li>
+
 
 	<li>Salpinctes obsoletus fasciatus <a href="../bio/bios.html#Salvin"
 	target="ref_fr">Salvin</a> &amp; <a href="../bio/biog.html#Godman"
@@ -436,7 +466,11 @@ p.4,note
 	target="ref_fr">Ridgway</a> 1876 <i><a
 	href="../cit/jourb.html#Bull.U.S.Geol.Geogr.Surv.Terr."
 	target="ref_fr">Bull.U.S.Geol.Geogr.Surv.Terr.(2)</a></i> 2 p.185
-	<!-- T.L. Isla Guadalupe Baja CA; TLMEX --> </li>
+	<!-- T.L. Isla Guadalupe Baja CA; TLMEX --> 
+	<div class="tooltip">TL
+	 	<span class="tooltiptext">T.L. Isla Guadalupe Baja CA; TLMEX</span>
+	</div></li>
+
 
 	<li>Salpinctes obsoletus guttatus <a href="../bio/bios.html#Salvin"
 	target="ref_fr">Salvin</a> &amp; <a href="../bio/biog.html#Godman"
@@ -453,13 +487,19 @@ p.4,note
 	target="ref_fr">Exped.RockyMt.[James]Phila.ed.</a></i> 2["1823"]
 	p.4,note
 	<a href="../cit/joure.html#Exped.RockyMt.Date" target="ref_fr">Citation</a>
-	<!-- T.L. Near junction of Plum Creek and South Platte River, Douglas Co. CO; TLCO --></li>
+	<div class="tooltip">TL
+	 	<span class="tooltiptext">T.L. Near junction of Plum Creek and South Platte River, Douglas Co. CO; TLCO</span>
+	</div></li>
+
 
 	<li>Salpinctes obsoletus tenuirostris <a href="../bio/biov.html#VanRossem"
 	target="ref_fr">Van Rossem</a> 1943 <i><a
 	href="../cit/jourc.html#Condor"
 	target="ref_fr">Condor</a> </i> 45 p.236
-	<!-- T.L. West Isla San Benito, Baja CA, TLMEX --></li>
+	<div class="tooltip">TL
+	 	<span class="tooltiptext">T.L. West Isla San Benito, Baja CA, TLMEX</span>
+	</div></li>
+
 
 	</small></ul>
 
@@ -493,19 +533,25 @@ target="ref_fr">Zool.Ill.(2)</a></i> 1 pl.11</li>
 	href="../bio/biop.html#Phillips,AR" target="ref_fr">Phillips,AR</a>
 	1986 <i><a href="../cit/jourk.html#KnownBirdsNorthMiddleAmerica"
 	target="ref_fr">KnownBirdsNorthMiddleAmerica</a></i> 1 p.170
-	<!-- T.L. La Laguna, Baja Mexico; TLMEX --></li>
+	<div class="tooltip">TL
+		<span class="tooltiptext">T.L. La Laguna, Baja Mexico; TLMEX  </span>
+	</div></li>
 
 	<li>Catherpes mexicanus griseus <a 
 	href="../bio/bioa.html#Aldrich" target="ref_fr">Aldrich</a> 1946 <i><a
 	href="../cit/jourp.html#Proc.Biol.Soc.Wash." 
 	target="ref_fr">Proc.Biol.Soc.Wash.</a></i> 59 p.131
-	<!--T.L. Logy Creek, Yakima Indian Reservation, Yakima Co., WA; TLWA --></li>
+	<div class="tooltip">TL
+		<span class="tooltiptext"> T.L. Logy Creek, Yakima Indian Reservation, Yakima Co., WA; TLWA </span>
+	</div></li>
 
 	<li>Catherpes mexicanus meliphonus <a href="../bio/bioo.html#Oberholser"
 	target="ref_fr">Oberholser</a> 1930 <i><a
 	href="../cit/jours.html#Sci.Pub.ClevelandMus.Nat.Hist."
 	target="ref_fr">Sci.Pub.ClevelandMus.Nat.Hist.</a></i> 1 no.4 p.95
-	<!-- T.L. Alamos, Sonora, Mexico; TLMEX --></li>
+	<div class="tooltip">TL
+		<span class="tooltiptext">  T.L. Alamos, Sonora, Mexico; TLMEX </span>
+	</div></li>
 
 	<li>Catherpes mexicanus mexicanus (<a href="../bio/bios.html#Swainson"
 	target="ref_fr">Swainson</a>) 1829 <i><a
@@ -517,13 +563,17 @@ target="ref_fr">Zool.Ill.(2)</a></i> 1 pl.11</li>
 	href="../bio/biop.html#Phillips,AR" target="ref_fr">Phillips,AR</a>
 	1986 <i><a href="../cit/jourk.html#KnownBirdsNorthMiddleAmerica"
 	target="ref_fr">KnownBirdsNorthMiddleAmerica</a></i> 1 p.169
-	<!-- T.L. Green River, WY TLWY --></li>
+	<div class="tooltip">TL
+		<span class="tooltiptext">  T.L. Green River, WY TLWY </span>
+	</div></li>
 
 	<li>Catherpes mexicanus punctulatus <a href="../bio/bior.html#Ridgway"
 	target="ref_fr">Ridgway</a> 1882 <i><a
 	href="../cit/jourp.html#Proc.U.S.Natl.Mus."
 	target="ref_fr">Proc.U.S.Natl.Mus.</a></i> 5 no.285 p.343
-	<!-- T.L. Forest Hill, Placer Co., CA; TLCA --> </li>
+	<div class="tooltip">TL
+		<span class="tooltiptext">  T.L. Forest Hill, Placer Co., CA; TLCA </span>
+	</div></li>
 
 	</small></ul>
 
@@ -781,12 +831,17 @@ target="ref_fr">Citation</a></li>
 	target="ref_fr">Swarth</a>)
 	1917 <i><a href="../cit/joura.html#Auk" target="ref_fr">Auk</a></i> 34 p.310
 	<!-- T.L. Grizzly Isl., Solano Co., CA., TLCA --> </li>
+	<div class="tooltip">TL
+		<span class="tooltiptext"> T.L. Grizzly Isl., Solano Co., CA., TLCA   </span>
+	</div></li>
 
 	<li>Cistothorus palustris browningi <a
 	href="../bio/bior.html#Rea" target="ref_fr">Rea</a>
 	1986 <i><a href="../cit/jourk.html#KnownBirdsNorthMiddleAmerica"
 	target="ref_fr">KnownBirdsNorthMiddleAmerica</a></i> 1 p.114
-	<!-- T.L. Pitt Meadows, BC TLBCCAN --></li>
+	<div class="tooltip">TL
+		<span class="tooltiptext"> T.L. Pitt Meadows, BC TLBCCAN  </span> 
+	</div></li>
 
 	<li>Cistothorus palustris clarkae <a href="../bio/biou.html#Unitt"
 	target="ref_fr">Unitt</a>; <a href="../bio/biom.html#Messer"
@@ -1899,12 +1954,16 @@ target="ref_fr">Syst.Nat.ed.10</a></i> p.188</li>
 	href="../bio/biob.html#Brooks,WE"
 	target="ref_fr">Brooks,WE</a> 1872 <i><a
 	href="../cit/jourj.html#J.Asiat.Soc.Bengal"
-	target="ref_fr">J.Asiat.Soc.Bengal</a></i> 41 pt2 no.4 p.328</li>
+	target="ref_fr">J.Asiat.Soc.Bengal</a></i> 41 Pt2 no.4 p.328
+	<a href="https://www.biodiversitylibrary.org/item/114229#page/338/mode/1up" 
+	target=new> O.D. p.328 BHL image</a></li>
 
 	<li>Troglodytes troglodytes nipalensis <a href="../bio/biob.html#Blyth"
 	target="ref_fr">Blyth</a> 1845 <i><a
 	href="../cit/jourj.html#J.Asiat.Soc.Bengal"
-	target="ref_fr">J.Asiat.Soc.Bengal</a></i> 14 pt2 no.164 p.589</li>
+	target="ref_fr">J.Asiat.Soc.Bengal</a></i> 14 Pt2 no.164 p.589
+	<a href="https://www.biodiversitylibrary.org/item/123999#page/135/mode/1up" 
+	target=new> O.D. p.589 BHL image</a></li>
 
 	<li>Troglodytes troglodytes ogawae <a href="../bio/bioh.html#Hartert"
 	target="ref_fr">Hartert</a> 1910
@@ -2924,7 +2983,7 @@ p.291</li>
 	99362-0999 </address>
 	<br>
 	
-	Last updated 2021.02.11
+	Last updated 2021.03.06
 <hr>
 	</body>
 	</html>
