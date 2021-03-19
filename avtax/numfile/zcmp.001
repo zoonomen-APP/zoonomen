@@ -301,7 +301,6 @@ Sarkidiornis melanotos
 Cyanochen cyanoptera
 Alopochen aegyptiaca
 Alopochen mauritiana
-Alopochen kervazoi
 Neochen jubata
 Chloephaga melanoptera
 Chloephaga picta
@@ -359,8 +358,6 @@ Spatula cyanoptera tropica
 Spatula discors
 Spatula smithii
 Spatula rhynchotis
-Spatula rhynchotis rhynchotis
-Spatula rhynchotis variegata
 Spatula clypeata
 Mareca strepera
 Mareca strepera couesi
@@ -439,7 +436,6 @@ Aythya valisineria
 Aythya americana
 Aythya ferina
 Aythya australis
-Aythya australis extima
 Aythya innotata
 Aythya baeri
 Aythya nyroca
@@ -1784,7 +1780,6 @@ Hemiprocne mystacea carbonaria
 Hemiprocne mystacea confirmata
 Hemiprocne mystacea macrura
 Hemiprocne mystacea mystacea
-Hemiprocne mystacea mystacea
 Hemiprocne mystacea woodfordiana
 Cypseloides cherriei
 Cypseloides cryptus
@@ -3026,6 +3021,10 @@ Tauraco livingstonii
 Tauraco livingstonii livingstonii
 Tauraco livingstonii reichenowi
 Tauraco schalowi
+Tauraco schalowi chalcolophus
+Tauraco schalowi loitanus
+Tauraco schalowi marungensis
+Tauraco schalowi schalowi
 Tauraco corythaix
 Tauraco corythaix corythaix
 Tauraco corythaix phoebus
@@ -4169,7 +4168,7 @@ Ptilinopus fischeri fischeri
 Ptilinopus fischeri meridionalis
 Ptilinopus jambu
 Ptilinopus subgularis
-Ptilinopus epius
+Ptilinopus gularis
 Ptilinopus mangoliensis
 Ptilinopus leclancheri
 Ptilinopus leclancheri gironieri
@@ -5218,6 +5217,7 @@ Limosa lapponica lapponica
 Limosa lapponica menzbieri
 Limosa lapponica taymyrensis
 Limosa limosa
+Limosa limosa bohaii
 Limosa limosa islandica
 Limosa limosa limosa
 Limosa limosa melanuroides
@@ -5744,20 +5744,20 @@ Eudyptula minor iredalei
 Eudyptula minor minor
 Eudyptula minor novaehollandiae
 Eudyptula minor variabilis
-Eudyptes pachyrhynchus
-Eudyptes robustus
-Eudyptes sclateri
+Spheniscus mendiculus
+Spheniscus humboldti
+Spheniscus magellanicus
+Spheniscus demersus
+Megadyptes antipodes
+Eudyptes chrysolophus
+Eudyptes schlegeli
+Eudyptes moseleyi
 Eudyptes chrysocome
 Eudyptes chrysocome chrysocome
 Eudyptes chrysocome filholi
-Eudyptes moseleyi
-Eudyptes schlegeli
-Eudyptes chrysolophus
-Megadyptes antipodes
-Spheniscus demersus
-Spheniscus magellanicus
-Spheniscus humboldti
-Spheniscus mendiculus
+Eudyptes pachyrhynchus
+Eudyptes robustus
+Eudyptes sclateri
 Oceanites oceanicus
 Oceanites oceanicus chilensis
 Oceanites oceanicus exasperatus
@@ -5929,6 +5929,7 @@ Ardenna carneipes
 Ardenna gravis
 Puffinus nativitatis
 Puffinus puffinus
+Puffinus puffinus canariensis
 Puffinus puffinus puffinus
 Puffinus yelkouan
 Puffinus mauretanicus
@@ -6424,7 +6425,7 @@ Chondrohierax uncinatus mirus
 Chondrohierax uncinatus uncinatus
 Chondrohierax wilsonii
 Pernis apivorus
-Pernis Ptilorhynchus
+Pernis ptilorhynchus
 Pernis ptilorhynchus orientalis
 Pernis ptilorhynchus palawanensis
 Pernis ptilorhynchus philippensis
@@ -6614,7 +6615,7 @@ Harpagus bidentatus bidentatus
 Harpagus bidentatus fasciatus
 Harpagus diodon
 Kaupifalco monogrammicus
-Kaupifalco monogrammicus merid
+Kaupifalco monogrammicus meridionalis
 Kaupifalco monogrammicus monogrammicus
 Micronisus gabar
 Micronisus gabar aequatorius
@@ -7094,6 +7095,240 @@ Phodilus badius saturatus
 Phodilus assimilis
 Phodilus assimilis assimilis
 Phodilus assimilis ripleyi
+Uroglaux dimorpha
+Ninox albifacies
+Ninox albifacies albifacies
+Ninox albifacies rufifacies
+Ninox rufa
+Ninox rufa humeralis
+Ninox rufa meesi
+Ninox rufa queenslandica
+Ninox rufa rufa
+Ninox strenua
+Ninox connivens
+Ninox connivens assimilis
+Ninox connivens connivens
+Ninox connivens peninsularis
+Ninox connivens rufostrigata
+Ninox rudolfi
+Ninox boobook
+Ninox boobook boobook
+Ninox boobook cinnamomina
+Ninox boobook halmaturina
+Ninox boobook lurida
+Ninox boobook moae
+Ninox boobook ocellata
+Ninox boobook pusilla
+Ninox boobook remigialis
+Ninox rotiensis
+Ninox fusca
+Ninox plesseni
+Ninox novaeseelandiae
+Ninox novaeseelandiae albaria
+Ninox novaeseelandiae leucopsis
+Ninox novaeseelandiae novaeseelandiae
+Ninox novaeseelandiae undulata
+Ninox japonica
+Ninox japonica florensis
+Ninox japonica japonica
+Ninox japonica totogo
+Ninox scutulata
+Ninox scutulata borneensis
+Ninox scutulata burmanica
+Ninox scutulata hirsuta
+Ninox scutulata isolata
+Ninox scutulata javanensis
+Ninox scutulata lugubris
+Ninox scutulata palawanensis
+Ninox scutulata rexpimenti
+Ninox scutulata scutulata
+Ninox obscura
+Ninox randi
+Ninox affinis
+Ninox philippensis
+Ninox philippensis centralis
+Ninox philippensis philippensis
+Ninox philippensis ticaoensis
+Ninox spilocephala
+Ninox leventisi
+Ninox reyi
+Ninox rumseyi
+Ninox spilonotus
+Ninox spilonotus fisheri
+Ninox spilonotus spilonotus
+Ninox mindorensis
+Ninox sumbaensis
+Ninox burhani
+Ninox ochracea
+Ninox ios
+Ninox hypogramma
+Ninox hantu
+Ninox squamipila
+Ninox forbesi
+Ninox natalis
+Ninox meeki
+Ninox theomacha
+Ninox theomacha goldii
+Ninox theomacha rosseliana
+Ninox theomacha theomacha
+Ninox punctulata
+Ninox odiosa
+Ninox variegata
+Ninox variegata superior
+Ninox variegata variegata
+Margarobyas lawrencii
+Taenioptynx brodiei
+Taenioptynx brodiei brodiei
+Taenioptynx brodiei pardalotus
+Taenioptynx sylvaticus
+Taenioptynx sylvaticus borneensis
+Taenioptynx sylvaticus sylvaticus
+Micrathene whitneyi
+Micrathene whitneyi graysoni
+Micrathene whitneyi idonea
+Micrathene whitneyi sanfordi
+Micrathene whitneyi whitneyi
+Xenoglaux loweryi
+Aegolius funereus
+Aegolius funereus beickianus
+Aegolius funereus caucasicus
+Aegolius funereus funereus
+Aegolius funereus magnus
+Aegolius funereus pallens
+Aegolius funereus richardsoni
+Aegolius funereus sibiricus
+Aegolius acadicus
+Aegolius acadicus acadicus
+Aegolius acadicus brooksi
+Aegolius ridgwayi
+Aegolius harrisii
+Aegolius harrisii dabbenei
+Aegolius harrisii harrisii
+Aegolius harrisii iheringi
+Athene cunicularia
+Athene cunicularia amaura
+Athene cunicularia boliviana
+Athene cunicularia brachyptera
+Athene cunicularia carrikeri
+Athene cunicularia cunicularia
+Athene cunicularia floridana
+Athene cunicularia grallaria
+Athene cunicularia guadeloupensis
+Athene cunicularia guantanamensis
+Athene cunicularia hypugaea
+Athene cunicularia juninensis
+Athene cunicularia minor
+Athene cunicularia nanodes
+Athene cunicularia partridgei
+Athene cunicularia pichinchae
+Athene cunicularia rostrata
+Athene cunicularia tolimae
+Athene cunicularia troglodytes
+Athene brama
+Athene brama brama
+Athene brama indica
+Athene brama mayri
+Athene brama pulchra
+Athene brama ultra
+Athene noctua
+Athene noctua bactriana
+Athene noctua glaux
+Athene noctua impasta
+Athene noctua indigena
+Athene noctua lilith
+Athene noctua ludlowi
+Athene noctua noctua
+Athene noctua orientalis
+Athene noctua plumipes
+Athene noctua saharae
+Athene noctua somaliensis
+Athene noctua spilogastra
+Athene noctua vidalii
+Athene superciliaris
+Athene blewitti
+Athene jacquinoti
+Athene jacquinoti eichhorni
+Athene jacquinoti floridae
+Athene jacquinoti granti
+Athene jacquinoti jacquinoti
+Athene jacquinoti malaitae
+Athene jacquinoti mono
+Athene jacquinoti roseoaxillaris
+Surnia ulula
+Surnia ulula caparoch
+Surnia ulula tianschanica
+Surnia ulula ulula
+Glaucidium passerinum
+Glaucidium passerinum orientale
+Glaucidium passerinum passerinum
+Glaucidium perlatum
+Glaucidium perlatum licua
+Glaucidium perlatum perlatum
+Glaucidium tephronotum
+Glaucidium tephronotum medje
+Glaucidium tephronotum pycrafti
+Glaucidium tephronotum tephronotum
+Glaucidium sjostedti
+Glaucidium cuculoides
+Glaucidium cuculoides austerum
+Glaucidium cuculoides bruegeli
+Glaucidium cuculoides cuculoides
+Glaucidium cuculoides deignani
+Glaucidium cuculoides delacouri
+Glaucidium cuculoides persimile
+Glaucidium cuculoides rufescens
+Glaucidium cuculoides whiteleyi
+Glaucidium castanopterum
+Glaucidium radiatum
+Glaucidium radiatum malabaricum
+Glaucidium radiatum radiatum
+Glaucidium castanotum
+Glaucidium capense
+Glaucidium capense capense
+Glaucidium capense castaneum
+Glaucidium capense etchecopari
+Glaucidium capense ngamiense
+Glaucidium capense scheffleri
+Glaucidium albertinum
+Glaucidium californicum
+Glaucidium californicum californicum
+Glaucidium californicum grinnelli
+Glaucidium californicum pinicola
+Glaucidium californicum swarthi
+Glaucidium gnoma
+Glaucidium hoskinsii
+Glaucidium cobanense
+Glaucidium costaricanum
+Glaucidium nubicola
+Glaucidium jardinii
+Glaucidium bolivianum
+Glaucidium palmarum
+Glaucidium sanchezi
+Glaucidium griseiceps
+Glaucidium parkeri
+Glaucidium hardyi
+Glaucidium minutissimum
+Glaucidium mooreorum
+Glaucidium brasilianum
+Glaucidium brasilianum brasilianum
+Glaucidium brasilianum cactorum
+Glaucidium brasilianum duidae
+Glaucidium brasilianum intermedium
+Glaucidium brasilianum margaritae
+Glaucidium brasilianum medianum
+Glaucidium brasilianum olivaceum
+Glaucidium brasilianum pallens
+Glaucidium brasilianum phaloenoides
+Glaucidium brasilianum ridgwayi
+Glaucidium brasilianum stranecki
+Glaucidium brasilianum tucumanum
+Glaucidium brasilianum ucayalae
+Glaucidium peruanum
+Glaucidium nana
+Glaucidium siju
+Glaucidium siju siju
+Glaucidium siju turquinense
+Glaucidium siju vittatum
 Otus gurneyi
 Otus sagittatus
 Otus rufescens
@@ -7115,11 +7350,79 @@ Otus spilocephalus siamensis
 Otus spilocephalus spilocephalus
 Otus spilocephalus vandewateri
 Otus spilocephalus vulpes
+Otus angelinae
+Otus mirus
+Otus longicornis
+Otus mindorensis
+Otus hartlaubi
+Otus madagascariensis
+Otus rutilus
+Otus mayottensis
+Otus pauliani
+Otus capnodes
+Otus moheliensis
+Otus pembaensis
+Otus scops
+Otus scops cycladum
+Otus scops mallorcae
+Otus scops pulchellus
+Otus scops scops
+Otus scops turanicus
+Otus cyprius
+Otus brucei
+Otus brucei brucei
+Otus brucei exiguus
+Otus brucei obsoletus
+Otus brucei semenowi
+Otus pamelae
+Otus senegalensis
+Otus senegalensis nivosus
+Otus senegalensis senegalensis
+Otus feae
+Otus socotranus
+Otus sunia
+Otus sunia distans
+Otus sunia japonicus
+Otus sunia leggei
+Otus sunia malayanus
+Otus sunia modestus
+Otus sunia nicobaricus
+Otus sunia rufipennis
+Otus sunia stictonotus
+Otus sunia sunia
+Otus elegans
+Otus elegans botelensis
+Otus elegans calayensis
+Otus elegans elegans
+Otus elegans interpositus
+Otus magicus
+Otus magicus albiventris
+Otus magicus leucospilus
+Otus magicus magicus
+Otus magicus morotensis
+Otus magicus obira
+Otus magicus tempestatis
+Otus sulaensis
+Otus beccarii
+Otus manadensis
+Otus manadensis kalidupae
+Otus manadensis manadensis
+Otus manadensis mendeni
+Otus siaoensis
+Otus collari
+Otus mantananensis
+Otus mantananensis cuyensis
+Otus mantananensis mantananensis
+Otus mantananensis romblonis
+Otus mantananensis sibutuensis
+Otus insularis
+Otus alius
+Otus umbra
+Otus enganensis
+Otus mentawi
 Otus brookii
 Otus brookii brookii
 Otus brookii solokensis
-Otus angelinae
-Otus mentawi
 Otus bakkamoena
 Otus bakkamoena bakkamoena
 Otus bakkamoena deserticolor
@@ -7139,161 +7442,55 @@ Otus lempiji
 Otus lempiji kangeanus
 Otus lempiji lempiji
 Otus lempiji lemurum
-Otus fuliginosus
 Otus megalotis
-Otus everetti
 Otus nigrorum
+Otus everetti
+Otus fuliginosus
 Otus silvicola
-Otus mirus
-Otus longicornis
-Otus mindorensis
-Otus brucei
-Otus brucei brucei
-Otus brucei exiguus
-Otus brucei obsoletus
-Otus brucei semenowi
-Otus senegalensis
-Otus senegalensis feae
-Otus senegalensis nivosus
-Otus senegalensis senegalensis
-Otus pamelae
-Otus scops
-Otus scops cycladum
-Otus scops mallorcae
-Otus scops pulchellus
-Otus scops scops
-Otus scops turanicus
-Otus cyprius
-Otus sunia
-Otus sunia distans
-Otus sunia japonicus
-Otus sunia leggei
-Otus sunia malayanus
-Otus sunia modestus
-Otus sunia nicobaricus
-Otus sunia rufipennis
-Otus sunia stictonotus
-Otus sunia sunia
-Otus socotranus
-Otus magicus
-Otus magicus albiventris
-Otus magicus leucospilus
-Otus magicus magicus
-Otus magicus morotensis
-Otus magicus obira
-Otus magicus tempestatis
 Otus jolandae
-Otus sulaensis
-Otus siaoensis
-Otus mantananensis
-Otus mantananensis cuyensis
-Otus mantananensis mantananensis
-Otus mantananensis romblonis
-Otus mantananensis sibutuensis
-Otus elegans
-Otus elegans botelensis
-Otus elegans calayensis
-Otus elegans elegans
-Otus elegans interpositus
-Otus manadensis
-Otus manadensis kalidupae
-Otus manadensis manadensis
-Otus manadensis mendeni
-Otus collari
-Otus beccarii
-Otus insularis
-Otus umbra
-Otus enganensis
-Otus alius
-Otus pembaensis
-Otus pauliani
-Otus capnodes
-Otus moheliensis
-Otus mayottensis
-Otus madagascariensis
-Otus rutilus
-Otus hartlaubi
-Psiloscops flammeolus
-Megascops asio
-Megascops asio asio
-Megascops asio floridanus
-Megascops asio hasbroucki
-Megascops asio maxwelliae
-Megascops asio mccallii
-Megascops kennicottii
-Megascops kennicottii aikeni
-Megascops kennicottii bendirei
-Megascops kennicottii cardonensis
-Megascops kennicottii kennicottii
-Megascops kennicottii macfarlanei
-Megascops kennicottii suttoni
-Megascops kennicottii vinaceus
-Megascops kennicottii xantusi
-Megascops kennicottii yumanensis
-Megascops seductus
-Megascops cooperi
-Megascops cooperi cooperi
-Megascops cooperi lambi
-Megascops trichopsis
-Megascops trichopsis aspersus
-Megascops trichopsis mesamericanus
-Megascops trichopsis trichopsis
-Megascops choliba
-Megascops choliba choliba
-Megascops choliba cruciger
-Megascops choliba decussatus
-Megascops choliba duidae
-Megascops choliba luctisonus
-Megascops choliba margaritae
-Megascops choliba surutus
-Megascops choliba uruguaii
-Megascops choliba wetmorei
-Megascops roboratus
-Megascops roboratus pacificus
-Megascops roboratus roboratus
-Megascops koepckeae
-Megascops koepckeae hockingi
-Megascops koepckeae koepckeae
-Megascops clarkii
-Megascops barbarus
-Megascops ingens
-Megascops ingens colombianus
-Megascops ingens ingens
-Megascops ingens venezuelanus
-Megascops petersoni
-Megascops marshalli
-Megascops watsonii
-Megascops watsonii usta
-Megascops watsonii watsonii
-Megascops guatemalae
-Megascops guatemalae cassini
-Megascops guatemalae dacrysistactus
-Megascops guatemalae fuscus
-Megascops guatemalae guatemalae
-Megascops guatemalae hastatus
-Megascops vermiculatus
-Megascops roraimae
-Megascops roraimae napensis
-Megascops roraimae pallidus
-Megascops roraimae roraimae
-Megascops centralis
-Megascops hoyi
-Megascops atricapilla
-Megascops sanctaecatarinae
-Megascops nudipes
-Megascops nudipes newtoni
-Megascops nudipes nudipes
-Megascops albogularis
-Megascops albogularis albogularis
-Megascops albogularis macabrus
-Megascops albogularis meridensis
-Megascops albogularis obscurus
-Megascops albogularis remotus
-Megascops gilesi
-Pyrroglaux podargina
-Margarobyas lawrencii
+Otus podarginus
 Ptilopsis leucotis
 Ptilopsis granti
+Pseudoscops grammicus
+Asio clamator
+Asio clamator clamator
+Asio clamator forbesi
+Asio clamator midas
+Asio clamator oberi
+Asio otus
+Asio otus canariensis
+Asio otus otus
+Asio otus tuftsi
+Asio otus wilsonianus
+Asio abyssinicus
+Asio abyssinicus abyssinicus
+Asio abyssinicus graueri
+Asio madagascariensis
+Asio stygius
+Asio stygius barberoi
+Asio stygius lambi
+Asio stygius noctipetens
+Asio stygius robustus
+Asio stygius siguapa
+Asio stygius stygius
+Asio flammeus
+Asio flammeus bogotensis
+Asio flammeus cubensis
+Asio flammeus domingensis
+Asio flammeus flammeus
+Asio flammeus galapagoensis
+Asio flammeus pallidicaudus
+Asio flammeus ponapensis
+Asio flammeus portoricensis
+Asio flammeus sandwichensis
+Asio flammeus sanfordi
+Asio flammeus suinda
+Asio capensis
+Asio capensis capensis
+Asio capensis hova
+Asio capensis tingitanus
+Asio solomonensis
+Jubula lettii
 Bubo scandiacus
 Bubo virginianus
 Bubo virginianus algistus
@@ -7335,21 +7532,20 @@ Bubo capensis
 Bubo capensis capensis
 Bubo capensis dillonii
 Bubo capensis mackinderi
-Bubo africanus
-Bubo africanus africanus
-Bubo africanus milesi
+Bubo milesi
 Bubo cinerascens
+Bubo africanus
 Bubo poensis
 Bubo vosseleri
-Bubo nipalensis
-Bubo nipalensis blighi
-Bubo nipalensis nipalensis
+Bubo lacteus
+Bubo shelleyi
 Bubo sumatranus
 Bubo sumatranus strepitans
 Bubo sumatranus sumatranus
 Bubo sumatranus tenuifasciatus
-Bubo shelleyi
-Bubo lacteus
+Bubo nipalensis
+Bubo nipalensis blighi
+Bubo nipalensis nipalensis
 Bubo coromandus
 Bubo coromandus coromandus
 Bubo coromandus klossii
@@ -7360,6 +7556,9 @@ Bubo philippensis philippensis
 Bubo blakistoni
 Bubo blakistoni blakistoni
 Bubo blakistoni doerriesi
+Scotopelia peli
+Scotopelia ussheri
+Scotopelia bouvieri
 Ketupa zeylonensis
 Ketupa zeylonensis leschenaulti
 Ketupa zeylonensis orientalis
@@ -7369,9 +7568,98 @@ Ketupa flavipes
 Ketupa ketupu
 Ketupa ketupu ketupu
 Ketupa ketupu minor
-Scotopelia peli
-Scotopelia ussheri
-Scotopelia bouvieri
+Psiloscops flammeolus
+Gymnasio nudipes
+Gymnasio nudipes newtoni
+Gymnasio nudipes nudipes
+Megascops trichopsis
+Megascops trichopsis aspersus
+Megascops trichopsis mesamericanus
+Megascops trichopsis trichopsis
+Megascops clarkii
+Megascops albogularis
+Megascops albogularis albogularis
+Megascops albogularis macabrus
+Megascops albogularis meridensis
+Megascops albogularis obscurus
+Megascops albogularis remotus
+Megascops choliba
+Megascops choliba choliba
+Megascops choliba cruciger
+Megascops choliba decussatus
+Megascops choliba duidae
+Megascops choliba luctisonus
+Megascops choliba margaritae
+Megascops choliba surutus
+Megascops choliba uruguaii
+Megascops choliba wetmorei
+Megascops barbarus
+Megascops cooperi
+Megascops cooperi cooperi
+Megascops cooperi lambi
+Megascops kennicottii
+Megascops kennicottii aikeni
+Megascops kennicottii bendirei
+Megascops kennicottii cardonensis
+Megascops kennicottii kennicottii
+Megascops kennicottii macfarlanei
+Megascops kennicottii suttoni
+Megascops kennicottii vinaceus
+Megascops kennicottii xantusi
+Megascops kennicottii yumanensis
+Megascops asio
+Megascops asio asio
+Megascops asio floridanus
+Megascops asio hasbroucki
+Megascops asio maxwelliae
+Megascops asio mccallii
+Megascops seductus
+Megascops guatemalae
+Megascops guatemalae cassini
+Megascops guatemalae dacrysistactus
+Megascops guatemalae fuscus
+Megascops guatemalae guatemalae
+Megascops guatemalae hastatus
+Megascops vermiculatus
+Megascops koepckeae
+Megascops koepckeae hockingi
+Megascops koepckeae koepckeae
+Megascops ingens
+Megascops ingens colombianus
+Megascops ingens ingens
+Megascops ingens venezuelanus
+Megascops petersoni
+Megascops marshalli
+Megascops hoyi
+Megascops centralis
+Megascops roraimae
+Megascops roraimae napensis
+Megascops roraimae pallidus
+Megascops roraimae roraimae
+Megascops sanctaecatarinae
+Megascops gilesi
+Megascops roboratus
+Megascops roboratus pacificus
+Megascops roboratus roboratus
+Megascops watsonii
+Megascops watsonii usta
+Megascops watsonii watsonii
+Megascops atricapilla
+Pulsatrix perspicillata
+Pulsatrix perspicillata boliviana
+Pulsatrix perspicillata chapmani
+Pulsatrix perspicillata perspicillata
+Pulsatrix perspicillata pulsatrix
+Pulsatrix perspicillata saturata
+Pulsatrix perspicillata trinitatis
+Pulsatrix koeniswaldiana
+Pulsatrix melanota
+Pulsatrix melanota melanota
+Pulsatrix melanota philoscia
+Lophostrix cristata
+Lophostrix cristata cristata
+Lophostrix cristata stricklandi
+Lophostrix cristata wedeli
 Strix seloputo
 Strix seloputo baweana
 Strix seloputo seloputo
@@ -7408,8 +7696,8 @@ Strix nivicolum
 Strix nivicolum ma
 Strix nivicolum nivicolum
 Strix nivicolum yamadae
-Strix butleri
 Strix hadorami
+Strix butleri
 Strix occidentalis
 Strix occidentalis caurina
 Strix occidentalis juanaphillipsae
@@ -7451,302 +7739,14 @@ Strix virgata squamulata
 Strix virgata superciliaris
 Strix virgata tamaulipensis
 Strix virgata virgata
-Strix albitarsis
-Strix albitarsis albitarsis
-Strix albitarsis opaca
-Strix albitarsis tertia
 Strix nigrolineata
 Strix huhula
 Strix huhula albomarginata
 Strix huhula huhula
-Jubula lettii
-Lophostrix cristata
-Lophostrix cristata cristata
-Lophostrix cristata stricklandi
-Lophostrix cristata wedeli
-Pulsatrix perspicillata
-Pulsatrix perspicillata boliviana
-Pulsatrix perspicillata chapmani
-Pulsatrix perspicillata perspicillata
-Pulsatrix perspicillata pulsatrix
-Pulsatrix perspicillata saturata
-Pulsatrix perspicillata trinitatis
-Pulsatrix koeniswaldiana
-Pulsatrix melanota
-Pulsatrix melanota melanota
-Pulsatrix melanota philoscia
-Surnia ulula
-Surnia ulula caparoch
-Surnia ulula tianschanica
-Surnia ulula ulula
-Glaucidium passerinum
-Glaucidium passerinum orientale
-Glaucidium passerinum passerinum
-Glaucidium brodiei
-Glaucidium brodiei brodiei
-Glaucidium brodiei pardalotum
-Glaucidium sylvaticum
-Glaucidium sylvaticum borneense
-Glaucidium sylvaticum sylvaticum
-Glaucidium perlatum
-Glaucidium perlatum licua
-Glaucidium perlatum perlatum
-Glaucidium californicum
-Glaucidium californicum californicum
-Glaucidium californicum grinnelli
-Glaucidium californicum pinicola
-Glaucidium californicum swarthi
-Glaucidium gnoma
-Glaucidium hoskinsii
-Glaucidium cobanense
-Glaucidium costaricanum
-Glaucidium jardinii
-Glaucidium nubicola
-Glaucidium bolivianum
-Glaucidium palmarum
-Glaucidium sanchezi
-Glaucidium mooreorum
-Glaucidium griseiceps
-Glaucidium parkeri
-Glaucidium hardyi
-Glaucidium minutissimum
-Glaucidium brasilianum
-Glaucidium brasilianum brasilianum
-Glaucidium brasilianum cactorum
-Glaucidium brasilianum duidae
-Glaucidium brasilianum intermedium
-Glaucidium brasilianum margaritae
-Glaucidium brasilianum medianum
-Glaucidium brasilianum olivaceum
-Glaucidium brasilianum pallens
-Glaucidium brasilianum phaloenoides
-Glaucidium brasilianum ridgwayi
-Glaucidium brasilianum stranecki
-Glaucidium brasilianum tucumanum
-Glaucidium brasilianum ucayalae
-Glaucidium peruanum
-Glaucidium nana
-Glaucidium siju
-Glaucidium siju siju
-Glaucidium siju turquinense
-Glaucidium siju vittatum
-Glaucidium tephronotum
-Glaucidium tephronotum medje
-Glaucidium tephronotum pycrafti
-Glaucidium tephronotum tephronotum
-Glaucidium sjostedti
-Glaucidium cuculoides
-Glaucidium cuculoides austerum
-Glaucidium cuculoides bruegeli
-Glaucidium cuculoides cuculoides
-Glaucidium cuculoides deignani
-Glaucidium cuculoides delacouri
-Glaucidium cuculoides persimile
-Glaucidium cuculoides rufescens
-Glaucidium cuculoides whiteleyi
-Glaucidium castanopterum
-Glaucidium radiatum
-Glaucidium radiatum malabaricum
-Glaucidium radiatum radiatum
-Glaucidium castanotum
-Glaucidium capense
-Glaucidium capense capense
-Glaucidium capense castaneum
-Glaucidium capense etchecopari
-Glaucidium capense ngamiense
-Glaucidium capense scheffleri
-Glaucidium albertinum
-Xenoglaux loweryi
-Micrathene whitneyi
-Micrathene whitneyi graysoni
-Micrathene whitneyi idonea
-Micrathene whitneyi sanfordi
-Micrathene whitneyi whitneyi
-Athene noctua
-Athene noctua bactriana
-Athene noctua glaux
-Athene noctua impasta
-Athene noctua indigena
-Athene noctua lilith
-Athene noctua ludlowi
-Athene noctua noctua
-Athene noctua orientalis
-Athene noctua plumipes
-Athene noctua saharae
-Athene noctua somaliensis
-Athene noctua spilogastra
-Athene noctua vidalii
-Athene brama
-Athene brama brama
-Athene brama indica
-Athene brama mayri
-Athene brama pulchra
-Athene brama ultra
-Athene cunicularia
-Athene cunicularia amaura
-Athene cunicularia boliviana
-Athene cunicularia brachyptera
-Athene cunicularia carrikeri
-Athene cunicularia cunicularia
-Athene cunicularia floridana
-Athene cunicularia grallaria
-Athene cunicularia guadeloupensis
-Athene cunicularia guantanamensis
-Athene cunicularia hypugaea
-Athene cunicularia juninensis
-Athene cunicularia minor
-Athene cunicularia nanodes
-Athene cunicularia partridgei
-Athene cunicularia pichinchae
-Athene cunicularia rostrata
-Athene cunicularia tolimae
-Athene cunicularia troglodytes
-Athene superciliaris
-Athene blewitti
-Aegolius funereus
-Aegolius funereus beickianus
-Aegolius funereus caucasicus
-Aegolius funereus funereus
-Aegolius funereus magnus
-Aegolius funereus pallens
-Aegolius funereus richardsoni
-Aegolius funereus sibiricus
-Aegolius acadicus
-Aegolius acadicus acadicus
-Aegolius acadicus brooksi
-Aegolius ridgwayi
-Aegolius harrisii
-Aegolius harrisii dabbenei
-Aegolius harrisii harrisii
-Aegolius harrisii iheringi
-Ninox rufa
-Ninox rufa humeralis
-Ninox rufa meesi
-Ninox rufa queenslandica
-Ninox rufa rufa
-Ninox burhani
-Ninox strenua
-Ninox connivens
-Ninox connivens assimilis
-Ninox connivens connivens
-Ninox connivens peninsularis
-Ninox connivens rufostrigata
-Ninox rudolfi
-Ninox boobook
-Ninox boobook boobook
-Ninox boobook cinnamomina
-Ninox boobook halmaturina
-Ninox boobook lurida
-Ninox boobook moae
-Ninox boobook ocellata
-Ninox boobook pusilla
-Ninox boobook remigialis
-Ninox rotiensis
-Ninox fusca
-Ninox plesseni
-Ninox novaeseelandiae
-Ninox novaeseelandiae albaria
-Ninox novaeseelandiae leucopsis
-Ninox novaeseelandiae novaeseelandiae
-Ninox novaeseelandiae undulata
-Ninox scutulata
-Ninox scutulata borneensis
-Ninox scutulata burmanica
-Ninox scutulata hirsuta
-Ninox scutulata isolata
-Ninox scutulata javanensis
-Ninox scutulata lugubris
-Ninox scutulata palawanensis
-Ninox scutulata rexpimenti
-Ninox scutulata scutulata
-Ninox japonica
-Ninox japonica florensis
-Ninox japonica japonica
-Ninox japonica totogo
-Ninox randi
-Ninox obscura
-Ninox affinis
-Ninox philippensis
-Ninox philippensis centralis
-Ninox philippensis philippensis
-Ninox philippensis ticaoensis
-Ninox spilocephala
-Ninox mindorensis
-Ninox spilonotus
-Ninox spilonotus fisheri
-Ninox spilonotus spilonotus
-Ninox rumseyi
-Ninox leventisi
-Ninox reyi
-Ninox ochracea
-Ninox ios
-Ninox squamipila
-Ninox hantu
-Ninox hypogramma
-Ninox forbesi
-Ninox natalis
-Ninox theomacha
-Ninox theomacha goldii
-Ninox theomacha rosseliana
-Ninox theomacha theomacha
-Ninox meeki
-Ninox punctulata
-Ninox variegata
-Ninox variegata superior
-Ninox variegata variegata
-Ninox odiosa
-Ninox jacquinoti
-Ninox jacquinoti eichhorni
-Ninox jacquinoti floridae
-Ninox jacquinoti granti
-Ninox jacquinoti jacquinoti
-Ninox jacquinoti malaitae
-Ninox jacquinoti mono
-Ninox jacquinoti roseoaxillaris
-Ninox sumbaensis
-Uroglaux dimorpha
-Sceloglaux albifacies
-Sceloglaux albifacies albifacies
-Sceloglaux albifacies rufifacies
-Pseudoscops grammicus
-Pseudoscops clamator
-Pseudoscops clamator clamator
-Pseudoscops clamator forbesi
-Pseudoscops clamator midas
-Pseudoscops clamator oberi
-Nesasio solomonensis
-Asio stygius
-Asio stygius barberoi
-Asio stygius lambi
-Asio stygius noctipetens
-Asio stygius robustus
-Asio stygius siguapa
-Asio stygius stygius
-Asio otus
-Asio otus canariensis
-Asio otus otus
-Asio otus tuftsi
-Asio otus wilsonianus
-Asio abyssinicus
-Asio abyssinicus abyssinicus
-Asio abyssinicus graueri
-Asio madagascariensis
-Asio flammeus
-Asio flammeus bogotensis
-Asio flammeus cubensis
-Asio flammeus domingensis
-Asio flammeus flammeus
-Asio flammeus galapagoensis
-Asio flammeus pallidicaudus
-Asio flammeus ponapensis
-Asio flammeus portoricensis
-Asio flammeus sandwichensis
-Asio flammeus sanfordi
-Asio flammeus suinda
-Asio capensis
-Asio capensis capensis
-Asio capensis hova
-Asio capensis tingitanus
+Strix albitarsis
+Strix albitarsis albitarsis
+Strix albitarsis opaca
+Strix albitarsis tertia
 Colius striatus
 Colius striatus affinis
 Colius striatus berlepschi
@@ -8413,6 +8413,7 @@ Ceyx lepidus
 Ceyx lepidus lepidus
 Ceyx lepidus uropygialis
 Ceyx margarethae
+Ceyx wallacii
 Ceyx wallacii
 Ceyx cajeli
 Ceyx solitarius
@@ -9361,9 +9362,9 @@ Campethera cailliautii nyansae
 Campethera cailliautii permista
 Campethera maculosa
 Campethera tullbergi
-Campethera tullbergi hausburgi
-Campethera tullbergi tullbergi
 Campethera taeniolaema
+Campethera taeniolaema hausburgi
+Campethera taeniolaema taeniolaema
 Yungipicus temminckii
 Yungipicus nanus
 Yungipicus nanus cinereigula
@@ -9993,9 +9994,10 @@ Phalcoboenus carunculatus
 Phalcoboenus megalopterus
 Phalcoboenus albogularis
 Phalcoboenus australis
-Caracara cheriway
 Caracara lutosa
 Caracara plancus
+Caracara plancus cheriway
+Caracara plancus plancus
 Milvago chimachima
 Milvago chimachima chimachima
 Milvago chimachima cordata
@@ -10173,8 +10175,8 @@ Nestor productus
 Nymphicus hollandicus
 Calyptorhynchus banksii
 Calyptorhynchus banksii banksii
+Calyptorhynchus banksii escondidus
 Calyptorhynchus banksii graptogyne
-Calyptorhynchus banksii macrorhynchus
 Calyptorhynchus banksii naso
 Calyptorhynchus banksii samueli
 Calyptorhynchus lathami
@@ -10570,10 +10572,6 @@ Ara glaucogularis
 Ara severus
 Ara rubrogenys
 Ara tricolor
-Ara macao
-Ara macao cyanopterus
-Ara macao macao
-Ara chloropterus
 Ara militaris
 Ara militaris bolivianus
 Ara militaris mexicanus
@@ -10581,6 +10579,10 @@ Ara militaris militaris
 Ara ambiguus
 Ara ambiguus ambiguus
 Ara ambiguus guayaquilensis
+Ara macao
+Ara macao cyanopterus
+Ara macao macao
+Ara chloropterus
 Leptosittaca branickii
 Ognorhynchus icterotis
 Guaruba guarouba
@@ -11258,13 +11260,12 @@ Pitta versicolor versicolor
 Pitta maxima
 Pitta maxima maxima
 Pitta maxima morotaiensis
+Pitta concinna
 Pitta elegans
-Pitta elegans concinna
 Pitta elegans elegans
-Pitta elegans hutzi
 Pitta elegans maria
-Pitta elegans vigorsii
 Pitta elegans virginalis
+Pitta vigorsii
 Pitta anerythra
 Pitta anerythra anerythra
 Pitta anerythra nigrifrons
@@ -11656,7 +11657,8 @@ Lepidocolaptes albolineatus
 Lepidocolaptes duidae
 Lepidocolaptes fatimalimae
 Lepidocolaptes fuscicapillus
-Lepidocolaptes layardi
+Lepidocolaptes fuscicapillus fuscicapillus
+Lepidocolaptes fuscicapillus layardi
 Xenops tenuirostris
 Xenops tenuirostris acutirostris
 Xenops tenuirostris hellmayri
@@ -11869,6 +11871,7 @@ Dendroma rufa cuchiverus
 Dendroma rufa panerythra
 Dendroma rufa riveti
 Dendroma rufa rufa
+Dendroma erythroptera
 Dendroma erythroptera diluvialis
 Dendroma erythroptera erythroptera
 Clibanornis dendrocolaptoides
@@ -12214,8 +12217,8 @@ Synallaxis albilora albilora
 Synallaxis albilora simoni
 Synallaxis maranonica
 Synallaxis hypochondriaca
+Synallaxis chinchipensis
 Synallaxis stictothorax
-Synallaxis stictothorax chinchipensis
 Synallaxis stictothorax maculata
 Synallaxis stictothorax stictothorax
 Synallaxis zimmeri
@@ -12471,9 +12474,9 @@ Formicivora rufa chapmani
 Formicivora rufa rufa
 Formicivora rufa urubambae
 Formicivora grantsaui
-Stymphalornis acutirostris
-Stymphalornis acutirostris acutirostris
-Stymphalornis acutirostris paludicola
+Formicivora acutirostris
+Formicivora acutirostris acutirostris
+Formicivora acutirostris paludicola
 Dichrozona cincta
 Dichrozona cincta cincta
 Dichrozona cincta stellata
@@ -12523,11 +12526,10 @@ Herpsilochmus axillaris aequatorialis
 Herpsilochmus axillaris axillaris
 Herpsilochmus axillaris puncticeps
 Herpsilochmus axillaris senex
+Herpsilochmus frater
+Herpsilochmus frater frater
+Herpsilochmus frater exiguus
 Herpsilochmus rufimarginatus
-Herpsilochmus rufimarginatus exiguus
-Herpsilochmus rufimarginatus frater
-Herpsilochmus rufimarginatus rufimarginatus
-Herpsilochmus rufimarginatus scapularis
 Dysithamnus stictothorax
 Dysithamnus mentalis
 Dysithamnus mentalis aequatorialis
@@ -12915,16 +12917,17 @@ Gymnocichla nudiceps erratilis
 Gymnocichla nudiceps nudiceps
 Gymnocichla nudiceps sanctamartae
 Pyriglena maura
+Pyriglena maura castanoptera
+Pyriglena maura hellmayri
+Pyriglena maura marcapatensis
+Pyriglena maura maura
+Pyriglena maura pacifica
+Pyriglena maura picea
 Pyriglena similis
 Pyriglena leuconota
-Pyriglena leuconota castanoptera
-Pyriglena leuconota hellmayri
 Pyriglena leuconota interposita
 Pyriglena leuconota leuconota
-Pyriglena leuconota marcapatensis
-Pyriglena leuconota pacifica
 Pyriglena leuconota pernambucensis
-Pyriglena leuconota picea
 Pyriglena atra
 Pyriglena leucoptera
 Rhopornis ardesiacus
@@ -12934,17 +12937,17 @@ Percnostola rufifrons minor
 Percnostola rufifrons rufifrons
 Percnostola rufifrons subcristata
 Percnostola arenarum
-Akletos melanoceps
-Akletos goeldii
-Hafferia fortis
-Hafferia fortis fortis
-Hafferia fortis incanescens
-Hafferia immaculata
-Hafferia immaculata concepcion
-Hafferia immaculata immaculata
-Hafferia zeledoni
-Hafferia zeledoni berlepschi
-Hafferia zeledoni zeledoni
+Percnostola melanoceps
+Percnostola goeldii
+Percnostola fortis
+Percnostola fortis fortis
+Percnostola fortis incanescens
+Percnostola immaculata
+Percnostola immaculata concepcion
+Percnostola immaculata immaculata
+Percnostola zeledoni
+Percnostola zeledoni berlepschi
+Percnostola zeledoni zeledoni
 Formicarius colma
 Formicarius colma amazonicus
 Formicarius colma colma
@@ -13114,7 +13117,7 @@ Hylopezus berlepschi
 Hylopezus berlepschi berlepschi
 Hylopezus berlepschi yessupi
 Hylopezus ochroleucus
-Hylopezus nattereri
+Cryptopezus nattereri
 Myrmothera campanisona
 Myrmothera campanisona campanisona
 Myrmothera campanisona dissors
@@ -13262,10 +13265,12 @@ Scytalopus griseicollis griseicollis
 Scytalopus griseicollis morenoi
 Scytalopus canus
 Scytalopus opacus
-Scytalopus opacus androstictus
-Scytalopus opacus opacus
+Scytalopus androstictus
+Scytalopus whitneyi 
 Scytalopus affinis
 Scytalopus altirostris
+Scytalopus frankeae 
+Scytalopus krabbei 
 Scytalopus urubambae
 Scytalopus schulenbergi
 Scytalopus simonsi
@@ -13276,12 +13281,12 @@ Scytalopus superciliaris superciliaris
 Scytalopus magellanicus
 Scytalopus fuscus
 Scytalopus latrans
-Scytalopus latrans intermedius
 Scytalopus latrans latrans
 Scytalopus latrans subcinereus
-Scytalopus gettyae
+Scytalopus intermedius
 Scytalopus macropus
 Scytalopus diamantinensis
+Scytalopus gettyae
 Melanopareia torquata
 Melanopareia torquata rufescens
 Melanopareia torquata torquata
@@ -14082,7 +14087,7 @@ Pyrocephalus obscurus pinicola
 Pyrocephalus obscurus piurae
 Pyrocephalus obscurus saturatus
 Pyrocephalus nanus
-Pyrocephalus dubius
+Pyrocephalus dubiusmp;
 Lessonia rufa
 Lessonia oreas
 Knipolegus striaticeps
@@ -14559,16 +14564,17 @@ Cephalopterus glabricollis
 Cephalopterus penduliger
 Cephalopterus ornatus
 Perissocephalus tricolor
-Tijuca condita
 Lipaugus unirufus
 Lipaugus unirufus castaneotinctus
 Lipaugus unirufus unirufus
-Lipaugus lanioides
 Lipaugus streptophorus
 Lipaugus vociferans
+Lipaugus lanioides
+Lipaugus ater
+Lipaugus conditus
+Lipaugus weberi
 Lipaugus fuscocinereus
 Lipaugus uropygialis
-Lipaugus weberi
 Procnias albus
 Procnias albus albus
 Procnias albus wallacei
@@ -15005,9 +15011,9 @@ Malurus cyaneus elizabethae
 Malurus cyaneus leggei
 Malurus cyaneus samueli
 Malurus splendens
+Malurus splendens callainus
 Malurus splendens emmottorum
 Malurus splendens melanotus
-Malurus splendens callainus
 Malurus splendens splendens
 Malurus coronatus
 Malurus coronatus coronatus
@@ -15050,8 +15056,14 @@ Amytornis merrotsyi
 Amytornis merrotsyi merrotsyi
 Amytornis merrotsyi pedleri
 Amytornis whitei
+Amytornis whitei aenigma
+Amytornis whitei oweni
+Amytornis whitei parvus
+Amytornis whitei whitei
 Amytornis rowleyi
 Amytornis striatus
+Amytornis striatus howei
+Amytornis striatus striatus
 Amytornis goyderi
 Amytornis textilis
 Amytornis textilis macrourus
@@ -15858,6 +15870,7 @@ Cinclosoma castanotum
 Cinclosoma clarum
 Cinclosoma clarum clarum
 Cinclosoma clarum fordianum
+Cinclosoma clarum morgani
 Cinclosoma cinnamomeum
 Cinclosoma cinnamomeum cinnamomeum
 Cinclosoma cinnamomeum tirariense
@@ -16760,12 +16773,13 @@ Pachycephala mentalis obiensis
 Pachycephala mentalis tidorensis
 Pachycephala pectoralis
 Pachycephala pectoralis contempta
-Pachycephala pectoralis fuliginosa
 Pachycephala pectoralis glaucura
 Pachycephala pectoralis pectoralis
 Pachycephala pectoralis xanthoprocta
 Pachycephala pectoralis youngi
-Pachycephala occidentalis
+Pachycephala fuliginosa
+Pachycephala fuliginosa fuliginosa
+Pachycephala fuliginosa occidentalis
 Pachycephala citreogaster
 Pachycephala citreogaster citreogaster
 Pachycephala citreogaster goodsoni
@@ -16880,8 +16894,8 @@ Colluricincla tappenbecki madaraszi
 Colluricincla tappenbecki maeandrina
 Colluricincla tappenbecki tappenbecki
 Colluricincla rufogaster
-Colluricincla rufogaster goodsoni
 Colluricincla rufogaster griseata
+Colluricincla rufogaster normani
 Colluricincla rufogaster rufogaster
 Colluricincla harmonica
 Colluricincla harmonica brunnea
@@ -17418,8 +17432,6 @@ Dicrurus andamanensis
 Dicrurus andamanensis andamanensis
 Dicrurus andamanensis dicruriformis
 Dicrurus sumatranus
-Dicrurus sumatranus sumatranus
-Dicrurus sumatranus viridinitens
 Dicrurus montanus
 Dicrurus bracteatus
 Dicrurus bracteatus amboinensis
@@ -17438,22 +17450,25 @@ Dicrurus hottentottus
 Dicrurus hottentottus banggaiensis
 Dicrurus hottentottus borneensis
 Dicrurus hottentottus brevirostris
-Dicrurus hottentottus cuyensis
 Dicrurus hottentottus faberi
 Dicrurus hottentottus guillemardi
 Dicrurus hottentottus hottentottus
 Dicrurus hottentottus jentincki
 Dicrurus hottentottus leucops
 Dicrurus hottentottus pectoralis
-Dicrurus hottentottus samarensis
-Dicrurus hottentottus striatus
 Dicrurus hottentottus suluensis
+Dicrurus hottentottus termeuleni
+Dicrurus hottentottus viridinitens
 Dicrurus menagei
 Dicrurus palawanensis
+Dicrurus palawanensis cuyensis
+Dicrurus palawanensis palawanensis
 Dicrurus balicassius
 Dicrurus balicassius abraensis
 Dicrurus balicassius balicassius
 Dicrurus balicassius mirabilis
+Dicrurus balicassius samarensis
+Dicrurus balicassius striatus
 Dicrurus densus
 Dicrurus densus bimaensis
 Dicrurus densus densus
@@ -17639,8 +17654,8 @@ Rhipidura superflua
 Rhipidura teysmanni
 Rhipidura teysmanni teysmanni
 Rhipidura teysmanni toradja
-Rhipidura sulaensis
 Rhipidura habibiei 
+Rhipidura sulaensis
 Rhipidura opistherythra
 Rhipidura rufidorsa
 Rhipidura rufidorsa kubuna
@@ -18603,16 +18618,17 @@ Petroica bivittata bivittata
 Petroica bivittata caudata
 Petroica phoenicea
 Petroica polymorpha
+Petroica polymorpha dennisi
+Petroica polymorpha kulambangrae
+Petroica polymorpha polymorpha
+Petroica polymorpha septentrionalis
 Petroica pusilla
 Petroica pusilla ambrynensis
 Petroica pusilla becki
 Petroica pusilla cognata
-Petroica pusilla dennisi
 Petroica pusilla feminina
 Petroica pusilla kleinschmidti
-Petroica pusilla kulambangrae
 Petroica pusilla pusilla
-Petroica pusilla septentrionalis
 Petroica pusilla similis
 Petroica pusilla soror
 Petroica pusilla taveunensis
@@ -19461,6 +19477,7 @@ Calandrella eremica daaroodensis
 Calandrella eremica eremica
 Calandrella cinerea
 Calandrella cinerea cinerea
+Calandrella cinerea rufipecta
 Calandrella cinerea saturatior
 Calandrella cinerea spleniata
 Calandrella cinerea williamsi
@@ -19490,26 +19507,22 @@ Eremalauda dunni dunni
 Eremalauda dunni eremodites
 Alaudala athensis
 Alaudala cheleensis
-Alaudala cheleensis beicki
 Alaudala cheleensis cheleensis
 Alaudala cheleensis kukunoorensis
 Alaudala cheleensis leucophaea
-Alaudala cheleensis seebohmi
 Alaudala cheleensis tuvinica
 Alaudala somalica
 Alaudala somalica megaensis
 Alaudala somalica perconfusa
 Alaudala somalica somalica
 Alaudala rufescens
-Alaudala rufescens aharonii
 Alaudala rufescens apetzii
-Alaudala rufescens heinei
 Alaudala rufescens minor
-Alaudala rufescens nicolli
-Alaudala rufescens persica
-Alaudala rufescens polatzeki
-Alaudala rufescens pseudobaetica
 Alaudala rufescens rufescens
+Alaudala heinei
+Alaudala heinei aharonii
+Alaudala heinei heinei
+Alaudala heinei persica
 Alaudala raytal
 Alaudala raytal adamsi
 Alaudala raytal krishnakumarsinhji
@@ -19532,7 +19545,6 @@ Bleda canicapillus
 Bleda canicapillus canicapillus
 Bleda canicapillus morelorum
 Bleda notatus
-Bleda notatus notatus
 Bleda ugandae
 Atimastillas flavicollis
 Atimastillas flavicollis flavicollis
@@ -19662,13 +19674,15 @@ Alophoixus tephrogenys
 Alophoixus tephrogenys gutturalis
 Alophoixus tephrogenys tephrogenys
 Alophoixus ruficrissus
+Alophoixus ruficrissus fowleri
+Alophoixus ruficrissus meratusensis
+Alophoixus ruficrissus ruficrissus
 Alophoixus bres
 Alophoixus flaveolus
 Alophoixus flaveolus burmanicus
 Alophoixus flaveolus flaveolus
 Alophoixus ochraceus
 Alophoixus ochraceus cambodianus
-Alophoixus ochraceus fowleri
 Alophoixus ochraceus hallae
 Alophoixus ochraceus ochraceus
 Alophoixus ochraceus sacculatus
@@ -19807,7 +19821,6 @@ Poliolophus urostictus philippensis
 Poliolophus urostictus urostictus
 Brachypodius priocephalus
 Brachypodius melanocephalos
-Brachypodius melanocephalos atriceps
 Brachypodius melanocephalos baweanus
 Brachypodius melanocephalos hodiernus
 Brachypodius melanocephalos hyperemnus
@@ -19825,12 +19838,12 @@ Ixodia squamata borneensis
 Ixodia squamata squamata
 Ixodia squamata webberi
 Rubigula flaviventris
-Rubigula flaviventris auratus
+Rubigula flaviventris aurata
 Rubigula flaviventris caecilii
 Rubigula flaviventris elbeli
 Rubigula flaviventris johnsoni
 Rubigula flaviventris flaviventris
-Rubigula flaviventris negatus
+Rubigula flaviventris negata
 Rubigula flaviventris vantynei
 Rubigula flaviventris xanthops
 Rubigula gularis
@@ -19905,7 +19918,7 @@ Pycnonotus goiavier goiavier
 Pycnonotus goiavier jambu
 Pycnonotus goiavier samarensis
 Pycnonotus goiavier suluensis
-Pycnonotus goiavier yourdini
+Pycnonotus goiavier gourdini
 Pycnonotus cafer
 Pycnonotus cafer bengalensis
 Pycnonotus cafer cafer
@@ -20665,7 +20678,6 @@ Phylloscopus sarasinorum
 Phylloscopus sarasinorum nesophilus
 Phylloscopus sarasinorum sarasinorum
 Phylloscopus amoenus
-Phylloscopus emilsalimi 
 Phylloscopus poliocephalus
 Phylloscopus poliocephalus albigularis
 Phylloscopus poliocephalus avicola
@@ -20673,6 +20685,7 @@ Phylloscopus poliocephalus becki
 Phylloscopus poliocephalus bougainvillei
 Phylloscopus poliocephalus ceramensis
 Phylloscopus poliocephalus cyclopum
+Phylloscopus poliocephalus emilsalimi
 Phylloscopus poliocephalus everetti
 Phylloscopus poliocephalus giulianettii
 Phylloscopus poliocephalus hamlini
@@ -20873,7 +20886,6 @@ Locustella caudata caudata
 Locustella caudata malindangensis
 Locustella caudata unicolor
 Locustella castanea
-Locustella castanea castanea
 Locustella musculus
 Locustella portenta 
 Locustella disturbans
@@ -20888,10 +20900,10 @@ Locustella mandelli mandelli
 Locustella mandelli melanorhyncha
 Locustella idonea
 Locustella montis
-Locustella chengi
-Locustella seebohmi
 Locustella montis montis
 Locustella montis timorensis
+Locustella chengi
+Locustella seebohmi
 Poodytes albolimbatus
 Poodytes carteri
 Poodytes rufescens
@@ -20983,7 +20995,6 @@ Bradypterus baboecala baboecala
 Bradypterus baboecala benguellensis
 Bradypterus baboecala chadensis
 Bradypterus baboecala msiri
-Bradypterus baboecala sudanensis
 Bradypterus baboecala tongensis
 Bradypterus baboecala transvaalensis
 Bradypterus carpalis
@@ -20991,6 +21002,7 @@ Bradypterus graueri
 Bradypterus centralis
 Bradypterus centralis centralis
 Bradypterus centralis elgonensis
+Bradypterus centralis sudanensis
 Donacobius atricapilla
 Donacobius atricapilla albovittatus
 Donacobius atricapilla atricapilla
@@ -21730,12 +21742,11 @@ Curruca melanocephala melanocephala
 Curruca melanocephala momus
 Curruca melanocephala norrisae
 Curruca melanocephala valverdei
-Curruca iberiae
+Curruca iberiae ((<a
 Curruca subalpina
 Curruca cantillans
 Curruca cantillans albistriata
 Curruca cantillans cantillans
-Curruca cantillans inornata
 Curruca communis
 Curruca communis communis
 Curruca communis icterops
@@ -21802,8 +21813,8 @@ Chamaea fasciata margra
 Chamaea fasciata phaea
 Chamaea fasciata rufula
 Calamornis heudei
-Paradoxornis heudei heudei
-Paradoxornis heudei polivanovi
+Calamornis heudei heudei
+Calamornis heudei polivanovi
 Paradoxornis flavirostris
 Paradoxornis guttaticollis
 Conostoma aemodium
@@ -22386,12 +22397,11 @@ Pomatorhinus montanus montanus
 Pomatorhinus montanus occidentalis
 Pomatorhinus montanus ottolanderi
 Erythrogenys hypoleucos
-Erythrogenys hypoleucos (brevirostris
+Erythrogenys hypoleucos brevirostris
 Erythrogenys hypoleucos hainana
 Erythrogenys hypoleucos hypoleucos
 Erythrogenys hypoleucos tickelli
 Erythrogenys hypoleucos wrayi
-Erythrogenys erythrogenys
 Erythrogenys erythrogenys
 Erythrogenys erythrogenys celata
 Erythrogenys erythrogenys erythrogenys
@@ -22635,10 +22645,9 @@ Gypsophila brevicaudata proxima
 Gypsophila brevicaudata rufiventer
 Gypsophila brevicaudata stevensi
 Gypsophila brevicaudata striata
+Gypsophila annamensis
+Gypsophila calcicola
 Gypsophila crispifrons
-Gypsophila crispifrons annamensis
-Gypsophila crispifrons calcicola
-Gypsophila crispifrons crispifrons
 Gypsophila rufipectus
 Ptilocichla mindanensis
 Ptilocichla mindanensis basilanica
@@ -23072,6 +23081,8 @@ Pterorhinus pectoralis robini
 Pterorhinus pectoralis semitorquatus
 Pterorhinus pectoralis subfusus
 Pterorhinus davidi
+Pterorhinus davidi concolor
+Pterorhinus davidi davidi
 Pterorhinus woodi
 Pterorhinus lanceolatus
 Pterorhinus lanceolatus bonvaloti
@@ -23088,8 +23099,6 @@ Pterorhinus albogularis albogularis
 Pterorhinus albogularis eous
 Pterorhinus albogularis whistleri
 Pterorhinus ruficeps
-Pterorhinus davidi concolor
-Pterorhinus davidi davidi
 Pterorhinus caerulatus
 Pterorhinus caerulatus caerulatus
 Pterorhinus caerulatus kaurensis
@@ -23616,6 +23625,7 @@ Cyphorhinus arada salvini
 Cyphorhinus arada transfluvialis
 Cyphorhinus phaeocephalus
 Cyphorhinus phaeocephalus chocoanus
+Cyphorhinus phaeocephalus infuscatus
 Cyphorhinus phaeocephalus lawrencii
 Cyphorhinus phaeocephalus phaeocephalus
 Cyphorhinus phaeocephalus propinquus
@@ -25095,7 +25105,7 @@ Cyornis rufigastra simplex
 Cyornis djampeanus
 Cyornis omissus
 Cyornis omissus omissus
-Cyornis omissus omissimus
+Cyornis omissus omississimus
 Cyornis omissus peromissus
 Cyornis hyacinthinus
 Cyornis hyacinthinus hyacinthinus
@@ -25384,9 +25394,8 @@ Myiomela leucura
 Myiomela leucura cambodiana
 Myiomela leucura leucura
 Myiomela leucura montium
+Myiomela sumatrana
 Myiomela diana
-Myiomela diana diana
-Myiomela diana sumatrana
 Sholicola major
 Sholicola albiventris
 Sholicola albiventris albiventris
@@ -25404,7 +25413,6 @@ Tarsiger rufilatus rufilatus
 Tarsiger chrysaeus
 Tarsiger chrysaeus chrysaeus
 Tarsiger chrysaeus whistleri
-Enicurus scouleri
 Enicurus scouleri
 Enicurus velatus
 Enicurus velatus sumatranus
@@ -25536,6 +25544,7 @@ Phoenicurus erythronotus
 Phoenicurus coeruleocephala
 Phoenicurus ochruros
 Phoenicurus ochruros gibraltariensis
+Phoenicurus ochruros murinus
 Phoenicurus ochruros ochruros
 Phoenicurus ochruros phoenicuroides
 Phoenicurus ochruros rufiventris
@@ -25708,7 +25717,7 @@ Oenanthe pileata pileata
 Oenanthe bottae
 Oenanthe bottae bottae
 Oenanthe bottae frenata
-Oenanthe heuglini
+Oenanthe heuglinii
 Oenanthe isabellina
 Oenanthe monacha
 Oenanthe deserti
@@ -26938,7 +26947,7 @@ Euodice malabarica
 Lonchura oryzivora
 Lonchura fuscata
 Lonchura tristissima
-Lonchura tristissima bigilalai
+Lonchura tristissima bigilalei
 Lonchura tristissima calaminoros
 Lonchura tristissima hypomelaena
 Lonchura tristissima tristissima
@@ -27015,6 +27024,7 @@ Lonchura quinticolor
 Lonchura castaneothorax
 Lonchura castaneothorax boschmai
 Lonchura castaneothorax castaneothorax
+Lonchura castaneothorax ramsayi
 Lonchura castaneothorax sharpii
 Lonchura castaneothorax uropygialis
 Lonchura stygia
@@ -27636,8 +27646,7 @@ Pyrrhula nipalensis waterstradti
 Pyrrhula aurantiaca
 Pyrrhula erythrocephala
 Pyrrhula erythaca
-Pyrrhula erythaca erythaca
-Pyrrhula erythaca owstoni
+Pyrrhula owstoni
 Pyrrhula leucogenis
 Pyrrhula leucogenis leucogenis
 Pyrrhula leucogenis steerei
@@ -27830,10 +27839,10 @@ Chloris chloris vanmarli
 Chloris chloris voousi
 Chloris sinica
 Chloris sinica kawarahiba
-Chloris sinica kittlitzi
 Chloris sinica minor
 Chloris sinica sinica
 Chloris sinica ussuriensis
+Chloris kittlitzi
 Chloris spinoides
 Chloris spinoides heinrichi
 Chloris spinoides spinoides
@@ -28003,9 +28012,9 @@ Loxia leucoptera bifasciata
 Loxia leucoptera leucoptera
 Loxia megaplaga
 Chrysocorythus estherae
-Chrysocorythus estherae chaseni
 Chrysocorythus estherae estherae
 Chrysocorythus estherae mindanensis
+Chrysocorythus estherae orientalis
 Chrysocorythus estherae renatae
 Chrysocorythus estherae vanderbilti
 Carduelis carduelis
@@ -28400,9 +28409,8 @@ Chlorospingus semifuscus
 Chlorospingus semifuscus livingstoni
 Chlorospingus semifuscus semifuscus
 Rhynchospiza stolzmanni
+Rhynchospiza dabbenei
 Rhynchospiza strigiceps
-Rhynchospiza strigiceps dabbenei
-Rhynchospiza strigiceps strigiceps
 Peucaea carpalis
 Peucaea carpalis bangsi
 Peucaea carpalis carpalis
@@ -28547,8 +28555,8 @@ Arremon taciturnus nigrirostris
 Arremon taciturnus taciturnus
 Arremon franciscanus
 Arremon semitorquatus
+Arremon dorbignii
 Arremon flavirostris
-Arremon flavirostris dorbignii
 Arremon flavirostris flavirostris
 Arremon flavirostris polionotus
 Arremon virenticeps
@@ -29461,7 +29469,7 @@ Myiothlypis luteoviridis quindiana
 Myiothlypis luteoviridis richardsoni
 Myiothlypis luteoviridis striaticeps
 Myiothlypis basilica
-Myiothlypis leucophrys
+Myiothlypis leucophrys 
 Myiothlypis flaveola
 Myiothlypis flaveola flaveola
 Myiothlypis flaveola pallidirostris
@@ -29494,7 +29502,7 @@ Myiothlypis cinereicollis
 Myiothlypis cinereicollis cinereicollis
 Myiothlypis cinereicollis pallidula
 Myiothlypis cinereicollis zuliensis
-Myiothlypis fraseri
+Myiothlypis fraseri 
 Myiothlypis fraseri fraseri
 Myiothlypis fraseri ochraceicrista
 Myiothlypis coronata
@@ -29507,7 +29515,7 @@ Myiothlypis coronata notia
 Myiothlypis coronata orientalis
 Myiothlypis coronata regulus
 Myiothlypis griseiceps
-Basileuterus lachrymosus
+Basileuterus lachrymosus 
 Basileuterus lachrymosus lachrymosus
 Basileuterus lachrymosus schistaceus
 Basileuterus lachrymosus tephrus
@@ -30121,12 +30129,12 @@ Camarhynchus pallidus pallidus
 Camarhynchus pallidus productus
 Camarhynchus pallidus striatipecta
 Camarhynchus parvulus
+Camarhynchus parvulus parvulus
+Camarhynchus parvulus salvini
 Camarhynchus psittacula
 Camarhynchus psittacula affinis
 Camarhynchus psittacula habeli
 Camarhynchus psittacula psittacula
-Camarhynchus parvulus parvulus
-Camarhynchus parvulus salvini
 Geospiza fuliginosa
 Geospiza difficilis
 Geospiza difficilis debilirostris
@@ -30525,9 +30533,9 @@ Xenodacnis parina parina
 Xenodacnis parina petersi
 Idiopsar dorsalis
 Idiopsar erythronotus
-Idiopsar speculiferus
-Idiopsar speculiferus magnirostris
-Idiopsar speculiferus speculiferus
+Idiopsar speculifer
+Idiopsar speculifer magnirostris
+Idiopsar speculifer speculifer
 Idiopsar brachyurus
 Catamenia analis
 Catamenia analis alpica
@@ -30547,6 +30555,8 @@ Catamenia homochroa duncani
 Catamenia homochroa homochroa
 Catamenia homochroa oreophila
 Diglossa glauca
+Diglossa glauca glauca
+Diglossa glauca tyrianthina
 Diglossa caerulescens
 Diglossa caerulescens caerulescens
 Diglossa caerulescens ginesi
@@ -30561,8 +30571,6 @@ Diglossa cyanea melanopis
 Diglossa cyanea obscura
 Diglossa cyanea tovarensis
 Diglossa indigotica
-Diglossa glauca glauca
-Diglossa glauca tyrianthina
 Diglossa sittoides
 Diglossa sittoides coelestis
 Diglossa sittoides decorata
@@ -30623,11 +30631,11 @@ Iridosornis rufivertex subsimilis
 Pipraeidea melanonota
 Pipraeidea melanonota melanonota
 Pipraeidea melanonota venezuelensis
-Pipraeidea bonariensis
-Pipraeidea bonariensis bonariensis
-Pipraeidea bonariensis composita
-Pipraeidea bonariensis darwinii
-Pipraeidea bonariensis schulzei
+Rauenia bonariensis
+Rauenia bonariensis bonariensis
+Rauenia bonariensis composita
+Rauenia bonariensis darwinii
+Rauenia bonariensis schulzei
 Pseudosaltator rufiventris
 Dubusia taeniata
 Dubusia taeniata carrikeri
@@ -30805,6 +30813,10 @@ Stilpnia argyrofenges argyrofenges
 Stilpnia argyrofenges caeruleigularis
 Stilpnia heinei
 Stilpnia larvata
+Stilpnia larvata centralis
+Stilpnia larvata fanny
+Stilpnia larvata franciscae
+Stilpnia larvata larvata
 Stilpnia cyanicollis
 Stilpnia cyanicollis albotibialis
 Stilpnia cyanicollis caeruleocephala
@@ -30814,10 +30826,6 @@ Stilpnia cyanicollis granadensis
 Stilpnia cyanicollis hannahiae
 Stilpnia cyanicollis melanogaster
 Stilpnia nigrocincta
-Stilpnia larvata centralis
-Stilpnia larvata fanny
-Stilpnia larvata franciscae
-Stilpnia larvata larvata
 Stilpnia peruviana
 Stilpnia preciosa
 Stilpnia meyerdeschauenseei
