@@ -1,0 +1,84 @@
+2021.03.25
+Took one tree [MRL--BigBird.tre}
+	Assumed that the first number after the taxon name was the
+	txpreminal branch length for that taxon.
+
+	I created a file trimmed of other branch lenghts (i.e. just
+	taxon name and one number (the first or only) from the
+	presumed branch lengths list.
+
+	Altered genus group name so it was prepended by a five digit
+	number representing the genus sequence from IOC 10.1
+	(This step is not necessary for consideration of the
+	question I raise here, but it allow for looking at
+	results in linear "checklist" sequence -- while I understand
+	that it is semi-meaningless to present a tree structure as
+	a linear sequence).
+
+	I multiplied the branch length number by 1k. Visual comparison
+	of very small multiple-digit numbers is annoyingly difficult,
+	and error prone.
+
+	So the resultant records looks like this. (field separator is space)
+
+	Taxon ORDER Family TBrLenx1000
+	_00001_Struthio_camelus STRUTHIONIFORMES Struthionidae 0.002248
+	_00003_Apteryx_rowi APTERYGIFORMES Apterygidae 0.660489
+
+
+	At this point I speculated what bird would have the longest
+	terminal branch length?
+
+	My (ignorant) guesses -- Ostrich (already out of the running)
+	Some Loon? some mousebird? some Tinamou? Hoatzin?
+	(personally rooting for a mousebird).
+
+
+	So I sorted the data by  terminal branch length, and here
+	is the end of the list (largest number last).
+
+
+
+	_02231_Piranga_rubra PASSERIFORMES oscines_Cardinalidae 1.61577
+	_00991_Trichoglossus_rubiginosus PSITTACIFORMES Psittaculidae 1.7886
+	_00981_Charmosyna_josefinae PSITTACIFORMES Psittaculidae 1.8036
+	_00127_Coturnix_coromandelica GALLIFORMES Phasianidae 1.9578
+	_00981_Charmosyna_pulchella PSITTACIFORMES Psittaculidae 2.10453
+	_01323_Pachyramphus_albogriseus PASSERIFORMES suboscines_Tityridae 2.22089
+	_Hypogramma_hypogrammicum PASSERIFORMES oscines_Nectariniidae 2.31388
+	_00655_Opisthocomus_hoazin OPISTHOCOMIFORMES Opisthocomidae 2.35504
+	_00989_Psitteuteles_iris PSITTACIFORMES Psittaculidae 2.38182
+	_02281_Camarhynchus_parvulus PASSERIFORMES oscines_Thraupidae 2.65172
+	_02231_Piranga_flava PASSERIFORMES oscines_Cardinalidae 2.68709
+	_00981_Charmosyna_meeki PSITTACIFORMES Psittaculidae 2.72274
+	_02152_Arremonops_rufivirgatus PASSERIFORMES oscines_Emberizidae 2.73836
+	_00129_Anurophasis_monorthonyx GALLIFORMES Phasianidae 3.28436
+	_02159_Pooecetes_gramineus PASSERIFORMES oscines_Emberizidae 3.44435
+	_00798_Caridonax_fulgidus CORACIIFORMES Alcedinidae 3.86473
+
+
+
+YO! seems hard to believe, and makes me think something is wrong
+Could the Vesper Sparrow REALLY have the second longest terminal branch length??
+Well it IS a monotypic genus, so that is perhaps in its favor, but a Passeriform?
+
+My strong suspicion is that something is not right. Perhaps I misunderstood what you said
+and the first number FOLLOWING the taxon name is NOT the terminal branch length for
+that taxon?
+
+Alterntively, perhaps I am looking at data from a tree which is inappropriate for what
+I am trying to do?
+
+
+Even if I am looking at the wrong number, there is, at least for me, some head scratching.
+The distribution of the number selected looks as if it almost certainly is NOT a single
+variable.
+
+So,, I guess I will try looking at the LAST number in the branch-length string.
+But before I do that I thought it would be reassuring to hear if I am looking
+at the right tree for what I am trying to do.
+
+I SUPPOSE it is possible that the terminal-branch length number is not always in one 
+location in the string, and the wizardry of the tree drawing programs figures out which 
+number to use for drawing the terminal branch.  In such a case, I am (as near as I can
+tell) out of luck.

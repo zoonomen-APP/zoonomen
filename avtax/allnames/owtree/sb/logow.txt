@@ -1,0 +1,15 @@
+USE timetree
+tree with root constraint
+1. Separate records ? by tab?
+        commas separete records with no space.
+        recsep.sed sed 's/,/     /g'
+2. separate records -- there is a sed tool for this.
+        sed -e 'y/\t/\n/'
+        # -e needed for regex, apparently
+3. remove parentheses
+4. Change genus name to numbered name with established sed script.
+5. Change genus name to Psliopogon.
+
+
+
+

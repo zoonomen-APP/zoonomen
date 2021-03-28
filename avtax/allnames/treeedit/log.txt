@@ -1,0 +1,66 @@
+1. Separate records ? by tab?
+	commas separete records with no space.
+	recsep.sed sed 's/,/	 /g'
+2. separate records -- there is a sed tool for this.
+	sed -e 'y/\t/\n/'
+	# -e needed for regex, apparently
+3. remove parentheses
+4. Change genus name to numbered name with established sed script.
+5. Change genus name to Psliopogon.
+
+
+
+
+
+Tree coding:
+		MRP = matrix representation with parsimony (strict consensus of all MP trees)
+		MRL = matrix representation with likelihood
+		
+		MajRuleExt = extended majority rule (greedy) consensus of 100 bootstrap supertrees
+		bootlabel  = optimal trees with bootstrap support as labels
+		             Note: the topology for MRx_3backbone and MRx_3backbone_bootlabel 
+		                   (x = P or L) are identical, the only difference it the labels
+
+		3backbone = all three backbone trees included
+		Brown     = Brown JW, Wang N, Smith SA. 2017. The development of scientific consensus: 
+					Analyzing conflict and concordance among avian phylogenies. MPE, 116, 69-77.
+		BigBird   = Burleigh JG, Kimball RT, Braun EL. 2015. Building the avian tree of life 
+					using a large-scale, sparse supermatrix. MPE, 84, 53-63.
+		Jetz      = Jetz W, Thomas GH, Joy JB, Hartmann K, Mooers AO. 2012. The global diversity 
+					of birds in space and time. Nature, 491, 444-448.
+				Note: the Brown, BigBird, and Jetz codes are combined for the supertrees
+					  that use two backbones
+					  
+		This treeset also includes the ordinal constraint and a completely unresolved tree
+		with all taxa in the supertree
+]
+
+Tree types?
+	
+	From unconst_OW_BigBird
+	tree MRL_3backbone = [&U] 
+		Struthio_camelus_STRUTHIONIFORMES_Struthionidae:0.0000029165	
+
+
+	tree MRL_Brown     = [&U] 
+		Struthio_camelus_STRUTHIONIFORMES_Struthionidae:0.0000020662
+
+	tree MRL_BigBird   = [&U] 
+		Struthio_camelus_STRUTHIONIFORMES_Struthionidae:0.0000020575
+
+	tree MRL_Jetz      = [&U] 
+		Struthio_camelus_STRUTHIONIFORMES_Struthionidae:0.0000024511
+
+	tree MRL_Brown_BigBird  = [&U] 
+		Struthio_camelus_STRUTHIONIFORMES_Struthionidae:0.0000022480
+
+	tree MRL_Brown_Jetz     = [&U] 
+		Struthio_camelus_STRUTHIONIFORMES_Struthionidae:0.0000029668
+
+	tree MRL_BigBird_Jetz   = [&U] 
+		Struthio_camelus_STRUTHIONIFORMES_Struthionidae:0.0000020595
+
+	From 02_phylgenomic_supertrees
+
+		tree MRL_3backbone = [&U] 
+			Struthio_camelus_STRUTHIONIFORMES_Struthionidae:0.0000029165

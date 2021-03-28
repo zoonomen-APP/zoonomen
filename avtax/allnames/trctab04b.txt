@@ -1,0 +1,656 @@
+Taxon	ORDER	Family	Br_Length
+Struthio_camelus STRUTHIONIFORMES Struthionidae 91.069118
+Apteryx_australis APTERYGIFORMES Apterygidae 2.298559
+Apteryx_mantelli APTERYGIFORMES Apterygidae 2.195203
+Apteryx_rowi APTERYGIFORMES Apterygidae 7.553313
+Apteryx_haastii APTERYGIFORMES Apterygidae 3.511858
+Apteryx_owenii APTERYGIFORMES Apterygidae 62.284539
+Mullerornis_sp AEPYORNITHIFORMES Aepyornithidae 29.817111
+Aepyornis_maximus AEPYORNITHIFORMES Aepyornithidae 10.726213
+Casuarius_bennetti CASUARIIFORMES Casuariidae 13.714872
+Casuarius_casuarius CASUARIIFORMES Casuariidae 37.959562
+Dromaius_novaehollandiae CASUARIIFORMES Casuariidae 0.957058
+Rhea_americana RHEIFORMES Rheidae 10.473204
+Rhea_pennata RHEIFORMES Rheidae 3.038966
+Anomalopteryx_didiformis DINORNITHIFORMES Emeidae 4.907673
+Emeus_crassus DINORNITHIFORMES Emeidae 3.675847
+Pachyornis_australis DINORNITHIFORMES Emeidae 4.910301
+Dinornis_giganteus DINORNITHIFORMES Dinornithidae 9.741305
+Megalapteryx_didinus DINORNITHIFORMES Megalapterygidae 72.091954
+Crypturellus_soui TINAMIFORMES Tinamidae 39.838821
+Crypturellus_tataupa TINAMIFORMES Tinamidae 8.143985
+Tinamus_guttatus TINAMIFORMES Tinamidae 19.129194
+Tinamus_major TINAMIFORMES Tinamidae 13.099198
+Eudromia_elegans TINAMIFORMES Tinamidae 60.254428
+Nothoprocta_perdicaria TINAMIFORMES Tinamidae 18.930882
+Anas_platyrhynchos ANSERIFORMES Anatidae 1.081518
+Anas_superciliosa ANSERIFORMES Anatidae 13.310351
+Aythya_americana ANSERIFORMES Anatidae 9.680741
+Biziura_lobata ANSERIFORMES Anatidae 1.786007
+Anser_canagicus ANSERIFORMES Anatidae 1.932687
+Anser_caerulescens ANSERIFORMES Anatidae 0.468797
+Anser_rossii ANSERIFORMES Anatidae 0.535868
+Anser_erythropus ANSERIFORMES Anatidae 1.310525
+Anser_albifrons ANSERIFORMES Anatidae 0.103161
+Anser_brachyrhynchus ANSERIFORMES Anatidae 1.369339
+Anser_fabalis ANSERIFORMES Anatidae 0.122706
+Anser_cygnoides ANSERIFORMES Anatidae 0.038241
+Anser_anser ANSERIFORMES Anatidae 0.040110
+Anser_indicus ANSERIFORMES Anatidae 8.905787
+Branta_bernicla ANSERIFORMES Anatidae 7.354221
+Branta_canadensis ANSERIFORMES Anatidae 1.460969
+Branta_hutchinsii ANSERIFORMES Anatidae 0.052528
+Branta_leucopsis ANSERIFORMES Anatidae 0.062047
+Branta_sandvicensis ANSERIFORMES Anatidae 4.727728
+Branta_ruficollis ANSERIFORMES Anatidae 1.052084
+Malacorhynchus_membranaceus ANSERIFORMES Anatidae 23.489430
+Oxyura_jamaicensis ANSERIFORMES Anatidae 7.748723
+Dendrocygna_viduata ANSERIFORMES Anatidae 27.493751
+Anseranas_semipalmata ANSERIFORMES Anseranatidae 4.224298
+Chauna_torquata ANSERIFORMES Anhimidae 9.608233
+Aburria_aburri GALLIFORMES Cracidae 2.787274
+Pipile_cumanensis GALLIFORMES Cracidae 2.270722
+Pipile_jacutinga GALLIFORMES Cracidae 5.264561
+Penelope_pileata GALLIFORMES Cracidae 4.372433
+Chamaepetes_goudotii GALLIFORMES Cracidae 0.220090
+Penelopina_nigra GALLIFORMES Cracidae 9.788739
+Crax_alector GALLIFORMES Cracidae 3.837980
+Crax_globulosa GALLIFORMES Cracidae 0.843406
+Crax_daubentoni GALLIFORMES Cracidae 0.135879
+Crax_rubra GALLIFORMES Cracidae 1.903278
+Mitu_salvini GALLIFORMES Cracidae 5.375640
+Nothocrax_urumutum GALLIFORMES Cracidae 0.304196
+Pauxi_pauxi GALLIFORMES Cracidae 11.971672
+Ortalis_motmot GALLIFORMES Cracidae 5.955687
+Ortalis_vetula GALLIFORMES Cracidae 1.214137
+Oreophasis_derbianus GALLIFORMES Cracidae 39.640039
+Acryllium_vulturinum GALLIFORMES Numididae 17.188777
+Guttera_pucherani GALLIFORMES Numididae 4.379265
+Numida_meleagris GALLIFORMES Numididae 25.034547
+Callipepla_californica GALLIFORMES Odontophoridae 10.609910
+Colinus_virginianus GALLIFORMES Odontophoridae 1.380050
+Colinus_cristatus GALLIFORMES Odontophoridae 4.481663
+Oreortyx_pictus GALLIFORMES Odontophoridae 5.396289
+Cyrtonyx_montezumae GALLIFORMES Odontophoridae 20.487862
+Odontophorus_gujanensis GALLIFORMES Odontophoridae 20.487862
+Dactylortyx_thoracicus GALLIFORMES Odontophoridae 6.196894
+Rhynchortyx_cinctus GALLIFORMES Odontophoridae 15.079978
+Ptilopachus_petrosus GALLIFORMES Odontophoridae 2.507182
+Afropavo_congensis GALLIFORMES Phasianidae 11.439549
+Pavo_cristatus GALLIFORMES Phasianidae 2.727587
+Pavo_muticus GALLIFORMES Phasianidae 16.910193
+Argusianus_argus GALLIFORMES Phasianidae 8.186642
+Rheinardia_ocellata GALLIFORMES Phasianidae 3.950350
+Haematortyx_sanguiniceps GALLIFORMES Phasianidae 19.275464
+Polyplectron_bicalcaratum GALLIFORMES Phasianidae 1.647965
+Polyplectron_chalcurum GALLIFORMES Phasianidae 1.610659
+Polyplectron_inopinatum GALLIFORMES Phasianidae 1.310035
+Polyplectron_germaini GALLIFORMES Phasianidae 3.475958
+Polyplectron_malacense GALLIFORMES Phasianidae 2.141722
+Polyplectron_napoleonis GALLIFORMES Phasianidae 4.400666
+Galloperdix_spadicea GALLIFORMES Phasianidae 12.540127
+Arborophila_charltonii GALLIFORMES Phasianidae 5.654802
+Arborophila_chloropus GALLIFORMES Phasianidae 0.610537
+Alectoris_chukar GALLIFORMES Phasianidae 1.888731
+Alectoris_rufa GALLIFORMES Phasianidae 23.539026
+Pternistis_afer GALLIFORMES Phasianidae 4.530803
+Pternistis_leucoscepus GALLIFORMES Phasianidae 0.441530
+Pternistis_swainsonii GALLIFORMES Phasianidae 7.159468
+Pternistis_bicalcaratus GALLIFORMES Phasianidae 0.034755
+Pternistis_ahantensis GALLIFORMES Phasianidae 2.412933
+Ammoperdix_heyi GALLIFORMES Phasianidae 24.615209
+Coturnix_coturnix GALLIFORMES Phasianidae 0.342954
+Coturnix_japonica GALLIFORMES Phasianidae 9.371913
+Coturnix_pectoralis GALLIFORMES Phasianidae 4.732273
+Margaroperdix_madagarensis GALLIFORMES Phasianidae 4.848674
+Coturnix_ypsilophora GALLIFORMES Phasianidae 10.750829
+Excalfactoria_chinensis GALLIFORMES Phasianidae 0.036874
+Tetraogallus_altaicus GALLIFORMES Phasianidae 7.415543
+Tetraogallus_himalayensis GALLIFORMES Phasianidae 4.982480
+Bambusicola_thoracicus GALLIFORMES Phasianidae 18.563418
+Gallus_gallus GALLIFORMES Phasianidae 3.733266
+Gallus_lafayettii GALLIFORMES Phasianidae 3.696143
+Gallus_sonneratii GALLIFORMES Phasianidae 2.622666
+Gallus_varius GALLIFORMES Phasianidae 3.633367
+Francolinus_francolinus GALLIFORMES Phasianidae 20.015972
+Scleroptila_afra GALLIFORMES Phasianidae 1.932527
+Bonasa_umbellus GALLIFORMES Phasianidae 16.902364
+Centrocercus_urophasianus GALLIFORMES Phasianidae 1.059706
+Centrocercus_minimus GALLIFORMES Phasianidae 7.711429
+Dendragapus_fuliginosus GALLIFORMES Phasianidae 4.934705
+Tympanuchus_cupido GALLIFORMES Phasianidae 0.317133
+Tympanuchus_phasianellus GALLIFORMES Phasianidae 1.257946
+Falcipennis_canadensis GALLIFORMES Phasianidae 7.409823
+Lyrurus_mlokosiewiczi GALLIFORMES Phasianidae 5.333581
+Tetrao_urogallus GALLIFORMES Phasianidae 0.647686
+Falcipennis_falcipennis GALLIFORMES Phasianidae 1.276166
+Lagopus_muta GALLIFORMES Phasianidae 5.950317
+Tetrastes_bonasia GALLIFORMES Phasianidae 6.140171
+Meleagris_ocellata GALLIFORMES Phasianidae 2.524108
+Meleagris_gallopavo GALLIFORMES Phasianidae 2.712771
+Pucrasia_macrolopha GALLIFORMES Phasianidae 1.015267
+Catreus_wallichii GALLIFORMES Phasianidae 10.175626
+Crossoptilon_auritum GALLIFORMES Phasianidae 2.116178
+Crossoptilon_crossoptilon GALLIFORMES Phasianidae 0.052656
+Lophura_diardi GALLIFORMES Phasianidae 5.284117
+Lophura_ignita GALLIFORMES Phasianidae 5.136533
+Lophura_inornata GALLIFORMES Phasianidae 0.216935
+Lophura_leucomelanos GALLIFORMES Phasianidae 2.341363
+Lophura_nycthemera GALLIFORMES Phasianidae 0.050447
+Lophura_edwardsi GALLIFORMES Phasianidae 1.637860
+Lophura_swinhoii GALLIFORMES Phasianidae 2.003343
+Phasianus_colchicus GALLIFORMES Phasianidae 0.422970
+Chrysolophus_amherstiae GALLIFORMES Phasianidae 2.264447
+Chrysolophus_pictus GALLIFORMES Phasianidae 3.042309
+Syrmaticus_ellioti GALLIFORMES Phasianidae 0.762838
+Syrmaticus_humiae GALLIFORMES Phasianidae 2.773910
+Syrmaticus_mikado GALLIFORMES Phasianidae 6.665976
+Syrmaticus_reevesii GALLIFORMES Phasianidae 0.060479
+Syrmaticus_soemmerringii GALLIFORMES Phasianidae 8.437164
+Perdix_dauurica GALLIFORMES Phasianidae 2.785981
+Perdix_perdix GALLIFORMES Phasianidae 0.270575
+Rhizothera_longirostris GALLIFORMES Phasianidae 0.704526
+Lophophorus_impejanus GALLIFORMES Phasianidae 16.774225
+Tetraophasis_obscurus GALLIFORMES Phasianidae 8.885768
+Tragopan_blythii GALLIFORMES Phasianidae 7.287690
+Tragopan_satyra GALLIFORMES Phasianidae 0.416795
+Tragopan_caboti GALLIFORMES Phasianidae 4.230774
+Tragopan_temminckii GALLIFORMES Phasianidae 2.656646
+Ithaginis_cruentus GALLIFORMES Phasianidae 1.749498
+Lerwa_lerwa GALLIFORMES Phasianidae 3.947077
+Arborophila_torqueola GALLIFORMES Phasianidae 9.683326
+Arborophila_rufogularis GALLIFORMES Phasianidae 18.159861
+Caloperdix_oculeus GALLIFORMES Phasianidae 21.127369
+Rollulus_rouloul GALLIFORMES Phasianidae 5.035833
+Alectura_lathami GALLIFORMES Megapodiidae 24.415556
+Leipoa_ocellata GALLIFORMES Megapodiidae 8.191584
+Megapodius_eremita GALLIFORMES Megapodiidae 4.086291
+Megapodius_layardi GALLIFORMES Megapodiidae 14.226607
+Aquila_chrysaetos ACCIPITRIFORMES Accipitridae 26.722482
+Buteo_jamaicensis ACCIPITRIFORMES Accipitridae 16.303181
+Haliaeetus_albicilla ACCIPITRIFORMES Accipitridae 1.882327
+Haliaeetus_leucocephalus ACCIPITRIFORMES Accipitridae 11.863951
+Elanoides_forficatus ACCIPITRIFORMES Accipitridae 6.729476
+Elanus_leucurus ACCIPITRIFORMES Accipitridae 4.976416
+Pandion_haliaetus ACCIPITRIFORMES Pandionidae 8.884823
+Sagittarius_serpentarius ACCIPITRIFORMES Sagittariidae 5.846036
+Cathartes_aura ACCIPITRIFORMES Cathartidae 3.641896
+Cathartes_burrovianus ACCIPITRIFORMES Cathartidae 21.286388
+Sarcoramphus_papa ACCIPITRIFORMES Cathartidae 12.372908
+Vultur_gryphus ACCIPITRIFORMES Cathartidae 2.834186
+Buceros_rhinoceros BUCEROTIFORMES Bucerotidae 32.490417
+Lophoceros_camurus BUCEROTIFORMES Bucerotidae 1.609374
+Bucorvus_abyssinicus BUCEROTIFORMES Bucorvidae 3.156194
+Bucorvus_leadbeateri BUCEROTIFORMES Bucorvidae 24.461367
+Phoeniculus_purpureus BUCEROTIFORMES Phoeniculidae 32.280502
+Rhinopomastus_cyanomelas BUCEROTIFORMES Phoeniculidae 16.006235
+Upupa_epops BUCEROTIFORMES Upupidae 4.434798
+Alcedo_atthis CORACIIFORMES Alcedinidae 7.139463
+Alcedo_quadribrachys CORACIIFORMES Alcedinidae 4.945827
+Ceyx_collectoris CORACIIFORMES Alcedinidae 2.790029
+Corythornis_cristatus CORACIIFORMES Alcedinidae 0.523046
+Corythornis_leucogaster CORACIIFORMES Alcedinidae 12.868949
+Ispidina_lecontei CORACIIFORMES Alcedinidae 28.122694
+Chloroceryle_aenea CORACIIFORMES Alcedinidae 6.251950
+Chloroceryle_inda CORACIIFORMES Alcedinidae 19.776327
+Ceryle_rudis CORACIIFORMES Alcedinidae 7.222360
+Megaceryle_alcyon CORACIIFORMES Alcedinidae 8.332144
+Dacelo_novaeguineae CORACIIFORMES Alcedinidae 4.047482
+Dacelo_gaudichaud CORACIIFORMES Alcedinidae 5.772305
+Clytoceyx_rex CORACIIFORMES Alcedinidae 7.479594
+Melidora_macrorrhina CORACIIFORMES Alcedinidae 5.171519
+Actenoides_lindsayi CORACIIFORMES Alcedinidae 10.254959
+Caridonax_fulgidus CORACIIFORMES Alcedinidae 1.749240
+Syma_megarhyncha CORACIIFORMES Alcedinidae 18.020809
+Todiramphus_tutus CORACIIFORMES Alcedinidae 1.686212
+Tanysiptera_sylvia CORACIIFORMES Alcedinidae 2.090389
+Halcyon_senegalensis CORACIIFORMES Alcedinidae 20.780251
+Pelargopsis_capensis CORACIIFORMES Alcedinidae 6.367269
+Lacedo_pulchella CORACIIFORMES Alcedinidae 9.907122
+Hylomanes_momotula CORACIIFORMES Momotidae 35.852672
+Momotus_momota CORACIIFORMES Momotidae 2.094865
+Todus_angustirostris CORACIIFORMES Todidae 34.084160
+Todus_mexicanus CORACIIFORMES Todidae 3.923542
+Atelornis_pittoides CORACIIFORMES Brachypteraciidae 20.558194
+Geobiastes_squamiger CORACIIFORMES Brachypteraciidae 22.005980
+Coracias_caudatus CORACIIFORMES Coraciidae 0.045289
+Coracias_abyssinicus CORACIIFORMES Coraciidae 12.645192
+Merops_nubicus CORACIIFORMES Meropidae 10.371799
+Merops_muelleri CORACIIFORMES Meropidae 28.689803
+Nyctyornis_amictus CORACIIFORMES Meropidae 1.806088
+Bucco_capensis PICIFORMES Bucconidae 20.732284
+Bucco_macrodactylus PICIFORMES Bucconidae 0.046146
+Malacoptila_fusca PICIFORMES Bucconidae 11.443973
+Nonnula_ruficapilla PICIFORMES Bucconidae 15.117160
+Brachygalba_albogularis PICIFORMES Galbulidae 28.107041
+Galbula_chalcothorax PICIFORMES Galbulidae 9.336482
+Galbula_dea PICIFORMES Galbulidae 0.018717
+Galbula_leucogastra PICIFORMES Galbulidae 7.705642
+Galbula_albirostris PICIFORMES Galbulidae 11.160436
+Capito_niger PICIFORMES Capitonidae 23.775843
+Ramphastos_ambiguus PICIFORMES Ramphastidae 15.165068
+Buccanodon_duchaillui PICIFORMES Lybiidae 28.379722
+Pogoniulus_bilineatus PICIFORMES Lybiidae 3.338705
+Psilopogon_virens PICIFORMES Megalaimidae 19.636858
+Psilopogon_chrysopogon PICIFORMES Megalaimidae 4.485057
+Indicator_exilis PICIFORMES Indicatoridae 24.406900
+Indicator_maculatus PICIFORMES Indicatoridae 14.154000
+Prodotiscus_insignis PICIFORMES Indicatoridae 3.145519
+Dryobates_pubescens PICIFORMES Picidae 17.477102
+Sphyrapicus_varius PICIFORMES Picidae 5.320078
+Dryocopus_pileatus PICIFORMES Picidae 12.792181
+Picus_canus PICIFORMES Picidae 12.416436
+Jynx_ruficollis PICIFORMES Picidae 11.263707
+Jynx_torquilla PICIFORMES Picidae 0.628957
+Apaloderma_narina TROGONIFORMES Trogonidae 3.806785
+Apaloderma_aequatoriale TROGONIFORMES Trogonidae 9.384931
+Apaloderma_vittatum TROGONIFORMES Trogonidae 20.266606
+Pharomachrus_auriceps TROGONIFORMES Trogonidae 30.756663
+Trogon_elegans TROGONIFORMES Trogonidae 11.839416
+Trogon_personatus TROGONIFORMES Trogonidae 1.354489
+Leptosomus_discolor LEPTOSOMIFORMES Leptosomidae 1.520598
+Colius_colius COLIIFORMES Coliidae 12.054922
+Colius_striatus COLIIFORMES Coliidae 12.887688
+Urocolius_indicus COLIIFORMES Coliidae 0.084306
+Athene_cunicularia STRIGIFORMES Strigidae 47.295238
+Strix_occidentalis STRIGIFORMES Strigidae 30.922876
+Strix_varia STRIGIFORMES Strigidae 8.538776
+Phodilus_badius STRIGIFORMES Tytonidae 34.826602
+Tyto_alba STRIGIFORMES Tytonidae 0.066770
+Daptrius_ater FALCONIFORMES Falconidae 11.861688
+Ibycter_americanus FALCONIFORMES Falconidae 5.350106
+Caracara_cheriway FALCONIFORMES Falconidae 17.457733
+Falco_cherrug FALCONIFORMES Falconidae 4.204672
+Falco_peregrinus FALCONIFORMES Falconidae 5.297352
+Falco_mexicanus FALCONIFORMES Falconidae 1.611520
+Falco_sparverius FALCONIFORMES Falconidae 11.214677
+Herpetotheres_cachinnans FALCONIFORMES Falconidae 28.098353
+Micrastur_gilvicollis FALCONIFORMES Falconidae 23.148436
+Micrastur_semitorquatus FALCONIFORMES Falconidae 21.198317
+Acanthisitta_chloris PASSERIFORMES oscines Acanthisittidae 56.073553
+Cardinalis_cardinalis PASSERIFORMES oscines Cardinalidae 12.379716
+Piranga_bidentata PASSERIFORMES oscines Cardinalidae 3.258081
+Piranga_ludoviciana PASSERIFORMES oscines Cardinalidae 2.508551
+Piranga_olivacea PASSERIFORMES oscines Cardinalidae 0.111578
+Piranga_flava PASSERIFORMES oscines Cardinalidae 5.624640
+Piranga_rubra PASSERIFORMES oscines Cardinalidae 2.075714
+Piranga_roseogularis PASSERIFORMES oscines Cardinalidae 2.466037
+Piranga_erythrocephala PASSERIFORMES oscines Cardinalidae 7.314837
+Piranga_leucoptera PASSERIFORMES oscines Cardinalidae 5.476711
+Piranga_rubriceps PASSERIFORMES oscines Cardinalidae 4.174989
+Geospiza_septentrionalis PASSERIFORMES oscines Thraupidae 0.250705
+Geospiza_conirostris PASSERIFORMES oscines Thraupidae 0.056881
+Geospiza_magnirostris PASSERIFORMES oscines Thraupidae 0.139986
+Geospiza_scandens PASSERIFORMES oscines Thraupidae 0.025029
+Geospiza_fortis PASSERIFORMES oscines Thraupidae 0.178032
+Geospiza_fuliginosa PASSERIFORMES oscines Thraupidae 0.321048
+Camarhynchus_heliobates PASSERIFORMES oscines Thraupidae 0.052234
+Camarhynchus_pallidus PASSERIFORMES oscines Thraupidae 0.096189
+Camarhynchus_psittacula PASSERIFORMES oscines Thraupidae 0.044005
+Camarhynchus_parvulus PASSERIFORMES oscines Thraupidae 0.157888
+Camarhynchus_pauper PASSERIFORMES oscines Thraupidae 0.416620
+Geospiza_difficilis PASSERIFORMES oscines Thraupidae 0.046089
+Pinaroloxias_inornata PASSERIFORMES oscines Thraupidae 0.304603
+Platyspiza_crassirostris PASSERIFORMES oscines Thraupidae 0.646837
+Certhidea_fusca PASSERIFORMES oscines Thraupidae 1.944032
+Certhidea_olivacea PASSERIFORMES oscines Thraupidae 3.474958
+Tiaris_bicolor PASSERIFORMES oscines Thraupidae 0.349780
+Loxigilla_noctis PASSERIFORMES oscines Thraupidae 0.860618
+Arremon_aurantiirostris PASSERIFORMES oscines Emberizidae 9.624955
+Arremon_brunneinucha PASSERIFORMES oscines Emberizidae 1.043712
+Aimophila_rufescens PASSERIFORMES oscines Emberizidae 6.307934
+Melozone_aberti PASSERIFORMES oscines Emberizidae 6.012126
+Melozone_leucotis PASSERIFORMES oscines Emberizidae 1.218262
+Atlapetes_citrinellus PASSERIFORMES oscines Emberizidae 3.362778
+Atlapetes_albinucha PASSERIFORMES oscines Emberizidae 1.615397
+Pipilo_chlorurus PASSERIFORMES oscines Emberizidae 2.444411
+Pezopetes_capitalis PASSERIFORMES oscines Emberizidae 1.878202
+Ammodramus_leconteii PASSERIFORMES oscines Emberizidae 6.889786
+Melospiza_melodia PASSERIFORMES oscines Emberizidae 5.401650
+Passerculus_sandwichensis PASSERIFORMES oscines Emberizidae 0.504159
+Artemisiospiza_belli PASSERIFORMES oscines Emberizidae 6.359657
+Pooecetes_gramineus PASSERIFORMES oscines Emberizidae 0.869939
+Oriturus_superciliosus PASSERIFORMES oscines Emberizidae 0.516222
+Junco_phaeonotus PASSERIFORMES oscines Emberizidae 6.026745
+Zonotrichia_albicollis PASSERIFORMES oscines Emberizidae 1.338508
+Zonotrichia_atricapilla PASSERIFORMES oscines Emberizidae 1.875836
+Passerella_iliaca PASSERIFORMES oscines Emberizidae 6.507322
+Spizelloides_arborea PASSERIFORMES oscines Emberizidae 1.333438
+Ammodramus_savannarum PASSERIFORMES oscines Emberizidae 7.317991
+Peucaea_ruficauda PASSERIFORMES oscines Emberizidae 0.948565
+Arremonops_rufivirgatus PASSERIFORMES oscines Emberizidae 7.291621
+Rhynchospiza_strigiceps PASSERIFORMES oscines Emberizidae 0.161330
+Chlorospingus_flavopectus PASSERIFORMES oscines Emberizidae 0.157499
+Amphispiza_bilineata PASSERIFORMES oscines Emberizidae 8.947583
+Calamospiza_melanocorys PASSERIFORMES oscines Emberizidae 7.580268
+Chondestes_grammacus PASSERIFORMES oscines Emberizidae 2.159493
+Spizella_atrogularis PASSERIFORMES oscines Emberizidae 3.884015
+Geothlypis_trichas PASSERIFORMES oscines Parulidae 14.206659
+Icterus_gularis PASSERIFORMES oscines Icteridae 3.998760
+Fringilla_coelebs PASSERIFORMES oscines Fringillidae 6.614346
+Fringilla_montifringilla PASSERIFORMES oscines Fringillidae 3.311236
+Passer_montanus PASSERIFORMES oscines Passeridae 2.802339
+Taeniopygia_guttata PASSERIFORMES oscines Estrildidae 20.770411
+Vidua_chalybeata PASSERIFORMES oscines Viduidae 5.256671
+Vidua_macroura PASSERIFORMES oscines Viduidae 2.789959
+Ploceus_cucullatus PASSERIFORMES oscines Ploceidae 2.620400
+Chloropsis_sonnerati PASSERIFORMES oscines Chloropseidae 2.028578
+Arachnothera_chrysogenys PASSERIFORMES oscines Nectariniidae 3.680704
+Arachnothera_clarae PASSERIFORMES oscines Nectariniidae 15.857369
+Arachnothera_magna PASSERIFORMES oscines Nectariniidae 10.668829
+Arachnothera_everetti PASSERIFORMES oscines Nectariniidae 1.889574
+Arachnothera_modesta PASSERIFORMES oscines Nectariniidae 4.436290
+Arachnothera_flavigaster PASSERIFORMES oscines Nectariniidae 2.202116
+Arachnothera_longirostra PASSERIFORMES oscines Nectariniidae 2.728408
+Arachnothera_dilutior PASSERIFORMES oscines Nectariniidae 8.447866
+Arachnothera_flammifera PASSERIFORMES oscines Nectariniidae 1.673580
+Arachnothera_robusta PASSERIFORMES oscines Nectariniidae 11.621608
+Arachnothera_crassirostris PASSERIFORMES oscines Nectariniidae 0.032130
+Hypogramma_hypogrammicum PASSERIFORMES oscines Nectariniidae 1.651412
+Leptocoma_sperata PASSERIFORMES oscines Nectariniidae 15.288491
+Anthreptes_rectirostris PASSERIFORMES oscines Nectariniidae 4.880378
+Dicaeum_hypoleucum PASSERIFORMES oscines Dicaeidae 1.795101
+Ficedula_albicollis PASSERIFORMES oscines Muscicapidae 1.957183
+Ficedula_hypoleuca PASSERIFORMES oscines Muscicapidae 1.925998
+Ficedula_speculigera PASSERIFORMES oscines Muscicapidae 0.606828
+Ficedula_semitorquata PASSERIFORMES oscines Muscicapidae 7.812610
+Ficedula_parva PASSERIFORMES oscines Muscicapidae 5.243077
+Ficedula_hyperythra PASSERIFORMES oscines Muscicapidae 9.740644
+Turdus_falcklandii PASSERIFORMES oscines Turdidae 4.451732
+Turdus_olivater PASSERIFORMES oscines Turdidae 8.011622
+Regulus_calendula PASSERIFORMES oscines Regulidae 30.017532
+Bombycilla_garrulus PASSERIFORMES oscines Bombycillidae 0.031047
+Pseudopodoces_humilis PASSERIFORMES oscines Paridae 32.779878
+Poecile_lugubris PASSERIFORMES oscines Paridae 0.046041
+Calandrella_brachydactyla PASSERIFORMES oscines Alaudidae 28.955687
+Pycnonotus_urostictus PASSERIFORMES oscines Pycnonotidae 26.661753
+Sylvia_melanocephala PASSERIFORMES oscines Sylviidae 12.076241
+Sylvia_nana PASSERIFORMES oscines Sylviidae 1.530956
+Picathartes_gymnocephalus PASSERIFORMES oscines Picathartidae 2.261068
+Aphelocoma_wollweberi PASSERIFORMES oscines Corvidae 5.259776
+Aphelocoma_ultramarina PASSERIFORMES oscines Corvidae 0.019340
+Aphelocoma_californica PASSERIFORMES oscines Corvidae 12.978760
+Corvus_brachyrhynchos PASSERIFORMES oscines Corvidae 3.194415
+Corvus_corone PASSERIFORMES oscines Corvidae 3.755505
+Corvus_albus PASSERIFORMES oscines Corvidae 5.679450
+Nucifraga_columbiana PASSERIFORMES oscines Corvidae 10.262781
+Lophorina_superba PASSERIFORMES oscines Paradisaeidae 1.807789
+Newtonia_amphichroa PASSERIFORMES oscines Vangidae 9.868752
+Newtonia_brunneicauda PASSERIFORMES oscines Vangidae 3.509193
+Newtonia_archboldi PASSERIFORMES oscines Vangidae 7.138658
+Vanga_curvirostris PASSERIFORMES oscines Vangidae 0.958542
+Malurus_melanocephalus PASSERIFORMES oscines Maluridae 9.399276
+Malurus_splendens PASSERIFORMES oscines Maluridae 1.191837
+Ptilonorhynchus_violaceus PASSERIFORMES oscines Ptilonorhynchidae 12.083358
+Sericulus_bakeri PASSERIFORMES oscines Ptilonorhynchidae 22.483645
+Climacteris_erythrops PASSERIFORMES oscines Climacteridae 16.167144
+Climacteris_melanurus PASSERIFORMES oscines Climacteridae 3.774429
+Menura_novaehollandiae PASSERIFORMES oscines Menuridae 11.280384
+Cotinga_cayana PASSERIFORMES suboscines Cotingidae 24.780101
+Rupicola_rupicola PASSERIFORMES suboscines Cotingidae 10.325222
+Myiobius_barbatus PASSERIFORMES suboscines Tityridae 30.276230
+Oxyruncus_cristatus PASSERIFORMES suboscines Tityridae 4.532042
+Schiffornis_turdina PASSERIFORMES suboscines Tityridae 30.093745
+Tityra_cayana PASSERIFORMES suboscines Tityridae 4.923819
+Tityra_semifasciata PASSERIFORMES suboscines Tityridae 16.282686
+Pachyramphus_marginatus PASSERIFORMES suboscines Tityridae 6.787600
+Pachyramphus_albogriseus PASSERIFORMES suboscines Tityridae 6.751050
+Pachyramphus_major PASSERIFORMES suboscines Tityridae 0.625083
+Pachyramphus_polychopterus PASSERIFORMES suboscines Tityridae 6.545195
+Pachyramphus_castaneus PASSERIFORMES suboscines Tityridae 1.777417
+Pachyramphus_cinnamomeus PASSERIFORMES suboscines Tityridae 5.027824
+Pachyramphus_surinamus PASSERIFORMES suboscines Tityridae 3.461760
+Pachyramphus_versicolor PASSERIFORMES suboscines Tityridae 5.726786
+Pachyramphus_rufus PASSERIFORMES suboscines Tityridae 0.536745
+Pachyramphus_spodiurus PASSERIFORMES suboscines Tityridae 2.035107
+Pachyramphus_viridis PASSERIFORMES suboscines Tityridae 1.274089
+Pachyramphus_xanthogenys PASSERIFORMES suboscines Tityridae 7.935565
+Pachyramphus_aglaiae PASSERIFORMES suboscines Tityridae 1.480989
+Pachyramphus_homochrous PASSERIFORMES suboscines Tityridae 3.479713
+Pachyramphus_minor PASSERIFORMES suboscines Tityridae 4.915304
+Pachyramphus_validus PASSERIFORMES suboscines Tityridae 2.767733
+Xenopsaris_albinucha PASSERIFORMES suboscines Tityridae 4.136177
+Hirundinea_ferruginea PASSERIFORMES suboscines Tyrannidae 22.706145
+Elaenia_flavogaster PASSERIFORMES suboscines Tyrannidae 18.271141
+Tyrannus_albogularis PASSERIFORMES suboscines Tyrannidae 4.350402
+Tyrannus_tyrannus PASSERIFORMES suboscines Tyrannidae 12.217035
+Hymenops_perspicillatus PASSERIFORMES suboscines Tyrannidae 7.856120
+Mionectes_macconnelli PASSERIFORMES suboscines Tyrannidae 26.618366
+Rhynchocyclus_olivaceus PASSERIFORMES suboscines Tyrannidae 3.456765
+Piprites_chloris PASSERIFORMES suboscines Tyrannidae 1.426411
+Manacus_vitellinus PASSERIFORMES suboscines Pipridae 13.591056
+Ceratopipra_erythrocephala PASSERIFORMES suboscines Pipridae 0.055232
+Lepidothrix_coronata PASSERIFORMES suboscines Pipridae 10.262652
+Cryptopipo_holochlora PASSERIFORMES suboscines Pipridae 7.334251
+Neopelma_chrysocephalum PASSERIFORMES suboscines Pipridae 7.844256
+Dendrocolaptes_certhia PASSERIFORMES suboscines Furnariidae 13.134881
+Lepidocolaptes_angustirostris PASSERIFORMES suboscines Furnariidae 10.353790
+Furnarius_rufus PASSERIFORMES suboscines Furnariidae 3.319040
+Sclerurus_mexicanus PASSERIFORMES suboscines Furnariidae 9.494103
+Scytalopus_magellanicus PASSERIFORMES suboscines Rhinocryptidae 0.797638
+Grallaria_varia PASSERIFORMES suboscines Grallariidae 23.971394
+Myrmothera_campanisona PASSERIFORMES suboscines Grallariidae 1.440591
+Melanopareia_maximiliani PASSERIFORMES suboscines Melanopareiidae 37.987150
+Myrmornis_torquata PASSERIFORMES suboscines Thamnophilidae 21.088937
+Thamnophilus_nigrocinereus PASSERIFORMES suboscines Thamnophilidae 15.315728
+Thamnophilus_ruficapillus PASSERIFORMES suboscines Thamnophilidae 5.169271
+Euchrepomis_callinota PASSERIFORMES suboscines Thamnophilidae 5.709210
+Smithornis_rufolateralis PASSERIFORMES suboscines Eurylaimidae 30.387176
+Calyptomena_viridis PASSERIFORMES suboscines Eurylaimidae 7.979473
+Hydrornis_guajanus PASSERIFORMES suboscines Pittidae 18.260380
+Pitta_angolensis PASSERIFORMES suboscines Pittidae 20.064284
+Sapayoa_aenigma PASSERIFORMES suboscines Sapayoidae 1.985557
+Eurylaimus_ochromalus PASSERIFORMES suboscines Eurylaimidae 8.830497
+Cacatua_sulphurea PSITTACIFORMES Cacatuidae 19.059924
+Probosciger_aterrimus PSITTACIFORMES Cacatuidae 11.208633
+Amazona_autumnalis PSITTACIFORMES Psittacidae 24.047076
+Ara_macao PSITTACIFORMES Psittacidae 14.650408
+Deroptyus_accipitrinus PSITTACIFORMES Psittacidae 3.211183
+Psittacus_erithacus PSITTACIFORMES Psittacidae 0.938670
+Alisterus_scapularis PSITTACIFORMES Psittaculidae 17.988307
+Psittacula_alexandri PSITTACIFORMES Psittaculidae 1.549051
+Micropsitta_finschii PSITTACIFORMES Psittaculidae 5.107360
+Chalcopsitta_atra PSITTACIFORMES Psittaculidae 3.243406
+Chalcopsitta_scintillata PSITTACIFORMES Psittaculidae 0.051401
+Chalcopsitta_duivenbodei PSITTACIFORMES Psittaculidae 1.927267
+Pseudeos_cardinalis PSITTACIFORMES Psittaculidae 5.080385
+Pseudeos_fuscata PSITTACIFORMES Psittaculidae 0.050803
+Eos_bornea PSITTACIFORMES Psittaculidae 1.890899
+Eos_cyanogenia PSITTACIFORMES Psittaculidae 1.833055
+Eos_squamata PSITTACIFORMES Psittaculidae 1.403383
+Eos_histrio PSITTACIFORMES Psittaculidae 0.094505
+Eos_reticulata PSITTACIFORMES Psittaculidae 1.135063
+Trichoglossus_ornatus PSITTACIFORMES Psittaculidae 2.627640
+Psitteuteles_iris PSITTACIFORMES Psittaculidae 0.040531
+Trichoglossus_johnstoniae PSITTACIFORMES Psittaculidae 0.039552
+Trichoglossus_capistratus PSITTACIFORMES Psittaculidae 0.668701
+Trichoglossus_forsteni PSITTACIFORMES Psittaculidae 0.239938
+Trichoglossus_weberi PSITTACIFORMES Psittaculidae 0.044951
+Trichoglossus_euteles PSITTACIFORMES Psittaculidae 0.039063
+Trichoglossus_rubritorquis PSITTACIFORMES Psittaculidae 0.067211
+Trichoglossus_moluccanus PSITTACIFORMES Psittaculidae 0.297337
+Trichoglossus_haematodus PSITTACIFORMES Psittaculidae 0.129696
+Trichoglossus_chlorolepidotus PSITTACIFORMES Psittaculidae 0.680327
+Glossopsitta_concinna PSITTACIFORMES Psittaculidae 1.185218
+Psitteuteles_goldiei PSITTACIFORMES Psittaculidae 0.993904
+Parvipsitta_porphyrocephala PSITTACIFORMES Psittaculidae 4.633947
+Parvipsitta_pusilla PSITTACIFORMES Psittaculidae 1.576116
+Psitteuteles_versicolor PSITTACIFORMES Psittaculidae 0.248155
+Lorius_garrulus PSITTACIFORMES Psittaculidae 3.754734
+Lorius_domicella PSITTACIFORMES Psittaculidae 0.112142
+Lorius_lory PSITTACIFORMES Psittaculidae 2.587265
+Lorius_hypoinochrous PSITTACIFORMES Psittaculidae 0.101643
+Lorius_albidinucha PSITTACIFORMES Psittaculidae 2.540813
+Lorius_chlorocercus PSITTACIFORMES Psittaculidae 1.451591
+Neopsittacus_pullicauda PSITTACIFORMES Psittaculidae 6.736338
+Neopsittacus_musschenbroekii PSITTACIFORMES Psittaculidae 5.730625
+Charmosyna_papou PSITTACIFORMES Psittaculidae 5.115031
+Charmosyna_multistriata PSITTACIFORMES Psittaculidae 3.114616
+Charmosyna_pulchella PSITTACIFORMES Psittaculidae 7.543223
+Vini_australis PSITTACIFORMES Psittaculidae 1.924240
+Vini_peruviana PSITTACIFORMES Psittaculidae 1.090826
+Phigys_solitarius PSITTACIFORMES Psittaculidae 1.901009
+Charmosyna_meeki PSITTACIFORMES Psittaculidae 4.766276
+Charmosyna_placentis PSITTACIFORMES Psittaculidae 7.744420
+Charmosyna_rubronotata PSITTACIFORMES Psittaculidae 0.057655
+Oreopsittacus_arfaki PSITTACIFORMES Psittaculidae 2.226225
+Melopsittacus_undulatus PSITTACIFORMES Psittaculidae 0.309539
+Psittaculirostris_edwardsii PSITTACIFORMES Psittaculidae 3.892023
+Cyclopsitta_diophthalma PSITTACIFORMES Psittaculidae 6.040856
+Platycercus_elegans PSITTACIFORMES Psittaculidae 7.814143
+Barnardius_zonarius PSITTACIFORMES Psittaculidae 1.624175
+Psittrichas_fulgidus PSITTACIFORMES Psittaculidae 7.327221
+Nestor_meridionalis PSITTACIFORMES Strigopidae 3.214346
+Nestor_notabilis PSITTACIFORMES Strigopidae 0.619756
+Chunga_burmeisteri CARIAMIFORMES Cariamidae 63.068258
+Cariama_cristata CARIAMIFORMES Cariamidae 1.318567
+Ciconia_ciconia CICONIIFORMES Ciconiidae 24.535959
+Ciconia_nigra CICONIIFORMES Ciconiidae 7.695748
+Leptoptilos_crumenifer CICONIIFORMES Ciconiidae 32.025931
+Mycteria_americana CICONIIFORMES Ciconiidae 31.185478
+Ardea_herodias PELECANIFORMES Ardeidae 31.848730
+Egretta_garzetta PELECANIFORMES Ardeidae 0.093246
+Ixobrychus_minutus PELECANIFORMES Ardeidae 7.652393
+Cochlearius_cochlearius PELECANIFORMES Ardeidae 2.974586
+Tigrisoma_lineatum PELECANIFORMES Ardeidae 17.531086
+Balaeniceps_rex PELECANIFORMES Balaenicipitidae 53.972842
+Pelecanus_occidentalis PELECANIFORMES Pelecanidae 16.005773
+Pelecanus_crispus PELECANIFORMES Pelecanidae 0.092159
+Scopus_umbretta PELECANIFORMES Scopidae 1.553746
+Eudocimus_albus PELECANIFORMES Threskiornithidae 40.246258
+Nipponia_nippon PELECANIFORMES Threskiornithidae 25.323234
+Platalea_ajaja PELECANIFORMES Threskiornithidae 0.065277
+Anhinga_anhinga SULIFORMES Anhingidae 51.810000
+Phalacrocorax_carbo SULIFORMES Phalacrocoracidae 12.741947
+Phalacrocorax_pelagicus SULIFORMES Phalacrocoracidae 1.702015
+Phalacrocorax_auritus SULIFORMES Phalacrocoracidae 3.230672
+Phalacrocorax_brasilianus SULIFORMES Phalacrocoracidae 0.066748
+Morus_bassanus SULIFORMES Sulidae 9.976056
+Morus_serrator SULIFORMES Sulidae 32.732535
+Sula_leucogaster SULIFORMES Sulidae 9.090059
+Fregata_magnificens SULIFORMES Fregatidae 0.102937
+Phoebastria_nigripes PROCELLARIIFORMES Diomedeidae 55.992097
+Oceanodroma_leucorhoa PROCELLARIIFORMES Hydrobatidae 25.620904
+Oceanodroma_tethys PROCELLARIIFORMES Hydrobatidae 30.214823
+Ardenna_grisea PROCELLARIIFORMES Procellariidae 32.763693
+Pelecanoides_urinatrix PROCELLARIIFORMES Procellariidae 31.949903
+Pterodroma_externa PROCELLARIIFORMES Procellariidae 2.803329
+Fulmarus_glacialis PROCELLARIIFORMES Procellariidae 5.689263
+Fulmarus_glacialoides PROCELLARIIFORMES Procellariidae 0.069818
+Oceanites_oceanicus PROCELLARIIFORMES Oceanitidae 28.670198
+Pelagodroma_marina PROCELLARIIFORMES Oceanitidae 5.972866
+Aptenodytes_forsteri SPHENISCIFORMES Spheniscidae 10.787291
+Aptenodytes_patagonicus SPHENISCIFORMES Spheniscidae 16.212709
+Eudyptula_minor SPHENISCIFORMES Spheniscidae 17.619893
+Spheniscus_humboldti SPHENISCIFORMES Spheniscidae 8.009078
+Pygoscelis_adeliae SPHENISCIFORMES Spheniscidae 0.507088
+Gavia_immer GAVIIFORMES Gaviidae 23.478988
+Gavia_stellata GAVIIFORMES Gaviidae 5.109423
+Rhynochetos_jubatus EURYPYGIFORMES Rhynochetidae 34.524515
+Eurypyga_helias EURYPYGIFORMES Eurypygidae 32.581947
+Phaethon_lepturus PHAETHONTIFORMES Phaethontidae 2.500002
+Phaethon_rubricauda PHAETHONTIFORMES Phaethontidae 0.432784
+Uria_aalge CHARADRIIFORMES Alcidae 41.713639
+Chroicocephalus_cirrocephalus CHARADRIIFORMES Laridae 6.234752
+Larus_marinus CHARADRIIFORMES Laridae 27.275737
+Rynchops_niger CHARADRIIFORMES Laridae 30.305313
+Sterna_hirundo CHARADRIIFORMES Laridae 5.870409
+Dromas_ardeola CHARADRIIFORMES Dromadidae 47.474487
+Glareola_cinerea CHARADRIIFORMES Glareolidae 8.646731
+Turnix_sylvaticus CHARADRIIFORMES Turnicidae 3.082304
+Jacana_jacana CHARADRIIFORMES Jacanidae 37.654760
+Rostratula_benghalensis CHARADRIIFORMES Rostratulidae 3.367873
+Pedionomus_torquatus CHARADRIIFORMES Pedionomidae 31.835784
+Thinocorus_orbignyianus CHARADRIIFORMES Thinocoridae 7.611480
+Arenaria_interpres CHARADRIIFORMES Scolopacidae 36.067147
+Tringa_solitaria CHARADRIIFORMES Scolopacidae 7.419173
+Limosa_lapponica CHARADRIIFORMES Scolopacidae 4.654659
+Burhinus_oedicnemus CHARADRIIFORMES Burhinidae 61.624589
+Charadrius_vociferus CHARADRIIFORMES Charadriidae 38.471876
+Phegornis_mitchellii CHARADRIIFORMES Charadriidae 12.842997
+Haematopus_ater CHARADRIIFORMES Haematopodidae 44.944761
+Recurvirostra_americana CHARADRIIFORMES Recurvirostridae 5.261435
+Aramus_guarauna GRUIFORMES Aramidae 41.646649
+Antigone_canadensis GRUIFORMES Gruidae 28.376255
+Balearica_regulorum GRUIFORMES Gruidae 19.643827
+Psophia_crepitans GRUIFORMES Psophiidae 5.209523
+Heliornis_fulica GRUIFORMES Heliornithidae 46.596889
+Sarothrura_rufa GRUIFORMES Sarothruridae 20.536273
+Sarothrura_elegans GRUIFORMES Sarothruridae 3.741896
+Himantornis_haematopus GRUIFORMES Rallidae 32.922053
+Rallus_limicola GRUIFORMES Rallidae 15.246200
+Rallus_longirostris GRUIFORMES Rallidae 0.048214
+Porphyrio_porphyrio GRUIFORMES Rallidae 0.374134
+Opisthocomus_hoazin OPISTHOCOMIFORMES Opisthocomidae 0.610537
+Aegotheles_cristatus APODIFORMES Aegothelidae 21.983901
+Aegotheles_insignis APODIFORMES Aegothelidae 44.273937
+Aerodramus_vanikorensis APODIFORMES Apodidae 26.738297
+Chaetura_pelagica APODIFORMES Apodidae 15.776760
+Streptoprocne_zonaris APODIFORMES Apodidae 8.484943
+Hemiprocne_comata APODIFORMES Hemiprocnidae 36.622075
+Hemiprocne_mystacea APODIFORMES Hemiprocnidae 9.495520
+Calypte_anna APODIFORMES Trochilidae 8.619439
+Archilochus_colubris APODIFORMES Trochilidae 20.308469
+Colibri_coruscans APODIFORMES Trochilidae 5.515347
+Phaethornis_superciliosus APODIFORMES Trochilidae 16.640105
+Phaethornis_griseogularis APODIFORMES Trochilidae 16.864332
+Topaza_pella APODIFORMES Trochilidae 8.517799
+Topaza_pyra APODIFORMES Trochilidae 20.202809
+Florisuga_fusca APODIFORMES Trochilidae 1.514699
+Batrachostomus_septimus CAPRIMULGIFORMES Podargidae 44.602527
+Podargus_strigoides CAPRIMULGIFORMES Podargidae 1.920010
+Nyctibius_aethereus CAPRIMULGIFORMES Nyctibiidae 36.877225
+Nyctibius_griseus CAPRIMULGIFORMES Nyctibiidae 3.904887
+Nyctibius_jamaicensis CAPRIMULGIFORMES Nyctibiidae 26.035817
+Nyctibius_leucopterus CAPRIMULGIFORMES Nyctibiidae 19.122234
+Nyctibius_maculosus CAPRIMULGIFORMES Nyctibiidae 3.445537
+Nyctibius_grandis CAPRIMULGIFORMES Nyctibiidae 0.073562
+Nyctibius_bracteatus CAPRIMULGIFORMES Nyctibiidae 25.654142
+Steatornis_caripensis CAPRIMULGIFORMES Steatornithidae 0.036661
+Antrostomus_carolinensis CAPRIMULGIFORMES Caprimulgidae 32.529243
+Caprimulgus_europaeus CAPRIMULGIFORMES Caprimulgidae 32.463358
+Chordeiles_pusillus CAPRIMULGIFORMES Caprimulgidae 0.065885
+Systellura_longirostris CAPRIMULGIFORMES Caprimulgidae 22.215405
+Lyncornis_macrotis CAPRIMULGIFORMES Caprimulgidae 13.695563
+Eurostopodus_mystacalis CAPRIMULGIFORMES Caprimulgidae 0.525801
+Centropus_bengalensis CUCULIFORMES Cuculidae 3.758868
+Centropus_viridis CUCULIFORMES Cuculidae 50.202948
+Coua_cristata CUCULIFORMES Cuculidae 0.049350
+Coccyzus_americanus CUCULIFORMES Cuculidae 2.814950
+Coccyzus_melacoryphus CUCULIFORMES Cuculidae 24.783142
+Phaenicophaeus_curvirostris CUCULIFORMES Cuculidae 14.026179
+Cuculus_canorus CUCULIFORMES Cuculidae 0.378613
+Cuculus_optatus CUCULIFORMES Cuculidae 3.623194
+Crotophaga_sulcirostris CUCULIFORMES Cuculidae 43.734998
+Geococcyx_californianus CUCULIFORMES Cuculidae 43.694352
+Tapera_naevia CUCULIFORMES Cuculidae 11.550618
+Corythaeola_cristata MUSOPHAGIFORMES Musophagidae 34.497115
+Crinifer_piscator MUSOPHAGIFORMES Musophagidae 4.881258
+Tauraco_erythrolophus MUSOPHAGIFORMES Musophagidae 15.581569
+Tauraco_macrorhynchus MUSOPHAGIFORMES Musophagidae 27.221627
+Ardeotis_kori OTIDIFORMES Otididae 27.220864
+Chlamydotis_macqueenii OTIDIFORMES Otididae 0.630125
+Lophotis_ruficrista OTIDIFORMES Otididae 1.161331
+Caloenas_nicobarica COLUMBIFORMES Columbidae 31.590244
+Didunculus_strigirostris COLUMBIFORMES Columbidae 31.590244
+Goura_cristata COLUMBIFORMES Columbidae 7.255546
+Goura_scheepmakeri COLUMBIFORMES Columbidae 0.629424
+Goura_victoria COLUMBIFORMES Columbidae 24.334698
+Otidiphaps_nobilis COLUMBIFORMES Columbidae 2.749801
+Ptilinopus_magnificus COLUMBIFORMES Columbidae 29.976570
+Treron_calvus COLUMBIFORMES Columbidae 9.574613
+Treron_vernans COLUMBIFORMES Columbidae 3.444187
+Columba_livia COLUMBIFORMES Columbidae 31.490716
+Geotrygon_montana COLUMBIFORMES Columbidae 23.340820
+Leptotila_rufaxilla COLUMBIFORMES Columbidae 6.229161
+Columbina_minuta COLUMBIFORMES Columbidae 2.693001
+Columbina_passerina COLUMBIFORMES Columbidae 19.955281
+Pterocles_gutturalis PTEROCLIFORMES Pteroclidae 25.724963
+Pterocles_namaqua PTEROCLIFORMES Pteroclidae 25.724963
+Syrrhaptes_paradoxus PTEROCLIFORMES Pteroclidae 32.431547
+Mesitornis_unicolor MESITORNITHIFORMES Mesitornithidae 29.394242
+Monias_benschi MESITORNITHIFORMES Mesitornithidae 1.167486
+Phoenicopterus_chilensis PHOENICOPTERIFORMES Phoenicopteridae 3.798076
+Phoenicopterus_ruber PHOENICOPTERIFORMES Phoenicopteridae 44.126266
+Podiceps_cristatus PODICIPEDIFORMES Podicipedidae 8.705440
+Podiceps_auritus PODICIPEDIFORMES Podicipedidae 19.787688);

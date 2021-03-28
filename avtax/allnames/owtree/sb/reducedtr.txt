@@ -1,0 +1,25 @@
+#2021.03.27
+Start with timetree_reduced_taxa_OW_2019.nextree.tre
+Will use tree with root constraint.
+extractd as trc.001
+	1. first make each taxon a new line.
+
+		tr '\t' '\n' <trc.001 > trc.002
+
+	2. remove parentheses -- these are needed only to produce tree structure.
+		 sed -e 's/(//g' -e 's/)//g' trc.002 > trc.003
+	2. next we want to make each taxon an individual line (record).
+	Beginning of first line looks like this:
+	 tree with_root_constraint = [&R] Struthio_camelus_STRUTHIONIFORMES_Struthionidae:64.243358,Apteryx_mantelli_APTERYGIFORMES_Apterygidae:51.592404,
+	 So comma is record separator.
+
+	 First, by hand editing I will have the second line start with the taxon.
+	 Then substitute tab for comma.
+	 sed 's/,/	/g' trc.002 > trc.003
+
+	 Now need to replace tab with newline.
+	 The sed function here is:
+	  sed -e 'y/\t/\n/' (egrep extension required).
+ 	sed -e 'y/\t/\n' trc.003 > trc.004
+
+

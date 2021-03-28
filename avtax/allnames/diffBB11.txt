@@ -1,0 +1,8875 @@
+0a1
+> Abeillia_abeillei
+6c7
+< Acanthidops_bairdii
+---
+> Acanthidops_bairdi
+8d8
+< Acanthis_hornemanni
+17d16
+< Acanthiza_murina
+25a25,26
+> Accipiter_albogularis
+> Accipiter_badius
+26a28,32
+> Accipiter_brevipes
+> Accipiter_butleri
+> Accipiter_castanilius
+> Accipiter_chilensis
+> Accipiter_chionogaster
+27a34
+> Accipiter_collaris
+28a36
+> Accipiter_erythrauchen
+29a38,40
+> Accipiter_erythropus
+> Accipiter_fasciatus
+> Accipiter_francesiae
+30a42
+> Accipiter_griseiceps
+31a44,47
+> Accipiter_gundlachi
+> Accipiter_haplochrous
+> Accipiter_henicogrammus
+> Accipiter_henstii
+32a49,55
+> Accipiter_luteoschistaceus
+> Accipiter_madagascariensis
+> Accipiter_melanochlamys
+> Accipiter_melanoleucus
+> Accipiter_meyerianus
+> Accipiter_minullus
+> Accipiter_nanus
+34a58,63
+> Accipiter_ovampensis
+> Accipiter_poliocephalus
+> Accipiter_poliogaster
+> Accipiter_princeps
+> Accipiter_rhodogaster
+> Accipiter_rufitorques
+39a69
+> Accipiter_trinotatus
+40a71
+> Accipiter_ventralis
+42,44d72
+< Aceros_cassidix
+< Aceros_comatus
+< Aceros_corrugatus
+46,49d73
+< Aceros_plicatus
+< Aceros_subruficollis
+< Aceros_undulatus
+< Aceros_waldeni
+58d81
+< Acridotheres_javanicus
+60a84
+> Acritillas_indica
+62d85
+< Acrocephalus_aedon
+65a89
+> Acrocephalus_astrolabii
+68d91
+< Acrocephalus_avicenniae
+77a101
+> Acrocephalus_hiwae
+78a103,104
+> Acrocephalus_longirostris
+> Acrocephalus_luscinius
+80d105
+< Acrocephalus_mendanae
+81a107
+> Acrocephalus_nijoi
+85a112,113
+> Acrocephalus_percernis
+> Acrocephalus_rehsei
+86a115
+> Acrocephalus_rodericanus
+90a120
+> Acrocephalus_sorghophilus
+91a122
+> Acrocephalus_syrinx
+94a126
+> Acrocephalus_yamashinae
+96a129
+> Actenoides_bougainvillei
+97a131
+> Actenoides_hombroni
+98a133,135
+> Actenoides_monachus
+> Actenoides_princeps
+> Actinodura_cyanouroptera
+102a140
+> Actinodura_sodangorum
+107a146
+> Actophilornis_albinucha
+111d149
+< Aegithalos_bonvaloti
+113,115c151
+< Aegithalos_concinnus
+< Aegithalos_fuliginosus
+< Aegithalos_glaucogularis
+---
+> Aegithalos_exilis
+119c155,156
+< Aegithalos_sharpei
+---
+> Aegithina_lafresnayei
+> Aegithina_nigrolutea
+120a158
+> Aegithina_viridissima
+122a161
+> Aegolius_gradyi
+123a163
+> Aegotheles_affinis
+125d164
+< Aegotheles_archboldi
+126a166
+> Aegotheles_crinifrons
+129c169
+< Aegotheles_tatei
+---
+> Aegotheles_savesi
+131a172
+> Aenigmatolimnas_marginalis
+132a174,175
+> Aepypodius_bruijnii
+> Aerodramus_amelis
+134a178
+> Aerodramus_ceramensis
+136d179
+< Aerodramus_francicus
+137a181,184
+> Aerodramus_germani
+> Aerodramus_hirundinaceus
+> Aerodramus_inquietus
+> Aerodramus_leucophaeus
+139a187,189
+> Aerodramus_nuditarsus
+> Aerodramus_ocistus
+> Aerodramus_orientalis
+140a191
+> Aerodramus_pelewensis
+142a194
+> Aerodramus_sororum
+144a197
+> Aerodramus_unicolor
+147a201,202
+> Aeronautes_andecolus
+> Aeronautes_montivagus
+152a208,213
+> Aethomyias_arfakianus
+> Aethomyias_papuensis
+> Aethomyias_perspicillatus
+> Aethomyias_rufescens
+> Aethomyias_spilodera
+> Aethopyga_bella
+154a216
+> Aethopyga_decorosa
+155a218
+> Aethopyga_eximia
+156a220,227
+> Aethopyga_gouldiae
+> Aethopyga_guimarasensis
+> Aethopyga_ignicauda
+> Aethopyga_jefferyi
+> Aethopyga_linaraborae
+> Aethopyga_magnifica
+> Aethopyga_mystacalis
+> Aethopyga_nipalensis
+157a229,231
+> Aethopyga_pulcherrima
+> Aethopyga_saturata
+> Aethopyga_shelleyi
+159c233,236
+< Afropavo_congensis
+---
+> Aethopyga_vigorsii
+> Afrotis_afra
+> Afrotis_afraoides
+> Agamia_agami
+166a244
+> Agapornis_swindernianus
+168a247,248
+> Agelaioides_fringillarius
+> Agelaius_assimilis
+173a254
+> Agelastes_niger
+176a258
+> Aglaeactis_aliciae
+179a262
+> Aglaiocercus_berlepschi
+181c264,265
+< Aglaiocercus_kingi
+---
+> Aglaiocercus_kingii
+> Agraphospiza_rubescens
+182a267
+> Agriornis_lividus
+183a269
+> Agriornis_montanus
+184a271,275
+> Agropsar_philippensis
+> Agropsar_sturninus
+> Ailuroedus_arfakianus
+> Ailuroedus_astigmaticus
+> Ailuroedus_buccoides
+186c277,281
+< Ailuroedus_melanotis
+---
+> Ailuroedus_geislerorum
+> Ailuroedus_jobiensis
+> Ailuroedus_maculosus
+> Ailuroedus_melanocephalus
+> Ailuroedus_stonii
+191a287,290
+> Akialoa_ellisiana
+> Akialoa_lanaiensis
+> Akialoa_obscura
+> Akialoa_stejnegeri
+193c292
+< Alario_alario
+---
+> Alaemon_hamertoni
+195a295,299
+> Alaudala_athensis
+> Alaudala_cheleensis
+> Alaudala_rufescens
+> Alaudala_somalica
+> Alauda_razae
+204a309,310
+> Alcippe_davidi
+> Alcippe_fratercula
+205a312
+> Alcippe_hueti
+206a314
+> Alcippe_nipalensis
+208a317,318
+> Alcippe_pyrrhoptera
+> Alcurus_striatus
+214d323
+< Alectoris_melanocephala
+217a327,329
+> Alectroenas_nitidissimus
+> Alectroenas_pulcherrimus
+> Alectroenas_sganzini
+222d333
+< Alethe_diademata
+228d338
+< Allenia_fusca
+230a341
+> Alophoixus_frater
+233a345,346
+> Alophoixus_ruficrissus
+> Alophoixus_tephrogenys
+235a349
+> Alopochen_mauritiana
+241,243c355,361
+< Amandava_amandavaB
+< Amaurocichla_bocagei
+< Amaurornis_akool
+---
+> Amandava_formosa
+> Amandava_subflava
+> Amaurolimnas_concolor
+> Amaurornis_isabellina
+> Amaurornis_magnirostris
+> Amaurornis_moluccana
+> Amaurornis_olivacea
+244a363,364
+> Amaurospiza_aequatorialis
+> Amaurospiza_carrizalensis
+247,254c367,368
+< Amazilia_amabilis
+< Amazilia_amazilia
+< Amazilia_chionogaster
+< Amazilia_decora
+< Amazilia_fimbriata
+< Amazilia_franciae
+< Amazilia_lactea
+< Amazilia_rosenbergi
+---
+> Amazilia_boucardi
+> Amazilia_luciae
+256,257d369
+< Amazilia_saucerrottei
+< Amazilia_tobaci
+259,262c371
+< Amazilia_versicolor
+< Amazilia_viridicauda
+< Amazilia_viridigaster
+< Amazilia_yucatanensis
+---
+> Amazilis_amazilia
+267d375
+< Amazona_arausiaca
+270a379
+> Amazona_brasiliensis
+271a381
+> Amazona_diadema
+275a386
+> Amazona_guatemalae
+277a389
+> Amazona_kawalli
+278a391
+> Amazona_mercenarius
+279a393,395
+> Amazona_oratrix
+> Amazona_pretrei
+> Amazona_rhodocorytha
+281,282c397
+< Amazona_ventralis
+< Amazona_versicolor
+---
+> Amazona_vinacea
+286a402
+> Amblyornis_flavifrons
+289d404
+< Amblyornis_newtoniana
+294,296d408
+< Ammodramus_bairdii
+< Ammodramus_caudacutus
+< Ammodramus_henslowii
+298,300d409
+< Ammodramus_leconteii
+< Ammodramus_maritimus
+< Ammodramus_nelsoni
+303d411
+< Ammomanes_deserti
+305c413,414
+< Ammomanopsis_grayi
+---
+> Ammonastes_pelzelni
+> Ammoperdix_griseogularis
+306a416,419
+> Ammospiza_caudacuta
+> Ammospiza_leconteii
+> Ammospiza_maritima
+> Ammospiza_nelsoni
+311c424
+< Amphispiza_belli
+---
+> Ampelornis_griseiceps
+313d425
+< Amphispiza_quinquestriata
+319a432
+> Amytornis_modestus
+320a434
+> Amytornis_rowleyi
+322a437
+> Amytornis_whitei
+323a439,441
+> Anabacerthia_amaurotis
+> Anabacerthia_lichtensteini
+> Anabacerthia_ruficaudata
+324a443,444
+> Anabacerthia_variegaticeps
+> Anabathmis_reichenbachii
+327,328d446
+< Anairetes_agilis
+< Anairetes_agraphia
+334a453
+> Anaplectes_rubriceps
+337,338c456,457
+< Anas_americana
+< Anas_aucklandica
+---
+> Anas_albogularis
+> Anas_andium
+345d463
+< Anas_clypeata
+347d464
+< Anas_cyanoptera
+349c466
+< Anas_discors
+---
+> Anas_eatoni
+351d467
+< Anas_falcata
+353d468
+< Anas_formosa
+357d471
+< Anas_hottentota
+362,363d475
+< Anas_penelope
+< Anas_platalea
+366,368d477
+< Anas_puna
+< Anas_querquedula
+< Anas_rhynchotis
+370,371d478
+< Anas_sibilatrix
+< Anas_smithii
+373d479
+< Anas_strepera
+374a481,482
+> Anastomus_lamelligerus
+> Anastomus_oscitans
+376c484
+< Anas_versicolor
+---
+> Anas_wyvilliana
+381a490
+> Andigena_nigrirostris
+383a493
+> Androphobus_viridis
+385a496
+> Anhinga_novaehollandiae
+387d497
+< Anisognathus_flavinuchus
+392a503
+> Anodorhynchus_glaucus
+395,396c506
+< Anomalopteryx_didiformis
+< Anomalospiza_imberbis
+---
+> Anopetia_gounellei
+399c509,510
+< Anorrhinus_tickelli
+---
+> Anous_albivitta
+> Anous_ceruleus
+402d512
+< Anous_tenuirostris
+406a517,518
+> Anser_caerulescens
+> Anser_canagicus
+409d520
+< Anser_fabalis
+410a522,523
+> Anser_rossii
+> Anser_serrirostris
+411a525,526
+> Anthobaphes_violacea
+> Anthocephala_berlepschi
+417a533
+> Anthornis_melanocephala
+418a535,536
+> Anthoscopus_caroli
+> Anthoscopus_flavifrons
+419a538,540
+> Anthoscopus_musculus
+> Anthoscopus_parvulus
+> Anthoscopus_punctifrons
+420a542
+> Anthracoceros_coronatus
+421a544,545
+> Anthracoceros_marchei
+> Anthracoceros_montani
+428a553,556
+> Anthreptes_anchietae
+> Anthreptes_gabonicus
+> Anthreptes_griseigularis
+> Anthreptes_longuemarei
+429a558
+> Anthreptes_neglectus
+432,434c561,567
+< Anthropoides_paradiseus
+< Anthropoides_virgo
+< Anthus_berthelotii
+---
+> Anthreptes_reichenowi
+> Anthreptes_rhodolaemus
+> Anthreptes_rubritorques
+> Anthreptes_seimundi
+> Anthus_antarcticus
+> Anthus_australis
+> Anthus_bogotensis
+436,438c569,572
+< Anthus_campestris
+< Anthus_cervinus
+< Anthus_cinnamomeus
+---
+> Anthus_brevirostris
+> Anthus_caffer
+> Anthus_chacoensis
+> Anthus_chloris
+439a574,575
+> Anthus_crenatus
+> Anthus_furcatus
+441c577
+< Anthus_gustavi
+---
+> Anthus_gutturalis
+443a580
+> Anthus_leucophrys
+445,449c582,592
+< Anthus_nairobi
+< Anthus_petrosus
+< Anthus_pratensis
+< Anthus_richardi
+< Anthus_rubescens
+---
+> Anthus_melindae
+> Anthus_nattereri
+> Anthus_nicholsoni
+> Anthus_nilghiriensis
+> Anthus_novaeseelandiae
+> Anthus_nyassae
+> Anthus_pallidiventris
+> Anthus_peruvianus
+> Anthus_roseatus
+> Anthus_similis
+> Anthus_sokokensis
+452c595,601
+< Anthus_trivialis
+---
+> Anthus_sylvanus
+> Anthus_vaalensis
+> Antigone_antigone
+> Antigone_canadensis
+> Antigone_rubicunda
+> Antigone_vipio
+> Antilophia_bokermanni
+453a603,613
+> Antrostomus_arizonae
+> Antrostomus_carolinensis
+> Antrostomus_cubanensis
+> Antrostomus_noctitherus
+> Antrostomus_ridgwayi
+> Antrostomus_rufus
+> Antrostomus_salvini
+> Antrostomus_saturatus
+> Antrostomus_sericocaudatus
+> Antrostomus_vociferus
+> Anumara_forbesi
+454a615
+> Anurophasis_monorthonyx
+455a617,618
+> Apalis_argentea
+> Apalis_bamendae
+456a620,622
+> Apalis_chapini
+> Apalis_chariessa
+> Apalis_chirindensis
+458a625,626
+> Apalis_flavigularis
+> Apalis_fuscigularis
+460a629,631
+> Apalis_kaboboensis
+> Apalis_karamojae
+> Apalis_lynesi
+461a633,634
+> Apalis_nigriceps
+> Apalis_personata
+463c636
+< Apalis_pulchra
+---
+> Apalis_ruddi
+465c638
+< Apalis_ruwenzorii
+---
+> Apalis_sharpii
+469a643,644
+> Apalopteron_familiare
+> Aphanocrex_podarces
+471c646
+< Aphantochroa_cirrochloris
+---
+> Aphanotriccus_capitalis
+473a649
+> Aphelocephala_pectoralis
+477,478d652
+< Aphelocoma_potosina
+< Aphelocoma_sumichrasti
+481d654
+< Aphelocoma_wollweberi
+482a656
+> Aphrastura_masafuerae
+484d657
+< Aphriza_virgata
+485a659
+> Aplonis_atrifusca
+488a663,668
+> Aplonis_circumscripta
+> Aplonis_corvina
+> Aplonis_crassa
+> Aplonis_dichroa
+> Aplonis_feadensis
+> Aplonis_fusca
+490a671,672
+> Aplonis_magna
+> Aplonis_mavornata
+492a675,677
+> Aplonis_mysolensis
+> Aplonis_mystacea
+> Aplonis_opaca
+494a680,681
+> Aplonis_santovestris
+> Aplonis_striata
+495a683,684
+> Aplonis_zelandica
+> Aprositornis_disjuncta
+501a691
+> Apteryx_mantelli
+503a694
+> Apus_acuticauda
+504a696
+> Apus_alexandri
+506c698,706
+< Apus_melba
+---
+> Apus_balstoni
+> Apus_barbatus
+> Apus_batesi
+> Apus_berliozi
+> Apus_bradfieldi
+> Apus_caffer
+> Apus_horus
+> Apus_leuconyx
+> Apus_niansae
+508a709,712
+> Apus_pallidus
+> Apus_salimalii
+> Apus_sladeniae
+> Apus_unicolor
+513d716
+< Aquila_clanga
+516d718
+< Aquila_heliaca
+518d719
+< Aquila_pomarina
+521a723
+> Ara_ambiguus
+525a728,734
+> Arachnothera_clarae
+> Arachnothera_crassirostris
+> Arachnothera_dilutior
+> Arachnothera_everetti
+> Arachnothera_flammifera
+> Arachnothera_flavigaster
+> Arachnothera_juliae
+528c737,738
+< Arachnothera_robusta
+---
+> Arachnothera_modesta
+> Ara_glaucogularis
+530c740,745
+< Aramides_cajanea
+---
+> Aramides_albiventris
+> Aramides_axillaris
+> Aramides_calopterus
+> Aramides_mangle
+> Aramides_saracura
+> Aramides_wolfi
+531a747,748
+> Aramidopsis_plateni
+> Ara_militaris
+532a750
+> Ara_rubrogenys
+534,536c752
+< Aratinga_acuticaudata
+< Aratinga_aurea
+< Aratinga_cactorum
+---
+> Aratinga_auricapillus
+538,541c754
+< Aratinga_leucophthalma
+< Aratinga_mitrata
+< Aratinga_nana
+< Aratinga_pertinax
+---
+> Aratinga_nenday
+543a757,767
+> Ara_tricolor
+> Arborophila_ardens
+> Arborophila_atrogularis
+> Arborophila_brunneopectus
+> Arborophila_cambodiana
+> Arborophila_campbelli
+> Arborophila_crudigularis
+> Arborophila_davidi
+> Arborophila_diversa
+> Arborophila_gingica
+> Arborophila_hyperythra
+544a769,772
+> Arborophila_mandellii
+> Arborophila_orientalis
+> Arborophila_rolli
+> Arborophila_rubrirostris
+545a774,775
+> Arborophila_rufogularis
+> Arborophila_sumatrana
+553a784
+> Ardea_goliath
+554a786,789
+> Ardea_humbloti
+> Ardea_insignis
+> Ardea_melanocephala
+> Ardea_pacifica
+555a791,798
+> Ardea_sumatrana
+> Ardenna_bulleri
+> Ardenna_carneipes
+> Ardenna_creatopus
+> Ardenna_gravis
+> Ardenna_grisea
+> Ardenna_pacifica
+> Ardenna_tenuirostris
+556a800,801
+> Ardeola_grayii
+> Ardeola_idae
+557a803,804
+> Ardeola_rufiventris
+> Ardeola_speciosa
+558a806
+> Ardeotis_australis
+559a808
+> Ardeotis_nigriceps
+562a812,830
+> Argya_affinis
+> Argya_altirostris
+> Argya_aylmeri
+> Argya_caudata
+> Argya_cinereifrons
+> Argya_earlei
+> Argya_fulva
+> Argya_gularis
+> Argya_huttoni
+> Argya_longirostris
+> Argya_malcolmi
+> Argya_rufescens
+> Argya_squamiceps
+> Argya_striata
+> Argya_subrufa
+> Arizelocichla_chlorigula
+> Arizelocichla_fusciceps
+> Arizelocichla_kakamegae
+> Arizelocichla_kikuyuensis
+565c833,834
+< Arizelocichla_montanus
+---
+> Arizelocichla_montana
+> Arizelocichla_neumanni
+567c836,841
+< Arizelocichla_tephrolaemus
+---
+> Arizelocichla_olivaceiceps
+> Arizelocichla_striifacies
+> Arizelocichla_tephrolaema
+> Arremon_abeillei
+> Arremon_assimilis
+> Arremon_atricapillus
+568a843
+> Arremon_basilicus
+570a846,848
+> Arremon_costaricensis
+> Arremon_crassirostris
+> Arremon_dorbignii
+571a850
+> Arremon_franciscanus
+574a854,856
+> Arremonops_tocuyensis
+> Arremon_phaeopleurus
+> Arremon_phygas
+575a858,859
+> Arremon_semitorquatus
+> Arremon_taciturnus
+578,579c862,864
+< Arses_telescophthalmus
+< Artamella_viridis
+---
+> Arses_kaupi
+> Arses_lorealis
+> Arses_telescopthalmus
+581a867,868
+> Artamus_fuscus
+> Artamus_insignis
+582a870,871
+> Artamus_maximus
+> Artamus_mentalis
+583a873
+> Artamus_monachus
+585a876,877
+> Artemisiospiza_belli
+> Artemisiospiza_nevadensis
+586a879,880
+> Artisornis_moreaui
+> Arundinax_aedon
+587a882,883
+> Asemospiza_fuliginosa
+> Asemospiza_obscura
+589a886
+> Asio_clamator
+590a888
+> Asio_madagascariensis
+591a890,892
+> Asio_solomonensis
+> Asio_stygius
+> Aspatha_gularis
+592a894,895
+> Asthenes_arequipae
+> Asthenes_ayacuchensis
+593a897,898
+> Asthenes_berlepschi
+> Asthenes_coryi
+596a902
+> Asthenes_griseomurina
+598a905,906
+> Asthenes_heterura
+> Asthenes_hudsoni
+599a908,909
+> Asthenes_luizae
+> Asthenes_maculicauda
+602a913,914
+> Asthenes_palpebralis
+> Asthenes_perijana
+606a919,920
+> Asthenes_vilcabambae
+> Asthenes_virgata
+608c922,923
+< Astrapia_rothschildi
+---
+> Astrapia_mayeri
+> Astrapia_nigra
+613a929,930
+> Athene_blewitti
+> Athene_brama
+615c932
+< Athene_lilith
+---
+> Athene_jacquinoti
+616a934
+> Athene_superciliaris
+617a936
+> Atlapetes_albiceps
+618a938,940
+> Atlapetes_albofrenatus
+> Atlapetes_blancae
+> Atlapetes_canigenis
+620c942,946
+< Atlapetes_gutturalis
+---
+> Atlapetes_crassus
+> Atlapetes_flaviceps
+> Atlapetes_forbesi
+> Atlapetes_fulviceps
+> Atlapetes_fuscoolivaceus
+621a948,957
+> Atlapetes_leucopis
+> Atlapetes_leucopterus
+> Atlapetes_luteoviridis
+> Atlapetes_melanocephalus
+> Atlapetes_melanolaemus
+> Atlapetes_meridae
+> Atlapetes_nationi
+> Atlapetes_pallidiceps
+> Atlapetes_pallidinucha
+> Atlapetes_personatus
+622a959
+> Atlapetes_rufigenis
+624a962,966
+> Atlapetes_seebohmi
+> Atlapetes_semirufus
+> Atlapetes_terborghi
+> Atlapetes_tibialis
+> Atlapetes_tricolor
+625a968
+> Atrichornis_rufescens
+628d970
+< Atthis_heloisa
+630,631c972,974
+< Atticora_pileata
+< Atticora_tibialis
+---
+> Atticora_melanoleuca
+> Attila_bolivianus
+> Attila_cinnamomeus
+636a980,982
+> Augastes_lumachella
+> Augastes_scutatus
+> Aulacorhynchus_albivitta
+643a990,991
+> Aulacorhynchus_wagleri
+> Aulacorhynchus_whitelianus
+644a993
+> Automolus_exsertus
+645a995
+> Automolus_lammi
+649c999
+< Automolus_rubiginosus
+---
+> Automolus_paraensis
+650a1001,1006
+> Automolus_subulatus
+> Automolus_virgatus
+> Aviceda_cuculoides
+> Aviceda_jerdoni
+> Aviceda_leuphotes
+> Aviceda_madagascariensis
+655a1012
+> Aythya_baeri
+658a1016
+> Aythya_innotata
+660c1018
+< Aythya_nyroca
+---
+> Aythya_novaeseelandiae
+662d1019
+< Babax_lanceolatus
+668,669d1024
+< Baeopogon_clamans
+< Baeopogon_indicator
+673a1029
+> Bambusicola_sonorivox
+685,686c1041
+< Basileuterus_culicivorus
+< Basileuterus_hypoleucus
+---
+> Basileuterus_ignotus
+689d1043
+< Basileuterus_rufifrons
+691c1045,1046
+< Basileuterus_tristriatus
+---
+> Basilinna_leucotis
+> Basilinna_xantusii
+692a1048,1049
+> Basilornis_corythaix
+> Basilornis_galeatus
+696d1052
+< Bathmocercus_rubehoensis
+698d1053
+< Bathmocercus_winifredae
+700a1056,1059
+> Batis_erlangeri
+> Batis_fratrum
+> Batis_ituriensis
+> Batis_margaritae
+702,703c1061,1063
+< Batis_mixta
+< Batis_molitor
+---
+> Batis_minulla
+> Batis_orientalis
+> Batis_perkeo
+705a1066
+> Batis_senegalensis
+706a1068,1070
+> Batrachostomus_affinis
+> Batrachostomus_auritus
+> Batrachostomus_chaseni
+707a1072,1077
+> Batrachostomus_harterti
+> Batrachostomus_hodgsoni
+> Batrachostomus_javensis
+> Batrachostomus_mixtus
+> Batrachostomus_moniliger
+> Batrachostomus_poliolophus
+708a1079,1080
+> Batrachostomus_stellatus
+> Berenicornis_comatus
+709a1082
+> Bermuteo_avivorus
+711a1085
+> Biatas_nigropectus
+716a1091
+> Bleda_ugandae
+718a1094
+> Bocagia_minuta
+719a1096
+> Boissonneaua_jardini
+721a1099
+> Bolborhynchus_ferrugineifrons
+722a1101,1102
+> Bolemoreus_frenatus
+> Bolemoreus_hindwoodi
+726,727d1105
+< Bonasa_bonasia
+< Bonasa_sewerzowi
+728a1107,1109
+> Bostrychia_hagedash
+> Bostrychia_olivacea
+> Bostrychia_rara
+730a1112
+> Botaurus_poiciloptilus
+731a1114,1121
+> Brachycope_anomala
+> Brachygalba_albogularis
+> Brachygalba_goeringi
+> Brachygalba_lugubris
+> Brachygalba_salmoni
+> Brachypodius_fuscoflavescens
+> Brachypodius_nieuwenhuisii
+> Brachypodius_priocephalus
+733,736c1123,1124
+< Brachypteracias_squamiger
+< Brachypteryx_albiventris
+< Brachypteryx_leucophrys
+< Brachypteryx_major
+---
+> Brachypteryx_hyperythra
+> Brachypteryx_leucophris
+741,745d1128
+< Bradornis_infuscatus
+< Bradornis_mariquensis
+< Bradornis_microrhynchus
+< Bradornis_pallidus
+< Bradypterus_alishanensis
+750,753c1133
+< Bradypterus_castaneus
+< Bradypterus_caudatus
+< Bradypterus_cinnamomeus
+< Bradypterus_davidi
+---
+> Bradypterus_grandis
+755d1134
+< Bradypterus_kashmirensisi
+757,761d1135
+< Bradypterus_luteoventris
+< Bradypterus_major
+< Bradypterus_mandelli
+< Bradypterus_mariae
+< Bradypterus_montis
+763,766d1136
+< Bradypterus_tacsanowskius
+< Bradypterus_thoracicus
+< Bradypterus_tongensis
+< Bradypterus_transvaalensis
+776d1145
+< Brotogeris_jugularis
+778d1146
+< Brotogeris_sanctithomae
+780c1148,1149
+< Brotogeris_versicolurus
+---
+> Brunhilda_charmosyna
+> Brunhilda_erythronotos
+785c1154
+< Bubo_bengalensis
+---
+> Bubo_blakistoni
+787a1157
+> Bubo_coromandus
+789c1159,1160
+< Bubo_magellanicus
+---
+> Bubo_leucostictus
+> Bubo_milesi
+790a1162,1163
+> Bubo_philippensis
+> Bubo_poensis
+791a1165,1166
+> Bubo_shelleyi
+> Bubo_sumatranus
+793c1168,1169
+< Bubulcus_ibis
+---
+> Bubo_vosseleri
+> Bubulcus_coromandus
+796d1171
+< Buccanodon_duchaillui
+798a1174,1175
+> Bucco_noanamae
+> Bucco_tamatia
+802a1180
+> Buceros_hydrocorax
+804d1181
+< Buceros_vigil
+807c1184
+< Bugeranus_carunculatus
+---
+> Bulweria_bifax
+808a1186
+> Bulweria_fallax
+810c1188
+< Buphagus_erythrorhynchus
+---
+> Buphagus_erythrorynchus
+813a1192
+> Burhinus_indicus
+819a1199
+> Butastur_liventer
+822d1201
+< Buteo_albicaudatus
+825c1204,1207
+< Buteo_augur
+---
+> Buteo_archeri
+> Buteo_auguralis
+> Buteo_bannermani
+> Buteo_brachypterus
+826a1209
+> Buteo_burmanicus
+828d1210
+< Buteo_galapagoensis
+830a1213,1214
+> Buteogallus_coronatus
+> Buteogallus_lacernulatus
+832c1216,1217
+< Buteogallus_subtilis
+---
+> Buteogallus_schistaceus
+> Buteogallus_solitarius
+837,838d1221
+< Buteo_lagopus
+< Buteo_leucorrhous
+840d1222
+< Buteo_magnirostris
+842a1225
+> Buteo_plagiatus
+844,846d1226
+< Buteo_poecilochrous
+< Buteo_polyosoma
+< Buteo_refectus
+850a1231
+> Buteo_socotraensis
+853,854c1234,1235
+< Buthraupis_aureodorsalis
+< Buthraupis_eximia
+---
+> Buteo_trizonatus
+> Buteo_ventralis
+856d1236
+< Buthraupis_wetmorei
+859c1239,1246
+< Cacatua_alba
+---
+> Bycanistes_albotibialis
+> Bycanistes_brevis
+> Bycanistes_bucinator
+> Bycanistes_cylindricus
+> Bycanistes_fistulator
+> Bycanistes_subcylindricus
+> Cabalus_lafresnayanus
+> Cabalus_modestus
+862a1250,1251
+> Cacatua_ophthalmica
+> Cacatua_pastinator
+864a1254
+> Cacatua_tenuirostris
+868a1259,1260
+> Cacicus_koepckeae
+> Cacicus_latirostris
+870c1262,1263
+< Cacicus_melanicterus
+---
+> Cacicus_microrhynchus
+> Cacicus_oseryi
+873a1267,1268
+> Cacomantis_aeruginosus
+> Cacomantis_castaneiventris
+877c1272,1273
+< Cacomantis_pyrrhophanus
+---
+> Cacomantis_passerinus
+> Cacomantis_sonneratii
+880d1275
+< Cairina_scutulata
+882a1278,1284
+> Calamanthus_montanellus
+> Calamonastes_fasciolatus
+> Calamonastes_simplex
+> Calamonastes_stierlingi
+> Calamonastes_undosus
+> Calamonastides_gracilirostris
+> Calamornis_heudei
+884,887c1286,1287
+< Calandrella_acutirostris
+< Calandrella_brachydactyla
+< Calandrella_cheleensis
+< Calandrella_rufescens
+---
+> Calandrella_blanfordi
+> Calandrella_eremica
+890a1291
+> Calendulauda_africanoides
+892c1293
+< Calendulauda_barlowi
+---
+> Calendulauda_alopex
+894c1295
+< Calendulauda_erythrochlamys
+---
+> Calendulauda_poecilosterna
+895a1297,1298
+> Calicalicus_madagascariensis
+> Calicalicus_rufocarpalis
+900a1304
+> Calidris_falcinellus
+904d1307
+< Calidris_maritima
+909a1313
+> Calidris_pugnax
+910a1315,1316
+> Calidris_pygmaea
+> Calidris_ruficollis
+911a1318
+> Calidris_subruficollis
+913a1321,1325
+> Calidris_virgata
+> Caligavis_chrysops
+> Caligavis_obscura
+> Caligavis_subfrenata
+> Callacanthis_burtoni
+914a1327
+> Callaeas_wilsoni
+917a1331
+> Calliope_tschebaiewi
+924a1339
+> Callocephalon_fimbriatum
+928a1344
+> Caloenas_maculata
+929a1346
+> Calonectris_borealis
+930a1348
+> Calonectris_edwardsii
+932c1350,1353
+< Calorhamphus_fuliginosus
+---
+> Caloperdix_oculeus
+> Caloramphus_fuliginosus
+> Caloramphus_hayii
+> Calothorax_lucifer
+936c1357
+< Calyptocichla_serina
+---
+> Calyptomena_hosii
+942,948c1363,1364
+< Calyptorhynchus_funereus
+< Calyptorhynchus_latirostris
+< Camarhynchus_heliobates
+< Camarhynchus_pallidus
+< Camarhynchus_parvulus
+< Camarhynchus_pauper
+< Camarhynchus_psittacula
+---
+> Calyptorhynchus_lathami
+> Calyptura_cristata
+951a1368,1369
+> Camaroptera_harterti
+> Camaroptera_superciliaris
+953d1370
+< Campephaga_oriolina
+956c1373
+< Campephaga_phoeniceaB
+---
+> Campephaga_quiscalina
+965a1383
+> Campephilus_robustus
+966a1385,1386
+> Campethera_abingoni
+> Campethera_bennettii
+968,969c1388,1395
+< Campethera_caroli
+< Campethera_nivosa
+---
+> Campethera_maculosa
+> Campethera_mombassica
+> Campethera_notata
+> Campethera_nubica
+> Campethera_punctuligera
+> Campethera_scriptoricauda
+> Campethera_taeniolaema
+> Campicoloides_bifasciatus
+970a1397
+> Camptorhynchus_labradorius
+973c1400,1403
+< Campylopterus_curvipennis
+---
+> Campylopterus_calcirupicola
+> Campylopterus_diamantinensis
+> Campylopterus_duidae
+> Campylopterus_ensipennis
+978c1408
+< Campylopterus_rufus
+---
+> Campylopterus_phainopeplus
+995d1424
+< Campylorhynchus_yucatanicus
+996a1426,1428
+> Canirallus_oculeus
+> Cantorchilus_elutus
+> Cantorchilus_griseus
+1005a1438
+> Cantorchilus_zeledoni
+1007a1441
+> Capito_brunneipectus
+1008a1443
+> Capito_hypoleucus
+1010d1444
+< Capito_niger
+1016c1450,1452
+< Caprimulgus_anthonyi
+---
+> Caprimulgus_andamanicus
+> Caprimulgus_asiaticus
+> Caprimulgus_atripennis
+1018,1020c1454,1455
+< Caprimulgus_candicans
+< Caprimulgus_carolinensis
+< Caprimulgus_cayennensis
+---
+> Caprimulgus_celebensis
+> Caprimulgus_clarus
+1022c1457,1458
+< Caprimulgus_enarratus
+---
+> Caprimulgus_concretus
+> Caprimulgus_donaldsoni
+1023a1460
+> Caprimulgus_eximius
+1026d1462
+< Caprimulgus_indicus
+1028c1464,1465
+< Caprimulgus_longirostris
+---
+> Caprimulgus_jotaka
+> Caprimulgus_longipennis
+1030d1466
+< Caprimulgus_maculicaudus
+1031a1468
+> Caprimulgus_mahrattensis
+1033c1470,1471
+< Caprimulgus_nigrescens
+---
+> Caprimulgus_meesi
+> Caprimulgus_natalensis
+1035c1473
+< Caprimulgus_parvulus
+---
+> Caprimulgus_nubicus
+1037,1038c1475,1477
+< Caprimulgus_poliocephalus
+< Caprimulgus_ridgwayi
+---
+> Caprimulgus_phalaena
+> Caprimulgus_pulchellus
+> Caprimulgus_ruficollis
+1040,1045c1479,1481
+< Caprimulgus_rufus
+< Caprimulgus_salvini
+< Caprimulgus_saturatus
+< Caprimulgus_sericocaudatus
+< Caprimulgus_vociferus
+< Caprimulgus_whitelyi
+---
+> Caprimulgus_solala
+> Caprimulgus_stellatus
+> Caprimulgus_vexillarius
+1046a1483
+> Caracara_lutosa
+1056d1492
+< Carduelis_cannabina
+1058c1494,1495
+< Carduelis_flavirostris
+---
+> Carduelis_citrinella
+> Carduelis_corsicana
+1060c1497,1502
+< Carpodacus_cassinii
+---
+> Caridonax_fulgidus
+> Carpococcyx_radiceus
+> Carpococcyx_renauldi
+> Carpococcyx_viridis
+> Carpodacus_davidianus
+> Carpodacus_dubius
+1063,1064c1505,1507
+< Carpodacus_mexicanus
+< Carpodacus_nipalensis
+---
+> Carpodacus_ferreorostris
+> Carpodacus_formosanus
+> Carpodacus_grandis
+1066,1067c1509,1512
+< Carpodacus_purpureus
+< Carpodacus_rhodopeplus
+---
+> Carpodacus_rhodochlamys
+> Carpodacus_roborowskii
+> Carpodacus_rodochroa
+> Carpodacus_rodopeplus
+1069d1513
+< Carpodacus_rubicilla
+1071c1515,1520
+< Carpodacus_thura
+---
+> Carpodacus_sibiricus
+> Carpodacus_sillemi
+> Carpodacus_sipahi
+> Carpodacus_stoliczkae
+> Carpodacus_subhimachalus
+> Carpodacus_synoicus
+1072a1522
+> Carpodacus_verreauxii
+1073a1524,1525
+> Carpodacus_waltoni
+> Carpodectes_antoniae
+1074a1527,1528
+> Carpodectes_nitidus
+> Carpornis_cucullata
+1078c1532
+< Carterornis_leucotis
+---
+> Carterornis_pileatus
+1082a1537,1538
+> Cassiculus_melanicterus
+> Castanozoster_thoracicus
+1084a1541
+> Casuarius_unappendiculatus
+1086a1544
+> Catamenia_homochroa
+1087a1546
+> Cataponera_turdoides
+1099a1559
+> Catharus_maculatus
+1106c1566,1570
+< Cecropis_abyssinica
+---
+> Ceblepyris_caesius
+> Ceblepyris_cucullatus
+> Ceblepyris_graueri
+> Ceblepyris_pectoralis
+> Cecropis_badia
+1109a1574
+> Cecropis_hyperythra
+1110a1576
+> Cecropis_senegalensis
+1112,1113c1578,1579
+< Celeus_brachyurus
+< Celeus_elegans
+---
+> Celebesica_abbotti
+> Celeus_castaneus
+1115c1581
+< Celeus_flavus
+---
+> Celeus_galeatus
+1118a1585
+> Celeus_ochraceus
+1119a1587,1588
+> Celeus_torquatus
+> Celeus_undatus
+1121a1591,1601
+> Centronyx_bairdii
+> Centronyx_henslowii
+> Centropus_andamanensis
+> Centropus_anselli
+> Centropus_ateralbus
+> Centropus_bengalensis
+> Centropus_bernsteini
+> Centropus_burchellii
+> Centropus_celebensis
+> Centropus_chalybeus
+> Centropus_chlororhynchos
+1122a1603,1608
+> Centropus_goliath
+> Centropus_grillii
+> Centropus_melanops
+> Centropus_menbeki
+> Centropus_milo
+> Centropus_nigrorufus
+1123a1610,1611
+> Centropus_rectunguis
+> Centropus_senegalensis
+1124a1613,1615
+> Centropus_steerii
+> Centropus_superciliosus
+> Centropus_unirufus
+1126c1617,1619
+< Cephalopterus_ornatus
+---
+> Cephalopterus_glabricollis
+> Cephalopterus_penduliger
+> Cephalopyrus_flammiceps
+1131,1133c1624,1631
+< Ceratogymna_brevis
+< Ceratogymna_bucinator
+< Ceratogymna_subcylindrica
+---
+> Ceratogymna_elata
+> Ceratopipra_chloromeros
+> Ceratopipra_cornuta
+> Ceratopipra_erythrocephala
+> Ceratopipra_mentalis
+> Ceratopipra_rubrocapilla
+> Cercibis_oxycerca
+> Cercococcyx_mechowi
+1134a1633
+> Cercococcyx_olivinus
+1138c1637
+< Cercomacra_laeta
+---
+> Cercomacra_ferdinandi
+1140,1141d1638
+< Cercomacra_melanaria
+< Cercomacra_nigrescens
+1143,1154c1640,1645
+< Cercomacra_parkeri
+< Cercomacra_serva
+< Cercomacra_tyrannina
+< Cercomela_dubia
+< Cercomela_familiaris
+< Cercomela_fusca
+< Cercomela_melanura
+< Cercomela_schlegelii
+< Cercomela_scotocerca
+< Cercomela_sinuata
+< Cercomela_sordida
+< Cercomela_tractrac
+---
+> Cercomacroides_fuscicauda
+> Cercomacroides_laeta
+> Cercomacroides_nigrescens
+> Cercomacroides_parkeri
+> Cercomacroides_serva
+> Cercomacroides_tyrannina
+1156c1647
+< Cercotrichas_coryphaeus
+---
+> Cercotrichas_coryphoeus
+1162d1652
+< Cercotrichas_podobe
+1163a1654
+> Cercotrichas_signata
+1171c1662
+< Certhia_manipurensis
+---
+> Certhia_hodgsoni
+1172a1664
+> Certhiasomus_stictolaemus
+1175,1176c1667
+< Certhidea_fusca
+< Certhidea_olivacea
+---
+> Certhiaxis_mustelinus
+1181d1671
+< Certhilauda_falcirostris
+1186,1188d1675
+< Cettia_acanthizoides
+< Cettia_annae
+< Cettia_brunnescens
+1191,1198c1678,1680
+< Cettia_diphone
+< Cettia_flavolivacea
+< Cettia_fortipes
+< Cettia_haddeni
+< Cettia_parens
+< Cettia_ruficapilla
+< Cettia_seebohmi
+< Cettia_vulcania
+---
+> Cettia_major
+> Ceuthmochares_aereus
+> Ceuthmochares_australis
+1201c1683,1685
+< Ceyx_cyanopectus
+---
+> Ceyx_cajeli
+> Ceyx_collectoris
+> Ceyx_dispar
+1204c1688,1691
+< Ceyx_lepidus
+---
+> Ceyx_flumenicola
+> Ceyx_malaitae
+> Ceyx_margarethae
+> Ceyx_meeki
+1205a1693,1694
+> Ceyx_mulcatus
+> Ceyx_nigromaxilla
+1207c1696,1698
+< Ceyx_rufidorsa
+---
+> Ceyx_sacerdotis
+> Ceyx_solitarius
+> Ceyx_wallacii
+1208a1700,1701
+> Chaetocercus_astreans
+> Chaetocercus_berlepschi
+1209a1703,1704
+> Chaetocercus_heliodor
+> Chaetocercus_jourdanii
+1210a1706
+> Chaetops_aurantius
+1212c1708
+< Chaetorhynchus_papuensis
+---
+> Chaetoptila_angustipluma
+1213a1710
+> Chaetura_brachyura
+1215a1713,1715
+> Chaetura_egregia
+> Chaetura_fumosa
+> Chaetura_martinica
+1216a1717
+> Chaetura_spinicaudus
+1218a1720
+> Chalcomitra_amethystina
+1219a1722,1724
+> Chalcomitra_fuliginosa
+> Chalcomitra_hunteri
+> Chalcomitra_rubescens
+1220a1726
+> Chalcoparia_singalensis
+1221a1728
+> Chalcophaps_longirostris
+1224d1730
+< Chalcopsitta_cardinalis
+1226d1731
+< Chalcopsitta_sintillata
+1227a1733
+> Chalcostigma_heteropogon
+1235a1742,1745
+> Chamaetylas_choloensis
+> Chamaetylas_fuelleborni
+> Chamaetylas_poliocephala
+> Chamaetylas_poliophrys
+1240c1750,1751
+< Charadrius_alexandrinus
+---
+> Chamaeza_ruficauda
+> Chamaeza_turdina
+1241a1753,1754
+> Charadrius_asiaticus
+> Charadrius_bicinctus
+1242a1756
+> Charadrius_dealbatus
+1244a1759
+> Charadrius_forbesi
+1245a1761
+> Charadrius_javanicus
+1252a1769,1774
+> Charadrius_nivosus
+> Charadrius_obscurus
+> Charadrius_pallidus
+> Charadrius_pecuarius
+> Charadrius_peronii
+> Charadrius_placidus
+1253a1776
+> Charadrius_sanctaehelenae
+1254a1778,1779
+> Charadrius_thoracicus
+> Charadrius_tricollaris
+1257a1783,1790
+> Charitospiza_eucosma
+> Charmosyna_amabilis
+> Charmosyna_diadema
+> Charmosyna_josefinae
+> Charmosyna_margarethae
+> Charmosyna_meeki
+> Charmosyna_multistriata
+> Charmosyna_palmarum
+1261a1795,1797
+> Charmosyna_toxopei
+> Charmosyna_wilhelminae
+> Chasiempis_ibidis
+1262a1799,1800
+> Chasiempis_sclateri
+> Chauna_chavaria
+1264,1266c1802,1804
+< Chelidorhynx_hypoxantha
+< Chen_caerulescens
+< Chen_canagica
+---
+> Chelictinia_riocourii
+> Chelidoptera_tenebrosa
+> Chelidorhynx_hypoxanthus
+1268c1806,1807
+< Chen_rossii
+---
+> Chenorhamphus_campbelli
+> Chenorhamphus_grayi
+1273a1813,1814
+> Chionomesa_fimbriata
+> Chionomesa_lactea
+1275a1817
+> Chiroxiphia_lanceolata
+1278a1821
+> Chlamydera_guttata
+1282a1826
+> Chlamydotis_macqueenii
+1287a1832
+> Chloephaga_hybrida
+1291c1836,1841
+< Chlorestes_notata
+---
+> Chloephaga_rubidiceps
+> Chlorestes_candida
+> Chlorestes_cyanus
+> Chlorestes_eliciae
+> Chlorestes_julie
+> Chloridops_kona
+1293a1844,1845
+> Chloris_kittlitzi
+> Chloris_monguilloti
+1300d1851
+< Chlorocharis_emiliae
+1303a1855
+> Chlorocichla_falkensteini
+1305,1307c1857,1862
+< Chloropeta_gracilirostris
+< Chloropeta_natalensis
+< Chloropeta_similis
+---
+> Chlorocichla_laetissima
+> Chlorocichla_prigoginei
+> Chlorocichla_simplex
+> Chlorodrepanis_flava
+> Chlorodrepanis_stejnegeri
+> Chlorodrepanis_virens
+1308a1864,1871
+> Chlorophoneus_bocagei
+> Chlorophoneus_kupeensis
+> Chlorophoneus_multicolor
+> Chlorophoneus_nigrifrons
+> Chlorophoneus_olivaceus
+> Chlorophoneus_sulfureopectus
+> Chlorophonia_callophrys
+> Chlorophonia_cyanea
+1310a1874,1879
+> Chlorophonia_pyrrhophrys
+> Chloropicus_namaquus
+> Chloropicus_pyrrhogaster
+> Chloropicus_xantholophus
+> Chloropipo_flavicapilla
+> Chloropipo_unicolor
+1312a1882,1883
+> Chloropsis_cyanopogon
+> Chloropsis_flavipennis
+1313a1885,1888
+> Chloropsis_jerdoni
+> Chloropsis_kinabaluensis
+> Chloropsis_media
+> Chloropsis_palawanensis
+1314a1890
+> Chloropsis_venusta
+1317a1894
+> Chlorospingus_flavopectus
+1319d1895
+< Chlorospingus_ophthalmicus
+1324,1325c1900,1903
+< Chlorostilbon_aureoventris
+< Chlorostilbon_maugaeus
+---
+> Chlorostilbon_alice
+> Chlorostilbon_assimilis
+> Chlorostilbon_gibsoni
+> Chlorostilbon_lucidus
+1327a1906
+> Chlorostilbon_olivaresi
+1328a1908,1909
+> Chlorostilbon_russatus
+> Chlorostilbon_stenurus
+1329a1911
+> Chlorothraupis_frenata
+1331a1914,1915
+> Cholornis_paradoxus
+> Cholornis_unicolor
+1333a1918
+> Chondrohierax_wilsonii
+1334a1920
+> Chordeiles_gundlachii
+1338a1925
+> Chroicocephalus_brunnicephalus
+1340,1341d1926
+< Chroicocephalus_cirrocephalus
+< Chroicocephalus_genei
+1346c1931
+< Chroicocephalus_ridibundus
+---
+> Chroicocephalus_saundersi
+1348a1934,1935
+> Chrysococcyx_caprius
+> Chrysococcyx_cupreus
+1352c1939,1941
+< Chrysococcyx_minutillus
+---
+> Chrysococcyx_maculatus
+> Chrysococcyx_megarhynchus
+> Chrysococcyx_meyerii
+1353a1943,1948
+> Chrysococcyx_ruficollis
+> Chrysococcyx_xanthorhynchus
+> Chrysocolaptes_erythrocephalus
+> Chrysocolaptes_festivus
+> Chrysocolaptes_guttacristatus
+> Chrysocolaptes_haematribon
+1354a1950,1953
+> Chrysocolaptes_stricklandi
+> Chrysocolaptes_strictus
+> Chrysocolaptes_xanthocephalus
+> Chrysocorythus_estherae
+1357a1957
+> Chrysomma_altirostre
+1360a1961,1963
+> Chrysophlegma_flavinucha
+> Chrysophlegma_mentale
+> Chrysophlegma_miniaceum
+1361a1965,1972
+> Chrysothlypis_salmoni
+> Chrysuronia_brevirostris
+> Chrysuronia_coeruleogularis
+> Chrysuronia_goudoti
+> Chrysuronia_grayi
+> Chrysuronia_humboldtii
+> Chrysuronia_leucogaster
+> Chrysuronia_lilliae
+1362a1974,1976
+> Chrysuronia_versicolor
+> Chunga_burmeisteri
+> Cichladusa_arquata
+1363a1978,1980
+> Cichladusa_ruficauda
+> Cichlocolaptes_leucophrus
+> Cichlocolaptes_mazarbarnetti
+1365d1981
+< Cicinnurus_magnificus
+1367d1982
+< Cicinnurus_respublica
+1375d1989
+< Cinclidium_diana
+1377d1990
+< Cinclidium_leucurum
+1379a1993,1994
+> Cinclodes_albiventris
+> Cinclodes_antarcticus
+1381a1997,1998
+> Cinclodes_comechingonus
+> Cinclodes_excelsior
+1383a2001
+> Cinclodes_olrogi
+1384a2003,2004
+> Cinclodes_pabsti
+> Cinclodes_palliatus
+1386,1387c2006,2013
+< Cincloramphus_cruralis
+< Cincloramphus_mathewsi
+---
+> Cinclodes_taczanowskii
+> Cinclosoma_ajax
+> Cinclosoma_alisteri
+> Cinclosoma_castaneothorax
+> Cinclosoma_castanotum
+> Cinclosoma_cinnamomeum
+> Cinclosoma_clarum
+> Cinclosoma_marginatum
+1389a2016
+> Cinclus_leucocephalus
+1391a2019,2021
+> Cinclus_schulzii
+> Cinnycerthia_fulva
+> Cinnycerthia_olivascens
+1392a2023
+> Cinnycerthia_unirufa
+1393a2025,2029
+> Cinnyris_abbotti
+> Cinnyris_afer
+> Cinnyris_asiaticus
+> Cinnyris_batesi
+> Cinnyris_bifasciatus
+1394a2031,2037
+> Cinnyris_buettikoferi
+> Cinnyris_chalcomelas
+> Cinnyris_chalybeus
+> Cinnyris_chloropygius
+> Cinnyris_coccinigastrus
+> Cinnyris_comorensis
+> Cinnyris_congensis
+1398a2042,2045
+> Cinnyris_fuelleborni
+> Cinnyris_fuscus
+> Cinnyris_habessinicus
+> Cinnyris_hofmanni
+1400a2048,2051
+> Cinnyris_lotenius
+> Cinnyris_loveridgei
+> Cinnyris_ludovicensis
+> Cinnyris_manoensis
+1401a2053
+> Cinnyris_mediocris
+1403c2055,2061
+< Cinnyris_notatus
+---
+> Cinnyris_moreaui
+> Cinnyris_nectarinioides
+> Cinnyris_neergaardi
+> Cinnyris_osea
+> Cinnyris_oustaleti
+> Cinnyris_pembae
+> Cinnyris_prigoginei
+1405c2063,2070
+< Cinnyris_souimanga
+---
+> Cinnyris_regius
+> Cinnyris_reichenowi
+> Cinnyris_rockefelleri
+> Cinnyris_rufipennis
+> Cinnyris_shelleyi
+> Cinnyris_solaris
+> Cinnyris_sovimanga
+> Cinnyris_stuhlmanni
+1407a2073,2075
+> Cinnyris_tsavoensis
+> Cinnyris_ursulae
+> Cinnyris_usambaricus
+1409c2077,2078
+< Circaetus_cinerascens
+---
+> Cinnyris_whytei
+> Circaetus_beaudouini
+1414a2084,2085
+> Circus_approximans
+> Circus_assimilis
+1417a2089,2090
+> Circus_hudsonius
+> Circus_macrosceles
+1418a2092,2093
+> Circus_maurus
+> Circus_melanoleucos
+1420a2096,2098
+> Circus_spilonotus
+> Circus_spilothorax
+> Ciridops_anna
+1421a2100,2101
+> Cissa_hypoleuca
+> Cissa_jefferyi
+1424c2104,2112
+< Cisticola_anonymus
+---
+> Cisticola_aberdare
+> Cisticola_aberrans
+> Cisticola_angusticauda
+> Cisticola_aridulus
+> Cisticola_ayresii
+> Cisticola_bodessa
+> Cisticola_brachypterus
+> Cisticola_brunnescens
+> Cisticola_bulliens
+1425a2114
+> Cisticola_carruthersi
+1426a2116,2125
+> Cisticola_chiniana
+> Cisticola_chubbi
+> Cisticola_cinereolus
+> Cisticola_cinnamomeus
+> Cisticola_dambo
+> Cisticola_distinctus
+> Cisticola_emini
+> Cisticola_erythrops
+> Cisticola_exilis
+> Cisticola_eximius
+1428a2128,2131
+> Cisticola_guinea
+> Cisticola_haematocephalus
+> Cisticola_haesitatus
+> Cisticola_hunteri
+1429a2133,2152
+> Cisticola_lais
+> Cisticola_lateralis
+> Cisticola_luapula
+> Cisticola_marginatus
+> Cisticola_melanurus
+> Cisticola_nana
+> Cisticola_natalensis
+> Cisticola_nigriloris
+> Cisticola_njombe
+> Cisticola_pipiens
+> Cisticola_restrictus
+> Cisticola_ruficeps
+> Cisticola_rufilatus
+> Cisticola_rufus
+> Cisticola_subruficapilla
+> Cisticola_textrix
+> Cisticola_tinniens
+> Cisticola_troglodytes
+> Cisticola_woosnami
+> Cistothorus_apolinari
+1431d2153
+< Cistothorus_platensis
+1433a2156
+> Clamator_coromandus
+1435a2159,2162
+> Clamator_levaillantii
+> Clanga_clanga
+> Clanga_hastata
+> Clanga_pomarina
+1437d2163
+< Claravis_pretiosa
+1439a2166,2170
+> Clibanornis_erythrocephalus
+> Clibanornis_rectirostris
+> Clibanornis_rubiginosus
+> Clibanornis_rufipectus
+> Climacteris_affinis
+1440a2172
+> Climacteris_melanurus
+1443d2174
+< Clypicterus_oseryi
+1444a2176,2178
+> Clytoctantes_alixii
+> Clytoctantes_atrogularis
+> Clytolaema_rubricauda
+1446a2181
+> Clytorhynchus_nigrogularis
+1447a2183,2184
+> Clytorhynchus_sanctaecrucis
+> Clytorhynchus_vitiensis
+1450c2187,2189
+< Cnemophilus_loriae
+---
+> Cnemathraupis_aureodorsalis
+> Cnemathraupis_eximia
+> Cnemophilus_macgregorii
+1453a2193,2194
+> Cnipodectes_superrufus
+> Coccopygia_bocagei
+1457d2197
+< Coccothraustes_vespertinus
+1459a2200
+> Coccycua_pumila
+1461a2203,2205
+> Coccyzus_euleri
+> Coccyzus_ferrugineus
+> Coccyzus_lansbergi
+1465a2210,2211
+> Coccyzus_pluvialis
+> Coccyzus_rufigularis
+1468a2215,2217
+> Cochoa_azurea
+> Cochoa_beccarii
+> Cochoa_purpurea
+1481a2231
+> Coenocorypha_iredalei
+1483a2234
+> Colaptes_aeruginosus
+1487a2239
+> Colaptes_chrysoides
+1489a2242
+> Colaptes_oceanicus
+1495a2249
+> Colibri_cyanotus
+1499a2254,2255
+> Colinus_leucopogon
+> Colinus_nigrogularis
+1503a2260
+> Collocalia_affinis
+1505a2263
+> Collocalia_isonota
+1506a2265,2268
+> Collocalia_marginata
+> Collocalia_natalis
+> Collocalia_neglecta
+> Collocalia_sumbawae
+1507a2270,2271
+> Collocalia_uropygialis
+> Colluricincla_affinis
+1508a2273,2274
+> Colluricincla_discolor
+> Colluricincla_fortis
+1511c2277,2278
+< Colluricincla_sanghirensis
+---
+> Colluricincla_obscura
+> Colluricincla_rufogaster
+1513d2279
+< Colluricincla_umbrina
+1514a2281,2282
+> Coloeus_dauuricus
+> Coloeus_monedula
+1516a2285,2286
+> Columba_albinucha
+> Columba_argentina
+1518a2289,2291
+> Columba_delegorguei
+> Columba_elphinstonii
+> Columba_eversmanni
+1519a2293,2296
+> Columba_hodgsonii
+> Columba_iriditorques
+> Columba_janthina
+> Columba_jouyi
+1520a2298,2300
+> Columba_larvata
+> Columba_leucomela
+> Columba_leuconota
+1522a2303,2305
+> Columba_oliviae
+> Columba_pallidiceps
+> Columba_palumboides
+1523a2307
+> Columba_pollenii
+1524a2309
+> Columba_punicea
+1525a2311,2315
+> Columba_sjostedti
+> Columba_torringtoniae
+> Columba_trocaz
+> Columba_unicincta
+> Columba_versicolor
+1527c2317,2318
+< Columbina_cruziana
+---
+> Columbina_buckleyi
+> Columbina_cyanopis
+1534,1535c2325
+< Compsospiza_baeri
+< Compsospiza_garleppi
+---
+> Compsothraupis_loricata
+1538a2329,2332
+> Conirostrum_binghami
+> Conirostrum_cinereum
+> Conirostrum_ferrugineiventre
+> Conirostrum_leucogenys
+1539a2334
+> Conirostrum_rufum
+1541a2337,2341
+> Conirostrum_tamarugense
+> Conopias_albovittatus
+> Conopias_cinchoneti
+> Conopias_parvus
+> Conopias_trivirgatus
+1543a2344,2345
+> Conopophaga_castaneiceps
+> Conopophaga_cearae
+1544a2347
+> Conopophaga_melanops
+1545a2349
+> Conopophaga_roberti
+1547a2352,2354
+> Conopophila_whitei
+> Conostoma_aemodium
+> Conothraupis_mesoleuca
+1548a2356,2357
+> Contopus_albogularis
+> Contopus_caribaeus
+1551a2361
+> Contopus_hispaniolensis
+1552a2363,2366
+> Contopus_lugubris
+> Contopus_nigrescens
+> Contopus_ochraceus
+> Contopus_pallidus
+1553a2368
+> Contopus_punensis
+1555a2371,2372
+> Conuropsis_carolinensis
+> Copsychus_albiventris
+1556a2374
+> Copsychus_cebuensis
+1559a2378
+> Copsychus_mindanensis
+1565a2385
+> Coracias_benghalensis
+1566a2387
+> Coracias_cyanogaster
+1567a2389
+> Coracias_naevius
+1569,1572c2391
+< Coracina_abbotti
+< Coracina_analis
+< Coracina_atriceps
+< Coracina_azurea
+---
+> Coracias_temminckii
+1576d2394
+< Coracina_caesia
+1578,1585c2396,2397
+< Coracina_ceramensis
+< Coracina_cinerea
+< Coracina_coerulescens
+< Coracina_dohertyi
+< Coracina_fimbriata
+< Coracina_graueri
+< Coracina_holopolia
+< Coracina_incerta
+---
+> Coracina_dobsoni
+> Coracina_fortis
+1587c2399
+< Coracina_larvata
+---
+> Coracina_javensis
+1592,1599d2403
+< Coracina_maxima
+< Coracina_mcgregori
+< Coracina_melanoptera
+< Coracina_melaschistos
+< Coracina_mindanensis
+< Coracina_montana
+< Coracina_morio
+< Coracina_newtoni
+1601d2404
+< Coracina_ostenta
+1603,1606d2405
+< Coracina_pectoralis
+< Coracina_polioptera
+< Coracina_remota
+< Coracina_salomonis
+1609,1612d2407
+< Coracina_sula
+< Coracina_temminckii
+< Coracina_tenuirostris
+< Coracina_typica
+1613a2409
+> Coracopsis_barklyi
+1616a2413
+> Coracornis_sanghirensis
+1626c2423
+< Corvus_albus
+---
+> Corvus_bennetti
+1628c2425
+< Corvus_caurinus
+---
+> Corvus_capensis
+1634c2431,2433
+< Corvus_dauuricus
+---
+> Corvus_culminatus
+> Corvus_edithae
+> Corvus_enca
+1635a2435,2441
+> Corvus_fuscicapillus
+> Corvus_hawaiiensis
+> Corvus_imparatus
+> Corvus_insularis
+> Corvus_jamaicensis
+> Corvus_kubaryi
+> Corvus_leucognaphalus
+1637c2443,2446
+< Corvus_monedula
+---
+> Corvus_meeki
+> Corvus_mellori
+> Corvus_minutus
+> Corvus_moneduloides
+1640a2450,2452
+> Corvus_rhipidurus
+> Corvus_ruficollis
+> Corvus_sinaloae
+1641a2454,2461
+> Corvus_tasmanicus
+> Corvus_torquatus
+> Corvus_tristis
+> Corvus_typicus
+> Corvus_unicolor
+> Corvus_validus
+> Corvus_violaceus
+> Corvus_woodfordi
+1642a2463
+> Coryphaspiza_melanotis
+1644d2464
+< Coryphospingus_cucullatus
+1647,1649d2466
+< Corythaixoides_concolor
+< Corythaixoides_leucogaster
+< Corythaixoides_personatus
+1657c2474
+< Cossypha_albicapilla
+---
+> Cossypha_albicapillus
+1658a2476
+> Cossypha_ansorgei
+1662a2481
+> Cossypha_heinrichi
+1665a2485
+> Cossypha_natalensis
+1668d2487
+< Cossypha_semirufa
+1669a2489
+> Cotinga_amabilis
+1670a2491
+> Cotinga_cotinga
+1671a2493,2496
+> Cotinga_nattererii
+> Cotinga_ridgwayi
+> Coturnicops_exquisitus
+> Coturnicops_notatus
+1673,1674c2498
+< Coturnix_australis
+< Coturnix_chinensis
+---
+> Coturnix_coromandelica
+1675a2500
+> Coturnix_delegorguei
+1680a2506
+> Coua_coquereli
+1682a2509,2510
+> Coua_delalandei
+> Coua_gigas
+1685a2514,2518
+> Coua_verreauxi
+> Cracticus_argenteus
+> Cracticus_cassicus
+> Cracticus_louisiadensis
+> Cracticus_mentalis
+1687c2520
+< Cracticus_quoyi
+---
+> Cracticus_torquatus
+1691d2523
+< Cranioleuca_baroni
+1693a2526
+> Cranioleuca_dissita
+1695c2528,2529
+< Cranioleuca_henricae
+---
+> Cranioleuca_gutturata
+> Cranioleuca_hellmayri
+1696a2531
+> Cranioleuca_muelleri
+1697a2533
+> Cranioleuca_pallida
+1698a2535
+> Cranioleuca_semicinerea
+1700c2537
+< Cranioleuca_sulphurifera
+---
+> Cranioleuca_vulpecula
+1702d2538
+< Crateroscelis_robusta
+1705d2540
+< Crax_blumenbachii
+1710d2544
+< Creagrus_furcatus
+1711a2546
+> Crecopsis_egregia
+1714a2550
+> Crinifer_concolor
+1716d2551
+< Crinifer_zonurus
+1721a2557,2586
+> Crithagra_albogularis
+> Crithagra_ankoberensis
+> Crithagra_atrogularis
+> Crithagra_buchanani
+> Crithagra_burtoni
+> Crithagra_canicapilla
+> Crithagra_capistrata
+> Crithagra_citrinipectus
+> Crithagra_donaldsoni
+> Crithagra_dorsostriata
+> Crithagra_flavigula
+> Crithagra_flaviventris
+> Crithagra_frontalis
+> Crithagra_gularis
+> Crithagra_hyposticta
+> Crithagra_koliensis
+> Crithagra_leucoptera
+> Crithagra_leucopygia
+> Crithagra_melanochroa
+> Crithagra_menachensis
+> Crithagra_mennelli
+> Crithagra_reichardi
+> Crithagra_reichenowi
+> Crithagra_rothschildi
+> Crithagra_scotops
+> Crithagra_sulphurata
+> Crithagra_symonsi
+> Crithagra_totta
+> Crithagra_whytii
+> Crithagra_xantholaema
+1725d2589
+< Crossoptilon_drouyni
+1730a2595
+> Crypsirina_cucullata
+1732a2598,2602
+> Cryptoleucopteryx_plumbea
+> Cryptomicroeca_flaviventris
+> Cryptopezus_nattereri
+> Cryptopipo_holochlora
+> Cryptospiza_jacksoni
+1733a2604
+> Cryptospiza_salvadorii
+1735a2607,2618
+> Crypturellus_atrocapillus
+> Crypturellus_bartletti
+> Crypturellus_berlepschi
+> Crypturellus_boucardi
+> Crypturellus_brevirostris
+> Crypturellus_casiquiare
+> Crypturellus_cinereus
+> Crypturellus_cinnamomeus
+> Crypturellus_duidae
+> Crypturellus_erythropus
+> Crypturellus_kerriae
+> Crypturellus_noctivagus
+1737a2621
+> Crypturellus_ptaritepui
+1739a2624,2625
+> Crypturellus_tataupa
+> Crypturellus_transfasciatus
+1742a2629,2633
+> Cuculus_clamosus
+> Cuculus_crassirostris
+> Cuculus_gularis
+> Cuculus_micropterus
+> Cuculus_optatus
+1744c2635,2636
+< Cuculus_saturatus
+---
+> Cuculus_rochii
+> Cuculus_solitarius
+1748a2641,2665
+> Curruca_balearica
+> Curruca_boehmi
+> Curruca_buryi
+> Curruca_cantillans
+> Curruca_communis
+> Curruca_conspicillata
+> Curruca_curruca
+> Curruca_deserti
+> Curruca_deserticola
+> Curruca_iberiae
+> Curruca_layardi
+> Curruca_leucomelaena
+> Curruca_melanocephala
+> Curruca_melanothorax
+> Curruca_minula
+> Curruca_nana
+> Curruca_nisoria
+> Curruca_sarda
+> Curruca_subalpina
+> Curruca_subcoerulea
+> Curruca_undata
+> Cursorius_coromandelicus
+> Cursorius_cursor
+> Cursorius_rufus
+> Cursorius_somalensis
+1749a2667
+> Cutia_legalleni
+1755,1756c2673,2675
+< Cyanistes_caeruleus
+< Cyanochen_cyanoptera
+---
+> Cyanicterus_cyanicterus
+> Cyanistes_cyanus
+> Cyanistes_teneriffae
+1759,1760d2677
+< Cyanocompsa_brissonii
+< Cyanocompsa_cyanoides
+1771a2689
+> Cyanocorax_luxuosus
+1777,1778c2695,2702
+< Cyanocorax_yucatanicus
+< Cyanolanius_comorensis
+---
+> Cyanoderma_ambiguum
+> Cyanoderma_chrysaeum
+> Cyanoderma_erythropterum
+> Cyanoderma_melanothorax
+> Cyanoderma_pyrrhops
+> Cyanoderma_ruficeps
+> Cyanoderma_rufifrons
+> Cyanograucalus_azureus
+1779a2704
+> Cyanolimnas_cerverai
+1780a2706,2707
+> Cyanoloxia_brissonii
+> Cyanoloxia_cyanoides
+1781a2709
+> Cyanoloxia_rothschildii
+1785a2714
+> Cyanolyca_nanus
+1791,1792c2720,2721
+< Cyanomitra_obscura
+< Cyanomitra_olivacea
+---
+> Cyanomitra_bannermani
+> Cyanomitra_cyanolaema
+1793a2723
+> Cyanomitra_veroxii
+1795d2724
+< Cyanophaia_bicolor
+1798a2728
+> Cyanoptila_cumatilis
+1800a2731,2732
+> Cyanoramphus_cookii
+> Cyanoramphus_erythrotis
+1802,1804c2734,2736
+< Cyanoramphus_malherbi
+< Cyanoramphus_novaezelandiae
+< Cyanoramphus_saissetti
+---
+> Cyanoramphus_hochstetteri
+> Cyanoramphus_subflavescens
+> Cyanoramphus_ulietanus
+1805a2738
+> Cyanoramphus_zealandicus
+1806a2740
+> Cyclarhis_nigrirostris
+1807a2742
+> Cyclopsitta_gulielmitertii
+1812d2746
+< Cygnus_melancoryphus
+1816a2751,2754
+> Cynanthus_auriceps
+> Cynanthus_canivetii
+> Cynanthus_doubledayi
+> Cynanthus_latirostris
+1818c2756,2760
+< Cyornis_concretus
+---
+> Cyornis_brunneatus
+> Cyornis_caerulatus
+> Cyornis_colonus
+> Cyornis_djampeanus
+> Cyornis_glaucicomans
+1819a2762,2767
+> Cyornis_herioti
+> Cyornis_hoevelli
+> Cyornis_hyacinthinus
+> Cyornis_lemprieri
+> Cyornis_magnirostris
+> Cyornis_nicobaricus
+1820a2769,2771
+> Cyornis_omissus
+> Cyornis_oscillans
+> Cyornis_pallidipes
+1824a2776,2778
+> Cyornis_sanfordi
+> Cyornis_superbus
+> Cyornis_tickelliae
+1826a2781
+> Cyornis_whitei
+1827a2783,2788
+> Cyphorhinus_phaeocephalus
+> Cyphorhinus_thoracicus
+> Cypseloides_cherriei
+> Cypseloides_cryptus
+> Cypseloides_fumigatus
+> Cypseloides_lemosi
+1828a2790,2792
+> Cypseloides_rothschildi
+> Cypseloides_senex
+> Cypseloides_storeri
+1829a2794
+> Cypsiurus_gracilis
+1832a2798
+> Cyrtonyx_ocellatus
+1835a2802,2804
+> Dacelo_tyro
+> Dacnis_albiventris
+> Dacnis_berlepschi
+1836a2806,2810
+> Dacnis_egregia
+> Dacnis_flaviventer
+> Dacnis_hartlaubi
+> Dacnis_lineata
+> Dacnis_nigripes
+1838c2812,2813
+< Damophila_julie
+---
+> Dacnis_viguieri
+> Dactylortyx_thoracicus
+1839a2815,2816
+> Daphoenositta_miranda
+> Daphoenositta_papuensis
+1841a2819
+> Dasycrotapha_pygmaea
+1842a2821,2823
+> Dasylophus_cumingi
+> Dasylophus_superciliosus
+> Dasyornis_brachypterus
+1843a2825
+> Dasyornis_longirostris
+1844a2827
+> Deleornis_axillaris
+1849d2831
+< Delothraupis_castaneoventris
+1851c2833
+< Dendragapus_falcipennis
+---
+> Dendragapus_fuliginosus
+1859a2842,2843
+> Dendrocitta_bayleii
+> Dendrocitta_cinerascens
+1860a2845,2847
+> Dendrocitta_frontalis
+> Dendrocitta_leucogastra
+> Dendrocitta_vagabunda
+1861a2849
+> Dendrocolaptes_hoffmannsi
+1865c2853,2857
+< Dendrocopos_canicapillus
+---
+> Dendrocopos_analis
+> Dendrocopos_assimilis
+> Dendrocopos_atratus
+> Dendrocopos_darjellensis
+> Dendrocopos_himalayensis
+1867c2859
+< Dendrocopos_kizuki
+---
+> Dendrocopos_leucopterus
+1870,1871d2861
+< Dendrocopos_maculatus
+< Dendrocopos_mahrattensis
+1873,1875c2863
+< Dendrocopos_medius
+< Dendrocopos_minor
+< Dendrocopos_moluccensis
+---
+> Dendrocopos_noguchii
+1876a2865,2867
+> Dendrocoptes_auriceps
+> Dendrocoptes_dorae
+> Dendrocoptes_medius
+1884a2876,2881
+> Dendroma_erythroptera
+> Dendroma_rufa
+> Dendronanthus_indicus
+> Dendroperdix_sephaena
+> Dendropicos_abyssinicus
+> Dendropicos_elachus
+1887d2883
+< Dendropicos_goertae
+1889c2885,2889
+< Dendropicos_pyrrhogaster
+---
+> Dendropicos_lugubris
+> Dendropicos_obsoletus
+> Dendropicos_poecilolaemus
+> Dendropicos_spodocephalus
+> Dendropicos_stierlingi
+1891a2892,2894
+> Dendrortyx_barbatus
+> Dendrortyx_leucophrys
+> Dendrortyx_macroura
+1892a2896,2897
+> Devioeca_papuana
+> Diaphorapteryx_hawkinsi
+1893a2899
+> Dicaeum_aeruginosum
+1899d2904
+< Dicaeum_celebicum
+1901d2905
+< Dicaeum_concolor
+1902a2907,2909
+> Dicaeum_dayakorum
+> Dicaeum_erythrorhynchos
+> Dicaeum_erythrothorax
+1905a2913
+> Dicaeum_haematostictum
+1909,1910c2917,2920
+< Dicaeum_ignipectum
+< Dicaeum_melanoxanthum
+---
+> Dicaeum_ignipectus
+> Dicaeum_maugei
+> Dicaeum_melanozanthum
+> Dicaeum_minullum
+1911a2922
+> Dicaeum_nehrkorni
+1913c2924,2925
+< Dicaeum_pectorale
+---
+> Dicaeum_nitidum
+> Dicaeum_proprium
+1914a2927,2928
+> Dicaeum_quadricolor
+> Dicaeum_retrocinctum
+1915a2930
+> Dicaeum_schistaceiceps
+1917a2933,2936
+> Dicaeum_trochileum
+> Dicaeum_vincens
+> Dicaeum_virescens
+> Dicaeum_vulneratum
+1922c2941,2943
+< Dicrurus_annectans
+---
+> Dicrurus_andamanensis
+> Dicrurus_annectens
+> Dicrurus_atactus
+1925a2947,2949
+> Dicrurus_caerulescens
+> Dicrurus_densus
+> Dicrurus_divaricatus
+1929a2954
+> Dicrurus_lophorinus
+1932c2957
+< Dicrurus_megarhynchus
+---
+> Dicrurus_menagei
+1933a2959,2960
+> Dicrurus_montanus
+> Dicrurus_palawanensis
+1935a2963,2964
+> Dicrurus_sharpei
+> Dicrurus_sumatranus
+1956c2985,2986
+< Dinemellia_dinemelli
+---
+> Dinopium_benghalense
+> Dinopium_everetti
+1957a2988
+> Dinopium_psarodes
+1959,1960d2989
+< Dinornis_novaezealandiae
+< Dinornis_robustus
+1963d2991
+< Diomedea_chionoptera
+1965d2992
+< Diomedea_epomophora
+1967c2994
+< Diomedea_gibsoni
+---
+> Diomedea_sanfordi
+1968a2996,2997
+> Diphyllodes_magnificus
+> Diphyllodes_respublica
+1970a3000
+> Discosura_letitiae
+1974c3004,3005
+< Dives_warszewiczi
+---
+> Dives_dives
+> Dives_warczewiczi
+1975a3007
+> Doliornis_remseni
+1977d3008
+< Dolospingus_fringilloides
+1979a3011,3012
+> Doricha_eliza
+> Doricha_enicura
+1981a3015,3017
+> Drepanis_coccinea
+> Drepanis_funerea
+> Drepanis_pacifica
+1983,1984c3019,3021
+< Dromaeocercus_brunneus
+< Dromaius_ater
+---
+> Drepanorhynchus_reichenowi
+> Drepanornis_albertisi
+> Drepanornis_bruijnii
+1986a3024,3027
+> Dromococcyx_pavoninus
+> Dromococcyx_phasianellus
+> Drymocichla_incana
+> Drymodes_beccarii
+1987a3029
+> Drymodes_superciliaris
+1989d3030
+< Drymophila_devillei
+1991a3033,3035
+> Drymophila_hellmayri
+> Drymophila_klagesi
+> Drymophila_malura
+1994a3039
+> Drymophila_striaticeps
+1996a3042,3048
+> Dryobates_cathpharius
+> Dryobates_minor
+> Dryobates_nuttallii
+> Dryobates_pubescens
+> Dryobates_scalaris
+> Dryocopus_hodgei
+> Dryocopus_javensis
+1999a3052,3054
+> Dryocopus_schulzii
+> Dryolimnas_cuvieri
+> Dryoscopus_angolensis
+2002c3057,3060
+< Dryotriorchis_spectabilis
+---
+> Dryoscopus_pringlii
+> Dryoscopus_sabini
+> Dryoscopus_senegalensis
+> Dubusia_castaneoventris
+2004a3063,3066
+> Ducula_aurorae
+> Ducula_badia
+> Ducula_bakeri
+> Ducula_basilica
+2005a3068,3078
+> Ducula_brenchleyi
+> Ducula_carola
+> Ducula_cineracea
+> Ducula_concinna
+> Ducula_finschii
+> Ducula_forsteni
+> Ducula_galeata
+> Ducula_goliath
+> Ducula_lacernulata
+> Ducula_latrans
+> Ducula_luctuosa
+2006a3080,3085
+> Ducula_mindorensis
+> Ducula_mullerii
+> Ducula_myristicivora
+> Ducula_neglecta
+> Ducula_nicobarica
+> Ducula_oceanica
+2007a3087,3088
+> Ducula_perspicillata
+> Ducula_pickeringii
+2009c3090,3092
+< Ducula_pistrinaria
+---
+> Ducula_poliocephala
+> Ducula_radiata
+> Ducula_rosacea
+2012c3095,3097
+< Ducula_zoeae
+---
+> Ducula_spilorrhoa
+> Ducula_subflavescens
+> Ducula_whartoni
+2014a3100
+> Dumetia_atriceps
+2015a3102
+> Dysithamnus_leucostictus
+2016a3104
+> Dysithamnus_occidentalis
+2019c3107,3110
+< Eclectus_roratus
+---
+> Dysithamnus_stictothorax
+> Dysithamnus_striaticeps
+> Dysithamnus_xanthopterus
+> Dysmorodrepanis_munroi
+2020a3112,3131
+> Edolisoma_admiralitatis
+> Edolisoma_anale
+> Edolisoma_ceramense
+> Edolisoma_coerulescens
+> Edolisoma_dispar
+> Edolisoma_dohertyi
+> Edolisoma_incertum
+> Edolisoma_insperatum
+> Edolisoma_melas
+> Edolisoma_mindanense
+> Edolisoma_monacha
+> Edolisoma_montanum
+> Edolisoma_nesiotis
+> Edolisoma_ostentum
+> Edolisoma_parvulum
+> Edolisoma_remotum
+> Edolisoma_salomonis
+> Edolisoma_sula
+> Edolisoma_tenuirostre
+> Egretta_ardesiaca
+2021a3133
+> Egretta_dimorpha
+2023a3136,3138
+> Egretta_gularis
+> Egretta_novaehollandiae
+> Egretta_picata
+2024a3140
+> Egretta_sacra
+2026c3142
+< Egretta_tricolor
+---
+> Egretta_vinaceigula
+2028c3144,3145
+< Elaenia_cherriei
+---
+> Elaenia_brachyptera
+> Elaenia_chilensis
+2039d3155
+< Elaenia_olivina
+2042a3159
+> Elaenia_ridleyana
+2047a3165
+> Elanus_axillaris
+2050c3168,3171
+< Eleoscytalopus_indigoticus
+---
+> Elanus_scriptus
+> Elaphrornis_palliseri
+> Electron_carinatum
+> Electron_platyrhynchum
+2052a3174,3176
+> Eleothreptus_candicans
+> Elliotomyia_chionogaster
+> Elliotomyia_viridicauda
+2054d3177
+< Elminia_albiventris
+2059,2060c3182,3184
+< Elvira_chionura
+< Elvira_cupreiceps
+---
+> Emarginata_schlegelii
+> Emarginata_sinuata
+> Emarginata_tractrac
+2070a3195
+> Emberiza_cineracea
+2077a3203
+> Emberiza_goslingi
+2080a3207
+> Emberiza_koslowi
+2083a3211
+> Emberiza_poliopleura
+2086a3215
+> Emberiza_sahari
+2087a3217
+> Emberiza_socotrana
+2094a3225
+> Emberiza_vincenti
+2095a3227
+> Emberizoides_duidae
+2097a3230
+> Embernagra_longicauda
+2100d3232
+< Emeus_crassus
+2110d3241
+< Empidonax_hammondii
+2117d3247
+< Empidonomus_aurantioatrocristatus
+2119d3248
+< Empidornis_semipartitus
+2120a3250
+> Enicurus_immaculatus
+2125a3256
+> Enicurus_velatus
+2132d3262
+< Eophona_migratoria
+2135d3264
+< Eopsaltria_georgiana
+2137d3265
+< Eopsaltria_pulverulenta
+2140c3268
+< Eos_reticulata
+---
+> Eos_semilarvata
+2144,2146c3272
+< Epimachus_albertisi
+< Epimachus_bruijnii
+< Epimachus_fastuosus
+---
+> Epimachus_fastosus
+2147a3274
+> Epinecrophylla_amazonica
+2160c3287,3290
+< Eremiornis_carteri
+---
+> Eremomela_atricollis
+> Eremomela_badiceps
+> Eremomela_canescens
+> Eremomela_flavicrissalis
+2161a3292,3297
+> Eremomela_icteropygialis
+> Eremomela_pusilla
+> Eremomela_salvadorii
+> Eremomela_scotops
+> Eremomela_turneri
+> Eremomela_usticollis
+2164a3301,3303
+> Eremopterix_griseus
+> Eremopterix_leucopareia
+> Eremopterix_leucotis
+2165a3305
+> Eremopterix_signatus
+2167c3307
+< Eriocnemis_alinae
+---
+> Eriocnemis_aline
+2168a3309
+> Eriocnemis_derbyi
+2169a3311
+> Eriocnemis_godini
+2170a3313
+> Eriocnemis_mirabilis
+2175a3319,3320
+> Erythrocercus_holochlorus
+> Erythrocercus_livingstonei
+2176a3322,3325
+> Erythrogenys_erythrogenys
+> Erythrogenys_gravivox
+> Erythrogenys_hypoleucos
+> Erythrogenys_swinhoei
+2178c3327,3346
+< Erythrura_gouldiae
+---
+> Erythromachus_leguati
+> Erythropitta_arquata
+> Erythropitta_caeruleitorques
+> Erythropitta_dohertyi
+> Erythropitta_erythrogaster
+> Erythropitta_granatina
+> Erythropitta_macklotii
+> Erythropitta_meeki
+> Erythropitta_novaehibernicae
+> Erythropitta_rubrinucha
+> Erythropitta_rufiventris
+> Erythropitta_ussheri
+> Erythrotriorchis_buergersi
+> Erythrotriorchis_radiatus
+> Erythrura_coloria
+> Erythrura_cyaneovirens
+> Erythrura_hyperythra
+> Erythrura_kleinschmidti
+> Erythrura_papuana
+> Erythrura_pealii
+2179a3348,3349
+> Erythrura_psittacea
+> Erythrura_regia
+2180a3351,3354
+> Erythrura_tricolor
+> Erythrura_viridifacies
+> Esacus_magnirostris
+> Esacus_recurvirostris
+2182,2184c3356
+< Estrilda_atricapilla
+< Estrilda_caerulescens
+< Estrilda_erythronotos
+---
+> Estrilda_kandti
+2185a3358
+> Estrilda_nigriloris
+2186a3360
+> Estrilda_ochrogaster
+2188c3362
+< Estrilda_perreini
+---
+> Estrilda_poliopareia
+2190c3364
+< Estrilda_sp
+---
+> Estrilda_rufibarba
+2193a3368,3372
+> Eubucco_tucinkae
+> Euchrepomis_callinota
+> Euchrepomis_humeralis
+> Euchrepomis_sharpei
+> Euchrepomis_spodioptila
+2198,2200c3377,3379
+< Eudynamys_melanorhynchus
+< Eudynamys_taitensis
+< Eudyptes_chrysocome
+---
+> Eudromia_formosa
+> Eudynamys_orientalis
+> Eudynamys_scolopaceus
+2201a3381
+> Eudyptes_moseleyi
+2206d3385
+< Eudyptula_albosignata
+2210a3390
+> Eulabeornis_castaneoventris
+2213a3394,3396
+> Eulidia_yarrellii
+> Eulipoa_wallacei
+> Eumomota_superciliosa
+2214a3398
+> Eumyias_albicaudatus
+2216a3401
+> Eumyias_sordidus
+2218d3402
+< Eumyias_thalassinusB
+2224a3409
+> Eupetomena_cirrochloris
+2226d3410
+< Euphagus_carolinus
+2227a3412
+> Eupherusa_cyanophrys
+2229a3415,3416
+> Eupherusa_poliocerca
+> Eupherusa_ridgwayi
+2230a3418,3420
+> Euphonia_anneae
+> Euphonia_cayennensis
+> Euphonia_chalybea
+2231a3422,3423
+> Euphonia_chrysopasta
+> Euphonia_concinna
+2232a3425
+> Euphonia_elegantissima
+2236a3430,3431
+> Euphonia_imitans
+> Euphonia_jamaica
+2237a3433,3435
+> Euphonia_luteicapilla
+> Euphonia_mesochrysa
+> Euphonia_minuta
+2239a3438,3443
+> Euphonia_plumbea
+> Euphonia_rufiventris
+> Euphonia_saturata
+> Euphonia_trinitatis
+> Euphonia_violacea
+> Euphonia_xanthogaster
+2243,2244d3446
+< Euplectes_aureus
+< Euplectes_aureusB
+2257,2259c3459,3460
+< Euplectes_psammocromius
+< Eupodotis_afra
+< Eupodotis_afraoides
+---
+> Euplectes_psammacromius
+> Eupodotis_caerulescens
+2261,2262d3461
+< Eupodotis_rueppellii
+< Eupodotis_ruficrista
+2263a3463,3468
+> Eupodotis_vigorsii
+> Eupsittula_aurea
+> Eupsittula_cactorum
+> Eupsittula_canicularis
+> Eupsittula_nana
+> Eupsittula_pertinax
+2264a3470
+> Euptilotus_eutilotus
+2270a3477
+> Eurocephalus_ruppelli
+2272c3479,3480
+< Eurostopodus_macrotis
+---
+> Eurostopodus_diabolicus
+> Eurostopodus_exul
+2273a3482
+> Eurostopodus_nigripennis
+2275,2276c3484
+< Euryapteryx_curtus
+< Euryapteryx_geranoides
+---
+> Euryceros_prevostii
+2279,2280d3486
+< Eurylaimus_steerii
+< Eurynorhynchus_pygmeus
+2283c3489
+< Eurystomus_glaucurus
+---
+> Eurystomus_azureus
+2290d3495
+< Euschistospiza_dybowskiiB
+2292a3498
+> Eutrichomyias_rowleyi
+2293a3500
+> Excalfactoria_chinensis
+2294a3502,3503
+> Falcipennis_falcipennis
+> Falco_alopex
+2296c3505,3506
+< Falco_araea
+---
+> Falco_araeus
+> Falco_ardosiaceus
+2307c3517
+< Falco_eleonorae
+---
+> Falco_fasciinucha
+2308a3519
+> Falco_hypoleucos
+2311a3523
+> Falco_moluccensis
+2315d3526
+< Falco_pelegrinoides
+2319a3531
+> Falco_rupicolus
+2320a3533
+> Falco_severus
+2326a3540
+> Falculea_palliata
+2327a3542
+> Ferminia_cerverai
+2329a3545
+> Ficedula_basilanica
+2334a3551
+> Ficedula_erithacus
+2336c3553,3554
+< Ficedula_hodgsonii
+---
+> Ficedula_henrici
+> Ficedula_hodgsoni
+2338a3557
+> Ficedula_luzoniensis
+2340a3560
+> Ficedula_nigrorufa
+2342a3563
+> Ficedula_ruficauda
+2355a3577
+> Fluvicola_albiventer
+2359a3582
+> Formicarius_moniliger
+2360a3584,3588
+> Formicarius_rufifrons
+> Formicarius_rufipectus
+> Formicivora_acutirostris
+> Formicivora_erythronotos
+> Formicivora_grantsaui
+2361a3590,3591
+> Formicivora_iheringi
+> Formicivora_intermedia
+2364a3595,3596
+> Forpus_coelestis
+> Forpus_conspicillatus
+2365a3598
+> Forpus_modestus
+2366a3600,3601
+> Forpus_spengeli
+> Forpus_xanthops
+2367a3603,3605
+> Foudia_aldabrana
+> Foudia_eminentissima
+> Foudia_flavicans
+2368a3607,3608
+> Foudia_omissa
+> Foudia_rubra
+2371,2379c3611,3612
+< Francolinus_adspersus
+< Francolinus_afer
+< Francolinus_africanus
+< Francolinus_bicalcaratus
+< Francolinus_capensis
+< Francolinus_castaneicollis
+< Francolinus_coqui
+< Francolinus_erckelii
+< Francolinus_finschi
+---
+> Foulehaio_procerior
+> Foulehaio_taviunensis
+2381d3613
+< Francolinus_griseostriatus
+2383,2390c3615,3616
+< Francolinus_hartlaubi
+< Francolinus_hildebrandti
+< Francolinus_lathami
+< Francolinus_leucoscepus
+< Francolinus_levaillantii
+< Francolinus_levaillantoides
+< Francolinus_nahani
+< Francolinus_natalensis
+---
+> Francolinus_pictus
+> Francolinus_pintadeanus
+2392,2395d3617
+< Francolinus_sephaena
+< Francolinus_shelleyi
+< Francolinus_squamatus
+< Francolinus_swainsonii
+2401c3623
+< Frederickena_unduligera
+---
+> Frederickena_unduliger
+2408a3631
+> Fregetta_maoriana
+2410d3632
+< Fregilupus_varius
+2412a3635
+> Fringilla_polatzeki
+2419a3643
+> Fulica_cristata
+2420a3645
+> Fulica_leucoptera
+2424c3649,3652
+< Fulvetta_cinereiceps
+---
+> Fulvetta_danisi
+> Fulvetta_formosana
+> Fulvetta_ludlowi
+> Fulvetta_manipurensis
+2427a3656
+> Furnarius_cinnamomeus
+2430a3660,3661
+> Furnarius_longirostris
+> Furnarius_minor
+2431a3663,3666
+> Furnarius_torridus
+> Gactornis_enarratus
+> Galbalcyrhynchus_leucotis
+> Galbalcyrhynchus_purusianus
+2432a3668
+> Galbula_chalcothorax
+2433a3670,3673
+> Galbula_cyanicollis
+> Galbula_dea
+> Galbula_galbula
+> Galbula_leucogastra
+2435a3676
+> Galbula_tombacea
+2436a3678
+> Galerida_deva
+2438a3681
+> Galerida_modesta
+2440,2441c3683,3684
+< Gallicolumba_beccarii
+< Gallicolumba_jobiensis
+---
+> Gallicolumba_crinigera
+> Gallicolumba_keayi
+2442a3686,3688
+> Gallicolumba_menagei
+> Gallicolumba_platenae
+> Gallicolumba_rufigula
+2444a3691
+> Gallinago_andina
+2446a3694,3698
+> Gallinago_hardwickii
+> Gallinago_imperialis
+> Gallinago_jamesoni
+> Gallinago_macrodactyla
+> Gallinago_magellanica
+2448a3701
+> Gallinago_nemoricola
+2449a3703
+> Gallinago_nobilis
+2450a3705
+> Gallinago_solitaria
+2451a3707,3708
+> Gallinago_stricklandii
+> Gallinago_undulata
+2452a3710
+> Gallinula_comeri
+2454c3712,3715
+< Gallinula_melanops
+---
+> Gallinula_nesiotis
+> Gallinula_pacifica
+> Gallinula_silvestris
+> Gallinula_tenebrosa
+2456,2458c3717,3721
+< Gallirallus_owstoni
+< Gallirallus_philippensis
+< Gallirallus_sylvestris
+---
+> Gallirex_johnstoni
+> Gallirex_porphyreolophus
+> Galloperdix_bicalcarata
+> Galloperdix_lunulata
+> Galloperdix_spadicea
+2460c3723
+< Gallus_lafayetii
+---
+> Gallus_lafayettii
+2464a3728,3729
+> Gampsorhynchus_torquatus
+> Garritornis_isidorei
+2466,2474c3731,3734
+< Garrulax_affinis
+< Garrulax_albogularis
+< Garrulax_canorus
+< Garrulax_chinensis
+< Garrulax_cineraceus
+< Garrulax_davidi
+< Garrulax_elliotii
+< Garrulax_erythrocephalus
+< Garrulax_formosus
+---
+> Garrulax_annamensis
+> Garrulax_bicolor
+> Garrulax_castanotis
+> Garrulax_ferrarius
+2476,2478c3736,3737
+< Garrulax_lineatus
+< Garrulax_lunulatus
+< Garrulax_maximus
+---
+> Garrulax_maesi
+> Garrulax_merulinus
+2480,2489c3739,3742
+< Garrulax_milnei
+< Garrulax_mitratus
+< Garrulax_morrisonianus
+< Garrulax_ocellatus
+< Garrulax_pectoralis
+< Garrulax_perspicillatus
+< Garrulax_poecilorhynchus
+< Garrulax_sannio
+< Garrulax_squamatus
+< Garrulax_subunicolor
+---
+> Garrulax_monileger
+> Garrulax_palliatus
+> Garrulax_rufifrons
+> Garrulax_strepitans
+2491,2492d3743
+< Garrulax_variegatus
+< Garrulax_vassali
+2493a3745
+> Garrulus_lanceolatus
+2497d3748
+< Gavia_immer
+2499a3751,3753
+> Gavicalis_fasciogularis
+> Gavicalis_versicolor
+> Gavicalis_virescens
+2500a3755,3757
+> Gecinulus_rafflesii
+> Gecinulus_viridis
+> Gelochelidon_macrotarsa
+2501a3759
+> Geobiastes_squamiger
+2506c3764,3784
+< Geoffroyus_heteroclitus
+---
+> Geoffroyus_geoffroyi
+> Geoffroyus_simplex
+> Geokichla_camaronensis
+> Geokichla_cinerea
+> Geokichla_citrina
+> Geokichla_crossleyi
+> Geokichla_dohertyi
+> Geokichla_erythronota
+> Geokichla_gurneyi
+> Geokichla_guttata
+> Geokichla_interpres
+> Geokichla_joiceyi
+> Geokichla_leucolaema
+> Geokichla_mendeni
+> Geokichla_peronii
+> Geokichla_piaggiae
+> Geokichla_princei
+> Geokichla_schistacea
+> Geokichla_sibirica
+> Geokichla_spiloptera
+> Geokichla_wardii
+2507a3786,3788
+> Geopelia_humeralis
+> Geopelia_maugeus
+> Geopelia_placida
+2509a3791,3792
+> Geophaps_scripta
+> Geophaps_smithii
+2521,2526c3804,3805
+< Geospiza_conirostris
+< Geospiza_difficilis
+< Geospiza_fortis
+< Geospiza_fuliginosa
+< Geospiza_magnirostris
+< Geospiza_scandens
+---
+> Geospizopsis_plebejus
+> Geospizopsis_unicolor
+2527a3807
+> Geothlypis_auricularis
+2528a3809
+> Geothlypis_chiriquensis
+2539,2545c3820,3824
+< Geotrygon_albifacies
+< Geotrygon_chiriquensis
+< Geotrygon_costaricensis
+< Geotrygon_frenata
+< Geotrygon_goldmani
+< Geotrygon_lawrencii
+< Geotrygon_montana
+---
+> Geothlypis_velata
+> Geotrygon_caniceps
+> Geotrygon_chrysia
+> Geotrygon_leucometopia
+> Geotrygon_mystacea
+2548d3826
+< Geotrygon_veraguensis
+2550a3829
+> Geranoaetus_albicaudatus
+2552a3832,3834
+> Geronticus_calvus
+> Geronticus_eremita
+> Gerygone_albofrontata
+2554a3837,3838
+> Gerygone_dorsalis
+> Gerygone_flavolateralis
+2555a3840
+> Gerygone_hypoxantha
+2556a3842,3843
+> Gerygone_inornata
+> Gerygone_insularis
+2558a3846
+> Gerygone_modesta
+2561a3850,3853
+> Gerygone_sulphurea
+> Gerygone_tenebrosa
+> Glareola_cinerea
+> Glareola_lactea
+2564a3857
+> Glareola_ocularis
+2566c3859,3861
+< Glaucidium_bolivianum
+---
+> Glaucestrilda_caerulescens
+> Glaucestrilda_perreini
+> Glaucestrilda_thomensis
+2568a3864,3867
+> Glaucidium_capense
+> Glaucidium_castanopterum
+> Glaucidium_castanotum
+> Glaucidium_costaricanum
+2570,2571d3868
+< Glaucidium_gnoma
+< Glaucidium_griseiceps
+2573a3871,3872
+> Glaucidium_minutissimum
+> Glaucidium_mooreorum
+2574a3874,3875
+> Glaucidium_nubicola
+> Glaucidium_parkeri
+2577c3878,3880
+< Glaucidium_peruanum
+---
+> Glaucidium_radiatum
+> Glaucidium_sanchezi
+> Glaucidium_siju
+2579d3881
+< Glaucidium_tucumanum
+2580a3883
+> Glaucis_dohrnii
+2584d3886
+< Glossopsitta_porphyrocephala
+2585a3888,3889
+> Glycifohia_notabilis
+> Glycifohia_undulata
+2587a3892,3897
+> Goldmania_bella
+> Goldmania_violiceps
+> Gorsachius_goisagi
+> Gorsachius_leuconotus
+> Gorsachius_magnificus
+> Gorsachius_melanolophus
+2588a3899,3900
+> Goura_scheepmakeri
+> Goura_sclaterii
+2589a3902,3903
+> Gracula_enganensis
+> Gracula_indica
+2591a3906
+> Gracula_robusta
+2594a3910,3911
+> Grallaria_albigula
+> Grallaria_alleni
+2595a3913
+> Grallaria_bangsi
+2596a3915,3917
+> Grallaria_capitalis
+> Grallaria_carrikeri
+> Grallaria_chthonia
+2599c3920,3926
+< Grallaria_guatimalensis
+---
+> Grallaria_erythroleuca
+> Grallaria_erythrotis
+> Grallaria_excelsa
+> Grallaria_flavotincta
+> Grallaria_gigantea
+> Grallaria_griseonucha
+> Grallaria_haplonota
+2600a3928,3929
+> Grallaria_kaestneri
+> Grallaria_milleri
+2601a3931,3932
+> Grallaria_przewalskii
+> Grallaria_quitensis
+2603a3935
+> Grallaria_rufocinerea
+2605d3936
+< Grallaria_squamigera
+2607a3939,3941
+> Grallaricula_cucullata
+> Grallaricula_cumanensis
+> Grallaricula_ferrugineipectus
+2608a3943
+> Grallaricula_leymebambae
+2609a3945
+> Grallaricula_loricata
+2610a3947,3949
+> Grallaricula_ochraceifrons
+> Grallaricula_peruviana
+> Grallina_bruijnii
+2612c3951,3952
+< Graminicola_bengalensis
+---
+> Graminicola_striatus
+> Grammatoptila_striata
+2616,2617d3955
+< Granatina_granatina
+< Granatina_ianthinogaster
+2618a3957
+> Graueria_vittata
+2619a3959
+> Griseotyrannus_aurantioatrocristatus
+2621,2622c3961
+< Grus_antigone
+< Grus_canadensis
+---
+> Grus_carunculata
+2624,2625d3962
+< Grus_japonensis
+< Grus_leucogeranus
+2628,2630c3965,3968
+< Grus_rubicunda
+< Grus_vipio
+< Guarouba_guarouba
+---
+> Grus_paradisea
+> Grus_virgo
+> Guadalcanaria_inexpectata
+> Guaruba_guarouba
+2636,2637c3974,3975
+< Gyalophylax_hellmayri
+< Gygis_alba
+---
+> Gymnasio_nudipes
+> Gymnobucco_bonapartei
+2638a3977,3978
+> Gymnobucco_peli
+> Gymnobucco_sladeni
+2639a3980,3982
+> Gymnocrex_plumbeiventris
+> Gymnocrex_rosenbergii
+> Gymnocrex_talaudensis
+2642a3986,3989
+> Gymnomyza_aubryana
+> Gymnomyza_brunneirostris
+> Gymnomyza_samoensis
+> Gymnomyza_viridis
+2643a3991,3992
+> Gymnophaps_solomonensis
+> Gymnophaps_stalkeri
+2646d3994
+< Gymnopithys_lunulatus
+2648d3995
+< Gymnopithys_salvini
+2650a3998,3999
+> Gymnoris_superciliaris
+> Gymnoris_xanthocollis
+2659c4008,4013
+< Gyps_rueppellii
+---
+> Gypsophila_annamensis
+> Gypsophila_brevicaudata
+> Gypsophila_calcicola
+> Gypsophila_crassa
+> Gypsophila_crispifrons
+> Gypsophila_rufipectus
+2660a4015,4016
+> Habia_atrimaxillaris
+> Habia_cristata
+2663a4020
+> Habroptila_wallacii
+2666a4024,4026
+> Haematopus_chathamensis
+> Haematopus_finschi
+> Haematopus_fuliginosus
+2667a4028,4030
+> Haematopus_longirostris
+> Haematopus_meadewaldoi
+> Haematopus_moquini
+2672,2673c4035,4038
+< Haematospiza_sipahi
+< Halcyon_badia
+---
+> Haemorhous_cassinii
+> Haemorhous_purpureus
+> Halcyon_albiventris
+> Halcyon_chelicuti
+2675,2676c4040
+< Halcyon_leucocephala
+< Halcyon_leucopygius
+---
+> Halcyon_cyanoventris
+2677a4042
+> Halcyon_pileata
+2678a4044
+> Halcyon_senegaloides
+2680a4047
+> Haliaeetus_ichthyaetus
+2685d4051
+< Haliaeetus_sanfordi
+2692a4059,4064
+> Hapalopsittaca_fuertesi
+> Hapalopsittaca_melanotis
+> Hapalopsittaca_pyrrhops
+> Hapaloptila_castanea
+> Haplochelidon_andecola
+> Haplophaedia_assimilis
+2703d4074
+< Harpactes_mackloti
+2708d4078
+< Harpagornis_moorei
+2709a4080
+> Harpagus_diodon
+2711,2712d4081
+< Harpyhaliaetus_coronatus
+< Harpyhaliaetus_solitarius
+2715a4085,4087
+> Hedydipna_metallica
+> Hedydipna_pallidigaster
+> Hedydipna_platura
+2717a4090,4098
+> Heleia_dohertyi
+> Heleia_goodfellowi
+> Heleia_javanica
+> Heleia_muelleri
+> Heleia_pinaiae
+> Heleia_squamiceps
+> Heleia_squamifrons
+> Heleia_superciliaris
+> Heleia_wallacei
+2719d4099
+< Heliactin_cornuta
+2720a4101
+> Heliangelus_clarisse
+2721a4103
+> Heliangelus_mavors
+2725a4108
+> Helicolestes_hamatus
+2738a4122
+> Heliomaster_squamosus
+2744a4129,4133
+> Helopsaltes_certhiola
+> Helopsaltes_fasciolatus
+> Helopsaltes_ochotensis
+> Helopsaltes_pleskei
+> Helopsaltes_pryeri
+2746,2748c4135,4138
+< Hemignathus_kauaiensis
+< Hemignathus_munroi
+< Hemignathus_virens
+---
+> Hemicircus_concretus
+> Hemignathus_affinis
+> Hemignathus_hanapepe
+> Hemignathus_lucidus
+2751a4142
+> Hemiprocne_coronata
+2756,2759d4146
+< Hemispingus_atropileus
+< Hemispingus_frontalis
+< Hemispingus_melanotis
+< Hemispingus_verticalis
+2760a4148,4151
+> Hemithraupis_guira
+> Hemithraupis_ruficapilla
+> Hemitriccus_cinnamomeipectus
+> Hemitriccus_cohnhafti
+2762a4154,4155
+> Hemitriccus_furcatus
+> Hemitriccus_granadensis
+2763a4157
+> Hemitriccus_inornatus
+2765a4160
+> Hemitriccus_kaempferi
+2768a4164
+> Hemitriccus_mirandae
+2769a4166,4169
+> Hemitriccus_obsoletus
+> Hemitriccus_orbitatus
+> Hemitriccus_rufigularis
+> Hemitriccus_spodiops
+2774a4175,4176
+> Henicopernis_infuscatus
+> Henicopernis_longicauda
+2775a4178,4179
+> Henicophaps_foersteri
+> Henicorhina_anachoreta
+2782a4187,4189
+> Herpsilochmus_dugandi
+> Herpsilochmus_frater
+> Herpsilochmus_gentryi
+2785a4193,4196
+> Herpsilochmus_pectoralis
+> Herpsilochmus_pileatus
+> Herpsilochmus_praedictus
+> Herpsilochmus_roraimae
+2786a4198
+> Herpsilochmus_sellowi
+2787a4200,4203
+> Herpsilochmus_sticturus
+> Herpsilochmus_stotzi
+> Hesperiphona_abeillei
+> Hesperiphona_vespertina
+2788a4205
+> Heterocercus_aurantiivertex
+2791c4208
+< Heteromunia_pectoralis
+---
+> Heteromirafra_ruddi
+2792a4210
+> Heteromyias_cinereifrons
+2795a4214,4215
+> Heterophasia_desgodinsi
+> Heterophasia_gracilis
+2796a4217,4218
+> Heterophasia_picaoides
+> Heterophasia_pulchella
+2798a4221,4222
+> Heteroxenicus_stellatus
+> Heteroxolmis_dominicana
+2802a4227,4228
+> Hieraaetus_weiskei
+> Hierococcyx_bocki
+2804c4230,4233
+< Hierococcyx_vagans
+---
+> Hierococcyx_hyperythrus
+> Hierococcyx_pectoralis
+> Hierococcyx_sparverioides
+> Hierococcyx_varius
+2806c4235,4236
+< Himantopus_mexicanus
+---
+> Himantopus_leucocephalus
+> Himantopus_novaezelandiae
+2807a4238
+> Himatione_fraithii
+2809d4239
+< Hippolais_caligata
+2813,2814d4242
+< Hippolais_opaca
+< Hippolais_pallida
+2816d4243
+< Hippolais_rama
+2817a4245,4247
+> Hirundapus_celebensis
+> Hirundapus_cochinchinensis
+> Hirundapus_giganteus
+2823a4254
+> Hirundo_domicola
+2834c4265,4281
+< Horizorhinus_dohrni
+---
+> Histurgops_ruficauda
+> Hoploxypterus_cayanus
+> Horizocerus_albocristatus
+> Horizocerus_hartlaubi
+> Horornis_acanthizoides
+> Horornis_annae
+> Horornis_brunnescens
+> Horornis_carolinae
+> Horornis_diphone
+> Horornis_flavolivaceus
+> Horornis_fortipes
+> Horornis_haddeni
+> Horornis_parens
+> Horornis_ruficapilla
+> Horornis_seebohmi
+> Horornis_vulcanius
+> Humblotia_flavirostris
+2840c4287
+< Hydropsalis_brasiliana
+---
+> Hydropsalis_cayennensis
+2841a4289
+> Hydropsalis_maculicaudus
+2842a4291,4301
+> Hydrornis_caeruleus
+> Hydrornis_cyaneus
+> Hydrornis_elliotii
+> Hydrornis_gurneyi
+> Hydrornis_irena
+> Hydrornis_nipalensis
+> Hydrornis_oatesi
+> Hydrornis_phayrei
+> Hydrornis_schneideri
+> Hydrornis_schwaneri
+> Hydrornis_soror
+2845a4305
+> Hylexetastes_stresemanni
+2846a4307
+> Hyliota_australis
+2847a4309
+> Hyliota_usambara
+2849,2852d4310
+< Hylocharis_cyanus
+< Hylocharis_eliciae
+< Hylocharis_grayi
+< Hylocharis_leucotis
+2854d4311
+< Hylocharis_xantusii
+2857,2858d4313
+< Hylocryptus_erythrocephalus
+< Hyloctistes_subulatus
+2859a4315,4316
+> Hylonympha_macrocerca
+> Hylopezus_auricularis
+2860a4318
+> Hylopezus_dives
+2861a4320
+> Hylopezus_macularius
+2862a4322,4326
+> Hylopezus_paraensis
+> Hylopezus_perspicillatus
+> Hylophilus_amaurocephalus
+> Hylophilus_aurantiifrons
+> Hylophilus_brunneiceps
+2863a4328,4330
+> Hylophilus_flavipes
+> Hylophilus_hypoxanthus
+> Hylophilus_muscicapinus
+2864a4332,4333
+> Hylophilus_olivaceus
+> Hylophilus_pectoralis
+2865a4335,4337
+> Hylophilus_semibrunneus
+> Hylophilus_semicinereus
+> Hylophilus_thoracicus
+2868a4341,4342
+> Hylopsar_cupreocauda
+> Hylorchilus_navai
+2874a4349,4350
+> Hypnelus_bicinctus
+> Hypnelus_ruficollis
+2877a4354
+> Hypocnemoides_melanopogon
+2879d4355
+< Hypocryptadius_cinnamomeus
+2881d4356
+< Hypogramma_hypogrammicum
+2882a4358,4370
+> Hypositta_corallirostris
+> Hypotaenidia_dieffenbachii
+> Hypotaenidia_insignis
+> Hypotaenidia_okinawae
+> Hypotaenidia_owstoni
+> Hypotaenidia_pacifica
+> Hypotaenidia_philippensis
+> Hypotaenidia_poeciloptera
+> Hypotaenidia_rovianae
+> Hypotaenidia_sylvestris
+> Hypotaenidia_torquata
+> Hypotaenidia_wakensis
+> Hypotaenidia_woodfordi
+2883a4372
+> Hypothymis_coelestis
+2884a4374
+> Hypothymis_puella
+2886d4375
+< Hypsipetes_borbonicus
+2888a4378,4379
+> Hypsipetes_ganeesa
+> Hypsipetes_guimarasensis
+2890c4381,4383
+< Hypsipetes_madagascariensis
+---
+> Hypsipetes_longirostris
+> Hypsipetes_mindorensis
+> Hypsipetes_mysticalis
+2895a4389,4397
+> Hypsipetes_thompsoni
+> Ianthocincla_bieti
+> Ianthocincla_cineracea
+> Ianthocincla_konkakinhensis
+> Ianthocincla_lunulata
+> Ianthocincla_maxima
+> Ianthocincla_ocellata
+> Ianthocincla_rufogularis
+> Ianthocincla_sukatschewi
+2900c4402
+< Ichthyaetus_ichthyaetus
+---
+> Ichthyaetus_leucophthalmus
+2902,2904d4403
+< Ichthyaetus_relictus
+< Ichthyophaga_humilis
+< Ichthyophaga_ichthyaetus
+2913d4411
+< Icterus_chrysocephalus
+2926a4425
+> Icterus_melanopsis
+2928a4428
+> Icterus_northropi
+2931a4432
+> Icterus_portoricensis
+2933a4435
+> Icterus_pyrrhopterus
+2936c4438
+< Ictinaetus_malayensis
+---
+> Ictinaetus_malaiensis
+2939a4442,4450
+> Idiopsar_dorsalis
+> Idiopsar_erythronotus
+> Idiopsar_speculifer
+> Iduna_caligata
+> Iduna_natalensis
+> Iduna_opaca
+> Iduna_pallida
+> Iduna_rama
+> Iduna_similis
+2949c4460,4468
+< Incana_incanus
+---
+> Illadopsis_turdina
+> Incana_incana
+> Incaspiza_laeta
+> Incaspiza_ortizi
+> Incaspiza_personata
+> Incaspiza_pulchra
+> Incaspiza_watkinsi
+> Indicator_archipelagicus
+> Indicator_conirostris
+2950a4470
+> Indicator_indicator
+2951a4472
+> Indicator_meliphilus
+2952a4474
+> Indicator_pumilio
+2953a4476,4477
+> Indicator_willcocksi
+> Indicator_xanthonotus
+2956a4481
+> Inezia_tenuirostris
+2959c4484,4488
+< Iole_olivacea
+---
+> Iodopleura_pipra
+> Iole_cacharensis
+> Iole_charlottae
+> Iole_crypta
+> Iole_finschii
+2962c4491
+< Irania_gutturalis
+---
+> Iole_viridescens
+2970a4500,4502
+> Iridosornis_rufivertex
+> Isleria_guttata
+> Isleria_hauxwelli
+2974a4507
+> Ixobrychus_dubius
+2977d4509
+< Ixobrychus_flavicollis
+2979a4512
+> Ixobrychus_novaezelandiae
+2981c4514,4517
+< Ixonotus_guttatus
+---
+> Ixobrychus_sturmii
+> Ixodia_cyaniventris
+> Ixodia_erythropthalmos
+> Ixodia_squamata
+2984a4521,4526
+> Ixos_nicobariensis
+> Ixos_virescens
+> Ixothraupis_guttata
+> Ixothraupis_punctata
+> Ixothraupis_rufigula
+> Ixothraupis_xanthogastra
+2986c4528
+< Jabouilleia_danjoui
+---
+> Jacamaralcyon_tridactyla
+2990a4533,4534
+> Junco_vulcani
+> Jynx_ruficollis
+2993a4538,4539
+> Kempiella_flavovirescens
+> Kempiella_griseoceps
+2994a4541
+> Ketupa_flavipes
+2997a4545,4548
+> Kleinothraupis_atropileus
+> Kleinothraupis_calophrys
+> Kleinothraupis_parodii
+> Kleinothraupis_reyi
+2998a4550
+> Knipolegus_cabanisi
+3003a4556,4557
+> Knipolegus_orenocensis
+> Knipolegus_poecilocercus
+3007d4560
+< Kupeornis_gilberti
+3010c4563
+< Lagonosticta_larvata
+---
+> Lagonosticta_landanae
+3023a4577,4578
+> Lalage_aurea
+> Lalage_fimbriata
+3028a4584,4585
+> Lalage_melaschistos
+> Lalage_moesta
+3029a4587
+> Lalage_polioptera
+3032a4591
+> Lalage_typica
+3041a4601,4602
+> Lamprolia_klinesmithi
+> Lamprolia_victoriae
+3044a4606
+> Lamprotornis_albicapillus
+3046c4608
+< Lamprotornis_caudatus
+---
+> Lamprotornis_bicolor
+3050,3051c4612,4613
+< Lamprotornis_corruscus
+< Lamprotornis_cupreocauda
+---
+> Lamprotornis_elisabeth
+> Lamprotornis_fischeri
+3056,3060d4617
+< Lamprotornis_ornatus
+< Lamprotornis_pulcher
+< Lamprotornis_purpureiceps
+< Lamprotornis_purpureus
+< Lamprotornis_purpuroptera
+3064c4621
+< Lamprotornis_superbus
+---
+> Lamprotornis_unicolor
+3066c4623
+< Laniarius_ambiguus
+---
+> Laniarius_amboimensis
+3071c4628
+< Laniarius_erlangeri
+---
+> Laniarius_brauni
+3074d4630
+< Laniarius_fuelleborni
+3075a4632
+> Laniarius_holomelas
+3077d4633
+< Laniarius_luehderi
+3081a4638
+> Laniarius_sublacteus
+3083a4641,4643
+> Laniellus_albonotatus
+> Laniellus_langbianis
+> Laniisoma_buckleyi
+3086a4647
+> Laniocera_rufescens
+3094a4656
+> Lanius_collurioides
+3098c4660,4661
+< Lanius_excubitoroides
+---
+> Lanius_gubernator
+> Lanius_humeralis
+3105c4668
+< Lanius_pallidirostris
+---
+> Lanius_phoenicuroides
+3108a4672
+> Lanius_souzae
+3111a4676,4677
+> Lanius_validirostris
+> Lanius_vittatus
+3113d4678
+< Larus_argentatus
+3114a4680
+> Larus_atlanticus
+3116d4681
+< Larus_cachinnans
+3126d4690
+< Larus_heuglini
+3127a4692
+> Larus_livens
+3130d4694
+< Larus_mongolicus
+3135,3136d4698
+< Larus_thayeri
+< Larus_vegae
+3140a4703
+> Larvivora_ruficeps
+3142a4706,4708
+> Laterallus_exilis
+> Laterallus_fasciatus
+> Laterallus_flaviventer
+3143a4710,4711
+> Laterallus_leucopyrrhus
+> Laterallus_levraudi
+3144a4713,4716
+> Laterallus_rogersi
+> Laterallus_ruber
+> Laterallus_spiloptera
+> Laterallus_xenopterus
+3147c4719,4721
+< Latoucheornis_siemsseni
+---
+> Lathrotriccus_griseipectus
+> Laticilla_burnesii
+> Laticilla_cinerascens
+3148a4723,4730
+> Leiopicus_mahrattensis
+> Leioptila_annectens
+> Leiothlypis_celata
+> Leiothlypis_crissalis
+> Leiothlypis_luciae
+> Leiothlypis_peregrina
+> Leiothlypis_ruficapilla
+> Leiothlypis_virginiae
+3151a4734,4739
+> Leistes_bellicosus
+> Leistes_defilippii
+> Leistes_loyca
+> Leistes_militaris
+> Leistes_superciliaris
+> Leonardina_woodi
+3154a4743
+> Lepidocolaptes_duidae
+3155a4745,4746
+> Lepidocolaptes_fatimalimae
+> Lepidocolaptes_fuscicapillus
+3160,3161c4751
+< Lepidocolaptes_wagleri
+< Lepidopyga_coeruleogularis
+---
+> Lepidopygia_nana
+3164a4755
+> Lepidothrix_isidorei
+3167a4759
+> Lepidothrix_vilasboasi
+3168a4761
+> Leptasthenura_andicola
+3172,3173c4765,4772
+< Leptasthenura_yanacensis
+< Leptocoma_sericea
+---
+> Leptasthenura_setaria
+> Leptasthenura_striata
+> Leptasthenura_striolata
+> Leptasthenura_xenothorax
+> Leptocoma_aspasia
+> Leptocoma_brasiliana
+> Leptocoma_calcostetha
+> Leptocoma_minima
+3174a4774
+> Leptocoma_zeylonica
+3175a4776
+> Leptodon_forbesi
+3179c4780,4784
+< Leptoptilos_crumeniferus
+---
+> Leptopogon_rufipectus
+> Leptopogon_superciliaris
+> Leptopogon_taczanowskii
+> Leptoptilos_crumenifer
+> Leptoptilos_dubius
+3183,3184c4788,4790
+< Leptotila_cassini
+< Leptotila_jamaicensis
+---
+> Leptotila_battyi
+> Leptotila_cassinii
+> Leptotila_conoveri
+3185a4792,4793
+> Leptotila_ochraceiventris
+> Leptotila_pallida
+3188a4797,4799
+> Leptotila_wellsi
+> Leptotrygon_veraguensis
+> Lerwa_lerwa
+3193,3194c4804,4829
+< Leucippus_baeri
+< Leucippus_chlorocercus
+---
+> Leucippus_fallax
+> Leucocarbo_atriceps
+> Leucocarbo_bougainvillii
+> Leucocarbo_bransfieldensis
+> Leucocarbo_campbelli
+> Leucocarbo_carunculatus
+> Leucocarbo_chalconotus
+> Leucocarbo_colensoi
+> Leucocarbo_melanogenis
+> Leucocarbo_nivalis
+> Leucocarbo_onslowi
+> Leucocarbo_purpurascens
+> Leucocarbo_ranfurlyi
+> Leucocarbo_stewarti
+> Leucocarbo_verrucosus
+> Leucochloris_albicollis
+> Leucogeranus_leucogeranus
+> Leucolia_violiceps
+> Leucolia_viridifrons
+> Leucolia_wagneri
+> Leuconotopicus_albolarvatus
+> Leuconotopicus_arizonae
+> Leuconotopicus_borealis
+> Leuconotopicus_fumigatus
+> Leuconotopicus_stricklandi
+> Leuconotopicus_villosus
+3201d4835
+< Leucopternis_albicollis
+3203d4836
+< Leucopternis_lacernulatus
+3205,3209d4837
+< Leucopternis_occidentalis
+< Leucopternis_plumbeus
+< Leucopternis_polionotus
+< Leucopternis_princeps
+< Leucopternis_schistaceus
+3218c4846,4849
+< Lichenostomus_chrysops
+---
+> Lewinia_mirifica
+> Lewinia_muelleri
+> Lewinia_pectoralis
+> Lewinia_striata
+3220,3228d4850
+< Lichenostomus_fasciogularis
+< Lichenostomus_flavescens
+< Lichenostomus_flavicollis
+< Lichenostomus_flavus
+< Lichenostomus_frenatus
+< Lichenostomus_fuscus
+< Lichenostomus_hindwoodi
+< Lichenostomus_keartlandi
+< Lichenostomus_leucotis
+3230,3237d4851
+< Lichenostomus_obscurus
+< Lichenostomus_ornatus
+< Lichenostomus_penicillatus
+< Lichenostomus_plumulus
+< Lichenostomus_subfrenatus
+< Lichenostomus_unicolor
+< Lichenostomus_versicolor
+< Lichenostomus_virescens
+3238a4853,4856
+> Lichmera_argentauris
+> Lichmera_deningeri
+> Lichmera_flavicans
+> Lichmera_incana
+3240c4858,4861
+< Limicola_falcinellus
+---
+> Lichmera_lombokia
+> Lichmera_monticola
+> Lichmera_notabilis
+> Lichmera_squamata
+3241a4863
+> Limnoctites_sulphuriferus
+3243a4866
+> Limnodromus_semipalmatus
+3249a4873,4876
+> Linaria_cannabina
+> Linaria_flavirostris
+> Linaria_johannis
+> Linaria_yemenensis
+3250a4878
+> Liocichla_bugunorum
+3252a4881
+> Liocichla_ripponi
+3255d4883
+< Lioptilus_nigricapillus
+3256a4885
+> Lipaugus_conditus
+3257a4887
+> Lipaugus_lanioides
+3259a4890
+> Lipaugus_uropygialis
+3261c4892,4895
+< Loboparadisea_sericea
+---
+> Lipaugus_weberi
+> Lissotis_hartlaubii
+> Lobotos_lobatus
+> Lobotos_oriolinus
+3263,3265c4897,4901
+< Locustella_amnicola
+< Locustella_certhiola
+< Locustella_fasciolata
+---
+> Locustella_accentor
+> Locustella_alishanensis
+> Locustella_caudata
+> Locustella_davidi
+> Locustella_disturbans
+3268a4905,4909
+> Locustella_luteoventris
+> Locustella_major
+> Locustella_mandelli
+> Locustella_montis
+> Locustella_musculus
+3270,3275c4911,4922
+< Locustella_ochotensis
+< Locustella_pleskei
+< Lonchura_castaneothorax
+< Lonchura_malacca
+< Lonchura_nana
+< Lonchura_oryzivora
+---
+> Locustella_portenta
+> Locustella_seebohmi
+> Locustella_tacsanowskia
+> Loddigesia_mirabilis
+> Lonchura_atricapilla
+> Lonchura_ferruginosa
+> Lonchura_fuscans
+> Lonchura_kelaarti
+> Lonchura_leucogastra
+> Lonchura_leucogastroides
+> Lonchura_maja
+> Lonchura_molucca
+3279a4927
+> Lonchura_vana
+3280a4929,4935
+> Lophoceros_bradfieldi
+> Lophoceros_camurus
+> Lophoceros_fasciatus
+> Lophoceros_hemprichii
+> Lophoceros_nasutus
+> Lophoceros_pallidirostris
+> Lophochroa_leadbeateri
+3289a4945,4947
+> Lophopsittacus_mauritianus
+> Lophorina_minor
+> Lophorina_niedda
+3290a4949,4950
+> Lophornis_adorabilis
+> Lophornis_brachylophus
+3292a4953,4956
+> Lophornis_gouldii
+> Lophornis_helenae
+> Lophornis_magnificus
+> Lophornis_ornatus
+3293a4958,4959
+> Lophornis_stictolophus
+> Lophornis_verreauxii
+3295a4962,4967
+> Lophostrix_cristata
+> Lophotibis_cristata
+> Lophotis_gindiana
+> Lophotis_ruficrista
+> Lophotis_savilei
+> Lophotriccus_eulophotes
+3300,3303d4971
+< Lophozosterops_goodfellowi
+< Lophozosterops_javanicus
+< Lophozosterops_squamiceps
+< Lophozosterops_superciliaris
+3308d4975
+< Lophura_hatinhensis
+3313a4981,4984
+> Loriculus_amabilis
+> Loriculus_aurantiifrons
+> Loriculus_beryllinus
+> Loriculus_camiguinensis
+3314a4986,4987
+> Loriculus_exilis
+> Loriculus_flosculus
+3316d4988
+< Loriculus_philippensis
+3317a4990,4994
+> Loriculus_sclateri
+> Loriculus_vernalis
+> Loriotus_cristatus
+> Loriotus_luctuosus
+> Loriotus_rufiventer
+3318a4996,4997
+> Lorius_chlorocercus
+> Lorius_domicella
+3319a4999
+> Lorius_hypoinochrous
+3322a5003
+> Loxia_megaplaga
+3324a5006,5007
+> Loxia_sinesciuris
+> Loxigilla_barbadensis
+3326,3327d5008
+< Loxigilla_portoricensis
+< Loxigilla_violacea
+3331a5013,5015
+> Loxops_mana
+> Loxops_ochraceus
+> Loxops_wolstenholmei
+3333d5016
+< Lurocalis_nattereri
+3340a5024
+> Lybius_chaplini
+3341a5026,5027
+> Lybius_guifsobalito
+> Lybius_leucocephalus
+3342a5029,5031
+> Lybius_minor
+> Lybius_rolleti
+> Lybius_rubrifacies
+3346,3347c5035,5038
+< Lymnocryptes_minimus
+< Macgregoria_pulchra
+---
+> Lyncornis_macrotis
+> Lyncornis_temminckii
+> Lyrurus_mlokosiewiczi
+> Lyrurus_tetrix
+3348a5040
+> Machaerirhynchus_nigripectus
+3350a5043,5044
+> Machaeropterus_regulus
+> Machaeropterus_striolatus
+3353c5047,5050
+< Macholophus_holsti
+---
+> Machlolophus_aplonotus
+> Machlolophus_holsti
+> Machlolophus_nuchalis
+> Machlolophus_spilonotus
+3358,3360d5054
+< Macrocephalon_maleo
+< Macrodipteryx_longipennis
+< Macrodipteryx_vexillarius
+3363,3365c5057,5061
+< Macronous_gularis
+< Macronous_ptilosus
+< Macronous_striaticeps
+---
+> Macronus_ptilosus
+> Macronus_striaticeps
+> Macronyx_ameliae
+> Macronyx_aurantiigula
+> Macronyx_capensis
+3366a5063,5065
+> Macronyx_grimwoodi
+> Macronyx_sharpei
+> Macropsalis_forcipata
+3367a5067,5070
+> Macropygia_cinnamomea
+> Macropygia_doreya
+> Macropygia_emiliana
+> Macropygia_macassariensis
+3368a5072,5073
+> Macropygia_magna
+> Macropygia_modiglianii
+3369a5075,5076
+> Macropygia_ruficeps
+> Macropygia_rufipennis
+3370a5078,5080
+> Macropygia_timorlaoensis
+> Macropygia_unchall
+> Macrosphenus_concolor
+3371a5082,5084
+> Macrosphenus_kempi
+> Macrosphenus_kretschmeri
+> Macrosphenus_pulitzeri
+3374c5087,5088
+< Malacocincla_malaccensis
+---
+> Malacocincla_perspicillata
+> Malacocincla_sepiaria
+3376a5091,5096
+> Malaconotus_cruentus
+> Malaconotus_gladiator
+> Malaconotus_lagdeni
+> Malaconotus_monteiri
+> Malacopteron_affine
+> Malacopteron_albogulare
+3378a5099,5104
+> Malacopteron_magnum
+> Malacoptila_fulvogularis
+> Malacoptila_fusca
+> Malacoptila_mystacalis
+> Malacoptila_panamensis
+> Malacoptila_rufa
+3379a5106
+> Malacoptila_striata
+3380a5108,5121
+> Malcorus_pectoralis
+> Malia_grata
+> Malimbus_ballmanni
+> Malimbus_cassini
+> Malimbus_coronatus
+> Malimbus_erythrogaster
+> Malimbus_ibadanensis
+> Malimbus_malimbicus
+> Malimbus_nitens
+> Malimbus_racheliae
+> Malimbus_rubricollis
+> Malimbus_scutatus
+> Malindangia_mcgregori
+> Malurus_alboscapulatus
+3381a5123
+> Malurus_assimilis
+3383a5126
+> Malurus_cyanocephalus
+3397a5141
+> Manorina_melanotis
+3401c5145,5152
+< Margaroperdix_madagascarensis
+---
+> Manucodia_jobiensis
+> Mareca_americana
+> Mareca_falcata
+> Mareca_marecula
+> Mareca_penelope
+> Mareca_sibilatrix
+> Mareca_strepera
+> Margaroperdix_madagarensis
+3406,3407c5157
+< Marmaronetta_angustirostris
+< Mascarinus_mascarinus
+---
+> Margarornis_stellatus
+3409a5160,5164
+> Mayrornis_schistaceus
+> Mayrornis_versicolor
+> Mazaria_propinqua
+> Mearnsia_novaeguineae
+> Mearnsia_picina
+3410a5166
+> Mecocerculus_hellmayri
+3414c5170
+< Megabyas_flammulatus
+---
+> Mecocerculus_stictopterus
+3416c5172,5173
+< Megaceryle_maximus
+---
+> Megaceryle_lugubris
+> Megaceryle_maxima
+3420,3431c5177
+< Megalaima_asiatica
+< Megalaima_chrysopogon
+< Megalaima_franklinii
+< Megalaima_haemacephala
+< Megalaima_lineata
+< Megalaima_monticola
+< Megalaima_mystacophanos
+< Megalaima_oorti
+< Megalaima_virens
+< Megalapteryx_benhami
+< Megalapteryx_didinus
+< Megalurus_gramineus
+---
+> Megalampitta_gigantea
+3433,3436c5179
+< Megalurus_pryeri
+< Megalurus_punctatus
+< Megalurus_timoriensis
+< Megapodius_affinis
+---
+> Megapodius_bernsteinii
+3439d5181
+< Megapodius_forstenii
+3440a5183
+> Megapodius_laperouse
+3441a5185
+> Megapodius_nicobariensis
+3443d5186
+< Megapodius_reinwardt
+3445d5187
+< Megapodius_wallacei
+3446a5189
+> Megascops_albogularis
+3448a5192
+> Megascops_barbarus
+3449a5194,5196
+> Megascops_clarkii
+> Megascops_cooperi
+> Megascops_gilesi
+3451c5198
+< Megascops_hoyi
+---
+> Megascops_ingens
+3454c5201
+< Megascops_napensis
+---
+> Megascops_marshalli
+3457a5205
+> Megascops_seductus
+3460a5209
+> Megatriorchis_doriae
+3461a5211,5212
+> Megazosterops_palauensis
+> Meiglyptes_jugularis
+3463a5215,5217
+> Melaenornis_annamarulae
+> Melaenornis_ardesiacus
+> Melaenornis_brunneus
+3465c5219,5224
+< Melampitta_gigantea
+---
+> Melaenornis_fischeri
+> Melaenornis_infuscatus
+> Melaenornis_mariquensis
+> Melaenornis_microrhynchus
+> Melaenornis_pammelaina
+> Melaenornis_silens
+3466a5226
+> Melamprosops_phaeosoma
+3470a5231,5233
+> Melanerpes_chrysauchen
+> Melanerpes_chrysogenys
+> Melanerpes_cruentatus
+3474a5238,5239
+> Melanerpes_hoffmannii
+> Melanerpes_hypopolius
+3475a5241
+> Melanerpes_portoricensis
+3477,3478c5243,5246
+< Melanerpes_pygmaeus
+< Melanerpes_striatus
+---
+> Melanerpes_pulcher
+> Melanerpes_radiolatus
+> Melanerpes_rubricapillus
+> Melanerpes_superciliaris
+3481a5250
+> Melaniparus_cinerascens
+3483c5252,5254
+< Melaniparus_funereus
+---
+> Melaniparus_fringillinus
+> Melaniparus_griseiventris
+> Melaniparus_guineensis
+3484a5256
+> Melaniparus_pallidiventris
+3485a5258,5260
+> Melaniparus_thruppi
+> Melanitta_americana
+> Melanitta_deglandi
+3488a5264,5265
+> Melanitta_stejnegeri
+> Melanocharis_arfakiana
+3489a5267
+> Melanocharis_striativentris
+3492d5269
+< Melanocorypha_bimaculata
+3494a5272
+> Melanocorypha_yeltoniensis
+3498a5277
+> Melanopareia_bitorquata
+3499a5279
+> Melanopareia_maranonica
+3501a5282
+> Melanoperdix_niger
+3502a5284,5285
+> Melanorectes_nigrescens
+> Melanospiza_bicolor
+3507,3509c5290,5292
+< Melidectes_belfordi
+< Melidectes_ochromelas
+< Melidectes_torquatus
+---
+> Meleagris_ocellata
+> Meliarchus_sclateri
+> Melichneutes_robustus
+3511a5295
+> Melierax_metabates
+3512a5297,5298
+> Melignomon_eisentrauti
+> Melignomon_zenkeri
+3514,3516c5300,5302
+< Meliphaga_albilineata
+< Meliphaga_albonotata
+< Meliphaga_analoga
+---
+> Melionyx_fuscus
+> Melionyx_nouhuysi
+> Meliphacator_provocator
+3518,3521d5303
+< Meliphaga_cinereifrons
+< Meliphaga_flavirictus
+< Meliphaga_fordiana
+< Meliphaga_gracilis
+3523,3524d5304
+< Meliphaga_mimikae
+< Meliphaga_montana
+3526,3528c5306,5307
+< Meliphaga_orientalis
+< Meliphaga_reticulata
+< Melipotes_fumigatus
+---
+> Melipotes_ater
+> Melipotes_carolae
+3531a5311
+> Melithreptus_chloropsis
+3534a5315,5318
+> Melitograis_gilolensis
+> Mellisuga_helenae
+> Mellisuga_minima
+> Melloria_quoyi
+3536d5319
+< Melophus_lathami
+3538a5322,5323
+> Melopyrrha_portoricensis
+> Melopyrrha_violacea
+3544c5329
+< Melozone_biarcuata
+---
+> Melozone_cabanisi
+3548a5334,5337
+> Menelikornis_ruspolii
+> Mentocrex_beankaensis
+> Mentocrex_kioloides
+> Menura_alberti
+3551a5341
+> Mergus_australis
+3552a5343
+> Mergus_octosetaceus
+3558d5348
+< Merops_boehmi
+3565a5356
+> Merops_mentalis
+3566a5358
+> Merops_nubicoides
+3573c5365
+< Merops_pusillus
+---
+> Merops_revoilii
+3577a5370,5371
+> Merulaxis_stresemanni
+> Mesembrinibis_cayennensis
+3579c5373
+< Mesophoyx_intermedia
+---
+> Mesitornis_variegatus
+3583a5378
+> Metallura_iracunda
+3588a5384
+> Metopidius_indicus
+3590d5385
+< Metriopelia_aymara
+3593a5389
+> Micrastur_buckleyi
+3594a5391,5394
+> Micrastur_mintoni
+> Micrastur_mirandollei
+> Micrastur_plumbeus
+> Micrastur_ruficollis
+3597a5398,5403
+> Microbates_collaris
+> Microcarbo_africanus
+> Microcarbo_coronatus
+> Microcarbo_melanoleucos
+> Microcarbo_niger
+> Microcarbo_pygmaeus
+3599a5406,5407
+> Microcerculus_philomela
+> Microcerculus_ustulatus
+3600a5409,5411
+> Microchera_chionura
+> Microchera_cupreiceps
+> Microdynamis_parva
+3603,3604c5414,5415
+< Microeca_griseoceps
+< Microeca_papuana
+---
+> Microeca_hemixantha
+> Microgoura_meeki
+3606a5418,5420
+> Microhierax_fringillarius
+> Microhierax_latifrons
+> Microhierax_melanoleucos
+3607a5422
+> Micromonacha_lanceolata
+3610d5424
+< Micropsitta_bruijnii
+3611a5426
+> Micropsitta_geelvinkiana
+3613a5429,5440
+> Micropternus_brachyurus
+> Microptilotis_albonotatus
+> Microptilotis_analogus
+> Microptilotis_cinereifrons
+> Microptilotis_flavirictus
+> Microptilotis_gracilis
+> Microptilotis_imitatrix
+> Microptilotis_mimikae
+> Microptilotis_montanus
+> Microptilotis_orientalis
+> Microptilotis_vicina
+> Micropygia_schomburgkii
+3614a5442,5449
+> Microspingus_alticola
+> Microspingus_cabanisi
+> Microspingus_cinereus
+> Microspingus_erythrophrys
+> Microspingus_lateralis
+> Microspingus_melanoleucus
+> Microspingus_torquatus
+> Microspingus_trifasciatus
+3615a5451,5452
+> Microtarsus_melanoleucos
+> Microxenops_milleri
+3617a5455
+> Milvus_aegyptius
+3620d5457
+< Mimizuku_gurneyi
+3626,3628d5462
+< Mimus_macdonaldi
+< Mimus_melanotis
+< Mimus_parvulus
+3633d5466
+< Mimus_trifasciatus
+3635d5467
+< Minla_cyanouroptera
+3637d5468
+< Minla_strigula
+3643a5475
+> Mionectes_roraimae
+3646a5479,5487
+> Mirafra_albicauda
+> Mirafra_angolensis
+> Mirafra_ashi
+> Mirafra_cantillans
+> Mirafra_cheniana
+> Mirafra_collaris
+> Mirafra_cordofanica
+> Mirafra_gilletti
+> Mirafra_hypermetra
+3648a5490,5494
+> Mirafra_pulpa
+> Mirafra_rufa
+> Mirafra_rufocinnamomea
+> Mirafra_somalica
+> Mirafra_williamsi
+3656a5503,5505
+> Mixornis_bornensis
+> Mixornis_flavicollis
+> Mixornis_kelleyi
+3658a5508
+> Moho_apicalis
+3659a5510
+> Moho_braccatus
+3664a5516
+> Molothrus_armenti
+3668a5521,5524
+> Momotus_aequatorialis
+> Momotus_bahamensis
+> Momotus_coeruliceps
+> Momotus_lessonii
+3670c5526,5527
+< Momotus_momota
+---
+> Momotus_subrufescens
+> Monachella_muelleriana
+3672a5530
+> Monarcha_erythrostictus
+3676d5533
+< Monarcha_mundus
+3679a5537,5539
+> Monasa_atra
+> Monasa_flavirostris
+> Monasa_nigrifrons
+3680a5541,5543
+> Montecincla_fairbanki
+> Montecincla_jerdoni
+> Montecincla_meridionalis
+3682d5544
+< Monticola_bensoni
+3684,3685c5546
+< Monticola_cinclorhynchus
+< Monticola_erythronota
+---
+> Monticola_cinclorhyncha
+3689d5549
+< Monticola_pretoriae
+3691d5550
+< Monticola_rufocinereus
+3697,3698c5556
+< Montifringilla_blanfordi
+< Montifringilla_davidiana
+---
+> Montifringilla_henrici
+3700,3701c5558,5559
+< Montifringilla_ruficollis
+< Montifringilla_taczanowskii
+---
+> Morococcyx_erythropygus
+> Morphnarchus_princeps
+3707d5564
+< Motacilla_alba
+3709,3710d5565
+< Motacilla_cinerea
+< Motacilla_citreola
+3712d5566
+< Motacilla_flava
+3715,3717c5569,5571
+< Motacilla_lugens
+< Motacilla_madaraspatensis
+< Motacilla_tschutschensis
+---
+> Motacilla_maderaspatensis
+> Moupinia_poecilotis
+> Mulleripicus_fulvus
+3718a5573,5574
+> Mulleripicus_pulverulentus
+> Mundia_elpenor
+3723c5579,5580
+< Muscicapa_dauurica
+---
+> Muscicapa_comitata
+> Muscicapa_epulata
+3727a5585,5586
+> Muscicapa_itombwensis
+> Muscicapa_lendu
+3729a5589,5590
+> Muscicapa_randi
+> Muscicapa_segregata
+3731a5593
+> Muscicapa_sodhii
+3733c5595,5598
+< Muscicapella_hodgsoni
+---
+> Muscicapa_tessmanni
+> Muscicapa_tyrrhenica
+> Muscicapa_ussheri
+> Muscicapa_williamsoni
+3734a5600,5601
+> Muscipipra_vetula
+> Muscisaxicola_albifrons
+3739a5607
+> Muscisaxicola_fluviatilis
+3740a5609,5610
+> Muscisaxicola_griseus
+> Muscisaxicola_juninensis
+3744,3745c5614
+< Musophaga_rossae
+< Musophaga_violacea
+---
+> Mustelirallus_albicollis
+3748a5618
+> Myadestes_lanaiensis
+3749a5620
+> Myadestes_myadestinus
+3751a5623
+> Myadestes_palmeri
+3756a5629,5630
+> Mycerobas_icterioides
+> Mycerobas_melanozanthos
+3760a5635
+> Myiagra_albiventris
+3761a5637,5638
+> Myiagra_atra
+> Myiagra_azureocapilla
+3762a5640,5641
+> Myiagra_castaneigularis
+> Myiagra_cervinicauda
+3763a5643
+> Myiagra_erythrops
+3764a5645,5646
+> Myiagra_freycineti
+> Myiagra_galeata
+3766a5649,5651
+> Myiagra_nana
+> Myiagra_oceanica
+> Myiagra_pluto
+3767a5653,5654
+> Myiagra_ruficollis
+> Myiagra_vanikorensis
+3768a5656
+> Myiarchus_apicalis
+3774a5663
+> Myiarchus_nuttingi
+3783d5671
+< Myiarchus_tyrannulus
+3786d5673
+< Myiarchus_yucatanensis
+3802a5690,5692
+> Myiodynastes_bairdii
+> Myiodynastes_chrysocephalus
+> Myiodynastes_hemichrysus
+3804c5694,5696
+< Myiodynastes_maculatus
+---
+> Myiomela_diana
+> Myiomela_leucura
+> Myiomela_sumatrana
+3805a5698
+> Myiopagis_cotta
+3810a5704
+> Myioparus_griseigularis
+3813d5706
+< Myiophobus_fasciatus
+3814a5708
+> Myiophobus_inornatus
+3816a5711
+> Myiopsitta_luchsi
+3817a5713,5714
+> Myiornis_albiventris
+> Myiornis_atricapillus
+3820a5718,5719
+> Myiotheretes_fuscorufus
+> Myiotheretes_pernix
+3822c5721,5722
+< Myiothlypis_bivittatus
+---
+> Myiothlypis_bivittata
+> Myiothlypis_chlorophrys
+3825,3827c5725,5727
+< Myiothlypis_conspicillatus
+< Myiothlypis_coronatus
+< Myiothlypis_flaveolus
+---
+> Myiothlypis_conspicillata
+> Myiothlypis_coronata
+> Myiothlypis_flaveola
+3830c5730,5731
+< Myiothlypis_leucoblepharus
+---
+> Myiothlypis_griseiceps
+> Myiothlypis_leucoblephara
+3833c5734
+< Myiothlypis_nigrocristatus
+---
+> Myiothlypis_nigrocristata
+3835c5736,5737
+< Myiothlypis_signatus
+---
+> Myiothlypis_roraimae
+> Myiothlypis_signata
+3837a5740
+> Myiozetetes_granadensis
+3839a5743,5744
+> Myophonus_blighi
+> Myophonus_borneensis
+3841c5746,5748
+< Myophonus_glaucinus
+---
+> Myophonus_castaneus
+> Myophonus_horsfieldii
+> Myophonus_insularis
+3842a5750
+> Myophonus_robinsoni
+3844,3855d5751
+< Myrmeciza_atrothorax
+< Myrmeciza_berlepschi
+< Myrmeciza_castanea
+< Myrmeciza_exsul
+< Myrmeciza_ferruginea
+< Myrmeciza_fortis
+< Myrmeciza_goeldii
+< Myrmeciza_griseiceps
+< Myrmeciza_hemimelaena
+< Myrmeciza_hyperythra
+< Myrmeciza_immaculata
+< Myrmeciza_laemosticta
+3857,3862d5752
+< Myrmeciza_loricata
+< Myrmeciza_melanoceps
+< Myrmeciza_nigricauda
+< Myrmeciza_palliata
+< Myrmeciza_pelzelni
+< Myrmeciza_squamosa
+3864d5753
+< Myrmecocichla_albifrons
+3866c5755,5757
+< Myrmecocichla_melaena
+---
+> Myrmecocichla_collaris
+> Myrmecocichla_formicivora
+> Myrmecocichla_monticola
+3867a5759,5767
+> Myrmecocichla_tholloni
+> Myrmelastes_brunneiceps
+> Myrmelastes_caurensis
+> Myrmelastes_humaythae
+> Myrmelastes_hyperythrus
+> Myrmelastes_leucostigma
+> Myrmelastes_rufifacies
+> Myrmelastes_saturatus
+> Myrmelastes_schistaceus
+3869a5770,5772
+> Myrmoborus_lophotes
+> Myrmoborus_lugubris
+> Myrmoborus_melanurus
+3871a5775,5778
+> Myrmoderus_loricatus
+> Myrmoderus_ruficauda
+> Myrmoderus_squamosus
+> Myrmophylax_atrothorax
+3875a5783
+> Myrmothera_subcanescens
+3879d5786
+< Myrmotherula_behni
+3881a5789
+> Myrmotherula_fluminensis
+3883d5790
+< Myrmotherula_hauxwelli
+3888a5796
+> Myrmotherula_luctuosa
+3889a5798
+> Myrmotherula_minor
+3891d5799
+< Myrmotherula_obscura
+3894a5803,5804
+> Myrmotherula_snowi
+> Myrmotherula_sunensis
+3895a5806
+> Myrmotherula_urosticta
+3897c5808,5812
+< Mystacornis_crossleyi
+---
+> Myza_celebensis
+> Myza_sarasinorum
+> Myzomela_albigula
+> Myzomela_blasii
+> Myzomela_caledonica
+3898a5814,5815
+> Myzomela_chermesina
+> Myzomela_chloroptera
+3899a5817,5819
+> Myzomela_cruentata
+> Myzomela_dammermani
+> Myzomela_eichhorni
+3901a5822,5825
+> Myzomela_erythromelas
+> Myzomela_irianawidodoae
+> Myzomela_jugularis
+> Myzomela_kuehni
+3902a5827,5828
+> Myzomela_malaitae
+> Myzomela_melanocephala
+3903a5830,5832
+> Myzomela_pammelaena
+> Myzomela_prawiradilagae
+> Myzomela_pulchella
+3904a5834
+> Myzomela_rubratra
+3905a5836,5839
+> Myzomela_sclateri
+> Myzomela_tristrami
+> Myzomela_wahe
+> Myzomela_wakoloensis
+3907d5840
+< Myzornis_pyrrhouraB
+3909c5842
+< Nandayus_nenday
+---
+> Nannococcyx_psix
+3912,3913c5845,5846
+< Napothera_brevicaudata
+< Napothera_crassa
+---
+> Napothera_albostriata
+> Napothera_danjoui
+3914a5848,5850
+> Napothera_malacoptila
+> Napothera_naungmungensis
+> Napothera_pasquieri
+3916a5853,5854
+> Necropsar_rodericanus
+> Necropsittacus_rodricanus
+3917a5856,5858
+> Nectarinia_bocagii
+> Nectarinia_famosa
+> Nectarinia_johnstoni
+3918a5860,5861
+> Nectarinia_purpureiventris
+> Nectarinia_tacazze
+3919a5863,5864
+> Nemosia_rourei
+> Neochelidon_tibialis
+3921d5865
+< Neochmia_modesta
+3923d5866
+< Neochmia_ruficauda
+3925d5867
+< Neochmia_temporalisB
+3927,3928d5868
+< Neocossyphus_finschii
+< Neocossyphus_fraseri
+3930a5871,5872
+> Neocrex_colombiana
+> Neocrex_erythrops
+3932a5875
+> Neodrepanis_hypoxantha
+3939,3943c5882,5884
+< Neopelma_aurifrons
+< Neopelma_chrysocephalum
+< Neopelma_pallescens
+< Neopelma_sulphureiventer
+< Neophema_bourkii
+---
+> Neomorphus_pucheranii
+> Neomorphus_radiolosus
+> Neomorphus_rufipennis
+3951a5893
+> Neopsephotus_bourkii
+3953a5896,5897
+> Neosericornis_citreogularis
+> Neosuthora_davidiana
+3954a5899,5901
+> Neotis_denhami
+> Neotis_heuglinii
+> Neotis_nuba
+3956d5902
+< Nephelomyias_lintoni
+3959a5906,5910
+> Nesillas_aldabrana
+> Nesillas_brevicaudata
+> Nesillas_lantzii
+> Nesillas_longicaudata
+> Nesillas_mariae
+3961c5912
+< Nesocharis_capistrata
+---
+> Nesocharis_ansorgei
+3963d5913
+< Nesocichla_eremita
+3965c5915,5919
+< Nesoenas_mayeri
+---
+> Nesoenas_picturatus
+> Nesoenas_rodericanus
+> Nesofregetta_fuliginosa
+> Nesophlox_evelynae
+> Nesophlox_lyrura
+3966a5921,5922
+> Nesoptilotis_flavicollis
+> Nesoptilotis_leucotis
+3968c5924
+< Nesospiza_acunhae
+---
+> Nesospiza_questi
+3969a5926
+> Nesotriccus_ridgwayi
+3971a5929,5930
+> Nestor_productus
+> Netta_erythrophthalma
+3972a5932,5934
+> Nettapus_auritus
+> Nettapus_coromandelianus
+> Nettapus_pulchellus
+3973a5936,5939
+> Newtonia_amphichroa
+> Newtonia_archboldi
+> Newtonia_brunneicauda
+> Newtonia_fanovanae
+3974a5941
+> Nicator_gularis
+3977a5945
+> Nigrita_fusconotus
+3981a5950
+> Niltava_sumatrana
+3983a5953,5954
+> Ninox_affinis
+> Ninox_albifacies
+3984a5956
+> Ninox_burhani
+3985a5958,5967
+> Ninox_forbesi
+> Ninox_fusca
+> Ninox_hantu
+> Ninox_hypogramma
+> Ninox_ios
+> Ninox_japonica
+> Ninox_leventisi
+> Ninox_meeki
+> Ninox_mindorensis
+> Ninox_natalis
+3986a5969,5970
+> Ninox_obscura
+> Ninox_ochracea
+3987a5972,5976
+> Ninox_plesseni
+> Ninox_punctulata
+> Ninox_randi
+> Ninox_reyi
+> Ninox_rotiensis
+3989a5979
+> Ninox_rumseyi
+3990a5981,5983
+> Ninox_spilocephala
+> Ninox_spilonotus
+> Ninox_squamipila
+3993a5987
+> Nisaetus_bartelsi
+3994a5989,5990
+> Nisaetus_floris
+> Nisaetus_kelaarti
+3998a5995,5996
+> Nisaetus_pinskeri
+> Nok_hualon
+3999a5998,6000
+> Nonnula_amaurocephala
+> Nonnula_brunnea
+> Nonnula_frontalis
+4000a6002,6003
+> Nonnula_ruficapilla
+> Nonnula_sclateri
+4001a6005,6006
+> Northiella_narethae
+> Notharchus_hyperrhynchus
+4002a6008,6014
+> Notharchus_ordii
+> Notharchus_pectoralis
+> Notharchus_swainsoni
+> Notharchus_tectus
+> Nothocercus_bonapartei
+> Nothocercus_julius
+> Nothocercus_nigrocapillus
+4004a6017,6019
+> Nothoprocta_curvirostris
+> Nothoprocta_ornata
+> Nothoprocta_pentlandii
+4005a6021,6022
+> Nothoprocta_taczanowskii
+> Nothura_boraquira
+4007a6025,6029
+> Nothura_minor
+> Notiochelidon_cyanoleuca
+> Notiochelidon_flavipes
+> Notiochelidon_murina
+> Notiochelidon_pileata
+4008a6031
+> Notopholia_corusca
+4010a6034
+> Nucifraga_multipunctata
+4012a6037
+> Numenius_borealis
+4017a6043
+> Numenius_tenuirostris
+4018a6045
+> Nyctanassa_carcinocatactes
+4026a6054,6056
+> Nycticorax_caledonicus
+> Nycticorax_mauritianus
+> Nycticorax_megacephalus
+4027a6058
+> Nycticorax_olsoni
+4029a6061
+> Nyctidromus_anthonyi
+4033c6065,6066
+< Nyctiphrynus_yucatanicus
+---
+> Nyctipolus_hirundinaceus
+> Nyctipolus_nigrescens
+4034a6068
+> Nyctiprogne_vielliardi
+4035a6070
+> Nyctyornis_athertoni
+4036a6072
+> Nystalus_chacuru
+4037a6074,6076
+> Nystalus_radiatus
+> Nystalus_striatipectus
+> Nystalus_striolatus
+4038a6078
+> Oceanites_pincoyae
+4039a6080
+> Oceanodroma_cheimomnestes
+4041a6083,6084
+> Oceanodroma_hornbyi
+> Oceanodroma_jabejabe
+4042a6086,6088
+> Oceanodroma_macrodactyla
+> Oceanodroma_markhami
+> Oceanodroma_matsudairae
+4045a6092
+> Oceanodroma_socorroensis
+4049,4051d6095
+< Ochetorhynchus_melanurus
+< Ochetorhynchus_phoenicurus
+< Ochetorhynchus_ruficaudus
+4053c6097,6099
+< Ochthoeca_diadema
+---
+> Ochthoeca_fumicolor
+> Ochthoeca_leucophrys
+> Ochthoeca_nigrita
+4055,4056c6101,6102
+< Ochthoeca_pulchella
+< Ochthoeca_thoracica
+---
+> Ochthoeca_piurae
+> Ochthoeca_rufipectoralis
+4057a6104,6105
+> Ocreatus_addae
+> Ocreatus_peruanus
+4059,4060c6107
+< Oculocincta_squamifrons
+< Ocyalus_latirostris
+---
+> Ocyceros_birostris
+4061a6109
+> Ocyceros_griseus
+4062a6111,6126
+> Odontophorus_atrifrons
+> Odontophorus_balliviani
+> Odontophorus_capueira
+> Odontophorus_columbianus
+> Odontophorus_dialeucos
+> Odontophorus_erythrops
+> Odontophorus_gujanensis
+> Odontophorus_guttatus
+> Odontophorus_hyperythrus
+> Odontophorus_leucolaemus
+> Odontophorus_melanonotus
+> Odontophorus_melanotis
+> Odontophorus_speciosus
+> Odontophorus_stellatus
+> Odontophorus_strophium
+> Odontorchilus_branickii
+4064c6128
+< Odontospiza_griseicapilla
+---
+> Oedistoma_pygmaeum
+4070a6135,6136
+> Oenanthe_dubia
+> Oenanthe_familiaris
+4071a6138,6139
+> Oenanthe_fusca
+> Oenanthe_heuglinii
+4076a6145,6146
+> Oenanthe_lugentoides
+> Oenanthe_melanura
+4079d6148
+< Oenanthe_monticola
+4081d6149
+< Oenanthe_persica
+4086c6154
+< Oenanthe_schalowi
+---
+> Oenanthe_scotocerca
+4089c6157,6159
+< Onychognathus_albirostris
+---
+> Oncostoma_olivaceum
+> Oneillornis_lunulatus
+> Oneillornis_salvini
+4094a6165
+> Onychognathus_neumanni
+4096d6166
+< Onychognathus_tenuirostris
+4103c6173
+< Onychorhynchus_coronatus
+---
+> Onychorhynchus_mexicanus
+4105c6175,6177
+< Opisthocomus_hoazin
+---
+> Onychorhynchus_swainsoni
+> Onychostruthus_taczanowskii
+> Ophrysia_superciliosa
+4107a6180
+> Orchesticus_abeillei
+4110c6183,6184
+< Oreomanes_fraseri
+---
+> Oreolais_pulcher
+> Oreolais_ruwenzorii
+4112d6185
+< Oreomystis_mana
+4114a6188
+> Oreophilais_robertsi
+4117a6192
+> Oreornis_chrysogenys
+4121,4122c6196
+< Oreothlypis_celata
+< Oreothlypis_crissalis
+---
+> Oreostruthus_fuliginosus
+4124,4126d6197
+< Oreothlypis_luciae
+< Oreothlypis_peregrina
+< Oreothlypis_ruficapilla
+4128c6199,6200
+< Oreothlypis_virginiae
+---
+> Oreothraupis_arremonops
+> Oreotrochilus_adela
+4129a6202
+> Oreotrochilus_cyanolaemus
+4132a6206
+> Origma_murina
+4133a6208,6209
+> Oriolia_bernieri
+> Oriolus_albiloris
+4135c6211,6212
+< Oriolus_brachyrhynchus
+---
+> Oriolus_bouroensis
+> Oriolus_brachyrynchus
+4136a6214
+> Oriolus_chlorocephalus
+4137a6216
+> Oriolus_decipiens
+4138a6218,6221
+> Oriolus_forsteni
+> Oriolus_hosii
+> Oriolus_isabellae
+> Oriolus_kundoo
+4140c6223,6225
+< Oriolus_nigripennis
+---
+> Oriolus_melanotis
+> Oriolus_mellianus
+> Oriolus_monacha
+4141a6227,6228
+> Oriolus_percivali
+> Oriolus_phaeochromus
+4143c6230,6231
+< Oriolus_szalayi
+---
+> Oriolus_steerii
+> Oriolus_tenuirostris
+4150,4152c6238,6240
+< Orochelidon_andecola
+< Orochelidon_flavipes
+< Orochelidon_murina
+---
+> Ornithion_semiflavum
+> Ornorectes_cristatus
+> Ortalis_araucuan
+4154a6243,6244
+> Ortalis_columbiana
+> Ortalis_erythroptera
+4159d6248
+< Ortalis_pantanalensis
+4161a6251,6253
+> Ortalis_ruficeps
+> Ortalis_squamata
+> Ortalis_superciliaris
+4162a6255,6256
+> Ortalis_wagleri
+> Orthogonys_chloricterus
+4166c6260
+< Orthopsittaca_manilata
+---
+> Orthopsittaca_manilatus
+4168a6263,6272
+> Orthotomus_castaneiceps
+> Orthotomus_chaktomuk
+> Orthotomus_chloronotus
+> Orthotomus_cinereiceps
+> Orthotomus_derbianus
+> Orthotomus_frontalis
+> Orthotomus_nigriceps
+> Orthotomus_ruficeps
+> Orthotomus_samarensis
+> Orthotomus_sepium
+4172,4175c6276
+< Oryzoborus_angolensis
+< Oryzoborus_crassirostris
+< Oryzoborus_funereus
+< Oryzoborus_maximiliani
+---
+> Ortyxelos_meiffrenii
+4178c6279,6284
+< Otus_bakkamoena
+---
+> Otus_alfredi
+> Otus_alius
+> Otus_angelinae
+> Otus_balli
+> Otus_beccarii
+> Otus_brookii
+4180a6287
+> Otus_collari
+4182c6289,6293
+< Otus_flammeolus
+---
+> Otus_enganensis
+> Otus_everetti
+> Otus_fuliginosus
+> Otus_gurneyi
+> Otus_icterorhynchus
+4185,4186c6296
+< Otus_lempiji
+< Otus_lettia
+---
+> Otus_jolandae
+4187a6298,6300
+> Otus_madagascariensis
+> Otus_manadensis
+> Otus_mantananensis
+4189a6303
+> Otus_mentawi
+4192c6306,6308
+< Otus_moheliensis
+---
+> Otus_murivorus
+> Otus_nigrorum
+> Otus_pamelae
+4194a6311,6312
+> Otus_podarginus
+> Otus_rufescens
+4195a6314,6315
+> Otus_sagittatus
+> Otus_sauzieri
+4197d6316
+< Otus_semitorques
+4198a6318,6319
+> Otus_siaoensis
+> Otus_silvicola
+4199a6321
+> Otus_sulaensis
+4200a6323,6324
+> Otus_thilohoffmanni
+> Otus_umbra
+4201a6326
+> Oxypogon_cyanolaemus
+4202a6328,6329
+> Oxypogon_lindenii
+> Oxypogon_stuebelii
+4205d6331
+< Oxyura_ferruginea
+4212a6339,6340
+> Pachycephala_aurea
+> Pachycephala_balim
+4216c6344,6348
+< Pachycephala_griseiceps
+---
+> Pachycephala_collaris
+> Pachycephala_feminina
+> Pachycephala_flavifrons
+> Pachycephala_fuliginosa
+> Pachycephala_fulvotincta
+4217a6350
+> Pachycephala_homeyeri
+4219a6353
+> Pachycephala_implicata
+4220a6355,6356
+> Pachycephala_jacquinoti
+> Pachycephala_johni
+4221a6358
+> Pachycephala_leucogastra
+4224a6362,6363
+> Pachycephala_mentalis
+> Pachycephala_meyeri
+4225a6365
+> Pachycephala_monacha
+4228a6369
+> Pachycephala_orpheus
+4231a6373
+> Pachycephala_richardsi
+4232a6375
+> Pachycephala_rufogularis
+4237c6380,6381
+< Pachycephala_vitiensis
+---
+> Pachycephala_tenebrosa
+> Pachycephala_vanikorensis
+4240,4242c6384,6386
+< Pachyornis_australis
+< Pachyornis_elephantopus
+< Pachyornis_mappini
+---
+> Pachycoccyx_audeberti
+> Pachyptila_belcheri
+> Pachyptila_crassirostris
+4254a6399
+> Pachyramphus_niger
+4265a6411,6425
+> Pampa_excellens
+> Pampa_rufa
+> Pampusana_beccarii
+> Pampusana_canifrons
+> Pampusana_erythroptera
+> Pampusana_ferruginea
+> Pampusana_hoedtii
+> Pampusana_kubaryi
+> Pampusana_norfolkensis
+> Pampusana_rubescens
+> Pampusana_salamonis
+> Pampusana_sanctaecrucis
+> Pampusana_stairi
+> Pampusana_xanthonura
+> Pandion_cristatus
+4268a6429,6430
+> Panyptila_cayennensis
+> Panyptila_sanctihieronymi
+4269a6432
+> Parabuteo_leucorrhous
+4270a6434,6440
+> Paraclaravis_geoffroyi
+> Paraclaravis_mondetoura
+> Paradigalla_brevicauda
+> Paradigalla_carunculata
+> Paradisaea_apoda
+> Paradisaea_decora
+> Paradisaea_guilielmi
+4275,4277c6445
+< Paradoxornis_alphonsianus
+< Paradoxornis_davidianus
+< Paradoxornis_gularis
+---
+> Paradoxornis_flavirostris
+4279,4280c6447
+< Paradoxornis_nipalensis
+< Paradoxornis_webbianus
+---
+> Paragallinula_angulata
+4281a6449
+> Parayuhina_diademata
+4285a6454
+> Pardalotus_quadragintus
+4288,4291c6457,6461
+< Parisoma_boehmi
+< Parisoma_layardi
+< Parisoma_lugens
+< Parisoma_subcaeruleum
+---
+> Pardipicus_caroli
+> Pardipicus_nivosus
+> Pardirallus_maculatus
+> Pardirallus_nigricans
+> Pardirallus_sanguinolentus
+4295a6466,6467
+> Parmoptila_rubrifrons
+> Parmoptila_woodhousei
+4301c6473,6474
+< Parophasma_galinieri
+---
+> Paroreomyza_flammea
+> Paroreomyza_maculata
+4302a6476
+> Parotia_berlepschi
+4305,4307c6479,6480
+< Parus_bokharensis
+< Parus_major
+< Parus_minor
+---
+> Parotia_sefilata
+> Parotia_wahnesi
+4309,4310c6482,6483
+< Parus_spilonotus
+< Parus_xanthogenys
+---
+> Parvipsitta_porphyrocephala
+> Parvipsitta_pusilla
+4311a6485,6486
+> Passer_castanopterus
+> Passer_cordofanicus
+4312a6488
+> Passer_diffusus
+4314a6491,6495
+> Passerella_megarhyncha
+> Passerella_schistacea
+> Passerella_unalaschcensis
+> Passer_eminibey
+> Passer_euchlorus
+4315a6497
+> Passer_gongonensis
+4316a6499
+> Passer_hemileucus
+4317a6501
+> Passer_iagoensis
+4324a6509,6510
+> Passer_insularis
+> Passer_italiae
+4326c6512
+< Passer_melanurus
+---
+> Passer_moabiticus
+4328c6514,6520
+< Passer_rutilans
+---
+> Passer_motitensis
+> Passer_pyrrhonotus
+> Passer_rufocinctus
+> Passer_shelleyi
+> Passer_simplex
+> Passer_suahelicus
+> Passer_zarudnyi
+4330a6523
+> Patagioenas_caribaea
+4331a6525
+> Patagioenas_corensis
+4333a6528,6529
+> Patagioenas_goodsoni
+> Patagioenas_inornata
+4335a6532
+> Patagioenas_nigrirostris
+4343d6539
+< Pauxi_gilliardi
+4349a6546
+> Pelargopsis_amauroptera
+4350a6548
+> Pelargopsis_melanorhyncha
+4359a6558,6567
+> Pelecanus_philippensis
+> Pelecanus_rufescens
+> Pelecanus_thagus
+> Peliperdix_albogularis
+> Peliperdix_coqui
+> Peliperdix_lathami
+> Peliperdix_schlegelii
+> Pellorneum_albiventre
+> Pellorneum_bicolor
+> Pellorneum_buettikoferi
+4360a6569,6575
+> Pellorneum_celebense
+> Pellorneum_cinereiceps
+> Pellorneum_fuscocapillus
+> Pellorneum_malaccense
+> Pellorneum_palustre
+> Pellorneum_pyrrogenys
+> Pellorneum_rostratum
+4363d6577
+< Peltohyas_australis
+4364a6579
+> Penelope_albipennis
+4365a6581,6583
+> Penelope_barbata
+> Penelope_bridgesi
+> Penelope_dabbenei
+4366a6585
+> Penelope_jacucaca
+4369a6589,6591
+> Penelope_ortoni
+> Penelope_perspicax
+> Penelope_pileata
+4371a6594
+> Penelopides_affinis
+4372a6596
+> Penelopides_mindorensis
+4373a6598
+> Penelopides_samarensis
+4375a6601
+> Peneothello_cryptoleuca
+4376a6603
+> Peneothello_pulverulenta
+4378c6605,6609
+< Percnostola_lophotes
+---
+> Percnostola_arenarum
+> Percnostola_fortis
+> Percnostola_goeldii
+> Percnostola_immaculata
+> Percnostola_melanoceps
+4379a6611,6612
+> Percnostola_zeledoni
+> Perdicula_argoondah
+4380a6614,6615
+> Perdicula_erythrorhyncha
+> Perdicula_manipurensis
+4383a6619,6620
+> Pericrocotus_albifrons
+> Pericrocotus_brevirostris
+4390a6628,6629
+> Pericrocotus_miniatus
+> Pericrocotus_roseus
+4391a6631,6632
+> Pericrocotus_speciosus
+> Pericrocotus_tegimae
+4399d6639
+< Perissocephalus_tricolor
+4400a6641,6643
+> Pernis_celebensis
+> Pernis_ptilorhynchus
+> Pernis_steerei
+4401a6645,6646
+> Petrochelidon_fluvicola
+> Petrochelidon_fuliginosa
+4403a6649
+> Petrochelidon_perdita
+4408a6655
+> Petroica_archboldi
+4411a6659
+> Petroica_longipes
+4414a6663,6664
+> Petroica_polymorpha
+> Petroica_pusilla
+4418d6667
+< Petronia_dentata
+4420a6670
+> Petrophassa_rufipennis
+4431a6682
+> Pezoporus_flaviventris
+4433a6685
+> Phacellodomus_dorsalis
+4434a6687,6688
+> Phacellodomus_ferrugineigula
+> Phacellodomus_inornatus
+4437a6692
+> Phacellodomus_sibilatrix
+4441c6696,6700
+< Phaenicophaeus_superciliosus
+---
+> Phaenicophaeus_diardi
+> Phaenicophaeus_pyrrhocephalus
+> Phaenicophaeus_sumatranus
+> Phaenicophaeus_tristis
+> Phaenicophaeus_viridirostris
+4446a6706,6707
+> Phaeomyias_tumbezana
+> Phaeoptila_sordida
+4457a6719
+> Phaethornis_idaliae
+4461a6724
+> Phaethornis_nattereri
+4464a6728,6729
+> Phaethornis_rupurumii
+> Phaethornis_squalidus
+4465a6731
+> Phaethornis_stuarti
+4473d6738
+< Phalacrocorax_albiventer
+4475d6739
+< Phalacrocorax_atriceps
+4477d6740
+< Phalacrocorax_bougainvillii
+4479d6741
+< Phalacrocorax_campbelli
+4483,4484d6744
+< Phalacrocorax_chalconotus
+< Phalacrocorax_colensoi
+4486a6747
+> Phalacrocorax_fuscicollis
+4488,4489c6749
+< Phalacrocorax_georgianus
+< Phalacrocorax_harrisi
+---
+> Phalacrocorax_lucidus
+4491d6750
+< Phalacrocorax_melanoleucos
+4494,4495d6752
+< Phalacrocorax_onslowi
+< Phalacrocorax_pelagicus
+4496a6754
+> Phalacrocorax_perspicillatus
+4498,4500d6755
+< Phalacrocorax_purpurascens
+< Phalacrocorax_pygmaeus
+< Phalacrocorax_ranfurlyi
+4507a6763
+> Phalcoboenus_albogularis
+4508a6765
+> Phalcoboenus_carunculatus
+4510a6768,6769
+> Phapitreron_brunneiceps
+> Phapitreron_cinereiceps
+4512a6772,6773
+> Phaps_elegans
+> Phaps_histrionica
+4522a6784
+> Phelpsia_inornata
+4523a6786,6787
+> Pheucticus_chrysogaster
+> Pheucticus_chrysopeplus
+4525a6790
+> Pheucticus_tibialis
+4527a6793
+> Pheugopedius_eisenmanni
+4535a6802,6804
+> Pheugopedius_spadix
+> Phibalura_boliviana
+> Phibalura_flavirostris
+4536a6806
+> Philemon_albitorques
+4537a6808
+> Philemon_brassi
+4539a6811
+> Philemon_cockerelli
+4540a6813,6817
+> Philemon_diemenensis
+> Philemon_eichhorni
+> Philemon_fuscicapillus
+> Philemon_inornatus
+> Philemon_kisserensis
+4541a6819,6821
+> Philemon_moluccensis
+> Philemon_plumigenis
+> Philemon_subcorniculatus
+4544c6824
+< Philepitta_castanea
+---
+> Philepitta_schlegeli
+4545a6826
+> Philesturnus_rufusater
+4547c6828,6829
+< Philomachus_pugnax
+---
+> Philohydor_lictor
+> Philortyx_fasciatus
+4549c6831,6833
+< Philydor_lichtensteini
+---
+> Philydor_erythrocercum
+> Philydor_fuscipenne
+> Philydor_novaesi
+4551d6834
+< Philydor_ruficaudatum
+4556a6840
+> Phlogophilus_harterti
+4557a6842
+> Phodilus_assimilis
+4558a6844
+> Phodilus_prigoginei
+4561d6846
+< Phoebastria_irrorata
+4563d6847
+< Phoebastria_nihonus
+4565a6850
+> Phoenicircus_carnifex
+4570,4571c6855,6859
+< Phoenicopterus_minor
+< Phoenicopterus_ruber
+---
+> Phoenicopterus_roseus
+> Phoeniculus_bollei
+> Phoeniculus_castaneiceps
+> Phoeniculus_damarensis
+> Phoeniculus_granti
+4572a6861,6862
+> Phoeniculus_somaliensis
+> Phoenicurus_alaschanicus
+4575,4576c6865
+< Phoenicurus_caeruleocephala
+< Phoenicurus_erythrogastrus
+---
+> Phoenicurus_coeruleocephala
+4586,4587d6874
+< Pholia_femoralis
+< Pholia_sharpii
+4588a6876
+> Phonipara_canora
+4590c6878
+< Phrygilus_alaudinus
+---
+> Phragmacia_substriata
+4592,4594d6879
+< Phrygilus_carbonarius
+< Phrygilus_dorsalis
+< Phrygilus_fruticeti
+4597,4598c6882
+< Phrygilus_plebejus
+< Phrygilus_unicolor
+---
+> Phrygilus_punensis
+4602c6886
+< Phyllanthus_atripennis
+---
+> Phyllastrephus_albigula
+4603a6888,6889
+> Phyllastrephus_alfredi
+> Phyllastrephus_baumanni
+4608a6895
+> Phyllastrephus_fulviventris
+4613a6901
+> Phyllastrephus_poliocephalus
+4618c6906,6907
+< Phyllergates_cucullatus
+---
+> Phyllergates_heterolaemus
+> Phyllolais_pulchella
+4619a6909
+> Phyllomyias_cinereiceps
+4621a6912,6913
+> Phyllomyias_griseocapilla
+> Phyllomyias_nigrocapillus
+4622a6915
+> Phyllomyias_reiseri
+4623a6917
+> Phyllomyias_urichi
+4625a6920,6928
+> Phyllomyias_weedeni
+> Phyllomyias_zeledoni
+> Phylloscartes_beckeri
+> Phylloscartes_ceciliae
+> Phylloscartes_difficilis
+> Phylloscartes_flaviventris
+> Phylloscartes_flavovirens
+> Phylloscartes_gualaquizae
+> Phylloscartes_kronei
+4627d6929
+< Phylloscartes_ophthalmicus
+4629c6931,6933
+< Phylloscartes_poecilotis
+---
+> Phylloscartes_parkeri
+> Phylloscartes_paulista
+> Phylloscartes_roquettei
+4632a6937
+> Phylloscartes_virescens
+4637d6941
+< Phylloscopus_borealis
+4639c6943
+< Phylloscopus_calciatilis
+---
+> Phylloscopus_budongoensis
+4647,4648d6950
+< Phylloscopus_davisoni
+< Phylloscopus_emeiensis
+4654c6956
+< Phylloscopus_hainanus
+---
+> Phylloscopus_herberti
+4660a6963
+> Phylloscopus_laurae
+4662a6966,6967
+> Phylloscopus_makirensis
+> Phylloscopus_neglectus
+4666d6970
+< Phylloscopus_ogilviegranti
+4675a6980
+> Phylloscopus_rotiensis
+4681a6987
+> Phylloscopus_subviridis
+4687d6992
+< Phylloscopus_umbrovirens
+4689c6994
+< Phylloscopus_yunnanensis
+---
+> Phytotoma_raimondii
+4693a6999,7000
+> Pica_asirensis
+> Pica_bottanensis
+4694a7002
+> Pica_mauritanica
+4696a7005
+> Pica_serica
+4699d7007
+< Picoides_albolarvatus
+4701,4702d7008
+< Picoides_arizonae
+< Picoides_borealis
+4704,4708d7009
+< Picoides_fumigatus
+< Picoides_nuttallii
+< Picoides_pubescens
+< Picoides_scalaris
+< Picoides_stricklandi
+4710c7011,7012
+< Picoides_villosus
+---
+> Piculus_aurulentus
+> Piculus_callopterus
+4713a7016,7018
+> Piculus_litae
+> Piculus_simplex
+> Picumnus_albosquamatus
+4714a7020,7021
+> Picumnus_castelnau
+> Picumnus_cinnamomeus
+4715a7023
+> Picumnus_dorbignyanus
+4716a7025,7026
+> Picumnus_fuscus
+> Picumnus_granadensis
+4717a7028,7030
+> Picumnus_lafresnayi
+> Picumnus_limae
+> Picumnus_minutissimus
+4718a7032,7035
+> Picumnus_nigropunctatus
+> Picumnus_olivaceus
+> Picumnus_pumilus
+> Picumnus_pygmaeus
+4719a7037
+> Picumnus_sclateri
+4720a7039,7040
+> Picumnus_squamulatus
+> Picumnus_subtilis
+4721a7042
+> Picumnus_varzeae
+4726,4728d7046
+< Picus_flavinucha
+< Picus_mentalis
+< Picus_miniaceus
+4730a7049,7050
+> Picus_sharpei
+> Picus_squamatus
+4735a7056,7059
+> Piezorina_cinerea
+> Pilherodius_pileatus
+> Pinarocorys_erythropygia
+> Pinarocorys_nigricans
+4736a7061
+> Pinarornis_plumosus
+4743,4744d7067
+< Pionus_cyanescens
+< Pionus_fuscus
+4752d7074
+< Pipile_grayi
+4754d7075
+< Pipile_nattereri
+4758a7080
+> Pipilo_naufragus
+4762d7083
+< Pipra_erythrocephala
+4765,4767d7085
+< Pipra_mentalis
+< Pipra_pipra
+< Pipra_rubrocapilla
+4768a7087
+> Pipreola_aureopectus
+4769a7089
+> Pipreola_formosa
+4771a7092,7093
+> Pipreola_jucunda
+> Pipreola_lubomirskii
+4772a7095
+> Pipreola_riefferii
+4774a7098
+> Piprites_griseiceps
+4778a7103
+> Piranga_hepatica
+4780a7106
+> Piranga_lutea
+4785d7110
+< Pitangus_lictor
+4790c7115
+< Pitohui_cristatus
+---
+> Pitohui_cerviniventris
+4792,4793d7116
+< Pitohui_ferrugineus
+< Pitohui_incertus
+4795c7118
+< Pitohui_nigrescens
+---
+> Pitohui_uropygialis
+4798,4799d7120
+< Pitta_arquata
+< Pitta_baudii
+4801,4802c7122
+< Pitta_caerulea
+< Pitta_cyanea
+---
+> Pitta_concinna
+4804,4808d7123
+< Pitta_elliotii
+< Pitta_erythrogaster
+< Pitta_granatina
+< Pitta_guajana
+< Pitta_gurneyi
+4810,4813c7125
+< Pitta_kochi
+< Pitta_maxima
+< Pitta_moluccensis
+< Pitta_nipalensis
+---
+> Pitta_megarhyncha
+4815,4817d7126
+< Pitta_oatesi
+< Pitta_phayrei
+< Pitta_reichenowi
+4820,4821d7128
+< Pitta_sordida
+< Pitta_soror
+4824d7130
+< Pitta_venusta
+4825a7132
+> Pitta_vigorsii
+4828a7136
+> Platalea_flavipes
+4831,4832c7139
+< Platycercus_adelaide
+< Platycercus_adscitus
+---
+> Platalea_regia
+4836d7142
+< Platycercus_flaveolus
+4838a7145,7146
+> Platylophus_galericulatus
+> Platyrinchus_cancrominus
+4839a7148
+> Platyrinchus_flavigularis
+4845d7153
+< Platyspiza_crassirostris
+4851c7159
+< Platysteira_cyanea
+---
+> Platysteira_hormophora
+4858a7167
+> Plectropterus_gambensis
+4861a7171,7172
+> Plesiodryas_albonotata
+> Plocepasser_donaldsoni
+4862a7174,7185
+> Plocepasser_superciliosus
+> Ploceus_albinucha
+> Ploceus_alienus
+> Ploceus_angolensis
+> Ploceus_aurantius
+> Ploceus_aureonucha
+> Ploceus_badius
+> Ploceus_baglafecht
+> Ploceus_bannermani
+> Ploceus_batesi
+> Ploceus_benghalensis
+> Ploceus_bertrandi
+4863a7187,7188
+> Ploceus_bojeri
+> Ploceus_burnieri
+4865,4866c7190,7200
+< Ploceus_cucullatus
+< Ploceus_intermedius
+---
+> Ploceus_castaneiceps
+> Ploceus_castanops
+> Ploceus_dichrocephalus
+> Ploceus_dorsomaculatus
+> Ploceus_flavipes
+> Ploceus_golandi
+> Ploceus_heuglini
+> Ploceus_hypoxanthus
+> Ploceus_insignis
+> Ploceus_jacksoni
+> Ploceus_katangae
+4868c7202,7203
+< Ploceus_luteolusB
+---
+> Ploceus_manyar
+> Ploceus_megarhynchus
+4869a7205,7210
+> Ploceus_melanogaster
+> Ploceus_nelicourvi
+> Ploceus_nicolli
+> Ploceus_nigerrimus
+> Ploceus_nigricollis
+> Ploceus_nigrimentus
+4870a7212,7222
+> Ploceus_olivaceiceps
+> Ploceus_pelzelni
+> Ploceus_philippinus
+> Ploceus_preussi
+> Ploceus_reichardi
+> Ploceus_ruweti
+> Ploceus_sakalava
+> Ploceus_spekei
+> Ploceus_spekeoides
+> Ploceus_subpersonatus
+> Ploceus_superciliosus
+4872c7224,7225
+< Ploceus_velatus
+---
+> Ploceus_temporalis
+> Ploceus_tricolor
+4873a7227,7229
+> Ploceus_weynsi
+> Ploceus_xanthops
+> Ploceus_xanthopterus
+4875d7230
+< Pluvialis_dominica
+4880a7236,7237
+> Pnoepyga_formosana
+> Pnoepyga_immaculata
+4891a7249,7250
+> Podiceps_occipitalis
+> Podiceps_taczanowskii
+4894a7254,7255
+> Podoces_panderi
+> Podoces_pleskei
+4900a7262,7263
+> Poecile_hypermelaenus
+> Poecile_hyrcanus
+4906a7270,7271
+> Poecile_weigoldicus
+> Poecilodryas_brachyura
+4907a7273,7276
+> Poecilodryas_hypoleuca
+> Poecilodryas_superciliosa
+> Poecilostreptus_cabanisi
+> Poecilostreptus_palmeri
+4908a7278
+> Poecilotriccus_calopterus
+4909a7280
+> Poecilotriccus_fumifrons
+4910a7282
+> Poecilotriccus_luluae
+4911a7284
+> Poecilotriccus_pulchellus
+4913a7287
+> Poecilotriccus_senex
+4914a7289
+> Poeoptera_femoralis
+4916a7292
+> Poeoptera_sharpii
+4924c7300,7302
+< Pogoniulus_coryphaeus
+---
+> Pogoniulus_coryphaea
+> Pogoniulus_leucomystax
+> Pogoniulus_makawai
+4926a7305,7306
+> Pogoniulus_simplex
+> Pogoniulus_subsulphureus
+4927a7308,7315
+> Pogonotriccus_chapmani
+> Pogonotriccus_eximius
+> Pogonotriccus_lanyoni
+> Pogonotriccus_ophthalmicus
+> Pogonotriccus_orbitalis
+> Pogonotriccus_poecilotis
+> Pogonotriccus_venezuelanus
+> Poicephalus_crassus
+4928a7317
+> Poicephalus_fuscicollis
+4932d7320
+< Poicephalus_rufiventris
+4934a7323
+> Polihierax_insignis
+4935a7325,7330
+> Poliocephalus_poliocephalus
+> Poliocephalus_rufopectus
+> Poliocrania_exsul
+> Poliolais_lopezi
+> Poliolimnas_cinereus
+> Poliolophus_urostictus
+4936a7332
+> Polioptila_attenboroughi
+4938a7335
+> Polioptila_clementsi
+4939a7337,7340
+> Polioptila_facilis
+> Polioptila_guianensis
+> Polioptila_lactea
+> Polioptila_lembeyei
+4941a7343
+> Polioptila_paraensis
+4942a7345
+> Polioptila_schistaceigula
+4943a7347
+> Polyboroides_radiatus
+4944a7349,7351
+> Polyerata_amabilis
+> Polyerata_decora
+> Polyerata_rosenbergi
+4953d7359
+< Polyplectron_schleiermacheri
+4958a7365
+> Polytelis_swainsonii
+4959a7367
+> Polytmus_milleri
+4961a7370
+> Pomarea_fluxa
+4962a7372
+> Pomarea_maupitiensis
+4963a7374
+> Pomarea_mira
+4964a7376
+> Pomarea_nukuhivae
+4966,4967d7377
+< Pomatorhinus_erythrocnemis
+< Pomatorhinus_erythrogenys
+4969c7379,7380
+< Pomatorhinus_hypoleucos
+---
+> Pomatorhinus_horsfieldii
+> Pomatorhinus_melanurus
+4974a7386
+> Pomatorhinus_superciliaris
+4976d7387
+< Pomatostomus_isidorei
+4977a7389
+> Pomatostomus_superciliosus
+4978a7391,7394
+> Poodytes_albolimbatus
+> Poodytes_gramineus
+> Poodytes_punctatus
+> Poodytes_rufescens
+4980c7396
+< Poospiza_alticola
+---
+> Poospiza_baeri
+4982,4984c7398,7399
+< Poospiza_caesar
+< Poospiza_cinerea
+< Poospiza_erythrophrys
+---
+> Poospiza_garleppi
+> Poospiza_goeringi
+4986,4988d7400
+< Poospiza_hypochondria
+< Poospiza_lateralis
+< Poospiza_melanoleuca
+4991c7403,7409
+< Poospiza_torquata
+---
+> Poospiza_rubecula
+> Poospiza_rufosuperciliaris
+> Poospiza_whitii
+> Poospizopsis_caesar
+> Poospizopsis_hypocondria
+> Porphyrio_albus
+> Porphyrio_alleni
+4992a7411,7413
+> Porphyrio_hochstetteri
+> Porphyrio_indicus
+> Porphyrio_madagascariensis
+4994a7416
+> Porphyrio_melanotus
+4995a7418,7419
+> Porphyriops_melanops
+> Porphyrio_pulverulentus
+4996a7421
+> Porphyrospiza_alaudina
+4997a7423
+> Porphyrospiza_carbonaria
+4998a7425
+> Porzana_fluminea
+5000,5001d7426
+< Porzana_pusilla
+< Porzana_tabuensis
+5003,5004c7428
+< Premnoplex_tatei
+< Premnornis_guttuligera
+---
+> Premnornis_guttuliger
+5008d7431
+< Prinia_atrogularis
+5010c7433,7434
+< Prinia_crinigera
+---
+> Prinia_buchanani
+> Prinia_cinereocapilla
+5012a7437,7448
+> Prinia_flavicans
+> Prinia_flaviventris
+> Prinia_fluviatilis
+> Prinia_gracilis
+> Prinia_hodgsonii
+> Prinia_hypoxantha
+> Prinia_inornata
+> Prinia_maculosa
+> Prinia_melanops
+> Prinia_rufescens
+> Prinia_socialis
+> Prinia_somalica
+5013a7450,7451
+> Prinia_superciliaris
+> Prinia_sylvatica
+5014a7453
+> Prioniturus_flavicans
+5015a7455,7461
+> Prioniturus_mada
+> Prioniturus_mindorensis
+> Prioniturus_montanus
+> Prioniturus_platenae
+> Prioniturus_platurus
+> Prioniturus_verticalis
+> Prioniturus_waterstradti
+5021a7468,7471
+> Prionodura_newtoniana
+> Prionops_alberti
+> Prionops_caniceps
+> Prionops_gabela
+5022a7473
+> Prionops_poliolophus
+5023a7475
+> Prionops_rufiventris
+5027a7480
+> Procarduelis_nipalensis
+5029c7482
+< Procellaria_cinerea
+---
+> Procellaria_conspicillata
+5032a7486
+> Procnias_averano
+5033a7488,7490
+> Prodotiscus_insignis
+> Prodotiscus_regulus
+> Prodotiscus_zambesiae
+5038c7495,7496
+< Progne_modesta
+---
+> Progne_murphyi
+> Progne_sinaloae
+5042a7501,7506
+> Prosobonia_cancellata
+> Prosobonia_ellisi
+> Prosobonia_leucoptera
+> Prosobonia_parvirostris
+> Prosopeia_personata
+> Prosopeia_splendens
+5047a7512
+> Prunella_fagani
+5049a7515,7516
+> Prunella_immaculata
+> Prunella_koslowi
+5051a7519,7522
+> Prunella_ocularis
+> Prunella_rubeculoides
+> Prunella_rubida
+> Prunella_strophiata
+5056,5057d7526
+< Psalidoprocne_orientalis
+< Psalidoprocne_pristoptera
+5062c7531
+< Psarocolius_bifasciatus
+---
+> Psarocolius_cassini
+5063a7533
+> Psarocolius_guatimozinus
+5065d7534
+< Psarocolius_viridis
+5067,5070c7536,7539
+< Psarocolius_yuracares
+< Pselliophorus_luteoviridis
+< Pselliophorus_tibialis
+< Psephotus_dissimilis
+---
+> Psephotellus_chrysopterygius
+> Psephotellus_dissimilis
+> Psephotellus_pulcherrimus
+> Psephotellus_varius
+5072,5076d7540
+< Psephotus_varius
+< Pseudalethe_choloensis
+< Pseudalethe_fuelleborni
+< Pseudalethe_poliocephala
+< Pseudalethe_poliophrys
+5080a7545,7547
+> Pseudastur_albicollis
+> Pseudastur_occidentalis
+> Pseudastur_polionotus
+5081a7549
+> Pseudeos_cardinalis
+5084c7552,7554
+< Pseudoalcippe_abyssinica
+---
+> Pseudibis_davisoni
+> Pseudibis_gigantea
+> Pseudibis_papillosa
+5085a7556,7560
+> Pseudobulweria_aterrima
+> Pseudobulweria_becki
+> Pseudobulweria_macgillivrayi
+> Pseudobulweria_rostrata
+> Pseudobulweria_rupinarum
+5088c7563
+< Pseudochloroptila_totta
+---
+> Pseudochelidon_sirintarae
+5091a7567,7568
+> Pseudocolopteryx_citreola
+> Pseudocolopteryx_dinelliana
+5096a7574,7576
+> Pseudonigrita_arnaudi
+> Pseudonigrita_cabanisi
+> Pseudopipra_pipra
+5098c7578,7581
+< Pseudoscops_clamator
+---
+> Pseudorectes_ferrugineus
+> Pseudorectes_incertus
+> Pseudoscops_grammicus
+> Pseudoseisura_cristata
+5100a7584,7587
+> Pseudoseisura_unirufa
+> Pseudospingus_verticalis
+> Pseudospingus_xanthophthalmus
+> Pseudotriccus_pelzelni
+5103c7590,7617
+< Psilopogon_pyrolophus
+---
+> Psilopogon_annamensis
+> Psilopogon_armillaris
+> Psilopogon_asiaticus
+> Psilopogon_auricularis
+> Psilopogon_chersonesus
+> Psilopogon_chrysopogon
+> Psilopogon_corvinus
+> Psilopogon_duvaucelii
+> Psilopogon_eximius
+> Psilopogon_faber
+> Psilopogon_faiostrictus
+> Psilopogon_flavifrons
+> Psilopogon_franklinii
+> Psilopogon_henricii
+> Psilopogon_incognitus
+> Psilopogon_javensis
+> Psilopogon_lagrandieri
+> Psilopogon_lineatus
+> Psilopogon_malabaricus
+> Psilopogon_monticola
+> Psilopogon_mystacophanos
+> Psilopogon_nuchalis
+> Psilopogon_pulcherrimus
+> Psilopogon_rafflesii
+> Psilopogon_rubricapillus
+> Psilopogon_virens
+> Psilopogon_viridis
+> Psilopogon_zeylanicus
+5106d7619
+< Psilorhamphus_guttatus
+5107a7621,7629
+> Psiloscops_flammeolus
+> Psittacara_erythrogenys
+> Psittacara_euops
+> Psittacara_finschi
+> Psittacara_frontatus
+> Psittacara_holochlorus
+> Psittacara_mitratus
+> Psittacara_strenuus
+> Psittacara_wagleri
+5108a7631,7633
+> Psittacella_madaraszi
+> Psittacella_modesta
+> Psittacella_picta
+5110c7635,7636
+< Psittacula_calthropae
+---
+> Psittacula_calthrapae
+> Psittacula_caniceps
+5114c7640
+< Psittacula_echo
+---
+> Psittacula_eques
+5115a7642
+> Psittacula_exsul
+5116a7644
+> Psittacula_himalayana
+5119a7648
+> Psittacula_wardi
+5121d7649
+< Psittaculirostris_edwardsii
+5123a7652,7653
+> Psitteuteles_iris
+> Psitteuteles_versicolor
+5124a7655,7658
+> Psittiparus_bakeri
+> Psittiparus_gularis
+> Psittiparus_margaritae
+> Psittirostra_psittacea
+5129c7663,7666
+< Psophocichla_litsipsirupa
+---
+> Psophodes_cristatus
+> Psophodes_leucogaster
+> Psophodes_nigrogularis
+> Psophodes_occidentalis
+5131a7669,7690
+> Pternistis_adspersus
+> Pternistis_ahantensis
+> Pternistis_bicalcaratus
+> Pternistis_camerunensis
+> Pternistis_capensis
+> Pternistis_castaneicollis
+> Pternistis_clappertoni
+> Pternistis_griseostriatus
+> Pternistis_hartlaubi
+> Pternistis_harwoodi
+> Pternistis_hildebrandti
+> Pternistis_icterorhynchus
+> Pternistis_jacksoni
+> Pternistis_leucoscepus
+> Pternistis_natalensis
+> Pternistis_nobilis
+> Pternistis_ochropectus
+> Pternistis_rufopictus
+> Pternistis_squamatus
+> Pternistis_swainsonii
+> Pternistis_swierstrai
+> Pterocles_alchata
+5132a7692
+> Pterocles_burchelli
+5133a7694,7695
+> Pterocles_decoratus
+> Pterocles_exustus
+5134a7697,7698
+> Pterocles_indicus
+> Pterocles_lichtensteinii
+5136a7701,7704
+> Pterocles_personatus
+> Pterocles_quadricinctus
+> Pterocles_senegallus
+> Pterodroma_alba
+5138c7706
+< Pterodroma_aterrima
+---
+> Pterodroma_atrata
+5140a7709
+> Pterodroma_brevipes
+5141a7711,7712
+> Pterodroma_caribbaea
+> Pterodroma_cervicalis
+5142a7714
+> Pterodroma_defilippiana
+5145a7718
+> Pterodroma_gouldi
+5151a7725
+> Pterodroma_leucoptera
+5158a7733
+> Pterodroma_occulta
+5160c7735
+< Pterodroma_rostrata
+---
+> Pterodroma_pycrofti
+5162a7738
+> Pterodroma_ultima
+5166c7742
+< Pteroglossus_beauharnaesii
+---
+> Pteroglossus_beauharnaisii
+5170d7745
+< Pteroglossus_flavirostris
+5180a7756
+> Pteroptochos_megapodius
+5181a7758,7778
+> Pterorhinus_albogularis
+> Pterorhinus_berthemyi
+> Pterorhinus_caerulatus
+> Pterorhinus_chinensis
+> Pterorhinus_davidi
+> Pterorhinus_delesserti
+> Pterorhinus_galbanus
+> Pterorhinus_gularis
+> Pterorhinus_koslowi
+> Pterorhinus_lanceolatus
+> Pterorhinus_nuchalis
+> Pterorhinus_pectoralis
+> Pterorhinus_perspicillatus
+> Pterorhinus_poecilorhynchus
+> Pterorhinus_ruficeps
+> Pterorhinus_ruficollis
+> Pterorhinus_sannio
+> Pterorhinus_treacheri
+> Pterorhinus_vassali
+> Pterorhinus_waddelli
+> Pterorhinus_woodi
+5182a7780,7781
+> Pteruthius_aeralatus
+> Pteruthius_annamensis
+5183a7783
+> Pteruthius_intermedius
+5185c7785
+< Pteruthius_pallidus
+---
+> Pteruthius_ripleyi
+5187d7786
+< Pteruthius_validirostris
+5188a7788,7808
+> Ptilinopus_alligator
+> Ptilinopus_arcanus
+> Ptilinopus_aurantiifrons
+> Ptilinopus_bernsteinii
+> Ptilinopus_chalcurus
+> Ptilinopus_cinctus
+> Ptilinopus_coralensis
+> Ptilinopus_coronulatus
+> Ptilinopus_dohertyi
+> Ptilinopus_epius
+> Ptilinopus_eugeniae
+> Ptilinopus_granulifrons
+> Ptilinopus_greyi
+> Ptilinopus_hernsheimi
+> Ptilinopus_huttoni
+> Ptilinopus_hyogastrus
+> Ptilinopus_insolitus
+> Ptilinopus_insularis
+> Ptilinopus_iozonus
+> Ptilinopus_jambu
+> Ptilinopus_layardi
+5191a7812,7813
+> Ptilinopus_mangoliensis
+> Ptilinopus_marchei
+5192a7815,7817
+> Ptilinopus_merrilli
+> Ptilinopus_monacha
+> Ptilinopus_nainus
+5193a7819,7825
+> Ptilinopus_ornatus
+> Ptilinopus_pelewensis
+> Ptilinopus_perlatus
+> Ptilinopus_perousii
+> Ptilinopus_ponapensis
+> Ptilinopus_porphyraceus
+> Ptilinopus_porphyreus
+5194a7827
+> Ptilinopus_purpuratus
+5198c7831
+< Ptilinopus_rivoli
+---
+> Ptilinopus_roseicapilla
+5200a7834
+> Ptilinopus_tannensis
+5202,5203c7836,7842
+< Ptilogonys_caudatus
+< Ptilogonys_cinereus
+---
+> Ptilinopus_viridis
+> Ptilinopus_wallacii
+> Ptiliogonys_caudatus
+> Ptiliogonys_cinereus
+> Ptilocichla_falcata
+> Ptilocichla_leucogrammica
+> Ptilocichla_mindanensis
+5205a7845
+> Ptiloprora_erythropleura
+5206a7847,7849
+> Ptiloprora_mayri
+> Ptiloprora_meekiana
+> Ptiloprora_perstriata
+5214a7858
+> Ptilorrhoa_castanonota
+5216a7861,7867
+> Ptilotula_flavescens
+> Ptilotula_fusca
+> Ptilotula_keartlandi
+> Ptilotula_ornata
+> Ptilotula_penicillata
+> Ptilotula_plumula
+> Ptiloxena_atroviolacea
+5219a7871
+> Ptyonoprogne_obsoleta
+5221d7872
+< Ptyrticus_turdinus
+5224d7874
+< Puffinus_atrodorsalis
+5226a7877
+> Puffinus_bannermani
+5229,5233c7880
+< Puffinus_bulleri
+< Puffinus_carneipes
+< Puffinus_colstoni
+< Puffinus_creatopus
+< Puffinus_dichrous
+---
+> Puffinus_bryani
+5236,5238c7883
+< Puffinus_gravis
+< Puffinus_griseus
+< Puffinus_haurakiensis
+---
+> Puffinus_heinrothi
+5240d7884
+< Puffinus_kermadecensis
+5242d7885
+< Puffinus_loyemilleri
+5247d7889
+< Puffinus_nicolae
+5249d7890
+< Puffinus_pacificus
+5251,5256d7891
+< Puffinus_polynesiae
+< Puffinus_puffinus
+< Puffinus_subalaris
+< Puffinus_temptator
+< Puffinus_tenuirostris
+< Puffinus_tunneyi
+5258a7894
+> Pulsatrix_melanota
+5262c7898
+< Pycnonotus_atriceps
+---
+> Pycnonotus_aurigaster
+5263a7900,7901
+> Pycnonotus_bimaculatus
+> Pycnonotus_blanfordi
+5267,5269c7905,7907
+< Pycnonotus_cyaniventris
+< Pycnonotus_erythropthalmos
+< Pycnonotus_eutilotus
+---
+> Pycnonotus_cinereifrons
+> Pycnonotus_conradi
+> Pycnonotus_dodsoni
+5275,5276c7913,7915
+< Pycnonotus_melanicterus
+< Pycnonotus_melanoleucus
+---
+> Pycnonotus_leucops
+> Pycnonotus_leucotis
+> Pycnonotus_luteolus
+5277a7917
+> Pycnonotus_penicillatus
+5280a7921,7922
+> Pycnonotus_snouckaerti
+> Pycnonotus_somaliensis
+5282c7924,7925
+< Pycnonotus_urostictus
+---
+> Pycnonotus_tricolor
+> Pycnonotus_xantholaemus
+5287a7931
+> Pycnopygius_ixoides
+5291,5292d7934
+< Pygochelidon_cyanoleuca
+< Pygochelidon_melanoleuca
+5295a7938
+> Pyrenestes_minor
+5298c7941,7945
+< Pyriglena_leuconota
+---
+> Pyrgilauda_blanfordi
+> Pyrgilauda_davidiana
+> Pyrgilauda_ruficollis
+> Pyrgilauda_theresae
+> Pyriglena_atra
+5300c7947
+< Pyrilia_aurantiocephala
+---
+> Pyriglena_similis
+5303d7949
+< Pyrilia_coccinicollaris
+5307a7954
+> Pyrocephalus_obscurus
+5310d7956
+< Pyrrhocoma_ruficeps
+5321d7966
+< Pyrrhula_murina
+5322a7968
+> Pyrrhula_owstoni
+5325d7970
+< Pyrrhura_amazonum
+5327,5328c7972
+< Pyrrhura_eisenmanni
+< Pyrrhura_emma
+---
+> Pyrrhura_egregia
+5330d7973
+< Pyrrhura_griseipectus
+5335d7977
+< Pyrrhura_molinae
+5338,5340d7979
+< Pyrrhura_peruviana
+< Pyrrhura_pfrimeri
+< Pyrrhura_picta
+5342d7980
+< Pyrrhura_roseifrons
+5344c7982
+< Pyrrhura_snethlageae
+---
+> Pyrrhura_viridicata
+5350a7989
+> Quelea_erythrops
+5352d7990
+< Querula_purpurata
+5359a7998,8008
+> Quoyornis_georgianus
+> Radjah_radjah
+> Rallicula_forbesi
+> Rallicula_mayri
+> Rallicula_rubra
+> Rallina_canningi
+> Rallina_eurizonoides
+> Rallina_fasciata
+> Rallina_tricolor
+> Rallus_aequatorialis
+> Rallus_antarcticus
+5360a8010,8011
+> Rallus_caerulescens
+> Rallus_crepitans
+5361a8013
+> Rallus_indicus
+5363c8015,8019
+< Rallus_longirostris
+---
+> Rallus_madagascariensis
+> Rallus_obsoletus
+> Rallus_semiplumbeus
+> Rallus_tenuirostris
+> Rallus_wetmorei
+5365d8020
+< Ramphastos_ariel
+5368,5369d8022
+< Ramphastos_culminatus
+< Ramphastos_cuvieri
+5372,5373d8024
+< Ramphastos_swainsonii
+< Ramphastos_toco
+5376c8027,8029
+< Ramphocelus_bresilius
+---
+> Ramphocaenus_melanurus
+> Ramphocaenus_sticturus
+> Ramphocelus_bresilia
+5378d8030
+< Ramphocelus_costaricensis
+5384d8035
+< Ramphocelus_passerinii
+5386a8038
+> Ramphocoris_clotbey
+5387a8040
+> Ramphomicron_dorsale
+5393c8046
+< Ramsayornis_modestus
+---
+> Randia_pseudozosterops
+5394a8048
+> Rauenia_bonariensis
+5397a8052
+> Recurvirostra_novaehollandiae
+5400,5401d8054
+< Regulus_ignicapilla
+< Regulus_madeirensis
+5404d8056
+< Regulus_teneriffae
+5406a8059,8060
+> Reinwardtoena_crassirostris
+> Reinwardtoena_reinwardti
+5407a8062,8063
+> Remiz_coronatus
+> Remiz_macronyx
+5408a8065
+> Rhabdornis_grandis
+5410a8068,8071
+> Rhabdotorrhinus_corrugatus
+> Rhabdotorrhinus_exarhatus
+> Rhabdotorrhinus_leucocephalus
+> Rhabdotorrhinus_waldeni
+5411a8073,8074
+> Rhamphocharis_crassirostris
+> Rhamphococcyx_calyorhynchus
+5412a8076
+> Rhaphidura_sabini
+5414a8079,8080
+> Rhegmatorhina_berlepschi
+> Rhegmatorhina_cristata
+5417a8084
+> Rheinardia_nigrescens
+5419a8087,8088
+> Rhinoplax_vigil
+> Rhinopomastus_aterrimus
+5420a8090,8091
+> Rhinoptilus_africanus
+> Rhinoptilus_bitorquatus
+5421a8093,8094
+> Rhinoptilus_cinctus
+> Rhinortha_chlorophaea
+5423a8097
+> Rhipidura_albogularis
+5430a8105
+> Rhipidura_dedemi
+5431a8107
+> Rhipidura_drownei
+5434a8111
+> Rhipidura_habibiei
+5436a8114,8115
+> Rhipidura_kubaryi
+> Rhipidura_lepida
+5438a8118,8121
+> Rhipidura_maculipectus
+> Rhipidura_malaitae
+> Rhipidura_matthiae
+> Rhipidura_nebulosa
+5440c8123,8124
+< Rhipidura_perlata
+---
+> Rhipidura_opistherythra
+> Rhipidura_personata
+5446,5447c8130,8132
+< Rhipidura_spilodera
+< Rhipidura_superciliaris
+---
+> Rhipidura_semirubra
+> Rhipidura_sulaensis
+> Rhipidura_superflua
+5449,5451c8134
+< Rhipidura_teysmanni
+< Rhipidura_threnothorax
+< Rhipidura_verreauxi
+---
+> Rhizothera_dulitensis
+5452a8136,8137
+> Rhodacanthis_flaviceps
+> Rhodacanthis_palmeri
+5454c8139,8140
+< Rhodophoneus_cruentus
+---
+> Rhodonessa_caryophyllacea
+> Rhodopechys_alienus
+5459a8146,8147
+> Rhopias_gularis
+> Rhopophilus_albosuperciliaris
+5461a8150
+> Rhopospina_fruticeti
+5464a8154
+> Rhynchocyclus_pacificus
+5466a8157,8159
+> Rhynchopsitta_terrisi
+> Rhynchortyx_cinctus
+> Rhynchospiza_dabbenei
+5468a8162,8165
+> Rhynchostruthus_louisae
+> Rhynchostruthus_percivali
+> Rhynchostruthus_socotranus
+> Rhynchotus_maculicollis
+5470a8168,8174
+> Rhyticeros_cassidix
+> Rhyticeros_everetti
+> Rhyticeros_narcondami
+> Rhyticeros_plicatus
+> Rhyticeros_subruficollis
+> Rhyticeros_undulatus
+> Rhytipterna_holerythra
+5472a8177,8182
+> Riccordia_bicolor
+> Riccordia_bracei
+> Riccordia_elegans
+> Riccordia_maugaeus
+> Riccordia_ricordii
+> Riccordia_swainsonii
+5475c8185
+< Rimator_pasquieri
+---
+> Riparia_chinensis
+5476a8187
+> Riparia_congica
+5481a8193,8195
+> Robsonius_rabori
+> Robsonius_sorsogonensis
+> Rollandia_microptera
+5484a8199
+> Rostratula_australis
+5487a8203,8209
+> Rubigula_dispar
+> Rubigula_flaviventris
+> Rubigula_gularis
+> Rubigula_montis
+> Rufirallus_castaneiceps
+> Rukia_longirostra
+> Rukia_ruki
+5490c8212,8214
+< Ruwenzorornis_johnstoni
+---
+> Rupornis_magnirostris
+> Rynchops_albicollis
+> Rynchops_flavirostris
+5497c8221,8222
+< Salpornis_spilonotus
+---
+> Salpornis_salvadori
+> Salpornis_spilonota
+5500d8224
+< Saltator_atricollis
+5502a8227
+> Saltator_cinctus
+5503a8229
+> Saltator_fuliginosus
+5505c8231
+< Saltator_maximus
+---
+> Saltator_maxillosus
+5507c8233
+< Saltator_rufiventris
+---
+> Saltator_orenocensis
+5509a8236
+> Saltatricula_atricollis
+5510a8238
+> Salvadorina_waigiuensis
+5512,5513c8240
+< Sapheopipo_noguchii
+< Sappho_sparganura
+---
+> Sappho_sparganurus
+5514a8242,8243
+> Sarcophanops_samarensis
+> Sarcophanops_steerii
+5518,5519c8247,8251
+< Saroglossa_aurata
+< Saroglossa_spiloptera
+---
+> Sarkidiornis_sylvicola
+> Saroglossa_spilopterus
+> Sarothrura_affinis
+> Sarothrura_ayresi
+> Sarothrura_boehmi
+5520a8253,8256
+> Sarothrura_insularis
+> Sarothrura_pulchra
+> Sarothrura_rufa
+> Sarothrura_watersi
+5522d8257
+< Sasia_africana
+5525,5526c8260,8268
+< Saundersilarus_saundersi
+< Saxicola_bifasciatus
+---
+> Saucerottia_beryllina
+> Saucerottia_castaneiventris
+> Saucerottia_cyanifrons
+> Saucerottia_cyanocephala
+> Saucerottia_cyanura
+> Saucerottia_edward
+> Saucerottia_saucerottei
+> Saucerottia_tobaci
+> Saucerottia_viridigaster
+5528d8269
+< Saxicola_dacotiae
+5529a8271
+> Saxicola_gutturalis
+5532a8275
+> Saxicola_macrorhynchus
+5536,5537c8279,8280
+< Saxicola_tectes
+< Saxicola_torquatus
+---
+> Saxicola_sibilla
+> Saxicola_stejnegeri
+5540a8284
+> Scelorchilus_albicollis
+5542a8287,8288
+> Scepomycter_winifredae
+> Schetba_rufa
+5544d8289
+< Schiffornis_turdina
+5545a8291
+> Schistes_albogularis
+5549,5551d8294
+< Schistocichla_leucostigma
+< Schistocichla_saturata
+< Schistocichla_schistacea
+5554c8297
+< Schoenicola_brevirostris
+---
+> Schoenicola_platyurus
+5556c8299
+< Schoeniparus_brunnea
+---
+> Schoeniparus_brunneus
+5558,5559c8301,8303
+< Schoeniparus_cinerea
+< Schoeniparus_dubia
+---
+> Schoeniparus_cinereus
+> Schoeniparus_dubius
+> Schoeniparus_klossi
+5560a8305,8307
+> Schoeniparus_variegaticeps
+> Sciaphylax_castanea
+> Sciaphylax_hemimelaena
+5562a8310,8315
+> Scleroptila_afra
+> Scleroptila_finschi
+> Scleroptila_levaillantii
+> Scleroptila_psilolaema
+> Scleroptila_shelleyi
+> Scleroptila_streptophora
+5563a8317
+> Sclerurus_caudacutus
+5566c8320,8322
+< Sclerurus_scansor
+---
+> Sclerurus_rufigularis
+> Scolopax_bukidnonensis
+> Scolopax_celebensis
+5567a8324,8326
+> Scolopax_mira
+> Scolopax_rochussenii
+> Scolopax_rosenbergii
+5568a8328
+> Scolopax_saturata
+5570a8331,8334
+> Scotopelia_bouvieri
+> Scotopelia_peli
+> Scotopelia_ussheri
+> Scytalopus_acutirostris
+5571a8336,8340
+> Scytalopus_alvarezlopezi
+> Scytalopus_androstictus
+> Scytalopus_argentifrons
+> Scytalopus_atratus
+> Scytalopus_bolivianus
+5572a8342,8343
+> Scytalopus_caracae
+> Scytalopus_chocoensis
+5573a8345,8350
+> Scytalopus_femoralis
+> Scytalopus_frankeae
+> Scytalopus_fuscus
+> Scytalopus_gettyae
+> Scytalopus_griseicollis
+> Scytalopus_intermedius
+5574a8352,8355
+> Scytalopus_krabbei
+> Scytalopus_latebricola
+> Scytalopus_latrans
+> Scytalopus_macropus
+5575a8357,8358
+> Scytalopus_meridanus
+> Scytalopus_micropterus
+5577c8360,8362
+< Scytalopus_pachecoi
+---
+> Scytalopus_opacus
+> Scytalopus_panamensis
+> Scytalopus_parkeri
+5579c8364,8368
+< Scytalopus_speluncae
+---
+> Scytalopus_petrophilus
+> Scytalopus_robbinsi
+> Scytalopus_sanctaemartae
+> Scytalopus_schulenbergi
+> Scytalopus_simonsi
+5582a8372,8373
+> Scytalopus_unicolor
+> Scytalopus_urubambae
+5586,5596d8376
+< Seicercus_affinis
+< Seicercus_burkii
+< Seicercus_castaniceps
+< Seicercus_grammiceps
+< Seicercus_montis
+< Seicercus_omeiensis
+< Seicercus_poliogenys
+< Seicercus_soror
+< Seicercus_tephrocephalus
+< Seicercus_valentini
+< Seicercus_whistleri
+5597a8378
+> Selasphorus_ardens
+5598a8380
+> Selasphorus_ellioti
+5599a8382
+> Selasphorus_heloisa
+5603c8386
+< Selenidera_culik
+---
+> Selasphorus_scintilla
+5605a8389,8390
+> Selenidera_nattereri
+> Selenidera_piperivora
+5614c8399
+< Sericornis_citreogularis
+---
+> Sericornis_beccarii
+5617a8403
+> Sericornis_maculatus
+5620,5621d8405
+< Sericornis_papuensis
+< Sericornis_perspicillatus
+5628,5630c8412
+< Serinus_albogularis
+< Serinus_atrogularis
+< Serinus_burtoni
+---
+> Serinus_alario
+5633,5639d8414
+< Serinus_capistratus
+< Serinus_citrinella
+< Serinus_citrinelloides
+< Serinus_citrinipectus
+< Serinus_corsicanus
+< Serinus_dorsostriatus
+< Serinus_flaviventris
+5641,5645d8415
+< Serinus_gularis
+< Serinus_hypostictus
+< Serinus_leucopygius
+< Serinus_mennelli
+< Serinus_mozambicus
+5647,5648d8416
+< Serinus_reichardi
+< Serinus_scotops
+5650,5653c8418
+< Serinus_striolatus
+< Serinus_sulphuratus
+< Serinus_thibetanus
+< Serinus_whytii
+---
+> Serinus_syriacus
+5654a8420
+> Serpophaga_griseicapilla
+5658a8425,8428
+> Setopagis_heterura
+> Setopagis_maculosa
+> Setopagis_parvula
+> Setopagis_whitelyi
+5659a8430
+> Setophaga_aestiva
+5667a8439
+> Setophaga_delicata
+5670c8442
+< Setophaga_fusca
+---
+> Setophaga_flavescens
+5685a8458
+> Setophaga_subita
+5692,5693d8464
+< Sheppardia_aurantiithorax
+< Sheppardia_bocagei
+5699a8471
+> Sholicola_albiventris
+5702a8475,8478
+> Sibirionetta_formosa
+> Sicalis_auriventris
+> Sicalis_citrina
+> Sicalis_columbiana
+5703a8480
+> Sicalis_lebruni
+5704a8482
+> Sicalis_luteocephala
+5705a8484
+> Sicalis_mendozae
+5707,5708c8486,8498
+< Sigelus_silens
+< Simoxenops_ucayalae
+---
+> Sicalis_raimondii
+> Sicalis_taczanowskii
+> Sicalis_uropigyalis
+> Silvicultrix_diadema
+> Silvicultrix_frontalis
+> Silvicultrix_jelskii
+> Silvicultrix_pulchella
+> Sinosuthora_brunnea
+> Sinosuthora_conspicillata
+> Sinosuthora_przewalskii
+> Sinosuthora_webbiana
+> Sinosuthora_zappeyi
+> Siphonorhis_americana
+5709a8500,8504
+> Sipia_berlepschi
+> Sipia_laemosticta
+> Sipia_nigricauda
+> Sipia_palliata
+> Sipodotus_wallacii
+5711c8506,8507
+< Siptornopsis_hypochondriaca
+---
+> Sirystes_albocinereus
+> Sirystes_albogriseus
+5712a8509,8510
+> Sirystes_subcanescens
+> Sitta_azurea
+5714a8513
+> Sitta_cashmirensis
+5715a8515
+> Sitta_formosa
+5718d8517
+< Sitta_krueperi
+5719a8519,8521
+> Sitta_leucopsis
+> Sitta_magna
+> Sitta_nagaensis
+5720a8523
+> Sitta_oenochlamys
+5722a8526
+> Sitta_solangiae
+5724a8529
+> Sitta_victoriae
+5726a8532,8536
+> Sitta_yunnanensis
+> Sittiparus_castaneoventris
+> Sittiparus_olivaceus
+> Sittiparus_owstoni
+> Sittiparus_semilarvatus
+5731c8541
+< Smutsornis_africanus
+---
+> Smithornis_sharpei
+5737a8548,8557
+> Spatula_clypeata
+> Spatula_cyanoptera
+> Spatula_discors
+> Spatula_hottentota
+> Spatula_platalea
+> Spatula_puna
+> Spatula_querquedula
+> Spatula_rhynchotis
+> Spatula_smithii
+> Spatula_versicolor
+5739a8560,8561
+> Spelaeornis_badeigularis
+> Spelaeornis_caudatus
+5741,5743c8563,8567
+< Spermestes_bicolor
+< Spermestes_cucullatus
+< Spermestes_fringilloides
+---
+> Spelaeornis_kinneari
+> Spelaeornis_longicaudatus
+> Spelaeornis_oatesi
+> Spelaeornis_reptatus
+> Spelaeornis_troglodytoides
+5744a8569,8571
+> Spermophaga_poliogenys
+> Spermophaga_ruficapilla
+> Sphecotheres_hypoleucus
+5746c8573
+< Spheniscus_demersus
+---
+> Sphecotheres_viridis
+5749d8575
+< Spheniscus_mendiculus
+5750a8577,8579
+> Sphenopsis_frontalis
+> Sphenopsis_melanotis
+> Sphenopsis_ochracea
+5754a8584,8585
+> Spilopelia_chinensis
+> Spilopelia_senegalensis
+5758a8590,8591
+> Spilornis_kinabaluensis
+> Spilornis_klossi
+5759a8593,8595
+> Spindalis_dominicensis
+> Spindalis_nigricephala
+> Spindalis_portoricensis
+5761a8598
+> Spinus_atriceps
+5764a8602
+> Spinus_dominicensis
+5773a8612
+> Spinus_thibetanus
+5779d8617
+< Spizaetus_isidori
+5783d8620
+< Spizella_arborea
+5789d8625
+< Spizella_taverneri
+5790a8627
+> Spizelloides_arborea
+5791a8629
+> Spizixos_canifrons
+5792a8631,8635
+> Spizocorys_conirostris
+> Spizocorys_fremantlii
+> Spizocorys_fringillaris
+> Spizocorys_obbiensis
+> Spizocorys_personata
+5795,5796c8638,8641
+< Sporaeginthus_formosus
+< Sporaeginthus_subflavus
+---
+> Spodiopsar_cineraceus
+> Spodiopsar_sericeus
+> Sporathraupis_cyanocephala
+> Sporophila_albogularis
+5798c8643,8645
+< Sporophila_bouvreuil
+---
+> Sporophila_ardesiaca
+> Sporophila_atrirostris
+> Sporophila_bouvronides
+5803a8651,8655
+> Sporophila_crassirostris
+> Sporophila_falcirostris
+> Sporophila_fringilloides
+> Sporophila_frontalis
+> Sporophila_funerea
+5807a8660,8662
+> Sporophila_lineola
+> Sporophila_luctuosa
+> Sporophila_maximiliani
+5809a8665,8666
+> Sporophila_morelleti
+> Sporophila_murallae
+5811a8669
+> Sporophila_nuttingi
+5812a8671,8672
+> Sporophila_peruviana
+> Sporophila_pileata
+5815a8676,8677
+> Sporophila_simplex
+> Sporophila_telasco
+5817d8678
+< Sporophila_zelichi
+5819,5827c8680,8684
+< Spreo_albicapillus
+< Spreo_bicolor
+< Spreo_fischeri
+< Spreo_unicolor
+< Stachyridopsis_chrysaea
+< Stachyridopsis_ruficeps
+< Stachyridopsis_rufifrons
+< Stachyris_ambigua
+< Stachyris_erythroptera
+---
+> Sporopipes_squamifrons
+> Stachyris_grammiceps
+> Stachyris_herberti
+> Stachyris_leucotis
+> Stachyris_maculata
+5828a8686,8688
+> Stachyris_nigricollis
+> Stachyris_nonggangensis
+> Stachyris_oglei
+5830c8690,8691
+< Stachyris_striolata
+---
+> Stachyris_thoracica
+> Stactolaema_anchietae
+5833a8695
+> Stagonopleura_bella
+5835c8697,8701
+< Stagonopleura_guttataB
+---
+> Stagonopleura_oculata
+> Staphida_castaniceps
+> Staphida_everetti
+> Staphida_torqueola
+> Starnoenas_cyanocephala
+5840d8705
+< Stellula_calliope
+5844a8710
+> Stephanoxis_loddigesii
+5845a8712
+> Stercorarius_chilensis
+5847c8714
+< Stercorarius_parasiticus
+---
+> Stercorarius_maccormicki
+5849c8716,8717
+< Stercorarius_skua
+---
+> Sterna_acuticauda
+> Sterna_aurantia
+5854a8723
+> Sterna_repressa
+5857a8727
+> Sterna_virgata
+5858a8729
+> Sternoclyta_cyanopectus
+5860a8732,8733
+> Sternula_balaenarum
+> Sternula_lorata
+5861a8735
+> Sternula_saundersi
+5865c8739,8740
+< Sterrhoptilus_plateni
+---
+> Sterrhoptilus_nigrocapitatus
+> Stictonetta_naevosa
+5867a8743,8756
+> Stilpnia_argyrofenges
+> Stilpnia_cayana
+> Stilpnia_cucullata
+> Stilpnia_cyanicollis
+> Stilpnia_cyanoptera
+> Stilpnia_heinei
+> Stilpnia_larvata
+> Stilpnia_meyerdeschauenseei
+> Stilpnia_nigrocincta
+> Stilpnia_peruviana
+> Stilpnia_phillipsi
+> Stilpnia_preciosa
+> Stilpnia_viridicollis
+> Stilpnia_vitriolina
+5870,5872d8758
+< Stiphrornis_gabonensis
+< Stiphrornis_sanghensis
+< Stiphrornis_xanthogaster
+5875a8762,8766
+> Stizorhina_finschi
+> Stizorhina_fraseri
+> Stomiopera_flava
+> Stomiopera_unicolor
+> Strepera_fuliginosa
+5876a8768,8769
+> Strepera_versicolor
+> Streptocitta_albertinae
+5880d8772
+< Streptopelia_chinensis
+5885c8777
+< Streptopelia_picturata
+---
+> Streptopelia_reichenowi
+5887,5888d8778
+< Streptopelia_semitorquata
+< Streptopelia_senegalensis
+5892c8782,8783
+< Streptoprocne_phelpsi
+---
+> Streptoprocne_biscutata
+> Streptoprocne_semicollaris
+5893a8785
+> Stresemannia_bougainvillei
+5894a8787
+> Strix_albitarsis
+5896a8790
+> Strix_chacoensis
+5897a8792,8796
+> Strix_fulvescens
+> Strix_hadorami
+> Strix_huhula
+> Strix_hylophila
+> Strix_leptogrammica
+5899c8798,8800
+< Strix_occidentalis
+---
+> Strix_nigrolineata
+> Strix_nivicolum
+> Strix_ocellata
+5900a8802,8803
+> Strix_sartorii
+> Strix_seloputo
+5902a8806
+> Strix_virgata
+5906,5907c8810
+< Sturnella_bellicosa
+< Sturnella_loyca
+---
+> Struthio_molybdophanes
+5909d8811
+< Sturnella_militaris
+5911,5913c8813
+< Sturnella_sp
+< Sturnella_superciliaris
+< Sturnia_albofrontata
+---
+> Sturnia_blythii
+5916c8816
+< Sturnia_philippensis
+---
+> Sturnia_pagodarum
+5918,5920c8818
+< Sturnia_sturnina
+< Sturnus_cineraceus
+< Sturnus_sericeus
+---
+> Sturnornis_albofrontatus
+5935c8833,8838
+< Surniculus_lugubris
+---
+> Surniculus_dicruroides
+> Surniculus_musschenbroeki
+> Surniculus_velutinus
+> Suthora_fulvifrons
+> Suthora_nipalensis
+> Suthora_verreauxi
+5938c8841
+< Sylvia_balearica
+---
+> Sylvia_atriceps
+5940,5956c8843
+< Sylvia_buryi
+< Sylvia_cantillans
+< Sylvia_communis
+< Sylvia_conspicillata
+< Sylvia_crassirostris
+< Sylvia_curruca
+< Sylvia_deserticola
+< Sylvia_hortensis
+< Sylvia_leucomelaena
+< Sylvia_melanocephala
+< Sylvia_melanothorax
+< Sylvia_mystacea
+< Sylvia_nana
+< Sylvia_nisoria
+< Sylvia_rueppelli
+< Sylvia_sarda
+< Sylvia_undata
+---
+> Sylvia_nigricapillus
+5958a8846
+> Sylvietta_isabellina
+5959a8848
+> Sylvietta_philippae
+5960a8850
+> Sylvietta_ruficapilla
+5963c8853,8854
+< Sylviorthorhynchus_desmursii
+---
+> Sylviorthorhynchus_desmurii
+> Sylviorthorhynchus_yanacensis
+5964a8856
+> Syma_megarhyncha
+5967a8860,8864
+> Symposiachrus_bimaculatus
+> Symposiachrus_boanensis
+> Symposiachrus_brehmii
+> Symposiachrus_browni
+> Symposiachrus_everetti
+5968a8866,8869
+> Symposiachrus_infelix
+> Symposiachrus_julianae
+> Symposiachrus_leucurus
+> Symposiachrus_loricatus
+5969a8871,8873
+> Symposiachrus_menckei
+> Symposiachrus_mundus
+> Symposiachrus_sacerdotum
+5970a8875,8876
+> Symposiachrus_verticalis
+> Symposiachrus_vidua
+5971a8878,8879
+> Synallaxis_albigularis
+> Synallaxis_albilora
+5973c8881,8882
+< Synallaxis_cabanisi
+---
+> Synallaxis_beverlyae
+> Synallaxis_brachyura
+5974a8884,8885
+> Synallaxis_castanea
+> Synallaxis_cherriei
+5976a8888
+> Synallaxis_courseni
+5978a8891,8900
+> Synallaxis_fuscorufa
+> Synallaxis_gujanensis
+> Synallaxis_hellmayri
+> Synallaxis_hypochondriaca
+> Synallaxis_hypospodia
+> Synallaxis_infuscata
+> Synallaxis_kollari
+> Synallaxis_macconnelli
+> Synallaxis_maranonica
+> Synallaxis_moesta
+5983a8906,8912
+> Synallaxis_subpudica
+> Synallaxis_tithys
+> Synallaxis_unirufa
+> Synallaxis_zimmeri
+> Syndactyla_dimidiata
+> Syndactyla_roraimae
+> Syndactyla_ruficollis
+5984a8914,8915
+> Syndactyla_striata
+> Syndactyla_subalaris
+5987c8918
+< Synthliboramphus_hypoleucus
+---
+> Synthliboramphus_scrippsi
+5988a8920
+> Sypheotides_indicus
+5995a8928,8932
+> Syrrhaptes_tibetanus
+> Systellura_decussata
+> Systellura_longirostris
+> Taccocua_leschenaultii
+> Tachornis_furcata
+5996a8934
+> Tachornis_squamata
+5998a8937,8938
+> Tachybaptus_novaehollandiae
+> Tachybaptus_pelzelnii
+5999a8940
+> Tachybaptus_rufolavatus
+6006d8946
+< Tachycineta_meyeni
+6012a8953
+> Tachymarptis_melba
+6014d8954
+< Tachyphonus_cristatus
+6016d8955
+< Tachyphonus_luctuosus
+6018d8956
+< Tachyphonus_rufiventer
+6021a8960
+> Tadorna_cristata
+6023d8961
+< Tadorna_radjah
+6027,6028c8965,8967
+< Taeniopygia_bichenovii
+< Taeniopygia_castanotis
+---
+> Taenioptynx_brodiei
+> Taenioptynx_sylvaticum
+> Taeniopygia_guttata
+6029a8969,8970
+> Talaphorus_chlorocercus
+> Talegalla_cuvieri
+6031c8972
+< Tangara_argyrofenges
+---
+> Talegalla_jobiensis
+6034d8974
+< Tangara_cayana
+6037,6040d8976
+< Tangara_cucullata
+< Tangara_cyanicollis
+< Tangara_cyanocephala
+< Tangara_cyanoptera
+6041a8978
+> Tangara_cyanoventris
+6047d8983
+< Tangara_guttata
+6049d8984
+< Tangara_heinei
+6054d8988
+< Tangara_larvata
+6057,6058d8990
+< Tangara_meyerdeschauenseei
+< Tangara_nigrocincta
+6060d8991
+< Tangara_palmeri
+6062,6065c8993
+< Tangara_preciosa
+< Tangara_punctata
+< Tangara_ruficervix
+< Tangara_rufigula
+---
+> Tangara_rufigenis
+6067,6068d8994
+< Tangara_seledon
+< Tangara_varia
+6071,6072d8996
+< Tangara_viridicollis
+< Tangara_vitriolina
+6074c8998
+< Tangara_xanthogastra
+---
+> Tanygnathus_gramineus
+6078c9002,9008
+< Tanysiptera_galatea
+---
+> Tanysiptera_danae
+> Tanysiptera_ellioti
+> Tanysiptera_hydrocharis
+> Tanysiptera_nigriceps
+> Tanysiptera_riedelii
+> Tanysiptera_sylvia
+> Taoniscus_nanus
+6089a9020
+> Tarsiger_rufilatus
+6096d9026
+< Tauraco_leucotis
+6100c9030
+< Tauraco_porphyreolophus
+---
+> Tauraco_rossae
+6102a9033
+> Tauraco_violaceus
+6104c9035
+< Tchagra_minutus
+---
+> Tchagra_jamesi
+6105a9037,9039
+> Tchagra_tchagra
+> Telacanthura_melanopygia
+> Telacanthura_ussheri
+6109c9043
+< Telophorus_bocagei
+---
+> Telophorus_cruentus
+6111,6112c9045
+< Telophorus_nigrifrons
+< Telophorus_sulfureopectus
+---
+> Telophorus_viridis
+6114d9046
+< Temenuchus_pagodarum
+6116c9048
+< Tephrodornis_gularis
+---
+> Tephrodornis_affinis
+6117a9050,9053
+> Tephrodornis_sylvicola
+> Tephrodornis_virgatus
+> Tephrophilus_wetmorei
+> Tephrozosterops_stalkeri
+6120,6122c9056,9057
+< Terenura_callinota
+< Terenura_humeralis
+< Terenura_sharpei
+---
+> Terenura_maculata
+> Terenura_sicki
+6123a9059,9063
+> Teretistris_fornsi
+> Terpsiphone_affinis
+> Terpsiphone_atrocaudata
+> Terpsiphone_batesi
+> Terpsiphone_bedfordi
+6124a9065,9068
+> Terpsiphone_corvina
+> Terpsiphone_cyanescens
+> Terpsiphone_incei
+> Terpsiphone_mutata
+6126c9070,9074
+< Terpsiphone_viridis
+---
+> Terpsiphone_rufiventer
+> Terpsiphone_rufocinerea
+> Territornis_albilineata
+> Territornis_fordiana
+> Territornis_reticulata
+6127a9076,9077
+> Tesia_cyaniventer
+> Tesia_everetti
+6128a9079
+> Tesia_superciliaris
+6130a9082
+> Tetraogallus_caucasicus
+6133,6134d9084
+< Tetrao_mlokosiewiczi
+< Tetrao_parvirostris
+6136,6137c9086
+< Tetraophasis_szechenyii
+< Tetrao_tetrix
+---
+> Tetrao_urogalloides
+6138a9088
+> Tetrastes_bonasia
+6143d9092
+< Thalassarche_chlororhynchos
+6149d9097
+< Thalassarche_steadi
+6151a9100
+> Thalasseus_bernsteini
+6153d9101
+< Thalasseus_eurygnatha
+6159d9106
+< Thalurania_fannyi
+6162c9109
+< Thambetochen_chauliodous
+---
+> Thalurania_watertonii
+6163a9111
+> Thamnistes_rufescens
+6165c9113
+< Thamnolaea_semirufa
+---
+> Thamnolaea_coronata
+6178d9125
+< Thamnophilus_cryptoleucus
+6183a9131
+> Thamnophilus_multistriatus
+6199a9148,9149
+> Thaumasius_baeri
+> Thaumasius_taczanowskii
+6200a9151
+> Thectocercus_acuticaudatus
+6208a9160,9164
+> Thlypopsis_fulviceps
+> Thlypopsis_inornata
+> Thlypopsis_ornata
+> Thlypopsis_pectoralis
+> Thlypopsis_pyrrhocoma
+6210a9167
+> Thlypopsis_superciliaris
+6212,6213d9168
+< Thraupis_bonariensis
+< Thraupis_cyanocephala
+6215a9171
+> Thraupis_glaucocolpa
+6220a9177,9180
+> Threskiornis_bernieri
+> Threskiornis_melanocephalus
+> Threskiornis_molucca
+> Threskiornis_spinicollis
+6221a9182
+> Thripadectes_holostictus
+6222a9184
+> Thripadectes_melanorhynchus
+6223a9186,9190
+> Thripadectes_scrutator
+> Thripadectes_virgaticeps
+> Thripophaga_amacurensis
+> Thripophaga_berlepschi
+> Thripophaga_cherriei
+6224a9192
+> Thripophaga_macroura
+6225a9194
+> Thryophilus_nicefori
+6230d9198
+< Thryothorus_albinucha
+6232,6235d9199
+< Tiaris_bicolor
+< Tiaris_canorus
+< Tiaris_fuliginosus
+< Tiaris_obscurus
+6238a9203
+> Tigriornis_leucolopha
+6241c9206,9207
+< Tijuca_atra
+---
+> Tigrisoma_mexicanum
+> Tilmatura_dupontii
+6244a9211,9212
+> Tinamotis_ingoufi
+> Tinamotis_pentlandii
+6245a9214,9216
+> Tinamus_major
+> Tinamus_osgoodi
+> Tinamus_solitarius
+6250,6252c9221,9222
+< Tockus_albocristatus
+< Tockus_alboterminatus
+< Tockus_camurus
+---
+> Tmetothylacus_tenellus
+> Tockus_damarensis
+6254,6256c9224
+< Tockus_erythrorhynchus
+< Tockus_fasciatus
+< Tockus_flavirostris
+---
+> Tockus_jacksoni
+6258c9226,9230
+< Tockus_nasutus
+---
+> Tockus_monteiri
+> Tockus_rufirostris
+> Todiramphus_albicilla
+> Todiramphus_albonotatus
+> Todiramphus_australasia
+6259a9232,9242
+> Todiramphus_cinnamominus
+> Todiramphus_colonus
+> Todiramphus_diops
+> Todiramphus_enigma
+> Todiramphus_farquhari
+> Todiramphus_funebris
+> Todiramphus_gambieri
+> Todiramphus_gertrudae
+> Todiramphus_godeffroyi
+> Todiramphus_lazuli
+> Todiramphus_leucopygius
+6260a9244,9248
+> Todiramphus_nigrocyaneus
+> Todiramphus_pelewensis
+> Todiramphus_pyrrhopygius
+> Todiramphus_recurvirostris
+> Todiramphus_reichenbachii
+6261a9250
+> Todiramphus_sacer
+6262a9252,9254
+> Todiramphus_saurophagus
+> Todiramphus_sordidus
+> Todiramphus_tristrami
+6263a9256
+> Todiramphus_veneratus
+6264a9258
+> Todirostrum_chrysocrotaphum
+6266a9261
+> Todirostrum_nigriceps
+6267a9263,9264
+> Todirostrum_poliocephalum
+> Todirostrum_viridanum
+6274a9272
+> Tolmomyias_flavotectus
+6276a9275,9276
+> Tolmomyias_traylori
+> Tolmomyias_viridiceps
+6278c9278,9280
+< Torgos_tracheliotus
+---
+> Topaza_pyra
+> Torgos_tracheliotos
+> Torreornis_inexpectata
+6279a9282,9285
+> Touit_costaricensis
+> Touit_dilectissimus
+> Touit_huetii
+> Touit_melanonotus
+6281c9287,9288
+< Toxorhamphus_iliolophus
+---
+> Touit_stictopterus
+> Touit_surdus
+6284d9290
+< Toxorhamphus_pygmaeum
+6286d9291
+< Toxostoma_cinereum
+6295,6296d9299
+< Toxostoma_sp
+< Trachyphonus_darnaudii
+6298,6299c9301,9302
+< Trachyphonus_purpuratus
+< Trachyphonus_usambiro
+---
+> Trachyphonus_margaritatus
+> Trachyphonus_vaillantii
+6301a9305
+> Tragopan_melanocephalus
+6303a9308
+> Traversia_lyalli
+6305a9311,9313
+> Treron_affinis
+> Treron_apicauda
+> Treron_aromaticus
+6306a9315,9316
+> Treron_axillaris
+> Treron_bicinctus
+6307a9318,9333
+> Treron_capellei
+> Treron_chloropterus
+> Treron_curvirostra
+> Treron_floris
+> Treron_formosae
+> Treron_fulvicollis
+> Treron_griseicauda
+> Treron_griveaudi
+> Treron_olax
+> Treron_oxyurus
+> Treron_pembaensis
+> Treron_phayrei
+> Treron_phoenicopterus
+> Treron_pompadora
+> Treron_psittaceus
+> Treron_seimundi
+6308a9335,9336
+> Treron_sphenurus
+> Treron_teysmannii
+6311c9339,9340
+< Trichastoma_bicolor
+---
+> Tribonyx_mortierii
+> Tribonyx_ventralis
+6312a9342,9343
+> Trichoglossus_capistratus
+> Trichoglossus_chlorolepidotus
+6313a9345,9346
+> Trichoglossus_flavoviridis
+> Trichoglossus_forsteni
+6315a9349
+> Trichoglossus_moluccanus
+6316a9351,9352
+> Trichoglossus_rubiginosus
+> Trichoglossus_rubritorquis
+6317a9354
+> Tricholaema_frontata
+6320a9358
+> Tricholaema_melanocephala
+6325d9362
+< Tringa_brevipes
+6328a9366
+> Tringa_guttifer
+6333d9370
+< Tringa_semipalmata
+6335d9371
+< Tringa_sp
+6337a9374,9394
+> Trochalopteron_affine
+> Trochalopteron_austeni
+> Trochalopteron_chrysopterum
+> Trochalopteron_elliotii
+> Trochalopteron_erythrocephalum
+> Trochalopteron_formosum
+> Trochalopteron_henrici
+> Trochalopteron_imbricatum
+> Trochalopteron_lineatum
+> Trochalopteron_melanostigma
+> Trochalopteron_milnei
+> Trochalopteron_morrisonianum
+> Trochalopteron_ngoclinhense
+> Trochalopteron_peninsulae
+> Trochalopteron_squamatum
+> Trochalopteron_subunicolor
+> Trochalopteron_variegatum
+> Trochalopteron_virgatum
+> Trochalopteron_yersini
+> Trochilus_polytmus
+> Trochilus_scitulus
+6341,6342c9398,9400
+< Troglodytes_brunneicollis
+< Troglodytes_musculus
+---
+> Troglodytes_cobbi
+> Troglodytes_hiemalis
+> Troglodytes_monticola
+6343a9402
+> Troglodytes_pacificus
+6346d9404
+< Troglodytes_sissonii
+6349d9406
+< Trogon_aurantiiventris
+6350a9408,9409
+> Trogon_caligatus
+> Trogon_chionurus
+6359a9419
+> Trogon_mesurus
+6361a9422
+> Trogon_ramonianus
+6365a9427
+> Tropicoperdix_chloropus
+6367d9428
+< Tryngites_subruficollis
+6369a9431,9433
+> Turacoena_modesta
+> Turacoena_sulaensis
+> Turdinus_atrigularis
+6370a9435,9436
+> Turdinus_marmoratus
+> Turdoides_atripennis
+6371a9438,9443
+> Turdoides_chapini
+> Turdoides_gilberti
+> Turdoides_gymnogenys
+> Turdoides_hartlaubii
+> Turdoides_hindei
+> Turdoides_hypoleuca
+6372a9445,9447
+> Turdoides_leucocephala
+> Turdoides_melanops
+> Turdoides_nipalensis
+6374c9449,9453
+< Turdoides_rubiginosa
+---
+> Turdoides_reinwardtii
+> Turdoides_rufocinctus
+> Turdoides_sharpei
+> Turdoides_squamulata
+> Turdoides_tenebrosa
+6379a9459
+> Turdus_atrogularis
+6387a9468,9469
+> Turdus_eremita
+> Turdus_eunomus
+6399d9480
+< Turdus_ignobilis
+6408c9489,9490
+< Turdus_libonyanus
+---
+> Turdus_libonyana
+> Turdus_litsitsirupa
+6421d9502
+< Turdus_niveiceps
+6425d9505
+< Turdus_olivaceofuscus
+6434a9515
+> Turdus_ravidus
+6441a9523
+> Turdus_sanchezorum
+6450d9531
+< Turdus_xanthorhynchus
+6451a9533,9535
+> Turnagra_tanagra
+> Turnix_castanotus
+> Turnix_everetti
+6452a9537,9542
+> Turnix_maculosus
+> Turnix_melanogaster
+> Turnix_nanus
+> Turnix_nigricollis
+> Turnix_ocellatus
+> Turnix_olivii
+6457a9548,9550
+> Turnix_velox
+> Turnix_worcesteri
+> Turtur_abyssinicus
+6460a9554,9555
+> Turtur_tympanistria
+> Tylas_eduardi
+6467a9563
+> Tyrannus_albogularis
+6470a9567
+> Tyrannus_cubensis
+6473a9571
+> Tyrannus_niveigularis
+6479,6485c9577,9582
+< Tyto_bargei
+< Tyto_capensis
+< Tyto_castanops
+< Tyto_delicatula
+< Tyto_furcata
+< Tyto_longimembris
+< Tyto_multipunctata
+---
+> Tyto_aurantia
+> Tyto_glaucops
+> Tyto_inexspectata
+> Tyto_javanica
+> Tyto_manusi
+> Tyto_nigrobrunnea
+6486a9584,9586
+> Tyto_rosenbergii
+> Tyto_sororcula
+> Tyto_soumagnei
+6490c9590
+< Upucerthia_jelskii
+---
+> Upucerthia_saturatior
+6491a9592,9593
+> Upupa_africana
+> Upupa_antaios
+6492a9595
+> Upupa_marginata
+6496,6497c9599,9600
+< Uraeginthus_cyanocephalusB
+< Uragus_sibiricus
+---
+> Uranomitra_franciae
+> Uratelornis_chimaera
+6501c9604,9609
+< Urocissa_erythrorhyncha
+---
+> Urochroa_leucura
+> Urocissa_caerulea
+> Urocissa_erythroryncha
+> Urocissa_flavirostris
+> Urocissa_ornata
+> Urocissa_whiteheadi
+6504c9612,9613
+< Urocynchramus_pylzowi
+---
+> Urodynamis_taitensis
+> Uroglaux_dimorpha
+6505a9615,9617
+> Urolestes_melanoleucus
+> Uromyias_agilis
+> Uromyias_agraphia
+6509a9622
+> Urosphena_pallidipes
+6510a9624,9625
+> Urosphena_subulata
+> Urosphena_whiteheadi
+6512a9628
+> Urothraupis_stolzmanni
+6513a9630,9631
+> Vanellus_albiceps
+> Vanellus_armatus
+6515a9634,9637
+> Vanellus_coronatus
+> Vanellus_crassirostris
+> Vanellus_duvaucelii
+> Vanellus_gregarius
+6516a9639,9644
+> Vanellus_leucurus
+> Vanellus_lugubris
+> Vanellus_macropterus
+> Vanellus_malabaricus
+> Vanellus_melanopterus
+> Vanellus_miles
+6517a9646
+> Vanellus_senegallus
+6518a9648,9650
+> Vanellus_superciliosus
+> Vanellus_tectus
+> Vanellus_tricolor
+6520a9653
+> Vauriella_albigularis
+6521a9655
+> Vauriella_gularis
+6522a9657
+> Veles_binotatus
+6530a9666
+> Veniliornis_maculifrons
+6533a9670
+> Veniliornis_sanguineus
+6538d9674
+< Vestiaria_coccinea
+6540c9676
+< Vidua_chalybeata
+---
+> Vidua_codringtoni
+6542c9678
+< Vidua_hypocherina
+---
+> Vidua_funerea
+6543a9680
+> Vidua_larvaticola
+6544a9682,9683
+> Vidua_maryae
+> Vidua_nigeriae
+6550a9690
+> Vidua_togoensis
+6552a9693,9695
+> Vini_kuhlii
+> Vini_stepheni
+> Vini_ultramarina
+6553a9697
+> Vireo_approximans
+6554a9699
+> Vireo_bairdi
+6556c9701,9704
+< Vireo_cassinii
+---
+> Vireo_brevipennis
+> Vireo_carmioli
+> Vireo_chivi
+> Vireo_crassirostris
+6559a9708
+> Vireo_gracilirostris
+6560a9710
+> Vireo_gundlachii
+6561a9712,9713
+> Vireo_hypochryseus
+> Vireolanius_eximius
+6562a9715,9716
+> Vireolanius_melitophrys
+> Vireolanius_pulchellus
+6564a9719,9723
+> Vireo_magister
+> Vireo_masteri
+> Vireo_modestus
+> Vireo_nanus
+> Vireo_nelsoni
+6565a9725,9726
+> Vireo_osburni
+> Vireo_pallens
+6567a9729
+> Vireo_sclateri
+6569d9730
+< Vireo_sp
+6570a9732
+> Viridonia_sagittirostris
+6575c9737
+< Woodfordia_superciliosa
+---
+> Willisornis_vidua
+6582a9745,9746
+> Xanthotis_macleayanus
+> Xanthotis_polygrammus
+6583a9748
+> Xenerpestes_minlosi
+6584a9750,9751
+> Xenicus_gilviventris
+> Xenicus_longipes
+6585a9753
+> Xenoglaux_loweryi
+6587,6588d9754
+< Xenoperdix_obscurata
+< Xenoperdix_udzungwensis
+6590,6591d9755
+< Xenopipo_holochlora
+< Xenopipo_unicolor
+6592a9757,9758
+> Xenopirostris_damii
+> Xenopirostris_polleni
+6595d9760
+< Xenops_milleri
+6597a9763,9765
+> Xenops_tenuirostris
+> Xenornis_setifrons
+> Xenospingus_concolor
+6599c9767,9768
+< Xenus_cinereus
+---
+> Xenotriccus_callizonus
+> Xenotriccus_mexicanus
+6601d9769
+< Xiphirhynchus_superciliaris
+6602a9771
+> Xiphocolaptes_falcirostris
+6605a9775
+> Xipholena_lamellipennis
+6606a9777,9778
+> Xiphorhynchus_atlanticus
+> Xiphorhynchus_chunchotambo
+6623a9796
+> Xolmis_salinarum
+6627,6629d9799
+< Yuhina_castaniceps
+< Yuhina_diademata
+< Yuhina_everetti
+6631a9802
+> Yuhina_humilis
+6633a9805,9829
+> Yungipicus_canicapillus
+> Yungipicus_kizuki
+> Yungipicus_maculatus
+> Yungipicus_moluccensis
+> Yungipicus_nanus
+> Yungipicus_ramsayi
+> Yungipicus_temminckii
+> Zanclostomus_javanicus
+> Zanda_baudinii
+> Zanda_funerea
+> Zanda_latirostris
+> Zapornia_astrictocarpus
+> Zapornia_atra
+> Zapornia_bicolor
+> Zapornia_flavirostra
+> Zapornia_fusca
+> Zapornia_monasa
+> Zapornia_nigra
+> Zapornia_olivieri
+> Zapornia_palmeri
+> Zapornia_parva
+> Zapornia_paykullii
+> Zapornia_pusilla
+> Zapornia_sandwichensis
+> Zapornia_tabuensis
+6640,6641d9835
+< Zenaida_aurita
+< Zenaida_galapagoensis
+6644a9839,9845
+> Zentrygon_albifacies
+> Zentrygon_carrikeri
+> Zentrygon_chiriquensis
+> Zentrygon_costaricensis
+> Zentrygon_frenata
+> Zentrygon_goldmani
+> Zentrygon_lawrencii
+6648a9850,9851
+> Zimmerius_cinereicapilla
+> Zimmerius_flavidifrons
+6649a9853,9856
+> Zimmerius_improbus
+> Zimmerius_minimus
+> Zimmerius_parvus
+> Zimmerius_petersi
+6650a9858
+> Zimmerius_villarejoi
+6651a9860
+> Zonerodius_heliosylus
+6654d9862
+< Zonotrichia_capensis
+6656a9865,9866
+> Zoonavena_grandidieri
+> Zoonavena_sylvatica
+6658,6661c9868
+< Zoothera_camaronensis
+< Zoothera_cinerea
+< Zoothera_citrina
+< Zoothera_crossleyi
+---
+> Zoothera_aurea
+6664,6667c9871
+< Zoothera_dohertyi
+< Zoothera_erythronota
+< Zoothera_gurneyi
+< Zoothera_guttata
+---
+> Zoothera_everetti
+6669c9873
+< Zoothera_interpres
+---
+> Zoothera_imbricata
+6670a9875,9877
+> Zoothera_machiki
+> Zoothera_major
+> Zoothera_margaretae
+6672d9878
+< Zoothera_mollissima
+6674,6680c9880
+< Zoothera_oberlaenderi
+< Zoothera_peronii
+< Zoothera_piaggiae
+< Zoothera_princei
+< Zoothera_schistacea
+< Zoothera_sibirica
+< Zoothera_spiloptera
+---
+> Zoothera_neilgherriensis
+6682,6684c9882,9887
+< Zoothera_tanganjicae
+< Zoothera_wardii
+< Zosterops_abyssinicus
+---
+> Zoothera_terrestris
+> Zoothera_turipavae
+> Zosterops_albogularis
+> Zosterops_aldabrensis
+> Zosterops_anderssoni
+> Zosterops_anomalus
+6685a9889
+> Zosterops_atriceps
+6687c9891
+< Zosterops_borbonicus
+---
+> Zosterops_auriventer
+6688a9893,9894
+> Zosterops_buruensis
+> Zosterops_ceylonensis
+6689a9896
+> Zosterops_chloronothos
+6691a9899,9901
+> Zosterops_consobrinorum
+> Zosterops_conspicillatus
+> Zosterops_emiliae
+6692a9903,9906
+> Zosterops_eurycricotus
+> Zosterops_everetti
+> Zosterops_explorator
+> Zosterops_finschii
+6693a9908,9910
+> Zosterops_flavilateralis
+> Zosterops_flavissimus
+> Zosterops_flavus
+6694a9912,9913
+> Zosterops_gibbsi
+> Zosterops_grayi
+6695a9915,9916
+> Zosterops_hypolais
+> Zosterops_hypoxanthus
+6698a9920,9921
+> Zosterops_kirki
+> Zosterops_kuehni
+6699a9923
+> Zosterops_lacertosus
+6701d9924
+< Zosterops_lugubris
+6704a9928,9930
+> Zosterops_mayottensis
+> Zosterops_mbuluensis
+> Zosterops_meeki
+6705a9932
+> Zosterops_melanurus
+6706a9934,9936
+> Zosterops_meyeni
+> Zosterops_minor
+> Zosterops_minutus
+6708d9937
+< Zosterops_montanus
+6710a9940,9942
+> Zosterops_mysorensis
+> Zosterops_natalis
+> Zosterops_nehrkorni
+6711a9944
+> Zosterops_novaeguineae
+6713d9945
+< Zosterops_olivaceus
+6716a9949
+> Zosterops_ponapensis
+6718a9952,9954
+> Zosterops_rotensis
+> Zosterops_samoensis
+> Zosterops_sanctaecrucis
+6719a9956
+> Zosterops_semperi
+6720a9958,9961
+> Zosterops_silvanus
+> Zosterops_simplex
+> Zosterops_socotranus
+> Zosterops_somadikartai
+6721a9963,9965
+> Zosterops_stalkeri
+> Zosterops_stenocricotus
+> Zosterops_strenuus
+6723c9967,9972
+< Zosterops_ugiensis
+---
+> Zosterops_stuhlmanni
+> Zosterops_superciliosus
+> Zosterops_tenuirostris
+> Zosterops_tetiparius
+> Zosterops_uropygialis
+> Zosterops_vaughani
+6726c9975,9976
+< Zosterops_wallacei
+---
+> Zosterops_winifredae
+> Zosterops_xanthochroa
+6728a9979
+> Zosterornis_nigrorum

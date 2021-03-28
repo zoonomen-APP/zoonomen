@@ -1,0 +1,502 @@
+  895  f Zosterops
+  896  f 
+  897  f Eremomela
+  898  e Oefv.Vet. cb2|e ' 7 '|awk '$0!~/no\./' >> okv7e.txt
+  899  update
+  900  e Oefv.Vet. cb2|e ' 7 '|awk '$0!~/no\./' >> okv7e.txt
+  901  f Platysteira
+  902  e -l 'Akad.Forh...a><.i> 7 p' ????.html
+  903  vi edlst.001
+  904  vi edlst.001
+  905  e Oefv.Vet. cb2|e ' 7 '|awk '$0!~/no\./' |wc
+  906  e Oefv.Vet. cb2
+  907  q Oefv.Vet. cb2|awk '$0!~/no\./'
+  908  e -l 'Oefv.Vet.-Akad.Forh.<.a><.i> 12 p' ????.html
+  909  e -l 'Oefv.Vet.-Akad.Forh.<.a><.i> 12 p' ????.html > edlst.tmp
+  910  vi edlst.tmp
+  911  chmod +x edlst.tmp
+  912  vi edlst.tmp
+  913  update
+  914  q Oefv.Vet. cb2|awk '$0!~/no\./'
+  915  f Prionops
+  916  q Oefv.Vet. cb2|awk '$0!~/no\./'
+  917  f Coereba
+  918  update
+  919  q Vet.Akad
+  920  e -l 'K.Vet.Akad.NyaHandl.' ????.html
+  921  e -l 'K.Vet.Akad.NyaHandl. ' ????.html
+  922  e -l 'K.Vet.Akad.NyaHandl.<' ????.html
+  923  :q
+  924  f Dinopium
+  925  e -l 'K.Vet.Akad.NyaHandl.<' ????.html
+  926  q Vet.Akad
+  927  q Vet.Akad|less
+  928  e 'K.Vet.Akad.NyaHandl."' ????.html
+  929  q 'K.Vet.Akad.NyaHandl."' 
+  930  q 'K.Vet.Akad.NyaHandl.\"' 
+  931  q 'K.Vet.Akad.NyaHandl.' 
+  932  sed 's/K.Vet.Akad.NyaHandl."/K.Vet.Acad.NyaHandl."/ wb.html|e Nya
+  933  sed 's/K.Vet.Akad.NyaHandl."/K.Vet.Acad.NyaHandl."/' wb.html|e Nya
+  934  sed 's/K.Vet.Akad.NyaHandl."/K.Vet.Acad.NyaHandl."/' wb.html|e Nya|less
+  935  vi 
+  936  vi kvet.sed
+  937  sed -f kvet.sed wb.html|e K.Vet
+  938  sed -f kvet.sed wb.html|e K.Vet.A
+  939  vi kvet.sed
+  940  sed -f kvet.sed wb.html|e K.Vet.A
+  941  sed -f kvet.sed wb.html|e K.Vet.A|less
+  942  e -l K.Vet.Akad.NyaHandl." ????.html
+  943  e -l 'K.Vet.Akad.NyaHandl.\"' ????.html
+  944  e -l 'K.Vet.Akad.NyaHandl.\"' ????.html > ed.lst
+  945  sed -f kvet.sed $(cat ed.lst)
+  946  sed -f kvet.sed $(cat ed.lst)|e K.Vet|less
+  947  sed -i -f kvet.sed $(cat ed.lst)
+  948  vi ed.lst
+  949  q Schises
+  950  q Schistes
+  951  cba Schistes
+  952  vi c:/zoonomen/cit/CBA/CBA_02_1ed.txt
+  953  rr Schistes
+  954  vi c:/zoonomen/cit/CBA/CBA_02_1ed.txt
+  955  egrep Zootaxa ./n/?.html
+  956  egrep Zootaxa ./n/?.html|less
+  957  q lucida
+  958  q lucidus
+  959  q Vet
+  960  q Vet|e Ac
+  961  q Vet|e Handl
+  962  q Vet|e Handl|less
+  963  update
+  964  q Vet|e Handl|less
+  965  ls ../cit/
+  966  q Syst.Av.Aust
+  967  f Meliphacator
+  968  vi ?pass.html
+  969  update
+  970  q Veten
+  971  f Leucocarbo
+  972  q K.SvenskaVetensk.Akad.Handl.
+  973  f Rubigula
+  974  pet georgian
+  975  pet georgian|e Lonn
+  976  pet georgian|e Lonn
+  977  vi c:/zoonomen/cit/Peters/Peters_01.txt
+  978  q K.SvenskaVetensk.Akad.Handl.
+  979  f Rubigula
+  980  vi hpass.html
+  981  update
+  982  q K|e Veten
+  983  q handl
+  984  q Handl
+  985  q Kupf
+  986  b Kupfer
+  987  b Kupfer|sed 's/ Kupfer/| Kupfer/'
+  988  b Kupfer|sed 's/ Kupfer/| Kupfer/'|awk -F "|" '{print $2,$1}'
+  989  i Kittlit
+  990  i Kittlit|wc
+  991  i Kittlit|e Kupf
+  992  i Kittlit|e Kupf|less
+  993  i Kittlitzia
+  994  b Kittlitzia
+  995  q Bremen
+  996  q Bremen|less
+  997  q Faune
+  998  f Podoces
+  999  q Formic
+ 1000  q Formic|e acu
+ 1001  f Formicivora
+ 1002  d
+ 1003  vi ?pass.html
+ 1004  update
+ 1005  f Chicocolaptes
+ 1006  f Chiclocolaptes
+ 1007  f Cichlocolaptes
+ 1008  vi hpass.html
+ 1009  update
+ 1010  q sodhi
+ 1011  f Muscicapa
+ 1012  update
+ 1013  f punicea
+ 1014  q punicea
+ 1015  b punicea
+ 1016  cd ../cit/CBBM
+ 1017  ls *.sed
+ 1018  vi CBBM.sed
+ 1019  sed -i -f CBBM.sed CBBM*ed.txt
+ 1020  cd ../../avtax
+ 1021  b punicea
+ 1022  pet punicea
+ 1023  pet punicea|e Col
+ 1024  vi c:/zoonomen/cit/Peters/Peters_03.txt
+ 1025  update
+ 1026  q Ost|e Afr
+ 1027  q Ost|e Afr|awk '{print $2}'
+ 1028  q Ost|e Afr|awk '{print $2}'|sort -d|uniq
+ 1029  q Vog.Ost.-A
+ 1030  q Vog.Ost.-A|less
+ 1031  e BNMA ../cit/jour?.html
+ 1032  e Vog.Ost.-A cb2
+ 1033  e Vog.Ost.-A cb2|wc
+ 1034  vi ../cit/BNMA/BNMA01e.txt
+ 1035  update
+ 1036  q Lilf
+ 1037  q Powys
+ 1038  q ford
+ 1039  q ford|less
+ 1040  b stenura
+ 1041  cd ../cit/CBBM
+ 1042  vi CBBM.sed
+ 1043  sed -i -f CBBM.sed CBBM*ed.txt
+ 1044  cd ../../
+ 1045  cd ./avtax
+ 1046  b stenura
+ 1047  pet Stenura
+ 1048  pet stenura
+ 1049  vi c:/zoonomen/cit/Peters/Peters_03.txt
+ 1050  b Zenaida
+ 1051  vi c:/zoonomen/cit/CBBM/CBBM21ed.txt
+ 1052  cd ../cit/CBBM
+ 1053  vi CBBM.sed
+ 1054  sed -i -f CBBM.sed CBBM*ed.txt
+ 1055  vi c:/zoonomen/cit/CBBM/CBBM21ed.txt
+ 1056  cd ../../avtax
+ 1057  q Consp.Gen.Av
+ 1058  rr stenura
+ 1059  vi c:/zoonomen/cit/BNMA/BNMA07e.txt
+ 1060  d
+ 1061  ls c:/txt
+ 1062  ls -tr c:/txt
+ 1063  update
+ 1064  q Vog|e Ost
+ 1065  q Deck
+ 1066  e Deck cb2
+ 1067  b Reisen
+ 1068  vi c:/zoonomen/cit/CBBM/CBBM27ed.txt
+ 1069  pet Reisen
+ 1070  pet Decken
+ 1071  pet Decken|less
+ 1072  pet Decken > PetDeck.txt
+ 1073  vi PetDeck.txt
+ 1074  q Birds|e Aust
+ 1075  q Birds|e Aust|less
+ 1076  q BirdsAust|less
+ 1077  q BirdsAustr.Ma
+ 1078  q BirdsAust|less
+ 1079  q BirdsAustr..Ma
+ 1080  q BirdsAustr..Ma|less
+ 1081  q Birds|e Aust
+ 1082  q Birds|e Aust|awk '{print $2}'
+ 1083  q Birds|e Aust|awk '{print $2}'|sort -d|uniq
+ 1084  pet Decken
+ 1085  pet Decken|e Hartlaub
+ 1086  vi c:/zoonomen/cit/Peters/Peters_11.txt
+ 1087  q Birds|e Aust
+ 1088  q Birds|e Aust|awk '{print $2}'
+ 1089  q Birds|e Aust|less
+ 1090  q Birds|e Aust|awk '{print $2}'
+ 1091  q Birds|e Aust|awk '{print $2}'|less
+ 1092  q Birds|e Aust|awk '{print $2}'|sort -d|uni
+ 1093  q Birds|e Aust|awk '{print $2}'|sort -d|uniq
+ 1094  q Tab.List
+ 1095  f Tab.ListAustral.Birds
+ 1096  vi psit.html stri.html
+ 1097  update
+ 1098  q Vog|e Ost|e Hart
+ 1099  q Vog|e Ost|e Hart|awk '{print $5}'
+ 1100  q Vog|e Ost|e Hart|awk '{print $5}'|sort -d|uniq
+ 1101  q Vog|e Ost|e Hart|awk '{print $5}'|sort -d|uniq >pethart.txt
+ 1102  vi pethart.txt
+ 1103  q Vog|e Ost|e Hart|awk '{print $5,$6}'|sort -d|uniq >pethart.txt
+ 1104  vi pethart.txt
+ 1105  pet Ploceus xanthopterus
+ 1106  pet 'Ploceus xanthopterus'
+ 1107  pet 'Ploceus xanthopterus'|less
+ 1108  pet 'Ploceus xanthopterus'|e xanth
+ 1109  vi c:/zoonomen/cit/Peters/Peters_15.txt
+ 1110  q Aust|e Birds
+ 1111  q Aust|e Birds|less
+ 1112  q Aust|e Birds|e '<'
+ 1113  q Aust|e Birds|e '>'
+ 1114  q BirdsAustr..Math|e 1924
+ 1115   e -l BirdsAustr..Math
+ 1116  vi cb2
+ 1117  e BirdsAustr..Math cb2
+ 1118  e BirdsAustr..Math cb2|e 1924
+ 1119  vi cb2
+ 1120  f Territornis
+ 1121  vi ?pass.html
+ 1122  update
+ 1123  bnma Walla
+ 1124  rr Walla
+ 1125  rr Walla|less
+ 1126  rr 'Walla Walla'|less
+ 1127  rr 'Walla'|e 'Walla Walla'|wc
+ 1128  rr 'Walla'|e 'Walla Walla'|less
+ 1129  cd ../../cit/BNMA
+ 1130  cd ../cit/BNMA
+ 1131  vi $(e -l ' Walla ' B*e.txt)
+ 1132  vi $(e -l ' Walla ' B*e.txt)
+ 1133  vi $(e -l ' Walla ' B*e.txt)
+ 1134  vi $(e -l ' Walla ' B*e.txt)
+ 1135  cd ../
+ 1136  cd ../avtax
+ 1137  ls -l wb.html
+ 1138  du -h
+ 1139  cd ../cit/BNMA
+ 1140  ls
+ 1141  cat B*e.txt|wc
+ 1142  cat B*e.txt|awk '$0!~/^$/'|wc
+ 1143  cat B*e.txt|awk '$0!~/^$/' >BNAMalle.txt
+ 1144  vi BNMAalle.txt
+ 1145  cat B*e.txt|awk '$0!~/^$/' >BNMAalle.txt
+ 1146  ls -tr
+ 1147  rm BNAMalle.txt
+ 1148  vi BNMAalle.txt
+ 1149  e 'Co..s' B*e.txt
+ 1150  e 'Codes' B*e.txt
+ 1151  e 'Codes' B*e.txt|wc
+ 1152  e 'Codes' B*e.txt|less
+ 1153  vi BNMA.sed
+ 1154  sed -i -f BNMA.sed B*e.txt
+ 1155  e 'Codes' B*e.txt|less
+ 1156  rm BNMAalle.txt
+ 1157  vi BNMA.sed
+ 1158  sed -i -f BNMA.sed B*e.txt
+ 1159  e 'Codes' B*e.txt|less
+ 1160  vi BNMA.sed
+ 1161  sed -i -f BNMA.sed B*e.txt
+ 1162  e 'Codes' B*e.txt|less
+ 1163  vi BNMA.sed
+ 1164  time sed -i -f BNMA.sed B*e.txt
+ 1165  e 'Codes' B*e.txt|less
+ 1166  vi BNMA.sed
+ 1167  time sed -i -f BNMA.sed B*e.txt
+ 1168  e 'Codes' B*e.txt|less
+ 1169  vi BNMA.sed
+ 1170  time sed -i -f BNMA.sed B*e.txt
+ 1171  vi BNMAprep.scr
+ 1172  chmod +x BNMAprep.scr
+ 1173  ls 
+ 1174  ./BNMAprep.scr
+ 1175  ls
+ 1176  vi BNMAall.txt
+ 1177  vi BNMA.sed
+ 1178  time sed -i -f BNMA.sed B*e.txt
+ 1179  ./BNMAprep.scr
+ 1180  du -h
+ 1181  du -h BNM*.*
+ 1182  wc BNMAall.txt
+ 1183  cd ../
+ 1184  cd ../avtax/tools
+ 1185  vi qall.sh
+ 1186  vi ls *.sh
+ 1187   ls *.sh
+ 1188  cd ../
+ 1189  cat start.sh
+ 1190  vi start.sh
+ 1191  $(cat start.sh)
+ 1192  qall Inc
+ 1193  qall Sylv
+ 1194  cd ./tools
+ 1195  chmod +x qall.sh
+ 1196  qall Sylv
+ 1197  vi qall.sh
+ 1198  qall Sylv
+ 1199  vi qall.sh
+ 1200  qall Sylv
+ 1201  vi qall.sh
+ 1202  qall Sylv
+ 1203  qall Sylv|less
+ 1204  vi qall.sh
+ 1205  qall Sylv|less
+ 1206  man pause
+ 1207  man p
+ 1208  vi qall.sh
+ 1209  qall Sylv|less
+ 1210  qall M.ller|less
+ 1211  vi qall.sh
+ 1212  qall M.ller|less
+ 1213  vi qall.sh
+ 1214  qall M.ller|less
+ 1215  vi c:/zoonomen/cit/BNMA/BNMA.sed
+ 1216  vi qall.sh
+ 1217  qall M.ller|less
+ 1218  qall M.ller|awk '$0!~/Muller/'
+ 1219  qall M.ller|awk '$0!~/Muller/'|less
+ 1220  qall M..ller|awk '$0!~/Muller/'|less
+ 1221  qall 1776|awk '$0!~/Muller/'|less
+ 1222  qall 1776|awk '$0!~/Muller/'|sed 's/ M/ |M/'
+ 1223  qall 1776|awk '$0!~/Muller/'|sed 's/ M/ |M/'|less
+ 1224  qall 1776|awk '$0!~/Muller/'|sed 's/ M/ |M/'|awk -F "|" '{print $2}'
+ 1225  qall 1776|awk '$0!~/Muller/'|sed 's/ M/ |M/'|awk -F "|" '{print $2}'|e er
+ 1226  qall 1776|awk '$0!~/Muller/'|sed 's/ M/ |M/'|awk -F "|" '{print $2}'|e er|awk '{print $1}'
+ 1227  qall 1776|awk '$0!~/Muller/'|sed 's/ M/ |M/'|awk -F "|" '{print $2}'|e er|awk '{print $1}'|sort -d|uniq
+ 1228  qall 1776|awk '$0!~/Muller/'|sed 's/ M/ |M/'|awk -F "|" '{print $2}'|e er|awk '{print $1}'|sort -d|uniq > 1776M.sed
+ 1229  vi 1776M.sed
+ 1230  qall 1776|awk '$0!~/Muller/'|sed 's/ M/ |M/'|awk -F "|" '{print $2}'|e er|awk '{print $1}'|sort -d|uniq
+ 1231  qall Mutter
+ 1232  qall Mutter|less
+ 1233  qall Donsker
+ 1234  qall Peterson
+ 1235  vi qall.sh
+ 1236  qall Peterson
+ 1237  vi qall.sh
+ 1238  qall Peterson
+ 1239  vi qall.sh
+ 1240  qall Peterson
+ 1241  cp qall.sh qallfile.sh
+ 1242  vi qallfile.sh
+ 1243  ./qallfile.sh Peterson
+ 1244  vi qallfile.sh
+ 1245  ./qallfile.sh Peterson
+ 1246  ./qallfile.sh Peterson|less
+ 1247  cd c:/txt
+ 1248  ls -tr
+ 1249  vi BBtax01.txt
+ 1250  cd /c/zoonomen/avtax
+ 1251  cd c:/zoonomen/avtax
+ 1252  ls -tr
+ 1253  mkdir ./allnames
+ 1254  ls -tr
+ 1255  mv BBallname.txt ./allnames
+ 1256  cd ./allnames
+ 1257  wc *.txt
+ 1258  vi *.txt
+ 1259  head *.txt
+ 1260  awk -F "," '{print NF}' *.txt
+ 1261  awk -F "," '{print NF}' *.txt|less
+ 1262  wc *.txt
+ 1263  vi *.txt
+ 1264  awk '{print NF}' BBalltab.txt
+ 1265  awk '{print NF}' BBalltab.txt|less
+ 1266  Begin taxa;
+ 1267          dimensions ntax=655;
+ 1268          taxlabels
+ 1269  Struthio_camelus_STRUTHIONIFORMES_Struthionidae
+ 1270  Apteryx_australis_APTERYGIFORMES_Apterygidae
+ 1271  Apteryx_mantelli_APTERYGIFORMES_Apterygidae
+ 1272  Apteryx_rowi_APTERYGIFORMES_Apterygidae
+ 1273  Apteryx_haastii_APTERYGIFORMES_Apterygidae
+ 1274  Apteryx_owenii_APTERYGIFORMES_Apterygidae
+ 1275  Mullerornis_sp_AEPYORNITHIFORMES_Aepyornithidae
+ 1276  Aepyornis_maximus_AEPYORNITHIFORMES_Aepyornithidae
+ 1277  Casuarius_bennetti_CASUARIIFORMES_Casuariidae
+ 1278  Casuarius_casuarius_CASUARIIFORMES_Casuariidae
+ 1279  Dromaius_novaehollandiae_CASUARIIFORMES_Casuariidae
+ 1280  Rhea_americana_RHEIFORMES_Rheidae
+ 1281  Rhea_pennata_RHEIFORMES_Rheidae
+ 1282  Anomalopteryx_didiformis_DINORNITHIFORMES_Emeidae
+ 1283  Emeus_crassus_DINORNITHIFORMES_Emeidae
+ 1284  Begin taxa;
+ 1285          dimensions ntax=655;
+ 1286          taxlabels
+ 1287  Struthio_camelus_STRUTHIONIFORMES_Struthionidae
+ 1288  Apteryx_australis_APTERYGIFORMES_Apterygidae
+ 1289  Apteryx_mantelli_APTERYGIFORMES_Apterygidae
+ 1290  Apteryx_rowi_APTERYGIFORMES_Apterygidae
+ 1291  Apteryx_haastii_APTERYGIFORMES_Apterygidae
+ 1292  Apteryx_owenii_APTERYGIFORMES_Apterygidae
+ 1293  Mullerornis_sp_AEPYORNITHIFORMES_Aepyornithidae
+ 1294  Aepyornis_maximus_AEPYORNITHIFORMES_Aepyornithidae
+ 1295  Casuarius_bennetti_CASUARIIFORMES_Casuariidae
+ 1296  Casuarius_casuarius_CASUARIIFORMES_Casuariidae
+ 1297  Dromaius_novaehollandiae_CASUARIIFORMES_Casuariidae
+ 1298  Rhea_americana_RHEIFORMES_Rheidae
+ 1299  Rhea_pennata_RHEIFORMES_Rheidae
+ 1300  Anomalopteryx_didiformis_DINORNITHIFORMES_Emeidae
+ 1301  Emeus_crassus_DINORNITHIFORMES_Emeidae
+ 1302  sed -e 'y/\t/\n/' BBalltab.txt
+ 1303  sed -e 'y/\t/\n/' BBalltab.txt > BBallnl.txt
+ 1304  vi BBallnl.txt
+ 1305  awk -F ":' '{print $1}' BBallnl.txt
+ 1306  awk -F ":' '{print $1}' BBallnl.txt
+ 1307  awk -F ":" '{print $1}' BBallnl.txt
+ 1308  awk -F ":" '{print $1}' BBallnl.txt > BBallname01.txt
+ 1309  vi BBallname01.txt
+ 1310  awk -F "_" '{print $3, $4}' BBallname01.txt
+ 1311  awk -F "_" '{print $3, $4}' BBallname01.txt|wc
+ 1312  awk -F "_" '{print $3, $4}' BBallname01.txt > BBallname02.txt
+ 1313  vi BBallname02.txt
+ 1314  wc BBallname02.txt
+ 1315  sort -d BBallname03.txt|uniq|wc
+ 1316  sort -d BBallname03.txt|uniq > BBallname04.txt
+ 1317  vi BBallname04.txt
+ 1318  vi BBallname03.txt
+ 1319  vi BBallname04.txt
+ 1320  cd ../
+ 1321  vi znsp002.txt
+ 1322  ls -tr
+ 1323  vi znpass01.txt
+ 1324  sort -d znpass01.txt
+ 1325  sort -d znpass02.txt
+ 1326  sort -d znpass01.txt
+ 1327  ls -tr
+ 1328  vi znpass01.txt
+ 1329  sort -d znpass02.txt
+ 1330  sort -d znpass02.txt > znpass03.txt
+ 1331  ls -tr
+ 1332  ls -tr ./allnames
+ 1333  diff znpass03.txt ./allnames/BBallname04.txt
+ 1334  diff znpass03.txt ./allnames/BBallname04.txt|wc
+ 1335  head znpass03.txt ./allnames/BBallname04.txt|wc
+ 1336  head znpass03.txt ./allnames/BBallname04.txt
+ 1337  sort -d znpass03.txt > znpass04.txt
+ 1338  head znpass04.txt
+ 1339  diff znpass04.txt ./allnames/BBallname04.txt|wc
+ 1340  diff znpass04.txt ./allnames/BBallname04.txt
+ 1341  diff znpass04.txt ./allnames/BBallname04.txt|e baird
+ 1342  q bairdi
+ 1343  q bairdi|e Amm
+ 1344  lc 
+ 1345  ls ./allnames
+ 1346  head Ballname02.txt
+ 1347  head ./allnams/Ballname02.txt
+ 1348  head ./allnames/Ballname02.txt
+ 1349  ls ./allnames
+ 1350  head ./allnames/BBallname02.txt
+ 1351  head ./allnames/BBallname01.txt
+ 1352  tail ./allnames/BBallname01.txt
+ 1353  diff znpass04.txt ./allnames/BBallname04.txt > diffza.txt
+ 1354  vi diffza.txt
+ 1355  e bairdi cb2
+ 1356  e bairdi cb2|e Tro
+ 1357  e bairdi cb2|e Cal
+ 1358  e bairdi cb2|e Cent
+ 1359  e bairdi cb2|e Myi
+ 1360  e bairdi cb2|e Vir
+ 1361  ls ./ioc11
+ 1362  ls ./ioc111
+ 1363  ls -trl ./ioc111
+ 1364  head ./ioc111/iocfsp02.txt
+ 1365  ls -trl ./ioc111
+ 1366  head ./ioc111/iocfsp.txt
+ 1367  head ./ioc111/iocfsp02.txt
+ 1368  ls -trl ./ioc111
+ 1369  head -2 ./ioc111/iocfsp02.txt
+ 1370  head -2 ./ioc111/iocfsp02.txt|awk -F "|" '{print $6}'
+ 1371  cat ./ioc111/iocfsp02.txt|awk -F "|" '{print $6}'
+ 1372  cat ./ioc111/iocfsp02.txt|awk -F "|" '{print $6}' |sed 's/ /_/'
+ 1373  cat ./ioc111/iocfsp02.txt|awk -F "|" '{print $6}' |sed 's/ /_/'|sort -d|uniq -d
+ 1374  cat ./ioc111/iocfsp02.txt|awk -F "|" '{print $6}' |sed 's/ /_/'|sort -d|uniq
+ 1375  cat ./ioc111/iocfsp02.txt|awk -F "|" '{print $6}' |sed 's/ /_/'|sort -d|uniq > ./ioc111/Gn_sp111.txt
+ 1376  cd ./allnames
+ 1377  diff BBallname04.txt ../ioc111/Gn_sp111.txt
+ 1378  diff BBallname04.txt ../ioc111/Gn_sp111.txt > diffBB11.txt
+ 1379  vi diffBB11.txt
+ 1380  head ../ioc111/Gn_sp111.txt
+ 1381  head BBallname04.txt
+ 1382  diff BBallname04.txt ../ioc111/Gn_sp111.txt
+ 1383  diff BBallname04.txt ../ioc111/Gn_sp111.txt
+ 1384  ls -tr
+ 1385  mv diffBB11.txt diffBB111.txt
+ 1386  head diffBB111.txt
+ 1387  diff BBallname04.txt ../ioc111/Gn_sp111.txt > diffBB11.txt
+ 1388  head diffBB11.txt
+ 1389  ls -tr
+ 1390  head diffBB111.txt
+ 1391  wc BBallname.txt
+ 1392  wc BBallname01.txt
+ 1393  history
+ 1394  history > hx0218.txt
+ ***1302  sed -e 'y/\t/\n/' BBalltab.txt
+ ***1303  sed -e 'y/\t/\n/' BBalltab.txt > BBallnl.txt
