@@ -8,18 +8,44 @@ extractd as trc.001
 
 	2. remove parentheses -- these are needed only to produce tree structure.
 		 sed -e 's/(//g' -e 's/)//g' trc.002 > trc.003
-	2. next we want to make each taxon an individual line (record).
-	Beginning of first line looks like this:
-	 tree with_root_constraint = [&R] Struthio_camelus_STRUTHIONIFORMES_Struthionidae:64.243358,Apteryx_mantelli_APTERYGIFORMES_Apterygidae:51.592404,
-	 So comma is record separator.
 
-	 First, by hand editing I will have the second line start with the taxon.
-	 Then substitute tab for comma.
-	 sed 's/,/	/g' trc.002 > trc.003
+		 Now looks like this:
 
-	 Now need to replace tab with newline.
-	 The sed function here is:
-	  sed -e 'y/\t/\n/' (egrep extension required).
- 	sed -e 'y/\t/\n' trc.003 > trc.004
+	tree with_root_constraint = [&R]
+	Struthio_camelus_STRUTHIONIFORMES_Struthionidae:64.243358
+	Apteryx_mantelli_APTERYGIFORMES_Apterygidae:51.592404
+	Mullerornis_sp_AEPYORNITHIFORMES_Aepyornithidae:16.155516
+	Aepyornis_maximus_AEPYORNITHIFORMES_Aepyornithidae:16.155516:35.436888:8.868225
+
+	3. next we want to restrict the file to just taxon and terminal br. length
+		so if colon (:) is field separator, just print $1,$2.
+
+	4. awk -F ":" '{print $1,$2}' trc.003 > trc.004
+
+	5. So now we have:
+
+	$ head trc.004
+	tree with_root_constraint = [&R]
+	Struthio_camelus_STRUTHIONIFORMES_Struthionidae 64.243358
+	Apteryx_mantelli_APTERYGIFORMES_Apterygidae 51.592404
+	Mullerornis_sp_AEPYORNITHIFORMES_Aepyornithidae 16.155516
+	Aepyornis_maximus_AEPYORNITHIFORMES_Aepyornithidae 16.155516
+	Anomalopteryx_didiformis_DINORNITHIFORMES_Emeidae 55.540828
+	Crypturellus_tataupa_TINAMIFORMES_Tinamidae 30.169303
+	Tinamus_guttatus_TINAMIFORMES_Tinamidae 13.306222
+	Tinamus_major_TINAMIFORMES_Tinamidae 13.306222
+	Eudromia_elegans_TINAMIFORMES_Tinamidae 37.890498
+
+	II.
+
+	Now. we want genus group name to have:
+		a prepended sequence number from 10.2
+		a suffix that includes large scale geographic information.
+
+		So Struthio_camelus should look:
+		_00001_Struthio_camelus_AF
+
+		So NOW the task is to creat a list from 10.2 that has 
+		Gen_sp_GEOREG for species.
 
 
