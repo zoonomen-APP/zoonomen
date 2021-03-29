@@ -8,7 +8,7 @@ tree with root constraint
         # -e needed for regex, apparently
 3. remove parentheses
 4. Change genus name to numbered name with established sed script.
-5. Change genus name to Psliopogon.
+5. Change genus name to Psliopogon. (Megalaima?)
 
 
 
