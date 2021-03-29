@@ -49,3 +49,31 @@ extractd as trc.001
 		Gen_sp_GEOREG for species.
 
 
+	i111 tax now looks like this: colon used for Geo separator.
+	 Struthio_camelus_AF
+	 Struthio_molybdophanes_AF
+	 Rhea_americana_SA
+	 Rhea_pennata_SA
+	 Apteryx_australis_AU
+	 Apteryx_mantelli_AU
+	 Apteryx_rowi_AU
+	 Apteryx_owenii_AU
+	 Apteryx_haastii_AU
+	 Casuarius_casuarius_AU
+	 Casuarius_bennetti_AU
+	 Casuarius_unappendiculatus_AU
+	 Dromaius_novaehollandiae_AU
+	 Tinamus_tao_SA
+	 Tinamus_solitarius_SA
+	 Tinamus_osgoodi_SA
+	 Tinamus_major_MA:SA
+	 Tinamus_guttatus_SA
+	 Nothocercus_bonapartei_MA:SA
+
+
+NOTES:
+
+This from Rebecca Kimball
+In terms of expectations (and your box plot of emberizids/thraupids - I have not yet digested the document with all the data from varying groups), I can see two things that should affect terminal branches (which you have alluded to):
+1) evolutionary rates. It is clear some taxa seem to have faster rates of evolution - this is likely due to elevated mutation rates and/or to elevated rates of fixation of mutations (e.g., small populations may lead to greater rates of fixation, fixation rates may also be affected by whether mutations are beneficial or detrimental, etc.).
+2) classification. As you commented on cisticolids, if we split something into many species we subdivide branches (short terminals) and if we lump things we end up with long terminals. I have wondered (and there is an old paper from Sibley in the 1950’s - I think 1957 but my memory is not great for that sort of thing) that gets at these issues. When taxa (or at least males) are very different in appearance, we tend to split, and if things look more similar, we tend to lump. So emberizids might have long terminals as the plumage differences do not appear large to us, so we define things as a species that perhaps should be multiple species (and possibly in thraupids  we considered each obvious coloration change as reflecting a different species).
