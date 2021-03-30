@@ -37,6 +37,8 @@ cat hpass.html pant.out tpass.html | tr -d '\r' > pass.html
 echo make cb2
 c:/zoonomen/avtax/cb2.sh
 ls -l c:/zoonomen/avtax/cb2
+ls -l c:/zoonomen/avtax/x.?
+echo end cb2 creation
 cp -puv c:/zoonomen/avtax/n/?.html c:/zoonomen/avtax/n/bak
 cat c:/zoonomen/avtax/n/bak/?.html| tr -d '\015' > c:/zoonomen/avtax/n/bak/stor/cat.001
 cp -puv c:/zoonomen/cit/jour?.html c:/zoonomen/cit/bak
