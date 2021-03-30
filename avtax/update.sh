@@ -24,21 +24,24 @@ cd c:/zoonomen/avtax/numfile
 echo run num.scr
 #
 c:/zoonomen/avtax/numfile/num.scr
+echo run cbmake.sh
 c:/zoonomen/avtax/numfile/cbmake.sh
 #c:/zoonomen/avtax/numfile/zlst.scr
 cat c:/zoonomen/avtax/numfile/0*.html > ../wb.html
 #
 #
-#cd c:/zoonomen/avtax
-#cat `ls ./numfile/0*pa*.html` | tr -d '\r' > pa01.out
-#awk -f c:/awk/notab.awk pa01.out > pant.out
-#cat hpass.html pant.out tpass.html | tr -d '\r' > pass.html
-#./cb2.sh
-#cp -puv c:/zoonomen/avtax/n/?.html c:/zoonomen/avtax/n/bak
-#cat c:/zoonomen/avtax/n/bak/?.html| tr -d '\015' > c:/zoonomen/avtax/n/bak/stor/cat.001
-#cp -puv c:/zoonomen/cit/jour?.html c:/zoonomen/cit/bak
-#cp -puv c:/zoonomen/bio/bio?.html c:/zoonomen/bio/bak
-#cp -puv c:/zoonomen/avtax/numfile/cball.html c:/zoonomen/avtax
+cd c:/zoonomen/avtax
+cat `ls ./numfile/0*pa*.html` | tr -d '\r' > pa01.out
+awk -f c:/awk/notab.awk pa01.out > pant.out
+cat hpass.html pant.out tpass.html | tr -d '\r' > pass.html
+echo make cb2
+c:/zoonomen/avtax/cb2.sh
+ls -l c:/zoonomen/avtax/cb2
+cp -puv c:/zoonomen/avtax/n/?.html c:/zoonomen/avtax/n/bak
+cat c:/zoonomen/avtax/n/bak/?.html| tr -d '\015' > c:/zoonomen/avtax/n/bak/stor/cat.001
+cp -puv c:/zoonomen/cit/jour?.html c:/zoonomen/cit/bak
+cp -puv c:/zoonomen/bio/bio?.html c:/zoonomen/bio/bak
+cp -puv c:/zoonomen/avtax/numfile/cball.html c:/zoonomen/avtax
 ##2020.05.27
 ##Next line creates a file that prepends file name from
 ##numfile and lists output in taxonomic order.
@@ -53,4 +56,4 @@ cat c:/zoonomen/avtax/numfile/0*.html > ../wb.html
 ##mv znls*.* c:/zoonomen/avtax/znlst/
 ##mv znsponlyd.lst c:/zoonomen/avtax/znlst/
 #
-#cat hpass.html pant.out tpass.html > pass.html
+cat hpass.html pant.out tpass.html > pass.html
