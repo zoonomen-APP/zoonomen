@@ -34,8 +34,19 @@ cd c:/zoonomen/avtax
 cat `ls ./numfile/0*pa*.html` | tr -d '\r' > pa01.out
 awk -f c:/awk/notab.awk pa01.out > pant.out
 cat hpass.html pant.out tpass.html | tr -d '\r' > pass.html
+
+#2021.03.31 add cball make required for correct x.1
+
+cat ./numfile/0*.html c:/txt/d1 > c:/zoonomen/avtax/cball
+
 echo make cb2
-c:/zoonomen/avtax/cb2.sh
+
+cat c:/zoonomen/avtax/cball |tr -d '\015' > c:/zoonomen/avtax/x.1
+cat c:/zoonomen/avtax/x.1 |sed -f c:/sedscr/s.sed > c:/zoonomen/avtax/x.2
+cat c:/zoonomen/avtax/x.2 |awk -f c:/awk/s1.awk > c:/zoonomen/avtax/x.3
+cat c:/zoonomen/avtax/x.3| tr -d '\015'|sed -f c:/sedscr/tagsed > c:/zoonomen/avtax/cb2
+
+#c:/zoonomen/avtax/cb2.sh
 ls -l c:/zoonomen/avtax/cb2
 ls -l c:/zoonomen/avtax/x.?
 echo end cb2 creation
