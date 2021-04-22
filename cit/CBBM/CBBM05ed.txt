@@ -2057,7 +2057,7 @@ Philomela orpliea (Temm.) apud Jerdon^ Madras Journ. x. p. 267
 
 (1830). 
 Curruca jerdoni, Bh/th, J. A. S. Benq. xvi. p. 439 (1847). 
-Sylvia jerdoni (Blyth), Bhjth, Cat. B. Mm. As. Soc. p. 187 (1849) ; 
+Sylvia jerdoni (Blyth), Blyth, Cat. B. Mm. As. Soc. p. 187 (1849) ; 
 
 Bp. Consp. I p. 294 (1850); Gray, Hand-L B. i. p. 214 no. 3022 
 
@@ -2287,7 +2287,7 @@ Misc. ii. p. 170 (1877), apud David et Oust. Ois. Chine, p. 210
 Sterparola curruca (Linn.), apud Hume, Nests #• Eggs Ind. B. pt. ii, 
 
 p. 373 (1874). 
-Sylvia curruca (Linn.), subsp. affinis Bhjth, Seebohm, Ibis, 1879, p. 8. 
+Sylvia curruca (Linn.), subsp. affinis Blyth, Seebohm, Ibis, 1879, p. 8. 
 This is an Eastern form. Differs from the typical species only in 
 having the second primary generally intermediate in length between 
 the sixth and seventh, in rare instances between the seventh and 
@@ -2335,7 +2335,7 @@ c2
 Ourruca cinerea (Lath.), apucl Jerdon, Madras Journ. x. p. 2»18 (1889). 
 Sylvia affinis, Blyth, apud Jerdon, B. Lid. ii. p. '200 (1863), apud 
 Leyye, Birds of Ceylon, p. SSi (1870). 
-Sylvia althea, Ilume, Stray Feath. vii. p. 60 (1878). 
+Sylvia althea, Hume, Stray Feath. vii. p. 60 (1878). 
 This is a Himalayan form, differing from the European species 
 in having the upper parts an almost uniform bluish grey, the back 
 being* suffused with brown to an all but imperceptible extent. The 
@@ -4230,7 +4230,7 @@ to 2-0, female 2-0 to 1-85; culmen 0-45 to 0*5; tarsus 0*85 to 0*75.
 2 . PlIYLLOHCOPUS. 
 49 
 
-Blytli's Willow-Warbler probably breeds in the EaHtcrn Himalayas, 
+Blyth's Willow-Warbler probably breeds in the EaHtcrn Himalayas, 
 not having been found .further west than Nepal, it winiet's in 
 Lower Bengal, Assam, Pegu, and the Tonasscrim Provinces, ami 
 has been found in the Philippines. 
@@ -4419,7 +4419,7 @@ Phyllopneuste nitidus (Blyth) apud Gray, Cat Mamm. §* B. Nepal
 
 'Coll llodgs. p. (JO (184U). 
 Acanthiza trochiloides, Sundev. Ann. Nat. Hist x\iii. p. 252 (1840). 
-Culicepeta trochiloides (Sand.), Bhjth, J. A. S. Beng. xvi. p. 442 
+Culicepeta trochiloides (Sand.), Blyth, J. A. S. Beng. xvi. p. 442 
 
 (1847). 
 Regulus trochiloides (Sund.), Gray, Gen. B. l. p. 175 (1848). 
@@ -4444,7 +4444,7 @@ P'hylloscopus viridipennis (Bti/ih) tipud Seebohm, Ibis, 1877, p. 82.
 Pliylloscopus (Reguloides) ilavo-olivaceus, Hume, Str. F v. p. 504 
 
 (1877;. 
-Phyllopneuste viridipennis (Bhjth) apud Giebel, Thes. Orn. in. p. 122 
+Phyllopneuste viridipennis (Blyth) apud Giebel, Thes. Orn. in. p. 122 
 (1877). 
 Eeguloidesflavo-olivaceus{Hume), Hume, St?\ F. vi. p. 358 (1878). 
 Spring plumage. General colour of the upper parts olive-green, 
@@ -6598,7 +6598,7 @@ c. Ad. sk. Greece (Parzudahi). Purchased.
 d. Ad. sk. Constantinople. F. Godman and O. 
 Salvin, E&qrs. [P.]. 
 e,f, g, h. $ $ad. sk. Palestine. Canon Tristram [C.]. 
-*. c?*acl. sk. Palestine, April (Tiis- F. God man and O. 
+*. c?*acl. sk. Palestine, April (Tiis- F. Godman and O. 
 
 tram). 
 Sahin, E^qrs. | P.]. 
@@ -8128,7 +8128,7 @@ Sylvia (Acrocephalus) agricola, Jerd. Madras Journ. xiii. pt. 2,
 p. 131 (1844). 
 ?, Hodgs. MS. Drawings (in the Brit. Mus.) of B. of Nepal, 
 Passeres, App. pi. 38. no. 903. 
-Calamoherpe agricola (Jerd.), Bhjth, J. A. S.Beng. xiv. p. 595 (1845); 
+Calamoherpe agricola (Jerd.), Blyth, J. A. S.Beng. xiv. p. 595 (1845); 
 Bp. CoTisp. L p. 285 (1850). 
 Calamodyta agricola (Jerd.), Gray, Gen. B. i. p. 172 (1848) j Gray, 
 Hand-l. B. i. p. 207. no. 2921 (18G9). 
@@ -8363,7 +8363,7 @@ Acrocephalus fasciolatus, Gray, P. Z. S. 1800, p. 349; Seebo/im,
 P. Z. S. 1877, p. 800; TweedMe, P. Z. S. 1878, p. 430. 
 Acrocephalus insularis, Wallace, Ibis, 1862, p. 330. 
 Calamoherpe fumigata, SwinJioe, P. Z. S. 1803, pp. 91, 293. 
-Locustella fasciolata {Gray), Blytli, Ibis, 1807, p. 21 j Seebohn, Ibis, 
+Locustella fasciolata {Gray), Blyth, Ibis, 1807, p. 21 j Seebohn, Ibis, 
 1879, p. 15. 
 Locustella insularis (Wallace), Blyth, Ibis, 1867, p. 21. 
 Cala'modvta fumigata (SwinL), Gray, Hand-l P. i. p. 207. no. 2937 
@@ -9221,7 +9221,7 @@ Calamodytaaedon (Pall) I Gray, ILmd-L B. i-jp. 208.no. 2939(1800).
 Arundiuax aedou {Pall.), ISwinhoe, P. Z. S. 1871, p. 3o3; Tacz. Journ. 
 
 
-Om. 1872, p. 353; IValden, Ibis, 1873, p. 307; Bhjth $> JTalden, 
+Om. 1872, p. 353; IValden, Ibis, 1873, p. 307; Blyth $> JTalden, 
 
 B. Barm. p. 104 (l87o); Tacz, Bull. Mac. Zool. France, ii. p. 137 
 (1870); Prjev. Bowlei/s Orn. Misc. 1877, p. 109; David et Oust, 
@@ -9383,8 +9383,8 @@ Nepal, Passeres, pi. 53. no. 826, uncle Ilodgs. Gray's Zoo'l. Misc.
 
 p. 82. no. 826 (1844, desc. null.) ; Gray, Cat. Mamm. §c. Nepal 
 Coll. Ilodgs. pp. 64, 151 (1846, desc. secund.). 
-Dumeticola thoracica, Bhjth, J. A. S. Beng. xiv. p. 584 (1845, desc. 
-pirn.) j Bhjth, Cat. B. Mus. As. Soc. p. 183 (1849). 
+Dumeticola thoracica, Blyth, J. A. S. Beng. xiv. p. 584 (1845, desc. 
+pirn.) j Blyth, Cat. B. Mus. As. Soc. p. 183 (1849). 
 Calamodyta affinis (Jlodgs.), Ch-ay, Gen.B. i. p. 172 (1848): id.Hand-l 
 
 B.i. p. 208. no. 2950 (1869). 
@@ -10319,7 +10319,7 @@ Capt. Stackhouse Pinwill
 4. Cettia pallidlpcs. 
 Phylloscopus pallidipes, Blanf. J. A. S. Bmq. xli. pt. ii. p. 1<>2, pi. \ii. 
 (1872). 
-Iloreites sericea, Walden, Bhjth § Wald. B. Barm, p. 11 J) (1875, 
+Iloreites sericea, Walden, Blyth § Wald. B. Barm, p. 11 J) (1875, 
 tiee Tetnm,). 
 Oettia pallidipes (Blanf.), Seelohn, Ibis, 1879, p. SO, 
 
@@ -12154,7 +12154,7 @@ the only example known to exiht is in the collection of Allan Hume,
 Esq. 
 
 21. G-eacichla spiloptera. 
-Oreocincla spiloptera, Bhjth. J. A. S. Bern/. x\i. p. 142 (1847); Blytli, 
+Oreocincla spiloptera, Blyth. J. A. S. Bern/. x\i. p. 142 (1847); Blyth, 
 Oaf. B. Mm. As. Soc. p. 100 (1849) ; %Eelamt, Pradr. Cat. p. 1:22 
 (1852) ; Layard, Ann. Nat. Hist. 1853, p. 270; Bh/th, Ms, 1S07, 
 
@@ -12473,7 +12473,7 @@ PetrocosHyphus eiirinus (Lath.), <7/w/, Cat. Mamm. *Sv. Nepal Coil.
 
 Jlodys.]}. 70 (18J(>). 
 
-Goocichla cilrina {Lath,), Bhjth, J. A. S. Bentj, \\L p. I to (1817); 
+Goocichla cilrina {Lath,), Blyth, J. A. S. Bentj, \\L p. I to (1817); 
 
 id. Cat. B. Man. As. tioe. p. I<5;5 (1H44>) ; Bp. Consp. i. p. 2(58 
 
@@ -12672,7 +12672,7 @@ cS ad. sk. S. Andaman*, Mar. 3, 1874 It. B. Sharpe, Esq. [P.],
 32. Geocichla albogularis. 
 Geocichla albogularis, Bli/th, J. A. S. B. xvi. p. 140 (1847) • Hume, 
 Sir. F. 1874, p. 221 (partim); id. 6'tr. F. 1876, p. 280 (parfim). 
-Geocichla innotata, Bhjth, 2 • aPi(d Bh/th, Cat. B. 3Ius. As. Soe, 
+Geocichla innotata, Blyth, 2 • aPi(d Bh/th, Cat. B. 3Ius. As. Soe, 
 
 
 p. 103 (184D) ; apudBp. Cunsp. i. p. 208 (1850). 
@@ -13008,7 +13008,7 @@ Of. Br, ii. pi. xl. (187;!).
 Greocincla sibirica {Pall.), J(tub. et Barth.-Lapomm, Bivh. Orn. 
 
 p. 202 (1850). 
-Oreociucla inframarginata, Bhjth, J. A. & Bony, xxix. p. 10i5 (1800); 
+Oreociucla inframarginata, Blyth, J. A. & Bony, xxix. p. 10i5 (1800); 
 Beamn, Ibis, 1807, p. 323 • 7?/yM; /6w; 1808, p. 102 • #^//; 6<fr«y 
 2W/*. 1873, p. 70. 
 
@@ -15540,7 +15540,7 @@ and Panama in Central America, where it is supposed to be a
 resident. 
 
 The British Museum does not possess an example of this species; 
-but skins are in the collection of Messrs. Salvin and God man and in 
+but skins are in the collection of Messrs. Salvin and Godman and in 
 my own, 
 
 32. Tnrdus nigrirostris. 
@@ -18712,7 +18712,7 @@ Bmg. xli. pt. 2, p. 142 (1872) ; Seebohm, JP. Z. S. 1879, p. 805,
 pi. fxiv. 
 
 Geociehla 
-dissimilis (BlytJi), Blyth, Cat. B. Mus. As. 8oc. p. 1G3 
+dissimilis (Blyth), Blyth, Cat. B. Mus. As. 8oc. p. 1G3 
 (1849, <$, nee $ ) ; Bp. Consp. i. p. 208 (1850); Jerdon, Ibis, I<s72, 
 
 p. 136, pi. vi.; Hume, Nests § JEggs Lid. B. p. 231 (1873); Hume, 
@@ -21597,7 +21597,7 @@ Cyanecula orientals, Brehm, Tog. Deutschl p. 853 (1831).
 Phcemcura suecica {Linn.), Sylces. P. Z. S. 1832, p. 92: Jerd. Mmlr. 
 
 Joum. x. p. 207 (1830). 
-Pandicilla suecica {Linn.), Bhjth, Field Nat. i. p. 201 (1833). 
+Pandicilla suecica {Linn.), Blyth, Field Nat. i. p. 201 (1833). 
 JRuticilla cyanecula {Wolf), apud Margill. Br. H. ii. p. 300 (1830). 
 Lusciola suecica (Linn.), Keys, u. Bias, Wirb. Eur. pp. lviii, UK) 
 
@@ -21872,7 +21872,7 @@ Petrocincla, Vigors, Zool. Journ. ii. p. 396 (1826). . M. saxatilis.
 Petrocossyphus, Bote, Isis, 1826, p. 972 M. saxatilis. 
 Petrophila, Swains. Class. Birds, ii. p. 232 (1837) . M. cinclorhyncha. 
 Orocetes, Gray, List Gen. Birds, p. 21 (1840) M. cinclorhyncha. 
-Cyanocincla, Ilume, Nests 8r Bggs Ind. Birds, p. 2-NI 
+Cyanocincla, Hume, Nests 8r Bggs Ind. Birds, p. 2-NI 
 (1873) ' M. cyanus. 
 
 
@@ -24417,7 +24417,7 @@ Sylvia aurorea (Gmel.), Lath. Ind. Orn. ii. p; 527 (1790).
 Sylvia (Phoenieura) reevesii, Gray, Zool Misc. 1831, p. 1. 
 Phoenieura reevesii {Gray), McClelland\ P. Z. S. 1839, p. 161. 
 Phoenieura leucoptera, Blyth, J. A. S. Beng. xii. p. 902 (1843). 
-Ruticilla leucoptera (Blyth), Gray, Gen. B. i. p. 180 (1840); Blytli, 
+Ruticilla leucoptera (Blyth), Gray, Gen. B. i. p. 180 (1840); Blyth, 
 J. A. S. Beng. xvi. p. 134 (1847); id. Cat. B. Mm. As. Soc. p. 108 
 (1849) ; JBp. Consp. i. p. 290 (1850); Moore, P. Z. S. 1854, p. 28; 
 Gray, Hand-l. B. i. p. 221. no. 3100 (1809). 
@@ -24516,7 +24516,7 @@ LiL-ciola erytlirogastra (Giild.), ScM. Rev. Crit. p. xxxi (1844);
 
 Fritsch, tog. Eur. p. 180 (1870). 
 Ruticilla graadis, Gould, P. Z. S. 1849, p. 112. 
-Ruticilla erytlirogastra (Giihl), Bhjth, Cat. B. Mits. As. 8oe. p. 108 
+Ruticilla erytlirogastra (Giihl), Blyth, Cat. B. Mits. As. 8oe. p. 108 
 
 (1849); Bp. Consp. i. p. 290 (1850); Gould, B. Asia, i. pi. 49 
 (1851); Horsf. $ Moore, Cat. B. Mm. E.L Co. i. p. 304 (1854); 
@@ -24711,8 +24711,8 @@ Hodgs. Gray's Zool Misc. p. 83 (1844).
 
 Ruticilla frontalis ( Vigors), Gray, Cat. Mamm. §c. Nejml Coll. Hodgs. 
 
-p. 68 (1840) • Bhjth, J. A. S. Beng. xvi. p. 134 (1847)- Gray, Gen. 
-B. i. p. 180 (1848); Bhjth, Cat. B. Mm. As. Soc. p. 108 (1849)• 
+p. 68 (1840) • Blyth, J. A. S. Beng. xvi. p. 134 (1847)- Gray, Gen. 
+B. i. p. 180 (1848); Blyth, Cat. B. Mm. As. Soc. p. 108 (1849)• 
 Bp. Consp. i. p. 206 (1850); Horsf. § Moore, Cat B. Mm. E.I. Co. 
 i. p. 308 (1854) ; Jerd. B. Ind. ii/p. 141 (1863), Gray, Hand-IB. 
 I. p. 221. no. 31G2 (1809) ; Godtv.-Aust. J. A. S. Beng. xxxix. pt. 2, 
@@ -25915,7 +25915,7 @@ Sis-i-jum,S.W.ofKamian, TV. T. Blaiiford, Esq. C.].
 
 S. Persia, 0500 feet. 
 4. Saxicola capistrata. 
-Saxicola leucomela (Tall.), apitd BlytJi, J. A. S. Beng. xvi. p. 131 
+Saxicola leucomela (Tall.), apitd Blyth, J. A. S. Beng. xvi. p. 131 
 (1847); apud Blyth, Cat. B. Mm. As. Sor. p. 107* (1849): apud 
 Jerd. B. Ind. ii. p. 131 (180*3) ; apud Dresser, Ibis 1875, p. 33f>. 
 

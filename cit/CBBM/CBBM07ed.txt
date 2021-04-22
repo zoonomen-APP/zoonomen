@@ -1403,7 +1403,7 @@ Page ,
 5. palustre, Gould
 
 6. Scotociclila, Sharpe ....
-^ 1. fuscicapilla (Bhjth) ....
+^ 1. fuscicapilla (Blyth) ....
 
 7. Crosslejia, Hartl
 
@@ -1493,7 +1493,7 @@ a. lepido^enrus, Bp. . . 539
 
 y. epilepidotus(7T<e??2W.). 540 
 
-1. abbotti (Bhjth) 541 
+1. abbotti (Blyth) 541 
 2. eelebensis (Strickl) .... 542 
 3. gularis (Sharpe) 543 
 4.ftmchi (Wald.) 543 
@@ -3312,10 +3312,10 @@ Myioniela leucura, Gray, Gen. B. t p. 128 (1846): Bp. Consp. i.
 
 p. 2ti7 (1850) -Horsf. $ Moore, Cat. B. B.I. Co. Mus. i. p. 280 
 (1834); Jerd. B. Inl ii. p. 118 (1863) ; Beavan, Ms, 1867, p. 444; 
-Bhjth £ Wald. B. Burm. p. 100 (1875); Godwin-Austen, J. A. S. B. 
+Blyth £ Wald. B. Burm. p. 100 (1875); Godwin-Austen, J. A. S. B. 
 sly. p. 70 (1876); Hume % Davison, Sir. F 1878, i. p. 334; 
 Hume, Str. F. 1879, p. 99,1880, p. 254; Dates, B. Brit Burm. p. 23. 
-Xotodela leucura, Bhjth, J. A. S. B. xvi. p. 138 (1847) ; id. Cat. B. 
+Xotodela leucura, Blyth, J. A. S. B. xvi. p. 138 (1847) ; id. Cat. B. 
 Mvs. As. Soc. p. 106 (1849) ; Gray, Hand~L B. i. p. 222, no. 3182 
 (18G9) ; mime, Str. F 1874, p. 477; id. Nests $ Eggs Ind. B. 
 
@@ -3692,7 +3692,7 @@ Hub. Java.
 
 a. $ ; b,c. 2 ad. sk. W. Java. A. R Wallace, Esq. [C.J 
 5. Brachypteryx hyperythra. 
-Brachypteryx hyperythra, Jerd. $ Blytli, P. Z. S.1861, p. 201 (descr. 
+Brachypteryx hyperythra, Jerd. $ Blyth, P. Z. S.1861, p. 201 (descr. 
 $ ) ; Jerd. B. 2nd. i. p. 495, no. 337 (1862) ; Gray, JETand-l B. L 
 
 p. 312, no. 4666 (1869) : JIume, Str. 21 1877, p. 499 (descr. d) ; 
@@ -5810,12 +5810,12 @@ Lanius musicus, Bqffi. t. c. p. 307 (1820).
 Copsychus saularis, Wagler, Syst. Av., note to gemts Gracula (1827); 
 
 Blyth, J. A. S. Beng. xi. p. 889 (1842); Gray, Gen. B. i. p. 177 
-(1846); Blytli, Cat. B. Mm. As. Soc. p. 16(5 (1849); Bp. Consp. 
+(1846); Blyth, Cat. B. Mm. As. Soc. p. 16(5 (1849); Bp. Consp. 
 
 i. p. 267 (1850) ; Sorsf. $ Moore, Cat. B. E.L Co. Mm. i. p. 275 
 (1854); Myth, Ibis, 1859, p. 465; Swinh, Ibis, 1860, p. 54; 
 Sclater, P. Z. S.1861, p. 186; Jerd, B. Ind. ii. p. 114 (1863); Swi?ih. 
-Ibis, 1863, p. 33; Sohomb. Ibis, 1864, p. 62; Blytli, Ibis, 1866, 
+Ibis, 1863, p. 33; Sohomb. Ibis, 1864, p. 62; Blyth, Ibis, 1866, 
 p. 220, & 1867, pp. 11,304; Beavan, t. c. pp. 327,443; Gould, B. Asia, 
 part xviii. (1808); Stoliczka, J. A. S. Beng. xxxvii. p. 40 (1868) ; 
 King, t c. p. 215; Peh. Ibis, 1868, p. 308; Gray, Hand-l. B. i. 
@@ -6876,7 +6876,7 @@ Esqrs. [P.].
 Sir A. Smith [C.]. 
 (Type of JB. pectoraiis.) 
 
- TIMELIID^, 
+ TIMELIDAE, 
 
 4. Erythropygia munda. 
 Aedon leucoplirys (non J7".), Gtirney in Anderss. S. Dam. Ld. p. 92 
@@ -8952,7 +8952,7 @@ TIlIELIIllS.
 Timalia 
 platyura, Jerd. Madr. Joum. xiii. p. 170 (1844); Gray. 
 Hand-l B. i. p. 315, no. 4706 (I860). 
-Schoenleola platyura, Bhjth, J. A. S. Bmg. xfii p. 374 (1844); Jerd. 
+Schoenleola platyura, Blyth, J. A. S. Bmg. xfii p. 374 (1844); Jerd. 
 
 B. hid. ii. p.*73 (1863) ; Hume, Sfr. F. 1878, TOL II. p. 37; id. 
 Str. .F. 1879,'p. 97; Brooks, Str. F. 1881. p. 209; Hume, t c. 
@@ -14757,10 +14757,10 @@ Drynioiea STlTatica, Blyth, J. A. S. Beng. x\L p. 458 (1847); Gray,
 Gen.B. i. p. 164 (1848); Blyth, Cat. B. Mus. As. Soc. p. 142 
 (1849) ; Sorsf: # Moore, Cat. B. B.I. Co. Mus. i. p. 327 (1854). 
 
-Dnmoica jerdoni, Bhjth, J, A. 8. Beng. xvi. p. 459 (1847); id. Cat. 
+Dnmoica jerdoni, Blyth, J, A. 8. Beng. xvi. p. 459 (1847); id. Cat. 
 
 B. Mus. As. Soc. p. 142 (1849). 
-Drymoica neglecta, Gray, Gen. B. i. p. 164 (1848) ; Bhjth, Cat. B. 
+Drymoica neglecta, Gray, Gen. B. i. p. 164 (1848) ; Blyth, Cat. B. 
 Mm. As. Soc. p. 142 (1849); Ronf. % Moore, Cat B. B.l. Co. 
 Mus. i. p. 328 (1854); Ball, Str. F. 1878, vol. ii. p. 218. 
 
@@ -15944,7 +15944,7 @@ Orthotomus edela, Temm. PL Col. ill. pi. oOO.fisr.2 flSSU); Gray
 6te». JB. i. p. 102 (1548); Bh/fh, Cat. B. Mm. As. Sue. p. 144 
 (1849) ; Bp. Gump, i. p. 282 (1850i; Moore. P. Z. S. 1554. p. 79: 
 Horsf. £ Moore, Cat. B. Ed. Co. Mus. i p. 314 I1S.J4| / Gray. 
-Hand-L B. i. p. 195, no. 26S3 f 1500j: Waidea in Bhjth\ B. Burm* 
+Hand-L B. i. p. 195, no. 26S3 f 1500j: Waidea in Blyth\ B. Burm* 
 
 p. 120 (1875) ; Sharpe, Ibis, 1S77, p. 112. 
 A very doubtful species, of which I have seen three specimens. It 
@@ -16822,7 +16822,7 @@ b. Ad. sk. Ja\a. M. Verreaux.
 Orthotonus coronatus, Jercl § Bh/th, P. Z. S. 1801, p. 200; Jerd. B 
 Inch ii. p. 168 (1803); Gray, IIand-1. B. i. p. 195, no. 2688 (1869) ' 
 Godw.-Aust. J. A. S. B, xxx\iii. p. 107 (1870) ; Hume, Nests Sc 
-Eggs 2nd. B. p. 334 (1873) ; Walden in BlytVs B. Burm. p. 121 
+Eggs 2nd. B. p. 334 (1873) ; Walden in Blyths B. Burm. p. 121 
 (1875) j Sharpe, Ibis, 1877, p. 115; Hume and Davison, titr, F 
 1878, vol. vi. p. 340 j Hume, 6(tr. F. 1879, p. 101. 
 
@@ -18334,7 +18334,7 @@ p. 3 (1840); Gray, Gen. B. i. p. 162 (1848)$ Myth, Cat B. Mus.
 As. Soe. p. 143 (1849); Bp. Consp. i. p. 284 (1850); Jerd. B. Ind. 
 ii. p. 172 (1863); Beavan, Ibis, 1867, p. 459 ; Gray, Hand-l B. i. 
 p. 196, no. 2699 (1869); Hume, Wests £ Eggs hid. B. p. 341 
-(1873); Ball, Sir. F. 1874, p. 414; Wold, in Bhjth B. Burm. 
+(1873); Ball, Sir. F. 1874, p. 414; Wold, in Blyth B. Burm. 
 p. 119 (1875); Hume $ Oates, Sir. F. 1875, p. 136; Brooks, f. c. 
 p. 242 ; Butler, t e. p. 480; Ball, Str. F. 1877, p. 217; Hume, i. c. 
 p. 217; Lloyd, Ibis, 1876, p. 280; Anders. Zool. Exped. Yunnan, 
@@ -22563,7 +22563,7 @@ mail Nov. 13, 1S7^ (J.
 Darling). 
 5. Henicurns gttttatns. 
 Enicurus maculatus. pt. (nun Viy-h Gray, Cat. Mamm. etc. Nepal 
-pres. Hodgs. p. 70 WO); BhjthrJ, A. S. Beny. x\L p. lot* (1*47) ; 
+pres. Hodgs. p. 70 WO); BlythrJ, A. S. Beny. x\L p. lot* (1*47) ; 
 Horsf. # Moore, Cat. B. EJ. Co. Mm. L p. 34fj {1&.34); Jerd. B. 
 Ind.\i. p. 212 (1&IJ3); Beavaa. Ifoi<, l'sUS, p. 75. 
 
@@ -22610,7 +22610,7 @@ Tenasserim and Southern China.
 
 a. Ad.sk. Himalayas. Gould Collection. 
 I. 
-Ad. sk. Himalayas (Bhjth). Gould Collection. (Type 
+Ad. sk. Himalayas (Blyth). Gould Collection. (Type 
 of species.) 
 c, d. Ad. sk. Nepal. B. H. Hodgson, Es^. [P.]. 
 e,f,g. Ad. sk. Xejal (Hodgson). India Museum. 
@@ -24920,7 +24920,7 @@ Hah. Mountains of Xorth China and Mongolia.
 12. 
 TR0CHAL0PT1EF1:. 
 Ivpe. 
-Troehalopteron, Bhjth, J. A. S. B-tiq* xil. p. $52 
+Troehalopteron, Blyth, J. A. S. B-tiq* xil. p. $52 
 (1843; r Typo nulio. 
 Trochalopi eron, Iforh/s. in Gray's Z<mL Mm-, p. b'4 
 (1844) * ! T. «quamatum. 
@@ -25593,7 +25593,7 @@ Male. The lores blackish dusky; the extreme tip of the chin
 dusky ; rest of chin, entire throat, cheeks, ear-coverts, upper neck 
 aE round, forehead, crown, occiput, and upper part of nape deep 
 
-364 TIMELIID^;. 
+364 TIMELIDAE;. 
 
 chestnut-red, a little brighter on top of head, a little duller on the 
 throat; upper breast similarly coloured but paler; lower breast 
@@ -25628,7 +25628,7 @@ Hah. Eastern hills of llunipur.
 
 8. Trochalopteron melaHostigma, 
 Trochalopteron melanosti^ma. Bh/th,J. A, S, Stuff, xxi v. p. 2CS (1*55); 
-Blytli § Walchn7B. Burnt, p. 10*, no. :JI« fl*;5t; Wardlaw 
+Blyth § Walchn7B. Burnt, p. 10*, no. :JI« fl*;5t; Wardlaw 
 Ramsay* Ibis^ 1*77, p. 404; llume §• Davteon* Sfr. F, 1*78, vol. i. 
 
 p. 291; Hume. Sfr, F. Ih7df f. 97; Gould, B. Aat'a, part xxxIIL 
@@ -25823,7 +25823,7 @@ Ianthocincla squamata, Gould, JR. Z. S. 1835, p. 48; Jard. § SelbyP
 111. Orn. new series, pi. iv. (1830). 
 Cinclosoma melapuruin, Hodgs. Asiat. Research xix. p. 147 (1836) -? 
 id. Icon. hied, in Brit Mas., Fasseres, pis. 169,170. tig. 2 (no. 376), 
-Garrulax squamatu>, Blytli, J, A. 8. Beng. xii. p. 951 (1843), xh\ 
+Garrulax squamatu>, Blyth, J, A. 8. Beng. xii. p. 951 (1843), xh\ 
 
 p. 599 (1845) ; id. Cat. B. Mm. As. Soc. p. 90 (1849). 
 Trochalopteron rnelanuram, Hodgs. in Gray's Zool Misc. p. 8$ 
@@ -26963,7 +26963,7 @@ with golden buff rufuhts, p. 386.
 b. Tail-feathers edged along the inner web and tipped 
 with white torquatus, p. 387. 
 1. Gampsorhynchns rufulus. 
-Gampsorhynchus rufulus, Bhjth, J. A. S. Beng. xiii. p. 371 (1844), 
+Gampsorhynchus rufulus, Blyth, J. A. S. Beng. xiii. p. 371 (1844), 
 
 xiv. p. 596 (1845), xvi. p. 452 (1847), xviii. p. 813 (1849); id. 
 Cat. B. Mas. As. Soc. p. 150 (1850); Bp. Consp. I p. 358 (1850) ; 
@@ -27358,7 +27358,7 @@ Jfo/s <$• Eyys Lid. B. p. 27o (1-7;)} ; Jam^\ Sir. F. 1 *73 p 400 !
 .H ^ tf*V. P. 1^73, p. 1:H, l-7fi. p. 41, 1-77, p. 34, 1-7U, p. ^7:? 
 Ifatf/'r, Cto. I>\ Stiidttv. p. *iU (l-7i^; 0«/^ B. Brif. Burm p 30 
 (1&-3). ^ ' ' *' 
-Crateropus earlii, Blytli § Wald. B. Burm. p. IIS (l-7»j). 
+Crateropus earlii, Blyth § Wald. B. Burm. p. IIS (l-7»j). 
 
 Adult. General colour above dull fulvous-brown, thickly mottled 
 on the head and mantle and back with blacki&h-brown centres to 
@@ -27590,7 +27590,7 @@ d. Ad. sk, Jericho, Jan. 1, 1864 Gould Collection.
 (Tristram). 
 11, Argya gnlaris. 
 
-Chatorliea gularis, Blytli, J. A. B. Beng. xxiv, p. 478 (1855J; Jerd. 
+Chatorliea gularis, Blyth, J. A. B. Beng. xxiv, p. 478 (1855J; Jerd. 
 Ibis, 18C2, p. 19j Blanf. Ibis, 1870, p. 406; Bume, Str. F. 1875, 
 
 p. 124; Anders. Zool. Bxped. W. Yunnan, Avts, p. 03'J, pi. xMIL 
@@ -28609,7 +28609,7 @@ Adult. General colour above dark olive-brown ; wing-coverts
 like the back; the bastard wing and primary-coverts a little more 
 ashy brown; quills dusky brown, externally dark olive, shaded 
 
-412 TIMELIID^. 
+412 TIMELIDAE. 
 
 with grey near the base of the primaries ; tail-feathers dusky brown, 
 washed with olive-brown on the outer webs and barred across under 
@@ -28720,7 +28720,7 @@ back, and separated from the latter by a distinct rufous collar;
 " bill orange, black near the nostrils; legs slaty; iris straw-yellow" 
 
 (B. G. W. R.). Total length 7*7 inches, culmen 1*1, wing 3-15, 
-tail 3*3, tarsus 1*25. (21us. R. G. Wardlaw Ramsay.) 
+tail 3*3, tarsus 1*25. (Mus. R. G. Wardlaw Ramsay.) 
 Adult female (Thayetmyo, Sept. 1874). Similar to the male in 
 colour. Total length 9 inches, culmen 1*2, wing 3*4, tail' 3*9, 
 tarsus 1*2. (Mm. R. G. W. R.) 
@@ -28941,7 +28941,7 @@ d.
 1872. 
 6. Pomatorhintis ockraceiceps. 
 Pomatorhinus ochraceiceps, Wahlen, Ami. <§* Mag. Nat. Hist. (4) 
-xii. p. 487 (1873); id. in Blyttis B. Burm. p. 113 (1875); Hume, 
+xii. p. 487 (1873); id. in Blyths B. Burm. p. 113 (1875); Hume, 
 Str. F. 1875, p, 282 ; Wardlaw Ramsay, Ibis,1877, p. 465, pi. xiii.; 
 id. Ibis, 1878, p. 130; Hume $ Davison, Str. F. 1878, p. 281 j 
 Hume, Str. F. 1870, p. 96; Oates, B. Br. Burm. p. 73 (1883). 
@@ -29318,7 +29318,7 @@ is very doubtful,
 a. Ad. sk. KJiasia hills (Jerdon). Gould Collection. 
 14. Pomatorhinxts albigularis. 
 Pomatorhinus alboGrulari^ Bb/th, J. A. ft Benq. sxiy. p. 274 (1855) j 
-Gray, Hand-l 1). i. p. '11% m». 4894 {1800); Blytli § Wald. B. 
+Gray, Hand-l 1). i. p. '11% m». 4894 {1800); Blyth § Wald. B. 
 Burm. p. 113 (1875); Hume3 Sir. F. 1877, p. 136; Wardlaw 
 Mambay, Ibis, 1878, p. 13o, pi. v. fisr. 1; Hume fy Davison, Stir. F. 
 1878, vol. i. p. 281; Hume, Sir. jfl879, p. 98 Oates, B. Brit. 
@@ -29488,7 +29488,7 @@ Poinatoihinus ruficollis, Hodgs. Asiat. Research, six. p. 182 (1880);
 id. Icon. vied. in. Brit. Mvs.9 Passcres, pi. 153 (no. 239), 184. 
 fio-. 3 ; Rhjth, J. A. S. Reng. xi. p. 175 (1342); Hodgs. in'Gray's 
 Zool. Misc. p. 83 (1644); Gray, Cat. Mainui. etc. Xtjml pres. 
-Hodgs. p. 86 (1840): id. Gen. B. i. p. 229 (1840j; Bhjth, Cat. 
+Hodgs. p. 86 (1840): id. Gen. B. i. p. 229 (1840j; Blyth, Cat. 
 
 B. Mus. As. Soc. p. 147 (lb4£>>; Bo. toasp. i. p. '2z0 11^50); Cab, 
 Mm. Heiih Th. i. p. 84 (16-30) ; Iiorsf. ^ Moore, Car. B. EJ. Co. 
@@ -29620,10 +29620,10 @@ differ chieflv in the iris being pale yellow.*'
 Hab. S.E. China. 
 
 21. PomatorHnns hypoleucns. 
-Orthorhinus hvpoleucu*, BlytJi, J. A. S. Butg. siil. p. 371 (1844): 
+Orthorhinus hvpoleucu*, Blyth, J. A. S. Butg. siil. p. 371 (1844): 
 Hume, Mr. F. IN 7, p. «1, 1-70. p. OU, 1-0, p. 253. 
 
-Poinaturhiuu-s hvpnleueu3, Bhjth, J. A. S. Buvj. xiv. p. 597 (1845); 
+Poinaturhiuu-s hvpnleueu3, Blyth, J. A. S. Buvj. xiv. p. 597 (1845); 
 id. Cat. B. Mvs. As. 8*e. p. 14'> <W.h: Bp. Cony. i. p. 220 
 (1850); Horsf. $• Monre. Cat B. Z.I. £ \ J/*/*. I. p. i>:)0 (J654); 
 Jerd. B. Lid. iL p. &2 (1^'Oj: Cray, IIand-1. B. i. p. 278, no. 4103 
@@ -29684,8 +29684,8 @@ tail 3*9, tarsus 1*0. (JIus. E. E, Godiv in-Austen.)
 Hah Sikhim (?) to the Garo hills. 
 
 22. Pomatorhinus tickelii 
-Pomatorhinus hypoleucus, Blytli, J. A, S. Beng. xxiv. p. 273 (1855). 
-Pomatorhinus tickelii, Bhjth, MSS.; Tichell, Ibis, 1863, p. 118; 
+Pomatorhinus hypoleucus, Blyth, J. A, S. Beng. xxiv. p. 273 (1855). 
+Pomatorhinus tickelii, Blyth, MSS.; Tichell, Ibis, 1863, p. 118; 
 
 Gray, Hand-L B. i. p. 278, no. 4095 (1869); Wardlaw Ramsay, 
 Ibis, 187S, |>. 142; Gates, B. Brit Barm. p. 76 (1883). 
@@ -30081,7 +30081,7 @@ Orateropus leucolophus, Blyth, J. A. S. Beng. xi. p. 179 (1842);
 
 Hodgs. Icon. hied. Passeres, pis. 165, 1G6 (no. 205); id. in Gray's 
 Zool. Misc. p. 83 (1844). 
-Garrulax leucolophus, Blytli, J. A. S. Beng. xii. p. 948 (1843), xiv. 
+Garrulax leucolophus, Blyth, J. A. S. Beng. xii. p. 948 (1843), xiv. 
 
 p. 598 (1845); Gray, Cat. Mamm. etc. Nepal pres. Ilodgs. p. 82 
 (1846); Myth, Cat. B. Mus. As. Soc. p. 95 (1849); Bp. Consp. 
@@ -30089,7 +30089,7 @@ i. p. 370 (1850) ; Cab. in Ersch $ Gruber, Ally. Enctjcl Band 54,
 p. 61 (1852); Morsf. § Moore, Cat. B. E.I. Co. Mus. i. p. 201 
 (1854); Jerd. B. hid. ii. p. 35 (1863); Gray, Hand-l B. i. p. 281, 
 no. 4152 (1869); Hume, Nests and Eggs Bid. B. p. 253 (1873); 
-Blytlx, B. Bnrm. p. 107 (1875): Brooks, Mr. E. 1875, p. 238; 
+Blyth, B. Bnrm. p. 107 (1875): Brooks, Mr. E. 1875, p. 238; 
 Hume. Sir. F. 1879, p. 96; Scully, t c. p. 289; Oates, B. Brit. 
 J?«rm'p..34(1883). 
 Garrulax leucocephalus, Gray, Gen. B. i. p. 225 (1846). 
@@ -30161,7 +30161,7 @@ Ad. sk. Bassein. IViru. AY. T. Uhmibrd, Esq.
 2. flarrulax belangeri. 
 Garrulax belangeri, Zess. Tra'di rTOrn. p. KWi (1*31 i; id.in Btlcuiq. 
 Voy. hide, p.^oS, pL 4 il<}A\; JBhith, J. A. S. iJeur/. xii. p. 948 
-(1&43), xiv. p. 598 (1845); Gray, Yh>n. B. i. p, ±1?> (184r>); Bhjth, 
+(1&43), xiv. p. 598 (1845); Gray, Yh>n. B. i. p, ±1?> (184r>); Blyth, 
 Cat B. Mm. As. Soc. p. 92 (1B4M|; Bp. CUsji. I p. 37011 -50j.; Cab. 
 
 in Ersch 4* Grubery Alfrf. EneifcL Band oo. p. Gl f 18*>2i; Hornf. § 
@@ -30794,7 +30794,7 @@ a. Ad. sk. Stinting, Munipur. Col. Godwin-Austen [P.],
 12. G-arrxilax gnlaris. 
 Ianthocincla gnlaris, McClelL JP. Z. S. 1839, p. 159. 
 Crateropus gularis, Bh/tli, J. A. S. Beng. xi. p. 179 (1842). 
-Garrulax gularis, Bhjth, J. A. S. Beng. xii. p. 949 (1843); id. Cat. 
+Garrulax gularis, Blyth, J. A. S. Beng. xii. p. 949 (1843); id. Cat. 
 
 
 B. Mm. As. Soc, App. p. 337 (1849); Cab. in Ersch § Gruber, 
@@ -31060,7 +31060,7 @@ Turnagra, pt., auct. recent., nee Less.
 Grauamatoptila, Beichenh. Syst. Av. pi. Ixxxv. fig. 8 
 
 (1850) G. striata. 
-Kittasoina, Blytli, 1855 {teste Gray) G-, striata. 
+Kittasoina, Blyth, 1855 {teste Gray) G-, striata. 
 
 Range. Himalayas, extending to the hills of Eastern Bengal. 
 
@@ -31070,13 +31070,13 @@ Vigors, P. Z. S. 1830, p. 7 ; Gould, Cent. B. Himal.
 Mts. pi. 37 (1832) ; Hodgs. Icon. ined. in Brit. Mus., Basseres, 
 pis. 181,182 (nos. 2Q6, 207). 
 Keropia striata, Hodgs. in Gray's Zool. Misc. p. 83 (1844J ; Gray, Libt 
-Gen. B. 1840, p. 28; Blytli, J. A. S. Beng. xi. p. 178 (1842); Bp. 
+Gen. B. 1840, p. 28; Blyth, J. A. S. Beng. xi. p. 178 (1842); Bp. 
 Cotisp. i. p. 374 (1850) ; Ilorsf. $ Moore, Cat B. E.l. Co. Mus. i. 
 
 p. 209 (1854). 
 Turnagra striata, 
 Gray, Gen. B. i. p. 227 (lb40) : id. Cat. Mamm. 
-etc. Nepalpres. Hodgs. p. 85 (1840) ; Blytli, Cat. B. Mus. A*. Soc. 
+etc. Nepalpres. Hodgs. p. 85 (1840) ; Blyth, Cat. B. Mus. A*. Soc. 
 
 p. 95 (1849); Gray, Band-l B. i. p. 284, no. 4203 (1809). 
 Grammatoptila 
@@ -31086,7 +31086,7 @@ Hume, Nests §• Eggs hid. B. p. 237 (1873); Godwin-Austen,
 
 J.A.S. Beng. xhii. p. 15 (1878); Ball, Sir. F. 1878, vol ii. 
 p. 234; Scully, Sir. F. 1879, p. 2b7 ; Hume, Str. F. 1879, p. 95. 
-Kittasoina striata, Blytli, 1855 {teste Gray). 
+Kittasoina striata, Blyth, 1855 {teste Gray). 
 Adult General colour above rufous-brown, with a slight olive 
 wash, especially on the rump and upper tail-coverts, every feather 
 having a distinct white streak clown the centre, this central white 
@@ -31958,7 +31958,7 @@ Gould Collection.
 2. Actino&ura ramsayi. 
 Actmura ram^ivi, 
 Wahhn, Aan. 6c Mag. Xaf. IIi<t. |4) xv. p. 402 
-(1^75); Bum*, htr. F. l*>7o, p. 401;* Wakhti hi Bhjth, B. Burm. 
+(1^75); Bum*, htr. F. l*>7o, p. 401;* Wakhti hi Blyth, B. Burm. 
 
 p. 106(18/0}; Gofhcifi-Av^teni Ann. t_y J%. X H. (4) xvi. p. 340 
 (1&73); Ilambtirj, Ihh, 1^77, p. 404. pi. xii. 
@@ -32040,7 +32040,7 @@ Ixops nipalensis, Hodgs. Icon. hied, in Brit. Mus., Passeres, pi. 201
 
 Actinodura 
 nipalensis, Gray, Gen. B. i. p. 220 (1846) ; id. Cat 
-Mamm. etc. Nepalpres. Hodgs. p. 84 (1846); Bhjth, Cat. B.' Mus 
+Mamm. etc. Nepalpres. Hodgs. p. 84 (1846); Blyth, Cat. B.' Mus 
 As. Soc. p. 98 (1840) ; Horsf. 8? Moore, Cat. B. *J2.I. Co. Mm
 
 p. 212 (1854); Jerd. B. 2nd. ii. p. 53 {181*8); Gould, B. Asia 
@@ -33218,10 +33218,10 @@ Range, Eastern Himalayas,
 
 1. Conostoma aemodiiim. 
 Conostoraa seniodius, Hodgs. J. A. S. Beng. x. p. 857, cum &g. (1841) ; 
-id. Icon, ined. in Brit. Mus., Passeres, pi. 263 (no. 661) j Blytli, 
+id. Icon, ined. in Brit. Mus., Passeres, pi. 263 (no. 661) j Blyth, 
 
 J. A. S. Beng. xiv. p. 578 (1845); Gray, Gen. B. ii. p. 312 (1845): 
-Bhjth, Cat. B. Mus. As. Soc. p. 101 (1849). 
+Blyth, Cat. B. Mus. As. Soc. p. 101 (1849). 
 Conostoma 
 semodium, Hodgs. in. Gray's Zool Misc. p. 84 (1844); 
 Gray, Cat Mamm. etc. Nepal presl Hodgs. p. 102 (1846) j Bpl 
@@ -34136,7 +34136,7 @@ along the east coast as high as Rockingham Bay.
 
 2K2 
 
-500 TIMELIID^,. 
+500 TIMELIDAE,. 
 a b. Ad. sk. Australia. Linnean Society. 
 ' ' " (Types of species.) 
 c cl Ad. st. Adelaide. C. D. E. Eortnmn, Esq. 
@@ -34839,7 +34839,7 @@ Ervthrops melodius, Hodgs. Icon, ined. in Brit. Mm.f Passeres,
 pi. 172 c (no. 740). 
 Pyetorhis hypoleuca, Hodgs. in Gray's Zooi. Misc. p. 8-3 (la44). 
 Chrysomma hypoleueo*, Btyth, J. A. S. Beng. xiv. p. 602 (1845). 
-Chrysomina smense, Blytk, J. A. S. Beng. xvi. p. 454 (1847); id. 
+Chrysomina smense, Blyth, J. A. S. Beng. xvi. p. 454 (1847); id. 
 
 Cat B. Mm. As. Soc.y. 150 (1849); Bp. Cwmp. i. p. 210 (1850): 
 Horsf. <§* Moore, Cat A E.I. Co. Mm. I p. 230 {1*34). 
@@ -34852,7 +34852,7 @@ p. 378; Lloyd, Ibis, 1873, p. 410; Godwin-Austen, J. A. S. Beng.
 xliil pt. 2, p. 100 (1874) ; Ball, Sir. F. 1874? p. 408; Hume, t c. 
 2. PYCTORHIS. 511 
 p. 475; id. Str. F. 1875, p. 115, 1870, p. 34; Fairb. t. c. pp. 258, 
-265; Bhjth $ Walden, B. Burm. p. 117 (1875) ; Godwin-Aust 
+265; Blyth $ Walden, B. Burm. p. 117 (1875) ; Godwin-Aust 
 J. A. S. Beng. xlv. pt. 2, p. 74 (1876); Oates, Sir. F. 1877, p. 151; 
 Anderson, ZooL Exp. Yunnan, Aves, p. 637 (1878); Hume fy 
 Davison, Str. F. 1878, vol. i. p. 258 ; JDavison <§-Wenden, Str. F. 
@@ -35056,8 +35056,8 @@ b. A broad Miperciliary streak of tawny buff: hf-ad
 and nape rufuus-brown, contracting with the 
 back bitittata, p. 516. 
 1. Dumetia albigularis. 
-Malac*ocercu^ (?) albotrularK BlytJi, J. A. #. Beng. xvi. p. 453 
-Dumetia annularis Blytk, Vat. B. 3Ji^.A\ *Soe. p. 140 (1849); 
+Malac*ocercu^ (?) albotrularK Blyth, J. A. #. Beng. xvi. p. 453 
+Dumetia annularis Blyth, Vat. B. 3Ji^.A\ *Soe. p. 140 (1849); 
 Bayard *V Xtlaari, Prodr. Cut.* AJJJJ. p. 5^ f 1N>2) ; Bernard, Ami, 
 ty Mag. Xtd. JIU. {2\ xii. p. 272 (!-5;Js; UoM\ ^ Moore, CatB. 
 
@@ -36311,7 +36311,7 @@ TTMBUIDM.
 2. Stachyris larvata. 
 Timalia larvata, Bp. Consp. i. p. 217 (1850, ex Mull MS. in Mus. 
 Liu/el); Gray, HancU. B. i. p. 815, no. 4711 (1809). 
-Stacliyris larvata, Bhjth, Ibis, 1870, p. 170. # 
+Stacliyris larvata, Blyth, Ibis, 1870, p. 170. # 
 Tmiel'ia larvata, /SW/md Ann. Mies. Civic. Genov. xiv. p. 222 (lo/9). 
 ^«Z*. General colour abovo rufous-brown, dusky on the mantle; 
 wing-coverts and quills dusky brown, margined with chestnut-brown, 
@@ -36525,7 +36525,7 @@ d. Ad. sk. Sarawak, Borneo. Henry Everett, Esq. [O.J.
 7. Stachyris thoracica. 
 Pitta thoracica, Te7nm. PI Col ii. pi. 7G (1823). 
 
-Timalia thoracica, BlytJi, J. A. S. Beng. xi. p. 705, note (1842); Gray, 
+Timalia thoracica, Blyth, J. A. S. Beng. xi. p. 705, note (1842); Gray, 
 Gen, B. i. p. 223 (1846) ; Bp. Consp. i. p. 217 (1850) ; Ilorsf. $ 
 Moore, Cat. B. BJ. Co. Mm. i. p. 22S (1854); Gray, Hand-l B. 
 
@@ -36634,7 +36634,7 @@ J. Motley, Esq. [C.].*
 
 13. TURDIHTJS". 
 Type. 
-Turdinus, Bhjth, J. A. S. Beng. siii. p. 232 (1844).. T. macrodactylus, 
+Turdinus, Blyth, J. A. S. Beng. siii. p. 232 (1844).. T. macrodactylus, 
 Mdacocincla, j%tf*, J. A. ,S. Beng. si v. p. 000 (1845) T. abbotti. 
 Caeopitta, Bp. Coasp. I. p. -57 (leoOj T. atrigularis. 
 Illadup-i*, liana, J.f. 0. Ib50, p. 4UU .......... T. fulvescens. 
@@ -36773,7 +36773,7 @@ with black and white \ loricatus, p. 550.
 Malacocinela abbotti, B!yih7 J. A. S. Beng. xvi. p. 001 (1845); 
 Sahacl Uce. Born. p. 2:J0 (1874). 
 
-Trichastuma abbotti, Bhjth, J. A. & Beag. xvi. p. 462 (1847); id. 
+Trichastuma abbotti, Blyth, J. A. & Beag. xvi. p. 462 (1847); id. 
 Cat. B. 3///s A*. &>c. p. 147 (1^49); Bp. Consp. i. p. 259 (IboO) ; 
 ITorsf. LV Moure. Cut B. El, Co. Jim. i. p. 405 (Lb54); Jerd. B. 
 Inrl'ii. p. 17 i 1H )>*); ILune, Str. F. 1^74, p. 505; Blyth fy Wald. 
@@ -37613,7 +37613,7 @@ Brackypteryx nigro-capitata, Eyion, P. Z. S. 1839, p. 103; Bh/fh,
 J. A. S. Beng. xiii. p. 385 (1844); id. Cat B. Mus. As. 8oc. p. 178 
 (1849). 
 Goldana nigrocapitatus, Blyth, J. A. S. Beag, xi. p. 796 (1842). 
-Drymocataphus nigrocapitatus, Blytli, J. A. S. Beag, xviii. p. 815 
+Drymocataphus nigrocapitatus, Blyth, J. A. S. Beag, xviii. p. 815 
 
 (1849); Moore, P.Z.8. 1854, p. 273; Iforsf. $ Moore, Cat B. EI. 
 Co. Mus. i. p. 396 (1854); Bp. C JR. xxxviii. p. 59 (1854) ; Salmd. 
@@ -37800,7 +37800,7 @@ Godwin-Austen,.)
 Sab. Hills of Xorth-eastern Bengal. 
 
 6. Drymocataplras assamensis. 
-PeUorneum tickelli (mn Bhjth \, Sume $ Davis. Sir. F. 1878, vol. i. 
+PeUorneum tickelli (mn Blyth \, Sume $ Davis. Sir. F. 1878, vol. i. 
 
 pp. 277. 514; Sume, &f/\ F. IS78, vol. ii. p. 143, note; id. Ibis, 
 
@@ -37842,7 +37842,7 @@ Sab. Hills of Assam and Xorth-eastern Bengal.
 a. $ ad. sk. Bhollah, Assam {Cockhim). E. W. Oates, Esq. 
 7. Drymocataphiis tickelli*. 
 PeUorneum 
-tickelli, Bhjth, J. A. S. Beag. xxviii. p. 414 (1859); 
+tickelli, Blyth, J. A. S. Beag. xxviii. p. 414 (1859); 
 Ticket!, Sis, lbtJ3, p. 113; Sume, Sir. F. 1873, p. 290, note; 
 Oates, Sir. F. 1875, p. 110, 1870, p. 406; Godto.-Austen, Ibis, 
 1878, p. 115. 
@@ -37882,7 +37882,7 @@ view afterwards taken by Mr. Hume. The original specimen was discovered
 
 by the late Colonel Tickell at Amherst in Tenasserim, and was forwarded bj 
 
-him to Blytli at Calcutta. Colonel Tickell's paper describing the species arrived 
+him to Blyth at Calcutta. Colonel Tickell's paper describing the species arrived 
 
 by a later mail than his specimens ; and in the meantime Bh th bad given names 
 
@@ -38003,7 +38003,7 @@ E. W. Gates, Esq. [0.].
 
 8. Brymocataphus rabigmosus. 
 Trichostonia rubiginosa, Waklen, Ann. § Mag. Kat. Hist. (4) xv. 
-p 402 (1875j; id. in Bhjth B. Burm. p. 11-5 (187o) ; Hume <§• 
+p 402 (1875j; id. in Blyth B. Burm. p. 11-5 (187o) ; Hume <§• 
 Davison, Sir. F. 1878, vol. i. p. 260; Hume, Sir. F. 1879, p. 95. 
 
 Adult female. (Karen-nee, March 23, 187-4; B. CL "Wardlaw 
@@ -38063,7 +38063,7 @@ Hab. Xew Britain.
 a. $ ad. sk. Xew Britain. Br. Kleinschmidt [C.]. 
 18. GYPSOPHILA. 
 Type. 
-Turdinus, pt, Blytk, et anct. recent 
+Turdinus, pt, Blyth, et anct. recent 
 Gypsophila, E. W. Gates, B. Brit. Burm. p. 61 (1883).. G. crispifrons. 
 
 Range. Tenasseriin. 
@@ -38530,7 +38530,7 @@ Hob. Borneo.
 
 a. Ad. sk Borneo. Purchased. 
 5.ffialacopterujoi albignlare, 
-Setaiia albogulari^ Bhjth. J. A. & Iktuj. xiii. p. HSo {I844J, x\i. 
+Setaiia albogulari^ Blyth. J. A. & Iktuj. xiii. p. HSo {I844J, x\i. 
 p. 462 (1847); k'tdvad, Uce. Bom. p. 232 11*74). 
 Macronus albogulaii^ Gray, Gen. B. i. p. 210 {1*46). 
 Alcippe albogulaii", Blyt/t, Cat. B. MKK AS. Soe. p. 14* I lfe49 ?; Bp, 
@@ -38573,7 +38573,7 @@ e,f. <$ ad. sk. Bintulu, VT. Borneo. Alfred Everett, Esq. [C.].
 g. S ad. sk. Paku, Sarawak, Dec. 1878. Henry Everett, Esq. [C.]. 
 6. Malacopteram affine. 
 Tricbastoma afBne, Blyth, J. A. S. Beng: xi. p. 795 (1842). 
-Alcippe affmis, Blytk, J. A. S. Beng. xiii. p. 384 (1844), xvi. p. 462 
+Alcippe affmis, Blyth, J. A. S. Beng. xiii. p. 384 (1844), xvi. p. 462 
 (1&47); id. Cat. B. Mus. As. JSoc. p. 148 (1849;; Bp. Consp. i. 
 
 p. 259 (IfcoO); Mors/. $ Moore, Cat. B. E.I. Co. Mus. i. p. 406 
@@ -38582,7 +38582,7 @@ Malaeupteron affine, Gray, Gen.B. i. p. 209 (1846): id. Hand-l B.
 
 i. p. 317, no. 473:3 (lb(J9). 
 Xapothera atricapilla, Bp. Consp. i. p. 359 (1850, ex Mull MSS. in 
-Mm. Litdg.) ; Blytk, Ibis, I860, p. 47. 
+Mm. Litdg.) ; Blyth, Ibis, I860, p. 47. 
 Set aria aiiuib, tialvad. Uec. Bom. p. 281 (1874) ; Sharpe, Ibis, 1879, 
 
 p. 253. 
@@ -39946,7 +39946,7 @@ wing-coverts fulvous; quills dusky brown below, ashy fulvous along
 the edge of the inner web ; " bill brownish grey, the mandible 
 white; legs pallid, the front of the tarsi tinged brown ; iris burnt 
 sienna-orange " (A. H. Everett). Total length 4%3 inches, culmen 
-0*7, wing 2-35, tail 1*05, tarsus 1*1. (2Ius. R. G. Wardlaw Ramsay.) 
+0*7, wing 2-35, tail 1*05, tarsus 1*1. (Mus. R. G. Wardlaw Ramsay.) 
 
 
 Bab. Island of Palawan. 
@@ -40208,7 +40208,7 @@ as it reappears in Sumatra.
 34. 
 RIMATOR. 
 Type. 
-Rimator, Bhjth, J. A. S. Beng. xvi p. 154 (Feb. 
+Rimator, Blyth, J. A. S. Beng. xvi p. 154 (Feb. 
 1847) R. malacoptilus. 
 Caulodromus, Gray, Gen. B. i. p. 144 (April 
 1847) ./.... . R. malacoptilus. 
@@ -40935,7 +40935,7 @@ Hah. Java.
 a, b. S $ ad. sk. West Java. A. R. Wallace, Esq. [P.]. 
 
 c. Ad. st. Java. Leyden Museum. • 
-606 TIMELIID^L 
+606 TIMELIDAEL 
 3. mmLA. 
 Minla, Hodgs, Ind. Benezc, lb38, p. 33Schoeniparus, Hume, Str. F 1874? p. 449Type. 
 M. igneotincta. 
@@ -41344,7 +41344,7 @@ Bp. Consp. i. p. 397 (1850); Gray, Hand-L B. I p. 2767 no. 4065
 
 Ixulus flavicollis, Hodgs. in Gray's ZooL Misc. p. 32 (1844); id. 
 
-P. Z. S. 1845, p. 24; id. J. A. S. Beng. adv. p. 562 (1845); Bhjthf 
+P. Z. S. 1845, p. 24; id. J. A. S. Beng. adv. p. 562 (1845); Blythf 
 Cat. B. Mus. As. 8oc. p. 100 (1849); Horsf. $ Moore, Cat. B. 
 B.I. Co. Mus. i. p. 262 (1854); Gould, B. Asia, part adv. (1862); 
 Jerd. B. Ind. ii. p. 258 (1863); Godtoin-Austen, J. A. S. Beng. 
@@ -41693,7 +41693,7 @@ TOfELITDJE,
 out; outermost tail-feather f inch shorter than the middle pair, and 
 largely tipped with white, as is also the next and the antepenultimate, 
 and next within gradually less so, the outer four feathers 
-successively graduating. (Bhjth, 1. c.) u Iris Mood red-brown; bill 
+successively graduating. (Blyth, 1. c.) u Iris Mood red-brown; bill 
 dark horn ; legs reddish horn " (TieJceU). 
 
 Eab. This species was discovered on Mooleyit mountain in 
@@ -42039,7 +42039,7 @@ e. Ad. sk Sandakan, XE. Borneo. W, B. Pryer, Esq. [C.].
 Alcippe phayrii, Blyth, J. A. S. Beng. xiv. p. 601 (1845); id. Cat. 
 B. Mus. As. Soc. p. 148 (1849); Bp. Consp. I p. 260(1850); 
 Hume, Str. F. 1874, p. 470; id. $ Gates, Sir. F. 1875, p. 116; 
-Bhjth, B. Bunn. p. 115 (1875) ; Hume, Str. F. 1877, p. 60; Anderson, 
+Blyth, B. Bunn. p. 115 (1875) ; Hume, Str. F. 1877, p. 60; Anderson, 
 Zool Exp. Yunnan, p. 635, pi. xlviii. (1878); Hume § 
 Davison, Str. F. 1878, vol. i. p. 260; id. Sir. F. 1879, p. 95; 
 Bingham, Str. F. 1880, p. 179; Oates, B. Brit. Burm. i. p. 69 
@@ -43082,7 +43082,7 @@ lor opus cyanouropterus, Hodgs. Icon. ined. in Br if. Mus., Passer es
 App. pi. 124 (no. 358); id. J. A. S. Beng. siii. p. 937 (1844). ' 
 Ioropus (Siva) cyanouropterus, Hodgs. in Gray's Zool Miso p 84 
 (1844). 
-Leiotkrix cyanouroptera, Gray, Gen. B. i. p. 269 (1845) ; Blytli, Cat. 
+Leiotkrix cyanouroptera, Gray, Gen. B. i. p. 269 (1845) ; Blyth, Cat. 
 
 B. Mus. As. Soc. p. 99 (1849); Bp. Consp. i. p. 332 (1850)' 
 Horsf. $> Moore, Cat. B. B.I. Co. Mus. i. p. 366 (1854); Gray\ 
@@ -43481,10 +43481,10 @@ Cutia nipalensis, Hodgs. J. A. S. Beng. v. p/ 7
  774 (18SI}) ; id. op. tit. 
 »• P 
 
-Ti. p. 113 (1&37); Bhjth, J. A. S. Beng. xi. p. 1&3 (1*43); 6W* 
+Ti. p. 113 (1&37); Blyth, J. A. S. Beng. xi. p. 1&3 (1*43); 6W* 
 CVrf. Mamm. etc. Xepai prts. Hodgs. p. 9t> (1^46); 2>iW*, 6W. .#! 
 
-b46); Blytk, 
+b46); Blyth, 
 
 54) 
 

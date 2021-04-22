@@ -441,8 +441,8 @@ Gray 377, 755
 4. fedoa(X.) 391,750 
 44. Macrorhamphus, Leack .. 393 
 1. griseus (Gm.) 394, 757 
-2. taczanow&kii( Ferr.)400,757 
-45. Micropalama, Baird .... 401 
+2. taczanowsksi( Ferr.)400,757 
+s5. Micropalama, Baird .... 401 
 1. himantopus (Bp.) 401,757 
 46. Symphernia, Pa fin 405 
 f. semipalmata" {Gm.) 405,757 
@@ -2096,7 +2096,7 @@ Esacus recurvirostris, Lesson, Trait e, p. 547 (1831) ; Gray* List
 Grallm Brit. Mus. p. 60 (1844: Nepal ^ Boo tan); id. Gen. B. iii. 
 
 p. 535 (1844); id. Cat. Mamm. etc. Nepal pres. Hodgs. p. 131 
-(1846); Blytk, Cat. B. Mus. As. Soc. p. 2C0 (1849: Calcutta) ; 
+(1846); Blyth, Cat. B. Mus. As. Soc. p. 2C0 (1849: Calcutta) ; 
 Irby, Ibis, 1861, p. 237 (Oudh); Jerd. JB. Ind. iii. p. 652 (1864); 
 Beavan, Ibis, 1868, p. 391 (Sewalik Hills); Gray, Hand-l. B. iii. 
 p. 10, no. 9949 (1871); Hume, Str. F. i. pp. 102, 232 (1873: 
@@ -5485,13 +5485,13 @@ Purchased.
 Glareola lactea, Temm. Man. d'Orn. ii. p. 503 (1820); id. PL Col v. 
 pi. 399 (1820); Gray, List Grallce Brit. Mus. p. 62 (1844) ; id. Gen. 
 
-B. iii. p. 533 (1844); Bhjth, Cat B. Mus. As. Sue. p. 259 (1849 : 
+B. iii. p. 533 (1844); Blyth, Cat B. Mus. As. Sue. p. 259 (1849 : 
 Calcutta); Jerd. B. Lid. iii. p. 632 (1864); Sehl. Mus. Pays-Bas, 
 Cuisores, p. 17 (1805); Gould, B. Asia, vii. pi. 64 (1869); Gray, 
 Hand-l B. iii. p. 18, no. 10033 (1871); Hume, Str. F. i. p. 440 
 (1873); id. Nests $ Eggs, p. 568 (1873); Ball, Str. F. ii. p. 429 
 (1874); JIarting, P. Z. S. 1874, pi. 60. fig. 1 (egg); Hume, btr.F. 
-iii. p. 179 (1875); Bhjth <$• IVaid. B. Burm. p. 154 (1875); 
+iii. p. 179 (1875); Blyth <$• IVaid. B. Burm. p. 154 (1875); 
 Armstr. Str. F. iv. p. 338 (1876) ; Ramsay, Ibis, 1877, p. 469; 
 Hume §* Davison, Str. F. vi. p. 454 (1878); DavidsontyWenden, 
 Str. F. vii. p. 88 (1878) ; Ball, t. o. p. 226; Cripps, t. e. p. 299; 
@@ -10979,7 +10979,7 @@ p. 483 (Calcutta); id. Str, F. viii. p. 112 (1879); Tiraut, Ois.
 Basse-Cochinchine, Bull, Agric. Cochin. (S) i. p. 146 (1879) ; Oates, 
 
 chow, spring). 
-CliaBtti^ia cinerea, Bhjth, Ibis, 1887, p. 105. 
+CliaBtti^ia cinerea, Blyth, Ibis, 1887, p. 105. 
 Adult male. General colour above light brown, with a slight 
 bronzy gloss; rump, upper tail-coverts, and base of tail *nhite; 
 terminal third of the tail black, forming a broad band, the tips 
@@ -25273,7 +25273,7 @@ Mus. Pays-Bas, Gursores, p. 31 (1865); Gray, Hand-L B. iii.
 p. 16, no. 10008 (1871). 
 jEgiaiitis nigrifrons. Boie, Isis, 1826, p. 978 ; Gov Id, Syn. B. Aztstr. 
 pi. 32. £g. 1 (1837); Gould, Handb. B. Austr. ii. p. 232 (1885); 
-Ramsay, Ibis, 1866, p. 334 (Port Denison): Blytk, IMs, 1867, 
+Ramsay, Ibis, 1866, p. 334 (Port Denison): Blyth, IMs, 1867, 
 
 p. 165: Harting, P. Z. S. 1874, p. 450, pi. lx. %. 9; Ramsay, 
 P. Z. S. 1877, p. 337 (Queensland, brsedimr); id. Proe. Linn. Soc. 
@@ -27905,7 +27905,7 @@ struthersi, Vigors, P. Z. S. 1830, p. 174 (Himalaya
 Mis.)"; Gould, Cat. B. ffimal. Mts. pi. lxxix. (1832); Gray, Cat. 
 Mamm. fyc. Nepal pres. Hodgs. p. 138 (1846); id. Gen. B. iii. 
 
-p. 568 (1847); Blytli, Cat. B. Mus. As. Soc. p. 265 (1849: 
+p. 568 (1847); Blyth, Cat. B. Mus. As. Soc. p. 265 (1849: 
 Bhotan; Nepal); Reichenb. Gratt. tab. xcvi. fig. 1044 (1850); 
 Gould, B. Asia, vii. pi. 61 (1856); Jerd. B. Ind. iii. p. 685 (1864) 
 Gray, Hand-L B. iii. p. 41, no. 10238 (1871); Swinh. P. Z. S. 
@@ -32824,7 +32824,7 @@ coverts, profusely barred with dusky griseus, p. 394.
 b. Larger; culmen more than 3 inches: rump 
 mottled with black; axillaries and under 
 wing-coverts white or with only a few dusky 
-frecklings taczanozcsMi, p. 400. 
+frecklings taczanowskii, p. 400. 
 1. Macrorhamphus griseus. 
 Brown 
 Snipe, Lath. Gen. Syn. iii. pt 1, p. 154 (1735); Pennant7 
@@ -33337,7 +33337,7 @@ m\ Ad. st. [2-15]. Stonebouse, River Brent, Harting Coll.
 Middlesex^ Oct. 1862. 
 ra3. Ad. st. [2-4]. Cambridgeshire. Purchased. 
 
-2. Macrorhamphus taczanowsML 
+2. Macrorhamphus taczanowskii 
 Macrorbampbus semipalmatus (nee Gm.), Blyth, XA.8. Beng. xviL 
 p. 252 (1848: Calcutta); Jerd. B. Ind. iii. p. 679 (1864) : Rums, 
 Sir. F. vii. p. 484 (1878 : Calcutta). 
@@ -45998,7 +45998,7 @@ Boss. fasc. i. p. 100 (1884); A. O.' U. Check-list X Am. B.
 p. 152 (1886); Batmen, Yega-Exped., Fogtlf. p. 820, tab. 4 (1587); 
 Tacz. Mem. Acad. Imp. Sci St. Betersb. (Tj xxxix. p. 928 
 (1898). 
-Eurynorhynchus orientalK Blytli, Ann. fy Mag. Nat Hint xiii. 
+Eurynorhynchus orientalK Blyth, Ann. fy Mag. Nat Hint xiii. 
 p." 179 (1844) ; Sichih. Ibis, 1807, p. 284; A. Xticto/i, t e. pp. 235, 
 236, note. 
 
@@ -65668,7 +65668,7 @@ z3. Ad.; a/. Juv. Yokohama, March 15 (Snow fy Seebohm Coll.
 
 sk. Owstori). 
 
-^d . Page 400. Macrorhampliiis taczanowsMi. 
+^d . Page 400. Macrorhampliiis taczanowskii. 
 
 Pseudoscolopax semipalmata, Tacz. Bull. Soc. Zool. France, p. 255 
 (1876); id. Mem. Acad. Imp. Sci. St. Fetersb. (7) xxxix. p. 936 

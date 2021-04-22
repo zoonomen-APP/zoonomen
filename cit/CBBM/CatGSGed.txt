@@ -7150,7 +7150,7 @@ Aegintha, 1292.
 Aeg;iothus, 1320. 
 .Egithaliscus, 604. 
 iEgithalus, 607. 
-iEgithina, 631. 
+AEgithina, 631. 
 iEgolius, 132, 133. 
 jEgotheles, 149. 
 iEgypius, 2, 55. 
