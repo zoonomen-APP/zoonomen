@@ -4,3 +4,7 @@ s/QUARITOH/QUARTICH/
 s/QUAB1TCH/QUARTICH/
 s/QUAEITCH/QUARTICH/
 s/QUARITCH/QUARTICH/
+s/neo Rchnh./nec Rchnb./
+s/ Rchnh./ Rchnb./g
+s/ Tanben./ Tauben./g
+s/JRchnh/Rchnb/
