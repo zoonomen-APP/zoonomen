@@ -1,4 +1,5 @@
 # uses cb2 as source
+# 2021.03.06 modified so Pt.1 becomes Pt.01 etc.
 #modified 2020.11.19 to handle AMPERSAND combined "no.'s"
 # Appears to work:
 #1878 J.Orn. 26 no.143 p. 266 Mirafra rufocinnamomea fischeri (Reichenow)
@@ -22,6 +23,10 @@ sed 's/Nomenclature//'|sed 's/Systematics//'|sed 's/Type//'|sed 's/Concept//'|se
 sed 's/  / /g'|
 sed  '/pt[1-9] / s/ pt/ pt 00/'|
 sed  '/pt[1-9][0-9] / s/ pt/ pt 0/'|
+#2021.03.06
+sed  '/Pt[1-9] / s/ Pt/ Pt 00/'|
+sed  '/Pt[1-9][0-9] / s/ Pt/ Pt 0/'|
+# end 2021.03.06
 sed  '/livr\.[1-9] / s/ livr\./ livr\. 00/'|
 sed '/livr\.[1-9][0-9] / s/ livr\./ livr\. 0/'|sort -n|uniq
 #print "RICB"

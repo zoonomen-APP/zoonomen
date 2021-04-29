@@ -1,2 +1,2 @@
-egrep $1 ../cit/CBBM/*.txt
+egrep $1 c:/zoonomen/cit/CBBM/*ed.txt
 
