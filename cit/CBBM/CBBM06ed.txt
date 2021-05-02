@@ -81,7 +81,7 @@ THE Sixth Yolume of the ' Catalogue of Birds in the British
 Museum' has been prepared by Mr. R. B. Sharpe, author of the 
 first four volumes of this -work. Yarious causes have somewhat 
 delayed its publication ; but it is hoped ttiat the succeeding volume 
-(which will conclude the family Timeliidce, and which has made 
+(which will conclude the family Timeliidae, and which has made 
 considerable progress) will appear within the spaee of a twelvemonth, 
 as also that, with additional extraneous help, the work 
 generally wiH make more rapid progress than has hitherto been 
@@ -1528,7 +1528,7 @@ under tail-coverts bright yellow; thighs yellow, with black bases;
 flanks with a long silky white tuft; under wing-coverts white, 
 washed with yellow, the edge of the wing yellow; axillaries white; 
 quills ashy black below, white along the edge of the inner web. 
-Total length 5-2 inches, eulmen 0*65, wing 2*35, tail 1*9, tarsus 0-7. 
+Total length 5-2 inches, culmen 0*65, wing 2*35, tail 1*9, tarsus 0-7. 
 Obs. Tho soft parts given by Mr. Hume are as follows :—" Legs 
 and feet plumbeous blue; claws black ; lower mandible, gape, and 
 a line on each side of upper mandible dark plumbeous blue ; rest of 
@@ -1864,11 +1864,11 @@ Adult male. Similar to the adult "black-winged form of 2E. tipJiia,
 but never putting on the black head or mantle; forehead yellow; 
 lores golden yellow; "bill and legs pale leaden or dark leaden, 
 grey ; iris white " (A. Everett); " eyes black or grey " (J*. B. Steere). 
-Total length 5*2 inches, eulmen 0*7, wing 2*65, tail 2, tarsus 0*8. 
+Total length 5*2 inches, culmen 0*7, wing 2*65, tail 2, tarsus 0*8. 
 
 
 Adult female. Not to be distinguished from the female of JS. tiphia. 
-Total length 5 inches, eulmen. 0*7, wing 2*4, tail 2*1, tarsus 
+Total length 5 inches, culmen. 0*7, wing 2*4, tail 2*1, tarsus 
 0*75. 
 
 
@@ -3745,7 +3745,7 @@ gloss; wings and tail black, the quills a little browner than the
 rest of the upper surface ; under wing-coverts and axillarios like 
 the breast; quills ashy blackish below, ashy brown along the edge 
 of the webs; "bill and legs coral-reel, claws brown; iris deep 
-chestnut" (B. Sivinhoe). Total length 8-5 inches, eulmen 1-05, 
+chestnut" (B. Sivinhoe). Total length 8-5 inches, culmen 1-05, 
 wing 4-7, tail 4, tarsus 0*8. • 
 
 The Hainan Elack Bulbul is only known from the island of 
@@ -3776,7 +3776,7 @@ brown, paler along the edge of the inner web• " bill and legs brilliant
 coral-red; sole-pads and bases of claws dingy ochreons ; claws 
 black; inside of mouth and tongue orange-red • skin of eyelid 
 black ; iris deep chestnut?? (B, Swinhoe). Total length 8*4 inches, 
-eulmen 0*95, wing 4*75, tail 4*1, tarsus 0*7. 
+culmen 0*95, wing 4*75, tail 4*1, tarsus 0*7. 
 
 Sexes similar, the female having rather shorter wings (B. Swinhoe), 
 The Formosan Black Bulbul is confined to the island of Formosa, 
@@ -4337,7 +4337,7 @@ tarsus 0*6. (Mus. Wardlaw Ramsay.)
 6, HEMIXUS. 51 
 
 Adult male. Like the female in colour. Total length. 8*5 inches, 
-eulmen 0*8, wing 4, tail 3*7, tarsus 0-65. {Mas. Wardlaw Ramsay.) 
+culmen 0*8, wing 4, tail 3*7, tarsus 0-65. {Mas. Wardlaw Ramsay.) 
 
 Obs. M>. Hume states that Hemixus brunneiceps of Lord Walden 
 is his H. hildehranti; and this appears indubitable; but it is equally 
@@ -4490,7 +4490,7 @@ ashy white along the inner web. "Legs and feet pinkish brown to
 reddish brown; bill horny brown or very dark horny brown; iu 
 one the upper mandible was black, the lower reddish horny ; hides 
 mahogany-brown to litharge red" (A. 0. Hume). Total length 8*5 
-inches, eulmen O-Oo, wing 4*1, tail '3-G, tarsus 0*75. 
+inches, culmen O-Oo, wing 4*1, tail '3-G, tarsus 0*75. 
 
 The Streaked Bulbul ranges from the hills south of Mergui in 
 Teiia»serini southwards to the Mala\an peninsula, Sumatra, and 
@@ -5237,7 +5237,7 @@ p. 324; Tweedd. Ibis, 1877, p. 307; id. P. Z, 8. 1878, p. 618;
 Hume, Sir. F. 1878, p. 318, 1679, p. 98;_ Sharpe, P. Z. S.1879, 
 p. 339; Salvad. Ann. Mus. Civic. Genov. xiv* p. 221. 
 Ixos metallicus, Fyton, Ann. Nat. Hist. xvi. p. 228. 
-Pycnonotus melanocephalus, StricM. P. Z. S. 1846, p. 101; Gray> 
+Pycnonotus melanocephalus, Strickl. P. Z. S. 1846, p. 101; Gray> 
 "Gen. B. i. p. 237; id. Band-l B. i. p. 270, no. 3972. 
 Pycnonotus metallicus, Gray, Gm. B. i p. 237; id. Hand-L B. i* 
 
@@ -5827,7 +5827,7 @@ Trichophorus canicepa, Lafr. Rti\ Zooh 1845, p. 307; Hard Rei\
 Zoolim, p. 4. F 
 Pycnonotus rufocaudatus, Eyton, Ann. Xat. IHsf. xvi. p. 228 (male 
 "onlv). 
-Criniger gularis (nee JSbrsf.), StricM. P. Z.S. 184fif p. 101; Bhjfh, 
+Criniger gularis (nee JSbrsf.), Strickl. P. Z.S. 184fif p. 101; Bhjfh, 
 Cat. B. Mus. As. Soc. pi 208: SMiezhi, J. A. & A xxslx. pt. 2, 
 
 p. 315. 
@@ -7547,7 +7547,7 @@ pale yellow, the breast washed with grey, the sides washed with
 olive-green ; under wing-coverts and axillaries light yellow, washed 
 with olive near the edge of the wing; quills dull brown below, 
 yellowish buff along the edge of the inner web. Total length 5-8 
-inches, eulmen 0*7, wing 2*7, tail 2*4, tarsus 0*75. 
+inches, culmen 0*7, wing 2*7, tail 2*4, tarsus 0*75. 
 
 Ussher's Bulbul is as yet only known from the forests in the 
 interior of the Gold Coast. 
@@ -7577,7 +7577,7 @@ washed with olive-yellow, the shaft-streaks paler; lower abdomen,
 and under tail-coverts brownish white; under wing-coverts and 
 axillaries dull olive-yellow, light brown at the base; greater scries 
 light ashy brown, like the inner edge of the quills. Total length 
-8 inches, eulmen. 0*75, wing 3*9, tail 3, tarsus 0*8. 
+8 inches, culmen. 0*75, wing 3*9, tail 3, tarsus 0*8. 
 
 The Honey-Guide Bulbul inhabits the forests of West Africa, 
 from the Gold Coast to Gaboon. 
@@ -8200,7 +8200,7 @@ and axilJaries bright yellow; quills dusky brown below, yellow
 along the edge of the inner web; " bill horn-colour, slightly paler 
 towards the base of the mandible; legs leaden grey ; iris brown " 
 {Shelley); "bill and feet brown; iris reddish brown" (AncMeta). 
-Total length 7*6 inches, eulmen 0*8, wing 3'b, tail 3*7, tarsus CKJ. 
+Total length 7*6 inches, culmen 0*8, wing 3'b, tail 3*7, tarsus CKJ. 
 
 The Western Yellow-bellied Eulbul replaces the foregoing species 
 in South-western Africa, where it extends from Angola into Uenguela 
@@ -8237,7 +8237,7 @@ faintly indicated brown centres to the feathers; under wing-coverts
 brighter olive-yellow, the latter slightly inclining to fawn-colour; 
 quills dull brown below, fawn-coloured along the inner webs; " bill 
 black; feet blackish grey; iris reddish brown " (Bekhemw); u iris 
-white" (Fraser). Total length 6-7 inches, eulmen 0*65, wing 3-3, 
+white" (Fraser). Total length 6-7 inches, culmen 0*65, wing 3-3, 
 
 tail 3, tarsus 0-8. 
 
@@ -9564,7 +9564,7 @@ culmen 0*7, wing 3*55, tail 3*1, tarsus 0*8.
 135 
 
 Arfttlt fifiifde. Similar in colour to the male. Total length. 
-8*8 inches, eulmen 0*7, win? 3-6, tail 3*2, tarsus 0*8. 
+8*8 inches, culmen 0*7, win? 3-6, tail 3*2, tarsus 0*8. 
 
 Lerailknf s Yellow-vented Bulbul ranges throughout South Africa, 
 from the eastern parts of the Cape Colony, through 3Tatal and the 
@@ -9629,13 +9629,13 @@ under tail-coverts bright yellow; under wing-coverts and vent-
 feathers whitish washed with yellow; thighs ashy brown, also 
 washed with yellow; under wing-coverts ashy brown, the edge of 
 the wing washed with yellow ; bill and legs black ; iris dark 
-brown ; eyelid grey. Total length 8*3 inches, eulmen 0*75, wTing 
+brown ; eyelid grey. Total length 8*3 inches, culmen 0*75, wTing 
 3*8, tail 3*b<3, tarsus 0*85. 
 
 TDIELIIDiE. 
 
 Adult female. Similar to the male. Total length S*4t inchess 
-eulmen 0'75, wing 3'6o^ tail 3*8, tarsus 0'9. 
+culmen 0'75, wing 3'6o^ tail 3*8, tarsus 0'9. 
 
 The Palestine Yellow-vented Bulbiil is found all over Northeastern 
 Africa, Arabia Petraea, Syria, and Palestine, and in the 
@@ -9677,7 +9677,7 @@ and sides of body pale ashy brown, the centre of the body ashy
 whitish; thighs ashy brown; under tail-coverts bright golden 
 yellow ; under wing-coverts ashy brown, edged with white ; quills 
 brown below, ashy brown along the edge of the inner web ; £* iris 
-dark brown" (Adams). Total length 6-0 inches, eulmen 0*55, 
+dark brown" (Adams). Total length 6-0 inches, culmen 0*55, 
 wing 3*15, tail 3*15, tarsus 0*8. 
 
 There is no difference in the colour of the sexes. 
@@ -9865,10 +9865,10 @@ yellow ; under wing-coverts and axillaries pale yellow or yellowish
 white, the edge of the wing brighter yellow; quills dusky brown 
 below, yellowish white afong the inner web. Total length 7*8 inches, 
 
-eulmen 0*7, wing 3*4, tail 3*5, tarsus 0*8. 
+culmen 0*7, wing 3*4, tail 3*5, tarsus 0*8. 
 
 Adult female. Similar in colour to the male. Total length 
-7*7 inches, eulmen 0*7, wing 3*2, tail 34 , tarsus 0*8. 
+7*7 inches, culmen 0*7, wing 3*2, tail 34 , tarsus 0*8. 
 The Orange-spotted Eulbul is only known from the islands of 
 Java and Sumatra. 
 
@@ -9915,10 +9915,10 @@ under wing-coverts dark brown, those near the edge of the wing
 washed with yellow • axillaries pale fawn-brown; quills daik 
 brown below, pale fawn-brown along the edge of the inner web; 
 "bill black; feet blackish; iris brown" {David). Total length 
-7*6 inches, eulmen 0*7, wing 3*65, tail 3*75, tarsus 0*85. 
+7*6 inches, culmen 0*7, wing 3*65, tail 3*75, tarsus 0*85. 
 
 Adult female. Similar in colour to the male. Total length 8*1 
-inches, eulmen 0*65, wing 3*4, tail 3*5, tarsus 0*75. 
+inches, culmen 0*65, wing 3*4, tail 3*5, tarsus 0*75. 
 Anderson's Yellow-vented Eulbul occurs throughout the mountains 
 of China and the hills separating Yun-nan from Burmah. 
 
@@ -11758,12 +11758,12 @@ surface of body, from the throat downwards, deep orange-yellow,
 paler on the abdomen, vent, and under tail-coverts; under wing-
 coverts and axillaries bright yellow, or white washed with yellow; 
 quills dusky brown below, white along the inner web; " iris vermilion-
-red" (Beccari). Total length 7*6 inches, eulmen 0-6, wing 
+red" (Beccari). Total length 7*6 inches, culmen 0-6, wing 
 3-15, tail 3-2, tarsus 0-65. 
 
 Adult female. Similar to the male in colour,* " iris straw-colour" 
 
-(U. O. Forbes). Total length 7*2 inches, eulmen 0*6, wing 3*1, tail 
+(U. O. Forbes). Total length 7*2 inches, culmen 0*6, wing 3*1, tail 
 3*15, tarsus 0-65. 
 The Euby-throated Bulbul is only known from the islands of Java 
 and Sumatra. 
@@ -12260,7 +12260,7 @@ others; lores, feathers above and round the eye, throat, and fore
 neck deep velvety black, the rest of the under surface dull purple, 
 the under tail-coverts bright purplish cobalt; under wing-coverts 
 dull purple; "bill black; legs black: iris carmine'' (Steere) ; iris 
-pure Indian red (Everett). Total length 10 inches, eulmen 1*05, 
+pure Indian red (Everett). Total length 10 inches, culmen 1*05, 
 wing 4*8, tail 4*1, tarsus 0*7. (Coll. J. B. Steere.) 
 
 The Black-mantled Pairy Bluebird is apparently confined to the 
@@ -12281,7 +12281,7 @@ p. 44; id. Cat. B iii. p. 267 ; Nichols. Ibis, 1881, p. 147.
 Adult male. General arrangement of colour as in /. joueMa ; but 
 the blue is of a turquoise shade, inclining to silvery cobalt on the 
 head; under tail-coverts reaching a little beyond the tip of the 
-tail; " iris dark red " (H. O. Forbes). Total length 8-5 inches, eulmen 
+tail; " iris dark red " (H. O. Forbes). Total length 8-5 inches, culmen 
 1-1, wing 4-95, tail 3-6, tarsus 0*8. 
 
 The Turquoise Eairy Bluebird is only known from the island of 
@@ -13134,7 +13134,7 @@ axillaries pale rufous-buff, spotted with darker brown ; quills dusky
 brown below, pale rufous-buff along the edge of the inner web; 
 " upper mandible greyish brown, lower one whitish flesh-brown ; feet 
 lead-colour ; iris reddish brown " (Prince Max. of Neuwied). Total 
-length 8 inches, eulmen 0*9, wing 3*55, tail $'5, tarsus 1*1. 
+length 8 inches, culmen 0*9, wing 3*55, tail $'5, tarsus 1*1. 
 
 Young. Differs from the adult in having the mantle and back 
 barred with dull whitish, as well as the wing-coverts; the lower 
@@ -13595,7 +13595,7 @@ axillaries washed with tawny buff, all of them mottled with blackish
 bases to the feathers; quills ashy browu below, chequered with 
 white spots along the inside of the irmor web; "bill blackish; 
 lower mandible dull light bluish at the base ; legs flax-brown ; iris 
-reddish brown" (If. E. Dresser). Total length 7*3 inches, eulmen 
+reddish brown" (If. E. Dresser). Total length 7*3 inches, culmen 
 1, wing 3-35, tail 3*4, tarsus 1*05. (21 us. Salvin Sf Godman.) 
 
 Adult female. Quite like the male, but the spots on the throat 
@@ -13670,10 +13670,10 @@ dusky bases to the feathers; under wing-coverts and axillaries
 white, spotted with black; quills ashy brown below, with large 
 white spots on the inner web, imparting a barred appearance to the 
 lower surface of the wing; " iris brown r (A. Forrer). Total length 
-7*1 inches, eulmen 1, wing 3*25, tail 3*2, tarsus 1*15. 
+7*1 inches, culmen 1, wing 3*25, tail 3*2, tarsus 1*15. 
 
 Adult female in breeding-plumage. Similar to the male in colour. 
-Total length 7*2 inches, eulmen 1, wing 3*2, tail 3*1, tarsus 1*1. 
+Total length 7*2 inches, culmen 1, wing 3*2, tail 3*1, tarsus 1*1. 
 
 Winter plumage. Not different in any particular degree from the 
 summer plumage, beyond the fact that both sexes are perhaps a 
@@ -14057,7 +14057,7 @@ nock and breast, these spots much larger on the flanks and under
 tail-coverts, the thighs barred ; under wing-coverts white, minutely 
 spotted with blackish, the axillaries streaked with the same; quills 
 brown below, whitish along the edge of the inner web. Total 
-length 6*6 inches, eulmen 0*7, wing 2*75. tail 3, tarsus 0*9. 
+length 6*6 inches, culmen 0*7, wing 2*75. tail 3, tarsus 0*9. 
 The Striped Cactus-Wren is only known from Colombia and Xew 
 Granada. It is very doubtful whether it is reaUy distinct from the 
 foregoing species. 
@@ -15884,11 +15884,11 @@ of body ochreous brown, as also the thighs, which have a few remains
 of dusky bars ; under tail-coverts rufous; under wing-coverts 
 and axillarics pale rufous, the greater ones near the edge of the 
 wing dusky; quills dusky brown, rufescent along the edge of the 
-inner web. Total length 6-7 inches, eulmen 0*85, wing 2*8, tail 2*9, 
+inner web. Total length 6-7 inches, culmen 0*85, wing 2*8, tail 2*9, 
 tarsus 1/05. {Mas. 8 ah in and Godman.) 
 
 Adult female. Similar to the bird described above (a presumed 
-male). Total length 6 inches, eulmen 0-85, wing 2-'5, tail 2-Q5, 
+male). Total length 6 inches, culmen 0-85, wing 2-'5, tail 2-Q5, 
 tarsus 1-05. 
 
 Obs. The birds described are a fine pair, collected in Colombia by 
@@ -16118,7 +16118,7 @@ of under surface dull fulvous brown, the sides of the body more
 rufous, as also the under tail-coverts; the breast slightly varied 
 with a few cross bars of dusky brown; under wing-coverts rufous ; 
 quills dusky brown, margined with rufous-buff along the inner web. 
-Total length 5*5 inches, eulmen 0*95, wing 2-7, tail 2*6, tarsus 
+Total length 5*5 inches, culmen 0*95, wing 2-7, tail 2*6, tarsus 
 1*05. (MILS. Salvin and Godmcui.) 
 
 Eraser's Wren is apparently confined to Ecuador. 
@@ -16151,7 +16151,7 @@ spotted with black; sides of breast and flanks and thighs rufous-
 brown ; under tail-coverts white or buff, with black cross bands; 
 under wing-coverts white, with dusky bases to the feathers ; axillaries 
 ashy grey; quills dark brown below, whitish along the edge 
-of the inner web. Total length 5-1 inches, eulmen 0*7, wing 2-35, 
+of the inner web. Total length 5-1 inches, culmen 0*7, wing 2-35, 
 tail 2, tarsus 0-85. 
 
 The Spotted-breasted Wren is distributed throughout Central 
@@ -16243,7 +16243,7 @@ white, shaded with ashy ; under wing-coverts dull white, as also the
 edge of the wing, some of the inner ones washed with buff; quills 
 dusky brown, ashy whitish along the edge of the inner web ; " bill, 
 legs, and iris dark brown" (Leotaud). Total length 5'5 inches, 
-eulmen 0-75, wing 2-25, tail 2-05, tarsus 0-85. 
+culmen 0-75, wing 2-25, tail 2-05, tarsus 0-85. 
 
 The White-bellied Orange-breasted Wren occurs in Guiana, Venezuela, 
 and the island of Trinidad. 
@@ -16283,7 +16283,7 @@ forming a broad band across the neck; centre of the breast and
 abdomen ashy grey; sides of body brown ; under tail-coverts white, 
 barred with black; under wing-coverts white, slightly mottled with 
 black near the edge of the wing; quills dusky brown, white along 
-the edge of the inner web. Total length 4*5 inches, eulmen 0*7, 
+the edge of the inner web. Total length 4*5 inches, culmen 0*7, 
 wing 2-2, tail 1-8, tarsus 0*8. (Mus. Scdvin and Godman.) 
 
 The Grey-bellied Orange-breasted Wren replaces the foregoing-
@@ -19144,7 +19144,7 @@ feathers blackish, tipped with ashy; flank-feathers and vent
 blackish, tipped with fulvous brown; under tail-coverts entirely 
 fulvous brown; under wing-coverts light fulvous brown, edged with 
 blackish, the outer ones more ashy; quills brown below, ashy fulvous 
-along the edge of the inner web. Total length 6*3 inches, eulmen 1, 
+along the edge of the inner web. Total length 6*3 inches, culmen 1, 
 wing 2*7, tail 2'G, tarsus l'Oo. (31ns. Col. Godwin-Austen.) 
 
 Adult female (Konchungbum, Muniper Hills; H. Eobert: type of 
@@ -19174,7 +19174,7 @@ edged with blackish and subterminally marked with dull white ;
 under tail-coverts rufous-brown, subterminally marked with a line 
 of dull white; under wing-coverts brown, those near the edge 
 of the wing ashy; quills dusky brown below, pale ashy rufous 
-along the edge of the inner web. Total length 6-5 inches, eulmen 
+along the edge of the inner web. Total length 6-5 inches, culmen 
 1*15, wing 2*95, tail 2*7, tarsus 1-1. (Mus. H. H. Godwin-Austen.) 
 
 Hume's Wedge-billed Wren was originally discovered in Native 
@@ -19288,7 +19288,7 @@ abdomen white; the sides of the breast ashy grey; flanks, thighs,
 and under tail-coverts rufous-brown, the thighs washed with ashy; 
 under wing-coverts and axillaries dull white, slightly mottled with 
 dusky bases to the feathers ; quills dusky brown below, ashy along 
-the edge of the inner web. Total length 4 inches, eulmen 0*7, 
+the edge of the inner web. Total length 4 inches, culmen 0*7, 
 wing 2-2, tail 1*2, tarsus 0*85. 
 
 The "White-breasted Wren is found in the lowland hot forests of 
@@ -22966,7 +22966,7 @@ latter streaked with blackish brown; thighs and under tail-coverts
 creamy white, the latter with light-brown bases; under wing-
 coverts and axillaries very pale brown, edged with white; quills 
 ashy brown below, edged with ashy white along the outer web. 
-Total length 11*5 inches, eulmen 1*2, wing 5, tail 5-6, tarsus 1*0. 
+Total length 11*5 inches, culmen 1*2, wing 5, tail 5-6, tarsus 1*0. 
 
 Tho Long-tailed Mocking-Thrush is found from Ecuador to Peru, 
 ranging perhaps into Northern Chili. Birds from Puna Island are 
@@ -25186,12 +25186,12 @@ under wing-coverts light brown, edged with ochraceous; lower
 coverts near the edge of the wing dusky brown, forming a patch; 
 quills light brown below, ochraceous buff near the base of the inner 
 web; bill blackish, the lower mandible yellow. Total length 7*75 
-inches, eulmen 0*75, wing 4*15, tail 3*75, tarsus 0*85. (l£us. Balvin 
+inches, culmen 0*75, wing 4*15, tail 3*75, tarsus 0*85. (l£us. Balvin 
 and Godman.) 
 
 Adult female. Similar to the male, but a little duller in colour, 
 especially below, where the throat is lighter orange-rufous. Total 
-length 8 inches, eulmen 0-8, wing 4*25, tail 3*8, tarsus 0*9. (Mas. 
+length 8 inches, culmen 0-8, wing 4*25, tail 3*8, tarsus 0*9. (Mas. 
 Salvia and Godman.') 
 
 The Orange-throated Solitaire replaces (7. leucogenys in the 
@@ -25383,7 +25383,7 @@ brown; quills dusky below, bright yellow at the base and on the
 inner web; " bill dark horn-colour; feet yellowish white, tinged 
 with olive; irides of a deeper blue than in the male, and with only 
 an indication of the red ring" (Goitld). Total length 12 inches, 
-eulmen 1*3, wing 6'2, tail 4*6, tarsus 1*7. 
+culmen 1*3, wing 6'2, tail 4*6, tarsus 1*7. 
 
 Young male. Eesembles the female at first, but is generally to be 
 distinguished by a few purplish-black feathers appearing on the head 
@@ -26540,7 +26540,7 @@ three or four distinct denticulations at the end of the upper
 
 mandible; feet blackish. Total length 135 millim., wing 08, tail 
 
-60, eulmen 13, tarsus 17. (Bocage, Z. c.) 
+60, culmen 13, tarsus 17. (Bocage, Z. c.) 
 
 Bocage's Bulbul was discovered at Massabe, on the Loango coast, 
 

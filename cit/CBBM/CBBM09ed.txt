@@ -1494,7 +1494,7 @@ Le Sucrier figuier,
 Levaitt, Ois. cFAfr. vi. p. 157, pi. 293. fig. 2 
 (1808) ; Sundev. Krit. Framst, Levaitt. p. 56 (1857). 
 Cinnyris platurus, Vieitt. N. Diet, d'llist. Nat. xxxi. p. 501 (1819); 
-Aud. et Viettt. Bnc. Meth. ii. p. 589 (1823) $ Less. Man. d'Om. ii. 
+Aud. et Viettt. Enc. Meth. ii. p. 589 (1823) $ Less. Man. d'Om. ii. 
 
 p. 40 (1828). 
 Saccharine Creeper, Lath. Gen. Hist. B. iv. p. 225, no. 13 (1822). 
@@ -4185,7 +4185,7 @@ Pucheran, Rev. et Mag. Zool. 1853, p. 487. '
 
 Nectarinia superba, Drapiez, Diet. Class, xv. p. 514 (1829) • Jard. 
 Monogr. Sun-birds, p. 275 (1843); Gray, Gen. B. I p. 97 (1847) " 
-StricM. Contr. Orn. 1851, p. 133; Verr. Rev. et Mag. Zool. 1851 
+Strickl. Contr. Orn. 1851, p. 133; Verr. Rev. et Mag. Zool. 1851 
 
 p. 316, 1855, p. 511 j Hartl Orn. Westafr. p. 45, no. 127 
 (1857)-Cass. Pr. Philad. Acad. 1859, p. 37; Gray, Hand-l B 
@@ -4587,7 +4587,7 @@ L'An^ala-dian, Aud. et Vieill Ois. Dor. ii. p. 19, pis. 3, 4 (1802).
 Certhia angaiadiana, Shaw, Gen. Zool viii. p. 194, pi. 27 (1811). 
 Cimivris lotenius, Vieill N. Bid. dlllist. Nat. xxxi. p. 493 (1819) ; 
 
-(part.), Bonn, et Vieill Bnc. Meth, ii. p. 590 (1823); Less. 
+(part.), Bonn, et Vieill Enc. Meth. ii. p. 590 (1823); Less. 
 Man. d'Orn. ii. p. 25 (1S28); id. TraiU oVOrn. i. p. 294, no. 11 
 (1831). 
 
@@ -12187,7 +12187,7 @@ and flanks light bluish grey; the abdomen white; thighs olive-
 yellow ; under tail-coverts golden yellow ; under wing-coverts and 
 axillaries white, the edge of the wing golden yellow; quills light 
 brown below, inner edges ashy whitish. Total length 4*5 inches, 
-eulmen 0*5, wing 2*15, tail 1*65, tarsus 0*7. 
+culmen 0*5, wing 2*15, tail 1*65, tarsus 0*7. 
 
 Ilab. Elores and Sumbawa. 
 
@@ -12222,7 +12222,7 @@ under wing-coverts dull white, washed with yellow on the edge of
 the wing; upper wing-coverts green like the back; quills dark 
 brown, the primaries externally margined with yellowish green, the 
 secondaries with olive-green; tail-feathers brown, with olive-green 
-edgings. Total length 4*7 inches, eulmen 0*5, wing 2-35, tail 1*9, 
+edgings. Total length 4*7 inches, culmen 0*5, wing 2-35, tail 1*9, 
 tarsus 0*7. 
 
 Ilab. South Africa, along tho Orange Eiver and extending into 
@@ -13916,10 +13916,10 @@ olive greenish like head; cheeks, sides of breast, flanks, and under
 surface of the body sulphur-yellow; thighs yellow, olive behind; 
 under tail-coverts sulphur-yellow; under wing-coverts and axillaries 
 white, washed with yellow; quills below dusky, with their inner 
-edge ashy, tinged with yellowish. Total length 4 inches, eulmen 0-5, 
+edge ashy, tinged with yellowish. Total length 4 inches, culmen 0-5, 
 wing 2-2, tail 1/5, tarsus 065. (Mus. R. G. Wardlaw Ramsay.) 
 
-The female is like the male. Total length 4 inches, eulmen 0*5, 
+The female is like the male. Total length 4 inches, culmen 0*5, 
 wing 2-15, tail 1-5, tarsus 0-65. (Mm. 11. G. W. E.) 
 
 This species is very like Z. gallio, but much greener above and 
@@ -16075,7 +16075,7 @@ d. [ <$ ] ad. sk. South Australia. Gould Collection.
 JYCELIPHAGA. 
 Type. 
 Bill equal to the rest of the head in length, broad at base, curved; 
-eulmen -with a prominent ridge. Tail much rounded, five sixths 
+culmen -with a prominent ridge. Tail much rounded, five sixths 
 the length of the wing. Pattern of colour very bright yellow and 
 black, much spotted and barred ; inner webs of remiges grey, without 
 paler or fulvous edges. All the rest as in Ptilotis. Length of 

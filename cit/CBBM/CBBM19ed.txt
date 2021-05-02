@@ -1271,7 +1271,7 @@ Le Grand Indicateur, male, Levaill. Ois. Afr. v. p. 135, pi. 241. fig. 1
 
 Indicator 
 major, Steph. Gen. Zool. ix. p. 139, pi. 27. fig. 1 (1815J; 
-Vieill. 2\W. Bid. xvi. p. 153 (1817); Tieill. Bnc. Meth. p. 13-30 
+Vieill. 2\W. Bid. xvi. p. 153 (1817); Tieill. Enc. Meth. p. 13-30 
 (1823) ; Less. Man. Orn. p. 125 (1828) ; id. Traite,?. loo (1831) : 
 Temm. Tail Meth. p. 51 (1838); Gray, Gen. B. ii. p. 451 (1847); 
 Bp. Consp. Ai\ I p. 100 (1850); BJartl Orn. W.-Afr. pp. 183, 
@@ -1581,7 +1581,7 @@ chin slightly mottled with darker centres to the feathers ; the while
 
 patch near the nostril scarcely so distinct; the dark shaft-stripes 
 
-on the thigh-coverts more distinct. Total length 4*3 inches, eulmen 
+on the thigh-coverts more distinct. Total length 4*3 inches, culmen 
 
 0*3, wing 2*75, tail 1*7, tarsus 0-4. 
 
@@ -2117,7 +2117,7 @@ umber-brown " (Emin). Total length 9 inches, culmen 1*2, wing
 4-1, tail 2-95, tarsus 1. 
 
 Adult female. Similar to the male. Total length 9*5 inches, 
-eulmen 1*2, wing 4, tail 2*95, tarsus 1. 
+culmen 1*2, wing 4, tail 2*95, tarsus 1. 
 Hah. Equatorial Africa, probably extending through the Congo 
 region. 
 a, b. $ $ ad. sk. Hparo, Equatorial Africa, Emin Pasha [P.]. 
@@ -3990,7 +3990,7 @@ on the rump and margins of the wing-coverts and quills. It is,
 however, easily distinguished by the yellow eyebrow and facial 
 stripe ; the under surface is pale sulphur-yellow, washed with ashy, 
 the throat itself being bright sulphur-yellow like the eyebrow and 
-band below the eye. Total length 3*4 inches, eulmen 0*5, wing 
+band below the eye. Total length 3*4 inches, culmen 0*5, wing 
 1-95, tail 0-85, tarsus 0-55. 
 
 Young. Similar to the adult, but more dingy in colour, and easily 
@@ -4299,7 +4299,7 @@ tail 1-85, tarsus 0-8.
 
 Adult female. Similar to the male, but with a pale horny-white 
 bill, the throat dull brick-red, not quite so deep as in the male. 
-Total length 5-3 inches, eulmen 0*9, wing 3-15, tail 1-6, tarsus 
+Total length 5-3 inches, culmen 0*9, wing 3-15, tail 1-6, tarsus 
 0*85. 
 
 Rob. Borneo* Its occurrence in Sumatra is doubtful, for though 
@@ -8457,7 +8457,7 @@ the throat a broad black band; the black collar on the chest not
 103 
 
 very distinct, but largely spotted with ovate white markings on the 
-sides of the chest. Total length 8*5 inches, eulmen 1*15, wing 3*8, 
+sides of the chest. Total length 8*5 inches, culmen 1*15, wing 3*8, 
 
 tail 3*3, tarsus 1*15. 
 Hob. Eastern Africa. 
@@ -16674,7 +16674,7 @@ bases of the feathers often showing through, and faintly-developed
 shaft-stripes on the throat being sometimes visible; under wing-
 coverts buff, the lower series dusky black: "iris dark brown; bill 
 black; legs plumbeous brown " {Butler). Total length 12*8 inches, 
-eulmen 0*9, wing 6, tail 7*2, tarsus 1*1. 
+culmen 0*9, wing 6, tail 7*2, tarsus 1*1. 
 
 Adult female. Similar to the male. Total length 12*75 inches, 
 wing 5*8, tail 6-75, tarsus 1. 
@@ -17309,7 +17309,7 @@ way across the wing : iris, bill, and legs black. Total length 18
 inches, oilmen 1*1, wing 6'2, tail 7*3, tarsus 1*1. 
 
 Adult female. Similar in colour to the male. Total length 13inches, 
-eulmen 1*1, wing 6, tail 7*8, tarsus 1*1. 
+culmen 1*1, wing 6, tail 7*8, tarsus 1*1. 
 Eab. South Africa from the Cape Colony to Natal and the 
 Transvaal. 
 
@@ -17589,7 +17589,7 @@ wing-coverts greenish black like the body; quills blackish brown,
 each feather with a large white blotch on the inner web, forming a 
 diagonal band across the under surface of the wing: bill black, 
 with the gape and inside of the mouth orange-red ; irides brown ; 
-legs and claws black. Total length 10*3 inches, eulmen 0*8, 
+legs and claws black. Total length 10*3 inches, culmen 0*8, 
 wing 5, tail 5'7, tarsus 065. 
 
 Immature. Slightly less glossy, of a more violet shade, and with 
@@ -20515,12 +20515,12 @@ Dubois, Bull. Mus. Hist. Nat. Belg. v. p. 3, pi. 2
 
 Adult male. Yery similar in plumage to G. ccmorus, but with the 
 upper parts darker and with the bars on the breast rather broader 
-and blacker. Total length 10 inches, eulmen 0-75, wing 0*4, tail 5't>} 
+and blacker. Total length 10 inches, culmen 0-75, wing 0*4, tail 5't>} 
 tarsus 0*6. 
 
 Adult female. Similar in plumage to the male, only with a slight 
 rufous-buff shade at the base of the grey neck. Total length 9*4 
-inches, eulmen 0*7, wing 5*8, tail 5, tarsus 0*6. 
+inches, culmen 0*7, wing 5*8, tail 5, tarsus 0*6. 
 
 Rufous plumage. Yery similar to that of G. canorus, but generally 
 darker. Upper half of the head, back of the neck, lower back, and 
@@ -21311,7 +21311,7 @@ duller below, where the feather** of the throat and breast show traces
 
 of narrow indistinct du>ky bars. "Iris brick-colour " (F. St rant ft). 
 
-Total length 10 inches, eulmen 0*7, wing 5-4, tail 5-6, tarsus 0*75. 
+Total length 10 inches, culmen 0*7, wing 5-4, tail 5-6, tarsus 0*75. 
 
 Voutig. Above dark brown mottled with rufous buff : tail-
 
@@ -21329,7 +21329,7 @@ The type of Cucubts iua rtm, Tig., is a young bird with the upper
 
 parts nearly uniform brown, and with dusky bars over the entire 
 
-throat and breast. Total length 9*7 inches, eulmen 0*05, wing '55, 
+throat and breast. Total length 9*7 inches, culmen 0*05, wing '55, 
 
 tail 5*3, tarsus 0*75. 
 
@@ -23743,7 +23743,7 @@ Otteulus dialciles, IIIig., in Mus. Berol; Temm. PL Co!. 102. fig. 2
 (1824); lew. Trditc, p. 153 (1831); Gray, Gen. B. ii. p. 463 
 (1847). 
 
-Cuculus metallicus, Viy. # Horsf. Tr. Linn. Soc. xv. p. 302 (1826) ; 
+Cuculus metallicus, Vig. # Horsf. Tr. Linn. Soc. xv. p. 302 (1826) ; 
 Gray, Gen. B. ii. p. 463 (1847). 
 
 Clirvsococeyx lucidus, Bh/th, J.A.S.Bmq. xv. p. 54 (184G); id. 
@@ -24999,7 +24999,7 @@ half of the chest; remainder of the body white, with a buff shade
 on the under tail-coverts ; axillaries, tinder wing-coverts, and basal 
 portion of the inner webs of the primaries buff, remainder of the 
 quills ashy brown : bill black, with a pale basal portion to the 
-under mandible. Total length 10 inches, eulmen 0*85, wing 4-3, 
+under mandible. Total length 10 inches, culmen 0*85, wing 4-3, 
 tail 4*6, tarsus 0*9. 
 
 Hob. The Argentine Eepublic and Paraguay, ranging possibly 
@@ -25016,7 +25016,7 @@ Hudson).
 
 8. Coccyzus pumilus. 
 Coccyzus 
-pumilus, StricM. Contr. Orn. 1852, p. 28, pi. 82; Cab. § 
+pumilus, Strickl. Contr. Orn. 1852, p. 28, pi. 82; Cab. § 
 Heine, Mus. Hern. iv. p. 79, note (1862); Set. Cat. Aon. JB. p. 323 
 (1862) ; id. P. Z. S. 1864, p. 122, 1870, p. 169 ; Gray, IIand-1. 
 
@@ -25030,7 +25030,7 @@ black on the terminal portion, the ends of the feathers narrowly
 tipped with white ; sides of the head, chin, throat, and front of the 
 chest bright rufous; remainder of the body, the tail and wing-
 coverts, and a basal inner margin to the quills buff; bill black. 
-Total length 7 inches, eulmen 0-75, wing 3*7?, tail 3'5, tarsus 0-9. 
+Total length 7 inches, culmen 0-75, wing 3*7?, tail 3'5, tarsus 0-9. 
 
 Hab. The Island of Trinidad, Venezuela and Colombia. 
 
@@ -25114,7 +25114,7 @@ brown barred with whitish: a small patch of bare skin round
 the eye dull green; bill brown, paler and greyer along the edges 
 and yellower on the lower mandible; iris reddish brown; legs 
 greenish yellow, claws dark brown. Total length 17*8 inches, 
-eulmen 1-15, wing 7*8, tail 9*7, tarsus 1*45. 
+culmen 1-15, wing 7*8, tail 9*7, tarsus 1*45. 
 
 Adult female. Similar to the male in plumage. 
 
@@ -25250,7 +25250,7 @@ Cuculus erassirostris, 8teph. Gen. Zool. ix. p. 86 (1815, ex Levaill.
 pi. 215) -K Vieill. Enc. Meth. p. 1333 (1823). 
 
 Cuculus orientalis (nee Linn.), Horsf. Trans. Linn. 8oe. xiii. p. 178 
-(1822); Blyth, J. A. S. Beng. xi. p. 913 (1842); StricM. Ann. # 
+(1822); Blyth, J. A. S. Beng. xi. p. 913 (1842); Strickl. Ann. # 
 Mag. Nat. Hist. 1846, p. 400. 
 
 Eudynamis orientalis, 
@@ -26938,7 +26938,7 @@ down the centre of the crown, and portion of the eyebrows black
 (the amount of the black on the head varying greatly); remainder 
 of the plumage black, strongly glossed with violet-blue, with a large 
 white patch on the wing formed by the greater coverts : bill and 
-legs black, irides brown. Total length 21 inches, eulmen 1*8, 
+legs black, irides brown. Total length 21 inches, culmen 1*8, 
 
 •wing 9, tail 11*2, tarsus 2. 
 Immature. Differs from the adult in the whole crown being 
@@ -29709,7 +29709,7 @@ across the upper back bright chestnut; ends of the quills dark
 brown; remainder of the back, tail, and the under surface of body 
 black glossed with bluish green ; under wing-coverts dusky black 
 mottled with rufous buff: (i bill black; iris crimson; legs grey" 
-(Peale). Total length 17*5 inches, eulmen 1*6, wing 6*5, tail 10, 
+(Peale). Total length 17*5 inches, culmen 1*6, wing 6*5, tail 10, 
 tarsus 1*7. 
 
 Hah. Philippine Islands. 
@@ -32333,7 +32333,7 @@ rufous-buff, brighter than the crown, passing into dusky brownish
 black on the remainder of the body and under tail-coverts ; under 
 surface of tho wings similar to the upperside: " bill apple-green ; 
 legs dark plumbeous, claws black " (Davison). Total length 12-5 
-inches, eulmen 1 '2, wing 4*5, tail 7, tarsus 1. 
+inches, culmen 1 '2, wing 4*5, tail 7, tarsus 1. 
 
 Adult female. Upper half of the head and back of the neck pearl-
 grey; back, wings, and tail chestnut; the quills with brownish-
@@ -32817,7 +32817,7 @@ uniform chestnut; under surface of the wings blue-black, mottled
 with rufous on the wing-coverts: "iris light brown, orbital and 
 loral space deep crimson; bill light green tinged with olive; feet 
 and logs lead-grey; nails dark grey?1 {A. Nuerett). Total length 
-17 inches, eulmen 1*75, wing iKJ, tail 11, tarsus H>. 
+17 inches, culmen 1*75, wing iKJ, tail 11, tarsus H>. 
 
 ILab, Palawan. 
 
@@ -32984,7 +32984,7 @@ chest; lower breast, flanks, and thighs dusky grey, strongly glossed
 on the abdomen with green; under tail-coverts glossy green • under 
 wing-coverts dusky grey; quills dusky brown, with a slight olive 
 gloss: bill yellow, with a triangular black patch at the base of 
-the eulmen; iris crimson; legs black. Total length 14 inches, 
+the culmen; iris crimson; legs black. Total length 14 inches, 
 oulmen 1*15, wing 5, tail 7*8, tarsus 1*2. 
 
 Immature. Has some slight traces of rufous odges on the greater 
@@ -33511,7 +33511,7 @@ and more slightly so on the flanks and under tail-coverts ; centre of
 the lower breast and abdomen whitish; under surface of the wings 
 uniform brownish grey : bill black, with a pale patch on tho base 
 of the keel; iris brown ; legs blackish. Total length 15-1 inches, 
-eulmen 0*9, wing 6-4, tail 9*5, tarsus 2*2. 
+culmen 0*9, wing 6-4, tail 9*5, tarsus 2*2. 
 
 Hab. The forests of North-western Madagascar. 
 
@@ -33536,7 +33536,7 @@ the forehead, crown, and nape being olive-brown, slightly darker
 than the back, with a chocolate-brown shade; abdomen and under 
 tail-coverts fulvous-white: bill black, with a small 3 cllow patch on 
 tho sides of the base of the keel; irides brown; legs blackish. 
-Total length 17*7 inches, eulmen 0*95, wing 6*2, tail 9*5, tarsus 
+Total length 17*7 inches, culmen 0*95, wing 6*2, tail 9*5, tarsus 
 
 2^2. 
 Hal. Madagascar, from Cape St. Andre to the Bay of St. Augustin 
@@ -34022,7 +34022,7 @@ abdomen and under tail-coverts uniform dusky black, slightly
 glossed with olive ; bill blackish horn-colour, lighter along the end 
 half of the edges of the mandibles : " iris brown; legs olive-grey " 
 
-(C. Buckley). Total length 19-1 inches, eulmen 
+(C. Buckley). Total length 19-1 inches, culmen 
 2, wing 6*2, tail 
 10, tarsus 275. 
 Ilab. Ecuador. 
@@ -34769,7 +34769,7 @@ Liotaml, Ois. Trinidad, p. 358 (1866); Scl. <§* Sab. P. Z. S. 1866,
 p. 195,1867, p. 585 ; Finsch, P. Z. S. 1870, p. 587 ; Gray, Hand-L 
 B. ii. p. 210, no. 8912 (1870); Feb. Orn. Bras. p. 268 (1871) ; 
 Wyatt, Ibis, 1871, p. 379; Scl. # Salt. Koniencl Ai\ Neotr. 
-p. 107 (1873); iid. P. Z. S. 1879, p. 536 ; Sah. Cat. StricM. Coll. 
+p. 107 (1873); iid. P. Z. S. 1879, p. 536 ; Sah. Cat. Strickl. Coll. 
 p. 443 (1882); Tacz. Orn. Perou, iii. p. 180 (1880). 
 Anno Guazu, Azara, Apunt. ii. p. 348 (1805); Hartl. Inch Azara, 
 p. 17 (1847). 
@@ -35423,10 +35423,10 @@ broad white ends to all but the centre feathers ; under surface pale
 buff, with narrow black shaft-stripes on the* throat; under surface 
 of wings whitish buff, shading into brown on the middle and end 
 half of the quills: "bill and iris yellow; legs grey" (Alcai Ptel). 
-Totil length 16 inches, eulmen 1*3, wing 7*4, tail 9*7, tarsus 1-05. 
+Totil length 16 inches, culmen 1*3, wing 7*4, tail 9*7, tarsus 1-05. 
 
 Adult female. Similar in plumage to the male. Total length 15 
-inches, eulmen 1*3, wing d*9, tail 9*2, tarsus 1*45. 
+inches, culmen 1*3, wing d*9, tail 9*2, tarsus 1*45. 
 Hob. The same as that of the genus. 
 
 a, b. Ad. sk. Chili. Seebohrn Coll. 
@@ -35521,7 +35521,7 @@ a'". Bill broad, culmen rounded and not
 compressed behind the nostrils; with [p. 447. 
 crimson on the quills as in Turacus.. 3. MUSOPHAGA, 
 
-b'". Bill flattened, eulmen compressed 
+b'". Bill flattened, culmen compressed 
 throughout its length; with no crim- [p. 440. 
 son on the quills . 4. CORYTHJEOLA, 
 
@@ -35837,7 +35837,7 @@ J.f. 0.1886, p. 30.
 Adult. Similar to T. Uvingstoni, but distinguished from it and 
 from T. schalowi by having the crest-feathers more evenly graduated 
 as in T. corythaix, and the back and wings bluer than the tail. 
-Total length 17*7 inches, eulmen 1, wing 7*1, tail 7*8. 
+Total length 17*7 inches, culmen 1, wing 7*1, tail 7*8. 
 
 Hah. ISTguru Mountains, East Africa. 
 This species I have not seen, and I greatly doubt its distinctness 
@@ -36069,11 +36069,11 @@ dusky black, partially glossed with green: bill orange, inclining to
 
 olive near the nostrils; iris brown; legs black. Total length 15*5 
 
-inches, eulmen 1*1, wing 6*3, tail 7*3, tarsus 1*5. 
+inches, culmen 1*1, wing 6*3, tail 7*3, tarsus 1*5. 
 
 Adult female. Similar in plumage to the male. Total length 1G 
 
-inches, eulmen 1*1, wing 6*4, tail 7*8, tarsus 1*55. 
+inches, culmen 1*1, wing 6*4, tail 7*8, tarsus 1*55. 
 
 Hab. Confined to East Africa south of the Equator, between 
 
@@ -36092,7 +36092,7 @@ e,f. Ad. sk. Malindi (Sir J. Kirk). Shelley Coll.
 12. Turacus erythroloplius. 
 Opaethus erythrolopkus, Vieill Nouv. Diet, xxxiv. p. 306 (1819); 
 
-id. Bnc. Meth p. 1298 (1823); id. Gcd. Ois. p. 46, pi. 49 (1825). 
+id. Enc. Meth.p. 1298 (1823); id. Gcd. Ois. p. 46, pi. 49 (1825). 
 Musophaga paulina, Temm. PI. Col. i. p. 75, pi. 23 (1820). 
 Conthaix paulina, Shaw, Gen. Zool xiv. p. 222, pi. 26 (1826); 
 Less. Traite, p. 124 (1831); Eartl J. f. 0. 1854, p. 256; Ifon
@@ -36493,11 +36493,11 @@ under tail-coverts rufous-brown ; under surface of tail marked with
 yellow like the upper surface, the remainder black; under surface 
 of wings black, with a large portion of the smaller coverts verditerblue 
 : " bill yellow, with a large terminal portion scarlet; iris red ; 
-legs dusky black" (Emin Pasha). Total length 28 inches, eulmen 
+legs dusky black" (Emin Pasha). Total length 28 inches, culmen 
 1-7, wing 12*3, tail 14*5, tarsus 2*1. 
 
 Adult female. Similar in plumage to the male. Total length 29 
-inches, eulmen 1*8, wing 12*6, tail 14*7, tarsus 2'25. 
+inches, culmen 1*8, wing 12*6, tail 14*7, tarsus 2'25. 
 
 Hab. The same as that of the genus. 
 

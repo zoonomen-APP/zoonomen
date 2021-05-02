@@ -3445,7 +3445,7 @@ and the under mandible horn-colour ; rictal bristles very .small.
 Wings with the third and fourth primaries nearly equal and 
 longest; second primary about equal to the fifth ; bastard primary 
 0-65 to 0-8. Legs, feet, and claws pale brown. Length of wing 3*5 
-to 3-35 inches, tail 2-(J5 to 2-6, eulmen 0-75 to 0*7, tarsus 1-05 to 1*0. 
+to 3-35 inches, tail 2-(J5 to 2-6, culmen 0-75 to 0*7, tarsus 1-05 to 1*0. 
 
 There are no differences in colour worthy of note attributable to 
 age, sex, or season. 
@@ -10398,7 +10398,7 @@ rather more than half the length of the second primary. Tail equal
 
 to or longer than the wing, the outside feathers 0'25 to 0*35 inch 
 shorter than the longest. Legs, feet, and claws pale horn-colour. 
-Length of wing 2-65 to 2*15 inches, tail 2-75 to 2*3, eulmen 0*63 
+Length of wing 2-65 to 2*15 inches, tail 2-75 to 2*3, culmen 0*63 
 to 0-55, tarsus 1 to 0-83. 
 
 The female differs from the male only in being smaller in size. 
@@ -10425,7 +10425,7 @@ Arundinax davidianus, Ve?r. apud Sivinhoe, Ibis, 1874, p. 438.
 General colour of the upper parts olive-brown, sometimes shading 
 into russet-brown on the forehead. Tail equal to or shorter than 
 the wing. Length of wing 2-56 to 2*35 inches, tail 2-35 to 2-25, 
-eulmen 0*6 to 0*55, tarsus 0*98 to 0*88. 
+culmen 0*6 to 0*55, tarsus 0*98 to 0*88. 
 
 The Formosan Bush-Warbler has been found at Chefoo, on the 
 
@@ -11397,7 +11397,7 @@ shorter than the fifth; bastard primary 1*1 to 0*7 inch. Legs
 1. GEOCICHLA. 155 
 feci, and claws pale fle^h-colour. Length of wing 5-8 to 5-3 inches, 
 
-tail 4-4 lo 3*6, eulmen 1*1 to 1-0, tarnus K52 to P2. 
+tail 4-4 lo 3*6, culmen 1*1 to 1-0, tarnus K52 to P2. 
 
 It is not known that any change in the colour of the plumage is 
 
@@ -11473,7 +11473,7 @@ half of under mandible yellow. Wing with the third, fourth, and
 fifth primaries nearly equal and longest, second primary a trifle 
 shorter than the sixth, bastard primary 1-15 to 1-0 inch. Legs, feet, 
 and claws pale yollowish brown. Length of wing 5-5 to 5*1 inches, 
-tail 4*6 to 4*1, eulmen 1*2 to 1*1, tarsus 1'3 to 1*25. 
+tail 4*6 to 4*1, culmen 1*2 to 1*1, tarsus 1'3 to 1*25. 
 
 Nothing appears to be known of the changes in the colour of the 
 plumage caused by age, sex, or season. 
@@ -11530,7 +11530,7 @@ in the South-Indian species are white. Bill dark brown, paler at
 the hasp of the under mandible. Wing with the third, fourth, and 
 fifth primaries nearly equal and longest, second primary about equal 
 to the sixth, bastard primary 1-2 to 1*1 inch. Length of wing 
-5-3 to 5*1 inches, tail 4-4 to 4-25, eulmen 1-2, tarsus 1*45 .to 1*35. 
+5-3 to 5*1 inches, tail 4-4 to 4-25, culmen 1-2, tarsus 1*45 .to 1*35. 
 
 Nothing is known of the changes of plumage which this species 
 undergoes. 
@@ -11607,7 +11607,7 @@ Bill dark brown, paler at the base of the under mandible. Wing
 with the third, fourth, and fifth primaries nearly equal and longest, 
 second primary between the fifth and sixth, bastard primary 0*9 
 inch. Legs, feet, and claws pale brown. Length of wing 5-2 
-inches, tail 3*7, eulmen L23, tarsus 1*1± 
+inches, tail 3*7, culmen L23, tarsus 1*1± 
 Nothing is known of the difference between the sexes, or between 
 summer and winter plumage. Young in Jinst plumage have the 
 chestnut-brown sub terminal spots on most of the feathers of the 
@@ -11693,7 +11693,7 @@ mandible. "Wing with the third, fourth, and fifth primaries nearly
 equal and longest, second primary between the fifth and sixth, or 
 sixth and seventh, bastard primary 1-28 to 1*15 inch. Legs, feet, 
 and claws greyish brown. Length of wing 4*9 to 4*5 inches, tail 3*3 
-to 2*75, eulmen 1*28 to 1*15, tarsus 145 to 1*1. 
+to 2*75, culmen 1*28 to 1*15, tarsus 145 to 1*1. 
 
 There appears to bo no difference in the colour of the sexes. 
 Young in first plumage and birds of the year are unknown. 
@@ -11847,7 +11847,7 @@ slightly paler; rictal bristles long, numerous, but slender.
 "Wing with the fourth primary slightly the longest, second primary 
 between the sixth and seventh, bastard primary 1*7 to 1*5 inch. 
 Leg", feet, and claws darkish brown. Length of wing 5*75 to 5*1 
-inches, tail 3*7 to 3*1, eulmen 1*6 to 1*3, tarsus 1*4 to 1*25. 
+inches, tail 3*7 to 3*1, culmen 1*6 to 1*3, tarsus 1*4 to 1*25. 
 
 It is not known that any difference of plumage can be traced to 
 sex or season. Young in first plumage have ochraceous shafts 
@@ -12306,7 +12306,7 @@ half white; basal portion of the inner web of secondaries white.
 Bill dark brown, paler at the base of the under mandible. Wings with 
 the fourth primary slightly the longest, second primary about equal 
 to the seventh, bastard primary 0-95 inch. Legs, feet, and claws 
-flesh-colour. Length of wing 4*51 inches, tail 3-02, eulmen 0-0, 
+flesh-colour. Length of wing 4*51 inches, tail 3-02, culmen 0-0, 
 tarsus 1*37. 
 Nothing is known of the changes of plumage of this species. 
 Reichenow's Ground-Thrush has only been obtained on the mountains 
@@ -13851,7 +13851,7 @@ of the under mandible. Wings with the third and fourth primaries
 nearly equal and longest, second primary between the fourth and 
 fifth, bastard primary 0*6 to 0-5 inch. Legs and feet yellowish 
 brown, claws darker. Length of wing 4-55 to 4*25 inches tail 
-3-3 to 2-7, eulmen 0-88 to 0*8, tarsus 1-35 to 1*3. 
+3-3 to 2-7, culmen 0-88 to 0*8, tarsus 1-35 to 1*3. 
 
 The female is scarcely to be distinguished from the male. The 
 abrasion which takes place during winter and spring causes the 
@@ -14151,7 +14151,7 @@ under mandible. Wings with the third and fourth primaries nearly
 equal and longest ; second primary sometimes shorter, sometimes 
 longer than the fifth ; bastard primary 0-9 to 0*45 inch. Legs, feet, 
 and claws pale brown. Length of wing 4*45 to 3-85 inches, tail 2*9 
-to 2-5, eulmen 0*8 to 0-7, tarsus 1*28 to 1-12. 
+to 2-5, culmen 0*8 to 0-7, tarsus 1*28 to 1-12. 
 
 The female does not appear to differ from the male, nor are the 
 colours much brighter immediately after the autumn moult. Birds 
@@ -14855,7 +14855,7 @@ and below. "Wings with the third, fourth, and fifth primaries .
 nearly equal and longest, second primary between the sixth, and 
 seventh, bastard primary 1*1 to 0-9 inch. Legs, feet, and claws 
 dark brown. Length of wing 4*6 to 4-54 inches, tail 3*6 t o 3*53, 
-eulmen 0*9 to 0*8, tarsus 1*4 to 1*3. 
+culmen 0*9 to 0*8, tarsus 1*4 to 1*3. 
 
 The female does not differ from, the male. Birds of the year and 
 young in first plumage appear to be undescribed. 
@@ -15065,7 +15065,7 @@ between the sixth and seventh, occasionally between the seventh
 
 and eighth ; bastard primary 1*0 to 0-6 inch. Legs, feet, and claws 
 
-brown. Length of wing 4*9 to 4-57 inches, tail 4-0 to 3*5, eulmen 
+brown. Length of wing 4*9 to 4-57 inches, tail 4-0 to 3*5, culmen 
 
 0-JJ2 to 0-81, tarsus 1*25 to 1-1. 
 
@@ -15799,7 +15799,7 @@ upper parts a pale greyish brown, slightly darker on the centre of
 the feathers of the head; the axillaries and belly are pale buff, 
 slightly darker on the flanks and sides of the breast; chin and 
 throat*white? streaked with greyish brown. Length of wing 5-1 
-inches, tail 3*6, eulmen 0*95, tarsus 1*25. Wing-formula the same 
+inches, tail 3*6, culmen 0*95, tarsus 1*25. Wing-formula the same 
 as in the preceding. This supposed species may probably prove 
 to be only an unusually pale example of the common one—in fact, 
 an accidental variety. 
@@ -15919,7 +15919,7 @@ scarcely paler than rest of under surface. Bill yellow. Wings with
 the third, fourth, and fifth primaries nearly equal and longest; 
 second primary intermediate in length between the sixth and 
 seventh; bastard primary 1-0 to 0-8 inch. Length of wing 5*5 to 
-5-0, tail 4-5 to 44, eulmen 1*05 to 0-95, tar&us 1*6 to 1*5. Legs, 
+5-0, tail 4-5 to 44, culmen 1*05 to 0-95, tar&us 1*6 to 1*5. Legs, 
 feet, and claws pale. 
 
 The female does not differ from the male. Birds of the year are 
@@ -15973,7 +15973,7 @@ with olive on the rump. The underparts are pale russet-brown,
 darkest on the breast. The ground-colour of the chin and upper 
 throat is pale russet-brown instead of greyish white, causing the 
 streaks to appear less distinct. The wing-formula of both species 
-alike. Length of wing &'§ to 5'2 inches, tail 4*4 to 4, eulmen 1*2 
+alike. Length of wing &'§ to 5'2 inches, tail 4*4 to 4, culmen 1*2 
 
 to 1*1, tarsus 1*6 to 1'45. 
 The Falkland-Island Thrush is believed to be confined to the 
@@ -16069,7 +16069,7 @@ with bright chestnut; inner margin of quills pale brown. Bill
 yellow above and below. Wings with the third, fourth, and fifth 
 primaries nearly equal and longest, second primary about equal to 
 the sixth, bastard primary 1*4 to 0*92 inch. Legs, feet, and claws 
-pale. length of wing 5*5 to 4*65 inches, tail 5*0 to 3*85, eulmen 
+pale. length of wing 5*5 to 4*65 inches, tail 5*0 to 3*85, culmen 
 1-12 to 0-95, tarsus 1*6 to 1*45. 
 
 The female does not differ from the male. Birds of the year and 
@@ -16101,7 +16101,7 @@ and fifth primalies nearly equal and longest, second primary intermediate
 in length between the seventh and eighth, bastard primary 
 
 0.9 to 0-8 inch. Legs, feet, and claws pale brown. Length of 
-wing 4*5 to 4*1 inches, tail 3*3 to 3*15, eulmen 0-9 to 0*85, tarsus 
+wing 4*5 to 4*1 inches, tail 3*3 to 3*15, culmen 0-9 to 0*85, tarsus 
 1*2. 
 It is not known that the sexes differ in colour. Birds of the 
 year are unknown. Young in first plumage have the slate-grey 
@@ -16214,7 +16214,7 @@ species in haying the ground-colour of the chin and throat the
 same colour as the breast. In all other respects (colour of soft 
 parts, wing-formula, &c.) no difference is observable. Length of 
 
-•vying 4-65 to 4*3 inches, tail 3*9 to 3-35, eulmen 0*9 to 0*81, tarsus 
+•vying 4-65 to 4*3 inches, tail 3*9 to 3-35, culmen 0*9 to 0*81, tarsus 
 1-4 to 1-25. 
 The female does not differ from the male. Birds of the year and 
 young in first plumage very closely resemble "birds of the preceding 
@@ -18300,7 +18300,7 @@ mediate in length between the sixth and seventh, bastard primary
 
 1*0 to 0*8 inch. Legs, feet, and claws yellowish brown. Length 
 
-of wing 4-5 to 4-25 inches, tail 3*26 to 2*9, eulmen 0*9 to 6-8, 
+of wing 4-5 to 4-25 inches, tail 3*26 to 2*9, culmen 0*9 to 6-8, 
 
 tarsus 1-28 to 1-14. 
 
@@ -19822,7 +19822,7 @@ longest, second primary between the seventh and eighth, bastard
 primary 1*2 to 1*1 inch. Legs, feet, and claws coral-red. Tail 
 with the outside feathers 0*4 to 0*6 inch shorter than the longest. 
 
-Length of wing 5*05 to 4*9 inches, tail 4:'Q to 4*0, eulmen 1*1 to 1*06, 
+Length of wing 5*05 to 4*9 inches, tail 4:'Q to 4*0, culmen 1*1 to 1*06, 
 tarsus 1*52 to 1*5. 
 
 The female does not differ from the male except in being slightly 
@@ -21202,7 +21202,7 @@ bristles nearly obsolete. "Wing with the third, fourth, and fifth
 primaries nearly equal and longest, second primary intermediate 
 in length between the sixth and seventh, bastard primary 0*7 to 
 0*6 inch. Legs, feet, and claws pale brown. Length of wing 
-3*0 to 2*75 inches, tail 2<0 to 1*7, eulmen 0*61 to 0*55, tarsus 
+3*0 to 2*75 inches, tail 2<0 to 1*7, culmen 0*61 to 0*55, tarsus 
 1*1 to 1-01. 
 
 In the female the general colour of the upper parts is dark olive-
@@ -22863,7 +22863,7 @@ Petrocincla rupestris ( VieilL), apud Ayres, Ibis, 1876, p. 427.
 In the adult male in breeding-plumage the colour is similar to that 
 of iff", exploratory but with the forehead and crown bluish white, 
 shading into pale slate-grey on the nape; tarsus much shorter. 
-Length of wing 4-2 to 3-95 inches, tail 2*61 to 2-56, eulmen 1*0 to 
+Length of wing 4-2 to 3-95 inches, tail 2*61 to 2-56, culmen 1*0 to 
 0-9, tarsus 14 to 1-01. 
 
 The adult female in breeding-plumage differs from that of 31. explorator 
@@ -23507,7 +23507,7 @@ of twelve feathers, and is long and nearly even. Most of the species
 have the rump and the tail-feathers, except the two centre ones, 
 chestnut. One species has the pattern of the tail Saxicoline, but it 
 may at once be distinguished from the chestnut-tailed Chats by the tail 
-being about five times the length of the eulmen. In two other species 
+being about five times the length of the culmen. In two other species 
 there is little or no chestnut on the tail; but they may be distinguished 
 from the black or brown-tailed Robins by the black on the 
 throat, and the white on the wing-coverts and innermost secondaries. 
@@ -25372,7 +25372,7 @@ dark brown on the under tail-coverts, axillaries, and under wing-
 coverts. Bill, legs, feet, and claws black. TVmg with the third and. 
 fourth primaries nearly equal and longest, second primary intermediate 
 in length between the sixth and seventh, bastard primary 
-0*95 inch. Length of wing 3*45, tail 2*5, eulmen 0*65, tarsus TO. 
+0*95 inch. Length of wing 3*45, tail 2*5, culmen 0*65, tarsus TO. 
 
 It is noo known that the female differs from the male * nor has any 
 record been made of the difference in the colour of the plumage 
@@ -25420,7 +25420,7 @@ centre of belly, and under tail-coverts. Bill, legs, feet, and claws black.
 "Wing with the third, fourth, and fifth primaries nearly equal and 
 longest; second primary intermediate in length between the sixth and 
 seventh; bastard primary 0*9 to 0*75 inch. Length of wing 3*1 to 
-2-82 inches, tail 2*5 to 2-h, eulmen 0-05 to 0*0, tarsus 0*95 to U-S>. 
+2-82 inches, tail 2*5 to 2-h, culmen 0-05 to 0*0, tarsus 0*95 to U-S>. 
 
 The female differs from the male in being darker in colour, the 
 general colour of the upper parts being brown, and of the underpays 
@@ -25470,7 +25470,7 @@ under wing-coverts, and the inner margin of the quills, pale brown.
 Bill, legs, and feet dark brown. "Wings with the third and fourth 
 primaries nearly equal and longest, second primary about equal to 
 the seventh, bastard primary 0*9 inch. Length of wing 2*9 inches, 
-tail 2-2, eulmen 0-6, tarsus 0*85. 
+tail 2-2, culmen 0-6, tarsus 0*85. 
 
 Nothing is known of any differences in the colour of the plumage, 
 which may be attributable to age, sea% or season. 
@@ -28390,7 +28390,7 @@ b. d ad. sk. Gilgit, Cashmere, July 22,1879. Dr. J. Scully [P.].
 Page 146. 
 
 CINCLTJS, NESOCICHLA.—Those genera have the small bastard 
-primary of Turdida, but tho highly-concavod wing of Timeliidce. 
+primary of Turdida, but tho highly-concavod wing of Timeliidae. 
 They will be treated of in the latter family. 
 
 Page 182. 
@@ -28485,7 +28485,7 @@ Page 365.
 Saxicola shelleyi, S. arnotti, and their allied species are very 
 closely connected with Myrmecocklila ; but their first primaries are 
 so much developed that they undoubtedly form part of Mr. Sharpe's 
-Timeliidce, where they may be placed in the genus ThammJAa. I 
+Timeliidae, where they may be placed in the genus ThammJAa. I 
 am sorry I cannot include them in my volume. 
 
 ^j^ , Page 367. Saxicola albonigra. 

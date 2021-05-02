@@ -1726,9 +1726,9 @@ light brown, the feathers broadly streaked with creamy white, the
 thighs, abdomen, and under tail-coverts decidedly paler; under 
 wing-coverts wlniish, the small marginal ones dark brown with 
 creamy-while shaft-stripes; bill dark horn-brown, yellowish on 
-eulmen and towards the tip; feet dusky cinereous; hides brown. 
+culmen and towards the tip; feet dusky cinereous; hides brown. 
 
-Total lengih about 06 inches, eulmen 3*75, wing 2d, tail 11, tarsus 
+Total lengih about 06 inches, culmen 3*75, wing 2d, tail 11, tarsus 
 about 4*5, middle too 5-5. 
 
 Yoimy. Head with scattered white down; upper surface, including 
@@ -3243,7 +3243,7 @@ Range. The entire continent of South America with Tierra del
 * IBYCTEE GYMNOCEPHALUS. 
 Ibycter gymnocephalus, D' Orbigny, Toy. Am. Mirid. Zool. p. 50 (1835); 
 
-StricM. Orn. By%. p. 24 (1855); Gray, Hand-l i. p. 5 (1869). 
+Strickl. Orn. By%. p. 24 (1855); Gray, Hand-l i. p. 5 (1869). 
 Sab. Coehabamba, Bolivia. 
 A species of which examples were only seen but never procured by D'Orbigny; 
 
@@ -3438,7 +3438,7 @@ under wing-coverts rufous brown, tipped with fulvous, the greater
 
 ones dull ochre margined with brown. Total length 22 inches, 
 
-eulmen 1*65, wing 15*1, tail 8*5, tarsus 3-05. 
+culmen 1*65, wing 15*1, tail 8*5, tarsus 3-05. 
 
 Adult Head crested, the feathers of the crown recurved; upper 
 
@@ -3463,7 +3463,7 @@ bare and yellow; bill yellow, horn-blue at base of both mandibles ;
 
 cere and bare space round eye bright orange; feet orange-yellow; 
 
-iris brown. Total length 21 inches, eulmen 1*5, wing 14'6, tail 8*5, 
+iris brown. Total length 21 inches, culmen 1*5, wing 14'6, tail 8*5, 
 
 tarsus 1*6. 
 
@@ -3973,7 +3973,7 @@ P. Z. S. 1856, p. 348; Gurnet/, Cat. Papt. B. Korw. Mvs. p. 8
 (1864) ; Layard, B. S. Afr. p. 33 (1SU7) j Gray, Hand-l B. i. p. 38 
 t (1869). 
 Serpentarius secretarius, Gray, Cat, Acciptr. Brit Mus. p. 77 (1848). 
-Sagittarius secretarius, StricM. Orn. Syn. p, 144 (1855) j Gurney in 
+Sagittarius secretarius, Strickl. Orn. Syn. p, 144 (1855) j Gurney in 
 Anderss. B. Bam. Ld. p. 34 (1872). 
 Serpentarius orientalis, Verr. P. Z. S.1856, p. 352. 
 Astur secretarius, ScU. Mus. P.~B. Astures, p. 28 (1862). 
@@ -4968,7 +4968,7 @@ pure white, including the under wing-coverts and axillaries; the
 throat and breast broadly streaked with black, diminishing to nar
 
 
-row shaft-lines on lower breast. Total length 20 inches, eulmen 
+row shaft-lines on lower breast. Total length 20 inches, culmen 
 
 1*45, wing 14*1, tail 9*3, tarsus 3*35, middle toe 1-75 (Afus. Lugd.). 
 
@@ -5046,7 +5046,7 @@ Tchoug, L&vaiM. Ok. (FAfr. i. p. 133, pi. 32 (1799) * Sund. Crit om
 LemilL p. 27 (1857). 
 
 Circus melanoleucus, Vidll N. Diet dJKkt. Nat. iv. p. 465 (1816); 
-Let*. Traite, p. 87 (1831) ; Gray, Gen. B. i. p. 32 (1845); StricM. 
+Let*. Traite, p. 87 (1831) ; Gray, Gen. B. i. p. 32 (1845); Strickl. 
 Om. Syn. p. 154 (1855) j Jerd. B. Ind. i. p. 98 (1862); Sehl Mm. 
 R-B. bird, p. 8 (1802) : Gray, Hand-l B. I p. 37 (1869) -Eume, 
 Bough Notes, ii. p. 307 (1870) * Swinh. P. Z. S. 1871, p. 34 • Boldsw. 
@@ -5676,7 +5676,7 @@ Levaill p. 25 (1&57).
 Falco ranivoras, Baud. Traitt, ii. p. 170 (1800). 
 Circus ranivorus, Cuv. BJegne An. 1 p. 858 (1829); Less. TraiU, p. 86 
 
-(1831); Gray, Gen. B. i. p. 32 (1845); StricM. Orn. Syn. p. 151 
+(1831); Gray, Gen. B. i. p. 32 (1845); Strickl. Orn. Syn. p. 151 
 (1855); Grill, Zool Anteckn. p. 48 (1858); Gum. Ibis, 1859, p. 242; 
 Sehl Mm. P.-B. Circi, p. 11 (1862); Layard, B. S. Afr. p. 35 
 (1867) ; Bocage, Jorn. Lhb. 1868, p. 47; Gray, MandA. B. i. p. 36 
@@ -5748,7 +5748,7 @@ e, f. tf 2t« South Africa. S. African Museum.
 y. <$ ad. st. South Africa.J. Gould, Esq. [P.]. ^ "" "~ "* 
 h. Ad. sk. South Africa. John Eoeke, Esq. [P]. 
 14. Circus gouldi 
-Circus assimilis, Gould, B. Austr. i. pi. 26 (1848) * StricM, Orn. Syn, 
+Circus assimilis, Gould, B. Austr. i. pi. 26 (1848) * Strickl. Orn. Syn, 
 p. 155 (1855) j Cass. U. 8. Expl. Exp. p. 101 (1858); Gould, 
 JSCandb. B. Austr. L p. 58 (1865) ; Fimch u. BCartl Faim. C&n&r. 
 Polyn. Orc.p.7 (1867); Gray, Hand-!. JB.Lp. 36 (1869); Mutton, 
@@ -6507,7 +6507,7 @@ Falco unieinctus, Temm. PL Col. i. pi. 813 (1824).
 Morpknus unieinctus, Less. Man. i. p. 90 (1828). 
 Astur unieinctus, Cuv. Pk/rie An. i. p. 332 (J 829); 6-Vay, 6?e?«. B. 
 
-J. p. 27 (1849); StricM. Orn. Stjn. p. 221 (1855). 
+J. p. 27 (1849); Strickl. Orn. Stjn. p. 221 (1855). 
 Xk s unicinctiis, Zes*. Traite, p. (51 (1831). 
 Falco harrisii, ^/ . JB. JV. ^4w. pi. 392 (1831); id. Orn. Biogr. v. 
 p. 30 (1849). ' 
@@ -6770,7 +6770,7 @@ minutely barred with ashy grey, scarcely less thickly on the under
 tail-coverts, but much fewer on the under wing-coverts, which are 
 therefore purer white; cere vermilion; bill horn-black, vermilion 
 at base ; feet vermilion; iris pale umber-brown. Total length 20-5 
-inches, eulmen 1*4, wing 12*5, tail 9, tarsus 3*5. 
+inches, culmen 1*4, wing 12*5, tail 9, tarsus 3*5. 
 
 Adult female, A little larger than the male. Total length 21 
 inches, wing 13*4. 
@@ -6805,7 +6805,7 @@ msus gabar, Cuv. Regne An. i. p. 321 (1817)• Less. Traite, p. 60
 NO.-Afr. i. p. 73 (1869); Finsch u. Hartl Yog. Osiafr. p. 86 
 (1870); Finsch, Tr. Z. S vii. p. 207 (1870). 
 
-Sparvius leucorrhous, Bonn, et Vieill. Bnc. Meth ill. p. 1269 (1823). 
+Sparvius leucorrhous, Bonn, et Vieill. Enc. Meth.ill. p. 1269 (1823). 
 Accipiter gabar, Vig. Zool Joum. i. p. 338 (1824) ; Smith, S.-Afr. 
 
 Q. Joum. i. p. 225 (1830); Gray, Gen. B. i. p. 29 (1849); Strwkl 
@@ -6829,7 +6829,7 @@ Melierax gabar, Hartl Ahhandl Geb. Xatarw. Hamb. 18*52. p. 15;
 Layard, B. S. Afr. p. 30 (1867); Gumey, Ibis, 1868, p. 145, et 
 1869, p. 288; Anderss. B. Bam. Ld., ed. Gumey,-p. 28 (1872). 
 
-Accipiter sphenurus, StricM. P. Z. S. 1853, p. 215 (Jui\). 
+Accipiter sphenurus, Strickl. P. Z. S. 1853, p. 215 (Jui\). 
 Micronisus gabarinus, Bp. Rev. et Mag. de Zool 1854, p. 538. 
 Astur micronisus, Beaum. Naum. 1856, p. 267. 
 Micronisus gabar, var. nilotica, Heugl Ibis, 1861, p. 74. 
@@ -6856,7 +6856,7 @@ and more linear on the lower flanks and thigh-feathers; under tail-
 coverts white; under wing-coverts white, banded with ashy grey 
 like the breast; cere reddish orange; bill dusky horn-colour, reddish 
 at base; feet bright reddish orange; iris brilliant purple*. Total 
-length 11*5 inches, eulmen 0-85, wing 7*1, tail 5*9, tarsus 1*0. 
+length 11*5 inches, culmen 0-85, wing 7*1, tail 5*9, tarsus 1*0. 
 
 Adult female. A little larger than the male. Total length 
 13*6 inches, wing 8*3, tarsus 2'1. 
@@ -7380,7 +7380,7 @@ of irregular and ill-defined bars on the flanks, abdomen, and thighs,
 the black shaft-stripes very distinct on the chest; under tail-coverts 
 white; under wing-coverts white, barred and freckled with ashy 
 brown; cere yellow; bill bluish Mack; legs yellow; iris yellow. 
-Total length. 20-5 inches, eulmen 1*4, wing 12*9* tail 9-5. tarsus 2-9, 
+Total length. 20-5 inches, culmen 1*4, wing 12*9* tail 9-5. tarsus 2-9, 
 
 Adult female. Similar to the male, but larger. Total length 24 
 inches, wing 13*9, tarsus 3*1. 
@@ -7822,7 +7822,7 @@ Falco trivirgatus, Temm. PL Col. i. gl. 303 (1824).
 2sisus trivirgatus, Less, Man. d)Om. i. p. 98 (1828). 
 Astur trivirgatus, Cuv. Pegne An. i. p. 332 (1829) ; Gray, Gen. P. 
 
-i. p. 27 (1849); Pp. Comp. i. p. 31 (1850) ; StricM. Orn. Syn. 
+i. p. 27 (1849); Pp. Comp. i. p. 31 (1850) ; Strickl. Orn. Syn. 
 p. 221 (1855); Jerd. P. Ind. i. p. 47 (1862); ScM. Mus. P.-P. 
 Astures, p. 22 (1862) j id. Vog. Nederl Lid. Valkv. pp. 18, 57, 
 pi. 10 (18150) ; Wall. Ibis, 18(58, p. 6 ; Gray, IIand4. i. p. 30 (1869); 
@@ -8738,7 +8738,7 @@ Astur novse hollandise, Sclil. Vog. Ned. Ind. pp. 19, 58, pi. 11.fig.3
 Adult male. Similar to A. novce liaTlandke and uniformly white 
 like that species, but very much- smaller ; cere yellow; bill black; 
 feet citron-yellow; iris orange-yellow. Total length 12*3 inches, 
-eulmen 1*1, wing 7*8, tail 5-9, tarsus 2*25, middle toe 1*2. (Mus. 
+culmen 1*1, wing 7*8, tail 5-9, tarsus 2*25, middle toe 1*2. (Mus. 
 Lugd.) 
 Hab. New Guinea and adjacent islands. 
 
@@ -8836,7 +8836,7 @@ whitish, and crossed with three narrow bars of clear ashy grey, a
 little rufeseent near the shafts ; entire under surface, including the 
 under tail-coverts, pale grey, the throat and under wing-coverts 
 whiter, the shafts darker, showing a hair-like stripe. Total length 
-17 inches, eulmen 0-85, wing 9*8, tail 7*8, tarsus 2-15, middle toe 
+17 inches, culmen 0-85, wing 9*8, tail 7*8, tarsus 2-15, middle toe 
 1*4. (litis. Lugd.) 
 
 Rah. Brazil. 
@@ -8867,7 +8867,7 @@ quills brown, barred above with darker brown, the under surface
 ashy white, with a few greyish black cross bars; tail ashy brown, 
 with four broad black bars, equally distinct on the under surface, 
 which is ashy white; bill horn-brown, yellowish at base ; feet yellow. 
-Total length 19 inches, eulmen 1*3, wing 11, tail 8*5, tarsus 2*4. 
+Total length 19 inches, culmen 1*3, wing 11, tail 8*5, tarsus 2*4. 
 
 (Mus. Lugd.) 
 Hah. Brazil. 
@@ -9290,7 +9290,7 @@ base, black at tip; feet pale yellow, claws black; iris bright yellow.
 
 123 PALCONIDiE. 
 
-Total length 21*5 inches, eulmen 1*2, wing 12*5, tail 11, tarsus 3*4, 
+Total length 21*5 inches, culmen 1*2, wing 12*5, tail 11, tarsus 3*4, 
 
 (Mu$. Cantabr.) 
 
@@ -9332,7 +9332,7 @@ remains of thirteen or fourteen bars of darker brown, plainer under
 
 neath, where the feathers are ashy white* bill dusky, tip black; 
 
-feet yellowish; iris brown. Total length 18 inches, eulmen 1*15, 
+feet yellowish; iris brown. Total length 18 inches, culmen 1*15, 
 
 wing 10*55, tail 8*6, tarsus 2-55. 
 
@@ -9364,7 +9364,7 @@ line of greyish brown, the entire'breast streaked with longitudinal markings of
 brown, the under tail-coverts whitish with rufous-brown spots; thighs pale 
 fawn-colour, spotted and barred with clear rufous; under wing-coverts buffy 
 fawn-colour, streaked with rufous brown; cere pale yellow; bill black; feet 
-pale yellow; iris olive. Total length 16 inches, eulmen 1, wing 8*9, tail 7*3, 
+pale yellow; iris olive. Total length 16 inches, culmen 1, wing 8*9, tail 7*3, 
 tarsus 1-35. 
 
 This may be the young of Astur wallacii; but the bird from Bouru is what I 
@@ -9679,7 +9679,7 @@ spotted, the latter barred with brown ; cere yellow; bill dark
 PALCO^IDJ?. 
 
 horn-blue, base of lower mandible yellowish; feet yellow; iris 
-orange. Total length 13 inches, eulmen 0*85, wing 8*15, tail 6*3, 
+orange. Total length 13 inches, culmen 0*85, wing 8*15, tail 6*3, 
 tarsus 2-3. 
 
 Adult female. Larger than the male, and paler grey above; below 
@@ -9876,7 +9876,7 @@ Falco Tieillotinus, Shaw, Gen. Zool. vii. p. 204 (1809).
 F'alco velox, Wils. Am. Orn. v. p. 116, pi. 45. fig. 1 (1812). 
 Falco pennsylTanicus, Wils. Am. Orn. vi. p. 1, pi. 40. fig. 1 (1812). 
 Sparvius striatus, Vieill. N. Diet. x. p. 828 (1817). 
-Accipiter ardesiaceus, Bonn, et Vieill Bnc. Meth. iii. p. 1274 (1823). 
+Accipiter ardesiaceus, Bonn, et Vieill Enc. Meth. iii. p. 1274 (1823). 
 Accipiter velox, Vig. Zool. Journ. i. p. 338 (1824). 
 Accipiter pennsylTanicus, Vig. Zool. Journ. i. p. 338 (1824)$ Swains, 
 
@@ -10091,7 +10091,7 @@ rufous on lower part; rest of under surface clear rufous, spotted on
 both webs or else barred with white, the upper breast more or less 
 uniform rufous; under wing-coverts rufous white, the upper ones 
 streaked, the lower ones spotted with rufous; under taii-coverts 
-white. Total length 15*5 inches, eulmen 1-05, wing 0*3, tail 7'9, 
+white. Total length 15*5 inches, culmen 1-05, wing 0*3, tail 7'9, 
 tarsus 2*7, middle toe 1*5. 
 
 Adult female. Similar to the male, but larger. Total length 17*5 
@@ -10194,7 +10194,7 @@ Finsch 8f EartL Vog. Ostafr. p. 85 (1870).
 Accipiter minullus, Vig. Zool. Joimi. i. p. 338 (1824); Smithy S. Afr. 
 
 Q. Journ.Lp. 226 (1830); Gray, Gen.B. i. p. 29 (1849) ; Bp. Consp. i. 
-p. 32 (1850) ; StricM. Orn. Syn. p. 113 (1855); Gumey, Ibis, 185% 
+p. 32 (1850) ; Strickl. Orn. Syn. p. 113 (1855); Gumey, Ibis, 185% 
 p. 242; Heugl. Ibis, 1861, p.* 75; Sch Ibis, 18(54, p. 306; Gumey, 
 Ibis, 1868, p. 144; Gray, &and~l B. i. p. 33 (I860; ; Sharpe, 
 P. Z. S. 1871, p. 134; Gumey, in Anderss. B. Dam. Id. p. 31 
@@ -10390,7 +10390,7 @@ o. Skeleton. Voyage of the ; Kattlesnake.'
 Accipiter madagascariensis, Verr. & Afr. Q. Joum. ii. p. 282 (1834) ; 
 Gray, Cat Accipitr. p. 35 (1844); Bp. Consp. i. p. 32 (1850); 
 
-^ StricM. Orn. Syn. p. 114 (1855) j Gray, Hand-l B. i. p. 32 (1869). 
+^ Strickl. Orn. Syn. p. 114 (1855) j Gray, Hand-l B. i. p. 32 (1869). 
 2\isus madagascaiiensiSj Kaup7 Contr. Orn. 1850, p. 64. 
 Accipiter lantzii, Verr, Rev. et Mag. de Zool. 1866, p. 353, pi. 18; 
 
@@ -10654,7 +10654,7 @@ Hah. Sula Islands.
 13. Aecipiter erythrocnemis. 
 Falco nisus, Max. Beitr. Orn. Bras. Hi. Abth. 1, p. Il l (1830). 
 Aecipiter ervthroenerais, Gray, Cat, Accipiir. Brit, Mm. p. 70 (1848); 
-Bp. Consp. i. p. 32 (1850); StricM. Orn. Syn. p. 116 (1855) ; Set 
+Bp. Consp. i. p. 32 (1850); Strickl. Orn. Syn. p. 116 (1855) ; Set 
 
 P. Z. S. 1855, p. 134, et 1860, p. 70, et 1866, p. 303; Scl 8? Sah. 
 Ex. Orn. pL xviL (1867); Gray, Hand-l B. i. p. 32 (1869) j Scl 
@@ -10727,7 +10727,7 @@ of the ear-coverts and the sides of the neek dark brown; under
 surface of body white, with narrow shaft-streaks of dark brown; 
 the thighs pale ochre, unstriped ; under tail-coverts entirely white ; 
 under wing-coverts white, slightly tinged with fulvous, with narrow 
-brown shaft-streaks. Total length 11*5 inches, eulmen 0*8, wing 
+brown shaft-streaks. Total length 11*5 inches, culmen 0*8, wing 
 7-3, tail 5*9, tarsus 2. 
 
 Hah From Guatemala to Venezuela. 
@@ -10822,7 +10822,7 @@ FALCO^IDiE.
 
 bands of "brownish ashy; bill blackish horn-colour, yellowish at base 
 of lower mandible; feet yellow, nails horn-brown. Total length 
-10*5 inches, eulmen 0*7, wing 7, tail 6, tarsus 2. 
+10*5 inches, culmen 0*7, wing 7, tail 6, tarsus 2. 
 
 Adult female. Similar to the male, but larger. Total length 13-5 
 inches, wing 8, tail 7*5, tarsus 2*2. 
@@ -10853,7 +10853,7 @@ in the form of two rounded spots of white ; throat white, inclining
 to ashy grey on the fore neck; remainder of under surface vinous 
 chestnut, the thighs included • vent and under tail-coverts white, 
 slightly varied with obsolete greyish black bars, more distinct on the 
-lower tail-coverts. Total length 9*8 inches, eulmen 0*75, wing 6-5, 
+lower tail-coverts. Total length 9*8 inches, culmen 0*75, wing 6-5, 
 tail 4*4, tarsus 1*7, middle toe 1*05. (Mus. Bruce.) 
 
 Bab. Gaboon. 
@@ -11583,7 +11583,7 @@ TscJiudij Faun. Perucm. pp. 17, 84 (1844).
 
 Bupornis meridionalis, Kaup, Conir. Orn. 1850? p. 68, 
 
-Astur rafulus, StricM. Orn. Syn. p. 422 (1855). 
+Astur rafulus, Strickl. Orn. Syn. p. 422 (1855). 
 
 , Asturina rutilans, Burm. Th. Bras. iL p. 80 (1856). 
 
@@ -11630,7 +11630,7 @@ middle with* a distinct white bar; under surface of body rufous, the
 entire breast covered with obsolete remains of narrow blackish bars; 
 thighs and under wing- and tail-eoverts uniform bright rufous. 
 
-Total length 20 inches, eulmen 1*55, wing 16-5, tail 8*3, tarsus 4*15. 
+Total length 20 inches, culmen 1*55, wing 16-5, tail 8*3, tarsus 4*15. 
 
 Adult female. Larger than male. Total length r24 inches, wing 
 18*3, tail 10, tarsus 4*8. 
@@ -11673,7 +11673,7 @@ grey ..,.. ahlreidatu^ p. 163»
 1. Tachytriorchis alMcau&atusr. 
 Aquila coliblanca, Azara, Aptrnt. i. n. 69 (1802). 
 Buteo albieaudatus, Vieill. N. Diet iv. p. 477 (1816),-Pucker. Bev* 
-etMag. 1850, p. 87; StricM. Orn. Stjn. p. 35 (1855). 
+etMag. 1850, p. 87; Strickl. Orn. Stjn. p. 35 (1855). 
 Spizaetus leucurus, Vieill. N. J>ict. xxxii. ]>. 59 (1819). 
 Falco pterocles, Temm. JPl Col i. pis. 56, 139 (1823). 
 Buteo pterocles, ZebS. Man. cVOm. i. p. 103 (1828) ; Gray, Gen. B. 
@@ -12483,7 +12483,7 @@ with black; under surface of wing white, the secondaries barred
 with blackish on the inner web, and crossed with a broad black 
 subterminal band; primaries black at tip ; lores whitish; cere 
 yellow; bill black, whitish at base ; feet yellow; iris ochraceous 
-grey. Total length 21 inches, eulmen 1-85, wing 17, tail 8, 
+grey. Total length 21 inches, culmen 1-85, wing 17, tail 8, 
 tarsus 3*3. 
 
 Adult female. A little larger than the male. Total length 
@@ -12705,11 +12705,11 @@ feathers, the two outer ones externally shaded with ashy grey, and
 marked near the end with an irregular spot of brown; cere yellowish 
 green; orbita1 uge dusky greenish* bill brownish plumbeous, 
 yellow at gape, tip black; feet dingy or pale lemon-yellow ; 
-iris brownish yellow. Total length 26 inches, eulmen 1*9, wing 
+iris brownish yellow. Total length 26 inches, culmen 1*9, wing 
 17*7, tail 10*5, tarsus 3*75. 
 
 Adult female. Similar to the male, but slightly larger. Total 
-length 26 inches, eulmen 1*9, wing 18*4, tail 10*5, tarsus 3*5*. 
+length 26 inches, culmen 1*9, wing 18*4, tail 10*5, tarsus 3*5*. 
 
 Prom this stage the bird gradually becomes more sooty, and in 
 the last rufous plumage closely resembles B. deserterurn, espeeiaHy 
@@ -12808,7 +12808,7 @@ the greater part of their extent; the primaries externally pale ashy
 near the base; tail dull rufous, the extreme base white, all the 
 feathers mottled with dark brown, collecting near the end of the 
 tail, which is usually uniform dark brown. Total length 20 inches, 
-eulmen 1-35, wing 13*5, tail 7*6, tarsus 2*9, bare part of same in 
+culmen 1-35, wing 13*5, tail 7*6, tarsus 2*9, bare part of same in 
 front to root of middle toe 1*5. 
 
 Adult. Above brown, the feathers conspicuously margined with rufous, 
@@ -12837,7 +12837,7 @@ bar of brown; shafts white, all the feathers shading off into
 brown on their outer margin, the external feather shaded with clear 
 ashy grey; cere lemon-yellow; bill dark lead-colour, lighter near 
 throat and cere; feet lemon-yellow; iris light hazel or yellowish. 
-Total length 21 inches, eulmen 1*55, wing 13*4, tail 7*8, tarsus 3. 
+Total length 21 inches, culmen 1*55, wing 13*4, tail 7*8, tarsus 3. 
 
 Like the other Buzzards of the Old World, this species gradually 
 gets darker with age, and the tail appears to alter to an almost 
@@ -13418,7 +13418,7 @@ Buteo boreaiis, Vieill X. Diet IT. p. 478 (1816) ; Less. TraiU, p. 70
 (1831) j Sw. §* Mich. Faun. Bor.-Am. Bird®, p. 50 (1831) ; Gosse, 
 
 B. Jam. p. 11, pi. 2 (1849) j Gray, Gen. B. i. p. 11 (1849); Bp. 
-Consp. I p. 19 (1850) ; Cass. B. Calif, p. 97 (1855) $ StricM. Orn. 
+Consp. I p. 19 (1850) ; Cass. B. Calif, p. 97 (1855) $ Strickl. Orn. 
 Syn. p. 29 (1855) ; Cass, m Beard'* B. X. Am. p. 25 (1860): 
 Bryant, Pr. Bost JSoc. X. M. Tiii. p. 108 (1862) j Pelz. VerL z,-b. 
 Wien, 1862, p. 148; Schl Mm. P.-B. Buteones, p. 8 (1862); Gray, 
@@ -14125,7 +14125,7 @@ extending a little higher up on the secondaries, which are, however,
 mottled with brown; tail brown above, ashy white beneath, the shafts 
 white and the tips buffy white, the feathers crossed with traces of 
 seven or eight bars of dark brown, the subterminal one very broad, 
-all the others more or less dissolved. Total length 27 inches, eulmen 
+all the others more or less dissolved. Total length 27 inches, culmen 
 1*9, wing 19*4, tail 11, tarsus 3-6. 
 
 Hob. ftFepal and Thibet, 
@@ -14198,7 +14198,7 @@ brown; thighs bright chestnut-fawn, barred across with dark
 brown, the tarsal feathers rufous brown; under wing-coverts 
 white, with a few indications of fawn-coloured spots and streaks; 
 cere yellow; bill blackish horn-colour; feet yellow; iris brown. 
-Total length 26 inches, eulmen 1*9, wing 18*35, tail 10*7, 
+Total length 26 inches, culmen 1*9, wing 18*35, tail 10*7, 
 tarsus 4-5. 
 
 • Eal. The south-western States of Morfch America to Mexico. 
@@ -14680,7 +14680,7 @@ whitish; chest pale rufous, the shafts distinctly indicated by narrow
 central black lines; rest of the under surface fulvous, barred with 
 pale rufous, decreasing in number and distinctness on the abdomen 
 and under wing- and tail-coverts; the thighs fulvous, very thickly 
-banded with pale rufous. Total length 14*5 inches, eulmen 1*3, 
+banded with pale rufous. Total length 14*5 inches, culmen 1*3, 
 wing 9*2, tail fro, tarsus 2*4. 
 
 Young. Above brown, some of the wing-eoverts margined with 
@@ -14778,11 +14778,11 @@ under surface of body black, like the upper, the tibial plumes rufous;
 under tail-coverts bufly white; under wing-coverts creamy buff, the 
 axillaries and lower coverts slightly spotted with black; inner surface 
 of wing black, the primaries barred with white near the base, 
-the secondaries with ashy grey. Total length 14*5 inches, eulmen 1, 
+the secondaries with ashy grey. Total length 14*5 inches, culmen 1, 
 wing 8*5, tail 6-5, tarsus 2*3. 
 
 Adult female. Similar to the male, but a little larger. Total 
-length 15 inches, eulmen 1*1, wing 9, tail 6*7, tarsus 2*3. 
+length 15 inches, culmen 1*1, wing 9, tail 6*7, tarsus 2*3. 
 
 Young. Above dark brown, much mottled with rufous, the scapulars 
 and wing-coverts notched or barred as well as edged with 
@@ -14879,7 +14879,7 @@ all round creamy buff, narrowly streaked with black on the crown;
 lower part of throat black, forming a conspicuous patch; rest of 
 under surface uniform bright chestnut, except on fore neck, which 
 inclines to fulvous; under wing-coverts and axillaries chestnut, a 
-little darker than the breast. Total length 18 inches, eulmen 1*85, 
+little darker than the breast. Total length 18 inches, culmen 1*85, 
 wing 15, tail 7*5, tarsus 3*35. 
 
 Adult female. Similar to the male, but a little larger. Total 
@@ -14920,7 +14920,7 @@ Daptrius buson, Gray, Cat. Accipitr. p. 14 (1844).
 
 Morpbnus buson, Gray, Gen. B. i. p. 15 (1845). 
 
-Buteo aequinoctialis, Gray, Cat. Accipit). 1848, p. 37; StricM. Orn. 
+Buteo aequinoctialis, Gray, Cat. Accipit). 1848, p. 37; Strickl. Orn. 
 
 JSyn. p. 42 (1855): Schl. Mm. B.-B. Buteones, p. 18 (1862) ; Gray, 
 
@@ -16245,7 +16245,7 @@ with a few mottlings of the same extending up the inner web of the
 feathers; under surface of body black, the under tail-coverts paler 
 brown; cere and orbits yellowish white• bill yellowish horn-colour, 
 passing into black at tip; feet light yellow; iris hazel. Total 
-length 38 inches, eulmen 3, wing 24*2, tail 17*5, tarsus 4*8. 
+length 38 inches, culmen 3, wing 24*2, tail 17*5, tarsus 4*8. 
 
 Young. Above bright rufous fawn, the crown inclining to dark 
 brown, the neck-feathers mesially streaked and tipped with fulvous, 
@@ -16880,7 +16880,7 @@ Falco mogilnik, Gm. 8. N. I p. 259 (1788).
 Aquila bifasciata, J. E. Gray, in Gray $ Hardzo. III. Inch Zool i. pi. 17 
 (1832); G. R. Gray, Gen. B. iii. App. p. 1 (1849); Bp. Consp. i. 
 
-p. 14 (1850) ; StricM. Orn. Syn. p. 58 (1855) $ Anders. P. Z. S. 
+p. 14 (1850) ; Strickl. Orn. Syn. p. 58 (1855) $ Anders. P. Z. S. 
 1871, p. 621 ; Brooks, J. A. S. B. 1873, p. 145. 
 Aquila nrpalensis, Hodgs. Asiat. Res. xviii. pt. 2, p. 13, pi. 1 (1833). 
 Aquila orientalis, Cab. J.f. 0. 1854, p. 369. 
@@ -16970,7 +16970,7 @@ Hartl Orn. W.-Afr. p. 3 (1857); Layard, B. of S. Afr. p. 10
 Aquila nsevioides, Ouv. Pegne An. i. p. 326 (1829); Gray, Gen. B. 
 
 i. p. 13.£1845); Pitcher. Rev. et Mag. de Zool. 1850, p. 5 j Bp. 
-Consp. i. p. 14; StricM. Orn. Syn. p. 59 (1855); Pels. Verk. z,-h. 
+Consp. i. p. 14; Strickl. Orn. Syn. p. 59 (1855); Pels. Verk. z,-h. 
 Wien, 1862, p. 158; Sckl Mus. P.-B. Aquilse, p. 3 (1862); Lilford, 
 Ibis, 1865, p. 172, pi. 5; Locke, Expl titi. Alger, i. p. 25 (lbG7): 
 Degl. et Gerbe, Orn. Eur. i. p. 30 (1867); Gray, Sand-l i. p. 10 
@@ -17182,7 +17182,7 @@ dark brown on the throat, chest, and entire breast; under tail-coverts
 nearly uniform whity brown; under wing-coverts dark brown, the 
 outermost whity brown ; inner lining of wing nearly uniform ashy 
 brown, rather lighter near the base, inclining to whitish at the base 
-of the inner web of first primary. Total length 26 inches, eulmen 2, 
+of the inner web of first primary. Total length 26 inches, culmen 2, 
 wing 18, tail 10, tarsus 3. 
 
 Young male. Above brown, with paler margins to the feathers, 
@@ -17388,7 +17388,7 @@ Adult female. Similar to A. ncevia, but a very much larger and
 more powerful bird, and apparently never becoming so light brown 
 
 39. AQJJILA. 249 
-in plumage. Total length 29 incites, eulmen 2-4, wing 21*4, tail 
+in plumage. Total length 29 incites, culmen 2-4, wing 21*4, tail 
 11-8, tarsus 4*2. 
 Adult male. Bather smaller than the female. Total length 26-5 
 inches, wing 20*5, tail 10*5, tarsus 3*9. 
@@ -17617,7 +17617,7 @@ xyy. Sterna.
 
 2. Msaetus spilogaster. 
 Spizaetus spilogaster, Bp. Rev. ei Mag. de Zool 1850, p. 487 (ex JDu 
-Bus, MS.); StricM. Orn. Syn. p. 73 (1855) ; Schl Mus. P.-B. Astures, 
+Bus, MS.); Strickl. Orn. Syn. p. 73 (1855) ; Schl Mus. P.-B. Astures, 
 p. 12 (1862); Layard, B. S. Afr. p. 14 (1807) ; Heugl 0m. 
 N.O.-Afr. i. p. 57 (1869); Gray, Hand-l. B. i. p. 13 (1809); 
 Finsch u. Hartl. Vdg. Ostafr. p. 48 (1870) ; Bocage, Jonu Lisb. 
@@ -18993,7 +18993,7 @@ VOL. i.
 FALCONIDJS. 
 
 part of their extent from the base upwards. Total length 30 inches, 
-eulmen 2*35, wing 21, tail 13*5, tarsus 3-6. (2£us. LugcL) 
+culmen 2*35, wing 21, tail 13*5, tarsus 3-6. (2£us. LugcL) 
 Adult male. Similar to the female, but smaller. Total length 
 24 inches, wing 19-7, tail 13-7, tarsus 3*1. u 
 
@@ -19133,7 +19133,7 @@ umber-brown. Total length 12 inches, oilmen 1*1, wing 8*9,
 tail 5*8, tarsus 1*95. 
 
 Adult female. A little larger than the male. Total length 
-13*5 inches, eulmen 1*2, wing 9*5, tail 6*5, tarsus 2*1. 
+13*5 inches, culmen 1*2, wing 9*5, tail 6*5, tarsus 2*1. 
 Hah. Western and Korth-eastern Africa, as far south as Zanzibar 
 in Eastern Africa. 
 
@@ -19159,7 +19159,7 @@ Kaupifalco monogrammicus, Gurnet/ in Aaiderss. B. Bam. Ld. p. 26
 Very similar to M. monogrammicus, but having the bands on the 
 lower parts much broader and darker, especially on the thigh-
 feathers, the white band on the tail much narrower, and the throat-
-stripe indistinct. Total length 13-8 inches, eulmen 1*15, wing 8'8t 
+stripe indistinct. Total length 13-8 inches, culmen 1*15, wing 8'8t 
 tail 5*9, tarsus 1*95. 
 
 Hah. Erom Angola to Damara Land on the west coast, and Zambesi 
@@ -19493,7 +19493,7 @@ p. 25 (1862) • Bocage, Jorn. Lisb. ii. p. 39 (1868) ; Gray,
 Hand-l B. i. p. 14 (1869) ; ECeugl. Orn. KO.~Afr. I p. 85 (1869) • 
 Mnsch u. Marti. Tog. Ostafr. p. 54 (1870): 
 
-Circaetus pectoralis, Smith, 8. Afr. Q. Jburn. i p. 109 (1830); StricM. 
+Circaetus pectoralis, Smith, 8. Afr. Q. Jburn. i p. 109 (1830); Strickl. 
 Orn. Syn. p. 47 (1855) : Gurney in Anderss. B. Dam. Id. p. 10 
 (1872). 
 
@@ -20314,7 +20314,7 @@ Astur liventer, Gray, Cat Accipitr. p. 34 (1844).
 Poliomis liventer, Kaupf Classif. Sdug. u. Vog. p. 122 (1844) ; Gray, 
 
 
-Gen. B. i. p. 30 (1849); Bp. Consp. i. p. 18 (1850); StricM. Orn. 
+Gen. B. i. p. 30 (1849); Bp. Consp. i. p. 18 (1850); Strickl. Orn. 
 Syn. p. 126 (1855); Wall Ibis, 1868; p. 19; Gray, Hand-l. B. i. 
 
 p. 16 (1869); Walden, Tr. Z. S. viii. p. 37 (1872); Hume. Stray 
@@ -20333,7 +20333,7 @@ a few whitish bars on the flanks; thighs and under wing- and tail-
 coverts pure white; tail rufous, distinctly margined and tipped with 
 ashy grey, and crossed with six blackish bars, the subterminal one 
 being a little broader; cere and orbits yellow; bill yellow, the tip 
-black; feet yellow; iris pale yellow. Total length 17 inches, eulmen 
+black; feet yellow; iris pale yellow. Total length 17 inches, culmen 
 1-45, wing 11-8, tail 7, tarsus 2*65, middle toe 1*4. 
 
 51 . BtrXASTUB. 
@@ -20823,7 +20823,7 @@ Sw. # Bieh. F. Bor.-Am. Birds, p. 15 (1831); Gmdd, B. Bw. i.
 pi. 11 (1837); And. B. N. Am. I p. 59, pi. 14 (1839) ; Gray, Grn. 
 
 B. i. p. 17 (1845); Bp. Consp. i p. 15 (1850) j Cam. B. Calif, 
-p. Il l (1855); StricM. Orn. Sgn. p. 50 (1855); Cass, in Bairtfs B, 
+p. Il l (1855); Strickl. Orn. Sgn. p. 50 (1855); Cass, in Bairtfs B, 
 N. Am. p. 43 (1860) * JSehl Mus. P.-B. Aqpilse, p. 12 (1862) ; 
 Peh. Verh. z.-b. Wien, 1863, p. 588; Ikgl et Gerbe, Orn. Eur.'I 
 305 
@@ -20935,7 +20935,7 @@ Haliaetus pelagicus, Gray, Gen. B. iii. App. p. 1 (1849) ; Temm. 8?
 
 
 Schl F. J. Aves, p. 11, pi. 4 (1850); Pp. Consp. i. p. 15 (1850); 
-Cass. B. Calif, pp. 31,110, pi. 6 (1855); StricM. Orn. St/n. p. 51 
+Cass. B. Calif, pp. 31,110, pi. 6 (1855); Strickl. Orn. St/n. p. 51 
 (1855) • Schrenk, Reis. Amur!. Zool p. 222 (1859) ; Cass, in Baird, 
 
 B. N. A. p. 42 (I860) ; Schl Mus. P.-B. Aquilae, p. 14 (1862) 5 
@@ -21033,7 +21033,7 @@ Y2
 308 FALCOHIDJE. 
 
 ridge bluish lead-colour, slightly tinged with green; feet yellowish 
-white; iris olive-brown. Total length 28 inches, eulmen 2-§, wing 
+white; iris olive-brown. Total length 28 inches, culmen 2-§, wing 
 22-3, tail 9-5, tarsus 4. 
 
 Adult female. Slightly larger than the male. Total length 
@@ -21354,7 +21354,7 @@ Polyborus hypoleucus, Benn. P. Z. S. 1830-31, p. 13: id. Gard. Zool
 Soc. ii. p. 303 (1831). 
 Gypohierax angolensis, Biipp. M W. p. 46 (1835, note); Gray, Gen. 
 
-B. i. p. 7, pi. 4 (1844) ; Bp. Consp. i. p. 12 (1850) ; StricM. Orn. 
+B. i. p. 7, pi. 4 (1844) ; Bp. Consp. i. p. 12 (1850) ; Strickl. Orn. 
 Syn. p. 14 (1855) ; Hartl. Orn. W.~Afr. pp. 1, 246 (1857) ; Pelz. 
 Verh. z.~b. Wien, 1861, p. 134; Wolf, Zool Sk. pi. 38 (1861); 
 Gurney, Cat. Bapt. B. JVbriu. Mies, p. 80 (1864); Gray, Hand-l. 
@@ -21561,7 +21561,7 @@ rest of the body bright maroon, the tail broadly whitish at tip; primaries
 blackish brown, rufous at base of both webs, and inclining to 
 whitish at immediate base of inner web; cere pale yellow; orbits 
 smoke-grey; bill pale yellow, bluish at base, light horn-colour at 
-tip; tarsi cream-yellow. Total length 20 inches, eulmen 1*45, wing 
+tip; tarsi cream-yellow. Total length 20 inches, culmen 1*45, wing 
 14*2, tail 7-8, tarsus 2-1. 
 
 Adult female. Similar to adult male, but a little larger. Total 
@@ -21744,7 +21744,7 @@ Range. Western and Forth-eastern Africa.
 1. Fauclerus riocouri 
 Elanoides riocouri, 
 Vieill et Ond. Gal Ois. i. p. 43, pi. 16 (c. 182,3) • 
-Bonn, et Vieill Eric. Metk. iii. p. 1206 (1823) ; StricM. Orn. Syn. 
+Bonn, et Vieill Eric. Metk. iii. p. 1206 (1823) ; Strickl. Orn. Syn. 
 
 p. 142 (1855); Schl Handb. JDierk. i. p. 1<>7, pi. 1. fig. 5 (1857) ; 
 id. Mus. P.-B. MUvi, p. 5 (1862) ; Heuql. Orn. K.O.-Afr. i. p. 102 
@@ -21773,7 +21773,7 @@ whitish; cheeks, ear-coverts, sides of neek, and entire underparts
 pure white; the under wing-coverts with a broad patch of black 
 running down their whole extent parallel with the exterior margin * 
 bill greenish dusky; feet yellow; iris red. Total length 14*5 inches, 
-eulmen 0*65, wing 9*95, tail 7*8, tarsus 1*2. 
+culmen 0*65, wing 9*95, tail 7*8, tarsus 1*2. 
 
 Hob. The same as that of the genus. 
 
@@ -21870,7 +21870,7 @@ bright rufous, with longitudinal central streaks of dark brown, very
 narrow on the thighs and under tail-coverts ; lower wing-coverts 
 and axillaries dark brown, margined with deep rufous, the lowest 
 ones greyish; cere yellow; bill horn-colour; feet yellow ; iris yellow. 
-Total length 24 inches, eulmen 1*8, wing 20*4, tail 15, tarsus 
+Total length 24 inches, culmen 1*8, wing 20*4, tail 15, tarsus 
 2-2. 
 
 Hal. Europe generally, breeding in Southern Scandinavia as far 
@@ -22014,7 +22014,7 @@ Ita\ Ucc. p. 13 (1871).
 Hydroictinia ater, Kaup, Classif. Saug. u. Vog. p. 115 (1844). 
 Milvus aatolius, ScM. Vog. Nederl pi. 32 (1854); id. Mus. P.-B. 
 Milvi, 5. 2 (1862); Heugl Orn. N.O.-Afr. L p. 98 (1869). 
-Milvus migrans, StricM. Orn. Syn. p. 133 (1855); Newt. Ooth. WoMey. 
+Milvus migrans, Strickl. Orn. Syn. p. 133 (1855); Newt. Ooth. WoMey. 
 
 p. 116 (1864)$ Gray, Hand-L I p. 26 (1869); Blanf. Geol. Sf 
 2ml. Ahyss. p. 300 (1870) 5 Finseh, Tr. Z. S. vii. p. 203 (1870); 
@@ -23179,7 +23179,7 @@ Gamponyx swainsoni,
 Vigors, Zool. Journ. ii. p. 69 (1825); Gray, 
 Gen. B. i.p. 26, pi. 9.fig. 4 (1845); Cab. in Srhomb. JReis. Guian. iii. 
 
-p. 735 (1848) ; Bp. Consp. i. p. 21 (1850) ; StricM. Orn. Syn. p. 137 
+p. 735 (1848) ; Bp. Consp. i. p. 21 (1850) ; Strickl. Orn. Syn. p. 137 
 (1856); Burm. Th. Bras. ii. p. 114 (1856); Ztot. Ois. Trznid. p. 41 
 65. HENICOPERNIS. 
 341 
@@ -23584,7 +23584,7 @@ Pernis ptilonorhynchus, Steph. Gen. ZooL xiii. pi 35 (1826); Holdsw.
 
 P. Z. S. 1872, p. 414. 
 Pernis cristata, Cuv. Regne An. L p. 335 (1829) ; Gray, Gen. B. L 
-p. 24 (1845); Bp. Consp. Av. i. p. 20 (1850); StricM. Orn. Sun. 
+p. 24 (1845); Bp. Consp. Av. i. p. 20 (1850); Strickl. Orn. Sun. 
 p. 131 (1855); Jerd. B. 2nd. i. p. 108 (1862); Wall. Ibis, 186% 
 p. 17; Gray, Hand-l B. i. p. 26 (1869); Hume, Rough Notes, 
 il p. 330 (1870); Schl Mm. P.-B. Revue Accipitr. p. 132 (1873). 
@@ -24049,7 +24049,7 @@ ashy grey; entire throat, fore neck, and chest pale ash-colour; rest
 of under surface white, with cross bars of pale tawny rufous, gradually 
 decreasing in size towards the abdomen and thighs; under 
 tail-coverts white; under wing-coverts uniform tawny rufous, paler 
-on the lower series. Total length 18 inches, eulmen 1*2, wing 11-0, 
+on the lower series. Total length 18 inches, culmen 1*2, wing 11-0, 
 tail 8, tarsus 1*2. (Mm. Cantabr.) 
 
 Hab. West Africa. 
@@ -24997,7 +24997,7 @@ Hal. Assam and Kachar.
 4. Microhierax erythrogenys. 
 Hierax eiythrogenys, Vigors, P. Z. S.1831, p. 98; Blijth, J. A. S. B. 
 xl pt. 2, p. 789 (1842); Gray, Gen. B. i. p. 21 (1844); Fraser, 
-Zool. Typ. pi. 31 (1849)• Kaup, Contr. Orn. 1850, p. 52; StricM. 
+Zool. Typ. pi. 31 (1849)• Kaup, Contr. Orn. 1850, p. 52; Strickl. 
 Om. Si/n. p. 102 (1855); Gray, JKand.-l. B. i. p. 24 (1869). 
 
 Falco sericeus, KM. Kupf. Fog. p. 4, pi. Hi. fig. 3 (1832); id. Mem. 
@@ -25554,11 +25554,11 @@ quills tipped with white; tail-feathers greyish, broadly barred with
 black and tipped with white, the bars more obscure towards the tip 
 of the tail, which thus appears darker than the base; cere and eyelids 
 yellow; bill blue, blackish towards tip; feet yellow, claws 
-black; iris dark hazel-brown. Total length 15 inches, eulmen 1*2, 
+black; iris dark hazel-brown. Total length 15 inches, culmen 1*2, 
 wing 12-12-7, tail 6>5, tarsus 2-05. 
 
 Adult female. Similar to the adult male, but larger. Total 
-length 17 inches, eulmen 1*35, wing 14*5, tail 7*5, tarsus 2*3. 
+length 17 inches, culmen 1*35, wing 14*5, tail 7*5, tarsus 2*3. 
 
 Young male. Brown, all the feathers margined with huffy brown, 
 shading off into white on the extreme edge ; primaries dark brown, 
@@ -25620,11 +25620,11 @@ markings; tail blue-grey, tipped with buffy white, narrowly barred with
 blackish, the whole tail much darker towards the tip, where the bars become 
 broader, the subterminal one being the broadest of all; bill light blue, dark at 
 the tip; cere and orbits light yellow; legs and feet rather brighter yellow ; 
-iris deep brown. Total length 15*7 inches, eulmen 1*15, wing 11*5, tail Q'5^ 
+iris deep brown. Total length 15*7 inches, culmen 1*15, wing 11*5, tail Q'5^ 
 tarsus 1*9. 
 
 Female. Similar to the male, but larger and rather darker. Total length 
-19*5 inches, eulmen 1*4, wing 134, tail 8, tarsus 2-15. 
+19*5 inches, culmen 1*4, wing 134, tail 8, tarsus 2-15. 
 
 /S. From Japan. 
 Young All the feathers of the upper surface deep brown, margined with paler 
@@ -25643,7 +25643,7 @@ brown, somewhat arrow-shaped on the outer ones; under wing-coverts very
 dark brown, the least ones margined with buff, the greater ones and the axillaries 
 spotted with buffy white; under surface of the quills spotted, the primaries 
 barred near the base oi inner web with pale rufous. Total length 19 inches, 
-eulmen 1*35, wing 14*5, tail 8*5, tarsus 1*2. 
+culmen 1*35, wing 14*5, tail 8*5, tarsus 1*2. 
 In my paper on Peregrines I was not certain whether the Japanese species, of 
 which only young birds are in the Museum, might not prove to be the same as 
 the Western-American form; but I now incline to think them only the European 
@@ -25874,7 +25874,7 @@ with black; axillaries brown, with oval spots of buff; eere yellow;
 75. FALCO. 
 383 
 bill slaty blue-black at tip; feet yellow; iris deep brown. Total 
-length 16 inches, eulmen 1-45, wing 12, tail 6*7, tarsus 2-25. 
+length 16 inches, culmen 1-45, wing 12, tail 6*7, tarsus 2-25. 
 
 Young, Blackish, the nape and sides of neck mottled with rufous ; 
 the wing-eoverts and secondaries margined with rufous, these margins 
@@ -25932,7 +25932,7 @@ bird. Thus it must remain doubtful; but should it ever be fully
 identified (a fact very improbable to be consummated, as M. Jules Verreaux 
 believes it to have been a doctored Baza), the synonymy will be as follows:— 
 Le Faucon huppe, Levaill Ois. d'Afr. i. p. 121, pi. 28 (1799). 
-Falco frontalis, Baud. Traite, ii. p. 118 (1800, ex Levaill); StricM. Orn. 
+Falco frontalis, Baud. Traite, ii. p. 118 (1800, ex Levaill); Strickl. Orn. 
 Syn. p. 84 (1855). 
 Falco galericulatus, Shaw, Gen, Zool vii. p. 149, pi. 20 (1809). 
 
@@ -26305,11 +26305,11 @@ and abdomen dotted, with little round spots of brown, taking tbe
 form of bars on the flanks and under wing-coverts; under taH-coverts 
 very pale fawn, with scarcely a mark of brown; cere and base of 
 bill yellow, inclining to horn-blue at the tip; feet yellow; iris 
-brown. Total length 17 inches, eulmen 1*15, wing 18*2, tail 7*6, 
+brown. Total length 17 inches, culmen 1*15, wing 18*2, tail 7*6, 
 tarsus 1*95. 
 
 Adult female. Similar to the adult male, but a little larger. Total 
-length 18 inches, eulmen 1*25, wing 14*5, tail 8*5, tarsus 1*9. 
+length 18 inches, culmen 1*25, wing 14*5, tail 8*5, tarsus 1*9. 
 
 Young male* Brown, with rufous edgings to the feathers, these 
 being buff on the secondaries; head very pale rufous, forehead 
@@ -26325,7 +26325,7 @@ stripe; tail dark brown, broadly tipped with creamy wiiite, the
 middle feathers spotted on both webs, the rest spotted on the outer 
 and barred on the inner web with rufous; bill bluish at the base 
 and tip, yellowish horn in the centre of both mandibles; feet yellowish. 
-" Total length 16 inches, eulmen 1, wing 11*5 (not fully 
+" Total length 16 inches, culmen 1, wing 11*5 (not fully 
 grown), tail 7, tarsus 1*9 *. 
 
 Hob. The countries bordering the Mediterranean, rarely extending 
@@ -26518,10 +26518,10 @@ former slightly tipped with white; under wing-coverts for the most
 part white, some of the lower ones dark brown, broadly margined 
 and spotted with white; cere and gape bright yellow; bill bluish, 
 black at tip; feet yellow; iris rich brown. Total length 15-5 inches, 
-eulmen 1, wing 11-8, tail 7, tarsus 1-95. 
+culmen 1, wing 11-8, tail 7, tarsus 1-95. 
 
 Adult female. Similar to the male, but larger. Total length 17 
-inches, eulmen 1*35, wing 13*6, tail 8*5, tarsus 1*95. 
+inches, culmen 1*35, wing 13*6, tail 8*5, tarsus 1*95. 
 
 Young. Above dull chocolate-brown, the wing-coverts washed 
 with rufous on their margins, this colour not seen on the dorsal 
@@ -26600,7 +26600,7 @@ Falco subniger, Gray} Ann. N. H. xi. p. 871 (1848); id. Gen. B. i.
 p. 19, pL 8 (1844) j Gould, B. Amtr. fob i pi. 9 (1848) ; Sfort, 
 75 . FALCO. 395 
 Exp. C. Austr. ii. App. p. 14 (1849) ; Bp. Consp. i. p. 24 (1850); 
-StricM. Orn. Syn. p. 80 (1855) ; Schl. Mus. P.-B. Falc. p. 18 
+Strickl. Orn. Syn. p. 80 (1855) ; Schl. Mus. P.-B. Falc. p. 18 
 (1862); Gray. Hancl-l B. i. p. 18 (18G9) ; Biggies. Orn. Austr. 
 pt. 9 (18C9). 
 Hierofaleo subniger, Kaup, Contr. Orn. 1850, p. 50; Bp. Bev. et Maq. 
@@ -26640,7 +26640,7 @@ i. p. 25 (1820) ; Naum. Tog. Beutschl i. p. 296, pi. 26 (1822);
 Werner, Atlas, Rapaces, pi. 9 (1827); Gould, B. JEur. i. pi. 22 
 (1837); Yarr. Hist. Brit. B. i. p. 40 (1843); Schl. u. 8usem. Tog. 
 Bur. Taf. 10. %. 1 (c. 1845); Kjarb. Orn. Ban. Afb. iii. fig. 1 
-(1851); Schl. Tog. Nederl. pi. 8 (1854); StricM. Orn. Syn. p. 85 
+(1851); Schl. Tog. Nederl. pi. 8 (1854); Strickl. Orn. Syn. p. 85 
 (1855) ; Hewits. Bggs Brit. B. i. p. 26, pi. ix. tig. I (1856); 
 Fritsch, Toq. Eur. tab. iii. figs. 1, 2 (1858) : Badde, Beis. Sibir. ii. 
 p. 100 (1863); Blyth, Ibis, 1863, p. 9; More, Ibis, 1865, p. 9; 
@@ -27167,7 +27167,7 @@ Capt. Kellett and Lieut Wood P.l.
 
 21. Falco arrxantras. 
 Orange-breasted Hobby, Lath* Gen. Syn. i. p. 105 (1781 J. 
-Falco aurantius, Gm. S. K i. p. 283 (1788, ex Lath): StricM. Orn. 
+Falco aurantius, Gm. S. K i. p. 283 (1788, ex Lath): Strickl. Orn. 
 Syn. p. 89 (1855). 
 Falco deiroleucus, Temm. PI Col i. pi. 348 (1825) * Gray, Gen. B. 
 
@@ -27281,7 +27281,7 @@ Total length 11*5 inches, culmen 0*85, wing 8*25, tail 6, tarsus 1-5.
 404 VALCONID^. 
 
 Adult female. Similar to the male, but larger. Total length 
-13 inches, eulmen 0-95, wing 9, tail 6*5, tarsus 1*5. 
+13 inches, culmen 0-95, wing 9, tail 6*5, tarsus 1*5. 
 Hah. Indian peninsula. 
 
 a. Ad. sk. India. Dr. Babington [P.]. 
@@ -27315,7 +27315,7 @@ Adult male. So similar to F. chicquera that it is probable that it
 may yet prove to be the same. It seems to be a little paler in colour, 
 and to have the bars on the breast rather closer together; orbits, 
 cere, tarsi, and feet yellow; bill bluish horn-colour, yellow at base; 
-iris dark brown. Total length 11*5 inches, eulmen 0-8, wing 8*6, 
+iris dark brown. Total length 11*5 inches, culmen 0-8, wing 8*6, 
 tail 5*8, tarsus 1*5. 
 
 Hab. The whole of Africa. 
@@ -28399,7 +28399,7 @@ throat, vent, and under tail-coverts white; rest of under surface
 white, with conspicuous rounded spots of dark brown on the breast, 
 becoming more oval and longitudinal in shape on the lower breast 
 and sides of the body; under wing-coverts brown in the centre, with 
-broad white edges. Total length 17 inches, eulmen 1*3, wing 14*7, 
+broad white edges. Total length 17 inches, culmen 1*3, wing 14*7, 
 tail 12*5, tarsus 2*1. 
 
 Obs. The adult bird described is an ordinary old Saker, the fully 
@@ -28579,7 +28579,7 @@ Cream-bellied Falcon, Lath. Gem. Hist i. p. 230 (1821).
 
 Hieracidea berigora, Gray, Gen. of B. i. p. 20 (1844); Gould, B, 
 Austr. i. pi. 11 (1848); Bp. Cmsp. i. p. 22 (ISoOj : Kemp, Cmiir. 
-Om. 1850, p. 56; Bp. Bev. et Mag. de Zool 1854, p. 536; StricM. 
+Om. 1850, p. 56; Bp. Bev. et Mag. de Zool 1854, p. 536; Strickl. 
 Om. Syn. p. 101 (1855); Pek. Verh. z.-b. Wien, xiiL p. 621 
 (1863) ; Gould, Eandb. B. Amtr. i. p. 31 (1805) ; Pelz. Reis. Sow. 
 Vog. p. 8 (18(55); Gray, Hand-l B. i. p. 22 CI868;. 
@@ -29213,7 +29213,7 @@ Life Raffi. App. p. 65*0 (1830); MuU. Sat. Gesch. Land u. Togetk.
 p. 209 (1839-44). 
 Tinnunculus moluccensis, Homhr. §* Jacq. Toy. Role Sud7 ZGOI. Atlas, 
 pi. 1.fi>.1 (1842), et teste, iii. p. 46 (1828); Bp. Cony. I. p. 27 
-(1850)," id. Rev. ei Jlag. de Zool 1854, p. 53?: StricM. Orn. Syn. 
+(1850)," id. Rev. ei Jlag. de Zool 1854, p. 53?: Strickl. Orn. Syn. 
 
 p. 9G(1855); Relz. Yerh. z.-b. TYim, xlii. p. 025(1803); Wall. 
 Ibis, 1808, p. 5: Gray, JSdnd-L 3. i. p. 23 (1800/; TYalden, Tr. 
@@ -29328,7 +29328,7 @@ Zool. S. Afr. pi. xcii. (1849); Schl Mus. P.-B. Falc p. 29 (1862)•
 Tinnunculus rupicoloides, 
 Gray, Gen. of B. I p, 21 f 1844;; Kemp, 
 Contr. Orn. 1850, p. 53; Bp. Camp. i. p. 27 (1850; ; id. Rev. et 
-Mag. de Zool 1854, p. 537; StricM. Orn. Syn. p. 98 (1855); Pelz. 
+Mag. de Zool 1854, p. 537; Strickl. Orn. Syn. p. 98 (1855); Pelz. 
 Verk. z.-b. Wien, adii. p. 6'2o (1883/; Layard, B. & Afr. p. 23 
 (1867) ; Gumey, Ibis, 1888, p. 142; Ay res, Ibis, 1869, p. 288 ; 
 Gray, Jland-l B. i. p. 23 (I860); Gumey, in Anderss. B. Dam. Id. 
@@ -29354,11 +29354,11 @@ markings, broader on the flanks; under wing-coverts white, the
 axillaries washed with rufous, with black shaft-stripes; cere and 
 eyelid yellow; bare space round eye and basal part of bill livid 
 yellowish, remainder of bill horn-colour; iris whitish, deeply impregnated 
-with brown. Total length 18-5 inches, eulmen 0*8, wing 
+with brown. Total length 18-5 inches, culmen 0*8, wing 
 11, tail fro, tarsus 1*75. 
 
 Adult female. Yery similar to the male, but the flanks more barred 
-with black. Total length 13*5 inches, eulmen 0-9, wing 11*4, tail 
+with black. Total length 13*5 inches, culmen 0-9, wing 11*4, tail 
 6*5, tarsus 1*85. 
 
 BJab. South Africa, 
@@ -29393,7 +29393,7 @@ wing- and tail-coverts; under surface of quills creamy white at base
 of inner web, shading into pale rufous, with remains of blackish 
 bars, the apical portion blackish, with foxy red tips; bill bluish horncolour, 
 the under mandible yellowish; orbits and cere violet leadcolour 
-; feet yellow. Total length 15 inches, eulmen 0-8, wing 10-6, 
+; feet yellow. Total length 15 inches, culmen 0-8, wing 10-6, 
 tail 7-8, tarsus 1*85. 
 
 Sab. N.E. Africa, 
@@ -29431,7 +29431,7 @@ throat, abdomen, thighs, and under tail-coverts unspotted; under
 wing-coverts white, streaked with black, the greater ones and axillaries 
 marked with oval black spots, like the flanks; cere orange-
 yellow ; bill horn-blue, yellowish at the base; orbits and feet orange-
-yellow ; iris hazel. Total length 10*2 inches, eulmen 0*75, wing 7'4, 
+yellow ; iris hazel. Total length 10*2 inches, culmen 0*75, wing 7'4, 
 tail 5, tarsus 1-4. 
 
 VOL. i. 2G 
@@ -29563,7 +29563,7 @@ B. Eur. part 3 (1871) ; Schl. JRevue Accipitr. p. 45 (1873).
 Cerclmeis cenchiis, Brehm, Vdg. Beutsch. p. 74 (1831); Bp. Comp. 
 List of B. Bur. <f & ^™- P-5 (1838). 
 Tinnuneulus cenchris, Bp. Cat. Met. Ucc. Bur. p. 21 (1842)* Gray, 
-Gen. of B. i. p. 21 (1844) ; Bp. Comp. L p. 27 (1850); StricM. 
+Gen. of B. i. p. 21 (1844) ; Bp. Comp. L p. 27 (1850); Strickl. 
 Orn. Syn. p. 97 (1855)* JPelz. Verh. z.-b. Wien, xiii. p. 624 (1863); 
 Newt. Ooth. Wolley. p. 82 (1864); Tristr. Ibis, 1865, p. 259; 
 Bayard, B. S. Afr. p. 22 (1867)* id. Ibis, 1869, p. 362• Gray, 
@@ -29790,7 +29790,7 @@ uniform with the back and similarly barred; throat white;
 rest of under surface creamy white, with a rufous tinge, the chest 
 streaked, the breast spotted with black, the spots rather large; 
 under wing-coverts buffy white, with pale brown shaft-stripes. 
-Total length 11 inches, eulmen 0*65, wing 6-9, tail 5*7, tarsus 1*4, 
+Total length 11 inches, culmen 0*65, wing 6-9, tail 5*7, tarsus 1*4, 
 
 Obs. I do not know this Kestrel well, having only seen the one 
 specimen described; but, as far as I have been able to make out the 
@@ -29870,7 +29870,7 @@ whitish, the chest narrowly streaked with pale rufous shaft-stripes,
 
 these being broader on the breast and sides of the body. Total length 
 
-11 inches, eulmen 0-65, wing 7-7, tall 5-5, tarsus 1*4. 
+11 inches, culmen 0-65, wing 7-7, tall 5-5, tarsus 1*4. 
 
 Obs. Peruvian examples, as well as two from Few Granada in the 
 
@@ -29951,7 +29951,7 @@ the Mud part of crown; all the upper surface as well as the tail rufous,
 barred with blaek; facial features as in male; under surface dull 
 fawn-colour, ineiining to burly white on the abdomen and thighs, 
 the breast narrowly streaked with brown down the centre of the 
-feather. Total length 10*2 inches, eulmen 0*7. wing 7*% tail 5-2, 
+feather. Total length 10*2 inches, culmen 0*7. wing 7*% tail 5-2, 
 tarsus 1*3. 
 
 Ols. This species, when fully adult, gets a totally blue head, like 
@@ -29989,7 +29989,7 @@ body white, washed with rufous on sides of neck, and having a few
 indications of pale rufous stripes on the upper breast and under wing-
 coverts; cere, orbits, and feet yellow; claws black ; bill (lark horn-
 blue, yellowish at base; iris dark brown* Total length 9-5 inches, 
-eulmen 0*7, tail 4-6, tarsus 1*4. 
+culmen 0*7, tail 4-6, tarsus 1*4. 
 
 Hah* Cuba. 
 
@@ -30580,7 +30580,7 @@ Subsp.«. Paudion leucocephalus.
 
 Pandion leucocephalus, Gould, Syn. B. Austr. pt. iii. pi. 6 (1838) j 
 Gray, Gen. B. i. p. 17 (1845) 5 Gould, B. Austr. I pi. 6 (1848) 5 B}K 
-Consp. Av. i. p. 16 (1850); StricM. Orn. Syn. p. 65 (1855); Gould, 
+Consp. Av. i. p. 16 (1850); Strickl. Orn. Syn. p. 65 (1855); Gould, 
 Bandb. B. Austr. i. p. 15 (1869) ; Schl Vog. Nederl Ind. pp. 12, 
 52, pi. 3. fig. 3 (1866) ; Wall Ibis, 1868, p. 15; Gray, Hand-l. B. 
 

@@ -1510,7 +1510,7 @@ F. viii. p. 115 (1879); Legge, B. Ceylon, p. 996 (1880): Ward-
 law Ramsay, Tweedd. Mem. p. 660 (1881: Philippines); Bocage, 
 Om. Angola, p. 514 (1881: Angola); Giglioli, Ibis, 1881, p. 218 
 (Pisa); Sadly, Ibis, 1881, p. 594 (Gilgit); Salvad. Orn. Papuasia 
-$c. iii. p. 427 (1882); Salvin, Cat. StricM. Coll. p. &22 (1882) ; 
+$c. iii. p. 427 (1882); Salvin, Cat. Strickl. Coll. p. &22 (1882) ; 
 Vorderman, Tijdschr. Nederl. Ind. xlii, p. 126 (1883) ; B. O. U. 
 List Brit. B. p.'l84 (1883); Oates, B. Brit. Burm. ii. p. 419 (1883) ; 
 Seebohm, Ibis, 1884, p. 270 (Eaukiang); Tristr. Faun. 8? Flor. 
@@ -1624,7 +1624,7 @@ It
 XARIDiE. 
 
 colour); webs deeply indented, but less so than in H. leucoptera. 
-Total length 11 inches, eulmen 1-4, wing 9-25-9#5, tail 3-8, 
+Total length 11 inches, culmen 1-4, wing 9-25-9#5, tail 3-8, 
 tarsus 0*9, middle toe with claw 1*15. 
 
 Indian birds, which are probably almost sedentary, are slightly 
@@ -16696,7 +16696,7 @@ the remaining primaries grey, with subterminal bars up to the 7th,
 where the bar is broken, whilo on the 8th there is merely a dark 
 margin to the inner web ; edge of tho wing and tho uncler-coverts 
 white : bill doep black ; iris dark brown ; tarsi and toes orange-red. 
-Total length 14 inches, eulmen 1*5, wing 10-25, tail 4-5, tarsus 1-4, 
+Total length 14 inches, culmen 1*5, wing 10-25, tail 4-5, tarsus 1-4, 
 middle toe with claw 1'4. 
 
 Tho sexes appear to be alike in sizo as well as in plumage. 
@@ -17069,7 +17069,7 @@ quills broadly edged with white on the inner webs; tail-feathers
 white, except the two or three central pairs, which are tinged witk 
 palest grey : bill deep red, with a dark subterminal band; tarsi 
 and toes dark livid red (drying blackish). Total length 13-5 to 14 
-inches, eulmen 1*0, wing 11-25, tail 4*6, tarsus 1-C, middle toe 
+inches, culmen 1*0, wing 11-25, tail 4*6, tarsus 1-C, middle toe 
 with claw 1*5. 
 
 The sexes appear to be alike externally. 
@@ -17520,7 +17520,7 @@ H. Gurney, Esq.
 9. Larus cirrhocephalus. 
 La Gabiota cenicienta, Azara, Apunt. iii. p. 350 (1802: Argentina). 
 Lams cirrhocephalus, Vieillot, Nouv. Diet. d'Hist. Nat. xxi. p. 502 
-(1818: Brazil); id. Bnc. Meth. p. 345 (1824); id. Gal. O2s.iL 
+(1818: Brazil); id. Enc. Meth. p. 345 (1824); id. Gal. O2s.iL 
 
 p. 223, pi. 289 (1834); llartl Ind. Azara,-p. 26 (1847); Gay, 
 Hist. Chile, Zool. i. p. 482 (1847 : copied from Vieill.); Blyth, Cat. 
@@ -28510,7 +28510,7 @@ longest, or not shorter than the 2nd — . 2. tu&mim,
 
 <?. Nostrils distinct, opening upwards on 
 either side of the middle of the base of the 
-eulmen; margin of the sternum even, the 
+culmen; margin of the sternum even, the 
 sternum itself considerably longer than 
 wide; distinct pterygoid processes; manubrium 
 of furcula very short; coracoids long, 
@@ -28917,7 +28917,7 @@ leucorrhoa, Coues, Pr. Ac, Phil. 1864, pp. 75, 90; id.
 Key N. Am. Birds, p. 329 (1872), ed. 2, p. 781 (1884); id. Chechlist 
 N. Am. Birds, p. 126 (1882); Gigl. Faun. Vert. Oceana, p. S7 
 (1870); Brewster, Bull. Nutt Orn. Club, vi. p. 125; Merrill, 
-Bull, mitt Orn. Club, vi. p. 249; Salv. Cat. StricM. Coll p. 628 
+Bull, mitt Orn. Club, vi. p. 249; Salv. Cat. Strickl. Coll p. 628 
 (1882); Steams, Pr. U.S. Nat Mus. vi. p. 122 (1883); id. New 
 JEngl Bird-Life, ii. p. 382 (1883); Nelson, Cruise c Corwm/ p. 118 
 
@@ -31945,7 +31945,7 @@ Hist. x. p. 183 (1824).
 Proeellaria cinerea, Gm. Syst. Nat. i. p. 563 (1788); Lath. Lnd. Orn. 
 
 ii. p. 824 (1790); Vteill. N Diet d'Hist. Nat. xxv.p. 418 (1817); id. 
-Bnc. Meth. p. 78 (1813); Kuhl, Beitr. p. 148 (1820); Pollen $ 
+Enc. Meth. p. 78 (1813); Kuhl, Beitr. p. 148 (1820); Pollen $ 
 "Fan Dam, Faun. Madag., Ois. p: 145 (1868); Hutton, Cat. Birds 
 N. Zeal p. 45 (1871); Butter, Birds N. Zeal p. 305 (1873); Hartl 
 Vdg. Madaq. p. 374 (1877); Milne-Edw. 8f Grand. Hist. Madag., 
@@ -35599,7 +35599,7 @@ white, a few irregular dark marks on both webs near the tip: bill
 yellowish horn-colour, the base of the cnlmen and the mandible orange; 
 legs and feet flesh-colour. Total length about 4^ inches, wing (from 
 carpal joint to the tip of the longest primary) 25"5, tail fc-3, bill from 
-gape 7, from base of eulmen 6*7, tarsus 4*d, middle and outer toes 
+gape 7, from base of culmen 6*7, tarsus 4*d, middle and outer toes 
 6-5, inner toe 5*8. (/. <j, iXew Zealand, Button $ April 1S73.) 
 
 Young. Ahove dark brown, paler on the neck, with a dark patch 

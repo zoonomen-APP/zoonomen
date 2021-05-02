@@ -382,7 +382,7 @@ SYS IE31AIIC INDEX.
 Page 
 
 9. Ptilosclera, Bp 00 
-1. versicolor ( Viy.) ... Co 
+1. versicolor ( Vig.) ... Co 
 10. 
 Glo&sop«ittacu-. Bp 07 
 1. goktiei (kliarpe) 6^ 
@@ -470,7 +470,7 @@ l.Kiudim. Vy 100
 3. par\ula(P/;.) 120 
 4. sulphurea (Gm.) . .. 121 
 5. citiinocri-tata {Fras ) . 122 
-0. leaJbeateri ( Viy.) .... 123 
+0. leaJbeateri ( Vig.) .... 123 
 7. alba (P. L. S. Mull.).. 124 
 8. opbthalmica, Sclat. . . 125 
 9. moluccenisis (6-f?«.) . . 120 
@@ -1505,7 +1505,7 @@ Pr N. Zed. Inst. ix. p. 340 (1876) ; Hector, P. Z. S. 1876, pp. 2,
 
 f. 3 (1878-83); id. Journ. f. Orn. 1881, p. 20 (Consp. Psitt. p. 20); 
 Finsch, Ibis, 1882, pp. 393, 397, 398; Meyer, Vogel-Skelett. i. 
-Taf. xxiii. (1882); Salvin, Cat. StricM. Coll p. 464 (1882) ; Pelz. # 
+Taf. xxiii. (1882); Salvin, Cat. Strickl. Coll p. 464 (1882) ; Pelz. # 
 Lorenz, Ann. d. naturh. Bofmus. 1888, p. 40; Bull B. N. Zeal 
 2nd ed. i. p. 150, pi. x^ii. %. ant. and post, (var.) (1888); Sandager, 
 Tr. S? Pr. N. Z. Inst. xxii. p. 288 (1890). 
@@ -3844,7 +3844,7 @@ p. 144 (1706); Gm. S. N. i. p. 333 (1788) ; Lath. Lid. Orn. I.
 LOEIIDJS. 
 
 viii. p. 530(1812); Bechst Kurze Uebers. p. 91 (1811); Knhl, 
-Consp. Psitt p. 41 (1820) ; Jleill. Bnc. Meth. p. 1377 (1823) ; 
+Consp. Psitt p. 41 (1820) ; Jleill. Enc. Meth. p. 1377 (1823) ; 
 Less. Voy. Ooq., Zool. i. p. &28 (1828); Vo'yt, Cuv. Uebers. p. 745 
 (1831) ; Meyen, Nova Act. Leop.-Car. Acad. Suppl. i. d. 16'ten B. 
 p. 95 (1834); Temm. Tail. Meth. p. 60 (1839); 8. Mull Verh. 
@@ -4077,7 +4077,7 @@ v. $ juv. sk. Ovalau, July (JE. L. Layard). Purchased.
 5. VINI. 
 Type. 
 Vini, Jjess. Illustr. de ZooL pi. xxviii. (1831) Y. Imhli. 
-'Bioto<*QnarIlchnb.(nec Viy.) Syst.Av. t. lxxxii. (1850). 
+'Bioto<*QnarIlchnb.(nec Vig.) Syst.Av. t. lxxxii. (1850). 
 Range. Samoa, Friendly, and Fanning Islands. 
 Key to tlie Species. 
 
@@ -5324,7 +5324,7 @@ Psittacus ornatus, Linn, S. N. i. p. 143, n. 19 (1766); Gm. S. N. i.
 p. 324, n. 19 (1788); Lath. Lnd. Orn. i. p. 91, n. 28 (1790) ; 
 Bechst Lath. Uehers. p. 70 (1811); 8haw, Gen. Zool viii. 2, p. 416, 
 pi. 60 (1811) ; Kuhl, Consp. Psitt. p. 35 (1820); Baffl. Trans. Linn. 
-Soc. xiii. p. 281 (1821) (Malay Peninsula!); Vieill. Bnc. Meth. 
+Soc. xiii. p. 281 (1821) (Malay Peninsula!); Vieill. Enc. Meth. 
 iii. p. 1390 (1823); Voiqt, Cuv. Uehers. p. 734 (1831); Midi. § 
 Schleg. Verh. Land-en Volhenh. pp. 90, 182 (1839-44). 
 La Perruche variee des Indes orientales, Bauhent. PI. JEnl. 552. 
@@ -5622,7 +5622,7 @@ B. Soc. Queensl.
 iv. p. 27 (1877); Bamsay, Pr. Linn. Soc. N. S. 
 W. ii. p. 195, n. 506 (1878); Bchnw. Vogelbild. t. viii. f. 3 (1878 
 -83); id. Joum.f. Orn. 1881, p. 156 {Consp. Psitt. p. 92) ; Salt. 
-Cat. B. StricM. Coll. p. 455 (1882) ; Sclat. List Vert. An. 8th ed. 
+Cat. B. Strickl. Coll. p. 455 (1882) ; Sclat. List Vert. An. 8th ed. 
 p. 320 (1883) ; Sharpe, Beport' Alert/ p. 25 (1884) ; Broadb. Pr. 
 B. Soc. Queensl (2) ii. p. 124 (1885); North, Pr. Linn. Soc. N S. 
 W. (2) ii. p. 986 (1887), iii. p. 1777 (1888); Bamsay, Tab. List, 
@@ -10124,7 +10124,7 @@ id. Enc. Meth. iii. p. 1415 (1823); Voiyt, Cuv. Uebers. p. 738
 1856, p. 170; Pelz. Verh. z.-b. Ge&ettsck. Witn, 1865, p. 944. 
 
 Hose-coloured Cockatoo, Lath. Gen. Hist. ii. p. 207 (1822). 
-Plyctolophus eos, Viy. $* Mors/. Trans. Linn. Soc. xv. p. 269 
+Plyctolophus eos, Vig. $* Mors/. Trans. Linn. Soc. xv. p. 269 
 (1826). 
 Cacatua eos, Less. Man. tfOrn. ii. p. 143 (182b); id. Compl. de 
 Buff. ix. p. 197, pi. —. f. 2 (1837), 2nd ed. p. (52 (1838): Gould, 
@@ -11604,7 +11604,7 @@ Brehm, Mon. d. Papag. t. 2 (1842); Licht. Journ. f. Orn. 1863,
 p. 54. 
 Ara canga, Levaill. Perr. i. pis. 2, 2 bis (1801). 
 Macrocercus aracanga, Tieill. N. JD. ii. p. 258 (part.) (1816); id. 
-Bnc. Meth. iii. p. 1416 (1823) ; Less. Tr. d'Om. p. 185 (1831) ; 
+Enc. Meth. iii. p. 1416 (1823) ; Less. Tr. d'Om. p. 185 (1831) ; 
 Lear, Parr. pi. 7 (1832); Selhj, Nat. Libr.„ Parrots, p. 93, pi. 7 
 (1836); Bp. Naumannia, 1856, Consp. Psitt. no. 7; Bzirm. St/bt. 
 Ueb. ii. p. 157 (note) (1856); Cab. in Sclwmb. Beis. Brit. Guian. 
@@ -12134,7 +12134,7 @@ p. 28 (1859); Homey. Journ. f. Orn. 1859, p. 360; Cass. Pr. Ac. Phil
 Ann. Lye. N. Y. vii. p. 474 (1862); Sclat $ Salv. P. Z. S. 1866, 
 p. 197, 1867, p. 979 ; Salv. Ibis, 1871, pp. 87, 91; Sclat $ Salv. 
 P. Z. S. 1873, p. 299; iid. Nomencl. Av. Neotrop. p. Ill, n. 11 
-(1873) ; iid. P. Z. S. 1879, pp. 538, 634; Salv. Cat. B. StricM. 
+(1873) ; iid. P. Z. S. 1879, pp. 538, 634; Salv. Cat. B. Strickl. 
 Coll p. 464 (1882); Sclat. P. Z. S. 1884, pp. 004, 615; Berl. 
 $ Tacz. P. Z. S. 1883, p. 573; Salv. Ibis, 1886, p. 06; Tacz. 
 Om. PSr. iii. p. 194, Table, p. 99 (1886); Allen, Bxdl Am. 
@@ -12471,7 +12471,7 @@ Ara nobilis, Select. Cat. Am. B. p. 345, n. 2061 (1862); Sclat. $ Sah.
 
 
 P. Z. S. 1867, p. 587 (Para); iid. Nomencl. Av. Neotrop. p. Ill, n. 14 
-(1873) j Sato. Cat B. StricM. Coll, p. 464 (1882); Sclat List Vert. 
+(1873) j Sato. Cat B. Strickl. Coll, p. 464 (1882); Sclat List Vert. 
 An. 8th ed. p. 341 (1883). 
 Arara 
 nobilis, Schleg. Mus. P.-B. Psittaci, p. 8 (1864) j id. op. cit. 
@@ -20981,7 +20981,7 @@ Thes. Orn. i. p. 679 (1872); Selat. $ 8alv. Nomencl. Av. Neotrop
 
 p. 114, n. 29 (1873); Rchmv. Vogelbild. t. 1. f. 7 (1878) : Salv. 
 Ibis, 1880, p. 361; Forbes, Ibis, 1881, pp. 319, 352; Salv. Cat B. 
-StricM. Coll. p. 467 (1882); Selat. List Vert An. 8th ed. p. 349 
+Strickl. Coll. p. 467 (1882); Selat. List Vert An. 8th ed. p. 349 
 (1883); Berl.Journ.f. Orn. 1885, p. 122; Selat. Argent. Om. ii. 
 
 p. 47 (1889). J 
@@ -21191,7 +21191,7 @@ p. 233 (1822).
 Psittacus 
 ochrocephalus, Gm. S. N. i. p. 339, n. 112 (with vars. 
 ]3&y) (1788); Vieill. N. D. xxv. p. 324 (part.) (1817); Hahn, 
-Tbq. am As. etc. Lief. xvi. t. 1 (1S22); Vieill. Bnc. Meth. iii. 
+Tbq. am As. etc. Lief. xvi. t. 1 (1S22); Vieill. Enc. Meth. iii. 
 
 p. 1372 (part.) (1823); ? Wagl Mon. Psitt. p. 580 (juv.) (1832); 
 3£oritZj Wier/m. Arch. 1837, i. p. 581; Hartl. Syst. Verz. Ges. 
@@ -23702,7 +23702,7 @@ outer web; greater under wing-coverts and inner webs of the
 quills below malachite-green; central tail-feathers green, the lateral 
 ones blue on the outer webs and red towards the base of the inner 
 ones; tail underneath green, with the base of the lateral feathers 
-red : bill red, with the base of the eulmen dusky, and with a 
+red : bill red, with the base of the culmen dusky, and with a 
 yellowish tinge at the base of the upper mandible, near the tomia ; 
 feet dusky. Total length about 11 inches, wing 7'3, tail 3*3, 
 bill 1, tarsus 0*6. 
@@ -25562,7 +25562,7 @@ Urochroma melanonota, Bp. Naumannia, 1856, Consp. Psitt. n. 128;
 Select. Cat. Am. B. p. 356, n. 2130 (1862); G. R. Gr. Hand-list, 
 
 ii. p. 167, n. 8360 (1870); Sclat. fy Salv. Nomencl. Av. Neoirop. 
-p. 115, n. 3 (1873); Salv. Cat. B. StricM. Coll. p. 469 (1882). 
+p. 115, n. 3 (1873); Salv. Cat. B. Strickl. Coll. p. 469 (1882). 
 Pyrrhulopbis melanonotus, Soma, Mus. Nae. Lisb. Psittaci, p. 13 
 (1869). 
 Eueliroura melanonota, Rchnw. Joum.f. Orn. 1881, p. 359 (Consp. 
@@ -25799,7 +25799,7 @@ Urochroma hueti, Bp. Naumannia, 1856, Consp. Psitt. n. 12-4 ; $?Zotf.
 P. Z. S. 1857, p. 19; Sclat. $ Hah. P. Z. S. 1867, pp. 753, 759 ; 
 G. B. Gr. Hand-list, ii. p. 167, n. 8361 (1870); Sclat 4* Salv. 
 P. Z. S. 1873, p. 301; iid. Nomencl Av. Neotrop. p. 115, 12. 6 
-(1873); Salv. Cat. B. StricM, Colly. 469 (1882); Tacz. Orn. Per. 
+(1873); Salv. Cat. B. Strickl. Colly. 469 (1882); Tacz. Orn. Per. 
 iii. p. 217 (1886). 
 Eucliroura hueti, Behnw. Journ. f. Orn. 1881, p. 360 (Camp. Psitt. 
 p. 200j; id. Vogelbild. Nachtr.'lld (1883). 
@@ -26312,7 +26312,7 @@ Voqelbild. t. vii. f. 2 (1878-83); id. Joum. f. Orn. 1881, p. 383
 
 864 PSITIACIDJC. 
 
-(Conep. Psitt p. 223) j Salv. Cat. B. StricM. Coll p. 403 (1882): 
+(Conep. Psitt p. 223) j Salv. Cat. B. Strickl. Coll p. 403 (1882): 
 Sclat. List Vert. An. 8tli ed. p. 337 (1883). 
 
 Adult male. Head and neck olive, with the centre of the feathers 
@@ -28454,7 +28454,7 @@ Gum. p. 157 (1805).
 
 Psittacus puniceuH, Gm. S. N. i. p. 335, n. 100 (1788); Lath, Ind. 
 Orn. i. p 115 (1790),- Bechst. Kurze Uebers. p. 92 (1811); Weill. 
-JBnc. Meth. p. 1378 (1823); Less. Toy. Coq., Zool i. p. 342 (partim) 
+JEnc. Meth. p. 1378 (1823); Less. Toy. Coq., Zool i. p. 342 (partim) 
 
 Domicella punicea, Wagl. Mm. Psitt. p. 569 (1832). 
 Lorius cardinalis, G. It Gr. Gen. B. ii. p. 4J6, n. 3 (1845); id. 
@@ -35259,7 +35259,7 @@ Psittacus melanotus, Sham, Nat Misc. pi. 653 (1789-1813) ; id. Gen.
 Zool viii 2, p. 467 (1811). 
 
 Platycercus erythropterus, 
-Vig. Zool. Journ. i. p. 528 (1825) ; Viy. <§* 
+Vig. Zool. Journ. i. p. 528 (1825) ; Vig. <§* 
 Ilorsf. Traps. Linn. Soc. xv. p. 284 (syn. emend.) (1826) ; Steph. 
 Gen. Zool. xiv. 2, p. 123 (1826); Vig. Zool Journ. iii. p. 244 
 (1827) ; Waql Mon. Psitt. p. 536 (1832) ; Lear, Parr. pis. 14,15 
@@ -35407,7 +35407,7 @@ Linnean Soc. Coll.
 2. Ptistes jonquillace-tts. 
 P>ittacus jonquillaceus, 
 VieilL N. D. xxv. p. 352 (var. ?) (New 
-Holland!) (1817) ; id. JBnc. Meth iii. p. 1390 (1823); Pucker, 
+Holland!) (1817) ; id. JEnc. Meth.iii. p. 1390 (1823); Pucker, 
 Pev. et Mag. de Zool. 1852, p. 563 j Ilartl. Journ. f. Orn. 1855, 
 
 p. 422. 
@@ -39948,7 +39948,7 @@ G ^ J9Tw*. ii. p. 252 (1822).
 
 ? Psittacus adscitus, i^/?. irc<l Omi. p. 126, n. 127 (1790); Bechst 
 Kurze Uebers. p. 101 (1811) ; Vieill. N. B. xxv. p. 375 (1817); 
-Kuhl, Consp. Psitt p. 101 (1820); Vieill Bnc. Meth. iii. p. 1406 
+Kuhl, Consp. Psitt p. 101 (1820); Vieill Enc. Meth. iii. p. 1406 
 (1823); Wagl. Hon, Psitt. p. 746 (1832). 
 
 Platycercus palliceps, 
@@ -42956,13 +42956,13 @@ a. J ad. sk. Uvea, Loyalty Islands. Zoological Society.
 52. 
 NABTODES. 
 Type. 
-Nauodes, Viy. fy Horsf. Trans. Linn. Soe. xv. p. 274 
+Nauodes, Vig. fy Horsf. Trans. Linn. Soe. xv. p. 274 
 (1826) (nee Schonherr, 1826) X discolor. 
 Lathannis, Less. Tr. dJOrn. p. 205 (183 Ij (=Nanodes, 
 Vig.^ Horsf.). 
 Euphema, 
 Wagl Mon. Psitt. p. 492 (1832) (=Nanodes, 
-Viy.fyHorsf.). 
+Vig.fyHorsf.). 
 
 (Of. Forbes, P. Z. S. 1879, pp. 166-174.) 
 

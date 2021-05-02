@@ -781,7 +781,7 @@ orlSwdKjurus (Vieill) . 39(5
 
 5. holroydi, Sivinh 403 J 
 
-30. Brackypternus, StricM. .. 403 
+30. Brackypternus, Strickl. .. 403 
 
 1. aurantius {Linn.) . 404,572 
 
@@ -1981,7 +1981,7 @@ tarsus 1*2; toes (without claws)—outer anterior 0*83, outer posterior
 PICIDJE. 
 
 Adult female. Resembles the adult male, but wants the black 
-malar stripe. Total length 11*5 inches, eulmen 1*63, wing 6*2, 
+malar stripe. Total length 11*5 inches, culmen 1*63, wing 6*2, 
 tail 4*2, tarsus 1*1. 
 
 Hob. Sastern United States west to the Great Plains, and north 
@@ -2088,7 +2088,7 @@ fore neck, and side of the neck are less vinaceous, and the latter is
 not so grey near the hind neck; the underside of the tail, at the 
 base, is of a deeper golden yellow. In other respects the present 
 species resembles so closely C. auratus, that a detailed description 
-is unnecessary. Total length 11 inches, eulmen 1*45, wing 5'5y 
+is unnecessary. Total length 11 inches, culmen 1*45, wing 5'5y 
 tail 4*05, tarsus 1*05 ; toes (without claws)—outer anterior 0*82, 
 outer posterior 0*75^inner anterior 0*57, inner posterior 0*45. 
 Adult male. " Has a black malar stripe, but is otherwise like the 
@@ -2846,7 +2846,7 @@ inner anterior 0*68, inner posterior 0*5.
 
 Adult female. Resembles the male, but has the feathers of the 
 malar region tipped with white and not bristly in character. Total 
-length 11 inches, eulmen 1*45, wing 6-2, tail 4*15, tarsus 1*18. 
+length 11 inches, culmen 1*45, wing 6-2, tail 4*15, tarsus 1*18. 
 
 A young bird (sex ?) has the malar region uniform black. 
 Hah. Southern and Eastern Brazil north to Pernambuco ; Bolivia, 
@@ -2995,7 +2995,7 @@ underparts below the chest, the under tail-coverts, under wing-
 coverts, and axillaries pale buff, and (with the exception of a few 
 narrow black bars on the lower series of under tail-coverts) perfectly 
 uniform : " eye, black centre, cadmium-yellow ring v (D. 
-Forbes). Total length 12*5 inches, eulmen 2*2, wing 0*65, tail 
+Forbes). Total length 12*5 inches, culmen 2*2, wing 0*65, tail 
 3*9, tarsus 1-16; toes (without claws)—outer anterior 0*9, outer 
 posterior 0*8, inner anterior 0*08, inner posterior 0*38. 
 
@@ -5581,7 +5581,7 @@ are, as a rule, larger.
 
 Adult female. Differs from the adult male in the absence of red 
 on the forehead and edge of the crown, and also in wanting the red 
-malar stripe. Total length 10*5 inches, eulmen 1*15, wing 5*05, 
+malar stripe. Total length 10*5 inches, culmen 1*15, wing 5*05, 
 tail 3*55, tarsus 0*9. 
 
 The white spotting on the outer webs of the primaries is inconstant, 
@@ -6611,7 +6611,7 @@ posterior 0*27.
 Adult female. Differs from the adult male in the entire absence of 
 red on the head, the top of the head, occiput, and nape being golden 
 olive like the back, and the malar stripe deep olive. Total length 
-8 inches, eulmen 0*98, wing 4*85, tail 2*8, tarsus 0*78. 
+8 inches, culmen 0*98, wing 4*85, tail 2*8, tarsus 0*78. 
 
 Hab. South Brazil, north to Cujaba, and in Paraguay. 
 
@@ -7354,7 +7354,7 @@ B. p. 339, no. 2025 (1862); Cab. J. /. O. 1802, p. 321; Cab. £
 Heine, Mas. Sein. iv. p. 161 (1863), pt.; Gray, List Picid. Brit. 
 Mus. p. 104 (1808), pt ; id Haad-l B. II p. 198, no. 8777 (1870): 
 Sclat # Salv. Nomencl AD. Neotr. p. 100 (1873); ##/i\ Cat. 
-StricM. Coll. p. 398, no. 1936 (1882); Med. Cat. At. Costa Pica, 
+Strickl. Coll. p. 398, no. 1936 (1882); Med. Cat. At. Costa Pica, 
 1882, p. 23, no. 488; Boucard, P. Z. S. 16&3, p. 452 ; Zeled. Proe. 
 U. 8. Nat. Mus. 1885, p. 111. 
 Ohloronerpes uropygialis, Cab. J.f.O. 1862, pp. 321, 322. 
@@ -7618,7 +7618,7 @@ p. 889 (1866); Sclat. § Sato. P. Z. S. 1868, p. 169; Gray, List
 Pieid. Brit. Mm. p. 103 (1868) ; id. Hand-l B. ii. p. 198, no. 8774 
 (1870); Selat. § Salv. P. Z. S. 1870, p. 782; iid. Nomencl Av. 
 Keotr. p. 100 (1873); iid. P. Z. S.1875, p. 287; iid. op. cii. 1879, 
-p. 032; Serf. Ibis, 1880, p. 114; Salv. Cat. StricM. Coll p. 396, 
+p. 032; Serf. Ibis, 1880, p. 114; Salv. Cat. Strickl. Coll p. 396, 
 no. 1937 (1882) ; id. Ibis, 1886, p. 59. 
 Picus canipileus, UOrb. Voy. Amir. Merid. iv. p. 379, pi. Ixiii. 
 %. 2 (1835-44); Tschadi, Consp. Av. Pep. Pernan. in A)*ek. filr 
@@ -8088,7 +8088,7 @@ Nubian Woodpecker, Lath. Gen. Syn. no. 23, vol. i. pi. 2, p. 576
 Picas rabicus, Gm. Syst. Nat p. 430 (1788), $; Z<rfj&. I?M*. Orn. 
 
 i. p. 233 (1790); Steph. Gen. Zool. ix. pt. 1, p. 180 (1815); 
-LichL Verz. Boubl. p. 11 (1823), pt.; Bonn, fy Vieill Bnc. Meth. 
+LichL Verz. Boubl. p. 11 (1823), pt.; Bonn, fy Vieill Enc. Meth. 
 iii. p. 1313 (1823), pt.; Sundev. Consp. Av. Fichu p. 67 (1866); 
 Blanf. GeoL $ Zool. Ahjss. p. 305 (1870); Finsch, Tr. Z. S. vii. 
 p. 2*53, no. 160 (1870); Finseh $ Haril Tog. Ostafr. p. 508 
@@ -8888,14 +8888,14 @@ yellow, with only a few spots of black on the sides of the chest and
 body, flanks, and thighs. Tbere is very much less black on the side 
 of the neck in. tbe present bird: u bill brown slate-colour: iris 
 claret-coloured; legs and toes lead-coloured" (Andtrsson). Total 
-length 8*5 inches, eulmen 1*15, wing 5*0, tail 3*2, tarsus 0-95 ; 
+length 8*5 inches, culmen 1*15, wing 5*0, tail 3*2, tarsus 0-95 ; 
 toes (without claws)—outer anterior 0*7. outer posterior 0*03, inner 
 anterior 0*55, inner posterior 0*35* 
 
 Adult male. Differs from the adult female in having the face, 
 chin, and throat uniform white, the whole top of the head and a 
 very large malar stripe being crimson. Total length 8*5 inches, 
-eulmen 1*15, wing 5*15, tail 2*7, tarsus 0*9. 
+culmen 1*15, wing 5*15, tail 2*7, tarsus 0*9. 
 
 Hob. South-western Africa, from the Upper Cunene Eegion into 
 
@@ -10080,13 +10080,13 @@ brown spots ; fore neck and chest buff, the remaining under surface
 of the body whiter, the whole being crossed by zigzag markings 
 of dusky brown; under tail-coverts blacki=>h brown barred with 
 huffy white ; under wing-coverts dusky olive-brown, barred and 
-spotted with dull white. Total length 9 inches, eulmen 1*2, wing 
+spotted with dull white. Total length 9 inches, culmen 1*2, wing 
 5*2, tail 3*15, tarsus 1 ; toes (without claws)—outer anterior 0*63, 
 outer posterior 0*8, inner anterior 0*58, inner posterior 0-35. 
 
 Adult female. Differs from the adult male in having the forehead, 
 face, neck, and chest covered with minute rounded spots of blackish 
-brown and buffy white. Total length 9 inches, eulmen 1*07, wing 5, 
+brown and buffy white. Total length 9 inches, culmen 1*07, wing 5, 
 
 tail 3*1, tarsus 0-92. 
 Hob. Confined to the Island of Java. 
@@ -10613,13 +10613,13 @@ transverse spots and bars, the latter feathers (externally) and the
 edge of the wing are sometimes washed with olive: " bill dusky 
 bluish white* iris red ; eyelids, gape, and naked skin at gape 
 greenish blue; legs dusky blue; claws hornyJJ (E. W. Oates). 
-Total length 13 inches, eulmen 1*7-3, wing $-5, tail 4*7, tarsus 1*1; 
+Total length 13 inches, culmen 1*7-3, wing $-5, tail 4*7, tarsus 1*1; 
 toes (without claws)—outer anterior 0*87, outer posterior 0 8, inner 
 anterior 0*6, inner posterior 0*4. 
 
 Adult female. Has the malar region, chin, and upper part of the 
 throat rufous faintly striped with blackish. Total length 13 
-inches, eulmen 1*7, wing 6 63, tail 4*7, tarsus 1*15. 
+inches, culmen 1*7, wing 6 63, tail 4*7, tarsus 1*15. 
 
 Nestling, probably male. Eesemhles the adult, but has the malar 
 region, chin, throat, and fore neck dull buffy white, the throat and 
@@ -10851,7 +10851,7 @@ Total length 13 inches, oilmen 1*4, wing 0*15, tail 4*4, tardus
 Male (immature*?). Differs from the adult female in having the 
 malar region and the chin pale yellow; the bill is entire!} black, 
 except at the angle of the low er mandible. Total length 13 inches, 
-eulmen 1*5, wing 5-Qb^ tail 4, tardus 1*03. 
+culmen 1*5, wing 5-Qb^ tail 4, tardus 1*03. 
 
 It may be that this is the adult male of this specie*, which may 
 differ from the male of O. jiaviiwvlw in not having the yellow 
@@ -10975,7 +10975,7 @@ Gauropicoides rafflesii,
 Malh. Picid. 1. p. liii (1861); Salvad. Uec. 
 Bom. p. 54 (1874); Hume, Sir. P. 1875, p. 319; id. $ Davison, 
 op. mt. vi. p. 146 (1878); Hume, op. cit. 1879, pp. 53, 88, 
-no. 185 bis ; Salv. Cat. StricM. Coll p. 392, no. 1918 (1882) ; Gates, 
+no. 185 bis ; Salv. Cat. Strickl. Coll p. 392, no. 1918 (1882) ; Gates, 
 
 133 
 
@@ -13643,7 +13643,7 @@ confined to the occiput and nape. In other respects the sexes are
 
 170 PICIDJB. 
 
-alike. Total length 9*3 inches, eulmen 1*25, wing 4*7, tail 3*4 
+alike. Total length 9*3 inches, culmen 1*25, wing 4*7, tail 3*4 
 tarsus 0*9-. 
 Bab. Island of Grand Cayman, West Indies. 
 
@@ -13945,13 +13945,13 @@ Adult male. Resembles M dulim, but differs in having from two
 to three bars of white at the base of the outer weK of the primaries; 
 the white bars on the back and wrings rather broader, and the longest 
 upper tail-coverts slightly tipped with red. Total Itntitli U'o inches*, 
-eulmen 1-42, wing 5*1, tail 3-15, tarsus 0*0 ; iae^ (without ekw>|— 
+culmen 1-42, wing 5*1, tail 3-15, tarsus 0*0 ; iae^ (without ekw>|— 
 outer anterior 0*77, outer posterior 0*S, inner anterior <H», inner 
 posterior 0*37. 
 
 Adult female. Differs from the adult male in having the forehead 
 and crown creamy white, the occiput slightly smok\% the nuchal 
-band (only) red. Total length \}-2 inches, eulmen 1*22? wing 51*3, 
+band (only) red. Total length \}-2 inches, culmen 1*22? wing 51*3, 
 tail 3*2, tarsus 0*85. 
 
 There is more white on the crown of the female than in M. dttbiirs, 
@@ -14078,7 +14078,7 @@ length 7*3 inches, oilmen 1*1. \riu# 4*25, tail 2*2, tar^im U**; t<«*s
 
 Adult female. Differs from the adult male in harintr the crown 
 and occiput dark smoky grey or brown, paler anteriorly, the nipe 
-dull orange-red. Total length 8*7 inches, eulmen 0 05, wing 4*U#, 
+dull orange-red. Total length 8*7 inches, culmen 0 05, wing 4*U#, 
 tail 2, tarsus 0*73. 
 
 Hah. The Orinoco district, also the islands of Trinidad and 
@@ -14134,7 +14134,7 @@ the abdomen of a bright brick-red colour.
 Adult female. Has no red on the crown, this being entirely smoky 
 white, darker posteriorly, the occipital feathers tipped with scarlet, 
 but this colour not spreading on to the nape. Total length 7*5 inches, 
-eulmen 0*85, wing 4*15, tail 2*5, tarsus 0*73. 
+culmen 0*85, wing 4*15, tail 2*5, tarsus 0*73. 
 
 Examples of this species from the islands of Cozumel and Bonacca 
 are somewhat darker than typical birds, and those from the latter 
@@ -24096,7 +24096,7 @@ feathers concealing the basal part of those beneath ; the thighs are
 barred, but all the remaining underparts as well as the under tail-
 coverts are spotted with black: under wing-coverts and axillaries 
 pale yellow, the former having rounded spots of black, the latter 
-barred with the same. Total length 5 inches, eulmen 0*8, wing 3*1, 
+barred with the same. Total length 5 inches, culmen 0*8, wing 3*1, 
 tail 1*55, tarsus 0*57,* toes (without claws)—outer anterior 0*42, 
 outer posterior 0*5, inner anterior 0*35, inner posterior 0*2. 
 
@@ -24127,13 +24127,13 @@ and under tail-coverts yellow, and (except the thighs which
 are barred) very broadly striped with deep olive; under wing-coverts 
 and axillaries pale yellow spotted with black: " iris carmineous ; 
 bill greyish black; feet greyish green " (Buttil-ofer). Total length 
-5-3 inches, eulmen 0*75, wing 3*2, tail 1*45, tarsus 0*58; toes 
+5-3 inches, culmen 0*75, wing 3*2, tail 1*45, tarsus 0*58; toes 
 (without claws)—outer anterior 0*42, outer posterior 0*5, inner 
 anterior 0*35, inner posterior 0*25. 
 
 Adult female. Differs from the adult male in wanting the red on 
 the occiput and nape, these, as well as the forehead and crown, 
-being brown. Total length 5*2 inches, eulmen 0*75, wing 3*2, tail 
+being brown. Total length 5*2 inches, culmen 0*75, wing 3*2, tail 
 1*45, tarsus 0*6. 
 
 Young {sex ?). In general plumage like the adult, but duller; the 
@@ -25737,7 +25737,7 @@ brown malar htripo; chin and throat white; entire nnderparts,
 including under tail-coverts, brownish white, broadly but faintly 
 streaked with duskv brown; under wing-coverts white spotted 
 with dusky brown; axillaries white. Total length 5 inches, 
-eulmen (Wif>, wing 2-95, tail 1*35,tarsus 06 2 ; toes (without claws)— 
+culmen (Wif>, wing 2-95, tail 1*35,tarsus 06 2 ; toes (without claws)— 
 outer anterior 0*42, outer posterior 0*48, inner anterior 0*35, inner 
 
 posterior 0*2. 
@@ -30248,7 +30248,7 @@ sexed male, and, if this be correct, it is not only a very interesting
 feature, but adds to the specific value of the bird. The probability, 
 however, is that the true male will be found to have a red malar 
 
-stripe. Total length 7*5 inches, eulmen 0*9, wing &65, tail 2*5, 
+stripe. Total length 7*5 inches, culmen 0*9, wing &65, tail 2*5, 
 tarsus 0*83 ; toes (without claws)—outer anterior 0*62, outer posterior 
 0*62, inner anterior 0*4, inner posterior 0*25. 
 
@@ -30291,12 +30291,12 @@ tail-coverts, inclusive, black, the chin and throat spotted with
 white, the sides of the body, flanks, and thighs transversely varied 
 with, white; under wing-coverts and axillaries uniform buffy white: 
 " bill and claws black; legs and feet dirty dull green ; irides dark 
-brown " (J". Darling). Total length 6-5 inches, eulmen 0*93, wing 
+brown " (J". Darling). Total length 6-5 inches, culmen 0*93, wing 
 4*05, tail 1*8, tarsus 0*8; toes (without claws)—outer anterior 0*55, 
 outer posterior 0*55, inner anterior 0*35, inner posterior 0*28. 
 
 Adult female. Wants the red malar patch, but otherwise resembles 
-the male. Total length 6*5 inches, eulmen 0*85, wing 4, tail 1*8, 
+the male. Total length 6*5 inches, culmen 0*85, wing 4, tail 1*8, 
 tarsus 0*78. 
 
 In this species, as in the x)ther members of the genus, the light 
@@ -31342,7 +31342,7 @@ brown ; legs and claws greenish slaty " (Swinhoe).
 
 
 Adult female. Differs from the adult male in wanting the red 
-patch under the eye. Total length 9 inches, eulmen 1*15, wing 
+patch under the eye. Total length 9 inches, culmen 1*15, wing 
 4*95, tail 2-95, tarsus 0-85. 
 
 
@@ -31904,7 +31904,7 @@ posterior 0*72, inner anterior 0*6, inner posterior 0*18.
 
 Adult female. Differs from the adult male in having the feathers 
 of the forehead and crown black, with an apical rounded spot of 
-white. Total length 11 inches, eulmen 1*62, wing 5'82, tail 3*45, 
+white. Total length 11 inches, culmen 1*62, wing 5'82, tail 3*45, 
 tarsus 1*02. 
 
 Young male. Differs from the adult male in having the forehead 
@@ -35774,7 +35774,7 @@ sides of the body striped with olive-brown, the lower series of under
 tail-coverts dnsky olive; under wing-coverts having yellowish-white 
 centres and olive-dusky margins, the edge of the wing being olive, 
 slightly dusky, and tinged with red. Total length JO inches, 
-eulmen 1*55, wing 5*6, tail 3*15, tarsus 1-07 ; toes (without claws) 
+culmen 1*55, wing 5*6, tail 3*15, tarsus 1-07 ; toes (without claws) 
 
 —outer anterior 0*76, outer posterior 1, inner anterior 0*57, inner 
 posterior 0-46. 
@@ -36625,7 +36625,7 @@ Consp. Av. Picin. p. 5 (1866) ; Fnsch, P. Z. S. 1870, p. 5SC)
 
 Picus albirostris, 
 Vieill. N. Diet cVIIist. Nat. xxvi. p. 09, <$ (1818) ; 
-id. 8? Bonn. Bnc. Meth. iii. p. 1304 (1823) ; Spix, Av. Bras. i. 
+id. 8? Bonn. Enc. Meth. iii. p. 1304 (1823) ; Spix, Av. Bras. i. 
 
 p. 56, pi. xlv. figs. 1, 2, S S (1824); Wagl. Syst. Av. Picus, sp. 9 
 (1827); id. Isis, 1829, p. 509 ; Tsch. Av. Consp. Pep. Peruan. in 
@@ -36777,7 +36777,7 @@ Adult female. Differs from the adult male in having the forehead
 and the central and elongated feathers of the crown black; the 
 whole of the malar region white, this forming a broad stripe which 
 includes the lower half of the ear-coverts and unites with the white 
-stripe down the side of the neck. Total length 13*5 inches, eulmen 
+stripe down the side of the neck. Total length 13*5 inches, culmen 
 1-9, wing 7*25, tail 4*5, tarsus 1*4. 
 
 Young female. Differs from the adult of the same sex in having 
@@ -38014,7 +38014,7 @@ p. 650 (1856-58).
 Micropicus canente (pt.), Malh. Ficidce, i. p. 190, pL xlii. figs. 1? 2 
 (1861). 
 Hemicercus canente (non Less.), Jerd. B. Ind. L p. 280 (1862); Sftlu. 
-Cat. StricM. Coll p. 401 (1882). 
+Cat. Strickl. Coll p. 401 (1882). 
 Picus canente, var. occidentalis, Sundev. Consp. Av. Ftcin. p. 11 
 (1866). 
 Picus cordatus, Giehel, Thes. Orn. iii. p. 151 (1876). 
@@ -38166,14 +38166,14 @@ and under tail-coverts sandy brown ; under wing-coverts and
 * The female is unknown. 
 40 . MICROSriCTUS. 
 axillaries slaty black; under surface of the tail brownish. Total 
-length 14 inches, eulmen 1*8, wing 7*1, tail 6*1, tarsus 1*25; toes 
+length 14 inches, culmen 1*8, wing 7*1, tail 6*1, tarsus 1*25; toes 
 (without claws)—outer anterior 1, outer posterior 0-8, inner anterior 
 0*75, inner posterior 0*4. 
 
 Adult female. Differs from the adult male in wanting the red on 
 the head, those parts which are red in the male being slaty black 
 covered with very minute whitish specks, these being less marked 
-on the ear-coverts. Total length 13*5 inches, eulmen 1*6, wing 6*5, 
+on the ear-coverts. Total length 13*5 inches, culmen 1*6, wing 6*5, 
 tail D'6, tarsus 1*22. 
 
 Young, probably female. Resembles the adult female, but has the 
@@ -38219,7 +38219,7 @@ nape, as well as the top of the head, red, and this colour covering
 the whole of the face except a small space between the posterior 
 part of the malar region and the occiput; the tail, both above and 
 below, dusky or slaty black, and the shafts nearly black above and 
-dusky below, especially at the tip. Total length 15 inches, eulmen 
+dusky below, especially at the tip. Total length 15 inches, culmen 
 1*9, wing 7*05, tail 6*05, tarsus 1*1; toes (without claws)—outer 
 anterior 1*02, outer posterior 0*9, inner anterior 0*83, inner 
 posterior 0*42. 
@@ -41284,7 +41284,7 @@ Less. Man. d'Orn. ii. p. 116 (1828) ; Cab. q Heine, Mus. Hein, iv.
 
 p. 19 (1863); Sundev. Consp. Av. Picin. p. 98 (1866); Gray, List 
 Picid. Brit. Mus. p. 24 (1868); id. Hand-l B. ii. p. 179, no. 8502 
-(1870) ; Pelz. Orn. Bras. pp. 241, 442 (1870) j Salv. Cat. StricM. 
+(1870) ; Pelz. Orn. Bras. pp. 241, 442 (1870) j Salv. Cat. Strickl. 
 Coll.?. 881,no. 1862 (1882). 
 Picumnus minutus (non Linn.)) Wagl. Isis, 1829, p. 645 ; Bttrm. Th. 
 
@@ -41648,7 +41648,7 @@ Lafr. Bei. Zool. 1845, pp. 7, 111; Bp. Consp. Gen. Av. i. p. 140
 4117-18, tf <f (1854) ; Burnt. Th. Bras. ii. p. 247 (1856) -Malh. 
 Picidce, ii. p. 285, pi. cxv. figs. Stfad., 4 $ ad., 5tf juv. (1862) j 
 Mat. Cat. Amer. B. p. 330, no. 1968 (1862); Cab. | Heine, Mus. 
-Hein. iv. p. 23 (1863): Salv. Cat. StricM. Coll p. 382, no. 1865 
+Hein. iv. p. 23 (1863): Salv. Cat. Strickl. Coll p. 382, no. 1865 
 (1882). 
 
 Piculus pygmseus, Bp. Consp. Volucr. Zygod. p. 11, no. 246 (1854). 
@@ -42930,12 +42930,12 @@ dusky red; iris crimson ; legs yellowish red; claws yellowish "
 upper mandible and tip of lower mandible dark horny brown, rest 
 of the lower mandible pale bluish; irides from pale red to dark 
 crimson; orbital skin dull crimson" (W. Davison). Total length 
-3*1 inches, eulmen 0-53, wing 2*12, tail 0*9, tarsus 0*5; toes 
+3*1 inches, culmen 0-53, wing 2*12, tail 0*9, tarsus 0*5; toes 
 (without claws)—outer anterior 0*47, inner anterior 0*3, posterior 
 0-45. 
 
 Adult female. Differs from the adult male in having the forehead 
-deep rufous, devoid of golden yellow. Total length 3 inches, eulmen 
+deep rufous, devoid of golden yellow. Total length 3 inches, culmen 
 0-55, wing 2-12, tail 0'9, tarsus 0-55. 
 
 Young. Resemble (generally) the adult, but have the plumage 

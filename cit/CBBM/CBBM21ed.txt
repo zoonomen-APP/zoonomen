@@ -4277,7 +4277,7 @@ Yinago aromatiea, HartHjiec Linn.) fyst. Verz. Brem.jh 97 (1B44)
 (Java). 
 
 Treron aromatiea, Blyih (nee Linn.) J. A. S. B. xiv. 2, p. 848 (Java) 
-(1845); id. Ann. fy Mag. JVT. II. six. p. 4% (3847); StricM. ibid. p. 44 
+(1845); id. Ann. fy Mag. JVT. II. six. p. 4% (3847); Strickl. ibid. p. 44 
 (note) (1847) ; Blijth, Cat. B.Mm.A. 8. if. p. i#a, n. 13M (Jb49); 
 Bp. Consp. Av. ii. p. 10, n. 3 (1^54) (Java, Borneo!); Feb. Nmxira 
 Reis.j Vog. p. 103 (Java) (l&a>); Gieb. Thes. Oni. iiL p. 040 (part.) 
@@ -7259,7 +7259,7 @@ tip of the lateral feathers ; under surface of the rect rices dark gr<*y,
 
 with a broad terminal pale grey band : '• bill yellowish ; feet red T" 
 
-(Elliot). Total length 10*5 inches, wing 5*0, tail 4, eulmen 0*05, 
+(Elliot). Total length 10*5 inches, wing 5*0, tail 4, culmen 0*05, 
 
 tarsus 0*8. 
 
@@ -8312,7 +8312,7 @@ Bend, xxxix. p. 877 (1854), xl. p. 216, n. 40 (1855); id. Couptfceil
 Ordre Big. pp. 8, 54, n. 40 (1855); Schleg. Mm. P.-B. Columba, 
 
 p. 4 (1^73); ~8ousa, Mm. Xac. Lisb. Columbss, p. 8 (1873); Gieb. 
-Thes. Orn. iii. p. 308 (1877); 8atv. Cat. B. StricM. Coll. p. ooo 
+Thes. Orn. iii. p. 308 (1877); 8atv. Cat. B. Strickl. Coll. p. ooo 
 (1S82); Salvad. Orn. Pap. e Mol. iii. p. 63 (1882); Sharpe, Fog. 
 1 Alert; p. 25 (part.) (1884). 
 Kurukuru 
@@ -18446,7 +18446,7 @@ P.-B. Columbiio, p. 98 (syn. emend.) (1873); Buller, Hist. B. of
 New Zeal. p. 157, pi. 18 (1873) ; Buller, Ibis, 1874, p. 117; Finsch, 
 J.f.O. 1874, p. 192 (part.); Garrod, P. Z. S. 1874, p. 250; Sclat. 
 P. Z. S. 1876, p. 2; Kirk, Tr. $ Pr. N. Zeal List xii. p. 248 
-(albino) (1880) ; Salv. Cat B. StricM. Coll. p. 554 (1882); Finsch, 
+(albino) (1880) ; Salv. Cat B. Strickl. Coll. p. 554 (1882); Finsch, 
 Ibis, 1882, p. 397; Bull Man. B. Neto Zeal p. 41, pi. 18 (1882); 
 Kirk, Tr. N. Z. Inst, xviii. p. 129, fig. var. (1885); Bull. B. 2V. 
 Zeal 2nd ed. i. p. 229, pi. 24 (1888); Tristr. Cat. Coll. B. p. 42 
@@ -20125,7 +20125,7 @@ Oolumba cenas, Sykes (nee Linn.), P. Z. S.1832, p. 150, n. 144 (Dukhun)
 1845, pi. iv.; Rchnb. Syn. Av. I 1249 (1847); Burgess, P.Z.S, 
 1855, p. 34. 
 
-Columba intermedia, StricM. Ann. fy May. N. JET. xiii. p. 39 
+Columba intermedia, Strickl. Ann. fy May. N. JET. xiii. p. 39 
 (India) (1844); G. M. Or. Gen. B. ii. p. 470, n. 4 (1844); 
 Blyth, J. A. S. B. xiv. p. 861 (1846) ; id. Ann. $ Mag. 
 
@@ -20155,7 +20155,7 @@ Cripps, torn. cit. p. 296 (1878); Tiraut, Bull. Com. Agr. Ind.
 Coehinch. i. p. 142, n. 253 (1879); ? Wardl Rams. Ibis, 1879, 
 p. 448 (Afghanistan); Hume, Str. Feath. viii, p. 109 (1879); Legge, 
 B. of Ceyl. p. 698 (1880); Bidd. Ibis, 1881, p. 91 (Qilgit); C. 
-Swinh. Ibis, 1882, p. 117 ; Salv. Cat. B. StricM. Coll p. 544 (1882); 
+Swinh. Ibis, 1882, p. 117 ; Salv. Cat. B. Strickl. Coll p. 544 (1882); 
 Saund. Yarr. Brit. B. iii. p. 16 (1882); Sharpe in Gould's B. of 
 As. vi. pi. 56 (pt. xxxiv., 1883); Gates, B. ofBurm. ii. p. 288 (1883); 
 Marsh. Ibis, 1884, p. 421 (Ohaniba); C. Swinh. $ Bam. Ibis, 1885, 
@@ -21123,7 +21123,7 @@ p. 605, n. 46 (1790); Bonn. Erie. MM. i. p. 245 (1790).
 Columba gymnophthalmos, Temm. §• Knip, Pig.i. seconds fam. p. 48, 
 pi. 18 (1808-11) (excl. syn.) (type examined); Temm. Pig.et Qallin. 
 
-i. pp. 225, 463 (1813); Vieill Bnc. Meth. i. p. 379 (1823); Bern. 
+i. pp. 225, 463 (1813); Vieill Enc. Meth. i. p. 379 (1823); Bern. 
 Diet Sc. Nat. xl. p. 328 (1826); Less. Tr. d'Orn. p. 470 (1831) ; 
 id. Compl de Buff., Ois. viii. p. 95 (1837); id. op. cit. 2nd ed. 
 p. 295 (1838); G. B. Gr. Gen. B. ii. p. 470, n. 6 (1844) (syn. 
@@ -32169,7 +32169,7 @@ p. 43 (part. ?) (1856); Layard (nee Gm.% B. 8. Afr. p. 259
 Turtur 
 semitorquatus, G. P. Gr. Gen. B. ii. p. 472, n. 10 (1844); 
 Pupp. Syst. Uebers. p. 100 (1845); PcMb. Syn. AD. f. 1371 (1847^; 
-StricM. Ann. $ Mag. N. E. xix. p. 182 (note) (1847); ? Allen'§ 
+Strickl. Ann. $ Mag. N. E. xix. p. 182 (note) (1847); ? Allen'§ 
 
 * According to Sehlegel the bird from the Gold Coast is smaller and specifically 
 different from T. levaillanti (= semitor^ptatm, Eiipp.). 
@@ -32757,7 +32757,7 @@ Turtur risorius, part., Selby? Nat. Libr.9 Pigeons, p. 171 (1835)
 
 (S. AMca) j G. P. Gr. List GOUUUB B. M. p. 12, specim. e (1844) 
 (S.Afr.). 
-Turtur vinaeeus, StricM. Ann. $ Mag. K S. xiii. p. 39 (1844) (?), 
+Turtur vinaeeus, Strickl. Ann. $ Mag. K S. xiii. p. 39 (1844) (?), 
 
 xix. p. 182 (1847) (S. Africa) ; Blyth (me GmX Cat B. Mm. A. 
 8. B. p. 235, n. 1429 (1849) (S. Africa); ?id. J. A. S. B, xxiv. 
@@ -32886,7 +32886,7 @@ JE. I. Layard, Ibis, 1860, p. 374.
 
 Columba risoria, part., Tetmn. Fig. et Gallia. L pp. 323, 481 (1813); 
 Wagl Syst. Av. Columba, sp. 03, nota (1827). 
-Turtur vinaeeus, StricM. $ Scl. (nee Gm.) Cmtr. Orn. 1852, p. 157 
+Turtur vinaeeus, Strickl. $ Scl. (nee Gm.) Cmtr. Orn. 1852, p. 157 
 (Damara). 
 
 Turtur albiventris, Sartl {nee Gr.) F. Z. 8.1867, p. 827 (Zanzibar); 
@@ -36198,7 +36198,7 @@ id. Fog. Neuholl. p. 322, n. 437 (1850); G. R. Gr. List B. Brit.
 Mus. Columbae, p. 37 (1856): 8chleg. Mus. P.-B. ColumbaB, p. 133 
 (1873) j Gieb. Thes. Orn. ii. p. 250 (1875); Rams. Fr. Linn. 8oc. 
 
-N. 8. W. ii. p. 196, n. 537 (1877); 8alv. Cat. B. StricM. Coll. 
+N. 8. W. ii. p. 196, n. 537 (1877); 8alv. Cat. B. Strickl. Coll. 
 p. 553 (1882); Rams. Fr. Linn. 8oc. N. 8. W. vii. p. 54 (1883); 
 Sclat. List Vert. An. 8th ed. p. 450 (1883); Rams. Tab. List, p. 18, 
 n. 549 (1888); Brisay, Bull. 8oc. Acclim. 1889, p. 52; Tristr. Cat. 
@@ -37968,7 +37968,7 @@ i. p. 634 (1872); Sousa, Mus. Nae. Lisb. Columbia, p. 21 (1873);
 Sclat. & Salv. Nomencl. Av. Neotrop. p. 133 (1873); Baird, Brew., 
 & Ridgw. Hist. N. Am, B. p. 389 (1874); Sclat. & Salv P. Z. S. 
 1876 v 17 (Peru); Forbes, Ibis, 1881, p. 357 (N.E. Brazil); Salv. 
-Cat.'l StricM/Coll p. 547.(1882),; id, Ibis, 1886 p 173 
+Cat.'l Strickl.Coll p. 547.(1882),; id, Ibis, 1886 p 173 
 (Roraima); Tacz. Orn. Fir, in. p. 244, TaM. p. 102 (1886); 
 * I bave very little doubt tbat D'Aubenton's figure has been copied from 
 Brisson's. 
@@ -40574,7 +40574,7 @@ VOL. xxr.
 
 514 PEKISIEEID^J. 
 
-just at the base of the eulmen: " iris pale brown ; bill orange, soft 
+just at the base of the culmen: " iris pale brown ; bill orange, soft 
 part brown-red; feet cherry-red'" (Platen). Total length 9*U4 inches, 
 wing 5-66, tail 3*30, bill 6*66, tarsus 1*02. (21ns. Brunswick.)* 
 
@@ -40647,7 +40647,7 @@ Clialeophaps indiea, G. B. Gr. List Gallince Bnt. Mus. p. 18 (1844);
 
 
 id. Gen. B. ii. p. 477, n. 1 (lb44); Blyth, J. A. S. B. xiv. 2, p. b59 
-(1845 j ; id. Ann. ^ Mag. X H. xix. p. 99 (1847); StricM. ibid. 
+(1845 j ; id. Ann. ^ Mag. X H. xix. p. 99 (1847); Strickl. ibid. 
 
 p. 101 (note) (lS47j; Rchnb. Av. Syst Xat. p. xxv (1855) ; Bp. 
 Co/i»p. Av. ii. p. 91 {1S54J ; id. Compt. Rend. si. pp. 208, 509, 222, 
@@ -45862,7 +45862,7 @@ Diet Sc. Sat. xl. p. 306 (1826); Less. Compl. de Buff., Ois. viii.
 p. 13 (1837): id. op. tit. 2nd ed. p. 273 (1838). 
 Goura cruenta, Steph. Gen. Zool. xi. p. 128 (1819). 
 Red-breasted Pigeon, Lath. Gen. Hist. viii. p. 90 (1823). 
-Catenas cruenta,-StricM. F. Z. S. 1842, p. 168; Cab.fideBp. Consp. 
+Catenas cruenta,-Strickl. F. Z. S. 1842, p. 168; Cab.fideBp. Consp. 
 Av. ii. p. 88. 
 Catenas luzonica, G. It Gr. List Gallince Brit. Mus. p. 18 (1844) ; 
 id. Gen. B. ii. p. 478, n. 3 (1845). 
@@ -48815,10 +48815,10 @@ DIDTDJE.
 (Rodriguez); id. Philos. Mag. (2) i. p. 461 ; Telfair, P. ^-& 
 1833, p. 31 (Rodriguez). 
 
-Pezophaps solitaria, StricM. The Dodo, $c. p. 46 (1848); Sely*-
+Pezophaps solitaria, Strickl. The Dodo, $c. p. 46 (1848); Sely*-
 Lonqch. Rev. Zool. 1848, p. 293, n. 2; G. R. Gr. Gen. B. ii. p- 483 
-(1848); StricM. Conbr. to Orn. 1852, p. 19; 3p. Consp. JAV. II. 
-v 3 (1854); id. Compt. Rend. xliii. p. 840, n. 6 (1856); StricM. 
+(1848); Strickl. Conbr. to Orn. 1852, p. 19; 3p. Consp. JAV. II. 
+v 3 (1854); id. Compt. Rend. xliii. p. 840, n. 6 (1856); Strickl. 
 Tr. Zool Soc. iv. pp. 187-196, pi. 35 (1859); Rchnb. Tauben, 
 i p 128 (1802) ; Lund, Bull. Soc. Orn. Suisse, 1865, p. 150 ; 
 
@@ -48841,7 +48841,7 @@ id. Ann. $ Mag. N. EL. (2) xiv. pp. 297-301 (1854); A. ISTewt.
 P.Z. S. 1865, pp. 199-201, pi. viii.f, p. 716 (=P . solitaria) ; id. 
 Ann. $ Mag. N. H. (3) xvi. pp. 61-63 (1865) ; id. Ibis, 1865, p . 153 
 (note), p. 552. 
-Pezophaps minor, StricM. Contr. to Orn. 1852, p. 19; id. Tr. Zool. 
+Pezophaps minor, Strickl. Contr. to Orn. 1852, p. 19; id. Tr. Zool. 
 Soc. iv. p. 191 ( ?) (1859) ; A. Newt. P. Z. S. 1865, p. 716 (note) ; 
 Owen, Tr. Zool. Soc. vii. pp. 519, and follow., pi. Ixvi. fT. 5, 6, 7, 
 12 (1871). 
@@ -49201,7 +49201,7 @@ Solitaire, D. B. (JDu Bois), MS, Journ. et Rel des Voy. avx ties
 
 Daufine ou Madag. et de Bourbon ou Mascarenne, 1669; Strtckl. 
 
-P. Z. S. 1844, p. 78 ; StricM. $ Melv. op. tit. p. 58 (1848) ; BoUe, 
+P. Z. S. 1844, p. 78 ; Strickl. $ Melv. op. tit. p. 58 (1848) ; BoUe, 
 J. f. 0. 1856, p. 322; Dubois, Ann. Sc. Nat. (5) vi. p- 43 (note) 
 (1866). 
 Apterornis solitarius, de Selys, Bev. Zool. 1848, p. 293. 
@@ -49720,7 +49720,7 @@ Surinam Turtle, Lath, Syn. ii. 2, p. 647, n. 41 (1783).
 Columba surinamensis, Gm. S. N. i. 2, p. 787, n. 67 (1788); Z,ath* 
 
 
-Ind. Orn. ii. p. 607, n. 50 (1790); Bonn. Tall. Bnc. Meth. p. 252 
+Ind. Orn. ii. p. 607, n. 50 (1790); Bonn. Tall. Enc. Meth. p. 252 
 (1790) ; Temm. Pig. et Gallin. i. p. 478 (1813); Vieill N. D. xxvi. 
 
 p. 386 (1818) ; Steph. Gen. Zool. xi. p. .75 (1819) j Desm. Uiet. 

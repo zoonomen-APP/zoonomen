@@ -1108,7 +1108,7 @@ white ; base of the primaries, including the base of the shafts,
 white; under wing-coverts whitish; tail black: " iris bright 
 orange: upper mandible dark brown-grey, lower mandible paler ; 
 frontal horn yellowish white; legs and feet ashy grey" (Wied). 
-Total length about 34 inches, wing 22*5, tail 11, eulmen 1*4, 
+Total length about 34 inches, wing 22*5, tail 11, culmen 1*4, 
 tarsus 4*4. 
 
 Female. Similar to the male, but, according to Prince Neuwied, 
@@ -1594,7 +1594,7 @@ Plammant on Phenicoptere, part, Buff. Hist. Nat. Ois. yiii. p. 475
 Red Flamingo, Lath. Sipi. iii. 1, p. 299, n. 1 (1785) ; id. Syn. Suppl 
 
 i. p. 263 (1787). 
-Phoanicopterus ruber, Tar. a, Bonn. Bnc. Meth. i. p. 162, pi. 42. f. 3 
+Phoanicopterus ruber, Tar. a, Bonn. Enc. Meth. i. p. 162, pi. 42. f. 3 
 (1791). 
 Phoenicopterus 
 roseus, Pall Zooqr. Rosso-As. ii. p. 207 (1811) (Caspian); 
@@ -4551,7 +4551,7 @@ in Oates' Matab. Land, p. 327 (1881).
 
 Sarkidiornis africana, 
 G. P. Gr. Gen. B. iii. p. 605, n. 2 (1845); 
-StricM. P. Z. S. 1850, p. 221 (Kordofan) ; Hartl J. f. 0. 1855, 
+Strickl. P. Z. S. 1850, p. 221 (Kordofan) ; Hartl J. f. 0. 1855, 
 
 p. 361 (Gold Coast); id. Syst. Orn. Westafr. p. 246 (1857); id. 
 J.f 0. 1860, p. 173,1861, p. 272; id. Orn. Beitr. Fauna Madag. 
@@ -4566,7 +4566,7 @@ N. de Belg. iv. p. 149, n. 189 (Tanganyika) (1886).
 Sarkidiornis regia, Hartl (?iec Mol.) Zeitung f. Zool Zoot u, 
 PalcBoz. i p. 159 (Madagascar) (1848). 
 Sarcidiornis 
-africana, StricM. Ann. ty Mag. N. II. 1852, p. 349; 
+africana, Strickl. Ann. ty Mag. N. II. 1852, p. 349; 
 Hartl J.f.O. 1854, p. 303; Bp. Compt Rend. Ixiii. p. 649, n. 37 
 (1856); Sclat. P. Z. S.1860, p. 42; Sclat $ Spehe, P. Z. S. 1864, 
 
@@ -12509,7 +12509,7 @@ i. p. 480 (1884).
 Similar to B. autumnalis, but differs in the lower hind-neck being 
 fulvous-grey, strongly and abruptly contrasted against the dark 
 chestnut-brown of the back; also the breast is greyish, instead of 
-chestnut as in D. autumnalis. Wing 9* 10-9*30 inches, eulmen 
+chestnut as in D. autumnalis. Wing 9* 10-9*30 inches, culmen 
 1-80-1-90, tarsus 2-20-2-25. 
 
 Hah. Colombia, Guiana, with Trinidad Island, Ecuador, Eastern 
@@ -14054,7 +14054,7 @@ Sharpe, Layard's Birds S. Afr. p. 753 (1884); Ayres, Ibis, 1885,
 p. 350 (Transvaal) ; Symonds, Ibis, 1887, p. 335 (Orange Free 
 State). 
 Tadorna cana, Sclat. P. Z. S. 1864, p. 190,1869, p. 629 (breeding), 
-1880, p. 512; Salv. Cat. B. StricM. Colly. 532 (1882); Sclat.List 
+1880, p. 512; Salv. Cat. B. Strickl. Colly. 532 (1882); Sclat.List 
 Vert. An. 8th ed. p. 429 (1883) ,• PLartert, Kat. Vogelsamml p. 228 
 (1891). 
 
@@ -16567,7 +16567,7 @@ Seebh. B. Jap. Bmp. p. 245 (1890); Brandt, J.f. 0. 1891, p. 268,
 Anas 
 falcaria, Ball. Beise Buss. Beichs, iii. p. 701, n. 34 (1776); 
 Gm. S. N. i. 2, p. 521, n. 86, with Tar. 0 (1788); Lath. Ind. 
-Om. ii. p. 860, n. 70 (1790); Bonn. Bnc. Meth. i. p. 147, pi. 36. 
+Om. ii. p. 860, n. 70 (1790); Bonn. Enc. Meth. i. p. 147, pi. 36. 
 
 f. 5 (1790) ; Vieill. N. I), v. p. 105 (1816) ; Bum. Bid. Sc. 
 Nat. vi. p. 397 (1817); Steph. Gen. Zool. xii. 2, p. 100 (1824); 
@@ -16583,7 +16583,7 @@ Anas javana, Bodd. Tail PI Enl. 55, n. 930 (1783) (ex PL JSnL).
 Falcated Duck, Penn. Arct. Zool. i. p. 574, t. 23 (1785); Lath. Sun. 
 
 iii. 2, p. 516, n. G2 (1785). 
-Anas javanensis, Bonn. Bnc. Meth. i. p. 160, pi. 39. f. 3 (1791) (ex PL 
+Anas javanensis, Bonn. Enc. Meth. i. p. 160, pi. 39. f. 3 (1791) (ex PL 
 Enl 930). 
 Anas drepanopteros, Messerschm. MB., fide Pallas, Zoogr. Bosso-As. 
 
@@ -17390,7 +17390,7 @@ Anas kagolca, Brehm, Isis, 1830, p. 997: id. Handb. Yog. BeutschL
 
 p. 872 (1831). 
 Mareca penelope, Selby, Br. Orn. ii. p. 324 (1833) ; Jen. Man. p. 236 
-(1835}; StricM. B. Z. 8.1836, p. 102 (Smyrna); Gould, B. Eur. 
+(1835}; Strickl. B. Z. 8.1836, p. 102 (Smyrna); Gould, B. Eur. 
 
 30. MAKECA. 229 
 pi. 359 (1837); Bp. Comp. List, p. 56 (1838); StrickL P. Z. K 
@@ -18365,7 +18365,7 @@ Ibis, 1888, p. 351 (Great liakoff I.); Tacz. P. Z. S.1888, p. 460
 Anas glocitans, Pall. Act. Stockh. xl. pp. 26, 33, t. 1 (1779); Gm. 
 
 8. N. i. 2, p. 526, n. 96 (1788) (syn. emend); Lath. Lid. Orn. ii. 
-p. 862, n. 75 (1790) (syn. emendl); Bonn. JBnc. Meth. i. p. 128, 
+p. 862, n. 75 (1790) (syn. emendl); Bonn. JEnc. Meth. i. p. 128, 
 pi. 36. f. 4 (1790); Pall. Zoogr. Posso-As. ii. p. 261 (1811); Bum. 
 Diet. 8c. Nat. vi. p. 375 (1817); Less. Compl. Buff-, Ois. ix. 
 p. 536 (1837); id. op. tit. 2nd ed. p. 722 (part.) (1838); Midd. 
@@ -18375,7 +18375,7 @@ Przeio. Voy. n. 200 (1867-69); Tacz. J.f. 0.1870, p. 312 (Dauria);
 Homey, ibid. p. 431; A. David, N. Arch, du Mus., Bull. vii. Cat. 
 n. 451 (1871). 
 Baikal Teal, Lath. 8yn. iii. 2, p. 557, n. 97 (1785). 
-Anas baikal, Bonn. JBnc. Meth. i. p. 158 (1791). 
+Anas baikal, Bonn. JEnc. Meth. i. p. 158 (1791). 
 Querquedula torquata, Messerschm. Orn. M8. viii. n. 196 {fide Pall. 
 Zoogr. Posso-As. ii. p. 261) (1811). 
 Anas picta, 8teller, Obs. M8. {fide Pallas, I. c). 
@@ -19930,7 +19930,7 @@ Licht. Nomencl.Av. p. 101 (1854); Feb. Novara Reis., Vog. p. 138
 (1865); Ohapm. Trav. in 8. Afr. ii. App. p. 422 (1868); G. R. Gr. 
 Hand-list, iii. p. 82, n. 10640 (syn. emend.) (1871); Gieb. Thes. 
 Orn. i. p. 346 (syn. emend.) (1872); ? Gadow, J.f. 0.1877, p. 389 ; 
-Salv. Oat. B. StricM. Coll p. 534, n. 2602 (syn. emend.) (1882); 
+Salv. Oat. B. Strickl. Coll p. 534, n. 2602 (syn. emend.) (1882); 
 Salvad, JP. Z. S. 1884, pL xiii.; Hartert, Kat. Vogelsamml. p. 231 
 (1891). 
 
@@ -20493,7 +20493,7 @@ Compt. Rend. xliii. p. 650, n. 106 (1856); Sclat. $ Safe- P. Z. &
 Sclat. P. Z. S. 1873, p. 809 (Zool. Gard.); Cab. J.f 0.1874, p. 231; 
 Sclat. $ Sah. P. Z. S. 1876, p. 390 (Bolivia, Pearce) ; Bumf. Ibis, 
 1877, p. 192, 1878, p. 64; Sclat. P. Z. S. 1880, p. 532; Sah. 
-Cat. B. StricM. Coll p. 536 (1882); Sclat. List Vert. An. 8th ed. 
+Cat. B. Strickl. Coll p. 536 (1882); Sclat. List Vert. An. 8th ed. 
 
 p. 433 (1883); Barrows, Auk, 1884, p. 273 (Entrerios); Berl u. 
 Jhering, Zeitschr. ges. Orn. 1885, p. 176 (Taquara) ,* Berl. J.f O. 
@@ -22263,7 +22263,7 @@ edged with white; tail blackish brown, almost uniform: " bill
 
 blackish brown; tarsus and feet reddish brown; irides dark hazel" 
 (Buller). Total length from 17 to 18 inches, wing 5'5^ tail 3*8, 
-eulmen 1*6, tarsus 1*25. (BotliscHld Coll.) 
+culmen 1*6, tarsus 1*25. (BotliscHld Coll.) 
 
 Female. Much smaller than the male; head brown, with no green 
 lustre; on the cheeks and throat the feathers edged with whitish; 
@@ -23747,7 +23747,7 @@ B'OrK in La Sagra's Hist. Nat Cuba, Ois. p. 299 (1840) ; Gundl
 J.f. 0.1871, pp. 278, 280. 
 Anas 
 rubens, Gm. S. N i. p. 519, n. 82 (1788) (ex Pennant); Lath. 
-Ind. Orn. ii. p. 857, n. 62 (1790); Bonn. Bnc. Meth. i. p. 145 
+Ind. Orn. ii. p. 857, n. 62 (1790); Bonn. Enc. Meth. i. p. 145 
 (1790); Vieill. N. B. v. pp. 134,156 (1816); Bum. Bid. Sc. Nat 
 
 vi. p. 378 (1877). 
@@ -24671,7 +24671,7 @@ darker and with a green lustre towards the tip; marginal under
 the axillars white; tail greyish black, the outer feathers lighter, 
 all broadly edged with whitish on the outer webs: bill dark, almost 
 "blackish; feet yellow; irides white. Total length about 20 inches, 
-wing 9, tail 5*3, eulmen 2-5, tarsus 1*4. 
+wing 9, tail 5*3, culmen 2-5, tarsus 1*4. 
 Female. Yery similar to the female of 8. ch/jpeata, so like that it 
 is very difficult to distinguish it, except by the bill, which is a little 
 shorter and in dry skin of a dusky colour, while in S. clypeata it 
@@ -25319,7 +25319,7 @@ shorter primaries edged with white at the tip ; primaries and tail-
 feathers blackish; under * wing-coverts, except the greater which 
 are grey, and axillaries white: u bill blackish, with a basal spot on 
 each side flesh-colour ; feet horny brown " (Sctater'). Total length 
-about 14*5 inches, wing 7, tail 2*3, eulmen 1*75, tarsus 1-12. 
+about 14*5 inches, wing 7, tail 2*3, culmen 1*75, tarsus 1-12. 
 
 Female. " Similar, but the head like the back, cheeks brown, 
 freckled with black, and throat and superciliary stripe whitish " 
@@ -26923,7 +26923,7 @@ Anas nyroca, Guldenst Nov. Comm. Petrop. xiv. 1, p. 403 (1769);
 
 Lath. Syn. iii. 2, p. 541, n, 79, var. A (1785); id. hid. Orn. ii. 
 
-p. 869, n. 91 (1790); Bonn. Bnc. Meth. i. p. 135 (1790); Bechst. 
+p. 869, n. 91 (1790); Bonn. Enc. Meth. i. p. 135 (1790); Bechst. 
 Lathams Uebers. iii. p. 465, n. 29 (1796); Vieill N. B. v. p. 131 
 (1816); Less. Tr. d'Orn. p. 632 (1831); Schleg. Bev. Crit. p. cxx 
 (1844); Naum. Vog. Beutschl xii. p. 41, t. 309 (1844); Fritsch, 
@@ -26938,7 +26938,7 @@ p. 345; Bolle, J. f O. 1857, p. 266 (Canaries); Fritsch, J. f. O.
 Thes. Orn. i. p. 359 (1872). 
 
 ? Anas skoorra, Mull. Zool. Ban. Prodr. p. 16, n. 130 (1776); Lath. 
-Syn. iii. 2, p. 515, n. 60 (1785); Bonn. Bnc. Meth. i. p. 134 
+Syn. iii. 2, p. 515, n. 60 (1785); Bonn. Enc. Meth. i. p. 134 
 (1790). 
 
 Anas 
@@ -26970,7 +26970,7 @@ p. 178 (1815) ,• Vieill. N. B. v. pp. 131,171 (1816); Bum. Diet
 So. Nat. vi. p. 394 (1817). 
 Anas 
 ferruginea, Gm. S. N. i. 2, p. 528, n. 99 (1788) (ex Pennant) ; 
-Lath. Ind. Orn. ii. p. 866, n. 84 (1790); Bonn. Bnc. Meth. i. p. 126 
+Lath. Ind. Orn. ii. p. 866, n. 84 (1790); Bonn. Enc. Meth. i. p. 126 
 (1790); Retz. Faun. Suec. p. 130 (1800); Vieill. N. B. v. p. 116 
 (1816); Bum. Bid. Sc. Nat. vi. p. 376 (1817). 
 
@@ -28327,7 +28327,7 @@ under tail-coverts whitish, but the lateral ones with a rufous tinge,
 all vermiculated with blackish bars; primaries blackish, without 
 whitish on the inner web, the latter being only a trifle paler than 
 the rest of the quills: bill blue, nail black. Total length about 10 
-inches, wing 8-2, tail 2*5, eulmen 1*75, tarsus 1*15. 
+inches, wing 8-2, tail 2*5, culmen 1*75, tarsus 1*15. 
 
 Female. Similar to that of F. marila, but smaller, the white on 
 the fore part of the head and chin more restricted ; the white and. 
@@ -29303,7 +29303,7 @@ Anas (Micropterus) brachyptera, less. Man. d1 Orn. ii. p. 416 (1828);
 id. Tr. d'Orn. p. 630, n. 28 (1831); id. Compl de Buff. 2nd ed. 
 
 p. 720(1838). 
-Oidemia patachonica, King, Zool. Journ. iv. p. 100 (1828); StricM. 
+Oidemia patachonica, King, Zool. Journ. iv. p. 100 (1828); Strickl. 
 Ann. $ Mag. N. E. vii. p. 39 (1841); Gibson, Fr. Fhys. Soe. 
 FJdinb. iv. pp. 185, 186 (1878). 
 
@@ -29572,7 +29572,7 @@ B. iii. p. 590, pi. 63 (egg) (1885); Lilford, Col. Fig. Brit. B
 pt. xi. (1889); Seeb. B.Jap. Fmp. p. 253 (1890) ; Rchmo. J.f.O. 
 1890, p. 83; Hartert, Kat. Vogelsamml. p. 232 (1891). 
 Clansrula vulgaris, Flem. Brit. An. p. 120 (1828); Gould, P. Z. S. 
-1834, p. 134 (Trebizond); StricM. P. Z. S. 1836," p. 102 (Smyrna) ; 
+1834, p. 134 (Trebizond); Strickl. P. Z. S. 1836," p. 102 (Smyrna) ; 
 Gould, B. Fur. * pi. 379 (1837); Sw. Class. B. ii. p. 369 (1837); 
 Byt. Mon. Anat. p. 166, pi. iii. f. 4 (sternum), pi. 12. f. 4 (ca3ca), 
 pi. 15. f. 2 (trachea) (1838); Abbott, P.Z. 8. 1834, p. 134 (Trebizond) 
@@ -33060,7 +33060,7 @@ Sc. Nat (1849) vi. p. 7 (1847).
 Heniconetta stelleri, Lieht. Notiiencl. Av. p. 103 (1854); Sundev. 
 Meth. nab. Av. disp. Tmt p. 148 (1872); Meves, J.f.O. 1875y 
 
-p. 433 ; Sclat P. Z. S. 1882, p. 527 ; Salv. Cat. £. StricM. Coll 
+p. 433 ; Sclat P. Z. S. 1882, p. 527 ; Salv. Cat. £. Strickl. Coll 
 p. 539 (1882); B. O. TJ. List Brit B. p. 133 (1883); Altumf 
 J. f O. 1885, p. 375 (Mark); Hartert, Ibis, 1892, p. 519 (M. 
 Prussia). 
@@ -36728,14 +36728,14 @@ wing at the base of the greater wing-
 coverts. 
 
 
-a5. Larger; eulmen 2*20-2*40 inches :^ 
+a5. Larger; culmen 2*20-2*40 inches :^ 
 feathers of the hind part of the bead" 
 very full, but not very long and not 
 forming a prominent crest; head of 
 the females of a deep and bright 
 chestnut castor, p. 472. 
 
-b\ Smaller; eulmen 1*90-2*10: feathers 
+b\ Smaller; culmen 1*90-2*10: feathers 
 of the hind part of the head rather 
 thin and long, and forming decidedly 
 a prominent crest; head of the female 
@@ -37147,10 +37147,10 @@ crest thinner, narrower, and longer; the bill usually shorter; the
 male has the black edges of the tertials broader, the lower back and 
 rump paler grey and usually much freckled with white : " bill deep 
 red, almost vermilion in some, a cinnabar or deep blood-red in 
-others ; the nail and a stripe along the eulmen, from the nail to? the 
+others ; the nail and a stripe along the culmen, from the nail to? the 
 forehead, black; lower mandible wholly orange; irides deep red; 
 legs and feet bright vermilion" (Hume). Total length 25 to 27 
-inches, wing 10-95-11-8, tail from vent 4*80-5*9, eulmen 1*90-2*10, 
+inches, wing 10-95-11-8, tail from vent 4*80-5*9, culmen 1*90-2*10, 
 tarsus 1*68-1*80. 
 
 The female differs from that of M. castor in having the head 
@@ -38330,7 +38330,7 @@ Branta torrida, Scop. Ann. i. Hist Nat. p. 68, n. 66 (1769).
 Anas torrida, Gm. S. N. i. 2, p. 516, n. 75 (1788); Lath, Ind. Orn. 
 
 
-ii. p. 845, n. 33 (1790); Bonn. Bnc. Meth. i. p. 153 (1791); 
+ii. p. 845, n. 33 (1790); Bonn. Enc. Meth. i. p. 153 (1791); 
 Bechst. Orn. Taschenb. ii. p. 454, n. 37 (1803); Bum. Bict. Sc. 
 Nat. a. p. 380(1817). 
 According to Bechstein, probably a hybrid between a Common 
@@ -39098,7 +39098,7 @@ with irregular black lines, the greater ones uniform greyish ; tail
 olive-brown, with irregular black lines, and rufous-buff marks on 
 the outer web : bill dusky above, paler (olive ?) below; feet in the 
 dry skin pale olive. Total length about 17 inches, wing 9*4, tail 
-3*75, eulmen 1*25, tarsus 2-56. 
+3*75, culmen 1*25, tarsus 2-56. 
 
 Female. Similar to the male, but somewhat larger, and whiter 
 
@@ -39112,7 +39112,7 @@ no conspicuous occipital crest; fore neck and breast nearly uniform
 
 greyish olive; upper parts le&s marked ^ ith black; secondarieb 
 
-browner. Total length about 19 inches, wing 9*4, eulmen 1*30, 
+browner. Total length about 19 inches, wing 9*4, culmen 1*30, 
 
 tarsus 2*50. 
 
@@ -40199,7 +40199,7 @@ Cab. J. f. O. 1874, p. 230; Sorby, P. Z. S. 1875, p. 361
 (egg); Sclat. # Salv. P. Z. S. 1879, p. 642 (Tilotilo, Bolivia); 
 Schley. Mus. P.-B., Tinami, p. 22 (Brazil and New Granada ?) 
 (1880}; Tacz. P. Z. S. 1882, p. 49 (Chirimoto, N.E. Peru); Salv. 
-Cat. B. StricM. Colly. 640,n. 3112 (1882); Sclat. List Vert. An. 
+Cat. B. Strickl. Colly. 640,n. 3112 (1882); Sclat. List Vert. An. 
 8tb ed. p. 545 (Zool. Gard.) (1883) ; Berl. u. Jher. Zeitschr. ges~ 
 Om. 1885, p. 184 (Taquara do Mundo Novo); Tacz, Orn. Per. iii. 
 p. 296, Tables, p. 106 (1886); Berl J.f. 0.1887, p. 126, n. 350; 
@@ -40955,7 +40955,7 @@ Salvin-Godman Coll.
 Tinamus 
 adspersus, Temm. Big. et Gallin. iii. pp. 585, 751 (Para;. 
 Mus. Berol.) (1815); Stepk Gen. Zool. xi. 2, p. 411 (1819); Vieill 
-JBnc. Meth. i. p. 371 (1820) ; Temm. Bl. Col., genre Tinamou, sp. 11 
+JEnc. Meth. i. p. 371 (1820) ; Temm. Bl. Col., genre Tinamou, sp. 11 
 (1826); less. Tr. d'Orn. p. 512, n. 3 (1831); id. Compl de Buff. 
 2nd ed. ii. p. 239 (1838); Temm. BL Col. i. Tabl. Meth. p. *87 
 (1839) (=vermiculatiis) ; G. B. Gr. Gen. B. iii. p. 524, n. 4 (1844);. 
@@ -43787,7 +43787,7 @@ Struthio camelus, Linn. S. N. i. p. 265, n. 1 (1766); Scop. Ann. i.
 Hist. Nat. n. 160 (1769); Gerini, Orn. ii. p. 29, tt. 137, 138,139 
 (1776); Gm. S. N. i. 2, p. 726, n. 1 (1788); Lath. Lnd. Orn. ii. 
 
-p. 663,'n. 1 (1790); Bonn. Bnc. Meth. i. p. 1 (part), pi. 4. f. 1 
+p. 663,'n. 1 (1790); Bonn. Enc. Meth. i. p. 1 (part), pi. 4. f. 1 
 (1790); Cuv. Minag. du Mus. H. N. i. p. 2 (1801); Vieill N. D. iii. 
 p. 85 (part.) (1816); Cuv.Begn. An. i. p. 461 (1817) ; Steph. Gen. 
 Zool. xi. 2, p. 423 (part.), pi. 27 (1819); Vieill. Gal. des Ois. ii. 

@@ -1284,7 +1284,7 @@ OF
 BIRDS. 
 
 
-Order II. PASSERIFOKMES. (Vol. ili. p. 1.) 
+Order II. PASSERIFORMES. (Vol. ili. p. 1.) 
 
 Suborder L PASSERES. 
 
@@ -2933,7 +2933,7 @@ bars always the broadest, but especially so on the sides of the body
 and on the under tail-coverts. The general tone of the grey upper 
 surface is darker, the quills being blackish and the secondaries narrowly 
 edged with white like the primaries. Total length 9 inches, 
-eulmen 0*8, wing 5m65, tail 4*4, tarsus 0*85. (Mas. Civic. Genov.) 
+culmen 0*8, wing 5m65, tail 4*4, tarsus 0*85. (Mas. Civic. Genov.) 
 
 Young male (Mansinam, May 30,1875). Like the old female, but 
 with some of the uniform grey breast-feathers of the adult male 
@@ -4171,14 +4171,14 @@ black, glossed with steel-green on the margins; a narrow frontal
 line, lores, feathers round the eye, sides of face, sides of neck, and 
 entire under surface of body glossy black, the thighs ashy grey; 
 under wing-coverts black; greater series of under wing-coverts 
-and quills below ashy grey. Total length 9*5 inches, eulmen 0-8, 
+and quills below ashy grey. Total length 9*5 inches, culmen 0-8, 
 wing 5-4, tail 4*3, tarsus 1. 
 
 Adult female (Profi, Arfak Mountains, July 10, 1875, Beccari). 
 Differs from the male in being of a lighter bine-grey both above and 
 behw; only the lores, feathers at base of forehead and in front of the 
 eye, front half of eyelid, a spot at base of lower mandible and chin 
-Mack. Total length 9'5 inches, eulmen 0*75, wing 5*05, tail 4*1, 
+Mack. Total length 9'5 inches, culmen 0*75, wing 5*05, tail 4*1, 
 tarsus 1. (Hits. Civic. GenovJ) 
 
 The typical specimens lent to me by Drs A. B. Meyer measure as 
@@ -6182,7 +6182,7 @@ A. K 1$. p. 193; Bp. Comp. L p. 350; 7>;v. Ifry. f£ A/w/. efc Zoo/.
 p. 379; AVrw/. fVc. /torw. p. 144; Xkarpe, tin: F. 187(5, p. 209; 
 «r/. 7>. Zm«. tioe. new ser. i. p. 324; Hume, Sir. F. 1877, p. 190; 
 id. iV Davison, Mr. -P. 1878, p. 211. 
-Perieroeotus minutus, StricM. Contr. Orn. 1849, p. 94, pi. 31. 
+Perieroeotus minutus, Strickl. Contr. Orn. 1849, p. 94, pi. 31. 
 Perieroeotus flagrans, Bp, Comp, i. p. 357 (ex Boie, 318.) ; Gray, 
 ITand-L B. I p. 335. 
 
@@ -6199,7 +6199,7 @@ less on the third primary, and disappearing on the first and second ;
 under surface of body rich vermilion, the under wing-eoverts yellow, 
 
 with hero and there a slight wash of vermilion; thighs blackish ; 
-bill and feet black. Total length 6 inches, eulmen 0*55, wing 3, 
+bill and feet black. Total length 6 inches, culmen 0*55, wing 3, 
 tail 3, tarsus 0*05. 
 
 Adult female. General colour above dull ashy grey, the lower 
@@ -6257,7 +6257,7 @@ secondaries also tipped with whitish; sides of face and throat black,
 not so glossy as the head; rest of under surface crimson, including 
 the under wing-coverts, the greater series of which are ashy black; 
 thighs blackish; bill and legs black; irides dark brown. Total 
-length 7*5 inches, eulmen 0-45, wing 3*45, tail 4, tarsus 0*55. 
+length 7*5 inches, culmen 0-45, wing 3*45, tail 4, tarsus 0*55. 
 Adult female. Above ashy grey, clearer on the head, the back 
 slightly washed with olive; lower back, rump, and upper tail-coverts 
 yellow; tail yellow, the basal half black, this black colour gradually 
@@ -11028,7 +11028,7 @@ the sides of the breast; thighs light brown ; under tail-coverts white ;
 under wing-coverts orange-brown, shaded with darker brown in the 
 centre of the feathers; quills ashy brown below, dull buffy white 
 along the inner webs ; bill brown, paler at base of lower mandible; 
-feet black ; iris dusky brown. Total length 5-4 inches, eulmen 0*55, 
+feet black ; iris dusky brown. Total length 5-4 inches, culmen 0*55, 
 wing 3-4, tail 2*45, tarsus 0*6. 
 
 Hah. The whole of Europe in summer, ranging in winter into 
@@ -12196,7 +12196,7 @@ pink, with grey bases separated from the pink by a white mark;
 under wing-coverts blackish, as also the quills below, which are 
 white at the base of the secondaries; " bill black; feet black with 
 the soles orange; iris black" {Gould). Total length 4-8 inches, 
-eulmen 0*45, wing 2*85, tail 2*5, tarsus 0*8. 
+culmen 0*45, wing 2*85, tail 2*5, tarsus 0*8. 
 
 Adult female. Has an indication of the white spot on the forehead; 
 all the upper surface brown; wings and tail brown, with the 
@@ -14046,7 +14046,7 @@ quills black below, browner along the edge of the inner web; "bill
 
 and feet black; iris dusky" (Heuglin). Total length 4*9 inches, 
 
-eulmen 0*5, wing 2-65, tail 2, tarsus 0-85. 
+culmen 0*5, wing 2-65, tail 2, tarsus 0-85. 
 
 Adult male in winter plumage (S. albifasciata, Eiipp.). Differs 
 
@@ -14067,7 +14067,7 @@ slightly washed with this colour; centre of body, abdomen, and
 under tail-coverts sandy fulvous; under wing-coverts dark brown, 
 the axillaries sandy rufous with dusky bases; quills dark brown 
 below, dull whitish along the inner web. Total length 4*5 inches, 
-eulmen 0*45, wing 2-65, tail 1*8, tarsus 0*8. 
+culmen 0*45, wing 2-65, tail 1*8, tarsus 0*8. 
 
 Hob. Mountains of Abyssinia. 
 
@@ -16300,7 +16300,7 @@ an indistinct eyebrow; ear-coverts ashy brown, shaded with hoary
 whitish; cheeks and under surface of body dull white; under wing-
 coverts white, with dusky blackish bases ; quills ashy brown below, 
 edged with white along the inner web. Total length 6*1 inches, 
-eulmen 0-6, wing 3-2, tail 2-45, tarsus 0*95. (Mus. Gantabr.) 
+culmen 0-6, wing 3-2, tail 2-45, tarsus 0*95. (Mus. Gantabr.) 
 
 Adult female. General colour above rusty cinnamon, somewhat 
 mottled on the back with a subterminal shade of paler fulvous; 
@@ -16316,7 +16316,7 @@ and breast pale cinnamon-buff, lighter on the latter; remainder of
 under surface buffy whito; the flanks, thighs, and under tail-coverts 
 cinnamon, as also the under wing-coverts, the latter with dusky 
 bases; quills ashy brown below, fulvous along the edge of the inner 
-web. Total length 7 inches, eulmen 0*75, wing 3, tail 2*5, tarsus 
+web. Total length 7 inches, culmen 0*75, wing 3, tail 2*5, tarsus 
 0-05. (Mus. Gantabr.) 
 
 Hab. Earotonga Island, Pacific Ocean. 
@@ -17473,7 +17473,7 @@ surface of body leaden blue, including the thighs; under tail-coverts
 rich chestnut; under wing-coverts like the breast; quills dusky 
 brown below, with a lighter edging to the inner webs; " bill black ; 
 legs vinaceous brown; iris dark brown " (Jerdon). Total length 
-4*5 inches, eulmen 0-45, wing 3*05, tail 2*1, tarsus 0*9. 
+4*5 inches, culmen 0-45, wing 3*05, tail 2*1, tarsus 0*9. 
 
 Adult female. Different from the male. General colour above 
 dull ashy, the wing-eoverts like the back, and tipped with a small 
@@ -17491,7 +17491,7 @@ margins and mesial spots of the same colour; under tail-coverts
 white ; thighs ashy brown; under wing-coverts and axillaries ashy 
 brown, the former slightly mottled with subterminal spots of white; 
 quills dark brown below, lighter brown along the edge of the inner 
-web. Total length 4*5 inches, eulmen 0*45, wing 2-6, tail 1*9, 
+web. Total length 4*5 inches, culmen 0*45, wing 2-6, tail 1*9, 
 tarsus 0*85. 
 
 Hah. Himalaya Mountains, ranging eastwards throughout the 
@@ -18279,7 +18279,7 @@ eye and ear-coverts black, as well as the cheeks; under surface of
 body white, the sides more or less mixed with ashy grey; chin-spot 
 black ; under wing-coverts white with blackish bases ; quills dusky 
 blackish below, white along the inner webs; "bill black; feet 
-brown-black; iris brown " (Jerdon). Total length 5 inches, eulmen 
+brown-black; iris brown " (Jerdon). Total length 5 inches, culmen 
 0*5, wing 2-7, tail 2-6, tarsus 0"9. 
 In winter the whole aspect of the bird is grey with black centres, 
 the grey edgings becoming worn off in the summer, many of the 
@@ -18385,7 +18385,7 @@ a beautiful blush of rosy colour on the former; under wing-coverts
 
 whitish, the outermost ones slightly shaded with grey; thighs 
 black; bill and feet black; iris black. Total length 4*5 inches, 
-eulmen 0*5, wing 2'25, tail 2-3, tarsus 0-8. 
+culmen 0*5, wing 2'25, tail 2-3, tarsus 0-8. 
 
 Hab. The same as that of the genus. 
 
@@ -19923,7 +19923,7 @@ under surface buffy white; the flanks, sides of body, thighs, and
 under tail-coverts fulvous-brown; under wing-coverts and axillaries 
 tawny buff; quills dark brown below, fulvescent along the edge 
 of the inner web; " bill black; iris and feet blackish brown" 
-(Gould). Total length 5*5 inches, eulmen 0*45, wing 1-95, tail 2*9, 
+(Gould). Total length 5*5 inches, culmen 0*45, wing 1-95, tail 2*9, 
 tarsus 1. 
 
 Adult female. General colour above rusty brown, the head and 
@@ -19937,7 +19937,7 @@ body below dull whitish, washed with greyish brown on the sides of
 the neck and breast; the sides of the body, thighs, and under tail-
 coverts fulvous-brown; under wing-coverts and axillaries tawny 
 buff; quills dark brown below, fulvescent along the edge of the 
-inner web. Total length 5*5 inches, eulmen 0*45, wing 1*9, tail 2*8, 
+inner web. Total length 5*5 inches, culmen 0*45, wing 1*9, tail 2*8, 
 tarsus 0*85. 
 
 Hob. Western Australia. 
@@ -20411,7 +20411,7 @@ white, the bases of all the feathers greyish, the flanks also djghflj
 washed with grey; under wing-coverts and axillaris white, the 
 outermost coverts.and the edge of the wing grey ; " bill tarn, and 
 feet slate-colour; iris dusky" {FA. Barratt) Total length, 5-2 
-inohes eulmen 0-5, wing 2-6, taU 3-1, tarsus 0-/. 
+inohes culmen 0-5, wing 2-6, taU 3-1, tarsus 0-/. 
 Adul'fZle. DiffersDfrom the male in having the back washed 
 irirti' olive-brown as also the sides of the face; crown of head 
 3&Stested"an d metallic greyish steel-blue; lores and cheeks 
@@ -21483,7 +21483,7 @@ tipped broadly with white, forming a conspicuous breast-patch ;
 under tail-coverts white, with dusky bases; under wing-coverts 
 white, with dusky brown bases; quills ashy blackish below, edged 
 with whity brown along the inner web. Total length 5-5 inches, 
-eulmen 0-4, wing 2-8, tail 3-05, tarsus 0-6. (Mas. Civic. Genov.) 
+culmen 0-4, wing 2-8, tail 3-05, tarsus 0-6. (Mas. Civic. Genov.) 
 
 Hah. Forth-western New Guinea: Atam. 
 
@@ -22068,7 +22068,7 @@ the tail-feathers uniform bay; entire belly white, the feathers
 adjoining the chest more or less washed with blue-grey and distinctly 
 streaked with white down the shaft; lower flanks slightly washed 
 with buff; vent and under tail-coverts light bay; thighs fight bay, 
-with grey bases to the feathers. Total length 6*4 inches, eulmen 
+with grey bases to the feathers. Total length 6*4 inches, culmen 
 0*65, wing 3*05, tail 8*45, tarsus 0-7. (Coll J. B. Sieere.) 
 
 Hah. Islands of Guimaras and Negros in the Philippine archipelago. 
@@ -22095,7 +22095,7 @@ the edge of the inner webs; " bill black; feet blackish; iris brown *
 45 . RHIPIJDTTEA. 
 325 
 
-(Mutter). Total length 6-5 inches, eulmen 0*55, wing 2-7, tail 3*4, 
+(Mutter). Total length 6-5 inches, culmen 0*55, wing 2-7, tail 3*4, 
 tarsus 07. 
 
 Sab. Java, Borneo *. 
@@ -22127,7 +22127,7 @@ body dull ashy, the vent and under tail-coverts blackish; under
 wing-coverts and axillaries ashy, some of the former edged with 
 white; quills brown below, with edgings of lighter brown on the 
 inner webs ; " upper mandible black, the lower one horn-white; 
-feet black; iris brown " (S. Mutter). Total length 7 inches, eulmen 
+feet black; iris brown " (S. Mutter). Total length 7 inches, culmen 
 0*6, wing 3*25, tail 3-65, tarsus 0-85. 
 
 Young female (type of JR. fumosa). General colour above dusky 
@@ -22392,7 +22392,7 @@ shaft-lines ; centre of body light ochraceous buff, fading into white
 on the under tail-coverts ; sides of body ashy grey ; thighs brown ; 
 under wing-coverts ashy brown, the axillaries slightly edged with 
 whitish; quills brown below, ashy fulvous along the inner web; 
-" bill, feet, and iris black '" (D'Alberth), Total length 7 inches, eulmen 
+" bill, feet, and iris black '" (D'Alberth), Total length 7 inches, culmen 
 0-6, wing 3*5, tail 3*6, tarsus 0*6. 
 
 Adult female. Similar to the male. Total length 7*2 inches, wing 
@@ -22498,7 +22498,7 @@ externally washed with slaty grey; tail-feathers blackish, shaded
 with slaty grey on their edges, the three outermost feathers tipped 
 with white more broadly on the external rectrix, which has the 
 white also extending some way up the outer web. Total length 
-6*3 inches, eulmen 0*55, wing 3-15, tail 3*4, tarsus 0-6. (Mu$. 
+6*3 inches, culmen 0*55, wing 3-15, tail 3*4, tarsus 0-6. (Mu$. 
 Genov.) 
 
 ffah. Island of Koffiao. 
@@ -22516,7 +22516,7 @@ tipped with white, which goes up the outer web for the greater part
 of its extent; throat, abdomen, and under tail-coverts white; fore 
 neck, breast, and sides of body slaty grey, the centre feathers with 
 ovate spots of white; the under wing-coverts slaty, broadly edged 
-with white. Total length 6-6 inches, eulmen 0-55, wing 3-4, tail 3-4, 
+with white. Total length 6-6 inches, culmen 0-55, wing 3-4, tail 3-4, 
 tarsus 0*65. (Mus, Civic. Genov.) 
 
 Hah. Obi group of islands, Moluccas. 
@@ -23875,7 +23875,7 @@ head and nape glossy steel-blue ; lores, feathers round the eye, ear-
 coverts, and sides of crown beMnd ashy grey; entire under surface 
 of body rich orange-rufous, paler than the back, including the wider 
 wing- and tail-coverts; quills dusky brown below, rufous along the 
-inner webs. Total length 6'5 inches, eulmen 0% wing 2*9, tail 
+inner webs. Total length 6'5 inches, culmen 0% wing 2*9, tail 
 3-25, tarsus 0*6. 
 Young male. Resembles the adult female, but shows the first signs 
 of approach to a fuller plumage in the white edgings to some of the 
@@ -24347,7 +24347,7 @@ ashy; head crested, glossy steel-black, as also the sides of the face
 and the throat, the latter somewhat duller and more ashy; rest of 
 under surface of body, from the throat downwards, rich orange-
 chestnut, including also the under wing-coverts; " bill and feet 
-pale blue " (Fraser). Total length 9 inches, eulmen 0*7, wing 3*15, 
+pale blue " (Fraser). Total length 9 inches, culmen 0*7, wing 3*15, 
 tail 3-5, middle feathers 5*1, tarsus 0*65. 
 
 Adult female. "Wants the bright orange-colour of the breast, which 
@@ -24655,7 +24655,7 @@ blackish on their inner webs ; sides of face and ear-coverts like the
 crown; under surface of body pale ashy grey, with a wash of blue; 
 throat and fore neck verditer-blue; centre of abdomen whitish ; 
 thighs grey; under wing-coverts and axillaries ashy grey, the edge 
-of the wing brighter blue. Total length 6 4 inches, eulmen 0-5, 
+of the wing brighter blue. Total length 6 4 inches, culmen 0-5, 
 wing 2-65, tail 3*9, tarsus 0-65. 
 
 Hab. "Western Africa. 
@@ -26052,7 +26052,7 @@ rufous-chestnut; rest of under surface white, the sides of body
 washed with rufous-ochre; the sides of the upper breast greyish 
 brown, washed with chestnut-red; under wing-coverts and axillaris 
 white, with dusky bases; quills light dusky brown, edged with 
-buffy white along the inner webs. Total length 5-2 inches, eulmen 
+buffy white along the inner webs. Total length 5-2 inches, culmen 
 0*6, wing 2-8, tail 2*5, tarsus 0*8. 
 
 Hab. Titi Levu, Fiji Islands. 
@@ -26072,7 +26072,7 @@ brown on the inner webs; crown and nape and sides of face glossy
 steel-black; cheeks and entire under surface of body pure white, including 
 the under wing-coverts and axillaries; thighs dusky, with 
 whitish edgings; quills dusky brown below, edged with lighter 
-brown along the inner web. Total length 5-6 inches, eulmen 0-6, 
+brown along the inner web. Total length 5-6 inches, culmen 0-6, 
 wing 2*6, tail 2*1, tarsus 0*6. 
 
 Adult vncde. Similar to the female. Total length 5*£ inches, wing 
@@ -26087,7 +26087,7 @@ triangular patch of dull white ; eyelid buffy white; sides of face
 and ear-coverts slaty grey; cheeks and under surface of body pale 
 orange-rufous, fading into reddish buff on the abdomen and under 
 tail-coverts; under wing-coverts buffy whitish. Total length 5 inches, 
-eulmen 0*6, wing 2*45, tail 2*1, tarsus 0*55. 
+culmen 0*6, wing 2*45, tail 2*1, tarsus 0*55. 
 
 Obs. In this species the sexes of the adults seem to be alike. 
 
@@ -27133,7 +27133,7 @@ black, bluish at base of lower mandible; legs and feet greenish
 403 
 
 brown or yellow; iris dark brown*1 (Davison), Total length 4-4 
-inches, eulmen 0*45, wing 2*05, tail 1*75, tarsus 0*75. 
+inches, culmen 0*45, wing 2*05, tail 1*75, tarsus 0*75. 
 ffab. Himalaya Mountains • Java (Mm, Lnyd.). 
 
 a, b, c. Ad. sk, Nepal. B. TL Hodgson, Em. [P.]. 
@@ -27384,7 +27384,7 @@ under surface bright yellow, the thigha dusky brown ; under wing-
 coverts and axillarios light yellow; quills dusky brown below, 
 whitish along the edge 01 the inner web ; H bill horny, yellowish at 
 base beneath ; logs yollowish " (Jerdon). Total length 8*5 inches, 
-eulmen 0-5, wing 1-9, tail 1*7, tarsus 0-8. 
+culmen 0-5, wing 1-9, tail 1*7, tarsus 0-8. 
 
 Jlah. Eastern Himalayas. 
 
@@ -27631,7 +27631,7 @@ surface white, the flanks washed with ashy, the sides of the upper
 breast orange-rufous ; thighs dusky brown; under wing-coverts 
 and axillaries white, the edge of the wing orange; quills dull 
 brown, rufeseent along the edge of the inner web. Total length 
-6 inches, eulmen 0-55, wing 2*95, tail 2*75, tarsus 0*7. 
+6 inches, culmen 0-55, wing 2*95, tail 2*75, tarsus 0*7. 
 
 Sab. Aru Islands and South-eastern New Guinea. 
 
@@ -27644,7 +27644,7 @@ Arses batantse, Sharpe, Notes Leyden Mm. vol. i.no. 5, p. 20.
 
 Adult male. Similar to A. ieJescophthalmus, but rather larger, 
 and having the wattle round the eye yellow. Total length 7 inches, 
-eulmen 07, wing 3*4, tail 3, tarsus 0*75. 
+culmen 07, wing 3*4, tail 3, tarsus 0*75. 
 
 Adult female. General colour above light orange-rufous, the wing-
 coverts and inner secondaries entirely orange-rufous like the back ; 
@@ -27660,7 +27660,7 @@ surface white, the sides of the breast washed with orange, the tibial
 plumes orange-rufous; under wing-coverts light orange-buff, the 
 edge of the wing deeper orange; axillaries white, washed with 
 orange ; quills ashy brown below, rufeseent along the inner web. 
-Total length 7 inches, eulmen 0-65, wing 3*3, tail 3, tarsus 0*8. 
+Total length 7 inches, culmen 0-65, wing 3*3, tail 3, tarsus 0*8. 
 
 Uab. Islands of "Waigiou and Batanta. 
 
@@ -28137,11 +28137,11 @@ neck, orange-rufous; remainder of under surface of body white,
 slightly washed with orange on the chest and sides of the body ; 
 thighs black; under wing-coverts and axillaries white, slight!)' 
 tinged with orange; " hill and feet bluish lead-colour, the tip blaHk ; 
-iris dark" (Wallace, MS.). Total length 7 inches, eulmen <H>„ 
+iris dark" (Wallace, MS.). Total length 7 inches, culmen <H>„ 
 wing 3-05, tail 2-9, tarsus 0-7. 
 
 Adult female. Similar to the male. Total length il-B inches 
-eulmen 0*65, wing 2-S5, tail 2*\ tardus 0*7. 
+culmen 0*65, wing 2-S5, tail 2*\ tardus 0*7. 
 
 Young. Differs from the adult in having the orange colour diffused 
 more widely on the underparts, the chin being greyish, not 
@@ -29106,7 +29106,7 @@ MCTSCICAPEDiE.
 
 434 
 
-eyes black" (D'Albertis). Total length 7*2 Inches, eulmen 0-95, 
+eyes black" (D'Albertis). Total length 7*2 Inches, culmen 0-95, 
 wing 3-85, tail 3, tarsus 0*55. 
 Bab. The same as that of the genus. 
 
@@ -29163,7 +29163,7 @@ rufous; under surface of body buffy white, the sides of the hoij
 washed with rufous-brown and streaked with dark brown; under 
 wing-coverts and axillaries light rufous-brown ; quills ashy brown 
 below, edged with buffy white along the inner web. Total length 
-1-6 inches, eulmen 0*7, wing 3*4, tail 3, tarsus 1*15, 
+1-6 inches, culmen 0*7, wing 3*4, tail 3, tarsus 1*15, 
 
 Adult female (?). Pure white, the tail also, the shafts* partly 
 brown ; bastard wing and primary-coverts black, edged with white; 
@@ -29505,7 +29505,7 @@ below the eye, and chin black; rest of under surface of body dull
 verditer-blue, a little more greenish on the abdomen and sides of 
 body,* the under tail-coverts obscurely edged with white; under 
 wing-coverts like the breast; quills below blackish; " iris blackJ? 
-(Doria). Total length 5-6 inches, eulmen 0'45, wing 3*05, tail 
+(Doria). Total length 5-6 inches, culmen 0'45, wing 3*05, tail 
 2-4, tarsus 0-6. 
 Hab. Sumatra, Borneo, Malayan peninsula. 
 
@@ -29525,7 +29525,7 @@ the throat and breast, shading off into white on the abdomen and
 flanks, the latter washed with blue; fore part of the cheeks and 
 throat slightly varied with silvery tips to the feathers ; thighs and 
 under wing- and tail-coverts buffy white; bill black; feet dark 
-brown. Total length 6 inches, eulmen 0-55, wing 2*95, tail 2*45, 
+brown. Total length 6 inches, culmen 0-55, wing 2*95, tail 2*45, 
 tarsus 0*7. (Mus. J. B. Steere.) 
 
 Hab. Island of Panay, Philippines. 

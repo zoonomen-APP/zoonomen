@@ -2772,7 +2772,7 @@ Mange. The same as that of the single species of the genus.
 Turnix meiffreni, Vieill N. Diet. d'Hist. Nat. xxxv. p. 49 (1818); 
 Heugl in Beterm. Mitth. 1869, p. 413 (Kordofan). 
 Hemipodius nivosus, Szvains. Bhil. Mag. Ix. p. 353 (1822); id. Zool. 
-Blustr. iii. pi. 163 (1823); id. B. W. Afr. ii. p. 225 (1837). 
+Illustr. iii. pi. 163 (1823); id. B. W. Afr. ii. p. 225 (1837). 
 , Hemipodius meiffreni, Temm. Bl. Col. T. pi. 60. fig. 1 (1823). 
 
 Ortyxelus meiffreni, Vieill Gal. Ois. ii. p. 92, pi. 300 (1834) ; Gray. 
@@ -3133,11 +3133,11 @@ isabelline, becoming whiter on the abdomen and under tail-coverts;
 under wing-coverts, axillaries, and quill-lining black; the lesser 
 wing-coverts round the edge of the wing sandy rufous: " bill dusky 
 black, angle of mouth and base of mandible white ; feet livid yellow; 
-iris umber-brown " (von Heuglhi). Total length 9 inches, eulmen 1, 
+iris umber-brown " (von Heuglhi). Total length 9 inches, culmen 1, 
 wing 6-35, tail 2-35, tarsus 2*25. 
 
 Adult female. Similar in colour to the male. Total length 
-9 inches, eulmen 0*95, wing 6*2, tail 2*3, tarsus 2*1. 
+9 inches, culmen 0*95, wing 6*2, tail 2*3, tarsus 2*1. 
 Young. Eeproduces the colours of the adult, but has wavy bands 
 all over the upper surface. 
 Specimens from Western localities are rather more sandy in colour, 
@@ -7190,14 +7190,14 @@ round the edge of the wing blackish: "bill, alar spurs, and
 frontal leaf bright yellow; upper base of bill bluish white, the 
 space between it and the nasal leaf bright carmine; feet greyish; 
 iris dark brown" (Sumichrast MS., teste Lawrence). Total length 
-7*5 inches, eulmen and frontal shield 1*8, wiug 4-8, tail 1*5, tarsus 
+7*5 inches, culmen and frontal shield 1*8, wiug 4-8, tail 1*5, tarsus 
 2*1, middle toe and claw 2*8. 
 
 Adidt female. Similar to the male but larger. The inner secondaries 
 are like the back, but those adjoining the yellow primaries 
 are purplish brown, and most of the rufous secondaries have purplish-
 brown bases; the greater coverts also are purplish brown edged with 
-rufous, or rufous with brown bases. Total length 8-5 inches, eulmen 
+rufous, or rufous with brown bases. Total length 8-5 inches, culmen 
 with frontal shield 1*9, wing 5*1, tail 1-7, tarsus 2*3, middle toe 
 and claw 2*7. 
 
@@ -7698,7 +7698,7 @@ Lembeye, Av. Cuba, p. 100 (1850); Harcourt, P. Z. S. 1851,
 p. 146 (Madeira) ; Midd. Peis. Sibir., Zool p. 213 (1851: 75° N. 
 lat.: Taimyr River; Boganida River, May ; Sehantar Isl., Aug.); 
 Meichenb. Grail. Taf.104.figs. 656,660(^1852); Eartl. Arch. Naturg. 
-1852, p. 121; StricM. $ Scl Contr. Orn. 1852, p. 159 ; Bote, J.f.O. 
+1852, p. 121; Strickl. $ Scl Contr. Orn. 1852, p. 159 ; Bote, J.f.O. 
 1855, p. 176 (Canaries), 1857, p. 337; Burm. Th. Bras. iii. p. 364 
 (1856 : Santa Catarina); Heugl. Syst. Uebers. p. 57 (1856) ; Sundev. 
 Sv. Fogl pi. xxxvii. &%. 6 (1856); Earth Orn. W.-Afr. p. 217 
@@ -10744,7 +10744,7 @@ Vanellus bilobus, Sykes, P. Z. S. 1832. p. 166 (Deccan); Jerd. Madr.
 Joum. xii. p. 213 (1840 : India generally). 
 
 Sarciophoms 
-bilobus, StricM. P. Z. & 1841, p. 33; Gray, List 
+bilobus, Strickl. P. Z. & 1841, p. 33; Gray, List 
 Grail. Brit. Mus. p. 06 (1844); id. Cat. Mamm. etc. Nepal pres 
 Hodgs. p. 132 (1846); Blyth, Cat. B. Mus. As. 6'oc. p. 201 
 (1849: Calcutta); Licht. Nomencl. Av. Mus. Berol. p. 95 (1854: 
@@ -11447,7 +11447,7 @@ Charadrins callaeas, Wagl. Syst. Av. Gharadrius, p. 76, sp. 52 (1827).
 Charadiius ludo\icianus, Kitzsch, in Erseh § Grub. Encycl. xvi. 
 
 p. 150 (1827). 
-Lobivanellus ludovicianm, StricM. P. Z. S. 1841, p. 33. 
+Lobivanellus ludovicianm, Strickl. P. Z. S. 1841, p. 33. 
 Lobivanellus personatus, Gould, P.Z.S. 1842, p. 113 (N. coast of 
 Australia); id. B.Austr. vi. pi. 10 (1842); Gray, List Grail. Brit. 
 Mm. p. 66 (1844: Port Essington); Reiehenb. Grail. Taf. ciii. 
@@ -14412,7 +14412,7 @@ Butler, t. c. p. 426 (Belgaum); Barnes, t c. p. 459 (Ohaman);
 Butler, Cat. B. S. Bomb. Ires. p. 73 (1880); Biddulph, Ibis, 1881, 
 p. 95; Scully, t. c. p. 587 (Gilgit); Giglioli, Ibis, 1881, p. 208 
 (Rome, Nov.); Reid, Str. F. x. p. 65 (1881: Lucknow) ; Salvin, 
-Cat. StricM. Coll. p. 599 (1882); Seebohm, Ibis, 1882, p. 221 
+Cat. Strickl. Coll. p. 599 (1882); Seebohm, Ibis, 1882, p. 221 
 (Astrakhan, summer); Davidson, Str. F. x. p. 319 (1882: Western 
 Khandeish); Severtz. Ibis, 1883, p. 74 (Bash-Alai, Sept.); Bogd. 
 Consp. Av. Imp. Boss. p. 69 (1884: Steppes of Tchernoz^m, from 
@@ -14428,7 +14428,7 @@ p. 647 (1890); Bmsina, Motr. etc. (Orn. Croat.) p. 93 (1890);
 Sharpe, Sci. Results 2nd Yarh. Miss., Aves, p. 93 (1891: Panjah); 
 Hartert, Fat. Vogels. Senckenb. Mus. p. 215 (1891: Schendi). 
 Chastusia 
-gregaria, StricM. P. Z. S. 1850, p. 221 (Khartoum); 
+gregaria, Strickl. P. Z. S. 1850, p. 221 (Khartoum); 
 Reichenb. Grail Taf. 181. figs. 2430-31, Suppl. xlvii. (cii.)figs. 104849 
 (1852); Taylor, Ibis, 1867, p. 68 (Egypt); Beavan, Ibis, 1868, 
 
@@ -14927,7 +14927,7 @@ band white; remainder of under surface of body, from the chest
 downwards, white, including the under wing-coverts and axillaries: 
 "bill black; feet dark scarlet, the toes more dusky; iris pale 
 yellow,* eyelids scarlet" {Th. von ffeuc/lin). Total length 10 
-inches, eulmen 1-15, wing S-5, tail 2-75, tarsus 2*3. 
+inches, culmen 1-15, wing S-5, tail 2-75, tarsus 2*3. 
 
 Young. Differs from the adult in having the head brown like the 
 back, without any white on the forehead; throat and fore-neck 
@@ -15117,7 +15117,7 @@ iii. p. 543 (1847); Gould, B. Austr. vi. pi. 12 (1848); Blyth, Cat
 B. Mus. As. Soc. p. 262 (1849 : Calcutta) ; Strichl. P. Z. S. 1850, 
 p. 220 (Kordofan) ; Reichenb. Vdg. Neirfioll. no. 549 (1851); 
 id. Grail Taf. ci. figs. 673-675 (1852); Sol. Contr. Orn. 1852, 
-p. 126 (Red Sea); StricM. fy Scl. t e. p. 158 (Damara-land); 
+p. 126 (Red Sea); Strickl. fy Scl. t e. p. 158 (Damara-land); 
 Kjcerb. Damn. Fugle, pi. xxx. fig. 3 (1852); Wallengr. Nairn. 
 1853, p. 87,1854, p. 249 (Scandinavia); Motl. $ Dillw. Contr. 
 Nat Hist Labuan, p. 56 (1855); Ileuyl. Syst Uebers. p. 55 
@@ -20035,12 +20035,12 @@ this black band followed by a band of white across the chest;
 breast and sides of the body orange-chestnut; the centre of the 
 lower breast and abdomen black; lower abdomen, thighs, and 
 under tail-coverts pure white; axillaries, under wing-coverts, and 
-quill-lining pale smoky grey. Total length 8'5 inches, eulmen 0*75, 
+quill-lining pale smoky grey. Total length 8'5 inches, culmen 0*75, 
 wing 5*8, tail 2'5, tarsus 1*4. 
 
 Adult female. Similar to the adult male, but less brightly coloured 
 and the black patch on the abdomen not so strongly developed* Total 
-length 8*8 inches, eulmen 0*75, wing 5*75, tail 2-65, tarsus 1*25. 
+length 8*8 inches, culmen 0*75, wing 5*75, tail 2-65, tarsus 1*25. 
 
 Adults in winter plumage. Somewhat similar on the upper surface 
 to the summer plumage, but the head not so blackish, the crowTn 
@@ -21808,10 +21808,10 @@ the rest of its extent; feet orange; claws black; iris brown"
 
 CHABADBIID-3B. 
 
-(J. Macgillivray). Total length 7 inches, eulmen 0*7, mng 5-1, 
+(J. Macgillivray). Total length 7 inches, culmen 0*7, mng 5-1, 
 tail 2-3, tarsus 1*05. 
 Adult female. Hot distinguishable from the male. Total length 
-7-7 inches, eulmen 0-65, wing 5*1, tail 2*25, tarsus 1. 
+7-7 inches, culmen 0-65, wing 5*1, tail 2*25, tarsus 1. 
 Young. Paler than the adults, and distinguished by the pale 
 margins of ashy buff to the feathers of the upper surface; ear-
 coverts brownish black; no black band on the fore part of the 
@@ -22139,12 +22139,12 @@ shade of whitish towards the sub-terminal portion: " bill blackish
 brown, the basal third of the lower mandible orange-yellow ; eyelid 
 orange-yellow; iris full and dark; feet pale ochreous, darker on 
 the toes; claws black" (B, Sivvihoe). Total length 8 inches, 
-eulmen 0*75, wing 5-55, tail 2*9, tarsus 1*25. 
+culmen 0*75, wing 5-55, tail 2*9, tarsus 1*25. 
 
 Adult female. Similar in colour to the male: " bill black, the 
 extreme base of the lower mandible yellow* feet pure ochre-yellow; 
 claws black; iris dark brown; margin of eyelid ochre-yellow" 
-(J*. Scully). Total length 8 inches, eulmen 0-85, wing 5*6, tail 3*1, 
+(J*. Scully). Total length 8 inches, culmen 0-85, wing 5*6, tail 3*1, 
 tarsus 1-2. 
 
 Young. Only differs from the adults in having rufescent margins 
@@ -24130,7 +24130,7 @@ Hiaticula
 sp., Gray, List GralL Brit. Mm. p. 69 (1844: River 
 Niger) *. 
 Charadrius pallidus, Strickl. Contr. Orn. 1852, p. 158 (Damaraland) 
-; Safam, Cat. StricM. Coll. p. 598 (1882) * 
+; Safam, Cat. Strickl. Coll. p. 598 (1882) * 
 
 * There is a synonym,ce H. Jwjwoo&% Thompson," of which the Museum is 
 supposed to have the type specimen, which is quoted by Hartlaub and others, 
@@ -24806,7 +24806,7 @@ wing-coverts, axillaries, and quili-lining pure white: *'bill orange
 
 at base, tipped with black; feet orange-yellow " (Baird, Brewer, §-
 
-Bidgway). Total length 6*5 inches, eulmen 0*55, wing 4*5, 
+Bidgway). Total length 6*5 inches, culmen 0*55, wing 4*5, 
 
 tail 1*9, tarsus 0*85. 
 
@@ -27154,7 +27154,7 @@ Himantopus pectoralis, Schl Mm. Pays-Bas, Scolopaces, p. 108
 (1864) • Seebohm, Geogr. BisL Charadr. p. 288, pi. 14 (1888). 
 Cladorhvnchus leucocephaius, Saloin, Ibis, 1874, p. 252 note; id. 
 
-Cat StricM. Coll. p. 604 (1882). 
+Cat Strickl. Coll. p. 604 (1882). 
 
 Adult. General colour above white, including the scapulars; 
 parapteral plumes and wing-coverts black; primaries black, browner 
@@ -34595,7 +34595,7 @@ Reid, Str. F. x. p. 71 (1881: Lucknow); Oates, i. c. p. 241
 (Pegu); Biddulph, Ibis, 1881, p. 97 (Gflgit); Scully, t c. p. o89 
 (Gilffit, April and Sept); Socage, Orn. Angola, p. 466 (1881); 
 CollettNorges Fuglef. p. 102 (1881); Blahist $ Fryer, B. Jap. 
-^ 109 (1882); Sa&n, Cat. StricM. Coll p. 613 (1882: Smyrna); 
+^ 109 (1882); Sa&n, Cat. Strickl. Coll p. 613 (1882: Smyrna); 
 6 Swinh. Ibis, 1882, p. 122 (Candahar, Jan. to March); Seebohm, 
 t 'c p 222 (Astrakhan); Biddulph, t. c. p. 229; Seebohm, t. c. 
 p SSi (Archangel); Davids. Str. F. x. p. 321 (1882: West. 
@@ -40923,7 +40923,7 @@ p. 325 (1882) • id. Ann. Mus. Genov. xviii. p. 329 (1882); Booth,
 Bough Notes, ii. (1881-87); Nicholson, Ibis, 1882, p. 70 (Cocos 
 IsL, Java, Feb.); Shelley, t. c. p. 365 (Mashoona, Sept.-Dec.); 
 Butler, Feilden, 8? Beid, Zool, 1882, p. 425 (Newcastle, Oct.); 
-Salvin, Cat. StricM. Coll. p. 613 (1882); B. O. 77. List Brit. B. 
+Salvin, Cat. Strickl. Coll. p. 613 (1882); B. O. 77. List Brit. B. 
 p. 177 (1883) ; Saunders, ed. YarreWs Brit B. iii. p. 483 (1884); 
 Tristr. Faun. 8f Flor. Palest, p. 134 (1883); Sharpe, ed. Bayard's 
 B. S. Afr. p. 687 (1884); Salvad. Ami. Mus. Genov. (2) i. p. 221 
@@ -47785,7 +47785,7 @@ the above species by its long toes.
 Adult male in summer jphtmage. Almost exactly similar to 
 
 L. minuta, but easily distinguished by the length of the middle toe 
-and the colour of the legs. Total length 5*2 inches, eulmen 0#7y 
+and the colour of the legs. Total length 5*2 inches, culmen 0#7y 
 wing 3*4, tail 1*4, tarsus 0*8, middle toe and claw 0*9. 
 Adult female. Similar to the male in plumage: "bill blackish, 
 olive-brown at base of lower jaw; feet greyish yellow, with the 
@@ -48084,7 +48084,7 @@ primary-coverts brown, forming a patch; quills below ashy brown,
 
 somewhat lighter along the inner edge. Total length 5-5 inches, 
 
-eulmen 0*6, wing 3*8, tail 1*8, tarsus 0*7, mid toe and claw 0*7. 
+culmen 0*6, wing 3*8, tail 1*8, tarsus 0*7, mid toe and claw 0*7. 
 
 Adult male in breeding-plumage. Only differs from the winter 
 plumage in being more mottled above, the feathers having black 
@@ -49179,7 +49179,7 @@ Britain, rare visitor); Blahist. Amended List B. Japan, p. 11
 (1884 : Yezo and Japan generally) j Dyb. fy Taez. Bull Soc. Zool 
 France, ix. p. 146 (1884); Boyd. Consp. Av. Imp. Ross. fasc. i. 
 p. 91 (1884); Guillem. P. Z. S. 1885, p. 664 (Momos, Waigiou, 
-Oct. 26); Salvin, Cat. StricM. Coll. p. 610 (1882); A. O. U. 
+Oct. 26); Salvin, Cat. Strickl. Coll. p. 610 (1882); A. O. U. 
 ' 
 ChecH. N. Amer. B. p. 150 (1886); Nelson, Rep. Nat. Hist. Coll 
 Alaska, p. 106, pi. viL (1887: St. Michael's, Sept., not observed 
@@ -55214,10 +55214,10 @@ wing-coverts and axillaries white, barred with black, the latter very
 distinctly banded ; lower primary-coverts and quills below uniform 
 ashy brown : u bill brown; feet light slate-colour ; iris very dark " 
 
-(T. Ayns). Total length 11 inches, eulmen 2*45, wing 5'55, 
+(T. Ayns). Total length 11 inches, culmen 2*45, wing 5'55, 
 tail 2, tarsus 1*35. 
 Adult female. Similar to the male. Total length 10*5 inches, 
-eulmen 2'5, wing 5*3, tail 2, tarsus 1*5. 
+culmen 2'5, wing 5*3, tail 2, tarsus 1*5. 
 Winter plumage. More sandy buff than in summer, the buff 
 edges to the feathers of the upper surface broader and more conspicuous; 
 the blackish markings on the fore-neck larger and 
@@ -55505,10 +55505,10 @@ spots and mottlings on the chest and throat are very distinct. The
 whole of the secondaries, excepting the innermost or elongated ones, 
 are blackish with white tips, but without any rufous bars on the 
 outer web: " bill black; legs brownish green; iris dark hazel" 
-(T. E. Buckley). Total length 10*8 inches, eulmen 2*75, wing 5*1, 
+(T. E. Buckley). Total length 10*8 inches, culmen 2*75, wing 5*1, 
 tail 2*2, tarsus 1*3. 
 Adult female. Similar to the male. Total length 10 inches, 
-eulmen 2*9, wing 5*1, tail 1*8, tarsus 1*45. 
+culmen 2*9, wing 5*1, tail 1*8, tarsus 1*45. 
 The axillaries vary in markings, being sometimes regularly barred 
 with black and white throughout, while some individuals have the 
 axillaries white with only a few irregular markings or spots. 
@@ -56627,10 +56627,10 @@ axillaries transversely barred with black and white : breast barred
 with dusky blackish: " bill brownish (greenish grey in life), paler 
 at the base and darker towards the end; iris dark brown, light 
 greenish grey in life" (B. Bidgway). Total length 10*7 inches, 
-eulmen 2*4, wing 5, tail 2*1, tarsus 1*2. 
+culmen 2*4, wing 5, tail 2*1, tarsus 1*2. 
 
 Adult female. Similar to the male. Total length 10*3 inches, 
-eulmen 2-5, wing 5-2, tail 2% tarsus 1-2. 
+culmen 2-5, wing 5-2, tail 2% tarsus 1-2. 
 
 On the differences between Wilson's Snipe and the Common 
 Snipe it will be well to quote the remarks of the late Mr. Seebohm. 
@@ -57069,12 +57069,12 @@ secondaries decidedly longer than the primary-coverts, but the size
 much smaller and the axillaries whiter, the blackish cross-bars 
 being very narrow: "bill dull yellow for the basal half, and 
 blackish brown at the tip; feet (in skin) of a dull flesh-colour; iris 
-dark brown" (JelsM). Total length 7*5 inches, eulmen 2*1, 
+dark brown" (JelsM). Total length 7*5 inches, culmen 2*1, 
 wing 4*6, tail 1*8, tarsus 1. 
 
 * 
 Adult female. Similar to the male. Total length 8*3 inches, 
-eulmen 1*95, wing 4*5, tail 1*7, tarsus 1. 
+culmen 1*95, wing 4*5, tail 1*7, tarsus 1. 
 Hah. Peru. 
 
 a, b. $ 2 ad. sk. Lake Junin, Central Peru Seebohm Coll. 
@@ -57260,7 +57260,7 @@ Gallinago frenata (nee Idcht), Bumf. Ibis, 1876, p. 164 (Buenos-
 
 Ayres, Oct. 15; ? breeding). 
 
-Gallinago paraguayse, Salvin, Cat. StricM. Coll. p. 607 (1882). 
+Gallinago paraguayse, Salvin, Cat. Strickl. Coll. p. 607 (1882). 
 
 Scolopax frenata magellanica, Seebohm, Ibis, 1886, p. 138; id. Geogr.-
 
@@ -59675,9 +59675,9 @@ and quill-lining dull ashy: " bill light brown, paler and yellowish
 
 75 . PHEGOBtflS. 
 at base; feet pale reddish ; iris brown. Total length 9 inches, 
-eulmen 2-5, wing 4*9, tail 2-2, tarsus 1*15. 
+culmen 2-5, wing 4*9, tail 2-2, tarsus 1*15. 
 Adult female. Similar to the male in colour, but rather larger. 
-Total length 11 inches, eulmen 3, wing 5*45, tail 2-2, tarsus 1-25. 
+Total length 11 inches, culmen 3, wing 5*45, tail 2-2, tarsus 1-25. 
 
 Nestling. Covered with down of a pale grey or isabeUine colour, 
 relieved with reddish patches on the sides of the body and the wing-
@@ -62342,10 +62342,10 @@ Adult. Snowy white all over: " bill black, with the base of both
 mandibles sulphur-yellow or greenish yellow, in some horny reddish 
 or of the pale colour of the human finger-nail: face bare, covered 
 with milky-white papillae ; from the fore part of the crown a narrow 
-band continued to the angle of the eulmen and from the angle of 
+band continued to the angle of the culmen and from the angle of 
 the gape beneath the eyes bare ; feet bluish dusky ; iris reddish 
 dusky; e}Telids bare, with white papilla" (J. R. Forster). Total 
-length 15 inches, eulmen 1-3, wing 8*8, tail 4, tarsus 1-75. 
+length 15 inches, culmen 1-3, wing 8*8, tail 4, tarsus 1-75. 
 
 Hob. The same as that of the genus. 
 
@@ -62403,7 +62403,7 @@ opening above the nostrils minor, p. 712,
 b. Smaller: tarsus longer and more slender; feet 
 reddish in skin ; sheath with no perceptible 
 rounded opening in front, and scarcely raised 
-above the eulmen crozettensis, p. 713. 
+above the culmen crozettensis, p. 713. 
 712 OHIONIDID-aS. 
 
 1. Chionarclnis minor. 

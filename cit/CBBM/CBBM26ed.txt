@@ -51,7 +51,7 @@ HERODIONES (HERONS AND STORKS),
 BY 
 
 
-E. BOWDLEE SHARPE. 
+E. BOWDLER SHARPE. 
 STEGANOPODES (CORMORANTS, GANNETS, FRIGATE-BIRDS, TROPICBIRDS, 
 AND PELICANS), PYGOPODES (DIVERS AND GREBES), 
 ALCiE (AUKS), AND IMPENNES (PENGUINS), 
@@ -252,7 +252,7 @@ Colonel Jayakar, Surgeon-Captain E. H. Penton, Charles Hose,
 
 J. La Touche, C. B. Eiokett, E. W. Styan, Eev. H. H. Slater, 
 Alex. Ery, and Colonel Swinhoe. 
-E. BOWDLEE SHAEPE. 
+E. BOWDLER SHAEPE. 
 British Museum (N. H.), 
 October 6,1898. 
 
@@ -1242,7 +1242,7 @@ vermilion: " bill very dark brown ; bare skin of head and neck
 black, but with a pink spot under the eye; eyes black; iris dark 
 brown, with a reddish outer ring; naked space under the wings 
 bright brick-red" (C. J. Andersson). Total length 25 inches, 
-eulmen 6*4, wing 14*5, tail 5'5, tarsus 3-8, middle toe and claw 3*6. 
+culmen 6*4, wing 14*5, tail 5'5, tarsus 3-8, middle toe and claw 3*6. 
 
 IBIDID.aE. 
 
@@ -2852,10 +2852,10 @@ point on the throat; under wing-coverts and axillaries black, with
 a purple gloss: " bill and naked face clear flesh-colour in life, the 
 gape and region of the eye darker, the bill yellowish, with light 
 brown tip; feet fleshy yellow " (Burmeister). Total length about 
-34 inches, eulmen 6-5, wing 16, tail 11, tarsus 2*8. 
+34 inches, culmen 6-5, wing 16, tail 11, tarsus 2*8. 
 
 Adult female. Similar to the male. Total length about 34 inches, 
-eulmen 6, wing 15*6, tail 10*5, tarsus 2*75. 
+culmen 6, wing 15*6, tail 10*5, tarsus 2*75. 
 Rob. The same as that of the genus. 
 
 a. <$ ad. sk. Rupurumi River, British Guiana, Salvin-Godman Coll. 
@@ -3497,11 +3497,11 @@ across the forehead, round the eye, and along the fore part of the
 cheeks and across the chin: " bill dusky, sometimes tinged with 
 reddish; lores, eyelids, and naked skin of chin lake-red or pale 
 carmine; legs and feet varying from greyish brown to deep lake-
-red ; iris crimson " (Ridgzuay). Total length 21 inches, eulmen 5*4, 
+red ; iris crimson " (Ridgzuay). Total length 21 inches, culmen 5*4, 
 wing 10'7, tail 3*6, tarsus 4*1, 
 
 Adult female. Similar to the male, but smaller, and with a shorter 
-bill. Total length 20 inches, eulmen 4*1, wing 9*8, tail 3*7, 
+bill. Total length 20 inches, culmen 4*1, wing 9*8, tail 3*7, 
 tarsus 3*2. 
 
 Winter plumage and young plumage are exactly analogous to 
@@ -7551,7 +7551,7 @@ Ardea melanorhynchos, Wagl Isis, 1829, p. 659; Ilartl. Orn.
 Wes^Afr. p. 221 (1857 : S'enegambia); id. J.f.O. 1861, p. 269. 
 Ardea modesta, J. F. Grag, Zool. Misc. p. 19 (1831) ; id. in Hardw. 
 
-Blustr. Ind. Zool ii. pi. 49.fig.1 (1832). 
+Illustr. Ind. Zool ii. pi. 49.fig.1 (1832). 
 Ardea torra, Franhl P. Z. S.1831, p. 123. 
 Herodias Candida, Brehm, Vog. Deutschl p. 584 (1831). 
 Egretta alba, Bp. Faun. Ital. Ucc. Intr. p. 14 (1832); Sivains. Classif. 
@@ -13681,7 +13681,7 @@ somewhat yellowish on the nasal grooves ; edges of upper mandible
 and entire lower mandible clear yellow, somewhat duller brown 
 near the sides of the base; feet dull or dirty yellow, brownish on 
 the soles, somewhat greenish on the sides of the tarsus; claws 
-yellowish flesh-colour" (Heuivied). Total length 16 inches, eulmen 
+yellowish flesh-colour" (Heuivied). Total length 16 inches, culmen 
 2-65, wing 10*8, tail 4-4, tarsus 2*8. 
 
 Adult female. Similar to the male in plumage. Total length 
@@ -14754,12 +14754,12 @@ and toes dusky, soles orange, and claws horn-colour ; iris yellow "
 21 . BUTOEIDES. 
 179 
 
-(E. W. Oates). Total length 19 inches, eulmen 2-75, wing 7, 
+(E. W. Oates). Total length 19 inches, culmen 2-75, wing 7, 
 tail 2'5, tarsus 2, middle toe and claw 2-1. 
 Adult female. Exactly like the male, but a trifle more dingy, 
 especially in the throat-markings, where the brown is a little more 
 distinct on the margins of the feathers. Total length 18 inches, 
-eulmen 2-4, wing 6*8, tail 2*75, tarsus 1*8, middle toe and claw 2. 
+culmen 2-4, wing 6*8, tail 2*75, tarsus 1*8, middle toe and claw 2. 
 
 Winter plumage. Duller than in summer and much greener above, 
 without any grey shading; the head green. 
@@ -17582,7 +17582,7 @@ Ardeola bubulcus, Gray, List Grail Brit. Mus. p. 82 (1844, pt.) -r
 Biipp. Syst. Uebers. p. 121 (1845); Brehm, Vogelf. p. 295 (1855) j 
 Butler, Feilden, $ Beid, Zool. 1882, p. 344 (Newcastle, Natal). 
 Ardeola coromandelica (nee Bodd.), Bilpp. Syst Uebers. p. 121 
-(1845); StricM. P. Z. S. 1850, p. 221 (Kordofan). 
+(1845); Strickl. P. Z. S. 1850, p. 221 (Kordofan). 
 
 Ardea coromanda (nee Bodd.), Gray, Gen. B. iii. p. 556 (1847, pt.); 
 id. Cat. Brit B. p. 147 (1863); Tristr. Ibis, 1868, p. 325 
@@ -20053,7 +20053,7 @@ cheeks, throat, and under surface of body ochreous buff; under tail-
 coverts, under wing-coverts, and axillaries white; on the throat 
 some slight indications of longitudinal dusky spots; the feathers of 
 the fore-neck elongated; on each side of the chest a patch of black 
-feathers with ochreous margins : " bill blackish brown on eulmen, 
+feathers with ochreous margins : " bill blackish brown on culmen, 
 yellowish brown on the rest, darker on the sides of upper mandible 
 near tomia, light on sides of lower and on genys; cere and bare 
 skin round eye purplish flesh-colour, tinged with green; legs and 
@@ -20061,7 +20061,7 @@ toes grass-green, yellow near the tarso-tibial joint and on the under
 surface of the tarsus; soles clay-coloured; claws light yellowish 
 
 hrown; iris straw-colour" (K Swinhoe). Total length 12 inches, 
-eulmen 1*95, wing 5*9, tail 1*55, tarsus 2. 
+culmen 1*95, wing 5*9, tail 1*55, tarsus 2. 
 
 Adult female. Different from the male. Dusky reddish brown, 
 spotted all over with ochraceous buff, the feathers externally spotted 
@@ -24004,7 +24004,7 @@ Riipp. Syst. Uebers. p. 121 (1845: Egypt, March, Aug.); Mewits,
 Eggs Brit B. ii. p. 279, pi. lxxvii. ftg. 1 (1846); Reichenb. Grail. 
 tab. xciii. figs. 449-50 (1848); Gray, Gen. B. iii. p. 561 (1848) ; 
 Blyth, Cat. B. Mus. As. Soc. p. 276 (1849 : Calcutta); Thomps. 
-B. IreL ii. p. 175 (1850); StricM. P. Z. S.1850, p. 221 (Kordofan) ; 
+B. IreL ii. p. 175 (1850); Strickl. P. Z. S.1850, p. 221 (Kordofan) ; 
 Kjmrb. Banm. Fugle, pi. xxxii. fig. 6 (1851); Macgill. Brit. B. iv. 
 p. 481 (1852); Schl. Vog. Nederl pi. 199 (1854); LicH. Nomencl. 
 Av. Mus. Berol. p. 90 (1854: Senegal); Bp. Comp. Av. ii. p. 104 
@@ -28048,7 +28048,7 @@ bare patch in front of the eye ; mandible similar, but less brightly
 
 coloured; iris grey; legs, feet, and webs bright coral-red; claws 
 
-black" (A. A. Lane). Total length about 28 inches, eulmen 2*2
+black" (A. A. Lane). Total length about 28 inches, culmen 2*2
 
 
 2-35, wing 9*5-9*9, tail 4-4*1, tarsus 1*9, outer toe and claw 8*7. 
@@ -30425,7 +30425,7 @@ eye a thin patch of white hair-like feathers. Tail composed of 12
 feathers. Eyelid light blue ; naked skin on lores and sides of face 
 very dark blue; a row of small red warts between the culmen and 
 the eye; naked skin at base of lower mandible and gular pouch 
-arterial red. Total length about 29 inches, eulmen from feathers on 
+arterial red. Total length about 29 inches, culmen from feathers on 
 forehead to tip 2*4, depth to cutting-edge 0-35, wing 11*6-11*7, tail 
 5*1-5*3, tarsus 2*8, outermost toe and claw 4*3. 
 
@@ -33664,9 +33664,9 @@ green at the base; bare space round the eyes, lines on the bill, and
 gular space black; feet brownish black, the scales light greenish 
 blue or emerald-green; claws greyish white. 
 
-Adult male. Total length about 36 inches, eulmen from feathers 
+Adult male. Total length about 36 inches, culmen from feathers 
 on forehead 3-95, wing 19, tail 8-8, tarsus 2-25. 
-Adult female. Total length about 36 inches, eulmen from feathers 
+Adult female. Total length about 36 inches, culmen from feathers 
 on forehead 3-85, wing 18*8, tail 8*7? tarsus 2-25. 
 
 Young when first hatched are naked and of a slaty-black colour ; 
@@ -37310,7 +37310,7 @@ Ah. Berl 1838, p. 439, pi iii. %. 3; Drapiez, Diet. Sei. Not. viii.
 
 p. 385 (1842); Eraser, P. Z. S. 1842, p. 144 rXiirer"; G. R. Gray, 
 List of B. pt. iii. p. 189 (1844); id. Gen. B. iii. p. 608 (1845); 
-StricM. P. Z. S. 18-30, p. 221 [Kordofaif; Marti Beitr. Orn. W.-
+Strickl. P. Z. S. 18-30, p. 221 [Kordofaif; Marti Beitr. Orn. W.-
 Afr. p. 44 (1852) [Gambia, Siger, Gold Coa>ff; Brthm, J.f O, 
 1855, pp. 92, 93; Bonap. Consp. Av. ii. p. 162 (1855): ELeugh 
 Tog. K.O.-Afr. p. 71 (1856); Hartl Syst. Orn. W.-Afr. p. 259 
@@ -37861,7 +37861,7 @@ the base; pouch pale yellow, shading into deep orange towards the
 1 . PELECANUS. 
 483 
 base; legs and feet orange-red. Total length about 60 inches, 
-eulmen 13*5-14*5, wing 24, tail 7, tarsus 4*8. 
+culmen 13*5-14*5, wing 24, tail 7, tarsus 4*8. 
 
 In hi'btditig-piutiuvje a thick crest of narrow pointed white 
 feathers covers the occiput and nape ; and a patch of feathers on the 
@@ -39280,7 +39280,7 @@ B.
 Secondary-quills short, the longest about "p. 553. 
 equal to the ninth or tenth primary; metatarsus 
 equal to or very little shorter than 
-the middle toe and claw ; eulmen very long [p. 540. 
+the middle toe and claw ; culmen very long [p. 540. 
 and pointed 2. JECHMOPHOBCS, 
 1. 
 PODICIPES. 
@@ -39792,7 +39792,7 @@ brown ; upper and lower mandible blackish, pale horn at the tip ;
 naked skin round the gape and at the base of the lower mandible 
 yellow, in front of the eye blackish; feet slate-grey; outer side 
 of metatarsus and soles blackish. Total length about 9-5 inches, 
-eulmen from feathers on forehead O65-0*8, wing 3*7-4, tarsus 
+culmen from feathers on forehead O65-0*8, wing 3*7-4, tarsus 
 1*3-1*4, outer toe and claw 1 "8-1*9. 
 
 Adult in non-breeding plumage. Forehead, crown, back of the 
@@ -47030,7 +47030,7 @@ VOL. xxvi. *
 594 
 1LC2B. 
 
-length about 9*5 inches, eulmen from feathers on forehead to 
+length about 9*5 inches, culmen from feathers on forehead to 
 tip 04, from gape to tip 1*05, greatest depth of both mandibles at 
 base 0*2-0-21, wing 5-5*7, tail 1*35-1*4, tarsus 0*65, middle toe 
 and claw 1-1*1. 
@@ -47058,7 +47058,7 @@ Sir E. Belcher [P.].
 [Type of B. brevirostris (Vigors').] 
 
 6. MICBFEIA. 
-Bill elongate and moderately compressed; eulmen gradually curved 
+Bill elongate and moderately compressed; culmen gradually curved 
 downward towards to the tip. Inter-ramal feathering extending 
 to a vertical line drawn from the anterior border of the exposed 
 nasal opening, which is oval and covered anteriorly by a horny scale. 
@@ -47090,7 +47090,7 @@ head below the line of the gape, a small patch of feathers above
 and below the eye, and the rest of the underparts, including the 
 under wing-coverts, white; quills brownish-black, shading into 
 white on the basal part of the inner web; tail blackish, and composed 
-of 12 feathers. Total length about 8*5 inches, eulmen 
+of 12 feathers. Total length about 8*5 inches, culmen 
 from feathers on forehead to tip 0*75, from gape to tip 1*15-1-25, 
 
 595 
@@ -47271,11 +47271,11 @@ the former streaked with white; remainder of the underparts
 as well as the under wing-coverts pure white; quills blackish, 
 becoming white towards the base of the inner web; tail black, 
 composed of 14 feathers. " Iris dark brown; bill whitish-grey, 
-brownish-black along the eulmen and towards the base; feet bluish-
+brownish-black along the culmen and towards the base; feet bluish-
 white, brownish-black at the joints; webs sooty-black, except the 
 portion next the toes which is light blue; back of the metatarsus 
 and soles of feet sooty-black " (P. A. Hoist). Total length about 
-10*5 inches, eulmen from feathers on forehead to tip 0*55-0-6, 
+10*5 inches, culmen from feathers on forehead to tip 0*55-0-6, 
 from gape to tip 1*1-1*25, greatest depth of both mandibles at base 
 0*2b-0%3, wing 5*1-5*2, tail 1*25-1*45, tarsus T05, middle toe and 
 claw 1*15-1*25. 
@@ -47974,7 +47974,7 @@ Ombria, Eschscholtz, Zool. Atlas, Heft iv. p. 3, pi. 17
 (1831) P. psittaculus. 
 Bill deep and compressed, the breadth of the upper mandible at 
 the base being less than the depth, and the length from gape to tip 
-much less than that of the middle toe and claw; eulmen rather 
+much less than that of the middle toe and claw; culmen rather 
 short and curved throughout; the ridge forming a blunt razor-edge; 
 lower mandible strongly curved upward throughout and terminating 
 In an acute tip ; feathering on the lores distant from the posterior 

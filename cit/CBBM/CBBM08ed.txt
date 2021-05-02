@@ -3567,9 +3567,9 @@ bill black ; feet bluish grey; " iris dark brown?? (Finscli).
 There is no conspicuous difference in coloration between the two 
 sexes. Tn autumn chess the whitish edgings to the feathers of the 
 throat are larger and more numerous, causing these parts to have a 
-very mottled appearance. Total length about 5 inches, eulmen 
+very mottled appearance. Total length about 5 inches, culmen 
 
-( s) 0*48, wing 2*76, tail 2-76, tarsus 0*7; eulmen ( J ) 0-47, wing 
+( s) 0*48, wing 2*76, tail 2-76, tarsus 0*7; culmen ( J ) 0-47, wing 
 2-5, tail 2-5, tarsus 0*65. 
 Sab. The Lapp Titmouse has a rather large range. It is found 
 all over the most northern parts of Europe, Russia, and Northwestern 
@@ -3783,7 +3783,7 @@ white and bordering the black triangular patch on the throat and
 fore neck; sides of breast, flanks, abdomen, thighs, and under tail-
 coverts pale ashy grey; under wing-coverts whitish; quills below 
 with white edgings along the inner web; bill black; feet leadcolour 
-; iris brown. Total length about 5-7 inches, eulmen 0*550-
+; iris brown. Total length about 5-7 inches, culmen 0*550-
 6, wing 2-9-3-1, tail 2-4, tarsus 0-75-0-85. 
 
 There is no difference in colour between the two sexes. 
@@ -5003,7 +5003,7 @@ pair of tail-feathers with a whitish margin to the outer web ; chin
 blackish; throat and sides of neck white, gradually passing into 
 dull pinkish white; abdomen, thighs, and under tail-coverts pale 
 ochraceous or fulvous; bill and feet black• " iris pale straw-colour " 
-(Salvln). Total length about 4 inches, eulmen 0*3, wing 1*95, tail 
+(Salvln). Total length about 4 inches, culmen 0*3, wing 1*95, tail 
 2-2, tarsus 0-6. 
 
 Adult female. Sides of head pale brown instead of black; sides of 
@@ -5299,7 +5299,7 @@ PAJRHLE*
 no. 196-Beehstein, Fog. Beuischl. iv. p. 745; Fetzius, Faun. Suecic. 
 
 p. 271; Illiger,Prodroj7i.^.220', Temm.Man.cTOni.-p.2&6; Bonn. 
-et Vieill. JBnc. Meth. ii. p. 499; Hoiix, Orn. Prov. p. 193, pi. 122 ; 
+et Vieill. JEnc. Meth. ii. p. 499; Hoiix, Orn. Prov. p. 193, pi. 122 ; 
 Less. Man, cPOrn. i. p. 319 j id. Traite cTOm. p. 457; PalLZoogr. 
 Rosso-As. i. p. 551; Siuains. Class. B. ii. p. 250; SeMnz, Bur op. 
 Faun. p. 220; jfflkson, Skandin. Faun. i. p. 34*3 (1835), i. p. 425 
@@ -6199,7 +6199,7 @@ wing-coverts, quills, and tail brown, with paler greyish edgings; all
 the rest of the upper parts pale ashy brown; underparts uniform 
 dull white; many of the feathers of the back and of the underparts 
 washed with yellow on their middle parts; bill and feet black. 
-Total length about 4 inches, eulmen 0*43, wing 1-JMH, tail 2, tarsus 
+Total length about 4 inches, culmen 0*43, wing 1-JMH, tail 2, tarsus 
 0-55-0-58. 
 
 Rah. Northern Mexico, Lower California, and Texas. 
@@ -6317,7 +6317,7 @@ tinge; rest of tail dark brown, with large white tips ; wings greyibh
 brown, primaries with narrow whitish edges on outer webs; underparts 
 dingy white, washed with greyiah or with ferruginous brown ; 
 under tail-feathers brown with white tips ; feathers of occiput prolonged 
-into a long crest. Total length about 0*5 inches, eulmen 
+into a long crest. Total length about 0*5 inches, culmen 
 0-5-0*58, wing 3*2-3*4, tail 3*7-3*8. tarsus 0*9. 
 
 The sexes are alike in plumage. 
@@ -7120,7 +7120,7 @@ Stoliczkana, Hume, Str. F. ii. p. 135 (1874) . . L. sophue.
 
 Details of structure of Leptopoecile sophice. 
 
-Bill straight, slender and rounded at the eulmen, like that of Phi/lloscopus. 
+Bill straight, slender and rounded at the culmen, like that of Phi/lloscopus. 
 Nostrils longitudinal, with a well-developed coriaceous operculum, 
 half protected by very fine bristles. Pirst primary comparatively 
 long, second primary short; tip of wing formed hy fourth, 
@@ -7157,7 +7157,7 @@ pair, and outer edge of next pair white; edge of wing, under
 wing-coverts, and a broad margin to inner web of quills pale creamcolour 
 ; centre of breast and abdomen cream-colour• " bill black; 
 feet horny blackish brown; iris bright red" ($tolicz7ca). Total 
-length 4*5 inches, eulmen 0*35, wing 2*1, tail 2, tarsus 0*72. 
+length 4*5 inches, culmen 0*35, wing 2*1, tail 2, tarsus 0*72. 
 
 Female. Generally duller-coloured, the reddish-blue colour being 
 confined to the rump; underparts pale brownish white or creamcolour 
@@ -7222,7 +7222,7 @@ The Laniidce, as described in this volume, form neither a group
 complete in itself, nor are the lines of distinction always drawn 
 closely enough. Thus Neolestcs and Eopsaltria ought, perhaps, 
 to be left out; Strepera ought to stand with GymnorMna. Lastly, 
-how many of the Gampephacjidce and of the so-called Timeliidce had 
+how many of the Gampephacjidce and of the so-called Timeliidae had 
 better be joined, as a sixth subfamily, with the Laniidce, I am at 
 present unable to tell. 
 
@@ -16452,7 +16452,7 @@ coverts light grey; tail and upper tail-coverts reddish brown; under
 tail-coverts light brown; the tips of the tail-feathers having 
 the shaft pointed and without web [which seems to me the 
 sign of a young bird]; bill and feet black; iris chestnut-brown 
-(d'Albcrtis). Total length 6-9 inches, eulmen 034, wing 4-1, tail 2-45. 
+(d'Albcrtis). Total length 6-9 inches, culmen 034, wing 4-1, tail 2-45. 
 
 VOL. VI ri. Q. 
 
@@ -19524,7 +19524,7 @@ the black colour occupies tho greater part of the head, gradually
 passing into brownish black and then into ashy brown on the occiput 
 and hind neck. 
 
-Measurements :—Total length 9-9*5 inches ; eulmen about 0*75 
+Measurements :—Total length 9-9*5 inches ; culmen about 0*75 
 
 inch. 
 Wing.
@@ -20706,7 +20706,7 @@ band, the region around the eye, the ear-coverts, and part of the
 sides of the neck are deep black; loral region and often a spot on 
 the upper and hinder angle of the eye white; all the underparts of 
 the body and the thighs creamy white; some of the under wing-
-coverts blackish. Total length about 7 inches, eulmen 0*7, wing 3*7 
+coverts blackish. Total length about 7 inches, culmen 0*7, wing 3*7 
 -4-1, tail 3-1-3-5, tarsus 0-95-1. 
 
 The immature male is less intensely coloured than the adult; 

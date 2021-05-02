@@ -382,7 +382,7 @@ t, m\m(um*,hharpefyUs8ker 77 2. tahitica, Gm 141
 
 1. lungicauda (Saltad,) 70 0. bTnda, J. Terr 145 
 
-17. Melanochaiis, Scl ... . 70 7. albigujari-a, StricM. 146 
+17. Melanochaiis, Scl ... . 70 7. albigujari-a, Strickl. 146 
 
 1. nijrra (Xe*8.) 80 5. t'etmopira, Blanf. 14G 
 
@@ -1778,7 +1778,7 @@ Dicasum. erythronotum, Cuv. JRegne Anim. i. p. 410 (3817); McClell.
 F.Z. S. 1839, p. 167 j Blyth, J. A. S. Beng. xii. p. 983 (1843), 
 xiv. p. 558 (1845). 
 Dicseiim cruentatum, 
-StricM. Ann. fy Mag. Nat. Hist xiii. p. 38 
+Strickl. Ann. fy Mag. Nat. Hist xiii. p. 38 
 (1844); Bh/th, Cat B. Mus. As. Soc. p. 226 (1849) ; Bp. Consp. 
 
 i. p. 402 (1850) ; Cab. Mus. Hein. Th. i. p. 98 (1850); Tytler, 
@@ -3033,7 +3033,7 @@ wing-coverts white; the inner edge of the quills margined with
 
 36 DIC2EIDJB. 
 
-Trhlte below; bill and feet black. Total length 3*7 inches, eulmen 
+Trhlte below; bill and feet black. Total length 3*7 inches, culmen 
 0-45, wing 2*1, tail 1*2, tarsus 0*55. 
 
 Young. Differs from the adult in being slaty grey above, the 
@@ -4417,7 +4417,7 @@ coverts golden yellow, chestnut near the vent; under wing-coverts
 and axillaries white, the axillaries pale fawn-colour; quills blackish, 
 ashy white along the edge of the inner web ; " bill brownish bla«*k ; 
 feet brown; iris dark brown" (Gould). Total length 3-4 inches, 
-eulmen 0-3, wing 2*3, tail 1*15, tarsus 0*7. 
+culmen 0-3, wing 2*3, tail 1*15, tarsus 0*7. 
 
 
 Adidt female. Duller in colour than the male and wanting the 
@@ -4868,7 +4868,7 @@ Hab. Java.
 Dicasum ignicapillum, Ik/ton, P. Z. S. 1839, p. 105. 
 
 Prionochilus 
-percussus (non Temm.), StricM. P. Z. S. 1841, p. 29; 
+percussus (non Temm.), Strickl. P. Z. S. 1841, p. 29; 
 Blyth, J. A. S. Beng. xiv. pp. 558, 559 (1845) ; id. Cat B. Mus. 
 As. 8oc. p. 227 (1849); Bp. Consp. i. p. 335 (1850); Cab. Mus. 
 Hein. Th. i. p. 112 (1850, pt.); Sorsf. $ Moore, Cat. B. E.L Co. 
@@ -5106,7 +5106,7 @@ $ juv. sk.
 
 5. Prionochilus maculatus. 
 Pardalotus maculatus, Temm. PI. Col iii. pi, 600. fig. 3 (1836). 
-Prionochilus maculatus, StricM. P. Z. S. 1841, p. 29: Horsf. Sr Moore 
+Prionochilus maculatus, Strickl. P. Z. S. 1841, p. 29: Horsf. Sr Moore 
 Cat. B. EX Co. Mus. ii. p. 752 (1856); Moore, P. X \ 185o' 
 
 p. 464 ; Salvad. Atti E. Accad. Torin. iii. p. 418 (1868) * Walden 
@@ -5499,11 +5499,11 @@ follows:—in some fleshy white tipped brownish, in others light
 
 ' plumbeous or blue, while in one or two specimens shot later in the 
 spring the lower mandible as well as the gape was orange n (Davison). 
-Total length 3*9 inches, eulmen 0*4, wing 2*85, tail 1*25, tarsus 
+Total length 3*9 inches, culmen 0*4, wing 2*85, tail 1*25, tarsus 
 0-45. 
 
 Adult female. Similar to the male in plumage. IotaJ length 
-4 inches, eulmen 04, wing 2*35, tail 1*3, tarsus 0*5. 
+4 inches, culmen 04, wing 2*35, tail 1*3, tarsus 0*5. 
 Hah. Tenasserim, ranging into Pegu. 
 
 
@@ -6032,7 +6032,7 @@ olive; entire under surface of body pearly grey, slightly washed
 with pale yellow; thighs and under tail-coverts a little darker ashy; 
 axillaries pale yellow; wings white, with a pale yellow wash; quills 
 dusky, ashy grey along the edge of the inner web. Total length. 
-4*6 inches, eulmen 0*6, wing2'6, tail 1*75, tarsus 0*7. (Alus* Civic. 
+4*6 inches, culmen 0*6, wing2'6, tail 1*75, tarsus 0*7. (Alus* Civic. 
 Genov.) 
 
 Adult female. General colour above olive-brown, rather greener 
@@ -6056,7 +6056,7 @@ centres, the feathers mottled like the breast; axillaries pale yellow;
 under wing-coverts white slightly washed with yellow, and mottled 
 with dark-brown bases to the feathers ; quills dusky below, greyish 
 white along the edge of the inner web. Total length 4-9 inches, 
-eulmen 0*6, wing 2*85, tail 1-85, tarsus 0-75. (Jim. Civic. Gmov.) 
+culmen 0*6, wing 2*85, tail 1-85, tarsus 0-75. (Jim. Civic. Gmov.) 
 
 Eabt N.W. New Guinea. 
 
@@ -7564,7 +7564,7 @@ the inner web: " bill black; legs brown; iris brown" (T. L.
 Ayres). Total length 5 inches, oilmen 0*4, wing 5*05, tail 2-1, 
 tarsus 0-45. (Mas. G. E. Shelley.) 
 Adult female. Similar to the male in colour. Total length 5-4 inches, 
-eulmen 0-4, wing 5, tail 2-15, tarsus 045. (Mus. G. E. Shelley.) 
+culmen 0-4, wing 5, tail 2-15, tarsus 045. (Mus. G. E. Shelley.) 
 Young. Only differs from the adult in having rufous edgings to the 
 feathers of the upper parts, lower abdomen, and under tail-coverts. 
 
@@ -7609,7 +7609,7 @@ Cotile rufigula, Fischer Sf Reichenow, J.f.O. 1884, p. 53.
 Cotyle rufigula, Safoad. Ann. Mus. Civic. Genov. (2) i. p. 122 (1884). 
 Adult. Similar to C. fuligula, but conspicuously smaller and 
 darker, and having the throat much lighter rufous. Total length 
-5 inches, eulmen 0-35, wing 4-65, tail 2*05, tarsus 0*4. 
+5 inches, culmen 0-35, wing 4-65, tail 2*05, tarsus 0*4. 
 
 The other specimens collected by Sir W. C. Harris measure 4-6 
 inches in the wing. 
@@ -11932,7 +11932,7 @@ spot on the inner web; space between the bill and the eye velvety
 black ; cheeks and ear-coverts deep bine-black; entire under surface 
 chestnut, very deep on the flanks and abdomen; under wing-coverts 
 felvous; edge of wing fulvous mottled with black: " bill black; 
-legsllusky; iris dusky" (T. Aijres). Total length 8'S inches, eulmen 
+legsllusky; iris dusky" (T. Aijres). Total length 8'S inches, culmen 
 04, wing 5-2> tail 5-3, tarsus 0-55. 
 
 Hal. Southern Africa, from ]NTatal to the Transvaal and northwards 
@@ -12967,7 +12967,7 @@ Unl. vii. pi. 724.fig. 2.
 Hirondelleaceintureblanche,Month.Hist.Nat. Ois. Vi.p.Gil (1779), 
 White-bellied Swallow, Lath. Gen. Syn. ii. pt. 2, p. 507 (1783). 
 Hirundo fasciata, Gm. Si/st. Nat. i. p. 1022 (1788); Swains. Zool 
-Blustr. 2nd ser. i. pi. 17 (1829). 
+Illustr. 2nd ser. i. pi. 17 (1829). 
 Oecropis fasciata, Less. CompL Buff. viii. p. 499 (1837). 
 Atticora fasciata, Boie, Isis, 1844, p. 172; Cab. in Schomb. JReis, 
 Guian. iii. p. 672 (1848) • Bp. Consp. i. p. 337 (1850); Cass. Cat. 
@@ -13077,7 +13077,7 @@ with glossy greenish-black edges; axillaries and under wing-coverts
 
 earthy brown like the breast; quills dusky, more ashy brown along 
 
-the inner web. Total length 5*4 inches, eulmen 0*3, wing 3*4, tail 
+the inner web. Total length 5*4 inches, culmen 0*3, wing 3*4, tail 
 
 2-4, tarsus 0*45. 
 
@@ -13085,7 +13085,7 @@ A female from Tinta, Peru (R. "Whitely), in the Salvin-and-
 
 Godman collection, measures as follows:—Total length 5*8 inches, 
 
-eulmen 0*25, wing 4*4, tail 1*25, tarsus 0*45. 
+culmen 0*25, wing 4*4, tail 1*25, tarsus 0*45. 
 
 The shade of colour on the upper parts varies between steel-Hue 
 
@@ -15831,7 +15831,7 @@ b". Bill with a slight notch ; culmen [p. 233.
 yery long and equal to the tarsus. 4. PEOTONOTASIA, p. 249. 
 
 b. 
-Eictal bristles "so feebly developed that 
+Rictal bristles "so feebly developed that 
 they do not extend beyond the nostrils, 
 but still evident; bill slightly swollen 
 but not decurved. 
@@ -15886,7 +15886,7 @@ section; but without seeiDg a specimen I am unable to locate it more exactly.
 1 . LETTCOPEZA. 
 227 
 c. 
-Eictal bristles obsolete or feebly developed, 
+Rictal bristles obsolete or feebly developed, 
 so as not to reaeli beyond the 
 nostrils; bill swollen and not so 
 pointed, in fact greatly curved, and 
@@ -18206,7 +18206,7 @@ tinged with yellow ; sides of body washed with slaty blue, ashy
 brown on the flanks; thighs white; axillaries and under wing-
 coverts white; quills dusky below, white along the edge of the 
 
-inner web. Total length 4*2 inches, eulmen 04, wing 2-05, tail 1*0, 
+inner web. Total length 4*2 inches, culmen 04, wing 2-05, tail 1*0, 
 tarsus 0*6. 
 Hah. Texas. 
 
@@ -20926,7 +20926,7 @@ streaks on the latter and on the sides of the upper breast - lower
 
 7 . DEtfDKCECA. 301 
 breast and flanks white, the latter with blackish streaks. Total 
-length 4*5 inches, eulmen 0-5, wing 2*55, tail % tarsus 0*75. 
+length 4*5 inches, culmen 0-5, wing 2*55, tail % tarsus 0*75. 
 
 A young female, evidently in first winter plumage, resembles the 
 old female described above, but is nearly uniform on the upper surface, 
@@ -21193,7 +21193,7 @@ former with ashy bases ; quills dusky below, ashy white along the
 
 7 . BENDROECA. 305 
 edge of the inner web: " bill and feet black, the soles dirty yellowish; 
-iris black " (Coues). Total length 4-9 inches, eulmen 0*5, 
+iris black " (Coues). Total length 4-9 inches, culmen 0*5, 
 wing 2-55, tail 2, tarsus 0*65. (Mus. Balvin and Godman.) 
 
 Adult in whiter plumage. Brown above instead of grey, and the 
@@ -23567,7 +23567,7 @@ mala, Nov. 20 (0. Salvin).
 SIURUS. T?Pe* 
 Seiurus, Swains. Zool. Jonrn. iii. p. 171 (1827) S. auricapillus. 
 Enicocichla, Gray, List Gen. B. p. 22 (1840) S. auricapillus. 
-Siurus, StricM. Ann.fy Mag. Nat. Mist. vi. p. 422 (1841) S. auricapillus. 
+Siurus, Strickl. Ann.fy Mag. Nat. Mist. vi. p. 422 (1841) S. auricapillus. 
 Exochocichla, Van der Hoeven. 
 
 Range. The whole of North America, ranging in winter through 
@@ -24740,7 +24740,7 @@ sides of body and flanks olive-greenish washed with ashy • thighs
 olive-greenish externally, ashy whitish on their inner aspect; axillaries 
 and under wing-coverts yellow, with ashy white bases ; edge 
 of wing bright yellow; quills ashy brown below, paler ashy along 
-the edge of the inner web. Total length 4*8 inches, eulmen 0*5, 
+the edge of the inner web. Total length 4*8 inches, culmen 0*5, 
 wing 2-25, tail 2-15, tarsus 0*85. 
 
 Adult female. General colour above dull olive-brown, slightly 
@@ -25168,7 +25168,7 @@ the axillaries more olive-yellow; edge of wing bright yellow ; quills
 
 13 . GE0TH1YPIS. 363 
 dusky below, ashy along the edge of the inner web.
-5 inches, eulmen 0*6, wing 24 , tail 2, tarsus 0-9. 
+5 inches, culmen 0*6, wing 24 , tail 2, tarsus 0-9. 
 Hab. Yeragua. 
 Total length 
 
@@ -28943,7 +28943,7 @@ WmOTILTIIiM.
 
 Adult male. Similar to S. miniata, but with much less white on 
 
-the outer tail-feathers. Total length 5'o inches, eulmen 0*4:5, wing 
+the outer tail-feathers. Total length 5'o inches, culmen 0*4:5, wing 
 
 2-5, tail 2-5, tarsus 0*7. 
 
@@ -30462,13 +30462,13 @@ forming an oblique or crescentic outline.
 a5. Outer edges of inner secondaries white 
 and distinct. 
 
-a6. Larger• eulmen 0*5 inch: black base 
+a6. Larger• culmen 0*5 inch: black base 
 of outer feather not concealed by 
 under tail-coverts nigricans, p. 447 
 
 b6 
 
-. Smaller; eulmen 0*45 inch: black 
+. Smaller; culmen 0*45 inch: black 
 base of outer feather entirely concealed 
 by under tail-coverts parvirostris, p. 448» 
 
@@ -31304,7 +31304,7 @@ part of ear-coverts, sides of face, cheeks, throat, abdomen, and under
 tail-coverts white• fore neck, breast, sides of body, and thighs 
 delicate bluish grey; axillaries and under wing-coverts ashy white; 
 quills dusky blackish below, whitish along the edge of the inner 
-web. Total length 4*5 inches, eulmen 0-5, wing 1*95, tail 1*0, 
+web. Total length 4*5 inches, culmen 0-5, wing 1*95, tail 1*0, 
 tarsus 0*7. 
 
 POLIOPTIXA. 455 
@@ -32593,7 +32593,7 @@ dusky below, with a great deal of white along the inner webs.
 
 1 . MOTACILLA. 
 471 
-Total length 7*2 inches, eulmen 0*55, wing 3*59 tail 3*55, tarsus 0-85. 
+Total length 7*2 inches, culmen 0*55, wing 3*59 tail 3*55, tarsus 0-85. 
 
 (3£us. H. Seebohm.) 
 
@@ -34345,7 +34345,7 @@ Madag., Ois. p. 158 (1868); Gray, Hand-l B. I p. 24* \, no. 357o
 (1869) ; Sharps, P. Z. S. 1870, p. 80o; id. Cat Afr. B. p. 73 
 (1871); Hartl Vog. Madag. p. 123 (1877); Milne-Edwards fy 
 Grandid. Hist. Nat. Madag., Ois. p. 343, pis. exxxiii, exxxiv. 
-(1882) ; Safoin, Cat. StricM. Coll. p. 80 (1882). 
+(1882) ; Safoin, Cat. Strickl. Coll. p. 80 (1882). 
 Adult General colour above dark slaty grey, inclining to olive-
 green on the lower back and rump; upper tail-coverts black, slightly 
 washed with olive, the outer ones edged and tipped with yellowish 
@@ -39067,13 +39067,13 @@ surface of body ashy fulvous, the bases of the feathers brighter buff,
 the breast rather browner, with indistinct longitudinal spots of 
 slightly darker brown; under wing-coverts darker than the breast, 
 fulvous-brown with clearer buff edgings; quills brown below, 
-smoky buff along the inner web. Total length 0*7 inches, eulmen 
+smoky buff along the inner web. Total length 0*7 inches, culmen 
 0*75, wing 3-6, tail 2-6, tarsus 1*15. 
 
 Similar to A. jpyrrhonotus, but more ashy brown above, and 
 especially distinguished by its dull white breast, belly, and under tail-
 coverts, the breast obscurely mottled with dusky spots. Total length 
-(5'8 inches, eulmen 0*7, wing 3*8, tail 2*7, tarsus 1*35. 
+(5'8 inches, culmen 0*7, wing 3*8, tail 2*7, tarsus 1*35. 
 
 Hab. West Africa, from Gaboon to the Congo. 
 
@@ -43291,7 +43291,7 @@ and lower surface of quills yellow, the primaries black at their ends :
 " upper mandible horn-brown, under mandible greyish blue ; feet 
 
 yellowish grey; iris brown" (Fische?*). Total length 6 inches, 
-eulmen 0*55, wing 3-4, tail 2-3, tarsus 1. (21its. G. E. Shelley.) 
+culmen 0*55, wing 3-4, tail 2-3, tarsus 1. (21its. G. E. Shelley.) 
 
 Young. Browner above than the adult, with sandy-whitish edges 
 to the feathers instead of yellow, the margins to the wing-coverts 

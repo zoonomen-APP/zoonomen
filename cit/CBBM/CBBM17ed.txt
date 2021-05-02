@@ -1508,7 +1508,7 @@ pi. 28 (1806).
 Garrulus nsevius (nee Licht), Yieill. N, Diet, cTIIist. Nat. xxix. 
 
 p. 431, pi. 6. fig. 4 (1819). 
-Galgulus nsevius (nee Licht.), Yieill Bnc. Meth. ii. p. 868 (1823). 
+Galgulus nsevius (nee Licht.), Yieill Enc. Meth. ii. p. 868 (1823). 
 Coracias nsevius (nee Licht), Waaler, Syst Av. Coracias, spec. 3, 
 p. 217 (1827). 
 Coracias bengalensis indica, Temm. Tabl Meth. p. 10 (1839). 
@@ -5747,11 +5747,11 @@ Merops rochechouardi, IZeude, Ann. Set. Nat. 1873 (testeDresser).
 Adult male. Differs from M. bicolor in having the head and 
 mantle deep chestnut instead of bay, and in having the throat more 
 constantly bluish : " bill black; feet blackish; iris dragon's blood 
-red" (A. Everett). Total length 11 inches, eulmen 1*55, wing 4*4, 
+red" (A. Everett). Total length 11 inches, culmen 1*55, wing 4*4, 
 tail 3, centre tail-feathers 5, tarsus 0*4. 
 
 Adalt female. Similar to the male in colour. Total length 9*5 
-inches, eulmen 1*35, wing 4, tail 3, tarsus 0*4. 
+inches, culmen 1*35, wing 4, tail 3, tarsus 0*4. 
 
 Young. Entirely green above, excepting the light blue lower back 
 and rump; chin and upper throat white, washed with yellow; 
@@ -6737,7 +6737,7 @@ the forehead or eyebrow, the latter replaced by a narrow line of
 blue, and the cheeks having a broad streak of cobalt-blue; lower 
 back, rump, upper tail-coverts, and tail blue, instead of golden olive 
 or green : u bill black; feet blackish, the hinder part of the tarsus 
-paler; iris scarlet" ( W. V. Legge). Total length 11*3 inches, eulmen 
+paler; iris scarlet" ( W. V. Legge). Total length 11*3 inches, culmen 
 1*8, wing 5*3, tail 3-5, centre feathers 5, tarsus 0*45. 
 
 Adult female. Similar to the male. Total length 11#5 inches, 
@@ -8196,7 +8196,7 @@ lc.v. 21(1817).
 Melittotheres nubicus, Reichenb. Handb., Merop. p. 82 (1852). 
 Adult Similar to M. natalensis, but distinguished by having the 
 throat green like the head: " bill black; feet dusky lead-colour ; 
-iris crimson " (Yon Heuglin). Total length 13 inches, eulmen 1*6, 
+iris crimson " (Yon Heuglin). Total length 13 inches, culmen 1*6, 
 wing 5*8, tail 3*8, tarsus 0-4. 
 
 Hah. West Africa, from Senegambia to the Niger. Equatorial 
@@ -12569,7 +12569,7 @@ unspotted or with only one or two green-tipped feathers : " bill and
 
 feet black; iris dark brown " (J. JStolzmann). Total length 8*5 
 
-inches, eulmen 1-8, wing 3'45, tail 3, tarsus 0-3. 
+inches, culmen 1-8, wing 3'45, tail 3, tarsus 0-3. 
 
 Adult female. Similar to the female of G. americana^ but white 
 
@@ -12577,7 +12577,7 @@ below, less tinged with ochreous buff, and having white under tail-
 
 coverts and broader white bands on the quills. Total length 
 
-8-5 inches, eulmen 1*8, wing 3-55, tail 2-8, tarsus 0-4. 
+8-5 inches, culmen 1*8, wing 3-55, tail 2-8, tarsus 0-4. 
 
 Hah. Peru. 
 
@@ -14965,13 +14965,13 @@ bright lazuli-blue, mottled with white centres to the feathers; flanks
 blackish ; thigh-feathers buff, edged with black : " upper mandible 
 black, the lower one very dark brown, almost black, paler at the 
 base; logs and feet vermilion" (W. Davison). Total length 
-8 inches, eulmen 1'9, wing 3'4, tail 1-4, tarsus 0-4. (Mus. Lugd.) 
+8 inches, culmen 1'9, wing 3'4, tail 1-4, tarsus 0-4. (Mus. Lugd.) 
 
 Adult female. Similar to the male, but has the breast deep orange-
 rufous, without any blue pectoral band: " bill black, the lower 
 mandible dull vermilion; feet also vermilion" (J. Whitehead); 
 "iris very dark brown" (W. Davison). Total length 7-6 inches, 
-eulmen 2-0, wing 3-4, tail 1-6, tarsus 0-4. 
+culmen 2-0, wing 3-4, tail 1-6, tarsus 0-4. 
 
 Younger males generally show a good deal of orange-buff on the 
 underparts. The bill, according to Mr. Whitehead, is black with 
@@ -15753,7 +15753,7 @@ the body: bill and feet blackish, tinged slightly with red: "bill
 
 black; feet brownish, soles red ; iris brown" C W. A. Foibles). 
 
-Total length 5 inches, eulmen 1*3, from gape T75, wing 2'4, tail 
+Total length 5 inches, culmen 1*3, from gape T75, wing 2'4, tail 
 
 1-1, tarsus 0-25. 
 
@@ -15910,7 +15910,7 @@ edged with ultramarine; tail blackish, with a tinge of ultramarine
 above; throat and a patch of feathers along the sides of the neck 
 white ; lores, cheeks, and the rest of the under surface of the body 
 rich cinnamon-rufous, paler in very old birds : bill and feet coral-
-red; eyes dark brown. Total length 5 inches, eulmen 1*3, wing 
+red; eyes dark brown. Total length 5 inches, culmen 1*3, wing 
 2-2, tail 0-9, tarsus 0-3. 
 
 Hah. West Africa from Gaboon to Angola, as well as the islands 
@@ -16266,7 +16266,7 @@ of the neck white, the latter slightly tinged with orange : entire
 under surface white, with a bluish lustre on the breast in some 
 lights ; sides of the breast and flanks rich ultramarine : '• bill black ; 
 feet greenish grey ; irides dark blackish brown " {J. Gould). Total 
-length 4-8 inches, eulmen 1*15, wing 2, tail 0-85, tarsus 0-25. 
+length 4-8 inches, culmen 1*15, wing 2, tail 0-85, tarsus 0-25. 
 
 A female in the Salvin-Godmau collection, instead of being deep 
 ultramarine or purplish blue, is quite light blue in comparison to the 
@@ -17931,7 +17931,7 @@ abdomen ; under wing-coverts orange; quills dusky below, rufous
 o2 
 196 A.ICEDIKID2E. 
 
-along the inner web. Total length 4 inches, eulmen 1*15, wing 1*75, 
+along the inner web. Total length 4 inches, culmen 1*15, wing 1*75, 
 tail 07*5, tarsus 0*3. 
 Hob. Forests of the Interior of the Gold Coast. 
 
@@ -17970,9 +17970,9 @@ insula of Australia.
 Key to the Species. 
 
 a. Bill yellow, with a black mark near the end of 
-the eulmen , torotoro, p. 196. 
+the culmen , torotoro, p. 196. 
 b. Bill yellow, without any black mark on the 
-eulmen Jlavirostris, p. 197. 
+culmen Jlavirostris, p. 197. 
 1. Syma torotoro. 
 Syma torotoro, Less. Toy. Coqmlle, ZooL Atlas, pi. 81 (1826); id. 
 in Feruss. Bull. Sci. Nat. xi. p. 443 (1827); id. Toy. Coquille, i. 
@@ -20736,7 +20736,7 @@ Total length 11 inches, culmen 2-5, wing 5*15. tail 3*3, tarsus
 0-55. 
 
 Adult female. Similar to the male. Total length 10*5 inches, 
-eulmen 2*6, wing 4*8, tail 3-1, tarsus 0-55. 
+culmen 2*6, wing 4*8, tail 3-1, tarsus 0-55. 
 Uab. Andamans and Nicobars. 
 
 a. $ ad. sk. S. Andamans, May 4 ( W. Davison). Hume Coll. 
@@ -22081,7 +22081,7 @@ Adult. Similar to M. cyanoleucus, and haying a greenish-bine wash
 on the head, but distinguished by its entirely red bill; the under 
 surface is white, with faint grey frecklings on the breast and sides 
 of body: " bill scarlet; feet dull purplish red; iris dark brown *' 
-(Sir A. Smith). Total length 9 inches, eulmen 2*05, wing 3*9, tail 
+(Sir A. Smith). Total length 9 inches, culmen 2*05, wing 3*9, tail 
 -2*4, tarsus 0*55. 
 
 Bab. East Africa, from Natal along the coast to the Zanzibar 
@@ -22864,7 +22864,7 @@ the white collar of the hind neck represented only by white bases
 to the blue feathers; a small supraloral white spot; cheeks and 
 under surface of body white, with pink and blue reflections on the 
 breast under certain lights; lower abdomen and under tail-coverts 
-bright blue, Total length 8 inches, eulmen 1*75, wing 3*65, tail 
+bright blue, Total length 8 inches, culmen 1*75, wing 3*65, tail 
 2-35, tarsus 0-5. 
 
 A<hdt female. Differs from the male in having the entire breast 
@@ -23634,7 +23634,7 @@ Adult female. Like its ally, II. sacer, this species appears to
 undergo a similar change of plumage, the fully adult bird having a 
 white eyebrow and nuchal collar: " bill black, white at base; feet 
 dark olive; iris dark" ((?. E. Richards). Total length. 8*5 inches, 
-eulmen 1*8, wing 3-8, tail 2*5, tarsus 0*55. 
+culmen 1*8, wing 3-8, tail 2*5, tarsus 0*55. 
 
 Young. Much duller In colour and more dusky green than the 
 
@@ -23762,7 +23762,7 @@ webs ; crown of head green in the centre; forehead, eyebrow, and
 sides of crown pure white, encircling the nape ; lores black; eyelid 
 white; ear-coverts dark green ; below the nape a band of black, 
 followed by a white collar round the hind neck; cheeks and entire 
-under surface of body pure white. Total length 8*5 inches, eulmen 
+under surface of body pure white. Total length 8*5 inches, culmen 
 1-75, wing 3*95, tail 2*8, tarsus 0-55. 
 Bab. Island of Tutuila, Samoa group. 
 
@@ -23778,7 +23778,7 @@ Halcyon sacra (nee Gm.), Salvin, P. Z. S. 1879, p. 129 (Tutuila).
 
 Adult. Similar to E. sacer, but having a broad white frontal 
 band which is continued into the white eyebrow and surrounds the 
-hinder nape in a band. Totals length 8*5 inches, eulmen 1-8, wing 
+hinder nape in a band. Totals length 8*5 inches, culmen 1-8, wing 
 3-85, tail 2-7, tarsus 0-5. 
 
 Bab. Island of Tutuila, Samoa group. 
@@ -23791,7 +23791,7 @@ spot; the collar on the hinder nape cinnamon; the cheeks and under
 surface being also fulvous, paler on the throat, but deepening to 
 orange-buff on the lower abdomen, flanks, and under tail-coverts ; 
 under wing-coverts deep orange-buff. Total length 8'5 inches, 
-eulmen 1*85, wing 3*9, tail 2-8, tarsus 0*55. 
+culmen 1*85, wing 3*9, tail 2-8, tarsus 0*55. 
 Bab* Island of Tanna, New Hebrides. 
 
 a. 
@@ -27028,7 +27028,7 @@ Tanysiptera galatea, pi, Salvacl Orn. Papuasia etc. i. p. 438 (1880),
 iii. p. 523 (1882) j JFinsch, Vog. der Siidsee, p. 24 (1884). 
 Adult Similar to T. galatea, and having the mantle blue-black 
 as in that species, but easily distinguished by its much smaller 
-bill. Total length 12 inches, eulmen 1*35, wing 4*1, tail 3*9, 
+bill. Total length 12 inches, culmen 1*35, wing 4*1, tail 3*9, 
 central feathers 7, tarsus 0*6. 
 
 Hob. S.E. New Guinea. 
@@ -27065,7 +27065,7 @@ with a patch of black feathers slightly washed with blue at the
 sides of the chest; thighs with a few blue feathers near the tibial 
 joint; axillaries and under wing-eoverts black with a slight wash 
 of deep blue, the blue brighter near the edge of the wing; quills 
-black. Total length 15 inches, eulmen 1*3, wing 4*35, tail 4*7, 
+black. Total length 15 inches, culmen 1*3, wing 4*35, tail 4*7, 
 central tail-feathers 10*3, tarsus 0*7. 
 
 Hob. Kossel Island, Louisiade Archipelago. 
@@ -27258,7 +27258,7 @@ crown of head and hind neck ultramarine, brighter than the back, a
 little brighter above the ear-coverts ; sides of face, ear-coverts, and 
 entire under surface of body ultramarine; under tail-coverts white; 
 under wing-coverts, axillaries, and under surface of quills black; 
-the edge of the wing blue. Total length 13 inches, eulmen 1*5, 
+the edge of the wing blue. Total length 13 inches, culmen 1*5, 
 wing 4*2, tail 3*7, central tail-feathers 7, tarsus 0*7. 
 
 Hob. Island of Mafor in the Bay of Geelvink. 
@@ -27643,7 +27643,7 @@ thighs green ; quills below blackish, ashy rufous along the inner
 318 
 IIOMOTIBJS. 
 
-web. Total length. 15 inches, eulmen 1*6, wing 4%5, tail 4*3, centre 
+web. Total length. 15 inches, culmen 1*6, wing 4%5, tail 4*3, centre 
 feathers 9-5, tarsus 0*8. 
 Hab. Central America from Yucatan to Costa Rica. 
 
@@ -27860,7 +27860,7 @@ id. Orn. Perou, iii. p. 108 (1886).
 Adult. Similar to M. momola, but instead of having a chestnut 
 patch on the hind neck, the whole of the latter is chestnut 
 and this colour overspreads the upper mantle; under surface of 
-body rufescent. Total length 16 inches, eulmen 1*7, wing 5, tail 6, 
+body rufescent. Total length 16 inches, culmen 1*7, wing 5, tail 6, 
 centre tail-feathers 9, tarsus 1*1. 
 
 Hab. Prom Colombia to the Peruvian Amazons *. 
@@ -27891,7 +27891,7 @@ the mantle; the green of the upper surface and tail
 lighter and more oehraceous than in M. brasiliensis; under surface 
 of body cinnamon-rufous, not green, but showing a little green on 
 the throat: "iris rich brownish red" (F. Simons). Total length 
-15*5 inches, eulmen 1*7, wing 5, tail 5*8, centre tail-feathers 9*8, 
+15*5 inches, culmen 1*7, wing 5, tail 5*8, centre tail-feathers 9*8, 
 tarsus 1*05. 
 The Venezuelan specimens differ from those from Santa Marta 
 in having the posterior margin of the black crown nearly pure 
@@ -28637,7 +28637,7 @@ becoming paler on the abdomen, which is white with a fulvous
 330 MOMOTIDJS. 
 
 tinge; thighs green ; under tail-coverts buff; under wing-coverts 
-and quill-lining pale tawny buff. Total length 14*7 inches, eulmen 
+and quill-lining pale tawny buff. Total length 14*7 inches, culmen 
 1-65, wing 5*1, tail om5, centre tail-feathers 7*5, tarsus 1*15. 
 
 Hab. Guatemala. 
@@ -28806,7 +28806,7 @@ olive, washed with brighter green, the breast washed with bluish
 green; abdomen and under tail-coverts creamy white; flanks 
 ochreous buff, washed with green ; under wing-coverts and axillaries 
 tawny buff; quills dusky below, chestnut along the inner web. 
-Total length 6-5 inches, eulmen 1*05, wing 2'8, tail 2*55, tarsus 
+Total length 6-5 inches, culmen 1*05, wing 2'8, tail 2*55, tarsus 
 0*75. 
 
 Eab. The same as that of the genus. 
@@ -29963,7 +29963,7 @@ Bucorax, Sundev. (Efv. Kongl. Vetens. Ak. Fork. vi.
 
 p. 161 (1849) ? B. abyssinicus. 
 Bill long, pointed, compressed and slightly curved. Casque 
-covers the basal third or more of the eulmen, and is either elevated, 
+covers the basal third or more of the culmen, and is either elevated, 
 subcylindrieal and open in front, or keel-shaped and compressed. 
 Throat naked. Tail rather short, subequal. Tarsus very long, 
 about twice as long as the middle toe and claw. 
@@ -30891,7 +30891,7 @@ Bill large, curved and compressed; casque large or very large,
 subcrescentic, somewhat swollen posteriorly, and extending an inch 
 or more behind the vertical from the eye; compressed and elevated 
 anteriorly, extending over the basal throe-fifths of, and forming an 
-obtuse angle with, the eulmen; middle of throat feathered; a wide 
+obtuse angle with, the culmen; middle of throat feathered; a wide 
 naked patch of skin on either side; crest moderate; tail wedge-
 shaped, white (A. montani) or with middle pair of tail-feathers 
 black, outer pairs white or black with wide white ends. 
@@ -31672,7 +31672,7 @@ Type.
 Penelojjides, Reich. Syst, Av. pi. xlix. (1849) P. panim. 
 
 Bill fairly large and curved. Casque moderate, compressed, and 
-somewhat elevated, covering the basal three fifths of the eulmen 
+somewhat elevated, covering the basal three fifths of the culmen 
 and not extending over the skull. Basal half of both mandibles 
 covered with a plate, and either or both transversely grooved. Tail 
 subequal, white (stained rufous), with wide black ends or entirely 
@@ -35398,7 +35398,7 @@ C. Hose, Esq. (,*._,.
 
 18. OETHOLOPHUS. 
 Bill fairly large and cuived. Casque moderately elevated, keel-
-shaped, and covering the greater part of the eulmen. A tract of 
+shaped, and covering the greater part of the culmen. A tract of 
 feathers down the middle of the naked throat. Tail very long, 
 wedge-shaped, black tipped with white, middle pair of tail-feathers 
 very much the longest. Crest of long soft feathers, those on the 

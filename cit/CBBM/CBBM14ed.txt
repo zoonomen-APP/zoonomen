@@ -1902,7 +1902,7 @@ Basal portion of tail rufous; no white tips:
 1 Hyiotheretes rnf ventris. 
 
 Pepoaza vientre roxiso, Azara, Apunt n. p. 172. 
-Tyrannus rufiventris, Vieill. Nouv. Diet. xxxv. p. 98: id. Bnc. Meth 
+Tyrannus rufiventris, Vieill. Nouv. Diet. xxxv. p. 98: id. Enc. Meth.
 
 
 p. 856. 
@@ -6801,7 +6801,7 @@ dy e. (S J ad. sk. Roraima, Brit. Guiana. Sclater Coll.
 (WMtely). 
 
 11. Euscarthmus granadensis. 
-Todirostrum granadense, Hartl. Eev. Zool. 1843, p. 289; StricM. Contr. 
+Todirostrum granadense, Hartl. Eev. Zool. 1843, p. 289; Strickl. Contr. 
 Orn. 1852, p. 41, pL 85; Sclater, P. Z. S. 1855, p. 67, et 1857, 
 
 p. 84. 
@@ -23956,7 +23956,7 @@ Hahm Upper Amazonia.
 a. 
 6 ad. sk. Upper Amazons (Bates). Sclater Coll. 
 2. Heterocercus flavivertex. 
-Elsenia linteata, StricM. Contr. Orn. 1850, p. 121, pi. 03 ( ? ). 
+Elsenia linteata, Strickl. Contr. Orn. 1850, p. 121, pi. 03 ( ? ). 
 Heterocercus flavivertex, Pelz. Orn. Bras. pp. 125, 186; Set. et Sal v. 
 Nomencl. p. 55. 
 
@@ -25897,7 +25897,7 @@ e. Ad. sk Gaunai, Bolivia {Buckley). Salvin-Godman Coll.
 4. Lathria cinerea. 
 Le Cotinga cendre, Le Vaill Ois. A?ner. et Ind. p. 98, pi. 44. 
 Ampelis cinerea, Vieill. Kouv. Diet, viii. p. 162 (1817). 
-Ampelis cineracea, Vieill Bnc. Meth. p. 761. 
+Ampelis cineracea, Vieill Enc. Meth. p. 761. 
 Lathria cinerea, Siu. Nat. Libr., Flycatch. p. 78, pi, 2 ; Salv. Cat. 
 
 
@@ -26824,7 +26824,7 @@ A. Whole upper surface chestnut-brown. 1. rubra, p. 365.
 B. Back dull brown % fusca, p. 36(5.' 
 1. Casiornis rubra. 
 Suiriri roxo, Azara, Apunt. ii. p. 128, 
-Museicapa rubra, Vieill. Nouv. Diet. xxi. p. 457; id. Bnc. Meth. 
+Museicapa rubra, Vieill. Nouv. Diet. xxi. p. 457; id. Enc. Meth. 
 
 p. an. 
 Dasycepbala rubra, Burm. 8yst. Ueb. iii. p. 86. 
@@ -28078,7 +28078,7 @@ Anipelis cotinga, Linn. S. N. i. p. 298 ; Burm. Syst. Ueb. ii. p. 430;
 
 Cab. et Hein. Mus. Hein. ii. p. 105. 
 Le Cotinga, Daub. PL JBnl. 186. 
-Ampelis cserulea, Vieill Bnc. Meth. p. 760; id. Gal Ois. i. p. 183, 
+Ampelis cserulea, Vieill Enc. Meth. p. 760; id. Gal Ois. i. p. 183, 
 
 pi. 116 j Cab. in Schomb. Quian. iii. p. 693. 
 Cotinga coelestis, Gray, List Gen. B. p. 46 (1841); Bp. Consp. i. 
@@ -28137,7 +28137,7 @@ et Salv. Nomencl. p. 58; Salv. Cat. StrickL Coll. p. 329.
 
 Ampelis superha, Shaw, Nat Misc. xix. pi. 821, 
 
-Ampelis cotinga, VieilL Bnc. Meth. p. 761; Shaw, Nat. Misc. xix. 
+Ampelis cotinga, VieilL Enc. Meth. p. 761; Shaw, Nat. Misc. xix. 
 
 pi. 817; Max. Beitr. iii. p. 391. 
 Cotinga cserulea, Bp. Consp. i. p. 175. 
@@ -28967,7 +28967,7 @@ Bolivia.
 Key to the Genera. 
 
 A. 
-Eictal bristles strongly developed; gape 
+Rictal bristles strongly developed; gape 
 narrower. 
 a. Lores densely feathered. 
 a'. No throat-wattle or crest on head. 
@@ -29055,7 +29055,7 @@ J. f. 0. 1869, p. 310 (Costa Rica) ; Pelz. Orn. Bras. p. 134; Tacz.
 Orn. Per. ii.p. 389 j Salv. IbisK 1885, p. 305 (Br. Guiana). 
 Muscicapa rubricollis, Gm. S. N. i. p. 933. 
 Muscicapa porphyrobroncha, SJiaw, Nat. Misc. ii. pi. 63. 
-Querula rubricollis, "Vieill. Bnc. Meth. p. 768; id. Gal. Ois. i. p. 181, 
+Querula rubricollis, "Vieill. Enc. Meth. p. 768; id. Gal. Ois. i. p. 181, 
 
 pi. 115; Less. Tr. d. Orn. i. p. 363; Bp. Consp. i. p. 179; Sclater, 
 
@@ -32973,7 +32973,7 @@ Melampitta, Schlegel, Nat. Tijchchr. iv. p. 47 (1873) M. lugubris.
 Until anatomical investigations have been made, it must remain 
 
 doubtful whether this typo should be referred to the Pitticlce or to the 
-Timeliidcef. The single species known is restricted to New Guinea. 
+Timeliidaef. The single species known is restricted to New Guinea. 
 
 Head of Melampitta lugubris. 
 
