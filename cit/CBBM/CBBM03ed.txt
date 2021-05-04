@@ -1601,7 +1601,7 @@ uv
 r. 2 j -sk-SkSne, Sweden, April 8, 1874. Purchased. 
 s. Ad. sk. Belgium, Dec. 8, 1870. Brussels Museum [P.], 
 t. Juv. sk. Belgium, Dec. 8,1870. Brussels Museum [P.l 
-u. Ad. st. France. P. B. Sharpe, Esq. [P.]. 
+u. Ad. sk. France. P. B. Sharpe, Esq. [P.]. 
 v, w. 2 ad. sk. Buyukdere, Turkey, Feh. 20, R. B. Sharpe, Esq. [P. l 
 1874 (T. Bobson). 
 a\ Ad. sk. Crimea. J. Gould, Esq. 
@@ -2035,8 +2035,8 @@ America, ranging into Mexico.
 a,b. <$ % ad. st. England. Purchased. 
 
 c. Jim. st. England. Purchased. 
-d. Ad. st. Cambridgeshire. Mr. J. Baker [C,]. 
-e. Ad. st. Devonshire. Col. Montagu [P.J. 
+d. Ad. sk. Cambridgeshire. Mr. J. Baker [C,]. 
+e. Ad. sk. Devonshire. Col. Montagu [P.J. 
 /. Ad. sk. Devonshire. Col. Montagu [P.J. 
 V-2 ad. sk. Skane, Sweden, Nov. 18, Purchased. 
 1873. 
@@ -2347,7 +2347,7 @@ Hah. Australia and Tasmania.
 a. Ad. sk. Australia. Linnean Society [P.]. (Type 
 of species.) 
 b. Ad. sk Australia. 
-c. Ad. st. Van Diemen's Land. Konald Gunn, Esq. [P.]. 
+c. Ad. sk. Van Diemen's Land. Konald Gunn, Esq. [P.]. 
 d. Ad. sk. Murray xiver. Sir George Grey [P.J. 
 e. Ad. sk. South Australia. J. Gould, Esq. [C.]. 
 /. d ad. sk Yarrundi river. J. Gould, Esq. [C.j. 
@@ -2555,7 +2555,7 @@ A. Ad. sk. Accra.
 R. B. Sharpe, Esq. [P.]. 
 i. Ad. sk. Fantee. 
 h. Ad. sk. Wassaw (BUssett). R. B. Sharpe, Esq. [P.]. 
-I. Ad. st. River Gambia. 
+I. Ad. sk. River Gambia. 
 m. 6 ad. sk. Angollala, Shoa, Feb. 1842. Sir W. C. Harris [0.]. 
 n. 
 9 ad. sk. Wadela Plateau, April 21, W. T. Blanford, Esq. [C.]. 
@@ -2628,7 +2628,7 @@ very distinct white collar across the chest, all the feathers of which,
 however, are much mixed with brown-
 Bab. South Africa, 
 
-ft. Ad. st. South Africa. J. Gould, Esq. 
+ft. Ad. sk. South Africa. J. Gould, Esq. 
 
 b. Ad. sk. South Africa. J. Rocke, Esq. [P.], 
 <?. Juv. sk. South AMca. 
@@ -2669,7 +2669,7 @@ white; feet black; iris very dark brown. Total length 24 inches,
 culmen 3*85, wing 17*7, tail 11, tarsus 3*1. 
 Bab. Xorth-east Africa. 
 
-a. Ad. st. Abyssinia. 
+a. Ad. sk. Abyssinia. 
 Dr. Riippell [C.]. 
 b. Ad. sk. Abyssinia. R. B. Sharpe, Esq. 
 <?. Ad. sk. Shoa. SirW.C. Harris [C."|. 
@@ -2786,7 +2786,7 @@ J ad. sk. Castle Eden, Durham, J.H. Gurney,Esq., j an. [P.].
 May 9, 1866. 
 h. Tar, st. "Yorkshire. 
 <?, d. Pull, st, Cambridgeshire. Mr. J. Baker TCI 
-e. Ad. st. Saffron Walden, Et^ex. Mr. J. Clark [0.1. 
+e. Ad. sk. Saffron Walden, Et^ex. Mr. J. Clark [0.1. 
 /. 
 g ad. sk. Taplow, Berks, April J. Gould, Esq. [0.]. 
 1865. 
@@ -2922,7 +2922,7 @@ blackish; the grey on the ear-coverts and sides of the crown less distinct.
 Hab. Northern Asia, from the Altai Mountains to Eastern Siberia ; 
 
 China and Japan. 
-a. Ad. st. North China. Mr. Fortune [C], 
+a. Ad. sk. North China. Mr. Fortune [C], 
 b, c. c? § ad. sk. North China. Capt. Blakiston [_C], 
 d. $ ad. sk. Shanghai. J. Grould, Esq. 
 e. Ad. sk. Shanghai. Secretary of State for India 
@@ -2976,8 +2976,8 @@ tarsus 1*85.
 
 JIab. North America: Atlantic coast of the United States. 
 
-a. Ad. st. North America. HJR..EL Duke of Sussex [P.]. 
-b. Ad. st. North America. 
+a. Ad. sk. North America. HJR..EL Duke of Sussex [P.]. 
+b. Ad. sk. North America. 
 6. CORONE, 
 Type. 
 Corone, Kaup, Natiirl Sy&h p. 99 (1829) C. corone. 
@@ -3149,13 +3149,13 @@ Obs. On the range of this Crow and its remarkable habit of in tor-
 breeding with C. Memalis see an important sketch by Professor Schlegel 
 in the 'Museum dos Pays-Pas' (7.c.)» 
 
-a. Ad. st. Great Britain. 
+a. Ad. sk. Great Britain. 
 b, c. Juv. st. Great Britain. 
 d}e,f. Pull, st, Cambridgeshire, June 1853. Mr. J. Baker [0.1 
 
 
 g. J ad. st. Cambridgeshire. Mr. J. Baker [C.I. 
-'L Ad. st. Wiltshire. Col. Montagu HP.]. 
+'L Ad. sk. Wiltshire. Col. Montagu HP.]. 
 *. Ad. sk. Hempstead, Norfolk. J. H. Gurney, Esq.,, 
 Junr. [P.]. 
 k J ad. sk. Stockholm, April 28,1873. Purchased. 
@@ -3498,7 +3498,7 @@ March 10, 1876.
 
 
 e. J ad. st. Bushey, Herts. Purchased. 
-/ . Ad. st. Near Paris. E. B. Sharpe, Esq. [P.] 
+/ . Ad. sk. Near Paris. E. B. Sharpe, Esq. [P.] 
 g. Juv. sk. Turin. M. Bonelli rCVI. 
 X. S ad. sk. Bahyna, E. Siberia, May 18, Dr. Dybowski f C] t 
 1872. 
@@ -4402,7 +4402,7 @@ length 16*5 inches, culmen 1*9, wing 9, tail 64 , tarsus 1*85.
 
 Eab. Jamaica. 
 a. Ad. sk. Jamaica. Purchased. 
-b. Ad. st. Jamaica. P. H. Gosse, Esq. [C.l. 
+b. Ad. sk. Jamaica. P. H. Gosse, Esq. [C.l. 
 c. cJad.sk. Moneague, Jamaica ( W. Smithsonian Institution [P.]. 
 T. March). 
 d. Sternum. Jamaica. P. H . Gosse, Esq. [C.]. 
@@ -4493,7 +4493,7 @@ Obs. The maje is one third larger than the female. ( Verreaux and
 Des Murs.) 
 Hab. New Caledonia. 
 
-a. Ad. st. New Caledonia, M. Verreaux. 
+a. Ad. sk. New Caledonia, M. Verreaux. 
 11. GYMNOCORAX. 
 Type. 
 Gymnocorvus, Less. Traite, p. 327 (1831) G. senex. 
@@ -4693,13 +4693,13 @@ Hab. Northern and central portions of Europe and Northern
 
 Asia, ranging into Northern China. 
 
-a. Ad. st. Kent. William George, Esq. [P.], 
+a. Ad. sk. Kent. William George, Esq. [P.], 
 b. Ad. sk. Sweden, Oct. 19,1859. Prof. A. W. Malm [P.J. 
-c. Ad. st. Jura, France. K. B. Sharps, Esq. [P.] 
-d. Ad. st. Germany. Dr. Kaup [P.: N. macrorhynchos], 
+c. Ad. sk. Jura, France. K. B. Sharps, Esq. [P.] 
+d. Ad. sk. Germany. Dr. Kaup [P.: N. macrorhynchos], 
 e. Ad. sk. Germany. Dr. Kaup [P.], 
 /. Jun. sk. Germany. Dr. Kaup [P.: N. Irachyrhynchus]. 
-g. Ad. st. Russia. Moscow Museum [P.]. 
+g. Ad. sk. Russia. Moscow Museum [P.]. 
 h. Ad. sk. Russia. Moscow Museum [P.J. 
 i. Ad. sk. Kamtschatka. Purchased. 
 k. Skeleton. Norfolk. Purchased. 
@@ -4758,7 +4758,7 @@ Hob. Himalaya Mountains.
 a. Ad. sk. Nepal. B. H. Hodgson, Esq. [P. 
 b} c, d. Ad. sk. Nepal. B. H. Hodgson, Esq. IP.' 
 e9f. Juv. sk. Nepal. B. II. Hodgson, Esq. [P." 
-g. Ad. st. Nepal. B. H. Hodgson, Esq. [P." 
+g. Ad. sk. Nepal. B. H. Hodgson, Esq. [P." 
 h, loim. sk. Nepal. B. H. Hodgson, Esq. IP." 
 i. Juv. sk. Nepal. B. H. Hodgson, Esq. [P.; 
 k. $ ad. sk. Nepal. Purchased. 
@@ -4857,7 +4857,7 @@ under wing-coverts also edged with whitish; on the breast-feathers
 a few remains of obsolete whitish edgings. 
 Sab. Rocky-Mountain region of Western North America. 
 
-a. Ad. st. Black Hills, U. S. A. Purchased. 
+a. Ad. sk. Black Hills, U. S. A. Purchased. 
 b. Ad. sk. Vancouver Island. Dr. Lyall [P.]. 
 e. Jim. sk. Western side of the Rocky J. K. Lord, Esq. [P.]. 
 Mts.? British Columbia. 
@@ -4967,7 +4967,7 @@ a. 6 ad. New South Wales ... . 18 10-5 8-0 2-15
 b. [ $ ] ad. Queensland 16-5 9-3 7-4 1'95 
 Hah. Australia. 
 
-a. Ad. st. Australia. 
+a. Ad. sk. Australia. 
 b. 
 <S ad.sk. Brisbane "Water, New South Voyage of the ^Rattle-
 Wales, Aug. 1847 (Xilftfc- snake.' 
@@ -5165,7 +5165,7 @@ Total length 19 inches, culmen 2*75, wing 11*4, tail 8*5, tarsus
 Hab. Yan Diemen's Land. 
 
 a. $ ad. sk. Van Diemen's Land. Antarctic Expedition [O.]. 
-b. Ad. st. Van Diemens Land. 
+b. Ad. sk. Van Diemens Land. 
 c. Ad. sk. Van Diemen's Land. J. Gould, Esq. [O.]. 
 62 COUVIDJK. 
 
@@ -5408,14 +5408,14 @@ G. Ingall, Esq. [P.].
 Dr. Gunther, 
 d. J ad. sk. 
 e,f. Pull. st. 
-<7.* Ad. st. 
+<7.* Ad. sk. 
 
 A. Ad. sk. 
 i. (5s ad. sk. 
 h. 9 ad. sk. 
 J. Ad. sk. 
 m. Pull. ak. 
-n. Ad. st. 
+n. Ad. sk. 
 o. (J ad. sk. 
 p, q. Ad. sk. 
 
@@ -5436,7 +5436,7 @@ c'. $ ad. sk.
 
 d',e'. Pull.sk. 
 /'. Ad. sk. 
-gf. Ad. st. 
+gf. Ad. sk. 
 A'. Ad. sk. 
 
 Ad. sk. 
@@ -5716,7 +5716,7 @@ Hab. Eastern Siberia, Japan, Forth China.
 
 a. <? ad. sk. River Onon, Feb. 18, 1872. Dr. Dybowski [0.1 
 b. Ad. sic. Yokohama, Japan. H. Pryer, Esq. [O.J. 
-c. d. Ad. st. North China. Mr. Fortune [0.]. 
+c. d. Ad. sk. North China. Mr. Fortune [0.]. 
 e. Ad. sk. Shanghai. Shanghai Museum [P.J. 
 / . Skeleton. 
 2. Cyanopolius cooM. 
@@ -6042,7 +6042,7 @@ the specimens in the Museum show.
 ffab. Himalaya Mountains. 
 
 a. U^Jfamrostris. 
-a. Ad. st. Himalaya Mountains. Purchased. 
+a. Ad. sk. Himalaya Mountains. Purchased. 
 b e. Ad. sk. Nepal. ' B. H. Hodgson, Esq. [P.J. 
 d. Ad. sk Sikhim. J, Gould, Esq. 
 e. Ad. sk. Darjiling. J, Gould, Esq. 
@@ -6299,7 +6299,7 @@ suppose that the colour of this Magpie intensifies with age.
 Hub. The whole of India, ranging through Assam and the Burmese 
 countries to Tenusserim. 
 
-u. Ad. st. India. 
+u. Ad. sk. India. 
 b. Juv. sk. India. 
 c,d. Ad. sk. India. J. Gould, Esq. 
 <\ Pull. sk. Himalayas (Ti/tler). Secretary of State for India 
@@ -6352,7 +6352,7 @@ Hah. Eastern Himalayas and Assam.
 
 a. Ad. sk. Himalayas {A. Grote). J. Gould, Esq. 
 b,c. Ad. sk. Nepal. B. H. Hodgson, Esq. [P."L 
-d. Ad. st. Darjffing. B. H. Hodgson, Esq. [P.]. 
+d. Ad. sk. Darjffing. B. H. Hodgson, Esq. [P.]. 
 e. Ad. sk. Parjiling. J. Gould, Esq. 
 19 . DENDEOCITTA. 
 79 
@@ -6384,7 +6384,7 @@ red. Total length 17 inches, culmen 1-3, wing 5-7, tail 11*2, tarsus
 
 Hah. Southern India. 
 
-a. Ad. st. India. Major-Gen. Hardwicke [P.]. 
+a. Ad. sk. India. Major-Gen. Hardwicke [P.]. 
 b. Ad. sk. India. J. E. Reeves, Esq. [P.] 
 c. Ad. sk. Malabar. J. Gould, Esq. (Type °^ species.) 
 4. Dendrocitta himalayensis. 
@@ -6443,7 +6443,7 @@ ochraceous buff instead of orange.
 
 Hah. Himalaya Mountains and Assam. 
 
-a. Ad. st. Himalaya Mountains. J. R. Reeves, Esq. [P.]. 
+a. Ad. sk. Himalaya Mountains. J. R. Reeves, Esq. [P.]. 
 b. Juv.sk. J\>or Purneah. Capt. Stackhouse Pinwill [P. L 
 c. Ad.sk. IsT.\V. Himalayas. Capt. Stackhouse Pinwill [P/ . 
 d. cf ad. sk. N.W. Himalayas. Capt. Stackhouse Pinwill [P.j. 
@@ -6652,8 +6652,8 @@ a. c? ad. sk. East Java. A. E. Wallace, Esq. [CI.
 b. Ad. sk. West Java. A. R. Wallace, Esq. [Cj. 
 c. Juv. sk. Java. Dr. Horsfield [C]. 
 d. Ad. sk. Java. J. Gould, Esq. 
-e. Ad. st. Tenasserim. J. C 1). Packman, Esq. [P.]. 
-f. Ad. st. Lower Pegu. W. T. Blanford, Esq. [P.]. 
+e. Ad. sk. Tenasserim. J. C 1). Packman, Esq. [P.]. 
+f. Ad. sk. Lower Pegu. W. T. Blanford, Esq. [P.]. 
 g. Ad. sk. Tonghoo, Burmah. Purchased. 
 /*. Ad. sk. Tonghoo, Burmah. J. Gould, Esq. 
 %. Skeleton. Purchased. 
@@ -6693,7 +6693,7 @@ Hab. Burmah and Upper Pegu.
 a, b. Ad. sk. Upper Burmah. T. C. Jerdon, Esq. [P.]. (Types 
 of species.) 
 
-c. Ad. st. Upper Burmah. W. T. Blanford, Esq. [P.]. 
+c. Ad. sk. Upper Burmah. W. T. Blanford, Esq. [P.]. 
 d. Ad. sk. Burmah. Capt. Stackhouse Pinwill [P.]. 
 e. Ad. sk. Burmah. J. Gould, Esq. 
 21. CISSA. 
@@ -6797,7 +6797,7 @@ verdigris-blue.',
 Hab. South-eastern Himalayas, ranging through the Burmese 
 provinces to Tenasserim. 
 
-a. Ad. st. Nopal. B. II. Hodgson, Esq. [P.]. 
+a. Ad. sk. Nopal. B. II. Hodgson, Esq. [P.]. 
 b-g. Ad. sk. Nepal. B. II. Hodgson, Esq. [P.]. 
 h. Ad. sk. Nepal. B. II. Hodgson, Esq. [P.]. 
 i. Ad. sk. Himalayas. Indian Museum. 
@@ -6851,7 +6851,7 @@ Adult female. Similar to the male. Total length 11*5 inches,
 culmen 1*5, wing 5-4, tail 4*7, tarsus 1*75. 
 
 Bab. Java. 
-a. Ad. st. Javn. 
+a. Ad. sk. Javn. 
 b. <$ ad. sk.
 c. 2 ad. sk. 
 W. Java. 
@@ -6986,7 +6986,7 @@ A. Boucard, Esq. [C.J.
 Purchased. 
 d. Pull. sk.
 e. Ad. st.
-f. Ad. st. 
+f. Ad. sk. 
 Honduras. 
 Nicaragua. 
 Central America, 
@@ -7317,12 +7317,12 @@ Hawkstone, Salop, Jan. :<4
 d. £ ad. sk. J. Gould, Esq. oj. 
 e. Pull. St. Cambridgeshire. Mr. J. Baker [C.]. 
 /, g. Ad. at. Oakley Eye, Sussex. Eev. J. KirbvfP.]. 
-h, i Ad. st. Oookliam, Berks. Mr. J. Briggs [P.~\. 
+h, i Ad. sk. Oookliam, Berks. Mr. J. Briggs [P.~\. 
 k, I <$ ad. sk. Avington, Hants, Nov. Edward Shelley, Esq. [P. j
 
 25, 1872. 
 
-m. Ad. st. Devonshire. Col. Montagu [P.]. 
+m. Ad. sk. Devonshire. Col. Montagu [P.]. 
 n. Albino. Germany. Dr. Kaup (P.]. 
 o. J ad. sk. Wermland,Feb.28,1874. Purchased. 
 p} q. Ad. sk. Sweden ( WlieelwrigM), J. Gould, Esq. [P.]. 
@@ -7604,7 +7604,7 @@ Bab. Algeria.
 25 . GAHROXUS. 
 M) 
 a. Ad. sk. Algeria. Purchased. 
-*• Ad. st. Algeria. M. Malherbe f R l 
+*• Ad. sk. Algeria. M. Malherbe f R l 
 <•• Ad. sk. Algeria. J. Gould, Esq.. 
 d. Sternum. Algeria. Purchased. 
 8. G-arrulxts krynickii. 
@@ -7713,7 +7713,7 @@ Sikkim.
 
 Eab. Himalaya Mountains. 
 
-a. Ad. st. Himalaya Mountains. 
+a. Ad. sk. Himalaya Mountains. 
 Major-General Hardwicke [P.]. 
 b. Ad. sk. Himalaya Mountains 
 J. Gould, Esq.
@@ -7924,7 +7924,7 @@ streaked with fulvous.
 
 Hab. Northern Europe, across the whole of Northern Asia. 
 
-a. Ad. st. Northern Bothnia. Prof. Wahlberg [C.l. 
+a. Ad. sk. Northern Bothnia. Prof. Wahlberg [C.l. 
 b. Ad. sk. Northern Bothnia. Prof. Wahlberg [0.1. 
 c. Juv. St. Northern Bothnia. Prof. Wahlberg [C.J. 
 d. Ad. sk. Sweden. J. Gould, Esq. 
@@ -8342,7 +8342,7 @@ Hab. Central line of Eocky Mountains, from the northern border
 of the United States to tablelands of Mexico; Arizona (Bidgway). 
 [^ortn
 
-$,. Ad. st. America.] Hudson'sBayCo.rP.l 
+$,. Ad. sk. America.] Hudson'sBayCo.rP.l 
 b, c. $ $ ad. sk. west side of Eocky Mountains. J. K Lord, Esq. hp.l 
 
 d. c? ad. sk Fremont County, Colorado, Purchased. 
@@ -9288,7 +9288,7 @@ length 13*5 inches, culmen 1*45, wing 7*55, tail 6*7, tarsus 1*85.
 (Mus. JSalvin and Godman.) 
 
 Eab. Bolivia. 
-a. Ad. st. Bolivia. Mr. Brydges [C.l 
+a. Ad. sk. Bolivia. Mr. Brydges [C.l 
 b. Ad. sk, Bolivia. Mr. Brydges [O.J. 
 11. Cyanocorax violaceus. 
 
@@ -9324,7 +9324,7 @@ length 15 inches, culmen 14, wing 8-15, tail 6*9, tarsus 2.
 
 Hob. Amazonia, Columbia, and Guiana. 
 
-a. Ad. st. Eio Javarri. H. W.Bates, Esq. [0.]. 
+a. Ad. sk. Eio Javarri. H. W.Bates, Esq. [0.]. 
 6. Ad. sk. Peru. Purchased. 
 c. Ad. sk. New Granada. Purchased. 
 d. Ad. sk. British Guiana. SirR.Schoniburgk[C.]. 
@@ -9416,7 +9416,7 @@ tarsus 1*75.
 Hab. Central America from Mexico to Yeragua. 
 
 a, b. Ad. sk. Jalapa, Mexico. R. de Oca [0.]. 
-c. Ad. st. Mexico. Purchased. 
+c. Ad. sk. Mexico. Purchased. 
 d. Ad. sk. Mexico. Purchased. 
 e. Ad. sk. Guatemala. Purchased. 
 / . Ad. sk. Veragua. M.E.Arc<$[C.]. 
@@ -9675,7 +9675,7 @@ notwithstanding the discrepancies in the description.
 
 Hab. Venezuela and Trinidad. 
 
-a. Ad. st. Trinidad. Mrs. Wright [P.]. 
+a. Ad. sk. Trinidad. Mrs. Wright [P.]. 
 b. Ad. sk. Venezuela (JRozas). Purchased. 
 3. Xanthura cyauocapilla. 
 ? Pica chloronota, Waghr, Isis, 1829, p. 740. 
@@ -9781,7 +9781,7 @@ black. Total length 8-5 inches, culmen 1-25, wing 5*25, tail 6*1,
 tarsus 1*6. 
 Hab. Western Mexico. 
 
-a. Ad. st. [Mexico.J 
+a. Ad. sk. [Mexico.J 
 6. Xanthura beeclieii. 
 Pica beecheii, Vigors, Zool. Joum. iv. p. 353; id. in Beechey's Voyage, 
 Birds, p. 22, pi. 6. 
@@ -9862,7 +9862,7 @@ legs black; iris red. Total length IB inches, culmen 1-3, wing
 
 Hah. Guatemala. 
 
-a. Ad. st. Guatemala. 
+a. Ad. sk. Guatemala. 
 bf Aa. sk. Cobau, Vera Paz. Purchased. 
 c. Ad. sk. [Central America.] 
 9. Xauthura viridicyaiiea.. 
@@ -9895,7 +9895,7 @@ length 12-5 inches, culmen 1-05, wing 545, tail 6-9, tarsus 1-55.
 
 Rah. Bolivia and Peru. 
 
-a. Ad. st. Bolivia. Mr. Brydges [0.1. 
+a. Ad. sk. Bolivia. Mr. Brydges [0.1. 
 b. Ad. sk. Bolivia. Mr. Brydges [O.J. 
 e, d. Ad. sk. Huasarnpilla, Peru, March Henry Whitely, Esq 
 1872. [C.]. 
@@ -10092,7 +10092,7 @@ bill and legs black; "iris greyish brown" {Max.). Total length
 
 Hab. The same as that of the genus. 
 
-a. Ad. st. Brazil. 
+a. Ad. sk. Brazil. 
 32. GYMNOKITTA. Type. 
 Gymnorhinus, Max. Zeis. N.-Amer. ii. p. 21 (1841) * G. cyanocephala. 
 Cvanocephalus, Bp. Oss. Stat. Zool. Eur. Vertebr. 
@@ -10222,7 +10222,7 @@ a, b. Ad. ak. Honduras. Mr. Dyson [C.].
 
 c. Ad. sk. W. Mexico. A. Boucard, Esq. X«> 
 d. Ad. sk. Costa Eica. Mr. Van Patten [C.]. 
-e3f. Ad. st. Mexico. Purchased, 
+e3f. Ad. sk. Mexico. Purchased, 
 3. Psilorhinus cyanogenys. (Plate IX.) 
 Psilorhinus cyanogenys, Gray, Hand-l. P. ii. p. 6 (descr. nulla). 
 Similar to Ps. meocicanus, but differs in having a distinct greyish 
@@ -10274,7 +10274,7 @@ Adult female. Similar to the male. Total length 12-8 inches,
 wing 6, tail 6*9, tarsns 1*6. 
 
 * Hah, The same as that of the genus. 
-a, Ad. st. Xew South Wales. J. Gould, Esq. [P.]b,
+a, Ad. sk. Xew South Wales. J. Gould, Esq. [P.]b,
 c. d1 $ ad. sk X Australia. Sir T. Mitchell [P.]. 
 
 d. 2 ad. sk. Gilbert River, Sept. 23, 1856. J. R. Elsey, Esq. [P.]. 
@@ -10328,7 +10328,7 @@ Hah. Forests of Denkera, in the interior of the Gold Coast, "West
 
 
 Africa, 
-a. Ad. st, 
+a. Ad. sk. 
 b. Ad. sk. 
 e. Pull. sk. 
 d. Skeleton. 
@@ -10750,8 +10750,8 @@ divide them, even as races.
 
 Hal. The same as that of the genus. 
 
-a. Ad. st. Great Britain. Col. Montagu [P.]. 
-b, c. Ad. st. Cornwall. D. W. Mitchell, Esq. [P.]. 
+a. Ad. sk. Great Britain. Col. Montagu [P.]. 
+b, c. Ad. sk. Cornwall. D. W. Mitchell, Esq. [P.]. 
 d. Ad. sk. Lizard Point. Mrs. Rouchette [P.J. 
 e. S ad. sk. Wales (Mitford). J. Gould, Esq. 
 /. 
@@ -10773,7 +10773,7 @@ the Nile, Jan. 1862
 p. 
 Ad. sk. Abadah, north of Shiraz, Capt. St. John [C.]. 
 Persia, June 1869. 
-q. Ad. st. Altai Mountains. Moscow Museum [E."]. 
+q. Ad. sk. Altai Mountains. Moscow Museum [E."]. 
 r. Ad. sk. Alatau Alps, June 1841. Moscow Museum [E.]. 
 s,t. 
 <$ $ ad. sk. Valley of Aster, CashPurchased. 
@@ -11427,7 +11427,7 @@ tarsus 1*65. (Dorey : A. B. Wallace.)
 Hah. New Guinea. 
 a,b. <$ ad. sk. New Guinea. A. R. "Wallace, Esq. [O.]. 
 
-c. Ad. st. New Guinea. [Native skin.] 
+c. Ad. sk. New Guinea. [Native skin.] 
 d. $ juv. sk. Dorey. A. R "Wallace, Esq. 
 * The above description is taken from Mr. Elliot's work, as the specimens in 
 the British Museum are imperfect. 
@@ -12681,7 +12681,7 @@ wing 6-1, tail 5-25, tarsus 2*1.
 
 Eab. The same as that of the genus. 
 
-a. Ad. st. New Guinea. Purchased. 
+a. Ad. sk. New Guinea. Purchased. 
 b. Ad. sk. New Guinea. Purchased. 
 13. SEMIOPTEEA. Typ a 
 Semioptera, Gray, P. Z S. 1859, p. 130 S. walkcii. 
@@ -13854,7 +13854,7 @@ culmen 1-2, wing 5*7, tail 3-8, tarsus 0*95.
 
 Hub. India; Turkestan. 
 
-a. Ad. st. Nepal. B. H. Hodgson, Esq. [P.' 
+a. Ad. sk. Nepal. B. H. Hodgson, Esq. [P.' 
 b, Cj d. Ad. sk. Nepal. B. H. Hodgson, Esq. [P.' 
 e,f. Juv. sk. Nepal. B. H. Hodgson, Esq. [P. 
 g. Pull. sk. Nepal. B. H. Hodgson, Esq. [P.* 
@@ -14138,7 +14138,7 @@ ffab. Java, Sumatra, Bali, Bangka, Borneo.
 a. <$ ad. sk.
 h. Ad. sk.
 c. Ad. sk.
-d. Ad. st. 
+d. Ad. sk. 
 W. Java, 1861. 
 W. Java, 1863. 
 E. Java, 1861. 
@@ -14573,7 +14573,7 @@ washed with grey.
 
 Mab. Northern Australia. 
 
-a. Ad. st. Port Essington. Oapt Chambers [P. 
+a. Ad. sk. Port Essington. Oapt Chambers [P. 
 b. Juv. st. Port Essington. Oapt. Chambers [P. 
 e. Juv. sk. Port Essington. Capt. Chambers [P.' 
 d. $ juv. sk. Port Essington (J. Macgillknty). Capt. Stanley [P.]. ' 
@@ -14710,7 +14710,7 @@ differing as described above.
 Hal. Timor group of islands. 
 
 a. Juv. sk. Timor. Massena Collection. 
-b. Ad. st. Timor. Leiden Museum [E.1 
+b. Ad. sk. Timor. Leiden Museum [E.1 
 c. Juv. St. Timor. Leiden Museum [E.I. 
 d, e. 2 &d. sk. Semao Island. A. K. Wallace, Esq. [C.1 
 /. <$ ad. sk. E. Timor. A. K. Wallace, Esq. [C.j. 
@@ -15091,7 +15091,7 @@ a longitudinal patch along the outer web.
 Hah. Peninsula of India and the Himalayas, extending through, 
 the Burmese countries to Pegu and Tenasserim. 
 
-a. Ad. st. India. 
+a. Ad. sk. India. 
 b, c, d. Ad. sk Nepal B. H. Hodgson, Esq. [P.l. 
 
 eff, Juv. sk. Nepal. B. H. Hodgson, Esq. [P.l. 
@@ -15195,7 +15195,7 @@ tarsus 0-8, middle toe 0*8, hind toe 0-3e5.
 Eab, North-eastern Africa. 
 
 a. Ad. sk. Abyssinia. 
-b. Ad. st. Abyssinia. Dr. Kiippell [0.]. 
+b. Ad. sk. Abyssinia. Dr. Kiippell [0.]. 
 c. Ad. sk. Abyssinia. R. B. Sliarpe, Esq. 
 d 
 9 ad. sk. Mishek, south of Antalo, W. T. Blanford, Esq. [O.]. 
@@ -15309,7 +15309,7 @@ Edb. Southern and Forth-eastern Africa, the birds from the latter
 
 place being rather smaller, as is also the race from Angola. 
 
-a. Ad. st. Cape of Good Hope. Maj.-Gen. Hardwicke [P.]. 
+a. Ad. sk. Cape of Good Hope. Maj.-Gen. Hardwicke [P.]. 
 b. Ad. sk. South Africa. J. Rocke, Esq. [P.]. 
 e. el $ ad. sk. Eland's Post, S.E. Africa, R. B. Sharpe, Esq. 
 May 20, 1870 (T. C. 
@@ -15452,7 +15452,7 @@ yellow; bill brownish red; feet black.
 
 Hal. West Africa, from the Gold Coast to Gaboon. 
 
-a. Ad. st. West Africa 
+a. Ad. sk. West Africa 
 d, c. Ad. sk. West Africa. Purchased of M. Verreaux. 
 (Types of species.) 
 
@@ -15490,7 +15490,7 @@ forming a distinct alar speculum. Total length 9-8 inches, culmen
 
 Hob. Java, Sumatra, Borneo. 
 
-a, b. Ad. st. Indian archipelago. Baron Laugier. 
+a, b. Ad. sk. Indian archipelago. Baron Laugier. 
 c. Ad. sk. West Java. A. R. Wallace, Esq. [C.J. 
 31. Oriolus ardens. 
 
@@ -15604,7 +15604,7 @@ Hob. Himalaya Mountains, extending into Assam, Arakan, and
 
 Tenasserim. 
 a. Juv. sk. 
-b. Ad. st. 
+b. Ad. sk. 
 c,d. Ad., e-k. Juv.sk. 
 L Ad., m-p. Juv. sk. 
 q. Juv. sk. 
@@ -15861,8 +15861,8 @@ assumption of the black head is very distinctly indicated.
 
 Hah. Timor and Semao. 
 
-a. Ad. st. Timor. Massena Collection. 
-b. Ad. st. Timor. Purchased. 
+a. Ad. sk. Timor. Massena Collection. 
+b. Ad. sk. Timor. Purchased. 
 c. c? ad., d, e. Imm. sk. Timor. A. R Wallace, Esq. "C. 
 / . [<?] ad., $r. juv.sk. E. Timor. A.w R Wallace, Esq, [o 
 k. $ ad. sk. E. Timor. A? It. Wallace, Esq. 
@@ -16404,7 +16404,7 @@ Head of Chibia hottentotta.
 
 Hub, India, ranging through Assam and Burmah to China. 
 
-a. Ad. st. India. 
+a. Ad. sk. India. 
 Capt. Honeywood [P.]. 
 b, c. Ad. sk. N.W. Himalayas. Capt. Stackhouse Pinwill [PAd-g. Ad. sk. Nepal. B. H. Hodgson, Esq. [P-l 
 
@@ -17007,7 +17007,7 @@ Hab. The whole of India and Ceylon (smaller); Indo-Chinese
 region, China, and Formosa; Java. 
 
 a. B. macrocerca, 
-a. Ad. st. India. 
+a. Ad. sk. India. 
 b. $ ad. st. India. 
 c. $ juv. St. India. 
 d. Ad. sk. India. 
@@ -17141,8 +17141,8 @@ BtlCBANOA.
 
 Hob. The whole of A frica. 
 
-a. Ad. st. 
-h. Ad. st. 
+a. Ad. sk. 
+h. Ad. sk. 
 c. Ad. sk. 
 tf. Ad. at. 
 e. Ad. sk. 
@@ -17161,7 +17161,7 @@ f, u. Ad. sk.
 v. Ad. sk. 
 «?, x. Imm. sk. 
 ?/. Imm. sk. 
-s. Ad. st. 
+s. Ad. sk. 
 a', &\ Ad. sk. 
 r \ Ad. sk. 
 d', e'. Ad. sk. 
@@ -17734,7 +17734,7 @@ wing 7, tail 6, outer feather 14, tarsus 1*05,
 
 Hob. The same as that of the genus. 
 
-a. Ad. st. Carteret Harbour. Oapt. Lambrick, R.N. [P.]. 
+a. Ad. sk. Carteret Harbour. Oapt. Lambrick, R.N. [P.]. 
 b. Ad. sk. Carteret Harbour. Capt. Lambrick, R.N. [P.], 
 9. BHRINGA. 
 Type. 
@@ -18086,7 +18086,7 @@ p, q. Ad. sk.
 r. Juv. st. 
 s. Ad. sk. 
 *, Ad. sk. 
-u. Ad. st. 
+u. Ad. sk. 
 v. 5 jun. sk. 
 t0, x. Ad. sk. 
 
@@ -18232,7 +18232,7 @@ Sexes alike (Meyer ; cf. Walden^ Z. <?.).
 Hab. PhilippiLe Islands. 
 
 
-a} b. Ad. st. Manila. Hugh Cuming, Esq. [C.]. 
+a} b. Ad. sk. Manila. Hugh Cuming, Esq. [C.]. 
 
 2. Irena melanochlamys. 
 Adult male (type of species). Crown of head and nape glistening 
@@ -18273,7 +18273,7 @@ tarsus 0-8.
 
 Hab. Java. 
 
-a. Ad. st. [Java.] Hon. E.I. Company [P.]. 
+a. Ad. sk. [Java.] Hon. E.I. Company [P.]. 
 b. Juv. sk. Java. Secretary of State for India [P.], 
 4. Irena criniger. 
 Ooracias puella, Ltaffl. Tr. Linn. Soc. xiii. p. 802 (nee Lath.). 
@@ -18975,7 +18975,7 @@ head ashy brown instead of black. f
 
 Hob. Eastern Himalayas, ranging into Assam and Burmah. 
 
-a. Ad. st. Nepal. B. H. Hodgson, Esq. 
+a. Ad. sk. Nepal. B. H. Hodgson, Esq. 
 b. Ad. sic. Nepal. B. H. Hodgson, Esq. 
 m 
 
@@ -19043,7 +19043,7 @@ the head much paler than in the male. Total length 7*2 inches,
 culmen 0*75, wing 3*6, tail 2*85, tarsus 0*7. 
 
 Hdb. Java. 
-a, b. Ad. st. Java. Purchased. 
+a, b. Ad. sk. Java. Purchased. 
 c, d. S 2 ad. sk. E. Java. A. R. Wallace, Esq. [C.]. 
 6. Tephrodornis gularis. 
 
@@ -19170,7 +19170,7 @@ whitish, with a wash of pale brown on the abdomen and thighs.
 
 Hab. South Africa. 
 
-a. Ad. st. South Africa (Smith). South-African Museum. 
+a. Ad. sk. South Africa (Smith). South-African Museum. 
 b. 2 ad. st. South Africa. * Sir A. Smith [CA 
 c. Juv. sk. South Africa (Smith). Zoological Society. 
 (Type of species.) 
@@ -19698,7 +19698,7 @@ I I inches culrnen 1-15, wing 6, tail 5*1, tarsus 1-16.
 Hab. Waigiou. 
 
 a. S ad. sk. Waigiou. A. R. Wallace, Esq. [C.L 
-b. Ad. st, Waigiou. A. R. Wallace, Esq. [0.]. 
+b. Ad. sk. Waigiou. A. R. Wallace, Esq. [0.]. 
 9 . COLLYRIOCINCLA. 
 8. MELANORECTES. 
 Rectes (pt.), auct recent. 
@@ -19840,7 +19840,7 @@ distinctly streaked with shaft-stripes
 of dark brown. 
 Mabr Yan Diemen's Land. 
 
-a. Ad. st. Van Diemen's Land. J. Gould, Esq. 
+a. Ad. sk. Van Diemen's Land. J. Gould, Esq. 
 b. Ad., c, d. Juv. st. Van Diemen's Land. Ronald Gunn, Esc^. [P.]. 
 e. d ad.,/, ad. sk. Van Diemen's Land. Antarctic Expedition. 
 g. 
@@ -19905,11 +19905,11 @@ greenish leaden grey; iris dark reddish brown" (Gould). Total
 length 8*5 inches, culmen 0*95, wing 4*8, tail 4, tarsus 1*2. 
 Hab. Australia. 
 
-a. Ad. st. Perth, Swan River, March 9, J. Gould, Esq. 
+a. Ad. sk. Perth, Swan River, March 9, J. Gould, Esq. 
 1839. 
 b. Ad. sk. Port Lincoln, S. Australia J. Gould, Esq. 
 (Harvey).' 
-c. Ad. st. Port Lincoln, S. Australia J. Gould, Esq. 
+c. Ad. sk. Port Lincoln, S. Australia J. Gould, Esq. 
 (Harvey). 
 d. Ad. sk. Australia. Purchased. 
 e. Ad. sk. [Australia.] P. L. Sclater, Esq. [P.]. (Type 
@@ -20089,10 +20089,10 @@ e. $. Mysol (Wallace) 7-3 0'9 3-45 2-9 TO
 
 Hal. New Guinea and adjacent islands. 
 
-a. Ad. st. [New Guinea.] Zoological Society. 
-b. Ad. st. New Guinea. Purchased. 
+a. Ad. sk. [New Guinea.] Zoological Society. 
+b. Ad. sk. New Guinea. Purchased. 
 c. Juv. (?) sk. Salwatti. A. R. Wallace, Esq. [C.\ 
-d. Ad. st. Dorey, N. G. A. E. Wallace, Esq. [C.\ 
+d. Ad. sk. Dorey, N. G. A. E. Wallace, Esq. [C.\ 
 e. S ad. sk. Dorey, N. G. A. R. Wallace, Esq. [0/ . 
 f< <h d 2 ad. sk. Ani Islands. A. E. Wallace, Esq. [C.]. 
 %\ A*, d $ ad. sk. Mysol. A. E. Wallace, Esq. |C. \ 
@@ -20125,7 +20125,7 @@ tarsi bluish grey; iris dark brownish red " (Gould). Total length
 
 Hob. Northern Australia. 
 
-a. Ad. st. Port Essingtou. Dr. Sibbald [P.]. 
+a. Ad. sk. Port Essingtou. Dr. Sibbald [P.]. 
 3. Pinarolestes rnfigaster. 
 Colluricincla rufogaster, 
 Goidd, P. Z. S. 1845, p. 80; id. B. Amtr. 
@@ -21216,7 +21216,7 @@ Hab. South-eastern Africa, from Natal to the Zambesi.
 a. <$ ad. sk. Durban, Natal, March 5,1874. 
 Capt. G. E. Shelley [P.]. 
 b. Ad. st.
-c. Ad. st. 
+c. Ad. sk. 
 Skivpanga, Zambesi. 
 South Africa. 
 Dr. Kirk [C.]. 
@@ -21303,7 +21303,7 @@ specimen in the Museum still preserves remains of fulvous tips to
 the wing-coverts. 
 Hab. Western and North-eastern Africa. 
 
-a. Ad. st. West Africa. 
+a. Ad. sk. West Africa. 
 b, c. Ad. sk. Eiver Gambia. Purchased. 
 d. Ad. sk.
 e. Ad. sk. 
@@ -21361,7 +21361,7 @@ white. (Von. Jlear/Un.)
 
 Hal. The samo as that of the gcnns. 
 
-a> Ad. st. White Nile. M. Verroaux. 
+a> Ad. sk. White Nile. M. Verroaux. 
 
 17. PLATYLOPHUS. 
 Type. 
@@ -21456,7 +21456,7 @@ to the wing-feathers, seems to be effected gradually without a
 moult. 
 Hab. Malayan peninsula. 
 
-a. Ad. st. ? Purchased. 
+a. Ad. sk. ? Purchased. 
 b. S jnv. sk. Malacca. Dr. Cantor [C.]. 
 c. Jim. sk Malacca. Dr. Cantor [C.]. 
 d. Ad. sk. Malacca. W. Harvev, Esq. [P.]. 
@@ -21503,7 +21503,7 @@ rest of the under surface slaty grey washed with rufous brown;
 outer tail-feathers tipped with white; bill light yellowish horncolour. 
 Hah. Sumatra and Southern Borneo. 
 
-a, b. Ad. st. Sumatra. Purchased. 
+a, b. Ad. sk. Sumatra. Purchased. 
 c. J jun. sk.
 d, e. Ad. sk. 
 Sumatra. 
@@ -21580,7 +21580,7 @@ under wing-coverts black. Total length 9 inches, culmen 0*85,
 wing 4*65, tail 4*05, tarsus 0*95. 
 
 Hab. "West Africa. 
-a. Ad. st. Sierra Leone. 
+a. Ad. sk. Sierra Leone. 
 b. Juv. st. 
 c. Ad., d. Juv. sk. 
 e. c? ad. sk. 
@@ -21630,7 +21630,7 @@ wattle sulphur-yellow; feet vermilion; iris pearly" (HewjUn).
 Total length 9 inches, culmen 0*85, wing 4-55, tail 3*0, tarsus 0*95. 
 Hob. JN"orth-eastern Africa. 
 
-a. Ad. st. Abyssinia. Dr. Riippell [CJ. 
+a. Ad. sk. Abyssinia. Dr. Riippell [CJ. 
 b. <S ad. sk. Abyssinia. R. R. Sharpe, Esq. 
 c. Ad. sk. White Nile (Mus. Holm.). R. B. Sharpe, Esq. 
 3. Prionops talacoma. 
@@ -21698,11 +21698,11 @@ Hah. South Africa.
 
 a. Ad-, st. South Africa (Sir A. Smith). S.African Museum. 
 (Type of species.) 
-b. Ad. st. South Africa. ^ Sir A. Smith [C.]. 
+b. Ad. sk. South Africa. ^ Sir A. Smith [C.]. 
 c. Ad. sk. South Africa (Sir A. Smith). Purchased. 
 d. e. $ 2 ad. sk. Transvaal (T. Ayres). R. B. Sharpe, Esq. 
 f}g,h. Imm. sk. Tete, Zambesi. Dr. Kirk [0.1. 
-t Ad. st. Tete, Zambesi. Dr. Kirk [O.J. 
+t Ad. sk. Tete, Zambesi. Dr. Kirk [O.J. 
 k, c? ad. sk. Ovaquenyaina, Damara Land, R. B. Sharpe, Esq. 
 June 6,1867 (C. J. Andersson). 
 
@@ -21783,7 +21783,7 @@ Hob, Gaboon.
 
 a. Ad. sk. Gaboon. Purchased. 
 6. Acl. st.
-c. Ad. st. 
+c. Ad. sk. 
 Gaboon (F. B. N. Walker). 
 Moonda River, Gaboon. 
 R. B. Sharpe, Esq. 
@@ -21822,7 +21822,7 @@ sometimes absent on the first primary.
 Hah. Gold-Coast district of Western Africa, ranging up to Sierra 
 
 Leone. 
-a. Ad. st. Gold Coast. Purchased. 
+a. Ad. sk. Gold Coast. Purchased. 
 b. Juv. sk.
 c,d. Ad.,e. Juv. sk.
 /. Imm.sk.
@@ -21916,7 +21916,7 @@ a,b,c. Ad. sk. Tete, Zambesi. Dr. Kirk [0.]. (Types of
 species.) 
 
 
-d. Ad. st. Lower Shire" valley, Br. Kirk [0.1. 
+d. Ad. sk. Lower Shire" valley, Br. Kirk [0.1. 
 July 1861. 
 6. Sigmodus graculinus. 
 Prionops graculinus, Cab. in Von der Dechen, Heis. iii. p. 24, Taf. iii.; 

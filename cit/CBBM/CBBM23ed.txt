@@ -1393,7 +1393,7 @@ Hah. Confined to North America, from Canada to the Middle and
 
 Eastern United States to Texas and Florida. Cuba. 
 
-a9 b. Ad. st. North America. J. J. Audubon, Esq. 
+a9 b. Ad. sk. North America. J. J. Audubon, Esq. 
 
 c. $ 
 ad. sk. Kankakee, Illinois, May (22. Salvin-Godman Coll. 
@@ -1593,7 +1593,7 @@ middle toe and claw 2*3.
 
 Hah. Eastern North America. 
 
-a, b. Ad. st. North America. J. J. Audubon, Esq. 
+a, b. Ad. sk. North America. J. J. Audubon, Esq. 
 c. Ad. sk. North America.
 [P.]. 
 Old Coll. 
@@ -1659,7 +1659,7 @@ Hal. West Indies—Bahamas, Jamaica, S. Croix, S. Thomas,
 Guadeloupe, Martinique, Barbuda, Antigua. 
 
 a. Ad. sk. Jamaica. Salvin-Godman Coll. 
-b. Ad. st. Jamaica. J. Gould, Esq. 
+b. Ad. sk. Jamaica. J. Gould, Esq. 
 c. Sternum. Jamaica. Philip Gosse, Esq. [C.]. 
 Subsp. d. Rallus saturates. (Plate I.) 
 
@@ -1935,7 +1935,7 @@ JSrestling. Entirely black all over.
 Hab. North America generally, wintering in Central America, as 
 far as Guatemala. 
 
-a, b. Ad. st. 
+a, b. Ad. sk. 
 c, cl d* ad. sk. 
 North America. 
 Waldron Island, British Columbia, 
@@ -2252,7 +2252,7 @@ Ad.sk. Whitehall, Midlothian, August Tweeddale Coll.
 (JR. Q. W. It). 
 q. Ad. sk. Spurn Head, Lincolnshire, Theodore Fisher, 
 August Esq. [P.]. 
-r, s. Ad. st. Cambridgeshire. Mr. J. Baker [0.]. 
+r, s. Ad. sk. Cambridgeshire. Mr. J. Baker [0.]. 
 t, u, v. Ad. sk. Wicken Fen, Cambridgeshire. Salvin-Godman Coll. 
 
 w. <$ ad. sk. Didlington, Norfolk, Jan, Gould Coll. 
@@ -2261,19 +2261,19 @@ r. Ad. hk.
 ?/. $ ad. sk. 
 
 3. cj1 ad. sk. 
-a'. Ad. st. 
+a'. Ad. sk. 
 <f. Ad. &k. 
 *'. $ ad. sk. 
-/'. Ad. st. 
+/'. Ad. sk. 
 y . cJ ad. sk. 
-/*'. Ad. st. 
+/*'. Ad. sk. 
 
 e'. $ ad. sk. 
 
-&'. Ad. st. 
+&'. Ad. sk. 
 
 I', m'. <$ 2 a(^-s^« 
-w'. Ad. st. 
+w'. Ad. sk. 
 o, p. d ? ad. sk. 
 
 q'. <3 ad. sk. 
@@ -2643,7 +2643,7 @@ dusky on the heel • iris dusky tawny 7' (T. Ay res).
 Hah. South Africa, northward to Angola on the west and the 
 Zambesi on the east, extending as high as Lake Tanganyika. 
 
-a. Ad. st. Cape. Purchased. 
+a. Ad. sk. Cape. Purchased. 
 b. d ad. sk. Natal (T. Ayres). Tweeddale Coll. 
 c. Ad. sk.
 d. e. Ad. sk.
@@ -2836,11 +2836,11 @@ ington).
 Witlib. 
 Ad. sk. Brazil. Salvin-Godman Coll. 
 c, d. Ad. sk. Pernambuco ( W. A. Forbes). Salvin-Godman Coll. 
-e. Ad. st. It. Amazon. Purchased. 
+e. Ad. sk. It. Amazon. Purchased. 
 f. Ad. sk. Surinam (Wedderburn). Salvin-Godman Coll 
 g. Ad. sk. Tobago (Kirk). Jardine Coll. 
 h. Ad. sk. Trinidad. Old Coll. 
-i. Ad. st. Bogota. Old Coll. 
+i. Ad. sk. Bogota. Old Coll. 
 
 2. Limnopardalus rytirhynchixs. 
 Ypacaha pardo, Azara, Apunt. iii. p, 220 (1800). 
@@ -3602,7 +3602,7 @@ barred with white.
 Hah. Western and Southern Australia, north to the Wide Bay 
 district; Tasmania ; Auckland Islands. 
 
-a. Ad. st. South Port Island, Tasmania. J. Gould, Esq. [C."|. 
+a. Ad. sk. South Port Island, Tasmania. J. Gould, Esq. [C."|. 
 b. Ad. sk. Australia. J. Gould, Esq. |C.]. 
 c. d. Ad.; e-g. Australia. Tweeddale Coif. 
 Xmm. sk. 
@@ -3865,7 +3865,7 @@ pinger).
 Australia. A. Cunningham, Esq. 
 r, s. Ad. sk. 
 /, u. Ad. sk. 
-v. Ad. st. 
+v. Ad. sk. 
 10. Ad. sk. 
 .r, y, z. Ad. sk. 
 a\ b'. Ad. sk. 
@@ -4014,7 +4014,7 @@ Hah. Philippine Islands.
 
 a. Ad. sk. Philippines. Hugh Cuming [C], 
 ft, c. Ad. sk, Philippines. Gould Coll. 
-(1. Ad. st. > Luzon. E. Wilson, Esq. [P.]. 
+(1. Ad. sk. > Luzon. E. Wilson, Esq. [P.]. 
 Cjf. § ad. et hum. Luzon, Jan. [A.B. Meyer). Tweeddale Coll. 
 .MV. 
 
@@ -4069,8 +4069,8 @@ culmen 1*55, wing 6, tail 2-15, tarsus 1*85, middle toe and claw 2.
 
 Hah. Celebes. 
 
-a. Ad. st. Celebes. Leyden Museum. 
-b. Ad. st. Celebes. Edward Wilson, Esq. [P.]. 
+a. Ad. sk. Celebes. Leyden Museum. 
+b. Ad. sk. Celebes. Edward Wilson, Esq. [P.]. 
 c. d. Ad. sk. Menado, Celebes. "Wallace Coll. 
 e,f. Ad. sk. Menado, Celebes. Gould Coll. 
 g, h. Ad. sk. Menado, Celebes. Tweeddale Coll. 
@@ -4672,7 +4672,7 @@ middle toe and claw 2*05.
 Hab. Brazil. 
 a. Ad. sk. Bahia (Dr. LnscJinatk). Salvin-Godman Coll. 
 h. Ad. sk.
-c. Ad. st. 
+c. Ad. sk. 
 Bahia (Dr. Wucherer). 
 [Brazil.] 
 Salvin-Godman Coll. 
@@ -4758,7 +4758,7 @@ Re-occurring in Central America, from Honduras to Yucatan and
 Mazatlan. 
 
 a. <$ ad. sk. Venezuela (Spence). Sahin-Godman Coll. 
-b. Ad. st. Venezuela. Old Coll. 
+b. Ad. sk. Venezuela. Old Coll. 
 * Dr. Keichenow has very kindly compared Schomburgk's specimen in the 
 Berlin Museum for me, and there is no doubt that it is A. axillaris, thus confirming 
 the surmise of Messrs. Sclater and Salvin. 
@@ -4927,7 +4927,7 @@ nasal groove, the tip bright green; feet light sealing-wax red"
 Bab. Brazil, through Amazonia to Central Peru and northward 
 to New Granada and Panama. 
 
-a-c. Ad. st. South America. Purchased. 
+a-c. Ad. sk. South America. Purchased. 
 
 (1. Ad. sk. South America.* Riocour Coll. 
 /. Ad. sk. Bahia, Brazil (Dr. Wuclierer). Salvin-Godman Coll. 
@@ -5134,7 +5134,7 @@ Ilab. Brazil, extending into Peru (Tsclmdi).
 a. Ad. sk. South America. Iiiocour Coll. 
 b. Ad. sk. Brazil. 
 Salvin-Godman Coll. 
-c. Ad. st. Brazil. Purchased. 
+c. Ad. sk. Brazil. Purchased. 
 d,e. Ad.sk. Brazil. IVI. Claussen [P.]. 
 f. Ad. sk. Santa Fe, Minas Gerues, Brazil Salvin-Godman Coll. 
 (II. Rogers). 
@@ -5387,7 +5387,7 @@ settled.
 Bab. South Island, New Zealand. 
 
 
-a. Ad. st. New Zealand. Percy Earl, Esq. [P.]. 
+a. Ad. sk. New Zealand. Percy Earl, Esq. [P.]. 
 b, c. Ad. sk. New Zealand. Salvm-Godman Coll. 
 d. Ad. sk. New Zealand. Edward Hargitt, Esq. [P.]. 
 e-l\ Ad. et juv. New Zealand. Colonial Museum, Wellingsk. 
@@ -5513,7 +5513,7 @@ tail 4-8, tarsus 2*2, middle toe and claw
 2-6. 
 Eab. South Island, New Zealand. 
 
-a. Ad. st. New Zealand. Capt. Stokes [P.]. 
+a. Ad. sk. New Zealand. Capt. Stokes [P.]. 
 h-e. Ad. et juv. sk. New Zealand. Colonial Museum, Wellington. 
 12. APHANAPTERYX. 
 Type. 
@@ -5710,7 +5710,7 @@ as they are also less distinctly streaked on the back.
 
 Hab. Madagascar and Mauritius. 
 
-a. Ad. st. Madagascar. 
+a. Ad. sk. Madagascar. 
 E. Wilson, Esq. [P.]* 
 b. Ad. sk. Madagascar. Sir E. Belcher [P.]. 
 c, d. Ad. sk. Madagascar. Mr. Gerrard [0.]. 
@@ -5864,7 +5864,7 @@ b,c. Ad. sk. Gold Coast. Shelley Cull.
 h. Ad. &k. River Volta (Gov. Uglier). Shelley Coll. 
 ?". Ad. sk. Cameroons (A. Crossley). Shelley Coll. 
 k. <$ ad. sk. Gaboon. M. Yerreaux. 
-L Ad. st. Gaboon. M. Verreaux. 
+L Ad. sk. Gaboon. M. Verreaux. 
 2. Canirallxis kioloides. 
 Gallinula kioloides, Pucher. Rev, et Mag. de Zool. 1845, p. 279. 
 
@@ -5920,7 +5920,7 @@ a.
 Ad. sk. JS\E. Madagascar (A. Cross- Shelley Coll. 
 ley). 
 b. Ad. sk. Madagascar. Sir A. Smith [C.]. 
-c. Ad. st. Madagascar. E. Wilson, Esq. [P.]. 
+c. Ad. sk. Madagascar. E. Wilson, Esq. [P.]. 
 (Type of C. griseofrom.) 
 d. e1 f. $ ad. et Forest of North Senbendra, A. Majastre [0.). 
 juv. sk. Madagascar. 
@@ -6692,18 +6692,18 @@ Gould Coll.
 Gould Coll. 
 Tweeddale Coll. 
 June 8(12. G. W.R.). 
-/ . Ad. st. Northamptonshire, June. Colonel Irby [P.]. 
+/ . Ad. sk. Northamptonshire, June. Colonel Irby [P.]. 
 *£, h. Ad.; i, k, I. 
 Pull. St. 
 Cambridgeshire. Purchased. 
-m. Ad. st. 
+m. Ad. sk. 
 n. Ad. sk. 
 Kingsbury,Middlesex,May. 
 Park Hatch, Surrey, Sept. 
 Harting Coll. 
 Salvin-Godman Coll. 
 (F.D.G.). 
-ot p. Ad. st. 
+ot p. Ad. sk. 
 q. Ad. sk. 
 Cookham, Berks. 
 New Forest, Hampshire, 
@@ -6713,7 +6713,7 @@ C. B. Wharton, Esq.
 r. Ad. sk. Avington, Hants, Sept. Sharpe Coll. 
 s. Ad.sk. 
 t. Ad. sk. 
-u, Vj w. Ad. st. 
+u, Vj w. Ad. sk. 
 x. Ad. sk. 
 Avington, Sept. 10. 
 Carmarthenshire. 
@@ -8034,7 +8034,7 @@ olive-green " (J. Gould). Total length 7 inches, culmen 0*8, wing
 
 Bab. Australia. 
 
-a. Ad. st. South Australia (J. Gould). Sir G. Grey [P.]. 
+a. Ad. sk. South Australia (J. Gould). Sir G. Grey [P.]. 
 b. Ad. sk. New South Wales. Gould Coll. 
 c. Ad. sk. New South Wales. Hume Coll. 
 d. e. Ad. sk. Queensland (J. T. Cockerell). Salvin-Godman Coll 
@@ -8287,7 +8287,7 @@ pull.; d. Juv.
 sk. 
 
 e. Pull. st. Europe. Old Collection. 
-/ . Ad. st. Great Britain. Gould Coll. 
+/ . Ad. sk. Great Britain. Gould Coll. 
 \(j. Ad. sk. Great Britain. Hume Coll. 
 h, i. Ad. et juv. Holland (/. Baker). Salvin-Godman Coll. 
 sk. 
@@ -8672,7 +8672,7 @@ Young. Differs from the adult exactly in the same way as the
 young of P. intermedia. 
 Hob. Australia. 
 
-a, h. Ad. st. South Australia (X Gould). Sir G. Grey [P."|. 
+a, h. Ad. sk. South Australia (X Gould). Sir G. Grey [P."|. 
 
 c. Ad. sk. South Australia (J. Gould). Sir G. Grey [P.]. 
 d, e. Ad. sk. New South Wales. Gould Coll. 
@@ -10213,7 +10213,7 @@ li. $ ad, sk. Singapore, Dec. 11 (A. Ber- Hume Coll.
 nard). 
 i. <$ ad. sk. Singapore Island, Sept. 19 Hume Coll. 
 ( W. Davison). 
-7c. Ad. st. Java. E. Wilson, Esq. [P.]. 
+7c. Ad. sk. Java. E. Wilson, Esq. [P.]. 
 /. Ad,; m. Imm. Java (Horsfield). India Museum. 
 sk. (Types of JP. quadristrigata.) 
 
@@ -10594,7 +10594,7 @@ tail 1*35, tarsus 1, middle toe and claw 1*35.
 Hab. Amazonia to Guiana and Trinidad. 
 
 a. Ad. sk. America. Old Coll. 
-b. Ad. st. Trinidad. Old Coll. 
+b. Ad. sk. Trinidad. Old Coll. 
 c. d. Ad. sk. Cayenne. Salvin-Godman Coll. 
 e,f. Ad.sk. Maroni Eiver,, Surinam {Kappler). Salvin-Godman Coll. 
 ff. S ad. sk. Nauta, Peruvian Amazons, Jan. E. Bartlett [C.]. 
@@ -11256,7 +11256,7 @@ m". Ad. sk.
 
 o". <$ ad. sk. 
 
-p". Ad. st. 
+p". Ad. sk. 
 
 ?". ? ad.sk. 
 
@@ -11961,7 +11961,7 @@ i'. Pull. sk.
 
 Je'. 2 ad. sk. Depalpor, Jan. 9. Col. Swinhoe [P.]. 
 
-I', m'. Ad. st. Gwalior. C. Maries, Esq. [P.]. 
+I', m'. Ad. sk. Gwalior. C. Maries, Esq. [P.]. 
 
 n'. Ad. sk. Deccan (Burgess). Gould Coll. 
 o'. Ad. sk. Deccan (Colonel Sykes). India Museum. 
@@ -12668,7 +12668,7 @@ May 6. * [O.].
 c. § ad. sk. Lake 'Ashangi, May 4 Tweeddale Coll. 
 (W.T.B.). 
 
-d. Ad. st. Abyssinia, Purchased. 
+d. Ad. sk. Abyssinia, Purchased. 
 40. EE0CREX. 
 Typo. 
 Neocrex, Scl. fy Salv. P. Z. S. 1868, p. 459 N. erythrops 
@@ -12763,7 +12763,7 @@ iris orange-red" {J. Gould). Total length 14 inches, culmon 1-55,
 wing 7*8, tail 3*4, tarsus 3*25, middle toe and claw 3ml. 
 Rah. Victoria, South Australia, and Tasmania. 
 
-a, b. Ad. st. Australia. Purchased. 
+a, b. Ad. sk. Australia. Purchased. 
 c. Ad. sk.
 d. Ad. sk. 
 Australia. 
@@ -13357,7 +13357,7 @@ w. Pull. sk.
 x,y. d ad. et 
 imm. sk. 
 
-z. Ad. st. 
+z. Ad. sk. 
 a', b\ 6 $ ad.; 
 c'. Ad. sk. 
 #. Imm. st. 
@@ -13384,7 +13384,7 @@ imm. sk.
 u'. d ad. sk. 
 
 v'. Imm. sk, 
-w'. Ad. st. 
+w'. Ad. sk. 
 x\ Ad. sk. 
 ?/', z'. Ad. sk. 
 a". Imm. sk. 

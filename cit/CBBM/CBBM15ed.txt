@@ -1404,7 +1404,7 @@ The short tail and beautifully spotted under wing-coverts are the
 
 distinguishing features of this peculiar bird. 
 
-a. Ad. st. S.E. Brazil. Purchased. 
+a. Ad. sk. S.E. Brazil. Purchased. 
 b. S ad. sk.
 t\ Ad. sk. 
 Sao Domingo, S.E.
@@ -1620,7 +1620,7 @@ d. Ad. sk. Chili {Jieed). Halvin-Godmau Coll.
 e. (5 ad. sk. Pampas of Argentine Republic Salvin-Godman Coll. 
 (Zeybold). 
 f. Ad. sk. Bolivia. T. Bridges [CI. 
-g. Ad. st. Bolivia. T. Bridges [O.j. 
+g. Ad. sk. Bolivia. T. Bridges [O.j. 
 
 5. Greositta peruviana. 
 Geositta peruviana, Zafr. JRev. Zool. 1847, p. 75; Scl. P. Z. S. 1866, 
@@ -1698,7 +1698,7 @@ b. 2 ad.sk.
 e. S ad. sk.
 d. 5 ad. sk.
 e. Ad.sk.
-/. Ad. st. 
+/. Ad. sk. 
 Tungasucha, Peru ( Whitely). 
 Tinta, Peru (Whitely). 
 Tinta, Peru (Whitely). 
@@ -1814,7 +1814,7 @@ inches, wing 4, tail 3. Female similar.
 
 Hub. Paraguay, Uruguay, and La Plata. 
 
-a. Ad. st. Maldonado, Uruguay. Burnett and Fitzroy 
+a. Ad. sk. Maldonado, Uruguay. Burnett and Fitzroy 
 b. c? ad. sk.
 c. $ ad. sk, 
 Uruguay. . 
@@ -1870,7 +1870,7 @@ The strong rufous tinge of the body above and the more cinnamo
 meous under surface distinguish this more northern form from 
 
 F. nofus. 
-a. Ad. st. Malclonado, Uruguay (?). Burnett and Fitzroy 
+a. Ad. sk. Malclonado, Uruguay (?). Burnett and Fitzroy 
 [p.]. 
 b, c. <$ $ ad. sk. Ohapada, Matto Grosso, Brazil 
 
@@ -2216,7 +2216,7 @@ bill from the gape in a straight line 1-4, Female similar.
 
 Hal. Chili, Western Argentina, and Patagonia. 
 
-a. Ad. st. Coquimbo, Chili. 0. Darwin [C.l 
+a. Ad. sk. Coquimbo, Chili. 0. Darwin [C.l 
 b. c. 2 ad. sk. Coquimbo, Chili. Dr. Coppinger [0.]. 
 d. 
 $ ad.; e. Chili (Beed). Sclater Coll. 
@@ -2249,7 +2249,7 @@ J ad. sk. Port Desire, Patagonia. W. Harrison, R.N.
 t. Ad. sk. Port Desire, Patagonia. Oapt. King [C.]. 
 u. Jr. sk. Bolivia (?). 
 Purchased. 
-v. Ad. st. Cordillera, S. America. Purchased, 
+v. Ad. sk. Cordillera, S. America. Purchased, 
 VOL. XV.
 
 /? 
@@ -2687,11 +2687,11 @@ form of the Argentine Republic (C. fuscus). The Argentine specimens
 are the darkest on the lower surface and C. rivularis much 
 the lightest, but Bolivian skins seem to be intermediate. 
 
-a. Ad. st. Maldonado, Uruguay. Burnett & Fitzroy [P.]. 
-b. Ad. st. Port Famine, Patagonia. C, Darwin [O.], 
+a. Ad. sk. Maldonado, Uruguay. Burnett & Fitzroy [P.]. 
+b. Ad. sk. Port Famine, Patagonia. C, Darwin [O.], 
 BENDROCOLAPTIDJE. 
 
-c. Ad. st, 
+c. Ad. sk. 
 d. Ad. sk. 
 e. 3 ad. sk. 
 / . Ad. sk. 
@@ -3020,7 +3020,7 @@ its differently coloured tail and brown back.
 * Befer also to Enicornis striata, Allen, Bull. A. M. N. H. ii. p. 89 (Chili). 
 / . CLI13A.N-0RNIS. 
 
-a. Ad. st. Santa Cruz, Patagonia. C. Darwin [C.]. (Type 
+a. Ad. sk. Santa Cruz, Patagonia. C. Darwin [C.]. (Type 
 of the species.) 
 b. Ad. sk. Port Desire, Patagonia (Darivin). 
 c. Ad. sk. Port St. Julian, Patagonia (DarSalvin-
@@ -3133,7 +3133,7 @@ e. $ ad. sk. River Arranparu, Kukenam, Salvin-Godman Coll.
 Brit. Guiana ( Whitely). 
 f. 
 Ad. sk. Brazil. ' Purchased. 
-g. Ad. st. Brazil. 
+g. Ad. sk. Brazil. 
 J. Gould, Esq. 
 2. Lochmias sororia. 
 Lochmias sororia, Scl. et Salv. P. Z, S. 1873, p. 511 (Venezuela) ; iid. 
@@ -3255,7 +3255,7 @@ e,f. Ad. sk. Chili (Peed). Salvin-Godman Coll.
 g. Ad. sk. Falkland Islands. 
 The Admiralty [P.]. 
 h. Ad. sk. Port Eio Frio, Patagonia. Dr. Coppinger [0.]. 
-i. Ad. st. Straits of Magellan. The Admiralty [P.J. 
+i. Ad. sk. Straits of Magellan. The Admiralty [P.J. 
 j. Ad. sk. Trinidad Channel, Magellan Straits. Dr. Coppinger [0.]. 
 h. 2 ad. sk. Porto Bueno, Magellan Straits. i Challenger' Exped. 
 I. <$ ad. sk. Port ChuiTincha, Magellan Straits. ' Challenger' Exped. 
@@ -3794,9 +3794,9 @@ head.
  have examined the typical specimens of JS. olivascens in Mr. 
 Eyton's collection. They belong to this species, 
 
-a. Ad. st. Brazil 
+a. Ad. sk. Brazil 
 J. Gould, Esq, 
-b. Ad. st. Brazil. 
+b. Ad. sk. Brazil. 
 M. CiaiKsen [P.]. 
 e. 
 $ ad. sk. Pelotas, Rio Grande do Sul, Salvin-Godman Coll. 
@@ -4073,7 +4073,7 @@ R. (fraluim [l\].
 Sclater Coll. 
 c. Ad.sk.
 <2. <5* ad. sk.
-e. Ad. st. 
+e. Ad. sk. 
 Brazil. 
 Paysandu, Uruguay. 
 Maldonado, Uruguay.
@@ -4426,7 +4426,7 @@ I have also before me a typical example of Pelzoln's Synallaais
 inornata, which I think cannot be distinguished from other skins 
 from Para, Cayenne, and Bogota. 
 
-a. Ad. st. Brazil (?). 
+a. Ad. sk. Brazil (?). 
 Purchased. 
 b. c. Ad. sk. Bartica Grove, British Guiana Salvin-Godman Coll. 
 (Whitely). 
@@ -4463,7 +4463,7 @@ really distinct.
 a. 
 Ad. sk. Cuyaba, Brazil (Natterer). Sclater Coll. 
 (Authentic specimen.) 
-b. Ad. st. Bolivia. 
+b. Ad. sk. Bolivia. 
 T. Bridges [O.]. 
 DENDK0C0LAPTID2E. 
 
@@ -4562,7 +4562,7 @@ Hab. "Western Ecuador.
 
 The spotted breast at once distinguishes this species. 
 
-a. Ad. st. Guyaquil. IT. Barclay [0.]. 
+a. Ad. sk. Guyaquil. IT. Barclay [0.]. 
 (Type of the species.) 
 b. Ad. sir. Guyaquil (BSmy). Sclater Coll. 
 c. Ad. sk. Guyaquil (Jameson). Jardine Coll. 
@@ -4605,7 +4605,7 @@ VOL. xv.
 
 BEKDEOCOLAPTID^l. 
 
-a. Ad. st. Bahia, Brazil. Sudbury Museum. 
+a. Ad. sk. Bahia, Brazil. Sudbury Museum. 
 (Type of the species.) 
 b. Ad. sk. Bahia, Brazil. Sclater Coll. 
 c. d. 
@@ -4694,7 +4694,7 @@ the wings, tail, and head, and the latter the back moie or loss
 fuscous, with the wings and tail rufous. But I find many intermediate 
 forms between these two extremes. 
 
-a. Ad. st. Brazil. Purchased. 
+a. Ad. sk. Brazil. Purchased. 
 b. Ad. sk.
 c. $ ad, sk. 
 Trinidad {Gould). 
@@ -4842,7 +4842,7 @@ Nearly uniform chestnut-rufous; middle of throat black: whole
 length 7-5 inches, wing 2-3, tail 4, 
 Zlab. Venezuela. 
 
-a, b. Ad. st. Caracas, Venezuela. D. Dyson [C.l 
+a, b. Ad. sk. Caracas, Venezuela. D. Dyson [C.l 
 
 a. Ad. sk. Venezuela. 
 D. Dyson [O.j. 
@@ -4999,7 +4999,7 @@ in the middle whitish slightly varied with cinereous : whole length
 
 llab. Southern Mexico, Belize, and Guatemala. 
 
-a. Ad. st. Belize. B. Dyson [C,]. 
+a. Ad. sk. Belize. B. Dyson [C,]. 
 b, $ jr. sk, Orizaba, Mexico. Sclater Coll, 
 56 DENDBOCOLAPTIDJE. 
 Cj d. Ad. sk. Northern Yucatan (Gaumer). Salvin-Godman Coll. 
@@ -5053,7 +5053,7 @@ border above: whole length 5 inches, wing 2, tail 2m2.
 
 Hah. Int. of S.E. Brazil and Bolivia. 
 
-a. Ad. st. S. America. 
+a. Ad. sk. S. America. 
 Purchased. 
 b. Ad. sk. Lagoa Santa, Minas, Brazil (Lund). Sclater Coll. 
 c. Ad. sk. Brazil. 
@@ -5079,7 +5079,7 @@ abdomen chestnut: whole length 5*7 inches, wing 1*9, tail 2*8.
 
 Bab. Bolivia. 
 
-a. Ad. st. (imp.). Bolivia. T. Bridges [0.]. 
+a. Ad. sk. (imp.). Bolivia. T. Bridges [0.]. 
 14 . 8YNALUXT8. 
 30. Synallaxis paucalensis. 
 Synallaxis paucalonsis, Tacz, Orn. Per. ii. p, 131. 
@@ -5683,7 +5683,7 @@ Salvin-Godman Coll.
 f. $ ad. sk.
 g. Ad. sk.
 h. Ad. sk.
-i. Ad. st. 
+i. Ad. sk. 
 Salta, Arg. Rep. 
 Bolivia {Bridges). 
 Bolivia. 
@@ -5756,7 +5756,7 @@ k, I. Ad. sk. Bolivia (?). Eyton Coll.
 
 m. Ad. sk. Bolivia (?). 
 1\ Bridges [0.]. 
-n. Ad. st. Bolivia (?). 
+n. Ad. sk. Bolivia (?). 
 T. Bridges [0.j . 
 18. Siptornis humilis. 
 Synallaxis humilis, Cab. J.f. 0.1873, p. 319 j ScL et Salv. NomencL 
@@ -5774,7 +5774,7 @@ Hah. Western Peru and Bolivia.
 Like S. modesta, but without the rufous tips to the external 
 rectriccs, the bill stronger, and superciliaries different. 
 
-a. Ad. st. Bolivia (imp. spec). T. Bridges [C.]. 
+a. Ad. sk. Bolivia (imp. spec). T. Bridges [C.]. 
 19. Siptornis pudibxtnda. 
 Synallaxis 
 pudibunda, ScL P. Z. S. 1874, p. 445, pi. Iviii. tig. 1 
@@ -5828,7 +5828,7 @@ at once distinguishes this species from 8. modesta, with which it is
 often confounded. 
 
 
-a, b. Ad. st. Chili. 
+a, b. Ad. sk. Chili. 
 Purchased. 
 
 c. Ad. sk. Chili (Leybold), Sclater Coll. 
@@ -5851,7 +5851,7 @@ Rio Negro, Patagonia (Hud- Salvin-Godman Coll.
 son), 
 
 
-m. Ad. st. Port Desire, Patagonia. C. Darwin [C.]. (Type of 
+m. Ad. sk. Port Desire, Patagonia. C. Darwin [C.]. (Type of 
 S. brunnea.) 
 n. £ ad.; o, Chupat, Patagonia. II. Durnford [C.]. 
 p. Jr. sk. 
@@ -5963,9 +5963,9 @@ a. Ad. sk. Chili (Heed). Sclater Coll.
 b, c. Ad. sk. Chili (Bridges). Sclater Coll. 
 d. Ad. sk. Chili (Bridges). Salvin-Godman Coll. 
 e. Ad. sk. Valparaiso, Chili. Zool. Soc. Coll. 
-/ . Ad. st. Valparaiso. Purchased. 
+/ . Ad. sk. Valparaiso. Purchased. 
 g. Ad. sk. Santa Cruz, Patagonia. C. Darwin [C.l. 
-7^. Ad. st. Falkland Islands. C. Darwin [C.j. 
+7^. Ad. sk. Falkland Islands. C. Darwin [C.j. 
 24. Siptornis hudsoni. 
 Synallaxis anthoides, Scl et 8alv. P. Z. S. 18G8, p. 141. 
 Synallaxis hudsoni, Scl P.Z.S. 1874, p. 25; Bumf. Ibis, 1877, 
@@ -6389,7 +6389,7 @@ Female similar.
 
 Bab. Uruguay and Argentina. 
 
-a, b. Ad. st. Maldonado. 0. Darwiu [0.]. 
+a, b. Ad. sk. Maldonado. 0. Darwiu [0.]. 
 c. Ad. sk.
 d, e. <$ ad. sk.
 / . $ ad. sic.; g.
@@ -6510,7 +6510,7 @@ L Ad. sk. Venezuela (Goering). Sclater Coll.
 
 J. Ad, st. Venezuela. 
 Purchased. 
-k. Ad. st. Venezuela. 
+k. Ad. sk. Venezuela. 
 C. Dyson [C.]. 
 1. J ad. sk. Puellaro, Ecuador (Fraser). Sclater Coll. 
 m. Acl. sk. Vicinity of Quito, Ecuador. Salvin-Godman Coll. 
@@ -6650,7 +6650,7 @@ Eyton Coll.
 Sclater Coll. 
 a. Ad. sk.
 e. Ad. sk.
-f. Ad. st. 
+f. Ad. sk. 
 Matto Grosso {II. II. Smith). 
 Bahia, Brazil. 
 Brazil. 
@@ -6719,7 +6719,7 @@ VOL. xv.
 
 DENDROCOLAPTID^E, 
 
-a, b. Ad. st. Bolivia. T. Bridges [C.]. 
+a, b. Ad. sk. Bolivia. T. Bridges [C.]. 
 c. Ad. sk. Tinta, Peru (Wliitehj). Sclater Coll. 
 d. Ad. sk. Tmt^V^m (Whitehj). Salvin-Godman Coll. 
 e. Ad. sk. Tinta, Peru. H. "Whitely [C.]. 
@@ -6770,8 +6770,8 @@ This species is distinguished by its rufescent breast, which is
 
 finely marked by bright white shaft-stripes. 
 
-a. Ad. st. Maldonado, Uruguay. C. Darwin [C.]. 
-b. Ad. st. S. America. Purchased. 
+a. Ad. sk. Maldonado, Uruguay. C. Darwin [C.]. 
+b. Ad. sk. S. America. Purchased. 
 c. Ad. sk. Paysandu, Uruguay (Gibson). Sclater Coll. 
 d. Ad.; e. Jr. Parana (Burmeister). Salvin-Godman Coll. 
 sk. 
@@ -6949,7 +6949,7 @@ inches, wing 3*2, tail 3*5.
 
 Hah. Bolivia. 
 
-«, b. Ad. st. Bolivia. T. Bridges [0.]. (Types 
+«, b. Ad. sk. Bolivia. T. Bridges [0.]. (Types 
 of the species.) 
 
 c. Ad. sk. Bolivia (Bridges). Eyton Coll. 
@@ -7062,9 +7062,9 @@ Above and beneath nearly uniform chestnut-red ; crest -well developed
 Uab. S.E. Brazil. 
 
 
-a. Ad. st. Brazil. 
+a. Ad. sk. Brazil. 
 E. Wilson, Esq. 
-b. Ad. st. Para. 
+b. Ad. sk. Para. 
 Ii. Graham, Esq. [P.]. 
 c. Ad. sk. Bahia, Brazil (Wticherer). Salvin-Godman Coll. 
 d. Ad. sk. Bio, Brazil 
@@ -7176,7 +7176,7 @@ Hal. S.E. Brazil.
 The large size and the striped plumage both above and beneath 
 render this species easily distinguishable. 
 
-a. Ad. st. Brazil. 
+a. Ad. sk. Brazil. 
 Ld. Stuart de Rothesay [P.], 
 b. Ad. sk. Rio Grande, Brazil (Bogers). Salvin-G-odman Coll. 
 c. d. Ad. sk. Brazil. 
@@ -7325,7 +7325,7 @@ The large size and generally rubiginous colour of this species
 
 render it easily distinguishable. 
 
-a. Ad. st. Mexico. 
+a. Ad. sk. Mexico. 
 Purchased. 
 b. <$ ad. sk. Mexico (Salle). Sclater Coll. 
 (Type of the species.) 
@@ -7415,7 +7415,7 @@ n,
 <S ad. sk. Bibalaz, Chiriqui (Arce). Salvin-Godman Coll. 
 (Probably different.) 
 
-o. Ad. st. Honduras (?). 
+o. Ad. sk. Honduras (?). 
 Purchased. 
 10. Automolus ochrolaemus. 
 Anabates ochrolaemus, Tsch. Faun. Per,, Aves, p. 240, pi. 20. fig. 2; 
@@ -7783,7 +7783,7 @@ Hab. S.E. Brazil.
 This species has a long tail with pointed feathers, and is easily 
 known from the preceding by its cinereous cap and rufous front. 
 
-a. Ad. st. Brazil. 
+a. Ad. sk. Brazil. 
 J. Gould, Esq. 
 b. J ad. sk. Sao Paulo, Brazil (Joyner). Salvin-Godman Coll. 
 e, Ad. sk. Santa E<5, Minas Geraes, Brazil Salvin-G adman Coll. 
@@ -8464,7 +8464,7 @@ Brazil.
 Sclater Coll. 
 Sclater Coll. 
 c. Ad. sk. Brazil. Salvin-Godman Coll. 
-d. Ad. st. Caracas ? D. Dyson [C.]. 
+d. Ad. sk. Caracas ? D. Dyson [C.]. 
 
 6. Anabazenops striaticollis. 
 Anabates montanus, Tsch. F. P., Aves, p. 240, t. xx. fig. 1 (?). 
@@ -8492,8 +8492,8 @@ closely allied to the group represented by the last three species.
 The bill also is scarcely divergent in structure. I am unable to say 
 whether it is quite identical with Anabates montanus of Tschudi. 
 
-a. Ad. st. Bogota. Purchased. 
-b. Ad. st. Bogota. E. Wilson, Esq. [P.]. 
+a. Ad. sk. Bogota. Purchased. 
+b. Ad. sk. Bogota. E. Wilson, Esq. [P.]. 
 c. Ad. sk. Bogota. Sclater Coll.) 
 d. Ad. sk. Colombia. Sclater Coll. j 
 (Types of the species.) 
@@ -8501,7 +8501,7 @@ e. Ad. sk. Bogota. Sclater Coll.
 f. Ad. sk. Bogota. Salvin-Godman Coll. 
 q. Ad. sk. South America. Sclater Coll. 
 A. Ad. sk. South America. Purchased. 
-i. Ad. st. Bolivia. T. Bridges [0.]. 
+i. Ad. sk. Bolivia. T. Bridges [0.]. 
 7. Anabazenops subalaris. 
 Anabates subalaris, Sclater, P. Z. S. 1859, p. 141. 
 Anabazenops subalaris, Sol Cat. A. B. p. 159 • Salv. P. Z. S. 1870, 
@@ -8738,7 +8738,7 @@ o; p. Ad. sk. Ckapada, Matto Grosso, Brazil Salvin-Godman Coll.
 (II. II. Smith), 
 q, r. Ad. sk. Brazil. Sclater Coll. 
 s, t. Ad. sk. Brazil. J. Gould, Esq. 
-u. Ad. st. Bolivia. 
+u. Ad. sk. Bolivia. 
 T. Bridges [C.]. 
 33. 
 ANABATOIDES. 
@@ -9179,7 +9179,7 @@ similar.
 
 Hal. S.E. Brazil, Paraguay, Bolivia, and 1ST. Argentina. 
 
-a. Ad. st. Brazil ^ M. Claussen [P ]. 
+a. Ad. sk. Brazil ^ M. Claussen [P ]. 
 b. Ad. sk. Bio Janeiro, Brazil. Salvin-Godman Coll. 
 c. Ad. sk. Brazil. Salvin-Godman Coll. 
 d. Ad. sk. Brazil. Jardine Coll. 
@@ -9261,7 +9261,7 @@ $. <$ ad. sk.
 t. (S ad. sk. 
 u} v. Ad. sk. 
 w. Ad. sk. 
-,r. Ad. st. 
+,r. Ad. sk. 
 ?/-<?'. Ad. sk. 
 d'. g ad.; e', f, 
 $ ad. sk. 
@@ -10295,7 +10295,7 @@ s. j ad. sk. Panama (McLecuman) Salvin-Godman Coll.
 t. $ ad. sk. Pallatanga, Ecuador (Fraser). Sclater Coll. 
 u. Ad. sk. Vicinity of Quito. Salvin-Godman Coll. 
 Vj w. Ad. sk. Simacu, Bolivia (Buckley). Salvin-Godman Coll. 
-cs9 y. Ad. st. Venezuela (?). D. Dyson [0.]. 
+cs9 y. Ad. sk. Venezuela (?). D. Dyson [0.]. 
 8. Dendrornis triangularis. 
 Dendrocolaptes triangularis, Lafr. Rev. Zool. 1842, p. 134: id. Mew. 
 
@@ -10502,7 +10502,7 @@ they do not differ materially in other respects and there are inter
 
 
 mediate forms. 
-a, b. Ad. st. S.America. Purchased. 
+a, b. Ad. sk. S.America. Purchased. 
 c. Ad. sk.
 d. Ad. sk,
 e. Ak. sk.
@@ -10793,7 +10793,7 @@ j. £ ad. sk. Para, Lower Amazons (Wal~ Tweeddale Coll.
 lace). 
 
 k. Ad. sk. Amazons (Hauxwell). Sclater Coll. 
-1. Ad. st. Bolivia. 
+1. Ad. sk. Bolivia. 
 T. Bridges [0.]. 
 2. Dendroplex picirostris. 
 Dendrocolaptes picirostris, Lafr. Rev. ZooL 1847, p. 70. 
@@ -10989,15 +10989,15 @@ whole length 12 inches, wing 5*4, tail 4*8. Femah similar.
 
 Hab. S.E. Brazil, Paraguay, and Northern Argentina. 
 
-a. Ad. st. Brazil. Lord Stuart de 
+a. Ad. sk. Brazil. Lord Stuart de 
 b, c. Ad. st.
-d. Ad. st. 
+d. Ad. sk. 
 Brazil. 
 Brazil.
 liotlichay [P.]. 
 M. Glaussen [P.J. 
 Purchased. 
-e. Ad. st. Brazil. Gould Coll. 
+e. Ad. sk. Brazil. Gould Coll. 
 / . Ad. sk.
 g. (S ad. sk.
 h. $ ad. sk. 
@@ -11137,7 +11137,7 @@ ley),
 t. Ad. sk. Tilotilo, Yungas, Bolivia (BuckSriator 
 Coll. 
 ley), 
-v. Ad. st. Bolivia. T. Bridges [C.]. 
+v. Ad. sk. Bolivia. T. Bridges [C.]. 
 
 (Type of AT. HneatocephatifS.) 
 
@@ -11177,7 +11177,7 @@ e. Ad. sk. Guatemala. Sdater Coll.
 %<j. Ad. sk. 8. America (?). E\ton Coll. 
 h. Ad. sk. S. America (?)* 
 Sclater Coll. 
-i. Ad. st. Venezuela(?). 
+i. Ad. sk. Venezuela(?). 
 Dyson [0.]. 
 5. Xiphocolaptes iftajoi\ 
 Trepadore grande, Azara, Apunt. ii. p. 277. 
@@ -11215,7 +11215,7 @@ uniform rusty red plumage. In some Bolivian specimens (X. major
 castaneus, Ridgw.) the black spots on the belly are nearly or quite 
 obsolete. 
 
-a. Ad. st. Bolivia. T. Bridges [0.]. 
+a. Ad. sk. Bolivia. T. Bridges [0.]. 
 I. $ ad. sL Bolivia. Salvin-Godman Coll. 
 c. 2 ad. sk. Bolivia. Sclater Coll. 
 d. Ad. sk. Bolivia. Eyton Coll. 
@@ -11354,7 +11354,7 @@ This species has a general resemblance to P. leucogaster, but is
 distinguished by its smaller size, cinnamomeous back, and the much 
 less defined spots on the head. 
 
-a, Ad. st. S.E. Brazil. Gould Coll. 
+a, Ad. sk. S.E. Brazil. Gould Coll. 
 b. Ad. sk. Trinidad. Sclater Coll. 
 c. Ad. sk. S.E. Brazil. Sclater Coll. 
 d. Acl. sk. S.E. Brazil. Salvin-Godman Coll. 
@@ -11873,7 +11873,7 @@ Salvin-Godman Coll.
 
 hust). 
 j, k. Ad. sk. Bolivia? (Bridges), Eyton Coll. 
-/. Ad. st. Bolivia. T. Biidges [C.J. 
+/. Ad. sk. Bolivia. T. Biidges [C.J. 
 
 
 17. Picolaptes bivittatus. 
@@ -12074,7 +12074,7 @@ The synonymy of this species and Z", trocMlirostrh ha* been much
 confused. There seems to be no doubt that this is the bird called 
 
 X. trochilirostris by Lafresnaye in his Monograph. 
-a. Ad. st. Brazil. Purchased. 
+a. Ad. sk. Brazil. Purchased. 
 b. xVd.sk.
 c. Ad. sk.
 d. Ad. sk. 
@@ -12151,7 +12151,7 @@ o* ad. sk. Babalioyo, Ecuador (Fraser). Sclater Coll. / Types of
 \ X. tho-
 c. 
 <$ ad. sk. Esmeraldas, Ecuador (Fraser). Sclater Coll. ] raciem. 
-d. Ad. st. Guyaquil, Ecuador. G-. Baiclay, Esq. [C.]. 
+d. Ad. sk. Guyaquil, Ecuador. G-. Baiclay, Esq. [C.]. 
 eff. Ad.sk. Sarayacu, Ecuador {Buckley). Sahin-Godman Coll. 
 g) h Ad.sk. Sta. Rita, Ecuador (Villa- Salvin-Godman Coll. 
 gomez). 
@@ -12272,7 +12272,7 @@ guishable from X. trochiliroslris,
 
 a. Ad. sk. Bolivia. Sclater Coll. 
 b. Ad. sk. Bolivia. Evton Coll. 
-c. Ad. st. Bolivia. T." Bridges [0.]. 
+c. Ad. sk. Bolivia. T." Bridges [0.]. 
 4. XiphorlryiLchiis pusillns. 
 Xiphorhvnchus pusillus, Sclater, P. Z. S. 1860, p. 278 (Bogota); id. 
 Cat. A. B. p. 168; Salvin, P. Z. S. 1870, p. 193 (Veragua)'; Scl 
@@ -12663,7 +12663,7 @@ e. <$ ad, sk. Bartica Grove, Brit. Guiana Salvin-Godman Coll.
 f. $ ad.; g. Para, Lower Amazons (Wallace). Salvin-Godman Coll. 
 * Ad.sk. 
 Ji. J ad. sk. Para, Lower Amazons (Wallace). Sclater Coll. 
-i Ad. st. Brazil (?). Purchased. 
+i Ad. sk. Brazil (?). Purchased. 
 7. Dendrocincla olivacea. 
 Dendrocops atrirostris, Lafr. Rev. Zool. 1851, p. 466 (part.); Sclater, 
 P. Z. S. 1860, pp. 66, 278, 293 (Ecuador). 
@@ -12762,7 +12762,7 @@ This, at least, is a tolerably well-marked species, to bo recognized
 by its striated head, and the wing-edgings being nearly like the 
 back. 
 
-a. Ad. st. Brazil. 
+a. Ad. sk. Brazil. 
 Purchased. 
 b} c. Ad. sk. Bahia (Wucherer). Salvin-Godman Coll. 
 
@@ -12939,7 +12939,7 @@ Female similar.
 
 Hah. S.E. Brazil. 
 
-a. Ad. st. Brazil. M. Olaussen [P.]. 
+a. Ad. sk. Brazil. M. Olaussen [P.]. 
 b, e. S ad. sk. Sao Paulo, Brazil (Joyner). Salvin-Godman Coll. 
 d. tf ad. sk. Bio Claro, Goyaz, Brazil (Joy- Salvin-Godman Coll. 
 ntr). 
@@ -13136,7 +13136,7 @@ me for examination, is somewhat divergent towards D. concohr, the
 bars beneath being rather more obsolete. This, however, is more or 
 less the case in all the Amazonian specimens. 
 
-a. Ad. st. S. America. Purchased. 
+a. Ad. sk. S. America. Purchased. 
 b, c. <$ ad. sk. 
 d, e. (S $ ad. sk. 
 / . Ad. sk. 
@@ -13255,7 +13255,7 @@ This is a smaller bird than D. radiolatus, and has its under
 surface more completely barred. The head also is barred, and shows 
 no lighter shaft-spots. 
 
-a. Ad. st. Honduras. Purchased. 
+a. Ad. sk. Honduras. Purchased. 
 1. Ad. sk. Vicinity of Belize, Brit. Honduras Salvin-Godman Coll. 
 c. Ad. sk. 
 (Blancaneaux). 
@@ -17474,7 +17474,7 @@ $ ad. bk.
 h, i. <$ $ ad. sk. S.E. Brazil. Gould Coll. 
 
 j. Ad. sk. S.E. Brazil. Salvin-Godman Coli 
-'k. Ad. st. S.E. Brazil. J. Gould, Esq.. 
+'k. Ad. sk. S.E. Brazil. J. Gould, Esq.. 
 5. Myrmotherula gutturalis. 
 Myimotherula 
 gutturalis, ScL et Salv. Ibis, 1881, p. 269 (British 
@@ -18343,7 +18343,7 @@ I Margins paler rufous 7. ntfimargimtus, p. 247.
 (Margins darker rufous 8. frater, p. 248. 
 1. Herpsilochmus pileatus. 
 Myiothera pileata, Idcht Verz, Doubt p. 44; Max. Beitr. iii. p. 1078. 
-Formicivora pileata, Menttr. MSm. St Petersb. s6r. vi. (Sci. Nat) 
+Formicivora pileata, Menttr. Mem. St Petersb. ser. vi. (Sci. Nat) 
 
 
 t. i. p. 485 ; Burm. Syst. Ueb. iii. p. 78. 
@@ -18879,7 +18879,7 @@ Hal. Colombia, Ecuador, and Venezuela.
 The long tail at once distinguishes this species, which is otherwise 
 something like F. striata. 
 
-a, b. Ad. st. Bogota. Purchased, 
+a, b. Ad. sk. Bogota. Purchased, 
 c, d. ($ ad. sk. Colombia. Sclater Coll. 
 (Types of the species.) 
 
@@ -19348,7 +19348,7 @@ whole length 4*7 inches, wing 1*9, tail 1-7. Female similar.
 
 Eah. S.E. Brazil. 
 
-a. Ad. st. Brazil. Purchased. 
+a. Ad. sk. Brazil. Purchased. 
 b, c. Ad. sk. Bahia, Brazil (Wucherer). Salvin-Godman Coll. 
 d. Ad. sk. Bahia, Brazil (Wucherer). 
 Sclater Coll. 
@@ -19414,8 +19414,8 @@ black, three exterior rectrices tipped with white: whole length
 
 Eab. Guatemala and Central America down to Colombia. 
 
-a. Ad. st. Coban, Guatemala. Purchased. 
-b. Ad. st. Central America. Purchased. 
+a. Ad. sk. Coban, Guatemala. Purchased. 
+b. Ad. sk. Central America. Purchased. 
 c. Ad. sk. Choctum, Vera Paz (Sahin). Salvin-Godman Coll. 
 d. Ad. sk. Choctum, Vera Paz (Salvin). Sclater Coll. 
 e. Ad. sk. Chisec, Vera Paz (Salvin). Salvin-Godman Coll. 
@@ -19974,7 +19974,7 @@ p. 666.
 Lanius notodelos, Cuv. in Mus. Par. 
 Lanius domicella, Licht. Doubl. p. 47. 
 Myiothera domicella, Max. Beitr. iii. p. 1058. 
-Formicivora domicilla, MinStr, MSm. Acad. St. Petersb. se>. vi. (Set. 
+Formicivora domicilla, MinStr, Mem. Acad. St. Petersb. ser. vi. (Set. 
 Nat) t. i. p. 503, pi. vii. figs. 1, 2. 
 Pyriglena domicella, Cab. Wiegm. A7'ch. 1847, pt. i. p. 212; Bp* 
 Consp. i. p. 202; Burm. Sijst. Xleb. iii. p. 50; Euler, J.f.O. 1867, 
@@ -21660,7 +21660,7 @@ whole length 5 inches, wing 2*7, tail 1*6. Female similar.
 
 Hah. Guiana, Amazonia, Ecuador, and Colombia. 
 
-a. Ad. st. Demerara. Purchased. 
+a. Ad. sk. Demerara. Purchased. 
 b. $ ad. sk. Cayenne. Salvin-Godman Coll. 
 c. Ad. sk. Cayenne. Gould Coll. 
 * Ecfer to :— 
@@ -21767,7 +21767,7 @@ spot (?).
 
 Hah. Colombia and Amazonia. 
 
-a. Ad. st. Amazonia. 
+a. Ad. sk. Amazonia. 
 A. R. Wallace [C.]. 
 b. Jr. sk. Bogota. 
 Sclater Coll. 
@@ -22094,7 +22094,7 @@ black: whole length 7 inches, wing 3*4, tail 2*5.
 
 Hab. Amazonia. 
 
-a. Ad. st. Upper Amazons (Wallace). Purchased. 
+a. Ad. sk. Upper Amazons (Wallace). Purchased. 
 (Type of the species.) 
 28 . TOEMICAEITTS. 
 :*oi 
@@ -22438,7 +22438,7 @@ the neck seem to be better characters; but it is difficult to decide
 to which form to refer some of the specimens without the aid of 
 locality! 
 
-a. Ad. st. Cayenne. Purchased. 
+a. Ad. sk. Cayenne. Purchased. 
 b. S &d. sk. Remedios, Antioquia (Salmon). Salvin-Godman Coll. 
 c. S ad. sk. SanEsteban,Venezuela(Goering). Salvin-Godman Coll. 
 d. Ad. sk. Trinidad. Sclater Coll. 
@@ -22557,9 +22557,9 @@ tail 2-8, tarsus 1*5. Female similar.
 
 Hah. S.E. Brazil. 
 
-a. Ad. st. Brazil. 
+a. Ad. sk. Brazil. 
 Gould Coll. 
-b. Ad. st. Brazil. Purchased. 
+b. Ad. sk. Brazil. Purchased. 
 c} d, e. Ad. sk. Sao Paulo, Brazil (Joyner). Salvm-Godman Coll. 
 /. <5 ad. sk. Pelotas, Ilio Grande do Sul, Salvin-Godman Coll. 
 Brazil (Joyner). 
@@ -23092,7 +23092,7 @@ and under wing-coverts fulvous: whole length 7 inches, wing 4*4,
 tail 1*6, tarsus 2. Female similar. 
 Hab. Guiana, Lower Amazonia, and K Brazil. 
 
-a. Ad. st. Para. K. Graham, Esq. 
+a. Ad. sk. Para. K. Graham, Esq. 
 rp.]. 
 b. $ ad. * c, d. Camacusa, Brit. Guiana Salvm-Godman Coll. 
 5 ad.; e. ? (Whitehj). 
@@ -23365,7 +23365,7 @@ Hah. Colombia, Ecuador, and Peru.
 The small size and uniform colour distinguish this species. 
 
 
-a. Ad. st, 
+a. Ad. sk. 
 b, c. Ad.; d, e. 
 Bogota. 
 Bogota. 
@@ -23450,9 +23450,9 @@ whole length 7 inches, wing 3-D, tail 2-2, tarsus 2. Female similar.
 
 Jlab. Colombia and Ecuador. 
 
-a. Ad. st. Bogota. 
+a. Ad. sk. Bogota. 
 Purchased. 
-h. Ad. st. S. America. 
+h. Ad. sk. S. America. 
 Purchased. 
 c. Ad. sir. Bogota. 
 Sclater Coll. 
@@ -23801,7 +23801,7 @@ wing-coverts fulvous; bill yellowish : whole length 4*5 inches, wing
 
 Ilah. Colombia, Ecuador, Veragua, and Costa llica. 
 
-a, b. Ad. st. Colombia. Purchased. 
+a, b. Ad. sk. Colombia. Purchased. 
 e. Ad. sk. Rio Napo, Ecuador. Sclater Coll. 
 d, e. Ad. sk.
 f,g. Ad.sk.
@@ -24194,7 +24194,7 @@ Hah S.E. Brazil.
 The plain brown plumage above and the prominent white ear-
 tuft render this species easily recognizable. 
 
-a. Ad. st. S.E. Brazil. Purchased. 
+a. Ad. sk. S.E. Brazil. Purchased. 
 b. Ad. sk.
 c. J ad. sk. 
 Bio de Janeiro (Toads). 
@@ -24271,7 +24271,7 @@ similar (?).
 
 JIab. S.E. Brazil, vicinity of Bahia. 
 
-a. Ad. st. S.E. Brazil. Purchased. 
+a. Ad. sk. S.E. Brazil. Purchased. 
 b, c. (S ad. sk. Baliia ( Witchew). Sclater Coll. 
 d, e. Ad. ,sk. Baliia ( Wucherer). Sahin-Godman Coll. 
 /. Ad. sk. S.E. Brazil. M. Claussen [P.]. 
@@ -24617,7 +24617,7 @@ on the breast, and feathers of back, wings, rump, flanks, and
 lower belly edged with brownish. 
 
 Hal. Colombia. 
-a. Ad. st. S. America. Purchased. 
+a. Ad. sk. S. America. Purchased. 
 b. Ad.; c. Jr. sk. 
 d. Ad.; e. Jr. sk. 
 / . Ad.; g. Jr. sk. 
@@ -24747,7 +24747,7 @@ IJab. S.E. Brazil.
 
 The white throat and breast at once distinguish this species. 
 
-a. Ad. st. S.E. Brazil. Purchased. 
+a. Ad. sk. S.E. Brazil. Purchased. 
 b, c, d. Ad. sk. S.E. Brazil. Purchased. 
 e,f. Ad.; g. Jr. sk. S.E. Brazil. Sclater Coll. 
 A.'Ad.; i. Jr.sk. S.E.Brazil. Salvin-Godman Coll. 
@@ -24917,7 +24917,7 @@ e. $
 ad. sk. Sarayacu, Ecuador (Buckley). Sclater Coll. j 
 (Types of the species.) 
 4. PTEROPTOCHUS. 
-Pteroptochos, Kittlfyz, M6m. pris. Ac. Sc. Si Petersb. 
+Pteroptochos, Kittlitz, Mem. pris. Ac. Sc. St Petersb. 
 1831, p. 178 P. rubecula. 
 
 This peculiar genus contains two well-marked species, both restricted 
@@ -24972,7 +24972,7 @@ Purchased.
 i. Ad. sk. Chili {Capt. King). Eyton Coll. 
 
 2. Pteroptoclras albicollis. 
-Pteroptochus albicollis, Kittl. Mim. Acad. Sei. St. Petersb. 1831, 
+Pteroptochus albicollis, Kittl. Mem. Acad. Sci. St. Petersb. 1831, 
 p. 180, pi. iii.; Darwin, Zool. Voy. 'Beagle? iii. p. 72; Bridges, 
 P.Z.S. 1843, p. Il l (Chili); Gay, Faun. Chil I p. 303; Bp. 
 Consp. I p. 205; Cab. et Ilein. Mus. Hem. ii. p. 21; Burm. J.f. 0. 
@@ -25135,7 +25135,7 @@ belly and crissum; bill and feet dark horn-colour: whole length
 
 Hah. Southern Chili and Western Patagonia. 
 
-a. Ad. st. Chili. C. Darwin [O.]. 
+a. Ad. sk. Chili. C. Darwin [O.]. 
 2. Hylactes castaneus. 
 Pteroptochus castaneus, Phil, et Zandb. Wiegm. Arch. 1865, pt. i. 
 p. 56, et I860, pt. i. p. 121; Phil. An. Univ. ChiL xxxi. p. 254; 
@@ -25192,7 +25192,7 @@ black : whole length 9 inches, wing 3*7, tail 2*9. Female similar.
 
 Hah. Central and Northern Chili. 
 
-a. Ad. st. Chili. Baron Laugier's Coll. 
+a. Ad. sk. Chili. Baron Laugier's Coll. 
 b. c? ad. sk. Chili (Leybold) Salvin-Grodman Coll. 
 c, d. Ad. sk. Chili. 
 T. Bridges \G.]. 
@@ -25242,7 +25242,7 @@ wing 3*8, tail 3*2. Female similar.
 
 Hab. Colombia, Ecuador, and Venezuela. 
 
-a, b. Ad. st. Bogota. Purchased. 
+a, b. Ad. sk. Bogota. Purchased. 
 c, d. Ad. sk. Bogota. Sclater Coll. 
 
 e. cS ad. sk. Bogota. Salvin-Godman Coll. 

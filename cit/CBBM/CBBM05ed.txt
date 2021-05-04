@@ -1504,7 +1504,7 @@ c, d. Juv. sk. South Sweden, July 28. Ilr. TT. Meves [C.].
 
 (Mercs), 
 
-f. Ad. st. Sweden. 
+f. Ad. sk. Sweden. 
 //. Ad. hk. Eh er Elbe. It. B. Sharpe, Esq_. [P.]. 
 //, i, /r. Juv. sk. Constantinople, Sept. 15 K. B. Sharpe, Ebq_. [P.]. 
 (Pram1;. 
@@ -1640,7 +1640,7 @@ few may remain in
 
 North Africa to breed. 
 
-a, h. Ad. st. Great Britain. J. Clark, Esq. [C.]. 
+a, h. Ad. sk. Great Britain. J. Clark, Esq. [C.]. 
 
 c. Ad. sk. Middlesex (0. Salvin). F. Godman and 0. 
 Salvin, Esqrs. [P.]. 
@@ -1797,7 +1797,7 @@ in Central Africa, and certainly in South Africa.
 
 a, b. Ad. sk. Devonshire. Col. Montagu [P.]. 
 
-e. Ad. st. Saffron Walden, Essex. J. Clark, E.q. [P.]. 
+e. Ad. sk. Saffron Walden, Essex. J. Clark, E.q. [P.]. 
 d. 
 Ad. sk. Cambridge (Baker). F. Godman and O. 
 Salvin, Esqrs. [P.], 
@@ -2236,7 +2236,7 @@ in colour and size with small specimens of the Himalayan form.
 
 a, b. Ad. sk South England. F. Godman and O. Salvin, 
 Esqrs. [P.]. 
-c Ad. st. Near London. W. Yarrell, Esq. [P.]. 
+c Ad. sk. Near London. W. Yarrell, Esq. [P.]. 
 
 d. Ad. sk. Surbiton, Surrey, Aug. Dr. A. Gunther [P.]. 
 e,f. <S ad. sk. Cookham, Berks. July R. B. Sharpe, Esq. rp.l 
@@ -3361,9 +3361,9 @@ The Eufous "Warbler breeds in Spain and Portugal, and throughout
 North Africa as far south as Abyssinia, in the latter country 
 being a resident. It is said also to winter on the Gold Coast. 
 
-a. Ad. st. Start Point, Devonshire. W. D. Llewellyn, Esq. [P.]. 
+a. Ad. sk. Start Point, Devonshire. W. D. Llewellyn, Esq. [P.]. 
 b. Ad. sk. Tangier (Olcese). Col. Irby [P.]. 
-c. Ad. st. Tunis. L. Fraser, Esq. [C.]. 
+c. Ad. sk. Tunis. L. Fraser, Esq. [C.]. 
 
 * Spelt galactotes. 
 v2 
@@ -3378,7 +3378,7 @@ tino, Algeria, May 19,1857 E^qrs. [P.].
 
 (0. S.). 
 i, /'. Ad. sk. Egypt. Sir J. Bowring [P.]. 
-1. Ad. st. Egypt. 
+1. Ad. sk. Egypt. 
 Sir J. Bo wring1 [P.]. 
 m. 
 2 ad. sk. Koomaylee, Abyssinia, Feb. W. T. Blanford, Esq. [P.], 
@@ -4684,12 +4684,12 @@ Caspian.
 56 
 TTJRDID2E. 
 
-a. Ad. st. Europe. 
+a. Ad. sk. Europe. 
 b,c. $ $ ad.sk. Carmarthenshire. Col. Montagu [P.]. 
 d, e,f. 6 ad. sk. Avington, Hants, May 12. R. B. Sharpe, Esq. [P.]. 
 </,/>,'/, &. d ad. sk. Avington, May. Capt. Shelley [P.J. 
 I Ad. sk. Cooldiam, Berks, Aug. 29. R. B. Sharpe, Esq. [P.]. 
-m. Ad. st. Cookham, Berks. Mr. W. Briggs [P.]. 
+m. Ad. sk. Cookham, Berks. Mr. W. Briggs [P.]. 
 n. 
 9 ad. sk. Park Hatch, Godalming, F. Godman and 0. Salvin, 
 May 28,1838 (F. Q.). Esqrs. [P.]. 
@@ -4861,11 +4861,11 @@ I. imm. sk. Pagham, Sussex, Sept. 3. R. B Sharpe, Esq. [P.],
 ni. imm. sk. Cookham, Berks, Aug. 28. R. B. Sharpe, Esq.JP.J. 
 n. 
 Ad. st. Cookham. Mr. W. Briggs [P.J. 
-n. o. Ad. st. Saffron Walden, Essex. J. Clark, Esq. [C.J 
+n. o. Ad. sk. Saffron Walden, Essex. J. Clark, Esq. [C.J 
 p} q. Ad.; r, s. juv. st. Cambridgeshire. Mr. J. Baker [C.]. 
 t. juv. sk. Belfast, Ireland. M. Beresforcl, Esq. [P.J 
 w/u. Ad. sk. Antwerp, Belgium. R. B. Sharpe, Esq. [P.J 
-w. Ad. st. France. R. B. Sharpe, Esq. [P. J 
+w. Ad. sk. France. R. B. Sharpe, Esq. [P. J 
 x.y. <$ Q acl sk. S. Norway, July 1866 F. Godman & O. Salvin, 
 (F. G.). Esqrs. [P.]. 
 a. 
@@ -5009,8 +5009,8 @@ and Nubia.
 
 a. <$, b. 2 ad. sk. Mt. Tabor; Palestine. Canon Tristram [0.]. 
 c. Ad. sk. Europe. Purchased. 
-d. Ad. st. Piedmont. 
-e. Ad. st. South France. R. B. Sharpe, Esq. [PA 
+d. Ad. sk. Piedmont. 
+e. Ad. sk. South France. R. B. Sharpe, Esq. [PA 
 /. Ad. sk. Near Gibraltar. Col. Irby [PA 
 g. Ad. sk. Tangiers (Olcese). Col. Irby [P.J. 
 16. Phylloscopus ruins. 
@@ -5153,14 +5153,14 @@ b. Ad. &k. Wiltshire. Col. Moulagu 11V|.
 c. $ ad. sk. Ayington, Hants, May 10. Capt. Shelley [P.]. 
 
 d, e. S ? ad. sk. 
-/, g. Ad. st. 
+/, g. Ad. sk. 
 
 h. Ad. si. 
 i. <$ ad. sk. 
 k. Ad. sk. 
 /.Ad. st. 
 »«. $ ad. sk. 
-%, o. Ad. st. 
+%, o. Ad. sk. 
 p. 
 Ad. sk. 
 q, r. Ad. sk. 
@@ -5374,7 +5374,7 @@ i-n Ad sk. Nepal. B. H. Hodgson, Esq. [1*1
 
 o. Ad. sk. Nepal. B. H. Hudson, Esq. [P.]. 
 (Type of Phyllopneuste affinis, Hodgson.) 
-P- Ad. st. India. J. Gould, l4 . [P.1 
+P- Ad. sk. India. J. Gould, l4 . [P.1 
 ?• Ad. sk. Madras. 
 ?*. Ad. sk. Bengal. India Museum. 
 
@@ -6265,7 +6265,7 @@ as far as the Arctic circle. In England it is only an accidental
 visitor. It passes through South Europe and North Africa on 
 migration, and winters in South Africa (Damara Land, Ovampo,&c). 
 
-a, b. Ad. st. Europe. Baron De Selyschamps [P.]. 
+a, b. Ad. sk. Europe. Baron De Selyschamps [P.]. 
 Long-
 c. Ad. sk. 
 d. 2 ad* sk. 
@@ -6283,7 +6283,7 @@ Constantinople (May 9,
 Esqrs. [P.]. 
 E. B. Sharpe, Esq. [P.I 
 E. B. Sharpe, Esq. [Pj . 
-h. Ad. st. 
+h. Ad. sk. 
 1 $ ad. sk. 
 W. Pearce). 
 Tunis. 
@@ -7122,9 +7122,9 @@ c.
 <$ ad. sk. Villacidro, Sardinia, April 13, H. Seebohm, Esq. [P.]. 
 1871 (A.B.Brooke). 
 d. S ad. sk. South Prance, Sept. 1876. H. Seebohm, Esq. [P.]. 
-e. Ad. st. France. 
+e. Ad. sk. France. 
 R. B. Sharpe, Esq. 
-f. Ad. st. Europe. 
+f. Ad. sk. Europe. 
 2. Acrocephalus phragmitis*. 
 ? La Fauvette de bois, ou la Roussette, Briss. Orn. iii. p. 393 
 (1760). 
@@ -7238,12 +7238,12 @@ b, c, d. $ J ad.
 *,/,</• <$2 ad. 
 h} u Juv. sk, 
 7c, I Ad sk. 
-m, n. Ad. st. 
+m, n. Ad. sk. 
 o. $ ad. sk. 
 p. Ad. sk. 
 q. Ad. sk. 
 r. 3 ad. sk. 
-s. Ad. st. 
+s. Ad. sk. 
 sk.
 , bk.
 Wiltshire, 
@@ -7527,7 +7527,7 @@ it winters in South Africa—Transvaal, Natal, Daniara Land, Congo
 
 river, &c. 
 a. Ad. sk.
-b. Ad. st. 
+b. Ad. sk. 
 Europe. 
 Holland. 
 Purchased. 
@@ -7909,7 +7909,7 @@ The Marsh Reed-Warbler breeds in Central and Southern Europe,
 extending its range eastwards as far as Persia, and possibly as far 
 as Turkestan. It winters in Central Africa. 
 
-a. Ad. st. Europe. 
+a. Ad. sk. Europe. 
 b. 2 
 a<l. sir. Valkenswaard, Holland. F. Godman and O. Salvim 
 Esqrs. [P.]. 
@@ -8016,16 +8016,16 @@ its range eastwards as far as Turkestan and Baluchistan.
 It is said to pass through Egypt and Nubia on migration, and 
 winters in Africa. 
 
-a. Ad. st. England. 
+a. Ad. sk. England. 
 b-m. <$ $ ad. et juv. sk. Cookham, Berks, July. B, B. Sharpe, Esq. [P.J. 
-ft, o,p. Ad. st. Cambridgeshire. Mr. J. Baker. 
+ft, o,p. Ad. sk. Cambridgeshire. Mr. J. Baker. 
 q, r. Ad. sk. Cambridgeshire, June E. Godman and 0. Sal14; 
 1856 (O. S.). Tin, Esqrs. [P.]. 
 s, t. $ ad. sk. Europe. Purchased. 
 
 u. 
 Ad. sk. Europe. Baron De Selys-Longchamps. 
-v. Ad. st. France. B. B. Sharpe, Esq. [P.]. 
+v. Ad. sk. France. B. B. Sharpe, Esq. [P.]. 
 to. 2 ad. sk. Gibraltar. Col. Irby [P.]. 
 SL\ Ad. sk. Constantinople (JElwes). E. Godman and 0. Sal-
 vim Esqrs. [P.]. 
@@ -8513,7 +8513,7 @@ the valley of the Danube. It is also supposed to breed in Asia
 ILinor and Palestine, probably wintering in North Africa. 
 
 a. Ad. sk. Europe. Purchased. 
-h. Ad. st. Europe. Zoological Society. 
+h. Ad. sk. Europe. Zoological Society. 
 Tt/RDIDJE. 
 
 112 
@@ -8597,7 +8597,7 @@ greater number migrate to North Africa for the winter.
 
 a. Ad. sk. Europe. 
 Purchased. 
-b. Ad. st. Cambridgeshire. Mr. J. Baker [0.]. 
+b. Ad. sk. Cambridgeshire. Mr. J. Baker [0.]. 
 c. Ad. sk. WickenFen, Cambridgeshire. F. Godman and 0. Sal-
 June 10, 1847. yin? Esqrs. [P.*|. 
 d. Ad. sk. Whittlesea Mere. F. Godman and 0. Salvin, 
@@ -8916,7 +8916,7 @@ Islands. It probably winters in North Africa, though it is said to
 be occasionally found in South Europe throughout the year. 
 
 a, b, c. Ad. sk. Lincolnshire. II. Seebohm, Esq. [P.]. 
-d, e. Ad. st. Cambridgeshire. Mr. J. Baker [CI. 
+d, e. Ad. sk. Cambridgeshire. Mr. J. Baker [CI. 
 
 f. 
 Ad. sk. Cambridgeshire; June 3, 1850 F. Godman and 0. Sal(
@@ -8932,9 +8932,9 @@ O. &).
 vin, Esqrs. [P.]. 
 m. Ad. sk. Middlesex (O. &). F. Godman and 0. Salvin, 
 Esqrs. [P.], 
-n, o. Ad. st. "Wiltshire. Col. Montagu [Pi], 
+n, o. Ad. sk. "Wiltshire. Col. Montagu [Pi], 
 
-p. Ad. st. Europe. 
+p. Ad. sk. Europe. 
 Baron Laugier. 
 q. Juv. sk. Europe. 
 Baron Laugier. 
@@ -10412,7 +10412,7 @@ Formosa. It breeds on the mountains near Yokohama, and winters
 in the plains. 
 
 a. Ad. sk. Yokohama, Japan. H. Pryer, Esq. [O.l. 
-b. Ad. st. Japan. Purchased. 
+b. Ad. sk. Japan. Purchased. 
 The synonymy of the intermediate form is as follows:— 
 
 Cettia cantans minuta (Temm. et Swinh.). 
@@ -11483,7 +11483,7 @@ the south-east of Australia, ascending the hills to breed and
 wintering in the plains. 
 
 a. Ad. st.
-b. Ad. st. 
+b. Ad. sk. 
 S.E. Australia. 
 S.E. Australia. 
 J. Gould, Esq. [0. 
@@ -11572,7 +11572,7 @@ throughout Eastern Australia as far south as Moreton Bay, probably
 breeding in the mountains and migrating to the plains during 
 
 the cold season. 
-a. Ad. st. N.E. Australia. J. Gould, Esq. [0.]. 
+a. Ad. sk. N.E. Australia. J. Gould, Esq. [0.]. 
 b. Ad, sk. N.E. Australia. Linn. See. [P.]. 
 (TSpe of T. varius, Pall., apud Yig. and ITorsf.) 
 c.Ad.sk. rs.E. Australia. II. 8eebohm,Esq.[P/]. 
@@ -11702,7 +11702,7 @@ The Ceylonese Ground-Thrush is confined to the island of Ceylon,
 breeding in the mountain-forests and descending into the jungle 
 during the cold season. 
 
-. Ad. st. 
+. Ad. sk. 
 Ceylon. Purchased. 
 
 11. G-eocicMa mollissima. 
@@ -11771,7 +11771,7 @@ g. Ad. sk. Nepal.
 B. H. Hodgson, Esq. [P.]. 
 (Type of Oreocincla rostrata, Hodgs.) 
 h Juv. st. Nepal. B. II. Hodgson, Esq. [P.]. 
-*. Ad. st. Nepal. B, H. Hodgson, Esq. [P.]. 
+*. Ad. sk. Nepal. B, H. Hodgson, Esq. [P.]. 
 
 h. Ad. sk. Darjeeling. H. Seebohm, Esq. [P.J. 
 I. Ad. sk. Darjeeling (Person). India Museum. 
@@ -11860,9 +11860,9 @@ Assam westwards almost to the confines of Cashmere. It is not
 known to be migratory. 
 
 a, b. Ad. sk. Near Simla. Cant. Staekhonse Pin will [P.]. 
-c. Ad. st. Nepal {Hodgson). India Museum. (Type of 
+c. Ad. sk. Nepal {Hodgson). India Museum. (Type of 
 Turdus rostratus, Iloclgs.) 
-d. Ad. st. Nepal. B. PL Hodgson, Esq. [P.]. 
+d. Ad. sk. Nepal. B. PL Hodgson, Esq. [P.]. 
 e-h.. Ad. &juv.sk. Nepal. B. H. Hodgson, Esq. |_P.]. 
 
 /. Ad. sk. Bootan (Pemherton). India Museum. 
@@ -12132,7 +12132,7 @@ Kulil's Ground-Thrush has been found in Java, Sumatra, and
 
 Lombock, and is not supposed to be migratory. 
 
-a. Ad. st. [Java.] Mas«ena Coll. 
+a. Ad. sk. [Java.] Mas«ena Coll. 
 b, c. Ad. sk. Lombock. A. K. Wallace, Esq. [C] 
 d. $ imm. sk. Lombock. A. II. Wallace, Esq. [0. 
 e,f, g. Juv.sk. Lombock. A. It. Wallace, Esq. [0. 
@@ -12286,7 +12286,7 @@ The Timor Ground-Thrush appears to be confined to the island of
 Timor, where it is supposed to be a resident. 
 
 
-a. Ad. st. Timor. Zoological Society. 
+a. Ad. sk. Timor. Zoological Society. 
 h-e. Ad. sk. Timor. A. li.""Wallace, Kscp [C ]. 
 170 TUBDTDJ3. 
 
@@ -12604,7 +12604,7 @@ species.
 Gould's Ground-Thrush appears to be confined to the island of 
 Java, where it is supposed to be a resident. 
 
-a. Ad. st. Java. 
+a. Ad. sk. Java. 
 Purchased. 
 h. Ad. sk. Java. 
 A. R. Wallace, Esq. [C.]. 
@@ -12798,7 +12798,7 @@ California, stragglers occasionally wandering as far as the Eastern
 
 States. 
 
-a. Ad. st. California (DavidDay). Zoological Society. 
+a. Ad. sk. California (DavidDay). Zoological Society. 
 b. 
 c? ad. sk. Sumass Prairie, British J. K. Lord, Esq. [C.]. 
 Columbia. 
@@ -13727,7 +13727,7 @@ E.B. Sharpe, Esq. [P.],
 g. <$ ad. sk. Oookham, Berks. Feb. 28. 
 1874, 
 E. B. Sharpe, Esq. [P.], 
-h. Ad. st. 
+h. Ad. sk. 
 i. $ ad. sk. 
 k. Imm. sk. 
 l,m. Ad.; n. 
@@ -13741,7 +13741,7 @@ E. Godinan and 0.
 Sab in, Esqrs. [P.]. 
 J. Mallam, Esq. [P.]. 
 Mr. J. Baker [0.]. 
-o. Ad. st. 
+o. Ad. sk. 
 p. $ ad. sk. 
 q. $ ad. sk. 
 r. $ imm. sk. 
@@ -13875,7 +13875,7 @@ it migrates in immense numbers to winter in South Europe and
 North Africa as far south as Nubia. The Siberian birds apparently 
 winter in South Persia. 
 
-a. Ad. st. England. 
+a. Ad. sk. England. 
 J. Gould, Esq. [P.]. 
 I. Ad. ak. Devonshire. Col. Montagu [P.]. 
 c. Ad. sk. Avington; Hants, Nov. 25, E. Shelley, Esq, [P.]. 
@@ -13888,7 +13888,7 @@ V- Ad. sk. Cookham, Dec. 28, 1874. R.B.Sharpe,Esq.[P.].
 h. 
 J ad. sk. Park Hatch, Godalming, F. Go dm an and 0. 
 Jan. 1857. Salvin, Esqrs. [P.]. 
-i, k. Ad. st. Epping Forest. Henrv Doubleday, Esq, 
+i, k. Ad. sk. Epping Forest. Henrv Doubleday, Esq, 
 [P:]. 
 Z, m. Ad. j n} Cambridgeshire. Mr. J. Baker [C.]. 
 
@@ -14064,7 +14064,7 @@ the ltirgesfc number migrate to Southern Europe and North Africa
 to winter. In South Europe a few occasionally remain to breed. 
 The Siberian birds apparently winter in South Persia. 
 
-a. Ad. st. England. X Gould, Esq. 
+a. Ad. sk. England. X Gould, Esq. 
 b. Ad. sk. Devonshire. Col. Montagu [P.]. 
 <•. J ad. ,sk. Aviu^on, Hants, May 12, R B. Sharpe, Esq. [P.]. 
 1S77. 
@@ -14099,7 +14099,7 @@ y. Ad. sk. Near Almorah. Capt. Stackhouse Pinwill
 s, a\ V. Ad. sk. Kumaon (Strachey). India Museum. 
 c'. Juv. sk. Nepal. B.H.Hodgson,Esq. [P.]. 
 d', e',f. Ad. sk. Himalayas. India Museum. 
-</'. Ad. st. Himalayas (Pax). India Museum. 
+</'. Ad. sk. Himalayas (Pax). India Museum. 
 h'. Skeleton. Purchased. 
 ?'. J skull. Wiirtemberg. Dr. A. Giinther. 
 h'. Sternum. Purchased. 
@@ -14776,8 +14776,8 @@ Algeria, Egypt, and Nubia. In Asia it winters in Turkestan,
 
 Cashmere, and N.W. India. 
 
-a. Ad. st. England. J. Gould, Esq. [P.]. 
-1). Ad. st. Devonshire. Col. Montagu [P.], 
+a. Ad. sk. England. J. Gould, Esq. [P.]. 
+1). Ad. sk. Devonshire. Col. Montagu [P.], 
 c 2 ad. sk. Aviugton, Hants, Nov. H. B. Sharpe, Esq. [P.]. 
 10,1873. 
 d, e. 6 , /. $ ad. sk. Cookham, Dec. 28,1874 P. B. Sharpe, Esq. fP.J 
@@ -14792,7 +14792,7 @@ o. AoV sk. Cambridgeshire. J. Clark, Esq. [P.],
 p. 
 Ad. s\i. Cambridgeshire. Mr. J. Baker [C.]. 
 (Partial albino.) 
-a. Ad. st. Heligoland. Henry Seebohm, Esq. 
+a. Ad. sk. Heligoland. Henry Seebohm, Esq. 
 r rf ad.sk. Stockholm, May 21,1873. W. Meves, Esq. [0.]. 
 
 * Juv.sk. Waxholm, July IS, 1873. W. Meves, Esq. \0.\ 
@@ -14914,8 +14914,8 @@ river. It has been recorded from East and "West Guiana, the islands
 of Tobago and Trinidad, Yenezuela and Colombia, and is also found 
 in North Brazil, Para, East Ecuador, and North-east Peru. 
 
-a. Ad. st. South America. John Gould, Esq. 
-b. Ad. st. South America. 
+a. Ad. sk. South America. John Gould, Esq. 
+b. Ad. sk. South America. 
 <?, d. Juv., ad. sk. Trinidad. H. Seebohm, Esq. [P.]. 
 e. Ad. sk. Trinidad. 
 / , g. Ad. sk. Tobago. # Governor Ussher [P. j . 
@@ -14966,7 +14966,7 @@ East Brazil, from Bahia in the north, southwards in the neighbourhood
 of Eio Janeiro, and still further south at Santa Catherina. 
 
 
-a. Ad. st. South America. 
+a. Ad. sk. South America. 
 b. Ad. sk. Brazil. Purchased. 
 Turdus crotopezus, Turdus tristis, and Turdus leucaucheiu 
 
@@ -15268,8 +15268,8 @@ b. $ ad. sk Xeberos, Peruvian Amazons, E. Bartlett, Esq. rC.1.
 June 14, 1806. L J 
 c. Ad. sk. Paysandu, BUCLOS Ayres Alan Peel, Esq. |"C.l 
 Aug. 1877. ^ L J 
-d. Ad. st. Eio Negro (C. Darwin). Zoological Society. 
-e. Ad. st. Brazil. John Gould, Esq. [P.], 
+d. Ad. sk. Eio Negro (C. Darwin). Zoological Society. 
+e. Ad. sk. Brazil. John Gould, Esq. [P.], 
 /, g. <S ad. sk. Chili, Zoological Society. 
 The synonymy of the Colombian form is as follows : 
 
@@ -15447,7 +15447,7 @@ be one) occur in Amazonia, Para, and Eastern Brazil as far as
 Bahia ; whilst in Eastern Peru, in the valley of the Upper Amazon, 
 occurs the extreme form. 
 
-a. Ad. st. South America. 
+a. Ad. sk. South America. 
 K Q ad. sk. San Esteban, Venezuela,
 March 1808. 
 A. Goering, Esq. [0.1. 
@@ -15867,7 +15867,7 @@ c. Ad. sk.
 d. 2 ad. sk.
 e. f Ad. sk.
 (/. Ad. sk.
-h. Ad. st. 
+h. Ad. sk. 
 Punta Lara, BuenosAyres, May 25,187G. 
 Uruguay, Sept. 1877. 
 BaMa, Brazil. 
@@ -15877,7 +15877,7 @@ Henry Dumford, Esq. [C.].
 Alan Peel, Esq. [0.1. 
 PL Soebohm, Esq. [P.J. 
 M. Olaus&en [P.]. 
-i. Ad. st. South America. J. Gould, Esq. 
+i. Ad. sk. South America. J. Gould, Esq. 
 
 Jc. Ad. sk. Interior of Bolivia (Brydges). Eyton Coll. 
 
@@ -16417,7 +16417,7 @@ The Senegambian Thrush has only been found in the plains of
 the Gambia, in West Africa, where it is supposed to be a resident. 
 
 a. Ad., b. Juv. sk. Biver Gambia. B. B. Sharpe, Esq. 
-c, d. Ad. st. Biver Gambia. Governor Bendail [0.]. 
+c, d. Ad. sk. Biver Gambia. Governor Bendail [0.]. 
 232 TURDIDJS. 
 
 3. MERULA. Type. 
@@ -16864,10 +16864,10 @@ q, d act st. England. (Partial albino.) Purchased.
 
 
 r. J uv. st. England. (Partial albino.) Purchased. 
-$. Ad. st. Yorkshire, (Semi-albino.) Mr. K. Leadbeater 
+$. Ad. sk. Yorkshire, (Semi-albino.) Mr. K. Leadbeater 
 [P.], 
 
-t Ad. st. Britain. (Partial albino.) Linnean Society [P.], 
+t Ad. sk. Britain. (Partial albino.) Linnean Society [P.], 
 It, J aci- s^* Wiltshire. Col. Montagu fd]. 
 
 r. $ ad. st. Cambridgeshire. Mr. J. Baker [P.]. 
@@ -17319,7 +17319,7 @@ The typical form of the Great Brown Ouzel is found in JNew
 Granada. Intermediate forms appear in Colombia and Ecuador. 
 
 a. Ad. sir. Bogota, New Granada, Purchased. 
-b. Ad. st. Bogota. Purchased. 
+b. Ad. sk. Bogota. Purchased. 
 c. c? ad. sk. Santa Elena, U.S. Colombia. T. K. Salmon, Esq. [C.]. 
 d. Ad. sk. Ecuador (Frase?'). Eyton Collection. 
 
@@ -17580,7 +17580,7 @@ The Jamaica Ouzel is confined to the island of Jamaica, where it
 is a resident. 
 a, J ad. sk. Mbneague, Jamaica, Dr. Bryant [P.]. 
 b. Ad. sk. 
-c. Ad. st. 
+c. Ad. sk. 
 February I860. 
 Jamaica. 
 Jamaica. 
@@ -17788,7 +17788,7 @@ h. $ ad. sk. Neilgherries. M. Delessert [E.].
 I. 
 Ad. sk. Neilgherries. (Partial India Museum. 
 albino.) 
-m. Ad. st. [S. India.] J. Gould, Esq. 
+m. Ad. sk. [S. India.] J. Gould, Esq. 
 20. Merula oourdilloni. (Plate XT.) 
 Merula kinnisi (Blyth), apud Hume, Stray Feath. vii. p. 35 (1878). 
 I n the adult male the head is black, rest of the upper parts dull 
@@ -19161,7 +19161,7 @@ k, I. § ad. imm. sk. Bengal (As. Soc). India Museum.
 
 m. 2 ad. sk. Bengal (As. Soc). India Museum. 
 n. (S imm. sk. [Eastern Ghats.] Dr. Jerdon [P.]. 
-o. Ad. st. Himalayas (Farrell). Zoological Society. 
+o. Ad. sk. Himalayas (Farrell). Zoological Society. 
 (Type of Turdus tmicolor, Gould.) 
 p, q. d ? ad.; r, s. Juv. sk. C&&hmere(Dr.Beileio). India Museum. 
 
@@ -19664,7 +19664,7 @@ is probably an immature malo.
 Horsfield's Ouzel appe irs to be resident in the islands of Java, 
 Sumatra, Borneo, and Timor. 
 
-a. Ad. st. Java. East-India Co. 
+a. Ad. sk. Java. East-India Co. 
 K Ad., e. Juv.sk. Ja\a (Horsfield), India Museum. # (Types of 
 Tardus javanieus, 1 Loisf.) 
 d. 6 a<hsk- W-Java -A* ll-WaUa ee, Ksq.. [<\J. 
@@ -20239,7 +20239,7 @@ Rica. Examples from the latter locality are slightly less russet in
 the brown of the upper parts, and have the under tail-coverts less 
 suffused with brown. 
 
-a, b. Ad. st. Mexico. Purchased. 
+a, b. Ad. sk. Mexico. Purchased. 
 
 I propose to call the intermediate form 
 
@@ -20656,8 +20656,8 @@ found in Scandinavia or Bussia. It passes through North xiirica on
 migration, probably wintering somewhere in the interior south of 
 Abyssinia. 
 
-a. Ad. st. England. X Gould, Esq. [P.]. 
-b. Ad. st. Bayswater, London. J. F. Stevens, Esq. [P.]. 
+a. Ad. sk. England. X Gould, Esq. [P.]. 
+b. Ad. sk. Bayswater, London. J. F. Stevens, Esq. [P.]. 
 c. d. Ad. sk. Middlesex. P. Godman and O. Salvin 
 Esqrs. [P.]. 
 e,f,g,7i. Juv. st. Cambridgeshire. Mr. J. Baker [C.]. 
@@ -20907,7 +20907,7 @@ Tho Japanese Robin breeds on the high mountains of Japan, an3.
 is supposed to be a resident on the islands. It has also been recorded 
 from North-east China. 
 
-a. Ad. st. Japan 
+a. Ad. sk. Japan 
 Leyden Museum. 
 E. Wilson, Esq. 
 b. Ad. sk. Japan 
@@ -21003,8 +21003,8 @@ autumn to South Europe, North Africa, Palestine, and the cultivated
 districts of North-west Turkestan. It is said to be a resident, 
 though rare, in South Persia. 
 
-a, b. Ad. st. Great Britain. 
-c. Ad. st. 
+a, b. Ad. sk. Great Britain. 
+c. Ad. sk. 
 d. J ad. sk. 
 e. Juv. sk. 
 / . $ ad. sk. 
@@ -22665,7 +22665,7 @@ the mountain-ranges of Western India, but it seems doubtful at
 what period of the year. 
 
 J. R. Reeves, Esq. [P.]. 
-a. Ad. st. India. 
+a. Ad. sk. India. 
 R. B. Sharpe, Esq. i?J].
 b. $ ad. sk. Cashmere. 
 Oapt. Stackhouse Pinwill 
@@ -23275,9 +23275,9 @@ east of the Eocky Mountains, and in the same longitude in South
 Canada, migrating to the Southern States and Cuba during the 
 severest part of winter. It is a resident bird in the Bermudas. 
 
-a. Ad. st. North America. Purchased. 
-h. Ad. st. North America. J, Gould, Esq. [P.]. 
-c. Ad. st. North America. Purchased. 
+a. Ad. sk. North America. Purchased. 
+h. Ad. sk. North America. J, Gould, Esq. [P.]. 
+c. Ad. sk. North America. Purchased. 
 d. $ ad. sk. North America. Lord Odo Russell (T.! 
 e,f. Ad. sk. Ann Arbor, Michigan. Prof. J. B. Steere fP.1. 
 g. Imm. • h, i, Juv. sk. Toronto, Canada E. B. Sharpe, ESQ.TP 1 
@@ -25193,7 +25193,7 @@ Colony, Natal, and the Transvaal. It is not known t o bo migrat ory.
 Its reported occurrence in Senegal and Nubia requires verification^ 
 
 a. Ad. sk. South Africa (E. L. Layard), It. B. Slmrpe, Esq. 
-h. Ad. st. South Africa T. Campbell, Esq. [P. ]. 
+h. Ad. sk. South Africa T. Campbell, Esq. [P. ]. 
 c. Ad. sk. Kingwilliamstown. Herbert Tivvelvan, Esq. 
 d. 
 $ ad, sk. Kinowilliainstown, May 24, Herbert Trovelvan, Esq. 
@@ -25760,7 +25760,7 @@ bellies. Young in Jirst plumage appear to be unknown.
 The Abyssinian Chat is confined to the highlands of Abyssinia, 
 where it is supposed to be a resident. 
 
-a. Ad. st. Abyssinia. Baron Laugier. 
+a. Ad. sk. Abyssinia. Baron Laugier. 
 h, c. J ad. sk. Abyssinia. 11. B. Sharpe, Esq. 
 d. <$ ad. sk. lialai, Tigre, March 3, W. T. Blanford, Ksq. [0.1. 
 1808. 
@@ -27648,7 +27648,7 @@ June 27, 1S7 k
 
 d. $ ad.; <?. Juv. sk. Lichtenfels, July 1874. TLB. Rharpi^Esq. [TV 
 /. Juv.,g,h> Imin. sk. Lichtenfels, August 1874. R. B. Rhaipe, JOsq. [IV 
-7. Ad. st. England. J. Gould, Esq. 
+7. Ad. sk. England. J. Gould, Esq. 
 k, $ acl.st. Wiltshire. Col. Montagu [P.]. 
 I. m. Juv. st. Pagham Harbour, Sept. R.B. Sharpe,Ebq. [P.], 
 187i>. 
@@ -28015,7 +28015,7 @@ southwards, where it is said to frequent the higher rocky grounds
 
 during the breeding-season. 
 
-a, b. Ad. st. South Africa. Purchased. 
+a, b. Ad. sk. South Africa. Purchased. 
 
 c. Ad. sk. South Africa. Purchased. 
 d. Juv. sk. South Africa. E. B. Sharpe, Esq. 
@@ -28213,10 +28213,10 @@ and Southern Siberia to the Pacific. It winters in Scinde and
 
 Eastern Thibet, and North China. 
 
-a. Ad. st. 
+a. Ad. sk. 
 Abyssinia. J. Gould, Esq. 
 
-h. Ad. st. 
+h. Ad. sk. 
 Abyssinia. Dr. Ruppell [O,]. 
 c,& d 2 ad. sk. Zoulla, Jan. 23,1808. W. T. Blanford, Esq. 
 

@@ -213,7 +213,7 @@ Hob. Formerly very common in the South Island of New Zealand,
 but now nearly extinct. 
 
 a. 3 ad., h. J jun. sk. New Zealand. Capt. Stokes [P.]. 
-c. Ad. st. New Zealand, New Zealand Co, [P.]. 
+c. Ad. sk. New Zealand, New Zealand Co, [P.]. 
 2. Turnagra tanagra. 
 Otagon tanagra, Schkyel, Nederl. Tijdschr. Dierk. iii. p. 190 (1865). 
 Turnagra hectori, Buller, His, lbC9, p. 39; Gray, Band-l. B. I 
@@ -467,7 +467,7 @@ Pekm : extends westwards to Szechuen.
 a. Imm. sk. China. Gould Collection. 
 b, c. Ad. sk. Fokien. Gould Collection. 
 d. Ad. sk. N. China. J. Fortune, Esq. [C.l. 
-e. Ad. st. N. China. J. Fortune, Esq. [C.j, 
+e. Ad. sk. N. China. J. Fortune, Esq. [C.j, 
 4. Myiophoneus eugenii. 
 M yiophoneus eugenei, Hvme, Str. F. 1873, p. 475; id. fy Oates, Str. 
 F. 1874, p. 1C6; Hume, Str. F. 1874, p. 475 ; id. $ Davison, Str. 
@@ -1043,7 +1043,7 @@ c. [ $ ] ad. sk. Bogos Land. Mr. Esler.
 d. 
 <$ ad. sk. Bejook, Aug. 13,1868 R. B. Sharpe, Es&_ 
 {TV. Jesse). 
-e. Ad. st. 
+e. Ad. sk. 
 2. Pentholaea clericalis. 
 Pentholaea clericalis, Hartl. Orn. Centralbl. vii. p. 91 (1882); id. J.f.O. 
 1882, p. 321; id. Abhandl. not. Ver. Bremen, viii. p. 188 (1882). 
@@ -1388,7 +1388,7 @@ H. Hodgson, Esq. [P.].
 (Types of species.) 
 <7. ? juv. sk. Nepal. B. H. Hodgson, Esq. [P.]. 
 A. c? ad. sk. Nepal (Hodgson). India Museum. 
-*, A. Ad. st. Nepal. B. H. Hodgson, Esq. [P-> 
+*, A. Ad. sk. Nepal. B. H. Hodgson, Esq. [P-> 
 I $ ad. sk. Khasia lulls (JerGould 
 Collection. 
 
@@ -1482,7 +1482,7 @@ a, b. Ad. sk. Java. Purchased.
 
 c, d. 6 2 ad. sk. W. Java. A. R Wallace, Esq. [CI. 
 
-«. Ad. st. Java. E. Wilson, Esq. [P.]. 
+«. Ad. sk. Java. E. Wilson, Esq. [P.]. 
 
 8. BEACHYPTERYX*. 
 Type. 
@@ -2197,7 +2197,7 @@ culmen 0*7, wing 4-15, tail 3*7, tarsus 1*05.
 
 Bab. "West Africa: Gold Coast to Gaboon. 
 
-a. Ad. st. Fernando Po. L. Fraser, Esq. [0.]. 
+a. Ad. sk. Fernando Po. L. Fraser, Esq. [0.]. 
 (Type of species.) 
 b. Ad. sk. Fantee (Ussher). R. B. Sharpe, Esq. 
 c. Ad. sk. Fantee (Aubinn). R. B. Sharpe, Esq. 
@@ -2233,7 +2233,7 @@ Turdus melanotis, Less. Traite, p. 410 (1831) ; Pucher. Arch. du-Mus*
 vii. p. 377. 
 Turdus revocator, Temm. PI. Col. Tall. Mith. p. 14 (1836), 
 Cossypha vociferus, Swains. Classif. B. ii. p. 233 (1837). 
-Cossipka vocifera, Smith. III. Zool. S. Afr.. Aves. text to C. hunieralia 
+Cossipha vocifera, Smith. III. Zool. S. Afr.. Aves. text to C. hunieralia 
 (1840). ' 
 Cossypha reclamator, Strickl. P. Z. S. 1844, p. 100; Hartl. Orn. W.-
 
@@ -2242,7 +2242,7 @@ Rhipidura bicolor, Gray, Gen. B. i. p. 258 (1846).
 Bessonornis vociferans, Gray, Gen. B. i. p. 220 (1847) ; Bp. Consp. i. 
 
 p. 301 (1850) ; Layard, B. S. Afr. p. 130 (1867). 
-Bessornis vociferans, Cab. Mus. BLein. Th. i. p. 8 (1850): Gurnet/, 
+Bessornis vociferans, Cab. Mus. Hein. Th. i. p. 8 (1850): Gurnet/, 
 Ibis, 1862, p. 152; Kirk, Ibis, 1864, p. 317. 
 Cossypha bicolor, 
 Grill, Zool. Anteokn. p. 28 (1858) ; Finsch fy Hartl. 
@@ -2272,7 +2272,7 @@ Hab. South Africa from the Knysna to Natal and the Transvaal,
 ranging to the Zambesi and Central Damara-land. Also reported to 
 have occurred on the Congo and at Sierra Leone. 
 
-a. Ad. st. Port Natal. , Purchased. 
+a. Ad. sk. Port Natal. , Purchased. 
 b, c, d. Ad. sk.
 e. Ad. sk.
 f. S ad. sk. 
@@ -2455,7 +2455,7 @@ broad circular margins of brown.
 
 Hab. South Africa, from the Cape Colony to the Transvaal. 
 
-a. Ad. st. South Africa. Purchased. 
+a. Ad. sk. South Africa. Purchased. 
 b. Pull. st.
 c. Ad. sk. 
 South Africa. 
@@ -2668,8 +2668,8 @@ spots on their ends, (von Heuglin.)
 Hah. N.E. Africa, from Bogos Land, throughout Abyssinia into 
 the Gala country. 
 
-a. Ad. st. Abyssinia. Br. E. Eiippell [OX 
-b. Ad. st. Abyssinia. Sir W. C. Harris [0.]. 
+a. Ad. sk. Abyssinia. Br. E. Eiippell [OX 
+b. Ad. sk. Abyssinia. Sir W. C. Harris [0.]. 
 e. Ad. sk. Goon-goona, W. T. Blanford, Esq. ["CI 
 March 19,1868. J 
 d. Ad. sk. Bogos Land. Mr. Esler [0.]. 
@@ -3018,7 +3018,7 @@ River.
 n. 
 Ad. sk. Himalayas. Major-General Hardwicke 
 [P.]. 
-o. Ad. st. Himalayas. J. R. Reeves, Esq. 
+o. Ad. sk. Himalayas. J. R. Reeves, Esq. 
 [P.]. 
 13. THAMNOLJEA. 
 Type. 
@@ -3657,7 +3657,7 @@ of A. macidieauda.)
 b, e. Ad., d. Juv. sk. Eantee (Governor Ussher). R B. Sharpe, Esq. 
 e} f. Juv. sk. Denkera. R B. Sharpe, Esq. [P.] * 
 
-g. Ad. st. W. Africa. Purchased. 
+g. Ad. sk. W. Africa. Purchased. 
 15 . ALETHE. 
 3. Alette castanonota. (Plate II.) ) 
 Aletlie castanonota, Sharpe, Cat. Afr. B. p. 20 (1871): id. P.Z.K. 
@@ -3797,7 +3797,7 @@ a. $ ad. sk. Philippine Islands. Hugh Cuming, Esq. [0.].
 o. 2 ad. sk. Philippine Islands (Cuming). Eyton Collection. 
 c. g ad. sk. Monte Alban, Luzon, March Alfred Everett, Esq. TCI 
 1877. 
-d. Ad. st. Philippine Islands. Hugh Cuming, Esq, [C.]. 
+d. Ad. sk. Philippine Islands. Hugh Cuming, Esq, [C.]. 
 2. Copsychus seychellarum. 
 Copsychus seychellarum, A. Nezoto?z, Ibis, 1865, p. 332, pi. 8; F. 
 Newton, Ibis, 1867, pp. 337,352; Gray, Rancl-L B. i. p. 166, 
@@ -4524,9 +4524,9 @@ a. Ad. sk. South Africa. Gould Collection.
 b. Ad. sk. Kingwilliamstown (C. Capt. H. Trevelyan [P.]. 
 Newly). 
 c. Ad. sk. South Africa. Sir A. Smith [P.]. 
-d. Ad. st. South Africa. Sir A. Smith. 
-e. Ad. st. South Africa. Zoological Society. 
-/ . Ad. st. Natal. Purchased. 
+d. Ad. sk. South Africa. Sir A. Smith. 
+e. Ad. sk. South Africa. Zoological Society. 
+/ . Ad. sk. Natal. Purchased. 
 19. CICHLADUSA. 
 Type. 
 Cichladusa, Peters, Monatsb. h. Ahad. Berlin, 1864, p. 352. .C. arcuata 
@@ -4771,7 +4771,7 @@ b. Ad., o. Juv. sk. South Africa (E. L. Layard). JR. B. Sharpe, Esq.
 d. Ad. sk. Cape Town {C.J.Andersson). Purchased. 
 e. Ad. sk. Aamhoup, Great Namaqua ' K. B. Sharpe, Esq. 
 Land, June 29,1861 (C.J. A.), 
-f g. Ad. st. South Africa. Sir A. Smith "Cf. 
+f g. Ad. sk. South Africa. Sir A. Smith "Cf. 
 
 * „ fv CI -^"^ ftyfH&llO 
 2. Erythropygia simplex. AU,V " ' " *- " " 
@@ -5432,7 +5432,7 @@ W. T. Blanford", Esq.
 f § juv. sk. 
 9A. 
 5 ad. sk. 
-i. Ad. st. 
+i. Ad. sk. 
 Ailat, June 25, 1868. 
 Zoulla, Annesley Bay, 
 Feb. 4,1868. 
@@ -5804,7 +5804,7 @@ bill pale brown.
 Sab. West Africa. Said to occur from Senegal to Gaboon; but I 
 have never seen a specimen from any other country than Senegambia. 
 
-a. Ad. st. West Africa. 
+a. Ad. sk. West Africa. 
 b. Ad. sk. Webt Africa. R. B. Sbarpe, Esq. 
 c. Ad. sk. Senegal. R. B. Skarpe, Esq. 
 4. Cittocincla nigra. 
@@ -5879,8 +5879,8 @@ b. Ad. sk. S. Andaman, March 14,1873 B. B. Sharpe, Esq. [P.].
 
 6. Cittocincla luzoniensis. 
 Turdus luzoniensis, 
-KM. Kupf. Vdg. p. 7, pi, 11.fig. 2 (1832); id. 
-M4m. Acad. 8. JPetersb. ii. p. 5, pi. 7 (1833). 
+Kitt. Kupf. Vog. p. 7, pi, 11.fig. 2 (1832); id. 
+Mem. Acad. S. Petersb. ii. p. 5, pi. 7 (1833). 
 Copsychus luzoniensis, Bp. Consp. i. p. 266 (1850); Sclater, P. Z. S. 
 1861, p. 186 ; Gray, Hand-l. B. L p. 265, no. 3887 (1869). 
 Oossypha pyrrhopygia, Hartl. Orn. Westafr. p. 78 (1857); id. 
@@ -5925,7 +5925,7 @@ ffab. Island of Luzon in the Philippine archipelago.
 a. Ad. sk. Luzon. Gould Collection. 
 b. Ad. sk.
 c. Ad. sk.
-d. Ad. st,
+d. Ad. sk.
 e. Imm. sk.
 /. Juv. sk. 
 Cataguan, Luzon. 
@@ -6700,7 +6700,7 @@ Dasyornis australis.)
 b. Ad. sk. New South "Wales. John Gould, Esq. 
 c. Ad.; d. Juv. sk. ISTew South Wales (J. F. D. Godrnan and 0. Sal-
 T. Cockerett). vin, Esqrs. [P.]. 
-e,f. Ad. st. S. Australia. Sir George Grey [P.]. 
+e,f. Ad. sk. S. Australia. Sir George Grey [P.]. 
 2. Sphenura longirostris. 
 Dasyornis longirostris, Gould, P. Z. S. 1840, p. 170; id. B. Austr. iii. 
 pi. 33 (1848); Bp. Consp. i. p. 219 (1850); Gould, Mandb. B. 
@@ -6841,9 +6841,9 @@ Hah. New South Wales, Yictoria, and South Australia.
 a, b. Ad. sk. S. Australia (J. T. F. D. Godman and O. 
 Cocherell). Salvin, Esqrs. [P.]. 
 
-c. Ad. st. Australia. J. Gould, Esq. 
-d. Ad. st. Australia. Sir T. Mitchell [P."|. 
-e. Ad. st. S. Australia. Sir George Grey [P.]. 
+c. Ad. sk. Australia. J. Gould, Esq. 
+d. Ad. sk. Australia. Sir T. Mitchell [P."|. 
+e. Ad. sk. S. Australia. Sir George Grey [P.]. 
 2. Amytis striata. 
 Dasyornis striatus, Gould, P. Z. S. 1839, p. 143. 
 Amytis striatus, Gould, B. Austr. fol. iii. pi. 29 (1848) ; Gray, Gen. 
@@ -7902,7 +7902,7 @@ Cvming).
 Manila, Luzon. 
 Eyton Collection. 
 Gould Collection. 
-i\ Ad. st. Cataguan, Luzon. Hugh. Cuming-, Esq. [C.]. 
+i\ Ad. sk. Cataguan, Luzon. Hugh. Cuming-, Esq. [C.]. 
 
 2. Megalnnis graminens. 
 Sphtnceacus 
@@ -8111,7 +8111,7 @@ Sail in, INqr*. "P.".
 d. e. A&.; f.
 sk.
 g. Ad. st.
-h. Ad. st. 
+h. Ad. sk. 
 Juv. Cape York f Coclurdlu 
 Australia. 
 Aubtralia. 
@@ -8528,7 +8528,7 @@ b. $ juv. sk. Middle Harbour, near Sydney,
 December 1876. 
 Sydney Museum [P.], 
 c. d. Ad. sk.
-e. Ad. st, 
+e. Ad. sk. 
 Queensland (Cocherell Coll.). 
 Australia, 
 F. D. Godman and O. 
@@ -8763,7 +8763,7 @@ Dr. Gueinzius [0.].
 g. Ad. sk. Macamac, June 18,1874. F. A. Barratt, Esq. [C." 
 L § ad. sk. Maeamac, Nov. 20, 1874. F. A. Barratt, Esq. f 0." 
 i. S ad. sk. Macamac, Dec. 16,1874. F. A. Barratt, Esq. [C m 
-k. Ad. st. South Africa. Zoological Societv. 
+k. Ad. sk. South Africa. Zoological Societv. 
 2. Apalis cervMventris. (Plate III.) 
 Apalis cerviniventris, Sharpe, P. Z. S. 1877, p. 22. 
 Adult female ? (type of species). General colour above brown, the 
@@ -9705,7 +9705,7 @@ HaL South Africa, from the Xarroo northwards to Angola on the
 west coast and the Zambesi on the east 
 
 a. Ad. sk. South Africa. Sir A. Smith ~Q.\ 
-b. Ad. st. 
+b. Ad. sk. 
 c. Ad. sk. 
 South Africa. 
 Berg river, Sept. 20, 
@@ -12007,8 +12007,8 @@ Hah. South Africa, from the neighbourhood of Cape Town to the
 Port-Elizabeth district, and along the west coast to the south of 
 Great Xaniaqua Land. 
 
-a. Ad. st. South Africa. Dr. Lee "P.". 
-b. Ad. st. South Africa. South-African Museum. 
+a. Ad. sk. South Africa. Dr. Lee "P.". 
+b. Ad. sk. South Africa. South-African Museum. 
 c. <$ ad. st. South Africa. South-Afrkaii Museum. 
 (Type of D. ctiptnbh.) 
 cl Pull. &k. South Africa. Sir A. Smith ^P.~. 
@@ -12375,7 +12375,7 @@ z. S ad. sk. Pinetown, March 5, 1875 R. B. Sharpe, Esq. [P.].
 (T. L. Ayres). 
 a\ Juv. sk. South Africa. Sir A. Smith [0.]. (Type 
 of D. affinis.) 
-b'. Ad. st. Natal. Purchased. 
+b'. Ad. sk. Natal. Purchased. 
 e\ Juv. st. Africa. Zoological Society. 
 
 6. Prinia inomata. 
@@ -12574,7 +12574,7 @@ w'. c? ad. sk.
 o'. Ad. sk. 
 #/. JUT. sk 
 #', r'. JUY. st. 
-«'. Ad. st. 
+«'. Ad. sk. 
 
 
 extending into Sonthern China, Formosa, and 
@@ -13288,7 +13288,7 @@ tarsus 0*8.
 Hab. South Africa: north-western districts of the Cape Colony 
 
 only. 
-a. Ad. st. South Africa. Sir A.Smith [C.]. (Type 
+a. Ad. sk. South Africa. Sir A.Smith [C.]. (Type 
 b. Ad. sk.
 c. d ad. sk. 
 Colesberg {Ortlepp). 
@@ -18858,7 +18858,7 @@ w. 2 Mem. sk. Otjimbinque, DamaraLand, R. B. Sliarpe, Esq. [P.!
 Feb. 0?18tll (C.J. A.). 
 x. ? hiem. sk. Otjipatna, July la, l&GG (C. R. B, Sliarpe, Esq [P.]. 
 J. A), 
-t/. Ad. st. DamaraLand. C. J.Andersson,Esq. [0.1 
+t/. Ad. sk. DamaraLand. C. J.Andersson,Esq. [0.1 
 z. 2 Mem. sk. Ondougra, Mdreh 27, 1809 R. B. Sharpe, Esq. [P.]. 
 (a J. ^4.j. 
 
@@ -18980,7 +18980,7 @@ c. Ad. sk. Australia.
 Baron Lankier. 
 d. Ad. sk.
 e,f. Ad. sk,
-ff. Ad. st. 
+ff. Ad. sk. 
 Australia. 
 Queensland (J. T.
 Cockerel!). 
@@ -19167,7 +19167,7 @@ Fab. Southern and Western Australia.
 a. 9 ad. sk.
 h. Ad. &k.
 c. £ ad. st.
-d. Ad. st. 
+d. Ad. sk. 
 Perth, Swan river, March 31,1839 {J. Gould), 
 King George's Sound. 
 King George's Sound. 
@@ -19301,7 +19301,7 @@ Hub. Tasmania,
 29G TIMBLIIDJS. 
 a <$ ad sk. Tasmania {Gould). Eyton Collection. 
 6* c Ad sk. Tasmania. Gould Collection. 
-I i Ad. st. Tasmania. Eonald Gunn, Esq. [P.]. 
+I i Ad. sk. Tasmania. Eonald Gunn, Esq. [P.]. 
 f. $ . Skeleton. Purchased. 
 
 5. AcantHza apicalis. 
@@ -19423,7 +19423,7 @@ IIIHSLIIDJB.
 
 e. Ad. sk. Brisbane (J". T. Cockerell). F. DuGane Godinan and 0. 
 Sahin, Esqrs. [P.]. 
-/ . Ad. st. Australia. J. Gould, Esq. 
+/ . Ad. sk. Australia. J. Gould, Esq. 
 
 g. Skeleton. 
 Purchased. 
@@ -19528,7 +19528,7 @@ a. Ad. sk. Tasmania.
 Antarctic Expedition. 
 b. Ad. sk. Tasmania. 
 Ronald Gunn, Esq. [P.]. 
-c. Ad. st. Tasmania. 
+c. Ad. sk. Tasmania. 
 J. B. Jukes, Esq. [P.]. 
 d. <$ ad. sk. South Australia (J. G.). Gould Collection. 
 e. Ad. sk. Adelaide. Eyton Collection. 
@@ -19736,7 +19736,7 @@ a, b. Ad. sk. Australia. Purchased.
 c. Ad. sk. York, "West Australia, Aug.
 22, 1843 (Gozdd). 
 Eyton Collection. 
-d. Ad. st. Australia. ' Edward WiLon, Esq. [P.]. 
+d. Ad. sk. Australia. ' Edward WiLon, Esq. [P.]. 
 
 2. Sericornis citreogxtlaris. 
 ? Muscicapa barbata, Lath. Ind. Orn., Buppl II. p. 21 (1^01). 
@@ -20097,7 +20097,7 @@ Australia.
 a. Ad. sk. Australia. Purchased. 
 b. S ad. sk. King George's Sound F. D. Godman and O. Sal-
 c. 2 ad. st. 
-d. Ad. st. 
+d. Ad. sk. 
 (Cockerel!). 
 Murray river. 
 Australia. 
@@ -20397,7 +20397,7 @@ A. R. Wallace, Esq. [O.].
 E. Nicholson, Esq. [P.]. 
 Gould Collection. 
 d. Ad. sk.
-e. Ad. st. 
+e. Ad. sk. 
 Java (Horsfield). 
 Java. 
 India Museum. (Type of 
@@ -22350,7 +22350,7 @@ Total length 8 inches, culmen 0*7, wing 3*S5, tail 4*2, tarsus 1-55.
 
 Hal. Victoria and South Australia. 
 
-a b. Ad. st. S. Australia. Sir Georee Grey "P.]. 
+a b. Ad. sk. S. Australia. Sir Georee Grey "P.]. 
 C? Ad.sk. Murray ri\ er (J. Eyton Collection. 
 Gould), 
 d Ad : e Juv. sk. S. Australia (Cockerell F. D. Godman and 0. 
@@ -22422,7 +22422,7 @@ of the specimens are marked.
 
 Hah. Cape York, extending to the Gulf of Carpentaria. 
 
-a. Ad. st. Cap* York (J. MacCapt. 
+a. Ad. sk. Cap* York (J. MacCapt. 
 Stanley [P.]. 
 Giltit-ray). (Type of specieb.) 
 b} c, d, e,f. Ad. sk. Cape York (J. MacGoulcl 
@@ -22528,7 +22528,7 @@ a. Ad. bk» Australia. Linnean Society.
 of species.) 
 (Type 
 b. Ad. st.
-c. Ad. st. 
+c. Ad. sk. 
 Australia. 
 Liverpool Plains. 
 Edward Wilson, Esq 
@@ -22624,7 +22624,7 @@ inches, culmen 0*bo, wing 3*15, tail 4, tarsus l-'So.
 Bab. Confined to the Cape colony, where it is found on the bare 
 mountain-sides at a considerable elevation. 
 
-a. Ad. st. South Africa. * South-African Museum. 
+a. Ad. sk. South Africa. * South-African Museum. 
 b. S ad. sk.
 e. J ad. sk. 
 South Africa. 
@@ -22706,7 +22706,7 @@ Bengnela.
 a. Ad. sk. Oraaruru rher, Damara R. B, iShaipe, EM3 
 Land, Oct. 30, I860 {€. J. (Type of C. grayi) 
 Andersson.) 
-b. Ad. st, Damara Land. C. J. Anderson B<a 
+b. Ad. sk. Damara Land. C. J. Anderson B<a 
 :cr. ' *• 
 S. PS0PHODES. 
 P^npliode^ 7%. 4* Horsf. Trans. Linn. &>c. xv. p. .\#D 
@@ -24127,7 +24127,7 @@ the sides of the face, where the red is not nearly so extended as in
 the old birds. 
 Hah. Eastern Himalayas. 
 
-a. Ad. st. Nepal. B. H. Hodgson, Esq. [P.], 
+a. Ad. sk. Nepal. B. H. Hodgson, Esq. [P.], 
 b. Ad. sk. Nepal. B. H. Hodgson, Esq. [P.J. 
 c. d. Ad. sk. Nepal (Bodgwn). India Museum. 
 e. Ad. sk. Darjiling (Becks). F. D. G-odman and 0 Salvin, 
@@ -24729,7 +24729,7 @@ a. Juv. sk. Nepal. B. H. Hodgson, Esq. [P.].
 (Type of Timaliapellotis.) 
 I. Ad. sk. Nepal (B. H. Hodgson), India Museum. 
 cy d, e. Ad. et juv. sk. Nepal B. H. Hodgson, Esq. [P.], 
-/ . Ad. st. Nepal. B. H. Hodgson, Esq. [P.]. 
+/ . Ad. sk. Nepal. B. H. Hodgson, Esq. [P.]. 
 g. Ad. fck. Loohoo Ghat, N.W. Capt. Stackhouse Pinwill 
 frontier of Nepal. [P.]. 
 38 2 
@@ -24816,7 +24816,7 @@ d. e. Ad. &k. Sikliim (Maaddli). 11. Seebohm, Esq. [P.J.
 f, ff, h. Ad. sk. Nepal. B. H. Hodgson, Esq. LP.]. 
 V. Juv.; k. Ad.sk. Nepal. B. H. Hodgson, Esq. [P.J. 
 I. Ad. sk. Nepal {Hodgson). India Museum. 
-m. Ad. st. Nepal." B. H. Hodgson, Esq. [P.], 
+m. Ad. sk. Nepal." B. H. Hodgson, Esq. [P.], 
 2. lanthoeinela maxima. 
 PterorhinuK maximus, /. Vtrr. K Arch. Mtts. vi. Bull p. 36 (1870). 
 Ianthocincla maxima, J. Verr. N. Arch. Mits. vi. Bull. pi. 3.fig.1 
@@ -25261,7 +25261,7 @@ the Ghats in the latter country.
 a. Ad. sk. South India. 
 b. Ad. sk. Madras ': ( Wight). Ii.dia Museum. 
 c. Ad. sk. Malabar. Horace Jrlower, Esq. rG.~\. 
-d. Ad. st. S. India. Ma^sena Collection. 
+d. Ad. sk. S. India. Ma^sena Collection. 
 8. Argya hyperyihm 
 Malacocercus subrufu^ 
 Ilorsf. fy Moore, Cat B. EJ. Co. Mm* i. 
@@ -25492,7 +25492,7 @@ L Ad. sk. Kamptee. Br. 11 IHole [P.". " "
 I Ad. sk. Deecan (St/Ice*). India Muslim. 
 m. Ad. fet. Nilffhirk. 
 Ma>&ena Collection. 
-n. Ad. st. India. 
+n. Ad. sk. India. 
 Ii "Wilson, E>q. ~P.]. 
 8. Argya eclipes. 
 Chattarhcea 
@@ -25814,7 +25814,7 @@ c. Ad. sk. Decean (Sykes). India Museum. (Type
 of species.) 
 d. Ad. sk. Decean (SyTces). India Museum. 
 e. Ad.; f. Juv. sk. Saugor (IZoope?*)* India Museum. 
-g, h. Ad. st. Bahar. B. H. Hodgson, Esq. [PA 
+g, h. Ad. sk. Bahar. B. H. Hodgson, Esq. [PA 
 i. 
 Ad. sk. N.W. Provinces. P. D. Godman and O. 
 Salvin, Esqrs. [P.]. 
@@ -25960,7 +25960,7 @@ culmen 1, wing 4*9. tail b'5, tar&us 1-1.
 Bab. Eastern Himalayas, extending into the hills of Assam, 
 jBurmah, and Tenasserim. 
 
-a, b. Ad. st. Xepal. B. II. Hodgson. E*q. "P."*. 
+a, b. Ad. sk. Xepal. B. II. Hodgson. E*q. "P."*. 
 c, d, e. Ad. sk/, y. Ad. sk.
 h, i. Ad. sk.
 k. Ad. sk.
@@ -26554,7 +26554,7 @@ Es.qrs. [P.1.
 
 g. Imm. sk. Java. 
 Gould Collection."" 
-h. Ad. st. *" Java (Horsfield). India Museum. 
+h. Ad. sk. *" Java (Horsfield). India Museum. 
 21 . TOMATORHlXrs. 
 411 
 
@@ -26913,7 +26913,7 @@ e. 9. ad. sk. Mynall, Travancore, F. C. Bourdillon, Esq. [0.1
 Dec. 15,1879. 
 /. $ ad. sk. Mynall, Apr. 20,1880. F. C. Bourdillon, Esq. [Q.]. 
 
-g. Ad. st. South India. 
+g. Ad. sk. South India. 
 Subsp. a. Pomatorlmms obscurns. 
 
 Pomatorlmms obscuras, Hume, Str. F. 1873, p. 7; Butler, Str. F. 
@@ -27154,7 +27154,7 @@ c.Ad.sk, Australia. ^ Sir T. Mitchell '[P.*.
 d. Ad. s=k, Ne>\ fcoittli Wale*. J. Gould, E-q. 
 e. Juv. sk. New South "Wale*. Guuld C Election. 
 /, Ad. sk. Australia. Gould Collection. 
-g. Ad. st. South Ausaaiia. J. Gould, E^q. ~C.]. 
+g. Ad. sk. South Ausaaiia. J. Gould, E^q. ~C.]. 
 h, i,k. Ad. sk. South Australia. F. D. Godinan and 0. Sal-
 Yin, Eaqrs. [P.]. 
 
@@ -27256,7 +27256,7 @@ e <* ad. sk. N.W. Australia, Oct. 16, J. E. Elsey, Esq. [P.].
 1856. 
 /. Ad. sk. N.W. Australia. J. E. Elsey. Esq. [P.]. 
 
-q. Ad. st, Port Es&insrton. Cipt. Chambers l?.1. 
+q. Ad. sk. Port Es&insrton. Cipt. Chambers l?.1. 
 \ 
 i Ad. sk. N. Australia (J. T. Cockerel! I F. 1). Godman aiid~0. 
 SalTin, Esqrs. IP.]. 
@@ -27556,7 +27556,7 @@ g. Juv. sk.
 427 
 
 h, z, fa Ad. sk, Nepal {Hodgson). India Museum. 
-I Ad. st. Nenal. B. H. Hodgson, Esq. [P.], 
+I Ad. sk. Nenal. B. H. Hodgson, Esq. [P.], 
 
 m. n. Ad. sk. Darjiling. Major 0. H. T. Marshall 
 o. Ad. sk. Darjiling {Mandelli). EL Seebohm, Esq. [P.]. 
@@ -27983,7 +27983,7 @@ Sikhim.
 Sikhim (Hodgson). 
 B. H. Hodgson, Esq. [P.]*. 
 India Museum. 
-/, g. Ad. st. Sikhim. B. H. Hodgson, Esq. [P.]. 
+/, g. Ad. sk. Sikhim. B. H. Hodgson, Esq. [P.]. 
 
 * Registered from " Kepal;" but the specimens probably came from Sikhim. 
 VOL. VII. 
@@ -28318,7 +28318,7 @@ Hab. Sumatra.
 a, b. Ad. sk. Sumatra. 
 Purchased. 
 
-c. Ad. st. 
+c. Ad. sk. 
 Sumatra. Purchased. 
 5. G-arrulax ruficeps. 
 Garrulax ruficeps, Gould, P. Z. S. 1862, p. 281; id. B. Asia, part 
@@ -28469,7 +28469,7 @@ B.H.Hodgson; Esq. [P.].
 sk. 
 
 q. Ad. sk. Nepal (Hodgson), India Museum. 
-r. Ad. st. Nepal.' B. II. Hodgson, Esq. [P.]. 
+r. Ad. sk. Nepal.' B. II. Hodgson, Esq. [P.]. 
 C. Bvgrave Wharton, Esq. 
 s. Ad. sk. Darjiling (Jerdon). 
 [p.]. 
@@ -28681,7 +28681,7 @@ Hob. The same as that of G. j>ectoralis.
 
 a. Ad. sk. Nepal. B. H. Hodgson, Esq. [P.]. 
 (Type of species.) 
-b. Ad. st. Nepal. B. H. Hodgson, Esq. [P.]. 
+b. Ad. sk. Nepal. B. H. Hodgson, Esq. [P.]. 
 Cj d, e. Ad. sk. Nepal. B. H. Hodgson, Esq. [P.l. 
 /, g. Ad. sk. Darjiling. Henry Seebohm, Esq. [P. j . 
 h, i. Ad. sk Boo tan (Pemberton). India Museum. 
@@ -29029,7 +29029,7 @@ Java.
 A. R. Wallace, Esq. [0.1. 
 A. 11. Wallace, Esq. |_0.j . 
 Gould Collection. 
-d. Ad. st. Java. Purchased. 
+d. Ad. sk. Java. Purchased. 
 
 24. STACT0CJCHLA, 
 Garrulax auci. recent. 
@@ -29216,7 +29216,7 @@ tarsus 1*5.
 Hob. Sumatra. 
 a. Ad. sk. Sumatra {Leyden Museum). Gould Collection, 
 h, c. Ad sk. Sumatra. 
-d. Ad. st. Sumatra. Purchased. 
+d. Ad. sk. Sumatra. Purchased. 
 
 27. RH1H0CICHLA. 
 Garrulax, pt., auct. recent. 
@@ -29276,7 +29276,7 @@ b. Ad. sk. Sumatra.
 A. R. Wallace, Esq. [C.]. 
 c. Ad. sk. Sumatra. 
 el Ad. sk. Sumatra (Leyrlen Mwwm). Gould Collection. 
-e. Ad. st. Sumatra. Purchased. 
+e. Ad. sk. Sumatra. Purchased. 
 /• Ad. *t. Sumatra. Dr. Lidth de Jeude. 
 2. EMnocichla treacheri. 
 Ianthocincla treacheri, Sfiarpe, P. Z. &'. 1879, p. 245. 
@@ -29410,7 +29410,7 @@ h. Ad. sk. Sikhim. Henry Seebohm, Esq, [P.],
 c. Ad. sk. Darjiling. Gould Collection. 
 d. Ad. sk. Darjiling (Eeeles). F. D. Godman and 0. Sal-
 Tin, Esqrs. [P.]. 
-e. Ad. st. Xepal. B. I I Hodgson, Esq. [P.1 
+e. Ad. sk. Xepal. B. I I Hodgson, Esq. [P.1 
 /, g. Ad. -k. Xepal. B. II. Hodgson, Esq. [P.]. 
 h, i, k. Ad. sk. Xepal (Hodgson). India Museum. 
 /. Ad. &k. Aa^am (JfrCMland). India Museum. (Type of 
@@ -30098,7 +30098,7 @@ Hah. Eastern Himalayas, extending into the hills of North-eastern
 Bengal. 
 
 a, b. Ad. sk. Himalayas. Gould Collection. 
-c, d. Ad. st. Nepal. B. II. Hodgson, Esq. [P.]. 
+c, d. Ad. sk. Nepal. B. II. Hodgson, Esq. [P.]. 
 „ 4 1 Y ^ , {Types of species.) 
 
 <?, /. Ad.; g. Juv. Nepal B. II. Hodgson, Esq. rp.". 
@@ -30367,7 +30367,7 @@ and have the cheeks dark ashy and not so black as the Senegambian
 examples. 
 Hab. West Africa, from Senegambia to the Gold Coast. 
 
-a, b. Ad. st. Senegambia. Governor Kendall [C.]. 
+a, b. Ad. sk. Senegambia. Governor Kendall [C.]. 
 c. Ad. sk. River Gambia. R. B. Sharpe, E^q. 
 d. Ad. sk. Fantee. R. B. Sharpe, Esq. 
 e. Ad. sk. Fant^e (Governor Ussher). R. B. Sharpe, Esq. 
@@ -30411,7 +30411,7 @@ Hah. "Western Africa, from Senegambia to the Gold Coast,
 472 
 TIMELIIDJE. 
 
-a. Ad. st. River Gambia. Governor Kendall [0.]. 
+a. Ad. sk. River Gambia. Governor Kendall [0.]. 
 b. $ ad. sk. Senegambia. M. Verreaux. 
 c. d, e. Ad. sk. River Gambia. ^ R. B. Sharpe, Esq. 
 f. 
@@ -30624,7 +30624,7 @@ Benegambia is the first instance of this bird's capture in West
 Africa; and though by no means an improbable bird to find there, 
 its occurrence will require confirmation. 
 
-a. Ad. st. Abyssinia. 
+a. Ad. sk. Abyssinia. 
 Dr. Ruppell [C.]. 
 b. Ad. sk. Anseba river (lisle?-). R. B. Sharpe, Esq. 
 c. 6 
@@ -30699,7 +30699,7 @@ July 18 J(J ( C.J. Amkrs$o?i).
 I Imm. sk. Otjimbinque, March 12,1803 R. B. Sharpe, Esq. 
 
 (C. J. A.). 
-m. Ad. st. South Africa. Sir A. Smith [0.]. 
+m. Ad. sk. South Africa. Sir A. Smith [0.]. 
 9. Crateropus lextcopygius. 
 Ixos leucopygius, Hupp. Keue Wirh. Taf. SO. fig. 1 (1835). 
 
@@ -30905,7 +30905,7 @@ Ad. sk. Beliar. B. II. Hodgson, E-q.
 [P.]. l 
 h. Ad. sk. Beliar. B. II. Hodffcon, Ebq. 
 [P.]. -* 
-i. Ad. st. Nepal. B. II. Iloda-son, Esq. 
+i. Ad. sk. Nepal. B. II. Iloda-son, Esq. 
 [P.]. ^ 4 
 (Type* of 31. terricolor.) 
 &-o. Ad. sk. Nepal. B. II. Ilodgteon. E^q. 
@@ -31195,7 +31195,7 @@ d. Ad. sk. Farttee (Auhinn). R. B. Sharpe, Esq.
 e. Ad. sk. Denkera, February 1872 R. B. Sharpe, Esa 
 (J21 F. Blissett). * 
 f. Ad. sk. Asliantee. J. Gould, Esq. 
-g. Ad. st. Gold Coast. L. Fraser, Esq. [C.]. 
+g. Ad. sk. Gold Coast. L. Fraser, Esq. [C.]. 
 32. JETHOCICHLA. 
 ^Ethocichla, Sharpe, eel LayarcUs B. S. Afr. p. 215 7P6" 
 
@@ -32157,7 +32157,7 @@ along the east coast as high as Rockingham Bay.
 500 TIMELIDAE,. 
 a b. Ad. sk. Australia. Linnean Society. 
 ' ' " (Types of species.) 
-c cl Ad. st. Adelaide. C. D. E. Eortnmn, Esq. 
+c cl Ad. sk. Adelaide. C. D. E. Eortnmn, Esq. 
 e. Ad. st.
 f. Ad. sk. 
 S. Australia. 
@@ -32238,7 +32238,7 @@ g. Ad. sk. Queensland (Cockerel!). F. D. Godman and 0.
 Salvin, Esqrs. [P.], 
 h. Ad. sk. N. W. Australia. J. R. Elsey, Esq. [P ] 
 hk- [<? 2 3 «w3L st. West Australia. J. Gould, Esq. [C.J. " 
-/. Ad. st. West Australia. Sir George Grey [P.]. 
+/. Ad. sk. West Australia. Sir George Grey [P.]. 
 39. CALAMANTHUS. 
 Type. 
 Oalaniantbus, Gould, P. Z. S.1837, p. 150 C. fuliginosus. 
@@ -32363,7 +32363,7 @@ a. Ad. sk. Australia.
 b. Ad. sk. Australia. Purchased. 
 c. Ad. sk. Australia. J. Gould, Esq. 
 d. Ad. sk. Australia. Eyton Collection. 
-etf. Ad. st. South Australia. Sir George Grey [P.]. 
+etf. Ad. sk. South Australia. Sir George Grey [P.]. 
 504 TIMKLIIPiE. 
 
 Group Till. TIMELIJE. 
@@ -35302,8 +35302,8 @@ e,fA<$ ad.] sk. Malacca (Dr. Cantor). India Museum.
 ffjh.16 ad, J sk. Malacca {Park ExMbJ). India Museum. 
 
 13 . TUB DIBITS. 549 
-i. Ad. st. Malacca. Hugh Cuming, Esq. [0.1 
-h. Ad. st. Malacca. Purchased. 
+i. Ad. sk. Malacca. Hugh Cuming, Esq. [0.1 
+h. Ad. sk. Malacca. Purchased. 
 LIS imm.] sk. Singapore. Gould Collection. 
 
 12. Tnrdinus rafLpectiis. 
@@ -35680,7 +35680,7 @@ straggler, into the extreme southern portions of Tenasserim.
 16 . DBYMOCATAPHTTS. 
 555 
 
-a. Ad. st. Malacca. Purchased. 
+a. Ad. sk. Malacca. Purchased. 
 b, c, d, e. Ad. sk. Malacca (Dr\ Cantor). India Museum. 
 / . Ad. sk. Malacca. Ejton Collection. (Type 
 of species.) 
@@ -37324,7 +37324,7 @@ Total length 5 inches, culmen 0*65, wing 2*3, tail 2-35, tarsus 0*8.
 Hah. Java. 
 
 a. Ad. sk. W. Java. A. B. Wallace, Esq. [C]. 
-b, c. Ad. st. Java. Purchased. 
+b, c. Ad. sk. Java. Purchased. 
 d. 
 <$ ad.; e. $ juv. Java (Lei/den Mus.). F. D. Grodman and 0. Salsk. 
 ' vin,Esqrs. [P.], 
@@ -38952,7 +38952,7 @@ Hah. Java.
 
 a, b. S $ ad. sk. West Java. A. R. Wallace, Esq. [P.]. 
 
-c. Ad. st. Java. Leyden Museum. • 
+c. Ad. sk. Java. Leyden Museum. • 
 606 TIMELIDAEL 
 3. mmLA. 
 Minla, Hodgs, Ind. Benezc, lb38, p. 33Schoeniparus, Hume, Str. F 1874? p. 449Type. 
@@ -39146,7 +39146,7 @@ Total length 4*15 inches, culmen 0*45, wing 2-2, tail 1-8, tarsus 0-8.
 
 Hab. Eastern Himalayas. 
 
-a. Ad. st. Nepal. 
+a. Ad. sk. Nepal. 
 B. H. Hodgson, Enq. rP.n.
 b} c. Ad. sk Nepal. 
 
@@ -39413,7 +39413,7 @@ Capt. Stackhouse Pinwill
 [P.]. 
 Capt. Stackliouse Pine. 
 <$ ad. sk.
-/ . Ad. st. 
+/ . Ad. sk. 
 Sheopuri Ridge, Nepalvalley, May 22,1878. 
 Nepal.
 will EM Dr. J. Scully [P.]. 
@@ -39856,7 +39856,7 @@ Bengal.
 
 a. Ad. j h. Tram. Between Simla and Mus- Capt. Stackkouse Pinsk. 
 soorie. will ^P.]. 
-c. d, e. Ad. st. Nepal. B. H. ""Hodgson, Esq. 
+c. d, e. Ad. sk. Nepal. B. H. ""Hodgson, Esq. 
 ' [P.]. 
 /, g. Ad.; h. Juv. Nepal. B.^IL Hodgson, Esq. 
 sk. pP-ji, 
@@ -40622,7 +40622,7 @@ Hah. Eastern Himalayas from Nepal to Bootan, extending to
 Aracan, and was once observed by Abbe David in lloupin. He 
 believes that it breeds in the latter locality, retiring south in winter. 
 
-a. Ad. st. Nepal. B. H. Hodgson, Esq. [PA 
+a. Ad. sk. Nepal. B. H. Hodgson, Esq. [PA 
 b, c. Ad. sk. Nepal. B. H. Hodgson, Esq. [P.J. 
 (Types of species.) 
 d, e,f. Ad.; g. Nepal. B. H. Hodgson, Esq. [P.]. 
@@ -40704,7 +40704,7 @@ brown; iris deep brown " (Scully). Total length 5 inches, culmen
 Hab. Eastern Himalayas, where it is only met with from Nepal 
 to Bootan. 
 
-a. Ad. st. Nepal. B. H. Hodgson, Esq. [P.l 
+a. Ad. sk. Nepal. B. H. Hodgson, Esq. [P.l 
 b,c. Ad.sk. Nepal. B. H. Hodgson, Esq. [P.J. 
 (Types of species.) 
 d, e. Ad. sk. Nepal. B. H. Hodgson, Esq. [P.]. 
@@ -41324,7 +41324,7 @@ tail-coverts disappears.
 Hah. Eastern Himalayas, throughout the hills of North-eastern 
 Bengal and Bunn ah to Tenasserim. 
 
-a. Ad. st. Nepal. B. H. Hodgson, Esq. [P.]. 
+a. Ad. sk. Nepal. B. H. Hodgson, Esq. [P.]. 
 b-e. Ad. sk. Nepal. B. PL Hodgson, Esq. [P;J. 
 / . Ad. sk. Nepal (Hodgson). India Museum. 
 ff,h. Ad.sk. Sikhim(Mandelli). H, Seebohm, Esq. [P.]. 
@@ -41449,7 +41449,7 @@ Bengal and throughout Southern China.
 a, Ad. sk.
 b, Ad. sk.
 c, d. Ad. sk.
-e,f,g. Ad. st. 
+e,f,g. Ad. sk. 
 ? Afghanistan {Griffith). 
 N.W. Himalayas. 
 Dehra Doon, Jan. 1871(G. Zing). 
@@ -42760,7 +42760,7 @@ g, ?i.}($ ad. sk. Cape York (Cockerell). F. t). Godman and 0.
 Salvin, Esqrs. [P.]. 
 
 i. S ad. sk. Hammack Island. J. Macgillivray, Esq. 
-h. Ad. st. Australia. Purchased. 
+h. Ad. sk. Australia. Purchased. 
 2. EpMManura tricolor. 
 Ephthianura tricolor, Gould, P. Z. S.1840, p. 159; Gray, Gen, B. i. 
 p. 205 (1847); Gould, B. Austr. folio, iii. pi 65 (1848) • Sturt, 

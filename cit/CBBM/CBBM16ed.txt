@@ -1990,9 +1990,9 @@ a. Pull. sk. Europe.
 Gould Coll. 
 b. Pull. St. Europe. 
 Purchased. 
-c. Ad. st. Port Jade, Sussex, Aug. 80. Herbert Langton, 
+c. Ad. sk. Port Jade, Sussex, Aug. 80. Herbert Langton, 
 Esq. [P ]. 
-d. Ad. st. Bigbury, Devonshire. Montagu Coll. 
+d. Ad. sk. Bigbury, Devonshire. Montagu Coll. 
 e. Ad.; /. Juv. Valkenswaard, Holland (/. Salvin-Gfodman Coll. 
 sk. Baker). 
 gj h. Si ad. sk. Silesia. Gould Coll. 
@@ -2033,7 +2033,7 @@ TTPTJPIDiE.
 a'. <$ ad. sk. 
 &', S ad. sk« 
 
-c'. Ad. st. 
+c'. Ad. sk. 
 
 df 
 
@@ -3258,7 +3258,7 @@ son).
 d'-f. Ad. sk. Damara-Land (C. J. Anders-Sharpe Coll. 
 son).
 
-</. Ad. st. Damara-Land. C. J. Andersson [0.]. 
+</. Ad. sk. Damara-Land. C. J. Andersson [0.]. 
 
 h', i'. d juv.; / , Otjinibinque, Sept. (0. J. A.). Sharpe Coll. 
 A;'. $ ad. et 
@@ -3704,7 +3704,7 @@ Imm. sk. shaw).
 v, w1 a\ Ad. sk. Zambesi. 
 Sir J. Kirk [P.]. 
 
-y. Ad. st. Zambesi. 
+y. Ad. sk. Zambesi. 
 Sir J. Kirk [P.]. 
 z. Ad. sk. Zambesi (Dr. Meller). Tweeddale Coll. 
 a'} b'. J ad. et Otjimbinque, Damara-Land, Tweeddale Coll. 
@@ -9526,7 +9526,7 @@ w.
 9 ad. sk. Sta. Lucia, April (Ramage). We*t India Expl. 
 Comm. 
 x. Ad. sk. St. Vincent (C. B. Cory). Salvin-Godman Coll. 
-y. Ad. st. 
+y. Ad. sk. 
 Purchased. 
 2. Eulampis holosericens. 
 Black-bellied green Humming-bird, Edic. i. pi. 30. 
@@ -9642,10 +9642,10 @@ h'. Ad. sk. Gould Coll.
 
 (Type of E. hngirostns, Gould.) 
 $-n'. Ad. sk. [Nevis.] Gould Coll. 
-</. Ad. st. Nevis. W. Cottle [P.]. 
+</. Ad. sk. Nevis. W. Cottle [P.]. 
 
 (Type of E. chlorolmnms, Gould.) 
-p'. Ad. st. Purchased. 
+p'. Ad. sk. Purchased. 
 q', r'. Skeletons. Purchased. 
 
 24. PETASOPHOEA. 
@@ -9746,7 +9746,7 @@ m-q. c^ad-j r-v. Chapada, Matto Grosso, May Salvin-Godman Coll.
 ? ad. sk. to Sept. (H. II. Smith). 
 2V. $ ad.; x. $ Coroico, Bolivia (D. Fortes). Gould Coll. 
 ad. sk. 
-!/- Ad. st. Purchased. 
+!/- Ad. sk. Purchased. 
 
 2. Petasophora iolata. 
 Rhamphodon anais, less. Hist. Nat. Troch. p. 140, pi. 55 (nee Ornismya 
@@ -9841,7 +9841,7 @@ WJiitehJ).
 (jA\ Ad. sk. Yimgasj Bolivia (Buckley). Gould Coll. 
 
 f. Ad. sk. Bohvia (D. Forbes). Sclater Coll. 
-'h1,1'. Ad. st. Purchased. 
+'h1,1'. Ad. sk. Purchased. 
 3. Petasophora germaEa. 
 Petasophora anais, Cab. hi Schomb. Feise Guiana^ iii. p. 707 ? 
 Petasophora gemiana, Sah\ 6' Godm. Ibis, Xb84. p. 451; Salv. Ibia, 
@@ -11422,7 +11422,7 @@ juv.; t, it. 2 Gould Colls.
 ad. sk. 
 v, w. <$ ad. sk. Ecuador. Gould Coll, 
 
-x. Ad. st. 
+x. Ad. sk. 
 Purchased. 
 5. Bourcieria folgidigiila. 
 Bourcieria fulgidisula, 
@@ -11589,7 +11589,7 @@ Hah. Colombia.
 a-g. <$ ad.; hyi. Colombia (Bogotamake).' Salvin-Godman,Gould, 
 juv. sk. & Sclater Colls. 
 
-7. Ad. st. 
+7. Ad. sk. 
 Purchased. 
 134 TEOOHILI. 
 
@@ -20735,7 +20735,7 @@ Hah. Colombia.
 a-e. Ad. sk. Colombia (Bogota make). Salvin-Godman & 
 Gould Colls. 
 
-f. Ad. st. Purchased, 
+f. Ad. sk. Purchased, 
 262 TEOCHILI. 
 
 2. Eutoxeres heterura. 
@@ -21455,7 +21455,7 @@ Gould CoH. (Type
 of P. fraterculus ?) 
 gf-o\ Ad. sk. (Cayenne make.) Gould & Sclater 
 Colls. 
-p\ Ad. st. Purchased
+p\ Ad. sk. Purchased
 
 
 5. Plaethonds longirostris. 
@@ -22411,7 +22411,7 @@ x.
 Ad. sk. Engenho do Gama; Matto Grosso, SalTin-Godman Coll. 
 Sept. (batterer), 
 y, z. Ad. sk. Guanai, Bolivia (Buckley), Salvm-Gudnian Coll. 
-a'. Ad. st. Purchased. 
+a'. Ad. sk. Purchased. 
 
 
 8. Pygmornis nigricinctus. 
@@ -25299,7 +25299,7 @@ Colombia (Bogota make), Salvin-Godman
 Gould Colls. 
 & 
 S ad. sk. 
-n-p. Ad. st. " Purchased. 
+n-p. Ad. sk. " Purchased. 
 
 2. Lafresnaya, gayi. 
 Trochilus gayi, Bourc. # Mids. Ann. Sc. Phys. et Nat. Lyon, ix, 
@@ -26811,8 +26811,8 @@ Argent.
 Kep., Sept. (E. W. 
 White). 
 
-r. Ad. st. Chili. Lord Byron [P.]. 
-*. Ad. st. Chili. Bridges [C.]. 
+r. Ad. sk. Chili. Lord Byron [P.]. 
+*. Ad. sk. Chili. Bridges [C.]. 
 t. Ad.; u. Juv. st. 
 Purchased. 
 97. 
@@ -26931,7 +26931,7 @@ Gould Coll.
 
 (Types of A. parvida, Gould.) 
 
-w. Ad. st. 
+w. Ad. sk. 
 Purchased. 
 2. Aglasactis catunatonota. 
 Aglseaetis caumatonota, Gould, P. Z. S. 3848, p. 12; id. Intr. Troch. 
@@ -27780,7 +27780,7 @@ Gould Colls.
 i-L Ad. sk. Pasto, Ecuador {Lehnann). Salvin-Godman & 
 Gould Oollb. 
 
-m. Ad. st. Purchased. 
+m. Ad. sk. Purchased. 
 3. Eriocnemis vestita. 
 Ornismya vestita, Lomjuem. Rev. ZooL 1838, p. 314; Lodd. P. Z. S. 
 
@@ -28070,7 +28070,7 @@ Hah. Colombia.
 a-h. Ad.; i-n. Colombia (Bogota make). Salvin-Godman, 
 J u v sk Gould, & Selater 
 Colls. 
-o-q. Ad. st. Purchased. 
+o-q. Ad. sk. Purchased. 
 
 11. Eriocnemis chrysorama. 
 Eriocnemis chrysoraraa, Elliot, Ann. $ Mag. N. H. 1874, xiii. p. 375 ; 
@@ -28171,7 +28171,7 @@ Ad. sk. Pichineha, Ecuador (E. Whym- Sclater Coll.
 per), 
 j. Ad. sk. Ecuador. 
 Salvin-Godman Coll. 
-k. Ad. st. [Ecuador.] 
+k. Ad. sk. [Ecuador.] 
 Gould Coll. 
 15. Eriocnemis isaacsoni 
 Ornismya isaacsoni, Parz. Rev. Zool. 1845, p. 95. 
@@ -33539,7 +33539,7 @@ Sharpe Coll.
 Shelley Coll. 
 Shelley Coll. 
 Shelley Coll. 
-I. Ad. st. Cape of Good Hope. Sir A. Smith [0.]. 
+I. Ad. sk. Cape of Good Hope. Sir A. Smith [0.]. 
 
 2. fficropus aequatorialis. 
 Cypselus sequatorialis, Mull Naumannia, 1851, p. 27; id. Nouv. Ois. 
@@ -33704,7 +33704,7 @@ Bakewell, Derbyshire, July(O. Salvin).
 Cambridge. 
 Salvin-Godman Coll. 
 Purchased. 
-e. Ad. st. Turnham Green. 
+e. Ad. sk. Turnham Green. 
 /. Ad. &k. Hampstead. Salvin-Godman Ooll. 
 
 444 
@@ -33716,7 +33716,7 @@ $ ad. sk.
 I. Imm. sk. 
 m. Juv. sk. 
 n, o. c? $ ad. sk. 
-p. Ad. st. 
+p. Ad. sk. 
 q. S ad.;r. Jad.sk. 
 s. cfad.; £. jad.sk. 
 u. 
@@ -36355,7 +36355,7 @@ but they may possibly be peculiar to birds from the West Indies.
 I do not find them so well-defined in Continental specimens of 
 
 C. zonaris, although they are indicated in some. 
-a. Ad. st. 
+a. Ad. sk. 
 b. Ad. sk 
 c. Ad. slu 
 d. 2 ad. sk. 
@@ -36498,7 +36498,7 @@ a. b. c? $ ad. sk. Koraima, 3500(Whitely).
 ft., April Sarvin-Godman Coll. 
 c. Ad. sk. Guiana (Brozon). Sclater Coll. 
 d. Imm. sk. " Cote Ferine "' (Verreaux). Jardine Coll. 
-e. Ad. st. Brit. Guiana. 
+e. Ad. sk. Brit. Guiana. 
 
 7. Chsetura biscutata. 
 Chsetura biscutata, Scl P. Z. S. 1865, p. 609, pi. 34 (Rio Janeiro & 
@@ -36702,7 +36702,7 @@ n, o. Ad. sk. Mexico (I)e Saitssure). Sclater Coll.
 p, q. J ad. sk. Alotenango, Guatemala Feb. Salvin-Godman Coll. 
 
 (O. Salvin). 
-r. Ad. st. Honduras. 
+r. Ad. sk. Honduras. 
 D.D}son[C.]. 
 VOL. XVI. 
 2x 
@@ -36997,7 +36997,7 @@ of the species.)
 
 d. Ad. sk. Brazil (Gould). Jardine Coll. 
 e. Ad. sk. Brazil. Salvin-Godman Coll. 
-/. Ad. st. Brazil. Jardine Coll. 
+/. Ad. sk. Brazil. Jardine Coll. 
 Subsp. a. Chsetura guianensis. 
 
 Acanthylis oxyura, Leot. Ois. Trinidad, p. 84 (1866). 
@@ -40623,7 +40623,7 @@ the uppermost part.
 
 Hob. South Africa. 
 
-a. Ad. st. S. Africa. 
+a. Ad. sk. S. Africa. 
 Purchased. 4 
 b, 
 c. § ad. et S. Africa. Jardine Coll. 
@@ -41191,7 +41191,7 @@ shall).
 c, d. <$ 5 a&« sk-Masuri. Hume Coll. 
 
 e. § ad. sk. Naini Tal (S. Pinwill). Tweeddale Coll. 
-/ . Ad. st. Gangaotri. Old Coll. 
+/ . Ad. sk. Gangaotri. Old Coll. 
 ff, h, i. $ ad.; h. Kumaon (Gen. Strachey). India Museum 
 $ ad. sk. [p.]. 
 /. <$ ad. sk. Kumaon, March 4. Hume Coll. 
@@ -41828,7 +41828,7 @@ a. J ad. bk. Java (Dr. Ilorsfield). India Miwum.
 {TVIM" t d* pptt'it'H.) 
 b,c. <S § ad. sk. Java. 
 
-d. Ad. st. Sumatra. 
+d. Ad. sk. Sumatra. 
 Purchaml. 
 e. $ sk. Sumatra (Sir 8. Muffles), India Muslim, 
 f-l 
@@ -42077,10 +42077,10 @@ d. S ad. sk.
 e. 5 ad. sk. 
 /. <S ad. sk. 
 //. $ ad. sk. 
-\ i. Ad. st. 
+\ i. Ad. sk. 
 k, Z. c? $ cad. sk. 
 
-m. Ad. st. 
+m. Ad. sk. 
 w. <$ ad. sk. 
 o, JK>. d1 $ ad. sk. 
 </. $ imm. sk. 
@@ -43249,7 +43249,7 @@ g. 2 ad. sk. Para, Brazil.
 Sclater Coll. 
 h. j imm. sk. Para {Natterer). Sclater Coll. 
 i. S ad. sk. Pemainbuco {Craven). Sclater Coll. 
-h. Ad. st. Bahia. Purchased. 
+h. Ad. sk. Bahia. Purchased. 
 I, m, n. <$ ad. et Bahia, Brazil ( Wucherer). Sclater & Salvinimm. 
 sk. Godman Colls. 
 or p. J ad. sk. Bio Janeiro. Sclater Coh. 
@@ -45665,7 +45665,7 @@ band sometimes darker rufous.
 Bah. Brazil, with the exception of the southern parts. 
 
 %a-h, $ ad. sk. Brazil. Tweeddale Coll. 
-i. Ad. st. Brazil. Gould Coll. 
+i. Ad. sk. Brazil. Gould Coll. 
 k-p. £ imm. sk.
 $• $ ad. sk. 
 Brazil. 
@@ -45718,7 +45718,7 @@ a. dad.sk Cordova. G. T. Baker, Es( l-
 J. o* ad.; c. $ Gualeguayclin (Lee). Sclater Coll. 
 & ? ad", sk. Puntalara, Oct. 18. Dumford Coll. 
 e. <J imm.;/. ? Mendoza (Weisshaupt). Salvm-Godman Coil. 
-g. Ad. st. Brazil. ^fes. Johnson [Pf. 
+g. Ad. sk. Brazil. ^fes. Johnson [Pf. 
 A. $ ad. sk. Brazil. Purchased, 
 z. $ ad.sk. Forte do Principe, Brazil, Sclater Coll. 
 k. J ad. sk.
@@ -45926,7 +45926,7 @@ Hob. "Colombia and Ecuador to Peru and Bolivia.
 a ft.cJ2ad.sk. Autioquia, U.S. of Colombia Salvin-Godman Coll. 
 
 ' {T.K.Salmon). 
-c, d. Ad. st. Colombia. Purchased. 
+c, d. Ad. sk. Colombia. Purchased. 
 e7f. $ ; g. Imm. Bogota. Gould and Sclater 
 
 <$ j h, i. 6 ad. Colls, 
@@ -46098,7 +46098,7 @@ b-f. Ad. sk Manila.
 
 
 g. Ad. sk. Philippines. Cuming Coll. 
-h. Ad. st. [Philippines.] Purchased. 
+h. Ad. sk. [Philippines.] Purchased. 
 3. Lyncornis mindanensis. (Plate XIII.) 
 Lyncornis mindanensis, Tweedd. P. Z. S. 1878, p. 944. 
 Adult. Similar to L. macrotis, but smaller and the top of the 
@@ -46293,7 +46293,7 @@ b. Pull. sk. [Australia." Purchased.
 c. Iniin. st. Australia. Purchased. 
 d-g. 8 S ad. sk. Australia. Tweeddale Coll. 
 h, i. S ad. sk. Brisbane {Cockerell). Salvin-Ciodman Coll. 
-k. Ad. st. Woodv Wallis Island. Eari of Derby (Pr. 
+k. Ad. sk. Woodv Wallis Island. Eari of Derby (Pr. 
 2. Eurostopus argus. 
 Fichtel's Goatsucker, Lath. Gen, Ilkt. vii. p. 34-1 
 Eurostopodus guttatus, Gould {nee Vig. 8f JECorsf.), P. Z. S. 1887, 
@@ -46327,7 +46327,7 @@ tail 64.
 
 Hah. Australia, Aru Islands, and probably New Ireland. 
 
-a. Ad. st. Australia. Purchased. 
+a. Ad. sk. Australia. Purchased. 
 b. Ad.sk. Australia. E.Kishton, Esq. "P.], 
 c. d. 8 $ ad. sk. Australia. Tweeddale Coll/ 
 15 . CH0KDE1LES. 609 
@@ -46335,7 +46335,7 @@ e. Ad. sk.
 / . Ad. sk.
 y. Imm. sk.
 h, i. Ad. sk.
-Jc. Ad. st. 
+Jc. Ad. sk. 
 S. Australia. 
 Queensland (J. T. Cockerell). 
 N.E. Australia. 
@@ -46953,7 +46953,7 @@ Bab. Western Peru from Lima southwards.
 a. <$ ad. sk. Tambo Valley, Peru, Oct. 26 Sclater Coll 
 {II. Whitety). 
 b,cS2 ad. sk. Lima (Jelaki). Sclater Coll. 
-d. Ad. st. Lima. E. Wilson, Esq. [P.]. 
+d. Ad. sk. Lima. E. Wilson, Esq. [P.]. 
 Subsp. /3. Chordeiles texensis. 
 
 Chordeiles texensis, Laior. Ami. Lye. 2VT. Y. vL p. 167 (18*56; Texas) ; 
@@ -47099,7 +47099,7 @@ ad. sk May, June.
 
 ad. sk. ruary (J. Haiwivell). Sclater Culls. 
 
-o. Ad. st. Para. 
+o. Ad. sk. Para. 
 Purchased. 
 p. Jad.sk. Pernambuco, Brazil (Cra?:en). Sclater Coll. 
 4. Chordeiles pnsilhis. 
@@ -47248,7 +47248,7 @@ imm. sk. (Mrs. E. H. Smith).
 n,o. <S 2ad.sk. Bolivia. T. Bridges, Esq. [0.1 
 
 p. $ ad. sk. Uruguay, Nov. Alan Peel, Esq. [O.l 
-a. Ad. st. Brazil. Lord Stuart de J 
+a. Ad. sk. Brazil. Lord Stuart de J 
 Rothesay [P.l 
 r. 
 <J ad. sk. Brazil. Lord Stuart de 
@@ -47355,7 +47355,7 @@ Hal. British Guiana to Southern Brazil.
 
 a. Ad. sk. S. America. 
 Tweecldale CulL 
-b. Ad. st. S. America. 
+b. Ad. sk. S. America. 
 Sir E. Belcher [IV. 
 c. d. Ad. sk Demerara. 
 Gould Coll. 
@@ -47364,7 +47364,7 @@ e. Ad. sk. Takulu R, Brit. Guiana Sab in-Gotlman Coll.
 f. 
 <$ ad.; g. $ Bartica Grove, Brit. Guiana, Salvin-Godman Coll. 
 imm. sk. June 2 ( Wkitely). 
-h. Ad. st. Cayenne. 
+h. Ad. sk. Cayenne. 
 II. C. Botiiery [P.]. 
 i. Ad. sk. Cayenne. 
 Sclater Coll. 
@@ -47592,7 +47592,7 @@ Larger form (Northern specimens).
 Jamaica. P. Gosse, Etq. [CV. 
 a. Ad. sk. 
 Jamaica. Purchased. 
-b. Ad. st. 
+b. Ad. sk. 
 c. d. Ad. sk. Jamaica? Aug., Dec. (Osburn). Sclater Coll. 
 Salvin-Gudman Coll. 
 
@@ -47650,7 +47650,7 @@ v. $ ad. sk. Yquitos, Upper Amazons, May Salvin-Godman Coll.
 v. c? ad. sk. Roraima, British Guiana, Salvin-Godman Coll. 
 Oct. 27 (#. Whitely). 
 zf.Ad.sk. Bartica Grove (H. Whitely). Salvin-Godman Coll. 
-X-. Ad. st. Cayenne. H. C. Botherv, Esq. 
+X-. Ad. sk. Cayenne. H. C. Botherv, Esq. 
 
 m PI " 
 
@@ -47746,7 +47746,7 @@ Hab. Brazil.
 62 8 CAPKIMTJLGIDiE. 
 a-d. Ad. sk. & America. Skarpe & Tweeddale 
 Oolls. 
-e. Ad. st. S. America. Purchased. 
+e. Ad. sk. S. America. Purchased. 
 /Iff. Ad.sk.
 ^? y 
 Brazil. Sclater & SalvinGodman 
@@ -48116,7 +48116,7 @@ d, e. Ad. sk. Australia. Gould Coll.
 f. Ad. sk. Australia. Purchased. 
 (jy h, i. Ad. sk. Australia. Tweeddale Coll. 
 k. Ad. sk. Australia. R. Buller, Esq. [P.]. 
-1 Ad. st. Australia. Zoological Society. 
+1 Ad. sk. Australia. Zoological Society. 
 m. Ad. sk. Australia. 
 Sir D. Cooper [P.]. 
 n. Pull. st. Australia. 
@@ -49526,7 +49526,7 @@ d,e,f. Ad.sk. Trinidad. Sclater Coll.
 g. 
 Ad. st. Trinidad. Hon. Arthur Gordon 
 [P.". 
-h. Ad. st. Trinidad. 
+h. Ad. sk. Trinidad. 
 Urs. Wrisht rP.~. 
 i, h. Ad. sk. Eoraima, Oct., Nov. (S. Salvin-Godman Coll. 
 Whitely). 

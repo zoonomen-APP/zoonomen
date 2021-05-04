@@ -4240,7 +4240,7 @@ w12, xl*. (S ad.
 
 sk. 
 yia. S ad. sk. 
-is12, *'. Ad. st. 
+is12, *'. Ad. sk. 
 b'. tf ad. sk. 
 
 c'j d. Ad. sk. 
@@ -12271,7 +12271,7 @@ Total length 7*2 inches, culmen 0*75, wing 4, tail 2'6, tarsus 0*9.
 
 Hob. Few Caledonia. 
 
-a. Ad. st. New Caledonia. Purchased. 
+a. Ad. sk. New Caledonia. Purchased. 
 b, c. S ad. sk. New Caledonia. Purchased. 
 d. Ad. sk. New Caledonia, March 2, 1858. J. McGillivray [C."\ 
 e. $ ad. sk. Port de France, New Gale- J. McGillivray 0-1* 
@@ -12482,7 +12482,7 @@ tarsus 1*1.
 
 Eab. Samoa Islands. 
 
-a. Ad. st. Tutuila, Samoa. J. Brenchley, Esq. 
+a. Ad. sk. Tutuila, Samoa. J. Brenchley, Esq. 
 b, c. Ad, sk. Samoa. Rev. S. J. Whitmee 
 [CO
 
@@ -12644,8 +12644,8 @@ certainly founded on error.
 134 STT7ENTD-3E. 
 
 a. Ad. sk. [Norfolk Island.} Old Coll. 
-b. Ad. st. ^Norfolk Island.] Dr. G. Bennett T'A 
-e. Ad. st. "Norfolk Island. J Sir T. Mitchell *P/\ 
+b. Ad. sk. ^Norfolk Island.] Dr. G. Bennett T'A 
+e. Ad. sk. "Norfolk Island. J Sir T. Mitchell *P/\ 
 d. Ad. sk. "Norfolk Island.] Gould Coll. *" " 
 e. Ad. sk. "Norfolk Island." Zoological Society. 
 f> 9-6 ? a#- sk. Norfolk Island, June 1S05. X Breneklev, Esq. "P. "J. 
@@ -14469,7 +14469,7 @@ Shelley Coll.
 Eyton Coll. 
 (Type of L. egtoni.) 
 f Ad. sk.
-g, h Ad. st. 
+g, h Ad. sk. 
 West Africa. 
 West Africa. 
 " Skarpe Coll. 
@@ -15681,7 +15681,7 @@ wing 0*95, tail 4*3, tarsus 1*25.
 Hah. West Africa from the Cameroons to the Congo, and over the 
 Congo region to Xiam Xiam and the Monbuttu country. 
 
-(L Ad. st. Gaboon. M. Verreaux. 
+(L Ad. sk. Gaboon. M. Verreaux. 
 b. 
 C. 
 d. 
@@ -15825,7 +15825,7 @@ change from the base up to the tip." (DoJwn.)
 Hah. Princes Island, W. Africa, to which locality, in my opinion, 
 it is confined, though it has been stated to occur in Sonegambia. 
 
-a. Ad. st. [Princes Island.] Massena Coll. 
+a. Ad. sk. [Princes Island.] Massena Coll. 
 b. Ad. sk. Princes Island (Dr. Bohm). Sharpe Coll. 
 c. § ad.; d. Ad. sk. Princes Island. Dr. Dohrn [C]. 
 e,f. Ad. sk. Princes Island (Br. Bohm). Shelley Coll. 
@@ -16245,7 +16245,7 @@ inches, culmen 1, wing 5*85, tail 3*8, tarsus 1*45.
 
 Hab. Cape Colany. 
 
-a. Ad. st. South Africa. 
+a. Ad. sk. South Africa. 
 Hardwicke Bequest. 
 h. Ad. sk. South Africa. 
 Sharpe Coll. 
@@ -16429,7 +16429,7 @@ Kingwilliamstown, Nov. 12, Shelley Coll.
 b. 2 ad. sk. 
 1884 (C. Neivtej). 
 
-c. Ad. st. 
+c. Ad. sk. 
 Natal. Purchased. 
 Natal 
 Dr. Gueinzius [0.]. 
@@ -16509,7 +16509,7 @@ tarsus 0*9.
 Bah. "West Africa from the Cameroons to the Congo. 
 
 a. Ad. sk. Landana, Congo (Petit). Shelley Coll. 
-b. Ad. st. Gaboon. M. Verreaux. 
+b. Ad. sk. Gaboon. M. Verreaux. 
 c. Ad. sk. Gaboon (P. B. Du Chaillu). Sharpe Coll. 
 d. Ad. sk. Gaboon (P. B. Du Chaillu). Tweeddale Coll. 
 e. Ad. sk. Biver Ogowe, Gaboon. H. T. Ansell, 
@@ -16984,7 +16984,7 @@ brown ; the abdomen rufous; the bill yellow.
 
 Hal. ISLE. Africa, reaching to the Niger district and Senegambia. 
 
-a. Ad. st. Abyssinia. Dr. Riippell [O.]. 
+a. Ad. sk. Abyssinia. Dr. Riippell [O.]. 
 b. Ad. sk. Abyssinia. Zoological Society. 
 c. 2 ad. sk. Anseba Valley, July 23,1868. W. T. Blanford, Esq. [C.]. 
 
@@ -17294,7 +17294,7 @@ Emin Pasha [P. 1
 Sharpe Coll. 
 chieta). 
 •V M ' ? k \ Benguela Monteiro Coll. 
-/*, i. Ad. st. Damara-Land.C. 
+/*, i. Ad. sk. Damara-Land.C. 
 J. Andersson, Esq 
 k Ad.uk. Ovaquenyama, June 2o (C. J. Sharpe Coll. 
 And-ersson). 
@@ -18071,7 +18071,7 @@ rc'. c? juv. sk.
 ©'. Var. mel. sk. 
 
 p'. Var. mel, st, 
-q'. Ad. st. 
+q'. Ad. sk. 
 ?*'. Juv. sk. 
 s'. S juv. sk. 
 
@@ -23875,13 +23875,13 @@ sulphur-yellow, with light brown flanks.
 
 Hab. Central India. 
 
-a. Ad. st. India. Zoological Society. 
+a. Ad. sk. India. Zoological Society. 
 b, c. (J; d. $ ad. Mount Abu, March, May, Hume Coll. 
 sk. July (G. King). 
 e,f, g, Ad. sk Jhansi. Phrwill Coll. 
 h-r. c? $ ad. sk. Jhansi, Aug., Sept. Hume Cull. 
 
-s. Ad. st. Behar. 
+s. Ad. sk. Behar. 
 Hodg-oii Coll. 
 t. <$ ad. sk. Saugor, March 19. Hume Cull. 
 u. 3 juv. sk. Palamow, April 5 (V. Ball) Hume Coll. 
@@ -24201,7 +24201,7 @@ Eev. A. Strong [P.].
 Forbes Coll. 
 e. Juv. tok. 
 / . $ juv. sk. 
-g. Ad. st. 
+g. Ad. sk. 
 h. J ad. bk. 
 i. Ad. sk. 
 Australia. 
@@ -24376,7 +24376,7 @@ a. Ad. sk, Australia. Purchased.
 b, c. Ad. • cl Juv. sk. Australia. Forbes Coll. 
 e. Ad. sk. West Australia (J. T. Salvin-Godman Coll. 
 Cocherell). 
-f. Ad. st. West Australia. J. Gould, Esq. [P.]23. 
+f. Ad. sk. West Australia. J. Gould, Esq. [P.]23. 
 EMBLEMA. 
 Type. 
 Emblema, Gould, P. Z. S.1842, p. 17 E. picta, 
@@ -25539,7 +25539,7 @@ Bovcyer Boiueru
 
 P.". 
 
-Is, I. Ad. st. Australia. 
+Is, I. Ad. sk. Australia. 
 
 >ir TC Mitch* U "P.\ 
 
@@ -27754,7 +27754,7 @@ moult!
 
 Hal. Australia. 
 
-a. Ad. st. Australia. 
+a. Ad. sk. Australia. 
 Dr. Giinther [P.], 
 
 b, c, d. Ad. sk. Australia. 
@@ -27775,7 +27775,7 @@ Juv. sk.
 n. Ad.; o. Imm. Cape York. 
 J.B.Jukes,Esq.[P.]. 
 sk. 
-p, q. Ad. st. Cape York. J. Macgillivray, Esq. 
+p, q. Ad. sk. Cape York. J. Macgillivray, Esq. 
 
 r. Ad.; s-v. Imm. Thursday Island, Torres Strait, Voy. H.M.S.' Alert/ 
 sk July 1881 (Dr. Coppinger). 
@@ -30577,7 +30577,7 @@ Ilab. Forth and North-west Australia.
 a. Ad. sk. N. Australia (/. T. Coeherell). Salvin-Godman Coll. 
 b. Juv. sk. Port Essington. Capt. Chambers [P.]. 
 c. Ad. sk. Port Essington. Gould Coll. 
-d. Ad. st. Port Essington. Sir J. Richardson 
+d. Ad. sk. Port Essington. Sir J. Richardson 
 [P.]. 
 <?,/• <$\ g-i-?ad. N.W.Australia. J. R. ELey, Esq. 
 et juv. sk. [PJ. 
@@ -30649,11 +30649,11 @@ Gould). Total length 4*4 inches, culmen 0*4, wing 2*35, tail 1*65,
 tarsus 0*6. 
 Hab. Forth-east and South Australia. 
 
-a. Ad. st. Australia. J. Gould, Esq. 
+a. Ad. sk. Australia. J. Gould, Esq. 
 b, c. Ad. & Australia. Gould Coll. 
 imm. sk. 
 
-d. Ad. st. Australia. Sir T. Mitchell [P.l 
+d. Ad. sk. Australia. Sir T. Mitchell [P.l 
 e,f. Ad. sk. New South Wales. Forbes Coll. 
 g. Ad. sk. New South Wales. R. B. Sharpe, Esq FP1 
 h. Ad. sk. Queensland (J. T. Coeherell). Salvin-Godman Coll 
@@ -30691,7 +30691,7 @@ Hab. North and North-west Australia.
 aj b. Ad. sk. N. Australia. Salvin-Godman Coll. 
 
 c. Juv. sk. N. Australia. Gould Coll. 
-d. Ad. st. Port Essington. Sir J. Richardson [P.]. 
+d. Ad. sk. Port Essington. Sir J. Richardson [P.]. 
 e. £ tf ? ad.; g. $ N.W. Australia, April 1856. J. R. Elsey, Esq. [P. J 
 juv. sk. 
 4. Poephila leucotis. 
@@ -31039,7 +31039,7 @@ sk. bidge). II.LVeitch,E8q.^P.].
 w',,%'. Ad.; y\ Juv. Island of Marintanan, X. 
 sk. Borneo. A. II. Everett. Esq. 
 
-z\ Ad. st. Java. 
+z\ Ad. sk. Java. 
 Purchased. 
 
 2. Erythriira psittacea. 
@@ -31553,10 +31553,10 @@ Juv. sk.
 
 g. Imm. sk. Port Essington {J. B. Juices). Voy. H3I.S. ' Fly.' 
 h-k. Ad. sk. Port Essington. Dr. Eichardson fP.]. 
-/. Ad. st. Port Essington. Capt. Chambers "[P.]. 
+/. Ad. sk. Port Essington. Capt. Chambers "[P.]. 
 m-o. S ? ad. sk. Cape York. 
-p. Ad. st. Queensland. Mrs. Fitzgerald. 
-q. Ad. st. N. Australia. J. Gould^Esq. [P.], 
+p. Ad. sk. Queensland. Mrs. Fitzgerald. 
+q. Ad. sk. N. Australia. J. Gould^Esq. [P.], 
 41. BSTEHiDA* 
 Type. 
 Estrilda, Swains. Zool. Journ. iii. p. 349 (1827) E. astrilda. 
@@ -32160,7 +32160,7 @@ o. £ ad. sk. Omaruru, Damara-Land, Nov. Shelley Coll.
 p. 
 <S ad. sk. Matalko, Damara-Land, July Shelley Coll. 
 U(C.J.A.). 
-<?. Ad. st. Scutk Africa. 
+<?. Ad. sk. Scutk Africa. 
 Sir A Smith [C.]. 
 
 41 . ESTBILDA, 
@@ -32235,7 +32235,7 @@ a, b. e. Ad. sk. Gaboon (Du Chaillu).
 d Ad. sk. Itiver Danger, Gaboon (JET. T. AmelJ). Shelley Coll. 
 <?." Ad.sk. Gaboon. ' M. Verreaux. 
 
-f. Ad. st. Gaboon. M. Verreaux. 
+f. Ad. sk. Gaboon. M. Verreaux. 
 q Ad sk. Cameroons. Sharpe Coll. 
 400 
 PLOOEIDJJ!. 
@@ -33790,7 +33790,7 @@ hoary margins of the throat-feathers.
 Eab. S.E. Africa from Port Elizabeth to Natal. Its occurrence 
 in West Africa seems to us to be extremely doubtful. 
 
-a. Ad. st. South Africa. Purchased. 
+a. Ad. sk. South Africa. Purchased. 
 b. Ad. sk.
 c Ad. sk. 
 East London (T. C. Richard). 
@@ -37452,7 +37452,7 @@ Shelley Coll
 Sharpe Coll. 
 Sharpe Coll. 
 Forbes Coll. 
-r, s. Ad. st. R. Niger. Mrs. Hey wood. 
+r, s. Ad. sk. R. Niger. Mrs. Hey wood. 
 
 3. Cinnamopteryx rubigiiiosa. 
 Ploceus rubiginosus, Btipp. Neite Wirb. p. 93, pi. 33. fig. 1 (1835-40); 
@@ -37977,7 +37977,7 @@ OD. MALTMBITS.
 481 
 
 a. Ad. sk. 
-b. Ad. st. 
+b. Ad. sk. 
 c-h. Ad. et JUT.
 i. Ad. sk. 
 k. Ad. sk. 
@@ -38953,7 +38953,7 @@ we-y6. Imm. sk.
 
 z\ Ad. sk. 
 a7, S7. Imm. sk. 
-c7. Ad. st. 
+c7. Ad. sk. 
 
 Barrackpur (Col. Tytler). 
 Calcutta, Feb. (J. Btddidph). 
@@ -39565,7 +39565,7 @@ JUT. sk.
 e. $ ad. sk. Abeokuta. F. Nicholson, Esq. 
 f,g. d ? ad.sk. 
 h. <$ ad. sk. 
-i. Ad. st. 
+i. Ad. sk. 
 k, I. S ', #*j n. $ 
 Ashantee. 
 Accra (Copt Hmjnes). 
@@ -44743,7 +44743,7 @@ p'. J ad. sk. Yishki, Lower Petchora, June
 / . 2 ad. sk. Norway, March 17. 
 
 
-g'. Ad. st. Heligoland. 
+g'. Ad. sk. Heligoland. 
 / . 2 ad. sk. Hiddensee, AUG:. 
 / , cj1 ad. sk. Oldenburg, March 7. 
 
@@ -50205,7 +50205,7 @@ Hab. The same as that of the genus.
 a. Ad. sk. 
 b. Ad. sk. 
 e. Ad. sk. 
-d. Ad. st. 
+d. Ad. sk. 
 e. 
 Ad.; /, [/. 
 Juv. sk. 

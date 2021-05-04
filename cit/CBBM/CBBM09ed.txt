@@ -8468,7 +8468,7 @@ Ad. $ , Baunee, Pegu (Oates). Culmen 1*4 inch, wing 3, tail 1*5,
 
 tarsus 0*75. 
 
-a. Ad. st. Nepal. B. H. Hodgson, Esq. [P.]. 
+a. Ad. sk. Nepal. B. H. Hodgson, Esq. [P.]. 
 b, c, d, e. Ad. sk Nepal (Hodgson). India Museum. 
 /. Ad. sk. Nepal. B. H. Hodgson, Esq. [P.], 
 (Type of species.) 
@@ -8564,7 +8564,7 @@ NECTAR TNIIDiG.
 
 Southern Race (A. afimis). 
 
-a. Ad. st. Indian archipelago. Purchased. 
+a. Ad. sk. Indian archipelago. Purchased. 
 b, e. tf ? ad. st. Java. Purchased. 
 d, e. Ad. sk. Java (Horsfield). East India Company. 
 (Types of species.) 
@@ -8654,7 +8654,7 @@ V7
 
 Hob. Malacca, Sumatra, Java, and Borneo. 
 
-a. Ad. st. Indian archipelago. Purchased. 
+a. Ad. sk. Indian archipelago. Purchased. 
 b, c, d,e. Ad. sk. Malacca {Cantor). India Museum. 
 f. Ad. sk. Malacca. A. R. Wallace, Esq. [O.]. 
 g. $ ad. sk. Malacca (A. R. Wallace). Gould Collection. 
@@ -15290,7 +15290,7 @@ a, b. [ c? $ ] ad. sk. Murray River. Gould Collection.
 c. Ad. sk. New South Wales. Gould Collection. 
 d, e. Ad. sk. New South Wales. F. D. Godman and 0. 
 Salvin, Esqrs. [P.l 
-/ g, Ad. st. N.E. Australia. Sir T. Mitchell [P.], 
+/ g, Ad. sk. N.E. Australia. Sir T. Mitchell [P.], 
 
 METJPHAGINiE 
 209 
@@ -15532,7 +15532,7 @@ Esqrs. [P.].
 Gould Collection. 
 Voy. H.M.S. < Rattlesnake.' 
 Macgillivray). (Type of G. peotoralis, Gray.) 
-k. Ad. st. Port Essington. J. Gould, Esq. [C.]. 
+k. Ad. sk. Port Essington. J. Gould, Esq. [C.]. 
 
 4. Glycyphila nndxilata. 
 Certhia undulata, Sparrman, Mus. Carls, i. pi. 34 (1786). 
@@ -16133,7 +16133,7 @@ than the others and fluffy, coloured yellow—a curious indication of
 the relationship of this species. 
 Hub. Prom .Rockingham Bay to New South Wales. 
 
-a. Ad. st. New South Wales. J. Gould, Esq. [C.]. 
+a. Ad. sk. New South Wales. J. Gould, Esq. [C.]. 
 b. <$ ad. sk. South Australia. Sir George Grey [P.]. 
 c. Ad. sk. New South "Wales, Gould Collection. 
 d. e. Ad. sk. New South Wales. F. I). Godman and 0. Salvin, 
@@ -17124,7 +17124,7 @@ Hob. South Australia, as far north as Eockingham Bay.
 
 a. Ad. sk. Eiver Darling. Capt. Sturt [P.]. 
 5. Ad. sk. New South Wales. J. Gould, Esq. [0.1 
-c. Ad. st. New South "Wales. J. Gould, Esq. [C.J. 
+c. Ad. sk. New South "Wales. J. Gould, Esq. [C.J. 
 d, e. $ ad. sk. Moreton Bay. Gould Collection. 
 f, a< k i. Ad. sk. Queensland. F. I>. Godiaan and 0. 
 JlJt Salvin,Esqrs.[P.]. 
@@ -17213,7 +17213,7 @@ e. Ad. sk. Saibai. Rev. J. Macfarlane [0.].
 f. a. Ad. sk. Astrolabe Mountains. Mr. A. Goldie [0.1. 
 ii. Ad. sk. Port Moresby. Mr. A. Goldie [0.]. 
 i. <$ ad. sk. Cape York. Voy. H.M.S.* Challenger,' 
-h. Ad. st. Cape York. J. Gould, Esq. (Type of 
+h. Ad. sk. Cape York. J. Gould, Esq. (Type of 
 species.) 
 /, m, n, o. S $ ad. Cape York. F. 1). Godman and 0. Sal-
 sir, vin, Esqrs. [P.]. 
@@ -17390,7 +17390,7 @@ Esqrs. [P.].
 c. 2 
 ad. sk. Port Curtis, Queensland, Voy. H.M.S. 'Alert.' 
 April {Dr. Coppinger). 
-d. Ad. st. Moreton Bay. J. Gould, Esq. (Type of 
+d. Ad. sk. Moreton Bay. J. Gould, Esq. (Type of 
 species.) 
 e. 2 ad. sk. Moreton Bay (Strange). Gould Collection. 
 f. 
@@ -17441,7 +17441,7 @@ Eab. South-eastern, Southern, and Western Australia.
 
 a,b. (S $ ad. sk. New South Wales. Gould Collection. 
 
-c. Ad. st. New South Wales. J. Gould, Esq. [0.]. 
+c. Ad. sk. New South Wales. J. Gould, Esq. [0.]. 
 d. Ad. sk. S.E. Australia. Sir D. 0. Cooper [P.], 
 e,f. [ <J] ad. sk. S.E. Australia. F. D. Godman and 0. Salvin, 
 Esqrs. [P.]. 
@@ -17531,7 +17531,7 @@ ad. sk. Queensland (Cockerell). P. D. G-odman and O. Salvin,
 Esqrs. [P.]. 
 d. Ad. sk. N.E. Australia. Gould Collection. 
 e. (S ad. st. N.E. Australia. J. Gould, Esq. 
-/. Ad. st. N.E. Australia. . W. MacLeay, Esq. [P.]. 
+/. Ad. sk. N.E. Australia. . W. MacLeay, Esq. [P.]. 
 4 . PTILOTIS. 243 
 25. Ptilotis cassidix* 
 Ptilotis cassidix, Jctrd. P. Z. S. 1866, p. 558; Gould, B, Austral 
@@ -17644,8 +17644,8 @@ e. Ad. sk. South Australia. Sir I). C. Cooper [P.J.
 h. 
 Ad. sk. New South Wales. F. D. Godman and O. Salvin, 
 Esqrs. [P.]. 
-i. Ad. st. New South Wales. J. Gould, Esq. [C.]. 
-h. Ad. st. Interior of Australia. Captain Sturt [P.]. 
+i. Ad. sk. New South Wales. J. Gould, Esq. [C.]. 
+h. Ad. sk. Interior of Australia. Captain Sturt [P.]. 
 28. Ptilotis ornata. 
 Ptilotis ornata, Gould, P. Z. S. 1838, p. 24; id. B. Austr. iv. p. 39 ; 
 id. Handb. B. Austr. I p. 515; Bp. C. A. i, p. 392: Ramsay, Proc. 
@@ -17992,7 +17992,7 @@ f.
 Ad. sk. Australia. F.D.GodmanandO. 
 Salvin,Esqrs.[P.]. 
 g. Ad. sk. Australia. Gould Collection. 
-h. Ad. st. Australia. Purchased. 
+h. Ad. sk. Australia. Purchased. 
 37. Ptilotis erythropleura. 
 Ptilotis erythropleura, Salvad. Ann. Mus. Civ. Gen. vii. p. 949 (1875), 
 xvi. p. 77 j id. Orn. Papuasia etc. ii. p. 337. 
@@ -18222,7 +18222,7 @@ Ad. tf • Culmen Q'75-0-85 inch, wing 2*9-3-1, tail 2-7-3-2, tarsus
 Eab. From the Wide-Bay district to New South Wales, Victoria, 
 South Australia, and Tasmania. 
 
-a. Ad. st. Tasmania. Ronald Gunn, Esq. [P.], 
+a. Ad. sk. Tasmania. Ronald Gunn, Esq. [P.], 
 b, c. Ad. sk. Tasmania. Antarctic Expedition. 
 d. (S ad. sk. South Australia. Sir George Grey [P.]. 
 e. <$ ad. st. South Australia. J. Gould, Esq. [C.]. 
@@ -18410,7 +18410,7 @@ Tarsus.
 
 Hah. New Zealand. 
 
-a. Ad. st. New Zealand. Purchased. 
+a. Ad. sk. New Zealand. Purchased. 
 b, c. Ad. sk. New Zealand. Purchased. 
 d, e. S 2 a^. sk. New Zealand. Gould Collection. 
 /. $ ad. sk. New Zealand. Sir George Grey [P.]. 
@@ -18548,7 +18548,7 @@ Auckland Islands.
 vin, Esqrs. [P.]. 
 E. Wilson, Esq.JP.]. 
 Antarctic Expedition [P.]. 
-t Ad. st. New Zealand. Purchased. 
+t Ad. sk. New Zealand. Purchased. 
 
 9. MANORHINA. T^pe 
 Manorina, Vieill. Nm.iv. Diet. xix. p. 236 (1818) M. melanophrys. 
@@ -18685,7 +18685,7 @@ Australia, and Victoria; Tasmania.
 a. [ S ] ad. sk.
 b. <$ ad. sk.
 c. [ (5~\ ad. sk.
-d. Ad. st. 
+d. Ad. sk. 
 Melbourne. 
 South Australia. 
 New South Wales. 
@@ -18898,7 +18898,7 @@ Sir George Grey [P.].
 Sir 1). O. Cooper [P.]. 
 Gould Collection. 
 ej,g,h. 6 $ ad.sk.
-i Ad. st. 
+i Ad. sk. 
 S.E. Australia. 
 N. S. Wales. 
 F. D. Godrnan and O. Salvin, 
@@ -18992,7 +18992,7 @@ Gould Collection.
 c. Ad. sk. N. S. Wales. Gould Collection. 
 d. e. Ad. sk.
 / , g. Ad. sk.
-h. Ad. st. 
+h. Ad. sk. 
 Queensland (Cockerel!). 
 Tasmania. 
 Australia. 
@@ -19024,7 +19024,7 @@ Bab. Western Australia.
 
 a. Ad. sk. "West Australia. F.D.Godman and O. Salvin, 
 Esqrs. [P.]. 
-b. Ad. st. West Australia. J. Gould, Esq. [0.]. 
+b. Ad. sk. West Australia. J. Gould, Esq. [0.]. 
 5. Acanthochsera rufigularis. 
 Acanthogenys rufigularis, Gould, P. Z. S. 1837, p. 153. 
 Meliphaga xufogularis, Gray, Gen. B. i. p. 122 (1847). 
@@ -19489,7 +19489,7 @@ Esqrs. [P.],
 d. Ad. sk. N.W. Australia. Purchased. 
 e. S ad. st. N. Australia, Sir George Grey [P.]. 
 f. Ad. sk. Port Essington. Gould Collection. 
-g. Ad. st. Port Essington. Dr. Sibbald [P.]. 
+g. Ad. sk. Port Essington. Dr. Sibbald [P.]. 
 h. <$ ad. sk. Port Darwin, Oct. 1881 Voy. H.M.S. 'Alert.? 
 (Br. Coppinger). 
 3. Philemon bnceroides. 
@@ -19550,7 +19550,7 @@ Cape York (Cockerel!). F. D. Godman and 0. Sal
 
 via, Esqrs. [P.]. 
 
-o. Ad. st. Cape York. J. Gould, Esq. 
+o. Ad. sk. Cape York. J. Gould, Esq. 
 4. Philemon timoriensis. 
 Tropidorhynchus timoriensis, Midi. Verhandl. Land-en VolhenK 
 
@@ -19791,7 +19791,7 @@ gillivray).
 b. cS ad. sk. Isle of Pines. J. Macgillivray, Esq. [CI. 
 c [ $ ] ad. sk. Port St. Vincent. J. Macgillivray, Esq. [C.j. 
 d. c? ad. st. Loyalty Islands. Sir George Grey [P.]. 
-e. Ad. st. Loyalty Islands. Sir George Grey [I\J. 
+e. Ad. sk. Loyalty Islands. Sir George Grey [I\J. 
 
 9. Philemon citreogularis. 
 Tropidorhynchua citreogularis, Gould, P. Z. S. 1836, p. 143; id. B. 

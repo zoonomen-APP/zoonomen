@@ -1306,7 +1306,7 @@ Spain, July (R. Martin).
 b. 
 $ vix ad. sk. Mallorca, Balearic Islands, H. Saunders Coll. 
 May {H. £.). 
-c. d. Ad. st. Italy. Purchased. 
+c. d. Ad. sk. Italy. Purchased. 
 <•>/> 9- 6 ad. sk. Hungary, April, May. Hungarian Nat. Mus. 
 A, i. $ $ ad. sk.; k. "Volga, June, Julv, August H. Saunders Coll. 
 Pull. sk. ; L Juv. (H. MoscMer). " 
@@ -1679,7 +1679,7 @@ n. Ad. sk. Marocco. Tweeddale Coll.
 o,p. d $ ad.; q, Lower Egypt (G. E. Shelley). Shelley Coll. 
 r. Imm. sk. 
 s. Ad. sk. Lower Egypt (G. B. Shelley). H. Saunders Coll. 
-t Ad. st. White Nile. E. Galton, Esq. TP1 
+t Ad. sk. White Nile. E. Galton, Esq. TP1 
 u. Ad. sk. White Nile. 
 L J 
 v. Imm. sk. Lake Ngami (C. J. Andersson). PL Saunders Coll. 
@@ -1687,7 +1687,7 @@ w. Ad. sk. Kroonstad, Orange Free State. J. H. Gurney Coll.
 x. 
 (S ad. sk. Newcastle, Natal, Dec. 6. Shelley Coll. 
 y. Ad. sk.; Cape of Good Hope. Sir A. Smith [P.]. 
-z. Ad. st. 
+z. Ad. sk. 
 a'-d'. Acl.; <?',/'. 
 
 Juv. sk. 
@@ -2291,7 +2291,7 @@ Faeroes; Africa in winter, to Loango on the west and Abyssinia
 on the east; not traceable in Asia beyond Western Turkestan. 
 
 a. c? juv. sk. 
-b, c. Ad. st. 
+b, c. Ad. sk. 
 d. Juv. st. 
 e. Ad. sk. 
 / . Ad. sk. 
@@ -2309,7 +2309,7 @@ w, x. <$ ad. sk.
 
 y~b\ Pull. sk. 
 
-o\ Ad. st. 
+o\ Ad. sk. 
 d'. $ ad. sk. 
 
 e\ S ad. sk. 
@@ -3105,7 +3105,7 @@ b Ad. st.
 c. Ad. sk.
 d. Ad. sk.
 e. 2 ad. sk.
-/ . Ad. st. 
+/ . Ad. sk. 
 Christchurck, Hants, May 14,1872. 
 Europe (Zichtenstein). 
 South Spain. 
@@ -3135,7 +3135,7 @@ m. Ad. sk. Tunis. L. Eraser [0.].
 
 30 
 
-n. Ad. st. 
+n. Ad. sk. 
 o, p. $ ad. sir. 
 
 q. Ad. sk. 
@@ -3352,8 +3352,8 @@ w". Ad.sk.
 
 A-". Ad. sk. 
 
-y". Ad. st. 
-»". Ad. st. 
+y". Ad. sk. 
+»". Ad. sk. 
 a3. Ad, sk. 
 J3. Ad. sk. 
 
@@ -3394,7 +3394,7 @@ A4. Ad. sk.
 
 ft, m\ Ad. sk. 
 
-w*. Ad. st. 
+w*. Ad. sk. 
 
 3 . GELOCHELIDOK. 
 Khyketo, Feb. ( W. Davison).
@@ -3896,7 +3896,7 @@ Ad. sk.
 Ad. sk. 
 2 ad. sk. 
 
-*'. Ad. st. 
+*'. Ad. sk. 
 
 t\ 2 ad. sk. 
 
@@ -3971,7 +3971,7 @@ Oyster Rock, N.W. Australia.
 u\ Ad, sk. Port Jackson, N.S.W. Australian Museum 
 v'. Ad. sk. 
 w'. Pull. St. 
-x'. Ad. st. 
+x'. Ad. sk. 
 y'. <S ad. sk. 
 Melbourne. 
 Actaeon I., Tasmania. 
@@ -4984,7 +4984,7 @@ Ridgw. Man. N. Amer. B. p. 42 (1887); Seton, Auk, 1886, p. 147
 California, breeds); Beckham, t. c. p. 644 (Corpus Christi, Texas); 
 Brewster, Auk, 1889, p. 66 (New England); Pindar, & c. p. 31 
 (Kentucky; breeds); Shkk, op. cit. 1890, p. 327 (New Jersey); 
-JBLeine <5* Reichenow, Nomencl. Mus. Hein. p. 354 (1890); Thomps. 
+Hein. <5* Reichenow, Nomencl. Mus. Hein. p. 354 (1890); Thomps. 
 Pr. U.S. Nat Mus. xiii. p. 469 (1890: Manitoba, breeds) ; 
 6 . STERNA, 
 47 
@@ -5191,9 +5191,9 @@ Tern, its toes have not indented webs, and it is merely a somewhat
 specialized link in the interesting chain to which the three 
 following species of true Sea-Terns belong. 
 
-a. Ad. st. New Zealand. P. Earl, Esq.. [0.]. 
+a. Ad. sk. New Zealand. P. Earl, Esq.. [0.]. 
 (Type of species.) 
-b, c. Ad. st. Port Cooper, South Island, F. Strange, Esq. [0.1. 
+b, c. Ad. sk. Port Cooper, South Island, F. Strange, Esq. [0.1. 
 New Zealand. 
 d, e. <?,/. $ad.; Otago, N. Zealand, Sept. Hume Coll. 
 g.<$,h,i$]uY. 
@@ -5513,7 +5513,7 @@ i'. 2 ad. sk.
 
 k'. Ad. sk. 
 
-Z\ Ad. st. 
+Z\ Ad. sk. 
 
 m'. 6 ad.; n'. 2 
 ad. sk. 
@@ -5936,12 +5936,12 @@ k'. Full. sk.
 
 V. Ad. sk. 
 m'. Ad. sk. 
-wr. Ad. st. 
+wr. Ad. sk. 
 or. S ad.sk.; p'. 
 Juv. st. 
 #'. Ad. sk. 
 r\ <$ ad. sk. 
-s\ Ad. st. 
+s\ Ad. sk. 
 
 t\ 2 ad.; w', v'.
 2 juv. sk. 
@@ -5964,14 +5964,14 @@ Pull. sk.
 
 A". <j ad.; i". 
 2 ad. sk. 
-ft". Ad. st. 
+ft". Ad. sk. 
 
 
 r,ro". Ad.sk. 
 *'>" • Pull.sk. 
 p". ^ ad.sk. 
 
-g". Ad. st. 
+g". Ad. sk. 
 
 r", «". Pull. st. 
 35", w". Pull. st. 
@@ -6152,7 +6152,7 @@ a?3. JUY. sk.
 
 yQ. Juv. sk. 
 s3. Ad. sk. 
-a4. Ad. st. 
+a4. Ad. sk. 
 
 
 ¥. 
@@ -6753,7 +6753,7 @@ to the coasts and waters of Peru, Chile, Brazil, Africa, and even to
 
 66° S. lat. in the Southern Ocean ! 
 
-a. Ad. st. Scflly Islands. D. W. Mitchell, Esq.. 
+a. Ad. sk. Scflly Islands. D. W. Mitchell, Esq.. 
 [P.]. 
 b. <$ ad.; c, d. Shoreham, Sussex. H. B. Sharpe, Esq. 
 Juv. st. • [!*•]• 
@@ -6789,11 +6789,11 @@ sk.
 /-?'. Ad. j /-*'. 
 Pull. st. 
 
-«'. Ad. st. 
+«'. Ad. sk. 
 
 v'. Juv. sk. 
 w\ %'. Juv. sk. 
-y'-»', «". Ad. st. 
+y'-»', «". Ad. sk. 
 
 
 £". c? ad. sk. 
@@ -7525,8 +7525,8 @@ America, the east side from Massachusetts southwards to Yeneauela,
 a. Ad. sk. Firth of Clyde (type of species). Col. Montagu [P.]. 
 b. 
 tfad. sk.; Fame Is., Northumberland, K. W. Chase, Esq. [P.J. 
-c, d. Ad. st. Aug. ^ #^ r^ _, 
-e. Ad. st. Scilly Islands. Jas. Griffin, Esq. [P.]. 
+c, d. Ad. sk. Aug. ^ #^ r^ _, 
+e. Ad. sk. Scilly Islands. Jas. Griffin, Esq. [P.]. 
 74 
 LARIDJE. 
 
@@ -7579,7 +7579,7 @@ x', y\ 1mm. sk.
 z\ 
 S juv. sk, 
 
-a". Ad. st. 
+a". Ad. sk. 
 
 5". tf ad. st. 
 
@@ -8385,7 +8385,7 @@ v''. Vix ad. sk.
 w". Vix ad. sk. 
 
 CO*'. Vix ad. sk. 
-y". Ad. st. 
+y". Ad. sk. 
 s" . § imm. sk. 
 
 a'', b3. Imm. sk. 
@@ -8828,7 +8828,7 @@ m
 
 a. Imm. sk. 
 /;. $ ad. sk. 
-<\ Ad. st. 
+<\ Ad. sk. 
 d, e. <5 imm.; 
 
 / . 2 imm. sk. 
@@ -9300,7 +9300,7 @@ g. $ ad. sk. Cape Seas. Sir A. Smith [P.].
 A, i J vix ad. sk. Socotra, March (I. Balfour). British Association 
 [P.l. 
 7c. 5 vix ad. st. Socotra, Feb. (I. B.). Shelley Coll. 
-I. Ad. st. Ked Sea (Bilppell). Purchased. 
+I. Ad. sk. Ked Sea (Bilppell). Purchased. 
 m, Vix ad. sk. Aden. Major Yerbury [P.]. 
 n-w. 6 ? ad. et Gwadar, Mekran Coast, Feb. Hume Coll. 
 vix ad. sk. 
@@ -9879,7 +9879,7 @@ on the head and neck, and mottled with grey on the back"
 (Buller). 
 Hob. New Zealand; also (fide E. P. Ramsay) in Eass Straits 
 and " all along the coast-line of Australia." 
-a, b. Ad. st. New Zealand (Parryplin), Purchased. 
+a, b. Ad. sk. New Zealand (Parryplin), Purchased. 
 
 
 o. Ad. sk. New Zealand. H. Saunders Coll. 
@@ -10366,7 +10366,7 @@ A-". $ ad. sk.
 
 y". <$ ad. sk. 
 
-*", Ad. st. 
+*", Ad. sk. 
 
 a?. Ad. sk. 
 
@@ -10852,8 +10852,8 @@ only one egg is incubated at a time. But with every desire to
 separate them generically, I am unable to find any structural 
 differences which would warrant such a proceeding. 
 
-a. Ad. st. 
-h3c. Ad. st. 
+a. Ad. sk. 
+h3c. Ad. sk. 
 d-n. Ad. sk. 
 
 o. <$ acl. &k. 
@@ -10896,9 +10896,9 @@ sk.
 
 a". Vix ad. sk. 
 
-b", c". Ad. st. 
+b", c". Ad. sk. 
 
-d". Ad. st. 
+d". Ad. sk. 
 
 e". Juv. sk. 
 
@@ -12194,7 +12194,7 @@ Surinam, Dutch Guiana (Br. II. Saunders Coll.
 
 d. Imm. sk. 
 W. Kvrke). 
-e. Ad. st. Amazons. 
+e. Ad. sk. Amazons. 
 / . Imm. sk. Amazons (Wallace fy Bates). Purchased. 
 
 g. $ imm. sk. Amazons (A R. Wallace). Salvin-Godman Coll. 
@@ -12267,7 +12267,7 @@ c, d. Ad. sk. Paracas Bay, Peru, Oct. (Adml. H. Saunders Coll.
 A. H. Marlzham). 
 mfi 
 e. Ad. sk. Coast near Lima ( W. Nation). Salvin-Godman Coll. 
-/ . Ad. st. Chile. Salvin-G-odman Coll. 
+/ . Ad. sk. Chile. Salvin-G-odman Coll. 
 32. Sterna melanauchen. 
 Sterna melanauchen, 
 Temm. PI Col v. livr. 72, pi. 427 (1827) * 
@@ -12657,8 +12657,8 @@ o. S ad. sk. Buenos Ayres Prov., Nov. {Bur- Salvin-Godman Coll.
 meister). 
 p, q. S ad. sk. Ajo, B. A. Prov. (E. Gibson). H. Saunders Coll. 
 
-r. Ad. st. Chile (Bridges). Purchased. 
-*. Ad. st. Chile (Cuming). Purchased. 
+r. Ad. sk. Chile (Bridges). Purchased. 
+*. Ad. sk. Chile (Cuming). Purchased. 
 K2 
 
 132 
@@ -12912,7 +12912,7 @@ and neighbouring islands, and Kermadec group; also the islet of San
 Ambrosio, which is nearest to the coast of Chile, but lies outside the 
 cold Antarctic current. 
 
-a, b. Ad. st. Australia. 
+a, b. Ad. sk. Australia. 
 Sir Thomas Mitchell 
 
 c. Ad. sk. Australia {T. C. Eyton Coll., 
@@ -13230,7 +13230,7 @@ Once obtained off the 8. coast of Ireland.
 
 a. Ad. st 
 North America. H.R.H. Duke of Suffolk 
-b. Ad. st. 
+b. Ad. sk. 
 North America. J. J. Audubon [C.]. 
 c. Ad. sk. 
 Florida (JET. W. Hmshaw). Salvin-Godman Coll. 
@@ -13763,7 +13763,7 @@ Ad. sk. Houtman's Abrolhos, West H. Saunders Coll.
 Australia, Jan. 29th, 1843 
 (Gilbert). 
 
-m. Ad. st. Houtman's Abrolhos (Gilbert). J. Gould [0.]. 
+m. Ad. sk. Houtman's Abrolhos (Gilbert). J. Gould [0.]. 
 ?z. 
 Skeleton. Rodriguez I. (Rev, II II Transit of Venus 
 Slater). Exped. 
@@ -14659,7 +14659,7 @@ a. 1mm. sk. Cozumel L, Yucatan, Feb. Salvin-Godman Coll.
 (G. F. Gaumer). 
 b. Imm. sk. Venezuela. 
 D. Dyson, Esq. [P.]. 
-c. Ad. st. British Guiana. Sir ii. Schomburgk 
+c. Ad. sk. British Guiana. Sir ii. Schomburgk 
 [C.]. 
 d. Ad. sk. British Guiana (II Whitely). H Saunders Coll. 
 e. $ juv. sk. River Rupuruni, Feb. (JET. W.). Salvin-Godman Coll. 
@@ -15129,7 +15129,7 @@ quarters of the next species, X furcata.
 
 a. Juv. st. Mount's Bay, Cornwall, Vingoe Coll. 
 autumn. 
-b-d. Ad. st. "Arctic Seas." Purchased. 
+b-d. Ad. sk. "Arctic Seas." Purchased. 
 
 e. Ad. sk. Sabine's Is., above Disco, General Sir Edward 
 lat. 75° 29' N., long. 60° 9' Sabine [P.]. 
@@ -15265,7 +15265,7 @@ the species has been vainly sought for more than forty years. The
 fact that the ' Yenus' also visited the Galapagos is not devoid of 
 
 significance. 
-a. Ad. st. Dalrymple Rock, ChathamIsland, Galapagos, 11th16th 
+a. Ad. sk. Dalrymple Rock, ChathamIsland, Galapagos, 11th16th 
 Jan. 
 Capt. Kellett, C.B., & 
 Lt. Wood, R.N. HP."]. 
@@ -15363,7 +15363,7 @@ p. 47 (1891); Allen, Auk, 1893, p. 123 (distribution) ; Zilford, Col.
 Figs. Brit. B. pts. xxiii. & xvii. (1893). 
 Boss's Gull, Long, Toy.' Jeannette] p. 151 (1883: off Herald I., 
 Bering Sea). 
-Bhodestethia rosea, Taezan. MSm. Ac. St Petersb. xxxix. p. 1048 
+Bhodestethia rosea, Taczan. MSm. Ac. St Petersb. xxxix. p. 1048 
 (1893: E. Siberia). 
 Adult in summer plumage (Disco). Keck surrounded by a narrow 
 "black collar, otherwise the head and entire underparts white (suffused 
@@ -15415,7 +15415,7 @@ Strait to the mouth of the Lena; Barents Sea, between Pranz-Josef
 Land and Spitsbergen, including the latter; Fsoroe Is. (once); 
 Yorkshire (once); Heligoland (once). Propagation as yet unknown. 
 
-a. Ad. st. Greenland, summer. H. Seebohm, Esq. [P.]. 
+a. Ad. sk. Greenland, summer. H. Seebohm, Esq. [P.]. 
 b. $ juv. sk. Point Barrow, Alaska, Sept. H. Saunders Coll. 
 1882 (*7.#. Nat. Mus.). 
 c. 
@@ -16032,13 +16032,13 @@ sea of Okhotsk, but not in Mongolia or China. Fortuitously in
 
 Northern India (once); Fasroe Is. (once); New York State (once). 
 
-a. Ad. st. Great Britain (Whiteley). Purchased. 
+a. Ad. sk. Great Britain (Whiteley). Purchased. 
 b. Juv. sk. Devonshire. Col. Montagu [P.]. 
 c. Ad. sk. Torquay, winter (E. Saunders), H. Saunders Coll. 
 d. Juv. sk. Freshwater, I. of Wight, Dec. 20th H. Saunders Coll. 
 (Rogers), 
 e. Juv, st. Brighton, winter. F. Bond, Esq. [PA 
-f. Ad. st. Essex coast, winter. F. Bond, Esq. [P.J. 
+f. Ad. sk. Essex coast, winter. F. Bond, Esq. [P.J. 
 g. Ad. sk. Leadenhall Market, Oct. H. Saunders Coll. 
 A. Ad. sk. Whitburn, co. Durham, Dec. 26th. Hume Coll. 
 i. Juv. sk. Near Aberdeen, Aug. (Small). H. Saunders Coll. 
@@ -16225,7 +16225,7 @@ Burma. Not in China proper nor in Japan. Fortuitously in
 England (once). Eggs laid on sandy coasts: clay-white in colour, 
 with bold dark blotches in strong contrast. 
 
-a. Ad. st. Caspian Sea. Purchased. 
+a. Ad. sk. Caspian Sea. Purchased. 
 b. <5 ad. sk. Caspian Sea, summer {Moseh-H. Saunders Coll. 
 ler). 
 
@@ -16769,7 +16769,7 @@ vix ad. sk. (E. W. Nelson).
 r'. 3 ad. sk. Ugashik River, Alaska, Sept. Salvin-Godman Coll. 
 
 (U.S. Nat.Mus.). 
-«'. Ad. st. North-West America. Purchased. 
+«'. Ad. sk. North-West America. Purchased. 
 
 f. Skeleton. North America. Purchased. 
 u'. Skeleton. Monterey, California. J. H. Gurney, Esq. 
@@ -16879,7 +16879,7 @@ Peru, and Chile. JSTot on the Eastern or Argentine side of the Andes'
 
 a. Ad. sk. 
 Chile, winter [Cuming). Purchased. 
-b. Ad. st. 
+b. Ad. sk. 
 Chile, summer (Cuming). Purchased. 
 c. J ad.sk. 
 Chilean Andes, 7000 ft. (E. C. 
@@ -17159,7 +17159,7 @@ et juv. sk. ham).
 r'. Ad. sk. Coquimbo (in full breeding-II. Saunders Coll. 
 plumage) {Adml. Markham). 
 
-$'. Ad. st. Valparaiso. Sir W. Burnett & 
+$'. Ad. sk. Valparaiso. Sir W. Burnett & 
 Capt.FitzroYjR.N. 
 PP.]. 
 
@@ -17358,7 +17358,7 @@ England or any part of Europe.
 A coast species. 
 
 a. Imm. st. 
-b. Ad. st. 
+b. Ad. sk. 
 c. Ad.; d. Juv. 
 sk. 
 <?. Ad. sk. 
@@ -17395,7 +17395,7 @@ x'. $ ad. sk.
 
 yf. 6 ad. sk. 
 
-z', a". Ad. st. 
+z', a". Ad. sk. 
 
 b". $ ad. sk. 
 
@@ -17684,9 +17684,9 @@ q, r, 6 $ ad. sk. Payta, Peru, Jan. (Adml. H. Saunders Coll.
 A. II. Markham). 
 s. Ad. sk. Payta, Peru, July {Commr. H. Saunders Coll. 
 MacFarlane). 
-t Ad. st. West Africa. Zoological Society 
+t Ad. sk. West Africa. Zoological Society 
 
-u. Ad. st. Gambia. 
+u. Ad. sk. Gambia. 
 Mr. Kendall [CI. 
 v. Ad. sk. Gambia (Sir A. Molony). Shelley CoU. 
 w. Ad. sk. Gold Coast. B. B. Sharpe, Esq. 
@@ -17857,7 +17857,7 @@ S ad. sk. Buenos Ayres, April and Aug. H. Durnford, Esq.
 [C.]. 
 g'. Juv. sk. Espartillar, Buenos Ayres, Sept. H. Durnford, Esq. 
 
-h\ Ad. st. Bahia Blanca. Chas. Darwin, Esq. 
+h\ Ad. sk. Bahia Blanca. Chas. Darwin, Esq. 
 
 i\ Ad. sk. Chuput, Patagonia, Sept. H. Durnford, Esq. 
 
@@ -18021,7 +18021,7 @@ i'. $ ad. sk.
 Talcahuano, Chile, Sept. 8,1879 Voy. H.M.S. ' Alert.' 
 (Br. Coppinger).
 
-Jo'. Ad. st. 
+Jo'. Ad. sk. 
 
 Chile (Brydges). Purchased. 
 
@@ -18035,7 +18035,7 @@ m\ Ad. hiem.; Colchagna, 01iile; July (E. C. H. Saunders Coll.
 ri. $ juv. sk. Reed), 
 o'. c?ad. hieru. sk. Algarroba, Chile, July. H. Saunders Coll. 
 p'. c? ad. sk. Santiago, Chile ( Weisshaupt). Salvin-G-odnaan Coll. 
-q'. Ad. st. Valparaiso. Sir W. Burnett and 
+q'. Ad. sk. Valparaiso. Sir W. Burnett and 
 
 Capt.Fitzroy,Il.N. 
 
@@ -19289,7 +19289,7 @@ history was not satisfactory. According to Salvadori and Giglioli,
 a specimen was procured at the Haldive Islands: an enormous 
 extension of range, if the identification is correct. 
 
-a. Ad. st. Abyssinian coast (JRiippell). Frankfort Mus. 
+a. Ad. sk. Abyssinian coast (JRiippell). Frankfort Mus. 
 5. Ad. sk. Annesley Bay, Abyssinia, June W. T. Blanford [0.]. 
 c-e. (S 2 ad.,
 imm., et juv.
@@ -19915,7 +19915,7 @@ t. Ad. sk. Hamilton Island. A. G. Wilday, Esq.
 u-w. S ? ad. et Hamilton Island (Port HamilII. 
 Saunders Coll. 
 juv. sk. ton), Sept., Dec. (G. Stephen). 
-x-z. Ad. st. Japan. Purchased. 
+x-z. Ad. sk. Japan. Purchased. 
 
 
 a'. $ ad. sk. Japan. Salvin-Godman ColL 
@@ -20350,7 +20350,7 @@ Ad. sk. New Caledonia (J. Mac- II, Saunders Coll.
 gillivray). 
 b. <$ imm. sk. Ansevata, New Caledonia, II. Saunders Coll. 
 Sept. 1877 (R L. Layard). 
-c. Ad. st. Australia. 
+c. Ad. sk. Australia. 
 Gould Coll. 
 d. 
 Pull. sk. Channel Rock, Torres Strait, Voy. II.M.S. Alert' 
@@ -21309,7 +21309,7 @@ x" '-
 
 f 
 
-z"., Ad. st. 
+z"., Ad. sk. 
 
 a\ Skeleton. 
 
@@ -21589,7 +21589,7 @@ LARIDJE.
 a. <$ ad. st. 
 b. Imm. st. 
 c. Juv. sk. 
-d. Ad. st. 
+d. Ad. sk. 
 e. f. 
 Juv. & vix 
 ad. sk. 
@@ -21603,7 +21603,7 @@ n. $ ad. sk.
 st. 
 q, r. tf $ ad. sk. 
 
-s. Ad. st. 
+s. Ad. sk. 
 t. $ ad. sk. 
 u-x. Ad. & pull 
 st. 
@@ -22492,7 +22492,7 @@ a^.
 vix ad. sk. 
 f-h. Pull. sk. 
 
-i. Ad. st. 
+i. Ad. sk. 
 k-q. 6 ? ad. et JOT. 
 sk. 
 
@@ -23315,7 +23315,7 @@ Sea, but as far as the Straits of Gibraltar and a little outside. A
 thorough " sea " gull, nesting on rocky islets. 
 
 a. Ad. sk. Corsica. Hiocour Coll. 
-b. Ad. st. Straits of Bonifacio. Purchased. 
+b. Ad. sk. Straits of Bonifacio. Purchased. 
 c. 2 ad. sk. 
 Maddalena I., Strs.
 May 3, 1882 (Lord 
@@ -23904,12 +23904,12 @@ on 3rd quill].
 b, c. Ad. et juv. Devonshire; winter. Col. Montagu [P.]. 
 sk. 
 
-d. Ad. st. Torquay. 
+d. Ad. sk. Torquay. 
 0. Coningkam, Ebq. 
 28 2 
 LABIDJE. 
 
-e. Ad. st. Ilayling Island. J. B. Tyndale, Esq. 
+e. Ad. sk. Ilayling Island. J. B. Tyndale, Esq. 
 [P.]. 
 / . 
 Ad. st. Lancing, Sussex. R. B. Sharpe, Esq. 
@@ -25538,7 +25538,7 @@ Check-l N Amer. B. p. 86 (1886); JRidgw. Man. N. Amer. B.
 p. 24 (1887); Nelson, Hep. Birds Alaska, p. 49 (1887) ; Greely, 
 Mep. Exped. Lady Franhl Bay, ii. p. 22 (1888); Chamberl. Auk, 
 1889, p. Ul$ (S. Greenld.); Reichenow, Syst. Verz. Vo'g. Deutschl 
-p. 62 (1889); Heine fy Reichenoio, Nomencl. Mus. JBLein. p. 360 
+p. 62 (1889); Heine fy Reichenoio, Nomencl. Mus. Hein. p. 360 
 (1890) ; Hatjerup, B. Greenld. p. 46 (1891) ; Stone, Pr. Philad. 
 Acad. 1892', p. 148 (Melville Bay); Taczan. Mem. Acad. St. 
 PStersb. xxxix. p. 1055 (1893: E. Siberia, down to Petropaulovski). 
@@ -25573,7 +25573,7 @@ Prance and Lake Leman (once), and Few Brunswick, in America.
 
 
 a. Juv. sk. Yorkshire. 
-b. Ad. st. Penzance, Feb. 15,1847 (Vingoe). Purchased, 
+b. Ad. sk. Penzance, Feb. 15,1847 (Vingoe). Purchased, 
 c. J ad.sk. Sandoe, Faroes, Feb. 12 (H. H. Saunders Coll. 
 C. Muller).
 d. Juv. sk. Archangel (Henke). R. B. Sharpe [P.]. 
@@ -25851,7 +25851,7 @@ D'Urb. # Mathew, B. Devon, p. 371 (1892); Macphers. B. Lakeland,
 p. 437 (1892); White, Auk, 1893, p. 222 (Mackinac I., 
 Michigan); Meade-Waldo^ Ibis, 1893, p. 206 (Canaries) j Lilford, 
 Col Figs. B. Brit. Is. pt. xxiv. (1893); Lilford, B. Northampt. p. 406 
-(1893) ; Tacz. Mtm, Acad. St. Petersb. xxxix. p. 1049 (1893 : E. 
+(1893) ; Tacz. Mem. Acad. St. Petersb. xxxix. p. 1049 (1893 : E. 
 Siberia); Collett, Nyt Mag.f. JSfaturv. Bd. xxx. p. 312 (Norway) ; 
 Bagg, Auk, 1894, p. 162 (Oneida Lake) ; Ussher, Pr. F. Irish Acad. 
 
@@ -26007,9 +26007,9 @@ Purchased.
 II. Saunders Coll. 
 sk. 
 k <$ ad. st. Hoy, Orkneys (J. Baker). Purchased. 
-t, k. Ad. st. Hebrides, summer. Theodore Walker, 
+t, k. Ad. sk. Hebrides, summer. Theodore Walker, 
 Esa- PP.]I, 
-m. Ad. st. Bass Rock, Firth of Forth, J. IL Gurney, Esq. 
+m. Ad. sk. Bass Rock, Firth of Forth, J. IL Gurney, Esq. 
 summer. [p.]. 
 
 n. S ad. sk. 
@@ -26028,7 +26028,7 @@ z. Pull. sk.
 a', b'. Ad. et juv. 
 St. 
 c'. Ad. sk. 
-d'. Ad. st. 
+d'. Ad. sk. 
 
 
 e. Ad.; /'. Juv. 
@@ -26340,7 +26340,7 @@ the tail.
 Hob. Lower part of Bering Sea, from the Xamschatkan side 
 (Commander Islands) to the Prybiloff: and Aleutian Islands. 
 
-a. Ad. st. Aleutian Islands. Purchased. 
+a. Ad. sk. Aleutian Islands. Purchased. 
 b. Juv. sk. Walrus I., Prybiloff group, H. Saunders Coll. 
 Aleutians (G. R. Adams), 
 c-e. Ad. sk. St. George I., Prybiloff group, H. Saunders Coll. 
@@ -27736,7 +27736,7 @@ ks
 Juv. sk. 
 
 T. Imm. sk. 
-m3. Ad. st. 
+m3. Ad. sk. 
 
 w3. Ad. sk. 
 o3,^3. Ad. & juv.sk. 
@@ -28719,7 +28719,7 @@ Hob. North Atlantic Ocean southwards to West Africa; Mediter
 ranean Sea. 
 a b Ad sk. Orkney Islands (J. Dunn). Salvii>Godman Coll. 
 c Ad sk Stromness (J. Dunn). H. Seebohm, Esq. [P.], 
-%t Ad. st. Shetland. Purchased. 
+%t Ad. sk. Shetland. Purchased. 
 
 346 
 PB0CELLARIID.3I. 
@@ -28729,7 +28729,7 @@ h, * Pull sk. Scotland (J. Dunn). R > g, J
 
 j. Pull. sk. Orkney Islands. -p-, c 
 h,l cjad.sk. Lincolnshire coast, Nov. 10. H Seehotoi, Esq. 
-m. Ad. st. English Channel. £ Gould,.Esq [PA 
+m. Ad. sk. English Channel. £ Gould,.Esq [PA 
 rc. Ad.st. To^uay, Devonshire. C. Comngham, Esq. 
 o. 2 ad. sk. 
 North Atlantic, lat. 40° 20' N., Yoy.H.M.S.'Herald.' 
@@ -28970,7 +28970,7 @@ Hah. Seas of the Northern Hemisphere.
 
 a. 6 ad.; 5. $ Dun, St. Eilda, June 10,1884 Seebohm Coll. 
 * ad.sk/ (C. Dixon). 
-c Ad. st. St.Kilda. Old Coll. 
+c Ad. sk. St.Kilda. Old Coll. 
 i A ad sk Lincolnshire coast, Nov. 10. Seebohm Coll. 
 e' £ ad "sk.* Thames Valley, Crossness. H. "Wkitely [C.]. 
 fj. Ad. sk. Grand Menan, June (JET. Her- Salvin-Godrnan Coll, 
@@ -29484,7 +29484,7 @@ Hah. Xorth Pacific Ocean as far south as Oregon.
 a Ad.sk N.W. America. Capt. Belcher [P.]. 
 k r. Ad. sk. Sitka. O. Barclay [P.]. 
 d 9 ad. 8k. Sitka, May (F. Bischof). Salvin-Godman Coll. 
-t. Ad. st. Sitka. Oould Coll. 
+t. Ad. sk. Sitka. Oould Coll. 
 f 2 ad sk. Alaska, 'Nov.(B.W. Nelson). Salvin-Godman Coll. 
 aii 
 h. 6 ad. sk. 
@@ -29660,7 +29660,7 @@ the coast of Labrador, and thence southwards to the Ice-barrier in
 the Antarctic Ocean, Kerguelen Land, &e.; Indian Ocean from 
 the Ifekrai Joast southwards; Australian Seas and New Zealand. 
 
-a. Ad. st. 
+a. Ad. sk. 
 b, c. <$ $ ad. sk. 
 d, e. Ad. sk. 
 
@@ -29676,8 +29676,8 @@ n. $ ad. sk.
 o. Ad. sk. 
 p. Ad. sk. 
 q. Ad. sk. 
-r. Ad. st. 
-s. Ad. st. 
+r. Ad. sk. 
+s. Ad. sk. 
 t. $ ad. sk. 
 u. <$ ad. sk. 
 v-x. <$ ad.; y. 
@@ -30803,7 +30803,7 @@ a. 2 ad. sL Faeroes, June 12,1875 (&. C. E. Hargitt [C.].
 Muller). 
 b. Ad, st. Torquay, Devonshire. C. Coningbani, E*q. 
 [P.J, 
-c. Ad. st. Polperro, Cornwall. D. W*. MitclieE. Ebq. 
+c. Ad. sk. Polperro, Cornwall. D. W*. MitclieE. Ebq. 
 d. S ad. sk. Fiskensesset, Greenland. June[P.J. 
 E. Harsitt FC."7 . 
 28. 
@@ -30939,7 +30939,7 @@ Canaries to the coast of Massachusetts ; Kerguelen Island.
 a. Ad. sk. Sea of Marmora (Rdbson). Tweeddale Coll. 
 b. Pull.sk. Cyclades (Dr. Eimper). Seebohni Coll. 
 c. Pull. sk. Cyclades (Dr. Kriiper). Baron A. von Httgel. 
-d. e. Ad. st. Italy. 
+d. e. Ad. sk. Italy. 
 Purchased. 
 f. 
 Ad. sk. Corsica." J. Whitehead, Esq. 
@@ -30965,7 +30965,7 @@ q-s. 2 ad. sk. Wood's Holl, Mass., Sept. (H. Salvin-Godman Coll.
 W. Henshaw). 
 t. Ad. sk. Azores (F. D. Godman). Salvin-Godman Coll. 
 u, v. Ad. sk. Kerguelen Land. Antarctic Exped. 
-w. Ad. st. 
+w. Ad. sk. 
 Purchased ? 
 x-b'. 
 Skeletons Great Salvage Is. W. E. Ogilvie-Grant, 
@@ -31790,7 +31790,7 @@ C. Darwin, Esq. [P ].
 1837. 
 7?. Ad. sk. Oallao Bay, Aug. 1881 (A. 
 
-o. Ad. st. Oallao Bay, Peru, Jan. 4, 
+o. Ad. sk. Oallao Bay, Peru, Jan. 4, 
 Salvin-Godman Coll. 
 
 II. Markham). 
@@ -31806,7 +31806,7 @@ w. Ad.sk. Coquimbo, Chili, Aug. (Br. Salvin-Godman Coll.
 Coppinger). 
 x,y. ($2 ad. sk. Antarctic Exped. 
 
-2. Ad. st. Straits of Magellan. Capt. Fitzroy. 
+2. Ad. sk. Straits of Magellan. Capt. Fitzroy. 
 «'. Skeleton. 
 //. Sternum. Valparaiso. Dr. Coppinger [C.]. 
 
@@ -31879,20 +31879,20 @@ bill 1*8, tarsus 2-05, middle and outer toes 2-3, inner toe 1*9.
 Hah. Australian and New Zealand Seas, northwards to the seas 
 of Japan and Alaska, and eastwards to Samoa. 
 
-a. Ad. st. Japan Seas. Purchased. 
+a. Ad. sk. Japan Seas. Purchased. 
 b. 2 ad. sk. Nagasaki, Japan, May 1876 Saunders Coll. 
 (Capt. St. John). 
 c. (S ad. sk. Peel L, Bonin Is., May 15, Seebohm Coll. 
 1890 (P. 4-Hoist). # 
 d. Ad. sk. Port Stephens, Australia, Australian Museum. 
-e. Ad. st. Port Stephens. Australian Museum. 
+e. Ad. sk. Port Stephens. Australian Museum. 
 f-h. Ad. sk. Australian Seas (Cockerell). Salvin-Grodman Coll. 
 V. Ad. sk. S. Australia (J. Salvin-Godman Coll. 
 j . Ad. sk. Tasmania. Sir E. Home [P.]. 
 h. Ad. sk. New Zealand R.B.Sharpe,Esq.[P.]. 
 I. Ad. sk. New Zealand. Salvin-Godman Coll. 
 m 2 ad. sk. [Australian Seas.] Rev. J. Whitmee [P.]. 
-n. Ad. st. Purchased ? 
+n. Ad. sk. Purchased ? 
 o. Skeleton. Japan. Purchased. 
 p. Skull. 
 q. Odd bones. ILM.S. < Challenger.' 
@@ -32137,7 +32137,7 @@ e,/. Ad. sk. Antarctic Seas, Jan. & Feb. Dr. R. McCormick
 #. Ad. sk. Antarctic Seas, lat. 77° 49' S., Antarctic Exped. 
 long. 181° 10' E. 
 7i. Ad. sk. Antarctic Seas. Antarctic Exped. 
-«-&. Ad. st. Antarctic Seas. Antarctic Exped. 
+«-&. Ad. sk. Antarctic Seas. Antarctic Exped. 
 1, m. Ad. sk. Antarctic Seas. Salvin-Grodman Coll. 
 
 n. Skeleton. 
@@ -32968,7 +32968,7 @@ together.
 Hah. Jamaica. 
 
 c. Ad. sk. Jamaica (J. Hilt}. Sahin-Ofdman d ll 
-b. Ad. st. Jamaica. 
+b. Ad. sk. Jamaica. 
 J.Taj.I*,!-;^. "!'_ 
 c. 
 S ad. sk. Cinchona Plant ition*. Jamaica, Salvin-<T4 4tiitm I '•wl 
@@ -33162,9 +33162,9 @@ lenger.'
 g. 
 Ad. sir. S. Indian Ocean, lat. 37° 59' S., Earl of Crawford and 
 long. 29° 18' E. Balcarres [P.]. 
-h. Ad. st. Kerguelen Land? Antarctic Exped. 
+h. Ad. sk. Kerguelen Land? Antarctic Exped. 
 i. Ad. sk. N.W. Australia. Capt. Beckett [0.]. 
-j-l. Ad. st. S. Australia ? Sir G. Grey [P.], 
+j-l. Ad. sk. S. Australia ? Sir G. Grey [P.], 
 m. 
 Ad. fc.k. South Seas (ex Gould). Salvin-Godman Coll. 
 Ad.sk. [South Seas.] Salvin-Godrnan Coll. 
@@ -33281,7 +33281,7 @@ e,f.
 ? ad. sk. Viti Levu, Fiji Is., May Godeffroy Mus. 
 im{T.Kleinschnidt). 
 
-//. Ad. st. Near Aberystwith, Wales. W. Willis-Bund, Esq. 
+//. Ad. sk. Near Aberystwith, Wales. W. Willis-Bund, Esq. 
 [P.]. 
 
 6. (ESTHE LATA. 
@@ -34114,7 +34114,7 @@ Oceans.
 a. 
 Ad. sk. Madeira. Jardine Coll. 
 (Type of the species.) 
-b. Ad. st. Madeira. T. Hope, Esq. [P.]. 
+b. Ad. sk. Madeira. T. Hope, Esq. [P.]. 
 e-e. Ad. sk. Madeira. T. Hope, Esq. [P.J. 
 f-L Ad. sk. Madeira. Salvin-Godman Coll. 
 /, k. Ad. sk. Madeira. Sharpe Coll. 
@@ -34329,11 +34329,11 @@ lenger.'
 Ad. sk. Christmas Harbour, KergueDr. 
 II. McCormick 
 len Land, May 23, 1840. 
-r. Ad. st. Kerguelen Land. Antarctic Exped. 
+r. Ad. sk. Kerguelen Land. Antarctic Exped. 
 s, t. Ad. sk. South Atlantic Ocean, lat. 34° Earl of Crawford and 
 S., long. 10° 42'E. Balcarres [P.]. 
 u. Ad. sk. TSouth Seas.] 
-u Ad. st. [South Seas.] 
+u Ad. sk. [South Seas.] 
 w, .v. Skeletons. 
 y, a. Skulls. 
 #'. Sternum. 
@@ -34480,10 +34480,10 @@ b. 5 ad. sk. Lichtenfels, S. Greenland, Oct. 23, Sharpe Coll.
 1871 (Dr. O. Finseh). 
 c. Ad. sk. Greenland. 
 The Admiralty rp.]. 
-d. Ad. st. Greenland. 
+d. Ad. sk. Greenland. 
 The Admiralty tP.% 
 e. Ad. sk. Labrador (Moschier), Salvio-Godinaii Cofl. 
-/ . Ad. st. North Sea. Old Collection. 
+/ . Ad. sk. North Sea. Old Collection. 
 g. 
 Ad. sk. N. Atlantic Ocean, lat. 75° 25' N.. Capfc. D. Gray [P.]. 
 long. 10° W. 
@@ -34508,7 +34508,7 @@ r. Ad. sk. Spitzbergen.
 The Admiralty pp.} 
 s. Ad. sk. Heligoland (H. Gatke). Seebohra Coll. 
 t-v. Ad. sk. [North Sea.] Purchased. 
-w. Ad. st. [Yarmouth .J Purchased. 
+w. Ad. sk. [Yarmouth .J Purchased. 
 :v. Skeleton. 
 y-e'. Sterna. 
 10 . FULMAKTTS. 
@@ -34753,7 +34753,7 @@ p.
 2 Coa^t uf Peru off Pavta, kt. Sa2iin~G du«dii (Ml 
 *">z~/ S , 1 inf. *1" W., July 
 1 SNJ IZ/. JI J?. Matfnrlanie). 
-q. Ad. st. Cap*-* ui Citiud Hope. Purcha^i. 
+q. Ad. sk. Cap*-* ui Citiud Hope. Purcha^i. 
 /•, s. Ad. sk. Cap± 5*ea«. Sir Andrew Smith I*» , 
 ^ «. Ad. sk. Cape Sea*. K. M. Lau/rw^rtby, £*§» 
 »,«?. Ad. sk. Cape Seas*. Ca^t/Harrr [P,^ 
@@ -35057,7 +35057,7 @@ d. Ad. sk. Cape of Good Hope. Sir A. Smith [P.].
 €. tf ad, sk. Cape Seas. Antarctic Exped. 
 
 f. Ad. sk. Coast of Queensland. Salvin-Godman Coll. 
-g, h. Ad. st. & sk. Coast of Australia. Sir G. Grey [P.]. 
+g, h. Ad. sk. & sk. Coast of Australia. Sir G. Grey [P.]. 
 i. Ad. sk. New Hebrides. Salvin-Godman Coll. 
 j, h. Ad. sk. New Zealand. Sir G. Grey [P.]. 
 I Ad. sk. Auckland Is.; Dec. 3,1840. Dr. RM'Cormick [P.]. 
@@ -35180,7 +35180,7 @@ between lat. 35° and 60° S.
 
 a. Ad. sk. Madeira. Gould CoU. 
 (Type of P. brevirostris. Gould.) 
-b. Ad. st. Cape of Good Hope. Sir Andrew Smith 
+b. Ad. sk. Cape of Good Hope. Sir Andrew Smith 
 c. Ad. sk. Christmas Harbour, Kergue-Antarctic Exped. 
 len Land, July 1840. 
 d. c? ad, st. Southern Indian Ocean, lat. 
@@ -35200,7 +35200,7 @@ Dec. 1871.
 h. 
 Ad. sk. Dunedin, New Zealand (F. W. Hume Coll. 
 Sutton). 
-/. Ad. st. Cook's Strait, New Zealand. Dr. Lyall [P.]. 
+/. Ad. sk. Cook's Strait, New Zealand. Dr. Lyall [P.]. 
 
 m. 
 Ad. sk. New Zealand. Sir Samuel Scott 
@@ -35382,7 +35382,7 @@ p
 sk. Land (A. E. Eaton). 
 
 r. Ad. sk. New Zealand. Colonial Museum. 
-s. Ad. st. Auckland Is. Lt. A. Smith [P.]. 
+s. Ad. sk. Auckland Is. Lt. A. Smith [P.]. 
 t,u. Skeletons. 
 v. Sternum. 
 70. Skull. 
@@ -35415,7 +35415,7 @@ Sexes alike.
 Hal. West coast of South America, from Callao to Valparaiso. 
 
 a. Ad. sk. Valparaiso. Capt. Brett [P.]. 
-b, c. Ad. st. Coast of Chili. T. Bridges [C.]. 
+b, c. Ad. sk. Coast of Chili. T. Bridges [C.]. 
 d. <$ ad. j e. $ ad. Coquimbo Bay, Chili, Nov. 1881 Salvin-Godman Collsk. 
 (Copt. A. H. Mar7cha?n). 
 f. <5 ad. sk. 
@@ -35978,9 +35978,9 @@ gilhvray).
 
 d. Ad. sk. South Seas. 
 Antarctic Exped. 
-e. Ad. st. South Seas. Old Collection. 
+e. Ad. sk. South Seas. Old Collection. 
 /. Ad. sk. [South Seas.] Sir E. Belcher [P.]. 
-g. Ad. st. Coast of Australia. 
+g. Ad. sk. Coast of Australia. 
 k Ad. sk. [South Seas.l 
 i. Ad. sk. [South Seas.J Salvin-Godman Coll. 
 j. Ad. sk. New Zealand. Hume Coll. 
@@ -36217,7 +36217,7 @@ Hah. Southern Oceans, ranging to the Pacific coasts of Central
 America. 
 
 a. Ad. sk. Kerguelen Land. Hume Coll. 
-b. Ad. st. Indian Ocean. Old Collection. 
+b. Ad. sk. Indian Ocean. Old Collection. 
 e. Ad. sk. South Seas. Antarctic Exped. 
 d. Ad. sk. South Seas. J. 0. Sturgeon, Esq. 
 [p.i. 
@@ -36412,7 +36412,7 @@ long. 30° E., April 15, 1847
 Balcarres [P.]. 
 Voy. H.M.S. i Rattle-
 c. Ad. sk. 
-d. Ad. st. 
+d. Ad. sk. 
 (J. Macyillivray). 
 South Seas. 
 South Seas. 
@@ -36428,7 +36428,7 @@ Royal Sound, Kerguelen Capt. Inglis.
 Land. 
 h. Ad. sk. 
 i. <S ad. sk. 
-j . Ad. st. 
+j . Ad. sk. 
 Kerguelen Land. 
 Ice Barrier, Feb. 10,1874. 
 Coast of Australia. 

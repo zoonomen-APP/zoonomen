@@ -1187,7 +1187,7 @@ Gould Coll.
 a. Juv. sk. Tunis. 
 Eraser Coll. 
 V. Ad. sk. Ghuelma, Algeria. Purchased. 
-d. Ad. st. Ghuelma. 
+d. Ad. sk. Ghuelma. 
 Purchased. 
 d', e'. Ad. et Tangiers, June (A, von JSugel). Seebohm Coll. 
 juv. sk, % 
@@ -1500,7 +1500,7 @@ Emm Pasha [P.].
 f. Ad. sk.
 g. Ad. sk.
 h. Ad. sk.
-i. Ad. st. 
+i. Ad. sk. 
 River Quorra. 
 Accra (T. F. Buckley). 
 Accra (J. Smith). 
@@ -1849,7 +1849,7 @@ a. Ad. sk. Elephant Yley, Damara-Twc
 &, c. Ad. sk. 
 land (C. J. Andersson). 
 South Africa. Twee 
-d. Ad. st. South Africa. Sir A 
+d. Ad. sk. South Africa. Sir A 
 e. Ad. sk. South Africa. Seebc 
 / . J ad. sk. Berg River, S. Africa (E. Seebc 
 L. Layard). 
@@ -2368,7 +2368,7 @@ Australia.
 Australia. 
 J. B. Jukes, Esq. [P.l 
 Sir E. Belcher [P.]. J 
-c. Ad. st. Australia. Earl of Derby [P.]. 
+c. Ad. sk. Australia. Earl of Derby [P.]. 
 d. Ad. sk. 
 e. J ad. sk. 
 Queensland (J. T. Cockerell).
@@ -3774,7 +3774,7 @@ $ ad. sk. Ondonga, Ovampo-land, Nov. 22, Seebohm Coll.
 i. Imm. sk. South Africa. 
 Gould Coll. 
 h. Ad. sk. South Africa. Sir A. Smith [C.]. 
-I Ad. st. South Africa. Sir A. Smith [C.]. 
+I Ad. sk. South Africa. Sir A. Smith [C.]. 
 m,n. $ $ ad." Kingwilliamstown, May 7 (C. Major Trevelyan 
 sk. • Newby). [C.]. 
 o,p. cfad.sk. Colenso, Natal, Nov. 21. Capt. Savile Reid 
@@ -4881,7 +4881,7 @@ Constantinople, July 7 (C. R. B. Sharpe, Esq.
 Fearce). [P.]. 
 b, c. Ad. sir. River Volga. Seebohm. Coll. 
 
-d. Ad. st. Altai Mountains. Mr. Brandt. 
+d. Ad. sk. Altai Mountains. Mr. Brandt. 
 e. 
 5 ad. sk. Maiterek, Turkestan, June 4 Geogr. Soc. Bremen. 
 [Dr. 0. Finsch). 
@@ -4890,8 +4890,8 @@ cJ ad. sk. Irgis River, May 18 (Mm. Seebohm Coll.
 —lEetrop.). 
 
 g. Imm. sk. Calabar River, W. Africa. Dr. Alex. Smith [C.]. 
-h. Ad. st. South Africa. General Hardwicke. 
-i. Ad. st. South Africa. Purchased. 
+h. Ad. sk. South Africa. General Hardwicke. 
+i. Ad. sk. South Africa. Purchased. 
 *. Ad. sk. South Africa. Earl of Derby [P.]. 
 I. Ad. sk. South Africa. Sir A. Smith [C.]. 
 m. 
@@ -5335,7 +5335,7 @@ Total length 9 inches, culmen 0-7, wing 7*5, tail 2*65, tarsus 1.
 Hob. Madagascar, and Eastern Africa from the Zambesi to Lamu. 
 
 a. Ad. st.
-b. Ad. st. 
+b. Ad. sk. 
 Madagascar. 
 Madagascar. 
 Purchased. 
@@ -6518,7 +6518,7 @@ and claw 3*2.
 
 Hab. The greater part of Africa. 
 
-a. Ad. st. 
+a. Ad. sk. 
 b. Juv. sk. 
 c, d. Ad. sk. 
 e,f,g. Ad. sk. 
@@ -6535,7 +6535,7 @@ sk.
 q. Ad. sk. 
 r. 
 <$ ad. sk. 
-5. Ad. st. 
+5. Ad. sk. 
 t. 
 Ad. sk. 
 w. Ad. sk. 
@@ -6710,7 +6710,7 @@ The frontal shield is smaller than in the adult.
 
 Hah. Madagascar. 
 
-a. Ad. st. Madagascar. M. Guenn [P.]. 
+a. Ad. sk. Madagascar. M. Guenn [P.]. 
 h. Ad. sk. Madagascar. M. Guerin [P.J. 
 c. Juv. sk. Madagascar (Bewsher). Shelley Coll. 
 d. Skeleton. Madagascar. Purchased. 
@@ -6796,7 +6796,7 @@ of head bright rufous; under surface of body entirely white.
 Hub. Australia ; Celebes ; S. Borneo. 
 
 or. Ad.; h. Juv.st. Australia. J. Gould, Esq. 
-c, d. Ad. st. New South Wales. Australian Museum. 
+c, d. Ad. sk. New South Wales. Australian Museum. 
 e,f,g. Ad.sk. Queensland (J. T. Cookerell). Salvin-Godman Coll. 
 
 h. Juv. sk. Queensland. Tweeddale Coll. 
@@ -6963,8 +6963,8 @@ Purchased.
 
 Sir R. Schomburgk 
 
-a. Ad. st. South America. 
-h. Ad. st. British Guiana. 
+a. Ad. sk. South America. 
+h. Ad. sk. British Guiana. 
 rc.i 
 
 c. Ad. sk. British Guiana. 
@@ -7424,7 +7424,7 @@ Hah. South Africa, north to the Lake Regions and the Zambesi,
 Africa. 
 .a, b. Ad. et Kingwilliamstown. Major Trevelyan[0.]. 
 imm. sk. . T „. ^ _ 
-«. Ad. st. 
+«. Ad. sk. 
 Natal. J. H. Gurney, Esq,. 
 [P.]. 
 
@@ -8037,14 +8037,14 @@ s. Imm. sk.
 2. Imm. sk. 
 u. Ad. sk. 
 «?. 3 juv. sk. 
-w?. Ad. st. 
+w?. Ad. sk. 
 
 x\ $ ad. sk. 
 
 yt 
 3 ad. sk. 
 
-s. Ad. st. 
+s. Ad. sk. 
 af} b', c'. Juv. sk. 
 d'. $ imm.; e',f. 
 JUT. sk. 
@@ -8867,7 +8867,7 @@ jugulum."
 Hah. Western JSTorth America from Alaska to Monterey in California. 
 
 
-a. Ad. st. 
+a. Ad. sk. 
 K.W.America. Purchased. 
 b. Ad. sk. N.W. America. Purchased. 
 c-g. $ ad. et St.Michaels, Alaska, June, July, Salvin-Godman Coll. 
@@ -9471,7 +9471,7 @@ d. S &d. sk. Hummock IsL, Bass' Straits Voy.KM.S. < Herald/
 e. Juv. sk. Green Island, Bass' Straits. Purchased. 
 /. Ad. sk. Australia. Old Coll. 
 g} h. Ad. sk. Australia. Gould Coll. 
-«, k. Ad. st. New South Wales. AustralianMuseumFP.]. 
+«, k. Ad. sk. New South Wales. AustralianMuseumFP.]. 
 L Ad. sk. S. Australia. Dr. Woodward [P. j. 
 
 
@@ -9895,7 +9895,7 @@ Young. More dusky than the adults, and mottled with sandy
 edgings to the feathers. 
 Hob. Australia and New Zealand, 
 
-a. Ad. st. 
+a. Ad. sk. 
 b. Ad. sk 
 c. Ad. sk. 
 d. <$ ad. sk. 
@@ -9908,7 +9908,7 @@ i, h. $ ad. sk,
 I Ad. sk. 
 m. Ad. sk. 
 n. Ad. sk. 
-o. Ad. st. 
+o. Ad. sk. 
 p. Juv. st. 
 q. § ad. sk. 
 r, s, t Ad. sk. 
@@ -10341,7 +10341,7 @@ e,f.
 Ad. sk. Rio Negro, Patagonia (W.H. Salvin-Godman Coll. 
 Hudson), 
 
-g. Ad. st. La Plata. 
+g. Ad. sk. La Plata. 
 M. Bravard [0.]. 
 h. Ad. sk. Chili. 
 C. Crawley, Esq. [P.]. 
@@ -11628,7 +11628,7 @@ Hob. West Africa: Senegambia, Accra, the Niger, and Gaboon.
 
 N.E. Africa, from Kordofan and Bogos-land south to the Yictoria 
 Nyanza. 
-a. Ad. st. Senegambia. Governor Eendall [P.]. 
+a. Ad. sk. Senegambia. Governor Eendall [P.]. 
 b. Ad. sk. Senegambia. Governor Eendall [P.J. 
 c. Ad. sk. Bathurst, E. Gambia (Sir Shelley Coll. 
 A. Moloney). 
@@ -12026,7 +12026,7 @@ Hah. Java; Sumatra: Timor.
 «, b. Ad. sk. Java (Dr. Horsfield). India Museum ("P."1. 
 (Typos of V. tricolor, Horsf.) 
 
-e. Ad. st. Java. Leiden Museum. 
+e. Ad. sk. Java. Leiden Museum. 
 13. SARCO&EAIOITS. 
 ijpe. 
 Sarcogrammus, Eeichenb. Ac. Syst. Nat. p. xviii (1852).. S. indieus. 
@@ -12677,7 +12677,7 @@ Hah. Mountains of rT.E. Africa.
 
 a, b. Ad. sk. Shoa (Sir W. C, Harris). India Museum. 
 
-c. Ad. st. Shoa. Dr. Kiippell [0.]. 
+c. Ad. sk. Shoa. Dr. Kiippell [0.]. 
 d. Ad. sk. Abyssinia. Gould Goll. 
 15. ZOSIFER*. 
 Range. Confined to Australia. 
@@ -13832,7 +13832,7 @@ Hah. Europe generally, occurring in the southern countries in
 winter only, or on migration. Across Siberia to Japan and N. China, 
 wintering in S. China and N.W. India. 
 
-a. Ad. st. 
+a. Ad. sk. 
 b,c,d. Ad., juv., et 
 pull. st. 
 e,f. 
@@ -14535,7 +14535,7 @@ d. Ad. sk. Trebizond (Dickson fy Moss). Gould Coll.
 e. Ad. sk. Mesopotamia (CommanderJones). India Museum. 
 f. g. Ad. sk. Samarkand. 
 Seebohm Coll. 
-h. Ad. st. Altai Mountains. Brandt Coll. 
+h. Ad. sk. Altai Mountains. Brandt Coll. 
 L h. 
 Ad. sk. Omsk. St. Georpre Littledale, 
 Esq.*.]. 
@@ -19878,7 +19878,7 @@ t. (S imm. sk. Amboina. Voy. H.M.S. ' Chalu.
 lenger.' 
 Capt. Bowyer Bower 
 Bowyer Bower). [P.]. 
-v. Ad. st. Port Essington. Capt. Chambers [P.], 
+v. Ad. sk. Port Essington. Capt. Chambers [P.], 
 w. Ad. sk. South Queensland. Tweeddale Coll. 
 x. Ad. sk. Melbourne. Salvin-Godman Coll. 
 
@@ -20085,9 +20085,9 @@ h.
 Cambridgeshire, May 14 {F. D. Salvin-Godman Coll. 
 i, k. S ad. sk. Godman). 
 Cambridgeshire. Purchased. 
-/, m, n. Ad. st, Yarmouth, Aug. J. E. Harting, Esq. 
+/, m, n. Ad. sk. Yarmouth, Aug. J. E. Harting, Esq. 
 
-o. Ad. st. 
+o. Ad. sk. 
 [C.]. 
 Sussex. 
 Old Coll. 
@@ -23804,7 +23804,7 @@ t6. $ ad. sk [w. 4-5].
 Af«, Z6, m*. Ad. sk. [w. 
 4*25-4-35]. 
 
-»6. Ad. st. [w. 4*3].
+»6. Ad. sk. [w. 4*3].
 
 G-urgaon Distr., Jan., 
 April (W. N. Chill). 
@@ -25347,7 +25347,7 @@ lateral feathers of the latter mottled with dusky bases.
 
 Hab. Australia. Supposed to have occurred once in Madras. 
 
-a. Ad. st. Australia. J. Gould, Es^. [P.]. 
+a. Ad. sk. Australia. J. Gould, Es^. [P.]. 
 b Ad sk. Australia. Sir T. Mitchell [P.]. 
 c. Ad.sk. Australia. Lady Carrington [P.]. 
 d Ad. sk. Australia. Tweeddale (Joll. 
@@ -25784,7 +25784,7 @@ absent, though the chestnut breast is present.
 Hob. Australia. 
 a. Ad. sk. Australia. Old Coll. 
 b. Ad. st.
-e. Ad. st. 
+e. Ad. sk. 
 South Australia. 
 South Australia. 
 C. Wood, Esq. [P.]. 
@@ -27088,8 +27088,8 @@ I believe, however, that the back and rump always remain black in
 the young bird. 
 Hah. New Zealand. 
 
-a. Ad. st. New Zealand. Percy Earl, Esq. [C.l 
-b. Ad. st. New Zealand. Captain Stokes I ?.]." 
+a. Ad. sk. New Zealand. Percy Earl, Esq. [C.l 
+b. Ad. sk. New Zealand. Captain Stokes I ?.]." 
 c. Ad. sk. New Zealand. Captain Stokes [P.], 
 d. e. Ad. sk. New Zealand. Sir Samuel Scott [P.], 
 / . Imm. sk. New Zealand. Sir G. Grey [P.], 
@@ -27200,7 +27200,7 @@ Seebohm Coll.
 
 326 CHARADRIIDiE. 
 h, i. Ad. sk.
-h. Ad. st. 
+h. Ad. sk. 
 Victoria, S. and W. Coast(J. T. Cockerell). 
 New South Wales. 
 Salvin-Godman Coll. 
@@ -27432,9 +27432,9 @@ and south to the Indian Peninsula and Ceylon. Formerly breeding
 in the British Islands, but now only an occasional visitor. 
 
 a. Imm. st. Pagham, Sussex. Sharpe Coll. 
-b. Ad. st. Norfolk. 
+b. Ad. sk. Norfolk. 
 Old Coll. 
-c. Ad. st. S. Wales. Montagu Coll. 
+c. Ad. sk. S. Wales. Montagu Coll. 
 d7 e. Juv. st. Europe. Purchased. 
 / . Ad. sk. Jutland, June (A. Benzon). Hume Coll. 
 (/. Ad. sk. Zuyder Zee, Holland. Salvin-Godman Coll. 
@@ -27444,7 +27444,7 @@ k. Pull. sk. Holland {F. Bond). Gould Coll.
 I $ ad. sk. Seville, May 29 (H. Saunders). Tweeddale Coll. 
 m, n. <$ imm. sk.; Algeria. Seebohm Coll. 
 o. Ad. sk. 
-p. Ad. st. Athens. Consul Merlin [P.]. 
+p. Ad. sk. Athens. Consul Merlin [P.]. 
 #, r. <3 ad. sk. Egypt, March (G. E.Shelley). Seebohm Coll. 
 s, t. Juv. st. Cape Colony. Sir A. Smith [C.]. 
 u. Ad. sk. Damara-land. C.J. Andersson, Esq. 
@@ -27793,8 +27793,8 @@ Total length 15*5 inches, culmen 3-6, wing 8-9, tail 31, tarsus 3-35.
 
 Bab. Australia and New Zealand. 
 
-a. Ad. st. 
-b. Ad. st. 
+a. Ad. sk. 
+b. Ad. sk. 
 cy d. Ad. sk. 
 e. Ad. sk. 
 /, g. Ad. sk. 
@@ -28648,7 +28648,7 @@ c.
 <$ ad. sk. Orkney Islands, March 14 Seebohm Coll. 
 (Dunn). 
 d. Pull. st. Orkney Islands. Mr. Baker [C.]. 
-e,f. Ad. st. Beauly Castle, KB . Lord Lovat [P.J. 
+e,f. Ad. sk. Beauly Castle, KB . Lord Lovat [P.J. 
 gt h, i. $ ad. sk. Beaiily Castle, N.B., May, Lord Lovat [P.j. 
 June. 
 7c. S ad. st. [group]. Beauly Castle, N.B., June. Lord Lovat [P.]. 
@@ -29152,7 +29152,7 @@ Seebohm Coll.
 Tweeddale Coll. 
 Tweeddale Coll. 
 h. $ juv. sk. 
-i, k. Ad. st. 
+i, k. Ad. sk. 
 1. § ad. sk. 
 Malta, Sept. (C. A. W.). 
 Guelma, Algeria. 
@@ -29292,13 +29292,13 @@ L m. Ad. sk. Labuan, Nov., Dec. A. H. Everett, Esq.
 n, o. Ad. sk. Halmahera (-4. 12. Wallace). Tweeddale Coll. 
 p. <$ ad. sk. Yule Isl, S.E. New Guinea, Tweeddale ColL 
 Dec. (Dr. James), 
-q. Ad. st. Australia. J. B, Jukes, Esq. [P.]. 
+q. Ad. sk. Australia. J. B, Jukes, Esq. [P.]. 
 r. Ad. sk. Australia. Gould Coll. 
 s. 5 ad. sk. Australia. Seebohni ColL 
 t, u. Ad. sk. Port Essington. Capt. Chambers [P.]. 
 (Type of N. australasiamts*.} 
 %\ Ad. sk Queensland. Sab in-Godrnan ColL 
-w, a,. Ad. st. New South. Wales. Australian Museum. 
+w, a,. Ad. sk. New South. Wales. Australian Museum. 
 y. Ad. sk. Victoria. Seebohni Coll. 
 z. Ad. sk. Lord Howe Island, Sept. 8 Gould Coll. 
 (J. Macyillivray). 
@@ -29760,7 +29760,7 @@ $ juv. sk.
 n, o. <S 2 ad. st. 
 
 p. <$ juv. sk. 
-q. Ad. st. 
+q. Ad. sk. 
 r} s. Ad. et juv. sk. 
 
 t, u. v. Ad. et juv. 
@@ -29771,14 +29771,14 @@ y. <5 ad. sk.
 z. J ad. sk. 
 a'. $ ad. sk. 
 V. Pull. sk. 
-c'. Ad. st. 
+c'. Ad. sk. 
 d\ Ad. sk. 
 e'. S ad. sk. 
 
 /' . Imm. sk. 
 g\ £ juv. sk. 
 
-ti. Ad. st. 
+ti. Ad. sk. 
 i'. Ad. sk. 
 
 Jc\ Ad. sk. 
@@ -30980,7 +30980,7 @@ p. 34 (Japan), p. 268 (Kiukiang); id. Ibis, 1885, p. 363 (Yokohama)
 Fmp. p. 317 (1890); Salvad. Agg. Orn. Papuasia, etc. iii. p. 205 
 (1891); Sty an, Ibis, 1891, p. 331 (Lower Yangtse, migrant), p. 508 
 (Shanghai, April; Kiukiang, Sept.); Be La louche, Ibis, 1892, 
-p. 501 (Foochow, April); Tacz. Mim. Acad. Imp. St. Petersb. (7) 
+p. 501 (Foochow, April); Tacz. Mem. Acad. Imp. St. Petersb. (7) 
 xxxix. p. 947 (1893). 
 Numenius minor 
 (nee Leach), S. Mull. Verh. Landr* en "Folk. p. 110 
@@ -31685,7 +31685,7 @@ r', e\ Ad. sk. Port Darwin. Seebohm OolL
 Port Essington. Capt. Chambers [P.]. 
 (Type of L, au$tralasianaf Gray.) 
 
-u', v\ Ad. st. New South Wales. 
+u', v\ Ad. sk. New South Wales. 
 
 Australian Museum. 
 
@@ -31697,7 +31697,7 @@ aud L nom
 
 ' Sir Samuel Soott, 
 
-9\ • Ad. st. Npw 7u , Bart. [PA 
+9\ • Ad. sk. Npw 7u , Bart. [PA 
 A", »", A". Ad. sk. New 7? W Sir «• G»y [P-l 
 
 T. Ad.sk. KerwV , Capt. Stoke8L[P ]. 
@@ -32046,12 +32046,12 @@ Siberia, and winters in India and as far south as Australia.
 
 c. Imm. st. 
 d, e. $ ad. sk. 
-/ . Ad. st. 
+/ . Ad. sk. 
 
 g. Imm. st. 
 h. 
 Ad. sk. 
-2. Ad. st. 
+2. Ad. sk. 
 7c, I Ad. sk. 
 
 m. Ad. sk. 
@@ -32774,7 +32774,7 @@ a. Ad. sk. N. America. Hudson's Bay Co.
 b. 
 Ad. sk, N. America. Sir J. Eichardson 
 [P.]. 
-c. Ad. st. N.W. America. Sir E, Belcher [P.]. 
+c. Ad. sk. N.W. America. Sir E, Belcher [P.]. 
 d. Ad. sk. N.W. America. Gould Coll. 
 e. Ad. sk. 49th Parallel, May 31. . N. A. Bound. Comm. 
 f. Ad. sk. California. 
@@ -33332,10 +33332,10 @@ terer).
 *\Ad.sk.[c.2-01 Bahia. Sudbury Mus. 
 &3.Ad.sk.Lc.2-4J. Brazil. Salvin-Godman ColL 
 Z3.Ad.sk.[c.2-5j. Devonshire, England. Montagu Coll. 
-m\ Ad. st. [2-15]. Stonebouse, River Brent, Harting Coll. 
+m\ Ad. sk. [2-15]. Stonebouse, River Brent, Harting Coll. 
 
 Middlesex^ Oct. 1862. 
-ra3. Ad. st. [2-4]. Cambridgeshire. Purchased. 
+ra3. Ad. sk. [2-4]. Cambridgeshire. Purchased. 
 
 2. Macrorhamphus taczanowskii 
 Macrorbampbus semipalmatus (nee Gm.), Blyth, XA.8. Beng. xviL 
@@ -33587,7 +33587,7 @@ and migrating south in winter to Central and South America and
 
 the West Indies. 
 
-a, b. Ad. st. 
+a, b. Ad. sk. 
 N.W. America. Capt. Coliinson HP.]. 
 Big IsL, Great Slave Lake Salvin-Godman Coll. 
 
@@ -33595,7 +33595,7 @@ c. Ad. sk.
 (J. Heid). 
 d, e. Juv. sk. Chief Mountain, Dakota, Aug. Salvin-Godman Coll. 
 (E. Coues: Eensh. Coll). 
-f, g, h. Ad. st. Repulse Bay. Dr. Itae "J?X 
+f, g, h. Ad. sk. Repulse Bay. Dr. Itae "J?X 
 i. j ad. sk. 
 Seabrook, New Hampshire, July 
 (W. Brewster: Eensh. Coll.). Salvin-Godman Coll. 
@@ -33875,7 +33875,7 @@ to South Atlantic States in winter) ; south through Mexico, &c. in
 
 winter (ef. Man. p. 585). 
 
-a. Ad. st. N. America. Old Coll. 
+a. Ad. sk. N. America. Old Coll. 
 49th Parallel, May 28 (<?. Dawb. 
 Ad. sk. son). N. A. Bound. Comm, 
 Snake River, Idaho, July 16 
@@ -35045,7 +35045,7 @@ x\ Ad. sk.
 
 y4,55*. Ad. sk. 
 
-a5. Ad. st. 
+a5. Ad. sk. 
 
 V-d\ Ad. sk. 
 
@@ -35553,10 +35553,10 @@ Old Coll.
 c. $ 
 ad. sk. Fogaras, Hungary (E. Cyznh). Hungarian National 
 Museum. 
-d. Ad. st. Dalmatia. 
+d. Ad. sk. Dalmatia. 
 Old Coll. 
 e. Ad. sk. Greece. Gould Coll. 
-/ . Ad. st. Athens. Consul Merlin [P.]. 
+/ . Ad. sk. Athens. Consul Merlin [P.]. 
 g. Ad. sk. Crimea, May. Gould Coll. 
 h. S ad. sk. Ismid, Asia Minor (2*. Robson). Seebohm Coll. 
 I Ad. sk. Egypt (G. JE. S.). Shellev Coll. 
@@ -36907,7 +36907,7 @@ the Pacific, breeding in the North of Europe and Asia, and visiting
 Africa and India in winter, but not reaching to Australia, though it 
 extends to the Malay Archipelago. 
 
-a. Ad. st. England, December. 
+a. Ad. sk. England, December. 
 b, c. Imm. st. Kingsbury Reservoir, MiddleJ. 
 E. Harting, Esq. 
 sex, Aug. 
@@ -36926,7 +36926,7 @@ $ ad. sk. Harting).
 Aldeburgh, Suffolk, Sept. Theodore Fisher, 
 h. Juv. st. Esq. [P.]. 
 Epping, near London. H. Doubleday, Esq. 
-t, h. Ad. st. 
+t, h. Ad. sk. 
 [P.], 
 
 7, m. Juv. sk. 
@@ -38156,8 +38156,8 @@ lenger.'
 t\ Ad. sk. North-eastern Australia. Gould Coll. 
 ul, v', w\ Ad. sk. Queensland (J. T. Cockerell). Salvin-Godman Coll. 
 x'. Ad. sk. Port Bowen, Queensland. J. B. Jukes, Esq. [P.], 
-y\ Ad. st. Port Essington. Capt. Chambers [P.J. 
-rJ. Ad. st. Australia. Capt. Stanley [P.]. 
+y\ Ad. sk. Port Essington. Capt. Chambers [P.J. 
+rJ. Ad. sk. Australia. Capt. Stanley [P.]. 
 
 2. Heteractitis incaims. 
 Ash-coloured Snipe, Lath. Gen. Syn. iii. pt. 1, p. 154 (1785 : Eimeo 
@@ -38814,7 +38814,7 @@ ham, May.
 
 (J. E. Harting). 
 p. Juv. sk. Aldeburgh. Suffolk.
-q, r. Ad. st. Kingsbury Reservoir, Middlesex. 
+q, r. Ad. sk. Kingsbury Reservoir, Middlesex. 
 s, t. cJ ad. sk. Kingsbury, Aug., Sept. (J. E,
 Harting). 
 
@@ -39844,8 +39844,8 @@ Brazil. Accidental in Europe.
 
 a. Ad. sk. [Sussex.] 
 Hume Coll. 
-b. Ad. st. Kent. ^ Ilarting ColL 
-c. Ad. st. 
+b. Ad. sk. Kent. ^ Ilarting ColL 
+c. Ad. sk. 
 Kingsbury Reservoir, Mid- F. Bond Coll. 
 dlesex. 
 d. Ad. sk. Spitsbergen. The Admiralty [P.]. 
@@ -41031,7 +41031,7 @@ Hah. The same as that of the genus.
 a, b. <$ $ ad. st. Sutherlandshire, June. Col. Irby and Capt. 
 Savile Reid [P.J. 
 
-c. Ad. st. 
+c. Ad. sk. 
 Caithness, June. Col. Irby and Capt. 
 Savile Reid [P.J. 
 d. Juv. sk. Carmarthenshire. Montagu Coll. 
@@ -41068,7 +41068,7 @@ J5. § ad. st. Sweden, Aug. (W. Meves). Capt.OlarkeKennedy.
 u. Ad. sk. Sweden, Aug. (H. WheelTweeddale 
 Coll. 
 wright), 
-v. Ad. st. Archangel. Dr. R. B. Sharpe 
+v. Ad. sk. Archangel. Dr. R. B. Sharpe 
 [P.]. 
 w. 
 $ ad. sk. Fogaras, Hungary (E. CzynJc). Hungarian National 
@@ -41087,7 +41087,7 @@ a'. Ad. sk. Egypt, Feb. 9 (G. JB. &)•
 
 Governor Rendall. 
 
-b'. Ad. st. Gambia. 
+b'. Ad. sk. Gambia. 
 
 Old Coll. 
 
@@ -41329,7 +41329,7 @@ w4. Ad. sk.
 
 •z>4, wK Ad. sk. 
 A-4. Ad. sk. 
-yK Ad. st. 
+yK Ad. sk. 
 z\ a\ Ad. sk. 
 &J? c5. 2 ad. sk. 
 'J5. Ad. sk. 
@@ -44294,7 +44294,7 @@ Florida); Miller, Auk, viL p. 227 (1890: Cape Cod); Heine f
 Meichen. Nomencl. Mus. Hein. p. 328 (1890: California); Later, 
 Auk, ix. p. 43 (1892: Gray's Harbour, Washington) ; Scott, i. c. 
 p. 212 (Oaloosahatchie Region, Florida); Treat, i. <?. p. 389 
-(Connecticut); Tacz. M&m. Acad. Imp. Sci. St. Petersb. (7) 
+(Connecticut); Tacz. Mem. Acad. Imp. Sci. St. Petersb. (7) 
 xxxix. p. 890 (1893: Tsehouktschi Peninsula); A Urn, Auk, x. 
 p. 123 (1893); Chapm. Bull. Amer. Mm. Nat. Hist vi. p. 77 (1894: 
 Trinidad); Palmer, Auk, xL p. 325 (1894: Washington, D.C.). 
@@ -45026,7 +45026,7 @@ CHARADRHDJE.
 Ad. sk. 
 
 <m. Ad. sk. 
-n. Ad. st. 
+n. Ad. sk. 
 o,p. $ $ ad. sk. 
 5. $ ad.sk. 
 tfW,v. S jttv. sk. 
@@ -45605,7 +45605,7 @@ e, f. d 2juv.sk
 * [c. 1-0-1-05]. 
 i} k. cfad. ot juv. 
 sk. [c. 1-05]. 
-I Ad. st. 
+I Ad. sk. 
 
 Orkney Islands, Aug. 24 (R G. 
 jr."n.). 
@@ -45623,14 +45623,14 @@ Lancashire, May.
 sk. [c. 0:951-
 05 J 
 
-r. Ad. st. 
-s. Ad. st. 
+r. Ad. sk. 
+s. Ad. sk. 
 t~V. Ad.Jc.1'0VIJ 
 etjuv.sk. 
 
 [c. 0-9-1-05]. 
 c'. Juv. St. 
-d'. Ad. st. 
+d'. Ad. sk. 
 
 e',/\ tf$ ad. 
 se&tiv. sk. 
@@ -46379,7 +46379,7 @@ g. Juv. st.
 L S 2 Juv- sk. 
 
 m. cJ ad. sk. 
-^. Ad. st. 
+^. Ad. sk. 
 
 o. 3 juv. sk. 
 JP, 2> r. 6 juv.; 
@@ -47986,7 +47986,7 @@ Lukung); Fatio # Studer, Cat. distr, Ois. Suisse, p. 50 (1892);
 Seebohm, Ibis, 1892, p. 25 (Heligoland); Be La louche, t. c. p. 49£ 
 (Foocbow and Swatow) ; Hartert, t. c. p. 515 (E. Prussia) ; Styan7 
 Ibis, 1893, p. 437 (Hainan); Stejn. Auk, x. p, 346 (1893: ToHo, 
-Japan) ; Tacz. Mem, Acad. Imp. Sci. St. Petersb. (7) xxxix. p. 916 
+Japan) ; Tacz. Mem. Acad. Imp. Sci. St. Petersb. (7) xxxix. p. 916 
 (1893) ; Pearson $ Bidioell, Ibis, 1894, p. 235 (N. Norway); Stejn. 
 Proc. U.S.Nat. Mus. xv. p. 371 (1895 : Japan) ; Lilford, Col. Pig. 
 Brit B. part xxxi. (1895). 
@@ -48118,15 +48118,15 @@ Burmese countries and China.
 63 . UMONITES. 
 559 
 
->a. Ad. st. 
-b, a Ad. st. 
+>a. Ad. sk. 
+b, a Ad. sk. 
 
 d. 5 juv. sk 
 e. Ad. sk. 
-/, g. Ad. st. 
+/, g. Ad. sk. 
 h. <J ad. sk. 
 i-m. $ J juv. sk.
-n. Ad. st. 
+n. Ad. sk. 
 o. Juv. sk. 
 p. Ad. sk. 
 q-t. S ad. sk. 
@@ -48816,7 +48816,7 @@ e.
 d juv.; f-l $ 
 ad. sk. 
 k. Ad. sk. 
-/, m. Ad. st. 
+/, m. Ad. sk. 
 n, o,p. Ad. sk. 
 q. Juv. sk. 
 r. 
@@ -49336,7 +49336,7 @@ k'. $ juv. sk. Australia. Seebohm Coll.
 
 /'. Juv. sk. Australia. Salvin-Godman Coll. 
 m'. Ad. sk. Australia. Sir D. Cooper [P.]. 
-n'. Ad. st. Port Essington. Capt. Chambers [P.]. 
+n'. Ad. sk. Port Essington. Capt. Chambers [P.]. 
 
 570 CILVRAimilD-E. 
 
@@ -50395,7 +50395,7 @@ America.
 
 .c, d, e. tf ad. sk.
 f, g. Ad. sk.
-A Ad. st. 
+A Ad. sk. 
 Island of Tiree, Feb. & May. 
 N. Berwick, Nov. (J. H. Yule). 
 JDunstanburgh, NorthumberColonel 
@@ -50410,16 +50410,16 @@ Seebohm CoU,
 
 h. S ad. sk. 
 Ij m. Ad. sk. 
-n. Ad. st. 
+n. Ad. sk. 
 o. $ ad. sk. 
 p. Ad. sk. 
 q. Ad. sk. 
 r. Ad, sk. 
-s. Ad. st. 
-2. Ad. st. 
+s. Ad. sk. 
+2. Ad. sk. 
 u, v. Ad. sk. 
 
-w. Ad. st. 
+w. Ad. sk. 
 a:. Juv. sk. 
 y. 
 $ ad. sk. 
@@ -51098,7 +51098,7 @@ p, q, r. <? 2 ad*
 et juv. sk. 
 
 
-s. Ad. st. 
+s. Ad. sk. 
 t. Juv. st. 
 w, v. <$ juv.; w. 
 5 ad. hiem. sk. 
@@ -51255,7 +51255,7 @@ Hungarian National
 Museum [P.]. 
 
 J". Ad. sk. 
-e'\f\ Ad. st. 
+e'\f\ Ad. sk. 
 g". 6 ad. sk. 
 
 ,h". 6 ad. sk. 
@@ -51270,7 +51270,7 @@ p". Ad. sk.
 #". Ad. sk. 
 
 
-r". Ad. st. 
+r". Ad. sk. 
 
 *". Ad. sk. 
 
@@ -51462,7 +51462,7 @@ Hume Coll.
 
 m4. 5 ad. sk. 
 n*-f. <$ $ ad. sk. 
-s4, «5. Ad. st. 
+s4, «5. Ad. sk. 
 ¥. Ad. sk. 
 c5,d5. tf $ ad.sk. 
 e5. Ad. sk. 
@@ -51984,7 +51984,7 @@ Land, on Melville Island and Melville Peninsula, and probably on
 the "New Siberian Islands. In winter it visits Africa, India^ 
 Australia, and South America. 
 
-a* Ad. st. 
+a* Ad. sk. 
 
 b. Ad. hiem. sk. 
 c. (S ad. sestiv. sk. 
@@ -52528,7 +52528,7 @@ A. II. Everett Esq.
 u'. <$ ad. sk. Dumaguete, Negros, Philippine E. L. Moselev, Esq. 
 Is., Feb. 6. 
 v'. $ ad. sk. 
-^?'. Ad. st. 
+^?'. Ad. sk. 
 x\ Ad. sk. 
 y'y z. Ad. sk. 
 a". Ad. sk. 
@@ -52803,7 +52803,7 @@ April {Dunn).
 
 1. <$ ad. sk. Stromness, May 16. Edward Hargitt, Esq. 
 m. Pull. sk. Shetland Islands. Salvin-Godman Coll. 
-n-q. Ad. st. Sutherlandshire. Colonel Irbv & Capt. 
+n-q. Ad. sk. Sutherlandshire. Colonel Irbv & Capt. 
 Savile Reid [P.]. 
 ?•. <$ ad. sk. Island of Tiree, June 1. Colonel Irby [P.]. 
 s-w. Ad. sk. Firth of Forth (R. G. W. JR.). TweeddaleOoll." 
@@ -52838,7 +52838,7 @@ h". § ad. sk. Walberswick (G. S?nith). Hume Coll.
 
 k", I". Ad. sk. Suffolk, Nov. Rev. S. O. Ridley 
 [PA 
-m". Ad. st. Tottenham. Mr. "W. S. Spooner. 
+m". Ad. sk. Tottenham. Mr. "W. S. Spooner. 
 n". $ ad. st. Kingsbury Reservoir, Sept. 7. Harting Coll. 
 o",/'. ? ad. et Kingsbury Reservoir, Mav, Seebohm Coll. 
 juv.; q", r". Aug. to Oct. (/. E. H,). 
@@ -52854,7 +52854,7 @@ ad. et juv. sk.
 i3. tf ad. sk. 
 
 m3. Ad. sk. 
-nz. Ad. st. 
+nz. Ad. sk. 
 03, y. Ad. sk. 
 qz. Imm. sk. 
 r3. $ ad. sk. 
@@ -52867,7 +52867,7 @@ s3. S ad. sk.
 $ ad. sk. 
 A4. Juv. sk. 
 
-i*. Ad. st. 
+i*. Ad. sk. 
 
 A4. $ ad. sk. 
 
@@ -54933,7 +54933,7 @@ p. 225 (Palawan); Whitehead, Ibis, 1890, p. 60 (Palawan) ;*Steere,
 List Birds fy Mamm. Philip. Erped. p. 2d (1890: Mindanao; Basilan); 
 Salvad. Agg. Orn. Papaasia, etc. iii. p. 205 (1891) ; StyanT 
 Ibis, 1891, pp. 330,505 (Lower Yangtse); De La louche, Ibis, 1892, 
-p. 498 (Foochow); Tacz. MSm. Acad. Imp. Sci. St. Petersb. (7) 
+p. 498 (Foochow); Tacz. Mem. Acad. Imp. Sci. St. Petersb. (7) 
 xxxix. p. 956 (1893); Ogilvie-Grant, Ibis, 1894, p. 522 (N. Luzon). 
 Scolopax (Spilura) stenura (nee Kuhl), Radde, Reis. Sibir. ii. p. 334, 
 plxiii. (1863). 
@@ -55025,7 +55025,7 @@ d>, e>. Ad.; f. 2 Labuan, I)ec, March. A. H. Everett. Esq.
 ad. sk. [C.]. 
 g'. Ad. sk. Baram, Sarawak. A. 3EL Everett, Esq. 
 
-h'. Ad. st. East Timor. "\taHace Coll. 
+h'. Ad. sk. East Timor. "\taHace Coll. 
 
 H. Ad. sk. East Timor (A. F. Wallace). Tweeddale Coll. 
 k'. Ad. sk. East Timor (A. F. Wallace). Gould Coll. 
@@ -55254,7 +55254,7 @@ Africa.
 
 a. 2 ad. sk. 
 b. $ ad. sk. 
-c. Ad. st. 
+c. Ad. sk. 
 d. e. Ad. sk. 
 f,g. $ ad.sk. 
 
@@ -55516,7 +55516,7 @@ axillaries white with only a few irregular markings or spots.
 
 Hah. Confined to Africa. 
 
-a. Ad. st. Shoa (Sir W. C. Harris). India Museum. 
+a. Ad. sk. Shoa (Sir W. C. Harris). India Museum. 
 b-f. 6 ? ad. sk. 
 Angollala, Shoa, May (Sir India Museum. 
 
@@ -55555,8 +55555,8 @@ Shelley CoU.
 May(T. K Buckley). 
 
 y. cJ ad. sk. Kingwilliamstown. Mai or Trevelyan 
-h'. Ad. st. South Africa. Purchased. 
-**. Ad. st. South Africa. Dr. Krauss [C.1 
+h'. Ad. sk. South Africa. Purchased. 
+**. Ad. sk. South Africa. Dr. Krauss [C.1 
 
 h\ Ad. sk. South Africa. Gould Coll. 
 
@@ -55989,7 +55989,7 @@ b', c'. Juv. et Cambridgeshire. Purchased.
 pull. st. 
 d'. cf ad. sk. Yarmouth, Oct. 29 (J. R Seebohm CoU. 
 Ifar ting). 
-e'i f'. Ad. st. Norfolk. A.Thoinson,Esq.[P.]. 
+e'i f'. Ad. sk. Norfolk. A.Thoinson,Esq.[P.]. 
 
 a(^-J
 
@@ -56047,7 +56047,7 @@ q". $ ad. sk.
 r". Ad. sk. 
 s". Ad. sk. 
 t". Ad. sk. 
-u". Ad. st. 
+u". Ad. sk. 
 
 v"-y". <$ ad. sk. Moscow, Sept., Oct. 
 z". Ad. sk. Cyprus, April 16. 
@@ -56463,15 +56463,15 @@ Dr. Giinther [0.].
 
 Sabine's Snipe. 
 
-o7. Ad. st. Ireland (Williams). Harting Coll. 
+o7. Ad. sk. Ireland (Williams). Harting Coll. 
 (Cf. Zool. 1877, p. 24.) 
-p7. Ad. st. Ballycoimell, Co. Cavan, Ireland, Harting Coll. 
+p7. Ad. sk. Ballycoimell, Co. Cavan, Ireland, Harting Coll. 
 Nov. 17,1845. (Cf. Thompson, B. Irel. ii. p. 275.) 
 q7. Ad. sk. Queen's Co., Ireland (Vigors Zoological Society. 
 Coll.). (Type of Scolopax sabinei.) 
 r7. Ad. sk. Island of Tiree, Jan. Capt. Willoughby 
 Vemer [P.]. 
-/ . Ad. st. Romsey, Hants, Oct. (J.Baker). Harting Coll. 
+/ . Ad. sk. Romsey, Hants, Oct. (J.Baker). Harting Coll. 
 
 f. <$ ad. st. Near Paris, Feb. 1854. Purchased. 
 6. G-allinago delicata. 
@@ -56844,7 +56844,7 @@ z", a\ Ad. sk.
 
 b\ $ ad. sk. 
 
-c3. Ad. st. 
+c3. Ad. sk. 
 
 CHlBADBIIDiB. 
 
@@ -57023,7 +57023,7 @@ o. Ad. sk. Para.
 R. Graham, Esq. 
 [P.]. 
 
-jp. Ad. st. River Amazons. Purchased. 
+jp. Ad. sk. River Amazons. Purchased. 
 
 a. Ad. sk. Pernambuco (W. A. Forbes). Salvin-Godman Coll. 
 r. 
@@ -57034,7 +57034,7 @@ s. S ad. sk. Pelotas, Bio Grande do Sul Salvin-Godman Coll.
 (Joyner). 
 
 t. S ad. sk. Ypanema, April (J. Natterer). Salvin-Godman Coll. 
-u. Ad. st. Bahia. Sudbury Museum. 
+u. Ad. sk. Bahia. Sudbury Museum. 
 v, w. Ad. sk. Bahia. Seebohm Coll. 
 648 
 CHABADEITDJE. 
@@ -57126,7 +57126,7 @@ Hab. Colombia and Ecuador.
 
 a,b. <3 $ ad. sk. Retiro (7000 ft.), Antioquia, Salvin-Godman Coll. 
 Colombia (T. K. Sabnon). 
-JC, d. Ad. st. Bogota. J. Gould, Esq. 
+JC, d. Ad. sk. Bogota. J. Gould, Esq. 
 
 
 £. Ad. sk. Bogota. Salvin-Godman Coll. 
@@ -57351,7 +57351,7 @@ i, w. Ad. sk. [w.
 5-2-5-S1 
 
 x. $ ad. sk. [w.5*4], 
-y. Ad. st. 
+y. Ad. sk. 
 z-c'. Ad. sk. [w. 
 d'. Ad. sk.[w. 5-351 
 e'. $ad.sk.[w.5-3j. 
@@ -57360,7 +57360,7 @@ f'~h'. Ad. sk. [w.
 5-2-5-3]. 
 i\ k'. cJ ad. sk. [w, 
 5-3-5-5]. 
-A Ad. st. 
+A Ad. sk. 
 
 
 m'» Ad. sk. [w. 5'2].
@@ -57805,7 +57805,7 @@ a". $ ad. sk. Mouth of Amur River, Nov. 6 Seebohm Coll.
 b", c". <$ ad. sk. Shanghai, Feb. 26 (It. Swin-Seebohm Coll. 
 
 hoe). 
-d". Ad. st. Japan. Mr. H. Whitely rC.l 
+d". Ad. sk. Japan. Mr. H. Whitely rC.l 
 e". § ad. sk. Japan. Professor Milne [C.J. 
 
 /" . Ad. sk. Yeddo (C. McVean). Tweeddale Coll. 
@@ -57888,7 +57888,7 @@ India.
 India. 
 Dr. Wallich [P.]. 
 Gould Coll. 
-e. Ad. st. India. General Hardwicke 
+e. Ad. sk. India. General Hardwicke 
 / . Ad. sk.
 g. Ad. sk. 
 Dhurmsala, Oct. 
@@ -58631,7 +58631,7 @@ Jc, I, m. Ad. sk. Cambridgeshire. Salvin-Godman ColL
 
 n. $ ad. sk. Norwich, Sept. 20 (J. & Seebohm Coll. 
 Harting). 
-o,p. Ad. st. Epping, Essex. H. Doubleday, Esq, 
+o,p. Ad. sk. Epping, Essex. H. Doubleday, Esq, 
 
 
 [P.l 
@@ -58640,12 +58640,12 @@ o,p. Ad. st. Epping, Essex. H. Doubleday, Esq,
 71 . LDOrOCErPTES. 
 t. 
 Ad. sk. 
-u. Ad. st. 
+u. Ad. sk. 
 #. § ad. sk. 
 w. Ad. sk. 
 tc. 2 ad. sk. 
 y. Ad. sk. 
-%. Ad. st. 
+%. Ad. sk. 
 a!. 6 ad. sk. 
 £', c', d'. <$ ad. sk. 
 er,f. Ad. sk. 
@@ -59233,11 +59233,11 @@ Starting).
 m. 
 Ad. st. Norfolk. W.W. Barclay, Esq. 
 [P.]. " * 
-n. Ad. st. Harting, Sussex, Nov. 
+n. Ad. sk. Harting, Sussex, Nov. 
 J. 
 E. Harting, Esq. 
 [O.]. 
-o. Ad. st. Hailsham, Sussex, Oct. 
+o. Ad. sk. Hailsham, Sussex, Oct. 
 J. 
 E. Harting, Esq. 
 [0.]. 
@@ -59265,7 +59265,7 @@ Museum [P.].
 a'. S ad. sk. Near Moscow, May 2. Seebohm Coll. 
 
 V. $ ad. sk. Cyprus, Nov. 21. Lord Lilford [P.]. 
-<L Ad. st. Archangel. Dr. K. B. Sharpef P.]. 
+<L Ad. sk. Archangel. Dr. K. B. Sharpef P.]. 
 d'~f. Ad. sk. Mount Lebanon. S. Barody [C.]. 
 (/'. S ad. sk. Madeira, June 29. Salvin-Godman Coll. 
 h'. $ ad. sk. Madeira, March 8. C.J.Cossart,Esq.pP.]. 
@@ -59278,7 +59278,7 @@ ri. Ad. sk.
 o',p'. 6 2 ad. j
 
 q'. Pull. sk. 
-r\ Ad. st. 
+r\ Ad. sk. 
 
 ^'. cJ ad. sk. 
 
@@ -59690,14 +59690,14 @@ bill and the eye a black streak, and another below the eye.
 
 Hob. North America. 
 
-a. Ad. st. 
+a. Ad. sk. 
 North America. Purchased. 
 b. Nestling sk. 
 North America. Seebohm Coll. 
 c. 2 ad. sk. 
 Canada. Seebohm Coll. 
 d. Ad. sk. Canada (Sir Charles Shelley). Tweeddale Coll. 
-e,f. Ad. st. Lake Ontario, Canada. C. J. Phelips. Esq. 
+e,f. Ad. sk. Lake Ontario, Canada. C. J. Phelips. Esq. 
 [P.J. 
 g. 
 Ad. sk. New Brunswick (G. A. Board-Salvin-Godman Coll. 
@@ -60086,7 +60086,7 @@ Bab. Africa below the Sahara, extending to Egypt. Indian
 Peninsula and Ceylon, to the Burmese provinces, China and Japan, 
 south to the Malayan Peninsula, Sumatra, and the Philippines. 
 
-a, b. Ad. st. Gambia. Governor Kendall 
+a, b. Ad. sk. Gambia. Governor Kendall 
 [C.]. 
 
 
@@ -61007,7 +61007,7 @@ d. Ad. sk.
 e. Juv. sk. 
 / . 2 juv. sk. 
 
-g. Ad. st. 
+g. Ad. sk. 
 h. Ad. sk. 
 t. Juv. sk. 
 &. $ ad.; /. tf juv. 
@@ -61607,7 +61607,7 @@ a. Ad. sk.
 Faeroe Islands. Capt. Savile Reid 
 r>o. 
 
-b. Ad. st. 
+b. Ad. sk. 
 Shetland Islands. Harting Coll. 
 c. Ad. sk. 
 Orkneys. Old Coll. 
@@ -62163,7 +62163,7 @@ plumage.
 Hah. Temperate Forth America, migrating south through Central 
 America to Brazil, Patagonia, and the Falkland Islands. 
 
-a. Ad. st. N. America. Purchased. 
+a. Ad. sk. N. America. Purchased. 
 ft, c. S ? ad. 49fch Parallel, June {Prof. N.A. Bound. Comm. 
 sk. Daiosori). 
 d, e. <$ J ad. sk. Chicago, 111. (Hensh. Coll). Salvin-Godman Coll. 
@@ -62461,7 +62461,7 @@ Hah. Kerguelen, Marion, and Prince Edward Islands. The birds
 from Marion Island are smaller than those of Kerguelen Island, and 
 have a conspicuously smaller bill. 
 
-a. Ad. st. Kerguelen Island. Lieut. A. Smith, R.N*. 
+a. Ad. sk. Kerguelen Island. Lieut. A. Smith, R.N*. 
 b} c. Ad. sk. Kerguelen Island. Lieut. A. Smith, E.N*. 
 
 d. 2 ad. sk. Kerguelen Island. Antarctic Expedition. 
@@ -62648,7 +62648,7 @@ grey and very dense.
 
 Hah. Chili and Peru. 
 
-a. Ad. st. Cordillera of Chili. Purchased. 
+a. Ad. sk. Cordillera of Chili. Purchased. 
 h, c. Ad. sk. Chili. Purchased. 
 d-i. Ad. sk. Central Chili. Berkeley James Coll. 
 Jc, I. <$ ad. et juv. Santiago, Chili (Let/bold). Salvin-Godman Coll. 
@@ -63072,7 +63072,7 @@ A#d; ^a^e IS. Burhinns grallarius.
 
 GEdicnenius grallarius, Legge, Proc. Austr. Assoc. 1892, p. 45. 
 
-n. Ad. st. Queensland. Seebohni Coll. 
+n. Ad. sk. Queensland. Seebohni Coll. 
 Add:— ^aSe ^Q- Esacus recurvirostris. 
 
 i\ cS ad. sk. Futtehgurh, Dec. 16 (A. Anderson). Seebohm Coll. 
@@ -63230,7 +63230,7 @@ Add. Page 48. Etanoptfhxs ckaleopterus.
 Oursorius cbalcopterus, Beichen. Vog. deutsch-Ost-Afr. p. 31 (1894). 
 Ebinoptilus cbalcopterus, Shelley, B. Africa, i. p. 195 (1896). 
 
-h. Ad. st. Makalaka Country (JDr. Bradshaw). Seebobm Coll. 
+h. Ad. sk. Makalaka Country (JDr. Bradshaw). Seebobm Coll. 
 I. 6 ad. sk. Weenen, Natal, April 1 (A. Arnold). Seebobm CoU. 
 m. $ ad. sk. Damara-land, Jan. 31 (C. J. An- Seebobm Coll. 
 derssori). 
@@ -63553,7 +63553,7 @@ Page 107. HaBmatopxis ostralegus.
 
 Add:— 
 
-Hsematopus ostralegus, PlesTce, Uebers. Stiug. u. Vog. Kola-Halbinsel, 
+Hsematopus ostralegus, Pleske, Uebers. Stiug. u. Vog. Kola-Halbinsel, 
 ii. p. 831 (1886); Blagg, Ibis, 1893, p. 355 (Shetlands); 
 Reiser, Orn. Balcan. p. 179 (lb94); JReichen. Vog. deutsch-Ost-Afr. 
 
@@ -63719,7 +63719,7 @@ Add:-—
 - Hsematopus ater. 
 
 y. S ad. sk. Chili (JE. C. Reed). Seebohm Coll. 
-z. Ad. st. Falkland Islands. Seebohm Coll. 
+z. Ad. sk. Falkland Islands. Seebohm Coll. 
 a'. 
 $ ad. sk. Stanley, Falkland Islands, March Seebohm Coll. 
 (Capt. Harrison). 
@@ -63767,7 +63767,7 @@ Vanellus leucopterus, Shelley, B. Africa, i. p. 189 (1896).
 
 i, k. Ad. sk. Zambesi. Seebohm Coll. 
 
-I. Ad. st. Nyasa-land. Alfred Skarpe, Esq. [P.]. 
+I. Ad. sk. Nyasa-land. Alfred Skarpe, Esq. [P.]. 
 A^a. Page 128. Sarciophoras tectus. 
 
 I Ad. sk. [Egypt.] Seebobm Coll. 
@@ -63782,7 +63782,7 @@ Line 5 from bottom, transfer " Blanford's " reference to the next
 species. 
 Add:— 
 h". Ad. sk. Nepal. Seebolim CoU. 
-i". Ad. st. Calcutta. Seebohm Coll. 
+i". Ad. sk. Calcutta. Seebohm Coll. 
 k". Juv. sk. Coromandel Coast. Seebohm Coll. 
 
 Add. Page 133. Mcrosarcops cinereus. 
@@ -63792,7 +63792,7 @@ Sarciophorus bilobus (nee StrickL), Blanford, Ibis, 1870; p. 470 *.
 n". <$ ad. sk. Mongolia, April 6. Seebohm Coll. 
 
 o". $ ad. sk. Ohinkiang, March 10 (B. Swinhoe). Seebohm Coll. 
-p". Ad. st. Yokohama (JS. Fryer), Seebohm Coll. 
+p". Ad. sk. Yokohama (JS. Fryer), Seebohm Coll. 
 
 Add: ^a£e ^5. Hoploxypteras cayairas. 
 
@@ -63800,7 +63800,7 @@ Add: ^a£e ^5. Hoploxypteras cayairas.
 n, $ ad. sk. Lower Ucayali, May 31 (JS. Seebohm Coll. 
 BartHt). 
 
-o. Ad. st. Rio de Janeiro. Seebonm Coll. 
+o. Ad. sk. Rio de Janeiro. Seebonm Coll. 
 * This reference has hitherto been the sole authority for the occurrence of 
 Lobipluvia, malaharica in Burma. Some of his specimens were determined for 
 Mr. Blanford, during his absence in India, by Mr. G. B. Gray, who is responsible 
@@ -63818,7 +63818,7 @@ s. 2 ad. sk. Ourumu, British Guiana, Dec. Salvin-Godman Coll.
 (H. Whitely). 
 jL&a. Page 137. Ptiloscelis resplendens. 
 
-r. Ad. st. Peru. 
+r. Ad. sk. Peru. 
 Seebohm Coll. 
 s. $ ad. sk. Tinta, Peru, June 15 (R. Whitely). Seehohm Coll. 
 t. $ ad. sk. Paueatambo, Peru, June (fit W.). Seebohm Coll. 
@@ -63916,7 +63916,7 @@ j^&&. Page 157. Hoplopterus spinosus.
 Hoplopterus spinosus, Sharpe, P. Z. S. 1895, p. 514 (Somali-land); 
 Shelley, B. Africa, i. p. 188 (1896). 
 
-V. Ad. st. E^ypt {Stafford Allen). Seebohm Coll. 
+V. Ad. sk. E^ypt {Stafford Allen). Seebohm Coll. 
 c'. Ad. sk. Egypt, Feb., April {G. E. Seebohm Coll. 
 Shelley). 
 d\ 
@@ -63964,7 +63964,7 @@ McConnell, Esqrs.
 [p.]. 
 x. 61 ad. sk. U.S. Colombia. Seebohm Coll, 
 y. Ad.sk. Bahia {Wucherer). Seebohm Coll. 
-z. Ad. st. Buenos Ayres, Oct. Seebohm Coll. 
+z. Ad. sk. Buenos Ayres, Oct. Seebohm Coll. 
 Add: ^ aS e 165. Belonopterus chilensis. 
 
 r. 
@@ -64272,7 +64272,7 @@ w. Imm. sk. Gipps-land Lakes, Victoria. Seebohm Coll.
 x. Imm. sk. Sydney, Nov. 
 Seebohm Coll. 
 y. Ad. sk. Melbourne. Seebohm Coll. 
-z, a\ Ad. st. New Zealand. Seebohm Coll. 
+z, a\ Ad. sk. New Zealand. Seebohm Coll. 
 h', c'. <$ $ imm. Saltwater Bay, N. Z., May (Sir Seebohm Coll. 
 sk. J. von Haast). 
 d'7 e'. (S ? ad. sk. Selwyn, N. Z., Sept. (Sir J. von Seebohm Coll. 
@@ -64325,7 +64325,7 @@ w5. tf juv.; v5, Puerto Princesa, Palawan, Sept. Steere Coll.
 w5. $ juv. sk. 
 .r5. Ad. sk. Morotai. Wallace Coll. 
 
-y. Ad. st. S. Australia. Seebohm Coll. 
+y. Ad. sk. S. Australia. Seebohm Coll. 
 j±fi&. Page 223. Ochtho&romus mongolus. 
 
 iEgialitis mongola, Tacz. Mem. Acad. Imp. Sci. St. Petersh. (7) 
@@ -64735,7 +64735,7 @@ Charadrius alexandrinus, Shelley, E. Africa^ i. p. 189 (1896).
 Page 277, line 2 from bottom, for " minor" read "minutus." 
 
 P. Pull. sk. 
-m8. Ad. st. 
+m8. Ad. sk. 
 n3. J ad. sk. 
 o8, 6* ad. sk. 
 pH. o* ad. sk. 
@@ -64947,7 +64947,7 @@ Shelley, B. Africa, i.p. 189 (1896).
 Add: Page 286. JEgialitis ruficapilla. 
 
 v. Ad. sk. Tasmania (Dr. Finsch). Seebohm Coll. 
-w, x. Ad. st. Australia. Seebohm Coll. 
+w, x. Ad. sk. Australia. Seebohm Coll. 
 y. Ad. sk. S. Australia. Seebohm Coll. 
 a, a'. Ad. sk. Gippsland, Victoria {Marshall). Seebohm Coll. 
 b', c'. Ad. sk. Sydney, N.S.W. Seebohm Coll. 
@@ -65085,7 +65085,7 @@ a'. <$ ad. sk. Queensland. 9 Seebohm Coll.
 V. 6 ad. sk. New South Wales {Dr. O. Finsch). Seebohm Coll. 
 c', d'. Ad. et Sydney (E. P. Bamsay). Seebohm Coll. 
 juv. sk. 
-e'. Ad. st. "Yarra Flats, Victoria. Seebohm Coll. 
+e'. Ad. sk. "Yarra Flats, Victoria. Seebohm Coll. 
 
 
 Aaa. Page 302. JEgialitis cucullata. 
@@ -65133,7 +65133,7 @@ op. cit. 1893, p. 431.
 I. Juv. sk. Burke, River Darling (Dr. Pechey). Seebohm Coll. 
 m. Ad. sk. Queensland. 
 Seebohm Coll. 
-n. Ad. st. Australia. 
+n. Ad. sk. Australia. 
 Seebohm Coll. 
 j±^ . Page 310. Hiiaantopns himantopus. 
 
@@ -65201,7 +65201,7 @@ Add: ^a£e 323- Himantopus knudseni.
 c. Ad. sk. Kauai (K?mdsen). Prof. Collett [P.], 
 Add: PaSe ^23. Himantopus melas. 
 
-o. Ad. st. New Zealand. 
+o. Ad. sk. New Zealand. 
 Seebohm Coll. 
 2 a<3-s&
 
@@ -65262,7 +65262,7 @@ Eecurvirostra novae-hollandiae, Legge, Proc. Ausir. Assoc. 1892,
 p. 27; Campbell, op. cit. 1893, p. 4£>9. 
 t, u. Ad. sk. South Australia. Seehohm Coll. 
 
-v. Ad. st. Wellington, N.Z. Seehohm Coll. 
+v. Ad. sk. Wellington, N.Z. Seehohm Coll. 
 Afifi. Page 334. Eecurvirostra audina. 
 
 aa*. s&
@@ -65424,7 +65424,7 @@ Maynard).
 h'. 2 ad. sk. Cape St. Lucas, Sept. 21 Seebohm Coll. 
 
 (J. Xanttcs). 
-i\ Ad. st. Chili Seebohm Col. 
+i\ Ad. sk. Chili Seebohm Col. 
 Page 367. Humenius taMtiensis. 
 
 Add:— 
@@ -65636,7 +65636,7 @@ Limosa fedoa, A. O. JJ. Cheek-l N. Amer. B. 2nd ed. p. 91 (1895) •
 Elliott & Amer. Shore-Birds, p. 105, cum tab. (1895). 
 
 w. $ ad. sk. Hayes River, Hudson's Bay. Seebohm Coll. 
-x\ Ad. st. Iowa, May. Seebohm CoIL 
+x\ Ad. sk. Iowa, May. Seebohm CoIL 
 y. J ad. sk. California. Seebohm Coll. 
 ADDENDA. 757 
 
@@ -65694,7 +65694,7 @@ s'. 3 ad. st. Ipswich, Massachusetts, July. Seebohm Coll.
 t'-v\ <$ ? a<i. sk. Ipswich, July, Aug. (C. J. Seebohm Coll. 
 
 Maynard). 
-w'. Ad. st. Mexico. Seebohm Coll. 
+w'. Ad. sk. Mexico. Seebohm Coll. 
 xr. <5 ad. sk. Ilha Grande, Brazil, Aug. Seebohm Coll. 
 
 A AA . Page 405. Symphemia semipalmata. 
@@ -65711,7 +65711,7 @@ I", cf ad. st. Ipswich, Massuchusetts, Feb. Seebohni Coll.
 (C. J. Maynard). 
 m" $ ad. sk. Florida, April (C. J. Maynard). Seebohm Coll. 
 n". $ ad. sk. California {Hardy). Seebohm Coll. 
-o". Ad. st. Mexico (A. L Heerman). Seebohm Coll. 
+o". Ad. sk. Mexico (A. L Heerman). Seebohm Coll. 
 /' . Ad. sk. Mazatlan (A. J. Grayson). Seebolim Coll. 
 
 ^age 409, To'fcailTls
@@ -65729,7 +65729,7 @@ Z3. (S ad. sk. Near Florence, Italy, April (H. Seebolim Coll.
 
 Giglioli). 
 fi. Ad. sk. Corfu. Seebolim Coll. 
-A3. Ad. st. Lenkoran. Seebohm Coll. 
+A3. Ad. sk. Lenkoran. Seebohm Coll. 
 z3. $ juv. st. Mouth of the Ainoor River, Aug. 25 Seebohni Coll. 
 
 (Dorries). 
@@ -65739,7 +65739,7 @@ o3~s3.5 imm. sk. to Nov., March {Bon-ies).
 
 Yokohama. Seebohm Coll. 
 w3. Ad. sk. Kamtchatka. Seebohm Coll. 
-vz. Ad. st. Rajapur, Oudh, April (A. Ander- Seebohm Coll. 
+vz. Ad. sk. Rajapur, Oudh, April (A. Ander- Seebohm Coll. 
 
 son). 
 w3. Ad. sk. Futtehgurh, Sept. 30 {A. Anderson). Seebohm Coll. 
@@ -65754,12 +65754,12 @@ Better, Orn. Jiakan. p. 166 (1895); Poynt. Eggs Brit. B. part n.
 Africa, i. p. 191 (1896. 
 
 f. Pull, sk, Orkneys (Dunn). Seebohm Coll. 
-f. Ad. st. Walberswick, Norfolk, March. Seebohm Coll. 
+f. Ad. sk. Walberswick, Norfolk, March. Seebohm Coll. 
 r8. Pull. sk. Essex Marshes. Seebohm Coll. 
 s8. J ad. sk. Kingsbury, Middlesex, Aug. 18 (J. Seebohm Coll. 
 E.' Harting). 
 
-f. Ad. st. Pagham, Sussex, Aug. 14 (G. E. Seebohm Coll. 
+f. Ad. sk. Pagham, Sussex, Aug. 14 (G. E. Seebohm Coll. 
 Shelley). 
 uB. J ad. sk. Abbeville, France, May. Seebohm Coll. 
 v8. <$ ad. sk. Bodo, Norway, June 7 (JET. &). Seebohm Coll. 
@@ -65965,7 +65965,7 @@ Totanus solitarius, A. 0. IT. Check-l. K. Amer. B. 2nd ed. p. 94
 (1895); Elliot, N. Amer. Shore-Birds, p. 122, %. 39 (1895). 
 Helodromas solitarius, Sharpe, Handb. Brit. B. iii. p. 292 (1896). 
 
-m3. Ad. st. Albany, N.Y. (Burst). Seebohm Coll. 
+m3. Ad. sk. Albany, N.Y. (Burst). Seebohm Coll. 
 ns. Juv. st. St. Croix River, New BrunsSeebohm 
 Coll. 
 
@@ -66185,7 +66185,7 @@ ad. sJfc.
 r3~£3 . tf; w3 , v3 . 
 £ ad. sk. 
 «>3 , a*3 . Ad. sk. 
-y3 . Ad. st. 
+y3 . Ad. sk. 
 z6 . d1 ad. sk. 
 H.-B.). 
 Yenesei Valley, June (H. S.). 
@@ -66587,7 +66587,7 @@ a5,b5 . cJad.sk.
 Maynard). 
 Ipswich, Mass., July 10 (C. J. Seebohm Coll. 
 Maynard). 
-c\ Ad. st. New York. Seebohm Coll. 
+c\ Ad. sk. New York. Seebohm Coll. 
 d5 . 2 ad. sk.
 e5 . S ad. st.
 f5 . $ ad. sk.

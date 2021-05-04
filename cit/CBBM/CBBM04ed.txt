@@ -2199,7 +2199,7 @@ Dr. Meyer's specimen has white tips to the bastard wing and
 primary-coverts, and the inner secondaries edged with white. 
 
 Hab. Celebes. 
-a. Ad. st. Celebes. Purchased. 
+a. Ad. sk. Celebes. Purchased. 
 b. Ad. sk. Celebes. Br. A. B. Meyer [C.]. 
 
 11. Artamides magnirostris. 
@@ -3237,7 +3237,7 @@ on the throat.
 
 Hob. South Australia and Tasmania. 
 
-a. Ad. st. Tasmania. Eonald Gunm Esq. 
+a. Ad. sk. Tasmania. Eonald Gunm Esq. 
 bj c. S ad. sk. Tasmania. Eonald Gunn, Esq. 
 a. [ $ ] ad. sk. Tasmania. Eonald Gunn, Esq. 
 e, f. S ad. sk. Tasmania. Antarctic Expedition [C.X 
@@ -3604,7 +3604,7 @@ e. Ad. sk. Australia. Sir T. Mitchell [P.].
 /. Ad. sk. Lake Elphinstone. Museum GodefTroy. 
 a. Inrm. st. Australia. 
 h, i Imm. st. Australia. J. Gould, Esq. [0.]. 
-k. Pull, j I Ad. st. Adelaide. Purchased. 
+k. Pull, j I Ad. sk. Adelaide. Purchased. 
 4 . GBAUOALTTS, 
 39 
 
@@ -5368,7 +5368,7 @@ I, m. Ad., n. Juv. sk. N.W. Himalayas. Oapt. Stacfchouse Pinwill
 o. Q imiB. sk.
 p, q. Ad. sk.
 r, s. Ad. st.
-t, u. Ad. st. 
+t, u. Ad. sk. 
 Murree. 
 Murree. 
 Nepal. 
@@ -9228,7 +9228,7 @@ a. Ad. sk. Australia. Linnean Society [P.].
 (Type of M. meteropte7*a.) 
 h. Ad. sk. New South Wales. K. B. Sharpe, Esq. [P.]. 
 c. Ad. sk. South Australia. Sir George Grey [P.], 
-(I Ad. st. Australia. Sir T. Mitchell [P.]. 
+(I Ad. sk. Australia. Sir T. Mitchell [P.]. 
 e. Ad. sk. Australia. E. Brown, Esq. [P.]. 
 2. Mcrceca assimilis. 
 Microeca assimilis, Gould, P. Z. S. 1840, p. 172; id. B. Austr. hitr, 
@@ -11201,7 +11201,7 @@ their base; bill and feet black; iris dark brown. Total length
 5-3 inches, culmen 0*55, wing 2-95, tail 245, tarsus 0-7. 
 Hah. East Africa, Southern and South-western Africa. 
 
-a. Ad. st. Natal. Purchased. 
+a. Ad. sk. Natal. Purchased. 
 b. $ ad. sk. Natal. Dr. Gueinzius [O.]. 
 c. <$ ad. sk. Natal (T. Ayres). J. II. Gtorney, Esq. [P.], 
 (Type of spocies.) 
@@ -12728,7 +12728,7 @@ Hab. Tasmania. Mr. Ramsay (I. c.) says South Australia also.
 
 a. Ad. sk. Tasmania. J. Gould, Esq. [p.]. 
 6. Ad. sk. Tasmania. Ronald Gunn, Esq. [P.]. 
-c. Ad. st. Tasmania. Ronald Gunn, Esq. [P.J. 
+c. Ad. sk. Tasmania. Ronald Gunn, Esq. [P.J. 
 12. PRATINCOLA. 
 Type. 
 Pratincola, Koch, Syst. d. Baier. Zool. p. 190 (1816) P. rubetra. 
@@ -14983,7 +14983,7 @@ Hab. N.E. Australia and the whole of Eastern Australia to New
 
 South "Wales. 
 a. Ad. sk.
-b, c. Ad. st. 
+b, c. Ad. sk. 
 Cape York {Cockerell). 
 Australia. 
 Purchased. 
@@ -16503,7 +16503,7 @@ Hab. North Island, New Zealand.
 a. $ ad.sk. New Zealand. Antarctic Expedition [C.]. 
 b, c. 6 $ ad. sk. New Zealand (F. Strange). Capt. Stokes [P.]. 
 d. Ad. sk. New Zealand. Purchased. 
-e. Ad. st. New Zealand. New-Zealand Co. [P.]. 
+e. Ad. sk. New Zealand. New-Zealand Co. [P.]. 
 3. Miro tr aver si. 
 Miro traversi, Buller, B. N. Zeal p. 123; id. Ibis, 1874, p. 116. 
 Petroeca traversi, Hutton, Ibis, 1872, p. 245; Travers, Tr. N. Zeal. 
@@ -16863,7 +16863,7 @@ tarsus 0*75.
 
 Hal. KE . Australia. 
 
-a. Ad. st. N.E. Australia. Julius Brenchley, Esq. [P.]. 
+a. Ad. sk. N.E. Australia. Julius Brenchley, Esq. [P.]. 
 3. Pcecilodryas cinerea. 
 Pcecilodryas cinerea, Sharpe, JSotes Leyden Mus. i. no. 7, p. 25. 
 Adult female (type of species). General colour above bluish grey, 
@@ -17288,7 +17288,7 @@ wing-coverts brownish white, those along the edge of trie wing
 brown. Total length 4*6 inches, wing 2*95, tail 1*95, tarsus 0*65, 
 Hal. China and Japan, ranging into the Philippines in winter. 
 
-a. Ad. st. China. J. K. Reeves, Esq. [P.], 
+a. Ad. sk. China. J. K. Reeves, Esq. [P.], 
 b. $ ad. sk. Amoy, May 1861. J. R. Reeves, Esq. [P.]. 
 c. Ad. sk. Japan. Leiden Museum. 
 
@@ -18239,7 +18239,7 @@ inches, culmen 0*55, wing 2*75, tail 2*5, tarsus 0-85.
 
 Hab\ Island of Timor. 
 
-a. Ad. st. Timor. Purchased. 
+a. Ad. sk. Timor. Purchased. 
 b, c. c? ad. sk. E. Timor. A. E. Wallace, Esq. TO.]. 
 d, e. c? ad.; /. $ ad. sk. Semao, Timor, A. B. Wallace, Esq. [C.J. 
 YOL. IV. T 
@@ -18533,7 +18533,7 @@ Hab. "Western and Forth-eastern Africa.
 
 a. Ad. sk. River Gambia. R. B. Sharpe, Esq. 
 J. Ad. sk. Oasamance, Senegambia. M. Verreaux. 
-c. Ad. st. Oasamance, Senegambia. M. Verreaux. 
+c. Ad. sk. Oasamance, Senegambia. M. Verreaux. 
 3. Parisoma layardi. 
 Parisoma layardi, Hartlaub, Ibis, 1862, p. 3 47 * Layard, B. 8. Afr. 
 p. 115, no. 214 5 Gray, Hand-l. B. i. p. 236, no. 3413; Gurney in 
@@ -21186,7 +21186,7 @@ of B. pelsehi, and it will be interesting to compare the two species.
 45 . RHIFIDtTKA. 
 :MI 
 
-n* Ad. st. Australia. E. Doubleclav, Km I V 
+n* Ad. sk. Australia. E. Doubleclav, Km I V 
 
 b. Acl.sk Australia. J' *'' ' 
 c-> d-6 2 ad. sk. South Australia. Sir George Grey [I\ l 
@@ -21818,7 +21818,7 @@ Barnard Islands; island of Ternate.
 
 a. Juv. sk. Australia. 
 E. B. Sharpe, Esq, [P.]. 
-b. Ad. st. Australia. 
+b. Ad. sk. Australia. 
 J. Gould, Esq. [0.]. 
 c. <$ ad. sk. Barnard Islands, June 9, 1848 Capt. Stanley [P.]. 
 (J. Macgillivray). 
@@ -22100,7 +22100,7 @@ tarsus 07.
 
 Sab. Java, Borneo *. 
 
-a. Ad. st. Java. Purchased. 
+a. Ad. sk. Java. Purchased. 
 b. Ad.; o. Ad. sk. W. Java. A. R. Wallace, Esq. [C.]. 
 30. Rhipidura threnothorax. 
 Rhipidura 
@@ -22432,7 +22432,7 @@ Port
 
  I>ort
 
-^ Ad. st. Essragton. Oapt Chambers [P.]. 
+^ Ad. sk. Essragton. Oapt Chambers [P.]. 
 
 37. Ehipidura assimilis. 
 Ehipidura assimiHs, Gray, P. Z. S. 1858, p. ITS; id. B. X Guinea, 
@@ -22688,7 +22688,7 @@ p. J ad. sk. Banjerm assing. J. Motley, Esq. f0.].
 #. Ad. sk. Penang. A. R. Wallace, Esq. [C. 
 r. Ad. sk. Malacca. A. R. Wallace, Esq. [0.| 
 s. c? ad.; £. Juv. sk. Tenasserim. J.C. D.-Packman,Esq.[P.' 
-u. Ad. st. Saigon, Cochin M. E. Pierre [P.]. 
+u. Ad. sk. Saigon, Cochin M. E. Pierre [P.]. 
 v-y. Ad. sk. China. 
 44. Rhipidura nigritorquis. 
 Rhipidura nigritorquis, Vigors, P. Z. S. 1831, p. 97 ; Gray, Gen. B. 
@@ -22981,7 +22981,7 @@ Hah, India and Ceylon, extending into Sindh to the westward,
 
 and eastward through Burmah to Pegu. 
 
-a. Ad. st. Behar. B, H. Hodgson, Esq. [P.]. 
+a. Ad. sk. Behar. B, H. Hodgson, Esq. [P.]. 
 b. Ad. sk. India. 
 Zoological Society. 
 c. Ad., d. J ad. sk N.W. Himalayas. Oapt. Stackhouse Pinwill 
@@ -23073,10 +23073,10 @@ Eab. Australia, Molucca Islands, New Guinea and Am Islands,
 Solomon Islands, New Ireland. 
 
 a. Ad. sk. 
-b. Ad. st. 
+b. Ad. sk. 
 c. S ad. sk. 
 cl Ad. sk. 
-e. Ad. st. 
+e. Ad. sk. 
 / . Ad, sk. 
 g. J ad. sk. 
 h. J ad. sk. 
@@ -24660,7 +24660,7 @@ wing 2-65, tail 3*9, tarsus 0-65.
 
 Hab. "Western Africa. 
 
-ct. Ad. st. [West Africa.] 
+ct. Ad. sk. [West Africa.] 
 b. Ad. sk. Eantee. R. B. Sharpe, Esq. 
 c. Ad. sk. Biver Volta (UssJier). R. B. Sharps, Esq. 
 d,e. Ad. sk. Abeokuta. F. Nicholson, Esq. [P.], 
@@ -26383,7 +26383,7 @@ the chest mottled with circular markings of greenish ashy; under
 wing-coverts and inner margins of quills white. 
 
 Bab. Forth Australia. 
-a. Ad. st. N.E. Australia. J. Gould, Esq. 
+a. Ad. sk. N.E. Australia. J. Gould, Esq. 
 * \A T i n v i (Type of species.) 
 b. Ad.; c. Juv. sk.
 d- Ad. sk. 
@@ -27245,7 +27245,7 @@ dark horn-brown, the lower mandible paler; legs pale. Total length
 
 Bab. Himalaya Mountains. 
 
-<*• Ad. st. Nepal. B. H. Hodgson, Esq. fR l 
+<*• Ad. sk. Nepal. B. H. Hodgson, Esq. fR l 
 b-h. Ad. sk. Nepal. B. H. Hodgson, Esq. £p.j. 
 
 IB. Cryptolopha grammiceps. 
@@ -27388,7 +27388,7 @@ culmen 0-5, wing 1-9, tail 1*7, tarsus 0-8.
 
 Jlah. Eastern Himalayas. 
 
-a. Ad. st. Nepal. B. II. Hodgson, Esq. [P.]. 
+a. Ad. sk. Nepal. B. II. Hodgson, Esq. [P.]. 
 b-ff. Ad. sk. Nepal.* R H. Hodgson, Esq. [P.J. 
 59. SISURA. 
 Type. 
@@ -27457,7 +27457,7 @@ Hah. Australia, excepting the northern and western portions,
 
 and Tasmania. 
 
-a. Ad. st. Australia. J. Gould, Esq. 
+a. Ad. sk. Australia. J. Gould, Esq. 
 b. Ad. sk. Australia. J. Gould, Esq, 
 c. Ad. sk. Australia. Purchased. 
 (I, e,f. Ad. sk. Australia. Sir T. Mitchell [P.]. 
@@ -28504,7 +28504,7 @@ length 5*7 inches, culmen 0*55, wing 2*85, tail 2-7, tarsus 0*7.
 
 Hah. Louisiade archipelago and North-eastern Australia. 
 
-a. Ad. st. Louisiade Islands. J. Macgilliyrav, Esq. [0.]. 
+a. Ad. sk. Louisiade Islands. J. Macgilliyrav, Esq. [0.]. 
 5. 
 Ad. sk. Cape York, N.E. J. Gould, Esq". 
 Australia. (Type of species.) 
@@ -29015,7 +29015,7 @@ tarsus 07
 Eab. Timor group of islands ,* Sula Islands; Moluccas ; Ara 
 Islands. 
 
-a. Ad. st. Timor. 
+a. Ad. sk. Timor. 
 b. Ad. sk. East Timor, A. R. Wallace, Esq. [C.l 
 c,d. [c?$]ad. &k. Mysol. A. R. Wallace, Esq., C.t 
 <?,/. c? $ ad. sk. Aru Islands. A* R. "Wallace, Esq. [0.1. 
@@ -29340,7 +29340,7 @@ length 6 inches, culmen 045, wing 3*05, tail 2*6, tarsus 0*75.
 
 Bab. Southern India. 
 
-a. Ad. st. Madras. Dr. Jerdon [P.]. (Type 
+a. Ad. sk. Madras. Dr. Jerdon [P.]. (Type 
 of species.) 
 b. Ad. sk. Madras. Dr. Jerdon. 
 3. Stoparola concreta. 
@@ -30834,7 +30834,7 @@ olive-greenish shade on the sides of the body.
 Hab. Eastern Himalayas; hills of Aracan; Naga hills; Karen 
 hills in Burmah. 
 
-a. Ad. st. Nepal. B. II. Hodgson, Esq. \VX 
+a. Ad. sk. Nepal. B. II. Hodgson, Esq. \VX 
 b, c. Ad. sk. Nepal. B. II. Hodgson, Esq. [P.]. 
 d. Ad. sk. Darjiling. J. Fotheringliam, Esq. [Q.]. 
 e. Ad. sk. Darjiling. Oapt. 0. II. T. Marshall [P.], 

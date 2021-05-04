@@ -1216,8 +1216,8 @@ and feet red (?). Total length about 28 inches, wing about 19, tail 9,
 
 culmen 1'5, tarsus 4-4. 
 Bab. Venezuela and Colombia. 
-a. Ad. st. [Jamaica.] Zool. Soc. 
-b. Ad. st. Cartagena^ Venezuela. Zool. Soc. 
+a. Ad. sk. [Jamaica.] Zool. Soc. 
+b. Ad. sk. Cartagena^ Venezuela. Zool. Soc. 
 c. Jad.sk . Cartagena (Zool. Soc). Salvin-Godman Coll. 
 d. J ad. skeleton. Cartagena. Salvin-Godman Coll. 
 e. Bones of the trunk. Zool. Soc. 
@@ -1561,7 +1561,7 @@ has evident signs of having been kept in captivity, and one of the
 tarsi was amputated while the bird was alive. The locality Gaboon, 
 attributed to this bird, is evidently wrong. 
 
-a. Ad. st. No locality. 
+a. Ad. sk. No locality. 
 Purchased. 
 b. Ad. sk. Inagua, Bahamas (Maynard). Salvin-Godman Coll. 
 c. Juv. sk. Northern Yucatan (E. C. J.' Sahin-Uodman Coll 
@@ -1816,7 +1816,7 @@ Hah. From the basin of the Mediterranean to Lake Baikal; the
 
 whole of Africa, India, and Ceylon. 
 
-a Ad. st. Europe. Gen. T. Hardwicke 
+a Ad. sk. Europe. Gen. T. Hardwicke 
 ac]
 e 
 Ad. st. 
@@ -1826,7 +1826,7 @@ Europe. Purchased.
 Purchased. 
 Zool. Soc. 
 f Ad. sk Marshes of Seville. The Comte de Paris 
-g, h. Ad. st. Guadalquivir. Lord Lilford [P.]. 
+g, h. Ad. sk. Guadalquivir. Lord Lilford [P.]. 
 
 PIKENICOPTEKHLE. 
 
@@ -1846,7 +1846,7 @@ Port Said, Aug., April.
 Herr Henke [P.]. 
 Sheliev Coll. 
 Lord Lilford [P.]. 
-p-u. Ad. st. Lake Mensaleh. J. W. H. Cuninghame 
+p-u. Ad. sk. Lake Mensaleh. J. W. H. Cuninghame 
 [P.]. 
 v. Juv. sk. Near Suakim. Capt. R. BL. Penton 
 ?o. Juv. sk. Cape. 
@@ -1888,7 +1888,7 @@ Hume Coll.
 t'. Ad. sk. Mynpoorie, Feb. Hume Coll. 
 «'. Ad. sk. Nasseerabad, Sept. Major Yerburv [P 1 
 v'. Ad. sk. 
-to'. Ad. st. 
+to'. Ad. sk. 
 A*'. Juv. sk. 
 Madras. 
 Deccan (Sykes). 
@@ -2168,7 +2168,7 @@ Hah. Southern Africa, north to Shoa and Abyssinia on the east,
 to Senegal (?) on the west; Madagascar; and North-western 
 India. 
 
-a. Ad. st. Africa. ^ J. Gould, Esq. [P.], 
+a. Ad. sk. Africa. ^ J. Gould, Esq. [P.], 
 b. Ad. sk. Lake Elmetaita, E. Africa, Dr. J. W. Gregory 
 5880 feet. [P.]. 
 c. Ad. sk. Deccan (H. W. Feilden). Tweeddale Coll. 
@@ -2681,9 +2681,9 @@ occasionally strays to Greenland*
 29 
 
 a. Juv St. Europe. Purchased. 
-b, c. Ad. st. Hayling- Island. 
+b, c. Ad. sk. Hayling- Island. 
 J.B. Tyndale,Esq. [P.]. 
-d. Ad. st. "Wiltshire. 
+d. Ad. sk. "Wiltshire. 
 Montagu ColL 
 
 e, f. Ad, [heads]. Pagham Harbour, Sus
@@ -2860,7 +2860,7 @@ It is not known to occur in Iceland.
 a. Ad. sk. Gt. Britain. Yarrell Coll. (Type 
 of the species.) 
 5. Ad. st Gt. Britain. 
-c. Ad. st. Gt. Britain. A. D. Bartlett. Esq. 
+c. Ad. sk. Gt. Britain. A. D. Bartlett. Esq. 
 [C.]. 
 d. Ad. [head and Whittlesea. Salvin-Godman Coll. 
 legs]. 
@@ -2872,7 +2872,7 @@ legs].
 g. 
 Ad. sk. Ningpo, China, Dec. (B. 8win» Seebohm Coll. 
 hoe), 
-h. Ad. st. Amoy, China. Purchased. 
+h. Ad. sk. Amoy, China. Purchased. 
 i. 
 <$ juv. sk Possiette Bay (Toy. of H.It.M. Prof. Giglioli [P.].* 
 Ship'VettorPisani'). 
@@ -2985,8 +2985,8 @@ at the tip; feet dull yellowish flesh-colour or greyish.
 Hah. The whole of North America, breeding far north; accidental 
 in Scotland. 
 
-a. Ad. st. N. America. J. Richardson, Esq. [P.], 
-b. Ad. st. Northern Exped. The Admiralty [P.]. 
+a. Ad. sk. N. America. J. Richardson, Esq. [P.], 
+b. Ad. sk. Northern Exped. The Admiralty [P.]. 
 c. <$ ad. sk. Corpus Ohristi, Texas, Oct. (F. Salvin-Grodrnan Coll. 
 B. Armstrong). 
 4. Cygnus buccinator. 
@@ -3314,9 +3314,9 @@ of the Caspian, to Turkestan and Mongolia; winters in the
 southern portions of the Caspian, occasionally in the extreme northwest 
 of India, and in the basin of the Mediterranean. 
 
-a. Ad. st. Nairn, N.B. (immidabilis). Duncan Baillie, Esq. PP.]* 
+a. Ad. sk. Nairn, N.B. (immidabilis). Duncan Baillie, Esq. PP.]* 
 b. Juv. sk. Achill Is., Ireland. J. E. Sheridan, Esq. [P.J. 
-c. Ad. st. Gtt Britain. Dr. Dowler [PJ. 
+c. Ad. sk. Gtt Britain. Dr. Dowler [PJ. 
 d. 
 Imm. st. Marshes near Horning, M. C. Cooke, Esq. [P.], 
 Norfolk (immutabilis). 
@@ -3454,7 +3454,7 @@ tinge. (Stejneger.)
 Hah. Southern Brazil, Paraguay, Uruguay, Argentine Bepublie, 
 Chili, Patagonia, and Falkland Islands. 
 
-uy b. Ad. st. Chili. 
+uy b. Ad. sk. Chili. 
 Zool. Soc. 
 
 c. Pull. st. Chili. Purchased. 
@@ -3465,8 +3465,8 @@ c? imm. sk. Hugh Bay, W. coast of Voy. H.M.S. < Alert.'
 Patagonia, Dec. (Coppinger). 
 
 
-g. Ad. st. Str. of Magellan. The Admiralty [P.]. 
-h. Ad. st. Str. of Magellan. Sir W. Burnett & Capt. 
+g. Ad. sk. Str. of Magellan. The Admiralty [P.]. 
+h. Ad. sk. Str. of Magellan. Sir W. Burnett & Capt. 
 Fitzroy [P.]. 
 *. Ad. sk. Falkland Is. (Leconte). Salvin-Godman Coll. 
 
@@ -3569,7 +3569,7 @@ greyish also on the underparts.
 
 Hal. Australia, except the northern part, and Tasmania. 
 
-a. Ad. st. Australia. Purchased. 
+a. Ad. sk. Australia. Purchased. 
 b. Ad. st.
 c. Ad. sk. 
 Australia. 
@@ -3684,10 +3684,10 @@ Hah. Paraguay, Uruguay, Argentina, Chili, Patagonia, and Falk
 
 
 land Islands. 
-a. Ad. st. S. America. Dr. Robertson, R.N. [P.]. 
+a. Ad. sk. S. America. Dr. Robertson, R.N. [P.]. 
 5. Ad. sk. Southern S. America Eyton Coll. (Type of 
 (Capt. King). Cygnus anatoides, King.) 
-e. Ad. st. Chili. 
+e. Ad. sk. Chili. 
 d. S ad. sk. Chili, Feb. Purchased. 
 e. Ad. sk.
 / . $ ad. sk.
@@ -3784,12 +3784,12 @@ scarcely any.
 
 Eab. Australia and Tasmania. 
 
-a. Ad. st. Australia. Purchased. 
+a. Ad. sk. Australia. Purchased. 
 b. Imm. sk. Australia. Salvin-Godman Coll. 
 c. $ ad. sk. Port Essington. J. B. Jukes, Esq. [P.]. 
 d. Ad. sk. N. S. Wales. Hume Coll. 
-e. Ad. st. Murray E. Sir G. Grey (T.l 
-/ . Ad. st. S. Australia. Sir G. Grey [P.]. 
+e. Ad. sk. Murray E. Sir G. Grey (T.l 
+/ . Ad. sk. S. Australia. Sir G. Grey [P.]. 
 g. Skeleton. S. Australia. Zool. Soc. 
 h. Skeleton. Salvin-Godman Coll. 
 i, h. Skeletons. 
@@ -4062,7 +4062,7 @@ white.
 
 Hal. Western Africa and across to the East, from Masai-land to 
 the Zambesi. 
-,a. Ad. st. Africa. 
+,a. Ad. sk. Africa. 
 
 b. Imm. st. W. Africa. 
 Capt. Sabine [P.]. 
@@ -5085,12 +5085,12 @@ of the Ganges and west of the Brahmaputra, are its headquarters
 
 (Hume). 
 
-a. Ad. st. N. India. 
+a. Ad. sk. N. India. 
 Colonel Cobb [C.l. 
 b. 
 Juv. st. Nepal. B. H. Hodgson, Esq. 
 [P.]. 
-c. Ad. st. Bootan. 
+c. Ad. sk. Bootan. 
 India Museum [P.], 
 d. 
 Ad. st. Bootan (Pemberton). India Museum [P.J. 
@@ -6476,7 +6476,7 @@ sides of the rump.
 
 Hab. Victoria, S. Australia, and Tasmania. 
 
-a, b. Ad. st. 
+a, b. Ad. sk. 
 Zoological Society. 
 
 c. Ad. sk. Australia. Salvin-Godman (?oll. 
@@ -6717,7 +6717,7 @@ in winter, through the Mississippi Valley to the Gulf Coast; occasional
 on Atlantic coast (Bidgway), in Bahama (Bryant), and Cuba 
 (Gundlach). 
 
-a. Ad. st. N. America. 
+a. Ad. sk. N. America. 
 b. 
 Ad. sk. N. America. H. J. Elwes, Esq. 
 [P.]. 
@@ -7014,9 +7014,9 @@ of the upper parts deeper greyish ; bill and feet dusky.
 Hah. Interior of Arctic America in summer, migrating south in 
 winter to Southern California, and eastward to Montana. 
 
-a. Ad. st. California. 
+a. Ad. sk. California. 
 Purchased. 
-h. Ad. st. San Joaquin Fall, California. Hr. Gruber [C.]. 
+h. Ad. sk. San Joaquin Fall, California. Hr. Gruber [C.]. 
 2 a(^ et
 
 e, d, e. San Francisco, Calif ornia,winter Salvin-Godman Coll 
@@ -7193,10 +7193,10 @@ colour of the shoulders and rump, and flesh-colour of the bill and legs.
 Hah. Western Palsearctic region. 
 
 a. Ad. sk. Great Britain. 
-b. Ad. st. Great Britain. Purchased. 
-c. d. Ad. st. Norfolk. 
+b. Ad. sk. Great Britain. Purchased. 
+c. d. Ad. sk. Norfolk. 
 Purchased. 
-e. Ad. st. Blackwater R., Essex. F. Bond, Esq. [P.], 
+e. Ad. sk. Blackwater R., Essex. F. Bond, Esq. [P.], 
 f. 5 ad. sk. Tromso, Norway, June. Seebohm Coll. 
 g. Pull. sk. Bodo, Norway. Salvin-Godman Coll. 
 h. 
@@ -7266,7 +7266,7 @@ a.
 $ ad. sk. Sassvk-Ala Kul, Turkestan, Dr. Otto Finsch [C.~. 
 May. 
 h. Imm. sk. Kashgar, Feb. {Forsyth). India Museum [P.]. 
-r, d. Ad. st. India. Purchased. 
+r, d. Ad. sk. India. Purchased. 
 e, f. Ad. et imm. India. Colonel Cobb TCI 
 'sk. 
 
@@ -7700,12 +7700,12 @@ Hah. Northern America (except Greenland), migrating south as
 far as Mexico and Cuba, and along the E. Asiatic coast to Japan. 
 
 a. $ ad. sk. N. America. Salvin-Godman Coll. 
-b. Ad. st. Arctic iVinerica. Oapt. Back [P.]. 
+b. Ad. sk. Arctic iVinerica. Oapt. Back [P.]. 
 c. 
 Head. Arctic coast, E. of Ft. AnderSalvin-
 Godraan Coll, 
 son, July (McFarlane). 
-d. Ad. st. Repulse Bay. Dr. Bae [P.]. 
+d. Ad. sk. Repulse Bay. Dr. Bae [P.]. 
 e. $ 
 ad. sk. Brownsville, Texas, Feb. (JF. Salvin-Godman Coll. 
 B.Armstrong). 
@@ -7714,7 +7714,7 @@ B.Armstrong).
 g. Ad. sk. N.W. America. Capt. Collinson "P.J. 
 h-m. $imm., juv., St. Michael's, Alaska, June, Salvin-Godman Coll. 
 et pull. sk. Aug. (E. W. Nelson). 
-7i. Ad. st. Japan. Purchased. 
+7i. Ad. sk. Japan. Purchased. 
 
 o. Ad. sk. 
 Seebohm Coll. 
@@ -8118,7 +8118,7 @@ Bah. Eastern Siberia, from Boganida eastwards; in winter China
 and Japan. 
 
 a. $ ad. sk, Tunka, Amoor-land, May (G. Radde). Seebohm Coll. 
-b. Ad. st. E. Siberia. " J. F. Brandt [P.]. 
+b. Ad. sk. E. Siberia. " J. F. Brandt [P.]. 
 e. 
 Ad. sk. Chinkiang, China, Feb. F. W. Styan, Esq. 
 [P.]. 
@@ -8204,13 +8204,13 @@ Land; during the migration and in winter in F.W. Europe; occasionally
 it strays to Germany, Belgium, and Erance; its alleged 
 occurrence in India requires further evidence. 
 
-a. Ad. st. Great Britain (A. D. Bartlett). Purchased. 
+a. Ad. sk. Great Britain (A. D. Bartlett). Purchased. 
 (Probable type of Anser phoenicopus, Bartl.) 
-b} c, d. Ad. st. 
+b} c, d. Ad. sk. 
 e. $ ad. sk. 
 / . $ ad. sk. 
 g. Ad. sk. 
-7*. Ad. st. 
+7*. Ad. sk. 
 i~m. S ? ad. sk. 
 n. (S ad., skel. 
 o. Skeleton. 
@@ -8338,8 +8338,8 @@ India (Jerdon).
 a, b. J ad. sk. Koko-nor, March (Prjeval-H. Seebohm, Esq. 
 sky). [P.]. 
 
-c. Ad. st. N. India. Col. Cobb's Coll. 
-d. Ad. st. India. Hardwicke Beq. 
+c. Ad. sk. N. India. Col. Cobb's Coll. 
+d. Ad. sk. India. Hardwicke Beq. 
 e,f. Ad. sk. N.W. India. Capt. S. Pinwill [P.]. 
 q. Ad. sk. Ladak (Strachey). India Museum [P.], 
 /*. Ad. sk. Kumaon (Strachey). India Museum [P.J. 
@@ -8519,10 +8519,10 @@ Sioinhoe).
 d. S ad. sk. Shanghai, Nov. (B. Sivinhoe). II. J. Elwes, Esq. 
 [P.]. 
 e. Ad. sk. Yokohama, Japan (Owston). Capt. Blakiston [P.], 
-/ , g. Ad. st. et Zool. Garden. 
+/ , g. Ad. sk. et Zool. Garden. 
 pull. (dom. 
 var.). 
-h. Ad. st. Liphook, Hants (dom. var.). T. Butler, Esq. [P.]. 
+h. Ad. sk. Liphook, Hants (dom. var.). T. Butler, Esq. [P.]. 
 i. Skeleton Eyton Coll. 
 (dom. var.). 
 h. Skeleton 
@@ -8624,7 +8624,7 @@ and coast of N.E. Asia, west as far as the Tschuktschi Peninsula
 
 (Nordenskibld). 
 
-a. Ad. st. Aleutian Is. Purchased. 
+a. Ad. sk. Aleutian Is. Purchased. 
 b. c? ad.sk. Alaska. Salvin-Godman Coll. 
 18 . BEANTA. m 
 c-f. S $ ad. et $ Yukon Delta, Alaska, May, Salvin-Godman Coll. 
@@ -9002,7 +9002,7 @@ Eab. " Forth-west coast of America; north to Sitka; south in
 winter to California " (Bidgway). 
 
 (Branta canadensis; B. hutchinsi; B. occidentalis.) 
-a, b. Ad. st. N. America. Purchased. 
+a, b. Ad. sk. N. America. Purchased. 
 c, d. Ad. sk. Brit. Columbia (J. K, Lord). N. America Boundary 
 
 Comm. [P.]. 
@@ -9019,10 +9019,10 @@ g.ft,i. $ ad. et W. side Rocky Mts. J. K. Lord, Esq. [P.],
 /.'He iead. Arctic America (P. MacFar-Salvin-Godman Colt 
 lane). 
 
-m. Ad. st. North Land Exped. Sir G. Back [P.]. 
+m. Ad. sk. North Land Exped. Sir G. Back [P.]. 
 n. Ad. sk. Hudson Bay. 
 Capt. D. Herd [P.]. 
-o. Ad. st. Repulse Bay, Hudson Bay. Br. Rae [P.]. 
+o. Ad. sk. Repulse Bay, Hudson Bay. Br. Rae [P.]. 
 p-~v. cf $ ad et Corpus Christi, Texas, Nov. (F. Salvin-Godman Coll, 
 3 juv. sk. B. Armstrong). 
 
@@ -9032,7 +9032,7 @@ y. Pull. sk. British Isles.
 H.J.Elwes,Esq.[P.l 
 z. Ad. sk. Dorsetshire. 
 Mrs.E. Goolden[P.], 
-a', b'. Ad. st. Cumberland. 
+a', b'. Ad. sk. Cumberland. 
 Purchased. 
 
 <f. Pull. st. 
@@ -9243,9 +9243,9 @@ Holland, England, and Northern Erance; seldom straggling to
 Central and Southern Europe; casually on the Atlantic coast of 
 North America. 
 
-a. Ad. st. - Great Britain. Purchased. 
+a. Ad. sk. - Great Britain. Purchased. 
 b, c. <$ J ad. st. Cumberland, Purchased. 
-d. Ad. st. Devonshire. Col. Montagu Coll. 
+d. Ad. sk. Devonshire. Col. Montagu Coll. 
 e. Pull. st. Purchased. 
 f-h. $ $ ad. sk. Holland. H. J. Pike, Esq. [P.], 
 i. 5 ad. skeleton. Holland. H. J. Pike, Esq. [P.]. 
@@ -9610,7 +9610,7 @@ Ad. st. St. Juan de Fuca, Vancouver Capt. Kellett and
 Isl. Lieut. Wood [P.]. 
 
 g. Ad. sk. Arctic Exped. Capt. Collinson HP.]. 
-k Ad. st. N.W. America. Capt. Collinson [P.]. 
+k Ad. sk. N.W. America. Capt. Collinson [P.]. 
 i. S 
 ad. st. Pt. Barrow, Alaska, June (A. Salvin-Godman Coll. 
 K Dark). 
@@ -9750,7 +9750,7 @@ Lenkoran, Jan. (Berike).
 Dr. 0. Finsch [C.]. 
 Seebohni Coll. 
 d. 2 ad. st.
-e. Ad. st. 
+e. Ad. sk. 
 Europe (Holland ?). 
 Berwick. 
 Zoological Society, 
@@ -9993,7 +9993,7 @@ dark brown; " beak black " (Eahmer).
 Hal. Western South America, from Peru and Bolivia to Magellan 
 Strait; seen also at Punta Arenas (Giglioli). 
 
->a. Ad. st. S. America. 
+>a. Ad. sk. S. America. 
 Purchased. 
 
 b. Ad. sk. Peru; June (Jelshi). "Warsaw Museum 
@@ -10004,12 +10004,12 @@ d.
 Ad. sk. Chili. Eyton's Coll. [One of 
 the types of the 
 species.] 
-e. Ad. st. Chili. 
+e. Ad. sk. Chili. 
 T. C. Bridges, Esq.. 
 [0.]. 
-/ . Ad. st. Chili. Purchased. 
+/ . Ad. sk. Chili. Purchased. 
 
-g. Ad. st. Lake Titicaca, Chili. M. Pentland, Esq. 
+g. Ad. sk. Lake Titicaca, Chili. M. Pentland, Esq. 
 [C.]. 
 
 k. 
@@ -10612,7 +10612,7 @@ Hah. Patagonia and Chiloe Island, where it breeds; Southern
 Chili and Southern Argentine in winter; rarely in the Falkland 
 Islands. 
 
-a. Ad. st. No locality. John Barrow, Esq. 
+a. Ad. sk. No locality. John Barrow, Esq. 
 b. (S ad. sk. 
 c. Ad. sk. 
 d. Ad. sk. 
@@ -11308,7 +11308,7 @@ Hal. West Indies, South America as far south as Argentine
 
 Republic, Africa south of the Sahara, and Madagascar. 
 
-a. Ad. st. No locality. 
+a. Ad. sk. No locality. 
 Zoological Society. 
 American specimens. 
 
@@ -11375,7 +11375,7 @@ u. Ad.sk. Benue R.
 Capt. Mochler Ferryman 
 [P.], 
 
-2>, w. Ad. st. et Lake Tchad. 
+2>, w. Ad. sk. et Lake Tchad. 
 
 Major Denham [P.]. 
 
@@ -11601,7 +11601,7 @@ Mexico), and then from Venezuela and Peru to Argentine Eepublic;
 Africa south of the Sahara, and Madagascar; Asia, the greater 
 part of India and Burmah. 
 
-a. Ad. st. No locality (Massena Coll.). E. Wilson, Esq. [P.], 
+a. Ad. sk. No locality (Massena Coll.). E. Wilson, Esq. [P.], 
 American specimens. 
 
 b. S ad. sk. Galveston, Texas, June (H. JEJ.Salvin-Godman Coll. 
@@ -11813,7 +11813,7 @@ Hab. Philippines, Celebes, Borneo, Java, Timor, Sumba, Moluccas,
 
 [New Guinea, Australia, New Caledonia, and Fiji Islands. 
 
-a, b. Ad. st. Manilla, Philippine Is. Cuming Coll. (Type 
+a, b. Ad. sk. Manilla, Philippine Is. Cuming Coll. (Type 
 of Dendrocygna vagans, Eyton.) 
 c, 5 juv. gk' Catbalogan, Samar, April. E. L. Moseley, Esq. 
 [0.]. 
@@ -12260,9 +12260,9 @@ w3. Ad. sk.
 x3. Ad. sk. 
 y3. Ad. sk. 
 
-s3. Ad. st. 
+s3. Ad. sk. 
 a4. 2 ad. sk. 
-bK Ad. st. 
+bK Ad. sk. 
 
 
 Loo-chco Is., Aug. (H. 
@@ -12515,10 +12515,10 @@ chestnut as in D. autumnalis. Wing 9* 10-9*30 inches, culmen
 Hah. Colombia, Guiana, with Trinidad Island, Ecuador, Eastern 
 Peru, and Brazil. 
 
-a. Ad. st. S. America. 
+a. Ad. sk. S. America. 
 b, c. Ad. efc juv. Balzar Mts., Ecuador (filing- Salvin-Godman Coll. 
 sk. worth). 
-d, e. Ad. st. British Guiana. Sir E.. Schomburgk 
+d, e. Ad. sk. British Guiana. Sir E.. Schomburgk 
 [p.]. 
 fiff* d $ ad.sk. B.Bupurumi, British Guiana, Salvin-Godman Coll. 
 May#(J21 Whitely). m 
@@ -12637,7 +12637,7 @@ M2
 
 164 ANATIJX2E. 
 
-#. Ad. st. Jamaica. Purchased. 
+#. Ad. sk. Jamaica. Purchased. 
 
 h. <$ ad. sk. Cuba. Salvin-Godman ColL 
 c. Pull. sk. Virgin Gorda, W. L, Dec Salvin-Godman Coll. 
@@ -12717,7 +12717,7 @@ elongated and lanceolated (ScMegel).
 
 Hah. Mindanao, Celebes, Moluccas, and New Guinea. 
 
-a. Ad. st. [Sumatra.] 
+a. Ad. sk. [Sumatra.] 
 Purchased. 
 b. $ ad. st. Celebes. 
 Wallace Coll. ) 
@@ -12804,12 +12804,12 @@ J 9 ad. sk. INT.W. Australia, March, May. J. R. Elsey, Esq.
 
 
 n. 3 ad. sk. Port Essington. J. B. Jukes, Esq. 
-o. Ad. st. Port Essington. Dr. Sibbald [P.]. 
-p. Ad. st. New South Wales. Australian Museum 
+o. Ad. sk. Port Essington. Dr. Sibbald [P.]. 
+p. Ad. sk. New South Wales. Australian Museum 
 Cp-J; 
 
 q, r. Ad. sk. South Australia, Jan. Capt. Sturt [P.]. 
-$, t Ad. st. South Australia. C. D. E. Eortnur% 
+$, t Ad. sk. South Australia. C. D. E. Eortnur% 
 Esq. [P.]. 
 
 24. CHENALOPEX. _ 
@@ -12993,9 +12993,9 @@ Dr. Einsch, paler, and with the pectoral maroon patch smaller.
 Hob. Africa and Palestine. 
 
 a. Pull. st. [Bred in captivity.] A. D. Bartlett, Esq. 
-b. Ad. st. Ochtertire, Stirlingshire. Sir D. Dundas [P.]. 
+b. Ad. sk. Ochtertire, Stirlingshire. Sir D. Dundas [P.]. 
 e. $ ad. st. River Tweed, April 4. 
-d. Ad. st. Kiver Tweed. Purchased. 
+d. Ad. sk. Kiver Tweed. Purchased. 
 e. Ad. sk. Egypt. W. B. T. Turnbull, 
 Esq. [P.]. 
 / . 
@@ -13333,7 +13333,7 @@ a. Ad. sk. No locality. Mrs. Wakeling [P.].
 b. Ad. sk. No locality. "W. T. Blanford, Esq. [P.]. 
 c. Pull. sk. No locality. Salvin-Godman Coll. 
 d. Pull. sk. No locality. Gould Coll. 
-e. Ad. st. Gt. Britain. Gould Coll. 
+e. Ad. sk. Gt. Britain. Gould Coll. 
 f. <S ad. sk. North Uist, Hebrides, H. J. Elwes, Esq. [P.]. 
 July (M. J. K). 
 g, h. <5 $ juv. sk. St. Andrew's, N. ScotJ. 
@@ -13372,7 +13372,7 @@ d. <$ imm. sk. fiheema, Etawah, Dec. Seebohm Coll.
 d). Imm.' sk. Etawah. Hume Coll. 
 e',f. $ ad. et Oudh, Jan. Hume Coll. 
 2 juv. sk. 
-g\ Ad. st. Nepal. B.H.Hodgson, Esq. [P.]. 
+g\ Ad. sk. Nepal. B.H.Hodgson, Esq. [P.]. 
 h'7 i'. (S imm. sk. Sultanpur, Gurgaon, Hume Coll. 
 Nov.(PF.2V. Chill). 
 h\ S imm. sk. Mohungunj, Jan. (G. Hume Coll. 
@@ -13514,15 +13514,15 @@ Laut,Sept. (BE. O.F.).
 m. d ad. sk. New Guinea. H. J. Elwes, Esq. [P.]. 
 n. <S ad. sk. Nekoora, S.E. New Tweeddale .Coll.; 
 Guinea, Dec. 
-o. Ad. st. Australia. Major-Gen. Hardwicke 
+o. Ad. sk. Australia. Major-Gen. Hardwicke 
 [P.]. 
-p. Ad. st. Australia. Lady Carrington [P.]. 
+p. Ad. sk. Australia. Lady Carrington [P.]. 
 q, r. Ad. sk. Australia (Cocherell $ Salvin-Godman Coll. 
 Thorpe). 
 
 26. CASA.RCA. 
 177 
-s, t. Ad. st. Port Essington. Capt. W. Chambers [P.], 
+s, t. Ad. sk. Port Essington. Capt. W. Chambers [P.], 
 u, v. Ad. sk. Queensland. Hume Coll. 
 
 w. d ad. sk. Moreton Bay. E. Hargitt, Esq. [P.]. 
@@ -13806,9 +13806,9 @@ sk.
 s, £. £ ad. sk. 
 
 M. $ ad. sk. 
-v. Ad. st. 
+v. Ad. sk. 
 w. S a.d. sk. 
-#, y. Ad. st. 
+#, y. Ad. sk. 
 s-c'. c? ad. et juv. 
 #. Ad. sk. 
 e'. 2 ad. sk/'. 
@@ -15099,7 +15099,7 @@ s\ Pull. sk. No locality. J. H. Gurney, Esq.
 (domestic). 
 t\ d ad. st. Great Britain. Purchased. 
 (dark). 
-u\ Ad. st. Lincolnshire Fens. J. Dash wood, Esq. 
+u\ Ad. sk. Lincolnshire Fens. J. Dash wood, Esq. 
 (melanistic). 
 v*. tf ad. sk. Lilford Aviaries, Nov. The Hon. Lord Lilford 
 [P.]. 
@@ -15107,7 +15107,7 @@ v*. tf ad. sk. Lilford Aviaries, Nov. The Hon. Lord Lilford
 
 pp.]. ^ 
 
-#4. Ad. st. China. Purchased. 
+#4. Ad. sk. China. Purchased. 
 y\ %K Ad. sk. 
 
 
@@ -15361,7 +15361,7 @@ feathers of the lower parts.
 Hah. Madagascar. 
 
 
-a. Ad. st. Madagascar. 
+a. Ad. sk. Madagascar. 
 P. L. Sclater, Esq.. 
 [P.]- (Type of 
 species.) 
@@ -15480,9 +15480,9 @@ United States to Hudson's Bay and Labrador; western and southern
 limits imperfectly determined; Bermudas. 
 
 a. Pull. st. No locality. 
-b. Ad. st. N. America. 
+b. Ad. sk. N. America. 
 Purchased. 
-o. Ad. st. N. America. J. J. Audubon, Esq. 
+o. Ad. sk. N. America. J. J. Audubon, Esq. 
 [P.]. 
 d. <$ ad. sk. New Brunswick, Sept. Capt S. G. Reid [P.l 
 e. Ad. sk. Halifax, Nova Scotia. Oapt. S. G. Reid [P.]. 
@@ -15857,7 +15857,7 @@ g} 7i, I Ad. sk. et E. Timor. A. R.Wallace, Esq.. [C.].
 
 St. 
 
-Jc. Ad. st. Australia. Lady Carringtou [P.l. 
+Jc. Ad. sk. Australia. Lady Carringtou [P.l. 
 /. Ad.sk. Australia. Sir G. Grey [P.]. 
 m, d1 ad. sk. Australia. H. J. Elwes, Esq. [P.], 
 n, o. Ad. sk, Australia (Cockerell fy Salvin-Godman Coll. 
@@ -15870,7 +15870,7 @@ Ad. sk. W. Australia. Governor of W. Australia
 q. 5 ad. sk. Port Essington. J. B. Jukes, Esq. [P.l 
 r. Ad. sk. Melbourne. Tweeddale Coll. 
 8, <$ ad. sk. Tasmania. Antarctic Exp. [C.l 
-t Ad. st. Tasmania. R Gunn, Esq. f P.l 
+t Ad. sk. Tasmania. R Gunn, Esq. f P.l 
 u. Ad. sk. New Zealand. Sir G. Grey pp.]. 
 v, w, x. Ad. sk. New Zealand. Antarctic Exp. I C.l 
 y. 
@@ -15886,7 +15886,7 @@ J acl. sk. Ovalau, Fiji, Nov. (U. L. Tweeddale Coll.
 Lay ord). 
 g'. $ ad. sk. Tongatabu, Friendly L, Dr. Coppinger [P.]. 
 Nov. 
-h'. Ad. st. Navigator Is. Gould Coll. 
+h'. Ad. sk. Navigator Is. Gould Coll. 
 i'. Ad. sk. Navigator Is. Pev. J. B. Stair [P.]. 
 k'. Ad. sk Samoa. Kev. J. Whitmee [P.l. 
 
@@ -16046,13 +16046,13 @@ Maninur (A. O. JET.). Hume Coll.
 h% i'. Ad. sk. 
 
 
-Jc', I'. Ad. st. Gwalior. 
+Jc', I'. Ad. sk. Gwalior. 
 C. Maries, Esq. [P.]. 
 
 
 m'9n\o\ Ad.sk. Deccan (SyTces). India Museum [P.], 
 p'. JUV. sk. Shan States. E. W. Oates, Esq. [P.]. 
-q'. Ad. st. [Himalayas.] Gould Coll. 
+q'. Ad. sk. [Himalayas.] Gould Coll. 
 
 
 r\ Juv. st. [China.] 
@@ -16069,7 +16069,7 @@ HYBEID.
 Anas pmcilorhyncha X A. boscas. 
 
 
-v'. Ad. st. [In confinement.] T. H. Powell, Esq. [P.], 
+v'. Ad. sk. [In confinement.] T. H. Powell, Esq. [P.], 
 
 13. Anas zonorhyncha. 
 Anas poecilorliyncha, Rchnb. (nee Font.) Syn. Av., Natatores, t. 111. 
@@ -16141,7 +16141,7 @@ k. Ad. sk. Canton, China. Tweeddale Coll.
 wi.Ad.sk. Yokohama, Japan (H. Fryer). Seebohm Coll. 
 n. S ad. sk. Kechi village, Tsu-shima, Seebohm Coll. 
 Feb. (P. A. Hoist), 
-o, Ad. st. Hakodadi, Japan. H. "Whitely, Esq. [C.l 
+o, Ad. sk. Hakodadi, Japan. H. "Whitely, Esq. [C.l 
 
 p. Sternum. Hakodadi, Japan. Ii. Whitely, Esq. [_C.J. 
 14. Anas undulata. 
@@ -16215,7 +16215,7 @@ Female. Similar to the male.
 Hah. South Africa, Eastern Africa as far north as Abyssinia, and 
 Western Africa as far north as Angola. 
 
-a. Ad. st. Cape of Good Hope, Sir A. Smith. (Type of 
+a. Ad. sk. Cape of Good Hope, Sir A. Smith. (Type of 
 Anasflavirostris, Smith.) 
 b, c. Ad. sk. Port Natal (T. Ay res). Shelley Coll. 
 
@@ -16232,14 +16232,14 @@ Oates). Esqrs. [P.].
 m.n. 
 <$ % ad. PalomM B., Nyassa-land, H. H. Johnston, Esq., C.B. 
 sk. Aug. (A. Whyte). [P.]. 
-o. Ad. st. Shoa (Harris). India Museum [P.], 
+o. Ad. sk. Shoa (Harris). India Museum [P.], 
 p, q. <$ ad. sk. Angollalah, May (Harris). India Museum [P.J. 
 r. tf ad. sk. Agula, Abyssinia, May. "W. T. Blanford, Esq. [C], 
 s. 
 Pull. st. Zool. Soc. 
 HYBRID. 
 Anas undulata x A. obscura. 
-t Ad. st. Zool. Soc. 
+t Ad. sk. Zool. Soc. 
 
 15. Anas sparsa. 
 Oat .
@@ -16311,7 +16311,7 @@ Ragazzi). Total length about 21 inches, wing 10*5, tail 5-5, culmen
 Female. Similar to the male, but somewhat smaller. 
 Hob. Southern and Eastern Africa, as far north as S. Abyssinia. 
 
-a. Ad. st. S. Afxica. Sir A. Smith [P.]. 
+a. Ad. sk. S. Afxica. Sir A. Smith [P.]. 
 (Type of the species.) 
 b. Ad. st.
 c. (S juv. sk.
@@ -16405,7 +16405,7 @@ Ad. sk. C. Chili. H. Berkeley James,
 Esq. [P.]. 
 e,f. <$ ad. sk. Eio Pilmacquen, Feb. H. Berkeley James, 
 Esq. [P.]. 
-g, h. Ad. st. Straits of Magellan. The Admiralty [P.]. 
+g, h. Ad. sk. Straits of Magellan. The Admiralty [P.]. 
 
 V. Juv. st. Straits of Magellan. JSir "W. Bui*nett & 
 Capt.Fitzroy[P.]. 
@@ -16517,7 +16517,7 @@ t. Ad. sk.
 Straits of Magellan. H. J. Elwes, Esq. 
 u. $ ad. sk. 
 Straits of Magellan. The Admiralty [P.]. 
-v. Ad. st. Cockle Cove, Straits of MagelDr. 
+v. Ad. sk. Cockle Cove, Straits of MagelDr. 
 Coppinger [P.], 
 i0. § ad. sk. lan, Feb. 
 x. $ ad. sk. 
@@ -16527,7 +16527,7 @@ fj ad. sk. North Bay, Hermit Is., Sept. McCormick Bequest.
 (JR. McC). 
 z. $ ad. sk. 
 North Harbour, Hermit Is. Antarctic Exp. [C.]. 
-a'. Ad. st. Falkland Is. The Admiralty [P.J. 
+a'. Ad. sk. Falkland Is. The Admiralty [P.J. 
 b\ Ad. sk. Falkland Is. Eyton Coll. 
 
 c. $ ad. sk. Falkland Is. Antarctic Exp. [C.]. 
@@ -17823,7 +17823,7 @@ pp.].
 h\ P. Skulls. 
 HYBRID. 
 Mareca jpenelojpe X Anas 
-n*. Ad. st. Great Britain. Hon. Grantley 
+n*. Ad. sk. Great Britain. Hon. Grantley 
 Berkeley [P.]. 
 
 2. Hareca americana. 
@@ -19717,12 +19717,12 @@ be not distinct, also Southern "New Guinea, Australia, New Zealand,
 and New Caledonia. 
 
 
-a. Ad. st. [Sumatra.] Purchased. 
+a. Ad. sk. [Sumatra.] Purchased. 
 b, e, d. Ad. et juv. Celebes. Tweeddale CoU. 
 sk. 
 
 
-e. Ad. st. Celebes. E. Wilson, Esq. [P.]. 
+e. Ad. sk. Celebes. E. Wilson, Esq. [P.]. 
 /. d ad. sk. Makassar. A. E. Wallace, Esq. 
 [0.]. 
 g, Ji. $ 5 ad. sk. Java (Diard). Salvin-Godman Coll. 
@@ -19997,7 +19997,7 @@ Female. Similar to the male.
 Eab. Southern Africa, northward to Angola on the "West and 
 Shoa on the East. 
 
-a. Ad. st. Cape of Good Hope. Sir A. Smith [P.]. 
+a. Ad. sk. Cape of Good Hope. Sir A. Smith [P.]. 
 I. 
 Juv. st. Cape of Good Hope. Purchased. 
 c. Ad. sk. Cape of Good Hope. Eyton Coll. 
@@ -20565,7 +20565,7 @@ m. Ad. sk. Monte Video (Johnstoii). Salvin-Godman Coll.
 n. $ ad. sk. Buenos Ayres, June. H. Dumford, Esq. 
 o, p. 3 ? ad. sk. Buenos Ayres. Alan Peel, Esq[. [P.]. 
 
-q. Ad. st. 
+q. Ad. sk. 
 Zool. Soc. 
 15. Nettion torquatum. 
 Pato collar negro, Azara, Apunt. iii. p. 452, n. 441 ($ ) (Paraguay) 
@@ -21318,8 +21318,8 @@ F . Skeleton.
 fi5. Skeleton (imperfect). 
 
 
-d\ es. Ad. st. 
-fi Ad. st. 
+d\ es. Ad. sk. 
+fi Ad. sk. 
 g\ $ ad. sk 
 
 
@@ -22083,8 +22083,8 @@ Abyssinia and Sennaar on the East; Madagascar.
 
 
 a. Ad. sk. No locality. Purchased. 
-b, c. Ad. st. Africa. Old Coll. 
-d. Ad. st. Abyssinia. Dr. Eiippell [0.]. 
+b, c. Ad. sk. Africa. Old Coll. 
+d. Ad. sk. Abyssinia. Dr. Eiippell [0.]. 
 e. J ad. sk. E. side of Kilimanjaro; June. H. 0. V. Hunter 
 Esq. [P.]. 
 f-i. d S ad, sk. Lake Shirwa, Nyassa-land, May H.H. Johnston, Esa.. 
@@ -22448,7 +22448,7 @@ Hah. Paraguay, Uruguay, Argentina, Chili, Patagonia, and Falklands
 
 «, b. $ ad. etjuv. sk.
 c. <$ ad. sk.
-d. Ad. st. 
+d. Ad. sk. 
 5 Province of Santiago, Chili 
 (Leybold). 
 Bio Bueno, Chili, Jan. 
@@ -24894,7 +24894,7 @@ m. Ad. sk.
 n, o,p. Ad. sk.
 q, r. Ad. sk.
 s. $ [head].
-t Ad. st. 
+t Ad. sk. 
 New S. Wales. 
 S. Australia. 
 S. Australia. 
@@ -25072,8 +25072,8 @@ d. S ad. sk.
 e. f. 
 Ad. et JUT. 
 sk. 
-g. Ad. st. 
-h, i. Ad. st. 
+g. Ad. sk. 
+h, i. Ad. sk. 
 k, L S $ ad. sk, 
 m9 n. Juv. sk. 
 0. Ad. sk. 
@@ -29402,7 +29402,7 @@ one species of Steamer Ducks.
 Bab. Falklands, Magellan Straits, and Chili as far north as 
 Yaldivia *. 
 
-a. Ad. st. Straits of Magellan. The Admiralty [P.]. 
+a. Ad. sk. Straits of Magellan. The Admiralty [P.]. 
 b. <$ ad. sk. Straits of Magellan, Jan. ' Challenger' Exp. 
 c J juv. sk. Messier Channel. * Challenger' Exp. 
 d, e. ? J ad. et Tom Harbour, Messier Chan' 
@@ -29426,13 +29426,13 @@ gellan, Jan.
 k. <S ad. sk. Walney Sound, Str. of MagelDr. 
 Coppinger [C]. 
 lan, Feb. 
-I Ad. st. E. Falkland Island. J. Macgillivray, Esq. 
+I Ad. sk. E. Falkland Island. J. Macgillivray, Esq. 
 
 m. Ad. sk. Falkland Islands [Eyton Coll], Salvin-Godman Coll. 
 n. Ad. sk. Falkland Islands. Tweeddale Coll. 
 o. S juv. sk. Falkland Islands. ' Challenger' Exp. 
 p, 
-q. Ad. st. et sk. S. Salvador Bay, Falkland I., The Admiralty [P.]. 
+q. Ad. sk. et sk. S. Salvador Bay, Falkland I., The Admiralty [P.]. 
 Aug, (Antarctic Exp.). 
 
 r. 
@@ -34301,7 +34301,7 @@ on the abdomen.
 Hah. Southern Africa, north to Loango on the western coast, 
 and to Shoa on the eastern; Madagascar. 
 
-a. Ad. st. Africa. 
+a. Ad. sk. Africa. 
 E. Wilson, Esq. [P.]. 
 b, c, d. 
 Ad. et S. Africa. Sir A. Smith [P.]. 
@@ -34477,7 +34477,7 @@ a. $ ad. sk. Jamaica. R. Redman, Esq, [FA
 b. 6 juv. st. Barbados* P. Gosee, Esq.L0.j. "* 
 c. 6 imm. sk. Guatemala. Salvln-Godman Coll. 
 d. Juv. sk. Veragua (ArcS), Salvio-Godaiaik Coll 
-e. Ad. st. S. America. Old Col. 
+e. Ad. sk. S. America. Old Col. 
 f,9- d $ ad* st. Cayenne. Purchased. 
 h. S ad. st. Rio Negro. Purchased. 
 i. J ad. sk. Sarayacu, Ecuador (Buckley). SaMn-Gcdmaa Coll 
@@ -35596,7 +35596,7 @@ the tail chestnut; legs and feet yellowish flesh-colour " (Potts).
 Hab. Mountain-streams of New Zealand. 
 
 a, b. Ad. sk. et st. New Zealand. New Zealand Co. [P.]. 
-<?. Ad. st. New Zealand. P. Earl, Esq. [P.]. 
+<?. Ad. sk. New Zealand. P. Earl, Esq. [P.]. 
 
 61 . 
 MEBGANETH. 
@@ -38060,7 +38060,7 @@ blackish; lower mandible paler." (BerlepscJi.)
 
 Hah. South-eastern Brazil. 
 
-a. Ad. st. Zool. Soc. 
+a. Ad. sk. Zool. Soc. 
 b. 5 ad. sk. Ytarare, Brazil, Aug. (Natterer). Salvin-Godman Coll. 
 APPENDIX. 
 
@@ -38800,7 +38800,7 @@ Guiana, Venezuela, Colombia, Peru, and
 
 Bolivia. 
 
-a. Ad. st. Venezuela. 
+a. Ad. sk. Venezuela. 
 Purchased. 
 b. $ 
 ad. sk. San Esteban, Venezuela Salvin-Godman Coll. 
@@ -38879,7 +38879,7 @@ about 16 inches, wing 9*50, tail 3*50, culmen 1*25, tarsus 2*60.
 Bab. Mexico and Central America, south to Guatemala and 
 British Honduras. 
 
-a. Ad. st. Mexico. 
+a. Ad. sk. Mexico. 
 Gould Coll. 
 b. Ad. sk. Ohoctum, Guatemala, Jan. (0. Salvin-Godman Coll. 
 Salvin). 
@@ -39222,7 +39222,7 @@ a.
 Ad. st. S. America. Gen. T. Hardwicke 
 [p.]. 
 (T. mayor, Gr., specim. a.) 
-£, c. Ad. st. & sk. Cayenne. Purchased. 
+£, c. Ad. sk. & sk. Cayenne. Purchased. 
 d, e. S § ad. sk. Camacusa, Brit. Guiana, Feb., Salvin-Godman Coll. 
 Sept. (H. Whitely). 
 
@@ -40148,10 +40148,10 @@ Paris Museum.
 Hal. Northern S. America, from Guiana to Bio Madeira and 
 Eastern Peru on the Upper Amazons. 
 
-«. Ad. st. Cayenne. 
+«. Ad. sk. Cayenne. 
 M. Cuoy Coll. 
 
-b. Ad. st. S. America (Cayenne). Old Coll. 
+b. Ad. sk. S. America (Cayenne). Old Coll. 
 c,d. 
 <$ 2 *&• sk- Takutu Biver, Brit. Guiana, Salvin-Godman Coll. 
 March, April (H. Whitely). 
@@ -40281,7 +40281,7 @@ lombia and also Peru. The Colombian birds mentioned by Schlegel
 
 probably belong to G. castanetts. 
 
-u. Ad. st. Brazil. Zool. Soc. 
+u. Ad. sk. Brazil. Zool. Soc. 
 b. Ad. sk. Brazil. M. Claussen [P.]. 
 c, d. 3 $ ad. st. Brazil (Verreaux Coll.). Purchased. 
 e. Ad. sk. Brazil? (Boucard Coll). Salvin-Godman Coll. 
@@ -40531,9 +40531,9 @@ d, e, f. $ ad. et
 
 juv. sk. 
 
-g. Ad. st. 
-h. Ad. st. 
-i. Ad. st. 
+g. Ad. sk. 
+h. Ad. sk. 
+i. Ad. sk. 
 h, I Ad. sk. 
 m. $ ad. sk. 
 n, o. Ad. sk. 
@@ -40556,7 +40556,7 @@ Bibala, Chiriqui (Arei).
 d'. $ ad, sk. 
 e'. $ ad. sk. 
 ./. $ ad. sk. 
-$', h'. Ad. st. 
+$', h'. Ad. sk. 
 
 S. America (Guiana). 
 Roraima, Brit. Guiana, Nov. 
@@ -40758,9 +40758,9 @@ there is a specimen marked Cayenne !
 
 a. Ad. sk. Paraguay. Salvin-Godman Coll. 
 b. $ ad. sk. Salta, June. H. Durnford, Esq. [P.]. 
-e. Ad. st. Bolivia. T. Bridges, Esq. f 0.1 
+e. Ad. sk. Bolivia. T. Bridges, Esq. f 0.1 
 d. Ad. sk. Brazil. Old Coll. 
-e. Ad. st. Brazil. E. Wilson, "Esq. [P.]. 
+e. Ad. sk. Brazil. E. Wilson, "Esq. [P.]. 
 / . Ad. sk. Brazil. Salvin-Godman Coll. 
 </.$(?) ad. sk. Chapada,MattoGrosso, Brazil, Salvin-Godman Coll. 
 Sept, (J5T. H. Smith), 
@@ -40932,7 +40932,7 @@ the somewhat smaller dimensions.
 Hob. Bolivia and Brazil, from Matto Grosso to Cujaba. 
 The Pigure is taken from one of the types of Tinamus radiatus. 
 
-a, b. Ad. st. Bolivia. T. Bridges [0.]. 
+a, b. Ad. sk. Bolivia. T. Bridges [0.]. 
 (Types of Tinamus radiatus, G. K. Gr.) 
 
 c. Ad. sk.
@@ -41340,7 +41340,7 @@ a.
 Ad. st. Brazil. E. Wilson, Esq. [P.]. 
 (Tinamus strigulosus, G. R. Gr. List Gallin* 
 p. 100, specim. b.) 
-b. Ad. st. Brazil ? Zool. Soc. Coll. 
+b. Ad. sk. Brazil ? Zool. Soc. Coll. 
 (Type of T. longirostris, G. R. Gr.) 
 c. cf ad. sk. Barra do Rio Negro, Brazil, Salvin-Godman Coll.^ 
 Nov. (Natterer). I 
@@ -41478,9 +41478,9 @@ July (E. W.).
 I Ad. sk. Cayenne. H. C. Rothery [P.]. 
 
 
-k. Ad. st. Brazil. 
+k. Ad. sk. Brazil. 
 Old Coll. 
-I Ad. st. Brazil. Dr. J. E. Gray [P.]. 
+I Ad. sk. Brazil. Dr. J. E. Gray [P.]. 
 -m, n. Ad. sk. Brazil. • Purchased. 
 
 o. Ad. sk. Para. R. Graham, Esq. [P.l. 
@@ -41861,7 +41861,7 @@ Hab. Southern Mexico, Central America, Colombia?, and Venezuela.
 
 a. Ad. sk. Mexico. Salvin-Godman Coll. 
 (? Type of Tinamus sallcei, Scl.) 
-b. Ad. st. Cordova, Mexico. Purchased. 
+b. Ad. sk. Cordova, Mexico. Purchased. 
 f. S ad. sk. Cote ferine, Mexico. Salvin-Godman Coll. 
 d, e. c? ad. sk. Vera Cruz, Mexico, Nov. Salvin-Godman Coll. 
 (Boucard). (Specim. d fig. in Exot. Orn. pi. xlv.) 
@@ -42307,7 +42307,7 @@ are present.
 Hob. Argentine Republic, Uruguay, Paraguay, Bolivia (?), and 
 Brazil, as far north as Bahia. 
 
-a, h, c. Ad. st. Brazil. Lord Stuart de Roth-
+a, h, c. Ad. sk. Brazil. Lord Stuart de Roth-
 et sk.
 d. Ad. sk. Interior of Bolivia (? !) 
 say [P.]. 
@@ -42374,7 +42374,7 @@ thighs are not of a very pale buff-white, but greyish buff.
 
 Bab. Bolivia. 
 
-a. Ad. st. Bolivia. T. Bridges, Eso^. [C.]. 
+a. Ad. sk. Bolivia. T. Bridges, Eso^. [C.]. 
 (Type of species.) 
 5. N0TH0PB0CTA. 
 Type. 
@@ -42639,7 +42639,7 @@ c. Pull. st. Chili. Purchased.
 d. Ad. sk. Central Chili. H. Berkeley James, Esq. [P.l 
 e,f.<$2 ad. sk. Maquehua,Ohili,Aug. H. Berkeley James, Esq. [P. . 
 g. Pull. sk. Rio BuenOj Chili, Eeb. H. Berkeley James, Esq. [P.*. 
-h. Ad. st. Valparaiso. Sir W. Burnett & Capt. Eitzroy 
+h. Ad. sk. Valparaiso. Sir W. Burnett & Capt. Eitzroy 
 t. Skeleton. Chili. Purchased. 
 4. Nothoprocta coquimbica. (Plate XY.) 
 Nothura 
@@ -42744,9 +42744,9 @@ the adult as the young of ]¥. tciczanoivslcii.
 
 Hob. Bolivia and North-western Argentine. 
 
-a. Ad. st. Andes of Bolivia. J. P. Pentland [P.l 
+a. Ad. sk. Andes of Bolivia. J. P. Pentland [P.l 
 (Type of species.) 
-b. Ad. st. Bolivian Andes. T. Bridges, Esq. [C.l. 
+b. Ad. sk. Bolivian Andes. T. Bridges, Esq. [C.l. 
 c. <$ ad. sk. Sierra de Cordova (Dr. A. Salvin-Godman Coll. 
 Doring). 
 
@@ -42836,7 +42836,7 @@ disconnected. Total length 13*5 inches, wing 7*7, culmen 1,
 tarsus 1*5. 
 Hah, Bolivia. 
 
-a, b. Ad. st. Bolivia. T. Bridges, Esq.. [P.]. 
+a, b. Ad. sk. Bolivia. T. Bridges, Esq.. [P.]. 
 (Types of species.) 
 
 558 
@@ -43040,11 +43040,11 @@ marks" (Aplin).
 
 Hob. Argentine, Paraguay, Uruguay, and Southern Brazil. 
 
-a. Ad. st. South America. Dr. J. E. Gray [P.]. 
+a. Ad. sk. South America. Dr. J. E. Gray [P.]. 
 b. § ad. sk. Ypanema, S. Brazil, Sept. Salvin-Godman Coll. 
 (batterer). 
 c. d. <5 2 ad. sk. Uruguay, July, Aug. Alan Peel, Esq. [P.]„ 
-e. Ad. st. Maldonado, Jan. (C. Darwin). Zool. Soc. ColL 
+e. Ad. sk. Maldonado, Jan. (C. Darwin). Zool. Soc. ColL 
 / . Ad. sk. Monte Video [Johnston). Salvin-Godman Coll. 
 g. J ad. sk. Buenos Ayres, Feb. ( With- Sclater Coll. 
 2. Notlrara nigroguttata. 
@@ -43082,7 +43082,7 @@ Specimen d from Cinti, mentioned below, differs from the others
 
 in being paler, especially on the neck and lower parts. 
 
-a, b, c. Ad. st. Bolivia. T. Bridges, Esq. [C.]. 
+a, b, c. Ad. sk. Bolivia. T. Bridges, Esq. [C.]. 
 (Types of species.) 
 d. Ad. sk. Ointi, Bolivia. Salvin-Godman Coll, 
 
@@ -43106,7 +43106,7 @@ Total length 9-10 inches, wing 5-Q-6, culmen 0-72-0-75, tarsus
 1-4-1-46. 
 
 Bab. Bolivia. 
-a, b. Ad. st. Bolivia. T. Bridges, Esq. [O.]. 
+a, b. Ad. sk. Bolivia. T. Bridges, Esq. [O.]. 
 (Types of species.) 
 
 5. Nothura boraquira. 
@@ -43468,7 +43468,7 @@ Falklands!
 a, b, c. Ad. etjuv. st. [Chili] Probably Mendoza *. T. Bridges, Esq. [C.]. 
 &sk. 
 
-d. Ad. st. Mendoza, Argent. Republic, Salvin-Godman Coll. 
+d. Ad. sk. Mendoza, Argent. Republic, Salvin-Godman Coll. 
 March (Burmeister). 
 e. J ad. st. Mendoza,Feb. (Weisshaiqjt). Salvin-Godman Coll. 
 f-h. 
@@ -44355,8 +44355,8 @@ The female is paler than the male.
 Hab. Bolivia and Matto Grosso, Paraguay, Uruguay, and Argentine 
 Republic; apparently also Southern E. Brazil. 
 
-a. Ad. st. S. America. Sir Robert Harvey [P.]. 
-b. Ad. st. S. America. John Tyler, Esq. [P.]. 
+a. Ad. sk. S. America. Sir Robert Harvey [P.]. 
+b. Ad. sk. S. America. John Tyler, Esq. [P.]. 
 e, d. Pull. st. S. America. Purchased. 
 e,f Pull. st. S. America. Zool. Soc. 
 g. Ad. sk. Argentine Republic. H. Durnford, Esq. [0.]. 
@@ -44429,7 +44429,7 @@ Immature birds have the plumage of a tawny brown (Fo'rhes).
 Hah. N.E. Brazil, principally the provinces of Pernambuco and 
 Bahia. 
 
-a, b. Ad. st. & skeL, tf. Brazil. Zoological Society. 
+a, b. Ad. sk. & skeL, tf. Brazil. Zoological Society. 
 (T}7pe of species.) 
 c. Ad. sk. 
 
@@ -44541,7 +44541,7 @@ the Province of Tarapaca.
 
 a-d. S ad. st. et [Chili.] T. Bridges, Esq. [C.l. 
 juv. etpull. st. 
-e. Ad. st. 
+e. Ad. sk. 
 / , g. Juv. et pull. Zool. Soc. 
 st. 
 h-l. d ad. et juv. Canchosa, Chili, Feb., April. H. Berkeley James, 
@@ -44757,7 +44757,7 @@ terminate in a broad band across the thighs " (Gould).
 Bab. Eastern Australia, from Cape York, and perhaps also from 
 Port Essington, to Yictoria ; formerly also Tasmania. 
 
-a. Ad. st. Australia. Rev. G. W. Keightley 
+a. Ad. sk. Australia. Rev. G. W. Keightley 
 [P.]. 
 b. Pull. sk.
 c. d. Pull. st. 
@@ -45125,7 +45125,7 @@ with short feathers ; casque very low ; caruncles very short; skin
 of head and neck blue, of hind neck ochreous yellow. 
 
 Bab. Ceram. 
-a. Ad. st. Purchased. 
+a. Ad. sk. Purchased. 
 b. Imm. st. Purchased. 
 c. Juv. st. Zool. Soc. 
 d. Juv. st. Lidth de Jeude Coll. 
@@ -45238,7 +45238,7 @@ Dr. Oustalet.
 Hah. "Western coast of Geelvink Bay, near the southern extremity. 
 
 
-a. Ad. st. Wandammen, Geelvink Bay, L. Laglaize [C.]. (Type 
+a. Ad. sk. Wandammen, Geelvink Bay, L. Laglaize [C.]. (Type 
 May 1876. of Casuarius altijugus, Sclat.) 
 6. Casuarius "beccarii. 
 ? Casuarius, sp., 8. Mull. Verh. Land- en Volkerik. p. 22 (Utanata, 
@@ -45509,7 +45509,7 @@ Youny. Brown, with the shafts of the feathers blackish.
 
 Hab. North-western New Guinea, from Dorei to Emberbaki. 
 
-a. Ad. st. New Guinea. Zool. Soc. (Received 20th Sept., 1871.) 
+a. Ad. sk. New Guinea. Zool. Soc. (Received 20th Sept., 1871.) 
 (Type of C. loestermanni, Selat.) 
 10. Casuarius picticollis. 
 Casuarius picticollis, Selat. Pep. Brit Assoc. 1874, p. 138; id. P. Z. S. 
@@ -45560,12 +45560,12 @@ feet horny grey; plumage black. Total length about
 55 inches, bill from gape 4*70, tarsus 9*60, claw of inner toe 4*90. 
 Hal. South-eastern New Guinea. 
 
-a. Ad. st. Discovery Bay, S.E. Zool. Soc. (Rec. 27th May, 
+a. Ad. sk. Discovery Bay, S.E. Zool. Soc. (Rec. 27th May, 
 New Guinea: 
 1874 ; died 10th Opt. 1876.) 
 (Type of species.) 
 
-b. Ad. st. S.E. New Guinea. 
+b. Ad. sk. S.E. New Guinea. 
 c. Pull. bk. Milne Bay, S.E. NewGuinea. 
 H.M.S. ' Basilisk/ 
 1875, p. 349.) 
@@ -45631,7 +45631,7 @@ neck purple-blue.
 Young in down. Rufous, with longitudinal black stripes. 
 
 Ilab. New Britain. 
-a. Ad. st. New Britain. Purchased. 
+a. Ad. sk. New Britain. Purchased. 
 b. Juv. st. New Britain. 
 c. d, e. Pull. st. Zool. Soc. 
 / . Skeleton. New Britain. Zool. Soc. 
@@ -45860,7 +45860,7 @@ Hob. South Island.
 a b. <S ad. st. & Dusky Bay, New Zealand. Capt. Stokes [P.]. 
 S sk. 
 
-e. Ad. st. New Zealand. Col. Bolton [P.]. 
+e. Ad. sk. New Zealand. Col. Bolton [P.]. 
 d. Juv. st. New Zealand. Purchased. 
 e f a. 9. ad. et New Zealand. Colonial Museum 
 JUV. [P.]. 

@@ -850,10 +850,10 @@ China.
 
 a. Ad. sk. Madras. Eev. EL H. Baber [P.]. 
 b, e. Ad. sk. Nepal. B. H. Hodgson, Esq. [P.]. 
-d. Ad. st. Nepal. B. H. Hodgson, Esq. [P.*. 
+d. Ad. sk. Nepal. B. H. Hodgson, Esq. [P.*. 
 e. Ad. sk. Behar. B. H. Hodgson, Esq. [P.l. 
-/ . Ad. st. India. Major-Gen. Hardwicke [P.j. 
-g. Ad. st. Hong-Kong. Purchased. 
+/ . Ad. sk. India. Major-Gen. Hardwicke [P.j. 
+g. Ad. sk. Hong-Kong. Purchased. 
 2. Ketupa flavipes. 
 Cultrunguis flavipes. Hodgs. J. A. S. B. v. p. 364. 
 Ketupa flavipes, Gray, Gen. B. i. p. 38; Cass. Cat. Strigida Fhilad. 
@@ -1060,7 +1060,7 @@ tail with three complete bands of tawny fulvous.
 Hab. Java, Sumatra, Borneo, and the Malayan peninsula northwards 
 to Araean. 
 
-a. Ad. st. Java. Hon. East-India Co. [?•] 
+a. Ad. sk. Java. Hon. East-India Co. [?•] 
 b. <$ ad. sk. E. Java. A. R. Wallace, Esq. '0/ 
 c. <$ ad. sk. Malacca. A. E. Wallace, Esq. 
 o: 
@@ -1515,7 +1515,7 @@ Eab. The whole of Europe and Northern Asia, ranging south into
 Northern China and the Himalayas, also occurring rarely in Northeastern 
 Africa. 
 
-a. Ad. st. Europe. A. D. Bartlett, Esq. 
+a. Ad. sk. Europe. A. D. Bartlett, Esq. 
 b. Pull. sk. England (bred in confinement). J. Gould, Esq. [C.J. 
 c. Ad. sk. Hisinger, S. Sweden, Nov. 2nd, Prof. A. W. Malm f P.1 
 1858. 
@@ -1618,7 +1618,7 @@ length 26 inches, wing 19, tail 11-2, tarsus 3*4.
 Hob. Central Asia, from the Ural to Turkestan and Thibet; also 
 said to occur in Siberia. 
 
-a. Ad. st. Siberia. 
+a. Ad. sk. Siberia. 
 b. Skeleton. River Volga. Purchased. 
 Obs. This bird, if not quite specifically distinct from B. ignavus, 
 undoubtedly constitutes a well-marked race of that species. It is a 
@@ -1930,14 +1930,14 @@ should not be some day found to inhabit Ecuador.
 Hab. The whole of Forth America, ranging south into Central 
 
 America, as far as Guatemala. 
-a, b. Ad. st. North America. 
-c, d. Ad. st. Arctic America. Admiral Sir George Back 
+a, b. Ad. sk. North America. 
+c, d. Ad. sk. Arctic America. Admiral Sir George Back 
 
 
 [P.]. 
 
-e. Ad. st. Delaware, U. S. E. Doubleday, Esq. [P.]. 
-/ . Ad. st. North America. Hudson's Bay Co. [P.]. 
+e. Ad. sk. Delaware, U. S. E. Doubleday, Esq. [P.]. 
+/ . Ad. sk. North America. Hudson's Bay Co. [P.]. 
 g. Ad. sk. Fort Simpson, June 1861. Bernard E.Koss, Esq. [P.]. 
 h, i Ad. sk. Vancouver's Island. Dr. Lyall [P.]. 
 k, I. Ad. sk. Vancouver's Island. J. K. Lord, Esq. [C.]. 
@@ -2040,7 +2040,7 @@ tarsus 2*9.
 
 Hob. Northern Africa, from Egypt to Algeria. 
 
-a. Ad. st. Egypt. W. B. D. Turabull, Esq. [P.]. 
+a. Ad. sk. Egypt. W. B. D. Turabull, Esq. [P.]. 
 b. 6 imm. sk. Egypt. E. Bartlett, Esq. [O.J 
 e. Skeleton. N. Africa. Zoological Society. 
 d. Sternum. 
@@ -2152,7 +2152,7 @@ bengalensis.
 Hab. The Peninsula of India. 
 
 a. Ad. sk. India. Mrs. Hillier [P.]. 
-b. Ad. st. Nepal. B. H. Hodgson, Esq. [P.; 
+b. Ad. sk. Nepal. B. H. Hodgson, Esq. [P.; 
 c. Imm. st. Nepal. B. H. Hodgson, Esq. "P." 
 d. Jun. sk. Nepal. B. H. Hodgson, Esq. [P.* 
 e. Ad. sk. Nepal. B. H. Hodgson, Esq. [P." 
@@ -2448,7 +2448,7 @@ on the east coast, and to Benguela on the west.
 
 a. Pull. st. South Africa. South-African Museum. 
 b. Juv. st. South Africa. South-African Museum. 
-e. Ad. st. South Africa. 
+e. Ad. sk. South Africa. 
 d. Ad. st.
 e. Ad. st.
 /. Juv. sk.
@@ -2545,8 +2545,8 @@ Hob. KE . Africa.
 
 a, b. Ad. sk. Bogos Land. Herr Esler [C.]. 
 
-c. Ad. st. Purchased. 
-d. Ad. st. Kiver Niger. Purchased. 
+c. Ad. sk. Purchased. 
+d. Ad. sk. Kiver Niger. Purchased. 
 9. Bubo lacteus. 
 Strix laetea, Temm. PI. Col ii. pi. 4; Chapm. Trav. S. Afr. ii. p. 392. 
 Bubo lacteus, Steph. Gen. Zool. xiii. pt. 2, p. 55; Cuv. *Regw An. i. 
@@ -2662,7 +2662,7 @@ h. <$ ad. sk.
 c. $ ad. sk.
 d. $ ad. sk.
 e. Ad. sk.
-/ , g. Ad. st. 
+/ , g. Ad. sk. 
 Bissao (Beaudouiri). 
 Bogos Land. 
 Bogos Land. 
@@ -2779,7 +2779,7 @@ a, $ ad. sk. Futtegurh, Jan. 10,1871. Andrew Anderson, Esq. [0.].
 
 b, c. Juv. sk. Nepaul. B. H. Hodgson, Esq. [P.J. 
 
-d. Ad. st. India. Dr. Koyle [P.l 
+d. Ad. sk. India. Dr. Koyle [P.l 
 e. Juv. st. India. Dr. Eoyle [P.J. 
 / . $ skeleton. Zoological Society. 
 11. Bubo shelleyi. (Plate II.) 
@@ -2928,9 +2928,9 @@ Ceylon. ? Southern India.
 
 a. Juv. sk. India (Jerdon). J. Gould, Esq. [P.], 
 b. Juv. st. Nepanl. B. H. Hodgson,"Esq. [P.]. 
-c. Ad. st. Nepaul. B. H. Hodgson, Esq. [P.]. (Type 
+c. Ad. sk. Nepaul. B. H. Hodgson, Esq. [P.]. (Type 
 of species.) 
-d. Ad. st. Nepaul. B. H. Hodgson, Esq. [P/ 
+d. Ad. sk. Nepaul. B. H. Hodgson, Esq. [P/ 
 e. Imm, st. Nepaul. B. H. Hodgson, Esq. jP.' 
 /, g. Bones (various). Nepaul. B. II. Hodgson, Esq. [P.j. 
 13. Bubo orientalist 
@@ -3151,7 +3151,7 @@ tarsus 2*7.
 
 Hab. Philippine Islands. 
 
-a. Ad. st. Philippine Islands. Hugh Cuming, Esq. [P.]. (Type 
+a. Ad. sk. Philippine Islands. Hugh Cuming, Esq. [P.]. (Type 
 of species.) 
 4. 
 SCOPS* 
@@ -3551,8 +3551,8 @@ tail 2*9, tarsus 1*1.
 Hab. Central and Southern Europe, ranging occasionally into the 
 British Isles, and migrating into N.E. Africa and Senegambia. 
 
-a, b. Ad. st. . Europe. 
-c. Ad. st. Great Britain. John Gould, Esq. 
+a, b. Ad. sk. . Europe. 
+c. Ad. sk. Great Britain. John Gould, Esq. 
 d. c? ad. st. 
 e. Ad. sk. 
 Dauphine, France. 
@@ -3860,8 +3860,8 @@ bright yellow " (Andersson).
 Bab. South Africa and JSTorth-eastern Africa, in both of which 
 countries it is resident. 
 
-a. Ad. st. Cape of Good Hope. Sir A. Smith [0.1. 
-b. Ad. st. Cape of Good Hope. Sir A. Smith [O.j. 
+a. Ad. sk. Cape of Good Hope. Sir A. Smith [0.1. 
+b. Ad. sk. Cape of Good Hope. Sir A. Smith [O.j. 
 c. Ad. sk. Benguela. J. J. Monteiro, Esq. [0.] 
 
 Subsp. /3. Scops pennatus. 
@@ -3906,7 +3906,7 @@ a, Ad. Nepaul (Hodgson) 7*5 5-55 2-6 0-95
 b. Ad. Nepaul (Hodgson) 7*o 6 2-75 1-05 
 c. Ad. Nepaul (Hodgson) 7*8 5 8 2-9 1 
 Hah. Indian peninsula. 
-a, b. Ad. st. Nepaul. B. H. Hodgson, Esq. "P. 
+a, b. Ad. sk. Nepaul. B. H. Hodgson, Esq. "P. 
 
 c. Ad. sk. Nepaul. B. H. Hodgson, Esq. *P 
 d. Sternum. Nepaul. B. H. Hodgson, Esq. °P 
@@ -4038,7 +4038,7 @@ d. Ad. Nepaul (Hodgson) 8 5*55 2 8 0-95
 Hab. China, ranging westwards to Siam and the eastern Himalayas. 
 
 
-a. Ad. st. China. J. It. Reeves, Esq. [P.]. 
+a. Ad. sk. China. J. It. Reeves, Esq. [P.]. 
 b. Ad. sk. Camboja. M. Mouliot [C.]. 
 c. Ad. sk. Kepaul. B. II. Hodgson, Esq. [P.]. 
 Subsp. d. Seops japonicns. 
@@ -4105,7 +4105,7 @@ Total length 8-5 inches, wing 6*75, tail 3, tarsus 1-15.
 
 Hab. Japan. 
 
-a. Ad. st. Nagasaki, Japan. Capt. St. John [C.]. 
+a. Ad. sk. Nagasaki, Japan. Capt. St. John [C.]. 
 Obs. Of the same group as S> giu, but a much larger and browner 
 bird, so that, with the faintly indicated occipital bars and the buff 
 variations of the hind neck, it somewhat approaches the S. lettia 
@@ -4446,7 +4446,7 @@ shows the centre of the abdomen to be very conspicuously white.
 Hob, Himalaya Mountains. 
 
 a. Ad. sk. Nepal. B. H. Hodgson, Esq. [P.]. 
-b. Ad. st. Nepal. B. II. Hodgson, Esq. [P.]. Type 
+b. Ad. sk. Nepal. B. II. Hodgson, Esq. [P.]. Type 
 of JPhodilus nepalemis. 
 c. Ad. sk. India (Jerdoii). J. Gould, Esq. [P.]. 
 
@@ -4603,7 +4603,7 @@ bare part being 0*4 inch in length.
 
 Hdb. India. 
 
-a. Ad. st. India. J. U. Eeeves, Esq. [P.]. Type of species. 
+a. Ad. sk. India. J. U. Eeeves, Esq. [P.]. Type of species. 
 Obs. I have given a very careful description and a figure of this 
 obscure species, as hitherto it has not been correctly identified by 
 Indian naturalists. Indeed its Indian habitat is by no means certain, 
@@ -5212,7 +5212,7 @@ Another specimen in the collection measures as follows—total
 length 8 inches, wing 5*8, tail 3-1, tarsus 1. 
 Ilab. Celebes and adjacent islands (Sanghir &c). 
 
-a. Ad. st. Celebes. A. B. Wallace, Esq. [P.], 
+a. Ad. sk. Celebes. A. B. Wallace, Esq. [P.], 
 b. Ad. sk. Menado, Celebes. A. B. Wallace, Esq. [C.J. 
 c. Pull. sk. Menado, Celebes. J. Gould, Esq. 
 d. J ad. sk. Makassar, Celebes. A. B. Wallace, Esq. [C.]. 
@@ -5620,7 +5620,7 @@ length 10 inches, wing 7*25, tail 3*85, tarsus 1*3.
 
 Hab. Japan. 
 
-a. Ad. st. Nagasaki, Japan. Purchased. 
+a. Ad. sk. Nagasaki, Japan. Purchased. 
 b. Ad. sk. .Nagasaki, Japan. J. Gould, Esq. [Pi]. 
 Subsp. a. Scops plumipes. 
 Ephialtes plumipes, Hume, Rough Notes, ii. p. 397. 
@@ -5740,7 +5740,7 @@ I could identify the actual individuals figured,
 
 Hab. Himalayas. 
 
-a. Ad. st. India. J. R. Reeves, Esq. [P.]. 
+a. Ad. sk. India. J. R. Reeves, Esq. [P.]. 
 b. Ad. sk. Nepaul. B. H, Hodgson, Esq. f° " 
 c. Ad. sk. Nepaul. B. H. Hodgson, Esq. 
 d. e. Ad. sk. Nepaul. B. H. Hodgson, Esq. 
@@ -5858,7 +5858,7 @@ Adult male. Yery similar to the female, but rather smaller. Total
 length 10 inches, wing 6*85, tail 4*3, tarsus 1*4. 
 Hah. China (Ningpo, Amoy, Eoochow, Canton); Pormosa. 
 
-a. Ad. st. North China. Purchased. 
+a. Ad. sk. North China. Purchased. 
 b. £ ad. sk. Ningpo, China, April 1872. R. Swinlioe, Esq. [C I 
 c. J ad. sk. Ningpo, China, March 1872. R Swinhoe, Esq. [C.1. 
 d. J ad. sk. Ningpo, China, May 1872. R Swinhoe, Esq. 
@@ -5941,7 +5941,7 @@ the foot, as well as in the complete barring of the tail. It depends
 for its separation, therefore, on its rufous face and differently coloured 
 eye ; but it is by no means a very distinct bird. 
 Hob. China: Canton, South Eokien. 
-a> Ad. st. North China. Purchased. 
+a> Ad. sk. North China. Purchased. 
 
 4. SCOPS. 91 
 10. Scops lemptji. 
@@ -6243,7 +6243,7 @@ J. Gould, Esq [T-l-
 J. Gould, Esq [P.], 
 Dr. Jerdon \?X 
 d. Ad. sk. 
-e. Ad. st. 
+e. Ad. sk. 
 /. Ad. sk. 
 V/. Ad. sk. 
 h. Ad. sk. 
@@ -6259,7 +6259,7 @@ J. Brenchley, Esq. [P.].
 Purchased. 
 %. Ad. sk. 
 L Ad sk. 
-/. Ad. st. 
+/. Ad. sk. 
 m. Juv. st. 
 Ceylon. 
 Ceylon. 
@@ -6401,7 +6401,7 @@ streamed.
 Ilab. The continent of Africa south of the Sahara. 
 
 a. Pull. sk. River Gambia. Purchased. 
-b, c. Ad. st. River Gambia. Governor Rendall [0.1. 
+b, c. Ad. sk. River Gambia. Governor Rendall [0.1. 
 d. Ad. sk. White Nile. F. Galton, Esq. [P.l. 
 e. Ad. sk. Tete, Zambesi. Dr. Kirk [O.j. 
 /. Ad. sk. Damara Land. C. J. Andersson, Esq [CI. 
@@ -6485,7 +6485,7 @@ H2
 
 100 BUBOfflDJE. 
 a. Ad. sk. Malacca. Purchased. 
-b. Ad. st. Malacca. 
+b. Ad. sk. Malacca. 
 
 13. Scops balli. 
 Ephialtes spilocepkalus, Ball, Str. F. i. p. 53. 
@@ -6891,7 +6891,7 @@ is dingy, owing to the closeness and frequency of the vermiculations.
 Hab. California; extreme southern portion of United States, 
 ranging through Mexico to Guatemala. 
 
-a. Ad. st. Mexico. Purchased. 
+a. Ad. sk. Mexico. Purchased. 
 b. Ad. sk. W. Mexico. A. Dornian, Esq. [C.J. 
 c. Ad. sk. Valley of Mexico. M. A, Bouvier. 
 4. SCOPS. 107 
@@ -7112,10 +7112,10 @@ Hal. Brazil, ranging northwards through Guiana and Yenezuela
 into Columbia. 
 
 a. Pull. st. South America. Purchased. 
-b. Ad. st. South America. E. Wilson, Esq. 
-c. Ad. st. South America. Purchased. 
-d. Ad. st. South America. Purchased. 
-ejffff. Ad. st. South America. 
+b. Ad. sk. South America. E. Wilson, Esq. 
+c. Ad. sk. South America. Purchased. 
+d. Ad. sk. South America. Purchased. 
+ejffff. Ad. sk. South America. 
 h, i. Ad. sk. Brazil. Purchased. 
 k, I Ad. sk. Brazil. M. Claussen [P.l 
 m. Pull. sk. Bahia. I)r. Wucherer [0.]. 
@@ -7124,7 +7124,7 @@ o. Juv. st. Para. R. Graham, Esq. [P.l
 p. Ad. sk. Island of Mexiana. A. R. Wallace, Esq. [0.]. 
 q. Ad. sk. Upper Amazons. J. La Mert, Esq. [O.J. 
 r. Ad. sk. Cayenne. M. Becoeur [C.]. 
-s. Ad. st. Trinidad. 
+s. Ad. sk. Trinidad. 
 t Ad. sk. Caracas. M. A. Sall6 [C."|. 
 w, v. Pull. st. Caracas. M. A. SallS [0.]. 
 w. $ juv. sk. Antioquia, New Granada. T. K. Salmon, Esq. [C.]. 
@@ -7226,7 +7226,7 @@ hind neck.
 
 Hah Upper Amazons. 
 
-a. Ad. st. ^PPer Amazons. H. W. Bates, Esq. [0.]. 
+a. Ad. sk. ^PPer Amazons. H. W. Bates, Esq. [0.]. 
 b. $ ad. st. Sarayacu, E. Peru. E. Bartlett, Esq. [0.1. 
 c. 
 $ ad. sk. Ohamicuros, E. Peru, E. Bartlett, Esq. [C.j. 
@@ -7234,7 +7234,7 @@ June 15th, 1807.
 d. 2 
 ad. sk. Cliamicuros, E. Peru, E. Bartlett, Esq. [0.1 
 May 10th, 18G7. 
-e. Ad. st. Venezuela [?]. 
+e. Ad. sk. Venezuela [?]. 
 Subsp. p. Scops guatemalse. (Plate IX.) -
 
 Scops brasilianus Auct. ex America Centrali (passim). 
@@ -7502,15 +7502,15 @@ north-west region, and Florida. (Ridgtvay.)
 
 Rufous phase, 
 
-a. Ad. st. Delaware, U.S.A. E. Doubleday, Esq. [P.]. 
-b. Ad. st. Delaware, U.S.A. E. Doubleday, Esq. [P.]. 
+a. Ad. sk. Delaware, U.S.A. E. Doubleday, Esq. [P.]. 
+b. Ad. sk. Delaware, U.S.A. E. Doubleday, Esq. [P.]. 
 cl J ad. sk. North America. Lord Odo Eussell [P.]. 
 e. Ad. sk. North America. Major-Gen. Hardwicke [P.], 
 Grey phase. 
 
 f. Ad. sk. Toronto, Canada. Mr. J. Whitely [C.1 
 g. k Pull. sk. Toronto, Canada. Mr. J. Whitely [C.j. 
-I Ad. st. Delaware; U.S.A. E. Doubleday, Esq. [P. i 
+I Ad. sk. Delaware; U.S.A. E. Doubleday, Esq. [P. i 
 4. SCOPS. 117 
 Subsp. a. Scops keimicotti. 
 
@@ -7671,7 +7671,7 @@ wing 5*7, tail 3*2, tarsus 1*1.
 
 Hob From Mexico to Guatemala. 
 
-a. Ad. st. Mexico. 
+a. Ad. sk. Mexico. 
 b. Juv. sk. W. Mexico. Alex. Dorman, Esq. [C.]. 
 Subsp. 3. Scops trichopsis. 
 
@@ -8246,8 +8246,8 @@ to obtain the exact dimensions.
 
 Hah, The same as that of the genus. 
 
-a. Ad. st. Unst, Shetland Isles. Mr. Bullock. 
-b. Ad. st. Orkneys. 
+a. Ad. sk. Unst, Shetland Isles. Mr. Bullock. 
+b. Ad. sk. Orkneys. 
 c. Pull. St. N. Europe. 
 Zoological Society. 
 d. Ad. sk. Icy Cape, Norway. H. D. Woodfull, Esq. [P.]. 
@@ -8271,12 +8271,12 @@ Feb. 27,1874.
 [? ] ad.sk. Liehtenfels, S. Greenland, R. B. Sharpe, Esq. [P.]. 
 June 8,1871. 
 
-m . Ad. st. Labrador. 
+m . Ad. sk. Labrador. 
 Rev. Mr. Reichel [P.]. 
-71. Ad. st. Hudson's-Bay Territory. Hudson's-Bay Co. [P.]. 
-0. Ad. st. Hudson's-Bay Territory. Hudson's-Bay Co. (_P.j. 
+71. Ad. sk. Hudson's-Bay Territory. Hudson's-Bay Co. [P.]. 
+0. Ad. sk. Hudson's-Bay Territory. Hudson's-Bay Co. (_P.j. 
 P-Ad. sk. Fort Simpson, Jan. 15,1862. B. R. Ross, Esq. [P.]. 
-£• Ad. st. Arctic America. Admiral Sir G. Back [P.]. 
+£• Ad. sk. Arctic America. Admiral Sir G. Back [P.]. 
 6. SURNIA. 129 
 6. SUENIA. 
 Surma, Dinner. Zool Anal, p. 34 (180G)
@@ -8486,7 +8486,7 @@ Adult female. Similar to the male. Total length 14 inches, wing
 9-2, tail 7-3, tarsus 1. 
 Hob. North America, to the north of 40° 1ST. lat. 
 
-a. Ad. st. North America. 
+a. Ad. sk. North America. 
 b. Ad. st.
 <?. Ad. sk.
 d. <$ ad. sk.
@@ -8503,7 +8503,7 @@ J. K. Lord, Esq. [P.].
 / . J ad. sk. Western side of the Rocky 
 Mountains. 
 J. K. Lord, Esq. [P.]. 
-a. Ad. st. Scotland. Purchased. 
+a. Ad. sk. Scotland. Purchased. 
 
 7. CARINE. Type 
 Noctua, Savign. Descr. JSgypte, p. 29 (1809, nee Fabr.) C. glaux. 
@@ -8653,11 +8653,11 @@ of the Mediterranean to Asia Minor and Southern Russia generally.
 Its eastern range is as yet undefined. 
 
 a. Juv. &t. Europe. 
-b. Ad. st. Essex. Mr. J. Baker [C.]. 
+b. Ad. sk. Essex. Mr. J. Baker [C.]. 
 c. Pull, st France. 
 d. Ad. sk. Near Paris. M. A. Bouvier [P.]. 
 e. Ad. sk. Ain, France. M. A. Bouvier [P.], 
-/ . Ad. st. Ain, France. 11. B. Sharpe, Esq. [P.J. 
+/ . Ad. sk. Ain, France. 11. B. Sharpe, Esq. [P.J. 
 g. Yix ad, sk. Seville, Spain (JET. Saunders). R. B. Sharpe, Esq. [P. i. 
 h. Ad. sk. Geneva, Oct. 1871. L. Eraser, Esq. [C."|. 
 L Ad. sir. Sardinia, winter of 18C9. A. B. Brooke, Esq. [0.1 
@@ -8789,7 +8789,7 @@ eastwards through Palestine and Persia to Afghanistan and Thibet.
 a. Pull. st. Tunis. L. Eraser, Esq. [C.1. 
 b. Jtiv. st. Tunis. L. Fraser, Esq. [0.1. 
 c. Ad. sk. Tunis. L. Fraser, Esq. [C.J. 
-d. Ad. st. Egypt. W. B. D. Turnbull, Esq. [P.]. 
+d. Ad. sk. Egypt. W. B. D. Turnbull, Esq. [P.]. 
 e,f. Ad. sk. Egypt. Sir Samuel Baker [P.J. 
 [/.* Lnm. st. Thebes. Dr. A. Leith Adams [P.l 
 h. Juv. sk. Cairo, June 26,1864. E. Bartlett, Esq. [0.1 
@@ -8799,7 +8799,7 @@ k $ ad. sk. Fayoom, Feb. 24,1871. Capt. G. E. Shelley [P.J.
 7. CAKINE. 137 
 I $ ad. sk. Wilderness of Judea. Canon Tristram [C.]. 
 m. $ ad. sk. Beersheba. Canon Tristram [C.J. 
-n. Ad. st. Ruins of Suza. K Loftus, Esq. (P. t 
+n. Ad. sk. Ruins of Suza. K Loftus, Esq. (P. t 
 o. $ ad. sk. Shiraz, Persia. Major St. John [C.j. 
 p. d ad. sk. Niriz, east of Shiraz, W. T. Blanford, Esq. [C I 
 June 2, 1872. 
@@ -8875,7 +8875,7 @@ of Hutton, with which Mr. G. Ii. Gray identified it.
 Hal. Eastern Siberia, Mongolia, and Northern China, near Pekin, 
 ranging southwards into Central Asia, Turkestan, and Thibet. 
 
-a. Ad. st. Thibet. B. I I Hodgson, Esq. [P.]. 
+a. Ad. sk. Thibet. B. I I Hodgson, Esq. [P.]. 
 2. Carine spilogastra. 
 Athene spilogasler, Heugl. J.f. 0. 1868, p. 15. 
 Noctua spilogastra, Heugl. Orn. N. O.-Afr. p. 119, pi. 
@@ -9243,7 +9243,7 @@ Mountains.
 dAd.sk. Magdalena Bay, California. Capt. Kellett and Lieut. 
 Wood [P.]. 
 
-e. Ad. st. California. Purchased. 
+e. Ad. sk. California. Purchased. 
 / . Ad. sk. California. Purchased. 
 g. Juv. sk. California. Purchased. 
 h. S ad. sk. Mexico. Purchased. 
@@ -9252,7 +9252,7 @@ h. Ad. sk. Peru. H. Whitely, Esq. [C.l.
 l,m. d $ ad. st. Tambo valley, Peru. H. Whitely, Esq. [0.1. 
 n. $ ad. sk. Tinta, May 21,1868. H. Whitely, Esq. [C.l. 
 o,p,q}r,$. Ad.sk. Chili. E. C. Reed, Esq. [C.j. 
-t Ad. st. Maldonado. Charles Darwin, Esq. [C.]. 
+t Ad. sk. Maldonado. Charles Darwin, Esq. [C.]. 
 Ohs. The Chilian birds are much larger than those from Central 
 America or the United States, and measure in the wing 6-95-7*4 
 inches (Mr. Ridgway even gives 7*5 inches • and the Tinta specimen 
@@ -9481,7 +9481,7 @@ Hob. Guadeloupe and S. JNTevis, West Indies.
 
 Primaries of S. guadehupensis, to show pattern of coloration. 
 
-a. Ad. st. S. Ne^is. Thos. Cottle, Esq. [P.]. 
+a. Ad. sk. S. Ne^is. Thos. Cottle, Esq. [P.]. 
 Primaries of S. cunicularia, to show pattern of coloration. 
 
 The specimen described agrees very well with the race called by 
@@ -9581,7 +9581,7 @@ may be the result of age rather than of sex." (Neivton 1, c.)
 
 JIab. Antilles; islands of Porto Eico, St. John, and St. Croix. 
 
-a. Ad. st. Island of St. John. Edward Newton, Esq. [P.]. 
+a. Ad. sk. Island of St. John. Edward Newton, Esq. [P.]. 
 2. G-ymiiasio lawreuciL 
 Noctua nudipes, Lembeye, Aves Cuba, p. 23, pi. 4. %. 2. 
 Grmnoglaux nudipes, Cab, J.f. 0.1855, p. 405; Lawr. Ann. Lye, 
@@ -9906,7 +9906,7 @@ Rah. Indian peninsula and Himalayas.
 a. 2 ad. sk. Darjiling. R. B. Sliarpe, Esq. [P.]. 
 b. Ad. sk. Darjiling. Purchased. 
 c. S (?) ad. sk. Futtegurh, Aug. 2,1873. A. Anderson, Esq. [C.l. 
-d. Ad. st. Nepal. B. H. Hodgson, Esq. [P.]. 
+d. Ad. sk. Nepal. B. H. Hodgson, Esq. [P.]. 
 e. Juv. st. Nepal. B. II. Hodgson, Esq. [P.I. 
 f. g. Ad. sk. Nepal. B. H. Hodgson, Esq. [P.J. 
 h. Ad. sk. Malabar. Purchased. 
@@ -10799,20 +10799,20 @@ florensis. The South-China bird is smaller than the Forth-China
 one; and the Nicobar bird is intermediate between these and N. 
 hirsuta of Ceylon, which is the smallest and darkest of all. 
 
-a. Ad. st. 
+a. Ad. sk. 
 b. Ad. sk. 
 Ceylon. 
 Ceylon. 
 Hugh Cuming, Esq. 
 Purchased. 
-<?. Ad. st. North China. Purchased. 
+<?. Ad. sk. North China. Purchased. 
 d. Ad. sk. 
 e. Ad. sk. 
 FoMen, China. 
 Rangoon, Burmah 
 J. Gould, Esq. [P.], 
 Purchased. 
-/ . Ad. st. Malacca. Major Charlton [C.].
+/ . Ad. sk. Malacca. Major Charlton [C.].
 A. malaccensis. 
 Type of 
 //. Juv. sk* Malacca. Purchased. 
@@ -10925,7 +10925,7 @@ of the quills. Total length 8-5 inches, wing 6-95, tail 4, tarsus 2.
 
 Hob. Philippine Islands. 
 
-a. Ad. st. Philippine Islands. Purchased. 
+a. Ad. sk. Philippine Islands. Purchased. 
 6. Mnox boobook. 
 Boobook Owl, Lath* Gen. Syn. Suppl. ii. p. 64. 
 Strix boobook, Lath. Ind. Orn. Suppl. ii. p. xv. 
@@ -11050,12 +11050,12 @@ Hab. South Australia.
 
 a. \7ix ad. sk. South Australia. C. D. E. Fortnum, Esq. [P.], 
 h. Vix ad. sk. South Australia. Sir George Grey [P." 
-c. Ad. st. South Australia. Sir George Grey [P.* 
+c. Ad. sk. South Australia. Sir George Grey [P.* 
 d. Juv. sk. South Australia. Sir George Grey [P/ 
 e. Ad. sk. Eiver Darling, Sept. 1844. Captain Sturt [P.]. " " Iris 
 yellow." 
 /. (S vix ad. st. Percy Island. 
-)/. Ad. st. Australia. A. Cunningham, Esq. [P.]. 
+)/. Ad. sk. Australia. A. Cunningham, Esq. [P.]. 
 
 h. Pull. st. Australia. 
 *. Ad. sk. Australia. Purchased. 
@@ -11142,13 +11142,13 @@ h. <$ ad. N.W. Australia {Elsey) 13 8-8 5*4 1*45
 Hah. Northern and Western Australia. 
 
 a. Pull. sk. Queensland. Purchased. 
-b. e. Ad. st. Port Essington. Capt. W. Chambers, E.N. 
-d. Ad. st. N.W. Australia. J. R. Elsey, Esq. [P.l. 
+b. e. Ad. sk. Port Essington. Capt. W. Chambers, E.N. 
+d. Ad. sk. N.W. Australia. J. R. Elsey, Esq. [P.l. 
 e,f. 6 ad. sk. N.W. Australia. J. K. Elsey, Esq. [P.]. 
 r/. Ad. sk. «Scriib,lat.l8'S.,long.l41°E., 
 Sept. 13th, 1856." J. R. Elsey, Esq. [P.]. 
 
-h. Ad. st. Western Australia. Sir George Grey [P.l. 
+h. Ad. sk. Western Australia. Sir George Grey [P.l. 
 i, k. Ad, sk. Western Australia. Sir George Grey [P.J. 
 7. Mnox fusca. (Plate XII. fig. 1.) 
 Strix fusca, Vieill 2V. Diet. vii. p. 22. 
@@ -11282,8 +11282,8 @@ Buller.)
 
 Hab. New Zealand. 
 
-a. Ad. st. New Zealand. Purchased. 
-b. Ad. st. New Zealand. Miss R. Stone [P. 
+a. Ad. sk. New Zealand. Purchased. 
+b. Ad. sk. New Zealand. Miss R. Stone [P. 
 c. Ad. sk. New Zealand. Miss H. Stone [P. 
 d. Ad. sk. New Zealand. Sir G-. Grey [P.]. 
 e. Ad.sk. New Zealand. Antarctic Expedition [0.]. 
@@ -11453,11 +11453,11 @@ other examples.
 
 Ilab. Australia. 
 
-a. Ad. st. South Australia. Sir G. Grey [P.J. 
+a. Ad. sk. South Australia. Sir G. Grey [P.J. 
 b. Ad. sk. Interior of South Australia. Capt. Sturt [P.] 
 11 . JIOTOX. 
 177 
-e. Ad. st. N.E. Australia. Sir T. Mitchell [P.], 
+e. Ad. sk. N.E. Australia. Sir T. Mitchell [P.], 
 d. 
 <$ ad. st. Cape York, Oct. 10th, 1848. Voyage of the < Rattlesnake 
 ' [CI. 
@@ -11920,10 +11920,10 @@ from Batchian approaches it in having the under surface lighter
 and also a few indications of fulvous bars on the wing-coverts. 
 
 Hob. Batchian and Gilolo. 
-a, b. Ad. st. Batchian. A. E. Wallace, Esq. [0. 
+a, b. Ad. sk. Batchian. A. E. Wallace, Esq. [0. 
 
 c. S ad. sk. Batchian. A. E. Wallace, Esq. [C. 
-d. Ad. st. Gilolo. A. E. Wallace, Esq. [C. 
+d. Ad. sk. Gilolo. A. E. Wallace, Esq. [C. 
 e. $ ad. sk. Gilolo. A. E. Wallace, Esq. [0. 
 /. J sen. sk. Gilolo. A. E. Wallace, Esq. [0. 
 22. Mnox squamipila. (Plate XII. fig. 2.) 
@@ -11954,7 +11954,7 @@ Total length 13-5 inches, culmen 1-25, wing 8*25, tail 5*3, tarsus 1*25.
 
 Hab. Ceram, MysoL 
 
-a. Ad. st. Ceram. A. E. Wallace, Esq. [0,]. 
+a. Ad. sk. Ceram. A. E. Wallace, Esq. [0,]. 
 b. <$ ad. sk. N. Ceram. A. E. Wallace, E<q. [C.j. 
 11 . NINOX. 185 
 23. Ninox variegata. 
@@ -12044,7 +12044,7 @@ distinctly spotted with fulvous.
 Hah. Bouru. 
 
 a. <$ ad. sk. Bouru. A. E.Wallace, Esq. [C.~j. Type of species. 
-b. Ad. st. Bouru. A. E. Wallace, Esq. [O.j. 
+b. Ad. sk. Bouru. A. E. Wallace, Esq. [O.j. 
 25. Mnox tseniata. 
 Athene 
 tseniata, Hombr. 8f Jacq. Voy. Pole Sud, ill* p. 50, pi. S ; 
@@ -12153,8 +12153,8 @@ yellow hairs ; claws black ; iris dark reddish brown. Total length
 Hab. New Zealand. 
 
 a. Juv. st New Zealand. Percv Earl, Esq. [C.J. 
-b. Ad. st. New Zealand. E. Wilson, Esq. [P.]. 
-c. Ad. st. New Zealand. Capt. Stokes [P.J. 
+b. Ad. sk. New Zealand. E. Wilson, Esq. [P.]. 
+c. Ad. sk. New Zealand. Capt. Stokes [P.J. 
 13. (HiAUCIDIUlL „, 
 Type. 
 Glaucidium, Boie1 Isis, 1828, p. 976 G. passerinum. 
@@ -12357,7 +12357,7 @@ Hah. Chili and Patagonia.
 
 a. Juv. st. Port Famine. Capt. King [0.]. Type of 
 species. 
-6. Ad. st. Straits of Magellan. The Admiralty [P.]. 
+6. Ad. sk. Straits of Magellan. The Admiralty [P.]. 
 c. 
 9 ad. sk. Province of Colehagua, July E. C. Reed, Esq. [0.]. 
 1870. 
@@ -12840,7 +12840,7 @@ showing such distinct white spots as in the adult.
 
 Hah. Brazil. 
 a. Juv. st. South America. 
-b. Ad. st. South America. 
+b. Ad. sk. South America. 
 c, d. Ad. sk. Brazil. Purchased. 
 e. Ad. sk. 
 / . Ad. sk. 
@@ -13190,7 +13190,7 @@ we know more of the species of Glaucidium from Venezuela
 and Trinidad, it seems better to keep this as an intermediate and at 
 present geographically isolated form. 
 Hab. Trinidad [? Venezuela and Guiana]. 
-a, b} e. Ad. st. Trinidad. 
+a, b} e. Ad. sk. Trinidad. 
 
 13 . GLATJCTDITTM. 
 d. Juv. st. Trinidad. 
@@ -13474,7 +13474,7 @@ rufous on the lower parts, the sides of the upper breast and flanks
 being rufous mottled with brown. 
 Hab. New Granada and Venezuela. 
 a. Ad. st.
-b. Ad. st. 
+b. Ad. sk. 
 Columbia. 
 Columbia. 
 J. Gould, Esq. 
@@ -13591,7 +13591,7 @@ Oambian specimen agrees best with the Abyssinian.
 Eab. The whole of Africa south of the Sahara, excepting the 
 forest regions of the west and east coasts. 
 
-a. Ad. st. South Africa. Earl of Derby [P.]. 
+a. Ad. sk. South Africa. Earl of Derby [P.]. 
 b. $ ad. sk. Griqua Land, Mav 1871 K. B. Sharpe, Esq. [P.]. 
 (T. C. Atmorej. 
 c. <$ ad sk. Griqua Land, May 1871 T. 0. Atmore, Esq. [0.]. 
@@ -13600,7 +13600,7 @@ d. Ad. sk. Tette, Zambesi. Dr. Kirk [0.1
 e. Ad. sk. Tette, Zambesi. Dr. Kirk [C.j. 
 / . tf ad. sk. Tatti, Matabili. T. E. Buckley, Esq. [P.]. 
 g,hji,h. Ad.sk. Damara Land. C. J. Andersson, Esq. [0.]. 
-X Ad. st. Eiver Gambia. Purchased. 
+X Ad. sk. Eiver Gambia. Purchased. 
 
 11. fflauciditun tephronotum. (Plate XIII. fig. 2.) 
 Glaucidium tephronotum, Sharpe, Ibis, 1875, p. 260. 
@@ -13767,14 +13767,14 @@ BUBONID^.
 measured above are any thing more than the male and female of one 
 and the same species. 
 Ilab. Himalayas. 
-#. Ad. st. Himalaya Mountains. Zoological Society. 
+#. Ad. sk. Himalaya Mountains. Zoological Society. 
 b, c. Ad. sk. Himalaya Mountains. Purchased. 
 
 d. Juv. sk. Himalaya Mountains, Purchased. 
 e. Ad. sk. Darjilmg. J. Gould, Esq. [P.]. 
 /. Ad. sk. Nepal (JSceks). J. Gould, Esq. [P.]. 
 (/, 7i, i. Ad. st Nepal. B. H. Hodgson, Esq. [P.X 
-k. Ad. st. Nepal. B. H. Hodgson, Esq. nP.t 
+k. Ad. sk. Nepal. B. H. Hodgson, Esq. nP.t 
 I, m. Ad. sk. Nepal. B. H. Hodgson, Esq. [P*> 
 n. 
 Juv. sk. Assam. J. Gould, Esq. [P.]. Type 
@@ -13915,7 +13915,7 @@ back is nearly uniform, in the other bird the blackish cross bars can
 be traced very plainly all over the upper suiface. 
 
 Hah. Ceylon. 
-a. Ad. st. Ceylon. Hugh Cuming, Esq. [C.X 
+a. Ad. sk. Ceylon. Hugh Cuming, Esq. [C.X 
 b. Ad. &k. Ceylon. J. Gould, Esq. [P.]. 
 
 16. Grlaucldium castaaiopterum. 
@@ -13974,8 +13974,8 @@ feathers being* chestnut like the back, barred" externally with dark
 brown and fulvous. Total length 9 inches, wing 5*7, tail 3, tarsus 
 0*85. 
 Hub. Java. 
-«. Ad. st. Java. Hon. East-India Oo. [P.]. 
-b. Ad. st. Java. J. Baird, Esq. [P.l. 
+«. Ad. sk. Java. Hon. East-India Oo. [P.]. 
+b. Ad. sk. Java. J. Baird, Esq. [P.l. 
 
 17. G-laucidium radiatum. 
 Sfcrix radiata, Tichell, J. A. S. B. ii. p. 572. 
@@ -14035,9 +14035,9 @@ Hah. India, from the Himalayas southwards through the peninsula,
 but not extending far below the Neilgherries. 
 
 a. Ad. sk. India. J. Gould, Esq. [P.]. 
-b. Ad. st. Himalaya Mts. Major-Gen. Ilardwicke [P.]. 
-c. Ad. st. Himalaya Mts. Hon. East-India Co. [P.J. 
-d. Ad. st. Nepal. B. II. Hodgson, Esq. [P.], 
+b. Ad. sk. Himalaya Mts. Major-Gen. Ilardwicke [P.]. 
+c. Ad. sk. Himalaya Mts. Hon. East-India Co. [P.J. 
+d. Ad. sk. Nepal. B. II. Hodgson, Esq. [P.], 
 e,f. Ad. sk, Nepal. B. H. Hodgson, Esq. [P.I. 
 g. Ad. sk. Beliar. • B. H. Hodgson, Esq. [P.J. 
 h, i Ad. sk. Darjiling. Purchased. 
@@ -14198,12 +14198,12 @@ L'S. 01A uciDiuar.
 
 221 
 
-*,/. Ad. st. Nepal. B. H, Hodgson, Esq. [P. 1. 
+*,/. Ad. sk. Nepal. B. H, Hodgson, Esq. [P. 1. 
 //. Juv. st. Nepal. B. II. Hodgson, Esq. [P.l. 
 h, i, Jc, I Ad. sk. Nepal. B. II. Hodgson, Esq. [P.]. 
 
 m. Juv. sk. Nepal. B. II. Hodgson, Esq. [P.]. 
-n. Ad. st. Moalmaza. 
+n. Ad. sk. Moalmaza. 
 o. Ad. sk. Tonglioo, Burmali. Purchased. 
 p. Ad. sk. Skin. M. Mouhot fO.l-
 Obs. The specimen from "Moalmaza" is thus marked by Mr. 
@@ -14372,7 +14372,7 @@ tarsus 1.
 
 Hab. South Africa. 
 
-a. Ad. st. South Africa. Sir A. Smith [C], Type of species. 
+a. Ad. sk. South Africa. Sir A. Smith [C], Type of species. 
 224: B O 02? ID JE. 
 14. MICEATHENE. T 
 Micratliene, Corns, Pr. Philad. Acad. 1866, p. 15 M. whitneyi. 
@@ -14687,15 +14687,15 @@ China: Himalayas and K.W. India. Egypt and N.E. Africa in
 winter. 
 
 a. Pull. sk. 
-b. Ad. st. 
+b. Ad. sk. 
 c. Var. st. 
-d. Ad. st. 
-e. Ad. st. 
+d. Ad. sk. 
+e. Ad. sk. 
 / . c? ad. sk. 
 
 g, h. 2 ftd. sk. 
 
-/. Ad. st. 
+/. Ad. sk. 
 
 k. 2 juv«sk. 
 /. c? ad. sk. 
@@ -14843,13 +14843,13 @@ orange-buff near the base; soft parts as in A. otus. Total length
 
 TIab. North America, as far south as Mexico. 
 
-a. Ad. st. Fort Simpson. Bernard It. Ross, Esq. [P.], 
+a. Ad. sk. Fort Simpson. Bernard It. Ross, Esq. [P.], 
 b. Ad. sk. Snmass, British Columbia. J. K. Lord, Esq. [C.J. 
-c. Ad. st. Mexico. Purchased. c.
+c. Ad. sk. Mexico. Purchased. c.
 d. Ad. sk. W. Mexico. Alex. Dorman, Esq. [C.l. 
 e. Ad. sk. W. Mexico. ^ Alex. JDorman, Esq. [Cj. 
 f. Ad. sk. Valley of Mexico. M. A. Bouvier. 
-//. Ad. st. ' Type of Otus zonurw. 
+//. Ad. sk. ' Type of Otus zonurw. 
 
 15 . 
 AblO. 2;n 
@@ -14955,8 +14955,8 @@ of the interspaces.
 
 Eab. Mexico southwards through Columbia to Brazil. 
 
-a. Ad. st. Brazil. M. Olaussen [P.]. 
-b. Ad. st. Brazil. Purchased. 
+a. Ad. sk. Brazil. M. Olaussen [P.]. 
+b. Ad. sk. Brazil. Purchased. 
 c. Ad. sk. Bahia. Dr. Wucherer [0.]. 
 d. Ad. sk Bogota. P. B. Sharpe, Esq. [P.]. 
 e. Ad. sk. Panama. M. E. Arce [C.]. 
@@ -15013,7 +15013,7 @@ Hab. Madagascar.
 
 Foot of Asio madagascariensis. 
 
-a. Ad. st. Madagascar. Sir A. Smith [0.1. Type of species. 
+a. Ad. sk. Madagascar. Sir A. Smith [0.1. Type of species. 
 k Ad. sk. Madagascar. Mr. A. Crossley [O.j. 
 234 
 BuuoaaDJE. 
@@ -15223,13 +15223,13 @@ extending far into the Arctic circle: absent in West Africa, Australia,
 and Oceania, but present in the Sandwich Islands. 
 
 a. Asio accipitrinus. 
-a. Ad. st. 
+a. Ad. sk. 
 England. Mr. J. Baker [0.1. 
 b. Juv. st. 
 England. Mr. J. Baker [0.1. 
-e. Ad. st. 
+e. Ad. sk. 
 London Market. Mr. J. Baker [C.I 
-d. Ad. st. Hills of Offed. Mr. J. Baker [C. |. 
+d. Ad. sk. Hills of Offed. Mr. J. Baker [C. |. 
 e, f, g. Pull. st. Hills of Offed. Mr. J. Baker [C.]. 
 h. 
 J ad. sk. EastGrinstead, Surrey, J. E. Harting, Esq.. [P.]. 
@@ -15254,14 +15254,14 @@ Skane, Nov. 27,1873. Purchased.
 
 
 p. Ad. sk. France. M. A. Bouvier. 
-q, r. Ad. st. Archangel. R. B. Sharpe, Esq. [PA 
+q, r. Ad. sk. Archangel. R. B. Sharpe, Esq. [PA 
 s. Juv. st. 
 Archangel. R. B. Sharpe, Esq. [P.]. 
 t. <£ ad. sk. 
 Malaga, Jan. 3, 1872. Howard Saunders, Esq. [C."|. 
 u. 2 ad. sk. 
 Seville, Nov. 8,1869. Howard Saunders, Esq. [C] 
-v. Ad. st. 
+v. Ad. sk. 
 Athens. C. W. L. Merlin, Esq. [PA 
 w. Ad. sk. 
 Corfu. J. Rocke, Esq.JP.]. 
@@ -15310,7 +15310,7 @@ Purchased.
 
 p'. JUY. sk. 
 
-q'. Ad. st. 
+q'. Ad. sk. 
 
 r'. Juv. st. 
 
@@ -15320,7 +15320,7 @@ t\ Ad. sk.
 
 v'. Juv. sk. 
 
-v'. Ad. st. 
+v'. Ad. sk. 
 zu',.v'. Ad. sk. 
 ?/, s\ Juv. sk. 
 a, f3. Juv. sk. 
@@ -15330,13 +15330,13 @@ a. Ad. sk.
 e, £. Ad. sk. 
 7;. Ad. sk. 
 6. Ad. sk. 
-t. Ad. st. 
+t. Ad. sk. 
 K. Ad. sk. 
-X. Ad. st. 
+X. Ad. sk. 
 ju, 1/. 2 ad. sk. 
 £. Juv. st. 
 
-0. Ad. st. 
+0. Ad. sk. 
 w. cf ad. sk. 
 " At sea, after passing 
 the Aleutian Isles, 
@@ -15541,10 +15541,10 @@ even penetrating into Southern Spain; said also to have occurred in
 
 the Sinaitic peninsula. 
 
-a. Ad. st. South Africa. So nth-African Museum. Type 
+a. Ad. sk. South Africa. So nth-African Museum. Type 
 of species. 
-b. Ad. st. South Africa. Purchased. 
-c. Ad. st. South Africa. Massena collection. 
+b. Ad. sk. South Africa. Purchased. 
+c. Ad. sk. South Africa. Massena collection. 
 cl 
 <$ ad. sk. Bloemfontein, Sept. 10, F. A. Barratt, Esq. [C.1 
 1872 (Dr. Rrton). 
@@ -15719,7 +15719,7 @@ Ad. st. Jamaica. P. EL Gosse, Esq. [0.]. Type
 of species. 
 b. Juv. st. Jamaica. 
 P. H. Gosse, Esq. [CI. 
-c. Ad. st. Jamaica. 
+c. Ad. sk. Jamaica. 
 P. H. Gosse, Esq. [C.j. 
 d. 
 J ad. sk. Near Spanishtown, Jamaica, Smithsonian Institution TP.!. 
@@ -16098,10 +16098,10 @@ d. (S ad. st. Cambridgeshire. Mr. J. Baker rO.~
 e. JUY. st. Cambridgeshire. Mr. J. Baker "C 
 /, g. Pull. st. Cambridgeshire. Mr. J. Baker = 
 c.
-h. Ad. st. Wiltshire. Col. Montagu [Pi]. 
-i. Ad. st. Carmarthenshire. Col. Montagu [P.l 
-h. Ad. st. Carmarthenshire. Col. Montagu | P.J. 
-1 Ad. st. Devonshire. Sir W. Elford, Bart. [P.] 
+h. Ad. sk. Wiltshire. Col. Montagu [Pi]. 
+i. Ad. sk. Carmarthenshire. Col. Montagu [P.l 
+h. Ad. sk. Carmarthenshire. Col. Montagu | P.J. 
+1 Ad. sk. Devonshire. Sir W. Elford, Bart. [P.] 
 m. 
 Pull. sk. Sklne, S. Sweden, Purchased. 
 May 11th, 1809. 
@@ -16113,7 +16113,7 @@ p. J ad. sk. Stockholm, June 11th, 1873. Purchased.
 q. 5 ad. sk. Stockholm, Nov. 2nd, 1873. Purchased. 
 r. Imm. sk. Germany. R. B. Sharpe, Esq. [P.}. 
 s, t <5 $ ad. sk. Switzerland. HowardSaunders,Esq.[P.!. 
-w,«?. Ad. st. Fontainebleau, France. R. B. Sharpe, Esq. [P.]. 
+w,«?. Ad. sk. Fontainebleau, France. R. B. Sharpe, Esq. [P.]. 
 w. Ad. sk. France. M. A. Bouvier [P.]. 
 .r, y. Ad. sk. Algeria. M. Olcese [0.1 
 2. Ad. sk. Russia. M. A. Bouvier. 
@@ -16183,7 +16183,7 @@ Total length 19 inches, wing 12*4, tail 7*5, tarsus 1*9.
 Hah. Himalaya Mountains irom Murree eastwards, extending into 
 Moupin in Western China. 
 
-a. Ad. st. Nepal. B. H. Hodgson, Esq. [P.]. 
+a. Ad. sk. Nepal. B. H. Hodgson, Esq. [P.]. 
 Z>, c. Jun. sk. Nepal. B. H. Hodgson, Esq. [PA 
 d, e.f. Ad. sk. Nepal. B. H. Hodgson, Esq. [P.]. 
 g. Ad. sk. Kulu (Hay). John Gould, Esq. [P.]. 
@@ -16319,8 +16319,8 @@ Hub. The northern part of North America, descending rarely to
 the United States in winter, but found generally on the western side 
 of the continent. 
 
-a. Ad. st. North America. Admiral Sir George Back [P.]. 
-b. Ad. st. North America. Hudson's Bay Company [P.]. 
+a. Ad. sk. North America. Admiral Sir George Back [P.]. 
+b. Ad. sk. North America. Hudson's Bay Company [P.]. 
 c. Ad. sk. British Columbia. J. K. Lord, Esq. [0.1 
 d. Juv. sk. British Columbia. J. K Lord, Esq. [G.J. 
 e. Skeleton. North America. 
@@ -16396,8 +16396,8 @@ Total length 28 inches, wing 18-6, tail 13*5, tarsus 3*1.
 Hab. Northern Europe, extending but rarely into the central 
 portion. 
 
-a. Ad. st. Europe. 
-b. Ad. st. North Europe. Le Comte de Tyzenhauz [P.], 
+a. Ad. sk. Europe. 
+b. Ad. sk. North Europe. Le Comte de Tyzenhauz [P.], 
 6. Syruium xtralense. 
 Strix uralensis, Pall Peise, i. p. 455; Temm. Man. oVOrn. I p. 84; 
 id. PL Col. 27; Naum. Vog. JDeutschl i. p. 422, pi. 42. fig. 1; 
@@ -16767,7 +16767,7 @@ wing 11*1, tail 7'8, tarsus 2.
 Hah. Patagonia and Chili. 
 
 a. Ad.sk Port Famine. Capt. King [0.]. Type of species. 
-b. Ad. st. Straits of Magellan. J. Gould, Esq. 
+b. Ad. sk. Straits of Magellan. J. Gould, Esq. 
 11. Syrnium sinense. 
 China Owl, Lath. Gen. Syn. Suppl ii. Add. p. 368. 
 Strix sinensis, Lath. Ind. Orn. Suppl p. xvi. 
@@ -16923,8 +16923,8 @@ below its junction with the former, and west of the Ganges
 (Hume). 
 
 a. Ad. sk. Madras. Rev. H. H. Baber [P.]. 
-b. Ad. st. India. 
-c. Ad. st. India. 
+b. Ad. sk. India. 
+c. Ad. sk. India. 
 IS. Syrmumleptogrammicum*. 
 
 Strix leptogrammica, Temm. PI. Col. ii. pi. 525. 
@@ -16995,7 +16995,7 @@ wing. Total length 14 inches, culmen 1*6, wing 11*5, tail 6-5,
 
 tarsus 1*85. 
 Hal. Borneo. 
-a. Ad. st. Borneo. Purchased. 
+a. Ad. sk. Borneo. Purchased. 
 b. <S ad. sk. Sarawak. A. R. Wallace, Esq. [0.]. 
 
 14. Syrniiim nuchale. 
@@ -17192,7 +17192,7 @@ tail 6-3, tarsus 1-95.
 Foot of Syrnium woodfordi, to show extent of occasional feathering*. 
 Hal. Southern and North-eastern Africa. 
 
-a. Ad. st. South Africa. John Gould, Esq. [P.]. 
+a. Ad. sk. South Africa. John Gould, Esq. [P.]. 
 b. Pull. St. South Africa. South-African Museum. 
 c. Ad. sk South Africa. South-African Museum. 
 Type of species. 
@@ -17268,7 +17268,7 @@ Total length 16*5 inches, culmen 1*5, wing 11, tail 6*8, tarsus 2*1.
 
 Hab. Brazil, Guiana, and Columbia. 
 
-a. Ad. st. New Granada. E. Wilson, Esq. [P.]. 
+a. Ad. sk. New Granada. E. Wilson, Esq. [P.]. 
 b. Juv. st. Brazil. Lord Stuart de Eothsay [P.]. 
 17. Syrnium albigulare. 
 
@@ -17327,8 +17327,8 @@ Total length 13 inches, culmen 0*95, wing 8'6, tail 5, tarsus 1*2.
 
 JSab. Columbia and Ecuador. 
 
-a. Ad. st. Bogota. 
-b> Ad. st. New Granada. Purchased. 
+a. Ad. sk. Bogota. 
+b> Ad. sk. New Granada. Purchased. 
 18. Syrnium superciliare. 
 Syrnium superciliare, JPek. Verh. z.-b. Wien, 1863, p. 1125,' Gray, 
 Band-l B. i. p. 50. 
@@ -17389,7 +17389,7 @@ surface and the facial features, however, being the same in both, I
 cannot but believe the other differences to be the result of age. 
 
 Eab. Brazil. 
-a. Ad. st. Brazil. M. Claussen [P.]. 
+a. Ad. sk. Brazil. M. Claussen [P.]. 
 b. Ad. sk. Para, May 1849. A. R Wallace, Esq. [C.]. 
 19. Syrnium suinda. 
 
@@ -17440,9 +17440,9 @@ tarsus 1*9.
 
 Hah. Brazil. 
 
-a. Ad. st. S. America. 
-b. Ad. st. Brazil. M. Olaussen [P.J. 
-c. Ad. st. Brazil. E.Wilson, Esq. [P.]. 
+a. Ad. sk. S. America. 
+b. Ad. sk. Brazil. M. Olaussen [P.J. 
+c. Ad. sk. Brazil. E.Wilson, Esq. [P.]. 
 d. Ad.sk. Bahia. Dr. Wucherer [C.]. 
 20. Syrnium virgatum*. 
 Syrnium virgatum, Cass. Pr. Philad. Acad. iv. p. 124 j id, Joum. Ph. 
@@ -17563,9 +17563,9 @@ Volcan de Fuego,
 Guatemala. 
 M, A. Bouvier. 
 M. A. Bouvier. 
-h. Ad. st. Caracas. Mr. Dyson [0.]. Type 
+h. Ad. sk. Caracas. Mr. Dyson [0.]. Type 
 of S. zonocercum. 
-1 Ad. st. [Brazil.] M. Claussen [P.J. 
+1 Ad. sk. [Brazil.] M. Claussen [P.J. 
 
 21. Syrnium huhulum. 
 Le Iiuhxd, Levaill Ois. d'Afr. i. pi. 41 ; Sunder). Crif. om Levaill 
@@ -17611,7 +17611,7 @@ inches, culmen 1*5, wing 10*3, tail 6-5, tarsus 1*9.
 
 Hah. Brazil, Guiana. 
 
-a. Ad. st. Cayenne. H. C. Rothery, Esq. [P.J. 
+a. Ad. sk. Cayenne. H. C. Rothery, Esq. [P.J. 
 22. Syrnium nigroliaeatum. 
 Syrnium nigrolineatuni, Sclater, TV. Z. S. iv. p. 268, pi. 63; Grayf 
 Iland-l B. i. p. 49. 
@@ -17681,7 +17681,7 @@ much broader.
 
 Hab. Columbia. 
 
-a. Ad. st. Bogota. Purchased. 
+a. Ad. sk. Bogota. Purchased. 
 b. Ad. sk. Bogota. Purchased. 
 c. Ad, sk. Bogota. E, B. Sharpe, Esq. [P.]. 
 23. Syrnium perspicillatum. 
@@ -17826,7 +17826,7 @@ and Amazonia.
 
 a, b. Pull, st South America. Purchased. 
 
-c. Ad. st. Santa Oruz, Bolivia. Mr. Brydges [C.l. 
+c. Ad. sk. Santa Oruz, Bolivia. Mr. Brydges [C.l. 
 d. Ad. sk. North side of River Amazon. A. R. Wallace, ESQ. [C.l. 
 e. Ad. sk. Veragua. M. E. Arc^TO.]. 
 f. $ ad. sk. Chitra, Veragua (Arc£). 0. Salvin, Esq. 
@@ -17950,8 +17950,8 @@ bands vary from nine to twelve in number on the Nepalese specimens.
 
 Hab. Himalaya Mountains; Formosa. 
 
-a. Ad. st. Himalaya Mountains. Zoological Society. 
-b. Ad. st. Nepal. B. H. Hodgson, Esq. [P. 
+a. Ad. sk. Himalaya Mountains. Zoological Society. 
+b. Ad. sk. Nepal. B. H. Hodgson, Esq. [P. 
 c. Vix ad. st. Nepal. B. H. Hodgson, Esq. HEV 
 d. Imm. st. Nepal. B. H. Hodgson, Esq. [P/ 
 e}f. Ad. sk. Nepal. B. H. Hodgson, Esq. [P.= 
@@ -18230,19 +18230,19 @@ Southern Europe, but occurring all over the central portions of the
 continent. In Forth America found in the high north, rarely occurring 
 within the United States. 
 
-a. Ad. st. Northern Europe. Dr. Lidth de Jeude. 
+a. Ad. sk. Northern Europe. Dr. Lidth de Jeude. 
 b. Ad. sk. Northern Europe. Purchased. 
 c. Pull st. Wermland, May 18, 1872. Purchased. 
 d. Juv. sk. Trondhjem, July 17, 1866. F. Bond, Esq. [P.]. 
 e. Juv. sk. Archangel. R. B. Sharpe, Esq. [P.]. 
-/ , Ad. st. Archangel. It. B. Sharpe, Esq. [Pj . 
+/ , Ad. sk. Archangel. It. B. Sharpe, Esq. [Pj . 
 g. 
 Ad. sk. R. Ussuri, 48° N. lat. (Dr. Warsaw Museum [E. J 
 Dybowshi). 
 h. 
 Ad. st. Arctic America (Dr. Richard- Zoological Society. 
 son). 
-t. Ad. st. Repulse Bay. Dr. J. Rae [P.], 
+t. Ad. sk. Repulse Bay. Dr. J. Rae [P.], 
 k. £ ad. sk. Fort Simpson. B. R. Ross, Esq. [P.], 
 1. Skeleton. Sweden. 
 R. B. Sharpe, Esq. 
@@ -18334,7 +18334,7 @@ Adult female. Similar to the male. Total length 6*5 inches,
 wing 5*75, tail 3*5, tarsus 0*85. 
 Hab, North America, ranging into Mexico. 
 
-a. Ad. st. North America. Zoological Society. 
+a. Ad. sk. North America. Zoological Society. 
 b. Ad. sk. North America. Purchased. 
 c. Ad. sk. North America. John Gould, Esq. [P.]. 
 d. Ad. sk. Koinux Island. Dr. Lyall [0.]. 
@@ -18918,19 +18918,19 @@ h. Ad. at.
 i. $ ad sk. 
 k. $ ad. sk. 
 1. $ ad. sk. 
-m. Ad. st. 
-n. Ad. st. 
+m. Ad. sk. 
+n. Ad. sk. 
 o. Pull. St. 
-p. Ad. st. 
+p. Ad. sk. 
 q. $ ad. st. 
 r. 5 ad. sk. 
-s. Ad. st. 
+s. Ad. sk. 
 t Ad. sk. 
 u. Ad. sk. 
 v. Ad. sk. 
 w. Ad. sk. 
-.r. Ad. st. 
-y. Ad. st. 
+.r. Ad. sk. 
+y. Ad. sk. 
 ». S ad. st. 
 
 a', d ad sk. 
@@ -19010,7 +19010,7 @@ e',f} g'. Ad. sk. Tangier. Signor Olcese [C.].
 
 F. EGYPT. 
 a. Light i^hase, 
-h'. Ad. st. Egypt. W.B.D. Tumbull, Esq. [P.]. 
+h'. Ad. sk. Egypt. W.B.D. Tumbull, Esq. [P.]. 
 G. AltABIA. 
 a. Light phase, 
 t\ Ad. sk. Red Sea, off Aden. Purchased. 
@@ -19056,20 +19056,20 @@ most of the other birds received at the same time are from the Gambia, I do
 not think it right to affirm the Senegambian origin of this specimen (a true S. 
 insularis), as Mr. Morgan may, after all, have visited the Cape-Verd Islands. 
 1. STKIX. 301 
-ft Ad. st. India. Dr. Burns [P.]. 
+ft Ad. sk. India. Dr. Burns [P.]. 
 
-y. Ad. st. ladia. Capt. Johnstone [P.]. 
+y. Ad. sk. ladia. Capt. Johnstone [P.]. 
 d. Ad. sk. India. J. Gould, Esq.. [CT 
 e. Ad. sk. India. J. Gould, Esq. "0. 
 C Ad. sk. Seetapore. J. Gould, Esq. [0.]. 
 7], Ad. sk. Deccan. Purchased. 
-6. Ad. st. Nepal. B. H. Hodgson, Esq. [PA 
+6. Ad. sk. Nepal. B. H. Hodgson, Esq. [PA 
 i, Kj A. Ad, sk. Nepal. B. II. Hodgson, Esq. [P.]. 
 N. SlAM. 
 fjL. S ad. Bangkok, March 28, 1872 R. B. Sharpe, Esq. [P.]. 
 (P. Conrad). 
 0. MALAISIA. (Strix javanica.) 
-v. Ad. st. Java. Hon. E. I. Co. [P.]. 
+v. Ad. sk. Java. Hon. E. I. Co. [P.]. 
 £. Ad. sk. Loiabock. A. R. Wallace, Esq. [C.]. 
 AUSTRALIAN REGION. 
 
@@ -19079,7 +19079,7 @@ it. Ad. sk. Celebes. Br. A. B. Meyer [C.].
 Q. AUSTRALIA. (Strix delicatula,) 
 a. Light phase, 
 p. Ad. sk. Australia. Purchased. 
-<r. Ad. st. Australia. Lady Carington [P.], 
+<r. Ad. sk. Australia. Lady Carington [P.], 
 r. Ad. sk. Moreton Island. Capt. Stanley [P.]. 
 v. J juv. sk. Brisbane River. M. A. Bouvier. 
 cj>. Ad. sk. Queensland. M. A. Bouvier. 
@@ -19096,7 +19096,7 @@ h'. Ad. sk. Australia. M. A. Bouvier.
 c. Ad. sk. Interior of S. Australia, Capt. Sturt [C.]. 
 R. OCEANIA.^ (Strix lulu.) 
 f. Ad. sk. Samoan Islands. J. Gould, Esq. [PA 
-r/. Ad. st. Ovalau Island. Rev. J. B. Stair [PA 
+r/. Ad. sk. Ovalau Island. Rev. J. B. Stair [PA 
 &. 2 ad. st. Ovalau Island. Rev. J. B. Stair [P.I. 
 i'. Pull. sk. Fiji Islands. J. Brenchley, Esq. [PA 
 K'. Pull, sk. M'bau Island, Fiji group. J. Brenchley, Esq. [P.J. 
@@ -19112,7 +19112,7 @@ At'. Ad. St. North America. E. Doubleday, Esq. [P.]
 p\ Ad. sk. Canada. Purchased. 
 
 
-('. Ad. st. Bio Sacramento, California. Admiral Sir E. Belcher [P.]. 
+('. Ad. sk. Bio Sacramento, California. Admiral Sir E. Belcher [P.]. 
 o\ 5 ad. sk. California. Purchased. 
 TT'. Ad. sk. California. Purchased. 
 p'7 or'. Ad. sk. San Angel, California. Purchased. 
@@ -19145,7 +19145,7 @@ V. BRAZIL.
 h". Ad. sk. Brazil. M. Claussen [P.l 
 *". Ad. sk. Bahia. Dr. Wucherer [u. l 
 k". Juv. sk. Bahia. Dr. Wucherer [C.J. 
-l'\ Ad. st. Bahia Blanca. C. Darwin, Esq. [C.]. 
+l'\ Ad. sk. Bahia Blanca. C. Darwin, Esq. [C.]. 
 
 W. CHILL 
 m". Ad. sk. Chili. Purchased. 
@@ -19156,15 +19156,15 @@ n». Ad. sk. Santiago, Chili. E. 0. Reed, Esq. [P.1
 WEST INDIES. 
 
 X. JAMAICA. (Strix furcata.) 
-, Ad. st. 
+, Ad. sk. 
 Jamaica. P. EL Gosse, Esq, ITU. 
 Ad. sk. Jamaica. P. H. Gosse, Esq. 
 tf ad. sk Jamaica. Purchased. '-.tcj$ 
 ad. sk. Jamaica. Purchased. 
 
 Y. ST. DOMINGO. (Strix glaucops.) 
-t\ Ad. st. S. Domingo. M. A. Sall<* [C.]. 
-u". Ad. st. S. Domingo. 
+t\ Ad. sk. S. Domingo. M. A. Sall<* [C.]. 
+u". Ad. sk. S. Domingo. 
 
 Z. GALAPAGOS ISLANDS. (S. pmctatissima). 
 a". 
@@ -19300,8 +19300,8 @@ e. Ad. sk. Queensland. M. A. Bouvier.
 /. Ad. sk. Interior of Queensland. J. B. White, Esq. [C.J. 
 g. Juv. sk. Interior of Queensland. J. B. White, Esq. [C.J. 
 h. Juv. sk. W. Australia. 
-*, h. Ad. st. Port Essington. Capt. Chambers, R.N. [P.]. 
-I. Ad. st, Australia. Lady Carington [P.]. 
+*, h. Ad. sk. Port Essington. Capt. Chambers, R.N. [P.]. 
+I. Ad. sk. Australia. Lady Carington [P.]. 
 Subsp. a. Strix castanops. 
 Strix castanops, Gould, P. Z. & 1836, p. 140; id. Syn. B. Austr. 
 
@@ -19374,9 +19374,9 @@ S. castanops.
 Eab. Yan Piemen's Land. 
 a. Ad. sk. Yan Diem en's Land. 
 b. Ad. sk. Yan Diemen's Land. Lord Lilford. 
-c. Ad. st. Van Diemen's Land. 
-d. Ad. st. Yan Diemen's Land. Purchased. 
-e. Ad. st. Yan Diemen's Land. Antarctic Expedition [0.]. 
+c. Ad. sk. Van Diemen's Land. 
+d. Ad. sk. Yan Diemen's Land. Purchased. 
+e. Ad. sk. Yan Diemen's Land. Antarctic Expedition [0.]. 
 3. Strix tenebricosa. 
 Strix tenebricosus, Gould, P. Z. S. 1845, p. 80; id. B. Austr. pi. 30 ; 
 Bp. Consp. i. p. 54; Stricld. Orn. Syn. p. 182 ; Schl Mus. P.-B. 
@@ -19417,7 +19417,7 @@ wing 11*7, tail o*7, tarsus 2'G.
 Hab. Aushalia. 
 
 1. ST1UX. 307 
-a. Ad. st. Australia. Lady Carington [T.J* 
+a. Ad. sk. Australia. Lady Carington [T.J* 
 b. Ad. sk. Interior of Queensland. J. B* White, Esq. [0.]. 
 c. Ad. sk. Near Brisbane, Queensland. M. A. Bouvier. 
 4. Strix capensis. 
@@ -19490,9 +19490,9 @@ of which adhere) is of a greyish fulvous.
 
 Hab. Southern Africa. 
 
-a. Ad. st. South Africa. South-African Museum [P.], 
+a. Ad. sk. South Africa. South-African Museum [P.], 
 Type of species. 
-b. Ad. st. South Africa. South-African Museum [P.]. 
+b. Ad. sk. South Africa. South-African Museum [P.]. 
 c. Pull. st. South Africa. South-African Museum [P.J. 
 d. e. Skeletons. South Africa. Zoological Society. 
 STKIGUD-E. 
@@ -19600,7 +19600,7 @@ Hab. India, Indo-Chinese subregion and Formosa; Philippine
 Islands; N. Australia. 
 
 a. Ad. sk. India. J. Gould, E*q. [P.]. 
-b. Ad. st. Madras. Dr. Jerdon [P.~|. 
+b. Ad. sk. Madras. Dr. Jerdon [P.~|. 
 c. d. Ad. sk. Upper Assam (Dr. Meid). R. B. Sharpe, Esq. [P.]. 
 e. Pull. sk. Tenasserim. J. Gould, Esq. [P.]. 
 / . Pull. sk. Philippine Islands. E. B. Sharpe, Esq. [P.], 

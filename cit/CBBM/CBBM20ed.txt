@@ -2526,11 +2526,11 @@ Total length 11*5 inches, wing 6*3, tail $-2, bill 0*8, tarsus 0*7.
 
 Hah. Tenimber Islands. 
 
-a, b. Ad. st. Timor-laut. Capt. W. Chambers [P,], 
+a, b. Ad. sk. Timor-laut. Capt. W. Chambers [P,], 
 (Types of JSos cyanostriata, Gray.) 
 
 
-c. Ad. st. Timor-laut ? Zoological Society. 
+c. Ad. sk. Timor-laut ? Zoological Society. 
 d. Ad. sk. Tenimber Isl. Wallace Coll. 
 e. Ad. sk.. Timor-laut. Wallace Coll. 
 / . d ad. sk. Larat, Timor-laut. H. 0. Forbes [0.]. 
@@ -2836,7 +2836,7 @@ Hob. The Southern Moluccas—Bouru, Ceram, Amboyna, Harouko,
 Ceram-Laut, Goram, Monawolka, Matabello, Tejor, Khoor, Banda, 
 and Ke Islands. 
 
-a. Ad. st. No locality. 
+a. Ad. sk. No locality. 
 Laugier Coll. 
 b. Ad. sk. Ceram. 
 Wallace Coll. 
@@ -3511,7 +3511,7 @@ e. £ ad. sk. Waigiou. A. R. Wallace Coll.
 / . 2 ad. sk. Waigiou (A. P. Wallace). Gould Coll. 
 V/. $ ad. sk. Mysol, July (von Rosenlerg). Tweeddale Coll. 
 h. $ ad. ? sk. New Guinea. Dr. A. B. Meyer [C.]. 
-i. Ad. st. [Philippine Isl., wrong locality.] Laugier Coll. 
+i. Ad. sk. [Philippine Isl., wrong locality.] Laugier Coll. 
 h. Ad. var. st. No exact locality, * Purchased. 
 /. 1mm. st. No locality. " Purchased. 
 3 . LOKIUS. 
@@ -3632,7 +3632,7 @@ Adult. Very much like L.jobiensis, only wanting the red band
 below the occiput. 
 Eab. Mysore. 
 
-a. Ad. st. ? Zoological Society. (Type 
+a. Ad. sk. ? Zoological Society. (Type 
 of Lorius superbus, Fras.) 
 b. Ad. sk. ?. Purchased. 
 c. d. c? ? ad sk. [Mafoor.J Wallace Coll. 
@@ -3728,7 +3728,7 @@ Young. Has the interscapular region partly tinged with green,
 and the feathers of the tibiao mostly dull green. 
 
 Bab. Ceram and Amboyna. 
-a. Ad. st. Moluccas. Zoological Society. 
+a. Ad. sk. Moluccas. Zoological Society. 
 b, e. Ad. sk. Ceram. A. E. Wallace Coll. 
 d. Var. sk. Ceram. A. R. Wallace Coll. 
 e. Ad. sk. Ceram. Gould ColL 
@@ -3789,7 +3789,7 @@ a. tf ad. sk. San Cristoval, 10th Dec, 1854 Voyage of H.M.S.
 < Herald,' 
 (Type of species.) 
 
-b. Ad. st. Solomon Isl. 
+b. Ad. sk. Solomon Isl. 
 Zoological Society. 
 c. Ad. sk. UJaua, Aug. 1805. J. Brenchlev, Esq. [P.l. 
 d. Ad. sk. Uffi, Sept. 1865, J. Brenchley, Esq. [P.l 
@@ -3920,7 +3920,7 @@ c, d. Ad. sk. [(Celebes.] Gould Coll.
 e. Ad. sk. l Menadof] Gould Coll. 
 / . Ad. sk. ^Xew Guinea.] Tweeddale Coll. 
 g. JUT. sk. Bought alive at Ternate. 1 Challenger' Erped. 
-k. Ad. st. Moluccas. Purchased. 
+k. Ad. sk. Moluccas. Purchased. 
 ijkjl. Skeletons. 
 10. Lorius flavo-palliatus. 
 Lorins gamilas, Sclut P. Z. S. 1860, p. 226 (nee p. 227) (ex Batjan); 
@@ -3950,7 +3950,7 @@ Adult. Very much like L. gatndm, from which it differs in having
 a broad yellow patch on the interscapular region. 
 Hah. Obi, Batchian, Morotai, Raou. 
 
-a, b. Ad. st. Moluccas. Purchased. 
+a, b. Ad. sk. Moluccas. Purchased. 
 c, d. $ ad. sk. Batchian, Wallace Coll. 
 
 
@@ -4167,7 +4167,7 @@ Hal. Samoa and Friendly Islands.
 
 5. VINI. 
 45 
-a. Ad. st. South Sea Islands. Purchased. 
+a. Ad. sk. South Sea Islands. Purchased. 
 h Ad. sk.
 c, d. Ad. sk.
 e. Ad. sk.
@@ -4371,9 +4371,9 @@ one like it. According to Dr. Pinseh, it is the very young bird
 of the present species ! 
 
 a. Ad. sk. No locality. Gould Coll. 
-b. Ad. st. Huaheine. Gould Coll. 
-c. Ad. st. No locality. Zoological Society. 
-d. Ad. st. Tahiti. Purchased. 
+b. Ad. sk. Huaheine. Gould Coll. 
+c. Ad. sk. No locality. Zoological Society. 
+d. Ad. sk. Tahiti. Purchased. 
 e. Imm, sk. Tahiti. Tweeddale Coll. 
 48 
 L0RIIDJ3. 
@@ -5161,7 +5161,7 @@ green band on the nape scarcely visible.
 Hob. Eastern Australia from Cape York to Yictoria, and Tasmania 
 (Ramsay). 
 
-a. Ad. st. Australia. Zoological Society. 
+a. Ad. sk. Australia. Zoological Society. 
 b-e. Ad. sk. Australia. Gould Coll. 
 f9g. Ad. sk. Australia (J. T. Cocherell). Salvin-Godman Coll. 
 h. Ad. sk. Australia. 
@@ -5279,7 +5279,7 @@ h, i $ ad. sk.
 61 
 
 k, I Ad. sk. N.W. Australia (J. T. Cockerel!). Salvin-Godman Coll. 
-?n, n. Ad. st. Port Essington. Capt. W. Chambers 
+?n, n. Ad. sk. Port Essington. Capt. W. Chambers 
 
 [P.l 
 o. Ad. sk. Port Essington. Gould Coll. 
@@ -5579,7 +5579,7 @@ Specimens from Flores have greener and darker heads ; the under
 
 side of the body also is of a darker green. 
 
-a. Ad. st. Timor. Purchased. 
+a. Ad. sk. Timor. Purchased. 
 b. Ad, st. Timor. Zoological Society. 
 c-f. Ad. sk. E. Timor. Wallace Coll. 
 g] $ imm. sk. E. Timor ( Wallace). Gould Coll. 
@@ -5739,7 +5739,7 @@ Young. Pale dull green, with scarcely any streaks; the forehead
 pale red. 
 Hah. Northern and Western Australia. 
 
-a, b. Ad. st. Port Essington. Capt. W. Chambers [P,]. 
+a, b. Ad. sk. Port Essington. Capt. W. Chambers [P,]. 
 
 c. J ? ad. sk. Port Essington. Capt. O. Stanley [P.t 
 d-h. S ? ad. et Depot, N.W. Australia, J. R. Elsey, Esq. [Pi]. 
@@ -5962,7 +5962,7 @@ y. Ad. sk. Cape Upstart, April 1843. J. B. Jukes ~P.~T
 h,i. Ad.sk. Australia (J. TJ'oclcereU). Salvin-Godman Cull. 
 &. Ad. sk, Aubtralia. Tweeddale Coll. 
 \ m. Ad. sk. Ashfield, July 1863. Hume Cull. 
-n. Ad. st. Tasmania. * E. Gunn, Esq. [P.". 
+n. Ad. sk. Tasmania. * E. Gunn, Esq. [P.". 
 o} p. Ad. sk. * Tasmania. P. Gunn, Esq. ^P/. 
 q} r. Ad. sk. Tasmania. Antarctic Exped. "" 
 s. Ad. var. sk. Tasmania. Antarctic Exped. 
@@ -6019,7 +6019,7 @@ bluish ; " iris brown, with a narrow ring of orange round the pupil"
 
 Hah. West and South Australia. 
 
-a, h. Ad. st. S. Australia. Gould Coll. 
+a, h. Ad. sk. S. Australia. Gould Coll. 
 
 c. Ad. sk. S. Australia. Gould Coll. 
 d, e. Ad. sk. W. Australia (J. T. Cocherell). Salrin-Godman Coll. 
@@ -6089,7 +6089,7 @@ Ilab. Australia, from Rockingham Bay to South Australia, and
 Tasmania. 
 
 a. Ad. &t. Australia. Australian Hus. [P.". 
-b. Ad. st. Australia. Purchased. 
+b. Ad. sk. Australia. Purchased. 
 c. d. Ad. sk. Australia. Sir B. Cooper fP.l 
 e,f. Ad. sk. Australia (J. T. Cockerell). Salvin-Godman Coll. 
 g. <$ ad. sk. S. Australia. Gould Coll. 
@@ -7061,7 +7061,7 @@ tail 3-2(), bill 0*61, tarsus 0-50.
 
 Hah. Timor. 
 
-«* Ad. st. Timor. 
+«* Ad. sk. Timor. 
 
 h. 
 Iinni. st, Timor. Zoological Society [P.]# 
@@ -9465,7 +9465,7 @@ round the eyes whitish grey : bill and feet black ; iris dark brown.
 Total length 14 inches, wing 9*5, tail 5, bill 1-4, tarsus 0*7. 
 
 Hob. Sumba. 
-a. Ad. st. [Timor ?] • Purchased. 
+a. Ad. sk. [Timor ?] • Purchased. 
 b. $ ad. sk. [Timor-kut?] (Purchased at "Wallace Coll. 
 Surabaya.) 
 c.Ad.sk. [Moluccas.] Tweeddale Coll. 
@@ -9530,12 +9530,12 @@ Interior to Victoria and S.W. Australia.
 a. 
 Ad. sk. Australia. Zoological Society's Coll. 
 (Type of species.) 
-b. Ad. st. Australia. Sir T. Mitchell [P.]. 
+b. Ad. sk. Australia. Sir T. Mitchell [P.]. 
 c. Ad. sk. Australia. Sir G. Grey [PA 
 d. Ad. sk. Kiver Murray (Nov.). Sir G. Grey [_P.J. 
 e-h. Ad. sk. Gould Coll. 
 i. Ad. &k. Lake Bonney (Sept.). Capt. Sturt [P.I. 
-k. Ad. st. S. Australia. Capt. Sturt [P.". 
+k. Ad. sk. S. Australia. Capt. Sturt [P.". 
 I. Ad. sk. Australia. Salvin-Godman Coll. 
 m. Ad. sk. New South Wales. Hume Coll. 
 n. Skeleton. 
@@ -9632,12 +9632,12 @@ besides through all the region inhabited by G. alba larger and
 smaller specimens are to be found. 
 
 a. Ad. st.
-b. Ad. st. 
+b. Ad. sk. 
 Moluccas. 
 Moluccas. 
 Zoological Society. 
 Purchased. 
-c. Ad. st. Halmahera. A. P.. Wallace Coll. 
+c. Ad. sk. Halmahera. A. P.. Wallace Coll. 
 d. cJ ad. sk. Ternate. A. R. Wallace Coll. 
 e. $ ad. sk.
 / . 2 ad. sk.
@@ -9781,7 +9781,7 @@ inches, wing 12, bill 1*8, tarsus 11.
 
 Mob. Ceram and Amboyna. 
 
-a. Ad. st. Moluccas. P. G. Gill, Esq. [P.], 
+a. Ad. sk. Moluccas. P. G. Gill, Esq. [P.], 
 b. Ad. sk. Moluccas. Purchased. 
 c. Ad. sk. No locality. Gould Coll. 
 d. 
@@ -10070,7 +10070,7 @@ Hal. Philippine and Sulu Islands.
 Specimens from different islands show some little differences in 
 the dimensions. 
 
-a. Ad. st. Philippine Isl. Zoological Society. 
+a. Ad. sk. Philippine Isl. Zoological Society. 
 
 b. Ad. sk. Manila. Gould Coll. 
 
@@ -11285,7 +11285,7 @@ Total length about 29 inches,"wing 14*5, tail 15, bill 2*7, tarsus
 
 Hob. Paraguay, Uruguay, and Southern Brazil. 
 
-a. Ad. st. Paraguay. Massena Coll. 
+a. Ad. sk. Paraguay. Massena Coll. 
 h. 
 <$ ad. sk. Paraguay. Salvin-Godman Coll. 
 150 
@@ -11535,7 +11535,7 @@ Ad. st. British Guiana (Schomburgk). Royal Geographical
 Society [P. J 
 
 g. Ad. sk. Mexiana, Dec. (Wallace). Sclater Coll. 
-h. Ad. st. South America. Purchased. 
+h. Ad. sk. South America. Purchased. 
 i. Skeleton (without skull). 
 h. Skeleton. 
 /. Skull. 
@@ -11874,7 +11874,7 @@ the tip; legs and feet brownish; iris pale yellow. Length about
 
 Hah* Cuba. 
 a. Ad. sk. [South America.] Purchased. 
-b. Ad. st. [South America.] Zool. Society. 
+b. Ad. sk. [South America.] Zool. Society. 
 
 6. Ara militaris. 
 The Great Green Maccaw, JEdw. Glean, vii p. 224, pi. 313 (1764). 
@@ -12077,7 +12077,7 @@ coverts, bend of the wing, and carpal edge; the under wing-coverts
 are of a paler orange, and the thighs greenish, tinged with orange. 
 
 Hob. Bolivia. 
-a, b. Ad. st. Bolivia. C. Bridges [0.]. 
+a, b. Ad. sk. Bolivia. C. Bridges [0.]. 
 c. Imm. sk. Massena Coll. 
 
 9. Ara severa. 
@@ -12173,7 +12173,7 @@ ley).
 e. d ad. sk. Pebas, E. Peru, Aug. Salvin-Godman Coll. 
 {HaiLviuell). 
 f. Ad. sk. (red var.). Rio Javari. Purchased. 
-g. Ad. st. Bolivia. C. Bridges [0.1. 
+g. Ad. sk. Bolivia. C. Bridges [0.1. 
 h. Ad. sk. Bolivia. Sclater ColL 
 I' ^ S h ' [Bolivia.] E. Wilson, Esq. [P.]. 
 k. Ad. sk. 8. America. Purchased. 
@@ -12340,7 +12340,7 @@ Female. Rather smaller than the male. Total length 15 inches,
 wing 7-7, tail 7, bill 1-3. 
 Hob. Matogrosso, Bolivia, and Upper Paraguay. 
 
-a. Ad. st. Bolivia. O. Bridges [O.]. 
+a. Ad. sk. Bolivia. O. Bridges [O.]. 
 b. Ad, sk. South America. Eyton Coll. 
 c. $ ad. sk. Villa Maria, Brazil, Aug. Salvin-Godman Coll. 
 {Natterer). 
@@ -12549,7 +12549,7 @@ A. hahni, like the preceding species, shows sometimes a few
 red feathers on the thighs. 
 a. Ad. sk. Surinam, Guiana. Sclater ColL 
 b. Ad. sk. Maroni R., Surinam (Verdeg). Salvin-Godman Coll. 
-c. Ad. st. British Guiana. K. Schomburgk T?.]. 
+c. Ad. sk. British Guiana. K. Schomburgk T?.]. 
 d, e. S $ ad. sk. Boraima, Brit. Guiana, Jan. Salvin-Godman Coll. 
 (Whitely). 
 
@@ -13058,7 +13058,7 @@ Young. Cheeks and upper wing-coverts with scattered green
 feathers (FinscTi). 
 Hab. Para, KE . Brazil. 
 
-a. Ad. st. Brazil. Purchased. 
+a. Ad. sk. Brazil. Purchased. 
 b. Ad. sk. Brazil. Riocour Coll. 
 c. Ad. sk. Brazil. Purchased. 
 d. Ad. sk. Para. Salvin-Godinan Coll. 
@@ -13182,7 +13182,7 @@ tinge of the green back, the jellow edges of the upper wing-coverts,
 the greenish tinge of the throat, and by the yellow-orange tinge of 
 
 the lower parts. 
-a, b. Ad. st. Brazil. Zoological Society's 
+a, b. Ad. sk. Brazil. Zoological Society's 
 Coll. 
 c. $ ad. sk.
 d. Inim. sk. 
@@ -13270,7 +13270,7 @@ length about 12 inches, wing 6*1, tail 5*6, bill 0*9, tarsus 0*55.
 
 Hah, Eastern Brazil. 
 
-a. Ad. st. S. America. Zoological Society. 
+a. Ad. sk. S. America. Zoological Society. 
 b, c. Ad. sk. Brazil. Sclater Cull. 
 d. Ad. sk. Pemambuco, Brazil (Crave?*). Sclater Cull. 
 6. Conurus auricapillus. 
@@ -13341,7 +13341,7 @@ and to the abdomen.
 
 Eab. Eastern Brazil. 
 
-a. Ad. st. S. America. Purchased. 
+a. Ad. sk. S. America. Purchased. 
 b. Ad. sk. Brazil. 
 Salvin-Q-odman Coll. 
 c. Ad. sk. Bahia (Wuclierer). Sclater Coll. 
@@ -13411,7 +13411,7 @@ Total length about 12 inches, wing 7*3, tail 6, bill 0*95, tarsus 0*6.
 
 Young. Duller. 
 Bab. Paraguay. 
-«„ Ad. st. Paraguay. Purchased. 
+«„ Ad. sk. Paraguay. Purchased. 
 b. Ad. sk. [Buenos* Ayres.' Sclater Coll. 
 
 8. Conurus wed&elli 
@@ -13608,7 +13608,7 @@ Hab. Ecuador and Peru.
 
 a-c. Ad. sk. Payta, Peru, Jan. (Markham). Salvin-Godman Coll. 
 
-d. Ad. st. Guayaquil. Massena Coll. 
+d. Ad. sk. Guayaquil. Massena Coll. 
 (Type of the species.) 
 e. Ad. sk. Pallatanga, Ecuador (Eraser). Sclater Coll. 
 / . Ad. sk, Intaj, Ecuador (Buckley). Sahin-Godman Coll. 
@@ -13733,7 +13733,7 @@ white; feet dusky; irides yellow. Total length about 14 inches,
 
 -wing 7, tail 6, bill 1*05, tarsus 0-65. 
 Bab. Venezuela and Colombia. 
-a. Ad. st. Sante Fe de Bogota. Purchased. 
+a. Ad. sk. Sante Fe de Bogota. Purchased. 
 b. Ad. sk. (Type s of the species.) 
 e. Ad. sk. Bogota. Sclater Coll. 
 d. Ad. sk. Bogota (Crowther). Salvin-Godman Coll. 
@@ -13963,7 +13963,7 @@ Eab. Guiana, Trinidad, and Colombia, and through the Amazon
 Valley to Eastern Peru, Bolivia, and Brazil. 
 
 
-a. Ad. st. Bogota. 
+a. Ad. sk. Bogota. 
 Ha^sena Coll. 
 b. Juv. sk. Yqintos, Peru ( Whitehj). Sclater Coll. 
 c. d ad. sk. Borba, Brazil, Bec.(Xatferer). Sdhin-Godman Cull. 
@@ -13981,7 +13981,7 @@ $ ad. etjuv. Feb., March, AUG:., Sept.
 sk. (H. II. Smith). 
 1. Juv. sk. Mattogrosso, Brazil (II. H. Salvin-Gudman Coil. 
 Smith), 
-m. Ad. st. Bolivia. Bridtre* Coll. 
+m. Ad. sk. Bolivia. Bridtre* Coll. 
 n, o. Ad. sk. Bahia, Brazil (Wvchercr). fciah in-Godman Coll. 
 p. 
 $ ad. sk. Pelotab, Rio Grande do Sul, Salvin-Gudnian Coll. 
@@ -14208,7 +14208,7 @@ Total length about 10*5 inches, wing 5*7, tail 5*2, bill O'SS,
 tarsus 0*5. 
 Female, Like the male. 
 Hah. Jamaica. 
-a. Ad. st. Jamaica. Prreha-ed. 
+a. Ad. sk. Jamaica. Prreha-ed. 
 b, c. Ad. sk. Jamaica. P. II. Go^e "P.". 
 d. J ad. sk. Jamaica (CKburn). *st Litt r Coll. " 
 e. 9 ad.sk. SpaiiisktoNwi, Jamaica, Nu itli-nnian I >fii i-
@@ -14586,10 +14586,10 @@ the orange-yellow orbital ring irregularly extended over the cheeks
 and ear-coverts, and the forehead also tinged with yellow, approaching 
 to a certain extent O. pertinax from St. Thomas. 
 
-a-c. Ad. st. British Guiana (Schomburgk). E. Geograph. Soc. 
+a-c. Ad. sk. British Guiana (Schomburgk). E. Geograph. Soc. 
 [p.].' 
 
-d. Ad. st. British Guiana. E. Schomburgk [O.]. 
+d. Ad. sk. British Guiana. E. Schomburgk [O.]. 
 e-g. <$ $ ad.sk. Eoraima, British Guiana, June Salvin-Godman Ooll. 
 Ii. Ad. sk.
 and November (JT. 
@@ -14905,7 +14905,7 @@ Bab. Guiana, Amazons 7alley, Bolivia, Brazil, and Paraguay.
 Some specimens want the orbital yellow circle. 
 
 a. Ad. sk. S. America. Purchased. 
-b, c. Ad. st. Para. R. Graham, Esq. 
+b, c. Ad. sk. Para. R. Graham, Esq. 
 \p.]. 
 
 d. 
@@ -15017,7 +15017,7 @@ Immature. The red on the forehead much more restricted and
 confined to a small spot. 
 Hal. Mexico and Central America as far as Costa Eica. 
 
-a. Ad. st. Mexico. Mas?ena Coll. 
+a. Ad. sk. Mexico. Mas?ena Coll. 
 b. Ad. sk.
 c. Ad. sk.
 d,e.<$2 ad. sk. 
@@ -15185,7 +15185,7 @@ Lower Ifississippi Valley, and of local occurrence only." (A. 0. U.
 
 Code.) 
 
-a. Ad. st. North America. J. J". Audubon. Esq. 
+a. Ad. sk. North America. J. J". Audubon. Esq. 
 b. Ad. sk. North America. J. J. Audubon, Esq. 
 [p.]. 
 c. Ad. sk. North America. Sclater Coll. 
@@ -15617,7 +15617,7 @@ Female. Like the male.
 
 Eab. Chili and Straits of Magellan. 
 
-a. Ad. st. Chili. 
+a. Ad. sk. Chili. 
 The Admiralty [P.l 
 b. Ad. sk. Chili. 
 The Admiralty [P.]. 
@@ -15989,7 +15989,7 @@ length 8*3 inches, wing 4*4, tail 4*3, bill 0-58, tarsus 0*4.
 Hob. Eastern Brazil. 
 
 a. Ad. sk. Ceara, North Brazil ( W. Jesse). Salvin-Godman Coll. 
-b. Ad. st. Brazil. Lord Stuart de Roth-
+b. Ad. sk. Brazil. Lord Stuart de Roth-
 say [P.I 
 c. Ad. sk. S.E. Brazil (Ward). Sclater Coll. 
 d. Ad. sk. Brazil. Purchased. 
@@ -16163,7 +16163,7 @@ Female. Like the male.
 Bab. Guiana and Trinidad; according to Einsch also near Para, 
 
 N. Brazil. 
-a. Ad. st. British Guiana (Scho?nburgk). Roy. Geographical 
+a. Ad. sk. British Guiana (Scho?nburgk). Roy. Geographical 
 Soc.JT.J. 
 b, c, d. Ad. sk. British Guiana {Schomburgk). Roy. Geographical 
 e. Ad. sk. Guiana.
@@ -16385,7 +16385,7 @@ white; feet dusky. Total length 10-3 to 9*5 inches, wing 5-6, tail
 4-7, bill 7-5, tarsus 5-6. 
 
 Hal. Bogota. 
-a. Ad. st. S. America. Purchased. 
+a. Ad. sk. S. America. Purchased. 
 b-e. Ad. sk.
 f-g. Ad. sk. 
 Bogota. 
@@ -16498,8 +16498,8 @@ primary-coverts green, with some feathers red.
 
 Hab. Ecuador and Xauta district of Eastern Peru. 
 
-a. Ad. st. 
-b. Ad. st. 
+a. Ad. sk. 
+b. Ad. sk. 
 c. Ad. sk. 
 Rio Napo. 
 Rio Kapo. 
@@ -16648,7 +16648,7 @@ MassenaOoll.
 of species.) 
 Massena Coll. 
 (Type 
-d. Ad. st. 
+d. Ad. sk. 
 e. Ad. sk. 
 /. Ad. sk. 
 g. Ad.sk. 
@@ -16787,7 +16787,7 @@ Young. The bend of the wing green with no red feathers.
 
 Hah. Lower Amazons. 
 
-a. Ad. st. Brazil. Purchased. 
+a. Ad. sk. Brazil. Purchased. 
 b. Ad. sk.
 c. Ad. sk.
 d. Ad. sk, 
@@ -17147,7 +17147,7 @@ colour on the inner webs; tail underneath verditer-blue. Bize of
 B. 
 monachus. 
 Bab. Bolivia? 
-a, b. Ad. st. Bolivia. T. Bridges [0.]. (Types 
+a, b. Ad. sk. Bolivia. T. Bridges [0.]. (Types 
 oi species.) 
 
 14. BOLBOEHYKCHUS. 
@@ -17337,7 +17337,7 @@ e,f.
 $ $ ad. sk. Tarapaca, Chili, Jan. (Rah- Sclater Coll. 
 mer). 
 
-g. Ad. st. Bolivia. T. Bridge- "C. . 
+g. Ad. sk. Bolivia. T. Bridge- "C. . 
 //. Ad.sk. Lake of Titicaca, Bolivia. J.Pentland^E^q. ~P.]. 
 i. 
 Ad. sk. Lake of Titicaca, Bolivia, May Sclater Coll. 
@@ -18125,7 +18125,7 @@ lower parts.
 
 a. AA. st. S. America. Zoological Society's 
 Coll. 
-b. Ad. st. S. America. Purchased. 
+b. Ad. sk. S. America. Purchased. 
 e, d. Ad. sk. Pernambuco, Brazil {Forbes). Salvin-Godman Coll. 
 e. [$ ] ad.sk. Pernambuco, Brazil (Forbes). Sclater Coll. 
 / . r? ad. sk. Bahia, Brazil ( Wucherer). Sclater Coll. 
@@ -18268,7 +18268,7 @@ lighter nor yellower than in typical P. eyanopygia.
 250 
 PSITTACIDJS. 
 
-a, b. Ad. st. [Bolivia.] 
+a, b. Ad. sk. [Bolivia.] 
 MassenaColl. (Types 
 
 of species.) 
@@ -18655,7 +18655,7 @@ Young. More greyish green; quills green, with no blue colour.
 Hab. Eastern Brazil, and also (according to Schomburgk) British 
 Guiana. I have never seen a specimen from the latter country. 
 
-«, b, Ad. st. Brazil. Purchased. 
+«, b, Ad. sk. Brazil. Purchased. 
 c, d. Ad, sk Purchased. 
 e. Ad. sk. Brazil. Sclater Coll. 
 / . Ad. sk.
@@ -18757,7 +18757,7 @@ from Bahia and Bolivia.
 
 a. Ad. sk. Brazil. Sclater Coll. 
 b, c. Ad. sk, 
-d. Ad. st. 
+d. Ad. sk. 
 e. Ad. sk. 
 f. <$ ad. sk. 
 g. h. S $ ad. sk. 
@@ -18940,7 +18940,7 @@ Total length about 8 inches, wing 4-8, tail 3*3, bill 0*7, tarsus 042.
 Female. like the male. 
 Hah. Western Ecuador and ^North-western Peru. 
 
-a, k Ad. st. Guayaquil. 
+a, k Ad. sk. Guayaquil. 
 Zoological Soc. Coll. 
 
 c. 
@@ -18949,7 +18949,7 @@ Belcher).
 d. 
 Ad. st. Babahoyo, Ecuador (Fru- Sclater Coll. 
 ser). " 
-eff. Ad. st. Santa Rita, Ecuador Salvin-Godman Coll. 
+eff. Ad. sk. Santa Rita, Ecuador Salvin-Godman Coll. 
 {Buclcley). 
 
 g. Skeleton. Guayaquil 
@@ -19052,7 +19052,7 @@ the type of Psittovius subcceraleus, which was shot in Panama by
 Mr. M'Leannan out of a flock of B. jugularis, is only an individual 
 variety, with a bluish tinge, of the last-named species. 
 
-a, b. Ad. st. S. America. Purchased. 
+a, b. Ad. sk. S. America. Purchased. 
 c. c? ad. st.
 d- Ad. sk. 
 S. America. Zoological Soc. Coll. 
@@ -19291,7 +19291,7 @@ Hob. Lower Amazons,
 
 a. Ad. sk. S. America. 
 Selater Coll. 
-b. Ad. st. Para. 
+b. Ad. sk. Para. 
 P. Graham, Esq. [P.]. 
 c. 
 <$ ad. sk. Para, Feb. (E. L. Layard). Tweeddale Coll. 
@@ -19355,7 +19355,7 @@ Female. Like the male.
 Young. Primary-coverts green. 
 Bab. Guiana, Venezuela, and perhaps also Trinidad *. 
 
-a. Ad. st. S. America. Purchased. 
+a. Ad. sk. S. America. Purchased. 
 b. Ad. sk. Zool. Soc. Coll. 
 c. Juv. sk. S. America. Purchased. 
 d. e. d ? ad. sk. Bartica Grove, Brit. Guiana, Salvin-Godman Coll. 
@@ -19483,7 +19483,7 @@ appears in the female.
 
 The locality Bolivia, attributed to this species on the authority 
 of a specimen in Mr. Sclater's Collection, is very doubtful. 
-a, h. Ad. st. S. America. Zoological Society's 
+a, h. Ad. sk. S. America. Zoological Society's 
 
 
 Coll. 
@@ -20893,7 +20893,7 @@ March (IT. Whitely).
 g* Ad. sk. Venezuela. Salvin-Godman Coll. 
 
 h. Ad. sk. Trinidad. Zool. Soc. Coll. 
-*. Ad. st. Bogota. Purchased. 
+*. Ad. sk. Bogota. Purchased. 
 ife.Ad.sk. Vicinity of Bogota (Crotother). Salvin-Godman Coll. 
 I S ad. sk. Arihueca, U. S. of Colombia, Salvin-Godman Coll. 
 March (F A. A. Simons). 
@@ -21056,7 +21056,7 @@ near the gape, is blue like the forehead and lores; also as regards
 the bend of the wing the variation in colour is very great, this part 
 in some being red, in others red and yellow, or mostly yellow. 
 
-a, b. Ad. st, S. America. Purchased. 
+a, b. Ad. sk. S. America. Purchased. 
 
 c. Ad. sk. S. America. Zool. Soc. Coll. 
 288 PSITTACID.E. 
@@ -21163,8 +21163,8 @@ Dr. Einsch mentions a specimen sent to the Berlin Museum from
 Caracas ; I suppose that this is Messrs. Sclater and Salvin's authority 
 for stating that the bird lives in Yenezuela. 
 
-a. Ad. st. S. America. Purchased. 
-b. Ad. st. S. America. Massena Coll. 
+a. Ad. sk. S. America. Purchased. 
+b. Ad. sk. S. America. Massena Coll. 
 c. c? ad. sk. S. America (Zool. Soc). Sclater Coll. 
 dj e. c? ad. sk. S. America. " Zoological Society's Coll. 
 
@@ -21491,13 +21491,13 @@ yellowish green.
 Hal. Mexico, from Euevo Leon on the east and Mazatlan ana 
 Tres Marias on the west to Tehuantepec, Yucatan, and Honduras. 
 
-a. Ad. st. [S. America.] Purchased. I 
+a. Ad. sk. [S. America.] Purchased. I 
 [S. America.] Mrs. Leigh Sotherhy. f
-b. Ad. st. 
+b. Ad. sk. 
 (Types of the species.) 
 
 [S. America.] Massena Coll. 
-c. Ad. st. 
+c. Ad. sk. 
 Tres Marias Is., TV. Mexico, Salvin-Godman Coll. 
 
 d,e. 6 $ ad. sk. 
@@ -21632,7 +21632,7 @@ tail 4-8, bill 1*6, tarsns 0*8.
 
 Hab. Guiana. 
 
-a. Ad. st. Bogota. 
+a. Ad. sk. Bogota. 
 Purchased. 
 b. $ ad. sk. Guiana. fc Sclater Coll. 
 c. d 
@@ -21707,7 +21707,7 @@ lateral tail-feathers towards the tip much smaller and less defined
 than in the adult bird. 
 Hab. South-eastern Brazil, from Espiritu Santo to Serra dos 
 Orgaos, 
-a. Ad. st. Brazil. Purchased. 
+a. Ad. sk. Brazil. Purchased. 
 b, c. Ad. et JUT. sk. Brazil. Salvin-Godinan Coll. 
 cl Ad. sk. Brazil. Sclater Coll. 
 e. Ad. sk. S.E. Brazil. Sclater Coll. 
@@ -21786,7 +21786,7 @@ $ ad. sk. Rio Comachio, N. Leon, Salvin-Godman Coll.
 Mexico, June (F. B. Awn-
 strong). 
 
-m. Ad. st. Tamaulipas. 
+m. Ad. sk. Tamaulipas. 
 ZooL Soc. Coll. 
 n, o, tf ad. sk. Sierra Madre, above Cindad Salvin-Godman Coll. 
 Victoria, Tamaulipas (W. 
@@ -22205,7 +22205,7 @@ green.
 belongs to the present species. 
 PSITTACID-B. 
 
-a. Ad. st. S. America. Zoological Society's 
+a. Ad. sk. S. America. Zoological Society's 
 Coll ^ 
 b. Ad. sk. Mexico. 
 Purchased. 
@@ -22530,14 +22530,14 @@ bill 1*3, tarsus 0*8.
 
 Hab. Guiana (?), Amazons Valley up to Eastern Peru. 
 
-a. Ad. st. S. America. 
+a. Ad. sk. S. America. 
 Purchased. 
 h. 2 ad. sk. S. America (Stokmann). Selater ColL 
 c. Ad. sk. S. America (Fraser). Selater Coll. 
 d. c? ad. sk. Elvira; E. Peru (J. Hauxicell). Salvin-Godman Coll. 
 e. <$ ad. sk. Elvira, E. Peru (J. Hauxwell). Selater Coll. 
 /. <$ ad. sk. Ucayali, May (E. Bartlett). Purchased. 
-g. Ad. st. Para. 
+g. Ad. sk. Para. 
 K. Graham, Esq. 
 [P.J 
 31. Chrysotis chloroiiota. (Plate YIII.) 
@@ -22647,9 +22647,9 @@ Hah, Porto Rico.
 Some specimens have no red at all at the base of the inner web 
 of the lateral tail-feathers. 
 
-a. Ad. st. Porto Rico. ZoologicalColl. 
+a. Ad. sk. Porto Rico. ZoologicalColl. 
 Society's 
-b. Ad. st. Massena Coll. 
+b. Ad. sk. Massena Coll. 
 c. Acl. sk. Porto Rico. Sclater Coll. 
 d. Ad. sk. 
 e. Ad. sk. 
@@ -22802,7 +22802,7 @@ feathers; the forehead is white, while in the majority from the
 other localities, except those from Northern Yucatan, the white of 
 the forehead is tinged with yellowish. 
 
-a. Ad. st. Mexico. Purchased. 
+a. Ad. sk. Mexico. Purchased. 
 b. Ad. sk. Mexico. Purchased. 
 c-f. c? § ad. sk. Quiriego Sonora, Mexico, Salvin-Clodman Coll. 
 g, h. tf 2 a<i-sk.
@@ -23000,7 +23000,7 @@ f. § ad. sk. Samana, San Domingo, Sept. Salvin-Grodman Coll,
 a. 
 $ ad. sk. Zoological Society's 
 CoU. 
-h. Ad. st. 
+h. Ad. sk. 
 Massena Coll. 
 i. Skeleton. 
 38. Chrysotis leucocepliala. 
@@ -23300,7 +23300,7 @@ Young. I|as no red on the primary-coverts, which are green, and
 no bluish tinge on the piletim. 
 Eab. Jamaica. 
 
-a, b. Ad. st. Jamaica. 
+a, b. Ad. sk. Jamaica. 
 P. Gosse TV. 
 
 c. <$ ad. sk. Freeman's Hall, Trelawny, Salvin-Gro'dman Coll 
@@ -23559,7 +23559,7 @@ Hah. Prom Costa Rica to Colombia, Trinidad, Guiana, Amazon
 
 Valley, Ecuador, Peru, and, if the same, also Bolivia. 
 
-a. Ad. st. South America. Baron Laugier*-* Coll. 
+a. Ad. sk. South America. Baron Laugier*-* Coll. 
 b, c § ad. sk. Bugaba, Cbiriqui (Arce). Salvin-Gudiran Cull. 
 d. <$ ad. sk. Santa Fe, Veragua (Arce). Sahin-Godman Cull. 
 e. <$ acl. sk. Veragua (Arce). Sclater Coll. 
@@ -23880,8 +23880,8 @@ Schomburgk were young, with reddish forehead, of P. menstnm*.
 The type of P. maximiliani with a reddish frontal band is no doubt 
 a young specimen of the bird called P.jiavirostris by Spix. 
 
-a. Ad. st. S. America. Purchased. 
-b. Ad. st. Brazil. Purchased. 
+a. Ad. sk. S. America. Purchased. 
+b. Ad. sk. Brazil. Purchased. 
 c. Ad. sk.
 d. e. Ad. et iinm. sk. 
 [Chili.] 
@@ -24438,8 +24438,8 @@ larger and have the pileum not hoary grey, but. brown with hoary
 streaks, and^ the lateral tail-feathers without dull red spots at the 
 bases of the inner webs ; they probably belong to a distinct form 
 
-a. Ad. st. Demerara. Purchased. 
-b. Ad. st. British (xuiaiii (Sehombitrgk). (leograph. Soc. [P.]. 
+a. Ad. sk. Demerara. Purchased. 
+b. Ad. sk. British (xuiaiii (Sehombitrgk). (leograph. Soc. [P.]. 
 e. c? ad. sk. Mevume Mountains, British Salvin-Uodman Doll. 
 Guiana, July (H. IVhitely). 
 d. 2 ad. sk. Camacnsa, British Guiaua, Salvin-Godman Coll. 
@@ -24520,10 +24520,10 @@ of the tail is more greenish.
 Young males have the blue patch on the abdomen much smaller. 
 Hob. South-eastern Brazil. 
 
-a, b. Ad. st. S. America. 
+a, b. Ad. sk. S. America. 
 Baron Laugier's Coll. 
 
-c. Ad. st. S. America. 
+c. Ad. sk. S. America. 
 Gould Coll. 
 d. Ad. sk. Brazil. 
 Salvin-Godman Coll. 
@@ -25060,7 +25060,7 @@ a dealer, and has no reliable locality on the label; specimens from
 Eio Javarri, collected by Bates (P. Z. S. 1857, p. 266), are not in 
 the British Museum, 
 
-a. Ad. st. S. America. Purchased. 
+a. Ad. sk. S. America. Purchased. 
 b. Ad. sk. ^ Gould Coll. 
 c. Ad. sk. S. America. Purchased. 
 d. Ad. sk. [J>ara] S. America. Sclater CoU. 
@@ -25150,7 +25150,7 @@ Taczanowski and perhaps other ornithologists describe the female
 as differing from the male, but I have no doubt they have mistaken 
 the young bird for the female. 
 
-a. Ad. st. [British Guiana.] Sir R. Schomburgk [P.]. 
+a. Ad. sk. [British Guiana.] Sir R. Schomburgk [P.]. 
 b. (S ad. sk. Marabitanas, Brazil, March Sclater Coll. 
 (Natterer). 
 c. $ ad. sk. Marabitanas, Brazil, April Salvin-Godman Coll. 
@@ -25357,7 +25357,7 @@ Jfab. Lower Amazon Valley, from Para to Burba.
 350 
 PSITTACID.F. 
 
-a. Ad. st. S. America (A. B. Wallace':). Purchased. 
+a. Ad. sk. S. America (A. B. Wallace':). Purchased. 
 b. Juv. sk. Para (A. B. Wallace), Sclater Coll. 
 c. 
 tfimm.sk. Amazons {Orton). Salvin-Godman Coll. 
@@ -25518,7 +25518,7 @@ Young. More bluish on the breast, and with the tail-feathers
 more reddish (Leotaud). 
 Hob. Trinidad and Venezuela. 
 
-a. Ad. st. R. America. Baron Langirt* C »11. 
+a. Ad. sk. R. America. Baron Langirt* C »11. 
 /;. Ad. sk. S. America. Baron Laujfier Coll. 
 c. Ad. <k. R. America. 
 Purchased. 
@@ -25671,7 +25671,7 @@ to the tip, and is wanting on the outer edge.
 
 Hob, Guiana, Cayenne, and Lower Amazons. 
 
-a. Ad. st. Demerara. Purchased. 
+a. Ad. sk. Demerara. Purchased. 
 b. Ad. sk. Demerara. Purchased. 
 c. Ad. sk. Guiana. Sclater Coll. 
 d. Ad. sk,
@@ -25696,9 +25696,9 @@ Oyapoc, Cayenne.
 Capim Eiver (Wallace). 
 ' Salvin-Godman Coll 
 Sclater Coll. 
-/. Ad. st. Brazil. Purchased. (Type of 
+/. Ad. sk. Brazil. Purchased. (Type of 
 P. vij'idicauda,Gv.) 
-m. Ad. st. Purchased. 
+m. Ad. sk. Purchased. 
 
 4. Urochroma sur&a. 
 Psittacus surdus, El in Mus. Berol; KuM} Consp, Psitt p. 59 
@@ -25759,7 +25759,7 @@ the tip.
 
 Hab. South-eastern Brazil. 
 
-a. Ad. st. S. America. 
+a. Ad. sk. S. America. 
 Baron Laugier Coll 
 b. Ad. sk. S. America. 
 Gould Coll. 
@@ -26131,7 +26131,7 @@ iris reddish brown. Total length about 9*5 inches, wing 5*5, tail 2-7,
 bin 1-03, tarsus 0-55. 
 Hah. Lower Amazons. 
 
-a, b. Ad. st. S. America. Zool. Society's Coll. 
+a, b. Ad. sk. S. America. Zool. Society's Coll. 
 c.Ad.sk. Para {Natterer). Sclater Coll. 
 
 d. <$ ad. sk. Lower Amazons. Zool. Society's Coll. 
@@ -26166,7 +26166,7 @@ Hah. Upper Amazons.
 362 
 PSITTACID-E. 
 
-a. Ad. st. Eio Javarri. H. W. Bates [C.l. | (Types of 
+a. Ad. sk. Eio Javarri. H. W. Bates [C.l. | (Types of 
 b. Ad. sk. Rio Javarri. H. W. Bates [C.]. \ the species.) 
 e. 
 5 ad. sk. Upper Amazons. Sclater Coll. 
@@ -26743,7 +26743,7 @@ a few yellow feathers along the carpal edge.
 
 a, b. d $ ad. sk. Shoa, Sept. and Dec. (Antinori). Shelley Coll. 
 
-c. Ad. st. Shoa. Rrippell Coll. 
+c. Ad. sk. Shoa. Rrippell Coll. 
 9. Pceocephalus citriuocapillus, 
 Phseocephalus, sp. 2, HeugL Journ. f. Orn. 1862, p. 30o. 
 Psittacus flavifrons, part., Schleg. Mus. P.~B. Psittaci, p. 35, specim. 
@@ -26941,7 +26941,7 @@ brown.
 
 Hah. Eastern Africa, from Abyssinia to Massai-Land. 
 
-a, b. Ad. st. Shoa {Harris). Hon. E. India Co. [P.], 
+a, b. Ad. sk. Shoa {Harris). Hon. E. India Co. [P.], 
 c-g. Ad. &k. Abyssinia {Harris). India Museum [p.], 
 h. d ad. sk. Shoa {Antinori). Shelley Coll. 
 i. <$ ad. sk. Taita, Julv. Dr. Ilildebrandt [P.]. 
@@ -27150,9 +27150,9 @@ Hah. South-western Africa from Benguela, or perhaps also from
 Gaboon, to Damara-Land *. 
 
 
-a. Ad. st. West Africa. Zool. Soe. Coll. 
+a. Ad. sk. West Africa. Zool. Soe. Coll. 
 (Type of species.) 
-b. Ad. st. [Paver Nunez] Damara-Land Bartlett Coll. 
+b. Ad. sk. [Paver Nunez] Damara-Land Bartlett Coll. 
 {Andersson). 
 c. Ad. sk. [Eiver Nunez] Damara-Land Bartlett Coll. 
 {Andersson). 
@@ -27373,13 +27373,13 @@ they belong to a distinct race, only found in the Interior.
 
 Purchased. 
 
-a. Ad. st. 
-b. Ad. st. Africa. Sir A. Panizzi [P.]. 
+a. Ad. sk. 
+b. Ad. sk. Africa. Sir A. Panizzi [P.]. 
 c. Ad. sk. W. Africa. Purchased. 
 d. Ad. sk. W, Africa. Sharpe Coll. 
 e. Ad. sk. 
 / . Ad.sk. (Dark var.) 
-g. Ad. st. (Red var.) 
+g. Ad. sk. (Red var.) 
 h. $ ad. sk. (Red 
 var.) 
 Fantee. 
@@ -27611,7 +27611,7 @@ Female. Smaller.
 Hab. Madagascar. 
 
 
-a. Ad. st. Madagascar Massena Coll. 
+a. Ad. sk. Madagascar Massena Coll. 
 b, c. Ad. sk. Madagascar. Shelley Coll. 
 d. A d. sk. Central Madagascar. Shelley Coll. 
 e. $ 
@@ -27830,7 +27830,7 @@ Young. Besides being smaller, has the red colour less bright and
 less extended on the wings. 
 Hab. New Guinea. 
 
-a. Ad. st. Purchased. 
+a. Ad. sk. Purchased. 
 b. $ ad. sk. Aifak Mts., New Guinea. Gould Coll. 
 c. 2 imm. sk. Has, N.W. New Guinea. Gould Coll. 
 d. Ad. sk. S.E. New Guinea {A. Goldie). Tweeddale Coll. 
@@ -28696,8 +28696,8 @@ decided opinion, but I should say they are different, as in E. westermanni
 the primaries and their wing-coverts show distinct outer 
 green edges, which are wanting in the males of E. riedeliL 
 
-a. Ad. st. Moluccas [?]. Zoological Society. 
-b. Ad. st. Zoological Society. 
+a. Ad. sk. Moluccas [?]. Zoological Society. 
+b. Ad. sk. Zoological Society. 
 c. Sternum. 
 The second specimen, although green, shows a curious mottling, 
 many feathers being brown-red with green edges. 
@@ -29215,7 +29215,7 @@ Eab. Confined to the Southern Moluccas, or to the Amboyna
 Group, from Bouru to Boano, Ceram, Amboyna, Harouko, Goram, 
 and Monawolka. 
 
-a, b. Ad. st. 
+a, b. Ad. sk. 
 c. ild. st. 
 d. Imm. st. 
 e. c? ^d. sk. 
@@ -29973,7 +29973,7 @@ k. Ad.sk. Menado, N. Celebes. Tweeddale Coll.
 m, ». S $ ad. sk. Menado (i\ Duiven-Tweeddafc Coll, 
 bode). 
 o, J ad. sk. Menado. Wallace Cull. 
-p, q. Ad. st. Macassar, S. Celebes Gould Colt (Types of 
+p, q. Ad. sk. Macassar, S. Celebes Gould Colt (Types of 
 (Wallace). P. trallacei% Gould.) 
 r,8. $ 2 ad. sk. Macassar. Wallace Coll 
 t, u. § ad. sk. Sanghir Islands. Purchased. 
@@ -30113,7 +30113,7 @@ a, b. Ad. et imm. Manilla. Gould Coll.
 st. 
 
 
-c. Ad. st. Manilla. Purchased. 
+c. Ad. sk. Manilla. Purchased. 
 d. Ad. sk. Philippine Islands. W. B. Pryer, Esq. [P.]. 
 e. Ad. sk. Philippine Islands. Purchased. 
 /. (S ad. sk. Luzon, Feb. (A. B. Meyer). Tweeddale Coll. 
@@ -30689,7 +30689,7 @@ A. H. Everett, Esq. rG.[
 sk. 
 
 y. Ad. sk. Sooloo Islands. II. Yeitek, Esq. [P.]. 
-z. Ad. st. 
+z. Ad. sk. 
 Purchased. 
 
 3. Tanygnathns megalorhynclms. 
@@ -30878,7 +30878,7 @@ of species.)
 (Type 
 b. Ad. bk. Bouru. "Wallace Coll 
 c. Ad. sk. E. Ceram (A. R. Wallace). Gould Coll. 
-d. Ad. st. [Xew Guinea.] Purchased. 
+d. Ad. sk. [Xew Guinea.] Purchased. 
 
 5. Tanygnathus subaffmis. 
 Tanygnathus 
@@ -31089,11 +31089,11 @@ like the type specimen from Butuan, a white-billed bird : the last
 two specimens, which apparently have been kept in confinement, 
 have the blue colour of the uropygium lighter. 
 
-a. Ad. st. Samar. Purchased. 
+a. Ad. sk. Samar. Purchased. 
 b. S ad. sk.
 c. $ imm. sk.
 d. Ad. st.
-e. Ad. st. 
+e. Ad. sk. 
 Conception, Panay, January. 
 Butuan, Mindanao, May (A.
 H. Everett). 
@@ -32298,7 +32298,7 @@ rLuzon.].
 Poit Elizabeth *. 
 M. Atklin, Esq.. [P.]. 
 J. 0. Ttickard, Esq. 
-«5 . Ad. st. (yellow var.). 
+«5 . Ad. sk. (yellow var.). 
 [p.]. 
 Zoological Society's 
 6\ ^ad. sk. (var. with 
@@ -32400,7 +32400,7 @@ sk.
 
 
 h. Ad. sk. Niam-Xiani Country. F. Bolmdorff, E-q. ~C.]. 
-i, k. Ad. st. Senegal. * J. Puliiain. ll^q. P'.V 
+i, k. Ad. sk. Senegal. * J. Puliiain. ll^q. P'.V 
 I Ad. sk. Senegal. J. Pulbam, E*q. ^P.l. 
 m, n. Ad. sk," Senegal (Z. Laglaize). Tweeddale Coll. ~ 
 o. Ad. sk. R. Gambia. Sharpe Coll. 
@@ -32885,7 +32885,7 @@ c1. Ad. sk.
 <?', a', /. Ad. et 
 
 imm. sk. et st. 
-gK Ad. st. (var.). 
+gK Ad. sk. (var.). 
 AW*. Ad. sk. 
 
 ml. Ad. sk. 
@@ -33050,7 +33050,7 @@ been brought alive to Canton and escaped from confinement,
 a-f. Ad. sk. Nepal (B. H. Hodgson). India Museum [P.]. 
 g, h. Ad. sk. Nepal. B. H. Hodgson, Esq. 
 
-i. Ad. st. 
+i. Ad. sk. 
 k, I $ ad. sk. 
 
 m. J ad. sk. 
@@ -33381,7 +33381,7 @@ a'. S imm. sk.
 
 ?•'. $ ad. sk. 
 
-s'. Ad. st. 
+s'. Ad. sk. 
 
 t'-vj. Ad. et 
 imm. sk. 
@@ -33708,7 +33708,7 @@ slightly indicated.
 Hah. South of India, from Travancore up to N. lat. 17° or so 
 (Jerdon). 
 
-a. Ad. st. India. Purchased. 
+a. Ad. sk. India. Purchased. 
 #> c 6 2 a(3-sk-Erridge, S. Travancore, March. Hume Coll. 
 d. S ad. sk. Ashanboo, S. Travancore, Jan. F. Bourdillon [C.]. 
 e)f> 6 2 &&• sk-Mynall, S. Travancore, Jan. & Hume Coll. 
@@ -33841,7 +33841,7 @@ very young birds green; middle tail-feathers blue; bill pale orange
 (Legge). 
 Hah. Ceylon. 
 
-a, b, c. Ad. st. Ceylon. 
+a, b, c. Ad. sk. Ceylon. 
 Thwaites Coll. 
 
 d. Ad. sk. Near Newara Ellia, Ceylon. Mr. E. Boate [O.]. 
@@ -34114,7 +34114,7 @@ Hainan, and, according to Swinhoe, also south of China, near Amoy.
 
 a. Ad. sk. India. Hon. E. India Co. 
 b. $ ad. sk. Kumaon. Hume Coll. 
-c. Ad. st. 
+c. Ad. sk. 
 d-i. Ad. et imm. 
 sk. 
 k, I, m. Ad. sk. 
@@ -34503,9 +34503,9 @@ Bab. Java and Southern Borneo.
 I have never seen a specimen o£ this Parrot from Borneo, where 
 most likely it has been introduced in the southern part. 
 
-a. Ad. st. [India]. 
+a. Ad. sk. [India]. 
 J. Inskipp [P.]. 
-b. Ad. st. Indian Archipelago. Sir E. Belcher P._. 
+b. Ad. sk. Indian Archipelago. Sir E. Belcher P._. 
 c. $ ad. sk. East Java. A. R. Wallace JCf. 
 d,e. <$ 2 ad. sk. Java {Leyden Mtiseitm). Salvin-Godman Coll. 
 / . Ad. sk. West Java. F. Nicholson "P.". 
@@ -34969,8 +34969,8 @@ a, b. Ad. sk. Pinang (Dr. Cantor). India Museum [P.].
 c. (5 intra, sk. Selangore, Nov. (W.Da visori). Hume Coll. 
 d, e. $ $ ad. sk. Klang, Selangore, May, Oct. Hume Coll. 
 (W. Davison). 
-f. Ad. st. Malacca. Rajah Brooke [P.J. 
-g, h, i. Ad. st. Malacca. Cuming Coll. 
+f. Ad. sk. Malacca. Rajah Brooke [P.J. 
+g, h, i. Ad. sk. Malacca. Cuming Coll. 
 k-n. Ad. sk. Malacca, Jan., Aug. Hume Coll. 
 0, j). Ad. et inirn. Malacca (Dr. Cantor), India Museum [P.]. 
 sk. 
@@ -35102,7 +35102,7 @@ Victoria and South Australia.
 
 a. Ad. fet. Australia. Warwick. 
 b. J ad. sk. Australia. Warwick. 
-c. Ad. st. Australia. Zool. Soc. Coll. 
+c. Ad. sk. Australia. Zool. Soc. Coll. 
 d-g. <$ ad. et ad. sk. Australia {J. T. Cockerell). Salvin-Godman Oo]l. 
 h. Imm. sk. Australia. Purchased. 
 i. $ ad. sk. New South Wales. Hume Coll. 
@@ -35204,7 +35204,7 @@ feet ashy grey " (Gould).
 Eab. South Australia, from Xew South Wales to Western 
 Australia. 
 
-a. Ad. st. Murray P., S. Australia. Sir G. Grey [ P.I. 
+a. Ad. sk. Murray P., S. Australia. Sir G. Grey [ P.I. 
 b. Iinrn. sk. Murray P., S. Australia. Sir Gr. Grey "P.], 
 t?, d. Ad. sk. S. Australia. Capt. Sturt [P.V 
 *,/, g. Ad. sk. S.W. Australia (/. T. Cocherell). Salvin-Godman Coll. 
@@ -35371,7 +35371,7 @@ tents.
 
 Larger Race. 
 
-cc. Ad. st. Australia. J. Gould, E^q. [P.]. 
+cc. Ad. sk. Australia. J. Gould, E^q. [P.]. 
 b, c Ad. sk. Australia. Gould Coll. 
 d. Ad. sk. Australia. 
 Tweeddale Coll. 
@@ -35386,7 +35386,7 @@ ad. sk.
 p} q. Skeletons. 
 
 Smaller Race (A. coccineopterus, Gould). 
-r, s. Ad. st. Port Essington. Capt. "W. Chambers 
+r, s. Ad. sk. Port Essington. Capt. "W. Chambers 
 LP.]. 
 
 t. 3 ad. sk. Port Essington, Nov. /oy. 
@@ -35706,8 +35706,8 @@ Young. Resembles the female, but has the lateral tail-feathers
 with rose-colour tips. 
 Hab. Eastern Australia, from Port Denison to Yictoria. 
 
-a. Ad. st. [Variety.] Zoological Society's Coll. 
-b. Ad. st. Australia. A. Cunningham, E*q. [_P.]. 
+a. Ad. sk. [Variety.] Zoological Society's Coll. 
+b. Ad. sk. Australia. A. Cunningham, E*q. [_P.]. 
 PSTTTACIDJE. 
 
 c, d. Ad. et imm. Glouid Coll. 
@@ -35964,7 +35964,7 @@ with red.
 Hah. North-western New Guinea and the surrounding western 
 Papuan Islands—Salawatty, Batanta, Waigiou, and Ghemien. 
 
-a. Ad. st. New Guinea. Baron Laugier's Coll. 
+a. Ad. sk. New Guinea. Baron Laugier's Coll. 
 b. Ad. ek. A. R. Wallace, Esq. [0.1. 
 ct d, e. $ ad. et Dorey. A. E. Wallace, Esq. [O.J. 
 juv. sk. * 
@@ -36397,7 +36397,7 @@ Young. Exactly like the adult birds in colouring : " irides dark
 brown; bill horny, with yellow edges; feet black " (Layard). 
 Eab. Fiji Islands. 
 
-a. Ad. st. Fiji Islands. 
+a. Ad. sk. Fiji Islands. 
 Zool. Soc. Coll. 
 b. Ad. sk. Fiji Islands. 
 Gould Coll. 
@@ -36975,9 +36975,9 @@ Young male resembles the female.
 
 Eab. Luzon. 
 
-a. Ad. st. Manilla. 
+a. Ad. sk. Manilla. 
 Cuming Coll. 
-b. Ad. st. Philippine Is. 
+b. Ad. sk. Philippine Is. 
 Cuming Coll. 
 c. Ad. sk. Philippine Is. 
 Cuming Coll. 
@@ -37216,8 +37216,8 @@ Eodriguez Island, I should have said they belonged to a peculiar
 race. 
 Green Form. 
 
-a. Ad. st. Madagascar. Purchased. 
-b. Ad. st. Madagascar. Sir E. Belcher [P.]. 
+a. Ad. sk. Madagascar. Purchased. 
+b. Ad. sk. Madagascar. Sir E. Belcher [P.]. 
 c. Ad. sk. Madagascar. Sharpe Coll. 
 d. $ acl. j e} f. Madagascar. Shelley Coll. 
 Ad. sk. 
@@ -37291,7 +37291,7 @@ Young mah. Like the female. Gradually it shows the red feathers
 first round the eyes and then on the forehead and lores. 
 Hab. North-eastern Africa, from Abyssinia to Shoa. 
 
-a Ad. st. Abyssinia. Baron Laugier Coll. 
+a Ad. sk. Abyssinia. Baron Laugier Coll. 
 h't Ad. sk. Ab}Sbima. Loid Mountnoiris (!*•]• 
 
 510 
@@ -37396,8 +37396,8 @@ Hah. "Western Africa, from the Gold Coast to the Congo, including
 the islands of Bight of Benin, ranging eastwards across Equatorial 
 Africa as far as the Gazelle Biver district and Niam-Niam. Country. 
 
-a. Ad. st. [var.]. 
-h. Ad. st. 
+a. Ad. sk. [var.]. 
+h. Ad. sk. 
 Cj d. Ad . sk. 
 e. Ad. sk. 
 / , g. Ad. sk. 
@@ -37551,7 +37551,7 @@ Hah. South-western Africa, from Angola to Great Namaqua-
 Land, and, according to Layard, also South-eastern Africa, on the 
 
 Limpopo. 
-a. Ad. st. S. Africa. Purchased. 
+a. Ad. sk. S. Africa. Purchased. 
 b. Juv. st. S. Africa. Massena Coll. 
 c. $ ad. sk. [Gaboon] ( Verreaux). Sharpe Coll. 
 d. Ad. Jr. 
@@ -37905,13 +37905,13 @@ to the Malay peninsula; Andaman and perhaps also the Xieobar
 
 Islands. 
 
-a. Ad. st. India. 
+a. Ad. sk. India. 
 Purchased. 
-h. Ad. st. 
+h. Ad. sk. 
 Zoological Society** Coll. 
-c. Ad. st. 
+c. Ad. sk. 
 Massena Cull. 
-d. Ad. st. [Philippines.] Mas^ena Coll. (T\ pe of 
+d. Ad. sk. [Philippines.] Mas^ena Coll. (T\ pe of 
 L. apicalis, 2 , Suuanee.) 
 e. Ad. sk. 
 Gould Coll 
@@ -38358,7 +38358,7 @@ rump: " feet dirty ochre-yellow " (Everett).
 
 Hah. Negros and Panay. 
 
-a. Ad. st. Philippine Is. Alasseim Coll. 
+a. Ad. sk. Philippine Is. Alasseim Coll. 
 (Type of species, and one of the 
 tvpes of C. <»ccipifa!is} Finscli.) 
 6, c. <$ ad. et Kegros, March (A. B. Meyer). Gould Coll. 
@@ -39667,7 +39667,7 @@ cannot find any difference between them and the Australian specimens
 typical specimens of P. nobbsi have been preserved in alcohol, so 
 that they have shrunk a good deal *. 
 
-a. Ad. st. Australia. Major-Gen. Hardwicke 
+a. Ad. sk. Australia. Major-Gen. Hardwicke 
 [P.l. 
 b. Juv. st. Australia. J.P.Atkins, Esq. [I\]. 
 c. d. Ad. sk. Australia. Rev. A. Strong- [P.]. 
@@ -39739,7 +39739,7 @@ sides.
 
 Rah. Interior and South Australia. 
 
-a. Ad. st. S. Australia. Gould Coll. 
+a. Ad. sk. S. Australia. Gould Coll. 
 h, c. $ ad. et S. Australia. Gould Coll. 
 ad. sk. 
 d, e. $ ad. sk. S. Australia. Sir G. Grey [P.]. 
@@ -40022,7 +40022,7 @@ and the upper breast tinged with yellow. I suspect that all this
 arises from hybridization or atavism, if we admit that this species 
 was derived from one having a red head. 
 
-a, h. Ad. st. (var.). N.E. Australia. Sir T. Mitchell [P.]. 
+a, h. Ad. sk. (var.). N.E. Australia. Sir T. Mitchell [P.]. 
 
 c. Ad.sk. (variety). Australia. Sir T. Mitchell [P.]. 
 d. 
@@ -40293,7 +40293,7 @@ greenish, and with the nape greenish instead of yellow.
 Hah S.E. Australia, from "Wide Bay district to Victoria, and 
 
 also Tasmania. 
-a. Ad. st. Australia. Purchased. 
+a. Ad. sk. Australia. Purchased. 
 b, c. Ad. sk.
 d, e. Imm. sk. 
 Australia (J. T. Cockerett). 
@@ -40317,7 +40317,7 @@ inirn. 9k,
 
 s. Ad. sk. 
 £. Ad. sk. (var.). 
-w> v. Ad. st. S. Australia. J. Fischer, Esq. [P.]. 
+w> v. Ad. sk. S. Australia. J. Fischer, Esq. [P.]. 
 (albinos). 
 
 w. Skeleton. 
@@ -40473,7 +40473,7 @@ Bab. South-western Australia.
 
 a. Ad. sk. Australia? Linnean Society [P.]. 
 (Type of species.) 
-b. Ad. st. Australia. Purchased. 
+b. Ad. sk. Australia. Purchased. 
 c. Imm. sk, Australia. J. E. W. Bishton [P.]. 
 d. Imm. sk. Australia. Gould Coll. 
 e,f. Ad. sk. "W. Australia. Purchased. 
@@ -40607,7 +40607,7 @@ PP.].
 b. Ad. sk. Australia. 
 Tweeddale Coll. 
 e. Ad. sk. N.W. Australia {J. T. Cockerell). Salvin-Godman Coll. 
-d. Ad. st. W. Australia. Zoological Soc. Coll. 
+d. Ad. sk. W. Australia. Zoological Soc. Coll. 
 e,f. Ad. sk. Swan River, W. Australia. Purchased. . 
 g, h. Ad. et Swan River, W. Australia. Gould Coll. 
 juv. st. 
@@ -40832,7 +40832,7 @@ tarsus 0*77.
 
 Hah. South Australia and the Interior. 
 
-a. Ad. st. S. Australia. J. Fisher [P.]. 
+a. Ad. sk. S. Australia. J. Fisher [P.]. 
 b. Ad. sk. Linnean Society [P.], 
 (Type of Psittaous baueri, Temm.) 
 c. Ad. sk. S. Australia. Sir G. Grey [P.]. 
@@ -40934,7 +40934,7 @@ Total length about 12 inches, wing 5*4, tail 6*3, bill 0*65, tarsus 0*7.
 
 Hob. Australia, in the interior of Xew South Wales. 
 
-a. Ad. st. New South Wales. Zoological Society Coll. 
+a. Ad. sk. New South Wales. Zoological Society Coll. 
 b. Ad. sk. Australia. Gould Coll. 
 e. Var. sk. Australia. Gould Coll. 
 d. Var. sk. Australia. A. Wiener, Esq. [P.], 
@@ -40997,7 +40997,7 @@ olive patch on the median wing-coverts is yellower.
 a, b. Ad. sk. Biver Murray, S. Australia. Gould Coll. 
 e. Ad. sk. Australia. Australian Mus. [P.], 
 d. Ad. sk. Australia. Sir T. Mitchell [P.]. 
-e. Ad. st. S. Australia, Jan. Capt. Sturt [P. |. 
+e. Ad. sk. S. Australia, Jan. Capt. Sturt [P. |. 
 / . Ad. sk. Australia. Capt. Sturt [P.], 
 g, hf i. Ad. sk. Australia. Gould OolL 
 k, I, m. Ad. sk. Australia (/. T. Cockerell). Salvin-Godman Coll. 
@@ -41088,8 +41088,8 @@ oblique band on the under surface,
 
 ffab. Eastern Australia, from Port Denison to New South Wales. 
 
-a. Ad. st. New South Wales. Purchased. 
-b. Ad. st. Australia. 
+a. Ad. sk. New South Wales. Purchased. 
+b. Ad. sk. Australia. 
 Sir T. Mitchell [P.]. 
 c. d, e. $ ad. et Australia. 
 Sir T. Mitchell [P. j . 
@@ -41343,7 +41343,7 @@ h, i. Ad. sk. River Murray, S. Australia. Guuld Coll
 k, I Ad. sk. S. Australia. CVpt. Start ~P.l. 
 m. Juv. st. S. Australia. Purchased. 
 n-t. 3 $ ad. sk. Australia. 
-u. Ad. st. (vai\K Australia. Mr. J. Abrahams [P.], 
+u. Ad. sk. (vai\K Australia. Mr. J. Abrahams [P.], 
 v. Ad. sk. Variety or hybrid between P. hcema- Gould Coll, 
 ionotxis and perhaps P. pulcherri?nus, 
 w, x, y. Skeletons. 
@@ -41468,7 +41468,7 @@ Female. Duller and paler; the blue frontal band wanting.
 
 Hab. Interior of l!Tew South Wales and of South Australia. 
 
-a, b, c. Ad. st. Australia. Capt. Stmt [P/\ 
+a, b, c. Ad. sk. Australia. Capt. Stmt [P/\ 
 d,e,f. Ad. sk.
 g, h Ad. sk.
 i. $ skeleton. 
@@ -41653,7 +41653,7 @@ scarcely paler on the abdomen and under tail-coverts.
 Hah. Southern Australia, from New South Wales to "Western 
 Australia. 
 
-«, b. Ad. st. S. Australia. 
+«, b. Ad. sk. S. Australia. 
 Sir G. Grey [P.]. 
 
 c. $ ad. sk. R Murray, S. Australia. Gould Coll. 
@@ -41929,7 +41929,7 @@ upper parts, including the nape and crown, green with orange tinge.
 Eab. Southern Australia, from JNTew South Wales to S.W. Australia. 
 
 
-a. Ad. st. S. Australia. Massena Coll. 
+a. Ad. sk. S. Australia. Massena Coll. 
 b7 e, d. Ad. ok. S. \V. Australia (J. T. Cockerell). Salvin-Godman Coll. 
 e. Ad. sk. Australia. Goidd Coll. 
 50. CYAlTORHAMPHirS. 
@@ -42351,12 +42351,12 @@ Young. " Does not differ apparently from the adult" (Buller).
 
 Hah. New Zealand. 
 
-a. Ad. st. New Zealand. Sir G. Grey [P.]. 
+a. Ad. sk. New Zealand. Sir G. Grey [P.]. 
 b. Ad. sk. New Zealand. New Zealand Co. [P.1 
-c. Ad. st. New Zealand. New Zealand Go. [P.j. 
+c. Ad. sk. New Zealand. New Zealand Go. [P.j. 
 (Type of Platycercus forsteri, Finsch *.) 
-d. e. Ad. st. New Zealand. Massena Coll. 
-/ . Ad. st. (var.). New Zealand. Purchased. 
+d. e. Ad. sk. New Zealand. Massena Coll. 
+/ . Ad. sk. (var.). New Zealand. Purchased. 
 g, k S S ad. sk. Dunedin, New Zealand. Purchased. 
 «. $ ad. sk.
 A*. Ad. sk. 
@@ -42704,7 +42704,7 @@ Islands.
 Obs. The Chatham Islauds birds are said to be larger, and require 
 
 comparison. 
-a. Ad. st. New Zealand. New Zealand Co. [P.]. 
+a. Ad. sk. New Zealand. New Zealand Co. [P.]. 
 b, c. Ad, st. et New Zealand. Massena Coll. 
 sk. 
 d. Ad. sk. New Zealand. Gould Coll. 
@@ -43074,7 +43074,7 @@ Bab. South-eastern Australia, from Wide-Bay district to Yictoria
 
 and Tasmania. 
 a. c? ad. sk. 
-b. Ad. st. 
+b. Ad. sk. 
 Australia, May. 
 Australia. 
 Sir T.Mitchell [P.]. 
@@ -43237,7 +43237,7 @@ Australia.
 J. K. ELey, Esq. TVGregory 
 Exp. "C.J. 
 Zool. Soe. ColL 
-t. Ad. st. (var.). Australia. J.Abrahams, E-sq. [P.] 
+t. Ad. sk. (var.). Australia. J.Abrahams, E-sq. [P.] 
 
 54. PEZOPOETJS. Tfpe 
 PezoporuSj 17%. Prodr. Maimn. et Av. p. 201 (1811).. P. fornuteus. 
@@ -43516,7 +43516,7 @@ Eab. New Zealand: Middle and North Island, formerly also in
 South Island. 
 
 1 . STEINGOPS. 601 
-a. Ad. st. New Zealand. Purchased. 
+a. Ad. sk. New Zealand. Purchased. 
 (Type of species.) 
 b. (J ad. sk Milford Sound, New Zealand,
 March 1851. 

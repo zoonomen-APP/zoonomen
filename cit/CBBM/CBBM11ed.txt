@@ -1738,7 +1738,7 @@ feet black: whole length 5*8 inches, wing 3, tail 2*6*
 
 Hal. Andes of Colombia and Ecuador. 
 
-a. Ad. st. Bogota. 
+a. Ad. sk. Bogota. 
 Purchased. 
 b. Ad. sk. Bogota. 
 Salvin-Godman Coll. 
@@ -1765,7 +1765,7 @@ Sab. Andes of Colombia and Ecuador.
 Yery similar to D. lafresnayi, but smaller; perhaps its female. 
 
 
-a, b. Ad. st. Bogota. Purchased. 
+a, b. Ad. sk. Bogota. Purchased. 
 
 c. Ad. sk. Bogota. Salvin-Godman Coll. 
 d, e. Ad. sk. Bogota. Purchased. 
@@ -1922,7 +1922,7 @@ but rather smaller, and duller in colour, especially below.
 
 Hab. Andes of Colombia, Ecuador, Peru, and Bolivia. 
 
-a. Ad. st. Bogota. Purchased. 
+a. Ad. sk. Bogota. Purchased. 
 b, c. Ad. sk. Bogota. Saivin-Godman Coll. 
 d. Ad. sk. Bogota. Sclater CoU. 
 e,f. <$ 2 ad. sk. Retiro, Antioquia (Salmon). Saivin-Godman Coll. 
@@ -2137,12 +2137,12 @@ the other.
 a. 
 J ad. sk. Merida, Venezuela Sahin-Godman Coll. 
 ( Goering). 
-b. Ad. st. Bogota. Purchased. 
+b. Ad. sk. Bogota. Purchased. 
 c. Ad. sk. Bogota. Salvin-Godman Coll. 
 d. Ad. sk.; e. Jr. sk. Bogota. Sclater Coll. 
 /, g. Ad. sk. San Lucas, Ecuador Sahin-Godman Coll. 
 {Buckley). 
-L Ad. st. Ecuador. Sclater Cull. 
+L Ad. sk. Ecuador. Sclater Cull. 
 
 
 2. Conirostnun cyaneitia. 
@@ -2196,7 +2196,7 @@ Marta (Simons).
 b, o. <$ $ ad, sk Sierra Nevada de Santa Salvin-Godman Coll. 
 Marta (Simons). 
 
-d. Ad. st. Bogota. Purchased. 
+d. Ad. sk. Bogota. Purchased. 
 e,f. Ad. sk. Bogota. Salvin-Godmau Coll. 
 g, h. Ad. sk. Bogota. Sclater Coll. 
 4 . CONIEOSTRUM. 
@@ -4567,7 +4567,7 @@ f.
 Ad. sk.; g\ Baganti, Bolivia {Buckley). Salvin-Godman Coll. 
 Jr. sk. 
 ti. Ad. sk. Baganti, Bolivia (Buckley). Sclater Coll. 
-i',f. Ad. st. S. America. Purchased. 
+i',f. Ad. sk. S. America. Purchased. 
 
 
 16. CertHola barbadensis. 
@@ -7458,7 +7458,7 @@ Eab. S.E. Brazil.
 Easily known from the two preceding species by its bright pale 
 green head-spot, which is nearly of the same colour as the lower back. 
 
-a. Ad. st. Brazil. Purchased. 
+a. Ad. sk. Brazil. Purchased. 
 b} c. Ad. sk. Pernambuco, Brazil (W. A. Salvin-Godman Coll. 
 Forbes), 
 d-g. Ad. sk. Bahia, Brazil (Wucherer). Salvin-Godman Coll. 
@@ -7490,7 +7490,7 @@ Hah. Upper Amazonia.
 At once distinguishable from the three preceding species by its 
 broad superciliaries and black vent. 
 
-a. Ad. st. Ecuador. Purchased. 
+a. Ad. sk. Ecuador. Purchased. 
 b. Ad. sk. Upper Amazons. Sclater Coll. 
 c. Ad. sk. Yquitos, Peru. Sclater Coll. 
 d-f. Sk. Ucayali (HauxweU). J. Gould, Esq. 
@@ -7957,7 +7957,7 @@ different from Cayenne skins. It is very curious that this species
 seems to cross the range of 0. yeni (which occurs in Eastern 
 Ecuador) into KE . Peru. 
 
-a. Ad. st. Cayenne. Purchased. 
+a. Ad. sk. Cayenne. Purchased. 
 b. <$ ad. sk.; c. Jr. sk. Cayenne. 
 Sclater Coll. 
 d. <$ ad. sk. Cayenne. Salvin-Godman Coll. 
@@ -8034,7 +8034,7 @@ Salvin-Godman Coll.
 h. Ad. sk.
 (KauxwelT). 
 Eastern Peru (Farris). Salvin-Godinan Coll. 
-i. Ad. st. Peru. Purchased. 
+i. Ad. sk. Peru. Purchased. 
 j , k. Ad. sk.
 /. Jr. sk.
 m. Ad. sk. 
@@ -8096,8 +8096,8 @@ less brilliant in colour.
 
 Hab. Province of Pernambuco, Brazil. 
 
-a. Ad. st. Brazil. Purchased. 
-b. Ad. st. Brazil. Mr. J. Abrahams [P.], 
+a. Ad. sk. Brazil. Purchased. 
+b. Ad. sk. Brazil. Mr. J. Abrahams [P.], 
 c. Ad. sk. Pernambuco. Sclator Coll. 
 d. e. Ad. sk. Pernambuco (Forbes). Salvin-Godman Coll. 
 / . Jr. sk. Pernambuco {Forbes). Sclator Coll. 
@@ -8249,8 +8249,8 @@ Hob. S.E. Brazil: provinces of S. Espiritu, Rio, and S. Paulo.
 A very isolated species, easily distinguished by its golden head 
 and back, variegated with black between the wings. 
 
-a. Ad. st. Brazil. Lord Stuart de Rothesay [P.], 
-b. Ad. st. Brazil. Purchased. 
+a. Ad. sk. Brazil. Lord Stuart de Rothesay [P.], 
+b. Ad. sk. Brazil. Purchased. 
 c. Ad. sk. Brazil. Gould Coll. 
 d. Ad. sk. Brazil. 4Sclater Coll. 
 e. Ad. skB Eio, Brazil. Sclater Coll. 
@@ -8727,7 +8727,7 @@ inches, wing 3, tail 2. Female like the male.
 
 Bab. Colombia and Ecuador. 
 
-a. Ad. st. Colombia. Purchased. 
+a. Ad. sk. Colombia. Purchased. 
 b, c. Ad. sk. Bogota, Colombia. Salvin-Godman Coll. 
 d Ad. sk. Bogota, Colombia. Purchased. 
 e. Ad. sk. Bogota, Colombia. Sclater Coll. 
@@ -9435,7 +9435,7 @@ head chestnut; bill and feet brown: whole length 5*3 inches
 wing 3-3, tail 2*1. ' 
 Ilab. Venezuela, Trinidad, and northern littoral of Colombia. 
 
-a. Ad. st. S. America. Purchased. 
+a. Ad. sk. S. America. Purchased. 
 b. Ad. sk. San Esteban, Venezuela (Goering). Salvin-Godman Coll. 
 c. Ad. sk. Venezuela. Salvin-Godman Coll. 
 d. Ad. sk.
@@ -9558,7 +9558,7 @@ O. vieilloti; but the difference (consisting merely in the stronger
 tinge of the yellow belly) is so slight that I have now united the 
 two forms as subspecies. 
 a. Subsp. tyjpica. 
-a. Ad. st. Cayenne. Purchased. 
+a. Ad. sk. Cayenne. Purchased. 
 b, o. Ad. sk. Cayenne. Sclater Coll. 
 d. Ad. sk. Cayenne. Salvin-Godman Coll. 
 Ad. sk. British Guiana (Spence). Sclater Coll. 
@@ -9573,7 +9573,7 @@ c. Ad. sk. Venezuela. Salvin-Godman Coll.
 d. Ad. sk.
 e. Ad. sk.; / . Jr. 
 g. Ad. sk.
-h. Ad. st. 
+h. Ad. sk. 
 Trinidad. Sclater Coll. (Type 
 of C. vieilhti.) 
 sk. Trinidad. Purchabed. 
@@ -9735,7 +9735,7 @@ IE. Taezanowski's C. nigriviridis berlepschi of Peru, in which
 the terminal spots of the feathers have a rather more greenish 
 tinge. 
 
-a. Ad. st. Bogota. Purchased. 
+a. Ad. sk. Bogota. Purchased. 
 b, c. Ad. sk. Bogota. Sclater Coll. 
 d, e. Ad. sk. Bogota. Salvin-Godman Coll. 
 / . Ad. sk. Bogota. Purchased. 
@@ -9886,7 +9886,7 @@ for specific distinction: they consist mainly in the darker
 shade of the nape and throat in the northern form. 
 
 a. Subsp. typica. 
-a. Ad. st. Honduras. Purchased. 
+a. Ad. sk. Honduras. Purchased. 
 b. Ad. sk. Belize, British Honduras Salvin-Godman Coll. 
 (Blancaneaux). 
 e. d 
@@ -10062,7 +10062,7 @@ e]f. Ad. sk. Jima, Ecuador (Buckleij). Salvin-Godman Coll.
 g, Jr. sk. Ecuador. Salvin-Godman Coll. 
 h, i. Ad. sk. Rio Napo, Ecuador. Gould Coll. 
 c. Subsp. grcmadensis. 
-a, b. Ad. st. Colombia. Purchased. 
+a, b. Ad. sk. Colombia. Purchased. 
 c, d. Ad. sk. Bogota. Salvin-Godman Coll. 
 
 
@@ -10173,7 +10173,7 @@ Bab. Colombia, 'Western Ecuador, and North Peru.
 VOL. XI. K 
 
 130 TAKAGKID^. 
-a, b. Ad. st. Colombia. ?"??^?f ; 
+a, b. Ad. sk. Colombia. ?"??^?f ; 
 c. Ad. sk.
 d. Ad. sk.
 e. Ad. sk.; /. 
@@ -10244,7 +10244,7 @@ white; bill black ; feet pale brown : whole length 4*5 inches, wing
 
 Hal. Colombia and Ecuador. 
 
-a, b. Ad. st. Colombia. Purchased. 
+a, b. Ad. sk. Colombia. Purchased. 
 c, d. Ad. sk. Bogota. Sclater Coll. 
 e,f. Ad. sk. Bogota. Salvin-Godman Coll. 
 
@@ -10442,7 +10442,7 @@ c. Ad. sk. Bogota.
 Salvin-Godinan Coll. 
 d. Ad. sk. Bogota. 
 Purchased. 
-e. Ad. st, Bogota. 
+e. Ad. sk. Bogota. 
 Purchased. 
 f. Ad. sk. Antioquia, Colombia {Salmon), Salvin-Godman Coll. 
 V, h. Ad. sk. Antioquia, Colombia (Salmon). Sclater Coll. 
@@ -10853,7 +10853,7 @@ brown : whole length 6 inches, wing 3*2, tail 2*8. Female similar.
 
 Hob. Colombia and Ecuador. 
 
-a. Ad. st. Colombia. Purchased. 
+a. Ad. sk. Colombia. Purchased. 
 b, c. Ad. sk. Bogota. Sclater Coll. 
 d. Ad. sk. Bogota. 
 Salvin-Godman Coll. 
@@ -11037,7 +11037,7 @@ and red in crest barely apparent.
 Hah. Southern Brazil, Paraguay, Uruguay, and X. of Argentine 
 Republic. 
 
-a. Ad. st. Brazil. J. Gould, Esq. 
+a. Ad. sk. Brazil. J. Gould, Esq. 
 b, c Novo Fribourffo, Rio de Salvin-Godznan Coll. 
 cS 2 ac^ s^'
 Janeiro (Touds). 
@@ -11129,7 +11129,7 @@ rank of subspecies. Another subspecies is P. ignicrissa of Northern
 Peru, in which the crissum is said to be wholly scarlet. 
 
 a. Subsp. typica. 
-a, b. Ad. st. Colombia. Purchased. 
+a, b. Ad. sk. Colombia. Purchased. 
 c. Ad. sk.
 d, e. Ad. sk.
 / . Ad.; g. Jr. sk. 
@@ -11357,7 +11357,7 @@ more of an orange-yellow, and this colour ascends higher in the
 
 middle of the throat. 
 
-a, b. Ad. st. Colombia. 
+a, b. Ad. sk. Colombia. 
 Purchased. 
 
 c, d. Ad. sk. Bogota. 
@@ -11412,7 +11412,7 @@ Hah. Colombia.
 
 Only known to me from Bogota skins. 
 
-a, b. Ad. st. Bogota. Purchased. 
+a, b. Ad. sk. Bogota. Purchased. 
 c, d. Ad. sk. Bogota. Sclater Coll. 
 e,f. Ad. sk. Bogota. J. Gould, Esq. 
 
@@ -11554,7 +11554,7 @@ Antioquia are more or less intermediate. (Cf. P. Z. S. 1879,
 
 p. 500.) 
 a. Subsp. typica. 
-a. Ad. st. Caracas, Venezuela. D. Dyson [C.]. 
+a. Ad. sk. Caracas, Venezuela. D. Dyson [C.]. 
 b. S ad. sk. Caracas, Venezuela (Goering). Salvin-Godman Coll. 
 c. Ad. sk. San Lucas, Ecuador (Buckley). Salvin-Godman Coll. 
 d. Ad. sk. San Jose", Ecuador {Buckley). Salvin-Godman Coll. 
@@ -12430,7 +12430,7 @@ tail 2*8. Female similar, but rather duller in colour.
 
 Hah. South Mexico, Guatemala, Belize, and Honduras. 
 
-a, b. Ad. st. Mexico. Purchased. 
+a, b. Ad. sk. Mexico. Purchased. 
 c. Ad. sk. Orizaba, Mexico. Purchased. 
 d. Ad. sk.
 e,f. Ad. sk. 
@@ -12542,7 +12542,7 @@ Salvin-Godman Coll.
 ad. sk. 
 e. $ ad. sk. 
 / . Ad. sk. 
-g. Ad. st. 
+g. Ad. sk. 
 Santa Elena, Antioquia (Salmon). 
 Canuto, Magdalena valley 
 (Wyatt). 
@@ -13750,7 +13750,7 @@ e. Jr. sk. Vera Paz (Salviri). Salvin-Godman Coll.
 / . Ad. sk. Belize (Blcmcaneaux). Salvin-Godman Coll. 
 g. Ad. sk. San Pedro, Honduras Salvin-Godman Coll. 
 (WMtely). 
-h. Ad. st. Honduras. D. Dyson [C.]. 
+h. Ad. sk. Honduras. D. Dyson [C.]. 
 i,j. Ad. sk. Chontales, Nicaragua (Belt). Salvin-Godman Coll. 
 h'. S ad. sk. Angostura, Costa Rica (Car-Salvin-Godman Coll. 
 miol). 
@@ -14869,7 +14869,7 @@ Female similar.
 
 Eab. S.E. Brazil. 
 
-a. Ad. st. Brazil. M. Claussen IT.]. 
+a. Ad. sk. Brazil. M. Claussen IT.]. 
 b, c Ad. sk. Brazil. M. Claussen [P.]. 
 d, e. Ad. sk. Brazil. Sclater Coll. 
 / . ^ ad. sk. Sao Paulo, Brazil (Joyner). Salvin-Godman Coll. 
@@ -16714,7 +16714,7 @@ Bahia, Brazil (Wuclwer).
 Bio, Brazil. 
 Salvin-Godman Coll. 
 Sclater Coll. 
-f. Ad. st. S. America. Purchased. 
+f. Ad. sk. S. America. Purchased. 
 
 36. PYRRHOCOMA. 
 Type. 
@@ -17201,7 +17201,7 @@ jr. sk.
 *,> Ad. sk. Babia {Wuclierer). Salvin-Godman Coll. 
 
 k. Ad. sk. Bolivia, T. Bridges [0.]. 
-/. Ad. st. S. America. Purchased. 
+/. Ad. sk. S. America. Purchased. 
 2. Thlypopsis amazonum, sp. nov. 
 Nemosia sordida, ScL et Sate. P. Z. S. 18G6, p. ISO (Ucayali) ; Ta<z. 
 
@@ -17275,7 +17275,7 @@ whole length 5 inches, wing 2-5, tail 2.
 Bab. Venezuela. 
 a. Ad. sk. Caraccas. Sclater Coll. 
 b. $ ad. sk. Caraccas (Goerincj). Salvin-Godman Coll. 
-c. Ad. st. Caracas (Dyson). Purchased. 
+c. Ad. sk. Caracas (Dyson). Purchased. 
 
 5. TMypopsis inoraata. (Plate XIEL ftg. 2.) 
 Nemosia 
@@ -17799,7 +17799,7 @@ tail 2*4. Female similar.
 
 Ilab. Southern Mexico. 
 
-a. Ad. st. Mexico. 
+a. Ad. sk. Mexico. 
 Purchased. 
 b. Ad. bk. Orizaba {Botteri). Purchased. 
 c. Ad. fek. Orizaba (Botteri). Sclater Coll. 
@@ -19014,7 +19014,7 @@ Sclater CoU.
 
 s. Ad. sk. Bogota. 
 Purchased. 
-t. Ad. st. Bogota. 
+t. Ad. sk. Bogota. 
 Purchased. 
 w. $ ad. sk. Santa Elena, U. S. C. (Salmon), Salvin-Godman ColL 
 v. Ad. sk. Pasto, Ecuador (Lehncmn), Salvin-Godman Coll. 
@@ -19184,7 +19184,7 @@ Colombia (BelaUre).
 Salvin-Godman Coll. 
 Sclater CoU. 
 h. Ad. sk. Colombia. Sclater Coll. 
-£ Ad. st. Central America. Purchased. 
+£ Ad. sk. Central America. Purchased. 
 
 10. Buarremon melanocephalus. 
 Buarremon melanocephalus, Salv. et Godm. Ibis, 1880, p. 121. 
@@ -19604,7 +19604,7 @@ Female similar.
 
 Hah. Colombia and Eastern Ecuador. 
 
-a, l. Ad. st. Bogota. Purchased. 
+a, l. Ad. sk. Bogota. Purchased. 
 
 c. Ad. sk. Bogota. Purchased. 
 d. Ad.; e. Jr. sk. Colombia. Sclater Coll. 
@@ -19731,7 +19731,7 @@ b. Ad. sk. Caracas. D. Dyson [C.].
 0. <$ ad.sk.; Caracas (Goering). Salvin-Godman Coll. 
 d. J jr. sk. 
 e. Ad. sk. Puerto Cabello. Sclater Coll. 
-f. Ad. st. Caracas. Purchased. 
+f. Ad. sk. Caracas. Purchased. 
 Y Ad. sk.;
 ti. i. Jr. sk. 
 Bogota, Sclater Coll. 
@@ -20205,7 +20205,7 @@ of the pectoral collar brownish.
 
 Hah. South Brazil. 
 
-a. Ad. st. Brazil. 
+a. Ad. sk. Brazil. 
 J. Gould, Esq. [P.J. 
 h, c. S ad. sk. j d. Brazil. Sclater CoU. 
 ? ad. sk. 
@@ -20376,7 +20376,7 @@ lores and sides of the head rather darker; below not so clear.
 
 Hal. S.E. Brazil. 
 
-a. Ad. st. Brazil. 
+a. Ad. sk. Brazil. 
 Purchased. 
 b. Ad. sk. Brazil. 
 Sclater Coll. 
@@ -20481,7 +20481,7 @@ but rather smaller.
 
 Hal. Colombia and Ecuador. 
 
-a. Ad. st. Bogota. 
+a. Ad. sk. Bogota. 
 Purchased. 
 I. Ad. sk. Bogota. 
 Sclater Coll. 
@@ -20642,7 +20642,7 @@ broad and distinct, sometimes almost obsolete. The under mandible
 is sometimes yellowish instead of black, as is also occasionally the 
 tip of the upper mandible. 
 
-a. Ad. st. Mexico. 
+a. Ad. sk. Mexico. 
 Purchased. 
 b. Ad. sk Mexico. 
 Sclater Coll. 
@@ -21384,7 +21384,7 @@ Hob. South Brazil, Paraguay, and Bolivia.
 a. Ad. sk. Bahia, Brazil ( Wucherer). Salvin-Godman Coll. 
 b. Ad. sk. Kio. Sclater Coll. 
 c. Ad. sk. Brazil. Sclater Coll. 
-d. e. Ad. st. Brazil. J. Gould, Esq. 
+d. e. Ad. sk. Brazil. J. Gould, Esq. 
 16. Saltator rufiveiitris. 
 Saltator rufiventris, Zafr. et oVOrb. Syn. Av. i. p. 35; ffOrb. Voy., Ois 
 p. 289, pi. 28. fig. 1; Gray, Gen. ii. p. 363; Bp. Consp. l. p. 489 ; Ac*. 
@@ -21938,7 +21938,7 @@ I. Ad. sk. Pelotas, Rio Grande do Salvin-Godman Coll.
 Sul, Brazil (Joyner). 
 m. Jr. sk. Brazil. 
 Sclater Coll. 
-n. Ad. st. Brazil. 
+n. Ad. sk. Brazil. 
 Purchased. 
 o. Skeleton, Brazil. 
 Eyton Coll. 
@@ -22039,7 +22039,7 @@ u. Ad. sk. Bogota.
 Salvin-Godman Coll. 
 v. Ad. sk. j w} x. Bogota. Sclater Coll. 
 Jr. sk. 
-y. Ad. st. S. America. J. Gould, Esq. 
+y. Ad. sk. S. America. J. Gould, Esq. 
 59. PITYI/DS. 
 303 
 59. 
@@ -25842,7 +25842,7 @@ d, e. Ad. sk. Uruguay. Alan Peel [C.].
 (White). 
 h. Ad. sk. Buenos Ayres (Haslehurst): Salvin-Godman Coll. 
 i. Ad. sk. Buenos Ayres (Haslehurst). Sclater Coll. 
-/. Ad. st. La Plata. Cant. Burnett and Sir 
+/. Ad. sk. La Plata. Cant. Burnett and Sir 
 J. Fitzroy [P.]. 
 k. Ad. sk. La Plata. M. Bravard [P.]. 
 /, m. Ad. sk. S. America. Zool. Soc. Coll. 
@@ -25923,7 +25923,7 @@ Hub, Chili and Western Patagonia down to Magellan Straits,
 
 a. Ad. &t. Chili. 
 Mrs. Graham fP.\ 
-b. Ad. st. Chili. 
+b. Ad. sk. Chili. 
 T. Bridges [C.J-" 
 c. Ad. sk. Chili. 
 Lordu €\tinitilwiciti«% of 
@@ -26222,7 +26222,7 @@ smaller.
 large as St. magna typica, but with a narrow throat-gorget and 
 shorter wings. 
 a. Subsp. typica. 
-a. Ad. st. N. America. Hardwicke Bequest. 
+a. Ad. sk. N. America. Hardwicke Bequest. 
 b. Jr. st.
 c Ad. sk.
 L 8 ad. sk.
@@ -26250,7 +26250,7 @@ United States (Bell). Sclater Coll.
 
 360 
 
-a. Ad. st. 
+a. Ad. sk. 
 k Ad. sk. 
 c. <5 ad. sk. 
 d. Jr. sk. 
@@ -26976,7 +26976,7 @@ Hob. Martinique, W. I,
 a. Ad. sk. Martinique, W. I. Salvin-Godman Coll. 
 b,c. Ad. sk. Mai Unique, "W. I. Sclater Coll. 
 d. Ad. sk. West Indies. Purchased. 
-e. Ad. st. West Indies. Dr. Smith [P.]. 
+e. Ad. sk. West Indies. Dr. Smith [P.]. 
 6. Icterus pyrrhopterus. 
 Tordo negro cobijas de canela, Azara, Apunt. I. p. 318. 
 
@@ -27042,7 +27042,7 @@ wing-coverts, and thighs yellow; bill and feet black: whole length
 
 Hub. Colombia, Venezuela, Guiana, and Amazonia. 
 
-a. Ad. st. British Guiana. 
+a. Ad. sk. British Guiana. 
 R. Schomburgk [C.]. 
 b. Q &&• sk' Bartica Grove, Brit. Guiana Salvin-Godman Coll. 
 (Whitely). 
@@ -27094,7 +27094,7 @@ c. Ad. sk. Para, Lower Amazons {Wallace). Salvin-Godman Coll.
 d. Ad.sk. Island of Marajo, Amazons (Wallace). Sahin-Gedman Coll. 
 e. Acl.sk. Peruvian Amazons (Bartlett). Salvin-Godman Coll. 
 f. Ad. sk. S. America. ' Sclater Coll. 
-//. Ad. st, S. America. Purchased. 
+//. Ad. sk. S. America. Purchased. 
 9. Icterus tibialis. 
 Icterus cayanensis, Max. Beitr. iii. p. 1204. 
 Xanthomas flavaxilla, Hahn u. Krister, Yog. aus Asien, Lief. vi. 
@@ -27175,7 +27175,7 @@ Hal. San Domingo.
 Very like I. hjpomelas, but in the present bird the yellow covers 
 the whole of the crissum and the lower portion of the flanks. 
 
-a. Ad. st. San Domingo (Salle). Purchased. 
+a. Ad. sk. San Domingo (Salle). Purchased. 
 b, c. Ad. sk. San Domingo. Salle* [C.]« 
 d. Ad. sk.; San Domingo. Zool. Soc. Coll. 
 e. Jr. sk. 
@@ -27503,12 +27503,12 @@ Mexico. Purchased.
 
 h. Ad. sk. 
 J. Taylor, Esq. [P.]. 
-t. Ad. st. Mexico. 
+t. Ad. sk. Mexico. 
 Purchased. 
 
-j. Ad. st. Mexico. 
+j. Ad. sk. Mexico. 
 J. Gould, Esq. 
-&. Ad. st. Mexico. 
+&. Ad. sk. Mexico. 
 
 20. Icterus cncullatns. 
 Icterus cucullatus, Sw. Phil. Mag. 1827, i. p. 436 ; Later. Ann. Lye. 
@@ -27627,7 +27627,7 @@ e. $ ad. sk. Santa Marta, U, S. C. (Simons). Salvin-Godman Coll.
 ff. Ad. sk. Bogota. Sclater Coll. 
 
 h. Ad. sk. Bogota. J. Gould, Esq, 
-ijj. Ad. st. S. America. Purchased. 
+ijj. Ad. sk. S. America. Purchased. 
 22. Icterus hauxwelli. (Plate XVIII.) 
 Icterus hauxwelli, Sclater, P. Z. S. 1885, p. 671. 
 Above bright yellow; sides of head, narrow mterscapulium, wings, 
@@ -27667,7 +27667,7 @@ which are black tipped with white instead of yellow.
 a. Ad.sk. Mochala, Guayaquil. SaUin-Oodmaii Coll. 
 b. Ad. sk. Payta, Peru (Markham). 8&1\IR-(T« ilmmi Coll. 
 c. 2 ad. sk. Tumbez, Peru (Jelski). Sclat<*r CMII. 
-d. Ad. st. Piura, Peru. Capt. Kellwtt and Lt. 
+d. Ad. sk. Piura, Peru. Capt. Kellwtt and Lt. 
 Wood [C]. 
 24 Icterus mesomelas. 
 
@@ -27712,7 +27712,7 @@ on account of the absence of the nairow white external edgings of
 the outer secondaries. But this edging is certainly quite apparent 
 in some Bogota specimens, and is also well marked in examples from 
 "Western Peru. It does not seem to me to be a constant character. 
-a. Ad. st. Mexico. 
+a. Ad. sk. Mexico. 
 Purchased. 
 h. Ad. sk. Orizaba (Sfevens). Sclater Coll. 
 c, d. 6 S ad. sk. Yucatan (Gaumer). Salvin-Godman Coll. 
@@ -27742,7 +27742,7 @@ t,M.Ad.8k. Santa Rita, Ecuador (Buckley). Salvin-Godman Coll.
 t*. Ad. sk. Chiquinda, Ecuador (Buckley). Salvin-Godman Coll. 
 
 w. Ad. sk. Payta, Peru (Markham). Salvin-Godman Coll. 
-x. Ad. st. S. America. 
+x. Ad. sk. S. America. 
 Purchased. 
 25. Icterus giraudi. 
 Icterus giraudii, Cassin, Br. Ac. 8c. mi 1847, p. 333,1800, p. 140 
@@ -27784,7 +27784,7 @@ y. Ad. sk.
 7s. $ ad. sk. 
 
 J. Ad. sk. 
-m. Ad. st. 
+m. Ad. sk. 
 ». Jr. sk. 
 
 o. Jr. st. 
@@ -28065,7 +28065,7 @@ Campano, Venezuela (Goering).
 South America. 
 Salvin-Godman Coll. 
 Sclater Coll. 
-e. Ad. st. South America. Zool. Soc. Coll. 
+e. Ad. sk. South America. Zool. Soc. Coll. 
 
 31. Icterus jamacaii. 
 Oriolus jamacaii, Gm. S. N. i. p. 391. 
@@ -28163,9 +28163,9 @@ Eab. Southern Mexico, Yucatan, British Honduras, and
 
 Guatemala. 
 
-a. Ad. st. Mexico. 
+a. Ad. sk. Mexico. 
 Baron Lau^rier Coll. 
-b. Ad. st. Mexico. 
+b. Ad. sk. Mexico. 
 J. Gould, &q. rp.]. 
 c. $ sk. Jalapa, Mexico (Edge). Salvin-Godman Coll. 
 d. <S jr. sk. Jalapa, Mexico (de Oca). Sclater Coll. 
@@ -28282,7 +28282,7 @@ of the Nicaraguan specimens before me ( $ ) Is hardly Inferior In
 
 dimensions to the Mexican examples. 
 
-a, b. Ad. st. Central America. Purchased. 
+a, b. Ad. sk. Central America. Purchased. 
 
 c. $ ad. sk. Putla, "W. Mexico (Bebomk). Salvin-Godman Coll. 
 d. (S ad. sk. Tonala, Chiapas, Mexico Sarrin-Godinaii ColL 
@@ -28392,7 +28392,7 @@ Hah. Jamaica.
 
 a. Ad. st Jamaica. 
 J- Gould, Esq. 
-b. Ad. st. Jamaica. 
+b. Ad. sk. Jamaica. 
 Purchased. 
 c. d ad. sk. Jamaica (Osbum). Sclater Coll. 
 d. Ad. sk. Jamaica (Bryant). Sclater Coll. 
@@ -28675,7 +28675,7 @@ j . Ad. sk. Belize, British Honduras Salvin-Godman Coll.
 k Ad. sk.
 I, m. $ ad. sk.
 n, Ad. sk.
-o. Ad. st. 
+o. Ad. sk. 
 Choctum,Vera Paz (Salmi). 
 Coban, Vera Paz (Salvia). 
 Coban, Vera Paz. 
@@ -28839,7 +28839,7 @@ South Florida.
 bronzy olive. From the interior Atlantic States and Saskatchewan. 
 a. Subsp. tyjpica. 
 a* d ad. st. 
-L Ad. st. 
+L Ad. sk. 
 c. d" ad. sfc. 
 North. America.
 North America (albino).

@@ -4667,7 +4667,7 @@ Adult female. Similar to the male in colour. Total length 10*5
 inches, culmen 1*45, wing 4*8, tail 3*3, tarsus 1*25. 
 Hah. Java. 
 
-a. Ad. st. Java. Ley den Museum [P.]. 
+a. Ad. sk. Java. Ley den Museum [P.]. 
 b, c. Ad. sk. Java. Tweeddale Coll. 
 d,e. <$ 5 ad. sk, Java (Mus. LugdJ). Salvin-Godman Coll. 
 f. Ad. sk. W. Java (A. B. Wallace). Tweeddale Coll. 
@@ -4723,7 +4723,7 @@ less bright. Total length 10 inches, culmen 1*5, wing 4*65, tail
 
 2-6, tarsus 1-1, 
 Hah. Java. 
-a. Ad. st. Java. Purchased. 
+a. Ad. sk. Java. Purchased. 
 b,c. Ad.; d Imm.
 sk.
 e. Ad. sk. 
@@ -4818,7 +4818,7 @@ q. Ad. sk. Malacca, Sept. (W. Davison). Hume Coll.
 r. 
 Ad. sk. Malacca, Aug. 3 (22. 67. W. 22.). Tweeddale Coll. 
 s. Ad. sk. Malacca (Dr. Maingay). Tweeddale Coll. 
-t. Ad. st. Sumatra. Old Coll. 
+t. Ad. sk. Sumatra. Old Coll. 
 u-y. Ad.sk. Sumatra (Carl Bock). Tweeddale Coll. 
 z. 
 $ ad.sk. Mt. Sago, Sumatra/Sept. {Carl Tweeddale ColL 
@@ -5640,7 +5640,7 @@ z-e". 6*2 ad. sk. Johore, March, Aug. (W. Hume Coll.
 Davison), 
 f", g". Ad. sk. Singapore. Hume Coll. 
 /*". Ad. sk. Sumatra. E. Wilson, Esq. [P.]. 
-i", h". Ad. st. Sumatra. Purchased. 
+i", h". Ad. sk. Sumatra. Purchased. 
 I". £ ad. sk. Sarawak (A. JR. Wallace). Tweecldale Coll. 
 m". Ad. sk. Sarawak (II. Everett). Tweeddale Coll. 
 
@@ -7656,7 +7656,7 @@ w3. $ ad. sk. Jhansi district, Oct. 1%
 v3, toz. <$ ad. sk. Allahabad, Feb., Dec. 
 #3. Ad. sk. Oudh. 
 yz. Ad. sk. Oudh. 
-z\ Ad. st. Behar. 
+z\ Ad. sk. Behar. 
 
 oc. Ad. sk. 
 Behar (B. II. Hodgson). 
@@ -8909,7 +8909,7 @@ a.
 $ ad. sk. Andoas, Ecuador (C. Buck- Salvin-Godman Coll. 
 lexj). 
 b. S ad. sk. Ucayali River. Gould Coll. 
-c. Ad. st. Ucayali Kiver. J. Hauxwell, Esq. 
+c. Ad. sk. Ucayali Kiver. J. Hauxwell, Esq. 
 [C.]. 
 d. e. <$ $ ad. sk. Upper Ucayali (JS. Bartletb), Salvin-Godman Coll. 
 / . $ ad. sk. Upper Ucayali {JE. Bartlett). Sclater Coll. 
@@ -9889,7 +9889,7 @@ The more southern bird has been separated as B. albogularis; but
 I fail to appreciate any sufficiently distinctive characters, although 
 the throat in southern specimens is perhaps rather more white. 
 
-a. Ad. st. 
+a. Ad. sk. 
 b. Ad.sk. 
 British Guiana. 
 British Guiana. 
@@ -9981,7 +9981,7 @@ q, r. S 2 a^« s^v-
 Mexico. 
 Purchased. 
 
-s. Ad. st. 
+s. Ad. sk. 
 Meco I., Yucatan (Gatimer). Salvin-Godman Coll. 
 
 t, Jr. sk. 
@@ -10039,7 +10039,7 @@ This is a very closely allied southern form of li. cariuatux. 1 am
 very doubtful as to the propriety of recognizing its separation. The 
 specimen from Santa Marta is quite as large as the Mexican bird. 
 
-a. Ad. st. Central America. Purchased. 
+a. Ad. sk. Central America. Purchased. 
 b. Ad. sk. Turrialba, CobtaRiea (Arce). Salvin-Godman Coll. 
 e. Ad. sk. Costa Rica (Carmiol). 0. Salvin, Esq. [P.]. 
 (1. Ad. sk. Costa Rica (Frantzini). Salvin-Godman Coll. 
@@ -10159,7 +10159,7 @@ Ecuador both forms seem to occur. The Venezuelan bird has
 been separated as having a smaller bill, but similar small-billed 
 examples occur in other localities. 
 
-a. Ad. st. Bogota (?). 
+a. Ad. sk. Bogota (?). 
 Purchased. 
 b. Jr. st. Bogota. Purchased. 
 c-h. Ad. bk. Bogota. Gould Coll. 
@@ -10199,7 +10199,7 @@ black; tip of lower mandible black: whole length 22 inches, wing
 
 Hab. Guiana, Lower Amazonia, and Northern Brazil. 
 
-a-c. Ad. st. Biitish Guiana (Schomburgl). It. Geogr. Soc. [P.], 
+a-c. Ad. sk. Biitish Guiana (Schomburgl). It. Geogr. Soc. [P.], 
 
 d. Ad. &t. Rio Negro. 
 Gould Coll. 
@@ -10290,9 +10290,9 @@ Gould Coll.
 h. Ad. sk. 
 i. Ad. sk. 
 h. Ad. sk. 
-1 Ad. st. 
+1 Ad. sk. 
 m. Jr. &k. 
-n. Ad. st. 
+n. Ad. sk. 
 well). 
 R. Ucayali. 
 R. Ucayali (Bartlett). 
@@ -10428,7 +10428,7 @@ inches, wing 7*5, tail G*o, bill from gape 4-5. Female similar.
 
 Hab. Eastern Brazil. 
 
-a. Ad. st. 8.E. Brazil. Purchased. 
+a. Ad. sk. 8.E. Brazil. Purchased. 
 b, c. S S ad. sk.; Para, Brazil. Gould Coll. 
 d. Ad. sk. 
 e. Ad. sk.
@@ -10483,7 +10483,7 @@ neck. In R. ariel the whole throat and fore neck are of a uniform
 orange. 
 
 a. Ad. sk. Trinidad. Sclater Coll. 
-b. Ad. st. Cayenne. Purchased. 
+b. Ad. sk. Cayenne. Purchased. 
 o, d. $ J ad. sk. Bartica Grove, British Guiana Salvin-Godman Coll. 
 (Whitely). 
 
@@ -10494,7 +10494,7 @@ British Guiana.
 Demerara. 
 Gould Coll. 
 Purchased. 
-i. Ad. st. Demerara. Purchased. 
+i. Ad. sk. Demerara. Purchased. 
 h. J ad. sk.
 I. Ad. sk. 
 Lower Amazons (Wallace). 
@@ -10534,9 +10534,9 @@ bill from gape 4*2. Female similar,
 
 Hab. S.E. Brazil and Paraguay. 
 
-a. Ad. st. S.E. Brazil. 
+a. Ad. sk. S.E. Brazil. 
 Mrs. Graham [P.]. 
-b. Ad. st. S.E. Brazil. 
+b. Ad. sk. S.E. Brazil. 
 Purchased, 
 c. Jr. st. S.E. Brazil. 
 Zool. Soc. Coll. 
@@ -10716,7 +10716,7 @@ tail 7, bill from gape 4. Female similar.
 
 Bab. Colombia. 
 
-a, b. Ad. st. Bogota. Purchased. 
+a, b. Ad. sk. Bogota. Purchased. 
 
 c. Ad. sk. Bogota. Salvin-Godman Coll. 
 Gould Coll. 
@@ -10918,7 +10918,7 @@ Gould Coll.
 
 3 . PTEROfifLOSSTJS. 
 e. Ad. sk. Cayenne. Sclater Coll. 
-/ . Ad. st. Cayenne. Purchased. 
+/ . Ad. sk. Cayenne. Purchased. 
 ff. Ad. sk. Maroni R., Surinam (Kappler). Salvin-Godman Coll. 
 2. Pteroglossus wiedi. 
 Pteroglossus wiedii, Sturm, Mon. Ramph. pt. iv.; Gould, Mon. 
@@ -11058,7 +11058,7 @@ c, d. Ad. sk. Andoa, Ecuador (Buckley). Salvin-Godman Coll.
 
 e. Ad. sk. Barra do ftio Negro ( IVallace). Sclator Coll. 
 / . Ad. sk. Bio Negro. Purchased. 
-g. Ad. st. Rio Negro. 
+g. Ad. sk. Rio Negro. 
 Purchased. 
 h. Ad. sk. Lower xVmazonia. Salvin-Godman Coll. 
 i-l. Ad. sk. Lower Amazonia. Gould Coll. 
@@ -11156,7 +11156,7 @@ e\ Ad. sk.
 /'. Ad. sk. 
 g'. Ad. sk. 
 
-h', i'. Ad. st. 
+h', i'. Ad. sk. 
 
 k', I'. Ad. sk. 
 
@@ -11413,7 +11413,7 @@ c. Ad. sk.
 lace). 
 Para. Purchased. 
 d. Ad. sk. Lower Amazons. Gould Coll. 
-e. Ad. st. Brazil. Zool. Soc. Coll. 
+e. Ad. sk. Brazil. Zool. Soc. Coll. 
 
 11. Pteroglossus sturmi. 
 Pteroglossus stimuli, Natt. MS.; Sturm, Mon. Ramph. pt. iii. pi. 7; 
@@ -11461,7 +11461,7 @@ by Gould P.Jlavirostris and P. maria\ The brownish tinge on the
 lower mandible appears to be an unreliable character, and there is 
 considerable variation in size in specimens from the same locality. 
 
-a. Ad. st. E. Peru. Purchased. 
+a. Ad. sk. E. Peru. Purchased. 
 h, c. Ad. sk. Bogota. Gould Coll. 
 d. Ad. sk.
 e. Ad. sk.
@@ -11525,7 +11525,7 @@ Similar to P. flavirostris^ but rather smaller, and with a broad
 brown band along the lower edge of the upper mandible. 
 Hah. Guiana and Rio Negro. 
 
-a, b. Ad. st. Rio Negro. *>fia!?d. 
+a, b. Ad. sk. Rio Negro. *>fia!?d. 
 c, d. Ad. sk. Rio Negro. Gould ColL 
 
 
@@ -11556,7 +11556,7 @@ Hah. Upper Amazonia.
 
 a. $ ad. sk. Nauta, R. Amazons. E. Bartlett |~C.]. 
 b, c. $ $ ad. sk. Rio Javari. W. Bate.-, [C.]. 
-d. Ad. st. Rio Jayari. 
+d. Ad. sk. Rio Jayari. 
 W. Bates [C.]. 
 e. $ ad. &k. Upper Ucajali. _ E. Bartlett [C.]. 
 /. c?ad. sk. Sarayacu, E. Peru (Whltely). Sclater Coll. 
@@ -11565,7 +11565,7 @@ i.
 (J ad. sk. Yquitos, Upper Amazons fcJalvin-Godman Coll. 
 {Whitely). 
 k. J ad. &k. Chayavetas, E. Peru (Bartlett). Sclater Coll. 
-I. Ad. st. B Amazonia. 
+I. Ad. sk. B Amazonia. 
 Gould Coll. 
 m. d1 ad.; n~p. Upper Amazons. Gould Coll. 
 $ ad. sk. 
@@ -11699,7 +11699,7 @@ Salvin-Godman Coll.
 d. e. Ad.: f. Jr. Upper Amazons (Hauxwell). Gould Coll. 
 sk. 
 g. Jr. sk. Upper Amazons. Purchased. 
-L Ad. st. Upper Amazons. Purchased. 
+L Ad. sk. Upper Amazons. Purchased. 
 4. SELENIDERA. 
 .type, 
 
@@ -11902,7 +11902,7 @@ Hah, Upper Amazonia and Eastern Ecuador.
 The reddish bill without black transverse markings is the chief 
 character of this species. 
 
-a. Ad. st. E. Peru. 
+a. Ad. sk. E. Peru. 
 Purchased. 
 b. $ ad. sk. Ckayavetas, E. Peru (Bart- Salvin-Godman Coll. 
 lett). 
@@ -12253,7 +12253,7 @@ o. $ ad. sk.
 p. $ ad. sk. British Honduras (Blanca- 
 Salvin-Godman Coll. 
 neaux). 
-q, r. Ad. st. Mexico. Purchased. 
+q, r. Ad. sk. Mexico. Purchased. 
 
 s. Ad. sk. Orizaba, Mexico. Gould Coll. 
 t Ad. sk. Jalapa, Mexico (de Oca). Salvin-Godman Coll. 
@@ -12331,7 +12331,7 @@ easily distinguishable among the green-rumped species.
 
 RHAMPHASTLDJS. 
 
-a. Ad. st. Bogota. Purchased. 
+a. Ad. sk. Bogota. Purchased. 
 h,c. <$ $ ad.sk. Merida, Venezuela (Goering). Salvin-Godman Coll. 
 d. $ ad. sk. Merida, Venezuela {Goering). Sclater Coll. 
 e. (S ad. sk. Sierra Nevada of Venezuela Gould Coll. 
@@ -12391,7 +12391,7 @@ I do not see how the so-called A. castaneorhynehus from Bogota
 can be separated from A. hcematopyyius. Cassin was of the same 
 opinion (cf. Pr. Ac. Sc. Phil. 1867, p. 119). 
 
-a. Ad. st. 
+a. Ad. sk. 
 Bogota. Purchased. 
 b. Ad.; c. Jr. sk. Bogota. Salvin-Godman Coll. 
 d, e. Ad. sk. Bogota. Sclater CoU. 
@@ -12671,7 +12671,7 @@ d7e. <Jad.;/.$
 ad. sk. 
 g. g ad. sk. 
 h. S ad. sk. 
-i. Ad. st. 
+i. Ad. sk. 
 Cayenne. 
 Cayenne. 
 Merume' Mts.; British Guiana 
@@ -12691,7 +12691,7 @@ Z. Ad. sk. Demerara. Salvin-Godman Coll.
 m. Ad. sk. 
 n. (S ad. sk. 
 o. Ad. sk. 
-p. Ad. st. 
+p. Ad. sk. 
 Pernambuco, Brazil (Craven). 
 Barra do Rio Negro (Wallace). 
 Yquitos, Peru. 
@@ -12717,7 +12717,7 @@ a. Ad. sk. Upper Amazons. Sclater Coll.# (Type
 of the species.) 
 ft. Ad. sk. Upper Amazonb ( Wallace). Sclater Coll. 
 
-c. Ad. st. Upper Amazonb. Gould Coll. 
+c. Ad. sk. Upper Amazonb. Gould Coll. 
 d. Ad. sk. Ega, Upper Amazons Salvin-Godman Coll. 
 (Bates). 
 2. aALBULA. 
@@ -13024,7 +13024,7 @@ length. 8*5 inches, wing 3, tail 3*5, bill from gape 1*8. Female
 similar, but belly paler. 
 Hal. Colombia, Ecuador, and Upper Amazonia. 
 
-a. Ad. st. Bogota. Purchased. 
+a. Ad. sk. Bogota. Purchased. 
 b, c. S 2 ad. sk.
 d, e. (S 2 a^. sk.
 f. J ad. sk.
@@ -13220,9 +13220,9 @@ e. J ad. sk. Cayenne. Purchased.
 / . ? ad. sk. Guia, Upper Eio Negro (Wal- Salvin-Godman Coll. 
 lace), 
 g, h. S ? "ad. sk. Eio Negro (Wallace). Sclater Coll. 
-. Ad. st. Amazons. A. R. Wallace [C.~. 
+. Ad. sk. Amazons. A. R. Wallace [C.~. 
 
-h. Ad. st. Demerara. Purchased, 
+h. Ad. sk. Demerara. Purchased, 
 3. BKACHYGALBA. 
 171 
 
@@ -13338,7 +13338,7 @@ well).
 Rio Tocantins (Wallace). Sclater Coll. 
 p. Ad. sk. Amazons (?). Sclater Coll. (Type of 
 q. Ad. sk. 
-r. Ad. st. 
+r. Ad. sk. 
 Bogota. 
 S. America. 
 Galbula inornata?) 
@@ -13531,7 +13531,7 @@ d. 2
 cherer). 
 e. 5 ad. bk. S.E. Brazil. Sclater Coll. 
 / . Ad. sk. S.E. Brazil. Purchased. 
-g. Ad. st. S.E. Brazil. 
+g. Ad. sk. S.E. Brazil. 
 Gould Coll. 
 h. Skeleton. S.E. Brazil. 
 Eyton Coll. 
@@ -13580,8 +13580,8 @@ from gape 2*1. Female similar, but without the white cheeks.
 
 Hab. Upper Amazonia. 
 
-a. Ad. st. Upper Amazonia. Purchased. 
-b. Ad. st. Upper Amazonia. Gould Coll. 
+a. Ad. sk. Upper Amazonia. Purchased. 
+b. Ad. sk. Upper Amazonia. Gould Coll. 
 c. S ad. sk. Pebas, Peru (Hauxivell). Sclater Coll. 
 d. Ad. sk. Pebas, Peru (HauxwelT). Salvin-Godman Coll. 
 e. 2 ad. sk. Ucayali (Bartlett). Sclater Coll. 
@@ -13910,7 +13910,7 @@ tail 6, bill from gape 1*4. Female similar.
 
 Hah. Guiana and Amazonia. 
 
-a. Ad. st. S. America. 
+a. Ad. sk. S. America. 
 Purchased. 
 b, c. 
 <$ $ ad. sk. Barlica Grove, Brit. Guiana Salvin-Godman Coll. 
@@ -13932,7 +13932,7 @@ i. $ ad. sk. Yqnito^ E, Peru (Whitely). Sclater Coll.
 h. 
 $ ad. sk. Loreto-yacu, E. Peru (Haw-Sclater Coll. 
 well). 
-1. Ad. st. Upper Amazons. II. W. Bates [C.]. 
+1. Ad. sk. Upper Amazons. II. W. Bates [C.]. 
 m. Jr. sk. Upper Amazons (Bates). Purchased. 
 n-p. Ad. sk. Sarayacu, Ecuador (Buckley), Salvin-Godman Coll. 
 2. Bucco macrorhynchus. 
@@ -14210,7 +14210,7 @@ and feet black : whole length 7*8 inches, wing 3*4, tail 2*5, bill
 from gape 1*4. 
 Hah. Amazonia. 
 a. Ad. sk. Oyapock, Cayenne (?). Sclater Coll. 
-b. Ad. st. Ega, Upper Amazons (Bates). Purchased. 
+b. Ad. sk. Ega, Upper Amazons (Bates). Purchased. 
 
 8. Bucco tectms. 
 Barbu a poitriue noire de Cayenne, Daub. PL Enl. 688.fig. 2. 
@@ -14250,7 +14250,7 @@ a <$ ad. sk. Camacusa, Brit. Guiana Salvin-Godman Coll.
 
 b. <$ ad.; e, d. Bartica Grove, Brit. Guiana Salvin-Godman Coll. 
 5 ad.sk. (Whitely). 
-e. Ad. st. Cayenne. H. C. Rothery [P.], 
+e. Ad. sk. Cayenne. H. C. Rothery [P.], 
 f. Ad. sk. Cayenne. Sclater Coll. 
 "g. Ad. sk. Cayenne. Purchased. 
 k Ad. sk. Pemambuco, Brazil (Craven). Sclater Coll. 
@@ -14260,8 +14260,8 @@ BUCCONTDJE.
 
 ft, I 6 ? ad. sk. Para (Layard). Tweeddale Coll. 
 
-m. Ad. st. Para. R. Graliam [P.]. 
-n, o. Ad. st. S. America Purchased. 
+m. Ad. sk. Para. R. Graliam [P.]. 
+n, o. Ad. sk. S. America Purchased. 
 9. Bucco picatus. 
 Bucco picatus, Scl. P. Z. S. 1855, p. 194; id. Man. Jac. and Pivffbds. 
 p. 81; Scl. et Salu. P. Z. S. 1873, p. 295 (E. Peru); ml 
@@ -14353,7 +14353,7 @@ Sclater Coll.
 h. Ad. sk. Bogota. 
 Salvin-Godrnan Coll. 
 i. Ad. sk. Bogota. Purchased. 
-h, I Ad. st. Bogota. Purchased. 
+h, I Ad. sk. Bogota. Purchased. 
 m. Ad. sk. S. America. 
 Sclater Coll. 
 12. Bucco ruficollis. 
@@ -14389,7 +14389,7 @@ The large size and rufous throat render this species easily dis
 
 
 tinguishable. 
-a. Ad. st. Santa Marta, U. S. C. Purchased. 
+a. Ad. sk. Santa Marta, U. S. C. Purchased. 
 b. Ad. sk. Santa Marta, U. S. C. Sclater Coll. 
 <?. Ad. sk. Savanilla, U. S. C. Salvin-Godman Coll. 
 d. Ad. sk. 
@@ -14429,7 +14429,7 @@ Ilab. Venezuela.
 The double-banded breast at once distinguishes this species, 
 which is otherwise nearly allied to B. rvficottis. 
 
-a. Ad. st. Venezuela. 
+a. Ad. sk. Venezuela. 
 Purchased. 
 b. Ad. sk. Venezuela. 
 E. Dyson [0.1 
@@ -14482,9 +14482,9 @@ by squarish black spots: whole length 0-2 inches, wing 3, tail
 
 Hah. Cayenne, Guiana, and Lower Amazonia. 
 
-a. Ad. st. S. America. 
+a. Ad. sk. S. America. 
 Purchased. 
-b. Ad. st. Cayenne. 
+b. Ad. sk. Cayenne. 
 H. C. Botliery [P.], 
 c. Ad. sk. Cayenne. 
 Sclater Coll. 
@@ -14517,7 +14517,7 @@ Similar to B. tamatia, but front of a rather deeper ferruginous,
 and spots on the belly darker and more numerous. 
 Hah. Upper Amazonia and Ecuador. 
 
-a. Ad. st. E. Peru. 
+a. Ad. sk. E. Peru. 
 Purchased. 
 b. Ad. sk. E. Peru. 
 Purchased. 
@@ -14569,7 +14569,7 @@ length 8 inches, wing 3*2, tail 2*8, bill 1*7. Female similar.
 
 Hah. S.E. Brazil. 
 
-a. Ad. st. S.E. Brazil. 
+a. Ad. sk. S.E. Brazil. 
 Purchased. 
 b. Ad. sk. Pernainbuco, Brazil {Forbes). Salvin-Godman Coll. 
 c. Ad. sk. Pernambuco, Brazil (Forbes). Sclater Coll. 
@@ -14637,7 +14637,7 @@ wing 3*3, tail 2*9, bill 1*4. Female similar.
 
 Hab. Southern Brazil, Paraguay, and Bolivia. 
 
-a. Ad. st. S.E. Brazil. Ld. Stuart de Rotheb. 
+a. Ad. sk. S.E. Brazil. Ld. Stuart de Rotheb. 
 Ad. sk. Rio, Brazil.
 say [P.]. 
 Sclater Coll. 
@@ -14764,7 +14764,7 @@ Salvin-Godman Coll.
 Sclater Coll. 
 Sclater Coll. 
 q. Ad. sk. Veragua (Arce). Salvin-Godman Coll. 
-r. Ad. st. S. America. Purchased. 
+r. Ad. sk. S. America. Purchased. 
 
 2. MALACOPTILA. 
 Type. 
@@ -14837,7 +14837,7 @@ Hah. Guiana, Colombia, Ecuador, and Amazonia.
 
 a. Ad. sk. Cayenne. Sclater Coll. 
 b. Ad. sk. Bogota. Sclater Coll. 
-c. Ad. st. Bogota. Purchased. 
+c. Ad. sk. Bogota. Purchased. 
 d. Ad. sk. Peruvian Amazons. Sclater Coll. 
 e. <$ ad. sk. Gkyavctas, Peruvian Amazons Salvin-Godman Coll 
 (Bartlett). 
@@ -14884,7 +14884,7 @@ tail 2-6. Female similar.
 
 Ilab. Amazonia and N. Brazil. 
 
-a, b. Ad. st. Para, Lower Amazons. II. Graham [P.]. 
+a, b. Ad. sk. Para, Lower Amazons. II. Graham [P.]. 
 
 c. J ad. &k. Para ( Wallace). Sclater Coll. 
 d, e. Ad. sk. Pernambuco, Brazil (Craven). Sclater Coll. 
@@ -14930,7 +14930,7 @@ Eab. S.E. Brazil.
 The distinct black pectoral band beneath the broad white one at 
 once distinguishes this species from the two preceding. 
 
-a. Ad. st. S.E. Brazil. Gould Coll. 
+a. Ad. sk. S.E. Brazil. Gould Coll. 
 b. Ad. sk. 
 c. $ ad. sk. 
 Bahia, Brazil (Wucherer). 
@@ -15051,8 +15051,8 @@ z. S ad. sk. Antioquia (Salmon). Sclater Coll.
 a'. (S ad. sk. Bogota. Sclater Coll. 
 V. Ad. sk. Bogota. Purchased. 
 c'. S ad. sk. Bogota. Salvin-Godman Coll. 
-d\ Ad. st. Bogota. Purchased. 
-e'. Ad. st. Venezuela (Dyson). Purchased. (Type 
+d\ Ad. sk. Bogota. Purchased. 
+e'. Ad. sk. Venezuela (Dyson). Purchased. (Type 
 of M. aspersa.) 
 /' . <J ad. sk. San Cristobal, Venezuela Sclater Coll. 
 
@@ -15492,7 +15492,7 @@ tail 4L-7, bill from gape 1/7. Female, similar.
 
 Hal. Guiana, Cayenne, and Lower Amazonia. 
 
-a,b,c. Ad. st. British Guiana. Rir 11. Schomhurgh 
+a,b,c. Ad. sk. British Guiana. Rir 11. Schomhurgh 
 [C.]. ^ 
 d 9 ad slv Camacusa, British Guiana Sahin-Godman Coll, 
 * * ' (Whiteh/). 
@@ -15778,7 +15778,7 @@ Hah. Yenezuela, Guiana, and Amazonia.
 
 a. $ ad. sk. Merida, Venezuela (Goering). Salvin-Godman Coll. 
 b. Ad.sk.
-c. d. Ad. st. 
+c. d. Ad. sk. 
 Trinidad (?). 
 British Guiana. 
 Sclater Coll. 
@@ -15885,7 +15885,7 @@ Similar to C. tenebrosa, but larger, breast more cinereous; belly
 lighter, more ochraceous. 
 Eab. S.E. Brazil. 
 
-a. Ad. st. S.E. Brazil. 
+a. Ad. sk. S.E. Brazil. 
 b. Ad. sk. Pernambuco, Brazil (Forbes). 
 c. Ad. sk. Pernambuco, Brazil (Forbes). 
 d. Ad. sk. Bahia, Brazil (Wucherer). 
@@ -16727,7 +16727,7 @@ sk.
 w. <$ ad. sk. 
 %rt y. Ad. sk. 
 z. Ad. sk. 
-a\ Ad. st. 
+a\ Ad. sk. 
 V. $ ad. sk. 
 c'. S ad. sk, 
 d'-i'. Ad; k\ 
@@ -17223,7 +17223,7 @@ to Natal and westward into Damara-Land.
 
 a-d. Ad*, sk. River G-ambia. 
 
-e. Ad. st. River Gambia. GovernorBendallj_P.J. 
+e. Ad. sk. River Gambia. GovernorBendallj_P.J. 
 / . Ad. sk. R. Gambia (Sir A. Moloney). Shelley Coll. 
 g, h, L Ad. sk. Sierra Leone. Seebohni Coll. 
 k, I. Ad. sk. Fantee (H. T. Ussher). Sliarpe Coll. 
@@ -18914,7 +18914,7 @@ Ad. ; £.
 Juv. sk. 
 
 u. Ad. sk. 
-y. Ad. st. 
+y. Ad. sk. 
 io,x,y. Ad. j 3, 
 a', b'. Imm. sk, 
 r'-m'. Ad.; 
@@ -19438,7 +19438,7 @@ e', $ j uv * i-^pat.
 sk. 
 /' . Var. alb. sk. 
 
-/ . Ad. st. 
+/ . Ad. sk. 
 
 ti. 2 &&•s^* 
 
@@ -19458,7 +19458,7 @@ tL Ad. sk.
 »'. § juv. sk. 
 
 to*. <£ j11^. sk. 
-,c\ Ad. st. 
+,c\ Ad. sk. 
 #'. 2 jr. hepat. 
 
 sk. 
@@ -19858,7 +19858,7 @@ cc. S imm. sk.
 ri^d 1 ad.;/6. 
 5 inim. sk. 
 
-<76. Ad. st. 
+<76. Ad. sk. 
 7i*-k*. Ad.; /GQ
 
 
@@ -20323,7 +20323,7 @@ q", r". Ad.; s".
 Juv. sk. 
 $". Juv. sk. 
 u"-iv". Ad. sk. 
-x". Ad. st. 
+x". Ad. sk. 
 y" ,z" ,a?. Imm.sk. 
 
 63. Juv. sk. 
@@ -20683,7 +20683,7 @@ uniformly barred with black throughout.
 Hob. Nearly the whole of the Ethiopian Region. 
 
 6. cucxJLcrs 259 
-a. Ad. st. South Africa. Purchased. 
+a. Ad. sk. South Africa. Purchased. 
 b-e. Ad. sk.
 / , g. Ad. sk. 
 South Africa {Layard). 
@@ -21682,7 +21682,7 @@ juv. sk.
 mb-rb. Ad.; s°, t6. Sumatra (C. Bock). 
 
 Juv. sk. 
-u6. Ad. st. Java. 
+u6. Ad. sk. Java. 
 v*-b7. Ad.; Q\ d7. Java. 
 
 
@@ -23790,8 +23790,8 @@ Hab. Australia generally, Southern New Guinea and the adjacent
 
 islands to the Solomon Archipelago. 
 
-a, b, c. Ad. st. Australia. Sir G. Grey [P.], 
-d. Ad. st. Australia. J. Gould, Esq. 
+a, b, c. Ad. sk. Australia. Sir G. Grey [P.], 
+d. Ad. sk. Australia. J. Gould, Esq. 
 e. Ad. sk. Australia. Linnean Society. 
 (Type of C. metallicus, V. & H.) 
 / . Ad. sk. Australia. Sir D. Cooper [P.]. 
@@ -25126,7 +25126,7 @@ apparently not with age ; the immature birds may be easily recog
 nized by the more spotted appearance of thogreater amount of rufous shade on the throat. 
 Hah. The same as that of the genus. 
 
-a. Ad. st. New Zealand.
+a. Ad. sk. New Zealand.
 b. Ad. sk. New Zealand.
 c. Ad. sk. New Zealand.
 d. Irani, sk. New Zealand.
@@ -26507,7 +26507,7 @@ p. Ad.; q. Juv. Menado. Gould Coll.
 sk. 
 r. $ ad. sk. Makassar. Wallace Coll. 
 s, t, cJad. sk.
-%i. Ad. st. 
+%i. Ad. sk. 
 Makassar (A. P, Wallace). 
 Celebes. 
 Tweeddale Coll. 
@@ -26693,7 +26693,7 @@ Hab. Australia, New Guinea, Duke of York Island and New
 Britain, Ke Islands, Ceram, Bourn, Obi, Batehian, Tern ate, Celebes, 
 
 and Plores. 
-a. Ad. st. Australia. A. Cunningham, Esq. 
+a. Ad. sk. Australia. A. Cunningham, Esq. 
 5. Ad. sk. Australia. Gould. Coll. 
 c. Ad. sk. Australia. Forbes Coll. 
 d. Ad. sk. Australia. Tweed dale Coll. 
@@ -27038,7 +27038,7 @@ are barred.
 Sab. Islands of Batchian and Halmahera or Gilolo, in the 
 Moluccas. 
 
-a. Ad. st. [Batchian.] 
+a. Ad. sk. [Batchian.] 
 Old Coll. 
 b, c. 
 $ ad.; d. Batchian (A. R. Wallace). Tweeddale Coll. 
@@ -30135,7 +30135,7 @@ brown ends to tho feathers. Total length 22 inches, culmon 2*2,
 wing 7*3, tail 13, tarsus 1-8. 
 
 Ilab. Cuba. 
-a. Ad. st. Cuba. Edward Wilson. 
+a. Ad. sk. Cuba. Edward Wilson. 
 b. Ad. sk. Cuba.
 Esq. fP.]. 
 Sahin-tlodman Coll 
@@ -30253,7 +30253,7 @@ men 1*7, wing 7*2, tail 11*7, tarsus 1*5.
 
 Hab. Jamaica. 
 
-a, b. Ad. st. Jamaica. J. Could, Esq. [P.]. 
+a, b. Ad. sk. Jamaica. J. Could, Esq. [P.]. 
 
 c. Ad. sk. Jamaica. Salvin-Godman Coll. 
 d-g. Ad. sk. Jamaica. Seebohm Coll. 
@@ -30411,7 +30411,7 @@ chestnut.
 Hob. The same as that of the genus. 
 
 
-a. Ad. st. 
+a. Ad. sk. 
 b. Ad. sk. 
 c. el S ? ad. sk. 
 e. Ad. sk. 
@@ -30743,7 +30743,7 @@ mk,nl,o4:. Ad. sk.
 r1, s1. Ad. sk. 
 
 j?1, ^4. Ad. sk. 
-i?1. Ad. st. 
+i?1. Ad. sk. 
 
 
 w1, #4. d ? ad. 
@@ -32564,7 +32564,7 @@ Adult female. Similar in plumage to the male. Total length 19*1
 inches, culmen 1*85, wing 6-9, tail 12, tarsus 1*6. 
 
 Hah. Celebes. 
-a, Ad. st. Celebes. Purchased. 
+a, Ad. sk. Celebes. Purchased. 
 b-h. Ad. sk. Celebes. Seebohm Coll. 
 i, h, 1. <$ ad. sk. Menado, N. Celebes. Wallace Coll. 
 m-q. Ad. sk. 
@@ -33417,7 +33417,7 @@ tarsus
 1*6. 
 Hob. The woodlands of North and East Madagascar. 
 
-a. Ad. st. Madagascar. 
+a. Ad. sk. Madagascar. 
 Sir E. Belcher [P.]. 
 b. Ad. sk. Madagascar. 
 Seebohm Coll. 
@@ -33875,7 +33875,7 @@ inches, culmen 1*9, wing 6*8, tail 11, tarsus 2*7.
 Rob. Brazil. 
 
 36. NEOMORPHUS. 
-a, b. Ad. st. Brazil. 
+a, b. Ad. sk. Brazil. 
 Purchased. 
 
 c. Ad. sk. Brazil. Old Collection. 
@@ -34153,7 +34153,7 @@ o> Ad. sk. California. Purchased,
 
 p. Ad. sk. California. Salvin-Godman Coll. 
 q, r, s. Ad. sk. Mexico. Salvin-Godman Coll. 
-t. Ad. st. Mexico. J. Phillips, Esq. [P.]. 
+t. Ad. sk. Mexico. J. Phillips, Esq. [P.]. 
 v-x. <$ ad.; y, z. Nuevo Leon, Mexico, May Salvin-Godman ColL 
 2 ad. bk. (F. B. Armstrong), 
 a', b'. S ad. ; c'. Sierra Madre, above Oiudad Vic- Salvin-Godman Coll. 
@@ -34217,7 +34217,7 @@ The under tail-coverts are dark as in the adult.
 
 IJab. Mexico and Guatemala. 
 
-a. Ad. st. Mexico. 
+a. Ad. sk. Mexico. 
 Purchased. 
 b. Ad. sk. Mexico. 
 Tweeddale Coll. 
@@ -34668,7 +34668,7 @@ A, Hughes),
 m, n. Ad. et juv. Bogota. Seebohm Coll. 
 sk. 
 o, p. Ad. sk. Brazil. Sclater Coll. 
-q. Ad. st. Brazil. M. Claussen [P.]. 
+q. Ad. sk. Brazil. M. Claussen [P.]. 
 
 41 . CKOTOPTTAGA. 427 
 r.
@@ -34816,7 +34816,7 @@ Royal Geographical
 
 British Guiana. 
 
-7i. Ad. st. 
+7i. Ad. sk. 
 
 Society. 
 
@@ -35448,7 +35448,7 @@ Salvin-Godman Coll.
 Forbes Coll. 
 Alan Peel, Esq. [P.1 . 
 Sclater Coll. 
-m, n. Ad. st. Brazil. 31. Olaussen [P.J. 
+m, n. Ad. sk. Brazil. 31. Olaussen [P.J. 
 o. Juv. sk. NovoFribourgo, Riode Janeiro Salvin-Godman Coll. 
 (J". Youds). 
 p,q.d 2 ad. sk. Chapada, Matto Grosso (H. H. Salvin-Godman Coll. 
@@ -35709,7 +35709,7 @@ d. Ad. sk. Gold Coast. Shelley Coll.
 e, f. Ad. sk. Fantee. Sharpe Coll. 
 q. Ad. sk. Accra; Feb. (T. & Buckley). Sharpe Coll. 
 h. Ad. sk. Denkera {IL T. Ussher). ' Shelley Coll. 
-i Ad. st. River Niger. T. Thompson, Esq. 
+i Ad. sk. River Niger. T. Thompson, Esq. 
 [p.]k, 
 1, m. Ad. sk. Cameroons Mts.,Feb. (A. Cross- Sharpe Coll. 
 leg), 
@@ -36291,7 +36291,7 @@ tail 8, tarsus 1*65.
 Hab. Confined to South Africa, ranging from the Zambesi through 
 Natal to the Kuysna in Cape Colony. 
 
-u, b. Ad. st. 
+u, b. Ad. sk. 
 Natal. Purchased. 
 
 c. Ad. sk. 
@@ -36603,7 +36603,7 @@ Adidt female. Similar in plumage to the male. Total length
 Rah. AYest Africa, from the Niger to Senegambia and inland to 
 Stanley Pool on the Congo. 
 
-a, b. Ad. st. West Africa. Captain Straclian 
+a, b. Ad. sk. West Africa. Captain Straclian 
 c. Ad. sk. West Africa. Purchased. 
 d. Ad. sk.
 e,f. Ad. sk.
@@ -36751,7 +36751,7 @@ Hob. East Africa between 8° N. lat. and 8° S. lat.; from Southern
 Abyssinia through Shoa, Somali-land, and the Upper White Nile 
 District to Ugogo. 
 
-a, b. Ad. st. Shoa (Sir W. Karris). India Museum. 
+a, b. Ad. sk. Shoa (Sir W. Karris). India Museum. 
 
 c, d. Ad. sk. Efat, Shoa (Sir W. Harris). India Museum. 
 
@@ -36819,7 +36819,7 @@ plentiful from the Zambesi to Fatal, and from Damara-Land to
 Angola, but rare in Cape Colony. Its occurrence in Senegambia as 
 recorded by Dr. Eochebrune is undoubtedly an error. 
 
-a. Ad. st. South Africa. Purchased. 
+a. Ad. sk. South Africa. Purchased. 
 b, c. Ad. etjuv. South Africa. Sir A. Smith. 
 sk. (Tvpes of the species.) 
 d, e. Ad. sk. South Africa. Earl of Derby [P.]. 
