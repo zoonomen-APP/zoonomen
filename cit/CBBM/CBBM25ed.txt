@@ -9675,7 +9675,7 @@ Voy.H.M.S/Alert.'
 
 Voy.H.M.S. 'Alert.' 
 
-Voy.ILM.S.'BattleVoy.
+Voy.H.M.S'BattleVoy.
 II.M.S.'Rattlesnake.' 
 Australian Mus. [P.] 
 
@@ -20356,7 +20356,7 @@ d.
 Pull. sk. Channel Rock, Torres Strait, Voy. II.M.S. Alert' 
 June (Dr. Coppinger), 
 e,f. 
-d ? ad.; g. Thursday I., Torres Str., Aug. Voy. ILM.S. Alert' 
+d ? ad.; g. Thursday I., Torres Str., Aug. Voy. H.M.S Alert' 
 Juv. sk. 
 
 Ilowick I., Torres Str. J. R. Elsey, Esq. 
@@ -28998,7 +28998,7 @@ t-v. 3 ad. ; w. Atlantic Ocean, lat. 5° N., Voy. II. M.S.' RattleAd.
 hk. long. 22° 20' \V., Jau. 7 (J. snake.' 
 Mticf/iUirrtii/). 
 
-t\ 5 ad. sk. Atlantic Ocean, lat. 2° N., Voy. ILM.S.' RattleIon- 
+t\ 5 ad. sk. Atlantic Ocean, lat. 2° N., Voy. H.M.S' RattleIon- 
 21° 50' AV., Jan. 12 (J. snake.' 
 M ac(/ill iway), 
 
@@ -31895,7 +31895,7 @@ m 2 ad. sk. [Australian Seas.] Rev. J. Whitmee [P.].
 n. Ad. sk. Purchased ? 
 o. Skeleton. Japan. Purchased. 
 p. Skull. 
-q. Odd bones. ILM.S. < Challenger.' 
+q. Odd bones. H.M.S < Challenger.' 
 
 20. Puffinus nativitatis. 
 Puffinus (Nectris) nativitatis, Streets, Bull. U.S. Nat. Mus. no. 7, 
@@ -32031,7 +32031,7 @@ $
 (J. Macgillivray). 
 S. Indian Ocean, lat. 3o£° S., 
 long. 85° E., June 2,1847 
-Voy.ILM.S.'Rattlesnake.' 
+Voy.H.M.S'Rattlesnake.' 
 h. Ad. sk. 
 i. Ad. sk. 
 (J. Macgittivray). 
@@ -32046,14 +32046,14 @@ New Zealand (ex Br. O. Finsch).
 S. Pacific Ocean, lat. 40° S., 
 long. 137° W«, June 6, 1850 
 Salvin-Godman Coll. 
-Voy.ILM.S.' Battle-
+Voy.H.M.S' Battle-
 snake.' 
 1 Ad. sk. 
 (J. Macgittivray). 
 B. Pacific Ocean. J. F.Green, Esq. [P.]. 
 m. S ad. ; n.
 ad. sk. 
-$ S. Pacific Ocean, Nov. 5, 1875. Voy. ILM.S.
+$ S. Pacific Ocean, Nov. 5, 1875. Voy. H.M.S
 lenger.' 
 'Chalo. 
 Ad. sk. Valparaiso, Chili. Capt. W. S. Brett 
@@ -32250,7 +32250,7 @@ f.
 $ ad. sk. Valparaiso, Jul? 1882 (Capt. Salyin-Cjodaian Coll. 
 A. S. Markkam). 
 g, h. Ad. sk. Valparaiso {J. Young). H. Saunders Coll. 
-i. d ad. sk. Valparaiso, Aug. 4,1879 (Br. Voy. ILM.S. «Alert' 
+i. d ad. sk. Valparaiso, Aug. 4,1879 (Br. Voy. H.M.S «Alert' 
 Coppinger). 
 j, h. Ad. sk. Valparaiso. Capt. Brett [P.]. 
 

@@ -15333,7 +15333,7 @@ Wallace Coll.
 y. S ad. sk. East Timor. Wallace Coll. 
 2. cJ juv. &k. Seinao, Timor. Wallace Coll. 
 a', 6'. Ad. sk. Flores. Wallace Coll. 
-r'. Ad. sk. Fiji Islands, Nov. (F. M. Voy. ILM.S. < Herald: 
+r'. Ad. sk. Fiji Islands, Nov. (F. M. Voy. H.M.S < Herald: 
 Rayner). 
 #. Ad. sk. Savu, Fiji Islands (E. L. Tweeddale Coll. 
 
@@ -41480,7 +41480,7 @@ Tweeddale Cull/
 Gould Coll. 
 Berkeley James Coll. 
 Salvin-Godman Coll. 
-Voyage of ILM.S. 
+Voyage of H.M.S 
 'Alert.' 
 Salvin-Godinan Coll. 
 
@@ -41494,10 +41494,10 @@ Salvin-Godinan Coll.
 Capt, Fitzrov "P.1, 
 The Admhsiltv "P." 
 
- Vovasre of ILM.S. 
+ Vovasre of H.M.S 
 k Alert.1 
 
- Voyage of ILM.S. 
+ Voyage of H.M.S 
 '"Alert.' 
 
  Sclater Cull. 
