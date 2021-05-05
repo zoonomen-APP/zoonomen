@@ -2681,7 +2681,7 @@ rufous malar stripe. Total length 10*5 inches, culmen 1*25. wing
 
 Hob. Guatemala. 
 
-a. S ad. st. [Mexico.] 
+a. S ad. sk. [Mexico.] 
 Purchased. 
 b. J imm. sk. [Mexico.] 
 Purchased. 
@@ -3060,7 +3060,7 @@ d. S
 ad. sk. Tinta, Peru, June (H. Salvin-Godman Coll. 
 Whitely). 
 e. S ad. sk. Andes of Lima (Nation). Sclater Coll. 
-/. d ad. st. [Bolivia.] T. Bridges [C.]. 
+/. d ad. sk. [Bolivia.] T. Bridges [C.]. 
 12. Colaptes cmereicapillus. 
 Colaptes cmereicapillus, Meichcnb. Scans. Picin®, p. 416, no. 978 5, 
 
@@ -3858,7 +3858,7 @@ Tweeddale Coll.
 
 a, b. <$ $ ad.; 
 c-g. Juv. st. 
-h. 5 ad. st. 
+h. 5 ad. sk. 
 Norfolk. 
 Norfolk. 
 LordLord 
@@ -3867,7 +3867,7 @@ Walsingham
 i. 2 ad. sk. Hethersett, Norfolk. 
 [P.]. 
 
-k. <S ad. st. Drinkstone Park, Suffolk. 
+k. <S ad. sk. Drinkstone Park, Suffolk. 
 T. Harcourt Powell, 
 Esq. [P.]. 
 /, m. c? ad. et Cambridgeshire. 
@@ -3884,7 +3884,7 @@ p, q. <$ ad. sk.; Hendon, Middlesex (O. Salvin-Godman Coll.
 r. Pull. sk. Salmi). 
 s,t. (S 2 ad. sk. Tanhurst, Surrey, Feb. 1857 Salvin-Godman Coll. 
 (F. DuCane Qodman). 
-%i. 2 ad. st. Oookham, Berks. Mr. W. Briggs [O.]. 
+%i. 2 ad. sk. Oookham, Berks. Mr. W. Briggs [O.]. 
 v. 2 ad. sk. Cookkam, Berks, Nov. 30, E. B. Sharpe, Esq. 
 1874. [P.]. 
 to. 3 ad. sk. Cookhain, Berks. Dec. 1867 Tweeddale Coll. 
@@ -3896,11 +3896,11 @@ y. PuU. sk. Norway (Baker). Salvin-Godman Coll.
 z. 2 ad. sk. Stockholm, Oct. 16, 1870. W. Meves [C.l. 
 a'. S ad. sk. Wermland, June 6,1872. W. Meves [O.J. 
 V. 
-2 ad. st. Paris. E. B. Sharpe, Esq. 
+2 ad. sk. Paris. E. B. Sharpe, Esq. 
 [p.]. 
 40 PICID2B. 
 
-c'. (3 ad. st. Ain, France. R. B. Sharpe, Esq. 
+c'. (3 ad. sk. Ain, France. R. B. Sharpe, Esq. 
 d'. J ad. sk. Mentone. Gould Coll. 
 e'. 5 ad. sk. 
 / , cj S ad. j h', 
@@ -4023,7 +4023,7 @@ culmen 1*45, wing 6, tail 4"05, tarsus 1.
 
 Hub. Morocco and Algeria, as far as the Tunisian frontier. 
 
-a. cS ad. st. Algeria. 
+a. cS ad. sk. Algeria. 
 Purchased. 
 b. $ ad. sk. Tetuan, Morocco, March 29,1874. Col. Irby [P.]. 
 4. Gecinus awokera. 
@@ -5800,7 +5800,7 @@ culmen 0*95, wing 4*65, tail 3*15, tarsus 0*85.
 Sab. Southern portion of India, as high as Khandeish on the west, 
 and in Ceylon. 
 
-a. $ ad. st. India. 
+a. $ ad. sk. India. 
 Purchased. 
 b. 2 imm.; c. $ Khandeisk, March 1880 Hume Coll. 
 juv. sk. (/. Davidson). 
@@ -6754,14 +6754,14 @@ as the malar region, being olive. Total length 8*5 inches, culmen
 Hob. Upper Amazons, from Barra do Rio Negro west into 
 Ecuador, and north into British Guiana (Rupummi River). 
 
-a. $ ad. st. South America. Old Coll. 
+a. $ ad. sk. South America. Old Coll. 
 b. c? imin.; c. $ Sarayacu, Ecuador (C. BuckSalvin-
 Godman Coll. 
 ad. sk. ley). 
 d. J ad. sk. Sarayacu, Ecuador (C. BuckSalvin-
 Godman Coll. 
 ley). 
-e. J ad. st. Brazil. Purchased. 
+e. J ad. sk. Brazil. Purchased. 
 / . cj ad. sk. Barra do Rio Negro, Brazil, Sclater Coll. 
 Aug. 1838 (J. Natterer). 
 9i h. 6 $ ad. sk Rupununi River. British Salvin-Godman Coll. 
@@ -6828,7 +6828,7 @@ Hob. Eastern and Southern Brazil. Dr. Sclater (P. Z. S. 1857,
 p. 268) records a specimen from Ega, Upper Amazons (Bates). If 
 this be a correct identification, the species would appear to range 
 right through Web tern Brazil also. 
-a. $ ad. st. Brazil Purclia^d. 
+a. $ ad. sk. Brazil Purclia^d. 
 b,c> cS 2 a<^ sk. Brazil. Sclater Coll. 
 d, e. $ $ ad. sk. Brazil. Gould Cull. 
 ffg. 6 ad.; h. ? Brazil. Tweeddale Coll. 
@@ -7110,7 +7110,7 @@ wing 4*75, tail 2*78, tarsus 0*8.
 
 Hah. South Brazil and the Argentine liepnblle. 
 
-a. S ad. st. Brazil. 
+a. S ad. sk. Brazil. 
 Purchased. 
 b. (S ad. sk. Brazil. 
 Srlaler Coll. 
@@ -7251,7 +7251,7 @@ Hab. Southern and Eastern Mexico, north to Sierra Madre above
 Cmdad Victoria, Tamaulipas, and south into Oaxaca, Tehuan tepee, 
 and Chiapas. 
 
-a. <$ ad. st. Mexico. Purchased. 
+a. <$ ad. sk. Mexico. Purchased. 
 b, c. <$ ad., tf Mexico (de Oca). Tweeddale Coll. 
 inrm. sk. 
 d,e,f. 
@@ -7266,7 +7266,7 @@ S ad.; I $ B. Richardson).
 imm. sk. 
 
 
-m. c? ad. st. Cordova, Mexico. M. Salle" [CA 
+m. c? ad. sk. Cordova, Mexico. M. Salle" [CA 
 n. J ad. sk. Cordova. 
 M. Salll [C.j. 
 o. <$ imm. sk. Near the city of Mexico (G. H. Salvin-Godman Coll. 
@@ -7825,7 +7825,7 @@ The younger female has the crown black, with white hair-like
 shaft-streaks. Otherwise like the adult of the same sex. 
 Hob. Island of Haiti and San Domingo. 
 
-a, b. $ $ ad. st. San Domingo. Purchased. 
+a, b. $ $ ad. sk. San Domingo. Purchased. 
 
 c. S 
 ad. sk. San Domingo. Zuulogieal Society. 
@@ -8539,7 +8539,7 @@ outer edge of the crown being minutely speckled with white, the
 nuchal feathers orange-scarlet. 
 Hab. Natal, Zulu Land, and Swazi Land. 
 
-a. 2 ad. st. South Africa. Purchased. 
+a. 2 ad. sk. South Africa. Purchased. 
 b. 2 ad. sk. South Africa. Purchased. 
 c. 2 ^ . sk.
 d. <J ad. sk.
@@ -8697,7 +8697,7 @@ Hal. The Transvaal and the Matabele Country, west to Damara
 
 Land and north to Mossamedes and Angola. 
 
-a. <$ ad. st. S. Africa. 
+a. <$ ad. sk. S. Africa. 
 Purchased. 
 b. $ ad. sk. S. Africa. Sir A. Smith. 
 c, d. <$ imm.; e. Rustenberg, Natal, Dec. (T. Shelley Coll. 
@@ -9191,7 +9191,7 @@ Cameroons; Gaboon, and the "West Congo region.
 * I have examined the type, aud found it to be an immature example of the 
 present species. 
 7 . CHKYSOPTILUS. 109 
-a. $ ad. st. West Africa. Zoological Society. 
+a. $ ad. sk. West Africa. Zoological Society. 
 b. J ad. sk. West Africa. Purchased. 
 c. c? imm. sk. West Africa. Tweeddale CoU. 
 d. J ad. sk. Gold Coast {Kirby). Shelley CoU. 
@@ -9405,7 +9405,7 @@ do Sul) and Paraguay.
 112 
 PI0ID-2B. 
 
-a. $ ad. st. South America. Lord Stuart de Roth-
+a. $ ad. sk. South America. Lord Stuart de Roth-
 say [P.]. 
 b. $ ad. sk. South America. J. Gould, Esq. [P.], 
 c. g ad.; d, e, $ Brazil. Sclater Coll. 
@@ -9761,7 +9761,7 @@ The younger female has the malar region black, without white
 spots. 
 Hab. Cayenne, and west into Demerara and Trinidad. 
 
-aj b. S ad. st. Trinidad. Zoological Society. 
+aj b. S ad. sk. Trinidad. Zoological Society. 
 c. c? ad. sk. S. America. Purchased, 
 d. $ ad. sk. Demerara. Purchased. 
 e. (S ad. sk. Cayenne. Sclater Coll. 
@@ -13353,7 +13353,7 @@ Vera Paz.
 Ji. $ ad. sk. Chisec, Vera Paz. Salvin-Godman Coll. 
 
 i. $ ad. sk. Yzabal, Guatemala. Salvin-Godman Coll. 
-k. J ad. st. Honduras. 
+k. J ad. sk. Honduras. 
 Mr. Dyson [C.]. 
 I, m. 
 (S ad. sk. British Honduras (Blancan- Salvin-Godman Coll. 
@@ -13454,7 +13454,7 @@ dusky spots or faint bars ; the thighs and under tail-coverts dusky
 black barred with dull white, not tinged with yellow. 
 
 Bab, Confined to the island of Jamaica. 
-a, b. $ ad. st. Jamaica. Purchased. 
+a, b. $ ad. sk. Jamaica. Purchased. 
 
 c. § ad. sk. Jamaica. 
 Philip Gosse, Esq. 
@@ -13936,7 +13936,7 @@ April (F. Bla/ica/iemw).
 e"/"• 6 2 ad. sk. Belize, British Honduras Salvin-Godman Coll. 
 
 (Blaneaneaiuc). 
-g". $ ad. st. Honduras. Mr. I)y>.on C.~. 
+g". $ ad. sk. Honduras. Mr. I)y>.on C.~. 
 h". J ad. sk. Honduras. Mr. Dysun _C.~. 
 
 22. Kelanerpes canescens. 
@@ -14394,7 +14394,7 @@ Winter (Kensh. Coll.).
 12 . MELANEBPES. 
 181 
 
-b. <y ad. st. Mexico. 
+b. <y ad. sk. Mexico. 
 J. Gould, Esq. 
 c, d. (S ad.; e,f. $ Mexico. Tweeddale Coll. 
 ad. sk. 
@@ -14601,7 +14601,7 @@ fornia (J. Xantm).
 184: 
 meiBM, 
 y. $ ad. sk. Cape San Lucas («71 Xanius). Salvin-Godman Coil. 
-z. S ad. st. Mexico. Purchased. 
+z. S ad. sk. Mexico. Purchased. 
 a'. $ ad. sk. Mexico. Purchased. 
 V. 6 
 ad.; c'. $ Mexico. Gould Coll. 
@@ -18424,12 +18424,12 @@ of the Rocky Mountains, sometimes found on the west side of these
 
 mountains. 
 
-a,b. <$ J ad. st. 
+a,b. <$ J ad. sk. 
 
 c. 2 a(i- sk. 
 d. <$ ad. sk. 
 e,f. $ 2 ad. sk. 
-9, h. (S $ ad. st. 
+9, h. (S $ ad. sk. 
 2 ad. sk. 
 
 h. $ ad. sk. 
@@ -19297,7 +19297,7 @@ Mountains, north into British Columbia, south into Arizona and
 New Mexico. 
 
 
-af b. <$ 5 ad. st. British Columbia. J. K. Lord, Esq. [P.]. 
+af b. <$ 5 ad. sk. British Columbia. J. K. Lord, Esq. [P.]. 
 Cj d. S 2 &&*s^- British Columbia. J. K. Lord, Esq. [P.J. 
 e,f. 3 J ad. sk. Vancouver Island. J. K. Lord, Esq.IP.J. 
 g,h. 6 2 ad. sk. Vancouver Island, April (A. Salvin-Godman Coll. 
@@ -20291,7 +20291,7 @@ d,e. S
 sk. 
 
 g. 
-<$ ad. st. Cookham ( W. Brit R. B. Sharpe, Esq. 
+<$ ad. sk. Cookham ( W. Brit R. B. Sharpe, Esq. 
 [p.]. 
 h. Juv. sk. Cookham, June (R. B. S.). Hume Coll. 
 h k. <$ $ ad. sk. Cookham, May (P. B. S.). Tweeddale Coll. 
@@ -20531,7 +20531,7 @@ Juv. sk.
 h. $ ad. sk. Goquimbo, Chili, Nov. 1881 Salvin-Godman Coll. 
 (A. H. Markham), 
 I <$ ad. sk. Chilian Andes, Tweeddale Coll, 
-m. c? ad. st. Valparaiso. Sir W. Burnett and 
+m. c? ad. sk. Valparaiso. Sir W. Burnett and 
 n* S ad. sk.
 o. <5 ad. sk.
 P> <2-$ %&* e timm. sk.
@@ -21904,7 +21904,7 @@ to separate it from P. tridactylus.
 Hob. The greater part of Europe, hut rare in the south; extending 
 east through Southern Siberia to the A moor, and into Mongolia. 
 
-a, b. $ $ ad. st. N. Bothnia. Purchased. 
+a, b. $ $ ad. sk. N. Bothnia. Purchased. 
 c, d. S ad. j e. c? 
 
 
@@ -22929,7 +22929,7 @@ w'r. cT ad. sk.
 
 
 M". $ ad. sk. 
-o". (5* ad. st. 
+o". (5* ad. sk. 
 ;/',<?". c?$ ad.sk. 
 r". <£ ad. sk. 
 
@@ -25646,7 +25646,7 @@ m'. <$ ad. sk. W. Java.
 rc'. S ad. sk. E. Java. 
 o'. c? ad. sk. E. Java (A. B, Wallace). 
 p'. S ad. sk. Borneo. 
-q'. $ ad. st. Borneo. 
+q'. $ ad. sk. Borneo. 
 r', / . c? ad. sk. Sarawak (A. JEverett). 
 
 
@@ -27076,7 +27076,7 @@ crown by a white stripe.
 Hal. Western Ecuador. 
 
 a. 
-$ ad. st. Guayaquil, Ecuador. Zoological Society. 
+$ ad. sk. Guayaquil, Ecuador. Zoological Society. 
 (Type of species.) 
 b. d 
 ad. sk. Guayaquil. Oapt. Kellett and 
@@ -27478,7 +27478,7 @@ culmen 0*75, wing 3*05, tail 1*55, tarsus 0*6.
 Hal. Guiana and Northern Brazil, east into the island of 
 Mexiana. 
 
-a. <$ ad. st. Berbice; British Guiana. Mrs. Atkins [P.]. 
+a. <$ ad. sk. Berbice; British Guiana. Mrs. Atkins [P.]. 
 h. <$ ad. sk. Cayenne. M. Verreaux. 
 c. 2 ad. sk. Cayenne, Sclater Coll. 
 d. $ ad. sk. Island of Mexiana (A. B. Sclater Coll. 
@@ -27486,7 +27486,7 @@ Wallace).
 e c? ad. sk. Island of Mexiana, Dec. Salvin-Godman ColL 
 
 (A. P. Wallace). 
-f. 3 ad. st. Brazil. Purchased. 
+f. 3 ad. sk. Brazil. Purchased. 
 13. Dendrobates tsemonotus. 
 Chloronerpes tsenionotus, Peichenb. Scans. Picina, p. 354, no. 813, 
 pi dcxxv. figs. 4164-65, 6 <$ ad. (1854); Gray, List Ptcid. 
@@ -29031,7 +29031,7 @@ inches, culmen 1*1, wing 4*6, tail 2*9, tarsus 0*8.
 
 Hab. West Africa, between Sierra Leone and the Gold Coast. 
 
-a. J ad. st. Gold Coast. Capt. Moloney [P.]. 
+a. J ad. sk. Gold Coast. Capt. Moloney [P.]. 
 b, c. <$ ad.; d, e. Fantee. Sharpe Coll. 
 Imm. sk. 
 / . $ ad. sk. Fantee (J9T. T. Ussher), Shelley Coll. 
@@ -29579,7 +29579,7 @@ Tweeddale Coll.
 x. S ad. sk. Mts. of Perak. L.Wray,Esq.[P.l 
 y, z. <$ ad.; a'9 br, c1.KLang, Feb., March, April Hume Coll. 
 2 ad.etjuv.sk. (W. Davison). 
-d'. S ad. st. Malacca. Purchased. 
+d'. S ad. sk. Malacca. Purchased. 
 e\f. tfSad.; g\ Malacca, July (W. Davison). Hume Coll. 
 
 h'. Imm. sk. 
@@ -30563,7 +30563,7 @@ r, s. S 2 ad. sk.
 
 t. d ad. sk. 
 u. 2 ad. sk. 
-v. 2 ad. st. 
+v. 2 ad. sk. 
 w. c5"ad. sk. 
 .r. § ad. s^* 
 
@@ -33501,7 +33501,7 @@ Mob. Guiana, and ranging into Venezuela.
 
 J. Gould, Esq. 
 S. America. 
-a. cT ad. st. 
+a. cT ad. sk. 
 Gould Coll. 
 
 S. America. 
@@ -34221,7 +34221,7 @@ tail 3*95, tarsus 1*07.
 Hab. Eastern Brazil (Bahia), and westward in Matto Grosso to 
 the Paraguay and Guapore Rivers. 
 
-a. 2 ad. st. Brazil. Zoological Society. 
+a. 2 ad. sk. Brazil. Zoological Society. 
 b. j ad. sk. Bahia, Brazil (Dr. Wucherer). Salvin-Godman Coll. 
 e, <J ad. sk. Bahia (Dr. Wucherer). Sclater Coll. 
 35. CEocoiroRPHtrs. 
@@ -34388,7 +34388,7 @@ b. $ ad. sk. British Guiana. Salvin-Godman Coll.
 c. S ad.; d. $ Cayenne. 
 Sclater Coll. 
 imm. sk. 
-«,/. 6 2 ad. st. Cayenne. Zoological Society. 
+«,/. 6 2 ad. sk. Cayenne. Zoological Society. 
 
 g. $ imm. sk. Para, Sept. (JEJ. L. Layard). Tweeddale Coll. 
 h. $ jtiv. sk. Bahia, Brazil (Dr. Wucheref). Salvin-Godman Coll. 
@@ -35486,7 +35486,7 @@ spotted with white and devoid of red.
 
 Bab. Confined to Ceylon. 
 
-a. $ ad. st. Ceylon. 
+a. $ ad. sk. Ceylon. 
 Purchased. 
 b. $ ad.sk. Ceylon, Jan. 7, 1873 {W. V. Hume Coll. 
 Legge). 
@@ -36378,8 +36378,8 @@ Total length 21 inches, culmen 3*1, wing 12, tail 7*8, tarsus 1*9.
 Hah. Western Mexico, south to Ciudad Durango, north along the 
 Sierra Madre to within 50 miles of the Arizona boundary. 
 
-a. 2 ad. st. Mexico. Zoological Society. 
-b. <$ ad. st. Mexico. 
+a. 2 ad. sk. Mexico. Zoological Society. 
+b. <$ ad. sk. Mexico. 
 c. tf ad. sk. Mexico. Gould Coll. 
 d,e. <$ J ad. sk. Mexico. Salvin-Godaian Coll. 
 f, <?-6 ? ad. sk.
@@ -36453,7 +36453,7 @@ Bah, Bolivia; Argentine Republic, south into the Province of
 Buenos Ayres ; Lower Uruguay; Southern Brazil, probably only in 
 the part adjacent to the above countries. 
 
-a. tf ad. st. South America. E. Wilson, Esq. [P.]. 
+a. tf ad. sk. South America. E. Wilson, Esq. [P.]. 
 b. $ ad. sk. Bolivia. T. Bridges [O.j. 
 c. <S ad. sk. Carrapari, Bolivia, May (P. Salvin-Oodman Coll. 
 Pearce). 
@@ -36879,7 +36879,7 @@ the bill darker.
 
 Hah. Southern half of Mexico, north to Mazatlan and Tampico, 
 about 23° N. lat.; throughout Central America into Yeragua. 
-a, b. <$ 9. ad. st. Central America. Purchased. 
+a, b. <$ 9. ad. sk. Central America. Purchased. 
 
 c. J imm. sk. 
 Mexico. Sclater Coll. 
@@ -37126,7 +37126,7 @@ Hab. Northern and Western States of Colombia, and "Western
 
 Ecuador. 
 
-a. $ ad. st. New Granada. Purchased. 
+a. $ ad. sk. New Granada. Purchased. 
 b. $ j uv -sk-New Granada. Purchased. 
 c. $ 
 ad. ; d. $ New Granada. Salvin-Godman Coll. 
@@ -38188,7 +38188,7 @@ shafts lighter, and the under surface of the tail greyer.
 
 llab. North Celebes. 
 
-at b* 6 ? ad. st. Celebes. 
+at b* 6 ? ad. sk. Celebes. 
 Purchased. 
 
 e. <$ imm. st. Celebes. E. Wilson, Esq. [P.]. 
@@ -38351,7 +38351,7 @@ speckled with white. Total length 12-5 inches, culmen 1*5, wing
 
 Hob. Philippine Islands (Luzon and Calayan). 
 
-a, b. S $ ad. st. Philippines. Purchased. 
+a, b. S $ ad. sk. Philippines. Purchased. 
 c. $ ad. sk. Philippines. Purchased. 
 d,e. d1 ? ad. sk. Philippines. Tweeddale Coll. 
 / , g-d ad. sk. Philippines. Gould Coll. 
@@ -38537,9 +38537,9 @@ q'} r'. o* ad.; s'.
 
 t'. $ ad. sk. 
 
-u'. $ ad. st. 
+u'. $ ad. sk. 
 
-vr. J ad. st. 
+vr. J ad. sk. 
 
 «?', re', d" 2 ad, sk. 
 
@@ -38888,8 +38888,8 @@ g, h. <S S ad. sk.
 ^ 1c. d 2 ad.; J. 
 <$ juv. sk. 
 
-w. $ ad. st. 
-n. $ ad. st. 
+w. $ ad. sk. 
+n. $ ad. sk. 
 o. S ad.; p, q. 
 2 ad. sk. 
 r, 5. cJ ad.; t. $ 
@@ -40235,7 +40235,7 @@ Hah. Formerly the whole wooded region of North America up to
 
 parts of the Eastern States. 
 
-a. <$ ad. st. North America. Purchased. 
+a. <$ ad. sk. North America. Purchased. 
 b, c. £ ad.; d, e. North America. Purchased. 
 $ ad. ak. 
 /, 
@@ -40431,7 +40431,7 @@ Purchased,
 
 c. <$ ad. sk. Europe. 
 Purchased. 
-d. $ ad. st. Northern Europe. Purchased. 
+d. $ ad. sk. Northern Europe. Purchased. 
 e, / . S $ ad. sk. South Norway. Salvin-Godman Coll. 
 g. S ad. sk. Sweden, Dec. (H. Wheehcriyhi). Tweeddale Coll. 
 h i. 6 ? ad. sk. Wermland, Feb., April. Mr. Meves [C.]. 
@@ -41725,7 +41725,7 @@ Picumnus
 guttifer, Sundev. Consp. Av. Picin. p. 101 (1866)* Peh. 
 Orn. Bras. p. 442 (1870). 
 
-Adiilt male. Back, scapulars, and rump brown, spotted with 
+Adult male. Back, scapulars, and rump brown, spotted with 
 white, the spots being partially surrounded with dusky; upper 
 series of the upper tail-coverts also brown with white tips, the lower 
 series black, minutely spotted with white at the tip• wing-coverts like 

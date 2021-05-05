@@ -1963,7 +1963,7 @@ Hah. Java and Sumatra.
 of the abdomen too white. 
 
 12 TREKOXID-E. 
-«; b. 8 $ ad. st. et sk. Sumatra. Leyden Museum. 
+«; b. 8 $ ad. sk. et sk. Sumatra. Leyden Museum. 
 c. <$ ad. sk. W. Java. A. B. Wallace, E&q. JJ.^ 
 tf. £ imm. sk. W. Java (A P. Gould Coll. 
 Ifff/Za^). 
@@ -2027,7 +2027,7 @@ maroon colour on the smaller upper wing-coverts and on the mantle.
 Hah. Japan. 
 
 1. SPHENOCERCUS. J3 
-a, b. d $ ad. st. Japan. Leyclen Museum, 
+a, b. d $ ad. sk. Japan. Leyclen Museum, 
 et sk. 
 
 c. d ad. sk. Japan. 0. Maries, Esq. [CI. 
@@ -4364,7 +4364,7 @@ TKEEOXIXLH.
 Hah, Java, and perhaps also Sumatra. 
 
 a. 
-<$ ad. st. Purchased. (Type 
+<$ ad. sk. Purchased. (Type 
 of species.) 
 b. <$ ad. sk. 
 Salvin-Godman Cull. 
@@ -4832,7 +4832,7 @@ A Bulu bird mentioned in the following list looks larger and
 finer, but is not otherwise different. 
 Hab. Philippines and Sulu Islands. 
 
-ty &. d $ ad. st. Philippines. Cuming Coll. (T\pe of 
+ty &. d $ ad. sk. Philippines. Cuming Coll. (T\pe of 
 species.) 
 cf d. <$ J ad. sk. Manilla. Gould Coll. 
 
@@ -5928,7 +5928,7 @@ I3 3
 
 n\ d ad. sk. 
 
-o3. cJ ad. st. 
+o3. cJ ad. sk. 
 ^>3. d juv. sk. 
 </\ r3. d ad. sk. 
 s3. c? ad. sk. 
@@ -7008,10 +7008,10 @@ d, e. Ad. sk. et § ad. ? W. Java (Wallace). Gould Coll.
 
 q. Juv. sk. Java. 
 Gould Coll. 
-h. 2 ? ad. st. Sumatra. Baron Langier IM1. 
+h. 2 ? ad. sk. Sumatra. Baron Langier IM1. 
 %. $ ? ad. sk. Indian Archipelago. \V. Elliot, Esq. [P.]. 
 8. piiLoros. i i 
-I', I 6 ? ? ad. st. [Timor.] LeydenMuseum [P.J. 
+I', I 6 ? ? ad. sk. [Timor.] LeydenMuseum [P.J. 
 m, n, o. {Skeletons. Java. Purchased. 
 6. Ptilopus albocinctus. 
 
@@ -7396,7 +7396,7 @@ but either the habitat is not correct, or that bperimpn belong to
 
 some other allied species ; perhaps it is a young of P. lecJanehtrL 
 
-a. $ ad. st. Indian Archipelago. Purchased. 
+a. $ ad. sk. Indian Archipelago. Purchased. 
 h, c. (S $ ad. sk. Perak. L. Wray. I>q. T.~, 
 d. 3 
 ad. sk. Selangorp, July (W. IInine Call. 
@@ -9931,7 +9931,7 @@ I.
 cS imm. sk. My.ol, May (Hoedt). Sah in-Godmau Coll. 
 m. Ad. sk. New Guinea. Wallas Coll. 
 n. Ad. sk. New Guinea. Purch i*t'd. 
-o. Acl. sk. S.E. Xew Guinea Tweeddale Cull. 
+o. Ad. sk. S.E. Xew Guinea Tweeddale Cull. 
 Goldie). u. 
 
 p. Ad. sk. S.E. New Guinea, Sab in-G< dman ('oil. 
@@ -11645,7 +11645,7 @@ ones.
 
 Hob. Java, Mores, Sumbawa, Sumba. and Lombock. 
 
-b. $ ad. st. et Java. 
+b. $ ad. sk. et Java. 
 Baron Laugier Coll. 
 tf imm. sk. 
 
@@ -11664,7 +11664,7 @@ imm. sk.
 n. <$ ad. &k. Lombock ( Wallace). Gould Coll. 
 o, p. 6 2 ad. .sk. Flores. Wallace Coll. 
 q. $ ad. &k. Flores (Wallace). Salvin-Godman Coll. 
-/*. $ ad. st. Indian Archipelago (Lydth). Purchased. 
+/*. $ ad. sk. Indian Archipelago (Lydth). Purchased. 
 s. J ad. «t. Indian Archipelago. LeydenMuseum [P.]. 
 t. Skeleton. Java. 
 Purchased. 
@@ -19914,7 +19914,7 @@ A. Bouvier [C.].
 p', q% r. Ad. sk. Sierra Leone, 
 
 O. Darwin, Esq. [P.], 
-et ad. st. & sk. 
+et ad. sk. & sk. 
 [vars.]. 
 
 
@@ -24781,7 +24781,7 @@ $ hum. sk. Angua, Fiji. J. McGillivrav, Esq.
 [F.]. 
 o. tf ad. sk. Mt Drekette, Fiji. Tweeddale Coll. 
 p. 
-J ad. st. Ngau Is., Fiji (Uanger). Voy. of H.M.S. 
+J ad. sk. Ngau Is., Fiji (Uanger). Voy. of H.M.S. 
 'Herald.' 
 50. Columba leopoldi. 
 Ianthoenas hypoenockroa, Layard {nee Gould), Ibis, 1878, pp. 276, 
@@ -25069,7 +25069,7 @@ c. Ad. sk.
 Queensland. Tweeddale Coll. 
 Linnean SocietyfP.]. 
 (Type of species.) 
-d. Acl. sk. Australia. Lady Carrington 
+d. Ad. sk. Australia. Lady Carrington 
 e. Ad. sk. Australia. A. Cunningham, Esq. 
 / . Ad. sk. 
 %g. Ad. sk. 
@@ -27306,7 +27306,7 @@ Tweeddale Coll.
 H._ 0. Forbes, Esq. 
 o. Juv. sk. Lake Wakolo, Bouru. Nov. II. O. Forbes. Esq. 
 p. S ad*sk* [New Guinea.] Safvin-Godman Coll. 
-q. $ ad. st. Moluccas. Purchased. 
+q. $ ad. sk. Moluccas. Purchased. 
 
 14. Macropygia keiensis. 
 Macropygia, sp., Wall Ann. fy Mag, if. 2£ (2) xx. p. 473 (part.) 
@@ -28596,10 +28596,10 @@ Hah. Eastern Xorth America, from Hudson's Bay southward, and
 westward to the Great Plains, straggling westward to Xevada and 
 Washington Territory, Accidental in Cuba 
 
-a. £ ad. st. X. America. Hardwicke Bequest. 
+a. £ ad. sk. X. America. Hardwicke Bequest. 
 b. <$ ad. sk. X. America. Hudson's Bay Co. [P.]. 
 c. (S acl. st. X. America. 
-d. J ad. st. X. America. Purchased. 
+d. J ad. sk. X. America. Purchased. 
 e. 2 ad. sk. Canada (G. E. Shelley). Tweeddale Coll. 
 M,h.6%*&. W. side of Rocky Mts. J. K. Lord, Esq.. [P.], 
 et juv. sk. 
@@ -35793,7 +35793,7 @@ Geopelia tranquilla, Rchnb. Av. Si/st. Nat. p. xxv (1852); id. Tauben,
 i. p. 27, t. 265. ff. 1476-77 (1862). 
 Geopelia placida (pallida*), G.M. Gr. ListB. Brit. Mus. Colunibse, 
 p. 37 (1856). 
-A.dult male. Forehead, cheeks, and throat grey ; occiput, back, 
+Adult male. Forehead, cheeks, and throat grey ; occiput, back, 
 and wings ashy brown, each feather with a band of velvety black 
 at th e extremity; neck all round with numerous narrow white and 
 black bands, whiter in front; breast and sides delicate pale vinous ; 
@@ -35825,7 +35825,7 @@ Victoria Hirer.
 (Br. Voy. H.M.S' Alert. 
 J. R Elser, Esq. 
 e. d ad. sk, 
-/ . <S ad. st. 
+/ . <S ad. sk. 
 "g} h. Ad. sk. 
 i, J imm. sk. 
 fa Ad. sk. 
@@ -36112,7 +36112,7 @@ Columba multicincta. Temm. Mus. Lugd.jide Bp. Compt. Rend. xl,
 p. 210 (1855); id. Coup dceil Ordre Pig. p. 48 (1855) (Sumbava). 
 Geopeleia maugei, Rchnb. Tauben, i. p. 27, t. 253 b. f. 3380 (1802). 
 Turtur maugei, Finsch, Neu-Guin. p. 178 (1865). 
-A.dult male. Pront part of the head, cheeks, and throat grey; 
+Adult male. Pront part of the head, cheeks, and throat grey; 
 occiput pale brown ; neck, breast, and sides with numerous narrow 
 black and white bands; on the hind neck the light bands are 
 greyish; back and upper wing-coverts greyish brown, each feather 
@@ -38884,7 +38884,7 @@ l\ m'. <S 2 ad. sk.
 n'. S ad. sk. 
 o'. 2 ad. sk. 
 p', #'. 6 2 ad. sk. 
-r\ 8 ad. st. 
+r\ 8 ad. sk. 
 
 Tampico, Mexico, Feb. 
 
@@ -41493,7 +41493,7 @@ Chaleopeleia puella, liek/ib, Tauben, i. p. 79, t. 245. f. 2593 (1802),
 ii. p. 17«U l5<*2). "" ^ 
 Turtur puellus, Gieh. Thes. Orn. iii. p. 727 (1877). 
 Ilapiopeiia puella, Tmtr. Cat. Coll. B. p. 40 (1880). 
-A*lalt male. General plumage cinnamon, somewhat darker on the 
+Adult male. General plumage cinnamon, somewhat darker on the 
 upper parts ; head and upper part of the neck cobalt-blue, paler on 
 the forehead and throat; lores black; lower part of the neck shaded 
 with vinous ; several metallic golden-green spots on the inner 
@@ -44746,7 +44746,7 @@ d -</> 6 $ &d. sk. Bahia, Brazil (Wucherer). Salvin-Godman Coil.
 h'. <$ ad. sk. Brazil (Katterer), Salvin-Godman ColL 
 £\ h\ $ ad. sk. et S. America. Purchased. 
 
-$ ad. st. 
+$ ad. sk. 
 
 I', m\ S 5 a<^ s^
 
@@ -44948,7 +44948,7 @@ especially in having a good deal of pale brown on the wixi23.
 Hal. Haiti, Cuba, Bahama^, and Florida Ke w 
 
 a. $ ad. sk. Cuba. Sahin-Uodoiaii Coll. 
-b. 5 ad. st. Han Domingo. (TUW» {"oil 
+b. 5 ad. sk. Han Domingo. (TUW» {"oil 
 e. 5 ad. sk. 
 * Zoulotri<\ii Society's Coll. 
 5. Greotrygon mystacea. 
@@ -46149,7 +46149,7 @@ April.
 590 PERISTEKIDiB. 
 d. Ad. sk. Astrolabe Mts., June (A. GoMtef. TVeeddale CoIL 
 e. Ad. sk. Astrolabe Mts. A. Goldie, Esq. fCT. 
-/ . Acl. sk. Astrolabe MK Dr. Romilly jPf. 
+/ . Ad. sk. Astrolabe MK Dr. Romilly jPf. 
 #. Ad. sk. Vicinity of Port Moresby^ . Salvin-Godman Coll, 
 Goldie). 
 h. Ad. sk. S.E. Xew Guinea (-at. Goldie). Salvhi-Gu&man Coil. 
@@ -46544,7 +46544,7 @@ In the present circumstances I shall unite the Tonga with the
 Fiji bird, and not the Tonga with the Samoan, as Wiglesworth has 
 
 done. 
-a. <$ ad. st. [Samoa.] Zoological Soc. Coll. 
+a. <$ ad. sk. [Samoa.] Zoological Soc. Coll. 
 b. d ad. sk. [Samoa.]
 (Type of species.) 
 Eev. J. B. Stair [P.]. 
@@ -48318,7 +48318,7 @@ Purchased.
 Zool. Soc. CoU. 
 Hybrid between G. coronata and G. victoria. 
 
-p. ? ad. st. 
+p. ? ad. sk. 
 Zool. Soc. Coll. 
 2. Goura sclateri. 
 Gonra scheepmakeri, pt., Finseh, P. Z. S. 1875, p. 631 (specim. vivum 

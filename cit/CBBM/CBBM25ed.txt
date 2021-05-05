@@ -5392,7 +5392,7 @@ n.
 <$ juv. sk. At sea, 147 m. S.E. of Imbi-H. Saunders Coll. 
 tuba, S. Brazil, July (H. 
 M. Hamson, JRJV.). 
-o, p. S ad. st. Cape of Good Hope (sea). Sir A. Smith [P.]. 
+o, p. S ad. sk. Cape of Good Hope (sea). Sir A. Smith [P.]. 
 6. Sterna Mrundiiiacea. 
 Sterna 
 hirundinacea, Less. TraiU, p. 621 (1831: Santa Catharina. 
@@ -7160,7 +7160,7 @@ latter in the pure white rump and long tail-streamers of the adult.
 Hob. Lake Baikal, Amur-land, Kamschatka, Japan, China coast, 
 Malacca, Ceylon, Papuasia to New Guinea. 
 
-a, b. Vix ad. st. Kamschatka. Purchased. 
+a, b. Vix ad. sk. Kamschatka. Purchased. 
 c. Ad. sk. Kamschatka. H. Saunders Coll. 
 d. Ad. sk. Kamschatka. Seebohm Coll. 
 e. Ad. sk.
@@ -7538,7 +7538,7 @@ h.
 $ ad. sk. Madeira, May. W. E. Ogilvie-Grant, 
 Esq. [P.]. 
 z, 
-<$ ad. st. ; Cape of Good Hope. Sir A. Smith [P.]. 
+<$ ad. sk. ; Cape of Good Hope. Sir A. Smith [P.]. 
 &. $ ad. sk. 
 
 I. Imin. sk. 
@@ -7581,7 +7581,7 @@ S juv. sk,
 
 a". Ad. sk. 
 
-5". tf ad. st. 
+5". tf ad. sk. 
 
 c". Ad. sk. 
 
@@ -9299,7 +9299,7 @@ sk. Hope (JS. Z. Layard).
 g. $ ad. sk. Cape Seas. Sir A. Smith [P.]. 
 A, i J vix ad. sk. Socotra, March (I. Balfour). British Association 
 [P.l. 
-7c. 5 vix ad. st. Socotra, Feb. (I. B.). Shelley Coll. 
+7c. 5 vix ad. sk. Socotra, Feb. (I. B.). Shelley Coll. 
 I. Ad. sk. Ked Sea (Bilppell). Purchased. 
 m, Vix ad. sk. Aden. Major Yerbury [P.]. 
 n-w. 6 ? ad. et Gwadar, Mekran Coast, Feb. Hume Coll. 
@@ -9893,7 +9893,7 @@ LP-]
 
 h. r? ad. sk. Dusky Bay, New Zealand. Capt. Stokes, R.N. 
 [P.]. 
-/. $ ad. st. Port Cooper, New Zealand. E. Strange [0.]. 
+/. $ ad. sk. Port Cooper, New Zealand. E. Strange [0.]. 
 m,n. Ad.; o. Imm.; Otago, New Zealand. H. Saunders Coll. 
 
 
@@ -12464,7 +12464,7 @@ y'. Ad. sk. D'Entrecasteaux Is.
 zf, a". Ad. sk. North Australia (CoeJcerell). 
 b". 2 ad. sk. Claremont Is., Aug. (J". MacgilUvray). 
 c". ? ad. sk.; Cairncross L, Oct. (J. Maogild", 
-$ ad. st. livray). 
+$ ad. sk. livray). 
 «",/". Ad. sk. Cape Upstart, Australia, April. 
 
 g". J ad. sk. An&evata, New Caledonia, Oct. 
@@ -13286,7 +13286,7 @@ V. Ad.sk.
 m'. $ ad. sk. 
 ri. Ad. sk. 
 
-o'. $ ad. st. 
+o'. $ ad. sk. 
 
 p', q'. d ? ad. sk. 
 /•, s. J ad. sk. 
@@ -19379,7 +19379,7 @@ d. Vix ad. sk. Zoulla, June (IF. P. Blanford). Abyssinian Exped.
 e,f Imm. sk. Zoulla, June (IF. Jesse). Tweeddale Coll. 
 #. Vix ad. sk. Zoulla, June ( W. Jesse). H. Saunders Coll. 
 h. 
-Vix ad. st. Aden {JE. L. Layard). Purchased. 
+Vix ad. sk. Aden {JE. L. Layard). Purchased. 
 2~m. 
 J juv. et Aden, October {JE. L. Layard). H. Saunders Coll. 
 imm. sk. 
@@ -19583,7 +19583,7 @@ with paler tips.
 
 Bah. Coasts of Peru and Chile: inland as far as Santiago. 
 «z,b. Juv. et Chile {Bridges). Purchased. 
-vix ad. st. 
+vix ad. sk. 
 
 o. Vix ad. sk. 
 Valparaiso (Bridges). Purchased. 
@@ -19670,7 +19670,7 @@ Lower California and Mazatlan (breeding); in winter as far south
 as Chiapam, Guatemala. Not found far from salt water. Breeds 
 on rocky islands. 
 
-a, Vix ad. st. Vancouver Island. J. K. Lord, Esq. [C.]. 
+a, Vix ad. sk. Vancouver Island. J. K. Lord, Esq. [C.]. 
 b, c. Ad.; d. Vancouver Island. J. K. Lord, Esq. [C.j. 
 Imm. sk. 
 e. Juv. sk.
@@ -20767,7 +20767,7 @@ coast; also on inland waters. Greenland, and also the cast coast
 and the great lakes of North America to Labrador (breeding); in 
 winter to Florida, and, accidentally, in Bermuda. 
 
-«, b. cS $ ad. st. 
+«, b. cS $ ad. sk. 
 
 c. Juv. st. 
 cl Pull. sk. 
@@ -21586,7 +21586,7 @@ not found east of the line of the Dwina, where L. qffinis begins.
 
 LARIDJE. 
 
-a. <$ ad. st. 
+a. <$ ad. sk. 
 b. Imm. st. 
 c. Juv. sk. 
 d. Ad. sk. 
@@ -24758,7 +24758,7 @@ c. $ ad. sk Spurn Head, Nov. Dr. H. B. Hewetson
 d. Juv. st. Orkney (Bullock). Purchased. 
 
 e. Juv. sk. 
-/. 6 ad. st. 
+/. 6 ad. sk. 
 <7,A. ? juv. sk. 
 «,&. Juv.etiruin. 
 
@@ -26006,7 +26006,7 @@ Salvin-Godman Coll.
 Purchased. 
 II. Saunders Coll. 
 sk. 
-k <$ ad. st. Hoy, Orkneys (J. Baker). Purchased. 
+k <$ ad. sk. Hoy, Orkneys (J. Baker). Purchased. 
 t, k. Ad. sk. Hebrides, summer. Theodore Walker, 
 Esa- PP.]I, 
 m. Ad. sk. Bass Rock, Firth of Forth, J. IL Gurney, Esq. 
@@ -32717,7 +32717,7 @@ Ad. sk. S. Africa. Shelley Coll.
 
 
 h. 
-<j> ad. st. S. Atlantic, lat. 30° S., long. Sir George Grey f P.l. 
+<j> ad. sk. S. Atlantic, lat. 30° S., long. Sir George Grey f P.l. 
 6°47'E. " i. 
 Ad. sk. S, Indian Ocean, lat. 40|° S« J. Macgillivray fCA 
 long. 123° B., June. 
@@ -36290,7 +36290,7 @@ c. d. Ad. sk. Southern Indian Ocean, lat. Earl of Crawford and
 84° 25' S., Sept. 14, andlat. 29° 45' S., long. 57° 39' 
 Balcarres rP.l 
 E., Oct. 24. 
-e. $ ad. st. South Atlantic Ocean, lat. Voy. H.M.S. < Eattle/-
+e. $ ad. sk. South Atlantic Ocean, lat. Voy. H.M.S. < Eattle/-
 A. Skulls. 
 23°47' S., long. ?' 10' W.
 (J. Macgillivrm)* 

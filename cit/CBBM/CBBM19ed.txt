@@ -10675,7 +10675,7 @@ species unique among the Rhamphastidce, and, indeed, among birds.
 The orange-yellow flank-spot likewise separates it from the two 
 preceding species. 
 
-a. d ad. st. Ecuador. Gould Coll. 
+a. d ad. sk. Ecuador. Gould Coll. 
 h. Ad. sk.
 c, d. Ad. se. A.d. sk.
 k. 
@@ -11625,7 +11625,7 @@ brown.
 
 Ilab. Guiana and Lower Amazonia. 
 
-a, b. <$ $ ad. st. British Guiana. R. Geogr. Soc. [P.]. 
+a, b. <$ $ ad. sk. British Guiana. R. Geogr. Soc. [P.]. 
 
 c. ($ ad. sk. Camacusa, British Guiana Salvin-Godman Coll. 
 (Whitehj). 
@@ -11642,7 +11642,7 @@ w. J ad. sk. Cayenne. Sclater Coll.
 o,p. $ ad. sk. Cayenne. Gould Ooll. 
 q. 
 (S ad. sk. Barra do Rio Negro (Natterer). Salvin-Godman Ooll. 
-r. c? ad. st. Lower Amazons. Purchased. 
+r. c? ad. sk. Lower Amazons. Purchased. 
 17. Pteroglossus didymus. (Plate YI.) 
 Pteroglossus didymus, Scl P.Z. S. 1890, p. 403. 
 
@@ -11775,9 +11775,9 @@ black.
 
 Hah. South-eastern Brazil. 
 
-a. cS ad. st. S.E. Brazil. 
+a. cS ad. sk. S.E. Brazil. 
 Gould Coll. 
-b. $ ad. st. S.E. Brazil. 
+b. $ ad. sk. S.E. Brazil. 
 Lt. Maw, RN. [P.l. 
 c. d. (S ad.; e,f. Novo Fribourgo, Rio (Youds). Salvin-Godman Coll. 
 § ad.sk. 
@@ -11817,7 +11817,7 @@ This species is a close ally of S. macuh'rostris, bat at once
 distinguishable by the large black blotch which occupies the basal 
 portion of the upper mandible. 
 
-a. cS ad. st. Lower Amazons. Zool. Soc. Coll. 
+a. cS ad. sk. Lower Amazons. Zool. Soc. Coll. 
 b. <$ ad. sk. Para (Natterer). Sclater Coll. 
 c. (S ad. sk.
 d. S ad. sk.
@@ -11938,7 +11938,7 @@ Hah. British Guiana and Lower Amazonia.
 The markings on the bill distinguish this species from S. reinwardti. 
 
 
-a. 2 ad. st. Lower Amazons. Purchased. 
+a. 2 ad. sk. Lower Amazons. Purchased. 
 b, c. S $ ad. sk. Brit. Guiana (Schomburgk). Gould Coll. 
 d. $ ad. sk. Oyapok, Cayenne. Salvin-Godman Coll. 
 e. <$ ad. sk. Oyapok, Cayenne. Sclater Coll. 
@@ -11969,8 +11969,8 @@ and body beneath greyish green instead of black.
 
 Hah. Guiana and Lower Amazonia. 
 
-a. $ ad. st. British Guiana. R. GeogT. Soc. 
-b. $ ad. st. South America. Gould Coll. 
+a. $ ad. sk. British Guiana. R. GeogT. Soc. 
+b. $ ad. sk. South America. Gould Coll. 
 c,d. S 
 $ ad.sk. Bartica Grove, British Giuana Salvin-Godman Coll. 
 (Whitelij). 
@@ -12864,7 +12864,7 @@ ad. sk.
 V, fa d 5 ad. sk. Novo Fribourgo, Brazil Salvin-Godman Coll. 
 
 (Youds). 
-I tf ad. st. S.E. Brazil. Purchased. 
+I tf ad. sk. S.E. Brazil. Purchased. 
 
 m. <$ ad. sk. S.E. Brazil. 
 Sclater Coll. 
@@ -12876,7 +12876,7 @@ p,g. 3 2 ad. sk. Chapada, Matto Grosso, Brazil Salvin-Godman Coll.
 r, s. S 2 ad. sk. Bolivia. Sclater Coll. 
 t. 6 ad. sk. Bolivia. 
 T. Bridges [C.\ 
-u. <$ ad. st. Bolivia. 
+u. <$ ad. sk. Bolivia. 
 T. Bridges [0. j . 
 166 
 GULBTTLrM. 
@@ -12927,7 +12927,7 @@ h. 5 ad. sk. Venezuela {Goering). Salun-Godinan Coll.
 h h. 8 2 ad - sk- Trinidad. Sclater Coll. 
 I, m. 6 2 ad. sk. Tobago (Kirk). Sclater Coll. 
 n. 8 ad. sk. Guiana (Brown). Sclater Coll. 
-0, p. <S 2 ad. st. S. America. Gould Coll. 
+0, p. <S 2 ad. sk. S. America. Gould Coll. 
 4. Galfcula melanogenia. 
 Galbula melanogenia, Scl. Contr. Orn. 1852, p. 61, pi. 90; id. Syn. 
 Galb. p. 3; id. P. Z. S. 1855, p. 13, 1856, p. 139, 1858, p. 357, 
@@ -13112,7 +13112,7 @@ Female similar, but without any white on the throat.
 
 Hah. Guiana, Amazonia, and Eastern Ecuador. 
 
-a, b. (S ad. st. Deroerara. Purchased. 
+a, b. (S ad. sk. Deroerara. Purchased. 
 c, d. (S $ ad. sk. Bartica Grove, British Guiana Salvin-Godman Coll. 
 (Wliitely). 
 e) /• d 2 ad. j Merurne" Mts., British Guiana Salvin-Godman Coll. 
@@ -13124,7 +13124,7 @@ i,k. $ 2 ad.sk. British Guiana (W. L. Sela- Sclater Coll.
 ter). 
 I S ad. sk. Guiana (Brown). Sclater Coll. 
 
-m. 2 ad. st. Barra, Rio Negro (Wallace). Purchased. 
+m. 2 ad. sk. Barra, Rio Negro (Wallace). Purchased. 
 n. <S ad. sk. Quia, Rio Negro (Wallace). Sclater Coll. 
 o,p. S $ ad.sk. Guia, Rio Negro (Wallace). A. R. Wallace [C.]. 
 (], r. (S 2 a(^« s^- Yquitos, Peru (Whitely). Sclater Coll. 
@@ -13139,7 +13139,7 @@ ac^ s^
 
 y, z. $ 2 Peruvian Amazons. Sclater Coll. 
 a'. <S jr. sk. Peruvian Amazons. Purchased. 
-b'. <5 ad. st. Peruvian Amazons (Bates). Purchased. 
+b'. <5 ad. sk. Peruvian Amazons (Bates). Purchased. 
 c't d\ S 2 ad. sk. Rio Napo, Ecuador (Buckley). Salvin-Godman Coll. 
 e'. (S jr. sk. Rio Napo, Ecuador. Gould Coll. 
 
@@ -13363,7 +13363,7 @@ ad. sk. Bogota. Sclater Coll.
 (Type of the species.) 
 b. Ad. sk. Bogota. 
 Salvin-Godman Coll. 
-c. Acl. sk. Rio Napo, Ecuador. 
+c. Ad. sk. Rio Napo, Ecuador. 
 Sclater Coll. 
 d. e. Ad. sk. Sarayacu, Ecuador (Buckley). 
 Salvin-Godman Coll. 
@@ -13667,7 +13667,7 @@ Denierara.
 Salvin-Godman Coll. 
 Salvin-Godman Coll. 
 Purchased. 
-e. $ ad. st. Demerara. Purchased. 
+e. $ ad. sk. Demerara. Purchased. 
 / . 2 ad. sk. 
 g. 2 ad. sk. 
 h. <$ ad. sk. 
@@ -15604,7 +15604,7 @@ S.E. Brazil.
 Salvin-Godman Coll. 
 Sclater Coll. 
 e. Ad. sk. 
-/ . Acl. sk. 
+/ . Ad. sk. 
 S.E. Brazil. 
 Lower Amazons (Wallace). 
 M. Claussen [P.]. 
@@ -15625,7 +15625,7 @@ Hab, Upper Amazonia and Ecuador.
 
 a. Ad. sk. Ega, Upper Amazons. Salvin-Godman Coll. 
 b. Ad. sk. Ega, Upper Amazons. Purchased. 
-c. Acl. sk. Upper Amazons. Sclater Coll. 
+c. Ad. sk. Upper Amazons. Sclater Coll. 
 d. Ad. sk. E. Peru. Purchased 
 e,f. Acl.sk. Chamicuros, E. Peru {Bartlett). Sclater Coll. 
 g, h. Ad. sk. Sarayacu, Ecuador {Buckley), Salvin-Godman Coll. 
@@ -16913,7 +16913,7 @@ i", h". Imm. sk.
 
 1". 5 ad. sk. 
 
-«i". Acl. sk. 
+«i". Ad. sk. 
 
 n'\ Ad. sk. 
 
@@ -18907,7 +18907,7 @@ h. Ad. sk.
 i Ad. sk. 
 k,L Ad.sk. 
 m. Juv. sk. 
-7i, o. d ad. st. 
+7i, o. d ad. sk. 
 p. Ad. sk. 
 q-s. 
 Ad. ; £. 
@@ -19208,7 +19208,7 @@ J imm. sk. Ondonga, Ovampo-Land, Jan. Sharpe Coll.
 m. 
 S ^d. sk. Meathly E.., Bamangwato, Shelley Coll. 
 Oct. 24 (T. U. Buckley), 
-n. Acl. sk. South Africa. Earl of Derby [P.]. 
+n. Ad. sk. South Africa. Earl of Derby [P.]. 
 Cuculus caiiorus and its allies. 
 
 The group to which the Common Cuckoo belongs contains three 
@@ -19462,7 +19462,7 @@ to*. <£ j11^. sk.
 #'. 2 jr. hepat. 
 
 sk. 
-ss\ $ ad. st. 
+ss\ $ ad. sk. 
 <*",&". Ad.; e". 
 
 Juv. hepat;. sk. 
@@ -20757,7 +20757,7 @@ p. 473 (1861); Cab. <$• Heine, Mm. JSein^ iv. p. 42, note (1862) ;
 Sharpefy Bouvier, Bull. Soe. Zool. France, iii. p. < 8 (1878); Sharpe, 
 P. Z. S. 1878, p. 584; Reichen. J.f. 0. 1877, p. 16; Oust. N. Arch. 
 Mus. (2) ii. p. 126 (1879). 
-Aclult. Above glossy blue-black; centre tail-feathers uniform 
+Adult. Above glossy blue-black; centre tail-feathers uniform 
 blue-black tipped with white, the outer feathers having a few white 
 shaft-spots and the same number of white notches on their inner 
 margins; sides of the head grey; chin and entire throat deep 
@@ -22768,7 +22768,7 @@ ad. sk. Cameroons, Feb. 2, 1871 (A. Sharpe Coll.
 Crossley). 
 k. <S juv. sk. Gaboon. 
 M. Verreaux. 
-I. J ad. st. Gaboon. 
+I. J ad. sk. Gaboon. 
 M. Verreaux. 
 m. <$ ad. sk. Semmio, Niam-Niam Country, F. Bohndorfl [C.]. 
 March. 
@@ -22793,7 +22793,7 @@ j uv. sk.
 i\ <$ ad. sk. Damara-Land, March 29 (C. J. Tweeddale Coll. 
 
 Andersson). 
-k'. <$ ad. st. South Africa. Dr. Lee [P.]. 
+k'. <$ ad. sk. South Africa. Dr. Lee [P.]. 
 /'. Skeleton. West Africa. Purchased. 
 
 4. Chrysococcyx cupreus. 
@@ -22914,7 +22914,7 @@ cL Ad.: e. Juv. -k.
 f. Ad. sk.
 g~n. Ad.; o, p, q.
 Imm. *k. 
-r7 s. Acl. sk. 
+r7 s. Ad. sk. 
 
 t9 u} v. Ad.: tf\ r, 
 
@@ -29776,7 +29776,7 @@ limn. sk.
 Hi, /I, o. Ad. sk. Makassar {A. It. Wallace). Tweeddale Coll. 
 
 
-p. 2 ad. st. Makassar.s 
+p. 2 ad. sk. Makassar.s 
 Wallace Cull. 
 31. Centropus andamanensis. 
 Ceiitropus andamaneiisis, Beavan, Ik's, 1867, p. ."321 {ex Tytler, 
@@ -31025,7 +31025,7 @@ h. Ad. sk.
 i. Ad. &k. 
 k. Ad. sk. 
 I. Ad. sk. 
-m. Acl. sk. 
+m. Ad. sk. 
 n. Ad. sk. 
 o. Ad. sk. 
 p. Ad. sk. 
@@ -31201,7 +31201,7 @@ Malacca, Jan., July, Aug.,
 India Museum. 
 Tweeddale Coll. 
 Hume Coll. 
-/'. Acl. sk. 
+/'. Ad. sk. 
 mr . Ad.sk. 
 Sept. ( JF, Davison). 
 Klang, Salangore, March 20 
@@ -31838,7 +31838,7 @@ Pinwill Coll.
 Ad. sk. Nepal. Hodgson Coll. 
 (Types of P. montanas.) 
 
-h. Acl. sk. Nepal (B. H. Hodgson). India Museum. 
+h. Ad. sk. Nepal (B. H. Hodgson). India Museum. 
 1} m. 5 ad. sk. Godaveri, Nepal Valley, May, Seebolim Coll. 
 Aug. (J. Scully), 
 
@@ -32905,7 +32905,7 @@ Blisseti).
 Gould Coll. 
 Shelley Coll. 
 Sharpe Coll. 
-u. Acl. sk. Cape Coast Castle. TVeeddale Coll. 
+u. Ad. sk. Cape Coast Castle. TVeeddale Coll. 
 
 2. Ceuthmocliares sevens. 
 Coucou gris bronze*, Levaitt. Ois. Afr. v. p. 60, pi. 215; Sundev. 
@@ -33592,7 +33592,7 @@ Hab. The bushy plains of Western Madagascar from Cape Rt.
 Andre to the Bay of St. Augustin. 
 
 a, o. $ $ ad. sk. Madagascar {Tan Dam). Seebohni Coll. 
-c. Acl. sk. Mourondava. M. Grandidier. 
+c. Ad. sk. Mourondava. M. Grandidier. 
 d, e. tf $ ad. sk. Mourondava (Van Dam). Sbarpe Coll. 
 11. Coua gigas. 
 
@@ -33915,7 +33915,7 @@ c. Ad. sk. Veragua (K Arce). Sclater Coll.
 (Type of species.) 
 d. Ad. sk. Panama. 
 Seebohm Coll. 
-e. c? ad. st. New Granada. Purchased. 
+e. c? ad. sk. New Granada. Purchased. 
 / . Ad. sk. Rio Ootopaza, Ecuador (C. Salvin-Godman Coll. 
 Buckley). 
 

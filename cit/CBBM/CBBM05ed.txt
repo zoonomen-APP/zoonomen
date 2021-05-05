@@ -2307,7 +2307,7 @@ a.
 b. 
 cJad.sk. Malo-Atlim,Obb,W. Siberia, Bremen Geogr. Soc. 
 July 7 (Dr. Finsch). 
-c. Acl. sk. India. ' Sec. of State for India [P.]. 
+c. Ad. sk. India. ' Sec. of State for India [P.]. 
 d. 
 Ad. sk. N.W. India. Capt. Stackhouse Pinwill 
 [P.]e. 
@@ -2854,10 +2854,10 @@ but in North Africa it appears to be a partial resident.
 a. $ ad. sk. Greece, July 9. R. B. Sharpe, Esq. 
 b. (J ad. sk. Sardinia, May 12 (A. B. Brooke). RB. Sharpe, Esq. [P.]. 
 e. (S ad. sk. Europe ( Ve?reaux). Purchased. 
-d. <$ ad. st. Europe. 
-e. $ ad. st. Italv. Purchased. 
-/. S ad. st. Italy. E. Wilson, Esq. [P.], 
-g. $ ad. st. Italv. Baron Laugier. 
+d. <$ ad. sk. Europe. 
+e. $ ad. sk. Italv. Purchased. 
+/. S ad. sk. Italy. E. Wilson, Esq. [P.], 
+g. $ ad. sk. Italv. Baron Laugier. 
 h. <J ad. sk. North Italy, April 9 (A. B. Brooke). KB. Sharpe, Esq. [P.J. 
 ?*. J ad. sk. Tangier. Mons. Favier [C.]. " 
 k, I. Ad. sk. Tangier (Olcese). Col. Irby [P.] 
@@ -3041,8 +3041,8 @@ it appears to be principally a winter vi&itor.
 1. SYLVIA. 
 a. c^ad.sk. Europe (Verreaux). Purchased. 
 b, c. c? ad. ak. Gibraltar. Ool. Irby [p.]. 
-d, e. $ $ ad. st. Italy. Purchased. 
-/ . cT ad. st. Italy. Baron Laugier. 
+d, e. $ $ ad. sk. Italy. Purchased. 
+/ . cT ad. sk. Italy. Baron Laugier. 
 g. <$, h. $ ad. sk. Sardinia, May 11? 19 11. 13. Sharpe. Esq. [P.], 
 (A. B. Brooke), 
 i. <$ ad. sk. Asia Minor. T. Robson, Esq. [0-1. 
@@ -4849,7 +4849,7 @@ in South Africa, from the Transvaal to the Cape, the fine series of
 skins in the Museum abundantly proves. 
 
 
-a. Acl. sk. Devonshire. • Col. Montagu [P.]. 
+a. Ad. sk. Devonshire. • Col. Montagu [P.]. 
 b-f. 
 <$ ad. sk.; g~i. Avington,Hants,May 12, R. B. Sharpe,Esq. [P.]. 
 $ ad. sk. 13. 
@@ -5148,7 +5148,7 @@ regions of Europe almost up to the Arctic Circle, and winters
 on both shores of the Mediterranean, the southern limit of its winter 
 range being Abyssinia. 
 
-a. Acl. sk. Devonshire. Col. Montagu [P.l. 
+a. Ad. sk. Devonshire. Col. Montagu [P.l. 
 b. Ad. &k. Wiltshire. Col. Moulagu 11V|. 
 c. $ ad. sk. Ayington, Hants, May 10. Capt. Shelley [P.]. 
 
@@ -12444,7 +12444,7 @@ The "White-throated Ground-Thrush appears to be confined to the
 jungles of Central and Southern India, probably breeding in the 
 former and retiring to the latter during the cool season. 
 
-a, b. S ad. st. India. " Purchased. 
+a, b. S ad. sk. India. " Purchased. 
 
 c. (S ad. sk. Behar, India. B. H. Hodgson, Esq. [C.]. 
 d. 2 ad. sk. Malabar. 
@@ -13061,7 +13061,7 @@ and the Lena, between lat. 07° and 08°, and also near Yokohama
 in Japan. It winters in China, Burma, Sumatra, and Java, and 
 has once occurred on the Andaman Islands. 
 
-a. $ ad. st. Japan. Zoological Society. 
+a. $ ad. sk. Japan. Zoological Society. 
 b. Juv. st. Japan. , Zoological Society. 
 c. hum. sk. Java. Zoological Society. 
 d. J ad. sk. Java. Zoological Society. 
@@ -15776,9 +15776,9 @@ ad. sk.
 
 22% TTTBDIDiE. 
 
-/. Acl. sk. N.AV. America. Dr. Lyall fP.]. 
+/. Ad. sk. N.AV. America. Dr. Lyall fP.]. 
 
-m. Acl. sk. Satuma Island. Dr. Lyall [P.]. 
+m. Ad. sk. Satuma Island. Dr. Lyall [P.]. 
 n. Ad. sk. "Vancouver Island, J. K. Lord, Esq. [P.]. 
 o,p. <$ acl.; q. $ ad. sk. "West side of Itocky J. K. Lord, Esq. [P.], 
 Mountains. 
@@ -16847,9 +16847,9 @@ ItCl <F. D.G.). Sahin, Esqrs. [P.].
 
 h. <S && sk. Madeira, June 27, 1871 (F. F. Godman and U. 
 I). a). Salvin, Esqrs. [P.], 
-L d ad. st. Devonshire. Col. Montagu [0.1 
+L d ad. sk. Devonshire. Col. Montagu [0.1 
 
-k. d ad. st. Berkshire. Mr. W. Biiggs [P.]. 
+k. d ad. sk. Berkshire. Mr. W. Biiggs [P.]. 
 /. cJ »d. st. England. Purchased. 
 m. 
 1mm. st. Epping. IT. Doubleday, Esq. 
@@ -16858,7 +16858,7 @@ n. d ad. ft. Berkshire. (Partial albino.) J. "Mills, Esq. [P.].
 o. 
 2 &&-&*. Devonshire. (Partial Col. Montagu [C.]. 
 albino.) 
-p. d ad. st. Devonshire. (Partial W. Comyns, Esq. 
+p. d ad. sk. Devonshire. (Partial W. Comyns, Esq. 
 albino.) [P.]. 
 q, d act st. England. (Partial albino.) Purchased. 
 
@@ -16870,7 +16870,7 @@ $. Ad. sk. Yorkshire, (Semi-albino.) Mr. K. Leadbeater
 t Ad. sk. Britain. (Partial albino.) Linnean Society [P.], 
 It, J aci- s^* Wiltshire. Col. Montagu fd]. 
 
-r. $ ad. st. Cambridgeshire. Mr. J. Baker [P.]. 
+r. $ ad. sk. Cambridgeshire. Mr. J. Baker [P.]. 
 wfxfy. Juv. st Cambridgeshire. Mr. J. Baker [P.]. 
 2. J uv. st* Surrey, Purchased. 
 a\ b% <?'. d ®&* pk. Avington,Hants, Kbv. 1873. Ft. B. Skarpe, Esq. 
@@ -17412,7 +17412,7 @@ TUKDHUE.
 
 246 
 
-*, f. 6 ? ad. st. Nepal. B. H. Hodgson,.EM. [P.l 
+*, f. 6 ? ad. sk. Nepal. B. H. Hodgson,.EM. [P.l 
 1J + (Types of Merula nivicolhs, Hodgs.) 
 
 
@@ -17510,8 +17510,8 @@ Europe, but does not appear to range as far east as the valley of
 the Yolga. It winters in North Africa, Asia Minor, and Persia. 
 
 
-a. cJ ad. st. Turnham Green, Middlesex. J. Baker, Esq. [PA 
-b. £ ad. st. Turnham Green, Middlesex. J. Baker, Esq. [P. J. 
+a. cJ ad. sk. Turnham Green, Middlesex. J. Baker, Esq. [PA 
+b. £ ad. sk. Turnham Green, Middlesex. J. Baker, Esq. [P. J. 
 e. g ad. sk. Cornwall. Col. Montagu [P.]. 
 d, Ad. sk. Longshaw, Derbyshire, July F. Godman and 0. 
 1854 (O. Saivin). Saivin, Esqrs. [P.]. 
@@ -17659,7 +17659,7 @@ u.
 $ ad. sk. Darjiling [Eccles). F. Grodman and O. 
 Salvin, Esqrs. [P,*|. 
 x. Juv. st. Himalayas. J. R. Reeves, Esq. [P.l 
-y. $ ad. st. Himalayas. J. Gould, Esq. [P.]. 
+y. $ ad. sk. Himalayas. J. Gould, Esq. [P.]. 
 a. Inim. sk. Darjiling (Br, Bellew). India Museum. 
 a', b'. (S $ sternum. Nepal. BII.Hodgson,Esq.[P.]. 
 17. Hernia mareensis. 
@@ -18094,7 +18094,7 @@ The Chestnut-necked Ouzel appears to be confined to Guatemala,
 in Central America, where it is a resident, subject only to very 
 restricted internal migrations. 
 
-a. cS ad. st. rGaatomala.1 Purchased. 
+a. cS ad. sk. rGaatomala.1 Purchased. 
 b. $ ad. sk.
 c. S acl. fik. 
 [Guatemala.] 
@@ -18391,7 +18391,7 @@ f. tf ad. sk Near Almorah. Capt. Stackhouse Pinwill
 g. 
 <$ ad. sk. Nepal (Hodgson). India Museum. (Type of 
 Turdus rubroca?ms, Hodgs.) 
-h. <$ ad. st. Nepal. B. H. Hodgson, Esq. [P.J. 
+h. <$ ad. sk. Nepal. B. H. Hodgson, Esq. [P.J. 
 i. $ ad.; h. ^ad. sk. Nepal. B. H. Hodgson, Esq. [P.]. 
 I J ad. sk. IXxrjiling (Pearson). India Museum. 
 m, J ad. sk. [Assam (Crriffitli)."] India Museum. 
@@ -18511,7 +18511,7 @@ The Grey Japanese Ouzel appears to be confined to Japan during
 the breeding-season, frequenting both islands. It winters in South 
 China and Hainan. 
 
-a. <$ ad. st. Japan. Zoological Society. 
+a. <$ ad. sk. Japan. Zoological Society. 
 b. S ad. sk. Japan. E. Wilson, Esq. [P.], 
 c. $ ad. sk. Japan. Levden Museum. 
 d. $ ad. sk. Nagasaki, H/Whitely, E^q. [C] 
@@ -18947,9 +18947,9 @@ it has been obtained in Russia, Germany, Denmark, Belgium,
 England, France, and Italy. Eastwards it has occurred on migration 
 as far as Lake Baikal and, in winter, as far as Assam. 
 
-a. c? ad. st. Nepal. 
+a. c? ad. sk. Nepal. 
 B. H. Hodgson, Esq. [P.], 
-b. $ ad. st. Nepal. 
+b. $ ad. sk. Nepal. 
 B. H. Hodgson, Esq. [P.J. 
 c. $ irrmi. sk, Obdorsk. Dr. 0. Einsch [0.]. 
 d. e. Ad. sk. Kashgar. Dr.Bellew[P.]. 
@@ -18982,12 +18982,12 @@ t,u,v. <^ad. sk. Kumaon( Capt.Strachey). India Museum.
 w, x. <$ ad.; y, Nepal. B.n. Hodgson, Esq. [P.]. 
 
 z. $ ad. sk. (Type of Tiinhis varicottis, Hodgs.). 
-a'. (S ad. st. Nepal. B. II. Hodgson, Esq. [P.]. 
+a'. (S ad. sk. Nepal. B. II. Hodgson, Esq. [P.]. 
 l\ c'. <$ ad. sk. Nepal. B. II. Hodgson, Esq. [P.]. 
 d'. Ad. sk. Nepal. B.H.Hodgson,Esq. [P.], 
 e'. $ ad. sk. Nepal (P. &. Hodgson). India Museum. 
 
-/'. £ ad. st. Nepal. 
+/'. £ ad. sk. Nepal. 
 B.H.Hodgson,Esq. [P.]. 
 
 g', J ad. sk. Darjiling. 0. Fotheringham, Esq. 
@@ -19085,7 +19085,7 @@ b. c? ad. sk. Nepal. B. H. Hodgson, Esq. [P.].
 (Type of Turdus erythrurus, Ilodgs.) 
 c. d, e. Ad. sk. Nepal. B. II. Iloclgbon, Esq. [P.J. 
 /. $ ad. sk. Nepal (B. H. Hodgson). India Museum. 
-g, h. cS ad. st. Nepal. ^ B. II. Hodgson, Esq. [P.]. 
+g, h. cS ad. sk. Nepal. ^ B. II. Hodgson, Esq. [P.]. 
 i, k. $ 2 a^-s^« Assam (Griffith). India Mubeum. 
 h tf ad. sk. Lake Baikal (Dr. Dy- R. B. Sharpe, Esq. [P.]. 
 boioshy), May 18,1871. 
@@ -19154,7 +19154,7 @@ a, b. r? 2 ad. sk. N. W. Himalayas. Capt. Stackhouse Pin-
 will [P.]. 
 
 c. S ad. sk. Nepal. B.H. Hodgson, Esq. [P.], 
-d. tf ad. st. Nepal. B.H. Hodgson,E*q.[P.j. 
+d. tf ad. sk. Nepal. B.H. Hodgson,E*q.[P.j. 
 (Type of-P. homochroa, Ilodgs.) 
 e~h. § ad.; i. tf imm.sk. Nepal. B.H.Hodgbon,Esq.[P.]. 
 k, I. § ad. imm. sk. Bengal (As. Soc). India Museum. 
@@ -21190,7 +21190,7 @@ WaU. B. Burnt, p. 101 (1875) ; Tacz. Bidl Soe. Zool France,
 1876, p. 142 ; Prjev. Mowletfs Orn. Mho. ii. p. 178 (1877) j Hume 
 $ Davison, Stray Feath. vi. p. 835 (1878). 
 
-Adxtlt male in breeding-plumage. General colonr of the upper 
+Adult male in breeding-plumage. General colonr of the upper 
 parts dull dark bine, brighter on the forehead and crown; lores, 
 forehead at the base of the bill, checks, and ear-coverts black, 
 shading into dull dark blue on the sides of the nock; no trace of 
@@ -21416,7 +21416,7 @@ straying into Europe.
 
 a. <$ ad. sk. China. J. B. Beeves, Esq. [P.]. 
 b, c. tf $ ad. sk. Pekin. J. H. Guraey, Esq. [P.]. 
-d, e. d ad. st. Calcutta (As. Soc). India Museum. 
+d, e. d ad. sk. Calcutta (As. Soc). India Museum. 
 /, g. $ 6 ad. sk. Calcutta (As.Soc.). India Museum. 
 h, i. cS ad.; h. J ad. sk. Nepal. B. H. Hodgson, Esq. [P.], 
 I <$ ad. sk. Nepal (Hodgson). India Museum. 
@@ -22304,7 +22304,7 @@ i'. J imm. sk.
 
 &'. C? inim. sk. 
 
-V. <S ad. st. 
+V. <S ad. sk. 
 S ad. sk. 
 <$ ad. sk. 
 
@@ -22753,7 +22753,7 @@ to be unknown. ^ u
 The Brown-backed Bock-Thrush appears to be confined to the 
 Cape Colony and Natal, where it is supposed to be a resident. 
 
-f d ad. st. Cape Colony. J. Gould. Esq. 
+f d ad. sk. Cape Colony. J. Gould. Esq. 
 
 o. ? ad. sk. South Africa. 11. B. Sharpe, Esq. 
 c. d1 ad. sk. Cape Town (JO. J. Andersson). 11. B. Sharpe, Esq. 
@@ -22766,7 +22766,7 @@ Verreaux).
 9,h. <$ $ ad. sk. Elands Post, May 1870 R. B. Sharpe, Esq. 
 
 (T. C. Atmore). 
-*. 6 ad. st. South Africa. R. B. Sharpe, Esq. 
+*. 6 ad. sk. South Africa. R. B. Sharpe, Esq. 
 6. Ho&ticola explorator. 
 L'Espionneur, Levaill. Ois. d'Afr. iii. p. 29, pi. ciii. (1802). 
 Turdus explorator, Vieill N. Diet. d'Mst. Nat. xx. p. 200 (1818); 
@@ -23486,7 +23486,7 @@ and breast.
 The Rooky-Mountain Bluebird breeds throughout the Kooky 
 Mountains, and winters in California and the North-western United 
 States. 
-a <$ ad. st. Arctic America. Sir GK Back [P.]. 
+a <$ ad. sk. Arctic America. Sir GK Back [P.]. 
 
 , *• cf ad sk
 
@@ -23774,16 +23774,16 @@ elevation, preferring the pine-region. It winters in South Persia
 
 and Central Africa as far west as Senegal. 
 
-a, b. d ad. st. 
+a, b. d ad. sk. 
 
 c. d 
 innn.j d. 
 Juv. st. 
-e. d ad. st. 
+e. d ad. sk. 
 f-k. Juv. st. 
 X d ad. sk. 
 m. Juv. sk. 
-n. $ ad. st. 
+n. $ ad. sk. 
 o. 
 d juv.; p. 
 2 ad. sk. 
@@ -24097,8 +24097,8 @@ mini. st.
 
 d. <5 ad. sk. Europe. 
 Purchased. 
-e. cJ ad. st. Wimbledon Common. Mr. J. Baker [G.J. 
-/. 9 ad. st. " Brighton. F. Bond, Esq. [P.]. 
+e. cJ ad. sk. Wimbledon Common. Mr. J. Baker [G.J. 
+/. 9 ad. sk. " Brighton. F. Bond, Esq. [P.]. 
 q. K 6 imm. sk. France. 
 M. Parzudaki. 
 I 
@@ -24267,7 +24267,7 @@ TLibet. Eavl of Gilford [P.].
 Behar. B. II. Hodgson, Esq. [P. 
 
 p. J ad. sk. 
-#, r. <S $ ad. st. 
+#, r. <S $ ad. sk. 
 
 Behar. 
 B. II. Hodgson, Esq. [P. 
@@ -24489,7 +24489,7 @@ a few wandering as far as Assam, the Malay peninsula, Java, and
 Timor. 
 
 9 . RTTTICILLA. 347 
-f c? ad. st. Japan. India Museum. 
+f c? ad. sk. Japan. India Museum. 
 o. d ad. sk. Hakodadi, Japan. Col. St. John fo.l. 
 c. $ ad. sk. Yokohama, Japan, IT. Pryor, Esq. [0.]. 
 d,*,/• tf ad. sk. China. J. R, Reeves, Esq. [P.], 
@@ -24497,7 +24497,7 @@ d,*,/• tf ad. sk. China. J. R, Reeves, Esq. [P.],
 . vin, Esqrs. [P.]. 
 V - <? ad. sk. Assam {McClelland). India Museum. 
 & c? ad. sk. Bootan (Pemberton). India Meseiun. 
-Z. d ad. st. Timor (Leyden Museum). Purchased. 
+Z. d ad. sk. Timor (Leyden Museum). Purchased. 
 m. J ad. sk. Timor (Leyden Museum). Purchased. 
 
 9. Ruticilla erytlirogastra. 
@@ -25009,7 +25009,7 @@ A, i <$ ad. sk. N.W. Himalayas. Capt.StackliousePinwill [P.J.
 1844. 
 
 7. 
-S ad. st. Nepal. B. H. Hodgson, Esq. [P.]. 
+S ad. sk. Nepal. B. H. Hodgson, Esq. [P.]. 
 (Type of Pkcenicura ccendeus, Hoags.) 
 m. J ad. sk. Bootan (Pemberton). India Museum. 
 n. 
@@ -25122,7 +25122,7 @@ The Black-throated Chat-Robin has been found in the Transvaal,
 the Orange Free State, Natal, and the North-east of Caj3e Colony. 
 It is not known to bo migratory. 
 
-a. c? ad. st. South Africa. Baron Laugier. 
+a. c? ad. sk. South Africa. Baron Laugier. 
 b, c. d ? ad. sk. Windvogelberg {Bulger). P. L. Sclater, Esq. [P.]. 
 (Types of 8. spectahilis, Hartl) 
 d) e- 6 \f' 2 ad. sk. Kingwiliiamstown, Herbert Trevelyan, Esq. 
@@ -25882,7 +25882,7 @@ The Pied Chat breeds in the highlands of Southern Persia and
 South Afghanistan, wintering in Baluchistan, Scincle, and Northwest 
 India. 
 
-a. <$ ad. st. India. Porch-ised. 
+a. <$ ad. sk. India. Porch-ised. 
 b. $ ad. sk. Behar. 11 II. Hudson, Esq. [P.]. 
 c} d. <$ $ ad. i 
 
@@ -26804,7 +26804,7 @@ e. (S ad. sk.
 fg. S ad., <$
 imm. sk.
 h. <5 ad. sk.
-i. J ad. st. 
+i. J ad. sk. 
 South Africa (E. L. Layctrd). 
 South Africa (E. L. Layard). 
 Elands Post (T. C. Atmore). 
@@ -27306,7 +27306,7 @@ of France, Spain, Western Algiers, and Morocco, wintering in
 
 Western Africa. 
 
-a, h. S ad. st. Europe. 
+a, h. S ad. sk. Europe. 
 Baron Laugier. 
 
 c. 
@@ -27654,8 +27654,8 @@ I. m. Juv. st. Pagham Harbour, Sept. R.B. Sharpe,Ebq. [P.],
 187i>. 
 n, o. Juv. sk. Pagham Harbour, Sept. 1, II. B. Sharpc,Escp [P.], 
 1872. 
-;;, (S ad. st. Brighton. J.G.Ohildren,Esq.[P.]. 
-q} r. d ? ad. st. Cookham, Berks, March. Mr. W. Brings [P.]. 
+;;, (S ad. sk. Brighton. J.G.Ohildren,Esq.[P.]. 
+q} r. d ? ad. sk. Cookham, Berks, March. Mr. W. Brings [P.]. 
 8, t. <S 2 a(^-st* Ilampstead. B.B. Sharpe, Esq. [P.]. 
 u, v. <S $ ad. sk. Thetford, Norfolk, March F. Godman and 0. Sai
 
@@ -28319,7 +28319,7 @@ h, c, <$ ad. sk. Abyssinia (Sir W. C.Harris). India Museum,
 d. $ 
 ad. sk. Angollala, Shoa, May 1842 India Museum. 
 (Sir W. C. Harris). 
-e. $ ad. st. Abyssinia. Dr. Riippell [O.]. 
+e. $ ad. sk. Abyssinia. Dr. Riippell [O.]. 
 f. d 
 ad. sk. Santora, Talanta, 10,500 W. T. Blanfoid, Esq. [0.1 
 feet, April 23, 1808. 

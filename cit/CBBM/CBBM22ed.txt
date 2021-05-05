@@ -1383,14 +1383,14 @@ Periodically great numbers visit Europa.
 a, b. <$ ? imm. st. North Asia. 
 
 c. J ad. sk. Altai. Gould Coli. 
-dt e. $ ad. st. j $ imm. Kirghiz Steppes. Pureliased. 
+dt e. $ ad. sk. j $ imm. Kirghiz Steppes. Pureliased. 
 sk. 
 f, ff. J ad. et imm. sk. Turkestan. Tweeddale Coli. 
 h, i. 6 2 *&• ö^-Lewes, Sussex, Jan. Pui cliased. 
-Je. (S ad. st. Norfolk, June. R Bond, Esq. [P.]. 
+Je. (S ad. sk. Norfolk, June. R Bond, Esq. [P.]. 
 /. $ ad. sk. King'a Lymi, Oct. Victor Arnes, Esq. [P.]. 
 
-m. $ ad. st. Cambridge, June. F. Bond, Esq. [P.]. 
+m. $ ad. sk. Cambridge, June. F. Bond, Esq. [P.]. 
 n. 
 $ ad. sk. Easington, Lincoln-Dr.H.B.Hewetson[P.]. 
 shire, Oct. 
@@ -1954,7 +1954,7 @@ taü-feathers like the scapiüars and produced into long black filaments,
 rest of tbe tail-feathers dark brown tipped with buff. Total 
 length 13 inches, wing 7*1, tail 5*3, tarsus 0*9. 
 
-Aclult female. DifFers from the male in having a broad blackish-
+Adult female. DifFers from the male in having a broad blackish-
 brown bar down tbe niiddle of eacb feather of tbe top of tbe bead, 
 neck, upper back, and ehest, on tbe two latter tbe extremity of tbis 
 bar is swollen, giving tbese parts a spotted appearance. Tbe back, 
@@ -1992,7 +1992,7 @@ to Senegal, in. tbe east over the greater part of India, in the north
 to Palestine and Central Asia, and in the south to the Pangani Biver, 
 
 E. Africa. 
-a. $ ad. st. India. Purckased. 
+a. $ ad. sk. India. Purckased. 
 b. $ ad. sk. 
 c. S ad. sk. 
 Sind. 
@@ -2066,7 +2066,7 @@ p'\ <?"• 6 2 ad* slj*
 
 r"-f. c? 2 a<i-&k-
 
-M". <5" ad. st. 
+M". <5" ad. sk. 
 
 v". 2 ad*s^* 
 
@@ -2282,7 +2282,7 @@ a'. g ad. sk. Sliahpur Dist., Punjab, Dec. Hume Coli.
 (F. Field). 
 b't tf ad. sk, Persia. Purchased. 
 o'. 2 ad. sk. Mesopotamia (Jones). India Museum [P.]. 
-d' e'. S 2 ad. st. Bagdad. Sir K. Loftus, 
+d' e'. S 2 ad. sk. Bagdad. Sir K. Loftus, 
 [P.]. 
 /. S ad. sk. Morzouk, Fezzan, March (G. Gould Coli. 
 
@@ -2655,7 +2655,7 @@ o\p*. 6 2-
 
 (f. £ ad. sk. 
 r3. d1 inim. sk. 
-$3. c5" ad. st. 
+$3. c5" ad. sk. 
 £3. $ ad. sk. 
 
 <$ 2 ad slf •
@@ -3002,10 +3002,10 @@ July. [P.].
 w-y. 6 $ ad. sk. Muscat. Ool. Mills [P.]. 
 
 
-z. d ad. st. Algeria. Purcbased. 
+z. d ad. sk. Algeria. Purcbased. 
 a',b'. tf$ ad. Wady-halfah (Dodd). Shelley Coli 
 sk. 
-c'. $ ad. st. 2nd Cataract of tlie Nile. Dr. Leith Adams 
+c'. $ ad. sk. 2nd Cataract of tlie Nile. Dr. Leith Adams 
 
 !?•]. 
 
@@ -3055,7 +3055,7 @@ coverts. Tarsi rufoiis buff. Tail of 16 featbers : centre pair like
 the upper tail-coverts; rest black, barred and tipped witb cbestnut. 
 Total length 12 inches, wing 8*3, tail 3*4, tarsus 1*2. 
 
-Aclult female. A brownish-black bandfrom the nostrilto tbe eye ; 
+Adult female. A brownish-black bandfrom the nostrilto tbe eye ; 
 8 narrow black stripe from the lores to the back of tbe eye, and the 
 chin and throat yellowish buff. Eeathers of tbe top of the head, 
 back, rump, upper tail-coverts, and ehest yellowish buff, each witb 
@@ -3075,7 +3075,7 @@ Hab. S.E., E., and N.~E. Africa ; ranging from tbe Transvaal in the
 south to the highlands of Abyssinia in the north, and westwards io 
 the Wembaere Steppes, and Massiland. 
 
-a, b. ^ § ad. st. S. Africa. Purchased. 
+a, b. ^ § ad. sk. S. Africa. Purchased. 
 
 c. d ad. sk. S. Africa. Earl of Derby [P.]. 
 &-f. 6 2 ad, sk. Natal (7. Ayres). Tweeddale Coli. 
@@ -3432,7 +3432,7 @@ Eab. & Africa; extending east to tbe Transvaal, west to Mossamedes,
 and south to the Orange Eiver *. 
 
 
-a, b. <J ad. st. S. Africa. Sir A. Smith [P.]. 
+a, b. <J ad. sk. S. Africa. Sir A. Smith [P.]. 
 
 e. $ ad. sk. S. Africa. Purchased. 
 d, e. <$ 2 ad. sk. Mahalapsi E., near Shoshong, Capt. G. E. Shelley 
@@ -3508,12 +3508,12 @@ a narrow subterminal black band, showing an approach to the
 adult female of P. fasciatus. 
 Hab. Africa, ranging from Senegambia to Abyssinia. 
 
-a. (J ad. st. West Africa. Major Ricketfc[P."j. 
+a. (J ad. sk. West Africa. Major Ricketfc[P."j. 
 b, c. c? ad.; $ imm. "West Africa. Purchased. 
 sk. 
 d~f. c? ad.; $ imm. Gambia.' Shelley Coli, and 
 sk. ^ Purchased. 
-g* 5 ad. st. Gambia. 
+g* 5 ad. sk. Gambia. 
 h-k. <$ $ ad.; tf imm. sk. Lado. Emin Pasha [P.]. 
 L Skeleton. Bissao, W. Africa. Eyton Coli. 
 
@@ -3884,7 +3884,7 @@ Hab. Great Britain, Ireland, the Hebrides and Orkneys.
 
 a, h. (S ad. et pull, Orkney Is., June. Gould Coli. 
 sk. 
-c-ff. e$ 5 ad. st. et Orkney Is. Purchased. 
+c-ff. e$ 5 ad. sk. et Orkney Is. Purchased. 
 pull. st. 
 h-j. 5 ad., $ imm. Lewis, Outer Hebrides, Salvin-Godman Coli. 
 sk. Sept., Oct. (F. I). G. 
@@ -3904,7 +3904,7 @@ Jan.
 q--t. cS $ a(** sk. Beauly, Invernesa-shire, Lord Lovat [P.]. 
 May. 
 
-u. ^ ad. st. [albino]. Nairnshire. Earl of Cawdor [P/j. 
+u. ^ ad. sk. [albino]. Nairnshire. Earl of Cawdor [P/j. 
 r, w. 6 2 ad. sk. Nairnshire, Dec. H. F. Rose, Esq. [P.]. 
 .r. $ ad. sk. [albino]. Dunphail, Morayshire, W. ß . Ogilvie Graut, Esq. 
 Aus-. 
@@ -4725,7 +4725,7 @@ during every month of the year, we rofer to J. G. Millais's ' Game
 Birds and Shooting-Sketches,' pp. 69, 70. 
 
 a-c. <S ad. 2 inim. Scotland, Sept. and winter. Gould Coli. 
-sk. et <$ ad. st. 
+sk. et <$ ad. sk. 
 
 
 d. $ ad. sk. Scotland. 
@@ -5019,7 +5019,7 @@ b'. S ad. sk.
 c'. d" ad. sk. 
 
 d'. S ad. sk. 
-e'. c? ad. st. 
+e'. c? ad. sk. 
 f-k'. S ad. et 2 
 
 imm. sk. et st. 
@@ -5434,7 +5434,7 @@ southwards to the Eastern Pyrenees, North Italy, N. Caucasus, Tian
 Shan and Peking, and northwards to about 69° E". lat. 
 
 a, b. ? ad. st.f Scotland. Sir William H. Elower 
-c. $ ad. st. Scotland. Old GolL 
+c. $ ad. sk. Scotland. Old GolL 
 d. S ad, sk, Scotland. Hume Coli. 
 e. 3 ad. sk. Scotland. Gould Coli. 
 /. ? ad. sk.
@@ -5494,7 +5494,7 @@ lmg, Nov. [P.].
 
 2 imm. sk. W. It.). 
 ^ . Pull. sk. England. Purcbased. 
-Ä', i'. <$ § ad. st. Newcastle-on-Tyne. Sir W. 0. Trevelyan [P.]. 
+Ä', i'. <$ § ad. sk. Newcastle-on-Tyne. Sir W. 0. Trevelyan [P.]. 
 
 kr,T. d1 ad. et Devonsbire. Montagu Coli. 
 
@@ -5509,7 +5509,7 @@ o,y. 2 a<i. et N. Europe.
 Purcbased. 
 
 pull, st.* 
-q'. $ ad. st. N. Europe. J. Brenebley, Esq. [P.]. 
+q'. $ ad. sk. N. Europe. J. Brenebley, Esq. [P.]. 
 
 [var.]. 
 
@@ -5601,7 +5601,7 @@ Tetrao tetrix albus, Meyer\ Unser Alter-. Rackel- und Birhwüd. etct
 p. 75, pl. xiv. (1887). 
 Tetrao albus tetrix, Meyer, Unser Auer~, Rachel- und Birkmid, rtc. 
 p. 81, pl. xv. (1887). 
-a. <$ ad. st. Norway. Prof. R. Collett [P/;. 
+a. <$ ad. sk. Norway. Prof. R. Collett [P/;. 
 Eybrid between Lyrnruß tetrix and Tetrastes bona^Ia* 
 
 Tetrao bonasides, Miss. Skand. Faun. L p. xxxii (1S24|. 
@@ -5960,11 +5960,11 @@ Purchased.
 c. J ad. sk. - Scotland. 
 Montagu Coli. 
 d. 
-2 ad. st. Perthshire. Lt.-Col. L. H. Irby 
+2 ad. sk. Perthshire. Lt.-Col. L. H. Irby 
 [P/j. 
 e. /. <$ ad. et Killin, Perthshire, Dec. Marquis of Breadalimm. 
 sk. hane [P.]. 
-g, h. (S ? ad. st. Ballinluig, Perthshire, March. Baron A. von Hügel 
+g, h. (S ? ad. sk. Ballinluig, Perthshire, March. Baron A. von Hügel 
 
 i-r. $ 5 ad. et Buchanty, Perthshire, Nov. C. H. Drummond 
 pull, st. Moray, Eaq. [P.]. 
@@ -6224,7 +6224,7 @@ round tho eye searlet; bill black, much smallcr thanin T. urogallus;
 toes dark grey. Total length 35 inchos, wing 15, tail 14*8, 
 tarsus 2*7. 
 
-Aclult female. Eeathers of the top of tho head rufous, marked 
+Adult female. Eeathers of the top of tho head rufous, marked 
 with black spots giossed with blue and tipped with white ; back of 
 the neck barred with rufous, black, and white ; back and Upper tail-
 coverts black, fmely barred with rufous and irregularly edged with 
@@ -6471,7 +6471,7 @@ et st.
 
 [0.]. 
 
-g, h. <$ ad. st. et North Land Exp. 
+g, h. <$ ad. sk. et North Land Exp. 
 
 Admiral Sir Gr. Back 
 
@@ -6489,7 +6489,7 @@ W. Nelson).
 flk. (E. W. Nelson). 
 tn-q. $ ad. sk. et Fort Simpson, April. B. R.Ross;Esq.[P.]. 
 
-5 ad. st. 
+5 ad. sk. 
 
 r. $ ad. sk. Fort Simpson, March (B. R. A. Murray, Esq. [P.], 
 5. § ad. sk. Jaspers JETouse, May. 
@@ -6629,7 +6629,7 @@ white marks on the feathers of the underparts are nearly all heart-
 shaped; and the outer primaries are tipped with buff, and even 
 more acute than in the adult. 
 
-Aclult female. Differs from the male in haying the head and neck 
+Adult female. Differs from the male in haying the head and neck 
 barred with black and buff and tipped with sandy ; mantle black, 
 with a subterminal buff bar, and mottled with sandy at the extremity; 
 lower back, rump, and Upper tail-coverts mottled witb rufous grey 
@@ -6833,7 +6833,7 @@ the wing-coverts.
 76 
 TETRA02OTJ3. 
 
-Aclult female. Only to be distinguisbed from tbe feciale oi B. 
+Adult female. Only to be distinguisbed from tbe feciale oi B. 
 ohscurvs by baying a narroyrer grey band across tbe tip of tbe taii. 
 5«J . Nortbern Eocky Mountains near Pacific coast, from California 
 to Sitka. 
@@ -6878,7 +6878,7 @@ Canace obscura riebardsoni, Cones, Key* p. 579 (1B84).
 Dendragapus obscurus riebardsoni, Jtiäqtc. P. L\S, Xat* Mus, viii. 
 p. 355 (1885); A 0. CT. CA**-/, p. "171 (1886); I?%», Man. 
 p. 196 (1887). 
-Aclult male. Easily distinguished from D. obscurus and Ä/tfltginosus 
+Adult male. Easily distinguished from D. obscurus and Ä/tfltginosus 
 by baving tbe tail uniform blacfc, withont auy grey band 
 across tbe extremity, tbougb tbe tips of tbe foatbera have aarrow 
 grey margins; tbe tail, moreover, is squarer, tbe outer fettbers 
@@ -7204,7 +7204,7 @@ Nat. Mus. x. pp. 200, 235 (1887) [N. California].
 Sage Cock, Elliot, Mon. Tetr. pl, xiii. (1865). 
 
 
-Aclult male. Greneral colour above black, very irregularly barrcd, 
+Adult male. Greneral colour above black, very irregularly barrcd, 
 mottled, and marked witb sandy grey, buff, and rufous, some of the 
 featkers, especially the wing-coverts, scapulars, and socondaries, 
 irregularly barred witk white and the former with white shaft-
@@ -7229,7 +7229,7 @@ coloured; and most o£ tke markings on the new feathers of tho
 iipper parts are warm rufous buff instead of sandy whitish buff as 
 in tke old ones. 
 
-Aclult female. Differs from tke male chiefly in having the chin 
+Adult female. Differs from tke male chiefly in having the chin 
 and tkroat white, and the fore part of the neck spotted with 
 VOL. xxn. & 
 
@@ -7353,7 +7353,7 @@ a,b. 5 ad.sk. et st. Fort Simpson. B.R.Ross,Esq.[P.].
 c. J ad. sk. Fort Resolution, May Sabin-Godman Coli. 
 (£. Clark). * 
 
-d. $ ad. st. Repulse Bay. Dr. J. Eae [P.]. 
+d. $ ad. sk. Repulse Bay. Dr. J. Eae [P.]. 
 e. $ 
 ad. sk. Northern Land ExpediAdmiral 
 Sir G. Back [P.]. 
@@ -7453,7 +7453,7 @@ California west of the Rocky Mountains to Port Yukon, Alaska.
 
 a. Imm. sk. Oanada. Government of Canacla 
 [P.]. 
-b. Acl. sk. Iludson's Bay. Hudson Bay Co. [P.]. 
+b. Ad. sk. Iludson's Bay. Hudson Bay Co. [P.]. 
 Fort Dufferin. N. American Bouudary 
 c-/. $ acl. et imm. 
 
@@ -7634,7 +7634,7 @@ iL p. 17 (1885) [Colorado]. _
 
 *V COJ\ Auk, vi. p. 117(lte89) [X Brunswick];~Thompson, P. Z7.& 
 iVdtf. JfW. xiii. p. 508 (löOl) [E. Manitoba].* 
-AfJult male. General colour above rufous or grey, but every 
+Adult male. General colour above rufous or grey, but every 
 intermediate stage of coloration between the two can be foimd ; top 
 of tbe head barred wifch blaek; featbers of tbe short crest mostly 
 blaek, tbose of tbe mantle mostly tipped and mixed witb buff and 
@@ -8045,7 +8045,7 @@ and blaek, with a wide subterminal blaek band and white tip.
 
 Total length 14 inches, wing 6*5, tail 4*9, tarsus 1*3. 
 
-Aclult female differs chieüy from the male in having the chin and 
+Adult female differs chieüy from the male in having the chin and 
 
 throat mostly white and in being slightly smaller. 
 
@@ -8093,7 +8093,7 @@ a<l- et
 
 l-o. <$ 2Helsingfors, Finland, March. Dr. F. W. Forsseil 
 imm. sk. [0.]. 
-p, q. 2 ad. st. Bussia. Purchased. 
+p, q. 2 ad. sk. Bussia. Purchased. 
 
 r. 5 ad. sk. [var.]. 
 J. Brenchley, Esq,
@@ -8698,7 +8698,7 @@ ranges of Cashmere and LadakJ ; David, N. Arch. Mus. Bull. vii.
 
 p. 11, no. 360(1871). 
 Lerwa lerwa, Hartert, Kat. Mus. Senchenh. p. 195 (1891). 
-Aditlt male andfemale. Head, neck, and the whole of the upper 
+Adult male andfemale. Head, neck, and the whole of the upper 
 parts black, with narrow cross bars of white, except on the upper 
 back and wing-coverts, where they are buff or rufous. The outer 
 secondaries, scapulars, and some of the outer seeondary coverts are 
@@ -9152,7 +9152,7 @@ with a pair of stout blunt spurs. Total length 25*5 inches, wing
 
 12-6, tail 7-8, tarsns 2-8. 
 
-Aclult female. Scarcely differs in plumage from the male, but the 
+Adult female. Scarcely differs in plumage from the male, but the 
 
 spurs are absent, and generally the fcathers on the front part of the 
 
@@ -9864,7 +9864,7 @@ a. Ad. sk. Zante, lonian Islands. Sir Chaiies Fellowes
 [P.]. 
 b, c. Ad. sk. Gi'ecian Archipelago. Gould Coli. 
 d-h. d $ ad. sk. Oyprus, April, May, Nov. Lord Lilford [PA 
-h & d $ ad. st. El Busrah, Palestine. Canon Tristram [C.]. 
+h & d $ ad. sk. El Busrah, Palestine. Canon Tristram [C.]. 
 I Imm. sk. [var.]. Sniyrna, Asia Minor. It. Cuniberbatch, 
 
 Esq. [P.l. 
@@ -9909,7 +9909,7 @@ e', Ad. sk. Khelät, Baluchistan, Nov. Hume Coli.
 Sindh, Jan. (A. 0. &.). 
 
 4. GACCABIS. 117 
-c? ad. st. 
+c? ad. sk. 
 A'. Ad. sk. 
 
 i'. Ad. sk. 
@@ -10352,7 +10352,7 @@ Oaccabis barbara, Sclat. P. Z. S. 1859, p. 436.
 Oaccabis (Alectoris) petrosa, Gray, List Gallince Brit. Mus. p. 81 
 (1867) ; id. Hand-l B. ii. p. 275 (1870). 
 
-Aclult male and female. Differ from G. saxatilis in having the 
+Adult male and female. Differ from G. saxatilis in having the 
 top of the bead very dark chestnut; the outer scaptilars margined 
 with bright chestnut; the ear-coverts dark chestnnt; the lores, 
 chin, throat, and sides of the face grey, like the superciliary stripes ; 
@@ -10596,7 +10596,7 @@ L $ ad.sk. Candahar, Jan. Lieut.-Col. Swinhoe
 w. 
 <£ ad. sk. Kharez-dasht, Nov. (J. Ait-Afghan Boundary 
 cht SÖ9? l öonxm. [P.]. 
-n-s. $ $ ad. st. BolanPass(TF. Grißth). India Museum [P.]. 
+n-s. $ $ ad. sk. BolanPass(TF. Grißth). India Museum [P.]. 
 etjuv.sk. 
 t, u. <$ J ad. sk. Khelat, May (0. T. Duke). Hume Coli. 
 
@@ -10621,7 +10621,7 @@ y\ S ad. sk. Loodhiana ( W. Griffith). India Museum [P.].
 *', a". 6 $ ad. [Thibet.] Tweeddale Coli. 
 
 
-i". 2 ad. st. [Thibet] Lord Gifford [P.l 
+i". 2 ad. sk. [Thibet] Lord Gifford [P.l 
 c". c? ad. sk. No locality. Gerald Coli. 
 
 
@@ -10679,7 +10679,7 @@ Hab. Both sides of the Red Sea, extending north to the Dead
 Sea, and westwards to Egypt and Nubia, about as far south as 20° 
 of N. latitude, and eastwards to Muscat, Persian Gulf. 
 
-a,b. S $ ad. st. N. Africa. Purchased. 
+a,b. S $ ad. sk. N. Africa. Purchased. 
 c. $ ad. sk. Dendor, Nubia. Dr, Adams [P.]. 
 d. 5 ad. sk. Egypt. Sir G» Wilkinson 
 e. f. S ? ad. sk.
@@ -11366,7 +11366,7 @@ $ J ad. sk. Euphrates River. Euphrates Expedition
 
 v. $ ad. sk. Fao, Persian Gulf, June. W. D. Oumming, 
 Esq.[P.]. 
-w, x. S ? ad. st. Persia. Sir K. Loffcus [P.l 
+w, x. S ? ad. sk. Persia. Sir K. Loffcus [P.l 
 
 
 y. 
@@ -11718,7 +11718,7 @@ Butler).
 d. & ad. sk. Ahmedabad,Feb. (& C. Spry).Hume Coli. 
 e. S ad. sk. Mt. Aboo, May. Hume Coli. 
 /. $ ad. sk. Neemueh, Aug. Major Yerbury [P.l 
-g. <$ ad. st. [N.W. Provinees.] Capt. S. Pinwill [P.]. 
+g. <$ ad. sk. [N.W. Provinees.] Capt. S. Pinwill [P.]. 
 h-n. 
 S ? ^d. sk. Jhansie Dist., May, Aug., Hume Coli. 
 Oct. (A. 0. JET.). 
@@ -12200,9 +12200,9 @@ J. H. Ghirney, Esq. rp.l
 p. Juv. sk. Durban, March (G. F. Ä). Shelley Coli. 
 & r. d1 $ ad. sk. Pinetown, March, June (G. Shelley Coli. 
 F. S. % T. L. Ayres). 
-s. $ ad. st. Cape of Grood Hope. Purchased. 
+s. $ ad. sk. Cape of Grood Hope. Purchased. 
 t 
-<J ad. st. S. Africa. Gould Coli, 
+<J ad. sk. S. Africa. Gould Coli, 
 cj imm. sk. Daruaraland. Shelley Coli. 
 
 ut 
@@ -12372,7 +12372,7 @@ N.E. of Sir A. Smith [O.J.
 (Type of the species.) 
 f. <J imm. sk. Lehtaba, UmzeihVs Country, J. H. Grurney, Esq. 
 M&y (W. Ayres). [P.]. 
-g% $ ad. st. South Africa. 
+g% $ ad. sk. South Africa. 
 
 x2 
 
@@ -12741,8 +12741,8 @@ E. B. Sharpe [P.].
 c. J ad. sk. Potekefstroom. F. A. Barratt, Esq. [PA 
 d. S ad. sk. Drakensberg Mts., Fatal. W. H. Cobley, Esq. (PA 
 e,f. 6 $ ad. sk. Cape Colony (JE. A. Butler), Shelley Coli. 
-g. $ ad. st. Cape of Good Hope. Hardwicke Bequest. 
-h. <$ ad. st. Cape of Good Hope. J. E. Eeeves, Esq. [P.]. 
+g. $ ad. sk. Cape of Good Hope. Hardwicke Bequest. 
+h. <$ ad. sk. Cape of Good Hope. J. E. Eeeves, Esq. [P.]. 
 i, h. S ? ad. sk. S. Africa. J. Eocke, Esq. HP.]. 
 I. $ ad. sk. S. Africa. Mrs. Stirling [P.J. 
 m. J ad. sk. S. Africa (Lagard). Shelley Coli. 
@@ -12995,7 +12995,7 @@ June (G /. Andersson).
 Benguela. 
 II. Gumey, Esq. [PA 
 J. J. Monteiro, Esq. 
-/ . $ ad. st. Western South Africa.
+/ . $ ad. sk. Western South Africa.
 [0.]. 
 Purehased. 
 
@@ -13013,7 +13013,7 @@ J '
 Francolinus shelleyi, Grant, Ibis, 1890, p. 348; Schaech, Mem. Soc. 
 Zool Fr. iv. p. 77 (1891); Grant, Ibis, 1892, p. 45. 
 
-Ad alt male. Similar to F. gariepensis, but, as in F. jugularis, 
+Adult male. Similar to F. gariepensis, but, as in F. jugularis, 
 there is a pateh of black and white feathers at the base of the throat, 
 tne ehest is chestnut, the terminal part of the inner web of each 
 feather being pale buff, barred with black, and the tip grey. The 
@@ -13201,7 +13201,7 @@ e,f. Ad. et inun.
 Sept. (C. J. Andersson). 
 Western S. Africa. Zoological Soc. Coli. 
 sk. 
-g. S ad. st. Western S. Africa. 
+g. S ad. sk. Western S. Africa. 
 
 27. Francoliiras griseostnatus. 
 Francolinus 
@@ -13309,7 +13309,7 @@ L S ad. sk. Shonga. W.A. Forbes, Esq. [P.].
 k-m. S ? ad. et West Africa. Purchased. 
 
 juy. sk. 
-n, o. $ $ ad. st. West Africa. 
+n, o. $ $ ad. sk. West Africa. 
 
 p. 
 Skeleton. 
@@ -13503,7 +13503,7 @@ Ckoetopus rüppelli, Bonap. C. B. xlii. p. 882 (1856).
 Francolinus skarpii, Grant, Ibis, 1892, p. 47. 
 
 
-Aclult male and female. Upper parts and wings as in F. clagjpertoni, 
+Adult male and female. Upper parts and wings as in F. clagjpertoni, 
 but the general eolour is browner, the back, scapnlars, and 
 wing-coverts are regularly edged with whitish buff like the mantle, 
 and only the longest scapnlars have irregulär buff bars• the inner 
@@ -13533,7 +13533,7 @@ d-g. c? 2 ad. sk. Waliko, Bogosland, July, Aug. Tweeddale, Salvin
 Colls. 
 h. $ ad. sk. Senafe', Tigr<§, Abyssinia, May Shelley Coli. 
 (W. Jesse). 
-i,k. <5 $ ad. st. Abyssinia. Purchased. 
+i,k. <5 $ ad. sk. Abyssinia. Purchased. 
 l,m. <$ $ ad. sk. Shoa (Harris). India Museum [P.]. 
 n. Skeleton. 
 34. EraBcolinus capensis. 
@@ -13600,7 +13600,7 @@ Hab. South Africa: Cape Colony, extendmg to the Orange River;
 Robben Island. 
 a, b. cj 2 ad. sk.
 c ,d. S ? ad. sk.
-e. 2 ad. st. 
+e. 2 ad. sk. 
 S. Africa. 
 S. Africa (T. C. Atmore). 
 S. Africa. 
@@ -13608,7 +13608,7 @@ Mrs. Stirling [P.l
 Shelley Coli. 
 / . Pull. sk.
 g. Pull. sk.
-Ix. d ad. st. 
+Ix. d ad. sk. 
 Cape of Good Hope. 
 Cape of Good Hope. 
 Cape of Good Hope. 
@@ -14045,7 +14045,7 @@ wincr 5*1, tail 4*4» tarsus 2*1.
 Hab. X.E. Africa: Bogos, Eastern Abyssinia to Shoa, and 
 westwards to TTogara, 2500 to 11,000 feet. 
 
-Ö, h. ß 2 ad. st. Abyssinia. 
+Ö, h. ß 2 ad. sk. Abyssinia. 
 ef d, c? ad. sk. Abyssinia ( TT. Jesse). Hume and Salvin-
 Godman Colls. 
 
@@ -14237,7 +14237,7 @@ b. ß ad. sk. Cape Colony.
 Hardwicke Bequest 
 
 c. $ ad. sk. Cape of Good Hope. 
-d. $ ad. st. Cape of Good Hope. 
+d. $ ad. sk. Cape of Good Hope. 
 e,f. ? imm. sk. South Africa. Shelley Coli. & J. Rocke, 
 Esq. HP.]. 
 Mrs. Stirling [P.]. 
@@ -14481,7 +14481,7 @@ M)% p. 54
 Franoolimw rubricoUis, Böhm, J.f 0.1885, pp. 39, 71 [Gonda]. 
 Francolin&j boekmi, Schaeck^ Mim. Soc. Zool. Fr. iv, p. 324 (1891). 
 
-Atlult male and female. Upper parts as in P. cranchi; npper breast-
+Adult male and female. Upper parts as in P. cranchi; npper breast-
 f catliers white witk black skaft-stripes and vermiculated witk black, 
 ihme of tke bclly wkite witk black skatt-stripes and wide reddiskbrown 
 margins, witk small submarginal black bands. Faked skin 
@@ -14559,7 +14559,7 @@ S. Africa.
 J. EL Gurney, Esq. [P.] 
 X IL Gurney, Esq. [P.j, 
 P. A. Barratt, Esq. [P.J. 
-/ . $ ad. st. S Africa. 
+/ . $ ad. sk. S Africa. 
 
 7. Ptemistes rufopictus. 
 Ptemistes rufopictus,'Reich.J.f. 0.1887, p. 52 [Wembaere] ,* Hartl 
@@ -16825,7 +16825,7 @@ Hab. Outer ranges of the Himalayas from Ohamba and the Ravi
 to the eastern border of Sikhim and possibly the Naga Hills. Ranging 
 from 5000-14,000 feet. 
 
-a. <$ ad. st. India. 
+a. <$ ad. sk. India. 
 Purchased. 
 b. 2 iinm. sk. Northern India. India Museum [P.]. 
 c. 2 ad. sk. Kotekhaie, Feb. Hume Coli. 
@@ -17007,7 +17007,7 @@ b. Ad. sk. Formosa, March {R. Swinhoe). Tweeddale Coli.
 c. <5 ad. sk. Formosa, March (R. Swinhoe). Hume Coli. 
 d. Ad. sk. Formosa, April (R. Swinhoe). Gould Coli. 
 e. 
-r? ad. st. Formosa. R. Swinhoe, Esq. 
+r? ad. sk. Formosa. R. Swinhoe, Esq. 
 CO.]. 
 
 f-l Sterna and Formosa, 
@@ -17298,7 +17298,7 @@ Hab. Mountains of Java-
 
 a. Ad, st Java. 
 Zoological Soc. Coli. 
-h. $ ad. st. Java. 
+h. $ ad. sk. Java. 
 Lidth-de-Jeude Coli. 
 «e. Juv. st. Java. Purchased. 
 d, e. <$ 5 ad. sk. Java. Salvin-Godman Coli. 
@@ -17543,7 +17543,7 @@ Arborophila sumatrana, Grant, Ann. Mag. N. H. (6) viii. p. 297
 (1891). 
 Arboricola sumatrana, Grant, Ibis, 1892, p. 398. 
 
-Aclult. Kesembles A. orientalis, but differs in having the lores 
+Adult. Kesembles A. orientalis, but differs in having the lores 
 pale brownish; no white superciliary stripe; the top of the head 
 golden brown tipped with dark brown; the back and Upper parts 
 golden brown, fringed and strongly barred with black; the ehest 
@@ -17825,7 +17825,7 @@ Male. Total length 11*8 inches, wing 5*7, tail 2*5, tarsus 1*8.
 Female. Total length 10*7 inches, wing 5-3, tail 2-3, tarsus 1*6. 
 Hab. S. Tenasserim and Malay Peninsula. 
 
-a. $ nr. ad. st. [India.] 
+a. $ nr. ad. sk. [India.] 
 India Museum [P.]. 
 b. S ad. sk. South Tenasserim, Jan. E. W. Oates, Esq. [C.]. 
 o, d. S 2 ad. sk. Bankasoon, March, April Hume Coli. 
@@ -17882,7 +17882,7 @@ c. 5 ad. sk.
 Mt. Sago, Sumatra, Sept. (C. Tweeddale Coli. 
 Bock). 
 d. $ nr.ad.sk. Sumatra (A. R. Wallace). Tweeddale Coli. 
-e. 5 ad. st. Sumatra. Purchased. 
+e. 5 ad. sk. Sumatra. Purchased. 
 /, o. <3 imm. sk. Sumatra. Wallace & Zool. Soc. 
 Colls. 
 h, i $ ad. sk. Java (Horsfield). India Museum [P.] 
@@ -18268,7 +18268,7 @@ Pinwill [P.].
 «'. ^ ad. sk. Eembaw, Malay Peninsula. W. Davi&on. Esq. 
 
 
-b'} cr. <$ § ad. st. Singapore. Purchased. 
+b'} cr. <$ § ad. sk. Singapore. Purchased. 
 
 18 . 
 COTTraNTX. 229 
@@ -19541,7 +19541,7 @@ Ci turnix
 crucijrera, lleugl Vor/. JS.O.-Afr. p. 51, no. 533 (1856); 
 id. Peterm. Geogr. Math. 18159, p. 413. 
 
-Atlult male. Differs chiefty from the maleof G. cotumix in having 
+Adult male. Differs chiefty from the maleof G. cotumix in having 
 the general eolour of the Upper parts, including the wing-eoverts, 
 blacki&h brown; the primaries uniform brown, never barred with 
 rufous or buff; the black pattern on the throat more strongly 
@@ -19611,7 +19611,7 @@ Austr. p. 289 (1889) ; Grant, Ann. May. X. JE. (6) ix. pp. 108,173
 
 Synoicus australis, Ramsay, Ibis, 1865, p. 86 [Port Denison]. 
 
-Aclult male, Upper parts as in tlie male of O. coturnix, but 
+Adult male, Upper parts as in tlie male of O. coturnix, but 
 somewhat darker, especially on the wing-coverts; superciliary 
 stiipes, sides of head, chin, throat, and fore part of neck uniform 
 dull briek-red, with out any black markings; a black patch in the 
@@ -19622,7 +19622,7 @@ primaries aro uniform brown, not barred and marked with bufF.
 Iris hazel; bill black; legs and feet pearly yinous white. Total 
 length 7 inches, wing 4-1, tail 1*5, tarsus *9. 
 
-Aclult female. Upper parts darker than in the female of G. 
+Adult female. Upper parts darker than in the female of G. 
 coturnix; sicles of the head and throat whitish buff dotted with 
 black; feathers of the ehest and breast with a black curved submarginal 
 bar on either side of the shaft, not conüuent at the 
@@ -20113,7 +20113,7 @@ Moulmein, Thoungyeen].
 
 ? Excalfactoria &p.7 Salvad. Orn. Pap. iii. p. 257 (1882). 
 
-A'htlt male. Middle of tlie head, nape, back, and rump brown, 
+Adult male. Middle of tlie head, nape, back, and rump brown, 
 with verniieulations and subterminal bars and blotches of black: 
 inoät of the feathers below the nape with whitish sbafts, widest on 
 thc lower back and rump. (In very old examples the shal't-stripes 
@@ -20718,7 +20718,7 @@ Mab. S. China; Fokien to Sze-chuen and B. Shen-si.
 a-c. S ad, et imm. China. J. II fteeves, Esq. 
 sk. [1\]. 
 
-d. P ad. st. China. J. II. lleeves, l^q_. 
+d. P ad. sk. China. J. II. lleeves, l^q_. 
 e. S ad. sk. China. Gould Coli. 
 /. P ad. sk. Foockow, Mav (JB. Swinhoe). Tweeddalo < 'oll. 
 g. $ ad. sk. Shanghai, Jan. F. W. Ötyan, Ebq. 
@@ -20756,7 +20756,7 @@ a,b. $ 2 ad. sk. North Formosa, March (i?. Tweeddale Coli.
 Sioinhoe). 
 
 c. J ad.sk. North Formosa (B. Swinhoe). Hiime Coli. 
-d, e. (S ad. st. Formosa. It. Swinhoe. Esq. 
+d, e. (S ad. sk. Formosa. It. Swinhoe. Esq. 
 [Gl 
 
 23. GALLOPEBDIX. 
@@ -21116,7 +21116,7 @@ Galloperdix bicalcaratua, Hume, Str. F. \ ii. pp. 430, 4-"53 (1878);
 Hume # Marsh. Game B. Lid. i. p. 201, pl. (Ib7ö); Ortfrs, e<£ 
 ifttwe's Xebts $ Bggs, iii. p. 426 (1890). 
 
-Aclult male. Top of tko head, back and sides of tlio neck, mantle, 
+Adult male. Top of tko head, back and sides of tlio neck, mantle, 
 sides, and flanks black, each feather, espeeially of the tlirco last, 
 with. a wide white shaft-sttipe; lower back and runrp daik 
 chestnat finoly mottled with black; wing-coyeits and scapiilarb the 
@@ -21133,7 +21133,7 @@ red. Tarsi armed with two pairs of long spnrs, a third pair being
 sometimes present. Total length 12 inches, wing 0 1, tail 4*5, 
 tarsus 2. 
 
-Aclult ftmale. Head blackish ; feathers of the forehead and sicles 
+Adult ftmale. Head blackish ; feathers of the forehead and sicles 
 of the head with pale rufous centres : chin and throat white ; quills 
 and tail very similar to those of the male, but the lattcr has the 
 feathers slightly mottled with rufous. liest of the plumage chestnut, 
@@ -21386,7 +21386,7 @@ is greyish above, brownish below, all the feathers with pale shaft-
 stripes with scarcely a trace of greon, and the quills and tail-
 feathers are dark brown, mottled with rufous and buff. 
 
-Aclultfemale. Front and sides of the head, chin, and throat* 
+Adultfemale. Front and sides of the head, chin, and throat* 
 rust-eolour, back of the head and nape slate-grey, Upper parts 
 pale brown, finely mottled with blackish brown; quills dark 
 brown, the secondaries mottled with pale rufous buff on the outer 
@@ -22183,7 +22183,7 @@ t". S ad. sk.
 u", v". J $ imm. sk. 
 w"-y", £ imm. sk. 
 
-z". $ ad. st. 
+z". $ ad. sk. 
 ß33
 
 -e. Juv. sk. et 
@@ -22537,9 +22537,9 @@ inches, wing 8*4, tail 54 , tarsus 2-8.
 
 Hab. Southern part of the Halay Peninsula, and Sumatra. ?Java. 
 
-a. J ad. st. Indian Archipelago. Capt. Sir E. Belcher 
+a. J ad. sk. Indian Archipelago. Capt. Sir E. Belcher 
 [P.]. 
-b. J ad. st. Indian Archipelago. J. Kightingale; Esq. 
+b. J ad. sk. Indian Archipelago. J. Kightingale; Esq. 
 c-e. <$ $ ad. sk. Keddah, Malay Peninsula India Museum [P.]. 
 (Dr. Cantor). 
 
@@ -22606,7 +22606,7 @@ Hab. Sarawak, Borneo.
 
 #, b. <5 $ a^-9^- Baram, Sarawak, June, Aug. C. Hose, Esq. [C.l. 
 c, d. tf ad. sk. Sarawak. Kajah Brooke [P.\ 
-e,f. $ J ad. st. Sarawak. Kajak Brooke [P. j. 
+e,f. $ J ad. sk. Sarawak. Kajak Brooke [P. j. 
 
 g. 
 <$ ad. sk. Sarawak. A. R. Wallace, Esq. 
@@ -22827,7 +22827,7 @@ Penang (Dr. Cantor). India Museum
 a'-c'. 
 d2 ad. et Proy. Wellesley (Dr. Cantor). India Museum mimm. sk. 
 
-d'. $ ad. st. Malacca. 
+d'. $ ad. sk. Malacca. 
 Cuniing Coli. (Type 
 
 of JE. vieüloti, Gray.) 
@@ -23002,7 +23002,7 @@ Hab. Borneo.
 a. 
 § ad. sk. Elopura, N. Borneo, April Tweeddale Coli. 
 (W.B.Pryer). 
-b-e. $ $ ad. st. Sarawak, Borneo. Hajah Brooke [P.]. 
+b-e. $ $ ad. sk. Sarawak, Borneo. Hajah Brooke [P.]. 
 et sk. (Types of the species.) 
 f,g. 6% ad. sk. Sarawak. Sir H. Low [C] 
 
@@ -23091,12 +23091,12 @@ Sab. Shan States, Siam, Cambodia, and Cochin China.
 
 a, b. <5 $ ad. sk. Siam. Sir R. Schomburgk [P.]. 
 
-c-e. <S $ ad. st. et sk. Siam. Zoological Society's Coli. 
+c-e. <S $ ad. sk. et sk. Siam. Zoological Society's Coli. 
 f-i. (5 juv. et 2 ad- sk. Cambodia, July. M. E. Pierre [P.]. 
 
 Sybrid between Lophura diardi and Grennaeus lineatus. 
 
-a. $ ad. st. England. Zool. Soc. Coli. 
+a. $ ad. sk. England. Zool. Soc. Coli. 
 30. 
 LOBIOPHASIS. 
 Type. 
@@ -23175,7 +23175,7 @@ Hab. Borneo*
 a. $ 
 ad. sk. Mountains of Lawas R., Sara- Governo£Bulwer[P.l 
 wak. m (Type of the species.) 
-b, c. c? ad. st. et Lawas River. Governor Ussher[0.1 
+b, c. c? ad. sk. et Lawas River. Governor Ussher[0.1 
 2 ad. sk. 
 d, e. (S $ imin. sk. Lawas River. Governor Ussher [C.]. 
 (Types of L. castaneicaudatus, Sharpe.) 
@@ -23340,11 +23340,11 @@ black glossed with rieh purplish blue ; the lateral webs of the central
 pairs are very long and free, and the extremities are much curved. 
 Naked sides of the face scarlet; bill light reddish horn-eolour; legs 
 red. Total length about 41 inches, wing 12*7, tau 22*6, tarsus 4-1. 
-Aclult female. Eesembles the male, but has no spurs. 
+Adult female. Eesembles the male, but has no spurs. 
 Hab. Mountains of Mantchouria and Pechi-li. 
 
 a. S ad. sk. N.W. China. Gould Coli. 
-b-d. S ? ad. st. Mountains N.W. of Pekin. Hon. Sir F. W. A. Bruce, 
+b-d. S ? ad. sk. Mountains N.W. of Pekin. Hon. Sir F. W. A. Bruce, 
 et 2 ad. sk.
 e,f. Pull. st. England. 
 K.O.B. [P.l. 
@@ -23366,7 +23366,7 @@ Orossoptilon caerulescens, David, MS.; Mihie-Edw. C. R. lxx. p. 538
 (1870) [Sze-chuen]; id. Ann. Mag. N. H. (4) v. p. 308 (1870); 
 David, N. Arch. Mm. Bull. vii. p. 11 (1871) [Koko-nor]. 
 
-Adiilt male. Top of the head covered with short, soft, veivety 
+Adult male. Top of the head covered with short, soft, veivety 
 black feathers; lores, chin, throat, and elongate ear-patches white ; 
 rest of the upper and under parts slate-grey; an indistinct white 
 band divides the black of the top of the head from the grey of the 
@@ -23733,7 +23733,7 @@ Euplocamus leucomelanus, Hume, Str. F. vii. p. 428 (1878); Hume
 $ Marsh. Game B. Ind. i, p. 185, pl. (1878). 
 Gallophasis leucomelanus, Scully, Str. F. viii. p. 345 (1879) [Nepal]. 
 
-Aclult male. Plumago like that of G. albocrisiatus, but the crest is 
+Adult male. Plumago like that of G. albocrisiatus, but the crest is 
 black glossed with purplish blue, and the terminal white bars to the 
 rump and Upper tail-coverts are usually narrower. Size smaller. 
 
@@ -23816,7 +23816,7 @@ g'-q'. <$ ? ad. et Darjeeling. Hume Coli.
 imm. sk. 
 rl, s'. $ ad. et $ Daijeeling. Gould Coli. 
 imm. sk. 
-£, u'. <$ 2 ad. st. Darjeeling. B. H. Hodgson, Esq. 
+£, u'. <$ 2 ad. sk. Darjeeling. B. H. Hodgson, Esq. 
 
 [p.]. 
 
@@ -23832,7 +23832,7 @@ d". J ad. sk. Low er Hills, Bliootan Hume Coli.
 
 
 Doars, Jan. (L. Mandelli). 
-e"~g". ? ad. st. et No loeality. Zool. Soc. Coli. 
+e"~g". ? ad. sk. et No loeality. Zool. Soc. Coli. 
 imm. sk. 
 h". Skeleton. 
 
@@ -23842,7 +23842,7 @@ See p. 284.
 
 Hybrid beUveen Gennseus muthura and Phasianus colchicus. 
 
-a. S ad. st. Hampshire. P. L. Sclater, Esq. [PJ. 
+a. S ad. sk. Hampshire. P. L. Sclater, Esq. [PJ. 
 4. Gennsens horsfieldi 
 Sylhet Pkeasant, Latli. Gen. Ilist. viii. p. 208 (1823). 
 Y Phasianus lathami, Gray, in Griff, ed. Cttv. iii. p. 2Q (1829;. 
@@ -23878,7 +23878,7 @@ tail-feathers.
 
 Hab. Eastern Bhootan, Assam, Sylhet, Cachar, Manipur, Hill 
 Tipperah, Chittagong, and F . Arrakan; also at Bhämo. 
-a-c. cJ 5 ad. st. et Bhootan. India Museum [P.]. 
+a-c. cJ 5 ad. sk. et Bhootan. India Museum [P.]. 
 
 <5 ad. sk. 
 
@@ -24183,7 +24183,7 @@ crawfurdi, Hume fy Davison, Str. F. vi. pp. 437, ö21
 (1878) [Dargwin, N. Tenasserim]; Hume & Marsh. Game B. Ind. 
 
 i. p. 203, pl. (1878). 
-Aclult male. DifFers from the adult male of G. lineatus in having 
+Adult male. DifFers from the adult male of G. lineatus in having 
 every feather o£ the mantle and wing-coverts regalaiiy marked on 
 each web with about ten alternate black and white concentric bands; 
 it differs from the adult male of G. davisoni in having the tail 
@@ -24321,10 +24321,10 @@ underparts are finely vermiculated with blackish.
 Plab. Bonth China, Fokien, Chekiang. 
 
 a, b. <$ imm. sk. & Canton, China. •— Beale, Esc[. [P.]. 
-5 ad. st. 
+5 ad. sk. 
 c-f. $ imm. et China. Purckased. 
 pull. sk. 
-g. <S ad. st. Richmond, Surrey. Dr. Dowler [P.]. 
+g. <S ad. sk. Richmond, Surrey. Dr. Dowler [P.]. 
 h. $ imm. sk. S. Wales. Viscount Emlyn [P.]. 
 i. Skeleton. 
 7c. Sternum. 
@@ -24682,7 +24682,7 @@ duvauceli, Bonap. C. F. xlii. p. 879 (1856) ; Gray, Cat.
 Hodgs. ed. 2, p. 68 (1863); EÜiot, Mon. Fhas. i. pl. 29 (1872); 
 id. Ibis, 1878, p. 125. 
 
-Aclult male. DifFers chiefly from F. macrolopha in having the 
+Adult male. DifFers chiefly from F. macrolopha in having the 
 feathers of the mantle, sides ancl flank s black, more or less narrowly 
 edged with grey, the feathers of the Lack ancl sides of the neck and, 
 in some cases, the mantle edged and mixed with dark chestnut, and 
@@ -24708,7 +24708,7 @@ p. 138 (1877) j Flliot, Ibis, 1878, p. 125 *.
 Pucrasia duvaucelii, Gray, Hand-l. B. ii. p. 259 (1870) j Marsh. Ibis, 
 1879, p. 463 [N. Afghanistan]. 
 
-Aclult male. Differs from P. macrolopha in having the npper part 
+Adult male. Differs from P. macrolopha in having the npper part 
 of the mantle and neck dark chestnut like the rest of the nnderparts; 
 most of the feathers of the sides and üanks chestnnt or 
 chestnut mixed with black, only a few being black narrowly edged 
@@ -24733,7 +24733,7 @@ Pucrasia meyeri, Madaräsz, Ibis, 1886, p. 145 [Central Thibet].
 Pucrasia darwinii, Oustal. (nee Sioinh.) Le Nat. 1886, p. 276 [Yerka-
 lo, Upper Mekong-]. 
 
-Aclult male. Differs from the male of P. xanthospila in having 
+Adult male. Differs from the male of P. xanthospila in having 
 "the upper tail-coverts fawn-colour, striped and freckled withblack; 
 central tail-feathers rufous, becoming whiter at the tips, with two 
 irregulär black bands on each side, margined with fawn-colour; 
@@ -25288,21 +25288,21 @@ l-n. ß 9 ad. sk *
 
 o, j}. Pull, st. 
 
-#, r. J ad. st. assuming 
+#, r. J ad. sk. assuming 
 male pliiniage* 
 
 s. 
-2 ad. st. as^uinlBgmale pluniage. 
+2 ad. sk. as^uinlBgmale pluniage. 
 t. ß ad. &t. 
-«, 27. d* $ ad. st. "pale 
+«, 27. d* $ ad. sk. "pale 
 rar.]. 
 ?r. $ ätl. st. "pale var.]. 
 
 x. 
-o ad. st. "albino var."*. 
+o ad. sk. "albino var."*. 
 Vt -- d 5 ad. st 
 
-af. cf ad. st. 
+af. cf ad. sk. 
 
 //. *J ad. sk.* 
 
@@ -25310,8 +25310,8 @@ c. 2 ad. >t as^ummg
 mal*.* pliimafre. 
 d\ c «d. st. jMile var.]. 
 e****/. Pull. Ht. 
-/i'. tf ad. st. 
-i*. cf ad. st. rvar.". 
+/i'. tf ad. sk. 
+i*. cf ad. sk. rvar.". 
 k\ $ ad. «4t. [/eiui-albino 
 
 %ar.\ 
@@ -25467,21 +25467,21 @@ a, h. <$ ad. sk. (1 st croaa).")
 
 c. <$ ad. ak. (2nd cross). >• England. Gould Coli. 
 d. d ad.sk. (3rd cross). J 
-<?,/". d 2 ad. st. England. Gould and Zool. boc. 
+<?,/". d 2 ad. sk. England. Gould and Zool. boc. 
 ,l/
 
  ° Colls. 
 
 Hybrid between P. colchicus «wcZ P. reevesi. 
 
-«. d ad. st. SufTolk, Dec. Lord Lilford [P.]. 
+«. d ad. sk. SufTolk, Dec. Lord Lilford [P.]. 
 b-e. d imm. et pull. st. Zool. Soc. Coli. 
 
 Hybrid between P. colchicus and Chrysolophus pictus. 
 
-a. $ ad. st. England. Dr. Thackeray [P.]. 
-b. d ad. st. England. Zool. Soc. Coli. 
-c. d ad. st. England. Purehased. 
+a. $ ad. sk. England. Dr. Thackeray [P.]. 
+b. d ad. sk. England. Zool. Soc. Coli. 
+c. d ad. sk. England. Purehased. 
 d. Skeleton. 
 
 Hybrid between P. colchicus and Gallus domesticus (ßpanish Foivl). 
@@ -25811,7 +25811,7 @@ Kuldja and Ebi-nor],
 Phasianus mongolicus semitorquatus, Pleske, Bull. Acad, 8t. Petersb. 
 
 xiii. p. 295 (1892) [Prov. of Gutchen and Urumtsi]. 
-Aclalt male. Differs from the male of P. mongolicus in having ilie 
+Adult male. Differs from the male of P. mongolicus in having ilie 
 mantle, uppor tail-coverts, ehest, and upper breast glossed with 
 green instead of purple-carniine, and the white ring more widely 
 interrupted across the fore part of the neck. 
@@ -26075,7 +26075,7 @@ St. Helena.
 G. C. Norman, Esq. 
 [P.]. 
 Gould Coli. 
-s. J ad. st. 
+s. J ad. sk. 
 t. $ skeleton.
 Capt. Sir E. Beklier, 
 R.N. [P. . 
@@ -26172,7 +26172,7 @@ a,b. <J 2 ad.sk. Japan. Gould Coli
 c,d. 6 $ ad. sk. Japan. B. Hartert, E*q. E.\ 
 
 e. J ad-s^* Japan. fc ChaJh'nper? jfcsp. 
-fg. <$ 2 ad. st. Japan. Äscii St«*. Coli-
+fg. <$ 2 ad. sk. Japan. Äscii St«*. Coli-
 A. <J ad. st Japan. 
 Fiirclia#i*tL 
 e. c? ad. sk. Hakodadi, Feb. Twt*eddaU> Coli. 
@@ -26195,7 +26195,7 @@ Gouid, JB. Asia, TO. pl. 23 (1874).
 Gallophasis ellioti, BJume, Ibis, 1881, p. 608. 
 
 
-Aclult male. Top o£ the head sandy brown mixed with chestnut; 
+Adult male. Top o£ the head sandy brown mixed with chestnut; 
 nape and back of the neck grey, shading into white on the sides; 
 chin, throat? and fore part of neck black, slightly glossed with 
 pnrple ; a band of black feathers widely tipped with white divides 
@@ -26338,10 +26338,10 @@ chestnut tipped with white, and with a subterminal black band.
 Total length 21 inches, vring 8-1, tail 7*5, tarsus 2-1. 
 Hab. Japanese islands of Hondo and Kiu-siu. 
 
-a. tf ad. st. Japan. Leyden Museum [P.]. 
-b,c. *S 5 ad. st. Japan. Purchased. 
+a. tf ad. sk. Japan. Leyden Museum [P.]. 
+b,c. *S 5 ad. sk. Japan. Purchased. 
 d. $ ad. sk. Japan. Tweeddale Coli. 
-e-? ad. st. Nagasaki. H. Whitely [C.j. 
+e-? ad. sk. Nagasaki. H. Whitely [C.j. 
 / , //• <$ ? ad. sk. Nagasaki. Gould Coli 
 h-k, Skeletons. Japan. Purchased. 
 A marked variety of this species has been named P. scintülans by 
@@ -26367,7 +26367,7 @@ Phasianus
 sceminerringii, var. scintillans, Elliof, Monoq. Phas. ii. 
 pl. xiii. [text] (1872) [Nagasaki]. 
 
-a. (S ad. st. Japan. Walter Langley, Esq. [P.]. 
+a. (S ad. sk. Japan. Walter Langley, Esq. [P.]. 
 b. cJ ad. sk. Japan. Tweeddale Coli. 
 c. <$ ad. sk. Japan. Gould Coli. 
 d. e. c? ? ad. sk. Hondo Is., Japan. Purchased. 
@@ -26471,13 +26471,13 @@ Hab. Mountains of Northern and Western China, as far east as
 Kiu-kiang. 
 
 a, b. $ ad. sk. China. J. R. Reeves, Esq. [P.]. 
-et § ad. st. (Types of the species.) 
+et § ad. sk. (Types of the species.) 
 
 c. $ ad. sk. China. Hardwicke Bequest. 
 d,e. 6 ? ad. sk. China. Gould Coli. 
 / . cJ ad. sk. Argyllshire, March. A. Miller, Esq. [P.]. 
 V- Juv. st. England. Zool. Soc. Coli. 
-Ä. tf ad. st. Norfolk. H.R.H.Princeof Wales 
+Ä. tf ad. sk. Norfolk. H.R.H.Princeof Wales 
 
 *. 2 skeleton. China. J. J. Stone, Esq. [P.]. 
 
@@ -26486,7 +26486,7 @@ For Hybrid hetween Phasianus colchicus and P. reevesi, see p. 324.
 
 Hybrid between Phasianus reevesi and Chrysolophus pictus. 
 
-a. $ ad. st. Devonshire. Ralph Sanders, Esq. [P.]. 
+a. $ ad. sk. Devonshire. Ralph Sanders, Esq. [P.]. 
 bf c. $ imm. st. Zoological Gardens. Zool. Soc. Coli. 
 36. CHRYSOLOPHUS. 
 Type. 
@@ -26613,14 +26613,14 @@ d. <$ ad. sk. Ichang. A. E. Pratt, Esq. [0.].
 e. <3 ad. sk. [China.] Gould Coli. 
 /. <S imm. sk. (bad [China.] B. H. Hodgson, Esq. 
 state). [P.]. 
-g, $ ad. st. Cambridgeshire. Mr. J. Baker [P.]. 
+g, $ ad. sk. Cambridgeshire. Mr. J. Baker [P.]. 
 
 h. 
-j ad. st. (assuming Warwickshire. Bev. F. Annesley [P.]. 
+j ad. sk. (assuming Warwickshire. Bev. F. Annesley [P.]. 
 male plumage). 
 i. <$ ad. sk. Herefordshire, Dec. 0. E. Cresswell, Esq. 
 [P.]. 
-h. S ad. st. Herefordshire, Sept. J. Hörne, Esq. 
+h. S ad. sk. Herefordshire, Sept. J. Hörne, Esq. 
 /. c? imm. st.. England. Zool. Soc. Coli. 
 m. cJ ad. sk. Purchased. 
 n, o. <S 2 a^* s^-Zool. Soc. Coli. 
@@ -26632,9 +26632,9 @@ Thaumalea
 amherstiseXT. picta, fflliot, Monog. Pias. ii. pl. xvii. 
 [text] (1872). 
 
-a. <$ ad. st. (C. am- Herefordshire. Purchased. 
+a. <$ ad. sk. (C. am- Herefordshire. Purchased. 
 herstim §, C.pictus J). 
-b. <$ ad. st. Dr. Vekemans [P.j. 
+b. <$ ad. sk. Dr. Vekemans [P.j. 
 Hybrid between C. pictus and Grallus domesticus (var. Bantam). 
 u. Ad. sk. 
 Fifeshire, Nov. W. Berry, Esq. [P.]. 
@@ -26726,7 +26726,7 @@ nakcd skia round the eye is blne, like that of the male.
 Hab. Mountains of Western China and Eastern Thibet. 
 
 a, b. d ad. et imm. sk. Mts. of Thibet. B. EL Hodgson, Esq. [P.], 
-c. J ad. st. Herefordshire. Purchased. 
+c. J ad. sk. Herefordshire. Purchased. 
 d. $ pull. sk. Lowestoft, June. Oolonel E. A. Butler. 
 
 37. GALLUS*. 
@@ -27200,7 +27200,7 @@ s1, tl. <$ ad. et Java (Rorsßeld). India Museum [P.J.
 
 
 imm. sk. 
-u\ vl. (S 2 ad. st. Java. Purcbased. 
+u\ vl. (S 2 ad. sk. Java. Purcbased. 
 w4. 5 ad. sk. Java. Tweeddale Coli. 
 #*. 2 imm. sk. West Java. F. Nicholson, Esq. 
 
@@ -27323,7 +27323,7 @@ tips of the wing-feathers are mottled with pale rufous.
 
 Hah. Ceylon. 
 
-a, h. d1 $ ad. st. Ceylon. Purchased. 
+a, h. d1 $ ad. sk. Ceylon. Purchased. 
 
 Ceylon. Dr. Kelaart [P.]. 
 
@@ -27491,7 +27491,7 @@ tfe/wws, Nat. Abbild. Vor/, p. 242 (1833); Jard. Nat. Lib., Orn. iv.
 p. 184, pl. x. (1834); ßahinz, Nat. Vög. p. 145 (1853); Wallace, 
 F. Z. S. 18(53, p. 486 [Lombock, Flores]. 
 Gallus javanicus, Horsf. Tr. Lim. SOG. xiii. p. 185 (1822) [Java]. 
-Aduilt male. Top of the head, back and sides of tbe neck, and 
+Adult male. Top of the head, back and sides of tbe neck, and 
 upper part of the mantle covered with short truncate feathers, 
 somewhat curved at the extremity, black at tbe base, shading into 
 purplish blue edged witb golden green near tbe extremity, and 
@@ -28134,7 +28134,7 @@ Empliania napoleonis, Bonap. C. P. xlii. p. 878 (1856).
 Polyplectron emphaneb, Sclat. List of Phas. p. 12 (1863). 
 
 
-Ad alt male. Exactly similar to the male of P. nelirkornop, but the 
+Adult male. Exactly similar to the male of P. nelirkornop, but the 
 white superciliary stripes are wide and strongly rnarked and confhient 
 on the nape. Total length 18*5 inehes, wing 7*3, tail 7*8, tarsus 2-5. 
 
@@ -28375,7 +28375,7 @@ Sah. Laos Mountains, Siam, South Tenasserim, the Malay Poninsnla,
 and Sumatra. 
 
 a, b. $ imm. sk. Laos Mts. M. Mouhot [C.]. 
-c, d, $ 5 ad. st. S. Tenasserim. E. W. Oates, Esq. [C.]. 
+c, d, $ 5 ad. sk. S. Tenasserim. E. W. Oates, Esq. [C.]. 
 e-v. cT 2 ad., imm., Bankasoon, Tenasserim, Hume Coli. 
 
 et pull. sk. Feb., Maren, and Dec. 
@@ -28397,7 +28397,7 @@ K-V. 6 S ad. et Malacca (Dr. Maingay). Tweeddale Coli.
 imm. sk. 
 m\ $ imm. sk. Malacca. Tweeddale Coli. 
 n', o\ <$ $ ad. sk. Malacca. W. Harvey, Esq. [P.]. 
-p'. $ ad. st. [Malacca.] Purchased. 
+p'. $ ad. sk. [Malacca.] Purchased. 
 <?'? r'-d 2 ad. sk. Bingapore. Hume Coli. 
 «'. d ad. sk. Sumatra (C. Bock). Tweeddale Coli. 
 
@@ -28543,7 +28543,7 @@ Argus rheinardti, Maing. Bull. SOG. Z. Fr. vii. p. xxv (lö82)
 
 [Tonkin]. 
 
-Aclult male. Greneral colour of the apper parts dark brown, mixed 
+Adult male. Greneral colour of the apper parts dark brown, mixed 
 here and there with red, each feather thickly covered with small 
 white spots and markings; on the onter webs of the secondaries 
 these markings take more the form of irregulär oblique white lines; 
@@ -28564,7 +28564,7 @@ spots surrounded by rings of black. Total length about 7 feet,
 wing 13*5 inches, tail 5 feet, tarsus 3*5 inches, middle toe and 
 claw 3*7. 
 
-Aclult femäle. General colour above umber-brown, each feather 
+Adult femäle. General colour above umber-brown, each feather 
 transversely mottled with black and buff, these markings are 
 stronger on the secondaries and tail-feathers; underparts brown, 
 finely vermiculated with black; crest much shorter and less füll 
@@ -28574,7 +28574,7 @@ Total length about 31 inches, wing 11*5, tail 14*5, tarsus 3*4.
 
 Hab. Same as that of the genus. 
 
-af h. S $ ad. st. Mts. in interior of Tonkin. Purchased. 
+af h. S $ ad. sk. Mts. in interior of Tonkin. Purchased. 
 
 368 
 mASIANIDJL 
@@ -28750,7 +28750,7 @@ Hab. India and Ceylon.
 
 a-c. cj ad. sk. India. India Museum [P.]. 
 
-d. 5 ad. st. India. Dr. J. F. Royle [P.]. 
+d. 5 ad. sk. India. Dr. J. F. Royle [P.]. 
 e. $ juv. sk. Kaipur, Cent. Provinces. Hume Coli. 
 f-k. <$ ad. sk. 
 Delhi. Hume Coli. 
@@ -28763,8 +28763,8 @@ v. <$ ad. sk. Bhotan Doars, March (L. Hume Coli.
 Mandelli). 
 w. cJ ad. sk. Assam. India Museum {P.l 
 x. J ad. sk. ["Assam."] India Museum TP.]. 
-y. cj ad. st. England. Dr. Dowler [P.l. 
-2!-«'. <S $ ad. st. England. J. E. Harris, Esq. [P.]. 
+y. cj ad. sk. England. Dr. Dowler [P.l. 
+2!-«'. <S $ ad. sk. England. J. E. Harris, Esq. [P.]. 
 V. Pull. st. No locaüty. 
 c'-er. Skeletons. 
 /' . 2 skeleton. Salvin-Godman Coli. 
@@ -28801,8 +28801,8 @@ primaries and their coverts with an irregulär l)laek lino ruuning
 along the shaft to the tip and edging the inner web, and the thighs 
 black instead of buff. 
 
-a. 3 ad. st. [Malay Archipelago.] Purchased, 
-b. S ad. st. Yorkshire (in confmement). J. Michel!, Esq_. [P.]. 
+a. 3 ad. sk. [Malay Archipelago.] Purchased, 
+b. S ad. sk. Yorkshire (in confmement). J. Michel!, Esq_. [P.]. 
 Hybrid between Pavo cristatus $ and P. mutieus $ . 
 a, b. £ rami. st. Zool. Soe. Coli. 
 
@@ -29159,7 +29159,7 @@ Numida maculipennis, Stettins. B. W. Afr. ii. p. 226 (1837)
 Numida marchei, Oustal Ann. Sei. Nat. (6) xiii. Art. 1 bis (1882) 
 [Gaboon]; id. N. Arch. Mus. (2) viii. p. 805, pl. xiv. (lS8o). 
 
-Aclult. Eiffers from N. coronata and from all the allied speoies in 
+Adult. Eiffers from N. coronata and from all the allied speoies in 
 liaving a wide collar of vinous grey covering the tipper part of the 
 mantle and ehest; the black feathers on the nape are contiimed in 
 a thin line almost to the base of the helmet; the white spots on the 
@@ -29964,7 +29964,7 @@ c. 5 ad. sk. Ciudad Duran^o (Forrer). Salvin-Godman Coli.
 d. 
 <$ ad. et imm. st. Midland Counties, England, 
 [domestic var.]. 
-e. (S ad. st. England, 
+e. (S ad. sk. England, 
 [domestic var. with tufted head]. 
 /; ff. Skulls. Yarrell Coli. 
 
@@ -30197,7 +30197,7 @@ April (0. Salvin).
 
 h. $ ad. sk. W. District, British Honduras, Salvin-Godman Coli. 
 March (F. Blancaneatix). 
-l S ad. st. British Honduras. Earl of Derby [P.]. 
+l S ad. sk. British Honduras. Earl of Derby [P.]. 
 tu\~p. J ad. et British Honduras. Purchased. 
 
 pull. si. 
@@ -30533,10 +30533,10 @@ Dec. (F. B. Armstrong).
 
 r. 2 ad. sk. Laredo, Texas, Feb. [II. B. Salvin-Godman Coli. 
 Butcher). 
-s91. $ ad. st. et Mexico. Gould & Eylon Colls. 
+s91. $ ad. sk. et Mexico. Gould & Eylon Colls. 
 sk. 
 u, v. <$ ad. sk. et Mexico. Purchased. 
-$ ad. st. 
+$ ad. sk. 
 w-f'* 6 
 $ad. sk. Nnevo Laredo, Tamaulipas, Salvin-Godman Coli. 
 Mexico, March (F. B. Armstrong). 
@@ -30652,7 +30652,7 @@ JHab. Same as that of the genus.
 «, &. d ? ad. sk Portland, Oregon, Jan. (H. PF. Salvin-Godman Coli. 
 Henshaw). 
 
-c. tf ad. st. California. Purchased. 
+c. tf ad. sk. California. Purchased. 
 d-f. <$ $ ad. sk. California. Gould Coli. 
 g. $ ad. sk. California. Zool. Soc. Coli. 
 h, i. J ad. sk. California (Jff. TT. JT.^JE. TT. Salvin-Godman Coli. 
@@ -30854,11 +30854,11 @@ a-c. (S $ ad. sk. Whidley, Washington Terr.,
 Dec. (H. W. Henskaw). 
 Salvin-Godman Coli. 
 d, e. c? imm. sk. 
-et 5 ad. st. 
+et 5 ad. sk. 
 California. Capt. Sir E. Belcher 
 iP."1 . 
 / . $ ad. sk. 
-g-i. $ ad. st. £ ad. 
+g-i. $ ad. sk. £ ad. 
 et juv. sk. 
 k. <3 ad. sk. 
 California. 
@@ -31017,7 +31017,7 @@ Nelson).
 s, t. <S 2 ad. sk. Yuma, Arizona, May. G. F. Morcom, Ebq. 
 
 [p.j. 
-u. $ ad. st. California. 
+u. $ ad. sk. California. 
 Purchased of M.Verreaux. 
 v, w. $ ad- sk. California, Feb., July. Zool. Soc. Coli. 
 x-d. $ J ad. sk. Agua Caliente, CaL, Jan., Salvin-Godman Coli. 
@@ -31318,7 +31318,7 @@ claw 1*3.
 
 Hab. Islands of Curagao and Aruba. 
 
-a, b. d ad. st. et $ [S. America.] Parehased. 
+a, b. d ad. sk. et $ [S. America.] Parehased. 
 ad. sk. 
 
 c. $ ad. sk. [Mexico.] Salvin-Gcdman Coli 
@@ -31357,7 +31357,7 @@ and claw 1*3.
 
 Hab. Yeragua to the United States of Colombia. 
 
-a, b. S 5 ad. st. Sta. Fe de Bogota, U.S.C. Purchased. 
+a, b. S 5 ad. sk. Sta. Fe de Bogota, U.S.C. Purchased. 
 c-g- 6 2 ad. sk. Sta. Fe* de Bogota. Gould OolL 
 
 h. J ad. sk. Sta. Fe* de Bogota. Salvin-Godman Coli 
@@ -31542,7 +31542,7 @@ with the black markings coarser.
 
 Hab. Honduras, Nicaragua, and Costa Rica. 
 
-a. $ ad. st. Costa Rica (Endres). Purckased. 
+a. $ ad. sk. Costa Rica (Endres). Purckased. 
 b, c. (S $ ad. sk. Costa Rica (J. Canniolfy Cajjt. Salvin-Godman Coli. 
 Dow), 
 d, e. d J ad. sk. Costa Rica. Goukl Coli. 
@@ -31893,7 +31893,7 @@ the extremity with greyish. Total length 8*6 inches, wing 4*5,
 
 tail 2-Q, tarsus 1-2, middle toe and claw 1*45. 
 
-Aclult female. DifTers chiefly from the male in having the throat 
+Adult female. DifTers chiefly from the male in having the throat 
 
 bright buff; the black bands from the gape to tho ear-coverts and 
 
@@ -31930,7 +31930,7 @@ into many of the West Indian Islands and various parts of the üld
 
 World. 
 
-a. $ ad. st. N. America. Hardwicke Bequest. 
+a. $ ad. sk. N. America. Hardwicke Bequest. 
 £, c. <$ $ ad. sk. N. America, May, July (IL Salvin-Godman Coli. 
 W. Hemhato). 
 d. 
@@ -31982,7 +31982,7 @@ t'. d ad. sk. Quantico, Va., March (üT. Salvin-Godman Coli.
 W. H.). 
 u\ v'. $ 2 &d. sk. Bermuda, Dec. Capt. S.G. Reid [C.]. 
 w', x\ <S ad. sk. et Jamaica. ~\ H. Gosse, Esq. 
-5 ad. st. 
+5 ad. sk. 
 [0.1. 
 
 "'••}•
@@ -32788,7 +32788,7 @@ thickly spotted with. black.
 
 Hab. Same as that of the genus. 
 
-a. 2 ad. st. Mexico. 
+a. 2 ad. sk. Mexico. 
 Purcliased. 
 b. J vix ad. sk. Hacienda de Los Atlixcos, Salvin-Godman Coli. 
 Mexico, March (F. I). G.). 
@@ -33415,7 +33415,7 @@ are nearly obsolete.
 Hab. Costa Rica and Veragua. 
 
 a. Ad. sk. Dota, Costa Rica (J. Carmiol). Salvin-Godman Coli. 
-b. d ad. st. Veragua (ArcS). Salvin-Godman Coli! 
+b. d ad. sk. Veragua (ArcS). Salvin-Godman Coli! 
 c. 5 ad. sk. Cordillera de Tole", Veragua Salvin-Godman Coli. 
 (ArcS). (Type of species.) 
 d} e. (S ad. et pull. Calovevora, Veragua (ArcS). Salvin-Godman Coli. 
@@ -33556,7 +33556,7 @@ Hab. Central America; Southern Mexico to Chiriqui.
 
 a, b. <$ ad. sk. Mexico. Purchased. 
 
-c. <$ ad. st. Cordoba, Vera Cruz, Mexico. Purchased of M. Verreaux. 
+c. <$ ad. sk. Cordoba, Vera Cruz, Mexico. Purchased of M. Verreaux. 
 ü-g. d ? ad. et Chimalapa, Tehuantepee, Salvin-Godman Coli. 
 imm. sk. Marcli ( W. M. Miehardson). 
 k J inmi. sk. Vera Paz, Guatemala, Nov. Salvin-Godman Coli. 
@@ -33658,7 +33658,7 @@ Mab. Peru and Bolivia.
 a. 
 Ad. sk. Cocapata, Cocabamba, Bolivia. T. 0. Bridges, Esq. [C.]. 
 (Type of the speeies,) 
-b, Acl. sk. Huasampilla, Peru, March (H. Salvin-Godman CoH, 
+b, Ad. sk. Huasampilla, Peru, March (H. Salvin-Godman CoH, 
 Whitehj). 
 
 
@@ -35986,7 +35986,7 @@ blackish hörn; lores and the space round the eye naked and
 black; legs and feet pale pink. Total length 30*5 inches, wing 
 14*3, tail 13*6, tarsus 4. 
 
-Aclult fema le. Crest white, tip and base of each feather black ; 
+Adult fema le. Crest white, tip and base of each feather black ; 
 neck black; rest of Upper parts black, with narrow white crossbars, 
 widest on the wing-coverts and quills; lower neck black, 
 barred with buff; upper ehest and, in some speeimens, the sides of 
@@ -36176,7 +36176,7 @@ k, l. $ ad. et Guatemala. PurchasedofM. Verreaux.
 imm. sk. 
 m-r. <3 $ ad. et Savana Grande, Guatemala, Salvin-Godman and 
 vix ad. sk. Nov. (0. Ä) Tweeddale Colls. 
-*, t. $ ad. st. [S. America.] Purchased. 
+*, t. $ ad. sk. [S. America.] Purchased. 
 u, v. Skeletons. Zool. Soc. Coli. 
 
 5. Crax panamensis. 
@@ -36565,7 +36565,7 @@ a. cJ ad. sk. S. America. Eyton Coli.
 b-cl S S ad. et Sarayacu, Ecuador (Bnckley). Salvin-Godman Coli. 
 pull. sk. 
 e. $ ad. sk. Upper Amazons, May. Salvin-Godman Coli. 
-/ . S ad. st. Rio Negro. Purchased. 
+/ . S ad. sk. Rio Negro. Purchased. 
 (/, h. Skeletons. Zool. Soc. Coli. 
 
 3. MITÜA. 
@@ -36632,7 +36632,7 @@ E. Peru]; Burmeister, P. Z. S. Ife71, p. 701 [Bolivia] ; Seht. £
 Salvin, P. Z. S. 1873, p. 307 [Loreto on the Maiaüon"; Seht. 
 Trans. Z. S. ix. p. 283, pl. Ii. (lb7o) [Loreto E/l: SaIrin, Ibis, 
 1886, p. 174; Tacz. Orn. Peroa/m. p. 2üö (lb86) [Monteiicu]. 
-Aclalt male andfemale. General eolour blac-k glossed with blue, the 
+Adult male andfemale. General eolour blac-k glossed with blue, the 
 belly and under iail-eoverts dark chestnut, tail tipped with white. 
 A well-developed oceipital crest; culmen rounded and sharply 
 compressed in front, swollen posteriorly, much deepor than in 
@@ -36683,7 +36683,7 @@ middle toe and claw 3*2.
 Hab. Rio Xegro, Rio Branco, extending into British. Guiana. 
 
 a. 2 ad.sk.
-b. $ ad. st. 
+b. $ ad. sk. 
 River Rupurumi, Biit. Guiana.
 Feb. (H. Whitehj). 
 IJands of tlie Rio Negro,
@@ -37148,7 +37148,7 @@ p. 527; Sclat P. Z. S. 1873, p. 780 [Iluasampilla]; Sciat. $
 Sahin, P. Z. S. 1874, p. 679 [Peru]; Tacz. P. Z. S. 1874, p. 558 
 [Central Peru]; Sclat. $ Salvin, P. Z. S. 1879, p. 640 [Bolivia]; 
 Tacz. P. Z. S. 1882, p. 48 [N.E. Peru]. 
-Aclult. Easily recognized from P. montagnii by having the superciliary 
+Adult. Easily recognized from P. montagnii by having the superciliary 
 stripe and the feathers on the sides of the face whiter and 
 more marked; the lower back, rump, and npper tail-coverts less 
 rufous and browner; the pale edgings on the ehest and breast 
@@ -37180,7 +37180,7 @@ Whitehj).
 b~d. Ad. sk. et Bolivia. T.C.Bridgres,Esq. [C.]. 
 sk, (Types of the ;>pecit\s.) 
 
-e. Acl. sk. Bolivia (Bridge*). Salvin-Godman Coli. 
+e. Ad. sk. Bolivia (Bridge*). Salvin-Godman Coli. 
 /, g. Ad. sk. Tilotilo, Prov. Yungas, Bolivia Salvin-Godman Coli. 
 (ßuekhy). 
 
@@ -37433,7 +37433,7 @@ Penelope jacupeba, Sclat $* Salvin (nee Spiv), F. Z. S. 1870, p. 524.
 
 Rep.]. 
 
-Aclult male and fevnale. General colour of the upper parts and 
+Adult male and fevnale. General colour of the upper parts and 
 ehest olive-brown glossed with green, and washed with eopper on 
 the longer scapulars, rump, npper tail-coverts, and middle tail-
 feathers; feathers of the top of the head dark brown, with whitish-
@@ -37820,7 +37820,7 @@ inches, wing 9*3, tail 11, tarsus 2*8, middle toe and claw 2-6,
 
 Hab. Same as that of the genus. 
 
-a. S ad. st. Guatemala. Gould Coli. 
+a. S ad. sk. Guatemala. Gould Coli. 
 h-~e. 
 £ ad. sk. Vera Paz, Guatemala (O. Salvin-Godman Coli. 
 Salvin). 
@@ -37833,7 +37833,7 @@ h. 2 ad. sk. Volcan de Agua, Dec. (0.8.). Salvin-Godman Coli.
 i-l ß ad. et imm. sk. Volcan de Fuego, Dec. (0, Ä). Salvin-Godman Coli. 
 m, n. <$ vix ad. et $ Volcan de Fuego, Dec. (0.8.). Tweeddale Coli. 
 ad. sk. 
-o-q. $ ad. st. et <J Volcan de Fuego (0. &). Salvin-Godman Coli. 
+o-q. $ ad. sk. et <J Volcan de Fuego (0. &). Salvin-Godman Coli. 
 imm. sk. 
 
 504 
@@ -38593,7 +38593,7 @@ Ortalida garrula, Wagl Isis, 1882, p. 1227; Gray, List of B. pt. iii.
 Gall p. 20 (1844); ich Lirt Gallium Brit. Mus. p. 12 (1807); id. 
 Hand-l B. iL p. 252 (1870); Sclat. # Sabin, P. Z. S. 1870, p.539. 
 
-Aclult. This and the two following spccies belong to a small 
+Adult. This and the two following spccies belong to a small 
 section of the genus Ortalis whieh is easily distinguished from the 
 species already described by having the primaries chestnut. Top 
 of the head and nape dull brownish rufous ; all the rest of the 
@@ -38630,7 +38630,7 @@ J.f.O. 1869, p. 373; Gray, Hand-l B. ii. p. 252 (1870).
 Ortalis cinereieeps, Bichmond, P. U.S. Nat. Mus. xvi. p. 523 (1893) 
 [Escondido R., S. Nicaragua]. 
 
-Aclult male and female. Resemble O. garrula, but the head and 
+Adult male and female. Resemble O. garrula, but the head and 
 nape are dark grey instead of rufous-brown. 
 
 An immeäure speermen resembles the adult, but the outer 
@@ -39245,7 +39245,7 @@ Biitisli Guiana.
 Riocour Coli. 
 Sir R. Schombumk 
 [p-i/ 
-, g. 6 $ ad. st. Reihice R., British Guiana. J. J. Quelch, E^q. 
+, g. 6 $ ad. sk. Reihice R., British Guiana. J. J. Quelch, E^q. 
 h. Ad. sk. Vicinity of Bogota, U. S. Salvin-Godman Coli. 
 
 Colombia. 
@@ -39735,7 +39735,7 @@ Siam, China, Pormosa, and Loo-choo Islands.
 
 imm. sk. 
 
-a,b. S ? ad. st. India. 
+a,b. S ? ad. sk. India. 
 c-g. <$ J ad. sk. Coimbatore, Oct. (A. G. R. Hume Coli. 
 Ä, i 6 $ ad. sk. 
 k, l. J ad. et 
@@ -40400,7 +40400,7 @@ h, i. $ ad. et Biskra. Algeria (Loche). Shelley Coli.
 
 imm. sk. 
 
-k. 2 ad. st. Vernon Harcourt, 
+k. 2 ad. sk. Vernon Harcourt, 
 Esq. [P.] 
 1 . TTTRNTX. 
 530 
@@ -41241,7 +41241,7 @@ a, b. $ ad. sk.
 c-e. <S 5 ad. sk.
 /,</S 
 $ ad. sk.
-Ji, i <$ 2 ad. st. 
+Ji, i <$ 2 ad. sk. 
 Australia. 
 Queensland. 
 Queensland ? 
@@ -41277,7 +41277,7 @@ Turnix varia, Ramsay, Ibis, 1806, p. 334; Gray, Hand-l. B. ii.
 p. 270, no. 9743 (1870) ; Marie, Ibis, 1877, p. 362 [New Caledonia]; 
 Layard, Ibis, 1878, p. 262. 1882, p. 530; Grant, Ibis, 1889, 
 pp. 452, 453, 473. 
-Aclult female. General colour above black, barred with rufous^ 
+Adult female. General colour above black, barred with rufous^ 
 shading into chestxmt on the nuchal region. Centre of the top of 
 the head dark grey; sides black, edged with grey or rufous ; lores, 
 supcrciliary stripes, sides of tbe face, and tliroat white tipped with. 
@@ -41446,13 +41446,13 @@ the underparts whitish; some of the feathers on the sides of the
 ehest and breast are irregularly barred with black and white at their 
 extremity. Bill very strong. Total length 6 inches, wing 3*3, tail 
 1-4, tarsus 0-8. 
-Ad alt male. Eesembles the female, but is smaller, and the rusteoloured 
+Adult male. Eesembles the female, but is smaller, and the rusteoloured 
 ehest is not so bright. Total length d'2 inches, wing 
 2-9, tail 1-3, tarsus 0*75. 
 
 Hab. KE., E., and S. Australia ; also the Interior. 
 
-a. J ad. st. Australia. 
+a. J ad. sk. Australia. 
 Purehased. 
 b. S ad. sk. Australia. 
 Gould Coli. 
@@ -41503,7 +41503,7 @@ imin. sk.
 
 d. $ ad. sk. Yammdi, Hunter U. (J. Eyton Coli. 
 Goidd). 
-e,f. J ad. st. Yarrundi, Ilimter 11. Gould Coli. 
+e,f. J ad. sk. Yarrundi, Ilimter 11. Gould Coli. 
 g, h. $ ad. et S. Australia. Sir G. Grey, [P.]. 
 
 jnv. sk. 
@@ -41787,7 +41787,7 @@ Page 169. Add :—
 Prancolinus johnstoni, Shelley} Ibis, 1894, p. 24. 
 
 
-Aclult male. Yery similar to the male of F. hüdebrandti, but 
+Adult male. Yery similar to the male of F. hüdebrandti, but 
 differs in having the general shade of the upper parts darker and 
 less ruf ous, and the feathers of the underparfcs with nninterrupted 
 black shaft-stripes, instead of heart-shaped subterminnal blaek 
@@ -41946,7 +41946,7 @@ YOL. XXII. 2 0
 
 ^3 . Page 368. Pavo cristatus. 
 
-I'. <j ad. st. India. A. E. Durham, Esq. [P.]. 
+I'. <j ad. sk. India. A. E. Durham, Esq. [P.]. 
 m\ $ ad. sk. [albino]. England. Earl cf Gainsborough [P.]. 
 
 Add:— ^aSe ^79. Ntunida ptilorhyncha. 

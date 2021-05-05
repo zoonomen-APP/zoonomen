@@ -1768,7 +1768,7 @@ $ ad sk. Travancore. India Museum.
 g. J ad. sk. Mysore. India Museum. 
 h. c? ad. sk. Madras. Eev. II. II. Baber [P.]. 
 i. J ad. sk. Madras (Jordan). Gould Collection. 
-7c, I <$ ad. j m. $ ad. st. Madras. Rev. IIII . Baber [P.J. 
+7c, I <$ ad. j m. $ ad. sk. Madras. Rev. IIII . Baber [P.J. 
 n. § ad. sk. Ceylon. Gould Collection. 
 /3. JE. zeyhnica (pale race). 
 
@@ -8528,7 +8528,7 @@ forests, from Denkera, in the interior of the Gold Coast, to Gaboon.
 a. Ad. sk. Gaboon. M. Verreaux. 
 b. Ad. sk.
 c. Ad. sk.
-d. Acl. sk.
+d. Ad. sk.
 e,f. Ad. sk. 
 Gaboon (Walker). 
 Oameroons Mountains, Jan. 28,1871 (A. Crossley). 
@@ -13767,7 +13767,7 @@ Lafresnaye's Cactus-Wren is entirely confined to New Granada.
 
 a, b. Ad. sk. Bogota, New Granada. Purchased. 
 c. (S juv. sk. Bogota. Purchased. 
-d. Acl. sk. New Granada. Purchased. 
+d. Ad. sk. New Granada. Purchased. 
 
 16. Campylorhynclms megaloptenis. 
 Oampylorhynchus megalopterus, Lafr. Rev. Zool. 1845, p. 339,1846, 
@@ -14334,7 +14334,7 @@ and axillaries pale fawn-colour; quills dusky brown below, ashy
 fulvous along the edge of the inner web. Total length 5 inches, 
 culmen 0*8, wing 2-45, tail 1*9, tarsus 0*95. 
 
-Aclult female. Similar in colour to the male. Total length 5*1 
+Adult female. Similar in colour to the male. Total length 5*1 
 inches, culmen 0*8, wing 2-35, tail 1*85, tarsus 0*95. (Mus. Salvin 
 and Godman.) 
 
@@ -16633,7 +16633,7 @@ The La Plata Marsh-Wren is a common bird in Chili and Patagonia,
 ranging as far as Southern Brazil and Bolivia. It also inhabits the 
 Falkland Islands. 
 
-a. Acl. sk. Port Louis, Falkland Inlands. Lieut. A. Smith [P.], 
+a. Ad. sk. Port Louis, Falkland Inlands. Lieut. A. Smith [P.], 
 b, c. $ ad. sk. Falkland Islands, Antarctic Expedition. 
 d, e. Ad. sk. East Falkland**. Antarctic Expedition. 
 / . Ad. sk. Falkland Islands. J. Gould, Esq. 
@@ -25517,7 +25517,7 @@ inches, culmen 1-45, wing 6*1, tail 5-2, tarsus 1*8.
 The Black-cheeked Cat-hird inhabits the Am Islands. 
 
 a. 
-$ ad. st. Aru Islands. A. R. Wallace, Esq. (Type 
+$ ad. sk. Aru Islands. A. R. Wallace, Esq. (Type 
 of species.) 
 b. $ ad. sk. Aru Islands1. A. R. Wallace, Esq. [C A 
 c. Ad. sk. Wokan, Aru Islands2 (J. Voyage of H31.S. <CEal-
@@ -25929,7 +25929,7 @@ province and Victoria. I regard Mr. Gould's 0. occipitalis as only a
 very fine old male of the present species, distinguished by its longer 
 
 crest-feathers. 
-a, b. $ ad. st. Australia. 
+a, b. $ ad. sk. Australia. 
 c. 5 imm. sk. 
 d, e. S 2 a<l« s^« 
 ft <7d$ 
@@ -26046,7 +26046,7 @@ from Port Darling and Poit Essington to the north-western
 district. 
 
 a. S ad. sk. North Australia. Goidd Collection. 
-b, c. <$ $ ad. st. Port Essington. Capt. Chambers TV. 
+b, c. <$ $ ad. sk. Port Essington. Capt. Chambers TV. 
 d. S juv. sk. Depot; Victoria River, X.W. J. R. Elsey, Esq. [P.^. 
 Australia, Oct. 1855. 
 e. <$ imm. sk. N.W. Australia, July 20,1850. J. R. Elsey, Esq. [P.]. 
@@ -26095,7 +26095,7 @@ ad. sk.
 imm. sk. 
 ad. sk. 
 ad. sk. 
-cf ad. st. 
+cf ad. sk. 
 [New South Vales.]
 Port Denison.
 North Queensland.

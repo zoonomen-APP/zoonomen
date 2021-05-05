@@ -1006,7 +1006,7 @@ g. $ ad. sk. Madagascar. Mr. Gerrard [C.].
 sk. Bam), 
 k 13 juv.] sk. Anjuan Island (Sir J, Kirk), Shelley Coll. 
 
-1. 3 ad. st. Madagascar. 
+1. 3 ad. sk. Madagascar. 
 Sir J. Kirk [0.1. 
 m. Skeleton. Anjuan Island. 
 Sir J. Kirk [C.J. 
@@ -1894,7 +1894,7 @@ iv. Ad. sk.
 c. Ad. sk. 
 a'. <$ ad. sk. 
 b'. Ad. sk. 
-c\ Acl. sk. 
+c\ Ad. sk. 
 d'. Ad. sk. 
 e'. Ad. sk. 
 
@@ -2635,7 +2635,7 @@ yellow; iris yellowish brown, the ring round the eye greenish
 yellow" (G. J. Andersson). Total length 15 inches, culmen 1*4, 
 wing 7, tail 5*5, tarsus 0*8. 
 
-Aclult female. Similar to the male in colour. Total length 13*5 
+Adult female. Similar to the male in colour. Total length 13*5 
 inches, culmen 1*3, wing 6*3, tail 7, tarsus 0*8. 
 Hah. Interior of South Africa to Angola on the West and to the 
 Zanzibar region on the East Coast, as far as Uzinza. 
@@ -11473,7 +11473,7 @@ ff"
 . d* imm. sk. Babia (Sharpe Coll.). Tweeddale Coll. 
 h". 2 imm. sk. Pelotas, Rio Grande do Sul Salvin-Godman Coll. 
 (Joyner). 
-i"., 2 ad. st. Delta of the Rio Parana. A. M. Montanaio, 
+i"., 2 ad. sk. Delta of the Rio Parana. A. M. Montanaio, 
 Esq. [P. J. 
 k", I". 2 ad. sk. Uruguay, Aug. Alan Peel, Esq. [C.]. 
 
@@ -12333,7 +12333,7 @@ coverts and crown.
 Hal. The greater part of South America from Colombia to 
 Ecuador, Guiana, Amazonia, and Brazil. 
 
-a, b. <$ ad. st. South America. Old Coll. 
+a, b. <$ ad. sk. South America. Old Coll. 
 
 c. S juv. sk. South America. Sclater Coll. 
 d, e. c? 2 ad. sk. 
@@ -12966,7 +12966,7 @@ Godman Coll.
 juv. sk. ley). 
 /. $ ad. sk. Demerara. W. T. Turner, Esq. 
 
-g, h. c? $ ad. st. Demerara. Sir R. Schomburgk 
+g, h. c? $ ad. sk. Demerara. Sir R. Schomburgk 
 [0.1
 
 
@@ -12995,7 +12995,7 @@ u. S ad. sk. Island of Mexiana {A. R. W.). Salvin-Godman Coll.
 v. cf ad. sk. Pernambuco (Craven). Sclater CoU. 
 to. $ ad. sk. Baliia (D>: Wucherer). Salvin-Godman Coll. 
 x. $ ad. sk. Brazil (Sharpe Coll.). Tweeddale Coll. 
-y. S ad. st. S. America. 
+y. S ad. sk. S. America. 
 Old CoU. 
 9. Ceryle superciliosa. 
 The little Green and Orange-coloured Kingfisher, Edwards, 
@@ -15112,7 +15112,7 @@ Hab. West Africa, from Senegambia to the Gold Coast.
 a. Ad. sk. Gold Coast (Zirby). Shelley Coll. 
 b, c. Ad. sk. Gold Coast (A. Swanzy). Tweeddale Coll. 
 d. Ad. sk. [Sierra Leone.] Sir E. Sabine [P.]. 
-e. Acl. sk. River Gambia. Sharpe Coll. 
+e. Ad. sk. River Gambia. Sharpe Coll. 
 8. Alcedo meiiinting. 
 Alcedo 
 meninting, Horsf. Trans. Linn. Son. xiii. p. 172 (1821); 
@@ -18077,7 +18077,7 @@ Adult female. Differs from the male as in 8. torotoro. Total
 length 6-7 inches, culmen 1*4, wing 3*9, tail 2*2, tarsus 0*5. 
 Hab. Cape York Peninsula. 
 
-a,b. <$ 5 ad. st. Cape York. J. Macgillivray, Esq. 
+a,b. <$ 5 ad. sk. Cape York. J. Macgillivray, Esq. 
 [P/f " x 
 
 c. & ad. ; d~f. Cape York (J. T. Cocherell). 
@@ -22360,7 +22360,7 @@ Cameron [P.],
 
 q. Ad.sk. 
 />. Ad. sk. 
-i. Acl. sk. 
+i. Ad. sk. 
 h. Ad. sk. 
 1. Ad. sk. 
 m, n, c? ad.; o. 
@@ -23034,7 +23034,7 @@ b-e. <$ $ ad. sk. Australia (F. Strange). Jardine Coll.
 /, g. 6 ? ad. sk. "Wide Bay, Queensland, Sept.j Hume Coll. 
 Oct. 
 
-h. $ ad. st. Gould Island, Queensland. J.B. Jukes, Esq. [P.]. 
+h. $ ad. sk. Gould Island, Queensland. J.B. Jukes, Esq. [P.]. 
 i, k, (S ? ad. sk. Queensland (J. Weston F. Nicholson, Esq. 
 Broione). [P.I. 
 l-n. <$ ad. et juv. * Queensland (/. Coekerett: Tweeddale Coll. 
@@ -23045,7 +23045,7 @@ q, r. Ad. sk. Cape York (J. Coekerett). Salvin-Godman Coll.
 tjad.sk . Thursday Island, August Voy. H.M.S. < Alert.' 
 (Dr. Coppinger). 
 u. Ad. sk. Port Essington. J. B. Jukes, Esq. [P.]. 
-v, w. <J ? ad. st. Port Essington. Capt. Chambers [P.]. 
+v, w. <J ? ad. sk. Port Essington. Capt. Chambers [P.]. 
 
 25. Halcyon winahelli. 
 Halcyon winchelli, Sharpe, Trans. Linn. Soc. 2nd ser. i. p. 318, pi. 47 
@@ -25506,7 +25506,7 @@ I, d ad. sk. Perak.^ L. Wray. Esp P.
 m, n, o. $ ad. sk. Klane, Feb., March, Sept. Hume Coll. 
 (JV, Davison). 
 
-2h 2- c? ¥ ad. st. Malacca. Purtki-nd. 
+2h 2- c? ¥ ad. sk. Malacca. Purtki-nd. 
 r Juv. sk. Malacca (Dr. Cantor). Irdia Museum. 
 st t. $ ad.; u, v. Malacca (Dr. Jlainr/tty: E Tweeddale Coll. 
 
@@ -25522,7 +25522,7 @@ ad. sk.
 /'. $ ad. bk. Singapore. IIunn>C.dl. 
 
 
-(f. $ ad. st. Sumatra. Purchased. 
+(f. $ ad. sk. Sumatra. Purchased. 
 %'. d ad. *k. Sumatra (SImrpe Coll.). TwetddaV Coll. 
 i\ S ad. sk. Sumatra, Sept. 10 (Carl Bock). Tweeddale Coll. 
 
@@ -25617,7 +25617,7 @@ band round the crown.
 
 Eab. Island of Luzon in the Philippine Archipelago. 
 
-a. (S ad. st. Philippine Islands. Zoological Society. 
+a. (S ad. sk. Philippine Islands. Zoological Society. 
 (Type of species.) 
 b, c. $ ad.; d. Philippine Islands. Purchased. 
 (S juv. st. 
@@ -26510,7 +26510,7 @@ Hab. N.E. Australia.
 a, b. Ad. sk. Cape York. J. Macgillivray [C.]. 
 (Types of species.) 
 
-c. $ ad. st. Cape York. 
+c. $ ad. sk. Cape York. 
 Capt. Owen Stanley 
 d. Juv. sk. Cape York. 
 Purchased. 
@@ -30276,7 +30276,7 @@ ad. sk. Lawas River, Borneo. H. Veitch, Esq.
 T. 5 ad. sk. Sarawak. 
 Wallace Coll. 
 s. Imm. sk. Baram, Sarawak. C. Hose, Esq. [0.]. 
-t $ ad. st. Indian Archipelago, 
+t $ ad. sk. Indian Archipelago, 
 u. 6 
 ad., head 
 only. 
@@ -30345,7 +30345,7 @@ Hah. [? Sumatra (Bock Sf Raffles)'] Java.
 a. <$ ad. sk. [?] Sumatra (Raffles). India Museum. 
 b. cf imm. sk. [?] Sumatra (CarlBock). Tweeddale Coll. 
 c. S ad.sk. East Java. Wallace Coll. 
-d. $ ad. st. Indian Archipelago. 
+d. $ ad. sk. Indian Archipelago. 
 e. 9 ad. sk. Bishop of Victoria 
 [p.j
 3 , DICHOCEROS. 
@@ -30492,7 +30492,7 @@ a, b. c?$ad. sk. Mynall, Travancore, Oct, Nov. Hume Coll.
 (F. Bourdillon). 
 c. <J ad. sk, Ratnagiri, S. Konkan, Nov. (6% Hume Coll. 
 Vidal). 
-d. <$ ad. st. Himalayas. 
+d. <$ ad. sk. Himalayas. 
 e~g. S 
 $ ad.; Kumaon, March (G. King). Hume Coll. 
 $ imm. sk. 
@@ -31164,7 +31164,7 @@ s,t.
 24. c? ad. sk. Labuan. Purchased. 
 v-i. c^ 2 ad. sk. Sarawak. Wallace Coll. 
 V, *• 6 2 ad. sk. Lawas Hiver. Gov. Usslier [0.]. 
-«'. $ ad. st. Borneo. II. Low, Esq. [0.1. 
+«'. $ ad. sk. Borneo. II. Low, Esq. [0.1. 
 fl'-<T. 6 2 ad. et E. Java. Wallace Coll. ' 
 imm. sk. 
 
@@ -31396,7 +31396,7 @@ o". S ad. sk.
 
 p",q"* 6 2ad.sk. 
 
-r". <? ad. st. 
+r". <? ad. sk. 
 
 *". Skeleton. 
 
@@ -31574,7 +31574,7 @@ b. $ imm. sk. Kuroo (NativeState),Nov. (W. Hume Coll.
 Davison). 
 c~e. <$ J ad. et Malacca, July. Hume OolL 
 imm. sk. 
-/ . c? ad. st. Malacca. H. Cuming, Esq.[C.]. 
+/ . c? ad. sk. Malacca. H. Cuming, Esq.[C.]. 
 'g, h. $ ad. sk. Malacca. Capt. S. Pinwill [P.J. 
 
 VOL. XVII. 2 B 
@@ -31895,7 +31895,7 @@ n-p.
 inim. sk. 
 
 q. $ ad. sk. Philippine Islands. II. Cuming, E>q. [CI. 
-r. ? ad. st. Malabar (!). Mrs. Spinks [P._. 
+r. ? ad. sk. Malabar (!). Mrs. Spinks [P._. 
 3. Penelopides mindorensis. 
 Penelopides mindorensis, Steere? List Birds § Mamm. Pltilippine$f 
 p. 13 (1890); Sartert, Cat. Mus. Senckmh Frankf p. 2-32 
@@ -32054,7 +32054,7 @@ ff. ? ad. sk. Menado. A. R. Wallace, Esq. [C.].
 h, i. d ? ad. sk. Macassar. A. R. Wallace, Esq. [^-J* 
 
 
-k. <3 ad. st. No loc. Edward Wilson, Esq. [P.]. 
+k. <3 ad. sk. No loc. Edward Wilson, Esq. [P.]. 
 8. 
 CRAlTORRHIinJS. 
 Type. 
@@ -32142,7 +32142,7 @@ bk. bode),
 
 e. S ad. sk. Menado. Tweeddale Coll. 
 /. 2 ad. sk. Celebes. Gould Coll. 
-*<7,t A. c5" 5 ad. st. Macas>ar. 
+*<7,t A. c5" 5 ad. sk. Macas>ar. 
 A. II. Wallace, Ei>q. [C.I 
 i. Ad. sk. Ko loc. 
 Edward Wilson, Esq. LP.]. 
@@ -32205,7 +32205,7 @@ c-f. <$ J ad. sk. Surigao (A. II. Everett). Tweeddale Coll.
 g, h. J imm. st. Mindanao. II. Cuming, Esq. [C.]. 
 ?. J imm. sk. Mindanao, Oct. (Worcester). Steere Expedition. 
 
-k. 5 ad. st. Camiguin Is. H. Cuming, Esq. [C.]. 
+k. 5 ad. sk. Camiguin Is. H. Cuming, Esq. [C.]. 
 3. Cranorrhmus corrugatus. 
 Buceros 
 corrugatus, Temm. Pi. Col. ii. p. 85, pi. 531 [S~] (1832); 
@@ -32590,7 +32590,7 @@ imm. sk.
 «". $ ad. sk. Malacca. Capt. Stackhouse 
 
 Pinwill [P.], 
-b". cT ad. st. Malacca. Purchased." 
+b". cT ad. sk. Malacca. Purchased." 
 <?", d". $ ad. sk. Lanipong, S.E. Sumatra (E. Tweeddale Coll. 
 
 C, Btcxton). 
@@ -32995,7 +32995,7 @@ Capts. Burton and
 h. S imm. sk. 
 Cameron. 
 
-1. <$ ad. st. Coast of Guinea. 
+1. <$ ad. sk. Coast of Guinea. 
 No locality. 
 m. <$ ad. (head only). 
 2. Ceratogynma atrata. 
@@ -34330,7 +34330,7 @@ tipped feathers have subterminal black spots.
 Hah. N.E. and "W. Africa. 
 
 a. 2 ad. sk. 5th Cataract of the Nile. F. Gallon, Esq. [P.]. 
-b, c. tf ? ad. st. 5th Cataract of the Nile. F. Galton, Esq. [P.I. 
+b, c. tf ? ad. sk. 5th Cataract of the Nile. F. Galton, Esq. [P.I. 
 d, e. cS ? ad. sk. Ain, Massowah, July. W.T.Blanford,Esq. 
 [0.]. 
 
@@ -34341,7 +34341,7 @@ i. J ad, sk. Mo haber, Abyssinia, J uly (Jesse). Shai'pe Coll.
 k. (S ad. sk. Mokaber, Abyssinia, July (Jesse). Tweeddale Coll. 
 1. £ imm. sk. Abyssinia, Jan. Br. Riippell [C.]. 
 m. (S ad. sk. Abyssinia (Jesse). Sharpe Coll. 
-n. S ad. st. Geddem, Dec. (Harris). India Museum. 
+n. S ad. sk. Geddem, Dec. (Harris). India Museum. 
 o,p. c? ad. et River Gambia. Sharpe Coll. 
 imm. sk. ft 
 </, r. 2 a(h s^' River Gambia. Shelley Coll. 
@@ -34350,7 +34350,7 @@ s, t. S $ ad. fek. Accra, Feb. (G. E. &). Shelley Coll.
 u. g ad. sk. Niger (Baikie), Sharpe Coll. 
 v. <$ ad. sk. Niger. 
 Dr. Baikie [C.]. 
-w. $ ad. st. No locality. 
+w. $ ad. sk. No locality. 
 x. skeleton. Abyssinia. 
 Jesse Coll. 
 y. 
@@ -34678,7 +34678,7 @@ BXTCBEOTIDJS.
 
 g. 2 ad. sk. Hareguddy (Jesse). Salvin-Godman Coll. 
 h, g ad. sk. Efat, Skoa, April (Harris). India Museum. 
-i. <$ ad. st. Et'it, Shoa, April (Harris). India Musedm. 
+i. <$ ad. sk. Et'it, Shoa, April (Harris). India Musedm. 
 k. tf ad. sk. Udi, Taite, Feb. Dr. Hildebrandt. 
 I, m. 
 Skull and 
@@ -34978,7 +34978,7 @@ e. g ad. sk.
 f,g- d $ ad. sk. . 
 
 h. S ad. (head only). 
-», k. (S 2 ad. st. * Abyssinia. 
+», k. (S 2 ad. sk. * Abyssinia. 
 2. Bycanistes leucapygras. 
 Bueeros (Bycanistes) leucopvgius, Dubois, Bull Mus. Belg. iiL 
 p. 202 (1884). 
@@ -35388,7 +35388,7 @@ k. ? ad. sk. Malacca (Dr. Cantor). India Museum.
 /, m. d ? ad. >k. Malacca. Capt. Stack house 
 linwill 1\\ 
 n. d ad. bk. W. eoa^t Sumatra. Tan Fab.r C". 
-o, p. d $ ad. st. 
+o, p. d $ ad. sk. 
 q, d imm. sk. 
 Sumatra, 
 Benkoka, N. Borneo, Aug. J. "Whitehead, Ebq. 
@@ -35621,7 +35621,7 @@ sk.
 h. $ imm.sk. 
 I. 
 (S imm. st. 
-m. $ ad. st. 
+m. $ ad. sk. 
 w, o. [cf J] ad. 
 sk. 
 p} q. Imm. sk. 
@@ -35911,7 +35911,7 @@ yellowish, brownish horn on the culmen.
 Hal. High Forests of Central America from Guatemala to 
 Yeragua. 
 
-a. $ ad. st. [Mexico.] Hardwicke Bequest. 
+a. $ ad. sk. [Mexico.] Hardwicke Bequest. 
 b-h. (S imm., 5 San Martin, Que'zaltenango, Salvin-Godman Coll. 
 ad. sk. Guatemala, Oct. (Richardson). 
 i, Jc. <3 imm. sk. Pie de la Cuesta, San Marcos, Salvin-Godman Coll. 
@@ -35932,7 +35932,7 @@ c'-e'. <$ ad, et Volcan de Agua, Nov. (Salvin). Salvin-Godman Coll.
 imm. sk. 
 
 f. <S ad. sk. Chilasco (Salvin). Salvin-Godman Coll. 
-g'. 2 ad. st. Guatemala. Zool. Soc. Coll. 
+g'. 2 ad. sk. Guatemala. Zool. Soc. Coll. 
 h'. 5 ad. sk. Guatemala (Salvin). Salvin-Godman Coll. 
 %'. S ad. sk. Costa Bica (Carmiol). Salvin-Godman Coll. 
 k'. $ ad. sk. San Jose', Costa Bica, May Salvin-Godman Coll. 
@@ -36377,7 +36377,7 @@ San Domingo (Salle).
 Salvin-Godman Coll. 
 Gould Coll. 
 <*,/• 6 S ad. sk.
-g, h. $ S ad. st. 
+g, h. $ S ad. sk. 
 San Domingo. 
 San Domingo. 
 A. Salle* [0.]. 
@@ -37080,7 +37080,7 @@ V. S ad. sk. San Lucas (Villayomez). Salvin-Godman Coll.
 448 
 TR0G0SIDJ3. 
 
-n. d ad. st. Colombia. Purchased. 
+n. d ad. sk. Colombia. Purchased. 
 o,g. 2 a<*.et Colombia. Gould Coll. 
 imm. sk, 
 q, r. S ? ad. sk. Colombia. Sdvin-Godman Coil. 
@@ -37207,7 +37207,7 @@ r.
 (S ad. sk. Lower Amazons (\ Salvin-Godman Coll. 
 s. (S ad. sk. Bogota. 
 Sclater Coll. 
-t. (3 ad. st. Bogota. 
+t. (3 ad. sk. Bogota. 
 Purchased. 
 u, v, 6 § ad. sk. Santa Elena, U.S. Colombia, Salvin-Godman Coll. 
 Sept. (Salmon). 
@@ -37311,7 +37311,7 @@ ad. sk.
 
 v. <J ad. sk. No loc. Gould GolL 
 (Type of the species.) 
-w. cJ ad. st. 
+w. cJ ad. sk. 
 Purchased. 
 5 . TROGON. 451 
 5. Trogon ambiguus. 
@@ -37441,7 +37441,7 @@ m'. $ ad. sk.
 
 ft-#'. c? ? ad. et 
 imm. sk. 
-yr. $ ad. st. 
+yr. $ ad. sk. 
 
 Ysleta, Sonora, May {Lloyd). 
 Sierra de Alamos, Sonora, 
@@ -37615,7 +37615,7 @@ pointed.
 
 Hal. Banging from Mexico to Chiriqui. 
 
-a. cJ ad. st. Mexico. 
+a. cJ ad. sk. Mexico. 
 Purchased. 
 b. S 
 hum. sk. Ohirnalapa, Tehuantepec, Salvin-Godman Coll. 
@@ -38144,7 +38144,7 @@ TROGOXIDJE.
 »2, n. c? ad. sk. Demerara. 
 Gould Coll. 
 
-o. J ad. st. Demerara. 
+o. J ad. sk. Demerara. 
 Purchased. 
 p,q. 
 <J $ ad. sk. Bartica Grove, British Guiana, Salvin-Godman Coll, 
@@ -38163,7 +38163,7 @@ y, z. d $ ad. sk. Eiver Amazon. Bates Coll.
 a', V. S ? ad. sk. Yquitos, Upper Amazons, June Salvin-Godman Coll. 
 
 (WMtely). 
-o'. $ ad. st. Brazil. Purchased. 
+o'. $ ad. sk. Brazil. Purchased. 
 d'-ti. <$ J ad. et Brazil. Salvin-Godman 
 
 imm. sk. & Gould Colls. 
@@ -38468,7 +38468,7 @@ duras, Dec. (Gaumer).
 u', v\ d ad. et Honduras. Sclater & Gould 
 
 inini. sk. Colls. 
-w'. $ ad. st. Honduras. Purchased. 
+w'. $ ad. sk. Honduras. Purchased. 
 of. <S ad. sk. Medina, Honduras (Whitely). Salvin-Godman Coll. 
 yr, z'. 3 J ad. sk. San Pedro, Honduras Sclater Coll, 
 
@@ -39337,7 +39337,7 @@ Godman Coll.
 
 ana, Jan. (Whitely). 
 
-g. $ ad. st. Demerara. 
+g. $ ad. sk. Demerara. 
 Purchased. 
 h-l 
 cS $ ad. et Demerara. Gould Coll. 
@@ -39347,7 +39347,7 @@ imm. sk.
 m. 
 <$ ad. sk. Demerara River, Nov. [R. Salvin-Godman Coll. 
 Swain: Henshaw Coll.). 
-n. 5 ad. st. Cayenne. 
+n. 5 ad. sk. Cayenne. 
 Zool. Soc. Coll. 
 o. <S ad. sk. Cayenne (Dillwyn). Sclater Coll. 
 p. $ ad.sk. Oyapok. 
@@ -39501,7 +39501,7 @@ Guatemala. Gould Coll.
 imm. sk. (Types of the species.) 
 t, u. <$ ad. et imm. Guatemala. Sclater Coll. 
 sk. 
-v, w. d ad. st. Honduras. Purchased. 
+v, w. d ad. sk. Honduras. Purchased. 
 cc, y. 6 2 a<i-sk. British Honduras (Blanea-Salvin-Codman Coll. 
 
 neaux). 
@@ -39540,7 +39540,7 @@ m\ n'. <$ ad. et Bugaba, Chiriqui (ArcS). Salvin-Godman Coll.
 imm. sk. 
 
 
-o'. J ad. st. Chiriqui. Capt. KellettandLt. 
+o'. J ad. sk. Chiriqui. Capt. KellettandLt. 
 Wood. 
 p'. $ ad. sk. Southern slope of Chiriqui Salvin-Godman Coll. 
 
@@ -40056,7 +40056,7 @@ c". <$ ad. sk.
 ci", e". $ ad. sk. 
 
 /'. c? ad. sk. 
-#". <J ad. st. 
+#". <J ad. sk. 
 
 [Nepal!] 
 
@@ -40810,7 +40810,7 @@ a. $ ad.sk. Sumatra (Bock). Tweeddale Coll.
 b. $ 
 ad. sk. Mount Sago, Sumatra, Tweeddale Coll. 
 Sept. (Bock). 
-c. d. (S ? ad. st. Borneo [?]. Purchased. 
+c. d. (S ? ad. sk. Borneo [?]. Purchased. 
 7. Harpactes duvauceli. 
 Trogon kasumba, juv., Baffl. Tr. Linn. Soc. xiii. p. 283 (1822). 
 
@@ -41314,7 +41314,7 @@ is barred with white on the two outer pairs.
 
 Bab. Java. 
 
-a. S ad. st. 
+a. S ad. sk. 
 b. (S ad. sk. 
 c. J ad. sk. 
 Java. 

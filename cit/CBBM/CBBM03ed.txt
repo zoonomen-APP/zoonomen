@@ -2032,7 +2032,7 @@ dimensions given above show how these vary in the Museum series.
 Hub. The whole of Europe, Northern and Central Asia, North 
 America, ranging into Mexico. 
 
-a,b. <$ % ad. st. England. Purchased. 
+a,b. <$ % ad. sk. England. Purchased. 
 
 c. Jim. st. England. Purchased. 
 d. Ad. sk. Cambridgeshire. Mr. J. Baker [C,]. 
@@ -3154,7 +3154,7 @@ b, c. Juv. st. Great Britain.
 d}e,f. Pull, st, Cambridgeshire, June 1853. Mr. J. Baker [0.1 
 
 
-g. J ad. st. Cambridgeshire. Mr. J. Baker [C.I. 
+g. J ad. sk. Cambridgeshire. Mr. J. Baker [C.I. 
 'L Ad. sk. Wiltshire. Col. Montagu HP.]. 
 *. Ad. sk. Hempstead, Norfolk. J. H. Gurney, Esq.,, 
 Junr. [P.]. 
@@ -3420,7 +3420,7 @@ length 15*5 inches, culmen 2-05, wing 11*1, tail 7*1, tarsus 1*95.
 Bob. North-western coast of North America. 
 
 a. Ad. sk.
-K Acl. sk. 
+K Ad. sk. 
 West side of Rocky Mountains. 
 Vancouver Island. 
 J. K. Lord, Esq. [P.]. 
@@ -3497,7 +3497,7 @@ o, d. cS 5 ad. sk. Lilfoid Ilall, Northants, Lord Lilford [P.].
 March 10, 1876. 
 
 
-e. J ad. st. Bushey, Herts. Purchased. 
+e. J ad. sk. Bushey, Herts. Purchased. 
 / . Ad. sk. Near Paris. E. B. Sharpe, Esq. [P.] 
 g. Juv. sk. Turin. M. Bonelli rCVI. 
 X. S ad. sk. Bahyna, E. Siberia, May 18, Dr. Dybowski f C] t 
@@ -5041,7 +5041,7 @@ b.
 $ ad. sk. Norfolk, Yan Diemen's Land, J. Gould, Esq. [C.J. 
 December 4, 1838. 
 c. 
-S ad. st. George Town, Yan Diemen's J. Gould, Esq. [0.]. 
+S ad. sk. George Town, Yan Diemen's J. Gould, Esq. [0.]. 
 Land, May 1839. 
 d. Ad. sk. Yan Diemen's Land. J. Gould, Esq. [0.1 
 e. Ad. sk. Van Diemen's Land. J. Gould, Esq. [O.J. 
@@ -6134,7 +6134,7 @@ culmen 1*4, wing" 6-6, tail 12, tarsus 1*9.
 
 Hob. Xorth-eastern Africa and Senegambia. 
 
-a. [ d J ad. st. Africa. J. Gould, Esq. [P.]. 
+a. [ d J ad. sk. Africa. J. Gould, Esq. [P.]. 
 b, [ 01 ad. sk. River Gambia. 
 e. IS1 ad. sk.
 d\2\ **. *&«
@@ -10508,8 +10508,8 @@ Hector),
 
 d-g. J ad.andjun.sk. Wainuiomata Valley. Colonial Museum [C.J. 
 
-h. <$ ad. st. New Zealand. Percy Earl, Esq. [C.J". 
-i. 2 ad. st. New Zealand. Sir George Grey [P.J. 
+h. <$ ad. sk. New Zealand. Percy Earl, Esq. [C.J". 
+i. 2 ad. sk. New Zealand. Sir George Grey [P.J. 
 38. CREADIOH. ™ 
 Type. 
 Creadion, VieilL N. Did. d? Hist. Nat. viii. p. 390 (1817) C. carunculatus. 
@@ -10764,7 +10764,7 @@ h. J ad. sk. Hautes-Pyrene"es, April A. B. Brooke, Esq. [C.].
 18, 1872. 
 i. <$ ad. sk. Granada {H. Saunders). R. B. Sharpe, Esq. [P.]. 
 &, /. Ad. sk. Tangier. M. Olcese [C.]. 
-m. 2 ad. st. Athens. 0. W. L. Merlin, Esq. 
+m. 2 ad. sk. Athens. 0. W. L. Merlin, Esq. 
 n. Ad. sk. Smyrna. C.W.L. Merlin, Esq. [P.]. 
 o. Ad. sk. Kytch Territory, west of J. Gould, Esq. 
 the Nile, Jan. 1862 
@@ -11202,7 +11202,7 @@ Hab. South-eastern Australia, ranging as for north as Queens
 
 
 land. 
-a, b. g J ad. st. Australia. 
+a, b. g J ad. sk. Australia. 
 <?, d. <$ $ ad. sk. New South Wales. J. E. Hartlng, Esq. [P.]. 
 
 2. Ptilorhis victoriae. 
@@ -11266,7 +11266,7 @@ a
 rfad sk. Barnard Islands. J. Macgiffivray, Esq. [C/\ 
 {Type of species,] 
 
-h. Q ad. st. Barnard Islands. J. Maegffiivray EN*. X. \ 
+h. Q ad. sk. Barnard Islands. J. Maegffiivray EN*. X. \ 
 c. J ad. sk, Barnard Islands. J. Macgiilivray, i*q. >-^ 
 3. Ptilorhis alberti*. 
 Ptilorhis magnificus, Gould, B. Austr. v. 8upp2. pi 51. 
@@ -11352,7 +11352,7 @@ Hah. North-eastern Australia.
 
 a,h. £ $ ad. sk. Port Albany. Purchased. 
 c, S ad, st. Cape York. J. Macgillivray, Esq. TP.]. 
-d, e. $ ad. st. Cape York. J. Macgillivray, Esq. "[P.]. 
+d, e. $ ad. sk. Cape York. J. Macgillivray, Esq. "[P.]. 
 /-6 }uv. st. Cape York. Capt. Stanley [P.]. 
 
 
@@ -11707,7 +11707,7 @@ slender, much curved, and, with the feet and tarsi, jet-black.
 Hah. Few Guinea. 
 a.
 b. 
-<$ ad. st. 
+<$ ad. sk. 
 cf jun.sk. 
 New Guinea. Baron Laugier. 
 New Guinea. Purchased. 
@@ -12747,7 +12747,7 @@ a. <S ad. sk. Batchian. A. R. Wallace, Esq. [0.]. (Type
 k 2 ad. sk.
 e. S juv. skd, e. £ ad. sk.
 f,g. $ ad. sk.
-h-h d 5 ad. st. 
+h-h d 5 ad. sk. 
 Batchian. 
 Batchian. 
 E. Gilolo. 
@@ -12824,7 +12824,7 @@ under wing-coverts rufous, barred across with brown. Total length
 8-8 inches, culmen 1*05, wing 5*1, tail 4, tarsus 1*3. 
 
 Eab. New Guinea. 
-a. $ ad. st. New Guinea. 
+a. $ ad. sk. New Guinea. 
 b. $ ad. sk. Atam, Dec. 10, 1875. Purchased. 
 
 15. PHONYGAMA. 
@@ -12880,7 +12880,7 @@ latter black on their inner web; bill and legs black. Total' length
 Hab. New Guinea. 
 
 a. <$ ad. sk. Dorey, N, G. A. R.Wallace, Esq. [0.1. 
-b,c,d. <$ $ <3 juv.et ad. st. Dorey, N. G. A. R. Wallace, Esq. [0.1. 
+b,c,d. <$ $ <3 juv.et ad. sk. Dorey, N. G. A. R. Wallace, Esq. [0.1. 
 e. 
 (S ad. sk. New Guinea. A. R. Wallace, Esq. [O.J. 
 2. Phonygama jamesii. 
@@ -12928,7 +12928,7 @@ Hab. North-eastern Australia.
 
 a. Ad. sk. Port Albany. Purchased. 
 J. Macgillivray, Esq. [0,]. (Type 
-b. $ ad. st. Cape York, 
+b. $ ad. sk. Cape York, 
 of species.) 
 
 182 PARADISEID2E. 
@@ -13007,7 +13007,7 @@ plumes is evidently only acquired by age.
 
 Hah. North-western New Guinea. 
 
-a,b. <$ J ad. st. Dorey, New Guinea. A. R. Wallace, Esq. 
+a,b. <$ J ad. sk. Dorey, New Guinea. A. R. Wallace, Esq. 
 
 c. S ad. sk. Dorey, New Guinea. A. E. Wallace, Esq. 
 d. Ad. sk. New Guinea. Purchased. 
@@ -13174,7 +13174,7 @@ inches, culmen 1*75, wing 74, tail 6*1, tarsus 1*75.
 
 Rab. Batchian, Gilolo. 
 
-a $ ad. st. Batchkn. A. R. Wallace, Esq. [C. 
+a $ ad. sk. Batchkn. A. R. Wallace, Esq. [C. 
 
 b. J ad. sk. Batchian. A. R. Wallace, Esq. [0. 
 c. Ad. sk. Gilolo. A. R. Wallace, Esq. [0. 
@@ -13685,7 +13685,7 @@ Hah. The whole of Europe: Persia and S.W. Asia, visiting South
 
 Africa in winter. 
 
-a. cf ad. st. 
+a. cf ad. sk. 
 b. Pull, fct. 
 c. Pull. sk. 
 d. Ad. sk. 
@@ -15036,8 +15036,8 @@ t,h 6 ad. sk. Borneo.
 h ™- 6 2 ad. sk. Borneo. Hugh Cuming, Esq. TO. 1. 
 n. £ ad, sk. Bintulu. A. Everett, Esq. [0.1 
 o. 2 &d. sk. Labuan. Hugh Low, Esq. [C.]. 
-p. 6 ad. st. Indian archipelago. F. Nightingale, Eeq.tP.l 
-<?. 2 ad. st. Indian archipelago. F. Nightingale, Esq. [P.]. 
+p. 6 ad. sk. Indian archipelago. F. Nightingale, Eeq.tP.l 
+<?. 2 ad. sk. Indian archipelago. F. Nightingale, Esq. [P.]. 
 3 . OKIOLT78. 215 
 24. Oriolus melanocephalus. 
 The Black-headed Indian Icterus, Edwards, Birds, p. 77, pi 77, 
@@ -15687,7 +15687,7 @@ tail 4-4, tarsus 1.
 Adult female. Differs from the male exactly as does the female 
 of 8. salvadorii or 8. flavigaster. 
 Hob. Australia. 
-a, b. tf ad. st. Australia. Purchased. 
+a, b. tf ad. sk. Australia. Purchased. 
 
 2. Sphecotheres salvadorii. (Plate XII.) 
 Adidt male. General colour above dull olive-yellow, the wing-
@@ -17008,7 +17008,7 @@ region, China, and Formosa; Java.
 
 a. B. macrocerca, 
 a. Ad. sk. India. 
-b. $ ad. st. India. 
+b. $ ad. sk. India. 
 c. $ juv. St. India. 
 d. Ad. sk. India. 
 Dr. Bums [P.]. 
@@ -18704,8 +18704,8 @@ forehead blackish brown like the crown; all the quills and tail-
 feathers distinctly tipped with white. 
 
 Hal. Australia. 
-a. 2 ad. st. Australia. 
-h. [ $ ] ad. st. Australia. Linnean Society [P.]. 
+a. 2 ad. sk. Australia. 
+h. [ $ ] ad. sk. Australia. Linnean Society [P.]. 
 e- [ ? 1a<3-s^*
 d, e. $ $ ad. sk.
 /. Pull. st.
@@ -19171,7 +19171,7 @@ whitish, with a wash of pale brown on the abdomen and thighs.
 Hab. South Africa. 
 
 a. Ad. sk. South Africa (Smith). South-African Museum. 
-b. 2 ad. st. South Africa. * Sir A. Smith [CA 
+b. 2 ad. sk. South Africa. * Sir A. Smith [CA 
 c. Juv. sk. South Africa (Smith). Zoological Society. 
 (Type of species.) 
 d. e. S ad. sk. Transvaal (T. Ayres). R. B. kharpe, Esq. 
@@ -19499,7 +19499,7 @@ Hah. My sol.
 
 a. <$ ad. sk. Mysol. A. R. Wallace, Esq. [C.]. (Type 
 of species.) 
-b, e. <$ 2 ad. st. Mysol. A. R. Wallace, Esq. [0.]. 
+b, e. <$ 2 ad. sk. Mysol. A. R. Wallace, Esq. [0.]. 
 
 3. Rectes tibialis. 
 Similar in all respects to liectes uropygialis, but rather smaller; 
@@ -19571,7 +19571,7 @@ Hal. "Waigiou.
 
 a, h. $ ad. sk. Waigiou. A. R. Wallace, Esq. [C.]. (Type 
 of species.) 
-c, d. $ ad. st. Waigiou. A. R. Wallace, Esq. [0.].. 
+c, d. $ ad. sk. Waigiou. A. R. Wallace, Esq. [0.].. 
 
 6. Rectes cristatus. 
 Rectes cristata, Salvad. Ann. Mus. Civic. Genov. vii. p. 930. 
@@ -20198,13 +20198,13 @@ of Pinarolestes rufig aster.
 
 Hab. Northern and North-eastern Australia. 
 
-a. [ $ ] ad. st. Barnard Isles, June 2,1848 Oapt. Stanley [P.]. 
+a. [ $ ] ad. sk. Barnard Isles, June 2,1848 Oapt. Stanley [P.]. 
 (J. Macgillivray). 
-b. [ $ ] ad. st. Brown's River (J. M.). Oapt. Stanley [P.]. (Type 
+b. [ $ ] ad. sk. Brown's River (J. M.). Oapt. Stanley [P.]. (Type 
 of M. gouldi.) 
 c. <$ ad. sk. Dunk Island (J. M.). Oapt. Stanley [P.]. (Type 
 of M. griseatus.) 
-d. S ad. st. Oape York (J. M.). Oapt. Stanley [P.J* 
+d. S ad. sk. Oape York (J. M.). Oapt. Stanley [P.J* 
 e. Ad.sk. Port Albany. Purchased. 
 / . [Juv.Jsk. " Port Albany. Purchased. 
 4. Pinarolestes afftnis. 
@@ -20740,7 +20740,7 @@ inches, culmen 0-6, wing 2*6, tail 2-3, tarsus Oa.
 
 Hub. Java, Sumatra, Borneo, Malacca, ranging into Tenasserim. 
 
-a. 3 ad. st. Java. Purchased. 
+a. 3 ad. sk. Java. Purchased. 
 b, c. 3 2 ad. sk. Java. Purchased. 
 d e. d 9 ad. sk. Java (Br. Horsfield). Secretary of State for 
 India [P.], 
@@ -20804,7 +20804,7 @@ brown ; the markings on both these exactly as in the male. Total
 length 5-3 inches, culmen 0-5, wing 2-5, tail 2'(5, tarsus 0-55 (Nepal). 
 Mange. Himalaya Mountains, ranging into Burmah. 
 
-a. £ ad. st. Himalava Mountains. 
+a. £ ad. sk. Himalava Mountains. 
 o, c, d, e. Ad. sk. Nepal. B. H. Hodgson, Esq. 
 [P.]. 
 /, g. Ad., k, i. Jun. sk. Darjiling. J. Fotheringham, Esq. 
@@ -21983,8 +21983,8 @@ the approaching black hood; cross lines on abdomen very distinct.
 
 Hab. Madagascar. 
 
-a. [(?] ad. st. Madagascar. Purchased. 
-b. [J J ad. st. Madagascar. Purchased. 
+a. [(?] ad. sk. Madagascar. Purchased. 
+b. [J J ad. sk. Madagascar. Purchased. 
 c. <•? ad. sk. S.E, Madagascar(Crossleg). E,. B. Sliarpe, Esq. [P.]. 
 d. 2 a<l* sk- S.E. Madagascar. Mr. A. Crossley [0.1 
 e. 2 juv. sk. S.E. Madagascar. Mr. A. Crosslev [O.J. 

@@ -1722,7 +1722,7 @@ $ ad.,-v,w. <5 1808 (Dr. A. Habel).
 6 imm. sk. 
 
 x. 
-<$ ad. st. Galapagos (Dr. A. Habel). Sclater Coll. 
+<$ ad. sk. Galapagos (Dr. A. Habel). Sclater Coll. 
 5. Geospiza nebtilosa. 
 Geo.spiza nebulosa, 
 Gould, P. Z. S. 1837, p. 5; Darwin, Zool. Voy. 
@@ -1856,7 +1856,7 @@ Darwin).
 c. 2 
 ad. sk. Chatham Island (C. Salvin-Godman Coll. 
 Darioin). 
-d. e. d1 $ ad. st. James Island. Sir W. Burnett and 
+d. e. d1 $ ad. sk. James Island. Sir W. Burnett and 
 f, g, h. Juv. sk. Admiral Fitzroy [P.], 
 Albemarle Island. Commander Cookson 
 ij k. £ ad. sk. [P.], 
@@ -2085,7 +2085,7 @@ p. 359 (1844); Bp. Consp. i. p. 542 (1850); Scl. # Salv. P. Z. S.
 1870, p. 323; Gray, Hand-l. B. ii. p. 89, no. 7305 (1870) ; Scl \ 
 Salv. Nomencl Av. Neotr. p. 29 (1873); Salvin, Trans. Z. S. ix. 
 p. 488 (1876), 
-Aclult female (type of species). Similar to C. crassirostris, but a 
+Adult female (type of species). Similar to C. crassirostris, but a 
 little smaller and without any indentation in the bill. Total length 
 4*6 inches, culmen 0-65, wing 2*75, tail 1*65, tarsus 0*9. 
 
@@ -2108,7 +2108,7 @@ Oamarhyiiclius liabeli, Scl # Sato. P. Z. S. 1870, pp. 323, 325 ; iid.
 Nomencl Av. Neotr. p. 29 (1873); Salvin, Trans. Z. S. ix. p. 490, 
 pi. lxxxvi. (1875). 
 
-Ad alt male. Similar to the male of G. variegatns, but with the 
+Adult male. Similar to the male of G. variegatns, but with the 
 breast uniform black, not mottled with black spots. Total length 
 4*5 inches, culmen 0-55, wing 2-8, tail 1*7, tarsus 0-85. 
 
@@ -2150,7 +2150,7 @@ a. h. J ad. sk. Indefatigable Island, Sept. Salvin-Godman Coll.
 12,1868 (Dr. A. Habel). (Types of species.) 
 c. $ imm. sk. Indefatigable Island, Aug. Dr. A. Habel [C.]. 
 26, 1868. 
-d. r? ad. st. TJames Island.l Oapt. Kellett and Lieut, 
+d. r? ad. sk. TJames Island.l Oapt. Kellett and Lieut, 
 Wood [P.]. 
 VOL. XII.
 
@@ -2595,7 +2595,7 @@ North-western Turkestan.
 
 a,h. $ 2 ad. sk. Orkneys (Dwiri). E. B. Sharpe, Esq. [P.]. 
 c. S ad. sk.
-d. e. c? ad. st. 
+d. e. c? ad. sk. 
 Hawkstone, Shropshire. 
 Leicestershire. 
 Gould Collection. 
@@ -2614,7 +2614,7 @@ Salvin-Godman Coll.
 
 4 . CH10EIS. 
 p. 5 var. sk. 
-q, r. <$ ad. st. 
+q, r. <$ ad. sk. 
 
 s. (5 ad. sk. 
 t, zt* Pull. sk. 
@@ -2626,13 +2626,13 @@ y, z; a' $ ad. sk.
 V. $ ad. sk. 
 c'. $ ad. sk. 
 
-61. <$ ad. st. 
+61. <$ ad. sk. 
 <?'. (S ad. sk. 
 /'. 6i9',h',i. $ 
 ad. sk. 
-&\ J ad. st. 
+&\ J ad. sk. 
 /', m'. (S 2 ad. sk. 
-n'. (S ad. st. 
+n'. (S ad. sk. 
 o'. Ad. sk. 
 p\q\ 61 r',s'. § 
 
@@ -2653,7 +2653,7 @@ a. $ ad. sk.
 j3. Juv. sk. 
 
 y. $ ad. sk. 
-5. d1 ad. st. 
+5. d1 ad. sk. 
 e. S ad. sk. 
 f. d acl. sk. 
 rj. d ad. sk. 
@@ -2925,7 +2925,7 @@ g. <? imm. sk.
 A. 0 ad. sk.
 i-m. £ ad. sk.
 n, $ ad. sk.
-o. <$ ad. st. 
+o. <$ ad. sk. 
 Hakodadi, April 1,1865(1L WiUely). 
 Nagasaki. 
 Nagasaki, Dec. 17,1876. 
@@ -3464,7 +3464,7 @@ mala, Nov. 1801 (0. 8.
 $ F. D. O.). 
 
 m. 
-S ad. st. Guatemala (67. XT. Skin- G. U. Skinner, Esq. 
+S ad. sk. Guatemala (67. XT. Skin- G. U. Skinner, Esq. 
 ner). 
 B2 
 
@@ -3659,7 +3659,7 @@ Hab. Europe generally, extending eastwards to Asia Minor and the
 Caucasus, perhaps to Northern Persia and Turkestan, though the 
 species from the last-named localities may prove to be C. humii. 
 
-a, J ad. st. Norfolk. 
+a, J ad. sk. Norfolk. 
 Lord Walsingham 
 
 rp.i. 
@@ -3673,12 +3673,12 @@ k Pull. sk. Norfolk. [p.].
 Lord Walsingham 
 i, k. Juv. st. Cambridgeshire. Mr. J. Baker [C.I 
 
-I, m* 3 $ ad. st. Turnham Green, Middlesex. Mr. J. Baker [C.J. 
-nf o. 3 J ad. st. Hampstead, Middlesex Salvin-Godman Coll. 
+I, m* 3 $ ad. sk. Turnham Green, Middlesex. Mr. J. Baker [C.J. 
+nf o. 3 J ad. sk. Hampstead, Middlesex Salvin-Godman Coll. 
 (O.S.). 
 p, q. 3 ad. ,* r, Cookham, Berkshire. Mr. W. Briggs [P.]. 
 
-s. 5 ad. st. 
+s. 5 ad. sk. 
 t, u. <•? § ad. sk. Cookham, Berkshire (/. G.). Gould Coll. 
 v. Juv. sk. Cookham, Berkshire (/. G.). Gould Coll. 
 w. 
@@ -4175,7 +4175,7 @@ ad. sk.
 ?• 
 
 
-c? ad. st. N.W. Himalayas. Capt. Stackhouse 
+c? ad. sk. N.W. Himalayas. Capt. Stackhouse 
 Pinwill [P.]. 
 
 r. 
@@ -4191,7 +4191,7 @@ ad. sk. Duwaulee, in Kotekhaie, Feb. Hume Coll.
 21,1871. 
 
 
-z. $ ad. st. Duwalee, Feb. 21,1871. Hume Coll. 
+z. $ ad. sk. Duwalee, Feb. 21,1871. Hume Coll. 
 a',. b'. cJ J ad. sk. Fagoo, near Simla. Hume Coll. 
 c\ c? ad. sk. Fagoo, Sept. 11, 1868 (A. Hume Coll. 
 0. H.). 
@@ -5508,7 +5508,7 @@ Presidio, Mexico, Feb. 25 Salvin-Godman Coll
 (A. Fairer). 
 o. $ ad. sk. Mexico (J. Taylor). Zoological Society. 
 (Type of species.) 
-Pi ?• 6 2 ad. st. Mexico Purchased. 
+Pi ?• 6 2 ad. sk. Mexico Purchased. 
 
 /3. H. capitalis. 
 
@@ -5759,7 +5759,7 @@ breeding throughout its U.S. range; rarely north to Massachusetts
 and even Maine (Coues); throughout Mexico and Central America 
 to Nicaragua and Costa Eica. Cuba. 
 
-a, b. S ad. st. 
+a, b. S ad. sk. 
 North America. Purchased. 
 Texas, lat. 32° (Br. Benry; Sm. Salvin-Godman Coll. 
 
@@ -6796,7 +6796,7 @@ Bab. Bahamas, Jamaica, Haiti, and San Domingo.
 
 a. <$ imm. sk. Panama (McLeannan). Salvin-Godman Coll. 
 b. c? ad. sk.
-c. 3 ad. st. 
+c. 3 ad. sk. 
 S. Domingo. 
 Jamaica. 
 Sclater Coll. 
@@ -6918,7 +6918,7 @@ L $ ad. sk. Martinique (F. A. Ober). Salvin-Godman Coll.
 k, I <$ 2 ad. sk. Santa Lucia (G. Sem2^er). Sclater Coll. 
 m, n. c? $ ad sk. Santa Lucia (G. Semper). Salvin-Godman Coll. 
 o. $ ad. sk. Montserrat (Sturge). Salvin-Qodman Coll. 
-p, q. $ ad. st. Antilles. Purchased. 
+p, q. $ ad. sk. Antilles. Purchased. 
 3. Loxigilla propinqua. 
 Loxigilla noctis, var. propinqua, Later. Proc. TI, 8. Nat. Mus. i, p. 58 
 (1878). 
@@ -7758,7 +7758,7 @@ Salvin-Godman OolL
 f. cS ad. sk. 
 1884 (II. Whitely). 
 Venezuela. Sclater CoU. 
-\j. S ad. st. 
+\j. S ad. sk. 
 h, i. S ad. sk. 
 k. J ad. sk. 
 /. c? ad. sk. 
@@ -7779,7 +7779,7 @@ n, o. $ $ ad. sk.
 p, q. $ ad. sk. 
 r, s.$) ?5.$ ad.sk. 
 u. $ ad. sk. 
-v. <$ ad. st. 
+v. <$ ad. sk. 
 Salmon). 
 Bogota. 
 Bogota. 
@@ -8682,7 +8682,7 @@ Tobago (Kirk).
 Sclater Coll. 
 Sclater Coll. 
 r. <5 ad. sk. Para. R.Graham, Esq, [P.]. 
-s. S ad. st. S. America. Purchased. 
+s. S ad. sk. S. America. Purchased. 
 
 10, SpermopMla hypoxantha. 
 
@@ -9263,7 +9263,7 @@ Presidio, Mexico, Dec. 22
 Salvin-Godman Coll. 
 Salvin-Godman Coll. 
 (A. Forrer). 
-g. <$ ad. st. Mexico. Purchased. 
+g. <$ ad. sk. Mexico. Purchased. 
 
 24. SpermopHla albitor<pis. 
 Adult male. Similar to S. torqueola, but distinguished by a white 
@@ -10207,10 +10207,10 @@ Hah. Brazil, Amazonia, Guiana, and Venezuela.
 133 
 
 a. Spermophila lineola. 
-a. d ad. st. South America. 
+a. d ad. sk. South America. 
 Purchased. 
 
-b. d ad. st. Bahia. 
+b. d ad. sk. Bahia. 
 Sudbury Museum. 
 
 c. ^. c? ad. sk. JBaliia (Wucherer), Salvin-Godman Coll. 
@@ -10483,7 +10483,7 @@ but the sides of the body are brown.
 
 Hal. Prom Colombia to Ecuador, Peru, and Bolivia. 
 
-a. <$ ad. st. Colombia. Purchased 
+a. <$ ad. sk. Colombia. Purchased 
 *,c. S ad. sk Bogota. Purchased. 
 d,e. d $ ad. sk. Bogota. Sclater Coll. 
 f. 2 ad. sk. Bogota. Salvin-Godruan Coll. 
@@ -10509,7 +10509,7 @@ L J
 Oct. 18G6.
 
 V. $ juv. sk. Simacu, Bolivia (C. Buckley). Salvin-Godman Coll. 
-w,. $ ad. st. S. America. Zoological Society. 
+w,. $ ad. sk. S. America. Zoological Society. 
 17 . SPBEMOPHTLA. 
 137 
 
@@ -11712,7 +11712,7 @@ cl <$ ad. sk.
 
 e. <£ ad. sk. 
 />#• 6 $ acl.sk-
-Zt. c? ad. st. 
+Zt. c? ad. sk. 
 ?. cJ ad. sk. 
 h, I. tf ad. sk. 
 wi, w. d1 ad. sk. 
@@ -13062,7 +13062,7 @@ a. (S ad. sk,
 b. <S ad. sk. 
 c. S ad. sk. 
 d. Var. sk. 
-e. § ad. st. 
+e. § ad. sk. 
 /, ff- 6 2 ad. sk. 
 
 h, I <$ 2 &&> stk, 
@@ -13081,7 +13081,7 @@ w'. 2 a(l* s^«
 
 x. S &&* sk. 
 y. <$ ad. sk. 
-z. $ ad. st. 
+z. $ ad. sk. 
 a'. $ ad. sk. 
 h\ 2 ad. sk. 
 cr. 2 a^-sk« 
@@ -13491,7 +13491,7 @@ two forms of Chaffinch.
 flab. North-eastern Africa, from Tunis to Morocco. 
 
 a. (J ad. sk. Algeria. Gould Coll. 
-b. $ ad. st. Algeria. Purelia-ed. 
+b. $ ad. sk. Algeria. Purelia-ed. 
 e. $ ad. sk. Algiers, April 23 (II. B. Tristram). Salvin-Godman Coll. 
 d. (S ad. sk. EflJjem, Tunis, March (O. S.). ' Salvin-Godman Coll. 
 e, (S ad. sk. Tunis. L. Fraser, Esq. [CV. 
@@ -13672,9 +13672,9 @@ b. S ad. sk. Cornwall. Montagu Coll.
 c. tf ad. sk. 
 d. 
 <$ ad. sk. 
-e. $ ad. st. 
+e. $ ad. sk. 
 f. cS ad. sk. 
-</, h. S ad. st. 
+</, h. S ad. sk. 
 «. 5 ad. sk. 
 k, I 6 2 ad. bk. 
 
@@ -13682,7 +13682,7 @@ w. $ juv. bk.
 ?*. 2 ad. bk. 
 
 o. (5 ad. hk. 
-/>,?. d 5 ad. st. 
+/>,?. d 5 ad. sk. 
 
 r. Ad. &k. 
 «s\ £. J ad. bk. 
@@ -14418,7 +14418,7 @@ y. Skeleton. England. Mr. J. Turner [P.].
 8. Skull. England. Purchased. 
 e. Skull. S. Germany. Dr. Giinther [C.]. 
 a. C. major. 
-C, 7). Acl. sk. Persia. 
+C, 7). Ad. sk. Persia. 
 Charles Darwin, Esq. 
 
 [?•]• 
@@ -15153,7 +15153,7 @@ U. (J a<l-S^-Red Bluff, N. California, April U. S. Nat. Museum
 Sm. no.98297). 
 y. (51 imni. sk. Jalapa {Be Oca). Sclater Coll. 
 w,x. $ 5im1a.sk. Jalapa (Be Oca). Salvin-Godman Coll. 
-y. $ ad. st. Mexico. 
+y. $ ad. sk. Mexico. 
 Purchased. 
 z. Skeleton, nitd. N. America. 
 Purchased. 
@@ -16363,7 +16363,7 @@ h, f. S ^d. j k. J Cookkam, Dec. 1879. E. B. Sharpe, Esq. [P.].
 ad. sk. 
 l7?7i, n. ^ad.st . Cookkam. Mr. W. Briggs [P.]. 
 
-o. $ ad. st. Turnkani Green. Mr. J. Baker [C.]. 
+o. $ ad. sk. Turnkani Green. Mr. J. Baker [C.]. 
 p. <$ ad. sk. Near London. Montagu Coll. 
 q7r. $ J ad. sk. Lancing, Sussex, Nov. 1883. E. B. Sharpe, Esq. [P.]. 
 s} t, M. <$ ad.; Avington, Hants, Feb. 1880. E. B. Sharpe, Esq. [P.], 
@@ -16386,7 +16386,7 @@ e'. S ad. sk. Norway, Nov. 18, 1883 Christiania Mas. [P.].
 f, g\ 6 S ad. sk. Belgium, Bee. 12, 1870. Brussels Museum [P.], 
 h'. <$ ad. sk. Leiden, Holland, July 16, E. B. Sharpe, Esq. [P.]. 
 1878. 
-i\ S ad. st. Mongeron, Seine-et-Oise, E. B. Sharpe, Esq. [P.], 
+i\ S ad. sk. Mongeron, Seine-et-Oise, E. B. Sharpe, Esq. [P.], 
 France, March (22. £. S.). 
 k\ 9 ad. sk. Guiksu, Asia Minor, Oct. 18, Hume Coll. 
 1866 (T. Robson). 
@@ -16502,7 +16502,7 @@ b, c. d 2 ad. sk. Straits of Magellan. Old Coll
 d. $ ad. sk. Tierra del Fuego. Sir W. Burnett and 
 Admiral Fitzroy. 
 e. S ad. sk. Chili (E. C. Meed). Salvin-Godman Coll. 
-/ . d ad. st. Maldonado, Chili (C. Darwin). Zoological Society. 
+/ . d ad. sk. Maldonado, Chili (C. Darwin). Zoological Society. 
 g. [<$ ad.] sk. South America. Sclater Coll. 
 
 16. Chrysomitris icterica*. 
@@ -16632,7 +16632,7 @@ too slight to allow of their being separated even as races.
 
 Hah, Brazil and Argentine Eepublic to Chili. 
 
-a. <$ ad. st. South America. Purchased. 
+a. <$ ad. sk. South America. Purchased. 
 h. S ad. sk. Chili (Leyhold). Salvin-Godman Coll. 
 c. <$ ad. sk. Pampas Argentinas {Leyhold). Sahm-Godniaii Coll. 
 d, e. S ? ad. sk. Snlta, June 21,1878. Henrv DuraforcLEsq. 
@@ -16861,7 +16861,7 @@ wing-coverts and inner secondaries.
 
 Hah. Central America, from Mexico to Guatemala. 
 
-a, h. S ad. st. Mexico. Purchased. 
+a, h. S ad. sk. Mexico. Purchased. 
 c.tf ad.sk. City of Mexico (JEhces). Selater Coll. 
 
 
@@ -17146,7 +17146,7 @@ Sclater Coll.
 d. $ ad. sk. Caracas, Venezuela. Mr. C. Dy&on XV. 
 e. tf ad. sk. Trinidad. Sclater Cull. 
 / . 5 ad. sk. Trinidad. Purchased. 
-g. S ad. st. Cuba. 
+g. S ad. sk. Cuba. 
 Purchased. 
 22. Chiysomitris tMbetana. (Plate III.) 
 CkiTSoniitris thibetana, 
@@ -17950,7 +17950,7 @@ x,y. <$ 2 ad. sk.
 
 z-a'. S $ ad. sk. 
 
-V. $ ad. st. 
+V. $ ad. sk. 
 c, d}. <5 ; e',f, 
 
 g'. J ad. sk. 
@@ -18418,7 +18418,7 @@ e'. <$ ad. sk.
 f,g'. Juv.sk. 
 h'. 2 ad. sk. 
 
-V. S ad. st. 
+V. S ad. sk. 
 k'-y*. (S ad.; 
 
 z'~-{. $ ad. sk. 
@@ -18469,7 +18469,7 @@ o, 7T, p, ar. S ad.; Avington, Hants, Feb. 1880.
 T, v. 2 ad. sk. 
 
 <p. tf ad. sk. Avington, May 12. 
-X. J ad. st. Dorsetshire, May. 
+X. J ad. sk. Dorsetshire, May. 
 yjs. Var. alb. sk. Devonshire. 
 a>. cS ad.sk. Axmouth, Devonshire, Oct. 
 28, 1882. 
@@ -19475,7 +19475,7 @@ c\
 cS ad. sk. 
 
 d'. 
-cS ad. st. 
+cS ad. sk. 
 
 e'. $ ad. sk. 
 
@@ -19609,7 +19609,7 @@ Hume Coll.
 254 
 FBIXGILLID32. 
 
-w\ x>. (S ad. st. Brighton, Sussex, April. E. B. Sharps Esq. 
+w\ x>. (S ad. sk. Brighton, Sussex, April. E. B. Sharps Esq. 
 §~P.]. 
 y', z', a. tf ad. sk. Brighton, Oct. 16, 1883. E. B. Sharpe, Esq. 
 (Wings 2-7-2-85.) [P.]. 
@@ -19901,7 +19901,7 @@ U.S. Xat Mus. Tiii. p.'259 (lbb5); A. 0. U. Chech-list N. Amer.
 B. p. 259 (18bG). 
 iEgiothu^ hornemanni, Corns, Key K Amer. B. 2nd ed. p. 49 (1884). 
 Acanthis hornemanni tvpica, Bretuder, Aide, iv. p. 1G4 {1887). 
-Afhflt male. Similar to A, extlipes, but larger. Total length 5*3 
+Adult male. Similar to A, extlipes, but larger. Total length 5*3 
 inches, oilmen 0*4, wing 3*4, tail 2*5, tarsus 0*65. 
 
 
@@ -23976,7 +23976,7 @@ Highworth, Wilts, Oct. 1883.
 a. c? var.; 
 Devonshire. 
 0. $ ad. sk. 
-7, 5. c? ad. st. Pembrokeshire, June. 
+7, 5. c? ad. sk. Pembrokeshire, June. 
 €. c? ad. sk. South Norway, June (J. 
 Baker). 
 
@@ -25523,8 +25523,8 @@ f, ©'. d $ ad.;
 
 a. 2 2UY' s-k« 
 b, c. Ad. sk. 
-d,e. d ? ad. st. 
-/. 3 ad. st. 
+d,e. d ? ad. sk. 
+/. 3 ad. sk. 
 Bhootan Dooars, Jan. 1877 (X. 
 
 Mandelli). 
@@ -25947,9 +25947,9 @@ mottled with dusky tips to the feathers.
 Bab. South Africa, eastwards to the Transvaal, and westwards to 
 Benguela. 
 
-«, b. 8 $ ad. st. South Africa. Sir A. Smith T'._. 
+«, b. 8 $ ad. sk. South Africa. Sir A. Smith T'._. 
 
-c. $ ad. st. South Africa. Purchased. 
+c. $ ad. sk. South Africa. Purchased. 
 d. 8 ad.; e.Pull.sk, South Africa. Sir A. Smith ~C.~. 
 f. J ad.sk. South Africa. Gould Cull. 
 (J, h. 8 ? ad. sk South Africa { R L. Layurd). Sharps i'oil. 
@@ -27946,7 +27946,7 @@ Damara-Land.
 Sharpe Coll. 
 C. J. Andersson, Esq. 
 [o.]. 
-<?. Acl. sk. Benguela. J. J. Monteiro, Esq. 
+<?. Ad. sk. Benguela. J. J. Monteiro, Esq. 
 [C.]. 
 
 10. Serimxs leucopteras *. (Plate IX.) 
@@ -28048,7 +28048,7 @@ Hah. South Africa, eastwards from the Knysna districts to Natal
 and the Eastern Transvaal. 
 
 a. 2 ad. sk. South Africa. Mr. J. Abraham [P.], 
-b. <5 ad. st. South Africa. Sir A. Smith [0.1. 
+b. <5 ad. sk. South Africa. Sir A. Smith [0.1. 
 c. $ ad. j d, e. J South Africa. {Sir Andrew Smith [P.]. 
 ad. 5 /. Juv. sk 
 
@@ -29117,7 +29117,7 @@ Rio Olaro, Prov. Goiaz, Brazil Salvin-Godman Coll.
 (Jb?/wr). 
 
 P. c? ad. sk. Bahia (Dr. WuoJierer). Salvin-Godman Coll. 
-2-d ad. st. Para. Iv .Graham, Esq. [P.l 
+2-d ad. sk. Para. Iv .Graham, Esq. [P.l 
 r. Ad.; s.Iinm.sk. Pernambuco (W. A. Forbes). Salvin-Godmau Coll. 
 t- 
 <S ad. sk. Valencia, Venezuela (A. Salvin-Godman Coll. 
@@ -30939,7 +30939,7 @@ c'. $ ad. sk. Gilgit, Feb. 23, 1878 (J. Bid- Hume Coll.
 
 
 dulph). 
-d'. <$ ad. st. Central Asia. Purchased. 
+d'. <$ ad. sk. Central Asia. Purchased. 
 
 
 5. Carpodacns rubicilloides. 
@@ -31467,7 +31467,7 @@ plains, breeding from the Middle States northward- The Californian
 race inhabits the Pacific coast-region, from British Columbia 
 south to Southern California. (A. 0. U. Check-list, Z. c.) 
 
-a, b. S ? ad. st. 
+a, b. S ? ad. sk. 
 c, d-6 ; «,/. $ 
 ad. sk. 
 g, h. $ $ ad. sk. 
@@ -31889,7 +31889,7 @@ y\ z'. 2 ad. sk.
 
 ad. sk. 
 
-f. <S ad. st. 
+f. <S ad. sk. 
 delli). 
 Dolaka, Nepal, Jan. 1876 (Z. Mandelli). 
 
@@ -34135,7 +34135,7 @@ U.S. Nat. Mus. [P.].
 
 no. 73281). 
 c,d. S; *• $ ad. sk Fort Simpson. B.R.Ross, Esq. [P.]. 
-/. (J ad. st. Arctic America. Sir G. Back [C. J. 
+/. (J ad. sk. Arctic America. Sir G. Back [C. J. 
 </, h. $ $ ad. sk. Repulse Bay. Dr. Rae [P.], 
 £ k. <3 2 ad. sk. Nova Scotia (Dovmes). Sclater OoU. 
 I, »*. 6 2 aa". sk. New Brunswick. Hume Coll. 
@@ -34450,7 +34450,7 @@ s. c? ad. sk. Cookham, Feb. 23, 1885. R.B. Sharpe, Esq. [P.
 t 2 ad. sk. Cookham, Dec. 28,1874. R. B. Sharpe, E5q. [P.] 
 «*, ?>. 6 2 &&- st. Cookham. J. Gould, Esq. 
 w. <$ ad. sk. Oxford, Feb. 4,1878. R.B Sharpe,Esq. [P] 
-.r. $ ad. st. Brighton. R. B. Sharpe, Esq. [P.]. 
+.r. $ ad. sk. Brighton. R. B. Sharpe, Esq. [P.]. 
 y. 
 <$ ad. sk. Avington, Hants, Nov. 25, E. Shelley, Esq. [P.]. 
 1872. 
@@ -34467,9 +34467,9 @@ gf. <$ ad. sk. Belgium, May 1846. Brussels Mus. [P.].
 h\ J ad. sk. Seine-et-Oise, France (P. E. Hargitt, Esq. [P.]. 
 
 Petit). 
-i'. $ ad. st. France. Baron Langier. 
-k'. <$ ad. st. France. R.B. Sharpe, Esq. [P.]. 
-I', mr. <$ 2 ad. st. Savoy, Purchased. 
+i'. $ ad. sk. France. Baron Langier. 
+k'. <$ ad. sk. France. R.B. Sharpe, Esq. [P.]. 
+I', mr. <$ 2 ad. sk. Savoy, Purchased. 
 w'. J ad. sk. Moscow, March 7. Dr. Lenz [0.]. 
 o'. Skeleton. England. Purchased. 
 
@@ -35243,7 +35243,7 @@ e. S $ ad. sk. Norway (Esmark). Salvin-Godman Coll.
 /. 6 juv. sk. Quickiock, April 26, 1862 Gould Coll. 
 (jar. w.).
 
-g,h. d ? ad. st. 
+g,h. d ? ad. sk. 
 R. B. Sharpe, Esq. 
 
 Archangel. 
@@ -36824,11 +36824,11 @@ Pr jevalski states that he met with the species on Lake Darei-nor
 and the Hoangho Talley. It reaches into North-western India in 
 winter. 
 
-a, h. <$ 2 ad. st. Crieff, Perthshire, June 1886. W. R. Ogilvie Grant, 
+a, h. <$ 2 ad. sk. Crieff, Perthshire, June 1886. W. R. Ogilvie Grant, 
 Esq. [P.]. 
 
 e. 
-J ad. st. Cambridgeshire. Mr. J. Baker [C.]. 
+J ad. sk. Cambridgeshire. Mr. J. Baker [C.]. 
 Norfolk, June. Lord Walsingham 
 d, e. d 2 ad.st
 
@@ -36865,7 +36865,7 @@ Avington, Hants, May. R. B. Sharpe, Esq.
 r, s. <$ ad. sk. Southampton, Jan. Colonel Irby [P.]. 
 
 R. B. Sharpe, Esq. 
-t. £ ad. st. 
+t. £ ad. sk. 
 Lancing, Sussex, April 1,1884. [P.]. 
 
 R. B. Sharpe, Esq. 
@@ -38544,7 +38544,7 @@ a, b. $ ad. sk. Greece. Consul Merlin [C I
 c. $ ad. sk, Athens. Consul Merlin [Cl. 
 d. <J ad. sk, Turkey, July 9,1877 E. B. Sharpe, Esq. [P.]. 
 (W. Pearce). 
-e. <$ ad. st. Aidir, Asia Minor, Purchased. 
+e. <$ ad. sk. Aidir, Asia Minor, Purchased. 
 June 9, 1883. 
 /. S ad. sk. Smyrna. Gould Coll. 
 
@@ -39772,18 +39772,18 @@ c. $ ad. sk. Cambridge, April 4(0.&). Salvin-Godman Coll.
 d. d ad. sk. Cambridgeshire (J. Baker). Salvin-Godman Coll. 
 e,f. d ad.; g} h. Cambridgeshire. Mr. J. Baker TCI. 
 Pull. st. L J 
-i, & d $ ad. st. Norfolk, June. Lord Walsingham [P.]. 
+i, & d $ ad. sk. Norfolk, June. Lord Walsingham [P.]. 
 /. d ad.; m, n. Saffron Walden, Essex. J. Clarke, Esq. rP. I. 
 
 Pull. st. 
 
 * L
-o. d ad. st. Leicestershire. Theodore Walker, Esq. 
+o. d ad. sk. Leicestershire. Theodore Walker, Esq. 
 p,q. d$ ad. sk. Oxford, Feb. 4, 1878. R. B. Sharpe, Esq. [P.I 
 r. d ad. sk. Cookharn, Berks. Gould Coll. 
 s, t d ad. sk. Cookharn, Feb. 1874. R. B. Sharpe, Esq. [P. 
 u, v. d ad. sk. Cookharn, Jan. 24, 1879. R. B. Sharpe, Esq. [P. 
-ip. (^ ad. st. Epping. H.Doubleday, Esq/P. 
+ip. (^ ad. sk. Epping. H.Doubleday, Esq/P. 
 x, y. d ad. sk. Colgate, Sussex, Dee. 23. R. B. Sharpe, Esq. LP. 
 a, a', d ad. sk. Lancing, Sussex, April 1. R. B. Sharpe, Esq. [P. 
 b\ d ad. sk. Lancing, March 28. R. B. Sharpe, Esq. [P.' 
@@ -40510,14 +40510,14 @@ b, 9 ad. sk. Birrnham, Bucks, Dec. R. B. Sharpe, Esq. [P.],
 
 28, 1874. 
 c, d. 6; e. $> ad. sk. Cookham, Berks. Gould Coll. 
-/. S ad. st. Cookham. Mr. W. Briggs fP." 
+/. S ad. sk. Cookham. Mr. W. Briggs fP." 
 
 (j. <$ ad. sk. Cookham (W. Briggs). R. B. Sharpe, Esq." P. 
 \ i. <$; h. $ ad. sk. Brighton, Sussex, Nov. 
 R. B. Sharpe, Esq. ... 
 *P.1 
 
-/, m. tf 2 ad. st. Brighton, Sussex, Mar. 
+/, m. tf 2 ad. sk. Brighton, Sussex, Mar. 
 
 7 V-> •+• 
 
@@ -40816,7 +40816,7 @@ g. § ad. sk.
 h. S ad. sk. 
 i. (S ad. sk. 
 k. tf acl. sk. 
-/. J ad. st. 
+/. J ad. sk. 
 on. Ad. sk. 
 n, $ ad. sk. 
 o. (S ad. sk. 
@@ -43393,7 +43393,7 @@ July 10,1869.
 Fringillaria saliarce, Tristr. Ibis, 1859, p. 295 ; Gray, Hand-l B. ii. 
 p. 115, no. 7718 (1870) ; Gumey, jwi., Ibis, 1871, p. 291. 
 Eruberiza Sahara, Dixon, Ibis, 1882, p. 573. 
-Arbflt male hi breeding-plumage. General colour above uniform 
+Adult male hi breeding-plumage. General colour above uniform 
 sandy rufous, with faintly indicated dusky centres to the scapulars; 
 wing-coverts like the back; bastard-wing, primary-coverts, quills, 
 and tail-feathers light brown, edged with sandy rufous : head different 
@@ -43979,7 +43979,7 @@ dt 2 ad. sk.
 e. d ad. sk. 
 f. d imm. sk. 
 #. 2 ad. sk. 
-h, d ad. st. 
+h, d ad. sk. 
 56. MEiorsus. 
 Sikhim, June 1874 (X. Manr
 
@@ -44363,7 +44363,7 @@ h'. f 21 ad. sk.
 
 
 i'. 2 ad. sk.
-A'. Acl. sk.
+A'. Ad. sk.
 /'. 2 ad. sk.
 m\ ri. (S 2 &&• sko\ 
 J ad. sk.
@@ -44935,7 +44935,7 @@ o. 3 ad. sk.
 p. 2 ad. sk. 
 q. Pull. sk. 
 r. cS sk. 
-s. £ ad. st. 
+s. £ ad. sk. 
 t. 
 <$ ad. sk. 
 u. $ ad. sk. 
@@ -45062,9 +45062,9 @@ g\ <J ad. sk
 
 h1 
 
-. c? ad. st. 
+. c? ad. sk. 
 i', § ad. sk. 
-#. $ ad. st. 
+#. $ ad. sk. 
 
 ^ 
 m'. (J ad. sk. 
@@ -47144,14 +47144,14 @@ Purchased.
 
 b. Ad. sk. South America. 
 Sclater Coll. 
-c, d. Acl. sk, Coquinibo, Chili, Nov. {A. Salvin-Godman Coll. 
+c, d. Ad. sk. Coquinibo, Chili, Nov. {A. Salvin-Godman Coll. 
 If. MarMtani). 
 
 
 e. S ad. sk. Chili. 
 Salvin-Godman Coll. 
 /. 
-<S ad. st. Monte Video. Sir "W. Burnett and 
+<S ad. sk. Monte Video. Sir "W. Burnett and 
 Admiral Fitzrov [PA 
 
 g. Ad. sk. Near Monte Video, May 1, 
@@ -47811,7 +47811,7 @@ u\ $ ad.sk. Calovevora, Panama (F. Arce). Salvin-Godman Coll
 620 PKESTGILLID-aE. 
 v'. $ ad. sk.
 wf . d ad. sk.
-x'} y'. <$ ad. st. 
+x'} y'. <$ ad. sk. 
 Bugaba; Panama (JEJ. ArcS). 
 Southern slope of Volcan deChiriqui, Panama (JB. Arce). 
 North America. 
@@ -47932,7 +47932,7 @@ qt S ad. sk. Great Salt Lake City, May 27 Salvin-Godman Coll.
 
 (M. Ridgway, Sm.no. 58596). 
 r. <5 ad. sk. Near the City of Mexico. Salvin-Godman Coll. 
-s. <$ ad. st. Mexico. 
+s. <$ ad. sk. Mexico. 
 Purchased. 
 4. Cyaiiospiza rositse. 
 Cvanospiza roste, Lawr. Ann. Lye. N. Y. x. p. 397 (1874); Salv. 
@@ -48323,7 +48323,7 @@ Brazil (Joyner).
 
 d. Ad. sk. Brazil. J. Gould, Esq. 
 e,f. Ad. sk. Brazil. Sclater Coll. 
-g, h. <S', i.% ad. st. Brazil. " Purchased. 
+g, h. <S', i.% ad. sk. Brazil. " Purchased. 
 k. J ad. sk. Brazil. Purchased. 
 1. $ ad. sk. Ypanema, Brazil, April (J. Salvin-Godman Coll. 
 Natter er). 
@@ -52836,7 +52836,7 @@ La Plata-St. ii. p. 486 (1861) ; Sol. Cat. Amer. B. p. 116 (1862) •
 Pelz. Om Bras^ pp. 230, 439 (1871) ; Scl. $ Sah. Nomencl. Av. 
 Neotr. p. 82 (1873) ; Salvin, Ibis, 1885, p. 216. 
 
-ALdult male in winter plumage. General colour above ashy grey, 
+Adult male in winter plumage. General colour above ashy grey, 
 the feathers of the mantle and back broadly streaked with black' 
 th e black streaks edged laterally with rnfous ; rump more uniform 
 ashy , with scarcely any black centres to the feathers ; lesser wing-
@@ -56990,7 +56990,7 @@ less extent. Total length 8*4 inches, culmen 0*7, wing 3*05, tail
 
 Hah. Mexico. 
 
-a. Acl. sk. S. Mexico {A. Boucara). Salvin-Godman Coll. 
+a. Ad. sk. S. Mexico {A. Boucara). Salvin-Godman Coll. 
 k Ad. sk. S. Mexico (A. Boiward). Sclater Coll. 
 e. Ad. sk. Mexico (e dono llarilaub). Sclater Coll. 
 d. Ad. sk. Mexico. 
@@ -59589,13 +59589,13 @@ and the latter distinctly edged with ashy round the tips.
 Hob. Andes of Chili and Patagonia, extending to Peru and Bolivia. 
 
 88 . PHRIGILUS. 
-a. 2 ad. st. 
+a. 2 ad. sk. 
 b. Pull, sk. 
 c. $ ad. sk. 
 (1 Ad. sk. 
 e. d ad. sk. 
 Imm. sk. 
-9-? ad. st. 
+9-? ad. sk. 
 *, i 2 ad. sk. 
 
 /• 
@@ -60282,14 +60282,14 @@ Bab. Chili.
 
 a, b. d 2 ad. sk. Chili. Sclater Coll. 
 c, d. S ? ad. sk. Chili. Salvin-Godman Coll. 
-e. $ ad. st. 
-/ . $ ad. st. 
+e. $ ad. sk. 
+/ . $ ad. sk. 
 Chiloe (C. Darwin). 
 Chiloe. 
 Zool. Society. 
 Sir W. Burnett and 
 Admiral Fitzroy [P.], 
-r/. S ad. st. 
+r/. S ad. sk. 
 h. Ad. sk, 
 Valparaiso. 
 Talcahuano, ChiliMarkham). 

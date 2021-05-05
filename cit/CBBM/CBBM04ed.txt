@@ -2845,7 +2845,7 @@ distinguished by the lores being grey instead of blackish. Total
 length 10 inches, wing 4*95, tail 4*8, tarsus 0*95. 
 Hab. South Africa, 
 
-a. <$ ad. st. South Africa. 
+a. <$ ad. sk. South Africa. 
 b. J ad. st.
 c. 2 a<l at. 
 South Africa. 
@@ -3087,7 +3087,7 @@ b\W. Africa.
 
 a. 5 ad. sk. Africa. 
 J. Gould, Esq. 
-b. (S ad. st. Abyssinia. 
+b. (S ad. sk. Abyssinia. 
 c. d. $ ad. isk. Senegambia. Pm chased. 
 e. $ ad. bk. Ovaquenyania, Oyampo Land, II. B.feharpe, E&q. (Type I 
 June i5,1807 ( C. J. Anders- of C. anderssQui,') 
@@ -3243,7 +3243,7 @@ a. [ $ ] ad. sk. Tasmania. Eonald Gunn, Esq.
 e, f. S ad. sk. Tasmania. Antarctic Expedition [C.X 
 yl d ad. sk. Tasmania. Sir T. Mitchell [P.]. 
 h, i- d, k. $ ad. sk. South Australia. Sir George Grey [P.]. 
-/. d ad. st. South Australia. Sir George Grey [P.J. 
+/. d ad. sk. South Australia. Sir George Grey [P.J. 
 m. Jim. st. Australia. 
 2 iLlv
 
@@ -3412,7 +3412,7 @@ b. S ad. sk. India.
 Purchased. 
 c. tf ad. sk. Madras. T. C. Jerdon [P.]. 
 d. S ad. sk. Madras. Rev. H. H. Baber [P.], 
-e. 2 ad. st. Madras. Rev. H. H. Baber [P.]. 
+e. 2 ad. sk. Madras. Rev. H. H. Baber [P.]. 
 f. a. <$ 9 ad. fak. Kamptee, 0. India. Dr. B. Hinde \YX 
 h. ad. sk. Mysore. Oapt. C. II T.Marshall [P.]. 
 i 2 ad. sk. Sassowlie, Jan. 18G9. Colonel Sturt [P.]. 
@@ -3421,7 +3421,7 @@ Nov. 28,1871.
 I $ ad. sk. Rajkote, Nov. 21, 1871. Major J. Hayes Lloyd [P.]. 
 m,n. (S J ad. sk. N. w. Himalayas. Oapt. Stackhouse Pinwill 
 
-o. $ ad. st. Behar. B. IL Hodgson, Esq. [PA 
+o. $ ad. sk. Behar. B. IL Hodgson, Esq. [PA 
 p, q. $ ad. sk. Darjiling. J. Fotheringham, Esq. [C.J. 
 r, s. <$ ad. sk. Nepal. B. II. Hodgson, Esq. [P.]. 
 t. $ ad, sk. Nazeerah, Upper Assam. R. B. Sharpe, Esq. [P.]. 
@@ -5044,7 +5044,7 @@ Heuglin, which are authentic, as he has apparently only met with
 one species. See also my remarks on C. ocantliomoides. 
 Bab. Western and North-eastern Africa. 
 
-a. <$ ad. st. River Gambia. Governor Kendall [CI. 
+a. <$ ad. sk. River Gambia. Governor Kendall [CI. 
 b. $ ad, sk. River Gambia. R. B. Sharpe, Esq. 
 e. <S ad. sk. Gold Coast. Colonel Strachan [P.]. 
 d. S ftd. sk. Fantee (Governor UssJier). R. E. Sharpe, Esq. 
@@ -5125,8 +5125,8 @@ Hub. "Western and North-eastern Africa.
 
 a. c? ad., b. jtiv. sk. Accra (Capt. Haynes). It. B. Sharpe, Esq. 
 c. (5 ad., d. cfjun. sk. Accra. E-. B. Sharpe, Esq. [P.]. 
-e. (S ad. st. West Africa. J. Gould, Esq. 
-/ . c? ad. st. West Africa. 
+e. (S ad. sk. West Africa. J. Gould, Esq. 
+/ . c? ad. sk. West Africa. 
 g. <?ad. sk. Tigre (Eder). R. B. Sharpe, Esq. 
 
 3. Campophaga hartlaubi. 
@@ -5221,7 +5221,7 @@ e. £ ad. sk. Transvaal (T. At/res). K. B. Sharpe, Esq.
 1859 (C. J. ATiderssori). 
 
 g. [ cS ] juv. sk. South Africa. R. B. Sharpe, Esq. 
-h. <$ ad. st. South Africa. Dr. Lee [P.]. 
+h. <$ ad. sk. South Africa. Dr. Lee [P.]. 
 i. <S juv. sk. South Africa. R. B. Sharpe, Esq. [P.]. 
 5. Campophaga qiriscalina. 
 Gampephaga nigra, Cass. Pr. Thilad. Acad. 1859, p. 52 (nee F.). 
@@ -6219,7 +6219,7 @@ northwards into Western China; Borneo; Palawan.
 a. $ ad. sk. Singapore. A. l i "Wallace, Esq. [O.]. 
 b. $ ad. 8k. Malacca. R. B. Sharpe, Esq. [P.]. 
 c. c? ad. fek. Kessang, Malacca. M. Bouvier. 
-d,e. $ ad. st. Borneo. Hugh Low, Esq. [0.1. 
+d,e. $ ad. sk. Borneo. Hugh Low, Esq. [0.1. 
 ff g. (S ad. sk. N.W. Borneo. Hugh Low, Esq. [0.1. 
 h. 5 ad., *. juv. sk. N.W. Borneo. Efagh Low, Esq. [OX 
 k. H1 ad. ik. Kuching, Sarawak. Henry Everett, Esq. [0.], 
@@ -6365,7 +6365,7 @@ these are black with crimson tips. The females are quite different.
 
 Hob. Western Java. 
 
-a. $ ad. st. Java. Purchased. 
+a. $ ad. sk. Java. Purchased. 
 b, c. $ $ ad. sk. W. Java. A. B. Wallace, Esq. [0.]. 
 13. Pericrocotus roseus. 
 Muscicapa rosea, VieilL N. Diet. d'Hist. JSrat. xxi. p. 486. 
@@ -6459,7 +6459,7 @@ Hab. Sikhim and Nepal, Khasia hills, hills of Tenasserim.
 8 . PEJRICKOCOTTJS. 
 83 
 
-*• <S ad. st. Nepal, B. H. Hodgson, Esq. 
+*• <S ad. sk. Nepal, B. H. Hodgson, Esq. 
 b, c. <5 ad. sk. Nepal. B. H. Hodgson, Esq. IT. 
 d-h. J ad. sk. Nepal. B. H. Hodgson, Esq. [P.' 
 
@@ -7142,14 +7142,14 @@ feathers, these streaks disappearing on the abdomen.
 
 Hah. Australia and South-eastern Few Guinea. 
 
-«. <S ad. st. Australia. J. Gould, Esq. [0.1. 
+«. <S ad. sk. Australia. J. Gould, Esq. [0.1. 
 6, c, $ imm. sk. Australia. Sir T. Mitchell Y P. j . 
 
-d. J ad. st. Yarrandi river. J. Gould, Esq [C.]. 
+d. J ad. sk. Yarrandi river. J. Gould, Esq [C.]. 
 €,f. $ ad. sk. South Australia. Sir G. Grey IT.]. 
 ff. tf ad. sk. Burr Range, interior of Capt. Sturt [P.], 
 S. Australia. 
-h. Pall., i. $ ad. st. West Australia. J. Gould, Esq. [0.]. 
+h. Pall., i. $ ad. sk. West Australia. J. Gould, Esq. [0.]. 
 k,L Juv. sk N.W. Australia. J. R Elsey, Esq. [P.]. 
 m. 
 d juv. sk. Lat. 17°, long. 184°, Julv J. R. Elsey, Esq. [P.]. 
@@ -8105,7 +8105,7 @@ Hab. Australia, New Ireland, South-eastern Few "Guinea, Aru
 Islands. 
 
 a. Juv. sk. Australia. Linnean Society [P,]. 
-b. cJ ad. st. Australia. J. Gould, Esq. [P.]. 
+b. cJ ad. sk. Australia. J. Gould, Esq. [P.]. 
 c. <5 ad. sk, Kockingham Bay Capt. Stanley [P.]. 
 (J. Macgillivray). 
 d. $ ad. sk. Bunk Island Capt. Stanley [P.]. 
@@ -8222,7 +8222,7 @@ breast. Total length 7*2 inches, wing 3*4, tail 3-35, tarsus 0-95.
 
 Eab. Norfolk Island. 
 
-a. S ad. st. Norfolk Island. Dr. Rayner* [C.]. 
+a. S ad. sk. Norfolk Island. Dr. Rayner* [C.]. 
 b. 2 ad. sk. Norfolk Island. Dr. Rayner [0.]. 
 c. J ad. sk. Norfolk Island, June 1865. J. Brenchley, Esq. [P.], 
 * "Voyage of the * Herald.' 
@@ -9891,8 +9891,8 @@ into rust-colour on the pectoral band.
 
 Hah. South Africa. 
 
-a. <$ ad. st. Cape Colony. 
-b. $ ad. st. Cape Colony. Sir A. Smith [C.]. 
+a. <$ ad. sk. Cape Colony. 
+b. $ ad. sk. Cape Colony. Sir A. Smith [C.]. 
 c. d. $ J ad. sk. Knysna, Jan. 3,1866 K. B. Sharpe, Esq. 
 (C. J. Anderssori). 
 e,f. 
@@ -9989,7 +9989,7 @@ e. <$ ad. sk. River Volta, August R. B. Sharpe, Esq.
 1870 (Governor Ussher). 
 f. S ad. sk. Accra (J. Smith). R. B. Sharpe, Esq. 
 V- ? ad. sk. Landana, Congo. MM. Lucan & Petit [P.]. 
-K *• 6 2 ad. st. Sennaar. Purchased. 
+K *• 6 2 ad. sk. Sennaar. Purchased. 
 k. d 
 ad. sk. Mombas, E. Africa R. B. Sharpe, Esq. [P.]. 
 (Wakefield). 
@@ -10020,7 +10020,7 @@ lower ones and inner linings of quills white ; bill and feet black;
 iris yellow. Total length 4 inches, culmen 0%5, wing 2*05, tail 1*65, 
 tarsus 0-65. 
 
-Aclult female. Resembles the male, but has the pectoral band 
+Adult female. Resembles the male, but has the pectoral band 
 chestnut instead of black. 
 
 Young female. Similar to the adult, but having the white eyebrow, 
@@ -10456,7 +10456,7 @@ Hal. West Africa and the Zambesi district in South-eastern
 Africa. 
 
 a. J ad. sk. West Africa. Purchased. 
-b. d ad. st. West Africa. Purchased. * 
+b. d ad. sk. West Africa. Purchased. * 
 c. S ad. sk. Fantee. 
 R. B. Sharpc, Esq. 
 d. $ ad. sk. Fantee (Governor Ussher). R. B. Sharpe, Esq. 
@@ -10659,7 +10659,7 @@ always be told by the fulvous edgings to the wings and wing-coverts;
 the underparts are dusky white, the Hanks conspicuously groyish. 
 Hah. "Western Africa. 
 
-a, $ ad. st. 
+a, $ ad. sk. 
 River Gambia. 
 
 b. j ad.; c, d. Juv. sk. 
@@ -11035,7 +11035,7 @@ Hah. The whole of Europe in summer, ranging in winter into
 Southern Africa and North-western India. 
 
 a. Pull. sk. England. J. Gould, Esq. [0.1. 
-b,c. <$ § ad. st. Cambridgeshire. Mr. J. Baker rC.]. 
+b,c. <$ § ad. sk. Cambridgeshire. Mr. J. Baker rC.]. 
 d. J juv. st. Cambridgeshire. Mr. J. Baker [0.1. 
 e, f. tul l st. Cambridgeshire. Mr. J. Baker [0.]. 
 gl Pull. sk. Belgium. Brussels Museum [C.]. 
@@ -11487,7 +11487,7 @@ Hob. Europe generally, extending eastwards to Persia, and in
 winter ranging into Africa, 
 
 a. Pull. st. Yorkshire. Mr. J. Baker. 
-b, c 6 ? ad. st. Halifax, Yorkshire (Mr. 
+b, c 6 ? ad. sk. Halifax, Yorkshire (Mr. 
 Parke). 
 
 d. <$ juv. sk. Stockholm, Aug. 15,1845. Purchased. 
@@ -11503,12 +11503,12 @@ h. $ ad. sk. Valencia, Spain, April 21, Henrv Seebokm, Esq. [P.].
 I, m. $ ad. sk. Europe. 
 
 
-n. J ad. st. Europe, 
-o. S ad. st. Algiers. 
+n. J ad. sk. Europe, 
+o. S ad. sk. Algiers. 
 Purchased. 
 p. $ ad. sk. River Gambia. 
 q. Jim. sk. Kiver Gambia. B. B. Sharpe, Esq. 
-r. $ ad. st. Persia. 
+r. $ ad. sk. Persia. 
 s. <$ ad. sk. Persia. 
 Purchased. 
 t. 
@@ -11595,7 +11595,7 @@ tarsus 0*65.
 
 Bab. Central and Southern Europe. 
 
-a. <$ ad. st. Europe. 
+a. <$ ad. sk. Europe. 
 b. S 
 ad.sk. Snrnm, April 15, 1872 (Dr. Henry Seebolrm, Esq. [P.]. 
 Kr'uper). 
@@ -11765,7 +11765,7 @@ d.
 c? ad. sk. India. Secretary of State for 
 India [P.]. 
 e. § ad. sk. Behar. B.H. Hodgson,Esq[. [P.*. 
-/. $ ad. st. Nepal, B. H. Hodgson, Esq. [P.". 
+/. $ ad. sk. Nepal, B. H. Hodgson, Esq. [P.". 
 g, h, i. <$ ad. 5 k. $Nepal. B. H.Hodgson,Esq. [P.]. 
 ad. sk. 
 l,m,n,o. $ juv.sk. Nepal. B. II. Hodgson, Esq. [P.]
@@ -12030,8 +12030,8 @@ River districts, New South "Wales, Yictoria, South Australia. Tasmania.
 
 a. 5 ad. st, Australia. 
 h. <$ juv. sk. Australia. Baron Laiigier. 
-c. d1 ad. st. New South Wales. J. Gould, Esq. [0.]. 
-d. tf ad. st. South Australia. Sir George Grey [P.l 
+c. d1 ad. sk. New South Wales. J. Gould, Esq. [0.]. 
+d. tf ad. sk. South Australia. Sir George Grey [P.l 
 e. <J ad. sk. Tasmania. Ronald Gunn, Esq. [P.]. 
 f,g. <J ad. sk. Tasmania. J. B. Jukes, Esq. [P.], 
 *A. <$ ad.; i. <$ juv. sk. Tasmania. Antarctic Expedition [0.]. 
@@ -12358,9 +12358,9 @@ Australia. (Eamsay^ L c.)
 
 a. $ ad. sk. Australia. Linnean Society [P.]. 
 (Type of species*.) 
-b, c. 3 $ ad. st. New South Wales. 
+b, c. 3 $ ad. sk. New South Wales. 
 
-d. <S ad. st. New South Wales. J. G-ould, Esq. [P.], 
+d. <S ad. sk. New South Wales. J. G-ould, Esq. [P.], 
 e. <$ ad. sk. Australia. Sir D. Cooper [P.]. 
 / . $ ad. sk. Australia. Purchased. 
 9. Petroeca ramsayi. 
@@ -12476,7 +12476,7 @@ a.
 $ ad. sk- Austialia. Linnean Society [P.]. 
 (Type of M. tricolor.) 
 b. <S juv. sk. Australia. 
-c. 5 ad. st. Australia, J. Gould, Esq. [0,J. 
+c. 5 ad. sk. Australia, J. Gould, Esq. [0,J. 
 d. t$ ad. sk, Yarrundi River. J. Gotdd, Esq. [C.j. 
 c; 
 
@@ -12485,7 +12485,7 @@ cf juv. sk. South Australia. J. Gould, Esq.
 g, h. S ? ad.; 1. cS imm. sk. South Australia. Sir George Grey [Jr.!. 
 
 h. (S imm. sk. River Murray. Sir George Grey ft?/ 
-I cS ad. st. West AustfaHa. J. Gould, Esq. [0.1" 
+I cS ad. sk. West AustfaHa. J. Gould, Esq. [0.1" 
 m. $ ad. sk. York, W, Australia. J, Gould, Esq. f C.j. 
 nf 0. £ ad. sk. Interior jof South Oapt, Sturt [P.j. 
 Australia. 
@@ -12668,7 +12668,7 @@ in the young female these markings extend to the flanks also.
 Hal. South fIsland, New Zealand ; Chatham Islands ; Auckland 
 Islands. 
 
-a, h. 3 2 ad. st. New Zealand. New Zealand Co. [P.l. 
+a, h. 3 2 ad. sk. New Zealand. New Zealand Co. [P.l. 
 
 c. J ad; sk. New Zealand. New Zealand Co. IP.J. 
 d. £ 
@@ -12939,8 +12939,8 @@ Hah. Europe, migrating in winter to Senegambia, the Gold Coast,
 arid to TsTorth-eastern Africa. 
 
 
-a, b. S 9 ad. st. Cambridgeshire. Mr. J. Baker [0.]. 
-c„ <$ ad. st. Stratford-on-Avon. Mr. Quartermaine [C.]. 
+a, b. S 9 ad. sk. Cambridgeshire. Mr. J. Baker [0.]. 
+c„ <$ ad. sk. Stratford-on-Avon. Mr. Quartermaine [C.]. 
 cL Juv. st. Surbiton, Sept. % 1872. Dr. Giintker [P.I. 
 
 e. Juv.sk. Pagham, Sussex, Sept. 9,1873. Dr. Giinther [P.]. 
@@ -12958,7 +12958,7 @@ m. ? ad. sk. Persia. SF^S 4 -, ^
 n $ juv. sk. Rairo, Habab. ^ . T. Blanford, Esq. 
 [0.]. 
 
-o. 'J ad. st. West Africa. 
+o. 'J ad. sk. West Africa. 
 182 MUSOICAPIDJE. 
 
 2. Pratincola macrorhyncha. 
@@ -13088,7 +13088,7 @@ and under tail-coverts buffy white; under wing-coverts and axillaries
 white, with the external bases black; " bill black; feet dark; 
 iris brown" (E. Newton). Total length 5*3 inches, culmen 0*5, 
 wing 2'6, tail 1*9, tarsus 0'85. 
-Aclult female. Not unlike the male, but duller above and paler 
+Adult female. Not unlike the male, but duller above and paler 
 below, the white on the wing scarcely perceptible, the innermost 
 greater coverts being ashy brown, edged or marked with white on 
 the outer web. Total length 5*4 inches, culmen 0*55, wing 2*5, 
@@ -13304,7 +13304,7 @@ its range coalescing with that of P. maura probably somewhere in
 the watershed of the Yolga river, perhaps between that river and 
 the Don. 
 
-a. c? ad. st. Great Britain. 
+a. c? ad. sk. Great Britain. 
 btc. S ? ftd. st. Turnham Green. Mr. X Baker [C.] 
 d. 
 $ ad.; e. Juv.sk. Pagham, Sussex, Sept. R. B. Sharpe, Esq. [P.]. 
@@ -13581,8 +13581,8 @@ c. S ad. sk. South Africa. Oapt. Stanley [P.].
 d. <$ ad. sk. Natal. R. B. Sharpe, Esq. 
 e. <$ ad. sk. Transvaal (T. Ayres). R. B. Sharpe, Esq. 
 / . $ ad. sk. Zambesi {Heller). R. B. Sharpe, Esq. 
-g. S ad. st. Cape of Good Hope. 
-h. $ ad. st. Cape of Good Hope. Sir Andrew Smith [C.]. 
+g. S ad. sk. Cape of Good Hope. 
+h. $ ad. sk. Cape of Good Hope. Sir Andrew Smith [C.]. 
 9. Pratincola sybilla. 
 Le Traquet de Madagascar, Briss. Orn. iii. p. 439, pi. 24.fig. 4. 
 Motacilla sybilla, Linn. Syst. Nat. i. p. 337. 
@@ -14133,7 +14133,7 @@ also the inner edge of the quills below. Total length 4*6 inches,
 cnlmen 0*45, wing 2*35, tail 1-9, tarsus 0*8. 
 
 Bab. Lombock. 
-<t. $ ad. st. Purchased. 
+<t. $ ad. sk. Purchased. 
 b. c? ad. sk. Lombock. A. E. Wallace, Esq. [P.], 
 (Type of species.) 
 
@@ -14501,7 +14501,7 @@ cold weather ; Burmese countries-
 
 a. S ad. sk. India. Purchased. 
 h,c. d ad.; d. ? ad.sk Nepal. B. II. Hodgson, Ew£. [P.]. 
-e,f. $ ad. st. Nepal. B. H. Hodgson, E.sq. [P.]. 
+e,f. $ ad. sk. Nepal. B. H. Hodgson, E.sq. [P.]. 
 9, h. S 2 ad. sk. Murree. Capt. T. Biddulph [C."|. 
 i. 
 $ ad. sk. N.W.India {Capt. It. B. Sharpe, Esq. [P.]. 
@@ -14586,7 +14586,7 @@ Niltava innexa, Gray, t c. p. 327, no. 4909.
 Menetica superciliaris, Cab. J.f. 0.1876, p. 393. 
 
 
-Adttlt male. General colour above slaty blue, including the lores, 
+Adult male. General colour above slaty blue, including the lores, 
 sides of face, cheeks, and chin, darker on the latter; from the base 
 of the forehead a distinct line of white feathers extending backwards 
 over the eye; scapulars and wing-coverts uniform with the 
@@ -17500,7 +17500,7 @@ mountains of China, to Pekin and Mongolia.
 254 
 MUscicAriDJE. 
 
-a. 6 ad. st. India. J. Gould, Esq. 
+a. 6 ad. sk. India. J. Gould, Esq. 
 b. Juv.; 0. J imm. sk. Caslmiere. R. B. Sharpe, Esq. [I.]. 
 <*, e. <J ad. sk. Cashmere. E M. Langworthy, Esq. 
 f j 
@@ -17511,7 +17511,7 @@ Provinces. will [P.]t,
 S ad. • k I. 9 ad. sk. N.W. Himalayas. Capt. Stackhouse Pin-
 will [P.]. 
 
-m. tf ad.; n,o. 2 ad. st. Nepal. B.H.Hodgson,Esq.[P.]. 
+m. tf ad.; n,o. 2 ad. sk. Nepal. B.H.Hodgson,Esq.[P.]. 
 p, q. <S ad.; r,s. 2 ad. sk. Nepal. B.H.Hodgson,Esq. [P.J. 
 29. 
 TAESIGKEB. ^ 
@@ -17644,7 +17644,7 @@ rufous-olive.
 Hob. From the Ural Mountains across Siberia to China and 
 Japan. 
 
-a. <$ ad. st. Japan. Purchased. 
+a. <$ ad. sk. Japan. Purchased. 
 b, c. <$ J ad. sk. East Siberia. Dr. Brandt. 
 d. 
 (fimm.sk. Kultuk,S.E.ofLakeBaikaI, Warsaw Museum *~E.~. 
@@ -18656,7 +18656,7 @@ Sylvia natalensis, Layard, B. S. Afr. p. 102, no. 188 ; Gray, Hand-l.
 
 
 B. i. p. 214, no. 3026. 
-A.dult male. General colour above dull olive-yellow, yellower on 
+Adult male. General colour above dull olive-yellow, yellower on 
 the "back, all the feathers "being brown towards the base ; the head 
 browner than the back, the yellow margins not so broad; wing-
 coverts and quills very dark brown, all margined with dull olive-
@@ -19582,9 +19582,9 @@ Hab. Eastern Australia, from Port Denison southwards; South
 Australia. 
 
 a. $ ad. sk. Australia. 
-b. J ad. st. Australia. 
+b. J ad. sk. Australia. 
 Purchased. 
-c. <J ad. st. New South Wales. J. Gould, Esq. 
+c. <J ad. sk. New South Wales. J. Gould, Esq. 
 2. Malurus gouldi 
 Malurus longicaudus, 
 Gould, P. Z. S. 1837, p. 148 (nee Temm. Man. 
@@ -19658,7 +19658,7 @@ b, c. <$ ad.; d. c? juv. st. Tasmania. J. Gould, Esq. [C.].
 
 
 e. $ ad. sir. Tasmania. J. Gould, Esq. [0.]. 
-f, y» $ ad. st. Tasmania. Eonald Gunn, Esq. [P.]. 
+f, y» $ ad. sk. Tasmania. Eonald Gunn, Esq. [P.]. 
 h,«". & ad. sk. Tasmania. Antarctic Expedition [C.l 
 k, I. $ ad. sk. Tasmania. J. B. Jukes, Esq. [P.]. 
 
@@ -19704,7 +19704,7 @@ white; bill reddish brown ; feet brown. (Gould,)
 
 Hal. Australia: Interior Province, Victoria, and South Australia. 
 
-a, b, c. $ ad. st. Interior of South Australia. CJapt. Sturt TRl 
+a, b, c. $ ad. sk. Interior of South Australia. CJapt. Sturt TRl 
 d. <$ ad. sk. Interior of South Australia. Capt. Sturt \l\\. 
 4. Malurus callainus. 
 
@@ -19807,10 +19807,10 @@ length 4*8 inches, culmen 0*45, wing 2*05, tail 2*75, tarsus 0*95.
 
 Hab. "West Australia. 
 
-a. $ ad. st. Australia. 
+a. $ ad. sk. Australia. 
 Purchased. 
-b. $ ad. st. ? South Australia. Sir George Grey [P.]. 
-Cj d. <$ 2 ad. st. West Australia. J. Gould, Esq. [O.l. 
+b. $ ad. sk. ? South Australia. Sir George Grey [P.]. 
+Cj d. <$ 2 ad. sk. West Australia. J. Gould, Esq. [O.l. 
 e, S imm. st. Canning's River, W. Australia. J. Gould, Esq. [C.j. 
 6. Malurus leucopterus. 
 Malurus leucopterus, 
@@ -19858,9 +19858,9 @@ Bab. Australia: "New South "^Vales; Interior Province; Victoria •
 "West Australia. 
 a. Ad. sk. Australia. 
 b. $ juv. st. 
-c. c? ad. st. 
+c. c? ad. sk. 
 d. S ad. sk. 
-e. S ad. st. 
+e. S ad. sk. 
 Australia. 
 South Australia, 
 Interior of South Australia. 
@@ -19943,7 +19943,7 @@ tarsus 0*85.
 Hob. Western Australia. 
 
 a, b. cT ? &d, st. Australia. 
-c, d. <S $ ad. st. Australia. Purchased. 
+c, d. <S $ ad. sk. Australia. Purchased. 
 
 e. (S ad, st. South Australia. F. G-. Moore, Esq. [P.]. 
 /. cf juv. sk. West Australia. J. Gould, Esq. [C.J. 
@@ -19997,7 +19997,7 @@ York peninsula, Port-Essington district, Tasmania, and "Western
 Australia. 
 a, b, (S $. ad. sk. Australia. Linnean Society [P.], 
 c. c? ad. sk.
-d,e. S ? ad. st. 
+d,e. S ? ad. sk. 
 Australia. 
 Australia. 
 (Types of species.) 
@@ -20136,7 +20136,7 @@ Hab. West Australia and interior of South Australia.
 
 at $ ad. sk. Interior of S.Australia. Capt. Sturt [P.l. 
 
-b. (S; Cjd. § ad. st. West Australia. Purchased. 
+b. (S; Cjd. § ad. sk. West Australia. Purchased. 
 e,f- 6 2 ad. sk. N.W. Australia. J, R. Elsey, Esq. [P.l 
 (j. S ad. sk. Nicholson River. J.R.Elsey,Esq IPI 
 h. 3 ad. sk. Australia. Sir T. Mitchell [P.] 
@@ -20220,10 +20220,10 @@ flash-brown " (Gould). Total length 4 inches, culmen 0*45, wing
 Hob. South Australia and Eastern Australia, as high as Rockingham 
 Bay. 
 
-a, b. <S $ ad. st. Australia. 
+a, b. <S $ ad. sk. Australia. 
 
 c. cT ad.; d. c? juv. st. Australia. J. Gould, Esq. 
-<?,/. $ ad. st. Australia. J, Gould, Esq, 
+<?,/. $ ad. sk. Australia. J, Gould, Esq, 
 14. Malurus dorsalis* 
 Sylvia dorsalis, Lewin, B. New Roll. pi. 14. 
 Malurus brownii, Vig. § Hbrsf. Tr. Linn. Soc. xv. p. 223; Gould, B. 
@@ -20445,7 +20445,7 @@ i Ta d sk. MacamacrSept. 22,1874. F. A. Barratt, Esq. [C.].
 
 S°C
 
-| ad. st. Natal. ^T*\ y* 
+| ad. sk. Natal. ^T*\ y* 
 
 m. dad. st. Natal. Purchased. 
 2. Trochocercus nitens*. 
@@ -21669,7 +21669,7 @@ f. Ad. sk. N.W. Himalayas. Oapt. Stackhouse Pinwill
 IP.]. 
 g. Ad. sk. Darjiling. J.Potheringham,Esq.[P.]. 
 'h-l Ad. sk. Nepal. B. H. Hodgson, Esq. [P.]. 
-m, n. Acl. sk. Upper Assam (Br. Beid). E. B. Sharpe, Ebq. [P.]." 
+m, n. Ad. sk. Upper Assam (Br. Beid). E. B. Sharpe, Ebq. [P.]." 
 0, § ad. sk. " Dense grass jungle below Dr. J. Anderson [0.]. 
 Bharaau, Jan. 81, 1875." 
 
@@ -21991,7 +21991,7 @@ spot of the adult.
 
 Hah. Pelew Islands. 
 
-«, h. £ $ ad. st. Pelew Islands (Kubary). Museum Godeffroy. 
+«, h. £ $ ad. sk. Pelew Islands (Kubary). Museum Godeffroy. 
 
 c. Ad.; d. Juv. sk. Pelew Islands. Mr. Cohen [C.]. 
 26. Rhipidura rufa. 
@@ -24478,7 +24478,7 @@ wings, may give a hint as to the nature of the final dress.
 
 Hab. West Africa • Senegambia. 
 
-a. $ ad. st. West Africa. Purchased. 
+a. $ ad. sk. West Africa. Purchased. 
 b. $ juv.; c, d. Imm. sk, River Gambia. R. B. Sharpe, Esq. 
 e. <$ ad. sk. Cape St. Mary, Gambia, R. B. Sharpe, Esq. 
 Dec. 22,18G4. 
@@ -25369,7 +25369,7 @@ ad sk. Australia. Linnean Society [P.].
 c. § &d. sk. Australia. 
 d. e. <$ $ ad. sk. Port Albany. Purchased. 
 f. <$ juv. sk. Dunk Island. J. Macgillivray, Esq. [C.]. 
-g. <$ ad. st. Tasmania. Ronald Gunn, Esq. [P.]. 
+g. <$ ad. sk. Tasmania. Ronald Gunn, Esq. [P.]. 
 h. $ ad. • i $ juv. sk. Near Port Moresby, 
 0. 0. Stone, Esq. [G.]. 
 S.E. New Guinea. 
@@ -25400,7 +25400,7 @@ extreme tip; feet blackish grey; iris brown" {Gould), Total
 length 5*6 inches, culmen 0*55, wing 2-95, tail 2-65, tarsus 0*65. 
 
 Ecib. Northern and North-western Australia. 
-a, b. <$ ? ad. st. Port Essington. Capt. "W. Chambers [P.]. 
+a, b. <$ ? ad. sk. Port Essington. Capt. "W. Chambers [P.]. 
 
 c. <$ ad. sk. 
 Port Essington. Capt. "W. Chambers [P.I. 
@@ -25467,7 +25467,7 @@ chestnut, and slightly shaded with black.
 
 Hah. Australia and Tasmania. 
 
-a. <$ ad. st. Australia. J. Gould, Esq. [P.l 
+a. <$ ad. sk. Australia. J. Gould, Esq. [P.l 
 b. <$ juv. st. Australia. J. Gould, Esq. [P.J. 
 e, d. $ $ ad. sk. Port Albany. Purchased. 
 e. P ad. sk. Cape Upstart, April 1st, J. B. Jukes, Esq. [P.]. 
@@ -27587,7 +27587,7 @@ rufous along the inner webs ; " bill dusky ; feet ashy ; iris black
 2*9, tarsus 0*65. 
 Hub. New Guinea; Mysol. 
 
-a. (S ad. st. New Guinea. ^ 
+a. (S ad. sk. New Guinea. ^ 
 b. 6 ad. sk. Porey, N. G. A. R ^ allace, EMJ.^C .„. 
 c. <$ ad. sk Sorong, N. Gh, Feb. 4, Leyden Museum [P._. 
 l8Q6(Dr.Bernstein). 
@@ -27998,7 +27998,7 @@ V - <?? ad.sk.
 m,n. o*ad.;o. Jad.sk. Mysol A. R. Wallace, Esq. "C.^ 
 
 p. 
-3 ad. st. LmnViade archiJ. 
+3 ad. sk. LmnViade archiJ. 
 Macpitih ray* Esq. *[C. ,. 
 pelago. ( T\ pe of IK iueidw. I 
 b. P. nitons. 
@@ -28048,7 +28048,7 @@ and the exactly similar coloration of the females.
 
 Hah. Northern Australia, as far south as Port Denison; Aru 
 Islands. 
-a, b. S ad. st. Port Essington. Br. Sibbald [P.]. 
+a, b. S ad. sk. Port Essington. Br. Sibbald [P.]. 
 c, d. $ ad. sk. Port Essington. Capt. Chambers [P.]. 
 
 e. cJ juv. sk. Port Essington. J. B. Jukes, Esq.* [P.]. 
@@ -28920,8 +28920,8 @@ length 6-6 inches, wing 3-36, tail 2-85, tarsus 0*8.
 
 tfab. Australia; S.E. INTew Guinea. 
 
-a. c? ad. st. Australia. 
-b. $ ad. st. Australia. J. Gould, % fPA 
+a. c? ad. sk. Australia. 
+b. $ ad. sk. Australia. J. Gould, % fPA 
 c j ad. sk. Port Moresby, S.E. New Guinea. O. C. Stone, EM , fd l 
 d. cTad. sk. S.E. New Guinea. Dr. James [£\]. 
 62. MONARCH A. 
@@ -30217,7 +30217,7 @@ Adult male. Similar to the female, but with black lores. Wing
 Hob. Philippine Islands. 
 
 
-a. [c?J ad. st. Philippine Islands. Hugh Cuming, Esq. [C], 
+a. [c?J ad. sk. Philippine Islands. Hugh Cuming, Esq. [C], 
 L ? J ac^ s^«
 
 ^ Philippine Islands. Purchased. 
@@ -31157,7 +31157,7 @@ and under wing-coverts pure white, as in the adult.
 Bob. Himalayas, extending into the Burmese countries. 
 
 a. S ad. si Nepal. B. H. Hodgson, Esq. [P.], 
-h, c, d, d ad. st. Nepal. B. H, Hodgson, Esq. f P. t 
+h, c, d, d ad. sk. Nepal. B. H, Hodgson, Esq. f P. t 
 e. $ ad.; /. tf jnv. sk. Nepal. B. H. Hodgson, Esq. [P.]. 
 g, h. $ J ad.; i. Juv. sk. Darjilmg. J, Fotheringhani, E^q. [P.]. 
 

@@ -4730,9 +4730,9 @@ sulcus, which becomes smooth in the adult bird.
 
 Hah. Confined to Australia. 
 
-a. 2 ad. st. S. Australia. Sir George Grey [P.], 
+a. 2 ad. sk. S. Australia. Sir George Grey [P.], 
 b. Juv. sk. New South Wales. Hume Coll. 
-c. c? ad. st. Australia. Purchased. 
+c. c? ad. sk. Australia. Purchased. 
 d. Ad. sk. Australia. Purchased. 
 e. Ad. sk. Australia. Gould Coll. 
 / . 
@@ -6560,7 +6560,7 @@ a. Pull. sk. England.
 Gould Coll. 
 b. Ad. sk. C ambridgeshir e. Purchased. 
 c. Juv. sk. Oundle, Northants, March. Sharpe Coll. 
-d. <$ ad. st. Kingsbury Reservoir (/. E.H.). Harting Coll. 
+d. <$ ad. sk. Kingsbury Reservoir (/. E.H.). Harting Coll. 
 e. Juv. st. Romney Marsh, Kent, Sept. Dr. Gordon Hos-ff 
 I?.]. 
 /, g. Inim. sk. Romney Marsh, Sept., Jan. Sharpe Coll. 
@@ -16500,7 +16500,7 @@ Ardeola rufiventris, Betoken. JB. ILamb. Wissensch. Anst. x. p. 8
 (1803: Quilimaue). 
 Erythrocnus rufiventris, SJiarpe, Bull.B. O. Club, iii. p.xxxix (1894). 
 
-Aclult male in breeding-plumage. General colour above black, with 
+Adult male in breeding-plumage. General colour above black, with 
 a distinct wash of bluish slate on the long scapulars, crest-feathers, 
 and neck; lower back, rump, upper tail-coverts, and tail rich chestnut 
 ; wing-coverts deep maroon, those along the bend of the wing 
@@ -21727,7 +21727,7 @@ Plegadis autumnalis, Savage, Auk, xii. p. 393 (1^95 : New York) j
 
 A. 0. U. Chech-L 2nd ed. p. 68 (1895) ; Bidgw. Man. 2nd ed. p. 124 
 (1896). 
-y". S ad. st. Near Seville, April 1869 Hargitt Coll. 
+y". S ad. sk. Near Seville, April 1869 Hargitt Coll. 
 (Ruiz). 
 
 s". Ad. sk Fao, Persian Gulf, April 1. W. B.Gumming, Esq. [C], 
@@ -22886,7 +22886,7 @@ Handb. Brit. B. iii. p. 89, pi. Ixviii. (1896).
 a". Juv. st. Havre, N". France, Oct. 10, Hargitt Coll. 
 1872 (F". Pluehe). 
 
-b". 6 ad. st. Near Elboeuf (Noury). Hargitt Coll. 
+b". 6 ad. sk. Near Elboeuf (Noury). Hargitt Coll. 
 
 c". d ad. sk. Tschinas, Turkestan, April 23 Seebohm Coll. 
 
@@ -24725,7 +24725,7 @@ juv. sk. {A. JlHyte). * ' r2.\
 h. 2 vd-s^» Karonga, Nyasa-land, July Sir H. H. Johnston 
 (A. Whyte). 
 'P.". 
-i. $ ad. st. Transvaal (T. Ayres). Shelley CoIL 
+i. $ ad. sk. Transvaal (T. Ayres). Shelley CoIL 
 k. Juv. sk. Transvaal (T. Ayres). Shelley Coll. 
 I. Ad. sk. S.E. Africa. 
 J. Rocke, E-q^P.j. 
@@ -28308,7 +28308,7 @@ from gape 4, wing 13*5, tail 7*2, tarsus 2*8, outer toe and claw 4-7.
 
 Hob. Bering Island, Kamtschatka Sea. Probably extinct. 
 
-a. Acl. sk. [Bering Island.] Gould Coll. 
+a. Ad. sk. [Bering Island.] Gould Coll. 
 b. Ad. sk. [Bering Island.] Capt. Sir E. Belcher, RX . _P.]. 
 9. Phalacrocorax bicristatns. 
 
@@ -29011,7 +29011,7 @@ June 22. pp.].
 pull. St. June 22. rp.i. 
 
 e. Imm. sk. 
-f. c£ ad. st. 
+f. c£ ad. sk. 
 Mouth of the R. Severn. T.White, Esq. [Pf. 
 u'-h\ 
 <S $ ad. et Fowev, Cornwall, Aug., Dr. A. Giinther"[P;]. 
@@ -38389,7 +38389,7 @@ St.
 
 u. Ad. sk. 
 v9 u\ <$ ad. sk. et 
-$ ad. st. 
+$ ad. sk. 
 
 .c. d 2 a& st. 
 
@@ -38737,7 +38737,7 @@ Black and Caspian Seas.
 
 a. Ad. fck. Great Britain,summer. Old Coll. 
 b. Imm. sk. Great Britain, winter. Old CoU. 
-0, d. <$ 2 ad. st. Sutherland, June. Col. L. II. Irb* & 
+0, d. <$ 2 ad. sk. Sutherland, June. Col. L. II. Irb* & 
 Capt. 8. (J. lirM 
 [P.*. 
 
@@ -38750,7 +38750,7 @@ h, Imm. sk. Beccles, Suffolk, Nov. Seeboiiui CoIL
 i. 
 $ imm. sk. Havre, France, ^Xov. 25 Ilargitt Coil. 
 (V.Pluehe). 
-h. <$ ad. st. Alf heim, N. Norway, June. E. Lort Phillip 
+h. <$ ad. sk. Alf heim, N. Norway, June. E. Lort Phillip 
 Esq. [P.;. 
 1, m. 3 ad. sk. Valley of the Yenesay, Seeboftiii Coll. 
 
@@ -39886,7 +39886,7 @@ g. $ ad. sk. Norfolk, Nov. \Gunn).
 J. H. Gumey, Esq. 
 h, $ ad. sk. Norwich, Oct. J. H. Gurnev, Esq. 
 
-i, k cS 2 ad. st. Merton, May. Lord Wa Isi nsrha m 
+i, k cS 2 ad. sk. Merton, May. Lord Wa Isi nsrha m 
 
 /. S imm. sk. Gt. Yarmouth, Nov. 21 Seebohm Coll. 
 
@@ -43145,7 +43145,7 @@ Frisknev, Lincolnshire coast,
 Gould Coll. 
 Seebohm Coll. 
 ,Nov. 23. 
-d. e. S 2 ad. st. Leicestershire. Theodore Walker, 
+d. e. S 2 ad. sk. Leicestershire. Theodore Walker, 
 f,g. 3 2 ad. st.
 A. S ad. sk. 
 Norfolk, May. 
@@ -43172,7 +43172,7 @@ Ad. etimra.
 sk. 
 q-$. Ad. St. 
 
-t. $ ad. st. 
+t. $ ad. sk. 
 u. Ad. sk. 
 v. S juv. sk. 
 to. d ad. sk. 
@@ -44775,7 +44775,7 @@ Iris hazel; bill black, with a transverse white band across both
 mandibles; between the white band and the tip one or two distinct 
 transverse folds ; feet black. 
 
-Atlvlt male. Total length about 17*5 inches, culmen from feathers 
+Adult male. Total length about 17*5 inches, culmen from feathers 
 on forehead to tip 1*3-1-4, from gape to tip 1-9-2-1, greatest depth 
 of both mandibles at base 0*85, wing 7*2-7'3, tail 2*9-3, tarsus 
 1*25. middle toe and claw 1*8. 
@@ -44928,7 +44928,7 @@ Heligoland, April, Nov. (L.
 Gtltke). 
 Havre, Jan., March (V. Pluche). 
 
-c"-~d". <$ ad. st. Arcarchon, S. France, Jan., 
+c"-~d". <$ ad. sk. Arcarchon, S. France, Jan., 
 etimm. sk. Feb. 
 
 e". Imm. sk. Catalan Bay, Nov. 
@@ -46975,7 +46975,7 @@ ad. sk. Ilakodadi, Jap-m, Mar. 23 Seebohm Coll.
 (Ue?iso7i). 
 d-f. 
 <$ O ad. sk. Hakodadi, May & Nov. (T. Seebohm Coll. 
-ec d ad. st. Blaldston). 
+ec d ad. sk. Blaldston). 
 
 g. 
 J ad. sk. Kurile Islands (0. Snoic). Seebohm Coll. 
@@ -48079,7 +48079,7 @@ Bab. The same as that of the genus.
 11 . CEKOEHTITCKA. 
 a,b. £ ad. sk. Kiirile Islands, June (0. Snow). Seebohm Coll. 
 
-c. (S ad. st. Commander Islands. G. E. H. BarrettHamilton,
+c. (S ad. sk. Commander Islands. G. E. H. BarrettHamilton,
 Esq.[P.]. 
 d-f. d 2 ad. sk. Bering I., Commander Group, G. E. H. Barrett-
 summer. Hamilton, Bsc[.[P.]. 
@@ -48242,7 +48242,7 @@ Seebohm Coll.
 (P. A. Hoist). 
 b. S ad. sk. Nagasaki, Feb. 27. F. Ringer, Esq. [P.], 
 c-g. Ad. etimm. Yokohama (H. Prye?'). Seebohm Coll, 
-h. $ ad. st. Hakodadi, April 1 (H Whitely). Gould Coll. 
+h. $ ad. sk. Hakodadi, April 1 (H Whitely). Gould Coll. 
 I Ad. sk. Hakodadi, May 11 (H. W.). Tweeddale Coll. 
 k, I. <$ £ ad. sk. Hakodadi, May 12 (Henson). Seebohm Coll. 
 m. $ ad. sk. Hakodadi {T. Blahiston). Seebohm Coll. 
@@ -49146,7 +49146,7 @@ l-n. Ad. sk.
 o. Ad. sk. 
 ;;. Ad. sk. 
 
-q-b'. <$ ad. st. et 
+q-b'. <$ ad. sk. et 
 <$ $ ad., imm., 
 et pull. sk. 
 
@@ -50027,7 +50027,7 @@ grey margins to the feathers almost entirely worn off.
 Hal. Falkland Islands, "Weddell Island, South Georgia, and off 
 Seymour I. (lat. 64° 12' S., long. 55° 40' W.). 
 
-a. (S ad. st. Antarctic Seas, lat. 64° 9' S., Antarctic Exped. 
+a. (S ad. sk. Antarctic Seas, lat. 64° 9' S., Antarctic Exped. 
 long. 56° W. 
 b. $ ad. sk. Antarctic Seas, lat. 64° 10' S., Antarctic Exped. 
 long. 54° W., Jan. 
@@ -50909,7 +50909,7 @@ Hob. Coasts of South Australia and Tasmania to New Zealand
 and the Chatham Islands. 
 
 a, b. Vix ad. sk. Australia. Old Coll. 
-Cj d. Vix ad. st. Australian Museum 
+Cj d. Vix ad. sk. Australian Museum 
 
 
 New South Wales. 

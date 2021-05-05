@@ -1516,15 +1516,15 @@ Salvin-Godman Coll.
 Br. Ooppinger [C I 
 Burnett & Fitzroy [P.]. 
 Salvin-Godman Coll. 
-n. <$ ad. st. Prov. Santiago, Chili {Leybold), 
+n. <$ ad. sk. Prov. Santiago, Chili {Leybold), 
 P. L. Sclater [P.]. 
 o. Ad. sk.
-p. Acl. sk. 
+p. Ad. sk. 
 Chili (James) 
 Chili. 
 Sclater Coll. 
 Lord B\ron [P.]. 
-q. Acl. sk. Chili. Sclater "Coll. 
+q. Ad. sk. Chili. Sclater "Coll. 
 
 2. G-eositta frobeni. 
 Geositta cunicularia, Scl. et Salv. P. Z. S. ^67 , p. 985, et 1868, 
@@ -3567,7 +3567,7 @@ b, c. $ ad. sk. Uruguay. Alan Peel [C/].
 d. 
 $ ad. sk. Conchitas, Buenos Ayres Sclater Coll. 
 (Hudson). 
-e. Acl. sk. Parana, rep. Arg. (Bur- Salvin-Godman Coll. 
+e. Ad. sk. Parana, rep. Arg. (Bur- Salvin-Godman Coll. 
 meister). 
 f. 
 <S ad. sk. Cosquin, Cordova, rep. Arg. Salvin-Godman Coll. 
@@ -3932,7 +3932,7 @@ y, $ ad. sk. Cayandeled, Ecuador Sclater Coll.
 (Authentic specimen of 8. fmticicola.) 
 
 14 . 8YNAT,L\XIS. 
-z, a'. Acl. sk. llanmsani, Bolivia (Buck" Salvin-Godman (loll. 
+z, a'. Ad. sk. llanmsani, Bolivia (Buck" Salvin-Godman (loll. 
 
 b\ Ad.; c'. Jr. st. Bolivia. T. Brides [0.]. 
 d'. (S ad.; e'-hK $ Cliapada, TVrntto Grosso, Salvin-(lodnniu Coll. 
@@ -3990,7 +3990,7 @@ a. Ad. sk. Bogota.
 Sclater Coll. 
 b. Jr. sk. Interior of Colombia. Sclater Coll. 
 (Type of & mcesta.) 
-c. Acl, sk. Sarayacu, Ecuador (Buckley), Salvin-Godman Coll. 
+c. Ad. sk. Sarayacu, Ecuador (Buckley), Salvin-Godman Coll. 
 6, Synallaxis brunneicauda, 
 
 Synallaxis ruficapilla, JekJd, 318, 
@@ -4815,7 +4815,7 @@ a. Ad. sir. Bogota. Mater Coll.
 b. Ad. sk. Antioquia, Colombia (SalSclater 
 Coll. 
 man). 
-c. d. Acl. sk. Colombia. Salvin-Godman Coll. 
+c. d. Ad. sk. Colombia. Salvin-Godman Coll. 
 e. Ad.sk. Colombia. EytonColl. 
 
 25, Synallaxis fusco-rufa. 
@@ -5672,7 +5672,7 @@ the same locality) to this species.
 a. $ 
 ad. &k. Mendoza, Arg. Eep. (Weiss- Sclater Coll. 
 haupt). 
-b. Acl. sk. Pampas of the Argentine Re- Salvin-Godman Coll. 
+b. Ad. sk. Pampas of the Argentine Re- Salvin-Godman Coll. 
 public {Leybold). 
 c. tf ad. sk. Cosquin, Cordova, Arg. Eep. Salvin-Godman Coll. 
 {White). 
@@ -6513,7 +6513,7 @@ Purchased.
 k. Ad. sk. Venezuela. 
 C. Dyson [C.]. 
 1. J ad. sk. Puellaro, Ecuador (Fraser). Sclater Coll. 
-m. Acl. sk. Vicinity of Quito, Ecuador. Salvin-Godman Coll. 
+m. Ad. sk. Vicinity of Quito, Ecuador. Salvin-Godman Coll. 
 n,o. Ad. sk. San Lucas, Ecuador (Villagomez). Salvin-Godman Coll. 
 p. Ad. sk. Andes of Ecuador (Jameson). Jardine Coll. 
 q, r. Ad. sk, Tilotilo, Yucgas, Bolivia (Buclrfey). Salvin-Godman Cull. 
@@ -9926,7 +9926,7 @@ b. Ad. sic. Chili {Meed). Salvin-<Rodman Coll.
 c. Ad. sk. Chili (PMUppi), Selater Coll. 
 d. e. $ ad. sk. Chili (Leybold). ftalvin-Godman Coll. 
 /, g. Ad. sk. Chili. Purchased. 
-lu Acl. sk. S. Chili. Selater Coll. 
+lu Ad. sk. S. Chili. Selater Coll. 
 i. S ad. sk. Puerto Bueno, Patagonia. i Challenger' Exp. 
 j. Ad. sk. Sky-ring "Water, Patagonia. Dr. Coppinger [0.]. 
 39. DENDROENIS *. Typ6 i 
@@ -10447,7 +10447,7 @@ r. Ad. sk. Panama.
 0. Salvin, Esq. [P.]. 
 s. Ad. sk. Panama. 
 Tweeddale Coll. 
-t. Acl. sk. N."W. coast of S. America. Kellett & Wood [C.]. 
+t. Ad. sk. N."W. coast of S. America. Kellett & Wood [C.]. 
 u. $ 
 ad. sk. Minca, Santa Marta, U. S. 0. Salvin-Godman Coll. 
 {Simons). 
@@ -10462,7 +10462,7 @@ y. Ad. sk. Caracas, Venezuela {Dyson). Purchased.
 ». Ad. sk. Venezuela. Sclater Coll. 
 a'. Ad. sk. Venezuela. Eyton Coll. 
 V-d'. Ad. sk. Trinidad. Zool. Soc. Coll. 
-e'J'. Acl. sk. Trinidad. Sclater Coll. 
+e'J'. Ad. sk. Trinidad. Sclater Coll. 
 y.'Ad. sk. Tobago {Kirk). Sclater Coll. 
 //. Ad. sk. Tobago {Kirk). Eyton Coll. 
 i\ Ad. sk. Tobago. GOVT. Ussher [P.J. 
@@ -11014,7 +11014,7 @@ L Ad. sk.
 Brazil (Joyner). 
 Brazil. Salvin-Godman Coll. 
 j . Ad. sk.
-k. Acl. sk. 
+k. Ad. sk. 
 Brazil, 
 Brazil. 
 Eyton Coll. 
@@ -11357,7 +11357,7 @@ less defined spots on the head.
 a, Ad. sk. S.E. Brazil. Gould Coll. 
 b. Ad. sk. Trinidad. Sclater Coll. 
 c. Ad. sk. S.E. Brazil. Sclater Coll. 
-d. Acl. sk. S.E. Brazil. Salvin-Godman Coll. 
+d. Ad. sk. S.E. Brazil. Salvin-Godman Coll. 
 
 3. Picolaptes falcinellus. 
 Tlrripobrotus falcinellus, Cab. et Hein. Mus. Hein. ii. p. 88. 
@@ -11458,7 +11458,7 @@ I am very doubtful about the distinctness of this southern form
 of P. lacrymiger, but have hardly materials before me sufficient for 
 a decided conclusion. 
 
-a. (S ad. st. Bolivia. T. Bridges [C.]. 
+a. (S ad. sk. Bolivia. T. Bridges [C.]. 
 b. <j> ad. sk. Bolivia. Kclater Coll. 
 c. Ad. sk. Sical, Ecuador. Sahin-Godman Coll. 
 d. (S ad. sk. Nanegal, Ecuador (Fraser). Sclater Coll. 
@@ -12951,7 +12951,7 @@ ntr).
 
 Brazil (Joyner). 
 
-7i, i. Acl. sk, S.E. Brazil 
+7i, i. Ad. sk. S.E. Brazil 
 Relator Coll 
 
 /. Ad. sk. 
@@ -13512,8 +13512,8 @@ r, s. S $ ad. sk. Bartica Grove, Brit. Guiana Salvin-Godman Coll.
 (Whitely). 
 Maroni r., Surinam (Kappler). Salvin-Godman Coll. 
 u. 5 ad. sk. Cayenne. Sclater Coll. 
-v. $ ad. st. Brit. Guiana. Ckev. Schomburgk 
-10. 5 ad. st. S. America. r, R • ,Baron Laugier s 
+v. $ ad. sk. Brit. Guiana. Ckev. Schomburgk 
+10. 5 ad. sk. S. America. r, R • ,Baron Laugier s 
 Coll. 
 
 2. BATARA. 
@@ -13561,7 +13561,7 @@ paler, belly washed with rufous.
 
 -Hah. S.E. Brazil 
 a, b. (S ad.; c, d. S.E. Brazil. Purchased. 
-$ ad. st. 
+$ ad. sk. 
 e,f. (J § ad. sk.
 g. ($ ad. sk.
 k, i 6 S ad. sk. 
@@ -13673,7 +13673,7 @@ ferruginous; forehead densely striated with ferruginous beneath
 black, thickly barred with pale ferruginous. 
 Hob. S.E. Brazil and K Argentina. 
 
-a, b. <$ ad. st. 
+a, b. <$ ad. sk. 
 
 c. S ad.j d,e. 
 $ ad. sk. 
@@ -13725,7 +13725,7 @@ cross undulations : beneath similar but brighter.
 
 Ilab. Amazonia. 
 
-a. $ ad. st. B. Ucayali. 
+a. $ ad. sk. B. Ucayali. 
 Gould Coll. 
 b, c. S 2 a(^ sk. Bio Copotaza, Ecuador (Buck- Salvin-Godman Coll. 
 ley). 
@@ -13770,7 +13770,7 @@ fulvous; belly pale ochraceous.
 
 Ilab. S.E. Brazil. 
 
-a, b. d ad. st. Brazil. 
+a, b. d ad. sk. Brazil. 
 Purchased. 
 
 c. $ ad. sk. Sao Paulo, Brazil (Joyner). Salvin-Godman Coll. 
@@ -13805,7 +13805,7 @@ pale* ferruginous, with black cross bars.
 Hah. S.E. Brazil. 
 
 a-d. S ad.; e,f,g. S.E. Brazil. Purchased. 
-5 ad. st. 
+5 ad. sk. 
 
 h. 
 J ad. sk, Rio Olaro, Goyaz, Brazil Salvin-Godman Coll. 
@@ -13850,7 +13850,7 @@ banded female.
 
 a. $ 
 ad. st. Cayenne. Zool. Soc. Coll. 
-b. 5 ad. st. Cayenne. BaionLaugier'sColl. 
+b. 5 ad. sk. Cayenne. BaionLaugier'sColl. 
 Cj d. S $ ad. sk.; Bartica Grove, Brit. Guiana Salvin-Godman Coll. 
 e. Jr. sk. (Whiiely). 
 f. 
@@ -13946,7 +13946,7 @@ f,
 sk. (Types of the species.) 
 h i. 6 2 ad. Santa Rita, Ecuador (Villa- Salvin-Godman Coll. 
 sk. gomez). 
-j-<$ ad. st. Guayaquil. G. Barclay [P.]. 
+j-<$ ad. sk. Guayaquil. G. Barclay [P.]. 
 
 h. tf ad. sk. Sarayacu, Ecuador (Buckley). Salvin-Godman Coll. 
 1. c? ad. sk. Remedios, Antioquia (Salmon), Salvm-Godman Coll. 
@@ -14065,9 +14065,9 @@ Bab.- Eastern South America from Venezuela to Argentine
 
 Eepublic. 
 
-a. S ad. st. Brazil. 
+a. S ad. sk. Brazil. 
 Purchased. 
-b. g ad. st. Brazil. 
+b. g ad. sk. Brazil. 
 M. Olaussen [P.]. 
 c. g ad, st Caracas, Venezuela. Dyson [0.1 
 d. <$ ad. sk. Carupano, Venezuela (Goering). Salvin-Godman Coll. 
@@ -14199,7 +14199,7 @@ cinnamomeous ; head and neck black.
 Hob. Upper Amazonia. 
 
 a. 
-<$ ad. st. R. Ucayali. Gould Coll. 
+<$ ad. sk. R. Ucayali. Gould Coll. 
 (Type of Th. cormnus.) 
 b. (S ad. sk. Pebas, E. Peru (Hauxwell). Salvin-Godman Coll. 
 c. <$ ad. sk. Rio Javari. Purchased. 
@@ -14246,7 +14246,7 @@ white, and different female distinguish this species from T. leuco
 notus. 
 
 a. 
-$ ad. st. Bogota. Lady Ellis [P.], 
+$ ad. sk. Bogota. Lady Ellis [P.], 
 (Type of Pyriglena ellisiana.) 
 b. S ad. sk. Tucumqui, Costa Rica (Arce), Salvin-Godman Coll. 
 c 
@@ -14278,7 +14278,7 @@ m. S ad. sk.
 n. Ad. sk. 
 o. Ad. sk. 
 p. cf jr. sk. 
-q. cS ad. st. 
+q. cS ad. sk. 
 Vicinity of Quito, Ecuador. 
 Initaj, Ecuador (Buckley). 
 Bogota. 
@@ -14329,7 +14329,7 @@ Hah. Lower Amazonia.
 The crested head and broad white tips to the tail-feathers render 
 this species easily recognizable. 
 
-a. <$ ad. st. It. Amazons. Purchased. 
+a. <$ ad. sk. It. Amazons. Purchased. 
 6. 8 ad. sk. Pio Tocantins (Wallace). Sclater Coll. 
 c. 3 ad. sk. Cara-raucu, Lower Amazons Salvin-Godman Coll. 
 (Natterer). 
@@ -14498,7 +14498,7 @@ lett).
 c, d. S ? ad. sk. Amazons. Purchased. 
 
 e. 
-$ ad. st. Ohamicuros, Ucayali Gould Coll. (Type of Th. 
+$ ad. sk. Ohamicuros, Ucayali Gould Coll. (Type of Th. 
 (Hauxivell). hyperythrus.) 
 f. 
 <$ ad.; fff h. Pebas, E. Peru (Ilaux-Salvin-Godman Coll. 
@@ -14865,7 +14865,7 @@ jr. sk.
 #'. tf ad, st. 
 r', s'. <$ $ ad.; 25'. 
 
-wr. (5 ad. st. 
+wr. (5 ad. sk. 
 
 Puerto Cabello, Honduras 
 
@@ -15234,7 +15234,7 @@ Sclater Coll.
 Salvin-Godman Coll. 
 Gould Coll. 
 7. <S ad. sk. S.E. Brazil. Zool. Soc. Coll. 
-m. d ad. st. S.E. Brazil. Purchased. 
+m. d ad. sk. S.E. Brazil. Purchased. 
 
 SECT. E. Of smaller size; head more or less crested and black; 
 wings black with white edgings; tail with white tip. (Group 
@@ -15325,10 +15325,10 @@ k, 16 ? ad. sk. Eio Neoro (?). Sclater Coll.
 (Types of Th. leucauchen.) 
 9)i. (S ad. sk. South America. Sah iii-Godman Coll. 
 
-n. S ad. st. Trinidad. 
+n. S ad. sk. Trinidad. 
 Purchased. 
 o. $ ad. &t. Trinidad. Gould Coll. 
-p, J ad. st. Trinidad. Zool. Soc. Coll. 
+p, J ad. sk. Trinidad. Zool. Soc. Coll. 
 q. <$ ad. fat. S. America. Purchased. 
 38. Thamnopliilus cristatus. 
 Thamnopliilus cristatus, Max. Beitr. iii. p. 1002; Burm. Syst. TJeb. 
@@ -15394,7 +15394,7 @@ This is quite a distinct species, easily recognizable by its larger
 size, stronger bill, the conspicuous white nape, and the different 
 coloration of the female. 
 
-a. d ad. st. Guyaquil. Kellett & "Wood [C.l 
+a. d ad. sk. Guyaquil. Kellett & "Wood [C.l 
 b. $ jr. sk. Guyaquil. Kellett& Wood [C.l. 
 c. d. <$ $ ad. sk. Puna Island, Ecuador (Villa- Salvin-Godman Coll. 
 gomez). 
@@ -15662,7 +15662,7 @@ o\ 2 ad. sk.
 
 p\ 6 jr. sk. 
 
-§-', ?•'. tf ad. st. 
+§-', ?•'. tf ad. sk. 
 
 6''. <$ jr. st. 
 
@@ -16059,7 +16059,7 @@ rufesccnt.
 
 Hab. S.E. Brazil. 
 
-a. £ ad. st. Brazil. Purchased. 
+a. £ ad. sk. Brazil. Purchased. 
 b. § ad. sk. Para, Lower Amazons (JVallace). Salvin-Godmau Coll. 
 c. tf ad. sk. Para, Lower Amazons (Layard). Tweeddale Coll. 
 d. e. tf ad. sk, Pemambuco, Brazil (Forbes). Salvin-G odman Coll. 
@@ -16132,7 +16132,7 @@ e. $ ad. sk. Bahia, Brazil. Goald Coll.
 h. <S ad. sk. Rio, Brazil. Sclater Coll. 
 t,j. <$ ? ad. sk. S.E. Brazil. Sclater Coll. 
 kl d ad. sk. S.E. Brazil. Purchased. 
-/, m. 2 ad. st. S.E. Brazil. Purchased. 
+/, m. 2 ad. sk. S.E. Brazil. Purchased. 
 54. ThamnopMlns ruficapillus. 
 Batara acanelado, Azara, Apunt. ii. p. 205. 
 
@@ -16238,7 +16238,7 @@ black: whole length 6*8 inches, wing 3-2, tail 3. Female similar,
 but head chestnut-brown and without the pectoral patch *. 
 
 Hab. S.E. Brazil. 
-a. S ad. st. Brazil. Purchased. 
+a. S ad. sk. Brazil. Purchased. 
 b. c? ad. sk. Brazil. Salvin-Godman Coll. 
 c. S ad. sk. South America. Sclater Coll. 
 
@@ -16553,7 +16553,7 @@ a, b. $ ad.; c. $ Bahia, Brazil (Wucherer). Salvin-Godman Coll.
 ad. sk. 
 d, e. J ? ad. sk. S.E. Brazil. Sclater Coll. 
 /. $ ad. sk. S.E. Brazil. J. Gould, Esq. 
-g, h. <$ $ ad. st. SrE. Brazil. Purchased. 
+g, h. <$ $ ad. sk. SrE. Brazil. Purchased. 
 
 221 
 
@@ -17395,7 +17395,7 @@ s. $ ad. sk. Upper Ucayali (Bartktt). Sclater Coll. )
 a', b'. $ $ ad. &k. Upper Ucayali. E. Bartlett [C.]» 
 c'. 5 ad. sk. Upper Ucayali. Salvin-rGodman Coll. 
 tl'. 2 ad. sk. Upper Amazons (Bates). Sclater Coll. 
-e'. (S ad. st. Cayenne (?). Purchased. 
+e'. (S ad. sk. Cayenne (?). Purchased. 
 
 B. Brown-and-grey group, akin to 31. guttata. 
 3. Myrmotherula guttata. 
@@ -18500,7 +18500,7 @@ similar, but head rufous.
 
 Hob. S.E. Brazil. 
 
-a. <$ ad. st. S.E. Brazil. J. Gould, Esq. ' 
+a. <$ ad. sk. S.E. Brazil. J. Gould, Esq. ' 
 b,c. J ad.sk. Bahia, Brazil (Wuchercr). Salvin-Godman Coll. 
 d. $ ad. sk. S.E. Brazil. Sclater Coll. 
 248 F0EMICA.EIIDJ2. 
@@ -18826,7 +18826,7 @@ wing-coverts white: whole length 5 inches, wing 2*2, tail 2-3.
 Female similar, but paler beneath. 
 Hob. S.E. Brazil. 
 
-a, b. (S 2 ad. st. S.E. Brazil. J. Gould, Esq. 
+a, b. (S 2 ad. sk. S.E. Brazil. J. Gould, Esq. 
 c, d. 3 J ad. sk. Bahia, Brazil (Wucherer). Salvin-Godman Coll. 
 
 e. <$ ad. sk. S.E. Brazil. Salvin-Godman Coll. 
@@ -18965,7 +18965,7 @@ Hah. S.E. Brazil.
 
 The regular spots on all the rectrices distinguish this species. 
 
-a. J ad. st. S.E. Brazil. Purchased. 
+a. J ad. sk. S.E. Brazil. Purchased. 
 b. $ ad.; c, d. Bahia, Brazil ( Wucherer). Salvin-Godman Coll. 
 $ ad. sk. 
 ej. 6 $ ad. sk. S.E. Brazil. Sclater Coll. 
@@ -20000,9 +20000,9 @@ belly.
 
 Bab. S.E. Brazil. 
 
-a. <$ ad. st. Brazil. 
+a. <$ ad. sk. Brazil. 
 Gould Coll. 
-b. S ad. st. Brazil. 
+b. S ad. sk. Brazil. 
 Purchased. 
 c. d. <$ <j> ad. sk. Pelotas, Bio Grande do Sul, Salvin-Godman Coll. 
 Brazil (Joyner). 
@@ -20709,7 +20709,7 @@ This is an unmistakable species, in which the female varies only
 in having the throat pure white, while in the male it is of the same 
 black as the breast. 
 
-a. <$ ad. st. Cayenne. Mrs. Atkins [P.], 
+a. <$ ad. sk. Cayenne. Mrs. Atkins [P.], 
 b, c. S ? ad. sk. Cayenne. Sclater Coll. 
 d. $ ad. sk. Berbice. Gould Coll. 
 e> S ad. sk. Demerara. Eyton Coll. 
@@ -21055,7 +21055,7 @@ above brown, with pale fulvous striations.
 
 Hab, Guiana, Amazonia, and Ecuador. 
 
-a, b. £ ad. st. S. America. Purchased. 
+a, b. £ ad. sk. S. America. Purchased. 
 c, d. (S 2 a<^ sk« Bartica Grove, Brit. Guiana Salvin-Godman Coll. 
 ( Wkitehj). 
 
@@ -21153,7 +21153,7 @@ dusky.
 
 Bab. Guiana and Lower Amazonia. 
 
-a. J ad. st. S. America. Purchased. 
+a. J ad. sk. S. America. Purchased. 
 5, c. (S ad.; Bartica Grove, Brit. Guiana Salvin-Godman Coll. 
 d, e. J ad, sk. (Whitely). 
 / . ? ad. sk. Bartica Grove, Brit. Guiana Sclater Coll. 
@@ -22304,7 +22304,7 @@ g9 h. Ad. sk. Sources of Rio de la Pasion, Salvin-Godman Coll.
 Guatemala (Salvin). 
 
 i. Ad.sk. Choctum, Vera Paz (Salvin). Salvin-Godman Coll. 
-j, h Acl. sk. Vera Paz. 0. Salvin, Esq. [P.]. 
+j, h Ad. sk. Vera Paz. 0. Salvin, Esq. [P.]. 
 '/. Ad. sk. Guatemala (Salvin). Sclater Coll. 
 4. Eormicarius lioffnianni. 
 Myrmornib hoffmanni, Cab. J.f. 0. 18(31, p. 05 (Costa Rica). 
@@ -24843,7 +24843,7 @@ brown.
 Hub. S.E. Brazil. 
 
 344 FTEROPTOCHIDJE. 
-a. § ad. st. Brazil. Zool. Soc. Coll. 
+a. § ad. sk. Brazil. Zool. Soc. Coll. 
 b, o. cJ $ ad.; d. S.E. Brazil. Sclater Coll. 
 3 jr. sk. 
 «• c? jr.; / . $ S.I}. Brazil. Salvin-Godman Coll. 

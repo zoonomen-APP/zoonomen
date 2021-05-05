@@ -1970,7 +1970,7 @@ Sclater Ooll.
 Salvin-Godman Ooll 
 Gould Coll. 
 e. Ad. sk. Ecuador. Sclater Coll. 
-/. Acl. sk. Ecuador. 
+/. Ad. sk. Ecuador. 
 
 3. Myiotheretes striaticollis. 
 Tyxannus rufiventris, dJOrb. et Lafr, Si/n. A v. i, p. 45; d'Oib. Voy., 
@@ -4269,7 +4269,7 @@ The lesser crest, smaller size, and shorter plumbeous bill serve to
 distinguish this species from 0. eomatus. As regards the curious 
 sexual difference of the female of. Pelzeln, op. cit. 
 
-a. $ ad. st. Brazil. Purchased. 
+a. $ ad. sk. Brazil. Purchased. 
 b, c. <$ 2 ad. sk. 
 d,e. $ § ad. sk. 
 / . S ad. sk. 
@@ -4456,7 +4456,7 @@ c. c? ad. sk. Uruguay. Alan Peel [C.l
 d, e. S ad. sk. Brazil. M. Claussen [P.]. 
 f 6 ad.; g. tf jr.sk. Brazil. Purchased. 
 A, i. $ ad. sk. Brazil. Purchased. 
-j. <$ ad. st. S. America. Jardine Coll. 
+j. <$ ad. sk. S. America. Jardine Coll. 
 14 . CtflPOLEGft/S. 
 7. Cnipolegus unicolor. 
 Cnipolegus unicolor, Kaup, J. f. O. 1853, p. 20; Pek. Orn. Bras. 
@@ -5541,7 +5541,7 @@ c, d. 2 ad. sk. Tinta, Peru. H. "Whitely [C.l
 
 e. 2 ad. sk. Tinta, Peru. H. Whitely [C.J. 
 / . 2 ad. sk. Tinta, Peru ( Whitely). Salvin-Godman Coll. 
-g. S ad. st. Salinas, S.W. Peru (Whitely). Salvin-Godman Coll. 
+g. S ad. sk. Salinas, S.W. Peru (Whitely). Salvin-Godman Coll. 
 21 . MTJSCIGRALLA. 
 . MUSCiaRALLA.
 
@@ -7997,7 +7997,7 @@ e. Ad. sk. Maldonado, Uruguay. Fiteroy and Burnett
 
 g. S ad.sk. Conchitas, Buenos Ayres (Hudson). Salvin-Godman Coll. 
 h. J ad. sk. Elores, Buenos Ayres (White). Selater Coll. 
-i-k. Acl. sk. Buenos Ayres. II. Dumford [*C.l 
+i-k. Ad. sk. Buenos Ayres. II. Dumford [*C.l 
 I <$ ad.sk. Cosquin,Oordo7a;rop.Arg.(TF/wte). Salvin-Godman Coll 
 m. <$ ad.sk. Oosquin, Cordova, rep. Arg.(WJiite). Selater Coll. 
 n-p. <$ ad.sk. Pampas of Arg. Republic (Let/bold). Salvin-Godman Coll. 
@@ -14486,7 +14486,7 @@ swollen out at the base as in M. regia. Besides this the bird is
 larger in size, its back is lighter in colour, and there are no traces 
 of transverse markings on the breast in adult specimens. 
 
-a. S ad. st. South America. Purchased. 
+a. S ad. sk. South America. Purchased. 
 b,c. <$ $ ad. sk. Brazil. Sclater Coll. 
 d. Ad. sk. Brazil. Salvin-Godman Coll. 
 e,f. Ad. sk. Brazil. J. G-ould, Esq. 
@@ -14517,7 +14517,7 @@ Hab. S. Mexico and Central America down to Northern Colombia,
 The elongated bill at once distinguishes this species from the two 
 
 preceding. 
-a. 9 ad. st. Central America. Purchased. 
+a. 9 ad. sk. Central America. Purchased. 
 ft,e. c7? ad.sk.
 d. e. c? ad. sk.
 / . 2 ad. sk. 
@@ -15831,8 +15831,8 @@ It is in vain, T think, to attempt to make more than one species
 out of this widely-spread bird, though specimens from the west coast 
 are usually smaller. 
 
-a. $ ad. st. 
-b. (S ad. st. 
+a. $ ad. sk. 
+b. (S ad. sk. 
 Brit. Guiana (ScJiomburgh). 
 Brit. Guiana. 
 Roy.Geo^.Soc.[Rl. 
@@ -15909,7 +15909,7 @@ S jr. sk.
 
 m'. c? jr. sk. 
 
-w'. (51 ad. st. 
+w'. (51 ad. sk. 
 
 o\ ? ad. sk. 
 
@@ -16054,7 +16054,7 @@ O. Salvin, Esq. [P.].
 a. S ad. sk. 
 b. S ad. sk 
 c. S ad. sk. 
-d. e. S S ad. st. 
+d. e. S S ad. sk. 
 f,ff. 62 ad.sk. 
 ^, z. 6s S ad. sk. 
 ;, h. d $ ad. sk. 
@@ -17257,7 +17257,7 @@ Jalapa, Mexico (de Oca).
 Sclater Coll. 
 Sclater Coll. 
 J. Ad. sk.
-h. Acl. sk.
+h. Ad. sk.
 I. Ad. sk.
 m. Ad. sk.
 n. Ad. sk. 
@@ -21400,7 +21400,7 @@ yellowish green.
 
 Hal. Guiana and district of Rio Negro. 
 
-a. $ ad. st. British Guiana. Purchased. 
+a. $ ad. sk. British Guiana. Purchased. 
 b-d. 3 ad. j e. Roraima,Brit.Guiana(Wldtely). Salvin-Godman Coll. 
 S jr.; /• ? 
 ad. sk. 
@@ -21466,7 +21466,7 @@ middle of belly yellow.
 
 Hab. Amazonia, Ecuador, Colombia, and Venezuela. 
 
-a. <$ ad. st. Amazons. 
+a. <$ ad. sk. Amazons. 
 Purchased. 
 b. S ad. sk. Barra do Eio Negro ( Wallace), Sclater Coll. 
 c. <$ ad. sk. Upper Amazons (Kauxwell). Gould Coll. 
@@ -21540,7 +21540,7 @@ wing 3*1, tail 2*7. Female. Dull olive-green, paler below.
 
 Hah. S. Brazil and Bolivia. 
 
-a. d ad. st. Brazil. 
+a. d ad. sk. Brazil. 
 Lt. Maw, R.N. [P.]. 
 b. <$ ad.; c. $ Brazil. 
 Purchased, 
@@ -21741,7 +21741,7 @@ middle of the belly.
 Hab. Guiana, Surinam, Cayenne, Venezuela, and Trinidad. 
 
 294 PIPEID32. 
-a. 2 ad. st. S. America. H. 0. Rothery. Esq. 
+a. 2 ad. sk. S. America. H. 0. Rothery. Esq. 
 [P.]. 
 5, c. 2 jr. st.
 d. S jr. sk.
@@ -21811,7 +21811,7 @@ Dull olive: beneath paler, abdomen yellowish.
 
 Bab. Upper Amazonia, int. of Brazil and Bolivia. 
 
-a. S ad. st. S. America. 
+a. S ad. sk. S. America. 
 Lt. Maw, R.N. [P.l 
 b. S ad. sk. Matto Grosso, Brazil (batterer). Salvin-Godman Coll. 
 c. $ ad. sk. Eng. do Gama, Brazil (Natterer). Sclater Coll. 
@@ -21875,7 +21875,7 @@ coverts whitish.
 Hah. Peru and Bolivia. 
 a,b. 6 S ad. sk. 
 c. 6 ad. gkd. 
-<$ ad. st. 
+<$ ad. sk. 
 e. S ad. sk. 
 / . Ad. sk. 
 Cosmpata, Peru (Whitehj). 
@@ -21909,7 +21909,7 @@ belly yellowish ; under wing-coverts pale yellow.
 
 Hab. S. Mexico and Central America down to Panama. 
 
-a, b. <$2 ad. st. Cordova, Mexico (SalU). Purchased. 
+a, b. <$2 ad. sk. Cordova, Mexico (SalU). Purchased. 
 
 c. 3 
 ad. sk. Tizimin, N. Yucatan ( Gaumer). Salvin-Godman ColL 
@@ -21919,7 +21919,7 @@ ad. sk.
 h. 3 
 ad. sk. Meco I., Yucatan (Gaumer). Salvin-Godman Coll. 
 i. 
-3 ad. st. Honduras. Purchased. 
+3 ad. sk. Honduras. Purchased. 
 3 ad. sk. Sources of Rio de la Pasion, Salvin-Godman Coll. 
 h 
 
@@ -21981,7 +21981,7 @@ Hah. Guiana, Venezuela, Colombia, Ecuador, and Amazonia.
 
 9. PIPRA. 
 207 
-a, b. $ ad. st. S. America. 
+a, b. $ ad. sk. S. America. 
 
 Purchased. 
 
@@ -22082,7 +22082,7 @@ line between the northern form which I formerly kept distinct (as
 
 P. coracina) and the southern birds. The former is perhaps 
 somewhat larger and more intense in colour. 
-a, b. d $ ad. st. South America. Purchased. 
+a, b. d $ ad. sk. South America. Purchased. 
 
 c. <$ ad. sk. Chitra, Veragua (Arce). Salvin-Godman Coll. 
 d. <$ jr. sk. Calovevora, Veragua (ArcS). Salvin-Godman Coll. 
@@ -22220,9 +22220,9 @@ Eab. Amazonia,
 300 PIPEIDiE. 
 
 a, b. <$ J ad. sk. Sarayacu, Ecuador (Buckley). Salvin-Godman Coll. 
-c, d. cJ ad. st. R. Amazons. Purchased. 
+c, d. cJ ad. sk. R. Amazons. Purchased. 
 
-e. $ ad. st. Ega, Amazons. Purchased. 
+e. $ ad. sk. Ega, Amazons. Purchased. 
 /. d jr. sk. Chyavetas, E. Peru (Bartlett). Salvin-Godman Coll. 
 g. <$ ad. sk. Upper Ucayali. E. Bartlett [C.]. 
 h. $ ad. sk. Pebas, E. Peru (HauxwelV). Salvin-Godman Coll. 
@@ -22262,7 +22262,7 @@ a. c? ad. sk. Cayenne. Gould Coll.
 b. <$ ad. sk. Cayenne. Sclater Coll. 
 c. $ ad. sk. Cayenne. Salvin-Godman Coll, 
 d. <5 ad. sk. Guiana. Salvin-Godman Coll. 
-e,f. <$ ad. st. Cayenne. Purchased. 
+e,f. <$ ad. sk. Cayenne. Purchased. 
 14. Pipra suavissima. 
 Pipra suavissima, Salv. et Godm. Ibis, 1882, p. 79, pi. i. (Brit. Guiana) j 
 Salv. Ibis, 1885, p. 300 (Br. Guiana). 
@@ -22515,7 +22515,7 @@ but paler below, and with the crown green like the back.
 
 Hah. S.E. Brazil. 
 
-a. 8 ad. st. Brazil. 
+a. 8 ad. sk. Brazil. 
 Purchased. 
 b, c. 8 2 
 acL? d. Bahia, Brazil (Wucherer). Salvin-GodmanColl. 
@@ -22561,7 +22561,7 @@ This northern representative of M. regulus may be distinguished
 by its breast being stained with scarlet, and the darker and moro 
 numerous flammulations of the abdomen. 
 
-a. <3 ad. st. S. America. 
+a. <3 ad. sk. S. America. 
 Purchased. 
 6. rf ad. sk. River Ucayali (Bartlett). Sclater Coll. 
 c,d. 
@@ -22747,7 +22747,7 @@ crimson ; beak black ; feet yellow : whole length 4*6 inches, wing
 
 Hah. Guiana, Lower Amazonia, Ecuador, Brazil, and Bolivia. 
 
-a. c? ad. st. British G-uiana. B. Geogr. Soc. [P.]. 
+a. c? ad. sk. British G-uiana. B. Geogr. Soc. [P.]. 
 b. <$ jr. st. S. America. 
 Purchased. 
 c. cS jr« st. S. America. 
@@ -23041,7 +23041,7 @@ inches, wing 3*1, tail 2-5. Female. Green, beneath brighter.
 
 Hab. Brazil, Paraguay, and northern frontier of Argentina. 
 
-a, b. cS ? ad. st. Brazil. 
+a, b. cS ? ad. sk. Brazil. 
 Lt. Maw, R.N. [P.]. 
 
 c. S jr. st. Brazil. 
@@ -23111,11 +23111,11 @@ bill and feet pale brown : whole length 5 inches, wing 2*5, tail 2'5t
 Hah. S.E. Brazil. 
 
 a. 
-<$ ad. st. Brazil. Ld. Stuart de Rothesay 
+<$ ad. sk. Brazil. Ld. Stuart de Rothesay 
 [P.]. 
 b. S 
 ad. st. Brazil. J. Gould, Esq. 
-c. § ad. st. Brazil. 
+c. § ad. sk. Brazil. 
 Purchased. 
 d. $ 
 ad sk. Bio Janeiro, Brazil. Salvin-Godman Coll. 
@@ -23203,7 +23203,7 @@ Green, beneath, rather lighter.
 Hab. Guiana, Amazonia, Venezuela, Colombia, Ecuador, and 
 Peru. 
 
-a. S ad. st. British Guiana. It. Geogr. Soc. [P.]. 
+a. S ad. sk. British Guiana. It. Geogr. Soc. [P.]. 
 b. S ad. sk. Cayenne. 
 Sclater Coll. 
 c. d. S S ad. sk. Bartica Grove, Brit. Guiana Salvin-Godman Coll. 
@@ -23347,7 +23347,7 @@ Green, "beneath lighter, tinged with yellow.
 
 Hah* Nicaragua, Yeragua, Panama, and Northern Colombia. 
 
-a. $ ad. st. Nicaragua (JDelattre). E. Wilson, Esq. [P.]. 
+a. $ ad. sk. Nicaragua (JDelattre). E. Wilson, Esq. [P.]. 
 s ^ Panama. 
 J. Gould, Esq. 
 
@@ -23508,7 +23508,7 @@ to meet with specimens, the localities of which can be quite depended
 upon. 
 a, h. $ ad.; $ Rio Napo (?). Purchased. 
 jr. st. 
-e. $ ad. st. Brazil. Sudbury Mus. [E.]. 
+e. $ ad. sk. Brazil. Sudbury Mus. [E.]. 
 dj e. $ ad.;/. $ Bahia, Brazil (Wucherer). Salvin-Godman ColL 
 ad. sk. 
 g. § ad. sk. Novo Eribourgo, Rio (Youds), Salvin-Godman Coll. 
@@ -24171,9 +24171,9 @@ and Trinidad.
 
 a. 6 ad.; I. <$ jr.
 st. 
-c <$ ad. st. 
+c <$ ad. sk. 
 
-d. $ ad. st. 
+d. $ ad. sk. 
 «>/• d $ ad. sk 
 #. c? ad. sk. 
 ^? *". d 2 ad. sk. 
@@ -24447,7 +24447,7 @@ more cinereous.
 
 Eab. Cayenne, Brazil, Bolivia, Colombia, and Ecuador. 
 
-a. 2 ad. st. S. America. Purchased. 
+a. 2 ad. sk. S. America. Purchased. 
 b. c? ad. sk. Cayenne. Sclater Coll. 
 Purchased. 
 
@@ -24606,8 +24606,8 @@ black; beneath pale cinnamomeous.
 
 Hah. S.E. Brazil. 
 
-a. $ ad. st. 
-b. $ ad. st. 
+a. $ ad. sk. 
+b. $ ad. sk. 
 Brazil* 
 South America. 
 M. Claussen [P.]. 
@@ -24619,7 +24619,7 @@ Bahia, Brazil,
 Pelotas, Eio Grande do Sul, 
 Sudbury Museum. 
 Salvin-Godman Coll. 
-/. $ ad. st. 
+/. $ ad. sk. 
 g, h. 6 $ acL s^i. 
 c? ad. sk. 
 Brazil (Joyner). 
@@ -24992,7 +24992,7 @@ coverts bright rufous.
 
 Hab. S.E. Brazil. 
 
-a,b. cJ $ ad. st. Brazil. 
+a,b. cJ $ ad. sk. Brazil. 
 Purchased. 
 
 c. tf ad. sk. Pemambuco, Brazil (Craven). Sclater Coll. 
@@ -25080,7 +25080,7 @@ This species stands alone in the genus in showing numerous
 
 transverse bars on the lower surface. 
 
-«,#.<£$ ad. st. Bogota. Purchased, 
+«,#.<£$ ad. sk. Bogota. Purchased, 
 c, d. J ad.; e,f. Bogota. Sclater Coll. 
 $ ad. sk, 
 (/, //. c? $ ad. sk. Bogota. Salvin-Godman Coll. 
@@ -25114,7 +25114,7 @@ cinereous ; lower back and whole under surface white.
 
 Hab. Cayenne. 
 
-a, b. $ ad. st. Cayenne. Purchased. 
+a, b. $ ad. sk. Cayenne. Purchased. 
 c,d. d 2 ad. sk. Cayenne. Sclater Coll. 
 
 e. S ad. sk. Cayenne. Purchased. 
@@ -25180,7 +25180,7 @@ p. ($ ad. sk. Para, Upper Amazons (Wallace). Selater Coll.
 q. $ ad. sk. Mexiana. Selater Coll. 
 r. <$ ad.; s, t. $ Para. P. Graham, Esq. 
 ad. st. [P.l. 
-u. <$ ad. st. S. America. Purchased. 
+u. <$ ad. sk. S. America. Purchased. 
 6. Pachyrhamphtis spodiurus. (Plate XXY.) 
 Pachyrhamphus spodiurus, Scl P. Z. S.1860, pp. 270, 296 (Ecuador); 
 id. Cat. A. B. p. 241: Scl. et 8alv. Nomench p. 56 j Tacz. Orn. 
@@ -25475,7 +25475,7 @@ Larger than P. cinereiventris, and of a darker colour beneath:
 whole length 6 inches, wing 3*1, tail 2-5. 
 Hab. Brazil and N. Argentina. 
 
-a,b. d 2 ad. st. 
+a,b. d 2 ad. sk. 
 
 c. c? ad. sk. 
 d. S ad. sk. 
@@ -26124,7 +26124,7 @@ material differences. The side-patches vary from yellow to ochra
 
 eeous red in specimens from both localities. 
 
-a, b. <$ J ad. st. Brazil. Purchased. 
+a, b. <$ J ad. sk. Brazil. Purchased. 
 c-e. 5 ad. sk. Bahia, Brazil (Wucherer). Salvin-Godman Coll. 
 f, 9-<$ ? a(*-s^- Brazil. Sclater Coll. 
 h.' $ ad. sk. Brazil (?). Sclater Coll. 
@@ -26952,11 +26952,11 @@ Hab. Cayenne, Guiana, and Lower Amazonia.
 
 368 
 
-a. S ad. st. 
+a. S ad. sk. 
 b. S F-ste. 
 S jr. st. 
 d <$ jr. st. 
-#. $ ad. st. 
+#. $ ad. sk. 
 /. S ad. sk. 
 
 gjh. 6 2 ad. sk. 
@@ -27048,7 +27048,7 @@ brown : length of wing 4*6 inches.
 
 Hah. Upper Amazonia. 
 
-a. c? ad. st. S. America. 
+a. c? ad. sk. S. America. 
 Purchased. 
 b. $ ad. sk. Pebas, E. Peru (Hauxwell). Salvin-Godman Coll. 
 c. $ 
@@ -27144,7 +27144,7 @@ VOL. xiv.
 
 370 COTHST&IB^:. 
 
-a. 5 ad. st. 
+a. 5 ad. sk. 
 b. <$ ad.; c, d. J 
 ad.; e. <$ jr. sk 
 f. J ad. sk. 
@@ -27232,7 +27232,7 @@ The Bolivian bird is much darker in hue than the northern form,
 n. S ad. sk. 
 and comes near to B. sanguinolenia. 
 a-c. £ ad.; d-f. S. America. Purchased. 
-2 ad. st. 
+2 ad. sk. 
 g. 2 a& sk. San Cristobal, Venezuela Salvin-Godman Coll. 
 k. $ ad. sk. Bogota. 
 *". $ ad. sk. Bogota. 
@@ -27396,7 +27396,7 @@ similar, but not so bright, head brownish, wings edged with greeny
 and tail not so long. 
 
 Hab. S.E. Brazil. 
-a, 6. S ? ad. st. Brazil. Ld. Stuart de Rothesay 
+a, 6. S ? ad. sk. Brazil. Ld. Stuart de Rothesay 
 [P.]. 
 
 c. Ad. sk. S. America. Mrs. Atkins [P.]. 
@@ -27445,7 +27445,7 @@ beneath paler, belly yellowish, bill dirty orange, feet blackish.
 
 Hob, S.E. Brazil. 
 
-a. J ad. st. S. America. Lt. Maw, R.N. [P.]. 
+a. J ad. sk. S. America. Lt. Maw, R.N. [P.]. 
 b. S ad. sk. Novo Fribourgo, Rio de Ja- Salvin-Godman Coll. 
 neiro, Brazil (Youds). 
 c,d, ($$ ad. sk. S.E. Brazil. Sclater Coll. 
@@ -27507,7 +27507,7 @@ similar, but not so dark ; head and throat greenish.
 
 Bab. S.E. Brazil. 
 
-a. <$ ad. st. S. America. 
+a. <$ ad. sk. S. America. 
 Purchased. 
 b. $ ad, sk. Bio, Brazil. 
 Salvin-Godman Coll. 
@@ -27547,7 +27547,7 @@ Hob. S.E. Brazil.
 
 a. c? ad.; b. tf jr. st. Brazil. 
 Purchased. 
-c. J ad. st. Brazil. 
+c. J ad. sk. Brazil. 
 M. Claussen [P.]. 
 d. 2 ad.; e. Ad. sk. Sao Paolp, Brazil (Joyner), Salvin-Godman Coll, 
 / . Ad. sk. Brazil. Sclater ColL 
@@ -27931,8 +27931,8 @@ yellow striations ; bill and feet brown.
 
 Hob. Venezuela and Colombia. 
 
-a. c? ad. st. Venezuela. E. By son [C.]. 
-b, c. $ J ad. st. Venezuela. Purchased. 
+a. c? ad. sk. Venezuela. E. By son [C.]. 
+b, c. $ J ad. sk. Venezuela. Purchased. 
 d. J ad. sk. Caracas, Venezuela (Goeriny). Salvin-Godman Coll. 
 e. cf ad. sk. Venezuela. Salvin-Godman Coll. 
 /; 9> 6 $ ad. sk. Venezuela. Sclater Coll. 
@@ -28154,12 +28154,12 @@ crissum and margins of inner webs of wing-feathers reddish ochraceous.
 
 Hal. South-east Brazil. 
 
-a. $ ad. st. Brazil. 
+a. $ ad. sk. Brazil. 
 Purchased. 
 Brazil. 
 Sudbury Mus. [E.]. 
 
-b. $ ad. st. 
+b. $ ad. sk. 
 Bahia, Brazil (Wucherer). Salvin-Godman Coll. 
 
 c. S jr.; d. 2 
@@ -28200,7 +28200,7 @@ The broader pectoral band and the reduced size of the purple
 belly-patch, besides the lighter shade of the blue, distinguish this 
 species from C. cincta. 
 
-a, b. c? ? ad. st. Vera Paz. ^"Cfould, Esq. 
+a, b. c? ? ad. sk. Vera Paz. ^"Cfould, Esq. 
 c, d. <$ ad. sk. Choctum, Vera Paz (Salvin). Sahin-Godman Coll. 
 
 e. $ 
@@ -28349,7 +28349,7 @@ strongly developed. In the female this becomes rufous, and serves
 
 to separate this sex from the corresponding sex of 0. cay ana. 
 
-a. $ ad. st. S. America. 
+a. $ ad. sk. S. America. 
 Purchased. 
 b. S ad. sk. Yquitos, Peru. Sclater Coll. 
 c. d. <$ J ad. sk. River Ucayali (Hauxivell). J. Gould, Esq. 
@@ -28378,7 +28378,7 @@ wing- and tail-feathers, and crissum pale ferruginous.
 
 Bab. Upper Amazonia and Eastern Ecuador. 
 
-a, b. (S $ ad. st. River Ucayali. J. Gould, Esq. 
+a, b. (S $ ad. sk. River Ucayali. J. Gould, Esq. 
 c} d. (S $ ad. sk. River Ucayali (IlauMell). J. Gould, Esq. 
 
 17 . XIPHOLENA. 387 
@@ -28446,7 +28446,7 @@ Hal. Guiana, Surinam, and Cayenne.
 
 a, b. d ad.; c. J British Guiana. R. Geogr. Soc. [P.]. 
 ad. st. 
-d, e. $ $ ad. st. Cayenne. H. C. Kothery, Esq. 
+d, e. $ $ ad. sk. Cayenne. H. C. Kothery, Esq. 
 
 [P.j. 
 2c2 
@@ -28569,7 +28569,7 @@ Hab. Lower Amazonia (near Para).
 The white tail and excessive development of the wing-coverts at 
 once distinguish this fine species. 
 
-a. S ad. st. Brazil. 
+a. S ad. sk. Brazil. 
 E. Wilson, Esq. [P.]. 
 I. 
 c? ad. sk. Para, Brazil (Natterer). Sclater Coll. 
@@ -28701,7 +28701,7 @@ abdomen greenish white, with numerous blackish stripes.
 
 Hab. Venezuela, Colombia, Ecuador, Peru, and Bolivia, 
 
-a, b. $ ad. st. Bogota. Purchased. 
+a, b. $ ad. sk. Bogota. Purchased. 
 c.$ ad. sk. Bogota. Sclater Coll. 
 d>e. Ad. sk. Bogota. Salvin-Godman Coll. 
 f. S ad. sk. Bogota. Purchased. 
@@ -28807,7 +28807,7 @@ but head not so dark, and without the violet tufts on the flanks.
 Hob. 
 S.E. Brazil. 
 
-ct}b. <$ J ad. st. Brazil, 
+ct}b. <$ J ad. sk. Brazil, 
 Purchased. 
 
 c. $ ad. sk. Novo Fribourgo, Bio de Janeiro Salvin-Godman Coll. 
@@ -28865,7 +28865,7 @@ The larger size, the white colour below, and the larger bluish
 
 violet tufts distinguish this fine species. 
 
-a,b. S ? ad. st. Venezuela (?). Purchased. 
+a,b. S ? ad. sk. Venezuela (?). Purchased. 
 
 c. c? ad. sk. Rio Tocantins (Wallace). Sclater Coll. 
 d. S ad.sk. Xeberos, Eastern Peru (Bartlett). Salvin-Godman Cull. 
@@ -28941,7 +28941,7 @@ belly; under wing-coverts white ; bill and feet black: whole length
 3 inches, wing 1*9, tail 1. Female similar. 
 Hal. S.E. Brazil. 
 
-a. (S ad. st. Brazil. J. Gould, Esq. 
+a. (S ad. sk. Brazil. J. Gould, Esq. 
 b. Ad. sk. Novo Eribourgo,Brazil(Youds). Salvin-Godman Coll. 
 e. Ad. sk. Brazil. Sclater Coll. 
 d. Ad. sk. Brazil. Salvin-Godman Coll. 
@@ -29019,7 +29019,7 @@ Hob.
 Gniana, Cayenne, and Lower Amazonia. 
 
 a-c. S ad.; South America. Purchased. 
-d. 2 ad. st. 
+d. 2 ad. sk. 
 e,f. <S $ ad. sk.
 g. <$ jr. sk.
 h. S ad. sk. 
@@ -29071,7 +29071,7 @@ but -uniform black, without the crimson neck-collar.
 Hab. Guiana, Amazonia, Ecuador, Colombia, and Central America 
 to Costa Eica. 
 
-a. <$ ad. st. Demerara. 
+a. <$ ad. sk. Demerara. 
 Purchased. 
 b, c. $ 
 2 ad. sk, Bartica Grove, Brit. Guiana Salvin-Godman Coll. 
@@ -29288,10 +29288,10 @@ is much elongated, but does not attain to the dimensions of <?.
 penduliger of Western Ecuador. In Bolivian specimens tho throat-
 wattle is short, as in the typical Amazonian bird. 
 
-<z, b. <$ $ ad. st. 
+<z, b. <$ $ ad. sk. 
 S. America. Purchased. 
 
-c. $ ad. st. Brazil (?). 
+c. $ ad. sk. Brazil (?). 
 Purchased. 
 d. $ 
 &<*• sk- Colombia. Sclater Coll. 
@@ -29335,7 +29335,7 @@ Buckley's male specimen from Pallatanga measures 13 inches.
 Besides this the under wing-coverts are pure white, being either 
 black or slightly fredded with white in O. ornatus. 
 
-a. $ ad. st. Pallatanga, Ecuador. L. Eraser [O.]. 
+a. $ ad. sk. Pallatanga, Ecuador. L. Eraser [O.]. 
 b, c. S J ad. sk. Pallatanga, Ecuador (Fraser). SclaterColl. (Types 
 of the species.) 
 d} e. S ad. sk. Pallatanga, Ecuador (Buckley). Salvin-Godman Coll. 
@@ -29422,7 +29422,7 @@ denuded; bill and feet black: whole length 14 inches, wing
 denuded. 
 Hah. Cayenne, Surinam, and Guiana. 
 
-a, 5. $ ad. st. Cayenne. Purchased. 
+a, 5. $ ad. sk. Cayenne. Purchased. 
 
 c. Ad. sk. French Guiana (Bothery). Salvin-Godman Coll. 
 d. Ad. sk. Cayenne. Sclater Coll. 
@@ -29494,7 +29494,7 @@ less denuded, and without the silvery-grey patch on the wings.
 Hab. Cayenne, Surinam, Amazonia, and Ecuador. 
 
 a. $ ad. st.
-b. $ ad. st. 
+b. $ ad. sk. 
 Cayenne. 
 South America. 
 Purchased. 
@@ -29586,7 +29586,7 @@ with green; crissum yellowish.
 
 Hab. Cayenne, Surinam, and Guiana. 
 
-a. <J ad. st. Cayenne. 
+a. <J ad. sk. Cayenne. 
 H. O. Rothery, Esq. 
 b. S 
 ad. st. Cayenne. Purchased. 
@@ -29663,11 +29663,11 @@ striations; crissum yellowish.
 
 Hob. S.E. Brazil. 
 
-a. $ ad. st. S. America. 
+a. $ ad. sk. S. America. 
 Purchased. 
 
-b. tf ad. st. S. America. Hardwicke Bequest. 
-c. 2 ad. st. S. America. Lt. Maw, R.N. [P.X 
+b. tf ad. sk. S. America. Hardwicke Bequest. 
+c. 2 ad. sk. S. America. Lt. Maw, R.N. [P.X 
 d. e. tf ad.; f-h. Bahia, Brazil (Wucherer). Salvin-Godman Coll. 
 2 ad. sk. 
 i. <$ jr. sk. Bahia, Brazil. Salvin-Godman Coll. 
@@ -29714,7 +29714,7 @@ greyish : beneath pale yellowish, with green striations on the breast
 and belly ; throat greyish, with finer striations. 
 
 Hal. Guiana, Venezuela, and Trinidad. 
-a, b. $ $ ad. st. S. America. Purchased, 
+a, b. $ $ ad. sk. S. America. Purchased, 
 c, d. S ? a<l* J Rorairaa, Brit. Guiana (White- Salvin-Godrnan Coll. 
 
 «>/• dF-sk. ly).
@@ -29748,7 +29748,7 @@ Hal. Costa Rica and Veragua.
 
 lia ed
 
-a. e ad. st. Costa Rica. ^ c. « -n „ 
+a. e ad. sk. Costa Rica. ^ c. « -n „ 
 6. c? ad.; c-d. Tucurriqui, Costa Rica (Aree). Salvm-Godman Coll. 
 e. ^ ad!; / . 6 Costa Rica {Aree). Sclater Coll. 
 0. 3$ ir." sk. Costa Rica. ET?1*??*; 
@@ -29873,7 +29873,7 @@ Salvin-Godraan Coll.
 Jardine Coll. 
 d, e. S ? ad. sk. Bolivia. Sclater Coll. 
 f, g. $ ad.
-h. J ad. st. 
+h. J ad. sk. 
 Bolivia. 
 Bolivia. 
 T. Bridges [C.J. 
@@ -29909,7 +29909,7 @@ as in male.
 
 Bab. Argentine Republic down to Eio Negro, Patagonia. 
 
-a, (S ad. st. Mendoza. Purchased. 
+a, (S ad. sk. Mendoza. Purchased. 
 b, c. c? ad.; d. Cosquin, Cordova (White). Sabin-Godman ColL 
 
 
@@ -30310,7 +30310,7 @@ large pinky-brown spots.
 
 Hab. "From Nepal, through Assam and Khasia Hills, to Pegu. 
 
-a, b. c? $ ad. st. Nepal. 
+a, b. c? $ ad. sk. Nepal. 
 B. H. Hodgson, Esq. 
 
 c-f. Ad. sk. Nepal. B. H. Hodgson, Esq. 
@@ -30471,7 +30471,7 @@ m. $ ad. sk.
 n. 3 ad. sk.
 °j P-6 $ ad. sk.
 q. 3 ad. sk.
-r, s. 3 $ ad. st. 
+r, s. 3 $ ad. sk. 
 Malacca (Dr. Cantor). 
 Malacca {Dr. Cantor). 
 MalaccaSumatra 
@@ -32876,7 +32876,7 @@ Hab. Sumatra and Malacca.
 The orange occiput and purple belly at once distinguish this 
 splendid species. 
 
-a. S ad. st. Malacca {Cantor). India Museum. 
+a. S ad. sk. Malacca {Cantor). India Museum. 
 b. J ad. sk. Malacca {Cantor). India Museum. 
 c. d. $ ad.; e~h. Malacca. Hume Coll. 
 2 ad.; i. Jr. sk. 

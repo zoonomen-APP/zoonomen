@@ -7512,7 +7512,7 @@ Salvin-Godman Coll.
 o. Jr. st. 
 p. S jr. 8k. 
 q. Jr. sk. 
-r, 5. <S 2 ad. st. 
+r, 5. <S 2 ad. sk. 
 £, u. Imm. st. 
 
 ^ w. [ 6 2 ] ad. 
@@ -8219,7 +8219,7 @@ Gallinula minuta {nee Ball), Reiser, Vbg. Mus. Sarajevo, p. 117
 Phalaridium bailloni, Heine # Reichen. Nomeyicl Mus. Hein. p. 319 
 (1890). 
 
-A.dult male. General colour above dark ochreous brown, with 
+Adult male. General colour above dark ochreous brown, with 
 black centres to nearly all the feathers, which are marked with 
 white spots freckled with black; lower back black, freckled with 
 white, but only slightly washed with ochreous brown; upper tail-
@@ -9483,7 +9483,7 @@ reddish brown " {Sir A. Smitli). Total length 5-7 inches, culmen
 
 Bah. South Africa, from the Knysna district to Natal. 
 
-a. 2 ad. st. Cape Colony. M. J. Verreaux [C."|. 
+a. 2 ad. sk. Cape Colony. M. J. Verreaux [C."|. 
 b. <$ ad. sk. Kin^williamstown. Major Trevelyan [P.]. 
 c. d. $ ad.; e. g Natal. Sharpe Coll. 
 ad. sk. 
@@ -9564,7 +9564,7 @@ of breast dusky white ; remainder of under surface sooty black.
 Hab. South Africa, from the Cape Colony to Natal and the 
 Transvaal, Damara-land, and Benguela. 
 
-a. $ ad. st. South Africa. Purchased. 
+a. $ ad. sk. South Africa. Purchased. 
 b. Ad.sk. South Africa. Old Coll. (Type of 
 c,d. $ $ ad. sk.
 e. S ad. sk.
@@ -9744,7 +9744,7 @@ Om. Bras. p. 317 (Paranahiba River), p. 459 (BaMa)j Gray,
 Rand-l. B. iii. p. 63, no. 10465 (1871) j Scl. $r Salv. Nomencl Av. 
 Neotr. p. 140 (1873). 
 
-Aclult male. General colour above brown, the upper surface 
+Adult male. General colour above brown, the upper surface 
 thickly streaked with ovate spots of white, each spot bordered with 
 a line of black; the white spots not so distinct and smaller on the 
 lower back, rump, and upper tail-coverts; wing-coverts tawny 
@@ -13334,7 +13334,7 @@ unable to consider G. pyrrhorhoa to be specifically distinct.
 JIab. The greater part of Europe, Africa, and Asia. 
 
 
-a, b. S $ ad. st. 
+a, b. S $ ad. sk. 
 c Imm. sk. 
 
 d, e. Ad. et imm. 
@@ -13343,7 +13343,7 @@ sk.
 
 h. $ imm. sk. 
 i. Ad. sk. 
-V- c? S ad. st. 
+V- c? S ad. sk. 
 
 m, ?z. Pull, st, 
 

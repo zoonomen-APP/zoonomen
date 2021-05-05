@@ -3948,7 +3948,7 @@ knob.
 Hal. North-east Africa, westwards as far as the Central part. 
 
 °" 1 3 H a(^ s*« Central Africa. Capt. Clapperton [P.], 
-b. [2 ?] ad. st. Africa. Zool. Soc. 
+b. [2 ?] ad. sk. Africa. Zool. Soc. 
 c. Skeleton. 
 
 d. Skeleton (head figured, P. Z. S. I860, p. 30, f. 2). 
@@ -4656,8 +4656,8 @@ I have not been able to find any difference between, the Indian
 and the African specimens. 
 Hob. India, Ceylon, and Burmah : Africawith Madagascar. 
 
-a. 2 ad. st. 
-b. (S ad. st. 
+a. 2 ad. sk. 
+b. (S ad. sk. 
 c. S ad. sk. 
 d. $ ad. sk. 
 et imm. sk. 
@@ -4725,7 +4725,7 @@ h, $ juv. sk.
 I $ ad. sk. 
 
 m. 2 ad. sk. 
-n, 2 ad. st. 
+n, 2 ad. sk. 
 
 o. Juv. sk. 
 p. 
@@ -5359,7 +5359,7 @@ east, and from Bamara-land to the Senegal on the west.
 
 a, b. (S ? ad. sk. West Africa. 
 
-c. <J ad. st. West Africa. Purchased. 
+c. <J ad. sk. West Africa. Purchased. 
 d. <$ ad. sk. Lagos. 
 Sir A. Moloney [P.]. 
 e. <$ imm. sk. Maw. A. G. Baxter, Esq. 
@@ -5464,7 +5464,7 @@ a. Imm. st.
 b. $ ad. sk. Australia. 
 Salvin-Godman Coll. 
 c. d. 
-cf 2 ad. st. Port Essington. The Earl of Derby 
+cf 2 ad. sk. Port Essington. The Earl of Derby 
 [P.]. 
 e. [tf] ad.sk. Port Essiugton. J. B. Jukes, Esq. 
 /. <$ ad. sk. N.W. Australia. Capt. Bowyer Bower 
@@ -5917,7 +5917,7 @@ Wales (Ramsay).
 a, b. S 2 ad. sk. Australia. Salvin-Godman Coll. 
 
 c. <$ ad. sk. Interior of Australia. Aug. Sir J. Mitchell [C.]. 
-d. <j ad. st. Clarence River, N. S. W. Sydney Museum [P.]. 
+d. <j ad. sk. Clarence River, N. S. W. Sydney Museum [P.]. 
 12. JEX. „, 
 Type. 
 Aix, Boie, Isis, 1828, p. 329 ; M. galericulata. 
@@ -6128,7 +6128,7 @@ Hob. Nearctic region from the 50th parallel to the Gulf of Mexico ;
 resident in Cuba (Gundlach); accidental in Jamaica and Bermudas. 
 
 a. 
-<S ad. st. North America. E. Doubleday, Esq. 
+<S ad. sk. North America. E. Doubleday, Esq. 
 [P.]. 
 1. Pull. sk. North America. Gould Coll. 
 c, d, e. $ ad. British Columbia. J. K. Lord, Esq. [P.], 
@@ -6156,7 +6156,7 @@ n. $ ad. sk. New Haven, Connecticut, Oct. Salvin-Godman Coll.
 {A. J. D.). 
 0. <$ ad. sk. Elizabeth, New Jersey, April Salvin-Godman Coll. 
 (Merriam). 
-P-<$ ad. st. Princeton, Illinois, Oct. E. S. Cameron7 Esq. 
+P-<$ ad. sk. Princeton, Illinois, Oct. E. S. Cameron7 Esq. 
 
 q> $ juv. sk. Pine, Indiana, Sept. (E. W. Salvin-Godman Coll. 
 Nelson). 
@@ -6326,7 +6326,7 @@ only during the breeding-season.
 a, h. <$ ad. et In captivity. J. R. Reeves, Esq. 
 juv. sk. [P,]. 
 
-c. <$ ad. st. China. J. R. Reeves, Esq. 
+c. <$ ad. sk. China. J. R. Reeves, Esq. 
 d-g. <$ % ad. Shanghai^ China, March, Nov. Seebohm Coll. 
 
 h.
@@ -7464,7 +7464,7 @@ a.
 Ad. sk. 
 b. 2 ad. sk. 
 c. 
-$ ad. st. 
+$ ad. sk. 
 d. 
 5 ad. sk. 
 e. 
@@ -9244,7 +9244,7 @@ Central and Southern Europe; casually on the Atlantic coast of
 North America. 
 
 a. Ad. sk. - Great Britain. Purchased. 
-b, c. <$ J ad. st. Cumberland, Purchased. 
+b, c. <$ J ad. sk. Cumberland, Purchased. 
 d. Ad. sk. Devonshire. Col. Montagu Coll. 
 e. Pull. st. Purchased. 
 f-h. $ $ ad. sk. Holland. H. J. Pike, Esq. [P.], 
@@ -10139,7 +10139,7 @@ tarsus 2-2.
 Hah. Patagonia, Straits of Magellan to Chiloe, Tierra del Fuego^ 
 and Falkland Islands. 
 
-a. <$ ad. st. Antarctic Exp. 
+a. <$ ad. sk. Antarctic Exp. 
 Oapt. King [C."|. 
 b. Imm. st. Straits of Magellan. Zool. Soc. 
 c. d. £ P ad. sk. Straits of Magellan. Sir R Murchison 
@@ -10164,9 +10164,9 @@ Capt. Fitzroy j_P.].
 s. S ? ad. sk. Falkland Is. (Leconte). Salvin-Godman Coll. 
 t. 
 gad.sk. Falkland Is. Challenger Exp. [C.]. 
-u. J ad. st. E. Falkland. 
+u. J ad. sk. E. Falkland. 
 Antarctic Exp. [CX 
-v. S nearly ad. st. St. Salvador Bay, Falklands. Antarctic Exp. [_C.j . 
+v. S nearly ad. sk. St. Salvador Bay, Falklands. Antarctic Exp. [_C.j . 
 to. <S ad. sk. Berkeley Sound, Falkland, McCormick Bequest. 
 Aug. 
 &. Skeleton. 
@@ -10287,7 +10287,7 @@ Eah. Falkland Islands, Tierra del Fnego, Magellan Straits, and
 
 Patagonia. 
 a. § ad. sk. 
-b. $ ad. st. 
+b. $ ad. sk. 
 c. c? ad. sk. 
 d-h. d $ ad. sk. 
 No locality. 
@@ -10299,7 +10299,7 @@ Fitzrov[P.n .
 H. Durnibrd,~Esq. [P.], 
 Antarctic Expedition. 
 et st. 
-i $ ad. st. 
+i $ ad. sk. 
 h, I. $ ad. et $ 
 Smith). 
 Falkland Is. 
@@ -10313,12 +10313,12 @@ ml $ ad. sk. East Falkland Is., July. Voyage of H.M.S.
 n. 6 ad. sk. St. Salvador Bay, Falkland 
 Is., June. 
 MeCormick Bequest. 
-o. $ ad. st. Berkeley Sound, Falkland 
+o. $ ad. sk. Berkeley Sound, Falkland 
 Is. 
 Antaietie Expedition. 
 p-s. S J ad-s&' 
 t. <$ variety.* 
-u. $ ad. st. 
+u. $ ad. sk. 
 Berkeley Sound, April, 
 May, Dec. 
 Falkland Islands. 
@@ -10434,7 +10434,7 @@ Bob. Central and Southern Chili, and also Magellan Straits;
 Southern Argentine Eepublic; breeds on the Lakes of the Chilian 
 
 Cordilleras. 
-•a. <5 ad. st. Chili. 
+•a. <5 ad. sk. Chili. 
 b. £ ad. sk. Chili (Leybold). Salvin-Godman Coll. 
 •c, d. [<? ] ?
 imm. sk. 
@@ -10512,7 +10512,7 @@ e. Ad. sk. Falkland Islands. Antarctic Expect.
 (Type of the species.) 
 f. Imm. sk. Falkland Islands. Antarctic Exped. 
 g, 7i. cf ad. sk. St. Salvador Bay, Falkland Antarctic Exped. 
-et ad. st. Is. 
+et ad. sk. Is. 
 
 2. Skeleton. Falklands. 
 Zool. Soc. 
@@ -10807,7 +10807,7 @@ brown, each feather broadly barred and tipped with white; abdomen,
 vent, and under tail-coverts white. 
 
 Hah. Australia. 
-a. $ ad. st. Australia. 
+a. $ ad. sk. Australia. 
 h. <$ ad. sk. Australia. H. J. Elwes, Esq. [P.]. 
 c, d. S $ &cL. sk. Australia. Salvin-Godman Coll. 
 e. Jf-i. 
@@ -11623,7 +11623,7 @@ r. § ad. sk. San Diego, California, Dec. Salvin-Godman Coll.
 s. § juv. sk. San Francisco, California (D. Salvin-Godman Coll. 
 JS. Bryant), 
 
-t. cf ad. st. Mexico. Purchased. 
+t. cf ad. sk. Mexico. Purchased. 
 u» Ad. sk. Valley of Mexico. Salvin-Godman Coll. 
 v. Ad. sk. Near City of Mexico. Salvin-Godman Coll. 
 w, a. Ad. sk. El Salto, San Luis Potosi, Salvin-Godman Coll. 
@@ -11859,7 +11859,7 @@ juv. sk.
 d\ er. Ad. sk. Lawrence R.,Australia (Irving). Salvin-Godman Coll. 
 /', g\ $ ad. sk. Port Essington. J. B. Jukes, Esq. 
 
-et ad. st. [P.]. 
+et ad. sk. [P.]. 
 h\ Ad. sk. New Caledonia. Tweeddale Coll. 
 i' k'. Ad. sk. Viti Levu, Fiji Is., Sept. (J. Voyage of H.M.S. 
 
@@ -12719,7 +12719,7 @@ Hah. Mindanao, Celebes, Moluccas, and New Guinea.
 
 a. Ad. sk. [Sumatra.] 
 Purchased. 
-b. $ ad. st. Celebes. 
+b. $ ad. sk. Celebes. 
 Wallace Coll. ) 
 c. $ 
 ad. sk. Bouru. Wallace Coll. f 
@@ -12994,7 +12994,7 @@ Hob. Africa and Palestine.
 
 a. Pull. st. [Bred in captivity.] A. D. Bartlett, Esq. 
 b. Ad. sk. Ochtertire, Stirlingshire. Sir D. Dundas [P.]. 
-e. $ ad. st. River Tweed, April 4. 
+e. $ ad. sk. River Tweed, April 4. 
 d. Ad. sk. Kiver Tweed. Purchased. 
 e. Ad. sk. Egypt. W. B. T. Turnbull, 
 Esq. [P.]. 
@@ -13028,7 +13028,7 @@ b'. Skeleton.
 c', d'. Sterna and scapular girdles. 
 Hybrid between " Penguin Duck " and C , aogyptiacus. 
 
-a. <$ ad. st. Died in captivity. Zoological Society. 
+a. <$ ad. sk. Died in captivity. Zoological Society. 
 2. Chenalopex jubatxts. 
 Anser jubatus, Spiv, Av. Bras. ii. p. 84, t. 108 (1825) (nee Anas 
 jubata, Lath. 1801) ; Bunn. Syst. Uebers. iii. p. 433 (1856). 
@@ -13777,7 +13777,7 @@ Turkestan, and Mongolia to China and Japan; winters in India,
 Burma, and Formosa. 
 
 a. Pull. st. No locality. Purchased. 
-b. $ ad. st. Athens. C. L. W. Merlin, Esq, 
+b. $ ad. sk. Athens. C. L. W. Merlin, Esq, 
 c. [ ? ad.] sk.
 d. <$ ad. sk.
 e. d ad. st.
@@ -14117,7 +14117,7 @@ J. H. Gkxmey, Esq.
 HYBKIDS. 
 
 Tadorna eornuta tf X Casarca cana $. 
-g> h. <$ $ ad. st. Zoological Society. 
+g> h. <$ $ ad. sk. Zoological Society. 
 
 Casarca cana ^XC. rutila $. 
 
@@ -14233,7 +14233,7 @@ parts, posterior half of the wings (except at the tip), and a band on
 .each side of the back and rump white. 
 Hab. New Zealand (it has straggled to Brisbane ?). 
 
-a, b. cT 2 ad. st. New Zealand. New Zealand Coll. 
+a, b. cT 2 ad. sk. New Zealand. New Zealand Coll. 
 c, d. S 2 a<i-st-
 £,f. 6 2 ad. st.
 f,ft' S 2 *&• sk*
@@ -14319,7 +14319,7 @@ Hah. Southern and Western Australia, and Tasmania.
 
 a~-d. <$ $ ad. sk. Australia (Cocker ellfyThorjpe). Salvin-Godman Coll. 
 
-e,f. <$ 2 ad. st. N. S. Wales. Australian Museum 
+e,f. <$ 2 ad. sk. N. S. Wales. Australian Museum 
 g. $ ad. st.
 h. S ad. sk. 
 S. Australia. 
@@ -14328,7 +14328,7 @@ Tasmania.
 Sir G. Grey 
 Victoria M[P.], 
 useum 
-i $ ad. st. Tasmania.
+i $ ad. sk. Tasmania.
 [P.I 
 Gould. Coll. 
 h. Skeleton. S. Australia. 
@@ -14837,9 +14837,9 @@ the winter found from Arabia, through Persia and North India,
 to China and Japan ; in America, extending southwards to Mexico, 
 the "West Indies, and Central America as far as Panama. 
 
-a. $ ad. st. Europe. Purchased. 
+a. $ ad. sk. Europe. Purchased. 
 b. Pull. st. Orkneys, June. Purchased. 
-c. J ad. st. Eirth of Forth, Nov. (22. G. Tweeddale Coll. 
+c. J ad. sk. Eirth of Forth, Nov. (22. G. Tweeddale Coll. 
 W. JR.). 
 d. Juv. sk. England. Tweeddale Coll. 
 e. Pull. sk. England ? Gould Coll. 
@@ -14847,7 +14847,7 @@ ffg,h. $ ad. et Great Britain. Purchased.
 pull. st. 
 i-o. J ad. et $ Merton Hall, Norfolk, Aug., Lord Walsinghani 
 5 juv. sk. Oct. 
-jp. $ ad. st. Cambridgeshire. Purchased. 
+jp. $ ad. sk. Cambridgeshire. Purchased. 
 q, r, s. $ ad. et Avington, Feb., May. E. Bowdler Sharpe, 
 pull. sk. & st. Esq. [P/j. 
 t, u. $ 2 ad- sk. Devonshire. Montagu Coll. 
@@ -15093,11 +15093,11 @@ P-q*. Skulls.
 
 
 YAEIETIES. 
-r4. $ ad. st. No locality. Kev. W. Parish [P.]s 
+r4. $ ad. sk. No locality. Kev. W. Parish [P.]s 
 (malformed). 
 s\ Pull. sk. No locality. J. H. Gurney, Esq. 
 (domestic). 
-t\ d ad. st. Great Britain. Purchased. 
+t\ d ad. sk. Great Britain. Purchased. 
 (dark). 
 u\ Ad. sk. Lincolnshire Fens. J. Dash wood, Esq. 
 (melanistic). 
@@ -15117,12 +15117,12 @@ Amoy, China (B. Swinhoe). O.Darwin, Esq. [P.].
 
 PENGTJTNT DUCK. 
 
-a5. <$ ad. st. Borneo (Rajah Brooke). C.Darwin, Esq. [P.]. 
+a5. <$ ad. sk. Borneo (Rajah Brooke). C.Darwin, Esq. [P.]. 
 
-b5. J ad. st. Borneo {Rajah Brooke). C. Darwin, Esq. [P.], 
+b5. J ad. sk. Borneo {Rajah Brooke). C. Darwin, Esq. [P.], 
 
 (huff). 
-c5. $ ad. st. Bali or Lombock (Raj. Brooke). C. Darwin, Esq. [P.l 
+c5. $ ad. sk. Bali or Lombock (Raj. Brooke). C. Darwin, Esq. [P.l 
 d\ Pull. Gould Coll. 
 e5. Pull. Zool. Soc. 
 f'°. Skeleton (incomplete) of the Eev. W. Parish [P.], 
@@ -16490,7 +16490,7 @@ Straits, and also the Falklands.
 a. 
 Ad. sk. P5 A Tn PVIO^ Eyton Coll. 
 Salinas, Peru, 14,000 ft., July. H. Whitely, Esq. 
-b. S ad. st. 
+b. S ad. sk. 
 [o.]. 
 
 Salinas, Peru, 14,000 ft., July 
@@ -16730,7 +16730,7 @@ Kurnal.
 Hume Coll. 
 Hume Coll. 
 i. J ad. sk. 
-k-o. $ $ ad. st. et 
+k-o. $ $ ad. sk. et 
 Tapengk, Feb. 
 China. 
 Dr. J. Anderson [C.]. 
@@ -17007,7 +17007,7 @@ continents, extending south during winter as far as Abyssinia and
 Shoa, but not as far as the Cape (?), Palestine, India, Arakan, 
 China, and Japan; in America as far south as Mexico and Jamaica. 
 
-a, b, c. (S 2 ad. st. Great Britain. 
+a, b, c. (S 2 ad. sk. Great Britain. 
 
 d. <5 ad. sk. I. of Three, Nov. 
 e. $ ad. sk. 
@@ -17037,7 +17037,7 @@ n\ S ad. sk.
 o'-sr. tf ad. et <J 
 
 juv. sk. 
-t'. S ad. st. 
+t'. S ad. sk. 
 u'. $ ad. sk. 
 v\ wr. (S imm. sk. 
 x% yr, z'. d $ ad. 
@@ -17169,7 +17169,7 @@ to1'1. $ ad. sk. Dipur Bheel, Assam, Feb. Tweeddale Coll.
 
 {A. W. Chennell). 
 x". S ad. sk. Dinapore, Jan. Hume Coll. 
-*/', as". <5 ad. st. et India Museum [P.]. 
+*/', as". <5 ad. sk. et India Museum [P.]. 
 
 Deccan (Sykes). 
 $ ad. sk. 
@@ -17185,7 +17185,7 @@ hoe).
 
 (f. ? <$ juv. st. Behring Straits. Capt. Kellett & Lieut, 
 Wood [P.]. 
-7^3. c? ad. st. N. America. J. E. Grav, Esq. [P." 
+7^3. c? ad. sk. N. America. J. E. Grav, Esq. [P." 
 
 
 «3. tf ad. sk. Vancouver Island. J. K Lord, Esq. [P.' 
@@ -17570,11 +17570,11 @@ a. Imm. sk. St. Andrew's, Fifeshire (JR. Tweeddale Coll.
 G. W. JR.). 
 7i. 5 juv. sk. K. Carron, Stirlingshire, Jan. Tweeddale Coll. 
 (J. A. JEIarvie-JBrown). 
-i. <? ad. st. Llandilo, Wales. H. Peel, Esq.. [P.]. 
+i. <? ad. sk. Llandilo, Wales. H. Peel, Esq.. [P.]. 
 k,l 3 2 ad. sk. 
 
 m. $ imm.sk. 
-n. J ad. st. 
+n. J ad. sk. 
 o, 3 imm. sk. 
 p. 
 Juv. sk. 
@@ -17968,14 +17968,14 @@ conspicuous superciliary stripe of fulvous above it" (Ridgway).
 Hah. North America, from the Arctic Ocean to Guatemala, and 
 occasionally the West Indies. 
 
-a. <3 ad. st. No locality. E. Wilson, Esq. [P.]. 
-b. J ad. st. N. America. Audubon Coll. 
+a. <3 ad. sk. No locality. E. Wilson, Esq. [P.]. 
+b. J ad. sk. N. America. Audubon Coll. 
 c. 3 ad. sk. N. America. H. J. Elwes, Esq. [P.]. 
 236 
 A^ATID^. 
 
 d. <f juv. sk. N.W. America. Purchased. 
-e. S ad. st. Missouri Brakes, Montana, E. S. Cameron, Esq. 
+e. S ad. sk. Missouri Brakes, Montana, E. S. Cameron, Esq. 
 April. [P.]. 
 f} g. h. $ ad. et tf 49th Parallel. N.America Boundary 
 juv. sk. Coram. [P.]. 
@@ -18830,7 +18830,7 @@ far south as Shoa, in Arabia, Persia, India, Ceylon, Burmah, China,
 and Japan; accidentally in Greenland, and along the Atlantic coast 
 of North America. 
 
-«, b. S 2 ad. st. Gt. Britain. Purchased. 
+«, b. S 2 ad. sk. Gt. Britain. Purchased. 
 
 c. c? ad. sk. Gt. Britain. Yarrell Coll. 
 d-g. 
@@ -18849,11 +18849,11 @@ I $ acl. sk. R. Eden, St. Andrew's, Sept. Tweeddale Coll.
 (£. G. W. &.). 
 
 
-m. 2 ad. st. Carmarthen. Montagu Coll. 
+m. 2 ad. sk. Carmarthen. Montagu Coll. 
 n. 
 Ad. st. [isabel-Pembrokeshire. Earl of Cawdor [P.]. 
 line var.j 
-o,p. (5 2 ad. st. Merton, Norfolk, May. Lord Wal&ingham 
+o,p. (5 2 ad. sk. Merton, Norfolk, May. Lord Wal&ingham 
 [P.]. 
 q, r. <$ 2 ad* stTring, Herts, May. Hon. Walter Roth
 
@@ -19087,7 +19087,7 @@ b4*. 2 ad. sk.
 e4. cj ad. sk. 
 
 ^-/i4. d2ad.sk. 
-et <5 ad. st. 
+et <5 ad. sk. 
 z\ hS J4. 2 ad. et 
 
 c? juv. sk. 
@@ -19374,7 +19374,7 @@ Female. Apparently indistinguishable from that of N. crecca.
 Hah. Northern America, from Alaska and Greenland, to Mexico, 
 Honduras, and the West Indies ; accidentally in Europe. 
 
-a, b. <$ $ ad. st. N. America. Audubon Coll. 
+a, b. <$ $ ad. sk. N. America. Audubon Coll. 
 c. S hum. sk.
 d. 2 ad.sk.
 e,f. <5 $ ad. st.
@@ -19546,7 +19546,7 @@ Hah. Australia, New Zealand, and New Caledonia (?), and as a
 
 straggler in Celebes and Java. 
 
-a. S ad. st. Australia. 
+a. S ad. sk. Australia. 
 Hardwicke Bequest. 
 b. S ad. sk. Australia. Purchased. 
 e, d. <5 ad. sk. Australia. Salyin-Godman Coll. 
@@ -19574,7 +19574,7 @@ q. Pull. sk. Australia.
 Purchased. 
 r. $ ad.sk. Flinders I., Bass' Straits, Jan. Voyage of H.M.S. 
 (F. M. Bayner). < Alert '[G]. 
-s,t. ? $ ad. st. Tasmania. R. Gunn, Esq. [P.]. 
+s,t. ? $ ad. sk. Tasmania. R. Gunn, Esq. [P.]. 
 u. $ 
 ad. sk. Recherche Bay, Tasmania, Gould CoH. 
 Dec. 
@@ -20639,7 +20639,7 @@ feet brown (or yellow ?).
 Hob. Paraguay, Uruguay, and Argentine; wrongly stated to 
 inhabit Chili, Brazil, and San Domingo (Schlegel). 
 
-a. <$ ad. st. S. America. 
+a. <$ ad. sk. S. America. 
 Old poll. 
 b. ($ ad. sk. Buenos Ay res (W. H. Hudson). Salvin-Grodman Coil. 
 c. 2 a^- st. Probably Bolivia (Bridges). Cuming Coll. 
@@ -21009,7 +21009,7 @@ a. $ juv. sk. Shetland, April. H. J. Elwes, Esq
 b. 
 $ juv. st. Aldeburgh, Suffolk; Sept. Theodore Fisher, 
 Esq. [P.]. 
-c. 2 ad. st. Cambridgeshire. Purchased. 
+c. 2 ad. sk. Cambridgeshire. Purchased. 
 d. S ad. sk. Kent. 
 Montagu Coll. 
 e. <$ ad. sk. Devonshire. Montagu Coll. 
@@ -21114,7 +21114,7 @@ A*". $ ad. sk.
 
 y". $ ad. sk. 
 
-»". d ad. st. 
+»". d ad. sk. 
 
 a3, 53. c? 2 ad. sk. 
 c3. <£ ad. sk. 
@@ -21285,7 +21285,7 @@ juv. sk.
 2s 
 
 . <J ad. sk 
-ZG3. c£ ad. st. 
+ZG3. c£ ad. sk. 
 
 
 ic3. c? ad. sk 
@@ -21662,7 +21662,7 @@ the sides of the head.
 Hah. South. America, from Southern Brazil on the East and 
 Southern Peru on the West to Magellan Straits and Falkland Islands. 
 
-a. $ ad. st. Tinta, Peru, June. H. Whitely, Esq.[C.l. 
+a. $ ad. sk. Tinta, Peru, June. H. Whitely, Esq.[C.l. 
 b. $ 
 ad. sir. Laguna de Tangasuca, Salvin-Godman Coll. 
 Peru (H. Whitely). 
@@ -22535,9 +22535,9 @@ Whitely).
 d. 
 2 ad. sk. Laguna de Tungasuca, Peru, Salvin-Godman Coll. 
 July (H. W.). 
-e. J ad. st. Laguna de Tungasuca, July. H. Whitely, Esq. [C.l 
+e. J ad. sk. Laguna de Tungasuca, July. H. Whitely, Esq. [C.l 
 f. 
-<$ ad. st. Laguna de Tangui, Peru. H. Whitely, Esq. [C.J. 
+<$ ad. sk. Laguna de Tangui, Peru. H. Whitely, Esq. [C.J. 
 g-t 
 A&. etirnm. Province of Tarapaca, Chili, H.Berkeley James, Esq. 
 sk. Jan-April. [P.~|. 
@@ -22761,7 +22761,7 @@ ones, like the axillaries, white. Size smaller than that of the male.
 Young in first plumage resemble the females, but are darker and 
 more suffused with rufous on the breast. 
 
-Adiflt males in ntovUhig phi mage closely resemble adult females, 
+Adult males in ntovUhig phi mage closely resemble adult females, 
 but are darker in colour, and may be distinguished by the brighter 
 alar speculum (tietbohn). 
 
@@ -22868,7 +22868,7 @@ i\ h\ 2 ad. sk. Labuan, Nov.
 /*, m4. ^ P imm. Menado, N. Celebes. 
 sk. 
 ^4, o4. c? ad. sk. et Ceram. 
-$ ad. st. 
+$ ad. sk. 
 ;?4. Skeleton. England. 
 
 <74. Sternum. England. 
@@ -23230,7 +23230,7 @@ f~l cT $ ad. et
 h\ 
 <$ juv. sk. 
 
-/. c£ ad. st. 
+/. c£ ad. sk. 
 
 in, n. 2 ad. et 
 pull. sk. 
@@ -23284,7 +23284,7 @@ u'. c5 ad. 8&
 
 i>', w'. Ad. sk. 
 
-,v'} Acl. sk. 
+,v'} Ad. sk. 
 
 y'. Ad. sk. 
 
@@ -23296,7 +23296,7 @@ b". <S juv. sk.
 
 c". <$ juv. sk. 
 
-<#''. J ad. st. 
+<#''. J ad. sk. 
 
 e". [2 ad.]sk. 
 
@@ -23418,7 +23418,7 @@ Salvin-Godman Coll.
 36. QtrERQUEDTJIA. 
 30 3 
 if. $ ad. sk. Lima, Peru (Nation), Salvin-Qodniau (loll. 
-h". ? ad. st. Jamaica, \V. Indieb. P. II. GOHSO, Esq. 
+h". ? ad. sk. Jamaica, \V. Indieb. P. II. GOHSO, Esq. 
 
 [0.1
 
@@ -23598,7 +23598,7 @@ imm. sk. Forrer).
 q. 
 (5 ad. sk. Interior of N*ew Granada Salvin-Godman Coll. 
 (Trubner). 
-r. c? ad. st. 
+r. c? ad. sk. 
 Chili. Lord Byron [P.]. 
 s, $ ad. sk. ChiH. Cuming Coll. 
 t-z. c? $ ad. et Sacaya, Tarapaca, Jan., Feb., H. Berkeley James, 
@@ -23977,12 +23977,12 @@ as Casamance on the West, and Somali-land on the East; and in Asia
 as far as Arabia, Persia, India, Ceylon, Formosa, Southern China,, 
 and Japan; in America as far as Colombia and the "West Indies. 
 
-«,5. d ? ad. st. Great Britain. Purchased. 
+«,5. d ? ad. sk. Great Britain. Purchased. 
 
-c. § ad. st. Great Britain. 
+c. § ad. sk. Great Britain. 
 d. 2 ju-v. sk. Loch Lomond, Scotland, Aug. The Duke of Montrose 
 [P.]. 
-e,f. 8 ? ad. st. Merton, Norfolk, May. Lord Walsingkam 
+e,f. 8 ? ad. sk. Merton, Norfolk, May. Lord Walsingkam 
 [P.]. 
 g-l. 
 6 ? ad. et Lincolnshire. Montagu Coll. 
@@ -23990,13 +23990,13 @@ juv. sk. et st.
 
 Theo. Fisher, Esq. 
 
-m. 6 ad. st. Essex. 
+m. 6 ad. sk. Essex. 
 [P.]. 
 
 n. Juv. sk. Aldeburgk, Suffolk, Aug. Theo. Fisher, Esq. 
 [P.]. 
 
-o. 3 ad. st. Somersetshire. Montagu Coll. 
+o. 3 ad. sk. Somersetshire. Montagu Coll. 
 Christchurch, Hants. Baron A. von Hiigel 
 p, q. 6 $ ad. sk. 
 
@@ -24680,7 +24680,7 @@ becomes yellowish.
 Hah. Southern America, from the Falklands and Patagonia to 
 Peru on the "West, and Paraguay on the East; possibly also Bolivia. 
 
-a. d ad. st. No locality. Lord Byron [P.]. 
+a. d ad. sk. No locality. Lord Byron [P.]. 
 h 9 iuv sk. Tarapaca, N. Chili, Feb. H. Berkeley James, 
 " Esq. [P.]. 
 c d e rf 9. ad.
@@ -25342,7 +25342,7 @@ Chili.
 Salvin-Godman Coll. 
 H. J.EIwes,Esq.T.> 
 E. Wilson, Esq. JP.j. 
-h. $ ad. st. Chili. Purchased. 
+h. $ ad. sk. Chili. Purchased. 
 i. k. d ? ad. sk. Santiago, Chili {Leybold). Salvin-Godman Coll. 
 t m. <$ 2 ad. sk. Eio Pilmaiquen, Chili, Feb. H. Berkeley James, 
 Esq- [P.]. 
@@ -25694,7 +25694,7 @@ and India in winter; accidental visitor in the North of Europe;
 only once in N.E. America. 
 
 a. S &d. st. 
-b. $ ad. st. 
+b. $ ad. sk. 
 e-f. 
 Pull. st. et 
 sk, 
@@ -25708,7 +25708,7 @@ n. $ 2 ad. sk.
 
 o. $ ad.sk. 
 p. (S ad. sk. 
-q. 2 ad. st. 
+q. 2 ad. sk. 
 r. <$ imm. st. 
 s,t,u. 
 £ ad., ^ 
@@ -26372,12 +26372,12 @@ throtigh Persia, India, and China to Japan.
 
 a. fS 
 ad. sk 
-b,c. g § ad. st. 
+b,c. g § ad. sk. 
 
 d. S ad. sk 
 e. <$ ad. sk. 
 /. 2 ad.sk. 
-g7 h. <$ ? ad. st. 
+g7 h. <$ ? ad. sk. 
 i, k, I. g ad. sk. 
 Qt($ Jimrn. st. 
 m9 n* $ ad. sk. 
@@ -26576,7 +26576,7 @@ HYBBIDS.
 
 Nyroca ferina X F. marila. 
 
-n''. S ad. st. Purchased at Mr. Double- F. Bond, Esq. [P.]. 
+n''. S ad. sk. Purchased at Mr. Double- F. Bond, Esq. [P.]. 
 day's sale, Aug. 23,1871. 
 (Type of Fuligula mariloides, Yarr. nee Vigors.) 
 
@@ -26679,7 +26679,7 @@ of head " (Ridgway).
 Hal. "Whole of North America, breeding from Maine and California 
 northward. 
 
-a, h. 3 $ ad. st. No locality. Mr. Hadcraft [0.]. 
+a, h. 3 $ ad. sk. No locality. Mr. Hadcraft [0.]. 
 
 c. S ad. sk. [England.] 
 Tweeddale Coll. 
@@ -26808,7 +26808,7 @@ Hah. North America, breeding from the North-western States,
 northward to Alaska; in winter southwards to Guatemala and 
 "W. Indies. 
 
-a, b. tf $ ad. st. 
+a, b. tf $ ad. sk. 
 N. America. Old Coll. 
 Fort Eupert, Vancouver's N. America Boundary 
 
@@ -27171,7 +27171,7 @@ a. S ad. st.
 b. <5 imm. st.
 c. <$ ad. st.
 d. S ad. st.
-e. 2 ad. st. 
+e. 2 ad. sk. 
 England. 
 No locality. 
 Europe. 
@@ -27222,7 +27222,7 @@ f'-k'. <$ ad. sk.
 V. Juv. sk. 
 ?n'. Juv. sk. 
 n. Juv. sk. 
-</. J ad. st. 
+</. J ad. sk. 
 p', q'. S ad. sk. 
 r'. S ad. sk. 
 /. 
@@ -27476,8 +27476,8 @@ Hah. Australia, Tasmania, New Zealand, Aucklands, New
 Caledonia, and Papuan Islands, westwards as far as Waigiou. 
 
 
-a. tS ad. st. No locality. 
-b. <J ad. st. Australia. Purchased. 
+a. tS ad. sk. No locality. 
+b. <J ad. sk. Australia. Purchased. 
 e. Juv. st. Australia. Lady Carrin^ton [P.]. 
 d. & ad. sk. Australia. Sir D. Cooper [P.J. 
 e. $ ad. sk. Australia. Gould Coll. 
@@ -27574,7 +27574,7 @@ to Shoa on the East.
 a,b. <S ? ad. sk. Rio Coroca, W. Africa, Jan. 
 (Anchieta). 
 Shelley Coll. 
-c. S ad. st. 
+c. S ad. sk. 
 d. 2 ad. sk. 
 e,/. d1 2 a<**s^g. 
 2 a(i- sk* 
@@ -28073,14 +28073,14 @@ g, h. (5 5 ad. sk.
 if k. $ 2 ad. sk. 
 
 1 
-2 ad. st. 
+2 ad. sk. 
 
-m. 5 ad. st. 
+m. 5 ad. sk. 
 n. 
 $ ad. sk. 
-o. (S ad. st. 
+o. (S ad. sk. 
 p. <5 ad. &k. 
-q, r. $ $ ad. st. 
+q, r. $ $ ad. sk. 
 S. 
 2 ad' S^« 
 2. d ad. sk. 
@@ -28356,12 +28356,12 @@ N. America.
 N. America (B. W. Hen-
 Lord Ampthil! [P.]. 
 Salvin-Godman Coll. 
-g. 5 ad. st. 
+g. 5 ad. sk. 
 shaw). 
 North Land Exp. Capt Sir G. Back 
 h. <$ ad. sk. Canada. o PIGovernment of 
 i, k,l. # 2 a<^skm. 
-$ ad. st. 
+$ ad. sk. 
 49th Parallel. 
 Rocky River, Ohio. 
 Canada [P.], 
@@ -28650,7 +28650,7 @@ Malay Archipelago (Philippines and Borneo), and in Polynesian
 Islands (Marianne Isl. and Pelew Islands). 
 
 
-a. J ad. st. No locality. Old Coll. 
+a. J ad. sk. No locality. Old Coll. 
 b, c. Pull. sir. No locality. Gould Coll. 
 df e. <$ ad. sk. Great Britain {Leadenhall Purchased. 
 Market). 
@@ -29070,7 +29070,7 @@ juv. st.
 c, d. $ ad. sk.
 e. tf ad. sk.
 fi96 
-? ad. st. 
+? ad. sk. 
 New Zealand. 
 New Zealand. 
 Bay of Islands. 
@@ -29217,9 +29217,9 @@ West Indies; breeding chiefly in the high north. Its occasional
 occurrence in Europe is doubtful. 
 
 a. S inim. sk. 
-b. <$ ad. st. 
+b. <$ ad. sk. 
 c. c? ad. sk. 
-d. 3 ad. st. 
+d. 3 ad. sk. 
 e,f,ff. d ad. et 
 juv. sk. 
 h. $ ad. sk. 
@@ -29857,11 +29857,11 @@ ward ; in winter south to Mexico and Cuba.
 
 a. $ ad. sk. 
 b. $ ad. sk 
-a. § ad. st. 
+a. § ad. sk. 
 d. $ ad. sk. 
 e-h $ 2 ad. et 
 <$ juv. sk. 
-i, 7c. d ? ad. st. 
+i, 7c. d ? ad. sk. 
 
 I. $ ad. sk. 
 m, n. $ ad. et <$ 
@@ -30036,7 +30036,7 @@ A*', d1 ad. sk.
 
 y'. (S ad. sk. 
 
-sV'. <? 2 ad. st. 
+sV'. <? 2 ad. sk. 
 
 5". J1 ad. sk. 
 
@@ -30423,7 +30423,7 @@ Hal. North America, breeding northward from Labrador to
 Alaska; migrating south in winter to Mexico; occasionally straying 
 to Cuba, Europe, and to Asia (Commander Islands). 
 
-a. 6 ad. st. N. America. Hardwicke Bequest. 
+a. 6 ad. sk. N. America. Hardwicke Bequest. 
 b. cf juv.st. N.America. Audubon Coll 
 388
 
@@ -30871,12 +30871,12 @@ American continent it migrates in winter as far south as the
 Northern States and the Great Lakes. 
 
 a. <$ ad. sk. 
-£, o, (S ad. st. 
+£, o, (S ad. sk. 
 d. Juv. st. 
-e. S ad. st. 
+e. S ad. sk. 
 /. $ juv. sk. 
 g. $ ad. sk. 
-h. <$ ad. st. 
+h. <$ ad. sk. 
 z. J juv. sk. 
 Jc. J ad. sk. 
 
@@ -31770,7 +31770,7 @@ the Azores and the
 Mediterranean. 
 
 u. 
-J ad. st. Great Britain. Purchased. 
+J ad. sk. Great Britain. Purchased. 
 b. g ad.sk. London Market, Feb. 
 Seebohm Coll. 
 f. 
@@ -31787,15 +31787,15 @@ H. J. Elwes, Esq. [P.J.
 h. <$ juv. sk. Hickling, Norfolk, March. 
 Baron A. von Hugel 
 i. 
-S ad. st. Wales. Rev. A. Morgan [P.]. 
+S ad. sk. Wales. Rev. A. Morgan [P.]. 
 h. 
-S ad. st. Somersetshire. Hon. W. C. Fitzmaurice 
+S ad. sk. Somersetshire. Hon. W. C. Fitzmaurice 
 [P.]. 
 I, m. 
-S ad. st. et Somersetshire. Montagu Coll. 
+S ad. sk. et Somersetshire. Montagu Coll. 
 2 juv. sk. 
 
-n. <$ ad. st. Kingsbury Reservoir. 
+n. <$ ad. sk. Kingsbury Reservoir. 
 J.E.Harting,Esq.[P.]. 
 o, p. S $ ad. sk. Cambridge Market, Feb., Salvin-Godman Coll. 
 Nov. 
@@ -32198,7 +32198,7 @@ c.d,e.
 <$ ad. etjuv. St. Andrews, Fife&hire, Tweeddale Coll. 
 sk. Jan. (JR. G. W. 22.). 
 
-f,g. <$ ad. st. 
+f,g. <$ ad. sk. 
 
 Purchased. 
 
@@ -32215,7 +32215,7 @@ l\ $ ad. sk.
 Schtschutschj a,W.Siberia, Dr. 0. Finsek [C.]. 
 e July. 
 
-/. J ad. st. 
+/. J ad. sk. 
 
 ? N. America. Hudson's Bay Co. 
 
@@ -32701,7 +32701,7 @@ Bering Straits; accidental in Northern Europe, east as far as
 Swedish Lapland. 
 
 a <5 ad st. N. America. Old Coll. 
-h c, d. S' ad. st. N. America. Hudson's Bay Co. [P.]. 
+h c, d. S' ad. sk. N. America. Hudson's Bay Co. [P.]. 
 st sk 
 e Quiv sk. Kotzebue Sound. Capt. Kellett and Lieut. 
 * * Wood [P.]. 
@@ -33246,7 +33246,7 @@ a. dad . st.
 Northern Sound, N.W. Voy. of H.M.S.' Enterprise/ 
 America (Adams). (Specimenfigured by Gray, 
 P. Z.S. 1855, pi. 108.) 
-b. $ ad. st. Northern Sound, N.W. Voy. of H.M.S. * Enterprise.7 
+b. $ ad. sk. Northern Sound, N.W. Voy. of H.M.S. * Enterprise.7 
 America (Adams). (Type of female's descrip., 
 Gray, P.Z.S. 1855,p.212, 
 pi. 108.) 
@@ -33694,10 +33694,10 @@ n. 2 &<*.-(G' Divon).
 Theodore Walker, 
 
 o. Imm. sk. St. Kilda. Esq. pp.1. 
-p, q. S $ ad. st. South Uist. 
+p, q. S $ ad. sk. South Uist. 
 Theodore Walker, 
 Esq. [P.1. 
-r, s. (S ? ad. st. Island of Coll, May. Colonel Irby [P.]. 
+r, s. (S ? ad. sk. Island of Coll, May. Colonel Irby [P.]. 
 £. <$ ad. sk. 
 
 Farn Is., March. Seebohm Coll. 
@@ -33714,7 +33714,7 @@ et pull. sk.
 Lat. 79° 30'Is1., Long. 4° E. Capt. D. Grav ~P.]. 
 
 y. $ ad. sk. 
-z. $ ad. st. Spitsbergen. The Admiralty" [P-]. 
+z. $ ad. sk. Spitsbergen. The Admiralty" [P-]. 
 *. o «*. »«.
 a', £'. <? $ ad. sk. Spitsbergen, July, Aug. 
 
@@ -33728,12 +33728,12 @@ M. Lefebvre Coll.
 g-m'. Sterna. 
 
 N. America. 
-n\ o'. $ $ ad. st. N. America. OH Coll. 
+n\ o'. $ $ ad. sk. N. America. OH Coll. 
 p'. Juv. sk. N. America. H. J. EI we*, E*L 
 
 
 q\ $ ad. sk. N. America. B.K.ltos,EsqMrP/i. 
-r'. S ad. st. Repulse Bay. Br. J. Rae "P. . " " 
+r'. S ad. sk. Repulse Bay. Br. J. Rae "P. . " " 
 s'. 5 ad. sk. Cape Fraser, Aug. (if. W» 
 
 
@@ -34109,7 +34109,7 @@ Franklin Bay, July (JR. Mac- Salvin-Godman Coll.
 o. $ ad. sk. 
 Farlane). 
 p, q. $ ad. sk. Eepulse Bay. Dr. J. Rae [P.] 
-et $ ad. st. 
+et $ ad. sk. 
 r} s. 3 $ ad. sk. Lat 82° 30', June (JET. W. The Admiralty [P.]. 
 
 Feilden). 
@@ -34135,7 +34135,7 @@ e',/'. c? ad.sk
 #', A'. $ ad. et 
 
 juv. sk. 
-i'. S ad. st. 
+i'. S ad. sk. 
 k'. d juv. sk. 
 /'. Pull. st. 
 
@@ -34479,7 +34479,7 @@ c. 6 imm. sk. Guatemala. Salvln-Godman Coll.
 d. Juv. sk. Veragua (ArcS), Salvio-Godaiaik Coll 
 e. Ad. sk. S. America. Old Col. 
 f,9- d $ ad* st. Cayenne. Purchased. 
-h. S ad. st. Rio Negro. Purchased. 
+h. S ad. sk. Rio Negro. Purchased. 
 i. J ad. sk. Sarayacu, Ecuador (Buckley). SaMn-Gcdmaa Coll 
 Jc. <$ ad. sk. Lake Titacaca, Bolivia. Eyton Col. 
 /. (S ad. sk. Coast of Brazil Dr. W. Barker [EX 
@@ -34764,7 +34764,7 @@ Shelley OoL
 p. 
 2 a(*. sir. Bospkorus, winter (T. H. J. Elwes, Esq. 
 Robson). [P.]. 
-q. fS ad. st. Odessa. Dr. Dowler [P.]. 
+q. fS ad. sk. Odessa. Dr. Dowler [P.]. 
 r, s. <3 $ ad. sk. Lenkoran, Jan. Seebohm Coll. 
 & $ juv. sk, Persia, Oct. Eyton Coll. 
 (Type of Oxyura unifasciata, Eyton.) 
@@ -34940,7 +34940,7 @@ to Ridgway, also
 New Granada 1 
 
 a. 
-<J ad. st. N. America. Hudson's Bay Co 
+<J ad. sk. N. America. Hudson's Bay Co 
 [p.]. 
 b. Pull. St. N. America. Purchased. 
 N. America. Lord Odo Russell 
@@ -35099,7 +35099,7 @@ indistinct spot on the cheeks near the base of the bill.
 
 Hah. Bolivia and Peru. 
 
-a,l.i% ad. st. Chili ? O. Crawley, Esq.. [P.]. 
+a,l.i% ad. sk. Chili ? O. Crawley, Esq.. [P.]. 
 (Types of the species.) 
 c, d, e. <$ 2 &&- et Lake Titicaca, Peru (Messrs. Salvin-Godman Coll. 
 
@@ -35785,10 +35785,10 @@ Old Coll.
 Chili. 
 T. Bridges, Esq. [C.]. 
 
-b, c. S 9 ad. st. 
+b, c. S 9 ad. sk. 
 
 (Types of the species.) 
-d, e. <3 J ad. st. Chili. f. Bridges, Esq. [0.]. 
+d, e. <3 J ad. sk. Chili. f. Bridges, Esq. [0.]. 
 f7 g. 2 imm. et Chili. Purchased. 
 
 ct juv. st. 
@@ -36292,10 +36292,10 @@ to Northern India, China, and Japan; occasionally in
 
 Northern America. 
 
-a,b. (S 2 ad. st. 
+a,b. (S 2 ad. sk. 
 c, d,e. c$ 2 ad. et 
 c? juv. st. 
-/. $ ad. st. 
+/. $ ad. sk. 
 
 g. 5 ad
 -s^* 
@@ -36304,12 +36304,12 @@ g. 5 ad
 
 i. 2 ad. sk. 
 k. $ ad. sk. 
-Ij m. S ad. st. et 
+Ij m. S ad. sk. et 
 $ juv. sk. 
 
 n. Juv. sk. 
 o. cf juv- st. 
-p. $ ad. st. 
+p. $ ad. sk. 
 q. 2 ad. sk, 
 r. Juv. sk. 
 s,t. d2 juv. sk. 
@@ -36486,7 +36486,7 @@ ANATID-35.
 9". $ ad. sir. 
 *", «". <J ? ad. 
 St. 
-v". 2 ad. st. 
+v". 2 ad. sk. 
 to". Skeleton. 
 Shanghai, China, Feb. 
 Yokohama, Japan, March 
@@ -36685,8 +36685,8 @@ imm. sk. Dec. (F. B. Armstrong).
 
 V. § ad. sk. Jalapa, Mexico (de Oca). Salvin-Godman Coll. 
 c\ Pull. sk. No locality. Gould Coll. 
-d'. 2 ad. st. [S. America.] Old Coll. 
-e'. <$ ad. st. Yorkshire, England. Purchased. 
+d'. 2 ad. sk. [S. America.] Old Coll. 
+e'. <$ ad. sk. Yorkshire, England. Purchased. 
 64 . MERGANSER. 
 64. 
 MERGANSER. Ty) o 
@@ -36969,24 +36969,24 @@ and the basin of the Mediterranean to China and Japan.
 a. S ad.sk. 
 b. 2 ad. sk. 
 c. d. Pull. st. 
-e. 3 ad. st. 
+e. 3 ad. sk. 
 / . Juv. st. 
-g. 6 ad. st. 
+g. 6 ad. sk. 
 k, I 6 ad. 
 et 6 
 
 juv. sk. 
 &.' $ ad.sk. 
-Z, m, n. 6 5 ad. st. 
+Z, m, n. 6 5 ad. sk. 
 
-o. 2 ad. st. 
+o. 2 ad. sk. 
 q. o imm, et 
 P: 
 2 ad. sk. 
 
-r. J ad. st. 
+r. J ad. sk. 
 s. $ ad. sk. 
-t 2 ad. st. 
+t 2 ad. sk. 
 
 u. J ad. sk. 
 vf w. $ ad. et 
@@ -37168,7 +37168,7 @@ Jan. (Aitchison).
 India Museum [P.]. 
 Afghan Delimitation 
 Coram. [P.]. 
-c. <J ad. st. India. Old Coll.t 
+c. <J ad. sk. India. Old Coll.t 
 
 * Under the name of M. orientalis, Gould described a female from Amoy, 
 which I do not think different from M. castor; at the same time he said, " I believe 
@@ -37278,7 +37278,7 @@ a,b.d2 ad. sk. Columbia River. J. K. Lord, Esq. [P.J.
 
 <?. -- British Columbia. J. K. Lord, Esq. [P.J. 
 
-d. $ ad. st. Canada. Hudson's Bay Co. 
+d. $ ad. sk. Canada. Hudson's Bay Co. 
 e. Pad. sk, 49th Parallel, May. N. America Boundary 
 Oomm. [P.]. 
 f. 2 ad. sk. Vancouver Island, Nov. J. K. Lord, Esq. [P.]. 
@@ -37601,7 +37601,7 @@ a(^
 n-u. d 2 e^ 
 
 pull. st. 
-v, w. <$ 5 ad. st. 
+v, w. <$ 5 ad. sk. 
 <r, y, z. d juv. et 
 
 pull. St. 
@@ -40283,7 +40283,7 @@ probably belong to G. castanetts.
 
 u. Ad. sk. Brazil. Zool. Soc. 
 b. Ad. sk. Brazil. M. Claussen [P.]. 
-c, d. 3 $ ad. st. Brazil (Verreaux Coll.). Purchased. 
+c, d. 3 $ ad. sk. Brazil (Verreaux Coll.). Purchased. 
 e. Ad. sk. Brazil? (Boucard Coll). Salvin-Godman Coll. 
 f>9) h. S $ ad. sk. Bio de Janeiro. Alex. Fry, Esq. IT.]. 
 L Ad. sk. Kio Parana, Brazil (Rogers). Salvin-Godman Coll. 
@@ -40292,7 +40292,7 @@ k. Ad. sk. Tilotilo, Prov. Yungas, Bolivia Salvin-Godman Coll.
 (C. Buckley). 
 Bale greyish variety (?). 
 
-i. <J ad. st. Bolivia. T. Bridges, Esq;. [P.], 
+i. <J ad. sk. Bolivia. T. Bridges, Esq;. [P.], 
 3. Crypturus cerviniventris. 
 Cryptums cerviuiventris, Sclat. fy Salv. P. Z. $. 1873, p. 512 (Venezuela) 
 ; Ud. Nomencl. Av. Neotrop. p. 152, n. 6 (1873); Spence. 
@@ -41270,7 +41270,7 @@ barred with black and fulvous buff [like the females of
 Hab. Brazil, from Para toMatto Grosso; the locality J$ew Granada 
 {Bchlegel) is open to doubt. 
 
-a. $ ? ad. st. Para. E. Graham, Esq. [P.]. 
+a. $ ? ad. sk. Para. E. Graham, Esq. [P.]. 
 b. <£ ad. sk. Matto Grosso, Brazil, Nov. Salvin-Godman ColL 
 (Natterer). 
 
@@ -42633,7 +42633,7 @@ Mus. Turin.)
 
 Hah. Northern and Central Chili. 
 
-a. ad. st. Chili. Lieut. Mawe, R.N. [P.]. 
+a. ad. sk. Chili. Lieut. Mawe, R.N. [P.]. 
 b. $ ad. sk. Chili. Salvin-Godman Coll. 
 c. Pull. st. Chili. Purchased. 
 d. Ad. sk. Central Chili. H. Berkeley James, Esq. [P.l 
@@ -43470,7 +43470,7 @@ a, b, c. Ad. etjuv. st. [Chili] Probably Mendoza *. T. Bridges, Esq. [C.].
 
 d. Ad. sk. Mendoza, Argent. Republic, Salvin-Godman Coll. 
 March (Burmeister). 
-e. J ad. st. Mendoza,Feb. (Weisshaiqjt). Salvin-Godman Coll. 
+e. J ad. sk. Mendoza,Feb. (Weisshaiqjt). Salvin-Godman Coll. 
 f-h. 
 Pull. sk. "Vicinity cf Mendoza (Ley-Salvin-Godman Coll. 
 hold). 
@@ -44539,7 +44539,7 @@ The young are hatched with the legs feathered to the toes.
 Hah. Patagonia, Argentine Eepublic, and Chili, as far north as 
 the Province of Tarapaca. 
 
-a-d. S ad. st. et [Chili.] T. Bridges, Esq. [C.l. 
+a-d. S ad. sk. et [Chili.] T. Bridges, Esq. [C.l. 
 juv. etpull. st. 
 e. Ad. sk. 
 / , g. Juv. et pull. Zool. Soc. 
@@ -45185,10 +45185,10 @@ frontal horny shield; naked skin on the sides of the neck blue;""
 caruncles small (Ramsay). 
 Hob. N.E. Australia, from Cape York to Rockingham Bay. 
 
-a. $ ? ad. st. Rockingham Bay, N.E. 
+a. $ ? ad. sk. Rockingham Bay, N.E. 
 Australia. 
 P. L. Sclater, Esq. [P.], 
-b. J ? ad. st. Queensland. Marquis of Norman by 
+b. J ? ad. sk. Queensland. Marquis of Norman by 
 c~e. Juv. et pull Queensland. Salvin-Godman Coll. 
 sk. 
 5. Casuarms salvadorii. 
@@ -45857,7 +45857,7 @@ are soft and yielding when stroked towards the head.
 
 Hob. South Island. 
 
-a b. <S ad. st. & Dusky Bay, New Zealand. Capt. Stokes [P.]. 
+a b. <S ad. sk. & Dusky Bay, New Zealand. Capt. Stokes [P.]. 
 S sk. 
 
 e. Ad. sk. New Zealand. Col. Bolton [P.]. 
@@ -46005,10 +46005,10 @@ shining ivory-white; tarsi and toes delicate grey " (Buller).
 Hob. Forth Island. 
 
 a. Ad. sk. New Zealand. Earl of Derby [P.]. 
-b, c. <$ 2 ad. st. North Island, New Zealand. 
+b, c. <$ 2 ad. sk. North Island, New Zealand. 
 d. $ ad, sk. North Island. Hon. W. Rothschild 
 1. APTEKYX. 609 
-e. $ ad. st. North Island. Hon. W. Rothschild 
+e. $ ad. sk. North Island. Hon. W. Rothschild 
 [P.]. 
 / . Ad. sk. North Lsland. H. 0. Forbes, Esq. [0.]. 
 <7- Head. Taupo Lake. Dr. Hector [P.]. 
@@ -46214,7 +46214,7 @@ New Zealand.
 South Island. 
 Baron F. von Muller [P.]. 
 Purchased. 
-c. J ad. st. South Island. Purchased. 
+c. J ad. sk. South Island. Purchased. 
 
 ALPHABETICAL INDEX. 
 

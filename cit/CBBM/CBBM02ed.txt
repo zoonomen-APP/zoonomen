@@ -909,7 +909,7 @@ central streaks to the feathers.
 
 Hab. Himalayas; Ningpo in China. 
 
-a. 2 ad. st. Nepal. B. H. Hodgson, Esq. [P.]. Type of species. 
+a. 2 ad. sk. Nepal. B. H. Hodgson, Esq. [P.]. Type of species. 
 b. <$ juv. st. Nepal. B. H. Hodgson, Esq. [P.J. 
 c. Bones (various). Nepal. B. H. Hodgson, Esq. [P.], 
 Obs. I cannot consider Mr. Swinhoe's Ketupa magnified to be 
@@ -3009,8 +3009,8 @@ Adult male. Total length 20 inches, wing 13*5, tail 7*5, tarsus 2*1.
 Hab. Malacca, Java, Sumatra, Borneo, Bangka. 
 
 a. Juv. st. Java. 
-b. 2 ad. st. Sumatra. Purchased. 
-c. 2 ad. st. Borneo. 
+b. 2 ad. sk. Sumatra. Purchased. 
+c. 2 ad. sk. Borneo. 
 d. Juv. sk. Borneo, J. Gould, Esq. [P.]. 
 e. $ ad. sk. Singapore. A. R. Wallace, Esq. [P.], 
 14. Bubo leucostictus. 
@@ -3553,7 +3553,7 @@ British Isles, and migrating into N.E. Africa and Senegambia.
 
 a, b. Ad. sk. . Europe. 
 c. Ad. sk. Great Britain. John Gould, Esq. 
-d. c? ad. st. 
+d. c? ad. sk. 
 e. Ad. sk. 
 Dauphine, France. 
 Genoa, Spring of 1871B. Brooke). 
@@ -4891,7 +4891,7 @@ are pure white. Total length 9 inches, wing 7, tail 3*7, tarsus 1-3.
 
 Hah, Ceram; Amboina. 
 
-a. $ ad. st. Ceram. A. R. Wallace, Esq. C. 
+a. $ ad. sk. Ceram. A. R. Wallace, Esq. C. 
 b. S ad. st Ceram. A. E. Wallace, Esq. C. 
 c. Ad. sk. Ceram. A. R Wallace, Esq. C. 
 cl Ad. sk. E. Ceram. A. K. Wallace, Esq. [0. 
@@ -7227,7 +7227,7 @@ hind neck.
 Hah Upper Amazons. 
 
 a. Ad. sk. ^PPer Amazons. H. W. Bates, Esq. [0.]. 
-b. $ ad. st. Sarayacu, E. Peru. E. Bartlett, Esq. [0.1. 
+b. $ ad. sk. Sarayacu, E. Peru. E. Bartlett, Esq. [0.1. 
 c. 
 $ ad. sk. Ohamicuros, E. Peru, E. Bartlett, Esq. [C.j. 
 June 15th, 1807. 
@@ -7973,7 +7973,7 @@ Total length 16 inches, wing 12-2, tail 8*5, tarsus 1*8.
 
 Hob. Lower Amazonia and Guiana, extending also into Ecuador. 
 
-a. J ad. st. South America. Purchased. 
+a. J ad. sk. South America. Purchased. 
 1). $ imm. st.
 c. <$ imm. sk.
 d. Ad. sk. 
@@ -9249,7 +9249,7 @@ g. Juv. sk. California. Purchased.
 h. S ad. sk. Mexico. Purchased. 
 I Ad. sk. Puebla, Mexico. M. A. Boucard [C.]. 
 h. Ad. sk. Peru. H. Whitely, Esq. [C.l. 
-l,m. d $ ad. st. Tambo valley, Peru. H. Whitely, Esq. [0.1. 
+l,m. d $ ad. sk. Tambo valley, Peru. H. Whitely, Esq. [0.1. 
 n. $ ad. sk. Tinta, May 21,1868. H. Whitely, Esq. [C.l. 
 o,p,q}r,$. Ad.sk. Chili. E. C. Reed, Esq. [C.j. 
 t Ad. sk. Maldonado. Charles Darwin, Esq. [C.]. 
@@ -11054,7 +11054,7 @@ c. Ad. sk. South Australia. Sir George Grey [P.*
 d. Juv. sk. South Australia. Sir George Grey [P/ 
 e. Ad. sk. Eiver Darling, Sept. 1844. Captain Sturt [P.]. " " Iris 
 yellow." 
-/. (S vix ad. st. Percy Island. 
+/. (S vix ad. sk. Percy Island. 
 )/. Ad. sk. Australia. A. Cunningham, Esq. [P.]. 
 
 h. Pull. st. Australia. 
@@ -11459,7 +11459,7 @@ b. Ad. sk. Interior of South Australia. Capt. Sturt [P.]
 177 
 e. Ad. sk. N.E. Australia. Sir T. Mitchell [P.], 
 d. 
-<$ ad. st. Cape York, Oct. 10th, 1848. Voyage of the < Rattlesnake 
+<$ ad. sk. Cape York, Oct. 10th, 1848. Voyage of the < Rattlesnake 
 ' [CI. 
 e. Ad. sk. Cape York. Mr. Cockerel! [0.1. 
 /. 
@@ -12472,7 +12472,7 @@ Hah. The whole of Northern and Central Europe.
 a.
 b. 
 cS jnv. st. 
-<$ ad. st. 
+<$ ad. sk. 
 Germany. 
 Oarniola. Purchased. 
 c. $ juv. st.
@@ -16094,7 +16094,7 @@ Palestine and in North-eastern Africa.
 a. Pull. st. Great Britain. Mr. Bullock [C.]. 
 b. Pull. st. Great Britain. Mr. Bullock i 0.1 
 c, c\ Pull. sk. Great Britain. J. Gould, Esq. TCI 
-d. (S ad. st. Cambridgeshire. Mr. J. Baker rO.~ 
+d. (S ad. sk. Cambridgeshire. Mr. J. Baker rO.~ 
 e. JUY. st. Cambridgeshire. Mr. J. Baker "C 
 /, g. Pull. st. Cambridgeshire. Mr. J. Baker = 
 c.
@@ -16493,8 +16493,8 @@ Mab. Northern Europe and Siberia.
 a.
 b.
 c. 
-$ ad. st. 
-$ ad. st. 
+$ ad. sk. 
+$ ad. sk. 
 $ ad. sk. 
 Lappmark, Sweden. Prof. Wahlberg [0.]. 
 Styria. Purchased. 
@@ -16717,7 +16717,7 @@ length 18-5 inches, wing 12*8, tail 9, tarsus 2-35.
 
 Hob. Southern middle provinces of the United States, ranging 
 into Mexico. 
-a, J ad. st. Mexico. 
+a, J ad. sk. Mexico. 
 
 
 10. 8YKXIVM. 261 
@@ -17952,7 +17952,7 @@ Hab. Himalaya Mountains; Formosa.
 
 a. Ad. sk. Himalaya Mountains. Zoological Society. 
 b. Ad. sk. Nepal. B. H. Hodgson, Esq. [P. 
-c. Vix ad. st. Nepal. B. H. Hodgson, Esq. HEV 
+c. Vix ad. sk. Nepal. B. H. Hodgson, Esq. HEV 
 d. Imm. st. Nepal. B. H. Hodgson, Esq. [P/ 
 e}f. Ad. sk. Nepal. B. H. Hodgson, Esq. [P.= 
 g. Imm. sk. Nepal. B. H. Hodgson, Esq. [P." 
@@ -18339,8 +18339,8 @@ b. Ad. sk. North America. Purchased.
 c. Ad. sk. North America. John Gould, Esq. [P.]. 
 d. Ad. sk. Koinux Island. Dr. Lyall [0.]. 
 e. § ad. sk. West side of Rocky Mountains. X K. Lord, Esq. [P.]. 
-/. <$ ad. st. West side of Rocky Mountains. J. K. Lord, Esq. "P/. 
-g. $ ad. st. West side of Rocky Mountains. J. K. Lord, Esq. [P.". 
+/. <$ ad. sk. West side of Rocky Mountains. J. K. Lord, Esq. "P/. 
+g. $ ad. sk. West side of Rocky Mountains. J. K. Lord, Esq. [P.". 
 h. Ad. sk. Western Mexico. Purchased. 
 STRIGIDiE. 
 289 
@@ -18911,9 +18911,9 @@ a, b. Pull. st.
 
 c. Ad. sk. 
 d, e. Pull. st. 
-/. <$ ad. st. 
+/. <$ ad. sk. 
 
-g. $ ad. st. 
+g. $ ad. sk. 
 h. Ad. at. 
 i. $ ad sk. 
 k. $ ad. sk. 
@@ -18922,7 +18922,7 @@ m. Ad. sk.
 n. Ad. sk. 
 o. Pull. St. 
 p. Ad. sk. 
-q. $ ad. st. 
+q. $ ad. sk. 
 r. 5 ad. sk. 
 s. Ad. sk. 
 t Ad. sk. 
@@ -18931,7 +18931,7 @@ v. Ad. sk.
 w. Ad. sk. 
 .r. Ad. sk. 
 y. Ad. sk. 
-». S ad. st. 
+». S ad. sk. 
 
 a', d ad sk. 
 
@@ -19097,7 +19097,7 @@ c. Ad. sk. Interior of S. Australia, Capt. Sturt [C.].
 R. OCEANIA.^ (Strix lulu.) 
 f. Ad. sk. Samoan Islands. J. Gould, Esq. [PA 
 r/. Ad. sk. Ovalau Island. Rev. J. B. Stair [PA 
-&. 2 ad. st. Ovalau Island. Rev. J. B. Stair [P.I. 
+&. 2 ad. sk. Ovalau Island. Rev. J. B. Stair [P.I. 
 i'. Pull. sk. Fiji Islands. J. Brenchley, Esq. [PA 
 K'. Pull, sk. M'bau Island, Fiji group. J. Brenchley, Esq. [P.J. 
 NEARCTIC REGION. 
@@ -19691,9 +19691,9 @@ than the Himalayan race."
 
 Eab. The same as that of the genus. 
 
-a. S ad. st. Java. Hon. East-India Co. [P.]. 
-h. 5 ad. st. Java. Zoological Society. 
-c. J ad. st. Java. Earl of Ellenborough [P.]. 
+a. S ad. sk. Java. Hon. East-India Co. [P.]. 
+h. 5 ad. sk. Java. Zoological Society. 
+c. J ad. sk. Java. Earl of Ellenborough [P.]. 
 d. (S ad. sk. Sarawak, Borneo. A. B. Wallace, Esq. [U.]. 
 e. $ ad. sk. India (Jerdon). J. Gould, Esq. [P.]. 
 ADDENDA. 

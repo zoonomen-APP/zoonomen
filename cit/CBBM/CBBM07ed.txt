@@ -3134,7 +3134,7 @@ C\ A ).
 d. S 
 ^d. sk. Kanve,MatabeleLand (Dr. H. E. B. Sharpe, E^{. 
 Elton). 
-e. (S ad. st. South Africa, 
+e. (S ad. sk. South Africa, 
 Sir A. Smith XV. 
 2. Thamnolsea albiscapulata. 
 Sa\Ieola alboscapulata, Rupp. Neue Wirb. p. 74, pi. 20. fig. 1 (l^TSf; 
@@ -3193,7 +3193,7 @@ ad. sk. Middle Sooroo, 1500 feet, W. T. Blanford, Esq. ["0.1
 Jan. 2, 1868. 
 e. ? ad. sk. Senafe, 7500 feet, March 5, W. T. Blanford, Esq. [0.]. 
 1868. 
-/. S ad. st. Abyssinia. Dr. Biippell [0.1. 
+/. S ad. sk. Abyssinia. Dr. Biippell [0.1. 
 
 g. $ imni. st. Abyssinia. 
 Baron Laugier. " 
@@ -4133,7 +4133,7 @@ FoHen, China.
 Amoy, China, Apr. 1861 
 
 (M. Swinhoe). 
-«', v\ 3 5 ad. st. India. 
+«', v\ 3 5 ad. sk. India. 
 
 India Museum. 
 
@@ -4181,7 +4181,7 @@ sk.
 &', */. tf $ ad. 
 
 sk 
-€f. tf ad. st. 
+€f. tf ad. sk. 
 
 
 e\ $ ad. sk. 
@@ -5633,8 +5633,8 @@ d', #'• 6 2 ad. sk. Singapore. Gould Collection.
 /'• o*)^'.[9]ad.sk Java (JSorsfield). India Museum. 
 h'. d ad. sk. E. Java. A. H. Wallace, Esq. [C.l. 
 *', k'. d ad.; V. [ J ]. W. Java (K C. Buxton). F. Nicholson, Esq. [P.]. 
-m\ 2 ad. st. Malacca. Hugh Cuming, Esq. 
-»'. c? ad. st. Purchased. 
+m\ 2 ad. sk. Malacca. Hugh Cuming, Esq. 
+»'. c? ad. sk. Purchased. 
 
 
 Subsp. a. Cittocincla suavis. 
@@ -12009,7 +12009,7 @@ Great Xaniaqua Land.
 
 a. Ad. sk. South Africa. Dr. Lee "P.". 
 b. Ad. sk. South Africa. South-African Museum. 
-c. <$ ad. st. South Africa. South-Afrkaii Museum. 
+c. <$ ad. sk. South Africa. South-Afrkaii Museum. 
 (Type of D. ctiptnbh.) 
 cl Pull. &k. South Africa. Sir A. Smith ^P.~. 
 e,f. Ad. &k.
@@ -20096,7 +20096,7 @@ Hab. New South Wales, throughout Southern Australia to Western
 Australia. 
 a. Ad. sk. Australia. Purchased. 
 b. S ad. sk. King George's Sound F. D. Godman and O. Sal-
-c. 2 ad. st. 
+c. 2 ad. sk. 
 d. Ad. sk. 
 (Cockerel!). 
 Murray river. 
@@ -20869,7 +20869,7 @@ Bab. Java and Sumatra.
 
 2. HXDROCICHXA. 321 
 a. Ad. skb. $ ad. sk.
-c. $ ad. st. 
+c. $ ad. sk. 
 Java. 
 Gebbrok, Java, Dec. 1827(Leiden Mus,). 
 Jaya. 
@@ -21553,7 +21553,7 @@ Australia.
 Esqrs. [P.". 
 Linnean Society "[P.]. 
 (Type of Orthonyx temmincM.) 
-i. $ ad. st. Australia. * Purchased. 
+i. $ ad. sk. Australia. * Purchased. 
 h. Juv. st, Australia. Zoological Society. 
 
 2 . CI3STCL0S0MA. 
@@ -21707,7 +21707,7 @@ c. c$; d,e. $ ad. -k. South Australia. Sir George Grey [P.],
 f g. $ ad. bk. Australia. Gould Collection. 
 h. Ad. sk. Au-tralia. Sir T. Mitchell \VP. 
 i, 3 ad. st, S. Australia. C. D. E. Fortnum,"Esq. 
-k. d ad. st. Australia. GfMacleay, Esq. [P.l. 
+k. d ad. sk. Australia. GfMacleay, Esq. [P.l. 
 I Juv. sk. Ta-Hiaiiia. lionald G-urtn, Esq. [P.]. 
 m, n. <$ ad. sk. Tasmania. Antarctic Expedition [0.]. 
 2. Cinclosoma casta&onotum. 
@@ -22656,7 +22656,7 @@ Hah. Represents the foregoing species in the same eastern portions
 of the Cape colony, and it is said to have heen procured in 
 
 Natal. 
-a, b. £ $ ad. st. South Africa. Purchased. 
+a, b. £ $ ad. sk. South Africa. Purchased. 
 c, d. S 2 &d. sk. Stormberg, Burghersdorp R. B. Sliarpe, Esq. 
 (T. O. At more), 
 e. <$ ad. sk. Port Natal {ex coll T. a R. B. Skarpe, Esq. 
@@ -28559,7 +28559,7 @@ Ilab. Eastern Himalayas, extending throughout Assam and Arakan
 to Pegu and Tenasserim hills. 
 
 a. Ad. st.
-b. Acl. sk.
+b. Ad. sk.
 c. d. Ad. sk.
 e. Juv. sk.
 / . Ad. sk. 
@@ -28580,7 +28580,7 @@ i. Ad. sk. Garo hills. Oapt. E. G. Wardlaw
 h. Ad.sk.
 I Pad.sk.
 m. c?ad.sk.
-n. Acl. sk. 
+n. Ad. sk. 
 Aracan (As. Soc). 
 Aracan hills, lat. 19° N. 
 Eastern slopes of Pegu hills. 
@@ -32227,7 +32227,7 @@ Hob. The whole of Australia, but not occurring in Tasmania.
 a. Ad. sk. Australia. Linnean Society [P.]. 
 (Type of species.) 
 b. Ad. sk. Australia. Purchased. 
-c. cl [ J $ ] ad. st. South Australia. Sir George Grey [P.], 
+c. cl [ J $ ] ad. sk. South Australia. Sir George Grey [P.], 
 e. Ad. sk. River Darling. Gould Collection. 
 /. 
 $ ad. sk. Gould Island, May 23. Capt. Stanlev fP.l. 
@@ -34504,7 +34504,7 @@ Macronus leucotis, Bp. Consp. i. p. 213 (1850).
 Timelia leucoti-, >%arpe. Ibis. 1578, p. 418. 
 
 
-ArJvlt. General colour above rufous-brown, inclining to chestnut 
+Adult. General colour above rufous-brown, inclining to chestnut 
 on the lower back and rump, the upper tail-coverts chestnut with 
 obsolete tips of lighter rufous; head duller brown than the back 
 and somewhat olivaceous brown, with obsolete dusky margins to 
@@ -34538,7 +34538,7 @@ I do not, however, like to separate the Bornean bird as distinct
 Hah. Malayan peninsula and Borneo. 
 
 a. Ad. sk. [Java.] Purchased. 
-b, c. Acl. sk. Malacca. A. E. Wallace, Esq. [0.1 
+b, c. Ad. sk. Malacca. A. E. Wallace, Esq. [0.1 
 d. Ad. sk. Sarawak, Borneo. Henry Everett, Esq. [O.J. 
 7. Stachyris thoracica. 
 Pitta thoracica, Te7nm. PI Col ii. pi. 7G (1823). 
@@ -42909,7 +42909,7 @@ a&
 
 f,g. 6 2-5 &• $ Australia (Cockerell). F. D. Godroan and 0. 
 juv. sk. Salvim Esqrs. [P.1 
-i, k, $ ad. st. South Australia. Sir George Grey [P.], 
+i, k, $ ad. sk. South Australia. Sir George Grey [P.], 
 
 4. Ephthianura crocea. 
 Ephthianura crocea, Casteln. fy Ramsay, Proc. Linn. Soc. _ZV. S. W* 

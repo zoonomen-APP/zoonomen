@@ -2368,16 +2368,16 @@ Siberia, and from Norway to Algeria, Palestine, and Persia.
 
 <z? b. Pull. st. 
 
-c, d, e. <3 ad. st. 
+c, d, e. <3 ad. sk. 
 f,g. d5ad.sk 
 
-h-~p, S $ ad. st. 
+h-~p, S $ ad. sk. 
 & 6 pull. st. 
 
-q. £ ad. st. 
+q. £ ad. sk. 
 r. 
 <$ ad. sk. 
-s. <^ ad. st. 
+s. <^ ad. sk. 
 t, u. J ad, sk. 
 v, w. (5 ad. sk. 
 
@@ -4640,7 +4640,7 @@ ow
 J . Norway 04:5 2*27 2*1 0*05 
 <?. Alps 048 2*05 24 0-08 
 2. Archangel 045 2*35 2*25 0 05 
-<*? &• 6 $ ad. st. Cambridgeshire. Mr. J. Baker [P.". 
+<*? &• 6 $ ad. sk. Cambridgeshire. Mr. J. Baker [P.". 
 
 c. Nestling st. Cambridgeshire. Mr. J. Baker [P/. 
 d,e< [ 6 ] $ &d. st. Devonshire. Mr. J. Baker [P.]. 
@@ -5438,7 +5438,7 @@ Sharpe).
 Hawkstone, Shropshire, 
 Jan. 1855. 
 Gould Collection. 
-df e. 3 ad. st. Avington, Hants, Nov. 
+df e. 3 ad. sk. Avington, Hants, Nov. 
 1872. 
 E. Shelley, Esq. [P.*]. 
 f,ff. rf,a. ?ad. 
@@ -7636,14 +7636,14 @@ blackish at base of both mandibles.
 Hah. Papuan Islands,"Waigiou, Aru, Mysol, Salwatti, New Guinea, 
 and northern coast of Australia. 
 
-a, h. J 2 ad. st. Am Island*. A. It. Wallace, Esq. [0.]. 
+a, h. J 2 ad. sk. Am Island*. A. It. Wallace, Esq. [0.]. 
 c. tf ad. sk. Aru Islands,. A. R. Wallace, J&q. | O. |. 
 d. Ad. sk. Mysol. ^ A. 11. Wallace, Esq. [C.]. 
 e. Ad. sk. Now Guinea. Purchased. 
 /. Ad. sk. Port Moresby. Kendal Broadbent [0.]. 
 g, h. Ad. sk. P<»rt Albuii))N. AusPurchased. 
 tralia. 
-' i. S ad. st. Port Iwngtun. Dr. Sibbald [P."|. 
+' i. S ad. sk. Port Iwngtun. Dr. Sibbald [P."|. 
 I-. <S ad. sk. Cape York. J. Gould, Esq. [C.]. 
 /. Ad. sk. Cape York. J. Gould, Esq. [C.]. 
 m-p. Ad. sk. Cape York (J. T. F. D. Godman and 0. Sal(
@@ -7856,7 +7856,7 @@ b. Juv. sk. New Guinea. A. R. Wallace, Esq. "C."
 e. Ad. sk. Porey. A. R. Wallace, Esq. [C.j. 
 d. Ad. sk. Salwati (IToedt), Gould Collection. 
 e. <$ ad. sk. Port Moresby. Rev. J. Macfarlane fCl 
-f,ff-62 ad. st. Aru Islands. A. R. Wallace, Esq. [C.l. 
+f,ff-62 ad. sk. Aru Islands. A. R. Wallace, Esq. [C.l. 
 h, i. S ? ad. sk. Aru. Islands. A. R. Wallace, Esq. 
 [oJ
 
@@ -8052,7 +8052,7 @@ d. 2 a<3- sk. S. Australia. Sir George Grey [P.l
 e. Juv. sk. S. Australia. Sir George Grey [P. j. 
 /. Juv. sk. Port Lincoln. J. Gould, Esq. [0.]. 
 g. J ad. sk. Australia ( Chandler). J. Gould, Esq. 
-h. $ ad. st. Australia. J, Gould, Esq. 
+h. $ ad. sk. Australia. J, Gould, Esq. 
 Subspecies a. Cracticus cinereus. 
 
 Vanga cinerea, Gould, P. Z. S. 1836, p. 143; id. Syn. B. Austr. 
@@ -8867,7 +8867,7 @@ i
 
 114 IANI1DJ3. 
 
-v. § ad. st. Himalayas. Major-Gen. Hardwicke. 
+v. § ad. sk. Himalayas. Major-Gen. Hardwicke. 
 w. tS ad. sk. Himalayas. J. Grould, Esq,. (Type of species.) 
 2. Ptererythrras seralatus. 
 Pteruthius seralatus, Ticked, Joum. As. Soc. Beng. 1855, xxiv. 
@@ -9063,7 +9063,7 @@ The sexes seem to be alike in plumage.
 
 Hab. Java. 
 a. S ad. sk. W. Java. A. R. Wallace, Es^. [0.]. 
-b, <$ ad. st. Java. Purchased. 
+b, <$ ad. sk. Java. Purchased. 
 6. Ptererythrius intermedins. 
 
 Allotrius intermedins, Hume, 8tr. F. v. pp. 112 & 115 : vi. p. 370 ; 
@@ -9116,7 +9116,7 @@ colour on the occiput. Underparts white, tinged with yellow; throat
 pale cream-colour. 
 
 Hah Eastern Himalayas. 
-a, b. tf ad. st. Nepal. B. H. Hodgson, Esq. [P.]. 
+a, b. tf ad. sk. Nepal. B. H. Hodgson, Esq. [P.]. 
 
 c. d. (S ad. sk. Nepal (Hodgson). India Museum. (Types of 
 species.) 
@@ -9172,7 +9172,7 @@ male.
 
 Hob. Himalayas. 
 
-a. [(S] ad. st. Nepal. B. H. Hodgson, Esq. [P.]. 
+a. [(S] ad. sk. Nepal. B. H. Hodgson, Esq. [P.]. 
 (Type of species.) 
 b, c. [tf] ad. sk. Nepal (Hodgso7i). India Museum. 
 
@@ -9839,14 +9839,14 @@ tail 4*7, tarsus 1*2.
 
 Bab. Algeria and Morocco. 
 
-a. $ ad. st. Tangiers. 
+a. $ ad. sk. Tangiers. 
 Purchased. 
 b. Ad. sk. Tangiers. 
 Colonel Irby [P.]. 
 c. Ad. sk. Algeria. 
 ft. B. Sharpe, Esq. 
 d. 
-d ad. st. Algeria (H. B. Tristtwm), E. D. Godman and 0. 
+d ad. sk. Algeria (H. B. Tristtwm), E. D. Godman and 0. 
 May 5,1856. Salvin, Esqrs. [P.]. 
 5. TelopiLonus Manfordi. (Plate II. fig. 2.) 
 Laniarius erythropterus, Blanf. Geol. <$• Zool Abyss, p. 343 (nee Shaw). 
@@ -10369,11 +10369,11 @@ lower mandible " (Shelley).
 
 Hab. South Africa, ranging through Natal into the Transvaal. 
 
-a. S ad. st. South Africa. South-African Museum. 
+a. S ad. sk. South Africa. South-African Museum. 
 b. 9. ad. &t. South Africa. Ma}or-Gen. Hardwicke 
 pp.]. 
 
-c. 2 ad. st. South Africa. Dr. Kness [P.]. 
+c. 2 ad. sk. South Africa. Dr. Kness [P.]. 
 d. Pull. st. South Africa. Rev. H. T. Phillips [P.]. 
 e. 
 <$ ad. sk. * South Africa E. B. Sharpe, Esq. 
@@ -10838,7 +10838,7 @@ Compiegne [C.].
 c. \<$~\ ad.sk. Gaboon. 
 d. [ 61 ad. sk. Congo. 
 Dr. Lucan "0.]. 
-e. [" c? J ad. st. West Africa. Purchased." 
+e. [" c? J ad. sk. West Africa. Purchased." 
 15. Dryoscopus hamatns. 
 Dryoscopus hamatus, Marti P. Z. S. 1863, p. 108 ,* Sel T. Z. 8.1864, 
 p. 109; Meiigl Orn. K.O.-Afi\ pp. 460, cxvii 
@@ -10915,7 +10915,7 @@ h; <3 ad. sk. ; , ( R. B. Sharpe, Esq.
 i. 
 ^ ciu. sk. , Dr. Lucan. 
 k. S ad. sk. uauLn>n. 
-I. $ ad. st. West Africa. Purchased. 
+I. $ ad. sk. West Africa. Purchased. 
 17. Dryoscopus atrialatus. 
 Dryoscopus atrialatus, Cass. Br. BMlad. Acad. 1851, p. 246; Bp. 
 C. E. xxxviii. p. 535,-Hartl. Orn. W.-Afr. p. Ill, note. 
@@ -11153,7 +11153,7 @@ tail brown; under surface of body strongly washed with ochraceous.
 
 Hah. West Africa and North-east Africa. 
 
-a. 5 ad. st. West Africa. 
+a. 5 ad. sk. West Africa. 
 b}c,d. <S 2 ^d. sk. River Gambia. B. B. Sharpe, E^q. 
 e, <$ ad. sk. Sierra Leone (Fraser). R. B. Sharpe, Esq. 
 / . c? ad. sk. Fantee. R. B. Sharpe, Esq. 
@@ -11565,7 +11565,7 @@ Hab. South Africa.
 a. Ad. sk. South Africa. Earl of Derby [P.]. 
 b, c, d. Ad. sk. South Africa. South-African Museum. 
 e. Juv. sk. South Africa. South-African Museum. 
-/ . Acl. sk. Kurunian {Layard). R. B. Sharpe, Esq. 
+/ . Ad. sk. Kurunian {Layard). R. B. Sharpe, Esq. 
 g. Ad. sk. Natal. 
 R. B. Sharpe, Esq. 
 h. <$ ad. sk. Eland's river, Transvaal. W. E. & C. G. Oates, Esqrs. 
@@ -11576,7 +11576,7 @@ S ad. sk. Crocodile river, Trans-W~. E. & 0. G. Oates, Esqrs.
 vaal. [P.], 
 h. I <3 ad. sk. Tati (F. Oates). "W. E. & C. G. Oates, Esqrs. 
 [P.]. 
-m. <3 ad. st. Tati (F. Oates). W. E. & 0. G. Oates, Esqrs. 
+m. <3 ad. sk. Tati (F. Oates). W. E. & 0. G. Oates, Esqrs. 
 n. 
 Ad. sk. Shoshong, Makalapsi W. E. & 0. G. Oates, Esqrs. 
 river. [P.], 
@@ -12129,7 +12129,7 @@ Ay res).
 
 Hah. South Africa. 
 
-a, I. $ ad. st. South Africa. Purchased. 
+a, I. $ ad. sk. South Africa. Purchased. 
 
 c. $ hum. sk. South Africa (Layard). R B. Sharpe, Esq. 
 d. <5 juv. sk. Knysna, Feb. 21, 1866 R. B. Sharpe, Esq. 
@@ -12204,7 +12204,7 @@ Eab. South Africa.
 a, b. $ $ ad. sk. Port Natal, June (Waklbery). ~R. B. Sharpe, Esq. 
 
 c. cT ad. sk. South Africa. Purchased. 
-d. $ ad. st. South Africa. Purchased. 
+d. $ ad. sk. South Africa. Purchased. 
 14. Laniarius bakbakiri. 
 Turdjas^zeylonus, Linne, S. N. no. 28 (1760). 
 ? Merle a collier du Cap de Bonne Esperance, d'Aub. PL JEJnl. 272. 
@@ -12379,7 +12379,7 @@ male, but has the whole tail olive-green.
 
 Hah. South-eastern Africa. 
 
-a, h. $ J ad. st. Natal. Purchased. 
+a, h. $ J ad. sk. Natal. Purchased. 
 
 c. [ ? 1 jnv. sk. Natal. Sir Andrew Smith [P.]. 
 d.l(S 1 juv.sk. Natal Purchased. 
@@ -12872,7 +12872,7 @@ not so brilliant.
 Hob. South Australia, extending to "New South Wales and along 
 the east coast to the "Wide-Bay district. 
 
-a. S ad. st. S. Australia. Purchased. 
+a. S ad. sk. S. Australia. Purchased. 
 h. [$ ] ad. sk. S. Australia, W. Cunningham, Esq. [P.], 
 c. [ J J ad. sk. S. Australia. Purchased. 
 d, e. $ 2 ad. sk. S. Australia. Sir G-. Grey [P.]. 
@@ -13007,16 +13007,16 @@ J. Gould, Esq. fC.].
 Capt. Sturt [P.]. 
 h. $ ad. sk. 
 *• [c?] juv. st. 
-h. <S ad. st. 
+h. <S ad. sk. 
 Australia. 
 Australia. 
 W. Australia, March 
 1839. 
 J. Gould, Esq. 
 J. Gould, Esq. [0.]. 
-1. J ad. st. Perth, Swan river, J. Gould, Esq. [C.]. 
+1. J ad. sk. Perth, Swan river, J. Gould, Esq. [C.]. 
 W. Australia. 
-m. 2 ad. st. W. Australia. Purchased. 
+m. 2 ad. sk. W. Australia. Purchased. 
 n. 2 ad. sk. W. Australia ( CockF, 
 D. Godman and 0. Salerell). 
 via, Esqrs. [P.]. 
@@ -14059,7 +14059,7 @@ the last-named species.
 
 Hab. Ternate, Gilolo, Batchian, Morty Island, and Timor. 
 
-a, b. S $ ad. st. Ternate (?) Purchased. 
+a, b. S $ ad. sk. Ternate (?) Purchased. 
 
 c. <$ ad. sk. Ternate (J, Murray). Voy. of H.M.S. ' Challenger.' 
 d. 2 ad. sk. Ternate, Oct. 1876. M. Leon Laglaize [O.]. 
@@ -14252,7 +14252,7 @@ f. g. S
 ad. et Richmond River. A. P. Goodwin [0.]. 
 ? ad. sk. 
 h. $ ad. sk. South Australia. Sir G. Grey [P.]. 
-i, S ad. st. South Australia. Sir G. Grey [P.J. 
+i, S ad. sk. South Australia. Sir G. Grey [P.J. 
 k. 
 g ad. sk. South Australia. F. D. Godman and 0. Salvin, 
 Esqrs. [P.]. 
@@ -15168,7 +15168,7 @@ in.
 
 Hob. Northern Australia. 
 
-a. d ad. st. Port Essington. Oapt. W". Chambers, R.N. 
+a. d ad. sk. Port Essington. Oapt. W". Chambers, R.N. 
 b. d ad. sk. Port Essington. Oapt. W. Chambers, R.N. 
 c. 5 ad. sk. Port Essington. J. B. Jukes, Esq. [P.]. 
 d,e. $ 
@@ -15627,7 +15627,7 @@ Hab. Tasmania and South Australia.
 a. $ 
 ad. sk. Tasmania. Linnean Society [P.]. 
 (Type of species.) 
-b. <S ad. st. Tasmania. 
+b. <S ad. sk. Tasmania. 
 Purchased. 
 c. J ad bk. Tasmania. Ronald Gunn, Esq. [P.], 
 d. Ad. sk. Tasmania, Eyton Collection. 
@@ -15728,7 +15728,7 @@ back, and the bill horny brown : they may be young birds.
 a,b, ($) c. $ ad. sk. Eastern Timor. A. E. Wallace, Esq. rc.\ 
 d, e, f. JUT. ? sk. Eastern Timor. A. &. "Wallace, Es<j. *"C."\ 
 
-g. Acl. sk. Timor, May 28. J. Gould, Etq. ~C\ . *" 
+g. Ad. sk. Timor, May 28. J. Gould, Etq. ~C\ . *" 
 h. Ad. sk. E. Timor (A. E. Wallace). Gould Collection. 
 33. Pachycephala phseonotus. 
 Myiolestes phaionotus, Mull.Mus.Lxigd. (type examinedhy Sahadori); 
@@ -18759,7 +18759,7 @@ w, ». [<£] ad. sk.
 
 w. $ ad. sk. 
 x. 2 ad* sk. 
-a. [d] ad. st. 
+a. [d] ad. sk. 
 b,c. [c??]st. 
 d. d ad. sk. 
 e. [ d ] ad. sk. 
@@ -18996,7 +18996,7 @@ always having the rump and terminal half of some of the upper
 tail-coverts and the frontal and superciliary region white. 
 Hal. ^outh-western Africa, from Eenguela to Xamaqua Land. 
 
-a. Acl. sk. S.W. Africa. Purchased. 
+a. Ad. sk. S.W. Africa. Purchased. 
 h. Ad. sk.
 c. 5 imm. sk.
 d. Imm. sk. 
@@ -19176,7 +19176,7 @@ nn This? 1££5* ^ O^A 0>70
  <
 << Ibis/ 1863, pp. 270-272. 
 
-<z. -c? ] ad. st. China. 
+<z. -c? ] ad. sk. China. 
 General Hardwicke [P.], 
 5. Ad. sk. N. China. Mr, Fortune [0.]. 
 c-e. Ad. sk. China. R. Swinhoe, Esq. [0.1. 
@@ -19344,7 +19344,7 @@ g. 5 ad. sk. Quettah, May 5, 1881. Lieut.-Col. Swinhoe
 h, i. Ad. sk. Peshawur. Colonel Way [P.l 
 k, J. d1 S ad. sk. Gilgit, June. Major Biddulph fC.]. 
 
-w. Acl. sk. Kashmere, July 30,1874. Major Biddulph [0.1. 
+w. Ad. sk. Kashmere, July 30,1874. Major Biddulph [0.1. 
 w. Ad. sk. Kashmere. B. B. Sharpe, Esq. [R]. 
 o. Ad. sk. 
 Kashmere. E. M. Langworthy, 
@@ -19355,7 +19355,7 @@ p. 5 ad. sk. Srinags;ar, May 1876. Major Biddulph [C.].
 5, t. Ad. sk. N.W. Himalayas. Capt. Stackhouse Pin-
 will [P.]. 
 
-w. Acl. sk. N.W. India. E. B. Sharpe, Esq. [P.]. 
+w. Ad. sk. N.W. India. E. B. Sharpe, Esq. [P.]. 
 v. Ad. 5>k. Murree. Major Biddulph I P.]. 
 w. Juv. sk. Kotegurh. E. *W. Oates, Esq. 
 x. Ad. sk. Eajkote, Nov. 10, 1871. Major Hayes Lloyd 
@@ -19458,7 +19458,7 @@ Gen. Hardwicke f P.].
 L J 
 c. Ad. sk.
 d. Ad. sk.
-e,f. Acl. sk.
+e,f. Ad. sk.
 g. Juv. sk.
 h, i Ad. sk.
 k. Ad. sk. 
@@ -19758,7 +19758,7 @@ browner above and have more numerous vennieulations below.
 Hah. Japan and the opposite parts of China and Siberia; in winter 
 visiting the southern parts of the Chinese Empire. 
 
-a. c? ad. st. Japan. Purchased. 
+a. c? ad. sk. Japan. Purchased. 
 b, c. Ad. sk. Japan. Purchased. 
 d, e. Ad. sk. Japan. Purchased. 
 f>ff-62 ad. sk Japan. Gould Collection. 
@@ -20507,9 +20507,9 @@ Hah. Indian Peninsula, extending westwards into Afghanistan
 
 and Baluchistan. 
 
-a. \<$~\ ad. st. India. W. Sothehy, Esq. [P.]. 
+a. \<$~\ ad. sk. India. W. Sothehy, Esq. [P.]. 
 India. Purchased. 
-b. \~S 1 ad. st. 
+b. \~S 1 ad. sk. 
 c. [ d j acl* 8^-Madras (Jerdori). Gould Collection. 
 d,e. [ <$ ] ad. sk. North Deccan (Burgess). Gould Collection. 
 f. Juv. sk. Seetapore. Gould Collection. 
@@ -20747,7 +20747,7 @@ the cream-coloured margins of the quills, which, however, at the
 time it comes to Europe are rather abraded; consequently they 
 have no real breeding-plumage. 
 
-a. [ $ 1 ad. st. Europe. R. B. Sharp©, Esq. [P.]. 
+a. [ $ 1 ad. sk. Europe. R. B. Sharp©, Esq. [P.]. 
 k [$ ] ad.sk. Europe. F. D. Godman and 0. Salvin, 
 Esqrs. [P.]. 
 c,d. [tf$]ad. at. France. M. Baillon [P.]. 
@@ -20967,15 +20967,15 @@ Yin, Esqrs. [P.].
 o. J ad. sk. 
 f p. $ ad. sk. 
 
-q. $ ad. st. 
+q. $ ad. sk. 
 r, s. $ ? ad. sk. 
-t [J] ad. st. 
+t [J] ad. sk. 
 w, i>. Pull. st. 
 w, x. S ad., J juv. 
 
 sk. 
 
-y. (5 ad. st. 
+y. (5 ad. sk. 
 s, a'. $ J ad. sk. 
 6'. (J ad. sk. 
 
@@ -23431,7 +23431,7 @@ States and in Texas they gradually become darker and more richly
 coloured, thus leading to the Central-American form G. mesckancu 
 
 a. G. familiar is. 
-a„ft [ (J $ ] ad. st. Cambridgeshire. Mr. Baker [P.]. 
+a„ft [ (J $ ] ad. sk. Cambridgeshire. Mr. Baker [P.]. 
 g-n. (S ? ad., and 5 England. Lord WalsingEam [P.], 
 nestlings, group st. 
 
@@ -23634,7 +23634,7 @@ tail [P.l
 
 v. 2 ad. sk. Dehra, Feb. 12, 1870 {King). Dr. Scully~[P.]. 
 w. 
-d ad. st. Nepal. B. H. Hodgson, Esq. 
+d ad. sk. Nepal. B. H. Hodgson, Esq. 
 [P.]. 
 x. Immat. sk. Nepal. 
 B. 11. Hodgson, Esq. 
@@ -23959,7 +23959,7 @@ the Crown Prince
 of Austria [P.]. 
 
 c. Ad. sk. Switzerland (summer). 
-d. (S ad. st. Switzerland (winter). 
+d. (S ad. sk. Switzerland (winter). 
 e. S 
 ad. sk. Switzerland (Howard Gould Collection. 
 Saunders). 
@@ -24378,7 +24378,7 @@ have narrow whitish shaft-lines.
 Hal. Prom the Wide-Bay district to New South Wales, ranging 
 into the Interior Province. 
 
-a, I. 8 2 ad. st. New South Wales. Purchased. 
+a, I. 8 2 ad. sk. New South Wales. Purchased. 
 c, d. $ j ad. sk. New South Wales. P. D. Godman and 0. 
 Salvin, Esqrs. [P.]. 
 
@@ -24743,7 +24743,7 @@ a, J ad. sk. Krasnoyarsk, Nov. 3, 1878 H. Seebohm, Esq. [P.].
 
 b. S ad. sk. Tenesay, 66¥ north lat, H. Seebohm, Esq. TP.]. 
 April 28, 1877. 
-c Acl. sk. Archangel. Gould Collection. 
+c Ad. sk. Archangel. Gould Collection. 
 
 d. Ad. sk. Hakodadi, Oct. 20,1865 Gould Collection. 
 (Wh'tekj). 
@@ -25032,9 +25032,9 @@ m. c? ad. sk. Egkam, Surrey, October. Gould Collection"
 n. Imm. sk. Berkshire, June. Gould Collection. 
 o. Ad. sk. Berkshire, June. X Gould, Esq. [C.I. 
 p. Juv. sk. Cambridgeshire. Mr. J. Baker JC.j. "* 
-g, r, S $ ad. st. Cambridgeshire, 
+g, r, S $ ad. sk. Cambridgeshire, 
 5. Nestling st. Cambridgeshire. 
-t. <$ ad. st. France. 
+t. <$ ad. sk. France. 
 E. B. Sharpe, Esq. [P.]. 
 u. 5 ad. sk. Saxonv, Sept. 17,1848. Gould Collection. 
 v. 5 ad. sk. Belgium, April 12, 1844. Brussels Museum [P.]. 
@@ -25094,7 +25094,7 @@ Female. Throat, fore neck, and upper part of breast rather whitish
 or pale cream-colour ; the rufous on the sides less pronounced. 
 Hal. The higher regions of the greater part of the Himalayas. 
 
-a. (S ad. st. Nepal. B. H. Hodgson, Esq. 
+a. (S ad. sk. Nepal. B. H. Hodgson, Esq. 
 b) c,d. <$ $ ad. sk. Nepal (B. II. Hodgson), India Museum [P.]. 
 (Types of 8. nipalensis.) 
 e,f, g, h,i. [<$ ? ] Nepal (B. H. Hodgson). India Museum [P.]. 
@@ -25290,7 +25290,7 @@ b,c.
 [P.]. 
 
 d. Ad. sk. N.W. Himalayas. Purchased. 
-e, f. <$ § ad. st. Nepal. , . ; , x •, B. H. Hodgson, Esq. HP. 
+e, f. <$ § ad. sk. Nepal. , . ; , x •, B. H. Hodgson, Esq. HP. 
 g, h. <S ad. sk. Nepal.' B. H. Hodgson, E^ . [P, 
 i, k, I $ J ad. sk. Nepal {Hodgson). India Museum ~P.^. 
 m. S ad. sk. B^eeling. Gould Collection. "* 
@@ -25403,7 +25403,7 @@ southwards into Mexico.
 
 a,b. S S ad.st. North America. Purchased. 
 
-c. $ ad. st. Ohio. Dr. Kirtland [P.]. 
+c. $ ad. sk. Ohio. Dr. Kirtland [P.]. 
 d, e. Ad. sk. Michigan. Prof. Steere [P.]. 
 /. g ad. sk. Hyde Park, Illinois. H. K. Ooale, Esq. [P.], 
 g1 h. S ad. sk. W. side Rocky Mountains. J. K. Lord, Esq. fT-l* 
