@@ -2387,7 +2387,7 @@ Dusky, mingled with red or yellow; uropygium
 whitish grey, more or less tinged with sulphur-
 yellow fwcata, p. 30. 
 1. Eos cyanogenys. 
-Eos cyanogonia, Bp. Consp. i. p. 4 (1850); id, Compt. Mend. xxx. 
+Eos cyanogonia, Bp. Consp. i. p. 4 (1850); id, Compt. Rendus. xxx. 
 
 p. 185 (1850); id. P. Z. S. 1850, p. 27, pi. xiv.; id. Rev. et Mag. 
 de Zool. 1854, p. 156, sp. 287; id. Naumannia, 1856, Consp. Psitt. 
@@ -9917,7 +9917,7 @@ d. $ ad. sk. Larat, Timor-laut, Sept. H. O. Forbes [C.J.
 Cacatoes de Ducorps, Komi. $* Jacq. Voy. Pole Sud, Atlas, pi. *26. 
 
 f. 1 (1845). 
-Plyctolophus du crops (!), Bp. Compt. Mend. xxx. p. 138 (1850); 
+Plyctolophus du crops (!), Bp. Compt. Rendus. xxx. p. 138 (1850); 
 id. Rev. et Mag. de Zool. 1854, p. 156, n. 262. 
 Cacatua 
 ducorpsii, Jacq. fy Pucker. Voy. Pole Sud, Zool. i. p. 108, 
@@ -10032,7 +10032,7 @@ Selby, Nat. Libr., Parrots, p. 131 (1836).
 Kakadoe philippinarum, Bourjot, Perr. pi. 81 (1837-38). 
 Eolophus philippinarum, Souance, Rev. et Mag. de Zool. 1856, 
 
-p. 224; Bp. Compt Bend. xliv. p. 537 (1857). 
+p. 224; Bp. Compt. Rend. xliv. p. 537 (1857). 
 Lophochroa minor, Finsch, Ned. Tijdschr. Dierk. i. Berigten, p. xxiii 
 (1863). 
 Plictolophus philippinaruni, Finsch, Papag. i. p. 310 (1861); Gulliver, 
@@ -11358,7 +11358,7 @@ Zool 1854, p. 149 A. ararauna.
 Macrocercus, subgen. Araeanga, Bp. Mev. et Mag. de 
 
 Zool. 1854, p. 149 A. macao. 
-Primolius, Bp. Compt. Mend. xliv. p. 596 (1857) A, auricollis. 
+Primolius, Bp. Compt. Rendus. xliv. p. 596 (1857) A, auricollis. 
 Paranus, Mqfinq. (errore), G. M. Gr. Hand-list. ii. p. 144 
 
 (1870). 
@@ -12660,7 +12660,7 @@ Exp. Am. Sud, Zool. i. Ois. p. 18, pi. ii (^1855)
 ( = Oonurus). 
 
 
-Eupsittula, Bp. Compt. Mend. Ac. Sc. Paris, 
+Eupsittula, Bp. Compt. Rendus. Ac. Sc. Paris, 
 
 xxxvii. p. 807 (1858) C. canicularis. 
 Nandayus, Bp. Mev. et Mag. de Zool. 1854, 
@@ -17529,7 +17529,7 @@ id. Journ. Acad. Philad. iii. p. 154, pi. xiv. f. 1 (1835) ; Sclat.
 
 P. Z. S. 1857, p. 230. 
 Myiopsitta tigrina, Souance, Rev. et Mag. de Zool. 1856, p. 144 
-(Venezuela); Bp. Compt. Mend. xlii. p, 764 (1850), xliv. p. 538 
+(Venezuela); Bp. Compt. Rendus. xlii. p, 764 (1850), xliv. p. 538 
 (1857); Sclat P. Z. S. 1864, p. 178 (obs.). 
 
 Myiopsitta lineola, Bp. Kaumannia, 1856, Consp. Psitt. n. 54; 
@@ -26118,7 +26118,7 @@ Pionias leucogaster, Finsch, Papag. ii. p. 435 (1868); Pelz. Or??.
 Bras. pp. 264, 447, liii (1871); Gieb. Thes. Orn. iii. p. 191 (1877). 
 Pyocephalus leucogaster, Bchmo. Journ.f. Orn. 1881, p. 382 (Consj). 
 Psitt. y. 222). 
-Pionites leucogaster, Heine <§» Mchmv. Nomencl. Mus. Ilein. Orn. 
+Pionites leucogaster, Heine <§» Mchmv. Nomencl. Mus. Hein. Orn. 
 
 p. 231 (1890). 
 Adult. Back, wings, and tail green; pileum, hind neck, and upper 
@@ -28629,7 +28629,7 @@ Wagl Mon. Psitt. p. 745 (1832).
 ? Eos orientals, G. B. Gr. Gen. B. A pp. p. 20 (1849). 
 Psittacodis westermani, Bp. Oonsp. A v. i. p. 4 (1850) (type examined); 
 
-id. P. Z. S. 1850, p. 26 (note); id. Compt Bend, xxx. p. 136 (1850); 
+id. P. Z. S. 1850, p. 26 (note); id. Compt. Rend, xxx. p. 136 (1850); 
 id. Bev. et Mag. de Zool 1854, p. 155, n. 234; id. Naumannia, 
 1856, Consp. Psitt. n. 241; Souanci, Bed. et Mag. de Zool. 1856, 
 p, 218; Bosenb. Journ.f. Orn. 1862, p. 66; id. Nat. Tijdschr. Ned, 
@@ -40046,7 +40046,7 @@ p. Ad. sk. Australia. Tweeddale Coll.
 q. 1mm. sk. Australia. Purchased. 
 r. Skull 
 6. Platycercus amathusia. 
-Platycercus amathusia, Gould, MS. ; Bp. Compt. Mend. xxx. p. 183 
+Platycercus amathusia, Gould, MS. ; Bp. Compt. Rendus. xxx. p. 183 
 (1850); id. Rev. et Mag. de Zool. 1854, p. 153, n. 176 ; id. Naumanma, 
 1856, Consp. Psitt. n. 177; Finsch, Papag. ii. p. 107 
 (1868); G. R. Gr. Hand-list, ii. p. 137, n. 7987 (1870) f Gieb. 

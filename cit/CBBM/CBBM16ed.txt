@@ -4406,7 +4406,7 @@ Purchased.
 2. ScMstes albogularis. 
 Schistes albogularis, Gould, Co/dr. Orn. 1531, p. 140 ; id. Man. Troch. 
 iv. pi. 220 (Oct. 1853) ; id. hdr. Troch. p. 123; 8cl. P. Z. S. 1800, 
-p. 70; Cab.fyHeine, Mus. Ilein. iii. p. 27. 
+p. 70; Cab.fyHeine, Mus. Hein. iii. p. 27. 
 Petasopliora a. Schistes albigularis, Reich. Aufz. d. CJ. p. 13. 
 Schistes albigularis, Bp. Rev. Zool. 1854, p. 251. 
 Schistes personatus, Gould, P. Z. S.18GQ, p. 311; id. Man. Truck iv. 
@@ -5361,7 +5361,7 @@ Sporadinus caniveti, Bp. Rev. Zool. 1854, p. 225 ; 8cl. P. X 8.1859,
 
 p. 367. 
 Chlorolampis 
-caniveti, Cab. $ Heine, Mus. Ilein, iii. p. 47; Gould, 
+caniveti, Cab. $ Heine, Mus. Hein, iii. p. 47; Gould, 
 Intr. Troth, p. 174; Heine, J. f. Orn. 1863, p. 200; Boucard, 
 
 P. Z. S. lb7S, p. 71 ; AMs. #*#. iVr^. Ois.-Mouches, ii. p. 81, 
@@ -5625,7 +5625,7 @@ Hylocharis aureiventris, Bp. Rev. Zool. 1854, p. 255.
 Hylocharis phaeton, Bp. Rev. Zool. 1854, p. 255. 
 Hylocharis bicolor, Burm. Si/st. TJeb. ii. p. 348; id. J. f. Orn. I860, 
 p. 245,1805, p. 229 ; id. La Plata Reise, ii. p. 448. 
-Chlorolampis phaeton, Cab.ty Heine, Mus. Ilein. iii. p. 48. 
+Chlorolampis phaeton, Cab.ty Heine, Mus. Hein. iii. p. 48. 
 Chlorostiibon bicolor, Cab. § Heine, Mus. Hem. iii. p. 46. 
 Chlorostilhon phaeton, Gould, Mon. Troch. v. pi. 354 (July 1801) 
 id. Intr. Troch. p. 175; Seine, J. f. Orn. 1863, p. 167; Burm 
@@ -11791,7 +11791,7 @@ Type.
 Cynanthus, Swains. Class. B. ii. p. 330 (1837) (nee 1827); 
 
 Elliot, Syn. Troeh. p. 150 , C. o'orffo. 
-Lesbia, Cab. $ Heine, Mus. Ilein. iii. p. 71 \\ C. mocoa. 
+Lesbia, Cab. $ Heine, Mus. Hein. iii. p. 71 \\ C. mocoa. 
 Cyanolesbia, Stej. Auk. ii. p. 46 (1885). 
 
 Range. Andes from Venezuela and Colombia to Bolivia. 
@@ -18870,7 +18870,7 @@ Juliamyia amabilis, Bp. Rev. Zool. 1854, p. 255; Scl. P. Z. S. 1860,
 
 p. 296. 
 Damophila amabilis, Gould, Mon. Troch. v. p. 341 (Sept. 1859); id. 
-Intr. Troch. p. 170; Cab. fy Heine, Mus. Ilein. iii. p. 40; Later. 
+Intr. Troch. p. 170; Cab. fy Heine, Mus. Hein. iii. p. 40; Later. 
 Ann. Lyc. N. Y. vii. p. 292, ix. p. 128; Scl. $ Salv. P. Z. S. 1864, 
 
 
@@ -19794,7 +19794,7 @@ Ibis, 1859, p. 130; 3d. Cat. Am. B. p. 316; 3ah. P. Z. 3. 1870,
 p. 211; id. Ibis, 1872, p. 320; Muls. Hist. Nat. Ois.-Mouches, ii. 
 pp. 4,13, iv. p. 186 ; id. Ann. 3oc. Linn. Lyon, xxii. p. 207; Elliot, 
 3yn. Troch. p. 169 ; Eudes-Desl. Ann. Mus. Caen, i. p. 439. 
-Ckrysurisca elicise, Cab.fy Heine, Mus. Ilein. iii. p. 42. 
+Ckrysurisca elicise, Cab.fy Heine, Mus. Hein. iii. p. 42. 
 Hylocharis elicit, Muls. # Verr. Class. Troch. p. 38. 
 Polytrnus elicise, Gray, Hand-l. B. i. p. 183. 
 
@@ -22909,7 +22909,7 @@ q. $ ad. sk. [Venezuela.] E. Dyson [C.J,
 r. <$ ad. sk. 
 Purchased. 
 6. Campylopterus villavicencio. 
-Trochilus villavicencio, Bourc. Compt. Mend, xxxii. p. 187; id. Rev. 
+Trochilus villavicencio, Bourc. Compt. Rendus, xxxii. p. 187; id. Rev. 
 
 Zool 1851, p. 97. 
 Selasphorus y. Heliomastes villavicencio, Reich Aufz. d. Col p. 13. 
@@ -23302,7 +23302,7 @@ Laicr. Ann. Lyc. N. Y. vii. p. 319; Muls. # Terr. Class. Troch.
 p. 22; Elliot, Syn. Troch. p. 27. 
 Aphantochroa 
 euvieri, Bp. Rev. Zool. 1854, p. 250; Cab.fyHeine, 
-Mus. Ilein. iii. p. 14; Mids. Hist. Nat Ois.-Mouches, i. p. 137, 
+Mus. Hein. iii. p. 14; Mids. Hist. Nat Ois.-Mouches, i. p. 137, 
 
 iv. p. 150; Eudes-Desl. Ami. Mas. Caen, i. p. 161. 
 Coeligena clemencise $, Reich. Troch. Enum. p. 3, pi. 687. f. 4517 
@@ -28373,7 +28373,7 @@ b. Upper surface uniform shining grass-green.
 a'. Abdomen chestnut matthewsi, p. 373. 
 V. Abdomen shining green flavescens, p. 374. 
 1. Panoplites jardinii. 
-Trochilus jardinii, Bourc. Compt. Mend. xxii. p. 187 ; Gray, Eand-L 
+Trochilus jardinii, Bourc. Compt. Rendus. xxii. p. 187 ; Gray, Eand-L 
 B. i. p. 141. 
 Plorisuga jardinii, Beich. Aufz. d. Col. p. 14; Bp. Bev. Zool 1854, 
 p. 253. 
@@ -28668,7 +28668,7 @@ id.Intr. Troch. p. 100 • id. P. Z S. 1870, p. 803; 8cl. P.Z.8.
 1860, p. 95; id. Cat. Am. B. p. 300; Muls. $ Verr. Class. Troch. 
 
 p. 61. 
-Steganurus melanantherus, Cab. fy Heine, Mus. Ilein. iii. p. 60. 
+Steganurus melanantherus, Cab. fy Heine, Mus. Hein. iii. p. 60. 
 Trochilus melanantherus, Gray, jkand-l. B. i. p. 144. 
 Adult male. Very similar to that of 8. undenvoodi, but with the 
 chin and the region under the eye black, and the spatules of the 
@@ -38371,7 +38371,7 @@ sk. Layard).
 7. CoHocalia troglodytes. 
 Collocalia troglodytes, Gray, Gen. B. pi. 19 (1845); id. Hand-l. i. 
 p. 65 (1809); #M. P. 2. & 1883, p. S34; Slartens, J.f.O.1866, 
-p. 18; i?/>. Compt. Mend. xli. p. 977; Ptf/z. i?me Novara, Yog. 
+p. 18; i?/>. Compt. Rendus. xli. p. 977; Ptf/z. i?me Novara, Yog. 
 p. 40 (1805); JYalden, Trans. ZooL Sac. ix. p. 158 (1875); Tweedd. 
 P. Z. S. 1877, p. 823 (Mindanao); Sharjje, Trans. Linn. Soc. i. 
 p. 320 (1877); Hume* Stratf Feath. viii. p. 47 (Malay Peninsula) 
@@ -48380,7 +48380,7 @@ Gray, List Spec. B. Brit. Mus. ii. pt. i. p. 3 (1848) j Bp. Consp. i.
 
 p. 57(1830) j Cass. Cat. Caprim. Mus. Philad. p. 8 (1851); Horsf. 
 8f Moore, Cat B. Mus. JE. I. tCo. i. p. 387 (1854) ; Cab. et Heine, 
-Mus. Ilein. ii. p. 123, footnote (I860) ; Gray, Iland-l i. p. 54 
+Mus. Hein. ii. p. 123, footnote (I860) ; Gray, Iland-l i. p. 54 
 (1869),-Sharpe, P. Z. S. 1875, p. 99, 1879, p. 332; Tweedd. Ibis, 
 1877, p. 388; id. P. Z. S. 1877, p. 439 ; Sharpe, Ibis, 1879, p. 249 
 (Borneo) ; Hume, Stray F. viii. ]). 48 (1879; Malay Penins.j. 
@@ -49450,7 +49450,7 @@ Steatornis caripensis, Humb. et Bonpl. Rev. d'Obs. Zool. ii. p. 141,
 
 pi. 44 (1833); HHerminier, Nouv. Ann. Mus. d'Hist. Nat. Paris, 
 
-iii. p. 321, pL 15 (1834) (Venezuela); id. Compt Bendus, iii. p. 67 
+iii. p. 321, pL 15 (1834) (Venezuela); id. Compt. Rendus, iii. p. 67 
 (1836), vii. p. 474 (1838); Hautessier, Bev. Zool. i. p. 164 (1838); 
 Mutt. Monatsbr. Berlin Ac. 1841, p. 172; id. Archiv f. Naturg. 
 1842, p. 1; JDes Murs, Bev. Zool. vi. p. 33 (1843); id. Traite 

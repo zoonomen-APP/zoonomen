@@ -8901,7 +8901,7 @@ Type.
 Cyanocorax, Boie, Isis, 1826, p. 975 C. chrysops. 
 Cyanurus, Swains. Faun. Bor.-Am. Birds, p. 495 
 (1831) C. azureus ? 
-Coronideus, Cab. Mus. Ilein. Th. i. p. 224 (1850) C. violaceus. 
+Coronideus, Cab. Mus. Hein. Th. i. p. 224 (1850) C. violaceus. 
 
 Head of Cyanocorax chrysops. 
 
@@ -20654,7 +20654,7 @@ HEMIPUS. 305
 
 Type. 
 Ilemipus, Hodgson, P. Z. S. 1845, p. 32 II. capitalis. 
-Myiolestes, Cabanis, Mus. Ilein. Th. i. p. 67 (I860) II. obsciirus. 
+Myiolestes, Cabanis, Mus. Hein. Th. i. p. 67 (I860) II. obsciirus. 
 Cabanisia, Bp. C. R. xxxviii. p. 536 (1854) ' II. obscurus. 
 
 Bill and foot of Hemipus obscurus. 
@@ -20697,7 +20697,7 @@ Tephrodornis hirundinaceus, Swains. An. in Menag. p. 284; Bp.
 Consp. i. p. 357; Bernst. J. f. O. 1859, p. 244; Scl. P. Z. S. 1863, 
 
 p. 217. 
-Myiolestes obscurus, Cab. Mus. Ilein. i. p. 67. 
+Myiolestes obscurus, Cab. Mus. Hein. i. p. 67. 
 Cabanisia hirundinacea, Bp. C. R. xxxviii. p. 536. 
 Adult male. Above glossy greenish black, inclining to steel-green 
 on the bead and neck ; plumes of lower back black, broadly tipped 
@@ -21471,7 +21471,7 @@ Lopliocitta histrionica, Bp. P. Z. S. 1850, p. 79 (ex Mull. MS. in Mus.
 
 Lugd.); id. Consp. Gen. Av. i. p. 374. 
 
-Lophocitta coronata, Cab. Mus. Ilein. i. p. 219. 
+Lophocitta coronata, Cab. Mus. Hein. i. p. 219. 
 
 Garruius histrionicus, ScJil, Handl. Dierk. i. p. 327. 
 

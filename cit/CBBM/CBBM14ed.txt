@@ -2055,7 +2055,7 @@ Fluvicola nengeta, Sw. Flycatch. p. 102, pi. 8.
 Tsenioptera nengeta, Bp, Consp. i. p. 105; Hartl. Ind. Az. p. 13; 
 
 
-Cab. et Hein. Mus. Ilein. ii. p. 44; Burm. Si/st. TJeb. ii. p. 510; 
+Cab. et Hein. Mus. Hein. ii. p. 44; Burm. Si/st. TJeb. ii. p. 510; 
 id. La-Plata Reise, ii. p. 459; Scl Cat A. B. p. 197; Pelz. Orn. 
 Bras. p. 97; Scl. et Sate. Nomencl. p. 42; iid. P. Z. S. 1879, p. G10 
 (Bolivia); Hudson, P. Z. S. 1870, p. 547 (Arg. Rep.); White, 
@@ -2267,7 +2267,7 @@ P. Z. S. 1870, pp. 333, 540 (Buenos Ayres) ; JFJiite, P. Z. S. 1882,
 p. 003 (Arg. Bep.); Barrows, Bull. Mitt. Orn. CI. viii. p. 139 
 (Entrerios) ; Sol et Huds. Arg. Orn. i. p. 118. 
 Fluvicola irupero, JDano. Zool. Voy.i Beagle] iii. p. 53. 
-Ilemipenthica irupero, Cab. et Hem. Mus. Ilein. ii. p. 44. 
+Ilemipenthica irupero, Cab. et Hem. Mus. Hein. ii. p. 44. 
 Muscicapa nioesta, Licht. JDoubl. p. 54. 
 Tsenioptera inoesta, Burm. Syst. TJeb. ii. p. 517; id. La-Plata Beise, 
 
@@ -3463,7 +3463,7 @@ k. Ad. sk. Mexico. Purchased.
 2. Sayornis nigricans, 
 Tyrannula nigricans, Sw. Phil. Mag. 1827, i. p. 367. 
 Myiarchus nigricans, Cab. in Tseh. Faun. Per. p. 153. 
-Sayornis nigricans, Pp. Compt. Mend, xxxviii. p. 657; id Notes Dm. 
+Sayornis nigricans, Pp. Compt. Rendus, xxxviii. p. 657; id Notes Dm. 
 
 
 p. 87; Sclater, P.Z.8. 1856, p. 296, 1857, p. 127, 1858, p. 457, 
@@ -3830,7 +3830,7 @@ Wyatt, Ibis, 1871, p. 332 (Colombia); Forbes, Ibis, 1881, p. 341
 (Brit. Guiana); Tacz. Orn. Per. ii. p. 207; Scl et Suds. Arg. Orn. 
 i. p. 122. 
 Mionectes leucocephalus, Cab. in Tsch. Faun. IV. p. 148. 
-Dixiphia leucocephala, Cab. et Rein. Mus. Ilein. ii. p. 41. 
+Dixiphia leucocephala, Cab. et Rein. Mus. Hein. ii. p. 41. 
 Black; whole head and neck and a patch on the flanks white; 
 bill horn-colour, base of lower mandible white ; feet black : whole 
 
@@ -7284,7 +7284,7 @@ p. 577 (Lower Amazons) ; iid. Nomencl. p. 40; Layard, Ibis,
 Solo. Ibis, 1885, p. 293 (Br. Guian.). 
 Motacilla cristata, Qm. S. N. i. p. 972. 
 Colopterus cristatus, Gab. Wiegm. Arch. 1847, pt. i. p. 253; Cab. et 
-Hein. Mus. Ilein. ii. p. 52. 
+Hein. Mus. Hein. ii. p. 52. 
 
 Above olive; elongated crest-feathers blackish in the centre : 
 wings and tail blackish edged with olive: beneath whitish, with 
@@ -8327,7 +8327,7 @@ TYKANNID2E.
 Vermivora elegans, Less. Voy. Tliet. ii. p. 323. 
 Euscarthmus reguloides, Cab. in Tsch. Faun. Per., Orn. p. 166. 
 Euscartlmius albocristatus, Bjp. Consp. i. p. 184 
-Anraretes albocristatus, Cab. et Ilein. Mus. Ilein. ii. p. 54; Scl. Cat. 
+Anraretes albocristatus, Cab. et Ilein. Mus. Hein. ii. p. 54; Scl. Cat. 
 
 
 A. B. p. 212; id. P. Z. S. 1871, p. 498, et 1873, p. 780; Scl. et 
@@ -8673,7 +8673,7 @@ Berl J.f. 0.1884, p. 299.
 43 . MIONECTES. 
 113 
 
-Pipromorpha oleaginea, Cab. et Ilein. Mus. Ilein. ii. p. 55. 
+Pipromorpha oleaginea, Cab. et Ilein. Mus. Hein. ii. p. 55. 
 Mionectea assimilis, Scl. JP. Z. S. 1859, pp. 45, 46, 360; id. Ibis, 
 1859, p. 445; id. Cat A. B. p. 213; Scl. et Salv. Ibis, 1850, 
 
@@ -14706,7 +14706,7 @@ pi. v. fig. 3 ; Scl. et Salv. P. Z. S. 1879, p. 615 (Bolivia).
 Muscivora ferruginea, Burm. Syst. TIeb. ii. p. 505; Fuler, J.f. 0. 
 
 1867, p. 232 (nest). 
-Phoneutria ferruginea, Cab. et JSein. Mus. Ilein. ii. p. 65. 
+Phoneutria ferruginea, Cab. et JSein. Mus. Hein. ii. p. 65. 
 Hirundinea ferruginea, Scl Cat. A. B. p. 225 (excl. syn.). 
 Platyrhynehus hirandinaceus, Spiv, Av. Bras. iL p. ll, t. 13. fig. 1. 
 Tyrannus pyrrhophseus, Vieill. Nouv. Diet. xxxv.; id. Enc. Meth. 
@@ -14897,7 +14897,7 @@ Muscicapa barbata, Gm. S. JV. i. p. 933 (1789); Lath. Ind. Orn. i.
 
 
 p. 488. 
-Myiobius barbatus, Cab. et Hein. Mus. Ilein. ii. p. 67 j Scl P. Z. S, 
+Myiobius barbatus, Cab. et Hein. Mus. Hein. ii. p. 67 j Scl P. Z. S, 
 1860, pp. 282, 295 (Ecuador); id. Cat A. B. p. 225; Lawr. Ann. 
 Lye. -$". Y. vii. p. 328, viii. p. 8 (Panama); Burm. Syst. XJeb. ii. 
 
@@ -20721,7 +20721,7 @@ Plata Beise, ii. p. 453; id. J. f. O. 1860, p. 245 (La Plata);
 Sternberg, J.f O. 1869, pp. 131, 258. 
 Muscicapa violenta, Bp. Joum. Ac. Phil. iv. p. 378 (1825). 
 Tyrannus tyrannus, d'Orb. Voy., Ois. p. 310. 
-Milvulus violentus, Bp. Consp. i. p. 191; Cab. et Hein. Mus, Ilein. 
+Milvulus violentus, Bp. Consp. i. p. 191; Cab. et Hein. Mus. Hein. 
 
 
 ii. p. 78; Scl. Cat A. B. p. 237; Pek. Orn. Bras. p. 118; Set et 
@@ -21829,7 +21829,7 @@ Bp. Consp. i. p. 173; Sclater, P. Z. S. 1857, p. 265 (U. Amazons);
 id. Cat. A. B. p. 248; Pelz. Orn. Bras. p. 127; Scl. et Salv. 
 
 P. Z. S. 1873, p. 282 (E. Peru); iid. Nomencl p. 54; Forbes, 
-Ibis, 1881, p. 344 (N.E. Brazil); Cab. et Ilein. Mus. Ilein. ii. 
+Ibis, 1881, p. 344 (N.E. Brazil); Cab. et Ilein. Mus. Hein. ii. 
 p. 92. 
 Pipra erythrocephala, Licht. Doubl. p. 29; Max. Beitr. hi. p. 422 ; 
 Wagl Jfei'^1880, p, 933; Burm. Syst. TJeb. ii. p. 443. 
@@ -23483,7 +23483,7 @@ Bp. Consp. L p. 177.
 Ptilochloris lunatus, Sw. Class. B. ii. p. 250. 
 Ptilochloris remigialis, Zafr. Bev. Zool 1838, p. 237; Bp. Consp. i. 
 
-p. 177; Burnt. Syst. TJeb. ii. p. 436; Cab. et Eein. Mus. Ilein. 
+p. 177; Burnt. Syst. TJeb. ii. p. 436; Cab. et Eein. Mus. Hein. 
 ii. p. 102; Scl Cat. A. B. p. 246 ; Scl et Salv. JSTome?icl p. 57. 
 Above olive-green; wings and tail blackish, edged with olive-
 green ; cap black : beneath sulphur-yellow, breast and flanks lunulated 
@@ -24544,7 +24544,7 @@ y.
 ^ ad. sk. Mato Grosso, Brazil (Natterer), Sclater Coll. 
 % HADEOSTOMUS*. r^ 
 
-Hadrostomus, Cab. et Hein. Mus. Ilein. ii. p. 84 (1859) H. atricapillus. 
+Hadrostomus, Cab. et Hein. Mus. Hein. ii. p. 84 (1859) H. atricapillus. 
 Platypsaris, Bp. MS. (teste Gray) (cf. Scl P. Z. S. 1857, 
 
 p. 74) 
@@ -24748,7 +24748,7 @@ Pachyrhamphus aglaise, Sclater, P. Z. S.1856, p. 297, et 1857, p. 74;
 
 8cl et Salv. Ibis, 1859, p. 124. 
 Platypsaris affinis, FllioU Ibis, 1859, p. 394, pi. 13. 
-Hadrostomus aglaise, Cab. et Hem. Mus. Ilein. ii. p. 85; Cab. 
+Hadrostomus aglaise, Cab. et Hem. Mus. Hein. ii. p. 85; Cab. 
 
 J.f.O. 1861, p. 252 (Costa Rica); Scl. Cat. A. B. p. 240; id. 
 P. Z. S. 1864, p. 176 (Mexico); Lawr. Ann. Lyc. N. Y. ix. pp. 116 
@@ -27429,7 +27429,7 @@ Ckrysopteryx erythrorhynckus, SID. Faun. Bor.-Am. ii. p. 402 ; id.
 Class. B. ii. p. 252. r 
 Ampelis chrysoptera, Nordm. in JSrm. Beis. p. 15, Atl. pi. x. fig. 1. 
 Ptilochloris chrysoptera, Bwm. Si/st. TJeb. ii. p. 435. 
-Chrysopteryx nigra, Cab. et Hein. Mus. Ilein. ii. p. 102. 
+Chrysopteryx nigra, Cab. et Hein. Mus. Hein. ii. p. 102. 
 
 
 Above and beneath black ; outer webs of primaries and secon
@@ -27920,7 +27920,7 @@ ty Mao. N* II. ser. 2, xvii. p. 469; id. Cat A. B. p. 255; id. Ibis7
 1878, pp. 160, 171 ; Scl. et Salv. Komencl. p. 58,- iid. P. Z. S. 1879, 
 
 p. 520 (Antioquia); Tacx. P. Z. S. 1882, p. 24 (N.E. Peru). 
-Euchlororois aureipectus, Cab. et Ilein. Mus. Ilein. ii. p. 103. 
+Euchlororois aureipectus, Cab. et Ilein. Mus. Hein. ii. p. 103. 
 Above bright green; external secondaries slightly tipped with 
 white; lores darker: beneath bright green; throat, breast, and 
 middle of belly bright yellow ; sides with slight yellow striations ; 
@@ -29003,7 +29003,7 @@ Querula rubra, Vieill. Nouv. Diet viii. p. 161 j id. Enc, MSth, p. 768.
 Querula purpurea, Zess. Tr. aVOm. i. p. 362. 
 Querula militaris, Bp. Consp. i. p. 179. 
 Threnoedus militaris, Cab. in Schomb. Guian. iii. g. 690. 
-Hsematoderus militaris, Cab. et Hein. Mus. Ilein. ii. p. 107; Scl. Cat 
+Hsematoderus militaris, Cab. et Hein. Mus. Hein. ii. p. 107; Scl. Cat 
 
 
 A. B. p. 257• JPelz. Orn. Bras. p. 134; Scl. et Sah\ P. Z. S. 1867, 
@@ -30224,7 +30224,7 @@ PlTTIDiE.
 Type. 
 Iridipitta, Bp. ibid. (1854) P. baudii. 
 Melanopitta, Bp. ibid. (1854) P. cucullata. 
-Ooloburis, Cab. et Ilein. Mus. Ilein. ii. p. 3 (1859) .. P. strepitans. 
+Ooloburis, Cab. et Ilein. Mus. Hein. ii. p. 3 (1859) .. P. strepitans. 
 Phoenicocichla, Cab. et Ilein. Mus. Hein. ii. p. 5 (1859) P. granatina. 
 Leucopitta, Elliot, Ibis, 1870, p. 418 P. cyanea. 
 Oervinipitta, Elliot, ibid. P. inoluccensis. 
@@ -32719,7 +32719,7 @@ d. 2 sk, N.W. Borneo. Sir H. Low [C.].
 
 3. EUCICHLA. 
 Type. 
-Eucichla, Cab. et Hein. Mus. Ilein. ii. p. 2 (1859) E. cyanura. 
+Eucichla, Cab. et Hein. Mus. Hein. ii. p. 2 (1859) E. cyanura. 
 This section embraces what are, perhaps, the most gorgeously 
 
 coloured species of the family. Although the tail in E. gurneyi 

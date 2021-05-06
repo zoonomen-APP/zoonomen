@@ -4756,7 +4756,7 @@ Phyllopneuste acredula (Linn.) apud Brehm, op. cit, p. 428 (1831).
 Pliyllopneuste trochilus {Linn.), Brehm, op. cit p. 420 (1831); Bp. 
 Comp. List B. Eur. § N Amer. p. 13 (1838) ; Maeqill. Brit. B. ii. 
 
-p. 371 (1839); Bp. Comp. i. p. 289 (1850); Oak iMus. Ilein. i. 
+p. 371 (1839); Bp. Comp. i. p. 289 (1850); Oak iMus. Hein. i. 
 p. 33 (1850) j Jaub. et Barth.-Lapomm. Mich. Orn. p. 207 (1850); 
 Degl. et Gerbe, Orn. Eur. i. p. 545 (1807); Loche, E\pl. Sci. 
 Aiqir., Ois. i. p. 252 (18G7); Tristram, Ibis, 1807, p. 82 ; Doderl. 
@@ -14838,7 +14838,7 @@ Merula jamaicensis (Gmel.), Gosse, B. Jamaica, p. 142, III. pi . xxiv.
 (1847). 
 Turdus capucinus, IIarth,fde JBp. Consp. i. p. 271 (1850). 
 Turdus leucophthalma, IIill,Jide Bp. Consp. i. p. 271 (1850). 
-Turdus lereboulleti, Bp. Compt. Mend, xxxviii. p. 3 (1854). 
+Turdus lereboulleti, Bp. Compt. Rendus, xxxviii. p. 3 (1854). 
 
 In the adult male in spring plumage the general colour of the 
 upper parts is dark slate-grey, shading into russet-brown on the 
@@ -15646,7 +15646,7 @@ luridus, Bonap.)
 The synonymy of the conspecific form is as follows:— 
 
 34. Turdus casius. 
-Planesticus casing, Bp. Compt, Mend. xli. p; 657 (1355). 
+Planesticus casing, Bp. Compt. Rendus. xli. p; 657 (1355). 
 Tardus csesius (Bonap.), Gray, Hand-l. B. i. p. 257. no. 3744 (I860). 
 Turdus casius (Bonap.), Sclater, P. Z. S. 1359, p. 330; Later, Ana. 
 
@@ -19843,7 +19843,7 @@ Journ. iii. p. 489 (1827); Sagra, Culm, Ois. p. 48, pi. iv. (18;{<>) •
 Gundlach, Bost. Journ, vi. p.* 318 (1852). 
 
 Minnis rubripes (Temm.), Bp. Consp. i. p. 270 (1850). 
-(ialeoscoptes rubripes (Temm.), Cab. Mus. Ilein. i. p. 82 (1850)* 
+(ialeoscoptes rubripes (Temm.), Cab. Mus. Hein. i. p. 82 (1850)* 
 id. Journ. Orn. 1855, p. 470; Sclater, P. Z. & 1859, p. 330. 
 Mimociclila rubripes (Temm.), Sclater, Cat. Amer. B. p. 2 (1802) ; 
 Baird, JRev. Am. B. i. p. 38 (1804); Gimdlach, Journ. Orn. 1872 
@@ -23497,7 +23497,7 @@ tains.
 9. RTJTICJLLA. Tjpe # 
 Rnticilla, C. L. JBrehm, Isis, 1828, p; 1280 R. phoenicurus. 
 Phoenicura, Swains. Faun. Bar.-Am. ii. p. 489 (1831) R. phoenicurus. 
-Adelura, jBp. Compt. Mend, xxxviii. p. 8 (1854) .. R. cseruleocephala. 
+Adelura, jBp. Compt. Rendus, xxxviii. p. 8 (1854) .. R. cseruleocephala. 
 
 The genus ButiciTla comprises a group of thirteen species very 
 nearly allied to the Eobins. The bill is always short, slender, and 
@@ -23697,7 +23697,7 @@ synonyms can be of no importance save to the ornithological pedant.
 337 
 
 i. 
-p. lbO (1846); Bp.Consp. i. p. 290(1850); Cab. Mus. Ilein. 
+p. lbO (1846); Bp.Consp. i. p. 290(1850); Cab. Mus. Hein. 
 i. p. 2 (1850) ; Moore, P. Z. S. 1854, p. 25; Hartl.rn. W.-Afr. 
 p. 68 (1857); Jaub. et Barth.-Lapomm. Mich. Orn. p. 230 (1859) ; 
 Newt. List B. Eur. Blasius, p. 10 (1862) ; Jerd. B. Bid. ii. p. 130 
@@ -23927,7 +23927,7 @@ Eur. pt. liv. (1870) ; Mater # Taylor, Ibis, 1870, p. 04 ; Danford.
 Ibis, 1878, p. 14; Seebohn, B.Z. & 1878, p. 979; Boyd. B. Cane. 
 p.^05 (1879)^ 
 
-Ruticilla rnargmella, Bonap. Compt Bend, xxxviii. p. 8 (1854). 
+Ruticilla rnargmella, Bonap. Compt. Rend, xxxviii. p. 8 (1854). 
 Buticilla pkoenicura [Linn.), apud lleugh Si/st Velers. p. 25 (1856); 
 
 apud Blanf Geol. §• Zool. Abyss, p. 358 (1870). * 
@@ -24533,7 +24533,7 @@ Ruticilla tricolor, Goidd,fideBp. Consp. i. p. 290 (1850).
 Ruticilla vigorsi, Moore,'P. Z.8. 1854, p. 27 ; Horsf. fy Moore, Cat, 
 B. Mus. E.L Co. i. p. 304 (1854); Gray, IIand-1. B. i. p. 221. 
 no. 3170 (1809). 
-Ohamfehous erytlirogastra (Giild.), Bp. Compt, Mend, xxxyiii. p. 8 
+Ohamfehous erytlirogastra (Giild.), Bp. Compt. Rendus, xxxyiii. p. 8 
 (1851). 
 Sylvia (Ruticilla) erytlirogastra (Giild.), Badde, Beis. 8ibir. Vog. 
 
@@ -25082,7 +25082,7 @@ IlcmcU. B. i. p. 220. no. 8240 (1809) ; \%arpe, Cat. Afr. B. p. 27
 (1871) ; Blanf. $ Dresser, P, Z. & 1874, p. 239;tiharpe,eel 
 Bayard's B. S. Afr. p. 240 (1870). 
 Oampicola bifasciata (Temm.), Bp. Consp. i. p. 304 (1850) ; Cab, 
-Mus. Ilein. I p. 10 (1850). 
+Mus. Hein. I p. 10 (1850). 
 Saxicola spectabilis, llartlaub, P. Z. S. 1805, p. 428, pi. xxiii. 
 
 Adult male in breeding-plumage. Forehead and a distinct eye-
@@ -27267,7 +27267,7 @@ Saxicola stapazina
 partim) ; apud Meyer, Ta^ehenb. Zus. n. Ber. p. 08 (18:12, partim); 
 apud Gouldt B. Eur. ii. pi. xcL (JSo7, partim) j apud lip. Ctmsp. i. 
 
-p. 30tf (1850, partim); apud Cab. Mus. Ilein. i. p. 10 (1850, partim); 
+p. 30tf (1850, partim); apud Cab. Mus. Hein. i. p. 10 (1850, partim); 
 apud Jaitb. et Barth.-Lapomm. Bieh. Orn. p. 221 (1850); apud 
 Reivt. Lht B. Bur. Bhm'us, p, 10 (1802, partim); apud Dey!. et 
 Gerbe, Orn. Bur. i. p. 454 (1807, partim); apud Loehe, Expl ASVL 
