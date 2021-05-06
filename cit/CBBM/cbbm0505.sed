@@ -3,4 +3,6 @@
 #s/Acl. sk./Ad. sk./
 #s/Aclult/Adult/g
 #s/A...lt male/Adult male/g
-s/Cab. Mm. Ilein/Cab. Mus. Hein/
+#s/Cab. Mm. Ilein/Cab. Mus. Hein/
+s/ Cones / Coues /
+s/ Coves,/ Coues,/

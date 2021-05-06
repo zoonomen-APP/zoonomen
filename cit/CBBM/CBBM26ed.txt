@@ -837,7 +837,7 @@ fyStokm 538
 a. holboelli, Bernhardt 
 542 
 19. cristatus (Linn.) .... 544 
-2. iEcbinopboras, Cones .... 549 
+2. iEcbinopboras, Coues .... 549 
 1. major (Bodd.) 549 
 2. occidental!s (Laivr.) .. 551 
 3. Polilymbus, Less 553 
@@ -15391,7 +15391,7 @@ Gray, Gen. B. iii p. 5o6 (1847) ; Burm. Th. Bras. iii. p. 412
 (1836 : N. Brazil; Para) ; Bryant, Pr. Bost. Soc. vii. p. 120 (1839 : 
 Bahamas); Schl. Mns. Pays~B'as, Ardese, p. 41 (1863); Sundev. 
 (Efv. K. Vet.-Akad. Stockh. 1869, p. 589 (S. Bartholomew), p. 602 
-(Porto Ilico); Gray, Hand-l. B. iii. p. 31, no. 10155 (1871) ; Coves, 
+(Porto Ilico); Gray, Hand-l. B. iii. p. 31, no. 10155 (1871) ; Coues, 
 Key N. Amer. B. p. 269 (1872) ; id. B. N.-West, p. 522 (1874) ; 
 Beichen. J. f. O. 1877, p. 255 ; Cory, B. Bahamas, p. 171 (1880) ; 
 Tristr. Ibis, 1884, p. 168 ; Cory, Ibis, 1886, pp. 472-475 : id. Auk, 
@@ -27099,7 +27099,7 @@ J.f. 0. 1869, p. 389 [Faroes!; Finsch # Earth Tog. Ost-A/r.
 p. 844 (1870); Swinh. Ibis, 18f0, p. 887 [Hainan, Slam] ; Finsch, 
 J. f O.1870, p. 875, 1872, p. 257 [X. Zealand]; Gray, Hand-f. 
 B. iii. p. 127 (1871); Gurney, ed. Anderss. B. Damora Ld, p. 367 
-(1872); Button, Ibis, 1872, p. 249 [Chatham I."; Coves, Key X. 
+(1872); Button, Ibis, 1872, p. 249 [Chatham I."; Coues, Key X. 
 Am. B. p. 802 (1872]; Lloyd, Ibis, 1878, p. 421 ^Kattlawar"; 
 Beugl. Orn. N.O.-Afr. p. 1486 (1873); Travers. Tr. X. Zeal 
 Inst. Y. p. 221 (1S78) [Chatham I."1; Hume, Nests fr Eggs hid, 
@@ -37820,7 +37820,7 @@ vi. pt. iv. p. 109 (1857); Coues, P. Bsse.v Inst. v. p. 302 (1868)
 [N. England] ; Sclater, P. Z. S. 18*58, p. 200; Frantz. J.f.O. 1869, 
 p. 379 [Costa Rica]; Bidr/w. Ibis, 1809, p. 350; G". 11. Gray, 
 Hand-l. B. iii. p. 130 (1871) ; Coues, Key X. Amer. B. p. 300 
-(1872); v. Peheln, Ibis, 1873, p. 54; Coves, B. K-W. p. Q8& 
+(1872); v. Peheln, Ibis, 1873, p. 54; Coues, B. K-W. p. Q8& 
 (1874); Allen, Bull. Nutt. Orn. C. i. p. 60 (lb76) [New Hampshire"; 
 Purdie, Bull. Kutt. Orn. C. ii. p. 22 (1877) [Xew England'; 
 Bennett, Bull. U.S. Geol. Surv. iv. p. 63 (1878) [Texas] ; Steam$~§ 
@@ -38202,7 +38202,7 @@ p, 232 [Astrakan], p. 383 [Archangel], 1883, p. 35 Caspian Sea]:
 Irby, Ibis, 1883, p. 190 [Santander]; IlartL J.f. (X IbSZ, p. 2b4 
 [Alaska]; Nelson, Cncisei Coriuin,'' p. 115 (1883); Samite's, N.fy 22. 
 Birds, p. 557 (1883) ; Stearns # Cones, N. Em/l. B.-life, p. 390 
-(1883); Eadde, Orn. Caucus, p. 492 (1884); Coves, Key N. Amen 
+(1883); Eadde, Orn. Caucus, p. 492 (1884); Coues, Key N. Amen 
 B. 1st ed. p. 791 (1884); Seebohm, Hist. Brit. B. iii. p. 412 (JS85); 
 Balla Torre $ Tschusi, Omis, 1885, p. 558. 1887, p. $4®, 1888, 
 p. 360, & SuppL p. 334,1890, p. 264 [Austro-Huiipary] ; Saunders, 
@@ -42767,7 +42767,7 @@ p. 280 (1860); Baird, B. N. Amer. p. 893 (18G0) [Washington
 Territory] ; COUPS, P. Essex Inst. v. p. 310 (1868) [Xew England] ; 
 Turnb. B. E. Pennsylvania, p. 49 (1869) ; Cozies, Key N Amer. B. 
 p. 336 (1872); Ridcjw. Ann. Lye. N. York, x. p. 392 (1874) 
-[Illinois]; Coves,B. N.-West, p. 729 (1874); Merriam, Bull Nutt. 
+[Illinois]; Coues,B. N.-West, p. 729 (1874); Merriam, Bull Nutt. 
 Om.C. ii. p. 47 (1878) [Connecticut] ; Breicer, Bull Nutt. Om.C. 
 ii. p. 52 (1878); Samuels, N. # E. Birds, p. 560 (1883) [New 
 England]. 
@@ -50179,7 +50179,7 @@ Hyatt, P. Bost. Soc. xiv. p. 251 (1872) [Falkland Is.].
 637 
 
 Eudyptes nigriventris (sicj, G. P. Gray, Hand-IB. in. p. 98 (1871). 
-Eudyptes chrvsolopha, Cones {nee Brandt), P. Ac. Philad. 1872, 
+Eudyptes chrvsolopha, Coues {nee Brandt), P. Ac. Philad. 1872, 
 
 p. 204; Kidder § Coues, Bull U.S. Nat. Mus. ii. p. 45 (1875) 
 [Kerguelen; habits]; Sftarpe's ed. Layard, B. S. Afr. p. 790 (1884) 
