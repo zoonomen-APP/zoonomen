@@ -3057,7 +3057,7 @@ a.
 <$ ad. sk. Turnbez, Peru {Stokmann). Sclater Coll. (Authentic 
 specimen.) 
 17. Ochthoeca rufi.margin.ata. 
-Ochthoeca rufimarginata, Lawr. Ann. Lye. N. Y. ix. p. 260 j Scl. 
+Ochthoeca rufimarginata, Lawr. Ann. Lyc. N. Y. ix. p. 260 j Scl. 
 P. Z. S.1871, p. 750; Scl. et Salv. Nomencl. p. 42 ; Tacz. P. Z. S. 
 1880, p. 202 (N. Peru) ; id. Orn. PSr. ii. p. 196. 
 Above mouse-brown, rather more rufous on the rump; wings 
@@ -8531,7 +8531,7 @@ Muscicapara striaticollis, dJOrb. Voy., Ois. p. 823, pi. 35.fig. 2.
 Mionectes striaticollis, Bp. Consp. i. p. 187 ; Scl Cat. A. B. p. 213; 
 
 Scl et Sah. P. Z. S. 1864, p. 358,1868, p. 628,1879, pp. 512, 613 ; 
-iid. Nomencl. p. 47; Lawr. Ann. Lye. N. Y. vii. p. 328; Tacz. 
+iid. Nomencl. p. 47; Lawr. Ann. Lyc. N. Y. vii. p. 328; Tacz. 
 
 P. Z. S. 1874, p. 535, 1879, p. 233, et 1882, p. 19; id. Orn. 
 Per. ii. p. 244; Berl. et Tacz. P. Z. S. 1884, p. 296, et 1885, pp. 90, 
@@ -8677,7 +8677,7 @@ Pipromorpha oleaginea, Cab. et Ilein. Mus. Ilein. ii. p. 55.
 Mionectea assimilis, Scl. JP. Z. S. 1859, pp. 45, 46, 360; id. Ibis, 
 1859, p. 445; id. Cat A. B. p. 213; Scl. et Salv. Ibis, 1850, 
 
-p. 124; iid. F. Z. 8. 1870, p. 837 ; Zawr. Ann. L. N. Y. vii. p. 328, 
+p. 124; iid. F. Z. 8. 1870, p. 837 ; Lawr. Ann. L. N. Y. vii. p. 328, 
 ix. p. Ill 5 Frantz. I.f. 0. 1869, p. 307. 
 Above uniform olive-green; wings and tail blackish with olive 
 edgings : beneath rather lighter, abdomen yellowish rufous ; under 
@@ -10052,7 +10052,7 @@ Ibis, 1800, p. 194.
 
 Tyranniscus vilissimus, Scl Cat. Am. B. p. 216; Scl et Salv. P. Z. S. 
 1870, p. 843 ; iid. Nomencl p. 48 ; Salv. Ibis, 1869, pp. 315, 318* 
-Frantz. J. f. 0. 1869, p. 307; Lawr. Ann. Lye. N. Y. ix. 
+Frantz. J. f. 0. 1869, p. 307; Lawr. Ann. Lyc. N. Y. ix. 
 
 p. 111. 
 Above olive, cap dark cinereous, broad front and superciliaries 
@@ -10081,7 +10081,7 @@ i. Ad. sk. Volcan de Fuego, Guatemala. Salvin-Godman Coll.
 k, I Ad. sk. Guatemala. J. Gould, Esq. 
 
 4. TsrranniscxLs parvus. 
-Tyranniscus parvus, Later. Ibis, 1862, p. 12; Ann. Lye. N. Y. vii. 
+Tyranniscus parvus, Later. Ibis, 1862, p. 12; Ann. Lyc. N. Y. vii. 
 
 p. 473, ix. p. 112; Scl. et Salv. P. Z. S. 1864, p. 359,1867, p. 981, 
 1870, p. 843; iid. Nomencl p. 48; Salv. P. Z. S. 1867, p. 147; id. 
@@ -11066,7 +11066,7 @@ b. 5 a(l. sk. Chepen, Peru (Stokmann)* Sclater Coll.
 51 . ELAESTEA. 
 145 
 10. Elainea frantzii. 
-Elamea frantzii, Zawr. Ann. L. N. Y. viii. p. 172, et ix. p. 42 (Costa 
+Elamea frantzii, Lawr. Ann. L. N. Y. viii. p. 172, et ix. p. 42 (Costa 
 Rica); Frantz. J. f 0. 1809, p. 307: Salv. P. Z. S. 1870, p. 197 
 (Veragua); Scl P. Z. S. 1870, p. 835; Bone. P. Z. S. 1878, p. 68 
 (Costa Rica)-Scl et Salv. Nomtnd. p. 49; iid. P. Z.S. 1879, 
@@ -11646,7 +11646,7 @@ a. Ad. sk. Bahia, Brazil ( Wucherer). Sclater Coll.
 bj c. Ad. sk. Bahia, Brazil (Wucherer). Salvin-Godman Coll. 
 23. Elainea arenarum. 
 Elainea 
-arenarum, Salv. P. Z.8. 1863, p. 190; Zawr. Ann. L. N. Y. 
+arenarum, Salv. P. Z.8. 1863, p. 190; Lawr. Ann. L. N. Y. 
 ix p. 112 5 Frantz. J. f. 0.1869, p. 307; Scl. et Salv. Nomencl. 
 
 p. 49. 
@@ -12183,7 +12183,7 @@ Myiozetetes texensis, Scl. P. Z. S. 1859, pp. 45, 56, 366, 1864, p. 423,
 1871, pp. 751, 753; id. Ibis, 1859, p. 443; Scl et Salv. Ibis, 1859, 
 
 p. 123; iid. P. Z. S. 1867, p. 279, 1870, p. 837, et 1879, p. 513 ; iid. 
-Nomencl. p. 49; Cab. et Hem. Mus. Hem. ii. p. 62; Lawr. Ann. Lye. 
+Nomencl. p. 49; Cab. et Hem. Mus. Hem. ii. p. 62; Lawr. Ann. Lyc. 
 N. T. viii. p. 182, et ix. pp. 112, 201; Owen, Ibis, 1861, p. 64; 
 Cab. J.f. 0. 1861, p. 245; Boucard, P. Z. S. 1878, p. 63, et 1883, 
 p. 447; Frantz. J. f. 0.1869, p. 307 ; Finsch, P. Z. S.1870, p. 569 ; 
@@ -13550,7 +13550,7 @@ d. Ad. sk. Porto Rico (Bryant). Sclater ColL
 e. Ad. sk. Porto Rico (Bryant). Mrs. Bryant [P.]. 
 10. Pitangus gabbi 
 Pitangus 
-gabbii, Lawr. Ann. Lye. Nat. Hist. K Y. xi. p. 288 
+gabbii, Lawr. Ann. Lyc. Nat. Hist. K Y. xi. p. 288 
 (1876); Cory, Bull. Nutt. Orn. Club, vi. p. 153 (1881) j id. B. of 
 Haiti and 8. Domingo, p. 76 (1885). 
 
@@ -13753,7 +13753,7 @@ p.
 q. $ ad. sk. Santa Bosa, Costa Bica (Carmiol). Salvin-Godman Coll. 
 2. Myiodynastes noMLis. 
 Myiodynastes nobilis, Sclater, P. Z. S. 1859, pp. 42, 43, et 1800, 
-p. 295; id. Cat A. B. p. 223; Lawr. Ann. Lye. N. Y. vii. p. 295, 
+p. 295; id. Cat A. B. p. 223; Lawr. Ann. Lyc. N. Y. vii. p. 295, 
 viii. p. 177, ix. p. 114; Scl et Sah. P. Z. S. 1864, p. 360; Sah. 
 TYEAOTID.2G. 
 
@@ -14181,7 +14181,7 @@ Scaphorhynchus mexicanus, Lafr. Rev. Zool 1851, p. 473; Sol. Ibis,
 Megarhynchus niexicanus, Rein. J.f.O. 1859, p. 346; Cdb.et Hein. 
 Mus. Hein. ii. p. 64; Cab. J.f. 0.1861, p. 246; Scl. Cat. A. B. 
 
-p. 224; Sol. et Salv. P. Z. S. 1864, p. 360, et 1870, p. 837 ; Zawr. 
+p. 224; Sol. et Salv. P. Z. S. 1864, p. 360, et 1870, p. 837 ; Lawr. 
 Ann. Z. N. Y. viii. p. 182, ix. p. 201; Frantz. J. f O. 1869, 
 p. 308; Nehrkorn, J.f. 0.1881, p. 67. 
 Megarh.ynch.us chrysocephalus, Heme, J. f. O. 1859, p. 345 (nee 
@@ -14495,7 +14495,7 @@ e,f. Ad. sk. Brazil. J. G-ould, Esq.
 Muscivora mexicana, Sclater, P. Z. S. 1850, p. 295,1858, p. 301, et 
 1859, pp. 45, 56; id. Ibis, 1859, p. 443; id. Cat. A. B. p. 225; Scl. 
 et Salv. Ibis, 1859, p. 124; iid. P. Z. S.1864, p. 360 (Panama), et 
-1807, p. 148 (Veragua); iid. Nomencl. p. 50; Bator. Ann. Lye. 
+1807, p. 148 (Veragua); iid. Nomencl. p. 50; Bator. Ann. Lyc. 
 
 N. Y. vii. pp. 295, 329 (Panama), ix. p. 114 (Costa Rica) et 
 p. 201 (Yucatan) ; Frantz. J. f. 0. 1869, p. 308 (Costa Rica) ; 
@@ -14978,7 +14978,7 @@ Myiobius sulphureipygius, Scl P. Z. S. 1860, p. 465; id. Ibis, 1859,
 
 
 p. 442, et 1873, p. 373: id. Cat. A. B. p. 226 j Scl. H Salv. Ibis, 
-1860, p. 399; iid. Nomencl. p. 51; Lawr. Ann. Lye. N. Y. viii. 
+1860, p. 399; iid. Nomencl. p. 51; Lawr. Ann. Lyc. N. Y. viii. 
 p. 8, ix. p. 114; Salv. P.Z.S. 1867, p. 148, et 1870, p. 198; 
 Frantz. J.f.O. 1869, p. 308: Ridgw. P. U. 8. N. M. vi. p. 402. 
 Myiobius citrinopygius, Cab. et Hein. Mus. Hein. ii. p. Q7. 
@@ -15100,7 +15100,7 @@ Tyrannula cinnaniomea, Sclater, P. Z. S. 1855, p. 149.
 
 Myiobius einnamomeus, Sclater, P. Z. S. 1858, p. 554, et 1860, p. 466 ; 
 
-id. Cat. A. B. p. 226; Laior. Ann. Lye. N, Y. vii. pp. 328,472; Sol. 
+id. Cat. A. B. p. 226; Laior. Ann. Lyc. N. Y. vii. pp. 328,472; Sol. 
 et Salv. P. Z. S. 1873, p. 186, et 1879, pp. 514, 615; iid. Nomeneh 
 
 p. 51 ; Tacz. P. Z. S. 1874, p. 537, 1879, p. 235, et 1882, p. 21; id. 
@@ -15167,7 +15167,7 @@ Caracas, Venezuela. D. Dyson [G.].
 6. Myiobius erythrurus. 
 Myiobius erythrurus, Cab. Wiegm. Arch. 184£i. p. 249, pi. 5. fig. 1; 
 id. in Sc/iomb. Guian. iii. p. 701; Sclater*, P. Z. S. 1858, p. 70, et 
-1860, pp. 295, 46(3; id. Cat. A. B. p. 226 ; Lawr. Ann. Lye, N. Y. 
+1860, pp. 295, 46(3; id. Cat. A. B. p. 226 ; Lawr. Ann. Lyc. N. Y. 
 
 vii. p. 472, ix. p. 114; Frantz. J.f. 0.1869, p. 308 ; Pek. Orn. Bras. 
 p. 114; Scl. et Salv. P.Z.S. 1867, pp. 578, 595, 751, et 1873, 
@@ -15588,7 +15588,7 @@ p. 486.
 Tyrannula ferruginea, Sw. Orn. Br. pi. 53. 
 Tyrannula chrysoceps, Hartl. Vers. Mus. Brem. p. 49. 
 Myiobius nsevius, Scl P. Z. S. 1860, p. 466, et 1873, p. 780; id. Cat 
-A. B. p. 227; Lawr. Ann. Lye. N. Y. ix. p. 89; Scl. et Salv, P. Z. S. 
+A. B. p. 227; Lawr. Ann. Lyc. N. Y. ix. p. 89; Scl. et Salv, P. Z. S. 
 1860, p. 189, 1868, pp. 138, 142,168, 1873, pp. 186, 281, 1876, 
 p. 16, et 1879, pp. 514, 615; iid. Nbmencl. p. 51; Pelz. Orn. Bras. 
 p. 114 ; Wyatt, Ibis, 1871, p. 333 ; Berl J. f. O. 1873, p. 259, et 
@@ -15997,7 +15997,7 @@ Pyrocepbalus rubineus, Cass. B. Calif, p. 127, pi. 18; Scl. P. Z, S.
 
 p. 176 (Mexico); id. Ibis, 1859, p. 442; id. Cat. A. B. p. 227; 
 Cab. et Mem. Mus. Mein. ii. p. 68; Scl. et Salv. Ibis, 1860, p. 399 
-(Guatemala); iid. Nomencl. p. 51; Lawr. Ann. Lye, N. Y. ix. 
+(Guatemala); iid. Nomencl. p. 51; Lawr. Ann. Lyc. N. Y. ix. 
 p. 201 (NT. Yucatan); Boucard, P. Z. S. 1883, p. 448 (Yucatan). 
 Pyrocepbalus rubineus, var. mexicanus, Baird, Breiv., et Ridgw. N. 
 A. B. ii. p. 387. 
@@ -16119,7 +16119,7 @@ Guatemala.
 
 3. Pyrocephalus nanus. 
 Pyocephalus nanus, Gould, in Zool. Voy. ' Beagle/ iii. p. 45, pi. 7; 
-Lawr. Ann, Lye. N. T. ix. p. 201 (N. Yucatan) • ScL et Sah. 
+Lawr. Ann. Lyc. N. T. ix. p. 201 (N. Yucatan) • ScL et Sah. 
 
 F. Z. S. 1870, p. 323 (Galapagos Is.); iid. Nomencl. p. 51; Sundevall, 
 F. Z. S. 1871, p. 125 (Galapagos Is.); Sharpe, F. Z. S. 1877, 
@@ -16543,7 +16543,7 @@ This species I have not yet met with.
 4. Mitrephanes capitals. 
 Myiobius capitalis, Salvin, P. Z. S. 1864, p. 583 (Costa Rica); 
 
-Lawr. Ann. Lye. N. Y. ix. p. 114; Franks. J. f. 0. 1869, p. 308; 
+Lawr. Ann. Lyc. N. Y. ix. p. 114; Franks. J. f. 0. 1869, p. 308; 
 
 8cL et Salv. Nomencl. p. 51. 
 
@@ -16956,7 +16956,7 @@ i. Ad. sk. Repulse Bay, Arct. Am. Br. J. Rae [C.J.
 Muscicapa traillii, Aud. Orn. Biogr. i. p. 236; id. B. Am. i. p. 234, 
 pi. 65. 
 Empidonax traillii, Baird, B. N. Am. p. 193; Cab. et Hem. Mm. 
-Hem. ii. p. 70; Scl. Cat. A. B. p. 229 ; Later. Ann. Lye. JV. Y. 
+Hem. ii. p. 70; Scl. Cat. A. B. p. 229 ; Later. Ann. Lyc. JV. Y. 
 
 viii. pp. 8, 290; et ix. p. 114 (Costa Rica) et p. 201 (Yucatan); 
 Blakiston, Ibis, 1863, p. 58; Dresser, Ibis, 1865, p. 474 (Texas) ; 
@@ -16965,10 +16965,10 @@ iljiA',Boucard, P. Z. S. 1888, p.448(Yucatan) ; NelirUng,J.f O.
 1883, p. 92 (Illinois); Coues, Keg N. A. B. 1884, p. 441. 
 Empidonax pusillus, var. traillii, Baird, Brew, et Rtdgto. N. A. B* 
 
-ii. p. 369; Ridgw. Ann. Lye. K T. x. p. 376 (Illinois) ; id. Mis, 
+ii. p. 369; Ridgw. Ann. Lyc. K T. x. p. 376 (Illinois) ; id. Mis, 
 1886, p. 464; id. Man. N. A. B. p. 343; Merrill, P. U.S. N. M. 
 i. p. 137 (Texas); Nehrling, J.f 0. 1883, p. 92 (Illinois). 
-Empidonax traillii, var. pusillus, Henshaw, Ann. Lye. N. Y. xi. p. 8 
+Empidonax traillii, var. pusillus, Henshaw, Ann. Lyc. N. Y. xi. p. 8 
 (Utah). 
 
 Similar \o & jmsillns, but more decidedly olivaceous above and 
@@ -17019,16 +17019,16 @@ Baird, B. N. Am. p. 195; Sclater, P. Z. S.
 et 8alv. Ibis, 1859, p. 122; iid. P. Z. S. 1870, p. 837 (Honduras); 
 ud. Nomenel. p. 52; Blakiston, Ibis, 1863, p. 58; Dresser, Ibis, 
 1865, p. 474 (Texas); Baird, Brew, et ttidgw. N. A. B. ii. p. 372; 
-Lawr. Ami. Lye. N. Y viii. p. 290 (New York); Fidgw. Ann. Lye. 
+Lawr. Ami. Lye. N. Y viii. p. 290 (New York); Fidgw. Ann. Lyc. 
 
 N. Y. x. p. 370 (Illinois); id. Ibis, 1886, p. 465 • id. Man. N. A. B. 
-p. 343: Brewst. Ann. Lye. JV. Y xi. p. 143 (West Virginia); 
+p. 343: Brewst. Ann. Lyc. JV. Y xi. p. 143 (West Virginia); 
 Brewer, F. U.S. N. M. ii! p. 5 (eggs); Merrill, P. U.S. N. M. I 
 p. 137 (Texas); Cones, Key N. A. B. 1884, p. 442; Tacz. F. Z. 8. 
 1879, p. 235; id. Orn. Per. ii, p. 315 (?) ; Boucard, P. Z. S. 1883, 
 p. 448 (Yucatan); Nehrling, J.f. 0.1883, p. 92 (Illinois); Turner, 
 P. US. N. M. viii. p. 242 (Labrador). 
-Empidonax pectoralis, Lawr. Ann. Lye. K Y. viii. p. 402 (Panama). 
+Empidonax pectoralis, Lawr. Ann. Lyc. K Y. viii. p. 402 (Panama). 
 Empidonax minimus, var. pectoralis, Fidgw. N. A. B. ii. p. 364. 
 Empidonax gracilis, Fidgw. Pr. Biol. Soc. Wash. iii. p. 23 (1886); id. 
 F. US. N. M. viii. p. 571 (Oozumel). 
@@ -17109,11 +17109,11 @@ Muscicapa acadica, Gm. S. N. i. p. 947; Lath. Ind. Orn. ii. p. 489.
 Muscicapa querula, Wils. Am. Orn. ii. p. 77, pi. 13. fig. 3. 
 Empidonax acadicus, Baird, B. N. Am. p. 197 ', Cab. et Hein. Mus. 
 
-Hein. ii. p. 70; Lawr. Ann. Lye. N. Y. vii. p. 205 (Cuba), et viii. 
+Hein. ii. p. 70; Lawr. Ann. Lyc. N. Y. vii. p. 205 (Cuba), et viii. 
 
 p. 290,-Gundl. J. f. 0. 1861, p. 328,1802, p. 189, et 1872, p. 427 
 (Cuba); Scl Cat. A. B. p. 229 ; Dresser, Ibis, 1865, p. 475 (Texas); 
-Scl. et Salv. Nomencl. p. 52 ; Mdyw. Ann. Lye. N. Y. x. p. 376 (Illinois) 
+Scl. et Salv. Nomencl. p. 52 ; Mdyw. Ann. Lyc. N. Y. x. p. 376 (Illinois) 
 ; id. Ibis, 1880, p. 465; id. Man. N. A. B. p. 342; Baird, Brew, 
 et Bidgw. N. A. B. ii. p. 374; Merrill, P. U.S. N. M. i. p. 137 
 (Texas) ; Brewer, P. U.S. N. M. ii. p. 5; Nehrling, J. f. 0. 1883, 
@@ -17164,7 +17164,7 @@ JV. A. B. p. 340; Brewer, P. US. K M. ii. p. 2; Bean, P. U.S.
 ^ X M. v. p. Wl (Alaska). 
 Empidonax fiaviventris, var. diflicilis, Baird, Brew, et Ridyw. N. A. B. 
 
-ii. p„ »teO j IhmhaiDf Ann. Lye. N. Y. xi. p. 8 (Utah); Coues. Key 
+ii. p„ »teO j IhmhaiDf Ann. Lyc. N. Y. xi. p. 8 (Utah); Coues. Key 
 K A. B. 1884, p. 442. 
 Under wing-coverts pale buff, deepening into dull ochraceous on 
 edge of wing; above dull greyish olive (more brownish in winter), 
@@ -17217,7 +17217,7 @@ Empidonax
 flaviventris, Baird, B. N* Am. p. 198; Sclater, P.Z.S. 
 1859, p. 366: id. Ibis, 1859, p. 441; id. Cat. A. B. p. 229 ; Sclat. et 
 Salv. Ibis, 1859, p. 122 ; iid. P. Z. S. 1864, p. 360 (Panama), et 
-1870, p. 837 (Honduras) ; iid. Nomencl p. 52; Latur. Ann. Lye. 
+1870, p. 837 (Honduras) ; iid. Nomencl p. 52; Latur. Ann. Lyc. 
 
 N. Y. viii. pp. 8,290, et ix. p. 114 (Costa Rica); Dresser, Ibis, 
 1865, p. 475 (Texas) ; Frantz. X f. 0. 1869, p. 308 (Costa Rica); 
@@ -17290,7 +17290,7 @@ t. c$ ad. sk. Panama (McLeannan). Salvin-Godman Coll.
 Empidonax bairdii, Scl P. Z.S. 1858, p. 301; id. Ibis, 1859. p. 442; 
 id. Cat. A. B. p. 230 ; Sclat. et Salv. Ibis, I860, p. 36; iid. Nomencl. 
 
-p. 52; Lawr. Ann. Lye. N. Y. vil p. 327 (Panama) ; Baird, Brew, 
+p. 52; Lawr. Ann. Lyc. N. Y. vil p. 327 (Panama) ; Baird, Brew, 
 et Pidgw. N. A. B. ii. p. 363; Pidgw. Ibis, 1886, p. 466: id. Man. 
 N. A. B. p. 341. 
 > >v > 
@@ -17351,7 +17351,7 @@ h. Ad. sk. Guatemala. 0. Salvin [0.].
 i Ad sk. Coban, Vera Paz (Constamia). Sclater Coll. 
 / Ad. sk. Honduras. I>. Dyson [C.]. 
 15. Empidonax flavescens. 
-Empidonax flavescens, Lawr. Ann. Lye. N. Y.viji. p. 138, et ix. 
+Empidonax flavescens, Lawr. Ann. Lyc. N. Y.viji. p. 138, et ix. 
 p. 115 (Oosta Rica); Frantz. J. f. 0. 1869, p. 308 (Costa Hica); 
 Salv. R Z. S. 1870, p. 198 (Veragua); Scl. et Salv. NotnmcLv.te; 
 Boucard. P. Z. S. 1878, p. 64 (Costa Eica); Bawd, Brew, et Ridgio. 
@@ -17393,7 +17393,7 @@ Tyrammla hamrnondii, JDeVeseg, JProe. Acad. PMIad. 1858, p. 117.
 Empidonax hammondii, Baird, B. N. Am. p. 190 ; ScL Cat. A. B. 
 
 p. 230 ; Baird, Breio. et Ridgw. N. A. B. ii. p. 383; Hemkaw7 
-Ann. Lye. N. T. xi. p. 8 (Utah) ; Ridgw. P. U.S. N. M. I p. 4211 
+Ann. Lyc. N. T. xi. p. 8 (Utah) ; Ridgw. P. U.S. N. M. I p. 4211 
 (C. California); id. Ibis, 1886, p. 407; id. Man. K A. B. p. 344; 
 Brewer, P. U.S. N. M. ii. p. ] (eggs); Coues, Keg N. A. B. 1884, 
 p. 443. 
@@ -17412,13 +17412,13 @@ Tyrannula obseura, Sw. Phil. Mag. 1827, L p. 367.
 Empidonax obscurus, Baird, B. N. Am. p. 200; Sclater, P. Z. &. 
 1862, p. 19 (Mexico); id. Cat. A. B. p. 230; ScletSah. Nommcl 
 
-p. 52; Henshaw, Ann. Lye. N. Y. xi. p. 8 (Utah); Baird, Brew. 
+p. 52; Henshaw, Ann. Lyc. N. Y. xi. p. 8 (Utah); Baird, Brew. 
 et Ridgw. N. A. B. ii. p. 381; Ridgw. P. U.S. N. M. i. p. 426 
 (California); id. Ibis, 1886, p. 468; id. Man. M. A. B. p. 344: 
 Brewer, P. U.S. N. M. ii. p. 1 (eggs); Coues, Keg N. A. B. 
 1884, p. 443. 
 Empidonax 
-Mvipectus, Lawr. Ann. Lye. N. T. x. p. 11 (1871) 
+Mvipectus, Lawr. Ann. Lyc. N. T. x. p. 11 (1871) 
 (City of Mexico); Sah. Ibis, 1874, p. 310; Ridgw. N. A. B. if. 
 
 p. 364; id. Ibis, 1886, p. 468; id. Man. N. A. B. p. 344. 
@@ -17548,7 +17548,7 @@ Muscicapa inornata, Nutt. MS. [cf. Man. i. p. 282).
 
 Contopus borealis, Baird, B. N. Am. p. 188; Sal Cat. A. B. p. 230; 
 
-Later. Ann. Lye. N. Y. viii. p. 290, ix. p. 115; Ridgw. Ann. L. N. Y. 
+Later. Ann. Lyc. N. Y. viii. p. 290, ix. p. 115; Ridgw. Ann. L. N. Y. 
 
 x. p. 376 (Illinois) j Dresser, Ibis, 1865, p. 474 (Texas); Frantz. 
 J.f. 0.1869, p. 308 (Costa Bica); Sato. P. Z. S. 1870, p. 199 (Ve* 
@@ -17787,7 +17787,7 @@ et Hem. Mas. Hein. ii. p. 71; Sclater, P. Z. S.1859, p. 43 ; id. Cat.
 A. B\ p. 231; Cab. J. f. 0.1861, p. 248 (Costa Rica); 8cl et Salv. 
 Ibis, 1859, pp. 122, 441; iid. P. Z. S. 1864, etp. 360 (Panama), et 
 1870, p, 837 (Honduras) ; iid. Mmenel. p. 52; Dresser, Ibis, 1865, 
-p. 474 (Texas) ; Lawr. Ann. Lye. N. Y. viii. p. 290, ix. p. 115 (Costa 
+p. 474 (Texas) ; Lawr. Ann. Lyc. N. Y. viii. p. 290, ix. p. 115 (Costa 
 Rica); Pidgw. Ann. L. JSr. Y. x. p. 376 (Illinois) ; Frantz. J.f.O. 
 1869, p. 308 (Costa Rica); Merrill, P. U. 8. N. M. i. p. 137 (Texas) ; 
 Boucard, P. Z. S.1878, p. 64 ("Costa Rica); 8ah\ et God?n. Ibis, 
@@ -17883,7 +17883,7 @@ Contopus richardsonii, Baird, B. N. Am. p. 189; Scl. Cat. A. B.
 
 p. 231; Scl. et Salv. P. Z. S.1864, p. 360 (Panama), et 1879, p. 615 
 (Bolivia); iid. Nomencl. p. 52 j Dresser, Ibis, 1865, p. 474 (Texas); 
-Laior. Ann. Lye. N. T. ix. p. 115 (Costa Eica) ; Frantz. J. f. O. 
+Laior. Ann. Lyc. N. T. ix. p. 115 (Costa Eica) ; Frantz. J. f. O. 
 1809, p. 308 (Costa Eica) ; Salv. P. Z. S. 1870. p. 199 (Veragua); 
 Merrill, P. US. K M. i. p. 137 (Texas); Bidgw. P. US. N. M. i. 
 p. 425; Berl et Tacz. P. Z. S. 1883, p. 558,1884, p. 297, et 1885, 
@@ -17946,23 +17946,23 @@ b'. Ad. sk. Ecuador (Fraser). Salvin-Godman Coll.
 c\ Ad. sk. Nairapi, Bolivia (Buckley). Salvin-Godman Coll. 
 9. Contopus brachytarsiLS. 
 Empidonax brachytarsus, Sclater, Ibis, 1859, p. 441 (Mexico); Lawr. 
-Ann. Lye. N. Y. vii. p. 327(Panama). 
+Ann. Lyc. N. Y. vii. p. 327(Panama). 
 Contopus brachytarsus, Salvin, Ibis, 1861, p. 354; id. P. Z. S. 1870, 
 
 p. 199 (Veragua); Scl. Cat A. B. p. 231; Scl et Salv. RZ.S. 
 1864, p. 860 (Panama), 1867, p. 578 (Lower Amazons), 1868, 
 pp. 168, 628 (Venezuela), 1870, p. 781 (Venezuela); Laiur. 
-Ann. Lye. N. Y. ix. p. 89 (Costa Rica); White, P. Z. S. 1882, 
+Ann. Lyc. N. Y. ix. p. 89 (Costa Rica); White, P. Z. S. 1882, 
 p. 608 (Arg. Rep.) ; Bidgw. P. U.S. K M. vii. p. 173 (Trinidad); 
 id. Man. N. A. B. p. 339; Scl. et Muds. Arg. Orn. i. p. 156. 
 Empidonax andinus, Taez. P. Z. S. 1874, p. 539, et 1879, p. 235 
 (Peru). 
-Contopus punensis, Lawr. Ann. Lye. N. Y. ix. p. 237 (Puna Is.); 
+Contopus punensis, Lawr. Ann. Lyc. N. Y. ix. p. 237 (Puna Is.); 
 Taez. P. Z. S. 1877, p. 474, et 1880, p. 203 (Peru) ; id. Orn. Per. ii. 
 
 p. 319; Berl. et Tacz. P. Z. S. 1883, p. 558, et 1885, p. 122 (W. 
 Ecuador). 
-Contopus schottii, Lawr. Ann. Lye. N. Y. ix.' p. 202; Bidgw. 
+Contopus schottii, Lawr. Ann. Lyc. N. Y. ix.' p. 202; Bidgw. 
 
 P. U.S. N. M. viii. p. 571 (Yucatan). 
 Above dark plumbeous olive; crown darker, blackish; wings and 
@@ -18463,7 +18463,7 @@ TySnnttlnlus, Su>. Quart Journ. 8c. xz. p. 271; Max. J. f. O.
 
 p. 178; Sel. Cat. A. B. p. 232; Sel et Salv. Ibis, 1859, pp. 122, 
 440; iid. Nomencl p. 52,-Baird, Brew, et Bidgw. N. A. B. ii. 
-p. 334; Coues, Key N. A. B. 1884, p. 434; Lator. Ann. Lye. N. Y. 
+p. 334; Coues, Key N. A. B. 1884, p. 434; Lator. Ann. Lyc. N. Y. 
 vii. p. 327 (Panama), et is. p. 115 (Costa Eica); Dresser, Ibis, 
 1865, p. 473 (Texas); Frantz. J.f 0.1869, p. 308 (Gosta Rica) ; 
 Gundl J. f. 0. 1871, p. 293, et 1872, p. 420 (Cuba); Boueard, 
@@ -18533,7 +18533,7 @@ Lion Hill, Panama Salvin-Godman Coll.
 (McLeannan). 
 
 2. Eyiarclras cinerascens. 
-Tyrannula cinerascens, Lator. Ann. Lye. N. Y. v. p. 121 (1851). 
+Tyrannula cinerascens, Lator. Ann. Lyc. N. Y. v. p. 121 (1851). 
 Myiarchus cinerascens, Sel. et Salv. Ibis, 1859, p. 121; iid. Nomencl 
 
 p. 52; 8ol. Ibis, 1859, p. 440; id. P. Z. S. 1859, p. 384, et 1871* 
@@ -18732,7 +18732,7 @@ Marta) j Taez. Orn. PSr. ii. p.320; Berl Ibis, 1883, p. 140.
 Myiarchus crinitus, var. irritabilis, Coaes, Br. Ac. Sc, Phil. 1872, 
 
 p. 65; Baird, Breto. et Bidgw. N. A. B. ii. p. 331 (part.). 
-Myiarchus oberi, Lawr. Ann. Lye. N. Y. i. pp. 59,191, 239, 271, 
+Myiarchus oberi, Lawr. Ann. Lyc. N. Y. i. pp. 59,191, 239, 271, 
 et viii. p. 622 ( W. Indies); id. Ann. New York Acad Sci. i. p. 48; 
 LMer, Ibis, 1880, p. 41 (St. Vincent); Scl. Ibis, 1880, p. 74 (W. 
 Indies); Cory, Ibis, 1886, p. 473 (St. Vincent). 
@@ -19156,7 +19156,7 @@ Myiarchus lawrencii, Baird, B. N. Am. p. 181; Sclater, P. Z. S.1859,
 pp. 366, 384; id. Ibis, 1859, p. 440; id. Oat. A. B. p. 233: Mat 
 et Salv. Ibis, 1859,p. 121 (Guatemala); Ud. P.Z.8. 1870, p. m 
 (Honduras) ; iid. Nomencl. p. 52; G. C. Taylor, Ibis, 1860, p. 114 
-(Honduras); Law. Ann. Lye. N. Y. viii. p. 182 (Nicaragua), et 
+(Honduras); Law. Ann. Lyc. N. Y. viii. p. 182 (Nicaragua), et 
 ix.pp. 115, 204; Frantz. J.f.O. 1869, p. 308 (Costa Bica) ; Owes, 
 Br. Ac. Sc. Phil 1872, p. 74; Boucard, P. Z. S.1883, p. 448 (Yucatan) 
 j Bidgw. Man. N. A. B. p. 335. 
@@ -19631,7 +19631,7 @@ Myiarchus fuscus, Cab. Wiegm. Arch. 1847, pt. i. p. 248; Sclater,
 
 P. Z. S. 1859, p. 866; id. Ibis, 1859, p. 440 (Mexico). 
 Empidias fuscus, Cab. et Rein. Mus. Rein. ii. p. 69; Set Cat. A. R, 
-p. 234; Lawr. Ann. Lye. N. Y. viii. p. 290 (New York); Scl. et 
+p. 234; Lawr. Ann. Lyc. N. Y. viii. p. 290 (New York); Scl. et 
 Salv. Nomencl. p. 53. 
 Sayomis fuscus, Baird, B. 2V*. Am. p. 184; Baird, Brew, et Ridgto* 
 f JST. A. B. ii. p. 343; Dresser, Ibis, 1865, p. 473 (Texas) ; Coues. 
@@ -19877,13 +19877,13 @@ TYRANITCD^:.
 1857. p. 232 (S. Domingo), et 1858, p. 302 (Mexico); id. Ibis, 1859, 
 
 p. 439 (Mexico); Max. J. f. O. 1858, p. 181* Moore, P. Z. S. 1859, 
-p. 55 (Honduras); Lawr. *Ann. Lye. N. Y. yii. p. 295, et ix. p. 89. 
+p. 55 (Honduras); Lawr. *Ann. Lyc. N. Y. yii. p. 295, et ix. p. 89. 
 Mtiscicapa animosa, Licht. Doubl. p. 54. 
 Tyrannus leucogaster, Steph. Gen. Zool. xiii. pt. Ii p. 133. 
 Tyrannus caroknensis, Temm. Tail, Meth. p. 24; Baird, B. JV. A?n. 
-p. 171; Cab. et Hem. Mus. Hein. ii. p. 79 ; Lawr. Ann. Lye. X. Y. 
+p. 171; Cab. et Hem. Mus. Hein. ii. p. 79 ; Lawr. Ann. Lyc. N. Y. 
 viii. pp. 182,290; BlaJciston, 3is, 1862, p. 3, et 1863, p. 57; Dresser, 
-Ibis, 1865, p. 472 (Texas)• Ridgio. Ann. Lye. X Y x. p. 375; 
+Ibis, 1865, p. 472 (Texas)• Ridgio. Ann. Lyc. X Y x. p. 375; 
 id. P. U.S. X. M. i. p. 471; Xehrling, J. f. 0. 1883, p. 87 
 (Illinois) ; Baird, Brew, et Ridgw. X. A. B. ii. p. 316*• Coues, Key 
 N. A. B. 1884, p. 432. 
@@ -19966,7 +19966,7 @@ $ ad. sk. Nauta, Upper Amazons Salvin-Godman Coll.
 2. Tyrannus verticals, 
 Tyrannus verticalis, Say, in Long's Bxped. ii. p, 60 5 Baird, B. N. Am. 
 p. 173 j Scl Cat A. B. p. 235 ; Brown, Ibis, 1808, pp. 41% 420 
-(Vancouver I.) ; Scl. et Salv. Nomencl p. 53$ Ridgw. Ann. Lye. 
+(Vancouver I.) ; Scl. et Salv. Nomencl p. 53$ Ridgw. Ann. Lyc. 
 N. Y. x. p. 394; id. P. U.S. N. M. i. pp. 424, 408, 479; id. Man. 
 m A. B. p. 330; Baird, Brew, et Ridgw. N. A. B. ii. p. 324: 
 Corns, Key N. A. B. 1884, p. 433. 
@@ -20015,7 +20015,7 @@ p! 53: Ridgw. P. U.S. 1ST. M. i. p. 480, v. pp. 531, 541, et vi. p. 348
 fCalifornia); Baird, Brew, et Ridgw. N. A. B. ii. p. 327; Cones, 
 Key N. A. B. 1884, p. 433; Ridgw. Man. N. A. B. p. 330. 
 
-Tyrannus cassinii, Lawr. Ann. Lye. N. Y. v. p. 39, pi. 3. fig. 2 (1858). 
+Tyrannus cassinii, Lawr. Ann. Lyc. N. Y. v. p. 39, pi. 3. fig. 2 (1858). 
 Laphyctes vociferans, Cab. et Hein. Mus. Hetn. n. p. 77. 
 Muscicapa satelles, LicM. in Mtis. Berol. 
 
@@ -20158,7 +20158,7 @@ Bp. Consp. i. p. 192 (1850) ; 8cl Cat Am. B. p. 236; March,
 Proc. Ac. Sc. Phil. 1863, p. 287 (Jamaica) j Taylor, Ibis, 1864, 
 
 
-p. 169 (Porto Rico) ; Lawr. Ann. Lye. N. Y. viii. p. 98 (Sombrero) 
+p. 169 (Porto Rico) ; Lawr. Ann. Lyc. N. Y. viii. p. 98 (Sombrero) 
 et p. 182 (Nicaragua)• Bryant, Pr. Bost. Soe. Nat. Hist xi. p. 90 
 (1866): Cory, B. Bahama, i. p. 99(1880); id. Bull. JVutt Orn. 
 Club, vi. p. 153 (1881). 
@@ -20691,7 +20691,7 @@ Milvulus monachus, Sclater, Ibis, 1859, p. 439 (Mexico) ; id. P. Z. S.
 TYRASTNIDJB. 
 
 1859, p. 384 (S. W. Mexico); Scl et Salv. Ibis, 1859, p. 121 (Guatemala) 
-; Taylor, Ibis, I860, p. 114 (Honduras) ; Lawr. Ann. Lye. 
+; Taylor, Ibis, I860, p. 114 (Honduras) ; Lawr. Ann. Lyc. 
 
 N. Y. vii. p. 295; Baird, B. N. Am. p. 108. 
 Milvulus tyrannus, Cab. in Schomb. Guian. iii. p. 699; Cab. et Uein. 
@@ -20701,7 +20701,7 @@ Mas. Hein. ii. p. 78; Scl. P. Z.S. 185(5, p. 297, 1858, p. 358, et
 p. 251 (Costa Rica); Scl et Salv. P. Z. S. 1804, p. 361 (Panama), 
 1807, pp. 578, 978 (Lower Amazons), 1873, p. 282 (E. Peru), 
 1879, p. 516 (Antioquia) et p. 616 (Bolivia); iid. Nomencl p. 53 ,* 
-Lawr. Ann. Lye. N. Y. viii. p. 177, is. p. 116; Salv. P. Z. S. 
+Lawr. Ann. Lyc. N. Y. viii. p. 177, is. p. 116; Salv. P. Z. S. 
 1807, p. 149, et 1870, p. 199 (Veragua); id. Ibis, 3872, p. 318 
 (Nicaragua), et 1885, p. 299 (Br. Guiana); Frantz. J.f O. 1869, 
 p. 309 (Costa Rica); Wyatt, Ibis, 1871, p. 334 (Colombia): Layard, 
@@ -20831,7 +20831,7 @@ Ibis, 1859, p. 439; id. Cat. A. B. p. 237 ,* Sol et Salv. Ibis, 1859,
 
 p. 121; iid. NomencL p. 53; Taylor, Ibis, 1860, p. 114; (Honduras) 
 j Cab. J. f. 0. 1861, p. 252 (Costa Rica); Dresser, Ibis, 
-1865, p. 472 (Texas); Lawr. Ann. Lye. N. Y ix. p. 116; Frantz. 
+1865, p. 472 (Texas); Lawr. Ann. Lyc. N. Y.ix. p. 116; Frantz. 
 J.f. 0.1869, p. 309 (Costa Rica); Salv. Ibis, 187i?, p. 318 (Nicaragua) 
 ; Merrill, F. U.S. N. M. i. p. 137 (Texas); Bidgio. Ann. 
 Lye. N. Y. x. p. 394; id. F. U.S. N. M. vi. pp. 374, 384 (Nicaragua) 
@@ -21219,7 +21219,7 @@ Merume* Mts., Brit. Guiana Salvin-Godman Coll.
 
 5. Piprites griseiceps. 
 Piprites griseiceps, Salv. P. Z. S. 1864, p. 583 (Costa Bica) ; Lawr. 
-Ann. Lye. K Y. ix. p. 116 (Costa Rica); Frantz. J.f. 0. 1869, 
+Ann. Lyc. K Y. ix. p. 116 (Costa Rica); Frantz. J.f. 0. 1869, 
 
 p. 309 (Costa Rica). 
 Above olive-green; wings and tail blackish, edged with olive; 
@@ -21897,7 +21897,7 @@ Pipra mentalis, Scl P.Z. S. 1856, p. 299, pi. 121, et 1859, p. 385
 PIPRTD^I. 
 
 iid. P. Z. S. 1864, p. 362 (Panama), et 1870, p. 837 (Honduras) ; 
-iid. Nomencl. p. 54; Zawr. Ann. Lye. N. Y. ix. p. 116 (Costa 
+iid. Nomencl. p. 54; Lawr. Ann. Lyc. N. Y. ix. p. 116 (Costa 
 Rica); Frantz. J.f. 0. 1869, p. 309 (Costa Rica) ; Salv. P. Z. S. 
 1870, p. 200 (Veragua); id. Ibis, 1872, p. 318 (Nicaragua); 
 Boucard, P. Z. S. 1878, p. 66 (Costa Rica). 
@@ -22323,7 +22323,7 @@ ir.sk. (Whitely).
 Pipra leucorrhoa, 
 ScL JP. Z. S. 1863, p. 63, pi. x. (Colombia); 8alv. 
 JP.Z. S. 1867, p. 149, et 1870, p. 200 (Veragua) ; id. Ibis, 1872, 
-pp. 313, 318 (Nicaragua); Lawr. Ann. Lye. N. Y. ix. p. 116 
+pp. 313, 318 (Nicaragua); Lawr. Ann. Lyc. N. Y. ix. p. 116 
 (Costa Rica) ; Frantz. J.f.O. 1869, p. 309 (Costa Eica) ; Sd. et 
 Salv. Momenel p. 54; Boucard, JP. Z. S. 1878, p. 66 (Costa Eica); 
 Berl J.f. 0.1884, p. 305 (Bucaramanga). 
@@ -22892,7 +22892,7 @@ Scl. et Salv. Ibis, 1859, p. 124 (Central America); iid. NomencL
 
 p. 55; Salv. Ibis, 1860, p. 100, 1866, p. 203 (Guatemala), 1872, 
 p. 318 (Nicaragua); Cab. et Hein. Mus. Hem. ii. p. 95; Cab. 
-J. f. 0. 1861, p. 252 (Costa Rica); Later. Ann. Lye. N. T. ix. 
+J. f. 0. 1861, p. 252 (Costa Rica); Later. Ann. Lyc. N. T. ix. 
 p."116 (Costa Rica); Frantz. J. f. 0.1869, p. 309 (Costa Rica) ; 
 Boucard, P. Z.S. 1878, p. 66 (Costa Rica); Bidgw. P. U.S. N. M. 
 v. pp. 396, 500 (Costa Rica), et vi. p. 384 (Nicaragua). 
@@ -23679,7 +23679,7 @@ b. Ad. sk. San Esteban, Venezuela (Goering). Sclater ColL \
 Heteropelma verse-pacis, Scl. P. Z. S. 1860, pp. 300,467 (Guatemala), 
 1862, p. 19 (Mexico) ; id. Cat. A. B. p. 245; Scl et Sain. lbU, 
 1860, p. 400 (Guatemala) ; iid. P. Z. S. 1870,p. 837 (Honduras) ; 
-iid. Nomencl p. 55; Lawr. Ann. Lye. N. T. ix. p. 116 (Costa 
+iid. Nomencl p. 55; Lawr. Ann. Lyc. N. T. ix. p. 116 (Costa 
 Rica); Frantz. J.f. 0.1869, p. 309 (Costa Kiea); Salv. P. Z. S. 
 1870, p. 200 (Veragua), 1883, p. 424 (Panama). 
 
@@ -24321,7 +24321,7 @@ Tityra personata, Jard. et Selb. III. Orn. i. pi. 24j Sclater, P. Z. S.
 1859, p. 124; iid. P. Z. S. 1864, p. 361 (Panama), 1870, p. 837 
 (Honduras), 1873, p. 284 (E. Peru), 1879, p. 517 (Antioquia); 
 iid. Nomencl. p. 66; Cab. et Kein. Mm. JEein. ii. p. 83; Lator. 
-Ann. Lye. N. T. vii. p. 295 (Colombia), ix. pp. 116 (Costa Eica), 
+Ann. Lyc. N. T. vii. p. 295 (Colombia), ix. pp. 116 (Costa Eica), 
 204 (N. Yucatan) ; Cab. J.f O. 1861, p. 252 (Costa Eica) ; Salv. 
 
 P. Z. S.1867, p. 149, et 1870, p. 199 (Veragua) ; id. Ibis, 1872, p. 318 
@@ -24472,7 +24472,7 @@ id. Rev. Zool. 1848, p. 244; Sclater, F. Z. S. 1855, pp. 77, 150 (Bogota),
 
 A. B. p. 239 ; Scl et Salv. Ibis, 1860, p. 400 (Vera Paz) ; iid. P. Z. S. 
 1867, pp. 751, 757 (E. Peru), 1873, p. 284 (E. Peru), 1879, p. 517 
-(Antioquia); iid. Nomencl. p. 56 ,• Lawr. Ann. Lye. N. Y. vii. 
+(Antioquia); iid. Nomencl. p. 56 ,• Lawr. Ann. Lyc. N. Y. vii. 
 p. 295 (Colombia), viii. p. 182 (Nicaragua), ix. p. 116 (Costa Eica): 
 Frantz. J. f. 0. 1869, p. 309 (Costa Eica); Pelz. Orn, Bras. 
 p. 120; Salv. et 
@@ -24673,7 +24673,7 @@ Purchased.
 
 3. Hadrostomus homochrous. (Plate XXIV.) 
 Pachyrhamphus homochrous, Scl P. Z. S. 1859, p. 142, et 1860, p. 279 
-(Ecuador); Lawr. Ann. Lye. N. Y. vii. p. 473. 
+(Ecuador); Lawr. Ann. Lyc. N. Y. vii. p. 473. 
 
 2 . HADHOSXOMTJS. 
 Hadrostomus homochrons, 8cl. Cat A. B. p. 240; 8el et Sab. P. Z. S. 
@@ -24751,7 +24751,7 @@ Platypsaris affinis, FllioU Ibis, 1859, p. 394, pi. 13.
 Hadrostomus aglaise, Cab. et Hem. Mus. Ilein. ii. p. 85; Cab. 
 
 J.f.O. 1861, p. 252 (Costa Rica); Scl. Cat. A. B. p. 240; id. 
-P. Z. S. 1864, p. 176 (Mexico); Lawr. Ann. Lye. N. Y. ix. pp. 116 
+P. Z. S. 1864, p. 176 (Mexico); Lawr. Ann. Lyc. N. Y. ix. pp. 116 
 (Costa Rica), 204 (N, Yucatan); Frantz. J.f. 0. 1869, p. 309 
 336 
 COTINGIDiE. 
@@ -25388,7 +25388,7 @@ v, to. tf ad. sk. Sarayacu, Ecuador {Buckley). Salvin-Godman Coll.
 10. Pachyrhamphus cinereiventris. 
 Pachyrhamphus cinereiventris, Scl. Cat. A. B. p. 242; Scl. et Salv. 
 P. "Z. 8. 1864, p. 361 (Panama), 1879, p. 518 (Antioquia) ; Lawr. 
-Ann. Lye. N. T. ix. p. 116 (CostaRica),- Salv. P. Z. S.1867,p. 149, 
+Ann. Lyc. N. T. ix. p. 116 (CostaRica),- Salv. P. Z. S.1867,p. 149, 
 et 1870, p. 199 (Veragua); Front*. J. f. 0. 1869, p. 309 (Costa 
 Rica); Boucard, P. Z. S.1878, p. 65 (Costa Rica); Ridgw. P. U.S. 
 N. M. vi. p. 385 (Nicaragua). 
@@ -26146,7 +26146,7 @@ s, t. Ad. sk. Sarayacu, Ecuador (Buckley). Salvin-Godman Coll.
 Lipaugus rufescens, Scl. P. Z. S. 1857, p, 276 (Guatemala), et 18G1, 
 p. 211; Scl. et Salv. Ibis, 1859, p. 124 (Guatemala); iid. P. Z. S. 
 18G4, p. 361 (Panama); iid. Ex. Orn. pp. 5, 6, pi. iii.; Lawr. 
-Ann. Lye. N. T. vii. p. 330 (Panama), et ix. p. 116 (Costa Eica); 
+Ann. Lyc. N. T. vii. p. 330 (Panama), et ix. p. 116 (Costa Eica); 
 Salv. Ibis, 1866, p. 203 (Guatemala); id. P. Z. S. 1867, p. 149 
 (Veragua) ; Frantz. J.f. 0. 1869, p. 309 (Costa Eica). 
 Aulia rufescens, Scl. et Salv. Nomencl p. 57; iid. P. Z. S. 1879, p. 519 
@@ -26279,7 +26279,7 @@ Lipaugus holerythrus, Scl et Salv. P. Z. S. 1860, p. 300 (Guatemala),
 1864, p. 361 (Panama), 1867, p. 279 (Mosquitia), et 1879, p. 519 
 (Antioquia); iid. Ibis, 1860, p. 400 (Vera Paz); iid. Kv. Orn. p. 6; 
 iid. Nomencl. p. 57; Scl. P. Z. S. 1861, p. 211 (Guatemala); id. Cat. 
-A B. p. 244 : Lawr. Ann. Lye. N. Y. vii. p. 330 (Panama), et ix. 
+A B. p. 244 : Lawr. Ann. Lyc. N. Y. vii. p. 330 (Panama), et ix. 
 
 p. 116 (Costa Bica); Frantz. J. f. O. 1869, p. 309 (Costa Rica) ; 
 Salv. P. Z. S. 1867, p. 149, et 1870, p. 199 (Veragua); Wyatt, Ms, 
@@ -26501,7 +26501,7 @@ a, b. S ? ad. sk. Bartica Grove, Brit. Guiana Salvin-Godman ColL
 
 8 . ATTILA.. 361 
 4. Attila sclateri. 
-Attila sclateri, Zawr. Ann. Lye. Nat Hist N. Y. vii. p. 470 (1802) 
+Attila sclateri, Lawr. Ann. Lyc. Nat Hist N. Y. vii. p. 470 (1802) 
 (Panama), et ix. p. 110 (Costa Rica) ; Scl. et Salv. P. Z. S. 18(54, 
 
 p. 358 (Panama); iid. Nomencl. p. 57; Frantz. J. f. 0. 1809, 
@@ -26573,7 +26573,7 @@ Orn. p. 86 (Nicaragua).
 Attila citreopygius, Selater, P. Z. S. 1857, p. 228,1859, pp. 41, 366 
 383; id. Ibis. 1859, p. 438 (Mexico); id. Cat A. B. p. 194; Scl. 
 et Salv. Ibis, 1859, p. 120 (Guatemala); iid. P. Z. S. 1870, p. 837 
-(Honduras) ; Lawr. Ann. Lye. N T. viii. p. 7 (Colombia); Ridgw. 
+(Honduras) ; Lawr. Ann. Lyc. N T. viii. p. 7 (Colombia); Ridgw. 
 
 P. U.S. N. M. vi. p. 385 (Nicaragua); Bouc. P. Z. S. 1883, p. 449 
 (Yucatan). 
@@ -28181,7 +28181,7 @@ CGTIKGIDJE.
 Cotinga amabilis, Gould, F. Z. S. 1857, p. 64, pi. cxxiii. (Guatemala) ; 
 Sclater, F. Z. S. 1860, p. 252 (S. Mexico) ; id. Cat. A. B. p. 256 ; 
 Sol et Salv. Ibis, 1850, pp. 4, 5, 125 (Vera Paz); iid. Nomenel. 
-p. 59; Lawr. Ann. Lye. N. Y. ix. p. 117 (Costa Rica) ; Frantz. 
+p. 59; Lawr. Ann. Lyc. N. Y. ix. p. 117 (Costa Rica) ; Frantz. 
 
 J.f. 0. 1869, p. 310 (Costa Rica). 
 Ampelis amabilis, Cab. J.f. 0. 1861, p. 253 (Costa Rica). 
@@ -28594,7 +28594,7 @@ B. Bill yellow, culmeu black
 1. Carpodectes nitidus. 
 Carpodectes nitidus, 
 Salv. P. Z. S. 1864, p. 583, pi. xxxvi. (Costa 
-Rica) ; id. Ibis, 1872, p. 313 (Nicaragua) ; Lawr. Ann. Lye. N. Y. 
+Rica) ; id. Ibis, 1872, p. 313 (Nicaragua) ; Lawr. Ann. Lyc. N. Y. 
 
 viii. p. 183 (Nicaragua), ix. p. 117 (Costa Rica) ; Frantz. J.f. 0. 
 1869, p. 310 (Costa Rica) ,* Scl. et Salv. Nomencl. p. 58 ; Boucard, 
@@ -29047,7 +29047,7 @@ Muscicapa cruenta, JBodd. Table d. PL Bnl. p. 23.
 Querula cruenta, Scl. P. Z. S. 1855, p. 153 (Bogota); id. Cat. A.. B. 
 
 
-p. 257: Luxor, Ann. Lye. N. Y. vii. p. 296 (Panama), et ix. p . 117 
+p. 257: Luxor, Ann. Lyc. N. Y. vii. p. 296 (Panama), et ix. p . 117 
 (Costa Eica); Scl. et Salv. P. Z. S. 1864, p. 362 (Panama), 1806, 
 p. 191 (R. Ucayali), 1867, p. 580 (L. Amazons), 1873, p. 285 (E. 
 Peru), et 1879, p.*520 (Antioquia); iid. Nomencl. p. 59; Frcoitz. 
@@ -29346,7 +29346,7 @@ J. Gould, Esq.
 Cephalopterus 
 glabricollis, Gould, P. Z. S. 1850, p. 92, pi. xx.; 
 Cab. J. f. 0.1801, p. 254 (Costa Rica); Salv. P. Z. S. 1867, p. 150, 
-et 1870, p. 201 (Veragua) ; Lawr. Ann. Lye. N. Y. ix. p. 117 
+et 1870, p. 201 (Veragua) ; Lawr. Ann. Lyc. N. Y. ix. p. 117 
 (Costa Rica); Fronts. J.f.O. 1869, p. 310 (Costa Rica) ; Scl. et 
 Salv. Nomencl. p. 60; Boucard, P. Z. S. 1878, p. 60 (Costa Rica). 
 
@@ -29734,7 +29734,7 @@ Chasmorhynchus tricarimculatus, J. et F. Verreauv, Rev. Zool. 1853,
 p. 193 j Cab. Journ. f. Orn. 1861, p. 253 (Costa Rica) ; Scl. Cat 
 A. P. p. 258 j Salv. Ibis, 1865, p. 92, pi. iii. (Costa Rica); id. 
 P. Z. S. 1867, p. 150, et 1870, p. 200 (Veragua) ; Sol. Ibis, 1860, 
-pp. 406, 407; Lawr. Ann. Lye. N. Y. ix. p. 117 (Costa Rica); 
+pp. 406, 407; Lawr. Ann. Lyc. N. Y. ix. p. 117 (Costa Rica); 
 Frantz. Lf. 0. 1869, p. 310 (Costa Rica) j Sol. et Sato. Nomencl. 
 p. 59; Bernard, P. Z. S.1878, p. 66 (Costa Rica); Mdgw. P. U.S. 
 N. M. v. p. 496 (Costa Rica). 

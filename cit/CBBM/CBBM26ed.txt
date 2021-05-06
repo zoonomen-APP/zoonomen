@@ -3037,7 +3037,7 @@ Tantalides falcinellus, Wagler, Ms, 1832, p. 1231.
 Ibis ordi, Bp. Comp. List B. Eur. q N Amer. p. 49 (1838); Baird, 
 
 
-Cass., 8f Lawr. B. N. Amer. p. 685 (] 858); Lawr. Ann. Lye. N. T. 
+Cass., 8f Lawr. B. N. Amer. p. 685 (] 858); Lawr. Ann. Lyc. N. T. 
 viiL p. 292 (1866: New York). 
 
 Falcinellus igneus, Gray, List Gen. B. p. 87 (1841); id. List Grallm 
@@ -6864,10 +6864,10 @@ Taylor, Ibis, 1861, p. 129 (Florida); Scl. B. Z. S. 1861, p. 81
 Ibis, 1863, p. 129 (Minnesota); March, Broc. Bhilad. Acad. 1864, 
 p. 63 (Jamaica); Salvin, Ibis, 1865, p. 193 (Guatemala); Leot. Ois. 
 Trinidad, p. 404 (1866); Dresser, Ibis, 1866, p. 31 (S. Texas) ; 
-Coues, t c. p. 263 (Arizona) ; Lawr. Ann. Lye. N. Y. viii. p. 98 
+Coues, t c. p. 263 (Arizona) ; Lawr. Ann. Lyc. N. Y. viii. p. 98 
 (1866 : Sombrero); Baird, Ibis, 1867, p. 287 (Bermuda) ; Brown, 
 Ibis, 1868, p. 429 (Vancouver Isl.); Sundev. (Efv. K. Vet.-Akad. 
-Fork. Stockh. 1869, p. 589 (St. Bartholomew); Lawr. Ann. Lye. 
+Fork. Stockh. 1869, p. 589 (St. Bartholomew); Lawr. Ann. Lyc. 
 N. Y. ix. p. 210 (1869: Yucatan): Allen, Mem. Bost Soc. i. 
 p. 501 (1869 : Western Iowa); Ball $ Bann. Tr. Chicago Acad. 
 i. p. 289 (1869: Sitka); Scl. <$• Salv. P. Z. S. 1870, p. 323 (Indefatigable 
@@ -6877,7 +6877,7 @@ Coues, Broc. Bhilad. Acad. 1871, p. 33 (Fort Macon, N. Carol.);
 Allen, Bull. Mus. C. Z. iii. pp. 172,182 (Eastern Kansas; Great 
 Salt Lake Valley); Coues, Key N. Amer. B. p. 267 (1872); Scl. 
 fySalv. P. Z. S. 1873, p. 511 (Venezuela); iid. Nomencl. Av. Neotr. 
-p. 125 (1873); Coues, B. N.- West, p. 517 (1874); Midgut). Ann. Lye, 
+p. 125 (1873); Coues, B. N.- West, p. 517 (1874); Midgut). Ann. Lyc. 
 N. Y x. p. 387 (1874: Illinois); Hensh. Bep. Zool. IWth Merid. 
 p. 464 (1875: Camp Lowell, Arizona); Sennett, Bull. U.S. Geol. 
 Survey, iv. p. 58 (1878: Corpus Christi); Bidgw. t. c. p. 237; Coues, 
@@ -8758,7 +8758,7 @@ be the Reddish Egret (2). rufa).
 
 (1892: Jamaica); Corp, Cat. B. West Ind. p. 89 (1892): Allen, 
 Auk. x. p. 132 (1898). 
-Alien pealei, Bp. Ann. Lye. X. T. II. p. 154 (1826); id. B. Amer. IT. 
+Alien pealei, Bp. Ann. Lyc. X. T. II. p. 154 (1826); id. B. Amer. IT. 
 
 p. 96, pi. 20. tig. 1 (1833); less. Traite d'Om. p. 574 (1831); Gray, 
 Hand-L B. ill. p. 29, no. 10127 (1871); Bidgw. Man. X. Amer.B. 
@@ -10741,7 +10741,7 @@ Moore, P. Z. S. 1859, p. 63 (Omoa); A. $ B. Newton, Ibis, 1859,
 p. 262 (St. Croix); Cass. Froc. Phil. Acad. 1860, p. 379 (St. 
 Thomas) ; March, op. cit. 1864, p. 65 (Jamaica); Dresser, Ibis, 
 1866, p. 32 (S. Texas); Gundl. Bepert. Fisico-Nat. Cuba, i. p. 351 
-(1866); Lawr. Ann. Lye. N. Y. viii. p. 98 (1867: Sombrero); 
+(1866); Lawr. Ann. Lyc. N. Y. viii. p. 98 (1867: Sombrero); 
 Gundl. J.f. 0. 1875, p. 311 (Cuba); id. Anal. Soc.Bsp. Hist. Sat. 
 vii. p. 363 (1878: Porto Rico) ; Merrill, Pr. U.S. Nat. Mus. i. 
 p. 165 (1878: Fort Brown, Texas, breeding); Bidgio. Pr. U.S. 
@@ -12276,7 +12276,7 @@ Nyctiardea gardeni, Baird, B. N. Amer. p. 678 (1858); Very. Proc.
 "Essex Inst. iii. p. 158 (1862 : Maine, breeding) ; Allen, cp at. iv. 
 
 p. 76 (1864: Maine); March, Proc. Philad. Acad. 1864, p. 65 
-(Jamaica); Zawr. Ann. Lye. N. Y. viii. p. 292 (IbOtJ: New 
+(Jamaica); Lawr. Ann. Lyc. N. Y. viii. p. 292 (IbOtJ: New 
 York) ; Dresser, Ibis, 1866, p. 32 (8. Texas); Coues, t c. p. 263 
 (Arizona); id. Proc. Philad. Acad. 1866, p. 95; id. Proc. Bast. 
 Sue. N. H. xii. p. 123 (1868: S. Carolina) ; Allen, Mem. Bast. 
@@ -12310,11 +12310,11 @@ Merrill, Proc. U.S. Nat. Mus. i. p. 164 (1878: Ft. Brown,
 S. Texas); Baird, Brewer, Sf Pidgw. Water-Birds N. Amer. i. 
 ^ p. 55 (1884); Coues, Key N. Amer, B. 2nd ed. p. 662 (1884). 
 Nyctiardea 
-naevia, Zawr. Mem. Bost. Soc. N. H. ii. p. 311 (1874: 
+naevia, Lawr. Mem. Bost. Soc. N. H. ii. p. 311 (1874: 
 Mazatlan ; Rio de Coahuana); Sennett, Bull. U.S. Geol 8urv. h. 
 
 p. 61 (1878 :t & Texas, breeding). 
-Nyctiardea grisea, var. gardeni, Zawr. Ann. Lye. N Y. x. p. 386 
+Nyctiardea grisea, var. gardeni, Lawr. Ann. Lyc. N. Y. x. p. 386 
 '(1874: Illinois). 
 Nyctiardea grisea, (3. naevia, Belding, Proc. U.S. Nat. Mus. i. p. 442 
 "(1878: Stockton, Gal). 
@@ -15447,7 +15447,7 @@ Baird, B. N. Amer. p. 677 (1858); Scl. $ Sato. Ibis, 1859, p. 227
 Acad. I860, p. 378 (St. Thomas); March, op. cit. 1864, p. 64 
 (Jamaica); E. C. Taylor, Ibis, 18(34, p. 9;} (Trinidad), p. 171 
 (Porto Eico); Sol. 8r Salv. P. Z. S. 1867, p. 250 (Mosquito) ; iid. 
-op. cit 1869, p. 252 (Venezuela) ; Zawr. Ann. Life. N. Y. 
+op. cit 1869, p. 252 (Venezuela) ; Lawr. Ann. Life. N. Y. 
 
 ix. p. 142 (1868 : Costa Eica) j Salv. P. Z. S. 1870, p. 218 
 (Veragua) ; Allen, Bull. Mus. C. Z. ii. p. 359 (1871: Florida); 
@@ -15456,7 +15456,7 @@ C. Z. lii, p. 182 (1872 : Kansas) ; Scl. # Salu. Nomrncl. Av.
 Neotr. p. 125 (1873: Mexico & Central America) ; Hensh. 
 Pep. Zool. Bxpl 100th Mend. p. 465 (1875); Peichen. J. f. O. 
 1877, p. 255; Merrill, Pr. U.S. Nat. Mus. i. p. 165 (1878: S. 
-Texas, breeding); Zawr. t. c. p. 196 (S. Vincent), p. 236 (Antigua), 
+Texas, breeding); Lawr. t. c. p. 196 (S. Vincent), p. 236 (Antigua), 
 p. 241 (Barbados, breeding), p. 275 (Grenada), p. 359 (Martinique) 
 ; Belding, t. c. p. 442 (Stockton & Murphys, San Joaquim, 
 Cal., breeding); Later, t. c. p. 460 (Guadeloupe) j Scl. fySalv. P. Z. S. 
@@ -16066,7 +16066,7 @@ List Grail. Brit Mm. p. 81 (1844); id. Gm. B. iii. p. 556 (1847);
 Cab. in Schomb. Beis. Guian. iii. p. 753 (1848): Bp. Cmsp. At\ ii. 
 
 p. 137 (1855); Sel P. Z. & 1855, p. 163 (Bogota), 1857, p. 268 
-(Rio Jayari), 1860, p. 290 (Babahoyo); Lawr. Ann. Lye. N. Y. 
+(Rio Jayari), 1860, p. 290 (Babahoyo); Lawr. Ann. Lyc. N. Y. 
 yiii. p. 12 (1867: Panama). 
 Ardea brasiliensis, Neuzcied, Beiir. Naiurg. Bras. IT. p. 642 (1832); 
 Burm. Th. Bras. iii. p. 410 (1856); ScM. Mus. Pays-Basf Ardea, 
@@ -16077,7 +16077,7 @@ Gray, List Grail Brit. Mus. p. 81 (1844);
 id. Gen. B. iii. p. 556 (1847); Cab. in Schomb. Beis. Guian. III. 
 
 p. 754 (1848); Sel. P. Z. S. 1857, p. 268 (Bio Jayari), 1800, p. 72 
-(Pallatanga); Lawr. Ann. Lye. N. Y. yii p. 301 (1862); Sel. f 
+(Pallatanga); Lawr. Ann. Lyc. N. Y. yii p. 301 (1862); Sel. f 
 Sah. P. Z. S. 1864, p. 371 (Panama), p. 461 (Goakqmza), 1866, 
 p. 199 (Ucayali); LSot. Ois. Trinid. p. 426 (1866); Sel. §• Sab. 
 P. Z. S. 1867, p. 979 (Pebas); iid. Ex. Orn. p. 184 (1869); 
@@ -16330,7 +16330,7 @@ Omoa, resident).
 
 Tigrisoma cabanisi, Heine, J.f. 0.1859, p. 407; ScL §* Salv. P. Z. S. 
 1867, p. 280 (Mosquitia); iid. Ex. Orn. p. 95, pL xlviii (1865] ; 
-Later. Ann. Lye. N. T. ix. p. 142 (1870: Costa Kica); Salv. 
+Later. Ann. Lyc. N. T. ix. p. 142 (1870: Costa Kica); Salv. 
 
 P. Z. S. 1870, p. 218 (Laguna del Castillo, Veragua); Lawr. Bull. 
 U.S. Nat.Mus. no. 4, p. 49 (1875: Tehuantepec; Puebla); ScL 
@@ -18108,7 +18108,7 @@ Hodgson CoE
 _ 
 Typ& 
 
-Ardeola, Bp. Ann. Lye. W. Y. ii. p. 307 (1826) (nee Bote* 
+Ardeola, Bp. Ann. Lyc. W. Y. ii. p. 307 (1826) (nee Bote* 
 1822) v A. exilis. 
 Ardetta, Gray. List Gen. 1842, App. p. 13 ...........„ A. minuta. 
 Erodiscus, Gloyer, Extndb. i. p. 410 (1842) .. ...... A. mimita. 
@@ -21540,7 +21540,7 @@ Ardea brasiliensis (nee Linn.), Neuwied, Naturg. Bras. iy. p. 642
 (1832). 
 Botaurus pirmatus, Gray, Gen.B. iii. p. 557 (1847); Cab. in Sehomb. 
 Bets. Guian. iii. p. 754 (1848); Bp. Consp. Av. ii. p. 136 (1855): 
-Uot. Ois. Trinidad, p. 429 (1860); Later. Ann. Lye. K. T. viii 
+Uot. Ois. Trinidad, p. 429 (1860); Later. Ann. Lyc. K. T. viii 
 
 p. 184 (1866: Nicaragua) ; Sd $ Salv. Exotic, Orn. p. 181, pi. xci. 
 (1869); Gray, Band-l. B. iii. p. 32, no. 10166 (1871) ; Pete. Orn. 
@@ -25515,7 +25515,7 @@ Allen, Bull. Harv. Coll. ii.p. 360 (1871); Pelz. Orn. Bras. pp. 805r
 do Eio Negro); Corns, Key N. Amer. B. p. 263 (1872); Scl. $ 
 Salv. Nommcl. Av. Neotr. p. 126 (1873); iid. P. Z. S. 1873, p. 305 
 (Upper Ucayali & Santa Cruz); Coues, B. N.-West, p. 513 (1874): 
-Ridgw. Ann. Lye. N. Y. x. p. 385 (1874: Illinois); Gundl. J.f O. 
+Ridgw. Ann. Lyc. N. Y. x. p. 385 (1874: Illinois); Gundl. J.f O. 
 1875, p. 313; id. Orn. Cubana, p. 162 (1876); Later, Bull. U.S. 
 Nat Mus. iv. p. 48 (1876); Reichen. J. f. 0.1877, p. 161; Gar-
 rod, P. Z. S. 1878, p. 625, fig. 1 (anatomy); Merrill, Proc. U.S. 
@@ -29217,7 +29217,7 @@ Baird, B. X. Amer. p. 877 (1860) [part, Atlantic coastl: Coues,
 P. Ac. Philad. 1861, p. 241 1 Labrador ; Boardm. P. Bost. Soe. ix. 
 p. 130 (1862) [Maine]; Verr. P. Ess. Inst. iii. p. 159 (1862) ; 
 Blakiston,Ibis, 1803, p."151 [Saskatchewan]; Allen* P- Ess. Inst. iv. 
-p. 89 (1864) [Massachusetts] ; Zawr. Ann. Zyc. X. T. Tiii. p. 298 
+p. 89 (1864) [Massachusetts] ; Lawr. Ann. Zyc. X. T. Tiii. p. 298 
 (1866); Cones, P. Ess. Inst. x. p. 302 (1868) [Xew England]: id. P. 
 Bost. Soe. xii. p. 126 (1808) [S. Carolina1; id. P^ Ac. Philad. 
 1871, p. 38 [N. Carolina]; id. Key X. Am. P. p. 303, fig. 198 (1872); 
@@ -29240,7 +29240,7 @@ Graculus biloplius, G. R. Gray, Hand-L B. iii. p. 128 (1871).
 Graculus diiophus, var. floridaam, Cones. Key N. Am. B. p. 303 
 
 
-(1872); Ridgw. Ann. Lye. N. Y. x. p. 390 (1874) [Illinois]; Cory, 
+(1872); Ridgw. Ann. Lyc. N. Y. x. p. 390 (1874) [Illinois]; Cory, 
 
 B. Bahama Is. p. 198 (1880). 
 Phalaeroeorax sp., Salem, P. Z. S. 1883, p. 427 [Guadeloupe]. 
@@ -37448,7 +37448,7 @@ p. 308 (I860) [Cuba]; Taylor, Ibis, 1860, p. 310 (Atlantic only);
 id. Ibis, 1862, p. 129 j Florida] ; Schley. Mus. Pays-Bat, vi. Pelecani, 
 p. 28 (1863) [part, Mexico]: Taylor, Hois,u1^04, pp. 90, 173 
 [W. Indies]; Salvin, Ibis, 1864, pp. 374, 377 [Brit. Honduras"; 
-Leotaud, Ois. Trinidad, p. ~>r2 (1806); Lawrence, Ann. Lye. 
+Leotaud, Ois. Trinidad, p. ~>r2 (1806); Lawrence, Ann. Lyc. 
 X. Y. viii. pp. 101, 298 (1807) [Sombrero]; Sclater, P. Z. S. 1868, 
 p. 268, pi. xxv. fad. in breeding and non-breeding plumao-e"; 
 Sundev. CEfv. K. ^Vet-Akad. Fom. 1869, p. 603 nPoxto Rico" ; 
@@ -37773,12 +37773,12 @@ p. 151 fSaskatchewan] ; Verrill, P. Essex Inst. iii. p. 159 (1864) \
 Allen, P. Essex Inst. iv. p. 89 (1864); Sctimn, Ibis. 1865, p. 197 
 Guatemala, Pacific coast] ; Coues, P. Ac. Philad. 1866, p. 100 
 Colorado and Gila Rivers] ; Dresser, Ibis, 1866, p. 45 [S. Texas]; 
-Lawr. Ann. Lye. N. Y. viii. p. 298 (1867); Coues, P. Bost. Soc. 
+Lawr. Ann. Lyc. N. Y. viii. p. 298 (1867); Coues, P. Bost. Soc. 
 iV. H. xii. p. 125 (1868) [S. Carolina: winter]; Elliot, P. Z. S. 
 1809, p. 588 ; Gillman, Am. Nat.iY. p.758 (1871) [Lake Huron]; 
 Clarke, Am. Nat. v. p. 252 (1871) [Michigan; E. Florida]; Trippe, 
 P. Bost. Soc. N. H. xv. p. 241 (3873) [S. Iowa: spring]; Bidgw. 
-Ann. Lye, N. Y. x.p. 390 (1874) [Illinois] ; Snow, Cat. B. Kansas, 
+Ann. Lyc. N. Y. x.p. 390 (1874) [Illinois] ; Snow, Cat. B. Kansas, 
 p . 13 (1875) ; Allen, Bull. Mus. C. Zool. iii. pp. 131, 183 (1876) 
 [Kansas]; Bendire, P. Bost. Soc. xviii. p. 165 (1877) [breeding in 
 Oregon] ; Mearns, Bull. Nutt. Orn. C. iv. p. 198 (1879) [Oregon]; 
@@ -38183,7 +38183,7 @@ Egypt, p. 315 (1872),- Coues, Key N. Am. B. p. 335 (1872);
 Hrnqlin, Ibis, 1872, p. 64 [Matthew's Straits] j id. J. f O. 
 1872, p. 123 [Novaya Zemlya; Waigats]; Fritsch, J.f O. 18/2, 
 p. 377 [Bohemia]; Finsch, Abh. Nat. Ver. Bremen, iii. p. 75 
-(1872) ; Ball, Avif. Aleut Isl. p. 10 (1874); Midgut. Ann. Lye. 
+(1872) ; Ball, Avif. Aleut Isl. p. 10 (1874); Midgut. Ann. Lyc. 
 N. York, x. p. 392 (1874) [Illinois]; Swinh. Ibis, 1874, p. 163 
 [Hakodadi] ; Irby, Or??. Gibraltar, p. 219 (1875); Banf $ Brown, 
 Ibis, 1875, p. 433 [Transylvania]; Seebohm 8f Brown, Ibis, 1876, 
@@ -38788,7 +38788,7 @@ Baird, B. X. Amer. p. 888 (i860) ; Walker, Ibis, LS00, p. 167
 England]; Ball $ Barm. Tr. Chicago Ac. i. p. 307 (1809); 
 Hartiny, P. Z. S, 1871, p. 119 [Berino- Straits]; Cones, Key N. 
 Am. B. p. 334 (1872) [part; N. America]; Finsch, Abh. Nat. Ver. 
-Bremen, ill. p." 74 (1872); BJdqic, Ann. Lye. X. York, x. p. 392 
+Bremen, ill. p." 74 (1872); BJdqic, Ann. Lyc. N. Y.rk, x. p. 392 
 (1874) ["Illinois"!; Stearns § Coues, X. Enql BAife, p. 389 
 (18S3) ; Coues, Key X. Amer. B. 2nd ed. p. 791 (1884) [part]. 
 Melius btriatiis, Bonnat. Tail Eacycl. Meth. i. p. 73(1790). 
@@ -39011,7 +39011,7 @@ Loon or Great Northern Diver, Nidt.Man. Orn. p. 513 (1844).
 Eudvtes glacialis, Natmi. Nut. Yog. Deutsehl xii. p. 397, pi. £27 
 
 (1844) j Ban, etc. J.f. 0. 1877, p. 341 [Germany]. 
-Colymbus glacialis, var. torqiuatus, Ridgic. Ann. Lye. N. York, x. 
+Colymbus glacialis, var. torqiuatus, Ridgic. Ann. Lyc. N. Y.rk, x. 
 
 p. 392 (1874) [Illinois], 
 Colymbus adambi, Babbington {nee G. R. Gray), B. Suffolk^ p. 24»>, 
@@ -40905,7 +40905,7 @@ no. 21)41 (1850); Suite, P. Z. S. 1857, p. 237 [San DomingcT ; Sclater,
 P. Z. S. 1857, p. 207 [JalapaJ ; Baird, B. X. Amer. pll xeix. figr. 1 
 (1858); Sal tin $ Selater, Ibis, 1800, \\ 278 [Dueiias[ : Taylor, Ihis, 
 18()0, p. 317 [Tigre Island, Honduras]; Biirmeist, lime La Plata, 
-p. 521 (1861): Later. Ann. Lye. X. York, vii.p. 334 (1801); Marsh, 
+p. 521 (1861): Later. Ann. Lyc. N. Y.rk, vii.p. 334 (1801); Marsh, 
 P. Acad. Philad. 1804, p. 70 [Jamaica]; Sclat. 4'-Salrin, P. Z. & 
 1864, p. 373 [Panama]; Leotand, OU."Trinidad, p. 528 (1866;; 
 Bryant, P. Posf. >Sbe. xi. p. 97 (180G); Sehl. Mm. Pays-Bus, vi. 
@@ -42214,7 +42214,7 @@ Stevenson, Prelim. Rep. U.S. Geol. Surv. Terr. p. 466 (1871)
 
 Podiceps 
 auritus, var. californicus, Cones, Key N. Amer. B. p. 337 
-(1872) ; id. B. X.-West, p. 733 (1874); Ridgw. Ann. Lye. X. York, 
+(1872) ; id. B. X.-West, p. 733 (1874); Ridgw. Ann. Lyc. N. Y.rk, 
 
 x. p. 392 (1874) [Illinois]-Henshaw, Am. Xat. viii. p. 243 (1874; 
 [S. Colorado] ; Snow, Am. Xat. viii. p. 757 (1874) [Kansas] ; id. 
@@ -42766,7 +42766,7 @@ p. 410 (1881) [Saskatchewan] ; Cooper $ Suckl N II Wash. Terr.
 p. 280 (1860); Baird, B. N. Amer. p. 893 (18G0) [Washington 
 Territory] ; COUPS, P. Essex Inst. v. p. 310 (1868) [Xew England] ; 
 Turnb. B. E. Pennsylvania, p. 49 (1869) ; Cozies, Key N Amer. B. 
-p. 336 (1872); Ridcjw. Ann. Lye. N. York, x. p. 392 (1874) 
+p. 336 (1872); Ridcjw. Ann. Lyc. N. Y.rk, x. p. 392 (1874) 
 [Illinois]; Coues,B. N.-West, p. 729 (1874); Merriam, Bull Nutt. 
 Om.C. ii. p. 47 (1878) [Connecticut] ; Breicer, Bull Nutt. Om.C. 
 ii. p. 52 (1878); Samuels, N. # E. Birds, p. 560 (1883) [New 
@@ -42813,7 +42813,7 @@ Podiceps subcristatus, var. major, Bybowshi, J.f.O. 1868, p. 339,
 543 
 Podiceps griseigena, Tar. holbollii, Cones, Key X. Amer, B. p. 336 
 
-(1872); id. B. X.-West, p. 730 (1874) ; Ridgw. Ann. Lye. X. 
+(1872); id. B. X.-West, p. 730 (1874) ; Ridgw. Ann. Lyc. X. 
 
 York, x. p. 392 (1874) [Illinois]. 
 
@@ -43877,7 +43877,7 @@ Sclater # Sahin, Ibis, 1370, p. 500 [Straits of Magellan]; G. It
 Gray, Iland-l. B. iii. p. 95 (1871) ; 3Iaynard, P. Bost. Soc. xiv. 
 
 p. 385 (1872) iNew Haven]; Coues, Ka/ S. Am. B. p. 338 
-(1872) ; Ridgzo. Ann. Lye. S. Fork. x. p. 392 (1874); Coues, B. 
+(1872) ; Ridgzo. Ann. Lyc. S. Fork. x. p. 392 (1874); Coues, B. 
 S.-West, p. 737 (1874) ; Gundl. J. f. O. 1875, p. 307 "habits" ; 
 Lawr. P. U.S Sat. 3Ius. i. p.488 (1878) [St. Vincent; Grenada];; 
 Sclater, P. Z. S. 1879, p. 765 "Montserrat"; Roberts §• Beaner, 
@@ -48101,7 +48101,7 @@ Purchased.
 s. Trunk. 
 Salvin-Godman Coll. 
 11. CEROEHYNCHA. Typ e 
-Cerorhinca, Bonap. Ann. Lye. N. 7. ii. p. 428 (1826). C. monocerata. 
+Cerorhinca, Bonap. Ann. Lyc. N. 7. ii. p. 428 (1826). C. monocerata. 
 Chimerina, Eschscholtz, Zool. Atlas, Heft iii. p. 2, 
 pi. xii. (1829) C. monocerata. 
 Ceratorrhina, Bonap. Oss. Beg. An. p. 134 (1830) ; id. 
@@ -48131,7 +48131,7 @@ Alca monocerata, Pallas, Zoogr. Bosso-As. ii. p. 362 (1811) [Coast
 
 of Alaska]. 
 Phaleris cerorhyncha, Bonap. Zool Journ. iii. p. 53 (1828). 
-Cerorhynca occidentalis, Bonap. Ann. Lye. N. Y. iv. p. 428 (1828); 
+Cerorhynca occidentalis, Bonap. Ann. Lyc. N. Y. iv. p. 428 (1828); 
 
 Less. TraitS W Orn. p. 641 (1831). 
 Chimerina cornuta, Eschscholtz, Zool. Ail Heft iii. p. 2, pi. xii. 
