@@ -1619,7 +1619,7 @@ Central Peru {Jehki).
 Santa Elena, Antioquia 
 Purchased. 
 Sclater Ooll. 
-Salvm-Godinan Coll. 
+Salvin-Godinan Coll. 
 Salvin-Godman Coll. 
 Salvin-Godman Coll. 
 Salvin-Godman Coll. 
@@ -1881,7 +1881,7 @@ CCEREBIDJE.
 A small, nearly uniformly coloured species, first detected in Costa 
 Eica by V. Erantzius, and extending southwards to Chiriqui. 
 
-Costa Rica Saivin-Godman Coll, 
+Costa Rica Salvin-Godman Coll, 
 
 a, b. <$ ad. ; c. $ Irazu distr. 
 ad. sk. ..(Rogers). 
@@ -1890,9 +1890,9 @@ ad. sk. ..(Rogers).
 d. 
 <$ ad. sk. Costa Rica (Van Patten). Sclater Coll. 
 e. 
-<J ad. &k.; /, g. Southern Slope, Volcan de Saivin-Godman Coll. 
+<J ad. &k.; /, g. Southern Slope, Volcan de Salvin-Godman Coll. 
 ad. sk. Chiriqui (Arce). 
-Chiriqui (Arce). Saivin-Godman Coil. 
+Chiriqui (Arce). Salvin-Godman Coil. 
 
 h. 
 a ad. sk. 
@@ -1923,25 +1923,25 @@ but rather smaller, and duller in colour, especially below.
 Hab. Andes of Colombia, Ecuador, Peru, and Bolivia. 
 
 a. Ad. sk. Bogota. Purchased. 
-b, c. Ad. sk. Bogota. Saivin-Godman Coll. 
+b, c. Ad. sk. Bogota. Salvin-Godman Coll. 
 d. Ad. sk. Bogota. Sclater CoU. 
-e,f. <$ 2 ad. sk. Retiro, Antioquia (Salmon). Saivin-Godman Coll. 
+e,f. <$ 2 ad. sk. Retiro, Antioquia (Salmon). Salvin-Godman Coll. 
 g. Ad. sk. Antioquia (Salmon). Sclater CoU. 
 h. 
-$ ad. sk. Santa Elena, Antioquia Saivin-Godman Coll. 
+$ ad. sk. Santa Elena, Antioquia Salvin-Godman Coll. 
 (Salmon). 
-i. Ad. sk. Vicinity of Quito, Ecuador. Saivin-Godman Coll. 
+i. Ad. sk. Vicinity of Quito, Ecuador. Salvin-Godman Coll. 
 J. 
-Ad. sk. SanLucas,Ecuador (Buckley). Saivin-Godman Coll. 
-k. Ad. sk. Sta. Rita, Ecuador (Buckley). Saivin-Godman Coll. 
+Ad. sk. SanLucas,Ecuador (Buckley). Salvin-Godman Coll. 
+k. Ad. sk. Sta. Rita, Ecuador (Buckley). Salvin-Godman Coll. 
 I. Jr. sk. Pallatanga, Ecuador. L. Eraser [C.j. 
 m. $ ad. sk. Matos, Ecuador (Fraser). Sclater Coll. 
 n. 
 2 ad. sk. Pinipi, Ecuador (Fraser). Sclater Coll. 
-o. Ad. sk. Kawarani, Bolivia (Buckley). Saivin-Godman Coll. 
+o. Ad. sk. Kawarani, Bolivia (Buckley). Salvin-Godman Coll. 
 p. 
 Ad. sk. Tilotilo, BoHvia (Buckley). Sclater CoU. 
-q. Ad. sk. Bolivia (Buckley). Saivin-Godman CoU. 
+q. Ad. sk. Bolivia (Buckley). Salvin-Godman CoU. 
 15. Diglossa indigotica. 
 Diglossa indigotica, 
 Sclater, Ann. Sr Mag. N. II. ser. 2, xvii. p 467 
@@ -2592,7 +2592,7 @@ a\ V. 8 2 ad* sk
 
 
 a. Subsp. ultramarina. 
-Chontales,Nicaragua (Belt). Salvm-Godman Coll. 
+Chontales,Nicaragua (Belt). Salvin-Godman Coll. 
 HhoTitfllfts-NiWaira
 
 OkontaleSj Nicaragua
@@ -4252,7 +4252,7 @@ hardly any white on it.
 
 a. <$ ad. sk. Samana, San Domingo, W. I. Salvin-Godman Coll. 
 {Cory). 
-b. S ad. sk. San Domingo (McGregor). Salvm-Godrnan Coll. 
+b. S ad. sk. San Domingo (McGregor). Salvin-Godrnan Coll. 
 c. Ad. sk. San Domingo (Gould). Salvin-Godman Coll. 
 
 7. Certhiola portoricensis. 
@@ -5814,7 +5814,7 @@ c. 3 jr. sk. Brazil. Sclater Coll.
 d. J ad. sk. Catamarca, rep. Arg. Sclater Coll. 
 (Wliite). 
 e,f. 3 ? ad. sk. Tilotilo, Bolivia (Buckley). Sclater Coll. 
-g, Ji. 3 2 &&' s^* Bolivia (Buckley). Salviu-Godman Coll. 
+g, Ji. 3 2 &&' s^* Bolivia (Buckley). Salvin-Godman Coll. 
 
 i. 3 ad. sk. Bolivia. T. Bridges [C.]. 
 c. Subsp. taczanowskii. 
@@ -6021,7 +6021,7 @@ p 2
 68 
 TANAGKRIDiE. 
 
-q, r. $ ad. • Sarayacu, Ecuador (Buckley). Salvm-Godman OoIL 
+q, r. $ ad. • Sarayacu, Ecuador (Buckley). Salvin-Godman OoIL 
 
 t tf ad.sk. ' Quito, Ecuador. Salvin-Godman Coll. 
 u, v. <$ $ ad. sk. Pallatanga, Ecuador (Fraser). Sclater OoIL 
@@ -6582,7 +6582,7 @@ Vera Paz (Salvin).
 Cboctnm, Vera Paz 
 Salvin-Godman Coll. 
 Salvin-Godman Coll. 
-(Salvm). 
+(Salvin). 
 
 76 TAXAGRTDJE. 
 m Q ad. sk. Vera Paz (Sahin). Salvin-Godman Coll. 
@@ -7549,7 +7549,7 @@ I have not had an opportunity of examining Peruvian specimens
 of this species, but cf. Berl. et Tacz. 1. $. e. Skins from Bogota and 
 Ecuador agree very well together. 
 
-a. Ad. sk. Sarayacu, Ecuador (Buckley). Salviu-Godman Coll. 
+a. Ad. sk. Sarayacu, Ecuador (Buckley). Salvin-Godman Coll. 
 b. Ad. sk. Rio Napo, Ecuador {Btwhley). Salvin-Godman Coll. 
 c. Ad. sk. Eio Napo, Ecuador. Salvin-Godman Coll. 
 d. Ad. sk. Quito, Ecuador (Bruce). Salvin-Godman Coll. 
@@ -7738,7 +7738,7 @@ Younq. Cinereous, washed with blue ; wings and tail blackish.
 Hob. Venezuela, Colombia, Ecuador, and Peru. 
 
 a. 
-$ ad. sk. Sierra Nevada, Venezuela Salvm-Godman Coll. 
+$ ad. sk. Sierra Nevada, Venezuela Salvin-Godman Coll. 
 (Goeriny). 
 b. <$ ad. sk. Bogota. 
 Purchased. 
@@ -7747,7 +7747,7 @@ Sclater Coll.
 e. <$ ad. sk. - Bogota. Salvin-Godman Coll. 
 / . Jr. sk. 
 </, h. tf ad. sk. Bogota. Would Coll. 
-t 6 ad sk Me'dellim U. S. C. (Salmon). Salvm-Godman Coll. 
+t 6 ad sk Me'dellim U. S. C. (Salmon). Salvin-Godman Coll. 
 
 94 TANAGKRID.2E. 
 j . (S ad. sk. Santa Elena, Antioquia Sclater Coll. 
@@ -8682,7 +8682,7 @@ Ad. sk. Pasto, Ecuador (LeJimann). Salvin-Godman Coll.
 
 
 
-i. Ad. sk. Intaj, Ecuador (Buckley). Sarvin-Godman Coll. 
+i. Ad. sk. Intaj, Ecuador (Buckley). Salvin-Godman Coll. 
 Ad. sk. Sarayacu,Ecuador (Buckley). Salvin-Godman Coll. 
 108 
 TANAGEXD-S. 
@@ -9128,7 +9128,7 @@ j. (S ad. sk. Eio Claro, Govaz, Brazil. Salvra-Godman Coll.
 \ 6 ad. sk. Ypanema, Brazil (Natierer). Salvin-< mclmaii Coll. 
 I Pad.sk. Sao Paulo, Brazil {Joi/ner). »S»lvin-(^idm.in Coll. 
 m. 
-& ad. sk. Pelotas, Eio Grande lo Sol, Saivin-Godxnan Coll. 
+& ad. sk. Pelotas, Eio Grande lo Sol, Salvin-Godxnan Coll. 
 Brazil(Jot/ner). 
 n. $ ad. sk. Brazil. Salvin-Godman Coll. 
 o,p. cj $ ad. sk. Brazil. Sclater Coll. 
@@ -9983,9 +9983,9 @@ b. Ad. sk.; c. Jr. Ucayali, Peru (Hauxwell). Gould Coll.
 10 . OA.LLISTE. 
 127 
 
-d. Ad. sk. Eastern Peru (Farris). Salvm-Godman Ooll. 
+d. Ad. sk. Eastern Peru (Farris). Salvin-Godman Ooll. 
 e,f. 
-Ad. sk,; g. Sarayacu,Ecuador (Buckley). Salvm-Godman Ooll. 
+Ad. sk,; g. Sarayacu,Ecuador (Buckley). Salvin-Godman Ooll. 
 Jr. sk. 
 
 h. Ad. sk. Sarayacu,Ecuador (Buckley). Sclater Coll. 
@@ -9994,7 +9994,7 @@ sk.
 k. Ad. sk.; I. Jr. Bogota. 
 Purchased. 
 sk. 
-m-o. <S ad. sk.; Roraima, British Guiana Salvm-Godman Coll. 
+m-o. <S ad. sk.; Roraima, British Guiana Salvin-Godman Coll. 
 
 p. § ad. sk.; (Whitely). 
 q. $ jr. sk. 
@@ -10178,7 +10178,7 @@ c. Ad. sk.
 d. Ad. sk.
 e. Ad. sk.; /. 
 Bogota. Gould Coll. 
-Bogota. Salvm-Godman CoU. 
+Bogota. Salvin-Godman CoU. 
 Bogota. Sclater CoU. 
 a. S ad. sk. Antioquia, U. S. C. (Salmon). Salvin-Godman Coll. 
 h. Ad. sk. Pallataiiga, Ecuador (Fraser). Sclater Coll. 
@@ -11044,14 +11044,14 @@ Janeiro (Touds).
 
 
 d. J ad. sk. Curytiba, Brazil (Xatterer). Salvin-Godman Coll. 
-e,f. <S 5 ad. sk. Sao Paulo, Brazil (Joyner). Saivin-Godman Coll. 
-g.' $ ad. sk. Rio Claro, Goyaz, Brazil Saivin-Godman Coll. 
+e,f. <S 5 ad. sk. Sao Paulo, Brazil (Joyner). Salvin-Godman Coll. 
+g.' $ ad. sk. Rio Claro, Goyaz, Brazil Salvin-Godman Coll. 
 (Joytier), 
 
 h. 
 Ad. sk.; i. Jr. Campana, Uruguay. A. Peel rC.~i. 
 sk. " j. 
-Ad. sk. j k. Jr. Buenos Ayres {Hash- Saivin-Godman Coll. 
+Ad. sk. j k. Jr. Buenos Ayres {Hash- Salvin-Godman Coll. 
 sk. hust). 
 h *w. 6 ? ad. sk. Conchitah, Buenos Ayres Sclater Coll. 
 (Hudson), 
@@ -11570,7 +11570,7 @@ b. Subsp. cyanoptera.
 a. Ad. sk. Quito, Ecuador. J. Gould, Esq. 
 b. Ad. sk. Quito, Ecuador. Purchased. 
 c. Ad. sk. Ecuador. Sclater Coll. „ „ 
-d e. Ad. sk. Baisa, Ecuador {BueJdey). Salvm-Godman Coll. 
+d e. Ad. sk. Baisa, Ecuador {BueJdey). Salvin-Godman Coll. 
 / Ad sk Pasto, Ecuador (Zehmann). Salvin-Godman Coll. 
 TANAGRID^. 
 
@@ -12515,7 +12515,7 @@ Punamarca, Peru (Jekki).
 Pallatanga, Ecuador (Fraser). 
 Ecuador. 
 Salvin-Godman Coll. 
-Salviu-Godman Ooll. 
+Salvin-Godman Ooll. 
 T. Bridge. [C.J. 
 Sclater Coll. 
 Sclater Coll. 
@@ -15415,14 +15415,14 @@ d. $
 d ? ad. sk. 
 ad. sk. 
 British Honduras (Blancaneaux). 
-Guatemala (Salvm). 
+Guatemala (Salvin). 
 Salvin-Godman Coll. 
 Sclater Coll. 
 
 e. <$ ad.sk. Cohan, Vera Paz (Constancia). Salvin-Godman Coll. 
 f. J ad. sk. Choctum, Vera Paz (Salvin). Salvin-Godman Coll. 
-(/. $ ad.sk. Chisec, Vera Paz (Salvm). Sahin-Godman Coll. 
-h. J ad.sk. Kamkkal, Guatemala (Salvm). Salvin-Godman Coll. 
+(/. $ ad.sk. Chisec, Vera Paz (Salvin). Sahin-Godman Coll. 
+h. J ad.sk. Kamkkal, Guatemala (Salvin). Salvin-Godman Coll. 
 i. <$ ad. sk. Honduras (Dyson). Purchased. 
 2. Lanio leiicothorax. 
 Lanio leucothorax, 
@@ -16640,17 +16640,17 @@ terer).
 35 . CYPSNAGRA. 
 221 
 
-e, f. d S ad. ak. Pelotas, Rio Grande do Saivin-Godman Coll. 
+e, f. d S ad. ak. Pelotas, Rio Grande do Salvin-Godman Coll. 
 
 Sul, Brazil {Joyner). 
-ff. S ad. sk. Brazil. Saivin-Godman Coll. 
+ff. S ad. sk. Brazil. Salvin-Godman Coll. 
 h, i. S ? ad. sk.: j. Brazil. M. Olausacn [P.! 
 
 <$ jr. sk. 
 L J 
 
 h. 
-S ad. sk. San Javier, Misiones, rep. Saivin-Godman Coll. 
+S ad. sk. San Javier, Misiones, rep. Salvin-Godman Coll. 
 Arg. (TFMte). 
 3. TANAGRDLE DEBILTROSTRES. 
 In the genus Nemosia and its allies the bill becomes much 
@@ -18986,7 +18986,7 @@ zuela, Colombia, Ecuador, and Peru.
 
 a. Ad. sk Jalapa (de Oca). Sclater Coll 
 b. Ad. sk. Jalapa, Mexico (de Oca). Sah in-Godman Coll. 
-c. d. Ad. sk. Tolean de Euego, Guatemala Salvm-Godman ColL 
+c. d. Ad. sk. Tolean de Euego, Guatemala Salvin-Godman ColL 
 (Salvin). 
 e. J jr. sk. Calderas, Tolean de Fuego, Sah in-Godman Coll. 
 Guatemala (Sakm). 
@@ -19115,7 +19115,7 @@ Ad. sk. Calderaa, Volcan de Fuego, Salvin-Gcdman Col.
 Guatemala (Salvin). 
 g. Ad. sk. San Jose, Co^taliica ( Carmiol). Sabin-Oodman Coll. 
 h. Ad. sk. Irazu, Costa Eiea (Rogers). Sabin-4 U dmm Coll. 
-*. Pall. sk. Tueuniqui, Costa llica (Arte). SaIvin-0< tlmm Coll, 
+*. Pall. sk. Tueuniqui, Costa llica (Arte). Salvin-0< tlmm Coll, 
 j. $ ad. sk. Calove^ora, Yeragua {Arct}. Sahin-Ot»dnu:.C'olL 
 k, I 
 <$ ad. sk. Castillo, Yeragua (An-ej, Sahm-< ltdmm (Ml 
@@ -20652,16 +20652,16 @@ e9f. Ad. sk. Northern Yucatan (Gaumer). Salvin-Godman Coll.
 g. Ad. sk. Belize (Blancaneaux). Salvin-Godman Coll. 
 li. Ad. sk. Ohisec, Vera Paz (Salmn). Salvin-Godman Coll. 
 i. Ad. sk. Coban, Vera Paz (Salmi). Salvin-Godman Coll. 
-j. Ad. sk. Vera Paz (Salvm). Sahin-Godman Coll. 
+j. Ad. sk. Vera Paz (Salvin). Sahin-Godman Coll. 
 k. cf a-cL sk. Retalhuleu, Guatemala (Salvin). Salvin-Godman Coll. 
 I. c? ad. sk. Volcan de Agua, S. Diego (Salvin). Sclater Coll. 
 m. <$ ad. sk. Volcan cle Agua, S. Diego (Salmn). Salvin-Godman Coll. 
 w, $ ad. sk. San Pedro Martyr, Guatemala Sdlvin-Godman Coll 
-(Salvm), 
+(Salvin), 
 
 o. Ad. sk. El Zapote, Costa Grande, GuateSalvin-
 Godman Coll. 
-mala (Salvm). 
+mala (Salvin). 
 p. Ad. sk. Costa Rica (CarmioT). Salvin-Godman Coll 
 q. 2 ad. sk. Costa Rica (Carmiol). Sclater Coil 
 r. 
@@ -20943,7 +20943,7 @@ Ad.sk.
 Bakia, Brazil ( Wncherer). 
 Santa ¥6, Minas Geraes 
 Salvin-Godman Coll. 
-Salviu-Godman Coll. 
+Salvin-Godman Coll. 
 o. S ^d. sk. 
 d,e. <J Jad.sk. 
 / , g. Ad. sk. 
@@ -21713,7 +21713,7 @@ leet clear horn-colour: whole length 6*7 inches, wing 3*2, tail 3*2.
 
 Mak Ecuador. 
 a. Ad. sk. Ecuador. Sclater Coll. 
-b, c. Ad. sk. Imtae, Ecuador (Buckley). Satvin-Godman Coll. 
+b, c. Ad. sk. Imtae, Ecuador (Buckley). Salvin-Godman Coll. 
 
 57. GISSOPIS. 
 Type. 
@@ -22000,7 +22000,7 @@ uniform cinerascent olive plumage of the young bird {Tanagra
 olivina, olim) to the adult. 
 
 a. Ad.sk. Trinidad. Sclater Coll. 
-b, c. $ ad. sk.; d, Roraima, Brit. Guiana Saivin-Godman Coll. 
+b, c. $ ad. sk.; d, Roraima, Brit. Guiana Salvin-Godman Coll. 
 •$ 
 ad. sk.; e. 3 F-(Whitely). 
 
@@ -22393,8 +22393,8 @@ whole length 6S inches, wing 3-8, tail 3. Female similar.
 Bah, Southern Mexico and Central America down to Panama. 
 
 a. Ad. sk. Mexico. Sclater Coll. 
-h. <$ ad. sk. Choctum, Vera Paz (Salvm). Salvin-Godman Coll. 
-c. 2 ad. sk. Kamkhal, Vera Paz (Salvm). Salvin-Godrnan Coll. 
+h. <$ ad. sk. Choctum, Vera Paz (Salvin). Salvin-Godman Coll. 
+c. 2 ad. sk. Kamkhal, Vera Paz (Salvin). Salvin-Godrnan Coll. 
 d. $ ad. sk.
 e. Ad. sk. 
 Yaxcamnal, Guatemala (Salvin). 
@@ -22747,7 +22747,7 @@ j. J ad. sk. Santa "F6, Yeragua (Aree). Salvin-Godman ColL
 k. (S ad. sk. Chitra, Veragua (Arei). 8alrin-Godman ColL 
 I, m. S 2 ad. sk. CkhiquL Capt Kellett k Lt 
 Wood [C.I. 
-n, o. S 2 ad. sk. Lion Hill, ML of Panama Salvm-Godinan ColL 
+n, o. S 2 ad. sk. Lion Hill, ML of Panama Salvin-Godinan ColL 
 (McZeannari). 
 
 p. 
@@ -24231,7 +24231,7 @@ tealvin-Godman Coll.
 
 (Ridgway), 
 
-Saivin-Godman Coll. 
+Salvin-Godman Coll. 
 
 h. 
 tf ad. sk, Washington, D.C., II, S. 
@@ -24556,10 +24556,10 @@ Hal. Argentine Republic, Patagonia, Uruguay, Bolivia, and Brazil.
 
 a, h. <$ ad. sk.; Conchitas, Buenos Ayres ScIattT ColL 
 c, d. $ ad. sk. (Hudson). 
-e}f. d 2 ad. sk. Buenos Ayred (Hash-hirst). Saivin-Godmnn ColL 
+e}f. d 2 ad. sk. Buenos Ayred (Hash-hirst). Salvin-Godmnn ColL 
 
 y. $ Jr. sk. Punta Lara, Arpr. Rep. II. Durnford JC.\ 
-//. <$ jr. sk.; i Pampas of Arg. Rep. (Leybftld) Salviu-Godman C< >IL 
+//. <$ jr. sk.; i Pampas of Arg. Rep. (Leybftld) Salvin-Godman C< >IL 
 2 ad. sk. 
 h &• 6* 2 ad. sk. Mendoza, Arg. Rep. Purchased. 
 I, J ad. sk. Maldonado, Uruguay Sir W. Burnett and 
@@ -24573,7 +24573,7 @@ I, J ad. sk. Maldonado, Uruguay Sir W. Burnett and
 m, n. $ ad. sk. Uruguay. Alan Peel rC^. "
 
 o. $ ad. sk. Straits of Magellan (King). 
-Salviu-GocTman Coll. 
+Salvin-GocTman Coll. 
 
 p. $ jr. sk. Rio Negro of Patagonia 
 Purchased. 
@@ -25544,7 +25544,7 @@ Bogota.
 Bogota. 
 Cap t EelMt md L t 
 Wood [P.]. 
-SaZvin-Uodznan Coll 
+Salvin-Uodznan Coll 
 Sriater Coll 
 t,/.( ? fgad.sk. Bogota. Ptudbaaad. 
 *, I <J $ ad. sk. Trinidad. SeXatar Coll 
@@ -27579,7 +27579,7 @@ e. c? ad. sk. Mexico.
 Sir E. Belcher [P.]. 
 c. Subsp. iynea. 
 a. $ ad. sk. Britisli Honduras. D. Dyson [C.]. 
-b. <$ ad. sk. Belize (Saivin). Salvin-Godman Coll. 
+b. <$ ad. sk. Belize (Salvin). Salvin-Godman Coll. 
 c. Ad. sk. Merida, Northern Yucatan Salvin-Godman Coll. 
 (Levis).
 d. cJ ad. sk. Silam, Northern Yucatan Salvin-Godman Coll. 
@@ -27858,7 +27858,7 @@ Salvin-Godman Coll.
 
 Salvin-Godman Coll. 
 Sclater Coll. 
-Salviu-Godman Coll. 
+Salvin-Godman Coll. 
 Salvin-Godman Coll. 
 
 26. Icterus xanthomas. 
@@ -28183,7 +28183,7 @@ Guatemala (Salmn).
 
 q. S 
 ad. sk. San Pedro Martyr, Guatemala Salvin-Godman Coll. 
-(Satvin). 
+(Salvin). 
 r. S ad. sk. Guatemala (Salvin). Sclater Coll. 
 s. (S ad. sk. Corosal, Brit. Honduras (Roe). Salvin-Godman Coll. 
 t-y. 
@@ -28330,7 +28330,7 @@ a.
 forma (F. Grtiber), 
 b, c. $ $ ad. sk. Mazatlan, W. Mexico Salvin-Godman ColL 
 (Forrer). 
-d, e. <$ jr. et $ ad. Presidio, Mexico (Forrer). Salviu-Godmaii Coll 
+d, e. <$ jr. et $ ad. Presidio, Mexico (Forrer). Salvin-Godmaii Coll 
 sk. 
 f} g. c? ad. sk,; h Acapulco, Mexico {Mark- Salvin-Godman Coll. 
 <$ jr. sk. ham). 
