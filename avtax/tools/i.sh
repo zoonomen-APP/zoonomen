@@ -1,1 +1,1 @@
-egrep $1 ../cit/indanimed.txt
+egrep $1 c:/zoonomen/cit/indanimed.txt
