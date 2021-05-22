@@ -21827,7 +21827,7 @@ Nomencl. p. 11.
 Phyllonianes olivacea, Cab. Mus. Hem. i. p. 63 (1850) ; id. J. f. O. 
 1860, p. 404; Gundlach, op. cit. 1861, p. 324. 
 Vireo bogotensis, Bryant, Proe. Post. Sue. N. II. vii. p. 227 (1800). 
-Vireosylvia bogotensis, Laiorence, Ann. Lye. N. T. viii. p. 0. 
+Vireosylvia bogotensis, Laiorence, Ann. Lyc. N. T. viii. p. 0. 
 
 Upper parts olive; crown grey, narrowly bordered with fuscous 
 brown or blackish brown; a whitish streak extending from the 
@@ -21855,7 +21855,7 @@ h. Ad. st. North America. Sir G. Back [P ]. J
 Vireosylvia flavoviridis, Cassfn, Proc. A. N. Sc. PJdlad. 1851, v. p. 152, 
 vi. pi. 2; Sclat. P. Z. S. 1850, p. 298, 1859, p. 375; id. Cat Am. 
 B. p. 44(1861); Sclat. <$• Sahm, Ibis, 1859, p. 12; Baird, Rev. 
-Am. B. p. 336 ; Laiur. Ann. Lye. N. Y. vii. p. 323 ; Salvin, P. Z. S. 
+Am. B. p. 336 ; Laiur. Ann. Lyc. N. Y. vii. p. 323 ; Salvin, P. Z. S. 
 1867, p. 137, 1870, p. 184; v. Frantzitis, J. f. 0. 1869, p. 509; 
 Baird, Brew., Sf Ridyio. N. A. B. i. p. 366; Sumichrast, Mem. Post. 
 JSoe. N K I p. 547*; TaczanoxvsH, P. Z. S. 1874, p. 509; Merrill, 
@@ -21916,7 +21916,7 @@ JIab. Northern half of South America.
 a. Ad. st. Para. R. Graham, Esq. [P.], 
 b. Ad. st. Brazil. Mr. Glausaen [0.]. 
 5. Vireo magister. 
-Vireosylvia magister, Lawr. Ann. Lye. N. Y. x. p, 20 (ex Baird MS.); 
+Vireosylvia magister, Lawr. Ann. Lyc. N. Y. x. p, 20 (ex Baird MS.); 
 Baird, Brew., $ Ridgw. N. Am. B. i. p. 359. 
 Vireo magister, Salv, $• Godm. Biol. Centr.-Amer., Aues, p. 191. 
 
@@ -21943,7 +21943,7 @@ surface." (JSalvin and Godman.)
 6. Vireo philadelpMcns. 
 Vireosylvia pkiladelphica, Cassin, Proc. A. K. Sc. Philad. v. p. 153 
 (1857), vi. pi. 1. fig. 1; Selat. § Salvin, Ibis, 1859, p. 12; Lawr. 
-Ann. Lye. K T. ix. p. 90 ; Baird, JRn\ Am. B. p. 340; von Frantzms, 
+Ann. Lyc. K T. ix. p. 90 ; Baird, JRn\ Am. B. p. 340; von Frantzms, 
 J.f. 0. m% p. 295; Sato. P. Z. S.1870, p. 184; Sel. $ Sale. 
 Nomenel. p. 12; Baird, Brew., <§• Itidgio. K. Am. B. i. p. 307. 
 
@@ -22084,7 +22084,7 @@ Orn. Biocjr. ii. pi. 119 ; id. Birds Am. iv. pi. 238: Bp. C. A. i.
 
 p. 330; Cassin, Proa A. N. Sc.Philad. 1851, p. 149 > Selaf. # Salvin, 
 Ibis, 1859, p. 12; Cab. J. f. 0. 1855, p. 408, 18150, p. 405 ; 
-Sclat.P.Z.S. 1857, p. 227,1860, p. 251; Later. Ann. Lye. N. Y. 
+Sclat.P.Z.S. 1857, p. 227,1860, p. 251; Later. Ann. Lyc. N. Y. 
 vii. p. 323; Gundlach, J. f. 0. 1801, p. 324; Gray, Ilarnhl B. 
 i. p. 381, no. 5757 ; Cones, Birds Cohrad. Vail. i. p. 493 ; Gimdl 
 Orn. Cab. p. 56; Salv. # Godm. Biol. Centr.-Amer., Aves, p. 194. 
@@ -22423,7 +22423,7 @@ Hah, Jamaica.
 a. Ad. sk. Jamaica. O. Salvin and F. D. Godman, 
 Eaqrs. [P.]. 
 20. Vireo carmioli. 
-Vireo carmioli, Baird, Bev. Am. i?. i. p. 356; Lawr. Ann. Lye. N. Y. 
+Vireo carmioli, Baird, Bev. Am. i?. i. p. 356; Lawr. Ann. Lyc. N. Y. 
 ix. p. 97; v. Frantzius, J.f. 0.1869, p. 295; Baird, Brew., § Ridgiv. 
 K Am. B. i. p. 383; Scl. fy Salv. Nomencl p. 12; Salv. ty Godm. 
 Biol. Centr.-Amer., Aves, p. 203, tab. 12. fig. 3. 
@@ -22676,10 +22676,10 @@ p. 314; Scl. $ Salv. P. Z. S. 1870, p. 836 ; Lawr. Bull U.S. Nat
 Centr.-Amer., Aves, p. 206. 
 Hylophilus cinereiceps, Scl $ Salv. P. Z. S. 1860, p. 299,1864, p. 384; 
 id. Ibis, 1860, p. 397. 
-Hylophilus pusillus, Lawr. Ann. Lye. N. Y. vii. p. 323, viii. p. 179, 
+Hylophilus pusillus, Lawr. Ann. Lyc. N. Y. vii. p. 323, viii. p. 179, 
 
 ix. p. 97 ; Baird, Rev. Am. B. i. p. 381. 
-Hylophilus plumbiceps, Lawr. Ann. Lye. N. T. vii. p. 323. 
+Hylophilus plumbiceps, Lawr. Ann. Lyc. N. T. vii. p. 323. 
 Helmintheros ? Scl. P. Z. S. 1856, p. 291. 
 Crown of head and nape pale leaden grey; all the rest of the 
 upper parts rich olive-yellow; primaries blackish, narrowly edged 
@@ -22817,7 +22817,7 @@ Culmen 052 inch, wing 2-3, tail 1-7, tarsus 0-7.
 Hab. Ecuador. 
 
 9. Hylophilus aurantiifrons. 
-Hylophilus aurantiifrons, Lawr. Ann. Lye. N. T. vii. p. 824 (1861) ; 
+Hylophilus aurantiifrons, Lawr. Ann. Lyc. N. T. vii. p. 824 (1861) ; 
 Baird, Rev. Am. B. i. p. 877 ; Scl. Ibis, 1881, p. 303 ; Salv. § Godm. 
 Biol. Centr.-Amer., Aves, p. 207. 
 
@@ -23166,7 +23166,7 @@ b. Ad. st. [Cayenne.] Purchased. (Type of V.
 chlorogaster.) 
 3. Vireolanius pulcMlus. 
 Vireolanius pulchellus, Scl. § Salv, Ibis, 1859, p. 12; Salv. Ibis, 1861, 
-p. 147; Laior. Ann. Lye. N. T. vii. p. 468; Scl. Cat. Am. B. p. 45 ; 
+p. 147; Laior. Ann. Lyc. N. T. vii. p. 468; Scl. Cat. Am. B. p. 45 ; 
 Baird, Bev. Am. B. i. p. 397; Scl. $ Salv. Exotic Ornith. pi. 8; 
 iid. Nomencl. p. 13; Salv. Ibis, 1878, p. 443. 
 

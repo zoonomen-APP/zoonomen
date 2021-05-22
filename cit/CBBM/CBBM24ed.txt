@@ -9752,7 +9752,7 @@ Neioton, Ibis, 1861, p. 115 (St. Thomas); Salvm, Ibis, 1863,
 p. 190 (Guatemala); SchJ. Mus. Bays-Bas, Oursoreg, p. 74 (1865 : 
 pt.); Dresser, Ibis, 1866, p. 34 (Galveston Bay) ; Gundl Eepert. 
 Fisico-Nat. Cuba, i. p. 358 (1866); Scl. P. Z. S. 1867, p. 339; 
-Laior. Ann. Lye. N Y. ix. p. 141 (1868: Costa Eica), p. 210 
+Laior. Ann. Lyc. N Y. ix. p. 141 (1868: Costa Eica), p. 210 
 (Yucatan); Sundev. CEfv. K. Vet.-Akad. Fdrh. 1869, p. 588 (St. 
 Bartholomew); Pete. Orn. Bras. p. 298 (1871: Matto Grosso; 
 Cujutuba); Gray, Hand-l. B. iii. p. 21, no. 10059 (1871); Coues, 
@@ -15339,7 +15339,7 @@ winter); Xordm. J.f 0.1864,p.372 (LaplandI; Salvad.
 J.f. O. 1865, p. 284 (Sardinia); Salcin, Ibis, 1865, p. 190 (Guatemala) 
 ; Gurney, t. c. p. 271 (Monocusi River): Gould, Handb. B. 
 Austr. ii. p. 224 (1865); Gundl. Pepert. FisicoSat. Cuba, i. 
-p. 358 (1866); Later. Ann. Lye. X. Y. yiii. p. 295 (1806: ^'ew 
+p. 358 (1866); Later. Ann. Lyc. N. Y. yiii. p. 295 (1806: ^'ew 
 York); Dresser, Ibis, 1866, p. 34 (Texas) : Salvin, t. e. p. 196 
 (Ckiapam); Locke, ExpL Sci. Alger., Ois. ii. p. 260 (18(57J; Baird, 
 Ibis, 1867, p. 286; Newt. t. c. p. 359 (Seychelles); Brake, t. c. 
@@ -16798,7 +16798,7 @@ Samoa; Society Is.; Pauinotu; Kingsmill L-.); Burm. Th. Bras.
 
 iii. p. 357 (1856: Santa Catarina); id. Peise La Plata-St. ii. p. 501 
 (1861); March, Proc. Philad. Acad. 1863, p. 66 (Jamaica): Lawr. 
-Ann. Lye. NY. viii. p. 98 (1864: Sombrero): Finch, P. Z. S. 
+Ann. Lyc. NY. viii. p. 98 (1864: Sombrero): Finch, P. Z. S. 
 1870, p. 587 (Trinidad); Later. Proc. U.S. Nat 31m. L p. 67 
 (1878: Dominica), p. 197 (St. Vincent), p. 238 (Antigua), p. 241 
 (Barbuda), p. 265 (Grenada), p. 461 (Guadaloupe), p. 488. 
@@ -16859,7 +16859,7 @@ Charadrius pluvialis americanus, Sundev. CE/v. Vet.-Ahad. Fork
 1869, p. 588 (St. Bartholomew), p. 602 (Porto Pico). 
 Charadrius fulvus, var. virginicus. Coues, Keg N. Amer. B. p. 243 
 (1872); id. B. N.-West, p. 449 (1874). 
-Charadrius pluvialis, var. virginicus, Laior. Ann. Lye. N. F. x. p. 383 
+Charadrius pluvialis, var. virginicus, Laior. Ann. Lyc. N. F. x. p. 383 
 (1874: Illinois). 
 
 Charadrius fulvus virginicus, Coues, Bull U.S. Geol Sun), iv. p. 663 
@@ -18423,7 +18423,7 @@ Jersey); Bryant, Broc. Bost. Soc. N. H. vii. p. 121 (1859:
 Bahamas): Cass. Proc. Acad. PMlad. 1860, p. 378 (St. Thomas) ; 
 March, Proc. Acad. PMlad. 1864, p. 66 (Jamaica) ; Dresser, Ibis, 
 1866, p. 34 (Galveston Isl., Texas); Salvin, f. c. p. 197 (British 
-Honduras); Lawr. Ann. Lye. N. Y. viii. p. 294 (1867); Scl $ 
+Honduras); Lawr. Ann. Lyc. N. Y. viii. p. 294 (1867); Scl $ 
 Salt. P. Z. S. 1868, p. 169 (Venezuela); Allen, Bull. Ilarv. Coll. 
 
 ii. p. 355 (1871) ; Coues, Key N. Amer. B. p. 244 (1872); 8cl. \ 
@@ -20790,7 +20790,7 @@ Blakist. Ibis, 1862, p. 8 (Saskatchewan); Sclater, t. c. p. 276
 (Christchurch, Hants); Blakist. Ibis, 1863, p. 129 (Fort Carlton); 
 Set P. Z.S. 1864, p. 178 (City of Mexico); Coues, Ibis, 1865, 
 p. 158 (Arizona); Salvin, t. c. p. 191 (Guatemala); Dresser, Ibis, 
-1866, p. 33 (Galveston, S. Texas); Lawr. Ann. Lye. N. Y. ix. 
+1866, p. 33 (Galveston, S. Texas); Lawr. Ann. Lyc. N. Y. ix. 
 p. 209 (1868: Sisal, Yucatan); Brown, Ibis, 1868, p. 428 (Vancouver 
 Isl.); Scl. 4- Salv. P. Z. S. 1868, p. 176 (Taniho Valley, 
 Peru); Salv. P. Z. S. 1870, p. 219 (Volcan de Chiriqui); Harting, 
@@ -21535,7 +21535,7 @@ iEgialeus semipalmatus, Reichenb. Av. Syst. Nat p. xviii (1852)
 Bp. C. R. xlii. p. 417 (1856); Gundl. J. f. O. 1875, p. 335; Heine 
 fy Reichen. Nomencl Mus. JBCein. p. 336 (1890; Labrador). 
 
-Cbaradrius biaticula, Tar. semipalmatus, Ridgw* Ann. Lye. N. Y, x. 
+Cbaradrius biaticula, Tar. semipalmatus, Ridgw* Ann. Lyc. N. Y. x. 
 
 p. 383 (1874: Illinois). 
 Adult male. General colour above pale brown; wing-coverts like 
@@ -24849,7 +24849,7 @@ JEgialitis nivosus, Cass, in Baird's B. N. Amer. p. 690 (1858:
 Presidio, California, May). 
 Charadrius cantianus (nee Lath.), Heerm. Pacific R. Rep. p. 64 
 (1859). 
-JEgialitis tenuirostris (nee Hume), Later. Ann. Lye. N. T. vii. p. 455 
+JEgialitis tenuirostris (nee Hume), Later. Ann. Lyc. N. T. vii. p. 455 
 (1862: Cuba). 
 JEgialeus tenuii'ostris (nee Hume), Gundl. Bepert. Fisico-Nat. Cuba, 
 
@@ -24858,7 +24858,7 @@ p. 183 (1876).
 JEgialitis nivosa, 
 Coues, Ibis, 1866t p. 274 (San Pedro, California); 
 Scl. $ Salv. P. Z. S. 1868, p. 176 (Tambo Vallev, Peru); Hurting, 
-Ibis, 1869, p. 305; Later. Ann. Lye. N. Y*h- p. 209 (1870: 
+Ibis, 1869, p. 305; Later. Ann. Lyc. N. Y.h- p. 209 (1870: 
 Yucatan); Cones, Ibis, 1872, p. 53; Later. Mem. Bost. Soc. N. H. 
 
 ii. p. 307 (1874: Mazatlan); Tacz. P. Z. S. 1874, p. 559 (Cborillos); 
@@ -25033,7 +25033,7 @@ Repert. Fisico-Nat. Cuba, i. p. 359 (1866); id. J.f. 0.1875, p. 386
 (Cuba); id. Orn. Cuba, p. 183 (1876); id. Anal Soc. Bsp. Hist. 
 Nat. vii. p. 385 (1878: Porto Rico). 
 
-•Charadrius (^Sgialitis) melodus, Ridgw. Ann. Lye. N. T. x. p. 383 
+•Charadrius (^Sgialitis) melodus, Ridgw. Ann. Lyc. N. T. x. p. 383 
 ^Egialitis meloda, var. circumcincta, Corns, Clieck-l N Amer. B. 
 
 p. 133 (1873); Ridgw. Amer. Nat. viii. p. 109 (1874) ; Coues, B. 
@@ -27166,7 +27166,7 @@ Scolopaees, p. 107 (1864: pt.); Coues, Ibis, 1865, p. 159 (Arizona) ;
 Salvin, t. c. p. 192 (Guatemala); Dresser, t. e. p. 319; id. Ibis, 
 1866, p. 35 (S. Texas); Coues, t. c. p. 363; Leot. Ois. Trinid. 
 
-p. 464 (1866); Laicr.Ann. Lye. N. Y. viii. p. 12 (1866; Panama), 
+p. 464 (1866); Laicr.Ann. Lyc. N. Y. viii. p. 12 (1866; Panama), 
 p. 295 (Xew York) ,* ScL $ Sab. P. Z. S. 1867, p. 591 (Mexiana); 
 Simdev. (Efv. K. Yei.-Akad. Fork. 1869, p. 602 (Porto Rico); 
 ScL $ Salv. P. Z. S. 1870, p. 323 (Indefatigable IsL); Allen, Bull. 
@@ -27950,7 +27950,7 @@ Ridgio. Proc. Bost Soc. N. H. xvi. p. 328 (1874: Lower Wabash
 Valley); Coues, B. N.-West, p. 460 (1874); Hurting, Ibis, 1874, 
 p. 253 ; Laiur. Mem. Bost. Soc. N H. ii. p. 308 (1874: Rio de 
 Coahuana; Mazatlan); Allen, Proc. Bost. Soc. N. H. xvii. p. 66 
-(1874: Yellowstone); Ridgio. Ann. Lye. N. T. x. p. 384 (1874: 
+(1874: Yellowstone); Ridgio. Ann. Lyc. N. T. x. p. 384 (1874: 
 Illinois); Rensh. Rep. Zool. Fvpl. 100*A Merid. p. 448 (1875) 
 Gundl. J. f. O. 1875, p. 330 (Cuba); id. Orn. Cubana, p. 178 
 Ridgio. Rep. Survey 40th Parallel, p. 605 (1877: Carson, Nevada 
@@ -29719,7 +29719,7 @@ Missouri); Laxor. Mem. Bost, 8oc. N. H. ii. p. 309 (1874); Gundl
 
 41 . ffTTMENITTS. 353 
 J. f. 0, 1875, p. 320 (Cuba); Kensh. Rep. Zool. Expl 100th 
-Merid. p. 461 (1875: St. Charles, R. Colorado); Zawr. iM . CT.S. 
+Merid. p. 461 (1875: St. Charles, R. Colorado); Lawr. iM . CT.S. 
 ifizi. Mus. iv. p. 48 (1876: Tekuantepec, Dec.); Sennett, Bull. 
 U.S. G-eol. Surv. iv. p. 55 (1878: Brownsville); Cones, t. c. p. 045 
 (Dakota) ; Lawr. Proc. U.S. Nat. Mus. i. p. 197 (1878: St. 
@@ -30853,7 +30853,7 @@ Bost. Soc. Nat. Hist. ix. p. 129 (1862: Maine J; BlaJdst. Ibis,
 1863, p. 134 (Hudson's Bay); Schl. Mus. Pays-Bas, Scolopace&, 
 p. 100 (1864: Surinam ; Chili); Salvin, Ibis, 1865, p. 190 (Guatemala) 
 ; Dresser, Ibis, 1866, p. 40 (San Antonio, spring and 
-autumn); Salvin, t. c. p. 190 (Chiapam); Lawr. Ann. Lye. N. Y. 
+autumn); Salvin, t. c. p. 190 (Chiapam); Lawr. Ann. Lyc. N. Y. 
 viii. p. 100 (1867 : Sombrero); Scl. P. Z. S. 1867, p. 333 (Chili); 
 Bairdj Ibis, 1867, p. 283; Brown, Ibis, 1868, p. 425 (Vancouver 
 IsL); Coues, Proe. Bost. Soc. Nat. Hist. xii. p. 123 (1868: S. 
@@ -30866,7 +30866,7 @@ iii. p. 42, no. 10248 (1871); Allen, Full. Harv. Coll. C. Z. iii. p. 356
 (1872 : Kansas); Coues, Key N. Amer. B. p. 263 (1872); Snow, 
 Birds Kansas, p. 10 (1873); Lilford, Ibis, 1873, p. 98 (S. Spain); 
 Scl. # Salv. Nomencl. Av. Neotrop. p. 146 (1873); iid. P. Z. S. 
-1873, p. 456; Ridgw. Ann. Lye. N. Y. x. p. 385 (1874: Illinois); 
+1873, p. 456; Ridgw. Ann. Lyc. N. Y. x. p. 385 (1874: Illinois); 
 Coues, B. N-West,y. 509 (1874); Lawr. Mem. Bost. Soc. N. H. ii. 
 
 41 . NTOKNIUS. 3(55 
@@ -31183,7 +31183,7 @@ West Scotl p. 290 (1871: Aberdeen, Sept.) ; Allen, Bull. Mus.
 C. Z. iii. p. 182 (1872: Kansas, June); Coues, Key N. Amer. B. 
 p. 263 (1872); Dresser, B. Eur. viii. p. 221, pL 575 (1873); Scl 
 %-Salv. Nomencl. Av. Neotr. p. 146 (1873); iid. P. Z. S. 1873, 
-p. 456; Coues, B. N.-West, p. 510 (1874); Ridgio. Ann. Lye, 
+p. 456; Coues, B. N.-West, p. 510 (1874); Ridgio. Ann. Lyc. 
 N. Y x. p. 385 (1874: Illinois); Reid, ZooL 1877, p. 478 (Bermudas) 
 ; Bennett, Bull. U.S. Geol. Surv. iv. p. 56 (1878: Corpus 
 Christi); Bumf. Ibis, 1878, p. 44 (Chnpat Valley); Merrill, Broc. 
@@ -33074,7 +33074,7 @@ Massachusetts); Schl. Mus. Pays-Bas, Scolopaces, p. 23 (1864);
 Salvin, Ibis, 1865, p. 190 (Guatemala); Dresser, Ibis, 1866, p. 39 
 (Texas); Mcllwr. Froc. Fss. List v. p. 93 (1866: Hamilton, 
 Canada West) ; Coues, t c. p. 296 (1868 : New England); Lawr. 
-Ann. Lye. N. T. ix. p. 210 (1868: Northern Yucatan); Coues, 
+Ann. Lyc. N. T. ix. p. 210 (1868: Northern Yucatan); Coues, 
 B'oc. Bost. Soc. Nat. Hist xii. p. 123 (1868: South Carolina); 
 Gray, Kand-l. B. iii. p. 43, no. 10263 (1871); Trippe, Froc. Fss. 
 Inst vi. p. 119 (1871: Minnesota); Allen, Bull. Sarv. Coll. n. 
@@ -33085,7 +33085,7 @@ Philad. 1871, p. 32 (Fort Macon, N. Carolina); Trippe, Proc. Bost*
 
 Soc. Nat Eist. xv. p. 241 (1872: Southern Iowa) ; Coves, Key N. 
 Amer. B. p. 257 (1872); Snow, B. Kansas, p. 10 (1873); Set $ 
-Salv. Nomencl. Av. Neotr. p. 146 (1873): Ridgw. Ann. Lye. N T. 
+Salv. Nomencl. Av. Neotr. p. 146 (1873): Ridgw. Ann. Lyc. N T. 
 
 x. p. 384 (1874: Illinois); Coues, B. N.-West, p. 492 (1874); 
 Laior. Mem. Bost. Soc. Nat. Eist ii. p. 308 (1874: 3Iazatlan) ; 
@@ -33272,15 +33272,15 @@ Meichenb. Grail, tab. ccclvi. figs. 2793-95 (1850); MacgtiL Brii^
 B. iv. p. 275 (1852); Bp. C. P. xliii. p. 579 (1856); Bawd, B. 
 N. Amer. p. 712 (1858); Cooper $ Suckley, N. E. Washington 
 Territory, p. 238 (1860) ; Set $ Sah. Ibis, 1860, p. 277 (San 
-Geronimo, Guatemala); Lawr. Ann. Lye. N. Y. vii. p. 273 (1861;. 
+Geronimo, Guatemala); Lawr. Ann. Lyc. N. Y. vii. p. 273 (1861;. 
 Cuba); Peinh. Ibis, 1861, p. 11 (Greenland); Coves, Proc. Acad. 
-Nat Sci. Philad. 1861, p. 229 (Labrador); Later. Ann. Lye. N. Y. 
+Nat Sci. Philad. 1861, p. 229 (Labrador); Later. Ann. Lyc. N. Y. 
 vii. p. 479 (1862 : Panama); Boardm. Proc. Post. Soc. Nat. Hist, 
 ix. p. 128 (1862: Maine); Gzmdl J. f. O. 1862, p. 85 (Cuba); 
 Verrill, Proc. Ess. Inst. iii. p. 158 (1862: Maine); Gray, Cat 
 Brit. B. p. 172 (1863); Blakist. Ibis, 1863, p. 131 (Fort Carlton); 
 Allen, Proc. Ess. Inst. iv. p. 86 (1864: Springfield, Massachusetts); 
-Lawr. Ann. Lye. N. Y. viii. p. 101 (1864: Sombrero); Salvin, 
+Lawr. Ann. Lyc. N. Y. viii. p. 101 (1864: Sombrero); Salvin, 
 Ibis, 1865, p. 191 (Guatemala); Dresser, t c. p. 313 (Southern 
 Texas); Coues, Proc. Acad. Nat. Sci. Philad. 1866, p. 97 (Arizona) 
 ; Dresser, Ibis, 1866, pp. 36, 37 (Matamoras); Mellwr^ 
@@ -33358,14 +33358,14 @@ p. 717 (1832).
 The Brown or Red-breasted Snipe, Nuttall, Man. Orn. ii. p. 181 
 (1834). 
 Limnodromus griseus, Lembeye, Av. Cuba, p. 91 (1850). 
-Scolopax longirostris, Bell, Ann. Lye. N. Y. v. p. 3 (1852: Long Isl.}. 
-Macrorhamphus scolopaceus, Lawr. Ann. Lye. N. Y. v. p. 4, pi. i. 
+Scolopax longirostris, Bell, Ann. Lyc. N. Y. v. p. 3 (1852: Long Isl.}. 
+Macrorhamphus scolopaceus, Lawr. Ann. Lyc. N. Y. v. p. 4, pi. i. 
 
 (1852); Licht Nomenel Av. Mtis. Berol p. 93 (1854); Bp. C. It. 
 
 xliii. p. 579 (1856); Baird, B. N. Amer. p. 712 (1858); Henry, 
 Proc. Acad. Nat. Sci. Philad. 1859, p. 108 (Xew Mexico); Later. 
-Ann. Lye. N. Y. vii. p. 272 (1861: Cuba) ; Blakist. Ibis, 1863, 
+Ann. Lyc. N. Y. vii. p. 272 (1861: Cuba) ; Blakist. Ibis, 1863, 
 p. 132 (Mackenzie It) ; Coues, Ibis, 1866, p. 271 (California) ; id. 
 Proc. Bss. Inst. v. p. 293 (1868: Xew England); Later. Ann. 
 Lye. N Y. ix. p. 141 (1869: Costa Rica); Ball # Bann. Trans. 
@@ -33823,7 +33823,7 @@ Range. Eastern North America, breeding in Canada, migrating in
 winter to Central America, South America, and the "West Indies. 
 
 1. Mcropalama himantopus. 
-Tringa himantopus, Bp. Ann. Lye. N. Y. ii. p. 157 (1826: Long 
+Tringa himantopus, Bp. Ann. Lyc. N. Y. ii. p. 157 (1826: Long 
 Branch, New Jersey, July) ; Less. Man. d'Orn. ii. p. 284 (1828) ; 
 Swains. Faun. Bor.-Amer., Birds, p. 380 (1831: Hayes River); 
 Bp. Amer. Orn. iv. p. 89, pi. 25. ftg. 3 (1833: Long Isl.); Audub. 
@@ -33871,7 +33871,7 @@ Salv. Ibis, 1859, p. 229 (Guatemala) ; Scl. P. Z. S. 1860, p. 290
 (Babahoyo); Coues, Proa. Acad. Nat. Sci. Philad. 1861, p. 174 
 (Great Slave Lake ; Bed Fork of the Arkansas); Blakisi. Ibis, 
 1863, p. 133 (Hudson's Bay); Scl P. Z. S.1862, p. 369 (Mexico) ; 
-Lawr. Ann. Lye. N. Y. viii. p. 100 (1864: Sombrero); Dresser, 
+Lawr. Ann. Lyc. N. Y. viii. p. 100 (1864: Sombrero); Dresser, 
 Ibis, 1866, p. 37 (Texas); Coues, t c. p. 271 (Arizona); Scl <|* 
 Salv. P. Z. S. 1866, p. 199 (River Ucayali); Lawr. Ami. Lye. N. T. 
 
@@ -33883,7 +33883,7 @@ Port Bridger, Wyoming); Brewster, Amer. Nat. v. p. 307 (1872:
 Cape Cod, Massachusetts); Coues, Keif N. Amer. B. p. 254 (1672); 
 Scl. $ Salv. Nmnencl. Av. Neotr. p. 145 (1873); iid. P. Z. S. 1873, 
 p. 309 (Nauta, Peru); Coues, B. N.-West, p. 480 (1874); Ridr/tv. 
-Ann. Lye. N. T. x. p. 383 (1874: Illinois); Gundl J.f. O. 1875, 
+Ann. Lyc. N. T. x. p. 383 (1874: Illinois); Gundl J.f. O. 1875, 
 p. 326 (Cuba); id. Orn. Cubana, p. 174 (1876) ; Lawr. Bull U.S. 
 Nat. Mus. iv. p. 47 (1876: Tehuantepec); Reid, Zool. 1877, 
 p. 476 (Bermudas); Moore, Proc. Bost. Soc. Nat. Mist. xix. p. 241 
@@ -34073,7 +34073,7 @@ SYHPHEMIA. „.
 aype. 
 Symphemia, Rafin. Journ. de Phys. lxxxviii. p. 417 
 (1819).., S. semipalmata. 
-Oatoptrophorus, Bp. Ann. Lye. N. Y. ii. p. 323 
+Oatoptrophorus, Bp. Ann. Lyc. N. Y. ii. p. 323 
 (1826) S. semipalmata. 
 Hodites^ Kaup, Natiirl. Syst. p. 155 (1829) S. semipalmata. 
 
@@ -34114,7 +34114,7 @@ Amer. p. 294 (1879) ; Cory, B. Bahamas, p. 160 (1880); Karting,
 Lbis, 1883, p. 134; Seebohm, Geogr. Distr. Charadr. p. 358 (1888); 
 Cory, B. Bahamas, 2nd ed. p. 160 (1890 : Inagua, breeding). 
 Glottis semipalmata, Nilss. Orn. Suec. ii. p. 55 (1821). 
-Totanus (Oatoptrophorus) semipalmatus, Bp. Ann. Lye. N. Y. ii. 
+Totanus (Oatoptrophorus) semipalmatus, Bp. Ann. Lyc. N. Y. ii. 
 
 p. 323 (1826: N. America, occasional on European shores). 
 Totanus speculiferus, Cuv. Reqne Anim. i. p. 531 (1829); Less. 
@@ -34155,13 +34155,13 @@ Lye. N. 7. viii. p. 294 (1866 : New York); Coues, Proc. Acad.
 Nat. Sci. Philad. 1866, p. 97 (Arizona, Oct.); Baird, Ibis, 1867y 
 p. 285; Degl. et Gerbe, Om. Eur. ii. p. 233 (1867); Covet,, Proc. 
 Post. Soc. Nat. Hist. xii. p. 122 (1868 : S. Carolina) ; Lawr. 
-Ann. Lye. N. Y ix. p. 210 (1869: Yucatan) ; Allen, Bull. Mus. 
+Ann. Lyc. N. Y.ix. p. 210 (1869: Yucatan) ; Allen, Bull. Mus. 
 C. Z. ii. p. 356 (1871: Florida); Coues, Proc. Acad. Nat. Sci. 
 Philad. 1871, p. 32 (N. Carolina); Pelz. Om. Bras. p. 309 (1871: 
 Guapore* River, March); Merriam, U.S. Geol. Surv. Terr. 1872, 
 p. 700 (Salt Lake, Utah; North Fork, Idaho) ; Sci # Salv. 
 Nomencl. Av. Neotr. p. 145 (1873); Lawr. Mem. Bost. Soc. Nat. 
-Hist. ii. p. 309 (1874: Mazatlan) ; Ridgw. Ann. Lye. N. Y. x. 
+Hist. ii. p. 309 (1874: Mazatlan) ; Ridgw. Ann. Lyc. N. Y. x. 
 p. 384 (1874: Illinois); Gundl. J. f. O. 1875, p. 322 (Cuba); 
 Lawr. Bull. U.S. Nat. Mus. iv. p. 47 (1876 : Tehuantepec) ; Bree, 
 B. Eur. v. p. 15, pi. 2. fig. 2 (1875); Pidgw. Pep. AOth Paralhl, 
@@ -36327,11 +36327,11 @@ Hist. ix. p. 129 (1862: Maine); Verrill, Proc. Ess. Imt. iu. p. 152
 Philad. 1864, p. 6S (Jamaica); Allen, Proc. Ess. Inst. iv. p. 77 
 (1864: Springfield, Mass.) ; Mcllwr. op. cit. v. p. 93 (1866 : Hamilton, 
 Canada West); Dresser, Ibis, 1866, p. 38 (Texas, June) ; 
-Lawr. Ann. Lye. X. T. viii. p. 294 (1866: Sombrero); Coues, 
+Lawr. Ann. Lyc. X. T. viii. p. 294 (1866: Sombrero); Coues, 
 Proc. Acad. Xat. Sci. Philad. 1866, p. 98 (Arizona) ; id. Proc. Ess. 
 Inst v. p. 295 (1868: New England); id. Proc. Bost Soc. Xat. 
 Hist xii. p. 122 (1868: S. Carolina); Brown, Ibis, 1868, p. 425 
-(Vancouver Isl.); Later. Ann. Lye. X. T. ix. p. 141 (1868: San 
+(Vancouver Isl.); Later. Ann. Lyc. X. T. ix. p. 141 (1868: San 
 Jose, Costa Rica); Ball $• Bann. Trans. Chic. Acad. i. p. 292 
 (1869: Sitka) ; Stevens. U.S. Geol. Surv. Terr. 1870, p. 466 (Camp 
 Revnolds & Fort Fetterman); Allen, Bidl. Mus. C. Z. ii. p. 35Q 
@@ -36776,7 +36776,7 @@ Rico) ; Gray, Hand-l. B. iii. p. 43, no. 10274 (1871); Ilodd, ZooL
 1871, p. 2807 (Cornwall); Felz.Om. Bras. p. 309(1871: Ypaneina; 
 Irisanga^Feb.; Caicara, Sept.; Barra; Cajutuba); Harting, 
 Handb. Brit. B. p. 137 (1872); Coues, Key N. Amer. B. 
-p. 259 (1872); Ridgw. Ann. Lye. N. Y. x. p. 384 (1874: Illinois); 
+p. 259 (1872); Ridgw. Ann. Lyc. N. Y. x. p. 384 (1874: Illinois); 
 Coues, B. N.-West, p. 497 (1874): Tacz. F. Z. S. 1874, p. 560 
 (Central Peru); Hensli. Rep. Expl IWth Merid. p. 450 (1875); 
 Reid, Zool 1877, p. 478 (Bermudas, autumn niispant); Coues 
@@ -36851,20 +36851,20 @@ Gambetta flavipes, Bp. C. B. xliii. p. 597 (1856) ; Cass, in BairdJs
 B. N. Amer. p. 732 (1858); id. Broc. Acad. Nat. Sci. Bhilad. 
 I860, p. 195 (Carthagena) ; Henry, op. cit. 1859, p. 108 (New 
 Mexico, Aug., Sept.); Scl. $ Salv. Ibis, 1859, p. 229 (Duenas); 
-A. § F. Netoton, t. c. p. 257 (St. Croix); Lawr. Ann. Lye. N. 
+A. § F. Netoton, t. c. p. 257 (St. Croix); Lawr. Ann. Lyc. N. 
 Y. vii. p. 334 (1861: Panama); Boardm. Proc. Bost. Soc. Nat 
 Hist. ix. p. 129 (1862: Maine, spring & autumn), Verrill, Proc. 
 Fss. List. iii. p. 152 (1862 : Urnbagog Lakes, Maine); Blakist. Ibis, 
 1862, p. 9 (Saskatchewan Plains), 1863,p. 133 (Mackenzie River); 
 March, Proc. Acad. Nat. Sci. Philad. 1864, p. 68 (Jamaica) ; 
-Lawr. Ann. Lye. N. Y. viii. p 100 (1804: Sombrero); Allen, 
+Lawr. Ann. Lyc. N. Y. viii. p 100 (1804: Sombrero); Allen, 
 Proc. Ess. Inst. iv. p. 77 (1864: Springfield, Mass.) ; I)?*esser, 
 Ibis, 1866, p. 38 (Matamoras, April, May; Galveston Isl., June) ; 
-Lawr. Ann. Lye. N. Y. viii. p. 294 (1866: New York); McLhor. 
+Lawr. Ann. Lyc. N. Y. viii. p. 294 (1866: New York); McLhor. 
 Proc. Fss. Inst. v. p. 93 (1866 : Hamilton, Canada West); Coues, 
 op. cit. v. p. 295 (1868 : New England); Brozon, Ibis, 1868, p. 428 
 (Vancouver Isl.) ; Coues, Proc. Bost Soc. Nat. Hist. xii. p. 122 
-(1868: S. Carolina); Laiur. Ann. Lye. N. Y. ix. p. 141 (1868: 
+(1868: S. Carolina); Laiur. Ann. Lyc. N. Y. ix. p. 141 (1868: 
 San Jose, Costa Rica), p. 210 (Yucatan); Ball § Bann. Trans. 
 Chic. Acad. i. p. 292 (1869: Nulato; Sitka; Kodiak; Fort 
 Yukon) ; Stevens, U.S. Geol. Surv. Terr. 1870, p. 466 (Wyoming); 
@@ -37989,7 +37989,7 @@ Rhyacophilus solitarius, Scl. fy Salv. Ibis, 1859, p. 229 (Guatemala) ;
 A. fy E. Newton, t. c. p. 257 (St. Croix) ; Henry, Proc. Acad. Nat, 
 Sci. PMlad. 1859, p. 108 (Rio Grande, New Mexico) ; Baird, B. 
 N. Amer. p. 733 (1860): Scl. P. Z. S. 1860, p. 254 (Orizaba), 
-1861, p. 80 (Jamaica) ; Lawr. Ann. Lye. N. Y. vii. p. 334 
+1861, p. 80 (Jamaica) ; Lawr. Ann. Lyc. N. Y. vii. p. 334 
 (1861: Panama); Boardm. Proc. Bost. Soc. Nat. Hist. ix. p. 129 
 (1862: Maine, breeding) ; Verrill, Proc. Fss. Inst. iii. p. 152 
 (1862: Maine) ; Albrecht, J.f. O. 1862, p. 205 (Cuba); Blakist. 
@@ -37998,12 +37998,12 @@ Ibis, 1862, p. 9 (Forks of Saskatchewan, May), 1863, p. 133
 p. 67 (Jamaica): Allen, Proc. Fss. Inst. iv. p. 77 (1864: Springfield, 
 Mass.); Scl P. Z. S. 1864, p. 178 (City of Mexico); Dresser, 
 Ibis, 1866, p. 38 (Matamoras, Aug. to April); Scl. $ Salv. P. Z. S. 
-1866, p. 199 (Nauta, East. Peru); Lawr. Ann. Lye. N. T. viii. 
+1866, p. 199 (Nauta, East. Peru); Lawr. Ann. Lyc. N. T. viii. 
 p. 294 (1866: Sombrero); Coues, Proc. Acad. Nat. Sci. Philad, 
 1866, p. 98 (Fort Whipple, Arizona); Scl P. Z. S. 1867, p. 592 
 (Mexiana); Coues, Proc. Fss. Inst. v. p. 295 (1868: New England); 
 id. Proc. Bost. Soc. Nat. Hist. xii. p. 123 (1868: S. Carolina); 
-Law. Ann. Lye. N. Y. ix. p. 141 (1869: Costa Rica); Scl. # 
+Law. Ann. Lyc. N. Y. ix. p. 141 (1869: Costa Rica); Scl. # 
 
 446 CHARADBIID33. 
 
@@ -38034,7 +38034,7 @@ Scl £ Suds. Argent. Orn. ii. p. 188 (1889) ; Feilden, Ibis, 1889,
 p. 496 (Barbados); Holland, Ibis, 1891, p. 20; Graham Kerr, 
 Ibis, 1892, p. 151 (Lower Pilcomayo); Holland, t. e. p. 212 
 (Estancia Espartilla); Aplin, Ibis, 1894, p. 209 (Uruguay). 
-Totanus chloropus, var. solitarius, Bidgw. Ann. Lye. N. T. x. p. 384 
+Totanus chloropus, var. solitarius, Bidgw. Ann. Lyc. N. T. x. p. 384 
 (1874: Illinois). 
 
 Adult male in Ireeding-jyiumage. Similar to H ochrojni.% but 
@@ -40234,7 +40234,7 @@ Panama); ScL P. Z. S.1861, p. 80 (Jamaica) ; Alhrecht, J.f. 0.
 Cat. Brit B. p. 160 (1863); Taylor, Ibis, 1864, p. 93 (Trinidad); 
 Dresser, Ibis, 1866, p. 38 (Matainoras, Aug.: San Antonio, Sept., 
 Oct.); Mclhcr. Proc. Ess. hist. v. p. 93 (1866: Hamilton. Canada 
-"West); Later. Ann. Lye. X. Y. viii. p. 294 (1876: Lonjr Kl , 
+"West); Later. Ann. Lyc. N. Y. viii. p. 294 (1876: Lonjr Kl , 
 N. Y.) ; Coues, Proc. Acad. Nat. ScL Philad. 1866. p. 98 (Colorado 
 11., Arizona); Leot. Ois. Trinid. p. 461 (1866); ScL ^ Salv. P. Z. S. 
 1867, p. 592 (Mexiana), 1868, p. 629 (Venezuela): Lairr. Ann. 
@@ -40298,7 +40298,7 @@ Actitis notata, Bp. C. R. xliii. p. 597 (1856).
 
 Tringites niacularius, Scl. $ Salv. P. Z. 8. 1873, p. 309 (Chamicuros). 
 
-Totanus hypoleucus, var. macularius, Ridgw. Ann, Lye. N. Y. x, 
+Totanus hypoleucus, var. macularius, Ridgw. Ann. Lyc. N. Y. x, 
 
 p. 384(1874: Illinois). 
 Adult male in breeding-plumage. Similar to T. hypoleucus, but 
@@ -44297,7 +44297,7 @@ Grail tab. Ixxiv. fig. 590 (1850) ; Bp. C. P. xliii. p. 597 (1856) ;
 Cass, in Bairtfs B. N. Amer. p. 737 (1858); Henry, Proc. Acad. 
 Nat. Sci. Philad. 1859, p. 108 (New Mexico) ; Scl. $ Salv. Ibis, 
 1859, p. 230 (Duenas); Scl. P. Z. S. 1860, p. 253 (Orizaba); 
-Lawr. Ann. Lye. N. Y. vii. p. 334 (1801: Panama); Boardm. 
+Lawr. Ann. Lyc. N. Y. vii. p. 334 (1801: Panama); Boardm. 
 Proc. Bod. Soc. Nat Hist. ix. p. 129 (1862: Blaise, summer); 
 Verrill, Proc. Ess. Inst iii. p. 152 (1862: Oxford Co., Maine); 
 Blakist. Ibis, 1862, p. 9 (Saskatchewan, breeding), 1863, p. 134; 
@@ -44306,10 +44306,10 @@ Gould, Handb. B. Austr. ii. p. 242 (1865: near Sydney); Cones,
 Ibis, 1865, p. 158 (Fort Riley, Kansas); Dresser, t c. p. 314 
 (Texas, Sept.), 1866, p. 38 (San Antonio); Scl. # Salv. P. Z. S. 
 1866, p. 567 (R. UcayaJi); Mclhor. Proc. Pss. Inst v. p. 93 
-(1866: Hamilton, Canada West); Lawr. Ann. Lye. N. Y. viii. 
+(1866: Hamilton, Canada West); Lawr. Ann. Lyc. N. Y. viii. 
 p. 294 (1866: New York) ; Scl $ Salv. P. Z. S. 1867, p. 979 
 (Pebas, Peru); Baird, Ibis, 1867, p. 285; Scl § Salv. P. Z. S. 
-1868, p. 169 (Caracas, Venezuela); Lawr. Ann. Lye. N. Y. ix. 
+1868, p. 169 (Caracas, Venezuela); Lawr. Ann. Lyc. N. Y. ix. 
 p. 142 (1868: Costa Rica); Coues, Proc. Pss. Inst. v. p. 295 
 (1868: New England); id. Proc. Post Soc. Nat Hi»t. xii. p. 123 
 (1868: S. Carolina); Allen, Mem. Post. Soc. Nat. Hist. i. p. 501 
@@ -44323,7 +44323,7 @@ Proc. Post Soc. Nat Hist xv. p. 241 (1872: Iowa, breeding);
 Coues, Key N. Amer. B. p. 261 (1872) ; Snow, B. Kansas, 
 p. 10 (1873) ; Scl fy Sab. No?nencl. Ai\ Neotrop. p. 146 (1873) ; 
 %id. P. Z. S. 1873, p. 309 (Nauta; Chainicuros; Pebas); Bidaw. 
-Ann. Lye. N. Y. x. p. 384 (1874: Illinois); Coues, B. 2s.-West, 
+Ann. Lyc. N. Y. x. p. 384 (1874: Illinois); Coues, B. 2s.-West, 
 p. 502 (1874); Allen, Proc. Bosi. Soc. Nat. Hist xvii. p. 67 
 (1874: Yellowstone); Tacz. P. Z. S. 1874, p. 560 (CentralPeru); 
 Hensh. Pep. Zool. Hxjol 100th Merid. p. 461 (1875: Sulphur 
@@ -44756,9 +44756,9 @@ Cass. Proc. Acad. Nat Sci. PMlad. 1860, p. 196
 (Carthagena); Coues, op. cit. 1861, pp. 177, 233 (Labrador); 
 Boardm. Proc. Bost Soc. Nat. Mist. ix. p. 129 (1862: Maine); 
 Verrill, Proc. Ess. Inst. iii. p. 158 (1862: Oxford Co., Maine); 
-Laior. Ann. Lye. N. Y. viii. p. 100 (1864: Sombrero); Allen, 
+Laior. Ann. Lyc. N. Y. viii. p. 100 (1864: Sombrero); Allen, 
 Proc. Bss. Inst. iv. p. 87 (1864: Springfield, Mass.); Coues, Proc. 
-Acad. Nat. Sci. PMlad. 1866, p. 97 (Arizona); Lawr. Ann. Lye. 
+Acad. Nat. Sci. PMlad. 1866, p. 97 (Arizona); Lawr. Ann. Lyc. 
 N Y. viii. p. 294 (1866: Long. Isl.); McBwr. Proc. Bss. List. v. 
 
 p. 93 (1866: Hamilton, Canada West); Coues, t c. p. 294 (New 
@@ -45461,7 +45461,7 @@ Wash. Ten*, p. 244 (I860: Shoalwater Bay;; Blakht. Ibis, 1563,
 
 p. 134; Allen, Proc. Ess. Inst iv. p. 78 (1&U4: Sprinprfield, Mass.); 
 Gould, B. Gt. Brit iv. pi. 64 (1865) ; Dresser, Ibis, lattG, p. 39 
-(Matamoras, Aug., Sept.); Laicr. Ann. Lye X. Y. viii. p. 294 
+(Matamoras, Aug., Sept.); Laicr. Ann. Lyc.X. Y. viii. p. 294 
 (1866); ScL § Sab. P. Z. S. 1866, p. 11*9 (Uppnr Ucavali); iid. 
 P. Z. S. 1867, p. 754 (Xeberos), p. 979 (Pebas); Laird, Ibis, 1867, 
 p. 285; Cones, Proe. Ess. Inst v. p. 292 {180b: "Sew England) ; 
@@ -45471,7 +45471,7 @@ Sitka; Anderson R., breeding); Hartmgy Ilandb. Brit. B. p. 138
 (1872); Coues, Key X. Amer. B. p. 261 (lfc72); Snow, B. 
 Kansas, p. 10 (1873); ScL <§-Sah\ NomencL A v. Xcotrop. p. 146 
 (1873); iid. P. Z. S. 1873, p. 309 (Upper Ucavali; Xeberos; 
-Chamicuros; Pebas); Bidgtv. Ann. Lye. X. Y. x*. p. 285 (1874: 
+Chamicuros; Pebas); Bidgtv. Ann. Lyc. N. Y. x*. p. 285 (1874: 
 Illinois); Coues, B. X.-West, p. 506 (lb74); GundL J.f. O. 1875, 
 p. 325 (Cuba); id. Orn. Cubana, p. 173 (1876); Dresser, B. Eur. 
 viii. p. Ill , pi. 561 (1876); Merrill, Proc. U.S. Nat 31m, L 
@@ -47983,7 +47983,7 @@ p. 89 (1895) ; Thome, Auk, xii. p. 213 (1895: Fort Keogh, Montana)
 p. 721 (1858); Bryant, Proc. Post. Soc. Nat Mist. Tii. p. 121 
 (1859 : Bahamas, April) ; Cass. Proc. Philad. Acad. 1860, p. 196* 
 (Cartagena); Scl. P. Z. S. I860, p. 196 (Cartagena); id. P. Z. S. 
-1861, p. 80 (Jamaica); Bator. Ann. Lye. N. F. 1861, p. 334 
+1861, p. 80 (Jamaica); Bator. Ann. Lyc. N. F. 1861, p. 334 
 (Panama); Scl. P. Z. S. 1864, p. 178 (City of Mexico); Dresser, 
 lbisf 1866, p. 37 (Texas); Brown, Ibis, 1868, p. 425 (Vancouver) : 
 Pelz. Orn. Bras. p. 311 (1871: Cuyaba, April). 
@@ -48003,7 +48003,7 @@ Actodromas wilsoni, Bp> t. c. p. 596 (1856); A. <§* H. Newt IMs,
 
 Actodromas minutilla, Cones, Proc. PMlad. Acad. 1861, pp. 191,230; 
 March, Proc. Philad. Acad. 1864, p. 67 (Jamaica; all the year); 
-Lawr. Ann. Lye. N. Y. viii. p. 294 (1866: New Jer&ev); id. IMs, 
+Lawr. Ann. Lyc. N. Y. viii. p. 294 (1866: New Jer&ev); id. IMs, 
 1866, p. 269 (Arizona); A. Newt P. Z. S. 1867, p. 165, pi. 15. 
 %. 3 (egg) ; Ball $ Bami Tr. Chicago Acad. i. p, 292 (1869; 
 Alaska, breeding); Allen, Mem. Bost. Soc. N. H. i. p. 501 (1868: 
@@ -49225,7 +49225,7 @@ Mattagrosso, Aug.); Trippe, Proc. Bo<tt. Sue. Nat. I£i>f. xv. p. 241
 (1872 : Southern Iowa); Hurting, Handb. Brit B. p. 140 (1^72); 
 Cones, Key N Amer. B. p. 2>>5 (1872); Scl.fy Salt. Nmnmcl. A v. 
 Neotr.]).Ur>(lb73); iid. P. Z. S. 1878, p. 455; (*oue,% B. N-
-West, p. 480 (1874); Ridgtc. Ann, Lye. N. Y. x. p. 3b4 (1874: 
+West, p. 480 (1874); Ridgtc. Ann. Lyc. N. Y. x. p. 3b4 (1874: 
 Illinois); Tacz. P. Z. S. 1874, p. 560 (Chorillos; Junin); Scl # 
 Salv, t. e. p. 678 (Pancatambo) ; Bumf. Ibis, 1877, p. 43 (Chupat 
 Valley, Patagonia); JRtid, Zool. Ib77, p. 477 (Bermudas); Moore, 
@@ -49287,7 +49287,7 @@ Pelidna pectoralis, Say in Long's Exped. Pocky Mts. i. p. 171 (1823) ;
 Bp. Comp. List B. Fur. $ N. Amer. p. 50 (1838); Cab. J.f O. 
 1856, p. 421 (Cuba); Gundl. J.f. O. 1862, p. 87 (Cuba). 
 
-Tringa pectoralis, Bp. Ann. Lye. N. Y. ii. p. 818 (1826); id. Amer. 
+Tringa pectoralis, Bp. Ann. Lyc. N. Y. ii. p. 818 (1826); id. Amer. 
 Om. iv. p. 43, pi. 23. fig. 2 (1833); Audub. Om. Biogr. iii. p. 601, 
 pi. eexciv. (1835); Jenyns, Man. Brit Vertebr. p. 210 (1835); 
 Gould, B. Eur. iv. pi. 327 (1837); Audub. Om. Biogr. v. p. 584 
@@ -49331,7 +49331,7 @@ Actodromas maculata, Uerrill, Proc. Etsex Inst. iii. p. 153 (1862:
 Oxford Co., Maine) ; Boardm. Proc. Post. Sue. Xat. Hist. is. p. 128 
 (1862: Calais, Maine); Allen, Proc. Essex Inst. iv. p. 77 (1864: 
 Sprinafield, Mass.); Mcllwr.'op. cit. v. p. 93 (1866: Hamilton, 
-Canada West); Laur. Ann. Lye. X. Y. sin. p. 294 (Ifc66); 
+Canada West); Laur. Ann. Lyc. N. Y. sin. p. 294 (Ifc66); 
 Cones, Proc. Essex Inst. v. p. 294 (1&G8: Xew England) : Allen, 
 Menu Post. Soc. X. H. i. p. 501 (1868: Western Iowa;• Cones, Proc. 
 Post. Soc. Xat Hist. rrii. p. 122 (1868: S. Carolina); ball 4* 
@@ -50030,7 +50030,7 @@ P. Z. S. 1868, p. 144 (Concliitas, Buenos Ayres); Harting, Ibis,
 no. 10308 (1871); Gurnet/ in Anderss. B. Bam.Ld. p. 308 (1872); 
 . Coues, Key N. Amer. B. p. 255 (1872) ; Scl.fy Salv. Nomencl Av. 
 Neotr. p. 145 (1873) ; iid. P. Z. S. 1873, p. 455; Coues, B. N.-
-WestK p. 484 (1874); Ridgw. Ann. Lye. N. Y. x. p. 384 (1874: 
+WestK p. 484 (1874); Ridgw. Ann. Lyc. N. Y. x. p. 384 (1874: 
 Illinois); Coues, Bull. U.S. Geol. Surv. iv. p. 640 (1878: Dakota 
 & Montana); Merrill, &-oc. U.S. Nat. Mus. i. p. 161 (1878: 
 Fort Brown, Texas) ; Belding, t. c. p. 395 (California); Maynard, 
@@ -50420,7 +50420,7 @@ f Tringa campestris, LicM. Verz. Donbl. p. 74 (1823: Brazil; Montevideo)
 ; Burin. Th. Bras, iii.p. 374 (1856). 
 Pelidna cinclus, var.; Say, in Long's Exped. Rooky Mount, i. p. 172 
 
-Tringa schinzii (nee Brehm), Bp. Ann. Lye. N. Y. ii. p. 317 (1826); 
+Tringa schinzii (nee Brehm), Bp. Ann. Lyc. N. Y. ii. p. 317 (1826); 
 Swains. Faun. Bor.-Amer., Birds, p. 384 (1831: Saskatchewan, 
 June); Bp. Amer. Orn. iv. p. 69, pi. 24. fig. 2 (1833); Audub. 
 Orn. Biogr. iii. p. 529, pi. eclxxviii. (1835); Gould, B. Bur. iv. 
@@ -50457,7 +50457,7 @@ Oct.; Engenho do Gama, Sept.; Matagrosso, Aug., Oct.; Marabitanas,
 May) ; Coues, Key N. Amer. B. p. 255 (1872); Harting, 
 Handb. Bfit. B. p. 142 (1872) ; Scl. $ Salv. P. Z. S. 1873, 
 pp. 186, 455 (Oosnipata, Peru); Tacz. op. cit, 1874, p. 560 
-(Central Peru); Ridgw. Ann, Lye. N. Y. x. p. 384 (1874: Illinois) 
+(Central Peru); Ridgw. Ann. Lyc. N. Y. x. p. 384 (1874: Illinois) 
 ; Moore, Proc. Bost. Soc. Nat. Hist. xix. p. 241 (1877: 
 Fortune Isl, Bahamas, Aug.); Reid, Zool. 1877, p. 477 (Bermudas) 
 ; Stebohm, Hist. B?'it. B. iii, p. 189 (1885); id. Geogr. 
@@ -50494,7 +50494,7 @@ p. 128 (1862: Calais, Maine); Verrill, t. c. p. 139 (Anticostl,
 snmmer); id. Proc. Essex Inst. iii. p. 158 (1804; Oxford Co., 
 Mainej ; Allen, op. cit iv. p. 87 (1S64: Ma*>at*HU<ettsj ; Coues, 
 Ibis, I860, p. 158 (Arizona)• Gundl. Repert Eisieo-Wat, Cuba, i. 
-p. 356 (1866) ; Later. Ann. Lye. W. Y. viii. p. 294 < 1806); Coues, 
+p. 356 (1866) ; Later. Ann. Lyc. W. Y. viii. p. 294 < 1806); Coues, 
 Proc. Ess. Inst v. p. 249 (1867: Xew England] ; id. Proc. Post. 
 Soc. Wat. Hist. xii. p. 122 (1868: S. Carolina); Allen, Ball Mas. 
 C. Z. ii. p. 356 (1871: Florida); Coues, Proc. Acad. Wat Sri. 
@@ -50919,7 +50919,7 @@ The Purple Sandpiper, Nuttall, Man. Om. ii. p. 115 (1834); Yarrell,
 Brit. B. ii. p. 665 (1843). 
 Tringa 
 (Arquatella) maritima, Baird, B. N. Amer. p. 717 (1858) ; 
-Palmen, Finl Fogl p. 193 (1873); Bidgw. Ann. Lye. N Y x. 
+Palmen, Finl Fogl p. 193 (1873); Bidgw. Ann. Lyc. N Y x. 
 
 p. 384(1874: Illinois). 
 Arquatella maritima, Corns, Proc. Acad. Nat Sci. Philad. 1861, 
@@ -52366,7 +52366,7 @@ iii. p. 158 (1862: Maine, autumn); Blahist Ibis, 1863, p. 132
 Scolopaces, p. 29 (1864); Wright, Ibis, 1864, p. 148 (Malta, Jan. 
 and Feb.); DaiosonBowleg, t c. p. 223 (Brighton, Sept.); Allen, 
 Pi'oc. Bssex Inst. iv. p. 86 (1864: Springfield, Mass.): Govld, 
-Eandb. B. Ausir. ii. p. 259 (1865); Later. Ann. Lye. N. Y. viiL 
+Eandb. B. Ausir. ii. p. 259 (1865); Later. Ann. Lyc. N. Y. viiL 
 p. 294 (1866); LSot Ois. Trinid. p. 468 (1866); layard, B. S. Afr. 
 p. 330 (1867); Baird, Ibis, 1867, p. 280 (Greenland); Degl et 
 Gerbe, Orn. Eur. ii. p. 190 (1807); Locke, Expl Sci. Alger., Ois. 
@@ -52393,7 +52393,7 @@ Brooke, Ibis, 1873, p. 330 (Sardinia, winter) ; Swinhoe, t c. p. 368
 (Shanghai, April); Taez. J. f. O. 1873, p. 103 (Kultnk, April); 
 Meugl. Orn. NO.-Afr. ii. Abth. i. p. 1183 (1873: Egyptian 
 Coast; Blue Nile); Salvin, Ibis, 1874, p. 319 (Brazil); Coues, B. 
-N-West, p. 490 (1874); Bidgw. Ann. Lye. N. Y. x. p. 384 (1874: 
+N-West, p. 490 (1874); Bidgw. Ann. Lyc. N. Y. x. p. 384 (1874: 
 Shores of Lake Michigan); Saxby, B. Shetl p. 207 (1874); Finseh, 
 J.f. 0. 1874, p. 197 (New Zealand); Irby, Orn. Straits Gibr. 
 p. 171 (1875); Banf. # Earvie-Browri, Ibis, 1875, p. 422 (Transylvania) 
@@ -53907,7 +53907,7 @@ Lye. N. Y. x. p. 384 (1874: Illinois); Coues, B. N-West, p. 490
 May); Baird, Brewer, fy Ridgw. Water-Birds N. Am. i. p. 241 
 (1884). 
 Pelidna americana, Coues, Froc. Acad. Nat. So. Fhilad. 1861, p. 1880; 
-Laiur. Ann. Lye. N. Y. ix. p. 294 (1866: New Jersey); Allen, 
+Laiur. Ann. Lyc. N. Y. ix. p. 294 (1866: New Jersey); Allen, 
 Bull. Mus. C. Z. ii. p. 355 (1871: Florida). 
 
 Pelidna pacinca, Coues, Fr. Acad. Nat. Sc. Fhilad. 1861, p. 189. 
@@ -57240,7 +57240,7 @@ Gallinago douglasii, Gray, Gen. iii. p. 583 (1846); Bp. C. R. xliii.
 p. 579 (1856). 
 Telmatias (Scolopax) wilsoni, Reiehenb. Grail Taf. ccclvi.figs. 279092 
 (1850). 
-Gallinago gaHinaria, var. wilsonii, Ridgw. Ann. Lye. N. Y. x. p. 383 
+Gallinago gaHinaria, var. wilsonii, Ridgw. Ann. Lyc. N. Y. x. p. 383 
 (1874). 
 Gallinago media wilsoni, Ridgw. Nomencl N. Amer. 2?. p. 44(1881); 
 Nelson, Cruise R.S.i Corwin/ p. 85 (1883 : Coasts of Bering Sea, 
@@ -59670,7 +59670,7 @@ Bureia Mountains, Aug.); Nordm. J.f 0. 1864, p. 375 (Finland
 and Lapland); Wright, Ibis, 1864, p. 147 (Malta); Jerd. B. Ind. 
 iii, p. 670 (1864); Gould, B. Gt. Brit iv. pi. 77 (1866); Baird, 
 Amer. Journ. Arts fy Sci. xli. p. 25 (1866: Newfoundland) j 
-Lawr. Ann. Lye. N. Y. viiL p. 292 (1866: Rhode IsL, New 
+Lawr. Ann. Lyc. N. Y. viiL p. 292 (1866: Rhode IsL, New 
 Jersey); Whitehj, Ibis, 1867, p. 206 (Hakodadi); Baird, t. c. 
 p. 282 (Newfoundland); Brake, t. c. p. 428 (Tangier); Lochef 
 Expl. Sci. Alger., Ois. ii. p. 299 (1867); Collett, gorges Fugle, 
@@ -60290,7 +60290,7 @@ Lath. Gen. Syn. iii. pt. 1, p. 131 (1785: New York).
 Scolopax minor, Gm. Syst. Nat. i. p. 661 (1788) ; Lath. Ind. Orn. ii. 
 
 p. 714 (1790) ; Wilson, Amer. Orn. vi. p. 40, pi. 48.fig. 2 (1812); 
-Bp. Ann. Lye. N. Y. ii. p. 331 (1826); Audah. Orn. Biogr. iii. 
+Bp. Ann. Lyc. N. Y. ii. p. 331 (1826); Audah. Orn. Biogr. iii. 
 p. 474, pi. eclxviii, fig. 1 (1835); Sehl. Mus. Pays-Bas, Scolopaces, 
 p. 3 (1864); A. $ E. Newton, Handb. Jamaica, p. 116 (1881); 
 Seebohm, Geogr. Distr. Charadr. p. 504 (1888). 
@@ -60322,7 +60322,7 @@ Maynard, Proc. Bost. Soc. Nat. Hist. xiv. p. 383 (1871: Lake
 Umbagog, breeding); Allen, Bull. Mus. C. Z. ii. p. 355 (1871: 
 Florida); Scott, Proc. Bost. Soc. Nat. Hist. xv. p. 227 (1872 : West 
 Virginia); Coues, Key N. Amer. B. p. 252 (1872); id. B. N.-West, 
-p. 472 (1874) ; Ridgxo. Ann. Lye. N. Y. x. p. 383 (1874: Illinois); 
+p. 472 (1874) ; Ridgxo. Ann. Lyc. N. Y. x. p. 383 (1874: Illinois); 
 id. Proc. Bost. Soc. Nat. Hist. xvi. p. 324 (1874: Lower Wabash 
 Valley); Meid. Zool. 1877, p. 476 (Bermudas); Maynard, B. East 
 
@@ -62734,7 +62734,7 @@ Type.
 
 Steganopus, Vieill. N Diet, oVHist. Nat. xxxii. p. 136 
 (1819) S. tricolor. 
-Holopodius, Bp. Ann. Lye. NY. ii. p. 342 (1828) S. tricolor. 
+Holopodius, Bp. Ann. Lyc. NY. ii. p. 342 (1828) S. tricolor. 
 
 Mange. The same as that of the single species. 
 
@@ -62759,7 +62759,7 @@ breeding); Auditb. B. Amer. pi. ecliv.; id Orn. Biogr. ill. p. 400
 Gen. B. iii. p. 586, pi. 158 (1848) : Baird, Cass., & Later. B. N. 
 Amer. p. 705 (1858) ; Schl. Mzis. Poys-Bas, Scolopaces, p. 60 
 (18(54); Scl P. Z. S. 1864, p. 179 (City of Mexico) ; Dresser, fins, 
-I860, p. 35 (San Antonio, Texas, July); Later. Ann. Lye. N. F. 
+I860, p. 35 (San Antonio, Texas, July); Later. Ann. Lyc. N. F. 
 
 •viii. p. 295 (1866: New York); Coues, Ibis, 1866, p. 263 (Colorado 
 River); Salvin, Ibis, 1866, p. 198 (Guatemala); Pelz. Orn. 
