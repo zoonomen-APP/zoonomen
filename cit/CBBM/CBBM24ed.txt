@@ -1786,7 +1786,7 @@ b. <$ ad. sk. Northern Peru, Dec. 18 Count Branicki [P.].
 ,2. Ad. sk. Western Peru. Zool. Society. 
 7. CEdicnemus capensis. 
 CEdicnemus 
-capensis, Licht. Verz. JDoubl. p. 69 (1823: Cape); 
+capensis, Licht. Verz. Doubl. p. 69 (1823: Cape); 
 Finsch # Marti. Vog. Ostafr. p. 624 (1870); Gray, Hand-l. JB. 
 
 iii. p. 9, no. 9941 (1871); Gurney in Anderss. B. Bam. Ld. p. 266 
@@ -13562,7 +13562,7 @@ Vanellus cayanensis, Vieill. N. Diet. d'Hist.Nat. xxxv. p. 206 (1819);
 "Gray, List Grail Brit. Mus. p. 63 (1844: Monte Video ; Brit. 
 
 Guiana), pt.; Burm. Th. Bras. iii. p. 363 (1856). 
-Oharadrius cayennensis, Licht. Verz.Doubly. 70 (1823: S. America). 
+Oharadrius cayennensis, Licht. Verz. Doubl. 70 (1823: S. America). 
 Charadrius lampronotus, Wagl Syst. Av., Charadrius, p. 48, sp. 74 
 
 (1827). 
@@ -13944,7 +13944,7 @@ Vanellus gavia, Leach, Syst. Cat: Ma7irm. fyo. Brit Mus. p. 29
 (1816); Steph. in Shaw's Gen. Zool xi. pt. 2, p. 211 (1819) ; Licht 
 Nomencl Av. Mus. Berol p. 95 (1854: Nubia). 
 
-Charadrius gavia, Licht. Verz. Boubl p. 70 (1823: Egypt, Nubia). 
+Charadrius gavia, Licht. Verz. Doubl.p. 70 (1823: Egypt, Nubia). 
 Vanellus bicornis, Brehm, Vog. Beutschl p. 557 (1831). 
 Vanellus candidus, J. F. Naum. Yog. Beutschl yii. p. 276 (1834). 
 Vanellus pallidus, J F. Naum. Vog. Beutschl vii. p. 276 (1834). 

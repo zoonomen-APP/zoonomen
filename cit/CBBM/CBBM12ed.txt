@@ -6002,7 +6002,7 @@ Loxia cserulea, var. A, Lath. Ind. Om. i. p. 374 (1790).
 Pico grueso azulejo, Azara, Apunt. i. p. 438 (1802). 
 Ooccotbraustes cyanea, Vieill. Ois. Chant, pi. 64 (1805): Bonn. & 
 Vieill Enc. Mith. iii. p. 998 (1823). 
-Fringilla brissonii, Licht. Verz. JDoubl. p. 22 (1823) ; Neuwied, Beitr. 
+Fringilla brissonii, Licht. Verz. Doubl. p. 22 (1823) ; Neuwied, Beitr. 
 Naturg. Bras. iii. p. 561 (1830). 
 Pitylus brissonii, Gray, Gen. B. ii. p. 362 (1844): Hartl. Ind. Azara, 
 
@@ -6419,7 +6419,7 @@ Bouvreuil a becblane, Monti. Hist Nat. Ois. iv. p. 388 (1778).
 Angola Grosbeak, Lath. Gen. Si/sf. ii. pt. 1, p. 145 (J783). 
 White-billed Gro&baik, Lath. he. p. 140 (1783). 
 Pico fpueso negro y canela, Azara, Apunt. i. p. 444 (1802). 
-Prinoilla torrida, Licht. Verz. JDoubl. p. 26 (1823); Nemoied, Beitr. 
+Prinoilla torrida, Licht. Verz. Doubl. p. 26 (1823); Nemoied, Beitr. 
 Naturg. Bras. iii. p. 507 (1830). 
 Coceothraustes mfiveiitris, Bonn, et Vieill. JEnc. Meth. iii. p. 1014 
 
@@ -9193,7 +9193,7 @@ are accurate enough for any identification which can be more than mere guesswork
 
 Loxia pectoralis, Lath. Ind. Orn. i. p. 390 (1790). 
 
-Fringilla pectoralis, Licht Verz. Doubl p. 26 (1823). 
+Fringilla pectoralis, Licht. Verz. Doubl. p. 26 (1823). 
 
 Fringilla atricapilla, Nenwied, Beitr. Naturg. Bras. iii. p. 569 (1830). 
 
@@ -26697,7 +26697,7 @@ have examined a pair of specimens which seemed to me to be scarcely
 separable from P. ammodendri. 
 
 24. Passer simplex. 
-FringiUa simplex, Licht Verz. Doubl. p. 24 (1823); Temm. PI. Col. 
+FringiUa simplex, Licht. Verz. Doubl.. p. 24 (1823); Temm. PI. Col. 
 iii. pi. 358 (1825). 
 Pyrgita simplex,Less. Traite d1 Om.i.^ASQ (1831) ; Licht Nomencl. 
 Jo. Berol p. 47 (1854). 

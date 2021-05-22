@@ -2870,7 +2870,7 @@ Sterna anglica,
 Mont. Orn. Diet. Suppl. fig. (1813: type in Brit. 
 Mus.); Leaeh, Syst. Cat Mamm. Sfc. Brit. Mus.y. 41 (1816); Temm. 
 Man. tfOrn. 2nd ed. p. 744 (1820); Meyer, Taschenb. iii. p. 188 
-(1822); Licht. Verz. Boubl. p. 81 (1823: Nubia); Fleming, Brit 
+(1822); Licht. Verz. Doubl. p. 81 (1823: Nubia); Fleming, Brit 
 An. p. 143 (1828); Werner, Atlas, Palmipedes, pi. 8 (1828) ; 
 Lesson. TraiU. p. 621 (1831); Neuwied, Beitr. Naturg. Bras. iv. 
 
@@ -5728,7 +5728,7 @@ Fsthl. p. 229 (1815); Temm. Man. d'Om. p. 481 (1815),
 2nd ed. p. 740 (1820); Koch, Syst baier. Zool p. 366 (1816); 
 Leach, Syst Cat Mamm. fyc, Brit Mus. p. 41 (1816); Niks. 
 Om. Suec. p. 156 (1817); Bote, Isis, 1822, p. 563; Brehm, Beitr. 
-Vogelh. iii. p. 678 (1822); Licht Verz. Doubl. p. 81 (1823) ; Brehm, 
+Vogelh. iii. p. 678 (1822); Licht. Verz. Doubl.. p. 81 (1823) ; Brehm, 
 Lehrb. p. 688 (1824); Steph. in Shato's Gen. Zool xiii. pt. 1, p. 150, 
 pi. 18 (1825); Bp. Obs, Nomencl. Wilson, no. 241 (1826); id. Ann. 
 Lye. N. T. ii. p. 354 (1828); Werner, Atlas, Palmipedes, pi. 6 
@@ -14905,7 +14905,7 @@ Club, no. xi. p. v (1893: Suakin); Beichenoxc, Vb'g. Deutsch-O.-Afr.
 p. 21 (1894: Tanganyika)^ -
 Rhynchops niger, Leach in Tuekexfs Exped. Congo, App. p. 408 
 (1818). 
-Rhynchops albirostris, Licht Verz. Doubl. p. 80 (1823: Nubia) ; 
+Rhynchops albirostris, Licht. Verz. Doubl.. p. 80 (1823: Nubia) ; 
 Boie, Isis, 1844, p. 191 (Red Sea); Gray, Gen. B. iii. p. 656 
 (1846); Licht Nomencl Av. p. 97 (1854: Egypt). 
 

@@ -11396,7 +11396,7 @@ genus Laniarins {Dryoscopus).
 A. Larger Race. 
 Le Cubla, Levaill Ois. cFAfr. ii. pi. 72; Sund. Krit. Framst, Levaill. 
 p. 32. 
-Lanius cubla, Shaw, Gen. Zool. vii. p. 328; Licht. Verz. JDoubl. 
+Lanius cubla, Shaw, Gen. Zool. vii. p. 328; Licht. Verz. Doubl. 
 p. 48. 
 Dryoscopus cubla, Bote, Isis, 1826, p. 973; Bp. Consp. i. p. 360; id. 
 C. R. xxxviii. p. 534; Cab. Mm. Mein. i. p. 68; Strickl. Edinb. New 
@@ -12759,7 +12759,7 @@ Le Brubru, L&caill. Ois. dAfr. ii. pi, 71; Sundev. Krit. Framst,
 Levaill p. 31 (1857). 
 Lanius brubru, Lath. Ind. Orn., Suppl. ii. p. 78 (1801, ex Levaill.); 
 
-Vieill, N. Diet xxvi. p. 138 ; Licht. Verz. JDoubl. p. 48. 
+Vieill, N. Diet xxvi. p. 138 ; Licht. Verz. Doubl. p. 48. 
 Lanius capensis, Shaw, Gen. Zool. p. 327 (1811). 
 Nilaus capensis, Swains. Zool. Journ. p. 48 (1827); id. Class. B. ii. 
 
@@ -20967,7 +20967,7 @@ Lanius ruiiceps, Bechst. Naturg. Vog. Deufschl. ii. p. 1327 (1805);
 
 Brehm, Naumannig, 1855, p%275. 
 Lanius ruficollis, Shaw, Gen. Zool. vii. p. 310 (1809). 
-Lanius superciliosus, Licht. Verz. JDoubl. p. 47 (1823). 
+Lanius superciliosus, Licht. Verz. Doubl. p. 47 (1823). 
 Phoneus rufus, Kaup, Natiirl Syst. p. 33 (1829), 
 
 
