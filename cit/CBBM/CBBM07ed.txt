@@ -4170,7 +4170,7 @@ a'. Back grey, or grey washed with oliveV* Back blackish
 melanonota, p. 46. 
 
 1. Cossypha imeriaa. 
-Cossypba imerina, Hartl J.f. 0. I860, p. 97; id. Orn. Madag. p. 97 
+Cossypha imerina, Hartl J.f. 0. I860, p. 97; id. Orn. Madag. p. 97 
 (1801) ; Verr. in Vinson's Toy., Ann. B. p. 2 (1865) ; Grand. Bev. 
 et Mag. de Zool. 1867, p. 359 ; Schlegel fy Pollen, Faun. Madag., 
 Ois. p. 168 (18G8); Hartl. Vog. Madag. p. 130 (1877); Milne-
@@ -4198,7 +4198,7 @@ and it may belong to a totally distinct genus.
 
 % Cossypha poensis*. 
 
-Cossypha poensis, StricM. P. Z. S. 1844, p. 100; Allen $ Thomps. 
+Cossypha poensis, Strickl. P. Z. S. 1844, p. 100; Allen $ Thomps. 
 Exped. Niger, ii. p. 496 (1848); Hartl J.f. 0.1855, p. 360; id. 
 Orn. W.-Afr. p. 77 (1857); Cass. Proc. Philad. Acad. 1859, p. 42; 
 Hartl. J.f. O. 1861, p. 163; Sharpe, Ibis, 1869, p. 382; id. Cat. 
@@ -4253,11 +4253,11 @@ Le R£clameur, Levaill. Ois. $Afr. iii. pi. 104 (1802) ; Sundev. Krit*
 Framst, Levaill. p. 35 (1857). 
 
 Turdus reclamator, 
-Vieill. N. Biet. d'Hist. Nat. xx. p. 280 (1820) 
+Vieill. Nouv. Dict. d'Hist. Nat. xx. p. 280 (1820) 
 
-Bonn, et Vieill. Bnc. Meth. ii. p. 670 (1823). 
+Bonn, et Vieill. Enc. Meth. ii. p. 670 (1823). 
 
-Turdus vociferans, Swains. Zool. Blustr. iii, pi. 179 (c. 1823). 
+Turdus vociferans, Swains. Zool. Illustr. iii, pi. 179 (c. 1823). 
 
 Cossypha vociferans, Vigors, Zool. Journ. ii. p. 396 (1826). 
 
@@ -8226,7 +8226,7 @@ Sundev. Krii. Framst., LevailL p. 37 (1857).
 Malurus africanus, Swains. Zool. Illustr. iii. pi. 170 (1823). 
 Sphenura tibicen, Licht. Verz. JDouU. p. 43 (1823). 
 Synallaxis cantor, Lesson, Traite, p. 319 (1831). 
-Sphenoeacus africanus, StricM. P. Z. S. 1841, p. 28; Bp. Consp. I. 
+Sphenoeacus africanus, Strickl. P. Z. S. 1841, p. 28; Bp. Consp. I. 
 
 p. 279 (1850); Cab. Mm. JSein. Th. L p. 42 (1850) j Grill, Zool. 
 Anteckn. p, 32 (1859) ,• Sharpe, Cat Afr. B. p. 32 (1871); Shelley, 
@@ -11815,7 +11815,7 @@ p. 84 (1867).
 Sylvietta crombec, Lafr. Bev. ZooL 1839, p. 258. 
 Oligura meridionalis, Bp. Consp. i. p. 257 (1850). 
 Oligura rufescens, Cab. Mm. Rein. Th. i. p. 44 (1850). 
-Sylvietta hrachyura (non Lafr.), StricM. #* Set Contr. Orn. 1852, 
+Sylvietta hrachyura (non Lafr.), Strickl. #* Set Contr. Orn. 1852, 
 p. 148. 
 Oligocercusrufescens, Cab. J.f. 0.1853, p. 109; Heugl Orn. iV.O.-
 Afr. i. p. 236 (1869, pt.); Finsch $ Kartl. Fog. Ostafr. p. 227 
@@ -20821,7 +20821,7 @@ Cisticola rufilata, Sharpe, t. e. p. 269 (1870).
 Drymoica holnbi, Von Feb. in Holub, Beitr. Om. Sudafr. p. 70, pi. i. 
 (1882;. 
 Cisticola isoclactyla, Sharpe (ntc Peters), t. c. p. 209 (1870). 
-Drymceca lais, Salt-in, Cat. StricM. Coll. p 55 |lb62). 
+Drymceca lais, Salt-in, Cat. Strickl. Coll. p 55 |lb62). 
 
 
 Adult male. Above ashy brown, all the feathers of the back 
@@ -33964,7 +33964,7 @@ Suthora
 nipalensi*, Hodgs. Lid. Review, ii. p. 32 (1838); id. Icon. 
 ined, in Brit. J/w<?., Pas^eres. pi. 109(no. 470)- Gray, Cai.Mamm. etc. 
 Kepalpres. Hodgs. p. 73 (pt, 1540); id. Gen. B. L p. 193 (1847); 
-Bhfth, J. A. S. Bang. xiv. p. 579 (1845): Bp. Camp. i. p. 834 
+Bhfth, J. A. S. Beng. xiv. p. 579 (1845): Bp. Camp. i. p. 834 
 (1850); Goidd, B. ofAsia; part iv. (\H2'2. upper figure); Horsf. § 
 Moore, Cat. B. E.I. Co. Mus, i. p. #75 (1*>54) ; Jerd. B. Ink. ii. 
 
@@ -36962,7 +36962,7 @@ March 28,1882.
 5. Stacliyris uigricollis. 
 Timalianigricollis, 
 Temm. PL Col ii pi. 594. fig :2 (1836); Gray, 
-Gen. B. I p. 228 (1846) ; StricM. P. Z. S. 1846, p. 103; Blyth, 
+Gen. B. I p. 228 (1846) ; Strickl. P. Z. S. 1846, p. 103; Blyth, 
 
 * It was on this specimen that Mr. O. B. Gray founded his belief that this 
 species inhabits Java. Count Salyadori (lice. Born. p. 213) very properly 
@@ -37035,7 +37035,7 @@ Gould Collection.
 
 12 . STACHYEIS. 
 6. Stachyris leucotis, 
-Tirualia leucotis, StricM. Coatr. Or/2. 1848, p. 63, pi. 12 j Gray, 
+Tirualia leucotis, Strickl. Coatr. Or/2. 1848, p. 63, pi. 12 j Gray, 
 Eaiid-l B. i. p. 315. no. 4097 <1S09); Walden, Ibis. 1876, p. 354: 
 Hume, Str. F. 1850. p. 110. r 
 
@@ -38964,7 +38964,7 @@ Malacopteron magnum (nan Eyton), Blyth, J. A. 8. JBeny, xvi. p. 461
 Napothera coronata, Bp. Consp, i. p. 358 (1850) * Blyth, Ibis, 1870, 
 
 p. 170. 
-Malacopteron corouatum, StricM. in Blyth, Cat. B. Mm, As. Soc. 
+Malacopteron corouatum, Strickl. in Blyth, Cat. B. Mm, As. Soc. 
 p. xxi (1852); Ilorsf $ Moore, Cat. B. Mm. E.I. Co. p. 226 
 (1854) * Moore, P. Z. & 1854, p. 275 * Motley 8f Dillw. Nat. Hist 
 Labuan, p. 21, pi. 5 (1855). 
@@ -41714,7 +41714,7 @@ Setchuen, where it passes the summer.
 3. Jfinla castaneiceps. 
 Minla castaneceps, Hodgson, 2nd. Revieic, 1838, p. 33. ^ 
 Proparus castamceps, Hodgs. J. A. 8. Bern/, x. p. 20 ( 1^411. 
-Certliiparus castaneceps, Hodgs. J. A. S. Bang. xm. p. 1)30; id, ui 
+Certliiparus castaneceps, Hodgs. J. A. S. Beng. xm. p. 1)30; id, ui 
 
 
 Gray's Zool Misc. p. 84 (1844). 
@@ -42495,7 +42495,7 @@ Leiotkrix nipaknhis, Gray, Gen.B.i.^. 209 (1843); id* Iland-l.
 
 B. i. p. 313, no. 4tS7o (lSt5U). 
 Ioropus nipalensis, Hodgs. J. A. S. Btng. xlii. p. 037 (1844). 
-Alcippe nipalensis, Blytlu J. A. S. Bang. xvi. pp. 448, 402 (1847); 
+Alcippe nipalensis, Blytlu J. A. S. Beng. xvi. pp. 448, 402 (1847); 
 p. 18 (Id53); Godwin-Austen, J. A. S. Beng. 
 xxxix. p. 103 (1870); Jerd. Ibis, 187i, p. 208 : Hume, Str. F. 1874, 
 p. 476; id. Str. F. 1875, p. 117; David 4' Ousiaki, Ok. Chine, 
@@ -42635,7 +42635,7 @@ c. 2 ad. sk. Mahabaleshur, April 4,1870. E. WI" Gates, Esq.
 d. Ad. sk. Eaikote,Kattiawar,Juiie24, llaior Hayes Lloyd 
 1867. [JP.]. " * 
 5. Alcippe ciaerea, 
-Alcippe cinerea, Blyth, J. A. S. Bang. xiii. p. 884; id. Cut. B. Mm. 
+Alcippe cinerea, Blyth, J. A. S. Beng. xiii. p. 884; id. Cut. B. Mm. 
 As. JSoc. p. 148 (1849); Bp. Consp. I p. 260 (1850); Horsf. &> 
 Moore, Cat. B. B.I. Co. Mm, i. p. 406 (1854) ; Hume, Sir. F 
 1879, p. 60; id. Sir. F. 1880, p. 128. 
@@ -45120,7 +45120,7 @@ Accentor collaris, Newt. ed. Yarr. Brit. B. i. p. 296 (1871); Dresser,
 
 B. Eur. iii. p. 29 (1873); Irhy, B. Gun: p. 84 (1875) ; C'ordeaux, 
 Ibis, 1875, p. 177; JDanf. 8f E[arme-Brownf t. c. p. 307; Bknf. 
-East. Persia, ii. p. 202 (1876); SaMn, Cat. StricM. Coll. p. 60 
+East. Persia, ii. p. 202 (1876); SaMn, Cat. Strickl. Coll. p. 60 
 (1881); B. O. U. List Brit. B. p. 23 (1883). 
 Adult. General colour above light ashy, with paler margins to 
 some of the dorsal feathers, all of which are streaked with broad 
@@ -50053,7 +50053,7 @@ semirufa (Bessonornis),
 42. 
 semirufa (Bessornis), 42. 
 semirufa (Oisticola), 270. 
-semirufa (Cossypba), 42. 
+semirufa (Cossypha), 42. 
 semirufa (Petrocincla), 
 42. 
 semirufa (Saxicola), 51. 
@@ -50112,7 +50112,7 @@ Sibia, 325, 401.
 signata (Aedon), 69. 
 signata (Aedonopsis), 
 t 69. 
-signata (Cossypba), 69. 
+signata (Cossypha), 69. 
 signatus (Bessonornis), 
 
 69. 

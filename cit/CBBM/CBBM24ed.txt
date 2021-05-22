@@ -2814,7 +2814,7 @@ Mange. The same as that of the single species of the genus.
 Turnix meiffreni, Vieill N. Diet. d'Hist. Nat. xxxv. p. 49 (1818); 
 Heugl in Beterm. Mitth. 1869, p. 413 (Kordofan). 
 Hemipodius nivosus, Szvains. Bhil. Mag. Ix. p. 353 (1822); id. Zool. 
-Blustr. iii. pi. 163 (1823); id. B. W. Afr. ii. p. 225 (1837). 
+Illustr. iii. pi. 163 (1823); id. B. W. Afr. ii. p. 225 (1837). 
 , Hemipodius meiffreni, Temm. Bl. Col. T. pi. 60. fig. 1 (1823). 
 
 Ortyxelus meiffreni, Vieill Gal. Ois. ii. p. 92, pi. 300 (1834) ; Gray. 
@@ -7804,7 +7804,7 @@ Lembeye, Av. Cuba, p. 100 (1850); Harcourt, P. Z. 8. 1851,
 p. 146 (Madeira) ; Midd. Peis. Sibir., Zool p. 213 (1851: 75° N. 
 lat.: Taimyr River; Boganida River, May ; Sehantar Isl., Aug.); 
 Meichenb. Grail. Taf.104.figs. 656,660(^1852); Eartl. Arch. Naturg. 
-1852, p. 121; StricM. $ Scl Contr. Orn. 1852, p. 159 ; Bote, J.f. O. 
+1852, p. 121; Strickl. $ Scl Contr. Orn. 1852, p. 159 ; Bote, J.f. O. 
 1855, p. 176 (Canaries), 1857, p. 337; Burm. Th. Bras. iii. p. 364 
 (1856 : Santa Catarina); Heugl. Syst. Uebers. p. 57 (1856) ; Sundev. 
 Sv. Fogl pi. xxxvii. &%. 6 (1856); Earth Orn. W.-Afr. p. 217 
@@ -10886,7 +10886,7 @@ Vanellus bilobus, Sykes, P. Z. 8. 1832. p. 166 (Deccan); Jerd. Madr.
 Joum. xii. p. 213 (1840 : India generally). 
 
 Sarciophoms 
-bilobus, StricM. P. Z. & 1841, p. 33; Gray, List 
+bilobus, Strickl. P. Z. & 1841, p. 33; Gray, List 
 Grail. Brit. Mus. p. 06 (1844); id. Cat. Mamm. etc. Nepal pres 
 Hodgs. p. 132 (1846); Blyth, Cat. B. Mus. As. 6'oc. p. 201 
 (1849: Calcutta); Licht. Nomencl. Av. Mus. Berol. p. 95 (1854: 
@@ -11599,7 +11599,7 @@ Charadrins callaeas, Wagl. Syst. Av. Gharadrius, p. 76, sp. 52 (1827).
 Charadiius ludo\icianus, Kitzsch, in Erseh § Grub. Encycl. xvi. 
 
 p. 150 (1827). 
-Lobivanellus ludovicianm, StricM. P. Z. S. 1841, p. 33. 
+Lobivanellus ludovicianm, Strickl. P. Z. S. 1841, p. 33. 
 Lobivanellus personatus, Gould, P.Z.S. 1842, p. 113 (N. coast of 
 Australia); id. B.Austr. vi. pi. 10 (1842); Gray, List Grail. Brit. 
 Mm. p. 66 (1844: Port Essington); Reiehenb. Grail. Taf. ciii. 
@@ -12579,7 +12579,7 @@ gz, h3. <$ ad.sk. Cotta, Ceylon, Dec. {Hart). Hume Coll.
 e3, &3, Z3. Ad. sk. Ceylon (S. Chapman). Tweeddale Coll. 
 
 2, Sarcogrammus atrimiclialis *. 
-Sarcogramma atrogularis [nee WaffI.), Blyth, J. A. S. Bang. xxxi. 
+Sarcogramma atrogularis [nee WaffI.), Blyth, J. A. S. Beng. xxxi. 
 
 p. 345 (1802); id. $ Walcl. B. Burm. p. 152 (1875). 
 Lobianellus 
@@ -14599,7 +14599,7 @@ Butler, t. c. p. 426 (Belgaum); Barnes, t c. p. 459 (Ohaman);
 Butler, Cat. B. S. Bomb. Ires. p. 73 (1880); Biddulph, Ibis, 1881, 
 p. 95; Scully, t. c. p. 587 (Gilgit); Giglioli, Ibis, 1881, p. 208 
 (Rome, Nov.); Reid, Str. F. x. p. 65 (1881: Lucknow) ; Salvin, 
-Cat. StricM. Coll. p. 599 (1882); Seebohm, Ibis, 1882, p. 221 
+Cat. Strickl. Coll. p. 599 (1882); Seebohm, Ibis, 1882, p. 221 
 (Astrakhan, summer); Davidson, Str. F. x. p. 319 (1882: Western 
 Khandeish); Severtz. Ibis, 1883, p. 74 (Bash-Alai, Sept.); Bogd. 
 Consp. Av. Imp. Boss. p. 69 (1884: Steppes of Tchernoz^m, from 
@@ -14615,7 +14615,7 @@ p. 647 (1890); Bmsina, Motr. etc. (Orn. Croat.) p. 93 (1890);
 Sharpe, Sci. Results 2nd Yarh. Miss., Aves, p. 93 (1891: Panjah); 
 Hartert, Fat. Vogels. Senckenb. Mus. p. 215 (1891: Schendi). 
 Chastusia 
-gregaria, StricM. P. Z. S. 1850, p. 221 (Khartoum); 
+gregaria, Strickl. P. Z. S. 1850, p. 221 (Khartoum); 
 Reichenb. Grail Taf. 181. figs. 2430-31, Suppl. xlvii. (cii.)figs. 104849 
 (1852); Taylor, Ibis, 1867, p. 68 (Egypt); Beavan, Ibis, 1868, 
 
@@ -15312,7 +15312,7 @@ iii. p. 543 (1847); Gould, B. Austr. vi. pi. 12 (1848); Blyth, Cat
 B. Mus. As. Soc. p. 262 (1849 : Calcutta) ; Strichl. P. Z. S. 1850, 
 p. 220 (Kordofan) ; Reichenb. Vdg. Neirfioll. no. 549 (1851); 
 id. Grail Taf. ci. figs. 673-675 (1852); Sol. Contr. Om. 1852, 
-p. 126 (Red Sea); StricM. fy Scl. t e. p. 158 (Damara-land); 
+p. 126 (Red Sea); Strickl. fy Scl. t e. p. 158 (Damara-land); 
 Kjcerb. Damn. Fugle, pi. xxx. fig. 3 (1852); Wallengr. Nairn. 
 1853, p. 87,1854, p. 249 (Scandinavia); Motl. $ Dillw. Contr. 
 Nat Hist Labuan, p. 56 (1855); Ileuyl. Syst Uebers. p. 55 
@@ -24431,7 +24431,7 @@ Hiaticula
 sp., Gray, List GralL Brit. Mm. p. 69 (1844: River 
 Niger) *. 
 Charadrius pallidus, Strickl. Contr. Orn. 1852, p. 158 (Damaraland) 
-; Safam, Cat. StricM. Coll. p. 598 (1882) * 
+; Safam, Cat. Strickl. Coll. p. 598 (1882) * 
 
 * There is a synonym,ce H. Jwjwoo&% Thompson," of which the Museum is 
 supposed to have the type specimen, which is quoted by Hartlaub and others, 
@@ -27497,7 +27497,7 @@ Himantopus pectoralis, Schl Mm. Pays-Bas, Scolopaces, p. 108
 (1864) • Seebohm, Geogr. BisL Charadr. p. 288, pi. 14 (1888). 
 Cladorhvnchus leucocephaius, Saloin, Ibis, 1874, p. 252 note; id. 
 
-Cat StricM. Coll. p. 604 (1882). 
+Cat Strickl. Coll. p. 604 (1882). 
 
 Adult. General colour above white, including the scapulars; 
 parapteral plumes and wing-coverts black; primaries black, browner 
@@ -35031,7 +35031,7 @@ Reid, Str. F. x. p. 71 (1881: Lucknow); Oates, i. c. p. 241
 (Pegu); Biddulph, Ibis, 1881, p. 97 (Gflgit); Scully, t c. p. o89 
 (Gilffit, April and Sept); Socage, Orn. Angola, p. 466 (1881); 
 CollettNorges Fuglef. p. 102 (1881); Blahist $ Fryer, B. Jap. 
-^ 109 (1882); Sa&n, Cat. StricM. Coll p. 613 (1882: Smyrna); 
+^ 109 (1882); Sa&n, Cat. Strickl. Coll p. 613 (1882: Smyrna); 
 6 Swinh. Ibis, 1882, p. 122 (Candahar, Jan. to March); Seebohm, 
 t 'c p 222 (Astrakhan); Biddulph, t. c. p. 229; Seebohm, t. c. 
 p SSi (Archangel); Davids. Str. F. x. p. 321 (1882: West. 
@@ -41431,7 +41431,7 @@ p. 325 (1882) • id. Ann. Mus. Genov. xviii. p. 329 (1882); Booth,
 Bough Notes, ii. (1881-87); Nicholson, Ibis, 1882, p. 70 (Cocos 
 IsL, Java, Feb.); Shelley, t. c. p. 365 (Mashoona, Sept.-Dec.); 
 Butler, Feilden, 8? Beid, Zool, 1882, p. 425 (Newcastle, Oct.); 
-Salvin, Cat. StricM. Coll. p. 613 (1882); B. O. 77. List Brit. B. 
+Salvin, Cat. Strickl. Coll. p. 613 (1882); B. O. 77. List Brit. B. 
 p. 177 (1883) ; Saunders, ed. YarreWs Brit B. iii. p. 483 (1884); 
 Tristr. Faun. 8f Flor. Palest, p. 134 (1883); Sharpe, ed. Bayard's 
 B. S. Afr. p. 687 (1884); Salvad. Ami. Mus. Genov. (2) i. p. 221 
@@ -49774,7 +49774,7 @@ Britain, rare visitor); Blahist. Amended List B. Japan, p. 11
 (1884 : Yezo and Japan generally) j Dyb. fy Taez. Bull Soc. Zool 
 France, ix. p. 146 (1884); Boyd. Consp. Av. Imp. Ross. fasc. i. 
 p. 91 (1884); Guillem. P. Z. S. 1885, p. 664 (Momos, Waigiou, 
-Oct. 26); Salvin, Cat. StricM. Coll. p. 610 (1882); A. O. U. 
+Oct. 26); Salvin, Cat. Strickl. Coll. p. 610 (1882); A. O. U. 
 ' 
 ChecH. N. Amer. B. p. 150 (1886); Nelson, Rep. Nat. Hist. Coll 
 Alaska, p. 106, pi. viL (1887: St. Michael's, Sept., not observed 
@@ -57939,7 +57939,7 @@ Gallinago frenata (nee Idcht), Bumf. Ibis, 1876, p. 164 (Buenos-
 
 Ayres, Oct. 15; ? breeding). 
 
-Gallinago paraguayse, Salvin, Cat. StricM. Coll. p. 607 (1882). 
+Gallinago paraguayse, Salvin, Cat. Strickl. Coll. p. 607 (1882). 
 
 Scolopax frenata magellanica, Seebohm, Ibis, 1886, p. 138; id. Geogr.-
 

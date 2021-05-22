@@ -793,7 +793,7 @@ orlSwdKjurus (Vieill) . 39(5
 
 5. holroydi, Sivinh 403 J 
 
-30. Brackypternus, StricM. .. 403 
+30. Brackypternus, Strickl. .. 403 
 
 1. aurantius {Linn.) . 404,572 
 
@@ -7452,7 +7452,7 @@ B. p. 339, no. 2025 (1862); Cab. J. /. O. 1802, p. 321; Cab. £
 Heine, Mas. Sein. iv. p. 161 (1863), pt.; Gray, List Picid. Brit. 
 Mus. p. 104 (1808), pt ; id Haad-l B. II p. 198, no. 8777 (1870): 
 Sclat # Salv. Nomencl AD. Neotr. p. 100 (1873); ##/i\ Cat. 
-StricM. Coll. p. 398, no. 1936 (1882); Med. Cat. At. Costa Pica, 
+Strickl. Coll. p. 398, no. 1936 (1882); Med. Cat. At. Costa Pica, 
 1882, p. 23, no. 488; Boucard, P. Z. S. 16&3, p. 452 ; Zeled. Proe. 
 U. 8. Nat. Mus. 1885, p. 111. 
 Ohloronerpes uropygialis, Cab. J.f. O. 1862, pp. 321, 322. 
@@ -7719,7 +7719,7 @@ p. 889 (1866); Sclat. § Sato. P. Z. 8. 1868, p. 169; Gray, List
 Pieid. Brit. Mm. p. 103 (1868) ; id. Hand-l B. ii. p. 198, no. 8774 
 (1870); Selat. § Salv. P. Z. 8. 1870, p. 782; iid. Nomencl Av. 
 Keotr. p. 100 (1873); iid. P. Z. 8.1875, p. 287; iid. op. cii. 1879, 
-p. 032; Serf. Ibis, 1880, p. 114; Salv. Cat. StricM. Coll p. 396, 
+p. 032; Serf. Ibis, 1880, p. 114; Salv. Cat. Strickl. Coll p. 396, 
 no. 1937 (1882) ; id. Ibis, 1886, p. 59. 
 Picus canipileus, UOrb. Voy. Amir. Merid. iv. p. 379, pi. Ixiii. 
 %. 2 (1835-44); Tschadi, Consp. Av. Pep. Pernan. in A)*ek. filr 
@@ -8196,7 +8196,7 @@ Nubian Woodpecker, Lath. Gen. Syn. no. 23, vol. i. pi. 2, p. 576
 Picas rabicus, Gm. Syst. Nat p. 430 (1788), $; Z<rfj&. I?M*. Om. 
 
 i. p. 233 (1790); Steph. Gen. Zool. ix. pt. 1, p. 180 (1815); 
-LichL Verz. Boubl. p. 11 (1823), pt.; Bonn, fy Vieill Bnc. Meth. 
+LichL Verz. Boubl. p. 11 (1823), pt.; Bonn, fy Vieill Enc. Meth. 
 iii. p. 1313 (1823), pt.; Sundev. Consp. Av. Fichu p. 67 (1866); 
 Blanf. GeoL $ Zool. Ahjss. p. 305 (1870); Finsch, Tr. Z. S. vii. 
 p. 2*53, no. 160 (1870); Finseh $ Haril Tog. Ostafr. p. 508 
@@ -11122,7 +11122,7 @@ Gauropicoides rafflesii,
 Malh. Picid. 1. p. liii (1861); Salvad. Uec. 
 Bom. p. 54 (1874); Hume, Sir. P. 1875, p. 319; id. $ Davison, 
 op. mt. vi. p. 146 (1878); Hume, op. cit. 1879, pp. 53, 88, 
-no. 185 bis ; Salv. Cat. StricM. Coll p. 392, no. 1918 (1882) ; Gates, 
+no. 185 bis ; Salv. Cat. Strickl. Coll p. 392, no. 1918 (1882) ; Gates, 
 
 
 133 
@@ -24915,7 +24915,7 @@ non Vigors),
 
 ^2o\im8);'id.'kand4. B^il p." 184, no.' 85fc4 (lb70). 
 
-Picus rubricatus, Btyth, J. A. S. Bang, xviii. p. b04 {lb49) 5 *tf, Crtf. 
+Picus rubricatus, Btyth, J. A. S. Beng. xviii. p. b04 {lb49) 5 *tf, Crtf. 
 
 B. Mus. As. Soe. p. 63, no. 299 (1849) ; Meichenb. ticans. Pimm, 
 p. CO; Hume, Sir. F. 1879, p. 87. 
@@ -26407,7 +26407,7 @@ Picus minor, var. 5, Lath. Ind. Orn. L p. 230 (1790).
 Picus moluccensis, Less. Traite, i. p. 221 (1831, non Gm.); Mah 
 
 herbe, Bieidm, i. p. 143, pi. xxxii. (1861). 
-Picus nanus, Blyth, J. A. S. Bang. xiv. p. 197 (1845, non Vigors). 
+Picus nanus, Blyth, J. A. S. Beng. xiv. p. 197 (1845, non Vigors). 
 Picus validirostris, Blyth, Cat. B. Mus. As. Sac. p. 64 (1849); id. 
 
 J. A. 8. Beng. xviii. p. 805 (1849); Beiehmb. Scans. Pieinte, 
@@ -37118,7 +37118,7 @@ Consp. Av. Picin. p. 5 (1866) ; Fnsch, P. Z. S. 1870, p. 5SC)
 
 Picus albirostris, 
 Vieill. N. Diet cVIIist. Nat. xxvi. p. 09, <$ (1818) ; 
-id. 8? Bonn. Bnc. Meth. iii. p. 1304 (1823) ; Spix, Av. Bras. i. 
+id. 8? Bonn. Enc. Meth. iii. p. 1304 (1823) ; Spix, Av. Bras. i. 
 
 p. 56, pi. xlv. figs. 1, 2, S S (1824); Wagl. Syst. Av. Picus, sp. 9 
 (1827); id. Isis, 1829, p. 509 ; Tsch. Av. Consp. Pep. Peruan. in 
@@ -38525,7 +38525,7 @@ p. 650 (1856-58).
 Micropicus canente (pt.), Malh. Ficidce, i. p. 190, pL xlii. figs. 1? 2 
 (1861). 
 Hemicercus canente (non Less.), Jerd. B. Ind. L p. 280 (1862); Sftlu. 
-Cat. StricM. Coll p. 401 (1882). 
+Cat. Strickl. Coll p. 401 (1882). 
 Picus canente, var. occidentalis, Sundev. Consp. Av. Ftcin. p. 11 
 (1866). 
 Picus cordatus, Giehel, Thes. Orn. iii. p. 151 (1876). 
@@ -41838,7 +41838,7 @@ Less. Man. d'Orn. ii. p. 116 (1828) ; Cab. q Heine, Mus. Hein, iv.
 
 p. 19 (1863); Sundev. Consp. Av. Picin. p. 98 (1866); Gray, List 
 Picid. Brit. Mus. p. 24 (1868); id. Hand-l B. ii. p. 179, no. 8502 
-(1870) ; Pelz. Orn. Bras. pp. 241, 442 (1870) j Salv. Cat. StricM. 
+(1870) ; Pelz. Orn. Bras. pp. 241, 442 (1870) j Salv. Cat. Strickl. 
 Coll.?. 881,no. 1862 (1882). 
 Picumnus minutus (non Linn.)) Wagl. Isis, 1829, p. 645 ; Bttrm. Th. 
 
@@ -42208,7 +42208,7 @@ Lafr. Bei. Zool. 1845, pp. 7, 111; Bp. Consp. Gen. Av. i. p. 140
 4117-18, tf <f (1854) ; Burnt. Th. Bras. ii. p. 247 (1856) -Malh. 
 Picidce, ii. p. 285, pi. cxv. figs. Stfad., 4 $ ad., 5tf juv. (1862) j 
 Mat. Cat. Amer. B. p. 330, no. 1968 (1862); Cab. | Heine, Mus. 
-Hein. iv. p. 23 (1863): Salv. Cat. StricM. Coll p. 382, no. 1865 
+Hein. iv. p. 23 (1863): Salv. Cat. Strickl. Coll p. 382, no. 1865 
 (1882). 
 
 Piculus pygmseus, Bp. Consp. Volucr. Zygod. p. 11, no. 246 (1854). 

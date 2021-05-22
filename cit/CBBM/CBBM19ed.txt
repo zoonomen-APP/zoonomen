@@ -1289,7 +1289,7 @@ Le Grand Indicateur, male, Levaill. Ois. Afr. v. p. 135, pi. 241. fig. 1
 
 Indicator 
 major, Steph. Gen. Zool. ix. p. 139, pi. 27. fig. 1 (1815J; 
-Vieill. 2\W. Bid. xvi. p. 153 (1817); Tieill. Bnc. Meth. p. 13-30 
+Vieill. 2\W. Bid. xvi. p. 153 (1817); Tieill. Enc. Meth. p. 13-30 
 (1823) ; Less. Man. Om. p. 125 (1828) ; id. Traite,?. loo (1831) : 
 Temm. Tail Meth. p. 51 (1838); Gray, Gen. B. ii. p. 451 (1847); 
 Bp. Consp. Ai\ I p. 100 (1850); BJartl Om. W.-Afr. pp. 183, 
@@ -5192,7 +5192,7 @@ id. Hand-l. B. ii. 1870, p. 174, no. 8442.
 
 Bucco asiaticus, Blyth, J. A. S. Beng. xv. 1846, p. 13; id. Ann, # 
 
-Mag. Nat. Hist, xx. 1847. p. 385; Tickell, J. A. S. Bang. xvii. 
+Mag. Nat. Hist, xx. 1847. p. 385; Tickell, J. A. S. Beng. xvii. 
 
 pt. 1, 18487 p. 298. 
 
@@ -24155,7 +24155,7 @@ Esq. [P.].
 
 8. Chalcococcyx malayanus. 
 Cuculus malayanus, Raffl. Trans. Linn. Soc. xid. p. 28G (LS22). 
-Cuculus chalcites {nee III.), Blytk, J. A. S. Bang. xL p. 919 (1842), 
+Cuculus chalcites {nee III.), Blytk, J. A. S. Beng. xL p. 919 (1842), 
 
 xii. p. 944 (1843); S. Mull. Verh. Kat. Gesch. Land-en Folk. 
 p. 234, note (1839-44). 
@@ -25351,7 +25351,7 @@ Hudson).
 
 8. Coccyzus pumilus. 
 Coccyzus 
-pumilus, StricM. Contr. Orn. 1852, p. 28, pi. 82; Cab. § 
+pumilus, Strickl. Contr. Orn. 1852, p. 28, pi. 82; Cab. § 
 Heine, Mus. Hern. iv. p. 79, note (1862); Set. Cat. Aon. JB. p. 323 
 (1862) ; id. P. Z. S. 1864, p. 122, 1870, p. 169 ; Gray, IIand-1. 
 
@@ -25588,7 +25588,7 @@ Cuculus erassirostris, 8teph. Gen. Zool. ix. p. 86 (1815, ex Levaill.
 pi. 215) -K Vieill. Enc. Meth. p. 1333 (1823). 
 
 Cuculus orientalis (nee Linn.), Horsf. Trans. Linn. 8oe. xiii. p. 178 
-(1822); Blyth, J. A. 8. Beng. xi. p. 913 (1842); StricM. Ann. # 
+(1822); Blyth, J. A. 8. Beng. xi. p. 913 (1842); Strickl. Ann. # 
 Mag. Nat. Hist. 1846, p. 400. 
 
 Eudynamis orientalis, 
@@ -35221,7 +35221,7 @@ Liotaml, Ois. Trinidad, p. 358 (1866); Scl. <§* Sab. P. Z. S. 1866,
 p. 195,1867, p. 585 ; Finsch, P. Z. S. 1870, p. 587 ; Gray, Hand-L 
 B. ii. p. 210, no. 8912 (1870); Feb. Orn. Bras. p. 268 (1871) ; 
 Wyatt, Ibis, 1871, p. 379; Scl. # Salt. Koniencl Ai\ Neotr. 
-p. 107 (1873); iid. P. Z. S. 1879, p. 536 ; Sah. Cat. StricM. Coll. 
+p. 107 (1873); iid. P. Z. S. 1879, p. 536 ; Sah. Cat. Strickl. Coll. 
 p. 443 (1882); Tacz. Orn. Perou, iii. p. 180 (1880). 
 Anno Guazu, Azara, Apunt. ii. p. 348 (1805); Hartl. Inch Azara, 
 p. 17 (1847). 
@@ -36563,7 +36563,7 @@ e,f. Ad. sk. Malindi (Sir J. Kirk). Shelley Coll.
 12. Turacus erythroloplius. 
 Opaethus erythrolopkus, Vieill Nouv. Diet, xxxiv. p. 306 (1819); 
 
-id. Bnc. Meth p. 1298 (1823); id. Gcd. Ois. p. 46, pi. 49 (1825). 
+id. Enc. Meth.p. 1298 (1823); id. Gcd. Ois. p. 46, pi. 49 (1825). 
 Musophaga paulina, Temm. PI. Col. i. p. 75, pi. 23 (1820). 
 Conthaix paulina, Shaw, Gen. Zool xiv. p. 222, pi. 26 (1826); 
 Less. Traite, p. 124 (1831); Eartl J. f. 0. 1854, p. 256; Ifon
