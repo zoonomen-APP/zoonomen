@@ -3071,7 +3071,7 @@ Cursorius gallicus, Gray, List Gralke Brit. Mus. p. 60 (1844); id.
 Gen. B. iii. p. 537 (1844) ; Reichenb. Av. Syst. Nat., Gall p. xxx, 
 pi. 374. figs. 2124-26 (1852) ; Jaub. et Barth.-Lapomm. Rich. Orn. 
 
-p. 442 (1859); Remits. Ibis, 1859, p. 79, pi. ii. fig. 3 (ego); Sahin, 
+p. 442 (1859); Remits. Ibis, 1859, p. 79, pi. ii. fig. 3 (ego); Salvin, 
 t. c. p. 354 (Eastern Atlas); Trhtr. Ibi^, 1860, p. 79 (Sahara) ; 
 Gray, List Brit. B. p. 136 (1863); Schl. Mm. Pays-Bas, Cursores, 
 p. 12 (1865: Tripoli); Heugl. J.f.O. 1865, p.'99 (resident in 
@@ -4525,7 +4525,7 @@ St/»t. Uebers. p. 117 (1845); Thomps. B. Irel. ii. p. 81 (1850);
 Macgill. Brit. B. iv. p. 49 (1852); HeugL Syst. Uebers. p. 54 
 (1856); HartL Orn. W.-Afr. p. 210 (1857: Senegal; Gambia; 
 Gold Coast ; Gaboon) ; Jaub. et Barth.-Lapomm. Bich. Orn. 
-p. 433 (1859); Sahin, Ibis, 1859, p. 354 (Eastern Atlas) ; Linderm. 
+p. 433 (1859); Salvin, Ibis, 1859, p. 354 (Eastern Atlas) ; Linderm. 
 Voy. GriechenL p. 126 (I860); Tristr. Ibis, 1860, p. 79 (K Africa); 
 Bowys, t. c. p. 239 (Ionian Isl.; Corfu and Epirus); HartL J.f.O. 
 1861, p. 268 (Galam ; Bissao); Gray, List Brit. B. p. 137 (1863); 
@@ -6408,7 +6408,7 @@ A-1,/'- Ad.sk. Java (Dr. Horsfield). India Museum.
 
 {Types of Parra snpereiliosa ) 
 wil. Ad. sk. Ja\ a. Tweeddale Coll. 
-w1. J ad. sk. Java (Diard). Sahin-Oodman Coll. 
+w1. J ad. sk. Java (Diard). Salvin-Oodman Coll. 
 o4. Ad. sk. Sumatra. Wallace Coll. 
 p\ql, iA. Bones of Nepal Hodgson Coll. 
 
@@ -7160,7 +7160,7 @@ Texas) ; Lawr. Bull. U.S. Nat. Mus. iv. p. 50 (1876); MemlL.
 Pr. U.S. Nat. Mus. i. p. 167 (1878); Ridgw. t. c. p. 167, pi. iii. 
 figs. 1, 2; Forbes, P. Z. S. 1881, pp. 642, 646; Bidgw. Pr. U.S. 
 Nat. Mus. iii. pp. 221, 223; Nutting, op. tit. v. p. 409 (1882: 
-Costa Rica), vi. pp. 390, 396 (1883: Nicaragua); Sahin, P. Z. S. 
+Costa Rica), vi. pp. 390, 396 (1883: Nicaragua); Salvin, P. Z. S. 
 1883, p. 428 (Acapulco); Baird, Brewer, $ Bidgw. Water-B. North 
 Amer. i. p. 176 (1884); Coues, Key N. Amer. B. 2nd edit. p. 669 
 (1884); Cory,B. St. Domingo, p. 159, pi. 20 (1885); Bidgw. Man. 
@@ -7346,7 +7346,7 @@ Salvin-Godman Coll.
 
  Salvin-Godman OolL 
 Salvin-Godman Coll. 
-Sahin-Godman Coll. 
+Salvin-Godman Coll. 
 Salvin-Godman Coll. 
 Salvin-Godman Coll. 
 
@@ -7722,14 +7722,14 @@ Ibis, 1863, p. 250 (Cape St. Francis, Dec.); Blakist t c. p. 130
 Deccan); March, Proc. Philad. Acad. 1864, p. 66 (Jamaica: 
 breeding) ; Scl. Ibis, 1864, p. 301 (Anjouan Isl.) ; Wright, t. c. 
 p. 148 (Malta, May, Aug., Dec); Kirk, t c. p. 332 (Lake 
-Nyasa); Gumey, t. e. p. 355 (Natal); Sahin, t. e. p. 385 (Brit. 
+Nyasa); Gumey, t. e. p. 355 (Natal); Salvin, t. e. p. 385 (Brit. 
 Honduras, April); Schl. Mies. Pays-Bas, Cursores, p. 43 (1865); 
 Gigl. Ibis, 1865, p. 59 (Pisa); B. Newt, t. c. p. 150 (Rodriguez, 
-Oct.); Sahin, t c. p. 191 (Guatemala, Jan.); Wright, t. c. p. 466 
+Oct.); Salvin, t c. p. 191 (Guatemala, Jan.); Wright, t. c. p. 466 
 (Malta, May); A. Newt t. c. p. 505 (Spitsbergen, July); Gould, 
 Eandb. B. Austr. ii. p. 269 (1865): Finsch, Neu-Ghdnea, p. 181 
 (1865); Pelz. Peis. Novara, Vog. p. 117 (1865: Stewart Isl., 
-Sept.) ; Godm. Ibis, 1866, pp. 100, 107 (Azores, June); Sahin, 
+Sept.) ; Godm. Ibis, 1866, pp. 100, 107 (Azores, June); Salvin, 
 t. c. p. 190 (Guatemala, both coasts) ; Schl. P. Z. S. 1866, p. 425 
 (Mayotte; Reunion); JDegl § Gerhe, Orn. Eur. ii. p. 154 (1867); 
 Loche, Expl. Sei. Alger., Ois. ii. p. 28 (1867 : migrant); Scl. P. Z. S. 
@@ -8877,7 +8877,7 @@ Coll),
 
 
 h. 
-§ ad. sk. Xotlik, Alaska, May 20 (E. TV. Sahin-Godman Coll. 
+§ ad. sk. Xotlik, Alaska, May 20 (E. TV. Salvin-Godman Coll. 
 Nelson: Hensh. Coll.). 
 i. 
 ($ ad. sk. Camp Simiamu, Kov. 19 (C. B. Salvin-Godman Coll. 
@@ -10653,7 +10653,7 @@ Senegal; Nubia).
 
 Sarciophorus tectus, Blanf. Geol. # Zool. Abyss, p. 430 (1870: 
 Anseba Valley); Antin. fy Sahad. Viagg. Bogos, p. 144 (1873 : 
-Keren ; Samhar; Barka); Sahin, Cat Strickl Coll. p. 602 (1882: 
+Keren ; Samhar; Barka); Salvin, Cat Strickl Coll. p. 602 (1882: 
 Kordofan); Heine § Reichen. NomencL Mus. Rein. p. 335 (1890 : 
 Senaar: Abyssinia). 
 
@@ -10754,7 +10754,7 @@ Bengal); Irby, Ibis, 1861, p. 237 (Oitdh) ; Jerd. B. hid. iii. p. 649
 id. J A. IS. Beng. xl. p. 276 (1871; Wardha Valley): "Stoliczka, 
 op. cit. xli. p. 251 (1872 : Kutch); Hayes Lloyd, Ibis, 1873, p. 416 
 (Kathiawar); Blyth, B. Burm. p. '153 (1875: Thayetxnvo); 
-Morgan, Ihs, 1875, p. 323 (S. India, breeding) ; Sahin% *Cat 
+Morgan, Ihs, 1875, p. 323 (S. India, breeding) ; Salvin% *Cat 
 
 7. LOBIPLUVIA. 
 131 
@@ -11431,7 +11431,7 @@ J. Gould, Esq. [P.j.
 Seebuhni Colt. 
 Seebohm Coll. 
 Nov. 
-n, o. Ad. sk. Queensland. Sahin-Godman Coll. 
+n, o. Ad. sk. Queensland. Salvin-Godman Coll. 
 
 2. Lobivanellus miles. 
 Le Vanneau armg de la Louisiane, Briss. Orn. v. p. 114; -pi. viii. 
@@ -15458,7 +15458,7 @@ Oct.
 <?. <$ juv. sk. Lincolnshire. J. II. Caton-Haigh, 
 Esq. [P/j. 
 
-/, g. Ad. sestiv.; Cambridgeshire (0, Sahin). Salvin-Goiman Coll. 
+/, g. Ad. sestiv.; Cambridgeshire (0, Salvin). Salvin-Goiman Coll. 
 
 A. Ad. hiem. • 
 L Juv. sk. 
@@ -15880,7 +15880,7 @@ Earcourt, P. Z. S. 1851, p. 146 (Canary Is.); Brehm, J.f.O.
 
 J. f. O. 1855, p. 176 (Canary Is., winter); Heugl. Syst. TJebers. 
 p. 56 (18Q0) ; Eartl Orn. West-Afr. p. 215 (1857: Gaboon); 
-Javh. 8f Barth.-Lapomm. Mich. Orn. p. 445 (1859); Sahin, Ibis, 
+Javh. 8f Barth.-Lapomm. Mich. Orn. p. 445 (1859); Salvin, Ibis, 
 1859, p. 355 (City of Tunis, Feb., March); Linderm. Tog. 
 Griechenl. p. 134 (i860); Walter, Ibis, 1860, p. 166 (Godhavn) ; 
 Potuys, t. c. p. 339 (Corfu & Epirus); F. $ P. Godman, Ibis, 1861, 
@@ -18149,7 +18149,7 @@ a. Ad. sk.
 Australia. Gould Coll. 
 b. Ad. sk. 
 Australia. Tweeddale Coll. 
-c. d. Ad. sk. Queensland. Sahin-Gudman Coll. 
+c. d. Ad. sk. Queensland. Salvin-Godman Coll. 
 e-g. Ad. sk. Moreton Bay, Queensland. Gould Coll. 
 h. <5 imm. sk.; 
 Tasmania. Itunald Gimn, Esq. 
@@ -18306,13 +18306,13 @@ d. <$ ad. sestiv. sk. Pennsylvania {Krider). Seebohm Coll.
 eif-6 ad. efcpull. Cobb's IsL, Virginia, July Salvin-Godman Coll. 
 sk. {Hensh. Coll.). 
 
-(j. <$ ad. aestiv. sk. Fort Macou, N. Carolina, May Sahin-Godman ColL 
+(j. <$ ad. aestiv. sk. Fort Macou, N. Carolina, May Salvin-Godman ColL 
 (E. Coues). 
 h~p\ J2 ad. Tarpon Springs, Florida, Mav, Salvin-Godman Coll. 
 sestiv.etpull.sk. June ( W. B. JD. ticott). 
 q'-v'. <$ J ad. Corpus Oliristi, Texas, May Salvin-Godman Coll. 
 33stiv. sk. (JFl B. Armstrong). 
-w\ <$ ad. sk. San Bias, Tepic, Mexico, April Sahin-Godman ColL 
+w\ <$ ad. sk. San Bias, Tepic, Mexico, April Salvin-Godman ColL 
 { Ti\ B. Richardson). 
 A '. $ ad. Mem, sk. Progreso, Yucatan, Nov. (G. Salvin-Godman ColL 
 
@@ -20833,7 +20833,7 @@ Salvin-Godman Coll.
 Salvin-Godman Coll. 
 Salvin-Godman ColL 
 
- Sahin-Godman Coll. 
+ Salvin-Godman Coll. 
 
 April, July (Fer?-ari-Berez)« 
 Mexicalcingo, Valley of Mexico, Salvin-Godman ColL 
@@ -24558,7 +24558,7 @@ ii. p. 307 (1874: Mazatlan); Tacz. P. Z. S. 1874, p. 559 (Cborillos);
 Belding, Broc. U.S. Nat Mm. i. p. 395 (1878: Central California); 
 Cooper, op. eii. ii. p. 251 (1879 : San Pedro, California) ; Bidgw. 
 op. cit. iii. p. 199 (1880); Sharpe, P. Z. S. 1881, p. 15; Zehdon, 
-Cat. Aves Costa Rica, p. 30 (1882); Sahin, P. Z. S. 1883? p. 428 
+Cat. Aves Costa Rica, p. 30 (1882); Salvin, P. Z. S. 1883? p. 428 
 (Chili); Zehdon, Ifoe. U.S. Nat. Mm. viii. p. 113 (1885); 
 Tacz. Orn. PSrou, iii. p. 346 (1886: Cborillos); FJverm. Auk, iii. 
 
@@ -24641,7 +24641,7 @@ W. Henshaw),
 u2 
 292 CHAEADRIID-2E. 
 
-q~x. <$ ad. [w. 4*1-Santa Barbara, CaL, July, Sahin-Godman ColL 
+q~x. <$ ad. [w. 4*1-Santa Barbara, CaL, July, Salvin-Godman ColL 
 4'3] ;*/-&'.$ ad. Sept., Oct. {H. W. Sen
 
 
@@ -29157,7 +29157,7 @@ i, k. Ad. sk.
 Malta, Sept. (C. A. W.). 
 Guelma, Algeria. 
 El Djen, Tunis, Feb. 28 
-(OlSahin). 
+(OlSalvin). 
 Tweeddale Coll. 
 Purchased. 
 Salvin-Godman Coll. 
@@ -32915,7 +32915,7 @@ Beckham, Proc. U.S. Nat Mus. x. pp. 637, 642, 652 (1887: S.W.
 Texas); Ridgw. Man. N. Amer. B. p. 151 (1887); Earvie-
 Brovm § Buckley, Vertebr. Faun. Outer Eebrides, p. 136 (1888) j 
 Sennett, Auk, v. p. 100 (1888: Corpus Christi); Scott, Auk, vi. 
-p. 156 (1889: Tarpon Springs, Florida); Sahin, Ibis, 1889, p.379 
+p. 156 (1889: Tarpon Springs, Florida); Salvin, Ibis, 1889, p.379 
 (Yucatan); Feilden, t. c. p. 492 (Barbados); Cory, B. West Bid. 
 p. 233 (1889); Saunders, Man. Brit B. pp. 561, 736 (1889); 
 Warren, B. Pennsylv. p. 82 (1890); Clarke, Auk, vii. p. 321 
@@ -36744,7 +36744,7 @@ Bingham, t. c. p. 197 (Thoungyeen Valley); Hume, t. c. p. 259
 (Cachar) ; Reid, Str. F. x. p. 70 (1881: fmcknow) ; Scully, Ibis, 
 1881, p. 589 (Gilgit); C. Swinh. Ibis, 1882, p. 122 (Afghanistan, 
 Dec. to May); Seebohm, t. e. p. 223 (Astrakhan), p. 381 (Archangel); 
-Sahin, Cat. Strickl Coll. p. 614 (1882); Davidson, Str. F. 
+Salvin, Cat. Strickl Coll. p. 614 (1882); Davidson, Str. F. 
 x. p. 321 (1882: Khandeish); Blakist. 8> Pryer, B. Japan, p. 110 
 (1882); Booth, Rough Notes, ii. (1881-87); Gigl Iconogr. Avif. 
 Ital. no. 292; Seebohm, Ibis, 1883, p. 30 (Caucasus, breeding); 
@@ -38240,7 +38240,7 @@ IsL), p. 305 (New Hebrides); Finsch, Ibis, 1881, pp. 105," 109
 Layard, t. c. p. 136 (Aneiteum): iid. Ibis, 1882, p. 534 (New 
 Caledonia), p. 544 (New Hebrides; Fiji M.). 
 
-Heteroscelus incanus, Coues, Key N. Amer. B. p. 261 (1872); Sahin, 
+Heteroscelus incanus, Coues, Key N. Amer. B. p. 261 (1872); Salvin, 
 Trans. Zool. Soc. ix. p. 503 (1876: Galapagos); Streets, Bull. U.S. 
 Nat. Mus. no. 7, p. 19 (1877: Palmyra IsL, Fanning group); 
 Bean, Proc. U.S. Nat Mas. v. p. 165 (1882: Port Providence, 
@@ -39777,7 +39777,7 @@ p. 169 (1880: Santa, Lucia); Ridgw. Proc. U.S. Xat. Mm. iii.
 p. 201 (1880); Cory, B. Bahamas, p. 162 (1880); Litter, Ibis, 
 1880, p. 44 (St. Vincent) ; A. 8? E. Xeicton, Handb. Jamaica, 
 p. 115 (1881); Coues, Check-list X. Amer. B. p. 103 (1882); 
-Tacz. P. Z. S. 1882, p. 49 (X.E. Peru); Sahin, P. Z. S. 1883, 
+Tacz. P. Z. S. 1882, p. 49 (X.E. Peru); Salvin, P. Z. S. 1883, 
 p. 429; Berl. $ Tacz. t. c. p. 577 (Western Ecuador); B. O. U 
 List Brit. B. p. 174 (1883); Belding, Proc. U.S. Xat. Mus. v. 
 pp. 545, 548 (1883: Lower California): Stearns, op. cit. vi. p. 119 
@@ -40114,11 +40114,11 @@ k\ (S ad. sk. River Carimansr, British Salvin-Godman Coll.
 Guiana,Apr. (H. Wh itely). 
 P. <$ ad. sk. Camacu&a, British Guiana, Salvin-Godman Coll. 
 May (H. Whitely). 
-m'\ $ ad. sk. Merida, Venezuela (A. Sahin-Godman Coll. 
+m'\ $ ad. sk. Merida, Venezuela (A. Salvin-Godman Coll. 
 Goer my). 
 ??"'. $ ad. &k. Valle Dupar, U.S. Colombia, Sah in-G odman Coll. 
 Sept. ^5 (F Simons), 
-o'\ Ad. sk. Balzar Mts., Ecuador Sahin-Godman Coll. 
+o'\ Ad. sk. Balzar Mts., Ecuador Salvin-Godman Coll. 
 (Illingworth). 
 />\ Imm. sk. Intaj, Ecuador {C. Buckley). Salvin-Godman Coll. 
 </\ Ad. sk. Sarayacu, Ecuador (C. Salvin-Godman Coll. 
@@ -44161,7 +44161,7 @@ Soc. Nat. Hist. xv. p. 241 (1872: Southern Iowa); Snuv\ B.
 Kansas, p. 10 (1873); Scl. <§* Sah. Nomencl. Av. Xrotr. p. 145 
 (1873); Lawr. Proc. U.S. Nat. Mus. I p. 238 (1878: Antiprua), 
 p. 242 (Barbuda), pp. 461, 488 (Guadeloupe): id. op. tit. iii. p~ 250 
-(1880); Sahin, P. Z. S. 1883, p. 429 (Paracas Bay); Taez. Orn. 
+(1880); Salvin, P. Z. S. 1883, p. 429 (Paracas Bay); Taez. Orn. 
 Perou, iii. p. 362 (1886); Heine Sf Beicken. XomencL Mus. Hein. 
 p. 328 (1890: Puerto Cabello). 
 Tringa seniipalmata, Wils. Amer. Orn. vii. p. 131, pi. Ixiii. fitz. 4 
@@ -47666,7 +47666,7 @@ Progreso, Northern Yuca- Salvin-Godman Coll.
  tan, Oct. {G. F.Gaumer), 
 Duenas, Guatemala (O. Salvin-Godman Coll. 
 
-Sahin). 
+Salvin). 
 
  Chiapam, Coast of Guate- Salvin-Godman Coll 
 
@@ -49034,7 +49034,7 @@ Grenada, W. I., Aug. to Oct
 
 (D. W.Smith). 
 Salvin-Godman Coll. 
-Sahin-Godman Coll. 
+Salvin-Godman Coll. 
 Salvin-Godman Coll. 
 Salvin-Godman Coll. 
 Seobohm Coll. 
@@ -49087,7 +49087,7 @@ Port Desire, Patagonia,
 March. 
 Scilly Isl.
 
- Sahin-Godman Coll. 
+ Salvin-Godman Coll. 
 
  Salvin-Godman Coll. 
 
@@ -50157,7 +50157,7 @@ Falkland Islands.
 
 Salvin-Godman Coll. 
 Seebohm Coll. 
-Sahin-Godman Coll. 
+Salvin-Godman Coll. 
 Salvin-Godman Coll. 
 Salyin-Godman Coll. 
 Seebohni Coll. 
@@ -50288,7 +50288,7 @@ Tringa canadensis,' Lath. Ind. Orn. SuppL p. Ixv (1801).
 Trynga arquatella, Pall. Zoogr. Bosso-Asiat. ii. p. 190, pt. (1811). 
 Totanus maritimus, Stephens in Shaw's Gen. Zool. xii. p. 146 (1824). 
 Tringa striata (nee Linn.), Fleming, Brif. Anim. p. 110 (1828); 
-Dresses*, B. Eur. viii. p. 69, pi. 554 (1877); Sahin, Cat. StrickL 
+Dresses*, B. Eur. viii. p. 69, pi. 554 (1877); Salvin, Cat. StrickL 
 Coll p. 610 (1882); B. O. U. List Brit. B. p. 171 (1883); 
 Saunders, ed. YarreWs Brit. B. ill. p. 408 (1883); Slater fy 
 Carter, Ibis, 1886, p. 50 (Northern Iceland, June and Julv, breeding); 
@@ -51790,7 +51790,7 @@ p. 251 (1879: River Irtisch, April); Ridgw. Froc. U.S. Nat. Mus.
 iii. p. 199 (1880); Collett, Norges Fugle, p. 87 (1881) ; GigL Ibis, 
 1881, p. 209 (Genoa Riviera) ; Blakiston 8? Fryer, B. Japan, p. Ill 
 (1882: Yokohama); Seebohm, Ibis, 1882, p. 381 (Mouth of 
-Dwina) ; Cones, Check-list N Amer. B. p. 102 (1882); Sahin, Cat 
+Dwina) ; Cones, Check-list N Amer. B. p. 102 (1882); Salvin, Cat 
 Strickl Coll. p. 610 (1882); Irby, Ibis, 1883, p. 186 (Santander, 
 May); Steams, Froc. U.S. Nat. Mus. vi. p. 119 (1883 : Labrador); 
 B. 0. U. List Brit B. p. 171 (1883); Booth, Bough Notes, ii. cum 
@@ -52335,7 +52335,7 @@ CHARADBIIDJB.
 600 
 
 f* Juv. St. Nova Scotia. Old Coll. 
-a4-. Ad. sestiv. sk. Long Island, New York. Sahin-Godman Coll 
+a4-. Ad. sestiv. sk. Long Island, New York. Salvin-Godman Coll.
 h\ Juv. sk. Chicago, Illinois, Aug. (K Salvin-Godman Coll. 
 
 
@@ -55587,7 +55587,7 @@ fig. 2 (1846) ; Thomps. B. Irel. ii. p. 262 (1850) ; Middend. Peis.
 Sibir., Zool. p. 224 (1851: Boganida, breeding; Stanovoi Mts.) ; 
 Kj&rb. Danm. Fugle, Taf. xxxvii. fig. 3 (1851); Macgill. Brit B. 
 iv. p. 368 (1852); Schl. Vog. Nederl. pi. 222 (1854); Taxjlor, Ibis, 
-1859, p. 53 (Egypt); Sahin, t c. p. 36 (Eastern Atlas); Powys, 
+1859, p. 53 (Egypt); Salvin, t c. p. 36 (Eastern Atlas); Powys, 
 Ibis, 1860, p. 342 (Ionian Isl.); Schl. Bier. Nederl, Vogels, pi. 22. 
 figs. Q,Qa (1861); Padde, Peis. Sibir., Vog. p. 337 (1863: Tareinor, 
 May); Wright, Ibis, 1864, p. 147 (Malta); Sperling, t c. 
@@ -56536,7 +56536,7 @@ Post. Soc. Nat. Hist. i. p. 501 (1868: Western Iowa); Later, Ann.
 Lye. N. Y. ix. p. 141 (1868: Costa Rica) ; Brown, Ibis, 1868, 
 p. 425 (Vancouver Island); Dall fy Bann. Trans. Chic. Acad. i. 
 p. 291 (1869: Sitka; Kadiak); Stevenson, Geol Surv. Terr. 1870, 
-p. 466 (Fort Sanders, Wyoming); Sahin, P. Z. S. 1870, p. 219 
+p. 466 (Fort Sanders, Wyoming); Salvin, P. Z. S. 1870, p. 219 
 (Veragua) ; Allen, Bull Mus. C. Z. ii. p. 355 (1871: Florida) ; 
 Gray, Hand-l B. iii. p. 52, no. 10335 (1871); Trippe, Proc. Post. 
 Soc. Nat. Hist. xv. p. 240 (1872: Iowa, spring and autumn); 
@@ -56910,7 +56910,7 @@ Rio de Janeiro.
 7. Gallinago frenata. 
 Salvin-Godman Coll.. 
 
-Sahin-Godman Coll, 
+Salvin-Godman Coll. 
 Salvin-Godman ColL 
 Salvin-Godman ColL 
 Gould Coll. 
@@ -57994,7 +57994,7 @@ Homoptilura undulata, Gray, List Gen. B. p. 70 (1840).
 Gallinago undulata, Gray, Gen. B. iii. p. 583 (1846) ,* Scl §* Sah. 
 
 Exotic Orn. p. 196 (1869); Gray, Eand4. B. iii. p. 53, no. 10339 
-(1871); Scl % Sah. Nomencl Av. Neotr. p.-145 (1873) ; Sahin, 
+(1871); Scl % Sah. Nomencl Av. Neotr. p.-145 (1873) ; Salvin, 
 Ibis, 1886, p. 179 (British Guiana). 
 
 Telmatias paludosa, Reichenb. Grail tab. lxix. fig. 562 (1850). 

@@ -5988,7 +5988,7 @@ Rehnb. Vog. Neuholl no. 176 (1850); Blyth, Cat. B. Mm. As.
 Soc. Beng. p. 12 (1849) ; G. R. Gr. List Psitt. Brit, Mus. p. 04 
 (1859); Etnsch, Papag. ii. p. 862 (1868); Gieb. Thes. Orn. iii. 
 p. 659 (1877); Rchnw. Journ. f. Orn. 1881, p. 147 (Consp. Psitt. 
-p. 83); Sahin, Cat. B. Strichl Coll p. 456 (1882); Rchnw. Vogelbild. 
+p. 83); Salvin, Cat. B. Strichl Coll p. 456 (1882); Rchnw. Vogelbild. 
 t. xxx. f. 1 (1883). 
 Psittacula florentis, Bourj. Perr. pi. 84 (1837-38). 
 Trichoglossus purpureus. Eraser. P. Z. S. 1839, p. 113; Licht. Nomencl. 
@@ -11491,7 +11491,7 @@ Psitt. Brit. Mies. p. 26 (1859); Homey. Journ.f. Orn. 1859 p #60 *
 Cass. Pr. Ac. Phil. I860, p. 137; Finsch, Nederl Tijdsehr.Dierk. 
 
 i. Berigt. p. xiv (1863) ; Tayl. Ms, 1864, p. 93; Sclat. $ Sah. 
-P. Z. S. 1867, p. 587 (Mexiana); Sahin, Bis, 1871, iyp> 87, 90; 
+P. Z. S. 1867, p. 587 (Mexiana); Salvin, Bis, 1871, iyp> 87, 90; 
 Sclat. § Sah. P. Z. S. 1873, p. 299; iid. Nomencl Av. Neotrop. 
 p. Ill, n. 9 (1873); Garrod, P. Z. S. 1874, p. 587; 8dat.\ 
 Sah. P. Z. S. 1879, p. 534 (Bolivia, Burmeister) ; Tacz. P. Z. S. 
@@ -13611,7 +13611,7 @@ a-c. Ad. sk. Payta, Peru, Jan. (Markham). Salvin-Godman Coll.
 d. Ad. sk. Guayaquil. Massena Coll. 
 (Type of the species.) 
 e. Ad. sk. Pallatanga, Ecuador (Eraser). Sclater Coll. 
-/ . Ad. sk, Intaj, Ecuador (Buckley). Sahin-Godman Coll. 
+/ . Ad. sk, Intaj, Ecuador (Buckley). Salvin-Godman Coll. 
 g. Imm. sk. Balzar Mountains, Ecuador Salvin-Godman Coll. 
 (Illingworth). 
 h. Skeleton. Guayaquil. 
@@ -13643,7 +13643,7 @@ length about 15-5 inches, wing 8-3, tail 7*6, bill 1*2; tarsus 0*7.
 
 Bab. Peru and Ecuador. 
 
-a. Ad. sk. San Jos£, Ecuador (Buckley). Sahin-Godman Coll. 
+a. Ad. sk. San Jos£, Ecuador (Buckley). Salvin-Godman Coll. 
 5, c. Ad. sk. San Lucas, Ecuador (Buckley). Salvin-Godman Coll. 
 d. Ad. sk. Lima, Peru (Nation). Sclater Coll. 
 * Perhaps also the following synonyms belong to the present species:— 
@@ -15289,7 +15289,7 @@ Hab. La Plata and Patagonia.
 
 a. Ad. sk. Uruguay. 
 Alan Peel, Esq. [C I 
-b. $ ad. sk. Eio Negro, April. Sahin-Godman Coll. 
+b. $ ad. sk. Eio Negro, April. Salvin-Godman Coll. 
 c. d. 
 $ ad sk. Mendoza, Feb. (Weishaupt). Salvin-Godman & 
 Sclater Colls. 
@@ -17114,10 +17114,10 @@ Cordova, Arg. Rep., December(White),
 Gualequaichu, Arg. Rep. (Lee). 
 Maldonado, Uruguay (Darwin). 
 [Brazil.] 
-•Sahin-Godman Coll, 
+•Salvin-Godman Coll. 
 E. W. White [C.]. 
 Salvin-Godman Coll. 
-Sahin-Godman Coll. 
+Salvin-Godman Coll. 
 II.M.S. 'Beagle.' 
 Mashena Coll. 
 
@@ -18189,7 +18189,7 @@ would have become blue, as in the adult specimens from Xauta and
 Samiria, mentioned below, if the bird had lived. 
 
 a. $ ad. &k. Nauta, Jan. E. Bate**, E-q. T.". 
-b, c. <$ ad. sk. Samiria, October (J. IlauxSahin-
+b, c. <$ ad. sk. Samiria, October (J. IlauxSalvin-
 Godmaii Cull. 
 well). 
 
@@ -19360,7 +19360,7 @@ b. Ad. sk. Zool. Soc. Coll.
 c. Juv. sk. S. America. Purchased. 
 d. e. d ? ad. sk. Bartica Grove, Brit. Guiana, Salvin-Godman Coll. 
 October (JT. Whitehj). 
-f, g. d $ ad. sk. Camacusa, Brit. Guiana, Sahin-Godman Coll. 
+f, g. d $ ad. sk. Camacusa, Brit. Guiana, Salvin-Godman Coll. 
 March, June (H. Whitely). 
 h. Ad. &k. Venezuela (Verdey). Selater Coll. 
 i. Ad. sk. Trinidad. Salvin-Godman Coll. 
@@ -19487,7 +19487,7 @@ a, h. Ad. sk. S. America. Zoological Society's
 
 
 Coll. 
-c, d. c? ? ad. sk. Samiria, Peru, August (J. Sahin-GodmanColl. 
+c, d. c? ? ad. sk. Samiria, Peru, August (J. Salvin-GodmanColl. 
 Hauxwell). 
 
 
@@ -21638,7 +21638,7 @@ b. $ ad. sk. Guiana. fc Sclater Coll.
 c. d 
 ad. sk. Camacusa, British Guiana, Sakin-Godman Coll. 
 April (5". Whitely). 
-(h e, $ $ ad. sk, Bartica Grove, British Guiana, Sahin-Godman Coll. 
+(h e, $ $ ad. sk, Bartica Grove, British Guiana, Salvin-Godman Coll. 
 October (H. Whitely). 
 f, 
 Jad.sk. Bartica Grove, British Guiana, Sclater Coll. 
@@ -21971,7 +21971,7 @@ Amazona autumnalis, part., Sclileg. Mus. P.-B. Psittaci, p. 51, n. 3
 (1804). 
 Chrysotis autumnalis, Fra?itz. (nee Linn.) Journ.f. Orn. 1809, p. 305 
 (Costa Pica). 
-Chrvsotis diademata, part., Finseh, Papag. ii. p. 545 (1808) ; Sahin, 
+Chrvsotis diademata, part., Finseh, Papag. ii. p. 545 (1808) ; Salvin, 
 
 P. Z. S. 1870, p. 214 (Veragua) ; id. Ibis, 1870, p. 113 (CV^ta 
 Rica, Veragua), 1871, pp. 87, 97 (Costa Rica, Veragua, Panama) * 
@@ -22037,7 +22037,7 @@ g. Ad. sk. Panama (McLeannan). Sclater Coll.
 \ i. 6 S ad. sk. Panama (McLeannan). Salvin-Godman Coll. 
 k. 
 Ad. sk. Lion Hill Station, Isthmus Salvin-Godman Coll. 
-of Panama (0. Sahin). (Type of species.) 
+of Panama (0. Salvin). (Type of species.) 
 I 
 Ad. sk. Rernedios, U.S. of Colombia Salvin-Godman Coll. 
 (21 K Salmon). 
@@ -23561,7 +23561,7 @@ Valley, Ecuador, Peru, and, if the same, also Bolivia.
 
 a. Ad. sk. South America. Baron Laugier*-* Coll. 
 b, c § ad. sk. Bugaba, Cbiriqui (Arce). Salvin-Gudiran Cull. 
-d. <$ ad. sk. Santa Fe, Veragua (Arce). Sahin-Godman Cull. 
+d. <$ ad. sk. Santa Fe, Veragua (Arce). Salvin-Godman Coll. 
 e. <$ acl. sk. Veragua (Arce). Sclater Coll. 
 /. $ ad. sk. Calobre, Veragua (Arce). Salvin-Godman Coll. 
 g. Ad. sk. Panama. Tweeddale Cull. 
@@ -23890,7 +23890,7 @@ liiocour Coll.
 Sclater Coll. 
 / . Ad. sk. Zoological Soc. Coll. 
 g. Juv. sk. Brazil. Baron'Laugier's Coll. 
-h} i. Ad. sk. Bakia, Brazil (WucJierer). Sahin-Goilman Coll. 
+h} i. Ad. sk. Bakia, Brazil (WucJierer). Salvin-Goilman Coll. 
 k. <$ ad. sk. Ypanema, Brazil, July Salvin-Godman Coll.* 
 (Natter er). 
 
@@ -26817,7 +26817,7 @@ Poeoe^phalus senegalus, Bp. Rev. et Mag. de Zool. 1854, p. 154,
 n. 215 ; 8ousa, Mus. Nac. Lisb. Psittaci, p. 20 (1869); Rchmv. 
 VogelbUd. t. viL f. 2 (1878-83); id. Journ. f. Orn. 1881, p. 384 
 ^{Consp. Psitt. 
-p. 224); Sahin, Cat. B. Strickl. Coll p. 463 (1882); 
+p. 224); Salvin, Cat. B. Strickl. Coll p. 463 (1882); 
 Sclat. List Vert. An. 8th ed. p. 337 (1883); Sclat. P. Z. S. 1886, 
 
 p. 31; Hartert, Journ. f. Orn. 1886, p. 598. 
@@ -37163,7 +37163,7 @@ Agapornis cana, Select. P. Z. S. I860, p. 242; E. Newt. Ibis, 1861,
 
 p. 278 (Mauritius), 1865, p. 149 (Rodriguez) ; A. Newt. Ibis, 1872, 
 p. 32 • id. P. Z. & 1875, p. 42 j Mchmo. Vogelbild. t. xx. f. o (187883) 
-; id. Journ. f. Orn. 1881, p. 259 (Consp. Psiit. p. 147); Sahin, 
+; id. Journ. f. Orn. 1881, p. 259 (Consp. Psiit. p. 147); Salvin, 
 Cat. JB. Strichl Coll. p. 461 (1882) ,• Sclat. List Vert. An. 8th ed. 
 p. 330 (1883); Tristr. Cat. Coll. JB. p. 76 0889). 
 Psittacula madagascariensis, Finsch, Ned. TijdscJtr. Dierh. i. Berigt. 
