@@ -678,7 +678,7 @@ Subfaoi. XI. MBBGINJE.
 
 1. albellus, Linn
 
-63. Lophodytes, Bchnb
+63. Lophodytes, Rchnb. 
 
 1. cucullatus (Linn.)....
 
@@ -1465,7 +1465,7 @@ Bp. Isis, 1832, p. 1177, n. 282 ; Nutt. Man. ii. p. 70 (1834); Bp.
 Comp.List, p. 54, n. 363 (1838); Aud. Orn. Biogr. v. p. 255, 
 pi. 431 (1839); id. Syn. p. 269 (1839); id. B. Am. vi. p. 169, 
 pi. 375 (1843); Hartl. Verz. Ges. Mm. p. 116 (1844); G. P. Gr. 
-List B. Brit. Mus. iii. p. 125 (1844); Pchnb. Syn. Av., Natatores, 
+List B. Brit. Mus. iii. p. 125 (1844); Rchnb. Syn. Av., Natatores, 
 t. 108. f. 417 (1845); G. P Gr. Gen. B. iii. p. 603, n 2 (1846); 
 Benny, P. Z. S. 1847, p. 39 (Jamaica) ; Gosse, B. Jam. p. 390 
 (1847) (Jamaica, Cuba); Hartl. Isis, 1847, p. 606 (W. Indies); 
@@ -1952,7 +1952,7 @@ p. 603, n. 3 (1846); Blyth, Cat. B. Mus. A. S. B. p. 300, n. 1751
 (1849); Bp. Comp. Gen. Av. ii. p. 145 (1855); id. Compt. Bend. 
 xl. p. 724, n. 141 (1855) ; Cass. U.S. Kvpl Exp., Mamm. <§• Orn. 
 p. 332 (1858); Schleg. Bierent. p. 280 (1864); id. Mm. P.-B., 
-Anseres, p. 117 (1866); Bchnb. J.f. O. 1877, p. 228; JKartert, 
+Anseres, p. 117 (1866); Rchnb. J.f. O. 1877, p. 228; JKartert, 
 
 1 . PHCENICOrTEKUS. 
 17 
@@ -3048,7 +3048,7 @@ Less. Rev. Zool. 1839, p. 323; Aud. Orn. Biogr. v. p. 114, pi. 406
 (1839); Aud. B. Am. vi. p. 219, pis. 382, 383 (1843); Wyman, 
 Pr. Bost. Soc. N. H. i. p. 119 (sternum) (1843); Giraud, B. of 
 Long Isl. p. 299 (1844); G. R. Gr. Gen. B. iii. p. 610, n. 7 (1844); 
-Sartl. Syst. Verz. Ges. Mus. p. 118 (1844); Bchnb. Syn. Av., 
+Sartl. Syst. Verz. Ges. Mus. p. 118 (1844); Rchnb. Syn. Av., 
 Natatores, t. 104. ff. 2775-76 (1850) (ex Aud.); Newb. P.P. R. 
 Rep. vi. p. 104 (1857) (California and Oregon); Baird, B. N. Am9 
 p. 758 (1858); id. Cat N. Am. B. n. 562 (1859); Wied, J. f. O. 
@@ -3436,7 +3436,7 @@ p. 304 (note) (1839); id. Wiegm. Arch. 1839, i. p. 57; Leu. Bev.
 Zool. 1839, p. 323 ; Bilpp. Mus. Senck. iii. p. 8 (1839) ; Pdpp. ibid. 
 p. 9 (note) (1839); Fraser, B. Z. 8. 1843, p. 118 (Chili); G. B. 
 Gr. List B. Brit. Mus. iii. p. 130 (1844); id. Gen. B. iii. p. 610, 
-n. 3 (1844); Haril 8yst. Verz. Ges. Mus. p. 118 (1844); Bchnb. 
+n. 3 (1844); Haril 8yst. Verz. Ges. Mus. p. 118 (1844); Rchnb. 
 Syn. Av., Natatores, 1.106. f. 967 (1845); Yarr. P. Z. S. 1847, 
 p. 54 {egg); Hartl. Lnd. Azar. Apunt p. 27, n. 425 (1847); Des 
 Murs, in Gay's Hist. Chile, i. p. 445, pi. 14 (1848); Bibra, 
@@ -4291,11 +4291,11 @@ Eur. pp. lxxxv, 227 (Caspian Sea) (1840) ; Hartl.Verz. Ges. Mm.
 
 p. 120 (1844) ; Tseh. Wiegm. Arch. 1844, i. p. 315 (Peru) (1844); 
 G. E. Gr. List B. Brit. Mus. iii. p. 140 (1844); id. Gen. B. iii. 
-p. 618 (1845) ; Echnb. Syn. Av., Natatores, t. 95.ff. 196-197,198, 
+p. 618 (1845) ; Rchnb. Syn. Av., Natatores, t. 95.ff. 196-197,198, 
 930 (domestica) (1845); Tsch. Faun. Per., Aves, p. 54 (1845-46) ; 
 Gosse, B. Jam. p. 408 (1847); Eartl. 2nd. Azar. Apunt p. 27, 
 n. 427 (1847); Cab. in Schomb. Eeise Guian. iii. p. 763 (1848); 
-Echnb. Av. Syst Nat. p. x (1852); Wied, Naumatmia, 1852, 2, 
+Rchnb. Av. Syst Nat. p. x (1852); Wied, Naumatmia, 1852, 2, 
 p. 54 (Cuba); Licht Nomencl. An. p. 101 (1854); Bp. Compt 
 Bend, xliii. p. 649, n. 41 (1856) ; Burm. Syst Ueb. Thiere Bras* 
 iii. sp. 440 (1856); Moore, P. Z. S. 1859, p. 65 (Honduras); Sclat. 
@@ -4555,7 +4555,7 @@ p. 160 (Ceylon).
 Sarcidiornis melanotus, Blyth, Cat B. Mus. A. 8. B. p. 302, 
 ' n. 1763 (India and Burma) (1849); lrby> Ibis, 1861, p. 248 
 (Oudh). 
-? Anas melanotis, Mchnb. 8yn. Av., Natatores, t. 107. f. 2360 ($ ) 
+? Anas melanotis, Rchnb. 8yn. Av., Natatores, t. 107. f. 2360 ($ ) 
 (1850). 
 SarMdiornis 
 melanonotus, Layard, Ann. $• Mag. N. H. xiv. p. 268 
@@ -5053,7 +5053,7 @@ var.).
 9. 
 BHODOHESSA. 
 Type. 
-Bhodonessa, Bchnb. Av. Syst. Nat. p. ix, Taf. 85 
+Bhodonessa, Rchnb. Av. Syst. Nat. p. ix, Taf. 85 
 (1852) , R. caryophyllacea. 
 Range, Confined to India, Assam, and Independent Burma. 
 
@@ -5067,7 +5067,7 @@ N. D. v. p. 162 (1816); Bum. Diet. So. Nat. vi. p. 379 (1817) 5
 Lath Gen. Hist. x. p. 343, pi. 179 (1824); Sw. An. in Menag, 
 p. 277 (1838); G. M. Gr. List B. Brit. Mus. p. 136 (1844) 
 (Bootan, Nepal) ; G. B. Gr. $ Mitch. Gen. B. iii. p. 616, n. 10, 
-pi. 167 (1845); Bchnb. Syn. Av., Natatores, t. 85. £ 919 (1845) 
+pi. 167 (1845); Rchnb. Syn. Av., Natatores, t. 85. £ 919 (1845) 
 (ear Gray $ Mitch.) ; G. M. Gr. Cat. Hodgs. Coll. B. M. p. 146 
 (1846); Jerd. III. Ind. Orn. pi. 34 (1847); Blyth, Cat. B. Mus, 
 A. S. B. p. 304, n. 1774 (1849); Licht. Nomencl. Av. p. 101 
@@ -5331,7 +5331,7 @@ Anser minuta, Dubois, Orn. Gal. p. 110, pi. 70 (1839).
 Nettapus auritus, G. B. Gr. Bist Gen. B. p. 73 (1840); id. List B. 
 
 Brit. Mus. iii. p. 128 (1844); id. Gen. B. iii. p. 608, n. 3 (1844); 
-Bchnb. Syn. Av., Natatorea, t. 96. ff. 931, 932 (1845): Hartl. Zeit. 
+ *Rchnb. Syn. Av., Natatorea, t. 96. ff. 931, 932 (1845): Hartl. Zeit. 
 
 f. 
 Zool. u. Zoot. 1848, p. 159; id. AWL § Mag. N. H. ii. p. 393 
@@ -6011,7 +6011,7 @@ Dendronessa, Sw. Faun. Bor.-Am., Birds, p. 497
 (1831) M. galericulata. 
 Lampronessa, Wagl. Isis, 1832, p. 282 JE. sponsa. 
 Aia (errore), Eyton, Mon. Anat. p. 35 (1838). 
-Cosmonessa, Bchnb. (nee Kaup) Av. Syst. Kat. p. x 
+Cosmonessa, Rchnb. (nee Kaup) Av. Syst. Kat. p. x 
 
 (1852) M. sponsa. 
 Mx, B. 0. U. List Br. B. p. 123 (1883) (^Aix, Bote). 
@@ -6486,8 +6486,8 @@ Tall. MSth. p. 100 (1838); Jard. fy Selby, III. Orn. (n. ser.) pi. 33
 (1839); Rupp. Mus. Senckenb. iii. p. 11 (1839); G. R. Gr. List 
 Gen. B. p. 73 (1840); id. List B. Brit. Mus. iii. p. 126 (1844); 
 id. Gen. B. iii. p. 606 (1844); Hartl. Syst. Verz. Ges. Mm. 
-p. 117 (1844); Pchnb. Syn. Av., Natatores, t. 96. ff. 940-941 
-(1845); Gould, B. Austr. vii. pi. 1 (pt. xxviii., 1847); Pchnb. 
+p. 117 (1844); Rchnb. Syn. Av., Natatores, t. 96. ff. 940-941 
+(1845); Gould, B. Austr. vii. pi. 1 (pt. xxviii., 1847); Rchnb. 
 Av. Syst. Nat p. ix, tab. x. (1852); id. J. f. O. 1853, p. 10; 
 Licht. Nomencl. Av. p. 101 (1854); Bp. Compt. Rend, xliii. p. 648, 
 n. 36 (1856); Crisp, P. Z. S. 1857, p. 215; Sclat. P. Z. S. 1859, 
@@ -6902,7 +6902,7 @@ U.S. Nat. Mus. x. n. 29, p. 317(1885); id. Pr. U.S. Nat.Mus. x.
 p. 135 (Bering I.) (1887); Collett, Om.Jahrb. i. p. 137 (Norway) 
 (1890). 
 Anser hyperboreas, part., Byt. Mon. Anat. p. 92 (1838). 
-Chionociien hyperboreus, Bchnb. Av. Syst. Nat. p. ix (1852); Sund. 
+Chionociien hyperboreus, Rchnb. Av. Syst. Nat. p. ix (1852); Sund. 
 
 Meth. nat. Av. disp. Tent. p. 145 (1872). 
 
@@ -7211,7 +7211,7 @@ Bur. pp. lxxxiii, 224 (1840); Bp. Cat. Met. Ucc. Bur. p. 70,
 n. 423 (1842) ; Naum. Vog. Deutschl. xi. p. 229, Taf. 285 (1842); 
 Schleg. Bev. Crit. p. cix (1844) * Rchnb. Syn. Av., Natatores, 
 1.103. ff. 955-57 (1845),-Kjmrb. JDanm. Fugle, p. 357, Taf. 44 
-(1852) ; Bchnb. Av. Syst. Nat. p. ix (1852); Licht. Nomencl. Av. 
+(1852) ; Rchnb. Av. Syst. Nat. p. ix (1852); Licht. Nomencl. Av. 
 p. 100 (1854); Wallengr. Naumannia, 1854, p. 267 (Scandinavia) ; 
 Selys, Naumannia, 1855, p. 262 j Bp. Compt. Bend, xliii. p. 648, 
 n. 15 (1856); Schleg. Fog. Nederl pi. 275 (1861); Nordm. J.f. O. 
@@ -7508,7 +7508,7 @@ C. L. Brehn, Ixis, 1830, p. 996 (de-cr. nulla) ; id.
 Vog. Deutschl. p. 841 (1831); Bp. Cat. Met. Ucc.Eur.y. 69, 
 
 n. '419 (1842); G. B. Gr. 'Gen. B. iii. p. 607, n. 4 (1844) ; 
-Bchnb. Syn. Av., Natatores, t. 103. f. 958 (1845); C. L. Brehn, 
+ *Rchnb. Syn. Av., Natatores, t. 103. f. 958 (1845); C. L. Brehn, 
 Naumannia. 1855, p. 297 ; Bp. Compt. Bend, xliii. p. 648, n. 16, 
 p. 1025 (1856); Fritsch, Vog. Eur. p. 405, t. 45. f. 5 (1870). 
 Anser intermedins, 
@@ -8404,7 +8404,7 @@ Turk. Miss., Aves, p. 128 (1891); Pleshe, MM. Biol. xiii. p. 298,
 n. 167 (1892) • Newt Bid. of B. p. 373 (pt. 2, 1893); Oust. Nouv. 
 Arch. Mm. (3) vi. p. 97 (1894). 
 Bernicla indica, 
-G. B. Gr. Gen. B. iii. p. 608, n. 15 (1844); Bchnb. 
+G. B. Gr. Gen. B. iii. p. 608, n. 15 (1844); Rchnb. 
 Sun. Av., Natatoies, 1101, if. 951-52 (1845) ; Blyth, Cat. B. Mus. 
 
 A. S. B. p. 301, n. 1757 (1849); Adams, P. Z. S. 1858, p. 509 
@@ -8574,7 +8574,7 @@ Descr. <§• Ic. An. Boss. Nov., Ave% fasc. i. p. 5 (1836) ; G. B. Gr.
 List Gen. B. p. 73 (1840) ; Bp. Cat. Met. Ucc. Eur. p. 59, n. 415 
 (1842) ; Strickl. P. Z S. 1842, p. 166 (Chinese) ; Hartl. Syst 
 
-Verz. Ges. Mus. p. 117 (1844) ; Bchnb. Syn. Av., Anseres, t. 105. 
+Verz. Ges. Mus. p. 117 (1844) ; Rchnb. Syn. Av., Anseres, t. 105. 
 ff. 249-50 (1845) ; Licht. Nomencl. Av. p. 101 (1854) ; Bp. Compt. 
 Rend, xliii. p. 648, n. 9 (1856); G. R. Gr. Hand-list, iii. p. 75, 
 
@@ -8767,7 +8767,7 @@ Bemicla, Bote, Isis, 1822, pp. 563, 883; Steph. Gen.
 Zool. xii. 2, p. 45 (1824) (ex Brisson, Orn. vi. p. 300, 
 
 1760)..; B. bemicla. 
-Leucopareia, JEtchnb. Av. Syst. Nat. p. ix (1852) B. leucopsis. 
+Leucopareia, Rchnb. Av. Syst. Nat. p. ix (1852) B. leucopsis. 
 Rufibrenta, Bp. Compt. Bend, xliii. p. 648 (subgen.) 
 
 (1856) B. ruficollis. 
@@ -9814,7 +9814,7 @@ p. 53, pi. 43 (1824); Brehm, Isis, 1830, p. 996; Gould, B. Fur. v.
 pi. 351 (1837); Eyt. Mon. Anat. p. 85 (1838); Bp. Comp. List, 
 p. 56, n. 402 (1838); id. Cat. Met. TJee. Fur. p. 70, n. 426 
 (1842); G. B. Gr. List B. Brit. Mus. iii. p. 128 (Berwick) (1844); 
-id. Gen. B. iii. p. 607, n. 8 (1844); Bchnb. Syn. Av., Natatores, 
+id. Gen. B. iii. p. 607, n. 8 (1844); Rchnb. Syn. Av., Natatores, 
 t. 97. fi. 233, 234 (1845); Licht. No?nencl. Av. p. 100 (1854); 
 Degl. fy Gerbe, Ois. Fur. ii. p. 490 (1867); Fyt. Syn. Anat. p. 32 
 (1869); Gigl. Ibis, 1869, p. 242 (Italy); ?Blyth, Ibis, 1870, 
@@ -9835,7 +9835,7 @@ Brit. Birds, p. 395 (1889); Lilford, Col. Figs. Br. B. pt. xxi. pi. —
 (1892); Newt. Diet, of B. p. 376 (pt. 2,1893). 
 
 
-Leucopareia ruficollis, Bchnb. Av. Syst. JSfat. p. ix (1852). 
+Leucopareia ruficollis, Rchnb. Av. Syst. JSfat. p. ix (1852). 
 Bernicla (Eufibrenta) ruficollis, Bp. Compt. Bend, xliii. p. 648, 
 
 n. 35 (1856). 
@@ -10009,7 +10009,7 @@ d. Tertials long and narrow; upper wing-
 coverts grey; size small 22. CHENONETTA, p. 140. 
 20. CHLOEPHAGA. 
 Chloephaga, JEyt. Mon. Anat. p. 13 (1838) 0. magellanica. 
-Tsenidiestes, Bchnb. Av. Byst. Nat. p. ix (1852) ... . C. antarctica. 
+Tsenidiestes, Rchnb. Av. Byst. Nat. p. ix (1852) ... . C. antarctica. 
 Oressochen, Barm. Pr. Ac, 8c. Philad. 1870, p. 131.. 0. melanoptera. 
 Chloetrophus, Bann. Pr. Ac. 8c. Philad. 1870, 
 
@@ -10074,7 +10074,7 @@ p. 41 (1869); Gieb. The*. Orn. i. p. 512 (1872).
 Anser montana, Tsch. {nee Gm.) Wiegm. Arch. 1843, i. p. 390, n. 2L 
 Anser anticola, Tsch. op. cit. 1844, i. p. 315, n. 342. 
 Bernicla melanoptera, G. B. Gr. List B. Brit. Mus. iii. p. 128 
-(1844); id. Gen. B.iii. p. 607,n. 5 (1844); Bchnb. Syn. Av., Natatores, 
+(1844); id. Gen. B.iii. p. 607,n. 5 (1844); Rchnb. Syn. Av., Natatores, 
 
 t. 101. f. 953 (1845) (ex Beagle); Des Murs in Gay, Hist, de 
 Chile, l p. 443 (1848) ; Bartl. Naumannia, 1853, p. 222, sp. 160; 
@@ -10210,7 +10210,7 @@ Voy. Beagle, iii. p. 134 (3841) (Tierra del Fuego, Falkland
 Islands); G. B. Gr. List B. Brit. Mus. iii. p. 127 (1844); id, 
 Gen. B. iii. p. 607, n. 4 (1844); Hartl. 8ysb. Verz. Ges. Mus. 
 
-p. 117 (1844); Bchnb. Syn. Av., Natatores, t. 98. ff. 397, 948 
+p. 117 (1844); Rchnb. Syn. Av., Natatores, t. 98. ff. 397, 948 
 (1845) ; Bes Mure in Gay, Hist, de Chile, I-p. 442(1848); Bibra, 
 Benkschr. h. Ah. Wissensch. v. 2, p. 131 (1853); id. J. f. 0.1855, 
 p. 57; Cass. U.S. Astron. Exp. ii. p. 200, pi. xxiii. (S 2) (1856) 
@@ -10233,7 +10233,7 @@ Chenelopex antarctica, Less. op. cit. p. 628 ( $) (1831) ; id. Compl.
 de Buff., Ois. 2nd ed. p. 717 (1838). 
 Anas sranta, Forst. Icon. ined. t. —; id. Bescr. An. (ed. Licht) p. 336 
 (1844). 
-Taenidiestes antarctica, Bchnb. Av. Syst. Nat. p. ix (1852); Bann. 
+Taenidiestes antarctica, Rchnb. Av. Syst. Nat. p. ix (1852); Bann. 
 Br. Ac. Philad. 1870, p. 132; G. P. Gr. Hand-list, iii. p. 76, 
 
 n. 10585 (1871). 
@@ -10890,7 +10890,7 @@ Bernicla jubata, Steph. Gen. Zool. xii. 2, p. 63 (1824); Eyt. Mon.
 
 Anat. p. 89 (1838); G. B. Gr. Gen. B. hi. p. 607, n.3 (1844); id. 
 List B. Brit. Mus. iii. p. 128 (1844); Gould, B. Austr. vii pi. 18 
-(pt. xxi., 1845); Bchnb. Syn. Av., Natatores, t. 98. ff. 944-45 (1845), 
+(pt. xxi., 1845); Rchnb. Syn. Av., Natatores, t. 98. ff. 944-45 (1845), 
 
 t. 99. if. 2352-53 (1850) (ex Goidd); Hartl. Erst. Nachtr. Vogelsamml. 
 p. 19, n. 215 (1846); Licht. Nomencl Av. p. 100 (1854); 
@@ -11283,7 +11283,7 @@ vol.. XXVII.
 
 List P. Br. Mus. iii. p. 132 (Brazil) (1844); Marti. Vers. Ges. 
 Mus. p. 118 (1844); G. R. Gr. Gen. B. iii. p. 612, n. 5 (1845); 
-Bchnb. Syn. Av., Natatores, t. 89. ff. 173-74 (1845); Tsch. Faun. 
+ *Rchnb. Syn. Av., Natatores, t. 89. ff. 173-74 (1845); Tsch. Faun. 
 Per., Aves,p. 54 (1845-46); Marti. Ind. Azar. Apunt. p. 28, n. 435 
 (1847); Cab. in Schomb. Guiana, iii. p. 762 (1848); Blyth, CatB. 
 Mus. A. S. B. p. 301 (1849); Licht. NomencL Av. p. 102 (South 
@@ -11701,7 +11701,7 @@ id. III. Ind. Om. pi. 23 (1843); G. F. Gr. List Spec. B. Br. Mus,
 
 iii. p. 131 (1844); id. Gen. B. iii. p. 612, n. 2 (1845); Hartl Frst 
 Nachtr. Vogelsamml. p. 19, n. 218 (1846); Blyth, Cat B. Mus, 
-A. S. B. p. 301, n. 1761 (1849) (Lower Bengal); Fchnb. Syn. Av., 
+A. S. B. p. 301, n. 1761 (1849) (Lower Bengal); Rchnb. Syn. Av., 
 Natatores, t. 100. f. 2768 (ex Jerdon) (1850) ; Jerd. B. of Ind. iii. 
 p. 790 (syn. emend.) (1864); Sclat F. Z. S. 1864, p. 300 (India) ; 
 Blyth, Ibis, 1865, p. 39 (India), I860, p. 149 (India); Schleg. Mus. 
@@ -11913,7 +11913,7 @@ Vorderm. N. T. N I. xliii. p. 133 (Java) (1883), xki. pp. 222,
 (1889) ; Bams. Tab. List, p. 22, n. 665 (1888) ; ? Everett, Journ. 
 Sir. Br. M As. Soc. 1889, p. 192 (1889); North, Cat. Nests $ Fggs 
 Austr. p. 339 (1889); Wiglesw. Aces Bolyn. p. 69 (1891). 
-Dendrocygna arcuata (australis), Mchnb. Syn. Av., Natatores, t. 91. 
+Dendrocygna arcuata (australis), Rchnb. Syn. Av., Natatores, t. 91. 
 ff. 2650-51 (1850) (ex Gould). 
 Dendrocygna arcuata, var. gouldi, Bp. Compt. Mend, xliii. p. 649, 
 
@@ -12086,7 +12086,7 @@ Anas caryophyllacea, Sundev. (nee Lath.) Physiog. Sallsk. TidsJcr.
 i. p. 210 (1837); id. Isis, 1842, p. 795; id. Ann. $ Mag. N. H. 
 xix. p. 172 (1847). 
 Anas castanea, Mus. Holm, fide Sundev. II. cc. 
-Dendrocygna javanica, Bchnb. Syn. Av., Natatores, t. 89. rT. 171-72 
+Dendrocygna javanica, Rchnb. Syn. Av., Natatores, t. 89. rT. 171-72 
 (1846)"; Holdsw.P. Z. S. 1872, p. 479 (Ceylon); Legge, Ibis, 
 1874, p. 27 (Ceylon), 1875, p. 407; Hume $ Davis. Str. Feath. 
 vipp. 486,488 (note) (Tenasserim) (1870); Cripps, Str. Feath. 
@@ -12914,7 +12914,7 @@ Eyt Syn. Anat. p. 63 (1869); G. B. Gr. Hand-list, iii. p. 80,
 n. 10617 (1871). 
 Dendrocygna 
 eytoni, G. B. Gr. List B. Br. Mus. iii. p. 132 
-(1844); id. Gen. B. iii. p. 612, n. 7 (1845); Bchnb. Syn. Av., 
+(1844); id. Gen. B. iii. p. 612, n. 7 (1845); Rchnb. Syn. Av., 
 Natatores, t. 99. ff. 2357-58 (ex Gould) (1850); Stanl Sale-list 
 Knoiosley Men. p. 45 (1851) ; Sclat. P. Z. S. 1864, p. 301; Gould, 
 Handb. B. Austr. ii. p. 375 (1865); Schleg. Mus. P.-i?., Anseres, 
@@ -13134,7 +13134,7 @@ Bchnw. Vog. Deutsch-Ost-Afr. p. 28 (1894).
 Bernicla cegyptiaca, Eyt Cat. Br. B. pi. 65 (1836). 
 
 Chenalopex africanus, G. B. Gr. Gen. B. iii. p. 605, n. 2 (1845); 
-Bchnb. Syn. Av., Natatores, t. 98. ff. 942-43 (1845); Gieb. Thes. 
+ *Rchnb. Syn. Av., Natatores, t. 98. ff. 942-43 (1845); Gieb. Thes. 
 Orn. i. p. 368(1872). 
 
 Chenalopex varias, Brehm, Vogelf. p. 369 (1855) j id. Naumanma, 
@@ -13227,7 +13227,7 @@ Spiv) ; Hartl. J.f. 0. 1855, p. 419; Schleg. Mus. P.-B., Anseres,
 p. 95 (I860). 
 Chenalopex 
 jubatus, Wagl Isis, 1832, p. 1235, n. 2; G. P. Gr. 
-Gen. B. iii. p. 605, n. 4, pi. 164 (1845); Pchnb. Syn. Av., Natatores, 
+Gen. B. iii. p. 605, n. 4, pi. 164 (1845); Rchnb. Syn. Av., Natatores, 
 t. 102. ff. 234-235 (1845); J. P. Gr. Glean, from KnowsL 
 Menag. pi. xv. (1846); Schomb. Guian. Peis. iii. p. 762 (1848) ; 
 Taylor, Ibis, 1864, p. 96 (Orinoco); Sclat. $ Sate. P. Z. S. 1866, 
@@ -13289,7 +13289,7 @@ Tadorna, leach, MS.; Flem. Phil. Zool. ii. p. 260 (1822). T. comuta.
 Vulpanser, Keys. § Bias. Wirbelth. Pur. p. 84 (1840) .. T. cornuta. 
 Radjah, Pclmb. Av. Syst. Nat. p. x (1852) T. radjah. 
 Gennaeocken, Heine, Nomencl. Mus. Hein. p. 343 (1890) 
-(=Radjah, Pchnb.). 
+(=Radjah, Rchnb.). 
 
 Mange. Palaearctic and Australian Regions. 
 
@@ -13606,7 +13606,7 @@ Mm. vm. p. t>B (lb80).
 Tacionia radjah, i>f. *>/«/*. ylwrf. p. 106 (1838); Gould, B. Austr. 
 
 vii. pi. 8 (pt. xiv., 1844); G. B. Gr. List B. Brit. Mus. iii. p. 132 
-f!h44); id. Gen.B. iii. p. 613, n. 2 (1845); Bchnb. Syn. Av., 
+f!h44); id. Gen.B. iii. p. 613, n. 2 (1845); Rchnb. Syn. Av., 
 Natal t. liii. € 396, 435-36 (1845); MacgilL Narr. Toy. Battlesn. 
 ii. p. 358 (1*32); LkM. Nomencl Av. p. 101 (1854); G. B. Gr. 
 P. Z. 8. 18*58, p. 198; id. Cat. B. New Gain. p. 63 (1859); id. 
@@ -14462,7 +14462,7 @@ p. 58 (1869).
 Oasarca tadornoides, Gould, B. Austr. v. pi. 7 (pt. xiv., 1844); G. R. 
 Gr. List B. Brit. Mus. iii. p. 133 (1844); id. Gen. B. iii. p. 613, 
 
-n. 2 (1845) 5 Bchnb. Syn. Av., Natatores, t. 93.ff. 428-430 (1845); 
+n. 2 (1845) 5 Rchnb. Syn. Av., Natatores, t. 93.ff. 428-430 (1845); 
 Licht Nomencl. Av. p. 101 (1854); Bp. Compt. Bend, xliii. p. 649, 
 n. 47 (1856); Sclat. P. Z. S. 1862, p. 185; Gould, Handb. B. 
 Austr. ii. p. 361 (1865); G. It. Gr. Hand-list, iii. p. 80, n. 10622 
@@ -14889,7 +14889,7 @@ p. 537, n. 112 (1788); Lath. Ind. Orn. ii. p. 852, n. 50 (1790) ;
 Bonn. Em. Meth. i. p. 144 (1790); VieilL N. D. v. p. 107 (1816) j 
 Du?n. Diet. So. Nat. vi. p. 365 (1817) ; Steph. Gen. Zool. xii. 2, 
 
-p. 93 (1824); Bchnb. Syn. Av., Natatores, t. 84. ff. 213-15 (1845), 
+p. 93 (1824); Rchnb. Syn. Av., Natatores, t. 84. ff. 213-15 (1845), 
 Canard sauvage, D'Aubent PL JSnl. 776 (<$), 777 ($ ) (1770); 
 Buff. Hist. Nat. Ois. ix. p. 115, pis. 7, 8 (1783). 
 Anatra salvatica reale, Ger. Stor. degl. Ucc. v. t. 570 ( g ) (1776). 
@@ -14931,7 +14931,7 @@ Anas (Boschas) domestica, Sw. <§• Bich. Faun. Bor.-Am. ii. p. 442
 Anas (Boschas) boschas, Jenyns, Man. p. 233 (1835). 
 Boschas domestica, Sw. Class. B. ii. p. 367 (1837). 
 Penguin Duck, Eyt. Mon. Anat. p. 141 (1838) (var. dom.). 
-Anas boschas domestica, Bchnb. Syn. Av. t. 84. if. 206-212 (1845). 
+Anas boschas domestica, Rchnb. Syn. Av. t. 84. if. 206-212 (1845). 
 Boschas fera, Denny, F. Z. S. 1847, p. 40. 
 Anas major, Brehm, Vogelf. p. 372 (1855); id. Naumannia, 1855, 
 
@@ -14942,7 +14942,7 @@ Hybrids.
 Anas biweri, Aud. Orn. Biogr. iv. p. 302, pi. 338 (1838) (=A . boschas 
 X A. strepera P); id. Syn. p. 277 (1839); id. B. Amer. vi. 
 
-•p. 252, pi. 387 (1843); Bchnb. Syn. Av., Natatores, t. 100. f. 2771 
+•p. 252, pi. 387 (1843); Rchnb. Syn. Av., Natatores, t. 100. f. 2771 
 (ex Audubon) (1850); Coues, B. N.-West. p. 560 (1874) (=A< 
 boschas X A. strepera or F. vaHisneria); B., B., fy B. Water-B. 
 
@@ -14950,10 +14950,10 @@ boschas X A. strepera or F. vaHisneria); B., B., fy B. Water-B.
 N. Amer. i. p. 491 (=A. boschas tf in changing plumage?), 
 p. 4Q5 (=A. boschas X A. obscura?). 
 Anas auduboni, Bp. Comp. List, p. 56, n. 374 (1838) (=breweri). 
-Anas nioschato-boschas, Bchnb. Sim. Av.. Natatores, t. 84. f. 203 
+Anas nioschato-boschas, Rchnb. Sim. Av.. Natatores, t. 84. f. 203 
 (1845). 
 
-Anas fusco-bosehas, Bchnb. ibid.ff. 204-205 (1845). 
+Anas fusco-bosehas, Rchnb. ibid.ff. 204-205 (1845). 
 
 Anas maxima, Gosse, B. Jam. p. 399 (1847) ( = A. boscbas x Oairina 
 
@@ -15604,7 +15604,7 @@ xii. 2, p. 104 (1824); Dp. Obs. Wils. n. 260 (1825); id. Syn. p. 234
 (1839),- id. D. Am, vi. p. 244, pi. 386 (1843); Bartl Verz. Ges. 
 Mus. p. 119 (1844); Giraud, B. Long Isl p. 301 (1844); De Kay, 
 N. Y. Zool. ii. p. 344 (1844) ; G. R. Gr. List B. Brit. Mus. iii. 
-p. 135 (1844); id. Gen. B. iii. p. 615, n. 5 (1845) ; Bchnb. Syn. 
+p. 135 (1844); id. Gen. B. iii. p. 615, n. 5 (1845) ; Rchnb. Syn. 
 Av. Nat. t. 85. f. 918 (1845), t. 100. ff. 2764-65 {ex Aububon) 
 (1850); Licht. Nomencl. Av. p. 101 (1854); Bp. Compt. Bend. 
 xliii. p. 649, n. 72 (excl. syn.) (1856); Putn. Pr. Ess. Inst. i. 
@@ -15880,7 +15880,7 @@ Hab, Mazatlan, Mexico.
 10. Anas luzonica. 
 Anas luzonica, Fraser, P. Z. S. 1839, p. 113 (Luzon); G. B. Gr. List, 
 B. Brit Mus. iii. p. 136 (1844); id. Gen. B. iii. p. 616, n. 7 (1845); 
-Fraser, Zool. Typ. pi. 67 (1849): Bchnb. Syn. Av., Natatores, 
+Fraser, Zool. Typ. pi. 67 (1849): Rchnb. Syn. Av., Natatores, 
 t. 94. f. 2346 (1850) (ex Fraser); Bp. Compt Bend, xliii. p. 649, 
 n. 70 (1856); Mart. J. f. 0. 1866, p. 30; Schley. Mus. P.-B., 
 Anseres, p. 42 (1866); Eyt. Syn. Anat. p. 96 (1869); Q. B. Gr. 
@@ -15945,7 +15945,7 @@ p. 119 (1844); G. B. Gr. List B. Brit. Mus. iii. p. 135 (1844) ;
 id. Gen. B. iii. p. 615, n. 4 (1845); Gould, B. Austr. vii. pi. 9 
 (pt. ix., 1845); Peak, Un. St. Expl. Exp. sp. 162 (1848); Rchnb. 
 Syn. Av., Natatores, t. 85. ff. 913-914 (1845), t. 94. f. 2347 (1850) ; 
-Blyth, Cat. B. Mus. A. S. B. p. 304, n. 1772 (1849) ; Bchnb. Tog. 
+Blyth, Cat. B. Mus. A. S. B. p. 304, n. 1772 (1849) ; Rchnb. Tog. 
 Neuholl. n. 311 (1851); Hartl. Wiegm. Arch. 1852, i. pp. 122, 136; 
 Macgill. Narr. Voy. Battlesn. p. 328 (1852); id. J.f. O. 1854, 
 p. 169; Licht. Nomencl Av. p. 101 (1854) ; Bp. Compt. Bend. 
@@ -16297,9 +16297,9 @@ Anas pmcilorhyncha X A. boscas.
 v'. Ad. st. [In confinement.] T. H. Powell, Esq. [P.], 
 
 13. Anas zonorhyncha. 
-Anas poecilorliyncha, Bchnb. (nee Font.) Syn. Av., Natatores, t. 111. 
+Anas poecilorliyncha, Rchnb. (nee Font.) Syn. Av., Natatores, t. 111. 
 f. 1081 (184o); Temm. § Schleg. Faun. Jap., Aves, p. 126, pi. 82 
-(1850) ; Bchnb. Syn. Av., Natatores, t. 100. f. 2763 (1850) (ex 
+(1850) ; Rchnb. Syn. Av., Natatores, t. 100. f. 2763 (1850) (ex 
 Temm. § Schley.) : Badde, Beis. 8. O.-Sibir. ii. p. 364 (1863); 
 Swinh. F. Z. 8. 1863, p. 324 (China) j id. Ibis, 1863, p. 434 (Formosa) 
 ; SWiley. Mus. F.-B., iinseres, p. 66, p. 42 (part., specim. 3, 
@@ -16390,7 +16390,7 @@ Anas undulata, Dubois, Orn. Gall. p. 119, pi. 77 (Cape) (1839).
 Anas xanthorhyncha, Forst. Icon. ined. t. 72 (nee t. 71); id. Descr. 
 Anim. (ed. Bicht.) p. 45 (nee p. 342) (Cape of Good Hope) (1844) ; 
 
-G. B. Gr. Gen. B. iii. p. 616, n. 12 (1845); Bchnb. Syn. Av., 
+G. B. Gr. Gen. B. iii. p. 616, n. 12 (1845); Rchnb. Syn. Av., 
 Natatores, t. 85. f. 917 (ex Smith) (1845); Bolle, J.f O. 1856, 
 p. 164 (Zool. Gard.); Boch $ B. Newt. Ibis, 1863, p. 174 (Madagascar) 
 ; Sclleg, Mm. B.-B., Anseres, p. 43 (1866); Sclat. P. Z. S. 
@@ -16485,7 +16485,7 @@ pp. 14
 (S(S. Afr.) (1838); Smith, III. Zool. 
 
 S. Afr., Birds, pi. 97 (pt. 21, 1844): G. B. Gr. Gen. B. iii. 
-p. 616, n. 9 (1845); Bchnb. Syn. Av. t. 110. if. 911 (ex Smith), 
+p. 616, n. 9 (1845); Rchnb. Syn. Av. t. 110. if. 911 (ex Smith), 
 
 214 
 AtfATIDiE. 
@@ -16827,7 +16827,7 @@ Anas falcaria, var., Vieill. N. D. v. p. 172 (1816) (ex PL Enl. 930).
 Aix falcaria, Boie, Isis, 1828, p. 329. 
 Querquedula falcaria, Eyt. Mon. Anat. p. 126 (1838); Strichl. 
 B. Z. S. 1842, p. 167 (China); G. B. Gr. List B. Brit. Mus. p. 137 
-(1844); Bchnb. Syn. Av. t. 89. ff. 182 (tf), 413 ($ ) (1845); 
+(1844); Rchnb. Syn. Av. t. 89. ff. 182 (tf), 413 ($ ) (1845); 
 Licht. Nomencl. Av. p. 102 (1854); Siuinh. Ibis, 1861, p. 345 
 (N. China) ; Blahist. Ibis, 1862, p. 332 (N. Japan); Swinh. Ibis, 
 1863, p. 434 (Formosa ?); Eyt. Syn. Anat. p. 78 (1869). 
@@ -17175,7 +17175,7 @@ Br.B.y. p. 59(1852).
 
 Ktinorhynchus strepera, JEartl. Vers. Ges. Mus. p. 120 (1844). 
 Anas mail, Hodgs. Gray's Zool. Misc. p. 81, n. 500 (2) (1844). 
-Ohaulela&mus strepera, Bchnb. Syn. Av., Natatores, t. 92. ff. 165-167 
+Ohaulela&mus strepera, Rchnb. Syn. Av., Natatores, t. 92. ff. 165-167 
 
 
 (1845) ; Licht. Nomencl Av. p. 100 (1854); Bolle, J. f. 0. 1855, 
@@ -18660,7 +18660,7 @@ Ucc. Ital. p. 260 (1886); Dorries, J.f. 0.1888, p. 94 (E. Siberia):
 Tristr. Cat. Coll. B. p. 49 (1889). 
 Querquedula glocitans, Bote, Isis, 1828, p. 329; G. B. Gr. Gen. B. 
 
-iii. p. 616, n. 6 (1845); Bchnb. Syn. Av. t. 89. f. 412 (tf) (1845). 
+iii. p. 616, n. 6 (1845); Rchnb. Syn. Av. t. 89. f. 412 (tf) (1845). 
 t. 
 90. ff. 2338-40 (1850); Blyth, Cat. B. Mus. A. S. B. p. 305, 
 n. 1779 (Lower Bengal) (1849) ; Licht. Nomencl. Av. p. 102 
@@ -19562,9 +19562,9 @@ Querquedula carolmensis, Staph. Gen. Zool xii. 2, p. 148 (1824) ;
 Bp. Comp. List, p. 57 (1838); Exjt. Mon. Anat. p. 124 (1838) ; 
 
 G. B. Gr. List B. Brit. Mus. iii. p. 137 (1844); id. Gen. B. Iii. 
-p. 616, n. 2 (1845); Bchnb. Syn. Av., Katatores, t. 89. f¥. 188-89 
+p. 616, n. 2 (1845); Rchnb. Syn. Av., Katatores, t. 89. f¥. 188-89 
 (1845); Jard. Ann. $ Mag. N. II. xx. p. 377 (Tobago) (1847) ; 
-Gosse, B. Jam. p. 408 (1847); Bchnb. Syn. Av., Natatores, t. 90f. 
+Gosse, B. Jam. p. 408 (1847); Rchnb. Syn. Av., Natatores, t. 90f. 
 2345 (1850) (exBeeehey's Voy.), 1.100. £2769-70 (1850) (eoa 
 Audubon) ; Baird, Stansbwnfs Pep. p. 322 (1852); Woodh. Sitgr. 
 Pep. p. 103 (1853); Bp. Compt. Bend, xxxviii. p. 664 (1854) , 
@@ -20763,8 +20763,8 @@ Cat. Av. GUI. p. 42 (1868).
 
 Querquedula 
 ipecuturi, G. B. Gr. Gen. B. iii. p. 616, n. 9 (1845); 
-Bchnb. Syn. Av., Natatores, t. 89. f. 179 (1845) (ex Spix). 
-Querquedula novae hispaniEe, Bchnb. (nee Gm.) Sim. Av., Natatores, 
+ *Rchnb. Syn. Av., Natatores, t. 89. f. 179 (1845) (ex Spix). 
+Querquedula novae hispaniEe, Rchnb. (nee Gm.) Sim. Av., Natatores, 
 
 1.110. ff. 981-82 (1845). 
 Querquedula 
@@ -21076,10 +21076,10 @@ Dafila acuta, Eyt. Cat. Br. B. p. 60 (1836): Bp. Comp. list, p. 56
 
 p. 119 (1844); G. B. Gh\ List B. Brit. Mits. iii. p. 134 (Jamaica; 
 (1844); id. Gen. B. iii. p. 615, n. 1 (1845) ; id. Cut. BZudgs. Coll 
-B. M. p. 145 (Nepal) (1846) ; Bchnb. Syn. Av., Satatore*, t. 8S. 
+B. M. p. 145 (Nepal) (1846) ; Rchnb. Syn. Av., Satatore*, t. 8S. 
 ff. 221-23 (1845); B'upp. Syst Ueb. p. 138 (184-5) ; Gosw, B. Jam. 
 p. 408 (1847) 5 Blyth, Cat. B. Mus. A. S. B. p. 304. n. 177,5 
-(1849); Bchnb. Av. Syst Nat. p. ix (1852); Bnird. Stanch. Hep. 
+(1849); Rchnb. Av. Syst Nat. p. ix (1852); Bnird. Stanch. Hep. 
 p. 323 (1852); Woodh. Sitgr. Bep. p. 103 (New Mexico and 
 California) (1853) ; LicM. Nojiiencl Ai\ p. 102 (Arabia; (18541; 
 Bp. Compt. Bend, xxxvii. p. 664 (1854),- id. Cumpt. Bend, sliii. 
@@ -22097,7 +22097,7 @@ Dafila nrophasianus, Fyt. Mon. Anat. p. 112, pi. 20 (1838); Bridges,
 
 
 F. Z. 8. 1841, p. 95 (Chilian Andes); Fraser, F. Z. 8. 1844, p. 157 
-(Chili); Fchnb. Syn. Av., Natatores, t. 86. f. 2336 (1850) (ex 
+(Chili); Rchnb. Syn. Av., Natatores, t. 86. f. 2336 (1850) (ex 
 Beechei/s Voy.); Fyt. Syn. Anat. p. 64 (1869); Tristr. Cat. Coll. B. 
 p. 50 (type, tJhili, Fyt. Mus.) (1889). 
 Paecilonitta 
@@ -22147,8 +22147,8 @@ Kat. VoqeUammL p. 231 (1891); Sharpe, Cat. Osteol. Specim. Coll
 Surg. iii. p. 302 (1891);' Holland, Ibis, 1892, p. 207; Berkeley 
 James, Neto List Chil. B. p. 9 (1892). 
 Poecilonetta 
-bahamensis, Bchnb. Syn. Av., Natatores, t. 83. f. 922 
-(1845); Gosse, B. Jam. p. 408 (1847); Bchnb. Av. Syst Nat p. ix 
+bahamensis, Rchnb. Syn. Av., Natatores, t. 83. f. 922 
+(1845); Gosse, B. Jam. p. 408 (1847); Rchnb. Av. Syst Nat p. ix 
 (1852); Sclat. P. Z. S. 1860, p. 389 (Falklands); Abbott, Ibis, 
 1861, p. 160 (Falklands) ; Albrecht, J.f. O. 1862, p. 207; March, 
 Pr. Acad. Philad. 1864, p. 71; Sclat P. Z. S. 1869, p. 629 (breeding) 
@@ -22425,7 +22425,7 @@ Range. Confined to New Zealand subregion.
 
 1. Elasmonetta chlorotis. 
 Anas chlorotis, G. B. Gr. Voy. JEJreLty Terr., Birds, p. 15, pi. 20 
-(1846); Bchnb. Syn. Av., Natatores, t. 85. f. 912 (184-) (ex I c.); 
+(1846); Rchnb. Syn. Av., Natatores, t. 85. f. 912 (184-) (ex I c.); 
 
 G. B. Gr, Gen. B., App. p. 28 (1849); Bp. Compt Mend, xliii. 
 p. 649, n. 71 (1856); G. B. Gr. Ibis, 1862, p. 241; Feb. Beise 
@@ -22537,7 +22537,7 @@ aucklandica, G. B. Gr. Gen. B. iii. p. 627 (excl. syn.),
 pi. 169. f. 4 (head, wing, and foot) (1844); id. List B. Brit. Musi 
 
 iii. p. 191 (exel. syn.) (1844); id. Toy. Ereb, § Terr., Birds, p. 16, 
-pi. 17 (1846); id: Gen. B. Append, p. 28 (1849); Bchnb. 8ijn.Av.. 
+pi. 17 (1846); id: Gen. B. Append, p. 28 (1849); Rchnb. 8ijn.Av.. 
 Natatores, t. 77. f. 891 (ex- Erebus § Terror) (184-?): id. Av. 
 Syst. Nat. p. ix, t. vii. (1852); Bp. Compt Bend, xlinu p. 651, 
 n. 154 (1856); G. B. Gr. Ibis, 1862, p. 242; Finsch, J.f 0.1870, 
@@ -22693,7 +22693,7 @@ Phil. $ Landb. Cat. Av. CHI p. 42 (1868); Burm. P. Z. S. 1872,
 p. 367 ; id. An. Mus. Nac. Bum. Air. iii. pp. 247, 320 (1888). 
 Pterocyanea maculirostris, G. It. Gr. Gen. B. iii. p. 617, n. 2 (1845) ; 
 Rchnb. Syn. Av.. Natatores, t. 89. f. 181 (1845); Hartl hid. Azar. 
-Apunt. p. 28, n.'440 (1847); Bchnb. Syn. Av. t. 90. f. 2344 (1850) 
+Apunt. p. 28, n.'440 (1847); Rchnb. Syn. Av. t. 90. f. 2344 (1850) 
 [ex Jard. § Selb.); Bibra, Denkschr, Ahad. Wien, v. 2, p. 132 
 (1853) (Chili); id. J.f. O. 1855, p. 57; Pelz. Reise Novara, Tog. 
 
@@ -22986,7 +22986,7 @@ Cyanopterus circia, Exit. Mon. Anat p. 130, pi. ii. f. 3 (trachea)
 (1838); G. B. Gr. Cat Hodge. Coll. B. M. p. 146 (1846). 
 Pterocyanea circia, Bp. Icon. Faun. Ital., Ucc. Introd. p. 17 (1841) ; 
 id. Cat Met. Ucc. Eur. p. 71 (1842); G. B. Gr. Gen. B. iii. p. 617, 
-n 1 (1845); Bchnb. Syn. Av., Natatores, t. 89. ff. 183-185 (1845); 
+n 1 (1845); Rchnb. Syn. Av., Natatores, t. 89. ff. 183-185 (1845); 
 id. Av. Suet. Nat p.ix (1852) ; Bolle, J. f. 0.1855, p. 314 (Albufera); 
 Salv. Ibis, 1859, p. 363 (E. Atlas) ; Hartm. J.f. O. 1863, 
 
@@ -24077,12 +24077,12 @@ vi. p. 378 (1877).
 Anas clypeata-mexicana, Bonn. Bnc. Mtth. i. p. 151 (1791). 
 Spatula clypeata, Boie, Isis, 1822, p. 564, 1826, p. 980; G. B. Gr. 
 ListB. Brit. Mus. iii. p. 139 (1844); id. Gen. B. iii. p. 618, n. 4 
-(1845) (syn. emend.); Fraser, P. Z. S. 1845, p. 13; Mchnb. Syn. Av., 
+(1845) (syn. emend.); Fraser, P. Z. S. 1845, p. 13; Rchnb. Syn. Av., 
 Natatores, t. 88. ft. 215-218 (1845); Bupp. Syst. Uebers. p. 138, 
 
 n. 496 (N.E. Afe.) (1845); G. B. Gr. Cat Hodgs. Coll B. M. 
 p. 146 (Nepal) (1846); Blyth, Cat. B. Mus. A. S. B. p. 303, n. 1770 
-(syn. emend.) (1849); Bchnb. Av. Syst Nat. p. ix (1852); Woodh. 
+(syn. emend.) (1849); Rchnb. Av. Syst Nat. p. ix (1852); Woodh. 
 
 308 ANATID^E. 
 
@@ -24974,7 +24974,7 @@ Naumannia, 1853, p. 222; PHI $ Landb, Cat. Av. Chil. p. 4«$
 Rhynckaspis maculata, Hartl. Verz. Ges. Mus. p. 120 (1844). 
 Spatula rhynchotis, part., G. P. Gr. List B. Brit. Mus. Hi. p. 140 
 specirn. b (1844): id. Gen. B. iii. p. 618, n. 2 (part.) (1845). ' 
-Daiila csesioscapula, Pchnb. Sun. Av,, Natatores, t. li. (89) f 180 
+Daiila csesioscapula, Rchnb. Sun. Av,, Natatores, t. li. (89) f 180 
 (1845). ^ V ; 
 Dafila csesioscapulata, Bibra, Denkschr. Ah. Wien, v. -n. 131 (Chilis 
 (1853); id. J.f. 0, 1855, p. 57. > i I ^ 
@@ -25327,7 +25327,7 @@ AKATIDJE.
 
 p. 386 (1887) ; Salvad. Ibis, 1888, p. 323; Sharpe, Tr. Linn. Soc. 
 (2) Zool. v. p. 92 (1889). 
-Marmaronetta angustirostris, Bchnb. Av. Syst. Nat. p. ix (1852); Bp. 
+Marmaronetta angustirostris, Rchnb. Av. Syst. Nat. p. ix (1852); Bp. 
 Compt. Rend, xliii. p. 650, n. Ill (1856); Locke, Cat. Mamm. et 
 Ois. AlgSr. p. 142 (Algeria) (1858); Salvad. Faun. dltal, Ucc. 
 
@@ -25550,7 +25550,7 @@ AN£TID-3B.
 824 
 
 40. STICTONETTA* Type# 
-Stictonetta, Echnb. AD. Syst. Nat. p. ix (1852) S. n&YOsa. 
+Stictonetta, Rchnb. AD. Syst. Nat. p. ix (1852) S. n&YOsa. 
 Range, Confined to Australia. 
 1. Stictonetta nsevosa. 
 Anas 
@@ -25562,10 +25562,10 @@ p. 280; Gieb. Thes. Orn. i. p. 358 (1872) (China!); Earns. Pr.
 Linn. Soc. N. S. W. i. pp. 195, 216, 219 (1876); Echnw. Orn, 
 Centralbl. 1882, p. 19. 
 Tadorna nsevosa, G. E. Gr.List B. Brit. Mus. iii. p. 132 (1844); id. 
-Gen. B. iii. p. 613, n. 3 (1845); Echnb. Syn. Av., Natatores, t. 93. 
+Gen. B. iii. p. 613, n. 3 (1845); Rchnb. Syn. Av., Natatores, t. 93. 
 
 f. 431 (ex Gould) (1845). 
-Stictonetta nsevosa; Echnb. Av. Syst. Nat. p. ix (1852); Bp. Compt. 
+Stictonetta nsevosa; Rchnb. Av. Syst. Nat. p. ix (1852); Bp. Compt. 
 Bend, xliii. p. 649, n. 79 (1856); Sclat. P. Z. 8. 1864, p. 192; 
 Gould. Handb. B. Austr. ii. p. 307 (1865); G. E. Gr. Sand-list, 
 
@@ -26248,7 +26248,7 @@ Phil 8f Landb. Cat. Av. Chil. p. 43 (1868).
 
 Anas pesosaca (errore), G. B. Gr. Gen. B. iii. p. 616, n. 15 (1845). 
 Fuligula pesosaca (errore), G. B. Gr, Gen. B., App. p. 28- (1849). 
-Fuligula albipennis, Bchnb. Syn. Av., Natatores, t. celxxxv. (94), 
+Fuligula albipennis, Rchnb. Syn. Av., Natatores, t. celxxxv. (94), 
 
 f. 
 2350 (1850); Bibra, Benkschr. Ah. 'Wien, v. p.'132 (1853); 
@@ -26390,7 +26390,7 @@ Euligula, Sw. (nee Steph.) Class. B. ii. p. 368 (1838)..
 
 Aethyia, Agass. Nomencl. Zool. Ind. Univ. p. 42 (1846), 
 
-Marila, Bchnb. Av. Syst. Nat. p. viii (1852)
+Marila, Rchnb. Av. Syst. Nat. p. viii (1852)
 
 Aithyia, Bp. Compt. Bend, xliii. p. 651, gen. 50 (1856). 
 
@@ -26518,7 +26518,7 @@ Nyroca ferina, Flem. Phil, of Zool ii. p. 260 (1822); id. Brit An.
 
 p. 121 (1828); G. B. Gr. List Gen. B. p. 75 (1840),- M. Gen. B. 
 iii. p. 621, n. 1 (1844); id. List B. Brtt, Mm, iii p. 143 (part.) 
-(1844); Bchnb. Syn. AD., Natatores, t.75, ft 124-26(1845); Bolle, 
+(1844); Rchnb. Syn. AD., Natatores, t.75, ft 124-26(1845); Bolle, 
 J.f. 0. 1855, p. 315 (Spain) ; Homey, J.f 0. 1859, p. #70 (Zool. 
 Gard.); More, Ibis, 1865, p. 445 {Gxmt Brit); Gdw&, ,& 6?r. Pr#. 
 v. pi. 21 (pt xxi., 1872). 
@@ -26611,7 +26611,7 @@ Aythya erytln ocephala, Brehn, Isis, 1830, p. 999 : id. Voq. Deufschl.
 p. 919 (1831); id. Vogelf. p. 379 (1855). 
 Alias rnarila, Malh. (nee Lt?in.) Faun. Orn. Sicil p. 220 (1843). 
 Fuligula rufa, G. B. Or. Gen. B. iii. p. 621, n. 7 (1844). 
-Marila ferina, Bchnb. Av. Syst. Nat. p. \iii (1852). 
+Marila ferina, Rchnb. Av. Syst. Nat. p. \iii (1852). 
 Aithyia ferina, Liclit. Nomencl. A v. p. 102 (1854). 
 Aythya ruficeps, Brehm, Naumannia, 1855, p. 298. 
 Fuligula erythrocephala, C. F. Dubois. PI. Col. Ois. Belg. iii. p. 278 
@@ -26976,7 +26976,7 @@ Nyroca americana, G. P. Gr. Gen. B. iii. p. 621, n. 2 (1844) ; id.
 "List Spec. B. Brit Mus. p. 143 (1844); A. § E. Newt. Handb. 
 Jam. p. 113 (1881). 
 
-Nyroca ferina americana, Pchnb. Syn. Av., Natatores, t. 77. f. 889 
+Nyroca ferina americana, Rchnb. Syn. Av., Natatores, t. 77. f. 889 
 
 (1845) (ex Audubon). 
 Nyroca ferina, Woodh. Sitgr. Pep. p. 104 (1853). 
@@ -28640,7 +28640,7 @@ Anas marila americana, Schleg. Rev. Crit. p. exx (1844).
 Fuligula mariloides, G. R. Gr. {nee Vig.) Gen. B. iii. p. 621, n. 4 
 
 
-(1844); Echnb. (nee Vig.) Syn. Av, Natatores, t. 80. ff. 2756-57 
+(1844); Rchnb. (nee Vig.) Syn. Av, Natatores, t. 80. ff. 2756-57 
 (1850) (ex Audubon); Cab. Sf Gundl J.f O. 1857, p. 230 (Cuba) ; 
 Wied, J.f O. 1859, p. 176; Gundl. J.f O. 1862, p. 92 (Cuba), 
 1871, p. 290: Bey, Synonym, eur. Brutv. u. Gaste, p. 131 (1872) ; 
@@ -29725,11 +29725,11 @@ A x¥w£. Diet of B. p. 518.
 Micropterus 
 cinereus, G. R. Gr. List Gen. B. p. 74 (1840); id. op. 
 cit. 2nded. p. 95 (1841); id. list B. Brit. Mus. iii. p. 140 (1844); 
-id. Gen. B. iii. p. 623 (1844); Bchnb. Syn. Av., Natatores, t. 77. 
+id. Gen. B. iii. p. 623 (1844); Rchnb. Syn. Av., Natatores, t. 77. 
 
 f. 894 (1845) ; Hartl Erst. Nachtr. Verz. Voxels, p. 19, n. 222 
 (1840) ; Bes Murs in Gay, Hist de Chile, Zool. L p. 457 (1847); 
-Itchnb. Av. Syst Nat. p. viii, tab. vii. (1852); Bp. Compt. Bend. 
+Rchnb. Av. Syst Nat. p. viii, tab. vii. (1852); Bp. Compt. Bend. 
 xliii. p. 651, n. 151 (1856); Gould, P. Z. S. 1859, p. 96 (egg, Falklands); 
 Sclat P. Z. S. 1860, p. 389 (Falklands); Abbott, Ibis, 
 1861, p. 161 (Falklands) ; Mat. P. Z. S. 1861, p. 367 (Zool. 
@@ -30089,7 +30089,7 @@ Glaucion clangula).
 
 Clangula angustirostris, Brehm, Isis, 1830, p. 999, n. 4 (descr. nulla); 
 id. Handb. Tog. Feutschl. p. 930 (1831) (= 5 M. anatarius, Fimb.); 
-Fchnb. Syn. Av., Natatores, t. 74. ff. 103, 104 (1845). 
+Rchnb. Syn. Av., Natatores, t. 74. ff. 103, 104 (1845). 
 
 Muthmasslicher Bastard von Anas clangula und Mergus albellus, 
 Naum. Fog. Feutschl xii. ppj. 194-197, Titelkupfer (tf) (1844). 
@@ -32477,7 +32477,7 @@ List, p. 57, n. 420 (1838); K. % B. Wirbelth. Eur. pp. Ixxxvi,
 
 ^st B Brit Mus. iii. p. 141 (part.) (1844); id. Gen. B. iii. 
 
-p. 623, n. 3 (1844); Bchnb. Syn. Av., Natatores, t. 81. 
+p. 623, n. 3 (1844); Rchnb. Syn. Av., Natatores, t. 81. 
 ft !«/-139 (1845); *& Av. Syst Nat. p. viii, t. viii. (1852); 
 Bolk Jf O. 1855, p. 315 (Spain); Sclat. P. Z. S. I860, p. 442 
 (Zool. Gard.); Nordm. J. f O. 1864, p. 378 (Finland and Lapland) 
@@ -33008,7 +33008,7 @@ Fuligula (Oidemia) perspicillata, Bp. Ann. Lye. N. Y. ii. p. 389
 (1828). 
 
 Pelionetta 
-perspicillata, Kaup, Natiirl. Syst. p. 107 (1829); Bchnb. 
+perspicillata, Kaup, Natiirl. Syst. p. 107 (1829); Rchnb. 
 Syn. Av., Natatores, t. 82. ff. 905-907 (1845); id. Av. Syst Nat. 
 p yiii (1852); Bp. Compt Bend, xliii. p. 651, n. 128 (1856): 
 Baird, B. N. Am. p. 806 (1858); id. Cat. N. Am. B. n. 602 
@@ -33242,7 +33242,7 @@ Fuligula grisea, Leib, Journ. Ac. Sc. Philad. viii. p. 170 (1840)
 (youn g) ( = labradora yo ung). 
 Camptolairuus labradorus, G. B. Gr. List Gen. B. ed.2, p. 95 (1841); 
 id. List B. Brit. Mus. iii. p. 141 (1844); id. Gen. B. iii. p. 623 
-(1844); Bchnb. Syn. Av., Natatores, t. 77. If. 895-96 (MILS. 
+(1844); Rchnb. Syn. Av., Natatores, t. 77. If. 895-96 (MILS. 
 Dresd.) (1845); id. A v. Syst Nat. p. viii (1852); G. 11 Gr. List 
 Gen. $ Subgen. B. p. 124, gen. 2065 (1855); id. Hand-list, 
 
@@ -33437,7 +33437,7 @@ Harelda stelleri, K. <§• B. Wirbelth. Pur. pp. lxxxvii, 230 (1840);
 Heugl. J.f O. 1872, p. 128 (Taimir). 
 
 Eniconetta stelleri, G. P. Gr. List Gen. B. p. 75 (1840); id. op. cit. 
-2nd ed. p. 95 (1841); id. Gen. B. iii. p. 624 (1844); Pchnb. Syn. 
+2nd ed. p. 95 (1841); id. Gen. B. iii. p. 624 (1844); Rchnb. Syn. 
 Av., Natatores, t. 82. ff. 908-910 (1845); id. Av. Syst. Nat. p. viii 
 (1852); G. P. Gr. List Br. B. p. 204 (1863); Gould, B. Great 
 Brit. v. pi. 25 (1863); Pyt. Syn. Anat. p. 107 (1869); Begl. $ 
@@ -34685,7 +34685,7 @@ Syn. Anat. p. 126 (1869).
 437 
 
 Thalassiornis leuconotus, G. JR. Gr. $ Mitch. Gen. B. Hi. p. 626, 
-pi. 169. f. 1 (1844); Bchnb. Syn. Av., Natatores, t. 79. ff. 232829 
+pi. 169. f. 1 (1844); Rchnb. Syn. Av., Natatores, t. 79. ff. 232829 
 (1850); id. Av. 8yst. Nat. p. viii, tab. viii. (1852); Pelz. 
 JReise Novara, Vog. p. 139 (1865) (Cape of Good Hope); Finsch 
 
@@ -35095,7 +35095,7 @@ Erismatura leucocephala, Bp. Sagg. Bistr. Met., Agg. e Corr. p. 143
 443 
 
 Ucc. Introd. p. 17 (1841); id. Cat Met. Ucc. Eur. p. 73 (1842) ; 
-Bchnb. Syn. Av., Natatores, t. 75. ff. 134-136 (1845); J?^ , Ca£. 
+ *Rchnb. Syn. Av., Natatores, t. 75. ff. 134-136 (1845); J?^ , Ca£. 
 
 
 5. Mus. A. S. B. p. 308, n. 1796 (1849); id. Av. Syst. Nat p. viii, 
@@ -36181,9 +36181,9 @@ Merganetta armata, Gould, P. Z. S. 1841, p. 95 (Andes of Chili) ;
 Fraser, P. Z, S. 1843, p. 119 ; G. P. Gr. List B. Brit. Mas. in. 
 
 p. 148 (1844); Gray § Mitch, Gen. B. iii. p. 628, pi. 170 (tf ) 
-(1844); Bchnb. Syn. Av., Natatores, t. 78. f. 897 (1845) (ex Gr. <§• 
+(1844); Rchnb. Syn. Av., Natatores, t. 78. f. 897 (1845) (ex Gr. <§• 
 Mitch.); Des Murs,Icon. Orn. pi. 48 ($ , Chili) (1847); G.R. Gr. 
-Gen. P., App. p. 28 (part) (1849); Bchnb. Syn. Av., Natatores, 
+Gen. P., App. p. 28 (part) (1849); Rchnb. Syn. Av., Natatores, 
 t. 79. ff. 3223-24 (1850); id. Av. Sy*t. Nat. p. ix, tab. vi. (1852); 
 Hartl, Naumannia, 1853, p. 222; Bibra, Benkschr. AJcad. Wien, 
 v. p. 132 (1853); Licht. Nomencl. Av. p. 103 (1854); Bibra, 
@@ -36392,7 +36392,7 @@ Eristnatura leucogenys, Tsch. Wiegm. Arch. 1844, i. p. 31C,
 
 n. 348. 
 Merganetta leucogenys, Tsch. Fauna Per., Aves, pp. 55, 311, t. xxxvi. 
-(1846); Bchnb. Syn. AD., Natatores, t. 79. f. 2325 (1850) (e.r 
+(1846); Rchnb. Syn. AD., Natatores, t. 79. f. 2325 (1850) (e.r 
 Tsohudi); Bp. Compt. B»nd. xliii. p. 652, n. 165 (part.) (1856) ; 
 Sclat 8f Sate. P. Z. S. 1869, p. 601 (part.); iid. Kvot. Orn. p. 200 
 (part.) (1869); G. B. Gr. Hand-list, iii. p. 91, n. 10727 (part.) 
@@ -37034,7 +37034,7 @@ tfOrn. iv. p. 557 (1840); K. $ B. Wirbelth. Eur. pp. Ixxxviii, 232
 p. ©xxi (1844); Uartl. Vera. Ges. Mus. p. 121 (1844); G. B. Gr. 
 List B. Brit Mus. iii. p. 147 (3844); id. Gen. B. iii. p. 629, n. 3 
 (1844); Be Kay, N. Y. Zool. ii. p. 320 (1844); Giraud, B. Long Lsl 
-p. 341 (1844); Bchnb. Syn. Av., Natatores, t. 73. if. 88, 89 (1845) ; 
+p. 341 (1844); Rchnb. Syn. Av., Natatores, t. 73. if. 88, 89 (1845) ; 
 Begl. Om. Eur. ii. p. 483 (1849); Wiirttemb. Naumannia, 1852, 
 Heft ii. p. 54 (Cuba); Lieht. Nomenel Av. p. 103 (1854); Newb. P. 
 JR. R. Bep. vi. p. 104 (1857); Cab. $ Gundl. J.f O. 1857, p. 231 
@@ -37386,7 +37386,7 @@ Mergus (Merganser) castor, part., K. ty B. Wirbelth. Eur. pp. lxxxviii,
 231 (1840). 
 Mergus orientalis, Gould, F. Z. 8. 1845, p. 1, part. (Amoy); Hein. $ 
 Mchnw. Norn. Mus. Hein. Orn. p. 350 (Japan) (1890). 
-Merganser aldrovandi, Fchnb. Av. Syst Nat p. ix, tab. vii. (1852) 
+Merganser aldrovandi, Rchnb. Av. Syst Nat p. ix, tab. vii. (1852) 
 (ex Fay). 
 
 
@@ -40718,7 +40718,7 @@ Temm. PL Col, genre Tinamou, sp. 12 (1826); Less. Man. ii.
 
 p. 207 (1828); id. Tr. d'Orn. p. 513 (1831); id. Compl. de Buff. 
 2nd ed. Ois. p. 238 (1838); Temm. PI Col. i. Tall Meth. p. 87 
-(1839); G. P. Gr. Gen. B. iii. p. 524, n. 12 (1844); Pchnb. Syn. 
+(1839); G. P. Gr. Gen. B. iii. p. 524, n. 12 (1844); Rchnb. Syn. 
 Av., Gallinaceee, t. 285.ff.1568-69 (1848); G. P. Gr. List Galling 
 Brit. Mus. p. 99 (part., Brazil and Bolivia) (1867); Peinh. Vid. 
 Med. naturh. Form. 1870, p. 48 (Lagoa dos Pitos, Sumidouro,. 
@@ -41513,7 +41513,7 @@ JBnc. Meth. i. p. 371 (1820) ; Temm. Bl. Col., genre Tinamou, sp. 11
 (1826); less. Tr. d'Orn. p. 512, n. 3 (1831); id. Compl de Buff. 
 2nd ed. ii. p. 239 (1838); Temm. BL Col. i. Tabl. Meth. p. *87 
 (1839) (=vermiculatiis) ; G. B. Gr. Gen. B. iii. p. 524, n. 4 (1844);. 
-? Bchnb. Syn. Av., Gallinacege, t. 284. f. 1560 (1848) (ex Spix); 
+? Rchnb. Syn. Av., Gallinacege, t. 284. f. 1560 (1848) (ex Spix); 
 
 G. B. Gr. List Gallinte Br. Mus. p. 101, n. 29 (1867); Gieb. 
 Thes. Orn. iii. p. 635 (1877). 
@@ -42178,7 +42178,7 @@ sp. 7 (1826); Less. Man. ii. p. 205 (1828); id. fr. d'Orn. p. 512
 (1831); Wied, Beitr. iv. p. 504, tab. i. f. 1 (trachea and larynx) 
 (1832); Less. Compl. de Buff. 2nd ed. Ois. p. 238 (1838); G. B. Gr. 
 Gen. B. iii. p. 524, n. 7 (1844); JSartl Erst. Nachtr. Verz. Ges. Mus, 
-p. 17, n. 190 (1846); Bchnb. Syn.Av., Gallinacese, t. 284.ff. 156162 
+p. 17, n. 190 (1846); Rchnb. Syn.Av., Gallinacese, t. 284.ff. 156162 
 (1848) {ex Spiv); id. J.f. 0. 1853, Extrah. p. 41; G. B. Gr. 
 List Gallince Brit. Mus. p. 101, n. 25 (1867) ; Eider, J f. 0.1867r 
 pp. 189, 190, 198; Pelz. Orn. Bras. p. 293 (note), p. 453 (1871); 
@@ -43806,7 +43806,7 @@ Less. Tr. d>Om. p. 513, n. 3 (part.) (1831).
 
 Nothura minor, Wagl. Syst. Av., gen. Nothura, sp. 4 (1827); id. Isis, 
 1829, p. 747 (not=N. nana, $) ; Less. Tr. d'Orn. p. 513, n. 4 
-(1831); G. E. Gr. Gen. B. iii. p. 525, n. 4 (1844); Echnb. Syn. Av., 
+(1831); G. E. Gr. Gen. B. iii. p. 525, n. 4 (1844); Rchnb. Syn. Av., 
 Gallinaceas, t 286. f. 1577 (1848) (ex Spix); Bp. Compt. Eend. 
 
 xlii. p. 881, n. 340 (1856); id. Tail. Parall. Gallin. (Extract), p. 12, 
@@ -43827,7 +43827,7 @@ Ois. p. 237 (note) (1838).
 
 Nothura maculosa, part., 
 G. E. Gr. Gen. B. iii. p. 525, n. 3 (1844) ; 
-Hartl Erst. Nachtr. Verz. Ges. Mus. p. 17, n. 191 (1846); Echnb. 
+Hartl Erst. Nachtr. Verz. Ges. Mus. p. 17, n. 191 (1846); Rchnb. 
 (nee Te?n?7i.) Syn. Av., Gallinaeese, t. 286. f. 1576 (1848) (ex 
 Spix) ; Bp. (nee Temm.) Compt. Eend. xlii. p. 881, n. 339 (1856); 
 id. Tabl. Parall Gallin. (Extract), p. 12, n. 341 (1856); Burm. 
@@ -44401,7 +44401,7 @@ pp. 141, 195 (blood-corpuscles); G. B. Gr. Gen. B. iii. p. 527,
 pi. 188. f. 4 (head, bill, and foot) (1844); id. List B. Brit. Mus. 
 
 iii. p. 54 (part.) (1844); B'dpp. Syst. Uebers. p. 109, n. 389 (Egypt, 
-Nubia, Abyssinian coast, Sennaar, and Kordofan) (1845); Bchnb. 
+Nubia, Abyssinian coast, Sennaar, and Kordofan) (1845); Rchnb. 
 Syn. Av., Gallinacege, t. 389. ff. 2198-2205 (1848) ; id. Av. Syst. 
 Nat. p. xxx (1852); Licht. Nomencl. Av. p. 88 (1854); Hartl. 
 J. f. O. 1854, p. 212 (Senegambia, Guinea); Gosse, Bull. Soc. 
@@ -45068,7 +45068,7 @@ Rhea darwinii, Gould, P. Z. S. 1837, p. 35; Darwin, ibid. p. 36
 p. 504 (1837) ( = R. pennata, DOrb.) j Ed. Mag. of Zool. $ Bot. 
 ii. pp. 92, 93 (1838); Gould, Ms, xxxii. p. 144 (1839); id. Voy.
 1 Beagle] Birds, p. 123, pi. 47 (1841); G. B. Gr. Gen. B. iii. p. 527, 
-n. 2, pi. 138 (1844); Bchnb. Syn. Av., Gallinaeeas, t. 388. ff. 219697 
+n. 2, pi. 138 (1844); Rchnb. Syn. Av., Gallinaeeas, t. 388. ff. 219697 
 (1848); Martt. J. f. O. 1854, B. pp. lxii, lxiii; Burm. Syst 
 Uebers. Thier. Bras. iii. p. 352 (Anm.) (1856); Bp. Compt Bend. 
 xliii. p. 841, n. 3 (1856) ; Ed. Ibis, 1859, p. 115 (Zool. Gard.); 
@@ -46389,11 +46389,11 @@ Gr. List B. Brit. Mus. iii. p. 55 (1844) ; Gray "$• Mitch. Gen.
 B. iii. p. 530, pi. cxxxix. (1846); Owen, P. Z. 8. 1846, p. 49 
 (femur); id. Trans. ZooL 8oc. iii. 1842, pp. 278-301, pis. xxxi.xxxiv. 
 (myology), pi. xxxv. (female organs) (1849); Strange, P. Z. 8. 
-1847, p. 51 ; Gould, t c. pp. 93, 94; Bchnb. Syn. Av., Grallatores, 
+1847, p. 51 ; Gould, t c. pp. 93, 94; Rchnb. Syn. Av., Grallatores, 
 t. 143. ff. 1015-16 (1845), Gallinacege, t. 386. ff. 219192 
 [ex Yarrell), I 2193 {ex Gr. $ Mitch.) (1848); MantelL 
 P. Z. 8.1850, p. 211; Bartl. t c. p. 275, pi. xxx. ff. 1, 2 (head and 
-wing), pi. xxxi. f. 1 (foot); Bchnb. Av. Syst Nat. p. xxx (1852) ; 
+wing), pi. xxxi. f. 1 (foot); Rchnb. Av. Syst Nat. p. xxx (1852) ; 
 Bareste, Compt. Bend. xlii. pp. 861-863 (brain) (1856) ; id. 
 Institut, xxiv. p. 167 (1856); id. Ann. 8c. Nat. (3) ZooL x. pp 4850 
 (1856) ; Bp. Compt. Bend, xliii. p. 841, n. 21 (1856); 8clat. # 
