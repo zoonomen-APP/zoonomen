@@ -2467,12 +2467,12 @@ Dresser, Ibis, 1866, p. 45 (Texas); Snow, B. Kansas, p. 12 (1873).
 Hydrochelidon 
 surinamensis, Bp. C. E. xlii. p. 773 (1856); Gray, 
 Rand-l B. iii. p. 122(1871). 
-Sterna frenata, Sahin, Ibis, 1860, p. 278; cf. Ibis, 1866, p. 205 
+Sterna frenata, Salvin, Ibis, 1860, p. 278; cf. Ibis, 1866, p. 205 
 (Coban). 
 Hydrochelidon fissrpes, Coues, Pr. Phil Ac. 1862, p. 554; id. Ibis, 
 1864, p. 391 (British Honduras); Lawr. Ann. Lyc. N. Y. viii. 
 
-p. 299 (1865); Sahin, Ibis, 1866, p. 205 (Coban); Ball $ Bonn, 
+p. 299 (1865); Salvin, Ibis, 1866, p. 205 (Coban); Ball $ Bonn, 
 Tr. Chic. Acad. i. p. 307 (1869: Alaska); Scl. $ Salv. P. Z. S. 
 1871, p. 573 (revision); Later. Mem. Boston Soc. N. H. ii. p. 318 
 (1874: Mazatlan); Hensh. Ann. Lyc. N. Y. xi. p. 13 (1874: 
@@ -8176,7 +8176,7 @@ p. 147 (1873); Lawr. Mem. Bost. Soc. N. EL. ii. p. 318 (1874:
 Mazatlan); Saunders, P. Z. S. 1876, p. 655 (revision Sterninge) ; 
 Eeiehenoio, J. f. 0. 1877, p. 10 (Loango); Taczanowski, P. Z. S. 
 1877, p. 749 (Tumhes, Peru); Bocage, Orn. Angola, p. 509 (1881); 
-A. Sf E. Newt. Eandb. Jamaica, p. 117 (1881); Sahin, Cat. 
+A. Sf E. Newt. Eandb. Jamaica, p. 117 (1881); Salvin, Cat. 
 Strichl Coll p. 624 (1882) ; Coues, 2nd Check-list N. Am. B. 
 p. 123 (1882); Saunders, P. Z. S. 1882, p. 521 (Payta, Peru) ; 
 Boucard, op. cit. 1883, p. 462 (Yucatan); Cory, B. S. Domingo, 
@@ -8187,7 +8187,7 @@ p. 337 (Bonaire) j A. O. U. Check-l. Amer. B. p. 93
 (1886); Ferrari-Perez, Pr. U.S. Nat. Mus. ix. p. 179 (1886: Vera 
 Cruz) ; Wells, torn. cit. p. 632 (Grenada, breeding); Tacz. Orn. 
 Perou, iii. p. 439 (1886) ; Ridgiv. Man. N. Amer. B. p. 40 (1887); 
-Smyth, Pr. Elliot Soc. ii. p. 189 (1888); Sahin, Ibis, 1889, p. 379 
+Smyth, Pr. Elliot Soc. ii. p. 189 (1888); Salvin, Ibis, 1889, p. 379 
 (Cozumel); Scl. fy Huds. Argent. Orn. ii. p. 195 (1889); Cory, 
 B. West Ind. p. 277 (1889); Hartert, Eat. Vogelsamml. Senekenb. 
 p. 240 (1891) $ Cory, Cat. West-Ind. B. pp. 82,134 (1892); White, 
@@ -10156,7 +10156,7 @@ Gen. B. iii. p. 659 (1846); Allen fy fhomps. Exp. Niger, i. p. 167
 p. 331 (liha do Principe). 
 Haliplana panayensis, Boie, Isis, 1844, p. 190; Licht. Nomencl. Av. 
 p. 97 (1854 : Bengal); Bp>. C. B. xiii. p. 772 (1856) ; Marti. Faun. 
-Madag. p. 86 (1861: He de France); Sahin, Ibis, 1866, p. 199; 
+Madag. p. 86 (1861: He de France); Salvin, Ibis, 1866, p. 199; 
 Blasius, J.f.O. 1866, p. 80 ; E. Newton, Ibis, 1867, p. 359 
 (Seychelles); Hartl. Tog. Madag. p. 388 (1877). 
 Hydrocecropis melanoptera (Swains.), Boie, Isis, 1844, p. 179. 
@@ -13039,7 +13039,7 @@ xlii. p. 773 (1856); Baird, Cass., 8f Lawr. B. N. Amer. p. 865
 1859, p. 233 (Pacific coast Oentr. Amer.); Gray, Cat. B. Trop. 
 Is. Pacific, p. 59 (1859); Coues, Pr. PMlad. Acad. 1862, p. 557 
 (critical) ; Gray, Cat. Brit. B. p. 244 (1863); Swinh. P. Z. S. 
-1863, p. 329 ; id. Ibis, 1863, p. 430 (Formosa) ; Sahin, Ibis, 1864, 
+1863, p. 329 ; id. Ibis, 1863, p. 430 (Formosa) ; Salvin, Ibis, 1864, 
 p. 392 (Brit. Honduras); Jerdon, B. India, iii. p. 845 (1864); 
 Lawr. Ann. Lyc. N. Y. viii. p. 105 (1864: Sombrero I.); Pelz. 
 Reis. Novara, Vog. p. 155 (1865); Gould, Eandb. B. Austr. ii. 
@@ -14384,7 +14384,7 @@ B. 2nd ed. p. 772 (1884); Baird, Brewer, $ Ridgw. Water-B.
 N Amer. ii. p. 192 (1884); A. 0. U. Check-L N. Amer. B. p. 97 
 (1886) ; Pidgw. Man. N. Amer. B. p. 49 (1887) ; Cooke, Bird 
 Miqr. Mississippi Vail p 58 (1888); Con/, B. West Indies, p. 27o 
-(1889 : Cuba & St. Crok) ; Sahin, Ibis, 1889, p. 379 (Cozumel); 
+(1889 : Cuba & St. Crok) ; Salvin, Ibis, 1889, p. 379 (Cozumel); 
 JScott, Auk, 1890, p. 306 (Dry Tortugas); Schick, t. c. p. 327 (New 
 Jersey: breeds,); Phoads, Pr. Ac. Philad. 1892, p. 101 (Texas : ab. 
 & br.); Cory, Cat. West Ind. B. p. 83 (1S92). 
@@ -31641,7 +31641,7 @@ central rectrices 4*3, lateral rectrices 3-65 ; tarsus 2'25, middle
 too 2*7, outer toe a trifle shorter, inner toe 2*2. 
 Hah. Australian and New Zealand Seas, and northwards to the 
 Japanese Seas. 
-a,b. tfad.; c,d. Hakodate, Japan, May 19 Sahin-Godman and 
+a,b. tfad.; c,d. Hakodate, Japan, May 19 Salvin-Godman and 
 2 ad. sk. (P. Ringer). Seebolim Colls. 
 
 e. Ad. sk. Norfolk I. E. Saunders [P.]. 
@@ -31794,7 +31794,7 @@ o. Ad. sk. Oallao Bay, Peru, Jan. 4,
 Salvin-Godman Coll. 
 
 II. Markham). 
-q. Ad. sk. Corral, Chili {E. C. Meed). Sahin-Godman Coll. 
+q. Ad. sk. Corral, Chili {E. C. Meed). Salvin-Godman Coll. 
 r,s. 
 J ad.; *. § Corral, Nov. (A. A. Lane). H. Berkeley James, 
 ad. sk. 
@@ -32303,7 +32303,7 @@ Great Black Peteril, JSdzv. Nat. Mist ii. pi. 89 (1747); Lath. Gen.
 Hist. x. p. 173 (1824). 
 Procellaria fuliginosa, Solander MS.; Parkinson, Icon. ined. no. 19, 
 
-cf. Sahin in Rowley's Orn. Misc. i. p. 232 (1876). 
+cf. Salvin in Rowley's Orn. Misc. i. p. 232 (1876). 
 Le Puffin du Cap de Bonne Esperance, Briss. Orn. vi. p. 137 (1760). 
 Procellaria sequinoctialis, Linn. Syst. Nat. i. p. 213 (1766); Gm. 
 
@@ -32967,7 +32967,7 @@ together.
 
 Hah. Jamaica. 
 
-c. Ad. sk. Jamaica (J. Hilt}. Sahin-Ofdman d ll 
+c. Ad. sk. Jamaica (J. Hilt}. Salvin-Ofdman d ll 
 b. Ad. sk. Jamaica. 
 J.Taj.I*,!-;^. "!'_ 
 c. 
@@ -34293,7 +34293,7 @@ Hal. Southern Seas, north to about lat. 30° S.
 b. c? ad. sk. 
 Falkland Is. (Lecoute). 
 Tom Bay, Straits of Magellan, 
-Sahin-Godman Coll. 
+Salvin-Godman Coll. 
 Voy. H.M.S. 'Alert.' 
 April" 13, 1879 (Dr. Cope. 
 c? ad. sk. 
@@ -34311,7 +34311,7 @@ Ooquimbo, Chili, Nov. 1881
 (Capt A. H. Markham). 
 S. Pacific Ocean, Nov. 5, 1875. 
 S. Pacific Ocean. 
-Sahin-Godman Coll. 
+Salvin-Godman Coll. 
 Vov. H.M.S. < Alert.' 
 Old Collection. 
 t. Ad. at. S. Pacific Ocean (white var.). Old Collection. 
