@@ -1,1 +1,1 @@
-egrep $1 ../cit/PCL16.txt
+egrep $1 c:/zoonomen/cit/PCL16.txt

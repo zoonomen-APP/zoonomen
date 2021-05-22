@@ -1,0 +1,8 @@
+# Create list of ORDER Family species Genus from my html files
+# wb.html for global
+#run awk program ofsg.awk and then use tagsed to remove html tags.
+awk -f c:/awk/ofsg.awk  c:/zoonomen/avtax/wb.html > c:/zoonomen/avtax/ofsg01.txt
+sed -f c:/zoonomen/avtax/tagsed c:/zoonomen/avtax/ofsg01.txt > c:/zoonomen/avtax/ofsg02.txt
+cp c:/zoonomen/avtax/ofsg02.txt c:/zoonomen/avtax/ofsg.txt
+#{gsub(/<[^>]*/, "")}
+#$1~/^<li>[A-Z][a-z]* [a-z]/  {print ORDER,Family,$2,$1}
