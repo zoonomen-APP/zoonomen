@@ -1780,7 +1780,7 @@ Sclater, P. Z. S. 1855, p. 138, et 1858, p. 551; id, Cat. A. B.
 
 p. 49 ; id. Ibis, 1875, p. 216; Reich. Handb. p. 232, t. dliii. f. 3759; 
 Cassin, Pr. Ac. Sc. Phil. 1864, p. 275; Gray, Hand-l. i. p. 119 * 
-Scl. et Salv. Nomencl. p. 15; Taez. P. Z. S. 1879, p. 224, et 1880, 
+Scl. et Salv. Nomencl. p. 15; Tacz. P. Z. S. 1879, p. 224, et 1880, 
 p. 193 * id. Orn. PSrou, I p. 419; Solo, et Godm. Ibis, 1880, p. 119 : 
 Berl et Tacz. P. Z. S. 1884, p. 287. 
 Uniform black; inner webs of remiges passing into cinereous: 
@@ -5535,9 +5535,9 @@ Tan. p. 98; id. Cat. A. B. p. 50; Barm. Si/st. JJeb. iii. p. 193;
 Pelzeln, Orn. Bras. p. 202; Scl. et Salv. P. Z. S. 1868, p. Iu7 
 (Venezuela), 1870, p. 780 (Merida), 1873, p. 260 (E. Peru), 1879, 
 p. 49S (Antioquia); iid. Nomencl p. 17: Flnsch, P. Z. S. 1870, 
-p. 579 (Trinidad); Taez. P. Z. S. 1874, p. 518 (Centr. Peru), 
+p. 579 (Trinidad); Tacz. P. Z. S. 1874, p. 518 (Centr. Peru), 
 JL&79, p. 225 (X. Peru), 1880, p. 194 (N. Peru); id. Orn. Per. ii. 
-p. 439; Berl. et Taez. P. Z. S. 1884, p. 288 (Ecuador) ; Salv. Ibis, 
+p. 439; Berl. et Tacz. P. Z. S. 1884, p. 288 (Ecuador) ; Salv. Ibis, 
 1885, p. 208 (Brit. Guian.). 
 Euphonia aureata, d?Orb. Yoy. p. 2G7; Bp. Consp. i. p. 233; Ilartl. 
 hid. Az. p. 7. 
@@ -6212,7 +6212,7 @@ Euphonia saturata, Scl et Salv. P. Z. S. 1877, p. 19; iid. Womencl
 
 
 p. 17; Tacz. P.Z.S. 1877, p. 744 (W. Peru); id. Orn. Per. ii. 
-p. 443; Berl et Tacz. P.Z.S. 1884, p. 288 (Ecuador); Taez. et 
+p. 443; Berl et Tacz. P.Z.S. 1884, p. 288 (Ecuador); Tacz. et 
 Berl P.Z. S. 1885, p. 76 (Ecuador). 
 3 . ETJPHONIA. 71 
 Above glossy purplish, black, violaceous on the upper back and 
@@ -8561,7 +8561,7 @@ Calliste xanthogastra, Sclater, Contr. Orn. 1851, pp. 23, 5o; id.
 P. Z. S. 1854, p. 115,1855, p. 157, et 1856, pp. 19, 249; id. Mon. 
 Callist. p. 23, pi. 11; id. Syn. Av. Tan. p. 75; id. Cat. A. B. 
 p. 64; Scl. et Salv. P. Z. S. 1866, p. 180,1867, p. 977, et 1873, 
-p. 261 (Upp. Amazons) ; iid. Nomencl. p. 19; Taez. P. Z. S. 1874, 
+p. 261 (Upp. Amazons) ; iid. Nomencl. p. 19; Tacz. P. Z. S. 1874, 
 p. 514, et 1882, p. 11; id. Orn. Per. ii. p. 461 (Peru) ; 8ah. Ibis, 
 1885, p. 209 (Brit. Guian.). 
 Ixothraupis ckrysogaster, Bp. Bev. Zool 1851, p. 144; id, Note s. I. 
@@ -9706,7 +9706,7 @@ Calliste nigro-viridis, Bp. Consp. i. p. 235 ; Sclater, Contr. Orn. 18*51,
 p. 56; id. P. Z. S. 1855, p. 158, et 1856, pp. 19, 260; id. Won. 
 Callisi p. 77; id. Syn. Av. Tan. p. 86; id. Cat. A. B. p. 69; Scl et 
 Salv. P. Z. S. 1875, p. 237 (Venezuela), et 1879, p. 499 (Antioquia); 
-iid. Mmencl p. 19; Taez. P. Z. S. 1874, p. 514 (Centr. Peru), 1879, 
+iid. Mmencl p. 19; Tacz. P. Z. S. 1874, p. 514 (Centr. Peru), 1879, 
 p. m (N. Peru), et 1880, p. 194 (N. Peru) ; Berl et Tacz. P. Z. S. 
 1884, p. 289 (W. Ecuador). 
 10 . CALLISTE. 
@@ -10884,7 +10884,7 @@ nuchal plaque.
 12 . IR1D0RN1S. 
 141 
 3. Iridornis jelskii. 
-Iridornis jelskii, Cab. J. f. 0. 1873, p. 316, pi. v. fig. 1 • Taez. 
+Iridornis jelskii, Cab. J. f. 0. 1873, p. 316, pi. v. fig. 1 • Tacz. 
 P. Z. S. 1874, p. 514 (Periri ; id. Oni. Per. ii. p. 478; Scl et Salv. 
 P. Z. S. 1879, p. 590 (Bolivia). 
 Above black; interscapulium, seapularies, and lesser wing-coverts 
@@ -12249,7 +12249,7 @@ TA.NAGRID2D.
 
 Pelz. 
 z. Orn. Bras. p. 209 ; Lai/ard, Ibis, 1873, p. 379 (Para) ; Bon-
-JZ, P. Z. S. 1878, p. 55 (Costa Rica) ; Taez. P. Z. S. 1882, p. 13 
+JZ, P. Z. S. 1878, p. 55 (Costa Rica) ; Tacz. P. Z. S. 1882, p. 13 
 
 card, _ 
 
@@ -12271,7 +12271,7 @@ Om. Bras. p. 20J; Sol et Salv. P. Z. S. 1864, p. 350 (Panama),
 ; Salv. P Z.S. 1867, p. 133 (Verasma); Frantz. J. f. 0.1369. 
 
 p. 298 (Costa Rica) ; Wyatt, Ibis, 1871, p. 32 J (Colombia); Berlepsch, 
-J. f. O. 1873, p. 243 (S. Oatharina) ; Taez. P. Z. S. 1874, 
+J. f. O. 1873, p. 243 (S. Oatharina) ; Tacz. P. Z. S. 1874, 
 p. 513 (C. Peru) ; Laior. Ann. Lyc. K T. ix. p. 99 (Verasrua). 
 Tanagra p ilmaram viohlavata, Bert, et Tajz. P. Z. S. 1883, p. 546 
 (Ecuador). 
@@ -15814,7 +15814,7 @@ p. 23; Peh. Orn. Bras. p. 214 * Sab. Cat. Strickl. Coll p, 104$ Stdv.
 30 . TACfiYPHOXCTS. 
 209 
 
-ft Godm. Ih£% 1883, p. 203 (Guiana); Taez. Orn. Per. ii p 50 
+ft Godm. Ih£% 1883, p. 203 (Guiana); Tacz. Orn. Per. ii p 50 
 
 Sak\ Ibis, 1885, p. 212 (Brit. GuianA 
 Tachyphonus saucius, Sfriekl Ann. Xai. Hist, xiii. p. 419 (1844). 
@@ -18298,7 +18298,7 @@ Chlorospingus superciliaris, Stolater, P. Z. S. 1855, p. 155,1850, p. 02,
 
 et 1860, pp. 65, 8®; id. Sy?u Ao. Tan. p. 80; id. CM. A. B. p. 90; 
 
-Scl et Salv. Nomencl p. 24 ; Taez. P. Z.8.1870, p. 229 (N. Peru I, 
+Scl et Salv. Nomencl p. 24 ; Tacz. P. Z.8.1870, p. 229 (N. Peru I, 
 
 1880, p. 195 (N. Peru); id, Orn. Pm\ ii p. 517; Sab. Cat 
 
@@ -18307,7 +18307,7 @@ Strickl. Coll p. 197.
 Hylophilus leucophrys, Zafr, Rev. Zool VMA7 p. 83. 
 
 48. CBXOBospo-Gus. 247 
-CMoTOspiBgus mgrifrons, Lawr. Ibis, 1875, p. 384; Bed. et Taez. 
+CMoTOspiBgus mgrifrons, Lawr. Ibis, 1875, p. 384; Bed. et Tacz. 
 P.Z&15S4p.290. 
 OMorospirtgus superciliaris nigrifrons, iter/, a* Tacz. P. Z. & 1885. 
 
@@ -19331,7 +19331,7 @@ Sclater Coll.
 B. Subgenus PIPILOPSIS. 
 15. Buarremon melanolsemus. 
 Buarremon melanolsemus, Sol et Salv. Ibis, 1879, p. 425, pi. x. fig. 2. 
-Carenoclirous melanolsBmus, Taez. Orn. Per. ii. p. 526. 
+Carenoclirous melanolsBmus, Tacz. Orn. Per. ii. p. 526. 
 
 Above sooty black; cap chestnut; throat black ; abdomen yellow, 
 with slight blackish margins to some of the feathers; flanks cinereous; 
@@ -19670,7 +19670,7 @@ A. B. p. 92; ScL et Salv. NomeneL p. 24; Salv. Cat. StriekL Coll.
 p. 198; Wyatt, Ibis, 1871, pp. 128, 327 (Colombia); Berl J.f. 0. 
 1884, p. 293 (Bucaramanga). 
 Buarremon sordidus, Lawr. Ann. L. N. Y. x. p. 138 (1871) (jr.). 
-Oarenochrous pallidinuchus, Taez. et Berl P. Z. S. 1885, p. 84 
+Oarenochrous pallidinuchus, Tacz. et Berl P. Z. S. 1885, p. 84 
 
 (Ecuador). 
 
@@ -19773,7 +19773,7 @@ Ois. p. 362, pi. 46. fig. 2. 3"f
 Pipilopsis fulviceps, Bp. Consp. i. p. 485. 
 Buarremon fulviceps, Scl et Salo. Xommit p.%j; ml. P. Z. S. 1879 
 
-p. 603 (Bolivia); Taez. Orn. Per. ii. p. 532. 
+p. 603 (Bolivia); Tacz. Orn. Per. ii. p. 532. 
 * 
 Above olive-green, wings and tail blackish, edged with nitre ; 
 head and nape bright chestnut: lores yellow: beneath yellow; 
@@ -20386,7 +20386,7 @@ d. e. S j r - sk. Pelotas, Eio Grande do Sul Salvin-Godman Coll.
 51. 
 CONOTHRAUPIS. m 
 Type. 
-Conothraupis, Taez. P. Z. S. 1880, p. 198 .. C. speculigera. 
+Conothraupis, Tacz. P. Z. S. 1880, p. 198 .. C. speculigera. 
 I am a little uncertain about the correct position of this Peruvian 
 
 monotype, but on the whole I think it is best placed next to Dhicojns. 
@@ -23743,7 +23743,7 @@ Gassicus solitarius, VieilL Kouv. Diet. v. p. 364; id, Btic* 3Iitk„ih
 
 
 p. 723 j JZartl. Syst. 2nd. p. 4; ScL ei Satr. Nomend, p. 811; iid« 
-P. Z. S. 1879, p. 60S; ScL Ibis, 1883, p. 162 ; Taez. Orn. Pin ii. 
+P. Z. S. 1879, p. 60S; ScL Ibis, 1883, p. 162 ; Tacz. Orn. Pin ii. 
 p. 415. 
 Gassicus nigerrimus, Spiv. Av. Bros, i. p* 00, pi, 03. f, 1 ; *S#if, JE?. o/ 
 Brazil, pi. 4. 
@@ -24637,7 +24637,7 @@ t.4{?).
 Molothrus purpurascens, Cte?sm, Pr. ^c. £c. PM. 1866, p. 20; &?/. 
 
 P. Z. S.1869, p. 148 (Lima); id. Ibis, 1884, p. 7 ; £<?/. <tf Salv. 
-Xomencl p. 87 ; Taez. P. Z. A 1874, p. 523, 1880, p. 200 (Peru) ; 
+Xomencl p. 87 ; Tacz. P. Z. A 1874, p. 523, 1880, p. 200 (Peru) ; 
 id. Orn. Per. ii. p. 422. 
 Similar to M. bonariensis, but female paler, especially below. 
 Bab, Western Peru. 
@@ -28691,7 +28691,7 @@ Lampropsar warcewiezi, Cab. Jf O. 1861, p. 83; ScL et Sain
 JMmencL p. 38; Sclater, P. Z. S. 1877, p. 523 (Lima). 
 Scolecophagus ?, Sclater, P. Z. S. 1800? p. 277 (Babaitoyo). 
 Quiscaius asquatorialis, Scl. Cat. A. B. p. 140 (1862). 
-Dives warcewiezi, ScL Ibis, 1884, p. 152 j Taez. Orn. Tir. ii p. 4ML 
+Dives warcewiezi, ScL Ibis, 1884, p. 152 j Tacz. Orn. Tir. ii p. 4ML 
 
 Uniform shining black; bill and feet black: whole length 9 
 inches, wing 4*4, tail 4*5. Female similar, but smaller. 
