@@ -1491,7 +1491,7 @@ India.
 and he also alludes to a genus Frugilegus of Lesson. Neither of these generic 
 names have I been able to find in the published works of these authors, although 
 the latter is adopted by Mr. G-. E. Gray in the * Handlist' as a section of the 
-genus Oorvus. Sundevall also quotes Kaup as the author of the generic name; 
+genus Corvus. Sundevall also quotes Kaup as the author of the generic name; 
 but until the exact place of publication is discovered, the Swedish professor 
 must have the credit of establishing the genus, to which he was the first to 
 assign peculiar characters. 
@@ -1504,7 +1504,7 @@ a. Forehead, lores, and throat bare fmgilegus, p. 9.
 b. Forehead and lores only bare, throat feathered ... . pakinator, p. 10. 
 1. Trypaiiocorax frugilegus. 
 La Oorneille moissoneuse, JBriss. Orn. ii. p. 16. 
-Oorvus frugilegus, Linn. S. N. i. p. 150; Temm, Man. d'Om. i 
+Corvus frugilegus, Linn. S. N. i. p. 150; Temm, Man. d'Om. i 
 
 p. 110 ; Naum. Vog. Beutschl. ii. pi. 55; Roux, Orn. Prow pi. 132; 
 Werner, Atlas, Omnivores, pi. 5; Gould, B. Eur. iii. pi. 24; 
@@ -1515,7 +1515,7 @@ p. 121; R'upp, Syst Uebers. p. 74; Bp. Consp. I p. 384; Horxf. #
 Moore, Cat. B. Mm. E.L Co. ii. p. 557; Schlegel, Vog. JYederl. 
 pi. 139; id. Bier. JSfederl. pi. xiii. figs. 4, 5; Fritsch, Vog. Eur. 
 tab. 28. figs. 7, 8; tfTOfey. fe^/c. Fogl pi, 20. fig. 3; M/e/M 
-Bijdr. Bierh. 4to, ii. artf. Oorvus, p. 11, pi. 1. fig. 10; e7iw6. # 
+Bijdr. Bierh. 4to, ii. artf. Corvus, p. 11, pi. 1. fig. 10; e7iw6. # 
 Barth. Lapomm. Rich. Orn. p. 04; Linderm. Vog. Griechenl. 
 p. 71: Filippi, Viagg. Pers. p. 350; Jerd. B. Ind. ii. p. 302; Gould, 
 JB. G. Brit. iii. pi.* 60; Schkgel, Mm. F.-B. Coraces, p. 26; Begl 
@@ -1528,10 +1528,10 @@ Persia, p. 203.
 Le Freux, Montb. PI. Enl iii. pi. 484. 
 La Oorneille, Montb. t. c. pi. 483. 
 Coloeus frugilegus, Kemp, Natilrl. Syst p, 114. 
-Oorvus agrortim, Brehm, Vog. Beaischl. p. 170. 
-Oorvus granorum, Brehm, t c. p. 171. 
-Oorvus advena, Brehm, t e. p. 171. 
-Oorvus agricola, Tristr. P. Z. S. 1804, p. 444; Gray, IIand4, B. ii. 
+Corvus agrortim, Brehm, Vog. Beaischl. p. 170. 
+Corvus granorum, Brehm, t c. p. 171. 
+Corvus advena, Brehm, t e. p. 171. 
+Corvus agricola, Tristr. P. Z. S. 1804, p. 444; Gray, IIand4, B. ii. 
 
 
 p. 12. 
@@ -2716,7 +2716,7 @@ Le Choucas, Briss. Orn. ii. p. 24.
 Le Choucas a collier, Briss. t. c. p. 27. 
 Le Choucas blanc, Briss, t. c. p. 27 (vai\). m 
 Le Choucas noir, Briss. t. c. p. 28 ; Month PL Fnl. in. pi. 522. ^ 
-Oorvus monedula, Linn. S. N. i. p. 156; Zfcnw. Jltaw. rfO^Lp. 
+Corvus monedula, Linn. S. N. i. p. 156; Zfcnw. Jltaw. rfO^Lp. 
 
 
 Ill; Namn. Vog. DeutscJil. ii. Taf. 56. fig. 1; Bonx, Orn. Prov. 
@@ -2857,9 +2857,9 @@ k Skeleton. Macedonia. . Purchased.
 
 
 2. Colceus neglectus. 
-Oorvus dauuricus, jun., Schl. Faun. Jap. pi. xl. 
-Oorvus neglectus, Sc/iA Bijdr. Dierk. Amsterd. fol. «r*. Oorvus, p. 1G; 
-tow/, JIand-l B. ii. p. 14; Dresser, B. Eur. art. Oorvus monedula, 
+Corvus dauuricus, jun., Schl. Faun. Jap. pi. xl. 
+Corvus neglectus, Sc/iA Bijdr. Dierk. Amsterd. fol. «r*. Corvus, p. 1G; 
+tow/, JIand-l B. ii. p. 14; Dresser, B. Eur. art. Corvus monedula, 
 
 p. a 
 Monedula ueglecta, David, N. Arch. Mus. vii. Bull. p. 9. 
@@ -2881,13 +2881,13 @@ Hab. North China and Japan.
 a, c? ad, sk. Shanghai, China, Shanghai Museum [P.]. 
 
 3. Coloeus dauttricxis. 
-Oorvus dauuricus, Ball Beis, Buss. Beichs, iii. Anhang, p. 694 ; 
+Corvus dauuricus, Ball Beis, Buss. Beichs, iii. Anhang, p. 694 ; 
 Gray, Gen. B. ii. p. 315; Schl Faun. Jap. Aves, pi. xl. B ; Midi. 
 Sibir. Beis. Zool. p. 159 5 Schl. Bijdr. Dierk. Amsterd. folio, art. 
-Oorvus, p. 16 j id. Mus, P.-B. Ooraces, p. 35. 
+Corvus, p. 16 j id. Mus, P.-B. Ooraces, p. 35. 
 
 White-breasted Crow, Lath. Gen. Syn. i. part 1, p. 376, pi. xv. 
-Corvus capitalis, Wagler, Syst Av. Oorvus, sp. 19. 
+Corvus capitalis, Wagler, Syst Av. Corvus, sp. 19. 
 Lycus dauiicusj Bp. Consp. I p. 384,- Swinh. P. Z. S. 1871, p. 383. 
 
 
@@ -3178,7 +3178,7 @@ a', b', c'. Skulls. S. Germany. Dr. Giinther.
 
 8ubsp. a. Corone capellaua, 
 
-Oorvus eapellamts, Sclater, P. Z. S. 1870. 
+Corvus eapellamts, Sclater, P. Z. S. 1870. 
 
 Similar to O. comix, but having the light parts of the plumage 
 white instead of drah-grey. The species is founded on some (at 
@@ -3226,7 +3226,7 @@ p. 384; Gray, Cat. Mamm. $c. coll. Hodgs. Nepal, p. 102 ; Ilorsf.
 Amsterd. fol. p. 4; Jerd. B. Ind. ii. p. 298; 8chl Mm. P.-B. Coraces, 
 p. 10 ; Gray, Hand-l. B. ii. p. 14. 
 Corvus impudiens, Hodgs. in Gray's Zool. Misc. p. 84. 
-Oorvus dauricus, Pears. J. A. S. B. x. p. 652 (nee Pall). 
+Corvus dauricus, Pears. J. A. S. B. x. p. 652 (nee Pall). 
 Corvus impudicus, Gray, Hand-l, B. ii. p. 14; Hume, Str. F. 1873, 
 
 
@@ -3591,7 +3591,7 @@ p. 418; Hume, t. c. pp. 243, 479,1875, p. 143; id. Nests and Eggs
 Ind. B. p. 411; Blyth Sf Wold. B. Bitrm. p. 86. 
 Corvus corone, FrwiJd. P. Z. S. 1831, p. 120 (nee L.). 
 Corvus corax, Boyle, Himalaya, p. 77 (nee L.). 
-Oorvus macrorhynchus, Gray ty Ilardw. III. Ltd. Zool. pi. 36. figs. 2a, 
+Corvus macrorhynchus, Gray ty Ilardw. III. Ltd. Zool. pi. 36. figs. 2a, 
 
 2b (nee Wagl.) ; Jerd. Madr. Journ. xi. p. 18. 
 Corvus enca, Swidev. Ann. N. II. xviii. p. 300 (nee IIo?-sf.). 
@@ -4545,9 +4545,9 @@ Head of Macrocorax fuscicapillus.
 Range. Confined .to the Aru Islands, Waigiou, and Ghemien. 
 
 1. Macrocorax fuscicapillus. 
-Oorvus senex, Schl. Bijdr. Bierh. 4to, Amsterd. p. 10, pi. 3 (nee 
+Corvus senex, Schl. Bijdr. Bierh. 4to, Amsterd. p. 10, pi. 3 (nee 
 Corvus orru, Gray, Cat. Mamm. fyc. N. Guin. p. 35 (nee Mull). 
-Oorvus fuscicapillus, Gray, P. Z. S. 1859, p. 95; Schl. Mus. P.-B. 
+Corvus fuscicapillus, Gray, P. Z. S. 1859, p. 95; Schl. Mus. P.-B. 
 Coraces, p. 22. .. 
 Gymnocorvus fuscicapillus, Gray, Hand-l. B. n. p. 14. 
 Adult male (type of species). General colour above purplish black, 
@@ -4819,10 +4819,10 @@ Oct. 187o.
 
 
 4. Nucifraga columbiaiia. 
-Oorvus columbianus, Wils. Amer. Orn. iii. p. 29? pi. 20.fig. 3; Wu(L 
+Corvus columbianus, Wils. Amer. Orn. iii. p. 29? pi. 20.fig. 3; Wu(L 
 
 Man. Orn. i. p. 218. 
-Oorvus megonyx, Wagler, Syst. Av. Corvus, sp. 20. 
+Corvus megonyx, Wagler, Syst. Av. Corvus, sp. 20. 
 Nucifraga cohmibiana, Audub. Orn. Biogr. iv. p. 459 ; id. B. Amer, 
 
 iv. p. 127, pi. 2&>; "Gray, Hand-l B. ii. p. 9. 
@@ -5190,7 +5190,7 @@ L Pica pica.
 
 La Pie, JBriss, Orn. ii. p. 35; Month. PI Fnl. iii. pi. 488. 
 
-Oorvus pica, Linn. S. N. i. p. 157,- Wils. Am. Orn. iv. p. 75, 
+Corvus pica, Linn. S. N. i. p. 157,- Wils. Am. Orn. iv. p. 75, 
 pi. xxxv. fig. 2; Temm. Man. d'Om. i. p. 113; Naum. Voy. 
 FeutscM. ii. Taf. 56.fig. 2; Werner, Atlas, Omnivores, pi. 7; Auduh. 
 Orn. JBiogr. iv. p. 408, pi. ccclvii.; Nordm. in Demid. Voy. Puss, 
@@ -5651,7 +5651,7 @@ b. With no white tips to the centre tail-feathers cooki, p. 09,
 68 CORYIDJE. 
 
 1. Cyanopolius cyanus. 
-Oorvus cyanus, Pall. Beis. Buss. Reichs. iii. App. p. 694; id. Zoogr. 
+Corvus cyanus, Pall. Beis. Buss. Reichs. iii. App. p. 694; id. Zoogr. 
 • Rosso-Asiat. p, 301, pi. xvi.j Temm. $ Schl Faun. Jap. Aves, pi. 
 xlii. 
 Blue Grow,Zath. Gen. Syn. i. part 1, p. 394. 
@@ -5723,7 +5723,7 @@ e. Ad. sk. Shanghai. Shanghai Museum [P.J.
 Pica cyanea, Wagler, Syst. Av. Pica, sp. 6 (nee Pall); Cool-, P. 
 Z. S. 1831, p. 96; Keys. $ Blasius, Wirh. ^Eur. p. xiv: Gould, 
 B. Eur. iii. pi. 217; Bree, B. Eur. i. p. 140, cum tab. 
-Oorvus cyanus, Schl. u. Susem. Vbg. Eur. ii. Taf. 5, 
+Corvus cyanus, Schl. u. Susem. Vbg. Eur. ii. Taf. 5, 
 Cyanopolius cooki, Bp. Beport Brit. Assoc. 1849, p. 75. 
 Cyanopiea cooki, Bp. JP. Z. S.1850, p. 86; id. Consp. i. 352 ; Fritsch, 
 Vog. Eur. tab. xxvii. fig. 9; Dresser, B. Eur. part xxvii. j Irby, 
@@ -6483,7 +6483,7 @@ Hah. Pormosa.
 6. Dendrocitta sinensis. 
 La Pie de Macao, Sonn. Voy. Lid. ii. p. 187. 
 Macao Crow, Lath, Gen. 8yn. 8uppl. p. 84. 
-Oorvus sinensis, Lath. Ind. Orn. i. p. 161; Baud. Traite, ii. p. 244 ; 
+Corvus sinensis, Lath. Ind. Orn. i. p. 161; Baud. Traite, ii. p. 244 ; 
 
 
 tShaw, Gen. ZooL vii. p. 369. 
@@ -9151,7 +9151,7 @@ tail 5" 9"\ tarsus 1" 9'". (Heine, I c.)
 Hob. Venezuela. 
 
 7. Cyanocorax cyanopogon. 
-Oorvus cyanopogon, Max. Beitr. Natiirg. Bras. iii. p. 1247; Temm, 
+Corvus cyanopogon, Max. Beitr. Natiirg. Bras. iii. p. 1247; Temm, 
 
 PI Col ii. pi. 169. 
 
@@ -10644,7 +10644,7 @@ and Eastern Siberia.
 1. Graculus graculus. 
 Le Ooracias, Briss. Orn. ii. p. 3, pi. 1. fig. 1. 
 ? Le Ooracias hupe\ JBriss. t c. p. 6. 
-Oorvus graculus, Linn. S. M i. p. 158; Waum. Vog. DeuhcM. ii. pL 
+Corvus graculus, Linn. S. M i. p. 158; Waum. Vog. DeuhcM. ii. pL 
 
 
 57. fig. 2; Schl u. Susem. Vog. Eur. Taf. 8. fig. 2j Tarr. Br. B. 
@@ -13155,7 +13155,7 @@ black, washed with green obiensis, p. 185.
 
 h. Primaries white for basal half of inner web .. morotensis, p. 186. 
 1. Lycocorax pyrrhopterus. 
-Oorvus pyrrhopterus, Bp. Consp. i. p. 384 (ex Tem?n. MS. in Mus. 
+Corvus pyrrhopterus, Bp. Consp. i. p. 384 (ex Tem?n. MS. in Mus. 
 Lugd.). 
 Pica pyrrhoptera, Sohl. Bijdr. tot de JDierJc. fol. pt. viii. p. 1, pi. i. 
 
@@ -22344,7 +22344,7 @@ aureus (Xanthomelus).
 australis (Corcorax), 149. 
 ALPHABETICAL INDEX. 
 
-australis (Oorone), 37. 
+australis (Corone), 37. 
 australis (Cornis), 20, 
 
 37. 
@@ -22433,7 +22433,7 @@ bracteatus (Balicassius)^
 bracteatus (Dicrurus), 
 236. 
 brachyurus (Corax), 46, 
-brachyurus (Oorvus), 46, 
+brachyurus (Corvus), 46, 
 Bradornis, 308. 
 Bradyornis, 308. 
 brandti (G-arrulus), 96. 
@@ -22497,7 +22497,7 @@ cseruleus (Dicrurus), 252.
 caeruleus (Lanius), 252. 
 cafer (Archieorax), 24. 
 cafer (Corvultur), 24. 
-cafer (Oorvus), 24. 
+cafer (Corvus), 24. 
 californica (Apheloeoma), 
 113. 
 califomica (Cyanocitta,), 
@@ -22529,7 +22529,7 @@ calkvas (Cryptorhina),
 Calocitta, 69, 88. 
 ealva (Paradisea), 175. 
 calva (Schlegelia), 175. 
-canadensis (Oorvus), 104. 
+canadensis (Corvus), 104. 
 canadensis (Dysornithia), 
 
 105. 
@@ -22555,7 +22555,7 @@ capellana (Corone), 32.
 
 ALPHABETICAL IN DMA'. 
 
-capensis (Oorvus), 12, 
+capensis (Corvus), 12, 
 
 17. 
 capensis (Hetorocorax), 
@@ -22563,10 +22563,10 @@ capensis (Hetorocorax),
 capensis (Oriolus),217. 
 capensis (Trypanocorax), 
 
-capensis minor (Oorvus), 
+capensis minor (Corvus), 
 
 12. 
-capitalis (Oorvus), 28. 
+capitalis (Corvus), 28. 
 capitalis (Hemipus), 306. 
 capitalis (Muscieapa), 
 
@@ -22579,7 +22579,7 @@ carbonaria (Chibia), 238.
 carbonaria (Dicrurus), 
 
 238. 
-carnivorus (Oorvus), 14. 
+carnivorus (Corvus), 14. 
 carunculata (Astrapia), 
 
 165. 
@@ -22602,7 +22602,7 @@ carunculatus (Xanthornus),
 Oaryocatactes, 52. 
 caryocatactes (Oaryocatactes), 
 53. 
-caryocatactes (Oorvus), 
+caryocatactes (Corvus), 
 
 53. 
 caryocatactes (Nucifraga), 
@@ -22628,11 +22628,11 @@ caudata, var. hudsonica
 (Pica), 63. 
 caudata, var. nuttalli 
 (Pica), 67. 
-caudatus (Oorvus), 83. 
+caudatus (Corvus), 83. 
 caurina (Corone), 36. 
-caurinus (Oorvus), 36. 
+caurinus (Corvus), 36. 
 oayana (Uroleuca), 122. 
-cayanus (Oorvus), 122. 
+cayanus (Corvus), 122. 
 
 a;*i 
 
@@ -23133,13 +23133,13 @@ emarginata (Muscicapa),
 248. 
 emarginatus (Dicrurus), 
 248. 
-enca (Oorone), 43. 
+enca (Corone), 43. 
 enca (Corvus), 39. 
 Epimachus, 160. 
-eremita (Oorvus), 146. 
+eremita (Corvus), 146. 
 eremita (Graculus), 146. 
 Erythrolanius, 188. 
-erythrophthalmus (Oorvus), 
+erythrophthalmus (Corvus), 
 49. 
 ervtbrophtbalmus (Edolius), 
 248. 
@@ -23159,7 +23159,7 @@ erythrorhyncha (Pica),
 70. 
 erythrorbyncha (Urocissa), 
 71. 
-erythrorhynchus (Oorvus), 
+erythrorhynchus (Corvus), 
 71. 
 erythrorhynchus (Cyanurus), 
 70. 
@@ -23170,8 +23170,8 @@ europceus (Fregilus), 147.
 Euryceros, 320. 
 
 Falculia, 145. 
-fallax (Oorvus), 43. 
-ferroe'nsis (Oorvus), 14. 
+fallax (Corvus), 43. 
+ferroe'nsis (Corvus), 14. 
 ferrugineus (Garrulax), 
 
 287. 
@@ -23210,7 +23210,7 @@ flavocinctus (Oriolus),
 floridana (Aphelocoma), 
 
 117. 
-floridana (Oorone), 35. 
+floridana (Corone), 35. 
 floridana (Oyanocitta), 
 
 117. 
@@ -23227,7 +23227,7 @@ floridana, var. wooclhousci
 (Aphelocoma), 
 
 114. 
-floridanus (Oorvus), 117. 
+floridanus (Corvus), 117. 
 floridanus (Oyanocorax), 
 
 117. 
@@ -23288,7 +23288,7 @@ frontalis (Oriolus), 204.
 frontalis (Temnurus), 78. 
 frugilegus (Ooloeus), 9, 
 
-frugilegus (Oorvus), 9. 
+frugilegus (Corvus), 9. 
 frugilegus (Trypanocorax), 
 9. 
 fugax (Dicrurus), 248. 
@@ -23305,7 +23305,7 @@ furcatus (Balicassius),
 furcatus (Dicrurus), 231. 
 furcatus (Edolius), 230. 
 fusca (XJpupa), 162. 
-fuscicapillus (Oorvus), 51. 
+fuscicapillus (Corvus), 51. 
 fuscicapillus (Gymnocorvus), 
 51. 
 fuscicapillus (Macrocorax), 
@@ -23347,7 +23347,7 @@ germanicus (Glandarius),
 
 93. 
 Glandarius, 91. 
-glandarius (Oorvus), 93. 
+glandarius (Corvus), 93. 
 glandarius (Garrulus), 93, 
 
 99. 
@@ -23373,14 +23373,14 @@ gouldi (Phonygama), 181.
 graoula (Ooracia), 147. 
 graculina (Strepera), 57. 
 graculinus (Oracticus\58. 
-graculinus (Oorvus), 57. 
+graculinus (Corvus), 57. 
 graoulinus (Prionops), 
 
 325. 
 graculinus (Sigmodus), 
 325. 
 Graculus, 146. 
-graculus (Oorvus), 146. 
+graculus (Corvus), 146. 
 graculus (Fregilus), 146. 
 graculus (Graculus), 146. 
 graculus (Pyrrhocorax), 
@@ -23394,7 +23394,7 @@ Grallina, 272.
 grandis (Dicrurus), 258. 
 grandis(Dissemurus), 259. 
 grandis (Edolius), 258. 
-granorum (Oorvus), 9. 
+granorum (Corvus), 9. 
 grisea (Sphecothera),224. 
 griseatus (Myiolestes), 
 
@@ -23435,7 +23435,7 @@ guttatus (Caryocatactes),
 53. 
 gymnocepbala (Pica), 
 141. 
-gymnocepbalus (Oorvus), 
+gymnocepbalus (Corvus), 
 ALPITABEWCAL INDEX, 
 
 gymnocepbalus (Galgulus), 
@@ -23453,7 +23453,7 @@ harmonica (Pnigocicbla),
 harmonious (Turdus), 
 290. 
 hamsii(Oyanocorax)}125. 
-hawaiensis (Oorvus), 13. 
+hawaiensis (Corvus), 13. 
 beckeli (Oyanocorax),126. 
 heckelii (Oyanurus), 126. 
 heinii (Mviolestes), 299. 
@@ -23463,7 +23463,7 @@ hemispila (Nucifraga), 54.
 hendersoni (Podoces),151. 
 Hefceralocba, 143. 
 Heterocorax, 12. 
-biemalis (Oorvus), 37. 
+biemalis (Corvus), 37. 
 biemalis (Pica), 62. 
 himalayanus (Fregilus), 
 147. 
@@ -23492,13 +23492,13 @@ horsfieldi (Oriolus), 199,
 200. 
 hottentotta (Ohibia), 235, 
 236. 
-hottentottus (Oorvus), 
+hottentottus (Corvus), 
 235. 
 hottentottus (Trichometopus), 
 235. 
 hudsonica (Pica), 62. 
 hudsonicus (Cleptes), 63. 
-hudsonius (Oorvus), 62. 
+hudsonius (Corvus), 62. 
 humilis (Podoces), 151. 
 hyacintbinus (Ooroni
 
@@ -23518,8 +23518,8 @@ ilicoti (Garrulus), 97.
 immaculata (Nucifraga), 
 
 54. ^ 
-impudicus (Oorvus), 33. 
-irapudiens (Oorvus), 33. 
+impudicus (Corvus), 33. 
+irapudiens (Corvus), 33. 
 incas (Oyanocorax), 130. 
 incas, var. guatemalensis 
 (Xantboura), 131. 
@@ -23539,14 +23539,14 @@ indicus (Dicrurus), 246.
 indicus (Eucblorites),197. 
 indicus (Oriolus), 197. 
 infausta (Pica), 104. 
-infaustus (Oorvus), 103. 
+infaustus (Corvus), 103. 
 infaustus (Garrulus), 103. 
 infaustus (Lanius), 103. 
 infaustus (Perisoreus), 
 103. 
-mfumatus (Oorvus), 17. 
-insolens (Oorone), 34. 
-insolens (Oorvus), 33, 34. 
+mfumatus (Corvus), 17. 
+insolens (Corone), 34. 
+insolens (Corvus), 33, 34. 
 insularis (Buchauga), 253. 
 insularis (Garrulus), 101. 
 intermedia (Buchanga), 
@@ -23556,7 +23556,7 @@ intermedia (Melsenornis),
 intermedia (Strepora),59. 
 intermedius Baru fEus), 
 219. 
-intermedius (Oorvus), 20. 
+intermedius (Corvus), 20. 
 intermedius(Cyanocorax), 
 123. 
 intermedius (Oyanurus), 
@@ -23566,7 +23566,7 @@ intermedius (Dicrurus),
 Irena, 265. 
 isabellina (Oeblepyris), 
 316. 
-jamaicensis (Oorvus), 48, 
+jamaicensis (Corvus), 48, 
 
 ALPHABETICAL INDEX. 
 
@@ -23762,7 +23762,7 @@ macrolopha (Oyanura),
 macrolophus (Oyanurus), 
 110. 
 macropterus (Corvus), 12. 
-macrorhyncha (Oorone), 
+macrorhyncha (Corone), 
 38. 
 macrorhynchos (Nucifraga), 
 53. 
@@ -23991,12 +23991,12 @@ ALPHABETICAL INDEX.
 
 minor papuana (Paradisea), 
 168. 
-minutus (Oorvus), 29. 
+minutus (Corvus), 29. 
 mirabilis (Dicrurus), 231. 
 modestus (Brady ornis), 
 
 310. 
-modestus (Oorvus), 45. 
+modestus (Corvus), 45. 
 modestus (Dicrurus), 232. 
 ruoloxita (Oriolus), 217. 
 monacha (Oriolus), 216. 
@@ -24010,7 +24010,7 @@ monedula(Corvus),26,27.
 monedula (Lycus), 26. 
 monedula, var. daurica 
 (Porvus), 29. 
-moneduloides (Oorvus), 
+moneduloides (Corvus), 
 
 50. 
 moneduloides (Physocorax), 
@@ -24020,7 +24020,7 @@ montanus (Pyrrhocorax),
 
 149. 
 morada (Arraca), 124. 
-morio (Oorvus), 139. 
+morio (Corvus), 139. 
 morio (Pica), 139, 140. 
 morio (Psilorhinus), 139. 
 morotensis (Lycocorax), 
@@ -24066,7 +24066,7 @@ nasicus (Corvus), 48, 49.
 nasicus (Microcorax), 49. 
 neglecta (Monedula), 28. 
 neglectus (Oolosus), 28. 
-neglectus (Oorvus), 28. 
+neglectus (Corvus), 28. 
 neglectus (Lycus), 28. 
 Nematophora, 159. 
 Neomorpha, 143. 
@@ -24158,7 +24158,7 @@ oclireata (Fraseria), 303.
 ochreata (Tephrodornis), 
 
 303. 
-cenas (Oorvus), 124. 
+cenas (Corvus), 124. 
 olivascens (Callwas), 143. 
 olivascens (Glaucopis), 
 
@@ -24181,9 +24181,9 @@ ornatus (Grarrulus), 100,
 
 101. 
 orra (Corone), 44. 
-orru (Oorvus), 44, 51. 
+orru (Corvus), 44, 51. 
 ossifragus (Coloeus), 29. 
-ossifragus (Oorvus), 29. * 
+ossifragus (Corvus), 29. * 
 Otostylus, 177. 
 Oxystomus, 144. 
 
@@ -24247,12 +24247,12 @@ parvula (Oolluricincla),
 parvulus (Pinarolestes), 
 
 296. 
-pastinator (Oorvus), 10. 
+pastinator (Corvus), 10. 
 pastinator (Frugilegus), 
 
 10. 
 pectoralis (Chibia), 240. 
-peetoralis (Oorvus), 21. 
+peetoralis (Corvus), 21. 
 pectoralis (Dicrurus), 
 
 240. 
@@ -24266,7 +24266,7 @@ pelvicus (Tephrodornis),
 penicillata (Paradisea), 
 
 177. 
-peregrinus (Oorvus), 14. 
+peregrinus (Corvus), 14. 
 Perisoreus, 103. 
 personatus (Oriolus), 218. 
 peruanus (Oyanocorax), 
@@ -24281,14 +24281,14 @@ peruviana (Xanthoura),
 peruviana (Xanthura), 
 
 130. 
-peruvianus (Oorvus), 129. 
+peruvianus (Corvus), 129. 
 peruvianus (Oyanocorax), 
 129,132. 
 peruvianus (Garrulus), 
 
 129. 
 petrica (Tentheca), 276.^ 
-phaeocephalus (Oorvus), 
+phaeocephalus (Corvus), 
 
 23. 
 
@@ -24308,7 +24308,7 @@ philippensis (Oriolus),
 
 188. 
 philippina (O or one), 42. 
-philippinus (Oorvus), 42. 
+philippinus (Corvus), 42. 
 Phonygama, 180. 
 Phrenotrix, 83. 
 Physocorax, 50. 
@@ -24317,7 +24317,7 @@ piacpiac (Oryptorhina),
 75. 
 Pica, 62. 
 pica (Oleptes), 63. 
-pica (Oorvus), 62. 
+pica (Corvus), 62. 
 pica (Pica), Q2. 
 picsecolor (Hemipus), 
 
@@ -24344,7 +24344,7 @@ Pie-Grrieche vert de Madagascar,
 282. 
 pileata (Pica), 121. 
 pileata (Uroleuca), 121. 
-pileatus (Oorvus), 120. 
+pileatus (Corvus), 120. 
 pileatus (Oyanocorax), 
 
 120. 
@@ -24392,7 +24392,7 @@ prevosti (Euryceros), 326.
 Prionopidse, 270. 
 Prionops, 319. 
 Psaropholus, 188. 
-pseudocorone (Oorvus), 
+pseudocorone (Corvus), 
 
 37. 
 Pseudorectes, 287. 
@@ -24416,7 +24416,7 @@ pumilo (Oyanocitta),
 pumilo (Oyanocorax), 
 
 Pyrrhocorax, 148. 
-pyrrhocorax (Oorvus), 
+pyrrhocorax (Corvus), 
 
 148. 
 pyrrhocorax (Fregilus), 
@@ -24436,7 +24436,7 @@ pyrrhops (Dicrurus),
 
 251. 
 pyrrhoptera (Pica), 185. 
-pyrrhoptorus (Oorvus), 
+pyrrhoptorus (Corvus), 
 
 185. 
 pyrrhopterus (Lyeoeorax), 
@@ -24502,7 +24502,7 @@ rufa (Dendrocitta), 76.
 rufa (G-laucopis), 77. 
 rufa (Pica), 76. 
 rufa (Vagabunda), 77. 
-ruficollis (Oorvus), 17, 
+ruficollis (Corvus), 17, 
 19. 
 rufigaster (Dendrocitta), 
 81. 
@@ -24522,7 +24522,7 @@ rufiventris (Sigrnodus),
 rufogaster (Collurieincla), 
 296. 
 rufulus (G-arrulus), 318. 
-rufus (Oorvus), 76. 
+rufus (Corvus), 76. 
 rufus (Lanius), 76. 
 rufus (Temnurus), 77rufusater 
 (Icterus), 144. 
@@ -24569,7 +24569,7 @@ carpus), 221.
 saturninus (Lanius), 290. 
 scapularis, var. aetkiops 
 
-(Oorvus), 22. 
+(Corvus), 22. 
 scapulata (Lophoeitta), 
 
 317. 
@@ -24701,19 +24701,19 @@ speciosus (Epimachus),
 162. 
 spermolegos (M'onedula), 
 26. 
-spermolegus (Oorvus), 26. 
+spermolegus (Corvus), 26. 
 Sphecothera, 223. 
 Sphecotlieres, 188, 223. 
 spinturnix (Oicinnurus), 
 171. 
-splendens (Oorvus), 33, 
+splendens (Corvus), 33, 
 34. 
 splendens (Criniger), 235. 
 splendidus (Corvus), 137. 
 splendidus (Epimachus), 
 157. 
 steerii (Oriolus), 213. 
-stelleri (Oorvus), 108. 
+stelleri (Corvus), 108. 
 stelleri (Oyanocitta), 108, 
 
 109. 
@@ -24738,7 +24738,7 @@ Strepera, 57.
 strepera (Barita), 57. 
 strepera (Coracias), 57. 
 strepera (Coronica), 58. 
-strepera (Oorvus), 57. 
+strepera (Corvus), 57. 
 strepera (GraculaV 57. 
 strepera (Strepera), 60. 
 streperus (Cracticus), 
@@ -24762,7 +24762,7 @@ subalaris (Bradyornis),
 subcinereus (Turdus), 
 292. 
 subcornix (Corvus), 31. 
-subcorone (Oorvus), 37. 
+subcorone (Corvus), 37. 
 suluensis (Oriolus), 205. 
 sumichrasti (Aphelocoma), 
 114. 
@@ -24786,7 +24786,7 @@ superciliosa (Oyanocitta),
 113. 
 superciliosus (Tephrodornis), 
 275). 
-sylvestris (Oorvus), 14. 
+sylvestris (Corvus), 14. 
 sylvicola (Tephrodornis), 
 
 277. 
@@ -24817,7 +24817,7 @@ tenebrosus (Eectes), 298.
 Tenthaca, 274. 
 Tentheca, 274. 
 Tenthera, 274. 
-tenuirostris (Oorvus), 31, 
+tenuirostris (Corvus), 31, 
 43. 
 tenuirostris (Oriolus), 
 198, 199. t 
@@ -24836,7 +24836,7 @@ tibialis (Bectes)5 285.
 timoriensis (Corvus), 38. 
 timoriensis (Oriolus), 
 226. 
-tingitanus (Oorvus), 19. 
+tingitanus (Corvus), 19. 
 torquatus (Corvus), 21. 
 trailli (Analcipus), 222. 
 trailli (Oriolus), 222. 
@@ -24911,9 +24911,9 @@ vagabundus (Temnurus),
 67. 
 vaillanti (Cyanopica), 68. 
 vaillanti (Paradisea), 159. 
-valiclissinia (Oorone), 42. 
+valiclissinia (Corone), 42. 
 validissimns (Corvus), 42. 
-validus (Oorvus), 43. 
+validus (Corvus), 43. 
 varia (Pica), 63. 
 varia japonica (Pica), 6S. 
 varians (Ooryus), 83. 
@@ -24934,7 +24934,7 @@ versicolor (Strepera), 60.
 yictorise (Ptilorhis), 155. 
 victorias (Ptilornis), 155. 
 vigorsii (Garrulus), 102. 
-violacea (Oorone), 45. 
+violacea (Corone), 45. 
 violacea (Paradisea), 159. 
 yiolaceus (Amblycorax), 
 45. 
