@@ -48910,17 +48910,17 @@ leucopbrys (Querquedula),
 269. 
 leucophthalnia (Fuligula), 
 347. 
-leucopbthalma (Nyroca), 
+leucophthalma (Nyroca), 
 347, 357, 366. 
-leucopbthalma <z. dussumieri 
+leucophthalma <z. dussumieri 
 fNyroca), 344. 
-leucopbthalmos (Anas), 
+leucophthalmos (Anas), 
 
 344. 
 leucophthalnios (Aytbya), 
 
 347. 
-leucopbthalmos (Nyroca), 
+leucophthalmos (Nyroca), 
 347. 
 leucopbtbalmus (Anas), 
 
