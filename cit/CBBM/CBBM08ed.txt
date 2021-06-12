@@ -3235,7 +3235,7 @@ Key N. A. B. p. 80; Sclat 8? Salv. Nomenel. Av. Neotr. p. 5;
 Baird, Brew, fy Ridgw. N. A. B.i. p. 93; Coues, B. Colorado Vail. 
 p. 117 ; Salv. Sf Godm. Biol. Centr.-Amer., Aves, p. 56. 
 Partis annexus, Cass. Br. Ac. N. So. Phil v. Oct. 1850, p. 103, pi. i. 
-Lophophanes galeatus, Cab. Mus. Rein. i. 1850, p. 90 (1850), 
+Lophophanes galeatus, Cab. Mus. Hein. i. 1850, p. 90 (1850), 
 Adult male. General colour above, including the hind neck, scapulars, 
 and most of the wing-coverts grey, with an olive tinge; 
 primary-coverts, quills, and tail greyish brown, externally edged 
@@ -5310,7 +5310,7 @@ Barling, B. Middlesex, p. 68 • Kmlemans, Onze Vogeh, pi. 15 ;
 Holland. Wirbelthiere Pommems, p. CO. 
 Long-tailed Titmouse, Lath. Gen. Syn. ii. pt. 2, p. 550 (1783). 
 Acredula caudata, Koch, tiysfem. baier. ZooL p. 199. Taf. v. fig. 42 
-(181(5); Cab. Mus. Rein. p. 90; Sharpe, Ibis, 18(18, p. 300; Brtsstr, 
+(181(5); Cab. Mus. Hein. p. 90; Sharpe, Ibis, 18(18, p. 300; Brtsstr, 
 
 B. Eur. iii. p. 104; Salvad. Faun. Ital. ii. p. 06; Danford 4* Brown, 
 Ibis, 1875, p. 303; Seebohm, Ibis, 1880, p. 189; Gigliuli, Ibis, 18&1, 
@@ -7878,7 +7878,7 @@ Consp. i. p. 367 ; Gould, Handb. B. Austr. i. p. 187; Gray, Hand-l
 
 B. i. p. 386, no. 5854 • Bamsag, Proc. Linn. Soc. 2V7.8, W. ii. p. 180. 
 Cracticus destructor, Biggies, Orn. Austr. pi. —. &g. 2. 
-Bulestes leucopterus, Cab. Mus. Rein. Tli. i. p. 67. 
+Bulestes leucopterus, Cab. Mus. Hein. Tli. i. p. 67. 
 Adult, Above, including the scapulars, some of the wing-coverts, 
 and the rump, silvery grey with faint blackish shaft-streaks; the 
 greater wing-coverts somewhat tinged with brown, strongly mottled 

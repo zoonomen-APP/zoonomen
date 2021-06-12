@@ -1751,7 +1751,7 @@ V- Ad. sk. Ecuador. Salvin-Godman Coll.
 
 10. Diglossa humeralis. 
 Agrilorhinus Immeralis, Fraser, P. Z. S. 1840, p. 22. 
-Diglossa humeralis, Cab. Mus. Rein. i. p. 27 (note); Reich, Handb. 
+Diglossa humeralis, Cab. Mus. Hein. i. p. 27 (note); Reich, Handb. 
 
 
 p. 231, t. dlii. f. 3754; Casein, Pr. Ac. Sc. Phil 1804, p. 275; 
@@ -4163,7 +4163,7 @@ r'. Ad. Guajanja, Peru (Stolz- Sclater Coll.
 mann). ( C. magnirodris, Tacz.) 
 
 5. Certhiola luteola. 
-Certhiola luteola, Cab. Mus. Rein, i. p. 96 (Puerto Cabello) ; Suncl 
+Certhiola luteola, Cab. Mus. Hein. i. p. 96 (Puerto Cabello) ; Suncl 
 (JEfv. K, Vet.-Ah Fork 1869, p. 621; Cousin, Pr. Ac. So. Phil. 
 1864, p. 271; Reichenb. Randb. p. 251; Sclat. Cat. A, B. p. 53; 
 Taylor, Ibis, 1864, p. 179 (Trinidad); Scl et Salt). P. Z. S. 1866. 
@@ -4485,7 +4485,7 @@ Guian. iii. p. 675 ; Euler, J.f. 0.1867, p. 406 (nest).
 11 . CERTHIOLA. 
 45 
 
-Oerthiola chloropyga, Cab. Mus. Rein. i. p. 97 (1851); Reichenb. 
+Oerthiola chloropyga, Cab. Mus. Hein. i. p. 97 (1851); Reichenb. 
 Randb. p. 252; 8cl. Cat. A. B. p. 53 ; Gray, Rand-l i. p. 120; 
 Cassin, Pr. Ac. 8c. Phil. 1864, p. 272 ; 8c!. § 8ab. P. Z. S. 1867, 
 
@@ -10558,7 +10558,7 @@ Tan. p. 80; id. Cat. A. B. p. 67; Scl et Salv. P. Z. S. 1868, p. 167
 (Caracas) ,* iid. Nomencl. p. 19; Bah. et Godm. Ibis, 1879, p. 200, 
 et 1880, p. 120 (Sierra Nevada of S. Marta). 
 
-Callispiza cyanoptera, Cab. Mus. Rein. i. p. 27. 
+Callispiza cyanoptera, Cab. Mus. Hein. i. p. 27. 
 
 Silvery green; head and neck all round and wings and tail 
 black; remiges and rectrices narrowly edged with blue; under 
@@ -10798,7 +10798,7 @@ L tail shorter 23. OALOCHJETES, p. 179.
 IKIDOENIS. Type< 
 Iridosornis, Less. Echo du Monde Savant 1844, p. 80 I. dubusia. 
 Poecilornis, Hartl Bev. Zool 1844, p. 369 I. dubusia. 
-Euthraupis, Cab. Mus. Rein. i. p. 30 (1850) I. dubusia. 
+Euthraupis, Cab. Mus. Hein. i. p. 30 (1850) I. dubusia. 
 
 This brilliant little group contains five species, inhabitants of the 
 remote Andean valleys of Colombia, Ecuador, and Peru, and remarkable 
@@ -11520,7 +11520,7 @@ Par. vii. p. 379, pi. 23.
 
 Tanagra sumptuosa, Bp. Consp. i. p. 239. 
 
-Compsocoma sumptuosa, Cab. Mus. Rein. i. p. 140 ; Sclater, P. Z. S. 
+Compsocoma sumptuosa, Cab. Mus. Hein. i. p. 140 ; Sclater, P. Z. S. 
 
 1855, p. 84? 1856, p. 238, 1S59, p. 139, et 1860, p. 86 (Ecuador); 
 id. Syn. Av. Tan. p. 64; id. Cat A. B. p. 74; 8cl. et Salv. P. Z. S. 
@@ -16423,7 +16423,7 @@ Voym p. 265? pi xxvi. %. 2; Bp. Consp. i. p. 241.
 
 218 TANA GRID JB. 
 
-Tricliotliraupis albieollis, Cab. Mus, Rein. i. p. 23 (note). 
+Tricliotliraupis albieollis, Cab. Mus. Hein. i. p. 23 (note). 
 Eucometis albicollis, Scl P. Z. S. 1856, p. 117; id. Syn. Av. Tan. 
 
 p. 41; id. Cat A. B. p, 84; Pelz. Orn. Bras. p. 212; Scl et Salv. 
@@ -22955,7 +22955,7 @@ p. 721; Sw. Birds Brazil, pi. 32; Max. Beitr. iii. p. 1220; Tsch.
 Faun. Per. p. 232; Bp. Consp. i. p. 427; Cab. in Schomb. Guian. 
 iii. p. 680 ; Burm. Syst. Ueb. iii p. 275. 
 Psarocolius cristatus, Wagl Syst. Av. sp. 3. 
-Ostinops cristatus, Cab. Mus. Rein. i. p. 187; Scl P. Z. S. 1855, p. 153, 
+Ostinops cristatus, Cab. Mus. Hein. i. p. 187; Scl P. Z. S. 1855, p. 153, 
 1858, p. 455; id. Cat. A. B. p. 127; Cassin, Pr. Ac. Sc. Phil. 1800, 
 p. 138; Meinh. Fuglef. Bras. Camp. p. 211; Scl et Salo. P.Z.S. 
 1864, p. 354, I860, p. 182, 1867, pp. 750, 978, 1873, p. 265,1879, 
