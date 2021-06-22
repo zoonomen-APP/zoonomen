@@ -19393,7 +19393,7 @@ Meleagris gallopavo silvestris Vieillot '
 
 
 
-Meleagris silvestris Vieillot, Nouv. Diet. Hist. Nat., 9, 1817, p. 447. 
+Meleagris silvestris Vieillot, Nouv. Dict. Hist. Nat., 9, 1817, p. 447. 
 
  (Country of the Illinois to Panama = Pennsylvania, ex Bartram.) 
 
@@ -20670,7 +20670,7 @@ Ortyxelos meififrenii (Vieillot)
 
 
 
-Turnix Meiffrenii Vieillot, Nouv. Diet. Hist. Nat., 35, 1819, p. 49. 
+Turnix Meiffrenii Vieillot, Nouv. Dict. Hist. Nat., 35, 1819, p. 49. 
 
  (Senegal.) 
 
@@ -21384,7 +21384,7 @@ abundant in western Ecuador.
 
 
 
-Aramus carau Vieillot, Nouv. Diet. Hist. Nat., 8, 1817, p. 300. (Para- 
+Aramus carau Vieillot, Nouv. Dict. Hist. Nat., 8, 1817, p. 300. (Para- 
 
  guay.) 
 
@@ -21965,7 +21965,7 @@ Cuba and the Isle of Pines.
 
 
 
-Rallus limicola Vieillot, Nouv. Diet. Hist. Nat., 28, 1819, p. 558. (United 
+Rallus limicola Vieillot, Nouv. Dict. Hist. Nat., 28, 1819, p. 558. (United 
 
  States = Pennsylvania, ex Edwards, pi. 279.) 
 
@@ -23035,7 +23035,7 @@ Ortygonax rytirhynchos rytirhynchos (Vieillot)
 
 
 
-Rallus rytirhynchos Vieillot, Nouv. Diet. Hist. Nat., 28, 1819, p. 549. 
+Rallus rytirhynchos Vieillot, Nouv. Dict. Hist. Nat., 28, 1819, p. 549. 
 
 
 
@@ -23104,7 +23104,7 @@ Ortygonax nigricans nigricans (Vieillot)
 
 
 
-Rallus nigricans Vieillot, Nouv. Diet. Hist. Nat., 28, 1819, p. 560. 
+Rallus nigricans Vieillot, Nouv. Dict. Hist. Nat., 28, 1819, p. 560. 
 
 
 
@@ -23441,7 +23441,7 @@ Rallus super ciliaris Eyton, Ann. and Mag. Nat. Hist., 16, 1845, p. 230.
 
 
 
-(Malacca.) Not Rallus superciliaris Vieillot, Nouv. Diet. Hist. Nat., 
+(Malacca.) Not Rallus superciliaris Vieillot, Nouv. Dict. Hist. Nat., 
 
 
 
@@ -23860,7 +23860,7 @@ Fulica Cajanea P. L. S. Muller, Natursyst., Suppl., 1776, p. 119.
 
 (Cayenne, ex Daubenton, PL enl., pi. 352.) 
 
- Rallus chiricote Vieiliot, Nouv. Diet. Hist. Nat., 28, 1819, p. 551, 
+ Rallus chiricote Vieiliot, Nouv. Dict. Hist. Nat., 28, 1819, p. 551, 
 
 
 
@@ -23959,7 +23959,7 @@ Aramides 3rpecaha (Vieillot)
 
 
 
-Rallus ypecaha Vieillot, Nouv. Diet. Hist. Nat., 28, 1819, p. 568. (Para- 
+Rallus ypecaha Vieillot, Nouv. Dict. Hist. Nat., 28, 1819, p. 568. (Para- 
 
  guay, ex Azara no. 367.) 
 
@@ -25116,7 +25116,7 @@ Porzana albicollis albicollis (Vieillot)
 
 
 
-Rallus albicollis Vieillot, Nouv. Diet. Hist. Nat., 28, 1819, p. 561. 
+Rallus albicollis Vieillot, Nouv. Dict. Hist. Nat., 28, 1819, p. 561. 
 
 
 
@@ -25876,7 +25876,7 @@ Laterallus melanophaius melanophaius (VieUlot)
 
 
 
-Rallus melanophaius Vieillot, Nouv. Diet. Hist. Nat., 28, 1819, p. 549. 
+Rallus melanophaius Vieillot, Nouv. Dict. Hist. Nat., 28, 1819, p. 549. 
 
  (Paraguay, ex Azara.) 
 
@@ -26015,7 +26015,7 @@ Laterallus leucopyrrhus (Vieillot)
 
 
 
-Rallus leucopyrrhus Vieillot, Nouv. Diet. Hist. Nat., 28, 1819, p. 550. 
+Rallus leucopyrrhus Vieillot, Nouv. Dict. Hist. Nat., 28, 1819, p. 550. 
 
  (Paraguay, ex Azara.) 
 
@@ -26374,7 +26374,7 @@ Sarothrura rufa elizabeihse van Someren, Bull. Brit. Orn. CI., 40, 1919,
 
 
 
-Rallus rufus Vieillot, Nouv. Diet. Hist. Nat., 28, 1819, p. 564. (Africa.) 
+Rallus rufus Vieillot, Nouv. Dict. Hist. Nat., 28, 1819, p. 564. (Africa.) 
 
  South Africa north to the Transvaal. 
 
@@ -26699,7 +26699,7 @@ Poliolimnas cinereus cinereus (Vieillot)
 
 
 
-Porphyrio cinereus Vieillot, Nouv. Diet. Hist. Nat., 28, 1819, p. 29. (No 
+Porphyrio cinereus Vieillot, Nouv. Dict. Hist. Nat., 28, 1819, p. 29. (No 
 
  locality. Java designated by Mathews, Bds. Austr., 1, 1911, p. 219.) 
 
@@ -26864,7 +26864,7 @@ Porphyriops melanops melanops (Vieillot)
 
 
 
-Rallus melanops Vieillot, Nouv. Diet. Hist. Nat., 28, 1819, p. 553. 
+Rallus melanops Vieillot, Nouv. Dict. Hist. Nat., 28, 1819, p. 553. 
 
  (Paraguay.) 
 
@@ -28545,7 +28545,7 @@ Fulica armillata Vieillot
 
 
 
-Fulica armillata Vieillot, Nouv. Diet. Hist. Nat., 12, 1817, p. 47. 
+Fulica armillata Vieillot, Nouv. Dict. Hist. Nat., 12, 1817, p. 47. 
 
  (Paraguay.) 
 
@@ -28596,7 +28596,7 @@ Fulica leucoptera Vieillot
 
 
 
-Fulica leucoptera Vieillot, Nouv. Diet. Hist, Nat., 12, 1817, p. 48. 
+Fulica leucoptera Vieillot, Nouv. Dict. Hist. Nat., 12, 1817, p. 48. 
 
  (Paraguay.) 
 
@@ -28682,7 +28682,7 @@ Podica senegalensis senegalensis (VieiUot)
 
 
 
-Heliornis senegalensis Vieillot, Nouv. Diet. Hist. Nat., 14, 1817, p. 277. 
+Heliornis senegalensis Vieillot, Nouv. Dict. Hist. Nat., 14, 1817, p. 277. 
 
  (Senegal.) 
 
@@ -30735,7 +30735,7 @@ Nycticryphes semi-collaris (Vieillot)
 
 
 
-Totanus semi-collaris Vieillot, Nouv. Diet. Hist. Nat., 6, 1816, p. 402. 
+Totanus semi-collaris Vieillot, Nouv. Dict. Hist. Nat., 6, 1816, p. 402. 
 
  (Paraguay, ex Azara no. 405.) 
 
@@ -31080,7 +31080,7 @@ Haematopus moquini Bonaparte,^ Compt. Rend. Acad. Sci. Paris, 43,
 
 
 
-Haematopus longirostris Vieillot, Nouv. Diet. Hist. Nat., 15, 1817, 
+Haematopus longirostris Vieillot, Nouv. Dict. Hist. Nat., 15, 1817, 
 
 
 
@@ -32199,7 +32199,7 @@ Zonifer tricolor (Vieillot)
 
 
 
-Charadrius tricolor Vieillot, Nouv. Diet. Hist. Nat., 27, 1818, p. 147. 
+Charadrius tricolor Vieillot, Nouv. Dict. Hist. Nat., 27, 1818, p. 147. 
 
 
 
@@ -33372,7 +33372,7 @@ Charadrius collaris Vieillot
 
 
 
-Charadrius collaris Vieillot, Nouv. Diet. Hist. Nat., 27, 1818, p. 136. 
+Charadrius collaris Vieillot, Nouv. Dict. Hist. Nat., 27, 1818, p. 136. 
 
  (Paraguay, ex Azara.) 
 
@@ -33576,7 +33576,7 @@ Charadrius tricollaris tricollaris Vieillot
 
 
 
-Charadrius tricollaris Vieillot, Nouv. Diet. Hist. Nat., 27, 1818, p. 147. 
+Charadrius tricollaris Vieillot, Nouv. Dict. Hist. Nat., 27, 1818, p. 147. 
 
  (Africa, restricted type locality. Cape Town, Grant, Ibis, 1915, p. 57.) 
 
@@ -33814,7 +33814,7 @@ Elseyornis melanops (Vieillot)
 
 
 
-Charadrius melanops Vieillot, Nouv. Diet. Hist. Nat., 27, 1818, p. 139. 
+Charadrius melanops Vieillot, Nouv. Dict. Hist. Nat., 27, 1818, p. 139. 
 
 
 
@@ -34618,7 +34618,7 @@ Numenius tenuirostris Vieillot
 
 
 
-Numenius tenuirostris Vieillot, Nouv. Diet. Hist. Nat., 8, 1817, p. 302. 
+Numenius tenuirostris Vieillot, Nouv. Dict. Hist. Nat., 8, 1817, p. 302. 
 
  (Egypt.) 
 
@@ -34719,7 +34719,7 @@ Scolopax madagascariensis Linne, Syst. Nat., ed. 12, 1, 1766, p. 242.
 
  antea, p. 150.) 
 
- Numenius cyanopus VieUlot, Nouv. Diet. Hist. Nat., 8, 1817, p. 306. 
+ Numenius cyanopus VieUlot, Nouv. Dict. Hist. Nat., 8, 1817, p. 306. 
 
 
 
@@ -35681,7 +35681,7 @@ Heteroscelus brevipes (Vieillot)
 
 
 
-Totanus brevipes Vieillot, Nouv. Diet. Hist. Nat., 6, 1816, p. 410. (No 
+Totanus brevipes Vieillot, Nouv. Dict. Hist. Nat., 6, 1816, p. 410. (No 
 
  locality given; the type is from Timor.) 
 
@@ -36485,7 +36485,7 @@ Scolopax delicata Ord, in reprint Wilson, Am. Orn., 9, 1825, p. ccxviii.
 
 
 
-Scolopax Paraguaix Vieillot, Nouv. Diet. Hist. Nat., 3, 1816, p. 356. 
+Scolopax Paraguaix Vieillot, Nouv. Dict. Hist. Nat., 3, 1816, p. 356. 
 
 
 
@@ -37328,7 +37328,7 @@ Erolia minutilla (Vieillot)
 
 
 
-Tringa minutilla Vieillot, Nouv. Diet. Hist. Nat., 34, 1819, p. 466. 
+Tringa minutilla Vieillot, Nouv. Dict. Hist. Nat., 34, 1819, p. 466. 
 
  ("Am6rique jusq'au dela du Canada": restricted type locality, 
 
@@ -37377,7 +37377,7 @@ Erolia fuscicollis (Vieillot)
 
 
 
-Tringa fuscicollis Vieillot, Nouv. Diet. Hist. Nat., 34, 1819, p. 461. 
+Tringa fuscicollis Vieillot, Nouv. Dict. Hist. Nat., 34, 1819, p. 461. 
 
  (Paraguay, ex Azara, no. 404.) 
 
@@ -37425,7 +37425,7 @@ Erolia melanotos (Vieillot)
 
 
 
-Tringa melanotos Vieillot, Nouv. Diet. Hist. Nat., 34, 1819, p. 462. 
+Tringa melanotos Vieillot, Nouv. Dict. Hist. Nat., 34, 1819, p. 462. 
 
  (Paraguay, ex Azara, no. 401.)^ 
 
@@ -37671,7 +37671,7 @@ Erolia alpina sakhalina (Vieillot)
 
 
 
-Scolopax sakhalina Vieillot, Nouv. Diet. Hist. Nat., 3, 1816, p. 359. 
+Scolopax sakhalina Vieillot, Nouv. Dict. Hist. Nat., 3, 1816, p. 359. 
 
  (Russia = Island of Sakhalin ex Krusenstern.) 
 
@@ -37849,7 +37849,7 @@ Tryngites subruficollis (Vieillot)
 
 
 
-Tringa subruficollis Vieillot, Nouv. Diet. Hist. Nat., 34, 1819, p. 465. 
+Tringa subruficollis Vieillot, Nouv. Dict. Hist. Nat., 34, 1819, p. 465. 
 
  (Paraguay, ex Azara, no. 320.) 
 
@@ -38107,7 +38107,7 @@ pi. 6, f. 2. (Kauai, Hawaiian Islands.)
 
 
 
-Himantopus melanurus Vieillot, Nouv. Diet. Hist. Nat., 10, 1817, p. 42. 
+Himantopus melanurus Vieillot, Nouv. Dict. Hist. Nat., 10, 1817, p. 42. 
 
 
 
@@ -38139,7 +38139,7 @@ Cladorhynchus leucocephala (Vieillot)
 
 
 
-Recurvirostra leucocephala Vieillot, Nouv. Diet. Hist. Nat., 3, 1816, 
+Recurvirostra leucocephala Vieillot, Nouv. Dict. Hist. Nat., 3, 1816, 
 
 
 
@@ -38244,7 +38244,7 @@ Recurvirostra novae-hoUandiae Vieillot
 
 
 
-Recurvirostra Novx-Hollandiae Vieillot, Nouv. Diet. Hist. Nat., 3, 1816, 
+Recurvirostra Novx-Hollandiae Vieillot, Nouv. Dict. Hist. Nat., 3, 1816, 
 
 
 
@@ -38349,7 +38349,7 @@ Genus STEGANOPUS Vieillot
 
 
 
-Steganopus Vieillot, Nouv. Diet. Hist. Nat., 24, 1818, p. 124. Type, by 
+Steganopus Vieillot, Nouv. Dict. Hist. Nat., 24, 1818, p. 124. Type, by 
 
  monotypy, Le Chorlito a tarse comprime of Azara = Steganopus 
 
@@ -38363,7 +38363,7 @@ Steganopus tricolor Vieillot
 
 
 
-Steganopus tricolor Vieillot, Nouv. Diet. Hist. Nat., 32, 1819, p. 136. 
+Steganopus tricolor Vieillot, Nouv. Dict. Hist. Nat., 32, 1819, p. 136. 
 
  (Paraguay, ex Azara, no. 407.) 
 
@@ -40777,7 +40777,7 @@ Stercorarius longicaudus Vieillot
 
 
 
-Stercorarius longicaudus Vieillot, Nouv. Diet. Hist. Nat., 32, 1819, p. 157. 
+Stercorarius longicaudus Vieillot, Nouv. Dict. Hist. Nat., 32, 1819, p. 157. 
 
  (The north of Europe, Asia and America; restricted type locality, 
 
@@ -41125,7 +41125,7 @@ Larus crassirostris Vieillot
 
 
 
-Larus crassirostris Vieillot, Nouv. Diet. Hist. Nat., 21, 1818, p. 508. 
+Larus crassirostris Vieillot, Nouv. Dict. Hist. Nat., 21, 1818, p. 508. 
 
  (Nagasaki, Japan, ex pi. 57 of Krusenstern's Voyage.) 
 
@@ -41974,7 +41974,7 @@ Breeds on the inland lakes of the high plateaus of central Asia from
 
 
 
-Larus cirrocephalus (sic) Vieillot, Nouv. Diet. Hist. Nat., 21, 1818, 
+Larus cirrocephalus (sic) Vieillot, Nouv. Dict. Hist. Nat., 21, 1818, 
 
 
 
@@ -42950,7 +42950,7 @@ Phaetusa simplex chloropoda (Vieillot)
 
 
 
-Sterna chloropoda Vieillot, Nouv. Diet. Hist. Nat., 32, 1819, p. 171. 
+Sterna chloropoda Vieillot, Nouv. Dict. Hist. Nat., 32, 1819, p. 171. 
 
  (Paraguay, ex Azara, no. 412.) 
 
@@ -44206,7 +44206,7 @@ Hydrochelidon albistriata G. R. Gray, Voy. 'Erebus' and 'Terror,' Bds.,
 
 
 
-Sterna superciliaris Vieillot, Nouv. Diet. Hist. Nat., 32, 1819, p. 176. 
+Sterna superciliaris Vieillot, Nouv. Dict. Hist. Nat., 32, 1819, p. 176. 
 
 
 
@@ -45551,7 +45551,7 @@ R3^chops flavirostris Vieillot
 
 
 
-Rhyncops flavirostris Vieillot, Nouv. Diet. Hist. Nat., 3, 1816, p. 338. 
+Rhyncops flavirostris Vieillot, Nouv. Dict. Hist. Nat., 3, 1816, p. 338. 
 
  ("Australasie," error = Senegal.) 
 

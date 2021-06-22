@@ -3409,7 +3409,7 @@ Tinamus solitarius (Vieillot)
 
 
 
-Cryptura solitaria Vieillot, Nouv. Diet. Hist. Nat., 34, 1819, p. 105. 
+Cryptura solitaria Vieillot, Nouv. Dict. Hist. Nat., 34, 1819, p. 105. 
 
 
 
@@ -10896,7 +10896,7 @@ Oceanodroma leucorhoa leucorhoa (Vieillot)
 
 
 
-Procellaria leucorhoa Vieillot, Nouv. Diet. Hist. Nat., 25, 1817, p. 422. 
+Procellaria leucorhoa Vieillot, Nouv. Dict. Hist. Nat., 25, 1817, p. 422. 
 
  (Maritime parts of Picardy.) 
 
@@ -13067,7 +13067,7 @@ Southern Australia; Tasmania?
 
 
 
-Hydrocorax fuscescens Vieillot, Nouv. Diet. Hist. Nat., 8, 1817, p. 86. 
+Hydrocorax fuscescens Vieillot, Nouv. Dict. Hist. Nat., 8, 1817, p. 86. 
 
 
 
@@ -13372,7 +13372,7 @@ Stuart Baker, Fauna Brit. Ind., ed. 2, Bds., 6, 1929, p. 280-281.
 
 
 
-Hydrocorax melanoleucos Vieillot, Nouv. Diet. Hist. Nat., 8, 1817, p. 88. 
+Hydrocorax melanoleucos Vieillot, Nouv. Dict. Hist. Nat., 8, 1817, p. 88. 
 
  (" Australasie," restricted type locality, New South Wales fide 
 
@@ -13452,7 +13452,7 @@ Halietor niger (Vieillot)
 
 
 
-Hydrocorax niger Vieillot, Nouv. Diet. Hist. Nat., 8, 1817, p. 88. (East 
+Hydrocorax niger Vieillot, Nouv. Dict. Hist. Nat., 8, 1817, p. 88. (East 
 
  Indies = Bengal.) 
 
@@ -14868,7 +14868,7 @@ ORDER CICONIIFORMES 105
 
 
 
-Ardea cyanura Vieillot, Nouv. Diet. Hist. Nat., 14, 1817, p. 421, (Para- 
+Ardea cyanura Vieillot, Nouv. Dict. Hist. Nat., 14, 1817, p. 421, (Para- 
 
  guay.) 
 
@@ -16600,7 +16600,7 @@ Eastern Central America from the Segovia River south to Panama,
 
 
 
-Ardea marmorata Vieillot, Nouv. Diet. Hist. Nat., 14, 1817, p. 415. 
+Ardea marmorata Vieillot, Nouv. Dict. Hist. Nat., 14, 1817, p. 415. 
 
  (Paraguay.) 
 
@@ -17061,7 +17061,7 @@ Ixobrychus exilis erythromelas (Vieillot)
 
 
 
-Ardea erythromelas Vieillot, Nouv. Diet. Hist. Nat., 14, 1817, p. 422. 
+Ardea erythromelas Vieillot, Nouv. Dict. Hist. Nat., 14, 1817, p. 422. 
 
  (Paraguay.) 
 
@@ -18710,7 +18710,7 @@ f Harpiprion caerulescens (Vieillot)
 
 
 
-Ibis coerulescens Vieillot, Nouv. Diet. Hist. Nat., 16, 1817, p. 18. (Para- 
+Ibis coerulescens Vieillot, Nouv. Dict. Hist. Nat., 16, 1817, p. 18. (Para- 
 
  guay.) 
 
@@ -20842,7 +20842,7 @@ Dendrocygna bicolor bicolor (Vieillot)
 
 
 
-Anas bicolor Vieillot, Nouv. Diet. Hist. Nat., 5, 1816, p. 136. (Paraguay.) 
+Anas bicolor Vieillot, Nouv. Dict. Hist. Nat., 5, 1816, p. 136. (Paraguay.) 
 
  Northern tropical South America from Colombia to the Guianas; Trini- 
 
@@ -21985,7 +21985,7 @@ Anas cyanoptera cyanoptera Vieillot
 
 
 
-Anas cyanoptera Vieillot, Nouv. Diet. Hist. Nat., 5, 1816, p. 104. (La 
+Anas cyanoptera Vieillot, Nouv. Dict. Hist. Nat., 5, 1816, p. 104. (La 
 
  Plata River and Buenos Aires.) 
 
@@ -22326,7 +22326,7 @@ Breeds in northern Asia south of the Arctic Circle from the upper Yenesei
 
 
 
-Anas leucophrys Vieillot, Nouv. Diet. Hist. Nat., 5, 1816, p. 156. (Para- 
+Anas leucophrys Vieillot, Nouv. Dict. Hist. Nat., 5, 1816, p. 156. (Para- 
 
  guay.) 
 
@@ -22406,7 +22406,7 @@ Anas Puna Tschudi, Arch. f. Naturg., 10, Band 1, 1844, p. 315. (Peru.)
 
 
 
-Anas versicolor Vieillot, Nouv. Diet. Hist. Nat., 5, 1816, p. 109. (Para- 
+Anas versicolor Vieillot, Nouv. Dict. Hist. Nat., 5, 1816, p. 109. (Para- 
 
  guay.) 
 
@@ -22463,7 +22463,7 @@ Andean region of central and southern Peru, western Bolivia, northern
 
 
 
-Anas flavirostris Vieillot, Nouv. Diet. Hist. Nat., 5, 1816, p. 107. (Bue- 
+Anas flavirostris Vieillot, Nouv. Dict. Hist. Nat., 5, 1816, p. 107. (Bue- 
 
  nos Aires.) 
 
@@ -22517,7 +22517,7 @@ Island of South Georgia.
 
 
 
-Anas spinicauda Vieillot, Nouv. Diet. Hist. Nat., 5, 1816, p. 135. 
+Anas spinicauda Vieillot, Nouv. Dict. Hist. Nat., 5, 1816, p. 135. 
 
 
 
@@ -22560,7 +22560,7 @@ Anas acuta tzitzihoa Vieillot
 
 
 
-Anas tzitzihoa Vieillot, Nouv. Diet. Hist. Nat., 5, 1816, p. 163. (Mexico, 
+Anas tzitzihoa Vieillot, Nouv. Dict. Hist. Nat., 5, 1816, p. 163. (Mexico, 
 
  ex Hernandez.) 
 
@@ -22612,7 +22612,7 @@ Anas bahamensis rubrirostris Vieillot
 
 
 
-Anas rubrirostris VieUlot, Nouv. Diet. Hist. Nat., 5, 1816, p. 108. (Bue- 
+Anas rubrirostris VieUlot, Nouv. Dict. Hist. Nat., 5, 1816, p. 108. (Bue- 
 
  nos Aires.) 
 
@@ -22874,7 +22874,7 @@ Spatula platalea (Vieillot)
 
 
 
-Anas platalea Vieillot, Nouv. Diet. Hist. Nat., 5, 1816, p. 157. (Para- 
+Anas platalea Vieillot, Nouv. Dict. Hist. Nat., 5, 1816, p. 157. (Para- 
 
  guay.) 
 
@@ -23312,7 +23312,7 @@ Metopiana peposaca (Vieillot)
 
 
 
-Anas peposaca Vieillot, Nouv. Diet. Hist. Nat., 5, 1816, p. 132. (Para- 
+Anas peposaca Vieillot, Nouv. Dict. Hist. Nat., 5, 1816, p. 132. (Para- 
 
  guay and Buenos Aires.) 
 
@@ -25019,7 +25019,7 @@ Mergus octosetaceus Vieillot
 
 
 
-Mergus octosetaceus Vieillot, Nouv. Diet. Hist. Nat., 14, 1817, p. 222. 
+Mergus octosetaceus Vieillot, Nouv. Dict. Hist. Nat., 14, 1817, p. 222. 
 
 
 
@@ -25688,7 +25688,7 @@ CI., 7, 1920, p. 46. (San Rafael, California.)
 
 
 
-Milvus leucurus VieiUot, Nouv. Diet. Hist. Nat., 20, 1818, p. 563. 
+Milvus leucurus VieiUot, Nouv. Dict. Hist. Nat., 20, 1818, p. 563. 
 
 
 
@@ -25815,7 +25815,7 @@ Genus ELANOIDES Vieillot
 
 
 
-Elanoides Vieillot, Nouv. Diet. Hist. Nat., 24, 1818, p. 101. Type, by 
+Elanoides Vieillot, Nouv. Dict. Hist. Nat., 24, 1818, p. 101. Type, by 
 
  monotypy, Milan de la CaroUne = Falco forficatus Linne. 
 
@@ -25851,7 +25851,7 @@ Breeds locally from northern Minnesota, southern Indiana and South
 
 
 
-Milvus yetapa Vieillot, Nouv. Diet. Hist. Nat., 20, 1818, p. 564. (Para- 
+Milvus yetapa Vieillot, Nouv. Dict. Hist. Nat., 20, 1818, p. 564. (Para- 
 
  guay ex Azara.) [cf. also Tabl. Encyc. M6th., 3, 1823, p. 1205.] 
 
@@ -26775,7 +26775,7 @@ Breeds locally in tropical Florida, Cuba, Isle of Pines, eastern Mexico to
 
 
 
-Herpetotheres sociabilis Vieillot, Nouv. Diet. Hist. Nat., 18, 1817, p. 318. 
+Herpetotheres sociabilis Vieillot, Nouv. Dict. Hist. Nat., 18, 1817, p. 318. 
 
  (Corrientes and Rio de la Plata.) 
 
@@ -27220,7 +27220,7 @@ Haliastur sphenurus sphenurus (Vieillot)
 
 
 
-Milvus sphenurus Vieillot, Nouv. Diet. Hist. Nat., 20, 1818, p. 564. 
+Milvus sphenurus Vieillot, Nouv. Dict. Hist. Nat., 20, 1818, p. 564. 
 
 
 
@@ -28732,7 +28732,7 @@ Accipiter bicolor bicolor (Vieillot)
 
 
 
-Sparvius bicolor Vieillot, Nouv. Diet. Hist. Nat., 10, 1817, p. 325. 
+Sparvius bicolor Vieillot, Nouv. Dict. Hist. Nat., 10, 1817, p. 325. 
 
 
 
@@ -29623,7 +29623,7 @@ New Guinea.
 
 
 
-Sparvius cirrhocephalus Vieillot, Nouv. Diet. Hist. Nat., 10, 1817, p. 329. 
+Sparvius cirrhocephalus Vieillot, Nouv. Dict. Hist. Nat., 10, 1817, p. 329. 
 
 
 
@@ -30072,7 +30072,7 @@ Andes of M6rida, Venezuela; perhaps also mountains of Colombia and
 
 
 
-Spizaetus melanoleucus Vieillot, Nouv. Diet. Hist. Nat., 32, 1819, p. 57. 
+Spizaetus melanoleucus Vieillot, Nouv. Dict. Hist. Nat., 32, 1819, p. 57. 
 
  (Paraguay.) 
 
@@ -30230,7 +30230,7 @@ Buteo albicaudatus albicaudatus Vieillot
 
 
 
-Buteo albicaudatus Vieillot, Nouv. Diet. Hist. Nat., 4, 1816, p. 477. 
+Buteo albicaudatus Vieillot, Nouv. Dict. Hist. Nat., 4, 1816, p. 477. 
 
  (South America = Rio de Janeiro apud Berlepsch, Nov. Zool., 15, 
 
@@ -31506,7 +31506,7 @@ Buteo magnirostris superciliaris (Vieillot)
 
 
 
-Sparvius superciliaris Vieillot, Nouv. Diet. Hist. Nat., 10, 1817, p. 328. 
+Sparvius superciliaris Vieillot, Nouv. Dict. Hist. Nat., 10, 1817, p. 328. 
 
  (Paraguay.) 
 
@@ -31578,7 +31578,7 @@ Buteo brachyurus Vieillot
 
 
 
-Buteo brachyurus Vieillot, Nouv. Diet. Hist. Nat., 4, 1816, p. 477. (No 
+Buteo brachyurus Vieillot, Nouv. Dict. Hist. Nat., 4, 1816, p. 477. (No 
 
  type locality = Cayenne, substituted by Berlepsch, Nov. Zool., 15, 
 
@@ -32369,7 +32369,7 @@ Harpyhaliaetus coronatus (Vieillot)
 
 
 
-Harpyia coronata Vieillot, Nouv. Diet. Hist. Nat., 14, 1817, p. 237. 
+Harpyia coronata Vieillot, Nouv. Dict. Hist. Nat., 14, 1817, p. 237. 
 
  (Paraguay, ex Azara.) 
 
@@ -32586,7 +32586,7 @@ Spizastur melanoleucus (Vieillot)
 
 
 
-Buteo melanoleucus Vieillot, Nouv. Diet. Hist. Nat., 4, 1816, p. 482. 
+Buteo melanoleucus Vieillot, Nouv. Dict. Hist. Nat., 4, 1816, p. 482. 
 
 
 
@@ -34891,7 +34891,7 @@ Natal and Cape Province.
 
 
 
-Circus cinereus Vieillot, Nouv. Diet. Hist. Nat., 4, 1816, p. 454. (Para- 
+Circus cinereus Vieillot, Nouv. Dict. Hist. Nat., 4, 1816, p. 454. (Para- 
 
  guay, ex Azara.) 
 
@@ -35199,7 +35199,7 @@ Eastern Panama and tropical South America west of the Andes to south-
 
 
 
-Sparvius caerulescens Vieillot, Nouv. Diet. Hist. Nat., 10, 1817, p. 318. 
+Sparvius caerulescens Vieillot, Nouv. Dict. Hist. Nat., 10, 1817, p. 318. 
 
  (South America: Cayenne, designated as type locality by Berlepsch 
 
@@ -35429,7 +35429,7 @@ Circaetus cinereus Vieillot
 
 
 
-Circaetus cinereus Vieillot, Nouv. Diet. Hist. Nat., 23, 1818, p. 445. 
+Circaetus cinereus Vieillot, Nouv. Dict. Hist. Nat., 23, 1818, p. 445. 
 
  (Senegal.) 
 
@@ -36102,7 +36102,7 @@ Breeds in Europe and Asia from Scotland (formerly) and Lapland east
 
 
 
-Buteo cristatus Vieillot, Nouv. Diet. Hist. Nat., 4, 1816, p. 481. (New 
+Buteo cristatus Vieillot, Nouv. Dict. Hist. Nat., 4, 1816, p. 481. (New 
 
  South Wales = Tasmania, fide Mathews.) 
 
@@ -36155,7 +36155,7 @@ Genus HERPETOTHERES Vieillot
 
 
 
-Herpetotheres Vieillot, Nouv. Diet. Hist. Nat., 18, 1817, p. 317. Type, by- 
+Herpetotheres Vieillot, Nouv. Dict. Hist. Nat., 18, 1817, p. 317. Type, by- 
 
  subsequent designation, Falco cachinnans Linne. (Gray, List Gen. 
 
@@ -36298,7 +36298,7 @@ Carnifex naso Lesson, ficho du Monde Savant, (6), 2, 1842, col. 1085.
 
 Micrastur semitorquatus semitorquatus (VieiUot) 
 
- Sparvius semi-tor quatusYieiHot, Nouv. Diet. Hist. Nat., 10, 1817, p. 322. 
+ Sparvius semi-tor quatusYieiHot, Nouv. Dict. Hist. Nat., 10, 1817, p. 322. 
 
 
 
@@ -36338,7 +36338,7 @@ Southeastern Costa Rica to the Guianas, eastern Peru and northern
 
 Micrastur ruficollis ruficoUis (Vieillot) 
 
- Sparvius ruficollis Vieillot, Nouv. Diet. Hist. Nat., 10, 1817, p. 322. 
+ Sparvius ruficollis Vieillot, Nouv. Dict. Hist. Nat., 10, 1817, p. 322. 
 
  (South America = Brazil, subst. by Swann, supra, p. 145.) 
 
@@ -36407,7 +36407,7 @@ Micrastur ruficollis gilvicollis (Vieillot)
 
 
 
-Sparvius gilvicollis Vieillot, Nouv. Diet. Hist. Nat., 10, 1817, p. 323. 
+Sparvius gilvicollis Vieillot, Nouv. Dict. Hist. Nat., 10, 1817, p. 323. 
 
  (No locality = Cayenne, substituted by Hellmayr, Nov. Zool., 17, 
 
@@ -36572,7 +36572,7 @@ Milvago chimachima chimachima (Vieillot)
 
 
 
-Polyborus chimachima Vieillot, Nouv. Diet. Hist. Nat., 5, 1816, p. 259. 
+Polyborus chimachima Vieillot, Nouv. Dict. Hist. Nat., 5, 1816, p. 259. 
 
 
 
@@ -36588,7 +36588,7 @@ Milvago chimango chimango (Vieillot)
 
 
 
-Polyborus chimango Vieillot, Nouv. Diet. Hist. Nat., 5, 1816, p. 260. 
+Polyborus chimango Vieillot, Nouv. Dict. Hist. Nat., 5, 1816, p. 260. 
 
  (Rare in Paraguay, common on the Rio de la Plata, ex Azara.) 
 
@@ -38469,7 +38469,7 @@ Arizona, New Mexico and southern Texas south through Mexico to Gua-
 
 Falco fuscocaerulescens fuscocaerulescens Vieillot 
 
- Falco fusco-coerulescens Vieillot, Nouv. Diet. Hist. Nat., 11, 1817, p. 90. 
+ Falco fusco-coerulescens Vieillot, Nouv. Dict. Hist. Nat., 11, 1817, p. 90. 
 
 
 

@@ -1160,7 +1160,7 @@ Tauraco persa buffoni (Vieillot)
 
 
 
-Opoethus Buffoni Vieillot, Nouv. Diet. Hist. Nat., 34, 1819, p. 304. 
+Opoethus Buffoni Vieillot, Nouv. Dict. Hist. Nat., 34, 1819, p. 304. 
 
 
 
@@ -1483,7 +1483,7 @@ Tauraco erythrolophus (Vieillot)
 
 
 
-Opaethus erythrolophus Vieillot, Nouv. Diet. Hist. Nat., 34, 1819, p. 306. 
+Opaethus erythrolophus Vieillot, Nouv. Dict. Hist. Nat., 34, 1819, p. 306. 
 
 
 
@@ -4180,7 +4180,7 @@ Cacomantis pyrrophanus pyrrophanus (Vieillot)
 
 
 
-Cuculus pyrrophanus Vieillot, Nouv. Diet. Hist. Nat., 8, 1817, p. 234. 
+Cuculus pyrrophanus Vieillot, Nouv. Dict. Hist. Nat., 8, 1817, p. 234. 
 
 
 
@@ -5886,7 +5886,7 @@ Coccyzus cinereus Vieillot
 
 
 
-Coccyzus cinereus Vieillot, Nouv. Diet. Hist. Nat., 8, 1817, p. 272. 
+Coccyzus cinereus Vieillot, Nouv. Dict. Hist. Nat., 8, 1817, p. 272. 
 
  (Paraguay.) 
 
@@ -6265,7 +6265,7 @@ Coccyzus melacoryphus Vieillot
 
 
 
-Coccyzus melacoryphus Vieillot, Nouv. Diet. Hist. Nat., 8, 1817, p. 271. 
+Coccyzus melacoryphus Vieillot, Nouv. Dict. Hist. Nat., 8, 1817, p. 271. 
 
  (Paraguay.) 
 
@@ -6779,7 +6779,7 @@ Piaya melanogaster melanogaster (Vieillot)
 
 
 
-Cuculus melanogaster Vieillot, Nouv. Diet. Hist. Nat., 8, 1817, p. 236. 
+Cuculus melanogaster Vieillot, Nouv. Dict. Hist. Nat., 8, 1817, p. 236. 
 
 
 
@@ -6876,7 +6876,7 @@ Piaya minuta minuta (Vieillot)
 
 
 
-Coccyzus minutus Vieillot, Nouv. Diet. Hist. Nat., 8, 1817, p. 275. 
+Coccyzus minutus Vieillot, Nouv. Dict. Hist. Nat., 8, 1817, p. 275. 
 
 
 
@@ -7083,7 +7083,7 @@ Ceuthmochares aereus aereus (Vieillot)
 
 
 
-Cuculus xreus Vieillot, Nouv. Diet. Hist. Nat., 8, 1817, p. 229. (Mal- 
+Cuculus xreus Vieillot, Nouv. Dict. Hist. Nat., 8, 1817, p. 229. (Mal- 
 
  imbe, Portuguese Congo.) 
 
@@ -8090,7 +8090,7 @@ Tapera naevia chochi (Vieillot)
 
 
 
-Coccyzus chochi Vieillot, Nouv. Diet. Hist. Nat., 8, 1817, p. 272. 
+Coccyzus chochi Vieillot, Nouv. Dict. Hist. Nat., 8, 1817, p. 272. 
 
  (Paraguay.) 
 
@@ -14109,7 +14109,7 @@ Central and eastern Brazil, south of the range of O. c. crucigerus, to
 
 Otus choliba choliba (Vieillot) 
 
- Strix choliba Vieillot, Nouv. Diet. Hist. Nat., 7, 1817, p. 39. (Paraguay.) 
+ Strix choliba Vieillot, Nouv. Dict. Hist. Nat., 7, 1817, p. 39. (Paraguay.) 
 
  Extreme southern Matto Grosso and Sao Paulo, south through eastern 
 
@@ -14254,7 +14254,7 @@ p. 259. (St. Croix, Virgin Islands, ex Ibis, 1859, pi. 1.)
 
 Antilles.) 
 
- ?Strix psilopoda Vieillot, Nouv. Diet. Hist. Nat., 7, 1817, p. 46. (New 
+ ?Strix psilopoda Vieillot, Nouv. Dict. Hist. Nat., 7, 1817, p. 46. (New 
 
 
 
@@ -14952,7 +14952,7 @@ Bubo magellanicus deserti Reiser, Anz. K. Akad. Wiss. Wien, Math.-
 
 Bubo virginianus nacurutu (Vieillot) 
 
- Strix nacurutu Vieillot, Nouv. Diet. Hist. Nat., 7, 1817, p. 44. ("Magel- 
+ Strix nacurutu Vieillot, Nouv. Dict. Hist. Nat., 7, 1817, p. 44. ("Magel- 
 
  lanic lands," ex "hibou des terres magellaniques" of Buff on, pi. 385 
 
@@ -17220,7 +17220,7 @@ p. 323. (Concon, Intendencia de Valparaiso, Chile.)
 
 Glaucidium perlatum (Vieillot) 
 
- Strix perlata Vieillot, Nouv. Diet. Hist. Nat., 7, 1818, p. 26. (Senegal.) 
+ Strix perlata Vieillot, Nouv. Dict. Hist. Nat., 7, 1818, p. 26. (Senegal.) 
 
  Glaucidium albiventer Alexander, Bull. Brit. Orn. CI., 12, 1901, p. 10. 
 
@@ -18061,7 +18061,7 @@ Ninox fusca plesseni Stresemann, Orn. Monatsb., 37, 1929, p. 47.
 
 Ninox novaeseelandiae fusca (Vieillot) 
 
- Strix fusca Vieillot, Nouv. Diet. Hist. Nat., 7, 1817, p. 22. (Santo 
+ Strix fusca Vieillot, Nouv. Dict. Hist. Nat., 7, 1817, p. 22. (Santo 
 
  Domingo and Puerto Rico, error = Timor; see Sharpe, Ibis, 1875, 
 
@@ -18601,7 +18601,7 @@ p. 60. (Car Nicobar.)
 
 Ninox superciliaris (Vieillot) 
 
- Strix superciliaris Vieillot, Nouv. Diet. Hist. Nat., 7, 1817, p. 33. 
+ Strix superciliaris Vieillot, Nouv. Dict. Hist. Nat., 7, 1817, p. 33. 
 
  ("Je ne connois pas son pays"; type in the Paris Museum, = Mada- 
 
@@ -21611,7 +21611,7 @@ Rhinoptynx clamator midas (Schlegel)
 
 
 
-Strix maculata Vieillot, Nouv. Diet. Hist. Nat., 7, 1817, p. 45. (Para- 
+Strix maculata Vieillot, Nouv. Dict. Hist. Nat., 7, 1817, p. 45. (Para- 
 
  guay; based on "el Nacurutu chorreado" of Azara, Apunt., 1, p. 202.) 
 
@@ -21990,7 +21990,7 @@ Asio flammeus suinda (Vieillot)
 
 
 
-Strix suinda Vieillot, Nouv. Diet. Hist. Nat., 7, 1817, p. 34. (Paraguay 
+Strix suinda Vieillot, Nouv. Dict. Hist. Nat., 7, 1817, p. 34. (Paraguay 
 
  in lat. 27° S., and Rio de la Plata. 3 Ex Azara, no. XLV.) 
 
@@ -22688,7 +22688,7 @@ Genus PODARGUS Vieillot 1
 
 
 
-Podargus Vieillot, Nouv. Diet. Hist. Nat., 27, 1818, p. 151. Type, by 
+Podargus Vieillot, Nouv. Dict. Hist. Nat., 27, 1818, p. 151. Type, by 
 
 
 
@@ -23411,7 +23411,7 @@ Nyctibius griseus cornutus (Vieillot)
 
 
 
-Caprimulgus cornutus Vieillot, Nouv. Diet. Hist. Nat., 10, 1817, p. 245. 
+Caprimulgus cornutus Vieillot, Nouv. Dict. Hist. Nat., 10, 1817, p. 245. 
 
  (Paraguay.) 
 
@@ -24508,7 +24508,7 @@ Podager nacunda nacunda (Vieillot)
 
 
 
-Caprimulgus nacunda Vieillot, Nouv. Diet. Hist. Nat., 10, 1817, p. 240. 
+Caprimulgus nacunda Vieillot, Nouv. Dict. Hist. Nat., 10, 1817, p. 240. 
 
  (Paraguay.) 
 
@@ -28222,7 +28222,7 @@ Hydropsalis brasiliana furcifera (Vieillot)
 
 
 
-Caprimulgus furcifer Vieillot, Nouv. Diet. Hist. Nat., 10, 1817, p. 242. 
+Caprimulgus furcifer Vieillot, Nouv. Dict. Hist. Nat., 10, 1817, p. 242. 
 
  (Paraguay.) 
 
@@ -30896,7 +30896,7 @@ Chaetura rutila rutila (Vieillot)
 
 
 
-Hirundo rutila Vieillot, Nouv. Diet. Hist. Nat., 14, 1817, p. 528. 
+Hirundo rutila Vieillot, Nouv. Dict. Hist. Nat., 14, 1817, p. 528. 
 
 
 

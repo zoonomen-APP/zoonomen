@@ -10161,7 +10161,7 @@ AMMODRAMUS SAVANNARUM
 
 Ammodramus savannarum pratensis (Vieillot) 
 
- Passerina pratensis Vieillot, 1817, Nouv. Diet. Hist. Nat., 
+ Passerina pratensis Vieillot, 1817, Nouv. Dict. Hist. Nat., 
 
 
 
@@ -16351,7 +16351,7 @@ Emberizoides herbicola sphenurus (Vieillot)
 
 
 
-Passerina sphenura Vieillot, 1818, Nouv. Diet. Hist. Nat., 
+Passerina sphenura Vieillot, 1818, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 25 (1817), p. 25 — Cayenne. 
 
@@ -16389,7 +16389,7 @@ Emberizoides herbicola herbicola (Vieillot)
 
 
 
-Sylvia herbicola Vieillot, 1817, Nouv. Diet. Hist. Nat., 
+Sylvia herbicola Vieillot, 1817, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 11, p. 192 — Paraguay. 
 
@@ -16535,7 +16535,7 @@ Volatinia jacarina splendens (Vieillot)
 
 
 
-Fringilla splendens Vieillot, 1817, Nouv. Diet. Hist. Nat., 
+Fringilla splendens Vieillot, 1817, Nouv. Dict. Hist. Nat., 
 
 
 
@@ -28497,7 +28497,7 @@ Saltator coerulescens coerulescens Vieillot
 
 
 
-Saltator coerulescens Vieillot, 1817, Nouv. Diet. Hist. Nat., 
+Saltator coerulescens Vieillot, 1817, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 14, p. 105; based on "Habia de la Ceja 
 
@@ -28786,7 +28786,7 @@ Saltator atricollis Vieillot
 
 
 
-Saltator atricollis Vieillot, 1817, Nouv. Diet. Hist. Nat., 
+Saltator atricollis Vieillot, 1817, Nouv. Dict. Hist. Nat., 
 
 
 
@@ -28844,7 +28844,7 @@ Saltator albicollis albicollis Vieillot
 
 
 
-Saltator albicollis Vieillot, 1817, Nouv. Diet. Hist. Nat., 
+Saltator albicollis Vieillot, 1817, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 14, p. 107 — Cayenne ; error, Martinique sub- 
 
@@ -30303,7 +30303,7 @@ Schistochlamys ruficapillus ruficapillus (Vieillot)
 
 
 
-Saltator ruficapillus Vieillot, 1817, Nouv. Diet. Hist. Nat., 
+Saltator ruficapillus Vieillot, 1817, Nouv. Dict. Hist. Nat., 
 
 
 
@@ -33262,7 +33262,7 @@ Hemithraupis ruficapilla ruficapilla (Vieillot)
 
 
 
-Nemosia ruficapilla Vieillot, 1818, Nouv. Diet. Hist. Nat., 
+Nemosia ruficapilla Vieillot, 1818, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 22, p. 493 — apporte du Bresil par M. de 
 
@@ -33445,7 +33445,7 @@ Hemithraupis flavicollis flavicollis (Vieillot)
 
 
 
-Nemosia flavicollis Vieillot, 1818, Nouv. Diet. Hist. Nat., 
+Nemosia flavicollis Vieillot, 1818, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 22, p. 491 — l'Amerique meridionale [= Ca- 
 
@@ -36018,7 +36018,7 @@ Habia rubica rubra (Vieillot)
 
 
 
-Tachyphonus ruber Vieillot, 1819, Nouv. Diet. Hist. Nat., 
+Tachyphonus ruber Vieillot, 1819, Nouv. Dict. Hist. Nat., 
 
 
 
@@ -38929,7 +38929,7 @@ Thraupis cyanoptera (Vieillot)
 
 
 
-Saltator cyanopterus Vieillot, 1817, Nouv. Diet. Hist. Nat., 
+Saltator cyanopterus Vieillot, 1817, Nouv. Dict. Hist. Nat., 
 
 
 
@@ -39451,7 +39451,7 @@ Cyanicterus cyanicterus (Vieillot)
 
 
 
-Pyranga cyanicterus Vieillot, 1819, Nouv. Diet. Hist. Nat., 
+Pyranga cyanicterus Vieillot, 1819, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 28, p. 290 — l'Amerique meridionale ; Ca- 
 
@@ -40991,7 +40991,7 @@ Pipraeidea melanonota melanonota (Vieillot)
 
 
 
-Tanagra melanonota Vieillot, 1819, Nouv. Diet. Hist. Nat., 
+Tanagra melanonota Vieillot, 1819, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 32, p. 407 — Bresil [= Rio de Janeiro] . 
 
@@ -43820,7 +43820,7 @@ Tangara desmaresti (Vieillot)
 
 
 
-Tanagra Desmaresti Vieillot, 1819, Nouv. Diet. Hist. Nat., 
+Tanagra Desmaresti Vieillot, 1819, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 32, p. 410 — Bresil [=Rio de Janeiro, fide 
 
@@ -45305,7 +45305,7 @@ Tangara cayana chloroptera (Vieillot)
 
 
 
-Tanagra chloroptera Vieillot, 1819, Nouv. Diet. Hist. Nat., 
+Tanagra chloroptera Vieillot, 1819, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 32, p. 407 — Bresil ; type from southern 
 
@@ -49115,7 +49115,7 @@ Genus TERSINA Vieillot
 
 
 
-Tersina Vieillot, 1819, Nouv. Diet. Hist. Nat., nouv. ed., 
+Tersina Vieillot, 1819, Nouv. Dict. Hist. Nat., nouv. ed., 
 
  33, p. 401. Type, by monotypy, Tersina caerulea Viei- 
 

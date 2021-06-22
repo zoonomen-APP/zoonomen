@@ -3453,7 +3453,7 @@ SUIRIRI SUIRIRI
 
 Suiriri suiriri suiriri (Vieillot) 
 
- Muscicapa suiriri Vieillot, 1818, Nouv. Diet. Hist. Nat., nouv. 
+ Muscicapa suiriri Vieillot, 1818, Nouv. Dict. Hist. Nat., nouv. 
 
  ed., 21, p. 487; based on "Suiriri ordinario," no. 179, of 
 
@@ -4121,7 +4121,7 @@ Myiopagis viridicata viridicata (Vieillot)
 
 
 
-Sylvia viridicata Vieillot, 1817, Nouv. Diet. Hist. Nat., nouv. 
+Sylvia viridicata Vieillot, 1817, Nouv. Dict. Hist. Nat., nouv. 
 
 
 
@@ -5790,7 +5790,7 @@ SERPOPHAGA NIGRICANS
 
 Serpophaga nigricans (Vieillot) 
 
- Sylvia nigricans Vieillot, 1817, Nouv. Diet. Hist. Nat., nouv. 
+ Sylvia nigricans Vieillot, 1817, Nouv. Dict. Hist. Nat., nouv. 
 
  ed., 11, p. 204; presumably based on "Tachuri obscurito 
 
@@ -5887,7 +5887,7 @@ southern part of range. Whether or not occurring as a phase
 
 Serpophaga subcristata subcristata (Vieillot) 
 
- Sylvia subcristata Vieillot, 1817, Nouv. Diet. Hist. Nat., 
+ Sylvia subcristata Vieillot, 1817, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 11, p. 229; presumably based on "Contramaestre 
 
@@ -6738,7 +6738,7 @@ Tachuris rubrigastra loaensis Philippi and Johnson, 1946,
 
 
 
-Sylvia rubrigastra Vieillot, 1817, Nouv. Diet. Hist. Nat., 
+Sylvia rubrigastra Vieillot, 1817, Nouv. Dict. Hist. Nat., 
 
 
 
@@ -6796,7 +6796,7 @@ CULICIVORA CAUDACUTA
 
 Culicivora caudacuta (Vieillot) 
 
- Muscicapa caudacuta Vieillot, 1818, Nouv. Diet. Hist. Nat., 
+ Muscicapa caudacuta Vieillot, 1818, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 21, p. 455; based on "Cola de agujas," no. 227, 
 
@@ -6883,7 +6883,7 @@ and northern Brazil in Roraima and western Para and Amapa.
 
 Polystictus pectoralis pectoralis (Vieillot) 
 
- Sylvia pectoralis Vieillot, 1817, Nouv. Diet. Hist. Nat., nouv. 
+ Sylvia pectoralis Vieillot, 1817, Nouv. Dict. Hist. Nat., nouv. 
 
  ed., 11, p. 210; probably based on "Tachuri pecho amarillo," 
 
@@ -16675,7 +16675,7 @@ Muscicapa querula Wilson, 1810, Amer. Ornith., 2, p. 77,
 
 
 
-Platyrhynchos virescens Vieillot, 1818, Nouv. Diet. Hist. Nat., 
+Platyrhynchos virescens Vieillot, 1818, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 27, p. 22. New name for Muscicapa querula 
 
@@ -21076,7 +21076,7 @@ KNIPOLEGUS CYANIROSTRIS
 
 Knipolegus cyanirostris (Vieillot) 
 
- Muscicapa cyanirostris Vieillot, 1818, Nouv. Diet. Hist. Nat., 
+ Muscicapa cyanirostris Vieillot, 1818, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 21, p. 447; based on "Suiriri negro pico celeste," 
 
@@ -21362,7 +21362,7 @@ KNIPOLEGUS NIGERRIMUS
 
 Knipolegus nigerrimus (Vieillot) 
 
- Muscicapa nigerrima Vieillot, 1818, Nouv. Diet. Hist. Nat., 
+ Muscicapa nigerrima Vieillot, 1818, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 21, p. 453 — Brazil; cotypes in Paris Museum 
 
@@ -21802,7 +21802,7 @@ Pando; possibly Rio Purus, Brazil.
 
 Colonia colonus colonus (Vieillot) 
 
- Muscicapa colonus Vieillot, 1818, Nouv. Diet. Hist. Nat., 
+ Muscicapa colonus Vieillot, 1818, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 21, p. 448; based on "Colon," no. 180, of Azara, 
 
@@ -21839,7 +21839,7 @@ Gallita Vieillot, torn, cit., p. 68. Type, by monotypy, Gallita
 
  tricolor Vieillot. (Preference given to Alectrurus by Vieil- 
 
- lot, 1817, Nouv. Diet. Hist. Nat., nouv. ed., 12, p. 408.) 
+ lot, 1817, Nouv. Dict. Hist. Nat., nouv. ed., 12, p. 408.) 
 
 
 
@@ -21931,7 +21931,7 @@ Gubernetes yetapa (Vieillot)
 
 
 
-Muscicapa yetapa Vieillot, 1818, Nouv. Diet. Hist. Nat., 
+Muscicapa yetapa Vieillot, 1818, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 21, p. 460; based on "Jiperii," no. 75, of Azara, 
 
@@ -21984,7 +21984,7 @@ SATRAPA ICTEROPHRYS
 
 Satrapa icterophrys (Vieillot) 
 
- Muscicapa icterophrys Vieillot, 1818, Nouv. Diet. Hist. Nat., 
+ Muscicapa icterophrys Vieillot, 1818, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 21, p. 458; based on "Suiriri Obscuro y Amarillo," 
 
@@ -22174,7 +22174,7 @@ Hirundinea ferruginea bellicosa (Vieillot)
 
 
 
-Tyrannus bellicosus Vieillot, 1819, Nouv. Diet. Hist. Nat., 
+Tyrannus bellicosus Vieillot, 1819, Nouv. Dict. Hist. Nat., 
 
 
 
@@ -22266,7 +22266,7 @@ Machetornis rixosus rixosus (Vieillot)
 
 
 
-Tyrannus rixosus Vieillot, 1819, Nouv. Diet. Hist. Nat., nouv. 
+Tyrannus rixosus Vieillot, 1819, Nouv. Dict. Hist. Nat., nouv. 
 
 
 
@@ -22581,7 +22581,7 @@ Attila rufus rufus (Vieillot)
 
 Syst. Nat., 1(2), p. 933 — Cayenne; error. 
 
- Tyrannus rufus Vieillot, 1819, Nouv. Diet. Hist. Nat., nouv. 
+ Tyrannus rufus Vieillot, 1819, Nouv. Dict. Hist. Nat., nouv. 
 
  ed., 35, p. 87 — "le Bresil . . . M. Delalande fils"; types 
 
@@ -22837,7 +22837,7 @@ Casiornis rufa (Vieillot)
 
 
 
-Thamnophilus rufus Vieillot, 1816, Nouv. Diet. Hist. Nat., 
+Thamnophilus rufus Vieillot, 1816, Nouv. Dict. Hist. Nat., 
 
 
 
@@ -23051,7 +23051,7 @@ Laniocera hypopyrra (Vieillot)
 
 
 
-Ampelis hypopyrra Vieillot, 1817, Nouv. Diet. Hist. Nat., 
+Ampelis hypopyrra Vieillot, 1817, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 8, p. 164 — La Guyane [= Cayenne]. 
 
@@ -23221,7 +23221,7 @@ Nat. Mus., 25, p. 66 — Chapada, Mato Grosso, Brazil.
 
 Sirystes sibilator sibilator (Vieillot) 
 
- Muscicapa sibilator Vieillot, 1818, Nouv. Diet. Hist. Nat., 
+ Muscicapa sibilator Vieillot, 1818, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 21, p. 457; based on "Pitador," no. 191, of Azara, 
 
@@ -25919,7 +25919,7 @@ Myiodynastes maculatus solitarius (Vieillot)
 
 
 
-Tyrannus solitarius Vieillot, 1819, Nouv. Diet. Hist. Nat., 
+Tyrannus solitarius Vieillot, 1819, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 35, p. 88; based on "Suiriri chorreado todo," 
 
@@ -26117,7 +26117,7 @@ Empidonomus varius rufinus (Spix)
 
 Empidonomus varius varius (Vieillot) 
 
- Muscicapa varia Vieillot, 1818, Nouv. Diet. Hist. Nat., nouv. 
+ Muscicapa varia Vieillot, 1818, Nouv. Dict. Hist. Nat., nouv. 
 
  ed., 21, p. 458; based on "Suiriri chorreado debaxo," no. 
 
@@ -26920,7 +26920,7 @@ Tyrannus dominicensis vorax Vieillot
 
 
 
-Tyrannus vorax Vieillot, 1819, Nouv. Diet. Hist. Nat., nouv. 
+Tyrannus vorax Vieillot, 1819, Nouv. Dict. Hist. Nat., nouv. 
 
  ed., 35, p. 90 — Martinique. 
 
@@ -27208,7 +27208,7 @@ Pachyramphus viridis viridis (Vieillot)
 
 
 
-Tityra viridis Vieillot, 1816, Nouv. Diet. Hist. Nat., nouv. 
+Tityra viridis Vieillot, 1816, Nouv. Dict. Hist. Nat., nouv. 
 
  ed., 3, p. 348; based on "Caracterizados verde y corona 
 
@@ -28319,7 +28319,7 @@ Pachyramphus validus validus (Lichtenstein)
 
 Tityra rufa Vieillot, 1816 (nee Muscicapa rufa Boddaert, 
 
- 1783), Nouv. Diet. Hist. Nat., nouv. ed., 3, p. 347; based 
+ 1783), Nouv. Dict. Hist. Nat., nouv. ed., 3, p. 347; based 
 
  on "Caraeterizado eanela corona de pizarra," no. 208, of 
 
@@ -28331,7 +28331,7 @@ Tityra rufa Vieillot, 1816 (nee Muscicapa rufa Boddaert,
 
  Merrem, 1786 = an unidentifiable species of Pachyram- 
 
- phus), Nouv. Diet. Hist. Nat., nouv. ed., 3, p. 347 based 
+ phus), Nouv. Dict. Hist. Nat., nouv. ed., 3, p. 347 based 
 
  on "Caraeterizado eanela y cabeza negra," no. 209, of Azara, 
 
@@ -34013,7 +34013,7 @@ IODOPLEURA FUSCA'
 
 lodopleura fusca (Vieillot) 
 
- Ampelis fusca Vieillot, 1817, Nouv. Diet. Hist. Nat., nouv. 
+ Ampelis fusca Vieillot, 1817, Nouv. Dict. Hist. Nat., nouv. 
 
  ed., 8, p. 162 — Brazil; emended to Cayenne by Berlepsch, 
 
@@ -34108,7 +34108,7 @@ CALYPTURA CRISTATA
 
 Calyptura cristata (Vieillot) 
 
- Pardalotus cristatus Vieillot, 1818, Nouv. Diet. Hist. Nat., 
+ Pardalotus cristatus Vieillot, 1818, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 24, p. 528 — Brazil; type from Rio de Janeiro, 
 
@@ -35601,7 +35601,7 @@ PROCNIAS NUDICOLLIS
 
 Procnias nudicoUis (Vieillot) 
 
- Ampelis nudicoUis Vieillot, 1817, Nouv. Diet. Hist. Nat., 
+ Ampelis nudicoUis Vieillot, 1817, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 8, p. 164 — Brazil; restricted to Nova Friburgo, 
 
@@ -36007,7 +36007,7 @@ with rutila in northwestern Argentina.
 
 Phytotoma rutila rutila Vieillot 
 
- Phytotoma rutila Vieillot, 1818, Nouv. Diet. Hist. Nat., nouv. 
+ Phytotoma rutila Vieillot, 1818, Nouv. Dict. Hist. Nat., nouv. 
 
  ed., 26, p. 64; based on "Dentudo," no. 91, of Azara, 1802, 
 
@@ -37796,7 +37796,7 @@ Pitta angolensis angolensis Vieillot
 
 
 
-Pitta angolensis Vieillot, 1816, Nouv. Diet. Hist. Nat., nouv. 
+Pitta angolensis Vieillot, 1816, Nouv. Dict. Hist. Nat., nouv. 
 
  ed., 4, p. 356 — Angola. 
 

@@ -904,7 +904,7 @@ Bubalornis albirostris albirostris (Vieillot)
 
 
 
-Coccothraustes albirostris Vieillot, 1817, Nouv. Diet. Hist. Nat., 
+Coccothraustes albirostris Vieillot, 1817, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 13, p. 535 — ^ Africa. Restricted to Senegal by 
 
@@ -1721,7 +1721,7 @@ Passer domesticus italiae (Vieillot)^
 
 
 
-Fringilla Italiae Vieillot, 1817, Nouv. Diet. Hist. Nat., nouv. ed., 
+Fringilla Italiae Vieillot, 1817, Nouv. Dict. Hist. Nat., nouv. ed., 
 
 
 
@@ -2727,7 +2727,7 @@ Passer griseus griseus (Vieillot)
 
 
 
-Fringilla grisea Vieillot, 1817, Nouv. Diet. Hist. Nat., nouv. ed., 
+Fringilla grisea Vieillot, 1817, Nouv. Dict. Hist. Nat., nouv. ed., 
 
 
 
@@ -6397,7 +6397,7 @@ Ploceus cucullatus collaris Vieillot
 
 
 
-Ploceus collaris Vieillot, 1819, Nouv. Diet. Hist. Nat., nouv. ed., 
+Ploceus collaris Vieillot, 1819, Nouv. Dict. Hist. Nat., nouv. ed., 
 
 
 
@@ -6584,7 +6584,7 @@ Ploceus nigerrimus nigerrimus Vieillot
 
 
 
-Ploceus nigerrimus Vieillot, 1819, Nouv. Diet. Hist. Nat., nouv. 
+Ploceus nigerrimus Vieillot, 1819, Nouv. Dict. Hist. Nat., nouv. 
 
  ed., 34, p. 130 — "Kingdom of Congo". 
 
@@ -7518,7 +7518,7 @@ Ploceus bicolor bicolor Vieillot
 
 
 
-Ploceus bicolor Vieillot, 1819, Nouv. Diet. Hist. Nat., nouv. ed., 
+Ploceus bicolor Vieillot, 1819, Nouv. Dict. Hist. Nat., nouv. ed., 
 
 
 
@@ -15282,7 +15282,7 @@ Streptocitta albicollis albicollis (Vieillot)
 
 
 
-Pica albicollis Vieillot, 1818, Nouv. Diet. Hist. Nat., nouv. ed., 
+Pica albicollis Vieillot, 1818, Nouv. Dict. Hist. Nat., nouv. ed., 
 
  26, p. 128 — New Caledonia, error for Buton or Muna Island. 
 
@@ -16592,7 +16592,7 @@ ORIOLUS AURATUS
 
 
 
-Oriolus auratus Vieillot, 1817, Nouv. Diet. Hist. Nat., nouv. ed., 
+Oriolus auratus Vieillot, 1817, Nouv. Dict. Hist. Nat., nouv. ed., 
 
 
 
@@ -17044,7 +17044,7 @@ Oriolus chinensis maculatus Vieillot
 
 
 
-Oriolus maculatus Vieillot, 1817, Nouv. Diet. Hist. Nat., nouv. 
+Oriolus maculatus Vieillot, 1817, Nouv. Dict. Hist. Nat., nouv. 
 
 
 
@@ -18366,7 +18366,7 @@ Muscicapa atra Hermann, 1804, Observationes zool., p. 208 (not
 
 
 
-Dicrurus macrocerctis Vieillot, 1817, Nouv. Diet. Hist. Nat., nouv. 
+Dicrurus macrocerctis Vieillot, 1817, Nouv. Dict. Hist. Nat., nouv. 
 
  ed., 9, p. 588, based on "le Drongolon", Levaillant, 1805, 
 
@@ -18880,7 +18880,7 @@ Dicrurus leucophaeus leucophaeus Vieillot^
 
 
 
-Dicrurus leucophaeus Vieillot, 1817, Nouv. Diet. Hist. Nat., nouv. 
+Dicrurus leucophaeus Vieillot, 1817, Nouv. Dict. Hist. Nat., nouv. 
 
 
 
@@ -19009,7 +19009,7 @@ DIGRURUS AENEUS
 
 
 
-Dicrurus aeneus Vieillot, 1817, Nouv. Diet. Hist. Nat., nouv. ed., 
+Dicrurus aeneus Vieillot, 1817, Nouv. Dict. Hist. Nat., nouv. ed., 
 
  9, p. 586. Based on "le Drongo Bronze," Levaillant, 1805, 
 
@@ -20089,7 +20089,7 @@ Dicrurus paradiseus platurus Vicillot
 
 
 
-Dicrurus platurus Vieillot, 1817, Nouv. Diet. Hist. Nat., nouv. ed., 
+Dicrurus platurus Vieillot, 1817, Nouv. Dict. Hist. Nat., nouv. ed., 
 
  9, p. 588. Based on "le Drongo a Raquette," Levaillant, 1805, 
 
@@ -20388,7 +20388,7 @@ Dicrurus paradiseus lophorinus Vieillot
 
 
 
-Dicrurus lophorinus Vieillot, 1817, Nouv. Diet. Hist. Nat., nouv. 
+Dicrurus lophorinus Vieillot, 1817, Nouv. Dict. Hist. Nat., nouv. 
 
 
 
@@ -20751,7 +20751,7 @@ Gorcorax melanorhamphos (Vieillot)
 
 
 
-Coracia melanorhamphos Vieillot, 1817, Nouv. Diet. Hist. Nat., 
+Coracia melanorhamphos Vieillot, 1817, Nouv. Dict. Hist. Nat., 
 
 
 
@@ -20892,7 +20892,7 @@ ARTAMUS FUSCUS
 
 
 
-Artamus fuscus Vieillot, 1817, Nouv. Diet. Hist. Nat., nouv. ed., 
+Artamus fuscus Vieillot, 1817, Nouv. Dict. Hist. Nat., nouv. ed., 
 
  17, p. 297 — Bengal. 
 
@@ -21295,7 +21295,7 @@ Black-faced Wood-Swallow
 
 
 
-Artamus cinereus Vieillot, 1817, Nouv. Diet. Hist. Nat., nouv. ed., 
+Artamus cinereus Vieillot, 1817, Nouv. Dict. Hist. Nat., nouv. ed., 
 
 
 
@@ -21460,7 +21460,7 @@ Little Wood-Swallow
 
 
 
-Artamus minor Vieillot, 1817, Nouv. Diet. Hist. Nat., nouv. ed., 
+Artamus minor Vieillot, 1817, Nouv. Dict. Hist. Nat., nouv. ed., 
 
  17, p. 298 — "Terres Australes" = Shark's Bay, western 
 
@@ -22470,7 +22470,7 @@ Green Catbird
 
 
 
-Coracina viridis Vieillot, 1817, Nouv. Diet. Hist. Nat., nouv. ed., 
+Coracina viridis Vieillot, 1817, Nouv. Dict. Hist. Nat., nouv. ed., 
 
 
 
@@ -23122,7 +23122,7 @@ Satin Bowerbird
 
 
 
-Pyrrhocorax violaceus Vieillot, 1816, Nouv. Diet. Hist. Nat., nouv. 
+Pyrrhocorax violaceus Vieillot, 1816, Nouv. Dict. Hist. Nat., nouv. 
 
  ed., 6, p. 569 — "Nouvelle Hollande" [= Sydney, New South 
 
@@ -24170,7 +24170,7 @@ Magnificent Riflebird
 
 
 
-Falcinellus magnificus Vieillot, 1819, Nouv. Diet. Hist. Nat., 
+Falcinellus magnificus Vieillot, 1819, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 28, p. 167 — "Nouvelle Guinee", restricted to Dorey, 
 
@@ -28268,7 +28268,7 @@ GYANOCORAX GAERULEUS
 
 
 
-Pica caerulea Vieillot, 1818, Nouv. Diet. Hist. Nat., nouv. ed., 
+Pica caerulea Vieillot, 1818, Nouv. Dict. Hist. Nat., nouv. ed., 
 
 
 
@@ -28302,7 +28302,7 @@ GYANOGORAX GYANOMELAS
 
 
 
-Pica cyanomelas Vieillot, 1818, Nouv. Diet. Hist. Nat., nouv. ed., 
+Pica cyanomelas Vieillot, 1818, Nouv. Dict. Hist. Nat., nouv. ed., 
 
  26, p. 127 — Paraguay; based on Azara no. 54, "Urraca 
 
@@ -28603,7 +28603,7 @@ Known only from the unique type."*
 
 
 
-Pica chrysops Vieillot, 1818, Nouv. Diet. Hist. Nat., nouv. ed., 
+Pica chrysops Vieillot, 1818, Nouv. Dict. Hist. Nat., nouv. ed., 
 
 
 
@@ -33013,7 +33013,7 @@ Local in England, chiefly in the west and south, Wales, Isle of
 
 
 
-Coracia erythroramphos [sic] Vieillot, 1817, Nouv. Diet. Hist. Nat., 
+Coracia erythroramphos [sic] Vieillot, 1817, Nouv. Dict. Hist. Nat., 
 
 
 
@@ -33487,7 +33487,7 @@ Corvus monedula spermologus VieiUot
 
 
 
-Corvus spermologus Vieillot, 1817, Nouv. Diet. Hist. Nat., nouv. 
+Corvus spermologus Vieillot, 1817, Nouv. Dict. Hist. Nat., nouv. 
 
  ed., 8, p. 40 — "southern France;" restricted to Tours by 
 
@@ -33624,7 +33624,7 @@ Corvus splendens splendens Vieillot
 
 
 
-Corvus splendens Vieillot, 1817, Nouv. Diet. Hist. Nat., nouv. ed., 
+Corvus splendens Vieillot, 1817, Nouv. Dict. Hist. Nat., nouv. ed., 
 
  8, p. 44 — Bengal. 
 
