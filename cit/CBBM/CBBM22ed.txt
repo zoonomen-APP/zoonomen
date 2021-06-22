@@ -2459,7 +2459,7 @@ Gm. S. N. I p. 755 (1788); Bonn. Tabl Bncycl. MetK i. p. 200T
 pl. 92. fig. 4 (1791); Pallas} Zoogr. Mosso-Adat. ii. p. 73 (nee 
 pL) (1811) [Deserts N. of the Caspian]. 
 
-(Enas arenaria, Vieill Nouv. Dict. d'Eist. Nat. xii p. 423 (1817). ' 
+(Enas arenaria, Vieill Nouv. Dict. d'Hist. Nat. xii p. 423 (1817). ' 
 
 Pterocles arenarius, Temm. Man. ff Orn. p. 300 (1815); Steph. 
 Shaws Gen. Zool xi. p. 305 (1819); Temm. Man. ff Orn. p. 476 
@@ -4598,7 +4598,7 @@ Gigl. Av. Ital i. p. 536 (1889), ii. p. 653 (1890), iii. p. 513
 pp. 63-72 pls. & woodcuts (1892). 
 Tetrao alpinus, Nilss. Orn. Sv. i. p. 311 (1817). 
 
-Lagopus vulgaris, Vieill. Nouv. Dict. dHibt. Nat. xvii. p. 199 (1817); 
+Lagopus vulgaris, Vieill. Nouv. Dict. d'Hist. Nat. xvii. p. 199 (1817); 
 Flem. Hist. Brit An. p. 43 (1842); R. Gray, B. West Scot p. 236, 
 pl. (1871); Olphe-Gall. Faun. Orn. Eur/Occ. fasc. 37-40, p. 51 
 (1886). 
@@ -14936,7 +14936,7 @@ cinerea, Lath. Ind. Orn. ii. p. 645 (1790); Bonn. Tabl.
 Enci/cl. Meth. i. p. 209, pl. 93. flg. 4 (1791); Meyer <$• Wolf, 
 Tas'ch. Deuts, i. p. 303 (1810); Penn. Brit. Zool i. p. 308 (1812) ; 
 Temm. P'tg. et Galt. iii. pp. 373, 728 (1815); Meyer, Vog. Zw-u. 
-JStthl. p. 165 (1815); Vieill. Nouv. Dict. d'Eist. Nat. xxv. p. 198 
+JStthl. p. 165 (1815); Vieill. Nouv. Dict. d'Hist. Nat. xxv. p. 198 
 (1817); Steph. in Shaids Gen. Zool. xi. p. 339, pl. 23 (1819) ; 
 Temm. Man. d'Om. ii. p. 488 (1820); Millet, F. Maine-et-Loire, ii. 
 
@@ -22284,7 +22284,7 @@ Phasianus impeyanus, Bonnat. Tabl. JEncycl. Meth. i. p. 180, pl. 88.
 
 % . 1 (1791). 
 Phasianus curvirostris, Shaw, Mus. Lerer, p. 101, pl. (1792). 
-Monaulus impejanus, Vieill Nouv. Dict. d'IIist. Nat. xxi.p. 322 (1818). 
+Monaulus impejanus, Vieill Nouv. Dict. d'Hist. Nat. xxi.p. 322 (1818). 
 Monaulus impeyanus, Vieill. Gal. Ois. ii. p. 31, pl. 208 (1825). 
 Lophophorus impeyanus, v. Pelz. Ibis, 1873, p. 120; Marsh. Str. 
 
@@ -25135,7 +25135,7 @@ Lath. Ind. Orn. ii. p. 629 (1790); Bonnat. Tabl Encycl Mäh i
 p. 183, pl. 87.fig.4 (1791); Meyer $ Wolf, Tasch. der deutsch. Vor/, i. 
 p. 291, pl. (1810); Pall. Zooqr. Rosso-Asiat, ii. p. 83 (1811) * 
 Temm. Pig. et Gall. ii. p. 289 (1813), iii. p. 666 (1815) • id 
-Man. d'Orn. p. 282 (1815); Vieill Nouv. Dict. d'Eist. Nat. xi. p. *9 
+Man. d'Orn. p. 282 (1815); Vieill Nouv. Dict. d'Hist. Nat. xi. p. *9 
 (1817); Steph. in Shatd's Gen. Zool xi. p. 222, pl. 13 [hybrid! 
 (1819); Temm. Man. d'Orn. ii. p. 453 (1820) ; Rou.v, Om'Prov 
 p. 47, pls. 262, 263 (1825); Vieill. Faun. Franc, p. 247, pl 107* 
@@ -26533,7 +26533,7 @@ p. 743 (1788); Zath. Ind. Orn. ii. p. 630 (1790); Bonnat. Tabl.
 Encyel Mali. i. p. 186, pl. 88. flg. 4 (1791); Shaw, Mus. Fever. 
 p. 204, pl. (1792); Eayes, Osterl Menag. p. 5, pls. 5 & 6 (1794); 
 Fall Zoogr. Rosso-Asiat. ii. p. 86 (1811); Temm. Fig. et Gall ii. 
-p. 341 (1813), iii. p. 671 (1815) ; Vieül Nouv. Dict. d'Eist. Nat. xi. 
+p. 341 (1813), iii. p. 671 (1815) ; Vieül Nouv. Dict. d'Hist. Nat. xi. 
 p. 
 41 (1817): Steph. in Shaw's Gen. Zool. xi. p. 231 (1819); 
 Werner, Atl. Ois. d'Eur., Ord. 10, pl. 3 (1828); Griff, ed. Cuv. 
@@ -28286,7 +28286,7 @@ Fitz. Atl Nat., Vög. fig. 226 (1864); Wallace, Malay Arch. i. p. 32
 Ind. i. p. 09, pl. (1878); Hume $ Bamson, Str. F. vi. p. 427 (1878) 
 [S. Tenasperim]; Hume, Str. F. viii. p. 08 (1879) [Malacca]; 
 Sclat. P.Z. S. 1879, p. 115, pls. vii. & viii. fig. 1. 
-Argus pavonius, Vieill Nouv. Dict. d1IIist. Nat. ii. p. 507 (1816); id. 
+Argus pavonius, Vieill Nouv. Dict. d'Hist. Nat. ii. p. 507 (1816); id. 
 Gal. des Ois. ii. p. 19, pl. 204 (1825); Less. Traite Jörn. p. 488, 
 pl. 84 (1831). 
 
@@ -31387,7 +31387,7 @@ Perdix sonnini, Temm. Pig, et Galt. iii. pp. 451, 737 (1815); Vieill.
 
 N. Biet (TJEist. Nat. xxv. p. 246 (1817); td. Tahl. Encycl Meth. 
 i. p. 369 (1820); Temm. PL CoL v. pl. 42 [no. 75] (1823). 
-Le Colin Sonnini, Vieill. Nouv. Dict. d'Bist. Nat. xxv. p. 246 (1817). 
+Le Colin Sonnini, Vieill. Nouv. Dict. d'Hist. Nat. xxv. p. 246 (1817). 
 Ortyx sonninii, Steph. in Shmo's Gen. Zool. xi. p. 383 (1819); Lesson, 
 III. Zool. text to pl. 52 (1831); Jard. $ Selb. HL Orn. i. text to 
 * Birds from Veragua bave rather more white on the cliin and upper part 
@@ -39179,7 +39179,7 @@ Orthocorys cristata, Vieill. Analyse, p. 49 (1816).
 Opisthocomus hoatzin, Steph. in Shaw1s Gen. Zool. xi. p. 193 (1819); 
 
 Gray, Hanä4. B. ii. p. 126 (1870). 
-Sasa cri&tata, Vieill. Nouv. Dict. dllist. Nat. xxx. p. 216 (1819) ; id. 
+Sasa cri&tata, Vieill. Nouv. Dict. d'Hist. Nat. xxx. p. 216 (1819) ; id. 
 Gal. Ois. i. pt. ii. p. 325, pl. 193 (1825). 
 
 Opivfchoconius cristatus, L*ILerminier, C. F. v. p. 433 (1837) ; Gray, 
@@ -41056,7 +41056,7 @@ Perdix luzoniensiy, Lath. Ind. Örn, ii. p. 656 (1790).
 
 Ilemipodius tlioracieus, Temm. Fig. et GalL iii. pp. 622, 755 (1815). 
 
-Turnix rufiis, Vieillot, 2nd ed. Nouv. Dict. d'llist. Nat. xxxv. p 48 
+Turnix rufiis, Vieillot, 2nd ed. Nouv. Dict. d'Hist. Nat. xxxv. p 48 
 
 (1823). 
 Orlvgis ocellata, Meyer, Nov. Act. Acad. G. L.-C. Nat. Curios. xvi 
@@ -41131,7 +41131,7 @@ Metk. p. 64 (1838).
 Hemipodius nigricollis, Temm. Pig. et Gatt. iii. p. 619 (1815). 
 Ortygis nigricollis, Cuv. Regne Anim. i. p. 453 (1817). 
 Turnix nigricollis, 
-Vieillot, Nouv. Dict. d'IIist. Nat. xxxv. p. 45 (1819); 
+Vieillot, Nouv. Dict. d'Hist. Nat. xxxv. p. 45 (1819); 
 Gray, Gen. B. iii. p. 511 (1847) ; Bartlaub, Ann. Mag. N. H. 
 
 ii. p. 391 (1848); id. J. f. O. 1860, p. 164; Roch § Newton, 
