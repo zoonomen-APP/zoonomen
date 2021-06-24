@@ -1,0 +1,43 @@
+Surname ending
+-sky vs -ski vs -skii.
+
+All three of these are used, and often used interchangeably.
+At present list appears to default to -ski -- viz:
+
+Banjkovski, VB
+Belopolski, LO
+Berezowski, M
+Debski, I
+Domaniewski, J
+Dybowski, B
+Gaskin, CP
+Przewalski, NM
+Serebrovski, PV
+Snigirewski, SI
+Taczanowski, L
+Tarnovski, GV
+Weimerskirch, H
+Zaliesski, IM
+
+and only
+
+Kinsky, FC
+Milensky, CM
+
+currently with -sky endings.
+
+NOTE, however, that most, and possibly all of the names listed here
+with -ski endings CAN be found with -sky endings.
+
+
+Also the question of transliterating v vs w.
+Do we want to simply adopt one or the other, try to follow "prevaliing use",
+or use it as a way of transmitting information (for example v for Russian;
+w for Polish).
+
+What about double s?
+
+Double ss is extremely common in renderings of non-slavic names
+but uncommon in OUR representation of slavic names.
+
+Zaliesski, IM
