@@ -12242,7 +12242,7 @@ Parus afer cinerascens Vieillot
 
 
 
-Parus cinerascens Vieillot, 1818, Nouv. Diet. Hist. Nat., 
+Parus cinerascens Vieillot, 1818, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 20, p. 316 — Camdeboo, apparently on Orange 
 
@@ -12389,7 +12389,7 @@ Parus niger niger Vieillot
 
 
 
-Parus niger Vieillot, 1818, Nouv. Diet. Hist. Nat., nouv. 
+Parus niger Vieillot, 1818, Nouv. Dict. Hist. Nat., nouv. 
 
  ed., 20, p. 325 — Sondag [= Sunday] River, eastern 
 
@@ -13200,7 +13200,7 @@ Western and central Thailand, Lower Laos, southern
 
 Parus major cinereus Vieillot 
 
- Parus cinereus Vieillot, 1818, Nouv. Diet. Hist. Nat., nouv. 
+ Parus cinereus Vieillot, 1818, Nouv. Dict. Hist. Nat., nouv. 
 
 
 
@@ -20242,7 +20242,7 @@ Certhia leucophaea Latham, 1801, Index Orn., suppl.,
 
 p. 36 — Sydney, New South Wales. 
 
- Pterodroma bailloni Vieillot, 1818, Nouv. Diet. Hist. Nat., 
+ Pterodroma bailloni Vieillot, 1818, Nouv. Dict. Hist. Nat., 
 
 
 
@@ -26952,7 +26952,7 @@ Anthodiaeta collaris zuluensis Roberts, 1931, Ann. Trans-
 
 
 
-Cinnyris collaris Vieillot, 1819, Nouv. Diet. Hist. Nat., 
+Cinnyris collaris Vieillot, 1819, Nouv. Dict. Hist. Nat., 
 
 
 
@@ -26972,7 +26972,7 @@ ANTHREPTES PLATURUS
 
 
 
-Cinnyris platurus Vieillot, 1819, Nouv. Diet. Hist. Nat., 
+Cinnyris platurus Vieillot, 1819, Nouv. Dict. Hist. Nat., 
 
 
 
@@ -28422,7 +28422,7 @@ Nectarinia rubescens rubescens (Vieillot)
 
 
 
-Cinnyris rubescens Vieillot, 1819, Nouv. Diet. Hist. Nat., 
+Cinnyris rubescens Vieillot, 1819, Nouv. Dict. Hist. Nat., 
 
 
 
@@ -29787,7 +29787,7 @@ Nectarinia jugularis ornata (Lesson)
 
  London, 13 (1821) , p. 167 — Java; preoccupied by Cin- 
 
- nyris pectoralis Vieillot, 1819, Nouv. Diet. Hist. Nat., 
+ nyris pectoralis Vieillot, 1819, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 31, p. 497 = N. afer Linnaeus, 1766. 
 
@@ -30555,7 +30555,7 @@ Certhia venusta Shaw and Nodder, 1799, Nat. Misc., 10,
 
 pi. 369 — Sierra Leone. 
 
- Cinnyris leucogaster Vieillot, 1819, Nouv. Diet. Hist. Nat., 
+ Cinnyris leucogaster Vieillot, 1819, Nouv. Dict. Hist. Nat., 
 
 
 
@@ -30819,7 +30819,7 @@ Nectarinia fusca (Vieillot)
 
 
 
-Cinnyris fitscus Vieillot, 1819, Nouv. Diet. Hist. Nat., 
+Cinnyris fitscus Vieillot, 1819, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 31, p. 506 — Great Namaqualand. 
 
@@ -34570,7 +34570,7 @@ Arachnothera longirostra cinireicollis (Vieillot)
 
 
 
-Cinnyris cinireicollis Vieillot, 1819, Nouv. Diet. Hist. Nat., 
+Cinnyris cinireicollis Vieillot, 1819, Nouv. Dict. Hist. Nat., 
 
 
 
@@ -37157,7 +37157,7 @@ Zool. Mus. Berlin, 17, p. 217 — Sumba.
 
 
 
-1 Sylvia Australasiae Vieillot, 1817, Nouv. Diet. Hist. Nat., nouv. 
+1 Sylvia Australasiae Vieillot, 1817, Nouv. Dict. Hist. Nat., nouv. 
 
  ed., 11, p. 235 — "I'Australasie," is unidentifiable. — E. M. 
 
@@ -48579,7 +48579,7 @@ Certhia graculina Shaw, 1811-12, General Zool., 8, p. 242
 
 — New Holland [= Sydney, New South Wales] . 
 
- Philemon viridis Vieillot, 1818, Nouv. Diet. Hist. Nat., 
+ Philemon viridis Vieillot, 1818, Nouv. Dict. Hist. Nat., 
 
 
 
@@ -52104,7 +52104,7 @@ Certhia nigra Bechstein, 1811, Kurze Uebersicht aller
 
  1802, Oiseaux Dores, 2, pi. 71. 
 
- Melithrepttis ater Vieillot, 1817, Nouv. Diet. Hist. Nat., 
+ Melithrepttis ater Vieillot, 1817, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 14, p. 327 — Nouvelle Hollande ; restricted to 
 
@@ -53158,7 +53158,7 @@ Certhia tenuirostris Latham, 1801, Index Orn., suppl.,
 
 
 
-Melithreptus collaris Vieillot, 1817, Nouv. Diet. Hist. Nat., 
+Melithreptus collaris Vieillot, 1817, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 14, p. 324 — Terres Australes ; restricted to 
 
@@ -53295,7 +53295,7 @@ Genus MANORINA Vieillot
 
 
 
-Manorina Vieillot, 1818, Nouv. Diet. Hist. Nat,, nouv. ed., 
+Manorina Vieillot, 1818, Nouv. Dict. Hist. Nat., nouv. ed., 
 
  19, p. 236. Type, by original designation, Manorina viri- 
 
@@ -53460,7 +53460,7 @@ Merops cucullatus Latham, 1801, Index Orn., suppl., p. 33
 
 — Nova Hollandia [= Sydney, New South Wales] . 
 
- Turdus varius Vieillot, 1803, Nouv. Diet. Hist. Nat., ed. 1, 
+ Turdus varius Vieillot, 1803, Nouv. Dict. Hist. Nat., ed. 1, 
 
 
 
@@ -53468,7 +53468,7 @@ Merops cucullatus Latham, 1801, Index Orn., suppl., p. 33
 
  Wales]. 
 
- Philemon naevius Vieillot, 1818, Nouv. Diet. Hist. Nat., 
+ Philemon naevius Vieillot, 1818, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 27, p. 428 — Nouvelle-Hollande [= Sydney, 
 

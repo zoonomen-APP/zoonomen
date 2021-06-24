@@ -2681,7 +2681,7 @@ Mirafra apiata rufipilea (Vieillot)
 
 
 
-Alauda rufipilea Vieillot, 1816, Nouv. Diet. Hist. Nat., 1, p. 345 
+Alauda rufipilea Vieillot, 1816, Nouv. Dict. Hist. Nat., 1, p. 345 
 
 
 
@@ -2725,7 +2725,7 @@ Mirafra apiata apiata (Vieillot)
 
 
 
-Alauda apiata Vieillot, 1816, Nouv. Diet. Hist. Nat., 1, p. 342 — 
+Alauda apiata Vieillot, 1816, Nouv. Dict. Hist. Nat., 1, p. 342 — 
 
  no locality; Swartland, arid plains of the Piquetberg and the 
 
@@ -11104,7 +11104,7 @@ TAGHYCINETA LEUCORRHOA
 
 
 
-Hirundo leucorrhoa Vieillot, 1817, Nouv. Diet. Hist. Nat., 14, 
+Hirundo leucorrhoa Vieillot, 1817, Nouv. Dict. Hist. Nat., 14, 
 
  p. 519 — Paraguay. 
 
@@ -11446,7 +11446,7 @@ Progne tapera fusca (Vieillot)
 
 
 
-Hirundo fusca Vieillot, 1817, Nouv. Diet. Hist. Nat., 14, p. 510 — 
+Hirundo fusca Vieillot, 1817, Nouv. Dict. Hist. Nat., 14, p. 510 — 
 
  Paraguay. 
 
@@ -11680,7 +11680,7 @@ Progne chalybea domestica (Vieillot)
 
 
 
-Hirundo domestica Vieillot, 1817, Nouv. Diet. Hist. Nat., 14, 
+Hirundo domestica Vieillot, 1817, Nouv. Dict. Hist. Nat., 14, 
 
  p. 520 — - Paraguay. 
 
@@ -11916,7 +11916,7 @@ NOTIOCHELIDON CYANOLEUGA
 
 
 
-Hirundo cyanoleuca Vieillot, 1817, Nouv. Diet. Hist. Nat., 14, 
+Hirundo cyanoleuca Vieillot, 1817, Nouv. Dict. Hist. Nat., 14, 
 
  p. 509 — Paraguay. 
 
@@ -12483,7 +12483,7 @@ Stelgidopteryx ruficollis ruficollis (Vieillot)
 
 
 
-Hirundo ruficollis Vieillot, 1817, Nouv. Diet. Hist. Nat., 14, p. 
+Hirundo ruficollis Vieillot, 1817, Nouv. Dict. Hist. Nat., 14, p. 
 
  523 — Brazil. 
 
@@ -12836,7 +12836,7 @@ Riparia paludicola paludicola (Vieillot)
 
 
 
-Hirundo paludicola Vieillot, 1817, Nouv. Diet. Hist. Nat., 14, 
+Hirundo paludicola Vieillot, 1817, Nouv. Dict. Hist. Nat., 14, 
 
 
 
@@ -12939,7 +12939,7 @@ Hirundo riparia Linnaeus, 1758, Syst. Nat., ed. 10, 1, p. 192 —
 
 
 
-Hirundo cinerea Vieillot, 1817, Nouv. Diet. Hist. Nat., 14, p. 526 
+Hirundo cinerea Vieillot, 1817, Nouv. Dict. Hist. Nat., 14, p. 526 
 
 
 
@@ -15685,7 +15685,7 @@ Petrochelidon nigricans nigricans (Vieillot)
 
 
 
-Hirundo nigricans Vieillot, 1817, Nouv. Diet. Hist. Nat., 14, 
+Hirundo nigricans Vieillot, 1817, Nouv. Dict. Hist. Nat., 14, 
 
  p. 523 — New Holland, error = Hobart, Tasmania; see Ma- 
 
@@ -15761,7 +15761,7 @@ Cliff Swallow
 
 
 
-Hirundo pyrrhonota Vieillot, 1817, Nouv. Diet. Hist. Nat., 14, 
+Hirundo pyrrhonota Vieillot, 1817, Nouv. Dict. Hist. Nat., 14, 
 
 
 
@@ -18496,7 +18496,7 @@ MACRONYX GROGEUS
 
 
 
-Alauda crocea Vieillot, 1816, Nouv. Diet. Hist. Nat., 1, p. 365 
+Alauda crocea Vieillot, 1816, Nouv. Dict. Hist. Nat., 1, p. 365 
 
 
 
@@ -18971,7 +18971,7 @@ Anthus novaeseelandiae richardi Vieillot
 
 
 
-Anthus Richardi Vieillot, 1818, Nouv. Diet. Hist. Nat., nouv. ed., 
+Anthus Richardi Vieillot, 1818, Nouv. Dict. Hist. Nat., nouv. ed., 
 
  26, p. 491 — France. 
 
@@ -19064,7 +19064,7 @@ Anthus novaeseelandiae rufulus Vieillot
 
 
 
-Anthus rufulus Vieillot, 1818, Nouv. Diet. Hist. Nat., nouv. ed., 
+Anthus rufulus Vieillot, 1818, Nouv. Dict. Hist. Nat., nouv. ed., 
 
  26, p. 494 — Bengal. 
 
@@ -19256,7 +19256,7 @@ Anthus novaeseelandiae australis Vieillot
 
 
 
-Anthus australis Vieillot, 1818, Nouv. Diet. Hist. Nat., nouv. ed., 
+Anthus australis Vieillot, 1818, Nouv. Dict. Hist. Nat., nouv. ed., 
 
 
 
@@ -19491,7 +19491,7 @@ Anthus leucophrys leucophrys Vieillot
 
 
 
-Anthus leucophrys Vieillot, 1818, Nouv. Diet. Hist. Nat., nouv. 
+Anthus leucophrys Vieillot, 1818, Nouv. Dict. Hist. Nat., nouv. 
 
 
 
@@ -21298,7 +21298,7 @@ Anthus correndera correndera Vieillot
 
 
 
-Anthus correndera Vieillot, 1818, Nouv. Diet. Hist. Nat., 26, 
+Anthus correndera Vieillot, 1818, Nouv. Dict. Hist. Nat., 26, 
 
  p. 491 — Paraguay. 
 
@@ -25449,7 +25449,7 @@ White-winged Triller
 
 
 
-Turdus Suerii [sic] 3 Vieillot, 1818, Nouv. Diet. Hist. Nat., 20, 
+Turdus Suerii [sic] 3 Vieillot, 1818, Nouv. Dict. Hist. Nat., 20, 
 
  p. 270 — New Holland, error = Timor; see Mathews, 1914, 
 
@@ -26386,7 +26386,7 @@ Campephaga phoenicea flava Vieillot 3
 
 
 
-Campephaga flava Vieillot, 1817, Nouv. Diet. Hist. Nat., 10, p. 49. 
+Campephaga flava Vieillot, 1817, Nouv. Dict. Hist. Nat., 10, p. 49. 
 
  Ex Levaillant, Ois. Afrique, pi. 164 = $. 
 
@@ -26419,7 +26419,7 @@ Campephaga flava Vieillot, 1817, Nouv. Diet. Hist. Nat., 10, p. 49.
 
 
 
-Campephaga nigra Vieillot, 1817, Nouv. Diet. Hist. Nat., 10, p. 50. 
+Campephaga nigra Vieillot, 1817, Nouv. Dict. Hist. Nat., 10, p. 50. 
 
 
 
@@ -26660,7 +26660,7 @@ Pericrocotus roseus roseus (Vieillot)
 
 
 
-Muscicapa rosea Vieillot, 1818, Nouv. Diet. Hist. Nat., nouv. ed., 
+Muscicapa rosea Vieillot, 1818, Nouv. Dict. Hist. Nat., nouv. ed., 
 
  21, p. 486 — Bengal. 
 
@@ -29304,7 +29304,7 @@ FAMILY PYCNONOTIDAE 229
 
 
 
-Aegithina atricapilla Vieillot, 1816, Nouv. Diet. Hist. Nat., nouv. 
+Aegithina atricapilla Vieillot, 1816, Nouv. Dict. Hist. Nat., nouv. 
 
 
 
@@ -30340,7 +30340,7 @@ PYCNONOTUS AURIGASTER
 
 
 
-Muscicapa atricapilla Vieillot, 1818, Nouv. Diet. Hist. Nat., nouv. 
+Muscicapa atricapilla Vieillot, 1818, Nouv. Dict. Hist. Nat., nouv. 
 
  ed., 21, p. 489 — China, ex Sonnerat. Not Muscicapa atricapilla 
 
@@ -30533,7 +30533,7 @@ Pycnonotus aurigaster aurigaster (Vieillot)
 
 
 
-Turdus aurigaster Vieillot, 1818, Nouv. Diet. Hist. Nat., nouv. 
+Turdus aurigaster Vieillot, 1818, Nouv. Dict. Hist. Nat., nouv. 
 
 
 
@@ -30606,7 +30606,7 @@ Pycnonotus nigricans (Vieillot)
 
 
 
-Turdus nigricans Vieillot, 1818, Nouv. Diet. Hist. Nat., 20, p. 253 
+Turdus nigricans Vieillot, 1818, Nouv. Dict. Hist. Nat., 20, p. 253 
 
  — - Banks of the Orange River in Namaqualand {ex Levaillant). 
 
@@ -32618,7 +32618,7 @@ Pycnonotus importunus importunus (Vieillot)
 
 
 
-Turdus importunus Vieillot, 1818, Nouv. Diet. Hist. Nat., nouv. 
+Turdus importunus Vieillot, 1818, Nouv. Dict. Hist. Nat., nouv. 
 
  ed., 20, p. 266 — Anteniquoi [= Outeniqua] Forest [Cape Pro- 
 
@@ -38934,7 +38934,7 @@ Chloropsis cochinchinensis nigricollis (Vieillot)
 
 
 
-Philemon nigricollis Vieillot, 1818, Nouv. Diet. Hist. Nat., nouv. 
+Philemon nigricollis Vieillot, 1818, Nouv. Dict. Hist. Nat., nouv. 
 
 
 
@@ -41152,7 +41152,7 @@ TCHAGRA TCHAGRA
 
 
 
-Thamnophilus tchagra Vieillot, 1816, Nouv. Diet. Hist. Nat., 3, 
+Thamnophilus tchagra Vieillot, 1816, Nouv. Dict. Hist. Nat., 3, 
 
  p. 317 — "Senegal ... to Cafferland" = Gamtoos River, ex 
 
@@ -42882,7 +42882,7 @@ TELOPHORUS VIRIDIS
 
 
 
-Laniarius viridis Vieillot, 1817, Nouv. Diet. Hist. Nat., nouv. 
+Laniarius viridis Vieillot, 1817, Nouv. Dict. Hist. Nat., nouv. 
 
  ed., 13, p. 300 — Malimbe, Congo area (i. e. Loango Coast, Por- 
 
@@ -49642,7 +49642,7 @@ Cistothorus platensis polyglottus (Vieillot)
 
 
 
-Thryothorus polyglottus Vieillot, 1819, Nouv. Diet. Hist. Nat., 
+Thryothorus polyglottus Vieillot, 1819, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 34, p. 59 — Paraguay 1 , based on de Azara's "Todo 
 
@@ -51271,7 +51271,7 @@ Thryothorus rutilus rutilus Vieillot
 
 
 
-Thryothorus rutilus Vieillot, 1819, Nouv. Diet. Hist. Nat., nouv. 
+Thryothorus rutilus Vieillot, 1819, Nouv. Dict. Hist. Nat., nouv. 
 
  ed., 34, p. 55 — "l'Amerique septentrionale" ; restricted to Tri- 
 
@@ -52426,7 +52426,7 @@ Thryothorus longirostris longirostris Vieillot
 
 
 
-Thryothorus longirostris Vieillot, 1818, Nouv. Diet. Hist. Nat., 
+Thryothorus longirostris Vieillot, 1818, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 34, p. 56 — Brazil. 
 
@@ -52516,7 +52516,7 @@ Winter Wren ; Wren
 
 
 
-Troglodytes hiemalis Vieillot, 1819, Nouv. Diet. Hist. Nat., nouv. 
+Troglodytes hiemalis Vieillot, 1819, Nouv. Dict. Hist. Nat., nouv. 
 
  ed., 34, p. 514 — Nova Scotia and New York; restricted to 
 
@@ -56440,7 +56440,7 @@ Mimus triurus (Vieillot)
 
 
 
-Turdus triurus Vieillot, 1818, Nouv. Diet. Hist. Nat., nouv. ed., 
+Turdus triurus Vieillot, 1818, Nouv. Dict. Hist. Nat., nouv. ed., 
 
  20, p. 275 — Paraguay. 
 
@@ -57522,7 +57522,7 @@ Ramphocinclus brachyurus brachyurus (Vieillot)
 
 
 
-Turdus brachyurus Vieillot, 1818, Nouv. Diet. Hist. Nat., nouv. 
+Turdus brachyurus Vieillot, 1818, Nouv. Dict. Hist. Nat., nouv. 
 
 
 
@@ -57825,7 +57825,7 @@ Margarops fuscatus densirostris (Vieillot)
 
 
 
-Turdus densirostris Vieillot, 1818, Nouv. Diet. Hist. Nat., nouv. 
+Turdus densirostris Vieillot, 1818, Nouv. Dict. Hist. Nat., nouv. 
 
  ed., 20, p. 232 — type locality not indicated = Martinique. 
 

@@ -9378,7 +9378,7 @@ Coliunba nifina sylvestris Vieillot
 
 
 
-Columha sylvestris Vieillot, Nouv. Diet. Hist. Nat., 26, 1818, p. 366. 
+Columha sylvestris Vieillot, Nouv. Dict. Hist. Nat., 26, 1818, p. 366. 
 
  (Paraguay, ex Azara.) 
 
@@ -10212,7 +10212,7 @@ Colimiba plumbea plimibea Vieillot
 
 
 
-Columba plumbea Vieillot, Nouv. Diet. Hist. Nat., 26, 1818, p. 358. 
+Columba plumbea Vieillot, Nouv. Dict. Hist. Nat., 26, 1818, p. 358. 
 
 
 
@@ -18374,7 +18374,7 @@ Gallicoluinba rubescens (Vieillot)
 
 
 
-Columba rxibescens Vieillot, Nouv. Diet. Hist. Nat., 26, 1818," p. 346. 
+Columba rxibescens Vieillot, Nouv. Dict. Hist. Nat., 26, 1818," p. 346. 
 
 
 
@@ -19577,7 +19577,7 @@ Eos bomea cyanonothus (Vieillot)
 
 
 
-Psittacus cyanonothus Vieillot, Nouv. Diet. Hist. Nat., 25, 1817 (1818), 
+Psittacus cyanonothus Vieillot, Nouv. Dict. Hist. Nat., 25, 1817 (1818), 
 
  p. 334. (Moluccas, ex Le VaiUant, Perroquets, pi. 93, error = Buru.) 
 
@@ -23683,7 +23683,7 @@ Kakatoe roseicapilla roseicapilla (VieUlot)
 
 
 
-Cacatua roseicapilla Vieillot, Nouv. Diet. Hist. Nat., 17, 1817, p. 12. 
+Cacatua roseicapilla Vieillot, Nouv. Dict. Hist. Nat., 17, 1817, p. 12. 
 
 
 
@@ -23816,7 +23816,7 @@ Anodorhynchus glaucus (Vieillot)
 
 
 
-Macrocercus glaucus Vieillot, Nouv. Diet. Hist. Nat., 2, 1816, p. 259. 
+Macrocercus glaucus Vieillot, Nouv. Dict. Hist. Nat., 2, 1816, p. 259. 
 
  (South America between lat. 27° and 30° S. ... on the banks of the 
 
@@ -24336,7 +24336,7 @@ Ara maracana (Vieillot)
 
 
 
-Macrocercus maracana Vieillot, Nouv. Diet. Hist. Nat., 2, 1816, p. 260. 
+Macrocercus maracana Vieillot, Nouv. Dict. Hist. Nat., 2, 1816, p. 260. 
 
 
 
@@ -24588,7 +24588,7 @@ Aratinga acuticaudata acuticaudata (Vieillot)
 
 
 
-Psittacus acuticaudatus YieiWot, Nouv. Diet. Hist. Nat., 25, 1817 (1818),^ 
+Psittacus acuticaudatus YieiWot, Nouv. Dict. Hist. Nat., 25, 1817 (1818),^ 
 
  p. 369. (Paraguay in lat. 24° S., ex Azara no. 278.) 
 
@@ -25580,7 +25580,7 @@ Cyanoliseus patagonus patagonus (Vieillot)
 
 
 
-Psittacus patagonus Vieillot, Nouv. Diet. Hist. Nat., 25, 1817 (1818), 
+Psittacus patagonus Vieillot, Nouv. Dict. Hist. Nat., 25, 1817 (1818), 
 
  p. 367. (Buenos Aires.) 
 
@@ -25731,7 +25731,7 @@ Pjrrrhura frontalis frontalis (Vieillot)
 
 
 
-Psittacus frontalis Vieillot, Nouv. Diet. Hist. Nat., 25, 1817 (1818), 
+Psittacus frontalis Vieillot, Nouv. Dict. Hist. Nat., 25, 1817 (1818), 
 
  p. 361. (Cayenne, ex Levaillant, Hist. Nat. Perroquets, pi. 17, error, 
 
@@ -25786,7 +25786,7 @@ Pyrrhxira frontalis chiripepe (Vieillot)
 
 
 
-Psittacus chiripepe Vieillot, Nouv. Diet. Hist. Nat., 25, 1817 (1818), 
+Psittacus chiripepe Vieillot, Nouv. Dict. Hist. Nat., 25, 1817 (1818), 
 
 
 
@@ -26435,7 +26435,7 @@ Myiopsitta monachus cotorra (Vieillot)
 
 
 
-Psittacus cotorra Vieillot, Nouv. Diet. Hist. Nat., 25, 1817 (1818), 
+Psittacus cotorra Vieillot, Nouv. Dict. Hist. Nat., 25, 1817 (1818), 
 
  p. 362. (Buenos Aires and Paraguay, restricted to Paraguay by Wet- 
 
@@ -27205,7 +27205,7 @@ Brotogeris versicolurus chiriri (Vieillot)
 
 
 
-Psittacus chiriri Vieillot, Nouv. Diet. Hist. Nat., 25, 1817 (1818), p. 359. 
+Psittacus chiriri Vieillot, Nouv. Dict. Hist. Nat., 25, 1817 (1818), p. 359. 
 
  (Paraguay, ex Azara, no. 283.) 
 
@@ -31269,7 +31269,7 @@ Prioniiurus platurus talautensis Hartert, Nov. ZooL, 5, 1898, p. 89.
 
 
 
-Psittacus 'platurus ''Temm." Vieillot, Nouv. Diet. Hist. Nat., 25, 1817 
+Psittacus 'platurus ''Temm." Vieillot, Nouv. Dict. Hist. Nat., 25, 1817 
 
 
 
@@ -32511,7 +32511,7 @@ Aprosmictus jonquillaceus jonquillaceus (Vieillot)
 
 
 
-Psittacus jonquillaceus Vieillot, Nouv. Diet. Hist. Nat., 25, 1817 (1818), 
+Psittacus jonquillaceus Vieillot, Nouv. Dict. Hist. Nat., 25, 1817 (1818), 
 
 
 
@@ -33406,7 +33406,7 @@ Agapomis roseicoUis ' (Vieillot)
 
 
 
-Psittacus roseicoUis Vieillot, Nouv. Diet. Hist. Nat., 25, 1817 (1818), 
+Psittacus roseicoUis Vieillot, Nouv. Dict. Hist. Nat., 25, 1817 (1818), 
 
 
 

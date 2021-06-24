@@ -2971,7 +2971,7 @@ Erythropygia pectoralis A. Smith, 1836, Rep. Exped.
 
 V Erythropygia leucophrys leucophrys (Vieillot) 
 
- ^. Sylvia leucophrys Vieillot, 1817, Nouv. Diet. Hist. Nat., 
+ ^. Sylvia leucophrys Vieillot, 1817, Nouv. Dict. Hist. Nat., 
 
  ^ ^ )( nouv. ed., 11, p. 191 — Gamtoos River, eastern Cape 
 
@@ -4099,7 +4099,7 @@ Pogonocichla stellata stellata (Vieillot)
 
 
 
-Muscicapa stellata Vieillot, 1818, Nouv. Diet. Hist. Nat., 
+Muscicapa stellata Vieillot, 1818, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 21, p. 468, ex Levaillant, 1805, Oiseaux Af- 
 
@@ -6004,7 +6004,7 @@ ERITHACUS INDICUS
 
 
 
-Sylvia indica Vieillot, 1817, Nouv. Diet. Hist. Nat., nouv. 
+Sylvia indica Vieillot, 1817, Nouv. Dict. Hist. Nat., nouv. 
 
 
 
@@ -7290,7 +7290,7 @@ Cossypha albicapilla albicapilla (Vieillot)
 
 
 
-Turdus albicapillus Vieillot, 1818, Nouv. Diet. Hist. Nat., 
+Turdus albicapillus Vieillot, 1818, Nouv. Dict. Hist. Nat., 
 
 
 
@@ -8599,7 +8599,7 @@ Copsychus malabaricus tricolor (Vieillot)
 
 
 
-Turdus tricolor Vieillot, 1818, Nouv. Diet. Hist. Nat., 
+Turdus tricolor Vieillot, 1818, Nouv. Dict. Hist. Nat., 
 
  nouv. ed,, 30, p. 291 — islands of the South Sea [= Ban- 
 
@@ -9281,7 +9281,7 @@ Ruticilla phoenicuroides Moore, 1854, in Horsfield and
 
 
 
-Oenanthe rufiventris Vieillot, 1818, Nouv. Diet. Hist. Nat., 
+Oenanthe rufiventris Vieillot, 1818, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 21, p. 431 — southern Africa, errore; re- 
 
@@ -10552,7 +10552,7 @@ Enicurus leschenaulti leschenaulti (Vieillot)
 
 
 
-Turdus Leschenaulti Vieillot, 1818, Nouv. Diet. Hist. Nat., 
+Turdus Leschenaulti Vieillot, 1818, Nouv. Dict. Hist. Nat., 
 
 
 
@@ -13621,7 +13621,7 @@ Oreicola jerdoni Blyth, 1867, Ibis, p. 14, new name for
 
  p. 128 — Purneah, nee Oenanthe melanoleuca = Saxi- 
 
- cola gutturalis Vieillot, 1818, Nouv. Diet. Hist. Nat., 
+ cola gutturalis Vieillot, 1818, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 21, p. 435. 
 
@@ -13686,7 +13686,7 @@ SAXICOLA GUTTURALIS
 
 
 
-Oenanthe gutturalis Vieillot, 1818, Nouv. Diet. Hist. Nat., 
+Oenanthe gutturalis Vieillot, 1818, Nouv. Dict. Hist. Nat., 
 
 
 
@@ -13896,7 +13896,7 @@ MYRMECOCICHLA NIGRA
 
 
 
-Oenanthe nigra Vieillot, 1818, Nouv. Diet. Hist. Nat., 
+Oenanthe nigra Vieillot, 1818, Nouv. Dict. Hist. Nat., 
 
 
 
@@ -15904,7 +15904,7 @@ __ — Monticola rupestris (Vieillot)
 
 
 
-Turdus rupestris Vieillot, 1818, Nouv. Diet. Hist. Nat., 
+Turdus rupestris Vieillot, 1818, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 20, p. 281 — near Cape Town [= Table Moun- 
 
@@ -15926,7 +15926,7 @@ MONTICOLA EXPLORATOR
 
 
 
-Turdus explorator Vieillot, 1818, Nouv. Diet. Hist. Nat., 
+Turdus explorator Vieillot, 1818, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., p. 260 — mountains of the Cape of Good 
 
@@ -17204,7 +17204,7 @@ ZOOTHERA PERONII
 
 
 
-Turdus peronii Vieillot, 1818, Nouv. Diet. Hist. Nat., noiiv. 
+Turdus peronii Vieillot, 1818, Nouv. Dict. Hist. Nat., noiiv. 
 
  ed., 20, p. 276 — New Holland [errore = Timor ; re- 
 
@@ -20560,7 +20560,7 @@ Platycichla flavipes flavipes (Vieillot)
 
 
 
-Turdus flavipes Vieillot, 1818, Nouv. Diet. Hist. Nat., 
+Turdus flavipes Vieillot, 1818, Nouv. Dict. Hist. Nat., 
 
 
 
@@ -24843,7 +24843,7 @@ Turdus rufiventris rufiventris Vieillot ,
 
 
 
-Turdus rufiventiis Vieillot, 1818, Nouv. Diet. Hist. Nat., 
+Turdus rufiventiis Vieillot, 1818, Nouv. Dict. Hist. Nat., 
 
 
 
@@ -25001,7 +25001,7 @@ ft., above Nazaret, Guajira, Colombia.
 
 
 
-Turdus leucomelas Vieillot, 1818, Nouv. Diet. Hist. Nat., 
+Turdus leucomelas Vieillot, 1818, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 20, p. 238, based on "Zorzal obscuro y bian- 
 
@@ -26004,7 +26004,7 @@ Turdus albicoUis albicollis Vieillot ^ ^ l^-^ y/
 
 
 
-Turdtis albicollis Vieillot, 1818, Nouv. Diet. Hist. Nat., 
+Turdtis albicollis Vieillot, 1818, Nouv. Dict. Hist. Nat., 
 
 
 
@@ -50584,7 +50584,7 @@ Genus RAMPHOCAENUS Vieillot
 
 
 
-Ramphocaenus Vieillot, 1819, Nouv. Diet. Hist. Nat., nouv. 
+Ramphocaenus Vieillot, 1819, Nouv. Dict. Hist. Nat., nouv. 
 
  ed., 29, p. 5. Type, by monotypy, Ramphocaenus mel- 
 
@@ -51712,7 +51712,7 @@ Polioptila dumicola dumicola (Vieillot)
 
 
 
-Sylvia dumicola Vieillot, 1817, Nouv. Diet. Hist. Nat., 
+Sylvia dumicola Vieillot, 1817, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 11, p. 170 — Paraguay. 
 

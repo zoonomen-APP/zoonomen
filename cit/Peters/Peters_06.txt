@@ -1114,7 +1114,7 @@ Jacamaralcyon tridactyla (Vieillot)
 
 
 
-Galbula tridactyla Vieillot, Nouv. Diet. Hist. Nat., 16, 1817, 
+Galbula tridactyla Vieillot, Nouv. Dict. Hist. Nat., 16, 1817, 
 
  p. 445. (Brazil; Pinto, op. cit., suggests Sao Paulo as re- 
 
@@ -1457,7 +1457,7 @@ Galbula leucogastra leucogastra Vieillot
 
 
 
-Galbula leucogastra Vieillot, Nouv. Diet. Hist. Nat., 16, 1817, 
+Galbula leucogastra Vieillot, Nouv. Dict. Hist. Nat., 16, 1817, 
 
  p. 444. (South America, restricted to Cayenne by Hellmayr, 
 
@@ -2175,7 +2175,7 @@ Nystalus chacuru chacuru (Vieillot)
 
 
 
-Bucco chacuru Vieillot, Nouv. Diet. Hist. Nat., 3, 1816, p. 239. 
+Bucco chacuru Vieillot, Nouv. Dict. Hist. Nat., 3, 1816, p. 239. 
 
  ( Paraguay. ) 
 
@@ -4564,7 +4564,7 @@ Megalaima zeylanica lineata (Vieillot)
 
 
 
-Capita lineatus Vieillot, Nouv. Diet. Hist. Nat., 4, 1816, p. 500. 
+Capita lineatus Vieillot, Nouv. Dict. Hist. Nat., 4, 1816, p. 500. 
 
 
 
@@ -7822,7 +7822,7 @@ Lybius minor minor (Cuvier)
 
 
 
-Bucco Levaillantii Vieillot, Nouv. Diet. Hist. Nat., 3, 1816, p. 
+Bucco Levaillantii Vieillot, Nouv. Dict. Hist. Nat., 3, 1816, p. 
 
  243. (Africa.) Not Bucco levaillanti Gmelin, 1806. 
 
@@ -10307,7 +10307,7 @@ Pteroglossus flavirostris azara (Vieillot)
 
 
 
-Ramphastos Azara Vieillot, Nouv. Diet. Hist. Nat., 34, 1819, p. 
+Ramphastos Azara Vieillot, Nouv. Dict. Hist. Nat., 34, 1819, p. 
 
  282. (Brazil.) 
 
@@ -10614,7 +10614,7 @@ Andigena bailloni (Vieillot)
 
 
 
-Ramphastos Bailloni Vieillot, Nouv. Diet. Hist. Nat., 34, 1819, 
+Ramphastos Bailloni Vieillot, Nouv. Dict. Hist. Nat., 34, 1819, 
 
  p. 283. (No locality = Brazil ex LeVaillant, Hist. Nat. Tou- 
 
@@ -13563,7 +13563,7 @@ Colaptes campestris campestris (Vieillot)
 
 
 
-Picus campestris Vieillot, Nouv. Diet. Hist. Nat., 26, 1818, p. 
+Picus campestris Vieillot, Nouv. Dict. Hist. Nat., 26, 1818, p. 
 
  101. (Paraguay.) 
 
@@ -13793,7 +13793,7 @@ Sul and Mato Grosso (southeastern).
 
 ? Chrysoptilus melanochloros cristatus (Vieillot) 
 
- Picus cristatus Vieillot, Nouv. Diet. Hist. Nat., 26, 1818, p. 98. 
+ Picus cristatus Vieillot, Nouv. Dict. Hist. Nat., 26, 1818, p. 98. 
 
  (Paraguay; restricted to Colonia Nueva Germania, north- 
 
@@ -14740,7 +14740,7 @@ Piculus flavigula erythropis (Vieillot)
 
 
 
-Picus erythropis Vieillot, Nouv. Diet. Hist. Nat., 26, 1818, p. 98. 
+Picus erythropis Vieillot, Nouv. Dict. Hist. Nat., 26, 1818, p. 98. 
 
  (Brazil.) 
 
@@ -14976,7 +14976,7 @@ Janeiro.
 
 Piculus chrysochloros chrysochloros (Vieillot) 
 
- Picus chrysochloros Vieillot, Nouv. Diet. Hist. Nat., 26, 1818, p. 
+ Picus chrysochloros Vieillot, Nouv. Dict. Hist. Nat., 26, 1818, p. 
 
 
 
@@ -16756,7 +16756,7 @@ Microptemus brachyurus brachyurus (Vieillot)
 
 
 
-Picus brachyurus Vieillot, Nouv. Diet. Hist. Nat., 26, 1818, p. 
+Picus brachyurus Vieillot, Nouv. Dict. Hist. Nat., 26, 1818, p. 
 
 
 
@@ -17375,7 +17375,7 @@ Picus vittatus vittatus Vieillot
 
 
 
-Picus vittatus Vieillot, Nouv. Diet. Hist. Nat., 26, 1818, p. 91. 
+Picus vittatus Vieillot, Nouv. Dict. Hist. Nat., 26, 1818, p. 91. 
 
  (No locality; restricted to Java by Hartert, Nov. Zool., 9, 
 
@@ -18133,7 +18133,7 @@ Picus chlorolophus chlorolophus Vieillot
 
 
 
-Picus chlorolophus Vieillot, Nouv. Diet. Hist. Nat., 26, 1818, p. 
+Picus chlorolophus Vieillot, Nouv. Dict. Hist. Nat., 26, 1818, p. 
 
  78. (Bengal.) 
 
@@ -18647,7 +18647,7 @@ lanica, 23, 1944, p. 206. ( Illuppaikkadavai, Ceylon.)
 
 Dinopium benghalense erithronothon (Vieillot) 
 
- Picus erithronothos Vieillot, Nouv. Diet. Hist. Nat., 26, 1818, 
+ Picus erithronothos Vieillot, Nouv. Dict. Hist. Nat., 26, 1818, 
 
 
 
@@ -21397,7 +21397,7 @@ Melanerpes flavifrons flavifrons (Vieillot)
 
 
 
-Picus flavifrons Vieillot, Nouv. Diet. Hist. Nat., 26, 1818, p. 75. 
+Picus flavifrons Vieillot, Nouv. Dict. Hist. Nat., 26, 1818, p. 75. 
 
  (Brazil.) 
 
@@ -21413,7 +21413,7 @@ Melanerpes flavifrons rubriventris (Vieillot)
 
 
 
-Picus rubriventris Vieillot, Nouv. Diet. Hist. Nat., 26, 1818, p. 
+Picus rubriventris Vieillot, Nouv. Dict. Hist. Nat., 26, 1818, p. 
 
  103. ( Paraguay, ^A- Azara. ) 
 
@@ -22871,7 +22871,7 @@ Dendropicos fuscescens fuscescens (Vieillot) ^
 
 
 
-Picus fuscescens Vieillot, Nouv. Diet. Hist. Nat., 26, 1818, p. 86. 
+Picus fuscescens Vieillot, Nouv. Dict. Hist. Nat., 26, 1818, p. 86. 
 
  ( South Africa, based on Levaillant, pi. 253 ; Grootvaders 
 
@@ -24812,7 +24812,7 @@ Dendrocopos macei macei (Vieillot)
 
 
 
-Picus Macei Vieillot, Nouv. Diet. Hist. Nat., 26, 1818, p. 80. 
+Picus Macei Vieillot, Nouv. Dict. Hist. Nat., 26, 1818, p. 80. 
 
  (Bengal.) 
 
@@ -29173,7 +29173,7 @@ Phloeoceastes melanoleucos albirostris (Vieillot)
 
 
 
-Picus albirostris Vieillot, Nouv. Diet. Hist. Nat., 26, 1818, p. 69. 
+Picus albirostris Vieillot, Nouv. Dict. Hist. Nat., 26, 1818, p. 69. 
 
  (Paraguay.) 2 
 

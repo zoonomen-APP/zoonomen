@@ -1918,7 +1918,7 @@ Rep. Toy. kChallenger,' Zool. ii. p. 85 (1881) ; Bams. Proc. Linn.
 Soc. N. S. W. (2) ii. p. 167 (1&87). 
 Artamus leucorhynchus, Gray, Gen. B. i. p. 235 (1845) ; Bp. Consp. 
 
-i. p. 343 (ISod); Cab. Mus. Rein. Th. i. p. 208 (1850) ; Cass. U. S. 
+i. p. 343 (ISod); Cab. Mus. Hein. Th. i. p. 208 (1850) ; Cass. U. S. 
 Expl. Exped., Birds, p. 140 (1858); Gray, P.Z. S. 1860, p. 354 ; 
 Wall. Lbis, 1860, p. 141 ; Gray, Iland-l B. i. p. 289, no. 4269 
 (1869); Walden, Ibis, 1872, p. 371; id. Trans. Z. S. viii. p. 67 
@@ -15409,7 +15409,7 @@ Juida nabourop, Gray, Gen. B. ii. p. 327 (1846).
 Spreo fulvipennis, Bp. Consp. i. p. 416 (1850) * Hartl. Orn. W.-Afr. 
 
 p. 116(1857). 
-Amydrus nabouroup, Cab. Mus. Rein. i. p. 201 (1850); Hartl. J. f 
+Amydrus nabouroup, Cab. Mus. Hein. i. p. 201 (1850); Hartl. J. f 
 6. 1859, p. 32. 
 Spreo nabouroup, Strickl. <§• Scl Contr. Orn. 1852, p. 149. 
 IS abouroupus fulvipennis, Bp. Notes Coll. Delattre, p. 8 (1854). 
@@ -17849,7 +17849,7 @@ Vidiia principalis, Cuvier, Myne Anim. i. p. 389 (lbl7); Gray, Gen.
 
 B. 
 ii. p. 355 (1849) ; Strickl. P.Z. S. 1850, p. 218; Bp. 6msp. i. 
-p. 449 (1850) ; Cab. Mus. Rein. Th. i. p. 175 (1850) ; Earth Orn. 
+p. 449 (1850) ; Cab. Mus. Hein. Th. i. p. 175 (1850) ; Earth Orn. 
 W.-Afr. p. 136 (1857); Grill, Zool. Antechi. pp. 10, 23 (1859J; 
 Cass. Proc. PMlad. Acad. 1859, p. 136; Earfl. J. f. 0. imi, 
 p. 257; Brehm, Reis. Eahesch, p. 90 (1863) ; Antin. Cat. descrr. 
@@ -19652,7 +19652,7 @@ Euplectes, Swains, (nee Leach, 1817), B. W. Afr. i. p. 186
 (1837) P. capensis. 
 Pyromelana, Bp. Saggio Bistr. Met. Anim. Vertebr. p. 141 
 (1831) *.... Rorjx. 
-Orynx, Cab. Mus. Rein. Th. i. p. 176 (ex Reichenb. Sgst. 
+Orynx, Cab. Mus. Hein. Th. i. p. 176 (ex Reichenb. Sgst. 
 
 Nat. Taf. lxxvi.) P, capensis. 
 Taha, Reichenb. Singv. p. 73 (1861) P. talia. 
@@ -26492,7 +26492,7 @@ Mus. (2; ii. Bull. p. 112 (1879) ; Bocage, Orn. Angola, p. 358
 Bidtik.Xvtesleyden, Mus. viii. p. 200 (1880); Shelley, Ibis, 1886, 
 p. 332. 
 Frmgilla lippa, Licht. Mas. BeroL, teste Bp. Consp. p. 468 (1850). 
-Habropvga melpuda, Cab. Mus. Rein. i. p. 169, note (1850); Sharpe, 
+Habropvga melpuda, Cab. Mus. Hein. i. p. 169, note (1850); Sharpe, 
 Cat. Afr. B. p. 06 (1871); Cab. J.f.O. 1885; p. 404 j Reichen. J. 
 
 f. O. 1887, p. 301. 
@@ -33901,7 +33901,7 @@ Tjpe.
 
 Sitagra, Meicherib. Syst. Nat. Taf. lxxix. fig. 15 (1850) .. ? S."luteola. 
 
-Sitagra, Cab. Mus. Rein. Th. i. p. 181 (1851) S. luteola. 
+Sitagra, Cab. Mus. Hein. Th. i. p. 181 (1851) S. luteola. 
 
 Range. Confined to Africa. 
 
@@ -40619,7 +40619,7 @@ Ayres, Ibis, 1869, p. 295,1871, p. 268; Gray, Hand-l B. ii. p. 121,
 no. 7791 (1870); Sharpe, P. Z. S. 1874, p. 618; id. ed. Bayards 
 j?.&4/h p. 498(1884). 
 
-Chersomanes garrula, Cab. Mus. Rein. Th. i. p. 126 (1850). 
+Chersomanes garrula, Cab. Mus. Hein. Th. i. p. 126 (1850). 
 Alsemon albofasciata, Licht. Nomencl. p. 39 (1854). 
 Certhilauda rufula, Sharpe, Cat Afr. B. p. 71 (1871); Gurney, in 
 
@@ -43327,7 +43327,7 @@ Beutschl. p. 309 (1831); Bp. Corny. List B. Eur. # N Amer.
 
 p. 38 (1838); Keys, u. Bias. Wirb. Eur. p. 153 (1840) ; MuUe, 
 Beitr. Orn. Griechenl p. 38 (1844); Gray, Gen. B. ii. p 381 (1844); 
-Bp. Consp. i. p. 242 (1850); Cab. Mus. Rein. Th. i. p. 23 (1850); 
+Bp. Consp. i. p. 242 (1850); Cab. Mus. Hein. Th. i. p. 23 (1850); 
 Horsf. § Moore, Cat. B. Mus. E. I. Co. ii. p. 470 (1856); Jaub. 
 AIAUDIDJ3. 
 
@@ -46492,7 +46492,7 @@ c,d,e. <$;fg, Seville, Peb. to May (B. Ruiz). Lord Lilfurd [P.].
 h. 2 ad. sk. 
 Subsp. j3. Alaadnk, minor. 
 
-Calandritis minor, Cab. Mus. Rein. Th. i. p. 123 (1850; ,* Eeugl. 
+Calandritis minor, Cab. Mus. Hein. Th. i. p. 123 (1850; ,* Eeugl. 
 Om. N.O.-Afr. ii. p. 697 (1871); F. von Eomeyer, J.f. 0.1673, 
 
 p. 196. 

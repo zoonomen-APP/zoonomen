@@ -2709,7 +2709,7 @@ p. 772 (1856) j Scl $ Salv. P.Z.S. 1871, p. 567, 1873, p. 310
 Zepsch, J.f. 0.1874, p. 278 (Santa Catharina); Durnf. Ibis, 1877, 
 p. 200 (Buenos Aires); Taczan.fyBerlepsch, P. Z. S. 1885, p. 112 
 (Kiobamba, Ecuador) j Scl. $ Muds. Argent. Orn. ii. p. 194 (1889) ; 
-Heinefy Beichen. Nomencl Mus. Rein. p. 355 (1890) ; Scl P. Z. S. 
+Heinefy Beichen. Nomencl. Mus. Hein. p. 355 (1890) ; Scl P. Z. S. 
 1891, p. 301 (alive at Zool. Gardens). 
 Thalassites magnirostris, Sw. Classif. B. ii. p. 372 (1837) ; Scl $ Salv. 
 
@@ -8643,7 +8643,7 @@ Sterna galericulata, Peheln, Orn. Bras. pp. 324, 461 (1871) ; JScl &
 Salv. P. Z. S. 1871, pp. .568-9 (partim). 
 Sterna eurygnatha, Saunders, P. Z. S. 1876, p. 654 (Santa Catharina, 
 Brazil). 
-Phaethusa elegans, Seine fy Beichenoic, Nomencl. Mus. Rein. p. 355 
+Phaethusa elegans, Seine fy Beichenoic, Nomencl. Mus. Hein. p. 355 
 
 (1890: partim, Brazil). 
 ? Phaethusa cayennensis, iid. t. c. p. 355 (Brazil). 
@@ -17519,7 +17519,7 @@ H. Gurney, Esq.
 
 9. Larus cirrhocephalus. 
 La Gabiota cenicienta, Azara, Apunt. iii. p. 350 (1802: Argentina). 
-Lams cirrhocephalus, Vieillot, Nouv. Diet. d'Hist. Nat. xxi. p. 502 
+Lams cirrhocephalus, Vieillot, Nouv. Dict. d'Hist. Nat. xxi. p. 502 
 (1818: Brazil); id. Enc. Meth. p. 345 (1824); id. Gal. O2s.iL 
 
 p. 223, pi. 289 (1834); llartl Ind. Azara,-p. 26 (1847); Gay, 
@@ -32288,7 +32288,7 @@ d. bkeleton. Off Cape Horn. Salvin-Godman Coll.
 5. MAJAOTEUS. 
 Majaqueus, Reich. Syst. Av. p. iv (1852): Coues, 
 i Pr. Ac. Phil. 1864, p. 117. 
-Oyniatobulus, F. Heine, Nomencl Mus. Rein. 
+Oyniatobulus, F. Heine, Nomencl. Mus. Hein. 
 
 
 p. 363 (1800) M. aquinoctialis. 
@@ -36605,7 +36605,7 @@ tf V10- Ad.sk. Fao., Persian Gulf, April, W. IX Gumming, Esq.
 May. J-Q^ 
 
 Add:— page 67. Sterna longipennis. 
-Sterna fluyiatilis longipennis, BerezowsJd $ BkmchL Av. JE-vped.
+Sterna fluyiatilis longipennis, Berezowski $ Bianchi Av. JE-vped.
 Fotamn. prov. Gansu, p. 1 (1891). 
 y, *-a. d $ ad. Amur Bay, April 19,1894. H. Seebohm, Esq. [P.]. 
 

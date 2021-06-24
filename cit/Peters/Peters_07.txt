@@ -2474,7 +2474,7 @@ Mag. Zool., 8, 1838, cl. 2, p. 12 — Guarayos, Bolivia.
 
 
 
-Dendrocopus juliginosus Vieillot, Nouv. Diet. Hist. Nat., 26, 1818, 
+Dendrocopus juliginosus Vieillot, Nouv. Dict. Hist. Nat., 26, 1818, 
 
  p. 117 — Cayenne; based on Levaillant, Hist. Nat. Promerops, pi. 28. 
 
@@ -3274,7 +3274,7 @@ Sittasomus griseicapillus transitivus Pinto and Camargo, Pap&s Avulsos
 
 
 
-Dendrocopus griseicapillus Vieillot, Nouv. Diet. Hist. Nat., 26, 1818, 
+Dendrocopus griseicapillus Vieillot, Nouv. Dict. Hist. Nat., 26, 1818, 
 
 
 
@@ -3492,7 +3492,7 @@ Glyphorynchus spirurus spirurus (Vieillot)
 
 
 
-Neops spirurus Vieillot, Nouv. Diet. Hist. Nat., 31, 1819, p. 338 — 
+Neops spirurus Vieillot, Nouv. Dict. Hist. Nat., 31, 1819, p. 338 — 
 
 
 
@@ -3669,7 +3669,7 @@ Nasica Lesson, Traite d'Orn., livr. 4, 1830, p. 311. Type, by monotypy,
 
 
 
-Dendrocopus longirostris Vieillot, Nouv. Diet. Hist. Nat., 26, 1818, 
+Dendrocopus longirostris Vieillot, Nouv. Dict. Hist. Nat., 26, 1818, 
 
  p. 117 — Brazil; restricted to Boca do Igarape Piaba, near Obidos, 
 
@@ -4365,7 +4365,7 @@ Xiphocolaptes albicollis albicollis (Vieillot)
 
 
 
-Dendrocopus albicollis Vieillot, Nouv. Diet. Hist. Nat., 26, 1818, p. 117 
+Dendrocopus albicollis Vieillot, Nouv. Dict. Hist. Nat., 26, 1818, p. 117 
 
 
 
@@ -4472,7 +4472,7 @@ Xiphocolaptes major major (Vieillot)
 
 
 
-Dendrocopus major Vieillot, Nouv. Diet. Hist. Nat., 26, 1818, p. 118 
+Dendrocopus major Vieillot, Nouv. Dict. Hist. Nat., 26, 1818, p. 118 
 
  — Paraguay, ex Azara. 
 
@@ -5796,7 +5796,7 @@ Xiphorhynchus pardalotus pardalotus (Vieillot)
 
 
 
-Dendrocopus pardalotus Vieillot, Nouv. Diet. Hist. Nat., 26, 1818, 
+Dendrocopus pardalotus Vieillot, Nouv. Dict. Hist. Nat., 26, 1818, 
 
  p. 117 — Cayenne. 
 
@@ -6903,7 +6903,7 @@ Lepidocolaptes angustirostris angustirostris (Vieillot)
 
 
 
-Dendrocopus angustirostris Vieillot, Nouv. Diet. Hist. Nat., 26, 1818, 
+Dendrocopus angustirostris Vieillot, Nouv. Dict. Hist. Nat., 26, 1818, 
 
 
 
@@ -7244,7 +7244,7 @@ Lepidocolaptes fuscus fuscus (Vieillot)
 
 
 
-Dendrocopus fuscus Vieillot, Nouv. Diet. Hist. Nat., 26, 1818, p. 117 
+Dendrocopus fuscus Vieillot, Nouv. Dict. Hist. Nat., 26, 1818, p. 117 
 
  — Brazil; type from near Rio de Janeiro, fide Hellmayr. 
 
@@ -8199,7 +8199,7 @@ Geositta cunicularia cunicularia ( Vieillot)
 
 
 
-Alauda cunicularia Vieillot, Nouv. Diet. Hist. Nat., 1, 1816, p. 369 — 
+Alauda cunicularia Vieillot, Nouv. Dict. Hist. Nat., 1, 1816, p. 369 — 
 
  Environs of the Rio de la Plata and in the pampas of Buenos Aires. 
 
@@ -9070,7 +9070,7 @@ Cordilleras of northern Chile in provinces of Tarapaca and Anto-
 
 Cinclodes fuscus fuscus (Vieillot) 
 
- Anthus fuscus Vieillot, Nouv. Diet. Hist. Nat., 26, 1818, p. 490 — 
+ Anthus fuscus Vieillot, Nouv. Dict. Hist. Nat., 26, 1818, p. 490 — 
 
  "Less rare in the fields of Montevideo and Buenos Aires than in 
 
@@ -9893,7 +9893,7 @@ Phleocryptes melanops melanops (Vieillot)
 
 
 
-Sylvia melanops Vieillot, Nouv. Diet. Hist. Nat., 11, 1817, p. 232 — 
+Sylvia melanops Vieillot, Nouv. Dict. Hist. Nat., 11, 1817, p. 232 — 
 
  Paraguay. 
 
@@ -10568,7 +10568,7 @@ Schoeniophylax phryganophila phryganophila (Vieillot)
 
 
 
-Sylvia phryganophila Vieillot, Nouv. Diet. Hist. Nat., 11, 1817, p. 207 
+Sylvia phryganophila Vieillot, Nouv. Dict. Hist. Nat., 11, 1817, p. 207 
 
 
 
@@ -10651,7 +10651,7 @@ Genus SYNALLAXIS Vieillot
 
 
 
-Synallaxis Vieillot, Nouv. Diet. Hist. Nat., 24, 1818, p. 117. Generic 
+Synallaxis Vieillot, Nouv. Dict. Hist. Nat., 24, 1818, p. 117. Generic 
 
  characters only; species added op. cit., 32, 1819, p. 310. Type, by 
 
@@ -10689,7 +10689,7 @@ Synallaxis ruficapilla Vieillot
 
 
 
-Synallaxis ruficapilla Vieillot, Nouv. Diet. Hist. Nat., 32, 1819, p. 310 
+Synallaxis ruficapilla Vieillot, Nouv. Dict. Hist. Nat., 32, 1819, p. 310 
 
  — Brazil; type from near Rio de Janeiro. 
 
@@ -12552,7 +12552,7 @@ Certhiaxis cinnamomea russeola (Vieillot)
 
 
 
-Sylvia russeola Vieillot, Nouv. Diet. Hist. Nat., 11, 1817, p. 217 — 
+Sylvia russeola Vieillot, Nouv. Dict. Hist. Nat., 11, 1817, p. 217 — 
 
  Paraguay. 
 
@@ -12907,7 +12907,7 @@ Cranioleuca pyrrhophia striaticeps (d'Orbigny and Lafresnaye)
 
 
 
-Dendrocopus pyrrhophius Vieillot, Nouv. Diet. Hist. Nat., 26, 1818, 
+Dendrocopus pyrrhophius Vieillot, Nouv. Dict. Hist. Nat., 26, 1818, 
 
 
 
@@ -13544,7 +13544,7 @@ Asthenes pyrrholeuca pyrrholeuca (Vieillot)
 
 
 
-Sylvia pyrrholeuca Vieillot, Nouv. Diet. Hist. Nat., 11, 1817, p. 277 — 
+Sylvia pyrrholeuca Vieillot, Nouv. Dict. Hist. Nat., 11, 1817, p. 277 — 
 
  Paraguay. 
 
@@ -14776,7 +14776,7 @@ Anumbius ferrugineigula Pelzeln, Sitzungsb. K. Akad. Wiss. Wien,
 
 
 
-Furnarius ruber Vieillot, Nouv. Diet. Hist. Nat., 12, 1817, p. 118 — 
+Furnarius ruber Vieillot, Nouv. Dict. Hist. Nat., 12, 1817, p. 118 — 
 
 
 
@@ -14935,7 +14935,7 @@ Anumbius annumbi (Vieillot)
 
 
 
-Furnarius annumbi Vieillot, Nouv. Diet. Hist. Nat., 12, 1817, p. 117 — 
+Furnarius annumbi Vieillot, Nouv. Dict. Hist. Nat., 12, 1817, p. 117 — 
 
  Paraguay. 
 
@@ -17107,7 +17107,7 @@ Philydor rufus rufus (Vieillot)
 
 
 
-Dendrocopus rufus Vieillot, Nouv. Diet. Hist. Nat., 26, 1818, p. 119 — 
+Dendrocopus rufus Vieillot, Nouv. Dict. Hist. Nat., 26, 1818, p. 119 — 
 
 
 
@@ -19526,7 +19526,7 @@ Sclerurus caudacutus caudacutus (Vieillot)
 
 
 
-Thamnophilus caudacutus Vieillot, Nouv. Diet. Hist. Nat., 3, 1816, 
+Thamnophilus caudacutus Vieillot, Nouv. Dict. Hist. Nat., 3, 1816, 
 
  p. 310 — Guiana = French Guiana. 
 
@@ -19998,7 +19998,7 @@ Hypoedaleus guttatus guttatus (Vieillot)
 
 
 
-Thamnophilus guttatus Vieillot, Nouv. Diet. Hist. Nat., 3, 1816, p. 315 
+Thamnophilus guttatus Vieillot, Nouv. Dict. Hist. Nat., 3, 1816, p. 315 
 
  — South America, = Rio de Janeiro by designation of Hellmayr, 
 
@@ -20070,7 +20070,7 @@ Southern Bolivia in Department of Tarija (Bermejo; Rio Lipeo), and
 
 
 
-Tamnophilus [sic] cinereus Vieillot, Nouv. Diet. Hist. Nat., 35, 1819, 
+Tamnophilus [sic] cinereus Vieillot, Nouv. Dict. Hist. Nat., 35, 1819, 
 
 
 
@@ -20191,7 +20191,7 @@ Frederickena viridis (Vieillot)
 
 
 
-Thamnophilus viridis Vieillot, Nouv. Diet. Hist. Nat., 3, 1816, p. 318 
+Thamnophilus viridis Vieillot, Nouv. Dict. Hist. Nat., 3, 1816, p. 318 
 
  — South America; Cayenne is accepted as the type locality. 
 
@@ -20496,7 +20496,7 @@ Taraba major major (Vieillot)
 
 
 
-T hamnophilus major Vieillot, Nouv. Diet. Hist. Nat., 3, 1816, p. 313 
+T hamnophilus major Vieillot, Nouv. Dict. Hist. Nat., 3, 1816, p. 313 
 
 
 
@@ -21323,7 +21323,7 @@ Thamnophilus dollatus radiatus Vieillot
 
 
 
-Thamnophilus radiatus Vieillot, Nouv. Diet. Hist. Nat., 3, 1816, p. 
+Thamnophilus radiatus Vieillot, Nouv. Dict. Hist. Nat., 3, 1816, p. 
 
 
 
@@ -22727,7 +22727,7 @@ Southeastern Brazil in southeastern Sao Paulo, eastern Parana, Santa
 
 
 
-Thamnophilus ccerulescens Vieillot, Nouv. Diet. Hist. Nat., 3, 1816, 
+Thamnophilus ccerulescens Vieillot, Nouv. Dict. Hist. Nat., 3, 1816, 
 
 
 
@@ -22935,7 +22935,7 @@ Thamnophilus ruficapillus ruficapillus Vieillot
 
 
 
-Thamnophilus ruficapillus Vieillot, Nouv. Diet. Hist. Nat., 3, 1816, 
+Thamnophilus ruficapillus Vieillot, Nouv. Dict. Hist. Nat., 3, 1816, 
 
  p. 318 — no locality; Corrientes suggested as type-locality by Hell- 
 
@@ -25120,7 +25120,7 @@ Myrmotherula axillaris axillaris (Vieillot)
 
 
 
-Myrmothera axillaris Vieillot, Nouv. Diet. Hist. Nat., 12, 1817, p. 113 
+Myrmothera axillaris Vieillot, Nouv. Dict. Hist. Nat., 12, 1817, p. 113 
 
  — Guiana, i.e. Cayenne. 
 
@@ -28197,7 +28197,7 @@ Pyriglena leucoptera (Vieillot)
 
 
 
-T urdus leucopterus Vieillot, Nouv. Diet. Hist. Nat., 20, 1818, p. 272 
+T urdus leucopterus Vieillot, Nouv. Dict. Hist. Nat., 20, 1818, p. 272 
 
  — Brazil; types from near Rio de Janeiro, fide Hellmayr, 1924, p. 
 
@@ -31227,7 +31227,7 @@ Chamaeza campanisona campanisona (Lichtenstein)
 
 
 
-Turdus brevicaudus Vieillot, Nouv. Diet. Hist. Nat., 20, 1818, p. 239 — 
+Turdus brevicaudus Vieillot, Nouv. Dict. Hist. Nat., 20, 1818, p. 239 — 
 
  Brazil; the types are from Rio de Janeiro. Not Turdus brevicauda 
 
@@ -31418,7 +31418,7 @@ Genus PITHYS Vieillot
 
 
 
-Pithy s Vieillot, Nouv. Diet. Hist. Nat., 24, 1818, p. 112 (generic diag- 
+Pithy s Vieillot, Nouv. Dict. Hist. Nat., 24, 1818, p. 112 (generic diag- 
 
  nosis only). Type, by subsequent designation, Pithy s leucops 
 
@@ -35323,7 +35323,7 @@ Conopophaga melanops melanops (Vieillot)
 
 
 
-Platyrhynchos melanops Vieillot, Nouv. Diet. Hist. Nat., 27, 1818, 
+Platyrhynchos melanops Vieillot, Nouv. Dict. Hist. Nat., 27, 1818, 
 
  p. 14 — South America; the type is from near Rio de Janeiro, Brazil, 
 

@@ -2893,7 +2893,7 @@ Mus., 6, p. 116 — Wakkerstroom, Transvaal.
 
 Bradypterus baboecala baboecala (Vieillot) 
 
- Sylvia baboecala Vieillot, 1817, Nouv. Diet. Hist. Nat., nouv. 
+ Sylvia baboecala Vieillot, 1817, Nouv. Dict. Hist. Nat., nouv. 
 
  ed., 11, p. 172; based on "La Caqueteuse" of Levaillant, 
 
@@ -2903,7 +2903,7 @@ Bradypterus baboecala baboecala (Vieillot)
 
  ince. 
 
- Sylvia brachyptera Vieillot, 1817, Nouv. Diet. Hist. Nat., 
+ Sylvia brachyptera Vieillot, 1817, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 11, p. 206; based on "Le Pavaneur" of Levail- 
 
@@ -6978,7 +6978,7 @@ Subgenus CALAMODUS Kaup
 
 Acrocephalus paludicola (Vieillot) 
 
- Sylvia paludicola Vieillot, 1817, Nouv. Diet. Hist. Nat., nouv. 
+ Sylvia paludicola Vieillot, 1817, Nouv. Dict. Hist. Nat., nouv. 
 
  ed., 11, p. 202-Lorraine and Picardy. 
 
@@ -7465,7 +7465,7 @@ Acrocephalus baeticatus baeticatus (Vieillot)
 
 
 
-Sylvia baeticata Vieillot, 1817, Nouv. Diet. Hist. Nat., nouv. 
+Sylvia baeticata Vieillot, 1817, Nouv. Dict. Hist. Nat., nouv. 
 
 
 
@@ -9300,7 +9300,7 @@ HIPPOLAIS POLYGLOTTA 1
 
 Hippolais polyglotta (Vieillot) 
 
- Sylvia poly glotta Vieillot, 1817, Nouv. Diet. Hist. Nat., nouv. 
+ Sylvia poly glotta Vieillot, 1817, Nouv. Dict. Hist. Nat., nouv. 
 
  ed., 11, p. 200— France. 
 
@@ -9331,7 +9331,7 @@ HIPPOLAIS ICTERINA
 
 Hippolais icterina icterina (Vieillot) 
 
- Sylvia icterina Vieillot, 1817, Nouv. Diet. Hist. Nat., nouv. 
+ Sylvia icterina Vieillot, 1817, Nouv. Dict. Hist. Nat., nouv. 
 
 
 
@@ -12335,7 +12335,7 @@ and southern Mozambique.
 
 Cisticola fulvicapilla fulvicapilla (Vieillot) 
 
- Sylvia fulvicapilla Vieillot, 1817, Nouv. Diet. Hist. Nat., nouv. 
+ Sylvia fulvicapilla Vieillot, 1817, Nouv. Dict. Hist. Nat., nouv. 
 
 
 
@@ -13357,7 +13357,7 @@ Cisticola textrix marleyi (Roberts)
 
 Cisticola textrix textrix (Vieillot) 
 
- Sylvia textrix Vieillot, 1817, Nouv. Diet. Hist. Nat., nouv. 
+ Sylvia textrix Vieillot, 1817, Nouv. Dict. Hist. Nat., nouv. 
 
  ed., 11, p. 208; based on "Le Pinc-pinc" of Levaillant, 1802, 
 
@@ -16349,7 +16349,7 @@ Prinia flavicans bihe Boulton and Vincent
 
 Prinia flavicans flavicans (Vieillot) 
 
- Sylvia subflava Vieillot, 1817, Nouv. Diet. Hist. Nat., nouv. 
+ Sylvia subflava Vieillot, 1817, Nouv. Dict. Hist. Nat., nouv. 
 
  ed., 11, p. 175; based on "Le Citrin" of Levaillant, 1802, 
 
@@ -18883,7 +18883,7 @@ STENOSTIRA SCITA
 
 Stenostira scita scita (Vieillot) 
 
- Muscicapa scita Vieillot, 1818, Nouv. Diet. Hist. Nat., nouv. 
+ Muscicapa scita Vieillot, 1818, Nouv. Dict. Hist. Nat., nouv. 
 
  ed., 21, p. 474; based on "Le Mignard" of Levaillant, 1805, 
 
@@ -20424,7 +20424,7 @@ Camaroptera brachyura constans Clancey
 
 Camaroptera brachyura brachyura (Vieillot) 
 
- Sylvia olivacea Vieillot, 1817, Nouv. Diet. Hist. Nat., nouv. 
+ Sylvia olivacea Vieillot, 1817, Nouv. Dict. Hist. Nat., nouv. 
 
  ed., 11, p. 205; based on "L'Olivert" of Levaillant, 1802, 
 
@@ -23263,7 +23263,7 @@ eastern Cape Province.
 
 Sylvietta rufescens rufescens (Vieillot) 
 
- Dicaeum rufescens Vieillot, 1817, Nouv. Diet. Hist. Nat., nouv 
+ Dicaeum rufescens Vieillot, 1817, Nouv. Dict. Hist. Nat., nouv 
 
  ed., 9, p. 407; based on "Le Crombec, ou Figuier a Bee 
 
@@ -24860,7 +24860,7 @@ Portugal.
 
 Phylloscopus collybita collybita (Vieillot) 
 
- Sylvia collybita Vieillot, 1817, Nouv. Diet. Hist. Nat., nouv. 
+ Sylvia collybita Vieillot, 1817, Nouv. Dict. Hist. Nat., nouv. 
 
  ed., 11, p. 235 — "regions septentrionales" of France; re- 
 
@@ -25102,7 +25102,7 @@ Subgenus RHADINA Billberg
 
 Phylloscopus bonelli bonelli (Vieillot) 
 
- Sylvia Bonelli Vieillot, 1819, Nouv. Diet. Hist. Nat., nouv. 
+ Sylvia Bonelli Vieillot, 1819, Nouv. Dict. Hist. Nat., nouv. 
 
  ed., 28, p. 91— "Piemont." 
 
@@ -29159,7 +29159,7 @@ Parisoma subcaeruleum orpheanum Clancey
 
 Parisoma subcaeruleum subcaeruleum (Vieillot) 
 
- Sylvia subcaerulea Vieillot, 1817, Nouv. Diet. Hist. Nat., 
+ Sylvia subcaerulea Vieillot, 1817, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 11, p. 188; based on "Le Grignet" of Levaillant, 
 
@@ -40438,7 +40438,7 @@ Subgenus BIAS Lesson
 
 Bias musicus musicus (Vieillot) 
 
- Platyrhynchos musicus Vieillot, 1818, Nouv. Diet. Hist. Nat., 
+ Platyrhynchos musicus Vieillot, 1818, Nouv. Dict. Hist. Nat., 
 
 
 
@@ -41009,7 +41009,7 @@ Batis pririt affinis (Wahlberg)
 
 Batis pririt pririt (Vieillot) 
 
- Muscicapa pririt Vieillot, 1818, Nouv. Diet. Hist. Nat., nouv. 
+ Muscicapa pririt Vieillot, 1818, Nouv. Dict. Hist. Nat., nouv. 
 
  ed., 21, p. 486; based on "Le Pririt" of Levaillant, 1805, 
 
@@ -50327,7 +50327,7 @@ Trochocercus cyanomelas segregus Clancey, 1975, Durban
 
  Trochocercus cyanomelas cyanomelas (Vieillot) 
 
- Muscicapa cyanomelas Vieillot, 1818, Nouv. Diet. Hist. Nat., 
+ Muscicapa cyanomelas Vieillot, 1818, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 21, p. 473; based on "Le Gobe-Mouches Man- 
 
@@ -54024,7 +54024,7 @@ MONARCHA MELANOPSIS 1
 
 Monarcha melanopsis (Vieillot) 
 
- Muscicapa melanopsis Vieillot, 1818, Nouv. Diet. Hist. Nat., 
+ Muscicapa melanopsis Vieillot, 1818, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 21, p. 450 — New South Wales = Sydney, fide 
 
@@ -55867,7 +55867,7 @@ MYIAGRA RUFICOLLIS
 
 Myiagra ruficollis ruficollis (Vieillot) 
 
- Platyrhynchos ruficollis Vieillot, 1818, Nouv. Diet. Hist. Nat., 
+ Platyrhynchos ruficollis Vieillot, 1818, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 27, p. 13 — "Nouvelle Hollande"; error: Timor, 
 
@@ -57020,7 +57020,7 @@ Rhipidura albicollis canescens (Koelz)
 
 Rhipidura albicollis albicollis (Vieillot) 
 
- Platyrhynchos albicollis Vieillot, 1818, Nouv. Diet. Hist. Nat., 
+ Platyrhynchos albicollis Vieillot, 1818, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 27, p. 13 — Bengal. 
 

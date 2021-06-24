@@ -2226,7 +2226,7 @@ Parula pitiayumi pitiayumi (Vieillot)
 
 
 
-Sylvia pitiayumi Vieillot, 1817, Nouv. Diet. Hist. Nat., 
+Sylvia pitiayumi Vieillot, 1817, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 11, p. 276 ; based on "Pico de Punzon celeste 
 
@@ -15048,7 +15048,7 @@ Muscicapa olivacea Linnaeus, 1766, Syst. Nat., ed. 12, 1,
 
  1(1807), p. 84, pi. 53 — no locality; New Jersey desig- 
 
- nated by Vieillot, 1819, Nouv. Diet. Hist. Nat., nouv. 
+ nated by Vieillot, 1819, Nouv. Dict. Hist. Nat., nouv. 
 
  ed., 36, p. 104. 
 
@@ -15375,7 +15375,7 @@ Vireo olivaceus chivi (Vieillot)
 
 
 
-Sylvia chivi Vieillot, 1817, Nouv. Diet. Hist. Nat., nouv. 
+Sylvia chivi Vieillot, 1817, Nouv. Dict. Hist. Nat., nouv. 
 
 
 
@@ -17964,7 +17964,7 @@ Xanthornus Chrysopterus Vigors, 1825, Zool. Journ., 2,
 
 p. 190 — Brasil. 
 
- Cassicus alhirostris Vieillot, 1816, Nouv. Diet. Hist. Nat., 
+ Cassicus alhirostris Vieillot, 1816, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 5, p. 364; based on "Yapu del Negro y 
 
@@ -18152,7 +18152,7 @@ Cacicus solitarius (Vieillot)
 
 
 
-Cassicus solitarius Vieillot, 1816, Nouv. Diet. Hist. Nat., 
+Cassicus solitarius Vieillot, 1816, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 5, p. 364 ; based on "Yapu Negro", no. 58, 
 
@@ -21342,7 +21342,7 @@ Agelaius cyanopus cyanopus Vieillot
 
 
 
-Agelaius cyanopus Vieillot, 1819, Nouv. Diet. Hist. Nat., 
+Agelaius cyanopus Vieillot, 1819, Nouv. Dict. Hist. Nat., 
 
 
 
@@ -21382,7 +21382,7 @@ Agelaius ruficapillus frontalis Vieillot
 
 
 
-Agelaius frontalis Vieillot, 1819, Nouv. Diet. Hist. Nat., 
+Agelaius frontalis Vieillot, 1819, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 34, p. 545 — Cayenne. 
 
@@ -21405,7 +21405,7 @@ Agelaius ruficapillus ruficapillus Vieillot
 
 
 
-Agelaius ruficapillus Vieillot, Nouv. Diet. Hist. Nat., 
+Agelaius ruficapillus Vieillot, Nouv. Dict. Hist. Nat., 
 
 
 
@@ -22145,7 +22145,7 @@ Pseudoleistes guirahuro (Vieillot)
 
 
 
-Agelaius guirahuro Vieillot, 1819, Nouv. Diet. Hist. Nat., 
+Agelaius guirahuro Vieillot, 1819, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 34, p. 545 ; based on "del Guirahuro", no. 64, 
 
@@ -22181,7 +22181,7 @@ Pseudoleistes virescens (Vieillot)
 
 
 
-Agelaius virescens Vieillot, 1819, Nouv. Diet. Hist. Nat., 
+Agelaius virescens Vieillot, 1819, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 34, p. 543 ; based on "del Dragon", no. 65, of 
 
@@ -22480,7 +22480,7 @@ Icterus sulcirostris Spix, 1824, Av. spec. Nov. Brasil., 1,
 
 Gnorimopsar chopi chopi (Vieillot) 
 
- Agelaius chopi Vieillot, 1819, Nouv. Diet. Hist. Nat., 
+ Agelaius chopi Vieillot, 1819, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 34, p. 537; based on "del Chopi", no. 62, of 
 
@@ -23151,7 +23151,7 @@ Quiscalus major major Vieillot
 
 
 
-Quiscalus major Vieillot, 1819, Nouv. Diet. Hist. Nat., 
+Quiscalus major Vieillot, 1819, Nouv. Dict. Hist. Nat., 
 
 
 
@@ -23236,7 +23236,7 @@ Quiscalus quiscula versicolor Vieillot
 
 
 
-Quiscalus versicolor Vieillot, 1819, Nouv. Diet. Hist. Nat., 
+Quiscalus versicolor Vieillot, 1819, Nouv. Dict. Hist. Nat., 
 
 
 
@@ -23918,7 +23918,7 @@ Molothrus badius badius (Vieillot)
 
 
 
-Agelaius badius Vieillot, 1819, Nouv. Diet. Hist. Nat., 
+Agelaius badius Vieillot, 1819, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 34, p. 535 — Paraguay and Rio de la Plata ; 
 
@@ -35739,7 +35739,7 @@ Pyrrhula pyrrhula europoea Vieillot
 
 
 
-Pyrrhula europoea Vieillot, 1816, Nouv. Diet. Hist. Nat., 
+Pyrrhula europoea Vieillot, 1816, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 4, p. 286 — Europe ; restricted to Normandie, 
 
@@ -40354,7 +40354,7 @@ Coccopygia Reichenbach, 1862-63, Singvogel, p. 23. Type,
 
 
 
-1 Fringilla viridis Vieillot, 1817, Nouv. Diet. Hist. Nat., nouv. ed., 
+1 Fringilla viridis Vieillot, 1817, Nouv. Dict. Hist. Nat., nouv. ed., 
 
  12, p. 180, and F .\_ringilla] Versicolor Vieillot, 1823, in Bonnaterre and 
 
@@ -40437,7 +40437,7 @@ Estrilda perreini perreini (Vieillot)
 
 
 
-Fringilla Perreini Vieillot, 1817, Nouv. Diet. Hist. Nat., 
+Fringilla Perreini Vieillot, 1817, Nouv. Dict. Hist. Nat., 
 
 
 
@@ -40707,7 +40707,7 @@ Eastern Kivu from Lake Edward to north end of Lake
 
 
 
-1 Fringilla Dufresni Vieillot, 1817, Nouv. Diet. Hist. Nat., nouv. ed., 
+1 Fringilla Dufresni Vieillot, 1817, Nouv. Dict. Hist. Nat., nouv. ed., 
 
  12, p. 181 — no type locality, is indeterminate. — M. A, T. 
 
@@ -40778,7 +40778,7 @@ Estrilda melpoda melpoda (Vieillot)
 
 
 
-Fringilla melpoda Vieillot, 1817, Nouv. Diet. Hist. Nat., 
+Fringilla melpoda Vieillot, 1817, Nouv. Dict. Hist. Nat., 
 
 
 
@@ -40953,7 +40953,7 @@ Estrilda troglodytes (Lichtenstein)
 
 
 
-Fringilla cinerea Vieillot, 1817, Nouv. Diet. Hist. Nat., 
+Fringilla cinerea Vieillot, 1817, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 12, p. 176 — Africa ; not Fringilla cinerea 
 
@@ -41853,7 +41853,7 @@ Amandava subflava subflava (Vieillot)
 
 
 
-Fringilla subflava Vieillot, 1819, Nouv. Diet. Hist. Nat., 
+Fringilla subflava Vieillot, 1819, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 30, p. 575 — Senegal. 
 
@@ -41950,7 +41950,7 @@ Ortygospiza atricollis atricollis (Vieillot)
 
 
 
-Fringilla atricollis Vieillot, 1817, Nouv. Diet. Hist. Nat., 
+Fringilla atricollis Vieillot, 1817, Nouv. Dict. Hist. Nat., 
 
 
 
@@ -42916,7 +42916,7 @@ Poephila guttata guttata (Vieillot)
 
 
 
-Fringilla guttata Vieillot, 1817, Nouv. Diet. Hist. Nat., 
+Fringilla guttata Vieillot, 1817, Nouv. Dict. Hist. Nat., 
 
  nouv. ed., 12, p. 233 — Moluccas [= Timor] . 
 
@@ -43565,7 +43565,7 @@ Erythrura tricolor (Vieillot)
 
 
 
-Fringilla tricolor Vieillot, 1817, Nouv. Diet. Hist. Nat., 
+Fringilla tricolor Vieillot, 1817, Nouv. Dict. Hist. Nat., 
 
 
 

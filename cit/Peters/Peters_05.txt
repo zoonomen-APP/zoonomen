@@ -3699,7 +3699,7 @@ Melano trochilus fuscus (Vieillot)
 
 
 
-Trochilus fuscus Vieillot, Nouv. Diet. Hist. Nat., 7, 1817, p. 348. 
+Trochilus fuscus Vieillot, Nouv. Dict. Hist. Nat., 7, 1817, p. 348. 
 
  (Brazil.) 
 
@@ -4060,7 +4060,7 @@ Anthracothorax nigricollis nigricollis (Vieillot)
 
 
 
-Trochilus nigricollis Vieillot, Nouv. Diet. Hist. Nat., 7, 1817, p. 349. 
+Trochilus nigricollis Vieillot, Nouv. Dict. Hist. Nat., 7, 1817, p. 349. 
 
 
 
@@ -4721,7 +4721,7 @@ Stephanoxis lalandi lalandi (Vieillot)
 
 
 
-Trochilus Lalandi Vieillot, 2 Nouv. Diet. Hist. Nat., 23, 1818, p. 427, 
+Trochilus Lalandi Vieillot, 2 Nouv. Dict. Hist. Nat., 23, 1818, p. 427, 
 
  pi. G 36, f. 3. (Brazil.) 
 
@@ -4832,7 +4832,7 @@ Lophornis magnifica (Vieillot)
 
 
 
-Trochilus magnificus Vieillot, Nouv. Diet. Hist. Nat., 7, 1817, p. 367. 
+Trochilus magnificus Vieillot, Nouv. Dict. Hist. Nat., 7, 1817, p. 367. 
 
  (Brazil.) 
 
@@ -7463,7 +7463,7 @@ Hylocharis leucotis leucotis (Vieillot)
 
 
 
-Trochilus leucotis Vieillot, Nouv. Diet. Hist. Nat., 23, 1818, p. 428. 
+Trochilus leucotis Vieillot, Nouv. Dict. Hist. Nat., 23, 1818, p. 428. 
 
 
 
@@ -7594,7 +7594,7 @@ Hylocharis cyanus cyanus (Vieillot)
 
 
 
-Trochilus cyanus Vieillot, Nouv. Diet. Hist. Nat., 23, 1818, p. 426. 
+Trochilus cyanus Vieillot, Nouv. Dict. Hist. Nat., 23, 1818, p. 426. 
 
 
 
@@ -8042,7 +8042,7 @@ Leucochloris albicollis (Vieillot)
 
 
 
-Trochilus albicollis Vieillot, Nouv. Diet. Hist. Nat., 23, 1818, p. 426. 
+Trochilus albicollis Vieillot, Nouv. Dict. Hist. Nat., 23, 1818, p. 426. 
 
  (Brazil; restricted to Sao Paulo by Pinto, Rev. Mus. Paulista, 22, 
 
@@ -8875,7 +8875,7 @@ Amazilia versicolor versicolor (Vieillot)
 
 
 
-Trochilus versicolor Vieillot, Nouv. Diet. Hist. Nat., 23, 1818, p. 430. 
+Trochilus versicolor Vieillot, Nouv. Dict. Hist. Nat., 23, 1818, p. 430. 
 
 
 
@@ -9064,7 +9064,7 @@ Amazilia fimbriata tephrocephala (Vieillot)
 
 
 
-Trochilus tephrocephalus Vieillot, Nouv. Diet. Hist. Nat., 23, 1818, 
+Trochilus tephrocephalus Vieillot, Nouv. Dict. Hist. Nat., 23, 1818, 
 
  p. 430. (Brazil.) 
 
@@ -10915,7 +10915,7 @@ Aphantochroa cirrochloris (Vieillot)
 
 
 
-Trochilus cirrochloris Vieillot, Nouv. Diet. Hist. Nat., 23, 1818, 
+Trochilus cirrochloris Vieillot, Nouv. Dict. Hist. Nat., 23, 1818, 
 
 
 
@@ -17520,7 +17520,7 @@ Doricha enicura (Vieillot)
 
 
 
-Trochilus enicurus Vieillot, Nouv. Diet. Hist. Nat., 23, 1818, p. 429. 
+Trochilus enicurus Vieillot, Nouv. Dict. Hist. Nat., 23, 1818, p. 429. 
 
 
 
@@ -18782,7 +18782,7 @@ Colius striatus nigricollis Vieillot
 
 
 
-Colius nigricollis Vieillot, Nouv. Diet. Hist. Nat., 7, 1817, p. 378, 
+Colius nigricollis Vieillot, Nouv. Dict. Hist. Nat., 7, 1817, p. 378, 
 
 
 
@@ -19641,7 +19641,7 @@ Temnotrogon Bonaparte, Ateneo Italiano, 2, no. 8, 1854, p. 129.
 
 
 
-Trogon roseigaster Vieillot, Nouv. Diet. Hist. Nat., 8, 1817, p. 314. 
+Trogon roseigaster Vieillot, Nouv. Dict. Hist. Nat., 8, 1817, p. 314. 
 
 
 
@@ -20262,7 +20262,7 @@ Northern Venezuela.
 
 
 
-Trogon collaris Vieillot, Nouv. Diet. Hist. Nat., 8, 1817, p. 320. 
+Trogon collaris Vieillot, Nouv. Dict. Hist. Nat., 8, 1817, p. 320. 
 
  (Cayenne.) 
 
@@ -20473,7 +20473,7 @@ Trogon rufus rufus Gmelin
 
 Trogon rufus Gmelin, Syst. Nat., 1, pt. 1, 1788, p. 404. (Cayenne.) 
 
- Trogon atricollis Vieillot, Nouv. Diet. Hist. Nat., 8, 1817, p. 318. 
+ Trogon atricollis Vieillot, Nouv. Dict. Hist. Nat., 8, 1817, p. 318. 
 
 
 
@@ -20562,7 +20562,7 @@ Trogon surrucura surrucura Vieillot
 
 
 
-Trogon surrucura Vieillot, Nouv. Diet. Hist. Nat., 8, 1817, p. 321. 
+Trogon surrucura Vieillot, Nouv. Dict. Hist. Nat., 8, 1817, p. 321. 
 
  (Paraguay.) 
 
@@ -22040,7 +22040,7 @@ Chloroceryle americana mathewsii Laubmann
 
 
 
-Alcedo viridis Vieillot, Nouv. Diet. Hist. Nat., 19, 1818, p. 413. 
+Alcedo viridis Vieillot, Nouv. Dict. Hist. Nat., 19, 1818, p. 413. 
 
 
 
@@ -22806,7 +22806,7 @@ Alcedo coemlescens Vieillot
 
 
 
-Alcedo ccerulescens Vieillot, Nouv. Diet. Hist. Nat., 19, 1818, p. 401. 
+Alcedo ccerulescens Vieillot, Nouv. Dict. Hist. Nat., 19, 1818, p. 401. 
 
 
 
@@ -25608,7 +25608,7 @@ Halcyon cyanoventris Vieillot
 
 
 
-Halcyon cyanoventris Vieillot, Nouv. Diet. Hist. Nat., 19, 1818, 
+Halcyon cyanoventris Vieillot, Nouv. Dict. Hist. Nat., 19, 1818, 
 
 
 
@@ -25795,7 +25795,7 @@ Halcyon senegalensis cyanoleuca (Vieillot)
 
 
 
-Alcedo cyanoleuca Vieillot, Nouv. Diet. Hist. Nat., 19, 1818, p. 401. 
+Alcedo cyanoleuca Vieillot, Nouv. Dict. Hist. Nat., 19, 1818, p. 401. 
 
 
 
@@ -26541,7 +26541,7 @@ Halcyon australasia australasia (Vieillot)
 
 
 
-Alcedo australasia Vieillot, Nouv. Diet. Hist. Nat., 19, 1818, p. 419. 
+Alcedo australasia Vieillot, Nouv. Dict. Hist. Nat., 19, 1818, p. 419. 
 
  (No locality; Timor designated by Hellmayr, Avif. Timor, 1914, 
 
@@ -29150,7 +29150,7 @@ Baryphthengus ruficapillus ruficapillus (Vieillot)
 
 
 
-Baryphonus ruficapillus Vieillot, Nouv. Diet. Hist. Nat., 21, 1818, 
+Baryphonus ruficapillus Vieillot, Nouv. Dict. Hist. Nat., 21, 1818, 
 
 
 
@@ -29901,7 +29901,7 @@ Melittophagus variegatus variegatus (Vieillot)
 
 
 
-Merops variegatus Vieillot, Nouv. Diet. Hist. Nat., 14, 1817, p. 25. 
+Merops variegatus Vieillot, Nouv. Dict. Hist. Nat., 14, 1817, p. 25. 
 
  (Malimbe, Portuguese Congo.) 
 
@@ -29990,7 +29990,7 @@ Melittophagus bulocki bulocki ( Vieillot)
 
 
 
-Merops Bulocki [sic] Vieillot, Nouv. Diet. Hist. Nat., 14, 1817, p. 13. 
+Merops Bulocki [sic] Vieillot, Nouv. Dict. Hist. Nat., 14, 1817, p. 13. 
 
  (Senegal.) 
 
@@ -30212,7 +30212,7 @@ Aerops albicollis (Vieillot)
 
 
 
-Merops albicollis Vieillot, Nouv. Diet. Hist. Nat., 14, 1817, p. 15. 
+Merops albicollis Vieillot, Nouv. Dict. Hist. Nat., 14, 1817, p. 15. 
 
 
 
@@ -30299,7 +30299,7 @@ Merops leschenaulti leschenaulti Vieillot
 
 
 
-Merops Leschenaulti Vieillot, 1 Nouv. Diet. Hist. Nat., 14, 1817, p. 17. 
+Merops Leschenaulti Vieillot, 1 Nouv. Dict. Hist. Nat., 14, 1817, p. 17. 
 
  (Java, error = Ceylon.) 
 
@@ -30317,7 +30317,7 @@ Merops leschenaulti quinticolor Vieillot
 
 
 
-Merops quinticolor Vieillot, Nouv. Diet. Hist. Nat., 14, 1817, p. 21. 
+Merops quinticolor Vieillot, Nouv. Dict. Hist. Nat., 14, 1817, p. 21. 
 
 
 
@@ -30426,7 +30426,7 @@ Merops superciliosus Linne\ Syst. Nat., ed. 12, 1, 1766, p. 183.
 
 (Madagascar.) 
 
- Merops ruficapillus Vieillot, Nouv. Diet. Hist. Nat., 14, 1817, p. 23. 
+ Merops ruficapillus Vieillot, Nouv. Dict. Hist. Nat., 14, 1817, p. 23. 
 
  (Africa, based on pi. 19 of Levaillant's Ois. de Paradis; restricted 
 
@@ -31541,7 +31541,7 @@ p. 113. (Siam.)
 
 Coracias temminckii (Vieillot) 
 
- Garrulus Temminckii Vieillot, Nouv. Diet. Hist. Nat., 29, 1819, 
+ Garrulus Temminckii Vieillot, Nouv. Dict. Hist. Nat., 29, 1819, 
 
 
 
@@ -32799,7 +32799,7 @@ Rhinopomastus cyanomelas cyanomelas (Vieillot)
 
 
 
-Falcinellus cyanomelas Vieillot, Nouv. Diet. Hist. Nat., 28, 1819, 
+Falcinellus cyanomelas Vieillot, Nouv. Dict. Hist. Nat., 28, 1819, 
 
  p. 165. (Namaqualand.) 
 
@@ -34179,7 +34179,7 @@ Aceros leucocephalus leucocephalus (Vieillot)
 
 
 
-Buceros leucocephalus Vieillot, Nouv. Diet. Hist. Nat., 4, 1816, 
+Buceros leucocephalus Vieillot, Nouv. Dict. Hist. Nat., 4, 1816, 
 
 
 
@@ -34280,7 +34280,7 @@ Aceros plicatus ruficollis (Vieillot)
 
 
 
-Buceros ruficollis Vieillot, Nouv. Diet. Hist. Nat., 4, 1816, p. 600. 
+Buceros ruficollis Vieillot, Nouv. Dict. Hist. Nat., 4, 1816, p. 600. 
 
  (Waigeu.) 
 
@@ -34941,7 +34941,7 @@ Buceros rhinoceros silvestris Vieillot
 
 
 
-Buceros silvestris Vieillot, Nouv. Diet. Hist. Nat., 4, 1816, p. 592. 
+Buceros silvestris Vieillot, Nouv. Dict. Hist. Nat., 4, 1816, p. 592. 
 
 
 
@@ -34984,7 +34984,7 @@ Buceros bicornis Linne, Syst. Nat., ed. 10, 1, 1758, p. 104. (China,
 
 
 
-Buceros cristatus Vieillot, Nouv. Diet. Hist. Nat., 4, 1816, p. 591. 
+Buceros cristatus Vieillot, Nouv. Dict. Hist. Nat., 4, 1816, p. 591. 
 
  (Batavia, error = Sumatra.) 
 
