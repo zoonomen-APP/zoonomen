@@ -1,0 +1,28 @@
+#2021.06.16
+#
+#First remove numbering column.
+
+#cut --complement -f 1 sofar001.txt > od001a.tmp
+cut --complement -f 1 sofar002.txt > od002a.tmp
+
+#next put <li> and </li> around the line
+#
+sed -e 's/$/ <\/li>/' -e 's/^/<li> /' od002a.tmp > od002b.tmp
+#
+sed -e '/http/s/http/ <a href="http/' -e '/http/s/ <\/li>$/" target="new">OD<\/a> <\/li>/' od002b.tmp > od002c.tmp
+sed '/<li>/s/	/\&emsp;/' od002c.tmp|sed '/<li>/s/	/\&emsp;/' > od002d.tmp
+
+#try adding italics
+#sed 's/emsp;/emsp;_/2' od002d.tmp > od002e.tmp
+# this works but will need to specify to limit to sp and ssp.
+sed '/emsp;[A-Z][a-z][a-z]* [a-z][a-z]/s/emsp;/emsp;_/2' od002d.tmp > od002e.tmp
+# with /emsp;[A-Z][a-z][a-z]* [a-z][a-z]*/
+#sed -e 's/emsp;_/emsp;<i>/' -e 's/\t/<\/i>/'
+
+#/http/s/http/ <a href="http/
+#/http/s/ <\/li>$/" target=new>OD<\/a> <\/li>/
+#
+#NOw add head and tail.
+
+#cat head01.txt od002d.tmp tail01.txt > OD002a.html
+

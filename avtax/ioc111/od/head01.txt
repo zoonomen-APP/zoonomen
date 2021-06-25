@@ -1,0 +1,20 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	" <a href="http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+	<html xmlns=" <a href="http://www.w3.org/1999/xhtml">
+	<head>
+	<meta name="generator"
+	content="HTML Tidy for Windows (vers 1st April 2002 (no joke)), 
+	see www.w3.org" />
+	<title>World Birds Taxonomic List: Original description links.</title>
+	<meta name="Authors" content="Alan P. Peterson " />
+	<link rel="stylesheet" href="./stylesheet.css" type="text/css"></link>
+	</head>
+	<body bgcolor="white">
+		<small>Version 0.001 (2021.06.23)</small>
+
+		<h1>Original description links</h1>
+
+		<h2>Struthioniformes thru Gruiformes</h2>
+		<ul>
+
+

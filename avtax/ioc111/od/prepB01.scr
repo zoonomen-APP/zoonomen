@@ -1,0 +1,15 @@
+sed 's/	/|/g' sofarB001.txt > sofarBT01.txt
+cut --complement -f 1 --delimiter="|" sofarBT01.txt > odt001a.tmp
+sed 's/^/<li> /' odt001a.tmp > odt001b.tmp
+sed 's/|/ \&emsp; /' odt001b.tmp > odt001c.tmp
+sed 's/|/ \&emsp; <i> /' odt001c.tmp > odt001d.tmp
+sed 's/|/<\/i> \&emsp; /' odt001d.tmp > odt001e.tmp
+sed 's/$/<\/li>/' odt001e.tmp > odt001f.tmp
+sed 's/||/ \&ensp; /' odt001f.tmp > odt001g.tmp
+sed 's/|/ \&ensp; /g' odt001g.tmp > odt001h.tmp
+sed 's/\&ensp; 1.000//' odt001h.tmp > odt001i.tmp
+sed -e '/http/s/http/ <a href="http/' odt001i.tmp > odt001j.tmp
+sed -e '/http/s/ <\/li>$/" target="new">OD<\/a><\/li>/' odt001j.tmp > odt001k.tmp
+
+
+

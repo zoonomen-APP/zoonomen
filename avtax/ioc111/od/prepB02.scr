@@ -1,0 +1,34 @@
+##
+##
+## Initially hand edited records for Struthio and Rhea to remove od links
+## making them consistent with other genera.
+## added step to remove repeated Somateria records that lack OD links
+sed '/[0-9]		/d' sofarB002.txt > sofarB002a.txt
+##
+## next replace tab with pipe
+sed 's/	/|/g' sofarB002a.txt > sofarBT02.txt
+## this works.
+## next remove leading count number.
+cut --complement -f 1 --delimiter="|" sofarBT02.txt > odt002a.tmp
+## this works.
+## note that the dagger shows up now as "<86>"
+##
+## Now add leading <li>
+sed 's/^/<li> /' odt002a.tmp > odt002b.tmp
+## this works.
+## now add wide space between ORDER and Family
+sed 's/|/ \&emsp; /' odt002b.tmp > odt002c.tmp
+##
+## Add emspace and start italics for taxon
+## this works
+sed 's/|/ \&emsp; <i> /' odt002c.tmp > odt002d.tmp
+sed 's/|/<\/i> \&emsp; /' odt002d.tmp > odt002e.tmp
+sed 's/$/<\/li>/' odt002e.tmp > odt002f.tmp
+sed 's/||/ \&ensp; /' odt002f.tmp > odt002g.tmp
+sed 's/|/ \&ensp; /g' odt002g.tmp > odt002h.tmp
+sed 's/\&ensp; 1.000//' odt002h.tmp > odt002i.tmp
+sed -e '/http/s/http/ <a href="http/' odt002i.tmp > odt002j.tmp
+sed -e '/http/s/<\/li>$/" target="new">OD<\/a><\/li>/' odt002j.tmp > odt002k.tmp
+
+
+
