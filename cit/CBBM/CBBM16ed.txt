@@ -415,7 +415,7 @@ Page
 24. 
 Petasopkora, Gray...... 105 
 
-1. serrirostris ( Vieitt.) 
+1. serrirostris ( Vieill.) 
 .. 106 
 
 2. iolata, Gould 107,657 
@@ -1186,7 +1186,7 @@ Smaragdochrysis, Gould 3y8
 124. Lopbornis, Less 419 
 1. ornatus (Bodd.).. 420, 667 
 2. gouldi (Less.) ' 421 
-3. magrnificus (Vieitt.) . . 422 
+3. magrnificus (Vieill.) . . 422 
 4. reimlus (Gould) 423 
 5. delattrii (Less.) .. 423, 668 
 6. stictolopbus, 
@@ -1194,7 +1194,7 @@ Salv. §
 Elliot 424, 668 
 7. belense (Eel.) 425 
 8. adorabilis, Salv 425 
-9. chalybaeus (Vieitt.) .. 426 
+9. chalybaeus (Vieill.) .. 426 
 10. verreauxi (Bourc.) 4:27, 668 
 11. 
 pavoninus, Solo, fy 
@@ -1205,7 +1205,7 @@ Heine 428
 1. popelairii (Eu Bus) 
 428, 668 
 2. langsdorffi (Bonn, fy 
-Vieitt.) 429 
+Vieill.) 429 
 3. 
 conversi (Bourc. fy 
 Muls.) 430 
@@ -22353,7 +22353,7 @@ $ ad. sk. Oct. {H. W.).
 
 7. Pygmornis pygmseus. 
 Le Brin blanc jeune age, Auckbert, Ois. Dor. i. p. 46, pi. 19. 
-Trochilub bra-Jiliensis, Vieitt, N. Diet. d'Hist. N. vii. p. 357 {nee 
+Trochilub bra-Jiliensis, Vieill. N. Diet. d'Hist. N. vii. p. 357 {nee 
 
 Latham)] cfOrh. § Lafr. Byn. Av: ii. p. 82. 
 Trochilus pygmcens, Spiv, Av. Bras7j>. 78, pi. 80. f. 1. 
@@ -45683,7 +45683,7 @@ Salvin-Godman Coll.
 
 2. Hydropsalis fnrcifera. 
 Ibiyau cola de tixera, Azara, Apunt. no. 309 (1805). 
-Caprimulgus furcifer, Vieitt. Nouv. Diet. x. p. 242 (1817). 
+Caprimulgus furcifer, Vieill. Nouv. Diet. x. p. 242 (1817). 
 Hydropsalis fnrcifera, Bp. Consp. i. p. 58 (1850); SclfySah. NbmencL 
 
 
@@ -47763,7 +47763,7 @@ Oaprimulgus grandis, Gm. Syst. Fat. i. p. 1029 (1788); Wied,
 
 Beitr. iii. p. 295 (1830); Koenig-Warth, J.f. 0. 1868, p. 372 
 (nidrfic). 
-Nyctibius grandis, Vieitt. Nouv. Diet xyi. p. 7 (1825); Jard.fySelby, 
+Nyctibius grandis, Vieill. Nouv. Diet xyi. p. 7 (1825); Jard.fySelby, 
 
 *Ill. Orn. pi. 89 (about 1829); Cab. in ScJwmb. Guiana, iii. p. 711 
 (1848); Gray, Gen. B. i. p. 46, pi. xvi. (1849); Bp. Consp. i. p. 58 

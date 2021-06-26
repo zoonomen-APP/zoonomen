@@ -2584,8 +2584,8 @@ Vultur atratus, Bartram, Trav. JST. 8r S. Carol $e. p. 289 (1791) ;
 Wils. Am. Orn. ix. p. 104, pi. lxxv. %. 2 (1814). 
 Vultur aura, Baud. Traite, ii. p. 19 (1800, nee £.). 
 Mbu, Azarji, Apunt. i. p. 19 (1802). 
-Vultur urubu, VieiU. Ois. d'Am. Sept pi. 11 (1807). 
-Catharista urubu, VieiU. N. Diet. xii. p. 401 (1817). 
+Vultur urubu, Vieill. Ois. d'Am. Sept pi. 11 (1807). 
+Catharista urubu, Vieill. N. Diet. xii. p. 401 (1817). 
 Catliartes foetens, Licht. Verz. Doubl p. 63 (1823, ex Illiger, Mus. 
 
 Berol) : Wied, Beitr. Naturg. Bras. iii. Abth. i. p. 58 (1830); Gray, 
@@ -3225,7 +3225,7 @@ d. Ad. sk. Valencia, Venezuela, A. Goering, Esq. [C.].
 
 12. IBYCTEE* 
 Type. 
-Ibycter, VieiU. Analyse, p. 22 (1816) I. amerieanus. 
+Ibycter, Vieill. Analyse, p. 22 (1816) I. amerieanus. 
 Daptrius, Vieill. Analyse, p. 22 (1816) .. I. ater. 
 Gymnops, Spix, Av. Bras, i. p. 11 (1824) I. ater. 
 Milvago, Spix, Av. Bras, i. p. 12 (1824) I. chiniachima. 
@@ -5086,7 +5086,7 @@ FALCO^ID^.
 Alilargo, Azara, Apunt. p. 136 (1802) ; Hartl. 2nd. Asara} p. 3 
 
 (1847). 
-Aquila maculosa, Vieitt. Ois. Am. Sept. pi. 3 bis (1807). 
+Aquila maculosa, Vieill. Ois. Am. Sept. pi. 3 bis (1807). 
 Circus macropterus, Vieill M Diet. iv. p. 458 (1816); Gray, Gen. 
 
 B. i p. 32 (1845); Bp. Consp. i. p. 34 (1850); Schl Mus. P.-B. 
@@ -5283,9 +5283,9 @@ always been referred.
 StricH. Orn. Sun. p. 152 (1855): Gurney in Anderss. B. Dam. Ld. 
 
 p. 33 (1872). 
-Circus ater, VieiU. N. Diet, iv. p. 459 (1816); Pucker. Rev. et Maq. 
+Circus ater, Vieill. N. Diet, iv. p. 459 (1816); Pucker. Rev. et Maq. 
 de Zool 1850, *p. 82. 
-Circus montagui, VieiU, N. Diet xxxi. p. 411 (1819); id. et OuTdt Gal. 
+Circus montagui, Vieill. N. Diet xxxi. p. 411 (1819); id. et OuTdt Gal. 
 Ois. L pi. 13 (1825); Less. TraiM, p. 84 (1831). 
 Falco cineraceus, Temm. Man. i. p. 76 (1820); Naum. Vog. Deutschl. 
 
@@ -5928,7 +5928,7 @@ Negribkneo, Azara, Apunt. i. p. 124 (1802).
 
 Faxado, Azara, Apunt i. p. 126 (1802). 
 
-Sparvius semitorquatus, Vieitt, N. Diet d?Hht Nat p. 322 (1817). 
+Sparvius semitorquatus, Vieill. N. Diet d?Hht Nat p. 322 (1817). 
 
 Falco leucomelas, Licht, Vera. Doubl p. 62 (1823, ex IUiger, MS.). 
 
@@ -6916,7 +6916,7 @@ W. T. Blanford, Esq. [0.].
 «. Sternum. W. T. Blanford, Esq. [0.]. 
 
 5. ILelierax niger. 
-Sparvius niger, Bonn, et Vieitt, Enc. MUh. iii. p. 1269 (1823); Vieill. 
+Sparvius niger, Bonn, et Vieill. Enc. MUh. iii. p. 1269 (1823); Vieill. 
 et Oud. Gal des Ois. i. pi. 22 (1825). 
 
 Kisus niger, Cuv* Mhgm Anim, i. p. 334 (1829); Less. TraiU, p. 59 
@@ -10281,7 +10281,7 @@ New Holland Sparrow-Hawk, Lath. Gen. Syn. Suppl. ii. p. 51 (1801).
 
 Falco nisus, var., Lath. Ind. Orn. Suppl. ii. p. xi (1801). 
 
-Sparvius cirrhocephalus, VieiU. N. Diet. x. p. 329 (1817). 
+Sparvius cirrhocephalus, Vieill. N. Diet. x. p. 329 (1817). 
 
 Accipiter torquatus, Vig. Trans. Linn. Soc. xv. p. 182 (1827); Gould, 
 
@@ -12765,7 +12765,7 @@ P.J.
 
 Le Bougri, ZevaSL Ois. dAfr. I p. 77, pi. 17 (1799). 
 Falco desertorum, Baud. Traite, ii. p. 164 (1800). 
-Bateo desertorum, Vieitt. 1ST. Diet. dHist Wat. iv. p. 478 (1816); 
+Bateo desertorum, Vieill. 1ST. Diet. dHist Wat. iv. p. 478 (1816); 
 
 
 Gurney, Ibis, 1862, p. 361; Schl Mus. P.-B. Buteones, p. 5 (1862); 
@@ -14288,7 +14288,7 @@ d. Ad. sk. S. America.
 Purchased. 
 30. ASTUKmA. 
 Type.
-Asturina, Vieitt. Analyse, p. 24 (1816) A. nitida. 
+Asturina, Vieill. Analyse, p. 24 (1816) A. nitida. 
 Rupornis, Kaup, Classif. Stiug. u. Vog. p. 120 (1844} A. magrnirostriij. 
 Asturisca, Swidev. Ai\ Tent p. 107 (1873), 
 
@@ -15024,9 +15024,9 @@ Gravilan mixto pintado, Azara. t. c. p. 92 (1802) • Kartl. t. c. p. 2
 Ga^ilan mixto negro, Azara, t c. p. 96 (1802) j Marti, t c. p. 2 
 (1847). 
 Falco zonurus, Shaw, Gen. Zool vii. p. 62 (1809). 
-Pandion fulvus, Vieitt. K Diet iii. p. 163 (1816). 
-Spizaetus niger, Vieitt. op. eit xxxii. p. 57 (1819). 
-Spizaetus ater, Vieitt. torn. cit. p. 58 (1819). 
+Pandion fulvus, Vieill. K Diet iii. p. 163 (1816). 
+Spizaetus niger, Vieill. op. eit xxxii. p. 57 (1819). 
+Spizaetus ater, Vieill. torn. cit. p. 58 (1819). 
 Aquila urubitinga, Spice, Av. Bras. i. pi. 1 b (1824). 
 Achilla picta, Spix, torn. eit. pi. 1 c (1824). 
 Morphnus urubitinga, Cuv. Itegne An. i. p. 330 (1829) ; DOrb. Voy. 
@@ -15328,7 +15328,7 @@ nulla) ; Strickl Orn. Syn. p. 37 (1855) j Gray, Hand-L B. i. p. 8
 Leucopternis polionota, Kaup, Isis, 1847, p. 212 • Bp, Consp. i. p. 19 
 (1850). 
 Asturina melanonota, Schl. Mus. P.-B. Asturina}, p. 10 (1862, nee 
-Vieitt.) • id. Bevue Accipitr. p. 103 (1873). 
+Vieill.) • id. Bevue Accipitr. p. 103 (1873). 
 
 Adult Above blackish slate-colour, the feathers of the back and 
 scapulars white at base, tipped with white, and irregularly spotted or 
@@ -15658,7 +15658,7 @@ c. Ad. sk. ^PPer Amazon. A. B. Wallace, Esq. [C.].
 d. Skeleton. Purchased. 
 36. THBASAETTJS. 
 Type. 
-Harpyia, VieiM. Analyse, p. 24 (1816) T. harpyia. 
+Harpyia, Vieill. Analyse, p. 24 (1816) T. harpyia. 
 Thrasaetus, Gray, P. Z. S.1837, p. 108 T. harpyia. 
 Nothrophrontes, Ghger, Kandb. Naturg. p. 219 (1842).... T. harpyia. 
 
@@ -21610,7 +21610,7 @@ i. 2 j uv * s^* Amboyna. A. R. Wallace, Esq. c:
 J. Ad. sk. Amboyna. R. B. Sharpe, Esq. [P], 
 2. Haliastur sphenuxus. 
 Cinereous Eagle, var., Lath. Gen. Si/n. Suppl. p. 18 (1801). 
-Milvus sphenurus, VieiU. N. Diet. iVHist. Nat. xx. p. o(54 (1818) ; id. 
+Milvus sphenurus, Vieill. N. Diet. iVHist. Nat. xx. p. o(54 (1818) ; id. 
 et Oud. Gal. Ois. I pi. XT. (1825). 
 Haliaetus canorus, Viq. <§* Ilorsf. Tr.Linn. 3. xv. p. 187 (1826); Goidd}
 Syn. B. Austr. pt. lii pi. 8. fig. 2 £18-38). 
@@ -22342,7 +22342,7 @@ b. Upper and under tail-coverts white leucqpygus, p. 328.
 Gavilan del estero sociabile, Azara, Apunt. i. p. 84 (1802); Hartl. 
 
 Ind. Azara, p. 2 (1847). t 
-Herpetotheres sociabilis, VieiU. Ni Diet, xviii. p. 318 (ex Asara). 
+Herpetotheres sociabilis, Vieill. Ni Diet, xviii. p. 318 (ex Asara). 
 Falco hamatus, Bliger, in Temm. PI. Col. i. pis. 61,231 (1823); Max. 
 
 JBeitr. Naturg. Bras. iii. p. 182 (1830). 
@@ -23403,7 +23403,7 @@ Le Tachard, LevaiU. Ois. dAfr. L pi. 19 (1799): Sundet. Krit. om
 ZevailL p 25 (1858). 
 Falco poliorhynchus, BecJisL Orn. Tmelimb. i. p. 19 (1802). 
 Accipiter lacertarius, Pall. Zoogr. Mosso-Asiat. I. p. 359 (1811). 
-Buteo apivorus, VieiU. &. Diet. d^Mst. Nat. iv. p. 479 (1816). 
+Buteo apivorus, Vieill. &. Diet. d^Mst. Nat. iv. p. 479 (1816). 
 AquHa variabilis, Koch, Syst. baier. ZooLjp. 115 (1816). 
 Pernis apivorus, Cuv. Bkgne An. i. p. 3z2 (1817); Gotdd, B. Bur. 
 
@@ -24888,7 +24888,7 @@ B. H. Hodgson, Esq. [P.].
 2. McroMerax MngiHarras. 
 Falco caerulescens (nee Linn.), BCorsf Tr. Linn. Soe. xiii. p. 135 (1822); 
 id. Zool Bes. Java, pi. 35 (1824) ; Temm. PI Col i. pi. 97 (1824) • 
-VieiU. 8f Oud. Gal Ois. i. p. 46, pi. 18 (1825) ; Kittl Kupf. Fog. 
+Vieill. 8f Oud. Gal Ois. i. p. 46, pi. 18 (1825) ; Kittl Kupf. Fog. 
 
 p. 4, pi. iii. £g. 2 (1832); Schl Mus. P.-B. Falc. p. 33 (1862) ,• id. 
 Vog. Nederl Ind. VaTko. pp. 7, 49, pi. 2. fig. 1 (1866). 
@@ -27016,7 +27016,7 @@ a. <$ ad. sk. Accra, July 1872. Captain G. E. Shelley [P.],
 19. Falco fusco-csBrnlescens. 
 Alconcillo aplomado, Azara, Aptmt i. p. 175 (1802). 
 Alconcxllo obscuro azulejo, Azara, Apunt. L p. 179 (1802). 
-Falco fusco-caerulescens, VieiU. N. Did. d'Hist. Wat ad. p. 90 (1817). 
+Falco fusco-caerulescens, Vieill. N. Did. d'Hist. Wat ad. p. 90 (1817). 
 
 
 *.-. yalc o tfcoracicus, Lieht. Verz. JDoubl p. 62 (1823). 
@@ -30253,7 +30253,7 @@ Br. Kirk [P.J.
 J. H. Gurney, Esq. [P.J. 
 
 20. Cerchneis ardesiaca. 
-Falco ardosiacus, Bonn, et Vieitt. Mic. Meth. i. p. 1238 (1823): HaHl 
+Falco ardosiacus, Bonn, et Vieill. Mic. Meth. i. p. 1238 (1823): HaHl 
 Orn. W.~Afr. p. 9 (1857). 
 Falco concolor, Temm, PI Col i. pi. 330 (1825, nee descr.) : Sw. B. 
 
