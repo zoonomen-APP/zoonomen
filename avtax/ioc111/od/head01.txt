@@ -10,11 +10,11 @@
 	<link rel="stylesheet" href="./stylesheet.css" type="text/css"></link>
 	</head>
 	<body bgcolor="white">
-		<small>Version 0.001 (2021.06.23)</small>
+		<small>Version 0.005 (2021.06.27)</small>
 
-		<h1>Original description links</h1>
+		<h3>Original description links</h3>
 
-		<h2>Struthioniformes thru Gruiformes</h2>
+		<h2>Struthioniformes thru Accipitriformes</h2>
 		<ul>
 
 
