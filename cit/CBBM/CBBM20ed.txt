@@ -11927,7 +11927,7 @@ Tacz. P. Z. S. 1879, p. 241; Sclat fy Salv. P. Z. S. 1879, pp. 538 (?),
 634 ; Sclat. List Vert. An. 8th ed. p. 339 (1883); Nutt. Pr. U. S. 
 Nat. Mus. vi. p. 407 (Nicaragua) (1883); Zeled. Pr. TJ. S. Nat. 
 Mus. Tiii. p. Il l (Costa Rica) (1885); Tacz. Orn. Per. iii. p. 191, 
-Tabl. p. 98 (1886); Ridgiv. Man. N. Am. Birds, p. 586 (1887) ; 
+Tabl. p. 98 (1886); Ridgw. Man. N. Am. Birds, p. 586 (1887) ; 
 Bignon, Bull. Soc. Zool Fr. 1888, p. 181; Salv.Sr Godm.Ibis, 1889, 
 p. 241. 
 Macrocercus (Aracanga) militaris, Bp. Rev. et Mag. de Zool. 1854, 
@@ -14150,7 +14150,7 @@ Bost Soc. N. II. ii. p. 295 (1874).
 Conurus holoclilorus (part.), Rchnw. Journ. f. Orn. 1881, p. 276 
 
 (Consp. Psitt. ^. 1G4). 
-Conurus holochlorus brevipes, Ridgio. Man. N. Am. B. p. 270(1887). 
+Conurus holochlorus brevipes, Ridgw. Man. N. Am. B. p. 270(1887). 
 
 About the size of C. liolocUorus, Sclat., but with weaker feet and 
 more deeply green lower parts. Total length 12*3 inches, wing (W>, 
@@ -15146,7 +15146,7 @@ p. 167); Salv. Cat B. Strield. Coll. p. 405 (1882) ; Coues, Checklist
 X. Am. B. p. 80, n. 400 (1882); Sclat. List Vert. An. 8th ed. 
 p. 342 (1883); Coues, Key to X. Am. B. p. 496, figs. 340, 347 (1884); 
 A. O. U. Check-list X. Am. B. p. 200 (1880); Shufeldt, Journ. 
-Anat. 8f Phys. xx. p. 407, pis. x., xi. (1.886); Ridgio. Man. X. Am. 
+Anat. 8f Phys. xx. p. 407, pis. x., xi. (1.886); Ridgw. Man. X. Am. 
 B. p. 270 (1887); Cooke, Rep. B. Migr. Miss. Valley, p. 124 
 (1888). 
 Sittace ludoviciana, Wagl. Mon. Psitt. p. 656 (1832) ,• Haril Syst 
@@ -17775,7 +17775,7 @@ under wing-coverts and axillars similar but less yellowish; quills
 underneath dusky grey. 
 
 Young male. Similar to the adult female, but a postocular region 
-decidedly tinged with blue" (Ridgivay), and rump bluish green 
+decidedly tinged with blue" (Ridgway), and rump bluish green 
 more or less tinged with ultramarine or deep blue. 
 
 Hub. Ecuador and Peru *. 
@@ -18062,7 +18062,7 @@ Psittacula chrvsogaster, Parzud. in 31us. Brit; Finsch, Papag. ii.
 
 p. 654 (1868). 
 ? Psittacula cyanoptera, Sah. (nee Bodd.) Ibis, 1886, p. 70. 
-Psittacula passerina vivida, Ridgio. Pr. U.S. Nat. Mus. x. p. 539 
+Psittacula passerina vivida, Ridgw. Pr. U.S. Nat. Mus. x. p. 539 
 (Bahia district) (1887) j Ibis, 1889. p. 128 ; Hartl. Joum. f. Orn. 
 1889, p. 113. 
 
@@ -21832,7 +21832,7 @@ Chrysotis diademata, part., Gieb. Tkes. Orn. i. p. 681 (1872).
 Androglossa finschi, Rchnw. Jonrn. f. Orn. 1881, p. 373 (Camp. Fsitt. 
 
 p. 213). J >* \ # 
-Amazona finschi, Ridgto. Man. N. Am. Birds, p. 587 (1887). 
+Amazona finschi, Ridgw. Man. N. Am. Birds, p. 587 (1887). 
 Adult male. Similar to the male of C. salvini, from which it differs 
 in having the green colour darker but brighter and with a yellower 
 tinge below, the black edges of the feathers much more strongly 

@@ -12388,7 +12388,7 @@ Myiozetetes sulphureus, Cab. etHein. Mus. Hem. ii. p. 61; ScL Cat.
 A. B. p. 220 f id. P. Z. S. 1871, pp. 751, 754; Feb. Orn. Bras. 
 p. 109; Sol. et Salv. Nomencl p. 49; iicl P. Z. S. 1873,p. 279; Tacz. 
 Orn. PSr. ii. p. 277; Salv. Ibis, 1885, p. 295 (Br. Guiana). 
-Tyrannus luggeri, Ridgio. Pr. TJ. S. N. M. i. p. 481 (cf. ScL P. Z. S. 
+Tyrannus luggeri, Ridgw. Pr. TJ. S. N. M. i. p. 481 (cf. ScL P. Z. S. 
 1880, p. 28). 
 
 Above olive-green; head grey, "with a concealed yellow vertical 
@@ -16312,7 +16312,7 @@ Empidochanes olivus, Scl Cat. A. B. p. 228; Scl et Salv. Nomencl.
 p. 51. 
 Ochthoeca arenacea, Sol et Salv. P. Z. S. 1877, p. 20. 
 Empidochanes arenaceus, Scl Ibis, 1887, p. 60. 
-Empidochanes vireoninus, Ridgio. Ibis, 1886, p. 461. 
+Empidochanes vireoninus, Ridgw. Ibis, 1886, p. 461. 
 Tyrannula trailli, Jard. Ann. N. H. xx. p. 330 (1847) (Tohago). 
 Above brown; line in front of the eyes and indistinct suporciliaries 
 whitish; wings and tail dark cinereous brown; tips of 
@@ -16938,7 +16938,7 @@ similar but rather smaller.
 
 Hob. Western INTorth America (in summer) and south to Mexico. 
 
-a. Ad. sk. Utah, U. S. A. (Ridgtoay). Salvin-Godman CoU. 
+a. Ad. sk. Utah, U. S. A. (Ridgw.y). Salvin-Godman CoU. 
 I. Ad. sk. Utah, U. S. A. (K W. Nelson). Sclater Coll. 
 c. Ad. sk Fort Steilacoom, IT. S. A. Sclater Coll. 
 (Baird). 
@@ -17123,7 +17123,7 @@ Empidonax bairdi, Lawr. Ann. L. N. Y. vii. p. 327 (Panama).
 Empidonax griseigularis, Lawr. Ann. L. N. Y. vii. p. 471 (Panama) ,* 
 
 Scl. et Salv. Nomencl. p. 52. 
-Empidonax acadicus, var. griseigularis, Baird, Brew, et Ridgio. iV. 
+Empidonax acadicus, var. griseigularis, Baird, Brew, et Ridgw. iV. 
 
 A. B. ii. p. 365. 
 First quill usually equal to, or longer than, fifth; above uniform 
@@ -17354,7 +17354,7 @@ i Ad sk. Coban, Vera Paz (Constamia). Sclater Coll.
 Empidonax flavescens, Lawr. Ann. Lyc. N. Y.viji. p. 138, et ix. 
 p. 115 (Oosta Rica); Frantz. J. f. 0. 1869, p. 308 (Costa Hica); 
 Salv. R Z. S. 1870, p. 198 (Veragua); Scl. et Salv. NotnmcLv.te; 
-Boucard. P. Z. S. 1878, p. 64 (Costa Eica); Bawd, Brew, et Ridgio. 
+Boucard. P. Z. S. 1878, p. 64 (Costa Eica); Bawd, Brew, et Ridgw. 
 N. A. B. ii. p. 363; Bidgw. Bis, 1886, p. 467. 
 232 
 TYRAJXNTDM. 
@@ -18469,7 +18469,7 @@ vii. p. 327 (Panama), et is. p. 115 (Costa Eica); Dresser, Ibis,
 Gundl J. f. 0. 1871, p. 293, et 1872, p. 420 (Cuba); Boueard, 
 P. Z. S. 1878, p. 64 (Costa Rica) ; Nekrling, J.f. 0.1883, p. 88; 
 Berl J.f. 0. 1884, p. 303 (Bucaramanga); Merrill, P. U.S. K M. 
-i. p. 137 (Texas); Ridgto. Proc. Biol Soc. Wash. ii. p. 92; id. Man. 
+i. p. 137 (Texas); Ridgw. Proc. Biol Soc. Wash. ii. p. 92; id. Man. 
 N. A. B. p. 333. 
 Muscicapa ludoviciana, Gm. 8. N. i. p. 934. 
 Tyrannus ludovicianus, VieilL Ois. Am. Sept. i. p. 75. pi. 45. 
@@ -19633,7 +19633,7 @@ P. Z. S. 1859, p. 866; id. Ibis, 1859, p. 440 (Mexico).
 Empidias fuscus, Cab. et Rein. Mus. Rein. ii. p. 69; Set Cat. A. R, 
 p. 234; Lawr. Ann. Lyc. N. Y. viii. p. 290 (New York); Scl. et 
 Salv. Nomencl. p. 53. 
-Sayomis fuscus, Baird, B. 2V*. Am. p. 184; Baird, Brew, et Ridgto* 
+Sayomis fuscus, Baird, B. 2V*. Am. p. 184; Baird, Brew, et Ridgw. 
 f JST. A. B. ii. p. 343; Dresser, Ibis, 1865, p. 473 (Texas) ; Coues. 
 
 Key 1ST. A. B. 1884, p. 437. 
@@ -19883,7 +19883,7 @@ Tyrannus leucogaster, Steph. Gen. Zool. xiii. pt. Ii p. 133.
 Tyrannus caroknensis, Temm. Tail, Meth. p. 24; Baird, B. JV. A?n. 
 p. 171; Cab. et Hem. Mus. Hein. ii. p. 79 ; Lawr. Ann. Lyc. N. Y. 
 viii. pp. 182,290; BlaJciston, 3is, 1862, p. 3, et 1863, p. 57; Dresser, 
-Ibis, 1865, p. 472 (Texas)• Ridgio. Ann. Lyc. X Y x. p. 375; 
+Ibis, 1865, p. 472 (Texas)• Ridgw. Ann. Lyc. X Y x. p. 375; 
 id. P. U.S. X. M. i. p. 471; Xehrling, J. f. 0. 1883, p. 87 
 (Illinois) ; Baird, Brew, et Ridgw. X. A. B. ii. p. 316*• Coues, Key 
 N. A. B. 1884, p. 432. 
@@ -20616,7 +20616,7 @@ Sclater^Ooll. Eyton CoE.
 
 10. Tyranuus apolites. 
 Laphyctes apolites, Cab. et Hein. Mus. Hein. ii. j>. 77. 
-Tyrannus apolites, Ridgiv. Proc. US. JSfat. Mus. i. p. 478. 
+Tyrannus apolites, Ridgw. Proc. US. JSfat. Mus. i. p. 478. 
 
 Similar to T. rnelaneholicus, but smaller, bill shorter and weaker; 
 cap blackish, not greyish.; darker back and much paler belly ; 
@@ -28598,7 +28598,7 @@ Rica) ; id. Ibis, 1872, p. 313 (Nicaragua) ; Lawr. Ann. Lyc. N. Y.
 
 viii. p. 183 (Nicaragua), ix. p. 117 (Costa Rica) ; Frantz. J.f. 0. 
 1869, p. 310 (Costa Rica) ,* Scl. et Salv. Nomencl. p. 58 ; Boucard, 
-P. Z. S. 1878, p. 65 (Costa Rica) ; Ridgto. P. U.S. N. M. i, p. 255 
+P. Z. S. 1878, p. 65 (Costa Rica) ; Ridgw. P. U.S. N. M. i, p. 255 
 (Costa Rica). 
 Snow-white, upper parts tinged with greyish, especially on the 
 head; bill plumbeous; feet black: whole length 8 inches, wing 5%5, 

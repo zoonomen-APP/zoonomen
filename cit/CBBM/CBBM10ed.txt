@@ -611,7 +611,7 @@ M 1. o]js2GBu& (Giraud). 337,651
 1. auri^apliua, (L.) . . 339, 052 
 2. motacilla (F.) ... . 342, 652 
 3. mm^(Bodd.) .. 343, 652 
-a. notabilis, Ridgio 346 
+a. notabilis, Ridgw.346 
 11. Oporornis, Baird 346 
 l.agilis(JFi&.) ... . 347,653 1 
 0 2.furmosa(JF&.) .. 348,653 
@@ -16686,7 +16686,7 @@ Brewer, $ Ridgw. Hist. N. Amer. B. i. p. 194, pi. 11.fig. 3 (1874);
 Gundl Orn. Cuba, pp. 62, 248 (1876); Coues, B. Color. Vail p. 214, 
 note (1878) ; Ridgw. Bull. U.S. Nat. Mus. no. 21, p. 16 (1881); 
 Coues, Check-list, p. 35 (1882). 
-Helminthophila bachmani, Ridgio. Bull Mitt. Orn. Club, vii. p. 53 
+Helminthophila bachmani, Ridgw. Bull Mitt. Orn. Club, vii. p. 53 
 (1882); Bailey, Bidl Nutt. Orn. Club, viii. p. 38 (1883) ; Coues, 
 Key N. Amer. B. 2nd ed. p. 294 (1884). 
 
@@ -17237,14 +17237,14 @@ Helminthophaga virginiae, Baird, B. N. Amer., Atlas, p. xi, footnote,
 pi. 79. fig. 1 (1860); id. Revieto Amer. B. p. 177 (1865); Cooper. 
 
 B. Calif, p. 85 (1870); Coues, Key JSf. Amer. B. p. 94 (1872) ; id, 
-B. N.-'West, p. 51 (1874) ; Baird, Brewer,tyRidgiv. Hist N. Amer. 
+B. N.-'West, p. 51 (1874) ; Baird, Brewer,tyRidgw. Hist N. Amer. 
 B. i. p. 199, pi. 11.fig. 12, iii. App. p. 504 (1874) ; Hensh. Hep. Orn. 
 Spec. 1874, p. 41; id. List B. Arizona, p. 156 (1875) ; id. ZooL 
 JBxpl. W. 100th Merid. p. 189 (1876); Ridgw. Rep. US. GeoL 
 Expl. 40*7* Par. p. 428 (1877); Coues, B. Color. Vail p. 222 (1878) ; 
 Ridgw. Bull. U.S. Nat. Mus. no. 21, p. 16 (1881) ; Coues, Checklist, 
 p. 35 (1882). 
-Helminthophila virginiae, Ridgio. Bull. Nutt. Orn. Club, vii. p. 54 
+Helminthophila virginiae, Ridgw. Bull. Nutt. Orn. Club, vii. p. 54 
 (1882) ; Allen $ Brewst. op. cit. viii. p. 155 (1883) ; Coues, Key N. 
 Amer. B. 2nd ed. p. 294 (1884). 
 
@@ -19795,7 +19795,7 @@ Sylvicola vieilloti (wee Cass.)> Finsch, Abhandl not. Ver. Bremen, ii.
 p. 329 (1870). 
 Dendroeca vieilloti, pt., Scl $ Sab. Nbmencl AD. Keotr. p. 9 (18*3); 
 Safoin fy Godm. Biol Centr.-Amsr., Aves, I p. 125 US80). 
-Dendroeca vieilloti, var. brvanti, Ridgio. Amm\ Nat. vii. p.60i> (1873); 
+Dendroeca vieilloti, var. brvanti, Ridgw. Amm\ Nat. vii. p.60i> (1873); 
 itoM, Brewer,fy Bidgw. Hist. N. Amer. B. i. p. 21^ (1674); Coties, 
 
 B. Color. Vail p. 256 (1878). 
@@ -21354,7 +21354,7 @@ Rnimamplras discolor, Gundl. J.f. 0.1855, p. 474.
 Dendroica discolor, Baird, B. N. Amer. p. 290 (1858) ; March, Proc. 
 Philad. Acad. 1863, p. 293; Baird. Rev. Amer. B. p. 213 (1865); 
 Laiur. Ann. Lyc. N. Y. viii. p. 284 (1866); Baird, Brewer, fy 
-Ridgio. Eist. N. Amer. B. i. p. 276, pi. 14. fig. 9 (1874). 
+Ridgw. Eist. N. Amer. B. i. p. 276, pi. 14. fig. 9 (1874). 
 
 Dendrceca discolor, A. § E. Newton, Ibis, 1859, p. 144; Scl P. Z. S. 
 1861, p. 71; id. Cat. Amer. B. p. 33 (1862); Sund. (Efv. K. Vet.~ 
@@ -21364,7 +21364,7 @@ Cambr. ii. p. 268 (1871), iii. p. 125 (1872); Coues, Key N. Amer.
 B. p. 103 (1872) ; Scl. fy Salv. Nomencl. Av. Neotr. p. 9 (1873) ; 
 Mayn. B. Florida, p. 58 (1873); Coues, B. N.- West, p. 63 (1874); 
 Gundl. Orn. Cuba, p. 67 (1876); Coues, B. Color. Vail. p. 247 
-(1878) ; Cory, B. Bahamas, p. 64 (1880); Ridgio. Butt. U.S. Nat. 
+(1878) ; Cory, B. Bahamas, p. 64 (1880); Ridgw. Butt. U.S. Nat. 
 Mus. no. 21, p. 18 (1881); Salv. $ Godm. Biol Centr.-Amer., Aves, 
 i. p. 142 (1881) ; A. $ E. Newt. Handb. Jamaica, p. 100 (1881); 
 Coues, Key N. Amer. B. 2nd ed. p. 305 (1884); Cory, B. S. 
@@ -22366,7 +22366,7 @@ x. <$ imm. sk. Medellin. T. K Salmon, E-q. T. I
 Sylvicola pityophila, GundL Ann. Lyc. N. T. vi. p. 160 (18oo). 
 Ehimamphus pityophilus, GundL J.f. 0.1&57, p. 240. 
 Dendroica pityophila, JBaird, Rev. Amer. B. p. 2(b (18&oj; Baird, 
-Brewer, qr Ridgio. Hist. N. Amer. B. i. p. 221 (1^74). 
+Brewer, qr Ridgw. Hist. N. Amer. B. i. p. 221 (1^74). 
 Dendrceea pityophila, Snndev. CEfv. K. Vet.-AJiacL 'Forh. Stockk. 
 1869, p. 612; Coues, B. Color, tall, p. 200, note (1*78); Ridgtc. 
 Bull. U.S. Nat. Mus. no. 21, p. IS (IfcSI); Coues, Kit/ X Amer. 
@@ -22408,7 +22408,7 @@ p. 617; Coues, Key N. Amer. B. p. 104 (1872); id. B. Color.
 Vail. p. 249 (1878); Cory, B. Bahamas, p. 66 (1880) ; Ridgw. 
 Bidl U.S. Nat Mus. no. 21, p. 18 (1881); Coues, Key N. Amer. 
 
-B. 2nd ed. p. 306 (1884); Ridgio. Auk, i. p. 389 (1884). 
+B. 2nd ed. p. 306 (1884); Ridgw. Auk, i. p. 389 (1884). 
 Mniotilta kirtlandi, Gray, Hand-l B. i. p. 241, no. 3492 (I860). 
 Above slate-blue, the feathers of the crown "with a narrow, those 
 of the middle of the back with a broader, streak of black; a narrow 
@@ -22421,7 +22421,7 @@ wing-coverts, quills, and tail-feathers are edged with dull whitish ;
 the two outer tail-feathers have a dull white spot near the end of 
 the inner web, largest on the first. Length 5*50 inches, wing 2*80, 
 tail 2*70. 
-(Baird, Brewer•, and Ridgivay.) 
+(Baird, Brewer•, and Ridgway.) 
 Hal, Eastern United States. 
 
 
@@ -22446,7 +22446,7 @@ Vermivora pinus, Swains. Classif. B. ii. p. 245 (1837).
 Mniotilta pinus, Gray, Gen. B. \. p. 196 (1848, pt.). 
 Khimamphus pinus, Bp. Consp. i. p. 311 (1850). 
 Dendroica pinus, Baird, B. N. Amer. p. 277 (1858) ; id. Rev. Amer. 
-B. p. 190 (1865) ; Baird, Brewer, $• Ridgio. Hist. N. Amer. B. i. 
+B. p. 190 (1865) ; Baird, Brewer, $• Ridgw. Hist. N. Amer. B. i. 
 p. 268, pi. 13.1ig. 6 (1874); Brewst. Ann. Lyc. N. Y. xi. p. 136 
 (1875). 
 Dendrceca pinus, Sclater, Cat. Amer. B. p. 31 (1862) ; Mcllwr, 
@@ -22793,7 +22793,7 @@ Gundl. J.f 0.1862, p. 177.
 
 Dendroica cserulea, Baird^ B. N. Amer. p. 280 (1858); Gundl. J.f. 0. 
 1861, p. 326; Baird, Rev. Amer. B. p. 191 (1865) ; Baird, Brew&r, 
-& Ridgio. Hist. N. Amer. B. i. p. 235 (1874) ; Hensh. Zool. Expl. 
+& Ridgw. Hist. N. Amer. B. i. p. 235 (1874) ; Hensh. Zool. Expl. 
 
 W. 100th Merid. p. 196 (1875). 
 Dendrceca cserulea, Set Cat. Amer. B. p. 31 (1862): Sol. fy Salv. 
@@ -23996,7 +23996,7 @@ terminal bar of ochreous; the wing-coverts tipped with the same,
 
 forming two bars; the streaks below as in the adult, but broader 
 
-and not so sharply defined. (Ridgivay.) 
+and not so sharply defined. (Ridgway.) 
 
 " The sexes do not differ appreciably. The shade of the upper parts 
 
@@ -24529,7 +24529,7 @@ Comp. Zool ii. p. 269 (1871), iii. p. 175 (1872); COUPS, Keif N.
 Amer. B. p. 107 (1872); Salvin, Ibis, 1872, p. 149; Scl # tiatr. 
 Nomencl Ao. Neotr. p. 9 (1873); Lawr. Mem. Bost. Soc. N. II. ii. 
 p. 2G9 (1874) ; Coues, B. N.-West,?. 74 (1874); Baird, Brewer, $ 
-Ridgio. Hist N. Amer. B. i. p. 297, pi. 15. figs. 7,8 (1874); Gundl 
+Ridgw. Hist N. Amer. B. i. p. 297, pi. 15. figs. 7,8 (1874); Gundl 
 Om. Cuba, p. 69 (1876); HetisJi. Zool Expl W. 100//* Merid. 
 p. 204 (1876); Merrill, Proc. U.S. Nat. Mus. i. p. 124(1878); 
 Coues, B. Color. Vail p. 309 (1878); id. Bull U.S. Geol Smv. 
@@ -24911,7 +24911,7 @@ GeotMypis polioeephala, Baird, Review Amer. B. p. 225 (1865):
 Sumiehr. Mem. Bost. Soc. N. H. i. p. 546 (1869) • Salv. Ibis, 1870, 
 
 p. 114, et 1872, p. 149 ; Scl. 8? Salv. Nomencl Av. Neotr. p. 10 
-(1873); Baird, Brewer, 8r Ridgio. Hist. N. Amer. B. i. p. 296 
+(1873); Baird, Brewer, 8r Ridgw. Hist. N. Amer. B. i. p. 296 
 (1874); Laior. Mem. Bost. Soc. JV. H. ii. p. 269 (1874) ; Salv. Sf 
 Godm. Biol. Centra Amer., Aves, \ p. 154, pi. 9. fig. 3 (1881). 
 Trichas ppliocephala, Gray, Hand4. B. i. p. 242, no. 3507 (1869). 
@@ -25295,7 +25295,7 @@ B. p. 227 (1865); Brown, Ibis, 1868, p. 429; Lawn Ann. Luc.
 N. Y. ix. p. 94 (1868) ; Van Frantz. J. f. O. 18C9, p. 294; C'jopen 
 B. Calif, p. 96 (1870); Coues, Key ifc Amen B. p. 10*5 (1672); 
 Sate. Ibis, 1872, p. 149; Sel. #• Sate. NomencL An Neofr. p. 10 
-(1873); Baird, Brewer, fy Ridgio. Hist. N. Amen B. I p. 303, 
+(1873); Baird, Brewer, fy Ridgw. Hist. N. Amen B. I p. 303, 
 pi. 15. figs. 4, 5 (1874); Kenan. Rep. Zool Expl W. 100a Merid. 
 p. 205 (1875); Coues, B. Colon Vail p. 312 (1878); Bidf/m. Bull. 
 U.S. Nat Mus. no. 21, p. 18 (1881) ; Sal*. $ Godm. lioL Cmtn-
@@ -30542,7 +30542,7 @@ ix. p. 199 (1869); Gray, Hand4. B. i. p. 237, no. 34^3 (1HJ9) •
 Gundl. J.f. 0.1872, p. 409; Maijn. B. Florida, p. 28 (1872) : Cmm 
 Key S. Amer. B. p. 78 (1872); Scl.fySato. Somencl. Av. Seoir. p 4 
 (1873); Law. Mem. Lost Soc. S. H. ii. p. 267 (1874); Cones, B. 
-S.-West, p. 17 (1874) ; Baird, Brewer, $ Ridgio. Hut S. Amer 
+S.-West, p. 17 (1874) ; Baird, Brewer, $ Ridgw. Hut S. Amer 
 
 B. i. p. 78, pi. 6. fig. 5 (lb74) ; Hensh. List B. Arizona, p. 155 
 (1875); id. Zool Expl. W. 100ft Merid. p. 166 (1875); Gundl Om 
@@ -32028,7 +32028,7 @@ Shelley, B. Egypt, p. 126 (1872); Severtz. Turkest. Jevotn. p. 66
 (1873); Alston $ Harvie Brown, Ibis, 1873, p. 61; Blanf. t c. 
 
 p. 220 j Brooke, t.c. p. 244; Hume, Sti\ F. 1873, pp. 29, 30; 
-Baird, Brewer, fy Ridgio. Hist N. Amer. B. i. p. 165 (1874); 
+Baird, Brewer, fy Ridgw. Hist N. Amer. B. i. p. 165 (1874); 
 Bumf. Ibis, 1874, p. 396; Newton, ed. Tarr. Br. B. i. p. 548 
 (1874); Stoliczka, Sir. F. 1875, p. 217; Dresser, B. Fur. iii. 
 p. 233, pis. 125, 126 (1875) ; Irby, B. Gibr. p. 108 (1875); Banf. 
@@ -35770,7 +35770,7 @@ Ucc. p. 122 (1871); Sioinh. P.Z.S. 1871, p. 364; Ayres, Ibis,
 Sharpe, Cat. Afr. B. p. 73 (1871) ; Gurney in Anderss. B. Uam. 
 Ld. p. 112 (1872); Shelley, B^Egypt, p. 128 (1872) ; Coues, Key 
 N. Amer. B. p. 90 (1872) ; Severtz. Turkest Jevotn. p. 67 (1873); 
-Baird, Brewer, <§* Ridgiv. Hist. N. Amer. B. p. 167 (1874); Blanf 
+Baird, Brewer, <§* Ridgw. Hist. N. Amer. B. p. 167 (1874); Blanf 
 East Pers. ii. p. 233 (1876); Tacz. Bull. Soc. Zool. France, 1876, 
 p. 150; Bavid Sf Oust. Ois. Chine, p. 302 (1877); Brooks, Ibis, 
 1877, p. 208; Ayres, t c. p. 294; Homeyer, J. f 0. 1878, p. 130 ; 
@@ -45084,7 +45084,7 @@ p.
 $ ad. sk. Oyster Bay, Long Island, Salvin-Godman Coll. 
 June 11 (Roosevelt). 
 q. S ad. sk. Knox Co., Indiana, May 24 Salvin-Godman Coll. 
-(R. Ridgioay). 
+(R. Ridgw.y). 
 r9 s. Ad. et iuv. sk. Teleman, Vera Paz, Guate- Salvin-Godman Coll. 
 mala (0. S.). 
 t, u. Ad. sk. Coban, Vera Paz (0.8. 8f Salvin-Godman Coll. 
@@ -45327,7 +45327,7 @@ Mt. Carmel, HI., April 30
 Ridgway). 
 Mt. Carmel, 111., May 14
 
-(R. Ridgioay). 
+(R. Ridgw.y). 
 Savannah, 
 Carolina (& F.
 Baird). 
@@ -46144,7 +46144,7 @@ Coues).
 
  Laurel, Maryland; May 10
 
-(F. Ridgioay). 
+(F. Ridgw.y). 
 Ciudad Durango, Mexico,
 July 27 (A. Forrer). 
 Mazatlan,W.Mexico,Nov.

@@ -312,7 +312,7 @@ i 7. Tympanuclius, 6r/oy 77
 ! 1. cupido (Linn.) ... . 77,558 
 I 2. araericanus (Reichend.) 
 I 78,558 
-i 3. pallidicinctus (Ridgio.) 
+i 3. pallidicinctus (Ridgw.) 
 I "•""" ' 80,558 
 
 8. Centrocereua, Sioams. .. 80 
@@ -6552,8 +6552,8 @@ Tetrao canadensis franklini, Coues, Bull U.S. Geol Suru. iv. p. 628
 Canace canadensis franklini, Coues, Key, p, 579 (1884). 
 
 Dendragapus 
-franklinii, Ridgio. P. U. S. Nat. Mus. viii. p. 355 
-(1885); id. A. 0. U. Check-l. p. 172 (1886); Ridgio. Man. p. 196 
+franklinii, Ridgw. P. U. S. Nat. Mus. viii. p. 355 
+(1885); id. A. 0. U. Check-l. p. 172 (1886); Ridgw. Man. p. 196 
 (1887). 
 
 Aduli male. Differs from adult male of C. canadensis chiefly in 
@@ -6975,11 +6975,11 @@ OTRAONIDJS.
 B. E. Mass. p. 138 (1870) [Martlia's Vineyard and Nauslion Isl.l; 
 id. B. E. N. Ämer. p. 350 (1881) [part.]; Coues, Key, p. 583 (1884) 
 [part.]; Breiübt. Aide, ii. p. 82 (1885) [Massachusetts]. 
-Cupidoiiia cupido, var. cupido, Baird, Brew., § Ridgto. N. Am. B. iii. 
+Cupidoiiia cupido, var. cupido, Baird, Brew., § Ridgw. N. Am. B. iii. 
 
 p. 440 (1874) [part.]. 
 Tympanuchus cupido, Ridgw. P. U.S. Nat. Mus. viii. p. 355 (1885) ; 
-A. 0. U. Check-l. p. 175 (1886); Ridgto. Man. p. 203 (1887). 
+A. 0. U. Check-l. p. 175 (1886); Ridgw. Man. p. 203 (1887). 
 Oupidonia cupido brewbteri, Coues, Key, App. p. 884 (1887). 
 Adult male. Differs from T. americanus in having the neek-tufts 
 of the male composed of not more than ten lanceolate pointed 
@@ -7028,7 +7028,7 @@ Tympanuchus pirmatus, Ridgw. P. U.S. Nat. Mus. viii. p. 355
 (1885). 
 Tympanuchus americanus, Ridgw. Auk, iii. p. 132 (1886); A. O. U 
 Check-l. p. 175 (1886); Seton, Auk, iii. p. 153 (1886) [W. Manitoba]; 
-Ridgto. Man. p. 203 (1887); Eversm. Auk, v. p. 349 (1888) 
+Ridgw. Man. p. 203 (1887); Eversm. Auk, v. p. 349 (1888) 
 [Indiana]; Thompson, P. U.S. Nat Mus. xiii. p. 514 (1891) 
 [Manitoba]. 
 
@@ -29915,7 +29915,7 @@ Meleagris gallipavo, Cows, Key N. A. B. p. 576 (1884). #
 Meleagris gallopavo mexicana, Sem, Auh, iii. p. 389 (1886) [Ari
 
 
-zona] ; A. O. U. QiecMid, p. 177 (1886) ; Ridgiv. Man. N.Amer. 
+zona] ; A. O. U. QiecMid, p. 177 (1886) ; Ridgw. Man. N.Amer. 
 
 B. p. 207 (1887) [part.]; Bendire, N. Amer. B. p. HO, pl. in. 
 flg. 15 (1892) [part.]. 
@@ -30503,7 +30503,7 @@ Texas].
 Callipepla squamata castanogastris, Brewst. Bull. JNutt. Orn. C. viii. 
 
 p. 34 (1883) [Lower Bio Grande; E. Mexico]; A. O. U. Checklist, 
-p. 109 (1886); JRidgio. Man. N. Am. B. p. 192 (1887); 
+p. 109 (1886); JRidgw. Man. N. Am. B. p. 192 (1887); 
 Beckham, P. U. 8. Nab Mus. x. pp. 640, 656 (1887) [S.W. Texas]; 
 Attwater, Auk, ix. p. 233 (1892) [San Antonio, Texas] ; Bendire. 
 N. Am. B. p. 22, pl. i. %s. 6, 7 (1892). 
@@ -30576,10 +30576,10 @@ Oreortyx pictus, Baird, B. N. Amer. p. 642 (1800); ? Dresser, Ibis,
 3866, p. 27 [S. Texas!]; Coues, Ibis, 1866, p. 266 [Cajon Pass, 
 San Bernardino Mts.]; Coop. Calif. Orn. i. p. 546 (1870) ; Coues, 
 Key N. Am. B. p. 237 (lb72); id. B. 2W West. p. 440 (1874); 
-Baird, Brew., fy Ridgio. B. N^Arner. iii. pp. 475, 523 (1874); 
+Baird, Brew., fy Ridgw. B. N^Arner. iii. pp. 475, 523 (1874); 
 Anthony, Auk, iii. p. 164 (1886) [Washington Co., Oregon"; 
 Fvermann, Auk, iii. p. 92 (1886) [Ventura Co., Cal.]; A. O. U. 
-Checfc-list, p. 168 (1886); Ridgio. Man. p. 191 (1887); Beiding, 
+Checfc-list, p. 168 (1886); Ridgw. Man. p. 191 (1887); Beiding, 
 
 Occas. Pap. Cal Ac. Sei. ii. p. 9 (1890); Bendire, N. Am. B. p. 13 
 (1892). 
@@ -30790,10 +30790,10 @@ Coop. P. U. 8. Nat. Mus. ii. p. 251 (1880); Breio, Auk, ii. p. 14
 (1885) [Denver, introduced]. 
 
 Ortyx virginiamis, Hutton, Ibis, 1867, p. 379 [New Zealand]. 
-Lopliortyx californicus brunnescens, Ridgio. P. Biol. Soc. Wash. ii. 
+Lopliortyx californicus brunnescens, Ridgw. P. Biol. Soc. Wash. ii. 
 
 p. 94 (1884) [Santa Barbara, California]. 
-Callipepla californica vallioola, Ridgio. P. U. 8. Nat. Mus. viii. 
+Callipepla californica vallioola, Ridgw. P. U. 8. Nat. Mus. viii. 
 p. 355 (1886) (Tnterior Valleys of California]: A. 0. ü. Check-Hst 
 p. 169 (1886); Townsend, P. ü. 8. Nat. Mus. x, pp. 200, 235 
 (1887) [N. California, interior]; TLidgw. Man. N. Am. B. p. 192 
@@ -31566,7 +31566,7 @@ B. ii. p. 273 (1870); Boucard, P. Z. S. 1883, p. 401 [Chable,
 Yucafcan]. 
 Ortyx nigrigularis, Sclat. $ Salvin, Ibis, 1859, p. 225 [Yucatan and 
 British Honduras]. 
-Cohnus nigrogularis, Ridgio. Man. K. Am. B. p. 190 (1887). 
+Cohnus nigrogularis, Ridgw. Man. K. Am. B. p. 190 (1887). 
 Colinus nigrogularis segovien^is, Ridgw. P. U. 8 Kat 31ns. x. p. 593 
 
 (1887) [Segovia River, Honduras]. 
@@ -31836,7 +31836,7 @@ Ayersborg, Auk, ii. p. 285 (1885) [S.E. Dakota]; Wileox, Aldi, ii.
 
 p. 315 (1885) [Idaho, introduced]. 
 Ortyx marylandus, Benny, P. Z. S. 1847, p. 38 [Ouba, Jamaica]. 
-Ortyx virginianus, var. virginianus, Baird, Breio., $* Ridgio. N. Am. 
+Ortyx virginianus, var. virginianus, Baird, Breio., $* Ridgw. N. Am. 
 B. iii. p. 468 (1874). 
 Colinus virginianus, 
 Stejn. Auk, ii. p. 45 (1885); Cory, List B. West 
@@ -32086,7 +32086,7 @@ B. N. Amer. p. 641, pl. xxiv. (1800); Dresser, Ibis, 1865, pp. 315,
 317, 1866, p. 27 [S. Texas],- Gray, List Gallince Brit. Mus. p. 75 
 (1867); id. Hand-l. B. ii. p. 272 (1870). 
 Ortyx virginianus, var. texanus, Coues, Key N. A. B. p. 237 (1872). 
-Colinus virginianus texanus, Baird, Brew., fy Ridgio. B. N. Amer. 
+Colinus virginianus texanus, Baird, Brew., fy Ridgw. B. N. Amer. 
 
 
 iii. p. 474 (1874); Stejn. Avk, ii. p. 45 (1885); A. 0. U. Checklist, 
@@ -32636,7 +32636,7 @@ Salvin-Godman Coli.
 2. Cyrtonyx sallaßi. 
 Cyrtonyx sallsei, Verr. Arcana Nat. i. p. 35, pl. 4 (1859) ; Gray, 
 List Gallince Brit. Mus, p. 74 (1867); id. Hand-l. B. ii. p. 272 
-(1870); Ridgio. Man. N. Am. B. p. 194 (1887). 
+(1870); Ridgw. Man. N. Am. B. p. 194 (1887). 
 
 Adult male. At once distinguisked from tbe male of 0. montezumce 
 by having tbe sbaft-stripes to tbe featbers of tbe upper parts 

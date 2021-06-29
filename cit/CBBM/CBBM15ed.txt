@@ -658,7 +658,7 @@ Pajre
 43. 
 Xiphocolaptes, Less 142 
 l.albicollis, Vieill. 142 
-2/aclateri, Ridgio 143 
+2/aclateri, Ridgw.143 
 3. 
 promeropirhyncUus, 
 ""* Zess." 144 
@@ -969,7 +969,7 @@ L&enrfyScl 271 1. torquata, Bodd. 298
 
 2.*cHr^uca7«. et Salv. 272 d'Orb 299 
 
-20. Percnoatola, Cab. et ffem. 272 2. bowniani, Ridgiv 300 
+20. Percnoatola, Cab. et ffem. 272 2. bowniani, Ridgw.300 
 
 1. funebris, Licht 273 3. inacleaunani, Lawr. .. 300 
 
@@ -12584,7 +12584,7 @@ Dendrocincla
 longicauda, Peh. Orn. Bras. pp. 42, CO (1871); Sal et 
 Sah. P. Z. S. 1868, p. 54; iid. Nomenel. p. 07; Sato. Ibis. 1885, 
 
-p. 421 (Br. Guiana) • Ridgiv. Pr. U. S. N. M. x. p. 490. 
+p. 421 (Br. Guiana) • Ridgw. Pr. U. S. N. M. x. p. 490. 
 Above brown; head and neck darker and marked with fine 
 shaft-stripes of pale fnlvons; bend of wing and outer margins of 
 wing-feathers ferruginous; wing-coverts brown like the back; tail 
@@ -22724,7 +22724,7 @@ Pittasoma midden zeledoni, Ridgw. P. U. S. N. M. vi. p. 414
 
 Similar to P. michleri, but larger, and whole head (including 
 throat) entirely black, except a few touches of chestnut on the 
-auriculars (Ridgivay). 
+auriculars (Ridgway). 
 
 Hah. Costa Rica. 
 

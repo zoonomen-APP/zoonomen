@@ -238,7 +238,7 @@ SYSTEMATIC I3TDEX.
 3. lcjogirostrisj V. .. 112,730 
 4. Jeug2xms7~&'^?*?z... 113,730 
 5. palliatug^y^wz. 114, 730 
-6. gaTapagensis, Ridgio.. 116 
+6. gaTapagensis, Ridgw.. 116 
 7. frazari, Brewst. . . 117,730 
 8. durafordi, Sharpe 117,731 
 9. unicolor, IF«?Z.. . 118, 731 
@@ -16657,11 +16657,11 @@ Charadrius dominicus fulvus, Bidgio. Broe. U.S. Nat, Mas. iii. p. 198
 (1880) ; Coues, Check-l N. Amer. B. p. 96 (1882); Nelson, Cruise 
 
 M.S. «Corxoin; p. 84 (1883: Norton Sound); Bccird, Brewer, fy 
-Ridgio. Water-Birds N. Amer. i. p. 144 (1884); Coues, Key 
+Ridgw. Water-Birds N. Amer. i. p. 144 (1884); Coues, Key 
 N. Amer. B. 2nd ed. p. 599 (1884); Stejn. Bull U.S. Nat. Mus. 
 no. 29, p. 104 (1885: Bering Isl.); Turner, Auk, ii. p. 157 (1885: 
 Nearer Isl., Alaska); A. O. U. Chech-l N. Amer. B. p. 161 (1886); 
-Ridgio. Man. N. Amer. B. p. 174 (1887) ; Stejn. Broe. U.S. Nat. 
+Ridgw. Man. N. Amer. B. p. 174 (1887) ; Stejn. Broe. U.S. Nat. 
 Mus. xii. p. 380 (1889: Kauai). 
 Charadrius fulvus americanus, Seebohm, Geogr. Distr. Charadr. 
 
@@ -19094,7 +19094,7 @@ iEgialitis' mongola, Swinh. Ibis, 1873, p. 425 (Shanghai); Baird,
 Brewer•, $ Ridc/w. Water-Birds N. Amer. i. p. 167 (1884) ; 
 Stejn. Bull. U.S.Nat. Mus. no. 29, p. 105 (1885: Bering & Copper 
 Islands, May to Oct,); A. O. U. Cheek-l N. Amer. B. p. 163 
-(1886: Alaska); Ridgio. N. Amer. B. p. 179 (1877); Nelson, 
+(1886: Alaska); Ridgw. N. Amer. B. p. 179 (1877); Nelson, 
 Report Nat. Hist. Coll. Alaska, p. 127 (lo87 : Choris Peninsula); 
 Stejn. Pr. US. Nat. Mus. x. p. 126 (1887: Commander R ) ; 
 Tacz. P. Z. S. 1888, p. 456 (Chimulpo, Corea, June). 
@@ -22382,7 +22382,7 @@ iEgialitis philippinus, Sivinh. Ibis, 18t$l, p. -342 (PeHn), 1862, p. 255
 (Fooehow), 1863, p. 406; Scl. P. Z. S. 1863, p. 222 (Banjarma*sing) 
 ; Sivi?ih. t. e. p. 310; Hume, Str. F. iii. p. 179 (1875: 
 Thayetmyo); Biddulph, Ibis, 1881, p. 94 (Gilgit), 1882, p. 287 ; 
-Ridgio. Proc. U.S. Nat. Mus. iv, p. 330 (1881) ; Murray, Vertrbr. 
+Ridgw. Proc. U.S. Nat. Mus. iv, p. 330 (1881) ; Murray, Vertrbr. 
 Faun. Sind, p. 227 (1884); Olphe-GalL Conir. Faun. Orn. Eur. 
 Oceid. fasc. xiii. p. 30 (1890). 
 
@@ -24740,13 +24740,13 @@ Rarnegat Bay); Smith fy Palmer, Auk, v. p. 147 (1888: Potomac
 River); Brown, Auk, vi. p. 70 (1889: Maine) ; Scott, Auk, vii. 
 p. 309 (1890: Dry Tortugas); Allen, Auk, x. p. 134 (1893). 
 JBgialitis meloda circumcincta,.^. O. U. Check4. N. Amer.B. p. 163 
-(1836); Ridgio. Man. N. Amer. B. p. 178 (1887). 
+(1836); Ridgw. Man. N. Amer. B. p. 178 (1887). 
 €haradrius melodus circumcinctus, Seebohm, Geogr. JDistr. Charadr. 
 
 p. 122 (1888). 
 ^Egialitis meloda, Baird, Brewer, <§* Ridqway, Water-Birds N. Amer. 
 I p. 160 (1884); Seton, Auk, iii. p. 162 (1886: Lake Manitoba; 
-Lake Winnipeg) ; Ridgio. Man. N Amer. B. p. 178 (1887) ; 
+Lake Winnipeg) ; Ridgw. Man. N Amer. B. p. 178 (1887) ; 
 Bishop, Auk, vi. p. 147 (1889: Magdalen Isl.); Scott, t. c. p. 159 
 (PuntaRassa, Gulf of Florida); Shick, Auk, vii. p. 328 (1890: 
 New Jersey); Palmer, Proc. U.S. Nat. Mus. xiii. p. 260 (1890 : 
@@ -26874,7 +26874,7 @@ black, extending in a line underneath the eye; below the latter and
 behind the hinder part of the eye a white spot; under wing-coverts 
 black; axillaries white: " bill deep black; legs and feet fine rose-
 pink or delicate pale lake-red (in life): iris rosy carmine " (Baird, 
-Brewer, # Ridgtoay). Total length 11*5 inches, culmen 2*45, wing 
+Brewer, # Ridgw.y). Total length 11*5 inches, culmen 2*45, wing 
 8-3, tail 2*65, tarsus 4. 
 
 Adult female. Similar to the male, but with the back, scapulars, 
@@ -27597,14 +27597,14 @@ Allen, Bull. Harv. Coll. iii. p. 171 (1872: Great Salt Lake,
 breeding); Aiken, Proc. Bost. Soc. N. H. xv. p. 209 (1872 : 
 Arkansas River); ScL $ Salv. NomencL Av. Neotr. p. 144 (1873); 
 Merriam, GeoL Surv. Terr. vi. p. 701 (1873: Great Salt Lake); 
-Ridgio. Proc. Bost Soc. N. H. xvi. p. 328 (1874: Lower Wabash 
+Ridgw. Proc. Bost Soc. N. H. xvi. p. 328 (1874: Lower Wabash 
 Valley); Coues, B. N.-West, p. 460 (1874); Hurting, Ibis, 1874, 
 p. 253 ; Laiur. Mem. Bost. Soc. N H. ii. p. 308 (1874: Rio de 
 Coahuana; Mazatlan); Allen, Proc. Bost. Soc. N. H. xvii. p. 66 
-(1874: Yellowstone); Ridgio. Ann. Lyc. N. T. x. p. 384 (1874: 
+(1874: Yellowstone); Ridgw. Ann. Lyc. N. T. x. p. 384 (1874: 
 Illinois); Rensh. Rep. Zool. Fvpl. 100*A Merid. p. 448 (1875) 
 Gundl. J. f. O. 1875, p. 330 (Cuba); id. Orn. Cubana, p. 178 
-Ridgio. Rep. Survey 40th Parallel, p. 605 (1877: Carson, Nevada 
+Ridgw. Rep. Survey 40th Parallel, p. 605 (1877: Carson, Nevada 
 Salt Lake) ; Sennett, Bulk U.S. GeoL Surv. iv. p. 54 (1878 
 Galveston Bay); Coues, t. c. p. 635 (Milk River, breeding) 
 Kumlien, Bull. U.S. Nat. Mus. no. 15, p. 84 (1879: Lake 
@@ -27620,7 +27620,7 @@ Ventura Co., California); Scott, t c. p. 386 (S. Arizona); A. O. U.
 Chech-l. N. Amer. B. p. 146 (1886); Lloyd, Auk, iv.p. 185 (1887: 
 W. Texas); Towns. Proc. U.S. Nat. Mus. x. pp. 163, 198 (1887: 
 N. California); Bechh. t. c. p. 642 (S.W. Texas), p. 651 (Corpus 
-Ckristi Ray); Ridgio. Man. N. Amer. B. p. 146 (1887); Jeffries, 
+Ckristi Ray); Ridgw. Man. N. Amer. B. p. 146 (1887); Jeffries, 
 Auk, vi. p."223 (1889: Santa Barbara); Cory, B. West Ind. p. 232 
 (1889); Thomps. Proc. US. Nat Mus. xiii, p. 497 (1890: Manitoba 
 ; Winnipeg ; Souris R.; Plum Creek); Merriam, N. Amer. 
@@ -29427,7 +29427,7 @@ Adult female in summer plumage. Similar to the male, but larger.
 Total length 21 inches, culmen 7*3, wing 11, tail 3*8, tarsus 3*4. 
 Nestling. Buffy yellow, deeper above, tinged with sulphur-yellow 
 below; upper parts coarsely and irregularly marbled with black: 
-" bill straight, about 1*4 inch long " (B. Ridgivay). 
+" bill straight, about 1*4 inch long " (B. Ridgway). 
 
 Adult in winter plumage. Differs from the summer plumage 
 chiefly in its uniform under surface, the streaks on the throat and 
@@ -30795,7 +30795,7 @@ West Scotl p. 290 (1871: Aberdeen, Sept.) ; Allen, Bull. Mus.
 C. Z. iii. p. 182 (1872: Kansas, June); Coues, Key N. Amer. B. 
 p. 263 (1872); Dresser, B. Eur. viii. p. 221, pL 575 (1873); Scl 
 %-Salv. Nomencl. Av. Neotr. p. 146 (1873); iid. P. Z. S. 1873, 
-p. 456; Coues, B. N.-West, p. 510 (1874); Ridgio. Ann. Lyc. 
+p. 456; Coues, B. N.-West, p. 510 (1874); Ridgw. Ann. Lyc. 
 N. Y x. p. 385 (1874: Illinois); Reid, ZooL 1877, p. 478 (Bermudas) 
 ; Bennett, Bull. U.S. Geol. Surv. iv. p. 56 (1878: Corpus 
 Christi); Bumf. Ibis, 1878, p. 44 (Chnpat Valley); Merrill, Broc. 
@@ -30819,7 +30819,7 @@ West Ind. p. 27 (1885); Murdoch, Auk, ii. p. 63 (1885 : Point
 Barrow, Alaska); Lawr. t c. p. 273 (Long Isl.); Agersb. t. c. 
 p. 287 (S.E. Dakota); Seebohm, Hist. Brit. B. iii. p. 94, pi. 33. 
 iig. 3 (1885); A. O. U. Chech-l N. Amer. B. p. 159 (1886); 
-Nelson, Rep. Nat. Hist. Coll. Alaska, p. 121 (1887); Ridgio. Man. 
+Nelson, Rep. Nat. Hist. Coll. Alaska, p. 121 (1887); Ridgw. Man. 
 N. Amer. B. p. 171 (1887); Wells, Broc. US. Nat Mus. ix. 
 p. 629 (1887: Grenada); Irby, Key List Brit. B p. 49 (1888); 
 Beckham, Broc. U.S. Nat. Mus. x. p. 637 (1888: Bexar Co.), 
@@ -31807,7 +31807,7 @@ Salvin, Cat. Striehl. Coll p. 618 (1882); Oates, Sir. F. x. p. 239
 B. O. U. List Brit B. p. 178 (1883); Irby, Ibis, 1883, p. 186 
 (Santander); Saunders, ed. YarreWs Brit B. iii. p. 488 (1883); 
 Oates, Handb. B. Brit Burm. ii. p. 409 (1883); Murray, Vertehr. 
-Faun. Sind, p. 243 (1884); Baird, Brewer,$ Ridgio. Water-Birds 
+Faun. Sind, p. 243 (1884); Baird, Brewer,$ Ridgw. Water-Birds 
 N. Amer. i. p. 263 (1884); Sahad. Ann. Mus. Gen. (2) i. p. 221 
 (1884: Lake Cialalaka); Saunders, Ibis, 1884, p. 390 (Pyrenees); 
 Swinh. # Barnes, Ibis, 1885, p. 133 (Depalpur); Reid7 t. c. p. 253 
@@ -32693,7 +32693,7 @@ t. c. p. 386 (San Pedro River, Arizona); Butcher, t. c. p. 436
 (Long IsL); Tacs. Orn. Perou, iii. p. 379 (1886): Wells, Proc. 
 U.S. Nat. Mus. ix. p. 628 (1887 : Grenada); Cory. Avk,iy. p.310 
 (1887: West Indies); Towns. Proc. U.S. Nat. Mus. ix. pp. 163. 
-198, 235 (1887: Northern California); Ridgiv. Man. N. Amer. B, 
+198, 235 (1887: Northern California); Ridgw. Man. N. Amer. B, 
 p. 163 (1887); Seebohm, Geogr. Bistr. Ckaradr. p. 388 (1888) 
 Beckham, Proc. U.S. Nat. Mus. xi. pp. 642, 652 (18N3 : S.W. 
 Texas); Everm. Auk, v. p. 349 (1888: Carroll Co., Indiana); 
@@ -32960,7 +32960,7 @@ p. 145 (1873) ; Lawr. Mem. Bost. Soc. Nat Hist. ii. p. 308
 (1886) j Butcher, Auk, iii, p. 436 (1886: Lon<? Wand): Turner, 
 Contr. Nat. Hist. Alaska, p. 146 (1886: St. Michael's, breeding); 
 Nelson, Nat. Hist. Coll. Alaska, p. 100 (1887: Norton Sound) ; 
-Ridgio. Man. N. Amer. B. p. 151 (1887); Cory, Auk, iv. p. 312 
+Ridgw. Man. N. Amer. B. p. 151 (1887); Cory, Auk, iv. p. 312 
 (1887 : Cuba and Antilles); Smith 4* Palmer, Auk, v. p. 147 
 (1888 : Washington, B.C.; ; Scott, t. c. p. 184 (Tarpon Springs) ; 
 id. Auk, vi. p. 156 (1P89); Cory, B. We*t Ind. p. 233 (lb89); 
@@ -32982,7 +32982,7 @@ Macrorhamphus griseus var. scolopaceus, Lawr. Bull. U.S. Nat*
 Mus. no. iv. p. 46 (1876: Tehuantepec, Aug. to Feb.); Pabnen, 
 Vega-Bap. v. p. 302 (1887). 
 
-Macrorhamphus griseus scolopaceus, Ridgio. Proc. U.S. Nat Mus. 
+Macrorhamphus griseus scolopaceus, Ridgw. Proc. U.S. Nat Mus. 
 
 iii. p. 199 (1880); Coues, Check-list N. Amer. B. p. 100 (1882); 
 Butcher, Auk, i. p. 32 (1884 : Long Isl.); Corns, Key N. Amer. 
@@ -36346,7 +36346,7 @@ iii. p. 367 (1886: Cliorillos; Junin); Salvin, This, 1886, p. 180
 Turner, Coyitr. Nat. Hist. Alaska, p. 189 (1886); Seton, Auk, iii. 
 p. 152 (1886: W. Manitoba); Cory, t. c. p. 502 (Grand Cayman); 
 Nelson, Rep. Nat. Hist. Coll. Alaska, p. 118 (1887 : Yukon B.; 
-Kodiak Isi.; Sitka); Ridgto. Man. N. Amer. B. p. 166 (1887) ; 
+Kodiak Isi.; Sitka); Ridgw. Man. N. Amer. B. p. 166 (1887) ; 
 Towns. Auk, iv. p. 12 (1887: N. Alaska); Dwight, t. c. p. 16 
 (Cape Breton Isl.); Wells, Froc. U.S. Nat. Mus. ix. p. 628 (1887: 
 Grenada); Towns, op. cit. x. p. 163 (1887 : N. California), p. 198 
@@ -36484,7 +36484,7 @@ breast, the latter broader and more arrow-shaped; the sides of the
 breast distinctly barred with black; axillaries with only a few 
 blackish bars : " bill black; feet bright yellow; iris dark brown " 
 
-(B. Ridgivay). Total length 9 inches, culmen 1*4, wing 6-4, tail 
+(B. Ridgway). Total length 9 inches, culmen 1*4, wing 6-4, tail 
 2-45, tarsus 1-9. 
 Young after first moult. Much more mottled than the winter 
 plumage of the adult, which it otherwise resembles, all the feathers 
@@ -39836,7 +39836,7 @@ having the sides of the upper breast ashy brown.
 
 Young in doivn. Above yellowish grey, with a narrow black 
 dorsal stripe from the bill to the tail: a narrow black line through 
-the eye; beneath dull white. (Ridgivay.) 
+the eye; beneath dull white. (Ridgway.) 
 
 Hob. ISTorth America generally, migrating south in winter 
 through Central America and the West Indies to Amazonia and 
@@ -50638,7 +50638,7 @@ Is.).
 Tringa 
 couesi, Turner, Contr. Nat Mist Alaska, p. 147 (1886: 
 St. Michael's, May and June); Nelson, Pep. Nat. Sist. Coll. 
-Alaska, p. 103, pi. vi. (1887); Ridgio. Man. N. Amer. B. p. 154 
+Alaska, p. 103, pi. vi. (1887); Ridgw. Man. N. Amer. B. p. 154 
 (1887); Allen, Auk, x. p. 123 (1893); A. O. U. Check-list 
 
 N. Amer. B. 2nd ed. p. 87 (1895). 
@@ -50757,12 +50757,12 @@ Tringa gracilis, Hurting, P. Z. S. 1874, p. 243, pi. xl. (St. Paul's Isl,
 Alaska). 
 
 Arquatella 
-ptilocnemis, Ridgio. Proc. US. Nat. Mus. iii. pp. 191, 
+ptilocnemis, Ridgw. Proc. US. Nat. Mus. iii. pp. 191, 
 221 (1880); id. Bull. Null Orn. Club, v. p. 163 (1880: Pribylov 
 Is.) ; Coues, Check-list N. Amer. B. p. 100 (1882); Nelson, Cruise 
 
 U.S. ' Corwinl p. 86 (1883: Fur Seal Isl.; St. Mathew's and 
-St. Lawrence Isl.) ; Baird, Brewer, §• Ridgio. Water-Birds 
+St. Lawrence Isl.) ; Baird, Brewer, §• Ridgw. Water-Birds 
 N. Amer. i. p. 222 (1884); Coues, Key N. Amer. B. 2nd ed. 
 p. 630 (1884); Stejn. Bull U.S. Nat. Mus. no. 29, p. 112 (1885). 
 Tringa maritima ptilocnemis, Seebohm, Geogr. Distr. Charadr. p. 431 
@@ -59011,7 +59011,7 @@ Scully, t. c. p. 353 (Nepal Valley); Bogd. B. Cauc. p. 160 (1879);
 Finsch, Verh. z.-b. Ges. Wien, xxix. p. 253 (1879); Butler, Cat. 
 B. Sind etc. p. 61 (1879); id. Cat. B. S. Bomb. Pres. p. 75 (1880) -r 
 Legge, B. Ceylon, p. 806 (1880) ; Hume # Marshall, Game B. Ind* 
-iii. p. 309, cum tab. (1880); Ridgio. Proc. U.S. Nat. Mm. iy. 
+iii. p. 309, cum tab. (1880); Ridgw. Proc. U.S. Nat. Mm. iy. 
 p. 331 (1881); Gigl. Iconogr. Avif. Ital no. 304 (1883); Bogd. 
 Consp. Av. Imp. Boss. fasc. i. p. 102 (1884); Radde, Orn. Cauc. 
 pp. 41, 388 (1884 : 4000 ft,, breeding); Murray, Vertebr. Faun, 
@@ -60888,7 +60888,7 @@ Ibis, 1883, p. 76 (Karakul); Capen, Ool. B. New Engl. p. 86
 pi. xix. fig. 1 (1883 : Maine, breeding); Steams, New Engl. Bird-
 life, ii. p. 189 (1883); Blakist. Amend. List B. Japan, p. 137 
 (1884); Coues, Key N. Amer. B. 2nd ed. p. 614 (1884); Baird, 
-Breioer, fy Ridgio. Water-B. N. Amer. i. p. 326 (1884); Saunders, 
+Breioer, fy Ridgw. Water-B. N. Amer. i. p. 326 (1884); Saunders, 
 Ibis, 1884, p. 389 (S. Jean de Luz, Dec.) ; Seebohm, t. c. p. 33 
 (Kuriles); id. Hist. Brit. B. iii. p. 85, pi. xxvii. figs. 7-9 (1885); 
 Murdoch, Rep. Exped. Pt. Barrow, p. 115 (1885: breeding); GigL 

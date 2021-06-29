@@ -889,14 +889,14 @@ Page Page
 
 a. carolinensis, Breicst. . 649 a. bonioehlamvs, Sharpe 713 
 
-2. aikeni, Ridgiv 649 (3. boucardi, Scl 714 
+2. aikeni, Ridgw.649 (3. boucardi, Scl 714 
 
 3. Oregon us (Toivns.) ... . 650 y. notosticta, Scl. fy Salv. 715 
 3a. shufeldti, Coale 840 4. carpalis, Coues 715 
 
 4. annectens, Baird 651 75. Passerella, Sio 716 
 
-5. insularis, Ridgiv 052 0 1. iliac^ (Merr.) 717 
+5. insularis, Ridgw.052 0 1. iliac^ (Merr.) 717 
 
 6. bairdi, Ridgw 653 2. itualaschensis (Gm.) . . 71s 
 
@@ -920,7 +920,7 @@ a. ocliracea, Breicst 659 "j 5. rufey;en"s*(&e.) 724
 
 4. pusilla ( Wils.) 664 8. huiriexalis* Cab 727 
 
-5. wortlieni, Ridgiv 666 9. injstacalis (Hartl.) 72^ 
+5. wortlieni, Ridgw.666 9. injstacalis (Hartl.) 72^ 
 
 6. pallida (Sw.) 666 10. pulcbra, Scl. 729 
 
@@ -947,7 +947,7 @@ n.^miifirr^ Rm'rd 672 2. kiemen^Bp 732
 
 1. niaritimus_( Wik.) ... . 683 79. Saltatricula, Burm 737 
 
-2. nigrescens, Ridgiv 685 1. multicolor, Burm. .... 737 
+2. nigrescens, Ridgw.685 1. multicolor, Burm. .... 737 
 
 3. caudacutu^ (Gm.) ... . 685 80. Atfapetes, Wagler 738 
 
@@ -3258,7 +3258,7 @@ Mclhuraith, op. cit. viii. p. 146 (1883); Coues, Key K. Amer. B.
 2nd ed. p. 342 (1884); Brexo, Auk, i. p. 15 (1884) ; Scott, t. c. 
 p. 174; Agersb. t. e. p. 279,- Seton, t. c. p. 334: Cooke, Auk, ii. 
 p. 244 (1885). 
-Hesperiphona vespertina, var. vespertina, Baird, Brewer, & Ridgio. 
+Hesperiphona vespertina, var. vespertina, Baird, Brewer, & Ridgw. 
 Hist. N. Amer. B. i. p. 449 (1874). 
 Hesperiphona vespertina, var. montana, iid. t. c. p. 449 (1874). 
 
@@ -5071,7 +5071,7 @@ Amer. B. p. 100 (1862) ; Lawr. Ann. Lyc. N. Y. ix. pp. 102, 200
 N. m i. p. 552 (1869) j Sol. $ Salv. P.Z.S. 1870, p. 836 j Salv. 
 t. c. p. 189; Wyatt, Ibis, 1871, p. 328 ; Scl. $ Salv. Nomencl. Av. 
 Neotr. p. 27 (1873) ; Lawr. Mem. Bost. Soe. N. H. i. p. 275 
-(1874); Baird, Brewer, fy Ridgio. Hist. N. Amer. B. ii. p. 70 
+(1874); Baird, Brewer, fy Ridgw. Hist. N. Amer. B. ii. p. 70 
 (1874); Lawr. Btdl. U. S. Nat. Mis. no. 4, p. 19 (1876); Scl. Sf Salv. 
 P. Z. S. 1879, p. 506 ; Salv. $ Godman, Ibis, 1880, p. 122; A. $ JS. 
 Neioton, Handb. Jamaica, 1881, p. 104; Salvin, Cat. Stricld. Coll. 
@@ -6572,7 +6572,7 @@ Babahoyo, Aug. 1859 Sclater Coll. (Type
 {L. Fraser). of species.) 
 5. Oryzoborus nutting! 
 ? Oryzoborus othello, Bp. Consp. i. p. 498 (1850). 
-Oryzoborus nuttingi, Ridgto. Froo. 77. S. Nat. Mm. vi p. 401 (1884); 
+Oryzoborus nuttingi, Ridgw. Froo. 77. S. Nat. Mm. vi p. 401 (1884); 
 Salv. fy Godm. Biol. Ce?itr.-Amer,, Aves, L p. 343 (1885). 
 
 Adult male. Black; quills greyish white at the base of the inner 
@@ -9577,7 +9577,7 @@ id. U. S. $ Mex. Bound. Surv., Birds, p. 17 (1858); Scl P. Z. S.
 1859, pp. 365, 378; id. Cat. Amer. B. p. 105 (1802, pt.) ; Suniiehr. 
 Mem. Bost. Soc. N. H. I p. 551(1809); Scl. Ibis, 1871, p. 10 
 (pt); Coues, Keg N. Amer. B. p. 150 (1872); Scl. § Sale. 
-Rfomencl. Av. Neotr. p. 28 (1873); Baird, Brewer, fy Ridgiv. 
+Rfomencl. Av. Neotr. p. 28 (1873); Baird, Brewer, fy Ridgw. 
 Hist. N. Amer. B. ii. p. 91 (1874); Sennett, Bull. U. S. Geol. 
 Surv. v. p. 393 (1879); Ridgw. Proc. U. 8. Nat. Mm. iii. p. 
 182 (1883) ; Coues, Keg N. Amer. B. 2nd ed. p. 392 (1884). 
@@ -12319,7 +12319,7 @@ ad. sk. Wheatland, Indiana, April Salvin-Godman Coll.
 no. 90310). 
 h. 
 <$ ad. sk. Knox Co., Indiana, April U.S. Nat. Museum [P.]. 
-21 (It. Ridgioay; Sm. 
+21 (It. Ridgw.y; Sm. 
 no. 8*2238). 
 i. 3 
 ad. sk. Indian Territory, Dec. 24, R. B. Sharpe, Esq. [P.], 
@@ -12424,9 +12424,9 @@ Abhandl nat. Ver. Brem. 1870, p. 339: Grayson, Troc. Bost. 8oc.
 N. H. xiv. p. 281 (1871). 
 Oardinalis virginianus, var. igneus, Coues, Key N. Amer. B. p. 151 
 (1872); Laior. Mem. Bost 8oe. ii. p. 275 (1874); Baird, Brewer, 
-fy Ridgio. Hist N. Amer. B. ii. pp. 90, 103 (1874). 
+fy Ridgw. Hist N. Amer. B. ii. pp. 90, 103 (1874). 
 
-Oardinalis -virginianus igneus, Ridgio. Bull. JJ. 8. Nat Mus. no. 21, 
+Oardinalis -virginianus igneus, Ridgw. Bull. JJ. 8. Nat Mus. no. 21, 
 
 p. 26 (1881); Belding, Br. U. 8. Nat Mus. v. p. 541 (1883), vi. 
 p. 343 (1883); Coues, Key N. Amer. B. p. 394 (1884). 
@@ -12479,7 +12479,7 @@ OARDINALIS SUFERBUS.
 Cardinalis cardinalis superbus, Bidgw, Auk, iii. p. 334 (1886); A. O. U. 
 Cheek-list N. Amer. B. p. 286 (18S6). 
 " Similar to C. cardinalis igneus, but decidedly larger and the female more 
-richly coloured " (Ridgtoaij). 
+richly coloured " (Ridgw.ij). 
 Full descriptions and measurements will be found in Mr. Bidgwaj's paper. 
 
 16 6 
@@ -17717,7 +17717,7 @@ Chrysomitris in the family FringillidcBp *
 Range. Costa Eica. 
 
 1. Acanthidops bairdi. 
-Acanthidops bairdi, Ridgto. Proc. U. S. Nat Mus. iv. p. 335 (1882); 
+Acanthidops bairdi, Ridgw. Proc. U. S. Nat Mus. iv. p. 335 (1882); 
 Sclater, Ibis, 1884, p. 241; Salvin $* Godman, Biol. Cenir.-Amer., 
 Aves, i. p. 483 (1886). 
 
@@ -19885,7 +19885,7 @@ Acanthis canescens (nee Gould), Bp. <§• Schl Monogr. Loxiens, pi. 51
 
 JEgiothus canescens (nee Gould), Oak Mus. Hein. Tli. i. p 161 
 (1850); Baird, B. JV. Amer. p. 429 (1858); Coues, Broc. Philad. 
-Acad. 1801, p. 388; Baird. Breiver, & Ridgio. Mist JV. Amer. 
+Acad. 1801, p. 388; Baird. Breiver, & Ridgw. Mist JV. Amer. 
 
 B. i. p. 498 (1874). 
 Fiingilla canescens, BeinJi. Ibis, 1801, p. 7, 
@@ -21138,11 +21138,11 @@ Zool. Camhr. iii. p. 177 (1872) • COUPS, B.N.-West,^. HI, footnote
 (1874): Baird. Brewer, & Ridqw. Hist N. Amer. B. i. p 504, pi. 23. 
 fig. 9'(1874). 
 
-Leueosticte tephrocotis, var. australis, Allen, MSS.: Ridgio. Bull. 
+Leueosticte tephrocotis, var. australis, Allen, MSS.: Ridgw. Bull. 
 Essex Inst. v. p. 182 (1873) • Baird, Brewer, § Ridqw. Hist. N. 
 
 • Amer. B. i. p. 509 (1874). 
-Leueosticte australis, Ridgio. Bull. JJ. S. Nat. Mm. i. p. 79 (187-5); 
+Leueosticte australis, Ridgw. Bull. JJ. S. Nat. Mm. i. p. 79 (187-5); 
 (1884); Dreio,Auk, ii. p. 16 (1885) • A. O. U. Check-list N Amer. 
 
 B. p. 2.19 (1886). 
@@ -32449,11 +32449,11 @@ B. ii. p. 101, no. 7513 (1870); Scl. # Sate. NomencL Ai\ Neotr,
 p. 34 (1873); Ridgw. Proc. U. S. Nat. Mm. iii. p. 236 (MPQ): 
 tialu. Cat. Strickl. Coll p. 205 (1882). 
 44 . C4J&P0DACTJS. 
-Carpodacus frontalis, var. hsemorrhous, JRidgto. Am. Journ. Set. fy 
+Carpodacus frontalis, var. hsemorrhous, JRidgw. Am. Journ. Set. fy 
 Arts, (3) v. p. 39 (1873). 
 Carpodacus frontalis, c. hsemorrhous, Coues, B. N.-We&t. p. 108 
 (1874). 
-Carpodacus mexicanus, Ridgio. Proc. Biol Soc. ii. p. Il l (1884); 
+Carpodacus mexicanus, Ridgw. Proc. Biol Soc. ii. p. Il l (1884); 
 Salvin § Godm. Biol. Centr.-Amer., Aves, i. p. 422 (1886). 
 
 Adult male. General colour above ashy brown, nearly uniform, with, 
@@ -32597,7 +32597,7 @@ tarsus 0*75-0*85 ; middle toe 0*58-0*05.
 Young. Similar in plumage to the adult female, but light edges 
 to wing- and tail-feathers broader and more inclining to fulvous. 
 
-(Ridgivay.) 
+(Ridgway.) 
 
 The upper mandible is nearly black, the lower much lighter, a 
 purplish horn-colour in the male, almost white in the female; the 
@@ -32608,7 +32608,7 @@ lead hue. The coloration is exactly like that of Q. frontalis from
 
 the Rocky Mountains, except that the tints are all darker; but the 
 size is in every way so much greater that no comparison is needed, 
-as the measurements will demonstrate. (Ridgivay.) 
+as the measurements will demonstrate. (Ridgway.) 
 
 Hah. Guadelupe Island, Lower California. 
 
@@ -33433,7 +33433,7 @@ Loxia curvirostra, var. mexicana, Baird, Brewer, §* Ridgw. Hist.
 
 N. Amer. B. I p. 488 (1874); Hensh. Rep. Zool Expl. 100th 
 Merid. p. 248 (1875). 
-Loxia curvirostra mexicana, Ridgiv. Proc. U.S. Nat. Mus. iii. p. 176 
+Loxia curvirostra mexicana, Ridgw. Proc. U.S. Nat. Mus. iii. p. 176 
 (1883); Coues, Key N. Amer. B. 2nd ed. p. 350 (1884). _ 
 Loxia curvirostra americana, 
 Ridgw. Proc. U.S. Nat. Mus. iii. p. 176 
@@ -44557,7 +44557,7 @@ X, ty. Sterna. England. John Ingall, Esq. [P.].
 GO. Sternum. England. J. Ray, Esq. [P.]. 
 2. Plectrophenax hyperhoreus. 
 Plectrophenax 
-hyperboreus, Ridgiv. Proc U. 8. Nat. Mas. vii. p. 68 
+hyperboreus, Ridgw. Proc U. 8. Nat. Mas. vii. p. 68 
 (1884) ; A. O. U. Chech-list N. Amer. B. p. 203 (1880). 
 
 Adult male in spring. Entirely pure white, except the terminal 
@@ -44583,7 +44583,7 @@ VOL. XII.
 578 gRINftTLLTP^. 
 
 Bill wax-yellow, with dusky tip to the maxilla. Wing 4-60, 
-tail 3-15, culmen 0-40, tarsus 0-9*5, middle toe 0-60. {Ridgivay.) 
+tail 3-15, culmen 0-40, tarsus 0-9*5, middle toe 0-60. {Ridgway.) 
 
 
 Adult female in spring. General colour white, the pileum and 
@@ -44736,7 +44736,7 @@ Faun. Ital, TJcc. p. 145 (1871); R. Gray, B. West Scotl. p. 125
 (1871); Bresser, B. Bur. iv. p. 253, pi. 223 (1872); Finsch, 
 Abhandl nat. Ver. Bremen, iii. p. 54 (1872) ; Cones, Key N. 
 Amer. B. p. 134 (1872); id. B. N.-West, p. 120 (1874); Baird, 
-Brewer, fy Ridgioay, Hist. N. Amer. B. i. p. 515, pi. 24. fig. 7 
+Brewer, fy Ridgw.y, Hist. N. Amer. B. i. p. 515, pi. 24. fig. 7 
 (1874); Seebohm fy Harvie-Broion, Ibis, 1876, p. 117; Neioton, 
 ed. Yarr. Brit, B. ii. p. 15 (1876); Harting, Faun. Prybilov Isl 
 p. 17 (1875); Tacz. Bull. Soc. Zool France, i. p. 174 (1876); 
@@ -45310,7 +45310,7 @@ Amer. 8vo, iii. p. 53, pi. 154 (1841) j Gray, Gen. B. ii. p. 379
 (1858); Blakist. Ibis, 1862, p. 6, 1863, j). 74; Dresser, Ibis, 1865, 
 
 p. 486; Allen, Bull. Mus. Comp. Zool. iii. p. 135 (1872) ; Coues, 
-Key N. Amer. B. p. 134 (1872) ; Baird, Brewer, # Ridgio. Hist. N. 
+Key N. Amer. B. p. 134 (1872) ; Baird, Brewer, # Ridgw. Hist. N. 
 Amer. B. p. 520 (1874) ; Coues, B. N-West, p. 122 (1874); Hensh. 
 Rep. Zool. Expl. 100th Merid. p. 250 (1875); Coues, Bull. U. S. 
 Geol. Surv. iv. p. 582 (1878) ; McChesney, op. cit. v. p. 76 (1880). 
@@ -45536,7 +45536,7 @@ Plectrophanes maccowni, Laior. Ann. Lyc. N. Y. v. p. 122 (1851);
 Cass. Ill B. Calif, p. 228, pi. 89 (1856); Bp. Bev. et May. de 
 Zool. 1857, p. 101 • Baird, B. JST. Amer. p. 437 (1858); Dresser, 
 Ibis, 1865, p. 487; Allen, Bull. Mus. C. Z. iii. pp. 145,177; Baird, 
-Breioer, # Ridgio. Hist. N. Amer. B. i. p. 523, pi. 24. fig. 1 (1874) ; 
+Breioer, # Ridgw. Hist. N. Amer. B. i. p. 523, pi. 24. fig. 1 (1874) ; 
 Hensh. Rep. Zool. Rvpl 100th Merid. p. 252 (1875); Maynard. 
 
 B. Florida, p. 519 (1883). 
@@ -45700,7 +45700,7 @@ Euoberiza granimaca, Audub. Sy?h. p. 101 (1839); id. B. Amer. 8vo,
 iii. P/ 63, pi. 158 (1841). 
 Zonotrichia grammaca, Gray, Gen. B. ii. p. 374 (1849). 
 Calainospiza grammaca, Gray,Hand-l. B. ii. p. Ill, no. 7670 (1870). 
-Chondestes grammica strigata, Ridgto. Bull XI. S. Nat. Mus. no. 21, 
+Chondestes grammica strigata, Ridgw. Bull XI. S. Nat. Mus. no. 21, 
 p. 24 (1881) ; Belding, Proc. XI. S. Nat. Mus. v. p. 540 (1883); 
 k op. cit vi. p. 343 (1883); Drew, Auk, ii. p. 16 (1885); Beckh. 
 t c. p. 141; Brewster, Auk, iii. p. 139 (1886) ; Eversm. t c. p. 182; 
@@ -47063,7 +47063,7 @@ Salmi # Godm. Ibis, 1879, p. 200; Gibson, Ibis, 1880, p. 28;
 Salvin $ Godm. t. c. p. 122 ; Sate. t. c. p. 355 ; Bumf. t. c. p. 416; 
 Tacz. P. Z. S. 1880, p. 199; Forbes, Ibis, 188L. p. 337; Salvin, 
 Cat. Strickl. Coll. p. 230 (1882); White, P. Z. S. 1882, p. 600; 
-Salvin, P. Z. S. 1S83, p. 432; Ridgto. Proc. U. S. Nat. Mus. v. 
+Salvin, P. Z. S. 1S83, p. 432; Ridgw. Proc. U. S. Nat. Mus. v. 
 pp. 494, 500 (1883) ; Berlepsch $ Jhering in Madardsz's Zeitsclir. 
 yes. Orn. ii. p. 124 (1885) ; Salvin, Bis, 1885, p. 216; id. Sf Godman, 
 Biol. Centr.-Amer., Aves, i. p. 370 (1886); Tacz. Orn. Perou, ii. 
@@ -47684,7 +47684,7 @@ p. 171 (1874) j Lawr. Bull. U.S. Nat. Mus. no. 4, p. 20 (3875)$
 SennetL Bull. US. Geol Surv. iv. p. 20 (1878); Merrill, Br. 
 US. Nat Mus. i. p. 128 (1878); Cory, B. Bahamas, p. 90 (1880) ; 
 Salv. Cat. Stricld. Coll. p. 224 (1882); Boucard, P. Z. S. 1883, 
-p. 444; Nutting fy Ridgiv. Pr. U.S. Nat. Mus. xi. pp. 373, 383, 
+p. 444; Nutting fy Ridgw. Pr. U.S. Nat. Mus. xi. pp. 373, 383, 
 392 (1884) ; Salvin fy Godman, Biol Centr .-Amer., Aves, i. p. 364 
 (1886). 
 Adult male. General colour above blue, lighter and more cobalt 
@@ -49649,7 +49649,7 @@ Nat vii. p. 613 (1873); Baird, Brewer, $ Ridgw. Hist N
 Amer. B. i. p. 580, pi. 26. fig. 5 (1874); Coues, B. N.-West, 
 p. 141 (1874); Hensh. Rep. Zool. Fxpl. 100th Merid. p. 266 
 (1875); Coues, Bull. U.S. Geol. Surv. iv. p. 593 (1878); Maynard, 
-B. Florida, p. 93 (1878); Ridgio. Proe. U.S. Nat. Mus. iii. p. 170 
+B. Florida, p. 93 (1878); Ridgw. Proe. U.S. Nat. Mus. iii. p. 170 
 (1881); Solum, Cat. Strickl. Coll. p. 232 (1882); Nelson, Cruise 
 R. S. 'Corwin; p. 71 (1883); Steams, Proe. U.S. Nat Mus. vi. 
 p. 117 (1883) ; Coues, Key N. Amer. B. 2nd ed. p. 377 (1884); 
@@ -50152,7 +50152,7 @@ Bab. Eastern mountain-districts of Mexico (from the Sierra
 
 Madre of Chihuahua to the high districts of Yera Cruz) (teste 
 
-Ridgivay, I. c). 
+Ridgway, I. c). 
 
 a. Ad. sk. Mexico. 
 Salvin-Godman Coll. 
@@ -50389,7 +50389,7 @@ Philad. Acad. 1861, p. 224; Scl Cat. Amer. B. p. 114 (1862);
 Cones, Proc. Philad. Acad. 1866, p. 87; Alien, Bull 3fu#. C. Z. 
 
 iii. p. 177 (1872) ; Cones, Key N. Amer. B. p. 142 (1872); Baird, 
-Bretoer, £ Ridgio. Hist. N. Amer. B. ii. p. 3, pi. 27. fig. 5 (1874); 
+Bretoer, £ Ridgw. Hist. N. Amer. B. ii. p. 3, pi. 27. fig. 5 (1874); 
 Cones, B. N.-West, p. 146 (1874); JSensh. Pep. Z00L Expl. 100th 
 Mend. p. 277 (1875J ; Cones, Cheek-list N. Amer. B. p. 50 (1882) ; 
 Salmi, Cat. Striekl. Coll. p. 231 (1882); Stearns, Proc. U.S. Nat. 
@@ -51088,7 +51088,7 @@ inches, tail (somewhat worn) 2-50, culmen from extreme base 0*40,
 bill from nostrils 0*25, depth at base 0*18, tarsus 0*70, middle toe 
 
 045. 
-(Ridgivay.) 
+(Ridgway.) 
 Hah. New Mexico and Western Texas. 
 6. Spizella pusio. 
 Fringilla pusio, Licit. Frets Verz. Mex.. Vog. p. 2 (1830) ; Cab. J. f. 
@@ -51700,38 +51700,38 @@ p.
 670 
 EIOTGILLIDiE. 
 
-Passorculus sandwichensis savanna, Ridgio. Proc. U.S. Nat. Mus. iii. 
+Passorculus sandwichensis savanna, Ridgw. Proc. U.S. Nat. Mus. iii. 
 
 p. 178 (1881); Coues, Check-list, p. 52 (1882); Stearns, op. cit. 
 vi. p. 117 (1883); Turner, op. cit. viii. p. 240 (1885); Drew, 
 Auk, ii. p. 10 (1885) ; Lawrence, t. c. p. 272; Agersl. t. c. p. 280 3 
 Fox, Auk, iii. p. 317 (1880). 
-Passerculus sandwichensis alaudinus, Ridgto. Proe. U.S. Nat. Mus. iii. 
+Passerculus sandwichensis alaudinus, Ridgw. Proe. U.S. Nat. Mus. iii. 
 
 p. 178 (1881), vi. p. 350 (1883); Coues, Check-list, p. 52 (1882); id. 
 Key N. Amer. B. Snded. p. 363 (1884) ; Murdoch, Auk, ii. p. 201 
 (1885); Nelson, t. c. p. 240. 
-Passerculus sandwichensis anthinus, Ridgio. Proc. U.S. Nat. Mus. 
+Passerculus sandwichensis anthinus, Ridgw. Proc. U.S. Nat. Mus. 
 
 iii. p. 178 (1881) ; Coues, Check-list N Amer. B. j>. 52 (1882). 
-Passerculus beldingi, Ridgto. Proc. U.S. Nat. Mus. yii.p. 516 (1885). 
-Passerculus sandwichensis bryanti, Ridgio, op. cit. vii. p. 517 (1885). 
-Ammodromus sandwichensis, Ridgio. Proc. U.S. Nat. Mus. viii. 
+Passerculus beldingi, Ridgw. Proc. U.S. Nat. Mus. yii.p. 516 (1885). 
+Passerculus sandwichensis bryanti, Ridgw. op. cit. vii. p. 517 (1885). 
+Ammodromus sandwichensis, Ridgw. Proc. U.S. Nat. Mus. viii. 
 p. 354 (1885); A. 0. U. Check-list N. Amer. B. p. 265 (1886). 
-Ammodromus sandwichensis savanna, Ridgio. Proc. U.S. Nat. Mus. 
+Ammodromus sandwichensis savanna, Ridgw. Proc. U.S. Nat. Mus. 
 viii. p. 354 (1885) ; A. 0. U Check-list. N Amer. B. p. 265 (1886) ; 
 Cory, Auk, iii. p. 211 (1886). 
-Ammodromus sandwichensis bryanti, Ridgio. Proc. U.S. Nat. Mus. 
+Ammodromus sandwichensis bryanti, Ridgw. Proc. U.S. Nat. Mus. 
 
 viii. p. 354 (1885). 
 Ammodromus 
-sandwichensis alaudinus, Ridgio. op. cit. vi. p. 350 
+sandwichensis alaudinus, Ridgw. op. cit. vi. p. 350 
 (1883); id. op. cit. viii. p. 354 (1885); A. 0. U. Check-list N. 
 Amer. B. p. 2G6 (1880) j JBuerm. Auk, iii. p. 182 (1886); Seton, 
 
 t. c. p. 323. 
 Ammodromus 
-beldingi, Ridgto. Proc. U.S. Nat. Mus. viii. p. 354 
+beldingi, Ridgw. Proc. U.S. Nat. Mus. viii. p. 354 
 (1885); A. 0. U Checklist N. Amer. B. p. 260 (1886); Bverm. 
 Auk, iii. p. 182 (1886). 
 
@@ -52005,7 +52005,7 @@ a. Ad. sk. Duenas, Guatemala, Jan. 1860 Salvin-Godman Coll.
 (0. &). 
 2. Passerculus princeps. 
 Passerculus princeps, Maynard, Amer. Nat. vi. p. 687 (1872); Baird, 
-Brewer, ty Ridgio. Hist. N. Amer. B. i. p. 540 (1874) j llidgw. 
+Brewer, ty Ridgw. Hist. N. Amer. B. i. p. 540 (1874) j llidgw. 
 Froc. US. Nat. Mus. iii. p. 178 (1881); Coues, Chech-list N. 
 Amer. B. p. 52 (1882); id. Key N. Amer. B. 2nd ed. p. 361 
 (1884); Butcher, Auk, I p. 31 (1884) ; Merriam, t. c. p. 390; 
@@ -52413,7 +52413,7 @@ Jard. ed. Wils. Amer. Orn. ii. p. 70, pi. 35. fig. 3 ; Bp. Comp. List
 B. Bur. 8f N. Amer. p. 32 (1838) ; Gray, Gen. B. i. p. 374 (1849) ; 
 Bp. Consp. i. p. 482 (1850); Baird, B. N. Amer. p. 453 (1858) ; 
 Scl. Cat. Amer. B. p. 116 (1862); Coues, Key N. Amer. B. p. 138 
-(1872) ; Maynard, B. Bast. U.S. p. 122 ; Baird, Brewer, $ Ridgiv. 
+(1872) ; Maynard, B. Bast. U.S. p. 122 ; Baird, Brewer, $ Ridgw. 
 Hist. N Amer. B. i. p. 557, pi. 25. fig. 7 (1874); Ridgw. Proc. 
 U.S. Nat. Mtis. iii. p. 217 (1881); Coues, Key N. Amer. B. 2nd 
 ed. p. 368 (1884); A. O. U. Check-list N Amer. B. p. 268 (1886). 
@@ -53253,7 +53253,7 @@ caboti, Baird, Brewer, §• Bidgw. Hist. N. Amer. B. iii.
 pi. 40. fig. 9 (1874, descr. nidld); Bidgw. Broc. U.S. Nat. Mus. 
 
 iii. p. 285 (1881). 
-Melospiza georgiana, Ridgio. Broc. U.S. Nat. Mus. viii. p. 355 (1885); 
+Melospiza georgiana, Ridgw. Broc. U.S. Nat. Mus. viii. p. 355 (1885); 
 A. O. U. Check-list N. Amer. B. p. 281 (1886): Fox, Auk, iii. 
 p. 318 (1886). 
 Adult wale. General colour above brown, the featbers mesially 
@@ -53394,7 +53394,7 @@ Amer. B. p. 138 (1872); Scl. f Salv. Nomencl. Av. Neotr. p. 32
 (1873) ; Baird, Brewer, fy Rldgxo. Hist. N. Amer. B. ii. p. 31, 
 pi. 27. fig. 13 (1874); Coues, B. N.-West, p. 135 (1874); Lawr. 
 Mem. Bost. Soc. N. H. ii. p. 277 (1874); Hensh. Pep. Zool. Expl. 
-IQOth Merid. p. 283 (1875;; Ridgio. Rep. Surv. 40th Parallel, 
+IQOth Merid. p. 283 (1875;; Ridgw. Rep. Surv. 40th Parallel, 
 p. 484 (1877) ; Coues, Bull U.S. Geol. Surv. iv. p. 595 (1878) ; 
 Sennett, t. c. p. IS, v. p. 390 (1879); Ridgw. Bidl. U.S. Nat. Mus. 
 no. 21, p. 26 (IbSi); Coues, C/ieck-l N. Amer. B. p. 53 (1882) ; 
@@ -53828,7 +53828,7 @@ are clear rufous, with scarcely any indication of black centres ; the
 rump nearly uniform : " bill lilaceous ashy brown, darkest terminally, 
 the lower mandible more lilaceous ; rictus pale yellow; 
 tarsi and toes dilute lilaceous-sepia, the latter pale yellow beneath; 
-iris very dark sepia w (Ridgivay). Total length 5"8 inches, culmen 
+iris very dark sepia w (Ridgway). Total length 5"8 inches, culmen 
 0*5, wing 2-6, tail 2-6, tarsus 0-85. 
 
 Hah. JNew Mexico and Arizona. 
@@ -53923,11 +53923,11 @@ Zonotrichia gouldii, Gray, Iland-l B. ii. p. 64, no. 7390 (1870).
 Melospiza melodia, var. gouldii, Coties, Key N. Amer. B. p. 139 
 
 (1872). 
-Melospiza melodia, var. samuelis, Baird, Brewer, <§- Ridgiv. Hist. JV", 
+Melospiza melodia, var. samuelis, Baird, Brewer, <§- Ridgw. Hist. JV", 
 
 Amer. B. ii. p. 26, pi. 27. fig. 7 (1874). 
 Melospiza melodia, 8. gouldii, Corns, B. K-West, p. 139 (1874). 
-Melospiza fasciata samuelis, Ridgto. Proc. U.S. JNat. Mm. iii. pp. 8, 
+Melospiza fasciata samuelis, Ridgw. Proc. U.S. JNat. Mm. iii. pp. 8, 
 
 180 (1881); Coues, Chech4. N. Amer. B. p. 54 (1882); Belding, 
 Proc. U.S. Nat. Mus. v. p. 528 (1883); Coues, Key N. Amer. B. 
@@ -54891,7 +54891,7 @@ Zonotridiia schistacea, Gray, Iland-l B. ii. p. 95, no. 7406 (1870).
 Passerella iliaca, var. schistacea, Cones, Key N. Amer. B. p. 852 
 (1872); Allen, Bull. MILS. C. Z. iii. pp. 108, 177 (1872); Belding, 
 Proc. US. Na1. Mm. i. p. 418 (1878). ^ 
-Passerella lownsendi, var. schistacea, Baird, Brewer, § Ridgio. Hist. 
+Passerella lownsendi, var. schistacea, Baird, Brewer, § Ridgw. Hist. 
 
 N. Amer. B. ii. p. 56, pi. 27. fig. 9 (1874); Cones, P. N.-West, 
 p. im (1874); Ilensh. Rep. Zool. Eayl 100th Merid. p. 293 (1875). 
@@ -56040,7 +56040,7 @@ U.S. Sat. Mm. i p. 410 (1870) ; Ridgwag, op. eit. iii. p. 181
 U.S. Sat. Mus. v. p. 540 (1833), vi. p. 343 (1833); Cones, Key 
 S. Amer. B. 2nd ed. p. 398 (1834) j Brew, Auk, ii. p. 16 (1885)$ 
 Beckh. i. e. p. 142 (1885); A. 0. U. Cheek-list S. Amer. B. p. 284 
-(1386) ; Hmsh. Auk, iii. p. 74 (1830; Ridgio. Mem. S. Amer. B. 
+(1386) ; Hmsh. Auk, iii. p. 74 (1830; Ridgw. Mem. S. Amer. B. 
 p. 439 (lb87). 
 Emberizoides cklorura, Gray, Hand-L B. ii. p. 01, no. 7331 (1870). 
 Adult male. General colour above dull olive-greenish, washed with 
@@ -56529,7 +56529,7 @@ ILS. Nat. Museum
 
 /, g. <J ? ad. sk. Mount Oarmel, Illinois, April 
 
-(B. Ridgioay). 
+(B. Ridgw.y). 
 R, B. Sharpe, Esq. 
 
 A. $ ad. sk. 
@@ -56609,7 +56609,7 @@ Scl. # Salv. P. Z. S. 1809, p. 361; Gray, HmuU. B. ii. p. 92,
 no. 7357 (1870) j Coues, Key N. Amer. £. p. 152 (1872); Scl. <§• 
 Salv. Nomencl Av. Neotr. p. 33 (1873); Zaivr. Bull. U.S. Nat. 
 Mus. iv. p. 22 (1876); Salvin <§• Godman, Biol. Centr.-Amer., Aves, 
-i. p. 408 (1886); Ridgio. Auk, in. p. 332 (1880); id. Man. N. 
+i. p. 408 (1886); Ridgw. Auk, in. p. 332 (1880); id. Man. N. 
 Amer. B. p. 436 (1887). 
 Pipilo oregonus (mo Audub.), Salvin, lbi$y I860, p. 193; Dimes. La 
 Natur. i. p. 140 (1868). 
@@ -57191,7 +57191,7 @@ Cooper, B. Calif, p. 248 (lb70); Gray, Hand-l. B. ii. p. 92,
 no. 7302 (1874). 
 
 Pipilo fuse us, var. albigula, Coues, Key N. Amer. B. p. 152 (1872); 
-Baird, Brewer, § Ridgiv. Hist. N. Amer. B. ii. p. 127, pi. 31. 
+Baird, Brewer, § Ridgw. Hist. N. Amer. B. ii. p. 127, pi. 31. 
 fig. 11 (1874). 
 
 Pipilo fuscus albigula, Ridgiu. Proc. U.S. Wat. Mus. iii. pp. 181, 
@@ -57199,7 +57199,7 @@ Pipilo fuscus albigula, Ridgiu. Proc. U.S. Wat. Mus. iii. pp. 181,
 Belding, Proc. U.S. Nat 3£us. v. p. 540 (1883); Coues, Key N. 
 Amer. B. 2nd ed. p. 397 (1884); A. O. U. Check-list N. Amer. B. 
 
-p. 286 (1880); Ridgio. Man. N. Amer. B. p. 440 (3887). 
+p. 286 (1880); Ridgw. Man. N. Amer. B. p. 440 (3887). 
 Adult male. Similar to P. mesoleucus, but smaller, with the 
 abdomen white arid the flanks ashy brown, causing the tawny 
 rufous under tail-coverts to appear in strong contrast. Total 
@@ -57272,12 +57272,12 @@ p. 325 (1852); id. B. N. Amer. p. 510 (1858); id. Mex. Bound.
 Saw., Birds, p. 18 (1858); ScL Cat. Amer. B. p. 119 (loO*)Cooper, 
 B. Calif, p. 244 (1870); Gray, Band-L B. ii. p. 93 
 no. 7306 (1870) ; Cones, Key N. Amer. B. p. 153 (1872) ; Baird, 
-Brewer, § Ridgto. Hist. N. Amer. B. ii. p. 128, pi. 31.fig. 7 (1874) -
+Brewer, § Ridgw. Hist. N. Amer. B. ii. p. 128, pi. 31.fig. 7 (1874) -
 Eensh. Bep. Zool. RvpL 100th Mend. p. 30(3 (1875); Ridr/w Proc 
 U.S. Nat. Mus. iii. p. 181 (1881); Cones, CJiech-L N Amer B, 
 p. 61 (1882); id. Key N. Amer. B. 2nd ed. p. 398 (1884); Drew. 
 Auk, ii. p. 16 (1885); A. O. U. Check-L N. Amer. B. v. 285 
-(1886) ; Ridgto. Man. N. Amer. B. p. 441 (1887). 
+(1886) ; Ridgw. Man. N. Amer. B. p. 441 (1887). 
 Kieneria aberti, Bp. C. R. xl. p. 356 (1855). 
 
 Adult male. General colour pale isabelline brown, deeper and 
@@ -57523,7 +57523,7 @@ Surv. ii. Birds, p. 16, pi. 17. %. 2 (1858); Baird, Breiver, $ Ridgw.
 Hist N. Amer. B. ii. p. 47, pi. 28. fig. 3 (1874); J&rrill, Bull. 
 Nutt. Orn. Club, i. p. 80 (1870); Id. Proe. U.S. Nat. Mm. i. 
 
-p. 128 (1878); Ridgto. t. e. p. 240 (1878) ; Semieti, Bull. U.S. 
+p. 128 (1878); Ridgw. t. e. p. 240 (1878) ; Semieti, Bull. U.S. 
 Geol Surv. iv. p. 22 (1878), v. p. ;394 (1870); Ridgw. Proc. U.S. 
 Nat Mm. iii. p. 181 (1881); Cones, Check-l. N. Amer. B. p. 61 
 (1882) * id. Key N. Amer. B. 2nd ed. p. 898 (1&84) -Salvia $> 
@@ -57561,7 +57561,7 @@ Embernagra rufivirgata, /3. crassirostris, Ridgw. Proc. US. Nat.
 31m. I p. 249 (1878). 
 Embernagra crassirostris, Scdvin § Godman, Biol. Centr.-Amer., 
 Aves, i. p. 412 (1886). 
-Embernagra rufivirgata crassirostris, Ridgio. Man. N. Amer. B. p. 435 
+Embernagra rufivirgata crassirostris, Ridgw. Man. N. Amer. B. p. 435 
 (1887). 
 
 Adult Abovo dull olivaceous; sides of the head, breast, flanks, 
@@ -58470,7 +58470,7 @@ Em'beriza townsendi, Aud. B. Amer. pi. 400. fig. 4 ; id. Orn. Biogr.
 iii. p. 183 (1834), v. p. 90 (1839) ; id Syn. p. 101 (1839). 
 Euspiza townsendi, Bp. Comp. ListB. Eur. fy N. Amer. p. 32 (1838) ; 
 Cones, Key N. Amer. B. p. 148 (1872); Baircl, Brewer, $ Ridqiv. 
-Hist K Amer. B. ii. p. 68 (1874) ; Ridgiv. Proc. U.S. Nat. Mus. 
+Hist K Amer. B. ii. p. 68 (1874) ; Ridgw. Proc. U.S. Nat. Mus. 
 
 iii. p. 182 (1881) ; Coues, Key N. Amer. B. 2nd ed. p. 387 (1884) ; 
 Brewster, Auk, i. p. 191 (1884) ; A. 0. U. Check-list N. Amer. B. 
@@ -63170,10 +63170,10 @@ ADDENDA.
 Page 577. Add:— 
 la. Plectrophenax townsen&i. 
 
-Plectroplienax nivalis townsendi, Ridgio. Man. N. Amer. B. p. 403 
+Plectroplienax nivalis townsendi, Ridgw. Man. N. Amer. B. p. 403 
 (1887). 
 
-Larger, with much larger and longer bill, &o. (Ridgivay). 
+Larger, with much larger and longer bill, &o. (Ridgway). 
 Hah. Prybilof Islands, Alaska, and Commander Islands, Kamisehatka 
 (Ridgway). 
 
@@ -63193,7 +63193,7 @@ v. Ad. sk. Albany, New York (J. A. Hurst). Tweeddale Coll.
 j^ftfr • 
 Page 625. Cyanospiza pulchra. 
 
-Passerina versicolor pulchra, Ridgiv. Man. N. Amer. B. L p. 448 
+Passerina versicolor pulchra, Ridgw. Man. N. Amer. B. L p. 448 
 (1887). 
 
 Passerina 'pulchra is described by Mr. Ridgway as being " rather 

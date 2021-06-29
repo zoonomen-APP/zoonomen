@@ -326,7 +326,7 @@ Page
 15. cjdorqpygi, Cab 44 
 16. "barBaaensis, Baird..... 46 
 17. martinicana, Meichenb.. 46 
-18. finschi, Ridgiv 47 
+18. finschi, Ridgw.47 
 19. atrata, Lawr 47 
 Subfam. IV. GLOSSIPTILIN^E. 
 
@@ -597,7 +597,7 @@ f; 8. hepatica, Sio 186
 "l/venustus, Bp 193 
 26. Orthogonys, Strickl 193 
 1. Yiridis, Spiv 194 
-27. Clilorothraupis, Ridgio. .. 194 
+27. Clilorothraupis, Ridgw. .. 194 
 1. carmioli, Lawr 194 
 2. oliyacea, Cassin ...... 195 
 3. stolzmanni, Berl et Tacz. 195 
@@ -14119,7 +14119,7 @@ Salvin-Godman Coll.
 lANAGBLDJS. 
 
 2. Pyranga cooperi 
-Pyranga cooperi, Ridgiv. Pr. Ac. Sc. Phil. 1869, p. ISO; Salv. et Goclm. 
+Pyranga cooperi, Ridgw. Pr. Ac. Sc. Phil. 1869, p. ISO; Salv. et Goclm. 
 "Biol. Centr.-Am., Aves, i. p. 290. 
 Pyranga sestiva, var. cooperi, Baird, Breic, et Rldr/w. X A. B. i. 
 
@@ -14144,7 +14144,7 @@ c. J ad. sk. Mexico.
 J. Gould, Esq. 
 3. Pyranga testacea. 
 Pyranga testacea, Set et Salv. P. Z. S. 1868, p. 388 (Veragua), 
-et 1879, p. 502 (Antioquia) ; iid. Nomencl. p. 22 ; Ridgiv. Pr. Ac. 
+et 1879, p. 502 (Antioquia) ; iid. Nomencl. p. 22 ; Ridgw. Pr. Ac. 
 Se. Phil. 1869, p. 133; Salv. P. Z. S. 1870, p. 187 '(Verasrua); 
 Zekdon, Cat. Aves Costa Rica, p. 7; Salv. et Godm. Biol. Centr.Am., 
 Aves, i. p. 292, t. xix. %g. 1, 2. 
@@ -14343,7 +14343,7 @@ B. N. Am. p. 30:2; 8mnichr. Mem. Bod. Soc. N. II. i. p. 549
 (Vera Cruz); Bidyio. Pr. Ac. Sc. Phil. 1809, p. 132; Later. Mem. 
 Bost. Soc. K K. ii. p. 274 (N.W. Mexico); id. Bidl. U. 8. N. M. 
 no. 4, p. 19; Ridgw. Pr. Ac. Sc. Phil 1869, p. 132 ; Baird, Brew., 
-et Ridgio. N. A. B. i. p. 440,-Salv. Cat. 8trickl. Coll p. 192; Salv. 
+et Ridgw. N. A. B. i. p. 440,-Salv. Cat. 8trickl. Coll p. 192; Salv. 
 et Godm. Biol Centr.-Am., Aves, I p. 291. 
 Plicenicosoma hepatica, Cab. Mm. Bern. i. p. 25. 
 Plicenisoraa dentata, Licht. in Mus. Berol 
@@ -28890,7 +28890,7 @@ MSfk. ii. p. 900 ; Bp. Consj). i. p. 424 ; Sclater, P. Z. S.1859, p. 58
 (Omoa); id. Cat. A. B. p. 141; id. Ibis, 1884, p. loo; Baird, B. 
 W,Am.ip.5oo; Dresser, Ibis, 1865, p. 494 (Texas); Salv. Ibis, 
 mm, p. 194 (Belize) ; Cumn, JPr. Ac. Sc. Phil. 18G6, p. 409; 
-Baird, Brmv., et Ridgiv. X. A. B. ii. p. 222; Lawr. Mem. Boston 
+Baird, Brmv., et Ridgw. X. A. B. ii. p. 222; Lawr. Mem. Boston 
 Soc. 2VT. II ii. p. 281 (N.W. Mexico) -7 Cbues, Ibis, 1870, p. 367; 
 id. Key N. A. B. (1884) p. 412. 
 
@@ -29010,7 +29010,7 @@ of the species.)
 
 5. Q,uiscalus graysoni. 
 Quiscalus palustris, Cassin, Pr. Ac. Be. Phil. 1866, p. 411. 
-Quiscalus major, var. palustris, Baird, Brew., et Ridgio. N, A. B. 
+Quiscalus major, var. palustris, Baird, Brew., et Ridgw. N, A. B. 
 
 ii. p. 214;' Later. Mem. Boston Soc. JY. E. ii. p. 282 (N.W. 
 Mexico). 

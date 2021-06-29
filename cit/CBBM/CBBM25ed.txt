@@ -3740,7 +3740,7 @@ Sterna major, Ettman, Zool. s. s. p. 7472 (1861: New Zealand).
 Thalasseus imperator, Cones, Br. Fhilad. Acad. 1862, p. 538 
 
 (Labrador). 
-Sterna caspia, var. imperator, Ridgio. Ann. Luc. JSf. T. x. p. 391 
+Sterna caspia, var. imperator, Ridgw. Ann. Luc. JSf. T. x. p. 391 
 (1874). 
 Sterna (Thalasseus) caspia, Coues, B. N.-West, p. 667 (1874): id. 
 Key N. Amer. B. 2nd ed. p. 757 (1884). 
@@ -4964,7 +4964,7 @@ Lntrod., tail figd. (1869); Gray, JEand-l. B. iii. p. 118, no. 11026
 (1871); Scl 8r Salv. P. Z. S. 1871, p. 569 (revision) ; iid. Nomencl 
 At). Neotrop. p. 147 (1873); Coues, Pr. Philad. Acad. 1871, p. 44 
 (North Carolina); id. Key N. Amer. B. p. 321 (1872); id. 
-Check-list, no. 566 (1873); Ridgio. Ann. Lyc. NY. x. p. 391 
+Check-list, no. 566 (1873); Ridgw. Ann. Lyc. NY. x. p. 391 
 (1874: Illinois) ; Coues, B. N.-West, p. 676 (1874); Lawr. Mem. 
 Bost. Soc. N JEL. ii. p. 318 (1874: Mazatlan); JHensh. Ann. 
 Lye. N. Y. xi. p. 13 (1874: Utah); id. Rep. Zool JExpl. 100th 
@@ -6569,7 +6569,7 @@ Seebohm, Ibis, 1879, p. 161 (Yenesei); Kumlien, Bull U.S. Nat
 6. STEENA. 
 63 
 Mus. no. 15, p. 101 (1879); Saund. P. Z. S.1880, p. 103 (32° S., 
-57° E.);_ Ridgiv. Bull U.S. Nat. Mus. no. 21, p. 53 (1881); 
+57° E.);_ Ridgw. Bull U.S. Nat. Mus. no. 21, p. 53 (1881); 
 Feilden in Marhham's Polar Reconn. p. 334 (1881 : Novaya 
 Zemlya); id. Tr. Norf. <$• Nono. N E. Soc. iii. p. 209 (1881: 
 Franz-Josef Land),- Coues, Chech-l N. Amer. B. p. 123 (1882) ; 
@@ -7908,7 +7908,7 @@ Acad. Nat. Sci. Philad. 1862, p. 540 (revision); Salvin, Ibis, 1864,
 p. 381; Coues, torn. cit. p. 389; Salvin, op. cit. 1866, p. 198 (Honduras) 
 ; Gundl. Orn. Cuba, p. 309 (1876). 
 Sterna (Tbalasseus) cantiaca, Coues, B. N-West, p. 673 (1874). 
-Sterna cantiaca acuflavida, Ridgio. Bull. U.S. Nat. Mus. no. 21, p. 53, 
+Sterna cantiaca acuflavida, Ridgw. Bull. U.S. Nat. Mus. no. 21, p. 53, 
 
 no. 683 (1881); id. Cat. Aquatic B. p. 33, no. 683 (1883). 
 Sterna sandvicensis acuflavida, Baird, Brewer, fy Ridgw. Water-B. 
@@ -8186,7 +8186,7 @@ St. Thomas); Hartert, Ibis, 1893, p. 309 (Aruba), p. 326 (Curacao),
 p. 337 (Bonaire) j A. O. U. Check-l. Amer. B. p. 93 
 (1886); Ferrari-Perez, Pr. U.S. Nat. Mus. ix. p. 179 (1886: Vera 
 Cruz) ; Wells, torn. cit. p. 632 (Grenada, breeding); Tacz. Orn. 
-Perou, iii. p. 439 (1886) ; Ridgiv. Man. N. Amer. B. p. 40 (1887); 
+Perou, iii. p. 439 (1886) ; Ridgw. Man. N. Amer. B. p. 40 (1887); 
 Smyth, Pr. Elliot Soc. ii. p. 189 (1888); Salvin, Ibis, 1889, p. 379 
 (Cozumel); Scl. fy Huds. Argent. Orn. ii. p. 195 (1889); Cory, 
 B. West Ind. p. 277 (1889); Hartert, Eat. Vogelsamml. Senekenb. 
@@ -8248,9 +8248,9 @@ Leot. Ois. Trinid. p. 543 (1866); Lawr. Ann. Lyc. N. Y. ix.
 
 p. 210 (1869: Yucatan); Gray, Hand-l. B. iii. p. 120, no. 11055 
 (1871); Coues, Key N. Amer. B. p. 319 (1872); Henshaw, Ann. 
-Lye. N T. xi. p. 13 (1874: Utah); Ridgio. op. cit. x. p. 391 
+Lye. N T. xi. p. 13 (1874: Utah); Ridgw. op. cit. x. p. 391 
 (1874: Illinois); id. Rep. Surv. 40th Par. p. 639 (1877); Cory, 
-B. Bahamas, p. 210 (1880); id. ibid. 2nd ed. p. 210 (1890); Ridgio. 
+B. Bahamas, p. 210 (1880); id. ibid. 2nd ed. p. 210 (1890); Ridgw. 
 Bull. U.S. Nat. Mus. no. 21, p. 52 (1881); Zeledon, Cat. Aves 
 Costa Rica, p. 36 (1882); Dalgleish, Auk, 1884, p. 97 (Tangier). 
 Thalasseus regius, Gambel, Journ. Philad. Acad. (2) i. p. 228 (1849): 
@@ -8562,7 +8562,7 @@ Sterna
 elegans, Gambel, Pr. Philad. Acad. iv. p. 129 (1848: 
 Mazatlan); Baird, Cass.,fy Laior. Birds N. Amer. p. 860 (1858), 
 ed. 1860, Atlas, pi. 94 ; Gray, Hand-l. B. iii. p. 120, no. 110*56 
-(1871) ; Saunders, P. Z. S. 1876, p. 653 (revision); Ridgio. Bull 
+(1871) ; Saunders, P. Z. S. 1876, p. 653 (revision); Ridgw. Bull 
 
 U.S. Nat. Mus. no. 21, p. 53 (1881) ; Cones, Check-l N. Amer. 
 B. p. 123 (1882); Saunders, P. Z. S. 1882, p. 521 (Peru & Chili) ; 
@@ -11995,13 +11995,13 @@ Pr. Bost. Soc. N. H. xi. p. 98 (1867: San Domingo); Coues, Pr,
 Essex Inst. v. p. 308 (1868: New England, breeds); Coues, Pr. 
 Philad. Acad. 1871, p. 45 (North Carolina, breeds) ; Sel. fy Salv. 
 P. Z. S. 1871, p. 571 (revision) ; iid. Nomencl. Av. Neotr. p. 147 
-(1873); Ridgto. Ann. Lyc. N. Y. x. p. 391 (1874: Illinois); 
+(1873); Ridgw. Ann. Lyc. N. Y. x. p. 391 (1874: Illinois); 
 Gundl. J.f. 0.1874, p. 314 (Porto Rico); id. op. cit. 1875, p. 391 
 (Cuba); id. Orn. Cuba, p. 310 (1876); Saunders, P. Z. S. 1876, 
 p. 661 (revision Sterninae) ; Lawr. Bull. U.S. N. Mus. iv. (1876) 
 p. 52 (Tehuantepecj; Gundl. J.f. 0.1878, p. 163 (Porto Rico); 
 Lawr. Pr. U.S. Nat. Mus. i. p. 68 (1878: Dominica); A. 8f E. 
-Newton, Handb. Jamaica, p. 117 (1881); Ridgto. Bull. U.S. Nat. 
+Newton, Handb. Jamaica, p. 117 (1881); Ridgw. Bull. U.S. Nat. 
 Mus. no. 21, p. 53 (1881); Salvin, Cat. StricH. Coll. p. 625 (1882); 
 Baird, Brewer, fy Ridgxo. Water-B. N. Amer. ii. p. 309 (1884); 
 Cory, B. S. Domingo, p. 179 (1884); id. List B. W. Ind. p. 33 
@@ -15352,7 +15352,7 @@ Alaska); B. 0. U. List Brit. B. p. 192 (1883); Saunders, Ibis,
 1883, p. 348 (• Vega' specimen); Coues, Key N. Amer. B. 2nd ed. 
 
 p. 753 (1884); Saunders, 4th ed. YarreWs Brit B. iii. p. 572 (1884); 
-Baird, Brewer, 8f Ridgioay, Water-B. N. Amer. ii. p. 266 (1884); 
+Baird, Brewer, 8f Ridgw.y, Water-B. N. Amer. ii. p. 266 (1884); 
 Murdoch, Exped. Pt. Barrow, p. 123, pis. i.-ii. (1885) ; A. O. U. 
 Check-l. N. Amer. B. p. 91 (1886); Ridgw. Man. N. Amer. B. 
 p. 37 (1887); Nelson, Pep. Nat. Mist. Coll. Alaska, p. 55, pi. iii. 
@@ -16657,7 +16657,7 @@ Cat. Strickl. Coll p. 621 (1882); C. Smith, Zool. 1883, p. 120
 Fisheries Fxhib. p. 32 (1883),- Stearns, Pr. U.S. Nat. Mus. vi. 
 
 p. 122 (1884: Labrador on passage); Saunders, P. Z. S. 1884, 
-p. 150 (Loch Lomond, adult) ; Baird, Breioer, 8f Ridgto. Water-B. 
+p. 150 (Loch Lomond, adult) ; Baird, Breioer, 8f Ridgw. Water-B. 
 N. Amer. ii. p. 260 (1884); Saunders, 4th ed. Yarr. Brit. B. iii. 
 p. 584 (1884); S. G. Reid, Bull. U.S. Nat. Mus. no. 25, p. 267 
 (1884: Bermuda) ; Seebohm, Brit. B. iii. p. 307 (1885); Goss, B. 
@@ -17213,12 +17213,12 @@ Jamaica, p. 117 (1881); Maynard, B. Bast. N. Amer. p. &85
 (1881); Mdgw. Bull. U.S. Nat Mus. no. 21, p. 52(1881); Solvit*, 
 Cat. Strickl. Coll. p. 620 (1882); Ridgw. Cat. Fisheries Evhib. 
 p. 31 (1883); Cory, B. S. Domingo, p. 177 (1884); Baird, Brewer, $ 
-Ridgio. Water-B. N. Amer. ii. p. 254 (1884); Saunders, P. Z. S. 
+Ridgw. Water-B. N. Amer. ii. p. 254 (1884); Saunders, P. Z. S. 
 1884, p. 150,- id. Uh ed. Yarr. Brit B. iii. p. 006, footnote (1884: 
 the specimen in Brit. Mus. is not Montagu's); A, O. U. Check-list 
 N. Amer. B. p. 90 (1886); Ferrari-Perez, Pr. U.S. Nat Mus. 
 ix. p. 179 (1886: Vera Cruz); Wells, t. c. p. 631 (Grenada I ) ; 
-Taczan. Orn. Perou, iii. p. 450 (1886 : Sta. Lucia); Ridgio. 
+Taczan. Orn. Perou, iii. p. 450 (1886 : Sta. Lucia); Ridgw. 
 Man. N. Amer. B. p. 35 (1887); Cooke, B. Migr. Mississippi 
 Vail. p. 56 (1888); Cory, Avk, 1888, p. 75 (West Indies); 
 Scott, t. c. p. 374 (Florida); Salvin, Ibis, 1889, p. 379 (Cozumel); 
@@ -17883,7 +17883,7 @@ Gray, Iland-l. B. iii. p. 114, no. 10986 (1871); Sol. $ Salv. P. Z. S.
 1877, p. 799 (Magellan Str.); id. op. cit. 1878, p. 203 (revision 
 Larinaj); id. Voy. 'Challenger,1 ii. Birds, p. 138 (1880); Sharpe, 
 
-P. Z. S. 1881, p. 1G (Cape Gregory) • Ridgio. Pr. U.S. Nat. Mus. 
+P. Z. S. 1881, p. 1G (Cape Gregory) • Ridgw. Pr. U.S. Nat. Mus. 
 xii. p. 139 (1890: Port Otway) ; Oustale't, Miss. So. Cap Horn, 
 vi. (1891) p. 181. 
 Larus ridibimdus, P. P. Xing, Zool Journ. iv. p. 104 (1828-29); id. 
@@ -20626,7 +20626,7 @@ Clarke, Handb. Yorks. Vertebr. p. 83 (1881) ; Giglioli, Ibis,
 1881, p. 221 (Italy, rare); Coues, Check-l N. Amer, B. p. 120 
 (1882); Seebohm (Eenke), Ibis, 1882, p. 386 (Kanin Peninsula, 
 breeds); Brewster, Rr. Bost Soc. N. H. xxii. p. 395 (1883: St. 
-Lawr. Gulf); Ridgio. Cat. B. Fish. Exhib. p. 30, no. 663 (1883: 
+Lawr. Gulf); Ridgw. Cat. B. Fish. Exhib. p. 30, no. 663 (1883: 
 Labrador); Irby, Ibis, 1883, p. 189 (Santander, imm.); Rochebr. 
 Faun. Sintg., Ois. p. 333 (1884: Cape Blanco &c.) ; Saunders, Ibis, 
 1884, p. 39 (S.W. France); Coues, Key N. Amer. B. 2nd ed. 
@@ -23360,7 +23360,7 @@ Merid. p. 331 (1880)"; Ridyw. Bull. U.S. Nat. Mus. no. 21, p. 52
 Chech-l. N. Amer. B. 1882. p. 21; Ridyw. Cat. B. Fish. Exhib. 
 p. 31 (1883); Coues, Key N. Amer. B. 2nd ed. p. 745 (1884); 
 S. G. Reid, Bull. U.S.Nat. Mus. no.25, p. 2GG (1884 : Bermuda) ; 
-Baird, Brewer, fy Ridgio. Water-B. N. Amer. ii. p. 244 (1884); 
+Baird, Brewer, fy Ridgw. Water-B. N. Amer. ii. p. 244 (1884); 
 Drew, Auk, 1885, p. 18 (Colorado) ; Hensh. t. c. p. 232 (Cala.); 
 A. 0. U Check-l. N. Amer. B. p. 90 (1888); Feilden, Tr. Nona. 
 Soc. iv. p. 351 (1887: Hudson Bay); Ridyw. Man. N. Amer. B. 
@@ -24135,7 +24135,7 @@ N. Amer. ii. pi. 53 (lb69); Ball <$r Bonn. Tr. Chic. Acad. i.
 p. 305 (1869); Saunders, P. Z. S. 1878, p. 178 (revision Laringe) ; 
 Ridgw, Bull U.S. Nat. Mus, no. 21, p. 52 (1881) ; Coues, Check-L 
 N. Amer. B. p. 121 (1882) ; id. Key N Amer. B. 2nd ed. p. 746 
-(1884) *; Baird, Breiver, fy JRidgio. Water-B. N. Amer. ii. p. 247 
+(1884) *; Baird, Breiver, fy JRidgw. Water-B. N. Amer. ii. p. 247 
 (1884) i Turner, Contrib. N. II. Alaska, p. 126 (1886); A. 0. U. 
 Chech-l. B. N. Amer. p. 90 (1886); Ridgxo. Man, N. Amer. B. 
 p. 34 (1887); Nelson, Hep. N. B. Alaska, p. 54 (1887). 
@@ -24988,12 +24988,12 @@ Cumberland Sd. & Greenland); Saunders, P. Z. S. 1878, p. 166
 rare); Coues, Check-list N. Amer. B. p. 120 (1882); Brewster, 
 Bull. Nutt. Orn. Club, viii. p. 125 (1883: Maine); Saunders, 
 Ath ed. Yarr. Brit B. iii. p. 642 (1884); Coues, Key N. Amer. B. 
-2nd ed. p. 741 (1884); Baird, Brewer, $ Ridgio. Water-B. N. 
+2nd ed. p. 741 (1884); Baird, Brewer, $ Ridgw. Water-B. N. 
 Amer. ii. p. 216 (1684); Fischer $ Pelz. MT. orn. Ter. Wien, 
 1886, p. 210 (Jan Mayen I., breeds); Seebohm, Brit. B. iii. p. 333 
 (1885); Homeyer, Omis, p. 80 (1885) ; Lutken, t. c. p. 145 (Denmark) 
 ; Grondal, op. cit. 1886, p. 370 (Iceland); A.O.U. Checklist 
-N. Amer. B. p. 87 (1886); Ridgiv, Man. N. Amer. B. p. 26 
+N. Amer. B. p. 87 (1886); Ridgw. Man. N. Amer. B. p. 26 
 (1887); Palmen, Tega-Exped. Tetensk. p. 369 note (1887: not 
 in Siberia or Bering S.); Feilden, Tr. Norm. Soc. iv. p. 351 (1887 : 
 Digges I., breeding); R-Brown fy Buckl. Faun. Sutherl p. 234 
@@ -26551,7 +26551,7 @@ Bull. Mas. Belg. iv. p. 22 (1885).
 Stercorarius (Buphagns) skua, Corns, Key N. Amer. B. p. 309 (1872). 
 
 Megalestris skua, Ridgic. Bull U.S. Nat. Mus. no. 21, p. 53 (1881); 
-Baird, Brewer, $ Ridgio. Waier-B. N Amer. ii. p. 328 (1884); 
+Baird, Brewer, $ Ridgw. Waier-B. N Amer. ii. p. 328 (1884); 
 Goss7 Auk, 1834, p. 395 (Mass.); Turner, Pr. U.S. Nat. Mus. 
 Till. p. 252 (1885: Labrador); A. 0. U. Chech-l N. Amer. B. 
 
@@ -27932,7 +27932,7 @@ Orn. Eur. ii. p. 399 (1867); GUM, Urn, 1870, p.407(Nnvava
 Zemlya); Gould. B. Gt. Brit. v. pi. 81 (1873); Eaton, '//»,L 
 
 s. s. p. 3813 (1874: Spitsbergen) ,* A. EL. Cocks, Zoo!. im4$ p. 232 
-(Spitsbergen); Baird, Brewer, <§• Ridgio. Water-IL N. Amen 
+(Spitsbergen); Baird, Brewer, <§• Ridgw. Water-IL N. Amen 
 ii. p. 339 (1884); Turner, Auk, 1885, p. 158 (Nearer islands 
 Alaska); Stejn. Bull. U.S. Nat. Mus. no. 29? p. ^7 (1885: <V>romander 
 Is.); id. Pr. U.S. Nat. Mus. 1887, p. 125 (mam ltK\); 
@@ -28623,7 +28623,7 @@ tfafcitf. Familial, Ucc. p. 300 (1871); tfray, JSzweW. m. p. 108
 p. 196 (1882); Salv. Cat. Stricld. Coll. p. 628 (1882); Steams, 
 New Engl Bird-Life, ii. p. 381 (1883); Sound, ed. Tarr. Brit. 
 Birds, iv. p. 42 (18841; id. Ibis, 1884, p. 392; id. Man. Brit. 
-Birds, p. 727 (1889); Baird, Brew. fyRidgio. Water-Birds N. Am. 
+Birds, p. 727 (1889); Baird, Brew. fyRidgw. Water-Birds N. Am. 
 ii. p. 403 (1884); Seek Hist Brit. Birds, iii. p. 438, pi. 56 (1885); 
 Turner, Pr. U. S. Nat. Mus. viii. p. 253 (1885) ; A. 0. U. Check-l 
 N. Am. Birds, p. 104 (1886): Booth, Rough Notes, iii. pi. 49 
@@ -29017,9 +29017,9 @@ d'. Ad. fet. South Africa. Sir A. Smith [P.].
 Procellaria sp., Melliss, Ibis, 1870, p. 105. 
 Cymochorea cryptoleucura, Ridgw. Pr. U.S. Nat. Mus. rv. p. 337 
 (1882). 
-Oceanodroma cryptoleucura, Baird, Brew. Sf Ridgto. Water-Birds 
+Oceanodroma cryptoleucura, Baird, Brew. Sf Ridgw. Water-Birds 
 
-N. Am. ii. p. 406 (1884); Ridgiv. Man. N. Am. Birds, p. 71 
+N. Am. ii. p. 406 (1884); Ridgw. Man. N. Am. Birds, p. 71 
 (1887); Stejn. Pr. U.S. Nat.Mus. x. p. 78 (1887); Wilson, Axes 
 Hawaiiemes, part i\T. (1893). 
 Adult. Similar to O. leucorrlioa, but with the longer upper tail-
@@ -29631,7 +29631,7 @@ Water-Birds N. Am. ii. p. 416 (1884); Brewst Pr. Bost Soc.
 N. H. xxii. p. 364; Turner, Pr. U.S. Nat Mus. viii. p. 253 
 (1885); Wells, Pr. U.S. Nat Mus. ix. p. 632 (1886); Tacz. Orn. 
 PSr. iii. p. 463 (1886); A. O. U. Check-l. N. Am. Birds, p. 105 
-(1886); Ridgio. Man. N. Am. Birds, p. 71 (1887); Tait, Ibis, 
+(1886); Ridgw. Man. N. Am. Birds, p. 71 (1887); Tait, Ibis, 
 1887, p. 397; Fuller, Birds N. Zeal. ed. 2, ii. p. 250 (1888); id. 
 Tr. N. Zeal. Inst xxv. p. 81 (1893); Cory, Auk, v. p. 80 (1888) ; 
 Butcher, Auk, vi. pp. 128,132,197 (1889); Palmer, Pr. U.S. Nat 
@@ -29807,7 +29807,7 @@ i'. Skeleton.
 2. Oceauites gracilis. 
 
 Thalassidroma gracilis, Elliot, Ibis, 1859, p. 391. 
-Oceanites gracilis, Coues, Pr. Ac. Phil. 1864, p. 85; Ridgio. Man. N. 
+Oceanites gracilis, Coues, Pr. Ac. Phil. 1864, p. 85; Ridgw. Man. N. 
 Am. Birds, p. 71 (1887). 
 ? Procellaria oceanica, SchL Mus. P.-B., vi. Procell. p. 6 (1863); ScL 
 
@@ -30376,7 +30376,7 @@ Puffinus, Brisson, Orn. vi. p. 131 (1760); Coues,
 Pr. Ac. Phil 1864, p. 127; id, op. cit. 1866, 
 
 
-p. 192; Ridgio. Man. N. Am. Birds, p. 58 (1887). P. puffinus. 
+p. 192; Ridgw. Man. N. Am. Birds, p. 58 (1887). P. puffinus. 
 Nectris, Kuhl, Beitr. p. 144 (1820); Coues. Pr. Ac. 
 Phil 1864, p. 123. I 
 Thyellas, Gloger, in Fronts Notizen, xvi, p. 279 
@@ -30889,7 +30889,7 @@ Taylor, Ibis, 1878, p. 374; Sharpe, Phil Trans, clxviii. p. 122
 (1879); Baird, Brew, fy Bidgw. Water-Birds N. Am. ii. p. 377 
 (1884); Saunders, Ibis, 1884, p. 392; Turner, Pr. U.S. Nat. Mus. 
 viii. p. 253 (1885) ; Whitehead, Ibis, 1885, p. 47; Tait, Ibis, 1887, 
-p. 398; Ridgto. Man. N. Am. Birds, p. 59 (1887); Beid, Ibis, 
+p. 398; Ridgw. Man. N. Am. Birds, p. 59 (1887); Beid, Ibis, 
 1888, p. 80; LiJford, Ibis, 1889, p. 349 ; Grant, Ibis, 1890, p. 444; 
 Koenig, J.f.O.n. 1890, p. 461; Meade- Waldo, Ibis, 1893, p. 267 ; 
 SeL Ibis, 1894, p. 107. 
@@ -31442,7 +31442,7 @@ Puffinus opisthonielas, Finsch # Hartl. P. Z. S. 1868, pp. 9, 118;
 iid. Cat. Mus. Godeffr. iv. p. 7 (1869). 
 
 Puffinus 
-auduboni, Finsch, P. Z. S.1872, p. Ill; Ridgio. Pr. U.S. 
+auduboni, Finsch, P. Z. S.1872, p. Ill; Ridgw. Pr. U.S. 
 Nat. Mus. iii. p. 12 (1880); id. Man. N. Am. Birds, p. 60 (1887) ; 
 Gundl. J.f.O.n. 1881, p. 400; Baird, Brew, fy Ridgw. Water-
 Birds N. Am. ii. p. 386 (1884); A. O. U. Check-l. N. Am. Birds, 
@@ -31588,7 +31588,7 @@ Puirinus elegans, GigL § Scdvad. Ibis, 1869, p. 67; iid. Atti Soc. Ital.
 Sc. Nat xi. p. 457; GigL Faun. Vert. Oceano, p. 32 (1870); id. 
 Viagy. 'Magenta,' pp. 98,106 (1875); Salv. in Boioley's Orn. Misc. 
 
-i. p. 256, pi. 34 (1876); Ridgio. Man. N. Am. Birds, p. 61 (1887). 
+i. p. 256, pi. 34 (1876); Ridgw. Man. N. Am. Birds, p. 61 (1887). 
 " P. supra ex toto cinereo-plumbeis, plumis totis angustissime 
 limbatis ; tectricibus alarum mediis, majoribus ac remigibus secundariis 
 albo limbatis, fascias tres trans alam formantibus; subtus, 
@@ -31702,7 +31702,7 @@ Puffinus
 gribeus, Finsch, Jf. Dm. 1874, p. 209; Salv. in Rowley's 
 Orn. Misc. i. p. 236 (187(5); id. P. Z. S. 1883, p. 431; id. Ibis, 
 1888, p. 355; Dresser, Birds Fur. viii. p. 523, pi. 616 (1877) ; 
-Ridgio. Pr. U.S. Nat. Mus. iii. pp. 12, 230, v. p. 534; id. Man. 
+Ridgw. Pr. U.S. Nat. Mus. iii. pp. 12, 230, v. p. 534; id. Man. 
 
 N. Am. Birds, p. 61 (1887); Bryant, Pr. Cal. Ac. Sc. (2) ii. p. 87; 
 Bocage, Orn. Angola, p. 516 (1881); B. 0. U. List Brit. Birds, 
@@ -31722,7 +31722,7 @@ Sussex, p. 282 (1891); H. 0. Forbes, Ibis, 1893, p. 542; Aplin,
 Ibis, 1894,p. 212 ; Loomis, Pr. Cal. Ac. Sc. ser. 2, v. p.217 (1895). 
 Puffinus stricMandi, Ridgw. in Baird, Br etc. fy Ridgw. Water-Birds 
 
-N. Am. ii. p. 390 (1884) ; Cooper, Auk, iii. pp. 125, 402; Ridgio. 
+N. Am. ii. p. 390 (1884) ; Cooper, Auk, iii. pp. 125, 402; Ridgw. 
 Auk, iii. p. 267 (1886); id. Man. N. Am. Birds, p. 61 (1887); 
 Turner, Pr. U.S. Nat. Mus. viii. p. 253 (1885) ; A. 0. U Check4. 
 N. Am. Birds, p. 101 (1886); W. Palmer, Pr. U.S. Nat. Mus. 
@@ -31974,7 +31974,7 @@ Priofinus cinereus, Jacq. fy Puck Voy. Pole Sud, Zool. iii. p. 145
 
 ii. pi. 60. ^g. 2 (1868); Gigl. Faun. Vert. Oceano, p. 34 (1870) ; 
 2 . PE10FINUS. mi 
-id. Viagg. 'Magenta* (see index) (1875); Baird, Brew., Sf Ridgio. 
+id. Viagg. 'Magenta* (see index) (1875); Baird, Brew., Sf Ridgw. 
 
 Water-Birds N. Am. ii. p. 375 (1884). 
 Adamastor typus, Bp. Cons2>. Av. ii. p. 187 (1855J. 
@@ -31996,7 +31996,7 @@ Priofinus nielanurus, Coues, Key N. Am. Birds, p. 330 (1872), ed. 2,
 
 p. 783 (1884); id. Check-l. M. Am. Birds, p. 127 (1882); Ridgw. 
 Pr. U.S. Nat. Mus. ii. p. 209 (1880), iii. pp. 12, 230 (1880). 
-Puffinus geiidus, Ridgio. Man. N. Am. Birds, p. 58 (1887). 
+Puffinus geiidus, Ridgw. Man. N. Am. Birds, p. 58 (1887). 
 
 Adult male. Upper surface cinereous, rather darker on the crown, 
 wings, tail, and rump; the feathers of the back with dark shafts ; 
@@ -34269,7 +34269,7 @@ p. 373 (1877); Moseley, Notes Nat. lChall! pp. 107,134, 137, 180,
 id. P. Z. S. 1881, p. 11; id. ed. Bayard's Birds S. Afr. p. 765 
 (1881); Saunders, P. Z. S. 1880, p. 165; Kirk, Trans. N. Zeal 
 Imt. xvii. p. 60 (1884); Bocage, Orn. Angola, p. 517 (1884); 
-Ridgio. Man. N. Am. Birds, p. 57 (1887); id. Pr. U.S. Nat 
+Ridgw. Man. N. Am. Birds, p. 57 (1887); id. Pr. U.S. Nat 
 Mus. iii. p. 230 (1881); Baird, Brew., # Ridgw. Water-Birds 
 N. Am. ii. p, 363 (1884); Lucas, Auk, iv. p. 3 (1887) ; H. O. 
 Forbes, Ibis, 1893, p. 542. 
@@ -35716,7 +35716,7 @@ Am. Birds, p. 97 (1886); Stejn. Bull. U.S. Nat Mus. no. 29,
 pp. 89, 316 (1885); id. Pr. U.S. Nat. Mus. x. p. 125 (1887); 
 JEverm. Auk, iii. p. 89 (1886) ; Blakiston, Pr. U.S. Nat Mus. ix. 
 
-p. 655 (1887); Ridgio. Man. N. Am. Birds, p. 51 (1887); id. Pr. 
+p. 655 (1887); Ridgw. Man. N. Am. Birds, p. 51 (1887); id. Pr. 
 U.S. Nat Mus. xvi. p. 663 (1893); Towns. Pr. U.S. Nat. Mus. 
 xiii. p. 142 (1890); Seeb. Ibis, 1890, p. 205; id. Birds Jap. JEhnp. 
 p. 261 (1890); Tacz. Mhn. Ac. Imp. St Petersb. xxxix. p. 1068 
@@ -36075,7 +36075,7 @@ Br. Ac. Phil. 1866, pp. 183, 188; Cab. $ Reichenow, J. f. Orn.
 1876, p. 328; le Souef, Ibis, 1895, p. 413. 
 Thalassarche cauta, Gigl. Faun. Vert. Oceano, p. 58 (1870) ; id. Viagg. 
 'Magenta; pp. 736, 800, 841 (1875). 
-Thalassogeron cautus, Ridgiv. Man. N. Am. Birds, p. 53 (1887). 
+Thalassogeron cautus, Ridgw. Man. N. Am. Birds, p. 53 (1887). 
 
 Adult male. Head, neck, lower back, upper tail-coverts, whole 
 

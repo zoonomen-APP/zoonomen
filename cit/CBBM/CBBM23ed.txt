@@ -444,7 +444,7 @@ Page
 7. albigularis (Laivr.) .. 140 3. parva (Bodd.) .. 191,339 
 7<z."cmereiceps (Lawr.) 141,337 50. Porphyrio, Bms 192 
 
-a. leucogaster (Ridgio.) 140 a. palliatus, Bragg. .. 192 
+a. leucogaster (Ridgw.) 140 a. palliatus, Bragg. .. 192 
 j3. alfara (Bidgiv.) 141 j8. cajrulescens (JSelys) . 193 
 
 8. leucopyrrhus (Vieill) . 142 1. ctexuleug (Vandelli) .. 194 
@@ -1440,10 +1440,10 @@ Subsp. (3. Rallus tenuirostris.
 
 Rallus longirostiis (nee Bodd.), Sol. P. Z. S. 1864, p. 179 (City of 
 Mexico). 
-Rallus elegans, var. tenuirostris, Laiur. MSS.; Ridgio. Amer. Nat. 
+Rallus elegans, var. tenuirostris, Laiur. MSS.; Ridgw. Amer. Nat. 
 nil p. 14 (1874) • id. Bull. Nutt. Orn. Club, v. p. 139 (ISfeO), note. 
 
-Rallus elegans tenuirostris, Ridgio. Bull. Nutt. Orn. Club, v. p. 139 
+Rallus elegans tenuirostris, Ridgw. Bull. Nutt. Orn. Club, v. p. 139 
 (1880); Baird, Breioer, <§• Ridgw. Water-B. N. Amer. i. p. 354 
 (1884); Ferrari-Perez, Proc. U.S. Nat. Mus. ix. p. 177 (1886: 
 Tlaxcala). 
@@ -1609,7 +1609,7 @@ shcav).
 
 g. 
 Pull. sk. Bone Island, Virginia, July {R. Salvin-Godman Coll. 
-Ridgivay: JSiensh. Coll.). 
+Ridgway: JSiensh. Coll.). 
 h. Ad. sk. Georgia (SHI. no. 23716). Salvin-Godman Coll. 
 i. 
 Ad. sk. Corpus Christi, Texas, Dec. 5 Salvin-Goclman Coll. 
@@ -1635,9 +1635,9 @@ Antigua).
 Rallus elegans 
 (nee Aud.), March, Proc. Philad. Acad. 1864, p. 69 
 (Jamaica). 
-Eallus longirostris, var. caribous, Ridgio. Bull Nutt. 0m. Club, v. 
+Eallus longirostris, var. caribous, Ridgw. Bull Nutt. 0m. Club, v. 
 
-p. 140 (1880); Baird, Brewer, $ Ridgio. Water-B. N. Amer. i. 
+p. 140 (1880); Baird, Brewer, $ Ridgw. Water-B. N. Amer. i. 
 p. 359 (1884). 
 Rallus longirostris caribseus, Cory, List B. West Ind. i. p. 29 (1885); 
 id. Auk, Y. p. 53 (1888); Sennett, t. c. p. 19 ; Chapm. t. c. p. 394; 
@@ -1872,7 +1872,7 @@ U.S. Nat Mus. viii. p. 248 (1885: Labrador); A. 0. U. Check-!.
 N. Amer. B. p. 141 (1880); Goss, Auk, iii. p. 115 (1886 : Kansas) ; 
 Anthony, t. c. p. 164 (Oregon); Scott, t. c. p. 385 (Arizona); 6V//W, 
 F. <$• S. xxiv. p. 105 (1886); Beckh. Auk, iv. p. 124 (1887: Colorado); 
-Ridgio. Man. K Amer. B. p. 138 (1887); Towns. Proc. 
+Ridgw. Man. K Amer. B. p. 138 (1887); Towns. Proc. 
 U.S. Nat. Mus. x. pp. 197, 234 (1887: N. California); BecU.tr. 
 p. 637 (Bexar Co., Texas) ; Scott, Auk, vi. p. 155 (1889: Florida); 
 Cory,B. 7F. JM. p. 254 (1889: Cuba); Thomps. Proc. U.S.Nat. 
@@ -4957,7 +4957,7 @@ Aramides cayennensis (nee Gm.), Sel F. Z. S. 1857, p. 206 (S. Andres
 Tuxtla); "Moore, F. Z. S. 1859, p. 64 (Omoa); Sel t c. p 393 
 (Oaxaca) j id. $r Salv. Ibis, 1859, p. 230; iid. F. Z. S. 18(57, 
 
-p. 280 (?); Ridgio. Froc. U.S. Nat. Mus. x. p. 594 (1887 : Segovia 
+p. 280 (?); Ridgw. Froc. U.S. Nat. Mus. x. p. 594 (1887 : Segovia 
 Elver, Honduras). 
 * Identified by Vieillot as his Ballas maximub. 
 60 
@@ -7728,7 +7728,7 @@ Nat. Mus. v. p. 547 (1882), vi. p. 351 (1883: La Paz); B. O. U.
 List Br. B. p. 147 (1883); Stearns, New Engl. Bird-Life, ii. 
 p. 286 (1883); Keels, Canad. Sportsm. iii. p. 283 (1883; nesting) 
 ; Berl. $ Tacz. P. Z. S. 1884, p. 313 (W. Ecuador) ; Baird, 
-Brewer, fy Ridgio. Water*-B. N. Amer. i. p. 370 (1884); Coues, 
+Brewer, fy Ridgw. Water*-B. N. Amer. i. p. 370 (1884); Coues, 
 Key N. Amer. B. 2nd ed. p. 673 (1884) ; Talbot, Auk, i. p. 99 
 (1884: Dakota); Turner, Proc. U.S. Nat. Mus. viii. p. 248 
 (1885 : Labrador); Drew, Auk, ii. p. 18 (1885 : Colorado) ; Merriam, 

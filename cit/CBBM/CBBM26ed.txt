@@ -497,7 +497,7 @@ Lain (Linn.) 90,270 1. cocblearia, Lmn 163
 
 6. Melanopboyx, Sharpe 104 2. goisagi (Temm.).. 169, 277 
 
-1. ardesiaca (Wagl) 104, 271 19. Syrigma, Ridgio 170 
+1. ardesiaca (Wagl) 104, 271 19. Syrigma, Ridgw.170 
 
 2. vlnaceigula, Sharpe 1. sibilatrix (Temm.)* 
 105, 271 170, 277 
@@ -514,7 +514,7 @@ Lain (Linn.) 90,270 1. cocblearia, Lmn 163
 2. padfica (Lath.) .. Ill, 271 Mr.) . „ 278 
 
 3. ffavirostris, Sharpe* 3. striata (Linn.) .. 175, 279 
-112,271 4. robinsoni, Ridgto 279 
+112,271 4. robinsoni, Ridgw.279 
 
 4. aruensis (Gray).. 113, 272 5. jjyanica (Horsf.). 177,279 
 
@@ -3447,7 +3447,7 @@ Check-l. N. Amer. B. p. 132 (1886); Everm. Auk, iii. p. 91 (1886 :
 Ventura Co.) ; Scott, t. c. p. 385 (Arizona); Brewster, t. c. p. 481 
 (1886: breeding on St. John's River, Florida); Stejn. Pr. U.S. 
 Nat Mus. x. p. 84 (Kauai); Totons. t. c. pp. 196, 234 (N. California, 
-1000 ft.); Beckh. t c. pp. 641, 648 ; Ridgiu. Man. N. Amer. B. p. 124 
+1000 ft.); Beckh. t c. pp. 641, 648 ; Ridgw. Man. N. Amer. B. p. 124 
 (1887: Texas and Lower California to Oregon); Withington, Ibis, 
 1888, p. 471 (Lomas de Zamora); Cory, B. W. Bid. p. 243, note 
 (1889); Scl. 8f Hudson, Argent. Orn. ii. p. 109 (1889); Holland, 
@@ -3779,7 +3779,7 @@ Amer. B. p. 105 (1883) ; Nuttinq, Pr. U.S. Nat. Mus. v. p. 407
 
 • 
 Pr. U.S. Nat. Mus. vi. p. 379 (1883 : Nicaragua); Baird, Brewer, $ 
-Ridgivay, Water-B. N. Amer. i. p. 89 (1884); Cory, B. San Domingo, 
+Ridgway, Water-B. N. Amer. i. p. 89 (1884); Cory, B. San Domingo, 
 p. 150 (1884); Cones, Keg N. Amer. B. 2nd ed. p. 051 (1884); 
 liidgw. Auk, i. pp. 239-240 (1884) ; Salem. Bis, 1835, p. 370 
 (Cozumel) ; Taezan. Orn. Perou, iii. p. 415 (18S6: TumbezJ ; 
@@ -10262,8 +10262,8 @@ p. 236 (Antigui), p. 274 (Grenada), p. 487; Beldmg, t. c. p. 422
 Check-l. N Amer. B. p. 106 (1882); Nutting, Proc. U.S. Nat 
 Mus. vi. pp. 379, 396 (1883: Nicaragua); Beldmg, t. c. p. 548 
 (S. Jose", Cal.); Cones, Check-l N. Amer. B. 2nd ed. p. 660 (1884); 
-Baird, Breioer, 8f Ridgio. Water-B. N. Amer. i. p. 128 (1884); 
-Ridgio. Proc. U.S. Nat. Mus. uii. p. 581 (1885: Cozumel). 
+Baird, Breioer, 8f Ridgw. Water-B. N. Amer. i. p. 128 (1884); 
+Ridgw. Proc. U.S. Nat. Mus. uii. p. 581 (1885: Cozumel). 
 ? Garzetta thulse, Bp. Consp, ii. p. 120 (1855). 
 Herodias candidissima, Salle, P. Z. S. 1857, p. 236; Brewer, Proc. 
 Bost Soc. vii. p. 308 (1860: Cuba). 
@@ -15461,7 +15461,7 @@ p. 241 (Barbados, breeding), p. 275 (Grenada), p. 359 (Martinique)
 ; Belding, t. c. p. 442 (Stockton & Murphys, San Joaquim, 
 Cal., breeding); Later, t. c. p. 460 (Guadeloupe) j Scl. fySalv. P. Z. S. 
 1879, p. 542 (Medellin); Sol P. Z. S. 1879, p. 765 (Montserrat); 
-Ridgio. Pr. U.S. Nat. Mus. iii. p. 197 (1880); A.$JE. Newton, Handb. 
+Ridgw. Pr. U.S. Nat. Mus. iii. p. 197 (1880); A.$JE. Newton, Handb. 
 Jamaica, p. Il l (1881); Coues, Check-list N. Amer. B. p. 107 
 (1882;; Nutting, Pr. U.S. Nat. Mus. v. p. 406 (1882 : Costa Rica); 
 Pidgw. t. c. p. 502 j Betting, t c. p. 544 (Lower Calif.); Salv. 
@@ -19398,7 +19398,7 @@ Ardetta involucris, Scl. <§* Salv. P. Z. S. 1869, p. 634 ; iid. Nomencl.
 Av. Neotr. p. 125 (1873) ; Hudson, P. Z. S. 1875, p. 624; Durnf. 
 Ibis, 1876, p. 162 (Buenos Ayres, Oct.), 1877, p. 189, 1878, p. 62 
 (nesting) ; Gibso?i, Ibis, 1880, p. 159 (Cape S. Antonio, nesting); 
-Baird, Brewer, fyRidgio. Wafer-B. N. Amer. i. p. 72, note (1884) ; 
+Baird, Brewer, fyRidgw. Wafer-B. N. Amer. i. p. 72, note (1884) ; 
 Barrows, Auk, i. p. 271 (1884: Lower Uruguay); WitHngton, 
 Ibis, 1888, p. 470 (Lomas de Zarnora); Scl. fy Hudson, Argent, 
 Orn. ii. p. 101, pi. xvii. (1889); Holland, Ibis, 1892, p. 205 
@@ -19406,7 +19406,7 @@ Orn. ii. p. 101, pi. xvii. (1889); Holland, Ibis, 1892, p. 205
 
 Botaurus erythromelas, pt., Beichen. J.J. 0.1877, p. 244. 
 
-Botaurus involucris, Ridgiv. Man. N. Amer. B. p. 128 (1887), 
+Botaurus involucris, Ridgw. Man. N. Amer. B. p. 128 (1887), 
 
 Ardetta erythredema, Heine fy Reichen. Nomencl. Mus. Hein. p. 308 
 
@@ -21386,7 +21386,7 @@ op. cit. v. p. 533 (1882: Cape Ban Lucas); Stearns, op. cit. y\9
 p. 120 (1883: Labrador); Belding, t. c. p. 331 (Lower California); 
 B. 0. U. List Brit. B. p. Il l (1883); Saunders ed. Tamils BriL 
 BAY. p. 213 (1884); Seebohm, Mist. Brit B. ii. p. 5Gfi (18B4) j 
-Baird, Brewer, 8? Ridgiv. Water-Birds N. Amer. i. p. 67 {1884} ; 
+Baird, Brewer, 8? Ridgw. Water-Birds N. Amer. i. p. 67 {1884} ; 
 Turner, Pr. U.S. Nat. Mus. viii. p. 245 (1885: Rigolet; Moose 
 Factory: Anticosti); Brew, Auk, ii. p. 18 (1885: Colorado up to* 
 7000 feet, breeding"); Agersb. t. c. p. 287 (S.E. Dakota, breeding) j 
@@ -23915,7 +23915,7 @@ Oicouia dicrura, Reichen. J.f.O. 1877, p. 169.
 
 Euxenura maguari, Ridgta. Bull. U.S. Geol. Surv. iv. p. 249 (1878); 
 
-Baird, Brewer, ty Ridgiv. Water-Birds N. Amer. L p. 77 (1884) ; 
+Baird, Brewer, ty Ridgw. Water-Birds N. Amer. L p. 77 (1884) ; 
 Scl. # Suds. Argent. Orn. ii. p. 106 (1889); James, Neto List 
 CMian B. p%8 (1892); Graham Kerr, Ibis, 185)2, p. 145 (Pileomayo); 
 Holland, i. c. p. 205 (Argentine Republic, breeding in. 
@@ -25017,7 +25017,7 @@ Ciconias, p. 11 (1864); Salvin, Ibis, 1865, p. 197, 1866, p. 196
 (Guatemala); Gray, Mand-l B. iii. p. 35, no. 10190 (1871) ; Pek. 
 Orn. Bras. pp. 305, 456 (1871: Parana; Cuvaba; Borba); 
 ScL # Salv. Nomend. Av. Neotr. p. 126 (1873) : Beichm. J.f.O. 
-1877, pp. 166, 276; Baird, Brewer, $ Ridgio. Water-Birds 
+1877, pp. 166, 276; Baird, Brewer, $ Ridgw. Water-Birds 
 N. Amer. i. p. 79, cum fig. (1884) ; Cones, Key N. Amer. B. 2nd 
 ed. p. 653 (1884); Tttcz. Orn. Pirou, iii. p. 411 (1886) j Salvin, Ibis, 
 1886, p. 171 (British Guiana) • Berlepsch, J. f. O. 1887, p. 32 
@@ -25828,7 +25828,7 @@ Hand-l. B. iii. p. 38, no. 10209 (1871); Salvad. TJce. Born. p. 358
 (1874); Hume, Sir. F viii. p. 71 (1879: Malacca) : Nicholson, 
 Ibis, 1883, p. 257 (Sumatra). 
 Tantalus ibis, var., Raffles, torn. cit. p. 327 (Sumatra). 
-Pseudotantalus lacteus, Ridgiv, Proc. U.S. Nat. Mus. ^. p. 551 
+Pseudotantalus lacteus, Ridgw. Proc. U.S. Nat. Mus. ^. p. 551 
 (1883). 
 
 Adult. General colour above pure white, without any pinkish 
@@ -28393,7 +28393,7 @@ Base of mandibles dull ashy blue, with a narrow orange stripe
 around it, but the borders of the naked membrane ill-defined ( W. H. 
 Ball) : iris brown; gular pouch blue, bordered behind by purplish-
 red corrugations; lores, orbits, and naked frontal skin bright orange; 
-legs and feet black (Ridgivay). 
+legs and feet black (Ridgway). 
 
 Adidt male. Total length about 30 inches, culmen 2*3, wing 11, 
 tail 6-2, tarsus 2*15. 
@@ -29446,12 +29446,12 @@ N. Amer. ii. p. 150, fig. (1884); Coues, Key N. Am. B. 2nd ed.
 p. 727 (1884) ; Turner, Auk, ii. p. 158 (1885) [Nearer Is., Alaskaj; 
 JEverm. Auk, iii. p. 89 (1886) [Ventura Co., Cal.]; Nelson, Rep. 
 N. H. Alaska, no. iii. p. 65 (1887). 
-Phalacrocorax dilopbus albociliatus, Ridgio., Baird, Breio. fy Ridyw. 
+Phalacrocorax dilopbus albociliatus, Ridgw., Baird, Breio. fy Ridyw. 
 Water-B. N. Am. ii. p. 150 (1884); Coues, Key K Am. B. 2nd ed. 
 
 •D. 728 (1884) ; Ridgw. P. Biol. Soc. Wash. ii. p. 94 (1885) [California 
 to Cape St. Lucas]; Bryant, Pr. Cal. Ac. (2) ii. p. 253 
-(1890) [habits]; A. O. XI. Check4. 2nd ed. p. 43 (1895); Ridgio. 
+(1890) [habits]; A. O. XI. Check4. 2nd ed. p. 43 (1895); Ridgw. 
 Man. K. A. B. 2nd ed. p. 78 (1897). 
 Phalacrocorax 
 dilopbus cincinatus, JRidgw. Man. N. A. B. p. 78 
@@ -33608,7 +33608,7 @@ p. 216 [Italy]; Booth, Rough Xotes, iii. pt. v/p k 1-6 (18^3);
 Irby, Ibis, 1883, p. 190 [Santander] ; Chapman, Ibis, 1884, p. 98 
 [Trafalgar]; Coues, Key JST. Amer. B. p. 720 (1884); Barringion, 
 Zool. 1884, pp. 473-9 [Ireland, breeding]; TIssher, Zool 1«84, 
-pp. 479-482 [Ireland, breeding] ; Baircl, Breiu. $• Ridgiv. Water-
+pp. 479-482 [Ireland, breeding] ; Baircl, Breiu. $• Ridgw. Water-
 B. N. Amer. ii. p. 171 (1884) ^Seebohm, Hist Brit. B. iii. p. 043 
 (1885); Dixon, Ibis, 1885, p. 91; Reid, Ibis, 1885, p. 249 [Gibp. 
 76 (1887); Tait, Ibis, 1887, p. 314 [Portugal" ; Lucas, Auk, v. 
@@ -34403,7 +34403,7 @@ k. Imm. sk. Valpariaso. Capt. Brett [P.].
 I Skeleton. Chili. 
 7. Sula nebouxi 
 Sula nebouxii, Milne-Edwards, Ann. Sci. Nat. (6) xiii. art. 4, p. 37, 
-pi. 14 (1882) [Pacific coast of America]; Ridgio. Man. N. Am. B. 
+pi. 14 (1882) [Pacific coast of America]; Ridgw. Man. N. Am. B. 
 2nd ed. p. 584 (1896). 
 
 Sula 
@@ -36117,7 +36117,7 @@ p. 473 (1881); Coues, Key N. Amer. B. p. 732 (18*4); Baird,
 Brew. $ Bidyw. Water-B. K. Amer. ii. p. 186 (1884); Meid, 
 Bull. U.S. Nat. Mm. xxv. p. 2G3 (18^4) [Bermuda": Cory, B. 
 Haiti fy 8. Domingo, p. 175 (1885); id. Auk, v. p"'73 (18t6) 
-[Bahamas; Antilles] ; Ridgio. Man. JST. A. B. p. 74 (1889) ; Cory, 
+[Bahamas; Antilles] ; Ridgw. Man. JST. A. B. p. 74 (1889) ; Cory, 
 B. W. Ind. p. 274 (1889); Scott, Auk, viii. pp. 249-256 (1891) 
 [Jamaica] ; Cory, Cat. W. Ind.B. p. 84 (1892); A. O. U. Cheek-L 
 p. 39 (1895); Brentiss, Auk, xiii. p. 239 (1896) [Bermuda] 
@@ -39173,7 +39173,7 @@ B. N. Amer. ii. p. Ixiii (1869); G. R. Gray, Hand-l. B. iii. p. 92
 (1871); Finseh, Abh. Nat. Ver, Bremen, hi. p. 72 (1872); Stein-
 hoe, Ibis, 1877, p. 146 THakodadi] ; Blakist. § Pryer, Ibis, 1878, 
 p. 211 [Yezo]; Seebohm, Ibis, 1879, p. 161 [Yenesay Valley! ; 
-Ridgiv. Bull. U.S. Nat. Mus. xxi. p. 55 (1881); Tacz. Bull Soc. 
+Ridgw. Bull. U.S. Nat. Mus. xxi. p. 55 (1881); Tacz. Bull Soc. 
 Z. Fr. viii. p. 345 (1883) [Karnscbatka]; Nelson, Cruise { CorwinJ 
 p. 114 (1883) ; Seebohm, Ibis, 1884, p. 32 [Hakodadi]; Merriam, 
 Auk, ii. p. 63 (1885) [Point Barrow, Alaska^: migration]; Seebohm, 
@@ -39194,7 +39194,7 @@ Urinator adamsi, Stejn. P. U.S. Nat. Mm. v. p. 43 (1882); Baird,
 
 Breio. £ Bidgio. Water-B. N. Amer. ii. p. 450 (1884); Stejn. 
 Bull. U.S. Nat. Mus. xxix. p. 14 (1885) [Commander Is.], p. 313 
-rKamschatka]; A. O. U. Check-!, p. 75 (1886); Ridgio. Man. 
+rKamschatka]; A. O. U. Check-!, p. 75 (1886); Ridgw. Man. 
 
 X. Am. B. p. 7 (1887); Townsend, Auk, iv. p. 12 (1837) [N. 
 Alaska]; Nelson, Rep. N. H. Alaska, p. 36 (1887); MaeFarl 
@@ -42220,7 +42220,7 @@ x. p. 392 (1874) [Illinois]-Henshaw, Am. Xat. viii. p. 243 (1874;
 [S. Colorado] ; Snow, Am. Xat. viii. p. 757 (1874) [Kansas] ; id. 
 Cat. B. Kansas, ed. 3, p. 14 (1875); Scott, Bull. Xutt Orn. C. iv. 
 p. 96 (1879) [Colorado]. 
-Dytes nigricollis californicus, Ridgio. Bull. U.S. Xat. Mus. xxi. p. 55 
+Dytes nigricollis californicus, Ridgw. Bull. U.S. Xat. Mus. xxi. p. 55 
 (1881); Goss, Auk, i. p. 18 (1834) [habits] ; id. Ornith. # Oolog. 
 
 viii. p. 2 [breeding habits] j Agersb. Auk, ii. p. 289 (1885) [S.fe. 
@@ -42229,7 +42229,7 @@ Podicipes auritus californicus, Allen § Brewst. Bull. Xutt. Orn. C.
 
 viii. p. 198 (1883) [Colorado] ; Coues, Key X. Amer. B. 2nd ed. 
 p. 796(1884). 
-Coiymbus nigricollis californicus, Baird, Breiv. §* Ridgio. Water-B. 
+Coiymbus nigricollis californicus, Baird, Breiv. §* Ridgw. Water-B. 
 X. Amer. ii. p. 434 (1884); A. O. U. Check-L p. 74 (1886) ; Evermann, 
 Auk, iii. p. 88 (1886) [Ventura Co., Cat] ; Seto?i, Auk, iii. 
 p. 147 (1886) [W. Manitoba]: Ridgw. Man. X. Am. B. p. 6 
@@ -42833,7 +42833,7 @@ p*. 428 (1884); Stejn. Bull. U.S. Xat. Mus. xxix. p. 11 (1885)
 
 [E. Siberia: Bering-I?, p. 313 [Kainschatka]; A. 0. U. Chech-l. 
 p. 73 (1886); Seton, Au7c, iii. p. 147 (1886) [W. Manitoba]; 
-Ridgio. Man. X. Amer. B. p. 5 (1887); Roberts, Auk, vii. p. 213 
+Ridgw. Man. X. Amer. B. p. 5 (1887); Roberts, Auk, vii. p. 213 
 (1890) [Minnesota]; MacParl. P. U.S. Xat. Mus. xiv. p. 415 
 (1891) [Fort Anderson, Arctic America] ; Stejn. P. U.S. Xat. Mus. 
 xv. p. 289 (1892) [Yezo]: Cory, Cat. W. 'hid. B. p. 81 (1892); 
@@ -42841,7 +42841,7 @@ Hatch, B. Minnesota, p. "5 (1892); Mclhvraith, B. Ontario, 2nd
 ed. p. 25 (1894) ; Merrill, Aide, xiv. p. 349 (1897) [Idaho]. 
 Podiceps occidentalis, 
 Tristram {nee Laivr.), Ibis, 1887, pp. 98, 262; 
-Ridgio. Ibis, 1887, p. 361; Tristram, Ibis, 1889, p. 227. 
+Ridgw. Ibis, 1887, p. 361; Tristram, Ibis, 1889, p. 227. 
 
 Adult in breeding-plumage. Similar to P. griseigena, but larger; 
 the bill especially being much stronger. Total length about 19 
@@ -45056,7 +45056,7 @@ Alle nigricans, Link, Beschr. Nat Samml Univ. Rostock, i. p. 17
 (1806); Coues, Bull Mitt. Orn. C. iv. p. 244 (1879); Memam, 
 Bull Mm. Orn. C. vii. p. 241 (1882) [Canada]; Steams $ Coues, 
 
-N. Enql B.-life, ii. p. 395 (1883); Baird, Brew. $ Ridgio. Water-
+N. Enql B.-life, ii. p. 395 (1883); Baird, Brew. $ Ridgw. Water-
 B. N. 'Amer ii. p. 403 (1884); Coues, Key N. Amer. B. 2nd ed. 
 p. 810 (1884); Dtttcher, Auk, i. n. 35 (1884) [Long I., N.Y.]. 
 Uria alle, Pallas, Zooar. Rosso-As. ii. p. 369 (1811) ; Temm. Man. 
@@ -46108,7 +46108,7 @@ Cepphus grylle, Namn. Nat. Tog. Deutschl. xii. p. 461, pi. 330
 Fork. Fid. Selsk. Christ. 1868, p. 101; Baird, Brew. $ Ridgw. 
 Water-B. N. Amer. ii. p. 492 (1884) ; Stejn. P. U.S. Nat. Mus. vii. 
 
-p. 228 (1884); A. 0. U. Oliech-l. p. 81 (1880); Ridgio. Man. N. Am. 
+p. 228 (1884); A. 0. U. Oliech-l. p. 81 (1880); Ridgw. Man. N. Am. 
 B. p. 16 (1887); Chamberlain, Auk, vi. p. 213 (1889) [S. Greenland] 
 ; Bishop, Auk, yi. p. 145 (1889) [Magdalen Is." ; Warren, B. 
 Pennsylvania, p. 9 (1890); Stone, P. Ac. Philad'. 1892, p. 145 
@@ -46125,9 +46125,9 @@ Grylle coluniba, Fitz. Atl. Nat. Vog. fi>. 341 (1864); Fritsch, Nat
 Vog. Furopa's, p. 495 (1870), Atl. pi. 59.figs. 2, 3 (1871). 
 Alca grylle, Schl Mas. Pays-Bas, yi. Urinat. p. 17 (1867) [nee Kamschatka]; 
 Seebohm, Hist. Brit. B. iii. p. 383 (1885). 
-Cepphus motzfeldi, Baird, Br etc. $* Ridgio. Water-B. N Am. ii. 
+Cepphus motzfeldi, Baird, Br etc. $* Ridgw. Water-B. N Am. ii. 
 
-p. 497 (1884); Stejn. P. U.S. Nat. Mus. vii. p. 229 (1884): Ridgio. 
+p. 497 (1884); Stejn. P. U.S. Nat. Mus. vii. p. 229 (1884): Ridgw. 
 Man. N. Am. B. p. 17 (1887). 
 Alca mansfeldi, Seebohm, B. Japan, p. 276 (1890). 
 
@@ -46524,7 +46524,7 @@ Black Guillemot, var. A, Lath. Gen. Syn. iii. pt. ii. p. 333 (1765).
 Black Guillemot, var. D, Lath. Gen. Syn. iii. pt. ii. p. 334 (1785.) 
 Cepphus columba, Pallas, Zooyr. Rosso-As. ii. p. 348 (1811); Kewton, 
 
-Ibis, 1865, p. 519 ; Baird^ Brew. <§r Ridgio. Water-B. N. Amer. ii. 
+Ibis, 1865, p. 519 ; Baird^ Brew. <§r Ridgw. Water-B. N. Amer. ii. 
 
 p. 494 (1884); Turner, Auk, ii. p. 159 (1885) [Xearer Is., Alaska"; 
 Stejn. P. US. Nat. Mus. vii. p. 1>29 (1883) [part] : id. Bull US. 
@@ -47765,7 +47765,7 @@ Ridgic. P. U.S. Is at. Mus. iii. p. 211 (IbbO); Xehon, Cruise Coricin,
 p. 116 (1883J ; Coues, Key X. Amer. B. 2nd ed. p. *08 (1884) ; 
 Stejn. Bull. U.S. Xat. Mus. xxix. p. 25, pi. iv. figs. 1, 2 (ISbo) ; 
 Turner, Auk, ii. p. 159 (1885) [Nearer Is., Alaska"; A. O. U. 
-Check-l p. 79 (1886); Ridgio. Man. X. Am. B. p. "13 (1&S7) ; 
+Check-l p. 79 (1886); Ridgw. Man. X. Am. B. p. "13 (1&S7) ; 
 Kelson, Hep. N. II. Alaska, p. 42 (1887); Slept. P. U.S. Xat. Mus. 
 x. p. 118 (1887) [Commander Is.]; Tacz. Ment. Acad. St.Petersb. 
 xxxix. p. 1235 (1893) [E. Siberia]. 
@@ -48334,7 +48334,7 @@ Z. Fr. ix. p. 147 (1884); Turner, Auk, ii. p. 159 (1885) [Nearer
 Is., Alaska]; Allen, Auk, ii. p. 388 (1885) [Coast of Maine and 
 Greenland; accidental]; Stejn. Bull. U.S. Nat. Mus. xxix. p. 43, 
 pis. i. & ii. (1885) [Commander Is.]; A. O. U. Check-l. p 77 
-(1886) ; Ridgiv. Man. N. Am. B. p. 10 (1887); Nekon, Rep, N 
+(1886) ; Ridgw. Man. N. Am. B. p. 10 (1887); Nekon, Rep, N 
 H. Alaska, p. 38, pi. ii. fig. 5 (1887); Palmen, Veqa-Exped 
 Vetensk. lakttag. v. p. 402 (1887); Stejn. P. U.S. Nat Mns. x. 
 p. 119 (1887) [Commander Is.]; Lawrence, Auk, ix. p. 41 (1892) 

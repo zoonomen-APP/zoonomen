@@ -482,7 +482,7 @@ jyOrb.) 162
 14. pucherani (Malh.) . . 164 
 15. rajgolatas (Wagl.) . . 106 
 16. superciliaris (Temm.). 167 
-17. bteMi (Ridgto.) 168 
+17. bteMi (Ridgw.) 168 
 18. nyeanus (Midgw.) 169 
 19. caymanensis {Cory) . . 169 
 Page 
@@ -1931,7 +1931,7 @@ p. 280; Gray, List Picid. Brit. Mus. p. 120 (1868); Ball $
 Bann. Trans. Chic. Acad. 18C9, p. 275; Gray, Kancl-l B. ii, 
 p. 202, no. 8828 (1870); Cones, B. N.-West, p. 292 (1874); B., 
 B., $ R. Hist. N. Amer. B. ii. p. 575, pi. lv. figs, ltfad., 2$ ad. 
-(1874); Brewst. Ann. Lyc. N. Y.rk, 1875, p. 144; Ridgio. Btdl. 
+(1874); Brewst. Ann. Lyc. N. Y.rk, 1875, p. 144; Ridgw. Btdl. 
 Essex Inst. 1875, p. 38; Cones, Bull. V. S. Geol. Surv. iv. no. 3, 
 p. 617 (1878); Cory, Magd. Isl. p. 52 (1878); Mayn. B. Florid. 
 p. 231, pi. xviii. (1878); Ridgw. Proc. U.S. Nat. Mus. 1880, 
@@ -1941,7 +1941,7 @@ U. S. Nat. Mus. 1883, p. 118; Coues, Key N Amer. B. 2nd ed.,
 1884, p. 493; Turn. Proc. U. S. Nat Mus. 1885, p. 242-,Agersb. 
 Auk, 1885, p. 284; Ball, t. c. p. 383; A. 0. V. Check-list N. Amer. 
 B. p. 217 (1886) ; Bretost. Auk, 1886, p. 104 ; Sennett, t. c. p. 242; 
-Thome, t. o. p. 264; Ridgio. Man. N. Amer. B. p. 295 (1887) : 
+Thome, t. o. p. 264; Ridgw. Man. N. Amer. B. p. 295 (1887) : 
 Warren, B. Penn. p. 137 (1888) ; Scott, Auk, 1889, p. 252. 
 Geopicos auratus, Math. N. Classif., Mem. Acad. Metz, 1848-49 
 
@@ -2126,7 +2126,7 @@ Gray, List Plaid. Brit. Mvs. p. 120 (ISGc-}; Elliot, Xeic & Unfig.
 B. N. Amer. i. pi. xxvi. tf $ ad. (1500); Coop. B. Calif, ed. Baird, 
 p. 410 (1870) ; Gray, lland-l. B. II. p. 202, no. S^U (1870); 
 B., B., § R. Hist. KAmer. B. ii. p. 583, VL ]iv. %fe* 2* -» d 2 ad. 
-(1874); Ridgio. Proc. Essex List. 1&75, p. 38 ; id.Proc. U. 8. Nat 
+(1874); Ridgw. Proc. Essex List. 1&75, p. 38 ; id.Proc. U. 8. Nat 
 Mus. 1880, p. 190, no. 379; Beld. op. eit. lfcS2. p. 543; Cones, 
 Check-list X. Amer. B. 2nd ed. p. 79, no. 4i8 (18&2) ; Beld. Proc. 
 U. 8. Nat Mus. Ife83, pp. 344-349; Cones, Key N. Amer. B. 
@@ -2313,10 +2313,10 @@ Oolaptes mexicanus rufipileus, Ridgw. Bull. U. 8. Geol § Geogr.
 Surv. Terr. ii. no. 2, p. 191 (1876). 
 Oolaptes rufipileus,*Ridgxo. Ball fruit. Orn. Club, ii. p. 60 (1877) ; 
 id. Proc. XT. 8. fraf. Mas. 1880, p. 190, no. 380 ; A. O. U. Checklist 
-N. Amer. B. p. 218 (1880); Ridgio. Man. fr. Amer. B. p. 290 
+N. Amer. B. p. 218 (1880); Ridgw. Man. fr. Amer. B. p. 290 
 (1887). 
 
-Oolaptes mexicanus saturation Ridgio. Proc. Biol Soc. Wash. ii. 
+Oolaptes mexicanus saturation Ridgw. Proc. Biol Soc. Wash. ii. 
 
 p. 90 (1882-4). 
 Oolaptes 
@@ -13509,7 +13509,7 @@ Nomencl Av. Neotr. p. 101 (1873); Ridgiu. Proc. U.S. NatMus.
 1881, p. 115; Cory, List B. W. Ltd. p. 20 (1885); id. Auk, iii. 
 
 p. 379 (1886). 
-Meianerpes superciliaris, Ridgiv. Man. N. Amer. B. p. 202 (1887). 
+Meianerpes superciliaris, Ridgw. Man. N. Amer. B. p. 202 (1887). 
 168 PICID-E. 
 
 Adult male. Above, including tail-coverts, and the wing-coverts 
@@ -13590,8 +13590,8 @@ occiput and nape (alone) being red. Total length 9*8 inches, culmen
 Hab. Abaco, Bahamas. 
 
 18. Melanerpes nyeanus. 
-Oenturus nyeanus, Ridgio, Aide, iii. p. 386 (1886). 
-Melanerpes nyeanus, Ridgio. Man. N. Amer. B. p. 292 (1887). 
+Oenturus nyeanus, Ridgw. Aide, iii. p. 386 (1886). 
+Melanerpes nyeanus, Ridgw. Man. N. Amer. B. p. 292 (1887). 
 
 
 Adult male. (i Similar to C. supercHliaris (Temm.) of Cuba, but 
@@ -13799,7 +13799,7 @@ Fox Prairie, EicHaDcl Co., \ Henshaw Coil,
 
 111., Auo-. (E. jr. JNVWOTV *S.-G.\ 
 Mt Carniel, 111.. April, Oct., 
-XUT. (5. Ridgivay). 
+XUT. (5. Ridgway). 
 Mt. Carmel, July {-£ JJ 
 
 J 
@@ -13857,9 +13857,9 @@ Centurus aurifrons dubius, Ridgic. Pruc. U.S. Xat. Mm. iv. p. 108
 Centurus dubius, Boucard, P. Z. S. 1883, p. 452; Salt. Ibi*, 1885, 
 
 pp. 186 & 192, 1889, p. 3G9. 
-Centurus leei*, Ridgiv. Proc. Biol. Soc. Wash. in. p. 22 (1885). 
+Centurus leei*, Ridgw. Proc. Biol. Soc. Wash. in. p. 22 (1885). 
 Centurus dubius leei, Ridgw. Proc. U.S. Xat. Mus. 1*83, p. 575. 
-Melanerpes dubius, Ridgiv. Man. X. Amer. B. p. 293 (1887). 
+Melanerpes dubius, Ridgw. Man. X. Amer. B. p. 293 (1887). 
 Melanerpes leei, XLigw. Man. W. Amer. B. p. 293 (1887). 
 
 12 . MELA^EKPES. 
@@ -14113,7 +14113,7 @@ Picus tricolor (pt.), Stindev. Consp. Av. Pidn. p. 54 (180G),
 Centurus rubriventris pygmseus, Ridgw. Proc. U. S. Nat. Mm. 1885, 
 
 p. 576. 
-Melanerpes rubriventris, Ridgto. Man. N. Amer. B. p. 293 (1887). 
+Melanerpes rubriventris, Ridgw. Man. N. Amer. B. p. 293 (1887). 
 Melanerpes pygmasiis, Ridgw. Man. N. Anier. B. p. 293 (1887). 
 Adult male. Resembles M. tricolor, but may be distinguished by 
 having the nasal plumes, base of the forehead, lores, anterior half 
@@ -18573,7 +18573,7 @@ Picus insularis (non Gould), Maynard, Nat. in Florida, i. no. 4
 (1885). 
 Picus villosus insularis, Cory, List B. W. Lid. p. 19 (1885). 
 Dryobates villosus insularis, Cory, Auk, 1886, p. 375. 
-Dryobates villosus rnaynardi, Ridgiv. Man. N. Amer. B. p. 282 
+Dryobates villosus rnaynardi, Ridgw. Man. N. Amer. B. p. 282 
 
 (1887). 
 
@@ -18893,7 +18893,7 @@ Dryobates jar din ei, Cab. § Heine, Mus. Hein. iv. p. 69 (1863).
 Dryobates villosus harrisii (pt.), A. O. TJ. Chech-list N. Amer. B. 
 
 p. 211, no. 393 c £1886). 
-Dryobates villosus jardinii, Ridgio. Man. N. Amer. B. p. 283 (1887). 
+Dryobates villosus jardinii, Ridgw. Man. N. Amer. B. p. 283 (1887). 
 Adult male. Resembles the male of D. Jiarrisi, but is a much 
 smaller and darker bird, the under surface of the body becoming deep 
 brown in southern examples, this brown colour tinging the white on 
@@ -19362,7 +19362,7 @@ B2
 
 Pieus cancellatus (non Wagl), Selat P. Z. S. 1856, p. 303. 
 Threnopipo stricklandi, Cab. $• Heine, Mas. Keia. iv. p. 71 (1863). 
-Dryobates stricklandi, Ridgio. Man. X. Amer. B. p. 286 (1887). 
+Dryobates stricklandi, Ridgw. Man. X. Amer. B. p. 286 (1887). 
 
 Adult male. Back and rump barred blackish brown and white; 
 
@@ -22185,7 +22185,7 @@ Picoides tridactylus alascensis, Kelson, Aid; 1881, p. 105.
 
 Picoides americauus alaseciihis, A. 0. U. Check-list K. Amvr. 21 
 
-p. 214, no. 401 a (1880) ; Ridgio. Man. K. Amer. B, p. 1287 (1887). 
+p. 214, no. 401 a (1880) ; Ridgw. Man. K. Amer. B, p. 1287 (1887). 
 Adult male, whiter plumage. Resembles P. americanm in having 
 the back barred with white, but the black interspaces are interrupted 
 in the middle of the back by a line of white, caused by the 
@@ -22295,7 +22295,7 @@ JE. K Amer. p. 245 (1879); Ridgw. Proc. U. S. Nat. Mm. 1880,
 o. 189; Merr. Bull Nutt. Orn. Club, 1882, p. 230; Coues, Cheek-Eist N. Amer. B. 2nd ed. p. 78 (1882) ; Stearns, Proe. U. S. Nat. 
 Mii6.1883, p. 118 ; Coues, Key N. Amer. B. 2nd ed. 1884, p. 485 ; 
 Turner, Proc. U. S. Nat Mus. 1885, p. 242; A. O. U. Cheek-list 
-N. Amer. B. p. 213, no. 400 (1886) ; Ridgio. Man. K Amen B. 
+N. Amer. B. p. 213, no. 400 (1886) ; Ridgw. Man. K Amen B. 
 p. 287 (1887) ; Merrill, Auk, 1888, p. 254. 
 Tridactylia aretica, Cab. § Heine, Mus. Hein. iv. p. 27 (1863). 
 Adult male. Back, rump and upper tail-coverts, scapulars and 
@@ -40175,7 +40175,7 @@ N.-West, p. 278 (1874); B., B., fy R. Hist. N. Amer. B. ii.p. 550,
 pi. Ivi. figs. 4 2 f 5 d (1874) ; Brmcst. Ann. Lyc. N. Y.rk, xi. 
 
 p. 144 (1875) ; Merrill, Proc. U. S. Nat. Mus. 1878, p. 151; Beld. 
-t c. p. 429; Ridgiv. op. cit. 1879, p. 189; Merriam, Bull Nutt. 
+t c. p. 429; Ridgw. op. cit. 1879, p. 189; Merriam, Bull Nutt. 
 Orn. Club, 1882, p. 236; Coues, Chech-list N. Amer. B. 2nd ed. 
 1882, p. 76; Sclat. P. Z. S. 1883, p. 425; Cooke $ Widm. Ridgw. 
 Orn. Club Bull. i. 1883, p. 37; Coues, Key N. Amer. B. 2nd ed. 

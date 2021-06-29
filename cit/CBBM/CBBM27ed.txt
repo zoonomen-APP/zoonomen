@@ -6107,7 +6107,7 @@ red; tail above greyish bronzy green, below dusky; lower breast,
 abdomen, and under tail-coverts white, the latter finely dotted with 
 brown-grey : " bill dark plumbeous, the nail and longitudinal space 
 on the culmen black ; eyelids chrome-yellow; iris raw sienna ; legs 
-and feet yellowish brown " (Ridgivay). Total length about 17*75 
+and feet yellowish brown " (Ridgway). Total length about 17*75 
 inches, wing 8*50, tail 4*5, culmen 1*30, tarsus 1*35. 
 
 Young in down. " Above deep hair-brown, darker or dove-brown 
@@ -6757,7 +6757,7 @@ p. 131; Mayn. Guide, 1870, p. 147; Allen, Bull. M. C. Z. iii.
 p. 183 (Utah) (1872); Triple, Pr. Bost. Soc. xv. p. 241 (Iowa, 
 migratory) (1872) ; Gieb. Thes. Orn. i. p. 371 (part.) (1872); 
 Coues, Key, p. 282 (1872); Snow, B. Kansas, p. 11 (1873); ? Sclat. 
-<§• Sah. Nomenel. Av. Neotrop. p. 128, n. 2 (1873) ; Ridgio. Am. 
+<§• Sah. Nomenel. Av. Neotrop. p. 128, n. 2 (1873) ; Ridgw. Am. 
 Nat. viii. Febr. 1874 (semidome&tic); id. Ann. Lyc. N. Y. x. 
 p. 388 (Illinois) (1874) ; Sclat. # Sah. P. Z. S. 1876, p. 860 
 (Cuba, Jamaica); Blakist.fyPn/er, Ibis, 1878, p. 212 (Tokio Bav); 
@@ -6832,7 +6832,7 @@ Anser hyperboreus, var. albatus, Coues, Key N Am. B. p. 282,
 
 n. 480 a (1872); id. Cheek-list, n. 480 a (1873). 
 Anser hyperboreus b. albatus, Coues, B. N.-West, p. 549 (1874). 
-Chen hyperboreus albatus, Ridgto. Pr. U.S. Nat. Mus. 1880, p. 202, 
+Chen hyperboreus albatus, Ridgw. Pr. U.S. Nat. Mus. 1880, p. 202, 
 n. 591 a ; id. Norn. N. Am. B. n. 591 a (1881); Coues, Check-list 
 N Am. B. 2nd ed. p. Ill, n. 696 (1882); id. Key N. Am. B. 
 2nd ed. p. 686 (1884) ; Murd. Exped. to Boint Barrow, p. 116 
@@ -8578,13 +8578,13 @@ Philacte canagica, Bannist Pr. Acad.Philad. 1870, p. 131; Coues, Key,
 
 p. 283, f. 183 (1872); id. Check-list, n. 482(1873); id. B. N-West, 
 p. 558 (1874); Ball, Notes Avif. Aleut. IsL West Unal. p. 6 (1874); 
-Coues, Elliott's Aff. Alaska, p. 189 (1875); Ridgio. Nom. N. Am. 
+Coues, Elliott's Aff. Alaska, p. 189 (1875); Ridgw. Nom. N. Am. 
 B. n. 598 (1882) ; Elliott, Mon. Seal IsL p. 130 (1882); Nelson, 
 Cruise < Cortom,1 1881, p. 95 (1883) ; B., B., $ R. Water-Birds N 
 Am. ii. p. 477 with fig. (1884) ; Coues, Key N. Am. B. 2nd ed. 
 p. 689. with fig. p. 688^(1884); Murdoch, Exp. to Point Barrow, 
 p. 117 (1885); Turner, Auk, 1885, p. 158; A. O. U. Code of 
-Nomencl § Check-list, p. 128, n. 176 (1886) ; Ridgio. Man. N. 
+Nomencl § Check-list, p. 128, n. 176 (1886) ; Ridgw. Man. N. 
 Am. B. p. 118 (1887) ; Turner, Contr. Nat. Hist. Alaska, p. 142 
 (1887); Stejn. Pr. U.S. Nat. Mus. x. p. 135 (Behrin<j I.) (1887); 
 Toionsend, ibid. p. 196 (Humboldt Bay, California) (1887) ; 
@@ -12376,7 +12376,7 @@ Rchmv. Orn. Centralbl. 1882, p. 62; Sclat. List Vert. An. 8th ed.
 p. 426 (part.) (1883); Coues, Key N. Am. B. 2nd ed. p. 689, n. 706 
 (1884); Cory, List B. W. Ind. p. 30 (1885) ; A. O. U. Code of 
 Norn, and Check-list, p. 129, n. 177 (1886); Lloyd, Auk, 1887, 
-p. 185 (W. Texas); Ridgiv. Man. M. Am. B. p. 119, n. 177 (1887) : 
+p. 185 (W. Texas); Ridgw. Man. M. Am. B. p. 119, n. 177 (1887) : 
 Cory, Auk, 1888, p. 60 (Jamaica); id. B. W. Ind. p. 261 (1889); 
 Salv. Ibis, 1889, p. 377,1890, p. 89 (Cozumel I.); Richm. Pr. U.S. 
 Nat. Mus. xvi. p. 531 (Rio Frio) (1893). 
@@ -15499,7 +15499,7 @@ Carolina, in winter) (1868); ? Allen, Bull. Mtis. Comp. ZooL ii.
 p. 363 (Florida) (1871); ? A. $ JS. Newt Handb. Jam. p. 113 
 (1881); ? Cory, JRev. List B. W. Ind. p. 30 (1886); id. Auk, 1888, 
 p. 61 (Cuba, Jamaica); ? id. B. W. Ind. p. 262 (1889). 
-Anas obscura, var. fulvigula, Ridgio. Am. Nat. viii. p. Il l (Florida) 
+Anas obscura, var. fulvigula, Ridgw. Am. Nat. viii. p. Il l (Florida) 
 (1874); Coues, Check-list, App. n. 489 a (1874). 
 Anas obscura, b. fulvigula, Coues, B. N.-West, p. 561 (1874). , 
 Anas fulvigula, Ridgw. Pr. US. Nat. Mus. i. p. 251 (1878), iii. 
@@ -15590,8 +15590,8 @@ n. Ad. sk. Texas (F. B. A.). Salvin-Godman Coll.
 AKATID-3E. 
 
 8. Anas diazi. 
-Anas diazi, Ridgio. Auk, 1886, p. 332 (Puebla, Mexico); F.-Perez, 
-Pr. U.S. Nat. Mus. 1886, p. 171• Ridgio. ibid.; id. Man. N. Am. 
+Anas diazi, Ridgw. Auk, 1886, p. 332 (Puebla, Mexico); F.-Perez, 
+Pr. U.S. Nat. Mus. 1886, p. 171• Ridgw. ibid.; id. Man. N. Am. 
 
 B. p. 32 (1887) j id. Auk, 1889, p. 264 
 Male. Most like A. fulvigula, Eidgw., but last row of wing-
@@ -15610,9 +15610,9 @@ a. J ad. sk. Puebla, May (Ferrari-Perez). Salvin-Godman Coll.
 (Tepic, W. Mexico) (1874). 
 
 Alias 
-aberti, Ridgio. Pr. U.S. Nat. Mus. i. p. 250 (Mazatlan, 
+aberti, Ridgw. Pr. U.S. Nat. Mus. i. p. 250 (Mazatlan, 
 Mexico) (1878) ; P., P., $ R. Water-Birds N. Am. i. p. 490 
-T1884); Ridgio. Pr. U.S. Nat. Mus. ix. p. 173 (1886); id. Man. 
+T1884); Ridgw. Pr. U.S. Nat. Mus. ix. p. 173 (1886); id. Man. 
 
 N. Am. B. p. 92 (1887). 
 Adult female. " Size of Querquedula discors and cyanojotera, but in 
@@ -21943,7 +21943,7 @@ Sclat. $ Salv. P. Z. S. 1876, p. 393 (part.); Salv. P. Z. S. 1883,
 
 p. 428 (Charles Isl.). 
 Poecilonetta 
-galapagensib, Ridgio. Pr. U.S. Nat. Mus. xii. p. llo 
+galapagensib, Ridgw. Pr. U.S. Nat. Mus. xii. p. llo 
 (1889). 
 
 Similar to P. bahamensis (Linn.), but white on sides of head 
@@ -23574,7 +23574,7 @@ clearer yellowish on each side of rump, at base of tail; top of head
 and hiad-neck similar to back, but darker; forehead, broad superciliary 
 stripe, sides of head and neck, and lower parts generally, 
 deep buff-yellow, the sides of the head marked with a distinct 
-narrow stripe of dark brown." (Ridgivay.) 
+narrow stripe of dark brown." (Ridgway.) 
 
 Hah. Western America, from the Columbia Eiver to Chili, Paraguay, 
 Argentine Republic, Patagonia and Falkland Islands; casually 
@@ -26631,7 +26631,7 @@ f- n. 618 (1859); Bryant, Pr. Bost. Soc. 2V. //. vii. p. 122
 (Bahamas) (1859); id. J. f. 0.1861, p. 56 ; March, Pr. Ac. Philad. 
 JfHp . 27 (Jamaica); & R. Gr. Hand-list, iii. p. 86, n. 10690 
 (1871) ; Later. Mem. Bost. Soc. N. H. ii. p. 315 (Mazatlan) (1874); 
-A 0. U. Check-list N. Am. B. p. 118, n. 146 (1876) • Ridgio. Man. 
+A 0. U. Check-list N. Am. B. p. 118, n. 146 (1876) • Ridgw. Man. 
 
 N. Am. B. p. 101 (1887); Con/, Auk, 1888, p. 66: id. B. W. hid. 
 p. 267 (1889) ; Hatch, B. of Minnes. p. 55 (1892). 
@@ -30388,7 +30388,7 @@ Chantonetta albeola, Stejn. Bull. U.S. Nat. Mus. no. 29, p. 166 (1885)
 (Commander Islands); A. O. U. Check-list N. Am. B. p. 120, 
 
 n. 153 (1886); Turner, Contr. N. H. of Alaska, p. 134 (1886); 
-Nelson, Nat. Hist. Coll. in Alaska, p. 72 (1887) ; Ridgio. Man. N. 
+Nelson, Nat. Hist. Coll. in Alaska, p. 72 (1887) ; Ridgw. Man. N. 
 Am. B. p. 106 (1887); Stejn. Pr. U.S. Nat. Mus. x. p. 137 (1887) 
 (Commander I.) ; Cory, Auk, 1888, p. 67 (Cuba); Hatch, B. of 
 Minnes. p. 66 (1892). 
@@ -32261,7 +32261,7 @@ Oidemia deglandi, Bp. Rev. Crit. p. 108 (1850); id. Compt. Rend,
 
 xxxviii. p. 664 (Not. CoU. Belattre, p. 94) (part.) (1854); Degl 
 $ Gerbe, Orn. Fur. ii. p. 863 (1867); A. O. U. Check-list N. Am, 
-B. p. 124, n. 165 (1886); Ridgto. Man. N. Am. B. p. 112 (1887): 
+B. p. 124, n. 165 (1886); Ridgw. Man. N. Am. B. p. 112 (1887): 
 Mackay, Auk, 1891, p. 279 ; Trumbull, Auk, 1892, ip^. 157-160; 
 Mackag, ibid. p. 305; Match, B. of Minnes. p. 70 (1892). 
 Oidemia velvetina, Cass. Fr. Acad. Philad. v. p. 126 (Dec. 1850) 
@@ -32554,7 +32554,7 @@ Britain) ; Feild. Zoolog. 1872, p. 3255 (Faeroe, accidental) ;
 Beinh. Vidensk. Medd. Kjobenh. 1881, p. 183 (Greenland); 
 Turner, Contr. Nat. Hist of Alaska, p. 137 (1886) (Yukon and Aleutian 
 Isl.); A. O. U. Checklist N. Am. B. p. 124, n. 166 (1886); 
-Ridgio. Man. N. Am. B. p. 113 (1887); Nelson, Nat. Hist Coll. 
+Ridgw. Man. N. Am. B. p. 113 (1887); Nelson, Nat. Hist Coll. 
 in Alaska, p. 81, pl. v. f. 5 (head) (1887) (both shores of Bering 
 Straits, Norton Sound, and Kotzebue Sound); Mackay, Auk, 1891, 
 p. 279 (New England) ; Hartert, Eat. Vogelsamml. p. 293 (1891) ; 
@@ -32809,7 +32809,7 @@ Gen. $ Subgen. B. p. 124, gen. 2065 (1855); id. Hand-list,
 
 iii. p . 88, n. 10703 (1871) ; — ? Forest and Stream, May 4th, 1870 
 (Delhi Mill, Michigan, 1872); A. O. U. Check-list N. Am. B. p. 121, 
-n. 156 (1886); Ridgto. Man. N. Am. B. p. 107 (1887); Butcher, 
+n. 156 (1886); Ridgw. Man. N. Am. B. p. 107 (1887); Butcher, 
 Auk, 1891, pp. 201-216, pi. ii.; — ? Shooting and Fishing, 1891, 
 no. 22, p. 425 {cf. Auk, 1893, p. 294) ; B. G. [A. C. Goidd], Shooting 
 and Wishing, 1892, no. 18, p. 345 ; Meyer, Auk, 1892, p. 389 (Mus. 
@@ -34323,7 +34323,7 @@ Ad. sk. Transvaal (T. Ayres). Shelley Coll.
 m. Juv. sk. Benguela. " J. Monteiro [C.j. 
 56. 
 ETOMNTX. m Type. 
-Nomonyx, Ridgio. Pr. TJ. 8. Nat. Mus. iii. p. 15 (1880). N. dominicus. 
+Nomonyx, Ridgw. Pr. TJ. 8. Nat. Mus. iii. p. 15 (1880). N. dominicus. 
 
 Range. Tropical America, including the "West Indies. 
 
@@ -36604,7 +36604,7 @@ N. Am. B. n. 638 (1881); B., B., Sf R. Water-B. N. Am. ii. p. 121
 (1884); Nehrl. J. f. O. 1885, p. 148 (Illinois) ; Matschie $ Ziemer, 
 J.f.O. 1885, p. "192; A. O. U. Chech-list N. Am. B. p. 114, 
 n. 131 (1886); Nelson, Nat Hist. Coll. in Alaska, p. 67 (1887); 
-Ridgio. Man. N. Am. B. p. 89, n. 131 (1887); Cory, Auk, 1888, 
+Ridgw. Man. N. Am. B. p. 89, n. 131 (1887); Cory, Auk, 1888, 
 p. 69; id. B. W. Led. p. 270 (1889); Hatch, B. of Minnes, p. 36 
 (1892). 
 Mergus (Lophodytes) cucullatus, Coues, Key N. Am. B. 2nd ed. 
