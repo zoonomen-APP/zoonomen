@@ -14,7 +14,12 @@
 
 		<h4>Original description links</h4>
 
-		<h3><big><big>S</big></big>TRUTHIONIFORMES thru <big><big>A</big></big>CCIPITRIFORMES</h3>
+		<h3><big><big>S</big></big>TRUTHIONIFORMES thru <big><big>A</big></big>CCIPITRIFORMES</h3><p>
+
+		<h3>Taxonomic sequence follows IOC 11.1</h3>
+
 		<ul>
+
+
 
 
