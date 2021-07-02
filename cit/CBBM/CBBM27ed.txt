@@ -2759,7 +2759,7 @@ YarreWsHist. B)\B. iv. p. 315 (1884-85) ; Seebh. Hist. Br. B. iii.
 p. 484, pi. 58 (egg) (1885); Salvad. El. Ucc. Ital. p. 255, no. 356 
 (1886); Gigl fy Salvad. P. Z. S. 1887, pp. 589, 591, pi. Iii. f. 2 
 (head); iid. Mem. R. Ac. So. Tor. (2) xxxix. p. 140 (1388); 
-Pleske, Rev. TurJeest. Ornis, p. 54 (1888); Tristr. Cat. Coll. B. 
+Pleske, Rev. Turkest. Ornis, p. 54 (1888); Tristr. Cat. Coll. B. 
 p. 51 (1889) ; Seebh. B. Jap. Emp. p. 235 (1890) ; Rchnw. J.f. 0. 
 1890, p. 80 ; ? Lydekk. Cat. Foss. B. p. 108 (1891) ; Hartert, Kat. 
 Vogelsamml. p. 226 (1891) (Abbeville); Sharp*, Oat. Ost. Spec. 
@@ -8083,7 +8083,7 @@ Severtz. Zeitschr. ges. Orn. 1887, pp. 22, 140 ; Sclat. P. Z. S.
 1880, p. 500. 
 Anser segetum, var. serrirostris, Tacz. (nee Swinh.) J. f. O. 1874, 
 
-p. 333 ; Pleske, Bev. Turhest. Ornis, p. 54 (1888). 
+p. 333 ; Pleske, Rev. Turkest. Ornis, p. 54 (1888). 
 Anser segefum, &zoinh< Ibis, 1875, p. 456 (part.); Blak. fy Pryer f 
 Ibis, 1878, p. 212 (part.); iid. Tr. As. Soc. Jap. viii. p. 182 (part.) 
 (1880), x. p. 94 (part.) (1882); Blah. Chrysanth. 1883, p. 27 
@@ -8256,7 +8256,7 @@ Diet So. Nat xxv. p. 460 (1825).
 Anser Indica, Staph. Gen. Zool. xii. 2. p. 36 (1824); Gould. Cent. 
 Him. B. pi. 80 (1831). 
 Anser indicus, Sykes, P. Z. S. 1831, p. 125; Mjt. Mon. Anat. p. 90 
-(1838); Tig. P. Z. S 1831, p. 173; Jerd. Madr. Joum. xii. p. 217, 
+(1838); Tig. P. Z. S 1831, p. 173; Jerd. Madr. Jour. xii. p. 217, 
 
 n. 375 (1840); Hodys. in Gray's Zool. Misc. p. 86, n. 593 
 (1844); G. It. Gr. List B. Brit. Mus. iii. p. 130 (1844); id. Cat 
@@ -8279,10 +8279,10 @@ ed. p. 418 (1883); Severtz. Ibis, 1883, p. 76 (Pamir range) ;
 B. O. U. List Br. B. p. 116 (1883); Przeio. Beis. in Thibet, 
 pp. 64, 226 (1884) ; Sclat. P. Z. S. 1886, p. 320 (breeding, Zool. 
 Gard. Rotteid.); Kimberg, Zool. Gart. 1886, p. 324 (Shamin); 
-Pleshe, Bev. Turhest Omis, p. 54 (1888); Tristr. Cat. B. p. 51 
+Pleske, Rev. Turkest Ornis, p. 54 (1888); Tristr. Cat. B. p. 51 
 (1889); Hume, Nests # Fggs {Gates' ed.), iii. p. 279 (1890); 
 Hartert, Kat Vogelsamml. p. 227, no. 3359 (1891); Sharpe, See. 
-Turk. Miss., Aves, p. 128 (1891); Pleshe, MM. Biol. xiii. p. 298, 
+Turk. Miss., Aves, p. 128 (1891); Pleske, MM. Biol. xiii. p. 298, 
 n. 167 (1892) • Newt Bid. of B. p. 373 (pt. 2, 1893); Oust. Nouv. 
 Arch. Mm. (3) vi. p. 97 (1894). 
 Bernicla indica, 
@@ -13441,7 +13441,7 @@ Mol iii. p. 391 (1882); Sato. Cat. B. StricJcL CoU. p. 532 (1882) ;
 Sclat. P. Z. S.1883, pp. 52,195, 200 (Larat, Timorlaut); Finsch, 
 1%. d. Siidsee, p. 29 (1884); Meyer, Sitzb. u. Abh. Gesellsch. Isis, 
 1884, Abh. i. p. 57; Forbes, P. Z. S. 1884, p. 434; Meyer, Zeitsehr. 
-yes. Orn. I p. 295 (1884); Pleshe, Bull. Ac. PStersb. xxix. p. 538 
+yes. Orn. I p. 295 (1884); Pleske, Bull. Ac. PStersb. xxix. p. 538 
 (1884); GuUlem. P. Z. S. 1885, p. 665 (Waigiou, Jobi); North, Pr. 
 Linn. Soc. N. 8. W. (2) ii. p. 446 (1887); Bams. Tab. List, p. 22, 
 
@@ -17877,7 +17877,7 @@ Expl. Exp., Mamm. $ Orn. p. 342 (1858); Baird, B. N. Am. p. 783
 (1858); id. Cat. N. Am. B. n. 585 (1859) ; id. Mex. Bound. Surv. 
 ii. Birds, p. 27 (1859); Beer at. P. R. R. Rep. x. pt. vi. p. 68 (1859); 
 Mat $/».27^,1859,p.231 (Guatemala); Murr.Edinb.N.Philos. 
-Joum. 1859, p. 229 (Hudson Bay) ; Coop. t\ SucJrt. N. H. Wash. 
+Jour. 1859, p. 229 (Hudson Bay) ; Coop. t\ SucJrt. N. H. Wash. 
 Terr. p. 256 (1860); Newt. Ibis,lb60,p.308 (St. Thomas); Breiver, 
 Pr. Bost. Soc. N. H. vii. p. 308 (Cuba) (1860); Gundl. J.f. 0.1861, 
 p. 344 ; Ross, Canad. Nat. April 1862 (Mackenzie); Verr. Pr. Ess. 
@@ -24934,7 +24934,7 @@ a Natural p. 226 (Egypt) (1876); Blanf. Bast. Pers. ii. p. 301
 (Baluchistan) (1876); teeth. Ibis, 1883, p. 34 (Caucasus); Scully, 
 J. A. S. B. hi. p. 88 (1884); Tristr. Faun. fy Flor. of Palest. 
 p. 115 (Palestine and Egypt) (1884); Tait, Ibis, 1887, p. 376 
-(Portugal); Koenig, J.f. 0. 1888, p. 285 (Tunis); Pleshe, Rev. 
+(Portugal); Koenig, J.f. 0. 1888, p. 285 (Tunis); Pleske, Rev. 
 Turkest. Omis, p. 55 (Tschinas) (1888); Guillem. Ibis, 1889, 
 p. 216; Lilf. ibid. p. 345 (Cyprus); Tristr. Cat. Coll. B. p. 49 
 (1880); Beam, Ibis, lb91, p. 72 (incubation); BLartert, Kat. Vogel-
@@ -26721,7 +26721,7 @@ Anas vallisneria, Wils. Am. Orn, viii. p. 108, pi. 70. f. 5 (1814);
 Less. Tr. oVOrn. p. 631 (1831); Doughty, Cab. N. H. ii. p. 36, pi. 4 
 (1832); Cory, List B. W. Ind. p. 30 (1885). 
 
-Anas vallisneriana, Sabine, App. Frankl. Joum. p. 699 (1823). 
+Anas vallisneriana, Sabine, App. Frankl. Jour. p. 699 (1823). 
 Anas valisneria, Vieill. Enc. Meth. i. p. 359 (1823). 
 Fuligula vallisneria, Steph. Gen. Zool. xii. 2, p. 190 (1824) ; Bp. Ann, 
 
@@ -36525,13 +36525,13 @@ Mergus cucullatus, Linn. S. N. i. p. 207, n. 1 (1766); Gm. S. K. i. 2,
 p. 544, n. 1 (1788); Lath. Ind. Orn. ii. p. 830, n. 5 (1790); Wils. 
 Am. Orn. viii. p. 79, pi. 69. f. 1 (1814); Vieill. N. D. xiv, p. 220 
 (1817); Bum. Diet Sc. Nat. xx. p. 296 (1821); Sabine, Frankl. 
-Joum. App. p. 702 (1823); Bp. Obs. Wils. n. 251 (1825); Banz. 
+Jour. App. p. 702 (1823); Bp. Obs. Wils. n. 251 (1825); Banz. 
 El. di Zool. iii. pt. ix. p. 147 (1826) ; Bp. Ann. Lyc. N. T. ii. p. 397, 
 n. 349 (1826); id. Speech. Comp. p. 74, n. 263 (1827); id. Syn. 
 p. 397 (1828); Less. Man. d'Om. ii. p. 420 (1828); id. Tr.d'Orn. 
 p. 635 (1831); SID. £ Mich. Faun. Bor.-Am. ii. p. 263 (1831); 
 Selby, Trans. N. H. Soe. of Northumb. i. p. 292 (Yarmouth) 
-(1831); id. Edinb. Joum. of Nat. $ Geogr. Sc. iii. p. 238 (1831), cf 
+(1831); id. Edinb. Jour. of Nat. $ Geogr. Sc. iii. p. 238 (1831), cf 
 A. Neiuton, Tr. Norf $ Nono. Nat. Soe. ii. p. 408 (1878); Bp. 
 Isis, 1832, p. 1191, n. 349; Selby, Illustr. of Brit. Orn. ii. p. 383 
 (1834); Nutt. Man. ii. p. 465 (1834); Jen. Man. p. 249 (1835); 
@@ -36549,7 +36549,7 @@ Begl. Orn. Eur. ii. p. 483 (1849); Wiirttemb. Naumannia, 1852,
 Heft ii. p. 54 (Cuba); Lieht. Nomenel Av. p. 103 (1854); Newb. P. 
 JR. R. Bep. vi. p. 104 (1857); Cab. $ Gundl. J.f O. 1857, p. 231 
 (Cuba); Cass. U.S. Expl. Exped. p. 345 (1858); Murray, Edinb. N 
-Phil. Joum. 1859, p. 231; Sclat P. Z. S. 1859, p. 237 (Vancouver): 
+Phil. Jour. 1859, p. 231; Sclat P. Z. S. 1859, p. 237 (Vancouver): 
 Brewer, Br. Bost. Soe. NIL vii. p. 308 (1860) (Cuba); Gundl J.f.O. 
 1862, p. 93 (Cuba) ; G. B. Gr. List Brit B. p. 209 (1863); Begl fy 
 tferbe, Orn. Eur. ii. p. 572 (1867); Cones, Key N. Am. B. p. 296 

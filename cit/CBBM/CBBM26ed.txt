@@ -10704,7 +10704,7 @@ CheckA. N. Amer. B. p. 138 (1886) ; Tacz. Orn. Pirou, iii. p. 405
 Pidgw. Man. N. Amer. B. p. 133 (1887); Cory, Auk, v. p. 48 
 (1888: West Indies); Salvin, Ibis, 1889, p. 376 (Cozumel Is.); 
 Cory,B. West Ind. p. 249 (1889) ; Scott, Auk, v. p. 18 (1889; 
-Tarpon Springs, breeding) ; Shufeldt, Joum. Comp. Med. fy 
+Tarpon Springs, breeding) ; Shufeldt, Jour. Comp. Med. fy 
 Surg. July & Oct. 1889; Scott, Auk, vii. p. 308 (1890: Dry 
 Tortugas, breeding); Cherrie, t. c. p. 337 (Costa Rica, Aug. to Oct.); 
 Toionsend, Pr. U.S. Nat. Mm. xiii. p. 135 (1890: Socorro Is.) ; 
@@ -14331,7 +14331,7 @@ France, I p. 313 (1876: Chiloango); Oust. N. Arch. Mus. (2) ii.
 Bull. p. 119 (1879: Lake Sile); Bocage, Orn. Angola, p, 446 
 (1881: Rio Bengo; Rio Coroca ; Gambos; Benguela); Sharpe 
 in Gates' Matabele-Land, App. Birds, p. 326 (1881); Shelley, Ibis, 
-1882, p. 364 (Umvuli River); Sharpe, Joum. Linn. Soc, Zool. xvii. 
+1882, p. 364 (Umvuli River); Sharpe, Jour. Linn. Soc, Zool. xvii. 
 
 p. 440 (1884: Semmio); id. ed. Layard's B. S. Afr. p. 719 
 (1884); T. Ayres, Ibis, 1886, p. 294 (Transvaal); W. Ayres, Ibis, 
@@ -20340,7 +20340,7 @@ p. 335 (1882); id. Orn. Papuasia, iii. p. 364 (1882 : pt.); Dates,
 Handb. B. Brit Burm. ii. p. 255 (1883); Blasius, J.f.O. 1884, 
 p. 219 (S.E. Borneo); Vorderm. Wat. Tijdschr. Nederl. Ind. xlvL 
 p. 23 (1886 : Borneo); id. op. eit. xlix. p. 417 (1889 : Sumatra) ; 
-Everett, Joum. Straits Branch As. Soc. 1889, p. 190; Oates, ed 
+Everett, Jour. Straits Branch As. Soc. 1889, p. 190; Oates, ed 
 Humes Wests f Eggs Ind. B. iii. p. 251 (1890). 
 Dupetor flavicollis, Heine c§* Reichen. Womenel Mus. Hein. p. 308 
 (1890: Sumatra); Sharpe, Bull. B. O. Club, v. no. xxxi. p. xiii (1895). 
@@ -22470,7 +22470,7 @@ Davison, Sir. F. vi. p. 484 (1878) ; Godwin-Austen, J. A. S. Beng.
 xlviii. p. 21 (1878); Hume, JStr. F. ix. pp. 230, 259 (1880); 
 Butler, Cat. B. 8. Bomb. Bres. p. 84 (1880: Belgium); Oates, 
 Eandb. B. Br. Burm. ii. p. 260 (1883); Butler, 8tr. F. ix. p. 435 
-(1881) ; Davidson, Joum. Bomb. Nat. Hist. 8oc. vi. p. 340 (1891); 
+(1881) ; Davidson, Jour. Bomb. Nat. Hist. 8oc. vi. p. 340 (1891); 
 Bourns % Worcester, Occ. Papers Minnes. Acad. i. p. 32 (1894: 
 Masbate; Cebu; Siquijor); Ogilvie Grant, Ibis, 1897, p. 250 
 (Samar). 
@@ -25649,7 +25649,7 @@ p . 298 (1817); Cm. Begne Anim. i. p. 481 (1817); Stephens in
 Shaw's Gen. Zool xii. p. 2 (1824); Wagl. Syst. Av. Tantalus, 
 sp.2,p. 131 (1827); Less. Traiti cTOrn. p. 582 (1831); fykes, 
 JP. Z. S. 1832, p. 160 (Deccan); Vieill Gal. Ois. ii. p. 125, 
-tab. 247 (1834); Jerd. Madr. Joum. xii. p.'202, no. 322 (1840); 
+tab. 247 (1834); Jerd. Madr. Jour. xii. p.'202, no. 322 (1840); 
 Gray, List Grail Brit Mm. p. 90 (1844: Nepal; Northern 
 Jjadia); id. Cat Mamm. etc. Nepal pres. Rodgs. p. 136 (1846); 
 id. Gen. B. iii. p. 564 (1847); Rewhenb. Grail tab. Ixxxv. 
@@ -29779,7 +29779,7 @@ Burmeist. An. Mus. Nac. Buenos Ayres, iii. entrega decimaquinta,
 p. 249 (leS8) [Patagonia]. 
 Carbo brasilianus, Spix, Av. Bras. ii. p. 83, pi. cvi. (1825). 
 Puifinus brasilianus, #/^7*. in Shaw's Gen. Zool xiii.pt. i. p. 228 (1826). 
-Plialacrocorax niger, King, Zool. Joum. iv. p. 101 (1828) ."Straits of 
+Plialacrocorax niger, King, Zool. Jour. iv. p. 101 (1828) ."Straits of 
 
 
 Magellan]. 

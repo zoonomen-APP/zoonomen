@@ -13323,7 +13323,7 @@ Indian Kingfisher, Lath. t. c. p. 631 (1782).
 Alcedo bengalensis, Gm. Si/st. Nat. i. p. 450 (1788); Vieill. N. Diet. 
 d'Hist. Nat. xix. p. 400 (1818); Sykes, P. Z. S. 1832, p. 84; 
 Kitt. Kupf. Vog. p. 22, pi. 29. fig. 2 (1832); McClell. P. Z. S. 
-1830, p. 150; Jerd. Madr. Joum. xi. p. 231 (1840); Hodys. Icon. 
+1830, p. 150; Jerd. Madr. Jour. xi. p. 231 (1840); Hodys. Icon. 
 ined. in Brit. Mus., Passeres, pi. 17. fig. 2 (no. 600) ; id. in Gray's 
 Zool. Misc. p. 82 (1844); Blyth, J.A.S.B. xv. p. 11 (1846); 
 Gray, Cat. Mamm. etc, Nepal pres. Hodys. p. 57 (1846) ; id. Gen. 
@@ -14737,7 +14737,7 @@ Valuer. Anis. p. 10 (1854); Salvad. Ann. Mus. Genov. vii. p. 052
 (1875), viii. p. 374 (1876), x. p. 300 (1877) ; id. Orn. Papuasia e 
 delle Molucche, i. p. 408 (1880) ; Meyer, Verh. z.-b. Ges. Wien, 
 
-xxxi. p. 774 (1881) ; Sharpe, Joum. Linn. Sac. xvi. p. 428 (1882); 
+xxxi. p. 774 (1881) ; Sharpe, Jour. Linn. Sac. xvi. p. 428 (1882); 
 Blasius fy Nehrh. Verh. z.-b. Ges. Wien, xxxii. p. 418 (1882); 
 Blasins, P. Z. S.1882, p.- 703 ; _ Finsch, Vog. der Siidsee, p. 8 (1834); 
 Meyer, Sitz. Abhandl. Ges. Isis Dresden, 1884, Abth. i. p. 19 ; id. 
@@ -16149,7 +16149,7 @@ Anis. p. 10 (1854); Scl. Joum, Proc, Linn. Sac, Zoul. ii. p. 156
 (1858); Gray, P. Z. S. 1859, p. 155, 1861, p. 433; Sharpe, P. Z. S. 
 1869, p. 353; id. Monogr. Alced. p. 49, pi. 15. fig. 2 (1871); 
 Salvad. Ann. Mus. Civ. Genov. is. p. 19 (1876), x. pp. 125, 300 
-(1877); Sharpe, Joum. Linn. Soc, Zool. xiii. pp. 311, 492 (1878) ; 
+(1877); Sharpe, Jour. Linn. Soc, Zool. xiii. pp. 311, 492 (1878) ; 
 Salvad. # D'Albert, Ann. Mus. Cio. Genov. xiv. p. 48 (1879) ; 
 Salvad. Orn. Papua-sia etc. i. p. 410 (1880); Sharpe, Joum, Linn. 
 Soc, Zool, xvi.p. 428 (1882); Nehrk. J.f. 0.1885, p. 31; Guillem. 
@@ -17610,7 +17610,7 @@ p. 40 (1876 : Congo); Bocage, Orn. Angola, p. 99 (1877); Nichols.
 P. Z. S. 1878, p. 131 (Abeokuta); Pek. Verh. s.-b. Ges. Wien, 
 xxxi. p. 143 (1881: Magungo); Shelley, P. Z. S. 1881, p. 568 
 (Dar-es-Salaam); Hartl. Abhandl. nat. Ver. Bremen, viii. p. 207 
-(1882: Lado); Sharpe, Joum. Linn. Soc, Zool. xvii. p. 435 (1884: 
+(1882: Lado); Sharpe, Jour. Linn. Soc, Zool. xvii. p. 435 (1884: 
 Niam-Niam); Fischer, Zeitschr. ges. Orn. i. p. 361 (1884: Nguruman); 
 Salvad. Ann. Mus. Civic. Genov. (2) i. p. 113 (1885 ; Sboa); 
 Fischer, J. f O. 1885, p. 126 (Zanzibar, Usegua, Mombasa, 
@@ -18945,7 +18945,7 @@ Dacelo gaudichaudi, S. Mull. Verli. Land- en Volkenk p. 22 (183944);
 Gray, Gen. B. \. p. 78 (1846); id. List Fissir. Brit. Mus. 
 
 p. 52 (1848),* Bp. Consp. i. p. 154 (1850); Cass. Cat. Hale. 
-Philad. Mus. p. 14 (1852); Scl. Joum. Linn. Soc. ii. p. 155 (1858); 
+Philad. Mus. p. 14 (1852); Scl. Jour. Linn. Soc. ii. p. 155 (1858); 
 Gray. P. Z.S. 1858, p. 171, 1859, p. 154; id. Cat. Mamm. $ B. 
 New'Guinea, pp. 29, 54 (1859); id. P. Z. S. 1861, p. 433; Schl. 
 Mus. Pays-Bas, Alced. p. 20 (1863, pt.); id. Vog. Nederl. hid., 
@@ -21297,7 +21297,7 @@ Alcedo senegalen>is; var. b? Bonn, et Yieill. Enc. Meth. i. p. 283
 
 (1823). 
 
--» " * Halcyon swainsonii, Smith, S. Afr. Q. Joum. p. 143 (1836) j Layard, 
+-» " * Halcyon swainsonii, Smith, S. Afr. Q. Jour. p. 143 (1836) j Layard, 
 B. S. Afr. p. 63 (1867). 
 Dacelo aetseon, Less. Traite, p. 247 (1831). 
 Halcyon rufiventer, Swains. B. W. Afr. ii. p. 101, pi. 12 (1837); Bp. 
@@ -21823,7 +21823,7 @@ p. 235; Fischer $ Reichen. t e. p.*2Zo*, iid. J.f O. 1879, p. 344
 Gumey, Ibis, 1881, p. 124; Shelley, P.Z. S. 1861, p. 5t>7 (Melindi, 
 Pansrani, Usambara Alts.); id. Ibis, 18^2. p. 244 (Uinvuli H.); 
 Bbhm, J.f.O. 1883, p. 172 (Kakoma) ; Hartl. Abhandl nat. Ver. 
-Brem. viii. p. 207 (1883: Wakkala) ; Sharpe, Joum. Linn. Soc, 
+Brem. viii. p. 207 (1883: Wakkala) ; Sharpe, Jour. Linn. Soc, 
 Zool. xvii. p. 435 (1884 : Bern Bakir) ; Fischer, Zeitschr. ges. Or a. 
 I. p. 361 (1884: Zanzibar, Pangani, Arabella, Xahvascha); id. 
 J.f. 0. 1885, p. 126 (Wapokumo-Land); Hartert, J.f. 0. 1886, 
@@ -22636,12 +22636,12 @@ Halcyon saurophaga, Gould, P. Z. S. 1843, p. 103; id. Voy. H.M.S.
 
 p. 245 (1852); Wall. Malay Arch. ii. p.*344 (1869); Gray, Hand-l. 
 B. i. p. 93, no. 1127 (1869) ; Scl P. Z. S. 1877, p. 554 (Duke of 
-York Island); Finsch, P. Z. S. 1879, p. 10; Sharpe, Joum. Linn. 
+York Island); Finsch, P. Z. S. 1879, p. 10; Sharpe, Jour. Linn. 
 Soc. xvi. Zool. p. 429 (1882: Heath Isl.); Tristr. Ibis, 1889, 
 p. 557 (Louisiade Arch.) ; Grant, P. Z. S. 1887, p. 330 (Fauro), 
 1888, p. 193. 
 Halcyon albicilla (nee Cuv.), Gray, Gen. B. i. p. 79 (1846); id. List 
-Fissir. Brit. Mus. p. 56 (1848); Sci. Joum. Proc. Linn. Soc. ii. 
+Fissir. Brit. Mus. p. 56 (1848); Sci. Jour. Proc. Linn. Soc. ii. 
 
 
 p. 156(1858).; Gray, P.Z.S. 1858, p. 190; id. Cat. Mamm. 8? 
@@ -23392,7 +23392,7 @@ c, d. <$ ad. et juy. sk. Ponape' {Br. Kubary). Museum Godenroy.
 Todirhamphus reichenbachii, Hartl. Arch. f. Nat. 1852, p. 21 (mus. 
 Dresd.). 
 Halcyon reichenbachii, Finsch.fyHartl. P. Z. S. 1868, p. 4; Gray, 
-Hand-l. B. i. p. 93, no. 1121 (1869); Finsch, Joum. Mus. Godeffr. 
+Hand-l. B. i. p. 93, no. 1121 (1869); Finsch, Jour. Mus. Godeffr. 
 
 viii. p. 11 (1875 : Pelew Isl.). 
 Halcyon cinnamoraina, pt., Sharpe, Monogr, Alced. p. 213 (1871). 
@@ -23877,10 +23877,10 @@ Austr. pi. 2. fig. 2 (1869); 6'my, HandA. B. i. p. 92, no. 1112
 
 P. Z. S. 1872, p. 89 ; ScL P. Z. S. 1873, p. 3 ; Bruggem. Xat. Ter. 
 Bremen, v. p. 54 (1876); ScL P. Z. S. 1877, p. 105; Sharpe, 
-Joum. Linn. Soc. xiii. pp. 311, 492 (1878); ScL P. Z. S. 1878, 
+Jour. Linn. Soc. xiii. pp. 311, 492 (1878); ScL P. Z. S. 1878, 
 p. 289; Ramsay, Proc. Linn. Soc. X. S. W. ii. p. 178 (1878), iii. 
 p. 261 (1878), iv. pp. 67, 97 (1879); Tristr. Ibis, 1879, pp. 181, 
-191, 438; Fimch, P. Z. S. 1879, p. 10 ; Sharpe, Joum. Linn, Soc. 
+191, 438; Fimch, P. Z. S. 1879, p. 10 ; Sharpe, Jour. Linn, Soc. 
 xiv. p. 080 (1679); ScL P. Z. S. 1879, p. 447 (Duke of York 
 Island): Finsch, Ibis, 1881, p. 535 (New Britain); SJiarpe, Jonm. 
 Linn. Soc. xvi. p. 429 (1882: East Cape); Tristr. Ibis, 1882, 
@@ -29366,7 +29366,7 @@ Orn. W.~Afr. p. 155 (1857); Gray, Uand-l B. i. p. 124, no. 7845
 Bouvier, Bull Soc. Zool. France, p. 50 (1876; Landana); Socage, 
 
 - 
-Orn. Angola, p. 129 (1877); Sharpe, Joum. Linn. Soc. xvii. p. 434 
+Orn. Angola, p. 129 (1877); Sharpe, Jour. Linn. Soc. xvii. p. 434 
 (1884); Scl P. Z. S. 1884, p. 530, pi. 45.fig. 1; Shelley, Ibis, 1885, 
 p. 310; Shelley, Ibis, 1889, p. 168; Sharpe, App. to Jameson's 
 'Bear Column/ p. 399 (1890). 
@@ -30411,7 +30411,7 @@ Buceros (Bichoceros) bicornis, Dubois, Bull. Mas. Belg. iii. p. 195
 Buceros cavatus, 
 Shaw, Gen. Zool. viii. p. 18 (1811); Mqffl. Tr. 
 Linn. Soc. xiii. p. 291 (1822); Merrem, Ersch u. Gruber, p. 285 
-(1824) ; Vig. App. Mem. Baffi. p. 666 (1830); Jerd. Madr.Joum. 
+(1824) ; Vig. App. Mem. Baffi. p. 666 (1830); Jerd. Madr.Jour. 
 
 p. 37 (1840); Blyth, J. As. Soc. Beng. xii. p. 986 (1842); Gould, 
 Cent. Birds, p. 44 (1832); Blyth, J. As. Soc. Beng. xvi. p. 993 

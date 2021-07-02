@@ -7616,7 +7616,7 @@ a. Sk. Antioquia (Salmon). Sclater Coll. (Type
 of the species.) 
 b. S ad. sk. Jerico, Antioquia, U. S. C. (Salmon). Salvin-Godman Coll, 
 8. PIPEIDEA. Type> 
-Pipraeidea, Sw. Zool. Joum. iii. p. 173 (1827) P. melanonota. 
+Pipraeidea, Sw. Zool. Jour. iii. p. 173 (1827) P. melanonota. 
 Procnopis, Bp. C. B. xxxii. p. 80 (1851), nee Cab. .. P. melanonota. 
 
 This rather widely distributed form varies slightly in different 
@@ -7810,7 +7810,7 @@ d. Jr. sk. Nairari, Bolivia (Buckley). Salvin-Godman Coll.
 10. CALLISTE. 
 Typo, 
 Calliste, Bote, Isis, 1820, p. 074 0. tricolor, 
-Aglaia, Btv. Zool. Joum. iii. p. 347 (1827) 0. tatao. 
+Aglaia, Btv. Zool. Jour. iii. p. 347 (1827) 0. tatao. 
 Calonpiza, Q. R. Gray, List of Gen. B. p. 44 (1840) 0. tricolor. 
 Gyrola, JReichenb. Av. Syst. Nat. t. lxxvii. (1850) .. C. gyrola. 
 Tatao, Bp. C. R. xxxii. p. 80 (1851) C. tatao. 
@@ -8496,7 +8496,7 @@ Calliste guttata, Sclater, P. Z. S. 1856, p. 249 ; id. Mon. Callist.
 
 1870, p.- 579; Taylor, Ibis, 1804, p. 82 (Trinidad); Lazor. Ami. 
 
-Z. N. Y. ix. p. 98 (Costa Rica) ; v. Frantz. Joum. f. O. 1809, 
+Z. N. Y. ix. p. 98 (Costa Rica) ; v. Frantz. Jour. f. O. 1809, 
 p. 298 (Costa Rica); Wt/att, Ibis, 1871, p. 325 (Ocana, Col); 
 Salvia, P. Z. S. 1870, p. 187 (Cliiriqui) ; id. Ibis, 1885, p. 209 
 (Brit. Guian.); Salv. et Godm. Biol Centr.~Am,, Ams, i. p. 207 ; 
@@ -12742,7 +12742,7 @@ Nape chestnut; belly white 5. benedict i, p. 168.
 Back black; nape chestnut 6. zena, p. 169. 
 
 1. Spindalis nigrieephala. 
-Tanagra nigrieephala, Jameson, Ed, N. Phil. Joum. xix. p. 213 
+Tanagra nigrieephala, Jameson, Ed, N. Phil. Jour. xix. p. 213 
 
 (1835); Gosse, III. B. Jam. pi. 56. 
 Spindalis bilineatus, Jard. et Selb. 111. Orn. n. s. pi. 9 (1836). 
@@ -16025,7 +16025,7 @@ Orn. p. (58; iid. Nomencl. p. 23.
 
 Tanagra martialia, Temm. Man. Analyse, p. Ixv. 
 
-Tanagra desmaresti, #w. Quart. Joum. Sc. 1826, p. 67. 
+Tanagra desmaresti, #w. Quart. Jour. Sc. 1826, p. 67. 
 
 Tachyphonus ockropygos, Cab. in Sehomb. Guian. iii. p. 668; id. Mas. 
 
@@ -16154,7 +16154,7 @@ Agelai'us coronatus, Vieill. Nouv. Diet, xxxiv. p. 535; id. Enc. Meth.
 p. 711 (ex Azara). 
 Tanagra coryphaeus, LicM. Doubl. p. 31. 
 Pyrrota coryphaeus, Bp. Consp. i. p. 23$. 
-Tachyphonus vigorsi, Sw. Quart. Joum. Sc. 1826, p. 63; Jard. III. 
+Tachyphonus vigorsi, Sw. Quart. Jour. Sc. 1826, p. 63; Jard. III. 
 Ow.pl. 36.fig. 1. 
 
 Tachyphonus coronatus, Cab. Mm. Hein. i. p. 22; Sclater, P. Z. S. 
@@ -16614,7 +16614,7 @@ p. 827 (ex Azara).
 Tanagra aiiricapilla, Spix^Av. Bras. ii. pi. Iii. p. 39; Max. Beitr. iii. 
 p. 538. 
 Muscicapa galeata, Lieht. Doubl. p. 56. 
-Tachyphonus suchii, Sw. Quart. Joum. Se. 1826, p. 66. 
+Tachyphonus suchii, Sw. Quart. Jour. Se. 1826, p. 66. 
 Trichothraupis quadricolor, Cab. Mus. Hein. i. p. 23; Sclater, P. Z. S. 
 1856, p. 117; id. Syn. Av. Tan. p. 41; id. Cat. A. B. p. 84; Pete. 
 Orn. Bras. p. 212; Berl. J.f. 0.1873, p. 244 (S. Catharina); Sri et 
@@ -19520,7 +19520,7 @@ throat and the want of the black front.
 
 a. S ad. sk. Merida (Goering). Sclater Coll. (Type of the species.) 
 24. Buarremon leucopterus. 
-Arremon leucopterus, Jard. Fdinb. N. Phil. Joum. n. s. iii. p. 92. 
+Arremon leucopterus, Jard. Fdinb. N. Phil. Jour. n. s. iii. p. 92. 
 Buarremon leucopterus, Sclater, P. Z. S. 1855, p. 214, pL 109,1856, 
 
 p. 87, et 1859, p. 138; id. Syn. Av. Tan. p. 25; id. Cat. A. B. 
@@ -25064,7 +25064,7 @@ b. <S ad. sk. California. Sclater Coll.
 c. $ ad. sk. Santa Barbara, Cal. (Henshaw). U.S. Nat. Mus. [P.J. 
 d. o* ad. sk. Stockton, Cal. (Belding). U.S. Nat. Mus. [P. j . 
 5. Agelaeus humeralis. 
-Leistes humeralis, Vig. Zool. Joum. iii. p. 442. 
+Leistes humeralis, Vig. Zool. Jour. iii. p. 442. 
 Icterus kumeralis, d'Orb. in La Sagrds Cuba, Ois. p. 91, pi. xx. 
 Agelceus liurneralis, Bp. Consp. i. p. 430; Gundl J. f. 0.1850, p. 13, 
 
@@ -25635,7 +25635,7 @@ six spotted eggs.
 1. XanthGcephalus longipes. 
 Icterus icterocephalus, Bp. Am. Orn. i. p. 27, pi. 3. figs. 1, 2 (err.). 
 Ageing us icterocephalus, Cab. Mus. Uei/i. i. p. 188. 
-Icterus xanthoceplmlus, Bp. Joum. Acad. Philad. v. p. 223 (1820). 
+Icterus xanthoceplmlus, Bp. Jour. Acad. Philad. v. p. 223 (1820). 
 Agelaius xanthocephalus, Sw. Faun. Bor.-Am. ii. p. 231 ; Cassin, Pr. 
 
 
@@ -27746,7 +27746,7 @@ x. Ad. sk. S. America.
 Purchased. 
 25. Icterus giraudi. 
 Icterus giraudii, Cassin, Br. Ac. 8c. mi 1847, p. 333,1800, p. 140 
-(R. Truando), et lb67, p. 52; id. Joum. Acad. PMlad. ser. 2, i. 
+(R. Truando), et lb67, p. 52; id. Jour. Acad. PMlad. ser. 2, i. 
 p. 138, pi. 17; Sclater, P. Z. S. 1855, p. 154 (Bogota), et 1857, 
 p. 228 (Vera Cruz); id. Cat A. B. p. 133 j id. Ibis, 1883, p. 366; 
 Scl et Sab. Ibis, 1850, p. 20 (Guatemala); iid. P. Z. & 1864, 

@@ -10729,7 +10729,7 @@ T. Bridges [C.].
 40. 
 DEffDKOPLEX. 
 Type. 
-Dendroplex, Sw. Zool Joum. iii. p. 354 (1827) D. picus. 
+Dendroplex, Sw. Zool Jour. iii. p. 354 (1827) D. picus. 
 In the two closely allied species of Dendroplex the commissure 
 and gonys are nearly perfectly straight, the bill being rather longer 
 than the head, strong and pointed. Dendroplex occurs only south 
@@ -13748,7 +13748,7 @@ Lanius meleager, Liclit. Doubl. p. 46.
 Thamnophilus maculatus, Such, Zool. Journ. i. p. 5B7, suppl. pi. 6. 
 Thamnophilus meleager, Gray, Gen. Birds, i. p. 297 ; Sclater, JEdinb. 
 
-Phil. Joum. n. s. i. p. 231; Burm. Syst. TJeb. iii. p. 91. 
+Phil. Jour. n. s. i. p. 231; Burm. Syst. TJeb. iii. p. 91. 
 Lanius maculatus, Cuv. in Mus. Par.: Puch. Arch. Mus. Par. vii. 
 
 p. 327. 
@@ -13831,7 +13831,7 @@ Salv. Ibis, 1885, p. 423 (Brit. Guiana).
 FOEMICAKIIDJiJ. 
 
 Thamnophilus fuliginosus, Gould, P. Z. S. 1837, p. 80 (Demerara); 
-Sclater, Bdinb. Phil Joum. n. s. i. p. 234 ; «?. P. Z. S.1858; p. 208 : 
+Sclater, Bdinb. Phil Jour. n. s. i. p. 234 ; «?. P. Z. S.1858; p. 208 : 
 id. Cat. A. B. p. 171; Sol et Salv. Nomencl p. 69. 
 
 Above cinereous; head crested, blackish : beneath rather clearer; 
@@ -14041,9 +14041,9 @@ Thamnophilus stagurus, Max. Beifr. iii. p. 990; Burn. Syst. Ueb.
 
 iii. p. 92 ; id. J.f. 0.1800, p. 251 (rep. Arg.). 
 Thamnophilus albiventer, Spix, A v. Bras. ii. p. 23, pi. 32. 
-Thamnophilus bicolor, Sic. ZooL Joum. ii. p. 80 (c?): id. Orn. Dr. 
+Thamnophilus bicolor, Sic. ZooL Jour. ii. p. 80 (c?): id. Orn. Dr. 
 pi. 60. * 
-Thamnophilus cinnamomeus, 8w. Zool. Joum. ii. p. 87 (g). 
+Thamnophilus cinnamomeus, 8w. Zool. Jour. ii. p. 87 (g). 
 "Thamnophilus magnus, Wied" Less. Tr. d'Orn. p. 375. 
 Lanius stagurus, Licht. JDoubl. p. 45. 
 Diallactes major, Cab. et Ilein. Mus. Hem. ii. p. 18. 
@@ -15087,9 +15087,9 @@ p. 743 ($).
 Thamnophilus pileatus, Scl. Edinb. Phil. Joiirn. n. s. i. p. 245 ($) ; 
 id. P. Z. S. 1858, p. 213; Barm. SijsU Ueb. iii. p. 95. 
 Thamnophilus maculatus, Lafr. Hev. Zool. 1853, p. 339; Sclater, 
-Fdinb. Phil. Joum. n. s. i. p. 246 ( J). 
+Fdinb. Phil. Jour. n. s. i. p. 246 ( J). 
 Thamnophilus ventralis, 
-Sclater, Edinb. Phil. Joum. n. s. i. p. 244 
+Sclater, Edinb. Phil. Jour. n. s. i. p. 244 
 (c?). 
 
 Erionotus caerulescens, Cab. et Hem. Mus. Rein. ii. p. 15. 
@@ -15187,9 +15187,9 @@ c, d. <$ $ ad.j e.<$ jr.sk. 0\apoc; Cayenne. Sclater Coll.
 36. Thanmophilus ambiguus. 
 Thamnophilus nosvius, Vieill. Nouv. Diet. iii. p. 316; id. JSnc. MStk. 
 p. 747 ; Lafr. Rev. Zool. 1853, p. 338. 
-Thamnopliilus ambiguus, Siu. Zool. Joum. ii. p. 91 (1825) ; Sclater, 
+Thamnopliilus ambiguus, Siu. Zool. Jour. ii. p. 91 (1825) ; Sclater, 
 
-Edmb. Phi. Joum. n. s. i. p. 245; id. P. Z. S. 1858, p. 213 (S.E. 
+Edmb. Phi. Jour. n. s. i. p. 245; id. P. Z. S. 1858, p. 213 (S.E. 
 
 Brazil); id. Cat. A. B. p. 173; Pelz. Orn. Bras. p. 76; Scl. 
 
@@ -15198,7 +15198,7 @@ et Salv. Nomencl. p. 70.
 Thamnophilus nigricans, Max. Beitr. iii. p. 1006 (1831); Burm, 
 
 8yst. Ueb. iii. p. 96; JEuler, J.f. 0.1867, pp. 194, 402 (Brazil). 
-Thamnophilus ferruginous, &v. Zool. Joum. ii. j. 92 (J)? 
+Thamnophilus ferruginous, &v. Zool. Jour. ii. j. 92 (J)? 
 Erionotus ambiguus, Cab. et Hein. Mus, Hein. ii. p. 15. 
 
 202 
@@ -15286,7 +15286,7 @@ Guiana).
 ITypolophus cirrhatus, Cab. et Ilein. Mm. Ilein. ii. p. 10. 
 Thanmophilus leucauchen, Scl P. Z. S. 1855, p. 18, pi. 70, et 1858, 
 
-p. 21(5; id. Edinb. Phil Joum. n. A. i. p. 241; id. Cat. A. 7>\ 
+p. 21(5; id. Edinb. Phil Jour. n. A. i. p. 241; id. Cat. A. 7>\ 
 p. 174; Scl. et Salv. Nomenel. p. 70 (?). 
 Above groy, back strongly waslied with brownish ; crested head 
 black; wings black, secondaries and coverts broadly edged with 
@@ -15474,7 +15474,7 @@ Tlmmnopliilus
 aspersiventris, Zafr, et cVOvb. Syn. Av. i. p. 10; 
 d'Orb. Voy., Ois. p. 171, pi. iv. figs. 1 c?? 2$ (err. sub nom. Thaninopliilo 
 schistaceo) ; Lafr. Eev. Zool. 1844, p. 83; Sclater, Edinb. 
-Phil. Joum. n. a. i. p. 242; id. P. Z. S. 1855, p. 148, et 1858, p. 217; 
+Phil. Jour. n. a. i. p. 242; id. P. Z. S. 1855, p. 148, et 1858, p. 217; 
 id. Oat. A. B. p. 175; Bp. Consp. i. p. 198; Scl. et Salv. Nomencl. 
 
 p. 70; iid. P. Z. S. 1879, p. 623 (Bolivia). 
@@ -15855,7 +15855,7 @@ Tlianmophilus radiatus, Spuf Av. Bras. ii. p. 24, pi. oo. fig. 2 c?,
 pi. iiS. fig. 1 2 J J#«. Orn. Bras. p. 78 (P). 
 
 Thamnophilus capistratus, La.fr. Hev. Zool. 1840, p. 226; ScL Fdinb. 
-Phil. Joum. n. s. i. p. 236; 'id. IK Z. 8.1858, p. 218 (Brazil); ill 
+Phil. Jour. n. s. i. p. 236; 'id. IK Z. 8.1858, p. 218 (Brazil); ill 
 Cat. A. B. p. 175 ; ScL et Salv. Nomencl p. 70. 
 
 Above white, with numerous black cross bands; crested head 
@@ -15888,7 +15888,7 @@ Gould Coll.
 47. Thamnophilus radiatus. 
 Batara listado, Azara, Apunt. ii. p. 19G. 
 Thanmophilus radiatus, VieilL Nouv. Diet, iii. p. 315; Scl. Edinb. 
-Fhil Joum. n. s. i. p. 237; id. P. Z. S. 1858, p. 218 j id. Cat 
+Fhil Jour. n. s. i. p. 237; id. P. Z. S. 1858, p. 218 j id. Cat 
 
 A. B. p. 175; Scl. et Salv. Nommcl p. 70; Berl. J. f. 0. 1887, 
 p. 17. 
@@ -16033,7 +16033,7 @@ Lanius palliatus, Lieht. Boubl. p. 46 (1823).
 Thaninophilus palliatus, Max. Beitr. iii. p. 1010; cFOrb. Voy., Ois. 
 
 
-p. 174; Burm. Syst. Ueb. iii. p. 99; Scl Edinb. Phil. Joum. n. s. 
+p. 174; Burm. Syst. Ueb. iii. p. 99; Scl Edinb. Phil. Jour. n. s. 
 i. p. 239; id. P. Z. S. 18-38, p. 219; id. Cat A. B. p. 17C ; Pelz. 
 Orn. Bras. p. 78; Cab. et Hem. Mas. liein. ii. p, 17; Scl. et Salu. 
 P. Z. S. 1867, p. 576 (L. Amazons); iid. Nomencl. p. 70 ; Eider, 
@@ -16043,7 +16043,7 @@ Forbes, Ibis, 1881, p. 347 (N.E. Brazil).
 Tlianmophilus lineatus, Sjrix, AD. Bras. ii. p. 24, pi. 33 (tf et $) 
 
 (1825); Tsch. Faun. Per., Aves, p. 171. 
-Thamnophilus fasciatus, Siu. Zool. Joum. ii. p. 88. 
+Thamnophilus fasciatus, Siu. Zool. Jour. ii. p. 88. 
 Thamnophilus badius, Sio, Orn. Br. pis. G5tf,66%. 
 
 
@@ -16098,8 +16098,8 @@ Sjr.sk. Sarayacu, Ecuador (Buck- Salvin-Godman Coll.
 ley). 
 
 53. Thamnophilus torquatus. 
-Tliamnophilus torquatus, Siv. Zool. Joum. ii. p. 89; Scl. JEdinb. Phil. 
-Joum. n. s. i. p. 239 ; id. P. Z. S. 18-58, p. 220 ; id. Cat. A. B. p. 176; 
+Tliamnophilus torquatus, Siv. Zool. Jour. ii. p. 89; Scl. JEdinb. Phil. 
+Jour. n. s. i. p. 239 ; id. P. Z. S. 18-58, p. 220 ; id. Cat. A. B. p. 176; 
 Peh. Orn. Bras. p. 79; Scl. et Salv, Nomencl. p. 70 ; iid. V. Z. S. 
 1879, p. 028 (Bolivia); Forbes, Ibis, 1881, p. 347 (N.E. Brazil). 
 
@@ -20547,7 +20547,7 @@ Myrmothera longipes, Vieill. Muv. Diet. xii. p. 113 ; id. Erie. Meth
 
 p. 082 (?) ; Menetr. Mem. Acad. St. Petersh. ser. vi. (Sci. Nat) t i 
 p. 474. K J ' ' 
-Drymophila longipes, &o.Zool Joum. ii. p. 152,-id. Zool. HI ser. 2, 
+Drymophila longipes, &o.Zool Jour. ii. p. 152,-id. Zool. HI ser. 2, 
 pi. 23 (hg. opt.); Bp. Comp. i. p. 201. ' 
 Myrmonax longipes, Cab. Wieym. Arch. 1847, pt. i. p. 210: Burm 
 Syst. Leo. in. p. 04. x ? 
@@ -22532,7 +22532,7 @@ B. Throat and whole body beneath barred 5. mollissima, p. 309.
 Turdus brevicaudus, Vieill Nouv. Diet. xx. p. 239: id. Enc. Mtth, 
 p. (545. 
 Myiothera campanisona, Licht. Doubl. p. 43. 
-Chanuoza meruloides, Vuj. Zool. Joum. ii. p. 305 j Jard. ot Selb. Ill 
+Chanuoza meruloides, Vuj. Zool. Jour. ii. p. 305 j Jard. ot Selb. Ill 
 Orn. i. pi. 11. 
 Myioturdus marginatus, Max. Beitr. iii. p. 1035; MSnetr. Mem. 
 

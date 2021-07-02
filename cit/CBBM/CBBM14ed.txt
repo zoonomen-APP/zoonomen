@@ -2069,7 +2069,7 @@ Tyrannus pepoaza, Vieill Nouv. Diet. xxrv. p. 91; id, Eno. Mith,
 
 
 p. 855. 
-Muscicapa tgenioptera, Bp. Joum. Ac. Phil. iv. p. 380 (1825}. 
+Muscicapa tgenioptera, Bp. Jour. Ac. Phil. iv. p. 380 (1825}. 
 Muscicapa polyglotta, Licht. Doubl. p. 54; Spix, A v. Bras. ii. p. 18, 
 pi. 24; Max. Beitr. iii. p. 862. 
 Pepoaza polyglotta, d?0rb. Voy., Ois. p. 346. 
@@ -3471,7 +3471,7 @@ p. 87; Sclater, P.Z.8. 1856, p. 296, 1857, p. 127, 1858, p. 457,
 1859, p. 438; Sclat. et Salv. Nommcl p. 43; Baird, B. N. Am. 
 p. 183; Beard, Brew, et Midgw. N. A. B. ii. p. 340; Cones, Key 
 (1884), p. 437; Midgio. Man. N. A. B. p. 336. 
-Aulanax nigricans, Cab. Joum. f. Orn. 1856, p. 2; Cab. et Hem. 
+Aulanax nigricans, Cab. Jour. f. Orn. 1856, p. 2; Cab. et Hem. 
 Mus. Hem. ii. p. 68. 
 Muscicapa semi-atra, Vig. Zool BeecheyU Voy. p. 17. 
 
@@ -4218,7 +4218,7 @@ Blechropus cristatus, 8io. Nat. Lib)'., Mycatch, p. 99, pi. 7.
 Cnipolegus comatus, Bp.Consp. i. p. 195; lump, Jown. f. Orn. ISrtf, 
 
 
-p. 29; Burm. Syst. Ueb. ii. p. 513; Heine, Joum. /. Orn. 1859, 
+p. 29; Burm. Syst. Ueb. ii. p. 513; Heine, Jour. /. Orn. 1859, 
 p. 330 ; Cab. et Eein. Mm. Hein. ii. p. 40 ; Scl Cat. A. B. p. 202; 
 Befo. Orn. Bras. p. 98; Scl. et Salv. Nomencl. p. 43 ; Bed. et Jher. 
 Zeitschr. Orn. 1885, p. 128 (Rio Grande do Sul). 
@@ -4657,8 +4657,8 @@ S.E. Brazil.
 Muscicapa vetula, Licht. Doubl. p. 53; Spix, Av. Bras. ii. p. 13, 
 
 pi. 18. 
-Muscicapa pullata, Bp. Joum. Acad. Philad. iv, p. 383. 
-Tyrannus longipes, Sw. Quart. Joum. So. xx. p. 283. 
+Muscicapa pullata, Bp. Jour. Acad. Philad. iv, p. 383. 
+Tyrannus longipes, Sw. Quart. Jour. So. xx. p. 283. 
 Milvulus longipennis, Jard. et Selb. 111. Orn. pi. 42; Sw. Class. Birds, 
 
 ii. p. 225. 
@@ -6727,7 +6727,7 @@ Muscicapa gularis, Temm. PL Col. 167.fig. 1.
 
 Todirostmm gulare, d'Orb. et Lafr. Syn. Av. i. p. 46; d'Orb. Voy., 
 Ois. p. 315 ; Bp. Consp. i. p. 183; Sclater, P. Z. S. 1857, p. 84. 
-Todirostmm rufilatum, Earth Joum. f. Orn. 1855» p. 98 • Sclater, 
+Todirostmm rufilatum, Earth Jour. f. Orn. 1855» p. 98 • Sclater, 
 
 
 P. Z. S. 1857, p. 84. 
@@ -13154,7 +13154,7 @@ d, Tail-end brown.
 
 1. Pitangus derbianus. 
 Tyrannus sulphuratus, Sw. Phil Mag. 1827, i. p. 368 (Mexico). 
-Saurophagus sulphuratus, Gambel, Joum. Acad. Philad. ser. 2, i. p. 39. 
+Saurophagus sulphuratus, Gambel, Jour. Acad. Philad. ser. 2, i. p. 39. 
 Saurophagus derbianus, Kaup, P. Z. S. 1851, p. 44; Cab, et Hein. 
 
 Mus. Hein. ii. p. 02. 
@@ -13839,7 +13839,7 @@ Le Gobe-niouche tachete" de Cayenne, Daiib. PI Enl 453.fig. 2.
 Muscicapa audax, Gm. 8. JSf. i. p. 934. 
 Tyrannus audax, Vieill Enc. Meth. p. 846. 
 Scaphorhynchus audax, Cab. in Schomb. Ouian. iii. p. G99. 
-Megarhynckus audax, Hein. Joum. f. Orn. 1859, p. 342. 
+Megarhynckus audax, Hein. Jour. f. Orn. 1859, p. 342. 
 Myiodynastes audax, Sclater, P. Z. S. 1859, p. 45; id. Cat. A. B. 
 
 
@@ -14150,7 +14150,7 @@ extends from Mexico to Paraguay.
 1. Megarhynchus pitangua. 
 Tyranmis brasiliensis, Briss. Orn. ii. p. 402. 
 Lanius pitangua, Linn. /SI TV. i. p. 136. 
-Tyrannus pitangua, 8w. Quart Joum. 8c. xx. p. 570. 
+Tyrannus pitangua, 8w. Quart Jour. 8c. xx. p. 570. 
 
 
 * Vide Heine, J. f. 0.1859, p. 337. 
@@ -20090,7 +20090,7 @@ c. Ad. sk. Ecuador.
 Salvin-Godman Coll. 
 5. Tyrannus crassirostris. 
 Tvrannus 
-crassirostris, Sio. Quart. Joum. So. xx. p. 278 • id Phil 
+crassirostris, Sio. Quart. Jour. So. xx. p. 278 • id Phil 
 "Mag. 1827. i. p. 368 ; ScL Ibis, 1859, p. 439 ; id. P. Z. S. 1862* p. 19 
 
 (W. Mexico) ; id. Cat. A. B. p. 236; JScl et Salv. Ibis, 18(50, 
@@ -20271,7 +20271,7 @@ Bryant, P. P. S. N. IT. xi. p. 66 (Bahamas); Oundl. J. f. O.
 
 N. M. i. p. 469; id. Man. N. A. B. p. 328. 
 Melittarchus magnirostris, 
-Cab. Joum. f. Orn. 1855, p. 477; Cab. et 
+Cab. Jour. f. Orn. 1855, p. 477; Cab. et 
 FLein. Mus. Sein. ii. p. 80. 
 
 Above brownish grey, head blackish, with a concealed vertical 
@@ -20719,7 +20719,7 @@ Tyrannus violentus, Vieill. Nouv. Bict. xxxv. p. 89; id. Ene. Meth.
 p. 854 (ex Azara, no. 190); Burm. Sijst. TJeb. ii. p. 467; id. La-
 Plata Beise, ii. p. 453; id. J. f. O. 1860, p. 245 (La Plata); 
 Sternberg, J.f O. 1869, pp. 131, 258. 
-Muscicapa violenta, Bp. Joum. Ac. Phil. iv. p. 378 (1825). 
+Muscicapa violenta, Bp. Jour. Ac. Phil. iv. p. 378 (1825). 
 Tyrannus tyrannus, d'Orb. Voy., Ois. p. 310. 
 Milvulus violentus, Bp. Consp. i. p. 191; Cab. et Hein. Mus. Hein. 
 
@@ -30209,7 +30209,7 @@ Bracliyurus, Thunb. Vet. Akad.Handl. 1821, p. 370.. P. brachyura.
 Citta, Wagl. Sijst. Av., gen. Corvus (1827) (nee Boie, 
 
 1826) P. brachyura. 
-Paludicola, Hodgs. Joum. As. Soc. Beng. vi. p. 103 
+Paludicola, Hodgs. Jour. As. Soc. Beng. vi. p. 103 
 
 H 837) P- nipalensis. 
 Kjdj:omi8[Blgth,Jouni'As.Soc. Beng. xii. p. 960(1843) P. nipalensis. 
@@ -32402,7 +32402,7 @@ iii. p. 189, et iv. pp. 15,16; Wallace, Ibis, 1864, pp. 102,105,106;
 XAlbertis, P. Z. S. 1875, p. 531; id. Ann. Mus. Civ. Genov. vii. 
 p. 798; Salvad. Ann. Mus. Civ. Genov. vii. p> 777, viii. p. 398, 
 ix. p. 37, x. p. 128, xvi.p. 184; id. Orn. Bap. ii. p. 380 ; Salvad. et 
-d'Alb. Ann. Mus. Civ. Genov. xiv. p. 84; Sharpe, Joum. Linn. Soc, 
+d'Alb. Ann. Mus. Civ. Genov. xiv. p. 84; Sharpe, Jour. Linn. Soc, 
 Zool xiii. p. 315, xiv. p. 687; Ramsay, Broc. Linn. Soc. N. S. W. 
 iii. p. 277, iv. p. 98; Gould, B. New Guinea, pt. iv. pi. 1; Guillem. 
 P. Z. S.1885, p. 643 (Mysol, Salwatti, Batanta). 

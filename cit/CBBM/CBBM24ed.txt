@@ -5498,10 +5498,10 @@ Str. F. vii. p. 88 (1878) ; Ball, t. o. p. 226; Cripps, t. e. p. 299;
 Hume, t.c. p. 482; Butler, Cat B. 8. Bomb. Pres. p. 72 (1880); 
 Gates, Handb. B. Burm. ii. p. 363 (1883); Hume, Str. F. xl p. 312 
 (1888); Seebohm, Geogr. Distr. Charadr. p. 264 (1888); Oates, 
-ed. Hume's Nests <§* Eggs, iii. p. 320 (1890); Barnes, Joum. Bomb. 
+ed. Hume's Nests <§* Eggs, iii. p. 320 (1890); Barnes, Jour. Bomb. 
 Nat. Hist. Soc. iii. p. 205, iv. pp. 2, 83, 237, v. pp. 1, 97, 315, vi. 
 pp. 1, 29. 
-Glareola orientalis (nee Leach), Jerd. Madr. Joum. xii. p. 215 
+Glareola orientalis (nee Leach), Jerd. Madr. Jour. xii. p. 215 
 (1840). 
 Glareola nipalensis vel cinerascens, Hodgs. Leon. ined. in Brit. Mus, 
 Grallce, pi. 45 (no. 658); id. m Gray's Zool. Misc. p. 86 (1844). 
@@ -7878,7 +7878,7 @@ p. 348 (Gt. Liakoff Isl., June) ; id. Geogr. I)istr. Charadr. p. 410s
 97 
 
 p. 492 (Barbados, Aug., Sept.); Pleske, Mem. Acad. Imp, St. 
-Petersb. (7) xxxvi. p. 50 (1888: Tsckinas, Sept.); Everett, Joum. 
+Petersb. (7) xxxvi. p. 50 (1888: Tsckinas, Sept.); Everett, Jour. 
 Straits Branch Asiat. Soc. 1889, p. 205; id. P. Z. S. 1889, p. 225 
 (Palawan); Milne-Edwards fy Oust. N. Arch. Mus. (2) x. p, 288 
 (1889 : Anjouan Isl.); Saunders, Man. p. 541 (1889); Gkjl. Amf. 
@@ -10741,7 +10741,7 @@ d'Om. p. 546 (1831).
 Charadrius myops, Less. TraiU d'Om. p. 546 (1831); Pucher. Rev. 
 Zool. 1851, p. 570. 
 Vanellus bilobus, Sykes, P. Z. S. 1832. p. 166 (Deccan); Jerd. Madr. 
-Joum. xii. p. 213 (1840 : India generally). 
+Jour. xii. p. 213 (1840 : India generally). 
 
 Sarciophoms 
 bilobus, Strickl. P. Z. & 1841, p. 33; Gray, List 
@@ -18367,7 +18367,7 @@ Finsch $ Marti. Vog. Ostafr. p. 648 (1870); Gray, Haud-l. B. iii.
 p. 14, no. 9993 (1871); Marti. # Finsch, P. Z. S. 1872, p. 89; 
 Meugl. Orn. N.O.-Afr. ii. pt. 1, p. 1020, pi. xxxiv. fig. 3 (1873 : 
 Egypt, winter; Red Sea, Gulf of Aden, July to Nov.); Finsch, 
-Joum. Mus. Godeffr. viii. p. 31 (1875: Pelew Is.); Bosenb. 
+Jour. Mus. Godeffr. viii. p. 31 (1875: Pelew Is.); Bosenb. 
 Beistocht. Geelvinkb. p. 9 (1875); Marti. Ibis, 1877, p. 335; id. 
 Voq. Madag. p. 286 (1877) ; Bosenb. Malay. Arch. pp. 277, 324, 
 407, 563 (1878-79: New Guinea; Mysol); Danf. Ibis, 1880, 
@@ -20313,7 +20313,7 @@ Podasocys, Coues, Proc. Philad. Acad. 1866, p. 96 .... P. montanus.
 Range. Western States of North America, from Montana to 
 Mexico. 
 1, Podasocys montanus. 
-Charadrius montanus, Towns. Joum. Acad. Philad. vii. p. 192 (1837: 
+Charadrius montanus, Towns. Jour. Acad. Philad. vii. p. 192 (1837: 
 Central tableland of Rockv Mountains); Audub. B. Amer. pi. 350; 
 id. Orn. Biogr. iv. p. 362 (1838); id. B. Amer. 8vo, v. p. 21;), 
 pi. 318 (1842); Gray, Gen. B. iii. p. 544 (1847) ; id. Hand-L B. 
@@ -23144,7 +23144,7 @@ jEgialitis yemm, Siui?ih. P. Z $. 1870, p. 139; Wald. Trans. Zool.
 Ileyer, Ibis, 1879. p. 141 (Linibotto, July); Torderm. Xat. Tijdn-hr. 
 Kederllnd. xliv. p. 204 (1884: Java);' Guillem. P. Z. S. 1885, 
 
-p. 417 ; Everett. Joum. Straits Branch As. Soc. 1689, p. 205; 
+p. 417 ; Everett. Jour. Straits Branch As. Soc. 1689, p. 205; 
 Vorderm. Nat. lijdschr. Nederl.Ind. xlix. p. 415 (1889: Sumatra); 
 Whitehead, Ibis, 1890, p. bS (Palawan, resident); Steere, List 
 Birds fy Mamm. Biped. Philipp. p. 25 (1890: Mindanao : Siquijor ; 
@@ -25287,7 +25287,7 @@ Charadr. p. 138 (1888); Forth, Nests $ Er/gs Austr. B. p. 304
 Cumberland, N.S.W.); Cox $ Hamilton, op. cit. (2) iy. p. 419 
 (1890: Mudgee District): North, t. c. p. 1025 (Kaeburne, N.W. 
 Australia); Legge, Proe. Austr. Assoc. 1892, p. 39. 
-Charadrius russatus, Jerd. Madr. Joum. xii. p. 213 (1840: Madras). 
+Charadrius russatus, Jerd. Madr. Jour. xii. p. 213 (1840: Madras). 
 
 Hiaticula nigrifrons, 
 Gray, List Grail. Brit Mus. p. 71 (1844); 
@@ -30146,7 +30146,7 @@ Ibis, 1873, p. 317 (S. Andamans); Dresser, B. Fur. viii. p. 245
 (1873, pt.); Tacz. J.f O. 1873, p. 103 (E. Siberia); Salvad. Ucc. 
 Bom. p. 333 (1874); Hume, Str. F. ii. p. 297 (1874: Andamans 
 and Nicobars); Wald. Tr. Z. S. ix. p. 232 (1875 : Cujo Isl., Dec.) ; 
-Finsch, Joum. Mus. Godeffr. Heft 8, p. 35 (1875); Bosenb. Beist. 
+Finsch, Jour. Mus. Godeffr. Heft 8, p. 35 (1875); Bosenb. Beist. 
 naar Geehirikh. p. 8 (1875); Annstrong, Str. F. iv. p. 341 (1876: 
 Rangoon R.); Tacz. Bull. Soc. Zool. France, i. p. 254 (1876); 
 David $ Oust. Ois. Chine, p. 457 (1877); Tweedd. P. Z. S. 1877, 
@@ -30169,7 +30169,7 @@ Grail. Brit. Mus. p. 94 (1844: Port Essington); id. Gen. B. iii.
 
 p. 569 (1847); Gould, B. Austr. vi. pi. 43 (1848) ; Macgill. Narr. 
 Voy. < Battlesnake; ii. p. 358 (1852); Bp. C. B. xliii. p. 597 
-(1856); Scl. Joum. Linn. Soc. ii. p. 170 (1858); Gray, P. Z. S. 
+(1856); Scl. Jour. Linn. Soc. ii. p. 170 (1858); Gray, P. Z. S. 
 1858, pp. 188, 197 (Aru Islands); id. Cat. B. Netv Guinea, p. 182 
 (1859); id. P Z. S. 1861, p. 438 (New Guinea); Swinh. Ibis, 
 1863, p. 409 (Formosa); Wall. P. Z. S. 1863, p. 35 (Bouru) ; 
@@ -31890,7 +31890,7 @@ xlvi. p. 22 (1886: Borneo); Hume, Sir. F. xi. p. 322 (1888:
 CHA.KAJDRIIDJS. 
 
 Manipur); Ramsay, Tab. List Austr. B. p. 20 (1880: Port Darwin; 
-Port Essington ; N. S. W.); Everett, Joum. Straits Branch 
+Port Essington ; N. S. W.); Everett, Jour. Straits Branch 
 As.Soc. 1889, p. 209 (Pontianak); Styan, Ibis, 1891, p. 331 (Lower 
 Yangt&e), p. 507 (Shanghai) ; Be La louche, Ibis, 1892, p. 500 
 (Swatow, Jan.; Poochow, Aug., Sept.); Styan, Ibis, 1893, p. 437 
@@ -33356,7 +33356,7 @@ Ereunetes semipalmatus (nee Gm.)f Seebohm, Hist. Brit. B» iii. p. 169
 (1885). 
 Ereunetes 
 taczanowskii, Seebohm, Geogr* Distr. Cliaradr. p. 399 
-(1888); Fverett, Joum. Straits Branch Asiat, Soc. 1889, p. 209 
+(1888); Fverett, Jour. Straits Branch Asiat, Soc. 1889, p. 209 
 (Pontianak). 
 
 Adult in winter jplumage* Similar to M. griseus, but with tbe 
@@ -35458,7 +35458,7 @@ p. 357 (1888); Ramsay, Tab. List Amtr. B. p. 20 (1888) ;
 Reichen. J.f.O. 1889, p. 267 (Quilimane, Jan.); Lilford, Ibis, 
 1889, p. 341 (Cyprus, Jan.); Reichen. Syst. Verz. Toy. DeutschL 
 p. 48 (1889); Vorderm. Nat. Tijdschr. Kederl Ltd. xlix. p. 416 
-(1889: Sumatra); Everett, Joum. Straits Branch As. Soc. 1889, 
+(1889: Sumatra); Everett, Jour. Straits Branch As. Soc. 1889, 
 p. 208 (Tabanio); Gigl. Avif. Ital., 1st Resoe. p. 601 118S9), 2nd 
 Resoe. p. 662 (1890), 3rd Resoe. p. 517 (1891); Seebohm, B. Japan. 
 Emp.ip. 322 (1890); Brusina, Moir. etc. (Orn. Croat ifa), p. 90 
@@ -53224,7 +53224,7 @@ Scolopax alpina (nee £.), Fall Zoogr. Foss.-Asiat ii. p. 176, pL
 (1811). 
 Tringa variabilis [nee Meyer u. Wolf), Sabine, Suppl. Barry's 1st "Fey* 
 
-p. cc (1819); id. in Franhl Joum. p. 686 (1823); Fichard&on in 
+p. cc (1819); id. in Franhl Jour. p. 686 (1823); Fichard&on in 
 Barry's 2nd Yoy. p. 353 (1824); Temm. $ Schl Faun, Jap. p. 108 
 (1847) ; Dyb. J.f. 0.1868, p, 337 (Darasun). 
 68. PELIDNA. 
@@ -54278,7 +54278,7 @@ Bull. Soc. Zool. France, x. p. 475 (1885); Guillem. P. Z. S. 1885,
 
 p. 417 (Silam) j Swinh. «$• Barnes, Ibis, 1885, p. 133 (Mhow 
 distr.); Seebohm, Ibis, 1886. p. 132: Tacz. P. Z. S. 18S7, p. 811 
-(Corea), 1888, p. 468; Everett, Joum. Straits Branch As. Soc. 
+(Corea), 1888, p. 468; Everett, Jour. Straits Branch As. Soc. 
 1889, p. 206 j Styan, Ibis, 1891, pp. 330, 504 (Lower YangtseJ; 
 Sharpe, Sci. Pes. hid York. Miss., Aves, p. 144 (1891 : E. of 
 Taaksi, Sept.; Leh, Aug.); Be La louche, Ibis, 1892, p. 498 
@@ -59924,7 +59924,7 @@ p. 679 (1884); Fischer, J. f. O. 1885, p. 116 (Pangani R.); Salvad.
 Ann. Mus. Genov. (2) vi. p. 312 (1888: Shoa); Shelley, Ibis, 1888, 
 p. 306 (Jipi, breeding); Hume, Sir. F. xi. p. 322 (1888: Manipur); 
 Seebohm, Geogr. Listr. Charadr. p. 456 (1888); Reichen. J.f O. 
-1889, p. 267 (Zanzibar) ; Everett, Joum. Straits Branch As. Soc. 
+1889, p. 267 (Zanzibar) ; Everett, Jour. Straits Branch As. Soc. 
 1889, p. 206 (Borneo); Heine fy Reichen. Nomencl Musi Hein. 
 n. 330 (1890: Senaar); Oates, ed. Hume's Nests $ Eggs. Ind. B. 
 iii. p. 350 (1890); Seebohm, B. Japan. Emp. p. 340 (1890); Styan, 
@@ -60642,7 +60642,7 @@ pi. 18 (1831); Tschudi $ Cab. Faun. Peruan., Aves, pp. 52, 300
 (1845-46); Reichenb. Grail tab. lxxi. figs. 550-51 (1850) ; Licht. 
 Nomencl Av. Mus. Berol. p. 93 (1854: Montevideo). 
 
-Rhynchaea occiderttalis, King, Zool. Joum. iv. p. 94 (1829). 
+Rhynchaea occiderttalis, King, Zool. Jour. iv. p. 94 (1829). 
 Rhynchaaa semicollaris, Gould in Darwin's Voy. i Beagle] Birds, 
 
 p. 131 (1841: Rio Plata); Fraser, P.Z.S. 18*43, p. 118 (Chili); 

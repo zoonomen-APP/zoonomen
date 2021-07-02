@@ -2846,7 +2846,7 @@ v. p. 127 (1839): D'Orbigny, in Sagra's N. E. Cuba, p. 215
 2nd ed. 4we pte. p. 460 (1840) ; Naum. Vb'g. Deutschl x. p. 38, 
 pi. 249 (1840); Keys. $ Bias. Wirb. Fur. pp. xcviii & 247 (1840); 
 Nordm. in JDSmid. Voy. Russ. MSrid. iii. p. 278 (1840); Jerdon, 
-Madr. Joum. xii. p. 224 (1840); Selys-Longch. Faun. Belg. p. 149 
+Madr. Jour. xii. p. 224 (1840); Selys-Longch. Faun. Belg. p. 149 
 (1842) ; Muhle, Orn. Griechenl. p. 146 (1844) ; Schl. Rev. Crit. 
 p. exxx (1844); Aud. B. Amer. vii. p. 81, pi. 430 (1844); Giraud, 
 26 LAKIDJE. 
@@ -3721,7 +3721,7 @@ Tasmania, breeds); id. L\ Austr. vii. pi, 22 (1848); Reichenb.
 
 Yog. Neuholl ii. p. 9 & p. 846 (1850). 
 
-Sterna cayana, Richards. Joum. Boat-Voy. I p. 87 & p. 155 (1851: 
+Sterna cayana, Richards. Jour. Boat-Voy. I p. 87 & p. 155 (1851: 
 
 Great Slave Lake, breeds). 
 
@@ -10014,10 +10014,10 @@ Cat. B. Trop. Is. p. 59 (1859); Schlegel, Mm. F.-B., Sterna, p. 27
 pi. xiii. fig. 3 (1867: McKean's Is.); Hartl. P. Z. S. 1867. p. 831 
 (Pelew Is.) ; Hartl # Finsch, op. cit. 1868, pp. 4, 9, & 118 : Scl 
 op. cit. 1869, p. 124 (Solomon Is.) ; Hartl. $ Finsch, op. cit. 1872, 
-pp. 90 & 113 (Pelew and Mackenzie Is.); Finsch, Joum. Mus, 
+pp. 90 & 113 (Pelew and Mackenzie Is.); Finsch, Jour. Mus, 
 Godeffr. Hft. viii. p. 41 (1875: Pelew Is.); Rosenb. Reistocht. 
 Geelvinhb. p. 9 (1875); Layard, Ibis, 1876, p. 393 (Fiji Is.); 
-Saunders, P. Z. S. 1876, p. 665 (revision): id. Joum. Linn. Soc. xiv. 
+Saunders, P. Z. S. 1876, p. 665 (revision): id. Jour. Linn. Soc. xiv. 
 
 p. 404 (1878 : distribution); Tnstr. Ibis, 1882, p. 144 (Solomon 
 Is.); Stejn. Pr. U.S. Nat. Mus. xii. p. 379 (1889: Kaui I.) ; 
@@ -10639,14 +10639,14 @@ Fork. 1869, p. 582 (St. Bartholomew); Finsch $ Hartl. Viiq. Ost-
 Afr. p. 831 (1870); Melliss, Ibis, 1870, p. 106 (St. Helena); 
 Coues, Key N. Amer, B. p. 322 (1872); Hartinq, Ilandb. Brit. B. 
 p. 169 (1872); Felzeln, Ibis, 1873, p. 123 (?tyPe of Latham's 
-Sooty Tern from Dalrymple Bay); Finsch, Joum. Mus. Godeffr. 
+Sooty Tern from Dalrymple Bay); Finsch, Jour. Mus. Godeffr. 
 1876, Hft. xii. p. 39 (Fiji, &c.); Legge, Str. F. iii. p. 378 (1876); 
 Saunders, P. Z. S. 1876, p. 666 (revision); Dresser, B. Bur. yiii. 
 
 p. 307, pi 587 (1877); Merriam, B. Connecticut,^. 134 (1877: 
 live occurrences) ; Hume, Str. F. iv. (1877) p. 477 (Laccadive 
 IbL, breeding); Saunders, P. Z. S. 1877, p. 796 (A&cension & 
-Kaine Is.); id. Joum. Linn. Soc, xiv. p. 404 (1878: distribution); 
+Kaine Is.); id. Jour. Linn. Soc, xiv. p. 404 (1878: distribution); 
 E. P. Bamsay, Fr. Linn. Soc. N. S. W. 1878, p. 201; Sharps, 
 Bep. Trans. Venus (Bodriguez), Fhil. Trans, clxviii. p. 464 (1879); 
 Saunders, Bept. II.M.S. < Challenger; ii. Birds, p. 136 (1880); 
@@ -13837,7 +13837,7 @@ Croufoot, Ibis, 1885 (Norfolk I.; breeding); MacFarlane, Ibis,
 p. 23 k p. 38 (1888); Everett, B. Borneo, p. 211 (1889) ; North, 
 Nests § Fggs Austr. B. p. 376, pi. xxi fig. 5 (1889: Lord Howe 
 & Philip Is.); Wiglesic. Abh. zool. Mas. Dresd. 1890-91, no. vi. 
-p. 77 (1889: Polynesia); Ridley S,- Sharpe, Joum. Linn. Soc. xx. 
+p. 77 (1889: Polynesia); Ridley S,- Sharpe, Jour. Linn. Soc. xx. 
 p. 480 (1890: Pernando Noronha); Hartert, Kat. Togelsamml. 
 Senchenb. p. 238 (1891: Caroline Is.). 
 Anous tenuirostris, Blyth, J. A. S. Beng. xvi. p. 373 (1847); id. Cat. 
@@ -13850,7 +13850,7 @@ Bengal); Salvin, op. cit 1866, p. 200; Blyth, op. cit. 1867, p. 178;
 Beavan, t. c. p. 334: id. op. cit. 18C8, p. 405; Scl. § Sale. P. Z. S. 
 1871, p. 566 (revision); Ball, Str. F. i. p. 90 (1873: Andamans) ; 
 Coues, B. N.- West, p. 710, note (1874); Finsch $ Eartl. P. Z. S. 
-1872, p. 113 (Pelpw Is.) ; Finsch, Joum. Mus. Godeffi\ 1875, 
+1872, p. 113 (Pelpw Is.) ; Finsch, Jour. Mus. Godeffi\ 1875, 
 Hft. viii, p. 42 (Pelew Is.j ; Scl. fy Salv. Nomencl. Av. Neotrop. 
 p. 147 (1873). 
 Megalopterus tenuirostris, Peale {nee Temm., nee Bote), U.S. JExpl. 
@@ -16532,7 +16532,7 @@ pi. xxii. (O-seu-keo, Anioy); David §• Oustnlet, Ois. Chine, p. 522
 (1877); Taczan. P. Z. S. 1888, p. 453 (Corea); id. M6m. Ac. St. 
 PStersb. xxxix. p. 1045 (1893 : Sidemi, mouth of the Amoor). 
 
-Larus saunclersi, Saunders, P. Z. S. 1878, p. 205 (revision); id. Joum. 
+Larus saunclersi, Saunders, P. Z. S. 1878, p. 205 (revision); id. Jour. 
 Linn. Soc.,Zool.xiv. p. 399 (1878: distribution); Tristr. Cat. Coll.B. 
 
 p. 8 (1882 : O-su-keo [Amoy, not "Japan "]); Styan, Ibis, 1891, 
@@ -19425,7 +19425,7 @@ p. 654 (1840); Sundev. P. Z. S. 1871, p. 125 (Voy. < Eugenie ') ;
 Scl. $ 8alv. P. Z. S. 1871, p. 573 (Neotrop. Larinee); iid. Nomenel 
 Av. Neotrop. p. 148 (1873); Salvin, Tr. Zool. iSoe. ix. p. 505, 
 l. lxxxvii. (1876) ; Saunders, P. Z. S. 1878, p. 184 (revision 
-jarinse); id. Joum. Linn. Soc., Zool. xiv. p. 396 (1878 : distribution) 
+jarinse); id. Jour. Linn. Soc., Zool. xiv. p. 396 (1878 : distribution) 
 ; Ridgw. Proc. U.S. Nat. Mas. xii. p. 116 (1891). 
 Leiicopkaaus fuliginosus, Bp. Rev. Zool. 1855, p. 20 ; id. Consp. Av. 
 
@@ -26504,7 +26504,7 @@ Zool. s. s. p. 3290 (1872: Faeroes); Gould, B. GL Brit. v. pi. 78
 
 viii. p. 457, pi. 609 (1875); Irhj, Orn. Sirs. Gibr. p. 216 11873J ; 
 Saunders, P. Z. S. 1876, p. 319 (revision); Colleit, X Mag. 
-Naturv. 1877, p. 206 (N. Norway); Saunders, Joum. Linn. tin*. 
+Naturv. 1877, p. 206 (N. Norway); Saunders, Jour. Linn. tin*. 
 xiv. p. 392 (1878: distribution); Brewer, Bull Xvtt. Orn. Club, 
 1878, p. 188 (Mass.); Clarke, B. Tories, p. 84 11*31): B. O. U. 
 List Brit B. p. 194 (1883); Saunders, Ibis, 1*S4, p. 391 (S.W. 
@@ -26723,7 +26723,7 @@ R Z & 1876, p. 321 (revision); id. op. eit 1877, p. 799 (Kerguelen,
 
 T. da CEBha, Falkland Is.); Earth Orn. Madag. p. 380 (1877) ; 
 VMimf Arch. ZmL iscp. et ghi. vi. p. 52 (1877: St. Paul's I.); id. 
-t c p. 86 (Amsterdam); Saunders, Joum. Linn. Soc. xiv. p. 393 
+t c p. 86 (Amsterdam); Saunders, Jour. Linn. Soc. xiv. p. 393 
 {1878; distribution); Bmnsay, Fr. Linn. Soc. N. S. W. 1878, 
 
 n. 201; Sharps Phil. Tr. clxviii. (Rep. Trans. Venus), p. 109, 
@@ -29544,8 +29544,8 @@ Procellaria pelagica, Wils. Am. Orn. vii. p. 90, pi. 60.fig.6 (1813)
 
 Procellaria 
 oceanica, Kuhl, Beitr. p. 136 (1820), ex Banks's Icon. 
-no. 12; Bp. Joum. Ac. Phil iii. p. 233 (1823); Steph. in Shaw's 
-Gen. Zool. xiii. p. 223 (1826); Bp. Zool Joum. iii. p. 89 (1827); Schl. 
+no. 12; Bp. Jour. Ac. Phil iii. p. 233 (1823); Steph. in Shaw's 
+Gen. Zool. xiii. p. 223 (1826); Bp. Zool Jour. iii. p. 89 (1827); Schl. 
 Mus. P.-B., vi. Procell. p. 6 (1863); Pollen $ Van Dam. Faun. 
 Mad., Ois. p. 145 (1868); Gray, Hand-l. iii. p. 104 (1871); 
 Sharpe, Ibis, 1872, p. 74; id. in Bayard's Birds S. Afr. ed. 2, 
@@ -29554,8 +29554,8 @@ p. 765 (1884); Gurney, in Anderss. Birds Lamar a Land. p. 351
 (1872); Scl <$• Salv. Nomencl. Av. Neotr. p. 148 (1873); Ussher, 
 Ibis, 1874, p. 75. 
 Procellaria 
-wilsoni, Bp. Joum. Ac. Phil. iii. p. 231, pi. 9 (1823) ; id. 
-Zool. Joum. i. p. 425 (1824); id. Comp. List, p. 64(1838); Steph. 
+wilsoni, Bp. Jour. Ac. Phil. iii. p. 231, pi. 9 (1823) ; id. 
+Zool. Jour. i. p. 425 (1824); id. Comp. List, p. 64(1838); Steph. 
 in Shazo's Gen. Zool. xiii. p. 224 (1826); Nutt. Man. Water-Birds 
 
 N. Am. p. 322 (1834); And. Orn. Biogr. iii. p. 486, v. p. 645 ; 
@@ -30104,7 +30104,7 @@ d'. Entire plumage sooty-black mcestissima, p. 367.
 1. Cymodroma melanogaster. 
 ?? Procellaria fregatta, Kulil, Beitr. p. 138 (1820). 
 Procellaria grallaria, Licht. Vers. JDoubL p. 83 [fide Sharpe). 
-Procellaria oceanica, Bp. Zool.Joum. iii. p. 89 (nee Kuhl) {fide Sharpe). 
+Procellaria oceanica, Bp. Zool.Jour. iii. p. 89 (nee Kuhl) {fide Sharpe). 
 Thalassidroma melanogaster, Gould, Ann. fy Mag. N. H. 1844, xiii. 
 
 
@@ -30916,7 +30916,7 @@ TOFFINIDiE.
 
 Auk, v. p. 203 (1888) ; Butcher, Auk, v. pp. 170,173 (1888), vi. 
 
-p. 128; Maynard, Quart. Joum. Bost. Zool. Soc. iii. p. 53; Hives, 
+p. 128; Maynard, Quart. Jour. Bost. Zool. Soc. iii. p. 53; Hives, 
 Auk, v. p. 108 (1889). 
 Cinereous Puffin, Nutt. Man., Water-Birds, p. 334 (1834). 
 

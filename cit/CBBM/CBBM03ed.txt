@@ -1908,7 +1908,7 @@ Corvus peregrinus, id. i. c. p. 104.
 Corvus montanus, id. t c. p. 165. 
 Corvus nobilis, Gould, P. Z. S. 1837, p. 79 ; Gray, Hand-l JB. ii. p. 11. 
 Corvus littoralis, Holb. in Kroyerh Tidschr. iv. p. 390. 
-Corvus vociferus, Cabot, Bost. Joum. N. Sci. iv. p. 464. 
+Corvus vociferus, Cabot, Bost. Jour. N. Sci. iv. p. 464. 
 Corvus lugubris, Agass. Proc. Bost. Soc. N. H. ii. p. 188. 
 Corvus thibetanus, Hodgs. Ann. N. H (2) iii. p. 203; Horsf. $• 
 Moore, Cat. B. Mus. EL Co. ii. p. 553; Jerd. B. Ind. ii. p. '294 ; 
@@ -5172,7 +5172,7 @@ c. Ad. sk. Van Diemen's Land. J. Gould, Esq. [O.].
 15. PICA. 
 lype. 
 Pica, Briss. Orn. ii. p. 35 (1760) P. pica. 
-Cleptes, Gambel, Joum. Acad. N. Sci. Philad. 1847, p. 47 P. pica. 
+Cleptes, Gambel, Jour. Acad. N. Sci. Philad. 1847, p. 47 P. pica. 
 
 Range, Europe and Northern Asia, including the Himalayas; 
 China and Pormosa; North America. 
@@ -5203,7 +5203,7 @@ Pica melanoleuca, Vieill. N. Diet d'lli&t, Nat. xxvi. p. 121; Wagler,
 Syst. Av. Pica, sp. 1 ; Auduh, B. Amer. roy. 8vo, iv. p. 99, 
 pi. cexxvii.; Macgill. JBr. B. i. p. 562. 
 
-Corvus hudsonius, Sabine, App. JSarr. Frankl. Joum. p. 671. 
+Corvus hudsonius, Sabine, App. JSarr. Frankl. Jour. p. 671. 
 Pica albiventris, Vieill. Faun. Franc, p. 119. 
 Pica europtea, Boie, his, 1826, p. 551; Sundev. Sv. Fogl. pi. six. fig. 3. 
 Pica germanica, Brehm) Voy. JDeutschl. p. 177. 
@@ -8211,7 +8211,7 @@ Cyanurus stelleri, Swains. Faun. Bor.-Am. Birds, p. 495 ; Baird, B.
 N. Amer. p. 581 ,• Lord, Natural Vane. 1st p. 73; Dall 8f Bann. 
 Tr. Chicago Acad. i. p. 286; Gray, Hand-l. B. ii. p. 4; Cooper, 
 Orn. Calif, i. p. 298; Coues, Key N.-Amer. B. p. 165; Ridqio. Am. 
-Joum. Set. # Arts (3), v. p. 43; Baird, Brewer, # Ridqw, N.-Amer. 
+Jour. Set. # Arts (3), v. p. 43; Baird, Brewer, # Ridqw, N.-Amer. 
 B. ii. p. Wj pi 39. fig. 1 • Coues, B. N.West, p. 214.* 
 27 . CYANOCITTA. 
 Pica stelleri, Wayler, Syst Av. Pica, ap. 10. 
@@ -8369,7 +8369,7 @@ Cyanocitta coronata, St) ield. Ann N. PL 1845, p. 261 ; Cab. Mus.
 Hein. Th. i. p. 222; Sclater, Cat. Am. B. p. 142 j Scl. $ Salv. 
 
 Nomencl. Av. JSTeotr. p. 39. 
-Cyanocitta coronata, var. coronata, Ridgw. Am. Joum. v. p. 42. 
+Cyanocitta coronata, var. coronata, Ridgw. Am. Jour. v. p. 42. 
 Oyanura stelleri, var. coronata, Baird, Brewer, <$• Ridgw. N.-Amer. B. 
 
 ii. p. 272, pi. 39. %. 4; Corns, B. N.West, p. 215. 
@@ -8406,7 +8406,7 @@ Cyanocitta diademata, Sclater} Cat. Am. B. p. 143 j Sclate) Sf Salvin,
 
 N'omenel. Av. Neotr. p. 39. 
 Cyanurus diadematus, Gray, Hand-l B. ii. p. 4. 
-Oyanura coronata, var. diademata, Ridgw. Amer. Joum. (3) v. p. 42. 
+Oyanura coronata, var. diademata, Ridgw. Amer. Jour. (3) v. p. 42. 
 Oyanura stelleri, var. diademata, Baird} Brewer,ty Ridgw. N.-Amer. 
 
 B. ii. p. 272 j Cones, Key N.-Amer. B. p. 215. 
@@ -9783,7 +9783,7 @@ Hab. Western Mexico.
 
 a. Ad. sk. [Mexico.J 
 6. Xanthura beeclieii. 
-Pica beecheii, Vigors, Zool. Joum. iv. p. 353; id. in Beechey's Voyage, 
+Pica beecheii, Vigors, Zool. Jour. iv. p. 353; id. in Beechey's Voyage, 
 Birds, p. 22, pi. 6. 
 Cyanocitta crassirostris, Bp. Consp. i. p. 378. 
 
@@ -17447,7 +17447,7 @@ Lanius fingah, Shaw, Gen. Zoot. vii. p. 291.
 Dicrurus caerulesceus, Vieill. N. Diet. d?Hist. Nat. ix. p. 587; Jerd. 
 
 
-Madr. Joum. x. p. 239; Blyfh, Ann. fy Mag. Nat. Hist. xiv. p. 47; 
+Madr. Jour. x. p. 239; Blyfh, Ann. fy Mag. Nat. Hist. xiv. p. 47; 
 id. J.A.S.B. xv. p. 298; Gray, Gen. B. L p. 286; Blyth, Cat. 
 
 B. Mus. A. S. B. p. 203; Bp. Consp. I p. 351 j Horsf. # Moore, 
@@ -17814,14 +17814,14 @@ xi. p. 172.
 Edolius grandis, Gould, P. Z. S. 1830, p. 5; Blyik, J.A.S.B. xi. 
 p. 172 j Bp. Consp. i. p. 351. 
 Chibia malabaroides, Hodgs. Ind. Bei\ L p. 325. 
-Dicrurus retifer, Jerd. Madr. Joum. x. p. 241. 
+Dicrurus retifer, Jerd. Madr. Jour. x. p. 241. 
 Dicrurus rangoonensis, M'CleU. P.Z. & 1830, p. 158; Junl &• &/fa, 
 HI. Ind. Orn. iv. pi. 38. 
 Dicrurus grandis, MClell. P. Z, S. 1839, p. 15b; Gray* Gen. B»u 
 
 p. 286. 
 Edolius cristatellus, Blyih, J. A. S. B. xi. p. 171. 
-Edolius dentirostris, A. Hay, apud Jerd. Madr. Joum. u, p. 121. 
+Edolius dentirostris, A. Hay, apud Jerd. Madr. Jour. u, p. 121. 
 Edolius orissse, A. Hay, apud Jerd. I. e. 
 Dicrurus paradiseus, Gray, Gen. B. i. p. 286; 2M&. ¥m« Wmarm* 
 Yog. p. 82: Horsf. $ Moore, Cat B. Mm. RI. €k 1. p. 165; 
