@@ -8404,4 +8404,3 @@
 <li> BUCEROTIFORMES &emsp; Bucerotidae &emsp; <i> Penelopides panini</i> &emsp; (Boddaert) &ensp; 1783 &ensp; Table Planches Enlum.: 48 &ensp;  <a href="https://biodiversitylibrary.org/page/27822668 &ensp;  &ensp;  &ensp;  &ensp;  &ensp;  &ensp;  &ensp;  &ensp;  &ensp; " target="new">OD</a></li>
 <li> BUCEROTIFORMES &emsp; Bucerotidae &emsp; <i> Penelopides panini ticaensis</i> &emsp; Hachisuka &ensp; 1930 &ensp; Contrib. Birds Philip. no.2 p.169 &ensp;  &ensp;  &ensp;  &ensp;  &ensp;  &ensp;  &ensp;  &ensp;  &ensp;  &ensp; </li>
 <li> BUCEROTIFORMES &emsp; Bucerotidae &emsp; <i> Penelopides panini panini</i> &emsp; (Boddaert) &ensp; 1783 &ensp; Table Planches Enlum.: 48 &ensp;  <a href="https://biodiversitylibrary.org/page/27822668 &ensp;  &ensp;  &ensp;  &ensp;  &ensp;  &ensp;  &ensp;  &ensp;  &ensp; " target="new">OD</a></li>
-	</ul>

@@ -4,7 +4,7 @@
 	<address>Alan P. Peterson, M.D., POB 1999, Walla Walla, WA
 	99362-0999, </address>
 
-	Last updated 2021.06.27
+	Last updated 2021.07.03
 <hr>
 	</body>
 	</html>
