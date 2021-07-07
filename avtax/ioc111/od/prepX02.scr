@@ -1,0 +1,38 @@
+#2021.06.29 # modified 2021.07.06 for PODI-ACCIqqed.txt 
+#Two hand edits required. One is to reorder Musophagidae, second to delete
+#second Header line at beginning of Owls.
+##
+##
+## Initially hand edited records for Struthio and Rhea to remove od links
+## making them consistent with other genera.
+## added step to remove repeated Somateria records that lack OD links
+#STRIBUCEed.txt
+#sed '/[0-9]		/d' STRIBUCEed.txt > STRIBUCEeda.txt
+##
+## next replace tab with pipe
+sed 's/	/|/g' PODI-ACCIqqed.txt > PODI-ACCIqqeda.txt
+### this works.
+### next remove leading count number.
+cut --complement -f 1 --delimiter="|" PODI-ACCIqqeda.txt > odt099a.tmp
+### this works.
+### note that the dagger shows up now as "<86>"
+###
+### Now add leading <li>
+sed 's/^/<li> /' odt099a.tmp > odt099b.tmp
+### this works.
+### now add wide space between ORDER and Family
+sed 's/|/ \&emsp; /' odt099b.tmp > odt099c.tmp
+###
+### Add emspace and start italics for taxon
+### this works
+sed 's/|/ \&emsp; <i> /' odt099c.tmp > odt099d.tmp
+sed 's/|/<\/i> \&emsp; /' odt099d.tmp > odt099e.tmp
+sed 's/$/<\/li>/' odt099e.tmp > odt099f.tmp
+sed 's/||/ \&ensp; /' odt099f.tmp > odt099g.tmp
+sed 's/|/ \&ensp; /g' odt099g.tmp > odt099h.tmp
+sed 's/\&ensp; 1.000//' odt099h.tmp > odt099i.tmp
+sed -e '/http/s/http/ <a href="http/' odt099i.tmp > odt099j.tmp
+sed -e '/http/s/<\/li>$/" target="new">OD<\/a><\/li>/' odt099j.tmp > odt099k.tmp
+#
+#
+#
