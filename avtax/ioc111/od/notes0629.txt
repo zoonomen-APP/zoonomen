@@ -1,0 +1,11 @@
+The way to proceed will be to take additional sections and process them 
+with the prepare script.
+Then cat them with the previously completed body AND new head and tail
+I will make a body which is eveything but the
+head and tail.
+Will call it base001.txt
+NOTE:
+to remove quotes from strings containing commas this must be done before
+creating the html files..because quotes are needed in hyperlinks 
+Implying that it must be done after the first version of the spreadsheet 
+segment is taken. That is to say around the time the tabs are replaced with pipes.
