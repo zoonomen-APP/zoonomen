@@ -1,0 +1,38 @@
+#2021.06.29 
+#Two hand edits required. One is to reorder Musophagidae, second to delete
+#second Header line at beginning of Owls.
+##
+##
+## Initially hand edited records for Struthio and Rhea to remove od links
+## making them consistent with other genera.
+## added step to remove repeated Somateria records that lack OD links
+#STRIBUCEed.txt
+#sed '/[0-9]		/d' STRIBUCEed.txt > STRIBUCEeda.txt
+##
+## next replace tab with pipe
+sed 's/	/|/g' Coracqqed.txt > Coracqqeda.txt
+### this works.
+### next remove leading count number.
+cut --complement -f 1 --delimiter="|" Coracqqeda.txt > odt004a.tmp
+### this works.
+### note that the dagger shows up now as "<86>"
+###
+### Now add leading <li>
+sed 's/^/<li> /' odt004a.tmp > odt004b.tmp
+### this works.
+### now add wide space between ORDER and Family
+sed 's/|/ \&emsp; /' odt004b.tmp > odt004c.tmp
+###
+### Add emspace and start italics for taxon
+### this works
+sed 's/|/ \&emsp; <i> /' odt004c.tmp > odt004d.tmp
+sed 's/|/<\/i> \&emsp; /' odt004d.tmp > odt004e.tmp
+sed 's/$/<\/li>/' odt004e.tmp > odt004f.tmp
+sed 's/||/ \&ensp; /' odt004f.tmp > odt004g.tmp
+sed 's/|/ \&ensp; /g' odt004g.tmp > odt004h.tmp
+sed 's/\&ensp; 1.000//' odt004h.tmp > odt004i.tmp
+sed -e '/http/s/http/ <a href="http/' odt004i.tmp > odt004j.tmp
+sed -e '/http/s/<\/li>$/" target="new">OD<\/a><\/li>/' odt004j.tmp > odt004k.tmp
+#
+#
+#
