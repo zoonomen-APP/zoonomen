@@ -1,0 +1,32 @@
+ 572  cat head01.txt odt002k.tmp odt099k.tmp odt004k.tmp odt005k.tmp tail01.txt > OD0x.html
+  573  cp OD0x.html c:/zoonomen/cit/OD/OD05.html
+  574  vi head01.txt
+  575  cat head01.txt odt002k.tmp odt099k.tmp odt004k.tmp odt005k.tmp tail01.txt > OD0x.html
+  576  cp OD0x.html c:/zoonomen/cit/OD/OD05.html
+  577  ls -tr
+  578  ls odt*.*
+  579  vi Psittaciformesqqed.txt
+  580  wc Psittaciformesqqed.txt
+  581  ls pre*.*
+  582  cp prepE02.scr prepF02.scr; vi prepF02.scr
+  583  ./prepF02.scr
+  584  ls -trl
+  585  history
+  586  cat head01.txt odt002k.tmp odt099k.tmp odt004k.tmp odt005k.tmp tail01.txt > OD0x.html
+  587  cat head01.txt odt002k.tmp odt099k.tmp odt004k.tmp odt005k.tmp odt006.tmp tail01.txt > OD0x.html
+  588  ls -tr
+  589  cat head01.txt odt002k.tmp odt099k.tmp odt004k.tmp odt005k.tmp odt006k.tmp tail01.txt > OD0x.html
+  590  vi OD0x.html
+  591  vi head01.txt
+  592  cat head01.txt odt002k.tmp odt099k.tmp odt004k.tmp odt005k.tmp odt006k.tmp tail01.txt > OD0x.html
+  593  vi OD0x.html
+  594  e OD OD0x.html|wc
+  595  vi OD0x.html
+  596  history|e cp
+  597  cp OD0x.html c:/zoonomen/cit/OD/OD05.html
+  598  git status
+  599  ls -tr
+  600  git add -f not0707.txt
+  601  git add -f note0707.txt
+  602  git commit -a
+  603  history
