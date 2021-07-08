@@ -1,11 +1,11 @@
 1	ORDER	FAMILY	TAXON	AUTHORITY	YEAR	REFERENCE	URL		
-11098	PSITTACIFORMES	Strigopidae	Strigops	"Gray, GR"	1845				
-11099	PSITTACIFORMES	Strigopidae	Strigops habroptila	"Gray, GR"	1845	Gen. Birds 2: 427 pl. CV	https://biodiversitylibrary.org/page/43661631		
-11100	PSITTACIFORMES	Strigopidae	Nestor	"Lesson, R"	1830				
+11098	PSITTACIFORMES	Strigopidae	Strigops	Gray, GR	1845				
+11099	PSITTACIFORMES	Strigopidae	Strigops habroptila	Gray, GR	1845	Gen. Birds 2: 427 pl. CV	https://biodiversitylibrary.org/page/43661631		
+11100	PSITTACIFORMES	Strigopidae	Nestor	Lesson, R	1830				
 11101	PSITTACIFORMES	Strigopidae	Nestor notabilis	Gould	1856	Athenaeum 1487: 524			
-11102	PSITTACIFORMES	Strigopidae	Nestor meridionalis	"(Gmelin, JF)"	1788	Syst. Nat. (ed. 12) 1: 333	https://biodiversitylibrary.org/page/2896933		
-11103	PSITTACIFORMES	Strigopidae	Nestor meridionalis meridionalis	"(Gmelin, JF)"	1788	Syst. Nat. (ed. 12) 1: 333	https://biodiversitylibrary.org/page/2896933		
-11104	PSITTACIFORMES	Strigopidae	Nestor meridionalis septentrionalis	"Lorenz von Liburnau, L"	1896	Verh. k. k. Zool.-Bot. Ges. Wien 46: 198	https://biodiversitylibrary.org/page/13596091		
+11102	PSITTACIFORMES	Strigopidae	Nestor meridionalis	(Gmelin, JF)	1788	Syst. Nat. (ed. 12) 1: 333	https://biodiversitylibrary.org/page/2896933		
+11103	PSITTACIFORMES	Strigopidae	Nestor meridionalis meridionalis	(Gmelin, JF)	1788	Syst. Nat. (ed. 12) 1: 333	https://biodiversitylibrary.org/page/2896933		
+11104	PSITTACIFORMES	Strigopidae	Nestor meridionalis septentrionalis	Lorenz von Liburnau, L	1896	Verh. k. k. Zool.-Bot. Ges. Wien 46: 198	https://biodiversitylibrary.org/page/13596091		
 11105	PSITTACIFORMES	Strigopidae	Nestor productus  qq 	(Gould)	1836	Proc. Zool. Soc. London pt 4: 19	https://biodiversitylibrary.org/page/30570744		
 11106	PSITTACIFORMES	Cacatuidae	Nymphicus	Wagler	1832				
 11107	PSITTACIFORMES	Cacatuidae	Nymphicus hollandicus	(Kerr)	1792	Anim. Kingd. 1: 580	https://biodiversitylibrary.org/page/38664580		
@@ -14,27 +14,27 @@
 11110	PSITTACIFORMES	Cacatuidae	Calyptorhynchus banksii banksii	(Latham)	1790	Index Orn. 1: 107	https://biodiversitylibrary.org/page/53510478		
 11111	PSITTACIFORMES	Cacatuidae	Calyptorhynchus banksii naso	Gould	1837	Proc. Zool. Soc. London pt 4: 106	https://biodiversitylibrary.org/page/30570833		
 11112	PSITTACIFORMES	Cacatuidae	Calyptorhynchus banksii samueli	Mathews	1917	Birds Austr. 6: 120	https://biodiversitylibrary.org/page/53281945		
-11113	PSITTACIFORMES	Cacatuidae	Calyptorhynchus banksii graptogyne	"Schodde, Saunders, DA & Homberger"	1989	Canberra Bird Notes 13: 120	http://canberrabirds.org.au/wp-content/canberra-bird-notes/cbnvol13no4.pdf		
-11114	PSITTACIFORMES	Cacatuidae	Calyptorhynchus banksii escondidus	"Ewart, Joseph & Schodde"	2020	Heredity 125: 85-100			
+11113	PSITTACIFORMES	Cacatuidae	Calyptorhynchus banksii graptogyne	Schodde, Saunders, DA & Homberger	1989	Canberra Bird Notes 13: 120	http://canberrabirds.org.au/wp-content/canberra-bird-notes/cbnvol13no4.pdf		
+11114	PSITTACIFORMES	Cacatuidae	Calyptorhynchus banksii escondidus	Ewart, Joseph & Schodde	2020	Heredity 125: 85-100			
 11115	PSITTACIFORMES	Cacatuidae	Calyptorhynchus lathami	(Temminck)	1807	Cat. Syst. Cab. Orn. Quad.: 21			
 11116	PSITTACIFORMES	Cacatuidae	Calyptorhynchus lathami lathami	(Temminck)	1807	Cat. Syst. Cab. Orn. Quad.: 21			
 11117	PSITTACIFORMES	Cacatuidae	Calyptorhynchus lathami halmaturinus	Mathews	1912	Novit. Zool. 18: 263	https://biodiversitylibrary.org/page/3109925		
-11118	PSITTACIFORMES	Cacatuidae	Calyptorhynchus lathami erebus	"Schodde & Mason, IJ"	1993	Emu 93: 156-166	https://doi.org/10.1071/MU9930156		
+11118	PSITTACIFORMES	Cacatuidae	Calyptorhynchus lathami erebus	Schodde & Mason, IJ	1993	Emu 93: 156-166	https://doi.org/10.1071/MU9930156		
 11119	PSITTACIFORMES	Cacatuidae	Zanda	Mathews	1913				
-11120	PSITTACIFORMES	Cacatuidae	Zanda funerea	(Shaw)	1794	"Nat. Misc. 6 pl. 186, text"	https://biodiversitylibrary.org/page/44515698		
-11121	PSITTACIFORMES	Cacatuidae	Zanda funerea funerea	(Shaw)	1794	"Nat. Misc. 6 pl. 186, text"	https://biodiversitylibrary.org/page/44515698		
-11122	PSITTACIFORMES	Cacatuidae	Zanda funerea xanthanota	(Gould)	1838	"Syn. Birds Austr. pt 4 App.: 5, text"	https://biodiversitylibrary.org/page/47441775		
+11120	PSITTACIFORMES	Cacatuidae	Zanda funerea	(Shaw)	1794	Nat. Misc. 6 pl. 186, text	https://biodiversitylibrary.org/page/44515698		
+11121	PSITTACIFORMES	Cacatuidae	Zanda funerea funerea	(Shaw)	1794	Nat. Misc. 6 pl. 186, text	https://biodiversitylibrary.org/page/44515698		
+11122	PSITTACIFORMES	Cacatuidae	Zanda funerea xanthanota	(Gould)	1838	Syn. Birds Austr. pt 4 App.: 5, text	https://biodiversitylibrary.org/page/47441775		
 11123	PSITTACIFORMES	Cacatuidae	Zanda funerea whiteae	(Mathews)	1912	Austral Av. Rec. 1: 35	https://biodiversitylibrary.org/page/33339566		
 11124	PSITTACIFORMES	Cacatuidae	Zanda baudinii	(Lear)	1832	Ill. Psittac. pt 12 pl. 6	https://biodiversitylibrary.org/page/40634431		
 11125	PSITTACIFORMES	Cacatuidae	Zanda latirostris	(Carnaby)	1948	W.A. Nat. 1: 137	https://biodiversitylibrary.org/page/58882969		
 11126	PSITTACIFORMES	Cacatuidae	Probosciger	Kuhl	1820				
-11127	PSITTACIFORMES	Cacatuidae	Probosciger aterrimus	"(Gmelin, JF)"	1788	Syst. Nat. (ed. 12) 1: 330	https://biodiversitylibrary.org/page/2896930		
-11128	PSITTACIFORMES	Cacatuidae	Probosciger aterrimus aterrimus	"(Gmelin, JF)"	1788	Syst. Nat. (ed. 12) 1: 330	https://biodiversitylibrary.org/page/2896930		
+11127	PSITTACIFORMES	Cacatuidae	Probosciger aterrimus	(Gmelin, JF)	1788	Syst. Nat. (ed. 12) 1: 330	https://biodiversitylibrary.org/page/2896930		
+11128	PSITTACIFORMES	Cacatuidae	Probosciger aterrimus aterrimus	(Gmelin, JF)	1788	Syst. Nat. (ed. 12) 1: 330	https://biodiversitylibrary.org/page/2896930		
 11129	PSITTACIFORMES	Cacatuidae	Probosciger aterrimus goliath	(Kuhl)	1820	Nova Acta Acad. Caes. Leop. Carol. 10: 92	https://biodiversitylibrary.org/page/37020510		
 11130	PSITTACIFORMES	Cacatuidae	Probosciger aterrimus stenolophus	(Van Oort)	1911	Notes Leyden Mus. 33: 240	https://biodiversitylibrary.org/page/13206540		
 11131	PSITTACIFORMES	Cacatuidae	Probosciger aterrimus macgillivrayi	(Mathews)	1912	Novit. Zool. 18: 261	https://biodiversitylibrary.org/page/3109577		
-11132	PSITTACIFORMES	Cacatuidae	Callocephalon	"Lesson, R"	1837				
-11133	PSITTACIFORMES	Cacatuidae	Callocephalon fimbriatum	"(Grant, J)"	1803	Narr. Voy. Disc. NSW pl. opp.: 135			
+11132	PSITTACIFORMES	Cacatuidae	Callocephalon	Lesson, R	1837				
+11133	PSITTACIFORMES	Cacatuidae	Callocephalon fimbriatum	(Grant, J)	1803	Narr. Voy. Disc. NSW pl. opp.: 135			
 11134	PSITTACIFORMES	Cacatuidae	Eolophus	Bonaparte	1854				
 11135	PSITTACIFORMES	Cacatuidae	Eolophus roseicapilla	(Vieillot)	1817	Nouv. Dict. d'Hist. Nat. 17: 12	https://biodiversitylibrary.org/page/18054354		
 11136	PSITTACIFORMES	Cacatuidae	Eolophus roseicapilla roseicapilla	(Vieillot)	1817	Nouv. Dict. d'Hist. Nat. 17: 12	https://biodiversitylibrary.org/page/18054354		
@@ -51,26 +51,26 @@
 11147	PSITTACIFORMES	Cacatuidae	Cacatua pastinator derbyi	(Mathews)	1916	Austral Av. Rec. 3: 57	https://biodiversitylibrary.org/page/33271256		
 11148	PSITTACIFORMES	Cacatuidae	Cacatua sanguinea	Gould	1843	Proc. Zool. Soc. London pt 10: 138	https://biodiversitylibrary.org/page/30679900		
 11149	PSITTACIFORMES	Cacatuidae	Cacatua sanguinea sanguinea	Gould	1843	Proc. Zool. Soc. London pt 10: 138	https://biodiversitylibrary.org/page/30679900		
-11150	PSITTACIFORMES	Cacatuidae	Cacatua sanguinea gymnopis	"Sclater, PL"	1871	"Proc. Zool. Soc. London (1871): 490, 493, text fig."	https://biodiversitylibrary.org/page/28554358		
+11150	PSITTACIFORMES	Cacatuidae	Cacatua sanguinea gymnopis	Sclater, PL	1871	Proc. Zool. Soc. London (1871): 490, 493, text fig.	https://biodiversitylibrary.org/page/28554358		
 11151	PSITTACIFORMES	Cacatuidae	Cacatua sanguinea westralensis	(Mathews)	1917	Birds Austr. 6: 211	https://biodiversitylibrary.org/page/53282050		
 11152	PSITTACIFORMES	Cacatuidae	Cacatua sanguinea normantoni	(Mathews)	1917	Birds Austr. 6: 211	https://biodiversitylibrary.org/page/53282050		
 11153	PSITTACIFORMES	Cacatuidae	Cacatua sanguinea transfreta	Mees	1982	Zool. Verh. Leiden 191: 79	https://www.repository.naturalis.nl/document/149144		
 11154	PSITTACIFORMES	Cacatuidae	Cacatua goffiniana	Roselaar & Michels	2004	Zool. Verh. Leiden 350: 186	https://www.repository.naturalis.nl/document/43942		
 11155	PSITTACIFORMES	Cacatuidae	Cacatua ducorpsii	Pucheran	1853	Voy. Pole Sud Zool. 3 Mamm. Ois.: 108	https://biodiversitylibrary.org/page/43560989		
-11156	PSITTACIFORMES	Cacatuidae	Cacatua haematuropygia	"(Müller, PLS)"	1776	Natursyst. Suppl. 9: 77	https://biodiversitylibrary.org/page/52710030		
+11156	PSITTACIFORMES	Cacatuidae	Cacatua haematuropygia	(Müller, PLS)	1776	Natursyst. Suppl. 9: 77	https://biodiversitylibrary.org/page/52710030		
 11157	PSITTACIFORMES	Cacatuidae	Cacatua galerita	(Latham)	1790	Index Orn. 1: 109	https://biodiversitylibrary.org/page/53510480		
 11158	PSITTACIFORMES	Cacatuidae	Cacatua galerita galerita	(Latham)	1790	Index Orn. 1: 109	https://biodiversitylibrary.org/page/53510480		
-11159	PSITTACIFORMES	Cacatuidae	Cacatua galerita triton	Temminck	1849	"Coup-d'oeil Poss. Neerland. 3: 405, note"			
+11159	PSITTACIFORMES	Cacatuidae	Cacatua galerita triton	Temminck	1849	Coup-d'oeil Poss. Neerland. 3: 405, note			
 11160	PSITTACIFORMES	Cacatuidae	Cacatua galerita eleonora	Finsch	1863	Nederl. Tijdschr. Dierk. 1: XXI	https://biodiversitylibrary.org/page/12575582		
 11161	PSITTACIFORMES	Cacatuidae	Cacatua galerita fitzroyi	(Mathews)	1912	Novit. Zool. 18: 264	https://biodiversitylibrary.org/page/3109926		
-11162	PSITTACIFORMES	Cacatuidae	Cacatua ophthalmica	"Sclater, PL"	1864	Proc. Zool. Soc. London (1864): 188	https://biodiversitylibrary.org/page/28500485		
-11163	PSITTACIFORMES	Cacatuidae	Cacatua sulphurea	"(Gmelin, JF)"	1788	Syst. Nat. (ed. 12) 1: 330	https://biodiversitylibrary.org/page/2896930		
-11164	PSITTACIFORMES	Cacatuidae	Cacatua sulphurea sulphurea	"(Gmelin, JF)"	1788	Syst. Nat. (ed. 12) 1: 330	https://biodiversitylibrary.org/page/2896930		
+11162	PSITTACIFORMES	Cacatuidae	Cacatua ophthalmica	Sclater, PL	1864	Proc. Zool. Soc. London (1864): 188	https://biodiversitylibrary.org/page/28500485		
+11163	PSITTACIFORMES	Cacatuidae	Cacatua sulphurea	(Gmelin, JF)	1788	Syst. Nat. (ed. 12) 1: 330	https://biodiversitylibrary.org/page/2896930		
+11164	PSITTACIFORMES	Cacatuidae	Cacatua sulphurea sulphurea	(Gmelin, JF)	1788	Syst. Nat. (ed. 12) 1: 330	https://biodiversitylibrary.org/page/2896930		
 11165	PSITTACIFORMES	Cacatuidae	Cacatua sulphurea citrinocristata	(Fraser)	1844	Proc. Zool. Soc. London pt 12: 38	https://biodiversitylibrary.org/page/12862332		
 11166	PSITTACIFORMES	Cacatuidae	Cacatua sulphurea parvula	(Bonaparte)	1850	Compt. Rend. 30: 139	https://biodiversitylibrary.org/page/4618144		
 11167	PSITTACIFORMES	Cacatuidae	Cacatua sulphurea abbotti	(Oberholser)	1917	Proc. U.S. Natl. Mus. 54: 181	https://biodiversitylibrary.org/page/15723888		
-11168	PSITTACIFORMES	Cacatuidae	Cacatua moluccensis	"(Gmelin, JF)"	1788	Syst. Nat. (ed. 12) 1: 331	https://biodiversitylibrary.org/page/2896931		
-11169	PSITTACIFORMES	Cacatuidae	Cacatua alba	"(Müller, PLS)"	1776	Natursyst. Suppl. 9: 76	https://biodiversitylibrary.org/page/52710029		
+11168	PSITTACIFORMES	Cacatuidae	Cacatua moluccensis	(Gmelin, JF)	1788	Syst. Nat. (ed. 12) 1: 331	https://biodiversitylibrary.org/page/2896931		
+11169	PSITTACIFORMES	Cacatuidae	Cacatua alba	(Müller, PLS)	1776	Natursyst. Suppl. 9: 76	https://biodiversitylibrary.org/page/52710029		
 11170	PSITTACIFORMES	Psittacidae	Psittacus	Linnaeus	1758				
 11171	PSITTACIFORMES	Psittacidae	Psittacus erithacus	Linnaeus	1758	Syst. Nat. (ed. 10) 1: 99	https://biodiversitylibrary.org/page/727006		
 11172	PSITTACIFORMES	Psittacidae	Psittacus timneh	Fraser	1844	Proc. Zool. Soc. London pt 12: 38	https://biodiversitylibrary.org/page/12862332		
@@ -79,13 +79,13 @@
 11175	PSITTACIFORMES	Psittacidae	Poicephalus	Swainson	1837				
 11176	PSITTACIFORMES	Psittacidae	Poicephalus gulielmi	(Jardine)	1849	Contrib. Orn. 2: 64-14 pl. 28	https://biodiversitylibrary.org/page/51703083		
 11177	PSITTACIFORMES	Psittacidae	Poicephalus gulielmi gulielmi	(Jardine)	1849	Contrib. Orn. 2: 64-14 pl. 28	https://biodiversitylibrary.org/page/51703083		
-11178	PSITTACIFORMES	Psittacidae	Poicephalus gulielmi massaicus	"Fischer, GA & Reichenow"	1884	J. für Orn. (Ser. 4) 32: 179	https://biodiversitylibrary.org/page/32700109		
+11178	PSITTACIFORMES	Psittacidae	Poicephalus gulielmi massaicus	Fischer, GA & Reichenow	1884	J. für Orn. (Ser. 4) 32: 179	https://biodiversitylibrary.org/page/32700109		
 11179	PSITTACIFORMES	Psittacidae	Poicephalus gulielmi fantiensis	Neumann	1908	Novit. Zool. 15: 381	https://biodiversitylibrary.org/page/2988027		
 11180	PSITTACIFORMES	Psittacidae	Poicephalus flavifrons	(Rüppell)	1842	Mus. Senckenb. 3: 126	https://biodiversitylibrary.org/page/45886789		
 11181	PSITTACIFORMES	Psittacidae	Poicephalus fuscicollis	(Kuhl)	1820	Nova Acta Acad. Caes. Leop. Carol. 10: 93	https://biodiversitylibrary.org/page/37020511		
 11182	PSITTACIFORMES	Psittacidae	Poicephalus fuscicollis fuscicollis	(Kuhl)	1820	Nova Acta Acad. Caes. Leop. Carol. 10: 93	https://biodiversitylibrary.org/page/37020511		
 11183	PSITTACIFORMES	Psittacidae	Poicephalus fuscicollis suahelicus	Reichenow	1898	J. für Orn. (Ser. 5) 46: 314	https://biodiversitylibrary.org/page/33428714		
-11184	PSITTACIFORMES	Psittacidae	Poicephalus robustus	"(Gmelin, JF)"	1788	Syst. Nat. (ed. 12) 1: 344	https://biodiversitylibrary.org/page/2896944		
+11184	PSITTACIFORMES	Psittacidae	Poicephalus robustus	(Gmelin, JF)	1788	Syst. Nat. (ed. 12) 1: 344	https://biodiversitylibrary.org/page/2896944		
 11185	PSITTACIFORMES	Psittacidae	Poicephalus meyeri	(Cretzschmar)	1827	Atlas Reis. nord. Afr. Vog.: 18 pl. 11	https://biodiversitylibrary.org/page/37140740		
 11186	PSITTACIFORMES	Psittacidae	Poicephalus meyeri meyeri	(Cretzschmar)	1827	Atlas Reis. nord. Afr. Vog.: 18 pl. 11	https://biodiversitylibrary.org/page/37140740		
 11187	PSITTACIFORMES	Psittacidae	Poicephalus meyeri matschiei	Neumann	1898	J. für Orn. (Ser. 5) 46: 501	https://biodiversitylibrary.org/page/33428901		
@@ -93,9 +93,9 @@
 11189	PSITTACIFORMES	Psittacidae	Poicephalus meyeri damarensis	Neumann	1898	J. für Orn. (Ser. 5) 46: 501	https://biodiversitylibrary.org/page/33428901		
 11190	PSITTACIFORMES	Psittacidae	Poicephalus meyeri transvaalensis	Neumann	1899	Orn. Monatsb. 7: 25	https://biodiversitylibrary.org/page/32584442		
 11191	PSITTACIFORMES	Psittacidae	Poicephalus meyeri saturatus	Sharpe	1901	Bull. B.O.C. 11: 67	https://biodiversitylibrary.org/page/37116537		
-11192	PSITTACIFORMES	Psittacidae	Poicephalus rueppellii	"(Gray, GR)"	1849	Proc. Zool. Soc. London pt 16: 125 pl. 5	https://biodiversitylibrary.org/page/12861991		
-11193	PSITTACIFORMES	Psittacidae	Poicephalus cryptoxanthus	"(Peters, W)"	1854	Ber. K. Preuss. Akad. Wiss. Berlin: 371	https://biodiversitylibrary.org/page/11068271		
-11194	PSITTACIFORMES	Psittacidae	Poicephalus cryptoxanthus cryptoxanthus	"(Peters, W)"	1854	Ber. K. Preuss. Akad. Wiss. Berlin: 371	https://biodiversitylibrary.org/page/11068271		
+11192	PSITTACIFORMES	Psittacidae	Poicephalus rueppellii	(Gray, GR)	1849	Proc. Zool. Soc. London pt 16: 125 pl. 5	https://biodiversitylibrary.org/page/12861991		
+11193	PSITTACIFORMES	Psittacidae	Poicephalus cryptoxanthus	(Peters, W)	1854	Ber. K. Preuss. Akad. Wiss. Berlin: 371	https://biodiversitylibrary.org/page/11068271		
+11194	PSITTACIFORMES	Psittacidae	Poicephalus cryptoxanthus cryptoxanthus	(Peters, W)	1854	Ber. K. Preuss. Akad. Wiss. Berlin: 371	https://biodiversitylibrary.org/page/11068271		
 11195	PSITTACIFORMES	Psittacidae	Poicephalus cryptoxanthus tanganyikae	Bowen	1930	Proc. Acad. Nat. Sci. Philadelphia 82: 267			
 11196	PSITTACIFORMES	Psittacidae	Poicephalus crassus	(Sharpe)	1884	J. Linn. Soc. London Zool. 17: 429	https://biodiversitylibrary.org/page/31628767		
 11197	PSITTACIFORMES	Psittacidae	Poicephalus senegalus	(Linnaeus)	1766	Syst. Nat. (ed. 12) 1: 149	https://biodiversitylibrary.org/page/445274		
@@ -104,21 +104,21 @@
 11200	PSITTACIFORMES	Psittacidae	Poicephalus rufiventris	(Rüppell)	1842	Mus. Senckenb. 3: 125	https://biodiversitylibrary.org/page/45886788		
 11201	PSITTACIFORMES	Psittacidae	Poicephalus rufiventris rufiventris	(Rüppell)	1842	Mus. Senckenb. 3: 125	https://biodiversitylibrary.org/page/45886788		
 11202	PSITTACIFORMES	Psittacidae	Poicephalus rufiventris pallidus	Van Someren	1922	Novit. Zool. 29: 47	https://biodiversitylibrary.org/page/15871060		
-11203	PSITTACIFORMES	Psittacidae	Touit	"Gray, GR"	1855				
+11203	PSITTACIFORMES	Psittacidae	Touit	Gray, GR	1855				
 11204	PSITTACIFORMES	Psittacidae	Touit batavicus	(Boddaert)	1783	Table Planches Enlum.: 49	https://biodiversitylibrary.org/page/27822669		
 11205	PSITTACIFORMES	Psittacidae	Touit huetii	(Temminck)	1830	Pl. Col. livr. 83 pl. 491			
 11206	PSITTACIFORMES	Psittacidae	Touit costaricensis	(Cory)	1913	Field Mus. Nat. Hist. Pub. Orn. Ser. 1: 283	https://biodiversitylibrary.org/page/2643283		
-11207	PSITTACIFORMES	Psittacidae	Touit dilectissimus	"(Sclater, PL & Salvin)"	1871	"Proc. Zool. Soc. London (1871): 782, 788 pl. 47"	https://biodiversitylibrary.org/page/28555674		
-11208	PSITTACIFORMES	Psittacidae	Touit purpuratus	"(Gmelin, JF)"	1788	Syst. Nat. (ed. 12) 1: 350	https://biodiversitylibrary.org/page/2896950		
-11209	PSITTACIFORMES	Psittacidae	Touit purpuratus purpuratus	"(Gmelin, JF)"	1788	Syst. Nat. (ed. 12) 1: 350	https://biodiversitylibrary.org/page/2896950		
+11207	PSITTACIFORMES	Psittacidae	Touit dilectissimus	(Sclater, PL & Salvin)	1871	Proc. Zool. Soc. London (1871): 782, 788 pl. 47	https://biodiversitylibrary.org/page/28555674		
+11208	PSITTACIFORMES	Psittacidae	Touit purpuratus	(Gmelin, JF)	1788	Syst. Nat. (ed. 12) 1: 350	https://biodiversitylibrary.org/page/2896950		
+11209	PSITTACIFORMES	Psittacidae	Touit purpuratus purpuratus	(Gmelin, JF)	1788	Syst. Nat. (ed. 12) 1: 350	https://biodiversitylibrary.org/page/2896950		
 11210	PSITTACIFORMES	Psittacidae	Touit purpuratus viridiceps	Chapman	1929	Am. Mus. Novit. 380: 10	http://hdl.handle.net/2246/3988		
-11211	PSITTACIFORMES	Psittacidae	Touit melanonotus	(Wied-Neuwied)	1820	"Reise Brasil. 1: 273, note"	https://biodiversitylibrary.org/page/45439714		
+11211	PSITTACIFORMES	Psittacidae	Touit melanonotus	(Wied-Neuwied)	1820	Reise Brasil. 1: 273, note	https://biodiversitylibrary.org/page/45439714		
 11212	PSITTACIFORMES	Psittacidae	Touit surdus	(Kuhl)	1820	Nova Acta Acad. Caes. Leop. Carol. 10: 59	https://biodiversitylibrary.org/page/37020477		
-11213	PSITTACIFORMES	Psittacidae	Touit stictopterus	"(Sclater, PL)"	1862	Proc. Zool. Soc. London (1862): 112 pl. 11	https://biodiversitylibrary.org/page/28627042		
+11213	PSITTACIFORMES	Psittacidae	Touit stictopterus	(Sclater, PL)	1862	Proc. Zool. Soc. London (1862): 112 pl. 11	https://biodiversitylibrary.org/page/28627042		
 11214	PSITTACIFORMES	Psittacidae	Psilopsiagon	Ridgway	1912				
-11215	PSITTACIFORMES	Psittacidae	Psilopsiagon aymara	(d'Orbigny)	1841	"Voy. Am. merid. 2: 376, note 1"			
-11216	PSITTACIFORMES	Psittacidae	Psilopsiagon aurifrons	"(Lesson, R)"	1831	Cent. Zool.: 63 pl. 18	https://biodiversitylibrary.org/page/28724552		
-11217	PSITTACIFORMES	Psittacidae	Psilopsiagon aurifrons aurifrons	"(Lesson, R)"	1831	Cent. Zool.: 63 pl. 18	https://biodiversitylibrary.org/page/28724552		
+11215	PSITTACIFORMES	Psittacidae	Psilopsiagon aymara	(d'Orbigny)	1841	Voy. Am. merid. 2: 376, note 1			
+11216	PSITTACIFORMES	Psittacidae	Psilopsiagon aurifrons	(Lesson, R)	1831	Cent. Zool.: 63 pl. 18	https://biodiversitylibrary.org/page/28724552		
+11217	PSITTACIFORMES	Psittacidae	Psilopsiagon aurifrons aurifrons	(Lesson, R)	1831	Cent. Zool.: 63 pl. 18	https://biodiversitylibrary.org/page/28724552		
 11218	PSITTACIFORMES	Psittacidae	Psilopsiagon aurifrons rubrirostris	(Burmeister)	1860	J. für Orn. 8: 243	https://biodiversitylibrary.org/page/14327883		
 11219	PSITTACIFORMES	Psittacidae	Psilopsiagon aurifrons robertsi	Carriker	1933	Proc. Acad. Nat. Sci. Philadelphia 85: 4			
 11220	PSITTACIFORMES	Psittacidae	Psilopsiagon aurifrons margaritae	(Berlioz & Dorst)	1956	Ois. Rev. France Orn. (n.s.) 26: 85			
@@ -130,25 +130,25 @@
 11226	PSITTACIFORMES	Psittacidae	Bolborhynchus ferrugineifrons	(Lawrence)	1880	Ibis (Ser. 4) 4: 238	https://biodiversitylibrary.org/page/31191739		
 11227	PSITTACIFORMES	Psittacidae	Nannopsittaca	Ridgway	1912				
 11228	PSITTACIFORMES	Psittacidae	Nannopsittaca panychlora	(Salvin & Godman)	1883	Ibis (Ser. 5) 1: 211 pl. 9 fig. 1	https://biodiversitylibrary.org/page/16243014		
-11229	PSITTACIFORMES	Psittacidae	Nannopsittaca dachilleae	"O'Neill, Munn & Franke"	1991	"Auk 108: 225, 226"	https://sora.unm.edu/sites/default/files/journals/auk/v108n02/p0225-p0229.pdf		
+11229	PSITTACIFORMES	Psittacidae	Nannopsittaca dachilleae	O'Neill, Munn & Franke	1991	Auk 108: 225, 226	https://sora.unm.edu/sites/default/files/journals/auk/v108n02/p0225-p0229.pdf		
 11230	PSITTACIFORMES	Psittacidae	Myiopsitta	Bonaparte	1854				
 11231	PSITTACIFORMES	Psittacidae	Myiopsitta monachus	(Boddaert)	1783	Table Planches Enlum.: 48	https://biodiversitylibrary.org/page/27822668		
 11232	PSITTACIFORMES	Psittacidae	Myiopsitta monachus monachus	(Boddaert)	1783	Table Planches Enlum.: 48	https://biodiversitylibrary.org/page/27822668		
 11233	PSITTACIFORMES	Psittacidae	Myiopsitta monachus cotorra	(Vieillot)	1818	Nouv. Dict. d'Hist. Nat. 25: 362	https://biodiversitylibrary.org/page/18044130		
-11234	PSITTACIFORMES	Psittacidae	Myiopsitta monachus calita	(Jardine & Selby)	1830	"Ill. Orn. 2 pl. 82, text [p. 61]"	https://biodiversitylibrary.org/page/39769982		
-11235	PSITTACIFORMES	Psittacidae	Myiopsitta luchsi	(Finsch)	1868	"Papageien 2: 114, 121"	https://biodiversitylibrary.org/page/33410018		
+11234	PSITTACIFORMES	Psittacidae	Myiopsitta monachus calita	(Jardine & Selby)	1830	Ill. Orn. 2 pl. 82, text [p. 61]	https://biodiversitylibrary.org/page/39769982		
+11235	PSITTACIFORMES	Psittacidae	Myiopsitta luchsi	(Finsch)	1868	Papageien 2: 114, 121	https://biodiversitylibrary.org/page/33410018		
 11236	PSITTACIFORMES	Psittacidae	Brotogeris	Vigors	1825				
-11237	PSITTACIFORMES	Psittacidae	Brotogeris sanctithomae	"(Müller, PLS)"	1776	Natursyst. Suppl. 9: 81	https://biodiversitylibrary.org/page/52710034		
-11238	PSITTACIFORMES	Psittacidae	Brotogeris sanctithomae sanctithomae	"(Müller, PLS)"	1776	Natursyst. Suppl. 9: 81	https://biodiversitylibrary.org/page/52710034		
+11237	PSITTACIFORMES	Psittacidae	Brotogeris sanctithomae	(Müller, PLS)	1776	Natursyst. Suppl. 9: 81	https://biodiversitylibrary.org/page/52710034		
+11238	PSITTACIFORMES	Psittacidae	Brotogeris sanctithomae sanctithomae	(Müller, PLS)	1776	Natursyst. Suppl. 9: 81	https://biodiversitylibrary.org/page/52710034		
 11239	PSITTACIFORMES	Psittacidae	Brotogeris sanctithomae takatsukasae	Neumann	1931	Mitt. Zool. Mus. Berlin 17 Heft 3: 442			
-11240	PSITTACIFORMES	Psittacidae	Brotogeris tirica	"(Gmelin, JF)"	1788	Syst. Nat. (ed. 12) 1: 351	https://biodiversitylibrary.org/page/2896951		
-11241	PSITTACIFORMES	Psittacidae	Brotogeris versicolurus	"(Müller, PLS)"	1776	Natursyst. Suppl. 9: 75	https://biodiversitylibrary.org/page/52710028		
+11240	PSITTACIFORMES	Psittacidae	Brotogeris tirica	(Gmelin, JF)	1788	Syst. Nat. (ed. 12) 1: 351	https://biodiversitylibrary.org/page/2896951		
+11241	PSITTACIFORMES	Psittacidae	Brotogeris versicolurus	(Müller, PLS)	1776	Natursyst. Suppl. 9: 75	https://biodiversitylibrary.org/page/52710028		
 11242	PSITTACIFORMES	Psittacidae	Brotogeris chiriri	(Vieillot)	1818	Nouv. Dict. d'Hist. Nat. 25: 359	https://biodiversitylibrary.org/page/18044127		
 11243	PSITTACIFORMES	Psittacidae	Brotogeris chiriri chiriri	(Vieillot)	1818	Nouv. Dict. d'Hist. Nat. 25: 359	https://biodiversitylibrary.org/page/18044127		
 11244	PSITTACIFORMES	Psittacidae	Brotogeris chiriri behni	Neumann	1931	Mitt. Zool. Mus. Berlin 17 Heft 3: 443			
 11245	PSITTACIFORMES	Psittacidae	Brotogeris pyrrhoptera	(Latham)	1801	Suppl. ind. orn.: xxii	https://biodiversitylibrary.org/page/33261396		
-11246	PSITTACIFORMES	Psittacidae	Brotogeris jugularis	"(Müller, PLS)"	1776	Natursyst. Suppl. 9: 80	https://biodiversitylibrary.org/page/52710033		
-11247	PSITTACIFORMES	Psittacidae	Brotogeris jugularis jugularis	"(Müller, PLS)"	1776	Natursyst. Suppl. 9: 80	https://biodiversitylibrary.org/page/52710033		
+11246	PSITTACIFORMES	Psittacidae	Brotogeris jugularis	(Müller, PLS)	1776	Natursyst. Suppl. 9: 80	https://biodiversitylibrary.org/page/52710033		
+11247	PSITTACIFORMES	Psittacidae	Brotogeris jugularis jugularis	(Müller, PLS)	1776	Natursyst. Suppl. 9: 80	https://biodiversitylibrary.org/page/52710033		
 11248	PSITTACIFORMES	Psittacidae	Brotogeris jugularis exsul	Todd	1917	Proc. Biol. Soc. Wash. 30: 129	https://biodiversitylibrary.org/page/3335015		
 11249	PSITTACIFORMES	Psittacidae	Brotogeris cyanoptera	(Pelzeln)	1870	Orn. Brasil. Abth. 3: 260			
 11250	PSITTACIFORMES	Psittacidae	Brotogeris cyanoptera cyanoptera	(Pelzeln)	1870	Orn. Brasil. Abth. 3: 260			
@@ -156,8 +156,8 @@
 11252	PSITTACIFORMES	Psittacidae	Brotogeris cyanoptera beniensis	Gyldenstolpe	1941	Ark. Zool. 33A (12): 9			
 11253	PSITTACIFORMES	Psittacidae	Brotogeris chrysoptera	(Linnaeus)	1766	Syst. Nat. (ed. 12) 1: 149	https://biodiversitylibrary.org/page/445274		
 11254	PSITTACIFORMES	Psittacidae	Brotogeris chrysoptera chrysoptera	(Linnaeus)	1766	Syst. Nat. (ed. 12) 1: 149	https://biodiversitylibrary.org/page/445274		
-11255	PSITTACIFORMES	Psittacidae	Brotogeris chrysoptera tuipara	"(Gmelin, JF)"	1788	Syst. Nat. (ed. 12) 1: 3548	https://biodiversitylibrary.org/page/2896948		
-11256	PSITTACIFORMES	Psittacidae	Brotogeris chrysoptera chrysosema	"Sclater, PL"	1864	Proc. Zool. Soc. London (1864): 298	https://biodiversitylibrary.org/page/28500611		
+11255	PSITTACIFORMES	Psittacidae	Brotogeris chrysoptera tuipara	(Gmelin, JF)	1788	Syst. Nat. (ed. 12) 1: 3548	https://biodiversitylibrary.org/page/2896948		
+11256	PSITTACIFORMES	Psittacidae	Brotogeris chrysoptera chrysosema	Sclater, PL	1864	Proc. Zool. Soc. London (1864): 298	https://biodiversitylibrary.org/page/28500611		
 11257	PSITTACIFORMES	Psittacidae	Brotogeris chrysoptera solimoensis	Gyldenstolpe	1941	Ark. Zool. 33A (12): 10			
 11258	PSITTACIFORMES	Psittacidae	Brotogeris chrysoptera tenuifrons	Friedmann	1945	Proc. Biol. Soc. Wash. 58: 114	https://biodiversitylibrary.org/page/34566074		
 11259	PSITTACIFORMES	Psittacidae	Pionopsitta	Bonaparte	1854				
@@ -165,29 +165,29 @@
 11261	PSITTACIFORMES	Psittacidae	Triclaria	Wagler	1832				
 11262	PSITTACIFORMES	Psittacidae	Triclaria malachitacea	(Spix)	1824	Av. Sp. Nov. Brasil. 1: 40 pl. 28	https://biodiversitylibrary.org/page/41277635		
 11263	PSITTACIFORMES	Psittacidae	Pyrilia	Bonaparte	1856				
-11264	PSITTACIFORMES	Psittacidae	Pyrilia haematotis	"(Sclater, PL & Salvin)"	1860	"Proc. Zool. Soc. London, pt 28: 300"	https://biodiversitylibrary.org/page/12866852		
-11265	PSITTACIFORMES	Psittacidae	Pyrilia haematotis haematotis	"(Sclater, PL & Salvin)"	1860	"Proc. Zool. Soc. London, pt 28: 300"	https://biodiversitylibrary.org/page/12866852		
+11264	PSITTACIFORMES	Psittacidae	Pyrilia haematotis	(Sclater, PL & Salvin)	1860	Proc. Zool. Soc. London, pt 28: 300	https://biodiversitylibrary.org/page/12866852		
+11265	PSITTACIFORMES	Psittacidae	Pyrilia haematotis haematotis	(Sclater, PL & Salvin)	1860	Proc. Zool. Soc. London, pt 28: 300	https://biodiversitylibrary.org/page/12866852		
 11266	PSITTACIFORMES	Psittacidae	Pyrilia haematotis coccinicollaris	(Lawrence)	1862	Ann. Lyc. Nat. Hist. N. Y. 7: 475	https://biodiversitylibrary.org/page/16227944		
-11267	PSITTACIFORMES	Psittacidae	Pyrilia pyrilia	(Bonaparte)	1853	"Compt. Rend. 37: 807, note"	https://biodiversitylibrary.org/page/1216907		
+11267	PSITTACIFORMES	Psittacidae	Pyrilia pyrilia	(Bonaparte)	1853	Compt. Rend. 37: 807, note	https://biodiversitylibrary.org/page/1216907		
 11268	PSITTACIFORMES	Psittacidae	Pyrilia pulchra	(Berlepsch)	1897	Orn. Monatsb. 5: 175	https://biodiversitylibrary.org/page/8749701		
 11269	PSITTACIFORMES	Psittacidae	Pyrilia barrabandi	(Kuhl)	1820	Nova Acta Acad. Caes. Leop. Carol. 10: 61	https://biodiversitylibrary.org/page/37020479		
 11270	PSITTACIFORMES	Psittacidae	Pyrilia barrabandi barrabandi	(Kuhl)	1820	Nova Acta Acad. Caes. Leop. Carol. 10: 61	https://biodiversitylibrary.org/page/37020479		
-11271	PSITTACIFORMES	Psittacidae	Pyrilia barrabandi aurantiigena	(Gyldenstolpe)	1951	"Ark. Zool. (Ser. 2) 2: 14, 67"			
+11271	PSITTACIFORMES	Psittacidae	Pyrilia barrabandi aurantiigena	(Gyldenstolpe)	1951	Ark. Zool. (Ser. 2) 2: 14, 67			
 11272	PSITTACIFORMES	Psittacidae	Pyrilia caica	(Latham)	1790	Index Orn. 1: 128 no. 137	https://biodiversitylibrary.org/page/53510499		
-11273	PSITTACIFORMES	Psittacidae	Pyrilia aurantiocephala	"(Gaban-Lima, Raposo, M & Höfling)"	2002	"Auk 119: 815, 816"	https://doi.org/10.1642/0004-8038(2002)119[0815:DOANSO]2.0.CO;2		
+11273	PSITTACIFORMES	Psittacidae	Pyrilia aurantiocephala	(Gaban-Lima, Raposo, M & Höfling)	2002	Auk 119: 815, 816	https://doi.org/10.1642/0004-8038(2002)119[0815:DOANSO]2.0.CO;2		
 11274	PSITTACIFORMES	Psittacidae	Pyrilia vulturina	(Kuhl)	1820	Nova Acta Acad. Caes. Leop. Carol. 10: 62	https://biodiversitylibrary.org/page/37020480		
 11275	PSITTACIFORMES	Psittacidae	Hapalopsittaca	Ridgway	1912				
 11276	PSITTACIFORMES	Psittacidae	Hapalopsittaca amazonina	(Des Murs)	1845	Rev. Zool. 8: 207	https://biodiversitylibrary.org/page/2327309		
 11277	PSITTACIFORMES	Psittacidae	Hapalopsittaca amazonina amazonina	(Des Murs)	1845	Rev. Zool. 8: 207	https://biodiversitylibrary.org/page/2327309		
 11278	PSITTACIFORMES	Psittacidae	Hapalopsittaca amazonina theresae	(Hellmayr)	1915	Verh. Orn. Ges. Bayern 12: 214	https://biodiversitylibrary.org/page/32643157		
-11279	PSITTACIFORMES	Psittacidae	Hapalopsittaca amazonina velezi	"Graves, GR & Restrepo"	1989	"Wilson Bull. 101: 371, front"	https://sora.unm.edu/sites/default/files/journals/wilson/v101n03/p0369-p0376.pdf		
+11279	PSITTACIFORMES	Psittacidae	Hapalopsittaca amazonina velezi	Graves, GR & Restrepo	1989	Wilson Bull. 101: 371, front	https://sora.unm.edu/sites/default/files/journals/wilson/v101n03/p0369-p0376.pdf		
 11280	PSITTACIFORMES	Psittacidae	Hapalopsittaca fuertesi	(Chapman)	1912	Bull. Am. Mus. Nat. Hist. 31: 143	http://hdl.handle.net/2246/1749		
 11281	PSITTACIFORMES	Psittacidae	Hapalopsittaca pyrrhops	(Salvin)	1876	Ibis (Ser. 3) 6: 495	https://biodiversitylibrary.org/page/8607665		
 11282	PSITTACIFORMES	Psittacidae	Hapalopsittaca melanotis	(Lafresnaye)	1847	Rev. Zool. 10: 67	https://biodiversitylibrary.org/page/2271546		
 11283	PSITTACIFORMES	Psittacidae	Hapalopsittaca melanotis melanotis	(Lafresnaye)	1847	Rev. Zool. 10: 67	https://biodiversitylibrary.org/page/2271546		
 11284	PSITTACIFORMES	Psittacidae	Hapalopsittaca melanotis peruviana	(Carriker)	1932	Proc. Acad. Nat. Sci. Philadelphia 83: 455			
 11285	PSITTACIFORMES	Psittacidae	Pionus	Wagler	1832				
-11286	PSITTACIFORMES	Psittacidae	Pionus fuscus	"(Müller, PLS)"	1776	Natursyst. Suppl. 9: 78	https://biodiversitylibrary.org/page/52710031		
+11286	PSITTACIFORMES	Psittacidae	Pionus fuscus	(Müller, PLS)	1776	Natursyst. Suppl. 9: 78	https://biodiversitylibrary.org/page/52710031		
 11287	PSITTACIFORMES	Psittacidae	Pionus sordidus	(Linnaeus)	1758	Syst. Nat. (ed. 10) 1: 99	https://biodiversitylibrary.org/page/727006		
 11288	PSITTACIFORMES	Psittacidae	Pionus sordidus sordidus	(Linnaeus)	1758	Syst. Nat. (ed. 10) 1: 99	https://biodiversitylibrary.org/page/727006		
 11289	PSITTACIFORMES	Psittacidae	Pionus sordidus corallinus	Bonaparte	1854	Rev. Mag. Zool. (Ser. 2) 6: 148	https://biodiversitylibrary.org/page/13681219		
@@ -207,12 +207,12 @@
 11303	PSITTACIFORMES	Psittacidae	Pionus menstruus rubrigularis	Cabanis	1881	J. für Orn. (Ser. 4) 29: 222	https://biodiversitylibrary.org/page/32881307		
 11304	PSITTACIFORMES	Psittacidae	Pionus menstruus reichenowi	Heine	1884	J. für Orn. (Ser. 4) 32: 264	https://biodiversitylibrary.org/page/32700194		
 11305	PSITTACIFORMES	Psittacidae	Pionus senilis	(Spix)	1824	Av. Sp. Nov. Brasil. 1: 42 pl. 31 fig. 1	https://biodiversitylibrary.org/page/41277637		
-11306	PSITTACIFORMES	Psittacidae	Pionus chalcopterus	(Fraser)	1841	"Proc. Zool. Soc. London [""1840""] Pt 8 no. 90 p. 59"	https://www.biodiversitylibrary.org/page/30571494		
+11306	PSITTACIFORMES	Psittacidae	Pionus chalcopterus	(Fraser)	1841	Proc. Zool. Soc. London [1840] Pt 8 no. 90 p. 59	https://www.biodiversitylibrary.org/page/30571494		
 11307	PSITTACIFORMES	Psittacidae	Graydidascalus	Bonaparte	1854				
 11308	PSITTACIFORMES	Psittacidae	Graydidascalus brachyurus	(Temminck & Kuhl)	1820	Nova Acta Acad. Caes. Leop. Carol. 10: 72	https://www.biodiversitylibrary.org/page/37020489		
 11309	PSITTACIFORMES	Psittacidae	Alipiopsitta	Caparroz & Pacheco	2006				
 11310	PSITTACIFORMES	Psittacidae	Alipiopsitta xanthops	(Spix)	1824	Av. Sp. Nov. Brasil. 1: 39 pl. 26	https://biodiversitylibrary.org/page/41277634		
-11311	PSITTACIFORMES	Psittacidae	Amazona	"Lesson, R"	1830				
+11311	PSITTACIFORMES	Psittacidae	Amazona	Lesson, R	1830				
 11312	PSITTACIFORMES	Psittacidae	Amazona festiva	(Linnaeus)	1758	Syst. Nat. (ed. 10) 1: 101	https://biodiversitylibrary.org/page/764493		
 11313	PSITTACIFORMES	Psittacidae	Amazona festiva festiva	(Linnaeus)	1758	Syst. Nat. (ed. 10) 1: 101	https://biodiversitylibrary.org/page/764493		
 11314	PSITTACIFORMES	Psittacidae	Amazona festiva bodini	(Finsch)	1873	Proc. Zool. Soc. London (1873): 569 pl. 49	https://biodiversitylibrary.org/page/28504842		
@@ -220,66 +220,66 @@
 11316	PSITTACIFORMES	Psittacidae	Amazona tucumana	(Cabanis)	1885	J. für Orn. (Ser. 4) 33: 221	https://biodiversitylibrary.org/page/32715795		
 11317	PSITTACIFORMES	Psittacidae	Amazona pretrei	(Temminck)	1830	Pl. Col. livr. 83 pl. 492			
 11318	PSITTACIFORMES	Psittacidae	Amazona agilis	(Linnaeus)	1758	Syst. Nat. (ed. 10) 1: 99	https://biodiversitylibrary.org/page/727006		
-11319	PSITTACIFORMES	Psittacidae	Amazona albifrons	(Sparrman)	1788	"Mus. Carls. fasc. 3 no. 52 pl. 52, text"	https://biodiversitylibrary.org/page/41149312		
-11320	PSITTACIFORMES	Psittacidae	Amazona albifrons albifrons	(Sparrman)	1788	"Mus. Carls. fasc. 3 no. 52 pl. 52, text"	https://biodiversitylibrary.org/page/41149312		
+11319	PSITTACIFORMES	Psittacidae	Amazona albifrons	(Sparrman)	1788	Mus. Carls. fasc. 3 no. 52 pl. 52, text	https://biodiversitylibrary.org/page/41149312		
+11320	PSITTACIFORMES	Psittacidae	Amazona albifrons albifrons	(Sparrman)	1788	Mus. Carls. fasc. 3 no. 52 pl. 52, text	https://biodiversitylibrary.org/page/41149312		
 11321	PSITTACIFORMES	Psittacidae	Amazona albifrons saltuensis	Nelson	1899	Proc. Biol. Soc. Wash. 13: 26	https://biodiversitylibrary.org/page/2308117		
-11322	PSITTACIFORMES	Psittacidae	Amazona albifrons nana	"Miller, W"	1905	Bull. Am. Mus. Nat. Hist. 21: 349	http://hdl.handle.net/2246/941		
+11322	PSITTACIFORMES	Psittacidae	Amazona albifrons nana	Miller, W	1905	Bull. Am. Mus. Nat. Hist. 21: 349	http://hdl.handle.net/2246/941		
 11323	PSITTACIFORMES	Psittacidae	Amazona collaria	(Linnaeus)	1758	Syst. Nat. (ed. 10) 1: 102	https://biodiversitylibrary.org/page/727007		
 11324	PSITTACIFORMES	Psittacidae	Amazona leucocephala	(Linnaeus)	1758	Syst. Nat. (ed. 10) 1: 100	https://biodiversitylibrary.org/page/764492		
 11325	PSITTACIFORMES	Psittacidae	Amazona leucocephala leucocephala	(Linnaeus)	1758	Syst. Nat. (ed. 10) 1: 100	https://biodiversitylibrary.org/page/764492		
-11326	PSITTACIFORMES	Psittacidae	Amazona leucocephala bahamensis	"(Bryant, H)"	1867	Proc. Boston Soc. Nat. Hist. 11: 65	https://biodiversitylibrary.org/page/8059392		
-11327	PSITTACIFORMES	Psittacidae	Amazona leucocephala caymanensis	(Cory)	1886	"Auk 3: 497, 498"	https://sora.unm.edu/sites/default/files/journals/auk/v003n04/p0497-p0501.pdf		
+11326	PSITTACIFORMES	Psittacidae	Amazona leucocephala bahamensis	(Bryant, H)	1867	Proc. Boston Soc. Nat. Hist. 11: 65	https://biodiversitylibrary.org/page/8059392		
+11327	PSITTACIFORMES	Psittacidae	Amazona leucocephala caymanensis	(Cory)	1886	Auk 3: 497, 498	https://sora.unm.edu/sites/default/files/journals/auk/v003n04/p0497-p0501.pdf		
 11328	PSITTACIFORMES	Psittacidae	Amazona leucocephala hesterna	Bangs	1916	Bull. Mus. Comp. Zool. 60: 308	https://biodiversitylibrary.org/page/2747928		
-11329	PSITTACIFORMES	Psittacidae	Amazona ventralis	"(Müller, PLS)"	1776	Natursyst. Suppl. 9: 79	https://biodiversitylibrary.org/page/52710032		
+11329	PSITTACIFORMES	Psittacidae	Amazona ventralis	(Müller, PLS)	1776	Natursyst. Suppl. 9: 79	https://biodiversitylibrary.org/page/52710032		
 11330	PSITTACIFORMES	Psittacidae	Amazona vittata	(Boddaert)	1783	Table Planches Enlum.: 49	https://biodiversitylibrary.org/page/27822669		
 11331	PSITTACIFORMES	Psittacidae	Amazona vittata vittata	(Boddaert)	1783	Table Planches Enlum.: 49	https://biodiversitylibrary.org/page/27822669		
 11332	PSITTACIFORMES	Psittacidae	Amazona vittata gracilipes  qq 	Ridgway	1915	Proc. Biol. Soc. Wash. 28: 106	https://biodiversitylibrary.org/page/3338489		
-11333	PSITTACIFORMES	Psittacidae	Amazona finschi	"(Sclater, PL)"	1864	Proc. Zool. Soc. London (1864): 298	https://biodiversitylibrary.org/page/28500611		
+11333	PSITTACIFORMES	Psittacidae	Amazona finschi	(Sclater, PL)	1864	Proc. Zool. Soc. London (1864): 298	https://biodiversitylibrary.org/page/28500611		
 11334	PSITTACIFORMES	Psittacidae	Amazona autumnalis	(Linnaeus)	1758	Syst. Nat. (ed. 10) 1: 102	https://biodiversitylibrary.org/page/727007		
 11335	PSITTACIFORMES	Psittacidae	Amazona autumnalis autumnalis	(Linnaeus)	1758	Syst. Nat. (ed. 10) 1: 102	https://biodiversitylibrary.org/page/727007		
-11336	PSITTACIFORMES	Psittacidae	Amazona autumnalis lilacina	"Lesson, R"	1844	Echo Monde Sav. - 2 11 no. 30 col. 394	https://biodiversitylibrary.org/page/47083050		
-11337	PSITTACIFORMES	Psittacidae	Amazona autumnalis salvini	(Salvadori)	1891	"Cat. Birds Brit. Mus. 20: 271, 300 pl. 7 fig. 3"	https://biodiversitylibrary.org/page/8382576		
+11336	PSITTACIFORMES	Psittacidae	Amazona autumnalis lilacina	Lesson, R	1844	Echo Monde Sav. - 2 11 no. 30 col. 394	https://biodiversitylibrary.org/page/47083050		
+11337	PSITTACIFORMES	Psittacidae	Amazona autumnalis salvini	(Salvadori)	1891	Cat. Birds Brit. Mus. 20: 271, 300 pl. 7 fig. 3	https://biodiversitylibrary.org/page/8382576		
 11338	PSITTACIFORMES	Psittacidae	Amazona diadema	(Spix)	1824	Av. Sp. Nov. Brasil. 1: 43 pl. 32	https://biodiversitylibrary.org/page/41277638		
 11339	PSITTACIFORMES	Psittacidae	Amazona viridigenalis	(Cassin)	1853	Proc. Acad. Nat. Sci. Philadelphia 6: 371	https://biodiversitylibrary.org/page/1779907		
-11340	PSITTACIFORMES	Psittacidae	Amazona xantholora	"(Gray, GR)"	1859	List Birds Brit. Mus. 3 (2): 83	https://biodiversitylibrary.org/page/19060044		
+11340	PSITTACIFORMES	Psittacidae	Amazona xantholora	(Gray, GR)	1859	List Birds Brit. Mus. 3 (2): 83	https://biodiversitylibrary.org/page/19060044		
 11341	PSITTACIFORMES	Psittacidae	Amazona dufresniana	(Shaw)	1812	Gen. Zool. 8 (2): 513	https://biodiversitylibrary.org/page/46395417		
 11342	PSITTACIFORMES	Psittacidae	Amazona rhodocorytha	(Salvadori)	1890	Ibis (Ser. 6 2: 369	https://biodiversitylibrary.org/page/16279061		
-11343	PSITTACIFORMES	Psittacidae	Amazona arausiaca	"(Müller, PLS)"	1776	Natursyst. Suppl. 9: 79	https://biodiversitylibrary.org/page/52710032		
-11344	PSITTACIFORMES	Psittacidae	Amazona versicolor	"(Müller, PLS)"	1776	Natursyst. Suppl. 9: 78	https://biodiversitylibrary.org/page/52710031		
+11343	PSITTACIFORMES	Psittacidae	Amazona arausiaca	(Müller, PLS)	1776	Natursyst. Suppl. 9: 79	https://biodiversitylibrary.org/page/52710032		
+11344	PSITTACIFORMES	Psittacidae	Amazona versicolor	(Müller, PLS)	1776	Natursyst. Suppl. 9: 78	https://biodiversitylibrary.org/page/52710031		
 11345	PSITTACIFORMES	Psittacidae	Amazona oratrix	Ridgway	1887	Man. N. Am. Birds: 587	https://biodiversitylibrary.org/page/7567798		
 11346	PSITTACIFORMES	Psittacidae	Amazona oratrix oratrix	Ridgway	1887	Man. N. Am. Birds: 587	https://biodiversitylibrary.org/page/7567798		
-11347	PSITTACIFORMES	Psittacidae	Amazona oratrix belizensis	"Monroe & Howell, TR"	1966	Occ. Pap. Mus. Zool. L.S.U. no. 34: 18	https://sites01.lsu.edu/wp/mnspapers/files/2017/08/OccasionalPaper-34_updated.pdf		
-11348	PSITTACIFORMES	Psittacidae	Amazona oratrix hondurensis	"Lousada & Howell, SNG"	1997	Bull. B.O.C. 117: 205	https://biodiversitylibrary.org/page/40058349		
+11347	PSITTACIFORMES	Psittacidae	Amazona oratrix belizensis	Monroe & Howell, TR	1966	Occ. Pap. Mus. Zool. L.S.U. no. 34: 18	https://sites01.lsu.edu/wp/mnspapers/files/2017/08/OccasionalPaper-34_updated.pdf		
+11348	PSITTACIFORMES	Psittacidae	Amazona oratrix hondurensis	Lousada & Howell, SNG	1997	Bull. B.O.C. 117: 205	https://biodiversitylibrary.org/page/40058349		
 11349	PSITTACIFORMES	Psittacidae	Amazona tresmariae	Nelson	1900	Auk 17: 256	https://sora.unm.edu/sites/default/files/journals/auk/v017n03/p0253-p0270.pdf		
-11350	PSITTACIFORMES	Psittacidae	Amazona auropalliata	"(Lesson, R)"	1842	Rev. Zool. 5: 135	https://biodiversitylibrary.org/page/14714664		
-11351	PSITTACIFORMES	Psittacidae	Amazona auropalliata auropalliata	"(Lesson, R)"	1842	Rev. Zool. 5: 135	https://biodiversitylibrary.org/page/14714664		
-11352	PSITTACIFORMES	Psittacidae	Amazona auropalliata parvipes	"Monroe & Howell, TR"	1966	Occ. Pap. Mus. Zool. L.S.U. no. 34: 8	https://sites01.lsu.edu/wp/mnspapers/files/2017/08/OccasionalPaper-34_updated.pdf		
+11350	PSITTACIFORMES	Psittacidae	Amazona auropalliata	(Lesson, R)	1842	Rev. Zool. 5: 135	https://biodiversitylibrary.org/page/14714664		
+11351	PSITTACIFORMES	Psittacidae	Amazona auropalliata auropalliata	(Lesson, R)	1842	Rev. Zool. 5: 135	https://biodiversitylibrary.org/page/14714664		
+11352	PSITTACIFORMES	Psittacidae	Amazona auropalliata parvipes	Monroe & Howell, TR	1966	Occ. Pap. Mus. Zool. L.S.U. no. 34: 8	https://sites01.lsu.edu/wp/mnspapers/files/2017/08/OccasionalPaper-34_updated.pdf		
 11353	PSITTACIFORMES	Psittacidae	Amazona auropalliata caribaea	Lousada	1989	Bull. B.O.C. 109: 233	https://biodiversitylibrary.org/page/40027112		
-11354	PSITTACIFORMES	Psittacidae	Amazona ochrocephala	"(Gmelin, JF)"	1788	Syst. Nat. (ed. 12) 1: 339	https://biodiversitylibrary.org/page/2896939		
-11355	PSITTACIFORMES	Psittacidae	Amazona ochrocephala ochrocephala	"(Gmelin, JF)"	1788	Syst. Nat. (ed. 12) 1: 339	https://biodiversitylibrary.org/page/2896939		
+11354	PSITTACIFORMES	Psittacidae	Amazona ochrocephala	(Gmelin, JF)	1788	Syst. Nat. (ed. 12) 1: 339	https://biodiversitylibrary.org/page/2896939		
+11355	PSITTACIFORMES	Psittacidae	Amazona ochrocephala ochrocephala	(Gmelin, JF)	1788	Syst. Nat. (ed. 12) 1: 339	https://biodiversitylibrary.org/page/2896939		
 11356	PSITTACIFORMES	Psittacidae	Amazona ochrocephala nattereri	(Finsch)	1865	J. für Orn. 12: 411	https://biodiversitylibrary.org/page/32715403		
 11357	PSITTACIFORMES	Psittacidae	Amazona ochrocephala panamensis	(Cabanis)	1874	J. für Orn. (Ser. 4) 22: 349	https://biodiversitylibrary.org/page/32705669		
 11358	PSITTACIFORMES	Psittacidae	Amazona ochrocephala xantholaema	Berlepsch	1913	Orn. Monatsb. 21: 147	https://biodiversitylibrary.org/page/8761487		
-11359	PSITTACIFORMES	Psittacidae	Amazona barbadensis	"(Gmelin, JF)"	1788	Syst. Nat. (ed. 12) 1: 339	https://biodiversitylibrary.org/page/2896939		
+11359	PSITTACIFORMES	Psittacidae	Amazona barbadensis	(Gmelin, JF)	1788	Syst. Nat. (ed. 12) 1: 339	https://biodiversitylibrary.org/page/2896939		
 11360	PSITTACIFORMES	Psittacidae	Amazona aestiva	(Linnaeus)	1758	Syst. Nat. (ed. 10) 1: 101	https://biodiversitylibrary.org/page/764493		
 11361	PSITTACIFORMES	Psittacidae	Amazona aestiva aestiva	(Linnaeus)	1758	Syst. Nat. (ed. 10) 1: 101	https://biodiversitylibrary.org/page/764493		
 11362	PSITTACIFORMES	Psittacidae	Amazona aestiva xanthopteryx	(Berlepsch)	1896	Orn. Monatsb. 4: 173	https://biodiversitylibrary.org/page/8769703		
 11363	PSITTACIFORMES	Psittacidae	Amazona mercenarius	(Tschudi)	1844	Arch. Naturgesch. 10: 303	https://biodiversitylibrary.org/page/13704206		
 11364	PSITTACIFORMES	Psittacidae	Amazona mercenarius mercenarius	(Tschudi)	1844	Arch. Naturgesch. 10: 303	https://biodiversitylibrary.org/page/13704206		
 11365	PSITTACIFORMES	Psittacidae	Amazona mercenarius canipalliata	(Cabanis)	1874	J. für Orn. (Ser. 4) 22: 105	https://biodiversitylibrary.org/page/32705425		
-11366	PSITTACIFORMES	Psittacidae	Amazona guatemalae	"(Sclater, PL)"	1860	Ibis 2: 44	https://www.biodiversitylibrary.org/page/8594184		
-11367	PSITTACIFORMES	Psittacidae	Amazona guatemalae guatemalae	"(Sclater, PL)"	1860	Ibis 2: 44	https://www.biodiversitylibrary.org/page/8594184		
-11368	PSITTACIFORMES	Psittacidae	Amazona guatemalae virenticeps	(Salvadori)	1891	"Cat. Birds Brit. Mus. 20:  269,280"	https://www.biodiversitylibrary.org/page/8382574		
+11366	PSITTACIFORMES	Psittacidae	Amazona guatemalae	(Sclater, PL)	1860	Ibis 2: 44	https://www.biodiversitylibrary.org/page/8594184		
+11367	PSITTACIFORMES	Psittacidae	Amazona guatemalae guatemalae	(Sclater, PL)	1860	Ibis 2: 44	https://www.biodiversitylibrary.org/page/8594184		
+11368	PSITTACIFORMES	Psittacidae	Amazona guatemalae virenticeps	(Salvadori)	1891	Cat. Birds Brit. Mus. 20:  269,280	https://www.biodiversitylibrary.org/page/8382574		
 11369	PSITTACIFORMES	Psittacidae	Amazona farinosa	(Boddaert)	1783	Table Planches Enlum.: 52	https://biodiversitylibrary.org/page/27822672		
 11370	PSITTACIFORMES	Psittacidae	Amazona kawalli	Grantsau & Camargo	1989	Rev. Brasil. Biol. 49: 1018			
 11371	PSITTACIFORMES	Psittacidae	Amazona imperialis	Richmond	1899	Auk 16: 186	https://sora.unm.edu/sites/default/files/journals/auk/v016n02/p0186-p0187.pdf		
 11372	PSITTACIFORMES	Psittacidae	Amazona brasiliensis	(Linnaeus)	1758	Syst. Nat. (ed. 10) 1: 102	https://biodiversitylibrary.org/page/727007		
 11373	PSITTACIFORMES	Psittacidae	Amazona amazonica	(Linnaeus)	1766	Syst. Nat. (ed. 12) 1: 147	https://biodiversitylibrary.org/page/445272		
 11374	PSITTACIFORMES	Psittacidae	Amazona guildingii	(Vigors)	1837	Proc. Zool. Soc. London pt 4: 80	https://biodiversitylibrary.org/page/30570807		
-11375	PSITTACIFORMES	Psittacidae	Forpus	"Boie, F"	1858				
+11375	PSITTACIFORMES	Psittacidae	Forpus	Boie, F	1858				
 11376	PSITTACIFORMES	Psittacidae	Forpus modestus	(Cabanis)	1849	Reisen Brit.-Guiana 3: 727	https://biodiversitylibrary.org/page/35303699		
 11377	PSITTACIFORMES	Psittacidae	Forpus modestus modestus	(Cabanis)	1849	Reisen Brit.-Guiana 3: 727	https://biodiversitylibrary.org/page/35303699		
-11378	PSITTACIFORMES	Psittacidae	Forpus modestus sclateri	"(Gray, GR)"	1859	List Birds Brit. Mus. 3 (2): 86	https://biodiversitylibrary.org/page/19060047		
+11378	PSITTACIFORMES	Psittacidae	Forpus modestus sclateri	(Gray, GR)	1859	List Birds Brit. Mus. 3 (2): 86	https://biodiversitylibrary.org/page/19060047		
 11379	PSITTACIFORMES	Psittacidae	Forpus cyanopygius	(Souancé)	1856	Rev. Mag. Zool. (Ser. 2) 8: 157	https://biodiversitylibrary.org/page/2303401		
 11380	PSITTACIFORMES	Psittacidae	Forpus cyanopygius cyanopygius	(Souancé)	1856	Rev. Mag. Zool. (Ser. 2) 8: 157	https://biodiversitylibrary.org/page/2303401		
 11381	PSITTACIFORMES	Psittacidae	Forpus cyanopygius insularis	(Ridgway)	1888	Proc. U.S. Natl. Mus. 10: 541	https://biodiversitylibrary.org/page/7485661		
@@ -287,19 +287,19 @@
 11383	PSITTACIFORMES	Psittacidae	Forpus spengeli	(Hartlaub)	1885	Proc. Zool. Soc. London (1885): 614 pl. 38 fig. 1	https://biodiversitylibrary.org/page/28697633		
 11384	PSITTACIFORMES	Psittacidae	Forpus xanthopterygius	(Spix)	1824	Av. Sp. Nov. Brasil. 1: 38 pl. 34 fig. 1	https://biodiversitylibrary.org/page/41277633		
 11385	PSITTACIFORMES	Psittacidae	Forpus xanthopterygius xanthopterygius	(Spix)	1824	Av. Sp. Nov. Brasil. 1: 38 pl. 34 fig. 1	https://biodiversitylibrary.org/page/41277633		
-11386	PSITTACIFORMES	Psittacidae	Forpus xanthopterygius flavescens	(Salvadori)	1891	"Cat. Birds Brit. Mus. 20: 241, 248"	https://biodiversitylibrary.org/page/8382546		
+11386	PSITTACIFORMES	Psittacidae	Forpus xanthopterygius flavescens	(Salvadori)	1891	Cat. Birds Brit. Mus. 20: 241, 248	https://biodiversitylibrary.org/page/8382546		
 11387	PSITTACIFORMES	Psittacidae	Forpus xanthopterygius flavissimus	Hellmayr	1929	Field Mus. Nat. Hist. Pub. Zool. Ser. 12: 446	https://biodiversitylibrary.org/page/6732388		
 11388	PSITTACIFORMES	Psittacidae	Forpus passerinus	(Linnaeus)	1758	Syst. Nat. (ed. 10) 1: 103	https://biodiversitylibrary.org/page/727008		
 11389	PSITTACIFORMES	Psittacidae	Forpus passerinus passerinus	(Linnaeus)	1758	Syst. Nat. (ed. 10) 1: 103	https://biodiversitylibrary.org/page/727008		
 11390	PSITTACIFORMES	Psittacidae	Forpus passerinus viridissimus	(Lafresnaye)	1848	Rev. Zool. 11: 172	https://biodiversitylibrary.org/page/2366692		
 11391	PSITTACIFORMES	Psittacidae	Forpus passerinus cyanochlorus	(Schlegel)	1864	Mus. Hist. Pays-Bas Rev. Meth. Crit. Coll. livr. 5 no. 26 Psittaci: 31			
-11392	PSITTACIFORMES	Psittacidae	Forpus passerinus deliciosus	(Ridgway)	1888	"Proc. U.S. Natl. Mus. 10: 533, 545"	https://biodiversitylibrary.org/page/7485625		
+11392	PSITTACIFORMES	Psittacidae	Forpus passerinus deliciosus	(Ridgway)	1888	Proc. U.S. Natl. Mus. 10: 533, 545	https://biodiversitylibrary.org/page/7485625		
 11393	PSITTACIFORMES	Psittacidae	Forpus passerinus cyanophanes	(Todd)	1915	Proc. Biol. Soc. Wash. 28: 81	https://biodiversitylibrary.org/page/3338500		
 11394	PSITTACIFORMES	Psittacidae	Forpus conspicillatus	(Lafresnaye)	1848	Rev. Zool. 11: 172	https://biodiversitylibrary.org/page/2366692		
 11395	PSITTACIFORMES	Psittacidae	Forpus conspicillatus conspicillatus	(Lafresnaye)	1848	Rev. Zool. 11: 172	https://biodiversitylibrary.org/page/2366692		
 11396	PSITTACIFORMES	Psittacidae	Forpus conspicillatus caucae	(Chapman)	1915	Bull. Am. Mus. Nat. Hist. 34: 383	http://hdl.handle.net/2246/821		
 11397	PSITTACIFORMES	Psittacidae	Forpus conspicillatus metae	Borrero & Hernández-Camacho	1961	Noved. Colomb. 1: 431			
-11398	PSITTACIFORMES	Psittacidae	Forpus coelestis	"(Lesson, R)"	1847	Oeuvres Compl. Buffon 20: 198			
+11398	PSITTACIFORMES	Psittacidae	Forpus coelestis	(Lesson, R)	1847	Oeuvres Compl. Buffon 20: 198			
 11399	PSITTACIFORMES	Psittacidae	Forpus xanthops	(Salvin)	1895	Novit. Zool. 2: 19 pl. 2 fig. 2	https://biodiversitylibrary.org/page/3859288		
 11400	PSITTACIFORMES	Psittacidae	Pionites	Heine	1890				
 11401	PSITTACIFORMES	Psittacidae	Pionites melanocephalus	(Linnaeus)	1758	Syst. Nat. (ed. 10) 1: 102	https://biodiversitylibrary.org/page/727007		
@@ -307,14 +307,14 @@
 11403	PSITTACIFORMES	Psittacidae	Pionites melanocephalus pallidus	(Berlepsch)	1890	J. für Orn. (Ser. 4) 37: 317	https://biodiversitylibrary.org/page/32903357		
 11404	PSITTACIFORMES	Psittacidae	Pionites leucogaster	(Kuhl)	1820	Nova Acta Acad. Caes. Leop. Carol. 10: 70	https://biodiversitylibrary.org/page/37020488		
 11405	PSITTACIFORMES	Psittacidae	Pionites leucogaster leucogaster	(Kuhl)	1820	Nova Acta Acad. Caes. Leop. Carol. 10: 70	https://biodiversitylibrary.org/page/37020488		
-11406	PSITTACIFORMES	Psittacidae	Pionites leucogaster xanthomerius	"(Sclater, PL)"	1858	Proc. Zool. Soc. London pt 27: 266	https://biodiversitylibrary.org/page/12861336		
+11406	PSITTACIFORMES	Psittacidae	Pionites leucogaster xanthomerius	(Sclater, PL)	1858	Proc. Zool. Soc. London pt 27: 266	https://biodiversitylibrary.org/page/12861336		
 11407	PSITTACIFORMES	Psittacidae	Pionites leucogaster xanthurus	Todd	1925	Proc. Biol. Soc. Wash. 38: 113	https://biodiversitylibrary.org/page/34557679		
 11408	PSITTACIFORMES	Psittacidae	Deroptyus	Wagler	1832				
 11409	PSITTACIFORMES	Psittacidae	Deroptyus accipitrinus	(Linnaeus)	1758	Syst. Nat. (ed. 10) 1: 102	https://biodiversitylibrary.org/page/727007		
 11410	PSITTACIFORMES	Psittacidae	Deroptyus accipitrinus accipitrinus	(Linnaeus)	1758	Syst. Nat. (ed. 10) 1: 102	https://biodiversitylibrary.org/page/727007		
 11411	PSITTACIFORMES	Psittacidae	Deroptyus accipitrinus fuscifrons	Hellmayr	1905	Novit. Zool. 12: 303	https://biodiversitylibrary.org/page/3479053		
 11412	PSITTACIFORMES	Psittacidae	Pyrrhura	Bonaparte	1856				
-11413	PSITTACIFORMES	Psittacidae	Pyrrhura cruentata	(Wied-Neuwied)	1820	"Reise Brasil. 1: 70, note"	https://biodiversitylibrary.org/page/45439511		
+11413	PSITTACIFORMES	Psittacidae	Pyrrhura cruentata	(Wied-Neuwied)	1820	Reise Brasil. 1: 70, note	https://biodiversitylibrary.org/page/45439511		
 11414	PSITTACIFORMES	Psittacidae	Pyrrhura devillei	(Massena & Souancé)	1854	Rev. Mag. Zool. (Ser. 2) 6: 73	https://biodiversitylibrary.org/page/13681144		
 11415	PSITTACIFORMES	Psittacidae	Pyrrhura frontalis	(Vieillot)	1818	Nouv. Dict. d'Hist. Nat. 25: 361	https://biodiversitylibrary.org/page/18044129		
 11416	PSITTACIFORMES	Psittacidae	Pyrrhura frontalis frontalis	(Vieillot)	1818	Nouv. Dict. d'Hist. Nat. 25: 361	https://biodiversitylibrary.org/page/18044129		
@@ -330,53 +330,53 @@
 11426	PSITTACIFORMES	Psittacidae	Pyrrhura molinae hypoxantha	Salvadori	1899	Boll. Mus. Zool. Anat. Comp. Torino 14 (363). 1	https://biodiversitylibrary.org/page/11678868		
 11427	PSITTACIFORMES	Psittacidae	Pyrrhura molinae australis	Todd	1915	Proc. Biol. Soc. Wash. 28: 82	https://biodiversitylibrary.org/page/3338493		
 11428	PSITTACIFORMES	Psittacidae	Pyrrhura molinae restricta	Todd	1947	Ann. Carnegie Mus. Nat. Hist. 30: 333	https://biodiversitylibrary.org/page/52337263		
-11429	PSITTACIFORMES	Psittacidae	Pyrrhura molinae flavoptera	"Maijer, Herzog, Kessler, Friggens & Fjeldså"	1998	Orn. Neotrop. 9: 186	https://sora.unm.edu/sites/default/files/journals/on/v009n02/p0185-p0192.pdf		
+11429	PSITTACIFORMES	Psittacidae	Pyrrhura molinae flavoptera	Maijer, Herzog, Kessler, Friggens & Fjeldså	1998	Orn. Neotrop. 9: 186	https://sora.unm.edu/sites/default/files/journals/on/v009n02/p0185-p0192.pdf		
 11430	PSITTACIFORMES	Psittacidae	Pyrrhura pfrimeri	Miranda-Ribeiro	1920	Rev. Mus. Paulista 12 (2): 36	https://biodiversitylibrary.org/page/10804270		
 11431	PSITTACIFORMES	Psittacidae	Pyrrhura griseipectus	Salvadori	1900	Ibis (Ser. 7) 6: 672	https://biodiversitylibrary.org/page/8628499		
 11432	PSITTACIFORMES	Psittacidae	Pyrrhura leucotis	(Kuhl)	1820	Nova Acta Acad. Caes. Leop. Carol. 10: 21	https://biodiversitylibrary.org/page/37020439		
-11433	PSITTACIFORMES	Psittacidae	Pyrrhura picta	"(Müller, PLS)"	1776	Natursyst. Suppl. 9: 75	https://biodiversitylibrary.org/page/52710028		
-11434	PSITTACIFORMES	Psittacidae	Pyrrhura picta picta	"(Müller, PLS)"	1776	Natursyst. Suppl. 9: 75	https://biodiversitylibrary.org/page/52710028		
+11433	PSITTACIFORMES	Psittacidae	Pyrrhura picta	(Müller, PLS)	1776	Natursyst. Suppl. 9: 75	https://biodiversitylibrary.org/page/52710028		
+11434	PSITTACIFORMES	Psittacidae	Pyrrhura picta picta	(Müller, PLS)	1776	Natursyst. Suppl. 9: 75	https://biodiversitylibrary.org/page/52710028		
 11435	PSITTACIFORMES	Psittacidae	Pyrrhura picta subandina	Todd	1917	Proc. Biol. Soc. Wash. 30: 6	https://biodiversitylibrary.org/page/3334989		
 11436	PSITTACIFORMES	Psittacidae	Pyrrhura picta caeruleiceps	Todd	1947	Ann. Carnegie Mus. Nat. Hist. 30: 337	https://biodiversitylibrary.org/page/52337267		
 11437	PSITTACIFORMES	Psittacidae	Pyrrhura picta eisenmanni	Delgado	1985	Orn. Monogr. 36: 17			
-11438	PSITTACIFORMES	Psittacidae	Pyrrhura emma	Salvadori	1891	"Cat. Birds Brit. Mus. 20: 212, 217 pl. 1"	https://biodiversitylibrary.org/page/8382517		
+11438	PSITTACIFORMES	Psittacidae	Pyrrhura emma	Salvadori	1891	Cat. Birds Brit. Mus. 20: 212, 217 pl. 1	https://biodiversitylibrary.org/page/8382517		
 11439	PSITTACIFORMES	Psittacidae	Pyrrhura amazonum	Hellmayr	1906	Bull. B.O.C. 19: 8	https://biodiversitylibrary.org/page/32433090		
 11440	PSITTACIFORMES	Psittacidae	Pyrrhura amazonum amazonum	Hellmayr	1906	Bull. B.O.C. 19: 8	https://biodiversitylibrary.org/page/32433090		
-11441	PSITTACIFORMES	Psittacidae	Pyrrhura amazonum snethlageae	"Joseph & Bates, JM"	2002	Orn. Neotrop. 13: 354	https://sora.unm.edu/sites/default/files/journals/on/v013n04/p0337-p0364.pdf		
-11442	PSITTACIFORMES	Psittacidae	Pyrrhura amazonum lucida	Arndt	2008	"Papageien 21: 278, 279"	https://d1wqtxts1xzle7.cloudfront.net/35576716/Arndt_2008-with-cover-page-v2.pdf?Expires=1625542435&Signature=SWWASuUxSKvcmVbZpbtw6OBhU3C5sgkdBxDi8U0M19Ep0c9O-3X7JOyq-Xo8WAJj1aPG3qZ3xzbPjT213eoyxZO2zKJVSaimuDK6bh~4E-A7SdlehF~R9KwGoK1d2CLszW741QCdKIFevYmZ5HR5I4zaUnqnboexR8sHXdb8PAevKYYC3QThEm8lcxnKPOoIabhMb4gwww695obOx2QiuEmo9d2x0bBwC0OIUDCtXVsfGU7ee1kM~pqTbt2yT0BWmiiEDXL1Jl4vR7jJ9X69BbpY1prsXyDXuHZ6QbIbxtyZKa~Vm6ULAOVw41ep9IwypItZfPJM9ky31bqnJxN~MQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA		
+11441	PSITTACIFORMES	Psittacidae	Pyrrhura amazonum snethlageae	Joseph & Bates, JM	2002	Orn. Neotrop. 13: 354	https://sora.unm.edu/sites/default/files/journals/on/v013n04/p0337-p0364.pdf		
+11442	PSITTACIFORMES	Psittacidae	Pyrrhura amazonum lucida	Arndt	2008	Papageien 21: 278, 279	https://d1wqtxts1xzle7.cloudfront.net/35576716/Arndt_2008-with-cover-page-v2.pdf?Expires=1625542435&Signature=SWWASuUxSKvcmVbZpbtw6OBhU3C5sgkdBxDi8U0M19Ep0c9O-3X7JOyq-Xo8WAJj1aPG3qZ3xzbPjT213eoyxZO2zKJVSaimuDK6bh~4E-A7SdlehF~R9KwGoK1d2CLszW741QCdKIFevYmZ5HR5I4zaUnqnboexR8sHXdb8PAevKYYC3QThEm8lcxnKPOoIabhMb4gwww695obOx2QiuEmo9d2x0bBwC0OIUDCtXVsfGU7ee1kM~pqTbt2yT0BWmiiEDXL1Jl4vR7jJ9X69BbpY1prsXyDXuHZ6QbIbxtyZKa~Vm6ULAOVw41ep9IwypItZfPJM9ky31bqnJxN~MQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA		
 11443	PSITTACIFORMES	Psittacidae	Pyrrhura lucianii	(Deville)	1851	Rev. Mag. Zool. (Ser. 2) 3: 210	https://biodiversitylibrary.org/page/2321197		
-11444	PSITTACIFORMES	Psittacidae	Pyrrhura roseifrons	"(Gray, GR)"	1859	List Birds Brit. Mus. 3 (2): 42	https://biodiversitylibrary.org/page/19060003		
-11445	PSITTACIFORMES	Psittacidae	Pyrrhura roseifrons roseifrons	"(Gray, GR)"	1859	List Birds Brit. Mus. 3 (2): 42	https://biodiversitylibrary.org/page/19060003		
-11446	PSITTACIFORMES	Psittacidae	Pyrrhura roseifrons peruviana	"Hocking, Blake & Joseph"	2002	Orn. Neotrop. 13: 356	https://sora.unm.edu/sites/default/files/journals/on/v013n04/p0337-p0364.pdf		
+11444	PSITTACIFORMES	Psittacidae	Pyrrhura roseifrons	(Gray, GR)	1859	List Birds Brit. Mus. 3 (2): 42	https://biodiversitylibrary.org/page/19060003		
+11445	PSITTACIFORMES	Psittacidae	Pyrrhura roseifrons roseifrons	(Gray, GR)	1859	List Birds Brit. Mus. 3 (2): 42	https://biodiversitylibrary.org/page/19060003		
+11446	PSITTACIFORMES	Psittacidae	Pyrrhura roseifrons peruviana	Hocking, Blake & Joseph	2002	Orn. Neotrop. 13: 356	https://sora.unm.edu/sites/default/files/journals/on/v013n04/p0337-p0364.pdf		
 11447	PSITTACIFORMES	Psittacidae	Pyrrhura roseifrons dilutissima	Arndt	2008	Papageien 21: 280	https://d1wqtxts1xzle7.cloudfront.net/35576716/Arndt_2008-with-cover-page-v2.pdf?Expires=1625542435&Signature=SWWASuUxSKvcmVbZpbtw6OBhU3C5sgkdBxDi8U0M19Ep0c9O-3X7JOyq-Xo8WAJj1aPG3qZ3xzbPjT213eoyxZO2zKJVSaimuDK6bh~4E-A7SdlehF~R9KwGoK1d2CLszW741QCdKIFevYmZ5HR5I4zaUnqnboexR8sHXdb8PAevKYYC3QThEm8lcxnKPOoIabhMb4gwww695obOx2QiuEmo9d2x0bBwC0OIUDCtXVsfGU7ee1kM~pqTbt2yT0BWmiiEDXL1Jl4vR7jJ9X69BbpY1prsXyDXuHZ6QbIbxtyZKa~Vm6ULAOVw41ep9IwypItZfPJM9ky31bqnJxN~MQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA		
 11448	PSITTACIFORMES	Psittacidae	Pyrrhura roseifrons parvifrons	Arndt	2008	Papageien 21: 278	https://d1wqtxts1xzle7.cloudfront.net/35576716/Arndt_2008-with-cover-page-v2.pdf?Expires=1625542435&Signature=SWWASuUxSKvcmVbZpbtw6OBhU3C5sgkdBxDi8U0M19Ep0c9O-3X7JOyq-Xo8WAJj1aPG3qZ3xzbPjT213eoyxZO2zKJVSaimuDK6bh~4E-A7SdlehF~R9KwGoK1d2CLszW741QCdKIFevYmZ5HR5I4zaUnqnboexR8sHXdb8PAevKYYC3QThEm8lcxnKPOoIabhMb4gwww695obOx2QiuEmo9d2x0bBwC0OIUDCtXVsfGU7ee1kM~pqTbt2yT0BWmiiEDXL1Jl4vR7jJ9X69BbpY1prsXyDXuHZ6QbIbxtyZKa~Vm6ULAOVw41ep9IwypItZfPJM9ky31bqnJxN~MQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA		
 11449	PSITTACIFORMES	Psittacidae	Pyrrhura viridicata	Todd	1913	Proc. Biol. Soc. Wash. 26: 174	https://biodiversitylibrary.org/page/3337887		
-11450	PSITTACIFORMES	Psittacidae	Pyrrhura egregia	"(Sclater, PL)"	1881	Ibis (Ser. 4) 5: 130 pl. 4	https://biodiversitylibrary.org/page/16251383		
-11451	PSITTACIFORMES	Psittacidae	Pyrrhura egregia egregia	"(Sclater, PL)"	1881	Ibis (Ser. 4) 5: 130 pl. 4	https://biodiversitylibrary.org/page/16251383		
-11452	PSITTACIFORMES	Psittacidae	Pyrrhura egregia obscura	"Zimmer, JT & Phelps"	1946	Am. Mus. Novit. 1312: 1	http://hdl.handle.net/2246/4451		
+11450	PSITTACIFORMES	Psittacidae	Pyrrhura egregia	(Sclater, PL)	1881	Ibis (Ser. 4) 5: 130 pl. 4	https://biodiversitylibrary.org/page/16251383		
+11451	PSITTACIFORMES	Psittacidae	Pyrrhura egregia egregia	(Sclater, PL)	1881	Ibis (Ser. 4) 5: 130 pl. 4	https://biodiversitylibrary.org/page/16251383		
+11452	PSITTACIFORMES	Psittacidae	Pyrrhura egregia obscura	Zimmer, JT & Phelps	1946	Am. Mus. Novit. 1312: 1	http://hdl.handle.net/2246/4451		
 11453	PSITTACIFORMES	Psittacidae	Pyrrhura melanura	(Spix)	1824	Av. Sp. Nov. Brasil. 1: 36 pl. 22	https://biodiversitylibrary.org/page/41277631		
 11454	PSITTACIFORMES	Psittacidae	Pyrrhura melanura melanura	(Spix)	1824	Av. Sp. Nov. Brasil. 1: 36 pl. 22	https://biodiversitylibrary.org/page/41277631		
-11455	PSITTACIFORMES	Psittacidae	Pyrrhura melanura souancei	"(Verreaux, J)"	1858	Rev. Mag. Zool. (Ser. 2) 10: 437 pl. 12	https://biodiversitylibrary.org/page/2316712		
-11456	PSITTACIFORMES	Psittacidae	Pyrrhura melanura berlepschi	Salvadori	1891	"Cat. Birds Brit. Mus. 20: 212, 224 pl. 2 fig. 1"	https://biodiversitylibrary.org/page/8382517		
+11455	PSITTACIFORMES	Psittacidae	Pyrrhura melanura souancei	(Verreaux, J)	1858	Rev. Mag. Zool. (Ser. 2) 10: 437 pl. 12	https://biodiversitylibrary.org/page/2316712		
+11456	PSITTACIFORMES	Psittacidae	Pyrrhura melanura berlepschi	Salvadori	1891	Cat. Birds Brit. Mus. 20: 212, 224 pl. 2 fig. 1	https://biodiversitylibrary.org/page/8382517		
 11457	PSITTACIFORMES	Psittacidae	Pyrrhura melanura pacifica	Chapman	1915	Bull. Am. Mus. Nat. Hist. 34: 382	http://hdl.handle.net/2246/821		
-11458	PSITTACIFORMES	Psittacidae	Pyrrhura melanura chapmani	"Bond, J & Meyer de Schauensee"	1940	Proc. Acad. Nat. Sci. Philadelphia 92: 156	https://www.jstor.org/stable/4064306		
+11458	PSITTACIFORMES	Psittacidae	Pyrrhura melanura chapmani	Bond, J & Meyer de Schauensee	1940	Proc. Acad. Nat. Sci. Philadelphia 92: 156	https://www.jstor.org/stable/4064306		
 11459	PSITTACIFORMES	Psittacidae	Pyrrhura orcesi	Ridgely & Robbins	1988	Wilson Bull. 100: 174	https://sora.unm.edu/sites/default/files/journals/wilson/v100n02/p0173-p0182.pdf		
 11460	PSITTACIFORMES	Psittacidae	Pyrrhura albipectus	Chapman	1914	Bull. Am. Mus. Nat. Hist. 33: 319	http://hdl.handle.net/2246/819		
 11461	PSITTACIFORMES	Psittacidae	Pyrrhura rupicola	(Tschudi)	1844	Arch. Naturgesch. 10: 304	https://biodiversitylibrary.org/page/13704207		
 11462	PSITTACIFORMES	Psittacidae	Pyrrhura rupicola rupicola	(Tschudi)	1844	Arch. Naturgesch. 10: 304	https://biodiversitylibrary.org/page/13704207		
-11463	PSITTACIFORMES	Psittacidae	Pyrrhura rupicola sandiae	"Bond, J & Meyer de Schauensee"	1944	Notulae Naturae 138: 1			
+11463	PSITTACIFORMES	Psittacidae	Pyrrhura rupicola sandiae	Bond, J & Meyer de Schauensee	1944	Notulae Naturae 138: 1			
 11464	PSITTACIFORMES	Psittacidae	Pyrrhura calliptera	(Massena & Souancé)	1854	Rev. Mag. Zool. (Ser. 2) 6: 72	https://biodiversitylibrary.org/page/13681143		
 11465	PSITTACIFORMES	Psittacidae	Pyrrhura hoematotis	Souancé	1857	Rev. Mag. Zool. (Ser. 2) 9: 97	https://biodiversitylibrary.org/page/13712233		
 11466	PSITTACIFORMES	Psittacidae	Pyrrhura hoematotis hoematotis	Souancé	1857	Rev. Mag. Zool. (Ser. 2) 9: 97	https://biodiversitylibrary.org/page/13712233		
-11467	PSITTACIFORMES	Psittacidae	Pyrrhura hoematotis immarginata	"Zimmer, JT & Phelps"	1944	Am. Mus. Novit. 1270: 4	http://hdl.handle.net/2246/5095		
-11468	PSITTACIFORMES	Psittacidae	Pyrrhura rhodocephala	"(Sclater, PL & Salvin)"	1871	"Proc. Zool. Soc. London (1871): 782, 787"	https://biodiversitylibrary.org/page/28555674		
+11467	PSITTACIFORMES	Psittacidae	Pyrrhura hoematotis immarginata	Zimmer, JT & Phelps	1944	Am. Mus. Novit. 1270: 4	http://hdl.handle.net/2246/5095		
+11468	PSITTACIFORMES	Psittacidae	Pyrrhura rhodocephala	(Sclater, PL & Salvin)	1871	Proc. Zool. Soc. London (1871): 782, 787	https://biodiversitylibrary.org/page/28555674		
 11469	PSITTACIFORMES	Psittacidae	Pyrrhura hoffmanni	(Cabanis)	1861	Sitz. Ges. Nat. Freunde Berlin [no: ]			
 11470	PSITTACIFORMES	Psittacidae	Pyrrhura hoffmanni hoffmanni	(Cabanis)	1861	Sitz. Ges. Nat. Freunde Berlin [no: ]			
 11471	PSITTACIFORMES	Psittacidae	Pyrrhura hoffmanni gaudens	Bangs	1906	Proc. Biol. Soc. Wash. 19: 103	https://biodiversitylibrary.org/page/3329161		
-11472	PSITTACIFORMES	Psittacidae	Enicognathus	"Gray, GR"	1840				
-11473	PSITTACIFORMES	Psittacidae	Enicognathus ferrugineus	"(Müller, PLS)"	1776	Natursyst. Suppl. 9: 75	https://biodiversitylibrary.org/page/52710028		
-11474	PSITTACIFORMES	Psittacidae	Enicognathus ferrugineus ferrugineus	"(Müller, PLS)"	1776	Natursyst. Suppl. 9: 75	https://biodiversitylibrary.org/page/52710028		
-11475	PSITTACIFORMES	Psittacidae	Enicognathus leptorhynchus	"(King, PP)"	1831	Proc. Comm. Zool. Soc. London pt 1: 14	https://biodiversitylibrary.org/page/12861422		
+11472	PSITTACIFORMES	Psittacidae	Enicognathus	Gray, GR	1840				
+11473	PSITTACIFORMES	Psittacidae	Enicognathus ferrugineus	(Müller, PLS)	1776	Natursyst. Suppl. 9: 75	https://biodiversitylibrary.org/page/52710028		
+11474	PSITTACIFORMES	Psittacidae	Enicognathus ferrugineus ferrugineus	(Müller, PLS)	1776	Natursyst. Suppl. 9: 75	https://biodiversitylibrary.org/page/52710028		
+11475	PSITTACIFORMES	Psittacidae	Enicognathus leptorhynchus	(King, PP)	1831	Proc. Comm. Zool. Soc. London pt 1: 14	https://biodiversitylibrary.org/page/12861422		
 11476	PSITTACIFORMES	Psittacidae	Enicognathus ferrugineus minor	(Chapman)	1919	Bull. Am. Mus. Nat. Hist. 41: 323	http://hdl.handle.net/2246/1747		
 11477	PSITTACIFORMES	Psittacidae	Cyanoliseus	Bonaparte	1854				
 11478	PSITTACIFORMES	Psittacidae	Cyanoliseus patagonus	(Vieillot)	1818	Nouv. Dict. d'Hist. Nat. 25: 367	https://biodiversitylibrary.org/page/18044135		
@@ -390,31 +390,31 @@
 11486	PSITTACIFORMES	Psittacidae	Anodorhynchus glaucus  qq 	(Vieillot)	1816	Nouv. Dict. d'Hist. Nat. 2: 259	https://biodiversitylibrary.org/page/21108101		
 11487	PSITTACIFORMES	Psittacidae	Rhynchopsitta	Bonaparte	1854				
 11488	PSITTACIFORMES	Psittacidae	Rhynchopsitta pachyrhyncha	(Swainson)	1827	Philos. Mag. n.s. 1: 439	https://biodiversitylibrary.org/page/15530449		
-11489	PSITTACIFORMES	Psittacidae	Rhynchopsitta terrisi	"Moore, RT"	1947	Proc. Biol. Soc. Wash. 60: 27	https://biodiversitylibrary.org/page/34498261		
+11489	PSITTACIFORMES	Psittacidae	Rhynchopsitta terrisi	Moore, RT	1947	Proc. Biol. Soc. Wash. 60: 27	https://biodiversitylibrary.org/page/34498261		
 11490	PSITTACIFORMES	Psittacidae	Eupsittula	Bonaparte	1853				
 11491	PSITTACIFORMES	Psittacidae	Eupsittula nana	(Vigors)	1830	Zool. Journ. 5: 273	https://biodiversitylibrary.org/page/27657636		
 11492	PSITTACIFORMES	Psittacidae	Eupsittula nana nana	(Vigors)	1830	Zool. Journ. 5: 273	https://biodiversitylibrary.org/page/27657636		
 11493	PSITTACIFORMES	Psittacidae	Eupsittula nana astec	(Souancé)	1857	Rev. Mag. Zool. (Ser. 2) 9: 97	https://biodiversitylibrary.org/page/13712233		
-11494	PSITTACIFORMES	Psittacidae	Eupsittula nana vicinalis	"Bangs & Penard, TE"	1919	Bull. Mus. Comp. Zool. 63: 24	https://biodiversitylibrary.org/page/30574451		
+11494	PSITTACIFORMES	Psittacidae	Eupsittula nana vicinalis	Bangs & Penard, TE	1919	Bull. Mus. Comp. Zool. 63: 24	https://biodiversitylibrary.org/page/30574451		
 11495	PSITTACIFORMES	Psittacidae	Eupsittula canicularis	(Linnaeus)	1758	Syst. Nat. (ed. 10) 1: 98	https://biodiversitylibrary.org/page/727005		
 11496	PSITTACIFORMES	Psittacidae	Eupsittula canicularis canicularis	(Linnaeus)	1758	Syst. Nat. (ed. 10) 1: 98	https://biodiversitylibrary.org/page/727005		
-11497	PSITTACIFORMES	Psittacidae	Eupsittula canicularis eburnirostrum	"(Lesson, R)"	1842	Rev. Zool. 5: 135	https://biodiversitylibrary.org/page/14714664		
-11498	PSITTACIFORMES	Psittacidae	Eupsittula canicularis clarae	"(Moore, RT)"	1937	Proc. Biol. Soc. Wash. 50: 101	https://biodiversitylibrary.org/page/34510362		
-11499	PSITTACIFORMES	Psittacidae	Eupsittula aurea	"(Gmelin, JF)"	1788	Syst. Nat. (ed. 12) 1: 329	https://biodiversitylibrary.org/page/2896929329		
+11497	PSITTACIFORMES	Psittacidae	Eupsittula canicularis eburnirostrum	(Lesson, R)	1842	Rev. Zool. 5: 135	https://biodiversitylibrary.org/page/14714664		
+11498	PSITTACIFORMES	Psittacidae	Eupsittula canicularis clarae	(Moore, RT)	1937	Proc. Biol. Soc. Wash. 50: 101	https://biodiversitylibrary.org/page/34510362		
+11499	PSITTACIFORMES	Psittacidae	Eupsittula aurea	(Gmelin, JF)	1788	Syst. Nat. (ed. 12) 1: 329	https://biodiversitylibrary.org/page/2896929329		
 11500	PSITTACIFORMES	Psittacidae	Eupsittula pertinax	(Linnaeus)	1758	Syst. Nat. (ed. 10) 1: 98	https://biodiversitylibrary.org/page/727005		
 11501	PSITTACIFORMES	Psittacidae	Eupsittula pertinax aeruginosa	(Linnaeus)	1758	Syst. Nat. (ed. 10) 1: 98	https://biodiversitylibrary.org/page/727005		
 11502	PSITTACIFORMES	Psittacidae	Eupsittula pertinax pertinax	(Linnaeus)	1758	Syst. Nat. (ed. 10) 1: 98	https://biodiversitylibrary.org/page/727005		
 11503	PSITTACIFORMES	Psittacidae	Eupsittula pertinax chrysophrys	(Swainson)	1838	Anim. Menag.: 320	https://biodiversitylibrary.org/page/28995031		
 11504	PSITTACIFORMES	Psittacidae	Eupsittula pertinax xanthogenia	(Bonaparte)	1850	Consp. Gen. Av. 1: 1	https://biodiversitylibrary.org/page/43560002		
 11505	PSITTACIFORMES	Psittacidae	Eupsittula pertinax chrysogenys	(Massena & Souancé)	1854	Rev. Mag. Zool. (Ser. 2) 6: 72	https://biodiversitylibrary.org/page/13681143		
-11506	PSITTACIFORMES	Psittacidae	Eupsittula pertinax ocularis	"(Sclater, PL & Salvin)"	1865	Proc. Zool. Soc.London (1864): 367	https://biodiversitylibrary.org/page/28500692		
-11507	PSITTACIFORMES	Psittacidae	Eupsittula pertinax arubensis	"(Hartert, E)"	1892	Bull. B.O.C. 1: 16	https://biodiversitylibrary.org/page/32475120		
+11506	PSITTACIFORMES	Psittacidae	Eupsittula pertinax ocularis	(Sclater, PL & Salvin)	1865	Proc. Zool. Soc.London (1864): 367	https://biodiversitylibrary.org/page/28500692		
+11507	PSITTACIFORMES	Psittacidae	Eupsittula pertinax arubensis	(Hartert, E)	1892	Bull. B.O.C. 1: 16	https://biodiversitylibrary.org/page/32475120		
 11508	PSITTACIFORMES	Psittacidae	Eupsittula pertinax tortugensis	(Cory)	1909	Field Mus. Nat. Hist. Pub. Orn. Ser. 1: 220	https://biodiversitylibrary.org/page/2654146		
 11509	PSITTACIFORMES	Psittacidae	Eupsittula pertinax margaritensis	Cory	1918	Field Mus. Nat. Hist. Pub. Zool. Ser. 13 (2): 63	https://biodiversitylibrary.org/page/819012		
 11510	PSITTACIFORMES	Psittacidae	Eupsittula pertinax lehmanni	(Dugand)	1943	Caldasia 2: 191	https://revistas.unal.edu.co/index.php/cal/article/view/31871/31898		
 11511	PSITTACIFORMES	Psittacidae	Eupsittula pertinax griseipecta	(Meyer de Schauensee)	1950	Notulae Naturae 221: 6			
-11512	PSITTACIFORMES	Psittacidae	Eupsittula pertinax venezuelae	"(Zimmer, JT & Phelps)"	1951	Am. Mus. Novit. 1511: 6	http://hdl.handle.net/2246/3971		
-11513	PSITTACIFORMES	Psittacidae	Eupsittula pertinax surinama	"(Zimmer, JT & Phelps)"	1951	Am. Mus. Novit. 1511: 1	http://hdl.handle.net/2246/3971		
+11512	PSITTACIFORMES	Psittacidae	Eupsittula pertinax venezuelae	(Zimmer, JT & Phelps)	1951	Am. Mus. Novit. 1511: 6	http://hdl.handle.net/2246/3971		
+11513	PSITTACIFORMES	Psittacidae	Eupsittula pertinax surinama	(Zimmer, JT & Phelps)	1951	Am. Mus. Novit. 1511: 1	http://hdl.handle.net/2246/3971		
 11514	PSITTACIFORMES	Psittacidae	Eupsittula pertinax paraensis	(Sick)	1959	J. für Orn. 100: 413			
 11515	PSITTACIFORMES	Psittacidae	Eupsittula cactorum	(Kuhl)	1820	Nova Acta Acad. Caes. Leop. Carol. 10: 82	https://biodiversitylibrary.org/page/37020500		
 11516	PSITTACIFORMES	Psittacidae	Eupsittula cactorum cactorum	(Kuhl)	1820	Nova Acta Acad. Caes. Leop. Carol. 10: 82	https://biodiversitylibrary.org/page/37020500		
@@ -422,13 +422,13 @@
 11518	PSITTACIFORMES	Psittacidae	Conuropsis	Salvadori	1891				
 11519	PSITTACIFORMES	Psittacidae	Conuropsis carolinensis  qq 	(Linnaeus)	1758	Syst. Nat. (ed. 10) 1: 97	https://biodiversitylibrary.org/page/727004		
 11520	PSITTACIFORMES	Psittacidae	Conuropsis carolinensis carolinensis  qq 	(Linnaeus)	1758	Syst. Nat. (ed. 10) 1: 97	https://biodiversitylibrary.org/page/727004		
-11521	PSITTACIFORMES	Psittacidae	Conuropsis carolinensis ludoviciana  qq 	"(Gmelin, JF)"	1788	Syst. Nat. (ed. 12) 1: 347	https://biodiversitylibrary.org/page/2896947		
+11521	PSITTACIFORMES	Psittacidae	Conuropsis carolinensis ludoviciana  qq 	(Gmelin, JF)	1788	Syst. Nat. (ed. 12) 1: 347	https://biodiversitylibrary.org/page/2896947		
 11522	PSITTACIFORMES	Psittacidae	Aratinga	Spix	1824				
 11523	PSITTACIFORMES	Psittacidae	Aratinga weddellii	(Deville)	1851	Rev. Mag. Zool. (Ser. 2) 3: 209	https://biodiversitylibrary.org/page/2321196		
 11524	PSITTACIFORMES	Psittacidae	Aratinga nenday	(Vieillot)	1823	Tabl. Encyc. Meth. Orn. 3 livr. 93 p. 1400			
 11525	PSITTACIFORMES	Psittacidae	Aratinga solstitialis	(Linnaeus)	1758	Syst. Nat. (ed. 10) 1: 97	https://biodiversitylibrary.org/page/727004		
-11526	PSITTACIFORMES	Psittacidae	Aratinga maculata	"(Müller, PLS)"	1776	Natursyst. Suppl. 9: 74	https://biodiversitylibrary.org/page/52710027		
-11527	PSITTACIFORMES	Psittacidae	Aratinga jandaya	"(Gmelin, JF)"	1788	Syst. Nat. (ed. 12) 1: 319	https://biodiversitylibrary.org/page/2896919		
+11526	PSITTACIFORMES	Psittacidae	Aratinga maculata	(Müller, PLS)	1776	Natursyst. Suppl. 9: 74	https://biodiversitylibrary.org/page/52710027		
+11527	PSITTACIFORMES	Psittacidae	Aratinga jandaya	(Gmelin, JF)	1788	Syst. Nat. (ed. 12) 1: 319	https://biodiversitylibrary.org/page/2896919		
 11528	PSITTACIFORMES	Psittacidae	Aratinga auricapillus	(Kuhl)	1820	Nova Acta Acad. Caes. Leop. Carol. 10: 20	https://biodiversitylibrary.org/page/37020438		
 11529	PSITTACIFORMES	Psittacidae	Aratinga auricapillus auricapillus	(Kuhl)	1820	Nova Acta Acad. Caes. Leop. Carol. 10: 20	https://biodiversitylibrary.org/page/37020438		
 11530	PSITTACIFORMES	Psittacidae	Aratinga auricapillus aurifrons	Spix	1824	Av. Sp. Nov. Brasil. 1: 32 pl. 16 fig. 1	https://biodiversitylibrary.org/page/41277627		
@@ -437,7 +437,7 @@
 11533	PSITTACIFORMES	Psittacidae	Orthopsittaca	Ridgway	1912				
 11534	PSITTACIFORMES	Psittacidae	Orthopsittaca manilatus	(Boddaert)	1783	Table Planches Enlum. p. 52			
 11535	PSITTACIFORMES	Psittacidae	Primolius	Bonaparte	1857				
-11536	PSITTACIFORMES	Psittacidae	Primolius couloni	"(Sclater, PL)"	1876	"Proc. Zool. Soc. London (1876): 255, fig."	https://biodiversitylibrary.org/page/29099416		
+11536	PSITTACIFORMES	Psittacidae	Primolius couloni	(Sclater, PL)	1876	Proc. Zool. Soc. London (1876): 255, fig.	https://biodiversitylibrary.org/page/29099416		
 11537	PSITTACIFORMES	Psittacidae	Primolius auricollis	(Cassin)	1853	Proc. Acad. Nat. Sci. Philadelphia 6: 372	https://biodiversitylibrary.org/page/1779908		
 11538	PSITTACIFORMES	Psittacidae	Primolius maracana	(Vieillot)	1816	Nouv. Dict. d'Hist. Nat. 2: 260	https://biodiversitylibrary.org/page/21108102		
 11539	PSITTACIFORMES	Psittacidae	Ara	Lacépède	1799				
@@ -456,17 +456,17 @@
 11552	PSITTACIFORMES	Psittacidae	Ara macao	(Linnaeus)	1758	Syst. Nat. (ed. 10) 1: 96	https://biodiversitylibrary.org/page/727003		
 11553	PSITTACIFORMES	Psittacidae	Ara macao macao	(Linnaeus)	1758	Syst. Nat. (ed. 10) 1: 96	https://biodiversitylibrary.org/page/727003		
 11554	PSITTACIFORMES	Psittacidae	Ara macao cyanopterus	Wiedenfeld	1995	Orn. Neotrop. 5: 99	https://sora.unm.edu/sites/default/files/journals/on/v005n02/p0099-p0104.pdf		
-11555	PSITTACIFORMES	Psittacidae	Ara chloropterus	"Gray, GR"	1859	List Birds Brit. Mus. 3 (2): 26	https://biodiversitylibrary.org/page/19059987		
+11555	PSITTACIFORMES	Psittacidae	Ara chloropterus	Gray, GR	1859	List Birds Brit. Mus. 3 (2): 26	https://biodiversitylibrary.org/page/19059987		
 11556	PSITTACIFORMES	Psittacidae	Leptosittaca	Berlepsch & Stolzmann	1894				
 11557	PSITTACIFORMES	Psittacidae	Leptosittaca branickii	Berlepsch & Stolzmann	1894	Ibis (Ser. 6) 6: 402 pl. 11	https://biodiversitylibrary.org/page/16283082		
 11558	PSITTACIFORMES	Psittacidae	Ognorhynchus	Bonaparte	1857				
 11559	PSITTACIFORMES	Psittacidae	Ognorhynchus icterotis	(Massena & Souancé)	1854	Rev. Mag. Zool. (Ser. 2) 6: 71	https://biodiversitylibrary.org/page/13681142		
-11560	PSITTACIFORMES	Psittacidae	Guaruba	"Lesson, R"	1830				
-11561	PSITTACIFORMES	Psittacidae	Guaruba guarouba	"(Gmelin, JF)"	1788	Syst. Nat. (ed. 12) 1: 320	https://biodiversitylibrary.org/page/2896920		
+11560	PSITTACIFORMES	Psittacidae	Guaruba	Lesson, R	1830				
+11561	PSITTACIFORMES	Psittacidae	Guaruba guarouba	(Gmelin, JF)	1788	Syst. Nat. (ed. 12) 1: 320	https://biodiversitylibrary.org/page/2896920		
 11562	PSITTACIFORMES	Psittacidae	Diopsittaca	Ridgway	1912				
 11563	PSITTACIFORMES	Psittacidae	Diopsittaca nobilis	(Linnaeus)	1758	Syst. Nat. (ed. 10) 1: 97	https://biodiversitylibrary.org/page/727004		
 11564	PSITTACIFORMES	Psittacidae	Diopsittaca nobilis nobilis	(Linnaeus)	1758	Syst. Nat. (ed. 10) 1: 97	https://biodiversitylibrary.org/page/727004		
-11565	PSITTACIFORMES	Psittacidae	Diopsittaca nobilis cumanensis	"(Lichtenstein, MHK)"	1823	Verz. Doubl. Zool. Mus. Berlin: 6	https://biodiversitylibrary.org/page/28229312		
+11565	PSITTACIFORMES	Psittacidae	Diopsittaca nobilis cumanensis	(Lichtenstein, MHK)	1823	Verz. Doubl. Zool. Mus. Berlin: 6	https://biodiversitylibrary.org/page/28229312		
 11566	PSITTACIFORMES	Psittacidae	Diopsittaca nobilis longipennis	Neumann	1931	Mitt. Zool. Mus. Berlin 17 Heft 3: 441			
 11567	PSITTACIFORMES	Psittacidae	Thectocercus	Ridgway	1912	Nouv. Dict. d'Hist. Nat. 25: 369	https://biodiversitylibrary.org/page/18044137		
 11568	PSITTACIFORMES	Psittacidae	Thectocercus acuticaudatus	(Vieillot)	1818	Av. Sp. Nov. Brasil. 1: 29 pl. 13	https://biodiversitylibrary.org/page/41277624		
@@ -476,15 +476,15 @@
 11572	PSITTACIFORMES	Psittacidae	Thectocercus acuticaudatus neumanni	(Blake & Traylor)	1947				
 11573	PSITTACIFORMES	Psittacidae	Thectocercus acuticaudatus koenigi	(Arndt)	1995	Field Mus. Nat. Hist. Pub. Orn. Ser. 1: 243	https://biodiversitylibrary.org/page/2654169		
 11574	PSITTACIFORMES	Psittacidae	Psittacara	Vigors	1825				
-11575	PSITTACIFORMES	Psittacidae	Psittacara holochlorus	"(Sclater, PL)"	1859	Proc. Biol. Soc. Wash. 41: 154	https://biodiversitylibrary.org/page/34645589		
-11576	PSITTACIFORMES	Psittacidae	Psittacara holochlorus holochlorus	"(Sclater, PL)"	1859	Natursyst. Suppl. 9: 75	https://biodiversitylibrary.org/page/52710028		
+11575	PSITTACIFORMES	Psittacidae	Psittacara holochlorus	(Sclater, PL)	1859	Proc. Biol. Soc. Wash. 41: 154	https://biodiversitylibrary.org/page/34645589		
+11576	PSITTACIFORMES	Psittacidae	Psittacara holochlorus holochlorus	(Sclater, PL)	1859	Natursyst. Suppl. 9: 75	https://biodiversitylibrary.org/page/52710028		
 11577	PSITTACIFORMES	Psittacidae	Psittacara holochlorus brewsteri	(Nelson)	1928	Ann. Mag. Nat. Hist. (Ser. 3) 4: 224	https://biodiversitylibrary.org/page/18638139		
 11578	PSITTACIFORMES	Psittacidae	Psittacara brevipes	(Lawrence)	1871	Ann. Lyc. Nat. Hist. N. Y. 10: 14	https://biodiversitylibrary.org/page/16077895		
-11579	PSITTACIFORMES	Psittacidae	Psittacara rubritorquis	"(Sclater, PL)"	1887	Proc. Zool. Soc. London (1886): 539 pl. 56	https://biodiversitylibrary.org/page/30829831		
+11579	PSITTACIFORMES	Psittacidae	Psittacara rubritorquis	(Sclater, PL)	1887	Proc. Zool. Soc. London (1886): 539 pl. 56	https://biodiversitylibrary.org/page/30829831		
 11580	PSITTACIFORMES	Psittacidae	Psittacara strenuus	(Ridgway)	1915				
-11581	PSITTACIFORMES	Psittacidae	Psittacara wagleri	"(Gray, GR)"	1845	Gen. Birds 2: pl. CII	https://biodiversitylibrary.org/page/43661608		
-11582	PSITTACIFORMES	Psittacidae	Psittacara wagleri wagleri	"(Gray, GR)"	1845	Gen. Birds 2: pl. CII	https://biodiversitylibrary.org/page/43661608		
-11583	PSITTACIFORMES	Psittacidae	Psittacara wagleri transilis	"(Peters, JL)"	1927	Proc. New Engl. Zool. Cl. 9: 111			
+11581	PSITTACIFORMES	Psittacidae	Psittacara wagleri	(Gray, GR)	1845	Gen. Birds 2: pl. CII	https://biodiversitylibrary.org/page/43661608		
+11582	PSITTACIFORMES	Psittacidae	Psittacara wagleri wagleri	(Gray, GR)	1845	Gen. Birds 2: pl. CII	https://biodiversitylibrary.org/page/43661608		
+11583	PSITTACIFORMES	Psittacidae	Psittacara wagleri transilis	(Peters, JL)	1927	Proc. New Engl. Zool. Cl. 9: 111			
 11584	PSITTACIFORMES	Psittacidae	Psittacara frontatus	(Cabanis)	1846	Proc. Acad. Nat. Sci. Philadelphia 85: 3			
 11585	PSITTACIFORMES	Psittacidae	Psittacara frontatus frontatus	(Cabanis)	1846	Proc. Acad. Nat. Sci. Philadelphia 85: 3			
 11586	PSITTACIFORMES	Psittacidae	Psittacara frontatus minor	(Carriker)	1933	Ann. Mag. Nat. Hist. (Ser. 3) 4: 224	https://biodiversitylibrary.org/page/18638139		
@@ -492,53 +492,53 @@
 11588	PSITTACIFORMES	Psittacidae	Psittacara mitratus mitratus	(Tschudi)	1844	J. für Orn. 147: 74			
 11589	PSITTACIFORMES	Psittacidae	Psittacara mitratus chlorogenys	(Arndt)	2006	Arch. Naturgesch. 10: 304	https://biodiversitylibrary.org/page/13704207		
 11590	PSITTACIFORMES	Psittacidae	Psittacara mitratus tucumanus	(Arndt)	2006				
-11591	PSITTACIFORMES	Psittacidae	Psittacara erythrogenys	"Lesson, R"	1844	Echo Monde Sav. - 2 11 no. 34 col. 486	https://biodiversitylibrary.org/page/47083080		
+11591	PSITTACIFORMES	Psittacidae	Psittacara erythrogenys	Lesson, R	1844	Echo Monde Sav. - 2 11 no. 34 col. 486	https://biodiversitylibrary.org/page/47083080		
 11592	PSITTACIFORMES	Psittacidae	Psittacara finschi	(Salvin)	1871	Ibis (Ser. 3) 1: 91 pl. 4	https://biodiversitylibrary.org/page/8587587		
-11593	PSITTACIFORMES	Psittacidae	Psittacara leucophthalmus	"(Müller, PLS)"	1776	Notulae Naturae163: 2			
-11594	PSITTACIFORMES	Psittacidae	Psittacara leucophthalmus leucophthalmus	"(Müller, PLS)"	1776	Notulae Naturae163: 2			
-11595	PSITTACIFORMES	Psittacidae	Psittacara leucophthalmus callogenys	(Salvadori)	1891	"Cat. Birds Brit. Mus. 20: 171, 188"	https://biodiversitylibrary.org/page/8382476		
+11593	PSITTACIFORMES	Psittacidae	Psittacara leucophthalmus	(Müller, PLS)	1776	Notulae Naturae163: 2			
+11594	PSITTACIFORMES	Psittacidae	Psittacara leucophthalmus leucophthalmus	(Müller, PLS)	1776	Notulae Naturae163: 2			
+11595	PSITTACIFORMES	Psittacidae	Psittacara leucophthalmus callogenys	(Salvadori)	1891	Cat. Birds Brit. Mus. 20: 171, 188	https://biodiversitylibrary.org/page/8382476		
 11596	PSITTACIFORMES	Psittacidae	Psittacara leucophthalmus nicefori	(Meyer de Schauensee)	1946	Not. Nat. no. 163 p. 2			
 11597	PSITTACIFORMES	Psittacidae	Psittacara euops	(Wagler)	1832	Abh. K. Bay. Akad. Wiss. 1: 638 pl. 24 fig. 2	https://biodiversitylibrary.org/page/11355898		
 11598	PSITTACIFORMES	Psittacidae	Psittacara chloropterus	Souancé	1856	Rev. Mag. Zool. (2) 8: 59	https://www.biodiversitylibrary.org/page/2303189		
 11599	PSITTACIFORMES	Psittacidae	Psittacara maugei	Souancé	1856	Rev. Mag. Zool. (2) 8: 59	https://www.biodiversitylibrary.org/page/2303189		
-11600	PSITTACIFORMES	Psittaculidae	Psittrichas	"Lesson, R"	1831	Bull. Sci. Nat. Geol. 25: 241 (= 341)			
-11601	PSITTACIFORMES	Psittaculidae	Psittrichas fulgidus	"(Lesson, R)"	1830	Traite d'Orn. livr. 1: 181			
-11602	PSITTACIFORMES	Psittaculidae	Mascarinus	"Lesson, R"	1830				
+11600	PSITTACIFORMES	Psittaculidae	Psittrichas	Lesson, R	1831	Bull. Sci. Nat. Geol. 25: 241 (= 341)			
+11601	PSITTACIFORMES	Psittaculidae	Psittrichas fulgidus	(Lesson, R)	1830	Traite d'Orn. livr. 1: 181			
+11602	PSITTACIFORMES	Psittaculidae	Mascarinus	Lesson, R	1830				
 11603	PSITTACIFORMES	Psittaculidae	Mascarinus mascarinus  qq 	(Linnaeus)	1771	Mantissa Plant. p. 524			
 11604	PSITTACIFORMES	Psittaculidae	Coracopsis	Wagler	1832				
 11605	PSITTACIFORMES	Psittaculidae	Coracopsis vasa	(Shaw)	1812	Gen. Zool. 8 (2): 528	https://biodiversitylibrary.org/page/46395436		
 11606	PSITTACIFORMES	Psittaculidae	Coracopsis vasa vasa	(Shaw)	1812	Gen. Zool. 8 (2): 528	https://biodiversitylibrary.org/page/46395436		
-11607	PSITTACIFORMES	Psittaculidae	Coracopsis vasa comorensis	"(Peters, W)"	1854	Ber. K. Preuss. Akad. Wiss. Berlin: 371	https://biodiversitylibrary.org/page/11068271		
+11607	PSITTACIFORMES	Psittaculidae	Coracopsis vasa comorensis	(Peters, W)	1854	Ber. K. Preuss. Akad. Wiss. Berlin: 371	https://biodiversitylibrary.org/page/11068271		
 11608	PSITTACIFORMES	Psittaculidae	Coracopsis vasa drouhardi	Lavauden	1929	Alauda 1: 231	http://bibliotheques.mnhn.fr/EXPLOITATION/infodoc/digitalCollections/viewerpopup.aspx?seid=MNHN_ALAUD_1929_T001_N004		
 11609	PSITTACIFORMES	Psittaculidae	Coracopsis nigra	(Linnaeus)	1758	Syst. Nat. (ed. 10) 1: 99	https://biodiversitylibrary.org/page/727006		
 11610	PSITTACIFORMES	Psittaculidae	Coracopsis nigra nigra	(Linnaeus)	1758	Syst. Nat. (ed. 10) 1: 99	https://biodiversitylibrary.org/page/727006		
 11611	PSITTACIFORMES	Psittaculidae	Coracopsis nigra sibilans	Milne-Edwards & Oustalet	1885	Compt. Rend. 101: 220	https://biodiversitylibrary.org/page/3694162		
 11612	PSITTACIFORMES	Psittaculidae	Coracopsis nigra libs	Bangs	1927	Proc. New Engl. Zool. Cl. 9: 83			
-11613	PSITTACIFORMES	Psittaculidae	Coracopsis barklyi	"Newton, E"	1867	"Ibis (Ser. 2)  3: 341, note"	https://biodiversitylibrary.org/page/8455625		
-11614	PSITTACIFORMES	Psittaculidae	Micropsitta	"Lesson, R"	1831				
+11613	PSITTACIFORMES	Psittaculidae	Coracopsis barklyi	Newton, E	1867	Ibis (Ser. 2)  3: 341, note	https://biodiversitylibrary.org/page/8455625		
+11614	PSITTACIFORMES	Psittaculidae	Micropsitta	Lesson, R	1831				
 11615	PSITTACIFORMES	Psittaculidae	Micropsitta keiensis	(Salvadori)	1876	Ann. Mus. Civ. Stor. Nat. Genova 7: 984	https://biodiversitylibrary.org/page/34621433		
 11616	PSITTACIFORMES	Psittaculidae	Micropsitta keiensis keiensis	(Salvadori)	1876	Ann. Mus. Civ. Stor. Nat. Genova 7: 984	https://biodiversitylibrary.org/page/34621433		
 11617	PSITTACIFORMES	Psittaculidae	Micropsitta keiensis chloroxantha	Oberholser	1917	Proc. Biol. Soc. Wash. 30: 126	https://biodiversitylibrary.org/page/3334939		
 11618	PSITTACIFORMES	Psittaculidae	Micropsitta geelvinkiana	(Schlegel)	1871	Nederl. Tijdschr. Dierk. 4: 7	https://biodiversitylibrary.org/page/49085620		
 11619	PSITTACIFORMES	Psittaculidae	Micropsitta geelvinkiana geelvinkiana	(Schlegel)	1871	Nederl. Tijdschr. Dierk. 4: 7	https://biodiversitylibrary.org/page/49085620		
 11620	PSITTACIFORMES	Psittaculidae	Micropsitta geelvinkiana misoriensis	(Salvadori)	1876	Ann. Mus. Civ. Stor. Nat. Genova 7: 909	https://biodiversitylibrary.org/page/34621358		
-11621	PSITTACIFORMES	Psittaculidae	Micropsitta pusio	"(Sclater, PL)"	1866	Proc. Zool. Soc. London (1865): 620 pl. 35	https://biodiversitylibrary.org/page/28497605		
-11622	PSITTACIFORMES	Psittaculidae	Micropsitta pusio pusio	"(Sclater, PL)"	1866	Proc. Zool. Soc. London (1865): 620 pl. 35	https://biodiversitylibrary.org/page/28497605		
+11621	PSITTACIFORMES	Psittaculidae	Micropsitta pusio	(Sclater, PL)	1866	Proc. Zool. Soc. London (1865): 620 pl. 35	https://biodiversitylibrary.org/page/28497605		
+11622	PSITTACIFORMES	Psittaculidae	Micropsitta pusio pusio	(Sclater, PL)	1866	Proc. Zool. Soc. London (1865): 620 pl. 35	https://biodiversitylibrary.org/page/28497605		
 11623	PSITTACIFORMES	Psittaculidae	Micropsitta pusio beccarii	(Salvadori)	1876	Ann. Mus. Civ. Stor. Nat. Genova 8: 396	https://biodiversitylibrary.org/page/7916156		
-11624	PSITTACIFORMES	Psittaculidae	Micropsitta pusio stresemanni	"Hartert, E"	1926	Novit. Zool. 33: 130	https://biodiversitylibrary.org/page/3249780		
+11624	PSITTACIFORMES	Psittaculidae	Micropsitta pusio stresemanni	Hartert, E	1926	Novit. Zool. 33: 130	https://biodiversitylibrary.org/page/3249780		
 11625	PSITTACIFORMES	Psittaculidae	Micropsitta pusio harterti	Mayr	1940	Am. Mus. Novit. 1091: 2	http://hdl.handle.net/2246/3778		
-11626	PSITTACIFORMES	Psittaculidae	Micropsitta meeki	"Rothschild & Hartert, E"	1914	Bull. B.O.C. 33: 107	https://biodiversitylibrary.org/page/32475897		
-11627	PSITTACIFORMES	Psittaculidae	Micropsitta meeki meeki	"Rothschild & Hartert, E"	1914	Bull. B.O.C. 33: 107	https://biodiversitylibrary.org/page/32475897		
-11628	PSITTACIFORMES	Psittaculidae	Micropsitta meeki proxima	"Rothschild & Hartert, E"	1924	Bull. B.O.C. 44: 50	https://biodiversitylibrary.org/page/40499285		
-11629	PSITTACIFORMES	Psittaculidae	Micropsitta finschii	"(Ramsay, EP)"	1881	Proc. Linn. Soc. NSW 6: 180	https://biodiversitylibrary.org/page/3343934		
-11630	PSITTACIFORMES	Psittaculidae	Micropsitta finschii finschii	"(Ramsay, EP)"	1881	Proc. Linn. Soc. NSW 6: 180	https://biodiversitylibrary.org/page/3343934		
+11626	PSITTACIFORMES	Psittaculidae	Micropsitta meeki	Rothschild & Hartert, E	1914	Bull. B.O.C. 33: 107	https://biodiversitylibrary.org/page/32475897		
+11627	PSITTACIFORMES	Psittaculidae	Micropsitta meeki meeki	Rothschild & Hartert, E	1914	Bull. B.O.C. 33: 107	https://biodiversitylibrary.org/page/32475897		
+11628	PSITTACIFORMES	Psittaculidae	Micropsitta meeki proxima	Rothschild & Hartert, E	1924	Bull. B.O.C. 44: 50	https://biodiversitylibrary.org/page/40499285		
+11629	PSITTACIFORMES	Psittaculidae	Micropsitta finschii	(Ramsay, EP)	1881	Proc. Linn. Soc. NSW 6: 180	https://biodiversitylibrary.org/page/3343934		
+11630	PSITTACIFORMES	Psittaculidae	Micropsitta finschii finschii	(Ramsay, EP)	1881	Proc. Linn. Soc. NSW 6: 180	https://biodiversitylibrary.org/page/3343934		
 11631	PSITTACIFORMES	Psittaculidae	Micropsitta finschii aolae	(Ogilvie-Grant)	1888	Proc. Zool. Soc. London (1888): 189	https://biodiversitylibrary.org/page/31825656		
 11632	PSITTACIFORMES	Psittaculidae	Micropsitta finschii nanina	(Tristram)	1891	Ibis (Ser. 6) 3: 608	https://biodiversitylibrary.org/page/16276074		
-11633	PSITTACIFORMES	Psittaculidae	Micropsitta finschii viridifrons	"(Rothschild & Hartert, E)"	1899	Orn. Monatsb. 7: 138	https://biodiversitylibrary.org/page/32584555		
-11634	PSITTACIFORMES	Psittaculidae	Micropsitta finschii tristrami	"(Rothschild & Hartert, E)"	1902	Novit. Zool. 9: 589	https://biodiversitylibrary.org/page/3268511		
-11635	PSITTACIFORMES	Psittaculidae	Micropsitta bruijnii	(Salvadori)	1875	"Ann. Mus. Civ. Stor. Nat. Genova 7: 715, note,: 753, 907 pl. 21"	https://biodiversitylibrary.org/page/34621164		
-11636	PSITTACIFORMES	Psittaculidae	Micropsitta bruijnii bruijnii	(Salvadori)	1875	"Ann. Mus. Civ. Stor. Nat. Genova 7: 715, note,: 753, 907 pl. 21"	https://biodiversitylibrary.org/page/34621164		
-11637	PSITTACIFORMES	Psittaculidae	Micropsitta bruijnii necopinata	"Hartert, E"	1925	Novit. Zool. 32: 124	https://biodiversitylibrary.org/page/3243586		
+11633	PSITTACIFORMES	Psittaculidae	Micropsitta finschii viridifrons	(Rothschild & Hartert, E)	1899	Orn. Monatsb. 7: 138	https://biodiversitylibrary.org/page/32584555		
+11634	PSITTACIFORMES	Psittaculidae	Micropsitta finschii tristrami	(Rothschild & Hartert, E)	1902	Novit. Zool. 9: 589	https://biodiversitylibrary.org/page/3268511		
+11635	PSITTACIFORMES	Psittaculidae	Micropsitta bruijnii	(Salvadori)	1875	Ann. Mus. Civ. Stor. Nat. Genova 7: 715, note,: 753, 907 pl. 21	https://biodiversitylibrary.org/page/34621164		
+11636	PSITTACIFORMES	Psittaculidae	Micropsitta bruijnii bruijnii	(Salvadori)	1875	Ann. Mus. Civ. Stor. Nat. Genova 7: 715, note,: 753, 907 pl. 21	https://biodiversitylibrary.org/page/34621164		
+11637	PSITTACIFORMES	Psittaculidae	Micropsitta bruijnii necopinata	Hartert, E	1925	Novit. Zool. 32: 124	https://biodiversitylibrary.org/page/3243586		
 11638	PSITTACIFORMES	Psittaculidae	Micropsitta bruijnii pileata	Mayr	1940	Am. Mus. Novit. 1091: 2	http://hdl.handle.net/2246/3778		
 11639	PSITTACIFORMES	Psittaculidae	Micropsitta bruijnii rosea	Mayr	1940	Am. Mus. Novit. 1091: 2	http://hdl.handle.net/2246/3778		
 11640	PSITTACIFORMES	Psittaculidae	Micropsitta bruijnii buruensis	Arndt	1999	Lexikon Papageien Suppl. 1 no. 82			
@@ -552,35 +552,35 @@
 11648	PSITTACIFORMES	Psittaculidae	Alisterus amboinensis	(Linnaeus)	1766	Syst. Nat. (ed. 12) 1: 141	https://biodiversitylibrary.org/page/445266		
 11649	PSITTACIFORMES	Psittaculidae	Alisterus amboinensis amboinensis	(Linnaeus)	1766	Syst. Nat. (ed. 12) 1: 141	https://biodiversitylibrary.org/page/445266		
 11650	PSITTACIFORMES	Psittaculidae	Alisterus amboinensis dorsalis	(Quoy & Gaimard)	1832	Voy. Astrolabe Zool. 1: 234 Atlas Ois. pl. 21 fig. 3 3			
-11651	PSITTACIFORMES	Psittaculidae	Alisterus amboinensis hypophonius	"(Müller, S)"	1843	"Verh. Nat. Gesch. [Temminck] Land-Volk. no. 6: 181, note"	https://biodiversitylibrary.org/page/56902019		
+11651	PSITTACIFORMES	Psittaculidae	Alisterus amboinensis hypophonius	(Müller, S)	1843	Verh. Nat. Gesch. [Temminck] Land-Volk. no. 6: 181, note	https://biodiversitylibrary.org/page/56902019		
 11652	PSITTACIFORMES	Psittaculidae	Alisterus amboinensis buruensis	(Salvadori)	1876	Ann. Mus. Civ. Stor. Nat. Genova 8: 371	https://biodiversitylibrary.org/page/7916131		
 11653	PSITTACIFORMES	Psittaculidae	Alisterus amboinensis sulaensis	(Reichenow)	1881	J. für Orn. (Ser. 4) 29: 128	https://biodiversitylibrary.org/page/32881213		
 11654	PSITTACIFORMES	Psittaculidae	Alisterus amboinensis versicolor	Neumann	1939	Bull. B.O.C. 59: 106	https://biodiversitylibrary.org/page/40513566		
-11655	PSITTACIFORMES	Psittaculidae	Alisterus chloropterus	"(Ramsay, EP)"	1879	Proc. Linn. Soc. NSW 3: 251	https://biodiversitylibrary.org/page/6456630		
+11655	PSITTACIFORMES	Psittaculidae	Alisterus chloropterus	(Ramsay, EP)	1879	Proc. Linn. Soc. NSW 3: 251	https://biodiversitylibrary.org/page/6456630		
 11656	PSITTACIFORMES	Psittaculidae	Alisterus chloropterus callopterus	(D'Albertis & Salvadori)	1879	Ann. Mus. Civ. Stor. Nat. Genova 14: 29	https://biodiversitylibrary.org/page/9186278		
-11657	PSITTACIFORMES	Psittaculidae	Alisterus chloropterus chloropterus	"(Ramsay, EP)"	1879	Proc. Linn. Soc. NSW 3: 251	https://biodiversitylibrary.org/page/6456630		
+11657	PSITTACIFORMES	Psittaculidae	Alisterus chloropterus chloropterus	(Ramsay, EP)	1879	Proc. Linn. Soc. NSW 3: 251	https://biodiversitylibrary.org/page/6456630		
 11658	PSITTACIFORMES	Psittaculidae	Alisterus chloropterus moszkowskii	(Reichenow)	1911	Orn. Monatsb. 19: 82	https://biodiversitylibrary.org/page/32971144		
-11659	PSITTACIFORMES	Psittaculidae	Alisterus scapularis	"(Lichtenstein, MHK)"	1816	Zool. Mus. Univ. Berlin: 29			
-11660	PSITTACIFORMES	Psittaculidae	Alisterus scapularis scapularis	"(Lichtenstein, MHK)"	1816	Zool. Mus. Univ. Berlin: 29			
+11659	PSITTACIFORMES	Psittaculidae	Alisterus scapularis	(Lichtenstein, MHK)	1816	Zool. Mus. Univ. Berlin: 29			
+11660	PSITTACIFORMES	Psittaculidae	Alisterus scapularis scapularis	(Lichtenstein, MHK)	1816	Zool. Mus. Univ. Berlin: 29			
 11661	PSITTACIFORMES	Psittaculidae	Alisterus scapularis minor	Mathews	1911	Novit. Zool. 18: 23	https://biodiversitylibrary.org/page/3109639		
 11662	PSITTACIFORMES	Psittaculidae	Aprosmictus	Gould	1842				
 11663	PSITTACIFORMES	Psittaculidae	Aprosmictus jonquillaceus	(Vieillot)	1818	Nouv. Dict. d'Hist. Nat. 25: 352	https://biodiversitylibrary.org/page/18044120		
 11664	PSITTACIFORMES	Psittaculidae	Aprosmictus jonquillaceus jonquillaceus	(Vieillot)	1818	Nouv. Dict. d'Hist. Nat. 25: 352	https://biodiversitylibrary.org/page/18044120		
-11665	PSITTACIFORMES	Psittaculidae	Aprosmictus jonquillaceus wetterensis	(Salvadori)	1891	"Cat. Birds Brit. Mus. 20: 481, 484"	https://biodiversitylibrary.org/page/8382786		
-11666	PSITTACIFORMES	Psittaculidae	Aprosmictus erythropterus	"(Gmelin, JF)"	1788	Syst. Nat. (ed. 12) 1: 343	https://biodiversitylibrary.org/page/2896943		
-11667	PSITTACIFORMES	Psittaculidae	Aprosmictus erythropterus erythropterus	"(Gmelin, JF)"	1788	Syst. Nat. (ed. 12) 1: 343	https://biodiversitylibrary.org/page/2896943		
+11665	PSITTACIFORMES	Psittaculidae	Aprosmictus jonquillaceus wetterensis	(Salvadori)	1891	Cat. Birds Brit. Mus. 20: 481, 484	https://biodiversitylibrary.org/page/8382786		
+11666	PSITTACIFORMES	Psittaculidae	Aprosmictus erythropterus	(Gmelin, JF)	1788	Syst. Nat. (ed. 12) 1: 343	https://biodiversitylibrary.org/page/2896943		
+11667	PSITTACIFORMES	Psittaculidae	Aprosmictus erythropterus erythropterus	(Gmelin, JF)	1788	Syst. Nat. (ed. 12) 1: 343	https://biodiversitylibrary.org/page/2896943		
 11668	PSITTACIFORMES	Psittaculidae	Aprosmictus erythropterus coccineopterus	(Gould)	1865	Handb. Birds Austr. 2: 39	https://biodiversitylibrary.org/page/13966041		
 11669	PSITTACIFORMES	Psittaculidae	Prioniturus	Wagler	1832				
-11670	PSITTACIFORMES	Psittaculidae	Prioniturus mada	"Hartert, E"	1900	Novit. Zool. 7: 230	https://biodiversitylibrary.org/page/3266767		
+11670	PSITTACIFORMES	Psittaculidae	Prioniturus mada	Hartert, E	1900	Novit. Zool. 7: 230	https://biodiversitylibrary.org/page/3266767		
 11671	PSITTACIFORMES	Psittaculidae	Prioniturus platurus	(Vieillot)	1818	Nouv. Dict. d'Hist. Nat. 25: 314	https://biodiversitylibrary.org/page/18044080		
 11672	PSITTACIFORMES	Psittaculidae	Prioniturus platurus platurus	(Vieillot)	1818	Nouv. Dict. d'Hist. Nat. 25: 314	https://biodiversitylibrary.org/page/18044080		
-11673	PSITTACIFORMES	Psittaculidae	Prioniturus platurus talautensis	"Hartert, E"	1898	Novit. Zool. 5: 89	https://biodiversitylibrary.org/page/3220052		
+11673	PSITTACIFORMES	Psittaculidae	Prioniturus platurus talautensis	Hartert, E	1898	Novit. Zool. 5: 89	https://biodiversitylibrary.org/page/3220052		
 11674	PSITTACIFORMES	Psittaculidae	Prioniturus platurus sinerubris	Forshaw	1971	Bull. B.O.C. 91: 163	https://biodiversitylibrary.org/page/40823732		
 11675	PSITTACIFORMES	Psittaculidae	Prioniturus waterstradti	Rothschild	1904	Bull. B.O.C. 14: 71	https://biodiversitylibrary.org/page/37116869		
 11676	PSITTACIFORMES	Psittaculidae	Prioniturus waterstradti waterstradti	Rothschild	1904	Bull. B.O.C. 14: 71	https://biodiversitylibrary.org/page/37116799		
 11677	PSITTACIFORMES	Psittaculidae	Prioniturus waterstradti malindangensis	Mearns	1909	Proc. U.S. Natl. Mus. 36: 437	https://biodiversitylibrary.org/page/15714556		
 11678	PSITTACIFORMES	Psittaculidae	Prioniturus montanus	Ogilvie-Grant	1895	Bull. B.O.C. 4: 41	https://biodiversitylibrary.org/page/32475382		
-11679	PSITTACIFORMES	Psittaculidae	Prioniturus platenae	"Blasius, W"	1888	Braunschw. Anz.: 335			
+11679	PSITTACIFORMES	Psittaculidae	Prioniturus platenae	Blasius, W	1888	Braunschw. Anz.: 335			
 11680	PSITTACIFORMES	Psittaculidae	Prioniturus mindorensis	Steere	1890				
 11681	PSITTACIFORMES	Psittaculidae	Prioniturus verticalis	Sharpe	1893	Bull. B.O.C. 3: 10	https://biodiversitylibrary.org/page/32475224		
 11682	PSITTACIFORMES	Psittaculidae	Prioniturus flavicans	Cassin	1853	Proc. Acad. Nat. Sci. Philadelphia 6: 373	https://biodiversitylibrary.org/page/1779909		
@@ -589,53 +589,53 @@
 11685	PSITTACIFORMES	Psittaculidae	Prioniturus discurus discurus	(Vieillot)	1822	Gal. Ois. 1: 7 pl. 26	https://biodiversitylibrary.org/page/58574338		
 11686	PSITTACIFORMES	Psittaculidae	Prioniturus discurus whiteheadi	Salomonsen	1953	Vidensk. Medd. Dansk. Naturhist. For. 115: 224			
 11687	PSITTACIFORMES	Psittaculidae	Eclectus	Wagler	1832				
-11688	PSITTACIFORMES	Psittaculidae	Eclectus roratus	"(Müller, PLS)"	1776	Natursyst. Suppl. 9: 77	https://biodiversitylibrary.org/page/52710030		
-11689	PSITTACIFORMES	Psittaculidae	Eclectus roratus roratus	"(Müller, PLS)"	1776	Natursyst. Suppl. 9: 77	https://biodiversitylibrary.org/page/52710030		
+11688	PSITTACIFORMES	Psittaculidae	Eclectus roratus	(Müller, PLS)	1776	Natursyst. Suppl. 9: 77	https://biodiversitylibrary.org/page/52710030		
+11689	PSITTACIFORMES	Psittaculidae	Eclectus roratus roratus	(Müller, PLS)	1776	Natursyst. Suppl. 9: 77	https://biodiversitylibrary.org/page/52710030		
 11690	PSITTACIFORMES	Psittaculidae	Eclectus roratus polychloros	(Scopoli)	1786	Del. Flor. Faun. Insubr. 2: 87	http://bibdigital.rjb.csic.es/ing/Libro.php?Libro=2427		
-11691	PSITTACIFORMES	Psittaculidae	Eclectus roratus cornelia	Bonaparte	1850	"Compt. Rend. 30: 135, 136"	https://biodiversitylibrary.org/page/4618140		
+11691	PSITTACIFORMES	Psittaculidae	Eclectus roratus cornelia	Bonaparte	1850	Compt. Rend. 30: 135, 136	https://biodiversitylibrary.org/page/4618140		
 11692	PSITTACIFORMES	Psittaculidae	Eclectus roratus westermani  qq 	(Bonaparte)	1850	Consp. Gen. Av. 1: 4	https://biodiversitylibrary.org/page/43560007		
-11693	PSITTACIFORMES	Psittaculidae	Eclectus roratus riedeli	"Meyer, AB"	1882	Proc. Zool. Soc. London (1881): 917	https://biodiversitylibrary.org/page/30760150		
-11694	PSITTACIFORMES	Psittaculidae	Eclectus roratus solomonensis	"Rothschild & Hartert, E"	1901	Novit. Zool. 8: 82	https://biodiversitylibrary.org/page/3267801		
+11693	PSITTACIFORMES	Psittaculidae	Eclectus roratus riedeli	Meyer, AB	1882	Proc. Zool. Soc. London (1881): 917	https://biodiversitylibrary.org/page/30760150		
+11694	PSITTACIFORMES	Psittaculidae	Eclectus roratus solomonensis	Rothschild & Hartert, E	1901	Novit. Zool. 8: 82	https://biodiversitylibrary.org/page/3267801		
 11695	PSITTACIFORMES	Psittaculidae	Eclectus roratus macgillivrayi	Mathews	1913	Austral Av. Rec. 2: 75	https://biodiversitylibrary.org/page/34804681		
 11696	PSITTACIFORMES	Psittaculidae	Eclectus roratus vosmaeri	(Rothschild)	1922	Ann. Mag. Nat. Hist. (Ser. 9) 9: 412	https://biodiversitylibrary.org/page/15690159		
 11697	PSITTACIFORMES	Psittaculidae	Geoffroyus	Bonaparte	1850				
 11698	PSITTACIFORMES	Psittaculidae	Geoffroyus geoffroyi	(Bechstein)	1811	Allg. Uebers. Vögel 4 1: 103 pl. 21	https://biodiversitylibrary.org/page/54265832		
 11699	PSITTACIFORMES	Psittaculidae	Geoffroyus geoffroyi geoffroyi	(Bechstein)	1811	Allg. Uebers. Vögel 4 1: 103 pl. 21	https://biodiversitylibrary.org/page/54265832		
-11700	PSITTACIFORMES	Psittaculidae	Geoffroyus geoffroyi cyanicollis	"(Müller, S)"	1841	"Verh. Nat. Gesch. [Temminck] Land-Volk. no. 4: 108, 182, note"	https://biodiversitylibrary.org/page/56901946		
+11700	PSITTACIFORMES	Psittaculidae	Geoffroyus geoffroyi cyanicollis	(Müller, S)	1841	Verh. Nat. Gesch. [Temminck] Land-Volk. no. 4: 108, 182, note	https://biodiversitylibrary.org/page/56901946		
 11701	PSITTACIFORMES	Psittaculidae	Geoffroyus geoffroyi pucherani	Souancé	1856	Rev. Mag. Zool. (Ser. 2) 8: 218	https://biodiversitylibrary.org/page/2303503		
-11702	PSITTACIFORMES	Psittaculidae	Geoffroyus geoffroyi aruensis	"(Gray, GR)"	1858	Proc. Zool. Soc. London pt 26: 183	https://biodiversitylibrary.org/page/32271695		
-11703	PSITTACIFORMES	Psittaculidae	Geoffroyus geoffroyi rhodops	(Schlegel)	1864	"Mus. Hist. Pays-Bas Rev. Meth. Crit. Coll. livr. 5 no. 26 Psittaci: 43, 44"			
+11702	PSITTACIFORMES	Psittaculidae	Geoffroyus geoffroyi aruensis	(Gray, GR)	1858	Proc. Zool. Soc. London pt 26: 183	https://biodiversitylibrary.org/page/32271695		
+11703	PSITTACIFORMES	Psittaculidae	Geoffroyus geoffroyi rhodops	(Schlegel)	1864	Mus. Hist. Pays-Bas Rev. Meth. Crit. Coll. livr. 5 no. 26 Psittaci: 43, 44			
 11704	PSITTACIFORMES	Psittaculidae	Geoffroyus geoffroyi obiensis	(Finsch)	1868	Papageien 2: 389	https://biodiversitylibrary.org/page/33410293		
 11705	PSITTACIFORMES	Psittaculidae	Geoffroyus geoffroyi keyensis	Finsch	1868	Papageien 2: 956	https://biodiversitylibrary.org/page/33410860		
-11706	PSITTACIFORMES	Psittaculidae	Geoffroyus geoffroyi jobiensis	"(Meyer, AB)"	1874	Sitz. K. Akad. Wiss. Wien 70: 225	https://biodiversitylibrary.org/page/8663422		
-11707	PSITTACIFORMES	Psittaculidae	Geoffroyus geoffroyi mysorensis	"(Meyer, AB)"	1874	Sitz. K. Akad. Wiss. Wien 70: 225	https://biodiversitylibrary.org/page/8663422		
-11708	PSITTACIFORMES	Psittaculidae	Geoffroyus geoffroyi timorlaoensis	"Meyer, AB"	1884	Sitz. Abh. Naturwiss. Ges. Isis Dresden Heft 1: 15	https://biodiversitylibrary.org/page/53706245		
+11706	PSITTACIFORMES	Psittaculidae	Geoffroyus geoffroyi jobiensis	(Meyer, AB)	1874	Sitz. K. Akad. Wiss. Wien 70: 225	https://biodiversitylibrary.org/page/8663422		
+11707	PSITTACIFORMES	Psittaculidae	Geoffroyus geoffroyi mysorensis	(Meyer, AB)	1874	Sitz. K. Akad. Wiss. Wien 70: 225	https://biodiversitylibrary.org/page/8663422		
+11708	PSITTACIFORMES	Psittaculidae	Geoffroyus geoffroyi timorlaoensis	Meyer, AB	1884	Sitz. Abh. Naturwiss. Ges. Isis Dresden Heft 1: 15	https://biodiversitylibrary.org/page/53706245		
 11709	PSITTACIFORMES	Psittaculidae	Geoffroyus geoffroyi sudestiensis	De Vis	1890	Annual Rep. Brit. New Guinea (1888-1889) App. G: 58	https://www.parliament.vic.gov.au/papers/govpub/VPARL1890No21.pdf		
-11710	PSITTACIFORMES	Psittaculidae	Geoffroyus geoffroyi floresianus	Salvadori	1891	"Cat. Birds Brit. Mus. 20: 400, 406"	https://biodiversitylibrary.org/page/8382705		
-11711	PSITTACIFORMES	Psittaculidae	Geoffroyus geoffroyi cyanicarpus	"Hartert, E"	1899	Novit. Zool. 6: 81	https://biodiversitylibrary.org/page/3258958		
-11712	PSITTACIFORMES	Psittaculidae	Geoffroyus geoffroyi maclennani	"(MacGillivray, WDK)"	1913	Emu 13: 105	https://biodiversitylibrary.org/page/16392318		
+11710	PSITTACIFORMES	Psittaculidae	Geoffroyus geoffroyi floresianus	Salvadori	1891	Cat. Birds Brit. Mus. 20: 400, 406	https://biodiversitylibrary.org/page/8382705		
+11711	PSITTACIFORMES	Psittaculidae	Geoffroyus geoffroyi cyanicarpus	Hartert, E	1899	Novit. Zool. 6: 81	https://biodiversitylibrary.org/page/3258958		
+11712	PSITTACIFORMES	Psittaculidae	Geoffroyus geoffroyi maclennani	(MacGillivray, WDK)	1913	Emu 13: 105	https://biodiversitylibrary.org/page/16392318		
 11713	PSITTACIFORMES	Psittaculidae	Geoffroyus geoffroyi minor	Neumann	1922	Verh. Orn. Ges. Bayern 15: 235	https://biodiversitylibrary.org/page/32684676		
-11714	PSITTACIFORMES	Psittaculidae	Geoffroyus simplex	"(Meyer, AB)"	1874	Verh. k. k. Zool.-Bot. Ges. Wien 24: 39	https://biodiversitylibrary.org/page/30250051		
-11715	PSITTACIFORMES	Psittaculidae	Geoffroyus simplex simplex	"(Meyer, AB)"	1874	Verh. k. k. Zool.-Bot. Ges. Wien 24: 39	https://biodiversitylibrary.org/page/30250051		
+11714	PSITTACIFORMES	Psittaculidae	Geoffroyus simplex	(Meyer, AB)	1874	Verh. k. k. Zool.-Bot. Ges. Wien 24: 39	https://biodiversitylibrary.org/page/30250051		
+11715	PSITTACIFORMES	Psittaculidae	Geoffroyus simplex simplex	(Meyer, AB)	1874	Verh. k. k. Zool.-Bot. Ges. Wien 24: 39	https://biodiversitylibrary.org/page/30250051		
 11716	PSITTACIFORMES	Psittaculidae	Geoffroyus simplex buergersi	Neumann	1922	Verh. Orn. Ges. Bayern 15: 235	https://biodiversitylibrary.org/page/32684676		
 11717	PSITTACIFORMES	Psittaculidae	Geoffroyus heteroclitus	(Hombron & Jacquinot)	1841	Ann. Sci. Nat. Zool. (Ser. 2) 16: 319	https://biodiversitylibrary.org/page/35730776		
 11718	PSITTACIFORMES	Psittaculidae	Geoffroyus heteroclitus heteroclitus	(Hombron & Jacquinot)	1841	Ann. Sci. Nat. Zool. (Ser. 2) 16: 319	https://biodiversitylibrary.org/page/35730776		
 11719	PSITTACIFORMES	Psittaculidae	Geoffroyus heteroclitus hyacinthinus	Mayr	1931	Am. Mus. Novit. 486: 13	http://hdl.handle.net/2246/3832		
 11720	PSITTACIFORMES	Psittaculidae	Psittinus	Blyth	1842				
-11721	PSITTACIFORMES	Psittaculidae	Psittinus cyanurus	"(Forster, JR)"	1795	Faunula Indica. ed. 2: 6			
-11722	PSITTACIFORMES	Psittaculidae	Psittinus cyanurus cyanurus	"(Forster, JR)"	1795	Faunula Indica. ed. 2: 6			
+11721	PSITTACIFORMES	Psittaculidae	Psittinus cyanurus	(Forster, JR)	1795	Faunula Indica. ed. 2: 6			
+11722	PSITTACIFORMES	Psittaculidae	Psittinus cyanurus cyanurus	(Forster, JR)	1795	Faunula Indica. ed. 2: 6			
 11723	PSITTACIFORMES	Psittaculidae	Psittinus cyanurus abbotti	Richmond	1902	Proc. Biol. Soc. Wash. 15: 188	https://biodiversitylibrary.org/page/2365083		
 11724	PSITTACIFORMES	Psittaculidae	Psittinus cyanurus pontius	Oberholser	1912	Smiths. Misc. Coll. 60 (7): 5	https://biodiversitylibrary.org/page/8910435		
 11725	PSITTACIFORMES	Psittaculidae	Tanygnathus	Wagler	1832				
 11726	PSITTACIFORMES	Psittaculidae	Tanygnathus megalorynchos	(Boddaert)	1783	Table Planches Enlum.: 45	https://biodiversitylibrary.org/page/27822665		
 11727	PSITTACIFORMES	Psittaculidae	Tanygnathus megalorynchos megalorynchos	(Boddaert)	1783	Table Planches Enlum.: 45	https://biodiversitylibrary.org/page/27822665		
 11728	PSITTACIFORMES	Psittaculidae	Tanygnathus megalorynchos affinis	Wallace	1863	Proc. Zool. Soc. London (1863): 20	https://biodiversitylibrary.org/page/30681276		
-11729	PSITTACIFORMES	Psittaculidae	Tanygnathus megalorynchos sumbensis	"Meyer, AB"	1881	Verh. k. k. Zool.-Bot. Ges. Wien 31: 762	https://biodiversitylibrary.org/page/13467234		
-11730	PSITTACIFORMES	Psittaculidae	Tanygnathus megalorynchos subaffinis	"Sclater, PL"	1883	Proc. Zool. Soc. London (1883): 53	https://biodiversitylibrary.org/page/28679827		
-11731	PSITTACIFORMES	Psittaculidae	Tanygnathus megalorynchos hellmayri	Mayr	1944	"Bull. Am. Mus. Nat. Hist. 83: 134, 149"	http://hdl.handle.net/2246/951		
+11729	PSITTACIFORMES	Psittaculidae	Tanygnathus megalorynchos sumbensis	Meyer, AB	1881	Verh. k. k. Zool.-Bot. Ges. Wien 31: 762	https://biodiversitylibrary.org/page/13467234		
+11730	PSITTACIFORMES	Psittaculidae	Tanygnathus megalorynchos subaffinis	Sclater, PL	1883	Proc. Zool. Soc. London (1883): 53	https://biodiversitylibrary.org/page/28679827		
+11731	PSITTACIFORMES	Psittaculidae	Tanygnathus megalorynchos hellmayri	Mayr	1944	Bull. Am. Mus. Nat. Hist. 83: 134, 149	http://hdl.handle.net/2246/951		
 11732	PSITTACIFORMES	Psittaculidae	Tanygnathus lucionensis	(Linnaeus)	1766	Syst. Nat. (ed. 12) 1: 146	https://biodiversitylibrary.org/page/445271		
 11733	PSITTACIFORMES	Psittaculidae	Tanygnathus lucionensis lucionensis	(Linnaeus)	1766	Syst. Nat. (ed. 12) 1: 146	https://biodiversitylibrary.org/page/445271		
-11734	PSITTACIFORMES	Psittaculidae	Tanygnathus lucionensis talautensis	"Meyer, AB & Wiglesworth"	1895	"Abh. Ber. Mus. Dresden 5 no. 9, p. 2"		no.9	p.2
+11734	PSITTACIFORMES	Psittaculidae	Tanygnathus lucionensis talautensis	Meyer, AB & Wiglesworth	1895	Abh. Ber. Mus. Dresden 5 no. 9, p. 2		no.9	p.2
 11735	PSITTACIFORMES	Psittaculidae	Tanygnathus lucionensis salvadorii	Ogilvie-Grant	1896	Ibis (Ser. 7) 2: 562	https://biodiversitylibrary.org/page/16281666		
 11736	PSITTACIFORMES	Psittaculidae	Tanygnathus lucionensis hybridus	Salomonsen	1952	Vidensk. Medd. Dansk. Naturhist. For. 114: 347			
 11737	PSITTACIFORMES	Psittaculidae	Tanygnathus sumatranus	(Raffles)	1822	Trans. Linn. Soc. London (Ser. 1) 13: 281	https://biodiversitylibrary.org/page/755027		
@@ -644,17 +644,17 @@
 11740	PSITTACIFORMES	Psittaculidae	Tanygnathus sumatranus burbidgii	Sharpe	1879	Proc. Zool. Soc. London (1879): 313	https://biodiversitylibrary.org/page/28521419		
 11741	PSITTACIFORMES	Psittaculidae	Tanygnathus sumatranus freeri	McGregor	1910	Philip. J. Sci. 5: 108	https://biodiversitylibrary.org/page/34353368		
 11742	PSITTACIFORMES	Psittaculidae	Tanygnathus sumatranus duponti	Parkes	1971	Bull. B.O.C. 91: 97	https://biodiversitylibrary.org/page/40823658		
-11743	PSITTACIFORMES	Psittaculidae	Tanygnathus gramineus	"(Gmelin, JF)"	1788	Syst. Nat. (ed. 12) 1: 338	https://biodiversitylibrary.org/page/2896938		
+11743	PSITTACIFORMES	Psittaculidae	Tanygnathus gramineus	(Gmelin, JF)	1788	Syst. Nat. (ed. 12) 1: 338	https://biodiversitylibrary.org/page/2896938		
 11744	PSITTACIFORMES	Psittaculidae	Psittacula	Cuvier	1800				
 11745	PSITTACIFORMES	Psittaculidae	Psittacula finschii	(Hume)	1874	Stray Feathers 2: 509	https://biodiversitylibrary.org/page/29846894		
-11746	PSITTACIFORMES	Psittaculidae	Psittacula himalayana	"(Lesson, R)"	1831	Voy. Ind. Orient. [Belanger]  Zool. [1834] pt 4: 239			
+11746	PSITTACIFORMES	Psittaculidae	Psittacula himalayana	(Lesson, R)	1831	Voy. Ind. Orient. [Belanger]  Zool. [1834] pt 4: 239			
 11747	PSITTACIFORMES	Psittaculidae	Psittacula roseata	Biswas	1951	Am. Mus. Novit. 1500: 4	http://hdl.handle.net/2246/3969		
 11748	PSITTACIFORMES	Psittaculidae	Psittacula roseata roseata	Biswas	1951	Am. Mus. Novit. 1500: 4	http://hdl.handle.net/2246/3969		
 11749	PSITTACIFORMES	Psittaculidae	Psittacula roseata juneae	Biswas	1951	Am. Mus. Novit. 1500: 5	http://hdl.handle.net/2246/3969		
 11750	PSITTACIFORMES	Psittaculidae	Psittacula cyanocephala	(Linnaeus)	1766	Syst. Nat. (ed. 12) 1: 141	https://biodiversitylibrary.org/page/445266		
 11751	PSITTACIFORMES	Psittaculidae	Psittacula alexandri	(Linnaeus)	1758	Syst. Nat. (ed. 10) 1: 97	https://biodiversitylibrary.org/page/727004		
 11752	PSITTACIFORMES	Psittaculidae	Psittacula alexandri alexandri	(Linnaeus)	1758	Syst. Nat. (ed. 10) 1: 97	https://biodiversitylibrary.org/page/727004		
-11753	PSITTACIFORMES	Psittaculidae	Psittacula alexandri fasciata	"(Müller, PLS)"	1776	Natursyst. Suppl. 9: 74	https://biodiversitylibrary.org/page/52710027		
+11753	PSITTACIFORMES	Psittaculidae	Psittacula alexandri fasciata	(Müller, PLS)	1776	Natursyst. Suppl. 9: 74	https://biodiversitylibrary.org/page/52710027		
 11754	PSITTACIFORMES	Psittaculidae	Psittacula alexandri major	(Richmond)	1902	Proc. Biol. Soc. Wash. 15: 188	https://biodiversitylibrary.org/page/2365083		
 11755	PSITTACIFORMES	Psittaculidae	Psittacula alexandri cala	(Oberholser)	1912	Smiths. Misc. Coll. 60 (7): 4	https://biodiversitylibrary.org/page/8910434		
 11756	PSITTACIFORMES	Psittaculidae	Psittacula alexandri perionca	(Oberholser)	1912	Smiths. Misc. Coll. 60 (7): 4	https://biodiversitylibrary.org/page/8910434		
@@ -676,23 +676,23 @@
 11772	PSITTACIFORMES	Psittaculidae	Psittacula eupatria magnirostris	(Ball)	1872	J. Asiat. Soc. Bengal 41 (2): 278	https://biodiversitylibrary.org/page/52805753		
 11773	PSITTACIFORMES	Psittaculidae	Psittacula eupatria avensis	(Kloss)	1917	J. Nat. Hist. Soc. Siam 2: 219	https://biodiversitylibrary.org/page/12264211		
 11774	PSITTACIFORMES	Psittaculidae	Psittacula eupatria siamensis	(Kloss)	1917	J. Nat. Hist. Soc. Siam 2: 219	https://biodiversitylibrary.org/page/12264211		
-11775	PSITTACIFORMES	Psittaculidae	Psittacula wardi  qq 	"(Newton, E)"	1867	"Ibis (Ser. 2)  3: 341, note"	https://biodiversitylibrary.org/page/8455625		
+11775	PSITTACIFORMES	Psittaculidae	Psittacula wardi  qq 	(Newton, E)	1867	Ibis (Ser. 2)  3: 341, note	https://biodiversitylibrary.org/page/8455625		
 11776	PSITTACIFORMES	Psittaculidae	Psittacula krameri	(Scopoli)	1769	Annus I Hist. Nat.: 31	https://biodiversitylibrary.org/page/31117660		
 11777	PSITTACIFORMES	Psittaculidae	Psittacula krameri krameri	(Scopoli)	1769	Annus I Hist. Nat.: 31	https://biodiversitylibrary.org/page/31117660		
-11778	PSITTACIFORMES	Psittaculidae	Psittacula krameri manillensis	(Bechstein)	1800	"Naturgesch. Stubenthiere (Ed. 2) 1: 612, note"	https://biodiversitylibrary.org/page/33113821		
+11778	PSITTACIFORMES	Psittaculidae	Psittacula krameri manillensis	(Bechstein)	1800	Naturgesch. Stubenthiere (Ed. 2) 1: 612, note	https://biodiversitylibrary.org/page/33113821		
 11779	PSITTACIFORMES	Psittaculidae	Psittacula krameri parvirostris	(Souancé)	1856	Rev. Mag. Zool. (Ser. 2) 8: 157	https://biodiversitylibrary.org/page/2303401		
 11780	PSITTACIFORMES	Psittaculidae	Psittacula krameri borealis	(Neumann)	1915	Orn. Monatsb. 23: 178	https://biodiversitylibrary.org/page/8765018		
 11781	PSITTACIFORMES	Psittaculidae	Psittacula eques	(Boddaert)	1783	Table Planches Enlum.: 13	https://biodiversitylibrary.org/page/27822614		
 11782	PSITTACIFORMES	Psittaculidae	Psittacula eques eques  qq 	(Boddaert)	1783	Table Planches Enlum.: 13	https://biodiversitylibrary.org/page/27822614		
-11783	PSITTACIFORMES	Psittaculidae	Psittacula eques echo	"(Newton, A & Newton, E)"	1876	Ibis (Ser. 3) 5: 284 pl. 6	https://biodiversitylibrary.org/page/8607438		
-11784	PSITTACIFORMES	Psittaculidae	Psittacula exsul  qq 	"(Newton, A)"	1872	Ibis (Ser. 3) 2: 33	https://biodiversitylibrary.org/page/8617958		
+11783	PSITTACIFORMES	Psittaculidae	Psittacula eques echo	(Newton, A & Newton, E)	1876	Ibis (Ser. 3) 5: 284 pl. 6	https://biodiversitylibrary.org/page/8607438		
+11784	PSITTACIFORMES	Psittaculidae	Psittacula exsul  qq 	(Newton, A)	1872	Ibis (Ser. 3) 2: 33	https://biodiversitylibrary.org/page/8617958		
 11785	PSITTACIFORMES	Psittaculidae	Psittacula caniceps	(Blyth)	1846	J. Asiat. Soc. Bengal 15: 23	https://biodiversitylibrary.org/page/40122558		
 11786	PSITTACIFORMES	Psittaculidae	Psittacula bensoni  qq 	(Holyoak)	1973	Ibis. 115: 417	https://doi.org/10.1111/j.1474-919X.1973.tb01980.x		
 11787	PSITTACIFORMES	Psittaculidae	Psittacella	Schlegel	1871				
 11788	PSITTACIFORMES	Psittaculidae	Psittacella brehmii	Schlegel	1871	Nederl. Tijdschr. Dierk. 4: 35	https://biodiversitylibrary.org/page/49085592		
 11789	PSITTACIFORMES	Psittaculidae	Psittacella brehmii brehmii	Schlegel	1871	Nederl. Tijdschr. Dierk. 4: 35	https://biodiversitylibrary.org/page/49085592		
-11790	PSITTACIFORMES	Psittaculidae	Psittacella brehmii pallida	"Meyer, AB"	1886	Zeitsch. ges. Orn. 3: 3	https://biodiversitylibrary.org/page/41086647		
-11791	PSITTACIFORMES	Psittaculidae	Psittacella brehmii intermixta	"Hartert, E"	1930	Novit. Zool. 36: 107	https://biodiversitylibrary.org/page/3434593		
+11790	PSITTACIFORMES	Psittaculidae	Psittacella brehmii pallida	Meyer, AB	1886	Zeitsch. ges. Orn. 3: 3	https://biodiversitylibrary.org/page/41086647		
+11791	PSITTACIFORMES	Psittaculidae	Psittacella brehmii intermixta	Hartert, E	1930	Novit. Zool. 36: 107	https://biodiversitylibrary.org/page/3434593		
 11792	PSITTACIFORMES	Psittaculidae	Psittacella brehmii harterti	Mayr	1931	Mitt. Zool. Mus. Berlin 17 Heft 5: 702			
 11793	PSITTACIFORMES	Psittaculidae	Psittacella picta	Rothschild	1896	Bull. B.O.C. 6: 5	https://biodiversitylibrary.org/page/32475481		
 11794	PSITTACIFORMES	Psittaculidae	Psittacella picta picta	Rothschild	1896	Bull. B.O.C. 6: 5	https://biodiversitylibrary.org/page/32475481		
@@ -701,8 +701,8 @@
 11797	PSITTACIFORMES	Psittaculidae	Psittacella modesta	Schlegel	1871	Nederl. Tijdschr. Dierk. 4: 36	https://biodiversitylibrary.org/page/49085591		
 11798	PSITTACIFORMES	Psittaculidae	Psittacella modesta modesta	Schlegel	1871	Nederl. Tijdschr. Dierk. 4: 36	https://biodiversitylibrary.org/page/49085591		
 11799	PSITTACIFORMES	Psittaculidae	Psittacella modesta collaris	Ogilvie-Grant	1914	Bull. B.O.C. 35: 13	https://biodiversitylibrary.org/page/32439461		
-11800	PSITTACIFORMES	Psittaculidae	Psittacella madaraszi	"Meyer, AB"	1886	Zeitsch. ges. Orn. 3: 4 pl. 1 fig. 1	https://biodiversitylibrary.org/page/41086648		
-11801	PSITTACIFORMES	Psittaculidae	Psittacella madaraszi madaraszi	"Meyer, AB"	1886	Zeitsch. ges. Orn. 3: 4 pl. 1 fig. 1	https://biodiversitylibrary.org/page/41086648		
+11800	PSITTACIFORMES	Psittaculidae	Psittacella madaraszi	Meyer, AB	1886	Zeitsch. ges. Orn. 3: 4 pl. 1 fig. 1	https://biodiversitylibrary.org/page/41086648		
+11801	PSITTACIFORMES	Psittaculidae	Psittacella madaraszi madaraszi	Meyer, AB	1886	Zeitsch. ges. Orn. 3: 4 pl. 1 fig. 1	https://biodiversitylibrary.org/page/41086648		
 11802	PSITTACIFORMES	Psittaculidae	Psittacella madaraszi huonensis	Mayr & Rand	1935	Am. Mus. Novit. 814: 4	http://hdl.handle.net/2246/4098		
 11803	PSITTACIFORMES	Psittaculidae	Psephotus	Gould	1845				
 11804	PSITTACIFORMES	Psittaculidae	Psephotus haematonotus	(Gould)	1838	Proc. Zool. Soc. London pt 5: 88	https://biodiversitylibrary.org/page/30570973		
@@ -713,22 +713,22 @@
 11809	PSITTACIFORMES	Psittaculidae	Northiella haematogaster haematogaster	(Gould)	1838	Proc. Zool. Soc. London pt 5: 89	https://biodiversitylibrary.org/page/30570974		
 11810	PSITTACIFORMES	Psittaculidae	Northiella haematogaster haematorrhoa	(Bonaparte)	1856	Naumannia 6 Consp. Psitt. in Beilag. no. 1 col. 13	https://biodiversitylibrary.org/page/13881823		
 11811	PSITTACIFORMES	Psittaculidae	Northiella haematogaster pallescens	(Salvadori)	1891	Cat. Birds Brit. Mus. 20: 563	https://biodiversitylibrary.org/page/8382868		
-11812	PSITTACIFORMES	Psittaculidae	Northiella narethae	"(White, HL)"	1921	Emu 21: 81 pl. 12	https://biodiversitylibrary.org/page/8990233		
+11812	PSITTACIFORMES	Psittaculidae	Northiella narethae	(White, HL)	1921	Emu 21: 81 pl. 12	https://biodiversitylibrary.org/page/8990233		
 11813	PSITTACIFORMES	Psittaculidae	Psephotellus	Mathews	1913				
-11814	PSITTACIFORMES	Psittaculidae	Psephotellus varius	"(Clark, AH)"	1910	Auk 27: 80	https://sora.unm.edu/sites/default/files/journals/auk/v027n01/p0080-p0080.pdf		
+11814	PSITTACIFORMES	Psittaculidae	Psephotellus varius	(Clark, AH)	1910	Auk 27: 80	https://sora.unm.edu/sites/default/files/journals/auk/v027n01/p0080-p0080.pdf		
 11815	PSITTACIFORMES	Psittaculidae	Psephotellus dissimilis	(Collett)	1898	Proc. Zool. Soc. London (1898): 356	https://biodiversitylibrary.org/page/30952709		
 11816	PSITTACIFORMES	Psittaculidae	Psephotellus chrysopterygius	(Gould)	1858	Proc. Zool. Soc. London pt 27: 220	https://biodiversitylibrary.org/page/12861282		
 11817	PSITTACIFORMES	Psittaculidae	Psephotellus pulcherrimus  qq 	(Gould)	1845	Ann. Mag. Nat. Hist. (Ser. 1) 15: 115	https://biodiversitylibrary.org/page/18663994		
 11818	PSITTACIFORMES	Psittaculidae	Purpureicephalus	Bonaparte	1854				
 11819	PSITTACIFORMES	Psittaculidae	Purpureicephalus spurius	(Kuhl)	1820	Nova Acta Acad. Caes. Leop. Carol. 10: 52	https://biodiversitylibrary.org/page/37020470		
 11820	PSITTACIFORMES	Psittaculidae	Platycercus	Vigors	1825				
-11821	PSITTACIFORMES	Psittaculidae	Platycercus caledonicus	"(Gmelin, JF)"	1788	Syst. Nat. (ed. 12) 1: 328	https://biodiversitylibrary.org/page/2896928		
-11822	PSITTACIFORMES	Psittaculidae	Platycercus caledonicus caledonicus	"(Gmelin, JF)"	1788	Syst. Nat. (ed. 12) 1: 328	https://biodiversitylibrary.org/page/2896928		
+11821	PSITTACIFORMES	Psittaculidae	Platycercus caledonicus	(Gmelin, JF)	1788	Syst. Nat. (ed. 12) 1: 328	https://biodiversitylibrary.org/page/2896928		
+11822	PSITTACIFORMES	Psittaculidae	Platycercus caledonicus caledonicus	(Gmelin, JF)	1788	Syst. Nat. (ed. 12) 1: 328	https://biodiversitylibrary.org/page/2896928		
 11823	PSITTACIFORMES	Psittaculidae	Platycercus caledonicus brownii	(Kuhl)	1820	Nova Acta Acad. Caes. Leop. Carol. 10: 56	https://biodiversitylibrary.org/page/37020474		
-11824	PSITTACIFORMES	Psittaculidae	Platycercus elegans	"(Gmelin, JF)"	1788	Syst. Nat. (ed. 12) 1: 318	https://biodiversitylibrary.org/page/2896918		
-11825	PSITTACIFORMES	Psittaculidae	Platycercus elegans elegans	"(Gmelin, JF)"	1788	Syst. Nat. (ed. 12) 1: 318	https://biodiversitylibrary.org/page/2896918		
-11826	PSITTACIFORMES	Psittaculidae	Platycercus elegans flaveolus	Gould	1837	"Syn. Birds Austr. pt 2 pl. [23], text"	https://biodiversitylibrary.org/page/47441569		
-11827	PSITTACIFORMES	Psittaculidae	Platycercus elegans nigrescens	"Ramsay, EP"	1888	Tab. List Austral. Birds: 34	https://biodiversitylibrary.org/page/14024361		
+11824	PSITTACIFORMES	Psittaculidae	Platycercus elegans	(Gmelin, JF)	1788	Syst. Nat. (ed. 12) 1: 318	https://biodiversitylibrary.org/page/2896918		
+11825	PSITTACIFORMES	Psittaculidae	Platycercus elegans elegans	(Gmelin, JF)	1788	Syst. Nat. (ed. 12) 1: 318	https://biodiversitylibrary.org/page/2896918		
+11826	PSITTACIFORMES	Psittaculidae	Platycercus elegans flaveolus	Gould	1837	Syn. Birds Austr. pt 2 pl. [23], text	https://biodiversitylibrary.org/page/47441569		
+11827	PSITTACIFORMES	Psittaculidae	Platycercus elegans nigrescens	Ramsay, EP	1888	Tab. List Austral. Birds: 34	https://biodiversitylibrary.org/page/14024361		
 11828	PSITTACIFORMES	Psittaculidae	Platycercus elegans melanopterus	North	1906	Emu 6: 78	https://biodiversitylibrary.org/page/8269022		
 11829	PSITTACIFORMES	Psittaculidae	Platycercus elegans subadelaidae	Mathews	1912	Novit. Zool. 18: 270	https://biodiversitylibrary.org/page/3109515		
 11830	PSITTACIFORMES	Psittaculidae	Platycercus elegans fleurieuensis	Ashby	1917	Emu 17: 44	https://biodiversitylibrary.org/page/16391915		
@@ -739,43 +739,43 @@
 11835	PSITTACIFORMES	Psittaculidae	Platycercus adscitus	(Latham)	1790	Index Orn. 1: 126	https://biodiversitylibrary.org/page/53510497		
 11836	PSITTACIFORMES	Psittaculidae	Platycercus adscitus adscitus	(Latham)	1790	Index Orn. 1: 126	https://biodiversitylibrary.org/page/53510497		
 11837	PSITTACIFORMES	Psittaculidae	Platycercus adscitus palliceps	Lear	1832	Ill. Psittac. pt 12 pl. 19	https://biodiversitylibrary.org/page/40634393		
-11838	PSITTACIFORMES	Psittaculidae	Platycercus eximius	(Shaw)	1792	"Nat. Misc. 3 pl. 93, text"	https://biodiversitylibrary.org/page/44484263		
-11839	PSITTACIFORMES	Psittaculidae	Platycercus eximius eximius	(Shaw)	1792	"Nat. Misc. 3 pl. 93, text"	https://biodiversitylibrary.org/page/44484263		
-11840	PSITTACIFORMES	Psittaculidae	Platycercus eximius diemenensis	North	1911	"Austral. Mus. Spec. Cat. 1, 3: 128"	https://biodiversitylibrary.org/page/11261086		
+11838	PSITTACIFORMES	Psittaculidae	Platycercus eximius	(Shaw)	1792	Nat. Misc. 3 pl. 93, text	https://biodiversitylibrary.org/page/44484263		
+11839	PSITTACIFORMES	Psittaculidae	Platycercus eximius eximius	(Shaw)	1792	Nat. Misc. 3 pl. 93, text	https://biodiversitylibrary.org/page/44484263		
+11840	PSITTACIFORMES	Psittaculidae	Platycercus eximius diemenensis	North	1911	Austral. Mus. Spec. Cat. 1, 3: 128	https://biodiversitylibrary.org/page/11261086		
 11841	PSITTACIFORMES	Psittaculidae	Platycercus eximius elecica	Schodde & Short	1989	Canberra Bird Notes 13: 120	http://canberrabirds.org.au/wp-content/canberra-bird-notes/cbnvol13no4.pdf		
 11842	PSITTACIFORMES	Psittaculidae	Platycercus icterotis	(Temminck & Kuhl)	1820	Nova Acta Acad. Caes. Leop. Carol. 10: 54	https://biodiversitylibrary.org/page/37020472		
 11843	PSITTACIFORMES	Psittaculidae	Platycercus icterotis icterotis	(Temminck & Kuhl)	1820	Nova Acta Acad. Caes. Leop. Carol. 10: 54	https://biodiversitylibrary.org/page/37020472		
 11844	PSITTACIFORMES	Psittaculidae	Platycercus icterotis xanthogenys	Salvadori	1891	Proc. Zool. Soc. London (1891): 129	https://biodiversitylibrary.org/page/30978336		
 11845	PSITTACIFORMES	Psittaculidae	Barnardius	Bonaparte	1854				
-11846	PSITTACIFORMES	Psittaculidae	Barnardius zonarius	(Shaw)	1805	"Nat. Misc. 16 pl. 657, text"	https://biodiversitylibrary.org/page/40521248		
-11847	PSITTACIFORMES	Psittaculidae	Barnardius zonarius zonarius	(Shaw)	1805	"Nat. Misc. 16 pl. 657, text"	https://biodiversitylibrary.org/page/40521248		
+11846	PSITTACIFORMES	Psittaculidae	Barnardius zonarius	(Shaw)	1805	Nat. Misc. 16 pl. 657, text	https://biodiversitylibrary.org/page/40521248		
+11847	PSITTACIFORMES	Psittaculidae	Barnardius zonarius zonarius	(Shaw)	1805	Nat. Misc. 16 pl. 657, text	https://biodiversitylibrary.org/page/40521248		
 11848	PSITTACIFORMES	Psittaculidae	Barnardius zonarius barnardi	(Vigors & Horsfield)	1827	Trans. Linn. Soc. London (Ser. 1) 15: 283	https://biodiversitylibrary.org/page/778532		
 11849	PSITTACIFORMES	Psittaculidae	Barnardius zonarius semitorquatus	(Quoy & Gaimard)	1832	Voy. Astrolabe Zool. 1: 237 Atlas Ois. pl. 23			
 11850	PSITTACIFORMES	Psittaculidae	Barnardius zonarius macgillivrayi	(North)	1900	Vict. Nat. 17: 91	https://biodiversitylibrary.org/page/30019799		
 11851	PSITTACIFORMES	Psittaculidae	Barnardius zonarius parkeri	Forshaw & Joseph	2016	Emu 116: 440-444	https://doi.org/10.1071/MU16005		
-11852	PSITTACIFORMES	Psittaculidae	Lathamus	"Lesson, R"	1830				
-11853	PSITTACIFORMES	Psittaculidae	Lathamus discolor	(Shaw)	1790	"J. voy. NSW: 263, pl. 49"	https://biodiversitylibrary.org/page/47182890		
+11852	PSITTACIFORMES	Psittaculidae	Lathamus	Lesson, R	1830				
+11853	PSITTACIFORMES	Psittaculidae	Lathamus discolor	(Shaw)	1790	J. voy. NSW: 263, pl. 49	https://biodiversitylibrary.org/page/47182890		
 11854	PSITTACIFORMES	Psittaculidae	Prosopeia	Bonaparte	1854				
 11855	PSITTACIFORMES	Psittaculidae	Prosopeia splendens	(Peale)	1849	U.S. Expl. Exped. 8: 127			
-11856	PSITTACIFORMES	Psittaculidae	Prosopeia personata	"(Gray, GR)"	1848	Proc. Zool. Soc. London pt 16: 21 pl. 3	https://biodiversitylibrary.org/page/12861861		
-11857	PSITTACIFORMES	Psittaculidae	Prosopeia tabuensis	"(Gmelin, JF)"	1788	Syst. Nat. (ed. 12) 1: 317	https://biodiversitylibrary.org/page/2896917		
-11858	PSITTACIFORMES	Psittaculidae	Prosopeia tabuensis tabuensis	"(Gmelin, JF)"	1788	Syst. Nat. (ed. 12) 1: 317	https://biodiversitylibrary.org/page/2896917		
-11859	PSITTACIFORMES	Psittaculidae	Prosopeia tabuensis taviunensis	"(Layard, EL)"	1876	Ibis (Ser. 3) 6: 141	https://biodiversitylibrary.org/page/8607291		
-11860	PSITTACIFORMES	Psittaculidae	Eunymphicus	"Peters, JL"	1937				
-11861	PSITTACIFORMES	Psittaculidae	Eunymphicus cornutus	"(Gmelin, JF)"	1788	Syst. Nat. (ed. 12) 1: 327	https://biodiversitylibrary.org/page/2896927		
-11862	PSITTACIFORMES	Psittaculidae	Eunymphicus uvaeensis	"(Layard, EL & Layard, ELC)"	1882	Proc. Zool. Soc. London (1882): 408 pl. 26 fig. 2	https://biodiversitylibrary.org/page/30825734		
+11856	PSITTACIFORMES	Psittaculidae	Prosopeia personata	(Gray, GR)	1848	Proc. Zool. Soc. London pt 16: 21 pl. 3	https://biodiversitylibrary.org/page/12861861		
+11857	PSITTACIFORMES	Psittaculidae	Prosopeia tabuensis	(Gmelin, JF)	1788	Syst. Nat. (ed. 12) 1: 317	https://biodiversitylibrary.org/page/2896917		
+11858	PSITTACIFORMES	Psittaculidae	Prosopeia tabuensis tabuensis	(Gmelin, JF)	1788	Syst. Nat. (ed. 12) 1: 317	https://biodiversitylibrary.org/page/2896917		
+11859	PSITTACIFORMES	Psittaculidae	Prosopeia tabuensis taviunensis	(Layard, EL)	1876	Ibis (Ser. 3) 6: 141	https://biodiversitylibrary.org/page/8607291		
+11860	PSITTACIFORMES	Psittaculidae	Eunymphicus	Peters, JL	1937				
+11861	PSITTACIFORMES	Psittaculidae	Eunymphicus cornutus	(Gmelin, JF)	1788	Syst. Nat. (ed. 12) 1: 327	https://biodiversitylibrary.org/page/2896927		
+11862	PSITTACIFORMES	Psittaculidae	Eunymphicus uvaeensis	(Layard, EL & Layard, ELC)	1882	Proc. Zool. Soc. London (1882): 408 pl. 26 fig. 2	https://biodiversitylibrary.org/page/30825734		
 11863	PSITTACIFORMES	Psittaculidae	Cyanoramphus	Bonaparte	1854				
 11864	PSITTACIFORMES	Psittaculidae	Cyanoramphus zealandicus  qq 	(Latham)	1790	Index Orn. 1: 102	https://biodiversitylibrary.org/page/53510473		
-11865	PSITTACIFORMES	Psittaculidae	Cyanoramphus ulietanus  qq 	"(Gmelin, JF)"	1788	Syst. Nat. (ed. 12) 1: 328	https://biodiversitylibrary.org/page/2896928		
-11866	PSITTACIFORMES	Psittaculidae	Cyanoramphus saisseti	"Verreaux, J & Des Murs"	1860	Rev. Mag. Zool. (Ser. 2) 12: 387	https://biodiversitylibrary.org/page/2264783		
+11865	PSITTACIFORMES	Psittaculidae	Cyanoramphus ulietanus  qq 	(Gmelin, JF)	1788	Syst. Nat. (ed. 12) 1: 328	https://biodiversitylibrary.org/page/2896928		
+11866	PSITTACIFORMES	Psittaculidae	Cyanoramphus saisseti	Verreaux, J & Des Murs	1860	Rev. Mag. Zool. (Ser. 2) 12: 387	https://biodiversitylibrary.org/page/2264783		
 11867	PSITTACIFORMES	Psittaculidae	Cyanoramphus forbesi	Rothschild	1893	Proc. Zool. Soc. London (1893): 529	https://biodiversitylibrary.org/page/30981608		
-11868	PSITTACIFORMES	Psittaculidae	Cyanoramphus cookii	"(Gray, GR)"	1859	List Birds Brit. Mus. 3 (2): 13	https://biodiversitylibrary.org/page/19059974		
+11868	PSITTACIFORMES	Psittaculidae	Cyanoramphus cookii	(Gray, GR)	1859	List Birds Brit. Mus. 3 (2): 13	https://biodiversitylibrary.org/page/19059974		
 11869	PSITTACIFORMES	Psittaculidae	Cyanoramphus subflavescens  qq 	Salvadori	1891	Ann. Mag. Nat. Hist. (Ser. 6) 7: 68	https://biodiversitylibrary.org/page/25164549		
 11870	PSITTACIFORMES	Psittaculidae	Cyanoramphus unicolor	(Lear)	1831	Ill. Psittac. pt 4 pl. 25	https://biodiversitylibrary.org/page/40634405		
 11871	PSITTACIFORMES	Psittaculidae	Cyanoramphus auriceps	(Kuhl)	1820	Nova Acta Acad. Caes. Leop. Carol. 10: 46	https://biodiversitylibrary.org/page/37020464		
 11872	PSITTACIFORMES	Psittaculidae	Cyanoramphus malherbi	Souancé	1857	Rev. Mag. Zool. (Ser. 2) 9: 98	https://biodiversitylibrary.org/page/13712234		
-11873	PSITTACIFORMES	Psittaculidae	Cyanoramphus novaezelandiae	(Sparrman)	1787	"Mus. Carls. fasc. 2 no. xxviii pl. 28, text"	https://biodiversitylibrary.org/page/41149434		
-11874	PSITTACIFORMES	Psittaculidae	Cyanoramphus novaezelandiae novaezelandiae	(Sparrman)	1787	"Mus. Carls. fasc. 2 no. xxviii pl. 28, text"	https://biodiversitylibrary.org/page/41149434		
+11873	PSITTACIFORMES	Psittaculidae	Cyanoramphus novaezelandiae	(Sparrman)	1787	Mus. Carls. fasc. 2 no. xxviii pl. 28, text	https://biodiversitylibrary.org/page/41149434		
+11874	PSITTACIFORMES	Psittaculidae	Cyanoramphus novaezelandiae novaezelandiae	(Sparrman)	1787	Mus. Carls. fasc. 2 no. xxviii pl. 28, text	https://biodiversitylibrary.org/page/41149434		
 11875	PSITTACIFORMES	Psittaculidae	Cyanoramphus novaezelandiae cyanurus	Salvadori	1891	Ann. Mag. Nat. Hist. (Ser. 6) 7: 68	https://biodiversitylibrary.org/page/25164549		
 11876	PSITTACIFORMES	Psittaculidae	Cyanoramphus novaezelandiae chathamensis	Oliver	1930	New Zealand Birds p. 412			
 11877	PSITTACIFORMES	Psittaculidae	Cyanoramphus hochstetteri	(Reischek)	1889	Trans. N.Z. Inst. 21: 387	http://rsnz.natlib.govt.nz/volume/rsnz_21/rsnz_21_00_003590.pdf		
@@ -784,10 +784,10 @@
 11880	PSITTACIFORMES	Psittaculidae	Pezoporus wallicus	(Kerr)	1792	Anim. Kingd. 1: 581	https://biodiversitylibrary.org/page/38664581		
 11881	PSITTACIFORMES	Psittaculidae	Pezoporus wallicus wallicus	(Kerr)	1792	Anim. Kingd. 1: 581	https://biodiversitylibrary.org/page/38664581		
 11882	PSITTACIFORMES	Psittaculidae	Pezoporus wallicus leachi	Mathews	1912	Novit. Zool. 18: 280	https://biodiversitylibrary.org/page/3109936		
-11883	PSITTACIFORMES	Psittaculidae	Pezoporus flaviventris	North	1911	"Austral. Mus. Spec. Cat. 1, 3: 121"	https://biodiversitylibrary.org/page/11261079		
+11883	PSITTACIFORMES	Psittaculidae	Pezoporus flaviventris	North	1911	Austral. Mus. Spec. Cat. 1, 3: 121	https://biodiversitylibrary.org/page/11261079		
 11884	PSITTACIFORMES	Psittaculidae	Pezoporus occidentalis	(Gould)	1861	Proc. Zool. Soc. London (1861): 100	https://biodiversitylibrary.org/page/28672608		
 11885	PSITTACIFORMES	Psittaculidae	Neopsephotus	Mathews	1912				
-11886	PSITTACIFORMES	Psittaculidae	Neopsephotus bourkii	(Gould)	1841	"Birds Austr. pt 5 pl. 12, text"	https://biodiversitylibrary.org/page/48401103		
+11886	PSITTACIFORMES	Psittaculidae	Neopsephotus bourkii	(Gould)	1841	Birds Austr. pt 5 pl. 12, text	https://biodiversitylibrary.org/page/48401103		
 11887	PSITTACIFORMES	Psittaculidae	Neophema	Salvadori	1891				
 11888	PSITTACIFORMES	Psittaculidae	Neophema chrysostoma	(Kuhl)	1820	Nova Acta Acad. Caes. Leop. Carol. 10: 50 pl. 1	https://biodiversitylibrary.org/page/37020468		
 11889	PSITTACIFORMES	Psittaculidae	Neophema elegans	(Gould)	1837	Proc. Zool. Soc. London pt 5: 25	https://biodiversitylibrary.org/page/30570910		
@@ -797,57 +797,57 @@
 11893	PSITTACIFORMES	Psittaculidae	Neophema petrophila petrophila	(Gould)	1841	Proc. Zool. Soc. London pt 8: 148	https://biodiversitylibrary.org/page/30571587		
 11894	PSITTACIFORMES	Psittaculidae	Neophema petrophila zietzi	(Mathews)	1912	Novit. Zool. 18: 278	https://biodiversitylibrary.org/page/3109934		
 11895	PSITTACIFORMES	Psittaculidae	Neophema chrysogaster	(Latham)	1790	Index Orn. 1: 97	https://biodiversitylibrary.org/page/53510468		
-11896	PSITTACIFORMES	Psittaculidae	Neophema pulchella	(Shaw)	1792	"Nat. Misc. 3 pl. 96, text"	https://biodiversitylibrary.org/page/44484285		
+11896	PSITTACIFORMES	Psittaculidae	Neophema pulchella	(Shaw)	1792	Nat. Misc. 3 pl. 96, text	https://biodiversitylibrary.org/page/44484285		
 11897	PSITTACIFORMES	Psittaculidae	Neophema splendida	(Gould)	1841	Proc. Zool. Soc. London pt 8: 147	https://biodiversitylibrary.org/page/30571586		
 11898	PSITTACIFORMES	Psittaculidae	Oreopsittacus	Salvadori	1877				
-11899	PSITTACIFORMES	Psittaculidae	Oreopsittacus arfaki	"(Meyer, AB)"	1874	Verh. k. k. Zool.-Bot. Ges. Wien 24: 37	https://biodiversitylibrary.org/page/30250049		
-11900	PSITTACIFORMES	Psittaculidae	Oreopsittacus arfaki arfaki	"(Meyer, AB)"	1874	Verh. k. k. Zool.-Bot. Ges. Wien 24: 37	https://biodiversitylibrary.org/page/30250049		
+11899	PSITTACIFORMES	Psittaculidae	Oreopsittacus arfaki	(Meyer, AB)	1874	Verh. k. k. Zool.-Bot. Ges. Wien 24: 37	https://biodiversitylibrary.org/page/30250049		
+11900	PSITTACIFORMES	Psittaculidae	Oreopsittacus arfaki arfaki	(Meyer, AB)	1874	Verh. k. k. Zool.-Bot. Ges. Wien 24: 37	https://biodiversitylibrary.org/page/30250049		
 11901	PSITTACIFORMES	Psittaculidae	Oreopsittacus arfaki grandis	Ogilvie-Grant	1895	Bull. B.O.C. 5: 15	https://biodiversitylibrary.org/page/32475425		
 11902	PSITTACIFORMES	Psittaculidae	Oreopsittacus arfaki major	Ogilvie-Grant	1914	Bull. B.O.C. 35: 11	https://biodiversitylibrary.org/page/32439459		
 11903	PSITTACIFORMES	Psittaculidae	Charmosyna	Wagler	1832				
-11904	PSITTACIFORMES	Psittaculidae	Charmosyna palmarum	"(Gmelin, JF)"	1788	Syst. Nat. (ed. 12) 1: 329	https://biodiversitylibrary.org/page/2896929		
-11905	PSITTACIFORMES	Psittaculidae	Charmosyna rubrigularis	"(Sclater, PL)"	1881	Proc. Zool. Soc. London (1881): 451	https://biodiversitylibrary.org/page/30759622		
-11906	PSITTACIFORMES	Psittaculidae	Charmosyna meeki	"(Rothschild & Hartert, E)"	1901	Novit. Zool. 8: 187	https://biodiversitylibrary.org/page/3267847		
+11904	PSITTACIFORMES	Psittaculidae	Charmosyna palmarum	(Gmelin, JF)	1788	Syst. Nat. (ed. 12) 1: 329	https://biodiversitylibrary.org/page/2896929		
+11905	PSITTACIFORMES	Psittaculidae	Charmosyna rubrigularis	(Sclater, PL)	1881	Proc. Zool. Soc. London (1881): 451	https://biodiversitylibrary.org/page/30759622		
+11906	PSITTACIFORMES	Psittaculidae	Charmosyna meeki	(Rothschild & Hartert, E)	1901	Novit. Zool. 8: 187	https://biodiversitylibrary.org/page/3267847		
 11907	PSITTACIFORMES	Psittaculidae	Charmosyna toxopei	(Siebers)	1930	Treubia 7 suppl. Livr. 5: 252 pl. 4			
 11908	PSITTACIFORMES	Psittaculidae	Charmosyna multistriata	(Rothschild)	1911	Bull. B.O.C. 27: 45	https://biodiversitylibrary.org/page/32553881		
-11909	PSITTACIFORMES	Psittaculidae	Charmosyna wilhelminae	"(Meyer, AB)"	1874	"J. für Orn. (Ser. 4) 22: 55, 56"	https://biodiversitylibrary.org/page/32705375		
+11909	PSITTACIFORMES	Psittaculidae	Charmosyna wilhelminae	(Meyer, AB)	1874	J. für Orn. (Ser. 4) 22: 55, 56	https://biodiversitylibrary.org/page/32705375		
 11910	PSITTACIFORMES	Psittaculidae	Charmosyna rubronotata	(Wallace)	1862	Proc. Zool. Soc. London (1862): 165	https://biodiversitylibrary.org/page/31577197		
 11911	PSITTACIFORMES	Psittaculidae	Charmosyna rubronotata rubronotata	(Wallace)	1862	Proc. Zool. Soc. London (1862): 165	https://biodiversitylibrary.org/page/31577197		
-11912	PSITTACIFORMES	Psittaculidae	Charmosyna rubronotata kordoana	"(Meyer, AB)"	1874	Verh. k. k. Zool.-Bot. Ges. Wien 24: 38	https://biodiversitylibrary.org/page/30250050		
+11912	PSITTACIFORMES	Psittaculidae	Charmosyna rubronotata kordoana	(Meyer, AB)	1874	Verh. k. k. Zool.-Bot. Ges. Wien 24: 38	https://biodiversitylibrary.org/page/30250050		
 11913	PSITTACIFORMES	Psittaculidae	Charmosyna placentis	(Temminck)	1835	Pl. Col. livr. 93 pl. 553			
 11914	PSITTACIFORMES	Psittaculidae	Charmosyna placentis placentis	(Temminck)	1835	Pl. Col. livr. 93 pl. 553			
-11915	PSITTACIFORMES	Psittaculidae	Charmosyna placentis subplacens	"(Sclater, PL)"	1876	Proc. Zool. Soc. London (1876): 519	https://biodiversitylibrary.org/page/29099750		
-11916	PSITTACIFORMES	Psittaculidae	Charmosyna placentis pallidior	"(Rothschild & Hartert, E)"	1905	Novit. Zool. 12: 253	https://biodiversitylibrary.org/page/3479003		
+11915	PSITTACIFORMES	Psittaculidae	Charmosyna placentis subplacens	(Sclater, PL)	1876	Proc. Zool. Soc. London (1876): 519	https://biodiversitylibrary.org/page/29099750		
+11916	PSITTACIFORMES	Psittaculidae	Charmosyna placentis pallidior	(Rothschild & Hartert, E)	1905	Novit. Zool. 12: 253	https://biodiversitylibrary.org/page/3479003		
 11917	PSITTACIFORMES	Psittaculidae	Charmosyna placentis intensior	(Kinnear)	1928	Bull. B.O.C. 48: 84	https://biodiversitylibrary.org/page/40501131		
 11918	PSITTACIFORMES	Psittaculidae	Charmosyna placentis ornata	Mayr	1940	Am. Mus. Novit. 1091: 1	http://hdl.handle.net/2246/3778		
-11919	PSITTACIFORMES	Psittaculidae	Charmosyna diadema  qq 	"(Verreaux, J & Des Murs)"	1860	Rev. Mag. Zool. (Ser. 2) 12: 390	https://biodiversitylibrary.org/page/2264786		
-11920	PSITTACIFORMES	Psittaculidae	Charmosyna amabilis	"(Ramsay, EP)"	1875	Sydney Morning Herald no. 11604: 9	https://trove.nla.gov.au/newspaper/article/13357883?searchTerm=amabilis&searchLimits=exactPhrase|||anyWords|||notWords|||requestHandler|||dateFrom=1875-01-01|||dateTo=1875-12-31|||l-advstate=New+South		
+11919	PSITTACIFORMES	Psittaculidae	Charmosyna diadema  qq 	(Verreaux, J & Des Murs)	1860	Rev. Mag. Zool. (Ser. 2) 12: 390	https://biodiversitylibrary.org/page/2264786		
+11920	PSITTACIFORMES	Psittaculidae	Charmosyna amabilis	(Ramsay, EP)	1875	Sydney Morning Herald no. 11604: 9	https://trove.nla.gov.au/newspaper/article/13357883?searchTerm=amabilis&searchLimits=exactPhrase|||anyWords|||notWords|||requestHandler|||dateFrom=1875-01-01|||dateTo=1875-12-31|||l-advstate=New+South		
 11921	PSITTACIFORMES	Psittaculidae	Charmosyna margarethae	Tristram	1879	Ibis (Ser. 4) 3: 442 pl. 12	https://biodiversitylibrary.org/page/8609618		
-11922	PSITTACIFORMES	Psittaculidae	Charmosyna pulchella	"Gray, GR"	1859	List Birds Brit. Mus. 3 (2): 102	https://biodiversitylibrary.org/page/19060063		
-11923	PSITTACIFORMES	Psittaculidae	Charmosyna pulchella pulchella	"Gray, GR"	1859	List Birds Brit. Mus. 3 (2): 102	https://biodiversitylibrary.org/page/19060063		
-11924	PSITTACIFORMES	Psittaculidae	Charmosyna pulchella rothschildi	"(Hartert, E)"	1930	Novit. Zool. 36: 105	https://biodiversitylibrary.org/page/3434591		
+11922	PSITTACIFORMES	Psittaculidae	Charmosyna pulchella	Gray, GR	1859	List Birds Brit. Mus. 3 (2): 102	https://biodiversitylibrary.org/page/19060063		
+11923	PSITTACIFORMES	Psittaculidae	Charmosyna pulchella pulchella	Gray, GR	1859	List Birds Brit. Mus. 3 (2): 102	https://biodiversitylibrary.org/page/19060063		
+11924	PSITTACIFORMES	Psittaculidae	Charmosyna pulchella rothschildi	(Hartert, E)	1930	Novit. Zool. 36: 105	https://biodiversitylibrary.org/page/3434591		
 11925	PSITTACIFORMES	Psittaculidae	Charmosyna josefinae	(Finsch)	1873	Atti Soc. Ital. Sci. Nat. Mus. Civ. Stor. Nat. Milano 15: 427 pl. 7	https://biodiversitylibrary.org/page/39820459		
 11926	PSITTACIFORMES	Psittaculidae	Charmosyna josefinae josefinae	(Finsch)	1873	Atti Soc. Ital. Sci. Nat. Mus. Civ. Stor. Nat. Milano 15: 427 pl. 7	https://biodiversitylibrary.org/page/39820459		
 11927	PSITTACIFORMES	Psittaculidae	Charmosyna josefinae sepikiana	Neumann	1922	Verh. Orn. Ges. Bayern 15: 235	https://biodiversitylibrary.org/page/32684676		
-11928	PSITTACIFORMES	Psittaculidae	Charmosyna josefinae cyclopum	"Hartert, E"	1930	Novit. Zool. 36: 104	https://biodiversitylibrary.org/page/3434590		
+11928	PSITTACIFORMES	Psittaculidae	Charmosyna josefinae cyclopum	Hartert, E	1930	Novit. Zool. 36: 104	https://biodiversitylibrary.org/page/3434590		
 11929	PSITTACIFORMES	Psittaculidae	Charmosyna papou	(Scopoli)	1786	Del. Flor. Faun. Insubr. 2: 86	http://bibdigital.rjb.csic.es/ing/Libro.php?Libro=2427		
 11930	PSITTACIFORMES	Psittaculidae	Charmosyna papou papou	(Scopoli)	1786	Del. Flor. Faun. Insubr. 2: 86	http://bibdigital.rjb.csic.es/ing/Libro.php?Libro=2427		
-11931	PSITTACIFORMES	Psittaculidae	Charmosyna papou stellae	"Meyer, AB"	1886	Zeitsch. ges. Orn. 3: 9 pl. 2	https://biodiversitylibrary.org/page/41086653		
+11931	PSITTACIFORMES	Psittaculidae	Charmosyna papou stellae	Meyer, AB	1886	Zeitsch. ges. Orn. 3: 9 pl. 2	https://biodiversitylibrary.org/page/41086653		
 11932	PSITTACIFORMES	Psittaculidae	Charmosyna papou wahnesi	Rothschild	1906	Bull. B.O.C. 19: 27	https://biodiversitylibrary.org/page/32433109		
-11933	PSITTACIFORMES	Psittaculidae	Charmosyna papou goliathina	"Rothschild & Hartert, E"	1911	Novit. Zool. 18: 160	https://biodiversitylibrary.org/page/3109479		
-11934	PSITTACIFORMES	Psittaculidae	Vini	"Lesson, R"	1833				
-11935	PSITTACIFORMES	Psittaculidae	Vini australis	"(Gmelin, JF)"	1788	Syst. Nat. 1 pt 1 p. 329	https://www.biodiversitylibrary.org/page/2896929		
+11933	PSITTACIFORMES	Psittaculidae	Charmosyna papou goliathina	Rothschild & Hartert, E	1911	Novit. Zool. 18: 160	https://biodiversitylibrary.org/page/3109479		
+11934	PSITTACIFORMES	Psittaculidae	Vini	Lesson, R	1833				
+11935	PSITTACIFORMES	Psittaculidae	Vini australis	(Gmelin, JF)	1788	Syst. Nat. 1 pt 1 p. 329	https://www.biodiversitylibrary.org/page/2896929		
 11936	PSITTACIFORMES	Psittaculidae	Vini kuhlii	(Vigors)	1824	Zool. Journ. 1: 412 pl. 16			
 11937	PSITTACIFORMES	Psittaculidae	Vini stepheni	(North)	1908	Rec. Austr. Mus. 7: 29	https://biodiversitylibrary.org/page/8055747		
-11938	PSITTACIFORMES	Psittaculidae	Vini peruviana	"(Müller, PLS)"	1776	Natursyst. Suppl. 9: 80	https://biodiversitylibrary.org/page/52710033		
+11938	PSITTACIFORMES	Psittaculidae	Vini peruviana	(Müller, PLS)	1776	Natursyst. Suppl. 9: 80	https://biodiversitylibrary.org/page/52710033		
 11939	PSITTACIFORMES	Psittaculidae	Vini ultramarina	(Kuhl)	1820	Nova Acta Acad. Caes. Leop. Carol. 10: 49	https://biodiversitylibrary.org/page/37020467		
-11940	PSITTACIFORMES	Psittaculidae	Phigys	"Gray, GR"	1870				
+11940	PSITTACIFORMES	Psittaculidae	Phigys	Gray, GR	1870				
 11941	PSITTACIFORMES	Psittaculidae	Phigys solitarius	(Suckow)	1800	Anf. theor. ang. Naturgesch. Thier. 2: 334	https://biodiversitylibrary.org/page/41032824		
 11942	PSITTACIFORMES	Psittaculidae	Neopsittacus	Salvadori	1875				
 11943	PSITTACIFORMES	Psittaculidae	Neopsittacus musschenbroekii	(Schlegel)	1871	Nederl. Tijdschr. Dierk. 4: 34	https://biodiversitylibrary.org/page/49085593		
-11944	PSITTACIFORMES	Psittaculidae	Neopsittacus pullicauda	"Hartert, E"	1896	Novit. Zool. 3: 17	https://biodiversitylibrary.org/page/3218394		
+11944	PSITTACIFORMES	Psittaculidae	Neopsittacus pullicauda	Hartert, E	1896	Novit. Zool. 3: 17	https://biodiversitylibrary.org/page/3218394		
 11945	PSITTACIFORMES	Psittaculidae	Parvipsitta	Mathews	1916				
-11946	PSITTACIFORMES	Psittaculidae	Parvipsitta pusilla	(Shaw)	1790	"J. voy. NSW: 262, pl. 48"	https://biodiversitylibrary.org/page/47182885		
+11946	PSITTACIFORMES	Psittaculidae	Parvipsitta pusilla	(Shaw)	1790	J. voy. NSW: 262, pl. 48	https://biodiversitylibrary.org/page/47182885		
 11947	PSITTACIFORMES	Psittaculidae	Parvipsitta porphyrocephala	(Dietrichsen)	1837	Trans. Linn. Soc. London (Ser. 1) 17: 553	https://biodiversitylibrary.org/page/734479		
 11948	PSITTACIFORMES	Psittaculidae	Lorius	Vigors	1825				
 11949	PSITTACIFORMES	Psittaculidae	Lorius garrulus	(Linnaeus)	1758	Syst. Nat. (ed. 10) 1: 100	https://biodiversitylibrary.org/page/764492		
@@ -857,42 +857,42 @@
 11953	PSITTACIFORMES	Psittaculidae	Lorius domicella	(Linnaeus)	1758	Syst. Nat. (ed. 10) 1: 100	https://biodiversitylibrary.org/page/764492		
 11954	PSITTACIFORMES	Psittaculidae	Lorius lory	(Linnaeus)	1758	Syst. Nat. (ed. 10) 1: 100	https://biodiversitylibrary.org/page/764492		
 11955	PSITTACIFORMES	Psittaculidae	Lorius lory lory	(Linnaeus)	1758	Syst. Nat. (ed. 10) 1: 100	https://biodiversitylibrary.org/page/764492		
-11956	PSITTACIFORMES	Psittaculidae	Lorius lory cyanauchen	"(Müller, S)"	1841	"Verh. Nat. Gesch. [Temminck] Land-Volk. no. 4: 107, note"	https://biodiversitylibrary.org/page/56901945		
-11957	PSITTACIFORMES	Psittaculidae	Lorius lory jobiensis	"(Meyer, AB)"	1874	"Sitz. K. Akad. Wiss. Wien 70: 229, 231"	https://biodiversitylibrary.org/page/8663428		
+11956	PSITTACIFORMES	Psittaculidae	Lorius lory cyanauchen	(Müller, S)	1841	Verh. Nat. Gesch. [Temminck] Land-Volk. no. 4: 107, note	https://biodiversitylibrary.org/page/56901945		
+11957	PSITTACIFORMES	Psittaculidae	Lorius lory jobiensis	(Meyer, AB)	1874	Sitz. K. Akad. Wiss. Wien 70: 229, 231	https://biodiversitylibrary.org/page/8663428		
 11958	PSITTACIFORMES	Psittaculidae	Lorius lory erythrothorax	Salvadori	1877	Ann. Mus. Civ. Stor. Nat. Genova 10: 32	https://biodiversitylibrary.org/page/29836621		
-11959	PSITTACIFORMES	Psittaculidae	Lorius lory salvadorii	"Meyer, AB"	1891				
+11959	PSITTACIFORMES	Psittaculidae	Lorius lory salvadorii	Meyer, AB	1891				
 11960	PSITTACIFORMES	Psittaculidae	Lorius lory viridicrissalis	Beaufort	1909	Nova Guinea 5 livr. 3: 403	https://biodiversitylibrary.org/page/40348565		
 11961	PSITTACIFORMES	Psittaculidae	Lorius lory somu	(Diamond)	1967	Am. Mus. Novit. 2284: 4	http://hdl.handle.net/2246/3080		
-11962	PSITTACIFORMES	Psittaculidae	Lorius hypoinochrous	"Gray, GR"	1859	List Birds Brit. Mus. 3 (2): 49	https://biodiversitylibrary.org/page/19060010		
-11963	PSITTACIFORMES	Psittaculidae	Lorius hypoinochrous hypoinochrous	"Gray, GR"	1859	List Birds Brit. Mus. 3 (2): 49	https://biodiversitylibrary.org/page/19060010		
-11964	PSITTACIFORMES	Psittaculidae	Lorius hypoinochrous devittatus	"Hartert, E"	1898	Novit. Zool. 5: 530	https://biodiversitylibrary.org/page/3219940		
-11965	PSITTACIFORMES	Psittaculidae	Lorius hypoinochrous rosselianus	"Rothschild & Hartert, E"	1918	Novit. Zool. 25: 312	https://biodiversitylibrary.org/page/3857142		
-11966	PSITTACIFORMES	Psittaculidae	Lorius albidinucha	"(Rothschild & Hartert, E)"	1924	Bull. B.O.C. 45: 7	https://biodiversitylibrary.org/page/40498854		
+11962	PSITTACIFORMES	Psittaculidae	Lorius hypoinochrous	Gray, GR	1859	List Birds Brit. Mus. 3 (2): 49	https://biodiversitylibrary.org/page/19060010		
+11963	PSITTACIFORMES	Psittaculidae	Lorius hypoinochrous hypoinochrous	Gray, GR	1859	List Birds Brit. Mus. 3 (2): 49	https://biodiversitylibrary.org/page/19060010		
+11964	PSITTACIFORMES	Psittaculidae	Lorius hypoinochrous devittatus	Hartert, E	1898	Novit. Zool. 5: 530	https://biodiversitylibrary.org/page/3219940		
+11965	PSITTACIFORMES	Psittaculidae	Lorius hypoinochrous rosselianus	Rothschild & Hartert, E	1918	Novit. Zool. 25: 312	https://biodiversitylibrary.org/page/3857142		
+11966	PSITTACIFORMES	Psittaculidae	Lorius albidinucha	(Rothschild & Hartert, E)	1924	Bull. B.O.C. 45: 7	https://biodiversitylibrary.org/page/40498854		
 11967	PSITTACIFORMES	Psittaculidae	Lorius chlorocercus	Gould	1856	Proc. Zool. Soc. London pt 24: 137	https://biodiversitylibrary.org/page/12860665		
 11968	PSITTACIFORMES	Psittaculidae	Chalcopsitta	Bonaparte	1850				
 11969	PSITTACIFORMES	Psittaculidae	Chalcopsitta atra	(Scopoli)	1786	Del. Flor. Faun. Insubr. 2: 87	http://bibdigital.rjb.csic.es/ing/Libro.php?Libro=2427		
 11970	PSITTACIFORMES	Psittaculidae	Chalcopsitta atra atra	(Scopoli)	1786	Del. Flor. Faun. Insubr. 2: 87	http://bibdigital.rjb.csic.es/ing/Libro.php?Libro=2427		
-11971	PSITTACIFORMES	Psittaculidae	Chalcopsitta atra bernsteini	"Rosenberg, HKB"	1861	J. für Orn. 9: 46	https://biodiversitylibrary.org/page/32902240		
+11971	PSITTACIFORMES	Psittaculidae	Chalcopsitta atra bernsteini	Rosenberg, HKB	1861	J. für Orn. 9: 46	https://biodiversitylibrary.org/page/32902240		
 11972	PSITTACIFORMES	Psittaculidae	Chalcopsitta atra insignis	Oustalet	1878	Bull. Hebdo. Assoc. Sci. France 21 no. 533: 247			
-11973	PSITTACIFORMES	Psittaculidae	Chalcopsitta duivenbodei	"Dubois, AJC"	1884	Bull. Mus. R. Hist. Nat. Belg. 3: 113 pl. 5			
+11973	PSITTACIFORMES	Psittaculidae	Chalcopsitta duivenbodei	Dubois, AJC	1884	Bull. Mus. R. Hist. Nat. Belg. 3: 113 pl. 5			
 11974	PSITTACIFORMES	Psittaculidae	Chalcopsitta scintillata	(Temminck)	1835	Pl. Col. livr. 96 pl. 569			
 11975	PSITTACIFORMES	Psittaculidae	Chalcopsitta scintillata scintillata	(Temminck)	1835	Pl. Col. livr. 96 pl. 569			
-11976	PSITTACIFORMES	Psittaculidae	Chalcopsitta scintillata rubrifrons	"Gray, GR"	1858	Proc. Zool. Soc. London pt 26: 182 pl. 135	https://biodiversitylibrary.org/page/32271694		
+11976	PSITTACIFORMES	Psittaculidae	Chalcopsitta scintillata rubrifrons	Gray, GR	1858	Proc. Zool. Soc. London pt 26: 182 pl. 135	https://biodiversitylibrary.org/page/32271694		
 11977	PSITTACIFORMES	Psittaculidae	Chalcopsitta scintillata chloroptera	Salvadori	1876	Ann. Mus. Civ. Stor. Nat. Genova 9: 15	https://biodiversitylibrary.org/page/29875741		
-11978	PSITTACIFORMES	Psittaculidae	Pseudeos	"Peters, JL"	1935				
+11978	PSITTACIFORMES	Psittaculidae	Pseudeos	Peters, JL	1935				
 11979	PSITTACIFORMES	Psittaculidae	Pseudeos fuscata	(Blyth)	1858	J. Asiat. Soc. Bengal 27: 279	https://biodiversitylibrary.org/page/40260553		
-11980	PSITTACIFORMES	Psittaculidae	Pseudeos cardinalis	"(Gray, GR)"	1849	Gen. Birds 3 App. p. 20	https://www.biodiversitylibrary.org/page/43592021		
+11980	PSITTACIFORMES	Psittaculidae	Pseudeos cardinalis	(Gray, GR)	1849	Gen. Birds 3 App. p. 20	https://www.biodiversitylibrary.org/page/43592021		
 11981	PSITTACIFORMES	Psittaculidae	Psitteuteles	Bonaparte	1854				
 11982	PSITTACIFORMES	Psittaculidae	Psitteuteles versicolor	(Lear)	1831	Ill. Psittac. pt 7 pl. 36	https://biodiversitylibrary.org/page/40634465		
 11983	PSITTACIFORMES	Psittaculidae	Psitteuteles iris	(Temminck)	1835	Pl. Col. livr. 96 pl. 567			
 11984	PSITTACIFORMES	Psittaculidae	Psitteuteles iris iris	(Temminck)	1835	Pl. Col. livr. 96 pl. 567			
 11985	PSITTACIFORMES	Psittaculidae	Psitteuteles iris wetterensis	(Hellmayr)	1912	Novit. Zool. 19: 211	https://biodiversitylibrary.org/page/3109191		
-11986	PSITTACIFORMES	Psittaculidae	Psitteuteles goldiei	(Sharpe)	1882	"J. Linn. Soc. London Zool. 16: 317, 426"	https://biodiversitylibrary.org/page/31982558		
+11986	PSITTACIFORMES	Psittaculidae	Psitteuteles goldiei	(Sharpe)	1882	J. Linn. Soc. London Zool. 16: 317, 426	https://biodiversitylibrary.org/page/31982558		
 11987	PSITTACIFORMES	Psittaculidae	Eos	Wagler	1832				
-11988	PSITTACIFORMES	Psittaculidae	Eos histrio	"(Müller, PLS)"	1776	Natursyst. Suppl. 9: 76	https://biodiversitylibrary.org/page/52710029		
-11989	PSITTACIFORMES	Psittaculidae	Eos histrio histrio	"(Müller, PLS)"	1776	Natursyst. Suppl. 9: 76	https://biodiversitylibrary.org/page/52710029		
-11990	PSITTACIFORMES	Psittaculidae	Eos histrio challengeri	Salvadori	1891	"Cat. Birds Brit. Mus. 20: 18, 22"	https://biodiversitylibrary.org/page/8382300		
-11991	PSITTACIFORMES	Psittaculidae	Eos histrio talautensis	"Meyer, AB & Wiglesworth"	1894	J. für Orn. 42: 240	https://biodiversitylibrary.org/page/32697590		
+11988	PSITTACIFORMES	Psittaculidae	Eos histrio	(Müller, PLS)	1776	Natursyst. Suppl. 9: 76	https://biodiversitylibrary.org/page/52710029		
+11989	PSITTACIFORMES	Psittaculidae	Eos histrio histrio	(Müller, PLS)	1776	Natursyst. Suppl. 9: 76	https://biodiversitylibrary.org/page/52710029		
+11990	PSITTACIFORMES	Psittaculidae	Eos histrio challengeri	Salvadori	1891	Cat. Birds Brit. Mus. 20: 18, 22	https://biodiversitylibrary.org/page/8382300		
+11991	PSITTACIFORMES	Psittaculidae	Eos histrio talautensis	Meyer, AB & Wiglesworth	1894	J. für Orn. 42: 240	https://biodiversitylibrary.org/page/32697590		
 11992	PSITTACIFORMES	Psittaculidae	Eos squamata	(Boddaert)	1783	Table Planches Enlum.: 42	https://biodiversitylibrary.org/page/27822661		
 11993	PSITTACIFORMES	Psittaculidae	Eos squamata squamata	(Boddaert)	1783	Table Planches Enlum.: 42	https://biodiversitylibrary.org/page/27822661		
 11994	PSITTACIFORMES	Psittaculidae	Eos squamata riciniata	(Bechstein)	1811	Allg. Uebers. Vögel 4 1: 69	https://biodiversitylibrary.org/page/54265764		
@@ -900,47 +900,47 @@
 11996	PSITTACIFORMES	Psittaculidae	Eos bornea	(Linnaeus)	1758	Syst. Nat. (ed. 10) 1: 97	https://biodiversitylibrary.org/page/727004		
 11997	PSITTACIFORMES	Psittaculidae	Eos bornea bornea	(Linnaeus)	1758	Syst. Nat. (ed. 10) 1: 97	https://biodiversitylibrary.org/page/727004		
 11998	PSITTACIFORMES	Psittaculidae	Eos bornea cyanonotha	(Vieillot)	1818	Nouv. Dict. d'Hist. Nat. 25: 334	https://biodiversitylibrary.org/page/18044100		
-11999	PSITTACIFORMES	Psittaculidae	Eos reticulata	"(Müller, S)"	1841	"Verh. Nat. Gesch. [Temminck] Land-Volk. no. 4: 108, note"	https://biodiversitylibrary.org/page/56901946		
+11999	PSITTACIFORMES	Psittaculidae	Eos reticulata	(Müller, S)	1841	Verh. Nat. Gesch. [Temminck] Land-Volk. no. 4: 108, note	https://biodiversitylibrary.org/page/56901946		
 12000	PSITTACIFORMES	Psittaculidae	Eos cyanogenia	Bonaparte	1850	Compt. Rend. 30: 135	https://biodiversitylibrary.org/page/4618140		
 12001	PSITTACIFORMES	Psittaculidae	Eos semilarvata	Bonaparte	1850	Compt. Rend. 30: 135	https://biodiversitylibrary.org/page/4618140		
 12002	PSITTACIFORMES	Psittaculidae	Trichoglossus	Stephens	1826				
 12003	PSITTACIFORMES	Psittaculidae	Trichoglossus ornatus	(Linnaeus)	1758	Syst. Nat. (ed. 10) 1: 98	https://biodiversitylibrary.org/page/727005		
 12004	PSITTACIFORMES	Psittaculidae	Trichoglossus forsteni	Bonaparte	1850	Compt. Rend. 30: 134	https://biodiversitylibrary.org/page/4618139		
 12005	PSITTACIFORMES	Psittaculidae	Trichoglossus forsteni forsteni	Bonaparte	1850	Compt. Rend. 30: 134	https://biodiversitylibrary.org/page/4618139		
-12006	PSITTACIFORMES	Psittaculidae	Trichoglossus forsteni mitchellii	"Gray, GR"	1859	List Birds Brit. Mus. 3 (2): 62	https://biodiversitylibrary.org/page/19060023		
-12007	PSITTACIFORMES	Psittaculidae	Trichoglossus forsteni djampeanus	"Hartert, E"	1897	Novit. Zool. 4: 172	https://biodiversitylibrary.org/page/3219049		
+12006	PSITTACIFORMES	Psittaculidae	Trichoglossus forsteni mitchellii	Gray, GR	1859	List Birds Brit. Mus. 3 (2): 62	https://biodiversitylibrary.org/page/19060023		
+12007	PSITTACIFORMES	Psittaculidae	Trichoglossus forsteni djampeanus	Hartert, E	1897	Novit. Zool. 4: 172	https://biodiversitylibrary.org/page/3219049		
 12008	PSITTACIFORMES	Psittaculidae	Trichoglossus forsteni stresemanni	Meise	1929	J. für Orn. 77: 472			
 12009	PSITTACIFORMES	Psittaculidae	Trichoglossus weberi	(Büttikofer)	1894	Reise Niederl. Ost-Ind. 3: 290 pl. 17 fig. 1	https://biodiversitylibrary.org/page/47775096		
 12010	PSITTACIFORMES	Psittaculidae	Trichoglossus capistratus	(Bechstein)	1811	Allg. Uebers. Vögel 4 1: 68	https://biodiversitylibrary.org/page/54265759		
 12011	PSITTACIFORMES	Psittaculidae	Trichoglossus capistratus capistratus	(Bechstein)	1811	Allg. Uebers. Vögel 4 1: 68	https://biodiversitylibrary.org/page/54265759		
-12012	PSITTACIFORMES	Psittaculidae	Trichoglossus capistratus fortis	"Hartert, E"	1898	Novit. Zool. 5: 120	https://biodiversitylibrary.org/page/3220062		
+12012	PSITTACIFORMES	Psittaculidae	Trichoglossus capistratus fortis	Hartert, E	1898	Novit. Zool. 5: 120	https://biodiversitylibrary.org/page/3220062		
 12013	PSITTACIFORMES	Psittaculidae	Trichoglossus capistratus flavotectus	Hellmayr	1914	Zool. Timor 1: 79	https://biodiversitylibrary.org/page/9403003		
 12014	PSITTACIFORMES	Psittaculidae	Trichoglossus haematodus	(Linnaeus)	1771	Mantissa Plant. p. 524	http://bibdigital.rjb.csic.es/ing/Libro.php?Libro=947		
 12015	PSITTACIFORMES	Psittaculidae	Trichoglossus haematodus haematodus	(Linnaeus)	1771	Mantissa Plant. p. 524	http://bibdigital.rjb.csic.es/ing/Libro.php?Libro=947		
 12016	PSITTACIFORMES	Psittaculidae	Trichoglossus haematodus massena	Bonaparte	1854	Rev. Mag. Zool. (Ser. 2) 6: 157	https://biodiversitylibrary.org/page/13681228		
-12017	PSITTACIFORMES	Psittaculidae	Trichoglossus haematodus nigrogularis	"Gray, GR"	1858	Proc. Zool. Soc. London pt 26: 183	https://biodiversitylibrary.org/page/32271695		
-12018	PSITTACIFORMES	Psittaculidae	Trichoglossus haematodus deplanchii	"Verreaux, J & Des Murs"	1860	Rev. Mag. Zool. (Ser. 2) 12: 388	https://biodiversitylibrary.org/page/2264784		
+12017	PSITTACIFORMES	Psittaculidae	Trichoglossus haematodus nigrogularis	Gray, GR	1858	Proc. Zool. Soc. London pt 26: 183	https://biodiversitylibrary.org/page/32271695		
+12018	PSITTACIFORMES	Psittaculidae	Trichoglossus haematodus deplanchii	Verreaux, J & Des Murs	1860	Rev. Mag. Zool. (Ser. 2) 12: 388	https://biodiversitylibrary.org/page/2264784		
 12019	PSITTACIFORMES	Psittaculidae	Trichoglossus haematodus flavicans	Cabanis & Reichenow	1876	Sitz. Ges. Nat. Freunde Berlin: 73	https://biodiversitylibrary.org/page/8795583		
 12020	PSITTACIFORMES	Psittaculidae	Trichoglossus haematodus nesophilus	Neumann	1929	J. für Orn. 77: 197			
 12021	PSITTACIFORMES	Psittaculidae	Trichoglossus rosenbergii	Schlegel	1871	Nederl. Tijdschr. Dierk. 4: 9	https://biodiversitylibrary.org/page/49085618		
-12022	PSITTACIFORMES	Psittaculidae	Trichoglossus moluccanus	"(Gmelin, JF)"	1788	Syst. Nat. (ed. 12) 1: 316	https://biodiversitylibrary.org/page/2896916		
-12023	PSITTACIFORMES	Psittaculidae	Trichoglossus moluccanus moluccanus	"(Gmelin, JF)"	1788	Syst. Nat. (ed. 12) 1: 316	https://biodiversitylibrary.org/page/2896916		
+12022	PSITTACIFORMES	Psittaculidae	Trichoglossus moluccanus	(Gmelin, JF)	1788	Syst. Nat. (ed. 12) 1: 316	https://biodiversitylibrary.org/page/2896916		
+12023	PSITTACIFORMES	Psittaculidae	Trichoglossus moluccanus moluccanus	(Gmelin, JF)	1788	Syst. Nat. (ed. 12) 1: 316	https://biodiversitylibrary.org/page/2896916		
 12024	PSITTACIFORMES	Psittaculidae	Trichoglossus moluccanus septentrionalis	Robinson	1900	Bull. Liverp. Mus. 2: 115	https://biodiversitylibrary.org/page/12801365		
 12025	PSITTACIFORMES	Psittaculidae	Trichoglossus rubritorquis	Vigors & Horsfield	1827	Trans. Linn. Soc. London (Ser. 1) 15: 291	https://biodiversitylibrary.org/page/778540		
 12026	PSITTACIFORMES	Psittaculidae	Trichoglossus euteles	(Temminck)	1835	Pl. Col. livr. 96 pl. 568			
 12027	PSITTACIFORMES	Psittaculidae	Trichoglossus flavoviridis	Wallace	1863	Proc. Zool. Soc. London (1862): 337 pl. 39	https://biodiversitylibrary.org/page/28627327		
 12028	PSITTACIFORMES	Psittaculidae	Trichoglossus flavoviridis flavoviridis	Wallace	1863	Proc. Zool. Soc. London (1862): 337 pl. 39	https://biodiversitylibrary.org/page/28627327		
 12029	PSITTACIFORMES	Psittaculidae	Trichoglossus flavoviridis meyeri	Walden	1871	Ann. Mag. Nat. Hist. (Ser. 4) 8: 281	https://biodiversitylibrary.org/page/19244457		
-12030	PSITTACIFORMES	Psittaculidae	Trichoglossus johnstoniae	"Hartert, E"	1903	Bull. B.O.C. 14: 10	https://biodiversitylibrary.org/page/37116802		
+12030	PSITTACIFORMES	Psittaculidae	Trichoglossus johnstoniae	Hartert, E	1903	Bull. B.O.C. 14: 10	https://biodiversitylibrary.org/page/37116802		
 12031	PSITTACIFORMES	Psittaculidae	Trichoglossus rubiginosus	(Bonaparte)	1850	Compt. Rend. 30: 134	https://biodiversitylibrary.org/page/4618139		
 12032	PSITTACIFORMES	Psittaculidae	Trichoglossus chlorolepidotus	(Kuhl)	1820	Nova Acta Acad. Caes. Leop. Carol. 10: 48	https://biodiversitylibrary.org/page/37020466		
 12033	PSITTACIFORMES	Psittaculidae	Glossopsitta	Bonaparte	1854				
-12034	PSITTACIFORMES	Psittaculidae	Glossopsitta concinna	(Shaw)	1791	"Nat. Misc. 3 pl. 87, text"	https://biodiversitylibrary.org/page/44484237		
-12035	PSITTACIFORMES	Psittaculidae	Glossopsitta concinna concinna	(Shaw)	1791	"Nat. Misc. 3 pl. 87, text"	https://biodiversitylibrary.org/page/44484237		
+12034	PSITTACIFORMES	Psittaculidae	Glossopsitta concinna	(Shaw)	1791	Nat. Misc. 3 pl. 87, text	https://biodiversitylibrary.org/page/44484237		
+12035	PSITTACIFORMES	Psittaculidae	Glossopsitta concinna concinna	(Shaw)	1791	Nat. Misc. 3 pl. 87, text	https://biodiversitylibrary.org/page/44484237		
 12036	PSITTACIFORMES	Psittaculidae	Glossopsitta concinna didimus	Mathews	1915	Austral Av. Rec. 2: 127	https://biodiversitylibrary.org/page/34804733		
 12037	PSITTACIFORMES	Psittaculidae	Melopsittacus	Gould	1840				
-12038	PSITTACIFORMES	Psittaculidae	Melopsittacus undulatus	(Shaw)	1805	"Nat. Misc. 16 pl. 673, text"	https://biodiversitylibrary.org/page/40521332		
-12039	PSITTACIFORMES	Psittaculidae	Psittaculirostris	"Gray, JE & Gray, GR"	1859				
+12038	PSITTACIFORMES	Psittaculidae	Melopsittacus undulatus	(Shaw)	1805	Nat. Misc. 16 pl. 673, text	https://biodiversitylibrary.org/page/40521332		
+12039	PSITTACIFORMES	Psittaculidae	Psittaculirostris	Gray, JE & Gray, GR	1859				
 12040	PSITTACIFORMES	Psittaculidae	Psittaculirostris desmarestii	(Desmarest)	1826	Dict. Sci. Nat. 39: 89	https://biodiversitylibrary.org/page/25305322		
 12041	PSITTACIFORMES	Psittaculidae	Psittaculirostris desmarestii desmarestii	(Desmarest)	1826	Dict. Sci. Nat. 39: 89	https://biodiversitylibrary.org/page/25305322		
 12042	PSITTACIFORMES	Psittaculidae	Psittaculirostris desmarestii blythii	(Wallace)	1864	Proc. Zool. Soc. London (1864): 284	https://biodiversitylibrary.org/page/28500593		
@@ -952,8 +952,8 @@
 12048	PSITTACIFORMES	Psittaculidae	Cyclopsitta	Reichenbach	1850				
 12049	PSITTACIFORMES	Psittaculidae	Cyclopsitta gulielmitertii	(Schlegel)	1866	Nederl. Tijdschr. Dierk. 3: 252	https://biodiversitylibrary.org/page/49109753		
 12050	PSITTACIFORMES	Psittaculidae	Cyclopsitta gulielmitertii gulielmitertii	(Schlegel)	1866	Nederl. Tijdschr. Dierk. 3: 252	https://biodiversitylibrary.org/page/49109753		
-12051	PSITTACIFORMES	Psittaculidae	Cyclopsitta gulielmitertii melanogenia	"(Rosenberg, HKB)"	1866	Natuurk. Tijdschr. Neder. Ind. 29: 142	https://biodiversitylibrary.org/page/13566832		
-12052	PSITTACIFORMES	Psittaculidae	Cyclopsitta gulielmitertii suavissima	"Sclater, PL"	1876	Ann. Mus. Civ. Stor. Nat. Genova 9: 12	https://biodiversitylibrary.org/page/29875738		
+12051	PSITTACIFORMES	Psittaculidae	Cyclopsitta gulielmitertii melanogenia	(Rosenberg, HKB)	1866	Natuurk. Tijdschr. Neder. Ind. 29: 142	https://biodiversitylibrary.org/page/13566832		
+12052	PSITTACIFORMES	Psittaculidae	Cyclopsitta gulielmitertii suavissima	Sclater, PL	1876	Ann. Mus. Civ. Stor. Nat. Genova 9: 12	https://biodiversitylibrary.org/page/29875738		
 12053	PSITTACIFORMES	Psittaculidae	Cyclopsitta gulielmitertii fuscifrons	Salvadori	1876	Ann. Mus. Civ. Stor. Nat. Genova 9: 14	https://biodiversitylibrary.org/page/29875740		
 12054	PSITTACIFORMES	Psittaculidae	Cyclopsitta gulielmitertii nigrifrons	Reichenow	1891	J. für Orn. (Ser. 4) 39: 217	https://biodiversitylibrary.org/page/32707521		
 12055	PSITTACIFORMES	Psittaculidae	Cyclopsitta gulielmitertii amabilis	(Reichenow)	1891	J. für Orn. (Ser. 4) 39: 432	https://biodiversitylibrary.org/page/32707736		
@@ -961,53 +961,53 @@
 12057	PSITTACIFORMES	Psittaculidae	Cyclopsitta diophthalma diophthalma	(Hombron & Jacquinot)	1841	Ann. Sci. Nat. Zool. (Ser. 2) 16: 318	https://biodiversitylibrary.org/page/35730775		
 12058	PSITTACIFORMES	Psittaculidae	Cyclopsitta diophthalma coxeni	Gould	1867	Proc. Zool. Soc. London (1867): 182	https://biodiversitylibrary.org/page/29533622		
 12059	PSITTACIFORMES	Psittaculidae	Cyclopsitta diophthalma aruensis	(Schlegel)	1874	J. Linn. Soc. London Zool. 16: 318	https://biodiversitylibrary.org/page/31982559		
-12060	PSITTACIFORMES	Psittaculidae	Cyclopsitta diophthalma macleayana	"Ramsay, EP"	1874	Sydney Morning Herald {November 5] : 5 col. 5	https://trove.nla.gov.au/newspaper/article/30942596?searchTerm=%22Cyclopsitta%20macleayana%22&searchLimits=notWords|||requestHandler|||anyWords|||exactPhrase=Cyclopsitta+macleayana|||dateTo|||dateFrom		
-12061	PSITTACIFORMES	Psittaculidae	Cyclopsitta diophthalma virago	"Hartert, E"	1895	Novit. Zool. 2: 61	https://biodiversitylibrary.org/page/3859336		
-12062	PSITTACIFORMES	Psittaculidae	Cyclopsitta diophthalma inseparabilis	"Hartert, E"	1898	Bull. B.O.C. 8: 9	https://biodiversitylibrary.org/page/32475645		
+12060	PSITTACIFORMES	Psittaculidae	Cyclopsitta diophthalma macleayana	Ramsay, EP	1874	Sydney Morning Herald {November 5] : 5 col. 5	https://trove.nla.gov.au/newspaper/article/30942596?searchTerm=%22Cyclopsitta%20macleayana%22&searchLimits=notWords|||requestHandler|||anyWords|||exactPhrase=Cyclopsitta+macleayana|||dateTo|||dateFrom		
+12061	PSITTACIFORMES	Psittaculidae	Cyclopsitta diophthalma virago	Hartert, E	1895	Novit. Zool. 2: 61	https://biodiversitylibrary.org/page/3859336		
+12062	PSITTACIFORMES	Psittaculidae	Cyclopsitta diophthalma inseparabilis	Hartert, E	1898	Bull. B.O.C. 8: 9	https://biodiversitylibrary.org/page/32475645		
 12063	PSITTACIFORMES	Psittaculidae	Cyclopsitta diophthalma marshalli	(Iredale)	1946	Emu 46: 1			
 12064	PSITTACIFORMES	Psittaculidae	Bolbopsittacus	Salvadori	1891				
 12065	PSITTACIFORMES	Psittaculidae	Bolbopsittacus lunulatus	(Scopoli)	1786	Del. Flor. Faun. Insubr. 2: 86	http://bibdigital.rjb.csic.es/ing/Libro.php?Libro=2427		
 12066	PSITTACIFORMES	Psittaculidae	Bolbopsittacus lunulatus lunulatus	(Scopoli)	1786	Del. Flor. Faun. Insubr. 2: 86	http://bibdigital.rjb.csic.es/ing/Libro.php?Libro=2427		
 12067	PSITTACIFORMES	Psittaculidae	Bolbopsittacus lunulatus mindanensis	(Steere)	1890	List Birds Mamms. Steere Exped. p. 6	https://biodiversitylibrary.org/page/40202757		
-12068	PSITTACIFORMES	Psittaculidae	Bolbopsittacus lunulatus intermedius	Salvadori	1891	"Cat. Birds Brit. Mus. 20: 504, 505 pl. 13"	https://biodiversitylibrary.org/page/8382809		
+12068	PSITTACIFORMES	Psittaculidae	Bolbopsittacus lunulatus intermedius	Salvadori	1891	Cat. Birds Brit. Mus. 20: 504, 505 pl. 13	https://biodiversitylibrary.org/page/8382809		
 12069	PSITTACIFORMES	Psittaculidae	Bolbopsittacus lunulatus callainipictus	Parkes	1971	Bull. B.O.C. 91: 96	https://biodiversitylibrary.org/page/40823657		
 12070	PSITTACIFORMES	Psittaculidae	Loriculus	Blyth	1849				
-12071	PSITTACIFORMES	Psittaculidae	Loriculus vernalis	(Sparrman)	1787	"Mus. Carls. fasc. 2 no. xxix pl. 29, text"	https://biodiversitylibrary.org/page/41149438		
-12072	PSITTACIFORMES	Psittaculidae	Loriculus vernalis vernalis	(Sparrman)	1787	"Mus. Carls. fasc. 2 no. xxix pl. 29, text"	https://biodiversitylibrary.org/page/41149438		
+12071	PSITTACIFORMES	Psittaculidae	Loriculus vernalis	(Sparrman)	1787	Mus. Carls. fasc. 2 no. xxix pl. 29, text	https://biodiversitylibrary.org/page/41149438		
+12072	PSITTACIFORMES	Psittaculidae	Loriculus vernalis vernalis	(Sparrman)	1787	Mus. Carls. fasc. 2 no. xxix pl. 29, text	https://biodiversitylibrary.org/page/41149438		
 12073	PSITTACIFORMES	Psittaculidae	Loriculus vernalis phileticus	Deignan	1956	Proc. Biol. Soc. Wash. 69: 207	https://biodiversitylibrary.org/page/34549901		
 12074	PSITTACIFORMES	Psittaculidae	Loriculus beryllinus	(Pennant)	1781	Indische Zool.: 40			
-12075	PSITTACIFORMES	Psittaculidae	Loriculus philippensis	"(Müller, PLS)"	1776	Natursyst. Suppl. 9: 80	https://biodiversitylibrary.org/page/52710033		
-12076	PSITTACIFORMES	Psittaculidae	Loriculus philippensis philippensis	"(Müller, PLS)"	1776	Natursyst. Suppl. 9: 80	https://biodiversitylibrary.org/page/52710033		
+12075	PSITTACIFORMES	Psittaculidae	Loriculus philippensis	(Müller, PLS)	1776	Natursyst. Suppl. 9: 80	https://biodiversitylibrary.org/page/52710033		
+12076	PSITTACIFORMES	Psittaculidae	Loriculus philippensis philippensis	(Müller, PLS)	1776	Natursyst. Suppl. 9: 80	https://biodiversitylibrary.org/page/52710033		
 12077	PSITTACIFORMES	Psittaculidae	Loriculus philippensis regulus	Souancé	1856	Rev. Mag. Zool. (Ser. 2) 8: 222	https://biodiversitylibrary.org/page/2303507		
 12078	PSITTACIFORMES	Psittaculidae	Loriculus philippensis apicalis	Souancé	1856	Rev. Mag. Zool. (Ser. 2) 8: 220	https://biodiversitylibrary.org/page/2303505		
 12079	PSITTACIFORMES	Psittaculidae	Loriculus philippensis bonapartei	Souancé	1856	Rev. Mag. Zool. (Ser. 2) 8: 222	https://biodiversitylibrary.org/page/2303507		
-12080	PSITTACIFORMES	Psittaculidae	Loriculus philippensis chrysonotus  qq 	"Sclater, PL"	1872	Ibis (Ser. 3) 2: 324 pl. 11	https://biodiversitylibrary.org/page/8618290		
+12080	PSITTACIFORMES	Psittaculidae	Loriculus philippensis chrysonotus  qq 	Sclater, PL	1872	Ibis (Ser. 3) 2: 324 pl. 11	https://biodiversitylibrary.org/page/8618290		
 12081	PSITTACIFORMES	Psittaculidae	Loriculus philippensis mindorensis	Steere	1890	List Birds Mamms. Steere Exped. p. 6	https://biodiversitylibrary.org/page/40202757		
 12082	PSITTACIFORMES	Psittaculidae	Loriculus philippensis worcesteri	Steere	1890	List Birds Mamms. Steere Exped. p. 6	https://biodiversitylibrary.org/page/40202757		
 12083	PSITTACIFORMES	Psittaculidae	Loriculus philippensis siquijorensis	Steere	1890	List Birds Mamms. Steere Exped. p. 6	https://biodiversitylibrary.org/page/40202757		
 12084	PSITTACIFORMES	Psittaculidae	Loriculus philippensis bournsi	McGregor	1905	Bureau Govt Labs no. 25: 16			
-12085	PSITTACIFORMES	Psittaculidae	Loriculus philippensis dohertyi	"Hartert, E"	1906	Novit. Zool. 13: 757	https://biodiversitylibrary.org/page/2972300		
-12086	PSITTACIFORMES	Psittaculidae	Loriculus camiguinensis	"Tello, Degner, Bates, JM & Willard"	2006	Fieldiana Zool. 106: 51	https://biodiversitylibrary.org/page/2853568		
+12085	PSITTACIFORMES	Psittaculidae	Loriculus philippensis dohertyi	Hartert, E	1906	Novit. Zool. 13: 757	https://biodiversitylibrary.org/page/2972300		
+12086	PSITTACIFORMES	Psittaculidae	Loriculus camiguinensis	Tello, Degner, Bates, JM & Willard	2006	Fieldiana Zool. 106: 51	https://biodiversitylibrary.org/page/2853568		
 12087	PSITTACIFORMES	Psittaculidae	Loriculus galgulus	(Linnaeus)	1758	Syst. Nat. (ed. 10) 1: 103	https://biodiversitylibrary.org/page/727008		
-12088	PSITTACIFORMES	Psittaculidae	Loriculus stigmatus	"(Müller, S)"	1843	"Verh. Nat. Gesch. [Temminck] Land-Volk. no. 6: 182, note"	https://biodiversitylibrary.org/page/56902020		
-12089	PSITTACIFORMES	Psittaculidae	Loriculus stigmatus stigmatus	"(Müller, S)"	1843	"Verh. Nat. Gesch. [Temminck] Land-Volk. no. 6: 182, note"	https://biodiversitylibrary.org/page/56902020		
+12088	PSITTACIFORMES	Psittaculidae	Loriculus stigmatus	(Müller, S)	1843	Verh. Nat. Gesch. [Temminck] Land-Volk. no. 6: 182, note	https://biodiversitylibrary.org/page/56902020		
+12089	PSITTACIFORMES	Psittaculidae	Loriculus stigmatus stigmatus	(Müller, S)	1843	Verh. Nat. Gesch. [Temminck] Land-Volk. no. 6: 182, note	https://biodiversitylibrary.org/page/56902020		
 12090	PSITTACIFORMES	Psittaculidae	Loriculus stigmatus quadricolor	Walden	1872	Ann. Mag. Nat. Hist. (Ser. 4) 9: 398	https://biodiversitylibrary.org/page/16086271		
 12091	PSITTACIFORMES	Psittaculidae	Loriculus stigmatus croconotus	Jany	1955	J. für Orn. 96: 220			
 12092	PSITTACIFORMES	Psittaculidae	Loriculus amabilis	Wallace	1862	Ibis 4: 349	https://biodiversitylibrary.org/page/8330951		
 12093	PSITTACIFORMES	Psittaculidae	Loriculus sclateri	Wallace	1863	Proc. Zool. Soc. London (1862): 336 pl. 38	https://biodiversitylibrary.org/page/28627326		
 12094	PSITTACIFORMES	Psittaculidae	Loriculus sclateri sclateri	Wallace	1863	Proc. Zool. Soc. London (1862): 336 pl. 38	https://biodiversitylibrary.org/page/28627326		
-12095	PSITTACIFORMES	Psittaculidae	Loriculus sclateri ruber	"Meyer, AB & Wiglesworth"	1896	Abh. Ber. Mus. Dresden 6 (2): 9	https://biodiversitylibrary.org/page/33471089		
+12095	PSITTACIFORMES	Psittaculidae	Loriculus sclateri ruber	Meyer, AB & Wiglesworth	1896	Abh. Ber. Mus. Dresden 6 (2): 9	https://biodiversitylibrary.org/page/33471089		
 12096	PSITTACIFORMES	Psittaculidae	Loriculus catamene	Schlegel	1871	Nederl. Tijdschr. Dierk. 4: 7	https://biodiversitylibrary.org/page/49085620		
 12097	PSITTACIFORMES	Psittaculidae	Loriculus aurantiifrons	Schlegel	1871	Nederl. Tijdschr. Dierk. 4: 9	https://biodiversitylibrary.org/page/49085618		
 12098	PSITTACIFORMES	Psittaculidae	Loriculus aurantiifrons aurantiifrons	Schlegel	1871	Nederl. Tijdschr. Dierk. 4: 9	https://biodiversitylibrary.org/page/49085618		
-12099	PSITTACIFORMES	Psittaculidae	Loriculus aurantiifrons meeki	"Hartert, E"	1895	Novit. Zool. 2: 62	https://biodiversitylibrary.org/page/3859337		
-12100	PSITTACIFORMES	Psittaculidae	Loriculus tener	"Sclater, PL"	1877	Proc. Zool. Soc. London (1877): 107	https://biodiversitylibrary.org/page/28510673		
+12099	PSITTACIFORMES	Psittaculidae	Loriculus aurantiifrons meeki	Hartert, E	1895	Novit. Zool. 2: 62	https://biodiversitylibrary.org/page/3859337		
+12100	PSITTACIFORMES	Psittaculidae	Loriculus tener	Sclater, PL	1877	Proc. Zool. Soc. London (1877): 107	https://biodiversitylibrary.org/page/28510673		
 12101	PSITTACIFORMES	Psittaculidae	Loriculus exilis	Schlegel	1866	Nederl. Tijdschr. Dierk. 3: 185	https://biodiversitylibrary.org/page/49109686		
-12102	PSITTACIFORMES	Psittaculidae	Loriculus pusillus	"Gray, GR"	1859	List Birds Brit. Mus. 3 (2): 54	https://biodiversitylibrary.org/page/19060015		
+12102	PSITTACIFORMES	Psittaculidae	Loriculus pusillus	Gray, GR	1859	List Birds Brit. Mus. 3 (2): 54	https://biodiversitylibrary.org/page/19060015		
 12103	PSITTACIFORMES	Psittaculidae	Loriculus flosculus	Wallace	1864	Proc. Zool. Soc. London (1863): 488	https://biodiversitylibrary.org/page/30681848		
 12104	PSITTACIFORMES	Psittaculidae	Agapornis	Selby	1836				
-12105	PSITTACIFORMES	Psittaculidae	Agapornis canus	"(Gmelin, JF)"	1788	Syst. Nat. (ed. 12) 1: 350	https://biodiversitylibrary.org/page/2896950		
-12106	PSITTACIFORMES	Psittaculidae	Agapornis canus canus	"(Gmelin, JF)"	1788	Syst. Nat. (ed. 12) 1: 350	https://biodiversitylibrary.org/page/2896950		
+12105	PSITTACIFORMES	Psittaculidae	Agapornis canus	(Gmelin, JF)	1788	Syst. Nat. (ed. 12) 1: 350	https://biodiversitylibrary.org/page/2896950		
+12106	PSITTACIFORMES	Psittaculidae	Agapornis canus canus	(Gmelin, JF)	1788	Syst. Nat. (ed. 12) 1: 350	https://biodiversitylibrary.org/page/2896950		
 12107	PSITTACIFORMES	Psittaculidae	Agapornis canus ablectaneus	Bangs	1918	Bull. Mus. Comp. Zool. 61: 503	https://biodiversitylibrary.org/page/4311570		
 12108	PSITTACIFORMES	Psittaculidae	Agapornis pullarius	(Linnaeus)	1758	Syst. Nat. (ed. 10) 1: 102	https://biodiversitylibrary.org/page/727007		
 12109	PSITTACIFORMES	Psittaculidae	Agapornis pullarius pullarius	(Linnaeus)	1758	Syst. Nat. (ed. 10) 1: 102	https://biodiversitylibrary.org/page/727007		
@@ -1019,12 +1019,12 @@
 12115	PSITTACIFORMES	Psittaculidae	Agapornis swindernianus emini	Neumann	1908	Bull. B.O.C. 21: 42	https://biodiversitylibrary.org/page/32426752		
 12116	PSITTACIFORMES	Psittaculidae	Agapornis roseicollis	(Vieillot)	1818	Nouv. Dict. d'Hist. Nat. 25: 377	https://biodiversitylibrary.org/page/18044145		
 12117	PSITTACIFORMES	Psittaculidae	Agapornis roseicollis roseicollis	(Vieillot)	1818	Nouv. Dict. d'Hist. Nat. 25: 377	https://biodiversitylibrary.org/page/18044145		
-12118	PSITTACIFORMES	Psittaculidae	Agapornis roseicollis catumbella	"Hall, BP"	1952	Bull. B.O.C. 72: 25	https://biodiversitylibrary.org/page/40591139		
+12118	PSITTACIFORMES	Psittaculidae	Agapornis roseicollis catumbella	Hall, BP	1952	Bull. B.O.C. 72: 25	https://biodiversitylibrary.org/page/40591139		
 12119	PSITTACIFORMES	Psittaculidae	Agapornis fischeri	Reichenow	1887	J. für Orn. (Ser. 4) 35: 54	https://biodiversitylibrary.org/page/32714336		
-12120	PSITTACIFORMES	Psittaculidae	Agapornis personatus	Reichenow	1887	"J. für Orn. (Ser. 4) 35: 40, 55"	https://biodiversitylibrary.org/page/32714322		
+12120	PSITTACIFORMES	Psittaculidae	Agapornis personatus	Reichenow	1887	J. für Orn. (Ser. 4) 35: 40, 55	https://biodiversitylibrary.org/page/32714322		
 12121	PSITTACIFORMES	Psittaculidae	Agapornis lilianae	Shelley	1894	Ibis (Ser. 6) 6: 466 pl. 12	https://biodiversitylibrary.org/page/16283146		
-12122	PSITTACIFORMES	Psittaculidae	Agapornis nigrigenis	"Sclater, WL"	1906	Bull. B.O.C. 16: 61	https://biodiversitylibrary.org/page/32432745		
-12123	PSITTACIFORMES	Psittaculidae	Lophopsittacus	"Newton, A"	1875				
+12122	PSITTACIFORMES	Psittaculidae	Agapornis nigrigenis	Sclater, WL	1906	Bull. B.O.C. 16: 61	https://biodiversitylibrary.org/page/32432745		
+12123	PSITTACIFORMES	Psittaculidae	Lophopsittacus	Newton, A	1875				
 12124	PSITTACIFORMES	Psittaculidae	Lophopsittacus mauritianus  qq 	(Owen)	1866	Ibis (ser. 2) 2: 171	https://archive.org/details/ibis02brit/page/168/mode/2up?view=theater		
 12125	PSITTACIFORMES	Psittaculidae	Necropsittacus	Milne-Edwards	1873				
 12126	PSITTACIFORMES	Psittaculidae	Necropsittacus rodricanus  qq 	(Milne-Edwards)	1867	Ann. des Sci. Nat. Zool. (Ser. 5) 8::151	https://biodiversitylibrary.org/page/29125972		
