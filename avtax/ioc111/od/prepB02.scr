@@ -29,6 +29,3 @@ sed 's/|/ \&ensp; /g' odt002g.tmp > odt002h.tmp
 sed 's/\&ensp; 1.000//' odt002h.tmp > odt002i.tmp
 sed -e '/http/s/http/ <a href="http/' odt002i.tmp > odt002j.tmp
 sed -e '/http/s/<\/li>$/" target="new">OD<\/a><\/li>/' odt002j.tmp > odt002k.tmp
-
-
-
