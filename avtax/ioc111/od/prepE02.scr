@@ -1,0 +1,33 @@
+##
+##
+## Initially hand edited records for Struthio and Rhea to remove od links
+## making them consistent with other genera.
+## added step to remove repeated Somateria records that lack OD links
+#sed '/[0-9]		/d' sofarB002.txt > sofarB002a.txt
+##
+## next replace tab with pipe and delete empty lines from end of spreadsheet
+sed 's/	/|/g' Acan-Furn.txt| awk '$0~/[A-z]/' > SS07AcFu.txt
+## this works.
+## next remove leading count number.
+cut --complement -f 1 --delimiter="|" SS07AcFu.txt > odt007a.tmp
+## this works.
+## note that the dagger shows up now as "<86>"
+##
+## Now add leading <li>
+sed 's/^/<li> /' odt007a.tmp > odt007b.tmp
+## this works.
+## now add wide space between ORDER and Family
+sed 's/|/ \&emsp; /' odt007b.tmp > odt007c.tmp
+##
+## Add emspace and start italics for taxon
+## this works
+sed 's/|/ \&emsp; <i> /' odt007c.tmp > odt007d.tmp
+sed 's/|/<\/i> \&emsp; /' odt007d.tmp > odt007e.tmp
+sed 's/$/<\/li>/' odt007e.tmp > odt007f.tmp
+sed 's/||/ \&ensp; /' odt007f.tmp > odt007g.tmp
+sed 's/|/ \&ensp; /g' odt007g.tmp > odt007h.tmp
+sed 's/\&ensp; 1.000//' odt007h.tmp > odt007i.tmp
+sed -e '/http/s/http/ <a href="http/' odt007i.tmp > odt007j.tmp
+sed -e '/http/s/<\/li>$/" target="new">OD<\/a><\/li>/' odt007j.tmp > odt007k.tmp
+# add a line to delete empty rows at end
+sed /^<li>  \&emsp;/d odt007k.tmp > odt007l.tmp
