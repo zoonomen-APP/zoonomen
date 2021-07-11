@@ -29,5 +29,3 @@ sed 's/|/ \&ensp; /g' odt007g.tmp > odt007h.tmp
 sed 's/\&ensp; 1.000//' odt007h.tmp > odt007i.tmp
 sed -e '/http/s/http/ <a href="http/' odt007i.tmp > odt007j.tmp
 sed -e '/http/s/<\/li>$/" target="new">OD<\/a><\/li>/' odt007j.tmp > odt007k.tmp
-# add a line to delete empty rows at end
-sed /^<li>  \&emsp;/d odt007k.tmp > odt007l.tmp
