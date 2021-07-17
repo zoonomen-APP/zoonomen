@@ -1511,7 +1511,7 @@ Plantar vinculum retained; manubrium
 not forked (Desmodactyli, Forbes *) 9. Eurylsemid®, p. 454. 
 Family I. TYRANNISE. 
 
-The Tyrannidce or Tyrant-birds are a large and much varied 
+The Tyrannidae or Tyrant-birds are a large and much varied 
 group, numbering over 400 species, absolutely restricted to the New 
 World, or Nearctic and Neotropical Regions, over every part of 
 which (except the extreme arctic portion) they are distributed in 
@@ -1522,7 +1522,7 @@ of the Passerine Order, being at once distinguishable from the
 Muscicajpidce by their normal first primary (which in the Muscicapidce 
 is abnormally shortened) and exaspidian tarsi. 
 
-More than 400 species of Tyrannidce are already known, and 
+More than 400 species of Tyrannidae are already known, and 
 many more no doubt remain to be discovered, as the more remote 
 portions of South America come to be investigated. They are for the 
 most part birds of small size—the largest known species of Tyrant-
@@ -1534,7 +1534,7 @@ and green ; though there are occasional exceptions to the rule, such
 as the brilliant scarlet of the male Pyrocephali, and the fiery crests 
 of the Musdvorce. Their generally uniform plumage and similar 
 external structure renders the discrimination of the species of 
-Tyrannidce and their grouping into genera extremely difficult, and 
+Tyrannidae and their grouping into genera extremely difficult, and 
 in many cases unsatisfactory. It must not be for an instant supposed 
 that the arrangement here employed, which is practically the same 
 as that used by Mr. Salvin and myself in the c Nomenclator Avium 
@@ -1550,7 +1550,7 @@ eventually succeed in giving us a much bettor system than anything
 that can bo obtained from the study of the dried skins. 
 
 I regret to say that I have quite failed in my attempt to draw up 
-anything like a key to the genera of Tyrannidce as they are here 
+anything like a key to the genera of Tyrannidae as they are here 
 arranged. I have therefore given under the head of each genus 
 some of the more salient points by which its members may be 
 recognized. Even as regards the subfamilies, I can only offer the 
@@ -3396,7 +3396,7 @@ Sayornis, Bp. Ann. So. Nat. s6x. 4, Zool. t. i. p. 133
 Aulanax, Cab. J.f.O.n. 1856, p. 2 S. nigricans. 
 Theromyias, Cab. et Hein. Mus. Hein. ii. p. 68 (1859) S. saya. 
 
-Sayornis contains a small group of Tyrannidce allied to Ochthceca, 
+Sayornis contains a small group of Tyrannidae allied to Ochthceca, 
 but of rather larger size, and with a longer and stronger bill, which 
 has induced the American ornithologists to place them near 
 Myiarchus. Their water-loving habits, however, as well as their 
@@ -4936,13 +4936,13 @@ Type.
 p. 24 (1840) 
 M. rufivertex. 
 The Muscisaxieolce constitute a well-marked group of abnormal 
-Tyrannidce, peculiar to the Patagonian llegion and to the higher 
+Tyrannidae, peculiar to the Patagonian llegion and to the higher 
 Andes of the more northern parts of South America, and simulating 
 the Motacilke of the Old World in their habits and somewhat also 
 in their structure. Their tarsi are long and strong, their wings 
 long, their beak compressed, and the rictal bristles almost altogether 
 obsolete, so that at first sight they would hardly be taken for 
-Tyrannidce at all. The plumage in this genus is generally cinereous 
+Tyrannidae at all. The plumage in this genus is generally cinereous 
 with but slight markings ; the tail-coverts and tail are blackish 
 or black in all the known species, with a white outer margin to the 
 outer rectrix. 
@@ -5594,7 +5594,7 @@ TYRANNISE.
 
 Subfamily II. PLATYRHYNCHIN/E. 
 
-The Pfatj/rhynchince are a forest-haunting group of the Tyrannidce, 
+The Pfatj/rhynchince are a forest-haunting group of the Tyrannidae, 
 distinguished 'generally by their broadened bill and thin tarsi, 
 modified to suit their arboreal habits. But in the aberrant members 
 of the subfamily these characters become much weakened, until they 
@@ -6950,7 +6950,7 @@ species. It is, however, not nearly allied to Myiobius, and in its long,
 smooth, and slender tarsi seems to come closer to Todirostrum and 
 Euscarthmus, near which, for the present, I place it. At the same 
 time, the two outer toes are rather more connected than is usual in 
-the Tyrannidw, and it is quite possible that Pseudotriccus may 
+the Tyrannidae, and it is quite possible that Pseudotriccus may 
 turn out to be a Piprine form, as maintained by its discoverer, 
 
 M. Stolzmann. 
@@ -7644,7 +7644,7 @@ Culicivora is restricted, so far as we know at present, to S.E. Brazil
 and the adjoining districts. It is at once recognizable by its long 
 graduated tail, with the barbs of the rectrices very thin and much 
 narrowed. The sandy plumage, which it shares with Habmra, is 
-only met with in these two types of the family Tyrannidm. 
+only met with in these two types of the family Tyrannidae 
 
 1. Culicivora stenura. 
 Muscicapa stenura, Temm. PI, Col. 167. fig. 3. 
@@ -8433,7 +8433,7 @@ Tachuris, Lafr. etffiOrb. Syn. Av. i. p. 55 (1837) C. azawe.
 
 In Cyanotis the constriction of the bill and the smoothness of 
 the rictus are carried to an extreme which is unparalleled among 
-other Tyrannidce; and although there is little doubt that the affinities 
+other Tyrannidae; and although there is little doubt that the affinities 
 of Cyanotis are with this family, it is certainly a most anomalous 
 form, both in structure and colour, and must, I think, eventually 
 be allowed the rank of a distinct subfamily, For the present, I 
@@ -13118,7 +13118,7 @@ Saurophagus, Sw. Fauna JBor.-Am., Aves, p. 484 (1831) P. sulphuratus.
 Apolites, Sund. K Vet.-Ah. Handl 1835, p. 81 (1836) P. sulphuratus. 
 
 This is one of the largest and strongest forms among the 
-Tyrannidce. Pitangus sulphuratus has a long compressed beak 
+Tyrannidae. Pitangus sulphuratus has a long compressed beak 
 with a formidable terminal hook, moderately long wings, and robust 
 feet. Some of the other species have their features considerably 
 modified. 
@@ -14107,7 +14107,7 @@ d. Ad. sk. Veragua (Arci). Sclater Coll.
 Subfamily IV. TYRANNINiE. 
 
 The Tyrannince, or typical Tyrants, with which. I conclude the 
-series of Tyrannidce, embrace most of the strongest and largest 
+series of Tyrannidae, embrace most of the strongest and largest 
 members of the family. The bill is generally much more depressed 
 than in the preceding subfamily, and the gape armed with bristles. 
 The wings are more or less lengthened and formed for active flight. 
@@ -14118,7 +14118,7 @@ The Tyrannince, as here arranged (though, as already stated, the
 whole systematic order of the present family must be taken as purely 
 provisional), are distributed all over the Nearctic and Neotropical 
 Eegions. Nearly all the well-known North-American genera of 
-Tyrannidce (such as Ernpidonax, Contopus, MyiarcJius, and Tyrannies) 
+Tyrannidae (such as Ernpidonax, Contopus, MyiarcJius, and Tyrannies) 
 belong to this section; while others (Muscivora, Hirundinea, 
 Gnijpodectes) are purely Neotropical. Blacicus and Lawrencia are 
 Antillean types of this subfamily. 
@@ -19345,7 +19345,7 @@ to this species or to
 
 M. tricolor. The slight spine at the bend of the wing, alluded to in 
 d'Orbigny's name, is found more or less developed in many species 
-of Tyrannidse. 
+of Tyrannidae 
 a. Ad. sk. Cachupata, Peru {Whitehj). Sclater Coll. 
 b. Ad. sk. Cachupata, Peru {Whitely). 
 Salvin-Godman Coll. 
@@ -21005,7 +21005,7 @@ usually regarded as merely a subfamily of the Cotingidce, and the
 
 two groups are certainly very closely allied. But as regards their 
 
-exaspidean tarsi, the Pvpridcr come nearer the Tyrannidce, and they 
+exaspidean tarsi, the Pvpridcr come nearer the Tyrannidae, and they 
 
 are 
 further distinguished from most of the Ootingidm by their 
@@ -23425,7 +23425,7 @@ Subfamily II. PTILOCHLORIN^E.
 
 In this section I place a small set of mostly dull-colonred birds, 
 which combine the foot-structure of the Pipridce with the bill 
-of the Tyrannidce. They range from Southern Mexico to S.E. Brazil. 
+of the Tyrannidae. They range from Southern Mexico to S.E. Brazil. 
 Whether Eeterocercus should be referred here is to say the least 
 uncertain. 
 
@@ -23542,7 +23542,7 @@ Mexico to Brazil, being confined everywhere to the dense forests.
 The first five species are all representative forms of one type, remarkable 
 for their nearly uniform brownish-olive coloration: the 
 sixth is also of uniform plumage, but with a predominance of green 
-and smaller in size. The last three mimic the Tyrannidm as regards 
+and smaller in size. The last three mimic the Tyrannidaeas regards 
 their half-concealed head-spot, but show the Piprine structure in 
 t/heir feet. 
 
@@ -24027,7 +24027,7 @@ a length of 18 inches, is certainly remarkable amongst members of
 
 the same natural family. 
 
-Like the Tyrannidce the Qotingidop are dentirostral Oligophones, 
+Like the Tyrannidae the Qotingidop are dentirostral Oligophones, 
 and have ten well-formed primaries instead of nine, or nine and a 
 shortened outer primary, as is the ease with the dentirostral Oscines. 
 They number about 110 species, and are distributed over tropical 
@@ -26331,7 +26331,7 @@ d ad. sk. Nichi, Antioquia, U. S. 0. Salvin-Godman Coll.
 (Salmon). 
 Subfamily III. ATTILINJE. 
 
-This small group has been variously referred to the Tyrannidce, 
+This small group has been variously referred to the Tyrannidae, 
 Formicariidce, and Gotingidce. In placing it in the last-named 
 group I have followed Sundevall, but I am by no means sure of this 
 being its correct position. The strong, hooked, and compressed bill 
