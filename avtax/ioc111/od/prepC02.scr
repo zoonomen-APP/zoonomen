@@ -10,7 +10,7 @@
 #sed '/[0-9]		/d' STRIBUCEed.txt > STRIBUCEeda.txt
 ##
 ## next replace tab with pipe
-sed 's/	/|/g' STRIBUCEed.txt > STRIBUCEeda.txt
+sed 's/	/|/g' STRI-BUCEdagger.txt > STRIBUCEeda.txt
 ### this works.
 ### next remove leading count number.
 cut --complement -f 1 --delimiter="|" STRIBUCEeda.txt > odt003a.tmp
