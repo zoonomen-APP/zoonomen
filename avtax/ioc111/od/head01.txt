@@ -10,11 +10,11 @@
 	<link rel="stylesheet" href="./stylesheet.css" type="text/css"></link>
 	</head>
 	<body bgcolor="white">
-		<small>Version 0.009 (2021.07.10)</small>
+		<small>Version 0.011 (2021.07.16)</small>
 
 		<h4>Original description links</h4>
 
-		<h3><big><big>S</big></big>TRUTHIONIFORMES thru Furnariidae</h3><p>
+		<h3><big><big>S</big></big>TRUTHIONIFORMES thru Tyrranidae</h3><p>
 
 		<h3>Taxonomic sequence follows IOC 11.1</h3>
 

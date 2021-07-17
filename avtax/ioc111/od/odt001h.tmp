@@ -1,12 +1,12 @@
 <li> ORDER &emsp; FAMILY &emsp; <i> TAXON</i> &emsp; AUTHORITY &ensp; TYPE SPECIES &ensp; YEAR &ensp; REFERENCE &ensp; URL</li>
-<li> STRUTHIONIFORMES &emsp; Struthionidae &emsp; <i> Struthio</i> &emsp; Linnaeus &ensp; 1.000 &ensp; 1758 &ensp; Gray, G.R. </li>
+<li> STRUTHIONIFORMES &emsp; Struthionidae &emsp; <i> Struthio</i> &emsp; Linnaeus &ensp; 1.000 &ensp; 1758 &ensp; Gray, G.R., List Gen. Birds, 1840, p. 63 &ensp; https://www.biodiversitylibrary.org/item/48588#page/77/mode/1up</li>
 <li> STRUTHIONIFORMES &emsp; Struthionidae &emsp; <i> Struthio camelus</i> &emsp; Linnaeus &ensp; 1758 &ensp; Syst. Nat. (ed. 10) 1: 155 &ensp; https://biodiversitylibrary.org/page/727062</li>
-<li> STRUTHIONIFORMES &emsp; Struthionidae &emsp; <i> Struthio camelus syriacus  qq </i> &emsp; Rothschild &ensp; 1919 &ensp; Bull. B.O.C. 39: 83 &ensp; https://biodiversitylibrary.org/page/32431253</li>
+<li> STRUTHIONIFORMES &emsp; Struthionidae &emsp; <i> Struthio camelus syriacus&dagger;</i> &emsp; Rothschild &ensp; 1919 &ensp; Bull. B.O.C. 39: 83 &ensp; https://biodiversitylibrary.org/page/32431253</li>
 <li> STRUTHIONIFORMES &emsp; Struthionidae &emsp; <i> Struthio camelus camelus</i> &emsp; Linnaeus &ensp; 1758 &ensp; Syst. Nat. (ed. 10) 1: 155 &ensp; https://biodiversitylibrary.org/page/727062</li>
 <li> STRUTHIONIFORMES &emsp; Struthionidae &emsp; <i> Struthio camelus massaicus</i> &emsp; Neumann &ensp; 1898 &ensp; J. für Orn. (Ser. 5) 46: 243 &ensp; https://biodiversitylibrary.org/page/33428639</li>
 <li> STRUTHIONIFORMES &emsp; Struthionidae &emsp; <i> Struthio camelus australis</i> &emsp; Gurney Sr &ensp; 1868 &ensp; Ibis (Ser. 2) 4: 253 &ensp; https://biodiversitylibrary.org/page/16341866</li>
 <li> STRUTHIONIFORMES &emsp; Struthionidae &emsp; <i> Struthio molybdophanes</i> &emsp; Reichenow &ensp; 1883 &ensp; Sonntagsblatt d. Norddeutsche Allgem. Zeitung  no. 37: 16 &ensp; </li>
-<li> RHEIFORMES &emsp; Rheidae &emsp; <i> Rhea</i> &emsp; Brisson &ensp; 1.000 &ensp; 1760</li>
+<li> RHEIFORMES &emsp; Rheidae &emsp; <i> Rhea</i> &emsp; Brisson &ensp; 1.000 &ensp; 1760 &ensp; Orn. 1: 46, 5: 8 &ensp; https://www.biodiversitylibrary.org/item/111091#page/18/mode/1up</li>
 <li> RHEIFORMES &emsp; Rheidae &emsp; <i> Rhea americana</i> &emsp; (Linnaeus) &ensp; 1758 &ensp; Syst. Nat. (ed. 10) 1: 155 &ensp; https://biodiversitylibrary.org/page/727062</li>
 <li> RHEIFORMES &emsp; Rheidae &emsp; <i> Rhea americana americana</i> &emsp; (Linnaeus) &ensp; 1758 &ensp; Syst. Nat. (ed. 10) 1: 155 &ensp; https://biodiversitylibrary.org/page/727062</li>
 <li> RHEIFORMES &emsp; Rheidae &emsp; <i> Rhea americana intermedia</i> &emsp; Rothschild & Chubb, C &ensp; 1914 &ensp; Novit. Zool. 21: 223 &ensp; https://biodiversitylibrary.org/page/2988359</li>
@@ -34,9 +34,9 @@
 <li> CASUARIIFORMES &emsp; Casuariidae &emsp; <i> Dromaius</i> &emsp; Vieillot &ensp; 1.000 &ensp; 1816 &ensp; </li>
 <li> CASUARIIFORMES &emsp; Casuariidae &emsp; <i> Dromaius novaehollandiae</i> &emsp; (Latham) &ensp; 1790 &ensp; Index Orn. 2: 665 &ensp; https://biodiversitylibrary.org/page/53510090</li>
 <li> CASUARIIFORMES &emsp; Casuariidae &emsp; <i> Dromaius novaehollandiae novaehollandiae</i> &emsp; (Latham) &ensp; 1790 &ensp; Index Orn. 2: 665 &ensp; https://biodiversitylibrary.org/page/53510090</li>
-<li> CASUARIIFORMES &emsp; Casuariidae &emsp; <i> Dromaius novaehollandiae diemenensis  qq </i> &emsp; Le Souef &ensp; 1907 &ensp; Bull. B.O.C. 21: 13 &ensp; https://biodiversitylibrary.org/page/32426723</li>
-<li> CASUARIIFORMES &emsp; Casuariidae &emsp; <i> Dromaius novaehollandiae minor  qq </i> &emsp; Spencer, B &ensp; 1906 &ensp; Vict. Nat. 23: 140 &ensp; https://biodiversitylibrary.org/page/30015658</li>
-<li> CASUARIIFORMES &emsp; Casuariidae &emsp; <i> Dromaius novaehollandiae baudinianus  qq </i> &emsp; Parker, SA &ensp; 1984 &ensp; Bull. B.O.C. 104: 20 &ensp; https://www.biodiversitylibrary.org/page/40084837#page/48/mode/1up</li>
+<li> CASUARIIFORMES &emsp; Casuariidae &emsp; <i> Dromaius novaehollandiae diemenensis&dagger;</i> &emsp; Le Souef &ensp; 1907 &ensp; Bull. B.O.C. 21: 13 &ensp; https://biodiversitylibrary.org/page/32426723</li>
+<li> CASUARIIFORMES &emsp; Casuariidae &emsp; <i> Dromaius novaehollandiae minor&dagger;</i> &emsp; Spencer, B &ensp; 1906 &ensp; Vict. Nat. 23: 140 &ensp; https://biodiversitylibrary.org/page/30015658</li>
+<li> CASUARIIFORMES &emsp; Casuariidae &emsp; <i> Dromaius novaehollandiae baudinianus&dagger;</i> &emsp; Parker, SA &ensp; 1984 &ensp; Bull. B.O.C. 104: 20 &ensp; https://www.biodiversitylibrary.org/page/40084837#page/48/mode/1up</li>
 <li> TINAMIFORMES &emsp; Tinamidae &emsp; <i> Tinamus</i> &emsp; Hermann &ensp; 1.000 &ensp; 1783 &ensp; </li>
 <li> TINAMIFORMES &emsp; Tinamidae &emsp; <i> Tinamus tao</i> &emsp; Temminck &ensp; 1815 &ensp; Hist. Nat. Pig. Gallin. 3: 569, 749 &ensp; https://biodiversitylibrary.org/page/43752782</li>
 <li> TINAMIFORMES &emsp; Tinamidae &emsp; <i> Tinamus tao larensis</i> &emsp; Phelps & Phelps Jr &ensp; 1949 &ensp; Proc. Biol. Soc. Wash. 62: 109 &ensp; https://biodiversitylibrary.org/page/35878821</li>
@@ -333,8 +333,8 @@
 <li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Cyanochen cyanoptera</i> &emsp; (Rüppell) &ensp; 1845 &ensp; Systemat. Uebers. Vog. N.-O. Afr.: 129 pl. 47 &ensp; https://biodiversitylibrary.org/page/35998071</li>
 <li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Alopochen</i> &emsp; Stejneger &ensp; 1.000 &ensp; 1885 &ensp; </li>
 <li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Alopochen aegyptiaca</i> &emsp; (Linnaeus) &ensp; 1766 &ensp; Syst. Nat. (ed. 12) 1: 197 &ensp; https://biodiversitylibrary.org/page/42946393</li>
-<li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Alopochen mauritiana  qq </i> &emsp; (Newton, E & Gadow) &ensp; 1893 &ensp; Trans. Zool. Soc. London 13: 290 pl. 34 fig. 6, 7, 8 &ensp; https://biodiversitylibrary.org/page/32665074</li>
-<li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Alopochen kervazoi  qq </i> &emsp; (Cowles) &ensp; 1994 &ensp; Geobios 27 (1): 87-93 &ensp; https://doi.org/10.1016/S0016-6995(06)80215-9</li>
+<li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Alopochen mauritiana&dagger;</i> &emsp; (Newton, E & Gadow) &ensp; 1893 &ensp; Trans. Zool. Soc. London 13: 290 pl. 34 fig. 6, 7, 8 &ensp; https://biodiversitylibrary.org/page/32665074</li>
+<li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Alopochen kervazoi&dagger;</i> &emsp; (Cowles) &ensp; 1994 &ensp; Geobios 27 (1): 87-93 &ensp; https://doi.org/10.1016/S0016-6995(06)80215-9</li>
 <li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Neochen</i> &emsp; Oberholser &ensp; 1.000 &ensp; 1918 &ensp; </li>
 <li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Neochen jubata</i> &emsp; (Spix) &ensp; 1825 &ensp; Av. Sp. Nov. Brasil 2: 84, pl. 108 &ensp; https://www.biodiversitylibrary.org/page/41277958#page/98/mode/1up</li>
 <li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Chloephaga</i> &emsp; Eyton &ensp; 1.000 &ensp; 1838 &ensp; </li>
@@ -414,7 +414,7 @@
 <li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Mareca</i> &emsp; Stephens &ensp; 1.000 &ensp; 1824 &ensp; </li>
 <li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Mareca strepera</i> &emsp; (Linnaeus) &ensp; 1758 &ensp; Syst. Nat. (ed. 10) 1: 125 &ensp; https://biodiversitylibrary.org/page/727030</li>
 <li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Mareca strepera strepera</i> &emsp; (Linnaeus) &ensp; 1758 &ensp; Syst. Nat. (ed. 10) 1: 125 &ensp; https://biodiversitylibrary.org/page/727030</li>
-<li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Mareca strepera couesi  qq </i> &emsp; (Streets) &ensp; 1876 &ensp; Bull. Nuttall Orn. Club 1: 46 &ensp; https://biodiversitylibrary.org/page/20484583</li>
+<li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Mareca strepera couesi&dagger;</i> &emsp; (Streets) &ensp; 1876 &ensp; Bull. Nuttall Orn. Club 1: 46 &ensp; https://biodiversitylibrary.org/page/20484583</li>
 <li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Mareca falcata</i> &emsp; (Georgi) &ensp; 1775 &ensp; Bemerk. Reise Russ. Reich: 167 &ensp; </li>
 <li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Mareca penelope</i> &emsp; (Linnaeus) &ensp; 1758 &ensp; Syst. Nat. (ed. 10) 1: 126 &ensp; https://biodiversitylibrary.org/page/727031</li>
 <li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Mareca sibilatrix</i> &emsp; (Poeppig) &ensp; 1829 &ensp; Notizen 25 col. 10 &ensp; https://biodiversitylibrary.org/page/13030771</li>
@@ -453,7 +453,7 @@
 <li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Anas bahamensis galapagensis</i> &emsp; (Ridgway) &ensp; 1890 &ensp; Proc. U.S. Natl. Mus. 12: 115 &ensp; https://biodiversitylibrary.org/page/15738720</li>
 <li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Anas erythrorhyncha</i> &emsp; Gmelin, JF &ensp; 1789 &ensp; Syst. Nat. (ed. 12) 1: 517 &ensp; https://biodiversitylibrary.org/page/2656010</li>
 <li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Anas georgica</i> &emsp; Gmelin, JF &ensp; 1789 &ensp; Syst. Nat. (ed. 12) 1: 516 &ensp; https://biodiversitylibrary.org/page/2656009</li>
-<li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Anas georgica niceforoi  qq </i> &emsp; Wetmore & Borrero &ensp; 1946 &ensp; Caldasia 4: 68 &ensp; https://revistas.unal.edu.co/index.php/cal/article/view/32902/32945</li>
+<li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Anas georgica niceforoi&dagger;</i> &emsp; Wetmore & Borrero &ensp; 1946 &ensp; Caldasia 4: 68 &ensp; https://revistas.unal.edu.co/index.php/cal/article/view/32902/32945</li>
 <li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Anas georgica spinicauda</i> &emsp; Vieillot &ensp; 1816 &ensp; Nouv. Dict. d'Hist. Nat. 5: 135 &ensp; https://biodiversitylibrary.org/page/18034608</li>
 <li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Anas georgica georgica</i> &emsp; Gmelin, JF &ensp; 1789 &ensp; Syst. Nat. (ed. 12) 1: 516 &ensp; https://biodiversitylibrary.org/page/2656009</li>
 <li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Anas eatoni</i> &emsp; (Sharpe) &ensp; 1875 &ensp; Ibis (Ser. 3) 5: 328 &ensp; https://biodiversitylibrary.org/page/8612876</li>
@@ -470,10 +470,10 @@
 <li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Anas andium andium</i> &emsp; (Sclater, PL & Salvin) &ensp; 1873 &ensp; Nomen. Av. Neotrop.: 129, 162 &ensp; https://biodiversitylibrary.org/page/40220943</li>
 <li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Anas gibberifrons</i> &emsp; Müller, S &ensp; 1842 &ensp; Verh. Nat. Gesch. [Temminck] Land-Volk. no. 5: 159, note &ensp; https://biodiversitylibrary.org/page/56901997</li>
 <li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Anas albogularis</i> &emsp; (Hume) &ensp; 1873 &ensp; Stray Feathers 1: 303 &ensp; https://biodiversitylibrary.org/page/30007209</li>
-<li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Anas theodori  qq </i> &emsp; Newton, E & Gadow &ensp; 1893 &ensp; Trans. Zool. Soc. London 13: 291, pl. xxxiv figs. 11-17 &ensp; https://biodiversitylibrary.org/page/32665075</li>
+<li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Anas theodori&dagger;</i> &emsp; Newton, E & Gadow &ensp; 1893 &ensp; Trans. Zool. Soc. London 13: 291, pl. xxxiv figs. 11-17 &ensp; https://biodiversitylibrary.org/page/32665075</li>
 <li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Anas gracilis</i> &emsp; Buller &ensp; 1869 &ensp; Ibis (Ser. 2) 5: 41 &ensp; https://biodiversitylibrary.org/page/8619049</li>
 <li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Anas gracilis gracilis</i> &emsp; Buller &ensp; 1869 &ensp; Ibis (Ser. 2) 5: 41 &ensp; https://biodiversitylibrary.org/page/8619049</li>
-<li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Anas gracilis remissa  qq </i> &emsp; Ripley &ensp; 1942 &ensp; Auk 59: 94 &ensp; https://sora.unm.edu/sites/default/files/journals/auk/v059n01/p0090-p0099.pdf</li>
+<li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Anas gracilis remissa&dagger;</i> &emsp; Ripley &ensp; 1942 &ensp; Auk 59: 94 &ensp; https://sora.unm.edu/sites/default/files/journals/auk/v059n01/p0090-p0099.pdf</li>
 <li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Anas castanea</i> &emsp; (Eyton) &ensp; 1838 &ensp; Monogr. Anatidae: 119 &ensp; https://biodiversitylibrary.org/page/36002257</li>
 <li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Anas bernieri</i> &emsp; (Hartlaub) &ensp; 1860 &ensp; J. für Orn. 8: 173 &ensp; https://biodiversitylibrary.org/page/14327813</li>
 <li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Anas chlorotis</i> &emsp; Gray, GR &ensp; 1845 &ensp; Voy. Erebus and Terror 1 Birds: 15 pl. 20 &ensp; https://biodiversitylibrary.org/page/6957502</li>
@@ -482,7 +482,7 @@
 <li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Marmaronetta</i> &emsp; Reichenbach &ensp; 1.000 &ensp; 1853 &ensp; </li>
 <li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Marmaronetta angustirostris</i> &emsp; (Ménétries) &ensp; 1832 &ensp; Cat. Raison. Obj. Zool. Recueil. Voy. Caucase: 58 &ensp; https://biodiversitylibrary.org/page/35732935</li>
 <li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Rhodonessa</i> &emsp; Reichenbach &ensp; 1.000 &ensp; 1853 &ensp; </li>
-<li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Rhodonessa caryophyllacea  qq </i> &emsp; (Latham) &ensp; 1790 &ensp; Index Orn. 2: 866 &ensp; https://biodiversitylibrary.org/page/53510291</li>
+<li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Rhodonessa caryophyllacea&dagger;</i> &emsp; (Latham) &ensp; 1790 &ensp; Index Orn. 2: 866 &ensp; https://biodiversitylibrary.org/page/53510291</li>
 <li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Netta</i> &emsp; Kaup &ensp; 1.000 &ensp; 1829 &ensp; </li>
 <li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Netta rufina</i> &emsp; (Pallas) &ensp; 1773 &ensp; Reise Versch. Provin. Russ. Reichs 2: 713 &ensp; </li>
 <li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Netta peposaca</i> &emsp; (Vieillot) &ensp; 1816 &ensp; Nouv. Dict. d'Hist. Nat. 5: 132 &ensp; https://biodiversitylibrary.org/page/18034605</li>
@@ -516,11 +516,19 @@
 <li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Somateria mollissima dresseri</i> &emsp; Sharpe &ensp; 1871 &ensp; Ann. Mag. Nat. Hist. (Ser. 4) 8: 51 fig. 2 &ensp; https://biodiversitylibrary.org/page/19244227</li>
 <li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Somateria mollissima faeroeensis</i> &emsp; Brehm, CL &ensp; 1831 &ensp; Handb. Naturgesch. Vog. Deutschl. p. 893 &ensp; </li>
 <li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Somateria mollissima mollissima</i> &emsp; (Linnaeus) &ensp; 1758 &ensp; Syst. Nat. (ed. 10) 1: 124 &ensp; https://biodiversitylibrary.org/page/727029</li>
+<li>  &emsp;  &emsp; <i> Somateria fischeri</i> &emsp;  &ensp;  &ensp;  &ensp; </li>
+<li>  &emsp;  &emsp; <i> Somateria mollissima</i> &emsp;  &ensp;  &ensp;  &ensp; </li>
+<li>  &emsp;  &emsp; <i> Somateria mollissima borealis</i> &emsp;  &ensp;  &ensp;  &ensp; </li>
+<li>  &emsp;  &emsp; <i> Somateria mollissima dresseri</i> &emsp;  &ensp;  &ensp;  &ensp; </li>
+<li>  &emsp;  &emsp; <i> Somateria mollissima faeroeensis</i> &emsp;  &ensp;  &ensp;  &ensp; </li>
+<li>  &emsp;  &emsp; <i> Somateria mollissima mollissima</i> &emsp;  &ensp;  &ensp;  &ensp; </li>
+<li>  &emsp;  &emsp; <i> Somateria mollissima sedentaria</i> &emsp;  &ensp;  &ensp;  &ensp; </li>
+<li>  &emsp;  &emsp; <i> Somateria mollissima v-nigrum</i> &emsp;  &ensp;  &ensp;  &ensp; </li>
 <li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Somateria spectabilis</i> &emsp; (Linnaeus) &ensp; 1758 &ensp; Syst. Nat. (ed. 10) 1: 123 &ensp; https://biodiversitylibrary.org/page/727028</li>
 <li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Histrionicus</i> &emsp; Lesson, R &ensp; 1.000 &ensp; 1828 &ensp; </li>
 <li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Histrionicus histrionicus</i> &emsp; (Linnaeus) &ensp; 1758 &ensp; Syst. Nat. (ed. 10) 1: 127 &ensp; https://biodiversitylibrary.org/page/727032</li>
 <li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Camptorhynchus</i> &emsp; Bonaparte &ensp; 1.000 &ensp; 1838 &ensp; </li>
-<li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Camptorhynchus labradorius  qq </i> &emsp; (Gmelin, JF) &ensp; 1789 &ensp; Syst. Nat. (ed. 12) 1: 537 &ensp; https://biodiversitylibrary.org/page/2656030</li>
+<li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Camptorhynchus labradorius&dagger;</i> &emsp; (Gmelin, JF) &ensp; 1789 &ensp; Syst. Nat. (ed. 12) 1: 537 &ensp; https://biodiversitylibrary.org/page/2656030</li>
 <li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Melanitta</i> &emsp; Boie, F &ensp; 1.000 &ensp; 1822 &ensp; </li>
 <li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Melanitta perspicillata</i> &emsp; (Linnaeus) &ensp; 1758 &ensp; Syst. Nat. (ed. 10) 1: 125 &ensp; https://biodiversitylibrary.org/page/727030</li>
 <li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Melanitta fusca</i> &emsp; (Linnaeus) &ensp; 1758 &ensp; Syst. Nat. (ed. 10) 1: 123 &ensp; https://biodiversitylibrary.org/page/727028</li>
@@ -541,7 +549,7 @@
 <li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Lophodytes</i> &emsp; Reichenbach &ensp; 1.000 &ensp; 1853 &ensp; </li>
 <li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Lophodytes cucullatus</i> &emsp; (Linnaeus) &ensp; 1758 &ensp; Syst. Nat. (ed. 10) 1: 129 &ensp; https://biodiversitylibrary.org/page/727034</li>
 <li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Mergus</i> &emsp; Linnaeus &ensp; 1.000 &ensp; 1758 &ensp; </li>
-<li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Mergus australis  qq </i> &emsp; Hombron & Jacquinot &ensp; 1841 &ensp; Ann. Sci. Nat. Zool. (Ser. 2) 16: 320 &ensp; https://biodiversitylibrary.org/page/35730777</li>
+<li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Mergus australis&dagger;</i> &emsp; Hombron & Jacquinot &ensp; 1841 &ensp; Ann. Sci. Nat. Zool. (Ser. 2) 16: 320 &ensp; https://biodiversitylibrary.org/page/35730777</li>
 <li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Mergus octosetaceus</i> &emsp; Vieillot &ensp; 1817 &ensp; Nouv. Dict. d'Hist. Nat. 14: 222 &ensp; https://biodiversitylibrary.org/page/18059188</li>
 <li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Mergus merganser</i> &emsp; Linnaeus &ensp; 1758 &ensp; Syst. Nat. (ed. 10) 1: 129 &ensp; https://biodiversitylibrary.org/page/727034</li>
 <li> ANSERIFORMES &emsp; Anatidae &emsp; <i> Mergus merganser merganser</i> &emsp; Linnaeus &ensp; 1758 &ensp; Syst. Nat. (ed. 10) 1: 129 &ensp; https://biodiversitylibrary.org/page/727034</li>
@@ -819,7 +827,7 @@
 <li> GALLIFORMES &emsp; Odontophoridae &emsp; <i> Colinus virginianus</i> &emsp; (Linnaeus) &ensp; 1758 &ensp; Syst. Nat. (ed. 10) 1: 161 &ensp; https://biodiversitylibrary.org/page/727068</li>
 <li> GALLIFORMES &emsp; Odontophoridae &emsp; <i> Colinus virginianus virginianus</i> &emsp; (Linnaeus) &ensp; 1758 &ensp; Syst. Nat. (ed. 10) 1: 161 &ensp; https://biodiversitylibrary.org/page/727068</li>
 <li> GALLIFORMES &emsp; Odontophoridae &emsp; <i> Colinus virginianus floridanus</i> &emsp; (Coues) &ensp; 1872 &ensp; Key N. Am. Birds (1): 237 &ensp; https://biodiversitylibrary.org/page/47008355</li>
-<li> GALLIFORMES &emsp; Odontophoridae &emsp; <i> Colinus virginianus insulanus  qq </i> &emsp; Howe &ensp; 1904 &ensp; Proc. Biol. Soc. Wash. 17: 168 &ensp; https://biodiversitylibrary.org/page/3329412</li>
+<li> GALLIFORMES &emsp; Odontophoridae &emsp; <i> Colinus virginianus insulanus&dagger;</i> &emsp; Howe &ensp; 1904 &ensp; Proc. Biol. Soc. Wash. 17: 168 &ensp; https://biodiversitylibrary.org/page/3329412</li>
 <li> GALLIFORMES &emsp; Odontophoridae &emsp; <i> Colinus virginianus cubanensis</i> &emsp; (Gray, GR) &ensp; 1846 &ensp; Gen. Birds 3: 514 &ensp; https://biodiversitylibrary.org/page/43591646</li>
 <li> GALLIFORMES &emsp; Odontophoridae &emsp; <i> Colinus virginianus taylori</i> &emsp; Lincoln &ensp; 1915 &ensp; Proc. Biol. Soc. Wash. 28: 103 &ensp; https://biodiversitylibrary.org/page/3338422</li>
 <li> GALLIFORMES &emsp; Odontophoridae &emsp; <i> Colinus virginianus ridgwayi</i> &emsp; Brewster &ensp; 1885 &ensp; Auk 2: 199 &ensp; https://sora.unm.edu/sites/default/files/journals/auk/v002n02/p0196-p0200.pdf</li>
@@ -1243,7 +1251,7 @@
 <li> GALLIFORMES &emsp; Phasianidae &emsp; <i> Coturnix delegorguei histrionica</i> &emsp; Hartlaub &ensp; 1849 &ensp; Rev. Mag. Zool. (Ser. 2) 1: 495 &ensp; https://biodiversitylibrary.org/page/2343873</li>
 <li> GALLIFORMES &emsp; Phasianidae &emsp; <i> Coturnix delegorguei arabica</i> &emsp; Bannerman &ensp; 1929 &ensp; Bull. B.O.C. 49: 109 &ensp; https://biodiversitylibrary.org/page/40500988</li>
 <li> GALLIFORMES &emsp; Phasianidae &emsp; <i> Coturnix pectoralis</i> &emsp; Gould &ensp; 1837 &ensp; Syn. Birds Austr. pt 2 pl. 10 fig. 1text &ensp; https://biodiversitylibrary.org/page/47441594</li>
-<li> GALLIFORMES &emsp; Phasianidae &emsp; <i> Coturnix novaezelandiae  qq </i> &emsp; Quoy & Gaimard &ensp; 1832 &ensp; Voy. Astrolabe Zool. 1: 242 Atlas Ois.: 24 fig. 1 1 &ensp; https://www.biodiversitylibrary.org/page/2064298</li>
+<li> GALLIFORMES &emsp; Phasianidae &emsp; <i> Coturnix novaezelandiae&dagger;</i> &emsp; Quoy & Gaimard &ensp; 1832 &ensp; Voy. Astrolabe Zool. 1: 242 Atlas Ois.: 24 fig. 1 1 &ensp; https://www.biodiversitylibrary.org/page/2064298</li>
 <li> GALLIFORMES &emsp; Phasianidae &emsp; <i> Coturnix ypsilophora</i> &emsp; Bosc &ensp; 1792 &ensp; J. d'Hist. Nat. (Paris) 2: 297 pl. 39 &ensp; https://biodiversitylibrary.org/page/8427702</li>
 <li> GALLIFORMES &emsp; Phasianidae &emsp; <i> Coturnix ypsilophora raaltenii</i> &emsp; (Müller, S) &ensp; 1842 &ensp; Verh. Nat. Gesch. [Temminck] Land-Volk. no. 5: 158 &ensp; https://biodiversitylibrary.org/page/56901996</li>
 <li> GALLIFORMES &emsp; Phasianidae &emsp; <i> Coturnix ypsilophora pallidior</i> &emsp; (Hartert, E) &ensp; 1897 &ensp; Novit. Zool. 4: 271 &ensp; https://biodiversitylibrary.org/page/3219220</li>
@@ -1283,7 +1291,7 @@
 <li> GALLIFORMES &emsp; Phasianidae &emsp; <i> Perdicula manipurensis inglisi</i> &emsp; (Ogilvie-Grant) &ensp; 1909 &ensp; J. Bombay Nat. Hist. Soc. 19: 1 pl. 1 &ensp; https://biodiversitylibrary.org/page/5449194</li>
 <li> GALLIFORMES &emsp; Phasianidae &emsp; <i> Perdicula manipurensis manipurensis</i> &emsp; Hume &ensp; 1881 &ensp; Stray Feathers 9: 467 &ensp; https://biodiversitylibrary.org/page/29834806</li>
 <li> GALLIFORMES &emsp; Phasianidae &emsp; <i> Ophrysia</i> &emsp; Bonaparte &ensp; 1.000 &ensp; 1856 &ensp; </li>
-<li> GALLIFORMES &emsp; Phasianidae &emsp; <i> Ophrysia superciliosa  qq </i> &emsp; (Gray, JE) &ensp; 1846 &ensp; Knowsley Menagerie 1: 8 pl. 16 &ensp; https://biodiversitylibrary.org/page/45240954</li>
+<li> GALLIFORMES &emsp; Phasianidae &emsp; <i> Ophrysia superciliosa&dagger;</i> &emsp; (Gray, JE) &ensp; 1846 &ensp; Knowsley Menagerie 1: 8 pl. 16 &ensp; https://biodiversitylibrary.org/page/45240954</li>
 <li> GALLIFORMES &emsp; Phasianidae &emsp; <i> Xenoperdix</i> &emsp; Dinesen, Lehmberg, Svendsen, Hansen & Fjeldså &ensp; 1.000 &ensp; 1994 &ensp; </li>
 <li> GALLIFORMES &emsp; Phasianidae &emsp; <i> Xenoperdix udzungwensis</i> &emsp; Dinesen, Lehmberg, Svendsen, Hansen & Fjeldså &ensp; 1994 &ensp; Ibis 136: 2, 3 &ensp; https://doi.org/10.1111/j.1474-919X.1994.tb08125.x</li>
 <li> GALLIFORMES &emsp; Phasianidae &emsp; <i> Xenoperdix obscuratus</i> &emsp; Fjeldså & Kiure &ensp; 2003 &ensp; Bull. B.O.C. 123: 53 &ensp; https://biodiversitylibrary.org/page/40416088</li>
@@ -1736,7 +1744,7 @@
 <li> CAPRIMULGIFORMES &emsp; Caprimulgidae &emsp; <i> Siphonorhis brewsteri</i> &emsp; (Chapman) &ensp; 1917 &ensp; Bull. Am. Mus. Nat. Hist. 37: 329 &ensp; http://hdl.handle.net/2246/1243</li>
 <li> CAPRIMULGIFORMES &emsp; Caprimulgidae &emsp; <i> Siphonorhis brewsteri brewsteri</i> &emsp; (Chapman) &ensp; 1917 &ensp; Bull. Am. Mus. Nat. Hist. 37: 329 &ensp; http://hdl.handle.net/2246/1243</li>
 <li> CAPRIMULGIFORMES &emsp; Caprimulgidae &emsp; <i> Siphonorhis brewsteri gonavensis</i> &emsp; Garrido &ensp; 2003 &ensp; Solenodon 3: 63 &ensp; http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.585.549&rep=rep1&type=pdf</li>
-<li> CAPRIMULGIFORMES &emsp; Caprimulgidae &emsp; <i> Siphonorhis americana  qq </i> &emsp; (Linnaeus) &ensp; 1758 &ensp; Syst. Nat. (ed. 10) 1: 193 &ensp; https://biodiversitylibrary.org/page/727102</li>
+<li> CAPRIMULGIFORMES &emsp; Caprimulgidae &emsp; <i> Siphonorhis americana&dagger;</i> &emsp; (Linnaeus) &ensp; 1758 &ensp; Syst. Nat. (ed. 10) 1: 193 &ensp; https://biodiversitylibrary.org/page/727102</li>
 <li> CAPRIMULGIFORMES &emsp; Caprimulgidae &emsp; <i> Nyctiphrynus</i> &emsp; Bonaparte &ensp; 1.000 &ensp; 1857 &ensp; </li>
 <li> CAPRIMULGIFORMES &emsp; Caprimulgidae &emsp; <i> Nyctiphrynus rosenbergi</i> &emsp; (Hartert, E) &ensp; 1895 &ensp; Bull. B.O.C. 5: 10 &ensp; https://biodiversitylibrary.org/page/32475420</li>
 <li> CAPRIMULGIFORMES &emsp; Caprimulgidae &emsp; <i> Nyctiphrynus mcleodii</i> &emsp; (Brewster) &ensp; 1888 &ensp; Auk 5: 89 &ensp; https://sora.unm.edu/sites/default/files/journals/auk/v005n01/p0082-p0095.pdf</li>
@@ -2491,7 +2499,7 @@
 <li> APODIFORMES &emsp; Trochilidae &emsp; <i> Sephanoides sephaniodes</i> &emsp; (Lesson, R & Garnot) &ensp; 1827 &ensp; Voy. Coq. Atlas 1 livr. 4 pl. 31 fig. 2; Zool. 1: 681 &ensp; https://biodiversitylibrary.org/page/38768586</li>
 <li> APODIFORMES &emsp; Trochilidae &emsp; <i> Sephanoides fernandensis</i> &emsp; (King, PP) &ensp; 1831 &ensp; Proc. Comm. Zool. Soc. London pt 1: 30 &ensp; https://biodiversitylibrary.org/page/12861438</li>
 <li> APODIFORMES &emsp; Trochilidae &emsp; <i> Sephanoides fernandensis fernandensis</i> &emsp; (King, PP) &ensp; 1831 &ensp; Proc. Comm. Zool. Soc. London pt 1: 30 &ensp; https://biodiversitylibrary.org/page/12861438</li>
-<li> APODIFORMES &emsp; Trochilidae &emsp; <i> Sephanoides fernandensis leyboldi  qq </i> &emsp; (Gould) &ensp; 1870 &ensp; Ann. Mag. Nat. Hist. (Ser. 4) 6: 406 &ensp; https://biodiversitylibrary.org/page/29404929</li>
+<li> APODIFORMES &emsp; Trochilidae &emsp; <i> Sephanoides fernandensis leyboldi&dagger;</i> &emsp; (Gould) &ensp; 1870 &ensp; Ann. Mag. Nat. Hist. (Ser. 4) 6: 406 &ensp; https://biodiversitylibrary.org/page/29404929</li>
 <li> APODIFORMES &emsp; Trochilidae &emsp; <i> Discosura</i> &emsp; Bonaparte &ensp; 1.000 &ensp; 1850 &ensp; </li>
 <li> APODIFORMES &emsp; Trochilidae &emsp; <i> Discosura conversii</i> &emsp; (Bourcier & Mulsant) &ensp; 1846 &ensp; Ann. Sci. Phys. Nat. Agric. Ind. 9: 313 pl. pl. 9 &ensp; https://biodiversitylibrary.org/page/45018921</li>
 <li> APODIFORMES &emsp; Trochilidae &emsp; <i> Discosura popelairii</i> &emsp; (Du Bus de Gisignies) &ensp; 1846 &ensp; Esquis. Orn. livr. 2 pl. 6, text &ensp; https://biodiversitylibrary.org/page/52851797</li>
@@ -2906,11 +2914,11 @@
 <li> APODIFORMES &emsp; Trochilidae &emsp; <i> Phaeoptila sordida</i> &emsp; (Gould) &ensp; 1859 &ensp; Ann. Mag. Nat. Hist. (Ser. 3) 4: 97 &ensp; https://biodiversitylibrary.org/page/18638012</li>
 <li> APODIFORMES &emsp; Trochilidae &emsp; <i> Riccordia</i> &emsp; Reichenbach &ensp; 1.000 &ensp; 1854 &ensp; </li>
 <li> APODIFORMES &emsp; Trochilidae &emsp; <i> Riccordia ricordii</i> &emsp; (Gervais) &ensp; 1835 &ensp; Mag. Zool. 5 cl. 2 pl. 41, 42 &ensp; https://biodiversitylibrary.org/page/37121989</li>
-<li> APODIFORMES &emsp; Trochilidae &emsp; <i> Riccordia bracei  qq </i> &emsp; (Lawrence) &ensp; 1877 &ensp; Ann. N.Y. Acad. Sci. 1: 50 &ensp; https://biodiversitylibrary.org/page/35448506</li>
+<li> APODIFORMES &emsp; Trochilidae &emsp; <i> Riccordia bracei&dagger;</i> &emsp; (Lawrence) &ensp; 1877 &ensp; Ann. N.Y. Acad. Sci. 1: 50 &ensp; https://biodiversitylibrary.org/page/35448506</li>
 <li> APODIFORMES &emsp; Trochilidae &emsp; <i> Riccordia swainsonii</i> &emsp; (Lesson, R) &ensp; 1829 &ensp; Hist. Nat. Ois.-Mouches: xvii 1830: 197 pl. 70 70 &ensp; https://biodiversitylibrary.org/page/49416240</li>
 <li> APODIFORMES &emsp; Trochilidae &emsp; <i> Riccordia maugaeus</i> &emsp; (Audebert & Vieillot) &ensp; 1801 &ensp; Ois. Dores 1: 93 pl. 37, 38 &ensp; https://biodiversitylibrary.org/page/35131957</li>
 <li> APODIFORMES &emsp; Trochilidae &emsp; <i> Riccordia bicolor</i> &emsp; (Gmelin, JF) &ensp; 1788 &ensp; Syst. Nat. (ed. 13) 1: 496 &ensp; https://www.biodiversitylibrary.org/page/2897096</li>
-<li> APODIFORMES &emsp; Trochilidae &emsp; <i> Riccordia elegans  qq </i> &emsp; (Gould) &ensp; 1860 &ensp; Proc. Zool. Soc. London, pt 28: 307 &ensp; https://biodiversitylibrary.org/page/12866859</li>
+<li> APODIFORMES &emsp; Trochilidae &emsp; <i> Riccordia elegans&dagger;</i> &emsp; (Gould) &ensp; 1860 &ensp; Proc. Zool. Soc. London, pt 28: 307 &ensp; https://biodiversitylibrary.org/page/12866859</li>
 <li> APODIFORMES &emsp; Trochilidae &emsp; <i> Cynanthus</i> &emsp; Swainson &ensp; 1.000 &ensp; 1827 &ensp; </li>
 <li> APODIFORMES &emsp; Trochilidae &emsp; <i> Cynanthus latirostris</i> &emsp; Swainson &ensp; 1827 &ensp; Philos. Mag. n.s. 1: 441 &ensp; https://biodiversitylibrary.org/page/15530451</li>
 <li> APODIFORMES &emsp; Trochilidae &emsp; <i> Cynanthus latirostris magicus</i> &emsp; (Mulsant & Verreaux, J) &ensp; 1872 &ensp; Ann. Soc. Linn. de Lyon n.s. 18: 110 &ensp; https://biodiversitylibrary.org/page/54511046</li>
@@ -3295,12 +3303,12 @@
 <li> MUSOPHAGIFORMES &emsp; Musophagidae &emsp; <i> Tauraco schuettii emini</i> &emsp; Reichenow &ensp; 1893 &ensp; Orn. Monatsb. 1: 30 &ensp; https://biodiversitylibrary.org/page/32582259</li>
 <li> MUSOPHAGIFORMES &emsp; Musophagidae &emsp; <i> Tauraco schuettii schuettii</i> &emsp; (Cabanis) &ensp; 1879 &ensp; Orn. Centralbl. 4: 180 &ensp; https://biodiversitylibrary.org/page/35131428</li>
 <li> MUSOPHAGIFORMES &emsp; Musophagidae &emsp; <i> Tauraco fischeri</i> &emsp; (Reichenow) &ensp; 1878 &ensp; Orn. Centralbl. 3: 88 &ensp; https://biodiversitylibrary.org/page/35131143</li>
-<li> MUSOPHAGIFORMES &emsp; Musophagidae &emsp; <i> Tauraco fischeri fischeri</i> &emsp; (Reichenow) &ensp; 1878 &ensp; Orn. Centralbl. 3: 88 &ensp; https://biodiversitylibrary.org/page/35131143</li>
-<li> MUSOPHAGIFORMES &emsp; Musophagidae &emsp; <i> Tauraco fischeri zanzibaricus</i> &emsp; Pakenham &ensp; 1938 &ensp; Bull. B.O.C. 58: 111 &ensp; https://biodiversitylibrary.org/page/40513367</li>
-<li> MUSOPHAGIFORMES &emsp; Musophagidae &emsp; <i> Tauraco hartlaubi</i> &emsp; (Fischer, GA & Reichenow) &ensp; 1884 &ensp; J. für Orn. (Ser. 4) 32: 52 &ensp; https://biodiversitylibrary.org/page/32699982</li>
 <li> OTIDIFORMES &emsp; Otididae &emsp; <i> Otis</i> &emsp; Linnaeus &ensp; 1.000 &ensp; 1758 &ensp; </li>
+<li> MUSOPHAGIFORMES &emsp; Musophagidae &emsp; <i> Tauraco fischeri fischeri</i> &emsp; (Reichenow) &ensp; 1878 &ensp; Orn. Centralbl. 3: 88 &ensp; https://biodiversitylibrary.org/page/35131143</li>
 <li> OTIDIFORMES &emsp; Otididae &emsp; <i> Otis tarda</i> &emsp; Linnaeus &ensp; 1758 &ensp; Syst. Nat. (ed. 10) 1: 154 &ensp; https://biodiversitylibrary.org/page/727061</li>
+<li> MUSOPHAGIFORMES &emsp; Musophagidae &emsp; <i> Tauraco fischeri zanzibaricus</i> &emsp; Pakenham &ensp; 1938 &ensp; Bull. B.O.C. 58: 111 &ensp; https://biodiversitylibrary.org/page/40513367</li>
 <li> OTIDIFORMES &emsp; Otididae &emsp; <i> Otis tarda tarda</i> &emsp; Linnaeus &ensp; 1758 &ensp; Syst. Nat. (ed. 10) 1: 154 &ensp; https://biodiversitylibrary.org/page/727061</li>
+<li> MUSOPHAGIFORMES &emsp; Musophagidae &emsp; <i> Tauraco hartlaubi</i> &emsp; (Fischer, GA & Reichenow) &ensp; 1884 &ensp; J. für Orn. (Ser. 4) 32: 52 &ensp; https://biodiversitylibrary.org/page/32699982</li>
 <li> OTIDIFORMES &emsp; Otididae &emsp; <i> Otis tarda dybowskii</i> &emsp; Taczanowski &ensp; 1874 &ensp; J. für Orn. (Ser. 4) 22: 331 &ensp; https://biodiversitylibrary.org/page/32705651</li>
 <li> OTIDIFORMES &emsp; Otididae &emsp; <i> Ardeotis</i> &emsp; Le Maout &ensp; 1.000 &ensp; 1853 &ensp; </li>
 <li> OTIDIFORMES &emsp; Otididae &emsp; <i> Ardeotis arabs</i> &emsp; (Linnaeus) &ensp; 1758 &ensp; Syst. Nat. (ed. 10) 1: 154 &ensp; https://biodiversitylibrary.org/page/727061</li>
@@ -3446,7 +3454,7 @@
 <li> CUCULIFORMES &emsp; Cuculidae &emsp; <i> Centropus toulou</i> &emsp; (Müller, PLS) &ensp; 1776 &ensp; Natursyst. Suppl. 9: 90 &ensp; https://biodiversitylibrary.org/page/52710043</li>
 <li> CUCULIFORMES &emsp; Cuculidae &emsp; <i> Centropus toulou toulou</i> &emsp; (Müller, PLS) &ensp; 1776 &ensp; Natursyst. Suppl. 9: 90 &ensp; https://biodiversitylibrary.org/page/52710043</li>
 <li> CUCULIFORMES &emsp; Cuculidae &emsp; <i> Centropus toulou insularis</i> &emsp; Ridgway &ensp; 1894 &ensp; Proc. U.S. Natl. Mus. 17: 373 &ensp; https://biodiversitylibrary.org/page/15675375</li>
-<li> CUCULIFORMES &emsp; Cuculidae &emsp; <i> Centropus toulou assumptionis  qq </i> &emsp; Nicoll &ensp; 1906 &ensp; Bull. B.O.C. 16: 105 &ensp; https://biodiversitylibrary.org/page/32432789</li>
+<li> CUCULIFORMES &emsp; Cuculidae &emsp; <i> Centropus toulou assumptionis&dagger;</i> &emsp; Nicoll &ensp; 1906 &ensp; Bull. B.O.C. 16: 105 &ensp; https://biodiversitylibrary.org/page/32432789</li>
 <li> CUCULIFORMES &emsp; Cuculidae &emsp; <i> Centropus goliath</i> &emsp; Bonaparte &ensp; 1850 &ensp; Consp. Gen. Av. 1: 108 &ensp; https://biodiversitylibrary.org/page/43560167</li>
 <li> CUCULIFORMES &emsp; Cuculidae &emsp; <i> Centropus grillii</i> &emsp; Hartlaub &ensp; 1861 &ensp; J. für Orn. 9: 13 &ensp; https://biodiversitylibrary.org/page/32902263</li>
 <li> CUCULIFORMES &emsp; Cuculidae &emsp; <i> Centropus viridis</i> &emsp; (Scopoli) &ensp; 1786 &ensp; Del. Flor. Faun. Insubr. 2: 89 &ensp; http://bibdigital.rjb.csic.es/ing/Libro.php?Libro=2427</li>
@@ -3477,7 +3485,7 @@
 <li> CUCULIFORMES &emsp; Cuculidae &emsp; <i> Carpococcyx viridis</i> &emsp; Salvadori &ensp; 1879 &ensp; Ann. Mus. Civ. Stor. Nat. Genova 14: 187 &ensp; https://biodiversitylibrary.org/page/9186459</li>
 <li> CUCULIFORMES &emsp; Cuculidae &emsp; <i> Carpococcyx renauldi</i> &emsp; Oustalet &ensp; 1896 &ensp; Bull. Mus. d'Hist. Nat. Paris 2: 314 &ensp; https://biodiversitylibrary.org/page/42894667</li>
 <li> CUCULIFORMES &emsp; Cuculidae &emsp; <i> Coua</i> &emsp; Schinz &ensp; 1.000 &ensp; 1821 &ensp; </li>
-<li> CUCULIFORMES &emsp; Cuculidae &emsp; <i> Coua delalandei  qq </i> &emsp; (Temminck) &ensp; 1827 &ensp; Pl. Col., livr. 74, pl. 440 &ensp; </li>
+<li> CUCULIFORMES &emsp; Cuculidae &emsp; <i> Coua delalandei&dagger;</i> &emsp; (Temminck) &ensp; 1827 &ensp; Pl. Col., livr. 74, pl. 440 &ensp; </li>
 <li> CUCULIFORMES &emsp; Cuculidae &emsp; <i> Coua cristata</i> &emsp; (Linnaeus) &ensp; 1766 &ensp; Syst. Nat. (ed. 12) 1: 171 &ensp; https://biodiversitylibrary.org/page/445296</li>
 <li> CUCULIFORMES &emsp; Cuculidae &emsp; <i> Coua cristata cristata</i> &emsp; (Linnaeus) &ensp; 1766 &ensp; Syst. Nat. (ed. 12) 1: 171 &ensp; https://biodiversitylibrary.org/page/445296</li>
 <li> CUCULIFORMES &emsp; Cuculidae &emsp; <i> Coua cristata dumonti</i> &emsp; Delacour &ensp; 1931 &ensp; Ois. Et Rev. Franç. D'Orn. (n.s.) 1: 475 &ensp; </li>
@@ -3821,7 +3829,7 @@
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Columba oliviae</i> &emsp; Clarke, S &ensp; 1918 &ensp; Bull. B.O.C. 38: 61 &ensp; https://biodiversitylibrary.org/page/32431119</li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Columba palumbus</i> &emsp; Linnaeus &ensp; 1758 &ensp; Syst. Nat. (ed. 10) 1: 163 &ensp; https://biodiversitylibrary.org/page/727070</li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Columba palumbus palumbus</i> &emsp; Linnaeus &ensp; 1758 &ensp; Syst. Nat. (ed. 10) 1: 163 &ensp; https://biodiversitylibrary.org/page/727070</li>
-<li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Columba palumbus maderensis  qq </i> &emsp; Tschusi &ensp; 1904 &ensp; Orn. Jahrb. 15: 227 &ensp; https://biodiversitylibrary.org/page/49841289</li>
+<li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Columba palumbus maderensis&dagger;</i> &emsp; Tschusi &ensp; 1904 &ensp; Orn. Jahrb. 15: 227 &ensp; https://biodiversitylibrary.org/page/49841289</li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Columba palumbus azorica</i> &emsp; Hartert, E &ensp; 1905 &ensp; Novit. Zool. 12: 93 &ensp; https://biodiversitylibrary.org/page/3478843</li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Columba palumbus iranica</i> &emsp; (Zarudny) &ensp; 1910 &ensp; Nascha Ochota no. 4: 116 &ensp; </li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Columba palumbus casiotis</i> &emsp; (Bonaparte) &ensp; 1854 &ensp; Compt. Rend. 39: 1103 &ensp; https://biodiversitylibrary.org/page/2820284</li>
@@ -3845,8 +3853,8 @@
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Columba janthina janthina</i> &emsp; Temminck &ensp; 1830 &ensp; Pl. Col. livr. 86 [=85] pl. 503 &ensp; </li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Columba janthina nitens</i> &emsp; (Stejneger) &ensp; 1887 &ensp; Proc. U.S. Natl. Mus. 10: 421 &ensp; https://biodiversitylibrary.org/page/7485563</li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Columba janthina stejnegeri</i> &emsp; (Kuroda, Nagamichi) &ensp; 1923 &ensp; Bull. B.O.C. 43: 107 &ensp; https://biodiversitylibrary.org/page/32428707</li>
-<li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Columba versicolor  qq </i> &emsp; Kittlitz &ensp; 1832 &ensp; Kupfer. Nat. Vog. 1: 5 pl. 5 fig. 2 &ensp; https://biodiversitylibrary.org/page/33042754</li>
-<li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Columba jouyi  qq </i> &emsp; (Stejneger) &ensp; 1887 &ensp; Am. Nat. 21: 583 &ensp; https://biodiversitylibrary.org/page/41532693</li>
+<li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Columba versicolor&dagger;</i> &emsp; Kittlitz &ensp; 1832 &ensp; Kupfer. Nat. Vog. 1: 5 pl. 5 fig. 2 &ensp; https://biodiversitylibrary.org/page/33042754</li>
+<li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Columba jouyi&dagger;</i> &emsp; (Stejneger) &ensp; 1887 &ensp; Am. Nat. 21: 583 &ensp; https://biodiversitylibrary.org/page/41532693</li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Columba vitiensis</i> &emsp; Quoy & Gaimard &ensp; 1832 &ensp; Voy. Astrolabe Zool. 1: 246 Atlas Ois. pl. 28 &ensp; https://www.biodiversitylibrary.org/page/2064302</li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Columba vitiensis griseogularis</i> &emsp; (Walden & Layard, EL) &ensp; 1872 &ensp; Ibis (Ser. 3) 2: 104 pl. 6 &ensp; https://biodiversitylibrary.org/page/8618060</li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Columba vitiensis anthracina</i> &emsp; (Hachisuka) &ensp; 1939 &ensp; Bull. B.O.C. 59: 152 &ensp; https://biodiversitylibrary.org/page/40513612</li>
@@ -3854,7 +3862,7 @@
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Columba vitiensis halmaheira</i> &emsp; (Bonaparte) &ensp; 1855 &ensp; Consp. Gen. Av. 2: 44 &ensp; https://biodiversitylibrary.org/page/43549605</li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Columba vitiensis leopoldi</i> &emsp; (Tristram) &ensp; 1879 &ensp; Ibis (Ser. 4) 3: 193 &ensp; https://biodiversitylibrary.org/page/8609359</li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Columba vitiensis hypoenochroa</i> &emsp; (Gould) &ensp; 1856 &ensp; Proc. Zool. Soc. London pt 24: 136 &ensp; https://biodiversitylibrary.org/page/12860664</li>
-<li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Columba vitiensis godmanae  qq </i> &emsp; (Mathews) &ensp; 1915 &ensp; Austral Av. Rec. 3: 21, 24 &ensp; https://biodiversitylibrary.org/page/33271218</li>
+<li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Columba vitiensis godmanae&dagger;</i> &emsp; (Mathews) &ensp; 1915 &ensp; Austral Av. Rec. 3: 21, 24 &ensp; https://biodiversitylibrary.org/page/33271218</li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Columba vitiensis vitiensis</i> &emsp; Quoy & Gaimard &ensp; 1832 &ensp; Voy. Astrolabe Zool. 1: 246 Atlas Ois. pl. 28 &ensp; https://www.biodiversitylibrary.org/page/2064302</li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Columba vitiensis castaneiceps</i> &emsp; Peale &ensp; 1849 &ensp; U.S. Expl. Exped. 8: 187 &ensp; </li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Columba leucomela</i> &emsp; Temminck &ensp; 1821 &ensp; Trans. Linn. Soc. London (Ser. 1) 13: 126 &ensp; https://biodiversitylibrary.org/page/754856</li>
@@ -3933,7 +3941,7 @@
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Nesoenas picturatus coppingeri</i> &emsp; (Sharpe) &ensp; 1884 &ensp; Rep. Zool. Coll. Voy. Alert: 484 &ensp; https://biodiversitylibrary.org/page/19102814</li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Nesoenas picturatus comorensis</i> &emsp; (Newton, E) &ensp; 1877 &ensp; Proc. Zool. Soc. London (1877): 300 &ensp; https://biodiversitylibrary.org/page/28510904</li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Nesoenas picturatus picturatus</i> &emsp; (Temminck) &ensp; 1813 &ensp; Hist. Nat. Pig. Gallin. 1: 315, 480 &ensp; https://biodiversitylibrary.org/page/43751083</li>
-<li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Nesoenas rodericanus  qq </i> &emsp; (Milne-Edwards) &ensp; 1873 &ensp; Ann. Sci. Nat. Zool. (Paris) 5 (19), Art. 3, p. 16, plate 12: figs 1, 1a-c &ensp; https://biodiversitylibrary.org/page/33089132</li>
+<li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Nesoenas rodericanus&dagger;</i> &emsp; (Milne-Edwards) &ensp; 1873 &ensp; Ann. Sci. Nat. Zool. (Paris) 5 (19), Art. 3, p. 16, plate 12: figs 1, 1a-c &ensp; https://biodiversitylibrary.org/page/33089132</li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Nesoenas mayeri</i> &emsp; (Prévost) &ensp; 1843 &ensp; Les Pigeons (ed. 2) 2: 113 pl. 60 &ensp; https://biodiversitylibrary.org/page/51632574</li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Nesoenas mayeri mayeri</i> &emsp; (Prévost) &ensp; 1843 &ensp; Les Pigeons (ed. 2) 2: 113 pl. 60 &ensp; https://biodiversitylibrary.org/page/51632574</li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Nesoenas mayeri duboisi</i> &emsp; Rothschild &ensp; 1907 &ensp; Extinct birds: 166 &ensp; https://biodiversitylibrary.org/page/43677285</li>
@@ -4283,7 +4291,7 @@
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Zentrygon goldmani oreas</i> &emsp; (Wetmore) &ensp; 1950 &ensp; Proc. Biol. Soc. Wash. 63: 172 &ensp; https://biodiversitylibrary.org/page/35879104</li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Zentrygon goldmani goldmani</i> &emsp; (Nelson) &ensp; 1912 &ensp; Smiths. Misc. Coll. 60 (3): 2 &ensp; https://biodiversitylibrary.org/page/8910356</li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Ectopistes</i> &emsp; Swainson &ensp; 1.000 &ensp; 1827 &ensp; </li>
-<li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Ectopistes migratorius  qq </i> &emsp; (Linnaeus) &ensp; 1766 &ensp; Syst. Nat. (ed. 12) 1: 285 &ensp; https://biodiversitylibrary.org/page/42946481</li>
+<li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Ectopistes migratorius&dagger;</i> &emsp; (Linnaeus) &ensp; 1766 &ensp; Syst. Nat. (ed. 12) 1: 285 &ensp; https://biodiversitylibrary.org/page/42946481</li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Zenaida</i> &emsp; Bonaparte &ensp; 1.000 &ensp; 1838 &ensp; </li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Zenaida macroura</i> &emsp; (Linnaeus) &ensp; 1758 &ensp; Syst. Nat. (ed. 10) 1: 164 &ensp; https://biodiversitylibrary.org/page/727071</li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Zenaida macroura marginella</i> &emsp; (Woodhouse) &ensp; 1852 &ensp; Proc. Acad. Nat. Sci. Philadelphia 6: 104 &ensp; https://biodiversitylibrary.org/page/1779640</li>
@@ -4320,7 +4328,7 @@
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Caloenas nicobarica</i> &emsp; (Linnaeus) &ensp; 1758 &ensp; Syst. Nat. (ed. 10) 1: 164 &ensp; https://biodiversitylibrary.org/page/727071</li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Caloenas nicobarica nicobarica</i> &emsp; (Linnaeus) &ensp; 1758 &ensp; Syst. Nat. (ed. 10) 1: 164 &ensp; https://biodiversitylibrary.org/page/727071</li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Caloenas nicobarica pelewensis</i> &emsp; Finsch &ensp; 1875 &ensp; J. Mus. Godeffroy Heft 8: 27, 159 &ensp; https://biodiversitylibrary.org/page/44113070</li>
-<li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Caloenas maculata  qq </i> &emsp; (Gmelin, JF) &ensp; 1789 &ensp; Syst. Nat. (ed. 12) 1: 780 &ensp; https://biodiversitylibrary.org/page/2656275</li>
+<li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Caloenas maculata&dagger;</i> &emsp; (Gmelin, JF) &ensp; 1789 &ensp; Syst. Nat. (ed. 12) 1: 780 &ensp; https://biodiversitylibrary.org/page/2656275</li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Gallicolumba</i> &emsp; Heck &ensp; 1.000 &ensp; 1849 &ensp; </li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Gallicolumba tristigmata</i> &emsp; (Bonaparte) &ensp; 1855 &ensp; Compt. Rend. 40: 207 &ensp; https://biodiversitylibrary.org/page/4616760</li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Gallicolumba tristigmata tristigmata</i> &emsp; (Bonaparte) &ensp; 1855 &ensp; Compt. Rend. 40: 207 &ensp; https://biodiversitylibrary.org/page/4616760</li>
@@ -4349,13 +4357,13 @@
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Pampusana kubaryi</i> &emsp; (Finsch) &ensp; 1880 &ensp; J. für Orn. (Ser. 4) 28: 292 &ensp; https://biodiversitylibrary.org/page/32706632</li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Pampusana erythroptera</i> &emsp; (Gmelin, JF) &ensp; 1789 &ensp; Syst. Nat. (ed. 12) 1: 775 &ensp; https://biodiversitylibrary.org/page/2656270</li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Pampusana erythroptera erythroptera</i> &emsp; (Gmelin, JF) &ensp; 1789 &ensp; Syst. Nat. (ed. 12) 1: 775 &ensp; https://biodiversitylibrary.org/page/2656270</li>
-<li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Pampusana erythroptera albicollis  qq </i> &emsp; (Salvadori) &ensp; 1892 &ensp; Bull. B.O.C. 1: 10 &ensp; https://biodiversitylibrary.org/page/32475152</li>
+<li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Pampusana erythroptera albicollis&dagger;</i> &emsp; (Salvadori) &ensp; 1892 &ensp; Bull. B.O.C. 1: 10 &ensp; https://biodiversitylibrary.org/page/32475152</li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Pampusana xanthonura</i> &emsp; (Temminck) &ensp; 1823 &ensp; Pl. Col. livr. 32 pl. 190 &ensp; </li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Pampusana norfolkensis</i> &emsp; (Forshaw) &ensp; 2015 &ensp; Pigeons and doves in Australia, pp. 84-85 &ensp; </li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Pampusana stairi</i> &emsp; (Gray, GR) &ensp; 1856 &ensp; Proc. Zool. Soc. London pt 24: 7 pl. 115 &ensp; https://biodiversitylibrary.org/page/12860519</li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Pampusana sanctaecrucis</i> &emsp; (Mayr) &ensp; 1935 &ensp; Am. Mus. Novit. 820: 1, 2 &ensp; http://hdl.handle.net/2246/4041</li>
-<li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Pampusana ferruginea  qq </i> &emsp; (Forster, JR) &ensp; 1844 &ensp; Descr. Anim. itin. Maris Aust. Terr. ed. Licht.: 265 &ensp; https://biodiversitylibrary.org/page/41559424</li>
-<li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Pampusana salamonis  qq </i> &emsp; (Ramsay, EP) &ensp; 1882 &ensp; Proc. Linn. Soc. NSW 7: 299 &ensp; https://biodiversitylibrary.org/page/6462024</li>
+<li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Pampusana ferruginea&dagger;</i> &emsp; (Forster, JR) &ensp; 1844 &ensp; Descr. Anim. itin. Maris Aust. Terr. ed. Licht.: 265 &ensp; https://biodiversitylibrary.org/page/41559424</li>
+<li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Pampusana salamonis&dagger;</i> &emsp; (Ramsay, EP) &ensp; 1882 &ensp; Proc. Linn. Soc. NSW 7: 299 &ensp; https://biodiversitylibrary.org/page/6462024</li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Pampusana rubescens</i> &emsp; (Vieillot) &ensp; 1818 &ensp; Nouv. Dict. d'Hist. Nat. 26: 346 &ensp; https://biodiversitylibrary.org/page/18046490</li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Pampusana beccarii</i> &emsp; (Salvadori) &ensp; 1876 &ensp; Novit. Zool. 21: 287 &ensp; https://biodiversitylibrary.org/page/2988433</li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Pampusana beccarii beccarii</i> &emsp; (Salvadori) &ensp; 1876 &ensp; Novit. Zool. 31: 266 &ensp; https://biodiversitylibrary.org/page/33919496</li>
@@ -4367,7 +4375,7 @@
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Pampusana beccarii masculina</i> &emsp; (Salomonsen) &ensp; 1988 &ensp; Proc. Zool. Soc. London (1888): 200 &ensp; https://biodiversitylibrary.org/page/31825667</li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Pampusana canifrons</i> &emsp; (Hartlaub & Finsch) &ensp; 1872 &ensp; Proc. Zool. Soc. London (1872): 101 &ensp; https://biodiversitylibrary.org/page/28611451</li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Microgoura</i> &emsp; Rothschild &ensp; 1.000 &ensp; 1904 &ensp; </li>
-<li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Microgoura meeki  qq </i> &emsp; Rothschild &ensp; 1904 &ensp; Bull. B.O.C. 14: 78 &ensp; https://biodiversitylibrary.org/page/37116878</li>
+<li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Microgoura meeki&dagger;</i> &emsp; Rothschild &ensp; 1904 &ensp; Bull. B.O.C. 14: 78 &ensp; https://biodiversitylibrary.org/page/37116878</li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Otidiphaps</i> &emsp; Gould &ensp; 1.000 &ensp; 1870 &ensp; </li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Otidiphaps nobilis</i> &emsp; Gould &ensp; 1870 &ensp; Ann. Mag. Nat. Hist. (Ser. 4) 5: 62 &ensp; https://biodiversitylibrary.org/page/29404929</li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Otidiphaps nobilis aruensis</i> &emsp; Rothschild &ensp; 1928 &ensp; Bull. B.O.C. 48: 88 &ensp; https://biodiversitylibrary.org/page/40501135</li>
@@ -4382,9 +4390,9 @@
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Goura victoria victoria</i> &emsp; (Fraser) &ensp; 1844 &ensp; Proc. Zool. Soc. London pt 12: 136 &ensp; https://biodiversitylibrary.org/page/12862430</li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Goura victoria beccarii</i> &emsp; Salvadori &ensp; 1876 &ensp; Ann. Mus. Civ. Stor. Nat. Genova 8: 406 &ensp; https://biodiversitylibrary.org/page/7916166</li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Raphus</i> &emsp; Brisson &ensp; 1.000 &ensp; 1760 &ensp; </li>
-<li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Raphus cucullatus  qq </i> &emsp; (Linnaeus) &ensp; 1758 &ensp; Syst. Nat. (ed. 10) 1: 155 &ensp; https://biodiversitylibrary.org/page/727062</li>
+<li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Raphus cucullatus&dagger;</i> &emsp; (Linnaeus) &ensp; 1758 &ensp; Syst. Nat. (ed. 10) 1: 155 &ensp; https://biodiversitylibrary.org/page/727062</li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Pezophaps</i> &emsp; Strickland &ensp; 1.000 &ensp; 1848 &ensp; </li>
-<li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Pezophaps solitaria  qq </i> &emsp; (Gmelin, JF) &ensp; 1789 &ensp; Syst. Nat. (ed. 12) 1: 728 &ensp; https://biodiversitylibrary.org/page/2656223</li>
+<li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Pezophaps solitaria&dagger;</i> &emsp; (Gmelin, JF) &ensp; 1789 &ensp; Syst. Nat. (ed. 12) 1: 728 &ensp; https://biodiversitylibrary.org/page/2656223</li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Didunculus</i> &emsp; Jardine &ensp; 1.000 &ensp; 1845 &ensp; </li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Didunculus strigirostris</i> &emsp; (Jardine) &ensp; 1845 &ensp; Ann. Mag. Nat. Hist. (Ser. 1) 16: 175 pl. 9 &ensp; https://biodiversitylibrary.org/page/2287441</li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Phapitreron</i> &emsp; Bonaparte &ensp; 1.000 &ensp; 1854 &ensp; </li>
@@ -4648,7 +4656,7 @@
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Drepanoptila</i> &emsp; Bonaparte &ensp; 1.000 &ensp; 1855 &ensp; </li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Drepanoptila holosericea</i> &emsp; (Temminck) &ensp; 1809 &ensp; Les Pigeons p. 73 pl. 32 &ensp; https://biodiversitylibrary.org/page/53206175</li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Alectroenas</i> &emsp; Gray, GR &ensp; 1.000 &ensp; 1840 &ensp; </li>
-<li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Alectroenas nitidissimus  qq </i> &emsp; (Scopoli) &ensp; 1786 &ensp; Del. Flor. Faun. Insubr. 2: 93 &ensp; http://bibdigital.rjb.csic.es/ing/Libro.php?Libro=2427</li>
+<li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Alectroenas nitidissimus&dagger;</i> &emsp; (Scopoli) &ensp; 1786 &ensp; Del. Flor. Faun. Insubr. 2: 93 &ensp; http://bibdigital.rjb.csic.es/ing/Libro.php?Libro=2427</li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Alectroenas madagascariensis</i> &emsp; (Linnaeus) &ensp; 1766 &ensp; Syst. Nat. (ed. 12) 1: 283 &ensp; https://biodiversitylibrary.org/page/42946479</li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Alectroenas sganzini</i> &emsp; (Bonaparte) &ensp; 1854 &ensp; Compt. Rend. 39: 880 &ensp; https://biodiversitylibrary.org/page/2820061</li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Alectroenas sganzini minor</i> &emsp; Berlepsch &ensp; 1898 &ensp; Abh. Senckenb. Nat. Gesell. 21: 493 &ensp; https://biodiversitylibrary.org/page/26416376</li>
@@ -4691,7 +4699,7 @@
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Ducula oceanica ratakensis</i> &emsp; (Taka-Tsukasa & Yamashina) &ensp; 1932 &ensp; Dobutsu. Zasshi 44: 221 &ensp; </li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Ducula aurorae</i> &emsp; (Peale) &ensp; 1849 &ensp; U.S. Expl. Exped. 8: 201 &ensp; </li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Ducula aurorae aurorae</i> &emsp; (Peale) &ensp; 1849 &ensp; U.S. Expl. Exped. 8: 201 &ensp; </li>
-<li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Ducula aurorae wilkesii  qq </i> &emsp; (Peale) &ensp; 1849 &ensp; U.S. Expl. Exped. 8: 203 &ensp; </li>
+<li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Ducula aurorae wilkesii&dagger;</i> &emsp; (Peale) &ensp; 1849 &ensp; U.S. Expl. Exped. 8: 203 &ensp; </li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Ducula galeata</i> &emsp; (Bonaparte) &ensp; 1855 &ensp; Compt. Rend. 41: 1110 &ensp; https://biodiversitylibrary.org/page/13835224</li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Ducula rubricera</i> &emsp; (Bonaparte) &ensp; 1854 &ensp; Compt. Rend. 39: 1073 &ensp; https://biodiversitylibrary.org/page/2820254</li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Ducula rubricera rubricera</i> &emsp; (Bonaparte) &ensp; 1854 &ensp; Compt. Rend. 39: 1073 &ensp; https://biodiversitylibrary.org/page/2820254</li>
@@ -4747,7 +4755,7 @@
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Hemiphaga</i> &emsp; Bonaparte &ensp; 1.000 &ensp; 1854 &ensp; </li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Hemiphaga novaeseelandiae</i> &emsp; (Gmelin, JF) &ensp; 1789 &ensp; Syst. Nat. (ed. 12) 1: 773 &ensp; https://biodiversitylibrary.org/page/2656268</li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Hemiphaga novaeseelandiae novaeseelandiae</i> &emsp; (Gmelin, JF) &ensp; 1789 &ensp; Syst. Nat. (ed. 12) 1: 773 &ensp; https://biodiversitylibrary.org/page/2656268</li>
-<li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Hemiphaga novaeseelandiae spadicea  qq </i> &emsp; (Latham) &ensp; 1801 &ensp; Suppl. ind. orn.: lx &ensp; https://biodiversitylibrary.org/page/33261434</li>
+<li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Hemiphaga novaeseelandiae spadicea&dagger;</i> &emsp; (Latham) &ensp; 1801 &ensp; Suppl. ind. orn.: lx &ensp; https://biodiversitylibrary.org/page/33261434</li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Hemiphaga chathamensis</i> &emsp; (Rothschild) &ensp; 1891 &ensp; Proc. Zool. Soc. London (1891): 312 pl. 28 &ensp; https://biodiversitylibrary.org/page/30978559</li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Cryptophaps</i> &emsp; Salvadori &ensp; 1.000 &ensp; 1893 &ensp; </li>
 <li> COLUMBIFORMES &emsp; Columbidae &emsp; <i> Cryptophaps poecilorrhoa</i> &emsp; (Brüggemann) &ensp; 1876 &ensp; Abh. naturwiss. Ver. Bremen 5: 84 &ensp; https://biodiversitylibrary.org/page/33553661</li>
@@ -4838,7 +4846,7 @@
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Pardirallus sanguinolentus luridus</i> &emsp; (Peale) &ensp; 1849 &ensp; U.S. Expl. Exped. 8: 223 &ensp; </li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Amaurolimnas</i> &emsp; Sharpe &ensp; 1.000 &ensp; 1893 &ensp; </li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Amaurolimnas concolor</i> &emsp; (Gosse) &ensp; 1847 &ensp; Birds Jamaica: 369 &ensp; https://biodiversitylibrary.org/page/14455927</li>
-<li> GRUIFORMES &emsp; Rallidae &emsp; <i> Amaurolimnas concolor concolor  qq </i> &emsp; (Gosse) &ensp; 1847 &ensp; Birds Jamaica: 369 &ensp; https://biodiversitylibrary.org/page/14455927</li>
+<li> GRUIFORMES &emsp; Rallidae &emsp; <i> Amaurolimnas concolor concolor&dagger;</i> &emsp; (Gosse) &ensp; 1847 &ensp; Birds Jamaica: 369 &ensp; https://biodiversitylibrary.org/page/14455927</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Amaurolimnas concolor guatemalensis</i> &emsp; (Lawrence) &ensp; 1863 &ensp; Proc. Acad. Nat. Sci. Philadelphia 15: 106 &ensp; https://biodiversitylibrary.org/page/1958370</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Amaurolimnas concolor castaneus</i> &emsp; (Pucheran) &ensp; 1851 &ensp; Rev. Mag. Zool. (Ser. 2) 3: 279 &ensp; https://biodiversitylibrary.org/page/2321334</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Aramides</i> &emsp; Pucheran &ensp; 1.000 &ensp; 1845 &ensp; </li>
@@ -4911,8 +4919,8 @@
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Dryolimnas cuvieri</i> &emsp; (Pucheran) &ensp; 1845 &ensp; Rev. Zool. 8: 279 &ensp; https://biodiversitylibrary.org/page/2327503</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Dryolimnas cuvieri cuvieri</i> &emsp; (Pucheran) &ensp; 1845 &ensp; Rev. Zool. 8: 279 &ensp; https://biodiversitylibrary.org/page/2327503</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Dryolimnas cuvieri aldabranus</i> &emsp; (Günther) &ensp; 1879 &ensp; Ann. Mag. Nat. Hist. (Ser. 5) 3: 168 &ensp; https://biodiversitylibrary.org/page/25159199</li>
-<li> GRUIFORMES &emsp; Rallidae &emsp; <i> Dryolimnas cuvieri abbotti  qq </i> &emsp; (Ridgway) &ensp; 1894 &ensp; Auk 11: 74 &ensp; https://sora.unm.edu/sites/default/files/journals/auk/v011n01/p0074-p0074.pdf</li>
-<li> GRUIFORMES &emsp; Rallidae &emsp; <i> Dryolimnas augusti  qq </i> &emsp; Mourer-Chauviré, Bour, Ribes & Moutou &ensp; 1999 &ensp; Smiths. Contr. Paleo. 89: 1, 21 &ensp; https://biodiversitylibrary.org/page/58077328</li>
+<li> GRUIFORMES &emsp; Rallidae &emsp; <i> Dryolimnas cuvieri abbotti&dagger;</i> &emsp; (Ridgway) &ensp; 1894 &ensp; Auk 11: 74 &ensp; https://sora.unm.edu/sites/default/files/journals/auk/v011n01/p0074-p0074.pdf</li>
+<li> GRUIFORMES &emsp; Rallidae &emsp; <i> Dryolimnas augusti&dagger;</i> &emsp; Mourer-Chauviré, Bour, Ribes & Moutou &ensp; 1999 &ensp; Smiths. Contr. Paleo. 89: 1, 21 &ensp; https://biodiversitylibrary.org/page/58077328</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Crex</i> &emsp; Bechstein &ensp; 1.000 &ensp; 1803 &ensp; </li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Crex crex</i> &emsp; (Linnaeus) &ensp; 1758 &ensp; Syst. Nat. (ed. 10) 1: 153 &ensp; https://biodiversitylibrary.org/page/727060</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Aramidopsis</i> &emsp; Sharpe &ensp; 1.000 &ensp; 1893 &ensp; </li>
@@ -4935,7 +4943,7 @@
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Lewinia pectoralis brachipus</i> &emsp; (Swainson) &ensp; 1838 &ensp; Anim. Menag.: 336 &ensp; https://biodiversitylibrary.org/page/28995047</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Lewinia muelleri</i> &emsp; (Rothschild) &ensp; 1893 &ensp; Bull. B.O.C. 1: 40 &ensp; https://biodiversitylibrary.org/page/32475144</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Diaphorapteryx</i> &emsp; Forbes, HO &ensp; 1.000 &ensp; 1892 &ensp; </li>
-<li> GRUIFORMES &emsp; Rallidae &emsp; <i> Diaphorapteryx hawkinsi  qq </i> &emsp; (Forbes, HO) &ensp; 1892 &ensp; Nature 45: 416 &ensp; https://biodiversitylibrary.org/page/19401679</li>
+<li> GRUIFORMES &emsp; Rallidae &emsp; <i> Diaphorapteryx hawkinsi&dagger;</i> &emsp; (Forbes, HO) &ensp; 1892 &ensp; Nature 45: 416 &ensp; https://biodiversitylibrary.org/page/19401679</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Habroptila</i> &emsp; Gray, GR &ensp; 1.000 &ensp; 1861 &ensp; </li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Habroptila wallacii</i> &emsp; Gray, GR &ensp; 1861 &ensp; Proc. Zool. Soc. London (1861): 365 pl. 172 &ensp; https://biodiversitylibrary.org/page/12866933</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Gallirallus</i> &emsp; Lafresnaye &ensp; 1.000 &ensp; 1841 &ensp; </li>
@@ -4951,7 +4959,7 @@
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Eulabeornis castaneoventris castaneoventris</i> &emsp; Gould &ensp; 1844 &ensp; Proc. Zool. Soc. London pt 12: 56 &ensp; https://biodiversitylibrary.org/page/12862350</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Cabalus</i> &emsp; Hutton, FW &ensp; 1.000 &ensp; 1874 &ensp; </li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Cabalus lafresnayanus</i> &emsp; (Verreaux, J & Des Murs) &ensp; 1860 &ensp; Rev. Mag. Zool. (Ser. 2) 12: 437 &ensp; https://biodiversitylibrary.org/page/2264813</li>
-<li> GRUIFORMES &emsp; Rallidae &emsp; <i> Cabalus modestus  qq </i> &emsp; (Hutton, FW) &ensp; 1872 &ensp; Ibis (Ser. 3) 2: 247 &ensp; https://biodiversitylibrary.org/page/8618209</li>
+<li> GRUIFORMES &emsp; Rallidae &emsp; <i> Cabalus modestus&dagger;</i> &emsp; (Hutton, FW) &ensp; 1872 &ensp; Ibis (Ser. 3) 2: 247 &ensp; https://biodiversitylibrary.org/page/8618209</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Hypotaenidia</i> &emsp; Reichenbach &ensp; 1.000 &ensp; 1853 &ensp; </li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Hypotaenidia okinawae</i> &emsp; (Yamashina & Mano) &ensp; 1981 &ensp; J. Yamashina Inst. Orn. 13: 148 &ensp; https://doi.org/10.3312/jyio1952.13.147</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Hypotaenidia torquata</i> &emsp; (Linnaeus) &ensp; 1766 &ensp; Syst. Nat. (ed. 12) 1: 262 &ensp; https://biodiversitylibrary.org/page/42946458</li>
@@ -4977,7 +4985,7 @@
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Hypotaenidia philippensis goodsoni</i> &emsp; (Mathews) &ensp; 1911 &ensp; Birds Austr. 1: 197 &ensp; https://biodiversitylibrary.org/page/52820948</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Hypotaenidia philippensis ecaudata</i> &emsp; (Miller, JF) &ensp; 1783 &ensp; Icon. Anim. pt 8 pl. 47 &ensp; https://biodiversitylibrary.org/page/49649924</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Hypotaenidia philippensis assimilis</i> &emsp; (Gray, GR) &ensp; 1843 &ensp; Trav. N.Z. [Dieffenbach] 2: 197 &ensp; https://biodiversitylibrary.org/page/20760174</li>
-<li> GRUIFORMES &emsp; Rallidae &emsp; <i> Hypotaenidia philippensis macquariensis  qq </i> &emsp; (Hutton, FW) &ensp; 1879 &ensp; Ibis (Ser. 4) 3: 455 &ensp; https://biodiversitylibrary.org/page/8609633</li>
+<li> GRUIFORMES &emsp; Rallidae &emsp; <i> Hypotaenidia philippensis macquariensis&dagger;</i> &emsp; (Hutton, FW) &ensp; 1879 &ensp; Ibis (Ser. 4) 3: 455 &ensp; https://biodiversitylibrary.org/page/8609633</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Hypotaenidia philippensis lacustris</i> &emsp; (Mayr) &ensp; 1938 &ensp; Am. Mus. Novit. 1007: 6 &ensp; http://hdl.handle.net/2246/3799</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Hypotaenidia philippensis tounelieri</i> &emsp; (Schodde & Naurois) &ensp; 1982 &ensp; Notornis 29: 136 &ensp; https://www.notornis.osnz.org.nz/system/files/Notornis_29_2.pdf</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Hypotaenidia philippensis mellori</i> &emsp; (Mathews) &ensp; 1912 &ensp; Novit. Zool. 18: 192 &ensp; https://biodiversitylibrary.org/page/3109896</li>
@@ -4988,11 +4996,11 @@
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Hypotaenidia woodfordi tertia</i> &emsp; (Mayr) &ensp; 1949 &ensp; Am. Mus. Novit. 1417: 15 &ensp; http://hdl.handle.net/2246/4382</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Hypotaenidia woodfordi woodfordi</i> &emsp; (Ogilvie-Grant) &ensp; 1889 &ensp; Ann. Mag. Nat. Hist. (Ser. 6) 4: 320 &ensp; https://biodiversitylibrary.org/page/19301812</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Hypotaenidia woodfordi immaculata</i> &emsp; (Mayr) &ensp; 1949 &ensp; Am. Mus. Novit. 1417: 15 &ensp; http://hdl.handle.net/2246/4382</li>
-<li> GRUIFORMES &emsp; Rallidae &emsp; <i> Hypotaenidia poeciloptera  qq </i> &emsp; (Hartlaub) &ensp; 1866 &ensp; Ibis (Ser. 2) 2: 171 &ensp; https://biodiversitylibrary.org/page/56940942</li>
+<li> GRUIFORMES &emsp; Rallidae &emsp; <i> Hypotaenidia poeciloptera&dagger;</i> &emsp; (Hartlaub) &ensp; 1866 &ensp; Ibis (Ser. 2) 2: 171 &ensp; https://biodiversitylibrary.org/page/56940942</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Hypotaenidia sylvestris</i> &emsp; (Sclater, PL) &ensp; 1870 &ensp; Proc. Zool. Soc. London (1869): 472 pl. 35 &ensp; https://biodiversitylibrary.org/page/28663393</li>
-<li> GRUIFORMES &emsp; Rallidae &emsp; <i> Hypotaenidia dieffenbachii  qq </i> &emsp; (Gray, GR) &ensp; 1843 &ensp; Trav. N.Z. [Dieffenbach] 2: 197 &ensp; https://biodiversitylibrary.org/page/20760174</li>
-<li> GRUIFORMES &emsp; Rallidae &emsp; <i> Hypotaenidia pacifica  qq </i> &emsp; (Gmelin, JF) &ensp; 1789 &ensp; Syst. Nat. (ed. 12) 1: 717 &ensp; https://biodiversitylibrary.org/page/2656210</li>
-<li> GRUIFORMES &emsp; Rallidae &emsp; <i> Hypotaenidia wakensis  qq </i> &emsp; Rothschild &ensp; 1903 &ensp; Bull. B.O.C. 13: 78 &ensp; https://biodiversitylibrary.org/page/37116766</li>
+<li> GRUIFORMES &emsp; Rallidae &emsp; <i> Hypotaenidia dieffenbachii&dagger;</i> &emsp; (Gray, GR) &ensp; 1843 &ensp; Trav. N.Z. [Dieffenbach] 2: 197 &ensp; https://biodiversitylibrary.org/page/20760174</li>
+<li> GRUIFORMES &emsp; Rallidae &emsp; <i> Hypotaenidia pacifica&dagger;</i> &emsp; (Gmelin, JF) &ensp; 1789 &ensp; Syst. Nat. (ed. 12) 1: 717 &ensp; https://biodiversitylibrary.org/page/2656210</li>
+<li> GRUIFORMES &emsp; Rallidae &emsp; <i> Hypotaenidia wakensis&dagger;</i> &emsp; Rothschild &ensp; 1903 &ensp; Bull. B.O.C. 13: 78 &ensp; https://biodiversitylibrary.org/page/37116766</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Porphyriops</i> &emsp; Pucheran &ensp; 1.000 &ensp; 1845 &ensp; </li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Porphyriops melanops</i> &emsp; (Vieillot) &ensp; 1819 &ensp; Nouv. Dict. d'Hist. Nat. 28: 553 &ensp; https://biodiversitylibrary.org/page/19430526</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Porphyriops melanops melanops</i> &emsp; (Vieillot) &ensp; 1819 &ensp; Nouv. Dict. d'Hist. Nat. 28: 553 &ensp; https://biodiversitylibrary.org/page/19430526</li>
@@ -5026,10 +5034,10 @@
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Gallinula chloropus pyrrhorrhoa</i> &emsp; Newton, A &ensp; 1861 &ensp; Proc. Zool. Soc. London (1861): 19 &ensp; https://biodiversitylibrary.org/page/28672455</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Gallinula chloropus orientalis</i> &emsp; Horsfield &ensp; 1821 &ensp; Trans. Linn. Soc. London (Ser. 1) 13: 195 &ensp; https://biodiversitylibrary.org/page/754928</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Gallinula chloropus guami</i> &emsp; Hartert, E &ensp; 1917 &ensp; Novit. Zool. 24: 268 &ensp; https://biodiversitylibrary.org/page/3151681</li>
-<li> GRUIFORMES &emsp; Rallidae &emsp; <i> Gallinula nesiotis  qq </i> &emsp; Sclater, PL &ensp; 1861 &ensp; Proc. Zool. Soc. London (1861): 261 pl. 30 &ensp; https://biodiversitylibrary.org/page/28672795</li>
+<li> GRUIFORMES &emsp; Rallidae &emsp; <i> Gallinula nesiotis&dagger;</i> &emsp; Sclater, PL &ensp; 1861 &ensp; Proc. Zool. Soc. London (1861): 261 pl. 30 &ensp; https://biodiversitylibrary.org/page/28672795</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Gallinula comeri</i> &emsp; (Allen, JA) &ensp; 1892 &ensp; Bull. Am. Mus. Nat. Hist. 4: 57 &ensp; http://hdl.handle.net/2246/789</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Gallinula silvestris</i> &emsp; (Mayr) &ensp; 1933 &ensp; Am. Mus. Novit. 590: 1 &ensp; http://hdl.handle.net/2246/4192</li>
-<li> GRUIFORMES &emsp; Rallidae &emsp; <i> Gallinula pacifica  qq </i> &emsp; (Hartlaub & Finsch) &ensp; 1871 &ensp; Proc. Zool. Soc. London (1871): 25 pl. 2 &ensp; https://biodiversitylibrary.org/page/28553817</li>
+<li> GRUIFORMES &emsp; Rallidae &emsp; <i> Gallinula pacifica&dagger;</i> &emsp; (Hartlaub & Finsch) &ensp; 1871 &ensp; Proc. Zool. Soc. London (1871): 25 pl. 2 &ensp; https://biodiversitylibrary.org/page/28553817</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Fulica</i> &emsp; Linnaeus &ensp; 1.000 &ensp; 1758 &ensp; </li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Fulica rufifrons</i> &emsp; Philippi & Landbeck &ensp; 1861 &ensp; An. Univ. Chile 19: 507 &ensp; https://biodiversitylibrary.org/page/50443487</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Fulica cornuta</i> &emsp; Bonaparte &ensp; 1853 &ensp; Compt. Rend. 37: 925 &ensp; https://biodiversitylibrary.org/page/1217532</li>
@@ -5041,7 +5049,7 @@
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Fulica atra novaeguineae</i> &emsp; Rand &ensp; 1940 &ensp; Am. Mus. Novit. 1072: 4 &ensp; http://hdl.handle.net/2246/3717</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Fulica atra australis</i> &emsp; Gould &ensp; 1845 &ensp; Proc. Zool. Soc. London pt 13: 2 &ensp; https://biodiversitylibrary.org/page/12862498</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Fulica cristata</i> &emsp; Gmelin, JF &ensp; 1789 &ensp; Syst. Nat. (ed. 12) 1: 704 &ensp; https://biodiversitylibrary.org/page/2656197</li>
-<li> GRUIFORMES &emsp; Rallidae &emsp; <i> Fulica newtoni  qq </i> &emsp; Milne-Edwards &ensp; 1867 &ensp; Ann. Sci. Nat. Zool. (Ser. 5) 8 no. 4: 203 pl. 10 &ensp; https://biodiversitylibrary.org/page/29126024</li>
+<li> GRUIFORMES &emsp; Rallidae &emsp; <i> Fulica newtoni&dagger;</i> &emsp; Milne-Edwards &ensp; 1867 &ensp; Ann. Sci. Nat. Zool. (Ser. 5) 8 no. 4: 203 pl. 10 &ensp; https://biodiversitylibrary.org/page/29126024</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Fulica alai</i> &emsp; Peale &ensp; 1849 &ensp; U.S. Expl. Exped. 8: 224 &ensp; </li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Fulica americana</i> &emsp; Gmelin, JF &ensp; 1789 &ensp; Syst. Nat. (ed. 12) 1: 704 &ensp; https://biodiversitylibrary.org/page/2656197</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Fulica americana americana</i> &emsp; Gmelin, JF &ensp; 1789 &ensp; Syst. Nat. (ed. 12) 1: 704 &ensp; https://biodiversitylibrary.org/page/2656197</li>
@@ -5068,8 +5076,8 @@
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Porphyrio melanotus melanotus</i> &emsp; Temminck &ensp; 1820 &ensp; Man. d'Orn. (Ed. 2):2: 701 &ensp; https://biodiversitylibrary.org/page/41003150</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Porphyrio melanotus bellus</i> &emsp; Gould &ensp; 1841 &ensp; Proc. Zool. Soc. London pt 8: 176 &ensp; https://biodiversitylibrary.org/page/30571615</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Porphyrio melanotus samoensis</i> &emsp; Peale &ensp; 1849 &ensp; U.S. Expl. Exped. 8: 220 &ensp; </li>
-<li> GRUIFORMES &emsp; Rallidae &emsp; <i> Porphyrio albus  qq </i> &emsp; (Shaw) &ensp; 1790 &ensp; J. voy. NSW: 238, pl. 27 &ensp; https://biodiversitylibrary.org/page/47182821</li>
-<li> GRUIFORMES &emsp; Rallidae &emsp; <i> Porphyrio mantelli  qq </i> &emsp; (Owen) &ensp; 1848 &ensp; Trans. Zool. Soc. London 8: 377 &ensp; https://biodiversitylibrary.org/page/12863507</li>
+<li> GRUIFORMES &emsp; Rallidae &emsp; <i> Porphyrio albus&dagger;</i> &emsp; (Shaw) &ensp; 1790 &ensp; J. voy. NSW: 238, pl. 27 &ensp; https://biodiversitylibrary.org/page/47182821</li>
+<li> GRUIFORMES &emsp; Rallidae &emsp; <i> Porphyrio mantelli&dagger;</i> &emsp; (Owen) &ensp; 1848 &ensp; Trans. Zool. Soc. London 8: 377 &ensp; https://biodiversitylibrary.org/page/12863507</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Porphyrio hochstetteri</i> &emsp; (Meyer, AB) &ensp; 1883 &ensp; Abbild. Vog. Skelett. Lief. 4 & 5: 28 pl. 34-37 &ensp; https://biodiversitylibrary.org/page/35827986</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Micropygia</i> &emsp; Bonaparte &ensp; 1.000 &ensp; 1856 &ensp; </li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Micropygia schomburgkii</i> &emsp; (Schomburgk) &ensp; 1848 &ensp; Reisen Brit.-Guiana 2: 245 &ensp; https://biodiversitylibrary.org/page/48917819</li>
@@ -5118,9 +5126,9 @@
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Laterallus albigularis cerdaleus</i> &emsp; Wetmore &ensp; 1958 &ensp; Proc. Biol. Soc. Wash. 71: 1 &ensp; https://biodiversitylibrary.org/page/34647726</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Laterallus fasciatus</i> &emsp; (Sclater, PL & Salvin) &ensp; 1868 &ensp; Proc. Zool. Soc. London (1867): 981 &ensp; https://biodiversitylibrary.org/page/29534423</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Mundia</i> &emsp; Bourne, Ashmole & Simmons &ensp; 1.000 &ensp; 2003 &ensp; </li>
-<li> GRUIFORMES &emsp; Rallidae &emsp; <i> Mundia elpenor  qq </i> &emsp; (Olson) &ensp; 1973 &ensp; Smiths. Contr. Zool. 152: ii, 7 &ensp; </li>
+<li> GRUIFORMES &emsp; Rallidae &emsp; <i> Mundia elpenor&dagger;</i> &emsp; (Olson) &ensp; 1973 &ensp; Smiths. Contr. Zool. 152: ii, 7 &ensp; </li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Aphanocrex</i> &emsp; Wetmore &ensp; 1.000 &ensp; 1963 &ensp; </li>
-<li> GRUIFORMES &emsp; Rallidae &emsp; <i> Aphanocrex podarces  qq </i> &emsp; Wetmore &ensp; 1963 &ensp; Ibis 103B no. 3: 379 pl. 9 &ensp; </li>
+<li> GRUIFORMES &emsp; Rallidae &emsp; <i> Aphanocrex podarces&dagger;</i> &emsp; Wetmore &ensp; 1963 &ensp; Ibis 103B no. 3: 379 pl. 9 &ensp; </li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Zapornia</i> &emsp; Leach &ensp; 1.000 &ensp; 1816 &ensp; </li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Zapornia flavirostra</i> &emsp; (Swainson) &ensp; 1837 &ensp; Birds W. Afr. 2: 244 pl. 28 &ensp; </li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Zapornia olivieri</i> &emsp; (Grandidier, G & Berlioz) &ensp; 1929 &ensp; Nova Acta Acad. Caes. Leop. Carol. 16 Suppl.: 109 pl. 20 &ensp; </li>
@@ -5141,13 +5149,13 @@
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Zapornia pusilla mayri</i> &emsp; (Junge) &ensp; 1952 &ensp; Zool. Meded. Rijksmus. Nat. Hist. Leiden 31: 247 &ensp; https://www.repository.naturalis.nl/document/149574</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Zapornia pusilla palustris</i> &emsp; (Gould) &ensp; 1843 &ensp; Proc. Zool. Soc. London pt 10: 139 &ensp; https://biodiversitylibrary.org/page/30679901</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Zapornia pusilla affinis</i> &emsp; (Gray, GR) &ensp; 1845 &ensp; Voy. Erebus and Terror 1 Birds: 14 &ensp; https://biodiversitylibrary.org/page/6957501</li>
-<li> GRUIFORMES &emsp; Rallidae &emsp; <i> Zapornia astrictocarpus  qq </i> &emsp; (Olson) &ensp; 1973 &ensp; Smiths. Contr. Zool. 152: ii, 17 &ensp; </li>
+<li> GRUIFORMES &emsp; Rallidae &emsp; <i> Zapornia astrictocarpus&dagger;</i> &emsp; (Olson) &ensp; 1973 &ensp; Smiths. Contr. Zool. 152: ii, 17 &ensp; </li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Zapornia parva</i> &emsp; (Scopoli) &ensp; 1769 &ensp; Annus I Hist. Nat.: 108 &ensp; https://biodiversitylibrary.org/page/31117735</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Zapornia tabuensis</i> &emsp; (Gmelin, JF) &ensp; 1789 &ensp; Syst. Nat. (ed. 12) 1: 717 &ensp; https://biodiversitylibrary.org/page/2656210</li>
-<li> GRUIFORMES &emsp; Rallidae &emsp; <i> Zapornia monasa  qq </i> &emsp; (Kittlitz) &ensp; 1858 &ensp; Denkw. Reiseruss Amer. 2: 30 &ensp; </li>
-<li> GRUIFORMES &emsp; Rallidae &emsp; <i> Zapornia nigra  qq </i> &emsp; (Miller, JF) &ensp; 1784 &ensp; Icon. Anim. pt 9 pl. 50 &ensp; https://biodiversitylibrary.org/page/49649932</li>
+<li> GRUIFORMES &emsp; Rallidae &emsp; <i> Zapornia monasa&dagger;</i> &emsp; (Kittlitz) &ensp; 1858 &ensp; Denkw. Reiseruss Amer. 2: 30 &ensp; </li>
+<li> GRUIFORMES &emsp; Rallidae &emsp; <i> Zapornia nigra&dagger;</i> &emsp; (Miller, JF) &ensp; 1784 &ensp; Icon. Anim. pt 9 pl. 50 &ensp; https://biodiversitylibrary.org/page/49649932</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Zapornia atra</i> &emsp; (North) &ensp; 1908 &ensp; Rec. Austr. Mus. 7: 31 &ensp; https://biodiversitylibrary.org/page/8055749</li>
-<li> GRUIFORMES &emsp; Rallidae &emsp; <i> Zapornia sandwichensis  qq </i> &emsp; (Gmelin, JF) &ensp; 1789 &ensp; Syst. Nat. (ed. 12) 1: 717 &ensp; https://biodiversitylibrary.org/page/2656210</li>
+<li> GRUIFORMES &emsp; Rallidae &emsp; <i> Zapornia sandwichensis&dagger;</i> &emsp; (Gmelin, JF) &ensp; 1789 &ensp; Syst. Nat. (ed. 12) 1: 717 &ensp; https://biodiversitylibrary.org/page/2656210</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Zapornia palmeri</i> &emsp; (Frohawk) &ensp; 1892 &ensp; Ann. Mag. Nat. Hist. (Ser. 6) 9: 247 &ensp; https://biodiversitylibrary.org/page/15617892</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Rallina</i> &emsp; Gray, GR &ensp; 1.000 &ensp; 1846 &ensp; </li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Rallina eurizonoides</i> &emsp; (Lafresnaye) &ensp; 1845 &ensp; Rev. Zool. 8: 368 &ensp; https://biodiversitylibrary.org/page/2327592</li>
@@ -5166,7 +5174,7 @@
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Gymnocrex talaudensis</i> &emsp; Lambert &ensp; 1998 &ensp; Forktail 13: 2 front. pl. 42430 &ensp; https://orientalbirdclub.org/wp-content/uploads/2012/09/Lambert-Gymnocrex.pdf</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Gymnocrex plumbeiventris</i> &emsp; (Gray, GR) &ensp; 1862 &ensp; Proc. Zool. Soc. London (1861): 432, 438 &ensp; https://biodiversitylibrary.org/page/28672994</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Gymnocrex plumbeiventris plumbeiventris</i> &emsp; (Gray, GR) &ensp; 1862 &ensp; Proc. Zool. Soc. London (1861): 432, 438 &ensp; https://biodiversitylibrary.org/page/28672994</li>
-<li> GRUIFORMES &emsp; Rallidae &emsp; <i> Gymnocrex plumbeiventris intactus  qq </i> &emsp; (Sclater, PL) &ensp; 1869 &ensp; Proc. Zool. Soc. London (1869): 123 pl. 10 &ensp; https://biodiversitylibrary.org/page/28662996</li>
+<li> GRUIFORMES &emsp; Rallidae &emsp; <i> Gymnocrex plumbeiventris intactus&dagger;</i> &emsp; (Sclater, PL) &ensp; 1869 &ensp; Proc. Zool. Soc. London (1869): 123 pl. 10 &ensp; https://biodiversitylibrary.org/page/28662996</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Himantornis</i> &emsp; Hartlaub &ensp; 1.000 &ensp; 1855 &ensp; </li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Himantornis haematopus</i> &emsp; Hartlaub &ensp; 1855 &ensp; J. für Orn. 3: 357 &ensp; https://biodiversitylibrary.org/page/13947515</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Megacrex</i> &emsp; D'Albertis & Salvadori &ensp; 1.000 &ensp; 1879 &ensp; Ann. Mus. Civ. Stor. Nat. Genova 14: 130 &ensp; https://biodiversitylibrary.org/page/9186402</li>
@@ -5193,9 +5201,9 @@
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Amaurornis moluccana ultima</i> &emsp; Mayr &ensp; 1949 &ensp; Birds Austr. Suppl. p. 153, pl. 79 &ensp; https://biodiversitylibrary.org/page/48517615</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Amaurornis moluccana ruficrissa</i> &emsp; (Gould) &ensp; 1869 &ensp; Suppl. Birds Aust. Pt 5, pl. [79] &ensp; https://www.biodiversitylibrary.org/page/48517615</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Aphanapteryx</i> &emsp; von Frauenfeld &ensp; 1.000 &ensp; 1868 &ensp; </li>
-<li> GRUIFORMES &emsp; Rallidae &emsp; <i> Aphanapteryx bonasia  qq </i> &emsp; (de Sélys Longchamps) &ensp; 1848 &ensp; Rev. Zool. 11: 294 &ensp; https://biodiversitylibrary.org/page/2366744</li>
+<li> GRUIFORMES &emsp; Rallidae &emsp; <i> Aphanapteryx bonasia&dagger;</i> &emsp; (de Sélys Longchamps) &ensp; 1848 &ensp; Rev. Zool. 11: 294 &ensp; https://biodiversitylibrary.org/page/2366744</li>
 <li> GRUIFORMES &emsp; Rallidae &emsp; <i> Erythromachus</i> &emsp; Milne-Edwards &ensp; 1.000 &ensp; 1873 &ensp; </li>
-<li> GRUIFORMES &emsp; Rallidae &emsp; <i> Erythromachus leguati  qq </i> &emsp; Milne-Edwards &ensp; 1873 &ensp; Bibl. Ecole Haut. Etud. 9 art. 3: 6 pl. 11 fig. 1 pl. 12 fig. 3, 4 &ensp; https://www.biodiversitylibrary.org/page/56165554</li>
+<li> GRUIFORMES &emsp; Rallidae &emsp; <i> Erythromachus leguati&dagger;</i> &emsp; Milne-Edwards &ensp; 1873 &ensp; Bibl. Ecole Haut. Etud. 9 art. 3: 6 pl. 11 fig. 1 pl. 12 fig. 3, 4 &ensp; https://www.biodiversitylibrary.org/page/56165554</li>
 <li> GRUIFORMES &emsp; Psophiidae &emsp; <i> Psophia</i> &emsp; Linnaeus &ensp; 1.000 &ensp; 1758 &ensp; </li>
 <li> GRUIFORMES &emsp; Psophiidae &emsp; <i> Psophia crepitans</i> &emsp; Linnaeus &ensp; 1758 &ensp; Syst. Nat. (ed. 10) 1: 154 &ensp; https://biodiversitylibrary.org/page/727061</li>
 <li> GRUIFORMES &emsp; Psophiidae &emsp; <i> Psophia crepitans crepitans</i> &emsp; Linnaeus &ensp; 1758 &ensp; Syst. Nat. (ed. 10) 1: 154 &ensp; https://biodiversitylibrary.org/page/727061</li>
