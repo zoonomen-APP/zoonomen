@@ -46,7 +46,7 @@ def insert_links(root_name):
                 url = None
         
         html_wayne_class = 'class="from-wayne"'
-        if ('</li>' in line) and ('<ref>' not in line) and (html_wayne_class not in line):
+        if ('</li>' in line) and ('ref>' not in line) and (html_wayne_class not in line):
             if re.match('^\t', line):
                 line_start = '\n\t'
             else:
