@@ -1,5 +1,6 @@
 # 2017.08.12 replaces old num.scr, which put xtra characters at end of file name.
 #2019.02.17.01 2019.02.17.02 2020.02.15
+#2021.08.20 start of 11.2
 cp -puv  stru.html 0010stru.html
 cp -puv  rhei.html 0020rhei.html
 cp -puv  apte.html 0025apte.html
@@ -8,7 +9,8 @@ cp -puv  tina.html 0030tina.html
 cp -puv  anse.html 0032anse.html
 cp -puv  gall.html 0035gall.html
 cp -puv  capr.html 0042capr.html
-cp -puv  apod.html 0043apod.html
+cp -puv  stea.html 0043stea.html
+cp -puv  apod.html 0046apod.html
 cp -puv  muso.html 0048muso.html
 cp -puv  otid.html 0050otid.html
 cp -puv  cucu.html 0052cucu.html
