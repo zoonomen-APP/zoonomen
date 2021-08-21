@@ -10,6 +10,8 @@ cp -puv  anse.html 0032anse.html
 cp -puv  gall.html 0035gall.html
 cp -puv  capr.html 0042capr.html
 cp -puv  stea.html 0043stea.html
+cp -puv  nyct.html 0044nyct.html
+cp -puv  poda.html 0045poda.html
 cp -puv  apod.html 0046apod.html
 cp -puv  muso.html 0048muso.html
 cp -puv  otid.html 0050otid.html
