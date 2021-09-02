@@ -1,0 +1,501 @@
+   80  update
+   81  q  Anz.Orn|awk '$0!~/O.D./'|less
+   82  f Cacomantis
+   83  update
+   84  q  Anz.Orn|awk '$0!~/BHL/'|less
+   85  f Illadopsis
+   86  q  Anz.Orn|awk '$0!~/BHL/'|less
+   87  f Illadopsis
+   88  update
+   89  q  Anz.Orn|awk '$0!~/BHL/'|less
+   90  f Emberiza
+   91  update
+   92  q  Anz.Orn|awk '$0!~/BHL/'|less
+   93  f Basileuterus
+   94  q  Anz.Orn|awk '$0!~/BHL/'|less
+   95  update
+   96  q  Anz.Orn|awk '$0!~/BHL/'|less
+   97  f Diglossa
+   98  update
+   99  q  Anz.Orn|awk '$0!~/BHL/'|less
+  100  f Muscicapa
+  101  e zobodat
+  102  e zobodat ????.html
+  103  vi hpass.html
+  104  update
+  105  q 1821
+  106  q 1821|awk '{print $2}'|awk -f c:/awk/wc.awk
+  107  f Zoologiia
+  108  q Zoologia
+  109  q Zoologi1a
+  110  q Zoologiia
+  111  q 1821|awk '{print $2}'|awk -f c:/awk/wc.awk
+  112  q 1822|awk '{print $2}'|awk -f c:/awk/wc.awk
+  113  q Isis
+  114  q Isis|e 1822
+  115  q roths
+  116  q roths|e Cy
+  117  f Cypseloides
+  118  update
+  119  q Forp|e cy
+  120  q Rev.Mag.Zool.
+  121  q Rev.Mag.Zool.|wc
+  122  q Rev.Mag.Zool.|less
+  123  update
+  124  q Rev.Mag.Zool.|e 1866
+  125  q Filippi
+  126  b Filippi
+  127  pet Filippi
+  128  q Filippi
+  129  b lurpur
+  130  b purpur
+  131  b purpur|e Tr
+  132  p purpur|e Tr
+  133  update
+  134  update
+  135  update
+  136  q Rev.Mag.Zool
+  137  q Rev.Mag.Zool|less
+  138  q Rev.Mag.Zool|e BHL|wc
+  139  q Rev.Mag.Zool|wc
+  140  q 1923|awk '{print $2}'|awk -f c:/awk/wc.awk
+  141  q 1923|awk '{print $2}'|awk -f c:/awk/wc.awk|less
+  142  q J.Orn|e 1923
+  143  cat ./tools/auyr.sh
+  144  cat ./tools/auyr.sh|less
+  145  cp cb2 cb2tmp
+  146  vi cb2tmp
+  147  ls cb*
+  148  ls cb*.*
+  149  ls cb2
+  150  ls cb2tmp
+  151  rm cb2tmp
+  152  ls cb2r*
+  153  mv cb2 cb2tmp
+  154  mv cb2rh cb2
+  155  q 1
+  156  q 1|awk '{print $2}'
+  157  q 1|awk '{print $2}'|awk -f c:/awk/wc.awk
+  158  q Ornith
+  159  update
+  160  wc cb2
+  161  f Setophaga
+  162  vi cb2
+  163  mv cb2 cb2.tmp
+  164  mv cb2.par cb2
+  165  q 1
+  166  q 1|awk '{print $2}'|awk -f c:/awk/wc.awk
+  167  q 1|awk '{print $2}'|awk -f c:/awk/wc.awk|less
+  168  q Proc.Biol
+  169  q Proc.Biol|less
+  170  q Proc.Biol|e 1939
+  171  q Proc.Biol|e 1941
+  172  q Proc.Biol|less
+  173  update
+  174  vi ?pass.html
+  175  update
+  176  q Ann.Sci.Phys.Nat.Agric.Indust.
+  177  q Ann.Sci.Phys.Nat.Agric.Indust.|less
+  178  f Phaethornis
+  179  q Ann.Sci.Phys.Nat.Agric.Indust.|less
+  180  update
+  181  q Proc.Biol|less
+  182  vi cb2
+  183  mv cb2par cb2
+  184  q Proc.Biol|less
+  185  q Proc.Biol|awk '$0!~/BHL/'
+  186  q Proc.Biol|awk '$0!~/BHL/'|less
+  187  update
+  188  update
+  189  vi ?pass.html
+  190  update
+  191  update
+  192  q Proc.Biol|awk '$0!~/BHL/'|less
+  193  vicb2
+  194  vi cb2
+  195  mv cb2p cb2
+  196  q Proc.Biol|awk '$0!~/BHL/'|less
+  197  update
+  198  ls $HOME
+  199  ls $HOME/vimfiles
+  200  ls -l ????.html
+  201  ls -l ????.html|sort -k -n +5
+  202  ls -l ????.html|sort -k  +5
+  203  head pa08.html
+  204  head -30 pa08.html
+  205  vi pa08.html
+  206  vi cb2
+  207  mv cb2t cb2
+  208  q 1
+  209  q 1|awk '{print $2}'
+  210  q 1|awk '{print $2}'|awk -f c:/awk/wc.awk
+  211  q 1|awk '{print $2}'|awk -f c:/awk/wc.awk|less
+  212  q Proc.Z
+  213  q Proc.Z|awk '{print $1}'
+  214  q Proc.Z|awk '{print $1}'|awk -f c:/awk/wc.awk
+  215  q Proc.Z|awk '{print $1}'|awk -f c:/awk/wc.awk|less
+  216  q 1865
+  217  q 1865|less
+  218  q Proc.Z|e 1865
+  219  q Proc.Z|e 1871
+  220  q Proc.Z|e 1861
+  221  q Proc.Z|e 1861|less
+  222  cp cb2 cb2t
+  223  vi hpass.html
+  224  update
+  225  vi cb2
+  226  mv cb2t cb2
+  227  q Proc.Z
+  228  q Proc.Z|awk '{print $1}'|awk -f c:/awk/wc.awk|less
+  229  q 1860
+  230  q 1860|
+  231  q Proc.Z|awk '{print $1}'|awk -f c:/awk/wc.awk|less
+  232  q Proc.Zoo|e 1860
+  233  q Proc.Zoo|e 1860|less
+  234  q Proc.Zoo|e 1861|less
+  235  q Proc.Zoo|e 1861|less
+  236  q Proc.Zoo|e 1861|e 1862
+  237  b subpagan
+  238  pet subpagan
+  239  q Proc.Zoo|e 1861|e 1862
+  240  q Beck
+  241  vi ?pass.html
+  242  update
+  243  q Beck
+  244  vi cb2
+  245  mv cb2t cb2
+  246  q Proc.Zoo|e 1861|e 1862
+  247  q Proc.Zoo|e 1861|e 1862|awk '$0!~/BHL/'
+  248  q Proc.Zoo|e 1862|awk '$0!~/1861/'
+  249  q Proc.Zoo|e 1863|
+  250  q Proc.Zoo|e 1863
+  251  q Proc.Zoo|e 1864
+  252  update
+  253  vi cb2
+  254  mv cb2t cb2
+  255  q Proc.Zoo|e 1864
+  256  q Proc.Zoo|e 1865
+  257  q Proc.Zoo|e 1866
+  258  q Proc.Zoo|e 1867
+  259  q Proc.Zoo|e 1868
+  260  pet Sublet
+  261  pet Subleg
+  262  vi c:/zoonomen/cit/Peters/Peters_08.txt
+  263  q Proc.Zoo|e 1868
+  264  q EH
+  265  e Buenos c:/zoonomen/bio/bio?.html
+  266  e Janiero c:/zoonomen/bio/bio?.html
+  267  exit
+  268  cd c:/zoonomen/avtax
+  269  update
+  270  $(cat c:/zoonomen/avtax/tools/start.sh)
+  271  update
+  272  vi ?pass.html
+  273  update
+  274  vi cb cb2 cb2a
+  275  ls cb?
+  276  ls cb??
+  277  ls -l cb??
+  278  rm cb??
+  279  cp cb2 cb2a
+  280  vi cb2
+  281  mv cb2t cb2
+  282  q Proc
+  283  q Proc.Zoo
+  284  q Proc.Zoo|awk '$0!~/BHL/'
+  285  q Proc.Zoo|awk '$0!~/BHL/'|less
+  286  update
+  287  exit
+  288  cd c:/zoonomen
+  289  git status
+  290  history
+  291  git status
+  292  git commit -a
+  293  git push
+  294  git status
+  295  git commit -a
+  296  git push
+  297  git status
+  298  git commit -a
+  299  git push
+  300  git status
+  301  git commit -a
+  302  git push
+  303  git status
+  304  git commit -a
+  305  git push
+  306  git status
+  307  git commit -a
+  308  git push
+  309  git status
+  310  git commit -a
+  311  git push
+  312  git status
+  313  git commit -a
+  314  git push
+  315  git status
+  316  git commit -a
+  317  git push
+  318  git status
+  319  git commit -a
+  320  git push
+  321  git status
+  322  git status
+  323  git commit -a
+  324  git push
+  325  git status
+  326  git commit -a
+  327  git push
+  328  git status
+  329  git push
+  330  git commit -a
+  331  git status
+  332  git commit
+  333  git add ./cit/jourr.html
+  334  git add -f ./cit/jourr.html
+  335  git commit -a
+  336  git push
+  337  git status
+  338  git commit -a
+  339  git push
+  340  git commit -a
+  341  git status
+  342  git status
+  343  git commit -a
+  344  git push
+  345  git status
+  346  git commit -a
+  347  git push
+  348  git status
+  349  git status
+  350  git status
+  351  cd 
+  352  ls -la
+  353  ls -la|less
+  354  cat _viminfo
+  355  vi _viminfo
+  356  ls -la
+  357  ls -la|e v
+  358  ls -la|egrep v
+  359  vi ./viminfo
+  360  vi ./.viminfo
+  361  cd c:/zoonomen
+  362  git status
+  363  git commit -a
+  364  git push
+  365  git status
+  366  git commit -a
+  367  git push
+  368  git status
+  369  git commit -a
+  370  git push
+  371  git status
+  372  git status
+  373  git commit -a
+  374  git push
+  375  git status
+  376  git commit -a
+  377  git status
+  378  git commit -a
+  379  git push
+  380  exit
+  381  ls -la
+  382  vi bashrc
+  383  cd c:/zoonomen/
+  384  ls
+  385  git status
+  386  $(cat c:/bashrc)
+  387  $(cat ~/bashrc)
+  388  cd ..
+  389  ls -la
+  390  cd
+  391  ls -l
+  392  pwd
+  393  cd 
+  394  cd c:/zoonomen/
+  395  $(cat s/c/Users/Alan/bashrc)
+  396  $(cat /c/Users/Alan/bashrc)
+  397  q Linn
+  398  q hocking
+  399  cd ~
+  400  vi bashrc
+  401  cp bashrc .bashrc
+  402  exit
+  403  cd c:/zoonomen
+  404  git status
+  405  git pull
+  406  ls -tr ./avtax
+  407  ls -trl ./avtax
+  408  ls -trl ./avtax|less
+  409  ls -trl ./avtax/????.html
+  410  ls -trl ./avtax/????.html|less
+  411  exit
+  412  cd c:/zoonomen/
+  413  git pull
+  414  cd ./avtax
+  415  q Scel
+  416  cd ./ioc111
+  417  vi famnam.txt
+  418  e Family famnam.txt
+  419  e Babbler famnam.txt
+  420  e Babbler famnam.txt|less
+  421  rm famnam.txt
+  422  cd ./od
+  423  ls
+  424  lc
+  425  ls -la
+  426  ls *.txt
+  427  cd ../
+  428  ls *.txt
+  429  vi IOCfull_ssp.txt
+  430  e Family IOCfull_ssp.txt
+  431  e Family IOCfull_ssp.txt|awk -F "|" '{print $2,$4}'
+  432  e Family IOCfull_ssp.txt|awk -F "|" '{print $2,$4}' > famnnam.txt
+  433  e Babb famnam.txt
+  434  e Family IOCfull_ssp.txt|awk -F "|" '{print $2,$4}' > famnam.txt
+  435  e Babb famnam.txt
+  436  e Warb famnam.txt
+  437  e '\,' famnam.txt
+  438  e '\,' famnam.txt|less
+  439  e 'abbler' famnam.txt|less
+  440  cd ../
+  441  egrep '<li>' pass.html
+  442  egrep '<li>' pass.html|wc
+  443  egrep '<\/li>' pass.html|wc
+  444  egrep '<\/li>' pa??.html|wc
+  445  egrep '<li>' pa??.html|wc
+  446  egrep '<li>' stru.html|wc
+  447  egrep '<\/li>' stru.html|wc
+  448  egrep '<\/li>' apte.html|wc
+  449  egrep '<li>' apte.html|wc
+  450  egrep '<li>' casu.html|wc
+  451  egrep '<\/li>' casu.html|wc
+  452  ls ./numfile/0*.html
+  453  cd ./numfile
+  454  mkdir ./licnt
+  455  ls 0*.html
+  456  ls 0*.html > list01.txt
+  457  cp list01.txt
+  458  cp list01.txt licnt.scr
+  459  vi licnt.scr
+  460  chmod +x licnt.scr
+  461  ./licnt.scr
+  462  vi licnt.scr
+  463  ./licnt.scr
+  464  ./licnt.scr > li01out.txt
+  465  ls -tr
+  466  paste list01.txt li01out.txt
+  467  cp ./licnt.scr li_endcnt.scr
+  468  vi li_endcnt.scr
+  469  ls -trl
+  470  ./liendcnt.scr
+  471  ./li_endcnt.scr
+  472  ls -tr
+  473  ./li_endcnt.scr > li02out.txt
+  474  head li01out.txt
+  475  paste list01.txt li01out.txt li02.txt
+  476  paste list01.txt li01out.txt li02out.txt
+  477  paste list01.txt li01out.txt li02out.txt> lidiff.txt
+  478  vi lidiff.txt
+  479  awk '$2!=$3' lidiff.txt
+  480  awk '$2!=$3' lidiff.txt > filestocheck.txt
+  481  cd ../
+  482  update
+  483  e '[0-9]$' tina.html
+  484  e '[0-9]$' tina.html
+  485  e '30$' tina.html
+  486  e '30' tina.html
+  487  e '30' tina.html|cat -vt
+  488  e '30^M' tina.html|cat -vt
+  489  e '30^M' tina.html
+  490  e '30$' tina.html
+  491  grep '30$' tina.html
+  492  grep '307$' tina.html
+  493  cat -vt|tina.html
+  494  cat -vt |tina.html
+  495  cat -vt tina.html
+  496  cat -vt tina.html|e '[0-9]^M'
+  497  cat -vt tina.html|e '[0-9]\^M'
+  498  cat -vt tina.html|e '[0-9]\^M'|wc
+  499  awk '/[0-9]$/' tina.html
+  500  exit
+  501  cd /c/zoonomen/avtax
+  502  ls -trl
+  503  git pull
+  504  ls -trl
+  505  vi gall.html
+  506  update
+  507  vi gall.html
+  508  git commit -a
+  509  git push
+  510  ls -tr
+  511  ls -tr
+  512  ls -tr ./g*.*
+  513  vi ./gallzsp.txt
+  514  history|e ga
+  515  e '^<li>' gall.html
+  516  e '^<li>' gall.html|awk '{print $1,$2}'
+  517  e '^<li>' gall.html|awk '{print $1,$2}'|sed -f tagsed
+  518  e '^<li>' gall.html|awk '{print $1,$2}'|sed -f tagsed > gallzsp.txt
+  519  ls -tr
+  520  vi gall.html
+  521  e '^<li>' gall.html|awk '{print $1,$2}'|sed -f tagsed > gallzsp.txt
+  522  vi gall.html
+  523  e '^<li>' gall.html|awk '{print $1,$2}'|sed -f tagsed > gallzsp.txt
+  524  lc
+  525  la
+  526  lc -d
+  527  lc -d|less
+  528  vi ./cballstor
+  529  e -l Canachites ./cballstor
+  530  e -l Canachites ./cballstor/*.*
+  531  ls e:/
+  532  gzip -d e:/zoonomen/bak/*.gz
+  533  e Canachi e:/zoonomen/bak/*.*
+  534  gzip  e:/zoonomen/bak/*.html
+  535  p Canachites
+  536  pet Canachites
+  537  q Stejneg
+  538  q Stejneg|e 1885
+  539  q Stejneg|e 1885|e Proc
+  540  vi toc.html
+  541  vi gennamy.html
+  542  vi gall.html
+  543  update
+  544  git status
+  545  :q
+  546  git commit -a
+  547  git push
+  548  vi gall.html
+  549  e '^<li>' gall.html|awk '{print $1,$2}'|sed -f tagsed > gallzsp.txt
+  550  vi gall.html
+  551  e '^<li>' gall.html|awk '{print $1,$2}'|sed -f tagsed > gallzsp.txt
+  552  vi gall.html
+  553  update
+  554  vi gall.html
+  555  e '^<li>' gall.html|awk '{print $1,$2}'|sed -f tagsed > gallzsp.txt
+  556  vi gall.html
+  557  e '^<li>' gall.html|awk '{print $1,$2}'|sed -f tagsed > gallzsp.txt
+  558  vi gall.html
+  559  e '^<li>' gall.html|awk '{print $1,$2}'|sed -f tagsed > gallzsp.txt
+  560  vi gall.html
+  561  e '^<li>' gall.html|awk '{print $1,$2}'|sed -f tagsed > gallzsp.txt
+  562  vi gall.html
+  563  e '^<li>' gall.html|awk '{print $1,$2}'|sed -f tagsed > gallzsp.txt
+  564  e '^<li>' gall.html|awk '{print $1,$2}'|sed -f tagsed > gallzsp.txt
+  565  e '^<li>' gall.html|awk '{print $1,$2}'|sed -f tagsed > gallzsp.txt
+  566  vi gall.html
+  567  vi gall.html
+  568  e '^<li>' gall.html|awk '{print $1,$2}'|sed -f tagsed > gallzsp.txt
+  569  vi gall.html
+  570  e '^<li>' gall.html|awk '{print $1,$2}'|sed -f tagsed > gallzsp.txt
+  571  vi gall.html
+  572  e '^<li>' gall.html|awk '{print $1,$2}'|sed -f tagsed > gallzsp.txt
+  573  vi gall.html
+  574  e '^<li>' gall.html|awk '{print $1,$2}'|sed -f tagsed > gallzsp.txt
+  575  vi gall.html
+  576  e '^<li>' gall.html|awk '{print $1,$2}'|sed -f tagsed > gallzsp.txt
+  577  vi gall.html
+  578  e '^<li>' gall.html|awk '{print $1,$2}'|sed -f tagsed > gallzsp.txt
+  579  history > hx0826.txt
+  vim diff ./ioc112/gallisp.txt ./gallzsp.txt
