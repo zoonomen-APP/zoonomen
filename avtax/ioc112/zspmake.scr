@@ -1,3 +1,5 @@
 egrep '^<li>' c:/zoonomen/avtax/numfile/0*.html|sed -f c:/zoonomen/avtax/tools/tagsed|awk -F ":" '{print $3}'|awk '{print $1,$2}' > c:/zoonomen/avtax/ioc112/zsp.001
 sed 's/..8224.//' c:/zoonomen/avtax/ioc112/zsp.001 > c:/zoonomen/avtax/ioc112/zsp.002
 sed -i '/kervazoi/d' *.002
+sed -i '/Nannococcyx/d' *.002
+sed -i '/sed -i '/Nesoenas roder/d' *.002
