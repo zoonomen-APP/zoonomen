@@ -11,7 +11,36 @@
 	<link rel="stylesheet" href="./stylesheet.css" type="text/css"></link>
 	</head>
 	<body bgcolor="white">
-	<small>Version 13.003 (2021.09.21).</small><br>
+
+	<style>
+	/* Tooltip container */
+	.tooltip {
+	  position: relative;
+	  display: inline-block;
+	  border-bottom: 1px dotted black;
+	}
+
+	.tooltip .tooltiptext {
+	  visibility: hidden;
+	  width: 400px;
+	  background-color: black;
+	  color: #fff;
+	  text-align: left;
+	  border-radius: 6px;
+	  padding: 5px 0;
+
+	  /* Position the tooltip */
+	  position: absolute;
+	  z-index: 1;
+	}
+
+	.tooltip:hover .tooltiptext {
+	  visibility: visible;
+	}
+
+	</style>
+
+	<small>Version 13.004 (2021.09.22).</small><br>
 	Bold species <b>epithet</b> = type<br>
 
 	<small>
@@ -841,7 +870,7 @@ target="ref_fr">Verz.Doubl.zool.Mus.Berlin</a></i> p.47
 	<address>Alan P. Peterson, M.D., POB 1999, Walla Walla, WA
 	99362-0999, </address>
 	
-	Last updated 2021.09.21
+	Last updated 2021.09.22
 <hr>
 	</body>
 	</html>
