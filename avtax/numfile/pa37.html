@@ -11,7 +11,36 @@
 	<link rel="stylesheet" href="./stylesheet.css" type="text/css"></link>
 	</head>
 	<body bgcolor="white">
-	<small>Version 12.001 (2021.07.26)</small><br>
+
+	<style>
+	/* Tooltip container */
+	.tooltip {
+	  position: relative;
+	  display: inline-block;
+	  border-bottom: 1px dotted black;
+	}
+
+	.tooltip .tooltiptext {
+	  visibility: hidden;
+	  width: 400px;
+	  background-color: black;
+	  color: #fff;
+	  text-align: left;
+	  border-radius: 6px;
+	  padding: 5px 0;
+
+	  /* Position the tooltip */
+	  position: absolute;
+	  z-index: 1;
+	}
+
+	.tooltip:hover .tooltiptext {
+	  visibility: visible;
+	}
+
+	</style>
+
+	<small>Version 12.002 (2021.09.22)</small><br>
 	Bold species <b>epithet</b> = type<br>
 	<ul>
 	<small>
@@ -23,7 +52,7 @@
 	</small>
 	</ul>
 	
-	3 Genera 53 sp. (2020.01.20)<p>
+	3 Genera 54 sp. (2020.09.22)<p>
 	
 	<h1>PASSERIFORMES</h1><p>
 	
@@ -379,13 +408,6 @@ target="ref_fr">Nouv.Dict.Hist.Nat.nouv.ed.</a></i> 27 p.21
 	target="ref_fr">Proc.Zool.Soc.London</a>["1840"]</i> Pt8 no.95 p.174
 	<a class="from-wayne" href="https://biodiversitylibrary.org/page/30571613" target="new">O.D.</a></li>
 
-	<li>Rhipidura rufiventris kordensis <a
-	href="../bio/biom.html#Meyer,AB"
-	target="ref_fr">Meyer,AB</a> 1874 <i><a
-	href="../cit/jours.html#Sitz.K.Akad.Wiss.Wien"
-	target="ref_fr">Sitz.K.Akad.Wiss.Wien</a></i> 70 p.201
-	<a class="from-wayne" href="https://biodiversitylibrary.org/page/8663398" target="new">O.D.</a></li>
-
 	<li>Rhipidura rufiventris mussai <a
 	href="../bio/bior.html#Rothschild" target="ref_fr">Rothschild</a>
 	&amp; <a href="../bio/bioh.html#Hartert" target="ref_fr">Hartert</a>
@@ -453,6 +475,13 @@ target="ref_fr">Nouv.Dict.Hist.Nat.nouv.ed.</a></i> 27 p.21
 	<a class="from-wayne" href="https://biodiversitylibrary.org/page/10813227" target="new">O.D.</a></li>
 
 	</small></ul>
+
+<li>Rhipidura kordensis <a
+href="../bio/biom.html#Meyer,AB"
+target="ref_fr">Meyer,AB</a> 1874 <i><a
+href="../cit/jours.html#Sitz.K.Akad.Wiss.Wien"
+target="ref_fr">Sitz.K.Akad.Wiss.Wien</a></i> 70 p.201
+<a class="from-wayne" href="https://biodiversitylibrary.org/page/8663398" target="new">O.D.</a></li>
 
 <li>Rhipidura cockerelli (<a href="../bio/bior.html#Ramsay,EP"
 target="ref_fr">Ramsay,EP</a>) 1879 <i><a
@@ -1168,25 +1197,6 @@ target="ref_fr">Proc.Zool.Soc.London</a>["1842"]</i> Pt10 no.117 p.132
 
 </ul>
 
-<h4 id="Lamprolia">Lamprolia <small>(<i>f.</i>)</small> <a href="../bio/biof.html#Finsch"
-target="ref_fr">Finsch</a> 1874 <i><a href="../cit/jourp.html#Proc.Zool.Soc.London"
-target="ref_fr">Proc.Zool.Soc.London</a>["1873"]</i> Pt3 p.733</h4>
-
-<ul>
-
-<li>Lamprolia <b>victoriae</b> <a href="../bio/biof.html#Finsch"
-target="ref_fr">Finsch</a> 1874 <i><a href="../cit/jourp.html#Proc.Zool.Soc.London"
-target="ref_fr">Proc.Zool.Soc.London</a>["1873"]</i> Pt3 p.735 pl.62
-<a class="from-wayne" href="https://biodiversitylibrary.org/page/28505034" target="new">O.D.</a></li>
-
-<li>Lamprolia klinesmithi <a
-href="../bio/bior.html#Ramsay,EP" target="ref_fr">Ramsay,EP</a> 1876
-<i><a href="../cit/jourp.html#Proc.Linn.Soc.NewS.Wales"
-target="ref_fr">Proc.Linn.Soc.NewS.Wales</a></i> 1 pt1 p.68
-<a class="from-wayne" href="https://biodiversitylibrary.org/page/3339869" target="new">O.D.</a></li>
-
-</ul>
-
 <h4 id="Chaetorhynchus">Chaetorhynchus <small>(<i>m.</i>)</small> <a href="../bio/biom.html#Meyer,AB"
 target="ref_fr">Meyer,AB</a> 1874 <i><a
 href="../cit/jours.html#Sitz.K.Akad.Wiss.Wien"
@@ -1202,12 +1212,47 @@ target="ref_fr">Sitz.K.Akad.Wiss.Wien</a></i> 69 p.493
 
 </ul>
 
+
+<h4 id="Eutrichomyias">Eutrichomyias <small>(<i>m.</i>)</small> <a
+href="../bio/biom.html#Meise" target="ref_fr">Meise</a> 1939
+<i><a href="../cit/jouro.html#Orn.Monatsb."
+target="ref_fr">Orn.Monatsb.</a></i> 47 p.134</h4>
+
+<ul>
+
+<li>Eutrichomyias rowleyi (<a href="../bio/biom.html#Meyer,AB"
+target="ref_fr">Meyer,AB</a>) 1878 <i><a
+href="../cit/jouro.html#Orn.Misc.[Rowley]"
+target="ref_fr">Orn.Misc.[Rowley]</a></i> 3 p.163
+<a class="from-wayne" href="https://biodiversitylibrary.org/page/35041529" target="new">O.D.</a></li>
+
+</ul>
+
+
+<h4 id="Lamprolia">Lamprolia <small>(<i>f.</i>)</small> <a href="../bio/biof.html#Finsch"
+target="ref_fr">Finsch</a> 1874 <i><a href="../cit/jourp.html#Proc.Zool.Soc.London"
+target="ref_fr">Proc.Zool.Soc.London</a>["1873"]</i> Pt3 p.733</h4>
+
+<ul>
+
+<li>Lamprolia klinesmithi <a
+href="../bio/bior.html#Ramsay,EP" target="ref_fr">Ramsay,EP</a> 1876
+<i><a href="../cit/jourp.html#Proc.Linn.Soc.NewS.Wales"
+target="ref_fr">Proc.Linn.Soc.NewS.Wales</a></i> 1 pt1 p.68
+<a class="from-wayne" href="https://biodiversitylibrary.org/page/3339869" target="new">O.D.</a></li>
+
+<li>Lamprolia <b>victoriae</b> <a href="../bio/biof.html#Finsch"
+target="ref_fr">Finsch</a> 1874 <i><a href="../cit/jourp.html#Proc.Zool.Soc.London"
+target="ref_fr">Proc.Zool.Soc.London</a>["1873"]</i> Pt3 p.735 pl.62
+<a class="from-wayne" href="https://biodiversitylibrary.org/page/28505034" target="new">O.D.</a></li>
+
+</ul>
 	Comments &amp; Suggestions to Data
 	Steward <img src="./image/alanpp2.gif"/></a>:
 	<address>Alan P. Peterson, M.D., POB 1999, Walla Walla, WA
 	99362-0999, </address>
 	
-	Last updated 2021.07.26
+	Last updated 2021.09.22
 <hr>
 	</body>
 	</html>
