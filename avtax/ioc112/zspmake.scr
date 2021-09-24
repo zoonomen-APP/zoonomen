@@ -2,3 +2,5 @@ egrep '^<li>' c:/zoonomen/avtax/numfile/0*.html|sed -f c:/zoonomen/avtax/tools/t
 sed 's/..8224.//' c:/zoonomen/avtax/ioc112/zsp.001 > c:/zoonomen/avtax/ioc112/zsp.002
 sed -i '/kervazoi/d' *.002
 sed -i '/Nannococcyx/d' *.002
+sed -i '/Megascops stangiae/d' *.002
+sed -i '/Megascops alagoensis/d' *.002
