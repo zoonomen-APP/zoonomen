@@ -10081,6 +10081,7 @@ Crithagra donaldsoni
 Crithagra buchanani
 Crithagra flaviventris
 Crithagra sulphurata
+Crithagra striatipectus
 Crithagra reichardi
 Crithagra gularis
 Crithagra canicapilla
@@ -10106,6 +10107,7 @@ Loxia sinesciuris
 Loxia leucoptera
 Loxia megaplaga
 Chrysocorythus estherae
+Chrysocorythus mindanensis
 Carduelis carduelis
 Carduelis citrinella
 Carduelis corsicana
@@ -10138,21 +10140,18 @@ Spinus uropygialis
 Spinus crassirostris
 Spinus spinescens
 Euphonia jamaica
+Euphonia saturata
 Euphonia plumbea
 Euphonia affinis
 Euphonia luteicapilla
 Euphonia chlorotica
 Euphonia trinitatis
 Euphonia concinna
-Euphonia saturata
 Euphonia finschi
 Euphonia violacea
 Euphonia laniirostris
 Euphonia hirundinacea
 Euphonia chalybea
-Euphonia elegantissima
-Euphonia cyanocephala
-Euphonia musica
 Euphonia fulvicrissa
 Euphonia imitans
 Euphonia gouldi
@@ -10164,6 +10163,9 @@ Euphonia xanthogaster
 Euphonia rufiventris
 Euphonia pectoralis
 Euphonia cayennensis
+Chlorophonia elegantissima
+Chlorophonia musica
+Chlorophonia cyanocephala
 Chlorophonia flavirostris
 Chlorophonia cyanea
 Chlorophonia pyrrhophrys
@@ -10247,7 +10249,7 @@ Arremonops rufivirgatus
 Arremonops chloronotus
 Arremonops conirostris
 Arremonops tocuyensis
-Amphispiza quinquestriata
+Amphispizopsis quinquestriata
 Amphispiza bilineata
 Chondestes grammacus
 Calamospiza melanocorys
@@ -10574,6 +10576,7 @@ Myiothlypis coronata
 Myiothlypis griseiceps
 Basileuterus lachrymosus
 Basileuterus rufifrons
+Basileuterus delattrii
 Basileuterus melanogenys
 Basileuterus ignotus
 Basileuterus belli
