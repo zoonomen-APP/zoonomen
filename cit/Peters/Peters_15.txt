@@ -834,7 +834,7 @@ of. Chapin, 1917, Bull. Amer. Mus. Nat. Hist., 37, pp. 243-280
 
 (review). 
 
- Sushkin, 1927, BuU. Amer. Mus. Nat. Hist., 57, pp. 1-32 (review). 
+ Sushkin, 1927, Bull. Amer. Mus. Nat. Hist., 57, pp. 1-32 (review). 
 
  Delacour and Jabouille, 1940, Oiseau Rev. Frang. Orn., 10, 
 
@@ -870,7 +870,7 @@ Eastern Africa, 2, pp. 824-1054.
 
  Vaurie, 1959, Birds Pal. Fauna, Passeriformes, pp. 556-591. 
 
- Moreau, 1959, BuU. Brit. Orn. CI., 79, pp. 117-124; 159-163 
+ Moreau, 1959, Bull. Brit. Orn. CI., 79, pp. 117-124; 159-163 
 
 
 
@@ -6532,7 +6532,7 @@ Ploceus spilonotus Vigors, 1831, Proc. Zool. Soc. London, p. 92
 
 — Algoa Bay. 
 
- Ploceus spilonotus dilutescens Clancey, 1956, BuU. Brit. Orn. CI., 
+ Ploceus spilonotus dilutescens Clancey, 1956, Bull. Brit. Orn. CI., 
 
  76, p. 89 — Palmeira, north of Manhica, Sul do Save, southern 
 
@@ -11544,7 +11544,7 @@ Genus GRAFISIA Bates
 
 
 
-Grafisia Bates, 1926, BuU. Brit. Orn. CI., 46, p. 105. Type, by 
+Grafisia Bates, 1926, Bull. Brit. Orn. CI., 46, p. 105. Type, by 
 
  original designation, Spreo torquatus Reichenow. 
 
@@ -11995,7 +11995,7 @@ Onychognathus tenuirostris theresae Meinertzhagen, 1937, Bull.
 
 Brit. Orn. CI., 57, p. 68 — Northern Aberdares, Kenya. 
 
- Onychognathus tenuirostris raymondi Meinertzhagen, 1937, BuU. 
+ Onychognathus tenuirostris raymondi Meinertzhagen, 1937, Bull. 
 
 
 
@@ -24370,7 +24370,7 @@ Paradigalla (carunculata) brevicauda Rothschild and Hartert
 
 18, p. 159 — Mt. Goliath, Dutch New Guinea. 
 
- Paradigalla intermedia Ogilvie-Grant, 1913, BuU. Brit. Orn. CI., 
+ Paradigalla intermedia Ogilvie-Grant, 1913, Bull. Brit. Orn. CI., 
 
 
 
@@ -26148,7 +26148,7 @@ Loborhamphus nobilis Rothschild, 1901, Bull. Brit. Orn. CL, 12,
 
 
 
-Loborhamphus ptilorhis Sharpe, 1908, BuU. Brit. Orn. CL, 21, 
+Loborhamphus ptilorhis Sharpe, 1908, Bull. Brit. Orn. CL, 21, 
 
  p. 67 — Dutch New Guinea. = Paradigalla carunculata x. Par o- 
 
@@ -28762,7 +28762,7 @@ Cyanocorax yncas centralis (van Rossem)
 
 
 
-Xarithoura luxuosa centralis van Rossem, 1934, BuU. Mus. Comp. 
+Xarithoura luxuosa centralis van Rossem, 1934, Bull. Mus. Comp. 
 
  Zool., 77, p. 397 — Secanquim, Alta Vera Paz, Guatemala. 
 
@@ -28808,7 +28808,7 @@ Xanthoura yncas galeata Ridgway, 1900, Auk, 17, p. 27 —
 
  Western Colombia [= El Eden, Central Andes (Tolima side), 
 
- suggested by Chapman (1917, BuU. Amer. Mus. Nat. Hist., 
+ suggested by Chapman (1917, Bull. Amer. Mus. Nat. Hist., 
 
  36, p. 637)]. 
 
@@ -28967,7 +28967,7 @@ Psilorhinus morio palliatus van Rossem
 
 
 
-Psilorhinus morio 'palliatus van Rossem, 1934, BuU. Mus. Comp. 
+Psilorhinus morio 'palliatus van Rossem, 1934, Bull. Mus. Comp. 
 
  Zool., 77, p. 415 — Ciudad Victoria, Tamaulipas, Mexico. 
 
@@ -29546,7 +29546,7 @@ intergrades with krynicki in the region of Dohuk in northern Iraq.
 
 
 
-rarrulus glandarius rhodius Salvadori and Festa 
+Garrulus glandarius rhodius Salvadori and Festa 
 
  Garrulus rhodius Salvadori and Festa, 1913, Boll. Mus. Zool. 
 
@@ -29556,11 +29556,11 @@ Anat. Comp. Torino, 28, no. 673, p. 2 — Rhodes.
 
  Rhodes. 
 
- Garrulus glandarius krynicki Kaleniczenko^ 
+ Garrulus glandarius krynicki Kaleniczenko 
 
 
 
-Garrulus Krynicki Kaleniczenko, 1839, BuU. Soc. Imp. Nat. 
+Garrulus Krynicki Kaleniczenko, 1839, Bull. Soc. Imp. Nat. 
 
 
 
@@ -32886,7 +32886,7 @@ Nucifraga caryocatactes macella Thayer and Bangs
 
 
 
-Nucifraga hemispila macella Thayer and Bangs, 1909, BuU. Mus. 
+Nucifraga hemispila macella Thayer and Bangs, 1909, Bull. Mus. 
 
 
 
@@ -33511,7 +33511,7 @@ Corvus Coloeus hilgerti Kleinschmidt, 1935, ibid. — central Rhine.
 
 
 
-Coloeus monedula ibericus Kleiner, 1939, BuU. Brit. Orn. CI., 60, 
+Coloeus monedula ibericus Kleiner, 1939, Bull. Brit. Orn. CI., 60, 
 
  p. 12 — Granada. 
 

@@ -3383,7 +3383,7 @@ p. 328. (Alaspungo, western Ecuador.)
 
 
 
-Penelope brooki Chubb, BuU. Brit. Orn. CI., 38, 1917, p. 5. (Baeza, 
+Penelope brooki Chubb, Bull. Brit. Orn. CI., 38, 1917, p. 5. (Baeza, 
 
 
 
@@ -4213,7 +4213,7 @@ Ortalis garrula mira Griscom
 
 
 
-Ortalis garrula mira Griscom, BuU. Mus. Comp. Zool., 72, 1932, p. 318. 
+Ortalis garrula mira Griscom, Bull. Mus. Comp. Zool., 72, 1932, p. 318. 
 
 
 
@@ -4864,9 +4864,9 @@ Tetrao urogallus taczanowskii (Stejneger)
 
 
 
-Urogallus urogallus taczanowskii Stejneger, BuU. U. S. Nat. Mus., no, 
+Urogallus urogallus taczanowskii Stejneger, Bull. U. S. Nat. Mus., no, 
 
- 29, 1885, p. 193, note. (Irkutsk, ex Taczanowski, BuU. Soc. Zool. 
+ 29, 1885, p. 193, note. (Irkutsk, ex Taczanowski, Bull. Soc. Zool. 
 
  France, 1876, p. 243.) 
 
@@ -6084,7 +6084,7 @@ Lagopus leucurus peninsularis Chapman
 
 
 
-Lagopus leucurus peninsularis Chapman, BuU. Am. Mus. Nat. Hist., 
+Lagopus leucurus peninsularis Chapman, Bull. Am. Mus. Nat. Hist., 
 
  16, 1902, p. 236. (Kenai Mountains, Alaska.) 
 
@@ -6792,7 +6792,7 @@ Type, by monotypy, Tetrao cupido Linne.
 
 
 
-Bangs, BuU. Mus. Comp. ZooL, 70, 1930, p. 155-156. 
+Bangs, Bull. Mus. Comp. ZooL, 70, 1930, p. 155-156. 
 
  Gross, Mem. Boston Soc. Nat. Hist., 6, 1928, p. 493-558. 
 
@@ -7169,7 +7169,7 @@ Callipepla squamata pallida Brewster
 
 
 
-Callipepla squamata pallida Brewster, BuU. Nuttall Orn. CI., 6, 1881, 
+Callipepla squamata pallida Brewster, Bull. Nuttall Orn. CI., 6, 1881, 
 
 
 
@@ -8366,7 +8366,7 @@ and Minas Geraes.")
 
 
 
-Odontophorus melanotis verecundus Peters, BuU. Mus. Comp. ZooL, 69, 
+Odontophorus melanotis verecundus Peters, Bull. Mus. Comp. ZooL, 69, 
 
 
 
@@ -9019,7 +9019,7 @@ Rhynchortyx cinctus hypopius Griscom
 
 
 
-Rhynchortyx cinctus hypopius Griscom, BuU. Mus. Comp. Zool., 72, 
+Rhynchortyx cinctus hypopius Griscom, Bull. Mus. Comp. Zool., 72, 
 
 
 
@@ -9112,7 +9112,7 @@ cf. Hartert, Vog. pal. Fauna, 3, 1921, p. 1916-1919.
 
 
 
-Perdix griseogularis J. F. Brandt, BuU. Acad. Imp. Sci. St. P^tersb., 
+Perdix griseogularis J. F. Brandt, Bull. Acad. Imp. Sci. St. P^tersb., 
 
  Physico-Math. CI., 1, 1843, col. 365. (Transcaspia and Persia; re- 
 
@@ -9376,7 +9376,7 @@ Tetraogallus tibetanus aquilonifer Meinertzhagen and Meinertzhagen,
 
 
 
-BuU. Brit. Orn. CI., 46, 1926, p. 99. (Interior of Sikkim.) 
+Bull. Brit. Orn. CI., 46, 1926, p. 99. (Interior of Sikkim.) 
 
  Alpine Sikkim and immediately adjacent parts of southern Tibet. 
 
@@ -9386,7 +9386,7 @@ BuU. Brit. Orn. CI., 46, 1926, p. 99. (Interior of Sikkim.)
 
 
 
-Perdix altaica Gebler, BuU. Sci. Acad. Imp. Sci. St. P^tersb., 1, 1836, 
+Perdix altaica Gebler, Bull. Sci. Acad. Imp. Sci. St. P^tersb., 1, 1836, 
 
 
 
@@ -9400,7 +9400,7 @@ Tetraogallus altaicus orientalis Sushkin
 
 
 
-Tetraogallus altaicus orientalis Sushkin, BuU. Brit. Orn. CI., 47, 1926, 
+Tetraogallus altaicus orientalis Sushkin, Bull. Brit. Orn. CI., 47, 1926, 
 
  p. 36. (Uliassutai, northwestern MongoUa.) 
 
@@ -9547,7 +9547,7 @@ Alectaris Kaup, Skizz. Entw.-Gesch. Eur. Thierw., 1829, p. 180, 193.
 
 Stuart Baker, Fauna Brit. Ind., ed. 2, Bds., 5, 1928, p. 40lHt05. 
 
- Sushkin, BuU. Brit. Orn. CI., 48, 1927, p. 22-27. 
+ Sushkin, Bull. Brit. Orn. CI., 48, 1927, p. 22-27. 
 
 
 
@@ -10976,7 +10976,7 @@ Francolinus sephaena zambesiae Praed
 
 
 
-Francolinus sephaena zamhesix Praed, BuU. Brit. Orn. CL, 40, 1920, 
+Francolinus sephaena zamhesix Praed, Bull. Brit. Orn. CL, 40, 1920, 
 
 
 
@@ -11587,7 +11587,7 @@ Francolinus bicalcaratus ogilvie-granti Bannerman
 
 
 
-Francolinus bicalcaratus ogilvie-granti Bannerman, BuU. Brit. Orn. CL, 
+Francolinus bicalcaratus ogilvie-granti Bannerman, Bull. Brit. Orn. CL, 
 
  42, 1922, p. 132. (Jang, 5000 ft., northern Cameroon highlands.) 
 
@@ -14939,7 +14939,7 @@ Ptilopachus Swainson, Classif. Bds., 2, 1837, p. 344. Type, by mono-
 
  cf. Bannerman, Bds. Trop. W. Afr., 1, 1930, p. 334-338. 
 
- Chapin, BuU. Am. Mus. Nat. Hist., 65, 1932, p. 689-691. 
+ Chapin, Bull. Am. Mus. Nat. Hist., 65, 1932, p. 689-691. 
 
  Sclater, Syst. Av. ^thiop., pt. 1, 1924, p. 94-95. 
 
@@ -19346,7 +19346,7 @@ Numida vulturina Hardwicke, Proc. Zool. Soc. London, 1834, p. 52.
 
  (West Africa, error = Tsavo, Kenya Colony, proposed by Friedmann, 
 
- BuU. U. S. Nat. Mus., no. 153, 1930, p. 136.) 
+ Bull. U. S. Nat. Mus., no. 153, 1930, p. 136.) 
 
  Semiarid region of tropical eastern Africa from eastern Uganda, south- 
 
@@ -23406,7 +23406,7 @@ Southern Burma south over the Malay Peninsula; Sumatra; Java;
 
 
 
-1 Cf Naumburg, BuU. Am. Mus. Nat. Hist., 60, 1930, p. 73; Griscom, Id., 
+1 Cf Naumburg, Bull. Am. Mus. Nat. Hist., 60, 1930, p. 73; Griscom, Id., 
 
  64, 1932, p. 121. 
 
@@ -24624,7 +24624,7 @@ Rallvs Crex Linn6, Syst. Nat., ed. 10, 1, 1758, p. 153. (Europe, re-
 
  stricted type locality Sweden, ex Fn. Svec.) 
 
- Rallus featherstonii BuUer, Essay Orn. New Zealand, 1865, p. 18. (New 
+ Rallus featherstonii Buller, Essay Orn. New Zealand, 1865, p. 18. (New 
 
 
 
@@ -28368,7 +28368,7 @@ Wetmore, Sci. Surv. Porto Rico and Virgin Ids., 9, 1927, p. 346-348.
 
 
 
-Id., BuU. U. S. Nat. Mus., no. 133, 1926, p. 118-121. 
+Id., Bull. U. S. Nat. Mus., no. 133, 1926, p. 118-121. 
 
 
 
@@ -32409,7 +32409,7 @@ Pluvialis Brisson, Orn., 1760, 1, p. 46; 5, p. 42. Tj^pe, by tautonymy,
 
 
 
-Ridgway, BuU. U. S. Nat. Mus., no. 50, pt. 8, 1919, p. 79-94. 
+Ridgway, Bull. U. S. Nat. Mus., no. 50, pt. 8, 1919, p. 79-94. 
 
 
 
@@ -40906,7 +40906,7 @@ Pagophila Kaup, Skizz. Entw.-Gesch. Eur. Thierw., 1829, p. 69, 196.
 
 Type, by monotypy, Larus eburneus Phipps. 
 
- cf. Dwight, BuU. Am. Mus. Nat. Hist., 52, 1925, p. 75; 138-140, figs. 
+ cf. Dwight, Bull. Am. Mus. Nat. Hist., 52, 1925, p. 75; 138-140, figs. 
 
  13-18. 
 
@@ -40916,7 +40916,7 @@ Hartert, Vog. pal. Fauna, 2, 1921, p. 1750-1751.
 
 
 
-Ridgway, BuU. U. S. Nat. Mus., no. 50, pt. 8, 1919, p. 575-580. 
+Ridgway, Bull. U. S. Nat. Mus., no. 50, pt. 8, 1919, p. 575-580. 
 
 
 
@@ -40962,7 +40962,7 @@ Larus Linn^, Syst. Nat., ed. 10, 1, 1758, p. 136. Type, by subsequent
 
 for Saundersia Dwight, preoccupied. ^ 
 
- cf. Dwight, BuU. Am. Mus. Nat. Hist., 52, 1925, p. 75-82; 140-314, 
+ cf. Dwight, Bull. Am. Mus. Nat. Hist., 52, 1925, p. 75-82; 140-314, 
 
  figs. 19-356. 
 
@@ -41369,7 +41369,7 @@ Larus argentatus omissus "Sushkin" Pleske, Mem. Boston Soc. Nat.
 
 
 
-1 Larus kumlieni Brewster, BuU. Nuttall Orn. CL, 8, 1883, p. 216 (Cum- 
+1 Larus kumlieni Brewster, Bull. Nuttall Orn. CL, 8, 1883, p. 216 (Cum- 
 
  berland Sound, Baffin Island), is now regarded as a hybrid between Larus 
 
@@ -43749,9 +43749,9 @@ Sterna striata aucklandoma Mathews
 
 
 
-Sterna bethunei BuUer, Trans, and Proc. New Zealand Inst., 28, 1895 
+Sterna bethunei Buller, Trans, and Proc. New Zealand Inst., 28, 1895 
 
- (1896), p. 349. (Auckland Islands.) Not Sterna bethunei BuUer, Id., 
+ (1896), p. 349. (Auckland Islands.) Not Sterna bethunei Buller, Id., 
 
  p. 348!i 
 
@@ -46448,7 +46448,7 @@ cf. Hartert, Vog. pal. Fauna, 3, 1921, p. 1783-1787.
 
 
 
-Ridgway, BuU. U. S. Nat. Mus., no. 50, pt. 8, 1919, p. 767-778, 
+Ridgway, Bull. U. S. Nat. Mus., no. 50, pt. 8, 1919, p. 767-778, 
 
 
 

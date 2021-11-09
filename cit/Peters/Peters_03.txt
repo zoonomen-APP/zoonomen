@@ -3547,7 +3547,7 @@ Treron calva vylderi Gyldenstolpe, Bull. Brit. Orn. CI., 44, 1924, p. 36.
 
 
 
-Vinago delalandei [sic] granti Van Someren, BuU. Brit. Orn. CI., 40, 
+Vinago delalandei [sic] granti Van Someren, Bull. Brit. Orn. CI., 40, 
 
 
 
@@ -9684,7 +9684,7 @@ Columba janthina stejnegeri (Kuroda)
 
 
 
-Janthccvas janthina stejnegeri Kuroda, BuU. Brit. Orn. CI., 43, 1923, 
+Janthccvas janthina stejnegeri Kuroda, Bull. Brit. Orn. CI., 43, 1923, 
 
 
 
@@ -12069,7 +12069,7 @@ Nesopelia Sundevall, Met. Nat. Av. Disp. Tent., 1873, p. 99. Type, by
 
  Gould. 
 
- cf. Eidgway, BuU. U. S. Nat. Mus., no. 50, pt. 7, 1916, p. 372-376. 
+ cf. Eidgway, Bull. U. S. Nat. Mus., no. 50, pt. 7, 1916, p. 372-376. 
 
 
 
@@ -16471,7 +16471,7 @@ Hellmayr, Field Mus. Nat. Hist. Publ., Zool. Ser., 12, 1929, p. 470-
 
 472. 
 
- Ridgway, BuU. U. S. Nat. Mus., no. 50, pt. 7, 1916, p. 438-464. 
+ Ridgway, Bull. U. S. Nat. Mus., no. 50, pt. 7, 1916, p. 438-464. 
 
  Salvador!, Cat. Bds. Brit. Mus., 21, 1893, p. 543-562. 
 
@@ -17297,7 +17297,7 @@ Oreopeleia Reichenbach, Av. Syst. Nat., 1852 (1853), p. xxv. Type, by
 
  nica Linn^. 
 
- c/. Chapman, BuU. Am. Mus. Nat. Hist., 36, 1917, p. 213-215; 55, 1926, 
+ c/. Chapman, Bull. Am. Mus. Nat. Hist., 36, 1917, p. 213-215; 55, 1926, 
 
  p. 171-173. 
 
@@ -17795,7 +17795,7 @@ Geotrygon Gosse, Bds. Jamaica, 1847, p. 316. Type, by subsequent desig-
 
 
 
-cf. Ridgway, BuU. U. S. Nat. Mus., no. 50, pt. 7, 1916, p. 464-467. 
+cf. Ridgway, Bull. U. S. Nat. Mus., no. 50, pt. 7, 1916, p. 464-467. 
 
 
 
@@ -23790,7 +23790,7 @@ Anodorhynchus Spix, Av. Bras., 1, 1824, p. 47 ^ [i.e. 24 bis], pi. 11. Type,
 
 
 
-Ridgway, BuU. U. S. Nat. Mus., no. 50, pt. 7, 1916, p. 117-118. 
+Ridgway, Bull. U. S. Nat. Mus., no. 50, pt. 7, 1916, p. 117-118. 
 
  Salvadori, Cat. Eds. Brit. Mus., 20, 1891, p. 147-149. 
 
@@ -25014,7 +25014,7 @@ FAMILY PSITTACIDAE 189
 
 
 
-Conurus canibuccalis Rothschild, BuU. Brit. Orn. CL, 19, 1907, p. 48, 64. 
+Conurus canibuccalis Rothschild, Bull. Brit. Orn. CL, 19, 1907, p. 48, 64. 
 
  (Humaythd, Rio Madeira, Brazil.) 
 
@@ -25689,7 +25689,7 @@ Id., Nov. Zool., 35, 1929, p. 217-219.
 
  Ribeiro, Rev. Mus. Paulista, 12, 1920, pt. 2, p. 30-40; 79-80, pi. 8. 
 
- Ridgway, BuU. U. S. Nat. Mus., no. 50, pt. 7, 1916, p. 175-179. 
+ Ridgway, Bull. U. S. Nat. Mus., no. 50, pt. 7, 1916, p. 175-179. 
 
  Salvadori, Cat. Bds. Brit. Mus., 20, 1891, p. 211-231. 
 
@@ -27136,7 +27136,7 @@ Caica Lesson, Rev. Zool., 1842, p. 135. Type, by monotypy, Psittacus
 
 
 
-Ridgway, BuU. U. S. Nat. Mus., no. 50, pt. 7, 1916, p. 182-187. 
+Ridgway, Bull. U. S. Nat. Mus., no. 50, pt. 7, 1916, p. 182-187. 
 
  Salvadori, Cat. Bds. Brit. Mus., 20, 1891, p. 253-266. 
 
@@ -27150,7 +27150,7 @@ Ridgway, BuU. U. S. Nat. Mus., no. 50, pt. 7, 1916, p. 182-187.
 
 * This species also recorded, without subspecific determination, from La 
 
- Morelia in southern Colombia by Chapman, BuU. Am. Mus. Nat. Hist., 36, 
+ Morelia in southern Colombia by Chapman, Bull. Am. Mus. Nat. Hist., 36, 
 
  1917, p. 261 and from the Rios Jurua, Purus and Jamauchim in Brazil by 
 
@@ -27158,7 +27158,7 @@ Ridgway, BuU. U. S. Nat. Mus., no. 50, pt. 7, 1916, p. 182-187.
 
 
 
-^ Psittacula coelestis lucida Ridgway is a synonym, fide Chapman, BuU. 
+^ Psittacula coelestis lucida Ridgway is a synonym, fide Chapman, Bull. 
 
  Am. Mus. Nat. Hist., 55, 1926, p. 261. 
 
@@ -27826,7 +27826,7 @@ monotypy, Psittacus pileatus Scopoli.
 
  (Vermes). 
 
- cf. Ridgway, BuU. U. S. Nat. Mus., no. 50, pt. 7, 1916, p. 201-206 (sub 
+ cf. Ridgway, Bull. U. S. Nat. Mus., no. 50, pt. 7, 1916, p. 201-206 (sub 
 
  nom. Pyrilia Bonaparte). 
 
@@ -28185,7 +28185,7 @@ Pionus Wagler, Abh. K. Bayer. Akad. Wiss., Math.-Phys. Kl., 1, 1832,
 
  (G. R. Gray, List Gen. Bds., 1840, p. 52). 
 
- cf. Chapman, BuU. Am. Mus. Nat. Hist., 55, 1926, p. 264-266. 
+ cf. Chapman, Bull. Am. Mus. Nat. Hist., 55, 1926, p. 264-266. 
 
 
 
@@ -32200,7 +32200,7 @@ Palseornis Nicobaricus Gould, Bds. Asia, pt. 9, 1857, pi. 13 [= 6, pi. 6
 
 
 
-Psittacula longicauda defontainei Chasen, BuU. Raffles Mus., no. 9, 1934, 
+Psittacula longicauda defontainei Chasen, Bull. Raffles Mus., no. 9, 1934, 
 
 
 
@@ -36720,7 +36720,7 @@ bradfieldi, Dialiptila, 64
 
  biirgersi, Psittacella, 251 
 
- BuUeria, 270 
+ Bulleria, 270 
 
 
 

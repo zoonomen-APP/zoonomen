@@ -2696,7 +2696,7 @@ Casuarius bicarunculatus intermedius Rothschild
 
 
 
-Casuarius bicarunculatus intermedius Rothschild, BuU. Brit. Orn. CI., 
+Casuarius bicarunculatus intermedius Rothschild, Bull. Brit. Orn. CI., 
 
  49, 1928, p. 10. (No type locality.) 
 
@@ -2712,7 +2712,7 @@ Casuarius bicarunculatus chimaera Rothschild
 
 
 
-Casuarius casuarius chimaera Rothschild, BuU. Brit. Orn. CL, 14, 1904, 
+Casuarius casuarius chimaera Rothschild, Bull. Brit. Orn. CL, 14, 1904, 
 
  p. 39. (Unknown.) 
 
@@ -3776,7 +3776,7 @@ Crypturellus Brabourne and Chubb, Ann. and Mag. Nat. Hist., (8), 14,
 
 ( = Tinamus tataupa Temminck.) 
 
- Microcrypturus Chubb, BuU. Brit. Orn. CI., 38, 1917, p. 30. New name 
+ Microcrypturus Chubb, Bull. Brit. Orn. CI., 38, 1917, p. 30. New name 
 
 
 
@@ -10346,7 +10346,7 @@ Pelagodroma Reichenbach, Av. Syst. Nat., 1852 (1853), p. iv. Type, by
 
  Mathews, Bds. Austr., 2, 1912, p. 19-30. 
 
- Murphy, BuU. Am. Mus. Nat. Hist., 50, 1924, p. 233-235. 
+ Murphy, Bull. Am. Mus. Nat. Hist., 50, 1924, p. 233-235. 
 
 
 
@@ -11678,7 +11678,7 @@ cf. Dubois, in Wytsman's Gen. Av., pt. 7, 1907, p. 1-4, 1 pi.
 
 
 
-» Cf. Grant, BuU. Brit. Orn. CI., 7, 1897, p. 23-34. 
+» Cf. Grant, Bull. Brit. Orn. CI., 7, 1897, p. 23-34. 
 
 
 
@@ -12436,7 +12436,7 @@ Mathews, Syst. Av. Australas., pt. 1, 1927. p. 224-229.
 
 
 
-Murphy, BuU. Am. :Mus. Xat. Hist.. 25, 1916, p. 31-48. 
+Murphy, Bull. Am. :Mus. Xat. Hist.. 25, 1916, p. 31-48. 
 
 
 
@@ -15368,7 +15368,7 @@ Genus MELANOPHOYX Sharpe
 
 
 
-Melanophoyx Sharpe, BuU. Brit. Orn. CI., 3, 1894, p. 38. Type, by 
+Melanophoyx Sharpe, Bull. Brit. Orn. CI., 3, 1894, p. 38. Type, by 
 
  original designation, Ardea calceolata DuBus = Ardea ardesiaca 
 
@@ -16606,7 +16606,7 @@ Ardea marmorata Vieillot, Nouv. Dict. Hist. Nat., 14, 1817, p. 415.
 
 
 
-Tigriosoma (sic) bahioe Sharpe, BuU. Brit. Orn. CI., 5, 1895, p. 14. (Ba- 
+Tigriosoma (sic) bahioe Sharpe, Bull. Brit. Orn. CI., 5, 1895, p. 14. (Ba- 
 
  hia, BrazU = immature.) 
 
@@ -18519,7 +18519,7 @@ Lampribis olivacea rothschildi Bannerman
 
 
 
-Lampribis rothschildi Bannerman, BuU. Brit. Orn. CI., 40, 1919, p. 6. 
+Lampribis rothschildi Bannerman, Bull. Brit. Orn. CI., 40, 1919, p. 6. 
 
 
 
@@ -19932,7 +19932,7 @@ Chen, Boie, Isis von Oken, 10, 1822, col. 563. Type, by monotypy, Anser
 
  hyperboreus PaUas. 
 
- cf. Bent, BuU. U. S. Nat. Mus., no. 130, 1925, p. 164-188. 
+ cf. Bent, Bull. U. S. Nat. Mus., no. 130, 1925, p. 164-188. 
 
  Kennard, Proc. New Engl. Zool. CL, 9, 1927, p. 85-93. 
 
@@ -20033,7 +20033,7 @@ Melanonyx Buturlin: Psovaia i Rusheinaia Okhota, 1901, p. 22.
 
 cf. Alpheraky, Geese Europe and Asia, 1905, p. 24-132. 
 
- Bent, BuU. U. S. Nat. Mus., no. 130, 1925, p. 188-204. 
+ Bent, Bull. U. S. Nat. Mus., no. 130, 1925, p. 188-204. 
 
  Hartert, Vog. pal. Fauna, 2, 1920, p. 1278-1288. 
 
@@ -20336,7 +20336,7 @@ Philade Bannister, Proc. Acad. Nat. Sci. Phila., 1870, p. 131. Type, by
 
 
 
-cf. Bent, BuU. U. S. Nat. Mus., no. 130, 1925, p. 263-269. 
+cf. Bent, Bull. U. S. Nat. Mus., no. 130, 1925, p. 263-269. 
 
 
 
@@ -20374,7 +20374,7 @@ Branta ScopoU, Annus I, Hist. Nat., 1769, p. 67. Ty^e, by subsequent
 
 
 
-cf. Bent, BuU. U. S. Nat. Mus., no. 130, 1925, p. 204-263. 
+cf. Bent, Bull. U. S. Nat. Mus., no. 130, 1925, p. 204-263. 
 
  Hartert, Vog. pal. Fauna, 2, 1920, p. 1292-1299. 
 
@@ -26740,7 +26740,7 @@ Cymindes "Spix" Oberholser, Proc. Biol. Soc. Wash., 35, 1922, p. 79.
 
 
 
-cf. Wetmore, BuU. U. S. Nat. Mus., no. 133, 1926, p. 106-107. 
+cf. Wetmore, Bull. U. S. Nat. Mus., no. 133, 1926, p. 106-107. 
 
 
 
@@ -29016,7 +29016,7 @@ Breeds from limit of trees in northern Europe east to Russia and south
 
 
 
-Accipiter nisus hibemicus Swann, BuU. Brit. Orn. CI., 44, 1924, p. 79. 
+Accipiter nisus hibemicus Swann, Bull. Brit. Orn. CI., 44, 1924, p. 79. 
 
  (Hillsborough, County Down, Ireland.) 
 
@@ -30151,7 +30151,7 @@ Hartert, Vog. pal. Fauna, 2, 1914, p. 1114-1131; 3, 1922, p. 2202-2205.
 
  Peters and Griscom, Proc. New Engl. Zool. CI., 11, 1929, p. 43-48. 
 
- Portenko, BuU. Acad. Sci. URSS, CI. Sci. Phys.-Math., 1929, p. 623- 
+ Portenko, Bull. Acad. Sci. URSS, CI. Sci. Phys.-Math., 1929, p. 623- 
 
 
 
@@ -31403,7 +31403,7 @@ Confined to El Rey (or San Miguel Island), Pearl Islands, Bay of Pan-
 
 
 
-Rupornis magnirostris insidiatrix Bangs and Penard, BuU. Mus. Comp, 
+Rupornis magnirostris insidiatrix Bangs and Penard, Bull. Mus. Comp, 
 
  Zool., 52, 1918, p. 36. (Santa Marta Mountains, Colombia.) 
 
@@ -33270,7 +33270,7 @@ cf. Hartert, Vog. pal. Fauna, 2, 1914-1915, p. 1088-1109.
 
  Sclater, Syst. Av. ^thiop., pt. 1, 1924, p. 59-60. 
 
- Swann, BuU. Brit. Orn. CI., 45, 1925, p. 64-73. 
+ Swann, Bull. Brit. Orn. CI., 45, 1925, p. 64-73. 
 
 
 
@@ -36798,7 +36798,7 @@ Tres Marias Islands off the west coast of Mexico.
 
 
 
-Polyborus Lutosus Ridgway, BuU. U. S. Geol. Geogr. Surv. Terr., 1, 
+Polyborus Lutosus Ridgway, Bull. U. S. Geol. Geogr. Surv. Terr., 1, 
 
  1876, p. 459. (Guadalupe Island.) 
 
@@ -38624,7 +38624,7 @@ Falco columbarius christiani-ludovici Kleinschmidt
 
 
 
-Lithofalco aesalon pallidus Sushkin, BuU. Brit. Orn. CI., 11, 1900, p. 5. 
+Lithofalco aesalon pallidus Sushkin, Bull. Brit. Orn. CI., 11, 1900, p. 5. 
 
  (Western part of the Kirghiz Steppes), not Falco pallidus Schinz. 
 
