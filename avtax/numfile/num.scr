@@ -84,7 +84,7 @@ cp -puv  pa2b.html 0505pa2b.html
 cp -puv  pa2e.html 0507pa2e.html
 cp -puv  pa2g.html 0508pa2g.html
 cp -puv  pa2c.html 0509pa2c.html
-cp -puv  pa2d.html 0510pa2d.html
+#cp -puv  pa2d.html 0510pa2d.html
 cp -puv  pa2o.html 0512pa2o.html
 cp -puv  pa2i.html 0570pa2i.html
 cp -puv  pa2j.html 0575pa2j.html
