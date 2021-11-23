@@ -881,7 +881,7 @@ abyssinicus, Ploceus, XV:46
 
  acaciarum, Auriparus, XII:69 
 
- acaciarum, Thryothorus, lX:4o8 
+ acaciarum, Thryothorus, lX:408 
 
  acadica, Strix, lV:i73 
 
@@ -1185,13 +1185,13 @@ adamauae, Prionops, IX1310
 
  adamsi, Copsychus, X:67 
 
- adamsi, Halcyon, V:2o6 
+ adamsi, Halcyon, V:206 
 
  adamsi, Montifringilla, XV:28 
 
  adamsi, Prinia, XI:i35 
 
- adamsi, Saupopatis, V:2o6 
+ adamsi, Saupopatis, V:206 
 
  adamsii, Colymbus, I:i39 
 
@@ -1231,11 +1231,11 @@ adamauae, Prionops, IX1310
 
  addendus, Cacomantis, 1V:25 
 
- addita, Microeca, Xl:3o8 
+ addita, Microeca, Xl:308 
 
- addita, Rhinomyias, Xl:3o8 
+ addita, Rhinomyias, Xl:308 
 
- Addoeca, Xl:3o8 
+ Addoeca, Xl:308 
 
  adela, Oreotrochilus, V:94 
 
@@ -1311,7 +1311,7 @@ adendorffi, Mirafra, lX:i6
 
  admiralitatis, Rallus, II:164 
 
- admiralitatis, Zosterops, XlI:3o8 
+ admiralitatis, Zosterops, XlI:308 
 
  adolfi-friderici, Poicephalus, 1II:227 
 
@@ -2046,7 +2046,7 @@ aethiopica, Amblyospiza, XV:3i
 
  Aethiopinetta, 1:461 
 
- Aethiops, XlV:3o8 
+ Aethiops, XlV:308 
 
  aethiops, Buteo, 1:368 
 
@@ -2943,7 +2943,7 @@ akyildizi, Prinia, XI:i36
 
  alare, Cinclosoma, X:234 
 
- Alario, XIV:2o8 
+ Alario, XIV:208 
 
  alario, Emberiza, XIV:230 
 
@@ -3022,7 +3022,7 @@ alaudina, Coryphistera, VII:ii4
 
 
 
-alba, Chionis, II:3o8 
+alba, Chionis, II:308 
 
  alba, Crocethia, II:28i 
 
@@ -4577,11 +4577,11 @@ albogularis, Polyborus, 1:392
 
  alboides, Motacilla, IX:i40 
 
- albolarvatus, Dendrocopos, VI:2o6 
+ albolarvatus, Dendrocopos, VI:206 
 
- albolarvatus, Leuconerpes, VI:2o6 
+ albolarvatus, Leuconerpes, VI:206 
 
- albolaxatus, Caprimulgus, IV:2o8 
+ albolaxatus, Caprimulgus, IV:208 
 
  albolimbata, Ardeola, I:22i 
 
@@ -4631,7 +4631,7 @@ albogularis, Polyborus, 1:392
 
  albonotatus, Buteo, 1:368 
 
- albonotatus, Caprimulgus, IV:2o6 
+ albonotatus, Caprimulgus, IV:206 
 
  albonotatus, Coccystes, IV:i3 
 
@@ -4788,7 +4788,7 @@ alcinus, Machaerhamphus, 1:289
 
  aldabranus, Turtur, 1II:91 
 
- aldabrensis, Caprimulgus, IV:2o6 
+ aldabrensis, Caprimulgus, IV:206 
 
  aldabrensis, Cinnyris, Xn:249 
 
@@ -4800,9 +4800,9 @@ alcinus, Machaerhamphus, 1:289
 
  aldrichi, Penthestes, Xn:82 
 
- alearis, Alcippe, X:4o8 
+ alearis, Alcippe, X:408 
 
- alearis, Alcippornis, X:4o8 
+ alearis, Alcippornis, X:408 
 
  alecto, Ara, III:i70 
 
@@ -4899,7 +4899,7 @@ alexanderi, Nierita, XlVrsio
 
  alexandri, Falco, 1:406 
 
- alexandri, Lobornis, XlV:3o8 
+ alexandri, Lobornis, XlV:308 
 
  alexandri, Ploceus, XV:36 
 
@@ -5114,7 +5114,7 @@ alius, Buteo, 1:362
 
  alleni, Pipilo, Xllhiyi 
 
- alleni, Porphyrio, Il:2o6 
+ alleni, Porphyrio, Il:206 
 
  alleni, Porphyrula, II:206 
 
@@ -5365,7 +5365,7 @@ alpinus, Phylloscopus, XI:227
 
  althaea, Sylvia, XI:276 
 
- alticincta, Formicivora, Vn:2o6 
+ alticincta, Formicivora, Vn:206 
 
  alticola, Aegialitis, II:251 
 
@@ -6076,7 +6076,7 @@ Ammodramus, XIII:68
 
  amphiala, Culicicapa, XI:374 
 
- amphichroa, Newtonia, XI:2o6 
+ amphichroa, Newtonia, XI:206 
 
  Amphilais, XI:32 
 
@@ -6852,7 +6852,7 @@ anjouanensis, Leptosomus, V:240
 
  annalisa, Ficedula, XI:345 
 
- annamarulae, Melaenornis, XI:3o6 
+ annamarulae, Melaenornis, XI:306 
 
  annamense, Trichastoma, X:249 
 
@@ -6962,9 +6962,9 @@ annamensis, Dryobates, VI:i93
 
  annectens, Corvus, XV:275 
 
- annectens, Cyanocitta, XV:2o8 
+ annectens, Cyanocitta, XV:208 
 
- annectens, Cyanura, XV:2o8 
+ annectens, Cyanura, XV:208 
 
  annectens, Dendromus, VI:ii9 
 
@@ -7360,7 +7360,7 @@ Anthoscopus, XII:64
 
  antillarum, Mimus, IX:443 
 
- antillarum, Myiarchus, Vlll:2o6 
+ antillarum, Myiarchus, Vlll:206 
 
  antillarum, Podilymbus, 1:146 
 
@@ -7957,7 +7957,7 @@ archboldi, Dacelo, V:i9i
 
  archboldi, Lyncornis, IV:i9i 
 
- archboldi, Newtonia, XI:2o6 
+ archboldi, Newtonia, XI:206 
 
  archboldi, Petroica, XI:563 
 
@@ -8100,9 +8100,9 @@ ardeleo, Ramphocaenus, X:445
 
  ardens, Orioius, XV:i35 
 
- ardens, Phoenisoma, Xin:3o8 
+ ardens, Phoenisoma, Xin:308 
 
- ardens, Piranga, XlII:3o8 
+ ardens, Piranga, XlII:308 
 
  ardens, Promerops, Xn:450 
 
@@ -8124,11 +8124,11 @@ ardeleo, Ramphocaenus, X:445
 
  ardescens, Corydon, V1I:6 
 
- ardesiaca, Ardea, l:2o8 
+ ardesiaca, Ardea, l:208 
 
  ardesiaca, Conopophaga, VII:275 
 
- ardesiaca, Egretta, I:2o8 
+ ardesiaca, Egretta, I:208 
 
  ardesiaca, Fulica, Il:2i2 
 
@@ -8150,7 +8150,7 @@ ardeleo, Ramphocaenus, X:445
 
  ardesiacus, Dysithamnus, Vn:i85 
 
- ardesiacus, Melaenornis, Xl:3o6 
+ ardesiacus, Melaenornis, Xl:306 
 
  ardesiacus, Myrmoborus, Vn:222 
 
@@ -8385,7 +8385,7 @@ arguta, Calocitta, XV:228
 
  argutuia, Sturnella, XIV:i78 
 
- argutus, Proparus, X:4o6 
+ argutus, Proparus, X:406 
 
  argutus, Rupornis, 1:361 
 
@@ -8845,7 +8845,7 @@ aru, Ducula, 1II:45
 
  aruensis, Otidiphaps, lll:i39 
 
- aruensis, Philemon, Xn:4o8 
+ aruensis, Philemon, Xn:408 
 
  aruensis, Pitohui, XII:48 
 
@@ -8861,7 +8861,7 @@ aru, Ducula, 1II:45
 
  aruensis, Sericornis, XI:424 
 
- aruensis, Tropidorhynchus, XII:4o8 
+ aruensis, Tropidorhynchus, XII:408 
 
  aruensis, Zosterops, XII:309 
 
@@ -9182,7 +9182,7 @@ assimilis, Eriocnemis, V:ii3
 
  assimilis, Turdus, X:222 
 
- assmilis, Strachyrhis, X:3o6 
+ assmilis, Strachyrhis, X:306 
 
  assumptionis, Centropus, IV:7i 
 
@@ -9345,7 +9345,7 @@ ater, Oriolus, XIV:200
 
  aterrimus, Cnipolegus, Vin:i77 
 
- aterrimus, Glaucopis, XV:2o6 
+ aterrimus, Glaucopis, XV:206 
 
  aterrimus, Knipolegus, Vni:i77 
 
@@ -9353,7 +9353,7 @@ ater, Oriolus, XIV:200
 
  aterrimus, Phoenicurus, X:75 
 
- aterrimus, Platysmurus, XV:2o6 
+ aterrimus, Platysmurus, XV:206 
 
  aterrimus, Probosciger, ni:i7i 
 
@@ -10290,7 +10290,7 @@ ni:i75
 
  aurantius, Trogon, V:i57 
 
- aurantius, Turdus, X:2o8 
+ aurantius, Turdus, X:208 
 
  aurantivertex, Heterocercus, VI1I:258 
 
@@ -10304,7 +10304,7 @@ ni:i75
 
  aurata, Saroglossa, XV:i02 
 
- aurata, Stachyris, X:3o6 
+ aurata, Stachyris, X:306 
 
  aurata, ZcxDthera, X:i48 
 
@@ -10702,7 +10702,7 @@ auritus, Phasianus, II:iii
 
  auritus, Trochilus, V:i27 
 
- auritus, Turdus, V1I:274, X:2o6 
+ auritus, Turdus, V1I:274, X:206 
 
  auriventer, Zosterops, XII:296 
 
@@ -11388,7 +11388,7 @@ australorientis, Ficedula, XI:350
 
  avensis, Psittacula, 1II:242 
 
- averano, Ampelis, Vlll:3o6 
+ averano, Ampelis, Vlll:306 
 
  averano, Procnias, VIII:306 
 
@@ -11540,9 +11540,9 @@ azaleus, Meiglyptes, Vl:i48
 
  azarae, Urubitinga, 1:358 
 
- azela. Halcyon, V:2o8 
+ azela. Halcyon, V:208 
 
- azela, Sauropatis, V:2o8 
+ azela, Sauropatis, V:208 
 
 
 
@@ -11850,7 +11850,7 @@ bahamensis, Contopus, VlII:i34
 
  bahiae, Empidagra, VIII:20 
 
- bahiae, Formicivora, Vn:2o8 
+ bahiae, Formicivora, Vn:208 
 
  bahiae, Habia, XI1I:299 
 
@@ -12154,7 +12154,7 @@ baliensis, Rhinomyias, XI:309
 
  balius, Picus, VI:ii6 
 
- ballarae, AmytoTnis, XI:4o6 
+ ballarae, AmytoTnis, XI:406 
 
  balli, Ephialtes, 1V:89 
 
@@ -12439,9 +12439,9 @@ V:23i
 
  baraka, Merula, X:i82 
 
- baraka, Sylviella, XI:2o8 
+ baraka, Sylviella, XI:208 
 
- baraka, Sylvietta, XI:2o8 
+ baraka, Sylvietta, XI:208 
 
  baraka, Turdus, X:i82 
 
@@ -12549,7 +12549,7 @@ barakae, Trichastoma, X:258
 
  barbatulus, Vireo, XIV:i25 
 
- barbatus, Amytornis, Xl:4o8 
+ barbatus, Amytornis, Xl:408 
 
  barbatus, Apus, 1V:247 
 
@@ -13084,7 +13084,7 @@ Lanius, IX:358
 
  , Sarothrura, II:196 
 
- , Sylviella, XI:2o8 
+ , Sylviella, XI:208 
 
  , Telophorus, IX: 3 36 
 
@@ -13329,7 +13329,7 @@ beccarii, Otus, IV:97
 
  beema, Motacilla, IX: 132 
 
- behni, Brotogeris, III:2o6 
+ behni, Brotogeris, III:206 
 
  behni, Myrmotherula, Vll:i98 
 
@@ -13508,7 +13508,7 @@ belltrees, Acanthiza, XI:44i
 
  bellus, Myiophobus, VIII:i2i 
 
- bellus, Porphyrio, II:2o8 
+ bellus, Porphyrio, II:208 
 
  bellus, Ptilinopus, 1II:35 
 
@@ -13522,7 +13522,7 @@ belltrees, Acanthiza, XI:44i
 
  belvederei, Amphispiza, Xlihgo 
 
- bemmeleni, Porphyrio, II:2o8 
+ bemmeleni, Porphyrio, II:208 
 
  benchi, Pseudoprion, 1:83 
 
@@ -14251,7 +14251,7 @@ bicinctus, Pterocles, IIIiq
 
  Ducula, 1II:50 
 
- Formicivora, VII:2o6 
+ Formicivora, VII:206 
 
  Fringilla, Xin:40, 156 
 
@@ -14275,7 +14275,7 @@ bicinctus, Pterocles, IIIiq
 
  bicolor, Merula, X:i98 
 
- bicolor, Microrhopias, VlI:2o6 
+ bicolor, Microrhopias, VlI:206 
 
  bicolor, Nigrita, XIV:309 
 
@@ -14472,7 +14472,7 @@ bilineata, Emberiza, XIII:88
 
  bimaculata, Melanocorypha, IX:42 
 
- bimaculata, Monarcha, XI:5o8 
+ bimaculata, Monarcha, XI:508 
 
  bimaculata, Muscipeta, Vni:i47 
 
@@ -14484,7 +14484,7 @@ bilineata, Emberiza, XIII:88
 
  bimaculatus, Cnemotriccus, VIIl:i47 
 
- bimaculatus, Monarcha, XI:5o8 
+ bimaculatus, Monarcha, XI:508 
 
  bimaculatus, Myiolestes, XI:58o 
 
@@ -14506,7 +14506,7 @@ bilineata, Emberiza, XIII:88
 
  binghami, Oreomanes, XII1:399 
 
- binghami, Stachyris, X:3o6 
+ binghami, Stachyris, X:306 
 
  binotata, Apalis, XI:i6o 
 
@@ -14781,7 +14781,7 @@ blayneyi, Anthus, IX:i56
 
  blundelli, Anaplectes, XV:6o 
 
- blythi, Alcippe, X:4o8 
+ blythi, Alcippe, X:408 
 
  blythi, Carpodacus, X1V:278 
 
@@ -14815,7 +14815,7 @@ blayneyi, Anthus, IX:i56
 
  Blythipicus, Vl:224 
 
- Boanensis, Monarcha, XI:5o8 
+ Boanensis, Monarcha, XI:508 
 
  boanerges, XV:235 
 
@@ -15416,7 +15416,7 @@ bonapartei, Loriculus, 1II:258
 
  bondi, Dicrurus, XV:i43 
 
- bondi, Irena, IX:3o8 
+ bondi, Irena, IX:308 
 
  bondi, Turdus, X:2i8 
 
@@ -15687,9 +15687,9 @@ borealis
 
 borealoides, Phylloscopus, XI:245 
 
- borelli, Atlapetes, XIIl:2o6 
+ borelli, Atlapetes, XIIl:206 
 
- borelli, Buarremon, Xin:2o6 
+ borelli, Buarremon, Xin:206 
 
  borelliana, Ciccaba, IV:i54 
 
@@ -17065,7 +17065,7 @@ brooksi, Coccothraustes, XIV:304
 
  brooksi, Hesperiphona, XIV:304 
 
- brooksi, Oxyruncus, VlII:3o8 
+ brooksi, Oxyruncus, VlII:308 
 
  brooksi, Passerculus, XIll:7i 
 
@@ -17192,9 +17192,9 @@ brunnea, Dioptrornis, XI:304
 
  brunnea, Tanagra, X1II:290 
 
- brunneata, Rhinomyias, XI:3o8 
+ brunneata, Rhinomyias, XI:308 
 
- brunneata, Siphia, XI:3o8 
+ brunneata, Siphia, XI:308 
 
  brunneicapilla, Aplonis, XV:86 
 
@@ -17216,13 +17216,13 @@ lX:38o
 
  brunneicapillus, Tyrannulus, VIII:i3 
 
- brunneicauda, Alcippe, X:4o6 
+ brunneicauda, Alcippe, X:406 
 
  brunneicauda, Columba, lll:7i 
 
  brunneicauda, Dendrobiastes, XI:345 
 
- brunneicauda, Erythrosterna, XI:2o6 
+ brunneicauda, Erythrosterna, XI:206 
 
  brunneicauda, Hyloterpe, XI:309 
 
@@ -17234,7 +17234,7 @@ lX:38o
 
  brunneicauda, Minla, X:399 
 
- brunneicauda, Newtonia, XI:2o6 
+ brunneicauda, Newtonia, XI:206 
 
  brunneicauda, Premnoplex, VII:ii8 
 
@@ -17551,7 +17551,7 @@ buccoides, Ailuroedus, XV:i73
 
  bucephalus, Lanius, IX:343 
 
- buceroides, Philedon, XII:4o8 
+ buceroides, Philedon, XII:408 
 
  buceroides, Philemon, Xll:407 
 
@@ -17981,7 +17981,7 @@ burmanicus, Spilornis, 1:312
 
  buruensis, Pachycephala, XII:2i 
 
- buruensis, Zosterops, XlI:3o8 
+ buruensis, Zosterops, XlI:308 
 
  buryi, Falco, 1:406 
 
@@ -17999,7 +17999,7 @@ burmanicus, Spilornis, 1:312
 
  busarellus. Circus, 1:359 
 
- Buserinus, XlV:2o8 
+ Buserinus, XlV:208 
 
  bushmanensis, Chersomanes, IX:28 
 
@@ -18377,7 +18377,7 @@ cactophilus, Dryobates, VI:2ii
 
  caerulea, Procellaria, 1:79 
 
- caerulea, Tersina, XIIl:4o8 
+ caerulea, Tersina, XIIl:408 
 
  caerulea, Thraupis, Xni:320 
 
@@ -18480,7 +18480,7 @@ VI:72
 
  caerulescens, Diglossa, X1II:406 
 
- caerulescens, Diglossopis, Xni:4o6 
+ caerulescens, Diglossopis, Xni:406 
 
  caerulescens, Docimastes, V:i04 
 
@@ -19327,7 +19327,7 @@ calthorpae, Psittacula, 1II:246
 
  calvus, Gymnobucco, VI:4i 
 
- calvus, Porphyrio, II:2o8 
+ calvus, Porphyrio, II:208 
 
  calvus, Sarcops, XV:ii7 
 
@@ -19677,9 +19677,9 @@ campestris, Pedioecetes, II:4i
 
  Canachites, II:36 
 
- canacorum. Halcyon, V:2o6 
+ canacorum. Halcyon, V:206 
 
- canacorum, Sauropatis, V:2o6 
+ canacorum, Sauropatis, V:206 
 
  canadensis, Anas, 1:444 
 
@@ -20707,7 +20707,7 @@ caprius, Cuculus, IV:30
 
  carbo, Ramphocelus, XIlI:3i3 
 
- carbonacea, Cyanocitta, XV:2o8 
+ carbonacea, Cyanocitta, XV:208 
 
  carbonaria, Cercomacra, VIl:2i7 
 
@@ -20856,7 +20856,7 @@ carinatum. Electron, V:222
 
  carlo, Prinia, XI:i37 
 
- carlottae, Cyanocitta, XV:2o8 
+ carlottae, Cyanocitta, XV:208 
 
  carlottae, Pinicola, XIV:285 
 
@@ -20908,7 +20908,7 @@ carinatum. Electron, V:222
 
  carnobarba, Ampelis, V1II:306 
 
- carnobarba, Procnias, VIII:3o6 
+ carnobarba, Procnias, VIII:306 
 
  carola, Ducula, 1II:54 
 
@@ -21268,7 +21268,7 @@ carunculatus, Leucocarbo, 1:164
 
  caspius, Parus, Xll:i05 
 
- caspius, Porphyrio, ll:2o8 
+ caspius, Porphyrio, ll:208 
 
  caspius, Remiz, Xll:63 
 
@@ -21409,7 +21409,7 @@ castaneceps, Alcippe, X:399
 
  castaneiceps, Basileuterus, XIV:65 
 
- castaneiceps, Buarremon, XIII:2o8 
+ castaneiceps, Buarremon, XIII:208 
 
  castaneiceps, Columba, Ilhyo 
 
@@ -21425,7 +21425,7 @@ castaneceps, Alcippe, X:399
 
  castaneiceps, Laniarius, IX:327 
 
- castaneiceps, Lysurus, XIII:2o8 
+ castaneiceps, Lysurus, XIII:208 
 
  castaneiceps, Momotus, V:226 
 
@@ -21481,7 +21481,7 @@ XI:459
 
  castaneiventris, Cuculus, IV:26 
 
- castaneiventris, Monarcha, XI:5o6 
+ castaneiventris, Monarcha, XI:506 
 
  castaneiventris, Sporophila, Xni:i47 
 
@@ -21927,7 +21927,7 @@ caucae, Falco, 1:404
 
  caucensis, Haplophaedia, V:ii2 
 
- caucensis, Pitangus, Vin:2o8 
+ caucensis, Pitangus, Vin:208 
 
  caudacuta, Calyptomena, VIl:i2 
 
@@ -22361,7 +22361,7 @@ celebensis, Aviceda, I:28i
 
  celebensis, Cacomantis, IV:24 
 
- celebensis, Caprimulgus, IV:2o8 
+ celebensis, Caprimulgus, IV:208 
 
  celebensis, Centropus, IV 176 
 
@@ -23525,7 +23525,7 @@ Anthus, IX:i53
 
  Nectarinia, X1I:254 
 
- Sylvietta, XI:2o8 
+ Sylvietta, XI:208 
 
 
 
@@ -23548,7 +23548,7 @@ chapini, Tricholaema, VI:54
 
  chapmani, Crax, II:i2 
 
- chapmani, Formicivora, VII:2o8 
+ chapmani, Formicivora, VII:208 
 
  chapmani, Herpetotheres, 1:394 
 
@@ -23602,7 +23602,7 @@ chapini, Tricholaema, VI:54
 
  Charitornis, XV:ii7 
 
- Charitospiza, Xlll:2o8 
+ Charitospiza, Xlll:208 
 
  charlottae, Criniger, IX:285 
 
@@ -23978,7 +23978,7 @@ chinensis, Lanius, X:359
 
  chinquis, Polyplectron, ll:i3i 
 
- Chionarchus, Il:3o8 
+ Chionarchus, Il:308 
 
  Chionididae, II:308 
 
@@ -24068,7 +24068,7 @@ chiriquensis, Vireosylva, XlV:i28
 
 
 
-chiriri, Brotogeris, lll:2o6 
+chiriri, Brotogeris, lll:206 
 
 
 
@@ -24248,7 +24248,7 @@ chloris, Acanthisitta, Vlll:33i
 
 
 
-chloris, Alcedo, V:2o8 
+chloris, Alcedo, V:208 
 
 
 
@@ -24271,7 +24271,7 @@ chloris, Carduelis, X1V:235
 
 chloris, Criniger, IX1289 
 
- chloris, Halcyon, V:2o8 
+ chloris, Halcyon, V:208 
 
  chloris, Himatione, XIV:96 
 
@@ -24435,7 +24435,7 @@ Vl:i40
 
  chloronotus, Phylloscopus, XI:239 
 
- chloronotus, Porphyrula, II:2o6 
+ chloronotus, Porphyrula, II:206 
 
  chloronotus, Trichophorus, IX:275 
 
@@ -25044,7 +25044,7 @@ chrysopis, Thlypopsis, XII1:270
 
  chrysops, Sicalis, XIII:i27 
 
- chrysops, Stachyris, X:3o6 
+ chrysops, Stachyris, X:306 
 
  chrysops, Sycalis, XIlI:i27 
 
@@ -25484,7 +25484,7 @@ cineracea, Nonnula, Vl:i9
 
  cineraceus. Troglodytes, IX:4I9 
 
- cineraceus, Tropidorhynchus, Xll:4o6 
+ cineraceus, Tropidorhynchus, Xll:406 
 
  cinerascens, Alauda, IX:67 
 
@@ -26058,7 +26058,7 @@ X1V:324
 
  cinereus, Parus, Xll:i07 
 
- cinereus, Pericrocotus, IX:2o8 
+ cinereus, Pericrocotus, IX:208 
 
  cinereus, Platyrhynchus, Vin:i33 
 
@@ -26101,7 +26101,7 @@ cinereus, Tantalus, 1:246
 
  cineritius, Empidonax, Vlll:i42 
 
- cingulatus, Psittacus, lll:2o8 
+ cingulatus, Psittacus, lll:208 
 
  cinireicollis, Arachnothera, Xll:283 
 
@@ -26259,13 +26259,13 @@ IX:208
 
  cinnamomina, Galerida, IX:6o 
 
- cinnamomina. Halcyon, V:2o6 
+ cinnamomina. Halcyon, V:206 
 
  cinnamomina, Ninox, 1V:I38 
 
  cinnamomina, PagoUa, II:254 
 
- cinnamomina, Todiramphus, V:2o6 
+ cinnamomina, Todiramphus, V:206 
 
  cinnamominus, Charadrius, II:254 
 
@@ -26717,7 +26717,7 @@ Claudia, Craspedophora, XV:i88
 
  claudia, Heliangelus, V:io6 
 
- Claudia, Monarcha, XI:5o6 
+ Claudia, Monarcha, XI:506 
 
  claudiae, Acanthopneuste, XI:248 
 
@@ -27296,7 +27296,7 @@ Coliiformes, V:i43
 
  coUaris, Accipiter, 1:336 
 
- collaris, Alcedo, V:2o8 
+ collaris, Alcedo, V:208 
 
  collaris, Alcippe, X:404 
 
@@ -27324,7 +27324,7 @@ Coliiformes, V:i43
 
  collaris, Engyptila, III:i25 
 
- collaris. Halcyon, V:2o8 
+ collaris. Halcyon, V:208 
 
  collaris, Lanius, IX:36i, 362 
 
@@ -27634,7 +27634,7 @@ Columbiana, Tityra, VIII:242
 
  columbianus, Pyrrhococcyx, IV:46 
 
- columbianus, Thryothorus, IX:4o6 
+ columbianus, Thryothorus, IX:406 
 
  Columbidae, Ilhii 
 
@@ -27676,7 +27676,7 @@ Columbiana, Tityra, VIII:242
 
  comechingonus, Cinclodes, VII:68 
 
- comeri, Porphyriornis, II:2o6 
+ comeri, Porphyriornis, II:206 
 
  comis, Garrulax, X:369 
 
@@ -28261,7 +28261,7 @@ connexus, Perisoreus, XV:237
 
  Conothraupis, XIII:250 
 
- conquisitus, Turdus, X:2o6 
+ conquisitus, Turdus, X:206 
 
  conradi, Criniger, IX:249 
 
@@ -29488,7 +29488,7 @@ cozumelae, Icterus, XIV:i58
 
  crassirostris, Arremonops, Xin:i87 
 
- crassirostris, Buarremon, Xin:2o8 
+ crassirostris, Buarremon, Xin:208 
 
  crassirostris, Camarhynchus, Xin:i64 
 
@@ -29550,7 +29550,7 @@ crassirostris, Eurystomus, V:247
 
  crassirostris, Loxia, XlII:i48 
 
- crassirostris, Lysurus, XIIl:2o8 
+ crassirostris, Lysurus, XIIl:208 
 
  crassirostris, Malimbus, XV:6o 
 
@@ -29960,7 +29960,7 @@ cristatus, Cuculus, IV:66
 
  cristatus, Oxyrhynchus, Vin:309 
 
- cristatus, Oxyruncus, VIll:3o8 
+ cristatus, Oxyruncus, VIll:308 
 
  cristatus, Pandion, 1:279 
 
@@ -29996,7 +29996,7 @@ cristatus, Cuculus, IV:66
 
  cristula, Elaenia, Vlll:28 
 
- Crithagra, XlV:2o8 
+ Crithagra, XlV:208 
 
  Crithagroides, Xlll:ii3 
 
@@ -30022,7 +30022,7 @@ cristatus, Cuculus, IV:66
 
  Crocias, X:4i5 
 
- crocina, Stachyris, X:3o6 
+ crocina, Stachyris, X:306 
 
  crockettorum, Meliphaga, Xll:372 
 
@@ -30057,7 +30057,7 @@ crocopygius, Serinus, XIV:223
 
  crommelinae, Barnardius, 1II:263 
 
- crookshanki, Zosterops, XII:3o8 
+ crookshanki, Zosterops, XII:308 
 
  crosbyi, Amazilia, V:72 
 
@@ -30537,7 +30537,7 @@ culminator, Lamprocolius, XV:93
 
  cuneicauda, Glareola, II:308 
 
- cuneicauda, Thinocorus, II:3o8 
+ cuneicauda, Thinocorus, II:308 
 
  cuneirostris, Gecinus, Vl:i3i 
 
@@ -30856,9 +30856,9 @@ XI:36o, 386
 
  cyanescens, Galbula, Vl:7 
 
- cyanescens. Halcyon, V:2o8 
+ cyanescens. Halcyon, V:208 
 
- cyanescens, Sautopatis, V:2o8 
+ cyanescens, Sautopatis, V:208 
 
  cyanescens, Tangata, Xlll:382 
 
@@ -30959,7 +30959,7 @@ cyaneus, Psittacus, lll:i57
 
  cyanocephala, Eudynamys, 1V:39 
 
- cyanocephala, Gymnorhinus, XV:2o6 
+ cyanocephala, Gymnorhinus, XV:206 
 
  cyanocephala, Nectarinia, Xll:23i 
 
@@ -31009,7 +31009,7 @@ Cyanoceyx, V:i78
 
  cyanochrus, Pycnonotus, IX:250 
 
- Cyanocitta, XV:2o6 
+ Cyanocitta, XV:206 
 
  cyanocollis, Amazilia, V:67 
 
@@ -31037,7 +31037,7 @@ Cyanoceyx, V:i78
 
  cyanogaster, Psittacus, 1II:224 
 
- cyanogastra, Irena, IX:3o8 
+ cyanogastra, Irena, IX:308 
 
  cyanogenia, Eos, lll:i45 
 
@@ -32014,7 +32014,7 @@ davidi, Parus, XII:86
 
  davidii, Oreopneuste, XI:236 
 
- davidsoni, Chloropsis, IX:3o6 
+ davidsoni, Chloropsis, IX:306 
 
  daviesi, Anthus, IX:i5i 
 
@@ -32030,7 +32030,7 @@ davidi, Parus, XII:86
 
 Acanthopneuste, XI:248 
 
- Alcippe, X:4o8 
+ Alcippe, X:408 
 
  Brachyurus, Vni:3i4 
 
@@ -32373,7 +32373,7 @@ deficiens, Lalage, IX:204
 
  deichleri, Galerita, IX:62 
 
- deichleri, Turdus, X:2o6 
+ deichleri, Turdus, X:206 
 
  deignani, Aegithina, IX:300 
 
@@ -32409,7 +32409,7 @@ deficiens, Lalage, IX:204
 
  delacouri. Anas, 1:476 
 
- delacouri, Caprimulgus, IV:2o8 
+ delacouri, Caprimulgus, IV:208 
 
  delacouri, Dendrocopos, VI:200 
 
@@ -32548,11 +32548,11 @@ deliensis, Muscicapa, Xl:368
 
  deltarhyncha, Guiraca, XII1:242 
 
- Deltarhynchus, VlII:2o6 
+ Deltarhynchus, VlII:206 
 
  delutescens, Francolinus, II:73 
 
- deluzae, Formicivora, VII:2o8 
+ deluzae, Formicivora, VII:208 
 
  dementjevi, Accipiter, 1:341 
 
@@ -32691,9 +32691,9 @@ dendyi, Turdus, X:i58
 
  denti, Pholidornis, XIV:390 
 
- denti, Sylviella, XI:2o8 
+ denti, Sylviella, XI:208 
 
- denti, Sylvietta, XI:2o8 
+ denti, Sylvietta, XI:208 
 
  dentirostris, Scenopoeetes, XV:i75 
 
@@ -32968,11 +32968,11 @@ dharmakumari, Pericrocotus, IX:209
 
  diabolicus, Atopornis, XIV:3io 
 
- diabolicus, Bradyornis, XI:3o6 
+ diabolicus, Bradyornis, XI:306 
 
  diabolicus, Eurostopodus, IV:i90 
 
- diabolicus, Melaenornis, XI:3o6 
+ diabolicus, Melaenornis, XI:306 
 
  diaconus, Aglaia, XIII:3i8 
 
@@ -33014,7 +33014,7 @@ XlII:2i5
 
  diadematus. Indicator, VI:67 
 
- diadematus, Monarcha, XI:5o8 
+ diadematus, Monarcha, XI:508 
 
  diadematus, Pogonorhynchus, VI:53 
 
@@ -33834,7 +33834,7 @@ diuca, Fringilla, XIII:ii4
 
  divaricatus, Dicrurus, XV:i39 
 
- divaricatus, Lanius, IX:2o8 
+ divaricatus, Lanius, IX:208 
 
  divaricatus, Pericrocotus, IX:i98, 208 
 
@@ -35172,7 +35172,7 @@ ecaudata, Rallus, II:i66
 
  edwardsi, Hierophasis, II:ii6 
 
- edwardsi, Porphyrio, II:2o8 
+ edwardsi, Porphyrio, II:208 
 
  edwardsi, Thalasseus, II:342 
 
@@ -35673,7 +35673,7 @@ elisabeth, Lamprocolius, XV:95
 
  ellioti, Philemon, XII:4i2 
 
- ellioti, Porphyrio, II:2o8 
+ ellioti, Porphyrio, II:208 
 
  ellioti, Pterocles, 1II:5 
 
@@ -35805,7 +35805,7 @@ elwesi, Eremophila, IX:74
 
  emiliae, Dysithamnus, Vn:i84 
 
- emiliae, Microrhopias, Vn:2o6 
+ emiliae, Microrhopias, Vn:206 
 
  emiliae, Nigrita, XIV:3io 
 
@@ -35994,7 +35994,7 @@ enaga, Aegithalos, Xll:56
 
  enigma, Cercomeia, X:ioi 
 
- enigma. Halcyon, V:2o8 
+ enigma. Halcyon, V:208 
 
  enigmatica. Prunella, X:i2 
 
@@ -37132,7 +37132,7 @@ II:97
 
 
 
-erythrosticta, Pomarea, XI:5o6 
+erythrosticta, Pomarea, XI:506 
 
  erythrostictus, Monarcha, Xl:506 
 
@@ -37242,9 +37242,9 @@ estiae, Loxia, XIV:287
 
  Estrilda, XIV:336 
 
- Estrildae, XIV:3o8 
+ Estrildae, XIV:308 
 
- Estrildidae, XIV:3o6 
+ Estrildidae, XIV:306 
 
  etesiaca, Sula, 1:187 
 
@@ -37326,7 +37326,7 @@ estiae, Loxia, XIV:287
 
  Eucorystes, XIV:i39 
 
- eucosma, Charitospiza, XIlI:2o8 
+ eucosma, Charitospiza, XIlI:208 
 
  euculatus, Orthotomus, XI:i76 
 
@@ -37507,7 +37507,7 @@ Eumyiobius, Vlll:i73
 
 
 
-Euneornis, Xni:4o8 
+Euneornis, Xni:408 
 
 
 
@@ -37688,7 +37688,7 @@ euronotus, Thryothorus, IX:409
 
  euroum, Pellorneum, X:245 
 
- eurous, Lysurus, XIII:2o8 
+ eurous, Lysurus, XIII:208 
 
  eurous, Phaenicophilus, XIII:278 
 
@@ -37826,7 +37826,7 @@ eutreptorhyncha, Pelargopsis, V:i88
 
  evelynae, Trochilus, V:i32 
 
- everardi, Amytornis, Xl:4o6 
+ everardi, Amytornis, Xl:406 
 
  everardi, Dorothina, X1I:375 
 
@@ -38316,7 +38316,7 @@ exilis, Loriculus, 1II:259
 
  eximius, Basileuterus, XIV:7i 
 
- eximius, Caprimulgus, IV:2o6 
+ eximius, Caprimulgus, IV:206 
 
  eximius, Cyanerpes, XIII:396 
 
@@ -38368,7 +38368,7 @@ expectatus, Manacus, VII1:263
 
  experrectus, Garrulax, X:362 
 
- expetibilis, Turdus, X:2o8 
+ expetibilis, Turdus, X:208 
 
  explita, Lonchura, XIV:374 
 
@@ -39554,9 +39554,9 @@ ferrugineus, Turdus, VII:234
 
 
 
-fimbriatus, Atlapetes, Xni:2o6 
+fimbriatus, Atlapetes, Xni:206 
 
- fimbriatus, Buarremon, XIlI:2o6 
+ fimbriatus, Buarremon, XIlI:206 
 
  fimbriatus, Ceblepyris, IX:i95 
 
@@ -39572,7 +39572,7 @@ fimbriatus, Atlapetes, Xni:2o6
 
  finki, Gymnorhina, XV:i69 
 
- finki, Pardalotus, XH:2o6 
+ finki, Pardalotus, XH:206 
 
  finlaysoni, Pycnonotus, IX1244 
 
@@ -39857,7 +39857,7 @@ V 1II:206
 
  flammulatus. Icterus, XIV:i57 
 
- flammulatus, Myiarchus, VIII:2o6 
+ flammulatus, Myiarchus, VIII:206 
 
  flammulatus, Synallaxis, VII:i09 
 
@@ -41301,7 +41301,7 @@ formosanus, Acridotheres, XV:ii4
 
  forsteni, Ducula, 1II:53 
 
- forsteni. Halcyon, V:2o8 
+ forsteni. Halcyon, V:208 
 
  forsteni, Hemiphaga, 1II:53 
 
@@ -41315,7 +41315,7 @@ formosanus, Acridotheres, XV:ii4
 
  forsteni, Psittacus, lll:i48 
 
- forsteni, Todiramphus, V:2o8 
+ forsteni, Todiramphus, V:208 
 
 
 
@@ -41621,7 +41621,7 @@ frater, Oxyramphus, V1II:308
 
 
 
-frater, Oxyruncus, VIII:3o8 
+frater, Oxyruncus, VIII:308 
 
 
 
@@ -42032,11 +42032,11 @@ Anarhynchus, II:257
 
  Chlorophonia, XII1:356 
 
- Chloropsis, IX:3o6 
+ Chloropsis, IX:306 
 
- Cyanocitta, XV:2o8 
+ Cyanocitta, XV:208 
 
- Cyanura, XV:2o8 
+ Cyanura, XV:208 
 
  Daphoenositta, Xn:i49 
 
@@ -42090,7 +42090,7 @@ Anarhynchus, II:257
 
  Phoenicurus, X:78 
 
- Phyllornis, IX:3o6 
+ Phyllornis, IX:306 
 
  Pipreola, VI1I:289 
 
@@ -42129,7 +42129,7 @@ i84
 
 frontalis, Veniliornis, Vlriys 
 
- frontalis, Zosterops, XIl:3o6, 323 
+ frontalis, Zosterops, XIl:306, 323 
 
  frontata, Aratinga, IlliiSy 
 
@@ -42858,7 +42858,7 @@ fumigata, Tyrannula, VIII:i62
 
  funebris, Dryoscopus, IX:333 
 
- funebris. Halcyon, V:2o6 
+ funebris. Halcyon, V:206 
 
  funebris, Janthocincla, X:36i 
 
@@ -42874,7 +42874,7 @@ fumigata, Tyrannula, VIII:i62
 
  funebris, Picus, VI:i50 
 
- funebris, Todiramphus, V:2o6 
+ funebris, Todiramphus, V:206 
 
  funebris, Vitia, Xhii 
 
@@ -43163,7 +43163,7 @@ fuscata, Loxia, XIV:387
 
  fuscicapilla, Timeliopsis, XII:339 
 
- fuscicapilla, Zosterops, XII:3o8 
+ fuscicapilla, Zosterops, XII:308 
 
  fuscicapillus, Colonia, VllhiSi 
 
@@ -44607,7 +44607,7 @@ gilmani, Otus, IV:i02
 
 
 
-gilolensis, Philemon, XII:4o6 
+gilolensis, Philemon, XII:406 
 
 
 
@@ -45228,7 +45228,7 @@ XIV:37i
 
  gordoni, Nesocichla, X:i62 
 
- gordoni, Philemon, XII:4o8 
+ gordoni, Philemon, XII:408 
 
  gorfua, Aptenodytes, I:i28 
 
@@ -46174,11 +46174,11 @@ granulifrons, Ptilinopus, 1II:37
 
 
 
-gravirostris, Dendrocopos, VI:2o6 
+gravirostris, Dendrocopos, VI:206 
 
  gravirostris, Nyctanassa, 1:228 
 
- gravirostris, Xenopicus, VI:2o6 
+ gravirostris, Xenopicus, VI:206 
 
  gravis, Pachyramphus, VIII:238 
 
@@ -47129,7 +47129,7 @@ grisescens, Nannorchilus, IX:430
 
  grisescens, Thryophilus, IX:408 
 
- grisescens, Thryothorus, IX:4o8 
+ grisescens, Thryothorus, IX:408 
 
  grisescens, Tolmomyias, VIII:i03 
 
@@ -47191,7 +47191,7 @@ grisescens, Nannorchilus, IX:430
 
  griseus, Tockus, V:258 
 
- griseus, Turdus, VlI:2o6, X:339 
+ griseus, Turdus, VlI:206, X:339 
 
  griseus, Vireo, XIV:ii3 
 
@@ -48404,7 +48404,7 @@ VI:203
 
  Gymnorhina, XV:i68, 206 
 
- Gymnorhinus, XV:2o6 
+ Gymnorhinus, XV:206 
 
 
 
@@ -49009,7 +49009,7 @@ hamiltoni, Acanthiza, XI:435
 
  hararensis, Anthus, IX:i54 
 
- hardwickei, Chloropsis, IX:3o6 
+ hardwickei, Chloropsis, IX:306 
 
  hardwickii, Capella, II:275 
 
@@ -49025,7 +49025,7 @@ hamiltoni, Acanthiza, XI:435
 
  hardyi, Apalis, XI:i66 
 
- hardyi, Sylviella, XI:2o8 
+ hardyi, Sylviella, XI:208 
 
 
 
@@ -49034,7 +49034,7 @@ hamiltoni, Acanthiza, XI:435
 
 
 
-hardyi, Sylvietta, XI:2o8 
+hardyi, Sylvietta, XI:208 
 
  harei, Calendula, IX:64 
 
@@ -49605,7 +49605,7 @@ harterti, Strix, IV:i6o
 
  hartlaubii, Falcipennis, II:36 
 
- hartlaubii, Lanicterus, IX:2o6 
+ hartlaubii, Lanicterus, IX:206 
 
  hartlaubii, Larus, II:323 
 
@@ -50232,7 +50232,7 @@ hellmayri, Campylorhamphus, VII:56
 
  hellmayri, Piaya, IV:47 
 
- hellmayri, Pitangus, VIIl:2o8 
+ hellmayri, Pitangus, VIIl:208 
 
  hellmayri, Poecile, XII:75 
 
@@ -51534,7 +51534,7 @@ hondurensis, Cyanolyca, XV:2i8
 
  hoogerwerfi, Turdus, X:i92 
 
- hoogstraali, Irena, IX:3o8 
+ hoogstraali, Irena, IX:308 
 
  hoopesi, Sturnella, XIV:i78 
 
@@ -51647,7 +51647,7 @@ horsfieldii, Myophonus, X:i4i
 
  hortulana, Emberiza, XIII:i4 
 
- hortulanus, Serinus, XlV:2o8 
+ hortulanus, Serinus, XlV:208 
 
  hortulorum, Turdus, X:i86 
 
@@ -51721,7 +51721,7 @@ horsfieldii, Myophonus, X:i4i
 
  howei, Calamanthus, Xl:428 
 
- howei, Diaphorillas, XI:4o8 
+ howei, Diaphorillas, XI:408 
 
  howei, Eolophus, 1II:178 
 
@@ -52701,7 +52701,7 @@ hypoenochroa, lanthaenas, III:70
 
  hypogrammica, Pytilia, XIV:3i2 
 
- hypogrammica, Stachyris, X:3o8 
+ hypogrammica, Stachyris, X:308 
 
  hypogrammicum, Hypogramma, 
 
@@ -52988,7 +52988,7 @@ IX:384
 
  hypoxantha, Sporophila, XIll:i46 
 
- hypoxantha, Zosterops, XII:3o8 
+ hypoxantha, Zosterops, XII:308 
 
  Hypoxanthus, VI:i09 
 
@@ -53107,9 +53107,9 @@ ibis, Egretta, I:2io
 
 icastopterus, Butorides, 1:223 
 
- icastus, Dendrocopos, VI:2o8 
+ icastus, Dendrocopos, VI:208 
 
- icastus, Dryobates, VI:2o8 
+ icastus, Dryobates, VI:208 
 
  icelus, Asio, lV:iii 
 
@@ -53427,7 +53427,7 @@ ignotincta, Minla, X:396
 
  iheringi, Aegolius, IV:i74 
 
- iheringi, Formicivora, Vn:2o6 
+ iheringi, Formicivora, Vn:206 
 
  iheringi, Gisella, IV:i74 
 
@@ -54042,7 +54042,7 @@ indica, Eos, lll:i45
 
 
 
-indicus, Porphyrio, II:2o8 
+indicus, Porphyrio, II:208 
 
  indicus, Pterocles, 1II:9 
 
@@ -54054,7 +54054,7 @@ indicus, Porphyrio, II:2o8
 
  indicus, Trichophorus, IX:289 
 
- indicus, Vultur, I:3o6 
+ indicus, Vultur, I:306 
 
  indigena, Athene, IV:i47 
 
@@ -54552,7 +54552,7 @@ innotatus, Celeus, Vl:i26
 
  inornata, Neopelma, VIII:256 
 
- inornata, Newtonia, XI:2o6 
+ inornata, Newtonia, XI:206 
 
  inornata, Pachycephala, Xlhii 
 
@@ -55545,7 +55545,7 @@ insulata, Camaroptera, XI:i88
 
  intensior. Passer, XV:i4 
 
- intensior, Pericrocotus, iX:2o8 
+ intensior, Pericrocotus, iX:208 
 
  intensior, Phylloscopus, Xl:249 
 
@@ -56299,7 +56299,7 @@ Pachyramphus, VIII:23i
 
  Parus, XII:9i, 99, 106 
 
- Pericrocotus, IX:2o8 
+ Pericrocotus, IX:208 
 
  Phasianus, II:128 
 
@@ -57264,9 +57264,9 @@ jamaicensis, Columba, 1II:125
 
  jamesoni, Lagonosticta, XIV:330 
 
- jamesoni, Parmoptila, XIV:3o8 
+ jamesoni, Parmoptila, XIV:308 
 
- jamesoni, Pholidornis, XIV:3o8 
+ jamesoni, Pholidornis, XIV:308 
 
  jamesoni, Platysteira, XI:389 
 
@@ -57366,7 +57366,7 @@ japonensis, Regulus, XI:289
 
  japonicus, Otus, IV:9i 
 
- japonicus, Pericrocotus, IX:2o8 
+ japonicus, Pericrocotus, IX:208 
 
  japonicus, Pernis, 1:287 
 
@@ -57909,7 +57909,7 @@ johnsoni, Pycnonotus, IX:229
 
  jomo, Babax, X:348 
 
- jonesi, Caprimulgus, IV:2o6 
+ jonesi, Caprimulgus, IV:206 
 
  jonesi, Gennaeus, II:ii4 
 
@@ -58068,7 +58068,7 @@ juddi, Zonotrichia, Xni:47
 
  jugularis, Atlapetes, XIII:20i 
 
- jugularis, Brotogeris, III:2o6 
+ jugularis, Brotogeris, III:206 
 
  jugularis, Certhia, Xn:245 
 
@@ -58701,7 +58701,7 @@ Kaupifalco, 1:350
 
  keasti, Rhipidura, XI:545 
 
- keatsi, Caprimulgus, IV:2o8 
+ keatsi, Caprimulgus, IV:208 
 
  keatsi, Certhionyx, XII:435 
 
@@ -58723,7 +58723,7 @@ Kaupifalco, 1:350
 
  keiensis, Cinnyris, XII:246 
 
- keiensis. Halcyon, V:2o8 
+ keiensis. Halcyon, V:208 
 
  keiensis, Micropsitta, III:i68 
 
@@ -58767,7 +58767,7 @@ kelleyi, Schoeniparus, X:405
 
  kelsalli, Camaroptera, Xl:i9i 
 
- kelsalli, Fraseria, XI:3o6 
+ kelsalli, Fraseria, XI:306 
 
  kelsalli, Melaenornis, XI:306 
 
@@ -59936,7 +59936,7 @@ IX:48
 
  kuehni, Calornis, XV:82 
 
- kuehni, Caprimulgus, IV:2o8 
+ kuehni, Caprimulgus, IV:208 
 
  kuehni, Coracina, IX:i72 
 
@@ -60083,7 +60083,7 @@ kukunoorensis, Alaudula, IX:50
 
  kuranda, Bowyeria, XI1:42 
 
- kurandi, Monarcha, XI:5o6 
+ kurandi, Monarcha, XI:506 
 
  kurdestanica, Alectoris, II:64 
 
@@ -60368,7 +60368,7 @@ lacuum, Phyllastrephus, IX:259
 
  laetus, Phylloscopus, Xl:225 
 
- laetus, Thryothorus, IX:4o6 
+ laetus, Thryothorus, IX:406 
 
  laevigaster, Gerygone, XI:454 
 
@@ -60943,7 +60943,7 @@ lathami, Psittacus, III:i72
 
  latifascia, Emberiza, Xin:22 
 
- latifasciata, Piranga, Xni:3o8 
+ latifasciata, Piranga, Xni:308 
 
  latifasciatus, Celeus, VI:i25 
 
@@ -61046,7 +61046,7 @@ latouchei, Monticola, X:i40
 
  latrans, Scytalopus, VII:283 
 
- latreillii, Attagis, II:3o6 
+ latreillii, Attagis, II:306 
 
  latrunculus, Orthotomus, Xl:i4i 
 
@@ -61072,7 +61072,7 @@ latouchei, Monticola, X:i40
 
  laubmanni. Pica, XV:252 
 
- laubmanniana. Halcyon, V:2o8 
+ laubmanniana. Halcyon, V:208 
 
  laudabilis. Icterus, XIV:i64 
 
@@ -62263,7 +62263,7 @@ leucolaema, Alario, X1V:230
 
  leucomelas, Parus, Xlhioi 
 
- leucomelas, Picus, Vl:2o6 
+ leucomelas, Picus, Vl:206 
 
  leucomelas, Procellaria, 1:89 
 
@@ -62458,7 +62458,7 @@ leucophrus, Anabates, Vll:i40
 
  leucophrys, Sylviella, Xl:209 
 
- leucophrys, Sylvietta, Xl:2o8 
+ leucophrys, Sylvietta, Xl:208 
 
  leucophrys, Thryomanes, IX:398 
 
@@ -62537,9 +62537,9 @@ leucopleurus, Phyllostrophus, IX
 
  leucopogon, Sylvia, XI:270 
 
- leucopogon, Thryophilus, IX:4o8 
+ leucopogon, Thryophilus, IX:408 
 
- leucopogon, Thryothorus, IX:4o8 
+ leucopogon, Thryothorus, IX:408 
 
  leucopolia, Vireosylva, XlV:i27 
 
@@ -62645,7 +62645,7 @@ leucoptera, Hemiparra, II:237
 
  leucoptera. Pica, XV:252 
 
- leucoptera, Piranga, XIIl:3o8 
+ leucoptera, Piranga, XIIl:308 
 
  leucoptera, Pitta, Vlll:324 
 
@@ -62657,7 +62657,7 @@ leucoptera, Hemiparra, II:237
 
  leucoptera, Pterodroma, 1:78 
 
- leucoptera, Pyranga, XIll:3o8 
+ leucoptera, Pyranga, XIll:308 
 
  leucoptera, Pyriglena, VI1:220 
 
@@ -62691,7 +62691,7 @@ leucoptera, Hemiparra, II:237
 
  leucopterus, Dendrocopos, VI: 187 
 
- leucopterus, Glaucopis, XV:2o6 
+ leucopterus, Glaucopis, XV:206 
 
  leucopterus, Lagopus, II:3 1 
 
@@ -62959,9 +62959,9 @@ leucostigma, Rhagologus, Xlhy
 
  leucothorax, Stilbopsar, XV:87 
 
- leucothorectis, Dendrocopos, VI:2o8 
+ leucothorectis, Dendrocopos, VI:208 
 
- leucothorectis, Dryobates, VI:2o8 
+ leucothorectis, Dryobates, VI:208 
 
  leucothysanus, Fregodroma, l:io8 
 
@@ -63831,13 +63831,13 @@ lividior, Columba, III:6o
 
  lobata, Biziura, 1:504 
 
- lobata, Campephaga, IX:2o6 
+ lobata, Campephaga, IX:206 
 
  lobata, Pseudastrapia, XV:240 
 
  lobata, Tringa, II:239, 293 
 
- lobatus, Ceblepyris, IX:2o6 
+ lobatus, Ceblepyris, IX:206 
 
  lobatus, Lobipes, II:293 
 
@@ -63861,7 +63861,7 @@ lividior, Columba, III:6o
 
  Loborhamphus, XV:202 
 
- Lobornis, XIV:3o8 
+ Lobornis, XIV:308 
 
  Lobospingus, XIV:363 
 
@@ -65758,7 +65758,7 @@ mackensiana, Cryptolopha, XI:226
 
  macmillani, Estrilda, XIV:342 
 
- macmillani. Halcyon, V:2o6 
+ macmillani. Halcyon, V:206 
 
  macmillani, Ortygops, ll:i93 
 
@@ -67303,9 +67303,9 @@ makirae, Coracina, IX: 179
 
  malabaricus, Malacocircus, X:337 
 
- malabaricus, Parus, IX:2o8 
+ malabaricus, Parus, IX:208 
 
- malabaricus, Pericrocotus, IX:2o8 
+ malabaricus, Pericrocotus, IX:208 
 
  malabaricus, Phyllornis, IX:305 
 
@@ -67315,7 +67315,7 @@ makirae, Coracina, IX: 179
 
  malabaricus, Turdoides, X:337 
 
- malabaricus, Turdus, IX:3o6, 
+ malabaricus, Turdus, IX:306, 
 
 
 
@@ -67510,7 +67510,7 @@ malayanus, Buceros, V:266
 
  malayensis, Ictinaetus, 1:378 
 
- malayensis, Irena, IX:3o8 
+ malayensis, Irena, IX:308 
 
  malayensis, Megalaima, VI:34 
 
@@ -67828,7 +67828,7 @@ mango, Trochilus, V:26
 
  manilensis, Ardea, 1:203 
 
- manillensis, Caprimulgus, IV:2o8 
+ manillensis, Caprimulgus, IV:208 
 
  manillensis, Nycticorax, 1:230 
 
@@ -68465,9 +68465,9 @@ marshalli, Dryobates, VI: 193
 
  martii, Prionites, V:224 
 
- martini, Campephaga, IX:2o6 
+ martini, Campephaga, IX:206 
 
- martini, Campophaga, IX:2o6 
+ martini, Campophaga, IX:206 
 
  martini, Pycnonotus, IX:238 
 
@@ -68479,7 +68479,7 @@ marshalli, Dryobates, VI: 193
 
  martinica, Elaenia, VII1:27 
 
- martinica, Fulica, II:2o6 
+ martinica, Fulica, II:206 
 
  martinica,! Hirundo, IV:239 
 
@@ -68487,7 +68487,7 @@ marshalli, Dryobates, VI: 193
 
  martinica, Oreopeleia, III: 130 
 
- martinica, Porphyrula, II:2o6 
+ martinica, Porphyrula, II:206 
 
  martinicana, Certhiola, XIV:90 
 
@@ -68891,11 +68891,11 @@ maxima, Pteropodocys, IX:i67
 
  maximiliani, Pionus, III:2i5 
 
- maximiliani, Pitangus, Vin:2o8 
+ maximiliani, Pitangus, Vin:208 
 
  maximiliani, Psittacus, 11I:2I5 
 
- maximiliani, Saurophagus, VlII:2o8 
+ maximiliani, Saurophagus, VlII:208 
 
  maximiliani, Synallaxis, V1I:282 
 
@@ -69200,7 +69200,7 @@ mecynorhyncha, Cinnyris, XII:237
 
  media, Fringillaria, XIII:i9 
 
- media, Phyllornis, IX:3o6 
+ media, Phyllornis, IX:306 
 
  media, Scolopax, II:275 
 
@@ -69246,7 +69246,7 @@ mecynorhyncha, Cinnyris, XII:237
 
  mediocris, Cinnyris, XII:255 
 
- mediocris. Halcyon, V:2o6 
+ mediocris. Halcyon, V:206 
 
  mediocris, Nectarinia, XII:255 
 
@@ -69485,7 +69485,7 @@ Megacrex, II:179
 
 
 
-megacyanea, Glauconympha, IX:3o8 
+megacyanea, Glauconympha, IX:308 
 
 
 
@@ -69612,7 +69612,7 @@ megarhynchus, Cymindis, 1:285
 
  megarhynchus, Melilestes, XII:340 
 
- megarhynchus, Monarcha, XI:5o6 
+ megarhynchus, Monarcha, XI:506 
 
  megarhynchus, Passerella, XIII:45 
 
@@ -69963,7 +69963,7 @@ Xn:397
 
  melanocephalus, Myioborus, XIV:57 
 
- melanocephalus, Pardalotus, XII:2o6 
+ melanocephalus, Pardalotus, XII:206 
 
  melanocephalus, Phasianus, II:i09 
 
@@ -70005,7 +70005,7 @@ Xin:2i9
 
  melanochlamys, Buthraupis, XIII:328 
 
- melanochlamys, Irena, IX:3o8 
+ melanochlamys, Irena, IX:308 
 
  melanochlamys, Urospizias, 1:333 
 
@@ -70086,7 +70086,7 @@ melanodera, Philedon, XII:384
 
  melanogaster, Cuculus, IV:48 
 
- melanogaster, Formicivora, VII:2o8 
+ melanogaster, Formicivora, VII:208 
 
  melanogaster, Hemipodius, II:148 
 
@@ -70405,7 +70405,7 @@ Vin:76
 
  Melanopica, XV:250 
 
- melanopis, Diglossa, XIII:4o8 
+ melanopis, Diglossa, XIII:408 
 
  melanopis, Schistochlamys, XIII:248 
 
@@ -71877,7 +71877,7 @@ meridionalis,
 
  merrilli, Zonotrichia, X1II:48 
 
- merrotsyi, Amytornis, XI:4o8 
+ merrotsyi, Amytornis, XI:408 
 
  mersi, Calcarius, XIII:38 
 
@@ -72018,7 +72018,7 @@ XIII:25i
 
  mesonatua, Phaethon, 1:156 
 
- mesophanis, Caprimulgus, IV:2o8 
+ mesophanis, Caprimulgus, IV:208 
 
  Mesophoyx, 1:205 
 
@@ -72327,7 +72327,7 @@ Vni:209
 
  meyeri, Euthyrhynchus, XII:339 
 
- meyeri. Halcyon, V:2o8 
+ meyeri. Halcyon, V:208 
 
  meyeri, Hermotimia, XII:239 
 
@@ -74512,7 +74512,7 @@ modesta, Muscipeta, Vllhip
 
  modestum, Dicaeum, XII:i76, 185 
 
- modestus, Amytornis, XI:4o6 
+ modestus, Amytornis, XI:406 
 
  modestus, Andropadus, IX:269 
 
@@ -75151,7 +75151,7 @@ montanella, Linota, XIV:254
 
  montanus, Dromaius, hio 
 
- montanus, Dryobates, Vl:2o8 
+ montanus, Dryobates, Vl:208 
 
  montanus, Junco, X1I1:65 
 
@@ -75181,7 +75181,7 @@ montanella, Linota, XIV:254
 
  montanus, Phyllastrephus, IX:265 
 
- montanus, Picus, VI:2o8 
+ montanus, Picus, VI:208 
 
  montanus, Pinicola, X1V:285 
 
@@ -75247,9 +75247,9 @@ monteiri, Laniarius, IX:340
 
  monticola, Cyanops, Vl:37 
 
- monticola, Dendrocopos, VI:2o8 
+ monticola, Dendrocopos, VI:208 
 
- monticola, Dryobates, Vl:2o8 
+ monticola, Dryobates, Vl:208 
 
  monticola, Geothlypis, XIV:48 
 
@@ -75269,7 +75269,7 @@ monteiri, Laniarius, IX:340
 
  monticola, Nesillas, XI:33 
 
- monticola, Newtonia, Xl:2o6 
+ monticola, Newtonia, Xl:206 
 
  monticola, Oenanthe, X:i30 
 
@@ -75307,7 +75307,7 @@ monteiri, Laniarius, IX:340
 
  Montifringilla, XV:26 
 
- montifringilla, Fringilla, XIV:2o6 
+ montifringilla, Fringilla, XIV:206 
 
  montigena, Ficedula, XI:347 
 
@@ -75478,11 +75478,11 @@ mergani, Acanthiza, XI:433
 
  meretensis, Lycecerax, XV:i84 
 
- meretensis, Menarcha, XI:5o8 
+ meretensis, Menarcha, XI:508 
 
  meretensis, Otus, IV:96 
 
- meretensis, Piezerhynchus, XI:5o8 
+ meretensis, Piezerhynchus, XI:508 
 
  meretensis, Seeps, IV:96 
 
@@ -75876,7 +75876,7 @@ VII:57
 
  Mundavis, XII:366 
 
- mundus, Monarcha, XI:5o8 
+ mundus, Monarcha, XI:508 
 
  mundus, Oriolus, XV:i30 
 
@@ -75926,7 +75926,7 @@ muniensis, Andropadus, IX:253
 
  munroi, Dysmorocirepanis, XIV: loi 
 
- mlinzneri, Campephaga, IX:2o6 
+ mlinzneri, Campephaga, IX:206 
 
  mlinzneri, Chlorophoneus, IX:335 
 
@@ -75936,7 +75936,7 @@ muniensis, Andropadus, IX:253
 
  mlinzneri, Phyllastrephus, IX:270 
 
- mupinensis, Turdus, X:2o6 
+ mupinensis, Turdus, X:206 
 
  murallae, Sporophila, XIII: 137 
 
@@ -76256,9 +76256,9 @@ III:i62
 
  myadestinus, Phaeornis, X:i63 
 
- myall, Amytornis, XI:4o6 
+ myall, Amytornis, XI:406 
 
- myall, Diaphorillas, XI:4o6 
+ myall, Diaphorillas, XI:406 
 
  Mycerobas, XIV: 302 
 
@@ -76415,7 +76415,7 @@ mysolensis, Aplonis, XV:8i
 
  mysorensis, Todopsis, XI:402 
 
- mysorensis, Zosterops, Xn:3o8 
+ mysorensis, Zosterops, Xn:308 
 
  mysoriensis, Geoffroyus, 1II:235 
 
@@ -76820,7 +76820,7 @@ nana, Grallaria, VII:259
 
  nannoides. Troglodytes, IX:427 
 
- Nannopsittaca, III:2o8 
+ Nannopsittaca, III:208 
 
  Nannopsittacus, III: 164 
 
@@ -77077,7 +77077,7 @@ narcissina, Ficedula, XI:338
 
  nataliae, Sphyrapicus, VI:i69 
 
- nataliae, Turdus, X:2o6 
+ nataliae, Turdus, X:206 
 
  natalicus, Turdus, X:i54 
 
@@ -77292,7 +77292,7 @@ VIII:8o, 81
 
  Nectarinia, XII:222 
 
- Nectariniidae, XII:2o8 
+ Nectariniidae, XII:208 
 
 
 
@@ -78043,7 +78043,7 @@ Neophloeotomus, VI:i5i
 
  Neopsittacus, 1II:162 
 
- Neorhopias, VII:2o6 
+ Neorhopias, VII:206 
 
  Neorhynchus, Xllhijs 
 
@@ -78091,7 +78091,7 @@ Neophloeotomus, VI:i5i
 
  Neoxolmis, VIII:i65 
 
- nepalensis, Caprimulgus, IV:2o6 
+ nepalensis, Caprimulgus, IV:206 
 
  nepalensis, Tichodroma, XII: 149 
 
@@ -78157,11 +78157,11 @@ nesiarchus, Copsychus, X:66
 
  nesiotis, Coracina, IX:i88 
 
- nesiotis, Gallinula, II:2o6 
+ nesiotis, Gallinula, II:206 
 
  nesiotis, Muscitrea, XII:i2 
 
- nesiotis, Porphyriornis, II:2o6 
+ nesiotis, Porphyriornis, II:206 
 
  nesiotis, Synallaxis, VII:85 
 
@@ -78438,7 +78438,7 @@ neumanni, Pycnonotus, IX:258
 
  newtoni, Zosterops, XII:334 
 
- Newtonia, XI:2o6 
+ Newtonia, XI:206 
 
 
 
@@ -78784,7 +78784,7 @@ nigra, Astrapia, XV:i92
 
 
 
-nigra, Campephaga, IX:2o6 
+nigra, Campephaga, IX:206 
 
 
 
@@ -79270,7 +79270,7 @@ nigriceps, Crypturus, 1:23
 
  nigricollis, Falco, 1:359 
 
- nigricollis, Formicivora, VII:2o6 
+ nigricollis, Formicivora, VII:206 
 
  nigricollis, Gracula, XV:iii 
 
@@ -79395,7 +79395,7 @@ nigrifrons, Pitta, Vni:329
 
  nigrifrons, Pyromelana, XV:68 
 
- nigrifrons, Rhipidura, XI:5o8 
+ nigrifrons, Rhipidura, XI:508 
 
  nigrifrons, Rhopocichla, X:3i8 
 
@@ -79539,7 +79539,7 @@ nigripennis, Oriolus, XV:i33
 
  nigristriatus, Rhopodytes, IV:52 
 
- Nigrita, XIV:3o8 
+ Nigrita, XIV:308 
 
  nigrita, Galerida, IX:64 
 
@@ -79788,7 +79788,7 @@ nigrolutea, Aegithina, !X:302
 
  nigrorum, Ptilocolpa, 1II:54 
 
- nigrorum, Stachyris, X:3o8 
+ nigrorum, Stachyris, X:308 
 
  nigrorum, Turdus, X:i94 
 
@@ -80638,7 +80638,7 @@ notosticta, Aimophila, Xllhioo
 
  novaeguineae, Paradisaea, XV:i99 
 
- novaeguineae, Philemon, XII:4o8 
+ novaeguineae, Philemon, XII:408 
 
  novaeguineae. Pitta, VIII:323 
 
@@ -80654,7 +80654,7 @@ XII:34i
 
 
 
-XII:4o8 
+XII:408 
 
  novaeguineae, Zosterops, XII:309 
 
@@ -80900,7 +80900,7 @@ XII:448
 
 
 
-nubicus, Capri mulgus, IV:2o6 
+nubicus, Capri mulgus, IV:206 
 
  nubicus, Lanius, IX:364 
 
@@ -80970,9 +80970,9 @@ nubicus, Capri mulgus, IV:2o6
 
  nudiceps, Myiothera, VII:227 
 
- nudicollis, Ampelis, VIII:3o6 
+ nudicollis, Ampelis, VIII:306 
 
- nudicollis, Procnias, VIII:3o6 
+ nudicollis, Procnias, VIII:306 
 
  nudicollis, Pternistis, II:86 
 
@@ -81294,13 +81294,13 @@ oahensis, Phaeornis, X:i63
 
 
 
-oaxacae, Thryothorus, IX:4o8 
+oaxacae, Thryothorus, IX:408 
 
  obbiensis, Calandrella, IX153 
 
  obbiensis, Spizocorys, IX:53 
 
- oberholseri, Caprimulgus, IV:2o8 
+ oberholseri, Caprimulgus, IV:208 
 
  oberholseri, Collocalia, IV:229 
 
@@ -81330,7 +81330,7 @@ oaxacae, Thryothorus, IX:4o8
 
  oberi. Icterus, XIV: 164 
 
- oberi, Myiarchus, VIII:2o6 
+ oberi, Myiarchus, VIII:206 
 
  oberi, Rhinoptynx, IV:i66 
 
@@ -81729,7 +81729,7 @@ obscuratus, Cacomantis, IV:25
 
  obscurior, Cinnyris, XII:245 
 
- obscurior, Diaphorillas, XI:4o6 
+ obscurior, Diaphorillas, XI:406 
 
  obscurior, Dryobates, VI:i99 
 
@@ -81743,7 +81743,7 @@ obscuratus, Cacomantis, IV:25
 
  obscurior, Melozone, XIII: 181 
 
- obscurior, Monarcha, XI:5o6 
+ obscurior, Monarcha, XI:506 
 
  obscurior, Myiozetetes, VIII:2i3 
 
@@ -82305,7 +82305,7 @@ Cyanecula, X:43
 
  Dysithamnus, VII:i86 
 
- Egretta, I:2o8 
+ Egretta, I:208 
 
  Empidonax, VIIl:i43 
 
@@ -82337,7 +82337,7 @@ Cyanecula, X:43
 
  Heteroscenes, IV:20 
 
- Hydranassa, l:2o8 
+ Hydranassa, l:208 
 
  Hypocnemis, VII:224 
 
@@ -82981,7 +82981,7 @@ Vhiso
 
  ochrascens, Sporophila, XIII: 138 
 
- ochreata, Fraseria, Xl:3o6 
+ ochreata, Fraseria, Xl:306 
 
  ochreata, Tephrodornis, XI:297 
 
@@ -83114,7 +83114,7 @@ ochrogaster, Estrilda, XIV:339
 
 
 
-ocreatus, Melaenornis, XI:3o6 
+ocreatus, Melaenornis, XI:306 
 
  ocreatus, Tephrodornis, XI:306 
 
@@ -83437,7 +83437,7 @@ olivacea, Abrornis, XI:250
 
 
 
-olivacea, Alcippe, X:4o6 
+olivacea, Alcippe, X:406 
 
 
 
@@ -83529,7 +83529,7 @@ olivacea, Nectarinia, XII:226
 
 
 
-olivacea, Newtonia, XI:2o6 
+olivacea, Newtonia, XI:206 
 
 
 
@@ -85081,9 +85081,9 @@ orinocensis, Prasitis, V:39
 
  Oriturus, XIII:i03 
 
- orius, Dendrocopos, VI:2o8 
+ orius, Dendrocopos, VI:208 
 
- orius, Dryobates, VI:2o8 
+ orius, Dryobates, VI:208 
 
  orix, Emberiza, XV:68 
 
@@ -85103,7 +85103,7 @@ orinocensis, Prasitis, V:39
 
  ornata, Formicivora, Vn:i94 
 
- ornata, Fringilla, XIlI:2o8 
+ ornata, Fringilla, XIlI:208 
 
  ornata, Halcyon, V:2ii 
 
@@ -85350,11 +85350,11 @@ osburni, Vireo, XIV:ii9
 
  osceola, Meleagris, II: 140 
 
- oscillans, Microeca, XI:3o8 
+ oscillans, Microeca, XI:308 
 
  oscillans, Oriolus, XV:i30 
 
- oscillans, Rhinomyias, XI:3o8 
+ oscillans, Rhinomyias, XI:308 
 
  Oscines, IX:3, X:3, XI:3, XII:3, 
 
@@ -85617,9 +85617,9 @@ oweni, Amytornis, XI:408
 
  oxyptera, Anas, 1:465 
 
- Oxyruncidae, VIII:3o8 
+ Oxyruncidae, VIII:308 
 
- Oxyruncus, VIII:3o8 
+ Oxyruncus, VIII:308 
 
  Oxyura, 1:501 
 
@@ -85810,7 +85810,7 @@ pacifica, Oncostoma, VIII:78
 
  pacificus, Mionectes, VIII:57 
 
- pacificus, Pareudiastes, ll:2o6 
+ pacificus, Pareudiastes, ll:206 
 
  pacificus, Perisoreus, XV:236 
 
@@ -86180,7 +86180,7 @@ pallescens, Cyanopica, XV:245
 
  palliatus, Pitangus, VIII:207 
 
- palliatus, Porphyrio, II:2o8 
+ palliatus, Porphyrio, II:208 
 
  palliatus, Psilorhinus, XV:226 
 
@@ -86264,9 +86264,9 @@ palliatus, Xiphorhynchus, Vn:39
 
  pallida, Dendrocitta, XV:246 
 
- pallida, Diglossa, XIII:4o6 
+ pallida, Diglossa, XIII:406 
 
- pallida, Diglossopis, XIII:4o6 
+ pallida, Diglossopis, XIII:406 
 
  pallida, Doleromya, V:59 
 
@@ -86547,7 +86547,7 @@ VIII:259
 
  pallidiceps, Muscisaxicola, VIII:i70 
 
- pallidiceps, Philemon, XII:4o8 
+ pallidiceps, Philemon, XII:408 
 
  pallidiceps, Phyllomyias, VIII:7 
 
@@ -87162,7 +87162,7 @@ palmeri, Calospiza, XIII:36o
 
  palmeri, Excalfactoria, II:96 
 
- palmeri, Halcyon, V:2o8 
+ palmeri, Halcyon, V:208 
 
  palmeri, Harporhynchus, IX1452 
 
@@ -87180,7 +87180,7 @@ palmeri, Calospiza, XIII:36o
 
  palmeri, Rhodacanthis, XIV:i02 
 
- palmeri, Sauropatis, V:2o8 
+ palmeri, Sauropatis, V:208 
 
  palmeri, Tangara, Xni:36o 
 
@@ -87489,13 +87489,13 @@ Panurinae, X:430
 
 
 
-panychlorus, Brotogerys, III:2o8 
+panychlorus, Brotogerys, III:208 
 
  Panychlora, V:36 
 
 
 
-panychlora, Nannopsittaca, III:2o8 
+panychlora, Nannopsittaca, III:208 
 
  Panyptila, IV:253 
 
@@ -87790,7 +87790,7 @@ VII: 176
 
  paraguenus, Tanygnathus, 1II:238 
 
- paralia, Cyanocitta, XV:2o8 
+ paralia, Cyanocitta, XV:208 
 
  paralios, Sturnella, XIV: 180 
 
@@ -87921,7 +87921,7 @@ paranesis, Amazona, 1II:223
 
  Parepthianura, XI:46i 
 
- Pareudiastes, Il:2o6 
+ Pareudiastes, Il:206 
 
  pariae, Basileuterus, X1V:73 
 
@@ -87957,7 +87957,7 @@ parisi, Parus, Xll:9i
 
  parkmanii. Troglodytes, IX:422 
 
- Parmoptila, XIV:3o8 
+ Parmoptila, XIV:308 
 
  parnaguae, Megaxenops, VII: 147 
 
@@ -88500,7 +88500,7 @@ patersonae, Anthreptes, XII:220
 
  pauciguttatus, Turdus, X:i86 
 
- paucimaculatus, Thryothorus, IX:4o6 
+ paucimaculatus, Thryothorus, IX:406 
 
  paula, Carduelis, XIV:24i 
 
@@ -89026,13 +89026,13 @@ pelewensis, Caloenas, III:i3'
 
  pelewensis, Erythrura, XIV:„ 
 
- pelewensis. Halcyon, V:2o6 
+ pelewensis. Halcyon, V:206 
 
  pelewensis, Ixobrychus, 1:240 
 
  pelewensis, Nyctiocorax, 1:231 
 
- pelewensis, Porphyrio, II:2o8 
+ pelewensis, Porphyrio, II:208 
 
  pelewensis, Ptilinopus, III:3i 
 
@@ -90145,7 +90145,7 @@ peruanum, Todirostrum, VIII:93
 
  peruviana, Metallura, V:i20 
 
- peruviana, Neorhopias, VII:2o8 
+ peruviana, Neorhopias, VII:208 
 
  peruviana, Nothoprocta, 1:40 
 
@@ -90534,7 +90534,7 @@ petronia, Petronia, XV:24
 
  Pezites, XIV: 176 
 
- Pezopetes, XIII:2o6 
+ Pezopetes, XIII:206 
 
  Pezophaps, III:io 
 
@@ -90880,7 +90880,7 @@ Phasianinae, II:58
 
  phelpsi, Grallaria, VII:263 
 
- phelpsi, Oxyruncus, VIlI:3o8 
+ phelpsi, Oxyruncus, VIlI:308 
 
  phelpsi, Tangara, XIII:369 
 
@@ -91394,17 +91394,17 @@ Pica, XV:250
 
  picaoides, Heterophasia, X:420 
 
- picata, Ardea, I:2o8 
+ picata, Ardea, I:208 
 
  picata, Columba, III: 137 
 
- picata, Egretta, I:2o8 
+ picata, Egretta, I:208 
 
  picata, Eudynamys, IV:38 
 
  picata, Gracula, XV:i59 
 
- picata, Herodias, I:2o8 
+ picata, Herodias, I:208 
 
  picata, Melanodryas, XI: 567 
 
@@ -92488,11 +92488,11 @@ pleoxantha, Arachnothera, XII:286
 
  plesseni, Ninox, IV:i38 
 
- plesseni, Philemon, XII:4o8 
+ plesseni, Philemon, XII:408 
 
  plesseni. Pitta, VIII:327 
 
- pleurostictus, Thryothorus, IX:4o8 
+ pleurostictus, Thryothorus, IX:408 
 
  plexa, Motacilla, IX:i33 
 
@@ -92659,7 +92659,7 @@ plumbeicollis, Ptilopus, 1II:39
 
  plumbeus, Todus, X:453 
 
- plumbeus, Turdus, X:2o8 
+ plumbeus, Turdus, X:208 
 
  plumbeus, Vireo, XIV:ii9 
 
@@ -93203,7 +93203,7 @@ polaris, Emberiza, XI1I:30
 
  poliocephalus, Dulus, X1I1:278 
 
- poliocephalus, Gallinula, lI:2o8 
+ poliocephalus, Gallinula, lI:208 
 
  poliocephalus, Garrulax, X:4i5 
 
@@ -93225,7 +93225,7 @@ polaris, Emberiza, XI1I:30
 
  poliocephalus, Poliocephalus, 1:148 
 
- poliocephalus, Porphyrio, II:2o8 
+ poliocephalus, Porphyrio, II:208 
 
 
 
@@ -93350,9 +93350,9 @@ polioparea, Alethe, X:259
 
  poliophrys, Alethe, X:62 
 
- poliophrys, Atlapetes, XIII:2o6 
+ poliophrys, Atlapetes, XIII:206 
 
- poliophrys, Buarremon, XIII:2o6 
+ poliophrys, Buarremon, XIII:206 
 
  poliophrys, Synallaxis, VII:8i 
 
@@ -93404,7 +93404,7 @@ poliopleura, Emberiza, XIII:24
 
  poliosoma, Pachycephalopsis, XI:58; 
 
- Poliospiza, XIV:2o8 
+ Poliospiza, XIV:208 
 
  poliothorax, Alethe, X:26i 
 
@@ -93806,7 +93806,7 @@ XV:97
 
  Porphyrospiza, XIII:238 
 
- Porphyrula, II:2o6 
+ Porphyrula, II:206 
 
  porteri, Heteroscelus, II:270 
 
@@ -94188,7 +94188,7 @@ pretrei, Tanagra, XIII:3i7
 
  pretrei, Trochilus, V:i2 
 
- preussi, Campephaga, IX:2o6 
+ preussi, Campephaga, IX:206 
 
  preussi, Cinnyris, XII:256 
 
@@ -94218,7 +94218,7 @@ pretrei, Tanagra, XIII:3i7
 
  prevostii, Trochilus, V:24 
 
- pridii, Chloropsis, IX:3o6 
+ pridii, Chloropsis, IX:306 
 
  priesti, Bradypterus, XI:23 
 
@@ -94565,7 +94565,7 @@ propinquatus, Plocepasser, XV:5
 
  prosphera, Eremomela, XI:202 
 
- prosphora, Fraseria, XI:3o6 
+ prosphora, Fraseria, XI:306 
 
  Prosphorocichla, IX:263 
 
@@ -94859,7 +94859,7 @@ Pseudocolaptes, VII: 119
 
  Pseudogyps, 1:305 
 
- pseudohodgsoni, Turdus, X:2o8 
+ pseudohodgsoni, Turdus, X:208 
 
  Pseudohomophania, V:99 
 
@@ -95855,7 +95855,7 @@ VII: 1 86
 
  purnelli, Amytornis, XI:406 
 
- purnelli, Diaphorillas, XI:4o6 
+ purnelli, Diaphorillas, XI:406 
 
  Purnellornis, XII:426 
 
@@ -95903,11 +95903,11 @@ XIII:39i
 
  purpurata, Osculatia, III:i28 
 
- purpurata, Psittacus, III:2o8 
+ purpurata, Psittacus, III:208 
 
  purpurata, Querula, VIII:302 
 
- purpurata, Touit, III:2o8 
+ purpurata, Touit, III:208 
 
  purpuratus, Cyclopsittacus, III:i64 
 
@@ -96730,13 +96730,13 @@ XI:354
 
  pyrrhops, Stachyris, X:305 
 
- pyrrhoptera, Alcippe, X:4o8 
+ pyrrhoptera, Alcippe, X:408 
 
  pyrrhoptera, Callene, X:257 
 
  pyrrhoptera, Certhia, XII:426 
 
- pyrrhoptera, Napothera, X:4o8 
+ pyrrhoptera, Napothera, X:408 
 
 
 
@@ -96758,7 +96758,7 @@ pyrrhoptera, Phylidonyris, XII:426
 
  pyrrhopterus, Myiobius, VlII:i24 
 
- pyrrhopterus, Psittacus, III:2o6 
+ pyrrhopterus, Psittacus, III:206 
 
  pyrrhopygia, Acanthiza, XI:430, 
 
@@ -97094,7 +97094,7 @@ quindio, Turdus, X:2io
 
  quiscala, Gracula, XIV:i87 
 
- quiscalina, Campephaga, IX:2o6 
+ quiscalina, Campephaga, IX:206 
 
  Quiscalus, XIV:i87, 190 
 
@@ -97490,7 +97490,7 @@ rara, Lampribis, l:26i
 
  raveni, Pachycephala, XII:9 
 
- ravida, Mimocichla, X:2o8 
+ ravida, Mimocichla, X:208 
 
  ravida, Stachyris, X:309 
 
@@ -97498,7 +97498,7 @@ rara, Lampribis, l:26i
 
  ravidus, Parus, Xlhioi 
 
- ravidus, Turdus, X:2o8 
+ ravidus, Turdus, X:208 
 
  ravus, Acrocephalus, XI:72 
 
@@ -97735,13 +97735,13 @@ regius, Phloeoceastes, VI:228
 
  reichenbachi, Veniliornis, VI:i7i 
 
- reichenbachii. Halcyon, V:2o6 
+ reichenbachii. Halcyon, V:206 
 
  reichenbachii, Leptoptila, IIl:i27 
 
  reichenbachii, Leptotila, III: 127 
 
- reichenbachii, Todirhamphus, V:2o6 
+ reichenbachii, Todirhamphus, V:206 
 
  reichenovi, Corethrura, II:196 
 
@@ -98026,7 +98026,7 @@ reidi, Emberiza, Xlllrig
 
  reiseri, Sittasomus, VII:22 
 
- reiseri, Turdus, X:2o6 
+ reiseri, Turdus, X:206 
 
  relicta, Amaurospiza, XIII:i50 
 
@@ -98199,7 +98199,7 @@ IX:385
 
  restrictus. Icterus, XIV:i57 
 
- restrictus, Pardalotus, XlI:2o8 
+ restrictus, Pardalotus, XlI:208 
 
  restrictus, Parus, XII:8o 
 
@@ -98631,9 +98631,9 @@ Rhynchotus, 1:35
 
  richardsi, Pachycephala, XII:3i 
 
- richardsii, Monarcha, XI:5o6 
+ richardsii, Monarcha, XI:506 
 
- richardsii, Piezorhynchus, XI:5o6 
+ richardsii, Piezorhynchus, XI:506 
 
  richardsii, Ptilinopus, 1II:31 
 
@@ -99402,7 +99402,7 @@ roebucki, Colluricincla, XII:42
 
  rogersi, Owenavis, IV:28 
 
- rogersi, Pardalotus, XII:2o6 
+ rogersi, Pardalotus, XII:206 
 
  rogersi, Petrochelidon, IX: 119 
 
@@ -99708,9 +99708,9 @@ roseipileum, Ptilinopus, 1II:28
 
  roseogrisea, Streptopelia, 1II:92 
 
- roseogularis, Piranga, Xin:3o6 
+ roseogularis, Piranga, Xin:306 
 
- roseogularis, Pyranga, XIII:3o6 
+ roseogularis, Pyranga, XIII:306 
 
  roseotincta, Phaethon, 1:157 
 
@@ -99887,7 +99887,7 @@ rostrata, Streptopelia, Illrgi
 
  rostratus, Geothlypis, XIV:43 
 
- rostratus, Gymnorhinus, XV:2o6 
+ rostratus, Gymnorhinus, XV:206 
 
  rostratus, Hypsipetes, IX:296 
 
@@ -100475,7 +100475,7 @@ Rubigula, IX:223
 
  rubra, Foudia, XV:63 
 
- rubra, Fringilla, XIII:3o6 
+ rubra, Fringilla, XIII:306 
 
  rubra, Habia, XIII:297 
 
@@ -100592,9 +100592,9 @@ rubricauda, Trochilus, V:86
 
  rubrifrons, Muscicapa, XIV:5i 
 
- rubrifrons, Parmoptila, XIV:3o8 
+ rubrifrons, Parmoptila, XIV:308 
 
- rubrifrons, Pholidornis, XIV:3o8 
+ rubrifrons, Pholidornis, XIV:308 
 
  rubrifrons, Picus, VI: 167 
 
@@ -100853,7 +100853,7 @@ rufa, Alectoris, II:66
 
 
 
-rufa, Amytornis, XI:4o8 
+rufa, Amytornis, XI:408 
 
 
 
@@ -100901,7 +100901,7 @@ rufa, Drymoica, XI:ii3
 
 
 
-rufa, Formicivora, VII:2o8 
+rufa, Formicivora, VII:208 
 
 
 
@@ -100949,7 +100949,7 @@ rufa, Muscipeta, XI:489
 
 
 
-rufa, Myiothera, VII:2o8 
+rufa, Myiothera, VII:208 
 
 
 
@@ -101441,7 +101441,7 @@ ruficeps, Pomatorhinus, X:282
 
  ruficollis, Corvus, XV:278 
 
- ruficollis, Egretta, I:2o8 
+ ruficollis, Egretta, I:208 
 
  ruficollis, Erolia, II:282 
 
@@ -101701,7 +101701,7 @@ rufigula, Turdus, VII:247
 
  rufigularis, Glyphorynchus, VII:23 
 
- rufigularis, Halcyon, V:2o6 
+ rufigularis, Halcyon, V:206 
 
  rufigularis, Hemitriccus, V!n:86 
 
@@ -101871,7 +101871,7 @@ rufinus, Empidonomus, VIII:220
 
  rufipennis, Poliornis, 1:350 
 
- rufipennis, Saurophagus, VIII:2o8 
+ rufipennis, Saurophagus, VIII:208 
 
  rufipennis. Scops, IV:92 
 
@@ -102764,7 +102764,7 @@ saani, Erpornis, X:427
 
  sacerdotis, Ceyx, V:i8o 
 
- sacerdotum, Monarcha, XI:5o8 
+ sacerdotum, Monarcha, XI:508 
 
  saceroides, Gennaia, 1:419 
 
@@ -103527,7 +103527,7 @@ XI:499
 
  sanctaeluciae, Myadestes, X:92 
 
- sanctaeluciae, Myiarchus, VIII:2o6 
+ sanctaeluciae, Myiarchus, VIII:206 
 
  sanctae-luciae, Ramphocinclus, 
 
@@ -104152,7 +104152,7 @@ Dendrocincla, VII: 16 saturatior,
 
 
 
-Diglossa, XIII:4o6 saturatior, 
+Diglossa, XIII:406 saturatior, 
 
 
 
@@ -104264,7 +104264,7 @@ Rhipidura, XI:543 saturatior,
 
 
 
-Rupicola, VIII:3o8 saturatior, 
+Rupicola, VIII:308 saturatior, 
 
 
 
@@ -104996,7 +104996,7 @@ schach, Lanius, IX:349
 
  schillingsi, Ploceus, XV:42 
 
- schillmolleri, Caprimulgus, lV:2o8 
+ schillmolleri, Caprimulgus, lV:208 
 
  schimperi, Columba, 1II:59 
 
@@ -105165,7 +105165,7 @@ schistochlamys, Garrulax, X:350
 
  schlegeli, Philepitta, VIII:330 
 
- schlegeli, Platysmurus, XV:2o6 
+ schlegeli, Platysmurus, XV:206 
 
  schlegeli, Pytelia, XIV:3i6 
 
@@ -105737,7 +105737,7 @@ Agelaeus, XIV:i47
 
  Monticola, X:i36 
 
- Myiarchus, VIII:2o6 
+ Myiarchus, VIII:206 
 
  Myrmotherula, VII:i89 
 
@@ -105950,9 +105950,9 @@ scoresbii, Gabianus, II:313
 
  scratchleyana, Munia, XIV:383 
 
- scrippsae, Dendrocopos, VI:2o8 
+ scrippsae, Dendrocopos, VI:208 
 
- scrippsae, Dryobates, VI:2o8 
+ scrippsae, Dryobates, VI:208 
 
  scripta, Columba, III:ii9 
 
@@ -106149,7 +106149,7 @@ IX:4i7
 
  seistanica, Calandrella, IX:50 
 
- seistanicus, Porphyrio, II:2o8 
+ seistanicus, Porphyrio, II:208 
 
  Seisura, XI:5i6 
 
@@ -107044,7 +107044,7 @@ IV:i98
 
  Serinops, XIV:209 
 
- Serinus, XIV:2o8 
+ Serinus, XIV:208 
 
  serinus, Criniger, IX:259 
 
@@ -107071,9 +107071,9 @@ seri-thai, Chloropsis, IX1304
 
  serrana, Ara, III:i83 
 
- serrana, Formicivora, VII:2o8 
+ serrana, Formicivora, VII:208 
 
- serrana, Neorhopias, VII:2o8 
+ serrana, Neorhopias, VII:208 
 
  serrana, Upucerthia, VII:63 
 
@@ -108143,7 +108143,7 @@ similis, Telophorus, IX:334
 
  simonsi, Atlapetes, XIII:i97 
 
- simonsi, Attagis, II:3o6 
+ simonsi, Attagis, II:306 
 
  simonsi, Buarremon, Xni:i97 
 
@@ -108378,7 +108378,7 @@ simplex, Zosterops, XII:293
 
  simplicior, Anthreptes, XII:2ii 
 
- simplicior, Caprimulgus, IV:2o6 
+ simplicior, Caprimulgus, IV:206 
 
 
 
@@ -109071,7 +109071,7 @@ sokokensis, Anthus, IX: 166
 
  solitaria, Agriornis, VIII:i65 
 
- solitaria, Alcippe, X:4o8 
+ solitaria, Alcippe, X:408 
 
  solitaria, Capella, II:274 
 
@@ -109807,7 +109807,7 @@ sowerbyi, Turdus, X:i9i
 
 speciosa, Compsothlypis, XIV: 12 
 
- speciosa, Dasycrotapna, X:3o8 
+ speciosa, Dasycrotapna, X:308 
 
  speciosa, Geothlypis, XIV:43 
 
@@ -109821,7 +109821,7 @@ speciosa, Compsothlypis, XIV: 12
 
  speciosa, Penelope, II: 15 
 
- speciosa, Stachyris, X:3o8 
+ speciosa, Stachyris, X:308 
 
  speciosa, Sylvia, XIV:82 
 
@@ -110640,7 +110640,7 @@ squamosus, Heliomaster, V:i30
 
  stalkeri, Tephrozosterops, XII:32i 
 
- stalkeri, Zosterops, XII:3o6 
+ stalkeri, Zosterops, XII:306 
 
  stampflii, Sylvietta, XI:207 
 
@@ -110906,9 +110906,9 @@ stellata, Ceryle, V:i66
 
  stelleri, Anas, 1:490 
 
- stelleri, Corvus, XV:2o8 
+ stelleri, Corvus, XV:208 
 
- stelleri, Cyanocitta, XV:2o8 
+ stelleri, Cyanocitta, XV:208 
 
  stelleri, Polysticta, 1:490 
 
@@ -111372,7 +111372,7 @@ Xni:283
 
  stolzmanni, Tyranneutes, VIII:255 
 
- stolzmanni, Urothraupis, Xin:2o8 
+ stolzmanni, Urothraupis, Xin:208 
 
  Stomiopara, XII:365 
 
@@ -111657,7 +111657,7 @@ stresemanni, Melilestes, XII:340
 
 
 
-stresemanni, Microeca, XI:3o8 
+stresemanni, Microeca, XI:308 
 
 
 
@@ -111711,7 +111711,7 @@ XII:323
 
  stresemanni, Pyrrhocorax, XV:26o 
 
- stresemanni, Rhinomyias, XI:3o8 
+ stresemanni, Rhinomyias, XI:308 
 
  stresemanni, Sauropatis, V:2io 
 
@@ -111797,7 +111797,7 @@ XII:323
 
  striata, Sittella, XII:i4y 
 
- striata, Stachyris, X:3o8 
+ striata, Stachyris, X:308 
 
  striata. Sterna, II:335 
 
@@ -111932,7 +111932,7 @@ striatipictus, Saltator, XIII:236
 
  striatus, Accipiter, 1:343 
 
- striatus, Amytornis, XI:4o8 
+ striatus, Amytornis, XI:408 
 
  striatus, Anachilus, VII:i27 
 
@@ -111950,7 +111950,7 @@ striatipictus, Saltator, XIII:236
 
  striatus, Crateropus, X:339 
 
- striatus, Dasyornis, XI:4o8 
+ striatus, Dasyornis, XI:408 
 
  striatus, Dendrortyx, II:42 
 
@@ -111994,7 +111994,7 @@ striatipictus, Saltator, XIII:236
 
  striatus, Turdoides, X:337, 339 
 
- striatus, Zosterornis, X:3o8 
+ striatus, Zosterornis, X:308 
 
  stricklandi, Brachypternus, VI:226 
 
@@ -112205,7 +112205,7 @@ struthiunculus, Choriotis, II:220
 
  stschur, Pinicola, XIV:284 
 
- St. thoma, Brotogeris, III:2o8 
+ St. thoma, Brotogeris, III:208 
 
  St. thoma, Psittacus, 1II:208 
 
@@ -112404,7 +112404,7 @@ suahelica, Riparia, IX:ioo
 
  subaffinis, Ortalis, II:18 
 
- subaffinis, Pardalotus, XII:2o6 
+ subaffinis, Pardalotus, XII:206 
 
  subaffinis, Phylloscopus, XI:235 
 
@@ -112597,7 +112597,7 @@ XI:369
 
 XII:324 
 
- subcuneolata, Fringilla, XIV:2o6 
+ subcuneolata, Fringilla, XIV:206 
 
  subcyanea, Poecilodryas, XI:579 
 
@@ -112963,7 +112963,7 @@ X:372
 
  substriatus, Oriolus, XV: 123 
 
- substriatus, Pardalotus, XII:2o6 
+ substriatus, Pardalotus, XII:206 
 
  substriolata, Lillia, IX: 11 5, 117 
 
@@ -113184,7 +113184,7 @@ sudestensis, Eopsaltria, XlhiS
 
  sulaensis, Turacoena, 1II:75 
 
- sulaensis, Zosterops, XII:3o6 
+ sulaensis, Zosterops, XII:306 
 
  sulana, Ducula, 1II:48 
 
@@ -113244,7 +113244,7 @@ sulphurascens, Automolus, VII:i34
 
  sulphuratus, Cuculus, IX:205 
 
- sulphuratus, Lanius, VIII:2o8 
+ sulphuratus, Lanius, VIII:208 
 
  sulphuratus, Pitangus, Vllhaoy 
 
@@ -113983,7 +113983,7 @@ superflua, Lophochroa, III:i76
 
  surda, Touit, III:209 
 
- surda, Zosterops, XII:3o6 
+ surda, Zosterops, XII:306 
 
  surdus, Anthoscenus, V:i29 
 
@@ -114903,7 +114903,7 @@ taivana, Sitta, XII:i3i
 
  takahashii, Periparus, XII:94 
 
- takatsukasae, Brotogeris, III:2o8 
+ takatsukasae, Brotogeris, III:208 
 
  takatsukasae, Monarcha, XI:5i3 
 
@@ -115080,7 +115080,7 @@ tando, Nicator, IX:275
 
  tando, Serinus, XIV:2i9 
 
- tando, Sylvietta, Xl:2o8 
+ tando, Sylvietta, Xl:208 
 
  tanensis, Erithacus, X:39 
 
@@ -115231,7 +115231,7 @@ Taphrolesbia, V:i23
 
  tardiusculus, Megarynchus, Vin:209 
 
- tardus, Rhinomyias, XI:3o8 
+ tardus, Rhinomyias, XI:308 
 
  tardus, Xiphorhynchus, VII:44 
 
@@ -115470,7 +115470,7 @@ taviunensis, Platycercus, III:250
 
  teesa. Circus, 1:350 
 
- tegimae, Pericrocotus, IX:2o8 
+ tegimae, Pericrocotus, IX:208 
 
  tehminae, Brachypternus, VI:i44 
 
@@ -116051,9 +116051,9 @@ ternatanus, Zosterops, XII:300
 
  Terpsiphone, XI:478 
 
- terraenovae, Dendrocopos, VI:2o6 
+ terraenovae, Dendrocopos, VI:206 
 
- terraenovae, Dryobates, VI:2o6 
+ terraenovae, Dryobates, VI:206 
 
  terrae-reginae, Collocalia, IV:228 
 
@@ -116119,7 +116119,7 @@ ternatanus, Zosterops, XII:300
 
  Territornis, XII:366 
 
- Tersina, XIIl:4o8 
+ Tersina, XIIl:408 
 
  Tersininae, XIII:408 
 
@@ -116286,7 +116286,7 @@ texana, Aimophila, XIII:95
 
  textrix, Sylvia, XI:i20 
 
- teydea, Fringilla, XIV:2o6 
+ teydea, Fringilla, XIV:206 
 
  teysmanni, Cinnyris, Xn:246 
 
@@ -116420,7 +116420,7 @@ Thamnocharis, VII:262
 
  Thelazomenus, IV:28 
 
- theliei, Campephaga, IX:2o6 
+ theliei, Campephaga, IX:206 
 
  theliei, Chlorophoneus, IX:336 
 
@@ -116774,7 +116774,7 @@ cus, Pteroptochus, VII:28o
 
 
 
-thoracicus, Thryothorus, IX:4o8 
+thoracicus, Thryothorus, IX:408 
 
  thoracicus, Xipnorhynchus, VII:55 
 
@@ -117224,7 +117224,7 @@ tinnunculus, Celeus, VI:i28
 
  tiphia, Motacilla, IX:30i 
 
- tirica, Brotogeris, III:2o6 
+ tirica, Brotogeris, III:206 
 
  tirica, Psittacus, 1II:206 
 
@@ -117411,7 +117411,7 @@ tocantinsi, Oxyruncus, Vni:309
 
 
 
-5o8 
+508 
 
 
 
@@ -117640,7 +117640,7 @@ torquata, Alcedo, V:i66
 
  torquata, Emberiza, XIII:i2i 
 
- torquata, Embernagra, XIII:2o6 
+ torquata, Embernagra, XIII:206 
 
  torquata, Garrula, XV: 117 
 
@@ -117983,7 +117983,7 @@ Vll:i58
 
 Xl:24i 
 
- transcaepius, Fringilla, XIV:2o6 
+ transcaepius, Fringilla, XIV:206 
 
  transcaspica, Aedon, X:23 
 
@@ -118003,7 +118003,7 @@ Xl:24i
 
  transcaspius, Podoces, XV:255 
 
- transcaspius, Turdus, X:2o8 
+ transcaspius, Turdus, X:208 
 
  transcaucasia, Philomela, X:4i 
 
@@ -118510,7 +118510,7 @@ tringorum, Halcyon, V:204
 
  trinitatis, Piculus, VI:ii2 
 
- trinitatis, Pitangus, VIII:2o8 
+ trinitatis, Pitangus, VIII:208 
 
  trinitatis, Pulsatrix, IV:i24 
 
@@ -118652,7 +118652,7 @@ XV:89
 
  trivirgatus, Megisturus, XII:56 
 
- trivirgatus, Monarcha, XI:5o8 
+ trivirgatus, Monarcha, XI:508 
 
  trivirgatus, Parus, XII:56 
 
@@ -119123,7 +119123,7 @@ X:i42
 
 
 
-turcosa, Irena, IX:3o8 
+turcosa, Irena, IX:308 
 
  turcosa, Niltava, XI:368 
 
@@ -119279,11 +119279,11 @@ turonensis, Emberiza, XIII:3i
 
  tutuilae. Halcyon, V:2i3 
 
- tweeddalei, Irena, IX:3o8 
+ tweeddalei, Irena, IX:308 
 
  tweeddalei, Megalurus, XI:38 
 
- tweeddalii, Irena, IX:3o8 
+ tweeddalii, Irena, IX:308 
 
  tweedi, Atrichornis, VIII:335 
 
@@ -119603,9 +119603,9 @@ uellensis, Cinnyris, XII:258
 
  ugandensis, Hypargus, X1V:322 
 
- ugiensis, Monarcha, Xl:5o6 
+ ugiensis, Monarcha, Xl:506 
 
- ugiensis, Pomarea, Xl:5o6 
+ ugiensis, Pomarea, Xl:506 
 
  ugiensis, Rhipidura, XI:55i 
 
@@ -119665,7 +119665,7 @@ uintaensis, Sitta, Xll:i38
 
  ultima, Telespiza, XlV:i02 
 
- ultima, Zosterops, Xn:3o8 
+ ultima, Zosterops, Xn:308 
 
  ultimus, Phrygilus, Xlll:i07 
 
@@ -120246,7 +120246,7 @@ Urochroa, V:94
 
 
 
-Urochroma, III:2o8 
+Urochroma, III:208 
 
 
 
@@ -120574,7 +120574,7 @@ urostictus, Pycnonotus, IX:243
 
 
 
-Urothraupis, XIII:2o8 
+Urothraupis, XIII:208 
 
 
 
@@ -120617,7 +120617,7 @@ ursuiae, iNeccarinia, aii:225
 
  urubambae, Elaenia, VIII:29 
 
- urubambae, Formicivora, VII:2o8 
+ urubambae, Formicivora, VII:208 
 
  urubambae, Hemispingus, XIII:265 
 
@@ -121318,7 +121318,7 @@ Xn:440
 
  vauriei, Parus,, XII:i07 
 
- Vauriella, XI:3o8 
+ Vauriella, XI:308 
 
  vauxi, Chaetura, IV:236 
 
@@ -121404,7 +121404,7 @@ velatus, Enicurus, X:86
 
  venezuelae, Myrmeciza, VII:235 
 
- venezuelae, Piranga, XIII:3o8 
+ venezuelae, Piranga, XIII:308 
 
  venezuelae, Zonotrichia, XIII:55 
 
@@ -121890,7 +121890,7 @@ verreauxii, Aquila, 1:382
 
 
 
-:2o6 
+:206 
 
 
 
@@ -121899,7 +121899,7 @@ verreauxii, Aquila, 1:382
 
 
 
-versicolurus, Psittacus, III:2o6 
+versicolurus, Psittacus, III:206 
 
  versigularis, Chalcostigma, V:i2i 
 
@@ -122278,13 +122278,13 @@ vieillotti, Pyrrhula, XIV:297
 
  villosa, Sitta, XII:i37 
 
- villosus, Dendrocopos, VI:2o6 
+ villosus, Dendrocopos, VI:206 
 
  villosus, Myiobius, VIII:ii6 
 
  villosus, Phaethornis, V:ii 
 
- villosus, Picus, VI:2o6 
+ villosus, Picus, VI:206 
 
  vina, Columba, 1II:66 
 
@@ -122314,9 +122314,9 @@ vieillotti, Pyrrhula, XIV:297
 
 IV:2i2 
 
- vinaceigula, Egretta, I:2o8 
+ vinaceigula, Egretta, I:208 
 
- vinaceigula, Melanophoyx, I:2o8 
+ vinaceigula, Melanophoyx, I:208 
 
 
 
@@ -122578,7 +122578,7 @@ virens, Sylvietta, XI:207
 
  virescens, Aulacorhynchus, Vhyi 
 
- virescens, Brotogerys, III:2o6 
+ virescens, Brotogerys, III:206 
 
  virescens, Cacomantis, IV:24 
 
@@ -124033,7 +124033,7 @@ weddellii, Aratinga, III:i88
 
  weigoldi, Ptilocorys, IX:56 
 
- weigoldi, Schoeniparus, X:4o6 
+ weigoldi, Schoeniparus, X:406 
 
  weigoldi, Troglodytes, IX:42i 
 
@@ -124153,7 +124153,7 @@ wertheri, Pyromelana, XV:68
 
  westraliensis, Myzomela, XII:364 
 
- westraliensis, Pardalotus, XII:2o6 
+ westraliensis, Pardalotus, XII:206 
 
  westralis, Diomedea, 1:52 
 
@@ -124346,7 +124346,7 @@ Calyptomena, Vlhis
 
  Spizaetus, 1:387 
 
- Stachyris, X:3o8 
+ Stachyris, X:308 
 
  Syrnium, IV:i57 
 
@@ -124364,11 +124364,11 @@ whiteheadi, Urocissa, XV:242
 
  whiteheadi, Zosterops, XI1:300 
 
- whiteheadi, Zosterornis, X:3o8 
+ whiteheadi, Zosterornis, X:308 
 
  whitei, Acanthiza, XI:44i, 442 
 
- whitei, Amytornis, XI:4o8 
+ whitei, Amytornis, XI:408 
 
  whitei, Apalis, XI:i56 
 
@@ -125099,7 +125099,7 @@ Woodfordia, XIIijiq
 
  woodfordii, Noctua, IV: 156 
 
- woodhousei, Parmoptila, XIV:3o8 
+ woodhousei, Parmoptila, XIV:308 
 
  woodhouseii, Aphelocoma, XV:2i2 
 
@@ -126185,7 +126185,7 @@ Aprosmictus, 1II:248
 
  Bruchigavia, II:322 
 
- Caprimulgus, IV:2o8 
+ Caprimulgus, IV:208 
 
  Certhionyx, Xn:434 
 
@@ -127296,7 +127296,7 @@ Cathartidae, 1:274
 
  Eroliinae, II:28o 
 
- Estrildidae, XIV:3o6 
+ Estrildidae, XIV:306 
 
 
 
@@ -127433,7 +127433,7 @@ XI:295
 
  Musophagidae, IV:3 
 
- Nectariniidae, XII:2o8 
+ Nectariniidae, XII:208 
 
  Neodrepanidinae, VIII:330 
 
@@ -127457,7 +127457,7 @@ XI:295
 
  Otidae, II:217 
 
- Oxyruncidae, VIII:3o8 
+ Oxyruncidae, VIII:308 
 
  Oxyurinae, 1:500 
 
@@ -127637,7 +127637,7 @@ Steatornithidae, IV:i74
 
  Tadorninae, 1:446 
 
- Tersininae, XIlI:4o8 
+ Tersininae, XIlI:408 
 
  Tetraonidae, II:24 
 
