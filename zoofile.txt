@@ -1,0 +1,105 @@
+2021.11.21. INITIAL start -- vers. 0.01
+
+Files, directories, processes.
+
+Processes library.`
+
+Zoonomen directories.
+Root contains mostly front page html for website.
+./avtax
+
+	see below.
+./bio
+./cite
+
+./bio
+	contains an alphabetical listing of taxon author
+	data and associated data (and contains question as well).
+
+./cit [from "citation"]
+
+	contains a alphabetical list of files "jour[a-z].html"
+
+	The main subdivisions include:
+
+		AMNH/ = Amer.Mus.Nat.Hist. pubs.
+		AOUCL/ = AOUCL's
+		BNMA/ = Birds of North and Middle America OCR versions. 
+		CBA/ = Catalogue of Birds of the Americas OCR versions.
+		CBBM/ = Cat.BirdsBrit.Mus. OCR versions.
+		CWR/ = subdirectory containing many subdirectories
+				of Richmond associated files and images.
+		Dates of Publication/ = Copr of jpgs or Richmonds
+				Card index on dates of publication.
+		Peters/ = OCR copies of Peters Birds of the world.
+		RI/ = many subdirectories of Richmond Index files and images.
+		SharpHL/ = OCR version of Sharpe's HandList.
+		Sundevall/
+		SystAvAust/
+		SystAvNeot/
+		Types/
+		bak/
+		image/
+		sb/
+		src/ = sources (various)
+		ss/ = spreadsheet (Excel) versions of a number of important
+				works.
+
+
+Zoonomen files: naming, organization, use.
+
+1. All files are ascii text files. HTML.
+	I have not kept them up to date with the html
+	conventions as these continuously change.
+	The initial HTML versions of these files
+	were written in the mid 1990's.
+
+2. Taxonomic files.
+	
+	Naming convention:
+
+	These "base files consist of files RESTRICTED to html files
+	with FOUR character lower case alphanumeric prefix. 
+	thus "stru.html"
+
+	These files are the individual entities that are the edited entities.
+	Date and version information is maintained in each file.
+	In my directory /zoonomen/avtax they are the ONLY files
+	with ????.html names allowed.
+
+		[Note: If I were to start over I expect I would have used
+		??????.html or possibly even 8 charactes to allow more
+		intuitive readability of the contents. The files
+		necessarily require frequent re-shuffling of the overall 
+		sequence as
+
+	These ????.html files contain subspecies listing that are tab indented.
+	Thus species records begin with '^<li>'
+	subspecies records begin with '^	<li>'
+
+	ORDERS are enclosed in <h1>...</h1>
+	The vulgar name for orders are enclosed in <h3>...</h3>.
+
+	GENERA are enclosed with '<h4 id="Name"> ....</h4>
+
+	For Non-passerines the individual files contain an ORDER,
+	and the contents are usually identifiable my the file name.
+
+	If this were done for Passerines the result would be a single
+	VERY large file, and rearrangement would require editing
+	the entire file.
+
+	Therefore, passeriformes is split into individual files
+	containing Families.
+
+	The file naming convention here is the file name starts wit "pa"
+	and has two additional subsequent alphanumeric characters.
+	The resulting file names are not intuitively recognizable as to the
+	included family.
+
+	These family "component files" all contain subspecies.
+	A file of passeriformes with listing ONLY down to species level
+	is created from these files.
+
+
+	https://www.process.st/file-naming-conventions/
