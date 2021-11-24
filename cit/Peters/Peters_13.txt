@@ -51566,7 +51566,7 @@ faceta, Piranga, 304
 
 fanny, Tangara, 382 
 
- fargoi, Coryphospingus 2i2 
+ fargoi, Coryphospingus 212 
 
  fasciata, Neothraupis, 249 
 
