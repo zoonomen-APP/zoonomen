@@ -1,8 +1,36 @@
-2021.11.21. INITIAL start -- vers. 0.01
+2021.11.24. INITIAL start -- vers. 0.01.
 
-Files, directories, processes.
+INTRODUCTION.
 
-Processes library.`
+NOTE: am currently writing this in fits and starts and MOSTLY for myself
+trying to have a description of what I do and how and sometimes why I do it.
+
+I am NOT particularly computer savvy, and have figured out almost all of this
+on my own. I am a spectacularly incompetent programmer.
+I use mostly UNIX/LINUX tools, and many ppl laugh at me for this.
+Laughter is great, and boy do I laugh at those who laugh at me.
+The tools are fast, free, universally available, and essential if you
+are to operate at any level of computer sophistication. The tools work
+really well and did long before Microsoft existed.  They will be working
+well when no one remembers the name Microsoft.
+
+Whats needed, and whats recommended.
+
+Needed:
+	The ability (now becoming rare) to interact primarily with your
+	computer.
+	You need to have a basic understandinrgt of how to create, find, and
+	use directories and subdirectories.  If this is a problem for you
+	please don't waste your time here, go back to your applications. 
+
+Recommended:
+	Ability to use a simple text editor. Using "Word" will be frustrating
+	slow, and a waste of your time.
+	I use vi (and vim) Notepad will work (but not all that well).
+	Atom is good. there are many free ones.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ Files, directories, processes.  Processes library.`
 
 Zoonomen directories.
 Root contains mostly front page html for website.
@@ -14,14 +42,14 @@ Root contains mostly front page html for website.
 
 	contains mostly shell scripts for various functions.
 	see below.
-./bio
-./cite
+./zoonomen/bio
+./zoonomen/cite
 
-./bio
+./zoonomen/bio
 	contains an alphabetical listing of taxon author
 	data and associated data (and contains question as well).
 
-./cit [from "citation"]
+./zoonomen/cit [from "citation"]
 
 	contains a alphabetical list of files "jour[a-z].html"
 
@@ -169,11 +197,35 @@ Process library:
 Minimal files and proceedures needed to do useful things with my data.
 
 1.) For source searching:
-	Need. copies of OCR versions of sources. I have these for 
-	CBBM, CBA, IndexAnimalium, Ridgway BMNA, Peters CL, Sharpe's Handlist
-	You can download my versions of the files from GitHub (they are not all
-	there yet [2021.11.24]. Or download your own files from various sources.
+	Needed: 
+	Copies of OCR versions of sources. 
+	I have these for: 
+		CBBM, CBA, IndexAnimalium, Ridgway BMNA, 
+		Peters CL, Sharpe's Handlist
+
+	You can download my versions of the files from GitHub. 
+	Or download your own OCR text files from various sources.
 	Note: My versions include thousands,, ok maybe tens of thousands
 	of OCR correction edits.
 	That number sounds impressive but it is trivial to carry out specific
 	string edits across, for example, all volumes of the CBBM.
+
+	ALMOST needed -- the ability to edit ascii text files.
+	There are MANY excellent text editors available and it is
+	a certainty that one or several are already on your computer.
+	I find "Notepad" to be quite poor and I edit with several
+	versions of vi (also vim).
+	vi exists on every Apple computer ever made, and it is part of every
+	shell (e.g. git bash shell).
+
+	[Side note rant.. recommend you skip this.
+	If you are not willing to edit ascii files, or not willing to learn
+	to use a simple text editor, I suggest you not waste your time here
+	but return to the land where you are an application-enslaved menial.
+	I see it as like deciding you dont want to learn to drive, others 
+	(enamoured of their expensive purchased applications and 
+	delighted to be restricted by them) disagree.]
+
+
+	Once you have source files (like the Peters CL) in a directory
+	of their own (I recommend giving each its own directory)
