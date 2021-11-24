@@ -9,6 +9,11 @@ Root contains mostly front page html for website.
 ./avtax
 
 	see below.
+
+./avtax/tools/
+
+	contains mostly shell scripts for various functions.
+	see below.
 ./bio
 ./cite
 
@@ -103,3 +108,72 @@ Zoonomen files: naming, organization, use.
 
 
 	https://www.process.st/file-naming-conventions/
+
+Process library:
+
+	My start file (executed with the shell starts)
+	looks like this:
+
+	[General]
+
+	alias e=egrep
+		# I use egrep so much I simply shorten the command to e.
+
+	alias lc=c:/zoonomen/avtax/lc.sh
+		# allows an ls like function that lists only directories
+
+	[file updating/manipulating tools.]
+
+	alias update=c:/zoonomen/avtax/update.sh
+
+	[Primary taxon searching tools]
+
+
+        alias f=c:/zoonomen/avtax/tools/f.sh
+
+                # string searches across ????.html files to find
+                        which contains the string.
+                        equivalent, obviously, to egrep -l 'string' ????.html
+
+        alias q=c:/zoonomen/avtax/tools/auyr.sh
+
+                # useful and complex tool allows
+                database search funtions across all the primary files.
+                many component files within this.. see below.
+
+
+	[Source searching tools]
+
+	alias i=c:/zoonomen/avtax/tools/i.sh
+		# allows string search of Index Animalium.
+	alias p=c:/zoonomen/avtax/tools/p.sh
+		# allows string search of 16 volumes of Peters CL
+	alias b=c:/zoonomen/avtax/tools/b.sh
+		# allows string search across all volumes of the 
+			Cats.Birds.Brit.Mus.
+
+	alias rq=c:/zoonomen/avtax/tools/rq.sh
+		# allows string search of richmond index 
+		(searches titles of card links).
+	alias h=c:/zoonomen/avtax/tools/h.sh
+		# allows string search of Hellmayr (CBA)
+	alias pet=c:/zoonomen/avtax/pet.sh
+		# allows string search of Peters CL
+	alias ioc=c:/zoonomen/avtax/ioc.sh
+
+	alias cba=c:/zoonomen/avtax/cba.sh
+		# search older un OCR corrected versions
+		of CBA.. deprecated for h.sh
+
+
+Minimal files and proceedures needed to do useful things with my data.
+
+1.) For source searching:
+	Need. copies of OCR versions of sources. I have these for 
+	CBBM, CBA, IndexAnimalium, Ridgway BMNA, Peters CL, Sharpe's Handlist
+	You can download my versions of the files from GitHub (they are not all
+	there yet [2021.11.24]. Or download your own files from various sources.
+	Note: My versions include thousands,, ok maybe tens of thousands
+	of OCR correction edits.
+	That number sounds impressive but it is trivial to carry out specific
+	string edits across, for example, all volumes of the CBBM.

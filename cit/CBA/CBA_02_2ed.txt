@@ -9614,7 +9614,7 @@ b Galbula albirostris chalcocephala (DEVILLE): Differs from G. a. albirostris in
 
 
 
-*Brachygalba lugubris (Swainsori). BLACK-BILLED JACAMAR. 
+*Brachygalba lugubris (Swainson). BLACK-BILLED JACAMAR. 
 
 
 
@@ -22474,7 +22474,7 @@ Range: Upper Orinoco Region, Venezuela.
 
 
 
-*Veniliornis affinis (Swainsori). GOLDEN-NAPED WOODPECKER. 
+*Veniliornis affinis (Swainson). GOLDEN-NAPED WOODPECKER. 
 
 
 
@@ -25023,7 +25023,7 @@ Range: Forested regions in mountains from northern Montana and
 
 
 
-*Picoides arcticus (Swainsori). BLACK-BACKED THREE-TOED WOOD- 
+*Picoides arcticus (Swainson). BLACK-BACKED THREE-TOED WOOD- 
 
  PECKER. 
 
