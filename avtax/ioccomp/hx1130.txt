@@ -1,0 +1,500 @@
+  238  mv cb3 cb2
+  239  q 1
+  240  q 1|awk '$0!~/O.D./'
+  241  q 1|awk '$0!~/O.D./'|less
+  242  q 1|awk '$0!~/O.D./'|less
+  243  vi cb2
+  244  q 1|awk '$0!~/O.D./'|less
+  245  pet cyanea
+  246  pet cyanea|e Chlor
+  247  vi c:/zoonomen/cit/Peters/Peters_13.txt
+  248  q 1|awk '$0!~/O.D./'|less
+  249  update
+  250  p Leucosticte
+  251  pet Leucosticte
+  252  vi c:/zoonomen/cit/Peters/Peters_14.txt
+  253  cba australis
+  254  cba australis|e Leuc
+  255  git commit -a
+  256  git push
+  257  git status|less
+  258  vi cb2
+  259  vi cb2
+  260  q 18|awk '$0!~/O.D./'
+  261  q 18|awk '$0!~/O.D./'|less
+  262  q 18|awk '$0!~/O.D./'|e As.R
+  263  q 18|awk '$0!~/O.D./'|e As.R > ./sb/arneed.txt
+  264  ./tools/date.sh
+  265  vi ?pass.html
+  266  update
+  267  git commit -a
+  268  git push
+  269  vi cb2
+  270  q 18|awk '$0!~/O.D./'|e As.R
+  271  update
+  272  git commit -a
+  273  git push
+  274  vi cb2
+  275  e -n Fringilla
+  276  e -n Fringilla cb2
+  277  e -n Fringilla cb2|less
+  278  e -n Euphonia cb2
+  279  chmod +x frincb.scr
+  280  ./frincb.scr
+  281  vi frincb.scr
+  282  ls -tr
+  283  vi cb2
+  284  update
+  285  ./frincb.scr
+  286  vi cb2
+  287  vi cb2
+  288  vi frincb.scr
+  289  update
+  290  ./frincb.scr
+  291  vi cb2
+  292  vi cb3
+  293  ./frincb.scr
+  294  vi frincb.scr
+  295  update
+  296  sed  '1,42797d' cb2|less
+  297  e Fringilla cb2
+  298  e -n Fringilla cb2
+  299  e -n Fringilla cb2|less
+  300  sed '1,43797d' cb2
+  301  sed '1,43797d' cb2|less
+  302  sed '1,43797d' cb2 > cb3
+  303  vi cb3
+  304  sed '960,$d' cb3
+  305  sed '960,$d' cb3 > cb2
+  306  vi cb2
+  307  history
+  308  ls -tr
+  309  vi frincb.scr
+  310  history
+  311  vi frincb.scr
+  312  update
+  313  mv frincb.scr pa60need.scr
+  314  ls pa60*.*
+  315  ls -l pa60*.*
+  316  chmod +x pa60need.scr
+  317  ./pa60need.scr
+  318  q 18|awk '$0!~/O.D./'
+  319  q 18|awk '$0!~/O.D./'|less
+  320  update
+  321  git commit -a
+  322  git push
+  323  q Ann.Lyc.
+  324  q Ann.Lyc.|awk '$0!~/O.D./'
+  325  q Ann.Lyc.|awk '$0!~/O.D./' > ./sb/alnyneed.txt
+  326  f Rhynchophanes
+  327  f Hyropsal
+  328  f Hydropsal
+  329  update
+  330  git commit -a
+  331  git push
+  332  b Ann.|e N
+  333  b Ann.|e Lyc
+  334  b Ann.|e Lyc|wc
+  335  b Ann.|e Lyc|e Laior
+  336  cd ../cit/CBBM/
+  337  sed '/Ann. Lyc. N. Y./ s/ Laior. / Lawr. /' C*ed.txt
+  338  time sed -i '/Ann. Lyc. N. Y./ s/ Laior. / Lawr. /' C*ed.txt
+  339  cd ../../avtax
+  340  git commit -a
+  341  git push
+  342  f Urochroa
+  343  update
+  344  git commit -a
+  345  git push
+  346  ls -tr *.scr
+  347  ./pa60need.scr
+  348  vi cb2
+  349  q 18|e '^18'
+  350  q 18|e '^18'|awk '$0!~/O.D./'
+  351  q 18|e '^18'|awk '$0!~/O.D./'|wc
+  352  q 18|e '^18'|awk '$0!~/O.D./'|awk '40!~/\([m,n,f]/'
+  353  q 18|e '^18'|awk '$0!~/O.D./'|awk '40!~/\([m,n,f]/'|wc
+  354  q Bangs
+  355  q Proc.New
+  356  q Proc.New|awk '$0!~/O.D./'
+  357  q Proc.New|awk '$0!~/O.D./'
+  358  q 18
+  359  q 18|e '^18'
+  360  q 18|e '^18'| awk '$0!~/O.D./'
+  361  q 18|e '^18'| awk '$0!~/O.D./'|awk '$0!~/\([m.n.f]/'
+  362  q 18|e '^18'| awk '$0!~/O.D./'|awk '$0!~/\([m.n.f]/'|less
+  363  update
+  364  q Zool.Ill
+  365  q Zool.Ill|awk '$0!~/O.D/'
+  366  q Zool.Ill|awk '$0!~/O.D/'
+  367  f Donacobius
+  368  ls *.scr
+  369  history|e need
+  370  ./pa60need.scr
+  371  q 18|e '^18'| awk '$0!~/O.D./'|awk '$0!~/\([m.n.f]/'|less
+  372  f Vanellus
+  373  f Parus
+  374  f Iduna
+  375  f Rhodospiza
+  376  vi hpass.html
+  377  update
+  378  git commit -a
+  379  git push
+  380  b Orenb
+  381  b Buchar
+  382  b Buchar|less
+  383  b Buchar|e eise
+  384  ./pa60need.scr
+  385  q 18|e '^18'| awk '$0!~/O.D./'|awk '$0!~/\([m.n.f]/'|less
+  386  b yzoni
+  387  b cryz
+  388  vi c:/zoonomen/cit/CBBM/CBBM17ed.txt
+  389  p Halcyon
+  390  ./pa60need.scr
+  391  q 18|e '^18'| awk '$0!~/O.D./'|awk '$0!~/\([m.n.f]/'|less
+  392  vi cb2
+  393  update
+  394  ./pa60need.scr
+  395  vi cb2
+  396  q 18|e '^18'| awk '$0!~/O.D./'|awk '$0!~/\([m.n.f]/'|less
+  397  ./tools/date.sh
+  398  update
+  399  vi ?pass.html
+  400  update
+  401  git commit -a
+  402  git push
+  403  ls -tr *.scr
+  404  ./pa60need.scr
+  405  vi ./pa60need.scr
+  406  q 1
+  407  awk '$0!~/O.D/' cb2
+  408  vi ./pa60need.scr
+  409  vi ./pa60need.scr
+  410  update
+  411  ./pa60need.scr
+  412  vi cb2
+  413  q 1
+  414  q 1|less
+  415  vi ./pa60need.scr
+  416  update
+  417  ./pa60need.scr
+  418  vi cb2
+  419  vi cb3
+  420  cp cb3 cb2
+  421  vi ./pa60need.scr
+  422  update
+  423  q 1|less
+  424  vi cb2
+  425  vi ./pa60need.scr
+  426  update
+  427  q 1
+  428  ./pa60need.scr
+  429  vi cb2
+  430  q 1|awk '$0!~/O.D./'
+  431  q 1|awk '$0!~/O.D./'|less
+  432  q Pallas
+  433  q Pallas|less
+  434  q Ev
+  435  update
+  436  q Bull.Soc.Imp.Mosc
+  437  q Bull.Soc.Imp.Nat.Mosc
+  438  q Bull.Soc.Imp.Nat.Mosc|awk '$0!~/O.D./'
+  439  q Birds.W.Afr
+  440  q Birds|e  W
+  441  q Birds|e  W|e Afr
+  442  q Birds|e  W|e Afr|less
+  443  update
+  444  q Birds|e  W|e Afr|awk '$0!~/O.D./'
+  445  q Birds|e  W|e Afr|awk '$0!~/O.D./' > ./sb/bwa2need.txt
+  446  f Oriolus
+  447  ./tools/date.sh
+  448  f Oenanthe
+  449  f Terpsiph
+  450  f Hirundo
+  451  f Merops
+  452  vi ?pass.html
+  453  update
+  454  git commit -a
+  455  git push
+  456  f Upupa
+  457  f Ceuthmochares
+  458  f Treron
+  459  f Burhinus
+  460  f Zapornia
+  461  f Chroicocephalus
+  462  update
+  463  git commit -a
+  464  git push
+  465  b Birds|e W|e Afr
+  466  b B|e W|e Afr
+  467  b B|e W|e Af|e Swain
+  468  b 'B. W. Afr.'
+  469  b 'B. W. Afr.'|less
+  470  e 'B. W. Afr.' ../cit/CBBM/C*ed.txt
+  471  e 'B. W. Afr.' ../cit/CBBM/C*ed.txt|awk '$0!~/Sw/'
+  472  e 'B. W. Afr.' ../cit/CBBM/C*ed.txt|awk '$0!~/Sw/'|wc
+  473  b 8w
+  474  b 8win
+  475  b 8winh
+  476  b 8winh|wc
+  477  cd ../cit/CBBM
+  478  vi CBBM1114.sed
+  479  sed -f CBBM114.sed C*ed.txt
+  480  sed -f CBBM1114.sed C*ed.txt
+  481  time sed -i -f  CBBM1114.sed C*ed.txt
+  482  cd ../../
+  483  git commit -a
+  484  git push
+  485  exit
+  486  cd /c/zoonomen/avtax
+  487  ls -tr
+  488  ls -tr *.scr
+  489  ./pa60need.scr
+  490  gq 1
+  491  q 1
+  492  q 1|less
+  493  q PLS
+  494  q PLS|awi '$0!$/O.D./'
+  495  q PLS|awk '$0!$/O.D./'
+  496  q PLS|awk '$0!$/O.D./' > ./sb/PLSneed.txt
+  497  Exit
+  498  EXIT
+  499  exit
+  500  cd /c/zoonomen/avtax/ioc112/sb
+  501  ls -tr
+  502  vi zall.001
+  503  vi todo1125.txt
+  504  ls -tr
+  505  history|e zall
+  506  history
+  507  vi zsp.001
+  508  vi zsp.001
+  509  ls -tr
+  510  ls -tr
+  511  vi zsp01.001
+  512  vi zsp01.001
+  513  vi zsp01.001
+  514  ls -tr
+  515  vi zssp01.001
+  516  ls -trl
+  517  ls -trl
+  518  vi zsp01.001
+  519  ls -tr
+  520  ls -trl
+  521  vi zssp01.001
+  522  ls -trl
+  523  ls -tr
+  524  ls -tr
+  525  vi zall1.001
+  526  vi i112all.001
+  527  e '^[A-Z][a-z]* [a-z]' i112all.001
+  528  e '^[A-Z][a-z]* [a-z]' i112all.001|less
+  529  e '^[A-Z][a-z]* [a-z]' i112all.001|sort -d > i112srt.txt
+  530  e '^[A-Z][a-z]* [a-z]' i112all.001|sort -d > i112srt.txt
+  531  ls -tr
+  532  head zall.001
+  533  cp zall.001 zall.002; vi zall.002
+  534  awk '{print $1}' zall.002
+  535  awk '{print $1}' zall.001
+  536  awk '{print $1}' zall.001|awk -f c:/awk/wc.awk
+  537  awk '{print $1}' zall.001|awk -f c:/awk/wc.awk|less
+  538  awk '{print $1}' zall.002|awk -f c:/awk/wc.awk|less
+  539  awk '{print $1}' zall.002|awk -f c:/awk/wc.awk|e Turdus
+  540  awk '{print $1}' zall.002|awk -f c:/awk/wc.awk|e Turdus|less
+  541  head zall.002
+  542  awk 'NF==2' zall.002
+  543  awk 'NF==2' zall.002|awk '{print $1}'
+  544  awk 'NF==2' zall.002|awk '{print $1}'|awk -f c:/wc.awk|less
+  545  awk 'NF==2' zall.002|awk '{print $1}'|awk -f c:/awk/wc.awk|less
+  546  awk '{print $1}' zall.002|awk -f c:/awk/wc.awk|e Turdus|less
+  547  awk '{print $1}' zall.002|awk -f c:/awk/wc.awk|e Eremophila|less
+  548  awk '{print $1}' zall.002|awk -f c:/awk/wc.awk|e Turdus|less
+  549  awk '{print $1}' zall.002|awk -f c:/awk/wc.awk|e Eremophila|less
+  550  awk '{print $1}' zall.002|awk -f c:/awk/wc.awk|e Eremophila
+  551  awk '{print $1}' zall.002|awk -f c:/awk/wc.awk|e Coerba
+  552  awk '{print $1}' zall.002|awk -f c:/awk/wc.awk|e Coereba
+  553  awk '{print $1}' zall.002|awk -f c:/awk/wc.awk|e Setophaga
+  554  awk '{print $1}' zall.002|awk -f c:/awk/wc.awk|e Setophaga|less
+  555  vi zall.001
+  556  vi zall.001
+  557  ls -tr
+  558  vi zssp01.001
+  559  ls -tr
+  560  vi todo1125.txt
+  561  vi jnk
+  562  vi jnk
+  563  vi jnk1
+  564  vi jnk3
+  565  vi /c/zoonomen/cit/jouro.html
+  566  q Orn
+  567  q Orn|less
+  568  q Orn|e 'Orn. '
+  569  q Orn|e ' Orn. '
+  570  q Orn|e ' Orn. '|less
+  571  vi /c/zoonomen/cit/jouro.html
+  572  e 'O.D.' wb.html|wc
+  573  vi /c/zoonomen/cit/jouro.html
+  574  e tso zall.*
+  575  e tzo zall.*
+  576  vi /c/zoonomen/cit/jourl.html
+  577  cd /c/zoonomen/avtax
+  578  q riocourii
+  579  q Heude
+  580  q formos
+  581  q formos|e El
+  582  q lucida
+  583  q lucida|e Du
+  584  q Dun
+  585  q ajew
+  586  q ajew
+  587  q lucida
+  588  p lucida
+  589  q dealb
+  590  q oriental|e Tacz
+  591  q chloroph
+  592  q malh
+  593  q principal
+  594  q nilotic
+  595  q niloticus
+  596  q nilotic
+  597  q nilotic|e Stol
+  598  q marchei
+  599  git status|less
+  600  lc
+  601  ls ./ioc102
+  602  ls ./ioc102|less
+  603  ls ./ioc111|less
+  604  ls ./ioc112|less
+  605  ls ./ioc112|e 112
+  606  ls ./ioc111|e 111
+  607  ls ./ioc110|e 110
+  608  ls ./ioc101|e 110
+  609  lc
+  610  lc|e ioc
+  611  ls ./iocstor
+  612  cd ./ioc112
+  613  ls
+  614  head Taxlst001.txt
+  615  head i112ssp.txt
+  616  ls ./sb
+  617  head ./sb/i112all.001
+  618  cd ../
+  619  mkdir ./ioccomp
+  620  ls ./ioc112
+  621  cp ./ioc112/i112ssp.txt ./ioccomp/
+  622  ls ./ioc111
+  623  ls ./ioc111|e io
+  624  head ./ioc111/iodfsspp.txt
+  625  head ./ioc111/iocfsspp.txt
+  626  cd ./ioc111
+  627  ls
+  628  ls *.txt
+  629  ls *f*.txt
+  630  head *f*.txt
+  631  head *f*.txt|less
+  632  ls *02.txt
+  633  vi ifssp02.txt
+  634  awk -F "|" '{print $1}' ifssp02.txt
+  635  awk -F "|" '{print $1}' ifssp02.txt|cat -vt|less
+  636  awk -F "|" '{print $1}' ifssp02.txt|e '^[A-Z][a-z]* [a-z][a-z]'
+  637  awk -F "|" '{print $1}' ifssp02.txt|e '^[A-Z][a-z]* [a-z][a-z]'|less
+  638  ls ../ioccomp
+  639  awk -F "|" '{print $1}' ifssp02.txt|e '^[A-Z][a-z]* [a-z][a-z]' > ../ioccomp/i111ssp.txt
+  640  ls ../ioccomp
+  641  diff ../ioccomp
+  642  diff ../ioccomp/*.txt
+  643  diff ../ioccomp/*.txt|less
+  644  cd ../ioccomp
+  645  ls
+  646  head *.txt
+  647  head *.txt|less
+  648  head -20 i112*.txt
+  649  head -20 i112*.txt > h112.txt
+  650  head -20 i111*.txt > h111.txt
+  651  diff h*.txt
+  652  cat -vt h*.txt
+  653  vi h111.txt
+  654  ls
+  655  vi i111ssp.txt
+  656  update
+  657  pet affine
+  658  vi c:/zoonomen/cit/Peters/Peters_12.txt
+  659  cba affine
+  660  cba affine|e Dica
+  661  cba affine|e Dic
+  662  cba affine
+  663  cba affine|less
+  664  cba Zimmer
+  665  cba affinis
+  666  cba Achm
+  667  cba Acm
+  668  bmna affin
+  669  vi ?pass.html
+  670  vi c:/txt/Shanprosol.txt
+  671  ls
+  672  git add -f ./*.txt
+  673  git commit -a
+  674  git push
+  675  ls
+  676  head h111.txt
+  677  head h112.txt
+  678  wc i112.txt
+  679  wc h112.txt
+  680  ls
+  681  head i222ssp.txt
+  682  head i111ssp.txt
+  683  ls h*.txt
+  684  rm h*.txt
+  685  vi i*.txt
+  686  ls
+  687  vi i112ssp.txt
+  688  ls
+  689  mkdir ./stor
+  690  ls i*sp.txt
+  691  mv i*sp.txt ./stor
+  692  ls
+  693  awk '{print NR,$0}' i111ub.txt
+  694  awk '{print NR,$0}' i111ub.txt > i111_01.txt
+  695  awk '{print NR,$0}' i112ub.txt > i112_01.txt
+  696  ls
+  697  man join
+  698  join i111ub.txt i112ub.txt
+  699  join i111ub.txt i112ub.txt|less
+  700  ls
+  701  vi i111_01.txt
+  702  join i111ub.txt i112ub.txt|less
+  703  ls ./sb
+  704  ls ./stor
+  705* sort -vi ./stor/i111ssp.txt
+  706  heaa i112ub.txt
+  707  head i112ub.txt
+  708  ls
+  709  head i111_01.txt
+  710  join i*01.txt
+  711  join i*01.txt|less
+  712  head i*01.txt
+  713  join -1 2 -2 2 i111_01.txt i112_01.txt
+  714  join -1 2 -2 2 i111_01.txt i112_01.txt|less
+  715  sort -d -k 2 i111_01.txt
+  716  sort -d -k 2 i111_01.txt|less
+  717  sort -d -k 2 i111_01.txt >  i111_02.txt
+  718  sort -d -k 2 i112_01.txt >  i112_02.txt
+  719  join -1 2 -2 2 i111_02.txt i112_02.txt|less
+  720  join -1 2 -2 2 i111_02.txt i112_02.txt > join1112.txt
+  721  vi i112_02.txt
+  722  head i112_2.txt
+  723  head i112_02.txt
+  724  sort -d -k 2 i112_02.txt
+  725  sort -d -k 2 i112_02.txt > i112_03.txt
+  726  diff i112_2.txt i112_03.txt
+  727  diff i112_02.txt i112_03.txt
+  728  join -1 2 -2 2 i111_02.txt i112_03.txt
+  729  join -1 2 -2 2 i111_02.txt i112_03.txt|less
+  730  join -1 2 -2 2 i111_02.txt i112_03.txt > jointry1.txt
+  731  vi jointry1.txt
+  732  vi jointry1.txt
+  733  sort -k3 jointry1.txt
+  734  sort -k3 jointry1.txt|less
+  735  sort -k3 -n jointry1.txt|less
+  736  sort -k3 -n jointry1.txt > joinout1.txt
+  737  history > hx1130.txt

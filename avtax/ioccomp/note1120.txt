@@ -1,0 +1,38 @@
+  2021.11.30
+  Compare ioc111 and ioc112
+  #
+  	Create file with taxon_name NR
+
+  694  awk '{print NR,$0}' i111ub.txt > i111_01.txt
+  695  awk '{print NR,$0}' i112ub.txt > i112_01.txt
+
+  713  join -1 2 -2 2 i111_01.txt i112_01.txt
+
+  # this produced a complaint of input files not sorted.
+  717  sort -d -k 2 i111_01.txt >  i111_02.txt
+  718  sort -d -k 2 i112_01.txt >  i112_02.txt
+  719  join -1 2 -2 2 i111_02.txt i112_02.txt|less
+
+  # still a commplaint about 112 not sorted.
+
+  720  join -1 2 -2 2 i111_02.txt i112_02.txt > join1112.txt
+  721  vi i112_02.txt
+  # sort the thing again.
+  725  sort -d -k 2 i112_02.txt > i112_03.txt
+
+  727  diff i112_02.txt i112_03.txt
+
+  # this showed NO difference..
+
+  730  join -1 2 -2 2 i111_02.txt i112_03.txt > jointry1.txt
+
+  731  vi jointry1.txt
+  732  vi jointry1.txt
+  735  sort -k3 -n jointry1.txt|less
+  #
+  	this produced an out put file sorted by taxon sequence # of ioc111.
+
+  736  sort -k3 -n jointry1.txt > joinout1.txt
+
+  cp joinout1.txt joinout2.txt
+
