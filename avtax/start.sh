@@ -11,3 +11,4 @@ alias lc=c:/zoonomen/avtax/lc.sh
 alias pet=c:/zoonomen/avtax/pet.sh
 alias ioc=c:/zoonomen/avtax/ioc.sh
 alias cba=c:/zoonomen/avtax/cba.sh
+alias hart=c:/zoonomen/avtax/tools/hartert.sh
