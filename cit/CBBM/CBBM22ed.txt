@@ -5270,7 +5270,7 @@ Kurl p. 69 (1792); Sechst Nat. Beutschi iii. p. 483 (1793);
 Ball. Zoogr. JRosso-As. ii. p. 59, pl. 52 (1811); Penn. BritZool I. 
 
 p. 352, pL 46 (1812); Miss. Orn. Svec. i. p. 300 (1817); Steph. in 
-Shaw's Gen. Zool. p. 279, pl. 19 (1819); Boux, Orn. Prov. ii. p. 28, 
+Shaw's Gen. Zool. p. 279, pl. 19 (1819); Roux, Orn. Prov. ii. p. 28, 
 pl. 253 (1830); Mss. Ill fig. Skand. Faun. i. pls. 27, 61 (1832); 
 Naum. Nat. Vög. DeutschLvi. p. 324, pl. 157 (1833); Gould, B, 
 TETKA.0NID2E. 
@@ -5769,7 +5769,7 @@ AV. Beutschi. iii. p. 470 (1793); Ball. Zoogr. Rosso-As. ii. p. 56
 et Gatt. iii. pp. 114, 090 (1815); Miss. Orn. Svec. i. p. 297 
 (1817); Steph. in Shaw's Gen. Zool xi. p. 266, pl. 18 (1819); 
 Bre/mi, Beitr. Vögelk. ii. p. 604 (1822) ; id. Lehrb. Burop. Vög. I 
-p. 427 (1823); Boux, Orn. Prov. ii. p. 25, pls. 250, 251 (1830); 
+p. 427 (1823); Roux, Orn. Prov. ii. p. 25, pls. 250, 251 (1830); 
 Miss. Illmn.fg. Skand. Faun. i. pls. 6o, 76 (1832); Nanm. Nat. 
 Vög. Beutschi. vi. p. 277, pls. 154, 155 (1833) ; Schinz, Nat. Abbild. 
 Vög. p. 275, pl. 105 (1833) ; Jard. Nat. Libr., Orn. iv. p. 109, pl. 13 
@@ -7917,7 +7917,7 @@ Kurl. p. 70 (1792); BecJist. Nat Deutschi, iii. p. 500 (1793); Ball
 Zoogr. Rosso-As. ii. p. 70 (1811) ; Temm. Big. et Gall. iii. pp. 174, 
 706 (1815); Miss. Orn. Svec. i. p. 305 (1817): Steph. in Shaw'8 
 
-Gen. Zool. xi. p. 271 (1819) ; Boux, Orn. Brov. ii. p. 29, pl. 254 
+Gen. Zool. xi. p. 271 (1819) ; Roux, Orn. Prov. ii. p. 29, pl. 254 
 (1830); Kaum. Nat Vög. Beutschi. \l p. 358, pl. 158 (1833); 
 Demid. Voy. Buss. Merid. iii. p. 219 (1840); Midd. Si$ir. Reis. ii. 
 pt. ii. p. 289 (1851); Schinz, Nat. Vög. p. 158, pl. 78 (1853); 
@@ -10123,7 +10123,7 @@ Temm. Big. et Gall. iii. pp. 361, 726 (1815) • id. Man.
 iVOrn. ii. p. 485 (1820); Vieill. Tabl Encycl Meth. i. p. 206 
 (1823); Wem. Atl. Orn. dEur. ord. 10, pl. 17 (1828); Mittet, 
 
-F. Marne et Loire, ii. p. 389 (1828) ; Boux, Orn. Prov. ii. p. 38, 
+F. Marne et Loire, ii. p. 389 (1828) ; Roux, Orn. Prov. ii. p. 38, 
 pls. 257, 258 (1830); Brehm, Handb. Vog. Deutschi p. 523 
 (1831); Naam. Nat. Vbg. Deutschi. vi. p. 563, pl. 165 (1833); 
 Schinz, Nat. Abbild. Vög. p. 271 (1833); bt-Hilaire, Exp. Moree, 

@@ -7612,7 +7612,7 @@ Vog. Nederl. pi. 218 (1854); id. Bier. Nederl. Vog. pi. 22. figs. 1,
 Severtz. Turkest. Jevotn. p. 69 (1873: migrant). 
 
 Arenaria interpres, VieilL N. Diet. dHist. Nat. xxiv. p. 345 (1819); 
-Boux, Orn. Proveng. pis. 280, 281 (1825); Stejn. Auk, L p. 229 
+Roux, Orn. Provenc. pis. 280, 281 (1825); Stejn. Auk, L p. 229 
 (1884) ; id. Bull. U.S. Nat Mus. no. 29, p. 102 (1885 : Bering Isl.); 
 
 . A, O. U. Chech-L N. Amer. B. p. 165 (1886); Turner, Contr. N. H. 
@@ -22235,7 +22235,7 @@ Charadrius
 minor, Wolf fy Meyer ^ Yog. BeutscM. Heft xv. (1805); 
 Meyer \ Wolf, Taschenb. p. 324 (1810); Temm. Man. oVOrn. 
 
-p. 330 (1815), 2nd ed. ii. p. 542 (1820); Boux, Orn. Frov. pi. 276 
+p. 330 (1815), 2nd ed. ii. p. 542 (1820); Roux, Orn. Prov. pi. 276 
 (1825); Werner, Atlas, Coureurs, pi. 7 (1827); Wagl. Syst. Av., 
 Charadrius, p. 62, sp. 22 (1827); Naum. Yog. BeutscM. vii. 
 Taf. 177 (1834); Gould, B. Bur. iv. pi. 297 (1837); Macgill Man. 
@@ -31110,7 +31110,7 @@ Broton, Ibis, 1876, p. 292 (Lower Petchora); Biddulph, Ibis, 1881,
 
 p. 96 (Gilgit); Scully, t. c. p. 588. 
 Limicula meyeri, Fieitt. N. Diet. oVHist. Nat. iii. p. £i9 (1816). 
-Limicula lapponica, Fieitt. t.c. p. 250,-Boux, Orn. Prov. pi. 305 (1825). 
+Limicula lapponica, Fieitt. t.c. p. 250,- Roux, Orn. Prov. pi. 305 (1825). 
 Limosa leucophaea, Cuvier, Begne Anim. p. 488 (1817). 
 Limosa rufa, Temm. Man. oVOrn. ii. p. QQ8 (1820); Werner, Atlas, 
 Grail, pi. 20 (1827); Fleming, Brit. Anim. p. 107 (1828); Brehm, 
@@ -34500,7 +34500,7 @@ oVOrn. p. 415 (1815) ; Leach, Syst. Cat. Mamm. etc. Brit. Mus.
 
 p. 31 (1816); Vieill. N Diet d'Hist Nat vi. p. 404 (1816); Temm. 
 Man. oVOrn. ii. p. 643 (1820); Nilss. Orn. Suec. ii. p. 62 (1821) ; 
-Boie} Isis, 1822, p. 560 ; Boux, Orn. Prov. pi. 294 (1825); Werner, 
+Boie} Isis, 1822, p. 560 ; Roux, Orn. Prov. pi. 294 (1825); Werner, 
 Atlas, Grail, pi. 22 (1827); Fleming, Brit. Anim. p. 102 (1828); 
 Less. Traite d'Orn. p. 552 (1831); Brehn, Vog. Beutschl. p. 637 
 (1831) ; Minitr. Cat rais. Cauc. p. 51 (1832) ; Jenyns, Man. Brit 
@@ -36657,7 +36657,7 @@ Totanus ochropus, Temm. Man. d'Orn. p. 420 (1815); Vieill. N.
 Diet. d'Hist. Nat. vi. p. 397 (1816); Leach, Syst. Cat. Mamm. fyc. 
 Brit. Mus. p. 30 (1816: Wiltshire),-Temm. Man. d'Orn. ii. 
 
-p. 051 (1820); Bole, Isis, 1822, p. 560; Boux, Orn. Prov. pi. 296 
+p. 051 (1820); Bole, Isis, 1822, p. 560; Roux, Orn. Prov. pi. 296 
 (1825); Werner, Atlas, Grail, pi. 25 (1827) ; Fleming, Brit. Anim. 
 p. 103 (1828) ; Brehm, Tog. Deutschl. p. 641 (1831)"; Less. TraiU 
 d'Orn. p. 552 (1831); Swains. Faun. Bor.-A.7ner., Birds, p. 392 
@@ -40698,7 +40698,7 @@ Totamis glottis, Bechst. Orn. Taschenb. ii. p. 287 (1803); Meyer 8?
 Tfolf, Taschenb. deuisch. Togelk. ii. p. 372 (1810) ; Tenim. Man. 
 dJ0r?i. p. 425 (1815); Vieill N. Diet. cFHist. Nat. yi. p. 410 (1816) ; 
 Temm. Man. d'Orn. 2nd ed. ii. p. 659 (1820); Eorsf. Tram. Linn. 
-Soc. xiii. p. 192 (1821); Boie, Isis, 1822, p. 560; Boux, Orn. 
+Soc. xiii. p. 192 (1821); Boie, Isis, 1822, p. 560; Roux, Orn. 
 Prov. pi. 298 (1825); Werner, Atlas, Grail pi. 25 (1827); 
 Fleming, Brit. Anim. p. 104 (1828); Less. Trade a"Orn. p. 551 
 (1831); Jenyns, 31an. Brit Tertebr. p. 2C0 (1835); Aitdvb. Orn. 

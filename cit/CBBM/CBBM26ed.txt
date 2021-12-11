@@ -5258,8 +5258,8 @@ Le Crabier marron, Briss. Orn. v. p. 468 (1760); Biff. Hist. Nat
 Ois. vii. p. 390 (1781). 
 Ardea purpurea, Linn. Syst. Nat. i. p. 236 (1766); Ball. Zoogr. Bosso-
 Asiat. ii. p. 119 (1811); Vieill. Nouv. Bid. d'Kist. Nat xiv. 
-p. 420 (1817); Temm. Man. dOrn. ii. p. 570 (1820); Boux, Orn. 
-Brov. pis. 312, 313 (1825); Werner, Atlas, Coureurs, pi. 24 (1827); 
+p. 420 (1817); Temm. Man. dOrn. ii. p. 570 (1820); Roux, Orn. 
+Prov. pis. 312, 313 (1825); Werner, Atlas, Coureurs, pi. 24 (1827); 
 Wagl. Syst. Av. Ardea, sp. 6, p. 175 (1827); Menetr. Cat. rais. 
 Cauc. p. 49 (1832); Gould, B. Bur. iv. pi. 274 (1837); Naum. 
 Fog. Deutschl. ix. p. 63, Taf. 221 (1838); Bp. Comp. List B. Eur. 
@@ -7536,7 +7536,7 @@ Tamil, Brit. B. ii. p. 45-1 (1843).
 
 Ardea egretta, Bechst. Naturg. DeutscJiL iii. p. 41 (1793) ; Meyer $ 
 Wolf,Taschenb. p. 335 (1810); Temm. Man. d'Orn. p. 366 (1815); 
-Boux, Orn. Prov. pi. 314 (1825) ; Bllpp. Mus. Senekenb. ii. p. 184 
+Roux, Orn. Prov. pi. 314 (1825) ; Bllpp. Mus. Senekenb. ii. p. 184 
 (1837); Naum. Vog. Deutschl. ix. p. 85, Taf. 222 (1838); Temm. 
 Man. d'Orn. iv. p. 374(1840); Werner, Atlas, Gralles,yl. 31; 
 Crespon, Orn. Gard, p. 383 (1840); Nordm. in Dimid. Vog. 
@@ -9558,7 +9558,7 @@ pi. 901; Buff. Hist. Nat Ois. rii. p. 372, pi. 20 (1780).
 Ardea garzetta, Linn. Syst. Nat. i. p. 237 (1766); Gm. Syst. Nat i. 
 
 p. 628 (1788); Temm. Man. W Orn. p. 368 (1815); Vieill N. 
-Diet. drMist Nat xiv. p. 405 (1817); Boux\ Orn. Brov. pi. 315 
+Diet. drMist Nat xiv. p. 405 (1817); Roux, Orn. Prov. pi. 315 
 (1825): Ball. Zoogr. Bosso-Asiat. ii. p. 122 (1811); Sykes, B. Z. S. 
 1832, p. 157; Gcmld, B. Eur. iv. pi. 277 (1837); Nawn. Fog. 
 Deutschl. ix. p. 101, Taf. 223 (1838) ; Crespon, Orn. Gard, p. 384 
@@ -17546,7 +17546,7 @@ J. f. O. 1892, p. 88 (Tunis); Meade-Waldo, Ibis, 1893, p. 198
 (Canary Is.); Sjostedt, K. Sv. Vei.-AJcad. Eandh Stockk. xxviL 
 p. 34 (1895 : Cameroons) ; id. MT. deutseh. Sehutx. viii p. 1*5 
 (1895). 
-Ardea veranii, Boux, Orn. Prov. pi. 316 (1825): Temm. Man. dfOm* 
+Ardea veranii, Roux, Orn. Prov. pi. 316 (1825): Temm. Man. dfOm* 
 
 iv. p. 379 (1840); Werner? Atlas, Gralles, pi. 8 ; Crespon, Orn. 
 Gard, p. 385 (1840). 
@@ -23989,8 +23989,8 @@ Zoogr. Bosso-Asiat. ii. p. 113 (1811); Vieill N. Bid. d'Hist. Nat.
 
 vii. p. 100 (1817); Temm. Man. oVOm. ii. p. 560 (1820); Wagl. 
 Syat., Av. Ciconia, sp. 8, p. 139 (1827); Werner, Atlas, Coureurs, 
-pi 20 (1827); Fleming, Brit Anim. p. 97 (1826); Boux, Orn. 
-JProu. pi. 324 (IhSO): Less. Trailed'Om.p. 580 (1831 ); Mentor. Cat. 
+pi 20 (1827); Fleming, Brit Anim. p. 97 (1826); Roux, Orn. 
+Prov. pi. 324 (IhSO): Less. Trailed'Om.p. 580 (1831 ); Mentor. Cat. 
 Pais. Cave. p. 50 (1832) ; Jenyns, Man. Brit. Vertebr. p. 194 
 (1835) ; Strickl P. Z. S. 1836, p. 101 (Smyrna): Gould, B. Bur. 
 iv. pi. 283 (1837) ; Naum. Tog. Beutsehl. ix. p. 231 (1638J; Bp. 

@@ -3508,7 +3508,7 @@ Zool. p. 105, pi. 105. tig. 1 (i766) ; Gm. Syst. Nat. i. p. 844 (1788).
 Hawfinch, Lath. Gen. Syn, ii. pt. i. p. 109 (1788). 
 Coccothraustes vulgaris. Pall. Zoogr. Bosso-Asiat. ii. p. 12 (1811) ; 
 
-Vieill. N Diet. dHisi. Nat. xiii. p. 519 (1817); Boux, Orn. Prov. 
+Vieill. N Diet. dHisi. Nat. xiii. p. 519 (1817); Roux, Orn. Prov. 
 pi. 76 (1825) ; Selby, Brit. B. i. p. 324 (1838); Gould, B. Eur. iii. 
 pi. 199 (1837) ; Bp. Camp. List B. Eur. <$• N. Amer. p. 30 (1838) ; 
 Keys. u. Bias. Wirb. Eur. p. xlii (1840); Selys-Longch. Faune 
@@ -12900,7 +12900,7 @@ Le Pinion, Briss. Orn. iii. p. 148 (1760) ; Daubent. PL Enl. iv. pi. 54.
 fig. 1. 
 
 Fringilla caelebs, Linn. Si/st. Nat. I. p. 318 (1766); Koch, Syst. baier. 
-Zool. p. 215 (1816); Temm. Man. cTOm. p. 359 (1820) ; Boux, 
+Zool. p. 215 (1816); Temm. Man. cTOm. p. 359 (1820) ; Roux, 
 Orn. Prov. pis. 85, 86 (1825); Naum. Vog. Deutschl. v. pi. 118 
 (1826); Werner, Atlas, Granivores, pi. 44 (1827); MCnUr. Cat. 
 Rais. Cauc. p. 42 (1832); StricJd. P. Z. S. 1836, p. 100; Gndd, B. 
@@ -18675,7 +18675,7 @@ Passer linaria, Ball. Zoogr. Bosso-Asiat ii. p. 25 (1811).
 Spinus linaria, Koch, Syst baier. Zool. p. 233 (1816). 
 Linaria borealis, Vieill. Mem. R. Accad. Sci. Torino, xxiii. So. Fis. 
 
-p. 199 (1816); Boux, Orn. Proveng. pis. 101, 102 (1825); Macgill 
+p. 199 (1816); Roux, Orn. Provenc. pis. 101, 102 (1825); Macgill 
 Brit B. i. p. 388 (1837); Doderl. Auif. Sicil. p. 84 (1869) ; Gray, 
 Hand-l. B.ii. p. 110, no. 7653 (1870); Dresser, Ibis, 1875, p. 242. 
 Linaria 
@@ -21736,7 +21736,7 @@ Fringilla githaginea, Licht. Verz. Doubl. p. 24 (1823).
 Pyrrhula payraudsei, Audouin, Expl. somm. PL Ois. Egypte. p. 286. 
 pi. 5. tig. 8 (1825). 
 
-Pyrrhula githaginea, Temm. PL Col. iii. pi. 400 (1826) ; Boux, Orn. 
+Pyrrhula githaginea, Temm. PL Col. iii. pi. 400 (1826) ; Roux, Orn. 
 Prov. p. 377, pi. 74 bis (c. 1826); Temm. 3fan. cTOrn. iii. p. 240 
 (1835) ; Werner, Atlas, Granivores, Suppl. pis. 7,8 ; BoUe, Naum. 
 1858, p. 369 ; id. Ibis, 1862, p. 346; Leith Adams, Ibis, 1864, 
@@ -23043,7 +23043,7 @@ Le Moineau de Campagne on Le Friquet, Briss. t. c. p. 82 (1760).
 Le Bouvreuil de Hamburg, Briss. t c. p. 314 (1760). 
 Fringilla montana, Linn. Si/st Nat. i. p. 324 (1760); Temm. Man. 
 
-d'Orn. i. p. 354 (1820) ; Boux, Orn. Prov. pi. 83 (1825); Naum. 
+d'Orn. i. p. 354 (1820) ; Roux, Orn. Prov. pi. 83 (1825); Naum. 
 Fog. DeutscM. iv. pi. 116.figs. 1,2 (1826) ; Werner, Atlas, Granivores, 
 pi. 42 (1827); Crespon, Orn. Gard, p. 248 (1840) ; Yarr. 
 Brit. B. i. p. 469 (1843); Kjcerb. Danm. Fugle, pi. xxvi. 
@@ -23703,7 +23703,7 @@ x2
 
 308 EB,m<JILUDJB. 
 
-ePOrn. I p. 350 (1820); Forst. Cat Brit B. p. 11 (1817); Boux, 
+ePOrn. I p. 350 (1820); Forst. Cat Brit B. p. 11 (1817); Roux, 
 Orn. Prov. pis. 80, 81, 82 (1825); Naum. Yog. DeutscM. iv. pi. 115 
 (1826) ; Werner, Atlas, Granivores, pi. 89 (1827) ; Crespon, Orn. 
 Gard, p. 244 (1840); Nordm. in Demid. Yoy. Buss. Jklerid. iii. 
@@ -24491,7 +24491,7 @@ X, /*, z/. Skeleton. England. Dr. Gunther [0.1.
 p. Skulls. Silesia. 
 4. Passer Italia. 
 Frlngilla italiae, Tieill. N. Diet. d'Hist. Nat. xii. p. 199 (1817); id. 
-Gal. Ok. i. p. 76, pi. 63 (1825); Boux, Orn. Prov. pi. 82 (1825). 
+Gal. Ok. i. p. 76, pi. 63 (1825); Roux, Orn. Prov. pi. 82 (1825). 
 
 Fringilla cisalpina, Temm. Man. dJOm. p. 351 (1820); Werner, 
 Atlasj Granimres, pi. 40 (1827 ); Crespon, Orn. Gard, p. 246 
@@ -24647,8 +24647,8 @@ d-p. <$ ad.; q-w. Eastern Narra, Dec. 1880 Hume Coll.
 ad. sk. 
 
 6. Passer Mspaniolensis. 
-Fringilla Mspaniolensis, Temm. Man. d'Orn. p. 353 (1820)• Boux, 
-Om. Prov. pi. 84 (1825); Savi, Orn. Tosc. ii. p. 10G (1829). 
+Fringilla Mspaniolensis, Temm. Man. d'Orn. p. 353 (1820)• Roux, 
+Orn. Prov. pi. 84 (1825); Savi, Orn. Tosc. ii. p. 10G (1829). 
 Fringilla cisalpina {nee Temm.), Audouin, Expl. somm. 8vo, p. 367 
 
 (1825). 
@@ -35113,7 +35113,7 @@ Loxia psittacea, Ball. Zoogr. Bosso-Asiat ii. p. 5 (1811).
 Fringilla enucleator, Meyer, Vog. Lief- u. Esthl, p. 74 (1815), 
 Strobilophaga enucleator, Vieill. N Diet. oVHist. Nat. ix. p. 609 
 
-(1817); Boux, Orn. Brovenq. pi. 72 (1825); Gray, Gen. B. ii. 
+(1817); Roux, Orn. Provenc. pi. 72 (1825); Gray, Gen. B. ii. 
 
 p. 387 (1844); Blyth, Oat. B. Mus. As. Soc. p. 123 (1849) 5 Gray, 
 List Brit B. p. 109 (1863) 5 BlaHst. $ fryer, Ibis, 1878, p. 245. 
