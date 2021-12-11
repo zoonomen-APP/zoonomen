@@ -6781,7 +6781,7 @@ Gattung EUPODOTIS Less.
 
 Eupodotis Lesson, Rey. Zool 1839, p. 47 (Typus durch nachherige Bestimmung E. arahs). 
 
- — ? Choriotis Bonaparte, Ann. Sei. Nat. Paris, 4. ser. I, p. 148 (1854 — Nomen 
+ — ? Choriotis Bonaparte, Ann. Sci. Nat. Paris, 4. ser. I, p. 148 (1854 — Nomen 
 
  nudum!); id. Compt. ßend. Acad. Paris 48, p. 416 (1856 — Typus durch nach- 
 
@@ -11519,7 +11519,7 @@ Gallicrex Blyth, Cat. B. Mus. As. Soc, p. 283 (1849— Monotyp: „Gr. cristatus
 
  — Hypnodes Reichenbach, Av. Syst. Nat., p. XXIII (1852— Monotyp: JI. 
 
- lugubris = Gr. cinerea). — ? Gallinulopha Bonaparte, Ann. Sei. Nat. (4), I, 
+ lugubris = Gr. cinerea). — ? Gallinulopha Bonaparte, Ann. Sci. Nat. (4), I, 
 
  p. 150 (1854— Nomen nudum!- Sharpe, Cat. B. Brit. M. XXIII, p. 183 zitierte 
 
@@ -11745,7 +11745,7 @@ Purpurhuhn.
 
 Fulica Porphyrio Linnaeus, Syst. Nat. Ed. X, I, p. 152 (1758— Partim! Nee imprimis!). 
 
- Fulica caerulea Vandelli, Florae et Faunae Lusit. Spec, in Mem. Academ. R. Sei. 
+ Fulica caerulea Vandelli, Florae et Faunae Lusit. Spec, in Mem. Academ. R. Sci. 
 
 
 
@@ -12164,7 +12164,7 @@ pt. 2, p. 820 (1850— Fundort unbekannt!).
 
  Gallinula Mutabilis Sundevall, Oefv. K. Vet.-Akad. Förh. 1850, p. 132 (Am Blauen Nil), 
 
- Porphyrio variegatus Guirao, ßeal Acad. Sei. Sladrid, IV, p. 554, pl. II (1856 — Murcia). 
+ Porphyrio variegatus Guirao, ßeal Acad. Sci. Sladrid, IV, p. 554, pl. II (1856 — Murcia). 
 
  Porphyrio Brehmii A. E. ßrehm, Allg. D. Naturh. Zeit. 1857, p. 481 (Murcia. Verf. 
 
@@ -18719,7 +18719,7 @@ Lebt augenscheinlich in noch höheren Lagen als T. Iiimalayoisis, indem es sich
 
 
 
-Tetraogalhis Henrici Oustalet, Ann. Sei. Nat. ser. 7, XII, p. 296, 313 (1891— Ta-tsien-lu 
+Tetraogalhis Henrici Oustalet, Ann. Sci. Nat. ser. 7, XII, p. 296, 313 (1891— Ta-tsien-lu 
 
  in Westchina). 
 
@@ -18764,7 +18764,7 @@ Wilson fand diese Vögel in Höhen von 14 — 16 000 Fuß, vereinzelt oder in
 
 
 
-Perdix altaica Gebier, Bull. Sei. Acad. Imp. Saint-Petersbourg I, p. 31 (1836 — Im 
+Perdix altaica Gebier, Bull. Sci. Acad. Imp. Saint-Petersbourg I, p. 31 (1836 — Im 
 
  Katunischen Gebirge, namentlich am Flusse Argut, Altai). 
 
@@ -24703,7 +24703,7 @@ J Im allgemeinen dunkler und brauner . . . I. kuseri und clarkei 9 • P- 1952, 
 
 
 
-Ithaginis sinensis David, Ann. Sei. Nat., 5. ser., XVIII, Art. 5, p. 1 (1873 — Schen-si). 
+Ithaginis sinensis David, Ann. Sci. Nat., 5. ser., XVIII, Art. 5, p. 1 (1873 — Schen-si). 
 
  Abbild.: David & Oustalet, Ois. Chine, Taf. 114 (nicht schön); Beebe, Mon. 
 
@@ -25459,7 +25459,7 @@ Satyra Lathami id., t. c, Taf. 51 (1830 — 32 — Keine Lokalitätsangabe).
 
 Ceriornis macrolophus Swainson, Class. B. II, p. 342 (1837 — Nach Lesson's Taf. 59 im 
 
- Dict. Sei. Nat.). 
+ Dict. Sci. Nat.). 
 
  Abbild.: Beebe, Mon. Pheas. I, Taf. YU, VIII, IX (Fig. 5); Ei: Proc. Zool. Soc. 
 
@@ -27452,7 +27452,7 @@ Die Eier gleichen denen von P. m. macrolopha. 20 Eier messen nach Baker,
 
 
 
-Satyra macrolopha Lessou, Dict. Sei. \at. LIX, p. 196 (1829 — „Bengale". Fundort 
+Satyra macrolopha Lessou, Dict. Sci. \at. LIX, p. 196 (1829 — „Bengale". Fundort 
 
  also unbestimmt, denn in Bengalen kommt keine Pucrasia vor). 
 
@@ -37750,7 +37750,7 @@ Westdeutsche und nordfranzösische Girlitze unterscheiden sich von solchen
 
 Synonym von S. c. serinus dürfte sein Serinus canarius polonicus Domaniewski, 
 
- Compt. Kend. Soc. Sei. Varsovic X, p. 995, 1000 (1917— Polen, Typus: Warschau). — 
+ Compt. Kend. Soc. Sci. Varsovie X, p. 995, 1000 (1917— Polen, Typus: Warschau). — 
 
  Brust, Kropf und Stirn sollen goldgelb anstatt gelb sein! Es ist zu beachten, daß 
 
@@ -37774,7 +37774,7 @@ P. 84.
 
 Synonym von Serinus canaria canaria (so zu schreiben, Hauptwort!) ist: 
 
- Carduelis canariensis Duraont, Dict. Sei. Nat., Ed. Levrault XXVI, p. 548 (1823). 
+ Carduelis canariensis Duraont, Dict. Sci. Nat., Ed. Levrault XXVI, p. 548 (1823). 
 
 
 
@@ -38899,7 +38899,7 @@ Dresser beschreibt die Eier von M. taczanoioskii im Ibis 1906, p. 341. Sie sind
 
 
 
-Eurhinospiza Henrici Oustalet, Ann. Sei. Nat., Zool., 7. ser., XII, p. 293, Taf. XI, 1891, 
+Eurhinospiza Henrici Oustalet, Ann. Sci. Nat., Zool., 7. ser., XII, p. 293, Taf. XI, 1891, 
 
  (Plateau von Tibet). 
 
@@ -39706,7 +39706,7 @@ Nach dem Autor Schnabel viel größer als bei dilutus. (Mir nicht bekannt.)
 
 
 
-Fasser montanus dyboicskii Domaniewski, Comp. rend. Soc. Sei. Varsovie VIII fasc. 7, 
+Fasser montanus dyboicskii Domaniewski, Comp. rend. Soc. Sci. Varsovie VIII fasc. 7, 
 
  p. 562, 566 (1915 — Ussuri und Korea). 
 
@@ -41758,7 +41758,7 @@ G. cristata halfae Nicoll (Bull. B. 0. Club XLII, Okt., 1921): Bei
 
 G. cristata altirostris Brehm : (Synonym : G. c. nuhica Bianchi, Bull. Ac. 
 
- Sei. Petersb. XXV, p. 69, 1906; Nov. Zoof. 1919, p. 37). Südlich von Wadi- 
+ Sci. Petersb. XXV, p. 69, 1906; Nov. Zoof. 1919, p. 37). Südlich von Wadi- 
 
  Halfa und nördlich des Atbara, am sog. Dongolabogen. Noch heller, viel 
 
@@ -43322,7 +43322,7 @@ Drei Exemplare, eins mit schwafzen Schultern, eins mit wenigen, ein
 
 
 
-Motacilla alba Intermedia Domaniewski, Travaux Soc. Sei. Var- 
+Motacilla alba Intermedia Domaniewski, Travaux Soc. Sci. Var- 
 
  sovie, III GL, Nr. 18, p. .55 (polnisch), 143 (deutsch). — Nach dem Autor 
 
@@ -43361,7 +43361,7 @@ Motacilla aguimp Dumont.
 
 
 
-Motacüla aguimp Dumont, Dict. Sei. Nat., Ed. Levrault XXI, p. 266 (1821 — Südafrika, 
+Motacüla aguimp Dumont, Dict. Sci. Nat., Ed. Levrault XXI, p. 266 (1821 — Südafrika, 
 
 
 
@@ -43477,7 +43477,7 @@ Zu dieser Gruppe gehören außer Z. palpebrosa palpebrosa und nahen Subspezies
 
 
 
-- Zu vergleichen ist „Zosterops Mussoti'* Oustalet, Ann. Sei. Nat., 
+- Zu vergleichen ist „Zosterops Mussoti'* Oustalet, Ann. Sci. Nat., 
 
  Zool. XII, 19, p. 289, 1891, auch aus Szetschwan, den ich für Subspezies 
 
@@ -43851,7 +43851,7 @@ Die individuelle Variation der Kleiber in der Färbung ist größer, als
 
 Mit den polnischen Kleibern und Verwandten beschäftigte sich neuer- 
 
- dings Domaniewski in drei Arbeiten: 1. Warschau, Compt. Kend. Soc. Sei. 
+ dings Domaniewski in drei Arbeiten: 1. Warschau, Compt. Kend. Soc. Sci. 
 
  1913, p. 1042. 2. Mess. Orn. (Orn. Mitt.) 1915, p. 142 {Süta nirojmea 
 
@@ -46109,7 +46109,7 @@ vorderen Teile schwarz gestreift. Kinn und Kehle in der Mitte silberig weiß,
 
 
 
-Acredula Bonvaloti Oustalet, Ann. Sei. Nat. Zool. (7), XII, p. 286, Taf, 9, Fig. 1 (1891— 
+Acredula Bonvaloti Oustalet, Ann. Sci. Nat. Zool. (7), XII, p. 286, Taf, 9, Fig. 1 (1891— 
 
  Ta-tsien-lu und Fendjama in Szetschwan). 
 
@@ -56277,7 +56277,7 @@ Soll eine Übergangsform vom westsibirischen Lerchenfalken zu jakuteiisis
 
 
 
-Falco subbuteo ussuriensis Domauiewski, Compt. Kend. Soc. Sei. Varsovie X, p. 260, 267 
+Falco subbuteo ussuriensis Domauiewski, Compt. Kend. Soc. Sci. Varsovie X, p. 260, 267 
 
  (1917— Sidenai). 
 
@@ -56398,7 +56398,7 @@ Den Synonymen von C. n. naumanni ist hinzuzufügen : }
 
 
 
-Cerchneis naumanni sarmaticus Domaniewski, Compt. Rend. Soc. Sei. Varsovie X, 
+Cerchneis naumanni sarmaticus Domaniewski, Compt. Rend. Soc. Sci. Varsovie X, 
 
  fasc. 9, p. 1046 (1917— Lublin). 
 
@@ -56500,7 +56500,7 @@ Falco maculatus Gmelin 1788 wird durch Falco niacidatus Tunstall
 
  1771 vorweggenommen, der ein Pernis ajnvoms ist! Aquila fmca Brehm 
 
- 1823 ist durch Aquila fusca Dumont, Dict. Sei. Nat. (Ed. Levrault) I, p. 344, 
+ 1823 ist durch Aquila fusca Dumont, Dict. Sci. Nat. (Ed. Levrault) I, p. 344, 
 
  1804 (wahrscheinlich = A. chrysaetos) präokkupiert. Der nächst alte Name 
 
