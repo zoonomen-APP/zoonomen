@@ -46306,7 +46306,7 @@ p. 128 (1877J; Saluad. Om.Papuas.l p. 531 (1880) ; Xorth, Nests
 $ JSggs Anstr. B. pi. xi. fig. 2 (1890). 
 Caprimulgus albogularis, Schley, (nee Vig. 4* Hor&fJ) Xed, Tijd&ehr. 
 Dierh iii. p. 340 (1866; Aru). 
-Capriuiiilgus argus, Mosenb. Reis naar Zuidoostereil. p. 37 (descr. 
+Caprimulgus argus, Mosenb. Reis naar Zuidoostereil. p. 37 (descr. 
 nulla) (1867; Aru). 
 Caprimulgus guttatus, TMenem. Fortpfl. yes. Yog. pi. xlii. fig, 21 
 (18541: Koeniy-Warth J.f. 0.1868, p. 377 (nidification f. 
@@ -46760,7 +46760,7 @@ p. 109 (1881) ; Cory, B. Bahamas, p. 106 (1880); id. B. Haiti 8r
 S. Domingo, p. 85 (1885); id. Auk, 1886, p. 340; id. B. W. Ind. 
 p. 135 (1889). 
 Caprimulgus minor, Koenig- Warth. J. f. O. 1868, p. 375. 
-CAPEIMTJLGID^!. 
+CAPRIMULGIDAE 
 
 Chordeiies popetue, var. minor, Baird, Brew. $ Bidgw. h. Am. B. 
 
@@ -55330,7 +55330,7 @@ minimus (Trochilus),
 409. 
 minimus variegatus (Polytmus), 
 409. 
-minor (Oapriinulgus), 
+minor (Caprimulgus), 
 
 614. 
 minor (Chordeiles), 613. 
